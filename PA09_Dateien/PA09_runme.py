@@ -15,6 +15,21 @@ import os
 """
 def fft(x):
     n = len(x)
+    if n == 1:
+        return x
+    omega = exp(2*j * pi / n)
+    x_even = FFT(x[0::2])
+    x_odd = FFT(x[1::2])
+    y_e = FFT(x_even)
+    y_o = FFT(x_odd)
+    y = [0] * n
+    for k in range(n // 2):
+        y[k] = y_e[k] + omega ** k * y_o[k]
+        y[k + n // 2] = y_e[k] - omega ** k * y_o[k]
+    return y
+
+def fft(x):
+    n = len(x)
     if n <= 1:
         return x
 
@@ -75,13 +90,6 @@ def fft(x):
 # Definition of FFT2 (2D Fast Fourier Transform)
 
  # Write your code here
-"""
-def fft2(matrix):
-    for row in matrix:
-        row = fft(row)
-    for line in matrix.T:
-        line = fft(line)
-        """
 def fft2(matrix):
     # Transformiere jede Reihe
     matrix = np.array([fft(row) for row in matrix])
@@ -89,7 +97,8 @@ def fft2(matrix):
     matrix = np.array([fft(column) for column in matrix.T]).T
     return matrix
 
-
+# Der Error in meinem  System war: "This probably means that Tcl wasn't installed properly."
+# Ich konnte die  Ursache nicht finden. Wodurch ich meinen Code nicht debuggen konnte. 
 
 ###########################################################################################################
  
