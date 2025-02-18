@@ -1,0 +1,677 @@
+﻿1
+00:00:03,950 --> 00:00:06,090
+Hello, my name is Joshua and I 
+
+2
+00:00:06,090 --> 00:00:07,210
+am a tutor 
+
+3
+00:00:07,210 --> 00:00:09,150
+at Schülerhilfe. Today I 
+
+4
+00:00:09,150 --> 00:00:10,950
+would like to explain something to you 
+about nutrition and 
+
+5
+00:00:10,950 --> 00:00:13,250
+enzymes. 
+
+6
+00:00:13,250 --> 00:00:15,270
+There are countless 
+
+7
+00:00:15,270 --> 00:00:16,750
+different biochemical 
+
+8
+00:00:16,750 --> 00:00:18,770
+processes going on in our body at any 
+given time . Most of these 
+
+9
+00:00:18,770 --> 00:00:20,230
+processes involve the 
+
+10
+00:00:20,230 --> 00:00:22,070
+conversion of one molecule into 
+
+11
+00:00:22,070 --> 00:00:24,090
+another. A prominent example 
+
+12
+00:00:24,090 --> 00:00:25,790
+of this is the stomach. 
+
+13
+00:00:25,790 --> 00:00:27,090
+
+14
+00:00:27,090 --> 00:00:29,190
+Enzymes are a core component of these 
+conversion processes. 
+
+15
+00:00:29,190 --> 00:00:31,470
+Enzymes are proteins and therefore 
+
+16
+00:00:31,470 --> 00:00:34,170
+organic macromolecules. Their name 
+
+17
+00:00:34,170 --> 00:00:36,750
+usually ends with the syllable "-ase", 
+
+18
+00:00:36,750 --> 00:00:41,170
+for example in transferase. Enzymes 
+
+19
+00:00:41,170 --> 00:00:43,290
+have a so-called active 
+
+20
+00:00:43,290 --> 00:00:45,370
+center to which the substrate, 
+
+21
+00:00:45,390 --> 00:00:47,210
+i.e. the substance to be converted, 
+
+22
+00:00:47,230 --> 00:00:50,030
+is bound. It is important to know 
+
+23
+00:00:50,150 --> 00:00:52,610
+that enzymes are very specific, i.e. 
+
+24
+00:00:52,610 --> 00:00:55,970
+substrate-specific. 
+
+25
+00:00:55,970 --> 00:00:58,170
+This means that they only bind a specific 
+
+26
+00:00:58,170 --> 00:01:00,810
+substrate to their active center. This 
+
+27
+00:01:00,810 --> 00:01:02,270
+works according to the 
+
+28
+00:01:02,270 --> 00:01:04,250
+ lock-and-key principle. Only certain 
+
+29
+00:01:04,250 --> 00:01:05,790
+substances fit into a certain 
+
+30
+00:01:05,790 --> 00:01:08,610
+protein and vice versa. The function 
+
+31
+00:01:08,610 --> 00:01:10,630
+of enzymes is diverse and 
+
+32
+00:01:10,630 --> 00:01:12,630
+depends on the process in which they 
+
+33
+00:01:12,630 --> 00:01:15,010
+are involved. As an example, 
+
+34
+00:01:15,010 --> 00:01:16,390
+let's take a 
+
+35
+00:01:16,390 --> 00:01:19,330
+
+36
+00:01:19,330 --> 00:01:21,590
+closer look at the function of enzymes in 
+the stomach, blood and saliva . 
+
+37
+00:01:21,590 --> 00:01:25,230
+The enzyme pepsin is mainly found in the 
+stomach. The 
+
+38
+00:01:25,230 --> 00:01:27,130
+precursor pepsinogen 
+
+39
+00:01:27,130 --> 00:01:29,250
+is produced by the gastric mucosa. On 
+
+40
+00:01:29,250 --> 00:01:31,410
+contact with the low pH value of 
+
+41
+00:01:31,410 --> 00:01:33,470
+stomach acid, pepsinogen is converted into 
+
+42
+00:01:33,470 --> 00:01:36,290
+pepsin. This 
+
+43
+00:01:36,290 --> 00:01:37,770
+prevents pepsin 
+
+44
+00:01:37,770 --> 00:01:39,570
+from becoming active in the body and 
+
+45
+00:01:39,570 --> 00:01:41,590
+digesting its own cells in an uncontrolled 
+manner. 
+
+46
+00:01:42,390 --> 00:01:44,270
+Pepsin breaks down proteins into 
+
+47
+00:01:44,270 --> 00:01:46,510
+amino acids. It requires 
+
+48
+00:01:46,510 --> 00:01:48,630
+chloride as a cofactor. This means 
+
+49
+00:01:48,710 --> 00:01:50,670
+that both substances, pepsin and chloride, 
+
+50
+00:01:50,670 --> 00:01:52,350
+must be present for the 
+
+51
+00:01:52,350 --> 00:01:55,030
+reaction to take place. 
+
+52
+00:01:55,030 --> 00:01:57,090
+Next, let's take a look at enzymes in the 
+blood. 
+
+53
+00:01:57,450 --> 00:01:59,070
+Enzymes can be 
+
+54
+00:01:59,070 --> 00:02:00,490
+
+55
+00:02:00,490 --> 00:02:02,730
+present in the blood for two different 
+reasons. Firstly, many 
+
+56
+00:02:02,730 --> 00:02:04,750
+enzymes are transported through the blood 
+
+57
+00:02:04,750 --> 00:02:06,730
+and secondly, some 
+
+58
+00:02:06,730 --> 00:02:09,750
+enzymes work in the blood. The 
+
+59
+00:02:09,750 --> 00:02:11,790
+enzymes active in the blood are involved 
+in blood clotting and 
+
+60
+00:02:11,790 --> 00:02:13,710
+fat and cholesterol metabolism 
+
+61
+00:02:13,710 --> 00:02:17,530
+. On to the mouth. 
+
+62
+00:02:17,530 --> 00:02:20,510
+
+63
+00:02:20,510 --> 00:02:22,790
+The body produces around 1 to 1.5 liters 
+of saliva every day . Saliva 
+
+64
+00:02:22,790 --> 00:02:25,610
+contains the enzyme amylase. This 
+
+65
+00:02:25,610 --> 00:02:27,410
+breaks down polysaccharides into 
+
+66
+00:02:27,410 --> 00:02:30,410
+monosaccharide molecules, i.e. glucose. 
+
+67
+00:02:31,270 --> 00:02:33,110
+This means that the first step of 
+
+68
+00:02:33,110 --> 00:02:34,550
+digestion 
+
+69
+00:02:34,550 --> 00:02:37,010
+takes place in the mouth. We can see that 
+enzymes 
+
+70
+00:02:37,010 --> 00:02:38,470
+
+71
+00:02:38,470 --> 00:02:40,090
+can fulfill various functions. In addition 
+to those already 
+
+72
+00:02:40,090 --> 00:02:42,230
+described, enzymes can 
+
+73
+00:02:42,230 --> 00:02:44,970
+act as biocatalysts, i.e. 
+
+74
+00:02:45,150 --> 00:02:46,850
+they accelerate a certain 
+
+75
+00:02:46,850 --> 00:02:49,310
+chemical reaction in the body by 
+
+76
+00:02:49,310 --> 00:02:51,110
+
+77
+00:02:51,110 --> 00:02:52,790
+
+78
+00:02:52,790 --> 00:02:55,310
+reducing the activation energy of a 
+certain chemical process . The special 
+thing about 
+
+79
+00:02:55,310 --> 00:02:57,150
+enzymes is that 
+
+80
+00:02:57,150 --> 00:02:59,270
+
+81
+00:02:59,270 --> 00:03:00,890
+they emerge unchanged from the catalyzed 
+reactions and 
+
+82
+00:03:00,890 --> 00:03:03,810
+are immediately ready for use again. 
+Enzymes are 
+
+83
+00:03:03,810 --> 00:03:05,270
+
+84
+00:03:05,270 --> 00:03:07,010
+named differently depending on their 
+function. The 
+
+85
+00:03:07,010 --> 00:03:10,230
+main functional groups are 
+oxido-reductases, 
+
+86
+00:03:10,330 --> 00:03:13,750
+transferases, hydrolases, lyases 
+
+87
+00:03:13,890 --> 00:03:17,850
+, isomerases and ligases. Now that we 
+
+88
+00:03:17,850 --> 00:03:19,550
+
+89
+00:03:19,550 --> 00:03:21,430
+have taken a closer look at some of the 
+functions of enzymes 
+
+90
+00:03:21,430 --> 00:03:22,550
+, the next step is to look at the 
+
+91
+00:03:22,550 --> 00:03:24,230
+different types of enzymes. 
+
+92
+00:03:24,230 --> 00:03:26,890
+We have already learned from pepsin 
+
+93
+00:03:26,990 --> 00:03:29,070
+that there are enzymes that only 
+
+94
+00:03:29,070 --> 00:03:30,830
+
+95
+00:03:30,830 --> 00:03:33,030
+function in the presence of a cofactor . 
+On the other hand, there are also 
+
+96
+00:03:33,030 --> 00:03:35,670
+enzymes that work without a cofactor 
+
+97
+00:03:35,670 --> 00:03:37,450
+. These enzymes 
+
+98
+00:03:37,450 --> 00:03:40,290
+are called protein enzymes. In addition to 
+the 
+
+99
+00:03:40,290 --> 00:03:42,310
+presence of a coenzyme 
+
+100
+00:03:42,310 --> 00:03:43,970
+, there are other factors that 
+
+101
+00:03:43,970 --> 00:03:46,670
+influence enzyme activity. 
+
+102
+00:03:46,670 --> 00:03:48,910
+These include the temperature, the 
+
+103
+00:03:48,910 --> 00:03:51,410
+substrate concentration, i.e. how much 
+
+104
+00:03:51,410 --> 00:03:53,490
+of the substance to be converted 
+
+105
+00:03:53,490 --> 00:03:56,590
+is present, the pH value and the presence 
+
+106
+00:03:56,590 --> 00:03:59,410
+of toxins. The RGT 
+
+107
+00:03:59,410 --> 00:04:00,950
+ rule, i.e. the 
+
+108
+00:04:00,950 --> 00:04:02,310
+reaction 
+
+109
+00:04:02,310 --> 00:04:04,710
+rate-temperature rule, is also important. 
+
+110
+00:04:04,790 --> 00:04:07,190
+According to this rule, 
+
+111
+00:04:07,190 --> 00:04:08,990
+the reaction rate doubles to triples 
+
+112
+00:04:08,990 --> 00:04:11,230
+when the temperature is increased by 10 
+degrees. 
+
+113
+00:04:11,230 --> 00:04:13,850
+Other factors influencing 
+
+114
+00:04:13,850 --> 00:04:16,010
+enzyme activity are competitive 
+
+115
+00:04:16,010 --> 00:04:19,590
+and allosteric inhibition. In 
+
+116
+00:04:19,590 --> 00:04:21,410
+allosteric inhibition, the 
+
+117
+00:04:21,410 --> 00:04:23,170
+inhibitor binds to the allosteric 
+
+118
+00:04:23,170 --> 00:04:25,650
+center of the enzyme. This reduces the 
+
+119
+00:04:25,650 --> 00:04:27,550
+efficiency of the enzyme. 
+
+120
+00:04:28,090 --> 00:04:29,730
+Incidentally, in addition to 
+
+121
+00:04:29,730 --> 00:04:31,330
+allosteric inhibition, there is also 
+
+122
+00:04:31,330 --> 00:04:33,650
+competitive inhibition. In this case, 
+
+123
+00:04:33,650 --> 00:04:35,690
+
+124
+00:04:35,690 --> 00:04:37,850
+the active center is 
+
+125
+00:04:37,850 --> 00:04:40,210
+blocked by a substance that is chemically 
+similar to the target substrate. This 
+creates an 
+
+126
+00:04:40,210 --> 00:04:42,550
+enzyme inhibitor complex as opposed 
+
+127
+00:04:42,550 --> 00:04:45,750
+to an enzyme substrate complex. As a 
+result, 
+
+128
+00:04:45,750 --> 00:04:47,550
+the enzyme changes its structure. 
+
+129
+00:04:48,070 --> 00:04:50,010
+More precisely, it is a 
+
+130
+00:04:50,010 --> 00:04:51,750
+change in the three-dimensional 
+
+131
+00:04:51,750 --> 00:04:54,450
+structure of the enzyme. As a result, 
+
+132
+00:04:54,450 --> 00:04:56,370
+the substrate no longer fits the active 
+
+133
+00:04:56,370 --> 00:04:58,290
+center of the enzyme and therefore 
+
+134
+00:04:58,290 --> 00:05:00,770
+cannot be converted. Depending on the 
+
+135
+00:05:00,770 --> 00:05:02,710
+quantity ratio, the conversion of the 
+
+136
+00:05:02,710 --> 00:05:04,570
+actual target substrate can 
+
+137
+00:05:04,570 --> 00:05:06,430
+be slowed down or even prevented. 
+
+138
+00:05:06,750 --> 00:05:08,890
+However, by increasing the 
+
+139
+00:05:08,890 --> 00:05:10,610
+substrate concentration, the 
+
+140
+00:05:10,610 --> 00:05:12,390
+competitive inhibition can be reversed 
+
+141
+00:05:12,390 --> 00:05:14,070
+, as the enzyme 
+
+142
+00:05:14,070 --> 00:05:17,330
+is more likely to encounter a substrate 
+molecule than 
+
+143
+00:05:17,330 --> 00:05:19,330
+an inhibitor. 
+
+144
+00:05:19,990 --> 00:05:21,790
+
+145
+00:05:21,790 --> 00:05:23,850
+In addition, bound inhibitors can 
+
+146
+00:05:23,850 --> 00:05:26,230
+be displaced from the active site, making 
+
+147
+00:05:26,230 --> 00:05:27,690
+competitive inhibition a 
+
+148
+00:05:27,690 --> 00:05:30,110
+reversible inhibition . Inhibition. 
+
+149
+00:05:30,110 --> 00:05:32,530
+The function of enzymes 
+
+150
+00:05:32,530 --> 00:05:33,370
+
+151
+00:05:33,370 --> 00:05:35,050
+is vital for human survival and they 
+
+152
+00:05:35,050 --> 00:05:37,390
+perform many important tasks in the 
+
+153
+00:05:37,390 --> 00:05:39,710
+human organism . The problem, however, is 
+that 
+
+154
+00:05:39,810 --> 00:05:41,450
+enzymes are only 
+
+155
+00:05:41,450 --> 00:05:43,750
+heat-resistant to a limited extent ; at 
+temperatures above 40 degrees 
+
+156
+00:05:43,750 --> 00:05:46,890
+they break down and denature. This 
+
+157
+00:05:46,890 --> 00:05:48,830
+is also one of the reasons why we 
+
+158
+00:05:48,830 --> 00:05:50,730
+can die from a very high fever. 
+
+159
+00:05:51,010 --> 00:05:53,290
+I hope that you now know more about 
+
+160
+00:05:53,290 --> 00:05:55,210
+enzymes. However, if you 
+
+161
+00:05:55,210 --> 00:05:56,310
+have any further questions, 
+
+162
+00:05:56,450 --> 00:05:58,450
+you are welcome to register with our 
+
+163
+00:05:58,450 --> 00:06:00,730
+online learning center or 
+
+164
+00:06:00,730 --> 00:06:02,790
+
+165
+00:06:02,790 --> 00:06:05,010
+get the information directly from a local 
+student help center. See you 
+
+166
+00:06:05,010 --> 00:06:05,530
+next time. 

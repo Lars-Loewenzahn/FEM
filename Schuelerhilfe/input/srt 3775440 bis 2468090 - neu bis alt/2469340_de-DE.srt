@@ -1,0 +1,2580 @@
+1
+00:00:02,900 --> 00:00:04,320
+Hallo, herzlich willkommen zu einem
+
+2
+00:00:04,320 --> 00:00:06,020
+weiteren Webinar in Mathematik,
+
+3
+00:00:06,020 --> 00:00:08,260
+diesmal zum Thema Geometrie, ganz
+
+4
+00:00:08,260 --> 00:00:10,560
+besonders die Anfänge der Geometrie
+
+5
+00:00:10,560 --> 00:00:12,120
+und dann zwei, drei Besonderheiten,
+
+6
+00:00:12,120 --> 00:00:14,480
+die in der Klasse 7 dazukommen. Mein
+
+7
+00:00:14,480 --> 00:00:15,960
+Name ist Katharina Maxisch und ich
+
+8
+00:00:15,960 --> 00:00:17,360
+bin seit etwas mehr als einem Jahr
+
+9
+00:00:17,360 --> 00:00:19,660
+bei der Schülerhilfe tätig. Ich sehe
+
+10
+00:00:19,660 --> 00:00:21,580
+einen Teilnehmer, ich kenne leider
+
+11
+00:00:21,580 --> 00:00:23,340
+den Namen nicht, es scheint mir nicht
+
+12
+00:00:23,340 --> 00:00:24,700
+ein richtiger Name zu sein und deine
+
+13
+00:00:24,700 --> 00:00:26,100
+Frage ist, wie lange das Webinar
+
+14
+00:00:26,100 --> 00:00:28,380
+dauert. Das dauert meistens
+
+15
+00:00:28,380 --> 00:00:30,660
+allerhöchstens 20 Minuten, meistens
+
+16
+00:00:30,660 --> 00:00:31,960
+auch ein bisschen weniger. Und danach
+
+17
+00:00:31,960 --> 00:00:34,020
+hast du noch ausgiebig Zeit, 20
+
+18
+00:00:34,020 --> 00:00:36,520
+Minuten etwa oder auch mehr, um
+
+19
+00:00:36,520 --> 00:00:38,140
+Fragen zu stellen, falls du da noch
+
+20
+00:00:38,140 --> 00:00:40,120
+Nachfragen hast. Ist das so in
+
+21
+00:00:40,120 --> 00:00:41,640
+Ordnung für dich? Ah ja, alles klar.
+
+22
+00:00:41,980 --> 00:00:43,280
+Gut, dann fangen wir doch mal direkt
+
+23
+00:00:43,280 --> 00:00:45,020
+an. Bevor ich anfange, aber noch ein
+
+24
+00:00:45,020 --> 00:00:47,000
+kleiner Hinweis. Nicht wundern, da
+
+25
+00:00:47,000 --> 00:00:49,920
+wird es gerade bei den letzten Folien
+
+26
+00:00:49,920 --> 00:00:51,300
+wird es da sehr, sehr viele Linien
+
+27
+00:00:51,300 --> 00:00:52,760
+und Striche geben, die einen
+
+28
+00:00:52,760 --> 00:00:53,760
+verwirren können. Ich werde da
+
+29
+00:00:53,760 --> 00:00:55,260
+versuchen, ganz langsam durchzugehen.
+
+30
+00:00:55,300 --> 00:00:56,240
+Alle diese Linien sind aber
+
+31
+00:00:56,240 --> 00:00:58,100
+notwendig. Du wirst gleich sehen, was
+
+32
+00:00:58,100 --> 00:01:02,180
+ich meine. Also nicht wundern. So,
+
+33
+00:01:02,180 --> 00:01:03,680
+wir gucken uns gleich erstmal
+
+34
+00:01:03,680 --> 00:01:05,200
+bestimmte Linien an, Geraden,
+
+35
+00:01:05,200 --> 00:01:06,560
+Strecken und Strahlen und was die
+
+36
+00:01:06,560 --> 00:01:08,840
+unterscheidet. Dann gucken wir uns
+
+37
+00:01:08,840 --> 00:01:10,580
+Winkel an. Auf der einen Seite, wie
+
+38
+00:01:10,580 --> 00:01:12,180
+man sie misst und auf der anderen
+
+39
+00:01:12,180 --> 00:01:13,760
+Seite, wie man sie selbst zeichnet.
+
+40
+00:01:13,920 --> 00:01:15,300
+Und dann kommen wir zu den beiden
+
+41
+00:01:15,300 --> 00:01:18,020
+Konstrukten, die quasi, meine ich, in
+
+42
+00:01:18,020 --> 00:01:19,360
+der siebten Klasse neu dazukommen,
+
+43
+00:01:19,400 --> 00:01:20,600
+nämlich Mittelsenkrechte und
+
+44
+00:01:20,600 --> 00:01:21,400
+Winkelhalter.
+
+45
+00:01:25,120 --> 00:01:27,020
+So, kommen wir zu den besonderen
+
+46
+00:01:27,020 --> 00:01:28,460
+Linien. Ich denke, das wirst du
+
+47
+00:01:28,460 --> 00:01:30,280
+wahrscheinlich schon kennen, denke
+
+48
+00:01:30,280 --> 00:01:34,260
+ich mal. Wir haben eine sogenannte
+
+49
+00:01:34,260 --> 00:01:36,840
+Strecke, die hat einen Anfang und ein
+
+50
+00:01:36,840 --> 00:01:39,260
+Ende. Wir haben zum Beispiel Punkt A
+
+51
+00:01:39,260 --> 00:01:41,120
+und Punkt B und diese Linie ist genau
+
+52
+00:01:41,120 --> 00:01:42,680
+dazwischen, beschränkt durch diese
+
+53
+00:01:42,680 --> 00:01:44,700
+beiden Endpunkte. Und geschrieben
+
+54
+00:01:44,700 --> 00:01:46,940
+wird das oft mit AB und einem Strich
+
+55
+00:01:46,940 --> 00:01:50,240
+darüber. Das bedeutet Strecke. Dann
+
+56
+00:01:50,240 --> 00:01:52,580
+haben wir den Strahl, beziehungsweise
+
+57
+00:01:52,580 --> 00:01:53,760
+in manchen Büchern wird das auch
+
+58
+00:01:53,760 --> 00:01:56,600
+Halbgerade genannt. Die hat einen
+
+59
+00:01:56,600 --> 00:01:58,980
+Anfangspunkt, zum Beispiel A, aber
+
+60
+00:01:58,980 --> 00:02:00,340
+sie hat keinen Endpunkt. Das heißt,
+
+61
+00:02:00,420 --> 00:02:02,100
+sie ist unendlich lang. Du kannst dir
+
+62
+00:02:02,100 --> 00:02:03,640
+das vorstellen wie eine Lampe, die
+
+63
+00:02:03,640 --> 00:02:05,440
+sozusagen einen Strahl in die
+
+64
+00:02:05,440 --> 00:02:07,320
+Unendlichkeit schießt. Also hier
+
+65
+00:02:07,320 --> 00:02:08,540
+hätten wir sozusagen die Lampe bei A
+
+66
+00:02:08,540 --> 00:02:09,740
+und der Strahl geht dann sozusagen
+
+67
+00:02:09,740 --> 00:02:12,460
+unendlich weit. Dann haben wir noch
+
+68
+00:02:12,460 --> 00:02:13,840
+die Gerade. Das ist dann sozusagen
+
+69
+00:02:13,840 --> 00:02:15,920
+die dritte Form. Die hat weder Anfang
+
+70
+00:02:15,920 --> 00:02:17,620
+noch Endpunkt. Sie kann zwar durch
+
+71
+00:02:17,620 --> 00:02:20,400
+zwei Punkte gehen, definitiv, aber
+
+72
+00:02:20,400 --> 00:02:22,240
+sie geht immer darüber hinaus. Also
+
+73
+00:02:22,240 --> 00:02:24,980
+unendlich lang ist das. Du
+
+74
+00:02:29,980 --> 00:02:31,540
+kannst gerne schreiben. Also da wir
+
+75
+00:02:31,540 --> 00:02:32,460
+jetzt nur zu zweit sind,
+
+76
+00:02:32,480 --> 00:02:34,560
+normalerweise beantworte ich Fragen
+
+77
+00:02:34,560 --> 00:02:36,020
+immer am Ende, wenn viele Teilnehmer
+
+78
+00:02:36,020 --> 00:02:37,860
+da sind, einfach weil das praktischer
+
+79
+00:02:37,860 --> 00:02:39,120
+ist. Aber wenn wir zu zweit sind,
+
+80
+00:02:39,220 --> 00:02:40,760
+kann ich ja mal wirklich gucken, dass
+
+81
+00:02:40,760 --> 00:02:42,140
+ich auf den Chat achte. Das sehe ich
+
+82
+00:02:42,140 --> 00:02:43,360
+ja sofort, wenn du etwas schreibst.
+
+83
+00:02:43,440 --> 00:02:45,120
+Und dann kannst du Fragen sehr, sehr
+
+84
+00:02:45,120 --> 00:02:46,120
+gerne auch zwischendurch schon
+
+85
+00:02:46,120 --> 00:02:47,300
+stellen. Das können wir, glaube ich,
+
+86
+00:02:47,300 --> 00:02:48,300
+zu zweit sehr, sehr gerne machen.
+
+87
+00:02:59,320 --> 00:03:00,880
+Okay, genau, das sind ja auch die
+
+88
+00:03:00,880 --> 00:03:02,040
+Anfänge, die hat man wahrscheinlich
+
+89
+00:03:02,040 --> 00:03:03,280
+schon in der fünften Klasse zumindest
+
+90
+00:03:03,280 --> 00:03:05,900
+da zum ersten Mal gehört. Dann machen
+
+91
+00:03:05,900 --> 00:03:09,300
+wir doch mal weiter. So, gucken wir
+
+92
+00:03:09,300 --> 00:03:10,300
+mal, wie man beispielsweise eine
+
+93
+00:03:10,300 --> 00:03:11,680
+Strecke zeichnet. Ich denke, das wird
+
+94
+00:03:11,680 --> 00:03:12,800
+für dich auch nicht überraschend
+
+95
+00:03:12,800 --> 00:03:14,320
+sein, wobei, da muss ich nochmal kurz
+
+96
+00:03:14,320 --> 00:03:15,620
+nachfragen, Ich weiß ja nicht, in
+
+97
+00:03:15,620 --> 00:03:16,540
+welcher Klasse du bist. Habt ihr
+
+98
+00:03:16,540 --> 00:03:18,320
+schon Koordinatensysteme gezeichnet
+
+99
+00:03:18,320 --> 00:03:20,760
+und Punkte eingetragen bzw. auch
+
+100
+00:03:20,760 --> 00:03:21,460
+abgelesen?
+
+101
+00:03:26,260 --> 00:03:27,740
+Alles klar, ja gut. In der siebten,
+
+102
+00:03:27,740 --> 00:03:29,160
+dann kennst du das ja ganz bestimmt.
+
+103
+00:03:29,440 --> 00:03:30,580
+Hier haben wir beispielsweise ein
+
+104
+00:03:30,580 --> 00:03:32,260
+Koordinatensystem und die Punkte A
+
+105
+00:03:32,260 --> 00:03:35,180
+und den Punkt B eingetragen.
+
+106
+00:03:35,220 --> 00:03:36,580
+Entschuldigung, Punkt A und Punkt B
+
+107
+00:03:36,580 --> 00:03:38,200
+eingetragen. Punkt A, wie du sehen
+
+108
+00:03:38,200 --> 00:03:40,520
+kannst, ist bei 1, 2, also 1 auf der
+
+109
+00:03:40,520 --> 00:03:43,540
+x-Achse, 2 auf der y-Achse. Punkt B
+
+110
+00:03:43,540 --> 00:03:51,540
+ist 4, 3, also 4 auf der x-Achse und
+
+111
+00:03:51,540 --> 00:03:54,580
+1, 2, 3 auf der y-Achse. Und dann
+
+112
+00:03:54,580 --> 00:03:56,240
+geht man einfach mit dem Geodreieck
+
+113
+00:03:56,240 --> 00:03:58,040
+hin und verbindet ganz einfach diese
+
+114
+00:03:58,040 --> 00:03:59,520
+Punkte miteinander. Nicht darüber
+
+115
+00:03:59,520 --> 00:04:01,100
+hinaus, denn wir wissen ja, eine
+
+116
+00:04:01,100 --> 00:04:03,260
+Strecke ist ja beschränkt. Das geht
+
+117
+00:04:03,260 --> 00:04:06,200
+nicht über diese Punkte hinaus. Sehr,
+
+118
+00:04:06,220 --> 00:04:09,080
+sehr einfach. Dann ein Strahl. Ich
+
+119
+00:04:09,080 --> 00:04:10,340
+weiß nicht, ob du das auch so siehst
+
+120
+00:04:10,340 --> 00:04:11,620
+wie ich. Bei mir sind irgendwie die
+
+121
+00:04:11,620 --> 00:04:12,520
+Buchstaben komisch
+
+122
+00:04:12,520 --> 00:04:13,840
+übereinandergelegt. Das scheint auch
+
+123
+00:04:13,840 --> 00:04:15,540
+ein kleiner Fehler zu sein. Macht
+
+124
+00:04:15,540 --> 00:04:18,260
+aber nichts. Ich denke, ich kann es
+
+125
+00:04:18,260 --> 00:04:19,920
+noch gut lesen und vor allem kannst
+
+126
+00:04:19,920 --> 00:04:21,440
+du es bei mir ja gut mithören. Hier
+
+127
+00:04:21,440 --> 00:04:22,540
+haben wir die gleichen Punkte
+
+128
+00:04:22,540 --> 00:04:26,360
+gegeben. A und B. Und das sind die
+
+129
+00:04:26,360 --> 00:04:27,940
+gleichen Punkte wie vorhin. bei 1, 2
+
+130
+00:04:27,940 --> 00:04:30,020
+und bei 4, 3. Und diesmal sollst du
+
+131
+00:04:30,020 --> 00:04:32,240
+einen Strahl zeichnen, der bei A
+
+132
+00:04:32,240 --> 00:04:34,160
+beginnt und durch B verläuft. Du
+
+133
+00:04:34,160 --> 00:04:35,760
+gehst quasi genauso dran wie vorher.
+
+134
+00:04:35,860 --> 00:04:37,400
+Du zeichnest die Punkte ein, gehst
+
+135
+00:04:37,400 --> 00:04:39,160
+mit einem Geodreieck an diese beiden
+
+136
+00:04:39,160 --> 00:04:41,440
+Punkte dran, beginnst bei A und
+
+137
+00:04:41,440 --> 00:04:43,040
+kannst natürlich bei B durchzeichnen.
+
+138
+00:04:43,800 --> 00:04:45,340
+Das sieht natürlich so aus, als würde
+
+139
+00:04:45,340 --> 00:04:46,620
+ich hier eine Strecke zeichnen, die
+
+140
+00:04:46,620 --> 00:04:48,040
+nur bis hierhin geht. aber da man
+
+141
+00:04:48,040 --> 00:04:49,440
+unendlich ja nicht zeichnen kann,
+
+142
+00:04:49,500 --> 00:04:50,520
+dann müsstest du ja dein ganzes Leben
+
+143
+00:04:50,520 --> 00:04:51,640
+zeichnen und wirst immer noch nicht
+
+144
+00:04:51,640 --> 00:04:53,360
+fertig, kann man das so dann
+
+145
+00:04:53,360 --> 00:04:54,520
+darstellen, dass das einfach als
+
+146
+00:04:54,520 --> 00:04:57,900
+Strich durchläuft. Und entsprechend
+
+147
+00:04:57,900 --> 00:04:59,260
+kannst du das auch mit der Geraden
+
+148
+00:04:59,260 --> 00:05:00,440
+machen, wieder die gleichen Punkte,
+
+149
+00:05:00,640 --> 00:05:02,940
+wieder das Geodreieck anlegen und
+
+150
+00:05:02,940 --> 00:05:04,520
+diesmal zeichnest du über A hinaus
+
+151
+00:05:04,520 --> 00:05:06,580
+und auch über B hinaus. Und so kannst
+
+152
+00:05:06,580 --> 00:05:07,960
+du darstellen, dass du eine Gerade
+
+153
+00:05:07,960 --> 00:05:10,120
+gezeichnet hast, die zwar durch zwei
+
+154
+00:05:10,120 --> 00:05:11,040
+bestimmte Punkte gehen,
+
+155
+00:05:19,380 --> 00:05:21,600
+Linien quasi, Strecke, Strahl und
+
+156
+00:05:21,600 --> 00:05:23,140
+Gerade und auch wenn man sie zeichnen
+
+157
+00:05:23,140 --> 00:05:24,180
+kann, zum Beispiel in einem
+
+158
+00:05:25,040 --> 00:05:25,980
+Koordinatensystem, hast du bis
+
+159
+00:05:25,980 --> 00:05:26,560
+hierhin Fragen.
+
+160
+00:05:32,510 --> 00:05:33,890
+Alles klar, super, dann machen wir
+
+161
+00:05:33,890 --> 00:05:35,770
+mal weiter. Kommen wir jetzt zu den
+
+162
+00:05:35,770 --> 00:05:37,030
+Winkeln und jetzt geht es los mit den
+
+163
+00:05:37,030 --> 00:05:38,410
+ganzen Strichen. Da jetzt gleich
+
+164
+00:05:38,410 --> 00:05:41,030
+nicht wundern, das wurde ein bisschen
+
+165
+00:05:41,030 --> 00:05:42,930
+eigenartig manchmal gezeichnet, um
+
+166
+00:05:42,930 --> 00:05:45,030
+Dinge zu verdeutlichen. Viele haben
+
+167
+00:05:45,030 --> 00:05:46,070
+schon zurückgemeldet, dass sie das
+
+168
+00:05:46,070 --> 00:05:48,010
+eher verwirrend finden. Ich versuche
+
+169
+00:05:48,010 --> 00:05:48,490
+da mal trotzdem
+
+170
+00:05:53,790 --> 00:05:54,950
+schneiden. Zum Beispiel haben wir
+
+171
+00:05:54,950 --> 00:05:57,030
+hier diese rote Linie und diese graue
+
+172
+00:05:57,030 --> 00:05:57,990
+Linie. Auf die muss ich jetzt
+
+173
+00:05:57,990 --> 00:05:59,410
+besonders achten. Dieser Bogen war
+
+174
+00:05:59,410 --> 00:06:01,230
+nur zur Hilfe. Dieser Bogen hat aber
+
+175
+00:06:01,230 --> 00:06:02,670
+viele verwirrt. Deswegen würde ich
+
+176
+00:06:02,670 --> 00:06:03,870
+jetzt erstmal so anfangen, dass wir
+
+177
+00:06:03,870 --> 00:06:05,970
+den erstmal ignorieren. Also dieser
+
+178
+00:06:05,970 --> 00:06:07,930
+rote Strich und dieser graue Strich.
+
+179
+00:06:07,930 --> 00:06:08,990
+Wenn zwei Linien sich treffen,
+
+180
+00:06:09,130 --> 00:06:11,130
+entstehen Winkel. Natürlich entstehen
+
+181
+00:06:11,130 --> 00:06:13,090
+vier Winkel. Wir haben hier, hier,
+
+182
+00:06:13,250 --> 00:06:16,750
+hier Hier und hier ein Winkel. Und
+
+183
+00:06:16,750 --> 00:06:18,350
+diese beiden, die gegenüber sind,
+
+184
+00:06:18,430 --> 00:06:20,110
+sind auch gleich groß. Das ist jetzt
+
+185
+00:06:20,110 --> 00:06:20,950
+hier vielleicht nicht ganz so
+
+186
+00:06:20,950 --> 00:06:21,890
+richtig. Vielleicht hast du es aber
+
+187
+00:06:21,890 --> 00:06:23,210
+schon mal gehört. Das nennt man dann,
+
+188
+00:06:23,290 --> 00:06:26,030
+ich glaube, Wechselwinkel oder
+
+189
+00:06:26,030 --> 00:06:29,070
+Gegenwinkel. Heißt das, glaube ich,
+
+190
+00:06:29,090 --> 00:06:31,810
+bei euch. Dann auch zwei Winkel
+
+191
+00:06:31,810 --> 00:06:33,490
+nebeneinander ergeben zusammen 180
+
+192
+00:06:33,490 --> 00:06:34,850
+Grad. Ist hier jetzt nicht so
+
+193
+00:06:34,850 --> 00:06:36,430
+wichtig, aber vielleicht hast du das
+
+194
+00:06:36,430 --> 00:06:38,110
+ja schon mal gehört. Ja, ich sehe ein
+
+195
+00:06:38,110 --> 00:06:40,790
+Ja, alles klar. Klar. Dann kennst du
+
+196
+00:06:40,790 --> 00:06:41,990
+das bestimmt auch, dass Winkel mit
+
+197
+00:06:41,990 --> 00:06:43,550
+griechischen Kleinbuchstaben
+
+198
+00:06:43,550 --> 00:06:44,830
+bezeichnet werden. Wir haben da
+
+199
+00:06:44,830 --> 00:06:47,050
+Alpha, Beta und Gamma. Das sind die
+
+200
+00:06:47,050 --> 00:06:49,670
+häufigsten, weil wenn du irgendwelche
+
+201
+00:06:49,670 --> 00:06:51,630
+Bilder im Buch hast, wo du vielleicht
+
+202
+00:06:51,630 --> 00:06:53,630
+sechs oder sieben Winkel einzeichnen
+
+203
+00:06:53,630 --> 00:06:55,170
+musst oder sechs oder sieben Winkel
+
+204
+00:06:55,170 --> 00:06:56,790
+ablesen musst, dann kann es auch
+
+205
+00:06:56,790 --> 00:06:58,170
+weitergehen. Wir haben also Alpha,
+
+206
+00:06:58,250 --> 00:07:02,490
+Beta, Gamma, Delta, Epsilon und Phi.
+
+207
+00:07:02,490 --> 00:07:04,350
+Und da gibt es natürlich noch sehr,
+
+208
+00:07:04,410 --> 00:07:05,470
+sehr viele. Da gibt es, ich glaube,
+
+209
+00:07:05,550 --> 00:07:07,750
+auch 26 Buchstaben im griechischen
+
+210
+00:07:07,750 --> 00:07:08,830
+Alphabet. Bin mir aber gerade nicht
+
+211
+00:07:08,830 --> 00:07:10,310
+so sicher. Bin auch kein Grieche,
+
+212
+00:07:10,390 --> 00:07:12,510
+deswegen. Ich kenne auch nur diese
+
+213
+00:07:12,510 --> 00:07:14,810
+Standardwinkel quasi. Und die werden
+
+214
+00:07:14,810 --> 00:07:16,470
+für dich auch absolut ausreichend
+
+215
+00:07:16,470 --> 00:07:18,510
+sein. Wie gesagt, meistens ist es eh
+
+216
+00:07:18,510 --> 00:07:21,510
+nur Alpha, Beta und Gamma. Und die
+
+217
+00:07:21,510 --> 00:07:22,950
+werden natürlich in Grad gemessen.
+
+218
+00:07:22,950 --> 00:07:24,190
+Das Zeichen dafür kennst du bestimmt.
+
+219
+00:07:24,190 --> 00:07:26,310
+Das ist ein kleiner Kreis oben an der
+
+220
+00:07:26,310 --> 00:07:27,170
+Zahl. Hier hast du ein paar
+
+221
+00:07:27,170 --> 00:07:28,810
+Beispiele. Den rechten Winkel
+
+222
+00:07:28,810 --> 00:07:30,710
+nämlich, das ist genau dann, wenn die
+
+223
+00:07:30,710 --> 00:07:31,830
+beiden Linien ganz senkrecht
+
+224
+00:07:31,830 --> 00:07:33,850
+aufeinander stehen. Dann hast du
+
+225
+00:07:33,850 --> 00:07:35,890
+einen rechten Winkel, 90-Grad-Winkel
+
+226
+00:07:35,890 --> 00:07:38,690
+ist das. Wir haben einen halben
+
+227
+00:07:38,690 --> 00:07:40,550
+Winkel. Das ist dann sozusagen der,
+
+228
+00:07:40,650 --> 00:07:42,770
+der an einer Linie entsteht. Das
+
+229
+00:07:42,770 --> 00:07:44,770
+ergibt dann 180 Grad, ein halber
+
+230
+00:07:44,770 --> 00:07:47,130
+Kreis sozusagen. Und ein ganzer
+
+231
+00:07:47,130 --> 00:07:48,730
+Kreis. Hier hast du dann, wenn du
+
+232
+00:07:48,730 --> 00:07:49,910
+einmal komplett um so eine Linie
+
+233
+00:07:49,910 --> 00:07:52,470
+herumläufst, dann hast du 360 Grad.
+
+234
+00:07:52,570 --> 00:07:53,910
+Das ist dann der Vollwinkel.
+
+235
+00:07:55,650 --> 00:07:57,250
+Vollwinkel, halber Winkel, rechter
+
+236
+00:07:57,250 --> 00:07:57,710
+Winkel.
+
+237
+00:08:27,190 --> 00:08:29,290
+Zu messen kommen wir gleich noch. 360
+
+238
+00:08:29,290 --> 00:08:30,950
+Grad Winkel brauchst du gar nicht
+
+239
+00:08:30,950 --> 00:08:32,710
+messen. Natürlich könntest du das mit
+
+240
+00:08:32,710 --> 00:08:34,550
+dem Geodreieck in zwei Winkel teilen,
+
+241
+00:08:34,590 --> 00:08:36,010
+sozusagen den Strich dir als
+
+242
+00:08:36,010 --> 00:08:36,870
+Hilfslinie durchzeichnen.
+
+243
+00:08:37,190 --> 00:08:38,130
+durchzeichnen, kannst du ja machen,
+
+244
+00:08:38,170 --> 00:08:39,470
+Hilfslinien kannst du ja machen, so
+
+245
+00:08:39,470 --> 00:08:41,370
+viel du möchtest, dann wüsstest du,
+
+246
+00:08:41,390 --> 00:08:42,850
+okay, mit dem Geodreieck kannst du
+
+247
+00:08:42,850 --> 00:08:44,930
+ganz genau 180 Grad abmessen, ist ja
+
+248
+00:08:44,930 --> 00:08:46,550
+sehr einfach, bei einer Linie macht
+
+249
+00:08:46,550 --> 00:08:47,590
+man das auch gar nicht mehr, man
+
+250
+00:08:47,590 --> 00:08:49,670
+weiß, dass ein halber Winkel eben 180
+
+251
+00:08:49,670 --> 00:08:51,810
+Grad ist, wenn du das Geodreieck hier
+
+252
+00:08:51,810 --> 00:08:53,670
+anlegen würdest, das geht ja auch nur
+
+253
+00:08:53,670 --> 00:08:55,830
+bis 180 Grad, so ein NEO 3, dann
+
+254
+00:08:55,830 --> 00:08:57,030
+könnte man es ja umdrehen und von
+
+255
+00:08:57,030 --> 00:08:59,190
+unten anlegen und dann müsste man 180
+
+256
+00:08:59,190 --> 00:09:02,610
+und nochmal 180 sind 360 Grad. Wie
+
+257
+00:09:02,610 --> 00:09:04,630
+gesagt, bei 360, du musst den nicht
+
+258
+00:09:04,630 --> 00:09:05,890
+nachmessen. Wenn du siehst, dass es
+
+259
+00:09:05,890 --> 00:09:07,150
+einmal komplett um die Linie herum
+
+260
+00:09:07,150 --> 00:09:08,850
+geht, dann sollte man wissen, dass
+
+261
+00:09:08,850 --> 00:09:10,030
+das dann die 360 sind.
+
+262
+00:09:13,060 --> 00:09:14,220
+Ah ja, und trotzdem, die Antwort
+
+263
+00:09:14,220 --> 00:09:17,540
+bleibt gleich, sage ich mal. Bei
+
+264
+00:09:17,540 --> 00:09:19,940
+Winkeln über 180 Grad kann man sich
+
+265
+00:09:19,940 --> 00:09:20,940
+das immer aufteilen.
+
+266
+00:09:23,980 --> 00:09:26,020
+die eine Hälfte 180 Grad sind und
+
+267
+00:09:26,020 --> 00:09:27,280
+dann misst man den Rest sozusagen
+
+268
+00:09:27,280 --> 00:09:30,720
+extra und addiert das dann zu den 180
+
+269
+00:09:30,720 --> 00:09:32,320
+dazu. Ja, aber da kommen wir auch
+
+270
+00:09:32,320 --> 00:09:35,650
+gleich noch mit dem Messen dazu. So,
+
+271
+00:09:35,710 --> 00:09:37,430
+nämlich hier Winkel messen. Wie
+
+272
+00:09:37,430 --> 00:09:39,350
+bereits gesagt, achte auf diesen
+
+273
+00:09:39,350 --> 00:09:42,690
+blauen hier und auf diesen blauen
+
+274
+00:09:42,690 --> 00:09:44,810
+hier und versuche erstmal diesen
+
+275
+00:09:44,810 --> 00:09:46,390
+Kreis hier zu ignorieren. Das scheint
+
+276
+00:09:46,390 --> 00:09:47,650
+nämlich sehr, sehr viele verwirrt zu
+
+277
+00:09:47,650 --> 00:09:50,410
+haben. Wie messen wir Winkel? Zum
+
+278
+00:09:50,410 --> 00:09:51,950
+Beispiel möchte ich ja, wir wissen,
+
+279
+00:09:51,990 --> 00:09:53,690
+wir haben ja vier Winkel hier, hier,
+
+280
+00:09:53,710 --> 00:09:55,250
+hier und hier zwischen diesen beiden
+
+281
+00:09:55,250 --> 00:09:57,170
+blauen Linien. Ich möchte zum
+
+282
+00:09:57,170 --> 00:09:58,590
+Beispiel diesen kleinen hier messen.
+
+283
+00:09:59,150 --> 00:10:00,990
+Zwischen, also quasi der spitze
+
+284
+00:10:00,990 --> 00:10:02,930
+Winkel zwischen dieser und dieser
+
+285
+00:10:02,930 --> 00:10:05,790
+Linie. So, wie gehe ich da dran? Ich
+
+286
+00:10:05,790 --> 00:10:08,130
+muss immer den Nullpunkt hier des
+
+287
+00:10:08,130 --> 00:10:10,550
+Geodreiecks an diesen Schnittpunkt
+
+288
+00:10:10,550 --> 00:10:11,970
+sozusagen dieser beiden Linien
+
+289
+00:10:11,970 --> 00:10:13,810
+ansetzen. Der muss ganz genau hier
+
+290
+00:10:13,810 --> 00:10:15,990
+drauf liegen. dann soll die eine
+
+291
+00:10:15,990 --> 00:10:18,670
+Kante des Geodreiecks, wir haben hier
+
+292
+00:10:18,670 --> 00:10:20,970
+eine Kante natürlich, soll auf einer
+
+293
+00:10:20,970 --> 00:10:22,490
+dieser Linien sein. Kann diese oder
+
+294
+00:10:22,490 --> 00:10:25,370
+könnte auch diese sein. Das
+
+295
+00:10:25,370 --> 00:10:26,990
+Geodreieck muss natürlich dann auf
+
+296
+00:10:26,990 --> 00:10:29,050
+diesem Winkel drauf liegen. Wenn du
+
+297
+00:10:29,050 --> 00:10:31,090
+das Geodreieck sozusagen hier
+
+298
+00:10:31,090 --> 00:10:32,630
+hochsetzen würdest, dann hättest du
+
+299
+00:10:32,630 --> 00:10:34,210
+zwar auch die Kante des Geodreiecks
+
+300
+00:10:34,210 --> 00:10:36,530
+auf dieser Linie, aber den Winkel
+
+301
+00:10:36,530 --> 00:10:37,590
+könntest du ja nicht abmessen. Also
+
+302
+00:10:37,590 --> 00:10:38,850
+das Geodreieck muss schon auf einer
+
+303
+00:10:38,850 --> 00:10:40,730
+Linie so liegen, dass die andere
+
+304
+00:10:40,730 --> 00:10:42,690
+Linie im Geodreieck drin liegt, so
+
+305
+00:10:42,690 --> 00:10:44,590
+wie es hier gezeigt ist. Diese Linie
+
+306
+00:10:44,590 --> 00:10:45,390
+zum Beispiel, die liegt ja sozusagen
+
+307
+00:10:45,390 --> 00:10:48,150
+unter dem Geodreieck. Die Kante liegt
+
+308
+00:10:48,150 --> 00:10:52,510
+auf dem einen Schenkel hier und der
+
+309
+00:10:52,510 --> 00:10:55,850
+andere Schenkel liegt innerhalb des
+
+310
+00:10:55,850 --> 00:10:57,110
+Geodreiecks. Und jetzt kannst du
+
+311
+00:10:57,110 --> 00:10:58,930
+abmessen. Du musst nur auf eine
+
+312
+00:10:58,930 --> 00:11:00,910
+bestimmte Sache aufpassen, nämlich,
+
+313
+00:11:01,070 --> 00:11:02,490
+ich habe ja vorhin schon gesagt, so
+
+314
+00:11:02,490 --> 00:11:04,030
+ein Geodreieck, der hat ja insgesamt,
+
+315
+00:11:04,230 --> 00:11:05,550
+wie du sehen kannst, so einen halben
+
+316
+00:11:05,550 --> 00:11:08,310
+Winkel, also insgesamt 180 Grad. Die
+
+317
+00:11:08,310 --> 00:11:09,870
+kannst du natürlich von rechts und
+
+318
+00:11:09,870 --> 00:11:11,590
+von links abmessen. Du siehst hier
+
+319
+00:11:11,590 --> 00:11:15,030
+zum Beispiel 150, 160, 170, 180. Das
+
+320
+00:11:15,030 --> 00:11:16,150
+ist, wenn du von hier anfangen
+
+321
+00:11:16,150 --> 00:11:18,630
+würdest, 10, 20, 30 und so weiter bis
+
+322
+00:11:18,630 --> 00:11:20,530
+180. Du kannst natürlich auch
+
+323
+00:11:20,530 --> 00:11:23,210
+andersrum anfangen, also hier 10, 20,
+
+324
+00:11:23,270 --> 00:11:25,590
+30, 40 und natürlich rüber bis 180.
+
+325
+00:11:26,590 --> 00:11:28,090
+Man muss natürlich gucken, wo du
+
+326
+00:11:28,090 --> 00:11:29,890
+deine Kante angelegt hast. Wenn du
+
+327
+00:11:29,890 --> 00:11:32,230
+deine Kante hier angelegt hast, dann
+
+328
+00:11:32,230 --> 00:11:33,750
+fängst du natürlich hier bei 0 an und
+
+329
+00:11:33,750 --> 00:11:35,210
+nicht bei 180 rückwärts. Das ist ja
+
+330
+00:11:35,210 --> 00:11:36,330
+klar. Das heißt, man guckt hier nicht
+
+331
+00:11:36,330 --> 00:11:37,870
+auf diese kleine Skala hier in der
+
+332
+00:11:37,870 --> 00:11:39,510
+Mitte. Die fängt ja irgendwie bei 180
+
+333
+00:11:39,510 --> 00:11:42,170
+an. So ein Winkel beginnt natürlich
+
+334
+00:11:42,170 --> 00:11:43,850
+irgendwie bei 0. Dann gucken wir
+
+335
+00:11:43,850 --> 00:11:45,370
+natürlich auf die äußere Skala, also
+
+336
+00:11:45,370 --> 00:11:47,590
+10, 20 und hier sehen wir aus, dass
+
+337
+00:11:47,590 --> 00:11:49,870
+es fast durch diese 30 geht. Ich
+
+338
+00:11:49,870 --> 00:11:52,310
+hätte vielleicht sogar gesagt 29,
+
+339
+00:11:52,610 --> 00:11:54,510
+wenn man ganz genau hinguckt, aber
+
+340
+00:11:54,510 --> 00:11:56,010
+ich denke mal hier wahrscheinlich, um
+
+341
+00:11:56,010 --> 00:11:57,410
+das ganz klar verständlich zu machen,
+
+342
+00:11:57,470 --> 00:11:58,830
+haben sie dann die 30 hingeschrieben.
+
+343
+00:11:59,450 --> 00:12:00,930
+Das ist sehr, sehr wichtig und
+
+344
+00:12:01,470 --> 00:12:02,370
+erfahrungsgemäß, weil ich dieses
+
+345
+00:12:02,370 --> 00:12:03,430
+Thema letztens auch selber im
+
+346
+00:12:03,430 --> 00:12:04,530
+Unterricht hatte mit den Kindern.
+
+347
+00:12:05,650 --> 00:12:07,330
+Schwierig. Was ist mit dir? Kannst du
+
+348
+00:12:07,330 --> 00:12:08,430
+mir da mal eine Rückmeldung geben?
+
+349
+00:12:08,530 --> 00:12:10,110
+Kannst du Winkel gut messen oder hast
+
+350
+00:12:10,110 --> 00:12:11,290
+du da Schwierigkeiten? Soll ich das
+
+351
+00:12:11,290 --> 00:12:12,650
+nochmal erklären? Ah,
+
+352
+00:12:53,070 --> 00:12:53,330
+okay,
+
+353
+00:13:02,350 --> 00:13:03,770
+sozusagen, das wäre jetzt nicht der
+
+354
+00:13:03,770 --> 00:13:05,210
+spitze Winkel hier zwischen, hier
+
+355
+00:13:05,210 --> 00:13:07,130
+haben wir wieder die Linien, sondern
+
+356
+00:13:07,130 --> 00:13:09,290
+das wäre der größere Winkel hier
+
+357
+00:13:09,290 --> 00:13:10,970
+zwischen, aber wenn du da gar keine
+
+358
+00:13:10,970 --> 00:13:12,130
+Schwierigkeiten hast mit dem
+
+359
+00:13:12,130 --> 00:13:14,170
+Winkelmessen, dann brauche ich das
+
+360
+00:13:14,170 --> 00:13:15,190
+ja, glaube ich, nicht nochmal extra
+
+361
+00:13:15,190 --> 00:13:17,790
+als weiteres Beispiel zu erklären.
+
+362
+00:13:17,950 --> 00:13:19,650
+Denk nur dran, wenn es über 180 sind,
+
+363
+00:13:19,870 --> 00:13:21,550
+dass du dir das immer in zwei Teile
+
+364
+00:13:21,550 --> 00:13:24,130
+teilst, den halben Winkel, 180, und
+
+365
+00:13:24,130 --> 00:13:26,570
+dann eben der Rest sozusagen extra
+
+366
+00:13:26,570 --> 00:13:29,290
+ausgemessen wird und dann drauf
+
+367
+00:13:29,290 --> 00:13:29,930
+addiert wird.
+
+368
+00:13:32,780 --> 00:13:34,120
+So, jetzt können wir zum Winkel
+
+369
+00:13:34,120 --> 00:13:35,580
+zeichnen. Hier sehe ich schon wieder
+
+370
+00:13:35,580 --> 00:13:37,100
+die Buchstaben eigenartig doppelt,
+
+371
+00:13:37,100 --> 00:13:38,960
+aber das macht nichts. Nicht
+
+372
+00:13:38,960 --> 00:13:39,940
+verwirren lassen, wir gehen nochmal
+
+373
+00:13:39,940 --> 00:13:42,480
+schrittweise durch. Gegeben ist eine
+
+374
+00:13:42,480 --> 00:13:45,360
+Strecke AB mit den Punkten A und B.
+
+375
+00:13:45,460 --> 00:13:46,720
+Du erkennst, das sind genau die
+
+376
+00:13:46,720 --> 00:13:47,940
+gleichen Punkte, die wir am Anfang
+
+377
+00:13:47,940 --> 00:13:48,960
+schon hatten. Die hat man hier
+
+378
+00:13:48,960 --> 00:13:51,260
+eingezeichnet. Hier ist A, hier ist
+
+379
+00:13:51,260 --> 00:13:52,440
+B. Kann man nicht mehr ganz so gut
+
+380
+00:13:52,440 --> 00:13:53,600
+sehen, weil die Geodreiecke drüber
+
+381
+00:13:53,600 --> 00:13:55,360
+gelegt worden sind. Auf jeden Fall
+
+382
+00:13:55,360 --> 00:13:57,280
+hier ist A und hier ist B. Die
+
+383
+00:13:57,280 --> 00:13:59,160
+Strecke AB wurde gezeichnet. Du
+
+384
+00:13:59,160 --> 00:14:00,240
+siehst, die wurde ein bisschen
+
+385
+00:14:00,240 --> 00:14:02,540
+verlängert hier. Das ist einfach nur
+
+386
+00:14:02,540 --> 00:14:04,020
+als Hilfslinie gedacht. Das kannst du
+
+387
+00:14:04,020 --> 00:14:05,460
+ja gerne machen, warum auch nicht.
+
+388
+00:14:07,180 --> 00:14:10,860
+Und jetzt sollst du einen 40 Grad
+
+389
+00:14:10,860 --> 00:14:13,200
+Winkel zeichnen. Und zwar am Punkt A.
+
+390
+00:14:13,240 --> 00:14:14,280
+Das ist ganz wichtig. Du hättest ja
+
+391
+00:14:14,280 --> 00:14:15,500
+auch hier anfangen können, einen
+
+392
+00:14:15,500 --> 00:14:17,240
+Winkel zu zeichnen. Hier steht aber
+
+393
+00:14:17,240 --> 00:14:18,840
+eindeutig, du sollst einen 40-Grad
+
+394
+00:14:18,840 --> 00:14:21,140
+-Winkel in Punkt A zeichnen. Das
+
+395
+00:14:21,140 --> 00:14:22,480
+heißt, du hast hier auf jeden Fall
+
+396
+00:14:22,480 --> 00:14:25,640
+den Einschenkel.
+
+397
+00:14:25,740 --> 00:14:27,520
+Also hier, das ist ja Schenkel 1 und
+
+398
+00:14:27,520 --> 00:14:29,040
+Schenkel 2, sage ich mal, diese
+
+399
+00:14:29,040 --> 00:14:31,200
+blauen Linien hier. Da legst du die
+
+400
+00:14:31,200 --> 00:14:33,100
+Kante des Geodreiecks an, so wie du
+
+401
+00:14:33,100 --> 00:14:35,020
+messen würdest sozusagen. Also wieder
+
+402
+00:14:35,020 --> 00:14:36,880
+die Kante dieses ersten Geodreiecks
+
+403
+00:14:36,880 --> 00:14:40,380
+hier legst du an. Und dann guckst du
+
+404
+00:14:40,380 --> 00:14:41,220
+natürlich wieder nicht auf der
+
+405
+00:14:41,220 --> 00:14:43,040
+inneren Skala. Die beginnt ja bei 180
+
+406
+00:14:43,040 --> 00:14:44,320
+hier rückwärts. Das machen wir nicht.
+
+407
+00:14:44,500 --> 00:14:46,380
+Wir gucken auf der äußeren Skala,
+
+408
+00:14:46,480 --> 00:14:49,940
+über 10, 20, 30 und 40. Ich kann mir
+
+409
+00:14:49,940 --> 00:14:52,360
+da einen kleinen Punkt machen, lege
+
+410
+00:14:52,360 --> 00:14:53,760
+das erste Geodreieck hier natürlich
+
+411
+00:14:53,760 --> 00:14:56,380
+weg. Der Punkt reicht mir. Und kann
+
+412
+00:14:56,380 --> 00:14:58,580
+dann das zweite Geodreieck dann hier
+
+413
+00:14:58,580 --> 00:15:00,560
+dranlegen, indem ich durch A mit der
+
+414
+00:15:00,560 --> 00:15:01,980
+Kante gehe und durch diesen Punkt,
+
+415
+00:15:02,060 --> 00:15:03,820
+den ich mir gemacht habe, ziehe dann
+
+416
+00:15:03,820 --> 00:15:05,200
+die zweite Linie und habe einen
+
+417
+00:15:05,200 --> 00:15:08,880
+sauberen 40 Grad Winkel. So, dazu
+
+418
+00:15:08,880 --> 00:15:09,400
+Fragen?
+
+419
+00:15:21,330 --> 00:15:24,790
+Okay, super. So, jetzt kommen wir zu
+
+420
+00:15:24,790 --> 00:15:25,810
+den beiden Konstrukten
+
+421
+00:15:25,810 --> 00:15:26,810
+Mittelsenkrechte und
+
+422
+00:15:26,810 --> 00:15:28,950
+Winkelhalbierende, die vermutlich
+
+423
+00:15:28,950 --> 00:15:30,510
+etwas neu für dich sind. Eine
+
+424
+00:15:30,510 --> 00:15:31,930
+Mittelsenkrechte ist erstmal einfach
+
+425
+00:15:31,930 --> 00:15:33,310
+nur eine Gerade, eine ganz normale
+
+426
+00:15:33,310 --> 00:15:35,690
+Gerade, die senkrecht zu einer
+
+427
+00:15:35,690 --> 00:15:37,430
+bestimmten Strecke steht. Wir gucken
+
+428
+00:15:37,430 --> 00:15:39,570
+mal. Wir haben von A nach B eine rot
+
+429
+00:15:39,570 --> 00:15:41,490
+eingezeichnet, hier diese Strecke.
+
+430
+00:15:41,690 --> 00:15:44,110
+Und ich möchte jetzt eine Linie
+
+431
+00:15:44,110 --> 00:15:46,310
+haben, die genau, oder eine Gerade,
+
+432
+00:15:46,350 --> 00:15:48,530
+wie gerade gesagt, die genau im
+
+433
+00:15:48,530 --> 00:15:50,270
+rechten Winkel dazu steht. Also hier
+
+434
+00:15:50,270 --> 00:15:53,470
+quasi im 90-Grad-Winkel. So. Das
+
+435
+00:15:53,470 --> 00:15:54,770
+heißt, ich kann natürlich auf der
+
+436
+00:15:54,770 --> 00:15:56,390
+einen Seite könnte ich wieder mein
+
+437
+00:15:56,390 --> 00:15:57,710
+Geodreieck nehmen. Das kann man jetzt
+
+438
+00:15:57,710 --> 00:16:00,910
+hier nicht mehr so gut sehen. und mit
+
+439
+00:16:00,910 --> 00:16:02,310
+der mittellinie ich versuche das mal
+
+440
+00:16:02,310 --> 00:16:04,130
+hier zu zeichnen einen moment wo ich
+
+441
+00:16:04,130 --> 00:16:10,490
+in meinem stift ich glaube hier so da
+
+442
+00:16:10,490 --> 00:16:12,110
+hätten wir ja so ein geo dreieck ich
+
+443
+00:16:12,110 --> 00:16:15,250
+ganz sauber und in der mitte des geo
+
+444
+00:16:15,250 --> 00:16:17,290
+dreiecks ist ja auch so eine linie
+
+445
+00:16:17,290 --> 00:16:20,110
+genau und du könntest natürlich diese
+
+446
+00:16:20,110 --> 00:16:21,550
+linie hier zu nutze du dir machen,
+
+447
+00:16:21,630 --> 00:16:25,710
+indem du genau diese Linie auf diese
+
+448
+00:16:25,710 --> 00:16:26,930
+Strecke legen würdest und dann
+
+449
+00:16:26,930 --> 00:16:28,090
+hättest du auf jeden Fall die
+
+450
+00:16:28,090 --> 00:16:30,590
+Mittelsenkrechte. Allerdings ist die
+
+451
+00:16:30,590 --> 00:16:31,970
+Mittelsenkrechte noch etwas
+
+452
+00:16:31,970 --> 00:16:33,370
+Besonderes. Die will nämlich, dass
+
+453
+00:16:33,370 --> 00:16:35,690
+der gleiche Abstand zu A herrscht und
+
+454
+00:16:35,690 --> 00:16:37,450
+auch zu B. Es muss also genau auf der
+
+455
+00:16:37,450 --> 00:16:39,250
+Mitte dieser Strecke liegen. So.
+
+456
+00:16:39,730 --> 00:16:41,710
+Natürlich könntest du diese Strecke
+
+457
+00:16:41,710 --> 00:16:43,170
+aufmessen. Zum Beispiel misst du
+
+458
+00:16:43,170 --> 00:16:45,470
+dann, dass sie zum Beispiel 8 cm ist,
+
+459
+00:16:45,570 --> 00:16:47,890
+dann weißt du, bei 4 cm machst du
+
+460
+00:16:47,890 --> 00:16:49,610
+einen Punkt, könntest dieses
+
+461
+00:16:49,610 --> 00:16:51,450
+Geodreieck drauflegen mit dieser
+
+462
+00:16:51,450 --> 00:16:53,870
+Mittellinie sozusagen da drauf und
+
+463
+00:16:53,870 --> 00:16:54,910
+könntest die Mittelsenkrechte
+
+464
+00:16:54,910 --> 00:16:55,890
+zeichnen. Es gibt aber noch
+
+465
+00:16:55,890 --> 00:16:57,770
+einfacher, man kann sie auch
+
+466
+00:16:57,770 --> 00:16:58,850
+konstruieren, also es geht auch
+
+467
+00:16:58,850 --> 00:17:00,310
+anders, sage ich mal, einfacher musst
+
+468
+00:17:00,310 --> 00:17:01,390
+du selber entscheiden, was für dich
+
+469
+00:17:01,390 --> 00:17:03,130
+einfacher ist, aber oft wird
+
+470
+00:17:03,130 --> 00:17:04,690
+verlangt, dass du das eben auch mit
+
+471
+00:17:04,690 --> 00:17:06,710
+Zirkel konstruierst. Mit dem Zirkel
+
+472
+00:17:06,710 --> 00:17:08,850
+machst du nämlich folgendes. Mit dem
+
+473
+00:17:08,850 --> 00:17:10,930
+Zirkel kannst du an A gehen,
+
+474
+00:17:11,910 --> 00:17:13,990
+reinstechen mit dem Zirkel und einen
+
+475
+00:17:13,990 --> 00:17:16,350
+Kreis, einfach einen etwas größeren
+
+476
+00:17:16,350 --> 00:17:20,110
+Kreis bezeichnen, um A herum. Das
+
+477
+00:17:20,110 --> 00:17:23,730
+gleiche machst du bei B und zeichnest
+
+478
+00:17:23,730 --> 00:17:25,270
+einen Kreis, einen etwas größeren
+
+479
+00:17:25,270 --> 00:17:26,670
+Kreis drumherum. Natürlich nicht
+
+480
+00:17:26,670 --> 00:17:28,110
+feststellen. Das muss schon die
+
+481
+00:17:28,110 --> 00:17:30,190
+gleiche Kreisgröße sein wie bei A.
+
+482
+00:17:30,770 --> 00:17:32,250
+Dann musst du das gleiche auch bei B
+
+483
+00:17:32,250 --> 00:17:34,070
+machen. Und dann schneiden die sich
+
+484
+00:17:34,070 --> 00:17:35,790
+nämlich. Diese beiden Kreise, wenn du
+
+485
+00:17:35,790 --> 00:17:37,050
+um A einen Kreis machst und um B
+
+486
+00:17:37,050 --> 00:17:38,650
+einen Kreis machst, schneiden die
+
+487
+00:17:38,650 --> 00:17:39,810
+sich. Ich verstehe auch gerade gar
+
+488
+00:17:39,810 --> 00:17:40,930
+nicht, warum dieser Kreis hier nicht
+
+489
+00:17:40,930 --> 00:17:42,370
+zu Ende gezeichnet worden ist. Ich
+
+490
+00:17:42,370 --> 00:17:45,330
+versuche das mal halbwegs vernünftig
+
+491
+00:17:45,330 --> 00:17:47,190
+zu machen. Man sieht natürlich hier
+
+492
+00:17:47,190 --> 00:17:49,450
+super schön aus. Aber ich denke, du
+
+493
+00:17:49,450 --> 00:17:51,390
+verstehst, was ich meine, dass genau
+
+494
+00:17:51,390 --> 00:17:53,970
+hier, wo ist mein Stift, genau hier
+
+495
+00:17:53,970 --> 00:17:55,510
+entsteht ein Schnittpunkt und dort
+
+496
+00:17:55,510 --> 00:17:57,910
+entsteht ein Schnittpunkt. Und wie du
+
+497
+00:17:57,910 --> 00:18:00,730
+siehst, kannst du dann durch diese
+
+498
+00:18:00,730 --> 00:18:02,910
+beiden Schnittpunkte exakt eine Linie
+
+499
+00:18:02,910 --> 00:18:04,090
+zeichnen und die steht dann
+
+500
+00:18:04,090 --> 00:18:06,550
+senkrecht, also im rechten Winkel zu
+
+501
+00:18:06,550 --> 00:18:07,870
+dieser Strecke. Und so hast du deine
+
+502
+00:18:07,870 --> 00:18:11,680
+Mittelsenkrechte bezeichnet. Nee,
+
+503
+00:18:11,680 --> 00:18:14,180
+Tangente ist etwas ganz anderes. Eine
+
+504
+00:18:14,180 --> 00:18:19,300
+Tangente hast du bei, eigentlich
+
+505
+00:18:19,300 --> 00:18:20,380
+wundert mich das gerade, dass du
+
+506
+00:18:20,380 --> 00:18:23,320
+Tangente kennst. Tangente, ich zeige
+
+507
+00:18:23,320 --> 00:18:24,800
+das mal hier anders, ich versuche mal
+
+508
+00:18:24,800 --> 00:18:25,980
+hier oben, so, du hast zum Beispiel
+
+509
+00:18:25,980 --> 00:18:29,340
+so einen Kreis und eine Tangente ist
+
+510
+00:18:29,340 --> 00:18:32,080
+etwas, das zum Beispiel einen Kreis
+
+511
+00:18:32,080 --> 00:18:35,120
+oder egal was, nur in einem einzigen
+
+512
+00:18:35,120 --> 00:18:37,160
+Punkt berührt. Ja, das ist eine
+
+513
+00:18:37,160 --> 00:18:39,340
+Tangente. Dann berührt das nämlich in
+
+514
+00:18:39,340 --> 00:18:40,980
+einem einzigen Punkt. Bestimmt hast
+
+515
+00:18:40,980 --> 00:18:41,980
+du dann auch was von der Sekante
+
+516
+00:18:41,980 --> 00:18:43,160
+gehört, das geht dann durch zwei
+
+517
+00:18:43,160 --> 00:18:44,960
+Punkte, ist aber hier nicht gemeint.
+
+518
+00:18:45,020 --> 00:18:46,460
+Ja, genau, Genau, da hast du dich
+
+519
+00:18:46,460 --> 00:18:49,400
+wieder daran erinnert. Jawohl. Na, wo
+
+520
+00:18:49,400 --> 00:18:51,240
+ist mein Pointer denn hin? Da ist er.
+
+521
+00:18:52,020 --> 00:18:53,240
+Okay, also nochmal, die beiden
+
+522
+00:18:53,240 --> 00:18:55,000
+Möglichkeiten hast du. Du kannst das
+
+523
+00:18:55,000 --> 00:18:57,280
+Geodreieck benutzen, ausmessen, wo
+
+524
+00:18:57,280 --> 00:18:58,280
+die Mitte ist und mit dieser
+
+525
+00:18:58,280 --> 00:18:59,440
+mittleren Kante diese
+
+526
+00:18:59,440 --> 00:19:01,660
+Mittelsenkrechte einzeichnen. Oder,
+
+527
+00:19:01,660 --> 00:19:02,860
+wenn das von der Schule auch so
+
+528
+00:19:02,860 --> 00:19:04,120
+verlangt wird, du musst beide Wege
+
+529
+00:19:04,120 --> 00:19:05,520
+einfach kennen, Du nimmst eine
+
+530
+00:19:05,520 --> 00:19:07,200
+Zirkel, zeichnest einen etwas
+
+531
+00:19:07,200 --> 00:19:09,200
+größeren Kreis um A, den gleich
+
+532
+00:19:09,200 --> 00:19:11,880
+großen Kreis um B. Die ergeben zwei
+
+533
+00:19:11,880 --> 00:19:13,000
+Schnittpunkte und dann kannst du
+
+534
+00:19:13,000 --> 00:19:14,500
+easy, wie sie einfach diese
+
+535
+00:19:14,500 --> 00:19:15,980
+Mittelsenkrechte da durchzeichnen.
+
+536
+00:19:16,720 --> 00:19:18,400
+So, das ist zum Mittelsenkrechten.
+
+537
+00:19:18,440 --> 00:19:19,020
+Jetzt kommen wir zum
+
+538
+00:19:19,020 --> 00:19:20,480
+Winkelhalbierenden.
+
+539
+00:19:22,260 --> 00:19:23,460
+Winkelhalbierende, das sagt der Name
+
+540
+00:19:23,460 --> 00:19:25,500
+ja quasi schon, es halbiert einen
+
+541
+00:19:25,500 --> 00:19:27,360
+Winkel. Zum Beispiel, jetzt hast du
+
+542
+00:19:27,360 --> 00:19:28,980
+hier sehr, sehr viele Linien, nicht
+
+543
+00:19:28,980 --> 00:19:30,060
+verwirren lassen, wir gehen mal
+
+544
+00:19:30,060 --> 00:19:32,540
+schrittweise durch. Hier haben wir
+
+545
+00:19:32,540 --> 00:19:34,560
+die beiden Schenkel und diese beiden
+
+546
+00:19:34,560 --> 00:19:37,840
+roten, Schenkel 1 und Schenkel 2. Ja,
+
+547
+00:19:37,920 --> 00:19:39,800
+die ergeben natürlich einen Winkel
+
+548
+00:19:39,800 --> 00:19:41,320
+hier zwischen, hier zwischen ist
+
+549
+00:19:41,320 --> 00:19:42,940
+sozusagen dieser Winkel, nennen wir
+
+550
+00:19:42,940 --> 00:19:44,160
+den von mir aus auch Winkel Alpha.
+
+551
+00:19:44,700 --> 00:19:46,020
+Und den möchte ich jetzt halbieren,
+
+552
+00:19:46,060 --> 00:19:47,520
+ich möchte also eine Linie haben, die
+
+553
+00:19:47,520 --> 00:19:49,660
+genau durch die Mitte dieses Winkels
+
+554
+00:19:49,660 --> 00:19:52,080
+geht. Und auch hier musst du mit dem
+
+555
+00:19:52,080 --> 00:19:53,380
+Zirkel arbeiten. Jetzt nicht
+
+556
+00:19:53,380 --> 00:19:54,600
+verwirren lassen, wir gucken uns ganz
+
+557
+00:19:54,600 --> 00:19:55,960
+genau an, was wir hier machen. Hier
+
+558
+00:19:55,960 --> 00:19:59,340
+an diesem Schnittpunkt wieder wird
+
+559
+00:19:59,340 --> 00:20:01,500
+der Zirkel reingestochen und ein
+
+560
+00:20:01,500 --> 00:20:04,020
+Kreis gezeichnet. Der muss nicht zu
+
+561
+00:20:04,020 --> 00:20:06,080
+klein und nicht zu groß sein, sodass
+
+562
+00:20:06,080 --> 00:20:08,320
+man den gut sehen kann sozusagen. Und
+
+563
+00:20:08,320 --> 00:20:10,480
+der schneidet jetzt hier und hier
+
+564
+00:20:10,480 --> 00:20:12,560
+diese beiden Schenkel. Das ist gut.
+
+565
+00:20:12,640 --> 00:20:14,700
+Wir nehmen den Zirkel wieder raus und
+
+566
+00:20:14,700 --> 00:20:16,320
+stechen den jetzt einmal hier bei
+
+567
+00:20:16,320 --> 00:20:17,680
+diesem Schnittpunkt rein, machen
+
+568
+00:20:17,680 --> 00:20:20,520
+einen kreis dann nehmen wir den
+
+569
+00:20:20,520 --> 00:20:21,860
+zirkel genauso wie wir den
+
+570
+00:20:21,860 --> 00:20:22,920
+eingestellt haben und machen einen
+
+571
+00:20:22,920 --> 00:20:24,620
+gleich großen kreis bei dem anderen
+
+572
+00:20:24,620 --> 00:20:26,220
+schnittpunkt dann ergibt sich dieser
+
+573
+00:20:26,220 --> 00:20:28,440
+kreis hier und auch die haben jetzt
+
+574
+00:20:28,440 --> 00:20:29,660
+hier einen schnittpunkt du siehst
+
+575
+00:20:29,660 --> 00:20:31,760
+hier ein und hier ein und wie du
+
+576
+00:20:31,760 --> 00:20:33,600
+sehen kannst von diesem schnittpunkt
+
+577
+00:20:33,600 --> 00:20:35,380
+aus hier durch diese beiden
+
+578
+00:20:35,380 --> 00:20:36,980
+schnittpunkte der kreise kannst du
+
+579
+00:20:36,980 --> 00:20:39,660
+dann automatisch die winkel
+
+580
+00:20:39,660 --> 00:20:41,560
+senkrechte zeichnen das ist dann sehr
+
+581
+00:20:41,560 --> 00:20:43,760
+genau natürlich hättest du auch hier
+
+582
+00:20:43,760 --> 00:20:45,920
+den winkel ausmessen können, sagen
+
+583
+00:20:45,920 --> 00:20:47,920
+wir mal 30 Grad und dann misst du
+
+584
+00:20:47,920 --> 00:20:49,800
+sozusagen noch einen Winkel ab bei 15
+
+585
+00:20:49,800 --> 00:20:51,140
+Grad dann machst du da einen kleinen
+
+586
+00:20:51,140 --> 00:20:54,040
+Punkt hin und hättest auch die Winkel
+
+587
+00:20:54,040 --> 00:20:56,000
+halbierende zeichnen können. So wird
+
+588
+00:20:56,000 --> 00:20:57,520
+das aber auf jeden Fall ganz genau
+
+589
+00:20:57,520 --> 00:20:58,680
+und so kannst du auch arbeiten, wenn
+
+590
+00:20:58,680 --> 00:21:00,220
+du kein Geodreieck zur Hand hast.
+
+591
+00:21:00,280 --> 00:21:02,260
+Einfach einen Zirkel nehmen, Kreis
+
+592
+00:21:02,260 --> 00:21:04,220
+drum machen, in die Schnittpunkte
+
+593
+00:21:04,220 --> 00:21:06,000
+nochmal einstechen und zwei gleich
+
+594
+00:21:06,000 --> 00:21:07,160
+Gleich große Kreise noch einmal
+
+595
+00:21:07,160 --> 00:21:08,440
+zeigen und durch die Schnittpunkte
+
+596
+00:21:08,440 --> 00:21:11,920
+einfach die Winkel halbieren. So, das
+
+597
+00:21:11,920 --> 00:21:13,880
+war einmal Mittelsenkrechte und
+
+598
+00:21:13,880 --> 00:21:15,860
+Winkel halbierende. Jetzt sind wir
+
+599
+00:21:15,860 --> 00:21:17,320
+schon am Ende des Webinars
+
+600
+00:21:17,320 --> 00:21:18,620
+angekommen. Ich danke dir für die
+
+601
+00:21:18,620 --> 00:21:20,520
+Aufmerksamkeit. Hast du jetzt noch
+
+602
+00:21:20,520 --> 00:21:22,020
+Fragen, die wir klären können? Oder
+
+603
+00:21:22,020 --> 00:21:23,240
+soll ich vielleicht eine Folie noch
+
+604
+00:21:23,240 --> 00:21:24,520
+einmal zeigen? Ja,
+
+605
+00:21:57,120 --> 00:21:57,260
+bitte.
+
+606
+00:22:44,700 --> 00:22:46,680
+Nicht so viele Webinare. Was meinst
+
+607
+00:22:46,680 --> 00:22:47,660
+du damit? damit vielleicht einfach
+
+608
+00:22:47,660 --> 00:22:49,320
+nicht so viele Webinare für deine
+
+609
+00:22:49,320 --> 00:22:52,740
+Jahrgangsstufe? Eigentlich haben wir
+
+610
+00:22:52,740 --> 00:22:54,520
+die Menge an Webinaren nicht
+
+611
+00:22:54,520 --> 00:22:57,320
+geändert. Die sind ja seit März. Seit
+
+612
+00:22:57,320 --> 00:22:59,040
+März haben wir sogar mehr Webinare am
+
+613
+00:22:59,040 --> 00:23:00,020
+Tag als vorher.
+
+614
+00:23:03,200 --> 00:23:05,360
+Oder, ach, ich weiß warum. Es könnte
+
+615
+00:23:05,360 --> 00:23:06,800
+dir so vorkommen, dass es weniger
+
+616
+00:23:06,800 --> 00:23:09,880
+sind, weil vor zwei Tagen, nee, am
+
+617
+00:23:09,880 --> 00:23:11,440
+Freitag, am Freitag wurde das
+
+618
+00:23:11,440 --> 00:23:13,220
+Mathematik-Abitur geschrieben. Bis
+
+619
+00:23:13,220 --> 00:23:14,400
+dahin gab es sehr, sehr viele
+
+620
+00:23:14,400 --> 00:23:15,700
+Webinare natürlich, um diese
+
+621
+00:23:15,700 --> 00:23:17,900
+Mathematik Abiturienten gut
+
+622
+00:23:17,900 --> 00:23:21,680
+vorzubereiten. Und nach Freitag sind
+
+623
+00:23:21,680 --> 00:23:23,520
+natürlich alle Abiturienten fertig
+
+624
+00:23:23,520 --> 00:23:24,940
+gewesen. Sie haben die Prüfungen ja
+
+625
+00:23:24,940 --> 00:23:26,620
+geschrieben. Dann wurden diese
+
+626
+00:23:26,620 --> 00:23:28,900
+Prüfungskurse für die Abiturienten,
+
+627
+00:23:28,900 --> 00:23:30,080
+also diese Prüfungskurse natürlich
+
+628
+00:23:30,080 --> 00:23:32,000
+erstmal wieder zurückgefahren, weil
+
+629
+00:23:32,000 --> 00:23:33,040
+da keiner mehr Interesse natürlich
+
+630
+00:23:33,040 --> 00:23:34,260
+hat, nach dem Abitur noch diese
+
+631
+00:23:34,260 --> 00:23:35,860
+Prüfungsvorbereitungskurse zu machen.
+
+632
+00:23:36,160 --> 00:23:37,860
+Vielleicht kommt ihr das deswegen ein
+
+633
+00:23:37,860 --> 00:23:38,640
+bisschen weniger vor.
+
+634
+00:24:12,770 --> 00:24:14,570
+Okay, wunderbar. Dann hoffe ich, dass
+
+635
+00:24:14,570 --> 00:24:16,010
+ich dir heute ein bisschen helfen
+
+636
+00:24:16,010 --> 00:24:17,070
+konnte, noch ein bisschen was
+
+637
+00:24:17,070 --> 00:24:18,730
+verdeutlichen konnte oder einfach nur
+
+638
+00:24:18,730 --> 00:24:20,190
+eine gute Wiederholung gegeben habe.
+
+639
+00:24:20,630 --> 00:24:22,070
+Ich wünsche dir noch einen schönen
+
+640
+00:24:22,070 --> 00:24:24,670
+Nachmittag. Genieß die Zeit. Ich weiß
+
+641
+00:24:24,670 --> 00:24:26,310
+nicht, wann du wieder zur Schule
+
+642
+00:24:26,310 --> 00:24:28,070
+musst, aber ich wünsche dir auf jeden
+
+643
+00:24:28,070 --> 00:24:29,350
+Fall viel, viel Spaß demnächst.
+
+644
+00:24:32,920 --> 00:24:34,420
+Alles klar. Schönen Tag dann dir
+
+645
+00:24:34,420 --> 00:24:34,560
+noch.
+

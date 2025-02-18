@@ -1,0 +1,679 @@
+﻿1
+00:00:04,270 --> 00:00:06,610
+Hello, my name is Joshua and I 
+
+2
+00:00:06,610 --> 00:00:07,750
+am a tutor at 
+
+3
+00:00:07,750 --> 00:00:09,790
+Schülerhilfe. Today I would like to 
+explain to you 
+
+4
+00:00:09,790 --> 00:00:11,690
+
+5
+00:00:11,690 --> 00:00:13,390
+what Mendel's rule of inheritance is all 
+about in biology 
+
+6
+00:00:13,390 --> 00:00:15,650
+. In addition to this video, 
+
+7
+00:00:15,650 --> 00:00:16,990
+you can 
+
+8
+00:00:16,990 --> 00:00:18,470
+ also find a wiki 
+
+9
+00:00:18,470 --> 00:00:20,410
+on this topic in our online learning 
+center, where 
+
+10
+00:00:20,410 --> 00:00:21,710
+the most important terms and 
+
+11
+00:00:21,710 --> 00:00:25,110
+basics are explained. In everyday life, 
+
+12
+00:00:25,110 --> 00:00:26,610
+you usually only come 
+
+13
+00:00:26,610 --> 00:00:28,110
+into contact with the rules of inheritance 
+indirectly. Tact. 
+
+14
+00:00:28,210 --> 00:00:30,070
+In the case of animals and plants, we talk 
+about 
+
+15
+00:00:30,070 --> 00:00:32,730
+breeds or breeding and 
+
+16
+00:00:32,730 --> 00:00:34,550
+in the case of us humans, we 
+
+17
+00:00:34,550 --> 00:00:36,770
+
+18
+00:00:36,770 --> 00:00:39,090
+
+19
+00:00:39,090 --> 00:00:41,230
+more or 
+
+20
+00:00:41,230 --> 00:00:42,770
+less 
+
+21
+00:00:42,770 --> 00:00:46,590
+allude to Mendel's rules with remarks such 
+as, "You're the spitting image of your 
+mother" or " You inherited that from your 
+father". 
+
+22
+00:00:46,590 --> 00:00:48,330
+A good knowledge of 
+
+23
+00:00:48,330 --> 00:00:50,570
+Mendel's rules is extremely important when 
+breeding new animal breeds , as 
+
+24
+00:00:50,570 --> 00:00:52,430
+they explain how certain traits 
+
+25
+00:00:52,430 --> 00:00:55,130
+are inherited. The rules are named 
+
+26
+00:00:55,130 --> 00:00:57,310
+after this gentleman. Gregor 
+
+27
+00:00:57,310 --> 00:01:00,510
+Mendel Mendel was a monk in the 19th 
+century 
+
+28
+00:01:00,710 --> 00:01:02,190
+and carried out extensive 
+
+29
+00:01:02,190 --> 00:01:04,230
+experiments on the inheritance process of 
+
+30
+00:01:04,230 --> 00:01:06,270
+external traits in peas. 
+
+31
+00:01:06,970 --> 00:01:09,070
+However, before I 
+
+32
+00:01:09,070 --> 00:01:10,750
+go into the actual rules, here are some 
+
+33
+00:01:10,750 --> 00:01:15,790
+important terms. 1. gene The gene is 
+
+34
+00:01:15,790 --> 00:01:17,550
+the 
+
+35
+00:01:17,550 --> 00:01:19,970
+hereditary trait responsible for the 
+expression of the trait . In all 
+
+36
+00:01:19,970 --> 00:01:21,670
+organisms that have a double 
+
+37
+00:01:21,670 --> 00:01:23,250
+set of chromosomes 
+
+38
+00:01:23,250 --> 00:01:25,330
+, all genes are also present in duplicate 
+
+39
+00:01:25,330 --> 00:01:28,130
+. All genes of an organism 
+
+40
+00:01:28,130 --> 00:01:32,690
+are called genome. Secondly, allele. This 
+is 
+
+41
+00:01:32,690 --> 00:01:34,550
+the gene variant that determines the 
+expression of 
+
+42
+00:01:34,550 --> 00:01:36,490
+a trait. A 
+
+43
+00:01:36,490 --> 00:01:38,430
+diploid organism always has two 
+
+44
+00:01:38,430 --> 00:01:41,110
+genes for one trait. One from the 
+
+45
+00:01:41,110 --> 00:01:44,310
+mother and one from the father. The 
+
+46
+00:01:44,310 --> 00:01:46,150
+two forms can 
+
+47
+00:01:46,150 --> 00:01:48,390
+
+48
+00:01:48,390 --> 00:01:49,850
+
+49
+00:01:49,850 --> 00:01:53,750
+carry either the same or different 
+information regarding a trait , e.g. black 
+and brown 
+
+50
+00:01:53,750 --> 00:01:56,570
+coat color. The information is then 
+
+51
+00:01:56,570 --> 00:01:58,010
+
+52
+00:01:58,010 --> 00:02:01,970
+
+53
+00:02:01,970 --> 00:02:06,470
+stored at a specific location on the 
+chromosome, the gene locus . 3. 
+homozygous. 
+
+54
+00:02:06,910 --> 00:02:09,050
+This means that both alleles of the 
+
+55
+00:02:09,050 --> 00:02:11,830
+genotype are the same. This is also called 
+
+56
+00:02:11,830 --> 00:02:15,370
+homozygous. Heterozygous, 
+
+57
+00:02:15,570 --> 00:02:18,150
+heterozygous. The alleles of the genotypes 
+
+58
+00:02:18,150 --> 00:02:22,330
+differ. Dominant, the 
+
+59
+00:02:22,330 --> 00:02:23,950
+characteristic of this allele 
+
+60
+00:02:23,950 --> 00:02:25,090
+prevails. It therefore 
+
+61
+00:02:25,090 --> 00:02:27,190
+determines the trait. This is indicated by 
+
+62
+00:02:27,190 --> 00:02:28,870
+a capital letter. 
+
+63
+00:02:30,010 --> 00:02:32,430
+Recessive, the trait of this allele 
+
+64
+00:02:32,430 --> 00:02:33,970
+cannot assert itself if it 
+
+65
+00:02:33,970 --> 00:02:35,850
+
+66
+00:02:35,850 --> 00:02:37,370
+occurs together with a dominant allele . 
+It is also called 
+
+67
+00:02:37,370 --> 00:02:39,810
+trait inferior. This is represented by 
+
+68
+00:02:39,810 --> 00:02:41,510
+a small letter. 
+
+69
+00:02:42,230 --> 00:02:44,390
+The parent generation, also known as the 
+
+70
+00:02:44,390 --> 00:02:47,010
+parental generation, bears the 
+abbreviation 
+
+71
+00:02:47,010 --> 00:02:49,870
+P. These are the parent organisms. 
+
+72
+00:02:50,010 --> 00:02:52,270
+The daughter generation or 
+
+73
+00:02:52,270 --> 00:02:54,710
+filial generation bears the abbreviation 
+F. 
+
+74
+00:02:55,350 --> 00:02:58,190
+These are the offspring. 
+
+75
+00:02:58,190 --> 00:02:59,630
+It is also important to distinguish 
+between the 
+
+76
+00:02:59,630 --> 00:03:01,590
+terms genotype and phenotype. 
+
+77
+00:03:02,650 --> 00:03:04,210
+Genotype refers to the 
+
+78
+00:03:04,210 --> 00:03:06,990
+combination of alleles, phenotype to the 
+external 
+
+79
+00:03:06,990 --> 00:03:08,550
+appearance of an organism. 
+
+80
+00:03:08,930 --> 00:03:10,690
+For example, we then have a 
+
+81
+00:03:10,690 --> 00:03:13,710
+large A, a small A, which results in 
+
+82
+00:03:13,710 --> 00:03:16,130
+brown eyes, a large A and another 
+
+83
+00:03:16,130 --> 00:03:18,190
+large A, which also results in 
+
+84
+00:03:18,190 --> 00:03:20,910
+brown eyes, but a small A and 
+
+85
+00:03:20,910 --> 00:03:22,470
+another small A results in blue 
+
+86
+00:03:22,470 --> 00:03:24,470
+eyes. Now that the conceptual 
+
+87
+00:03:24,470 --> 00:03:26,070
+basics have been clarified, we come 
+
+88
+00:03:26,070 --> 00:03:28,170
+to Mendel's first rule, the 
+
+89
+00:03:28,170 --> 00:03:31,030
+uniformity rule. It states that 
+
+90
+00:03:31,030 --> 00:03:32,750
+when two organisms 
+
+91
+00:03:32,750 --> 00:03:34,750
+with different 
+
+92
+00:03:34,750 --> 00:03:36,570
+homozygous traits are crossed , all 
+
+93
+00:03:36,570 --> 00:03:37,610
+organisms of the first 
+
+94
+00:03:37,610 --> 00:03:40,910
+daughter generation F1 
+
+95
+00:03:40,910 --> 00:03:43,810
+look the same, i.e. uniform. Even if 
+
+96
+00:03:43,810 --> 00:03:46,270
+they are now heterozygous. To 
+
+97
+00:03:46,270 --> 00:03:47,710
+illustrate this, you can see a 
+
+98
+00:03:47,710 --> 00:03:50,190
+combination square here. One parent 
+
+99
+00:03:50,190 --> 00:03:52,730
+has the genes large B, large B 
+
+100
+00:03:52,730 --> 00:03:55,790
+and the other the genes small G and 
+
+101
+00:03:55,790 --> 00:03:58,570
+small G. Each parent inherits 
+
+102
+00:03:58,570 --> 00:04:00,930
+only one gene at a time. 
+
+103
+00:04:00,930 --> 00:04:02,750
+The result is always the combination large 
+B, 
+
+104
+00:04:02,950 --> 00:04:06,050
+small G. Here B stands for blue and 
+
+105
+00:04:06,050 --> 00:04:09,250
+G for green. The blue alleles are 
+
+106
+00:04:09,250 --> 00:04:11,310
+dominant and the green alleles are 
+recessive. 
+
+107
+00:04:11,450 --> 00:04:13,190
+This means that all organisms of the 
+
+108
+00:04:13,190 --> 00:04:15,830
+daughter generation are blue. The second 
+
+109
+00:04:15,830 --> 00:04:18,130
+Mendelian rule, the splitting rule, 
+
+110
+00:04:18,130 --> 00:04:19,770
+deals with what happens 
+
+111
+00:04:19,810 --> 00:04:21,050
+when you 
+
+112
+00:04:21,050 --> 00:04:23,590
+
+113
+00:04:23,590 --> 00:04:25,910
+cross members of the first daughter 
+generation, i.e. the F1 generation. It is 
+called the 
+
+114
+00:04:25,910 --> 00:04:28,010
+splitting rule because both 
+
+115
+00:04:28,010 --> 00:04:29,490
+characteristics of the parent generation 
+
+116
+00:04:29,490 --> 00:04:33,010
+can now occur again. Transcription. Here 
+
+117
+00:04:33,010 --> 00:04:35,010
+is another combination square. 
+
+118
+00:04:35,750 --> 00:04:37,590
+This time either a 
+
+119
+00:04:37,590 --> 00:04:40,270
+large B or a small G is inherited. 
+
+120
+00:04:40,370 --> 00:04:42,150
+The combinations 
+
+121
+00:04:42,150 --> 00:04:46,050
+large B, large B, large B, small 
+
+122
+00:04:46,050 --> 00:04:50,030
+G and large B, small G as well as 
+
+123
+00:04:50,030 --> 00:04:53,650
+small G, small G are formed. The optical 
+
+124
+00:04:53,650 --> 00:04:55,570
+result shows that there are now both 
+
+125
+00:04:55,570 --> 00:04:57,390
+blue and green organisms. 
+
+126
+00:04:57,570 --> 00:04:59,810
+The ratio between blue and green 
+
+127
+00:04:59,810 --> 00:05:02,670
+is 3 to 1. The third Mendelian 
+
+128
+00:05:02,670 --> 00:05:04,550
+rule is the independence rule, 
+
+129
+00:05:04,570 --> 00:05:06,670
+also known as the recombination rule. 
+
+130
+00:05:07,030 --> 00:05:08,610
+In this rule, 
+
+131
+00:05:08,610 --> 00:05:11,170
+two independent characteristics are 
+
+132
+00:05:11,170 --> 00:05:13,570
+considered simultaneously . The parent 
+generation is 
+
+133
+00:05:13,570 --> 00:05:15,770
+again homozygous. In the second 
+
+134
+00:05:15,770 --> 00:05:17,670
+generation, 
+
+135
+00:05:17,670 --> 00:05:19,190
+however, the result is individuals with 
+new 
+
+136
+00:05:19,190 --> 00:05:21,150
+combinations. The 
+
+137
+00:05:21,150 --> 00:05:23,050
+combination square shows that 
+
+138
+00:05:23,050 --> 00:05:25,810
+a large R or a small 
+
+139
+00:05:25,810 --> 00:05:29,030
+Q has been added in each case. R is 
+dominant 
+
+140
+00:05:29,030 --> 00:05:32,310
+and stands for round, Q is recessive 
+
+141
+00:05:32,310 --> 00:05:35,310
+and stands for square. All 
+
+142
+00:05:35,310 --> 00:05:36,370
+organisms of the first 
+
+143
+00:05:36,370 --> 00:05:38,470
+daughter generation are both blue 
+
+144
+00:05:38,470 --> 00:05:40,230
+and round. If you now cross 
+
+145
+00:05:40,230 --> 00:05:41,970
+members of this generation, you 
+
+146
+00:05:41,970 --> 00:05:44,430
+get the following combination. 
+
+147
+00:05:44,430 --> 00:05:46,150
+Nine different 
+
+148
+00:05:46,150 --> 00:05:48,430
+combinations are formed . In the second 
+
+149
+00:05:48,430 --> 00:05:50,690
+daughter generation, there are now four 
+
+150
+00:05:50,690 --> 00:05:54,910
+optical types. Blue-round, green-round, 
+
+151
+00:05:54,930 --> 00:05:57,350
+blue-square and 
+
+152
+00:05:57,350 --> 00:05:59,610
+ green-square. They 
+
+153
+00:05:59,610 --> 00:06:02,910
+
+154
+00:06:02,910 --> 00:06:05,170
+occur in a ratio of 9 to 3 to 3 to 1. This 
+ratio 
+
+155
+00:06:05,170 --> 00:06:07,030
+applies to the phenotypic occurrence. 
+
+156
+00:06:07,250 --> 00:06:09,210
+In the genotype, the 
+
+157
+00:06:09,210 --> 00:06:10,270
+ratio differs 
+
+158
+00:06:10,270 --> 00:06:12,550
+fundamentally once again. Finally, 
+
+159
+00:06:12,570 --> 00:06:14,550
+an overview of all three rules. 
+
+160
+00:06:15,570 --> 00:06:17,870
+Firstly the uniformity rule, 
+
+161
+00:06:17,890 --> 00:06:22,050
+secondly the splitting rule and thirdly 
+
+162
+00:06:22,050 --> 00:06:25,430
+the independence rule. I hope 
+
+163
+00:06:25,510 --> 00:06:26,990
+I have been able to help you 
+
+164
+00:06:26,990 --> 00:06:28,430
+understand Mendel's rules of inheritance 
+
+165
+00:06:28,430 --> 00:06:30,210
+. See you next time. 

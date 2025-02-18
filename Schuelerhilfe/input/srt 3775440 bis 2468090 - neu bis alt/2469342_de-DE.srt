@@ -1,0 +1,1036 @@
+1
+00:00:28,340 --> 00:00:29,980
+Guten Abend und herzlich willkommen
+
+2
+00:00:29,980 --> 00:00:34,000
+zum Webinar zum Thema Geometrie. Ich
+
+3
+00:00:34,000 --> 00:00:36,300
+hoffe, ihr könnt mich alle hören und
+
+4
+00:00:36,300 --> 00:00:41,760
+Bild und Ton sind in Ordnung. Hier
+
+5
+00:00:41,760 --> 00:00:43,980
+ist einmal eine kurze Übersicht
+
+6
+00:00:43,980 --> 00:00:45,360
+dargestellt, was euch gleich im
+
+7
+00:00:45,360 --> 00:00:48,060
+Webinar erwarten wird. Wir
+
+8
+00:00:48,060 --> 00:00:49,600
+beschäftigen uns zu Beginn mit
+
+9
+00:00:49,600 --> 00:00:52,880
+Linien, danach mit Figuren und dann
+
+10
+00:00:52,880 --> 00:00:55,380
+gucken wir uns nochmal Figuren an,
+
+11
+00:00:55,460 --> 00:00:57,200
+die man spiegeln kann. an.
+
+12
+00:00:59,840 --> 00:01:00,900
+Grundsätzlich gibt es in der
+
+13
+00:01:00,900 --> 00:01:02,780
+Mathematik verschiedene Linien. Zum
+
+14
+00:01:02,780 --> 00:01:05,460
+einen gibt es Strecken. Sie haben
+
+15
+00:01:05,460 --> 00:01:10,560
+einen Anfang und ein Ende. Hier haben
+
+16
+00:01:10,560 --> 00:01:11,800
+wir einen Anfang, hier haben wir ein
+
+17
+00:01:11,800 --> 00:01:13,180
+Ende. Wir kennen zwar hin einen
+
+18
+00:01:13,180 --> 00:01:17,000
+Punkt. Dann gibt es auch Halbgeraden,
+
+19
+00:01:17,000 --> 00:01:19,000
+auch als Strahl bezeichnet. Die haben
+
+20
+00:01:19,000 --> 00:01:21,440
+immer einen Anfangspunkt, aber keinen
+
+21
+00:01:21,440 --> 00:01:24,120
+Endpunkt. Das heißt, sie verlaufen
+
+22
+00:01:24,120 --> 00:01:29,080
+ins Unendliche. Dann gibt es auch
+
+23
+00:01:29,080 --> 00:01:35,380
+noch Geraden. Die haben keinen Anfang
+
+24
+00:01:35,380 --> 00:01:40,780
+und kein Ende. Sprich, sie verlaufen.
+
+25
+00:01:44,590 --> 00:01:47,570
+Ja, sie sind letztendlich unendlich
+
+26
+00:01:47,570 --> 00:01:50,650
+lang. Das ist nochmal hier ganz gut
+
+27
+00:01:50,650 --> 00:01:53,030
+dargestellt, um zu zeigen, wir wissen
+
+28
+00:01:53,030 --> 00:01:55,970
+nicht, wo sie aufhören und wo diese
+
+29
+00:01:55,970 --> 00:01:59,770
+Gerade aufhört und wo sie endet. wo
+
+30
+00:01:59,770 --> 00:02:02,070
+sie aufhört und wo sie anfängt. So,
+
+31
+00:02:03,810 --> 00:02:04,570
+dann gucken wir uns mal die
+
+32
+00:02:04,570 --> 00:02:07,130
+Eigenschaften von Linien an. Zwei
+
+33
+00:02:07,130 --> 00:02:09,370
+Linien sind parallel, wenn sie in die
+
+34
+00:02:09,370 --> 00:02:11,870
+gleiche Richtung verlaufen. Egal ob
+
+35
+00:02:11,870 --> 00:02:13,590
+es eine Strecke ist, ein Strahl ist
+
+36
+00:02:13,590 --> 00:02:16,290
+oder eine Gerade. Die blaue und die
+
+37
+00:02:16,290 --> 00:02:18,230
+rote Linie sind parallel zu einer.
+
+38
+00:02:18,290 --> 00:02:19,350
+Das heißt, sie haben überall den
+
+39
+00:02:19,350 --> 00:02:21,190
+gleichen Abstand. Die grüne und die
+
+40
+00:02:21,190 --> 00:02:23,050
+violette Gerade hingegen sind nicht
+
+41
+00:02:23,050 --> 00:02:25,310
+parallel, weil der Abstand hier viel
+
+42
+00:02:25,310 --> 00:02:29,110
+größer ist als hier. Geraden, die
+
+43
+00:02:29,110 --> 00:02:31,570
+nicht parallel sind, schneiden sich
+
+44
+00:02:31,570 --> 00:02:32,510
+irgendwo in einem Punkt,
+
+45
+00:02:32,590 --> 00:02:34,510
+wahrscheinlich irgendwo hier in dem
+
+46
+00:02:34,510 --> 00:02:35,330
+Bereich in etwa.
+
+47
+00:02:38,140 --> 00:02:41,380
+Ein rechter Winkel entsteht, wenn
+
+48
+00:02:41,380 --> 00:02:43,100
+zwei Linien senkrecht zueinander
+
+49
+00:02:43,100 --> 00:02:44,320
+liegen. Sprich, wir haben hier eine
+
+50
+00:02:44,320 --> 00:02:46,660
+Linie und hier haben wir eine Linie.
+
+51
+00:02:47,300 --> 00:02:49,680
+In höheren Jahrgangsstufen lernen wir
+
+52
+00:02:49,680 --> 00:02:52,780
+den Begriff Winkel kennen. Und zwar
+
+53
+00:02:52,780 --> 00:02:53,720
+ist es im Grunde genommen sogar der
+
+54
+00:02:53,720 --> 00:02:57,400
+rechte Winkel. Der beträgt 90 Grad.
+
+55
+00:02:58,680 --> 00:03:00,540
+Einen rechten Winkel findet man fast
+
+56
+00:03:00,540 --> 00:03:03,660
+überall. Beim Fenster, bei den Türen,
+
+57
+00:03:03,820 --> 00:03:06,540
+bei Schuhkartons, aber auch bei einem
+
+58
+00:03:06,540 --> 00:03:11,360
+Blatt Papier. So viel zu den Linien.
+
+59
+00:03:11,380 --> 00:03:13,800
+Kommen wir zu den Figuren. Figuren
+
+60
+00:03:13,800 --> 00:03:15,540
+entstehen, wenn mehrere Punkte in der
+
+61
+00:03:15,540 --> 00:03:17,620
+Ebene nacheinander verbunden werden.
+
+62
+00:03:19,280 --> 00:03:22,360
+Hier haben wir einmal ein Dreieck,
+
+63
+00:03:22,440 --> 00:03:24,840
+hier haben wir ein Viereck mit vier
+
+64
+00:03:24,840 --> 00:03:26,960
+Ecken, hier haben wir ein Fünfeck mit
+
+65
+00:03:26,960 --> 00:03:29,940
+fünf Hier haben wir sogar ein Achteck
+
+66
+00:03:29,940 --> 00:03:31,700
+mit 8 Ecken, wenn wir die zählen. 1,
+
+67
+00:03:31,740 --> 00:03:34,960
+2, 3, 4, 5, 6, 7, 8. Und hier haben
+
+68
+00:03:34,960 --> 00:03:39,000
+wir einen Kreis mit keinen Ecken. Das
+
+69
+00:03:39,000 --> 00:03:41,140
+heißt, das sind jetzt so die Figuren,
+
+70
+00:03:41,160 --> 00:03:44,580
+die wir hier aufgeführt haben, die
+
+71
+00:03:44,580 --> 00:03:46,160
+euch auch aus der Schule geläufig
+
+72
+00:03:46,160 --> 00:03:49,460
+sind. Gucken wir uns als erstes ein
+
+73
+00:03:49,460 --> 00:03:50,940
+Viereck an. Im Grunde genommen
+
+74
+00:03:50,940 --> 00:03:52,460
+handelt es sich sogar hierbei um ein
+
+75
+00:03:52,460 --> 00:03:55,820
+Quadrat. Alle Seiten, sprich die
+
+76
+00:03:55,820 --> 00:03:58,940
+Seite C, B, A, D sind gleich lang und
+
+77
+00:03:58,940 --> 00:04:01,400
+die gegenüberliegenden Seiten sind
+
+78
+00:04:01,400 --> 00:04:03,120
+sogar parallel. Sie haben überall
+
+79
+00:04:03,120 --> 00:04:05,900
+denselben Abstand und alle Winkel
+
+80
+00:04:05,900 --> 00:04:10,190
+haben einen rechten Winkel. Also hier
+
+81
+00:04:10,190 --> 00:04:11,970
+liegt ein rechter Winkel vor, hier
+
+82
+00:04:11,970 --> 00:04:13,670
+liegt ein rechter Winkel vor, hier
+
+83
+00:04:13,670 --> 00:04:15,410
+liegt ein rechter Winkel vor und hier
+
+84
+00:04:15,410 --> 00:04:17,330
+liegt ein rechter Winkel vor. Denn
+
+85
+00:04:17,330 --> 00:04:19,910
+die Seite und die Seite liegen
+
+86
+00:04:19,910 --> 00:04:21,550
+senkrecht zueinander, aber auch die
+
+87
+00:04:21,550 --> 00:04:23,990
+Seite und die Seite und auch die
+
+88
+00:04:23,990 --> 00:04:27,090
+Seite B und A und so weiter. Dann
+
+89
+00:04:27,090 --> 00:04:30,070
+gibt es auch Rechtecke. Bei den
+
+90
+00:04:30,070 --> 00:04:31,310
+Rechtecken ist es so, dass die
+
+91
+00:04:31,310 --> 00:04:33,530
+gegenüberliegenden Seiten, sprich C
+
+92
+00:04:33,530 --> 00:04:37,210
+und A, aber auch D und B gleich lang
+
+93
+00:04:37,210 --> 00:04:41,130
+sind und sie sind parallel. Aber die
+
+94
+00:04:41,130 --> 00:04:43,190
+Seiten A und B sind zum Beispiel
+
+95
+00:04:43,190 --> 00:04:45,070
+nicht gleich lang. Auch hier haben
+
+96
+00:04:45,070 --> 00:04:48,330
+wir wieder rechte Winkeln in den
+
+97
+00:04:48,330 --> 00:04:50,570
+Ecken jeweils, da sie senkrecht
+
+98
+00:04:50,570 --> 00:04:53,890
+zueinander liegen, die Seiten. Dann
+
+99
+00:04:53,890 --> 00:04:55,550
+haben wir hier ein Parallelogramm.
+
+100
+00:04:57,170 --> 00:04:59,110
+Die gegenüberliegenden Seiten sind
+
+101
+00:04:59,110 --> 00:05:00,350
+wieder gleich lang, nur dass sie
+
+102
+00:05:00,350 --> 00:05:04,010
+leicht versetzt sind. Und sie sind
+
+103
+00:05:04,010 --> 00:05:06,390
+auch wieder parallel. Das sehen wir
+
+104
+00:05:06,390 --> 00:05:08,650
+auch ganz schön. Die sind alle, der
+
+105
+00:05:08,650 --> 00:05:10,650
+Abstand überall ist in etwa gleich.
+
+106
+00:05:14,080 --> 00:05:17,060
+Dann kommen wir zum Trapez. Und bei
+
+107
+00:05:17,060 --> 00:05:18,660
+dem Trapez ist es so, dass die zwei
+
+108
+00:05:18,660 --> 00:05:19,920
+gegenüberliegenden Seiten Seiten
+
+109
+00:05:19,920 --> 00:05:24,460
+parallel zueinander sind. Die anderen
+
+110
+00:05:24,460 --> 00:05:26,060
+beiden gegenüberliegenden Seiten
+
+111
+00:05:26,060 --> 00:05:29,760
+hingegen sind nicht parallel und es
+
+112
+00:05:29,760 --> 00:05:31,220
+liegt auch kein rechter Winkel vor.
+
+113
+00:05:32,850 --> 00:05:34,390
+Dann haben wir hier auch ein
+
+114
+00:05:34,390 --> 00:05:38,230
+unregelmäßiges Viereck. Wir sehen die
+
+115
+00:05:38,230 --> 00:05:41,790
+Seiten gegenüberliegenden Seiten sind
+
+116
+00:05:41,790 --> 00:05:45,650
+weder parallel noch haben
+
+117
+00:05:47,730 --> 00:05:50,610
+wir hier überall die gleiche Länge.
+
+118
+00:05:51,970 --> 00:05:53,730
+Und es liegt auch kein rechter Winkel
+
+119
+00:05:53,730 --> 00:05:53,930
+vor.
+
+120
+00:05:58,150 --> 00:06:02,050
+So, ein Quadrat hatten wir gerade.
+
+121
+00:06:03,710 --> 00:06:05,770
+Dann haben wir noch eine Raute. Bei
+
+122
+00:06:05,770 --> 00:06:08,410
+der Raute ist es so, dass alle Seiten
+
+123
+00:06:08,410 --> 00:06:10,950
+auch wieder gleich lang sind. Und die
+
+124
+00:06:10,950 --> 00:06:12,590
+gegenüberliegenden Seiten sind auch
+
+125
+00:06:12,590 --> 00:06:16,950
+wieder parallel. Nur, dass die Seiten
+
+126
+00:06:16,950 --> 00:06:18,990
+etwas versetzt sind, aber dennoch
+
+127
+00:06:18,990 --> 00:06:21,630
+parallel zueinander stehen und gleich
+
+128
+00:06:21,630 --> 00:06:26,030
+lang sind. Das Parallelogramm hatten
+
+129
+00:06:26,030 --> 00:06:28,210
+wir gerade auch, aber ein
+
+130
+00:06:28,210 --> 00:06:29,510
+Drachenviereck hatten wir noch nicht.
+
+131
+00:06:29,590 --> 00:06:31,250
+Hier sind die nebeneinander liegenden
+
+132
+00:06:31,250 --> 00:06:35,630
+Seiten gleich lang, die Seite C und
+
+133
+00:06:35,630 --> 00:06:38,090
+D, aber auch die Seite A und B sind
+
+134
+00:06:38,090 --> 00:06:41,610
+gleich lang. Aber die Seite A und D
+
+135
+00:06:41,610 --> 00:06:43,830
+oder die Seite B und C sind hingegen
+
+136
+00:06:43,830 --> 00:06:47,690
+nicht gleich lang. Hier haben wir
+
+137
+00:06:47,690 --> 00:06:49,430
+nochmal eine Hierarchie der Vierecke
+
+138
+00:06:49,430 --> 00:06:50,950
+abgebildet, das sind so die
+
+139
+00:06:50,950 --> 00:06:52,830
+geläufigsten Vierecke. die in der
+
+140
+00:06:52,830 --> 00:06:55,330
+Schule thematisiert werden. Wir
+
+141
+00:06:55,330 --> 00:06:57,170
+starten mit dem Quadrat, dann guckt
+
+142
+00:06:57,170 --> 00:06:58,470
+man sich in der Regel danach die
+
+143
+00:06:58,470 --> 00:07:01,590
+Raute und das Rechteck an. Danach
+
+144
+00:07:01,590 --> 00:07:03,490
+schaut man sich das Parallelogramm
+
+145
+00:07:03,490 --> 00:07:06,010
+an. Und zu guter Letzt guckt man sich
+
+146
+00:07:06,010 --> 00:07:09,950
+dann den Drachen, ja, beliebige
+
+147
+00:07:09,950 --> 00:07:13,210
+Vierecke und den Trapez an.
+
+148
+00:07:16,900 --> 00:07:19,020
+Zuletzt beschäftigen wir uns mit der
+
+149
+00:07:19,020 --> 00:07:22,800
+Spiegelung. Und zwar gibt es einmal
+
+150
+00:07:22,800 --> 00:07:25,360
+die Spiegelung an. eine achse daher
+
+151
+00:07:25,360 --> 00:07:28,560
+spricht man von der achsen symmetrie
+
+152
+00:07:28,560 --> 00:07:30,700
+das sehen wir hier an den beispielen
+
+153
+00:07:30,700 --> 00:07:33,960
+auch unsere achse und wir wollen
+
+154
+00:07:33,960 --> 00:07:36,880
+diese hälfte hier spiegeln so dass
+
+155
+00:07:36,880 --> 00:07:39,500
+der buchstabe a entsteht oftmals wird
+
+156
+00:07:39,500 --> 00:07:41,360
+in der schule auch gerne ein spiegel
+
+157
+00:07:41,360 --> 00:07:44,320
+genommen und an die spiegel achse
+
+158
+00:07:44,320 --> 00:07:47,400
+gehalten so dass man sehen kann wie
+
+159
+00:07:47,400 --> 00:07:51,160
+die vollständige figur aussieht ja
+
+160
+00:07:51,160 --> 00:07:53,240
+wenn man eine andere figur Hier ist
+
+161
+00:07:53,240 --> 00:07:57,500
+ein Trapez. Und zwar kann man
+
+162
+00:07:57,500 --> 00:07:59,380
+mithilfe der Spiegelachse auch jeden
+
+163
+00:07:59,380 --> 00:08:03,300
+Punkt einzeln spiegeln. Hier ist
+
+164
+00:08:03,300 --> 00:08:04,580
+unsere Spiegelachse und wenn ich
+
+165
+00:08:04,580 --> 00:08:06,700
+jetzt diesen Punkt spiegeln möchte,
+
+166
+00:08:07,920 --> 00:08:09,220
+liegt er genau auf der
+
+167
+00:08:09,220 --> 00:08:10,580
+gegenüberliegenden Seite der
+
+168
+00:08:10,580 --> 00:08:15,130
+Spiegelachse. Dann gibt es auch noch
+
+169
+00:08:15,130 --> 00:08:17,950
+die Spiegelung in einem Punkt. Also
+
+170
+00:08:17,950 --> 00:08:19,150
+hier ist unser Punkt. Man spricht
+
+171
+00:08:19,150 --> 00:08:20,630
+auch von einer Punktsymmetrie.
+
+172
+00:08:20,650 --> 00:08:22,170
+Eingenommen, ich möchte diesen Punkt
+
+173
+00:08:22,170 --> 00:08:24,770
+hier spiegeln. Dann spiegle ich das
+
+174
+00:08:24,770 --> 00:08:28,150
+einer Punktsymmetrie und der Punkt
+
+175
+00:08:28,150 --> 00:08:30,490
+ist dann auf der gegenüberliegenden
+
+176
+00:08:30,490 --> 00:08:33,150
+Seite. Ich kann natürlich auch diesen
+
+177
+00:08:33,150 --> 00:08:36,270
+Punkt hier spiegeln. An dem Punkt
+
+178
+00:08:36,270 --> 00:08:38,310
+hier, dann liegt der Punkt gespiegelt
+
+179
+00:08:38,310 --> 00:08:39,030
+auch wieder auf der
+
+180
+00:08:39,030 --> 00:08:41,050
+gegenüberliegenden Seite. Und wenn
+
+181
+00:08:41,050 --> 00:08:42,930
+ich den Punkt hier spiegle, dann
+
+182
+00:08:42,930 --> 00:08:44,810
+nehme ich wieder den Punkt zur Hilfe.
+
+183
+00:08:46,330 --> 00:08:48,270
+Und wenn er gespiegelt wird, liegt er
+
+184
+00:08:48,270 --> 00:08:50,930
+auf der anderen Seite, nämlich hier.
+
+185
+00:08:50,930 --> 00:08:51,750
+Hier
+
+186
+00:08:55,880 --> 00:09:02,110
+haben wir nochmal eine Raute und ein
+
+187
+00:09:02,110 --> 00:09:04,070
+paar Punkte dargestellt und einen
+
+188
+00:09:04,070 --> 00:09:07,190
+noch nicht fertigen Stern. So, hier
+
+189
+00:09:07,190 --> 00:09:08,730
+haben wir wieder unsere Spiegelachse.
+
+190
+00:09:08,890 --> 00:09:10,690
+Wenn ich diesen Punkt hier spiegeln
+
+191
+00:09:10,690 --> 00:09:12,650
+möchte, gucke ich mir wieder die
+
+192
+00:09:12,650 --> 00:09:14,670
+Spiegelachse an und der liegt auf der
+
+193
+00:09:14,670 --> 00:09:16,590
+gegenüberliegenden Seite. Das
+
+194
+00:09:20,560 --> 00:09:21,880
+gleiche kann ich mit den beiden
+
+195
+00:09:21,880 --> 00:09:23,900
+anderen Punkten auch machen. Ich kann
+
+196
+00:09:23,900 --> 00:09:27,440
+aber auch eine Figur spiegeln, indem
+
+197
+00:09:27,440 --> 00:09:29,700
+ich jeden Punkt einzeln spiegeln.
+
+198
+00:09:29,820 --> 00:09:31,940
+Nämlich den Punkt hier, den Punkt
+
+199
+00:09:31,940 --> 00:09:33,920
+hier, dann liegt er hier. Wenn ich
+
+200
+00:09:33,920 --> 00:09:35,520
+den Punkt spiegele, liegt er hier.
+
+201
+00:09:35,640 --> 00:09:36,740
+Und wenn ich diesen Punkt hier
+
+202
+00:09:36,740 --> 00:09:38,700
+spiegele, liegt er hier. Und wenn ich
+
+203
+00:09:38,700 --> 00:09:40,420
+den Punkt spiegele, liegt er hier.
+
+204
+00:09:40,440 --> 00:09:41,700
+Und jetzt muss ich nur die Punkte
+
+205
+00:09:41,700 --> 00:09:44,600
+verbinden. Und dann entsteht auf der
+
+206
+00:09:44,600 --> 00:09:47,000
+anderen Seite auch wieder eine Raute.
+
+207
+00:09:48,340 --> 00:09:50,200
+Mit dem Stern mache ich das genauso.
+
+208
+00:09:50,400 --> 00:09:51,440
+Hier muss ich auch jeden Punkt
+
+209
+00:09:51,440 --> 00:09:53,080
+einzeln spiegeln. Diesen Punkt kann
+
+210
+00:09:53,080 --> 00:09:54,320
+ich nicht spiegeln, weil er direkt
+
+211
+00:09:54,320 --> 00:09:58,120
+auf der Spiegelachse liegt. Wenn ich
+
+212
+00:09:58,120 --> 00:09:59,500
+den Punkt spiegle, lande ich hier.
+
+213
+00:09:59,620 --> 00:10:01,100
+Wenn ich diesen Punkt hier spiegle,
+
+214
+00:10:01,160 --> 00:10:02,780
+lande ich hier. Wenn ich den Punkt
+
+215
+00:10:02,780 --> 00:10:04,280
+spiegle, lande ich in etwa irgendwo
+
+216
+00:10:04,280 --> 00:10:06,420
+hier. Und der Punkt braucht wieder
+
+217
+00:10:06,420 --> 00:10:07,900
+nicht gespiegelt zu werden, weil er
+
+218
+00:10:07,900 --> 00:10:09,160
+auf der Spiegelachse liegt. Das
+
+219
+00:10:09,160 --> 00:10:10,060
+heißt, ich müsste jetzt nur noch
+
+220
+00:10:10,060 --> 00:10:11,840
+diese Punkte miteinander verbinden.
+
+221
+00:10:12,420 --> 00:10:14,060
+Und dann würde ein vollständiger
+
+222
+00:10:14,060 --> 00:10:15,300
+Stern entstehen.
+
+223
+00:10:17,570 --> 00:10:18,560
+Hier habe ich nochmal einige
+
+224
+00:10:18,560 --> 00:10:21,560
+Beispiele zur Punktsymmetrie. Über
+
+225
+00:10:21,560 --> 00:10:22,880
+das Beispiel hatten wir uns schon
+
+226
+00:10:22,880 --> 00:10:25,640
+unterhalten. Hier haben wir wieder
+
+227
+00:10:25,640 --> 00:10:27,900
+Punkte. Hier ist wieder unser Punkt,
+
+228
+00:10:28,200 --> 00:10:29,620
+der rote Punkt.
+
+229
+00:10:33,180 --> 00:10:35,180
+Ja, die blauen Punkte sollen wir
+
+230
+00:10:35,180 --> 00:10:36,440
+letztendlich an diesem roten Punkt
+
+231
+00:10:36,440 --> 00:10:37,860
+spiegeln, sprich unsere
+
+232
+00:10:37,860 --> 00:10:39,960
+Punktsymmetrie. Und wenn wir das
+
+233
+00:10:39,960 --> 00:10:41,360
+machen, wenn ich diesen Punkt hier
+
+234
+00:10:41,360 --> 00:10:42,720
+betrachte und das an dem Punkt hier
+
+235
+00:10:42,720 --> 00:10:45,800
+spiegle, lande ich hier. Wenn ich
+
+236
+00:10:45,800 --> 00:10:47,380
+diesen Punkt hier betrachte und es an
+
+237
+00:10:47,380 --> 00:10:49,300
+dem Punkt hier spiegelt, lande ich
+
+238
+00:10:49,300 --> 00:10:51,360
+hier. Wenn ich den Punkt hier
+
+239
+00:10:51,360 --> 00:10:53,200
+spiegelt und wieder von dem Punkt aus
+
+240
+00:10:53,200 --> 00:10:57,740
+spiegelt,
+
+241
+00:10:57,760 --> 00:10:58,520
+dann lande ich hier.
+
+242
+00:11:01,940 --> 00:11:05,380
+Ja und hier, um diese Figur zu
+
+243
+00:11:05,380 --> 00:11:09,520
+spiegeln, muss ich letztendlich die
+
+244
+00:11:09,520 --> 00:11:11,780
+Punktsymmetrie, sprich den Punkt an
+
+245
+00:11:11,780 --> 00:11:15,620
+dieser Stelle hier markieren. Ich
+
+246
+00:11:19,840 --> 00:11:23,280
+könnte natürlich auch eine
+
+247
+00:11:24,940 --> 00:11:27,580
+Spiegelachse an dieser Stelle legen,
+
+248
+00:11:27,640 --> 00:11:29,020
+fällt mir gerade auf, dann würde ich
+
+249
+00:11:29,020 --> 00:11:32,060
+den Punkt auch wieder spiegeln.
+
+250
+00:11:33,840 --> 00:11:36,380
+Also ihr merkt, es gibt Figuren, wo
+
+251
+00:11:36,380 --> 00:11:39,560
+man sowohl die Punktsymmetrie nutzen
+
+252
+00:11:39,560 --> 00:11:43,860
+kann, als auch die Achsensymmetrie.
+
+253
+00:11:43,920 --> 00:11:45,060
+Das ist jetzt hier wirklich so eine
+
+254
+00:11:45,060 --> 00:11:45,660
+Ausnahme.
+
+255
+00:11:48,350 --> 00:11:49,910
+Ja, vielen Dank für eure
+
+256
+00:11:49,910 --> 00:11:51,750
+Aufmerksamkeit. Ich bedanke mich
+
+257
+00:11:51,750 --> 00:11:53,290
+recht herzlich bei euch und wünsche
+
+258
+00:11:53,290 --> 00:11:55,110
+euch allen einen schönen Abend.
+
+259
+00:11:56,350 --> 00:11:56,910
+Tschüss!
+

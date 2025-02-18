@@ -1,0 +1,972 @@
+1
+00:00:00,080 --> 00:00:02,240
+Hallo und herzlich willkommen zu den
+
+2
+00:00:02,240 --> 00:00:05,060
+Lernvideos der Schülerhilfe. In
+
+3
+00:00:05,060 --> 00:00:06,980
+diesem Modul geht es darum, wie man
+
+4
+00:00:06,980 --> 00:00:08,920
+Suchergebnisse richtig beurteilt.
+
+5
+00:00:14,090 --> 00:00:15,710
+Wir lernen, wie man die Informationen
+
+6
+00:00:15,710 --> 00:00:19,070
+der Recherche verwenden sollte. Wir
+
+7
+00:00:19,070 --> 00:00:20,770
+lernen mehr über die Urheberrechte
+
+8
+00:00:20,770 --> 00:00:22,470
+und dass man Quellen kenntlich machen
+
+9
+00:00:22,470 --> 00:00:25,350
+muss. Wir beschäftigen uns mit dem
+
+10
+00:00:25,350 --> 00:00:28,010
+direkten und indirekten Zitat sowie
+
+11
+00:00:28,010 --> 00:00:29,450
+mit Quellenangaben.
+
+12
+00:00:32,400 --> 00:00:34,180
+Fangen wir damit an, wie man die
+
+13
+00:00:34,180 --> 00:00:36,000
+richtigen Informationen verwendet.
+
+14
+00:00:37,690 --> 00:00:39,790
+Beachte bitte Folgendes beim
+
+15
+00:00:39,790 --> 00:00:43,470
+Recherchieren im Internet. Alle
+
+16
+00:00:43,470 --> 00:00:46,590
+Treffer müssen bewertet werden. Man
+
+17
+00:00:46,590 --> 00:00:47,910
+muss einschätzen, ob die
+
+18
+00:00:47,910 --> 00:00:50,310
+Informationen glaubwürdig und neutral
+
+19
+00:00:50,310 --> 00:00:54,150
+sind. Man muss darauf achten, dass
+
+20
+00:00:54,150 --> 00:00:55,930
+die Informationen nicht einseitig in
+
+21
+00:00:55,930 --> 00:00:57,270
+eine bestimmte Richtung lenken.
+
+22
+00:00:57,830 --> 00:00:59,810
+Ansonsten könnte deine Recherche
+
+23
+00:00:59,810 --> 00:01:00,970
+manipulativ sein.
+
+24
+00:01:04,340 --> 00:01:06,340
+Welche Voraussetzungen sind nun
+
+25
+00:01:06,340 --> 00:01:07,640
+wichtig für eine richtige
+
+26
+00:01:07,640 --> 00:01:11,320
+Einschätzung von Quellen? Schaue dir
+
+27
+00:01:11,320 --> 00:01:13,260
+mehrere Internetseiten an und
+
+28
+00:01:13,260 --> 00:01:16,660
+vergleiche sie. Wirf einen kritischen
+
+29
+00:01:16,660 --> 00:01:18,200
+Blick auf die gefundenen Seiten.
+
+30
+00:01:19,380 --> 00:01:22,780
+Stelle dir außerdem die Fragen, wie
+
+31
+00:01:22,780 --> 00:01:24,620
+wird auf den einzelnen Internetseiten
+
+32
+00:01:24,620 --> 00:01:27,720
+argumentiert und wie wurden die Texte
+
+33
+00:01:27,720 --> 00:01:28,000
+geschrieben.
+
+34
+00:01:33,340 --> 00:01:35,340
+Es sollte die komplette Internetseite
+
+35
+00:01:35,340 --> 00:01:38,760
+untersucht werden. Es stellen sich
+
+36
+00:01:38,760 --> 00:01:41,560
+folgende Fragen. Welche Ziele
+
+37
+00:01:41,560 --> 00:01:44,940
+verfolgt der Autor der Seite? Ist die
+
+38
+00:01:44,940 --> 00:01:46,380
+Internetseite einer bestimmten
+
+39
+00:01:46,380 --> 00:01:49,320
+Kategorie zuzuordnen? Ist es
+
+40
+00:01:49,320 --> 00:01:50,700
+beispielsweise die Seite einer
+
+41
+00:01:50,700 --> 00:01:52,980
+Universität, eines Klatschblatts,
+
+42
+00:01:53,000 --> 00:01:57,990
+eines Blogs oder eines Forums? Denke
+
+43
+00:01:57,990 --> 00:01:59,370
+auch daran, den Autor und das
+
+44
+00:01:59,370 --> 00:02:01,930
+Impressum sowie die Kommentare und
+
+45
+00:02:01,930 --> 00:02:06,270
+die Linktipps zu prüfen. Wenn die
+
+46
+00:02:06,270 --> 00:02:08,230
+Informationen oder Inhalte auf
+
+47
+00:02:08,230 --> 00:02:10,030
+verschiedenen Seiten übereinstimmen,
+
+48
+00:02:10,110 --> 00:02:11,910
+dann steigt die Wahrscheinlichkeit,
+
+49
+00:02:11,970 --> 00:02:12,870
+dass die Informationen
+
+50
+00:02:12,870 --> 00:02:16,670
+vertrauenswürdig sind. Pass aber auf!
+
+51
+00:02:17,470 --> 00:02:19,570
+Manchmal beziehen verschiedene Seiten
+
+52
+00:02:19,570 --> 00:02:21,550
+ihre Informationen von ein und
+
+53
+00:02:21,550 --> 00:02:23,990
+derselben Quelle. Das erschwert
+
+54
+00:02:23,990 --> 00:02:26,730
+natürlich den Vergleich. Darum gehe
+
+55
+00:02:26,730 --> 00:02:28,670
+immer kritisch mit deinen Quellen um.
+
+56
+00:02:31,650 --> 00:02:33,470
+Apropos kritischer Umgang mit
+
+57
+00:02:33,470 --> 00:02:36,310
+Quellen. Vorsichtig sollte man sein,
+
+58
+00:02:36,310 --> 00:02:38,870
+wenn die Quellen Rechtschreibfehler
+
+59
+00:02:38,870 --> 00:02:41,890
+beinhalten, qualitativ schlechte
+
+60
+00:02:41,890 --> 00:02:43,090
+Abbildungen ausweisen,
+
+61
+00:02:44,370 --> 00:02:47,790
+unübersichtlich sind, veraltete und
+
+62
+00:02:47,790 --> 00:02:49,010
+nicht funktionierende Links
+
+63
+00:02:49,010 --> 00:02:52,110
+beinhalten oder kein Impressum haben.
+
+64
+00:02:57,720 --> 00:02:59,940
+Für gewöhnlich kannst du ganz unten
+
+65
+00:02:59,940 --> 00:03:01,420
+auf der Seite einer Quelle nach
+
+66
+00:03:01,420 --> 00:03:03,400
+Optionen suchen, die für die
+
+67
+00:03:03,400 --> 00:03:04,940
+Beurteilung der Vertraulichkeit
+
+68
+00:03:04,940 --> 00:03:07,760
+herangezogen werden können. Hier
+
+69
+00:03:07,760 --> 00:03:09,140
+siehst du das Beispiel der
+
+70
+00:03:09,140 --> 00:03:11,820
+Suchmaschine Helles Köpfchen. Wie
+
+71
+00:03:14,700 --> 00:03:16,580
+beurteilt man nun die Argumentation
+
+72
+00:03:16,580 --> 00:03:20,380
+einer Quelle? Nicht vertrauenswürdige
+
+73
+00:03:20,380 --> 00:03:22,400
+Quellen weisen oft nur schlichte
+
+74
+00:03:22,400 --> 00:03:25,560
+Frage- bzw. Antwortseiten auf, welche
+
+75
+00:03:25,560 --> 00:03:27,220
+nur sehr knappe, unzureichende
+
+76
+00:03:27,220 --> 00:03:30,740
+Erklärungen bieten. Außerdem sind oft
+
+77
+00:03:30,740 --> 00:03:32,820
+Spekulationen zu finden, die nicht
+
+78
+00:03:32,820 --> 00:03:33,980
+überprüft worden sind.
+
+79
+00:03:35,820 --> 00:03:37,660
+Vertrauenswürdige Quellen bieten
+
+80
+00:03:37,660 --> 00:03:39,460
+hingegen eine sachliche und und
+
+81
+00:03:39,460 --> 00:03:41,440
+neutrale Erklärung sowie eine
+
+82
+00:03:41,440 --> 00:03:42,920
+begründete Bewertung der
+
+83
+00:03:42,920 --> 00:03:43,660
+Argumentation.
+
+84
+00:03:47,090 --> 00:03:49,210
+Wenn es darum geht, herauszufinden,
+
+85
+00:03:49,250 --> 00:03:51,110
+um was für eine Art von Internetseite
+
+86
+00:03:51,110 --> 00:03:53,150
+es sich handelt und welche Ziele
+
+87
+00:03:53,150 --> 00:03:55,170
+diese verfolgt, solltest du folgendes
+
+88
+00:03:55,170 --> 00:03:58,510
+prüfen. Was ist eigentlich das Ziel
+
+89
+00:03:58,510 --> 00:04:01,810
+der Internetseite? Wurde die Seite
+
+90
+00:04:01,810 --> 00:04:03,770
+von einer Privatperson, einer
+
+91
+00:04:03,770 --> 00:04:05,950
+Organisation oder einem Verein
+
+92
+00:04:05,950 --> 00:04:08,950
+geschrieben? Werden aktuelle
+
+93
+00:04:08,950 --> 00:04:11,370
+Geschehnisse berücksichtigt? Wird ein
+
+94
+00:04:11,370 --> 00:04:13,330
+Produkt oder ähnliches präsentiert?
+
+95
+00:04:14,770 --> 00:04:16,590
+Möchte die Webseite sogar etwas
+
+96
+00:04:16,590 --> 00:04:18,930
+verkaufen bzw. wird hier etwas
+
+97
+00:04:18,930 --> 00:04:19,510
+beworben?
+
+98
+00:04:22,050 --> 00:04:24,670
+Es ist auch wichtig, den Autor und
+
+99
+00:04:24,670 --> 00:04:28,090
+das Impressum zu prüfen. Suche nach
+
+100
+00:04:28,090 --> 00:04:29,750
+dem Namen des Autors und der
+
+101
+00:04:29,750 --> 00:04:31,510
+Organisation, für welche er
+
+102
+00:04:31,510 --> 00:04:34,530
+gegebenenfalls schreibt. Das
+
+103
+00:04:34,530 --> 00:04:36,290
+Impressum findest du für gewöhnlich
+
+104
+00:04:36,290 --> 00:04:38,670
+unten auf der Seite. oft auch in
+
+105
+00:04:38,670 --> 00:04:42,730
+Rubriken wie Wir über uns oder Über
+
+106
+00:04:42,730 --> 00:04:46,550
+diese Seite. Vertrauenswürdige
+
+107
+00:04:46,550 --> 00:04:48,510
+Quellen haben zum Beispiel ein
+
+108
+00:04:48,510 --> 00:04:50,710
+wissenschaftliches Institut, eine
+
+109
+00:04:50,710 --> 00:04:53,090
+öffentliche Einrichtung oder bekannte
+
+110
+00:04:53,090 --> 00:04:54,690
+Fachleute als Autor.
+
+111
+00:04:58,880 --> 00:05:00,700
+Versuche herauszufinden, welche
+
+112
+00:05:00,700 --> 00:05:04,260
+Meinung kommuniziert wird. Werden
+
+113
+00:05:04,260 --> 00:05:06,280
+Linktipps zu anderen Seiten genannt,
+
+114
+00:05:06,280 --> 00:05:07,920
+die eventuell bei der Recherche
+
+115
+00:05:07,920 --> 00:05:09,000
+helfen? Jetzt
+
+116
+00:05:12,200 --> 00:05:14,200
+noch ein paar Hinweise zum Thema
+
+117
+00:05:14,200 --> 00:05:15,960
+Urheberrechte von Quellen.
+
+118
+00:05:18,780 --> 00:05:20,880
+Immer wenn du Informationen aus einer
+
+119
+00:05:20,880 --> 00:05:22,720
+Quelle übernimmst, muss dies
+
+120
+00:05:22,720 --> 00:05:25,740
+kenntlich gemacht werden. Es ist
+
+121
+00:05:25,740 --> 00:05:27,820
+nicht erlaubt, fremde Inhalte als
+
+122
+00:05:27,820 --> 00:05:32,800
+eigene auszugeben. Jedes Bild, jeder
+
+123
+00:05:32,800 --> 00:05:36,240
+Satz, jeder Text und jedes Video oder
+
+124
+00:05:36,240 --> 00:05:40,420
+ähnliches hat einen Urheber. Fremde
+
+125
+00:05:40,420 --> 00:05:41,780
+Gedanken, die im eigenen Text
+
+126
+00:05:41,780 --> 00:05:44,060
+eingebaut wurden, müssen zitiert
+
+127
+00:05:44,060 --> 00:05:44,360
+werden. werden.
+
+128
+00:05:47,480 --> 00:05:51,060
+Zitate. Mit Quellen arbeiten. Das
+
+129
+00:05:51,060 --> 00:05:53,020
+direkte und indirekte Zitat.
+
+130
+00:05:55,920 --> 00:05:58,160
+Zunächst einmal ist es wichtig, dass
+
+131
+00:05:58,160 --> 00:06:00,060
+wirklich alle verwendeten Quellen
+
+132
+00:06:00,060 --> 00:06:03,260
+auch genannt werden. Dann gibt es
+
+133
+00:06:03,260 --> 00:06:04,860
+drei verschiedene Arten des
+
+134
+00:06:04,860 --> 00:06:07,960
+Zitierens. Es gibt das wörtliche
+
+135
+00:06:07,960 --> 00:06:11,980
+Zitat, die sinngemäße Übernahme, die
+
+136
+00:06:11,980 --> 00:06:15,020
+auch Paraphrase genannt wird und es
+
+137
+00:06:15,020 --> 00:06:15,800
+gibt den Verweis.
+
+138
+00:06:18,620 --> 00:06:20,760
+Beim wörtlichen oder auch direkt
+
+139
+00:06:20,760 --> 00:06:23,420
+zitieren ist darauf zu achten, dass
+
+140
+00:06:23,420 --> 00:06:25,220
+der genaue Wortlaut übernommen wird.
+
+141
+00:06:26,260 --> 00:06:28,280
+Das Zitat muss außerdem in
+
+142
+00:06:28,280 --> 00:06:30,720
+Anführungszeichen stehen. Das
+
+143
+00:06:30,720 --> 00:06:32,420
+Anführungszeichen zu Beginn des
+
+144
+00:06:32,420 --> 00:06:34,320
+Zitates steht unten und das
+
+145
+00:06:34,320 --> 00:06:36,360
+Anführungszeichen am Ende steht oben.
+
+146
+00:06:37,300 --> 00:06:39,760
+Die Quellenangaben kann man dann in
+
+147
+00:06:39,760 --> 00:06:41,840
+Klammern hinter dem Zitat angeben.
+
+148
+00:06:42,980 --> 00:06:45,120
+Wichtig ist auch, dass die Grammatik
+
+149
+00:06:45,120 --> 00:06:46,340
+und die Rechtschreibung nicht
+
+150
+00:06:46,340 --> 00:06:49,640
+verändert werden dürfen. Falls
+
+151
+00:06:49,640 --> 00:06:51,320
+dennoch Änderungen notwendig sind,
+
+152
+00:06:51,340 --> 00:06:53,100
+muss man diese mit eckigen Klammern
+
+153
+00:06:53,100 --> 00:06:54,840
+kennzeichnen, auch wenn man zum
+
+154
+00:06:54,840 --> 00:06:57,740
+Beispiel etwas auslässt. Eine
+
+155
+00:06:57,740 --> 00:06:59,560
+Auslassung wird wie hier dargestellt
+
+156
+00:06:59,560 --> 00:07:00,480
+gekennzeichnet.
+
+157
+00:07:03,640 --> 00:07:06,520
+Beim Paraphrasieren bzw. beim
+
+158
+00:07:06,520 --> 00:07:08,900
+indirekten Zitat wird der Sinn einer
+
+159
+00:07:08,900 --> 00:07:11,360
+Information mit den eigenen Worten
+
+160
+00:07:11,360 --> 00:07:14,940
+wiedergegeben. Direkt hinter das
+
+161
+00:07:14,940 --> 00:07:17,060
+indirekte Zitat gehören dann die
+
+162
+00:07:17,060 --> 00:07:19,320
+Quellenangaben, eingeleitet durch ein
+
+163
+00:07:19,320 --> 00:07:20,220
+Vergleiche.
+
+164
+00:07:23,320 --> 00:07:25,180
+Stellt sich noch die Frage, wann es
+
+165
+00:07:25,180 --> 00:07:26,720
+eigentlich sinnvoll ist, auf einen
+
+166
+00:07:26,720 --> 00:07:30,080
+Text zu verweisen. Dies macht man in
+
+167
+00:07:30,080 --> 00:07:33,620
+den folgenden Fällen. Falls du nicht
+
+168
+00:07:33,620 --> 00:07:35,420
+näher auf den Text eingehen möchtest,
+
+169
+00:07:35,460 --> 00:07:38,260
+wenn die Quelle, auf die verwiesen
+
+170
+00:07:38,260 --> 00:07:40,000
+wird, nur ein zusätzlicher Hinweis
+
+171
+00:07:40,000 --> 00:07:43,340
+ist, wenn sich ein Zitat nicht lohnt
+
+172
+00:07:43,340 --> 00:07:45,580
+oder wenn du die Glaubwürdigkeit
+
+173
+00:07:45,580 --> 00:07:47,420
+deines Textes stärken möchtest.
+
+174
+00:07:49,790 --> 00:07:52,150
+Quellenangaben. Quellen kenntlich
+
+175
+00:07:52,150 --> 00:07:52,390
+machen.
+
+176
+00:07:55,160 --> 00:07:56,920
+Halte dich beim Zitieren von
+
+177
+00:07:56,920 --> 00:07:58,960
+Internetquellen an dieses Muster.
+
+178
+00:08:01,620 --> 00:08:03,380
+Zunächst wird der Nachname mit
+
+179
+00:08:03,380 --> 00:08:06,580
+abgekürzten Vornamen angegeben. Es
+
+180
+00:08:06,580 --> 00:08:08,380
+folgt das Jahr der Veröffentlichung
+
+181
+00:08:08,380 --> 00:08:11,940
+in Klammern. Danach ist Titel und
+
+182
+00:08:11,940 --> 00:08:15,080
+Untertitel zu nennen. Abschließend
+
+183
+00:08:15,080 --> 00:08:17,160
+wird noch die URL Also die
+
+184
+00:08:17,160 --> 00:08:19,520
+Internetadresse und das Datum des
+
+185
+00:08:19,520 --> 00:08:21,100
+letzten Zugriffs in Klammern
+
+186
+00:08:21,100 --> 00:08:21,380
+geschrieben.
+
+187
+00:08:24,500 --> 00:08:26,200
+Hier siehst du ein Beispiel des
+
+188
+00:08:26,200 --> 00:08:28,400
+Sekretariats der Ständigen Konferenz
+
+189
+00:08:28,400 --> 00:08:30,840
+der Kultusminister der Länder mit dem
+
+190
+00:08:30,840 --> 00:08:33,220
+Titel Standards für die Lehrerbildung
+
+191
+00:08:33,220 --> 00:08:36,700
+– Bildungswissenschaften aus dem Jahr
+
+192
+00:08:36,700 --> 00:08:40,860
+2004. Letzter Seitenaufruf am 9.
+
+193
+00:08:41,060 --> 00:08:46,060
+November 2016. Wenn keine Angaben zum
+
+194
+00:08:46,060 --> 00:08:47,600
+Jahr der Veröffentlichung vorhanden
+
+195
+00:08:47,600 --> 00:08:52,340
+sind, notiere O.J. Dies steht für
+
+196
+00:08:52,340 --> 00:08:56,570
+Ohne Jahresangabe. Wenn es keine
+
+197
+00:08:56,570 --> 00:08:58,810
+Angaben zum Autor gibt, dann nenne
+
+198
+00:08:58,810 --> 00:09:00,830
+die Institution, welche die Webseite
+
+199
+00:09:00,830 --> 00:09:04,130
+betreibt. Es ist möglich, dass dein
+
+200
+00:09:04,130 --> 00:09:06,730
+Lehrer bzw. deine Lehrerin eine
+
+201
+00:09:06,730 --> 00:09:08,470
+andere Richtlinie zum Zitieren
+
+202
+00:09:08,470 --> 00:09:11,270
+wünscht. Kläre deshalb vorher ab,
+
+203
+00:09:11,370 --> 00:09:13,490
+welche Zitierweise zu verwenden ist.
+
+204
+00:09:13,490 --> 00:09:16,830
+ist. In Modul 5 lernst du weitere
+
+205
+00:09:16,830 --> 00:09:19,190
+Quellenangaben wie z.B. von Büchern
+
+206
+00:09:19,190 --> 00:09:22,050
+kennen. Außerdem wird erklärt, wie
+
+207
+00:09:22,050 --> 00:09:26,240
+man Quellen im Fließtext angibt. Wir
+
+208
+00:09:26,240 --> 00:09:27,760
+raten davon ab, Fußnoten zu
+
+209
+00:09:27,760 --> 00:09:29,720
+verwenden, da es innerhalb der
+
+210
+00:09:29,720 --> 00:09:31,780
+Fußnote zu Seitenumbrüchen kommen
+
+211
+00:09:31,780 --> 00:09:34,100
+kann und dies schnell unübersichtlich
+
+212
+00:09:34,100 --> 00:09:34,440
+wird.
+
+213
+00:09:37,440 --> 00:09:40,180
+Im Literaturverzeichnis sollten die
+
+214
+00:09:40,180 --> 00:09:42,440
+Angaben in alphabetischer Reihenfolge
+
+215
+00:09:42,440 --> 00:09:43,980
+nach nach dem Nachnamen des
+
+216
+00:09:43,980 --> 00:09:47,520
+Erstautoren sortiert werden. Bei
+
+217
+00:09:47,520 --> 00:09:49,660
+Quellen ohne Verfasserangaben sind
+
+218
+00:09:49,660 --> 00:09:52,280
+diese im Alphabet unter O.V.
+
+219
+00:09:52,520 --> 00:09:55,960
+anzugeben. Werke, welche der
+
+220
+00:09:55,960 --> 00:09:57,620
+Erstautor alleine verfasst hat,
+
+221
+00:09:57,740 --> 00:09:59,780
+werden vor Werken mit weiteren
+
+222
+00:09:59,780 --> 00:10:03,080
+Autoren aufgelistet. Bei gleichem
+
+223
+00:10:03,080 --> 00:10:05,280
+Erstautor, aber unterschiedlichen Co
+
+224
+00:10:05,280 --> 00:10:07,760
+-Autoren erfolgt die Sortierung nach
+
+225
+00:10:07,760 --> 00:10:09,940
+dem Nachnamen von Zweit- bzw.
+
+226
+00:10:10,280 --> 00:10:11,100
+Drittautoren.
+
+227
+00:10:15,570 --> 00:10:18,070
+Mehrere Werke eines Autors oder
+
+228
+00:10:18,070 --> 00:10:20,630
+mehrerer Autoren werden chronologisch
+
+229
+00:10:20,630 --> 00:10:23,630
+nach Erscheinungsjahr sortiert. Es
+
+230
+00:10:23,630 --> 00:10:24,750
+wird also die älteste
+
+231
+00:10:24,750 --> 00:10:29,100
+Veröffentlichung zuerst genannt. Wenn
+
+232
+00:10:29,100 --> 00:10:31,700
+mehrere Quellen desselben Autors aus
+
+233
+00:10:31,700 --> 00:10:33,200
+dem selben Jahr zitiert werden,
+
+234
+00:10:33,340 --> 00:10:35,340
+erfolgt die Sortierung alphabetisch
+
+235
+00:10:35,340 --> 00:10:37,820
+nach dem ersten Buchstaben des Titels
+
+236
+00:10:37,820 --> 00:10:41,180
+des Beitrages. Es werden dann die
+
+237
+00:10:41,180 --> 00:10:42,720
+Quellen durch durch Kleinbuchstaben,
+
+238
+00:10:42,720 --> 00:10:46,240
+also durch A, B, C und so weiter,
+
+239
+00:10:46,360 --> 00:10:48,220
+hinter dem Erscheinungsjahr
+
+240
+00:10:48,220 --> 00:10:48,980
+unterschieden.
+
+241
+00:10:52,480 --> 00:10:54,560
+Vielen Dank für deine Aufmerksamkeit
+
+242
+00:10:54,560 --> 00:10:56,380
+und viel Erfolg beim Beurteilen
+
+243
+00:10:56,380 --> 00:10:57,560
+deiner Suchergebnisse.
+

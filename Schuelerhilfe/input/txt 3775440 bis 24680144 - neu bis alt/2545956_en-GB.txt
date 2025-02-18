@@ -1,0 +1,2490 @@
+﻿1
+00:00:01,970 --> 00:00:03,870
+Welcome to the webinar 
+
+2
+00:00:03,870 --> 00:00:06,150
+analytical geometry positional 
+relationships 
+
+3
+00:00:06,150 --> 00:00:08,770
+part 2. In this webinar we will 
+
+4
+00:00:08,770 --> 00:00:10,030
+look at the positional relationship 
+between a 
+
+5
+00:00:10,030 --> 00:00:11,650
+line and a plane. 
+
+6
+00:00:11,850 --> 00:00:14,390
+We will also look at what 
+
+7
+00:00:14,390 --> 00:00:15,550
+the calculations look like when the 
+
+8
+00:00:15,550 --> 00:00:16,890
+plane 
+
+9
+00:00:16,890 --> 00:00:18,210
+is given in parameter form and coordinate 
+form. 
+
+10
+00:00:19,730 --> 00:00:21,050
+We will also look at the 
+
+11
+00:00:21,050 --> 00:00:23,590
+positional relationship between two planes 
+
+12
+00:00:23,590 --> 00:00:27,090
+and how to calculate this. It is important 
+to note 
+
+13
+00:00:27,090 --> 00:00:28,950
+that there is always one plane in 
+
+14
+00:00:28,950 --> 00:00:30,390
+coordinate form and another... 
+
+15
+00:00:30,970 --> 00:00:32,890
+plane is given in parameter form. 
+
+16
+00:00:33,750 --> 00:00:35,270
+
+17
+00:00:35,270 --> 00:00:36,870
+We will 
+
+18
+00:00:36,870 --> 00:00:40,050
+see how the calculation looks at this 
+point. Now we come to the 
+
+19
+00:00:40,050 --> 00:00:44,070
+case of a straight line plane. 
+
+20
+00:00:44,070 --> 00:00:45,550
+
+21
+00:00:45,550 --> 00:00:46,950
+There are three cases for the positional 
+relationship between a line and a plane. 
+
+22
+00:00:47,170 --> 00:00:48,970
+The first case is that the straight line 
+
+23
+00:00:48,970 --> 00:00:50,730
+is parallel to the plane. The second 
+
+24
+00:00:50,730 --> 00:00:52,330
+case is that the line 
+
+25
+00:00:52,330 --> 00:00:54,230
+lies in the plane. And the third case is 
+that 
+
+26
+00:00:54,330 --> 00:00:55,930
+the line 
+
+27
+00:00:55,930 --> 00:00:57,330
+has a point of intersection with the 
+plane. As 
+
+28
+00:00:57,330 --> 00:00:59,570
+already mentioned, there are only these 
+three cases here ; 
+
+29
+00:00:59,570 --> 00:01:01,090
+unlike the bearing relationship between 
+
+30
+00:01:01,090 --> 00:01:02,850
+two degrees, there is no 
+
+31
+00:01:02,850 --> 00:01:04,690
+possibility that it is skewed. 
+
+32
+00:01:06,410 --> 00:01:08,590
+To 
+
+33
+00:01:08,590 --> 00:01:10,250
+calculate the position between the line 
+and the plane, we 
+
+34
+00:01:10,250 --> 00:01:11,830
+first look at the direction vectors 
+
+35
+00:01:11,830 --> 00:01:14,430
+. We check whether the 
+
+36
+00:01:14,430 --> 00:01:16,970
+direction vectors of the plane 
+
+37
+00:01:16,970 --> 00:01:18,850
+are linearly dependent on the direction 
+vector of the 
+
+38
+00:01:18,850 --> 00:01:21,050
+degree. In other words, we look 
+
+39
+00:01:21,050 --> 00:01:22,290
+
+40
+00:01:22,290 --> 00:01:23,730
+
+41
+00:01:23,730 --> 00:01:25,630
+at the direction vectors in a similar way 
+to the bearing relationship between two 
+degrees and 
+
+42
+00:01:25,630 --> 00:01:27,730
+see whether we 
+
+43
+00:01:27,730 --> 00:01:29,550
+
+44
+00:01:29,550 --> 00:01:31,050
+
+45
+00:01:31,050 --> 00:01:33,430
+can represent the direction vector of the 
+degrees by the two direction vectors of 
+the plane. If this is the case 
+
+46
+00:01:33,430 --> 00:01:35,830
+, the straight line is either parallel 
+
+47
+00:01:35,830 --> 00:01:39,470
+to the plane or lies in the plane. In 
+order to 
+
+48
+00:01:39,470 --> 00:01:40,770
+
+49
+00:01:40,770 --> 00:01:42,050
+
+50
+00:01:42,050 --> 00:01:43,770
+be able to distinguish between these two 
+cases , the point test is 
+
+51
+00:01:43,770 --> 00:01:46,630
+carried out. In the point test, 
+
+52
+00:01:46,630 --> 00:01:49,010
+the support vector of the line is then 
+
+53
+00:01:49,010 --> 00:01:51,510
+equated with the plane and you 
+
+54
+00:01:51,510 --> 00:01:53,910
+can then see whether the point 
+
+55
+00:01:53,910 --> 00:01:55,590
+is part of the plane or not. This means 
+
+56
+00:01:55,650 --> 00:01:57,290
+that if the point test is successful 
+
+57
+00:01:57,290 --> 00:02:00,950
+and the support vector is in the plane 
+
+58
+00:02:00,950 --> 00:02:02,690
+, the 
+
+59
+00:02:02,690 --> 00:02:04,710
+entire straight line is also in the plane. 
+
+60
+00:02:04,710 --> 00:02:06,310
+If the point test is not successful, 
+
+61
+00:02:06,410 --> 00:02:08,850
+i.e. the support vector does not lie on 
+the 
+
+62
+00:02:08,850 --> 00:02:10,230
+plane, the line is simply 
+
+63
+00:02:10,230 --> 00:02:14,310
+parallel. It is different if we 
+
+64
+00:02:14,310 --> 00:02:16,430
+assume an intersection point, 
+
+65
+00:02:16,430 --> 00:02:17,930
+because then the 
+
+66
+00:02:17,930 --> 00:02:19,490
+direction vector of the degree is linearly 
+
+67
+00:02:19,490 --> 00:02:22,370
+independent of the direction vectors 
+
+68
+00:02:22,370 --> 00:02:24,790
+of the plane, i.e. when we first 
+
+69
+00:02:24,790 --> 00:02:26,470
+check the direction vectors we would 
+
+70
+00:02:26,470 --> 00:02:28,590
+find out that they are independent 
+
+71
+00:02:28,590 --> 00:02:30,910
+and then check directly for an 
+
+72
+00:02:30,910 --> 00:02:32,930
+intersection point because then there must 
+
+73
+00:02:32,930 --> 00:02:35,050
+be an intersection point, i.e. 
+
+74
+00:02:35,050 --> 00:02:37,090
+we 
+
+75
+00:02:37,090 --> 00:02:42,790
+
+76
+00:02:42,790 --> 00:02:44,390
+then set the degrees of the straight line 
+g equal to the plane 
+
+77
+00:02:44,390 --> 00:02:46,950
+. First of all, we can see 
+
+78
+00:02:46,950 --> 00:02:48,430
+that the parametric form of a plane 
+
+79
+00:02:48,430 --> 00:02:50,330
+is characterized by the fact that it 
+
+80
+00:02:50,330 --> 00:02:52,830
+contains two direction vectors. 
+
+81
+00:02:52,830 --> 00:02:54,290
+This means that this is our plane in 
+
+82
+00:02:54,290 --> 00:02:55,930
+parametric form and this is our 
+
+83
+00:02:55,930 --> 00:02:57,450
+linear equation also in 
+
+84
+00:02:57,450 --> 00:03:00,970
+parametric form. First, 
+
+85
+00:03:00,970 --> 00:03:02,330
+we check the linear dependency. 
+
+86
+00:03:02,330 --> 00:03:03,750
+In other words, we look to see whether we 
+
+87
+00:03:03,750 --> 00:03:05,670
+
+88
+00:03:05,770 --> 00:03:07,290
+
+89
+00:03:07,290 --> 00:03:09,090
+
+90
+00:03:09,090 --> 00:03:10,830
+
+91
+00:03:10,830 --> 00:03:11,710
+can represent the direction vector of the 
+E, resolution, the direction vector of the 
+straight line, i.e. this one here, by the 
+two direction vectors of the plane. These 
+are the 
+
+92
+00:03:11,710 --> 00:03:14,610
+two planes. In other words, we check 
+
+93
+00:03:14,610 --> 00:03:15,890
+this and in this case we find 
+
+94
+00:03:15,890 --> 00:03:18,830
+that the direction vector 
+
+95
+00:03:18,830 --> 00:03:20,110
+of the straight line can be 
+
+96
+00:03:20,110 --> 00:03:21,390
+
+97
+00:03:21,390 --> 00:03:23,770
+represented by the two direction vectors 
+of the plane. The factor would be 1 or 1 
+
+98
+00:03:23,770 --> 00:03:27,610
+.5, because 1 is equal to 1.5 times 1 plus 
+
+99
+00:03:27,610 --> 00:03:31,430
+0.5 times 0, so 1 is equal to 1. That 
+
+100
+00:03:31,430 --> 00:03:34,490
+fits. 1 is equal to 1 times 1 plus 1 
+
+101
+00:03:34,490 --> 00:03:36,530
+half times 0, so 1 is equal to 1, which 
+
+102
+00:03:36,530 --> 00:03:39,210
+also fits. And 1 is equal to 1 times 0 
+
+103
+00:03:39,210 --> 00:03:42,290
+plus 1 half times 2, so in the end 1 is 
+
+104
+00:03:42,290 --> 00:03:44,690
+equal to 1. So they are linearly 
+
+105
+00:03:44,690 --> 00:03:47,790
+dependent. Consequently, we assume that 
+
+106
+00:03:47,790 --> 00:03:50,470
+the straight line is parallel to the plane 
+
+107
+00:03:50,470 --> 00:03:52,750
+or part of the plane. Therefore, 
+
+108
+00:03:52,750 --> 00:03:55,410
+we now check the support vector of the 
+
+109
+00:03:55,410 --> 00:03:57,350
+line g and use it to perform a 
+
+110
+00:03:57,350 --> 00:04:00,990
+point test with the plane. In other words, 
+
+111
+00:04:01,110 --> 00:04:03,770
+we 
+
+112
+00:04:03,770 --> 00:04:08,010
+equate the support vector with the plane. 
+We can see here that 1.02 
+
+113
+00:04:08,010 --> 00:04:11,670
+is the support vector of the line and 
+
+114
+00:04:11,670 --> 00:04:15,870
+this here on the right is the 
+
+115
+00:04:15,870 --> 00:04:18,090
+equation of the plane. And this is 
+
+116
+00:04:18,090 --> 00:04:21,670
+then 3.23 plus S times 1.10 plus T times 
+
+117
+00:04:21,670 --> 00:04:23,830
+0.02 and this is equal to our 
+
+118
+00:04:23,830 --> 00:04:27,070
+support vector 1.02. The first thing 
+
+119
+00:04:27,070 --> 00:04:28,330
+
+120
+00:04:28,330 --> 00:04:29,630
+to see here is the calculation technique, 
+our parameters on one side 
+
+121
+00:04:29,650 --> 00:04:30,690
+together, or our 
+
+122
+00:04:30,690 --> 00:04:32,230
+direction vectors including the 
+
+123
+00:04:32,230 --> 00:04:33,910
+associated parameters on one side 
+
+124
+00:04:33,910 --> 00:04:36,070
+together and 
+
+125
+00:04:36,070 --> 00:04:39,230
+the vectors on the other side. This means 
+that the 
+
+126
+00:04:39,230 --> 00:04:41,510
+support vector here, the 3, 2, 3, 
+
+127
+00:04:41,510 --> 00:04:42,730
+should be added, so we calculate 
+
+128
+00:04:42,730 --> 00:04:45,610
+minus the vector 3, 2, 3. 
+
+129
+00:04:45,610 --> 00:04:47,850
+This gives us the vector minus 2, minus 2, 
+
+130
+00:04:47,870 --> 00:04:50,730
+minus 1 is equal to S times 1, 1, 0 plus 
+
+131
+00:04:50,730 --> 00:04:56,710
+T times 0, 0, 2. And 
+
+132
+00:04:56,710 --> 00:04:57,710
+we can use this to 
+
+133
+00:04:57,710 --> 00:04:59,770
+set up the system of equations. This 
+
+134
+00:04:59,770 --> 00:05:01,710
+is simply minus 2 equals s 
+
+135
+00:05:01,710 --> 00:05:04,190
+times 1 plus 0 times t. Minus 2 is 
+
+136
+00:05:04,190 --> 00:05:06,470
+equal to s times 1 plus 0 times t. And 
+
+137
+00:05:06,470 --> 00:05:09,030
+minus 1 is equal to s times 0 plus t times 
+
+138
+00:05:09,030 --> 00:05:10,790
+2. We have thus set up this 
+
+139
+00:05:10,790 --> 00:05:13,010
+system of equations. 
+
+140
+00:05:13,010 --> 00:05:14,430
+In this case, it is a very 
+
+141
+00:05:14,430 --> 00:05:18,070
+simple one. It is worth mentioning 
+
+142
+00:05:18,130 --> 00:05:20,010
+that these 
+
+143
+00:05:20,010 --> 00:05:21,650
+are not always so simple. And even if you 
+
+144
+00:05:21,650 --> 00:05:25,430
+have to do more math . We have three 
+equations 
+
+145
+00:05:25,430 --> 00:05:27,030
+and two unknowns here , which means we 
+
+146
+00:05:27,030 --> 00:05:28,170
+have an overdetermined 
+
+147
+00:05:28,170 --> 00:05:32,430
+system of equations. So you go 
+
+148
+00:05:32,430 --> 00:05:34,910
+and use just two of the three 
+
+149
+00:05:34,910 --> 00:05:36,390
+equations to determine the two 
+
+150
+00:05:36,390 --> 00:05:37,850
+unknowns and 
+
+151
+00:05:37,850 --> 00:05:39,210
+then 
+
+152
+00:05:39,210 --> 00:05:42,650
+do the test with the equation that has not 
+yet been used. This 
+
+153
+00:05:42,650 --> 00:05:43,790
+is not absolutely 
+
+154
+00:05:43,790 --> 00:05:45,070
+necessary in our case , the bores 
+
+155
+00:05:45,070 --> 00:05:47,110
+directly state that minus 2 is equal to S, 
+minus 2 
+
+156
+00:05:47,110 --> 00:05:49,050
+is equal to S, which fits and 
+
+157
+00:05:49,050 --> 00:05:51,670
+minus 1 is equal to 2T. So that's 
+
+158
+00:05:51,670 --> 00:05:52,970
+solved for us and we can see that we 
+
+159
+00:05:52,970 --> 00:05:54,330
+have a uniform solution here 
+
+160
+00:05:54,330 --> 00:05:57,410
+and therefore the straight line is part of 
+the 
+
+161
+00:05:57,410 --> 00:06:01,350
+plane. And the straight line is therefore 
+
+162
+00:06:01,350 --> 00:06:03,050
+really in the plane and 
+
+163
+00:06:03,050 --> 00:06:05,350
+the bearing relationship is thus 
+clarified. 
+
+164
+00:06:07,540 --> 00:06:09,560
+Here we have an example of 
+
+165
+00:06:09,560 --> 00:06:11,860
+another case. 
+
+166
+00:06:11,860 --> 00:06:13,440
+Again, we have a straight line G and a 
+
+167
+00:06:13,440 --> 00:06:15,500
+plane E in parameter form 
+
+168
+00:06:15,500 --> 00:06:17,920
+, both given. And, of course, 
+
+169
+00:06:17,920 --> 00:06:19,380
+the first thing we check here is the 
+
+170
+00:06:19,380 --> 00:06:21,940
+linear dependency. 
+
+171
+00:06:21,940 --> 00:06:23,120
+Again , we find 
+
+172
+00:06:23,120 --> 00:06:25,120
+that the direction vector of the straight 
+line, i.e. 
+
+173
+00:06:25,120 --> 00:06:27,120
+this one, is linearly dependent on the 
+
+174
+00:06:27,120 --> 00:06:28,780
+two direction vectors of the plane. 
+
+175
+00:06:29,860 --> 00:06:31,440
+The factors are the same here, 
+
+176
+00:06:31,580 --> 00:06:34,280
+i.e. they are also linearly dependent 
+
+177
+00:06:34,280 --> 00:06:35,840
+, which is why we 
+
+178
+00:06:35,840 --> 00:06:38,000
+first check whether the 
+
+179
+00:06:38,000 --> 00:06:39,900
+support vector is part of the plane. 
+
+180
+00:06:39,900 --> 00:06:40,880
+In other words, we do the point test. 
+
+181
+00:06:43,900 --> 00:06:45,280
+So we again 
+
+182
+00:06:45,280 --> 00:06:47,420
+
+183
+00:06:47,420 --> 00:06:49,900
+equate the support vector, in this case 2, 
+5, 3, with the plane E. So we arrive at 
+
+184
+00:06:49,900 --> 00:06:52,780
+2, 5, 3 is equal to 3, 2, 3 plus S times 
+
+185
+00:06:52,780 --> 00:06:58,840
+1, 1, 0 plus T times 0, 0, 2. And 
+
+186
+00:06:58,840 --> 00:07:00,120
+here we go again, we 
+
+187
+00:07:00,120 --> 00:07:01,080
+want to 
+
+188
+00:07:01,080 --> 00:07:03,160
+
+189
+00:07:03,160 --> 00:07:05,040
+collect our two direction vectors with the 
+parameters on the right-hand side and the 
+
+190
+00:07:05,040 --> 00:07:06,900
+other vector on the left-hand side. 
+
+191
+00:07:07,000 --> 00:07:08,640
+Therefore, this vector 
+
+192
+00:07:08,640 --> 00:07:10,940
+3, 2, 3 should be removed here and we 
+calculate 
+
+193
+00:07:10,940 --> 00:07:13,800
+minus 3, 2, 3. If we arrive at 2, 
+
+194
+00:07:13,960 --> 00:07:17,300
+minus 3 is the minus 1, 5 minus 2 
+
+195
+00:07:17,300 --> 00:07:21,120
+is the 3, 3 minus 3 is the 0. This brings 
+us 
+
+196
+00:07:21,120 --> 00:07:22,340
+to the equation 
+
+197
+00:07:22,360 --> 00:07:24,540
+, or rather the equation 
+
+198
+00:07:24,540 --> 00:07:27,380
+minus 1, 3, 0 is equal to S times 1, 1, 
+
+199
+00:07:27,400 --> 00:07:32,140
+0 plus T times 0, 0, 2. 
+
+200
+00:07:32,140 --> 00:07:33,260
+We turn this equation into a 
+
+201
+00:07:33,260 --> 00:07:35,920
+system of equations. Again 
+
+202
+00:07:35,920 --> 00:07:37,360
+, this is a simple 
+
+203
+00:07:37,360 --> 00:07:40,080
+case. if the equation or 
+
+204
+00:07:40,080 --> 00:07:41,940
+system of equations is a little more 
+complex, 
+
+205
+00:07:41,940 --> 00:07:43,800
+take two equations 
+
+206
+00:07:43,800 --> 00:07:45,300
+so that 
+
+207
+00:07:45,300 --> 00:07:47,920
+you can determine the two unknowns and do 
+
+208
+00:07:47,920 --> 00:07:48,980
+the test at the end with the third 
+equation 
+
+209
+00:07:48,980 --> 00:07:51,020
+- please make sure you 
+
+210
+00:07:51,020 --> 00:07:52,780
+do the test 
+
+211
+00:07:52,780 --> 00:07:55,120
+because if you 
+
+212
+00:07:55,120 --> 00:07:56,660
+have determined the solution from the two 
+equations, it 
+
+213
+00:07:56,660 --> 00:07:57,820
+does not mean that the third equation 
+
+214
+00:07:57,820 --> 00:08:00,000
+has a true solution and that 
+
+215
+00:08:00,000 --> 00:08:02,600
+
+216
+00:08:02,600 --> 00:08:05,600
+you have really calculated a solution here 
+we see it here 
+
+217
+00:08:05,600 --> 00:08:09,060
+it says minus 1 is equal to 1s, 3 is 
+
+218
+00:08:09,060 --> 00:08:11,520
+equal to s and 0 is equal to 2t. Here 
+
+219
+00:08:11,520 --> 00:08:13,920
+we already have it. Two equations. 
+
+220
+00:08:14,220 --> 00:08:15,260
+Suppose we only had two. 
+
+221
+00:08:15,320 --> 00:08:16,840
+If we had minus 1 equals s and 0 equals 
+
+222
+00:08:16,840 --> 00:08:18,440
+2t. Okay, that sounds good 
+
+223
+00:08:18,440 --> 00:08:20,120
+. 
+
+224
+00:08:20,120 --> 00:08:22,100
+Unfortunately , the third equation says 
+that 3 equals s. And that 
+
+225
+00:08:22,100 --> 00:08:24,340
+is not a clear solution. We 
+
+226
+00:08:24,340 --> 00:08:25,520
+have two different 
+
+227
+00:08:25,520 --> 00:08:28,860
+solutions for s. therefore the 
+
+228
+00:08:28,860 --> 00:08:32,440
+equation system cannot be solved or the 
+
+229
+00:08:32,440 --> 00:08:34,680
+straight line is parallel to the plane 
+
+230
+00:08:34,680 --> 00:08:36,360
+so the point test has failed 
+
+231
+00:08:36,360 --> 00:08:38,280
+the straight line and the plane have no 
+
+232
+00:08:38,280 --> 00:08:40,160
+common point therefore the 
+
+233
+00:08:40,160 --> 00:08:44,930
+straight line is parallel to the plane 
+this brings us 
+
+234
+00:08:44,930 --> 00:08:46,510
+to the last 
+
+235
+00:08:46,510 --> 00:08:49,530
+case we already had straight line 
+
+236
+00:08:49,530 --> 00:08:50,970
+is in the plane and straight line is 
+
+237
+00:08:50,970 --> 00:08:52,510
+parallel to the plane therefore the 
+
+238
+00:08:52,510 --> 00:08:54,930
+last case is now an intersection 
+
+239
+00:08:54,930 --> 00:08:57,670
+also here we have again 
+
+240
+00:08:57,670 --> 00:08:59,130
+
+241
+00:08:59,130 --> 00:09:01,030
+given the straight line in parameter form 
+and the plane parameter form also here 
+
+242
+00:09:01,030 --> 00:09:02,610
+we first check the linear 
+
+243
+00:09:02,610 --> 00:09:03,890
+dependence and 
+
+244
+00:09:03,890 --> 00:09:06,850
+of course we now realize that the 
+
+245
+00:09:06,850 --> 00:09:08,790
+direction vector of the straight line is 
+linearly 
+
+246
+00:09:08,790 --> 00:09:10,390
+independent of the two 
+
+247
+00:09:10,390 --> 00:09:13,010
+direction vectors of the plane this 
+
+248
+00:09:13,010 --> 00:09:15,670
+means that the straight line is in 
+
+249
+00:09:15,670 --> 00:09:17,690
+no case parallel or identical 
+
+250
+00:09:17,690 --> 00:09:21,130
+in no case parallel or 
+
+251
+00:09:21,130 --> 00:09:23,410
+in no case lies in the plane it 
+
+252
+00:09:23,410 --> 00:09:24,950
+definitely has an intersection point and 
+therefore 
+
+253
+00:09:24,950 --> 00:09:26,170
+we also check for this 
+
+254
+00:09:26,170 --> 00:09:30,010
+intersection point this means we 
+
+255
+00:09:30,010 --> 00:09:31,790
+now equate the straight line with the 
+plane 
+
+256
+00:09:31,790 --> 00:09:33,230
+we see here on the left the 
+
+257
+00:09:33,230 --> 00:09:36,090
+equation of the degree here on the right, 
+the 
+
+258
+00:09:36,090 --> 00:09:37,250
+equation of the plane is simply 
+
+259
+00:09:37,250 --> 00:09:40,530
+set to g is equal and now 
+
+260
+00:09:40,530 --> 00:09:43,090
+we solve this equation 
+
+261
+00:09:43,090 --> 00:09:44,430
+. here, too , the approach is to 
+
+262
+00:09:44,430 --> 00:09:45,970
+
+263
+00:09:45,970 --> 00:09:47,470
+
+264
+00:09:47,470 --> 00:09:49,490
+collect the direction vectors including 
+the parameters on the right-hand side. you 
+can 
+
+265
+00:09:49,490 --> 00:09:51,430
+do this here on the left-hand side and 
+
+266
+00:09:51,430 --> 00:09:53,430
+then 
+
+267
+00:09:53,430 --> 00:09:57,370
+always the vector on the corresponding 
+other side . That's why 
+
+268
+00:09:57,370 --> 00:10:00,590
+we calculate minus r times 0, 1, 0 so that 
+
+269
+00:10:00,590 --> 00:10:03,690
+this vector goes over here and we 
+
+270
+00:10:03,690 --> 00:10:06,070
+calculate minus, minus 1, 0, minus 3 
+
+271
+00:10:06,110 --> 00:10:07,370
+so that the vector also 
+
+272
+00:10:07,370 --> 00:10:10,190
+goes over here . 2, minus, minus 1, 
+
+273
+00:10:10,290 --> 00:10:12,370
+sorry, 1, minus, minus 1 is 
+
+274
+00:10:12,370 --> 00:10:15,710
+then 2, 1, minus 0 is 1, 1, 
+
+275
+00:10:15,910 --> 00:10:18,150
+minus, minus 3, so 1 plus 3 is 
+
+276
+00:10:18,150 --> 00:10:18,490
+4. 
+
+277
+00:10:21,460 --> 00:10:22,800
+Now it 
+
+278
+00:10:22,800 --> 00:10:25,080
+continues on the other side the two 
+vectors remain the same 
+
+279
+00:10:25,080 --> 00:10:28,920
+so it times 110 plus topic 002 minus 
+
+280
+00:10:28,920 --> 00:10:32,520
+r times 0 1 0 make sure that there 
+
+281
+00:10:32,520 --> 00:10:34,200
+is still a minus this is now 
+
+282
+00:10:34,200 --> 00:10:36,120
+important if we 
+
+283
+00:10:36,120 --> 00:10:37,860
+make a system of equations out of the 
+equation 
+
+284
+00:10:37,860 --> 00:10:40,180
+then we get two is 
+
+285
+00:10:40,180 --> 00:10:42,720
+equal to it times 1 plus topic 0 minus 
+
+286
+00:10:42,720 --> 00:10:46,700
+once 0 so two is it and 1 is 
+
+287
+00:10:46,700 --> 00:10:49,820
+equal to it times 1 plus topic 0 minus 
+
+288
+00:10:49,820 --> 00:10:52,840
+once 1 so 1 is equal to s minus r 
+
+289
+00:10:52,840 --> 00:10:58,040
+and 4 is equal to 0 times s plus t times 2 
+
+290
+00:10:58,040 --> 00:11:00,920
+minus r times 0, so 4 is equal to 2t. 
+
+291
+00:11:01,500 --> 00:11:03,140
+In this case, we have a 
+
+292
+00:11:03,140 --> 00:11:05,080
+system of equations with three unknowns 
+
+293
+00:11:05,080 --> 00:11:06,320
+and three equations. 
+
+294
+00:11:06,380 --> 00:11:08,100
+This means that this system of equations 
+is not 
+
+295
+00:11:08,100 --> 00:11:09,880
+overdetermined compared to the ones we 
+
+296
+00:11:09,880 --> 00:11:13,000
+dealt with earlier. Therefore 
+
+297
+00:11:13,000 --> 00:11:14,080
+, you need to solve all the equations of 
+the 
+
+298
+00:11:14,080 --> 00:11:15,600
+system of equations and you 
+
+299
+00:11:15,600 --> 00:11:16,920
+don't have to 
+
+300
+00:11:16,920 --> 00:11:19,360
+do a test at the end. From our system of 
+equations 
+
+301
+00:11:19,360 --> 00:11:21,120
+, the solutions... equals 2, r 
+
+302
+00:11:21,120 --> 00:11:23,940
+equals 1 and t equals 2. In order to 
+
+303
+00:11:23,940 --> 00:11:25,940
+specify the intersection 
+
+304
+00:11:25,940 --> 00:11:27,960
+as a point, we still need to 
+
+305
+00:11:27,960 --> 00:11:29,620
+calculate it. We know the parameters 
+
+306
+00:11:29,660 --> 00:11:31,060
+for which the point of intersection exists 
+
+307
+00:11:31,060 --> 00:11:33,280
+and must now, as already mentioned, insert 
+the 
+
+308
+00:11:33,280 --> 00:11:35,880
+parameters into the plane equation or 
+
+309
+00:11:35,880 --> 00:11:36,980
+the linear equation. 
+
+310
+00:11:37,240 --> 00:11:40,640
+We can therefore enter s and t in the 
+
+311
+00:11:40,640 --> 00:11:43,360
+plane equation or we can 
+
+312
+00:11:43,360 --> 00:11:46,060
+enter R equal to 1 in the 
+
+313
+00:11:46,060 --> 00:11:47,460
+linear equation. 
+
+314
+00:11:47,460 --> 00:11:49,120
+As a rule, we always insert the parameter 
+into the 
+
+315
+00:11:49,120 --> 00:11:50,940
+linear equation, simply because it is 
+
+316
+00:11:50,940 --> 00:11:55,780
+quicker. Regardless of whether you 
+
+317
+00:11:55,780 --> 00:11:57,960
+use S and T or R, you must arrive at the 
+
+318
+00:11:57,960 --> 00:11:59,800
+same point, otherwise there is 
+
+319
+00:11:59,800 --> 00:12:00,580
+a calculation error. 
+
+320
+00:12:04,480 --> 00:12:06,580
+That's why you usually use the 
+
+321
+00:12:06,580 --> 00:12:09,220
+easy way and insert the parameter into 
+
+322
+00:12:09,220 --> 00:12:10,560
+the linear equation. So R 
+
+323
+00:12:10,560 --> 00:12:11,860
+equals 1, we now do this 
+
+324
+00:12:11,860 --> 00:12:13,820
+in sequence and arrive at the 
+
+325
+00:12:13,820 --> 00:12:16,760
+equation 1, 1, 1 plus 1 times 0, 1, 0 
+
+326
+00:12:16,760 --> 00:12:19,980
+and that equals 1 plus 1 times 0 is 
+
+327
+00:12:19,980 --> 00:12:23,540
+1, 1 plus 1 times 1 is 2, 1 plus 1 times 
+
+328
+00:12:23,540 --> 00:12:25,820
+0 is 1 again. Consequently, 
+
+329
+00:12:25,820 --> 00:12:29,800
+our intersection point is 1, 2, 1 and 
+
+330
+00:12:29,800 --> 00:12:31,340
+we have 
+
+331
+00:12:31,340 --> 00:12:34,900
+calculated the intersection point. Next, 
+let's take a look 
+
+332
+00:12:34,900 --> 00:12:36,620
+at the calculation technique if it 
+
+333
+00:12:36,620 --> 00:12:38,400
+is given in coordinate form. 
+
+334
+00:12:40,140 --> 00:12:41,780
+We can see the coordinate form 
+
+335
+00:12:41,780 --> 00:12:44,740
+here. The coordinate form contains the 
+
+336
+00:12:44,740 --> 00:12:46,100
+elements x, y and z. 
+
+337
+00:12:49,140 --> 00:12:51,460
+And to put it briefly, if 
+
+338
+00:12:51,460 --> 00:12:53,140
+you 
+
+339
+00:12:53,140 --> 00:12:55,220
+calculate it using the coordinate form , 
+you'll be much better off 
+
+340
+00:12:55,220 --> 00:12:57,580
+because it's much 
+
+341
+00:12:57,580 --> 00:12:58,800
+easier and faster. As you can see 
+
+342
+00:12:58,800 --> 00:12:59,900
+, the calculation we have just 
+
+343
+00:12:59,900 --> 00:13:02,440
+done is much shorter 
+
+344
+00:13:02,440 --> 00:13:03,300
+and you don't need 
+
+345
+00:13:03,300 --> 00:13:04,760
+a system of equations. That's the 
+advantage 
+
+346
+00:13:04,760 --> 00:13:07,000
+of the coordinate form. So we 
+
+347
+00:13:07,000 --> 00:13:08,100
+see here, our plane in 
+
+348
+00:13:08,100 --> 00:13:10,780
+coordinate form 2x minus 1y plus 3z 
+
+349
+00:13:10,780 --> 00:13:14,300
+equals 19 the x or for the x 
+
+350
+00:13:14,300 --> 00:13:16,180
+we put right here this is the x line 
+
+351
+00:13:16,180 --> 00:13:18,520
+for the y here the y line and 
+
+352
+00:13:18,520 --> 00:13:21,220
+for the z here the z line yes so 
+
+353
+00:13:21,220 --> 00:13:23,020
+this is what is meant by that 
+
+354
+00:13:23,020 --> 00:13:25,660
+put the even g in e we now put 
+
+355
+00:13:25,660 --> 00:13:29,540
+1 plus 1r for the x for the y 2 plus 
+
+356
+00:13:29,540 --> 00:13:33,800
+0 times r for the z 3 plus r times 1 
+
+357
+00:13:33,800 --> 00:13:35,580
+we have done that here and now 
+
+358
+00:13:35,580 --> 00:13:36,840
+we see we have an equation here 
+
+359
+00:13:36,860 --> 00:13:39,740
+that only has R as an unknown. And 
+
+360
+00:13:39,740 --> 00:13:42,480
+we can now solve it. So we 
+
+361
+00:13:42,480 --> 00:13:44,240
+can rearrange the whole thing according to 
+R. 
+
+362
+00:13:44,680 --> 00:13:46,640
+And that's why the first thing we're going 
+to do is break 
+
+363
+00:13:46,640 --> 00:13:48,420
+up the brackets. 2 times 1 is 2, 
+
+364
+00:13:48,640 --> 00:13:51,960
+2 times 1R is 2R, minus 1 times 2 
+
+365
+00:13:51,960 --> 00:13:54,960
+is minus 2, minus 1 times 0R is 
+
+366
+00:13:54,960 --> 00:13:57,500
+simply 0, so it falls out. 3 
+
+367
+00:13:57,500 --> 00:14:00,400
+times 3 is the 9 and 3 times 1R is the 
+
+368
+00:14:00,400 --> 00:14:03,780
+3R and the 19 remains for now. 
+
+369
+00:14:03,780 --> 00:14:04,940
+Next, let's try 
+
+370
+00:14:04,940 --> 00:14:07,400
+to see this a little bit. to bundle 2 r 3 
+r 
+
+371
+00:14:07,400 --> 00:14:09,480
+5 so we summarize everything that 
+
+372
+00:14:09,480 --> 00:14:13,600
+goes 2 minus 2 is 0 plus 9 is 
+
+373
+00:14:13,600 --> 00:14:16,060
+simply the 9 that means we know 5 
+
+374
+00:14:16,060 --> 00:14:21,000
+r plus 9 is equal to 19 that is, as 
+
+375
+00:14:21,000 --> 00:14:22,260
+I said, a completely normal equation 
+
+376
+00:14:22,260 --> 00:14:23,420
+as we already 
+
+377
+00:14:23,420 --> 00:14:25,620
+know it from the lower level so we simply 
+
+378
+00:14:25,620 --> 00:14:27,820
+transform it to er so minus 9 is there 5 r 
+
+379
+00:14:27,820 --> 00:14:29,760
+is equal to 10 and last but not least 
+
+380
+00:14:29,760 --> 00:14:31,600
+divided by 5 and And then 
+
+381
+00:14:31,600 --> 00:14:34,060
+we come to R is equal to 2. that means 
+
+382
+00:14:34,200 --> 00:14:36,900
+that this result, which is below here 
+
+383
+00:14:36,900 --> 00:14:38,620
+, must always be interpreted. 
+
+384
+00:14:38,780 --> 00:14:41,020
+In our case, R is 2, which 
+
+385
+00:14:41,020 --> 00:14:42,720
+means that we have an unambiguous 
+
+386
+00:14:42,720 --> 00:14:46,840
+solution. And that means that there 
+
+387
+00:14:46,840 --> 00:14:48,280
+is an intersection point. 
+
+388
+00:14:48,280 --> 00:14:49,700
+We can now calculate this point of 
+intersection 
+
+389
+00:14:49,700 --> 00:14:51,500
+simply by substituting the R above into 
+
+390
+00:14:51,500 --> 00:14:53,780
+the equation of the line. So 
+
+391
+00:14:53,780 --> 00:14:55,700
+R is equal to 2. Let's enter 
+
+392
+00:14:55,700 --> 00:14:58,480
+123 plus 2 times 1 plus 
+
+393
+00:14:58,480 --> 00:15:05,780
+123 plus 2 times 101. 1 plus 2 times 1 
+
+394
+00:15:05,780 --> 00:15:09,360
+is 3, 2 plus 2 times 0 is 2, 3 plus 2 
+
+395
+00:15:09,360 --> 00:15:11,820
+times 1 is 5. This means that the 
+
+396
+00:15:11,820 --> 00:15:14,280
+intersection point is at the vector 3, 2, 
+
+397
+00:15:14,300 --> 00:15:16,820
+5 or at the point 3, 2, 5 
+
+398
+00:15:16,880 --> 00:15:18,020
+if you write them next to each other. 
+
+399
+00:15:19,760 --> 00:15:21,120
+The other two possibilities, 
+
+400
+00:15:21,680 --> 00:15:23,960
+straight line is part of the plane and 
+straight line 
+
+401
+00:15:23,960 --> 00:15:26,120
+is parallel to the plane, are expressed 
+
+402
+00:15:26,120 --> 00:15:28,120
+as follows: if you end up 
+
+403
+00:15:28,120 --> 00:15:30,700
+with a true statement here , but your 
+
+404
+00:15:30,700 --> 00:15:32,200
+parameter has been omitted, i.e. 
+
+405
+00:15:32,200 --> 00:15:33,660
+at the end it says something like 0 is 
+
+406
+00:15:33,660 --> 00:15:37,080
+equal to 0 or 5 is equal to 5 or 10 
+
+407
+00:15:37,080 --> 00:15:39,300
+is equal to 10, in any case a true 
+
+408
+00:15:39,300 --> 00:15:42,820
+statement, then there are an infinite 
+number of 
+
+409
+00:15:42,820 --> 00:15:44,640
+common points, i.e. the 
+
+410
+00:15:44,640 --> 00:15:46,620
+straight line lies in the plane or is 
+
+411
+00:15:46,620 --> 00:15:51,100
+part of the plane. If you 
+
+412
+00:15:51,100 --> 00:15:53,880
+get a statement that is not true, i.e. 
+
+413
+00:15:53,880 --> 00:15:55,860
+zero equals 95 equals 
+
+414
+00:15:55,860 --> 00:15:59,000
+one or three equals minus three 
+
+415
+00:15:59,000 --> 00:16:04,920
+, then you have no solution, i.e. 
+
+416
+00:16:04,920 --> 00:16:07,060
+the straight line is parallel to the 
+
+417
+00:16:07,060 --> 00:16:09,560
+plane and there are no common 
+
+418
+00:16:09,560 --> 00:16:14,080
+points, so that's how to interpret it and 
+
+419
+00:16:14,080 --> 00:16:16,500
+you can 
+
+420
+00:16:16,500 --> 00:16:20,240
+get a result quite quickly with a 
+calculation. 
+
+421
+00:16:20,340 --> 00:16:21,360
+You just have to know how to 
+
+422
+00:16:21,360 --> 00:16:25,100
+interpret it. That is very important. 
+Well, 
+
+423
+00:16:25,100 --> 00:16:26,300
+let's finish with the 
+
+424
+00:16:26,300 --> 00:16:27,720
+positional relationship between two 
+planes. 
+
+425
+00:16:27,920 --> 00:16:29,200
+There are also 
+
+426
+00:16:29,200 --> 00:16:32,240
+three possible positions between two 
+planes . One is 
+
+427
+00:16:32,240 --> 00:16:34,200
+parallel, one is identical and one is 
+intersecting 
+
+428
+00:16:34,200 --> 00:16:36,780
+. It is important to note that two planes 
+
+429
+00:16:36,780 --> 00:16:37,580
+do not have 
+
+430
+00:16:37,580 --> 00:16:38,480
+an intersection point, but an 
+
+431
+00:16:38,480 --> 00:16:40,260
+intersection line. If you 
+
+432
+00:16:40,260 --> 00:16:41,280
+allow two planes to intersect, as you can 
+see 
+
+433
+00:16:41,280 --> 00:16:42,960
+below, an intersection line is created. 
+
+434
+00:16:42,960 --> 00:16:44,900
+And you want to 
+
+435
+00:16:44,900 --> 00:16:46,240
+be able to calculate and specify this 
+intersection line . 
+
+436
+00:16:47,740 --> 00:16:49,200
+So we'll 
+
+437
+00:16:49,200 --> 00:16:50,460
+do that in a moment. As I said, these are 
+the 
+
+438
+00:16:50,460 --> 00:16:51,600
+three possibilities: parallel, 
+
+439
+00:16:51,740 --> 00:16:54,580
+identical or intersection line. We 
+
+440
+00:16:54,580 --> 00:16:56,120
+will now deal with the case where 
+
+441
+00:16:56,120 --> 00:16:58,080
+you 
+
+442
+00:16:58,080 --> 00:16:59,520
+
+443
+00:16:59,520 --> 00:17:02,200
+are given a plane in coordinate form and 
+one in parameter form. This is the best 
+
+444
+00:17:02,200 --> 00:17:04,460
+way to 
+
+445
+00:17:04,460 --> 00:17:06,400
+calculate the positional relationship , 
+simply because the 
+
+446
+00:17:06,400 --> 00:17:07,700
+coordinate form is the easiest. 
+
+447
+00:17:10,640 --> 00:17:12,140
+Well, we see here above... Above 
+
+448
+00:17:12,140 --> 00:17:14,180
+, a plane equation 
+
+449
+00:17:14,180 --> 00:17:15,640
+in parameter form and here a 
+
+450
+00:17:15,640 --> 00:17:17,520
+plane equation in coordinate form. 
+
+451
+00:17:18,080 --> 00:17:20,500
+We now simply 
+
+452
+00:17:20,500 --> 00:17:23,980
+
+453
+00:17:23,980 --> 00:17:25,640
+insert the plane that is given to us in 
+parameter form into the coordinate form. 
+
+454
+00:17:25,640 --> 00:17:27,960
+So in our case , we insert E1 into E2 
+
+455
+00:17:27,960 --> 00:17:30,140
+. E1 is simply 
+
+456
+00:17:30,140 --> 00:17:32,560
+given in parameter form and we 
+
+457
+00:17:32,560 --> 00:17:34,720
+
+458
+00:17:34,720 --> 00:17:36,740
+always insert the plane that is given in 
+parameter form into the plane 
+
+459
+00:17:36,800 --> 00:17:38,340
+that is given in coordinate form. 
+
+460
+00:17:38,340 --> 00:17:40,480
+Again, the top here is 
+
+461
+00:17:40,480 --> 00:17:43,220
+the x-rope, this is the y-rope 
+
+462
+00:17:43,220 --> 00:17:46,980
+and this is the z-rope. So 
+
+463
+00:17:46,980 --> 00:17:51,000
+we end up with 2 times 1 plus r minus 1 
+times 8r 
+
+464
+00:17:51,000 --> 00:17:54,620
+plus 2s plus 3 times 1 plus s and that 
+
+465
+00:17:54,620 --> 00:17:57,560
+equals 5. And you can 
+
+466
+00:17:57,560 --> 00:17:59,020
+already see that we have two unknown 
+
+467
+00:17:59,020 --> 00:18:01,500
+r and s here and the problem is that we 
+
+468
+00:18:01,500 --> 00:18:02,660
+only have one equation here. That 
+
+469
+00:18:02,660 --> 00:18:03,780
+means we can 
+
+470
+00:18:03,780 --> 00:18:05,920
+'t actually solve it. We are now solving 
+it as a 
+
+471
+00:18:05,920 --> 00:18:07,880
+function of one... of the two 
+
+472
+00:18:07,880 --> 00:18:09,980
+variables. 
+
+473
+00:18:09,980 --> 00:18:12,260
+So either we change it to R or we change 
+it to S. 
+
+474
+00:18:12,260 --> 00:18:13,440
+It doesn't matter how we do it. 
+
+475
+00:18:13,860 --> 00:18:15,300
+In this case, we have decided to 
+
+476
+00:18:15,420 --> 00:18:17,980
+convert it to S. As 
+
+477
+00:18:17,980 --> 00:18:19,000
+I said, we could just as 
+
+478
+00:18:19,000 --> 00:18:22,620
+easily have done it according to R. Well, 
+
+479
+00:18:22,620 --> 00:18:24,000
+let's do it the same way as we just did 
+and 
+
+480
+00:18:24,000 --> 00:18:25,940
+exclude it first. So 2 times 1 
+
+481
+00:18:25,940 --> 00:18:29,620
+is 2, 2 times R is 2R, minus 1 times 8R 
+
+482
+00:18:29,620 --> 00:18:32,700
+is minus 8R, minus 1 times S is minus 
+
+483
+00:18:32,700 --> 00:18:37,280
+S, 3 times 1 is 3, 3 times S is 3s. 
+
+484
+00:18:37,580 --> 00:18:41,040
+So we see here that 2r minus 8r 
+
+485
+00:18:41,040 --> 00:18:46,840
+is minus 6r, minus s plus 3s is 2s and 
+
+486
+00:18:46,840 --> 00:18:49,780
+2 plus 3 is 5. That equals 5. 
+
+487
+00:18:51,280 --> 00:18:53,240
+We want to get rid of the 5 first, 
+
+488
+00:18:53,240 --> 00:18:55,160
+so we calculate minus 5 and then 
+
+489
+00:18:55,160 --> 00:18:57,540
+all that's left is minus 6r plus 2s 
+
+490
+00:18:57,540 --> 00:18:59,960
+equals 0. That's why we 
+
+491
+00:18:59,960 --> 00:19:01,560
+change it right away and bring the 6r 
+over. 
+
+492
+00:19:01,800 --> 00:19:03,300
+That's why we also calculate plus 
+
+493
+00:19:03,300 --> 00:19:09,400
+6r. we get 2s is equal to 6r and 
+
+494
+00:19:09,400 --> 00:19:11,140
+now we just have to 
+
+495
+00:19:11,140 --> 00:19:13,840
+divide by two to get s and then 
+
+496
+00:19:13,840 --> 00:19:16,760
+we get s is equal to 3r that 
+
+497
+00:19:18,200 --> 00:19:20,100
+'s our result and I' 
+
+498
+00:19:20,100 --> 00:19:22,100
+ve just said that we 
+
+499
+00:19:22,100 --> 00:19:23,720
+
+500
+00:19:23,720 --> 00:19:26,120
+most probably have an intersection line we 
+now know 
+
+501
+00:19:26,120 --> 00:19:27,060
+in any case that we 
+
+502
+00:19:27,060 --> 00:19:28,500
+have an intersection line with the result 
+
+503
+00:19:28,500 --> 00:19:29,920
+yes so whenever you get something like 
+this 
+
+504
+00:19:29,920 --> 00:19:33,300
+S is equal to 3R, then you have 
+
+505
+00:19:33,300 --> 00:19:36,480
+an intersection line and we now use 
+
+506
+00:19:36,480 --> 00:19:39,340
+3R for the S. 
+
+507
+00:19:39,340 --> 00:19:42,300
+We have our parameter S here and 
+
+508
+00:19:42,300 --> 00:19:44,400
+we now enter 3R for this parameter S, 
+
+509
+00:19:44,460 --> 00:19:46,240
+because we know that S equals 3R 
+
+510
+00:19:46,240 --> 00:19:49,320
+and that's how we get from here to here. 
+
+511
+00:19:50,160 --> 00:19:54,560
+So 1 0 1 plus R times 1 8 0 plus 3 
+
+512
+00:19:54,560 --> 00:20:00,080
+times R times 0 1 1. And 
+
+513
+00:20:00,080 --> 00:20:03,420
+now we want to try to turn these two 
+
+514
+00:20:03,420 --> 00:20:07,120
+vectors into one. To 
+
+515
+00:20:07,120 --> 00:20:09,300
+be able to do this, we 
+
+516
+00:20:09,300 --> 00:20:11,680
+first have to put the 
+
+517
+00:20:11,680 --> 00:20:13,860
+parameter in front of both of them , i.e. 
+
+518
+00:20:13,860 --> 00:20:15,960
+R in our case 
+
+519
+00:20:15,960 --> 00:20:18,280
+. 3R is currently still on the right here. 
+Therefore, we drag the 3 into the 
+
+520
+00:20:18,280 --> 00:20:19,920
+vector. This means that we have to 
+
+521
+00:20:19,920 --> 00:20:21,780
+
+522
+00:20:21,780 --> 00:20:23,880
+multiply all the elements in the vector by 
+a factor of 3. So 3 times 0 
+
+523
+00:20:23,880 --> 00:20:26,980
+is 0, 3 times 1 is 3 and 3 times 1 is 
+
+524
+00:20:26,980 --> 00:20:29,180
+also 3 here. we come down here 
+
+525
+00:20:29,180 --> 00:20:31,800
+and we now see we have 101 
+
+526
+00:20:31,800 --> 00:20:36,720
+plus r times 180 plus r times 033 we 
+
+527
+00:20:36,720 --> 00:20:38,280
+multiply this vector and 
+
+528
+00:20:38,280 --> 00:20:40,240
+this vector by r, i.e. the same 
+
+529
+00:20:40,240 --> 00:20:42,700
+factor, so we can 
+
+530
+00:20:42,700 --> 00:20:45,940
+add the two vectors together, i.e. 1 plus 
+0 is 1, 
+
+531
+00:20:45,940 --> 00:20:49,020
+8 plus 3 is 11 and 0 plus 3 is 3 
+
+532
+00:20:49,020 --> 00:20:52,200
+and so we arrive at 101 plus r times 
+
+533
+00:20:52,200 --> 00:20:55,720
+113 and that is 
+
+534
+00:20:55,720 --> 00:20:58,700
+our intersection map This is how you 
+determine 
+
+535
+00:20:58,700 --> 00:21:03,180
+an intersection line. So whenever 
+
+536
+00:21:03,180 --> 00:21:05,180
+a result 
+
+537
+00:21:05,180 --> 00:21:07,080
+follows from the calculation here , 
+something like S is equal to 3R 
+
+538
+00:21:07,080 --> 00:21:10,840
+or S is equal to 0, you have 
+
+539
+00:21:10,840 --> 00:21:13,740
+an intersection line . This means that the 
+planes 
+
+540
+00:21:13,740 --> 00:21:17,220
+intersect. The other 
+
+541
+00:21:17,220 --> 00:21:18,700
+possibilities are that 
+
+542
+00:21:18,700 --> 00:21:20,700
+both parameters are omitted 
+
+543
+00:21:20,700 --> 00:21:23,940
+and a true statement is obtained. Then 
+
+544
+00:21:23,940 --> 00:21:25,820
+the two planes are identical. 
+
+545
+00:21:27,500 --> 00:21:29,860
+If you get a non-true statement 
+
+546
+00:21:29,860 --> 00:21:32,080
+or no solution, then 
+
+547
+00:21:32,080 --> 00:21:34,700
+the planes are simply parallel. This is 
+how 
+
+548
+00:21:34,700 --> 00:21:35,960
+to interpret it. Here are 
+
+549
+00:21:35,960 --> 00:21:37,640
+two more examples of how to 
+
+550
+00:21:37,640 --> 00:21:40,800
+
+551
+00:21:40,800 --> 00:21:42,720
+calculate the degrees of intersection from 
+the solution. This is often 
+
+552
+00:21:42,720 --> 00:21:44,220
+a small sticking point. That's why 
+
+553
+00:21:44,220 --> 00:21:45,560
+we'll deal with it again here. 
+
+554
+00:21:45,560 --> 00:21:47,080
+We now see the case where S 
+
+555
+00:21:47,080 --> 00:21:49,300
+is 0. In other words, we put 
+
+556
+00:21:49,300 --> 00:21:50,780
+a 0 in here for the S and so 
+
+557
+00:21:50,780 --> 00:21:52,920
+1, 0, 1 plus r 
+
+558
+00:21:52,920 --> 00:21:56,940
+times 1, 4, 0 plus 0 times, 
+
+559
+00:21:56,940 --> 00:21:58,080
+we now have the S , we know that S is 
+equal to 
+
+560
+00:21:58,080 --> 00:22:00,560
+0, which is why it says 0 times 0, 1, 1. 
+
+561
+00:22:00,920 --> 00:22:02,680
+This is a very simple case, then 
+
+562
+00:22:02,680 --> 00:22:04,280
+this is completely omitted here, because 0 
+
+563
+00:22:04,280 --> 00:22:07,660
+times the vector is 0, therefore 
+
+564
+00:22:07,660 --> 00:22:10,560
+the intersection line is then 1, 0, 1 plus 
+r 
+
+565
+00:22:10,560 --> 00:22:14,260
+times 1, 4, 0. The case that 
+
+566
+00:22:14,260 --> 00:22:15,220
+is the most difficult is 
+
+567
+00:22:15,220 --> 00:22:16,660
+actually shown here on the right, in which 
+case 
+
+568
+00:22:16,660 --> 00:22:20,840
+S is now equal to 2 plus r. And 
+
+569
+00:22:20,840 --> 00:22:22,940
+of course we first use this for S 
+
+570
+00:22:22,940 --> 00:22:25,900
+and then it becomes 
+
+571
+00:22:25,900 --> 00:22:27,000
+more difficult in the sense that you 
+
+572
+00:22:27,000 --> 00:22:28,780
+have to pull it apart. So we 
+
+573
+00:22:28,780 --> 00:22:32,340
+have 1, 0, 1 plus R times 1, 4, 0 plus 
+
+574
+00:22:32,340 --> 00:22:34,700
+bracket to 2 plus R bracket to times 
+
+575
+00:22:34,700 --> 00:22:39,620
+0, 1, 1. In order to 
+
+576
+00:22:39,620 --> 00:22:41,440
+resolve this bracket here, we have to 
+
+577
+00:22:41,440 --> 00:22:43,180
+
+578
+00:22:43,180 --> 00:22:44,660
+multiply the vector here by 2 once and 
+
+579
+00:22:44,660 --> 00:22:47,160
+multiply it by R once. The vector here 
+
+580
+00:22:47,160 --> 00:22:50,140
+multiplied by 2 is 2 times 0, 0, 2 times 
+
+581
+00:22:50,140 --> 00:22:54,800
+1, 2 and 2 times 1, 2 This is the 
+
+582
+00:22:54,800 --> 00:22:57,200
+vector here multiplied by 2 
+
+583
+00:22:57,900 --> 00:23:00,140
+And of course the vector times R 
+
+584
+00:23:00,140 --> 00:23:02,480
+and so there plus R times the 
+
+585
+00:23:02,480 --> 00:23:05,000
+vector you get 1, 0, 1 
+
+586
+00:23:05,000 --> 00:23:09,300
+plus R times 1, 4, 0 plus 0, 2, 2 As 
+
+587
+00:23:09,300 --> 00:23:10,680
+I said, this was created by the fact that 
+
+588
+00:23:10,680 --> 00:23:12,020
+we multiplied by 2 
+
+589
+00:23:12,020 --> 00:23:14,560
+plus R times 0, 1, 1, that by 2 
+
+590
+00:23:14,560 --> 00:23:17,060
+this vector here we can 
+
+591
+00:23:17,060 --> 00:23:18,540
+now 
+
+592
+00:23:18,540 --> 00:23:23,140
+calculate directly with the support vector 
+so 1 plus 0 1 0 plus 2 2 
+
+593
+00:23:23,140 --> 00:23:27,740
+1 plus 23 and as we did before 
+
+594
+00:23:27,740 --> 00:23:30,000
+the two vectors 
+
+595
+00:23:30,000 --> 00:23:32,140
+here are both multiplied by r 
+
+596
+00:23:32,140 --> 00:23:33,680
+therefore we can 
+
+597
+00:23:33,680 --> 00:23:38,140
+add the vectors so 1 plus 0 14 plus plus 1 
+
+598
+00:23:38,140 --> 00:23:42,460
+is 5 and 0 plus 1 is 1. Consequently, 
+
+599
+00:23:42,460 --> 00:23:43,600
+in this case the 
+
+600
+00:23:43,600 --> 00:23:46,480
+intersection line is 1, 2, 3 plus r times 
+1, 
+
+601
+00:23:46,520 --> 00:23:50,120
+5, 1. And these are actually all the 
+
+602
+00:23:50,120 --> 00:23:54,540
+cases that exist. That brings us to 
+
+603
+00:23:54,540 --> 00:23:56,260
+the end of the webinar. 
+
+604
+00:23:56,260 --> 00:23:58,020
+Thank you very much for your 
+
+605
+00:23:58,020 --> 00:23:58,820
+attention. 

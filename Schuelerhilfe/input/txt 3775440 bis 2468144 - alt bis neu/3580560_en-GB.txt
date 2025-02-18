@@ -1,0 +1,2070 @@
+﻿1
+00:00:03,660 --> 00:00:05,520
+Welcome to the webinar 
+
+2
+00:00:05,520 --> 00:00:06,900
+Advanced Methods of 
+
+3
+00:00:06,900 --> 00:00:09,140
+Differential Calculus. 
+
+4
+00:00:09,140 --> 00:00:10,420
+In this webinar we will 
+
+5
+00:00:10,420 --> 00:00:12,780
+
+6
+00:00:12,780 --> 00:00:14,300
+deal with function sets and also limits. 
+Before we start the 
+
+7
+00:00:14,300 --> 00:00:15,720
+actual webinar 
+
+8
+00:00:15,720 --> 00:00:17,520
+, it would be nice if you could 
+
+9
+00:00:17,520 --> 00:00:19,420
+write a quick yes or okay 
+
+10
+00:00:19,420 --> 00:00:20,300
+in the chat at the bottom right 
+
+11
+00:00:20,300 --> 00:00:22,320
+. Just so that I 
+
+12
+00:00:22,320 --> 00:00:23,620
+know that you can hear me and 
+
+13
+00:00:23,620 --> 00:00:25,380
+that we 
+
+14
+00:00:25,380 --> 00:00:27,320
+can start the webinar as usual. You can 
+hear me 
+
+15
+00:00:27,320 --> 00:00:29,100
+, that's wonderful. Then 
+
+16
+00:00:29,100 --> 00:00:30,540
+we'll start right away. If you have 
+
+17
+00:00:30,540 --> 00:00:32,320
+a question about something, 
+
+18
+00:00:32,320 --> 00:00:33,820
+just put it in the chat and 
+
+19
+00:00:33,820 --> 00:00:35,080
+I can come back to it 
+
+20
+00:00:35,080 --> 00:00:37,320
+and explain it again, the 
+
+21
+00:00:37,320 --> 00:00:40,140
+relevant part. Here are 
+
+22
+00:00:40,140 --> 00:00:42,700
+our topics for today. We' 
+
+23
+00:00:42,700 --> 00:00:43,340
+ll 
+
+24
+00:00:43,340 --> 00:00:45,080
+look at function damage, 
+
+25
+00:00:45,080 --> 00:00:46,800
+a locus curve of function damage 
+
+26
+00:00:46,800 --> 00:00:48,360
+and then we'll look at 
+
+27
+00:00:48,360 --> 00:00:50,040
+limits and the rule of del 
+
+28
+00:00:50,040 --> 00:00:53,660
+hospital let's start with the 
+
+29
+00:00:53,660 --> 00:00:57,820
+function sets function sets 
+
+30
+00:00:57,820 --> 00:00:59,880
+are simply functions that 
+
+31
+00:00:59,880 --> 00:01:01,700
+still have a parameter this parameter 
+
+32
+00:01:01,700 --> 00:01:04,500
+is often an a and by means of this 
+
+33
+00:01:04,500 --> 00:01:06,120
+parameter the curve can 
+
+34
+00:01:06,120 --> 00:01:07,640
+be changed again or you 
+
+35
+00:01:07,640 --> 00:01:10,060
+can 
+
+36
+00:01:10,060 --> 00:01:12,260
+
+37
+00:01:12,260 --> 00:01:13,620
+map several function equations with a 
+function set as shown here , so these 
+
+38
+00:01:13,620 --> 00:01:14,020
+are all 
+
+39
+00:01:14,020 --> 00:01:15,940
+function equations that 
+
+40
+00:01:15,940 --> 00:01:19,300
+come from this function set. 
+
+41
+00:01:19,300 --> 00:01:20,360
+
+42
+00:01:20,360 --> 00:01:21,620
+
+43
+00:01:21,620 --> 00:01:22,780
+For example, a conventional, completely 
+rational function, as we have always 
+treated it, 
+
+44
+00:01:22,780 --> 00:01:26,720
+is this one. f of x is equal to x² plus 4x 
+
+45
+00:01:26,720 --> 00:01:30,000
+minus 1. You can see that there is 
+
+46
+00:01:30,000 --> 00:01:32,260
+really only x as a variable here. In 
+
+47
+00:01:32,260 --> 00:01:34,580
+the function set, there is a parameter in 
+addition to the 
+
+48
+00:01:34,580 --> 00:01:37,080
+variable x. Please 
+
+49
+00:01:37,080 --> 00:01:38,780
+note that such a parameter 
+
+50
+00:01:38,780 --> 00:01:40,440
+is really treated like a number 
+
+51
+00:01:40,440 --> 00:01:42,940
+and not like a variable 
+
+52
+00:01:42,940 --> 00:01:43,860
+. 
+
+53
+00:01:46,580 --> 00:01:48,400
+The main differences 
+
+54
+00:01:48,400 --> 00:01:50,460
+between functions and 
+
+55
+00:01:50,460 --> 00:01:54,180
+function sets are, so the good 
+
+56
+00:01:54,180 --> 00:01:55,540
+news for you is that 
+
+57
+00:01:55,540 --> 00:01:59,080
+all criteria remain the same. 
+
+58
+00:01:59,080 --> 00:02:00,860
+This means that zero constraints and 
+
+59
+00:02:00,860 --> 00:02:01,740
+sufficient conditions for 
+
+60
+00:02:01,740 --> 00:02:03,640
+zeros, inflection points and 
+
+61
+00:02:03,640 --> 00:02:05,040
+extreme points remain the same. 
+
+62
+00:02:08,620 --> 00:02:11,900
+The solution of these, i.e. the 
+
+63
+00:02:11,900 --> 00:02:14,320
+solution set, is... for normal 
+
+64
+00:02:14,320 --> 00:02:15,900
+functions is always a number or there 
+
+65
+00:02:15,900 --> 00:02:20,880
+is none. With function sets, 
+
+66
+00:02:20,880 --> 00:02:23,780
+the solution is often 
+
+67
+00:02:23,780 --> 00:02:25,700
+dependent on the given parameter. This 
+
+68
+00:02:25,700 --> 00:02:27,420
+means 
+
+69
+00:02:27,420 --> 00:02:29,040
+that the result is not x equals 5, but 
+something like 
+
+70
+00:02:29,660 --> 00:02:33,820
+x equals a plus 3. This 
+
+71
+00:02:33,820 --> 00:02:38,420
+happens more often and you have to get 
+
+72
+00:02:38,420 --> 00:02:39,220
+
+73
+00:02:39,220 --> 00:02:42,740
+used to it and adjust accordingly. 
+
+74
+00:02:42,740 --> 00:02:47,900
+Here we see a function equation 
+
+75
+00:02:49,730 --> 00:02:52,050
+for today. fk of x is equal to k times 
+
+76
+00:02:52,050 --> 00:02:54,410
+x by x² plus 1. k is, as 
+
+77
+00:02:54,410 --> 00:02:56,490
+I said, our damage parameter. 
+
+78
+00:02:58,210 --> 00:03:01,010
+And now let's just go 
+
+79
+00:03:01,010 --> 00:03:02,390
+through a little curve discussion. We'll 
+
+80
+00:03:02,390 --> 00:03:05,330
+start with the zeros. 
+
+81
+00:03:05,330 --> 00:03:07,510
+For zeros, we 
+
+82
+00:03:07,510 --> 00:03:09,630
+simply set the function set 
+
+83
+00:03:09,630 --> 00:03:11,410
+equal to 0. Very importantly, this is 
+
+84
+00:03:11,410 --> 00:03:12,550
+actually a fractionally rational 
+
+85
+00:03:12,550 --> 00:03:14,810
+function. You can see this from the fact 
+that 
+
+86
+00:03:14,810 --> 00:03:17,010
+the variable also appears in the 
+denominator, 
+
+87
+00:03:17,050 --> 00:03:23,830
+in this case x². Therefore, 
+
+88
+00:03:23,830 --> 00:03:26,950
+if we 
+
+89
+00:03:26,950 --> 00:03:29,310
+equate the function with 0, we must or can 
+simply 
+
+90
+00:03:29,310 --> 00:03:33,010
+take the numerator term, i.e. equate k 
+
+91
+00:03:33,010 --> 00:03:35,830
+times x and d with 0. This 
+
+92
+00:03:35,830 --> 00:03:38,390
+has to do with the fact that if we 
+
+93
+00:03:38,390 --> 00:03:40,810
+get a 0 in the numerator here , 
+
+94
+00:03:40,810 --> 00:03:42,650
+the function value... automatically 
+becomes 
+
+95
+00:03:42,650 --> 00:03:47,350
+0. And that's why we simply search 
+
+96
+00:03:47,350 --> 00:03:49,450
+the numerator polynomial for 
+
+97
+00:03:49,450 --> 00:03:51,750
+zeros. And so we arrive at 
+
+98
+00:03:51,750 --> 00:03:53,610
+0 is equal to k times x, which we 
+
+99
+00:03:53,610 --> 00:03:55,150
+then convert to x, i.e. we divide by 
+
+100
+00:03:55,150 --> 00:03:57,150
+k, because the k is just any 
+
+101
+00:03:57,150 --> 00:04:00,490
+number and then it says x0 is equal to 
+
+102
+00:04:00,490 --> 00:04:03,970
+0. And it is very important that the 
+
+103
+00:04:03,970 --> 00:04:05,130
+zeros of the fractional function 
+
+104
+00:04:05,130 --> 00:04:06,210
+do not depend on the denominator 
+
+105
+00:04:06,210 --> 00:04:07,730
+, as we will 
+
+106
+00:04:07,730 --> 00:04:08,710
+hear more often in this webinar. 
+
+107
+00:04:12,260 --> 00:04:15,140
+Let's move on to the extreme points. 
+
+108
+00:04:15,140 --> 00:04:16,420
+In order to calculate the extreme 
+position, 
+
+109
+00:04:16,500 --> 00:04:18,020
+we must of course first 
+
+110
+00:04:18,020 --> 00:04:20,360
+derive the equation of the function. The 
+
+111
+00:04:20,360 --> 00:04:21,740
+first derivative of a fractionally 
+
+112
+00:04:21,740 --> 00:04:23,300
+rational function equation 
+
+113
+00:04:23,300 --> 00:04:26,320
+must always be 
+
+114
+00:04:26,320 --> 00:04:27,820
+calculated using the quotient rule. This 
+is described above, 
+
+115
+00:04:27,820 --> 00:04:29,220
+
+116
+00:04:29,220 --> 00:04:30,340
+but the quotient rule is not part of this 
+
+117
+00:04:30,340 --> 00:04:32,000
+webinar. Nevertheless, I will explain it 
+
+118
+00:04:32,000 --> 00:04:35,020
+briefly. Let's 
+
+119
+00:04:35,020 --> 00:04:36,200
+imagine it like this, the function is 
+
+120
+00:04:36,200 --> 00:04:39,180
+constructed. We have our 
+
+121
+00:04:39,180 --> 00:04:41,320
+function equation u of x at the top and 
+
+122
+00:04:41,320 --> 00:04:44,100
+our v of x at the bottom. And now to 
+
+123
+00:04:44,100 --> 00:04:46,520
+create the derivative, we go 
+
+124
+00:04:46,520 --> 00:04:48,920
+and calculate u' of x times v of x 
+
+125
+00:04:48,920 --> 00:04:52,300
+minus v' of x times u of x by v². 
+
+126
+00:04:54,160 --> 00:04:55,780
+Our u of x, as I just 
+
+127
+00:04:55,780 --> 00:04:57,780
+said, is k times x. Our v of x 
+
+128
+00:04:57,780 --> 00:05:01,480
+is x² plus 1. And now 
+
+129
+00:05:01,480 --> 00:05:04,060
+we simply create u' and v' by simple 
+
+130
+00:05:04,060 --> 00:05:07,360
+derivation. So u derived from x is 
+
+131
+00:05:07,360 --> 00:05:10,220
+simply k, so u'k and 
+
+132
+00:05:10,220 --> 00:05:12,920
+v' from x is then 2x, which is simply 
+
+133
+00:05:12,920 --> 00:05:16,940
+the derivative of x² plus 1. So 
+
+134
+00:05:16,940 --> 00:05:20,200
+we get k times x² plus 1 to 
+
+135
+00:05:20,200 --> 00:05:23,320
+minus 2x times kx, the whole thing divided 
+
+136
+00:05:23,320 --> 00:05:27,560
+by x² plus 1 to the power of 2. 
+
+137
+00:05:27,560 --> 00:05:28,980
+You should always 
+
+138
+00:05:28,980 --> 00:05:30,140
+leave this binomial down here simple if 
+possible 
+
+139
+00:05:30,140 --> 00:05:32,580
+, it just makes things 
+
+140
+00:05:32,580 --> 00:05:34,960
+a bit easier. you 
+
+141
+00:05:34,960 --> 00:05:39,100
+have to derive again later. In the 
+numerator above, 
+
+142
+00:05:39,100 --> 00:05:40,480
+you should simplify everything that 
+
+143
+00:05:40,480 --> 00:05:42,440
+is possible. For example, you can 
+
+144
+00:05:42,440 --> 00:05:44,520
+go here now and 
+
+145
+00:05:44,520 --> 00:05:47,280
+simplify minus 2x times kx , 
+
+146
+00:05:48,940 --> 00:05:50,440
+but this is not so 
+
+147
+00:05:50,440 --> 00:05:51,480
+important if you 
+
+148
+00:05:51,480 --> 00:05:53,160
+want to calculate the extreme points 
+immediately. As you 
+
+149
+00:05:53,160 --> 00:05:55,040
+can see, the first derivative was 
+
+150
+00:05:55,040 --> 00:05:57,840
+immediately equated to 0. This 
+
+151
+00:05:57,840 --> 00:05:59,840
+means that we can now look directly 
+
+152
+00:05:59,840 --> 00:06:03,020
+at the numerator and 
+
+153
+00:06:03,020 --> 00:06:04,260
+
+154
+00:06:04,260 --> 00:06:08,020
+examine it for a zero. We then arrive at 0 
+
+155
+00:06:08,020 --> 00:06:12,580
+is equal to k times x² plus 1 minus 2x 
+
+156
+00:06:12,580 --> 00:06:16,340
+times kx. Now we 
+
+157
+00:06:16,340 --> 00:06:19,140
+summarize this 2x times kx and 
+
+158
+00:06:19,140 --> 00:06:21,700
+dissolve the bracket. The bracket is k 
+times 
+
+159
+00:06:21,700 --> 00:06:25,020
+x², which is simply kx² and k times 
+
+160
+00:06:25,020 --> 00:06:29,960
+plus 1, so plus k and 2x times kx 
+
+161
+00:06:29,960 --> 00:06:32,600
+equals minus 2kx². 
+
+162
+00:06:35,220 --> 00:06:39,060
+And we can now go here. 
+
+163
+00:06:39,700 --> 00:06:45,700
+We have kx² and minus 2kx². That 
+
+164
+00:06:45,700 --> 00:06:49,000
+'s minus kx² together. The plus k 
+
+165
+00:06:49,000 --> 00:06:51,500
+remains. And we see that we have 
+
+166
+00:06:51,500 --> 00:06:53,960
+both as a function of k. It is therefore 
+
+167
+00:06:53,960 --> 00:06:55,540
+possible for us to 
+
+168
+00:06:55,540 --> 00:06:58,340
+factor out one k. We do the same 
+
+169
+00:06:58,340 --> 00:06:59,380
+here. Now we have the k in front of it. 
+
+170
+00:07:01,100 --> 00:07:03,480
+And now the parenthesis is open. to 
+
+171
+00:07:03,480 --> 00:07:06,360
+minus x² plus 1, parenthesis closed, and 
+because 
+
+172
+00:07:06,360 --> 00:07:07,940
+the k is in front of it, we can simply 
+
+173
+00:07:07,940 --> 00:07:11,380
+divide by the k. And then 
+
+174
+00:07:11,380 --> 00:07:12,540
+you see , we have suddenly 
+
+175
+00:07:12,540 --> 00:07:14,620
+eliminated our parameter. As 
+
+176
+00:07:14,620 --> 00:07:15,780
+I said, this doesn't always work, it's 
+
+177
+00:07:15,780 --> 00:07:20,020
+a special case here, because our 
+
+178
+00:07:20,020 --> 00:07:21,320
+solution is the same, as you 
+
+179
+00:07:21,320 --> 00:07:23,080
+can see below , regardless of k. 
+
+180
+00:07:24,380 --> 00:07:25,840
+After we have divided by k, 
+
+181
+00:07:25,900 --> 00:07:27,180
+we have 0 equals minus 
+
+182
+00:07:27,180 --> 00:07:29,240
+x² plus 1, which is a very simple 
+
+183
+00:07:29,240 --> 00:07:31,180
+quadratic equation. 
+
+184
+00:07:31,180 --> 00:07:32,900
+You simply calculate plus x², then 
+
+185
+00:07:32,900 --> 00:07:35,480
+x² is equal to 1 and 
+
+186
+00:07:35,480 --> 00:07:36,820
+then you take the root and arrive at 
+
+187
+00:07:36,820 --> 00:07:39,060
+the solution 1 and minus 1. 
+
+188
+00:07:46,620 --> 00:07:47,980
+Then you 
+
+189
+00:07:47,980 --> 00:07:52,100
+still or usually calculate the 
+y-coordinate. 
+
+190
+00:07:52,160 --> 00:07:53,820
+We do this here simply by 
+
+191
+00:07:53,820 --> 00:07:55,500
+
+192
+00:07:55,500 --> 00:07:57,400
+
+193
+00:07:57,400 --> 00:07:59,020
+
+194
+00:07:59,020 --> 00:08:01,760
+
+195
+00:08:01,760 --> 00:08:05,340
+substituting our solution, as we know it 
+from all other completely rational 
+functions, into the original function f of 
+x, i.e. fk of x in this case. We 
+
+196
+00:08:05,340 --> 00:08:07,380
+now 
+
+197
+00:08:07,380 --> 00:08:10,140
+insert 1 or minus 1 for the x here. That 
+was 
+
+198
+00:08:10,140 --> 00:08:14,420
+the solution just now. And so we 
+
+199
+00:08:14,420 --> 00:08:16,720
+arrive at k times 1 by 1 squared plus 
+
+200
+00:08:16,720 --> 00:08:20,320
+1. And that is simply k halves, so 
+
+201
+00:08:20,320 --> 00:08:22,140
+1 squared is also 1. 1 plus 1 
+
+202
+00:08:22,140 --> 00:08:24,720
+is then 2. k times 1 is the k. 
+
+203
+00:08:27,550 --> 00:08:29,590
+Both minus 1. it works almost exactly the 
+same. 
+
+204
+00:08:29,790 --> 00:08:32,330
+We have k times minus 1 by minus 1 
+
+205
+00:08:32,330 --> 00:08:35,170
+to the power of 2 plus 1. Minus 1 to the 
+power of 2 is 
+
+206
+00:08:35,170 --> 00:08:37,150
+also 1. Please make sure that the 
+
+207
+00:08:37,150 --> 00:08:39,410
+minus is omitted. And so we 
+
+208
+00:08:39,410 --> 00:08:43,330
+arrive at minus k half. This means 
+
+209
+00:08:43,430 --> 00:08:46,430
+that we can now say that 
+
+210
+00:08:47,900 --> 00:08:50,840
+there is a high point at point 1 
+
+211
+00:08:50,840 --> 00:08:53,380
+and a minimum at point 2 
+
+212
+00:08:53,380 --> 00:08:58,220
+if 
+
+213
+00:08:58,220 --> 00:09:02,080
+k is not zero, so the option that 
+
+214
+00:09:02,080 --> 00:09:03,800
+the parameter is zero is usually 
+
+215
+00:09:03,800 --> 00:09:05,220
+excluded. unfortunately, we 
+
+216
+00:09:05,220 --> 00:09:06,640
+haven't had a definition range here yet 
+
+217
+00:09:06,640 --> 00:09:10,860
+, but if k were zero, we would have 
+
+218
+00:09:10,860 --> 00:09:12,220
+zero half here and here we would 
+
+219
+00:09:12,220 --> 00:09:13,840
+also have minus zero half, which would 
+also be 
+
+220
+00:09:13,840 --> 00:09:15,820
+zero. then of course both 
+
+221
+00:09:15,820 --> 00:09:20,200
+points would lie on the x-axis, but 
+
+222
+00:09:20,200 --> 00:09:22,040
+then the whole function would also 
+
+223
+00:09:22,040 --> 00:09:24,420
+lie on the x-axis. So that won 
+
+224
+00:09:24,420 --> 00:09:25,800
+'t happen. 
+
+225
+00:09:29,990 --> 00:09:33,050
+What is also noticeable is that our x 
+
+226
+00:09:33,050 --> 00:09:35,170
+-coordinate is not dependent on k, 
+
+227
+00:09:35,390 --> 00:09:38,770
+simply 1 or minus 1, but the y 
+
+228
+00:09:38,770 --> 00:09:40,350
+-coordinate contains our 
+
+229
+00:09:40,350 --> 00:09:49,010
+chart parameter k. Therefore, the type of 
+
+230
+00:09:49,010 --> 00:09:53,310
+our extrema is also dependent 
+
+231
+00:09:53,310 --> 00:10:04,930
+on k. So if our k 
+
+232
+00:10:04,930 --> 00:10:06,330
+is less than 0, then there would be 
+something 
+
+233
+00:10:06,330 --> 00:10:08,430
+negative here and then suddenly 
+
+234
+00:10:08,430 --> 00:10:11,970
+E2 would be the high point and E1 the 
+
+235
+00:10:11,970 --> 00:10:15,070
+low point. Yes, because k could also 
+
+236
+00:10:15,070 --> 00:10:16,410
+take on negative values. If we suddenly 
+had 
+
+237
+00:10:16,410 --> 00:10:17,730
+a minus here and here 
+
+238
+00:10:17,730 --> 00:10:18,970
+we would have a minus-minus and 
+
+239
+00:10:18,970 --> 00:10:21,190
+minus-minus would be plus again. And so 
+
+240
+00:10:21,190 --> 00:10:23,550
+the high point would 
+
+241
+00:10:23,550 --> 00:10:24,130
+swap with the low point. 
+
+242
+00:10:29,290 --> 00:10:31,990
+Normally, if the extreme points 
+
+243
+00:10:31,990 --> 00:10:34,550
+or whatever or inflection points 
+
+244
+00:10:34,550 --> 00:10:37,450
+
+245
+00:10:37,450 --> 00:10:39,670
+are dependent, if the x-coordinate is also 
+dependent on the damage parameter, 
+
+246
+00:10:39,830 --> 00:10:41,610
+you always calculate a locus curve. 
+
+247
+00:10:43,930 --> 00:10:46,130
+and this locus curve is simply 
+
+248
+00:10:46,130 --> 00:10:50,650
+the graph or the curve on which 
+
+249
+00:10:50,650 --> 00:10:52,530
+the extreme points are then 
+
+250
+00:10:52,530 --> 00:10:55,750
+located. the strategy for doing this 
+
+251
+00:10:55,750 --> 00:10:57,150
+is always written down. 
+
+252
+00:10:57,150 --> 00:10:59,770
+of course, you first have to 
+
+253
+00:10:59,770 --> 00:11:00,990
+calculate with extreme points using the 
+necessary 
+
+254
+00:11:00,990 --> 00:11:02,830
+criterion and then you have to 
+
+255
+00:11:02,830 --> 00:11:05,890
+calculate the y coordinate, i.e. points 
+
+256
+00:11:05,890 --> 00:11:07,870
+1 and 2 are quite normal extreme points 
+
+257
+00:11:07,870 --> 00:11:09,910
+. the really exciting part 
+
+258
+00:11:09,910 --> 00:11:12,350
+is now at point 3. and 
+
+259
+00:11:12,350 --> 00:11:13,530
+we take one of the two 
+
+260
+00:11:13,530 --> 00:11:15,330
+coordinates, i.e. either the x 
+
+261
+00:11:15,330 --> 00:11:18,070
+or the y coordinate. I would 
+
+262
+00:11:18,070 --> 00:11:19,910
+recommend taking the x-coordinate. 
+
+263
+00:11:19,990 --> 00:11:21,870
+And this is 
+
+264
+00:11:21,870 --> 00:11:24,910
+converted to the parameter. And after this 
+
+265
+00:11:24,910 --> 00:11:27,130
+has been converted, it is inserted into 
+the 
+
+266
+00:11:27,130 --> 00:11:31,370
+other point. Don't 
+
+267
+00:11:31,370 --> 00:11:33,630
+worry, we'll do that in a minute. 
+
+268
+00:11:33,630 --> 00:11:35,210
+Of course, we now have the 
+
+269
+00:11:35,210 --> 00:11:37,650
+small problem that 
+
+270
+00:11:37,650 --> 00:11:41,250
+our x-coordinate was independent 
+
+271
+00:11:41,250 --> 00:11:42,950
+of the damage barometer, so 
+
+272
+00:11:42,950 --> 00:11:44,250
+let's first look at a different 
+
+273
+00:11:44,250 --> 00:11:45,890
+functional equation, which is the 
+
+274
+00:11:45,890 --> 00:11:47,870
+functional equation x squared plus a x 
+
+275
+00:11:47,870 --> 00:11:50,690
+plus 1 and this functional equation 
+
+276
+00:11:50,690 --> 00:11:52,330
+is a completely rational function 
+
+277
+00:11:52,330 --> 00:11:55,650
+, which we now first examine for 
+
+278
+00:11:55,650 --> 00:11:57,410
+extreme points, i.e. first 
+
+279
+00:11:57,410 --> 00:11:59,610
+we form the first derivative, which 
+
+280
+00:11:59,610 --> 00:12:02,370
+is 2x plus a and this first 
+
+281
+00:12:02,370 --> 00:12:03,830
+derivative must of course be 
+
+282
+00:12:03,830 --> 00:12:06,850
+set equal to zero We have also 
+
+283
+00:12:06,850 --> 00:12:09,230
+done this here. 0 is equal to 2x plus a 
+
+284
+00:12:09,230 --> 00:12:12,830
+and now we go and 
+
+285
+00:12:12,830 --> 00:12:15,710
+convert to x. In other words, first 
+
+286
+00:12:15,710 --> 00:12:17,890
+we calculate minus a. Then it says 
+
+287
+00:12:17,890 --> 00:12:20,950
+minus a equals 2x. And now 
+
+288
+00:12:20,950 --> 00:12:21,990
+we divide by 2 and then 
+
+289
+00:12:21,990 --> 00:12:23,770
+it says minus a half is equal to 
+
+290
+00:12:23,770 --> 00:12:26,490
+our x. In other words, the x for our 
+
+291
+00:12:26,490 --> 00:12:30,550
+extreme point. And now comes 
+
+292
+00:12:30,550 --> 00:12:33,670
+step 2. We insert this x, minus 
+
+293
+00:12:33,670 --> 00:12:35,390
+a half, into the equation of the function 
+to 
+
+294
+00:12:35,390 --> 00:12:37,070
+
+295
+00:12:37,070 --> 00:12:39,850
+calculate the y-coordinate . That is, we 
+would get f a 
+
+296
+00:12:39,850 --> 00:12:43,370
+from minus a half. And that is equal to 
+
+297
+00:12:43,370 --> 00:12:45,590
+minus a half squared plus a times 
+
+298
+00:12:45,590 --> 00:12:49,530
+minus a half plus 1. Please 
+
+299
+00:12:49,530 --> 00:12:52,550
+note, minus a half squared is 
+
+300
+00:12:52,550 --> 00:12:56,050
+a quarter of a squared. The minus 
+
+301
+00:12:56,050 --> 00:12:58,390
+of this comes from the fact that we have 
+
+302
+00:12:58,390 --> 00:13:00,950
+a quarter of a square and this 
+
+303
+00:13:00,950 --> 00:13:03,550
+back here a times minus a half is minus 
+
+304
+00:13:03,550 --> 00:13:08,880
+a half squared. In other words, we 
+
+305
+00:13:08,880 --> 00:13:09,800
+have, I'll write 
+
+306
+00:13:09,800 --> 00:13:11,160
+about it briefly , here we 
+
+307
+00:13:13,340 --> 00:13:15,260
+have a quarter and here we have 
+
+308
+00:13:15,260 --> 00:13:18,300
+minus one and a half. That is then 
+
+309
+00:13:18,300 --> 00:13:22,500
+again minus a quarter squared 
+
+310
+00:13:22,500 --> 00:13:25,900
+, of course. And the plus 1 
+
+311
+00:13:25,900 --> 00:13:30,290
+also remains. So we end up with minus 
+
+312
+00:13:30,290 --> 00:13:32,990
+a quarter of a square plus 1 and that is 
+
+313
+00:13:32,990 --> 00:13:35,090
+our y-coordinate. In other words 
+
+314
+00:13:35,110 --> 00:13:36,290
+, we have the extreme point 
+
+315
+00:13:36,290 --> 00:13:39,350
+minus a half and minus a quarter of a 
+
+316
+00:13:39,350 --> 00:13:42,410
+square plus 1. As 
+
+317
+00:13:42,410 --> 00:13:44,390
+I said, this is our x-coordinate and this 
+
+318
+00:13:44,390 --> 00:13:47,550
+is our y-coordinate. And in the next 
+
+319
+00:13:47,550 --> 00:13:48,870
+step, to create the locus curve 
+
+320
+00:13:48,870 --> 00:13:51,830
+, we simply go and 
+
+321
+00:13:51,910 --> 00:13:53,950
+take our x-coordinate and 
+
+322
+00:13:53,950 --> 00:13:56,190
+transform it to a. Our 
+
+323
+00:13:56,190 --> 00:13:57,790
+ x-coordinate is simply x is 
+
+324
+00:13:57,790 --> 00:13:59,950
+equal to minus a half, we 
+
+325
+00:13:59,950 --> 00:14:02,190
+now transform this to a, so we calculate 
+times 
+
+326
+00:14:02,190 --> 00:14:04,250
+2, it says 2x is equal to minus a. 
+
+327
+00:14:04,730 --> 00:14:06,870
+Let's calculate times minus 1 so that 
+
+328
+00:14:06,870 --> 00:14:08,770
+the sign is changed. And 
+
+329
+00:14:08,770 --> 00:14:10,490
+now we know that a is equal to minus 
+
+330
+00:14:10,490 --> 00:14:14,930
+2x. And that's exactly what we now use 
+
+331
+00:14:14,930 --> 00:14:16,530
+for this a. So we 
+
+332
+00:14:16,530 --> 00:14:19,130
+now enter minus 2x for the a here. 
+
+333
+00:14:19,250 --> 00:14:20,770
+You can see that here too. 
+
+334
+00:14:20,770 --> 00:14:22,470
+It still contains the a and now it 
+
+335
+00:14:22,470 --> 00:14:27,050
+suddenly contains minus 2x to the power of 
+2. 
+
+336
+00:14:27,050 --> 00:14:29,250
+We now have minus 1 quarter times minus 
+
+337
+00:14:29,250 --> 00:14:33,470
+2x squared plus 1. Minus 2x and 
+
+338
+00:14:33,470 --> 00:14:36,410
+the whole thing squared is simply 4x 
+
+339
+00:14:36,410 --> 00:14:40,730
+squared. And minus 1 quarter times 4x 
+
+340
+00:14:40,730 --> 00:14:43,110
+squared is simply minus x squared 
+
+341
+00:14:43,110 --> 00:14:46,550
+and the plus 1 remains. So 
+
+342
+00:14:46,550 --> 00:14:49,830
+the locus curve is then minus x 
+
+343
+00:14:49,830 --> 00:14:52,710
+squared plus 1. and we can see that 
+
+344
+00:14:52,710 --> 00:14:55,170
+here. you can see that the 
+
+345
+00:14:55,170 --> 00:14:57,690
+bold purple is the locus curve 
+
+346
+00:14:57,690 --> 00:15:00,750
+we have calculated and these are the 
+
+347
+00:15:00,750 --> 00:15:02,330
+different function equations 
+
+348
+00:15:02,330 --> 00:15:04,370
+for different parameters and you 
+
+349
+00:15:04,370 --> 00:15:06,230
+can see all the low points lie on 
+
+350
+00:15:06,230 --> 00:15:08,390
+this locus curve well 
+
+351
+00:15:13,600 --> 00:15:15,800
+that's it for now 
+
+352
+00:15:18,200 --> 00:15:20,300
+we would then start with 
+
+353
+00:15:20,300 --> 00:15:22,240
+limits do you have a 
+
+354
+00:15:22,240 --> 00:15:22,920
+question about this. 
+
+355
+00:15:29,860 --> 00:15:30,940
+I said, if you have a question, 
+
+356
+00:15:30,980 --> 00:15:32,320
+feel free to write it. 
+
+357
+00:15:37,820 --> 00:15:41,180
+Okay, I'll just 
+
+358
+00:15:41,180 --> 00:15:43,980
+carry on and we'll start with 
+
+359
+00:15:43,980 --> 00:15:45,280
+limits. 
+
+360
+00:15:51,280 --> 00:15:53,260
+To define a limit, 
+
+361
+00:15:53,300 --> 00:15:54,280
+we first need an 
+
+362
+00:15:54,280 --> 00:15:57,380
+assignment rule, something like a n 
+
+363
+00:15:57,380 --> 00:16:01,100
+is equal to n plus 1 or a 
+
+364
+00:16:01,100 --> 00:16:03,240
+function term. The only problem 
+
+365
+00:16:03,300 --> 00:16:04,960
+with such fractionally rational 
+
+366
+00:16:04,960 --> 00:16:06,420
+function terms, where there is also an x 
+
+367
+00:16:06,420 --> 00:16:09,380
+in the denominator, is that they 
+
+368
+00:16:09,380 --> 00:16:14,340
+are not defined for all numbers. 
+
+369
+00:16:14,520 --> 00:16:18,400
+Because, as you can see here, 
+
+370
+00:16:19,780 --> 00:16:23,000
+under no circumstances can we 
+
+371
+00:16:23,000 --> 00:16:24,800
+
+372
+00:16:24,800 --> 00:16:27,960
+have a 0 in the denominator of a fraction 
+. So if we have something like 
+
+373
+00:16:27,960 --> 00:16:30,880
+n tends to 3 and we have 1 
+
+374
+00:16:30,880 --> 00:16:32,340
+through n, then that would be a third. 
+
+375
+00:16:33,980 --> 00:16:37,520
+Here, where we have x-3² in the 
+denominator 
+
+376
+00:16:37,520 --> 00:16:39,720
+and if we suddenly 
+
+377
+00:16:39,720 --> 00:16:43,180
+insert a 3 here , we can no longer 
+
+378
+00:16:43,180 --> 00:16:48,840
+calculate a function value. 
+
+379
+00:16:48,840 --> 00:16:50,280
+In other words, we cannot 
+
+380
+00:16:50,280 --> 00:16:52,100
+calculate a limit value. Quite simply 
+
+381
+00:16:52,200 --> 00:16:53,440
+because then there is a 0 in it and the 
+
+382
+00:16:53,440 --> 00:16:56,460
+thing is no longer defined. That 
+
+383
+00:16:56,460 --> 00:16:59,240
+'s bad. That's why there are 
+
+384
+00:16:59,240 --> 00:17:00,780
+ways of calculating limit values 
+
+385
+00:17:00,780 --> 00:17:05,240
+. In the following, we will 
+
+386
+00:17:05,240 --> 00:17:06,460
+
+387
+00:17:06,460 --> 00:17:09,760
+calculate this beautiful function equation 
+And we let our x 
+
+388
+00:17:09,760 --> 00:17:12,280
+move towards minus 1 Minus 1 is 
+
+389
+00:17:12,280 --> 00:17:14,680
+of course the denominator zero This 
+
+390
+00:17:14,680 --> 00:17:16,160
+means that if you 
+
+391
+00:17:16,160 --> 00:17:18,840
+insert a minus 1 here , you have a zero in 
+the denominator 
+
+392
+00:17:18,840 --> 00:17:20,020
+This means that you cannot 
+
+393
+00:17:20,020 --> 00:17:22,500
+simply insert it And now 
+
+394
+00:17:22,500 --> 00:17:26,620
+our calculation techniques for limit 
+values come 
+
+395
+00:17:26,620 --> 00:17:29,540
+into play One possibility is to 
+
+396
+00:17:30,640 --> 00:17:33,340
+simply approach minus 1. 
+
+397
+00:17:33,440 --> 00:17:35,580
+That is, once from the left, you get 
+
+398
+00:17:35,580 --> 00:17:37,600
+very close, and once from the right. 
+
+399
+00:17:37,640 --> 00:17:40,560
+You see here minus 1.1 and minus 0 
+
+400
+00:17:40,560 --> 00:17:43,600
+.9 and here always the function values 
+
+401
+00:17:43,600 --> 00:17:47,960
+of these. And you can already see that at 
+
+402
+00:17:47,960 --> 00:17:50,400
+minus 1.01, which is already very close 
+
+403
+00:17:50,400 --> 00:17:51,800
+to minus 1, we have a 
+
+404
+00:17:51,800 --> 00:17:55,520
+function value of minus 0.49. At 
+
+405
+00:17:55,520 --> 00:17:58,200
+minus 0.99, we are a little 
+
+406
+00:17:58,200 --> 00:18:00,160
+to the right, and to the right of that we 
+have the 
+
+407
+00:18:00,160 --> 00:18:04,060
+function value minus 0.51. So you 
+
+408
+00:18:04,060 --> 00:18:05,600
+could now assume that 
+
+409
+00:18:05,600 --> 00:18:08,140
+the limit value is minus 0 
+
+410
+00:18:08,140 --> 00:18:10,240
+.5 in between.  That's one possibility 
+
+411
+00:18:10,420 --> 00:18:14,180
+that you could assume. But in 
+
+412
+00:18:14,180 --> 00:18:16,600
+mathematics, it's always 
+
+413
+00:18:16,600 --> 00:18:18,100
+difficult if you only 
+
+414
+00:18:18,100 --> 00:18:20,560
+assume things. So 
+
+415
+00:18:20,560 --> 00:18:23,920
+of course we also want to be able to 
+calculate it. And 
+
+416
+00:18:23,920 --> 00:18:25,680
+that's why we have this second 
+
+417
+00:18:25,680 --> 00:18:29,760
+option. The problem with this 
+
+418
+00:18:29,760 --> 00:18:31,900
+second option is that it' 
+
+419
+00:18:31,900 --> 00:18:33,760
+s quite a tricky calculation 
+
+420
+00:18:33,860 --> 00:18:37,960
+because we're trying to 
+
+421
+00:18:37,960 --> 00:18:40,300
+factorize everything first. You can see 
+here 
+
+422
+00:18:40,400 --> 00:18:43,880
+that we have now 
+
+423
+00:18:43,880 --> 00:18:44,460
+written this in two brackets that 
+
+424
+00:18:44,460 --> 00:18:48,380
+are multiplied together and 
+
+425
+00:18:48,380 --> 00:18:49,780
+I think you can also see that we have 
+
+426
+00:18:49,780 --> 00:18:51,200
+the same ones twice here. We have 
+
+427
+00:18:51,200 --> 00:18:53,020
+an x plus 1 
+
+428
+00:18:53,020 --> 00:18:55,220
+squared in both the numerator and the 
+denominator . That means 
+
+429
+00:18:55,220 --> 00:18:58,820
+we can then shorten it out. And then 
+
+430
+00:18:58,820 --> 00:19:02,960
+all that's left is x plus 1 divided by x 
+minus 
+
+431
+00:19:02,960 --> 00:19:03,380
+2. 
+
+432
+00:19:06,830 --> 00:19:08,090
+Or it has to be 
+
+433
+00:19:08,090 --> 00:19:09,330
+the other way round, it's an error. 
+
+434
+00:19:10,790 --> 00:19:15,810
+That means x plus 2 divided by x minus 1. 
+
+435
+00:19:16,150 --> 00:19:19,970
+And we now put the minus 1 
+
+436
+00:19:19,970 --> 00:19:23,570
+in there. Then it says minus 1 plus 2, 
+
+437
+00:19:23,750 --> 00:19:29,470
+which is the 1st and minus 1 minus 1 
+
+438
+00:19:29,470 --> 00:19:32,190
+system minus 2 and so we come to 
+
+439
+00:19:32,190 --> 00:19:35,670
+minus 0.5 so we have now 
+
+440
+00:19:35,670 --> 00:19:38,470
+really calculated the limit value the 
+
+441
+00:19:38,470 --> 00:19:40,170
+problem with this method is just 
+
+442
+00:19:40,170 --> 00:19:43,370
+to 
+
+443
+00:19:43,370 --> 00:19:46,030
+get here from this equation so the 
+simplest or the 
+
+444
+00:19:46,030 --> 00:19:47,530
+only way to really do it is 
+
+445
+00:19:47,530 --> 00:19:49,030
+you would have to 
+
+446
+00:19:49,030 --> 00:19:50,430
+calculate all the zeros and then 
+
+447
+00:19:50,430 --> 00:19:52,970
+write it down factorized . This takes a 
+long time 
+
+448
+00:19:52,970 --> 00:19:56,910
+and is quite complicated. That's why 
+
+449
+00:19:56,910 --> 00:19:59,250
+there's a great rule from 
+
+450
+00:19:59,250 --> 00:20:02,210
+Dell Hospital that makes it 
+
+451
+00:20:02,210 --> 00:20:05,490
+much easier. 
+
+452
+00:20:05,570 --> 00:20:06,990
+This is the third way to 
+
+453
+00:20:06,990 --> 00:20:10,310
+solve this. Namely, we have a 
+
+454
+00:20:10,310 --> 00:20:11,890
+numerator function f of x and a 
+
+455
+00:20:11,890 --> 00:20:16,970
+denominator function g of x. And 
+
+456
+00:20:16,970 --> 00:20:19,730
+unfortunately we have the form that if we 
+
+457
+00:20:19,730 --> 00:20:22,910
+now insert our value x equal to minus 1 
+
+458
+00:20:22,910 --> 00:20:24,970
+into the denominator function, 
+
+459
+00:20:24,970 --> 00:20:29,450
+we get a 0. And 
+
+460
+00:20:29,450 --> 00:20:33,010
+now we simply go there. Derive the 
+numerator 
+
+461
+00:20:33,010 --> 00:20:35,090
+and denominator once. But we are 
+
+462
+00:20:35,090 --> 00:20:37,110
+really deriving the numerator function for 
+itself 
+
+463
+00:20:37,110 --> 00:20:38,590
+and the denominator function for itself 
+
+464
+00:20:38,590 --> 00:20:40,210
+once. So we use... 
+
+465
+00:20:40,210 --> 00:20:41,530
+not the 
+
+466
+00:20:41,530 --> 00:20:43,730
+quotient rule in the following. Here is 
+the 
+
+467
+00:20:43,730 --> 00:20:47,250
+proof again. If we 
+
+468
+00:20:47,250 --> 00:20:48,670
+replace the minus 1 , we have 
+
+469
+00:20:48,670 --> 00:20:53,090
+a 0 in the numerator and in the 
+denominator. Therefore, we can apply the 
+
+470
+00:20:53,090 --> 00:20:55,570
+rule and 
+
+471
+00:20:55,570 --> 00:20:58,470
+form the first derivative. In other words, 
+
+472
+00:20:58,470 --> 00:21:00,590
+the first derivative was 
+
+473
+00:21:00,590 --> 00:21:02,870
+formed here. So in the numerator 
+
+474
+00:21:02,870 --> 00:21:06,990
+, x to the power of 3 plus 4x² plus 5x 
+
+475
+00:21:06,990 --> 00:21:09,930
+plus 2 was derived , which is then 3x² 
+plus 8x 
+
+476
+00:21:09,930 --> 00:21:12,870
+plus 5 and the denominator was also 
+
+477
+00:21:12,870 --> 00:21:16,370
+derived, x³ plus x² minus x minus 
+
+478
+00:21:16,370 --> 00:21:20,990
+1, which is then 3x² plus 2x minus 1. 
+
+479
+00:21:22,500 --> 00:21:24,530
+And there you would then 
+
+480
+00:21:24,530 --> 00:21:26,250
+insert it again and unfortunately you 
+would again 
+
+481
+00:21:26,250 --> 00:21:28,310
+find that a 0 
+
+482
+00:21:28,310 --> 00:21:30,570
+comes out twice , which means you derive 
+
+483
+00:21:30,570 --> 00:21:32,270
+the numerator and denominator a second 
+time 
+
+484
+00:21:32,270 --> 00:21:36,530
+. So we derive 3x² plus 8x plus 
+
+485
+00:21:36,530 --> 00:21:40,050
+5 and get 6x plus 8 and 
+
+486
+00:21:40,050 --> 00:21:43,490
+3x² plus 2x minus 1 we also derive 
+
+487
+00:21:43,490 --> 00:21:46,830
+and get 6x plus 2. Now 
+
+488
+00:21:46,830 --> 00:21:48,730
+we put in our minus 1 again 
+
+489
+00:21:48,730 --> 00:21:52,150
+and we realize that this time 
+
+490
+00:21:52,150 --> 00:21:54,470
+minus 1 also comes out half. And 
+
+491
+00:21:54,470 --> 00:21:55,870
+so we have also 
+
+492
+00:21:55,870 --> 00:21:56,930
+determined the limit here. 
+
+493
+00:21:59,810 --> 00:22:01,870
+We are now at the end of the 
+
+494
+00:22:01,870 --> 00:22:03,290
+webinar. We have a few 
+
+495
+00:22:03,290 --> 00:22:04,710
+minutes left to 
+
+496
+00:22:04,710 --> 00:22:05,810
+answer questions. In other words, if you 
+
+497
+00:22:05,810 --> 00:22:07,050
+have any questions, please feel free to 
+
+498
+00:22:07,050 --> 00:22:09,830
+ask them. But thank you 
+
+499
+00:22:09,830 --> 00:22:11,450
+very much for your 
+
+500
+00:22:11,450 --> 00:22:14,210
+attention. And if you 
+
+501
+00:22:14,210 --> 00:22:15,530
+have no more questions, we're 
+
+502
+00:22:15,530 --> 00:22:17,690
+done , as I said. I'd like to wish you a 
+
+503
+00:22:17,690 --> 00:22:19,510
+good evening and you 
+
+504
+00:22:19,510 --> 00:22:21,110
+can leave the room. 
+
+505
+00:22:21,110 --> 00:22:22,110
+But I'll stay in the 
+
+506
+00:22:22,110 --> 00:22:24,190
+room a little longer in case you 
+
+507
+00:22:24,190 --> 00:22:24,910
+want to ask another question. 
+
+508
+00:23:00,840 --> 00:23:01,640
+Thank you too. 

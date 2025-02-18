@@ -1,0 +1,612 @@
+1
+00:00:00,820 --> 00:00:02,500
+Hallo und herzlich willkommen zu den
+
+2
+00:00:02,500 --> 00:00:04,420
+Lernvideos der Schülerhilfe. In
+
+3
+00:00:04,420 --> 00:00:05,740
+diesem Video geht es um das Thema
+
+4
+00:00:05,740 --> 00:00:09,340
+Grundlagenwissen zu Verben. Verben
+
+5
+00:00:09,340 --> 00:00:13,040
+sind Tätigkeitswörter oder sogenannte
+
+6
+00:00:13,040 --> 00:00:15,680
+Tunwörter, denn die beschreiben immer
+
+7
+00:00:15,680 --> 00:00:18,160
+ein Geschehen oder eine Handlung.
+
+8
+00:00:21,920 --> 00:00:24,040
+Man unterscheidet dabei die Verben in
+
+9
+00:00:24,040 --> 00:00:26,840
+zwei verschiedene Formen. Erstens die
+
+10
+00:00:26,840 --> 00:00:30,100
+finite Form und zweitens die infinite
+
+11
+00:00:30,100 --> 00:00:32,680
+Form. Bei der finiten Form findet
+
+12
+00:00:32,680 --> 00:00:34,860
+immer eine Formveränderung statt. Das
+
+13
+00:00:34,860 --> 00:00:36,420
+bedeutet, dass die Verben an
+
+14
+00:00:36,420 --> 00:00:37,800
+irgendetwas angeglichen wird.
+
+15
+00:00:38,340 --> 00:00:39,900
+Genaueres schauen wir uns dazu auch
+
+16
+00:00:39,900 --> 00:00:42,340
+noch gleich an. Die infinite Form
+
+17
+00:00:42,340 --> 00:00:43,680
+bedeutet, dass das Ganze
+
+18
+00:00:43,680 --> 00:00:45,620
+unveränderlich ist. Das sind zum
+
+19
+00:00:45,620 --> 00:00:47,660
+Beispiel die Infinitive, die wir als
+
+20
+00:00:47,660 --> 00:00:49,560
+ganz normale Verben kennen, zum
+
+21
+00:00:49,560 --> 00:00:53,220
+Beispiel gehen. Die finiten Formen
+
+22
+00:00:53,220 --> 00:00:55,600
+bilden dann die Prädikate im Satz.
+
+23
+00:00:55,640 --> 00:00:57,260
+Ein normaler Satz besteht im
+
+24
+00:00:57,260 --> 00:00:58,960
+Deutschen aus Subjekt und Prädikat,
+
+25
+00:00:59,180 --> 00:01:01,000
+zum Beispiel ich gehe ist ein
+
+26
+00:01:01,000 --> 00:01:03,600
+vollständiger Satz. Gehe ist dann das
+
+27
+00:01:03,600 --> 00:01:05,840
+Prädikat und weil es verändert wurde,
+
+28
+00:01:05,940 --> 00:01:07,800
+weil es nicht mehr nur gehen ist, ist
+
+29
+00:01:07,800 --> 00:01:10,340
+es hier eine finite Form. Dann,
+
+30
+00:01:10,500 --> 00:01:12,040
+besonders wichtig, ist auch immer
+
+31
+00:01:12,040 --> 00:01:14,980
+noch der Numerus, das ist die Anzahl.
+
+32
+00:01:15,200 --> 00:01:17,900
+Kann entweder Einzahl sein, also
+
+33
+00:01:17,900 --> 00:01:20,500
+Singular, oder Mehrzahl, Plural.
+
+34
+00:01:23,590 --> 00:01:26,070
+Wichtig für Verben sind auch die
+
+35
+00:01:26,070 --> 00:01:29,070
+Personen. Die erste Person, zweite
+
+36
+00:01:29,070 --> 00:01:31,810
+Person und dritte Person gibt es
+
+37
+00:01:31,810 --> 00:01:33,870
+jeweils im Singular. Und im Plural,
+
+38
+00:01:33,870 --> 00:01:35,610
+also in der Einzahl und in der
+
+39
+00:01:35,610 --> 00:01:37,850
+Mehrzahl. Im Deutschen benutzen wir
+
+40
+00:01:37,850 --> 00:01:39,870
+dafür die Personalpronomen. Zum
+
+41
+00:01:39,870 --> 00:01:41,910
+Beispiel die erste Person Singular
+
+42
+00:01:41,910 --> 00:01:44,810
+ist dann ich, die erste Person Plural
+
+43
+00:01:44,810 --> 00:01:48,010
+wir. Genauso weiter, zweite Person
+
+44
+00:01:48,010 --> 00:01:51,030
+Singular du, dritte Person Singular
+
+45
+00:01:51,030 --> 00:01:54,230
+er, sie, es, zweite Person Plural ihr
+
+46
+00:01:54,230 --> 00:01:58,230
+und dritte Person Plural sie. Bei
+
+47
+00:01:58,230 --> 00:01:59,990
+Verben ist auch noch der Modus
+
+48
+00:01:59,990 --> 00:02:01,870
+entscheidend, in dem das Verb steht.
+
+49
+00:02:02,210 --> 00:02:05,270
+Es kann entweder Indikativ sein, also
+
+50
+00:02:05,270 --> 00:02:07,590
+die sogenannte Wirklichkeitsform, mit
+
+51
+00:02:07,590 --> 00:02:09,090
+der Tatsachen beschrieben werden.
+
+52
+00:02:09,430 --> 00:02:12,170
+Oder es kann der Imperativ sein, die
+
+53
+00:02:12,170 --> 00:02:14,630
+Befehlsform, mit der man jemandem
+
+54
+00:02:14,630 --> 00:02:17,090
+etwas befiehlt oder ein Verbot
+
+55
+00:02:17,090 --> 00:02:18,890
+ausspricht. Oder die dritte
+
+56
+00:02:18,890 --> 00:02:20,650
+Möglichkeit, es kann der Konjunktiv
+
+57
+00:02:20,650 --> 00:02:22,850
+sein, damit wird ein Wunsch geäußert
+
+58
+00:02:22,850 --> 00:02:24,570
+oder auch ein Befehl oder eine
+
+59
+00:02:24,570 --> 00:02:29,080
+beabsichtigte Handlung. Bei den
+
+60
+00:02:29,080 --> 00:02:31,060
+Verben sind auch noch die Zeitformen
+
+61
+00:02:31,060 --> 00:02:33,340
+entscheidet, die nennt man Tempora.
+
+62
+00:02:34,060 --> 00:02:36,400
+Da gibt es verschiedene Zeitformen,
+
+63
+00:02:36,400 --> 00:02:38,760
+in denen das Verb stehen kann, zum
+
+64
+00:02:38,760 --> 00:02:41,100
+Beispiel Präsens, Gegenwart,
+
+65
+00:02:41,360 --> 00:02:43,940
+Imperfekt, Perfekt und
+
+66
+00:02:43,940 --> 00:02:45,540
+Plusquamperfekt, das sind die
+
+67
+00:02:45,540 --> 00:02:48,980
+Vergangenheiten und Futur 1 und Futur
+
+68
+00:02:48,980 --> 00:02:52,220
+2 sind die Zukunftszeiten. Dann
+
+69
+00:02:55,480 --> 00:02:58,680
+als nächstes das Genus Verbi, kann
+
+70
+00:02:58,680 --> 00:03:01,180
+entweder aktiv oder passiv sein.
+
+71
+00:03:01,600 --> 00:03:04,300
+Aktiv bedeutet, dass das Subjekt des
+
+72
+00:03:04,300 --> 00:03:07,680
+Satzes aktiv etwas tut. Am Beispiel
+
+73
+00:03:07,680 --> 00:03:10,260
+ich gehe ist das Subjekt ich und ich
+
+74
+00:03:10,260 --> 00:03:13,780
+gehe aktiv. Passiv dann, mit dem
+
+75
+00:03:13,780 --> 00:03:16,260
+Subjekt wird etwas getan. Das
+
+76
+00:03:16,260 --> 00:03:18,300
+bedeutet auch, dass es die Leideform,
+
+77
+00:03:18,460 --> 00:03:21,140
+denn das Subjekt erleidet etwas. was.
+
+78
+00:03:26,530 --> 00:03:29,390
+Dann werden die Verben konjugiert.
+
+79
+00:03:29,870 --> 00:03:32,670
+Die Konjugation bedeutet, dass es die
+
+80
+00:03:32,670 --> 00:03:35,150
+Formveränderung oder auch Flexion
+
+81
+00:03:35,150 --> 00:03:38,030
+genannt. Diese Formveränderung haben
+
+82
+00:03:38,030 --> 00:03:39,730
+wir eben schon am Anfang gesehen bei
+
+83
+00:03:39,730 --> 00:03:41,810
+den Finiten Formen, denn die
+
+84
+00:03:41,810 --> 00:03:44,530
+verändern ihre Form. Hier siehst du
+
+85
+00:03:44,530 --> 00:03:45,790
+jetzt, inwiefern die ihre Form
+
+86
+00:03:45,790 --> 00:03:47,490
+verändern. Hier haben wir den
+
+87
+00:03:47,490 --> 00:03:50,310
+Infinitiv Monere, er bedeutet
+
+88
+00:03:50,310 --> 00:03:54,230
+erinnern und der Infinitiv hier, das
+
+89
+00:03:54,230 --> 00:03:56,350
+ist die unveränderte Form, also die
+
+90
+00:03:56,350 --> 00:03:59,570
+infinite Form. Hinten haben wir die
+
+91
+00:03:59,570 --> 00:04:01,390
+Endung, die typische Endung vom
+
+92
+00:04:01,390 --> 00:04:05,130
+Infinitiv RE. Wenn wir diese jetzt
+
+93
+00:04:05,130 --> 00:04:06,890
+wegstreichen, haben wir den
+
+94
+00:04:06,890 --> 00:04:10,630
+sogenannten Präsensstamm MONET und da
+
+95
+00:04:10,630 --> 00:04:12,010
+können wir dann die sogenannten
+
+96
+00:04:12,010 --> 00:04:14,130
+Personalendungen hinten anhängen für
+
+97
+00:04:14,130 --> 00:04:15,850
+die erste Person, zweite Person,
+
+98
+00:04:16,030 --> 00:04:18,210
+dritte Person und so weiter und je
+
+99
+00:04:18,210 --> 00:04:19,630
+nachdem welche Personalendung wir
+
+100
+00:04:19,630 --> 00:04:22,070
+anhängen oder auch welche Zeitform
+
+101
+00:04:22,070 --> 00:04:23,850
+wir anhängen, ändert sich das Verb in
+
+102
+00:04:23,850 --> 00:04:26,490
+seiner Bedeutung. Dann gibt es auch
+
+103
+00:04:26,490 --> 00:04:27,970
+noch den Perfektstamm für alle
+
+104
+00:04:27,970 --> 00:04:30,490
+Vergangenheiten, der ist dann Monu.
+
+105
+00:04:31,070 --> 00:04:32,770
+Wenn du Verben im Wörterbuch
+
+106
+00:04:32,770 --> 00:04:34,550
+nachschlägst oder auswendig lernst,
+
+107
+00:04:34,630 --> 00:04:36,170
+solltest du immer diese beiden Stämme
+
+108
+00:04:36,170 --> 00:04:38,050
+mitlernen, damit du weißt, wie die
+
+109
+00:04:38,050 --> 00:04:40,650
+Verben konjugiert werden. Denn es
+
+110
+00:04:40,650 --> 00:04:41,590
+gibt dann auch noch verschiedene
+
+111
+00:04:41,590 --> 00:04:44,690
+Konjugationsklassen, je nach dem
+
+112
+00:04:44,690 --> 00:04:46,970
+Auslaut des Stammes, den wir gerade
+
+113
+00:04:46,970 --> 00:04:49,490
+kennengelernt haben. Was da hinten
+
+114
+00:04:49,490 --> 00:04:51,850
+für ein Auslaut kommt, entscheidet,
+
+115
+00:04:51,850 --> 00:04:53,910
+in welche Konjugationsklasse das Verb
+
+116
+00:04:53,910 --> 00:04:56,070
+kommt und in welcher Weise es
+
+117
+00:04:56,070 --> 00:04:58,290
+konjugiert wird. Zu den einzelnen
+
+118
+00:04:58,290 --> 00:05:00,070
+Konjugationsklassen kannst du dir
+
+119
+00:05:00,070 --> 00:05:01,230
+gerne auch noch einzelne Videos
+
+120
+00:05:01,230 --> 00:05:03,390
+anschauen. Hier haben wir dann die
+
+121
+00:05:03,390 --> 00:05:05,010
+verschiedenen Konjugationsklassen
+
+122
+00:05:05,010 --> 00:05:07,490
+aufgeführt. A-Konjugation, E
+
+123
+00:05:07,490 --> 00:05:09,190
+-Konjugation. konsonantische
+
+124
+00:05:09,190 --> 00:05:11,230
+Konjugation, konsonantische
+
+125
+00:05:11,230 --> 00:05:12,850
+Konjugation mit i und
+
+126
+00:05:12,850 --> 00:05:14,190
+Mischkonjugation.
+
+127
+00:05:15,910 --> 00:05:17,630
+Wie eben auch schon angesprochen,
+
+128
+00:05:17,770 --> 00:05:19,270
+sind im Lateinischen auch die
+
+129
+00:05:19,270 --> 00:05:21,990
+Personalendungen wichtig. Anders als
+
+130
+00:05:21,990 --> 00:05:23,970
+im Deutschen sind diese eindeutig.
+
+131
+00:05:23,990 --> 00:05:26,110
+Das bedeutet, je nachdem, welchen
+
+132
+00:05:26,110 --> 00:05:27,690
+Endung man hinten an das Verb
+
+133
+00:05:27,690 --> 00:05:30,230
+anhängt, zeigt das eindeutig an,
+
+134
+00:05:30,350 --> 00:05:33,750
+welche Person das Verb hat, welchen
+
+135
+00:05:33,750 --> 00:05:36,610
+Numerus, also welche Anzahl und ob es
+
+136
+00:05:36,610 --> 00:05:38,130
+aktiv oder nicht ist. passiv ist,
+
+137
+00:05:38,210 --> 00:05:40,890
+also den Genus Verbi. Das ist anders
+
+138
+00:05:40,890 --> 00:05:42,610
+als im Deutschen. Hier im
+
+139
+00:05:42,610 --> 00:05:45,030
+Lateinischen hat also jedes Verb eine
+
+140
+00:05:45,030 --> 00:05:47,450
+eindeutige Endung und kann somit auch
+
+141
+00:05:47,450 --> 00:05:50,370
+alleinig einen Satz bilden. Zum
+
+142
+00:05:50,370 --> 00:05:52,870
+Beispiel Video bedeutet dann ich
+
+143
+00:05:52,870 --> 00:05:54,990
+sehe. Im Deutschen müssen wir dann
+
+144
+00:05:54,990 --> 00:05:56,550
+das Personalpronomen ich da
+
+145
+00:05:56,550 --> 00:05:58,310
+hinzunehmen, um einen vollständigen
+
+146
+00:05:58,310 --> 00:06:01,730
+Satz zu bilden. Die Personalendung
+
+147
+00:06:01,730 --> 00:06:04,350
+gibt also auch Aufschluss über die
+
+148
+00:06:04,350 --> 00:06:07,590
+Zeitform, also zum Beispiel Video ist
+
+149
+00:06:07,590 --> 00:06:09,810
+präsent in der Gegenwart und alle
+
+150
+00:06:09,810 --> 00:06:11,450
+anderen Zeitformen haben auch
+
+151
+00:06:11,450 --> 00:06:14,920
+entsprechende Endungen. Ich bedanke
+
+152
+00:06:14,920 --> 00:06:16,360
+mich für deine Aufmerksamkeit.
+
+153
+00:06:16,480 --> 00:06:18,000
+Tschüss, bis zum nächsten Mal.
+

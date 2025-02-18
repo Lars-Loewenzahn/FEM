@@ -1,0 +1,496 @@
+﻿1
+00:00:03,920 --> 00:00:06,280
+Hello, my name is Joshua and I 
+
+2
+00:00:06,280 --> 00:00:07,340
+am a tutor at 
+
+3
+00:00:07,340 --> 00:00:09,360
+Schülerhilfe. Today I would like to 
+explain 
+
+4
+00:00:09,360 --> 00:00:11,260
+something about protein biosynthesis 
+
+5
+00:00:11,260 --> 00:00:13,140
+. In our online 
+
+6
+00:00:13,140 --> 00:00:14,940
+ learning center, you 
+
+7
+00:00:14,940 --> 00:00:16,300
+can of course also find a wiki on this 
+topic 
+
+8
+00:00:16,300 --> 00:00:17,500
+, in which the 
+
+9
+00:00:17,500 --> 00:00:19,400
+basic and important terms 
+
+10
+00:00:19,400 --> 00:00:22,280
+are explained in more detail. Protein 
+
+11
+00:00:22,280 --> 00:00:23,880
+ biosynthesis is the process 
+
+12
+00:00:23,880 --> 00:00:25,280
+by which proteins 
+
+13
+00:00:25,280 --> 00:00:27,420
+
+14
+00:00:27,420 --> 00:00:30,040
+are produced or synthesized . Protein 
+biosynthesis 
+
+15
+00:00:30,040 --> 00:00:32,080
+consists of two fundamental 
+
+16
+00:00:32,080 --> 00:00:34,580
+components, transcription and 
+
+17
+00:00:34,580 --> 00:00:37,420
+translation. Transcription 
+
+18
+00:00:37,420 --> 00:00:39,040
+describes the process in which an 
+
+19
+00:00:39,040 --> 00:00:42,220
+mRNA is formed from DNA. It takes place 
+
+20
+00:00:42,220 --> 00:00:44,300
+in the cell nucleus. This 
+
+21
+00:00:44,300 --> 00:00:46,400
+process can be roughly 
+
+22
+00:00:46,400 --> 00:00:48,220
+divided into three parts. The 
+
+23
+00:00:48,220 --> 00:00:50,740
+initialization of transcription, i.e. 
+
+24
+00:00:50,740 --> 00:00:52,940
+its beginning, the 
+
+25
+00:00:52,940 --> 00:00:56,100
+elongation phase and the end of 
+
+26
+00:00:56,100 --> 00:00:57,720
+transcription, i.e. the 
+
+27
+00:00:57,720 --> 00:01:00,340
+terminator . Transcription 
+
+28
+00:01:00,340 --> 00:01:02,900
+begins after the RNA polymerase 
+
+29
+00:01:02,900 --> 00:01:05,380
+, an enzyme that 
+
+30
+00:01:05,380 --> 00:01:07,980
+can synthesize RNA 
+
+31
+00:01:07,980 --> 00:01:09,400
+
+32
+00:01:09,580 --> 00:01:13,160
+, has bound to the promoter, a special 
+section of DNA. An enzyme called 
+
+33
+00:01:13,160 --> 00:01:15,240
+helicase splits the double strands of 
+
+34
+00:01:15,240 --> 00:01:17,740
+DNA into two single strands. 
+
+35
+00:01:17,840 --> 00:01:20,000
+As the strands are now exposed, 
+
+36
+00:01:20,000 --> 00:01:21,660
+new, 
+
+37
+00:01:21,660 --> 00:01:24,660
+complementary bases can attach to the 
+template strand. As a result of 
+
+38
+00:01:24,660 --> 00:01:26,680
+their attachment, 
+
+39
+00:01:26,680 --> 00:01:29,020
+two 
+
+40
+00:01:29,020 --> 00:01:31,780
+new strands are formed from one strand 
+during elongation . On the matrix strand, 
+
+41
+00:01:31,780 --> 00:01:34,500
+the elongation runs from 3' to 
+
+42
+00:01:34,500 --> 00:01:37,580
+5'. On the other strand, 
+
+43
+00:01:37,580 --> 00:01:40,180
+the extension runs from 5' in 
+
+44
+00:01:40,180 --> 00:01:43,260
+the 3' direction. Transcription 
+
+45
+00:01:43,260 --> 00:01:45,300
+is terminated at the terminator, a 
+specific 
+
+46
+00:01:45,300 --> 00:01:48,540
+sequence on the DNA. 
+
+47
+00:01:48,540 --> 00:01:49,740
+In multicellular organisms 
+
+48
+00:01:49,740 --> 00:01:52,000
+, the mRNA then travels directly to 
+
+49
+00:01:52,000 --> 00:01:54,140
+the ribosomes. In multicellular 
+
+50
+00:01:54,140 --> 00:01:56,040
+organisms such as humans, the mRNA is 
+
+51
+00:01:56,040 --> 00:01:57,900
+
+52
+00:01:57,900 --> 00:02:00,320
+processed before it leaves the cell 
+nucleus . This 
+
+53
+00:02:00,320 --> 00:02:02,440
+process is called splicing and 
+
+54
+00:02:02,440 --> 00:02:04,240
+can 
+
+55
+00:02:04,240 --> 00:02:06,920
+largely change the information on the mRNA 
+. In the next 
+
+56
+00:02:06,920 --> 00:02:08,720
+step, the mRNA then leaves the 
+
+57
+00:02:08,720 --> 00:02:10,160
+cell nucleus and enters the 
+
+58
+00:02:10,160 --> 00:02:12,780
+cytoplasm. 
+
+59
+00:02:12,780 --> 00:02:15,260
+An organelle called the ribosome is 
+required for translation 
+
+60
+00:02:18,040 --> 00:02:19,280
+, in which the proteins 
+
+61
+00:02:19,280 --> 00:02:21,300
+are produced. If you compare protein 
+
+62
+00:02:21,300 --> 00:02:23,480
+ biosynthesis with a Lego building set, 
+
+63
+00:02:23,600 --> 00:02:24,980
+you can imagine that 
+
+64
+00:02:24,980 --> 00:02:26,280
+the 
+
+65
+00:02:26,280 --> 00:02:28,820
+instructions 
+
+66
+00:02:28,820 --> 00:02:31,320
+are created or copied in the transcription 
+step. The ribosomes represent the 
+
+67
+00:02:31,320 --> 00:02:33,340
+respective pawn. The necessary 
+
+68
+00:02:33,340 --> 00:02:35,980
+parts, tRNAs, are located in the 
+
+69
+00:02:35,980 --> 00:02:39,500
+cytoplasm. But how exactly can these 
+
+70
+00:02:39,500 --> 00:02:42,700
+instructions be read? The DNA 
+
+71
+00:02:42,700 --> 00:02:45,940
+or mRNA is coded in so-called codons 
+
+72
+00:02:45,940 --> 00:02:48,020
+. This means that 
+
+73
+00:02:48,020 --> 00:02:50,100
+three base pairs always 
+
+74
+00:02:50,100 --> 00:02:52,100
+correspond to one amino acid. For example, 
+the 
+
+75
+00:02:52,100 --> 00:02:54,860
+sequence guanine, cytosine and 
+
+76
+00:02:54,860 --> 00:02:58,680
+uracil corresponds to the amino acid 
+alanine. Here is 
+
+77
+00:02:58,680 --> 00:03:00,100
+another overview of the 
+
+78
+00:03:00,100 --> 00:03:01,940
+most important aspects of the genetic 
+
+79
+00:03:01,940 --> 00:03:04,760
+code. The genetic code is 
+
+80
+00:03:04,760 --> 00:03:07,020
+comma-free. There are no separators 
+
+81
+00:03:07,020 --> 00:03:09,560
+between codons. Codons 
+
+82
+00:03:09,560 --> 00:03:11,860
+do not overlap each other. The 
+
+83
+00:03:11,860 --> 00:03:13,800
+genetic code is degenerate, 
+
+84
+00:03:13,900 --> 00:03:15,900
+several codons can 
+
+85
+00:03:15,900 --> 00:03:18,400
+encode the same amino acid. In addition, 
+the 
+
+86
+00:03:18,400 --> 00:03:20,440
+genetic code is universal, i.e. 
+
+87
+00:03:20,440 --> 00:03:23,180
+identical in almost all living organisms . 
+To 
+
+88
+00:03:23,180 --> 00:03:25,020
+synthesize a protein, it is not 
+
+89
+00:03:25,020 --> 00:03:27,360
+the DNA that is read, but the mRNA. 
+
+90
+00:03:27,860 --> 00:03:30,880
+There are two RNA binding sites on the 
+
+91
+00:03:30,880 --> 00:03:33,520
+ribosome. 
+
+92
+00:03:33,520 --> 00:03:36,280
+The mRNA attaches to the P site. 
+
+93
+00:03:36,280 --> 00:03:38,740
+The tRNA with the appropriate 
+
+94
+00:03:38,740 --> 00:03:42,160
+code is now located on the A site . The 
+tRNA transports 
+
+95
+00:03:42,160 --> 00:03:44,560
+a specific amino acid on one side 
+
+96
+00:03:44,560 --> 00:03:46,640
+and 
+
+97
+00:03:46,640 --> 00:03:50,200
+the code complementary to mRNA is found on 
+the other side. If 
+
+98
+00:03:50,200 --> 00:03:52,860
+the code of the tRNA 
+
+99
+00:03:52,860 --> 00:03:55,160
+is compatible with that of the mRNA 
+
+100
+00:03:55,160 --> 00:03:56,880
+, the respective amino acid is 
+
+101
+00:03:56,880 --> 00:04:01,160
+added to the amino acid chain. This is 
+repeated 
+
+102
+00:04:01,160 --> 00:04:03,420
+until the ribosome 
+
+103
+00:04:03,420 --> 00:04:05,440
+comes to a stop. Codon, the stop signal, 
+is 
+
+104
+00:04:05,440 --> 00:04:07,660
+encountered. This is where translation 
+ends 
+
+105
+00:04:07,660 --> 00:04:09,720
+and the amino acid chain unwinds. 
+
+106
+00:04:09,940 --> 00:04:12,260
+The result of translation is 
+
+107
+00:04:12,260 --> 00:04:14,260
+a strand of amino acids. 
+
+108
+00:04:14,420 --> 00:04:16,700
+This strand changes and folds 
+
+109
+00:04:16,700 --> 00:04:19,000
+into a protein. 
+
+110
+00:04:19,000 --> 00:04:20,260
+
+111
+00:04:20,260 --> 00:04:22,760
+A distinction is made between three 
+different protein forms. The 
+
+112
+00:04:22,760 --> 00:04:25,140
+alpha, the beta and the gamma 
+
+113
+00:04:25,140 --> 00:04:27,640
+ structure. I hope that you now 
+
+114
+00:04:27,640 --> 00:04:29,320
+know more about protein biosynthesis 
+
+115
+00:04:29,320 --> 00:04:31,300
+. If you still have questions about these 
+
+116
+00:04:31,300 --> 00:04:33,260
+or other topics, please feel free to use 
+
+117
+00:04:33,260 --> 00:04:35,380
+our other learning content in the online 
+
+118
+00:04:35,380 --> 00:04:37,400
+ learning center or contact your 
+
+119
+00:04:37,400 --> 00:04:39,020
+local student help center. See you 
+
+120
+00:04:39,020 --> 00:04:39,600
+next time! 

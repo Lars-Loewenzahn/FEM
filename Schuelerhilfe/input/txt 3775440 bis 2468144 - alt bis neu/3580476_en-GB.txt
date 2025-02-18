@@ -1,0 +1,2489 @@
+﻿1
+00:00:01,810 --> 00:00:03,670
+Hello and welcome to the 
+
+2
+00:00:03,670 --> 00:00:07,470
+Schülerhilfe webinar. Today we're looking 
+at 
+
+3
+00:00:07,470 --> 00:00:09,390
+text analysis and 
+
+4
+00:00:09,390 --> 00:00:11,630
+text interpretation. 
+
+5
+00:00:11,630 --> 00:00:13,830
+So let's take a look at what we 
+
+6
+00:00:13,830 --> 00:00:15,890
+need to know about text analysis. This 
+means that 
+
+7
+00:00:15,950 --> 00:00:17,730
+we will first 
+
+8
+00:00:17,730 --> 00:00:19,930
+
+9
+00:00:19,930 --> 00:00:21,650
+look at the general structure of a general 
+analysis. Then we will 
+
+10
+00:00:21,650 --> 00:00:23,810
+make a brief digression into the genre of 
+the text, 
+
+11
+00:00:23,970 --> 00:00:25,810
+because it is very important that we 
+
+12
+00:00:25,810 --> 00:00:27,570
+
+13
+00:00:27,570 --> 00:00:30,130
+pay particular attention to the 
+
+14
+00:00:30,130 --> 00:00:31,850
+genre of the text when analyzing it. 
+
+15
+00:00:31,850 --> 00:00:33,430
+In other words, we will look at the three 
+major 
+
+16
+00:00:33,430 --> 00:00:35,650
+fictional text genres 
+
+17
+00:00:35,650 --> 00:00:37,770
+and then 
+
+18
+00:00:37,770 --> 00:00:39,710
+
+19
+00:00:39,710 --> 00:00:42,810
+move on to non-fictional texts. 
+
+20
+00:00:42,890 --> 00:00:46,110
+This is because each individual text 
+genre, 
+
+21
+00:00:46,150 --> 00:00:48,430
+fictional or non-fictional, 
+
+22
+00:00:48,610 --> 00:00:52,030
+lyrical, dramatic or epic, has 
+
+23
+00:00:52,030 --> 00:00:54,470
+its own focal points of analysis and 
+
+24
+00:00:54,470 --> 00:00:55,810
+we want to 
+
+25
+00:00:55,810 --> 00:00:58,250
+shed light on these in this webinar. But 
+first, a 
+
+26
+00:00:58,250 --> 00:01:00,930
+general outlook on the general 
+
+27
+00:01:00,930 --> 00:01:03,610
+analysis of a text. It is important to 
+note 
+
+28
+00:01:03,770 --> 00:01:07,350
+that we generally 
+
+29
+00:01:07,350 --> 00:01:09,130
+divide an analysis into three parts. The 
+
+30
+00:01:09,130 --> 00:01:10,670
+introduction, the main body and the 
+
+31
+00:01:10,670 --> 00:01:13,330
+conclusion. The introduction 
+
+32
+00:01:13,350 --> 00:01:15,470
+, whose text production or during 
+
+33
+00:01:15,470 --> 00:01:17,250
+the entire text production is 
+
+34
+00:01:17,250 --> 00:01:18,590
+of course to be written in the present 
+tense, 
+
+35
+00:01:18,590 --> 00:01:23,310
+gives the entire introduction or the 
+
+36
+00:01:23,310 --> 00:01:27,790
+entire beginning of the text production 
+
+37
+00:01:27,790 --> 00:01:31,630
+should introduce the topic and 
+
+38
+00:01:31,630 --> 00:01:33,350
+
+39
+00:01:33,350 --> 00:01:36,030
+name the general information . Something 
+like the literary 
+
+40
+00:01:36,030 --> 00:01:39,070
+genre, the title, the author, the 
+
+41
+00:01:39,070 --> 00:01:41,090
+time of origin, the first 
+
+42
+00:01:41,090 --> 00:01:43,030
+reading impression, which of course 
+
+43
+00:01:43,030 --> 00:01:45,290
+should not be based on how you yourself 
+
+44
+00:01:45,290 --> 00:01:46,930
+felt about reading, but on 
+
+45
+00:01:46,930 --> 00:01:48,750
+what kind of reading things 
+
+46
+00:01:48,750 --> 00:01:51,050
+immediately stuck in your 
+
+47
+00:01:51,050 --> 00:01:53,090
+mind. These are 
+
+48
+00:01:53,090 --> 00:01:55,650
+things like, for 
+
+49
+00:01:55,650 --> 00:01:57,690
+example , important people and 
+
+50
+00:01:57,690 --> 00:01:59,910
+important events in the named 
+
+51
+00:01:59,910 --> 00:02:03,390
+text. We should also 
+
+52
+00:02:03,390 --> 00:02:05,210
+
+53
+00:02:05,290 --> 00:02:07,190
+name the basic features of the form, 
+language and content. 
+
+54
+00:02:07,190 --> 00:02:08,590
+In other words, the introduction provides 
+a 
+
+55
+00:02:08,590 --> 00:02:10,670
+general outlook and should 
+
+56
+00:02:10,670 --> 00:02:13,410
+
+57
+00:02:13,410 --> 00:02:16,070
+inform the reader of our analysis to the 
+extent that they know what the text 
+
+58
+00:02:16,070 --> 00:02:19,210
+is roughly about. 
+
+59
+00:02:19,210 --> 00:02:20,810
+Of course, the reader needs to know what 
+text it is 
+
+60
+00:02:20,810 --> 00:02:23,030
+, i.e. what type of text, 
+
+61
+00:02:23,230 --> 00:02:24,990
+when, where and how. In other words, we 
+
+62
+00:02:24,990 --> 00:02:26,790
+
+63
+00:02:26,790 --> 00:02:29,310
+may also need to make a few marginal notes 
+about the time of origin 
+
+64
+00:02:29,310 --> 00:02:31,510
+if it 
+
+65
+00:02:31,510 --> 00:02:33,630
+
+66
+00:02:33,630 --> 00:02:36,230
+was written about certain social or 
+historical events 
+
+67
+00:02:36,230 --> 00:02:38,290
+or if they can be classified as such. 
+
+68
+00:02:38,290 --> 00:02:40,970
+Then we come to the 
+
+69
+00:02:40,970 --> 00:02:43,730
+main part. But first, 
+
+70
+00:02:43,730 --> 00:02:45,850
+of course, we need to be 
+
+71
+00:02:45,850 --> 00:02:48,230
+clear about the content. To do this, our 
+
+72
+00:02:48,230 --> 00:02:49,730
+analysis requires a 
+
+73
+00:02:49,730 --> 00:02:52,390
+summary of the content of the original 
+text source. 
+
+74
+00:02:52,390 --> 00:02:53,730
+In other words, we prepare a 
+
+75
+00:02:53,730 --> 00:02:55,790
+summary of the content. This 
+
+76
+00:02:55,790 --> 00:02:58,510
+summary should 
+
+77
+00:02:58,510 --> 00:03:00,550
+
+78
+00:03:00,550 --> 00:03:03,610
+inform the reader of our analysis about 
+the content. 
+
+79
+00:03:03,630 --> 00:03:05,270
+Of course, we must 
+
+80
+00:03:05,270 --> 00:03:07,370
+formulate the summary in such a way that 
+
+81
+00:03:07,370 --> 00:03:09,110
+it is not a retelling 
+
+82
+00:03:09,190 --> 00:03:11,070
+, but that the most important and 
+
+83
+00:03:11,070 --> 00:03:12,930
+relevant points are named so that 
+
+84
+00:03:13,110 --> 00:03:15,490
+the reader 
+
+85
+00:03:15,490 --> 00:03:17,510
+
+86
+00:03:17,510 --> 00:03:19,450
+can get an idea of what we are 
+
+87
+00:03:19,450 --> 00:03:22,970
+analyzing without having to read the 
+entire original text . 
+
+88
+00:03:22,970 --> 00:03:26,690
+
+89
+00:03:26,690 --> 00:03:28,390
+Once we have prepared the textual 
+information or the table of contents, we 
+will look 
+
+90
+00:03:28,470 --> 00:03:31,110
+at the form and 
+
+91
+00:03:31,110 --> 00:03:34,870
+structure of the text. The original text. 
+
+92
+00:03:34,970 --> 00:03:36,830
+Of course, we also look at 
+
+93
+00:03:36,830 --> 00:03:38,630
+the stylistic and linguistic 
+
+94
+00:03:38,630 --> 00:03:41,170
+features of the text. 
+
+95
+00:03:41,170 --> 00:03:43,750
+In other words, we start our analysis 
+
+96
+00:03:43,750 --> 00:03:45,610
+by 
+
+97
+00:03:45,610 --> 00:03:49,370
+looking at form and structure. In other 
+words, we ask ourselves 
+
+98
+00:03:49,370 --> 00:03:50,770
+how we can 
+
+99
+00:03:50,770 --> 00:03:52,430
+divide up the text , how we can 
+
+100
+00:03:52,430 --> 00:03:53,970
+work it out, how we can 
+
+101
+00:03:53,970 --> 00:03:56,150
+understand it and what special features 
+
+102
+00:03:56,150 --> 00:03:58,450
+the text has. Of course, and 
+
+103
+00:03:58,450 --> 00:04:00,030
+we'll come to this later 
+
+104
+00:04:00,030 --> 00:04:02,290
+in the webinar , this 
+
+105
+00:04:02,290 --> 00:04:04,030
+differs from text card to text card. 
+Whereas 
+
+106
+00:04:04,030 --> 00:04:07,010
+with a lyrical text we pay attention to 
+
+107
+00:04:07,010 --> 00:04:09,270
+the verses and stanzas into which 
+
+108
+00:04:09,270 --> 00:04:11,530
+it is divided, with prose 
+
+109
+00:04:11,530 --> 00:04:12,770
+ texts we  may have to 
+
+110
+00:04:12,770 --> 00:04:14,650
+divide it into sensory sections or, in the 
+case of 
+
+111
+00:04:14,650 --> 00:04:15,970
+non-fiction texts 
+
+112
+00:04:15,970 --> 00:04:18,050
+, divide it into certain sensory sections, 
+because 
+
+113
+00:04:18,050 --> 00:04:19,290
+different topics are 
+
+114
+00:04:19,290 --> 00:04:21,870
+named. This means 
+
+115
+00:04:21,870 --> 00:04:24,150
+, of course, that we have to pay attention 
+to which 
+
+116
+00:04:24,150 --> 00:04:25,850
+text and which type of text we are 
+
+117
+00:04:25,850 --> 00:04:27,770
+dealing with here. 
+
+118
+00:04:27,770 --> 00:04:30,470
+However, this is basically the first task 
+of 
+
+119
+00:04:30,470 --> 00:04:33,090
+our text analysis, i.e. the 
+
+120
+00:04:33,090 --> 00:04:35,030
+actual analysis, the main part. 
+
+121
+00:04:35,730 --> 00:04:37,590
+We must then 
+
+122
+00:04:37,590 --> 00:04:38,930
+move on to the interpretation. In doing 
+so, we must 
+
+123
+00:04:38,930 --> 00:04:40,170
+
+124
+00:04:40,170 --> 00:04:41,950
+allow conclusions to be drawn from the 
+text description. This means 
+
+125
+00:04:41,970 --> 00:04:43,510
+that we have only 
+
+126
+00:04:43,510 --> 00:04:45,330
+named the content, form and structure and 
+must 
+
+127
+00:04:45,330 --> 00:04:48,970
+now place these in context. 
+
+128
+00:04:49,150 --> 00:04:52,230
+In other words, we must first 
+
+129
+00:04:52,230 --> 00:04:54,190
+reproduce the text. Basically, this means 
+
+130
+00:04:54,190 --> 00:04:56,230
+filtering what is important and 
+
+131
+00:04:56,230 --> 00:04:58,290
+
+132
+00:04:58,290 --> 00:05:00,230
+developing something from what has been 
+filtered. In other words, we 
+
+133
+00:05:00,230 --> 00:05:01,210
+can 
+
+134
+00:05:01,210 --> 00:05:03,830
+draw thoughts and conclusions that will 
+
+135
+00:05:03,830 --> 00:05:05,410
+ultimately lead us to our 
+
+136
+00:05:05,410 --> 00:05:07,770
+interpretation. 
+
+137
+00:05:07,770 --> 00:05:09,410
+Of course, we provide this evidence 
+
+138
+00:05:09,410 --> 00:05:11,850
+through quotations. In other words, 
+
+139
+00:05:11,850 --> 00:05:14,030
+we prove our conclusions by 
+
+140
+00:05:14,050 --> 00:05:15,710
+referring to the text. 
+
+141
+00:05:16,250 --> 00:05:17,910
+After we have done this extensively 
+
+142
+00:05:17,910 --> 00:05:19,590
+and thoroughly, we come 
+
+143
+00:05:19,590 --> 00:05:21,770
+to a conclusion. In other words 
+
+144
+00:05:21,770 --> 00:05:23,610
+, at the beginning of our analysis we may 
+
+145
+00:05:23,610 --> 00:05:25,690
+already formulate an interpretative 
+hypothesis, 
+
+146
+00:05:25,690 --> 00:05:28,410
+i.e. a general core idea for which 
+
+147
+00:05:28,410 --> 00:05:30,330
+we want to examine the text, 
+
+148
+00:05:30,430 --> 00:05:32,190
+with the help of the conclusion 
+
+149
+00:05:32,190 --> 00:05:33,950
+of the quotations and the general 
+
+150
+00:05:33,950 --> 00:05:37,330
+content and structure of the text 
+
+151
+00:05:37,330 --> 00:05:39,690
+. In other words, we 
+
+152
+00:05:39,690 --> 00:05:41,630
+make a critical assessment of the text 
+
+153
+00:05:41,630 --> 00:05:42,470
+by 
+
+154
+00:05:42,470 --> 00:05:43,710
+either 
+
+155
+00:05:43,710 --> 00:05:45,670
+verifying or falsifying our interpretative 
+hypothesis . 
+
+156
+00:05:45,670 --> 00:05:47,590
+In other words, we have substantiated it 
+and 
+
+157
+00:05:47,590 --> 00:05:49,210
+establish that it 
+
+158
+00:05:49,210 --> 00:05:50,870
+is either correct or incorrect. The 
+
+159
+00:05:50,870 --> 00:05:52,990
+train of thought that we 
+
+160
+00:05:52,990 --> 00:05:54,530
+had at the beginning , that's usually the 
+first 
+
+161
+00:05:54,530 --> 00:05:56,770
+impression that basically enables us 
+
+162
+00:05:56,770 --> 00:05:58,450
+to verify 
+
+163
+00:05:58,450 --> 00:06:00,030
+and 
+
+164
+00:06:00,030 --> 00:06:02,410
+think about the general idea . After we 
+
+165
+00:06:02,410 --> 00:06:04,570
+have done that , sometimes there is the 
+task 
+
+166
+00:06:04,570 --> 00:06:06,390
+or we also have the opportunity to 
+
+167
+00:06:07,530 --> 00:06:09,730
+
+168
+00:06:09,930 --> 00:06:12,770
+express our own experience or opinion, the 
+subjective opinion. We 
+
+169
+00:06:12,770 --> 00:06:14,470
+should always be aware 
+
+170
+00:06:14,590 --> 00:06:16,790
+that during an analysis we 
+
+171
+00:06:16,790 --> 00:06:18,770
+
+172
+00:06:18,770 --> 00:06:20,210
+should work as objectively analytically as 
+possible. This means 
+
+173
+00:06:20,210 --> 00:06:23,270
+that our own opinion, i.e. the 
+
+174
+00:06:23,270 --> 00:06:25,090
+general emotional opinion, should 
+
+175
+00:06:25,090 --> 00:06:26,990
+be held back and should only 
+
+176
+00:06:26,990 --> 00:06:29,950
+
+177
+00:06:29,950 --> 00:06:31,770
+come into play during or after the actual 
+closing argument. 
+
+178
+00:06:32,030 --> 00:06:34,190
+Now let's take a brief excursion 
+
+179
+00:06:34,190 --> 00:06:36,210
+into text genres. Text genres 
+
+180
+00:06:36,210 --> 00:06:38,290
+are primarily divided, or 
+
+181
+00:06:38,290 --> 00:06:40,270
+texts are primarily divided, into 
+
+182
+00:06:40,270 --> 00:06:44,150
+two major divisions. We 
+
+183
+00:06:44,150 --> 00:06:45,610
+have already mentioned this at the 
+beginning. 
+
+184
+00:06:45,610 --> 00:06:47,990
+Fictional texts, i.e. imaginary 
+
+185
+00:06:47,990 --> 00:06:49,790
+texts, and non-fictional texts, i.e. 
+
+186
+00:06:49,790 --> 00:06:52,650
+real texts. Real 
+
+187
+00:06:52,650 --> 00:06:54,410
+texts are something like non-fictional 
+texts, 
+
+188
+00:06:54,410 --> 00:06:56,250
+everyday texts, which can 
+
+189
+00:06:56,250 --> 00:06:57,970
+be political speeches, scientific 
+
+190
+00:06:57,970 --> 00:07:00,890
+essays or journalistic texts, 
+
+191
+00:07:00,890 --> 00:07:03,590
+newspaper reports and others. 
+
+192
+00:07:03,950 --> 00:07:06,150
+Fictional texts are literary, 
+
+193
+00:07:06,330 --> 00:07:08,650
+i.e. imaginary texts. 
+
+194
+00:07:08,650 --> 00:07:11,490
+It is important to note that Berlin 
+
+195
+00:07:11,490 --> 00:07:15,210
+can also be portrayed fictionally 
+
+196
+00:07:15,210 --> 00:07:17,290
+. The difference is that 
+
+197
+00:07:17,290 --> 00:07:19,830
+a fictional Berlin 
+
+198
+00:07:19,830 --> 00:07:22,470
+can also have other characteristics. This 
+means that 
+
+199
+00:07:22,530 --> 00:07:23,870
+in a fictional 
+
+200
+00:07:23,870 --> 00:07:27,130
+Berlin , we can also paint the city larger 
+
+201
+00:07:27,130 --> 00:07:28,970
+than it is, smaller than it 
+
+202
+00:07:28,970 --> 00:07:30,270
+is. We can 
+
+203
+00:07:30,270 --> 00:07:32,750
+feel other people in it, while a 
+
+204
+00:07:32,750 --> 00:07:34,830
+non-fictional Berlin is the concrete, 
+
+205
+00:07:34,830 --> 00:07:36,850
+real Berlin. This means that the 
+
+206
+00:07:36,850 --> 00:07:39,570
+non-fictional must inevitably 
+
+207
+00:07:39,570 --> 00:07:41,270
+
+208
+00:07:41,270 --> 00:07:43,090
+be bound to reality and truth. Fictional 
+texts 
+
+209
+00:07:43,090 --> 00:07:45,350
+are allowed to modify this a little, 
+
+210
+00:07:45,390 --> 00:07:46,610
+i.e. 
+
+211
+00:07:46,610 --> 00:07:49,070
+to deviate from actual reality in order to 
+
+212
+00:07:49,070 --> 00:07:51,530
+better 
+
+213
+00:07:51,530 --> 00:07:53,950
+represent an idea or their own idea. We 
+divide 
+
+214
+00:07:53,950 --> 00:07:56,410
+fictional texts into the three major 
+
+215
+00:07:56,410 --> 00:07:59,650
+text genres: epic, poetry 
+
+216
+00:07:59,650 --> 00:08:01,770
+and drama. 
+
+217
+00:08:01,770 --> 00:08:03,930
+For example, poetry and drama 
+
+218
+00:08:03,930 --> 00:08:06,490
+apart from drama, i.e. epic and 
+
+219
+00:08:06,490 --> 00:08:08,210
+poetry apart from drama 
+
+220
+00:08:08,210 --> 00:08:10,450
+, differ from each other in that their 
+
+221
+00:08:10,450 --> 00:08:12,330
+text form is different. While 
+
+222
+00:08:12,330 --> 00:08:14,250
+epic poetry is written in prose, i.e. in 
+continuous text 
+
+223
+00:08:14,250 --> 00:08:17,130
+, lyric poetry is 
+
+224
+00:08:17,130 --> 00:08:19,090
+written in verse and stanzas, i.e. in a 
+
+225
+00:08:19,090 --> 00:08:22,170
+generally composed text form. In 
+
+226
+00:08:22,170 --> 00:08:24,170
+epic poetry, it is not important or 
+
+227
+00:08:24,170 --> 00:08:27,890
+less interesting how the 
+
+228
+00:08:27,890 --> 00:08:30,990
+words themselves 
+
+229
+00:08:30,990 --> 00:08:32,890
+are structurally linked, which 
+
+230
+00:08:32,890 --> 00:08:34,350
+is a 
+
+231
+00:08:34,350 --> 00:08:36,390
+key feature of lyric poetry . This means 
+that here, too, 
+
+232
+00:08:36,390 --> 00:08:37,870
+we quickly realize how important 
+
+233
+00:08:37,870 --> 00:08:39,610
+it is to 
+
+234
+00:08:39,610 --> 00:08:42,110
+know the different text genres and to 
+
+235
+00:08:42,110 --> 00:08:44,490
+be aware of 
+
+236
+00:08:44,490 --> 00:08:46,670
+the type of text 
+
+237
+00:08:46,670 --> 00:08:49,030
+we are analysing before we begin. 
+
+238
+00:08:49,030 --> 00:08:51,370
+This contrasts with drama. 
+
+239
+00:08:51,370 --> 00:08:54,470
+Drama is the general form of 
+
+240
+00:08:54,470 --> 00:08:57,170
+plays. In other words, in addition to 
+
+241
+00:08:57,170 --> 00:08:59,510
+poetry and epic poetry, which 
+
+242
+00:08:59,510 --> 00:09:02,070
+can have their presentation , i.e. poetry 
+has 
+
+243
+00:09:02,070 --> 00:09:04,150
+an external presentation, which means it 
+
+244
+00:09:04,150 --> 00:09:06,070
+can be read aloud, it is 
+
+245
+00:09:06,070 --> 00:09:07,490
+intended for an audience, 
+
+246
+00:09:07,490 --> 00:09:10,010
+an audience of course , while epic poetry 
+
+247
+00:09:10,010 --> 00:09:13,030
+
+248
+00:09:13,030 --> 00:09:15,590
+establishes a more private, intimate 
+relationship with the reader, drama 
+
+249
+00:09:15,590 --> 00:09:17,390
+
+250
+00:09:17,390 --> 00:09:19,930
+is intended for the theater, i.e. for 
+theatrical presentation. Drama 
+
+251
+00:09:19,930 --> 00:09:21,730
+is something like a comedy, a 
+
+252
+00:09:21,730 --> 00:09:23,570
+tragedy, a popular play, a 
+
+253
+00:09:23,570 --> 00:09:26,470
+stage play. Something that basically 
+
+254
+00:09:26,470 --> 00:09:29,090
+
+255
+00:09:29,190 --> 00:09:30,990
+has certain characteristics such as 
+dialog, character speech and characters, 
+
+256
+00:09:31,110 --> 00:09:32,930
+which we 
+
+257
+00:09:32,930 --> 00:09:34,770
+find less of in poetry, for example. This 
+is because in lyric poetry 
+
+258
+00:09:34,770 --> 00:09:36,710
+, the speech is usually 
+
+259
+00:09:36,710 --> 00:09:38,070
+
+260
+00:09:38,070 --> 00:09:41,570
+produced from a lyrical first person, 
+whereas in epic poetry 
+
+261
+00:09:41,570 --> 00:09:43,950
+, other characters 
+
+262
+00:09:43,950 --> 00:09:45,190
+are portrayed differently . 
+
+263
+00:09:45,190 --> 00:09:46,870
+A distinction is made between the 
+first-person 
+
+264
+00:09:46,870 --> 00:09:49,250
+ narrator and the authorial 
+
+265
+00:09:49,250 --> 00:09:51,330
+narrator or personal narrator. 
+
+266
+00:09:51,350 --> 00:09:53,610
+But more on this later. We want to 
+
+267
+00:09:53,610 --> 00:09:57,010
+look at the short examples of genres 
+
+268
+00:09:57,010 --> 00:10:00,350
+, poetry, as already mentioned, almost 
+something 
+
+269
+00:10:00,350 --> 00:10:02,330
+like the ballad, the ode, the sonnet 
+
+270
+00:10:02,330 --> 00:10:04,530
+or the poem, while epic poetry, 
+
+271
+00:10:04,530 --> 00:10:07,730
+novels, novellas, chronicles, it 
+
+272
+00:10:07,730 --> 00:10:09,390
+can also be biographies, 
+
+273
+00:10:09,670 --> 00:10:13,090
+short stories, fairy tales or 
+
+274
+00:10:13,090 --> 00:10:15,470
+basically simple stories 
+
+275
+00:10:15,470 --> 00:10:19,030
+or fables. Let's now move on to the 
+
+276
+00:10:19,030 --> 00:10:20,950
+actual analysis, i.e. the 
+
+277
+00:10:20,950 --> 00:10:22,670
+focus of our webinar, and 
+
+278
+00:10:22,670 --> 00:10:23,870
+concentrate 
+
+279
+00:10:23,870 --> 00:10:26,050
+on narrative texts, i.e. the first 
+
+280
+00:10:26,050 --> 00:10:29,810
+text card, epic poetry. In the case of 
+epic poetry 
+
+281
+00:10:29,810 --> 00:10:32,370
+, the 
+
+282
+00:10:32,370 --> 00:10:34,090
+author is not the same as the narrator. 
+
+283
+00:10:34,090 --> 00:10:35,250
+In other words, we must not assume 
+
+284
+00:10:35,250 --> 00:10:37,510
+that the author is the one 
+
+285
+00:10:37,510 --> 00:10:39,910
+telling the story. We have to 
+
+286
+00:10:39,910 --> 00:10:41,950
+pay attention to 
+
+287
+00:10:41,950 --> 00:10:44,190
+
+288
+00:10:44,190 --> 00:10:45,750
+the narrative perspective, as I have just 
+mentioned . 
+
+289
+00:10:45,750 --> 00:10:46,450
+In other words, one of our 
+
+290
+00:10:46,450 --> 00:10:49,490
+main points of analysis is to 
+
+291
+00:10:49,490 --> 00:10:52,170
+recognize from which perspective 
+
+292
+00:10:52,170 --> 00:10:54,130
+the story is told and to ask ourselves 
+
+293
+00:10:54,130 --> 00:10:56,230
+why. That would then be a 
+
+294
+00:10:56,230 --> 00:10:58,650
+point for interpretation. So first 
+
+295
+00:10:58,650 --> 00:11:00,130
+we have to make the observation, 
+
+296
+00:11:00,390 --> 00:11:01,950
+that would be the first part of our 
+
+297
+00:11:01,950 --> 00:11:03,810
+main part and the second part would be 
+
+298
+00:11:03,810 --> 00:11:05,650
+the question of why. So we have to 
+
+299
+00:11:05,650 --> 00:11:07,170
+draw a conclusion from this. 
+
+300
+00:11:07,330 --> 00:11:09,330
+We differentiate between the 
+
+301
+00:11:09,330 --> 00:11:11,570
+first-person narrator and the third-person 
+
+302
+00:11:11,570 --> 00:11:13,110
+ narrator. This can be a first-person 
+
+303
+00:11:13,110 --> 00:11:15,670
+narrator or a third-person narrator. The 
+
+304
+00:11:15,670 --> 00:11:18,410
+narrative perspective as an adjective, 
+i.e. 
+
+305
+00:11:18,410 --> 00:11:20,490
+attribute,  can 
+
+306
+00:11:20,490 --> 00:11:22,390
+be either authorial, i.e. 
+
+307
+00:11:22,390 --> 00:11:24,590
+omniscient, personal, i.e. 
+
+308
+00:11:24,590 --> 00:11:26,750
+focused on one person, or 
+
+309
+00:11:26,750 --> 00:11:29,250
+neutral, i.e. a 
+
+310
+00:11:29,250 --> 00:11:30,930
+silent observer. With the 
+
+311
+00:11:30,930 --> 00:11:33,510
+personal or authorial 
+
+312
+00:11:33,510 --> 00:11:35,630
+narrative perspective, we 
+
+313
+00:11:35,630 --> 00:11:39,490
+also have many impressions, i.e. 
+
+314
+00:11:39,490 --> 00:11:41,570
+subjective impressions, whereas 
+
+315
+00:11:41,570 --> 00:11:43,710
+with the neutral narrative perspective, 
+
+316
+00:11:43,710 --> 00:11:45,350
+we are basically only observing, 
+
+317
+00:11:45,370 --> 00:11:47,070
+i.e. watching. 
+
+318
+00:11:47,070 --> 00:11:49,330
+We don't have the chance to 
+
+319
+00:11:49,330 --> 00:11:52,330
+
+320
+00:11:52,330 --> 00:11:56,290
+read the individual emotions or thoughts 
+of the individual characters. It is then 
+
+321
+00:11:56,290 --> 00:11:59,230
+important to recognize the characters' 
+speech in the 
+
+322
+00:11:59,230 --> 00:12:01,870
+general prose. In 
+
+323
+00:12:01,870 --> 00:12:03,110
+other words, is it 
+
+324
+00:12:03,110 --> 00:12:05,210
+dialog? Is there indirect speech, 
+
+325
+00:12:05,330 --> 00:12:06,810
+inner monologue? What is the 
+
+326
+00:12:06,810 --> 00:12:08,730
+general direct speech like ? In other 
+words, 
+
+327
+00:12:08,790 --> 00:12:11,410
+how do the characters speak to and 
+
+328
+00:12:11,410 --> 00:12:14,370
+among themselves? We also need to 
+
+329
+00:12:14,370 --> 00:12:16,390
+
+330
+00:12:16,390 --> 00:12:18,010
+talk about the general time. In other 
+words, how is the 
+
+331
+00:12:18,010 --> 00:12:19,850
+story told, the narrative time and the 
+
+332
+00:12:19,850 --> 00:12:21,930
+narrated time. Here it is important 
+
+333
+00:12:22,030 --> 00:12:24,130
+that we 
+
+334
+00:12:24,130 --> 00:12:26,410
+pay attention to whether the narrative 
+time is 
+
+335
+00:12:26,410 --> 00:12:27,930
+tightening, stretching or 
+
+336
+00:12:27,930 --> 00:12:30,070
+covering time. And when it comes to 
+
+337
+00:12:30,070 --> 00:12:31,890
+narrated time, we have to 
+
+338
+00:12:31,890 --> 00:12:35,090
+ask ourselves to what extent we learn 
+
+339
+00:12:35,090 --> 00:12:37,090
+how much about time. In other words, do 
+
+340
+00:12:37,170 --> 00:12:39,550
+we experience narratives about a 
+
+341
+00:12:39,550 --> 00:12:42,510
+day, a year, a week, 
+
+342
+00:12:42,630 --> 00:12:44,890
+a whole life or a 
+
+343
+00:12:44,890 --> 00:12:47,350
+whole family history. 
+
+344
+00:12:47,350 --> 00:12:49,370
+Time-lapse is something that 
+
+345
+00:12:49,370 --> 00:12:52,130
+shortens time itself, for example. 
+
+346
+00:12:52,150 --> 00:12:54,190
+This means that what we read can 
+
+347
+00:12:54,190 --> 00:12:56,470
+be completed in three days, for example, 
+
+348
+00:12:56,470 --> 00:12:59,210
+although we naturally 
+
+349
+00:12:59,210 --> 00:13:00,850
+read from second to second. In other 
+words, time 
+
+350
+00:13:00,850 --> 00:13:03,090
+is power. In the case of time dilation 
+
+351
+00:13:03,090 --> 00:13:05,050
+, a moment is savored. 
+
+352
+00:13:05,130 --> 00:13:06,690
+In other words, we move in 
+
+353
+00:13:06,690 --> 00:13:09,450
+a moment for longer than we 
+
+354
+00:13:09,450 --> 00:13:11,830
+can experience it in reality. Or in the 
+case of 
+
+355
+00:13:11,830 --> 00:13:14,050
+time coverage, a 
+
+356
+00:13:14,050 --> 00:13:16,770
+narrative 
+
+357
+00:13:16,770 --> 00:13:17,870
+takes place at the same time as the 
+reading. This means that the 
+
+358
+00:13:17,870 --> 00:13:19,710
+events happen as we 
+
+359
+00:13:19,710 --> 00:13:21,050
+read them. In other words, they 
+
+360
+00:13:21,050 --> 00:13:24,290
+correspond to real time. In addition, 
+
+361
+00:13:24,290 --> 00:13:25,430
+we also have to deal with 
+
+362
+00:13:25,430 --> 00:13:26,630
+space, i.e. the general 
+
+363
+00:13:26,630 --> 00:13:28,690
+location of the plot. 
+
+364
+00:13:30,660 --> 00:13:33,260
+When analyzing lyrical texts, i.e. 
+
+365
+00:13:33,260 --> 00:13:35,320
+poetry, it is important, 
+
+366
+00:13:35,320 --> 00:13:37,660
+as we have already mentioned, 
+
+367
+00:13:37,660 --> 00:13:39,380
+not to 
+
+368
+00:13:39,380 --> 00:13:40,940
+see the lyrical ego as the author. So 
+basically, with 
+
+369
+00:13:40,940 --> 00:13:43,240
+texts, we don't treat the author 
+
+370
+00:13:43,240 --> 00:13:46,060
+as the narrator or the lyrical 
+
+371
+00:13:46,060 --> 00:13:49,240
+ego, which 
+
+372
+00:13:49,240 --> 00:13:53,580
+is ultimately also a narrator. Lyrical 
+
+373
+00:13:53,580 --> 00:13:57,920
+texts usually deal with emotional 
+
+374
+00:13:57,920 --> 00:14:00,780
+themes or major topics that 
+
+375
+00:14:00,780 --> 00:14:02,960
+are difficult to put into words. This is 
+why 
+
+376
+00:14:02,960 --> 00:14:05,000
+the lyrical text form is chosen as 
+
+377
+00:14:05,000 --> 00:14:06,420
+basically artificial material, 
+
+378
+00:14:06,860 --> 00:14:09,220
+as art attempts to 
+
+379
+00:14:09,220 --> 00:14:11,120
+describe what is difficult to put into 
+words 
+
+380
+00:14:11,120 --> 00:14:13,040
+. This means that we have 
+
+381
+00:14:13,040 --> 00:14:16,480
+certain characteristics typical of the 
+genre 
+
+382
+00:14:16,480 --> 00:14:17,980
+, such as rhythmic 
+
+383
+00:14:17,980 --> 00:14:20,420
+composition. In other words 
+
+384
+00:14:20,420 --> 00:14:22,580
+, we are not talking about lines and words 
+here, 
+
+385
+00:14:22,620 --> 00:14:25,100
+but words, 
+
+386
+00:14:25,100 --> 00:14:28,200
+verses and stanzas. They have a 
+
+387
+00:14:28,200 --> 00:14:30,360
+certain rhythm, they have rhymes, 
+
+388
+00:14:30,420 --> 00:14:32,580
+the tonal design. 
+
+389
+00:14:32,580 --> 00:14:34,440
+We are also talking about cadences, i.e. 
+
+390
+00:14:34,440 --> 00:14:36,440
+rises and falls, about a 
+
+391
+00:14:36,440 --> 00:14:38,760
+certain rhythm in the performance. It 
+
+392
+00:14:38,760 --> 00:14:41,020
+is the valley of death that we 
+
+393
+00:14:41,020 --> 00:14:43,040
+tread. In other words, it already has 
+
+394
+00:14:43,040 --> 00:14:45,860
+a great performance, which 
+
+395
+00:14:45,860 --> 00:14:47,420
+ultimately puts us in the right 
+
+396
+00:14:47,420 --> 00:14:49,300
+mood. 
+
+397
+00:14:49,300 --> 00:14:51,200
+Of course, it is important that this 
+language is 
+
+398
+00:14:51,200 --> 00:14:54,360
+based on images. 
+
+399
+00:14:54,460 --> 00:14:56,880
+In other words , because the words 
+
+400
+00:14:56,880 --> 00:15:00,040
+are condensed and deliberately chosen, 
+
+401
+00:15:00,040 --> 00:15:02,000
+they are naturally based on the fact that 
+they 
+
+402
+00:15:02,000 --> 00:15:04,560
+
+403
+00:15:04,560 --> 00:15:06,760
+
+404
+00:15:06,760 --> 00:15:08,140
+create large and powerful images in a 
+nutshell, i.e. with short and few words . 
+That's why 
+
+405
+00:15:08,140 --> 00:15:10,480
+rhetorical and linguistic means are 
+
+406
+00:15:10,480 --> 00:15:12,980
+necessary, so that things like 
+
+407
+00:15:12,980 --> 00:15:14,300
+metaphor comparisons, 
+
+408
+00:15:14,300 --> 00:15:16,700
+allusions or other 
+
+409
+00:15:16,700 --> 00:15:19,060
+things that ultimately 
+
+410
+00:15:19,060 --> 00:15:22,600
+give us stylistic figures that we 
+
+411
+00:15:23,640 --> 00:15:26,880
+use to 
+
+412
+00:15:26,880 --> 00:15:29,840
+create or project images in our heads, 
+
+413
+00:15:29,840 --> 00:15:31,900
+that is, to 
+
+414
+00:15:31,900 --> 00:15:34,140
+create images in our minds. When analyzing 
+
+415
+00:15:34,140 --> 00:15:36,000
+dramatic texts, it's 
+
+416
+00:15:36,000 --> 00:15:38,040
+something else again , which is why this 
+
+417
+00:15:38,040 --> 00:15:40,000
+form stands somewhat apart, because text 
+
+418
+00:15:40,000 --> 00:15:42,020
+and performance must be in a 
+
+419
+00:15:42,020 --> 00:15:43,680
+relationship to each other. Our 
+
+420
+00:15:43,680 --> 00:15:45,640
+thinking is natural, our 
+
+421
+00:15:45,640 --> 00:15:48,060
+train of thought is natural, are 
+
+422
+00:15:48,060 --> 00:15:50,360
+the two coherent 
+
+423
+00:15:50,380 --> 00:15:51,920
+, so what we read is also... 
+
+424
+00:15:53,280 --> 00:15:54,600
+performable. 
+
+425
+00:15:54,600 --> 00:15:55,940
+Of course , we always have to keep in mind 
+
+426
+00:15:56,080 --> 00:15:58,860
+while reading a drama that 
+
+427
+00:15:58,860 --> 00:16:00,420
+we actually 
+
+428
+00:16:00,420 --> 00:16:02,380
+have to imagine it on stage. This means 
+
+429
+00:16:02,380 --> 00:16:04,140
+that the structure of the text is far 
+
+430
+00:16:04,140 --> 00:16:06,980
+different from that of prose or 
+
+431
+00:16:06,980 --> 00:16:10,200
+poetry, because the general action 
+
+432
+00:16:10,200 --> 00:16:12,820
+takes place in acts. These acts 
+
+433
+00:16:12,820 --> 00:16:15,180
+are divided into scenes and these 
+
+434
+00:16:15,180 --> 00:16:18,300
+scenes are in turn 
+
+435
+00:16:18,300 --> 00:16:20,220
+subordinated to a certain scheme. 
+
+436
+00:16:20,220 --> 00:16:22,040
+We are talking about the prologue 
+
+437
+00:16:22,040 --> 00:16:24,480
+, i.e. the introduction, the dialog, the 
+
+438
+00:16:24,480 --> 00:16:25,240
+various 
+
+439
+00:16:25,240 --> 00:16:27,160
+plot propellants, which are called 
+
+440
+00:16:27,160 --> 00:16:29,060
+recitative in music. 
+
+441
+00:16:29,060 --> 00:16:30,460
+The plot is driven forward 
+
+442
+00:16:30,580 --> 00:16:32,620
+by two people talking about 
+
+443
+00:16:32,620 --> 00:16:35,860
+what is happening and what 
+
+444
+00:16:35,860 --> 00:16:38,620
+will happen. And this is what 
+
+445
+00:16:38,620 --> 00:16:40,560
+drives the plot forward. And the 
+
+446
+00:16:40,560 --> 00:16:42,780
+monologue 
+
+447
+00:16:42,780 --> 00:16:44,320
+
+448
+00:16:44,320 --> 00:16:47,680
+reflects on the action, i.e. the events 
+and happenings . Through the monologue, we 
+receive 
+
+449
+00:16:47,680 --> 00:16:50,220
+the actual personal 
+
+450
+00:16:50,220 --> 00:16:54,280
+and intimate thoughts on the 
+
+451
+00:16:54,280 --> 00:16:56,640
+events happening in the dialog. In 
+addition, 
+
+452
+00:16:56,640 --> 00:16:59,360
+we have stage directions that 
+
+453
+00:16:59,360 --> 00:17:01,680
+
+454
+00:17:01,680 --> 00:17:04,320
+basically want to tell the actor and us as 
+readers how we 
+
+455
+00:17:04,320 --> 00:17:06,560
+
+456
+00:17:06,560 --> 00:17:08,660
+should experience and 
+
+457
+00:17:08,660 --> 00:17:10,160
+imagine the spoken dialog and the 
+individual characters. The 
+
+458
+00:17:10,160 --> 00:17:11,600
+stage design, i.e. the backdrops 
+
+459
+00:17:11,600 --> 00:17:13,400
+, the way they speak and the 
+
+460
+00:17:13,400 --> 00:17:15,300
+gestures, whether they speak loudly, 
+whether they 
+
+461
+00:17:15,300 --> 00:17:17,580
+sound whiny, whether they fall, whether 
+
+462
+00:17:17,580 --> 00:17:19,760
+they stutter, these are things that 
+
+463
+00:17:19,760 --> 00:17:21,680
+are given via the stage directions. 
+
+464
+00:17:21,940 --> 00:17:24,120
+The scenic presentation, such as the 
+
+465
+00:17:24,120 --> 00:17:26,320
+stage design, i.e. the scenery, and 
+
+466
+00:17:26,320 --> 00:17:28,100
+of course the voice, stage, 
+
+467
+00:17:28,100 --> 00:17:29,980
+lighting and clothing are important, which 
+
+468
+00:17:29,980 --> 00:17:32,840
+we 
+
+469
+00:17:32,840 --> 00:17:34,940
+have to imagine in our heads when we read 
+a drama . The 
+
+470
+00:17:34,940 --> 00:17:37,660
+production is the same as the 
+
+471
+00:17:37,660 --> 00:17:39,500
+director, that is, the director, 
+
+472
+00:17:39,520 --> 00:17:42,340
+before he brings a play to the stage 
+
+473
+00:17:42,340 --> 00:17:44,840
+, does exactly what 
+
+474
+00:17:44,840 --> 00:17:46,600
+we 
+
+475
+00:17:46,600 --> 00:17:48,620
+want to do in our analysis , because he 
+imagines the 
+
+476
+00:17:48,620 --> 00:17:50,740
+play in his head and 
+
+477
+00:17:50,740 --> 00:17:53,240
+analyzes the individual points and 
+
+478
+00:17:53,240 --> 00:17:54,920
+basically finds 
+
+479
+00:17:54,920 --> 00:17:57,040
+his interpretation, what our 
+
+480
+00:17:57,040 --> 00:17:59,620
+analysis also wants and basically wants to 
+
+481
+00:17:59,620 --> 00:18:01,020
+
+482
+00:18:01,020 --> 00:18:03,820
+share it with an audience . When analyzing 
+
+483
+00:18:03,820 --> 00:18:05,840
+non-fiction texts, and now we are moving 
+
+484
+00:18:05,840 --> 00:18:07,800
+away from fictional texts, because 
+
+485
+00:18:07,800 --> 00:18:08,860
+now we are coming to 
+
+486
+00:18:08,860 --> 00:18:10,560
+non-fictional texts, it is important 
+
+487
+00:18:10,600 --> 00:18:12,060
+that we 
+
+488
+00:18:12,060 --> 00:18:13,780
+filter out a main message . What does the 
+
+489
+00:18:13,780 --> 00:18:15,520
+text want to tell us ? We have to 
+
+490
+00:18:15,520 --> 00:18:17,280
+
+491
+00:18:17,280 --> 00:18:19,740
+find out and understand the main points 
+and the topic and we 
+
+492
+00:18:19,740 --> 00:18:21,920
+have to 
+
+493
+00:18:21,920 --> 00:18:24,040
+
+494
+00:18:24,060 --> 00:18:25,480
+
+495
+00:18:25,480 --> 00:18:27,460
+examine these main statements and the main 
+points for theses, facts, examples, 
+questions and check them. 
+
+496
+00:18:27,460 --> 00:18:31,860
+Are they comprehensible 
+
+497
+00:18:31,860 --> 00:18:33,880
+or not? We then have to 
+
+498
+00:18:33,880 --> 00:18:36,320
+ask ourselves: what is the 
+
+499
+00:18:36,320 --> 00:18:38,240
+intention of this text? Is it 
+
+500
+00:18:38,240 --> 00:18:40,420
+appealing to us, i.e. inviting 
+
+501
+00:18:40,420 --> 00:18:42,580
+us to reflect, or is it 
+
+502
+00:18:42,580 --> 00:18:44,940
+a criticism? 
+
+503
+00:18:44,940 --> 00:18:46,740
+So what does this text want from us? What 
+is 
+
+504
+00:18:46,740 --> 00:18:49,280
+its intended message? 
+
+505
+00:18:49,280 --> 00:18:50,260
+We also look at the 
+
+506
+00:18:50,260 --> 00:18:52,400
+structure of the argument, because 
+
+507
+00:18:52,400 --> 00:18:54,480
+factual texts, such as a 
+
+508
+00:18:54,480 --> 00:18:56,280
+political speech, are usually structured 
+in 
+
+509
+00:18:56,280 --> 00:18:57,540
+arguments. Arguments. 
+
+510
+00:18:57,640 --> 00:19:01,200
+These arguments are made up 
+
+511
+00:19:01,200 --> 00:19:04,340
+of a thesis, examples, 
+
+512
+00:19:04,340 --> 00:19:07,260
+facts and questions. So 
+
+513
+00:19:07,260 --> 00:19:08,740
+basically, we can 
+
+514
+00:19:08,740 --> 00:19:12,740
+define this point here as an argument. 
+
+515
+00:19:12,740 --> 00:19:14,460
+So we always have a thesis, 
+
+516
+00:19:14,680 --> 00:19:16,740
+an assumption and an example here , which 
+
+517
+00:19:16,740 --> 00:19:19,140
+basically motivates us to 
+
+518
+00:19:19,160 --> 00:19:21,600
+make an argument and these 
+
+519
+00:19:21,600 --> 00:19:23,600
+arguments are lined up. And 
+
+520
+00:19:23,600 --> 00:19:25,200
+there are different models. 
+
+521
+00:19:25,460 --> 00:19:27,540
+We have to examine 
+
+522
+00:19:27,540 --> 00:19:29,580
+and recognize these models. Are arguments 
+
+523
+00:19:29,580 --> 00:19:31,180
+and counter-arguments being made here ? 
+
+524
+00:19:31,180 --> 00:19:33,000
+Are only pro-arguments presented or only 
+
+525
+00:19:33,000 --> 00:19:35,160
+counter-arguments? How are 
+
+526
+00:19:35,160 --> 00:19:37,300
+the individual arguments weighted? 
+
+527
+00:19:37,520 --> 00:19:39,940
+Are they emotional or 
+
+528
+00:19:39,940 --> 00:19:42,540
+factual? What are the 
+
+529
+00:19:42,540 --> 00:19:45,320
+individual arguments based on ? Are they 
+
+530
+00:19:45,320 --> 00:19:47,600
+expert opinions? Are they normative, 
+
+531
+00:19:47,660 --> 00:19:49,640
+i.e. universally valid arguments or 
+
+532
+00:19:49,640 --> 00:19:53,100
+subjective perceived experiences? 
+
+533
+00:19:54,460 --> 00:19:55,440
+are of course also 
+
+534
+00:19:55,440 --> 00:19:57,960
+
+535
+00:19:57,960 --> 00:19:59,440
+
+536
+00:19:59,440 --> 00:20:00,940
+delivered using rhetorical means and the 
+resulting persuasive power. We have to 
+recognize these 
+
+537
+00:20:00,940 --> 00:20:02,480
+and ask ourselves to what extent they 
+
+538
+00:20:02,480 --> 00:20:04,240
+
+539
+00:20:04,240 --> 00:20:06,140
+are authentic, i.e. comprehensible . And, 
+of course, we have to 
+
+540
+00:20:06,140 --> 00:20:08,720
+
+541
+00:20:08,720 --> 00:20:11,320
+
+542
+00:20:11,320 --> 00:20:15,440
+
+543
+00:20:15,440 --> 00:20:16,780
+
+544
+00:20:16,780 --> 00:20:20,410
+deal with the choice of words and the 
+jargon , i.e. the general language, the 
+political speech, for example, or the 
+general factual text. So we have 
+
+545
+00:20:20,410 --> 00:20:22,010
+learned that 
+
+546
+00:20:22,010 --> 00:20:24,370
+different points are important when 
+analyzing 
+
+547
+00:20:24,370 --> 00:20:26,210
+, which basically depends on 
+
+548
+00:20:26,310 --> 00:20:28,310
+the type of text. 
+
+549
+00:20:28,310 --> 00:20:30,070
+However, we have found that 
+
+550
+00:20:30,070 --> 00:20:32,990
+general analysis is based on 
+
+551
+00:20:32,990 --> 00:20:34,530
+having an introduction, 
+
+552
+00:20:34,530 --> 00:20:36,650
+i.e. visualizing what 
+
+553
+00:20:36,650 --> 00:20:38,210
+it is about, what 
+
+554
+00:20:38,210 --> 00:20:40,150
+type of text it is , who wrote it, 
+
+555
+00:20:40,390 --> 00:20:42,530
+what the title is and by 
+
+556
+00:20:42,530 --> 00:20:43,990
+describing what 
+
+557
+00:20:43,990 --> 00:20:46,410
+it is about in a short sentence , then 
+
+558
+00:20:46,410 --> 00:20:49,370
+presenting the content , i.e. we produce 
+
+559
+00:20:49,370 --> 00:20:51,710
+a summary by 
+
+560
+00:20:51,710 --> 00:20:53,450
+reproducing the content for a possible 
+reader of . a 
+
+561
+00:20:53,450 --> 00:20:56,470
+possible reader of our analysis, 
+
+562
+00:20:56,550 --> 00:20:58,750
+who basically 
+
+563
+00:20:58,750 --> 00:21:00,790
+
+564
+00:21:00,790 --> 00:21:02,410
+has to be prepared first with the help of 
+our analysis. These are then the points 
+
+565
+00:21:02,410 --> 00:21:03,850
+of the introduction, the 
+
+566
+00:21:03,850 --> 00:21:05,590
+framework conditions, the general 
+
+567
+00:21:05,590 --> 00:21:07,830
+content and then we 
+
+568
+00:21:07,830 --> 00:21:10,050
+come to our structural analysis, in 
+
+569
+00:21:10,050 --> 00:21:11,470
+which we look at how the text is 
+
+570
+00:21:11,470 --> 00:21:13,270
+structured, how it is structured, what 
+
+571
+00:21:13,270 --> 00:21:14,410
+the appearance is like. 
+
+572
+00:21:17,050 --> 00:21:18,430
+We then draw conclusions and 
+
+573
+00:21:18,430 --> 00:21:19,710
+interpret 
+
+574
+00:21:19,710 --> 00:21:21,650
+
+575
+00:21:21,650 --> 00:21:25,050
+our own ideas 
+
+576
+00:21:25,050 --> 00:21:27,110
+or thoughts from the things we have just 
+reproduced, such as content and structure 
+, and 
+
+577
+00:21:27,110 --> 00:21:28,510
+basically take the 
+
+578
+00:21:28,510 --> 00:21:31,250
+given information and develop it into a 
+possible 
+
+579
+00:21:31,250 --> 00:21:33,090
+interpretative hypothesis, which we 
+
+580
+00:21:33,090 --> 00:21:36,470
+
+581
+00:21:36,530 --> 00:21:38,630
+put together at the end of our analysis, 
+i.e. the thoughts that we bring together 
+by 
+
+582
+00:21:38,630 --> 00:21:40,290
+looking at point A and point B and 
+
+583
+00:21:40,290 --> 00:21:41,770
+bringing them together and 
+
+584
+00:21:41,770 --> 00:21:44,490
+drawing a conclusion for ourselves. For 
+
+585
+00:21:44,490 --> 00:21:47,370
+example, I go outside, it's cold, 
+
+586
+00:21:47,410 --> 00:21:49,530
+I conclude that it's winter. 
+
+587
+00:21:49,790 --> 00:21:51,110
+So that's what I mean by 
+
+588
+00:21:51,110 --> 00:21:52,990
+conclusion. And then 
+
+589
+00:21:52,990 --> 00:21:55,790
+we come to a 
+
+590
+00:21:55,790 --> 00:21:57,590
+conclusion for ourselves , in which we 
+
+591
+00:21:57,590 --> 00:21:59,230
+are of course not subjective 
+
+592
+00:21:59,350 --> 00:22:01,170
+, but we try to 
+
+593
+00:22:01,170 --> 00:22:03,450
+
+594
+00:22:03,450 --> 00:22:05,530
+come to a conclusion with the help of our 
+analysis and our analysis results 
+
+595
+00:22:05,530 --> 00:22:07,370
+and to see a summary 
+
+596
+00:22:07,470 --> 00:22:09,130
+by always asking ourselves the question 
+
+597
+00:22:09,130 --> 00:22:11,050
+, why 
+
+598
+00:22:11,050 --> 00:22:13,990
+was this written ? Why did this intention 
+
+599
+00:22:13,990 --> 00:22:16,030
+come into my head? And how did 
+
+600
+00:22:16,030 --> 00:22:18,030
+I come to 
+
+601
+00:22:18,030 --> 00:22:20,590
+do something with it? Then, if 
+
+602
+00:22:20,590 --> 00:22:22,270
+we wish, we can also write 
+
+603
+00:22:22,270 --> 00:22:24,210
+our own opinion, i.e. how we 
+
+604
+00:22:24,210 --> 00:22:26,210
+felt about the text and 
+
+605
+00:22:26,210 --> 00:22:29,310
+how we feel about it. That is 
+
+606
+00:22:29,310 --> 00:22:31,090
+
+607
+00:22:31,090 --> 00:22:33,030
+to say about the general analysis and 
+interpretation of texts. 
+
+608
+00:22:33,410 --> 00:22:34,430
+Thank you very much. 

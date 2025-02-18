@@ -1,0 +1,2083 @@
+﻿1
+00:00:01,140 --> 00:00:03,040
+Welcome to the webinar 
+
+2
+00:00:03,040 --> 00:00:05,900
+Hypothesis testing, significance level and 
+
+3
+00:00:05,900 --> 00:00:08,780
+first and second order error. In 
+
+4
+00:00:08,780 --> 00:00:10,440
+this webinar, we will primarily focus on 
+
+5
+00:00:10,440 --> 00:00:11,860
+hypothesis testing 
+
+6
+00:00:11,860 --> 00:00:13,500
+and will also discuss 
+
+7
+00:00:13,500 --> 00:00:15,600
+significance levels 
+
+8
+00:00:15,600 --> 00:00:17,260
+and first and second order errors . 
+
+9
+00:00:17,340 --> 00:00:19,620
+These are essential components 
+
+10
+00:00:19,620 --> 00:00:22,260
+of hypothesis testing. At the very 
+beginning, 
+
+11
+00:00:22,260 --> 00:00:24,480
+we will look at a short introduction 
+
+12
+00:00:24,480 --> 00:00:26,720
+, look at what the 
+
+13
+00:00:26,720 --> 00:00:29,360
+hypothesis test can be used for and what 
+
+14
+00:00:29,360 --> 00:00:32,100
+it is used for. 
+
+15
+00:00:32,100 --> 00:00:33,540
+We will then look at the possible errors 
+of a 
+
+16
+00:00:33,540 --> 00:00:36,000
+hypothesis test and we will 
+
+17
+00:00:36,000 --> 00:00:36,980
+also use a short example to 
+
+18
+00:00:36,980 --> 00:00:39,060
+explain why the hypothesis test 
+
+19
+00:00:39,060 --> 00:00:40,900
+is carried out the way it is 
+
+20
+00:00:40,900 --> 00:00:42,900
+. We will then 
+
+21
+00:00:42,900 --> 00:00:44,800
+look at the first and second type of error 
+
+22
+00:00:44,800 --> 00:00:47,240
+and the 
+
+23
+00:00:47,240 --> 00:00:50,020
+significance level. We will then 
+
+24
+00:00:50,020 --> 00:00:52,580
+carry out the hypothesis test 
+
+25
+00:00:52,580 --> 00:00:54,100
+in full, i.e. the 
+
+26
+00:00:54,100 --> 00:00:56,820
+correct one , and look at 
+
+27
+00:00:56,820 --> 00:00:59,300
+how to choose H0 and HA and 
+
+28
+00:00:59,300 --> 00:01:04,200
+, of course, how the choice of HA and H0 
+
+29
+00:01:04,200 --> 00:01:06,560
+influences the calculation 
+
+30
+00:01:06,580 --> 00:01:07,780
+and perhaps also the 
+
+31
+00:01:07,780 --> 00:01:10,740
+results. At the very end, 
+
+32
+00:01:10,740 --> 00:01:12,180
+we' 
+
+33
+00:01:12,240 --> 00:01:14,520
+
+34
+00:01:14,520 --> 00:01:16,440
+ll go back to the most important points, 
+i.e. how to choose H0 and HA, 
+
+35
+00:01:16,540 --> 00:01:18,480
+and the advantages and disadvantages of 
+doing so. 
+
+36
+00:01:19,640 --> 00:01:21,500
+Well, let's come 
+
+37
+00:01:21,500 --> 00:01:23,760
+back to what the hypothesis test is used 
+for in the first 
+
+38
+00:01:23,760 --> 00:01:27,400
+place. A 
+
+39
+00:01:27,400 --> 00:01:28,880
+hypothesis test is actually nothing 
+
+40
+00:01:28,880 --> 00:01:32,180
+more than a random sample in which it 
+
+41
+00:01:32,820 --> 00:01:34,620
+is investigated whether a statement 
+
+42
+00:01:34,620 --> 00:01:37,620
+is true or false. This 
+
+43
+00:01:37,620 --> 00:01:39,880
+involves 
+
+44
+00:01:39,880 --> 00:01:41,660
+establishing a certain interval. This 
+
+45
+00:01:41,660 --> 00:01:43,680
+interval is then used to test the sample 
+
+46
+00:01:43,680 --> 00:01:45,780
+and, based on 
+
+47
+00:01:45,780 --> 00:01:47,540
+the result, it is possible to say whether 
+an 
+
+48
+00:01:47,540 --> 00:01:50,420
+assertion is true or false. 
+
+49
+00:01:50,420 --> 00:01:51,820
+There are always 
+
+50
+00:01:51,820 --> 00:01:53,700
+exactly two hypotheses in hypothesis 
+tests. One is 
+
+51
+00:01:53,700 --> 00:01:55,700
+the null hypothesis H0, which is the 
+
+52
+00:01:55,700 --> 00:01:58,140
+assertion, and the counter-hypothesis 
+
+53
+00:01:58,140 --> 00:02:02,020
+HA, which is the counter-assertion. 
+
+54
+00:02:02,020 --> 00:02:04,160
+
+55
+00:02:04,160 --> 00:02:07,120
+We'll see exactly what this looks like in 
+the example in a moment, and 
+
+56
+00:02:07,120 --> 00:02:08,380
+on the following slides we'll 
+
+57
+00:02:08,380 --> 00:02:09,900
+look at how such a hypothesis test 
+
+58
+00:02:09,900 --> 00:02:12,360
+works and what to look out for. 
+
+59
+00:02:12,980 --> 00:02:14,440
+Let's take a look at the 
+
+60
+00:02:14,440 --> 00:02:15,840
+scenario: a farmer wants to 
+
+61
+00:02:15,840 --> 00:02:18,220
+prove that more than 90% of his 
+
+62
+00:02:18,220 --> 00:02:22,360
+1000 cows produce at least 2 liters of 
+milk 
+
+63
+00:02:22,360 --> 00:02:25,180
+per day. To do this, he takes a 
+
+64
+00:02:25,180 --> 00:02:28,140
+sample size of 100 cows and 
+
+65
+00:02:28,140 --> 00:02:31,340
+wants to prove that this is the case. The 
+first 
+
+66
+00:02:31,340 --> 00:02:34,760
+question is how we 
+
+67
+00:02:34,760 --> 00:02:37,220
+choose H0 and HA. The farmer could choose 
+
+68
+00:02:37,220 --> 00:02:40,360
+H0 or HA. Here we can 
+
+69
+00:02:40,360 --> 00:02:42,360
+see what it would look like, which 
+
+70
+00:02:42,360 --> 00:02:43,520
+is correct. So of course it could 
+
+71
+00:02:43,520 --> 00:02:45,240
+be that H0 is correct, i.e. his 
+
+72
+00:02:45,240 --> 00:02:47,580
+claim that more than 90 percent 
+
+73
+00:02:47,580 --> 00:02:50,380
+of the 1000 cows 
+
+74
+00:02:50,380 --> 00:02:54,240
+give more than two liters of milk. If this 
+
+75
+00:02:54,240 --> 00:02:56,300
+is really true, then H0 would be correct 
+and 
+
+76
+00:02:56,300 --> 00:02:57,540
+if the farmer 
+
+77
+00:02:57,540 --> 00:02:59,280
+has chosen H0 , he has also made the 
+
+78
+00:02:59,280 --> 00:03:00,640
+right decision. 
+
+79
+00:03:01,780 --> 00:03:03,200
+Of course, it looks exactly the other way 
+around 
+
+80
+00:03:03,200 --> 00:03:05,600
+if HA is correct. In this 
+
+81
+00:03:05,600 --> 00:03:09,580
+case, HA is the scenario where 
+
+82
+00:03:09,580 --> 00:03:13,700
+less than 90% of the cows produce at least 
+2 
+
+83
+00:03:13,700 --> 00:03:16,120
+liters of milk per day. If he had 
+
+84
+00:03:16,120 --> 00:03:17,520
+also opted for HA in this case 
+
+85
+00:03:17,520 --> 00:03:19,500
+, he would also have made 
+
+86
+00:03:19,500 --> 00:03:21,180
+the right decision. 
+
+87
+00:03:21,700 --> 00:03:23,400
+
+88
+00:03:23,400 --> 00:03:24,580
+Of course, the wrong decision would then 
+be made in the two gaps. 
+
+89
+00:03:24,580 --> 00:03:26,980
+This means that if the farmer 
+
+90
+00:03:26,980 --> 00:03:30,400
+opts for H0, but HA 
+
+91
+00:03:30,400 --> 00:03:31,680
+is actually the right choice, which 
+
+92
+00:03:31,680 --> 00:03:33,300
+the farmer cannot know, then 
+
+93
+00:03:33,300 --> 00:03:34,280
+he would have 
+
+94
+00:03:34,280 --> 00:03:37,400
+made the wrong decision . The same applies 
+if 
+
+95
+00:03:37,400 --> 00:03:39,480
+the farmer decides in favor of HA 
+
+96
+00:03:39,480 --> 00:03:42,200
+, although in reality H0 
+
+97
+00:03:42,200 --> 00:03:45,560
+is correct. In these two red 
+
+98
+00:03:45,560 --> 00:03:46,840
+fields we now find the 
+
+99
+00:03:46,840 --> 00:03:48,960
+first and second type of error . 
+
+100
+00:03:48,960 --> 00:03:51,700
+This means that the first type of error 
+
+101
+00:03:51,700 --> 00:03:54,460
+describes the fact that you 
+
+102
+00:03:54,460 --> 00:03:56,660
+decide against the null hypothesis even 
+though 
+
+103
+00:03:56,660 --> 00:04:01,180
+it is correct. The second 
+
+104
+00:04:01,180 --> 00:04:02,440
+type of error is that you decide in favor 
+of the 
+
+105
+00:04:02,440 --> 00:04:04,220
+counter-hypothesis even though 
+
+106
+00:04:04,220 --> 00:04:06,240
+the null hypothesis is correct. 
+
+107
+00:04:09,510 --> 00:04:10,490
+Here we see it 
+
+108
+00:04:10,490 --> 00:04:12,550
+written out again. The first type of error 
+
+109
+00:04:12,550 --> 00:04:14,310
+means that H0 is correct, 
+
+110
+00:04:14,310 --> 00:04:14,990
+but you 
+
+111
+00:04:14,990 --> 00:04:16,390
+incorrectly decide against the 
+
+112
+00:04:16,390 --> 00:04:18,870
+null hypothesis and 
+
+113
+00:04:18,870 --> 00:04:19,830
+thus 
+
+114
+00:04:19,850 --> 00:04:22,210
+incorrectly reject the assertion. 
+
+115
+00:04:22,210 --> 00:04:24,870
+The second type of error is that H0 is 
+false 
+
+116
+00:04:24,870 --> 00:04:25,870
+and you 
+
+117
+00:04:25,870 --> 00:04:27,190
+wrongly decide in favor of the 
+
+118
+00:04:27,190 --> 00:04:34,200
+null hypothesis. We will 
+
+119
+00:04:34,200 --> 00:04:37,460
+now illustrate what a layperson 
+
+120
+00:04:37,460 --> 00:04:41,280
+might do. Namely, we 
+
+121
+00:04:41,280 --> 00:04:43,940
+remember that 90% of cows should 
+
+122
+00:04:43,940 --> 00:04:45,420
+give more than 2 liters of milk. This is 
+
+123
+00:04:45,420 --> 00:04:46,900
+the farmer's assertion and he 
+
+124
+00:04:46,900 --> 00:04:49,880
+makes a sample size of 100 
+
+125
+00:04:49,880 --> 00:04:52,080
+cows. And now we could 
+
+126
+00:04:52,080 --> 00:04:53,340
+simply go here , we know the 
+
+127
+00:04:53,340 --> 00:04:55,480
+probability here , 90%, we know 
+
+128
+00:04:55,480 --> 00:04:57,620
+the sample size of 100 cows and we 
+
+129
+00:04:57,620 --> 00:04:58,640
+could now 
+
+130
+00:04:58,640 --> 00:05:02,480
+calculate the probability that 0 to 89 
+cows 
+
+131
+00:05:02,480 --> 00:05:06,460
+give 2 liters of milk and 90 to 100. That 
+
+132
+00:05:06,460 --> 00:05:10,800
+would then be 41.68% and 58.32% 
+respectively. 
+
+133
+00:05:13,100 --> 00:05:14,800
+Now, of course, we have to 
+
+134
+00:05:14,800 --> 00:05:17,260
+decide what the 
+
+135
+00:05:17,260 --> 00:05:19,880
+mathematical distribution looks like if 
+
+136
+00:05:19,880 --> 00:05:22,260
+we decide in favor of H0 or against the H0 
+
+137
+00:05:22,260 --> 00:05:25,200
+ hypothesis. If we 
+
+138
+00:05:25,200 --> 00:05:27,920
+decide in favor of the H0 hypothesis and 
+
+139
+00:05:27,920 --> 00:05:30,060
+H0 is correct, we have a 
+
+140
+00:05:30,060 --> 00:05:32,440
+probability of 58.32%. That 
+
+141
+00:05:32,440 --> 00:05:34,060
+'s not bad at all. The 
+
+142
+00:05:34,060 --> 00:05:35,820
+problem is at the top right here. 
+
+143
+00:05:36,440 --> 00:05:38,880
+If we opt for HA and 
+
+144
+00:05:38,880 --> 00:05:41,340
+H0 is correct, we still 
+
+145
+00:05:41,340 --> 00:05:43,800
+have a probability of 41.68%. 
+
+146
+00:05:43,800 --> 00:05:46,300
+And that's our error of the first kind. 
+
+147
+00:05:47,360 --> 00:05:49,820
+That is... The problem is 
+
+148
+00:05:49,940 --> 00:05:52,980
+that we have a probability of 
+
+149
+00:05:52,980 --> 00:05:55,500
+more than 40% of making a mistake. 
+
+150
+00:05:56,080 --> 00:05:58,400
+And that is 
+
+151
+00:05:58,400 --> 00:06:01,200
+absolutely useless for a sample. In other 
+words, we 
+
+152
+00:06:01,200 --> 00:06:06,260
+have to make sure that if we 
+
+153
+00:06:06,260 --> 00:06:08,960
+want to make a statement , there must 
+
+154
+00:06:08,960 --> 00:06:10,400
+be a small probability here. A 
+
+155
+00:06:10,400 --> 00:06:12,980
+probability of 40% means that 
+
+156
+00:06:12,980 --> 00:06:16,180
+you 
+
+157
+00:06:16,180 --> 00:06:17,000
+
+158
+00:06:17,000 --> 00:06:20,640
+would actually have to be wrong once in 
+every third attempt . It is out of the 
+question, which is why 
+
+159
+00:06:20,640 --> 00:06:22,280
+it is not used in this way. And that's why 
+
+160
+00:06:22,280 --> 00:06:24,960
+this is the negative example of how 
+
+161
+00:06:24,960 --> 00:06:26,440
+not to do it, and that's why it said 
+
+162
+00:06:26,440 --> 00:06:28,140
+earlier how a layperson 
+
+163
+00:06:28,140 --> 00:06:31,920
+would do it. We are now going to 
+
+164
+00:06:31,920 --> 00:06:34,560
+set the interval for the 
+
+165
+00:06:34,560 --> 00:06:39,320
+first type of error to a maximum of 5%. 
+And 
+
+166
+00:06:39,320 --> 00:06:41,460
+that is the so-called 
+
+167
+00:06:41,460 --> 00:06:45,850
+significance level. The so-called 
+
+168
+00:06:45,850 --> 00:06:47,670
+significance level is nothing 
+
+169
+00:06:47,670 --> 00:06:49,430
+more than the probability 
+
+170
+00:06:49,430 --> 00:06:53,010
+of the first type of error. It is usually 
+
+171
+00:06:53,010 --> 00:07:00,210
+5% or 2%. In other words, we 
+
+172
+00:07:00,210 --> 00:07:02,330
+are now going in exactly the opposite 
+direction to 
+
+173
+00:07:02,330 --> 00:07:05,930
+before. Earlier, we had simply 
+
+174
+00:07:05,930 --> 00:07:08,910
+assumed an interval and we 
+
+175
+00:07:08,910 --> 00:07:12,270
+realized that we had a 
+
+176
+00:07:12,270 --> 00:07:13,450
+
+177
+00:07:13,450 --> 00:07:15,410
+probability of over 40% for the first type 
+of error . That was far 
+
+178
+00:07:15,410 --> 00:07:18,050
+too high. We now set 
+
+179
+00:07:18,050 --> 00:07:20,910
+a limit of 5% for the first type of error. 
+
+180
+00:07:22,770 --> 00:07:24,490
+So now we have to go the 
+
+181
+00:07:24,490 --> 00:07:29,160
+other way. We 
+
+182
+00:07:29,160 --> 00:07:30,520
+don't know our interval now, 
+
+183
+00:07:30,520 --> 00:07:32,020
+but we do know our probability. 
+
+184
+00:07:32,260 --> 00:07:35,040
+This means that we will now 
+
+185
+00:07:35,040 --> 00:07:37,640
+set up two intervals. One is 
+
+186
+00:07:37,640 --> 00:07:39,820
+the interval for the null hypothesis 
+
+187
+00:07:39,820 --> 00:07:42,400
+and the other is the interval for the 
+
+188
+00:07:42,400 --> 00:07:45,900
+counter-hypothesis. One of the two 
+
+189
+00:07:45,900 --> 00:07:46,960
+intervals is of course always 
+
+190
+00:07:46,960 --> 00:07:49,140
+smaller and the other is of course 
+
+191
+00:07:49,140 --> 00:07:52,320
+always correspondingly larger. Which 
+
+192
+00:07:52,320 --> 00:07:53,680
+of these two intervals 
+
+193
+00:07:53,680 --> 00:07:57,480
+is the small one and which is the large 
+one 
+
+194
+00:07:57,480 --> 00:07:59,080
+simply depends on the assertion 
+
+195
+00:07:59,080 --> 00:07:59,760
+. 
+
+196
+00:08:15,240 --> 00:08:17,140
+We can now see a small 
+
+197
+00:08:17,140 --> 00:08:20,440
+table here. This is 
+
+198
+00:08:20,440 --> 00:08:22,420
+about how you can assume H0. You 
+
+199
+00:08:22,420 --> 00:08:24,700
+can say that H0 means that 
+
+200
+00:08:24,700 --> 00:08:27,220
+more than 90% of cows 
+
+201
+00:08:27,220 --> 00:08:28,840
+give 2 liters of milk. Or you can set the 
+
+202
+00:08:28,840 --> 00:08:30,300
+null hypothesis exactly opposite 
+
+203
+00:08:30,300 --> 00:08:32,480
+and say that less than 90% 
+
+204
+00:08:32,480 --> 00:08:34,720
+of cows give 2 liters of milk . 
+
+205
+00:08:36,100 --> 00:08:37,740
+The 
+
+206
+00:08:37,740 --> 00:08:39,500
+intervals would shift accordingly. 
+
+207
+00:08:39,500 --> 00:08:40,660
+However, this is not the interval for our 
+
+208
+00:08:40,660 --> 00:08:42,840
+probability, but the 
+
+209
+00:08:42,840 --> 00:08:44,860
+interval for our sample. So 
+
+210
+00:08:44,860 --> 00:08:49,040
+if 0 to 89 cows give less than 2 
+
+211
+00:08:49,040 --> 00:08:50,760
+liters of milk, the 
+
+212
+00:08:50,760 --> 00:08:53,200
+opposite hypothesis would be confirmed. If 
+more 
+
+213
+00:08:53,200 --> 00:08:55,580
+than 90 cows give 2 liters of milk 
+
+214
+00:08:55,580 --> 00:08:57,280
+, the null hypothesis would be confirmed. 
+
+215
+00:08:57,280 --> 00:08:58,920
+confirmed. 
+
+216
+00:08:58,920 --> 00:09:00,200
+Of course, we will set up a different 
+interval in a moment. 
+
+217
+00:09:02,020 --> 00:09:03,520
+The opposite is true if 
+
+218
+00:09:03,520 --> 00:09:07,020
+we assume H0 such that less than 
+
+219
+00:09:07,020 --> 00:09:09,020
+90% of the cows give 2 liters of milk. 
+
+220
+00:09:09,300 --> 00:09:11,660
+If we then assume that from 0 to 89 cows 
+
+221
+00:09:15,220 --> 00:09:17,780
+give less than 2 liters of milk 
+
+222
+00:09:17,780 --> 00:09:21,340
+, H0 is confirmed and if from 90 to 100 
+
+223
+00:09:21,340 --> 00:09:23,860
+cows, i.e. more than 90 cows or 
+
+224
+00:09:23,860 --> 00:09:26,680
+at least 90 cows, 
+
+225
+00:09:26,680 --> 00:09:29,460
+give 2 liters of milk , then the 
+counter-hypothesis HA is 
+
+226
+00:09:29,460 --> 00:09:31,900
+confirmed. So you can see that if you 
+
+227
+00:09:31,960 --> 00:09:34,220
+
+228
+00:09:34,220 --> 00:09:36,380
+choose the null hypothesis H0 differently 
+, HA and H0 are also 
+
+229
+00:09:36,380 --> 00:09:38,120
+interchanged or the two 
+
+230
+00:09:38,120 --> 00:09:38,740
+intervals are interchanged . 
+
+231
+00:09:42,480 --> 00:09:44,340
+We had just 
+
+232
+00:09:44,340 --> 00:09:47,200
+considered this case or decided to do so. 
+
+233
+00:09:47,340 --> 00:09:49,020
+We had a 
+
+234
+00:09:49,020 --> 00:09:51,360
+probability of 41.68% for HA and 
+
+235
+00:09:51,360 --> 00:09:55,160
+a probability of 58.3%. 2% 
+
+236
+00:09:55,160 --> 00:09:56,400
+for H0. 
+
+237
+00:09:59,860 --> 00:10:01,980
+Now we want to 
+
+238
+00:10:01,980 --> 00:10:03,700
+apply our significance level. 
+
+239
+00:10:03,700 --> 00:10:07,180
+This means that this is usually 
+
+240
+00:10:07,180 --> 00:10:09,120
+set to 5% or even 2%. This 
+
+241
+00:10:09,120 --> 00:10:11,540
+is also a common value. And 
+
+242
+00:10:11,540 --> 00:10:13,640
+we now say that we want to 
+
+243
+00:10:13,640 --> 00:10:16,440
+minimize the first type of error. 
+
+244
+00:10:16,440 --> 00:10:19,540
+In other words, we want to set the 
+
+245
+00:10:19,540 --> 00:10:21,300
+probability of 0 to K 
+
+246
+00:10:21,300 --> 00:10:24,200
+hits for HA to less than or equal to 5% 
+
+247
+00:10:24,200 --> 00:10:26,600
+and the probability of K plus 
+
+248
+00:10:26,600 --> 00:10:29,600
+1 to 100 hits, i.e. at least K 
+
+249
+00:10:29,600 --> 00:10:32,680
+plus 1 hits, to at least 95%. 
+
+250
+00:10:32,680 --> 00:10:35,020
+Simply so that we 
+
+251
+00:10:35,020 --> 00:10:37,760
+
+252
+00:10:37,760 --> 00:10:38,120
+can make a meaningful statement. 
+
+253
+00:10:40,800 --> 00:10:44,300
+And we use this information to 
+
+254
+00:10:44,300 --> 00:10:47,580
+calculate a new interval. 
+
+255
+00:10:47,580 --> 00:10:49,820
+In other words, we don't take these two 
+
+256
+00:10:49,820 --> 00:10:51,740
+predefined intervals, we 
+
+257
+00:10:51,740 --> 00:10:53,020
+now calculate our own 
+
+258
+00:10:53,020 --> 00:10:54,100
+interval. This is the 
+
+259
+00:10:54,100 --> 00:10:56,900
+interval from 0 to K and the 
+
+260
+00:10:56,900 --> 00:10:59,760
+interval K plus 1 minus 100. This 
+
+261
+00:10:59,760 --> 00:11:01,420
+is often 
+
+262
+00:11:01,420 --> 00:11:03,060
+referred to as the decision rule as to 
+whether we 
+
+263
+00:11:03,060 --> 00:11:04,480
+should believe the farmer or 
+
+264
+00:11:04,480 --> 00:11:05,160
+not. 
+
+265
+00:11:09,640 --> 00:11:11,260
+The calculation is actually 
+
+266
+00:11:11,260 --> 00:11:13,720
+quite simple. You simply look 
+
+267
+00:11:13,720 --> 00:11:16,120
+up the value from a table. 
+
+268
+00:11:16,380 --> 00:11:17,440
+You need the 
+
+269
+00:11:17,440 --> 00:11:18,660
+probability p, which in our case is 
+
+270
+00:11:18,660 --> 00:11:21,340
+0.9. The sample size, which 
+
+271
+00:11:21,340 --> 00:11:23,820
+in our case is 100. And then you look for 
+the 
+
+272
+00:11:23,820 --> 00:11:25,920
+value where the condition 
+
+273
+00:11:25,920 --> 00:11:28,640
+is last fulfilled. In other words, from 0 
+to k, 
+
+274
+00:11:28,720 --> 00:11:29,560
+that is the cumulative 
+
+275
+00:11:29,560 --> 00:11:31,900
+probability. In other words, we are 
+
+276
+00:11:31,900 --> 00:11:32,960
+looking for the cumulative 
+
+277
+00:11:32,960 --> 00:11:35,860
+probability for 100 trials 
+
+278
+00:11:35,860 --> 00:11:39,600
+with p equal to 0.9, for which 
+
+279
+00:11:39,760 --> 00:11:41,200
+the probability is less than 
+
+280
+00:11:41,200 --> 00:11:42,420
+or equal to 5%. 
+
+281
+00:11:46,080 --> 00:11:48,100
+Or, for the interval, 
+
+282
+00:11:48,120 --> 00:11:51,520
+yes, for which the 
+
+283
+00:11:51,520 --> 00:11:53,060
+probability is less than or equal to 5% 
+
+284
+00:11:53,060 --> 00:11:56,560
+. The table value will then give us 
+
+285
+00:11:56,560 --> 00:11:59,020
+a K of 84. The other 
+
+286
+00:11:59,020 --> 00:12:00,240
+possibility is, if you 
+
+287
+00:12:00,240 --> 00:12:01,900
+have a graphing calculator 
+
+288
+00:12:01,900 --> 00:12:03,120
+, you can 
+
+289
+00:12:03,120 --> 00:12:04,900
+
+290
+00:12:04,900 --> 00:12:07,480
+have the cumulative probability 
+automatically generated in a table and 
+thus 
+
+291
+00:12:07,480 --> 00:12:09,580
+
+292
+00:12:09,580 --> 00:12:10,840
+have the table that you find in the table 
+work created using the calculator. 
+
+293
+00:12:10,840 --> 00:12:16,120
+In other words, we now know that we 
+
+294
+00:12:16,120 --> 00:12:18,460
+
+295
+00:12:18,460 --> 00:12:21,280
+
+296
+00:12:21,280 --> 00:12:24,760
+would opt for the counter-hypothesis up to 
+and including 84 cows and from 85 cows we 
+would opt 
+
+297
+00:12:24,760 --> 00:12:26,840
+for the H0 hypothesis and 
+
+298
+00:12:26,840 --> 00:12:28,460
+agree with the farmer. 
+
+299
+00:12:34,820 --> 00:12:36,260
+We have now 
+
+300
+00:12:36,260 --> 00:12:38,760
+formed the two intervals and that was 
+already 
+
+301
+00:12:38,760 --> 00:12:39,900
+our decision rule. 
+
+302
+00:12:43,620 --> 00:12:45,620
+And we will now 
+
+303
+00:12:45,620 --> 00:12:48,440
+summarize the whole thing once again. In 
+
+304
+00:12:48,440 --> 00:12:51,740
+the hypothesis test , we are trying to 
+
+305
+00:12:51,740 --> 00:12:54,220
+confirm or refute an assertion . 
+
+306
+00:12:54,220 --> 00:12:55,440
+We have just created this 
+
+307
+00:12:55,440 --> 00:13:00,020
+decision rule for this purpose. The 
+
+308
+00:13:00,020 --> 00:13:01,320
+hypothesis test is simply based 
+
+309
+00:13:01,320 --> 00:13:03,760
+on trying to 
+
+310
+00:13:03,760 --> 00:13:05,980
+minimize the first type of error . That's 
+what 
+
+311
+00:13:05,980 --> 00:13:09,820
+this 5% assumption is. And so 
+
+312
+00:13:09,820 --> 00:13:11,000
+you simply try to keep the 
+
+313
+00:13:11,000 --> 00:13:12,880
+mathematical probability of 
+
+314
+00:13:12,880 --> 00:13:15,340
+the counter-hypothesis low. 
+
+315
+00:13:16,080 --> 00:13:18,060
+And that is done, as I said, via 
+
+316
+00:13:18,060 --> 00:13:19,980
+the significance level. That was 
+
+317
+00:13:19,980 --> 00:13:23,620
+just the 5%. And based on 
+
+318
+00:13:23,620 --> 00:13:25,120
+this, you form the two 
+
+319
+00:13:25,120 --> 00:13:25,860
+intervals. 
+
+320
+00:13:32,720 --> 00:13:36,020
+Now the question is, and 
+
+321
+00:13:36,020 --> 00:13:38,680
+we have to be guided by how the 
+
+322
+00:13:38,680 --> 00:13:41,340
+assertion is designed. that 
+
+323
+00:13:44,340 --> 00:13:49,640
+either, i.e. if we 
+
+324
+00:13:49,640 --> 00:13:52,960
+have a large p% or a small p%, then 
+
+325
+00:13:52,960 --> 00:13:55,440
+our null hypothesis H0 is either 
+
+326
+00:13:55,440 --> 00:13:57,920
+
+327
+00:13:57,920 --> 00:13:59,680
+
+328
+00:13:59,680 --> 00:14:01,120
+
+329
+00:14:01,120 --> 00:14:04,580
+assigned to the larger interval and thus 
+of course inevitably the 
+counter-hypothesis is assigned to the 
+smaller interval, or H0 is 
+
+330
+00:14:04,580 --> 00:14:06,540
+
+331
+00:14:06,540 --> 00:14:07,800
+assigned to the smaller interval and HA is 
+thus assigned to the larger interval. 
+
+332
+00:14:07,880 --> 00:14:09,100
+In other words, I think this is 
+
+333
+00:14:09,140 --> 00:14:11,600
+logical, we can only either 
+
+334
+00:14:11,600 --> 00:14:12,920
+give the hand a null hypothesis, 
+
+335
+00:14:12,940 --> 00:14:17,060
+or we give the counter-hypothesis the 
+
+336
+00:14:17,060 --> 00:14:21,040
+large interval. The question is 
+
+337
+00:14:21,040 --> 00:14:23,580
+, of course, how do you choose this or 
+
+338
+00:14:23,580 --> 00:14:26,100
+in which case do you give the 
+
+339
+00:14:26,100 --> 00:14:29,260
+null hypothesis the small interval. 
+
+340
+00:14:30,360 --> 00:14:32,200
+We have 
+
+341
+00:14:32,200 --> 00:14:34,620
+extended our question for this purpose. 
+Namely, how does 
+
+342
+00:14:34,620 --> 00:14:36,280
+the hypothesis test change if I 
+
+343
+00:14:36,280 --> 00:14:37,900
+
+344
+00:14:37,900 --> 00:14:39,420
+want to confirm the farmer 's assertion ? 
+As on the last 
+
+345
+00:14:39,420 --> 00:14:40,340
+slide, we always assumed 
+
+346
+00:14:40,340 --> 00:14:41,400
+that the farmer wanted to confirm this 
+
+347
+00:14:41,400 --> 00:14:42,880
+. but a 
+
+348
+00:14:42,880 --> 00:14:45,680
+quality controller . And this 
+
+349
+00:14:45,680 --> 00:14:47,480
+quality controller wants to 
+
+350
+00:14:47,480 --> 00:14:51,080
+disprove this assertion. At the moment 
+
+351
+00:14:51,220 --> 00:14:53,960
+when the quality controller 
+
+352
+00:14:53,960 --> 00:14:55,960
+wants to disprove the assertion 
+
+353
+00:14:56,220 --> 00:14:58,860
+, he decides in favor of the lower 
+
+354
+00:14:58,860 --> 00:15:01,620
+case. For him, H0 is the case where 
+
+355
+00:15:01,620 --> 00:15:04,680
+less than 90% of the cows 
+
+356
+00:15:04,680 --> 00:15:09,600
+give 2 liters of milk. And now the upper 
+
+357
+00:15:09,600 --> 00:15:12,560
+interval... In other words, we 
+
+358
+00:15:12,560 --> 00:15:16,000
+now minimize the interval for 
+
+359
+00:15:16,000 --> 00:15:19,200
+the counter-probability or for 
+
+360
+00:15:19,200 --> 00:15:21,160
+the counter-hypothesis. 
+
+361
+00:15:23,230 --> 00:15:26,270
+The thought process is exactly the 
+
+362
+00:15:26,270 --> 00:15:27,670
+same . We now take the 
+
+363
+00:15:27,670 --> 00:15:30,030
+interval k plus 1 to 100 and this 
+
+364
+00:15:30,030 --> 00:15:33,230
+should be less than or equal to 5%. 
+
+365
+00:15:33,230 --> 00:15:34,530
+We read this probability 
+
+366
+00:15:34,530 --> 00:15:36,350
+from our table book again. 
+
+367
+00:15:37,790 --> 00:15:40,110
+But for this to work, we need 
+
+368
+00:15:40,110 --> 00:15:43,290
+at least k plus 1 hits and 
+
+369
+00:15:43,290 --> 00:15:45,030
+unfortunately you won 
+
+370
+00:15:45,030 --> 00:15:48,370
+'t find at least hits in a set of tables, 
+because the 
+
+371
+00:15:48,370 --> 00:15:49,750
+set of tables only contains the cumulative 
+
+372
+00:15:49,750 --> 00:15:50,770
+probability, which is the 
+
+373
+00:15:50,770 --> 00:15:55,330
+maximum. This means that if we have 
+
+374
+00:15:55,330 --> 00:15:59,110
+at least 
+
+375
+00:15:59,110 --> 00:16:03,190
+k hits is less than or equal to 5%, then 
+
+376
+00:16:03,190 --> 00:16:04,750
+we have 1 minus 
+
+377
+00:16:04,750 --> 00:16:08,430
+at most k hits up to k, i.e. from 0 
+
+378
+00:16:08,430 --> 00:16:09,990
+to k. You can use this 
+
+379
+00:16:09,990 --> 00:16:12,550
+arithmetic operation to turn this interval 
+
+380
+00:16:12,550 --> 00:16:15,370
+k plus 1 to 100 into the interval 0 to 
+
+381
+00:16:15,370 --> 00:16:17,450
+k. This is the . This is the cumulative 
+
+382
+00:16:17,450 --> 00:16:18,270
+probability. 
+
+383
+00:16:21,110 --> 00:16:22,490
+Smallness 
+
+384
+00:16:22,490 --> 00:16:24,930
+can be read from tables. The important 
+thing 
+
+385
+00:16:24,930 --> 00:16:29,570
+is that it must now be greater than or 
+equal to 95% 
+
+386
+00:16:29,570 --> 00:16:33,290
+. This means that we now read off 
+
+387
+00:16:33,390 --> 00:16:35,430
+when the probability exceeds 95% 
+
+388
+00:16:35,430 --> 00:16:38,070
+or 
+
+389
+00:16:38,070 --> 00:16:40,170
+is exactly 95% for the first time. We then 
+arrive at a 
+
+390
+00:16:40,170 --> 00:16:42,550
+value of 95, which means that our K 
+
+391
+00:16:42,550 --> 00:16:45,610
+in this case is 95. And so we can 
+
+392
+00:16:45,610 --> 00:16:46,630
+
+393
+00:16:46,630 --> 00:16:49,550
+determine our two intervals again. The 
+interval for the 
+
+394
+00:16:49,550 --> 00:16:52,870
+null hypothesis then ranges from 0 to 
+
+395
+00:16:52,870 --> 00:16:55,830
+95 The interval for the 
+
+396
+00:16:55,830 --> 00:16:58,350
+counter hypothesis ranges from 96 to 100 
+
+397
+00:16:59,510 --> 00:17:02,430
+As a reminder, in the case of the 
+
+398
+00:17:02,430 --> 00:17:05,370
+counter hypothesis HA we would 
+
+399
+00:17:05,370 --> 00:17:08,450
+agree with the farmer The null hypothesis 
+is 
+
+400
+00:17:08,450 --> 00:17:10,710
+that less than 90% of cows 
+
+401
+00:17:10,710 --> 00:17:13,670
+give 2 liters of milk And now we are 
+
+402
+00:17:13,670 --> 00:17:16,210
+faced with a small problem The farmer 
+
+403
+00:17:16,210 --> 00:17:18,630
+would take the above interval. For 
+
+404
+00:17:18,630 --> 00:17:20,870
+him, the H0 hypothesis is fulfilled at 
+
+405
+00:17:20,870 --> 00:17:25,410
+85 to 100. That is, he then says 
+
+406
+00:17:25,510 --> 00:17:27,810
+H0 hypothesis more than 95 percent of the 
+cows 
+
+407
+00:17:27,810 --> 00:17:29,630
+give two liters of milk and his 
+
+408
+00:17:29,630 --> 00:17:32,610
+counter-hypothesis would be that less than 
+
+409
+00:17:32,610 --> 00:17:34,410
+90 percent give two liters of milk, 
+
+410
+00:17:34,530 --> 00:17:38,790
+would be from 0 to 84. The inspector 
+
+411
+00:17:38,790 --> 00:17:40,070
+of course looks at the other 
+
+412
+00:17:40,070 --> 00:17:41,810
+side. He wants to 
+
+413
+00:17:41,810 --> 00:17:43,030
+contradict the building or 
+
+414
+00:17:43,030 --> 00:17:45,070
+refute his assertion. That is why he has 
+
+415
+00:17:45,070 --> 00:17:47,310
+
+416
+00:17:47,310 --> 00:17:50,530
+set his null hypothesis H0 exactly 
+opposite. He simply says that 
+
+417
+00:17:50,690 --> 00:17:53,050
+less than 90% of the cows give 2 
+
+418
+00:17:53,050 --> 00:17:55,110
+liters of milk and thus arrives at an 
+
+419
+00:17:55,110 --> 00:17:56,990
+interval for his H0 hypothesis 
+
+420
+00:17:56,990 --> 00:17:59,810
+of 0 to 95. As a reminder, these 
+
+421
+00:17:59,810 --> 00:18:01,410
+two are exactly opposite. 
+
+422
+00:18:02,670 --> 00:18:05,310
+He only accepts his counter-hypothesis 
+
+423
+00:18:05,310 --> 00:18:09,850
+for 96 to 100 cows that produce more than 
+2 
+
+424
+00:18:09,850 --> 00:18:12,330
+liters of milk. And now we are 
+
+425
+00:18:12,330 --> 00:18:14,290
+faced with the problem of assuming 
+
+426
+00:18:14,290 --> 00:18:15,910
+that three random samples were 
+
+427
+00:18:15,910 --> 00:18:18,210
+taken. The result is that 88, 
+
+428
+00:18:18,710 --> 00:18:22,290
+74 and 96 cows give more than two liters 
+
+429
+00:18:22,290 --> 00:18:25,910
+of milk. If we 
+
+430
+00:18:25,910 --> 00:18:29,350
+look at the 74 cows , then both are 
+
+431
+00:18:29,350 --> 00:18:31,490
+in agreement . The farmer would have his 
+
+432
+00:18:31,490 --> 00:18:33,090
+counter-hypothesis, i.e. he would 
+
+433
+00:18:33,090 --> 00:18:36,850
+also agree that less than 90% 
+
+434
+00:18:36,850 --> 00:18:39,030
+of the cows give two liters of milk. And 
+
+435
+00:18:39,030 --> 00:18:40,430
+the inspector would also be in his 
+
+436
+00:18:40,430 --> 00:18:42,930
+area. And see his statement 
+
+437
+00:18:42,930 --> 00:18:45,890
+confirmed. In other words, he 
+
+438
+00:18:45,890 --> 00:18:47,010
+contradicted him. So his 
+
+439
+00:18:47,010 --> 00:18:48,790
+null hypothesis is confirmed. Less 
+
+440
+00:18:48,790 --> 00:18:51,070
+than 90% of cows give 2 liters of milk. 
+
+441
+00:18:51,170 --> 00:18:52,970
+So they would both agree. 
+
+442
+00:18:54,950 --> 00:18:57,430
+The situation is different at 96. 
+
+443
+00:18:57,630 --> 00:18:59,110
+Or rather, it looks the same 
+
+444
+00:18:59,110 --> 00:19:03,310
+at 96. The farmer would say that his 
+
+445
+00:19:03,310 --> 00:19:08,470
+null hypothesis is confirmed. 90% 
+
+446
+00:19:08,470 --> 00:19:10,250
+of his cows produce more than 2 liters 
+
+447
+00:19:10,250 --> 00:19:12,810
+of milk. The inspector sees his 
+
+448
+00:19:12,810 --> 00:19:15,670
+counter-hypothesis confirmed. He has to 
+
+449
+00:19:15,670 --> 00:19:17,310
+realize that the farmer is right. 
+
+450
+00:19:17,810 --> 00:19:21,970
+Because, according to him, more than 
+
+451
+00:19:21,970 --> 00:19:25,330
+90% of the cows give 2 liters of milk, 
+because 
+
+452
+00:19:25,330 --> 00:19:26,910
+he also has to 
+
+453
+00:19:26,910 --> 00:19:29,150
+switch to his counter-hypothesis , or his 
+
+454
+00:19:29,150 --> 00:19:31,010
+interval for his counter-hypothesis 
+
+455
+00:19:31,010 --> 00:19:33,210
+, which proves the farmer right, 
+
+456
+00:19:33,210 --> 00:19:35,410
+also contains the 96%. This means 
+
+457
+00:19:35,410 --> 00:19:38,190
+that they both agree again. The problem 
+
+458
+00:19:38,190 --> 00:19:42,610
+is now with the 88%. The farmer sees 
+
+459
+00:19:42,610 --> 00:19:44,790
+his statement confirmed, because the 88 
+
+460
+00:19:44,790 --> 00:19:46,330
+lies in his interval for the 
+
+461
+00:19:46,330 --> 00:19:48,450
+H0. In other words, the farmer says, okay, 
+
+462
+00:19:48,570 --> 00:19:51,130
+more than 90% of the cows produce more 
+than 
+
+463
+00:19:51,130 --> 00:19:53,570
+2 liters of milk. 
+
+464
+00:19:53,570 --> 00:19:55,250
+But the inspector also sees his statement 
+confirmed and 
+
+465
+00:19:55,250 --> 00:19:58,030
+says that less than 90% of the cows 
+
+466
+00:19:58,030 --> 00:20:00,790
+produce 2 liters of milk. In other words, 
+at this 
+
+467
+00:20:00,790 --> 00:20:03,070
+point they disagree and 
+
+468
+00:20:03,070 --> 00:20:04,910
+it's a question of perspective. 
+
+469
+00:20:06,150 --> 00:20:09,010
+And that brings us to 
+
+470
+00:20:09,010 --> 00:20:10,430
+the important questions. to remember how 
+
+471
+00:20:10,430 --> 00:20:14,790
+to accept the H0 or HA hypothesis. 
+
+472
+00:20:16,750 --> 00:20:18,390
+It is very important that you 
+
+473
+00:20:18,390 --> 00:20:20,810
+read the task carefully and then make 
+
+474
+00:20:20,810 --> 00:20:23,270
+a reasoned 
+
+475
+00:20:23,270 --> 00:20:25,650
+decision as to which 
+
+476
+00:20:25,650 --> 00:20:27,470
+hypothesis you accept. 
+
+477
+00:20:31,980 --> 00:20:34,580
+There is often an assertion in the text 
+
+478
+00:20:34,580 --> 00:20:35,860
+and I would say 
+
+479
+00:20:35,860 --> 00:20:38,120
+that the 
+
+480
+00:20:38,120 --> 00:20:40,660
+hypothesis test 
+
+481
+00:20:40,660 --> 00:20:42,300
+
+482
+00:20:42,300 --> 00:20:43,640
+should always be carried out in opposition 
+to the statement. In other words, you 
+always slip 
+
+483
+00:20:43,640 --> 00:20:45,740
+into the role of this controller. You 
+
+484
+00:20:45,740 --> 00:20:47,060
+try to disprove it. 
+
+485
+00:20:53,290 --> 00:20:55,850
+
+486
+00:20:55,850 --> 00:21:00,390
+The H0 hypothesis, 
+
+487
+00:21:00,610 --> 00:21:04,410
+or the interval, is then determined by 
+this inequality sign. And 
+
+488
+00:21:04,410 --> 00:21:08,340
+you can see that again here. 
+
+489
+00:21:12,510 --> 00:21:14,870
+once h0 goes from 0 to k and once 
+
+490
+00:21:14,870 --> 00:21:18,890
+h8 goes from 0 to k and, as 
+
+491
+00:21:18,890 --> 00:21:21,850
+I said, that is 
+
+492
+00:21:21,850 --> 00:21:23,570
+determined by the greater than or less 
+sign , i.e. that is greater than or equal 
+to and 
+
+493
+00:21:23,570 --> 00:21:26,190
+that is less than or equal to here we see 
+once 
+
+494
+00:21:26,190 --> 00:21:29,350
+less than or equal to and greater than and 
+
+495
+00:21:33,060 --> 00:21:34,920
+we then 
+
+496
+00:21:34,920 --> 00:21:37,200
+always have our five percent 
+
+497
+00:21:39,160 --> 00:21:40,820
+significance level here, which is, as I 
+said, 
+
+498
+00:21:40,820 --> 00:21:43,080
+very important that you 
+
+499
+00:21:43,080 --> 00:21:44,440
+also 
+
+500
+00:21:44,440 --> 00:21:46,080
+read out the significance level with that 
+, which can or, as I said, 
+
+501
+00:21:46,180 --> 00:21:48,020
+that cannot be common, 5 
+
+502
+00:21:48,800 --> 00:21:50,560
+or 2%, although I 
+
+503
+00:21:50,560 --> 00:21:52,320
+would say that 5% 
+
+504
+00:21:52,320 --> 00:21:56,280
+is still a lot more popular than 2%. 
+
+505
+00:21:56,280 --> 00:21:57,480
+So that's it for the 
+
+506
+00:21:57,480 --> 00:21:58,920
+webinar. I hope you enjoyed 
+
+507
+00:21:58,920 --> 00:22:00,520
+the webinar and thank you 
+
+508
+00:22:00,520 --> 00:22:01,560
+very much for your 
+
+509
+00:22:01,560 --> 00:22:02,340
+attention. 

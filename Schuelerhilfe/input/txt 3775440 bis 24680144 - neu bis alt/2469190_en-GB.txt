@@ -1,0 +1,1497 @@
+﻿1
+00:00:03,660 --> 00:00:05,620
+Hi Max, if you 
+
+2
+00:00:05,620 --> 00:00:07,640
+can hear me , I would 
+
+3
+00:00:10,780 --> 00:00:15,740
+ask you to 
+
+4
+00:00:15,740 --> 00:00:17,440
+write into the chat. Hi 
+
+5
+00:00:36,350 --> 00:00:39,550
+Max, I'll try again. If you 
+
+6
+00:00:39,550 --> 00:00:41,210
+can hear me, I would 
+
+7
+00:00:41,210 --> 00:00:42,570
+ask you to just 
+
+8
+00:00:42,570 --> 00:00:44,330
+write into the chat. 
+
+9
+00:01:17,640 --> 00:01:19,160
+Something will definitely come up. 
+
+10
+00:01:31,570 --> 00:01:33,450
+I didn't 
+
+11
+00:01:33,450 --> 00:01:34,870
+actually say anything just now. I've only 
+ever 
+
+12
+00:01:34,870 --> 00:01:37,710
+observed how you 
+
+13
+00:01:37,710 --> 00:01:39,590
+'ve come in and out of the room again and 
+again, 
+
+14
+00:01:40,450 --> 00:01:42,690
+but then it's fine if you 
+
+15
+00:01:42,690 --> 00:01:44,910
+can hear me, I hope that 
+
+16
+00:01:44,910 --> 00:01:46,090
+everything is working out for you now 
+
+17
+00:01:46,090 --> 00:01:47,830
+if you 
+
+18
+00:01:47,830 --> 00:01:49,850
+should be kicked out again at some point, 
+that's 
+
+19
+00:01:49,850 --> 00:01:51,330
+no problem at all , then try to 
+
+20
+00:01:51,330 --> 00:01:53,450
+connect again directly, I'll 
+
+21
+00:01:53,450 --> 00:01:54,850
+just interrupt at that point 
+
+22
+00:01:54,850 --> 00:01:56,790
+and then wait until you 
+
+23
+00:01:56,790 --> 00:01:59,650
+'re back for the webinar, if you 
+
+24
+00:01:59,650 --> 00:02:01,330
+have any questions about 
+
+25
+00:02:01,330 --> 00:02:04,250
+any content, you can 
+
+26
+00:02:04,250 --> 00:02:05,430
+just 
+
+27
+00:02:05,430 --> 00:02:07,310
+write them directly into the chat here 
+I'll see that and then 
+
+28
+00:02:07,310 --> 00:02:08,970
+we'll try to 
+
+29
+00:02:08,970 --> 00:02:11,050
+clarify it directly on the spot . All 
+
+30
+00:02:19,980 --> 00:02:22,800
+right, then we'll start straight away. 
+What 
+
+31
+00:02:22,800 --> 00:02:24,700
+exactly are we going to cover in the 
+webinar 
+
+32
+00:02:24,700 --> 00:02:26,520
+? 
+
+33
+00:02:26,520 --> 00:02:29,820
+Multiplication, factoring, 
+
+34
+00:02:29,820 --> 00:02:31,800
+calculating with fraction equations and 
+
+35
+00:02:31,800 --> 00:02:35,600
+transforming formulas in relation to 
+
+36
+00:02:35,600 --> 00:02:39,310
+algebra. Let's start with 
+
+37
+00:02:39,310 --> 00:02:41,810
+multiplication. There are 
+
+38
+00:02:41,810 --> 00:02:44,450
+important rules in mathematics. 
+
+39
+00:02:45,470 --> 00:02:47,610
+One of the most important basic rules is 
+
+40
+00:02:47,610 --> 00:02:50,670
+bracket before dot before dash 
+
+41
+00:02:50,670 --> 00:02:52,670
+calculation. Here you can see the 
+
+42
+00:02:52,670 --> 00:02:55,590
+equation 3 times in brackets 4 minus 2 
+
+43
+00:02:55,590 --> 00:02:59,330
+plus 1. And we have to 
+
+44
+00:02:59,330 --> 00:03:03,310
+solve the whole thing first. So 
+
+45
+00:03:03,310 --> 00:03:05,250
+here we apply the rule parentheses before 
+dot before 
+
+46
+00:03:05,250 --> 00:03:05,830
+dash. 
+
+47
+00:03:25,080 --> 00:03:27,000
+Okay, 
+
+48
+00:03:29,680 --> 00:03:31,960
+do you happen to see it now? 
+
+49
+00:03:34,960 --> 00:03:37,020
+Actually, the slide should 
+
+50
+00:03:37,020 --> 00:03:37,940
+be recognizable. 
+
+51
+00:04:18,150 --> 00:04:20,090
+All right, then try it again 
+
+52
+00:04:20,090 --> 00:04:20,450
+. 
+
+53
+00:04:23,890 --> 00:04:24,490
+But 
+
+54
+00:04:28,300 --> 00:04:30,280
+think... 
+
+55
+00:04:37,920 --> 00:04:39,940
+So, can you see the slide now? 
+
+56
+00:04:52,430 --> 00:04:56,150
+So, the first equation 
+
+57
+00:04:56,150 --> 00:04:59,390
+above. 3 times in brackets 4 minus 2 
+
+58
+00:04:59,390 --> 00:05:03,010
+plus 1. So we 
+
+59
+00:05:03,010 --> 00:05:04,790
+apply the brackets from point to dash and 
+work 
+
+60
+00:05:04,790 --> 00:05:07,050
+out the brackets first. 4 minus 2 
+
+61
+00:05:07,050 --> 00:05:09,790
+equals 2. Now we can apply the dot 
+
+62
+00:05:09,790 --> 00:05:11,910
+before dash rule. 3 
+
+63
+00:05:11,910 --> 00:05:14,370
+times 2 equals 6 and now we 
+
+64
+00:05:14,370 --> 00:05:15,990
+just add the 1 to get 
+
+65
+00:05:15,990 --> 00:05:19,670
+7. Multiplying out is 
+
+66
+00:05:19,670 --> 00:05:21,670
+an alternative method for 
+
+67
+00:05:21,670 --> 00:05:24,510
+solving such brackets. 
+
+68
+00:05:24,510 --> 00:05:27,370
+Here, for example, we have 
+
+69
+00:05:27,370 --> 00:05:30,070
+the same equation as 
+
+70
+00:05:30,070 --> 00:05:32,990
+before and 
+
+71
+00:05:32,990 --> 00:05:35,050
+are now just multiplying the whole thing 
+out. This means that we 
+
+72
+00:05:35,050 --> 00:05:37,490
+multiply 3 by 4 once, 
+
+73
+00:05:37,570 --> 00:05:41,150
+just like 3 or in this case even 
+
+74
+00:05:41,150 --> 00:05:45,230
+minus 3 times 2. So we calculate 3 times 
+
+75
+00:05:45,230 --> 00:05:49,390
+4, get 12, minus 3 times 2, minus 
+
+76
+00:05:49,390 --> 00:05:52,530
+6 and now add and subtract 
+
+77
+00:05:52,530 --> 00:05:54,670
+the numbers to get 
+
+78
+00:05:54,670 --> 00:05:57,510
+the result 7. We 
+
+79
+00:06:00,780 --> 00:06:04,240
+
+80
+00:06:04,240 --> 00:06:06,700
+cannot calculate or summarize x-2 in the 
+equation above 
+
+81
+00:06:06,720 --> 00:06:10,460
+, as x is an unknown. What we 
+
+82
+00:06:10,460 --> 00:06:11,980
+can do now, however, is 
+
+83
+00:06:11,980 --> 00:06:15,260
+multiply it out and 
+
+84
+00:06:15,260 --> 00:06:17,560
+summarize it as far as possible. 
+
+85
+00:06:17,560 --> 00:06:18,820
+So we 
+
+86
+00:06:18,820 --> 00:06:21,460
+multiply out again and get the 
+
+87
+00:06:21,460 --> 00:06:29,000
+equation 3x-3x2-1. 3 times x remains 
+
+88
+00:06:29,000 --> 00:06:32,280
+3x, minus 3 times 2 becomes minus 6 
+
+89
+00:06:32,280 --> 00:06:37,280
+and plus 1. 3x minus 5 is then 
+
+90
+00:06:37,280 --> 00:06:41,040
+our final form. We have 
+
+91
+00:06:41,040 --> 00:06:43,040
+
+92
+00:06:43,040 --> 00:06:45,380
+now created a relatively compact result. 
+Here are two 
+
+93
+00:06:45,380 --> 00:06:48,220
+more examples, namely minus 2 
+
+94
+00:06:48,220 --> 00:06:51,060
+times in brackets 3x plus y minus 5. 
+
+95
+00:06:51,360 --> 00:06:53,540
+Here we now have two unknowns 
+
+96
+00:06:53,560 --> 00:06:55,220
+, but that's actually... no 
+
+97
+00:06:55,220 --> 00:06:58,740
+problem. So we solve, minus 2 
+
+98
+00:06:58,740 --> 00:07:03,140
+times 3x minus 2y minus 2 times minus 5 
+
+99
+00:07:03,140 --> 00:07:06,200
+and we get the final form 
+
+100
+00:07:06,200 --> 00:07:11,460
+minus 6x minus 2y plus 10. Just 
+
+101
+00:07:11,460 --> 00:07:13,320
+
+102
+00:07:13,320 --> 00:07:15,420
+apply exactly the same thing again at the 
+bottom , where we no 
+
+103
+00:07:15,420 --> 00:07:17,640
+longer have only 2 unknowns, but 3, 
+
+104
+00:07:17,840 --> 00:07:20,160
+but here too we simply 
+
+105
+00:07:21,340 --> 00:07:23,180
+multiply out and 
+
+106
+00:07:23,180 --> 00:07:26,880
+add the variables together. 5x times 4y 
+
+107
+00:07:26,880 --> 00:07:31,620
+becomes 20xy, 5x minus z becomes minus 5xz 
+
+108
+00:07:31,620 --> 00:07:37,960
+and 5x plus 1, 5x times 1 becomes 
+
+109
+00:07:37,960 --> 00:07:38,660
+5x. 
+
+110
+00:07:41,430 --> 00:07:43,570
+Now let's move on to factoring. 
+
+111
+00:07:43,570 --> 00:07:45,250
+In principle, factoring out is the 
+
+112
+00:07:45,250 --> 00:07:47,550
+opposite of multiplying out. 
+
+113
+00:07:47,550 --> 00:07:49,490
+So if we 
+
+114
+00:07:49,490 --> 00:07:51,510
+have the longer form 3 times 4 minus 3 
+times 2, 
+
+115
+00:07:51,650 --> 00:07:55,150
+we factor out the 3 here and 
+
+116
+00:07:55,150 --> 00:07:57,750
+have 3 times in brackets 4 minus 2. 
+
+117
+00:07:58,770 --> 00:08:00,730
+The prerequisite for this is that the 
+
+118
+00:08:00,730 --> 00:08:03,390
+two 
+
+119
+00:08:03,390 --> 00:08:05,870
+terms are a 
+
+120
+00:08:05,870 --> 00:08:07,390
+sum or the difference of 
+
+121
+00:08:07,390 --> 00:08:10,170
+products or that all products 
+
+122
+00:08:10,170 --> 00:08:12,070
+have a common factor, 
+
+123
+00:08:12,070 --> 00:08:14,230
+such as the 3 in the 
+
+124
+00:08:14,230 --> 00:08:17,030
+upper equation. If we now 
+
+125
+00:08:17,030 --> 00:08:19,170
+
+126
+00:08:19,170 --> 00:08:21,770
+look at the lower equation , we want to 
+find the 
+
+127
+00:08:21,770 --> 00:08:23,570
+common factor everywhere. 
+
+128
+00:08:24,150 --> 00:08:27,030
+That would be 2 in this case, so we 
+calculate 
+
+129
+00:08:27,030 --> 00:08:30,490
+4 times 2 minus 2 times 3 plus 2 times 2, 
+
+130
+00:08:31,130 --> 00:08:33,130
+now factor out the 2 and 
+
+131
+00:08:33,130 --> 00:08:35,310
+only get 4 minus 3 
+
+132
+00:08:35,310 --> 00:08:40,650
+plus 2 times 2 in the brackets . Here is 
+the whole thing 
+
+133
+00:08:40,650 --> 00:08:43,870
+again with variables. 3x minus 6 
+
+134
+00:08:43,870 --> 00:08:47,370
+could be resolved to 3 times x 
+
+135
+00:08:47,370 --> 00:08:50,270
+minus 3 times 2. So in 
+
+136
+00:08:50,270 --> 00:08:52,510
+the bracketed out version we get 3 times 
+
+137
+00:08:52,510 --> 00:08:55,470
+brackets on x minus 2. In the 
+
+138
+00:08:55,470 --> 00:08:57,950
+equation below it looks like this. 6x 
+
+139
+00:08:57,950 --> 00:09:02,570
+plus xy minus 5xz. The common 
+
+140
+00:09:02,570 --> 00:09:04,630
+component or common factor 
+
+141
+00:09:04,630 --> 00:09:07,450
+in this case is x. 
+
+142
+00:09:07,450 --> 00:09:11,150
+So we have x times, brackets open, 6 plus 
+y 
+
+143
+00:09:11,150 --> 00:09:12,690
+minus 5z. 
+
+144
+00:09:16,370 --> 00:09:17,710
+Let's move on to the fractional equations. 
+
+145
+00:09:19,370 --> 00:09:21,870
+The example for this is a previously 
+
+146
+00:09:21,870 --> 00:09:25,290
+known equation, namely 3x plus 1 
+
+147
+00:09:25,290 --> 00:09:29,270
+half is equal to minus 4x². plus x 
+
+148
+00:09:29,270 --> 00:09:31,270
+thirds. The equation contains 
+
+149
+00:09:31,270 --> 00:09:33,290
+fractions, but is therefore not a fraction 
+
+150
+00:09:33,290 --> 00:09:36,410
+equation. 
+
+151
+00:09:36,410 --> 00:09:38,670
+For example, consider an x-tel is 
+
+152
+00:09:38,670 --> 00:09:42,810
+equal to 0.25. The variable to 
+
+153
+00:09:42,810 --> 00:09:44,530
+be solved for is 
+
+154
+00:09:44,530 --> 00:09:47,310
+in the denominator at least once. This is 
+the x here. It 
+
+155
+00:09:47,310 --> 00:09:48,570
+cannot 
+
+156
+00:09:48,570 --> 00:09:51,290
+be eliminated by truncation . As a 
+counterexample 
+
+157
+00:09:51,290 --> 00:09:56,090
+2x, x-tel would be 2 ones, because we 
+
+158
+00:09:56,090 --> 00:09:58,930
+can delete the x here. 
+
+159
+00:09:59,190 --> 00:10:00,990
+As a result, we only have 2 ones 
+
+160
+00:10:00,990 --> 00:10:03,790
+and that would be 2. We 
+
+161
+00:10:06,830 --> 00:10:07,750
+can now 
+
+162
+00:10:07,750 --> 00:10:09,730
+make several considerations, 
+
+163
+00:10:09,730 --> 00:10:11,430
+such as by which numbers 
+
+164
+00:10:11,430 --> 00:10:14,030
+the 1 must be divided to 
+
+165
+00:10:14,030 --> 00:10:17,090
+get 0.25 . We can convert 0.25 into a 
+
+166
+00:10:17,090 --> 00:10:19,310
+fraction and we get 
+
+167
+00:10:19,310 --> 00:10:21,410
+1 x is equal to 1 quarter. 
+
+168
+00:10:24,230 --> 00:10:25,650
+
+169
+00:10:25,650 --> 00:10:28,950
+In principle, this would be equivalent 
+conversion. 1 x 
+
+170
+00:10:28,950 --> 00:10:30,450
+is nothing other than 
+
+171
+00:10:30,450 --> 00:10:33,830
+1 divided by x. The counter calculation to 
+this is 
+
+172
+00:10:33,830 --> 00:10:37,450
+the multiplication of x. 
+
+173
+00:10:37,450 --> 00:10:39,490
+So let's take a look at the equation 
+
+174
+00:10:39,490 --> 00:10:43,010
+below to find x. 1 x 
+
+175
+00:10:43,010 --> 00:10:46,670
+is equal to 0.25. 
+
+176
+00:10:46,670 --> 00:10:49,710
+So we multiply times x to 
+
+177
+00:10:49,710 --> 00:10:52,250
+get the x from the left side to the right 
+side and 
+
+178
+00:10:52,250 --> 00:10:54,850
+get the equation 1 is 
+
+179
+00:10:54,850 --> 00:10:58,590
+equal to 0.25 times x, divide 
+
+180
+00:10:58,590 --> 00:11:01,830
+by 0.25 on both sides and 
+
+181
+00:11:01,830 --> 00:11:04,650
+get 4 is equal to x. 
+
+182
+00:11:07,790 --> 00:11:09,850
+What do we have to do with several 
+
+183
+00:11:09,850 --> 00:11:12,790
+fractions with terms with x in the 
+denominator? 
+
+184
+00:11:13,370 --> 00:11:15,270
+Well, we first have to 
+
+185
+00:11:15,270 --> 00:11:17,710
+determine a main denominator, 
+
+186
+00:11:17,710 --> 00:11:19,650
+multiply the equation by the main 
+denominator, 
+
+187
+00:11:19,830 --> 00:11:22,590
+reduce and summarize and solve the 
+
+188
+00:11:22,590 --> 00:11:24,690
+resulting equation again using the 
+
+189
+00:11:24,690 --> 00:11:27,090
+usual methods as before. 
+
+190
+00:11:27,790 --> 00:11:29,770
+So we first determine the 
+
+191
+00:11:29,770 --> 00:11:31,990
+main denominator. All denominators must 
+
+192
+00:11:31,990 --> 00:11:34,590
+be multiplied together and 
+
+193
+00:11:34,590 --> 00:11:36,610
+we have to 
+
+194
+00:11:36,610 --> 00:11:38,650
+put brackets around the terms. The main 
+denominator is therefore 
+
+195
+00:11:38,650 --> 00:11:41,810
+equal to x times x in brackets plus 1. 
+
+196
+00:11:42,970 --> 00:11:45,070
+Now we want to 
+
+197
+00:11:45,070 --> 00:11:48,370
+multiply the equation by the main 
+denominator. One xth 
+
+198
+00:11:48,370 --> 00:11:53,270
+is equal to 2x and in the denominator x 
+plus 1. 
+
+199
+00:11:53,650 --> 00:11:56,630
+We now multiply x times x 
+
+200
+00:11:56,630 --> 00:12:01,250
+and times the parenthesis x plus 1. 
+
+201
+00:12:01,250 --> 00:12:02,490
+This gives us the following 
+
+202
+00:12:02,490 --> 00:12:06,010
+equation, 1 times x times in parentheses x 
+
+203
+00:12:06,010 --> 00:12:11,850
+plus 1 by x, and 2x times x times in 
+
+204
+00:12:11,850 --> 00:12:15,530
+parentheses x plus 1 and in the 
+denominator 
+
+205
+00:12:15,530 --> 00:12:19,750
+again x plus 1. We now reduce 
+
+206
+00:12:19,750 --> 00:12:21,930
+and summarize. On the left-hand 
+
+207
+00:12:21,930 --> 00:12:24,010
+side, we delete the x in the numerator 
+
+208
+00:12:24,010 --> 00:12:25,590
+and in the brackets. On 
+
+209
+00:12:25,590 --> 00:12:27,770
+the right-hand side, x plus 1 in 
+
+210
+00:12:27,770 --> 00:12:31,410
+brackets and x plus 1 in the denominator. 
+
+211
+00:12:31,410 --> 00:12:33,630
+We then get the following equation. 
+
+212
+00:12:33,710 --> 00:12:36,970
+1 times x plus 1 in brackets equals 
+
+213
+00:12:36,970 --> 00:12:39,710
+2x times x. We apply the 
+
+214
+00:12:39,710 --> 00:12:42,090
+calculation formulas and now get 
+
+215
+00:12:42,090 --> 00:12:44,350
+x plus 1 equals 
+
+216
+00:12:44,350 --> 00:12:48,670
+2x squared on the left-hand side . What we 
+do now, we 
+
+217
+00:12:48,670 --> 00:12:52,070
+We drag the 2x² 
+
+218
+00:12:52,070 --> 00:12:53,870
+over to the left side so that we 
+
+219
+00:12:53,870 --> 00:12:55,870
+have a 0 on the right side and 
+
+220
+00:12:55,870 --> 00:12:59,050
+get the final formula minus 2x² 
+
+221
+00:12:59,050 --> 00:13:02,810
+plus x plus 1 equals 0. With the formula, 
+
+222
+00:13:02,810 --> 00:13:05,010
+we can now 
+
+223
+00:13:05,010 --> 00:13:07,630
+also apply the pq formula and get 
+
+224
+00:13:07,630 --> 00:13:11,430
+the solution set x equals 1, x1 
+
+225
+00:13:11,430 --> 00:13:15,570
+equals 1 and x2 would be minus 1.5. The 
+
+226
+00:13:15,570 --> 00:13:17,530
+whole thing again in the summation 
+bracket. 
+
+227
+00:13:17,670 --> 00:13:20,110
+shown with minus 1.5 and 1. 
+
+228
+00:13:22,760 --> 00:13:25,140
+Let us now turn to the transformation of 
+
+229
+00:13:25,140 --> 00:13:28,060
+formulas. Formulas generally make things 
+easier for us. 
+
+230
+00:13:28,060 --> 00:13:29,380
+.. 
+
+231
+00:13:48,490 --> 00:13:52,100
+Yes, go ahead. 
+
+232
+00:15:23,850 --> 00:15:27,010
+I think... So you mean the 
+
+233
+00:15:27,010 --> 00:15:29,190
+reciprocal in 
+
+234
+00:15:33,250 --> 00:15:33,930
+this case? 
+
+235
+00:15:37,230 --> 00:15:40,250
+Well, no, you would 
+
+236
+00:15:40,250 --> 00:15:41,370
+form the reciprocal on the right-hand 
+side, but 
+
+237
+00:15:41,370 --> 00:15:45,330
+with x divided by 1... And 
+
+238
+00:15:47,570 --> 00:15:52,910
+so I can definitely see what you 
+
+239
+00:15:52,910 --> 00:15:55,870
+want to do with it. And it would 
+
+240
+00:15:55,870 --> 00:15:57,870
+even work out mathematically 
+
+241
+00:15:57,870 --> 00:16:03,360
+in this case. 
+
+242
+00:16:03,360 --> 00:16:07,520
+But I 
+
+243
+00:16:07,520 --> 00:16:12,680
+don't think that would be the case with 
+more complex numbers later on. That's why 
+
+244
+00:16:14,670 --> 00:16:19,250
+I would rather use the main denominator 
+
+245
+00:16:19,250 --> 00:16:21,910
+to determine this. That's 
+
+246
+00:16:21,910 --> 00:16:27,330
+a bit more writing, but 
+
+247
+00:16:27,330 --> 00:16:31,330
+it also teaches 
+
+248
+00:16:31,330 --> 00:16:32,750
+you how to shorten away. 
+
+249
+00:16:35,450 --> 00:16:38,430
+
+250
+00:16:38,430 --> 00:16:42,270
+I'm 
+
+251
+00:16:42,270 --> 00:16:43,910
+not personally familiar with this rule of 
+reversing the numerator and denominator 
+
+252
+00:18:04,390 --> 00:18:07,230
+, so it's definitely safer 
+
+253
+00:18:08,570 --> 00:18:12,990
+, but I don't know 
+
+254
+00:18:12,990 --> 00:18:15,010
+who you heard this from or whether your 
+
+255
+00:18:15,010 --> 00:18:17,970
+teacher explained it to you, 
+
+256
+00:18:17,970 --> 00:18:22,330
+but I would rather 
+
+257
+00:18:22,330 --> 00:18:23,850
+
+258
+00:18:27,630 --> 00:18:29,570
+
+259
+00:18:29,570 --> 00:18:31,350
+
+260
+00:18:31,350 --> 00:18:33,490
+continue with the tried and tested 
+methods, as I said, I would simply 
+continue with the tried and tested methods 
+. You're definitely 
+
+261
+00:18:33,490 --> 00:18:38,770
+on the safe side. And with 
+
+262
+00:18:38,770 --> 00:18:40,990
+a quick trick like that, you 
+
+263
+00:18:40,990 --> 00:18:42,590
+can sometimes quickly fall into a trap 
+
+264
+00:18:42,590 --> 00:18:44,470
+. That's why, as 
+
+265
+00:18:44,470 --> 00:18:47,190
+I said , I would simply do what I did here 
+with 
+
+266
+00:18:47,190 --> 00:18:50,270
+determining the main denominator . Well, 
+
+267
+00:18:50,370 --> 00:18:54,010
+then I would continue with the 
+
+268
+00:18:54,010 --> 00:18:58,590
+transformation of formulas. Formulas 
+
+269
+00:18:58,590 --> 00:19:03,370
+generally make it easier for us to 
+
+270
+00:19:03,370 --> 00:19:05,430
+calculate and convert quantities 
+
+271
+00:19:05,430 --> 00:19:07,390
+and other values. 
+
+272
+00:19:07,390 --> 00:19:09,110
+For example, how do you convert 
+centimetres and meters 
+
+273
+00:19:09,110 --> 00:19:11,450
+or how do you calculate 
+
+274
+00:19:11,450 --> 00:19:13,490
+the 
+
+275
+00:19:13,490 --> 00:19:16,870
+speed from a distance and a duration ? But 
+what is really 
+
+276
+00:19:16,870 --> 00:19:18,870
+interesting is that we are now coming 
+
+277
+00:19:18,870 --> 00:19:22,470
+
+278
+00:19:22,470 --> 00:19:24,490
+back to the percentage formulas . In the 
+
+279
+00:19:24,490 --> 00:19:29,330
+formula , we have W equals large G divided 
+by 100 times 
+
+280
+00:19:29,330 --> 00:19:32,470
+P. We have three variables here. 
+
+281
+00:19:32,470 --> 00:19:34,830
+We have the percentage value, we have the 
+
+282
+00:19:34,830 --> 00:19:37,270
+basic value and the percentage. 
+
+283
+00:19:39,350 --> 00:19:40,710
+Just a quick 
+
+284
+00:19:40,710 --> 00:19:42,790
+explanation. The basic value here is 
+
+285
+00:19:42,790 --> 00:19:46,050
+, for example, the initial value of 
+
+286
+00:19:46,050 --> 00:19:48,150
+a product, e.g. 
+
+287
+00:19:48,150 --> 00:19:51,710
+a pair of shoes that costs 120 euros. 
+
+288
+00:19:51,750 --> 00:19:54,930
+The 100 is used here to divide the 
+
+289
+00:19:54,930 --> 00:19:57,810
+percentage. Small p, the 
+
+290
+00:19:57,810 --> 00:19:59,910
+percentage, is, for example, the 
+
+291
+00:19:59,910 --> 00:20:01,770
+discount you 
+
+292
+00:20:01,770 --> 00:20:05,330
+would now get on these shoes. And W would 
+then be the 
+
+293
+00:20:05,330 --> 00:20:09,250
+amount you would 
+
+294
+00:20:10,880 --> 00:20:14,880
+have to pay 
+
+295
+00:20:14,880 --> 00:20:18,060
+after deducting the percentage. 
+
+296
+00:20:20,370 --> 00:20:22,660
+So in principle, you 
+
+297
+00:20:22,660 --> 00:20:26,140
+only have to enter the values for G and P 
+and 
+
+298
+00:20:26,140 --> 00:20:29,320
+then you get the value of large W. W. 
+
+299
+00:20:30,180 --> 00:20:31,740
+But what happens, for example, 
+
+300
+00:20:31,940 --> 00:20:34,720
+if you know W and P and are looking for G 
+
+301
+00:20:34,720 --> 00:20:37,200
+or if you know W and large G and 
+
+302
+00:20:37,200 --> 00:20:40,820
+are looking for small P? Further formulas 
+would 
+
+303
+00:20:40,820 --> 00:20:42,560
+then be necessary, which you 
+
+304
+00:20:42,560 --> 00:20:45,080
+would have to memorize, or what you 
+
+305
+00:20:45,080 --> 00:20:47,780
+can do is 
+
+306
+00:20:47,780 --> 00:20:51,820
+simply reshape them. The advantage is 
+simply 
+
+307
+00:20:51,820 --> 00:20:54,280
+that you 
+
+308
+00:20:54,280 --> 00:20:56,460
+only have to memorize one formula. But 
+
+309
+00:20:56,460 --> 00:20:58,260
+then again, you also need to 
+
+310
+00:20:58,260 --> 00:21:00,540
+have the necessary knowledge to 
+
+311
+00:21:00,540 --> 00:21:03,840
+convert such things. 
+
+312
+00:21:03,840 --> 00:21:07,120
+So now we convert to capital G. We 
+
+313
+00:21:07,120 --> 00:21:10,280
+multiply our formula by 100 
+
+314
+00:21:10,280 --> 00:21:12,740
+and thus obtain 
+
+315
+00:21:12,740 --> 00:21:16,240
+large W times 100 on the left-hand side 
+and the 100 from 
+
+316
+00:21:16,240 --> 00:21:17,760
+the denominator disappears so that we 
+
+317
+00:21:17,760 --> 00:21:19,600
+only 
+
+318
+00:21:19,600 --> 00:21:23,300
+have large G times small p on the 
+right-hand side . We 
+
+319
+00:21:23,300 --> 00:21:26,360
+now divide the right and left sides by p 
+and 
+
+320
+00:21:26,360 --> 00:21:28,820
+obtain for large g the same 
+
+321
+00:21:28,820 --> 00:21:33,100
+percentage value times 100, divided by the 
+
+322
+00:21:33,100 --> 00:21:36,600
+percentage. If we now want to 
+
+323
+00:21:36,600 --> 00:21:38,980
+
+324
+00:21:38,980 --> 00:21:41,280
+convert to small p, i.e. to the 
+percentage, we first multiply 
+
+325
+00:21:41,280 --> 00:21:44,780
+by 100 again and basically have 
+
+326
+00:21:44,780 --> 00:21:46,440
+the same framework as before 
+
+327
+00:21:46,440 --> 00:21:48,680
+, but now divide by 
+
+328
+00:21:48,680 --> 00:21:50,620
+the large p and get 
+
+329
+00:21:50,620 --> 00:21:53,600
+the formula percentage value 
+
+330
+00:21:53,600 --> 00:21:56,020
+times 100 divided by the 
+
+331
+00:21:56,020 --> 00:21:59,820
+basic value for the percentage. We have 
+another 
+
+332
+00:21:59,820 --> 00:22:02,220
+formula here and now we have the 
+
+333
+00:22:02,220 --> 00:22:04,200
+volume formula of a square 
+
+334
+00:22:04,200 --> 00:22:06,980
+pyramid. So we have the 
+
+335
+00:22:06,980 --> 00:22:10,500
+volume, which 
+
+336
+00:22:10,500 --> 00:22:14,260
+is equal to one third times a² times the 
+height of the pyramid. 
+
+337
+00:22:14,440 --> 00:22:17,040
+We have now found the values for a and v, 
+
+338
+00:22:17,040 --> 00:22:19,300
+for example, 
+
+339
+00:22:19,300 --> 00:22:21,600
+but now it is h. So we also 
+
+340
+00:22:21,600 --> 00:22:24,880
+convert again. We calculate the formula 
+with 
+
+341
+00:22:24,880 --> 00:22:27,980
+times 3 thirds. By doing this, we 
+
+342
+00:22:27,980 --> 00:22:29,560
+
+343
+00:22:29,560 --> 00:22:32,900
+cancel the 1 third on the right side of 
+the equals sign and get 3 
+
+344
+00:22:32,900 --> 00:22:36,200
+whole times the volume is equal to a 
+
+345
+00:22:36,200 --> 00:22:39,460
+squared times h. We now divide 
+
+346
+00:22:39,460 --> 00:22:42,420
+by a squared and get 
+
+347
+00:22:42,420 --> 00:22:45,340
+the formula h is equal to 3 times the 
+
+348
+00:22:45,340 --> 00:22:49,340
+volume divided by a squared. Now 
+
+349
+00:22:49,340 --> 00:22:51,260
+you could insert values for A and V 
+
+350
+00:22:51,260 --> 00:22:53,480
+and 
+
+351
+00:22:53,480 --> 00:22:56,700
+determine the height directly. Do you have 
+any 
+
+352
+00:22:56,700 --> 00:23:01,520
+questions about the last two slides? 
+
+353
+00:23:08,480 --> 00:23:11,020
+Or about anything that 
+
+354
+00:23:11,020 --> 00:23:12,820
+was presented here in the webinar? 
+
+355
+00:23:23,840 --> 00:23:25,700
+Okay, great, that definitely makes me 
+happy 
+
+356
+00:23:25,700 --> 00:23:28,100
+. Then thank you for 
+
+357
+00:23:28,180 --> 00:23:29,480
+
+358
+00:23:29,480 --> 00:23:33,420
+tuning in this evening and for 
+
+359
+00:23:33,420 --> 00:23:34,700
+listening to the exams 
+
+360
+00:23:34,700 --> 00:23:36,980
+. Right, then I wish you 
+
+361
+00:23:36,980 --> 00:23:38,300
+continued success in your math 
+
+362
+00:23:38,300 --> 00:23:40,320
+studies and hope you 
+
+363
+00:23:40,320 --> 00:23:43,480
+have a great Thursday evening. 
+
+364
+00:23:53,300 --> 00:23:54,700
+Thank you very much. Take care. 

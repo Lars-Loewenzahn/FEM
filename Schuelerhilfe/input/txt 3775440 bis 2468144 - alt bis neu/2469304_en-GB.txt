@@ -1,0 +1,555 @@
+﻿1
+00:00:04,270 --> 00:00:06,590
+Hello, my name is Joshua and I 
+
+2
+00:00:06,590 --> 00:00:07,630
+am a tutor at 
+
+3
+00:00:07,630 --> 00:00:09,550
+Schülerhilfe. Today I would like to 
+
+4
+00:00:09,550 --> 00:00:10,410
+
+5
+00:00:10,410 --> 00:00:12,390
+
+6
+00:00:12,390 --> 00:00:13,930
+
+7
+00:00:13,930 --> 00:00:16,090
+explain something about electron 
+configuration and the order of the 
+elements in the periodic table. In our 
+online 
+
+8
+00:00:16,090 --> 00:00:17,850
+ learning center you will 
+
+9
+00:00:17,850 --> 00:00:19,230
+of course find a wiki  on this topic 
+
+10
+00:00:19,230 --> 00:00:20,450
+, in which the 
+
+11
+00:00:20,450 --> 00:00:22,110
+basic and important terms 
+
+12
+00:00:22,110 --> 00:00:25,530
+are explained in detail. Today 
+
+13
+00:00:25,530 --> 00:00:27,090
+we are going to look at the periodic table 
+of 
+
+14
+00:00:27,090 --> 00:00:30,850
+the elements, or PSE for short, its 
+
+15
+00:00:30,850 --> 00:00:32,890
+classification system and the principles 
+
+16
+00:00:32,890 --> 00:00:34,670
+behind it. The 
+
+17
+00:00:34,670 --> 00:00:36,770
+periodic table as a classification system 
+of the 
+
+18
+00:00:36,770 --> 00:00:39,170
+elements was 
+
+19
+00:00:39,170 --> 00:00:41,450
+
+20
+00:00:41,450 --> 00:00:43,430
+founded in the 1860s by the chemists 
+Mendeleev and Meyer independently of each 
+other. 
+
+21
+00:00:43,750 --> 00:00:45,950
+Both recognized the natural 
+
+22
+00:00:45,950 --> 00:00:47,650
+classification system and 
+
+23
+00:00:47,650 --> 00:00:49,390
+
+24
+00:00:49,390 --> 00:00:52,790
+presented it in the form of the table we 
+know today. If you look at the PSE 
+
+25
+00:00:52,790 --> 00:00:54,550
+, you can see that the elements 
+
+26
+00:00:54,550 --> 00:00:56,250
+
+27
+00:00:56,250 --> 00:00:58,610
+
+28
+00:00:58,610 --> 00:01:00,650
+are also arranged in groups and periods , 
+except according to increasing atomic 
+number, which corresponds to the number of 
+protons . 
+
+29
+00:01:01,290 --> 00:01:03,430
+The atomic numbers range from 1 to 
+
+30
+00:01:03,430 --> 00:01:06,470
+118, which shows the existence of 118 
+
+31
+00:01:06,470 --> 00:01:09,110
+elements. When the PSE 
+
+32
+00:01:09,110 --> 00:01:11,330
+was founded, a good half 
+
+33
+00:01:11,330 --> 00:01:13,310
+of these 118 elements had not yet 
+
+34
+00:01:13,310 --> 00:01:15,090
+been discovered, but the 
+
+35
+00:01:15,090 --> 00:01:16,930
+assumption was that the undiscovered 
+
+36
+00:01:16,930 --> 00:01:19,090
+elements must also exist and that there 
+
+37
+00:01:19,090 --> 00:01:20,590
+
+38
+00:01:20,590 --> 00:01:23,070
+would be no gaps in the table. Meyer was 
+thus able to 
+
+39
+00:01:23,070 --> 00:01:24,510
+
+40
+00:01:24,510 --> 00:01:26,790
+
+41
+00:01:26,790 --> 00:01:29,230
+
+42
+00:01:29,410 --> 00:01:32,850
+
+43
+00:01:32,850 --> 00:01:35,850
+predict the properties of the previously 
+unknown elements gallium, then called 
+Eka-aluminum, scandium , then called 
+Eka-Bohr, and germanium, then called 
+Eka-silicon. The 
+
+44
+00:01:35,850 --> 00:01:37,770
+columns in the periodic table are the 
+
+45
+00:01:37,770 --> 00:01:39,470
+groups and the rows are called 
+
+46
+00:01:39,470 --> 00:01:42,410
+periods. The periodic table has eight 
+
+47
+00:01:42,410 --> 00:01:44,010
+main groups, between which are the 
+
+48
+00:01:44,010 --> 00:01:46,210
+subgroups. This 
+
+49
+00:01:46,210 --> 00:01:48,370
+arrangement in groups and periods has to 
+
+50
+00:01:48,370 --> 00:01:50,010
+do with the electron configuration 
+
+51
+00:01:50,010 --> 00:01:51,570
+of the elements, which 
+
+52
+00:01:51,570 --> 00:01:53,410
+
+53
+00:01:53,410 --> 00:01:56,150
+has an effect on the reactivity of the 
+elements. The 
+
+54
+00:01:56,150 --> 00:01:57,710
+electron configuration can 
+
+55
+00:01:57,710 --> 00:01:59,370
+
+56
+00:01:59,370 --> 00:02:01,750
+be represented using the shell model of 
+the atomic shell. This model 
+
+57
+00:02:01,750 --> 00:02:03,490
+shows the distribution of electrons 
+
+58
+00:02:03,490 --> 00:02:05,690
+on the shells. The shells 
+
+59
+00:02:05,690 --> 00:02:07,390
+
+60
+00:02:07,390 --> 00:02:10,610
+are named with letters beginning with K. 
+How many shells the atom of 
+
+61
+00:02:10,610 --> 00:02:12,470
+an element has can be recognized by 
+
+62
+00:02:12,470 --> 00:02:14,070
+the period in which the element is 
+
+63
+00:02:14,070 --> 00:02:16,870
+located . Elements of the first period 
+
+64
+00:02:16,870 --> 00:02:18,690
+have only the first shell, K. 
+
+65
+00:02:19,470 --> 00:02:21,310
+Elements of the seventh period have 
+
+66
+00:02:21,310 --> 00:02:25,690
+shells K to Q, i.e. 7. The 
+
+67
+00:02:25,690 --> 00:02:27,710
+first shell K holds a maximum of two 
+
+68
+00:02:27,710 --> 00:02:29,730
+electrons, the second shell L 
+
+69
+00:02:29,730 --> 00:02:32,350
+a maximum of eight, the third shell M 
+
+70
+00:02:32,350 --> 00:02:35,830
+also eight for the time being. Chlorine, 
+which is in 
+
+71
+00:02:35,830 --> 00:02:37,530
+the third period, has 
+
+72
+00:02:37,530 --> 00:02:39,170
+three shells on which its 
+
+73
+00:02:39,170 --> 00:02:41,910
+17 electrons are distributed. The 
+
+74
+00:02:41,910 --> 00:02:43,490
+main group number corresponds to the 
+
+75
+00:02:43,490 --> 00:02:45,550
+number of valence electrons, i.e. the 
+
+76
+00:02:45,550 --> 00:02:47,190
+electrons that are located in the 
+outermost 
+
+77
+00:02:47,190 --> 00:02:48,910
+shell and 
+
+78
+00:02:48,910 --> 00:02:51,510
+are involved in bonding . Elements of the 
+first 
+
+79
+00:02:51,510 --> 00:02:53,670
+main group have one valence electron, 
+
+80
+00:02:53,810 --> 00:02:56,030
+elements of the second main group 
+
+81
+00:02:56,030 --> 00:02:58,310
+have two and so on. 
+
+82
+00:02:58,310 --> 00:03:00,730
+The maximum number of valence electrons 
+
+83
+00:03:00,730 --> 00:03:03,370
+is therefore 8. Elements with the same 
+
+84
+00:03:03,370 --> 00:03:05,230
+number of valence electrons have 
+
+85
+00:03:05,230 --> 00:03:07,070
+similar properties, especially 
+
+86
+00:03:07,070 --> 00:03:08,730
+in terms of bonding and 
+
+87
+00:03:08,730 --> 00:03:11,710
+reactivity. Elements of the eighth 
+
+88
+00:03:11,710 --> 00:03:13,810
+main group, the noble gases, are 
+
+89
+00:03:13,810 --> 00:03:15,590
+particularly stable and have a 
+
+90
+00:03:15,590 --> 00:03:18,150
+
+91
+00:03:18,150 --> 00:03:20,330
+fully filled 
+
+92
+00:03:20,330 --> 00:03:22,870
+outer shell with eight valence electrons 
+or helium with two outer electrons . The 
+other elements 
+
+93
+00:03:22,870 --> 00:03:24,530
+also strive 
+
+94
+00:03:24,530 --> 00:03:26,790
+for this configuration. The elements of 
+the seventh 
+
+95
+00:03:26,790 --> 00:03:29,350
+main group, the halogens, which are only 
+
+96
+00:03:29,350 --> 00:03:31,250
+missing one outer electron, are 
+
+97
+00:03:31,250 --> 00:03:33,550
+correspondingly reactive and have high 
+
+98
+00:03:33,550 --> 00:03:35,730
+electronegativities. 
+
+99
+00:03:35,730 --> 00:03:38,910
+Electronegativity, or En for short, is 
+
+100
+00:03:38,910 --> 00:03:40,750
+the relative measure of 
+
+101
+00:03:40,750 --> 00:03:42,370
+an atom's ability to attract electrons 
+
+102
+00:03:42,370 --> 00:03:44,170
+. The higher the 
+
+103
+00:03:44,170 --> 00:03:46,390
+electronegativity, the stronger 
+
+104
+00:03:46,390 --> 00:03:47,870
+the respective atom attracts the 
+
+105
+00:03:47,870 --> 00:03:49,850
+electrons of the bond. The 
+
+106
+00:03:49,850 --> 00:03:51,690
+electronegativity of an element 
+
+107
+00:03:51,690 --> 00:03:54,890
+can be read off in the PSE. Within 
+
+108
+00:03:54,890 --> 00:03:55,930
+the main groups, the 
+
+109
+00:03:55,930 --> 00:03:57,850
+electronegativity increases from left to 
+
+110
+00:03:57,850 --> 00:04:00,190
+right, i.e. from the first to the 
+
+111
+00:04:00,190 --> 00:04:02,350
+seventh main group. 
+
+112
+00:04:02,350 --> 00:04:04,310
+As the period increases, i.e. from top 
+
+113
+00:04:04,310 --> 00:04:05,410
+to bottom, the 
+
+114
+00:04:05,410 --> 00:04:08,350
+electronegativity decreases. Fluorine 
+
+115
+00:04:08,350 --> 00:04:11,330
+has the highest electronegativity at 4. 
+
+116
+00:04:11,330 --> 00:04:12,970
+The further to the left the main group is, 
+
+117
+00:04:13,050 --> 00:04:14,070
+the lower the 
+
+118
+00:04:14,070 --> 00:04:16,350
+electronegativity. 
+
+119
+00:04:16,350 --> 00:04:18,090
+
+120
+00:04:18,090 --> 00:04:19,230
+With their low 
+
+121
+00:04:19,230 --> 00:04:21,450
+electronegativity , elements from the 
+first to the third main group tend to 
+
+122
+00:04:21,450 --> 00:04:22,450
+give up electrons in order 
+
+123
+00:04:22,450 --> 00:04:24,570
+
+124
+00:04:24,570 --> 00:04:26,150
+
+125
+00:04:26,150 --> 00:04:28,250
+to achieve the electron configuration of 
+the noble gas of the period below. Sodium, 
+for example, would 
+
+126
+00:04:28,250 --> 00:04:30,090
+
+127
+00:04:30,090 --> 00:04:31,470
+
+128
+00:04:31,470 --> 00:04:33,130
+
+129
+00:04:33,130 --> 00:04:35,550
+achieve the noble gas configuration of the 
+preceding element neon by releasing its 
+valence electron. Magnesium also tends 
+
+130
+00:04:35,550 --> 00:04:37,190
+to give off two 
+
+131
+00:04:37,190 --> 00:04:38,630
+outer electrons during reaction in order 
+
+132
+00:04:38,630 --> 00:04:40,450
+
+133
+00:04:40,450 --> 00:04:42,870
+to have the electron configuration of neon 
+. Thank you for your 
+
+134
+00:04:42,870 --> 00:04:44,430
+attention. I hope this 
+
+135
+00:04:44,430 --> 00:04:46,170
+video has helped you to better 
+
+136
+00:04:46,170 --> 00:04:48,190
+understand the topic. See you 
+
+137
+00:04:48,190 --> 00:04:48,990
+next time. 

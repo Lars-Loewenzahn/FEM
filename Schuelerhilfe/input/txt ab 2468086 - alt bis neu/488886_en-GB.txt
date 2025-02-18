@@ -1,0 +1,1677 @@
+﻿1
+00:00:03,090 --> 00:00:06,750
+So, good evening to 
+
+2
+00:00:06,750 --> 00:00:09,710
+you all. My name is Sarah. 
+
+3
+00:00:09,710 --> 00:00:11,690
+Welcome to our presentation 
+
+4
+00:00:11,690 --> 00:00:13,810
+today. Today we will be 
+
+5
+00:00:13,810 --> 00:00:14,730
+discussing the topic of text comparison 
+
+6
+00:00:14,730 --> 00:00:18,250
+. First of all, 
+
+7
+00:00:18,250 --> 00:00:20,290
+you can all hear me. Just a 
+
+8
+00:00:20,290 --> 00:00:21,670
+quick message in the chat, please. 
+
+9
+00:00:23,620 --> 00:00:25,080
+I've just seen, has anyone 
+
+10
+00:00:25,080 --> 00:00:25,960
+new joined? 
+
+11
+00:00:30,520 --> 00:00:32,240
+Just give me some quick feedback, 
+
+12
+00:00:32,360 --> 00:00:34,340
+please. That would be great. 
+
+13
+00:00:34,340 --> 00:00:36,640
+Just via the chat. Okay, great. 
+
+14
+00:00:42,820 --> 00:00:45,560
+Okay, good. Then I'd say 
+
+15
+00:00:45,660 --> 00:00:47,920
+I'll just get started. I'll 
+
+16
+00:00:47,920 --> 00:00:50,040
+start by briefly introducing our program 
+
+17
+00:00:50,040 --> 00:00:52,160
+for today. We'll 
+
+18
+00:00:52,160 --> 00:00:54,580
+
+19
+00:00:54,580 --> 00:00:56,740
+talk about the basics of text comparison, 
+then we'll 
+
+20
+00:00:56,740 --> 00:00:58,720
+
+21
+00:00:58,720 --> 00:01:01,700
+
+22
+00:01:01,700 --> 00:01:03,960
+take a closer look at the procedure, how 
+we do it and the structure of a text 
+comparison. 
+
+23
+00:01:04,620 --> 00:01:06,820
+If you have any questions and there's 
+anything you 
+
+24
+00:01:06,820 --> 00:01:08,140
+don't understand or 
+
+25
+00:01:08,140 --> 00:01:09,940
+words you don't know, 
+
+26
+00:01:09,940 --> 00:01:11,580
+just write them to me in the chat 
+
+27
+00:01:11,580 --> 00:01:12,580
+and I'll try to 
+
+28
+00:01:12,580 --> 00:01:16,370
+answer them. So let's start with 
+
+29
+00:01:16,370 --> 00:01:18,550
+the basics. What is 
+
+30
+00:01:18,550 --> 00:01:20,450
+a text comparison anyway? A 
+
+31
+00:01:20,450 --> 00:01:21,630
+text comparison or a comparison 
+
+32
+00:01:21,630 --> 00:01:23,890
+in general is an examination of 
+
+33
+00:01:23,890 --> 00:01:27,350
+two texts for similarities and 
+
+34
+00:01:27,350 --> 00:01:30,070
+differences. It is very rare 
+
+35
+00:01:30,070 --> 00:01:32,210
+that you 
+
+36
+00:01:32,210 --> 00:01:33,810
+have to compare several texts with each 
+other, but 
+
+37
+00:01:33,810 --> 00:01:35,510
+this is rather unlikely. 
+
+38
+00:01:35,510 --> 00:01:37,790
+At school, it is usually the case that you 
+
+39
+00:01:37,790 --> 00:01:39,970
+only have two texts that you 
+
+40
+00:01:39,970 --> 00:01:41,570
+have to compare with each other. These 
+
+41
+00:01:41,570 --> 00:01:43,350
+can be non-fiction texts, 
+
+42
+00:01:43,350 --> 00:01:44,490
+but they can also be poems or 
+
+43
+00:01:44,490 --> 00:01:48,060
+short stories. We have 
+
+44
+00:01:48,060 --> 00:01:49,800
+different comparison criteria, 
+
+45
+00:01:49,860 --> 00:01:51,960
+i.e. what can we 
+
+46
+00:01:51,960 --> 00:01:53,760
+compare our text to ? What 
+
+47
+00:01:53,760 --> 00:01:54,960
+options do we have? 
+
+48
+00:01:55,660 --> 00:01:56,940
+One thing that always comes to mind, of 
+course, 
+
+49
+00:01:56,940 --> 00:01:59,800
+is the content. 
+
+50
+00:01:59,800 --> 00:02:03,020
+In other words, we look at what 
+
+51
+00:02:03,020 --> 00:02:04,820
+the text examines and how 
+
+52
+00:02:04,820 --> 00:02:07,220
+it examines it. Then the language. 
+
+53
+00:02:08,320 --> 00:02:11,720
+Theme and motifs, i.e. what 
+
+54
+00:02:11,720 --> 00:02:14,500
+does the author want to achieve with it, 
+
+55
+00:02:14,680 --> 00:02:18,060
+why is he doing it, the 
+
+56
+00:02:18,060 --> 00:02:19,980
+author 's intention , which target group 
+is being 
+
+57
+00:02:19,980 --> 00:02:22,140
+addressed, i.e. who is the text intended 
+to 
+
+58
+00:02:22,140 --> 00:02:24,480
+reach, what effect does the 
+
+59
+00:02:24,480 --> 00:02:27,080
+text have , what arguments does it put 
+forward, 
+
+60
+00:02:27,220 --> 00:02:28,360
+this is particularly useful with 
+
+61
+00:02:28,360 --> 00:02:31,580
+non-fiction texts, what is the structure 
+of 
+
+62
+00:02:31,580 --> 00:02:33,080
+the text, for example with 
+
+63
+00:02:33,080 --> 00:02:35,280
+poems, what form 
+
+64
+00:02:35,280 --> 00:02:38,520
+do we have , exactly. And that is usually 
+
+65
+00:02:38,520 --> 00:02:40,740
+a written elaboration 
+
+66
+00:02:40,740 --> 00:02:41,760
+of the comparison. 
+
+67
+00:02:45,270 --> 00:02:46,890
+So that brings us to the 
+
+68
+00:02:46,890 --> 00:02:51,010
+procedure. How do we do that? So, 
+
+69
+00:02:51,010 --> 00:02:53,150
+first of all, it's very, very important in 
+
+70
+00:02:53,150 --> 00:02:55,010
+the work, or even if you 
+
+71
+00:02:55,010 --> 00:02:56,310
+
+72
+00:02:56,310 --> 00:02:59,250
+'ve been given a work assignment , to 
+
+73
+00:02:59,250 --> 00:03:02,130
+
+74
+00:03:02,130 --> 00:03:04,210
+read through the texts or poems or 
+whatever very, very carefully . That is 
+important. Read the 
+
+75
+00:03:04,210 --> 00:03:05,970
+text several times if you 
+
+76
+00:03:05,970 --> 00:03:07,070
+don't quite 
+
+77
+00:03:07,070 --> 00:03:09,890
+understand it the first time. Then it is a 
+good 
+
+78
+00:03:09,890 --> 00:03:11,650
+idea to 
+
+79
+00:03:11,650 --> 00:03:13,870
+make bullet point summaries. 
+
+80
+00:03:13,870 --> 00:03:16,250
+This means, for example, that you can 
+
+81
+00:03:16,250 --> 00:03:18,050
+first 
+
+82
+00:03:18,050 --> 00:03:20,710
+look at poem A and poem B , then 
+
+83
+00:03:20,850 --> 00:03:23,550
+make notes on poem A, notes on poem B and 
+then 
+
+84
+00:03:23,550 --> 00:03:25,950
+see, okay, what similarities 
+
+85
+00:03:25,950 --> 00:03:29,010
+and differences do I have there? 
+
+86
+00:03:29,010 --> 00:03:31,230
+It could be, for example, that we 
+
+87
+00:03:31,230 --> 00:03:33,470
+have two poems that 
+
+88
+00:03:33,470 --> 00:03:35,510
+come from the same period, 
+
+89
+00:03:35,510 --> 00:03:37,370
+have the same theme, but 
+
+90
+00:03:37,370 --> 00:03:39,710
+deal with it in different ways. 
+
+91
+00:03:39,830 --> 00:03:41,270
+For example, one 
+
+92
+00:03:41,270 --> 00:03:43,490
+poem criticizes something and the other 
+poem 
+
+93
+00:03:43,490 --> 00:03:46,050
+speaks for something. That would be an 
+
+94
+00:03:46,050 --> 00:03:46,390
+example. 
+
+95
+00:03:51,670 --> 00:03:53,430
+Then we basically make a 
+
+96
+00:03:53,430 --> 00:03:55,270
+sketch. It's not about 
+
+97
+00:03:55,370 --> 00:03:57,270
+painting a picture, but 
+
+98
+00:03:57,270 --> 00:03:59,050
+about roughly 
+
+99
+00:03:59,050 --> 00:04:02,550
+recording the structure of a comparison 
+
+100
+00:04:02,550 --> 00:04:04,810
+with the notes we have already 
+
+101
+00:04:04,810 --> 00:04:07,410
+made and possibly adding to them. 
+
+102
+00:04:07,510 --> 00:04:08,930
+In other words, we build 
+
+103
+00:04:08,930 --> 00:04:11,150
+up a structure. 
+
+104
+00:04:11,150 --> 00:04:12,390
+I'll show you what this structure looks 
+like on the next 
+
+105
+00:04:12,390 --> 00:04:15,450
+slide or the one after that. Then it 
+
+106
+00:04:15,450 --> 00:04:17,410
+also makes sense to perhaps 
+
+107
+00:04:17,410 --> 00:04:19,410
+create a table with comparative features 
+and 
+
+108
+00:04:19,410 --> 00:04:21,590
+two columns for each text. 
+
+109
+00:04:21,590 --> 00:04:23,090
+In other words, you think about 
+
+110
+00:04:23,090 --> 00:04:24,730
+exactly which features I want to 
+
+111
+00:04:24,730 --> 00:04:27,290
+compare . Of course, you may 
+
+112
+00:04:27,290 --> 00:04:29,610
+not be able to do all of them depending on 
+time, but there are 
+
+113
+00:04:29,610 --> 00:04:31,530
+definitely some that 
+
+114
+00:04:31,530 --> 00:04:33,210
+are predominant and more important 
+
+115
+00:04:33,210 --> 00:04:36,170
+. The 
+
+116
+00:04:36,170 --> 00:04:38,390
+formulation in the 
+
+117
+00:04:38,390 --> 00:04:38,870
+present is very important. 
+
+118
+00:04:41,730 --> 00:04:44,770
+So, the first step is to find 
+
+119
+00:04:44,770 --> 00:04:46,370
+the starting point for the comparison. 
+
+120
+00:04:47,130 --> 00:04:50,170
+So, where do we actually start? 
+
+121
+00:04:50,830 --> 00:04:53,050
+We look at the hypothesis for the 
+
+122
+00:04:53,050 --> 00:04:55,730
+respective statement intentions and 
+
+123
+00:04:55,730 --> 00:04:57,910
+write them down. In other words, we 
+
+124
+00:04:57,910 --> 00:05:00,630
+think about what the author might 
+
+125
+00:05:00,630 --> 00:05:02,450
+have meant, what he 
+
+126
+00:05:02,450 --> 00:05:04,470
+might want to tell us. We 
+
+127
+00:05:04,470 --> 00:05:06,030
+don't always know that , especially in 
+poems 
+
+128
+00:05:06,030 --> 00:05:08,010
+, it doesn't say that the poet 
+
+129
+00:05:08,010 --> 00:05:09,110
+wrote, I want to 
+
+130
+00:05:09,110 --> 00:05:11,530
+tell you that nature 
+
+131
+00:05:11,530 --> 00:05:13,570
+is beautiful or something like that. 
+That's 
+
+132
+00:05:13,570 --> 00:05:14,790
+usually not what it says, but something 
+
+133
+00:05:14,790 --> 00:05:16,490
+we have to infer, we as 
+
+134
+00:05:16,490 --> 00:05:19,250
+readers. And we formulate 
+
+135
+00:05:19,250 --> 00:05:20,910
+a hypothesis about it , i.e. what it 
+
+136
+00:05:20,910 --> 00:05:22,170
+will probably be about, 
+
+137
+00:05:22,890 --> 00:05:24,390
+or what 
+
+138
+00:05:24,390 --> 00:05:27,230
+the aim of the text in question is likely 
+to be. 
+
+139
+00:05:28,730 --> 00:05:30,230
+What is the same in both topics? 
+
+140
+00:05:30,490 --> 00:05:33,530
+In other words, theme, motifs 
+
+141
+00:05:33,530 --> 00:05:35,950
+, form, time and 
+
+142
+00:05:36,070 --> 00:05:38,150
+place of origin and what do they want to 
+
+143
+00:05:38,150 --> 00:05:40,790
+convey? In the second step, 
+
+144
+00:05:40,790 --> 00:05:43,850
+
+145
+00:05:43,850 --> 00:05:46,110
+we analyze each text individually and 
+interpret 
+
+146
+00:05:46,110 --> 00:05:48,330
+it. In other words, we look at the 
+
+147
+00:05:48,330 --> 00:05:51,890
+language, we 
+
+148
+00:05:51,890 --> 00:05:53,890
+may look at the theses or the 
+
+149
+00:05:53,890 --> 00:05:56,410
+author 's statements and then we interpret 
+them. What 
+
+150
+00:05:56,410 --> 00:05:57,710
+does the author want to tell us? 
+
+151
+00:05:57,870 --> 00:06:00,090
+With poems in particular, 
+
+152
+00:06:00,090 --> 00:06:01,350
+we often 
+
+153
+00:06:01,350 --> 00:06:03,470
+have to interpret a lot and we do this for 
+each 
+
+154
+00:06:03,470 --> 00:06:06,250
+text individually. We then find 
+
+155
+00:06:06,250 --> 00:06:08,150
+out what is special about 
+
+156
+00:06:08,150 --> 00:06:10,930
+the text and what significance 
+
+157
+00:06:10,930 --> 00:06:12,830
+the special features have for the effect 
+of 
+
+158
+00:06:12,830 --> 00:06:16,190
+the text. For example, if 
+
+159
+00:06:16,190 --> 00:06:17,730
+someone uses a lot of metaphors in their 
+
+160
+00:06:17,730 --> 00:06:19,350
+poem, what effect does that have on 
+
+161
+00:06:19,350 --> 00:06:20,310
+you as a reader? 
+
+162
+00:06:22,940 --> 00:06:24,900
+In the third step, we 
+
+163
+00:06:24,900 --> 00:06:26,160
+now compare the two texts with each other. 
+
+164
+00:06:26,520 --> 00:06:28,420
+In other words, we first have text A, 
+
+165
+00:06:28,560 --> 00:06:31,400
+then text B and now we 
+
+166
+00:06:31,400 --> 00:06:33,180
+basically merge them together. 
+
+167
+00:06:33,180 --> 00:06:35,960
+In other words, which aspects are suitable 
+
+168
+00:06:35,960 --> 00:06:37,120
+for comparison? 
+
+169
+00:06:37,120 --> 00:06:38,740
+We then have to think about that. Where 
+
+170
+00:06:38,740 --> 00:06:41,720
+are the differences? And what 
+
+171
+00:06:41,720 --> 00:06:43,960
+is perhaps also similar? And how 
+
+172
+00:06:43,960 --> 00:06:45,520
+can these differences be explained? 
+
+173
+00:06:45,740 --> 00:06:47,780
+Why do they arise? In other words 
+
+174
+00:06:47,820 --> 00:06:50,380
+, it doesn't make sense to always 
+
+175
+00:06:50,380 --> 00:06:52,160
+pick out the points where everything 
+
+176
+00:06:52,160 --> 00:06:53,620
+is the same. That doesn't really 
+
+177
+00:06:53,620 --> 00:06:54,800
+provide much of a comparison, because then 
+
+178
+00:06:54,800 --> 00:06:55,900
+I wouldn't have to compare the texts with 
+each other 
+
+179
+00:06:55,900 --> 00:06:58,040
+, but I would 
+
+180
+00:06:58,040 --> 00:06:59,640
+also look at the differences. 
+
+181
+00:07:00,640 --> 00:07:02,240
+Of course, if we say, okay, we 
+
+182
+00:07:02,240 --> 00:07:03,500
+now have two texts that 
+
+183
+00:07:03,500 --> 00:07:08,220
+deal with the same topic 
+
+184
+00:07:08,300 --> 00:07:09,500
+, then that is of course a 
+
+185
+00:07:09,500 --> 00:07:11,360
+similarity 
+
+186
+00:07:11,360 --> 00:07:14,420
+that is worth mentioning. But we 
+
+187
+00:07:14,420 --> 00:07:16,700
+don't say something like, yes, the 
+structure is 
+
+188
+00:07:16,700 --> 00:07:17,920
+exactly the same. It doesn't 
+
+189
+00:07:17,920 --> 00:07:19,480
+necessarily have to be. We 
+
+190
+00:07:19,480 --> 00:07:23,600
+also look at the differences. And at the 
+
+191
+00:07:23,600 --> 00:07:25,420
+end we make a 
+
+192
+00:07:25,420 --> 00:07:25,940
+statement. 
+
+193
+00:07:25,940 --> 00:07:27,640
+An opinion or an assessment 
+
+194
+00:07:27,640 --> 00:07:31,520
+. In other words, what is important to the 
+
+195
+00:07:31,520 --> 00:07:34,240
+two authors? How do they convey 
+
+196
+00:07:34,240 --> 00:07:37,440
+this message? Perhaps also, which 
+
+197
+00:07:37,440 --> 00:07:39,980
+is more convincing? Which text is 
+
+198
+00:07:39,980 --> 00:07:41,720
+more convincing? Which one is less 
+
+199
+00:07:41,720 --> 00:07:43,420
+convincing and why? That would be 
+
+200
+00:07:43,420 --> 00:07:44,740
+something you 
+
+201
+00:07:44,740 --> 00:07:47,980
+could do, for example. And how can today's 
+
+202
+00:07:47,980 --> 00:07:49,400
+readers deal with this? This is 
+
+203
+00:07:49,400 --> 00:07:51,040
+particularly relevant when texts 
+
+204
+00:07:51,040 --> 00:07:53,040
+are very, very old. So 
+
+205
+00:07:56,260 --> 00:07:57,860
+now we come to the more precise 
+
+206
+00:07:57,860 --> 00:08:01,860
+structure. As always, as with 
+
+207
+00:08:01,860 --> 00:08:04,280
+every essay , we have an introduction, 
+main body 
+
+208
+00:08:04,280 --> 00:08:07,320
+and conclusion. We start, of course, 
+
+209
+00:08:07,320 --> 00:08:09,780
+with an introductory sentence. There we 
+
+210
+00:08:09,780 --> 00:08:12,280
+mention the names of both authors 
+
+211
+00:08:12,340 --> 00:08:14,860
+, i.e. both texts, the two titles 
+
+212
+00:08:14,860 --> 00:08:17,340
+and the two publication dates and 
+
+213
+00:08:17,340 --> 00:08:20,660
+places. Then we 
+
+214
+00:08:20,660 --> 00:08:24,060
+briefly present the content of each text. 
+
+215
+00:08:24,080 --> 00:08:28,340
+It's important not to be too precise 
+
+216
+00:08:28,340 --> 00:08:30,020
+, but really short and 
+
+217
+00:08:30,020 --> 00:08:34,240
+concise. What is it about? What is 
+
+218
+00:08:34,240 --> 00:08:36,060
+roughly the plot? 
+
+219
+00:08:36,060 --> 00:08:39,020
+Things like that. Then we place the whole 
+thing in 
+
+220
+00:08:39,020 --> 00:08:40,620
+a social, political 
+
+221
+00:08:40,620 --> 00:08:43,480
+and/or literary context 
+
+222
+00:08:43,480 --> 00:08:46,600
+. That means we look at 
+
+223
+00:08:46,600 --> 00:08:48,780
+the time in which the poem 
+
+224
+00:08:48,780 --> 00:08:51,380
+was published 
+
+225
+00:08:51,380 --> 00:08:53,760
+and then think, okay, what happened during 
+that time 
+
+226
+00:08:53,760 --> 00:08:55,760
+? For example, what happened during 
+
+227
+00:08:55,760 --> 00:08:58,300
+the Second World War or the 
+
+228
+00:08:58,300 --> 00:09:00,620
+First World War? Then we can 
+
+229
+00:09:00,620 --> 00:09:02,940
+think, okay, what would be the 
+
+230
+00:09:02,940 --> 00:09:04,920
+political context in it? 
+
+231
+00:09:04,920 --> 00:09:07,000
+But it can also be literary, 
+
+232
+00:09:07,000 --> 00:09:08,760
+which means we look at the 
+
+233
+00:09:08,760 --> 00:09:10,640
+time in which it was written, which era 
+
+234
+00:09:10,640 --> 00:09:14,500
+it is. Exactly. And then we 
+
+235
+00:09:14,500 --> 00:09:16,420
+present the comparative framework, i.e. 
+
+236
+00:09:16,620 --> 00:09:19,120
+we look at whether we want to look at the 
+topic 
+
+237
+00:09:19,120 --> 00:09:22,320
+or the motif, the 
+
+238
+00:09:22,320 --> 00:09:23,740
+argumentation patterns and the structure 
+
+239
+00:09:23,740 --> 00:09:25,820
+of the texts. That's the 
+
+240
+00:09:25,820 --> 00:09:26,900
+transition to the main part , so to speak. 
+
+241
+00:09:34,140 --> 00:09:37,540
+Then we 
+
+242
+00:09:37,540 --> 00:09:41,040
+move on to the main part. The aim here is 
+to 
+
+243
+00:09:41,040 --> 00:09:44,880
+identify similarities or 
+
+244
+00:09:44,880 --> 00:09:46,080
+differences in content. In other words, we 
+
+245
+00:09:46,080 --> 00:09:47,520
+first concentrate on the 
+
+246
+00:09:47,520 --> 00:09:50,200
+content. Of course, we 
+
+247
+00:09:50,200 --> 00:09:54,200
+first need to 
+
+248
+00:09:54,200 --> 00:09:56,120
+
+249
+00:09:56,120 --> 00:09:57,800
+have analyzed the texts in full, as 
+already mentioned below. We 
+
+250
+00:09:57,800 --> 00:09:59,920
+can't 
+
+251
+00:09:59,920 --> 00:10:02,840
+identify any similarities or differences 
+if we 
+
+252
+00:10:02,840 --> 00:10:05,100
+haven't yet 
+
+253
+00:10:05,100 --> 00:10:06,740
+taken a closer look at the texts. You 
+
+254
+00:10:06,740 --> 00:10:08,420
+always have to imagine that you're 
+
+255
+00:10:08,420 --> 00:10:10,200
+writing a text for someone who 
+
+256
+00:10:10,200 --> 00:10:12,880
+doesn't have both texts in front of them. 
+This 
+
+257
+00:10:12,880 --> 00:10:14,580
+doesn't mean that you 
+
+258
+00:10:14,580 --> 00:10:17,840
+quote the entire text in full and 
+
+259
+00:10:17,840 --> 00:10:19,280
+reproduce it in full , but also the 
+
+260
+00:10:19,280 --> 00:10:22,160
+most important building blocks of the 
+texts so that 
+
+261
+00:10:22,160 --> 00:10:24,940
+someone who 
+
+262
+00:10:24,940 --> 00:10:27,000
+doesn't know the texts you have 
+
+263
+00:10:27,120 --> 00:10:29,200
+can understand what you're 
+
+264
+00:10:29,200 --> 00:10:30,980
+actually talking about . That is always 
+very, 
+
+265
+00:10:31,040 --> 00:10:32,620
+very important. But that doesn't just 
+apply 
+
+266
+00:10:32,620 --> 00:10:34,260
+to text comparison, but also 
+
+267
+00:10:34,260 --> 00:10:36,520
+to interpretation, 
+
+268
+00:10:36,520 --> 00:10:38,180
+text summaries, 
+
+269
+00:10:38,180 --> 00:10:40,480
+text descriptions and things like that. 
+
+270
+00:10:41,000 --> 00:10:44,060
+And of course we also look at the 
+
+271
+00:10:44,060 --> 00:10:46,120
+linguistic aspects. Because 
+
+272
+00:10:46,120 --> 00:10:49,080
+you can often 
+
+273
+00:10:49,080 --> 00:10:50,720
+find similarities or differences 
+
+274
+00:10:51,310 --> 00:10:53,180
+that can also be linked very well to the 
+
+275
+00:10:53,180 --> 00:10:55,520
+temporal aspects. 
+
+276
+00:10:55,720 --> 00:10:58,940
+For example, there are certain 
+
+277
+00:10:58,940 --> 00:11:01,940
+linguistic phenomena that 
+
+278
+00:11:01,940 --> 00:11:03,740
+appear a lot in a certain era. 
+
+279
+00:11:03,760 --> 00:11:06,800
+or we think 
+
+280
+00:11:06,800 --> 00:11:08,220
+, okay, it's a modern text 
+
+281
+00:11:08,440 --> 00:11:10,080
+that's not too old yet. 
+
+282
+00:11:10,340 --> 00:11:11,540
+For example, does it use a lot of 
+
+283
+00:11:11,540 --> 00:11:14,000
+everyday language, which wasn 
+
+284
+00:11:14,000 --> 00:11:17,140
+'t necessarily typical in the past ? 
+
+285
+00:11:17,140 --> 00:11:18,380
+We then look at things like that 
+
+286
+00:11:18,380 --> 00:11:20,940
+. Exactly, so for the typical 
+
+287
+00:11:20,940 --> 00:11:23,360
+approach, as I said, we 
+
+288
+00:11:23,360 --> 00:11:26,160
+first analyze text A and 
+
+289
+00:11:26,160 --> 00:11:28,500
+then text B. Make sure you 
+
+290
+00:11:28,500 --> 00:11:29,680
+don't mix them up, because 
+
+291
+00:11:29,680 --> 00:11:31,420
+otherwise you'll get confused and the 
+
+292
+00:11:31,420 --> 00:11:34,900
+reader will get confused. Then, on this 
+
+293
+00:11:34,900 --> 00:11:37,540
+basis of analysis, you compare the 
+
+294
+00:11:37,540 --> 00:11:40,500
+two texts and then 
+
+295
+00:11:40,500 --> 00:11:42,480
+
+296
+00:11:42,480 --> 00:11:44,860
+
+297
+00:11:44,860 --> 00:11:49,260
+take a closer look at the given or 
+self-selected aspects of comparison. This 
+means, as 
+
+298
+00:11:49,260 --> 00:11:53,200
+I said, sometimes the 
+
+299
+00:11:53,200 --> 00:11:54,960
+task already specifies what 
+
+300
+00:11:54,960 --> 00:11:56,560
+you should compare, for example 
+
+301
+00:11:56,560 --> 00:12:00,320
+the motifs or especially the language 
+
+302
+00:12:00,320 --> 00:12:03,080
+or especially the... topic or the 
+
+303
+00:12:03,080 --> 00:12:04,940
+theses. For example, 
+
+304
+00:12:05,060 --> 00:12:06,880
+you may 
+
+305
+00:12:06,880 --> 00:12:09,300
+have to compare two factual texts where 
+one person 
+
+306
+00:12:09,300 --> 00:12:12,080
+is arguing for something and the 
+
+307
+00:12:12,080 --> 00:12:14,140
+other person is arguing against something 
+and then 
+
+308
+00:12:14,140 --> 00:12:14,860
+you have to 
+
+309
+00:12:14,860 --> 00:12:17,780
+compare them. Or, as 
+
+310
+00:12:17,780 --> 00:12:20,140
+I said , you select aspects of 
+self-comparison. 
+
+311
+00:12:21,500 --> 00:12:23,080
+And in this analysis, 
+
+312
+00:12:23,140 --> 00:12:25,220
+or in the second step, 
+
+313
+00:12:25,380 --> 00:12:27,660
+you then compare 
+
+314
+00:12:27,660 --> 00:12:29,360
+the texts 
+
+315
+00:12:29,360 --> 00:12:33,180
+with each other on the basis of these 
+aspects. In most cases, a 
+
+316
+00:12:33,180 --> 00:12:35,480
+complete comparison is not made. This 
+
+317
+00:12:35,480 --> 00:12:37,140
+means that you cannot 
+
+318
+00:12:37,140 --> 00:12:38,240
+
+319
+00:12:38,240 --> 00:12:40,600
+compare every single point. Especially in 
+
+320
+00:12:40,600 --> 00:12:42,340
+school work, time 
+
+321
+00:12:42,340 --> 00:12:45,160
+does not allow for this at all. This means 
+that 
+
+322
+00:12:45,160 --> 00:12:46,620
+
+323
+00:12:46,620 --> 00:12:48,380
+if 
+
+324
+00:12:48,380 --> 00:12:50,060
+you have to pick out really concise 
+passages yourself and then compare them 
+
+325
+00:12:50,060 --> 00:12:51,520
+. Then 
+
+326
+00:12:55,070 --> 00:12:56,030
+we come to the 
+
+327
+00:12:56,030 --> 00:12:58,390
+final part. Here we summarize the 
+
+328
+00:12:58,390 --> 00:13:01,350
+results taking 
+
+329
+00:13:01,350 --> 00:13:04,190
+the aspects into account. In other words, 
+we 
+
+330
+00:13:04,190 --> 00:13:05,570
+don't suddenly 
+
+331
+00:13:05,570 --> 00:13:07,470
+pull up something completely different and 
+
+332
+00:13:07,470 --> 00:13:09,510
+continue to analyze and compare 
+
+333
+00:13:09,510 --> 00:13:11,470
+. That's not the point, 
+
+334
+00:13:11,550 --> 00:13:14,230
+but we look at what 
+
+335
+00:13:14,230 --> 00:13:16,110
+we've already done before 
+
+336
+00:13:16,110 --> 00:13:18,610
+and try to 
+
+337
+00:13:18,610 --> 00:13:22,150
+draw a conclusion. With literary texts, 
+
+338
+00:13:22,150 --> 00:13:24,070
+it also makes sense to 
+
+339
+00:13:24,070 --> 00:13:25,670
+
+340
+00:13:25,670 --> 00:13:27,950
+
+341
+00:13:27,950 --> 00:13:30,310
+convey the differences based on the 
+publication of the works or in the 
+existing epoch . to look at, especially in 
+the 
+
+342
+00:13:30,310 --> 00:13:31,590
+final section. That's what I 
+
+343
+00:13:31,590 --> 00:13:33,630
+said earlier, that you 
+
+344
+00:13:33,630 --> 00:13:34,790
+then consider, I don't know, 
+
+345
+00:13:34,830 --> 00:13:36,550
+if this 
+
+346
+00:13:36,550 --> 00:13:38,570
+was written during the war, for example, 
+or if the 
+
+347
+00:13:38,570 --> 00:13:40,470
+two poems 
+
+348
+00:13:41,170 --> 00:13:43,310
+were written at the same time , then let's 
+
+349
+00:13:43,310 --> 00:13:46,170
+just look at, okay, how does one 
+
+350
+00:13:46,170 --> 00:13:47,870
+poet deal with the topic and how does 
+
+351
+00:13:47,870 --> 00:13:51,050
+the other? With non-fiction texts, for 
+
+352
+00:13:51,050 --> 00:13:52,930
+example, it makes sense to 
+
+353
+00:13:52,930 --> 00:13:55,010
+
+354
+00:13:55,010 --> 00:13:57,290
+examine the coherence of the arguments and 
+the persuasiveness. 
+
+355
+00:13:57,790 --> 00:14:01,050
+In other words, which side 
+
+356
+00:14:01,050 --> 00:14:03,170
+convinced me more? Am I 
+
+357
+00:14:03,170 --> 00:14:05,230
+now more likely to think that person A 
+
+358
+00:14:05,230 --> 00:14:07,790
+was right in what they said, 
+
+359
+00:14:07,870 --> 00:14:10,050
+or rather person B? And why is that the 
+
+360
+00:14:10,050 --> 00:14:11,490
+case? How valid are the 
+
+361
+00:14:11,490 --> 00:14:14,110
+arguments? 
+
+362
+00:14:14,110 --> 00:14:17,890
+
+363
+00:14:17,890 --> 00:14:20,030
+Do I like the meaning or the examples that 
+the person has chosen, do I like them or 
+
+364
+00:14:20,030 --> 00:14:20,950
+not? And why? 
+
+365
+00:14:24,110 --> 00:14:26,130
+Exactly. And at the end, it makes sense to 
+
+366
+00:14:26,250 --> 00:14:27,930
+
+367
+00:14:27,930 --> 00:14:30,990
+
+368
+00:14:30,990 --> 00:14:33,650
+conclude the whole thing with a personal 
+statement. In other words, in this 
+
+369
+00:14:33,650 --> 00:14:35,410
+part you can also express yourself 
+personally 
+
+370
+00:14:35,410 --> 00:14:37,870
+or yourself about a topic or about 
+
+371
+00:14:37,870 --> 00:14:40,810
+the two texts. 
+
+372
+00:14:40,810 --> 00:14:42,230
+Of course, it is important that you 
+
+373
+00:14:42,230 --> 00:14:44,770
+remain objective and do not 
+
+374
+00:14:44,770 --> 00:14:46,690
+argue from a first-person perspective. In 
+other words, don't 
+
+375
+00:14:46,690 --> 00:14:49,790
+use I think so, but 
+
+376
+00:14:49,790 --> 00:14:51,910
+relate it to a wider context. 
+
+377
+00:14:51,910 --> 00:14:53,690
+The text is not about your 
+
+378
+00:14:53,690 --> 00:14:57,310
+opinion as such, but 
+
+379
+00:14:57,310 --> 00:14:59,410
+about you 
+
+380
+00:14:59,410 --> 00:15:02,090
+
+381
+00:15:02,090 --> 00:15:03,310
+presenting the whole thing as objectively 
+and clearly as possible. 
+
+382
+00:15:05,280 --> 00:15:08,680
+So, we've actually come to the 
+
+383
+00:15:08,680 --> 00:15:11,320
+end of our presentation. 
+
+384
+00:15:11,580 --> 00:15:13,280
+But now I'd like to ask 
+
+385
+00:15:13,400 --> 00:15:15,440
+if you have any questions 
+
+386
+00:15:15,440 --> 00:15:17,520
+about the topic. What did you not 
+
+387
+00:15:17,520 --> 00:15:19,160
+understand? What was difficult for you 
+
+388
+00:15:19,160 --> 00:15:22,460
+? Or anything else? Things. 
+
+389
+00:15:23,200 --> 00:15:24,580
+Feel free to give feedback. 
+
+390
+00:15:49,100 --> 00:15:50,640
+Are there any 
+
+391
+00:15:50,640 --> 00:15:50,960
+questions so far ? 
+
+392
+00:16:12,160 --> 00:16:15,500
+Okay, apparently there are no questions. 
+
+393
+00:16:17,540 --> 00:16:19,100
+If 
+
+394
+00:16:19,100 --> 00:16:20,540
+you want me to go back to a slide , that's 
+of course 
+
+395
+00:16:20,540 --> 00:16:23,180
+no problem. Then I can do that 
+
+396
+00:16:23,180 --> 00:16:24,900
+too. We 
+
+397
+00:16:29,450 --> 00:16:31,170
+can also, if you like, 
+
+398
+00:16:31,250 --> 00:16:33,210
+I see the others have all 
+
+399
+00:16:33,210 --> 00:16:34,970
+disappeared, we can also 
+
+400
+00:16:34,970 --> 00:16:36,290
+
+401
+00:16:36,290 --> 00:16:39,410
+look at a sample task again if you're 
+interested 
+
+402
+00:16:39,410 --> 00:16:40,970
+. Then it would be great if you could give 
+me 
+
+403
+00:16:40,970 --> 00:16:42,430
+some feedback. 
+
+404
+00:16:51,720 --> 00:16:54,960
+You don't have any questions. Okay, then 
+
+405
+00:16:54,960 --> 00:16:56,320
+I wish you, 
+
+406
+00:16:56,320 --> 00:16:57,660
+unfortunately the others have already 
+left, but you're still 
+
+407
+00:16:57,660 --> 00:16:59,360
+here, then I wish you a 
+
+408
+00:16:59,360 --> 00:17:00,940
+nice evening. Thank you for your 
+
+409
+00:17:00,940 --> 00:17:02,920
+attention and see you soon. 

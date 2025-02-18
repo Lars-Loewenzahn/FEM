@@ -1,0 +1,667 @@
+﻿1
+00:00:04,020 --> 00:00:06,480
+Hello, my name is Joshua and I 
+
+2
+00:00:06,480 --> 00:00:07,600
+am a tutor 
+
+3
+00:00:07,600 --> 00:00:09,460
+at Schülerhilfe. I'm pleased to explain 
+
+4
+00:00:09,460 --> 00:00:11,200
+the topic of oxidation and 
+
+5
+00:00:11,200 --> 00:00:13,820
+reduction to you today. In addition to 
+
+6
+00:00:13,820 --> 00:00:15,300
+this video, you can 
+
+7
+00:00:15,300 --> 00:00:17,240
+also find a 
+
+8
+00:00:17,240 --> 00:00:18,780
+wiki on this topic in our online learning 
+center, 
+
+9
+00:00:19,020 --> 00:00:20,740
+where the most important terms 
+
+10
+00:00:20,740 --> 00:00:22,960
+and basics are explained. 
+
+11
+00:00:22,960 --> 00:00:24,960
+
+12
+00:00:24,960 --> 00:00:27,120
+We encounter the processes of oxidation 
+and reduction every day, for example in 
+
+13
+00:00:27,120 --> 00:00:29,060
+the form of combustion reactions or 
+
+14
+00:00:29,060 --> 00:00:31,520
+the rusting of metals. These two 
+
+15
+00:00:31,520 --> 00:00:33,140
+optically and kinetically very 
+
+16
+00:00:33,140 --> 00:00:35,060
+different processes are based on 
+
+17
+00:00:35,060 --> 00:00:36,600
+the reaction with oxygen. 
+
+18
+00:00:37,320 --> 00:00:39,640
+Oxidation and reduction are always 
+
+19
+00:00:39,640 --> 00:00:41,040
+
+20
+00:00:41,040 --> 00:00:43,580
+associated with electron transfer. During 
+a reduction, 
+
+21
+00:00:43,580 --> 00:00:46,080
+electrons are 
+
+22
+00:00:46,080 --> 00:00:48,260
+taken up by an atom, ion or molecule and 
+the 
+
+23
+00:00:48,260 --> 00:00:51,540
+oxidation number, Oz, of the same is 
+
+24
+00:00:51,540 --> 00:00:53,820
+reduced. Reduction 
+
+25
+00:00:53,820 --> 00:00:55,160
+is always accompanied by 
+
+26
+00:00:55,160 --> 00:00:56,820
+oxidation, in which electrons 
+
+27
+00:00:56,820 --> 00:00:59,120
+are released. And this increases 
+
+28
+00:00:59,120 --> 00:01:01,220
+the oxidation number. The term 
+
+29
+00:01:01,220 --> 00:01:03,160
+oxidation was chosen because it 
+
+30
+00:01:03,160 --> 00:01:04,680
+often involves a reaction with 
+
+31
+00:01:04,680 --> 00:01:05,760
+oxygen and 
+
+32
+00:01:05,760 --> 00:01:07,540
+oxygen compounds 
+
+33
+00:01:07,540 --> 00:01:10,160
+are referred to as oxides . Oxidation and 
+
+34
+00:01:10,160 --> 00:01:11,560
+reduction are fundamentally 
+
+35
+00:01:11,560 --> 00:01:13,960
+coupled. This means that one 
+
+36
+00:01:13,960 --> 00:01:15,760
+cannot take place without the other. 
+
+37
+00:01:15,760 --> 00:01:18,800
+They belong together like the north 
+
+38
+00:01:18,800 --> 00:01:20,740
+and south poles of a magnet. 
+
+39
+00:01:21,020 --> 00:01:22,620
+Corresponding reactions are 
+
+40
+00:01:22,620 --> 00:01:25,340
+called redox reactions. In the following, 
+
+41
+00:01:25,340 --> 00:01:26,640
+I would like to explain a 
+
+42
+00:01:26,640 --> 00:01:28,660
+redox reaction that many people 
+
+43
+00:01:28,660 --> 00:01:30,980
+are probably already familiar with. It 
+
+44
+00:01:30,980 --> 00:01:32,900
+is the oxyhydrogen reaction, 
+
+45
+00:01:32,900 --> 00:01:34,360
+in which hydrogen 
+
+46
+00:01:34,360 --> 00:01:37,260
+reacts with oxygen to form water. The 
+
+47
+00:01:37,260 --> 00:01:38,800
+reactants of this reaction are 
+
+48
+00:01:38,800 --> 00:01:40,260
+elementary oxygen and 
+
+49
+00:01:40,260 --> 00:01:42,900
+hydrogen, both of which are biatomic 
+
+50
+00:01:42,900 --> 00:01:44,520
+, i.e. 
+
+51
+00:01:44,520 --> 00:01:46,960
+composed of two atoms , and 
+
+52
+00:01:46,960 --> 00:01:48,860
+
+53
+00:01:48,860 --> 00:01:51,800
+have oxidation numbers of 0 , just like 
+all elementary compounds . The 
+
+54
+00:01:51,800 --> 00:01:53,620
+oxidation numbers are written in 
+
+55
+00:01:53,620 --> 00:01:55,560
+Roman numerals above the elements, 
+
+56
+00:01:55,560 --> 00:01:57,080
+as you can see here in the illustration 
+
+57
+00:01:57,080 --> 00:01:59,720
+. Oxygen 
+
+58
+00:01:59,720 --> 00:02:01,680
+is the oxidizing agent that 
+
+59
+00:02:01,680 --> 00:02:03,620
+is itself reduced, as each 
+
+60
+00:02:03,620 --> 00:02:05,900
+oxygen atom takes 
+
+61
+00:02:05,900 --> 00:02:07,900
+up two electrons during the reaction to 
+form water, 
+
+62
+00:02:08,060 --> 00:02:10,440
+
+63
+00:02:10,440 --> 00:02:12,660
+reducing its oxidation number from 0 to 
+minus 2. 
+
+64
+00:02:13,220 --> 00:02:14,700
+At the same time, hydrogen is 
+
+65
+00:02:14,700 --> 00:02:17,340
+oxidized. Each hydrogen atom gives 
+
+66
+00:02:17,340 --> 00:02:19,200
+up one electron, which increases the 
+
+67
+00:02:19,200 --> 00:02:21,980
+oxidation number from 0 to plus 1 
+
+68
+00:02:21,980 --> 00:02:24,740
+. In total, 
+
+69
+00:02:24,740 --> 00:02:26,980
+
+70
+00:02:26,980 --> 00:02:29,340
+four electrons are 
+
+71
+00:02:29,340 --> 00:02:32,880
+transferred during this reaction, which 
+produces two particles of water. The 
+
+72
+00:02:32,880 --> 00:02:34,880
+oxidation and reduction sub-processes 
+
+73
+00:02:34,880 --> 00:02:36,980
+can also be represented individually. For 
+the 
+
+74
+00:02:36,980 --> 00:02:39,260
+reduction of one molecule of oxygen 
+
+75
+00:02:39,260 --> 00:02:41,740
+, four electrons are required, whereas 
+
+76
+00:02:41,740 --> 00:02:43,900
+two molecules 
+
+77
+00:02:43,900 --> 00:02:46,220
+of hydrogen must be used for oxidation . 
+These 
+
+78
+00:02:46,220 --> 00:02:49,220
+two H2 particles give up 4 electrons 
+
+79
+00:02:49,220 --> 00:02:51,600
+. In order to 
+
+80
+00:02:51,600 --> 00:02:53,800
+write down the reaction equation of a 
+redox reaction correctly, 
+
+81
+00:02:53,880 --> 00:02:55,820
+it is important to note that the 
+
+82
+00:02:55,820 --> 00:02:57,180
+number of 
+
+83
+00:02:57,180 --> 00:02:59,040
+electrons taken up in the oxidation 
+
+84
+00:02:59,040 --> 00:03:00,420
+
+85
+00:03:00,420 --> 00:03:02,600
+corresponds to the number of electrons 
+released in the reduction . 
+
+86
+00:03:03,220 --> 00:03:05,040
+To determine the oxidation number 
+
+87
+00:03:05,040 --> 00:03:06,540
+of an element in a 
+
+88
+00:03:06,540 --> 00:03:08,320
+ non-elemental compound, for 
+
+89
+00:03:08,320 --> 00:03:09,660
+example oxygen in a 
+
+90
+00:03:09,660 --> 00:03:11,820
+water molecule, it is usually sufficient 
+to look at 
+
+91
+00:03:11,820 --> 00:03:14,380
+the periodic table. Elements of the 
+
+92
+00:03:14,380 --> 00:03:15,840
+first main group in 
+
+93
+00:03:15,840 --> 00:03:17,680
+compounds 
+
+94
+00:03:17,680 --> 00:03:19,560
+tend to give up an electron and therefore 
+usually have an 
+
+95
+00:03:19,560 --> 00:03:22,720
+oxidation number plus 1. Elements of the 
+
+96
+00:03:22,720 --> 00:03:24,240
+second main group in 
+
+97
+00:03:24,240 --> 00:03:26,340
+compounds usually have an oxidation number 
+
+98
+00:03:26,340 --> 00:03:29,860
+plus 2. Third main group plus 3. 
+
+99
+00:03:30,710 --> 00:03:32,120
+Higher main groups have a 
+
+100
+00:03:32,120 --> 00:03:34,260
+higher electronegativity and 
+
+101
+00:03:34,260 --> 00:03:36,300
+tend to accept electrons 
+
+102
+00:03:36,300 --> 00:03:38,100
+in order 
+
+103
+00:03:38,100 --> 00:03:40,960
+to achieve the noble gas configuration. 
+For example, halogens, which are 
+
+104
+00:03:40,960 --> 00:03:42,400
+in the seventh main group 
+
+105
+00:03:42,400 --> 00:03:44,520
+, usually have an oxidation number 
+
+106
+00:03:44,520 --> 00:03:46,980
+minus 1, elements in the sixth 
+
+107
+00:03:46,980 --> 00:03:48,840
+main group have an oxidation number minus 
+
+108
+00:03:48,840 --> 00:03:51,820
+2 and those in the fifth main group minus 
+
+109
+00:03:51,820 --> 00:03:54,400
+3. Carbon and the other 
+
+110
+00:03:54,400 --> 00:03:56,020
+elements in the fourth main group 
+
+111
+00:03:56,020 --> 00:03:58,240
+show very variable 
+
+112
+00:03:58,240 --> 00:04:00,720
+oxidation numbers in compounds , depending 
+on the 
+
+113
+00:04:00,720 --> 00:04:03,720
+reactant. Knowledge of 
+
+114
+00:04:03,720 --> 00:04:05,760
+the oxidation numbers also helps 
+
+115
+00:04:05,760 --> 00:04:07,500
+when formulating the molecular formula for 
+
+116
+00:04:07,500 --> 00:04:09,460
+a compound. For example, water, 
+
+117
+00:04:09,580 --> 00:04:11,360
+which 
+
+118
+00:04:11,360 --> 00:04:13,660
+is outwardly electrically neutral, can 
+only 
+
+119
+00:04:13,660 --> 00:04:15,000
+have the molecular formula H2O , as 
+hydrogen has the 
+
+120
+00:04:15,000 --> 00:04:17,260
+oxidation number plus 1 and 
+
+121
+00:04:17,260 --> 00:04:19,260
+oxygen has the oxidation number minus 
+
+122
+00:04:19,260 --> 00:04:24,660
+2. So 2 times plus 1 plus 1 times minus 
+
+123
+00:04:24,660 --> 00:04:28,820
+2 equals 0. With this knowledge 
+
+124
+00:04:28,820 --> 00:04:29,980
+, let's take a look at another 
+
+125
+00:04:29,980 --> 00:04:32,140
+redox reaction, the formation of 
+
+126
+00:04:32,140 --> 00:04:34,740
+common salt, chemically sodium chloride, 
+
+127
+00:04:34,740 --> 00:04:37,240
+from the elements. 
+
+128
+00:04:37,240 --> 00:04:39,760
+As always, the elements have the oxidation 
+number 0. 
+
+129
+00:04:39,760 --> 00:04:41,840
+Like all halogens, chlorine is bimolecular 
+
+130
+00:04:41,840 --> 00:04:43,940
+. As chlorine is in the seventh 
+
+131
+00:04:43,940 --> 00:04:45,520
+main group, it has 
+
+132
+00:04:45,520 --> 00:04:47,720
+an oxidation number of minus 1 in the 
+compound 
+
+133
+00:04:47,720 --> 00:04:50,660
+, i.e. it is reduced. Sodium from 
+
+134
+00:04:50,660 --> 00:04:52,280
+the first main group gives 
+
+135
+00:04:52,280 --> 00:04:54,340
+up one electron at a time and is therefore 
+oxidized. 
+
+136
+00:04:54,500 --> 00:04:56,740
+Two 
+
+137
+00:04:56,740 --> 00:04:59,440
+NaCl particles can be formed from one 
+chlorine molecule , which is why two 
+
+138
+00:04:59,440 --> 00:05:01,180
+sodium atoms 
+
+139
+00:05:01,180 --> 00:05:03,560
+must be used. In total, only two 
+
+140
+00:05:03,560 --> 00:05:05,760
+electrons are transferred. The product 
+
+141
+00:05:05,760 --> 00:05:07,940
+sodium chloride is not 
+
+142
+00:05:07,940 --> 00:05:10,720
+a molecule, but ions that 
+
+143
+00:05:10,720 --> 00:05:11,680
+
+144
+00:05:11,680 --> 00:05:13,800
+attract each other due to their different 
+charges. 
+
+145
+00:05:14,080 --> 00:05:16,620
+Whether a salt 
+
+146
+00:05:16,620 --> 00:05:18,640
+is formed in a redox reaction or covalent 
+compounds 
+
+147
+00:05:18,640 --> 00:05:20,980
+are formed does not play a role 
+
+148
+00:05:20,980 --> 00:05:22,500
+in the procedure for 
+
+149
+00:05:22,500 --> 00:05:24,280
+setting up the reaction equation. 
+
+150
+00:05:24,440 --> 00:05:26,900
+Taking into account the oxidation numbers 
+
+151
+00:05:26,900 --> 00:05:28,440
+and the number of 
+
+152
+00:05:28,440 --> 00:05:30,320
+electrons transferred , you can recognize 
+reduction and 
+
+153
+00:05:30,320 --> 00:05:32,540
+oxidation and 
+
+154
+00:05:32,540 --> 00:05:34,740
+
+155
+00:05:34,740 --> 00:05:37,480
+set up the corresponding reaction 
+equations . I hope this video 
+
+156
+00:05:37,480 --> 00:05:39,160
+has 
+
+157
+00:05:39,160 --> 00:05:41,360
+contributed to your understanding of the 
+topic of oxidation and enables 
+
+158
+00:05:41,360 --> 00:05:42,280
+you to set up 
+
+159
+00:05:42,280 --> 00:05:43,700
+reaction equations and 
+
+160
+00:05:43,700 --> 00:05:46,120
+summation formulas. 
+
+161
+00:05:46,120 --> 00:05:47,840
+As 
+
+162
+00:05:47,840 --> 00:05:49,760
+usual , you can find more content on this 
+topic in our online learning center. 

@@ -1,0 +1,746 @@
+﻿1
+00:00:00,720 --> 00:00:02,300
+Hello and welcome to the 
+
+2
+00:00:02,300 --> 00:00:04,100
+Schülerhilfe learning videos. 
+
+3
+00:00:04,100 --> 00:00:05,420
+This video is about 
+
+4
+00:00:05,420 --> 00:00:07,640
+working with a dictionary, more precisely 
+
+5
+00:00:07,640 --> 00:00:09,860
+about 
+
+6
+00:00:09,860 --> 00:00:12,880
+finding suitable dictionary entries. 
+Generally speaking, a dictionary 
+
+7
+00:00:12,880 --> 00:00:15,140
+is a reference book, i.e. in the form of 
+
+8
+00:00:15,140 --> 00:00:17,420
+a book, or there are also 
+
+9
+00:00:17,420 --> 00:00:19,620
+online dictionaries where you 
+
+10
+00:00:19,620 --> 00:00:22,060
+can search for the right words. A 
+
+11
+00:00:22,060 --> 00:00:24,180
+dictionary is always sorted by 
+
+12
+00:00:24,180 --> 00:00:25,680
+alphabet, so it is an 
+
+13
+00:00:25,680 --> 00:00:27,880
+alphabetically sorted list of 
+
+14
+00:00:27,880 --> 00:00:28,340
+words. 
+
+15
+00:00:31,640 --> 00:00:33,440
+When 
+
+16
+00:00:33,440 --> 00:00:35,300
+working with a dictionary , it is 
+important that you 
+
+17
+00:00:35,300 --> 00:00:37,040
+
+18
+00:00:37,040 --> 00:00:39,740
+read the user instructions first. These 
+are usually 
+
+19
+00:00:39,740 --> 00:00:42,160
+written in the front flap. Also 
+
+20
+00:00:42,160 --> 00:00:43,580
+important are so-called 
+
+21
+00:00:43,580 --> 00:00:45,640
+abbreviation directories, where all 
+
+22
+00:00:45,640 --> 00:00:47,260
+abbreviations 
+
+23
+00:00:47,260 --> 00:00:48,780
+used in the dictionary 
+
+24
+00:00:48,780 --> 00:00:51,440
+are explained. There 
+
+25
+00:00:51,440 --> 00:00:53,740
+are also inflection tables, i.e. when 
+
+26
+00:00:53,740 --> 00:00:55,920
+verbs are conjugated 
+
+27
+00:00:55,920 --> 00:00:57,940
+, there are some examples in the 
+inflection tables 
+
+28
+00:00:57,940 --> 00:00:59,220
+and you can already 
+
+29
+00:00:59,220 --> 00:01:02,260
+recognize an example from them. 
+
+30
+00:01:02,260 --> 00:01:03,880
+There is usually an 
+
+31
+00:01:03,880 --> 00:01:06,000
+appendix at the end of the dictionary , 
+where you can find 
+
+32
+00:01:06,000 --> 00:01:07,360
+irregular verbs , for example. 
+
+33
+00:01:12,940 --> 00:01:15,380
+The 
+
+34
+00:01:15,380 --> 00:01:17,820
+lengths of the vowels are important in 
+dictionaries . These are always 
+
+35
+00:01:17,820 --> 00:01:19,640
+marked. You 
+
+36
+00:01:19,640 --> 00:01:20,420
+may have already seen this in your 
+
+37
+00:01:20,420 --> 00:01:22,280
+own dictionary. A 
+
+38
+00:01:22,280 --> 00:01:25,460
+normal short vowel 
+
+39
+00:01:25,460 --> 00:01:27,860
+is written without an addition, a long 
+
+40
+00:01:27,860 --> 00:01:30,120
+vowel has a line across the top 
+
+41
+00:01:30,120 --> 00:01:32,940
+and if a vowel is particularly short, 
+there 
+
+42
+00:01:32,940 --> 00:01:34,960
+is a small 
+
+43
+00:01:34,960 --> 00:01:37,400
+tick at the top. It is important that you 
+
+44
+00:01:37,400 --> 00:01:39,700
+pay attention to these length marks, 
+because 
+
+45
+00:01:39,700 --> 00:01:41,420
+you can draw conclusions about the 
+
+46
+00:01:41,420 --> 00:01:43,320
+word from them. Here is an 
+
+47
+00:01:43,320 --> 00:01:48,080
+example below. Populus means people. If 
+
+48
+00:01:48,080 --> 00:01:50,400
+we have this with a long stroke, i.e. 
+
+49
+00:01:50,400 --> 00:01:54,140
+Populus, then it means poplar. This 
+
+50
+00:01:54,140 --> 00:01:55,300
+is particularly 
+
+51
+00:01:55,300 --> 00:01:56,680
+important in poetry so that you 
+
+52
+00:01:56,680 --> 00:01:58,340
+
+53
+00:01:58,340 --> 00:01:58,780
+can find the correct meaning of your word. 
+
+54
+00:02:02,360 --> 00:02:04,400
+Now let's look at how individual 
+
+55
+00:02:04,400 --> 00:02:06,060
+words 
+
+56
+00:02:06,060 --> 00:02:08,040
+are entered in the dictionary . We start 
+with the 
+
+57
+00:02:08,040 --> 00:02:10,780
+nouns. These are always entered in the 
+
+58
+00:02:10,780 --> 00:02:13,740
+nominative case and the 
+
+59
+00:02:13,740 --> 00:02:16,780
+genitive ending is mentioned. 
+
+60
+00:02:16,780 --> 00:02:19,180
+The genus, i.e. the gender of the 
+
+61
+00:02:19,180 --> 00:02:22,280
+word, is also stated . With this 
+information 
+
+62
+00:02:22,280 --> 00:02:24,060
+, you can then draw conclusions 
+
+63
+00:02:24,060 --> 00:02:26,780
+about the declension to which the word 
+
+64
+00:02:26,780 --> 00:02:27,520
+belongs. 
+
+65
+00:02:31,610 --> 00:02:33,770
+Let's 
+
+66
+00:02:33,770 --> 00:02:37,330
+take a look at some examples. Here we have 
+amika, then the 
+
+67
+00:02:37,330 --> 00:02:41,110
+genitive ending AE. This is feminine 
+
+68
+00:02:41,170 --> 00:02:43,490
+and therefore belongs to the 
+
+69
+00:02:43,490 --> 00:02:46,310
+A declension. If we 
+
+70
+00:02:46,310 --> 00:02:48,370
+have amikus , i.e. the ending us- 
+
+71
+00:02:48,370 --> 00:02:51,770
+or the genitive ending i at the end and 
+the 
+
+72
+00:02:51,770 --> 00:02:53,710
+indication that it is masculine, then 
+
+73
+00:02:53,710 --> 00:02:55,610
+we know that we 
+
+74
+00:02:55,610 --> 00:02:58,810
+can assign the whole thing to the O 
+declension. Navis 
+
+75
+00:02:58,810 --> 00:03:01,710
+with the genitive ending is-feminine 
+
+76
+00:03:02,280 --> 00:03:04,330
+, then we know that it belongs to the 
+
+77
+00:03:04,330 --> 00:03:05,010
+mixed declension. 
+
+78
+00:03:07,370 --> 00:03:09,130
+Now let's move on to the 
+
+79
+00:03:09,130 --> 00:03:11,930
+entry of adjectives. Adjectives 
+
+80
+00:03:11,930 --> 00:03:14,370
+are always entered in the nominative 
+singular 
+
+81
+00:03:14,370 --> 00:03:17,490
+masculine. Nominative 
+
+82
+00:03:17,490 --> 00:03:19,430
+, that is the case, singular singular 
+
+83
+00:03:19,430 --> 00:03:22,830
+and masculine masculine. Three-ended 
+
+84
+00:03:22,830 --> 00:03:24,150
+adjectives can be marked in two 
+
+85
+00:03:24,150 --> 00:03:25,850
+different ways 
+
+86
+00:03:25,850 --> 00:03:27,770
+if they 
+
+87
+00:03:27,770 --> 00:03:31,210
+belong to the A and O declension. Here 
+bonus, A 
+
+88
+00:03:31,210 --> 00:03:34,810
+-um. Bonus means good and can 
+
+89
+00:03:34,810 --> 00:03:36,890
+either be written in this way with 
+
+90
+00:03:36,890 --> 00:03:39,730
+Us, A-um. This is 
+
+91
+00:03:39,730 --> 00:03:41,050
+for the different genders, 
+
+92
+00:03:41,110 --> 00:03:44,230
+masculine, feminine and neuter. Or 
+
+93
+00:03:44,230 --> 00:03:46,210
+it can simply be written as Bonus with a 3 
+
+94
+00:03:46,210 --> 00:03:47,790
+after it. You can 
+
+95
+00:03:47,790 --> 00:03:49,310
+then recognize from the ending that it is 
+a 
+
+96
+00:03:49,310 --> 00:03:51,950
+three-ending adjective. 
+
+97
+00:03:51,950 --> 00:03:54,130
+Another example of this is Magnus, 
+
+98
+00:03:54,130 --> 00:03:58,050
+groß, wieder A um or Magnus with the 
+
+99
+00:03:58,050 --> 00:03:58,950
+3 after it. 
+
+100
+00:04:03,390 --> 00:04:04,770
+Adjectives can either be 
+
+101
+00:04:04,770 --> 00:04:06,870
+written out in full in the dictionary 
+
+102
+00:04:06,870 --> 00:04:09,430
+or abbreviated. The example here is 
+
+103
+00:04:09,430 --> 00:04:12,930
+pulka, schön, pulkra, pulchrum, 
+
+104
+00:04:12,990 --> 00:04:15,930
+abbreviated, here only the ending. Or 
+
+105
+00:04:15,930 --> 00:04:17,990
+written out in full, as you can see 
+
+106
+00:04:17,990 --> 00:04:20,490
+at the bottom here , where 
+
+107
+00:04:20,490 --> 00:04:22,890
+the same endings are added. In the case of 
+
+108
+00:04:22,890 --> 00:04:25,090
+singular adjectives 
+
+109
+00:04:25,090 --> 00:04:28,150
+, such as here Felix, glücklich, 
+
+110
+00:04:28,150 --> 00:04:30,170
+the genitive singular is also given. 
+
+111
+00:04:30,770 --> 00:04:35,650
+Felikis or abbreviated. 
+
+112
+00:04:35,650 --> 00:04:37,370
+Next we come to the entry for W. 
+
+113
+00:04:37,450 --> 00:04:40,010
+Verbs are either 
+
+114
+00:04:40,010 --> 00:04:42,250
+listed in the infinitive or in the 
+
+115
+00:04:42,250 --> 00:04:44,570
+first person singular, indicative, 
+
+116
+00:04:44,710 --> 00:04:47,790
+present active. The stem forms 
+
+117
+00:04:47,790 --> 00:04:49,290
+are also 
+
+118
+00:04:49,290 --> 00:04:52,410
+listed in most dictionaries . An example 
+of this is Laudare 
+
+119
+00:04:52,410 --> 00:04:57,090
+or O, i.e. Laudo. Laudo is then 
+
+120
+00:04:57,090 --> 00:04:58,970
+the first person singular, indicative, 
+
+121
+00:04:59,110 --> 00:05:01,210
+present, active and either 
+
+122
+00:05:01,210 --> 00:05:03,050
+this form would be in the dictionary or 
+
+123
+00:05:03,050 --> 00:05:05,190
+the infinitive, depending on how new 
+
+124
+00:05:05,190 --> 00:05:07,590
+your dictionary is. After 
+
+125
+00:05:07,590 --> 00:05:11,670
+the stem form A for atom, the addition 
+
+126
+00:05:11,670 --> 00:05:13,410
+that it is a verb 
+
+127
+00:05:13,410 --> 00:05:15,450
+and the different 
+
+128
+00:05:15,450 --> 00:05:17,530
+meanings, in this case praise. 
+
+129
+00:05:21,910 --> 00:05:24,350
+In older dictionaries, the 
+
+130
+00:05:24,350 --> 00:05:26,450
+whole thing is often abbreviated with 
+numbers 
+
+131
+00:05:26,450 --> 00:05:28,970
+from 1 to 4. The numbers then stand 
+
+132
+00:05:28,970 --> 00:05:30,710
+for the different conjugations. 
+
+133
+00:05:30,710 --> 00:05:33,630
+1 for the A-conjugation, for example 
+
+134
+00:05:33,630 --> 00:05:38,010
+laudo, 2 for the E-conjugation video, 
+
+135
+00:05:38,290 --> 00:05:41,310
+3 for the consonantal or 
+
+136
+00:05:41,310 --> 00:05:45,030
+mixed conjugation, cupio and 4 for the 
+
+137
+00:05:45,030 --> 00:05:48,050
+E-conjugation, audio. After the 
+
+138
+00:05:48,050 --> 00:05:49,330
+different verbs, which are 
+
+139
+00:05:49,330 --> 00:05:50,950
+all in the first person 
+
+140
+00:05:50,950 --> 00:05:54,050
+indicative present active, you 
+
+141
+00:05:54,050 --> 00:05:55,310
+simply 
+
+142
+00:05:55,310 --> 00:05:56,830
+write the number and you know 
+
+143
+00:05:57,030 --> 00:05:58,670
+which conjugation the verb 
+
+144
+00:05:58,670 --> 00:06:00,730
+belongs to. If you 
+
+145
+00:06:00,730 --> 00:06:02,470
+have certain forms where you don't know 
+exactly what 
+
+146
+00:06:02,470 --> 00:06:03,850
+the form means, you can also 
+
+147
+00:06:03,850 --> 00:06:06,670
+search for them specifically. There are 
+
+148
+00:06:06,670 --> 00:06:08,790
+often extra entries, such as 
+
+149
+00:06:08,790 --> 00:06:12,110
+in this example. Acceptum 
+
+150
+00:06:12,110 --> 00:06:15,890
+is a verb and the PPP of Akipere. 
+
+151
+00:06:16,250 --> 00:06:17,790
+In the next step, you can 
+
+152
+00:06:17,790 --> 00:06:19,950
+search for the meaning in Akipere 
+
+153
+00:06:19,950 --> 00:06:22,130
+. This would then be preserved. 
+
+154
+00:06:22,650 --> 00:06:24,710
+Finally, here are a few tips 
+
+155
+00:06:24,710 --> 00:06:25,970
+for working with the dictionary. 
+
+156
+00:06:26,630 --> 00:06:28,550
+Firstly, it is important that you read the 
+
+157
+00:06:28,550 --> 00:06:30,510
+user instructions, which 
+
+158
+00:06:30,510 --> 00:06:31,870
+
+159
+00:06:31,870 --> 00:06:34,450
+are usually listed at the beginning of 
+your dictionary . Then it is also 
+
+160
+00:06:34,450 --> 00:06:35,890
+important that you 
+
+161
+00:06:35,890 --> 00:06:37,730
+pay attention to the different word types 
+that are always 
+
+162
+00:06:37,730 --> 00:06:39,910
+listed after each word. One 
+
+163
+00:06:39,910 --> 00:06:42,630
+example is lectus. This 
+
+164
+00:06:42,630 --> 00:06:44,790
+can be both an adjective 
+
+165
+00:06:44,790 --> 00:06:46,930
+and a noun. You have to 
+
+166
+00:06:46,930 --> 00:06:48,570
+make sure that 
+
+167
+00:06:48,570 --> 00:06:50,850
+you choose the right word. As an adjective 
+
+168
+00:06:50,850 --> 00:06:53,310
+it means read and as a noun it 
+
+169
+00:06:53,310 --> 00:06:53,730
+means bed. 
+
+170
+00:06:56,550 --> 00:06:58,570
+You should also always 
+
+171
+00:06:58,570 --> 00:07:01,110
+read the entries to the end, as 
+
+172
+00:07:01,110 --> 00:07:02,890
+most words 
+
+173
+00:07:02,890 --> 00:07:04,910
+have different meanings . Then you have to 
+find out 
+
+174
+00:07:05,050 --> 00:07:06,470
+which meaning matches your word 
+
+175
+00:07:06,470 --> 00:07:08,390
+. You can also 
+
+176
+00:07:08,390 --> 00:07:10,690
+watch an extra video about this. 
+
+177
+00:07:10,690 --> 00:07:12,210
+You can also find different phrases in 
+
+178
+00:07:12,210 --> 00:07:14,250
+dictionaries and save yourself 
+
+179
+00:07:14,250 --> 00:07:17,270
+a lot of time when translating. 
+
+180
+00:07:17,270 --> 00:07:18,090
+Thank you for your 
+
+181
+00:07:18,090 --> 00:07:20,130
+attention. See 
+
+182
+00:07:20,130 --> 00:07:20,650
+you next time. 

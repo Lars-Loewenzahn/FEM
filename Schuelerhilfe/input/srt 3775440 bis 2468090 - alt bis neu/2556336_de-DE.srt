@@ -1,0 +1,2916 @@
+1
+00:00:02,670 --> 00:00:04,650
+Hallo und herzlich willkommen zum
+
+2
+00:00:04,650 --> 00:00:06,870
+Webinar der Schülerhilfe. Wir
+
+3
+00:00:06,870 --> 00:00:08,610
+beschäftigen uns heute mit dem Thema
+
+4
+00:00:08,610 --> 00:00:11,130
+Satzglieder im Satzerkennen. Wir
+
+5
+00:00:11,130 --> 00:00:12,790
+werden uns also die großen
+
+6
+00:00:12,790 --> 00:00:14,510
+Hauptsatzglieder anschauen, dabei
+
+7
+00:00:14,510 --> 00:00:16,270
+schauen wir uns das Prädikat, das
+
+8
+00:00:16,270 --> 00:00:18,350
+Subjekt und das Objekt an und werden
+
+9
+00:00:18,350 --> 00:00:19,730
+uns anschließend mit den
+
+10
+00:00:19,730 --> 00:00:21,550
+Nebensatzgliedern beschäftigen, und
+
+11
+00:00:21,550 --> 00:00:23,310
+zwar den Attributen und den
+
+12
+00:00:23,310 --> 00:00:25,730
+Adverbialen. Abschließend werden wir
+
+13
+00:00:25,730 --> 00:00:27,070
+uns mit der Besonderheit des
+
+14
+00:00:27,070 --> 00:00:30,390
+Prädikats nochmals beschäftigen. Das
+
+15
+00:00:30,390 --> 00:00:32,330
+Prädikat ist das prinzipielle
+
+16
+00:00:32,330 --> 00:00:34,250
+Satzglied. Das heißt, das Prädikat
+
+17
+00:00:34,250 --> 00:00:36,150
+ist ein konjugiertes, das heißt
+
+18
+00:00:36,150 --> 00:00:39,510
+gebeugtes Verb. Es beinhaltet also
+
+19
+00:00:39,510 --> 00:00:41,630
+alle notwendigen Inhalte für einen
+
+20
+00:00:41,630 --> 00:00:44,030
+Satz. Wir haben einerseits das
+
+21
+00:00:44,030 --> 00:00:45,970
+Tempuszeichen, das heißt wir wissen
+
+22
+00:00:45,970 --> 00:00:48,170
+in welcher Zeitform der Satz steht,
+
+23
+00:00:48,310 --> 00:00:50,990
+und wir haben eine Personaleindung,
+
+24
+00:00:51,070 --> 00:00:53,530
+das heißt wir wissen welche Person
+
+25
+00:00:53,530 --> 00:00:55,670
+und wie viele dieser dieser Person
+
+26
+00:00:55,670 --> 00:00:58,290
+etwas ausführen. Das heißt, mit Hilfe
+
+27
+00:00:58,290 --> 00:01:00,250
+des Tempuszeichens und der
+
+28
+00:01:00,250 --> 00:01:02,390
+Personalendung erhalten wir schon
+
+29
+00:01:02,390 --> 00:01:04,530
+alle prinzipiellen, das heißt die
+
+30
+00:01:04,530 --> 00:01:06,490
+notwendigsten Informationen über
+
+31
+00:01:06,490 --> 00:01:09,610
+einen Satz. Zusätzlich legt das
+
+32
+00:01:09,610 --> 00:01:11,670
+Prädikat auch fest, welche weiteren
+
+33
+00:01:11,670 --> 00:01:14,710
+Satzglieder im Satz vorkommen können.
+
+34
+00:01:14,830 --> 00:01:17,270
+Das nennt sich Transitivität. Es gibt
+
+35
+00:01:17,270 --> 00:01:18,850
+nämlich manche Verben, die brauchen
+
+36
+00:01:18,850 --> 00:01:21,650
+automatisch ein Akkusativ oder sie
+
+37
+00:01:21,650 --> 00:01:23,370
+brauchen einen Dativ oder einen
+
+38
+00:01:23,370 --> 00:01:25,530
+Genitiv. Das heißt, sie haben eine
+
+39
+00:01:25,530 --> 00:01:27,470
+Kasusreaktion. Das heißt, sie
+
+40
+00:01:27,470 --> 00:01:29,930
+regieren mit einem bestimmten Objekt
+
+41
+00:01:29,930 --> 00:01:32,050
+zusammen. Das kennen wir auch aus dem
+
+42
+00:01:32,050 --> 00:01:34,150
+Deutschen, zum Beispiel mit dem Verb
+
+43
+00:01:34,150 --> 00:01:37,330
+backen. Etwas backen. Das heißt, um
+
+44
+00:01:37,330 --> 00:01:39,350
+diesen Satz vollständig konstruieren
+
+45
+00:01:39,350 --> 00:01:40,810
+zu können, brauchen wir auch ein
+
+46
+00:01:40,810 --> 00:01:43,390
+Akkusativobjekt. Ich backe einen
+
+47
+00:01:43,390 --> 00:01:47,450
+Kuchen. Zusätzlich beinhaltet das
+
+48
+00:01:47,450 --> 00:01:50,710
+Prädikat bzw. das konjugierte Verb,
+
+49
+00:01:50,810 --> 00:01:53,030
+also das angepasste Verb, welches
+
+50
+00:01:53,030 --> 00:01:54,610
+sich Prädikat im Satz nennt,
+
+51
+00:01:54,650 --> 00:01:56,710
+weiterführende Inhalte, wie zum
+
+52
+00:01:56,710 --> 00:01:59,350
+Beispiel das fünfte Element des
+
+53
+00:01:59,350 --> 00:02:01,490
+Verbs, und zwar das Genus Verbi, das
+
+54
+00:02:01,490 --> 00:02:03,230
+Geschlecht des Verbes. Wir kennen
+
+55
+00:02:03,230 --> 00:02:06,130
+Geschlechter nur von Substantiven und
+
+56
+00:02:06,130 --> 00:02:07,730
+Adjektiven, indem wir zwischen
+
+57
+00:02:07,730 --> 00:02:09,470
+Maskulin, Feminin und Neutrum
+
+58
+00:02:09,470 --> 00:02:11,250
+unterscheiden. Das Geschlecht des
+
+59
+00:02:11,250 --> 00:02:13,010
+Verbs beschränkt sich nicht auf
+
+60
+00:02:13,010 --> 00:02:15,290
+Maskulin, Feminin oder Neutrum,
+
+61
+00:02:15,350 --> 00:02:16,950
+sondern es differenziert, das heißt,
+
+62
+00:02:17,010 --> 00:02:19,230
+unterscheidet sich nur im Aktivsein
+
+63
+00:02:19,230 --> 00:02:21,410
+oder im Passivsein. Das heißt, bei
+
+64
+00:02:21,410 --> 00:02:23,550
+einem aktiven Prädikat gilt die
+
+65
+00:02:23,550 --> 00:02:27,110
+grundsätzliche Satzordnung Subjekt
+
+66
+00:02:27,110 --> 00:02:29,190
+-Objekt-Prädikat im Lateinischen. Im
+
+67
+00:02:29,190 --> 00:02:30,890
+Deutschen haben wir die Subjekt
+
+68
+00:02:30,890 --> 00:02:33,170
+-Prädikat-Objekt-Satzgliedordnung.
+
+69
+00:02:33,170 --> 00:02:36,070
+Bei dem passiven Prädikat ist es so,
+
+70
+00:02:36,130 --> 00:02:37,950
+dass sich die Satzordnung verschiebt.
+
+71
+00:02:38,010 --> 00:02:39,870
+Das heißt, das Subjekt, welches aus
+
+72
+00:02:39,870 --> 00:02:41,430
+dem Aktivsatz das ehemalige
+
+73
+00:02:41,430 --> 00:02:44,610
+Akkusativobjekt war, geht voran und
+
+74
+00:02:44,610 --> 00:02:47,470
+wird von dem Passiv ausgeführt. Wir
+
+75
+00:02:47,470 --> 00:02:49,970
+schauen uns das später noch einmal
+
+76
+00:02:49,970 --> 00:02:54,610
+an. Zusätzlich zu dem Inhalt des
+
+77
+00:02:54,610 --> 00:02:56,210
+Genus Verbi haben wir auch noch die
+
+78
+00:02:56,210 --> 00:02:58,410
+Information des stummen Subjektes.
+
+79
+00:02:58,550 --> 00:03:00,490
+Wir haben gerade schon erfahren, dass
+
+80
+00:03:00,490 --> 00:03:03,770
+wir über die Personalendung schon
+
+81
+00:03:03,770 --> 00:03:06,570
+erfahren, wer oder was etwas tut. Das
+
+82
+00:03:06,570 --> 00:03:09,470
+heißt, sofern wir es nicht explizit
+
+83
+00:03:09,470 --> 00:03:12,170
+herausstellen wollen, reicht es, wenn
+
+84
+00:03:12,170 --> 00:03:14,330
+wir nur das Prädikat und dann ein
+
+85
+00:03:14,330 --> 00:03:15,770
+darauf folgendes Objekt schreiben,
+
+86
+00:03:15,890 --> 00:03:19,010
+sofern das vonnöten ist. Das heißt,
+
+87
+00:03:19,070 --> 00:03:20,350
+wir sehen es hier an dem Beispiel,
+
+88
+00:03:20,590 --> 00:03:22,710
+das Prädikat beinhaltet eben schon
+
+89
+00:03:22,710 --> 00:03:24,850
+das Subjekt. Rom am It können wir
+
+90
+00:03:24,850 --> 00:03:26,550
+übersetzen mit er geht nach Rom.
+
+91
+00:03:26,670 --> 00:03:29,110
+Natürlich ist das davon abhängig, was
+
+92
+00:03:29,110 --> 00:03:31,970
+im Kontext, also im vorherigen Satz
+
+93
+00:03:31,970 --> 00:03:33,750
+oder im Einleitungssatz geschrieben
+
+94
+00:03:33,750 --> 00:03:35,730
+steht. Also das entscheidet letztlich
+
+95
+00:03:35,730 --> 00:03:37,470
+darüber, ob es jetzt heißt er geht
+
+96
+00:03:37,470 --> 00:03:39,250
+nach Rom oder sie geht nach Rom. Das
+
+97
+00:03:39,250 --> 00:03:40,890
+ist in der lateinischen Sprache nur
+
+98
+00:03:40,890 --> 00:03:43,450
+über den Kontext zu erfassen, sofern
+
+99
+00:03:43,450 --> 00:03:45,370
+es nicht explizit ausgeschrieben ist.
+
+100
+00:03:45,370 --> 00:03:48,150
+Denn it ist die dritte Person, also
+
+101
+00:03:48,150 --> 00:03:50,190
+er, sie oder es im Singular.
+
+102
+00:03:52,090 --> 00:03:53,930
+Zusätzlich beinhaltet das Prädikat
+
+103
+00:03:53,930 --> 00:03:55,330
+auch noch Prädikatsnomen und
+
+104
+00:03:55,330 --> 00:03:57,610
+Prädikativor. Das heißt, mit diesen
+
+105
+00:03:57,610 --> 00:03:59,350
+Prädikativor und Prädikatsnomen
+
+106
+00:03:59,350 --> 00:04:01,270
+können wir auch noch etwas anfangen.
+
+107
+00:04:01,290 --> 00:04:02,950
+Damit werden wir uns allerdings zum
+
+108
+00:04:02,950 --> 00:04:04,210
+Abschluss dieses Webinars
+
+109
+00:04:04,210 --> 00:04:05,850
+beschäftigen. Wir werden nämlich
+
+110
+00:04:05,850 --> 00:04:08,910
+feststellen, dass das Prädikat uns
+
+111
+00:04:08,910 --> 00:04:10,350
+auch schon automatisch zu einem
+
+112
+00:04:10,350 --> 00:04:12,270
+Prädikatsnomen oder Prädikativum
+
+113
+00:04:12,270 --> 00:04:14,310
+hinleiten kann. dazu später mehr.
+
+114
+00:04:14,450 --> 00:04:16,650
+Kommen wir nun zu dem Subjekt. Das
+
+115
+00:04:16,650 --> 00:04:19,430
+Subjekt ist das primäre Satzglied,
+
+116
+00:04:19,470 --> 00:04:21,630
+das heißt, es steht im direkten Bezug
+
+117
+00:04:21,630 --> 00:04:23,510
+zum Prädikat, eben dadurch, dass es
+
+118
+00:04:23,510 --> 00:04:25,790
+im Prädikat schon vorgeformt ist. Das
+
+119
+00:04:25,790 --> 00:04:27,710
+heißt, das Subjekt gibt Auskunft über
+
+120
+00:04:27,710 --> 00:04:30,090
+den Handelnden. Er ist derjenige, der
+
+121
+00:04:30,090 --> 00:04:31,990
+dieses Prädikat, also die Handlung,
+
+122
+00:04:31,990 --> 00:04:34,530
+ausführt. Dabei ist ein Subjekt ein
+
+123
+00:04:34,530 --> 00:04:37,130
+dekliniertes Substantiv. Das kann
+
+124
+00:04:37,130 --> 00:04:38,750
+auch ein Nomen sein, also ein
+
+125
+00:04:38,750 --> 00:04:41,170
+Namenswort. Der Nomen bedeutet auf
+
+126
+00:04:41,170 --> 00:04:43,590
+Latein Name. Das heißt, ein
+
+127
+00:04:43,590 --> 00:04:46,330
+Substantiv ist auch ein Nomen, denn
+
+128
+00:04:46,330 --> 00:04:49,610
+es trägt ja einen Namen. Ein Subjekt
+
+129
+00:04:49,610 --> 00:04:51,710
+erfüllt folgende Kriterien. Es steht
+
+130
+00:04:51,710 --> 00:04:53,510
+in Konkurrenz zum Prädikat, das heißt
+
+131
+00:04:53,510 --> 00:04:55,610
+in direkten Bezug. Das heißt, es
+
+132
+00:04:55,610 --> 00:04:57,310
+nimmt im Grunde genommen alle Formen
+
+133
+00:04:57,310 --> 00:04:58,990
+an. Steht das Prädikat im Singular,
+
+134
+00:04:59,010 --> 00:05:00,870
+steht auch der Nominativ im Singular.
+
+135
+00:05:01,010 --> 00:05:02,850
+Und das wird später interessant, wenn
+
+136
+00:05:02,850 --> 00:05:05,050
+wir in die Übersetzung von Texten
+
+137
+00:05:05,050 --> 00:05:07,910
+schauen. Prädikates, wir werden das
+
+138
+00:05:07,910 --> 00:05:09,710
+gleich an dem Beispiel sehen, sofort
+
+139
+00:05:09,710 --> 00:05:11,770
+ermitteln, nach welchem Nominativ wir
+
+140
+00:05:11,770 --> 00:05:15,170
+suchen müssen. Zusätzlich ist es so,
+
+141
+00:05:15,230 --> 00:05:17,770
+dass wir wissen, dass ein Subjekt nur
+
+142
+00:05:17,770 --> 00:05:19,990
+und ausschließlich im Nominativ
+
+143
+00:05:19,990 --> 00:05:22,070
+dekliniert werden kann. Das heißt,
+
+144
+00:05:22,270 --> 00:05:26,070
+alle Substantive, die wir suchen,
+
+145
+00:05:26,230 --> 00:05:27,450
+können nur ausschließlich im
+
+146
+00:05:27,450 --> 00:05:29,150
+Nominativ zu finden sein und dabei
+
+147
+00:05:29,150 --> 00:05:31,070
+müssen wir dann unterscheiden, ob es
+
+148
+00:05:31,070 --> 00:05:33,990
+jetzt im Singular oder Plural steht
+
+149
+00:05:33,990 --> 00:05:35,630
+und das erfahren wir eben über das
+
+150
+00:05:35,710 --> 00:05:38,530
+Prädikat. Das Subjekt wird stets mit
+
+151
+00:05:38,530 --> 00:05:40,890
+der Frage wer oder was, also quiz out
+
+152
+00:05:40,890 --> 00:05:44,770
+quid, gestellt. So, beziehungsweise
+
+153
+00:05:44,770 --> 00:05:46,710
+ermittelt. Wir sehen es jetzt mal am
+
+154
+00:05:46,710 --> 00:05:49,050
+Beispiel. Puer et poella placentam
+
+155
+00:05:49,050 --> 00:05:52,230
+coquunt, quiz coquit, pur et poella
+
+156
+00:05:52,230 --> 00:05:54,950
+coquunt. Wir erkennen an dem Coquunt,
+
+157
+00:05:55,090 --> 00:05:57,310
+also an der unt-Endung, also an der
+
+158
+00:05:57,310 --> 00:05:59,610
+nt-Endung, dritte Person Plural, dass
+
+159
+00:05:59,610 --> 00:06:02,250
+es sich hier um ein Subjekt im Plural
+
+160
+00:06:02,250 --> 00:06:03,930
+halten müsste. Nun haben wir hier
+
+161
+00:06:03,930 --> 00:06:06,310
+sowohl ein Puer et Puerla, beide
+
+162
+00:06:06,310 --> 00:06:07,810
+stehenden Nomen in der Ativsingua,
+
+163
+00:06:07,890 --> 00:06:09,510
+sind allerdings durch die Konjunktion
+
+164
+00:06:09,510 --> 00:06:11,350
+et verbunden. Das heißt, wir können
+
+165
+00:06:11,350 --> 00:06:14,890
+Schlussfolgernd, dass diese beiden
+
+166
+00:06:14,890 --> 00:06:17,590
+hier unsere Ausführenden sind. Und
+
+167
+00:06:17,590 --> 00:06:20,030
+zwar sind sie die Backenden, und zwar
+
+168
+00:06:20,030 --> 00:06:22,690
+die Backenden, also der Junge und das
+
+169
+00:06:22,690 --> 00:06:24,870
+Mädchen, die backen. Wir fragen also,
+
+170
+00:06:25,010 --> 00:06:27,650
+quiz, coquit, wer backt, poor Ed
+
+171
+00:06:27,650 --> 00:06:30,290
+Puella, coquit, wer backt, der Junge
+
+172
+00:06:30,290 --> 00:06:32,010
+und das Mädchen backen. Wir stellen
+
+173
+00:06:32,010 --> 00:06:34,390
+fest, dass das Plazentum außen vor
+
+174
+00:06:34,390 --> 00:06:36,310
+ist, denn das Plazentum ist das
+
+175
+00:06:36,310 --> 00:06:38,790
+Objekt. Zudem kommen wir nun. Das
+
+176
+00:06:38,790 --> 00:06:41,030
+Objekt ist ein sekundäres Satzglied,
+
+177
+00:06:41,070 --> 00:06:42,650
+das heißt, es beschreibt den
+
+178
+00:06:42,650 --> 00:06:44,950
+Gehandelten. Es fügt etwas hinzu,
+
+179
+00:06:44,990 --> 00:06:47,410
+also es ist ein ergänzender
+
+180
+00:06:47,410 --> 00:06:49,990
+Satzgegenstand. Auch das Objekt ist
+
+181
+00:06:49,990 --> 00:06:54,820
+ein dekliniertes Substantiv. Es ist,
+
+182
+00:06:54,840 --> 00:06:56,740
+wie gesagt, der Gehandelte, das
+
+183
+00:06:56,740 --> 00:06:59,400
+heißt, er ist derjenige, der von dem
+
+184
+00:06:59,400 --> 00:07:02,380
+Prädikat, also von der Handlung
+
+185
+00:07:02,380 --> 00:07:03,900
+ausgeführt wird. Wir unterscheiden
+
+186
+00:07:03,900 --> 00:07:05,380
+also zwischen dem, der die Handlung
+
+187
+00:07:05,380 --> 00:07:08,700
+ausführt und der, der ausgeführt
+
+188
+00:07:08,700 --> 00:07:11,180
+wird. Und derjenige, der im Grunde
+
+189
+00:07:11,180 --> 00:07:12,900
+genommen die Handlung ist. Der, der
+
+190
+00:07:12,900 --> 00:07:14,280
+die Handlung ist, ist das Prädikat,
+
+191
+00:07:14,380 --> 00:07:16,200
+der Ausführende ist das Subjekt und
+
+192
+00:07:16,200 --> 00:07:20,440
+der Ausgeführte ist das Objekt. Es
+
+193
+00:07:20,440 --> 00:07:23,260
+fügt also im Satz ein zweites, also
+
+194
+00:07:23,260 --> 00:07:25,200
+mindestens ein zweites Substantiv
+
+195
+00:07:25,200 --> 00:07:27,700
+hinzu. Es ist das letzte der drei
+
+196
+00:07:27,700 --> 00:07:29,260
+wichtigsten Satzglieder. Wir gehen
+
+197
+00:07:29,260 --> 00:07:30,740
+also in der Reihenfolge auch bei
+
+198
+00:07:30,740 --> 00:07:33,820
+unserer Übersetzung immer dabei vor,
+
+199
+00:07:33,880 --> 00:07:35,400
+dass wir zuerst das Prädikat suchen,
+
+200
+00:07:35,400 --> 00:07:36,720
+dann einen Rückschluss auf das
+
+201
+00:07:36,720 --> 00:07:38,380
+Subjekt machen und dann anschließend
+
+202
+00:07:38,380 --> 00:07:40,380
+nach dem Objekt suchen. Dieses
+
+203
+00:07:40,380 --> 00:07:42,120
+Satzblied wird nur benötigt, wenn das
+
+204
+00:07:42,120 --> 00:07:43,860
+Prädikat danach verlangt. Wir haben
+
+205
+00:07:43,860 --> 00:07:45,360
+vorhin schon über das Stichwort
+
+206
+00:07:45,360 --> 00:07:48,040
+Transitivität gesprochen. Das Objekt
+
+207
+00:07:48,040 --> 00:07:50,740
+zusammenfassend erfüllt also folgende
+
+208
+00:07:50,740 --> 00:07:52,620
+Kriterien. Ein Objekt ist vom
+
+209
+00:07:52,620 --> 00:07:54,600
+Prädikat verlangt oder als Ergänzung
+
+210
+00:07:54,600 --> 00:07:57,560
+im Satz vorhanden. Dabei ist es so,
+
+211
+00:07:57,600 --> 00:07:59,800
+dass es in allen weiteren Fällen
+
+212
+00:07:59,800 --> 00:08:01,800
+dekliniert werden kann, außer dem
+
+213
+00:08:01,800 --> 00:08:03,860
+Nominativ, denn der Nominativ ist im
+
+214
+00:08:03,860 --> 00:08:05,400
+Subjekt vorbehalten. Wir
+
+215
+00:08:05,400 --> 00:08:07,980
+unterscheiden allerdings bei Objekten
+
+216
+00:08:07,980 --> 00:08:09,760
+zwischen dem direkten und indirekten
+
+217
+00:08:09,760 --> 00:08:13,180
+Objekt. Dazu kommen wir nun. Bevor
+
+218
+00:08:13,180 --> 00:08:15,960
+wir uns final mit dem direkten und
+
+219
+00:08:15,960 --> 00:08:17,140
+dem indirekten Objekt
+
+220
+00:08:17,140 --> 00:08:18,760
+auseinandersetzen, müssen wir etwas
+
+221
+00:08:18,760 --> 00:08:20,700
+vorher klären. Und zwar müssen wir
+
+222
+00:08:20,700 --> 00:08:22,220
+differenzieren, das heißt
+
+223
+00:08:22,220 --> 00:08:23,740
+unterscheiden zwischen den
+
+224
+00:08:23,740 --> 00:08:24,520
+unterschiedlichen Objekten.
+
+225
+00:08:24,540 --> 00:08:27,160
+Objektarten. Dabei meine ich jetzt
+
+226
+00:08:27,160 --> 00:08:29,560
+nicht das indirekte und direkte
+
+227
+00:08:29,560 --> 00:08:31,400
+Objekt, sondern zwischen den
+
+228
+00:08:31,400 --> 00:08:33,060
+Attributen eines Objektes. Dabei
+
+229
+00:08:33,060 --> 00:08:35,660
+definieren wir den Akkusativ, den
+
+230
+00:08:35,660 --> 00:08:38,080
+Dativ oder den Genitiv oder den
+
+231
+00:08:38,080 --> 00:08:40,440
+Applativ, der als Besonderheit anders
+
+232
+00:08:40,440 --> 00:08:42,840
+als in der deutschen Sprache der
+
+233
+00:08:42,840 --> 00:08:45,040
+fünfte Fall in der Sprache ist.
+
+234
+00:08:45,800 --> 00:08:47,680
+Beginnen wir mit dem wichtigsten und
+
+235
+00:08:47,680 --> 00:08:52,020
+dem gängigsten Kasus und zwar dem
+
+236
+00:08:52,020 --> 00:08:53,800
+Akkusativobjekt. ist wie gesagt die
+
+237
+00:08:53,800 --> 00:08:55,940
+häufigste Objektform. Dabei ist es
+
+238
+00:08:55,940 --> 00:08:58,500
+so, dass das Objekt im vierten Fall
+
+239
+00:08:58,500 --> 00:09:00,540
+also dem Akkusativ steht. Es
+
+240
+00:09:00,540 --> 00:09:04,180
+beansprucht meistens die Funktion des
+
+241
+00:09:04,180 --> 00:09:06,220
+direkten Objektes. Wir werden uns
+
+242
+00:09:06,220 --> 00:09:08,220
+auch gleich anschauen, warum. Es
+
+243
+00:09:08,220 --> 00:09:10,300
+steht auch in Konkurrenz zum
+
+244
+00:09:10,300 --> 00:09:12,860
+Prädikat, denn das Prädikat in dem
+
+245
+00:09:12,860 --> 00:09:14,380
+Fall, dass ein Akkusativ steht,
+
+246
+00:09:14,560 --> 00:09:16,460
+verlangt auch danach. Alle
+
+247
+00:09:16,460 --> 00:09:18,160
+transitiven Verben ohne weitere
+
+248
+00:09:18,160 --> 00:09:19,620
+Unsere Angaben verlangen eben nach
+
+249
+00:09:19,620 --> 00:09:21,680
+einem Akkusativobjekt. Ansonsten
+
+250
+00:09:21,680 --> 00:09:23,760
+steht in unseren Vokabeln und
+
+251
+00:09:23,760 --> 00:09:25,580
+Wörterbüchern eben gerade noch
+
+252
+00:09:25,580 --> 00:09:27,800
+zusätzlich ein Dativ dazu oder mit
+
+253
+00:09:27,800 --> 00:09:30,580
+Dativ, also m.dat, damit wir wissen,
+
+254
+00:09:30,580 --> 00:09:32,260
+dass es mit einem Dativ gebildet wird
+
+255
+00:09:32,260 --> 00:09:33,760
+oder mit einem Genitiv oder dem
+
+256
+00:09:33,760 --> 00:09:37,160
+Aplativ. Ansonsten kann man
+
+257
+00:09:37,160 --> 00:09:38,780
+grundsätzlich davon ausgehen, dass
+
+258
+00:09:38,780 --> 00:09:43,740
+das Verb zusammen mit einem Akkusativ
+
+259
+00:09:43,740 --> 00:09:47,700
+regiert. Der Akkusativ wird gefragt
+
+260
+00:09:47,700 --> 00:09:50,480
+mit wen oder was, also quem ausquit,
+
+261
+00:09:50,480 --> 00:09:51,900
+wir sehen es hier einmal an dem
+
+262
+00:09:51,900 --> 00:09:54,780
+Beispiel, Pirate, Navim, Capium, wir
+
+263
+00:09:54,780 --> 00:09:58,100
+können also feststellen, Pirate ist
+
+264
+00:09:58,100 --> 00:10:02,280
+unser Subjekt, das erkennen wir
+
+265
+00:10:02,280 --> 00:10:04,680
+daran, dass wir hier das Prädikat im
+
+266
+00:10:04,680 --> 00:10:06,340
+Plural haben und hier in diesem Fall
+
+267
+00:10:06,340 --> 00:10:08,240
+ist Pirate unsere eigentliche und
+
+268
+00:10:08,240 --> 00:10:10,600
+einzige Pluralform und dann haben wir
+
+269
+00:10:10,600 --> 00:10:12,900
+Navim im Akkusativ, wir können also
+
+270
+00:10:12,900 --> 00:10:14,860
+fragen, Quem ad quid? Pirate,
+
+271
+00:10:14,880 --> 00:10:18,240
+Carpion. Wen kapern die Piraten? Sie
+
+272
+00:10:18,240 --> 00:10:20,220
+kapern das Schiff. Das heißt, das
+
+273
+00:10:20,220 --> 00:10:21,960
+Schiff ist unser Akkusativobjekt.
+
+274
+00:10:22,620 --> 00:10:24,560
+Kommen wir nun zu dem Dativobjekt.
+
+275
+00:10:24,600 --> 00:10:27,220
+Das Dativobjekt steht meistens nach
+
+276
+00:10:27,220 --> 00:10:28,940
+Verben, denen eine Handlung gilt. Das
+
+277
+00:10:28,940 --> 00:10:29,960
+heißt, hier haben wir nicht mehr
+
+278
+00:10:29,960 --> 00:10:31,720
+einen Gehandelten, sondern einen
+
+279
+00:10:31,720 --> 00:10:34,500
+Urheber bzw. einen Adressaten. Wir
+
+280
+00:10:34,500 --> 00:10:36,400
+sehen das an dem Beispiel Marcus
+
+281
+00:10:36,400 --> 00:10:37,900
+Domino Impendit.
+
+282
+00:10:41,420 --> 00:10:44,120
+Das heißt, wir gehen davon aus, dass
+
+283
+00:10:44,120 --> 00:10:46,760
+Markus droht. Markus droht. Wir
+
+284
+00:10:46,760 --> 00:10:48,460
+fragen jetzt aber nicht, wen droht
+
+285
+00:10:48,460 --> 00:10:50,880
+er, sondern er droht wem. Und hier
+
+286
+00:10:50,880 --> 00:10:53,920
+haben wir die klare Differenzierung
+
+287
+00:10:53,920 --> 00:10:56,160
+zum Akkusativ, denn hier geht das
+
+288
+00:10:56,160 --> 00:10:57,840
+Drohen, also die Handlung an einen
+
+289
+00:10:57,840 --> 00:11:00,380
+Adressaten. Wir haben also entweder
+
+290
+00:11:00,380 --> 00:11:02,100
+einen Urheber und einen Adressaten.
+
+291
+00:11:02,180 --> 00:11:04,160
+Hier in diesem Fall einen Adressaten,
+
+292
+00:11:04,200 --> 00:11:06,300
+das heißt, wem diese Handlung gilt.
+
+293
+00:11:06,900 --> 00:11:09,460
+Es gilt, dem Hausherrn zu drohen. Wem
+
+294
+00:11:09,460 --> 00:11:12,740
+droht Markus? Dem Hausherrn droht er.
+
+295
+00:11:13,680 --> 00:11:16,360
+Haben wir das Phänomen, dass zwei
+
+296
+00:11:16,360 --> 00:11:18,780
+Objekte, einmal Dativ, einmal
+
+297
+00:11:18,780 --> 00:11:22,740
+Akkusativ, zusammen im Satz stehen,
+
+298
+00:11:22,780 --> 00:11:24,880
+kommen wir automatisch dazu, uns mit
+
+299
+00:11:24,880 --> 00:11:27,100
+dem direkten und indirekten Objekt zu
+
+300
+00:11:27,100 --> 00:11:29,200
+beschäftigen. Was ich erwähnen möchte
+
+301
+00:11:29,200 --> 00:11:31,200
+ist, hier ist dem Hausherrn auch ein
+
+302
+00:11:31,200 --> 00:11:33,800
+direktes Objekt, Denn das Verb im
+
+303
+00:11:33,800 --> 00:11:35,800
+Empend, also hier in diesem Fall ist
+
+304
+00:11:35,800 --> 00:11:38,780
+Empendit, ja zwangsläufig mit einem
+
+305
+00:11:38,780 --> 00:11:40,760
+Dativ zu versehen, also es reagiert
+
+306
+00:11:40,760 --> 00:11:42,760
+mit einem Dativ, das heißt Domino ist
+
+307
+00:11:42,760 --> 00:11:45,320
+das direkte Objekt. Wir sehen uns nun
+
+308
+00:11:45,320 --> 00:11:48,020
+ein Beispiel an, bei dem eben sowohl
+
+309
+00:11:48,020 --> 00:11:50,360
+das eine als auch das andere vorkommt
+
+310
+00:11:50,360 --> 00:11:52,500
+und zwar Filia Matri Epistolam
+
+311
+00:11:52,500 --> 00:11:55,280
+Scribit. Wir können also fragen,
+
+312
+00:11:55,460 --> 00:11:57,140
+Filia Scribit, also wir haben hier
+
+313
+00:11:57,140 --> 00:11:59,160
+Scribit, dritte Person Singular,
+
+314
+00:11:59,160 --> 00:12:01,120
+damit haben wir hier eine Nominativ.
+
+315
+00:12:01,140 --> 00:12:02,800
+vom Filia, wir wissen also, die
+
+316
+00:12:02,800 --> 00:12:04,820
+Tochter ist die welche, die das
+
+317
+00:12:04,820 --> 00:12:06,680
+Subjekt bildet und nun fragen wir uns
+
+318
+00:12:06,680 --> 00:12:08,480
+Matria und Epistulam, zwei
+
+319
+00:12:08,480 --> 00:12:10,560
+Objektarten, einmal Dativ, einmal
+
+320
+00:12:10,560 --> 00:12:11,960
+Akkusativ und nun müssen wir
+
+321
+00:12:11,960 --> 00:12:14,080
+ermitteln, wer ist was, wer ist
+
+322
+00:12:14,080 --> 00:12:15,880
+direkt und wer ist indirekt. Wir
+
+323
+00:12:15,880 --> 00:12:17,220
+können das dadurch ermitteln, dass
+
+324
+00:12:17,220 --> 00:12:19,040
+wir fragen können, Quem autquit filia
+
+325
+00:12:19,040 --> 00:12:22,240
+scribit, Epistulam scribit, cui
+
+326
+00:12:22,240 --> 00:12:24,140
+epistulam scribit, Matria epistulam
+
+327
+00:12:24,140 --> 00:12:26,180
+scribit. Wir sehen schon alleine in
+
+328
+00:12:26,180 --> 00:12:29,500
+der Frage, dass wir einerseits nur
+
+329
+00:12:29,500 --> 00:12:30,880
+das Subjekt mit in die Frage
+
+330
+00:12:30,880 --> 00:12:32,980
+aufnehmen müssen, andererseits auch
+
+331
+00:12:32,980 --> 00:12:35,520
+den Akkusativ mit übernehmen müssen.
+
+332
+00:12:35,560 --> 00:12:36,880
+Wir könnten das viel ja auch
+
+333
+00:12:36,880 --> 00:12:38,540
+ausschreiben, aber wir haben gelernt,
+
+334
+00:12:38,680 --> 00:12:41,660
+dass sich das Subjekt innerhalb des
+
+335
+00:12:41,660 --> 00:12:43,880
+Prädikats ebenfalls bildet. Das
+
+336
+00:12:43,880 --> 00:12:44,980
+heißt, wir müssen es hier nicht
+
+337
+00:12:44,980 --> 00:12:48,040
+nochmal explizit ausschreiben, denn
+
+338
+00:12:48,040 --> 00:12:50,000
+wir denken uns hierbei. Wir können
+
+339
+00:12:50,000 --> 00:12:51,220
+allerdings konstatieren und
+
+340
+00:12:51,220 --> 00:12:54,860
+feststellen, dass wir hier das Filia
+
+341
+00:12:54,860 --> 00:12:56,040
+noch haben. Also wir könnten auch
+
+342
+00:12:56,040 --> 00:12:56,340
+sagen,
+
+343
+00:13:04,100 --> 00:13:05,880
+Hierbei könnten wir auch das Filia
+
+344
+00:13:05,880 --> 00:13:07,260
+weglassen und wir könnten ein Quip
+
+345
+00:13:07,260 --> 00:13:10,840
+aus Skribit. Ja, wir könnten das
+
+346
+00:13:10,840 --> 00:13:12,060
+nämlich mit sie im Deutschen
+
+347
+00:13:12,060 --> 00:13:13,160
+übersetzen, also mit einem
+
+348
+00:13:13,160 --> 00:13:15,040
+Personalpronomen. Wir stellen also
+
+349
+00:13:15,040 --> 00:13:17,040
+fest, die Tochter schreibt der Mutter
+
+350
+00:13:17,040 --> 00:13:19,700
+einen Brief. Schreibt sie, hier haben
+
+351
+00:13:19,700 --> 00:13:21,980
+wir das weggelassen, einen Brief. Wem
+
+352
+00:13:21,980 --> 00:13:23,780
+schreibt sie? Der Mutter. Im
+
+353
+00:13:23,780 --> 00:13:25,560
+Deutschen können wir das machen. Wir
+
+354
+00:13:25,560 --> 00:13:27,520
+können aber eigentlich nicht sagen,
+
+355
+00:13:27,600 --> 00:13:29,640
+wem schreibt sie oder sie schreibt
+
+356
+00:13:29,640 --> 00:13:31,240
+der Mutter. Das ist nicht
+
+357
+00:13:31,240 --> 00:13:33,040
+ausreichend, denn grundsätzlich ist
+
+358
+00:13:33,040 --> 00:13:34,980
+es so, dass wir das Schreiben auf
+
+359
+00:13:34,980 --> 00:13:37,220
+etwas Schreiben projizieren. Das
+
+360
+00:13:37,220 --> 00:13:40,700
+heißt, wenn das direkte Objekt und
+
+361
+00:13:40,700 --> 00:13:42,340
+das indirekte Objekt in einem Satz
+
+362
+00:13:42,340 --> 00:13:44,780
+stehen, wissen wir, dass das direkte
+
+363
+00:13:44,780 --> 00:13:48,080
+Objekt nicht weggelassen werden kann,
+
+364
+00:13:48,160 --> 00:13:49,740
+das direkte Objekt allerdings schon.
+
+365
+00:13:49,880 --> 00:13:51,780
+Der Satz funktioniert, würden wir
+
+366
+00:13:51,780 --> 00:13:53,700
+sagen, die Mutter schreibt einen
+
+367
+00:13:53,700 --> 00:13:55,340
+Brief, der Satz würde nicht
+
+368
+00:13:55,340 --> 00:13:56,880
+funktionieren, die Tochter schreibt
+
+369
+00:13:56,880 --> 00:13:58,740
+der Mutter. Wir würden automatisch
+
+370
+00:13:58,740 --> 00:14:00,960
+fragen, wen oder was. Hier fehlt also
+
+371
+00:14:00,960 --> 00:14:02,640
+das direkte Objekt, in diesem Fall
+
+372
+00:14:02,640 --> 00:14:04,800
+das Akkusativobjekt. In den meisten
+
+373
+00:14:04,800 --> 00:14:06,800
+Fällen ist es so, es sei denn, das
+
+374
+00:14:06,800 --> 00:14:09,620
+Verb regiert mit einem Dativ, dass
+
+375
+00:14:09,620 --> 00:14:13,640
+der Akkusativ das direkte Objekt
+
+376
+00:14:13,640 --> 00:14:16,400
+bildet und dann, insofern vorhanden,
+
+377
+00:14:16,400 --> 00:14:18,960
+der Dativ das indirekte Objekt.
+
+378
+00:14:19,180 --> 00:14:21,120
+Kommen wir nun zu den zwei anderen
+
+379
+00:14:21,120 --> 00:14:23,460
+Formen, und zwar dem Genitiv und dem
+
+380
+00:14:23,460 --> 00:14:27,180
+Applativ. Das Genitivobjekt wird von
+
+381
+00:14:27,180 --> 00:14:29,640
+wenigen Verben verlangt. In den
+
+382
+00:14:29,640 --> 00:14:31,340
+meisten Fällen wird es im Deutschen
+
+383
+00:14:31,340 --> 00:14:33,320
+auch mit abweichender Kasus. das
+
+384
+00:14:33,320 --> 00:14:35,100
+heißt mit unterschiedlichem Kasus
+
+385
+00:14:35,100 --> 00:14:37,140
+übersetzt. So haben wir zum Beispiel
+
+386
+00:14:37,140 --> 00:14:39,180
+im Lateinischen meistens Verben des
+
+387
+00:14:39,180 --> 00:14:41,960
+Erinnerns und des Vergessens, die mit
+
+388
+00:14:41,960 --> 00:14:44,260
+einem Genitivobjekt gebildet werden.
+
+389
+00:14:44,380 --> 00:14:47,080
+Bekannte Verben sind Neminisse, als
+
+390
+00:14:47,080 --> 00:14:49,140
+Vergangenheitsinfinitiv gebildet, da
+
+391
+00:14:49,140 --> 00:14:50,580
+es keine Gegenwart davon gibt.
+
+392
+00:14:50,920 --> 00:14:53,200
+Mercator, Pirate, Neminid. Der
+
+393
+00:14:53,200 --> 00:14:55,080
+Kaufmann erinnert sich an seine
+
+394
+00:14:55,080 --> 00:14:56,760
+Heimat, wird hier im Deutschen mit
+
+395
+00:14:56,760 --> 00:15:00,300
+einem Präpositionalobjekt übersetzt.
+
+396
+00:15:00,340 --> 00:15:03,440
+Wir könnten auch als älteres Deutsch
+
+397
+00:15:03,440 --> 00:15:05,200
+sagen, der Kaufmann erinnerte sich
+
+398
+00:15:05,200 --> 00:15:07,780
+seiner Heimat, also auch mit Genitiv
+
+399
+00:15:07,780 --> 00:15:10,380
+übersetzen. Bei Obliviski ist es auch
+
+400
+00:15:10,380 --> 00:15:13,440
+so, dass wir eine abweichende
+
+401
+00:15:13,440 --> 00:15:15,140
+Kasusreaktion haben. Hier geht es
+
+402
+00:15:15,140 --> 00:15:16,300
+sogar überhaupt nicht anders.
+
+403
+00:15:16,480 --> 00:15:19,420
+Magister Discipulorum eos Obliviski
+
+404
+00:15:19,420 --> 00:15:21,600
+tur. Der Meister vergisst seine
+
+405
+00:15:21,600 --> 00:15:23,580
+Schüler. Wen vergisst der Meister
+
+406
+00:15:23,580 --> 00:15:25,880
+seine Schüler? deutschen mit
+
+407
+00:15:25,880 --> 00:15:29,140
+Akkusativ im lateinischen mit
+
+408
+00:15:29,140 --> 00:15:31,960
+Genitivobjekt. Zusätzlich gibt es
+
+409
+00:15:31,960 --> 00:15:34,820
+auch noch den Applativ und zwar ist
+
+410
+00:15:34,820 --> 00:15:36,400
+der Applativ, wie wir schon wissen,
+
+411
+00:15:36,480 --> 00:15:38,960
+meistens eher als Applativ, also als
+
+412
+00:15:38,960 --> 00:15:42,760
+Adverbiale im Satz vorzufinden und
+
+413
+00:15:42,760 --> 00:15:44,960
+nur der Applativus separativus, wir
+
+414
+00:15:44,960 --> 00:15:47,700
+wissen, es gibt mehrere Applativus
+
+415
+00:15:47,700 --> 00:15:50,040
+-Formen, nur der Applativus
+
+416
+00:15:50,040 --> 00:15:52,020
+separativus kann auch als Verb, kann
+
+417
+00:15:52,020 --> 00:15:54,360
+auch als Objekt von einem Verb
+
+418
+00:15:54,360 --> 00:15:56,720
+verlangt werden. Es gibt einige
+
+419
+00:15:56,720 --> 00:15:59,380
+Deponentien, also Deponentien sind
+
+420
+00:15:59,380 --> 00:16:01,280
+Verben mit Passivstamm wie Obliviski,
+
+421
+00:16:01,440 --> 00:16:04,020
+die mit einem Ablativobjekt gebildet
+
+422
+00:16:04,020 --> 00:16:06,080
+werden. Die Übersetzung ist natürlich
+
+423
+00:16:06,080 --> 00:16:08,280
+auch mit abweichender Kasusreaktion,
+
+424
+00:16:08,320 --> 00:16:10,480
+da wir ja wissen, dass es den Ablativ
+
+425
+00:16:10,480 --> 00:16:12,720
+so als Kasus, also als Fall im
+
+426
+00:16:12,720 --> 00:16:14,400
+Deutschen gar nicht gibt. Wir sehen
+
+427
+00:16:14,400 --> 00:16:17,160
+hier mehrere Mehrere Beispiele. Ich
+
+428
+00:16:17,160 --> 00:16:18,720
+picke mir einmal hier eins heraus.
+
+429
+00:16:19,060 --> 00:16:21,620
+Auxilio Egeo. Ich brauche Hilfe. Wen
+
+430
+00:16:21,620 --> 00:16:23,440
+brauche ich Hilfe? Wird hier mit
+
+431
+00:16:23,440 --> 00:16:28,000
+Applativ gebildet. Genauso wie wir
+
+432
+00:16:28,000 --> 00:16:29,520
+hier dieses Beispiel haben, oder
+
+433
+00:16:29,520 --> 00:16:31,240
+nehmen wir das erste in Antiqua Roma.
+
+434
+00:16:33,260 --> 00:16:36,140
+Servi libertate caroerunt. Im antiken
+
+435
+00:16:36,140 --> 00:16:37,380
+Rom hatten die Sklaven keine
+
+436
+00:16:37,380 --> 00:16:39,560
+Freiheit. Wen hatten die Sklaven
+
+437
+00:16:39,560 --> 00:16:42,600
+nicht? Freiheit. Also wen hatten die
+
+438
+00:16:42,600 --> 00:16:44,920
+Sklaven keine Freiheit? Die haben wir
+
+439
+00:16:44,920 --> 00:16:47,420
+in Antika Roma, im antiken Rom. Das
+
+440
+00:16:47,420 --> 00:16:49,920
+haben wir hier als Applativus loci,
+
+441
+00:16:50,020 --> 00:16:51,600
+das heißt, hier steht es auch im
+
+442
+00:16:51,600 --> 00:16:53,680
+Applativ. Aber hier ist es kein
+
+443
+00:16:53,680 --> 00:16:55,320
+Objekt, sondern hier ist es eine
+
+444
+00:16:55,320 --> 00:16:59,040
+adverbiale Bestimmung der Zeit. Wir
+
+445
+00:16:59,040 --> 00:17:00,780
+sehen noch hier weitere. Imperator
+
+446
+00:17:00,780 --> 00:17:03,620
+Castris Potiethor, der Feldherr wird
+
+447
+00:17:03,620 --> 00:17:05,280
+das Lager in seine Gewalt bringen.
+
+448
+00:17:05,460 --> 00:17:06,940
+Wen wird er in die Gewalt bringen?
+
+449
+00:17:07,060 --> 00:17:10,040
+Das Lager. oder wenn wir einen
+
+450
+00:17:10,040 --> 00:17:13,140
+doppelten Applativ haben, dann kann
+
+451
+00:17:13,140 --> 00:17:16,680
+mit dem Verb uti eben das ganze als,
+
+452
+00:17:16,820 --> 00:17:19,240
+als, also mit als übersetzt werden.
+
+453
+00:17:19,360 --> 00:17:21,440
+Also Markus hat einen Bären, Urso,
+
+454
+00:17:21,600 --> 00:17:24,460
+Animali, Domestico als Haustier.
+
+455
+00:17:25,480 --> 00:17:27,240
+Kommen wir nun dazu die
+
+456
+00:17:27,240 --> 00:17:29,120
+Nebensatzglieder zu beleuchten. Ich
+
+457
+00:17:29,120 --> 00:17:30,660
+hoffe, dass das bis hierhin klar ist.
+
+458
+00:17:30,740 --> 00:17:33,580
+Wir hoffen, wir wollen nun über die
+
+459
+00:17:33,580 --> 00:17:35,240
+Nebensatzglieder sprechen und
+
+460
+00:17:35,240 --> 00:17:37,120
+beginnen mit dem Attribut. Das
+
+461
+00:17:37,120 --> 00:17:39,540
+Attribut ist in erster Linie eine
+
+462
+00:17:39,540 --> 00:17:42,020
+Hinzufügung und ein Attribut kann aus
+
+463
+00:17:42,020 --> 00:17:43,700
+mehreren Wortarten gebildet werden.
+
+464
+00:17:43,820 --> 00:17:45,560
+Es fügt also anderen Satzgliedern
+
+465
+00:17:45,560 --> 00:17:49,080
+weitere Eigenschaften hinzu. Weitere
+
+466
+00:17:49,080 --> 00:17:51,240
+Satzglieder bzw. andere Satzglieder,
+
+467
+00:17:51,280 --> 00:17:53,200
+damit meine ich natürlich oder meinen
+
+468
+00:17:53,200 --> 00:17:56,180
+wir natürlich die Hauptsatzglieder.
+
+469
+00:17:56,180 --> 00:17:58,320
+Dabei konzentrieren wir uns
+
+470
+00:17:58,320 --> 00:18:00,540
+allermeist eher auf die Substantive
+
+471
+00:18:00,540 --> 00:18:02,220
+anstatt auf auf die Verben, denn für
+
+472
+00:18:02,220 --> 00:18:04,180
+die Verben haben wir die Adverbialen,
+
+473
+00:18:04,180 --> 00:18:07,000
+zu denen wir gleich kommen. Es
+
+474
+00:18:07,000 --> 00:18:08,840
+reichert also eine Person, eine Sache
+
+475
+00:18:08,840 --> 00:18:10,160
+oder einen Umstand mit weiteren
+
+476
+00:18:10,160 --> 00:18:12,000
+Informationen an. Hier sehen wir den
+
+477
+00:18:12,000 --> 00:18:14,900
+klaren Bezug zur Substantive. Es
+
+478
+00:18:14,900 --> 00:18:17,040
+erfüllt also folgende Kriterien. Das
+
+479
+00:18:17,040 --> 00:18:18,760
+Attribut regiert mit dem
+
+480
+00:18:18,760 --> 00:18:21,380
+entsprechenden Satzglied in
+
+481
+00:18:21,380 --> 00:18:23,120
+Konkurrenz. Das heißt, nimmt den
+
+482
+00:18:23,120 --> 00:18:25,140
+Kasus, den Numerus und gegebenenfalls
+
+483
+00:18:25,140 --> 00:18:28,800
+auch das Genus des entsprechenden
+
+484
+00:18:28,800 --> 00:18:31,260
+Satzglieds an. Wir sehen das mal hier
+
+485
+00:18:31,260 --> 00:18:32,960
+am Beispiel. Es gibt unterschiedliche
+
+486
+00:18:32,960 --> 00:18:37,000
+Wortarten, die ein Attribut formen
+
+487
+00:18:37,000 --> 00:18:39,180
+können. Dabei gibt es Adjektive, also
+
+488
+00:18:39,180 --> 00:18:41,360
+Wie-Worte oder Substantive selbst,
+
+489
+00:18:41,560 --> 00:18:43,560
+die kein Objekt oder kein Subjekt
+
+490
+00:18:43,560 --> 00:18:46,560
+sind. Pronomen oder Relativsätze,
+
+491
+00:18:47,100 --> 00:18:48,720
+Partizipien oder satzwertige
+
+492
+00:18:48,720 --> 00:18:50,080
+Konstruktionen. Das heißt, wir
+
+493
+00:18:50,080 --> 00:18:51,860
+lernen, ganze Nebensätze können
+
+494
+00:18:51,860 --> 00:18:53,300
+ebenfalls auch als Attribut
+
+495
+00:18:53,300 --> 00:18:55,400
+verstanden werden oder Zahlenwörter
+
+496
+00:18:55,400 --> 00:18:58,220
+bzw. Numeralien. Wir beginnen das mal
+
+497
+00:18:58,220 --> 00:19:00,240
+am Beispiel auf. Wir haben hier
+
+498
+00:19:00,240 --> 00:19:03,900
+Phamosus Medicus Poella Curat. Hier
+
+499
+00:19:03,900 --> 00:19:05,460
+haben wir einen berühmten Arzt, ein
+
+500
+00:19:05,460 --> 00:19:07,720
+Mädchen. Hier wird Phamosus Teil des
+
+501
+00:19:07,720 --> 00:19:11,180
+Subjekts. Wir haben dann Phamosus
+
+502
+00:19:11,180 --> 00:19:15,340
+Medicus Filia Mercatoris Curat, ein
+
+503
+00:19:15,340 --> 00:19:16,820
+berühmter Arzt, die Tochter des
+
+504
+00:19:16,820 --> 00:19:18,840
+Kaufmannes. Hier wird eben ein
+
+505
+00:19:18,840 --> 00:19:20,920
+Substantiv Teil des
+
+506
+00:19:20,920 --> 00:19:25,340
+Akkusativobjektes,
+
+507
+00:19:25,400 --> 00:19:26,200
+das heißt wir haben hier ein
+
+508
+00:19:26,200 --> 00:19:28,640
+Genitivattribut. Dann haben wir ein
+
+509
+00:19:28,640 --> 00:19:30,800
+Possessivpronomen, das heißt ein
+
+510
+00:19:30,800 --> 00:19:33,480
+Pronomen, welches Teil des Subjektes
+
+511
+00:19:33,480 --> 00:19:34,940
+wird, beziehungsweise Teil des
+
+512
+00:19:34,940 --> 00:19:36,300
+Objektes hier in diesem Fall.
+
+513
+00:19:36,720 --> 00:19:39,120
+Medicus, Suam, Filiam, Kurat. Hier
+
+514
+00:19:39,120 --> 00:19:41,620
+haben wir Uam, also Filiam und Suam,
+
+515
+00:19:41,620 --> 00:19:43,180
+das heißt Suam ist das
+
+516
+00:19:43,180 --> 00:19:44,840
+Possessivpronomen, welches sich auf
+
+517
+00:19:44,840 --> 00:19:47,560
+Arzt bezieht. allerdings mit filiam
+
+518
+00:19:47,560 --> 00:19:49,200
+übereinstimmt, damit wir wissen, auf
+
+519
+00:19:49,200 --> 00:19:51,220
+wen sich das bezieht. Dann haben wir
+
+520
+00:19:51,220 --> 00:19:53,760
+einen Nebensatz, welcher sich auf das
+
+521
+00:19:53,760 --> 00:19:56,620
+poella, also auf das Akkusativobjekt
+
+522
+00:19:56,620 --> 00:19:58,620
+bezieht, medicus poellam, coelector
+
+523
+00:19:58,620 --> 00:20:02,000
+teneto, curat. Der Arzt halt ein
+
+524
+00:20:02,000 --> 00:20:04,300
+Mädchen, welches das Bett hütet. Also
+
+525
+00:20:04,300 --> 00:20:07,300
+hier beschreibt ja der Relativsatz
+
+526
+00:20:07,300 --> 00:20:11,460
+das Objekt. Hier haben wir ein
+
+527
+00:20:11,460 --> 00:20:15,780
+Partizip, welches sich als Attribut
+
+528
+00:20:15,780 --> 00:20:17,740
+zu Arminius packt. Dabei haben wir
+
+529
+00:20:17,740 --> 00:20:20,520
+hier ein Partizip und einen Applativ.
+
+530
+00:20:20,620 --> 00:20:22,180
+Wir kennen das als Partizipium
+
+531
+00:20:22,180 --> 00:20:24,080
+Conjunctum oder einfach als PPP.
+
+532
+00:20:25,060 --> 00:20:27,440
+Arminius Iracaptus Romanus Petivit,
+
+533
+00:20:27,500 --> 00:20:29,420
+der von Zorn ergriffen Arminius,
+
+534
+00:20:29,480 --> 00:20:31,020
+griff die Römer an. Also hier wird
+
+535
+00:20:31,020 --> 00:20:34,100
+Iracaptus, also dieses Partizipium
+
+536
+00:20:34,100 --> 00:20:38,380
+Conjunctum, Teil des Subjektes. Dann
+
+537
+00:20:38,380 --> 00:20:40,600
+haben wir Rex videt pontem deletus
+
+538
+00:20:40,600 --> 00:20:45,160
+esse. Hier wird das Partizip, also
+
+539
+00:20:45,160 --> 00:20:49,520
+das PPP mit ACI, also satzwertige
+
+540
+00:20:49,520 --> 00:20:51,400
+Konstruktion, Teil des
+
+541
+00:20:51,400 --> 00:20:53,740
+Akkusativobjektes. Der König sieht,
+
+542
+00:20:53,840 --> 00:20:55,660
+dass die Brücke zerstört worden ist.
+
+543
+00:20:55,700 --> 00:20:57,080
+Wir können das dadurch überprüfen,
+
+544
+00:20:57,100 --> 00:20:58,980
+dass wir fragen, der König sieht wen
+
+545
+00:20:58,980 --> 00:21:01,220
+oder was und zwar sieht er, dass die
+
+546
+00:21:01,220 --> 00:21:03,400
+Brücke zerstört worden ist. Dann
+
+547
+00:21:03,400 --> 00:21:05,100
+haben wir noch ein Zahlenwort und
+
+548
+00:21:05,100 --> 00:21:07,780
+zwar hier im Applativ ausgedrückt,
+
+549
+00:21:07,780 --> 00:21:10,220
+der Oramedikus Romam it, das heißt
+
+550
+00:21:10,220 --> 00:21:12,220
+zur dritten Stunde geht der Arzt nach
+
+551
+00:21:12,220 --> 00:21:13,360
+Hause. Das heißt, wir haben hier
+
+552
+00:21:13,360 --> 00:21:15,860
+Zahlenwörter mit einem Substantiv im
+
+553
+00:21:15,860 --> 00:21:20,000
+Applativ. Die Adverbiale ist, anders
+
+554
+00:21:20,000 --> 00:21:22,460
+als das Attribut, ein Umstandswort.
+
+555
+00:21:22,520 --> 00:21:24,300
+Das heißt, sie wird auch aus mehreren
+
+556
+00:21:24,300 --> 00:21:26,040
+Wortarten gebildet und setzt sich
+
+557
+00:21:26,040 --> 00:21:27,740
+zusammen. Dabei ist sie allerdings
+
+558
+00:21:27,740 --> 00:21:29,580
+nicht Teil eines anderen Satzbils,
+
+559
+00:21:29,680 --> 00:21:31,460
+sondern ist ein vollständiges.
+
+560
+00:21:31,640 --> 00:21:33,720
+souveränes eigenes Satzglied. Die
+
+561
+00:21:33,720 --> 00:21:35,620
+Adverbiale ist dabei weder Subjekt
+
+562
+00:21:35,620 --> 00:21:38,300
+noch Objekt oder Prädikat. Sie stellt
+
+563
+00:21:38,300 --> 00:21:40,860
+also einen zusätzlichen Umstand dar.
+
+564
+00:21:41,120 --> 00:21:44,940
+Die Adverbiale steht im direkten
+
+565
+00:21:44,940 --> 00:21:46,820
+Bezug auch zum Prädikat, natürlich
+
+566
+00:21:46,820 --> 00:21:49,240
+wie alle anderen Satzglieder auch und
+
+567
+00:21:49,240 --> 00:21:50,620
+die Adverbiale entstammt den
+
+568
+00:21:50,620 --> 00:21:53,060
+Adverbien. Hier sehen wir auch den
+
+569
+00:21:53,060 --> 00:21:54,780
+klaren Bezug zum Prädikat, da
+
+570
+00:21:54,780 --> 00:21:57,120
+Adverbien, also zum Verb gehörende
+
+571
+00:21:57,120 --> 00:21:59,000
+Wörter, meistens das Wie des
+
+572
+00:21:59,000 --> 00:22:01,220
+Prädikates beschreiben. Das heißt, im
+
+573
+00:22:01,220 --> 00:22:03,680
+weiteren Sinne sind Adverbialen auch
+
+574
+00:22:03,680 --> 00:22:05,840
+Erweiterung des Prädikates.
+
+575
+00:22:06,980 --> 00:22:08,520
+Adverbialen sind allerdings nicht
+
+576
+00:22:08,520 --> 00:22:10,100
+notwendig im Satz, das heißt, in
+
+577
+00:22:10,100 --> 00:22:11,380
+unserer Übersetzung sind sie
+
+578
+00:22:11,380 --> 00:22:14,240
+zuallerletzt zu übersetzen. Die
+
+579
+00:22:14,240 --> 00:22:15,820
+Adverbialen erfüllen folgende
+
+580
+00:22:15,820 --> 00:22:17,420
+Kriterien, entweder stehen sie im
+
+581
+00:22:17,420 --> 00:22:19,120
+Applativ, das sind die bekanntesten,
+
+582
+00:22:19,260 --> 00:22:22,320
+im Akkusativ oder im Dativ. Sie
+
+583
+00:22:22,320 --> 00:22:23,540
+können durch eine Präposition
+
+584
+00:22:23,540 --> 00:22:25,580
+eingeleitet werden oder die
+
+585
+00:22:25,580 --> 00:22:27,060
+Adverbiale kann einen gesamten
+
+586
+00:22:27,060 --> 00:22:28,680
+Nebensatz bilden. Wir wollen das hier
+
+587
+00:22:28,680 --> 00:22:30,440
+einmal sehen. Wir sehen hier die
+
+588
+00:22:30,440 --> 00:22:32,600
+unterschiedlichen Applativus-Formen.
+
+589
+00:22:32,640 --> 00:22:34,820
+Wir erinnern uns, einzig und allein
+
+590
+00:22:34,820 --> 00:22:37,160
+kann der Applativus separativus auch
+
+591
+00:22:37,160 --> 00:22:40,240
+als Objekt gebildet werden. Wir
+
+592
+00:22:40,240 --> 00:22:42,380
+sehen, die Adverbiale findet sich
+
+593
+00:22:42,380 --> 00:22:44,980
+häufig als Applativ im Satz. Anhand
+
+594
+00:22:44,980 --> 00:22:46,920
+ihres Namens definiert sich Frage und
+
+595
+00:22:46,920 --> 00:22:48,420
+Absicht des Satzgeistes. Das heißt,
+
+596
+00:22:48,480 --> 00:22:50,180
+wir haben die einzelnen
+
+597
+00:22:50,180 --> 00:22:52,420
+Beschreibungen der Zeit, des Ortes,
+
+598
+00:22:52,560 --> 00:22:55,840
+des Mittels oder auch des Grundes
+
+599
+00:22:55,840 --> 00:22:58,560
+oder der Art und Weise. Wir haben
+
+600
+00:22:58,560 --> 00:23:00,180
+also unterschiedliche Fragen, die wir
+
+601
+00:23:00,180 --> 00:23:01,840
+fragen können und wir wollen hier
+
+602
+00:23:01,840 --> 00:23:03,900
+einmal in diesem Beispielsatz darauf
+
+603
+00:23:03,900 --> 00:23:06,420
+eingehen, wie wir mit Hilfe von
+
+604
+00:23:06,420 --> 00:23:08,040
+Adverbialen den Satz anreichern
+
+605
+00:23:08,040 --> 00:23:10,180
+können, aber feststellen, dass diese
+
+606
+00:23:10,180 --> 00:23:13,700
+Umstandswörter nicht notwendig sind.
+
+607
+00:23:14,260 --> 00:23:15,600
+Das heißt, sie können auch
+
+608
+00:23:15,600 --> 00:23:17,480
+weggelassen werden. den Satz einmal
+
+609
+00:23:17,480 --> 00:23:20,280
+lesen. Tertia hora in foro romano,
+
+610
+00:23:20,280 --> 00:23:23,160
+locius cum amicus suo, katana viens
+
+611
+00:23:23,160 --> 00:23:26,220
+cum gaudio, alies mercatoris salutat.
+
+612
+00:23:26,320 --> 00:23:28,320
+Wir übersetzen. Zur dritten Stunde
+
+613
+00:23:28,320 --> 00:23:30,180
+begrüßt er mit seinem Freund aus
+
+614
+00:23:30,180 --> 00:23:32,600
+Katana com locius auf dem Forum
+
+615
+00:23:32,600 --> 00:23:34,440
+Romanum die anderen Kaufleute mit
+
+616
+00:23:34,440 --> 00:23:36,440
+großer Freude. Wir wollen also den
+
+617
+00:23:36,440 --> 00:23:39,500
+Satz nun mal reduzieren auf die
+
+618
+00:23:39,500 --> 00:23:41,200
+notwendigen Satzglieder, Das heißt,
+
+619
+00:23:41,240 --> 00:23:42,640
+auf die Hauptsatzglieder, wir suchen
+
+620
+00:23:42,640 --> 00:23:45,540
+also Prädikat, Subjekt und Objekt.
+
+621
+00:23:45,600 --> 00:23:47,280
+Wir stellen fest, Salutat, dritte
+
+622
+00:23:47,280 --> 00:23:49,020
+Person Singular, darauf trifft
+
+623
+00:23:49,020 --> 00:23:51,080
+Locius, der im Nominativ Singular
+
+624
+00:23:51,080 --> 00:23:52,380
+steht. Das heißt, wir haben unser
+
+625
+00:23:52,380 --> 00:23:53,980
+Prädikat und unser Subjekt gefunden
+
+626
+00:23:53,980 --> 00:23:55,840
+und haben hier Salutat
+
+627
+00:23:55,840 --> 00:23:58,120
+jemandengrößten. Also suchen wir
+
+628
+00:23:58,120 --> 00:23:59,880
+einen Akkusativ und haben hier den
+
+629
+00:23:59,880 --> 00:24:02,000
+Form Merkatoris gefunden und haben
+
+630
+00:24:02,000 --> 00:24:04,260
+hier zusätzlich noch Aliis. Das heißt
+
+631
+00:24:04,260 --> 00:24:07,140
+ein Attribut, das heißt ein
+
+632
+00:24:07,140 --> 00:24:09,620
+zusätzliches Wie-Wort, das heißt Wie,
+
+633
+00:24:09,800 --> 00:24:12,300
+ja, und zwar die anderen Kaufleute,
+
+634
+00:24:12,300 --> 00:24:13,740
+das ist noch ein Wie-Wort, das heißt
+
+635
+00:24:13,740 --> 00:24:15,960
+ein anreicherndes Wort, also eine
+
+636
+00:24:15,960 --> 00:24:18,560
+zusätzliche Hinzufügung und wir
+
+637
+00:24:18,560 --> 00:24:20,920
+übersetzen, Lokius begrüßt die
+
+638
+00:24:20,920 --> 00:24:24,200
+anderen Kaufleute. Nun reichern wir
+
+639
+00:24:24,200 --> 00:24:27,380
+die Umstände an und fügen einen Zeit
+
+640
+00:24:27,380 --> 00:24:29,820
+hinzu, zur dritten Stunde, dann einen
+
+641
+00:24:29,820 --> 00:24:32,320
+Ort auf dem Forum Romanum. Dann
+
+642
+00:24:32,320 --> 00:24:35,420
+können wir noch cum gaudio, cum amico
+
+643
+00:24:35,420 --> 00:24:37,620
+suum, das heißt mit seinem Freund,
+
+644
+00:24:37,720 --> 00:24:38,780
+das heißt wir haben hier ein
+
+645
+00:24:38,780 --> 00:24:41,240
+ablativus sociativus. Dann haben wir
+
+646
+00:24:41,240 --> 00:24:43,420
+noch ein separativus, katana viens,
+
+647
+00:24:43,440 --> 00:24:44,740
+wir stellen also fest, hier auch
+
+648
+00:24:44,740 --> 00:24:47,060
+wieder Prädikat in Form eines
+
+649
+00:24:47,060 --> 00:24:50,200
+ablativus separativus, das heißt
+
+650
+00:24:50,200 --> 00:24:52,880
+woher. Cum gaudio, dann auf welche
+
+651
+00:24:52,880 --> 00:24:55,000
+Weise? Das heißt, cum gaudio im Sinne
+
+652
+00:24:55,000 --> 00:24:58,720
+von modal, wie oder auf welche Weise
+
+653
+00:24:58,720 --> 00:25:01,000
+begrüßt er sie? Das heißt, wir
+
+654
+00:25:01,000 --> 00:25:02,940
+stellen fest, wir können in unserer
+
+655
+00:25:02,940 --> 00:25:04,800
+Übersetzung dann nach und nach die
+
+656
+00:25:04,800 --> 00:25:06,840
+einzelnen Umstandswörter hinzufügen
+
+657
+00:25:06,840 --> 00:25:08,800
+und können uns so einen guten Satz
+
+658
+00:25:08,800 --> 00:25:11,020
+konstruieren. Kommen wir nun zu dem
+
+659
+00:25:11,020 --> 00:25:12,680
+Prädikativum der besonderen
+
+660
+00:25:12,680 --> 00:25:14,900
+Adverbiale. Ein Prädikativum ist eine
+
+661
+00:25:14,900 --> 00:25:17,460
+besondere Adverbiale, da sie eine
+
+662
+00:25:17,460 --> 00:25:19,080
+abhängige Adverbiale ist. Wir haben
+
+663
+00:25:19,080 --> 00:25:20,580
+gerade gelernt, sie sind unabhängig,
+
+664
+00:25:20,600 --> 00:25:21,900
+das heißt, sie bilden eigene
+
+665
+00:25:21,900 --> 00:25:25,460
+Satzglieder. Die Adverbiale, das
+
+666
+00:25:25,460 --> 00:25:27,760
+Prädikativum nicht, denn es hängt von
+
+667
+00:25:27,760 --> 00:25:29,980
+jemandem ab. Und zwar beschreibt es
+
+668
+00:25:29,980 --> 00:25:31,840
+einen gleichwertigen Zusatz mit einem
+
+669
+00:25:31,840 --> 00:25:33,920
+weiteren Nominativ. Das heißt, es
+
+670
+00:25:33,920 --> 00:25:36,580
+hängt vom Subjekt ab. Das
+
+671
+00:25:36,580 --> 00:25:38,620
+Prädikativum erfüllt also folgende
+
+672
+00:25:38,620 --> 00:25:41,960
+Kriterien. Das Prädikativum ist ein
+
+673
+00:25:41,960 --> 00:25:44,600
+weiteres Substantiv im Nominativ. Es
+
+674
+00:25:44,600 --> 00:25:46,700
+wird aus einem Substantiv oder einem
+
+675
+00:25:46,700 --> 00:25:48,540
+Adjektiv in Konkurrenz zum Subjekt
+
+676
+00:25:48,540 --> 00:25:50,680
+gebildet, also steht in Casus Numerus
+
+677
+00:25:50,680 --> 00:25:54,640
+und Genus damit überein. Der Zusatz,
+
+678
+00:25:54,660 --> 00:25:56,280
+also das Prädikativum, wird mit als
+
+679
+00:25:56,280 --> 00:25:57,840
+übersetzt. Wir sehen das hier als
+
+680
+00:25:57,840 --> 00:26:00,060
+Beispiel, Gladiatoris in Arema primi
+
+681
+00:26:00,060 --> 00:26:03,300
+intrand. Die Gladiatoren betreten als
+
+682
+00:26:03,300 --> 00:26:05,980
+erste die Arena. Caesar Diktator
+
+683
+00:26:05,980 --> 00:26:09,060
+mortus est. Caesar ist als Diktator
+
+684
+00:26:09,060 --> 00:26:10,560
+gestorben. Wir stellen fest, beide
+
+685
+00:26:10,560 --> 00:26:12,600
+Male hier als Adjektiv und hier als
+
+686
+00:26:12,600 --> 00:26:15,300
+Substantiv steht es in Konkurrenz zu
+
+687
+00:26:15,300 --> 00:26:17,340
+unserem Subjekt und wird mit als
+
+688
+00:26:17,340 --> 00:26:20,980
+übersetzt. Wir haben also heute die
+
+689
+00:26:20,980 --> 00:26:22,740
+Hauptsatzkria kennengelernt. Wir
+
+690
+00:26:22,740 --> 00:26:24,420
+haben gelernt, dass sie einer
+
+691
+00:26:24,420 --> 00:26:26,160
+gewissen Ordnung folgen. Dabei haben
+
+692
+00:26:26,160 --> 00:26:27,780
+wir festgestellt, wir sollten zuerst
+
+693
+00:26:27,780 --> 00:26:30,100
+das Prädikat, dann das Subjekt, dann
+
+694
+00:26:30,100 --> 00:26:33,140
+gegebenenfalls das Objekt übersetzen.
+
+695
+00:26:33,260 --> 00:26:36,020
+Wir haben gelernt, wie die Satzkria
+
+696
+00:26:36,020 --> 00:26:37,640
+sich aufeinander beziehen. Also wir
+
+697
+00:26:37,640 --> 00:26:39,080
+haben festgestellt, dass innerhalb
+
+698
+00:26:39,080 --> 00:26:40,860
+des Prädikats ein Subjekt schon
+
+699
+00:26:40,860 --> 00:26:42,400
+enthalten ist, welches wir über die
+
+700
+00:26:42,400 --> 00:26:43,880
+Personallendung schon erschließen
+
+701
+00:26:43,880 --> 00:26:45,600
+können. Wir können das Subjekt
+
+702
+00:26:45,600 --> 00:26:46,960
+darüber erschließen, indem wir
+
+703
+00:26:46,960 --> 00:26:48,460
+schauen, in welchem Numerus das
+
+704
+00:26:48,460 --> 00:26:50,960
+Prädikat steht und können das Objekt
+
+705
+00:26:50,960 --> 00:26:53,220
+darüber erschließen, indem wir uns
+
+706
+00:26:53,220 --> 00:26:57,900
+fragen, mit welchem Objekt und ob es
+
+707
+00:26:57,900 --> 00:27:00,260
+überhaupt mit einem Objekt regiert.
+
+708
+00:27:00,280 --> 00:27:02,200
+Das haben wir geklärt unter dem
+
+709
+00:27:02,200 --> 00:27:03,740
+Fachbegriff Transitivität.
+
+710
+00:27:03,740 --> 00:27:05,240
+Anschließend haben wir uns
+
+711
+00:27:05,240 --> 00:27:07,540
+angeschaut, dass Attribute sich
+
+712
+00:27:07,540 --> 00:27:09,640
+anderen Satzgliedern hinzufügen. Also
+
+713
+00:27:09,640 --> 00:27:10,640
+sie werden entweder Teil eines
+
+714
+00:27:10,640 --> 00:27:13,640
+Subjektes oder eines Objektes. Dabei
+
+715
+00:27:13,640 --> 00:27:17,040
+ist es so, dass es unterschiedliche
+
+716
+00:27:17,040 --> 00:27:21,840
+Wortarten gibt, die ein
+
+717
+00:27:21,840 --> 00:27:23,820
+Attribut bilden können. Anschließend
+
+718
+00:27:23,820 --> 00:27:24,980
+haben wir gesehen, dass die
+
+719
+00:27:24,980 --> 00:27:26,860
+adverbialen Umstandswörter sind, die
+
+720
+00:27:26,860 --> 00:27:29,060
+eigenständige Satzglieder
+
+721
+00:27:29,060 --> 00:27:31,260
+konstruieren und dass das
+
+722
+00:27:31,260 --> 00:27:33,600
+Prädikativum ein Eine Besonderheit
+
+723
+00:27:33,600 --> 00:27:35,700
+ist, denn es vereint Adverbiale und
+
+724
+00:27:35,700 --> 00:27:37,360
+eine Abhängigkeit. Das heißt, es ist
+
+725
+00:27:37,360 --> 00:27:39,680
+eine Mischung aus Attribut und
+
+726
+00:27:39,680 --> 00:27:42,440
+Adverbiale. Das steht meistens in KNG
+
+727
+00:27:42,440 --> 00:27:44,640
+-Kongruenz zum Subjekt und wird dann
+
+728
+00:27:44,640 --> 00:27:47,900
+als Zusatz mit als übersetzt. Vielen
+
+729
+00:27:47,900 --> 00:27:49,280
+Dank für die Aufmerksamkeit.
+

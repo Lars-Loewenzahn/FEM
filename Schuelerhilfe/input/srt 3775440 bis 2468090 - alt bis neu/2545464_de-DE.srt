@@ -1,0 +1,1768 @@
+1
+00:00:01,100 --> 00:00:02,960
+Herzlich willkommen zum Webinar
+
+2
+00:00:02,960 --> 00:00:05,660
+Quader und Würfelnetze. Wir werden
+
+3
+00:00:05,660 --> 00:00:06,980
+uns in diesem Webinar damit
+
+4
+00:00:06,980 --> 00:00:08,620
+beschäftigen, wie wir Quader und
+
+5
+00:00:08,620 --> 00:00:10,840
+Würfelnetze zeichnen, also die
+
+6
+00:00:10,840 --> 00:00:13,040
+Schrägbilder sowie die Netze.
+
+7
+00:00:14,020 --> 00:00:15,320
+Anschließend werden wir noch das
+
+8
+00:00:15,320 --> 00:00:17,240
+Volumen und die Oberfläche von diesen
+
+9
+00:00:17,240 --> 00:00:18,660
+berechnen, beziehungsweise anhand
+
+10
+00:00:18,660 --> 00:00:20,620
+einer kleinen Beispielaufgabe die
+
+11
+00:00:20,620 --> 00:00:24,340
+Formeln vorführen. Und damit sind wir
+
+12
+00:00:24,340 --> 00:00:26,860
+auch schon bei den Zeichnen von
+
+13
+00:00:26,860 --> 00:00:29,180
+Schrägbildern. Das bedeutet, wir
+
+14
+00:00:29,180 --> 00:00:30,800
+schauen uns als erstes einmal an, was
+
+15
+00:00:30,800 --> 00:00:33,480
+ist überhaupt ein Würfel bzw. was ist
+
+16
+00:00:33,480 --> 00:00:35,740
+ein Quader? Quader und Würfel kennen
+
+17
+00:00:35,740 --> 00:00:37,160
+wir aus dem Alltag vielleicht von
+
+18
+00:00:37,160 --> 00:00:40,660
+Spielwürfeln. Die kann man als Würfel
+
+19
+00:00:40,660 --> 00:00:42,760
+darstellen, als Schuhkartons, das ist
+
+20
+00:00:42,760 --> 00:00:45,180
+ein Quader. Ziegelsteine ist auch ein
+
+21
+00:00:45,180 --> 00:00:48,060
+Quader oder als Container. Dabei ist
+
+22
+00:00:48,060 --> 00:00:49,020
+ein Container eher als
+
+23
+00:00:49,020 --> 00:00:51,000
+Überseecontainer, also so ein Gebilde
+
+24
+00:00:51,000 --> 00:00:55,800
+gemeint. Ein Quader weist erstmal wie
+
+25
+00:00:55,800 --> 00:00:58,140
+der Würfel sechs Seiten auf. Beim
+
+26
+00:00:58,140 --> 00:00:59,800
+Quader sind die zwei
+
+27
+00:00:59,800 --> 00:01:01,560
+gegenüberliegenden Seiten, also die
+
+28
+00:01:01,560 --> 00:01:03,280
+Deckfläche und die Grundfläche hier,
+
+29
+00:01:03,380 --> 00:01:05,440
+immer gleich groß und parallel
+
+30
+00:01:05,440 --> 00:01:07,060
+zueinander. Das bedeutet, sie haben
+
+31
+00:01:07,060 --> 00:01:08,540
+die gleiche Länge und die gleiche
+
+32
+00:01:08,540 --> 00:01:11,160
+Breite. Die jeweils gegenüberliegende
+
+33
+00:01:11,160 --> 00:01:14,020
+Fläche sind genau die gleichen. Sie
+
+34
+00:01:14,020 --> 00:01:16,140
+haben immer die gleiche Länge und die
+
+35
+00:01:16,140 --> 00:01:17,440
+gleiche Breite. Das ist beim Quader
+
+36
+00:01:17,440 --> 00:01:19,940
+so. daher kann das quader drei
+
+37
+00:01:19,940 --> 00:01:23,640
+verschiedene flächen haben das heißt
+
+38
+00:01:23,640 --> 00:01:25,880
+wir sehen hier eine die fläche kann
+
+39
+00:01:25,880 --> 00:01:27,540
+eine andere größe haben als die hier
+
+40
+00:01:27,540 --> 00:01:31,200
+oben und als die stehenfläche das
+
+41
+00:01:31,200 --> 00:01:34,660
+heißt die länge und die breite und
+
+42
+00:01:34,660 --> 00:01:36,400
+die höhe eines quaders kann
+
+43
+00:01:36,400 --> 00:01:39,020
+unterschiedlich sein dies ist beim
+
+44
+00:01:39,020 --> 00:01:41,080
+würfel nicht so beim würfel ist die
+
+45
+00:01:41,080 --> 00:01:43,080
+länge und die breite und die höhe
+
+46
+00:01:43,080 --> 00:01:46,340
+gleich ja deswegen besteht ein
+
+47
+00:01:46,600 --> 00:01:50,020
+lediglich aus sechs quadraten diese
+
+48
+00:01:50,020 --> 00:01:51,560
+sechs quadrate sind natürlich alle
+
+49
+00:01:51,560 --> 00:01:53,980
+gleich groß und daher ist ein würfel
+
+50
+00:01:53,980 --> 00:01:56,060
+anders zu berechnen beziehungsweise
+
+51
+00:01:56,060 --> 00:01:58,040
+einfacher zu berechnen als ein quader
+
+52
+00:01:58,040 --> 00:02:01,260
+beide körper teilen sich die
+
+53
+00:02:01,260 --> 00:02:03,480
+eigenschaft dass alle flächen
+
+54
+00:02:03,480 --> 00:02:04,820
+senkrecht aufeinander stehen das
+
+55
+00:02:04,820 --> 00:02:07,600
+heißt diese deckfläche hier steht
+
+56
+00:02:07,600 --> 00:02:09,240
+senkrecht zu der seitenfläche
+
+57
+00:02:09,240 --> 00:02:11,080
+dazwischen herrscht ein rechter
+
+58
+00:02:11,080 --> 00:02:13,100
+winkel und die deckfläche steht
+
+59
+00:02:13,100 --> 00:02:14,480
+natürlich auch senkrecht zu der
+
+60
+00:02:14,480 --> 00:02:16,960
+stehfläche Gleiches gilt natürlich
+
+61
+00:02:16,960 --> 00:02:19,420
+für die Stehenfläche und die andere
+
+62
+00:02:19,420 --> 00:02:20,400
+Seitenfläche.
+
+63
+00:02:22,570 --> 00:02:25,510
+Wenn wir nun einen Würfel oder einen
+
+64
+00:02:25,510 --> 00:02:27,250
+Quader zeichnen wollen, müssen wir
+
+65
+00:02:27,250 --> 00:02:29,130
+natürlich erstmal gucken, was für
+
+66
+00:02:29,130 --> 00:02:30,930
+Angaben wir haben. Das heißt, wenn
+
+67
+00:02:30,930 --> 00:02:32,170
+wir einen Quader zeichnen wollen,
+
+68
+00:02:32,230 --> 00:02:33,410
+brauchen wir Angaben über die Länge,
+
+69
+00:02:33,450 --> 00:02:36,350
+die Breite und die Höhe. Beim Würfel
+
+70
+00:02:36,350 --> 00:02:38,270
+ist dies prinzipiell identisch, aber
+
+71
+00:02:38,270 --> 00:02:41,270
+beim Würfel reicht eine Angabe, weil
+
+72
+00:02:41,270 --> 00:02:43,290
+wir haben ja gerade gelernt, die Die
+
+73
+00:02:43,290 --> 00:02:44,930
+Kantenlänge beim Würfel ist immer
+
+74
+00:02:44,930 --> 00:02:46,630
+gleich, heißt alle Kanten beim Würfel
+
+75
+00:02:46,630 --> 00:02:48,170
+sind gleich lang, deswegen reicht uns
+
+76
+00:02:48,170 --> 00:02:50,590
+eine Kantenlänge. In dem Beispiel
+
+77
+00:02:50,590 --> 00:02:51,990
+sollen wir nun einen Würfel mit einer
+
+78
+00:02:51,990 --> 00:02:54,910
+Kantenlänge von 4 cm zeichnen. Und
+
+79
+00:02:54,910 --> 00:02:56,850
+weil es ein Würfel ist, reicht uns
+
+80
+00:02:56,850 --> 00:02:58,850
+diese eine Angabe. Wenn es ein Quader
+
+81
+00:02:58,850 --> 00:03:00,650
+wäre, bräuchten wir insgesamt drei
+
+82
+00:03:00,650 --> 00:03:02,630
+Angaben, also Länge, Breite, Höhe
+
+83
+00:03:02,630 --> 00:03:04,850
+oder irgendeine Angabe, die sagt,
+
+84
+00:03:04,910 --> 00:03:08,530
+dass zwei Dimensionen gleich groß
+
+85
+00:03:08,530 --> 00:03:11,550
+sind. Gut, wenn wir so einen
+
+86
+00:03:11,550 --> 00:03:14,670
+Schrägbitt zeichnen wollen, fangen
+
+87
+00:03:14,670 --> 00:03:16,570
+wir einfach an und zeichnen eine
+
+88
+00:03:16,570 --> 00:03:18,330
+Kante. Am besten ist es, wenn man die
+
+89
+00:03:18,330 --> 00:03:20,690
+Kante nimmt, die unten ist. Beim
+
+90
+00:03:20,690 --> 00:03:23,570
+Würfel ist diese 4 cm jetzt lang. Das
+
+91
+00:03:23,570 --> 00:03:24,830
+heißt, wir zeichnen erstmal eine
+
+92
+00:03:24,830 --> 00:03:27,510
+Strecke von 4 cm, idealerweise
+
+93
+00:03:27,510 --> 00:03:28,430
+waagerecht.
+
+94
+00:03:31,150 --> 00:03:33,790
+Anschließend zeichnet man dann zwei
+
+95
+00:03:33,790 --> 00:03:36,010
+senkrechte Strecken, ebenfalls mit 4
+
+96
+00:03:36,010 --> 00:03:38,010
+cm, also die Höhe des Würfels wird
+
+97
+00:03:38,010 --> 00:03:40,370
+das später das ist wenn wir so wollen
+
+98
+00:03:40,370 --> 00:03:44,650
+die breite des würfels das ist die
+
+99
+00:03:44,650 --> 00:03:48,070
+höhe und anschließend verbinden wir
+
+100
+00:03:48,070 --> 00:03:49,970
+noch die gerade gezeichneten striche
+
+101
+00:03:49,970 --> 00:03:53,670
+zu einem quadrat erst mal ja also wir
+
+102
+00:03:53,670 --> 00:03:54,890
+sehen jetzt schon mal von unserem
+
+103
+00:03:54,890 --> 00:03:58,530
+späteren schrägbild hier die höhe und
+
+104
+00:03:58,530 --> 00:04:00,830
+die breite was jetzt natürlich noch
+
+105
+00:04:00,830 --> 00:04:02,730
+zu dem eigentlichen schrägbild fehlt
+
+106
+00:04:02,730 --> 00:04:07,090
+ist die tiefe diese zeichnen Und
+
+107
+00:04:07,090 --> 00:04:11,350
+zwar, die Kante für die Tiefe des
+
+108
+00:04:11,350 --> 00:04:14,590
+Würfels wird in einem 45° Winkel von
+
+109
+00:04:14,590 --> 00:04:17,090
+hier kommt gezeichnet. Also hier
+
+110
+00:04:17,090 --> 00:04:18,010
+unten sieht man es besser, hier
+
+111
+00:04:18,010 --> 00:04:20,750
+zwischen herrscht ein 45° Winkel und
+
+112
+00:04:20,750 --> 00:04:22,170
+wenn man die Kante hier weiterführen
+
+113
+00:04:22,170 --> 00:04:23,890
+würde, herrscht auch hier ein 45°
+
+114
+00:04:23,890 --> 00:04:26,010
+Winkel. Das bedeutet natürlich im
+
+115
+00:04:26,010 --> 00:04:29,130
+Umkehrschluss, dass hier ein 135°
+
+116
+00:04:29,130 --> 00:04:30,290
+Winkel besteht.
+
+117
+00:04:33,740 --> 00:04:34,860
+Gleiches machen wir nun auf der
+
+118
+00:04:34,860 --> 00:04:36,180
+anderen Seite, das heißt auch hier
+
+119
+00:04:36,180 --> 00:04:38,620
+zeichnen wir die Kante. beiden Kanten
+
+120
+00:04:38,620 --> 00:04:41,060
+ein. Wichtig dabei ist, die Kante
+
+121
+00:04:41,060 --> 00:04:44,120
+hier unten, die ist ja eigentlich
+
+122
+00:04:44,120 --> 00:04:45,340
+verdeckt, weil das ist ja eigentlich
+
+123
+00:04:45,340 --> 00:04:47,220
+eine Fläche, wenn wir einen echten
+
+124
+00:04:47,220 --> 00:04:48,500
+Würfel hätten und wir könnten diese
+
+125
+00:04:48,500 --> 00:04:52,460
+Kante nicht sehen. Deswegen wird
+
+126
+00:04:52,460 --> 00:04:54,080
+diese Kante gestrichelt dargestellt.
+
+127
+00:04:55,360 --> 00:04:58,420
+Und auch wenn man es vielleicht nicht
+
+128
+00:04:58,420 --> 00:05:00,660
+auf den ersten Blick erkennt, die
+
+129
+00:05:00,660 --> 00:05:02,100
+Kanten sind nicht so lang wie die
+
+130
+00:05:02,100 --> 00:05:04,300
+anderen. Das ist nicht so, weil wir
+
+131
+00:05:04,300 --> 00:05:06,360
+uns vermessen haben, sondern wenn die
+
+132
+00:05:06,360 --> 00:05:08,120
+Kanten in einem 45 Grad Winkel
+
+133
+00:05:08,120 --> 00:05:10,460
+gezeichnet werden, sind diese alle
+
+134
+00:05:10,460 --> 00:05:12,460
+nur halb so lang zu zeichnen. Das ist
+
+135
+00:05:12,460 --> 00:05:13,400
+einfach für das räumliche
+
+136
+00:05:13,400 --> 00:05:15,620
+Vorstellungsvermögen so. Wenn wir die
+
+137
+00:05:15,620 --> 00:05:17,720
+jetzt auch mit 4 cm gezeichnet
+
+138
+00:05:17,720 --> 00:05:18,860
+hätten, dann würde es am Ende nicht
+
+139
+00:05:18,860 --> 00:05:20,680
+aussehen wie ein Würfel, sondern wie
+
+140
+00:05:20,680 --> 00:05:22,860
+ein Quader. Dann wäre der Körper
+
+141
+00:05:22,860 --> 00:05:23,520
+länglicher.
+
+142
+00:05:25,880 --> 00:05:28,440
+Daher immer wenn man das hier, die
+
+143
+00:05:28,440 --> 00:05:30,340
+Kanten im 45 Grad Winkel zeichnet,
+
+144
+00:05:30,400 --> 00:05:32,460
+immer die kantenlänge durch zwei
+
+145
+00:05:32,460 --> 00:05:34,520
+teilen das heißt das sind alles nur
+
+146
+00:05:34,520 --> 00:05:36,780
+strecken von zwei zentimeter
+
+147
+00:05:40,000 --> 00:05:42,540
+und jetzt sieht das ganze schon aus
+
+148
+00:05:42,540 --> 00:05:44,620
+annähernd aus wie ein würfel und wir
+
+149
+00:05:44,620 --> 00:05:46,840
+verbinden jetzt die neuen eckpunkte
+
+150
+00:05:46,840 --> 00:05:48,980
+auch wieder mit einem quadrat das
+
+151
+00:05:48,980 --> 00:05:51,320
+heißt wir gehen so rüber so runter
+
+152
+00:05:51,320 --> 00:05:53,640
+und wieder so rüber und hier so hoch
+
+153
+00:05:53,640 --> 00:05:56,620
+damit muss man aufpassen die kante
+
+154
+00:05:56,620 --> 00:05:58,840
+von oben nach hier unten und die hier
+
+155
+00:05:58,840 --> 00:05:59,840
+die können wir ja eigentlich gar
+
+156
+00:05:59,840 --> 00:06:02,300
+nicht sehen daher ist diese auch
+
+157
+00:06:02,300 --> 00:06:05,020
+gestrichelt dargestellt diese
+
+158
+00:06:05,020 --> 00:06:07,280
+gestrichen dargestellten kanten
+
+159
+00:06:07,280 --> 00:06:10,300
+können wir nicht sehen deshalb werden
+
+160
+00:06:10,300 --> 00:06:13,500
+sie gestrichen dargestellt und nicht
+
+161
+00:06:13,500 --> 00:06:18,180
+einfach durchgezogen und so kommen
+
+162
+00:06:18,180 --> 00:06:19,860
+wir dann schon zu unserem schrägbild
+
+163
+00:06:19,860 --> 00:06:22,040
+unseres quadrat unseres würfels in
+
+164
+00:06:22,040 --> 00:06:23,500
+dem fall damit
+
+165
+00:06:27,020 --> 00:06:28,560
+können wir uns jetzt auch einmal kurz
+
+166
+00:06:28,560 --> 00:06:30,240
+die Faktoren anschauen. Wir haben
+
+167
+00:06:30,240 --> 00:06:31,620
+hier gerade beim Schrägbild einen
+
+168
+00:06:31,620 --> 00:06:34,000
+Winkel von 45° angewendet. Der
+
+169
+00:06:34,000 --> 00:06:36,100
+Verkürzungsfaktor für die Seite ist
+
+170
+00:06:36,100 --> 00:06:38,440
+dann 1,5. Das war das, wo ich gerade
+
+171
+00:06:38,440 --> 00:06:39,880
+sagte, dass die Seite noch halb so
+
+172
+00:06:39,880 --> 00:06:42,400
+lang gezeichnet ist. Das heißt, wenn
+
+173
+00:06:42,400 --> 00:06:43,800
+wir das Beispiel haben, die Kante
+
+174
+00:06:43,800 --> 00:06:45,560
+müsste eigentlich 6 cm lang sein,
+
+175
+00:06:46,380 --> 00:06:49,020
+dann ist sie bei einem Winkel von 45°
+
+176
+00:06:49,020 --> 00:06:52,580
+nur 1,5 mal 6 cm, also 3 cm lang.
+
+177
+00:06:54,100 --> 00:06:55,940
+Auch andere Winkel sind möglich, um
+
+178
+00:06:55,940 --> 00:06:57,000
+die Perspektive vielleicht ein
+
+179
+00:06:57,000 --> 00:06:59,300
+bisschen zu verändern. Also bei 30°
+
+180
+00:06:59,300 --> 00:07:01,540
+ist der Faktor 2 Drittel und 2
+
+181
+00:07:01,540 --> 00:07:05,300
+Drittel mal 6 cm sind dann 4 cm. Oder
+
+182
+00:07:05,300 --> 00:07:08,320
+bei 60° ist es 1 Drittel, das heißt
+
+183
+00:07:08,320 --> 00:07:10,720
+für unser Beispiel wäre es 1 Drittel
+
+184
+00:07:10,720 --> 00:07:14,480
+mal 6 cm, also 2 cm. Das heißt, wie
+
+185
+00:07:14,480 --> 00:07:16,680
+dieser Verkürzungsfaktor ist, hängt
+
+186
+00:07:16,680 --> 00:07:18,980
+immer von dem Winkel der Schräge ab.
+
+187
+00:07:19,420 --> 00:07:21,780
+Meistens ist das aber 45°. den müsst
+
+188
+00:07:21,780 --> 00:07:22,720
+ihr einfach durch zwei Tage.
+
+189
+00:07:26,640 --> 00:07:28,300
+Wie gerade schon gesagt, wird durch
+
+190
+00:07:28,300 --> 00:07:31,820
+dieses Schrägzeichnen der Kanten die
+
+191
+00:07:31,820 --> 00:07:33,440
+räumliche Perspektive simuliert.
+
+192
+00:07:33,760 --> 00:07:35,640
+Deswegen sieht die Kante, die wir
+
+193
+00:07:35,640 --> 00:07:36,540
+eigentlich nur halb so lang
+
+194
+00:07:36,540 --> 00:07:38,500
+gezeichnet haben, gar nicht halb so
+
+195
+00:07:38,500 --> 00:07:40,320
+lang aus. Das ist einfach dieser
+
+196
+00:07:40,320 --> 00:07:41,880
+räumlichen Perspektive geschuldet.
+
+197
+00:07:44,980 --> 00:07:47,320
+Und man nutzt das immer, um ein
+
+198
+00:07:47,320 --> 00:07:48,880
+dreidimensionales Bild von so einem
+
+199
+00:07:48,880 --> 00:07:51,260
+Würfel zu erzeugen. Oder eben von
+
+200
+00:07:51,260 --> 00:07:55,590
+einem Quader. Wie gesagt, beim Quader
+
+201
+00:07:55,590 --> 00:07:57,150
+verläuft es genauso, nur dass wir
+
+202
+00:07:57,150 --> 00:07:58,670
+dort drei verschiedene Seitenlängen
+
+203
+00:07:58,670 --> 00:07:58,930
+haben.
+
+204
+00:08:01,830 --> 00:08:03,530
+Damit wären wir auch schon bei
+
+205
+00:08:03,530 --> 00:08:05,410
+Netzen. Und zwar, wir haben hier
+
+206
+00:08:05,410 --> 00:08:06,850
+links ein Würfelnetz und hier rechts
+
+207
+00:08:06,850 --> 00:08:10,150
+ein Quadernetz. Ein Netz ist vom
+
+208
+00:08:10,150 --> 00:08:12,830
+Prinzip her eine Figur, die, wenn man
+
+209
+00:08:12,830 --> 00:08:14,650
+sie ausschneiden würde, daraus könnte
+
+210
+00:08:14,650 --> 00:08:17,530
+man dann ein Würfel bzw. ein Quader
+
+211
+00:08:17,530 --> 00:08:18,870
+basteln.
+
+212
+00:08:22,180 --> 00:08:28,670
+Es gibt nicht nur ein Netz. Es gibt
+
+213
+00:08:28,670 --> 00:08:30,330
+mehrere Netze. Zum Würfel werden wir
+
+214
+00:08:30,330 --> 00:08:31,210
+gleich noch ein paar Würfelnetze
+
+215
+00:08:31,210 --> 00:08:32,750
+sehen. Das wird ja auch oft gefragt,
+
+216
+00:08:32,830 --> 00:08:34,030
+dass man da mehrere zeichnen soll.
+
+217
+00:08:36,250 --> 00:08:38,030
+Beim Quader ist dies auch so. Also es
+
+218
+00:08:38,030 --> 00:08:39,730
+gibt mehrere Netze. Es ist nicht so,
+
+219
+00:08:39,810 --> 00:08:42,570
+dass das das einzige Netz für den
+
+220
+00:08:42,570 --> 00:08:44,010
+Würfel ist und das hier das einzige
+
+221
+00:08:44,010 --> 00:08:45,810
+Netz für den Quader. Das ist so das
+
+222
+00:08:45,810 --> 00:08:47,510
+gängigste Netz für den Würfel. Das
+
+223
+00:08:47,510 --> 00:08:49,090
+wird eigentlich immer gezeigt. Es
+
+224
+00:08:49,090 --> 00:08:49,690
+gibt aber auch noch viele
+
+225
+00:08:49,690 --> 00:08:52,270
+verschiedene. Und beim Quader ist
+
+226
+00:08:52,270 --> 00:08:55,430
+dies genauso. Wichtig ist, ein Würfel
+
+227
+00:08:55,430 --> 00:08:56,630
+und ein Quader haben ja, wie wir
+
+228
+00:08:56,630 --> 00:08:58,550
+vorhin gelernt haben, sechs Seiten.
+
+229
+00:08:58,790 --> 00:09:01,110
+Das heißt, so ein Netz muss natürlich
+
+230
+00:09:01,110 --> 00:09:03,530
+immer aus sechs Flächen bestehen. Das
+
+231
+00:09:03,530 --> 00:09:04,530
+heißt, wenn man vielleicht mal
+
+232
+00:09:04,530 --> 00:09:08,870
+irgendwann sagen soll, ob eine Figur
+
+233
+00:09:08,870 --> 00:09:10,770
+ein Würfelnetz ist, dann kann man als
+
+234
+00:09:10,770 --> 00:09:11,830
+erstes einmal schnell hingehen, die
+
+235
+00:09:11,830 --> 00:09:13,670
+Anzahl der Flächen zählen. Das muss
+
+236
+00:09:13,670 --> 00:09:17,030
+sechs sein und dann kann man weitere
+
+237
+00:09:17,030 --> 00:09:20,930
+Kriterien prüfen. Aber wir sehen
+
+238
+00:09:20,930 --> 00:09:23,150
+hier, die haben immer... 6 Flächen,
+
+239
+00:09:23,190 --> 00:09:26,490
+weil am Ende auch der Würfel bzw. der
+
+240
+00:09:26,490 --> 00:09:29,410
+Quader 6 Flächen haben muss. Wir
+
+241
+00:09:29,410 --> 00:09:30,450
+sehen jetzt hier vier verschiedene
+
+242
+00:09:30,450 --> 00:09:32,010
+Würfelnetze. Das war das mit
+
+243
+00:09:32,010 --> 00:09:34,710
+eindeutig gemeint. Es gibt einfach
+
+244
+00:09:34,710 --> 00:09:36,430
+verschiedene. Wir können hier raus
+
+245
+00:09:36,430 --> 00:09:37,530
+einen Würfel falten und wir können
+
+246
+00:09:37,530 --> 00:09:39,210
+hier raus einen Würfel falten. Man
+
+247
+00:09:39,210 --> 00:09:39,970
+muss sich das immer nur
+
+248
+00:09:39,970 --> 00:09:42,310
+dreidimensional vorstellen. Das
+
+249
+00:09:42,310 --> 00:09:44,570
+heißt, wir haben hier hellblau
+
+250
+00:09:44,570 --> 00:09:46,830
+gekennzeichnet den Boden des Würfels,
+
+251
+00:09:46,870 --> 00:09:49,230
+also die Bodenfläche. Dieses Grüne
+
+252
+00:09:49,230 --> 00:09:52,390
+ist der Deckel. Das sind zwei Seiten.
+
+253
+00:09:53,270 --> 00:09:55,150
+Das ist die rechte Seite und das ist
+
+254
+00:09:55,150 --> 00:09:56,730
+die linke Seite. Das heißt, das wird
+
+255
+00:09:56,730 --> 00:10:00,250
+dann Vorder- bzw. Rückseite sein. Und
+
+256
+00:10:00,250 --> 00:10:01,670
+wenn wir das jetzt auf den Boden
+
+257
+00:10:01,670 --> 00:10:02,850
+stellen, können wir die Seite
+
+258
+00:10:02,850 --> 00:10:05,390
+hochklappen. Also wir können die
+
+259
+00:10:05,390 --> 00:10:08,010
+Flächen immer nur um 90 Grad knicken,
+
+260
+00:10:08,090 --> 00:10:11,050
+wenn wir den Würfel formen. Denn es
+
+261
+00:10:11,050 --> 00:10:12,290
+herrschen ja im Würfel sowie im
+
+262
+00:10:12,290 --> 00:10:15,190
+Quader nur 90 Grad Winkel. Das heißt,
+
+263
+00:10:15,290 --> 00:10:16,950
+wir könnten die weiße Fläche um 90
+
+264
+00:10:16,950 --> 00:10:19,310
+Grad hochklappen, entlang der Kante.
+
+265
+00:10:20,130 --> 00:10:21,990
+Die linke Seitenfläche können wir
+
+266
+00:10:21,990 --> 00:10:23,450
+auch um 90 Grad entlang der Kante
+
+267
+00:10:23,450 --> 00:10:26,610
+hochklappen. Die zweite Fläche, hier
+
+268
+00:10:26,610 --> 00:10:28,510
+die weiße, können wir auch um 90 Grad
+
+269
+00:10:28,510 --> 00:10:30,870
+entlang der Kante hochklappen. Und
+
+270
+00:10:30,870 --> 00:10:34,750
+dann können wir die grüne wieder um
+
+271
+00:10:34,750 --> 00:10:37,470
+90 Grad klappen. Wichtig ist, wenn
+
+272
+00:10:37,470 --> 00:10:40,330
+wir hier das um 90 Grad hochklappen,
+
+273
+00:10:40,390 --> 00:10:41,870
+klappt die Seite erstmal mit hoch.
+
+274
+00:10:42,530 --> 00:10:44,630
+Erst wenn wir die nochmal um 90 Grad
+
+275
+00:10:44,630 --> 00:10:46,870
+klappen, liegt die Seite am Ende über
+
+276
+00:10:46,870 --> 00:10:50,550
+der hellblauen. Und dann müssen wir
+
+277
+00:10:50,550 --> 00:10:52,130
+lediglich nur noch die Pinkel, die
+
+278
+00:10:52,130 --> 00:10:53,470
+jetzt hier auch immer mitgeklappt
+
+279
+00:10:53,470 --> 00:10:56,790
+wurde, einmal hier um 90 Grad
+
+280
+00:10:56,790 --> 00:10:58,390
+abklappen, damit wir die letzte
+
+281
+00:10:58,390 --> 00:11:00,370
+Seitenfläche erhalten. Damit haben
+
+282
+00:11:00,370 --> 00:11:02,110
+wir unsere Würfel gezeichnet. Das
+
+283
+00:11:02,110 --> 00:11:03,230
+funktioniert hier wie gesagt auch
+
+284
+00:11:03,230 --> 00:11:05,110
+immer so. Es wird immer entlang der
+
+285
+00:11:05,110 --> 00:11:09,270
+kanten hier um 90 grad geklappt also
+
+286
+00:11:09,270 --> 00:11:10,990
+hier wird um 90 grad hoch geklappt
+
+287
+00:11:10,990 --> 00:11:12,670
+dann haben wir hier eine seitenfläche
+
+288
+00:11:12,670 --> 00:11:15,290
+dann können wir hier wieder um 90
+
+289
+00:11:15,290 --> 00:11:17,230
+grad klappen dann haben wir auch noch
+
+290
+00:11:17,230 --> 00:11:19,790
+eine seitenfläche hier können wir das
+
+291
+00:11:19,790 --> 00:11:22,070
+pinke noch mal um 90 grad hochklappen
+
+292
+00:11:22,070 --> 00:11:22,850
+dann haben wir hier auch noch eine
+
+293
+00:11:22,850 --> 00:11:26,370
+seitenfläche dann das weiße mit dem
+
+294
+00:11:26,370 --> 00:11:28,070
+grün zusammen um 90 grad hochklappen
+
+295
+00:11:28,070 --> 00:11:29,550
+dann haben wir die letzte
+
+296
+00:11:29,550 --> 00:11:30,830
+seitenfläche und es fehlt nur noch
+
+297
+00:11:30,830 --> 00:11:32,710
+der deckel den deckel bekommen wir
+
+298
+00:11:32,710 --> 00:11:35,110
+indem wir das grüne nochmal um 90
+
+299
+00:11:35,110 --> 00:11:40,420
+grad abklappen. das funktioniert dann
+
+300
+00:11:40,420 --> 00:11:42,920
+hier wie gesagt genauso. also erst
+
+301
+00:11:42,920 --> 00:11:45,200
+der boden hier um 90 grad geklappt,
+
+302
+00:11:45,300 --> 00:11:47,480
+dann da nochmal um 90 grad geklappt,
+
+303
+00:11:47,560 --> 00:11:49,040
+dann haben wir schon mal zwei
+
+304
+00:11:49,040 --> 00:11:52,400
+seitenflächen. anschließend die
+
+305
+00:11:52,400 --> 00:11:53,920
+seitenfläche nochmal um 90 grad
+
+306
+00:11:53,920 --> 00:11:56,140
+geklappt mit den beiden flächen noch
+
+307
+00:11:56,140 --> 00:11:59,300
+dran. dann können wir hier nochmal
+
+308
+00:11:59,300 --> 00:12:01,680
+klappen, dann haben wir die
+
+309
+00:12:01,680 --> 00:12:04,060
+deckfläche. Dann fehlt nur noch eine
+
+310
+00:12:04,060 --> 00:12:05,540
+Seitenfläche und die können wir dann
+
+311
+00:12:05,540 --> 00:12:10,720
+hier wieder abklappen. Das hier ist
+
+312
+00:12:10,720 --> 00:12:11,560
+vielleicht ein bisschen schwieriger
+
+313
+00:12:11,560 --> 00:12:14,920
+vorzustellen. Wir haben hier als
+
+314
+00:12:14,920 --> 00:12:17,100
+erstes unseren Boden, deswegen
+
+315
+00:12:17,100 --> 00:12:19,320
+klappen wir als erstes hier. Dann
+
+316
+00:12:19,320 --> 00:12:20,860
+haben wir hier eine Seitenfläche,
+
+317
+00:12:20,940 --> 00:12:22,380
+dann können wir hier nochmal klappen.
+
+318
+00:12:22,560 --> 00:12:24,080
+Dann haben wir schon mal die zweite
+
+319
+00:12:24,080 --> 00:12:24,780
+Seitenfläche.
+
+320
+00:12:27,500 --> 00:12:28,820
+Anschließend klappen wir das dann
+
+321
+00:12:28,820 --> 00:12:32,260
+hier hoch. Dann haben wir unsere
+
+322
+00:12:32,260 --> 00:12:34,540
+dritte Seitenfläche. dann klappen wir
+
+323
+00:12:34,540 --> 00:12:37,360
+es hier. Dann haben wir unseren
+
+324
+00:12:37,360 --> 00:12:39,720
+Würfel bzw. dann haben wir den Boden
+
+325
+00:12:39,720 --> 00:12:41,020
+und die Seitenflächen von unserem
+
+326
+00:12:41,020 --> 00:12:42,540
+Würfel schon mal und es fehlt nur
+
+327
+00:12:42,540 --> 00:12:43,920
+noch die Deckfläche. Die letzte
+
+328
+00:12:43,920 --> 00:12:45,820
+Deckfläche erhalten wir, indem wir
+
+329
+00:12:45,820 --> 00:12:47,480
+das nochmal an der Kante klappen.
+
+330
+00:12:49,400 --> 00:12:51,340
+Also so kann man sich Würfel immer
+
+331
+00:12:51,340 --> 00:12:54,040
+vorstellen. Man muss leider immer
+
+332
+00:12:54,040 --> 00:12:56,620
+sich überlegen, wenn man eine Aussage
+
+333
+00:12:56,620 --> 00:12:57,820
+treffen soll, ob ein Würfelnetz
+
+334
+00:12:57,820 --> 00:13:00,620
+wirklich ein Würfelnetz ist, muss man
+
+335
+00:13:00,620 --> 00:13:03,200
+das wirklich im Kopf einmal den
+
+336
+00:13:03,200 --> 00:13:04,820
+Würfel aus diesem Netz bauen und sich
+
+337
+00:13:04,820 --> 00:13:08,620
+das räumlich vorstellen. Damit kommen
+
+338
+00:13:08,620 --> 00:13:09,740
+wir auch schon zu den Berechnungen.
+
+339
+00:13:09,840 --> 00:13:11,360
+Wir werden jetzt hier einmal kurz die
+
+340
+00:13:11,360 --> 00:13:12,960
+Formeln für die Oberfläche und das
+
+341
+00:13:12,960 --> 00:13:14,640
+Volumen eines Quaders und eines
+
+342
+00:13:14,640 --> 00:13:18,640
+Würfels vorstellen. Bei Körpern sind
+
+343
+00:13:18,640 --> 00:13:20,260
+diese beiden Werte, also das Volumen
+
+344
+00:13:20,260 --> 00:13:21,080
+und die Oberfläche, besonders
+
+345
+00:13:21,080 --> 00:13:23,220
+interessant. Es sind auch Fragen, die
+
+346
+00:13:23,220 --> 00:13:23,900
+oft vorkommen.
+
+347
+00:13:26,480 --> 00:13:29,140
+Und beim Würfel sind die Formeln
+
+348
+00:13:29,140 --> 00:13:30,780
+recht einfach aufgrund seiner
+
+349
+00:13:30,780 --> 00:13:32,440
+Eigenschaft, dass alle Kanten gleich
+
+350
+00:13:32,440 --> 00:13:36,650
+sind. lang sind. Gut, das Volumen
+
+351
+00:13:36,650 --> 00:13:38,850
+eines Quaders V berechnet sich aus A
+
+352
+00:13:38,850 --> 00:13:41,290
+mal B mal C, also Länge mal Breite
+
+353
+00:13:41,290 --> 00:13:43,470
+mal Höhe. Es werden also einfach die
+
+354
+00:13:43,470 --> 00:13:45,450
+drei Maße miteinander multipliziert.
+
+355
+00:13:45,930 --> 00:13:47,470
+Das geht meistens recht schnell, das
+
+356
+00:13:47,470 --> 00:13:49,410
+ist das Volumen. Wichtig ist immer,
+
+357
+00:13:49,490 --> 00:13:51,050
+wenn ihr ein Volumen berechnet, müsst
+
+358
+00:13:51,050 --> 00:13:52,650
+ihr hier überall die gleichen
+
+359
+00:13:52,650 --> 00:13:55,150
+Einheiten stehen haben und es kommt
+
+360
+00:13:55,150 --> 00:13:58,090
+dann die Einheit hoch 3 raus. Bei der
+
+361
+00:13:58,090 --> 00:13:59,530
+Oberfläche müsst ihr auch die
+
+362
+00:13:59,530 --> 00:14:00,730
+gleichen Einheiten überall stehen
+
+363
+00:14:00,730 --> 00:14:02,630
+haben, also ihr müsst Länge, Breite
+
+364
+00:14:02,630 --> 00:14:04,090
+und Höhe in der gleichen Einheit
+
+365
+00:14:04,090 --> 00:14:07,590
+gegeben haben und bei der Oberfläche
+
+366
+00:14:07,590 --> 00:14:09,570
+kommt dann die Einheit hoch 2 raus,
+
+367
+00:14:09,670 --> 00:14:11,810
+weil es eine Fläche ist. Die
+
+368
+00:14:11,810 --> 00:14:13,930
+Oberfläche berechnet sich zweimal auf
+
+369
+00:14:13,930 --> 00:14:16,650
+a mal b plus a mal c plus b mal c.
+
+370
+00:14:17,790 --> 00:14:20,770
+Das heißt a mal b ist ja eine
+
+371
+00:14:20,770 --> 00:14:22,870
+Seitenfläche davon, a mal c ist eine
+
+372
+00:14:22,870 --> 00:14:24,770
+zweite und b mal c ist die dritte.
+
+373
+00:14:25,550 --> 00:14:28,030
+Und wir haben ja beim Quader bis zu
+
+374
+00:14:28,030 --> 00:14:29,590
+drei verschiedene Seitenflächen, aber
+
+375
+00:14:29,590 --> 00:14:31,790
+jede Seitenfläche zweimal, daher wird
+
+376
+00:14:31,790 --> 00:14:33,150
+das alles besser. 2 multipliziert.
+
+377
+00:14:33,670 --> 00:14:35,150
+Das heißt, wir rechnen 2 mal
+
+378
+00:14:35,150 --> 00:14:37,610
+Vorderseite, 2 mal Seitenfläche und 2
+
+379
+00:14:37,610 --> 00:14:41,990
+mal Boden und addieren dies. Wie
+
+380
+00:14:41,990 --> 00:14:43,350
+gesagt, auch hier bitte auf die
+
+381
+00:14:43,350 --> 00:14:45,090
+Einheiten achten. Die Oberfläche wird
+
+382
+00:14:45,090 --> 00:14:47,230
+am Ende immer in der Einheit hoch 2
+
+383
+00:14:47,230 --> 00:14:50,870
+angegeben. Das Volumen und die
+
+384
+00:14:50,870 --> 00:14:52,350
+Oberfläche eines Würfels zu berechnen
+
+385
+00:14:52,350 --> 00:14:54,810
+ist nicht allzu schwer. Das Volumen
+
+386
+00:14:54,810 --> 00:14:56,410
+eines Würfels ist einfach a hoch 3,
+
+387
+00:14:56,590 --> 00:14:59,270
+weil diese Formeln hier gelten auch
+
+388
+00:14:59,270 --> 00:15:01,610
+beim Würfel. Nur beim Würfel haben
+
+389
+00:15:01,610 --> 00:15:03,890
+wir ja für die Länge und für die
+
+390
+00:15:03,890 --> 00:15:07,930
+Breite und für die Höhe die gleiche
+
+391
+00:15:07,930 --> 00:15:09,310
+Zahl, beziehungsweise die sind ja
+
+392
+00:15:09,310 --> 00:15:11,050
+alle gleich lang. Deswegen haben wir
+
+393
+00:15:11,050 --> 00:15:13,630
+beim Würfel A mal A mal A und das ist
+
+394
+00:15:13,630 --> 00:15:16,190
+A hoch 3 für das Volumen. Bei der
+
+395
+00:15:16,190 --> 00:15:18,590
+Oberfläche ist dies ähnlich. Wir
+
+396
+00:15:18,590 --> 00:15:21,510
+haben zweimal, wenn wir so wollen,
+
+397
+00:15:21,590 --> 00:15:24,370
+Klammer auf A mal A plus A mal A plus
+
+398
+00:15:24,370 --> 00:15:26,550
+A mal A. Das heißt, wir haben in der
+
+399
+00:15:26,550 --> 00:15:29,290
+Klammer hier drin stehen 3A². 2 mal 3
+
+400
+00:15:29,290 --> 00:15:31,750
+sind dann 6a². Das beruht einfach
+
+401
+00:15:31,750 --> 00:15:34,070
+darauf, weil alle 6 Flächen gleich
+
+402
+00:15:34,070 --> 00:15:38,000
+groß sind. Wir haben dazu auch noch
+
+403
+00:15:38,000 --> 00:15:39,280
+ein kleines Beispiel. Diesmal
+
+404
+00:15:39,280 --> 00:15:41,640
+behandeln wir in dem Beispiel einen
+
+405
+00:15:41,640 --> 00:15:44,940
+Körper, der hat eine Kantenlänge a 4
+
+406
+00:15:44,940 --> 00:15:47,500
+cm, eine Kantenlänge b 5 cm und eine
+
+407
+00:15:47,500 --> 00:15:50,740
+Kantenlänge c 6 cm. Es ist also kein
+
+408
+00:15:50,740 --> 00:15:52,260
+Würfel, es ist also ein Quader. Das
+
+409
+00:15:52,260 --> 00:15:53,460
+sehen wir einfach daran, dass wir
+
+410
+00:15:53,460 --> 00:15:54,620
+drei verschiedene Längen gegeben
+
+411
+00:15:54,620 --> 00:15:57,100
+haben. und als erstes sollen wir das
+
+412
+00:15:57,100 --> 00:15:58,920
+Volumen berechnen, das heißt gucken
+
+413
+00:15:58,920 --> 00:16:00,620
+erstmal, okay wir haben alles in der
+
+414
+00:16:00,620 --> 00:16:02,600
+gleichen Einheit gegeben und dann
+
+415
+00:16:02,600 --> 00:16:03,740
+multiplizieren wir das auch schon,
+
+416
+00:16:03,780 --> 00:16:07,360
+also 4 mal 5 mal 6 cm, das sind
+
+417
+00:16:07,360 --> 00:16:11,700
+zusammen 20 cm² mal 6 cm, also 4 mal
+
+418
+00:16:11,700 --> 00:16:15,400
+5 sind die 20 cm², wenn wir cm mit cm
+
+419
+00:16:15,400 --> 00:16:17,880
+multiplizieren erhalten wir cm hoch 2
+
+420
+00:16:17,880 --> 00:16:20,880
+und das jetzt wie gesagt nochmal 6 cm
+
+421
+00:16:20,880 --> 00:16:24,620
+sind insgesamt 120 cm. hoch 3 also
+
+422
+00:16:24,620 --> 00:16:29,060
+120 Kubikzentimeter. Achtet bitte wie
+
+423
+00:16:29,060 --> 00:16:31,000
+gesagt auf die Einheiten. Volumina
+
+424
+00:16:31,000 --> 00:16:33,720
+haben immer die Einheit hoch 3 als
+
+425
+00:16:33,720 --> 00:16:37,000
+Ergebnis. Bei der Oberfläche setzen
+
+426
+00:16:37,000 --> 00:16:39,020
+wir nun jetzt auch unser a, b und c
+
+427
+00:16:39,020 --> 00:16:39,700
+in die Formel.
+
+428
+00:16:43,940 --> 00:16:49,920
+5 cm plus 4 cm mal 6 cm plus 5 cm mal
+
+429
+00:16:49,920 --> 00:16:52,860
+6 cm. So kommen wir in der Klammer
+
+430
+00:16:52,860 --> 00:16:57,060
+auf 4 mal 5 cm sind 20 cm hoch 2, 4
+
+431
+00:16:57,060 --> 00:17:01,340
+mal 6 cm sind 24 cm hoch 2 und 5 mal
+
+432
+00:17:01,340 --> 00:17:05,500
+6 cm sind 30 cm hoch 2. Zusammen sind
+
+433
+00:17:05,500 --> 00:17:09,820
+das dann 74 cm², das noch mal 2, also
+
+434
+00:17:09,820 --> 00:17:10,860
+wir haben erst den Wert in der
+
+435
+00:17:10,860 --> 00:17:12,400
+Klammer berechnet, das sind dann 74
+
+436
+00:17:12,400 --> 00:17:15,680
+cm² und dieser wird nur noch mit 2
+
+437
+00:17:15,680 --> 00:17:17,500
+multipliziert, weil die ganze Klammer
+
+438
+00:17:17,500 --> 00:17:19,420
+ja mit 2 multipliziert wird. Und so
+
+439
+00:17:19,420 --> 00:17:22,260
+kommen wir dann auf 148 cm².
+
+440
+00:17:25,180 --> 00:17:27,120
+Damit wären wir am Ende des Webinars.
+
+441
+00:17:27,220 --> 00:17:28,660
+Ich bedanke mich für eure
+
+442
+00:17:28,660 --> 00:17:29,400
+Aufmerksamkeit.
+

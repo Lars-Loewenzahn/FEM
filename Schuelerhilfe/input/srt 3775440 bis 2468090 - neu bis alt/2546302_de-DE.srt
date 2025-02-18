@@ -1,0 +1,3020 @@
+1
+00:00:00,620 --> 00:00:02,420
+Hallo und herzlich willkommen zum
+
+2
+00:00:02,420 --> 00:00:04,520
+Webinar der Schülerhilfe. Wir
+
+3
+00:00:04,520 --> 00:00:06,280
+beschäftigen uns heute mit dem Thema
+
+4
+00:00:06,280 --> 00:00:08,820
+der indirekten Rede. Wir schauen uns
+
+5
+00:00:08,820 --> 00:00:11,380
+also an, was ist die indirekte Rede?
+
+6
+00:00:12,400 --> 00:00:15,000
+Welche Punkte hat die indirekte Rede?
+
+7
+00:00:15,120 --> 00:00:17,180
+Worauf müssen wir also achten? Also,
+
+8
+00:00:17,240 --> 00:00:18,980
+welche zwei Kennzeichen hat die
+
+9
+00:00:18,980 --> 00:00:21,640
+indirekte Rede? Was müssen wir zum
+
+10
+00:00:21,640 --> 00:00:23,960
+Thema Umwandlung bei der direkten
+
+11
+00:00:23,960 --> 00:00:26,840
+Rede wissen? Das heißt, wie verhält
+
+12
+00:00:26,840 --> 00:00:28,540
+sich das Verb? Wie müssen wir das
+
+13
+00:00:28,540 --> 00:00:31,060
+Verb umwandeln? anschließend werden
+
+14
+00:00:31,060 --> 00:00:33,360
+wir einen kurznächsten Kurs zum Modus
+
+15
+00:00:33,360 --> 00:00:35,420
+des Verbs machen. Wir wissen, dass
+
+16
+00:00:35,420 --> 00:00:38,980
+das Verb aus fünf Säulen besteht. Der
+
+17
+00:00:38,980 --> 00:00:43,920
+Person, dem Numerus, dem Tempus, dem
+
+18
+00:00:43,920 --> 00:00:46,440
+eben besagten Modus und dem Genus
+
+19
+00:00:46,440 --> 00:00:48,420
+Verbi, also dem Geschlecht des Verbs.
+
+20
+00:00:49,420 --> 00:00:52,060
+Die vierte Form, also die vierte
+
+21
+00:00:52,060 --> 00:00:55,280
+Säule, Das Modus ist letztendlich die
+
+22
+00:00:55,280 --> 00:00:57,640
+Frage, wie das Verb ist. Das heißt,
+
+23
+00:00:57,820 --> 00:01:00,280
+das Wie wird wichtig, wenn wir über
+
+24
+00:01:00,280 --> 00:01:02,420
+die indirekte Rede sprechen. Das
+
+25
+00:01:02,420 --> 00:01:04,340
+heißt, das führt uns letztendlich
+
+26
+00:01:04,340 --> 00:01:06,880
+genau zu dem Thema der Bildung des
+
+27
+00:01:06,880 --> 00:01:09,220
+Konjunktivs. Und anschließend werden
+
+28
+00:01:09,220 --> 00:01:10,900
+wir uns die Zeiten im Konjunktiv
+
+29
+00:01:10,900 --> 00:01:12,840
+anschauen. Das heißt, wie verändert
+
+30
+00:01:12,840 --> 00:01:17,080
+sich das Verb und wie verändern sich
+
+31
+00:01:17,080 --> 00:01:19,720
+die Zeitverschiebungen im Konjunktiv,
+
+32
+00:01:19,720 --> 00:01:21,200
+wenn wir den Konjunktiv benutzen.
+
+33
+00:01:22,220 --> 00:01:23,920
+Anschließend werden wir uns mit den
+
+34
+00:01:23,920 --> 00:01:25,740
+Fragesätzen beschäftigen, den
+
+35
+00:01:25,740 --> 00:01:27,580
+Aufforderungen und den Bitten. Das
+
+36
+00:01:27,580 --> 00:01:28,920
+heißt, wir werden uns schauen, wie
+
+37
+00:01:28,920 --> 00:01:30,720
+wir Fragesätze, Aufforderungen und
+
+38
+00:01:30,720 --> 00:01:34,060
+Bitten in einen indirekten Fragesatz,
+
+39
+00:01:34,120 --> 00:01:35,700
+in einen indirekten Aufforderungssatz
+
+40
+00:01:35,700 --> 00:01:37,080
+oder in eine indirekte Bitte
+
+41
+00:01:37,080 --> 00:01:40,200
+formulieren können. Abschließend
+
+42
+00:01:40,200 --> 00:01:42,460
+werden wir uns nochmal ein Resümee
+
+43
+00:01:42,460 --> 00:01:46,060
+vor Augen führen und besprechen, was
+
+44
+00:01:46,060 --> 00:01:48,540
+wir letztendlich als Konsequenz aus
+
+45
+00:01:48,540 --> 00:01:50,320
+den Unterpunkten ziehen können.
+
+46
+00:01:50,460 --> 00:01:52,640
+Beginnen wir mit der indirekten Rede.
+
+47
+00:01:52,780 --> 00:01:55,320
+Die indirekte Rede ist letztendlich
+
+48
+00:01:55,320 --> 00:01:57,560
+die sinngemäße Wiedergabe dessen, was
+
+49
+00:01:57,560 --> 00:01:59,480
+jemand gesagt hat. Das heißt, wir
+
+50
+00:01:59,480 --> 00:02:01,380
+sehen das hier an diesem Bild. Wir
+
+51
+00:02:01,380 --> 00:02:03,440
+sehen hier einen Dialog zwischen
+
+52
+00:02:03,440 --> 00:02:07,660
+Peter und Maria. Maria sagt zu Peter,
+
+53
+00:02:07,880 --> 00:02:09,740
+ich gehe zu Julias Geburtstagsfeier.
+
+54
+00:02:10,080 --> 00:02:13,280
+Einen Tag später spricht Peter mit
+
+55
+00:02:13,280 --> 00:02:16,220
+Annette und berichtet das, was Maria
+
+56
+00:02:16,220 --> 00:02:18,640
+zu ihm gesagt hat. Also was Maria
+
+57
+00:02:18,640 --> 00:02:19,820
+gestern zu ihm gesagt hat. ihm gesagt
+
+58
+00:02:19,820 --> 00:02:22,200
+hat. Das heißt, er gibt wieder, was
+
+59
+00:02:22,200 --> 00:02:25,900
+eine dritte Person zu ihm gesagt hat.
+
+60
+00:02:26,020 --> 00:02:29,460
+Da Annette nicht überprüfen kann, ob
+
+61
+00:02:29,460 --> 00:02:31,720
+das richtig ist und ob das wahr ist
+
+62
+00:02:31,720 --> 00:02:33,840
+und ob das wirklich so war, was Maria
+
+63
+00:02:33,840 --> 00:02:36,940
+zu Peter gesagt hat, müsste oder muss
+
+64
+00:02:36,940 --> 00:02:39,320
+Peter das in indirekter Rede
+
+65
+00:02:39,320 --> 00:02:41,560
+wiedergeben, denn es kann letztlich
+
+66
+00:02:41,560 --> 00:02:43,700
+nur eine Behauptung sein oder
+
+67
+00:02:43,700 --> 00:02:45,780
+letztendlich eine nicht sinngemäße
+
+68
+00:02:45,780 --> 00:02:47,280
+Wiedergabe. Wir können das nicht
+
+69
+00:02:47,280 --> 00:02:49,200
+überprüfen, Annette. hat keinerlei
+
+70
+00:02:49,200 --> 00:02:51,300
+Möglichkeit, das zur Überprüfung. Das
+
+71
+00:02:51,300 --> 00:02:52,740
+heißt, hierzu benutzen wir die
+
+72
+00:02:52,740 --> 00:02:55,680
+indirekte Rede. Die indirekte Rede
+
+73
+00:02:55,680 --> 00:02:57,820
+wird immer dadurch eingeleitet, dass
+
+74
+00:02:57,820 --> 00:03:00,160
+wir einen Sinnesverb benutzen, das
+
+75
+00:03:00,160 --> 00:03:01,800
+letztendlich unseren Hauptsatz
+
+76
+00:03:01,800 --> 00:03:04,220
+definiert. Wir sehen hier, sie sagte,
+
+77
+00:03:04,260 --> 00:03:06,420
+er behauptete, sie meinte, fragte,
+
+78
+00:03:06,420 --> 00:03:08,940
+erzählte, berichtet, behauptete. Wir
+
+79
+00:03:08,940 --> 00:03:10,700
+sehen hier den Unterschied immer
+
+80
+00:03:10,700 --> 00:03:11,980
+zwischen Präsensform und
+
+81
+00:03:11,980 --> 00:03:14,880
+Präteritumsform. Das hängt immer
+
+82
+00:03:14,880 --> 00:03:17,380
+davon ab, wie der allgemeine
+
+83
+00:03:17,380 --> 00:03:19,180
+Sinneszusammenhang ist. Das heißt,
+
+84
+00:03:19,280 --> 00:03:21,220
+wie ist die Zeitverschiebung, wie ist
+
+85
+00:03:21,220 --> 00:03:23,460
+der Zeitzusammenhang zwischen dem,
+
+86
+00:03:23,540 --> 00:03:26,140
+was berichtet und was wirklich gesagt
+
+87
+00:03:26,140 --> 00:03:28,660
+wurde. Wir stellen also fest, wir
+
+88
+00:03:28,660 --> 00:03:30,980
+haben bei der indirekten Rede immer
+
+89
+00:03:30,980 --> 00:03:33,060
+einen Begleitsatz, der letztendlich
+
+90
+00:03:33,060 --> 00:03:35,220
+unser Hauptsatz ist und der in den
+
+91
+00:03:35,220 --> 00:03:37,900
+Nebensatz einleitet und der Nebensatz
+
+92
+00:03:37,900 --> 00:03:39,920
+ist von der Definition her genau das,
+
+93
+00:03:40,080 --> 00:03:43,360
+was eben berichtet ist. Indirekte
+
+94
+00:03:43,360 --> 00:03:46,280
+Rede. Wir sehen das hier noch einmal
+
+95
+00:03:46,280 --> 00:03:48,300
+dargestellt. Wir haben eben am
+
+96
+00:03:48,300 --> 00:03:51,380
+Dienstag Peter, der sagt, Maria
+
+97
+00:03:51,380 --> 00:03:53,360
+sagte, sie gehe zu Julias
+
+98
+00:03:53,360 --> 00:03:55,560
+Geburtstagsfeier oder Maria sagte,
+
+99
+00:03:55,660 --> 00:03:57,700
+dass sie zu Julias Geburtstagsfeier
+
+100
+00:03:57,700 --> 00:03:59,560
+gehe. Wir stellen fest, wir haben
+
+101
+00:03:59,560 --> 00:04:01,900
+jetzt bei Arten der indirekten Rede
+
+102
+00:04:01,900 --> 00:04:04,380
+und der Wiedergabe dessen, was Maria
+
+103
+00:04:04,380 --> 00:04:07,300
+zu Peter sagte. Wir haben das so
+
+104
+00:04:07,300 --> 00:04:09,700
+dargestellt, weil wir im Deutschen
+
+105
+00:04:09,700 --> 00:04:11,280
+einerseits die Möglichkeit haben,
+
+106
+00:04:11,400 --> 00:04:13,860
+einen uneingeleiteten Nebensatz zu
+
+107
+00:04:13,860 --> 00:04:15,720
+haben. Dabei ist die Satzstruktur die
+
+108
+00:04:15,720 --> 00:04:17,480
+gleiche wie beim Hauptsatz. Das heißt
+
+109
+00:04:17,480 --> 00:04:20,680
+Subjekt, Prädikat, Objekt. Oder wir
+
+110
+00:04:20,680 --> 00:04:22,880
+haben einen eingeleiteten Nebensatz,
+
+111
+00:04:22,980 --> 00:04:25,280
+meistens durch die Konjunktion das,
+
+112
+00:04:25,460 --> 00:04:27,220
+also die Subjunktion das, weil sie
+
+113
+00:04:27,220 --> 00:04:29,720
+unterordnet. Und dabei rutscht das
+
+114
+00:04:29,720 --> 00:04:33,240
+Prädikat ans Ende des Nebensatzes.
+
+115
+00:04:33,240 --> 00:04:34,820
+Okay, diese beiden Möglichkeiten
+
+116
+00:04:34,820 --> 00:04:37,580
+stehen uns zur Verfügung. Kommen wir
+
+117
+00:04:37,580 --> 00:04:39,300
+nun zu dem großen Thema der
+
+118
+00:04:39,300 --> 00:04:40,960
+Umwandlung. Wenn wir über indirekte
+
+119
+00:04:40,960 --> 00:04:42,600
+Rede sprechen, müssen wir wissen,
+
+120
+00:04:42,700 --> 00:04:46,800
+dass die Umwandlung letztendlich
+
+121
+00:04:46,800 --> 00:04:49,020
+wichtig ist, da wir dadurch kenntlich
+
+122
+00:04:49,020 --> 00:04:51,380
+machen, dass es sich hier um die
+
+123
+00:04:51,380 --> 00:04:54,180
+Wiedergabe einer Botschaft eines
+
+124
+00:04:54,180 --> 00:04:55,980
+Dritten handelt. Das heißt, wir
+
+125
+00:04:55,980 --> 00:04:58,120
+müssen hier einige Punkte beachten.
+
+126
+00:04:58,120 --> 00:05:01,440
+Der erste Punkt ist, dass wir die
+
+127
+00:05:01,440 --> 00:05:03,580
+Pronomen verändern müssen. Das heißt,
+
+128
+00:05:03,700 --> 00:05:05,640
+sagt Maria, ich gehe zur
+
+129
+00:05:05,640 --> 00:05:08,120
+Geburtstagsfeier, müssen wir
+
+130
+00:05:08,120 --> 00:05:10,960
+wiedergeben, dass sie sagte, dass sie
+
+131
+00:05:10,960 --> 00:05:15,100
+zu Julias Geburtstagsfeier gehe. Eben
+
+132
+00:05:15,100 --> 00:05:17,200
+gerade deshalb ist es wichtig, bei
+
+133
+00:05:17,200 --> 00:05:19,080
+der indirekten Rede auf die
+
+134
+00:05:19,080 --> 00:05:20,900
+Umwandlung zu achten. Das heißt, wir
+
+135
+00:05:20,900 --> 00:05:22,780
+stellen fest, Pronomen müssen
+
+136
+00:05:22,780 --> 00:05:24,360
+verändert werden und angefasst
+
+137
+00:05:24,360 --> 00:05:25,740
+werden. Das heißt, aus der ersten
+
+138
+00:05:25,740 --> 00:05:28,720
+Person, das, was Maria in wörtlicher
+
+139
+00:05:28,720 --> 00:05:32,300
+Rede mitteilt, wird in indirekter
+
+140
+00:05:32,300 --> 00:05:35,280
+Rede eben von Peter wiedergegeben.
+
+141
+00:05:35,280 --> 00:05:37,880
+Dabei wird das Ich zur dritten Person
+
+142
+00:05:37,880 --> 00:05:42,300
+Singular, also Sie. Zudem verändert
+
+143
+00:05:42,300 --> 00:05:46,160
+sich auch die Verbform, das heißt der
+
+144
+00:05:46,160 --> 00:05:48,440
+Modus des Verbs. Wir werden da
+
+145
+00:05:48,440 --> 00:05:49,820
+anschließend noch drüber sprechen.
+
+146
+00:05:49,940 --> 00:05:53,360
+Und zwar ist es so, dass die
+
+147
+00:05:53,360 --> 00:05:57,240
+Verbform, der Modus umgewandelt wird,
+
+148
+00:05:57,360 --> 00:05:59,000
+um kenntlich zu machen, dass es sich
+
+149
+00:05:59,000 --> 00:06:01,880
+hier um eine indirekte Rede hält. Das
+
+150
+00:06:01,880 --> 00:06:03,540
+heißt, im mündlichen Sprachgebrauch
+
+151
+00:06:03,540 --> 00:06:05,380
+ist es allerdings so, dass der
+
+152
+00:06:05,380 --> 00:06:07,560
+Indikativ auch als Indikativ
+
+153
+00:06:07,560 --> 00:06:09,920
+übersetzt wird. sich wenige Menschen,
+
+154
+00:06:09,960 --> 00:06:13,160
+die Mühe machen, kenntlich zu machen,
+
+155
+00:06:13,260 --> 00:06:15,060
+dass es sich hier um eine Aussage
+
+156
+00:06:15,060 --> 00:06:18,840
+eines Dritten handelt. Das heißt, oft
+
+157
+00:06:18,840 --> 00:06:20,760
+ist es so, dass im Alltagsgebrauch
+
+158
+00:06:20,760 --> 00:06:22,400
+und bei nicht offiziellen Anlassen
+
+159
+00:06:22,400 --> 00:06:25,060
+gesagt wird, Jonas sagt, Doppelpunkt,
+
+160
+00:06:25,060 --> 00:06:26,440
+Anführungsstriche, es ist kalt
+
+161
+00:06:26,440 --> 00:06:27,880
+draußen. Also wir wissen oder wir
+
+162
+00:06:27,880 --> 00:06:31,240
+hören, dass Jonas sagt, es ist kalt
+
+163
+00:06:31,240 --> 00:06:33,100
+draußen. Wir teilen dann also unserer
+
+164
+00:06:33,100 --> 00:06:35,520
+Mutter mit, Jonas sagt, es ist kalt
+
+165
+00:06:35,520 --> 00:06:37,940
+draußen. Jonas sagt, dass es kalt
+
+166
+00:06:37,940 --> 00:06:40,060
+draußen ist. Dabei stellen wir fest,
+
+167
+00:06:40,140 --> 00:06:42,220
+dass sich das Verb nicht verändert.
+
+168
+00:06:42,360 --> 00:06:43,880
+Es bleibt alles im Indikativ.
+
+169
+00:06:44,400 --> 00:06:47,040
+Richtiger ist es allerdings, dass wir
+
+170
+00:06:47,040 --> 00:06:49,000
+den Konjunktiv 1 verwenden. Das
+
+171
+00:06:49,000 --> 00:06:52,700
+heißt, sprechen wir hier zu anderen
+
+172
+00:06:52,700 --> 00:06:55,540
+Personen als in unserem Umgang im
+
+173
+00:06:55,540 --> 00:06:56,800
+familiären freundschaftlichen
+
+174
+00:06:56,800 --> 00:06:58,260
+Bereich. Das heißt, wenn es um
+
+175
+00:06:58,260 --> 00:07:01,080
+offizielle Berichterstattung geht,
+
+176
+00:07:01,240 --> 00:07:05,660
+wenn es um offizielle, öffentliche
+
+177
+00:07:05,660 --> 00:07:09,460
+oder objektiv wichtige Dinge, wie zum
+
+178
+00:07:09,460 --> 00:07:12,340
+Beispiel auch in der Schule, um in
+
+179
+00:07:12,340 --> 00:07:14,380
+der Schule gesagtes geht, müssen wir
+
+180
+00:07:14,380 --> 00:07:17,100
+den Konjunktiv I verwenden. Genauso
+
+181
+00:07:17,100 --> 00:07:19,160
+eben auch oder gerade auch in der
+
+182
+00:07:19,160 --> 00:07:20,980
+Schriftsprache. Das heißt, wir
+
+183
+00:07:20,980 --> 00:07:23,340
+verwenden den Konjunktiv 1. Dabei
+
+184
+00:07:23,340 --> 00:07:28,440
+verwandeln wir das Verb ist, also er
+
+185
+00:07:28,440 --> 00:07:32,760
+ist oder es ist, zu es sei. Das heißt
+
+186
+00:07:32,760 --> 00:07:35,440
+aus Jonas sagt, es ist kalt draußen,
+
+187
+00:07:35,600 --> 00:07:38,220
+wird Jonas sagt, es sei kalt draußen.
+
+188
+00:07:39,010 --> 00:07:41,180
+Wir stellen also fest, dass es hier
+
+189
+00:07:41,180 --> 00:07:44,200
+eine Umwandlung gegeben hat. Dabei
+
+190
+00:07:44,200 --> 00:07:46,740
+verschwindet... finden Doppelpunkte
+
+191
+00:07:46,740 --> 00:07:48,440
+und Anführungsstriche unten, und zwar
+
+192
+00:07:48,440 --> 00:07:51,440
+die direkte Rede, und wird in die
+
+193
+00:07:51,440 --> 00:07:53,360
+indirekte Rede umgeformt, indem wir
+
+194
+00:07:53,360 --> 00:07:55,220
+ein Komma setzen. Wir könnten zum
+
+195
+00:07:55,220 --> 00:07:56,880
+Beispiel auch sagen, Jonas sagt, dass
+
+196
+00:07:56,880 --> 00:07:59,860
+es kalt draußen sei. Dabei verändern
+
+197
+00:07:59,860 --> 00:08:01,720
+wir eben gerade nur die Satzstellung
+
+198
+00:08:01,720 --> 00:08:03,660
+und leiten den Nebensatz oder die
+
+199
+00:08:03,660 --> 00:08:07,320
+Rede im Grunde genommen mit einer
+
+200
+00:08:07,320 --> 00:08:09,860
+Subjunktion ein und stellen so
+
+201
+00:08:09,860 --> 00:08:11,380
+heraus, dass es eben etwas
+
+202
+00:08:11,380 --> 00:08:14,040
+Berichtetes ist, was gehört wurde.
+
+203
+00:08:14,920 --> 00:08:16,820
+Marie sagte, ich hatte keine
+
+204
+00:08:16,820 --> 00:08:19,120
+passenden Schuhe dabei, formen wir so
+
+205
+00:08:19,120 --> 00:08:21,360
+auch um. Maria sagte, sie habe keine
+
+206
+00:08:21,360 --> 00:08:23,780
+passenden Schuhe dabei. Die
+
+207
+00:08:23,780 --> 00:08:26,900
+Zeitfolge, darauf ist zu achten, ist
+
+208
+00:08:26,900 --> 00:08:28,520
+einerseits diese. Wir stellen fest,
+
+209
+00:08:28,720 --> 00:08:30,360
+Jonas sagt, es ist kalt draußen.
+
+210
+00:08:30,460 --> 00:08:32,060
+Jonas sagt, es ist kalt draußen,
+
+211
+00:08:32,180 --> 00:08:36,140
+indem sich jetzt, ich sage jetzt mal
+
+212
+00:08:36,140 --> 00:08:38,500
+Peter, in dem Moment zu seiner Mutter
+
+213
+00:08:38,500 --> 00:08:41,320
+wendet und eben genau das wiedergibt,
+
+214
+00:08:41,340 --> 00:08:43,020
+was er gerade von Jonas gehört hat.
+
+215
+00:08:43,660 --> 00:08:45,520
+Hier ist es so, das hatte wird zu
+
+216
+00:08:45,520 --> 00:08:47,140
+habe, obwohl das ja eigentlich
+
+217
+00:08:47,140 --> 00:08:50,160
+augenscheinlich hätte sein müsste,
+
+218
+00:08:50,300 --> 00:08:52,040
+also sie hätte keine passende Schule
+
+219
+00:08:52,040 --> 00:08:54,180
+dabei. Allerdings ist der Indikator
+
+220
+00:08:54,180 --> 00:08:56,120
+für das Tempus nach wie vor im
+
+221
+00:08:56,120 --> 00:08:58,240
+Hauptsatz zu finden. Das heißt, unser
+
+222
+00:08:58,240 --> 00:09:01,060
+Begleitwort, also das Einleitungswort
+
+223
+00:09:01,060 --> 00:09:02,700
+für den Nebensatz sagte, das
+
+224
+00:09:02,700 --> 00:09:04,460
+Sinnesverb, gibt letztendlich
+
+225
+00:09:04,460 --> 00:09:08,320
+Auskunft darüber, wann das Gesagte
+
+226
+00:09:08,320 --> 00:09:10,340
+gesagt wurde. Das heißt, ob es sich
+
+227
+00:09:10,340 --> 00:09:11,780
+jetzt um eine Vergangenheit oder eine
+
+228
+00:09:11,780 --> 00:09:13,800
+Gegenwart handelt, wie zum Beispiel
+
+229
+00:09:13,800 --> 00:09:16,940
+sagt oder sagte, hängt nicht von der
+
+230
+00:09:16,940 --> 00:09:19,040
+Konjunktivform ab, also von dem, was
+
+231
+00:09:19,040 --> 00:09:21,740
+gesagt wird, sondern von dem ab, wie
+
+232
+00:09:21,740 --> 00:09:24,920
+der Begleitsatz eingeleitet, also wie
+
+233
+00:09:24,920 --> 00:09:28,320
+der Begleitsatz einleitet. Deswegen
+
+234
+00:09:28,320 --> 00:09:30,980
+wird hier aus hatte, habe. Der
+
+235
+00:09:30,980 --> 00:09:33,100
+Konjunktiv 1 wird gebildet dadurch,
+
+236
+00:09:33,300 --> 00:09:35,020
+das werden wir im späteren Verlauf
+
+237
+00:09:35,020 --> 00:09:37,980
+auch noch sehen, dass er auf der
+
+238
+00:09:37,980 --> 00:09:42,380
+Präsensstammform gebildet wird. Okay,
+
+239
+00:09:42,540 --> 00:09:45,780
+der Konjunktiv 2 wird verwendet, wenn
+
+240
+00:09:45,780 --> 00:09:49,200
+der Konjunktiv 1 dem Indikativ
+
+241
+00:09:49,200 --> 00:09:50,660
+gleicht. Das heißt, wenn wir das
+
+242
+00:09:50,660 --> 00:09:54,620
+Problem haben, dass der Konjunktiv 1
+
+243
+00:09:54,620 --> 00:09:57,140
+dem Indikativ gleicht, haben wir
+
+244
+00:09:57,140 --> 00:09:58,020
+nicht mehr die Möglichkeit
+
+245
+00:09:58,020 --> 00:10:00,140
+herauszustellen, dass es sich hier um
+
+246
+00:10:00,140 --> 00:10:01,980
+eine indirekte Rede, also um ein
+
+247
+00:10:01,980 --> 00:10:03,940
+Drittes von einem Dritten Gesagten
+
+248
+00:10:03,940 --> 00:10:07,080
+handelt. Um das klar herauszustellen
+
+249
+00:10:07,080 --> 00:10:08,940
+und um es klar davon zu distanzieren,
+
+250
+00:10:08,960 --> 00:10:11,080
+was eben gesagt wurde, müssen wir
+
+251
+00:10:11,080 --> 00:10:13,660
+dann also den Konjunktiv 2 verwenden.
+
+252
+00:10:13,940 --> 00:10:15,520
+Daraus wird dann hier, wie in dem
+
+253
+00:10:15,520 --> 00:10:17,380
+Beispiel, Kirsten, die sagt, Sie
+
+254
+00:10:17,380 --> 00:10:18,900
+haben eine Stunde auf dich warten
+
+255
+00:10:18,900 --> 00:10:24,600
+müssen. Dann sagt Kirsten, oder wir
+
+256
+00:10:24,600 --> 00:10:26,620
+berichten dann im Anschluss, Kirsten
+
+257
+00:10:26,620 --> 00:10:28,980
+sagt oder Kirsten sagt. sagte, sie
+
+258
+00:10:28,980 --> 00:10:31,060
+hätten eine Stunde auf mich warten
+
+259
+00:10:31,060 --> 00:10:33,340
+müssen. Ja, wir stellen also fest,
+
+260
+00:10:33,500 --> 00:10:34,940
+was haben wir hier in der Umwandlung?
+
+261
+00:10:35,020 --> 00:10:36,760
+Einerseits das Dich wird zu mich,
+
+262
+00:10:36,900 --> 00:10:38,720
+weil sich das Dich hier an mich
+
+263
+00:10:38,720 --> 00:10:41,040
+wendet. Das heißt, ich gebe wieder
+
+264
+00:10:41,040 --> 00:10:44,260
+mich, das Pronomen ändert sich und
+
+265
+00:10:44,260 --> 00:10:47,380
+auch das Verb ändert sich. Hier in
+
+266
+00:10:47,380 --> 00:10:50,140
+diesem Fall, das haben wir zu hätten.
+
+267
+00:10:50,300 --> 00:10:52,140
+In anderen Fällen könnte man nicht
+
+268
+00:10:52,140 --> 00:10:53,740
+klar herausstellen, ob es sich hier
+
+269
+00:10:53,740 --> 00:10:56,060
+um eine Indikativform handelt, also
+
+270
+00:10:56,060 --> 00:10:57,780
+um eine direkte Rede oder eine
+
+271
+00:10:57,780 --> 00:11:00,180
+indirekte Rede. Kirsten sagte, Sie
+
+272
+00:11:00,180 --> 00:11:01,660
+haben eine Stunde auf mich warten
+
+273
+00:11:01,660 --> 00:11:03,640
+müssen. Man könnte auch sagen,
+
+274
+00:11:03,820 --> 00:11:05,580
+Kirsten, Sie haben eine Stunde auf
+
+275
+00:11:05,580 --> 00:11:07,220
+mich warten müssen. Damit würden wir
+
+276
+00:11:07,220 --> 00:11:09,460
+den Sinn vertauschen. Und zwar würde
+
+277
+00:11:09,460 --> 00:11:11,720
+das klingen, als wenn man auf Kirsten
+
+278
+00:11:11,720 --> 00:11:14,220
+hätte warten müssen. Deswegen
+
+279
+00:11:14,220 --> 00:11:16,600
+verwenden wir den Konjunktiv 2, wenn
+
+280
+00:11:16,600 --> 00:11:20,600
+die Konjunktiv 1-Form dem Indikativ
+
+281
+00:11:20,600 --> 00:11:24,920
+gleicht. Zudem müssen wir auch noch
+
+282
+00:11:24,920 --> 00:11:27,380
+darauf achten, dass im Konjunktiv 2
+
+283
+00:11:27,380 --> 00:11:31,880
+die Möglichkeit besteht, die Aussage
+
+284
+00:11:31,880 --> 00:11:35,000
+zu bewerten. Das heißt, der
+
+285
+00:11:35,000 --> 00:11:37,240
+Konjunktiv 1 ist die sachliche,
+
+286
+00:11:37,320 --> 00:11:40,240
+objektive, ohne Zweifel und ohne
+
+287
+00:11:40,240 --> 00:11:43,680
+Wertung berichtende Form. Wir haben
+
+288
+00:11:43,680 --> 00:11:45,540
+allerdings die Möglichkeit, die
+
+289
+00:11:45,540 --> 00:11:47,560
+Aussage, die wir gehört haben, auch
+
+290
+00:11:47,560 --> 00:11:49,660
+anzuzweifeln. Wir drücken diesen
+
+291
+00:11:49,660 --> 00:11:51,420
+Zweifel aus, indem wir auch den
+
+292
+00:11:51,420 --> 00:11:53,620
+Konjunktiv 2 bewerten. Das heißt, wir
+
+293
+00:11:53,620 --> 00:11:55,260
+könnten einerseits sagen, Markus
+
+294
+00:11:55,260 --> 00:11:57,620
+behauptet, er sei krank. Das werten
+
+295
+00:11:57,620 --> 00:11:59,220
+wir nicht, das nehmen wir einfach so
+
+296
+00:11:59,220 --> 00:12:02,500
+hin. Wenn wir also im Klassengespräch
+
+297
+00:12:02,500 --> 00:12:04,620
+wären und die Lehrerin fragen würde,
+
+298
+00:12:04,800 --> 00:12:08,580
+was ist mit Markus, könnten wir
+
+299
+00:12:08,580 --> 00:12:10,940
+sagen, Markus behauptet, er sei
+
+300
+00:12:10,940 --> 00:12:13,380
+krank. Dabei würden wir uns ganz klar
+
+301
+00:12:13,380 --> 00:12:16,480
+davon distanzieren und uns nicht und
+
+302
+00:12:16,480 --> 00:12:19,260
+die Tatsache, dass er eben krank ist
+
+303
+00:12:19,260 --> 00:12:21,560
+oder nicht, nicht beurteilen. Würden
+
+304
+00:12:21,560 --> 00:12:22,860
+wir allerdings sagen, Markus
+
+305
+00:12:22,860 --> 00:12:25,160
+behauptet, er wäre krank, aber ich
+
+306
+00:12:25,160 --> 00:12:26,340
+habe ihn gerade über die Straße
+
+307
+00:12:26,340 --> 00:12:29,400
+laufen sehen, dann haben wir einen
+
+308
+00:12:29,400 --> 00:12:31,320
+Zweifel mit eingeräumt. Das heißt,
+
+309
+00:12:31,400 --> 00:12:32,760
+wir können uns auch merken, dass der
+
+310
+00:12:32,760 --> 00:12:35,240
+Konjunktiv 2 in der indirekten Rede
+
+311
+00:12:35,240 --> 00:12:37,900
+auch einen Zweifel ausdrücken kann.
+
+312
+00:12:38,460 --> 00:12:40,360
+Konjunktiv 1 als offizielle
+
+313
+00:12:40,360 --> 00:12:43,000
+berichtende Form ohne Wertung und
+
+314
+00:12:43,000 --> 00:12:47,400
+Objektiv. Konjunktiv 2 entweder als
+
+315
+00:12:47,400 --> 00:12:50,100
+Möglichkeit herauszustellen, dass es
+
+316
+00:12:50,100 --> 00:12:51,900
+sich um eine indirekte Rede handelt,
+
+317
+00:12:51,920 --> 00:12:53,860
+wenn der Konjunktiv 1 dem Indikativ
+
+318
+00:12:53,860 --> 00:12:57,560
+gleich oder um einen Zweifel in die
+
+319
+00:12:57,560 --> 00:13:02,420
+Behauptung einzumischen. Kommen wir
+
+320
+00:13:02,420 --> 00:13:04,520
+nun zu unserem Exkurs und zwar haben
+
+321
+00:13:04,520 --> 00:13:07,340
+wir ja bereits schon nun einige Fälle
+
+322
+00:13:07,340 --> 00:13:10,100
+gesehen, in denen wir den Modus also
+
+323
+00:13:10,100 --> 00:13:12,660
+gewechselt haben. Also zwischen dem
+
+324
+00:13:12,660 --> 00:13:15,040
+Indikativ und dem Konjunktiv 1 oder 2
+
+325
+00:13:15,040 --> 00:13:17,160
+gewechselt haben. Dafür wollen wir
+
+326
+00:13:17,160 --> 00:13:18,420
+einen Schritt zurückgehen und uns
+
+327
+00:13:18,420 --> 00:13:20,000
+einmal klar machen, was ist überhaupt
+
+328
+00:13:20,000 --> 00:13:21,120
+ein Modus. Wir haben gerade
+
+329
+00:13:21,120 --> 00:13:23,680
+festgestellt, der Modus ist die
+
+330
+00:13:23,680 --> 00:13:25,200
+vierte Charaktereigenschaft des
+
+331
+00:13:25,200 --> 00:13:28,880
+Verbs. Zwischen der Person, dem
+
+332
+00:13:28,880 --> 00:13:31,160
+Numerus, der Zeitform, also dem
+
+333
+00:13:31,160 --> 00:13:32,980
+Tempus und dem Geschlecht des Verbs,
+
+334
+00:13:32,980 --> 00:13:35,300
+gibt es eben auch noch den Modus des
+
+335
+00:13:35,300 --> 00:13:36,720
+Verbs. Das heißt, wir fragen wie.
+
+336
+00:13:36,720 --> 00:13:39,420
+Wie? Das heißt, der Modus gibt
+
+337
+00:13:39,420 --> 00:13:40,880
+Auskunft darüber, wie die
+
+338
+00:13:40,880 --> 00:13:42,900
+Aussageweise ist. Das heißt, hier
+
+339
+00:13:42,900 --> 00:13:47,280
+wird die Aussageweise bestimmt.
+
+340
+00:13:47,660 --> 00:13:49,780
+Diese Aussageweise kann in drei
+
+341
+00:13:49,780 --> 00:13:51,780
+Formen auftreten, die sogenannten
+
+342
+00:13:51,780 --> 00:13:54,360
+drei Modi. Einmal dem Indikativ, dem
+
+343
+00:13:54,360 --> 00:13:56,860
+Konjunktiv und dem Imperativ. Dabei
+
+344
+00:13:56,860 --> 00:13:59,720
+ist der Konjunktiv die Form, die am
+
+345
+00:13:59,720 --> 00:14:00,960
+meisten verwendet wird,
+
+346
+00:14:01,060 --> 00:14:03,160
+beziehungsweise die letztendlich die
+
+347
+00:14:03,160 --> 00:14:04,540
+Wirklichkeitsform ist, die
+
+348
+00:14:04,540 --> 00:14:06,220
+berichtende Form. Ich kann also
+
+349
+00:14:06,220 --> 00:14:10,220
+sagen, er schläft. Das ist eine
+
+350
+00:14:10,220 --> 00:14:12,320
+Beobachtung. Wir hören ihn schnarchen
+
+351
+00:14:12,320 --> 00:14:14,340
+im Raum. Wir stellen also fest, er
+
+352
+00:14:14,340 --> 00:14:16,660
+schläft. Die Wirklichkeitsform. Das,
+
+353
+00:14:16,840 --> 00:14:18,420
+was jetzt gerade ist, also was in
+
+354
+00:14:18,420 --> 00:14:20,760
+Realität passiert. Im Gegensatz dazu
+
+355
+00:14:20,760 --> 00:14:22,800
+haben wir den Konjunktiv. Der
+
+356
+00:14:22,800 --> 00:14:24,540
+Konjunktiv ist eine Möglichkeitsform.
+
+357
+00:14:24,600 --> 00:14:26,020
+Damit haben wir die Möglichkeit,
+
+358
+00:14:26,420 --> 00:14:29,560
+Dinge auszudrücken, die entweder
+
+359
+00:14:29,560 --> 00:14:32,520
+passieren könnten, können oder können
+
+360
+00:14:32,520 --> 00:14:34,280
+werden. Das heißt Dinge, die
+
+361
+00:14:34,280 --> 00:14:36,780
+hypothetisch, das heißt mutmaßlich
+
+362
+00:14:36,780 --> 00:14:39,420
+sein können oder auch nicht. Wir
+
+363
+00:14:39,420 --> 00:14:40,720
+können das mit Gewissheit nicht
+
+364
+00:14:40,720 --> 00:14:42,880
+sagen, deswegen drücken wir diese
+
+365
+00:14:42,880 --> 00:14:44,640
+Formen oder diese Aussagen im
+
+366
+00:14:44,640 --> 00:14:46,540
+Konjunktiv aus. Und deswegen heißen
+
+367
+00:14:46,540 --> 00:14:48,120
+sie Möglichkeitsformen. Also ich habe
+
+368
+00:14:48,120 --> 00:14:49,640
+immer die Möglichkeit, dass es
+
+369
+00:14:49,640 --> 00:14:51,780
+zutrifft oder auch nicht. Dabei
+
+370
+00:14:51,780 --> 00:14:53,680
+unterscheiden wir in zwei Formen, dem
+
+371
+00:14:53,680 --> 00:14:55,480
+Konjunktiv 1 und dem Konjunktiv 2.
+
+372
+00:14:55,600 --> 00:14:56,820
+Wir haben jetzt gerade schon
+
+373
+00:14:56,820 --> 00:14:58,140
+festgestellt, dass es
+
+374
+00:14:58,140 --> 00:15:00,920
+unterschiedliche Situationen gibt,
+
+375
+00:15:01,100 --> 00:15:03,200
+indem wir einerseits den Konjunktiv 1
+
+376
+00:15:03,200 --> 00:15:04,660
+oder einerseits den Konjunktiv 2
+
+377
+00:15:04,660 --> 00:15:06,140
+verwenden. Hier sehen wir auch
+
+378
+00:15:06,140 --> 00:15:07,980
+nochmal zwei Beispiele. Er sagt, er
+
+379
+00:15:07,980 --> 00:15:10,060
+habe Hunger, man gebe ihm etwas zu
+
+380
+00:15:10,060 --> 00:15:12,840
+essen. Also, er sagt, er habe Hunger.
+
+381
+00:15:12,880 --> 00:15:13,920
+Wir können das leider nicht
+
+382
+00:15:13,920 --> 00:15:15,620
+feststellen oder überprüfen, ob er
+
+383
+00:15:15,620 --> 00:15:18,820
+Hunger hat oder nicht, Denn wir
+
+384
+00:15:18,820 --> 00:15:20,540
+stecken nicht in seiner Haut, würde
+
+385
+00:15:20,540 --> 00:15:22,380
+man salopp sagen. Das heißt, wir
+
+386
+00:15:22,380 --> 00:15:23,920
+können nicht nachvollziehen, ob er
+
+387
+00:15:23,920 --> 00:15:26,800
+eben Hunger hat oder nicht. Sofern es
+
+388
+00:15:26,800 --> 00:15:28,380
+denn so ist, also gehen wir davon
+
+389
+00:15:28,380 --> 00:15:31,080
+aus, dass er Hunger hat, dann gebe
+
+390
+00:15:31,080 --> 00:15:32,740
+man ihm etwas zu essen. Also dann
+
+391
+00:15:32,740 --> 00:15:34,520
+möge man ihm etwas zu essen geben,
+
+392
+00:15:34,720 --> 00:15:36,420
+sodass er dann eben keinen Hunger
+
+393
+00:15:36,420 --> 00:15:39,640
+mehr haben wird. Das ist etwas, was
+
+394
+00:15:39,640 --> 00:15:41,440
+wir im Konjunktiv 1 darstellen, weil
+
+395
+00:15:41,440 --> 00:15:43,100
+es etwas ist, was wir verändern
+
+396
+00:15:43,100 --> 00:15:45,520
+können und was, sofern denn gegeben.
+
+397
+00:15:45,640 --> 00:15:48,960
+auch gelöst werden kann. Der
+
+398
+00:15:48,960 --> 00:15:50,720
+Konjunktiv II hier in diesem
+
+399
+00:15:50,720 --> 00:15:52,980
+Beispiel, das wüsste ich auch gern,
+
+400
+00:15:53,100 --> 00:15:54,700
+das hätten wir dann geklärt,
+
+401
+00:15:54,720 --> 00:15:57,960
+beschreibt eine Situation, die in der
+
+402
+00:15:57,960 --> 00:15:59,820
+Vergangenheit hätte anders gelöst
+
+403
+00:15:59,820 --> 00:16:01,620
+werden können, sofern denn eine
+
+404
+00:16:01,620 --> 00:16:07,240
+Situation dafür
+
+405
+00:16:07,240 --> 00:16:10,460
+gegeben wäre. Ja, also hätte man das
+
+406
+00:16:10,460 --> 00:16:12,860
+gewusst, hätte man das auch geklärt,
+
+407
+00:16:12,880 --> 00:16:15,160
+hätte man das klären können. Das
+
+408
+00:16:15,160 --> 00:16:17,920
+heißt, wir sehen hier auch die Formen
+
+409
+00:16:17,920 --> 00:16:21,220
+ich wusste in der Vergangenheit, ich
+
+410
+00:16:21,220 --> 00:16:24,680
+hatte geklärt, das sind Dinge, die in
+
+411
+00:16:24,680 --> 00:16:27,340
+der Vergangenheit spielen, das heißt
+
+412
+00:16:27,340 --> 00:16:29,360
+der Konjunktiv II greift auf das
+
+413
+00:16:29,360 --> 00:16:30,880
+zurück, was in der Vergangenheit
+
+414
+00:16:30,880 --> 00:16:32,800
+hätte verändert werden können, jetzt
+
+415
+00:16:32,800 --> 00:16:34,200
+aber nicht mehr verändert werden
+
+416
+00:16:34,200 --> 00:16:36,360
+kann. Das heißt, der Konjunktiv II
+
+417
+00:16:36,360 --> 00:16:38,180
+drückt Dinge Dinge aus, die davon
+
+418
+00:16:38,180 --> 00:16:40,900
+ausgehen, dass in der Vergangenheit
+
+419
+00:16:40,900 --> 00:16:42,940
+etwas verändert wird, damit sich das
+
+420
+00:16:42,940 --> 00:16:45,080
+auf die Gegenwart anders auswirken
+
+421
+00:16:45,080 --> 00:16:45,380
+kann.
+
+422
+00:16:48,120 --> 00:16:50,040
+Also um das nochmal klar zu machen,
+
+423
+00:16:50,140 --> 00:16:52,260
+der Konjunktiv 1 räumt eine
+
+424
+00:16:52,260 --> 00:16:54,600
+Möglichkeit ein, die noch verändert
+
+425
+00:16:54,600 --> 00:16:56,260
+werden kann. Der Konjunktiv 2,
+
+426
+00:16:56,320 --> 00:16:57,240
+dadurch, dass er auf die
+
+427
+00:16:57,240 --> 00:16:58,880
+Vergangenheit zurückgreift und die
+
+428
+00:16:58,880 --> 00:17:00,400
+Vergangenheit ist bereits passiert,
+
+429
+00:17:00,500 --> 00:17:01,600
+das heißt, sie ist nicht mehr
+
+430
+00:17:01,600 --> 00:17:04,880
+veränderbar, drückt aus, wie es hätte
+
+431
+00:17:04,880 --> 00:17:06,640
+sein können, aber jetzt nicht mehr
+
+432
+00:17:06,640 --> 00:17:08,400
+ist, da es bereits vergangen ist. Das
+
+433
+00:17:08,400 --> 00:17:10,320
+heißt, die Möglichkeit wurde bereits
+
+434
+00:17:10,320 --> 00:17:12,480
+genommen, ist entfallen. Der
+
+435
+00:17:12,480 --> 00:17:15,600
+Imperativ als dritter Modus ist eine
+
+436
+00:17:15,600 --> 00:17:19,160
+Befehlsform. Diese Befehlsform drückt
+
+437
+00:17:19,160 --> 00:17:22,700
+etwas aus, wobei wir nicht mehr auf
+
+438
+00:17:22,700 --> 00:17:25,020
+die Handlung oder auf die Möglichkeit
+
+439
+00:17:25,020 --> 00:17:26,940
+gucken, sondern tatsächlich auf eine
+
+440
+00:17:26,940 --> 00:17:28,860
+Anweisung schauen. Wenn wir also
+
+441
+00:17:28,860 --> 00:17:31,060
+diese beiden oder diese drei Modi
+
+442
+00:17:31,060 --> 00:17:33,060
+miteinander vergleichen, stellen wir
+
+443
+00:17:33,060 --> 00:17:34,640
+fest, dass der Indikativ etwas
+
+444
+00:17:34,640 --> 00:17:35,800
+beschreibt. beschreibt. Der
+
+445
+00:17:35,800 --> 00:17:38,020
+Konjunktiv etwas in den Raum stellt,
+
+446
+00:17:38,140 --> 00:17:40,080
+das heißt, er gibt Möglichkeiten zur
+
+447
+00:17:40,080 --> 00:17:42,180
+Auswahl und der Imperativ eine
+
+448
+00:17:42,180 --> 00:17:44,300
+Aufforderung ausdrückt. Das heißt,
+
+449
+00:17:44,340 --> 00:17:46,920
+dabei steht das Verb in der
+
+450
+00:17:46,920 --> 00:17:49,280
+sogenannten Imperativform, das heißt,
+
+451
+00:17:49,360 --> 00:17:51,520
+hier soll die Handlung ausgeführt
+
+452
+00:17:51,520 --> 00:17:54,640
+werden. Einerseits ist sie
+
+453
+00:17:54,640 --> 00:17:56,940
+ausgeführt, sie könnte ausgeführt
+
+454
+00:17:56,940 --> 00:17:58,720
+werden, sie hätte ausgeführt werden
+
+455
+00:17:58,720 --> 00:18:01,720
+können und sie soll jetzt ausgeführt
+
+456
+00:18:01,720 --> 00:18:04,060
+werden. Das als Beispiele. Dabei
+
+457
+00:18:04,060 --> 00:18:06,480
+haben wir die Imperativform gibt oder
+
+458
+00:18:06,480 --> 00:18:08,640
+gebt. Ja, meistens in der zweiten
+
+459
+00:18:08,640 --> 00:18:10,680
+Person Singular oder zweiten Person
+
+460
+00:18:10,680 --> 00:18:12,900
+Plural, da sich das direkt an einen
+
+461
+00:18:12,900 --> 00:18:15,960
+Adressaten wendet. Okay, kommen wir
+
+462
+00:18:15,960 --> 00:18:17,860
+nun zu dem Modus und der Bildung des
+
+463
+00:18:17,860 --> 00:18:20,000
+Konjunktivs. Wie wir schon gesagt
+
+464
+00:18:20,000 --> 00:18:22,160
+haben, baut der Konjunktiv 1, wir
+
+465
+00:18:22,160 --> 00:18:24,920
+sehen das hier an dem Beispiel, auf
+
+466
+00:18:24,920 --> 00:18:27,260
+den Präsensstamm auf. Das heißt, es
+
+467
+00:18:27,260 --> 00:18:29,040
+besteht in großer Zahl die
+
+468
+00:18:29,040 --> 00:18:30,540
+Möglichkeit, wie wir das hier bei
+
+469
+00:18:30,540 --> 00:18:33,000
+ich, wir und sie sehen, dass die
+
+470
+00:18:33,000 --> 00:18:34,480
+Formen mit dem Indikativ
+
+471
+00:18:34,480 --> 00:18:36,640
+übereinstimmen. Das heißt hier, um
+
+472
+00:18:36,640 --> 00:18:38,300
+das zu vermeiden, müssten wir den
+
+473
+00:18:38,300 --> 00:18:40,700
+Konjunktiv 2 verwenden. Sollte der
+
+474
+00:18:40,700 --> 00:18:43,180
+Konjunktiv 2 allerdings auch mit
+
+475
+00:18:43,180 --> 00:18:46,860
+einem Indikativ übereinstimmen,
+
+476
+00:18:46,860 --> 00:18:48,540
+müssten wir tatsächlich auf den
+
+477
+00:18:48,540 --> 00:18:50,680
+Hilfskonjunktiv würde zurückgreifen.
+
+478
+00:18:50,760 --> 00:18:52,560
+Das sollte allerdings nur geschehen,
+
+479
+00:18:52,560 --> 00:18:54,120
+wenn es wirklich unvermeidbar ist.
+
+480
+00:18:54,120 --> 00:18:56,060
+Wir stellen allerdings fest, dass der
+
+481
+00:18:56,060 --> 00:18:58,120
+Konjunktiv 1 gewisse Eigenschaften
+
+482
+00:18:58,120 --> 00:18:59,600
+hat. Und zwar sehen wir das hier
+
+483
+00:18:59,600 --> 00:19:01,120
+schön an der zweiten und dritten
+
+484
+00:19:01,120 --> 00:19:02,600
+Person Singular, genauso wie an der
+
+485
+00:19:02,600 --> 00:19:04,660
+zweiten Person Plural. Und zwar haben
+
+486
+00:19:04,660 --> 00:19:07,380
+wir noch ein E dazu, wo wir im
+
+487
+00:19:07,380 --> 00:19:11,380
+Indikativ präsent sagen, gehst, sagen
+
+488
+00:19:11,380 --> 00:19:13,600
+wir im Konjunktiv 1 gehest. Wir
+
+489
+00:19:13,600 --> 00:19:15,680
+stellen fest, dass die Formen ähnlich
+
+490
+00:19:15,680 --> 00:19:17,500
+sind, allerdings ein E dazu kommt.
+
+491
+00:19:17,500 --> 00:19:19,980
+Hier entfällt das T in der dritten
+
+492
+00:19:19,980 --> 00:19:22,000
+Person Singular und dazu wird ein E
+
+493
+00:19:22,000 --> 00:19:25,060
+angehangen, also gehe. Und bei ihr
+
+494
+00:19:25,060 --> 00:19:28,440
+wird ein E wieder hinzugefügt. So
+
+495
+00:19:28,440 --> 00:19:31,140
+können wir also herausfinden oder
+
+496
+00:19:31,140 --> 00:19:32,400
+können wir feststellen, wie der
+
+497
+00:19:32,400 --> 00:19:34,080
+Konjunktiv 1 gebildet wird, eben
+
+498
+00:19:34,080 --> 00:19:35,980
+durch diese Kennzeichen. In der
+
+499
+00:19:35,980 --> 00:19:38,260
+zweiten, dritten Person Singular und
+
+500
+00:19:38,260 --> 00:19:39,700
+in der zweiten Person Plural.
+
+501
+00:19:40,660 --> 00:19:42,220
+Zusätzlich haben wir noch ein sehr
+
+502
+00:19:42,220 --> 00:19:44,040
+wichtiges Verb und zwar das Verb
+
+503
+00:19:44,040 --> 00:19:46,320
+sein. Das bekannt in immer.
+
+504
+00:19:46,500 --> 00:19:48,720
+unregelmäßig ist und seine eigenen
+
+505
+00:19:48,720 --> 00:19:50,680
+Konjunktivendungen hat. Das heißt,
+
+506
+00:19:50,760 --> 00:19:54,280
+der Konjunktiv 1 wird für das Verb
+
+507
+00:19:54,280 --> 00:19:56,880
+sein wie folgt gebildet. Ich sei, du
+
+508
+00:19:56,880 --> 00:19:59,080
+seiest oder du seist, das ist die
+
+509
+00:19:59,080 --> 00:20:00,760
+moderne Form, allerdings ist es
+
+510
+00:20:00,760 --> 00:20:03,940
+richtiger, seist, also sei jetzt zu
+
+511
+00:20:03,940 --> 00:20:07,580
+benutzen. Er, sie, es sei, wir seien,
+
+512
+00:20:07,600 --> 00:20:09,960
+ihr seiert, sie seien. Wir stellen
+
+513
+00:20:09,960 --> 00:20:14,060
+fest, die allgemeinen Regeln, die wir
+
+514
+00:20:14,060 --> 00:20:15,380
+bei den Verben im Deutschen haben,
+
+515
+00:20:15,500 --> 00:20:17,400
+Verben gibt es hier auch, und zwar,
+
+516
+00:20:17,500 --> 00:20:18,920
+dass die erste und die dritte Person
+
+517
+00:20:18,920 --> 00:20:21,040
+im Plural gleich sind. Und es gibt
+
+518
+00:20:21,040 --> 00:20:22,300
+auch viele Verben, bei denen die
+
+519
+00:20:22,300 --> 00:20:24,320
+erste und dritte Person Singular
+
+520
+00:20:24,320 --> 00:20:26,040
+gleich sind. So auch hier beim
+
+521
+00:20:26,040 --> 00:20:30,780
+Konjunktiv. Die Zeiten im Konjunktiv
+
+522
+00:20:30,780 --> 00:20:33,340
+sind einmal so zu beachten. Und zwar
+
+523
+00:20:33,340 --> 00:20:36,760
+haben wir unterschiedliche Formen,
+
+524
+00:20:36,760 --> 00:20:38,580
+die wir in direkter Rede ausdrücken
+
+525
+00:20:38,580 --> 00:20:40,040
+können. Das heißt, in der direkten
+
+526
+00:20:40,040 --> 00:20:42,260
+Rede können wir jede Zeitform so
+
+527
+00:20:42,260 --> 00:20:44,000
+verwenden und verwenden sie auch.
+
+528
+00:20:45,900 --> 00:20:47,260
+unterschiedliche Zeitformen drücken,
+
+529
+00:20:47,280 --> 00:20:49,240
+unterschiedliche Situationen aus und
+
+530
+00:20:49,240 --> 00:20:51,120
+die müssen natürlich auch in
+
+531
+00:20:51,120 --> 00:20:53,380
+indirekter Rede gewahrt bleiben. Das
+
+532
+00:20:53,380 --> 00:20:55,280
+heißt, hier haben wir vier
+
+533
+00:20:55,280 --> 00:20:57,640
+Möglichkeiten. Die Präsensform
+
+534
+00:20:57,640 --> 00:20:59,500
+drücken wir in der ganz einfachen
+
+535
+00:20:59,500 --> 00:21:01,640
+Präsensform aus. Das heißt, sie
+
+536
+00:21:01,640 --> 00:21:04,620
+sagte, sie gehe. Natürlich haben wir
+
+537
+00:21:04,620 --> 00:21:06,280
+hier das Problem, wie eingangs schon
+
+538
+00:21:06,280 --> 00:21:10,360
+erwähnt, dass sich diese Form der
+
+539
+00:21:10,360 --> 00:21:12,480
+direkten Rede gleicht. Das heißt,
+
+540
+00:21:12,540 --> 00:21:13,740
+hier könnten wir auch... auf den
+
+541
+00:21:13,740 --> 00:21:16,100
+Konjunktiv 2 zurückgreifen und sagen,
+
+542
+00:21:16,220 --> 00:21:17,500
+sie sagte, sie ginge, um
+
+543
+00:21:17,500 --> 00:21:19,260
+herauszustellen, dass es sich hier um
+
+544
+00:21:19,260 --> 00:21:21,640
+eine indirekte Rede handelt. Die drei
+
+545
+00:21:21,640 --> 00:21:23,580
+Vergangenheitsformen, Perfekt,
+
+546
+00:21:23,580 --> 00:21:25,540
+Präteritum und die Vorvergangenheit,
+
+547
+00:21:25,540 --> 00:21:28,000
+Plusquamperfekt, drücken wir ganz
+
+548
+00:21:28,000 --> 00:21:32,000
+einfach mit einem Hilfsverb aus, also
+
+549
+00:21:32,000 --> 00:21:33,760
+entweder dem Hilfsverb haben oder
+
+550
+00:21:33,760 --> 00:21:35,820
+sein in der Konjunktivform und dem
+
+551
+00:21:35,820 --> 00:21:38,540
+Partizip. So wie wir das auch aus dem
+
+552
+00:21:38,540 --> 00:21:41,200
+Perfekt und Plusquamperfekt formen
+
+553
+00:21:41,200 --> 00:21:43,140
+können, haben wir hier das Partizip,
+
+554
+00:21:43,140 --> 00:21:46,000
+also das Vergangenheitspartizip und
+
+555
+00:21:46,000 --> 00:21:49,500
+dazu das Hilfsverb im Indikativ. Das
+
+556
+00:21:49,500 --> 00:21:51,560
+verändert sich hier, indem sich das
+
+557
+00:21:51,560 --> 00:21:56,040
+Hilfsverb im Modus ändert und zwar
+
+558
+00:21:56,040 --> 00:21:58,960
+vom Indikativ in den Konjunktiv
+
+559
+00:21:58,960 --> 00:22:00,600
+wechselt. Wir haben hier gegangen,
+
+560
+00:22:00,740 --> 00:22:02,240
+also ein Verb der Bewegung, deswegen
+
+561
+00:22:02,240 --> 00:22:05,160
+verwenden wir hier das Hilfsverb.
+
+562
+00:22:05,560 --> 00:22:09,020
+sein bei Verben des Bewegens und bei
+
+563
+00:22:09,020 --> 00:22:10,560
+allen anderen, wie zum Beispiel
+
+564
+00:22:10,560 --> 00:22:14,460
+gegessen. Also sie sagte, sie habe
+
+565
+00:22:14,460 --> 00:22:17,000
+gegessen, hätten wir hier das
+
+566
+00:22:17,000 --> 00:22:19,120
+Hilfsverb haben im Konjunktiv. Bei
+
+567
+00:22:19,120 --> 00:22:21,360
+den Futurformen ist es so, ich werde
+
+568
+00:22:21,360 --> 00:22:23,540
+gehen, sie sagte, sie werde gehen,
+
+569
+00:22:23,680 --> 00:22:25,280
+haben wir auch die Möglichkeit,
+
+570
+00:22:25,400 --> 00:22:27,840
+dadurch, dass sich hier die beiden
+
+571
+00:22:27,840 --> 00:22:30,200
+Formen gleichen, könnte man, um es
+
+572
+00:22:30,200 --> 00:22:31,720
+nochmal speziell herauszustellen,
+
+573
+00:22:31,720 --> 00:22:33,840
+hier auf die Würdeform zurückgreifen.
+
+574
+00:22:34,560 --> 00:22:37,000
+Oder man belässt es so und stellt das
+
+575
+00:22:37,000 --> 00:22:38,880
+im Grunde genommen nur alleine fest,
+
+576
+00:22:39,000 --> 00:22:42,080
+indem man sie sagte. Allerdings, wie
+
+577
+00:22:42,080 --> 00:22:44,420
+gesagt, um das nochmal konkreter
+
+578
+00:22:44,420 --> 00:22:46,440
+herauszustellen, könnten wir hier das
+
+579
+00:22:46,440 --> 00:22:51,660
+Hilfswerk werde in den Konjunktiv
+
+580
+00:22:51,660 --> 00:22:53,100
+setzen und da würde raus
+
+581
+00:22:53,100 --> 00:22:56,160
+konstruieren. Ansonsten kann es
+
+582
+00:22:56,160 --> 00:22:59,760
+gleich bleiben. Okay, kommen wir nun
+
+583
+00:22:59,760 --> 00:23:01,680
+zu den indirekten Fragesätzen. Und
+
+584
+00:23:01,680 --> 00:23:04,180
+zwar, indirekte Fragesätze sind
+
+585
+00:23:04,180 --> 00:23:06,600
+insofern wichtig, als dass wir
+
+586
+00:23:06,600 --> 00:23:09,160
+formulieren, was jemand gefragt hat.
+
+587
+00:23:09,340 --> 00:23:12,460
+Bei Fragen mit einem Fragewort
+
+588
+00:23:12,460 --> 00:23:14,920
+wandert das Fragewort in den
+
+589
+00:23:14,920 --> 00:23:16,880
+Nebensatz und ersetzt im Grunde
+
+590
+00:23:16,880 --> 00:23:18,620
+genommen die Stelle des Das mit
+
+591
+00:23:18,620 --> 00:23:20,740
+Doppel-S, also der Subjunktion, auch
+
+592
+00:23:20,740 --> 00:23:24,040
+Konjunktion genannt. Dabei bleibt die
+
+593
+00:23:24,040 --> 00:23:25,640
+Satzgliedstellung die gleiche. Das
+
+594
+00:23:25,640 --> 00:23:27,540
+heißt, wir verändern den Satz so,
+
+595
+00:23:27,600 --> 00:23:29,980
+oder besser gesagt, wir behandeln den
+
+596
+00:23:29,980 --> 00:23:32,920
+Satz so, So, als würde hier ein das
+
+597
+00:23:32,920 --> 00:23:35,680
+stehen und anstatt des das steht das
+
+598
+00:23:35,680 --> 00:23:39,380
+wo. Das heißt, das Verb bzw. das
+
+599
+00:23:39,380 --> 00:23:41,580
+Prädikat wandert an den Schluss des
+
+600
+00:23:41,580 --> 00:23:42,860
+Satzes. Wir sehen das hier an dem
+
+601
+00:23:42,860 --> 00:23:45,560
+Beispiel Steffi. Wo ist Stefan? Wir
+
+602
+00:23:45,560 --> 00:23:47,700
+sagen, Steffi fragt oder Steffi
+
+603
+00:23:47,700 --> 00:23:50,720
+fragte, wo Stefan sei. Wir haben hier
+
+604
+00:23:50,720 --> 00:23:54,060
+also die Umformung, die Umwandlung
+
+605
+00:23:54,060 --> 00:23:58,860
+eben gerade das ist zu sei in den
+
+606
+00:23:58,860 --> 00:24:00,980
+Kontexten. Konjunktiv und anstelle
+
+607
+00:24:00,980 --> 00:24:03,420
+des das haben wir hier das Fragewort
+
+608
+00:24:03,420 --> 00:24:05,320
+aufgegriffen, damit wir herausstellen
+
+609
+00:24:05,320 --> 00:24:07,540
+können, um welche Frage es sich
+
+610
+00:24:07,540 --> 00:24:10,480
+handelt. Bei Fragen ohne Fragewort
+
+611
+00:24:10,480 --> 00:24:11,980
+ist es so, die zumeist
+
+612
+00:24:11,980 --> 00:24:14,240
+Entscheidungsfragen sind, dass wir
+
+613
+00:24:14,240 --> 00:24:16,800
+ein ob verwenden. Das heißt, wenn wir
+
+614
+00:24:16,800 --> 00:24:19,040
+das an dem Beispiel sehen, Max hat
+
+615
+00:24:19,040 --> 00:24:21,580
+Christian Morgenzeit. Max fragt, ob
+
+616
+00:24:21,580 --> 00:24:25,340
+Christian Morgenzeit habe. Hier haben
+
+617
+00:24:25,340 --> 00:24:27,260
+wir das ob anstelle des das auch
+
+618
+00:24:27,260 --> 00:24:28,400
+wieder die gleiche Satz.
+
+619
+00:24:28,460 --> 00:24:31,220
+Tastgliedstellung. Ginge Max davon
+
+620
+00:24:31,220 --> 00:24:37,040
+aus, dass Christian morgen keine Zeit
+
+621
+00:24:37,040 --> 00:24:39,960
+hätte, würde er formulieren, Max
+
+622
+00:24:39,960 --> 00:24:42,100
+fragt, ob Christian morgen Zeit
+
+623
+00:24:42,100 --> 00:24:46,520
+hätte, obwohl er doch einen Test
+
+624
+00:24:46,520 --> 00:24:49,020
+schreibt. Ja, so haben wir hier die
+
+625
+00:24:49,020 --> 00:24:50,660
+Einräumung nochmal klar dargestellt,
+
+626
+00:24:50,720 --> 00:24:52,620
+also einen Zweifel daran, ob er
+
+627
+00:24:52,620 --> 00:24:54,640
+morgen Zeit hat. Ansonsten wird das
+
+628
+00:24:54,640 --> 00:24:58,420
+im Konjunktiv 1 dargestellt und der
+
+629
+00:24:58,420 --> 00:25:01,120
+Indikativ umgeformt in den Konjunktiv
+
+630
+00:25:01,120 --> 00:25:04,820
+1. Aufforderungen und Bitten sind so,
+
+631
+00:25:05,000 --> 00:25:07,800
+dass wir sie mit sollen ausdrücken,
+
+632
+00:25:07,840 --> 00:25:10,480
+um zu beschreiben bzw. um deutlich zu
+
+633
+00:25:10,480 --> 00:25:12,760
+machen, dass der Imperativ hier
+
+634
+00:25:12,760 --> 00:25:15,220
+verwendet worden ist. Das heißt, wir
+
+635
+00:25:15,220 --> 00:25:18,440
+sagen komm pünktlich und Maria sagte,
+
+636
+00:25:18,620 --> 00:25:21,400
+ich solle pünktlich kommen. Wir haben
+
+637
+00:25:21,400 --> 00:25:23,700
+zudem noch die Möglichkeit, anstatt
+
+638
+00:25:23,700 --> 00:25:25,600
+des Hilfsverb sollen, das Hilfsverb
+
+639
+00:25:25,600 --> 00:25:28,180
+mögen zu benutzen. Dabei ist es so,
+
+640
+00:25:28,240 --> 00:25:31,300
+dass mögen die gehobenere Sprache
+
+641
+00:25:31,300 --> 00:25:32,840
+ausdrückt, allerdings auch, ich
+
+642
+00:25:32,840 --> 00:25:34,280
+möchte das einmal an einem Beispiel
+
+643
+00:25:34,280 --> 00:25:37,240
+zeigen, die Perspektiven, also die
+
+644
+00:25:37,240 --> 00:25:40,220
+unterschiedlichen Gesprächsebenen
+
+645
+00:25:40,220 --> 00:25:42,320
+beschreibt. Wenn wir ein Sollen
+
+646
+00:25:42,320 --> 00:25:44,120
+verwenden, dann geht das davon aus,
+
+647
+00:25:44,240 --> 00:25:46,220
+dass eine Person jemandem etwas
+
+648
+00:25:46,220 --> 00:25:49,120
+befiehlt. Wenn man Mögen verwendet,
+
+649
+00:25:49,120 --> 00:25:50,360
+wir sehen das ja in dem Beispiel,
+
+650
+00:25:50,480 --> 00:25:52,860
+dass der Freund den anderen Freund
+
+651
+00:25:52,860 --> 00:25:54,460
+fragt, ruf mich doch bitte später
+
+652
+00:25:54,460 --> 00:25:57,120
+nochmal an. Franz sagte, ich möge ihn
+
+653
+00:25:57,120 --> 00:25:59,000
+doch später bitte nochmal anrufen.
+
+654
+00:25:59,060 --> 00:26:00,280
+Dann haben wir hier einerseits das
+
+655
+00:26:00,280 --> 00:26:02,840
+Bitte, einerseits das Möge, um eine
+
+656
+00:26:02,840 --> 00:26:05,180
+Höflichkeitsformel auszudrücken. und
+
+657
+00:26:05,180 --> 00:26:08,560
+wir haben die Gesprächsebenen auf
+
+658
+00:26:08,560 --> 00:26:11,560
+gleicher Höhe. Das heißt, sollen und
+
+659
+00:26:11,560 --> 00:26:13,880
+mögen verändern hier die
+
+660
+00:26:13,880 --> 00:26:16,480
+Gesprächsebenen. Zusätzlich haben wir
+
+661
+00:26:16,480 --> 00:26:19,720
+auch noch den Infinitivsatz. Bei dem
+
+662
+00:26:19,720 --> 00:26:22,520
+Infinitivsatz ist es so, dass es hier
+
+663
+00:26:22,520 --> 00:26:24,040
+nicht um Gesprächsebenen geht,
+
+664
+00:26:24,140 --> 00:26:25,300
+sondern da geht es um die
+
+665
+00:26:25,300 --> 00:26:27,580
+Objektivität. Das heißt, in einem
+
+666
+00:26:27,580 --> 00:26:29,940
+Bericht oder in einem offiziellen
+
+667
+00:26:29,940 --> 00:26:32,780
+Schriftstück sollte auf den
+
+668
+00:26:32,780 --> 00:26:33,980
+Infinitivsatz zurückgehen.
+
+669
+00:26:34,000 --> 00:26:35,320
+zurückgegriffen werden, denn er
+
+670
+00:26:35,320 --> 00:26:37,780
+berichtet sachlich darüber, was
+
+671
+00:26:37,780 --> 00:26:40,360
+gefordert wurde. Wie wir es hier
+
+672
+00:26:40,360 --> 00:26:42,520
+sehen, Maria forderte mich auf,
+
+673
+00:26:42,620 --> 00:26:44,800
+pünktlich zu kommen, Franz bat mich,
+
+674
+00:26:44,940 --> 00:26:47,340
+ihn später noch anzurufen oder
+
+675
+00:26:47,340 --> 00:26:49,360
+nochmal anzurufen. Wir stellen fest,
+
+676
+00:26:49,560 --> 00:26:51,400
+hier sind die Gesprächsebenen nicht
+
+677
+00:26:51,400 --> 00:26:53,120
+mehr wichtig, denn hier geht es
+
+678
+00:26:53,120 --> 00:26:54,840
+alleine um die Tatsache, dass
+
+679
+00:26:54,840 --> 00:26:57,060
+aufgefordert wurde, pünktlich zu
+
+680
+00:26:57,060 --> 00:26:59,620
+kommen oder dass nochmal angerufen
+
+681
+00:26:59,620 --> 00:27:03,410
+werden solle. Wir stellen also fest,
+
+682
+00:27:03,490 --> 00:27:04,670
+wir haben drei Möglichkeiten,
+
+683
+00:27:05,090 --> 00:27:07,230
+Aufforderungen und Bitten in
+
+684
+00:27:07,230 --> 00:27:10,930
+indirekter Rede umzuwandeln. Dabei
+
+685
+00:27:10,930 --> 00:27:12,890
+müssen wir darauf immer schauen, wie
+
+686
+00:27:12,890 --> 00:27:14,350
+wir das hier in der Zusammenfassung
+
+687
+00:27:14,350 --> 00:27:16,290
+nochmal sehen werden, dass wir
+
+688
+00:27:16,290 --> 00:27:18,730
+entweder schauen, dass wir die
+
+689
+00:27:18,730 --> 00:27:20,650
+Gesprächsebenen respektieren oder
+
+690
+00:27:20,650 --> 00:27:22,690
+darauf schauen, dass die allgemeine
+
+691
+00:27:22,690 --> 00:27:24,830
+Aussage wichtig sein soll. Wir
+
+692
+00:27:24,830 --> 00:27:27,290
+stellen also fest, die indirekte Rede
+
+693
+00:27:27,290 --> 00:27:29,470
+als solche ist die Wiedergabe dessen,
+
+694
+00:27:29,470 --> 00:27:31,190
+was jemand anderes gesagt hat. Es
+
+695
+00:27:31,190 --> 00:27:33,850
+geht also um das Spiel, dass wir
+
+696
+00:27:33,850 --> 00:27:35,830
+wiedergeben, was ein Dritter zu uns
+
+697
+00:27:35,830 --> 00:27:37,930
+gesagt hat oder was wir gehört haben,
+
+698
+00:27:38,010 --> 00:27:39,690
+dass ein Dritter zu jemand anderem
+
+699
+00:27:39,690 --> 00:27:42,470
+gesagt hat. Dabei müssen wir
+
+700
+00:27:42,470 --> 00:27:44,170
+unterscheiden, ob wir das im gleichen
+
+701
+00:27:44,170 --> 00:27:46,310
+Moment wiedergeben oder eben später.
+
+702
+00:27:46,990 --> 00:27:49,230
+Die allgemeine Bildung ist so, dass
+
+703
+00:27:49,230 --> 00:27:51,050
+wir einen Einleitungssatz haben, der
+
+704
+00:27:51,050 --> 00:27:55,170
+auch die Hauptsatzfunktion hat. Das
+
+705
+00:27:55,170 --> 00:27:58,490
+heißt, wir haben hier ein sie, also
+
+706
+00:27:58,490 --> 00:28:00,410
+im Grunde genommen das Subjekt, dann
+
+707
+00:28:00,410 --> 00:28:02,790
+ein Sinnesverb, das im Grunde
+
+708
+00:28:02,790 --> 00:28:05,110
+genommen das vollwertige Prädikat des
+
+709
+00:28:05,110 --> 00:28:07,330
+Hauptsatzes ist und dann einen
+
+710
+00:28:07,330 --> 00:28:10,090
+entweder uneingeleiteten oder einen
+
+711
+00:28:10,090 --> 00:28:11,830
+eingeleiteten Nebensatz. Bei dem
+
+712
+00:28:11,830 --> 00:28:13,810
+uneingeleiteten Nebensatz ist es so,
+
+713
+00:28:13,850 --> 00:28:16,610
+dass der uneingeleitete Nebensatz die
+
+714
+00:28:16,610 --> 00:28:18,850
+Satzstruktur wie der Hauptsatz hat,
+
+715
+00:28:18,910 --> 00:28:20,150
+dabei ist er aber trotzdem ein
+
+716
+00:28:20,150 --> 00:28:23,830
+Nebensatz oder durch ein Das oder wie
+
+717
+00:28:23,830 --> 00:28:25,570
+wir gerade festgestellt haben,
+
+718
+00:28:25,650 --> 00:28:27,910
+entweder mit dem Fragewort oder bei
+
+719
+00:28:27,910 --> 00:28:29,510
+Entscheidungsfragen mit einem Ob
+
+720
+00:28:29,510 --> 00:28:32,570
+eingeleitet wird. Also wir haben das,
+
+721
+00:28:32,710 --> 00:28:35,550
+wie oder ob, also das, das Fragewort,
+
+722
+00:28:35,550 --> 00:28:37,330
+wie zum Beispiel wann, wie, wo,
+
+723
+00:28:37,470 --> 00:28:39,690
+weshalb, wohin oder bei
+
+724
+00:28:39,690 --> 00:28:42,150
+Entscheidungsfragen ob eingeleitet
+
+725
+00:28:42,150 --> 00:28:44,950
+und dann eben die Nebensatzstruktur,
+
+726
+00:28:45,070 --> 00:28:47,130
+sodass das Prädikat an den Schluss
+
+727
+00:28:47,130 --> 00:28:50,010
+wendet. Dabei müssen wir das Verb,
+
+728
+00:28:50,210 --> 00:28:52,770
+welches aus der direkten Rede stammt,
+
+729
+00:28:52,770 --> 00:28:56,170
+in den Konjunktiv 1 umformen. Gleicht
+
+730
+00:28:56,170 --> 00:28:58,970
+der Konjunktiv 1 der Indikativform
+
+731
+00:28:58,970 --> 00:29:00,870
+verwenden wir den Konjunktiv 2.
+
+732
+00:29:01,450 --> 00:29:04,090
+Möchten wir der Behauptung einen
+
+733
+00:29:04,090 --> 00:29:06,050
+Zweifel zuräumen, benutzen wir ebenso
+
+734
+00:29:06,050 --> 00:29:07,950
+den Konjunktiv 2. weil sollte auch
+
+735
+00:29:07,950 --> 00:29:10,330
+der Konjunktiv II eine gleiche Form
+
+736
+00:29:10,330 --> 00:29:12,370
+wie der Indikativ sein, können wir
+
+737
+00:29:12,370 --> 00:29:14,850
+als Notbehelf auch Würde benutzen.
+
+738
+00:29:15,310 --> 00:29:17,610
+Zusätzlich ist es so, dass wir bei
+
+739
+00:29:17,610 --> 00:29:19,570
+Aufforderungen und Bitten sollen,
+
+740
+00:29:19,790 --> 00:29:22,610
+mögen oder Infinitivsatz benutzen.
+
+741
+00:29:22,650 --> 00:29:24,990
+Dabei haben wir gelernt, dass es hier
+
+742
+00:29:24,990 --> 00:29:27,550
+um Gesprächsebenen geht. Sollen von
+
+743
+00:29:27,550 --> 00:29:30,770
+oben herab, mögen auf gleicher Ebene
+
+744
+00:29:30,770 --> 00:29:33,130
+und Infinitivsatz auf objektiver,
+
+745
+00:29:33,130 --> 00:29:35,170
+berichtender Ebene. Wir sehen das
+
+746
+00:29:35,170 --> 00:29:37,030
+hier nochmal. sagte, ich solle oder
+
+747
+00:29:37,030 --> 00:29:39,430
+möge bitte pünktlich sein. Dabei ist
+
+748
+00:29:39,430 --> 00:29:42,410
+es so, solle mit Nachdruck, möge als
+
+749
+00:29:42,410 --> 00:29:44,130
+höfliche Bitte zwischen zwei
+
+750
+00:29:44,130 --> 00:29:45,050
+gleichberechtigten
+
+751
+00:29:45,050 --> 00:29:47,230
+Gesprächsteilnehmern oder sie bat
+
+752
+00:29:47,230 --> 00:29:49,570
+mich, pünktlich zu sein als objektive
+
+753
+00:29:49,570 --> 00:29:51,630
+Äußerung dessen, was gesagt wurde.
+
+754
+00:29:52,510 --> 00:29:54,410
+Ich hoffe, es ist eingängig und klar.
+
+755
+00:29:54,530 --> 00:29:56,350
+Vielen Dank für die Aufmerksamkeit.
+

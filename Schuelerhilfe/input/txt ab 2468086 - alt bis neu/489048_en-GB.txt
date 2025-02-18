@@ -1,0 +1,717 @@
+﻿1
+00:00:00,460 --> 00:00:02,140
+Hello and welcome to the 
+
+2
+00:00:02,140 --> 00:00:04,060
+Schülerhilfe learning videos. 
+
+3
+00:00:04,060 --> 00:00:05,380
+This video is about the 
+
+4
+00:00:05,380 --> 00:00:07,620
+indentation method. This is particularly 
+
+5
+00:00:07,620 --> 00:00:09,560
+
+6
+00:00:09,560 --> 00:00:11,540
+helpful when translating longer texts. 
+With this method, 
+
+7
+00:00:11,540 --> 00:00:13,860
+you write main and subordinate clauses 
+
+8
+00:00:13,860 --> 00:00:16,660
+one below the other. This is useful if you 
+
+9
+00:00:16,660 --> 00:00:18,380
+have sentence periods that 
+
+10
+00:00:18,380 --> 00:00:20,540
+
+11
+00:00:20,540 --> 00:00:21,980
+have several nested sub-sentences that are 
+difficult 
+
+12
+00:00:21,980 --> 00:00:23,840
+to keep track of. 
+
+13
+00:00:23,840 --> 00:00:25,440
+The indentation method can then be used to 
+
+14
+00:00:25,440 --> 00:00:28,320
+graphically 
+
+15
+00:00:28,320 --> 00:00:30,960
+represent the sequence of these 
+subordinate clauses . The 
+
+16
+00:00:30,960 --> 00:00:32,800
+subordinate clauses are indented according 
+to their degree of 
+
+17
+00:00:32,800 --> 00:00:36,280
+dependency. A main clause can 
+
+18
+00:00:36,280 --> 00:00:38,200
+always stand alone, a 
+
+19
+00:00:38,200 --> 00:00:39,880
+subordinate clause always depends on a 
+
+20
+00:00:39,880 --> 00:00:42,400
+main clause. If we now 
+
+21
+00:00:42,400 --> 00:00:44,260
+have a main clause on which several 
+
+22
+00:00:44,260 --> 00:00:46,920
+subordinate clauses depend, then the 
+
+23
+00:00:46,920 --> 00:00:48,360
+first subordinate clause that 
+
+24
+00:00:48,360 --> 00:00:50,800
+depends on this main clause is a 
+
+25
+00:00:50,800 --> 00:00:53,240
+first-degree subordinate clause. If 
+
+26
+00:00:53,240 --> 00:00:55,360
+further 
+
+27
+00:00:55,360 --> 00:00:57,780
+subordinate clauses depend on this 
+first-degree subordinate clause 
+
+28
+00:00:57,780 --> 00:00:59,780
+, then they are second-degree, 
+
+29
+00:00:59,780 --> 00:01:02,160
+third-degree and so on. 
+
+30
+00:01:02,160 --> 00:01:04,360
+Next, let's take a look at the indentation 
+method 
+
+31
+00:01:04,360 --> 00:01:06,660
+using an example. Here we have 
+
+32
+00:01:06,660 --> 00:01:10,020
+an example from Caesar in De Bello 
+
+33
+00:01:10,020 --> 00:01:10,420
+Gallico. 
+
+34
+00:01:21,080 --> 00:01:23,440
+Ergerime confekerant, ut flumen 
+
+35
+00:01:23,440 --> 00:01:27,160
+transirent, caesarem uno die fecisse 
+
+36
+00:01:27,160 --> 00:01:30,820
+intelegrent, legatus ad eum mitunt. 
+
+37
+00:01:32,000 --> 00:01:34,840
+If we now 
+
+38
+00:01:34,840 --> 00:01:36,300
+want to translate this text , we can 
+already see that there 
+
+39
+00:01:36,300 --> 00:01:38,680
+are several partial sentences 
+
+40
+00:01:38,680 --> 00:01:41,020
+that are nested within one another. 
+
+41
+00:01:41,020 --> 00:01:44,640
+The first task is to 
+
+42
+00:01:44,640 --> 00:01:46,560
+write the text one below the other. 
+
+43
+00:01:46,560 --> 00:01:48,180
+We follow the German 
+
+44
+00:01:48,180 --> 00:01:53,040
+comma system and assign 
+
+45
+00:01:53,040 --> 00:01:55,640
+a 
+
+46
+00:01:55,640 --> 00:01:58,760
+separate line to each sentence that comes 
+before a comma . These different 
+
+47
+00:01:58,760 --> 00:02:02,280
+sections often begin with 
+
+48
+00:02:02,280 --> 00:02:05,280
+introductory words that 
+
+49
+00:02:05,280 --> 00:02:07,400
+indicate that a subordinate clause is to 
+follow. 
+
+50
+00:02:07,810 --> 00:02:13,000
+Cum, quod, ut. In the next step 
+
+51
+00:02:13,000 --> 00:02:17,140
+, we move the first subordinate 
+
+52
+00:02:17,140 --> 00:02:19,900
+clause one to the right, as the main 
+clause 
+
+53
+00:02:19,900 --> 00:02:22,080
+always remains on the far left. Here 
+
+54
+00:02:22,080 --> 00:02:23,640
+we now have the sentence that 
+
+55
+00:02:23,640 --> 00:02:26,060
+begins with Cum and move the 1 to the 
+right 
+
+56
+00:02:26,060 --> 00:02:28,280
+. It is important 
+
+57
+00:02:28,280 --> 00:02:30,620
+to note that the subordinate clause is not 
+
+58
+00:02:30,620 --> 00:02:32,600
+complete here , because a 
+
+59
+00:02:32,600 --> 00:02:35,920
+predicate is missing. The next subordinate 
+clause 
+
+60
+00:02:35,920 --> 00:02:37,620
+we have is the sentence that begins with 
+
+61
+00:02:37,620 --> 00:02:40,280
+the introduction Quod. 
+
+62
+00:02:40,280 --> 00:02:42,820
+There is a predicate at the end , so 
+
+63
+00:02:42,820 --> 00:02:46,100
+this subordinate clause is complete. Then 
+
+64
+00:02:46,100 --> 00:02:48,320
+a second one, let's indent the Ut 
+
+65
+00:02:48,320 --> 00:02:50,280
+ clause, which also has a 
+
+66
+00:02:50,280 --> 00:02:52,620
+predicate and is therefore complete. 
+
+67
+00:02:54,570 --> 00:02:58,290
+In the next section, we notice 
+
+68
+00:02:58,410 --> 00:03:00,890
+that there is a predicate at the end 
+
+69
+00:03:00,890 --> 00:03:03,450
+and here we know, aha, 
+
+70
+00:03:03,590 --> 00:03:05,750
+at the top of the cum, there was still a 
+
+71
+00:03:05,750 --> 00:03:07,850
+predicate missing. We have now found this 
+
+72
+00:03:07,850 --> 00:03:10,890
+here at Intelligerent. This 
+
+73
+00:03:10,890 --> 00:03:13,010
+means that we then 
+
+74
+00:03:13,010 --> 00:03:15,150
+move Kaisarim to the same level as Kum. 
+
+75
+00:03:16,150 --> 00:03:19,370
+Below the rest Legatus ad eum mitund, 
+
+76
+00:03:19,570 --> 00:03:22,390
+which is still part of the main clause and 
+
+77
+00:03:22,390 --> 00:03:24,370
+therefore remains 
+
+78
+00:03:24,370 --> 00:03:28,480
+on the far left. We can 
+
+79
+00:03:28,480 --> 00:03:29,980
+visualize the whole thing even better by 
+
+80
+00:03:29,980 --> 00:03:31,420
+
+81
+00:03:31,420 --> 00:03:34,340
+drawing dashed lines through it. The 
+
+82
+00:03:34,340 --> 00:03:38,060
+main clause is on the far left, followed 
+by the subordinate clause, which 
+
+83
+00:03:38,060 --> 00:03:40,960
+continues below. This is 
+
+84
+00:03:40,960 --> 00:03:44,920
+the subordinate clause of the first 
+degree, then 
+
+85
+00:03:44,920 --> 00:03:46,980
+comes the quad clause, which is the 
+
+86
+00:03:46,980 --> 00:03:50,340
+subordinate clause of the second degree 
+and then the subordinate 
+
+87
+00:03:50,340 --> 00:03:52,520
+clause of the third 
+
+88
+00:03:52,520 --> 00:03:56,220
+degree. The subordinate clause of the 
+first degree 
+
+89
+00:03:56,220 --> 00:03:58,620
+now depends on the main clause, the 
+
+90
+00:03:58,620 --> 00:04:00,680
+second degree again on the first degree 
+
+91
+00:04:00,680 --> 00:04:04,380
+and the third on the second. This is 
+
+92
+00:04:04,380 --> 00:04:06,220
+helpful for the translation because 
+
+93
+00:04:06,220 --> 00:04:07,920
+we then start with 
+
+94
+00:04:07,920 --> 00:04:11,540
+the main clause. We 
+
+95
+00:04:11,540 --> 00:04:14,220
+then have the complete main clause here 
+
+96
+00:04:14,220 --> 00:04:15,900
+, which we can then translate. 
+
+97
+00:04:16,520 --> 00:04:19,180
+At the end, we have the predicate 
+
+98
+00:04:19,180 --> 00:04:22,160
+with and. It is always easiest 
+
+99
+00:04:22,160 --> 00:04:24,040
+to translate the predicates first. 
+
+100
+00:04:24,940 --> 00:04:26,920
+We also notice that we 
+
+101
+00:04:26,920 --> 00:04:28,900
+have a non-finite verb form here 
+
+102
+00:04:28,900 --> 00:04:31,700
+, komoti. This shows us that 
+
+103
+00:04:31,760 --> 00:04:33,640
+
+104
+00:04:33,640 --> 00:04:35,440
+we have a conjunctive participle here and 
+then we look for the 
+
+105
+00:04:35,440 --> 00:04:37,740
+related word. In this 
+
+106
+00:04:37,740 --> 00:04:42,060
+case, it is Helvetia. 
+
+107
+00:04:42,060 --> 00:04:43,800
+In this case, the patikipium conjunct 
+
+108
+00:04:43,800 --> 00:04:46,300
+is translated as an affix. The translation 
+
+109
+00:04:46,300 --> 00:04:48,300
+of the main clause then reads, the 
+
+110
+00:04:48,300 --> 00:04:49,680
+Helvetii were 
+
+111
+00:04:49,680 --> 00:04:52,520
+very moved by his sudden arrival and 
+
+112
+00:04:52,520 --> 00:04:54,860
+they therefore sent envoys 
+
+113
+00:04:54,860 --> 00:04:57,100
+to him. That it is 
+
+114
+00:04:57,100 --> 00:04:59,080
+translated as an apposition means another 
+
+115
+00:04:59,080 --> 00:05:01,840
+main clause that 
+
+116
+00:05:01,840 --> 00:05:04,780
+is followed by and therefore or and 
+thereupon. 
+
+117
+00:05:04,780 --> 00:05:06,640
+Depending on which sense you 
+
+118
+00:05:06,640 --> 00:05:09,280
+want to give the translation. Therefore is 
+
+119
+00:05:09,280 --> 00:05:11,620
+a causal sense and thereupon 
+
+120
+00:05:11,620 --> 00:05:15,860
+is temporal. Next, let's look 
+
+121
+00:05:15,860 --> 00:05:18,920
+at the subordinate clause 
+
+122
+00:05:18,920 --> 00:05:21,840
+of the first degree and translate it. We 
+
+123
+00:05:21,840 --> 00:05:24,740
+start here because or as, 
+
+124
+00:05:24,740 --> 00:05:26,120
+again depending on the 
+
+125
+00:05:26,120 --> 00:05:28,620
+direction you want to take here. Because 
+
+126
+00:05:28,620 --> 00:05:31,900
+they realized that Caesar 
+
+127
+00:05:31,900 --> 00:05:33,740
+had done this in a single day. 
+
+128
+00:05:34,280 --> 00:05:36,980
+Again, it's important to 
+
+129
+00:05:37,180 --> 00:05:39,180
+translate the predicate first and then 
+
+130
+00:05:39,180 --> 00:05:43,340
+fill the rest of the sentence with 
+meaning. Then 
+
+131
+00:05:43,340 --> 00:05:45,620
+we look at the subordinate clause of the 
+second degree 
+
+132
+00:05:45,620 --> 00:05:49,120
+, which here begins with Quad, which 
+
+133
+00:05:50,650 --> 00:05:53,930
+they themselves 
+
+134
+00:05:53,930 --> 00:05:56,990
+had accomplished with extreme difficulty 
+in 20 days. It is important to 
+
+135
+00:05:56,990 --> 00:05:59,050
+note here that the quad 
+
+136
+00:05:59,050 --> 00:06:01,110
+is not a factual quad, but 
+
+137
+00:06:01,110 --> 00:06:03,730
+has the function of a relative pronoun, 
+which refers to 
+
+138
+00:06:03,730 --> 00:06:06,270
+the It above and therefore 
+
+139
+00:06:06,270 --> 00:06:08,090
+we translate the whole thing here as 
+
+140
+00:06:08,090 --> 00:06:08,330
+Bas. 
+
+141
+00:06:11,520 --> 00:06:13,080
+In the next step, we have 
+
+142
+00:06:13,080 --> 00:06:14,580
+the subordinate clause of the third 
+degree, 
+
+143
+00:06:14,700 --> 00:06:18,640
+the ut flumentranslating. Then 
+
+144
+00:06:18,640 --> 00:06:21,640
+we translate this as namely crossing the 
+
+145
+00:06:21,640 --> 00:06:25,780
+river. Here, the Ut has been 
+
+146
+00:06:25,780 --> 00:06:29,220
+
+147
+00:06:29,220 --> 00:06:31,960
+translated with nämlich and an infinitive 
+. The whole thing can also be 
+
+148
+00:06:31,960 --> 00:06:33,620
+translated more literally, for example, 
+
+149
+00:06:33,680 --> 00:06:37,560
+that they crossed the river. To 
+
+150
+00:06:37,560 --> 00:06:38,420
+
+151
+00:06:38,420 --> 00:06:40,380
+summarize the whole thing once again, we 
+have 
+
+152
+00:06:40,380 --> 00:06:42,720
+looked at the indentation method here. 
+
+153
+00:06:42,720 --> 00:06:44,600
+The main clause is 
+
+154
+00:06:44,600 --> 00:06:47,880
+written on the far left and each 
+subordinate clause is 
+
+155
+00:06:47,880 --> 00:06:49,800
+
+156
+00:06:49,800 --> 00:06:51,640
+indented to the right depending on the 
+degree of dependency . 
+
+157
+00:06:51,640 --> 00:06:53,180
+When translating , 
+
+158
+00:06:53,180 --> 00:06:54,740
+the introductory words of the 
+
+159
+00:06:54,740 --> 00:06:56,640
+subordinate clauses are particularly 
+important. 
+
+160
+00:06:56,700 --> 00:06:58,000
+These should be 
+
+161
+00:06:58,000 --> 00:06:59,880
+translated first. If we then 
+
+162
+00:06:59,880 --> 00:07:01,740
+
+163
+00:07:01,740 --> 00:07:03,700
+translate the individual sentences one 
+after the other , starting with the 
+
+164
+00:07:03,700 --> 00:07:05,780
+main clause, then it is important that 
+
+165
+00:07:05,780 --> 00:07:07,240
+the predicates 
+
+166
+00:07:07,240 --> 00:07:08,720
+are translated first , that the 
+sentence-value 
+
+167
+00:07:08,720 --> 00:07:10,780
+constructions are recognized, 
+
+168
+00:07:10,780 --> 00:07:12,840
+such as participle conjunctum 
+
+169
+00:07:12,840 --> 00:07:15,320
+or an ACI, and that these are then 
+
+170
+00:07:15,320 --> 00:07:17,080
+translated so that 
+
+171
+00:07:17,080 --> 00:07:18,980
+the meaning of the text can 
+
+172
+00:07:18,980 --> 00:07:21,500
+be found out afterwards . 
+
+173
+00:07:21,500 --> 00:07:23,440
+Thank you for your attention. Bye, 
+
+174
+00:07:23,440 --> 00:07:24,500
+see you next time. 

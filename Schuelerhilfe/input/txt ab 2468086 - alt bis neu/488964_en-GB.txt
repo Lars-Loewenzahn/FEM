@@ -1,0 +1,490 @@
+﻿1
+00:00:00,080 --> 00:00:03,260
+Welcome to IK7. In 
+
+2
+00:00:03,260 --> 00:00:04,900
+this sequence, I would like to 
+
+3
+00:00:04,900 --> 00:00:06,600
+
+4
+00:00:06,600 --> 00:00:08,440
+
+5
+00:00:08,440 --> 00:00:10,660
+introduce you to the new icons and 
+functions of the request book. The request 
+book is 
+
+6
+00:00:10,660 --> 00:00:12,420
+located in the Requests tile 
+
+7
+00:00:12,420 --> 00:00:15,100
+on your dashboard. You can 
+
+8
+00:00:15,100 --> 00:00:18,140
+open it using the three dots. Before you 
+
+9
+00:00:18,140 --> 00:00:19,620
+open it, you will already receive 
+
+10
+00:00:19,620 --> 00:00:21,820
+information on how many new, how 
+
+11
+00:00:21,820 --> 00:00:24,100
+many open and how many overdue 
+
+12
+00:00:24,100 --> 00:00:26,160
+requests it contains. 
+
+13
+00:00:27,480 --> 00:00:28,920
+At the same time, you get an 
+
+14
+00:00:28,920 --> 00:00:30,900
+overview of your conversion rate 
+
+15
+00:00:30,900 --> 00:00:34,620
+for the current month. When you open the 
+
+16
+00:00:34,620 --> 00:00:37,060
+request book, you will 
+
+17
+00:00:37,060 --> 00:00:39,200
+first see the small arrows that 
+
+18
+00:00:39,200 --> 00:00:41,400
+allow you 
+
+19
+00:00:41,400 --> 00:00:43,020
+to scroll to the previous month, but also 
+to the following month. 
+
+20
+00:00:43,200 --> 00:00:45,560
+At the same level you will see a 
+
+21
+00:00:45,560 --> 00:00:49,020
+large plus sign, which indicates that 
+
+22
+00:00:49,020 --> 00:00:51,140
+you 
+
+23
+00:00:51,140 --> 00:00:54,600
+can enter new requests here. To help you, 
+
+24
+00:00:54,600 --> 00:00:56,580
+a small 
+
+25
+00:00:56,580 --> 00:00:58,000
+gray window opens under this symbol , 
+which explains this 
+
+26
+00:00:58,000 --> 00:01:01,900
+function again. 
+
+27
+00:01:01,900 --> 00:01:04,680
+The entry is made in such a way that the 
+
+28
+00:01:04,680 --> 00:01:07,360
+current and new entries 
+
+29
+00:01:07,360 --> 00:01:10,020
+are always at the top, whereas the 
+
+30
+00:01:10,020 --> 00:01:12,560
+entries from the beginning of the month 
+
+31
+00:01:12,560 --> 00:01:14,600
+are at the bottom 
+
+32
+00:01:14,600 --> 00:01:17,120
+or even on page 2 or 3 
+
+33
+00:01:17,120 --> 00:01:21,190
+of the request form. We assume 
+
+34
+00:01:21,190 --> 00:01:23,230
+that these entries in the first 
+
+35
+00:01:23,230 --> 00:01:24,570
+and second of the month and 
+
+36
+00:01:24,570 --> 00:01:26,810
+subsequent days have of course already 
+
+37
+00:01:26,810 --> 00:01:28,990
+been completed and processed and that 
+
+38
+00:01:28,990 --> 00:01:30,590
+registrations 
+
+39
+00:01:30,590 --> 00:01:32,610
+have already been made here. It is 
+therefore much more important to 
+
+40
+00:01:32,670 --> 00:01:34,690
+
+41
+00:01:34,690 --> 00:01:36,650
+have an immediate overview of the new 
+requests. This is why they are at the top 
+of the list 
+
+42
+00:01:36,650 --> 00:01:36,890
+. 
+
+43
+00:01:39,990 --> 00:01:42,210
+In the lower section of the request book 
+you will 
+
+44
+00:01:42,210 --> 00:01:45,250
+find the resubmission and a 
+
+45
+00:01:45,250 --> 00:01:46,810
+box and in an area of 
+
+46
+00:01:46,810 --> 00:01:48,970
+overdue requests. The 
+
+47
+00:01:48,970 --> 00:01:50,730
+resubmission is always actively 
+
+48
+00:01:50,730 --> 00:01:53,030
+determined and populated by us. 
+
+49
+00:01:53,030 --> 00:01:54,790
+This means that the appointments that I 
+
+50
+00:01:54,790 --> 00:01:57,290
+select as the next action will appear here 
+
+51
+00:01:57,290 --> 00:02:00,330
+in the resubmission. In 
+
+52
+00:02:00,330 --> 00:02:03,450
+the overdue requests, the box 
+
+53
+00:02:03,450 --> 00:02:05,530
+serves more as a reminder. In the 
+
+54
+00:02:05,530 --> 00:02:08,330
+event that we 
+
+55
+00:02:08,330 --> 00:02:11,250
+overlook something, for example, or 
+
+56
+00:02:11,250 --> 00:02:13,690
+a deadline has passed. All 
+
+57
+00:02:13,690 --> 00:02:16,450
+appointments and requests that 
+
+58
+00:02:16,450 --> 00:02:18,050
+have not been processed for more than two 
+days 
+
+59
+00:02:18,050 --> 00:02:21,530
+automatically slide into the 
+
+60
+00:02:21,530 --> 00:02:23,750
+overdue requests and 
+
+61
+00:02:23,750 --> 00:02:26,110
+remind you that a new action 
+
+62
+00:02:26,110 --> 00:02:26,990
+is required here. 
+
+63
+00:02:31,260 --> 00:02:33,440
+The individual columns are made up as 
+
+64
+00:02:33,440 --> 00:02:34,980
+follows. 
+
+65
+00:02:34,980 --> 00:02:37,140
+You will find the date here , you 
+
+66
+00:02:37,140 --> 00:02:38,860
+will also find the details of the 
+
+67
+00:02:38,860 --> 00:02:41,860
+student acceptance and first name here and 
+you will 
+
+68
+00:02:41,860 --> 00:02:44,060
+find the details of the interested party. 
+
+69
+00:02:44,060 --> 00:02:46,680
+You will also find the name here. 
+
+70
+00:02:46,680 --> 00:02:48,540
+If the names are not the same, it is 
+
+71
+00:02:48,540 --> 00:02:50,500
+of course much, much easier to 
+
+72
+00:02:50,500 --> 00:02:52,480
+
+73
+00:02:52,480 --> 00:02:55,180
+assign the interested party to the 
+student. Both entries, both 
+
+74
+00:02:55,180 --> 00:02:56,440
+those of the student and the 
+
+75
+00:02:56,440 --> 00:02:58,340
+interested party, can also be found in the 
+
+76
+00:02:58,340 --> 00:03:01,440
+Contacts area. In the 
+
+77
+00:03:01,440 --> 00:03:03,060
+next column you will find the 
+
+78
+00:03:03,060 --> 00:03:05,480
+entry for the class and the type of school 
+
+79
+00:03:05,480 --> 00:03:07,780
+and we can then 
+
+80
+00:03:07,780 --> 00:03:10,140
+enter the subjects. 
+
+81
+00:03:10,140 --> 00:03:12,120
+
+82
+00:03:12,120 --> 00:03:13,540
+You can 
+
+83
+00:03:13,540 --> 00:03:16,740
+enter up to three different subjects in 
+the list of subjects. In the 
+
+84
+00:03:16,740 --> 00:03:18,520
+Notes column, as shown here 
+
+85
+00:03:18,520 --> 00:03:22,120
+as an example, we can 
+
+86
+00:03:22,120 --> 00:03:23,840
+enter the Office label. 
+
+87
+00:03:24,480 --> 00:03:26,700
+As soon as we 
+
+88
+00:03:26,700 --> 00:03:29,640
+call up this office identification , a 
+printer symbol will 
+
+89
+00:03:29,640 --> 00:03:32,320
+open . 
+
+90
+00:03:32,320 --> 00:03:35,540
+The pre-registration is then located 
+behind this printer symbol . 
+
+91
+00:03:35,540 --> 00:03:38,560
+
+92
+00:03:38,560 --> 00:03:41,560
+The status of the request is named in the 
+Status area of the request book. 
+
+93
+00:03:41,560 --> 00:03:43,040
+This means that we differentiate here 
+
+94
+00:03:43,040 --> 00:03:48,140
+between registrations, open 
+
+95
+00:03:48,140 --> 00:03:51,000
+contacts, new contacts and 
+
+96
+00:03:51,000 --> 00:03:52,520
+closed contacts. 
+
+97
+00:03:57,700 --> 00:04:00,020
+Next to this you will see the signature 
+
+98
+00:04:00,020 --> 00:04:02,460
+of the person who last 
+
+99
+00:04:02,460 --> 00:04:05,340
+edited this contact. The 
+
+100
+00:04:05,340 --> 00:04:07,400
+penultimate column gives you the 
+
+101
+00:04:07,400 --> 00:04:09,260
+option of printing things out, 
+
+102
+00:04:09,280 --> 00:04:11,640
+either an offer or, as 
+
+103
+00:04:11,640 --> 00:04:15,480
+already mentioned, the pre-registration. 
+And 
+
+104
+00:04:15,480 --> 00:04:17,200
+last but not least, the last symbol 
+
+105
+00:04:17,200 --> 00:04:19,640
+is called Close. This means 
+
+106
+00:04:19,640 --> 00:04:24,060
+that you can 
+
+107
+00:04:24,060 --> 00:04:25,940
+
+108
+00:04:25,940 --> 00:04:26,960
+close requests that cannot be converted 
+successfully. 
+
+109
+00:04:30,660 --> 00:04:32,920
+Another new symbol I would like to 
+
+110
+00:04:32,920 --> 00:04:33,980
+
+111
+00:04:33,980 --> 00:04:36,480
+show here is this little drop with 
+
+112
+00:04:36,480 --> 00:04:38,620
+the little man in it . This is our 
+
+113
+00:04:38,620 --> 00:04:40,580
+new symbol for the trial student. 
+
+114
+00:04:40,840 --> 00:04:41,340
+These 
+
+115
+00:04:46,880 --> 00:04:49,580
+were the new symbols for 
+
+116
+00:04:49,580 --> 00:04:52,580
+the inquiry book. In the next sequence, 
+
+117
+00:04:52,580 --> 00:04:54,040
+I would like to 
+
+118
+00:04:54,040 --> 00:04:56,620
+go into the status with you and see how 
+the 
+
+119
+00:04:56,620 --> 00:04:59,220
+status 
+
+120
+00:04:59,220 --> 00:05:01,260
+can be edited by the individual students 
+or requests. 

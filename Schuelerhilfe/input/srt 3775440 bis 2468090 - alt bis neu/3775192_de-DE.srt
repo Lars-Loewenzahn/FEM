@@ -1,0 +1,592 @@
+1
+00:00:04,140 --> 00:00:06,240
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,240 --> 00:00:07,380
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,380 --> 00:00:09,260
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,260 --> 00:00:11,420
+etwas über Nerven, das Hormonsystem
+
+5
+00:00:11,420 --> 00:00:14,340
+und unsere Sinne erklären. In unserem
+
+6
+00:00:14,340 --> 00:00:16,200
+Online-Lerncenter steht dir zu diesem
+
+7
+00:00:16,200 --> 00:00:17,720
+Thema natürlich auch noch ein Wiki
+
+8
+00:00:17,720 --> 00:00:19,120
+zur Verfügung, in dem dir die
+
+9
+00:00:19,120 --> 00:00:20,880
+grundlegenden und wichtigen Begriffe
+
+10
+00:00:20,880 --> 00:00:23,860
+genauer erklärt werden. Die Welt
+
+11
+00:00:23,860 --> 00:00:25,600
+überflutet uns in jedem Augenblick
+
+12
+00:00:25,600 --> 00:00:27,820
+mit Informationen. Schon unsere
+
+13
+00:00:27,820 --> 00:00:29,760
+frühesten Vorfahren mussten lernen,
+
+14
+00:00:29,800 --> 00:00:32,040
+gleichzeitig möglichst viele und vor
+
+15
+00:00:32,040 --> 00:00:33,120
+allen Dingen die Möglichkeiten,
+
+16
+00:00:33,140 --> 00:00:35,360
+wichtigsten Informationen aus unserer
+
+17
+00:00:35,360 --> 00:00:36,880
+Umwelt aufzunehmen und
+
+18
+00:00:36,880 --> 00:00:39,500
+weiterzuverarbeiten. So haben viele
+
+19
+00:00:39,500 --> 00:00:41,280
+Tierarten einen Sehsinn entwickelt,
+
+20
+00:00:41,600 --> 00:00:43,500
+um zum Beispiel Feinde oder Beute
+
+21
+00:00:43,500 --> 00:00:45,080
+schon aus großer Entfernung zu
+
+22
+00:00:45,080 --> 00:00:47,560
+erkennen. Einen Sinn für
+
+23
+00:00:47,560 --> 00:00:49,440
+Radioaktivität findet man hingegen
+
+24
+00:00:49,440 --> 00:00:51,720
+selten. Die Funktionalität der Sinne
+
+25
+00:00:51,720 --> 00:00:53,320
+war für unser Überleben in der
+
+26
+00:00:53,320 --> 00:00:54,860
+Vergangenheit von überragender
+
+27
+00:00:54,860 --> 00:00:57,420
+Bedeutung. Heute gibt es Brillen und
+
+28
+00:00:57,420 --> 00:00:58,640
+andere Hilfsmittel, um
+
+29
+00:00:58,640 --> 00:01:01,100
+Sinnesschwächen auszugleichen. Unsere
+
+30
+00:01:01,100 --> 00:01:02,900
+früheren Vorfahren hätten bei einer
+
+31
+00:01:02,900 --> 00:01:04,460
+Sehschwäche jedoch geringere
+
+32
+00:01:04,460 --> 00:01:07,320
+Überlebenschancen gehabt. Der Mensch
+
+33
+00:01:07,320 --> 00:01:10,480
+hat fünf Sinnesmodalitäten. Innerhalb
+
+34
+00:01:10,480 --> 00:01:11,580
+dieser Sinnesmodalitäten
+
+35
+00:01:11,580 --> 00:01:12,780
+unterscheidet man wiederum
+
+36
+00:01:12,780 --> 00:01:15,080
+unterschiedliche Wahrnehmungen. Wir
+
+37
+00:01:15,080 --> 00:01:16,780
+unterscheiden unser visuelles System,
+
+38
+00:01:17,060 --> 00:01:19,820
+auditive Wahrnehmung, olfaktorisches
+
+39
+00:01:19,820 --> 00:01:22,600
+System, gustatorisches System und
+
+40
+00:01:22,600 --> 00:01:25,380
+taktiles System. Das visuelle System
+
+41
+00:01:25,380 --> 00:01:28,180
+bezeichnet unser Sehsystem. Also alle
+
+42
+00:01:28,180 --> 00:01:30,200
+Organe und Zellen, welche am Vorgang
+
+43
+00:01:30,200 --> 00:01:32,240
+des Sehens beteiligt sind. Diese
+
+44
+00:01:32,240 --> 00:01:34,680
+Organe umfassen das Auge, den
+
+45
+00:01:34,680 --> 00:01:37,280
+Sehnerv, Teile des Thalamus und des
+
+46
+00:01:37,280 --> 00:01:38,960
+Hirnstamms sowie der Sehrinde.
+
+47
+00:01:39,440 --> 00:01:41,480
+Wahrgenommen werden primär Farben,
+
+48
+00:01:41,480 --> 00:01:43,300
+aber auch Entfernungen können optisch
+
+49
+00:01:43,300 --> 00:01:47,100
+abgeschätzt werden. Die auditive oder
+
+50
+00:01:47,100 --> 00:01:48,960
+akustische Wahrnehmung befasst sich
+
+51
+00:01:48,960 --> 00:01:50,620
+mit den Sinnen, welche in der Lage
+
+52
+00:01:50,620 --> 00:01:52,980
+sind, Schall wahrzunehmen. Schall
+
+53
+00:01:52,980 --> 00:01:54,780
+bzw. Schwingungen können über
+
+54
+00:01:54,780 --> 00:01:56,360
+verschiedene Medien übertragen
+
+55
+00:01:56,360 --> 00:01:58,600
+werden. Diese Medien sind meistens
+
+56
+00:01:58,600 --> 00:02:01,340
+Luft oder Wasser. Auch wenn die
+
+57
+00:02:01,340 --> 00:02:03,140
+meisten Leute bei Schallwahrnehmung
+
+58
+00:02:03,140 --> 00:02:05,280
+an die Ohren denken, könnt ihr auch
+
+59
+00:02:05,280 --> 00:02:07,160
+mit anderen Organen wie eurer Haut
+
+60
+00:02:07,160 --> 00:02:09,160
+Schall zum Beispiel in Form von
+
+61
+00:02:09,160 --> 00:02:11,460
+Vibrationen wahrnehmen. Die
+
+62
+00:02:11,460 --> 00:02:13,400
+olfaktorische Wahrnehmung bezeichnet
+
+63
+00:02:13,400 --> 00:02:14,860
+Sinne, welche mit dem Riechen
+
+64
+00:02:14,860 --> 00:02:17,620
+assoziiert sind. Unser Geruchssinn
+
+65
+00:02:17,620 --> 00:02:18,820
+ist in der Lage, verschiedene
+
+66
+00:02:18,820 --> 00:02:21,200
+Elemente wie ein spezielles Gas, zu
+
+67
+00:02:21,200 --> 00:02:23,440
+erkennen. Auch wenn der Geruchssinn
+
+68
+00:02:23,440 --> 00:02:25,080
+im Vergleich zu den anderen Sinnen
+
+69
+00:02:25,080 --> 00:02:26,660
+für uns Menschen heutzutage eine
+
+70
+00:02:26,660 --> 00:02:28,960
+untergeordnete Rolle spielt, gibt es
+
+71
+00:02:28,960 --> 00:02:31,140
+Tiere wie Hunde, welche einen
+
+72
+00:02:31,140 --> 00:02:33,020
+beeindruckend präzisen Geruchssinn
+
+73
+00:02:33,020 --> 00:02:35,440
+aufweisen. Die gustatorische
+
+74
+00:02:35,440 --> 00:02:36,960
+Wahrnehmung befasst sich mit dem
+
+75
+00:02:36,960 --> 00:02:39,000
+Schmecken. Der Geschmackssinn wird
+
+76
+00:02:39,000 --> 00:02:40,680
+ebenso wie der Geruchssinn durch
+
+77
+00:02:40,680 --> 00:02:43,060
+chemische Reize angesprochen. Durch
+
+78
+00:02:43,060 --> 00:02:44,280
+den Geschmackssinn können wir
+
+79
+00:02:44,280 --> 00:02:46,060
+schlechte und verdorbene Nahrung von
+
+80
+00:02:46,060 --> 00:02:48,460
+guter Nahrung unterscheiden. Dank
+
+81
+00:02:48,460 --> 00:02:50,860
+diesem Sinn seid sicher auch schon
+
+82
+00:02:50,860 --> 00:02:52,240
+ihr der ein oder anderen
+
+83
+00:02:52,240 --> 00:02:53,840
+Lebensmittelvergiftung entgangen.
+
+84
+00:02:54,640 --> 00:02:56,920
+Unsere letzte Wahrnehmung, unsere
+
+85
+00:02:56,920 --> 00:02:58,780
+taktile Wahrnehmung, bezeichnet
+
+86
+00:02:58,780 --> 00:03:00,500
+unsere Fähigkeit, Berührungen zu
+
+87
+00:03:00,500 --> 00:03:03,100
+empfinden. Die taktile Wahrnehmung
+
+88
+00:03:03,100 --> 00:03:04,560
+wird durch Mechanorezeptoren
+
+89
+00:03:04,560 --> 00:03:06,960
+gesteuert. Diese Rezeptoren können
+
+90
+00:03:06,960 --> 00:03:08,860
+sowohl Druck als auch Dehnungen
+
+91
+00:03:08,860 --> 00:03:12,100
+detektieren und weiterleiten. Reize
+
+92
+00:03:12,100 --> 00:03:14,340
+werden in adäquate und inadäquate
+
+93
+00:03:14,340 --> 00:03:16,980
+Reize unterschieden. Adäquate Reize
+
+94
+00:03:16,980 --> 00:03:18,820
+sind Reize, dessen Art genau auf die
+
+95
+00:03:18,820 --> 00:03:22,200
+Sinnesmodalität passen. Dieser Reiz
+
+96
+00:03:22,200 --> 00:03:23,420
+kann auch schon bei geringer
+
+97
+00:03:23,420 --> 00:03:25,240
+Intensität eine Alles-oder-nichts
+
+98
+00:03:25,240 --> 00:03:27,860
+-Reaktion auslösen. Zum Beispiel
+
+99
+00:03:27,860 --> 00:03:31,620
+Licht, das ins Auge fällt. Inadäquate
+
+100
+00:03:31,620 --> 00:03:34,220
+Reize sind Reize, die nicht zu den
+
+101
+00:03:34,220 --> 00:03:36,280
+Sinnesmodalitäten passen, jedoch bei
+
+102
+00:03:36,280 --> 00:03:38,180
+hoher Intensität auch dort eine
+
+103
+00:03:38,180 --> 00:03:40,980
+Reaktion hervorrufen. Beispielsweise,
+
+104
+00:03:40,980 --> 00:03:42,620
+wenn man einen Schlag aufs Auge
+
+105
+00:03:42,620 --> 00:03:46,100
+bekommt, sieht man Sternchen. Ein
+
+106
+00:03:46,100 --> 00:03:47,460
+wichtiger Bestandteil der
+
+107
+00:03:47,460 --> 00:03:49,380
+Signalübertragung unseres Körpers
+
+108
+00:03:49,380 --> 00:03:50,760
+wird von unserem Hormonsystem
+
+109
+00:03:50,760 --> 00:03:52,640
+dargestellt. Hormone sind
+
+110
+00:03:52,640 --> 00:03:54,400
+Botenstoffe, mit deren Hilfe der
+
+111
+00:03:54,400 --> 00:03:57,280
+Körper Signale überträgt. Betrachten
+
+112
+00:03:57,280 --> 00:03:59,840
+wir nun folgendes Beispiel. Ein Ein
+
+113
+00:03:59,840 --> 00:04:01,140
+Ball fliegt dir entgegen und du
+
+114
+00:04:01,140 --> 00:04:03,300
+fängst ihn auf. Der Ball bildet den
+
+115
+00:04:03,300 --> 00:04:05,360
+Reiz. Dies wird durch deine Augen,
+
+116
+00:04:05,460 --> 00:04:07,300
+also dem Sinnesorgan, wahrgenommen.
+
+117
+00:04:07,780 --> 00:04:09,640
+Diese Information wird durch die
+
+118
+00:04:09,640 --> 00:04:11,360
+Erregungsleitung innerhalb des
+
+119
+00:04:11,360 --> 00:04:12,800
+Organismus an dein Gehirn
+
+120
+00:04:12,800 --> 00:04:14,660
+weitergeleitet, welches diese
+
+121
+00:04:14,660 --> 00:04:16,680
+Information wie Geschwindigkeit und
+
+122
+00:04:16,680 --> 00:04:18,680
+Flugrichtung dann auswertet und
+
+123
+00:04:18,680 --> 00:04:21,020
+verarbeitet. Anschließend wird dann
+
+124
+00:04:21,020 --> 00:04:22,860
+ein Befehl über Nervenleitungen an
+
+125
+00:04:22,860 --> 00:04:25,380
+das betroffene Erfolgsorgan gesendet,
+
+126
+00:04:25,380 --> 00:04:27,560
+welches eine Reaktion zeigen soll.
+
+127
+00:04:28,200 --> 00:04:30,240
+Eine passende Reaktion wäre zum
+
+128
+00:04:30,240 --> 00:04:32,180
+Beispiel eine Hand- oder Armbewegung
+
+129
+00:04:32,180 --> 00:04:34,380
+zum Ball hin. Viele unserer
+
+130
+00:04:34,380 --> 00:04:36,160
+Sinnesreaktionen laufen ganz ohne
+
+131
+00:04:36,160 --> 00:04:38,380
+unser bewusstes Mitwirken, auch an
+
+132
+00:04:38,380 --> 00:04:39,500
+Stellen, an denen man es nicht
+
+133
+00:04:39,500 --> 00:04:42,360
+erwarten würde, ab. Wenn ihr einen
+
+134
+00:04:42,360 --> 00:04:44,000
+Reiz wahrnehmt, welcher eine große
+
+135
+00:04:44,000 --> 00:04:45,840
+Gefahr darstellt, versteinert ihr
+
+136
+00:04:45,840 --> 00:04:49,020
+bzw. ihr friert ein. Diese
+
+137
+00:04:49,020 --> 00:04:50,620
+Schockstarre ist ein bei vielen
+
+138
+00:04:50,620 --> 00:04:52,960
+Beutetieren beobachtbarer Reflex als
+
+139
+00:04:52,960 --> 00:04:55,280
+Reaktion auf eine unmittelbare Gefahr
+
+140
+00:04:55,280 --> 00:04:57,240
+oder in modernen Zeiten auf ein
+
+141
+00:04:57,240 --> 00:05:00,580
+unverhofft schlechtes Zeugnis. Ich
+
+142
+00:05:00,580 --> 00:05:02,480
+hoffe, dass du nun mehr über dieses
+
+143
+00:05:02,480 --> 00:05:04,500
+Thema weißt. Wenn du noch mehr Fragen
+
+144
+00:05:04,500 --> 00:05:06,340
+zu diesem oder anderen Themen hast,
+
+145
+00:05:06,440 --> 00:05:07,760
+nutze gerne unsere weiteren
+
+146
+00:05:07,760 --> 00:05:10,260
+Lerninhalte im Online-Lerncenter oder
+
+147
+00:05:10,260 --> 00:05:11,880
+wende dich an deine Schülerhilfe vor
+
+148
+00:05:11,880 --> 00:05:13,400
+Ort. Bis zum nächsten Mal!
+

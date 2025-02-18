@@ -1,0 +1,576 @@
+1
+00:00:04,080 --> 00:00:05,900
+Hallo, mein Name ist Paula und ich
+
+2
+00:00:05,900 --> 00:00:07,160
+bin Nachhilfelehrerin bei der
+
+3
+00:00:07,160 --> 00:00:09,660
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,660 --> 00:00:10,800
+gerne etwas zu verschiedenen
+
+5
+00:00:10,800 --> 00:00:12,020
+Verbindungsklassen von
+
+6
+00:00:12,020 --> 00:00:14,380
+Kohlenwasserstoffen erklären. In
+
+7
+00:00:14,380 --> 00:00:16,160
+unserem Online-Lerncenter steht dir
+
+8
+00:00:16,160 --> 00:00:17,760
+zu diesem Thema natürlich auch ein
+
+9
+00:00:17,760 --> 00:00:19,600
+Wiki zur Verfügung, in dem dir die
+
+10
+00:00:19,600 --> 00:00:21,180
+grundlegenden und wichtigen Begriffe
+
+11
+00:00:21,180 --> 00:00:24,240
+genauer erklärt werden. Wir sind alle
+
+12
+00:00:24,240 --> 00:00:25,500
+vertraut mit ähnlich klingenden
+
+13
+00:00:25,500 --> 00:00:26,600
+Wörtern, die jedoch völlig
+
+14
+00:00:26,600 --> 00:00:28,980
+verschiedene Bedeutungen haben. Zum
+
+15
+00:00:28,980 --> 00:00:31,860
+Beispiel Model und Modell oder Kreis
+
+16
+00:00:31,860 --> 00:00:34,640
+und Greis. Die Pendants in der Chemie
+
+17
+00:00:34,640 --> 00:00:37,420
+wären zum Beispiel Ethan, Ethen,
+
+18
+00:00:37,460 --> 00:00:40,440
+Ethin. Alle drei sind
+
+19
+00:00:40,440 --> 00:00:42,000
+Kohlenwasserstoffe mit ähnlichen
+
+20
+00:00:42,000 --> 00:00:44,280
+Namen und Summenformeln, die sich
+
+21
+00:00:44,280 --> 00:00:45,780
+jedoch in ihren Eigenschaften
+
+22
+00:00:45,780 --> 00:00:49,280
+unterscheiden. Die Benennung, also
+
+23
+00:00:49,280 --> 00:00:51,660
+die Endung auf an, en oder in,
+
+24
+00:00:51,740 --> 00:00:53,880
+erfolgt jedoch nach einem festen
+
+25
+00:00:53,880 --> 00:00:55,400
+Prinzip, was die ganze Sache
+
+26
+00:00:55,400 --> 00:00:57,140
+glücklicherweise wieder etwas
+
+27
+00:00:57,140 --> 00:00:59,440
+vereinfacht. Bevor ich jedoch darauf
+
+28
+00:00:59,440 --> 00:01:01,240
+genauer eingehe, möchte ich mit dir
+
+29
+00:01:01,240 --> 00:01:02,560
+erst einmal die Grundlagen
+
+30
+00:01:02,560 --> 00:01:04,600
+durchgehen. Erstens,
+
+31
+00:01:04,640 --> 00:01:06,320
+Kohlenwasserstoffe sind organische
+
+32
+00:01:06,320 --> 00:01:08,340
+Stoffe, die sich ausschließlich aus C
+
+33
+00:01:08,340 --> 00:01:11,420
+- und H-Atomen aufbauen. Zweitens,
+
+34
+00:01:11,420 --> 00:01:12,780
+sie besitzen die allgemeine
+
+35
+00:01:12,780 --> 00:01:16,420
+Summenformel CMH0. Drittens, es gibt
+
+36
+00:01:16,420 --> 00:01:17,960
+verschiedene Kategorien bei den
+
+37
+00:01:17,960 --> 00:01:21,140
+Kohlenwasserstoffen. Jetzt zu den
+
+38
+00:01:21,140 --> 00:01:24,060
+Kategorien. Zuerst unterscheidet man
+
+39
+00:01:24,060 --> 00:01:25,660
+zwischen aliphatischen und
+
+40
+00:01:25,660 --> 00:01:27,540
+aromatischen Kohlenwasserstoffen.
+
+41
+00:01:28,580 --> 00:01:30,700
+Aromatische Kohlwasserstoffe zeichnen
+
+42
+00:01:30,700 --> 00:01:32,380
+sich dadurch aus, dass sie mindestens
+
+43
+00:01:32,380 --> 00:01:34,140
+eine spezifische Ringstruktur haben.
+
+44
+00:01:35,060 --> 00:01:36,840
+Diese wiederum zeichnet sich dadurch
+
+45
+00:01:36,840 --> 00:01:38,220
+aus, dass man nicht mehr genau
+
+46
+00:01:38,220 --> 00:01:40,080
+bestimmen kann, wo sich die Einfach-
+
+47
+00:01:40,080 --> 00:01:41,340
+und wo sich die Doppelverbindungen
+
+48
+00:01:41,340 --> 00:01:43,040
+befinden, weshalb man von
+
+49
+00:01:43,040 --> 00:01:44,580
+delokalisierten Doppelbindungen
+
+50
+00:01:44,580 --> 00:01:47,160
+spricht. Dargestellt wird dies in der
+
+51
+00:01:47,160 --> 00:01:49,380
+Strukturformel als ein innerer Ring
+
+52
+00:01:49,380 --> 00:01:53,440
+innerhalb innerhalb des C66. Auf
+
+53
+00:01:53,440 --> 00:01:55,400
+diese Kategorie gehen wir in diesem
+
+54
+00:01:55,400 --> 00:01:58,040
+Video jedoch nicht näher ein. Bei den
+
+55
+00:01:58,040 --> 00:01:59,720
+aliphatischen Kohlenwasserstoffen
+
+56
+00:01:59,720 --> 00:02:01,320
+wird nochmals zwischen gesättigten
+
+57
+00:02:01,320 --> 00:02:03,200
+und ungesättigten Verbindungen
+
+58
+00:02:03,200 --> 00:02:05,000
+unterschieden. Bei beiden
+
+59
+00:02:05,000 --> 00:02:06,800
+Unterkategorien können Ketten oder
+
+60
+00:02:06,800 --> 00:02:09,740
+Ringe auftreten. Gesättigte
+
+61
+00:02:09,740 --> 00:02:11,560
+Kohlenwasserstoffe nennt man Alkane.
+
+62
+00:02:12,160 --> 00:02:14,420
+Sie zeichnen sich dadurch aus, dass
+
+63
+00:02:14,420 --> 00:02:16,580
+jedes C-Atom innerhalb des Moleküls
+
+64
+00:02:16,580 --> 00:02:18,400
+Verbindungen mit vier anderen Atomen
+
+65
+00:02:18,400 --> 00:02:20,660
+eingeht. Hier ist zur Verdeutlichung
+
+66
+00:02:20,660 --> 00:02:22,500
+eine Tabelle der ersten vier Alkane.
+
+67
+00:02:24,400 --> 00:02:26,320
+Allgemein kann man also sagen, die
+
+68
+00:02:26,320 --> 00:02:29,040
+Namen enden auf an und die allgemeine
+
+69
+00:02:29,040 --> 00:02:34,120
+Summenformel lautet cnH2n plus 2. Das
+
+70
+00:02:34,120 --> 00:02:35,160
+waren die gesättigten
+
+71
+00:02:35,160 --> 00:02:37,260
+Kohlenwasserstoffe. Kommen wir jetzt
+
+72
+00:02:37,260 --> 00:02:38,220
+zu den ungesättigten
+
+73
+00:02:38,220 --> 00:02:40,440
+Kohlenwasserstoffen, Alkenen und
+
+74
+00:02:40,440 --> 00:02:43,220
+Alkinen. Alkene besitzen C
+
+75
+00:02:43,220 --> 00:02:45,800
+-Doppelbindungen. Dementsprechend
+
+76
+00:02:45,800 --> 00:02:47,860
+besteht das erste Alken bereits aus
+
+77
+00:02:47,860 --> 00:02:51,220
+zwei C-Atomen. Es heißt Ethen. Ein
+
+78
+00:02:51,220 --> 00:02:53,740
+Alken mit drei C-Atomen heißt Propen.
+
+79
+00:02:54,340 --> 00:02:57,000
+Soweit so gut. Ab vier C-Atomen wird
+
+80
+00:02:57,000 --> 00:02:58,040
+die Sache allerdings etwas
+
+81
+00:02:58,040 --> 00:03:00,100
+komplizierter. Befindet sich die
+
+82
+00:03:00,100 --> 00:03:02,320
+Doppelbindung zwischen den ersten und
+
+83
+00:03:02,320 --> 00:03:04,560
+zweiten C-Atomen, heißt es ein Buten.
+
+84
+00:03:05,320 --> 00:03:07,460
+Hier kann das Molekül nur auf eine
+
+85
+00:03:07,460 --> 00:03:09,940
+Weise aufgebaut sein. sein. Befindet
+
+86
+00:03:09,940 --> 00:03:11,080
+sich die Doppelbindung jedoch
+
+87
+00:03:11,080 --> 00:03:13,000
+zwischen den zweiten und dritten C
+
+88
+00:03:13,000 --> 00:03:14,940
+-Atomen, dann sind zwei verschiedene
+
+89
+00:03:14,940 --> 00:03:17,560
+Molekülformen möglich. Die sogenannte
+
+90
+00:03:17,560 --> 00:03:18,940
+Cis-Form, bei der sich die
+
+91
+00:03:18,940 --> 00:03:21,100
+Methylgruppen auf der gleichen Seite
+
+92
+00:03:21,100 --> 00:03:23,420
+befinden wie die Transform, bei der
+
+93
+00:03:23,420 --> 00:03:24,860
+sich die Methylgruppen auf
+
+94
+00:03:24,860 --> 00:03:26,180
+unterschiedlichen Seiten befinden.
+
+95
+00:03:27,180 --> 00:03:29,820
+Allgemein gilt, Alkene haben eine C
+
+96
+00:03:29,820 --> 00:03:31,980
+-Doppelbindung. Treten hingegen
+
+97
+00:03:31,980 --> 00:03:34,060
+mehrere Doppelbindungen auf, spricht
+
+98
+00:03:34,060 --> 00:03:36,860
+man von Polyenen. Die Namen der
+
+99
+00:03:36,860 --> 00:03:38,480
+ungesättigten Kohlenwasserstoffe
+
+100
+00:03:38,480 --> 00:03:42,100
+enden also alle auf "-en". Die
+
+101
+00:03:42,100 --> 00:03:45,620
+allgemeine Summenformel lautet CnH2n.
+
+102
+00:03:46,040 --> 00:03:48,060
+Eine allgemeine Strukturformel gibt
+
+103
+00:03:48,060 --> 00:03:50,920
+es nicht. Alkine besitzen C
+
+104
+00:03:50,920 --> 00:03:52,980
+-Dreifachbindungen. Das kürzeste
+
+105
+00:03:52,980 --> 00:03:56,260
+Alkin ist Ethin. Danach kommt Propin
+
+106
+00:03:56,260 --> 00:03:59,860
+und ein Butin. Allgemein gilt, Alkine
+
+107
+00:03:59,860 --> 00:04:02,260
+haben eine C-Dreifachbindung, Treten
+
+108
+00:04:02,260 --> 00:04:03,960
+mehrere Dreifachbindungen auf,
+
+109
+00:04:04,060 --> 00:04:06,620
+spricht man von Polyinen. Die Namen
+
+110
+00:04:06,620 --> 00:04:08,980
+enden auf "-in". Die allgemeine
+
+111
+00:04:08,980 --> 00:04:13,720
+Summenformel lautet "-cnH2n-2". Eine
+
+112
+00:04:13,720 --> 00:04:15,820
+allgemeine Strukturformel gibt es
+
+113
+00:04:15,820 --> 00:04:18,320
+hier ebenfalls nicht. Fassen wir noch
+
+114
+00:04:18,320 --> 00:04:20,160
+einmal kurz zusammen. Es gibt
+
+115
+00:04:20,160 --> 00:04:22,020
+aromatische und aliphatische
+
+116
+00:04:22,020 --> 00:04:24,340
+Kohlenwasserstoffe. Bei den
+
+117
+00:04:24,340 --> 00:04:26,120
+aliphatischen Kohlenwasserstoffen
+
+118
+00:04:26,120 --> 00:04:27,320
+unterscheidet man zwischen
+
+119
+00:04:27,320 --> 00:04:28,980
+gesättigten und ungesättigten
+
+120
+00:04:28,980 --> 00:04:31,200
+Verbindungen. Gesättigte
+
+121
+00:04:31,200 --> 00:04:33,680
+Kohlenwasserstoffe sind Alkane. Ihre
+
+122
+00:04:33,680 --> 00:04:36,660
+Namen enden auf an. Die allgemeine
+
+123
+00:04:36,660 --> 00:04:41,300
+Summenformel lautet cnH2n plus 2. Zu
+
+124
+00:04:41,300 --> 00:04:43,060
+den ungesättigten Kohlenwasserstoffen
+
+125
+00:04:43,060 --> 00:04:45,660
+zählen zum einen Alkene. Die Namen
+
+126
+00:04:45,660 --> 00:04:48,620
+von Alkenen enden stets auf en. Sie
+
+127
+00:04:48,620 --> 00:04:50,620
+besitzen C-Doppelbindungen und wenn
+
+128
+00:04:50,620 --> 00:04:52,620
+nur eine vorhanden ist, lautet die
+
+129
+00:04:52,620 --> 00:04:56,140
+allgemeine Summenformel cnH2n. Zum
+
+130
+00:04:56,140 --> 00:04:58,180
+anderen gibt es noch Alkine. Die
+
+131
+00:04:58,180 --> 00:05:00,000
+Namen von Alkinen enden immer auf
+
+132
+00:05:00,000 --> 00:05:02,080
+"-in". Sie besitzen C
+
+133
+00:05:02,080 --> 00:05:04,320
+-Dreifachbindungen und wenn nur eine
+
+134
+00:05:04,320 --> 00:05:06,220
+vorhanden ist, lautet die allgemeine
+
+135
+00:05:06,220 --> 00:05:11,180
+Summenformel CnH2n-2. Ich hoffe, dass
+
+136
+00:05:11,180 --> 00:05:12,860
+du nun besser verstehst, was es mit
+
+137
+00:05:12,860 --> 00:05:14,320
+den verschiedenen Verbindungsklassen
+
+138
+00:05:14,320 --> 00:05:16,060
+von Kohlenwasserstoffen auf sich hat.
+
+139
+00:05:16,440 --> 00:05:18,240
+Wenn du noch Fragen zu diesem oder
+
+140
+00:05:18,240 --> 00:05:20,060
+anderen Themen hast, nutze gerne
+
+141
+00:05:20,060 --> 00:05:22,280
+unsere weiteren Lerninhalte im Online
+
+142
+00:05:22,280 --> 00:05:24,300
+-Lerncenter oder wende dich an deine
+
+143
+00:05:24,300 --> 00:05:26,140
+Schülerhilfe vor Ort. Bis zum
+
+144
+00:05:26,140 --> 00:05:26,680
+nächsten Mal.
+

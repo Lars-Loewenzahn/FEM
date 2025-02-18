@@ -1,0 +1,704 @@
+1
+00:00:00,370 --> 00:00:02,490
+Hallo und herzlich willkommen zu den
+
+2
+00:00:02,490 --> 00:00:05,430
+Lernvideos der Schülerhilfe. In
+
+3
+00:00:05,430 --> 00:00:06,750
+diesem Video lernst du die
+
+4
+00:00:06,750 --> 00:00:08,130
+technischen und inhaltlichen
+
+5
+00:00:08,130 --> 00:00:09,930
+Grundlagen einer Präsentation kennen.
+
+6
+00:00:13,270 --> 00:00:15,210
+Du bekommst eine Einführung in die
+
+7
+00:00:15,210 --> 00:00:16,550
+grundlegenden Funktionen des
+
+8
+00:00:16,550 --> 00:00:19,350
+Programms PowerPoint. Danach solltest
+
+9
+00:00:19,350 --> 00:00:20,890
+du in der Lage sein, deine eigenen
+
+10
+00:00:20,890 --> 00:00:22,690
+Präsentationen erstellen zu können.
+
+11
+00:00:23,810 --> 00:00:25,730
+Zu diesen grundlegenden Funktionen
+
+12
+00:00:25,730 --> 00:00:30,210
+zählt ein Layout auswählen, Texte
+
+13
+00:00:30,210 --> 00:00:34,330
+hinzuzufügen, Seiten hinzuzufügen und
+
+14
+00:00:34,330 --> 00:00:37,730
+Seitenzahlen einfügen. Du lernst
+
+15
+00:00:37,730 --> 00:00:39,750
+außerdem etwas über den grundlegenden
+
+16
+00:00:39,750 --> 00:00:41,010
+inhaltlichen Aufbau einer
+
+17
+00:00:41,010 --> 00:00:45,250
+Präsentation. Dazu gehören die
+
+18
+00:00:45,250 --> 00:00:47,930
+Startfolie, das ist so etwas wie das
+
+19
+00:00:47,930 --> 00:00:51,350
+Titelblatt deiner Präsentation, das
+
+20
+00:00:51,350 --> 00:00:52,970
+Inhaltsverzeichnis, die
+
+21
+00:00:52,970 --> 00:00:55,210
+Literaturangaben sowie die
+
+22
+00:00:55,210 --> 00:00:56,130
+Abschlussfolie.
+
+23
+00:00:59,230 --> 00:01:02,370
+Fangen wir also an. Zunächst einmal
+
+24
+00:01:02,370 --> 00:01:03,850
+öffnen wir das Programm Powerpoint.
+
+25
+00:01:03,870 --> 00:01:04,850
+Nach
+
+26
+00:01:08,180 --> 00:01:10,840
+dem Öffnen von PowerPoint kann direkt
+
+27
+00:01:10,840 --> 00:01:13,960
+ein Layout ausgewählt werden. Wähle
+
+28
+00:01:13,960 --> 00:01:16,460
+für deine erste Präsentation Leere
+
+29
+00:01:16,460 --> 00:01:17,260
+Präsentation.
+
+30
+00:01:24,590 --> 00:01:27,050
+Am linken Bildschirmrand siehst du
+
+31
+00:01:27,050 --> 00:01:28,710
+eine Spalte mit einer Übersicht über
+
+32
+00:01:28,710 --> 00:01:31,390
+alle Folien. Im Moment siehst du hier
+
+33
+00:01:31,390 --> 00:01:33,270
+nur eine leere Folie, aber bald
+
+34
+00:01:33,270 --> 00:01:35,210
+werden wir weitere Folien hinzufügen.
+
+35
+00:01:36,130 --> 00:01:37,690
+In der Mitte siehst du immer die
+
+36
+00:01:37,690 --> 00:01:40,090
+Folie, welche du aktuell bearbeitest.
+
+37
+00:01:40,750 --> 00:01:42,670
+und am oberen Rand siehst du das
+
+38
+00:01:42,670 --> 00:01:44,970
+Menüband. Hier sind alle wichtigen
+
+39
+00:01:44,970 --> 00:01:46,870
+Funktionen von PowerPoint zu finden.
+
+40
+00:01:51,930 --> 00:01:54,970
+Um einen Text einzufügen, suchen wir
+
+41
+00:01:54,970 --> 00:01:57,030
+im Menüband den Unterpunkt Einfügen.
+
+42
+00:02:02,540 --> 00:02:04,720
+Im darunter auftauchenden Menüband
+
+43
+00:02:04,720 --> 00:02:06,800
+drücken wir auf Textfeld.
+
+44
+00:02:14,590 --> 00:02:16,250
+Klicke auf deiner Folie an die
+
+45
+00:02:16,250 --> 00:02:17,850
+Stelle, wo du den Text einfügen
+
+46
+00:02:17,850 --> 00:02:20,430
+möchtest. Dort erscheint dann das
+
+47
+00:02:20,430 --> 00:02:21,670
+neue Textfeld und du kannst
+
+48
+00:02:21,670 --> 00:02:24,910
+losschreiben. Falls Falls du ein
+
+49
+00:02:24,910 --> 00:02:27,010
+Textfeld löschen möchtest, klicke auf
+
+50
+00:02:27,010 --> 00:02:28,650
+den Rand des Textfeldes und drücke
+
+51
+00:02:28,650 --> 00:02:30,630
+danach die Backspace- oder Entfernen
+
+52
+00:02:30,630 --> 00:02:31,850
+-Taste auf deiner Tastatur.
+
+53
+00:02:37,220 --> 00:02:38,760
+Wenn du die Schriftgröße deines
+
+54
+00:02:38,760 --> 00:02:40,760
+Textes ändern möchtest, klicke auf
+
+55
+00:02:40,760 --> 00:02:43,880
+den Rand des Textfeldes. Das Programm
+
+56
+00:02:43,880 --> 00:02:45,960
+öffnet automatisch im Menüband die
+
+57
+00:02:45,960 --> 00:02:48,760
+Startfunktionen. Hier kannst du die
+
+58
+00:02:48,760 --> 00:02:50,500
+Schriftart und Größe verändern.
+
+59
+00:02:52,360 --> 00:02:54,180
+Verschiebe dein Textfeld, indem du
+
+60
+00:02:54,180 --> 00:02:56,460
+die Maustaste am Rand gedrückt hältst
+
+61
+00:02:56,460 --> 00:02:58,680
+und das Feld mit der Maus bewegst.
+
+62
+00:02:59,530 --> 00:03:00,900
+Lasse dann die Taste wieder los.
+
+63
+00:03:04,280 --> 00:03:06,190
+Da eine Präsentation aus mehreren
+
+64
+00:03:06,190 --> 00:03:08,730
+Folien besteht, gehe ins Menüband auf
+
+65
+00:03:08,730 --> 00:03:10,310
+den Menüpunkt Einfügen.
+
+66
+00:03:14,220 --> 00:03:16,790
+Es öffnet sich ein Menüband. Klicke
+
+67
+00:03:16,790 --> 00:03:21,050
+ganz links auf Neue Folien. Solltest
+
+68
+00:03:21,050 --> 00:03:22,670
+du später eine Seite wieder löschen
+
+69
+00:03:22,670 --> 00:03:24,710
+möchten, so wähle die Seite in der
+
+70
+00:03:24,710 --> 00:03:26,250
+Übersicht am linken Bildschirmrand
+
+71
+00:03:26,250 --> 00:03:28,270
+aus und lösche sie mit der Backspace-
+
+72
+00:03:28,270 --> 00:03:29,410
+oder Entfernen-Taste.
+
+73
+00:03:33,530 --> 00:03:35,470
+Widmen wir uns nun den inhaltlichen
+
+74
+00:03:35,470 --> 00:03:37,530
+Grundlagen, dem Aufbau einer
+
+75
+00:03:37,530 --> 00:03:38,310
+Präsentation.
+
+76
+00:03:40,860 --> 00:03:42,600
+Natürlich sollte die PowerPoint
+
+77
+00:03:42,600 --> 00:03:44,580
+-Präsentation die fachlichen Inhalte
+
+78
+00:03:44,580 --> 00:03:47,640
+darstellen. Folgende weitere Folien
+
+79
+00:03:47,640 --> 00:03:49,120
+sollten aber immer enthalten sein.
+
+80
+00:03:50,320 --> 00:03:52,340
+Die Startfolie mit dem Thema des
+
+81
+00:03:52,340 --> 00:03:56,660
+Referats. ein Inhaltsverzeichnis, die
+
+82
+00:03:56,660 --> 00:03:59,100
+Literaturangaben sowie eine
+
+83
+00:03:59,100 --> 00:04:00,060
+Abschlussfolie.
+
+84
+00:04:04,870 --> 00:04:07,170
+Die erste Folie deiner Präsentation
+
+85
+00:04:07,170 --> 00:04:08,750
+ist so etwas wie das Titelblatt.
+
+86
+00:04:10,860 --> 00:04:12,660
+Folgende Angaben sollten auf der
+
+87
+00:04:12,660 --> 00:04:15,840
+Startfolie enthalten sein. Das Thema
+
+88
+00:04:15,840 --> 00:04:18,780
+der Präsentation, falls es sinnvoll
+
+89
+00:04:18,780 --> 00:04:22,140
+ist, ein Untertitel, in welchem Kurs
+
+90
+00:04:22,140 --> 00:04:23,440
+oder Fach die Präsentation
+
+91
+00:04:23,440 --> 00:04:26,180
+stattfindet, also zum Beispiel im
+
+92
+00:04:26,180 --> 00:04:28,240
+Matheleistungskurs, in Spanisch oder
+
+93
+00:04:28,240 --> 00:04:28,440
+im Zivilgesellschaftskurs,
+
+94
+00:04:28,460 --> 00:04:31,360
+Deutschgrundkurs. Außerdem sollte
+
+95
+00:04:31,360 --> 00:04:33,220
+noch der Name des Vortragenden sowie
+
+96
+00:04:33,220 --> 00:04:34,920
+das Datum genannt werden, an dem der
+
+97
+00:04:34,920 --> 00:04:38,510
+Vortrag gehalten wird. Um die
+
+98
+00:04:38,510 --> 00:04:40,070
+Startfolie etwas ansprechender zu
+
+99
+00:04:40,070 --> 00:04:41,710
+gestalten, ist es sinnvoll, ein
+
+100
+00:04:41,710 --> 00:04:43,430
+passendes Bild oder ähnliches zu
+
+101
+00:04:43,430 --> 00:04:43,910
+benutzen.
+
+102
+00:04:48,760 --> 00:04:50,520
+Hier siehst du ein Beispiel für eine
+
+103
+00:04:50,520 --> 00:04:53,640
+gelogene Startfolie. Der Titel und
+
+104
+00:04:53,640 --> 00:04:55,740
+Untertitel sind gut lesbar und mittig
+
+105
+00:04:55,740 --> 00:04:58,800
+platziert. Die weiteren Angaben wie
+
+106
+00:04:58,800 --> 00:05:00,860
+Kurs, Datum und der Name des
+
+107
+00:05:00,860 --> 00:05:02,640
+Vortragenden sind vollständig.
+
+108
+00:05:03,780 --> 00:05:05,580
+Außerdem wird die Startfolie durch
+
+109
+00:05:05,580 --> 00:05:06,940
+ein lustiges, aber passendes
+
+110
+00:05:06,940 --> 00:05:08,380
+Titelbild aufgelockert.
+
+111
+00:05:14,100 --> 00:05:16,400
+Nach der Startfolie fügen wir ein
+
+112
+00:05:16,400 --> 00:05:19,120
+Inhaltsverzeichnis ein. Dieses sollte
+
+113
+00:05:19,120 --> 00:05:21,980
+alle Themenpunkte enthalten. Die
+
+114
+00:05:21,980 --> 00:05:24,040
+Startfolie, das Inhaltsverzeichnis
+
+115
+00:05:24,040 --> 00:05:26,500
+selber und die Abschlussfolie werden
+
+116
+00:05:26,500 --> 00:05:29,720
+hier jedoch nicht aufgeführt. Nach
+
+117
+00:05:29,720 --> 00:05:31,840
+dem Inhaltsverzeichnis folgt dann der
+
+118
+00:05:31,840 --> 00:05:33,400
+fachliche Teil der Präsentation.
+
+119
+00:05:38,360 --> 00:05:40,300
+Nachdem der fachliche Teil beendet
+
+120
+00:05:40,300 --> 00:05:42,580
+wurde, benötigt die Präsentation noch
+
+121
+00:05:42,580 --> 00:05:46,000
+ein Literaturverzeichnis. Wie du
+
+122
+00:05:46,000 --> 00:05:47,820
+Quellenangaben richtig gestaltest,
+
+123
+00:05:47,900 --> 00:05:49,540
+hast du ja bereits im Modul 1
+
+124
+00:05:49,540 --> 00:05:53,220
+gelernt. Das Literaturverzeichnis,
+
+125
+00:05:53,240 --> 00:05:54,240
+welches du in das Ende der
+
+126
+00:05:54,240 --> 00:05:56,020
+Präsentation einfügen solltest,
+
+127
+00:05:56,140 --> 00:05:58,380
+sollte alle Quellen enthalten, die
+
+128
+00:05:58,380 --> 00:06:01,040
+verwendet wurden. Vergiss auch die
+
+129
+00:06:01,040 --> 00:06:02,640
+Quellenangaben von den Bildern nicht,
+
+130
+00:06:02,720 --> 00:06:05,700
+die du verwendet hast. Sortiere deine
+
+131
+00:06:05,700 --> 00:06:09,920
+Quellen alphabetisch. So, nun sind
+
+132
+00:06:09,920 --> 00:06:12,360
+wir fast fertig. Nur eine Folie fehlt
+
+133
+00:06:12,360 --> 00:06:12,600
+noch.
+
+134
+00:06:19,020 --> 00:06:21,460
+Die letzte Folie unserer Präsentation
+
+135
+00:06:21,460 --> 00:06:24,000
+ist die Abschlussfolie. Die
+
+136
+00:06:24,000 --> 00:06:25,700
+Gestaltung dieser ist abhängig von
+
+137
+00:06:25,700 --> 00:06:27,500
+der Situation und vom Geschmack des
+
+138
+00:06:27,500 --> 00:06:31,100
+Vortragenden. Die letzte Folie kann,
+
+139
+00:06:31,280 --> 00:06:33,620
+muss aber nicht folgendes enthalten.
+
+140
+00:06:33,620 --> 00:06:36,400
+Eine Danksagung für die
+
+141
+00:06:36,400 --> 00:06:39,440
+Aufmerksamkeit. Zum Beispiel, vielen
+
+142
+00:06:39,440 --> 00:06:42,360
+Dank für eure Aufmerksamkeit. Die
+
+143
+00:06:42,360 --> 00:06:44,120
+Anmerkung, ob es Fragen oder
+
+144
+00:06:44,120 --> 00:06:46,040
+Diskussionsbedarf zum Vortrag gibt.
+
+145
+00:06:46,660 --> 00:06:49,080
+Ein zusammenfassendes Statement oder
+
+146
+00:06:49,080 --> 00:06:51,720
+ein prägnantes Bild bzw. ein Diagramm
+
+147
+00:06:51,720 --> 00:06:52,720
+aus dem Vortrag.
+
+148
+00:06:58,460 --> 00:07:00,380
+Ein gutes Beispiel für eine
+
+149
+00:07:00,380 --> 00:07:04,040
+Abschlussfolie siehst du hier. Das
+
+150
+00:07:04,040 --> 00:07:05,520
+Bild bezieht sich natürlich auf das
+
+151
+00:07:05,520 --> 00:07:07,180
+Thema Honig, welches wir bereits bei
+
+152
+00:07:07,180 --> 00:07:08,200
+der Startfolie bezeichnen. als
+
+153
+00:07:08,200 --> 00:07:10,340
+Beispiel verwendet haben. Um
+
+154
+00:07:14,270 --> 00:07:15,950
+die Präsentation perfekt zu machen,
+
+155
+00:07:16,110 --> 00:07:20,120
+fehlen noch die Seitenzahlen. Klicke
+
+156
+00:07:20,120 --> 00:07:21,900
+dazu unter Einfügen auf
+
+157
+00:07:21,900 --> 00:07:23,720
+Foliennummern. Ein
+
+158
+00:07:31,050 --> 00:07:34,430
+Pop-up Fenster öffnet sich. Setze in
+
+159
+00:07:34,430 --> 00:07:36,410
+diesem die Häkchen bei Foliennummern
+
+160
+00:07:36,410 --> 00:07:39,710
+und auf Titelfolie nicht anzeigen.
+
+161
+00:07:40,830 --> 00:07:43,230
+Klicke zum Schluss auf Auf alle
+
+162
+00:07:43,230 --> 00:07:44,710
+anwenden. Du
+
+163
+00:07:51,520 --> 00:07:52,800
+hast jetzt die wesentlichen
+
+164
+00:07:52,800 --> 00:07:54,060
+Funktionen von PowerPoint
+
+165
+00:07:54,060 --> 00:07:57,660
+kennengelernt. Im nächsten Modul
+
+166
+00:07:57,660 --> 00:07:59,400
+wirst du weitere Funktionen von
+
+167
+00:07:59,400 --> 00:08:02,600
+PowerPoint kennenlernen. Dazu zählt
+
+168
+00:08:02,600 --> 00:08:06,420
+das Verändern der Schrift, das
+
+169
+00:08:06,420 --> 00:08:08,460
+Einfügen und Platzieren von Bildern,
+
+170
+00:08:08,540 --> 00:08:12,960
+das Einfügen von Animationen, die
+
+171
+00:08:12,960 --> 00:08:15,540
+Farbgestaltung von Folien sowie
+
+172
+00:08:15,540 --> 00:08:16,800
+weitere Funktionen.
+
+173
+00:08:20,180 --> 00:08:21,500
+Ich bedanke mich für die
+
+174
+00:08:21,500 --> 00:08:23,400
+Aufmerksamkeit und wünsche dir viel
+
+175
+00:08:23,400 --> 00:08:24,860
+Erfolg beim Erstellen deiner
+
+176
+00:08:24,860 --> 00:08:25,500
+Präsentation.
+

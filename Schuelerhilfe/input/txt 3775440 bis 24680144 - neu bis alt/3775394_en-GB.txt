@@ -1,0 +1,426 @@
+﻿1
+00:00:03,980 --> 00:00:06,120
+Hello, my name is Paula and I 
+
+2
+00:00:06,120 --> 00:00:07,560
+am a tutor 
+
+3
+00:00:07,560 --> 00:00:09,680
+at Schülerhilfe. Today I would like to 
+
+4
+00:00:09,680 --> 00:00:11,440
+explain to you 
+
+5
+00:00:11,440 --> 00:00:12,740
+what carboxylic acid and the 
+
+6
+00:00:12,740 --> 00:00:14,920
+carboxyl group are all about in chemistry. 
+
+7
+00:00:14,920 --> 00:00:16,760
+In our online learning center, you can 
+
+8
+00:00:16,760 --> 00:00:18,320
+of course also find a 
+
+9
+00:00:18,320 --> 00:00:20,420
+wiki on this topic , in which the 
+
+10
+00:00:20,420 --> 00:00:21,980
+basic and important terms 
+
+11
+00:00:21,980 --> 00:00:25,400
+are explained in more detail. Without 
+realizing it 
+
+12
+00:00:25,400 --> 00:00:27,560
+, we encounter carboxylic acids 
+
+13
+00:00:27,560 --> 00:00:29,860
+very often in everyday life, for example 
+in the form 
+
+14
+00:00:29,860 --> 00:00:31,560
+of acetic acid for removing 
+
+15
+00:00:31,560 --> 00:00:34,160
+lime. Or as part of our food. 
+
+16
+00:00:34,440 --> 00:00:36,700
+Fatty acids, lactic acid, citric acid 
+
+17
+00:00:36,700 --> 00:00:40,100
+or malic acid. 
+
+18
+00:00:40,100 --> 00:00:41,640
+
+19
+00:00:41,640 --> 00:00:44,240
+They are also responsible for the 
+unpleasant smell of sweat. Carboxylic 
+acids are 
+
+20
+00:00:44,240 --> 00:00:47,020
+part of organic chemistry. Their 
+
+21
+00:00:47,020 --> 00:00:48,800
+main bodies are therefore made up of 
+
+22
+00:00:48,800 --> 00:00:50,380
+carbon and hydrogen. 
+
+23
+00:00:50,380 --> 00:00:52,760
+When describing the molecules 
+
+24
+00:00:52,760 --> 00:00:54,540
+, familiar 
+
+25
+00:00:54,540 --> 00:00:55,840
+terms such as chain structure, 
+
+26
+00:00:56,080 --> 00:00:57,940
+ring structure, saturated and 
+
+27
+00:00:57,940 --> 00:01:00,020
+unsaturated compounds and 
+
+28
+00:01:00,020 --> 00:01:02,480
+monocarboxylic or tricarboxylic acids are 
+used. But 
+
+29
+00:01:02,480 --> 00:01:04,000
+what exactly distinguishes a 
+
+30
+00:01:04,000 --> 00:01:05,380
+carboxylic acid from pure 
+
+31
+00:01:05,380 --> 00:01:08,580
+hydrocarbons? Carboxylic acids 
+
+32
+00:01:08,580 --> 00:01:10,840
+have at least one carboxyl group. 
+
+33
+00:01:11,440 --> 00:01:13,180
+The carboxyl group is a 
+
+34
+00:01:13,180 --> 00:01:14,680
+functional group with the 
+
+35
+00:01:14,680 --> 00:01:17,800
+molecular formula COOH. 
+
+36
+00:01:17,800 --> 00:01:20,140
+In the nomenclature, the naming 
+
+37
+00:01:20,140 --> 00:01:21,680
+is based on the respective 
+
+38
+00:01:21,680 --> 00:01:23,440
+hydrocarbon on which the 
+
+39
+00:01:23,440 --> 00:01:26,280
+carboxylic acid is based. Accordingly, 
+
+40
+00:01:26,280 --> 00:01:30,060
+methane becomes methanoic acid, propene 
+
+41
+00:01:30,060 --> 00:01:33,100
+becomes propanoic acid and butyne becomes 
+
+42
+00:01:33,100 --> 00:01:35,900
+butyric acid. The structure of the 
+
+43
+00:01:35,900 --> 00:01:37,760
+carboxyl group has a 
+
+44
+00:01:37,760 --> 00:01:39,300
+
+45
+00:01:39,300 --> 00:01:41,360
+considerable influence on the chemical 
+properties of the carboxylic acid. 
+
+46
+00:01:41,360 --> 00:01:43,040
+To illustrate this, let's take a look at a 
+
+47
+00:01:43,040 --> 00:01:45,200
+comparison between propane, propanol 
+
+48
+00:01:45,200 --> 00:01:47,880
+and propanoic acid. Propane and 
+
+49
+00:01:47,880 --> 00:01:49,440
+propanol differ in their 
+
+50
+00:01:49,440 --> 00:01:51,340
+structure by an additional 
+
+51
+00:01:51,340 --> 00:01:53,200
+oxygen atom due to the 
+
+52
+00:01:53,200 --> 00:01:54,800
+hydroxyl group of the alcohol. 
+
+53
+00:01:55,860 --> 00:01:57,540
+Propanoic acid has another 
+
+54
+00:01:57,540 --> 00:01:59,720
+additional oxygen atom, 
+
+55
+00:01:59,720 --> 00:02:02,660
+but loses two hydrogen atoms. 
+
+56
+00:02:02,660 --> 00:02:04,200
+This results in 
+
+57
+00:02:04,200 --> 00:02:06,640
+differences in molecular weight of 16 
+grams per mole and 
+
+58
+00:02:06,640 --> 00:02:09,320
+14 grams per mole. The molar masses 
+
+59
+00:02:09,320 --> 00:02:10,280
+are therefore quite close 
+
+60
+00:02:10,280 --> 00:02:12,720
+to each other. 
+
+61
+00:02:12,720 --> 00:02:15,540
+There are greater differences in the 
+melting point. For example, 
+
+62
+00:02:15,540 --> 00:02:17,400
+the melting point 
+
+63
+00:02:17,400 --> 00:02:21,780
+increases by 62°C from propane to 
+propanol. From propanol to 
+
+64
+00:02:21,780 --> 00:02:24,040
+propanoic acid, the increase is as high as 
+
+65
+00:02:24,040 --> 00:02:27,740
+105°C. At the boiling point, there is 
+
+66
+00:02:27,740 --> 00:02:31,460
+first a jump of 139°C and then 
+
+67
+00:02:31,460 --> 00:02:35,340
+a small step of 44.2°C. 
+
+68
+00:02:35,340 --> 00:02:37,040
+The reason for these large differences 
+
+69
+00:02:37,040 --> 00:02:38,840
+compared to propane is the 
+
+70
+00:02:38,840 --> 00:02:40,620
+possibility of 
+
+71
+00:02:40,620 --> 00:02:42,360
+
+72
+00:02:42,360 --> 00:02:43,520
+
+73
+00:02:43,520 --> 00:02:46,260
+forming intermolecular hydrogen bonds due 
+to the functional groups. Finally, a 
+
+74
+00:02:46,260 --> 00:02:49,480
+comparison of the PKS values. The PKS 
+value 
+
+75
+00:02:49,480 --> 00:02:51,000
+is the negative decadic 
+
+76
+00:02:51,000 --> 00:02:53,780
+logarithm of the acid constant. 
+
+77
+00:02:53,780 --> 00:02:55,520
+Therefore, the lower the value, 
+
+78
+00:02:55,640 --> 00:02:58,260
+the stronger the acid. In words, 
+
+79
+00:02:58,260 --> 00:03:00,180
+the figures mean that propanoic acid 
+
+80
+00:03:00,180 --> 00:03:02,240
+
+81
+00:03:02,240 --> 00:03:05,340
+is at least categorized as a 
+medium-strength acid . The reason for this 
+is 
+
+82
+00:03:05,400 --> 00:03:06,760
+that, thanks to the oxygen 
+
+83
+00:03:06,760 --> 00:03:08,420
+ double bond, the formation of electrons 
+
+84
+00:03:08,420 --> 00:03:10,920
+in the hydroxyl group is polarized and 
+
+85
+00:03:10,920 --> 00:03:12,500
+the proton can dissolve more easily. 
+
+86
+00:03:13,300 --> 00:03:14,940
+Let me summarize the most important points 
+for you 
+
+87
+00:03:14,940 --> 00:03:17,640
+once again. Carboxylic acids 
+
+88
+00:03:17,640 --> 00:03:19,280
+are hydrocarbons with 
+
+89
+00:03:19,280 --> 00:03:22,260
+at least one carboxyl group. The 
+
+90
+00:03:22,260 --> 00:03:24,220
+name is based on the 
+
+91
+00:03:24,220 --> 00:03:25,600
+corresponding hydrocarbon. 
+
+92
+00:03:26,580 --> 00:03:28,860
+Due to the carboxyl group, carboxylic 
+
+93
+00:03:28,860 --> 00:03:30,560
+acids have higher melting and 
+
+94
+00:03:30,560 --> 00:03:32,220
+boiling points than comparable 
+
+95
+00:03:32,220 --> 00:03:34,900
+molecules as well as a higher acidity. 
+
+96
+00:03:35,880 --> 00:03:37,360
+I hope I 
+
+97
+00:03:37,360 --> 00:03:39,060
+have been able to help you 
+
+98
+00:03:39,060 --> 00:03:40,760
+better understand carboxylic acids and the 
+carboxyl group. 
+
+99
+00:03:41,260 --> 00:03:43,080
+If you have any further questions on this 
+or 
+
+100
+00:03:43,080 --> 00:03:44,820
+other topics, please feel free to use 
+
+101
+00:03:44,820 --> 00:03:47,140
+our other learning content in the online 
+
+102
+00:03:47,140 --> 00:03:49,160
+ learning center or contact your 
+
+103
+00:03:49,160 --> 00:03:51,060
+local student help center. See you 
+
+104
+00:03:51,060 --> 00:03:51,520
+next time! 

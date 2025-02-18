@@ -1,0 +1,456 @@
+1
+00:00:00,370 --> 00:00:02,050
+Hallo und herzlich willkommen zu den
+
+2
+00:00:02,050 --> 00:00:03,910
+Lernvideos der Schülerhilfe. In
+
+3
+00:00:03,910 --> 00:00:05,110
+diesem Video geht es um das Thema
+
+4
+00:00:05,110 --> 00:00:07,770
+Partikipium Konjunktum. Wir schauen
+
+5
+00:00:07,770 --> 00:00:10,030
+uns in diesem Video das Partizip
+
+6
+00:00:10,030 --> 00:00:13,930
+Präsens Aktiv oder kurz PPA und das
+
+7
+00:00:13,930 --> 00:00:17,310
+Partizip Perfekt Passiv, kurz PPP,
+
+8
+00:00:17,490 --> 00:00:20,350
+an. Diese sind beide Bestandteil
+
+9
+00:00:20,350 --> 00:00:22,690
+einer Partizipalkonstruktion und
+
+10
+00:00:22,690 --> 00:00:24,530
+somit auch einer satzwertigen
+
+11
+00:00:24,530 --> 00:00:25,510
+Konstruktion.
+
+12
+00:00:27,800 --> 00:00:29,890
+Das Partizip hat immer ein
+
+13
+00:00:29,890 --> 00:00:33,290
+Bezugswort. das in KNG-Kongruenz
+
+14
+00:00:33,290 --> 00:00:36,470
+steht. KNG-Kongruenz bedeutet, dass
+
+15
+00:00:36,470 --> 00:00:39,730
+Kasus, also der Fall, Numerus, die
+
+16
+00:00:39,730 --> 00:00:43,550
+Anzahl und Genus, das Geschlecht, zum
+
+17
+00:00:43,550 --> 00:00:46,710
+Bezugswort übereinstimmen. Das
+
+18
+00:00:46,710 --> 00:00:49,190
+Bezugswort ist dann das Subjekt des
+
+19
+00:00:49,190 --> 00:00:51,730
+Partizip. Schauen wir uns dazu ein
+
+20
+00:00:51,730 --> 00:00:54,230
+Beispiel an. Puella per silvam
+
+21
+00:00:54,230 --> 00:00:56,650
+ambulans, ein durch den Wald
+
+22
+00:00:56,650 --> 00:00:59,190
+spazierendes Mädchen. Hier siehst du
+
+23
+00:00:59,190 --> 00:01:00,670
+in orange ein... eingefärbt, das
+
+24
+00:01:00,670 --> 00:01:04,010
+Partizip und das Bezugswort ist jetzt
+
+25
+00:01:04,010 --> 00:01:06,590
+das Subjekt des Partizips, Puella.
+
+26
+00:01:07,830 --> 00:01:12,070
+Ambulanz bezieht sich auf Puella. Ein
+
+27
+00:01:12,070 --> 00:01:14,050
+durch den Wald spazierendes Mädchen
+
+28
+00:01:14,050 --> 00:01:16,010
+ist dann die wörtliche Übersetzung.
+
+29
+00:01:16,170 --> 00:01:18,290
+Man kann das auch anders übersetzen,
+
+30
+00:01:18,370 --> 00:01:21,030
+hier die Übersetzung als Relativsatz.
+
+31
+00:01:21,210 --> 00:01:23,230
+Ein Mädchen, das durch den Wald
+
+32
+00:01:23,230 --> 00:01:25,710
+spaziert. Es gibt noch weitere
+
+33
+00:01:25,710 --> 00:01:27,570
+Übersetzungsmöglichkeiten, die du dir
+
+34
+00:01:27,570 --> 00:01:29,370
+gerne in einem extra Video anschauen
+
+35
+00:01:29,370 --> 00:01:33,370
+kannst. Das Partizip wird oft durch
+
+36
+00:01:33,370 --> 00:01:35,370
+andere Satzglieder erweitert, zum
+
+37
+00:01:35,370 --> 00:01:37,970
+Beispiel durch Objekte. Dann bildet
+
+38
+00:01:37,970 --> 00:01:40,310
+es einen Rahmen um die Erweiterung.
+
+39
+00:01:40,430 --> 00:01:41,650
+Das siehst du auch gut an diesem
+
+40
+00:01:41,650 --> 00:01:44,170
+Beispiel hier. Vulpis a poella
+
+41
+00:01:44,170 --> 00:01:46,770
+terita. Unser Partizip ist wieder
+
+42
+00:01:46,770 --> 00:01:49,410
+orange eingefärbt und bezieht sich
+
+43
+00:01:49,410 --> 00:01:52,410
+auf sein Bezugswort. In diesem Fall
+
+44
+00:01:52,410 --> 00:01:55,650
+ist das Vulpis, ein von den Mädchen
+
+45
+00:01:55,650 --> 00:01:58,110
+erschreckter Fuchs. In der Mitte
+
+46
+00:01:58,110 --> 00:01:59,710
+siehst du jetzt die Erweiterung a
+
+47
+00:01:59,710 --> 00:02:02,030
+poella und diese wird von dem
+
+48
+00:02:02,030 --> 00:02:05,510
+Partizip eingerahmt. Auch das kannst
+
+49
+00:02:05,510 --> 00:02:07,410
+du wieder als Relativsatz übersetzen.
+
+50
+00:02:07,450 --> 00:02:09,570
+Ein Fuchs, der von dem Mädchen
+
+51
+00:02:09,570 --> 00:02:13,230
+erschreckt worden ist. Schauen wir
+
+52
+00:02:13,230 --> 00:02:15,450
+uns als nächstes das Zeitverhältnis
+
+53
+00:02:15,450 --> 00:02:17,730
+an. Das bedeutet, in welchem
+
+54
+00:02:17,730 --> 00:02:20,390
+Zeitverhältnis steht das Partizip zu
+
+55
+00:02:20,390 --> 00:02:23,150
+der Handlung, die übergeordnet ist,
+
+56
+00:02:23,230 --> 00:02:25,390
+also im übergeordneten Satz steht.
+
+57
+00:02:25,690 --> 00:02:29,090
+Bei dem PPA, da ist das gleichzeitig
+
+58
+00:02:29,090 --> 00:02:34,110
+und bei dem PPP vorzeitig. Schauen
+
+59
+00:02:34,110 --> 00:02:36,130
+wir uns dazu wieder unsere Beispiele
+
+60
+00:02:36,130 --> 00:02:38,990
+von eben an, diesmal als ganzen Satz
+
+61
+00:02:38,990 --> 00:02:41,870
+aufgeschrieben. Puella per silvam
+
+62
+00:02:41,870 --> 00:02:45,610
+ambulans vulpem videt. Ein Mädchen,
+
+63
+00:02:45,610 --> 00:02:47,730
+das durch den Wald spaziert, sieht
+
+64
+00:02:47,730 --> 00:02:50,550
+einen Fuchs. Hier siehst du jetzt die
+
+65
+00:02:50,550 --> 00:02:53,730
+Gleichzeitigkeit. Wenn wir hier widet
+
+66
+00:02:53,730 --> 00:02:57,810
+nehmen als Prädikat hinten, das
+
+67
+00:02:57,810 --> 00:03:01,390
+bedeutet sieht, dann muss auch das
+
+68
+00:03:01,390 --> 00:03:03,230
+Partizip in der gleichen Zeit
+
+69
+00:03:03,230 --> 00:03:07,190
+übersetzt werden, spaziert. Denn es
+
+70
+00:03:07,190 --> 00:03:10,430
+handelt sich hier um ein PPA. Wenn
+
+71
+00:03:10,430 --> 00:03:13,130
+wir die Vergangenheitsform haben im
+
+72
+00:03:13,130 --> 00:03:16,910
+übergeordneten Satz, widet, dann sah
+
+73
+00:03:16,910 --> 00:03:20,510
+und spazierte. Wichtig ist, dass die
+
+74
+00:03:20,510 --> 00:03:22,090
+beiden Handlungen immer gleichzeitig
+
+75
+00:03:22,090 --> 00:03:22,830
+erfolgen.
+
+76
+00:03:25,290 --> 00:03:28,370
+Anders ist das beim PPP, da ist die
+
+77
+00:03:28,370 --> 00:03:30,650
+Vorzeitigkeit. Wieder hier der
+
+78
+00:03:30,650 --> 00:03:32,170
+Beispielsatz, den wir auch eben schon
+
+79
+00:03:32,170 --> 00:03:34,390
+kennengelernt haben, erweitert als
+
+80
+00:03:34,390 --> 00:03:37,670
+ganzer Satz, vulpes a poella terita
+
+81
+00:03:37,670 --> 00:03:40,490
+fugit. Der Fuchs, der durch das
+
+82
+00:03:40,490 --> 00:03:41,950
+Mädchen erschreckt worden ist,
+
+83
+00:03:42,070 --> 00:03:48,530
+flieht. Hier hinten dann müssen wir
+
+84
+00:03:48,530 --> 00:03:50,850
+darauf achten, dass das Partizip eine
+
+85
+00:03:50,850 --> 00:03:53,650
+Zeitstufe vorher übersetzt wird und
+
+86
+00:03:53,650 --> 00:03:56,550
+dann ist das erschreckt worden ist.
+
+87
+00:03:58,460 --> 00:04:02,640
+Wenn wir hinten Fugit hätten, also
+
+88
+00:04:02,640 --> 00:04:05,600
+Flo, dann müssten wir das auch in der
+
+89
+00:04:05,600 --> 00:04:07,240
+Übersetzung des Partizips
+
+90
+00:04:07,240 --> 00:04:10,180
+berücksichtigen und erschreckt worden
+
+91
+00:04:10,180 --> 00:04:13,700
+war übersetzen. Um das Ganze noch
+
+92
+00:04:13,700 --> 00:04:15,800
+einmal zusammenzufassen. In diesem
+
+93
+00:04:15,800 --> 00:04:17,060
+Video ging es um das Thema
+
+94
+00:04:17,060 --> 00:04:20,440
+Partikipium Conjunctum. Das bedeutet
+
+95
+00:04:20,440 --> 00:04:23,280
+auch verbundenes Partizip, da die
+
+96
+00:04:23,280 --> 00:04:25,700
+Handlung mit dem Prädikat des Satzes
+
+97
+00:04:25,700 --> 00:04:28,480
+verbunden ist und so das Bezugswort,
+
+98
+00:04:28,580 --> 00:04:31,060
+also das Subjekt des Partizips, auch
+
+99
+00:04:31,060 --> 00:04:33,360
+gleichzeitig im übergeordneten Satz
+
+100
+00:04:33,360 --> 00:04:36,620
+steht. Da ist wichtig, dass eine KNG
+
+101
+00:04:36,620 --> 00:04:38,960
+-Kongruenz zum Bezugswort besteht.
+
+102
+00:04:39,380 --> 00:04:41,840
+Das bedeutet, dass beide angeglichen
+
+103
+00:04:41,840 --> 00:04:45,420
+werden. In der Regel wird dann das
+
+104
+00:04:45,420 --> 00:04:47,580
+Partizip noch erweitert, zum Beispiel
+
+105
+00:04:47,580 --> 00:04:49,720
+durch Objekte oder adverbiale
+
+106
+00:04:49,720 --> 00:04:51,860
+Bestimmung und bildet dann einen
+
+107
+00:04:51,860 --> 00:04:54,820
+Rahmen um diese Erweiterung, also die
+
+108
+00:04:54,820 --> 00:04:58,730
+Rahmenstellung. Wichtig ist dann auch
+
+109
+00:04:58,730 --> 00:05:01,990
+das Zeitverhältnis, gleichzeitig beim
+
+110
+00:05:01,990 --> 00:05:06,610
+PPA und vorzeitig beim PPP, das in
+
+111
+00:05:06,610 --> 00:05:08,550
+der Übersetzung mit beachtet werden
+
+112
+00:05:08,550 --> 00:05:11,230
+muss. Ich bedanke mich für deine
+
+113
+00:05:11,230 --> 00:05:13,490
+Aufmerksamkeit. Tschüss, bis zum
+
+114
+00:05:13,490 --> 00:05:14,050
+nächsten Mal.
+

@@ -1,0 +1,55 @@
+﻿1
+00:00:00,000 --> 00:00:03,080
+Hello, Dr. Smith. Hello, Josie. How 
+
+2
+00:00:03,080 --> 00:00:04,400
+can I help you? I feel 
+
+3
+00:00:04,400 --> 00:00:06,920
+sick. Okay, let's see. Are you in 
+
+4
+00:00:06,920 --> 00:00:09,320
+pain? Yes, my comfort is 
+
+5
+00:00:09,320 --> 00:00:10,400
+painful and I have a 
+
+6
+00:00:10,400 --> 00:00:12,840
+bad case. Do you have a 
+
+7
+00:00:12,840 --> 00:00:15,000
+pain? Yes, I have one. How long have 
+
+8
+00:00:15,000 --> 00:00:17,520
+you had all these symptoms? I 
+
+9
+00:00:17,520 --> 00:00:19,900
+think it's been two days. It sounds 
+
+10
+00:00:20,100 --> 00:00:22,120
+like you have the flu. All you need 
+
+11
+00:00:22,120 --> 00:00:23,780
+is to get plenty of rest. 
+
+12
+00:00:29,000 --> 00:00:31,300
+If you're still a few days old, 
+
+13
+00:00:31,300 --> 00:00:32,540
+you can call me. Thank you. 
+
+14
+00:00:33,040 --> 00:00:34,140
+Bye. Bye. 

@@ -1,0 +1,2204 @@
+﻿1
+00:00:20,910 --> 00:00:23,050
+So, let's get started. I 
+
+2
+00:00:23,050 --> 00:00:25,990
+am Serena. If you have any questions, 
+
+3
+00:00:26,090 --> 00:00:27,150
+please feel free to ask them 
+
+4
+00:00:27,150 --> 00:00:29,030
+during the webinar or 
+
+5
+00:00:29,030 --> 00:00:33,050
+at the end. Please ask anything you 
+
+6
+00:00:33,050 --> 00:00:36,450
+can, anything you have 
+
+7
+00:00:36,450 --> 00:00:37,350
+doubts about, anything you don't quite 
+
+8
+00:00:37,350 --> 00:00:39,110
+understand. It is very 
+
+9
+00:00:39,110 --> 00:00:40,430
+important to me that we 
+
+10
+00:00:40,430 --> 00:00:41,870
+leave here at the end and that you 
+
+11
+00:00:41,870 --> 00:00:44,130
+have understood the topic. And that's 
+exactly what 
+
+12
+00:00:44,130 --> 00:00:45,710
+we're going to do now. Today, 
+
+13
+00:00:45,710 --> 00:00:47,590
+as I said, we're going to talk about 
+bodies. 
+
+14
+00:00:48,490 --> 00:00:50,410
+And then let's get started. 
+
+15
+00:00:50,410 --> 00:00:53,230
+First of all, we'll discuss the 
+
+16
+00:00:53,230 --> 00:00:57,470
+units for calculating solids, then 
+
+17
+00:00:57,470 --> 00:01:00,510
+cubes, cuboids, general 
+
+18
+00:01:00,510 --> 00:01:03,070
+prisms, cylinders and, last but not least, 
+we'll 
+
+19
+00:01:03,070 --> 00:01:03,730
+
+20
+00:01:03,730 --> 00:01:04,830
+give you some examples. 
+
+21
+00:01:08,020 --> 00:01:10,620
+So, the very first topic we will discuss 
+
+22
+00:01:10,620 --> 00:01:12,080
+is the units of 
+
+23
+00:01:12,080 --> 00:01:13,220
+solid calculation. 
+
+24
+00:01:15,640 --> 00:01:18,600
+So, lengths of edges have simple 
+
+25
+00:01:18,600 --> 00:01:20,180
+units of length, for example 
+
+26
+00:01:20,180 --> 00:01:22,060
+centimetres or meters. So there 
+
+27
+00:01:22,060 --> 00:01:24,300
+is no square, no height 2, 
+
+28
+00:01:24,520 --> 00:01:25,880
+no height 3 or anything else. 
+
+29
+00:01:27,160 --> 00:01:30,520
+Exactly, when it comes to areas, 
+
+30
+00:01:30,740 --> 00:01:34,800
+they are calculated from a 
+
+31
+00:01:34,800 --> 00:01:36,880
+product of two lengths. So that means 
+
+32
+00:01:36,940 --> 00:01:39,780
+you have a length here and 
+
+33
+00:01:39,780 --> 00:01:42,620
+then a length here and then 
+
+34
+00:01:42,620 --> 00:01:44,780
+that becomes an area. 
+
+35
+00:01:44,780 --> 00:01:47,340
+This means that there is then a 
+
+36
+00:01:47,340 --> 00:01:50,580
+square length, i.e. meters to the power of 
+2 
+
+37
+00:01:50,580 --> 00:01:53,480
+or centimeters to the power of 2, because 
+you 
+
+38
+00:01:53,480 --> 00:01:55,520
+then multiply meters by 
+
+39
+00:01:55,520 --> 00:01:57,700
+meters and then it becomes 
+
+40
+00:01:57,700 --> 00:02:00,500
+meters to the power of 2 or centimeters 
+times 
+
+41
+00:02:00,500 --> 00:02:02,040
+centimeters and that becomes 
+
+42
+00:02:02,040 --> 00:02:04,660
+centimeters to the power of 2. Very, very 
+
+43
+00:02:04,660 --> 00:02:08,500
+important. So for normal lengths 
+
+44
+00:02:08,500 --> 00:02:11,580
+, the centimetre is quite normal without a 
+
+45
+00:02:11,580 --> 00:02:13,820
+superscript and for areas it is then 
+
+46
+00:02:13,820 --> 00:02:17,020
+to the power of 2. So, then it's also 
+about 
+
+47
+00:02:17,020 --> 00:02:20,320
+volume. Volumes are calculated 
+
+48
+00:02:20,320 --> 00:02:22,340
+from the product of three lengths and 
+
+49
+00:02:22,340 --> 00:02:24,820
+have length units to the power of 3. So 
+
+50
+00:02:24,820 --> 00:02:26,240
+now we no longer have one or 
+
+51
+00:02:26,240 --> 00:02:27,460
+even just two lengths, but we 
+
+52
+00:02:27,460 --> 00:02:31,520
+have three lengths. One is the width, 
+
+53
+00:02:31,580 --> 00:02:33,980
+one is the length and one is the height. 
+
+54
+00:02:34,300 --> 00:02:35,820
+This means that it then becomes 
+
+55
+00:02:35,820 --> 00:02:39,460
+a space , so to speak, and because 
+
+56
+00:02:39,460 --> 00:02:41,620
+we 
+
+57
+00:02:41,620 --> 00:02:43,240
+
+58
+00:02:43,240 --> 00:02:46,060
+multiply centimetres by centimetres by 
+centimetres, i.e. three times , it then 
+becomes 3 to the power of 3, 
+
+59
+00:02:46,180 --> 00:02:48,220
+i.e. centimetres to the power of 3 or 
+
+60
+00:02:48,220 --> 00:02:50,340
+meters to the power of 3. We repeat 
+
+61
+00:02:50,340 --> 00:02:53,140
+again. A length, a completely 
+
+62
+00:02:53,140 --> 00:02:56,100
+normal length, has no superscript, 
+
+63
+00:02:56,120 --> 00:02:57,620
+so it is simply centimeters. An 
+
+64
+00:02:57,620 --> 00:03:01,260
+area that results from two lengths 
+
+65
+00:03:01,260 --> 00:03:04,040
+is to the power of 2, for 
+
+66
+00:03:04,040 --> 00:03:05,580
+example square meters or 
+
+67
+00:03:05,580 --> 00:03:09,180
+square centimeters. And then there is a 
+
+68
+00:03:09,180 --> 00:03:12,560
+volume 
+
+69
+00:03:12,660 --> 00:03:15,420
+that results from three lengths, which 
+
+70
+00:03:15,420 --> 00:03:18,940
+is then called cubic centimeters 
+
+71
+00:03:18,940 --> 00:03:22,300
+or cubic meters. So, 
+
+72
+00:03:22,300 --> 00:03:25,420
+let's move on. Right, 
+
+73
+00:03:25,560 --> 00:03:27,700
+now let's talk about cubes. 
+
+74
+00:03:27,700 --> 00:03:29,320
+The properties of a cube 
+
+75
+00:03:29,520 --> 00:03:31,600
+are that we 
+
+76
+00:03:31,600 --> 00:03:35,820
+have six boundary faces. This means that 
+all the 
+
+77
+00:03:35,820 --> 00:03:38,260
+squares have the same edge lengths 
+
+78
+00:03:38,260 --> 00:03:42,000
+. Exactly. And what is also very 
+
+79
+00:03:42,000 --> 00:03:44,340
+important is that all the corners of the 
+cube 
+
+80
+00:03:44,340 --> 00:03:48,300
+are right angles. 
+
+81
+00:03:48,300 --> 00:03:50,280
+In other words, I can briefly 
+
+82
+00:03:50,280 --> 00:03:54,100
+draw in the fact that we 
+
+83
+00:03:54,100 --> 00:03:59,400
+have right angles everywhere. 
+
+84
+00:03:59,400 --> 00:04:00,040
+That 
+
+85
+00:04:04,360 --> 00:04:05,460
+'s very important, because 
+
+86
+00:04:08,730 --> 00:04:13,290
+because all the lengths 
+
+87
+00:04:13,290 --> 00:04:16,410
+are the same, you have 
+
+88
+00:04:16,410 --> 00:04:21,170
+90 degree angles everywhere. Exactly. Like 
+this. 
+
+89
+00:04:22,450 --> 00:04:24,290
+Exactly. We already have that here 
+
+90
+00:04:24,290 --> 00:04:26,870
+. So, for example, if you 
+
+91
+00:04:26,870 --> 00:04:29,870
+want to calculate the surface area, 
+
+92
+00:04:29,870 --> 00:04:32,290
+you would do a to the power of 2 
+
+93
+00:04:32,290 --> 00:04:34,410
+plus a to the power of 2 plus a to the 
+power of 2 plus a 
+
+94
+00:04:34,410 --> 00:04:36,390
+to the power of 2. Plus a to the power of 
+2, 
+
+95
+00:04:36,570 --> 00:04:40,130
+so 6 times a to the power of 2 and that's 
+
+96
+00:04:40,130 --> 00:04:44,690
+6a to the power of 2 at the end. Now the 
+
+97
+00:04:44,690 --> 00:04:48,010
+surface area of a cube. There 
+
+98
+00:04:48,010 --> 00:04:49,870
+are three squares 
+
+99
+00:04:49,870 --> 00:04:51,410
+that all 
+
+100
+00:04:51,410 --> 00:04:57,180
+have the same surface area. That's 
+obvious, because they're 
+
+101
+00:04:57,180 --> 00:04:59,580
+all the same size, they all have the 
+
+102
+00:04:59,580 --> 00:05:02,380
+same edge length and they 
+
+103
+00:05:02,380 --> 00:05:06,560
+all have the same angles, in this case 
+
+104
+00:05:06,560 --> 00:05:09,820
+right angles , so 
+
+105
+00:05:09,820 --> 00:05:10,980
+it's also clear that the 
+
+106
+00:05:10,980 --> 00:05:14,280
+surface area, i.e. the 
+
+107
+00:05:14,280 --> 00:05:16,800
+surface area of the six squares, 
+
+108
+00:05:16,800 --> 00:05:19,800
+excuse me , 
+
+109
+00:05:19,800 --> 00:05:25,130
+has the same value. And then, of course, 
+there 
+
+110
+00:05:25,130 --> 00:05:27,670
+is the volume of the cube, because it 
+
+111
+00:05:27,670 --> 00:05:29,830
+is a solid, which means that it goes 
+
+112
+00:05:29,830 --> 00:05:33,890
+into every plane, so it has 
+
+113
+00:05:33,890 --> 00:05:36,950
+a width, a length and also a 
+
+114
+00:05:36,950 --> 00:05:42,330
+height, and this is how you calculate 
+
+115
+00:05:42,330 --> 00:05:44,390
+the volume. This is the 
+
+116
+00:05:44,390 --> 00:05:47,750
+product of all the side lengths. So, 
+
+117
+00:05:47,750 --> 00:05:52,690
+for example, A 
+
+118
+00:05:52,690 --> 00:05:56,790
+times A times A equals A to the power of 3 
+and 
+
+119
+00:05:56,790 --> 00:05:58,950
+that is our volume. 
+
+120
+00:05:58,950 --> 00:06:03,030
+In other words, we calculate once, 
+
+121
+00:06:04,660 --> 00:06:09,180
+we take this a, this a and this a 
+
+122
+00:06:09,180 --> 00:06:11,300
+and multiply them together, 
+
+123
+00:06:11,520 --> 00:06:16,020
+i.e. 3 times a and that results in 
+
+124
+00:06:16,080 --> 00:06:20,280
+a times a times a times a, which results 
+in a 
+
+125
+00:06:20,280 --> 00:06:24,240
+to the power of 3. Very importantly, we 
+can 
+
+126
+00:06:24,240 --> 00:06:27,200
+now also see that the volume 
+
+127
+00:06:27,200 --> 00:06:28,240
+naturally uses the power of 3 
+
+128
+00:06:28,240 --> 00:06:30,560
+and that this then becomes, for example, 
+
+129
+00:06:30,560 --> 00:06:31,520
+a unit of 
+
+130
+00:06:31,520 --> 00:06:34,400
+cubic centimetres or cubic meters 
+
+131
+00:06:34,400 --> 00:06:38,540
+. Exactly. So, now we 
+
+132
+00:06:38,540 --> 00:06:42,420
+continue. Now we'll talk about the 
+
+133
+00:06:42,420 --> 00:06:45,620
+cuboid. The cuboid is another 
+
+134
+00:06:45,620 --> 00:06:47,640
+solid. Its 
+
+135
+00:06:47,640 --> 00:06:49,820
+properties are that the 
+
+136
+00:06:49,820 --> 00:06:51,160
+hexagons are the 
+
+137
+00:06:51,160 --> 00:06:54,700
+boundary surfaces, 
+
+138
+00:06:54,700 --> 00:06:58,420
+two of which are equal. All the 
+
+139
+00:06:58,420 --> 00:07:02,100
+corners of the cuboid are right angles, 
+which 
+
+140
+00:07:02,100 --> 00:07:04,960
+is also very important. So again, we 
+
+141
+00:07:04,960 --> 00:07:06,720
+have six rectangles as 
+
+142
+00:07:06,720 --> 00:07:09,480
+boundary faces 
+
+143
+00:07:09,480 --> 00:07:12,020
+, two of which are equal and all the 
+
+144
+00:07:12,020 --> 00:07:14,800
+corners of the cuboid are right angles. 
+
+145
+00:07:16,400 --> 00:07:18,960
+So, then the surface area of the 
+
+146
+00:07:18,960 --> 00:07:20,840
+cuboid. It's very important to 
+
+147
+00:07:20,840 --> 00:07:23,600
+mention that we have six 
+
+148
+00:07:23,600 --> 00:07:25,860
+rectangles 
+
+149
+00:07:25,860 --> 00:07:28,800
+, two of which have the 
+
+150
+00:07:28,800 --> 00:07:31,280
+same surface area. So, for 
+
+151
+00:07:31,280 --> 00:07:32,560
+example, here you can see 
+
+152
+00:07:32,560 --> 00:07:33,680
+the example of how you 
+
+153
+00:07:33,680 --> 00:07:36,860
+would calculate this. So A, large A, that 
+
+154
+00:07:36,860 --> 00:07:38,600
+means that the area is 
+
+155
+00:07:38,600 --> 00:07:43,040
+equal to A times B plus A times C plus B 
+
+156
+00:07:43,040 --> 00:07:47,300
+times A plus B times C plus C times A plus 
+
+157
+00:07:47,300 --> 00:07:51,780
+C times B. equal to 2ab plus 2ac plus 
+
+158
+00:07:51,780 --> 00:07:58,980
+2bc . So we simply calculate the 
+
+159
+00:07:58,980 --> 00:08:01,460
+different areas, i.e. the 
+
+160
+00:08:01,460 --> 00:08:05,840
+different lengths 
+
+161
+00:08:05,840 --> 00:08:08,500
+together. For example, we 
+
+162
+00:08:08,500 --> 00:08:11,820
+now have 6 rectangles 
+
+163
+00:08:11,820 --> 00:08:15,700
+here, for example here. Once we have 
+
+164
+00:08:15,700 --> 00:08:17,220
+9 here, 
+
+165
+00:08:22,410 --> 00:08:27,130
+let's do it again. 
+
+166
+00:08:27,130 --> 00:08:29,170
+We have a rectangle here, for example. 
+
+167
+00:08:30,160 --> 00:08:31,710
+Here is a rectangle. 
+
+168
+00:08:35,600 --> 00:08:36,260
+Here. 
+
+169
+00:08:39,900 --> 00:08:41,420
+So we have six rectangles 
+
+170
+00:08:41,420 --> 00:08:44,100
+in total. And then we 
+
+171
+00:08:44,160 --> 00:08:47,740
+multiply all the sides 
+
+172
+00:08:47,740 --> 00:08:50,180
+by all the other sides. So, for 
+
+173
+00:08:50,180 --> 00:08:54,000
+example, here you can see A times B times 
+
+174
+00:08:55,280 --> 00:09:00,320
+C. And then here B times A. B times C. C 
+
+175
+00:09:00,320 --> 00:09:03,820
+times A. c times b. 
+
+176
+00:09:05,900 --> 00:09:09,500
+Like this. So you can see that you 
+
+177
+00:09:09,500 --> 00:09:11,380
+always 
+
+178
+00:09:11,380 --> 00:09:13,180
+start with a , for example, then 
+
+179
+00:09:13,180 --> 00:09:15,620
+multiply everything together , then start 
+with b and 
+
+180
+00:09:15,620 --> 00:09:17,140
+then start with c. That's very 
+
+181
+00:09:17,140 --> 00:09:18,560
+important. And then we arrive at 
+
+182
+00:09:18,560 --> 00:09:21,460
+the result 2ab plus 
+
+183
+00:09:21,460 --> 00:09:26,920
+2ac plus 2bc. So, the volume of the 
+
+184
+00:09:26,920 --> 00:09:30,520
+cuboid. Exactly, so. The volume of the 
+
+185
+00:09:30,520 --> 00:09:31,760
+cuboid. A cuboid, as we 
+
+186
+00:09:31,760 --> 00:09:33,840
+discussed earlier, is the 
+
+187
+00:09:33,840 --> 00:09:35,500
+product of all the side lengths. So 
+
+188
+00:09:35,500 --> 00:09:37,020
+once the width, once the height 
+
+189
+00:09:37,020 --> 00:09:39,440
+and once the length. So in this 
+
+190
+00:09:39,440 --> 00:09:42,500
+case, we would simply 
+
+191
+00:09:42,500 --> 00:09:45,180
+calculate A times B times C and that gives 
+us 
+
+192
+00:09:45,180 --> 00:09:50,480
+the volume of the cuboid. 
+
+193
+00:09:51,360 --> 00:09:53,660
+So for example, we could now 
+
+194
+00:09:53,660 --> 00:09:57,340
+equal V here, now we have 
+
+195
+00:09:57,340 --> 00:09:59,200
+different lengths, for example 
+
+196
+00:09:59,200 --> 00:10:04,440
+A is now equal to 2, B is equal to 3 
+
+197
+00:10:04,440 --> 00:10:11,390
+and C is equal to 4. So then 
+
+198
+00:10:11,390 --> 00:10:13,710
+we would first calculate 2 times 3, 
+
+199
+00:10:13,710 --> 00:10:15,790
+which is of course 6 and then another 
+
+200
+00:10:15,790 --> 00:10:19,790
+4 is then 24. So we know that 
+
+201
+00:10:19,790 --> 00:10:26,790
+our volume is 24 and then 
+
+202
+00:10:26,790 --> 00:10:29,930
+of course it would be 24 cubic. or 24 
+
+203
+00:10:29,930 --> 00:10:35,910
+cubic meters. Exactly, like that. 
+
+204
+00:10:35,910 --> 00:10:38,070
+Let's move on to the next one, which is 
+the 
+
+205
+00:10:38,070 --> 00:10:40,250
+prism. The prism has the 
+
+206
+00:10:40,250 --> 00:10:45,070
+properties that the body 
+
+207
+00:10:45,070 --> 00:10:46,490
+
+208
+00:10:46,490 --> 00:10:48,830
+has the same base and top surface , so 
+it's a body with 
+
+209
+00:10:48,830 --> 00:10:52,990
+the same base and top surface. Then 
+
+210
+00:10:52,990 --> 00:10:54,910
+the 
+
+211
+00:10:59,040 --> 00:11:03,080
+shells are connected and 
+
+212
+00:11:03,080 --> 00:11:08,840
+we find the height H here. This is our 
+height. So 
+
+213
+00:11:08,840 --> 00:11:12,220
+our base area is down here 
+
+214
+00:11:12,220 --> 00:11:14,660
+and our top area is here. 
+
+215
+00:11:14,740 --> 00:11:16,060
+So you can imagine that 
+
+216
+00:11:16,060 --> 00:11:17,580
+we have a base and then 
+
+217
+00:11:17,580 --> 00:11:18,360
+just another cover 
+
+218
+00:11:18,360 --> 00:11:21,020
+on top. And the outer surface, which 
+
+219
+00:11:21,020 --> 00:11:23,700
+encases the whole thing, is 
+
+220
+00:11:23,700 --> 00:11:29,380
+this here and this here and also 
+
+221
+00:11:29,440 --> 00:11:31,780
+what we see here at the front. So this 
+
+222
+00:11:31,780 --> 00:11:35,160
+at the front. Exactly, so it has 
+
+223
+00:11:35,160 --> 00:11:40,600
+three surfaces here and the whole thing is 
+
+224
+00:11:40,600 --> 00:11:42,640
+always the lateral surface. So 
+
+225
+00:11:42,640 --> 00:11:45,700
+if you look at it all together, what 
+
+226
+00:11:45,700 --> 00:11:47,740
+it encases. That's why it's 
+
+227
+00:11:47,740 --> 00:11:51,600
+also called the lateral surface. And 
+
+228
+00:11:53,820 --> 00:11:56,380
+the two surfaces, 
+
+229
+00:11:56,500 --> 00:11:58,000
+the base surface and the 
+
+230
+00:11:58,000 --> 00:12:00,260
+top surface, are connected by the height 
+of the lateral surface. So 
+
+231
+00:12:00,300 --> 00:12:02,480
+the surface area of the prism 
+
+232
+00:12:02,520 --> 00:12:06,200
+is made up of 
+
+233
+00:12:06,200 --> 00:12:07,600
+
+234
+00:12:07,600 --> 00:12:10,140
+the base, top and lateral surfaces, i.e. 
+
+235
+00:12:10,140 --> 00:12:11,520
+all three different surfaces. 
+
+236
+00:12:14,180 --> 00:12:16,460
+And it depends on whether it is the 
+
+237
+00:12:16,460 --> 00:12:17,960
+base or the top surface. 
+
+238
+00:12:17,960 --> 00:12:18,980
+Different 
+
+239
+00:12:18,980 --> 00:12:22,760
+formulas are then used to 
+
+240
+00:12:22,760 --> 00:12:26,920
+calculate this. So, for example, here we 
+
+241
+00:12:26,920 --> 00:12:28,780
+have the formula for 
+
+242
+00:12:28,780 --> 00:12:33,340
+our surface area. 
+
+243
+00:12:33,640 --> 00:12:37,140
+So A of O is equal to A of the 
+
+244
+00:12:37,140 --> 00:12:39,220
+base surface plus A of the top surface 
+
+245
+00:12:39,220 --> 00:12:42,680
+plus A of the lateral surface. So 2AG 
+
+246
+00:12:42,680 --> 00:12:45,980
+plus AM. Now, don't be surprised 
+
+247
+00:12:45,980 --> 00:12:47,160
+why the top surface has suddenly 
+
+248
+00:12:47,160 --> 00:12:48,360
+disappeared and there is now simply a 2 
+
+249
+00:12:48,360 --> 00:12:50,660
+in front of it. We know that 
+
+250
+00:12:50,660 --> 00:12:53,240
+the top surface and the base surface 
+
+251
+00:12:53,240 --> 00:12:56,900
+have the same area because they 
+
+252
+00:12:56,900 --> 00:12:58,720
+
+253
+00:12:58,720 --> 00:13:00,160
+have one floor and one ceiling. And the 
+ceiling can 
+
+254
+00:13:00,160 --> 00:13:01,580
+'t be smaller than the floor and 
+
+255
+00:13:01,580 --> 00:13:02,540
+the floor can't be smaller than the 
+
+256
+00:13:02,540 --> 00:13:02,860
+ceiling. 
+
+257
+00:13:05,980 --> 00:13:07,300
+That's why we simply 
+
+258
+00:13:07,300 --> 00:13:08,540
+said, okay, then we'll write 
+
+259
+00:13:08,540 --> 00:13:10,420
+AG there now, because it's the 
+
+260
+00:13:10,420 --> 00:13:11,760
+same anyway and that's times 2. 
+
+261
+00:13:12,040 --> 00:13:14,200
+So once for the base area and 
+
+262
+00:13:14,200 --> 00:13:18,120
+once for the top area. Exactly. 
+
+263
+00:13:18,120 --> 00:13:20,620
+The volume of the prism is then 
+
+264
+00:13:20,620 --> 00:13:23,520
+also the product of the base area and 
+
+265
+00:13:23,520 --> 00:13:27,920
+the height of the prism. So here, we 
+
+266
+00:13:27,920 --> 00:13:29,380
+now have our 
+
+267
+00:13:29,380 --> 00:13:33,460
+base area and then our height 
+
+268
+00:13:33,460 --> 00:13:36,680
+h. So why do we just say 
+
+269
+00:13:36,680 --> 00:13:37,800
+the base area and the height of the 
+
+270
+00:13:37,800 --> 00:13:43,200
+prism? Because with a 
+
+271
+00:13:43,200 --> 00:13:45,020
+volume , we always need 
+
+272
+00:13:45,020 --> 00:13:46,740
+a surface area and then a 
+
+273
+00:13:46,740 --> 00:13:48,660
+height, which makes it 
+
+274
+00:13:48,660 --> 00:13:51,480
+three-dimensional, i.e. to the power of 3. 
+
+275
+00:13:51,940 --> 00:13:54,140
+So, in this case, our 
+
+276
+00:13:54,140 --> 00:13:58,100
+formula is volume equals A of G, i.e. A 
+
+277
+00:13:58,100 --> 00:14:00,840
+of the base area, times H, times the 
+
+278
+00:14:00,840 --> 00:14:05,480
+height of the shell vane. OK, 
+
+279
+00:14:05,480 --> 00:14:07,160
+let's move on. So, now the cylinder. 
+
+280
+00:14:07,260 --> 00:14:11,640
+The cylinder has the 
+
+281
+00:14:11,640 --> 00:14:15,000
+properties of a prism, so 
+
+282
+00:14:15,000 --> 00:14:16,680
+it's a prism with a circle as the base 
+
+283
+00:14:16,680 --> 00:14:18,440
+ and top surface. So you can see 
+
+284
+00:14:18,440 --> 00:14:21,900
+here, again we have 
+
+285
+00:14:21,900 --> 00:14:24,000
+our base and top surface here and here and 
+
+286
+00:14:24,000 --> 00:14:26,480
+this is then our height again and 
+
+287
+00:14:26,480 --> 00:14:27,680
+the dimension is then of course 
+
+288
+00:14:27,680 --> 00:14:29,520
+the lateral surface again, so 
+
+289
+00:14:29,520 --> 00:14:29,780
+this is here. 
+
+290
+00:14:32,730 --> 00:14:37,250
+So, the surface area of the 
+
+291
+00:14:37,250 --> 00:14:41,570
+cylinder is calculated by 
+
+292
+00:14:41,570 --> 00:14:42,910
+using this formula here, but 
+
+293
+00:14:42,910 --> 00:14:43,970
+of course you have to 
+
+294
+00:14:43,970 --> 00:14:47,650
+mention first that the surface area is 
+
+295
+00:14:47,650 --> 00:14:51,630
+the total area of the whole cylinder 
+
+296
+00:14:51,630 --> 00:14:54,690
+and that is made up of 
+
+297
+00:14:54,690 --> 00:14:56,370
+the base area, the 
+
+298
+00:14:56,370 --> 00:15:00,890
+top area and the lateral area. So, 
+
+299
+00:15:00,890 --> 00:15:02,510
+the base and the top surface are 
+
+300
+00:15:02,510 --> 00:15:04,470
+of course the same again, just like 
+
+301
+00:15:04,470 --> 00:15:07,730
+with the prism, in this case there are 
+
+302
+00:15:07,730 --> 00:15:09,530
+two circles and they 
+
+303
+00:15:09,530 --> 00:15:12,630
+also have the same radius R. This 
+
+304
+00:15:12,630 --> 00:15:14,210
+gives us the formula AG 
+
+305
+00:15:14,210 --> 00:15:18,310
+equals Pi times R to the power of 2. That 
+is then 
+
+306
+00:15:18,310 --> 00:15:24,270
+our, our, exactly. This gives us 
+
+307
+00:15:24,270 --> 00:15:27,070
+our, our, 
+
+308
+00:15:27,070 --> 00:15:28,770
+the area of our 
+
+309
+00:15:30,310 --> 00:15:31,730
+base. Then we 
+
+310
+00:15:31,730 --> 00:15:33,110
+already have this. I' 
+
+311
+00:15:33,110 --> 00:15:37,620
+m just adding that back in. Exactly. And 
+then 
+
+312
+00:15:37,620 --> 00:15:39,240
+, of course, we also want to 
+
+313
+00:15:39,240 --> 00:15:41,300
+calculate our lateral area. This 
+
+314
+00:15:41,300 --> 00:15:44,180
+is a rectangle with the sides 2 times 
+
+315
+00:15:44,180 --> 00:15:47,520
+P times R and H. So 
+
+316
+00:15:47,520 --> 00:15:51,120
+you calculate the lateral surface area 
+like this, 2 times P times R 
+
+317
+00:15:51,120 --> 00:15:54,120
+times H, because if you unfold it 
+
+318
+00:15:54,120 --> 00:15:58,320
+, the whole cylinder so to speak, 
+
+319
+00:15:58,320 --> 00:16:00,080
+you can see that the lateral surface area 
+is rectangular 
+
+320
+00:16:00,080 --> 00:16:04,260
+. So, to calculate the whole thing, 
+
+321
+00:16:04,320 --> 00:16:04,820
+i.e. the entire 
+
+322
+00:16:04,820 --> 00:16:07,360
+surface area, we 
+
+323
+00:16:07,360 --> 00:16:11,040
+first have to 
+
+324
+00:16:11,040 --> 00:16:13,220
+
+325
+00:16:13,220 --> 00:16:14,700
+multiply our base area, which we have 
+already calculated above, by 2, because we 
+
+326
+00:16:14,700 --> 00:16:15,680
+not only have a base area, but 
+
+327
+00:16:15,680 --> 00:16:16,980
+also a top area, only the two 
+
+328
+00:16:16,980 --> 00:16:18,220
+are 
+
+329
+00:16:18,220 --> 00:16:20,380
+identical in size. That's why 
+
+330
+00:16:20,380 --> 00:16:23,020
+we multiply that by 2 and then add the 
+
+331
+00:16:23,020 --> 00:16:26,260
+surface area here. We've 
+
+332
+00:16:26,260 --> 00:16:31,660
+already calculated that here too. So, 
+that's 
+
+333
+00:16:31,660 --> 00:16:34,400
+2 times Pi times R to the power of 2. 2 
+plus 2 
+
+334
+00:16:34,400 --> 00:16:38,260
+times Pi times R times H. Exactly, and 
+then 
+
+335
+00:16:38,260 --> 00:16:39,200
+we already have the 
+
+336
+00:16:39,200 --> 00:16:41,340
+surface area of a cylinder. 
+
+337
+00:16:42,740 --> 00:16:44,540
+So, the volume of a cylinder 
+
+338
+00:16:44,540 --> 00:16:49,260
+is calculated by using the formula V 
+
+339
+00:16:49,260 --> 00:16:53,240
+equals A times G times H. 
+
+340
+00:16:53,240 --> 00:16:54,960
+We already had this formula 
+
+341
+00:16:54,960 --> 00:16:57,120
+for our prism. This is the 
+
+342
+00:16:57,120 --> 00:17:00,060
+general formula for prisms 
+
+343
+00:17:01,220 --> 00:17:05,640
+and then 
+
+344
+00:17:05,640 --> 00:17:08,880
+of course we have a circle, which is our 
+
+345
+00:17:08,880 --> 00:17:10,640
+base area, so our 
+
+346
+00:17:10,640 --> 00:17:14,040
+calculation is V equals A times G times H 
+
+347
+00:17:14,040 --> 00:17:18,720
+equals Pi times R to the power of 2 times 
+H. This is 
+
+348
+00:17:18,720 --> 00:17:21,540
+our formula for the volume 
+
+349
+00:17:21,540 --> 00:17:23,140
+of the cylinder. 
+
+350
+00:17:25,640 --> 00:17:26,840
+So, now we have another 
+
+351
+00:17:26,840 --> 00:17:30,520
+example problem here. Exactly. A sylo, 
+which 
+
+352
+00:17:30,520 --> 00:17:32,200
+has the shape of a cylinder, is to 
+
+353
+00:17:32,200 --> 00:17:34,020
+be completely filled with grain. 
+
+354
+00:17:35,100 --> 00:17:37,420
+How much grain can the sylo hold? 
+
+355
+00:17:37,500 --> 00:17:38,800
+Well, a sylo is just a 
+
+356
+00:17:38,800 --> 00:17:42,680
+container. Exactly. The 
+
+357
+00:17:42,680 --> 00:17:45,620
+outside of the sylo is to be painted. How 
+many 
+
+358
+00:17:45,620 --> 00:17:48,440
+square meters will be 
+
+359
+00:17:48,440 --> 00:17:52,820
+covered with paint ? Like this. 
+
+360
+00:17:52,820 --> 00:17:56,020
+In any case, we know that our diameter is 
+5 
+
+361
+00:17:56,020 --> 00:17:58,840
+meters. And our height is 7 
+
+362
+00:17:58,840 --> 00:18:02,140
+meters. That's the information we 
+
+363
+00:18:02,140 --> 00:18:06,600
+have. So, the capacity 
+
+364
+00:18:06,600 --> 00:18:10,300
+corresponds to the volume, because the 
+
+365
+00:18:10,300 --> 00:18:11,940
+volume is 3-dimensional, i.e. 
+
+366
+00:18:11,940 --> 00:18:13,840
+how much fits into what and 
+
+367
+00:18:13,840 --> 00:18:14,980
+that is also the 
+
+368
+00:18:14,980 --> 00:18:18,320
+capacity. So, our formula 
+
+369
+00:18:18,320 --> 00:18:19,820
+for our volume, of course, as 
+
+370
+00:18:19,820 --> 00:18:21,680
+we discussed earlier, is 
+
+371
+00:18:21,680 --> 00:18:24,680
+V equals A times G times H equals Pi times 
+
+372
+00:18:24,680 --> 00:18:27,600
+R to the power of 2 times H. 
+
+373
+00:18:27,600 --> 00:18:29,480
+But now we have to be careful, because the 
+diameter 
+
+374
+00:18:29,480 --> 00:18:31,820
+is given. The diameter is 
+
+375
+00:18:32,040 --> 00:18:33,820
+that if you 
+
+376
+00:18:33,820 --> 00:18:35,400
+walk from one end of the circle to the 
+other end. And 
+
+377
+00:18:35,400 --> 00:18:37,480
+this distance that you walk is then 
+
+378
+00:18:37,560 --> 00:18:39,580
+our diameter. 
+
+379
+00:18:39,580 --> 00:18:41,540
+But our radius is basically half of 
+
+380
+00:18:41,540 --> 00:18:43,340
+the diameter. So if you walk from 
+
+381
+00:18:43,340 --> 00:18:45,960
+the center to one end, 
+
+382
+00:18:46,040 --> 00:18:48,140
+that is, to the edge. So 
+
+383
+00:18:48,140 --> 00:18:49,960
+we have to divide the diameter by 2 
+
+384
+00:18:50,000 --> 00:18:51,020
+to get the radius 
+
+385
+00:18:51,020 --> 00:18:52,460
+. In this case, our 
+
+386
+00:18:52,460 --> 00:18:54,620
+diameter is 5 meters, 
+
+387
+00:18:54,620 --> 00:18:56,700
+so we divide that by 2 to get 2.5 
+
+388
+00:18:56,700 --> 00:19:00,400
+meters. So our answer is 
+
+389
+00:19:00,400 --> 00:19:02,300
+, because now we 
+
+390
+00:19:02,300 --> 00:19:05,140
+already have the height, which was 7 
+meters, then 
+
+391
+00:19:05,140 --> 00:19:06,760
+we have the diameter and then 
+
+392
+00:19:06,760 --> 00:19:07,680
+we 
+
+393
+00:19:07,680 --> 00:19:09,580
+always have pi , of course , we type it 
+all into 
+
+394
+00:19:09,580 --> 00:19:10,960
+the pocket calculator or calculate it 
+
+395
+00:19:10,960 --> 00:19:15,560
+by hand and then we come to 
+
+396
+00:19:15,560 --> 00:19:20,440
+the result that the Sylo 
+
+397
+00:19:20,440 --> 00:19:23,700
+can hold about 137 .44 cubic meters of 
+grain. 
+
+398
+00:19:23,840 --> 00:19:26,480
+That's how much grain it can hold. 
+
+399
+00:19:26,860 --> 00:19:28,640
+Because we can also see here now 
+
+400
+00:19:28,880 --> 00:19:32,340
+that this was used at the time, for 
+
+401
+00:19:32,340 --> 00:19:35,580
+example, for the radius of 2.5 meters, 
+
+402
+00:19:35,660 --> 00:19:36,360
+because we have already 
+
+403
+00:19:36,360 --> 00:19:38,580
+calculated this earlier , and for the 
+height of 7 
+
+404
+00:19:38,580 --> 00:19:39,820
+meters, that was already 
+
+405
+00:19:39,820 --> 00:19:44,340
+given before , times Pi. And then we come 
+to 
+
+406
+00:19:44,340 --> 00:19:46,040
+the conclusion that that's it, the 
+
+407
+00:19:46,040 --> 00:19:49,420
+volume. 137.44 cubic meters. 
+
+408
+00:19:50,540 --> 00:19:53,900
+Exactly. So, now we want to 
+
+409
+00:19:53,900 --> 00:19:56,840
+
+410
+00:19:56,840 --> 00:20:01,300
+find out how to paint the surface. The 
+floor is not 
+
+411
+00:20:01,300 --> 00:20:05,500
+painted, so we can 
+
+412
+00:20:05,500 --> 00:20:07,120
+leave out the floor. 
+
+413
+00:20:07,240 --> 00:20:08,480
+We don't have to include it in the 
+
+414
+00:20:08,480 --> 00:20:10,720
+calculation. This means 
+
+415
+00:20:10,720 --> 00:20:12,780
+that the surface area of the 
+
+416
+00:20:12,780 --> 00:20:15,780
+whole thing is then pi times R to the 
+power of 2 plus 
+
+417
+00:20:15,780 --> 00:20:19,880
+2 times P times R times H, because we 
+
+418
+00:20:19,880 --> 00:20:24,540
+are now calculating 
+
+419
+00:20:24,540 --> 00:20:27,540
+our cover here once and the 
+
+420
+00:20:27,540 --> 00:20:30,140
+lateral surface once. Normally there would 
+be 
+
+421
+00:20:30,140 --> 00:20:33,500
+one, no, two in the front, but 
+
+422
+00:20:35,100 --> 00:20:41,020
+because we don't 
+
+423
+00:20:41,900 --> 00:20:43,420
+
+424
+00:20:44,800 --> 00:20:46,220
+need a lid, no base, i.e. no bottom , 
+because it is not painted 
+
+425
+00:20:46,220 --> 00:20:48,400
+, we just leave out the 2, 
+
+426
+00:20:48,880 --> 00:20:50,280
+because we only have one lid 
+
+427
+00:20:50,280 --> 00:20:53,300
+and no 2, one bottom, one 
+
+428
+00:20:53,300 --> 00:20:55,240
+lid. Then, of course, we 
+
+429
+00:20:55,240 --> 00:20:56,560
+enter the values again, just like 
+
+430
+00:20:56,560 --> 00:20:58,320
+before, using 
+
+431
+00:20:58,320 --> 00:20:59,620
+the ones we have found out, 
+
+432
+00:20:59,720 --> 00:21:01,520
+for example the radius here 
+
+433
+00:21:03,700 --> 00:21:05,420
+and here too, and then we also 
+
+434
+00:21:05,420 --> 00:21:07,140
+enter the 7 meters, which we had 
+
+435
+00:21:07,140 --> 00:21:10,560
+already given, i.e. pi times 2.5 
+
+436
+00:21:10,560 --> 00:21:15,940
+to the power of 2 plus 2 times pi times 
+2.5 times 7 
+
+437
+00:21:15,940 --> 00:21:21,520
+equals 129.6 square meters. It is very 
+
+438
+00:21:21,520 --> 00:21:23,020
+important to note that we are now dealing 
+
+439
+00:21:23,020 --> 00:21:24,520
+with an area, 
+
+440
+00:21:24,580 --> 00:21:26,640
+i.e. a surface area. And that's why 
+
+441
+00:21:26,640 --> 00:21:29,780
+we have to use square meters 
+
+442
+00:21:29,780 --> 00:21:31,640
+instead of cubic meters, as in the 
+
+443
+00:21:31,640 --> 00:21:33,140
+previous example, because we're no longer 
+dealing 
+
+444
+00:21:33,140 --> 00:21:34,280
+with a volume here, 
+
+445
+00:21:34,360 --> 00:21:36,740
+but with an area. And that is 
+
+446
+00:21:36,740 --> 00:21:38,940
+squared, i.e. to the power of 2, not 
+
+447
+00:21:38,940 --> 00:21:42,280
+to the power of 3. So our answer is 
+
+448
+00:21:42,280 --> 00:21:48,040
+that approximately 129.6 
+
+449
+00:21:48,040 --> 00:21:51,020
+square meters 
+
+450
+00:21:51,020 --> 00:21:51,540
+need to be covered with paint. 
+
+451
+00:21:54,570 --> 00:21:55,540
+Now we have another 
+
+452
+00:21:55,540 --> 00:21:59,180
+example task. We have to 
+
+453
+00:21:59,180 --> 00:22:00,760
+calculate the surface area of a 
+
+454
+00:22:00,760 --> 00:22:02,560
+prism with a legal triangle 
+
+455
+00:22:02,560 --> 00:22:05,000
+as its base. We have 
+
+456
+00:22:05,000 --> 00:22:08,300
+given the values. Firstly, the first 
+
+457
+00:22:08,300 --> 00:22:11,060
+cathetus of the triangle, which is A 
+
+458
+00:22:11,060 --> 00:22:13,480
+equals 3 cm, the second cathetus 
+
+459
+00:22:13,480 --> 00:22:15,040
+was also given, which is 4 
+
+460
+00:22:15,040 --> 00:22:17,980
+cm, B equals 4 and the hypotenosis of the 
+
+461
+00:22:17,980 --> 00:22:23,340
+triangle C equals 5 cm. And, of course, 
+
+462
+00:22:23,340 --> 00:22:25,440
+the height of the 
+
+463
+00:22:25,440 --> 00:22:29,720
+prism at the end , which is 6.5 cm. So, 
+
+464
+00:22:29,780 --> 00:22:30,640
+now we've entered everything here 
+
+465
+00:22:30,640 --> 00:22:33,720
+and we can see that we 
+
+466
+00:22:33,720 --> 00:22:35,280
+also 
+
+467
+00:22:35,280 --> 00:22:39,540
+have a right angle here . Okay, now 
+
+468
+00:22:39,540 --> 00:22:41,740
+let's move on. So, to 
+
+469
+00:22:41,740 --> 00:22:43,820
+
+470
+00:22:43,820 --> 00:22:46,320
+calculate the surface area of a prism , we 
+need this formula 
+
+471
+00:22:46,320 --> 00:22:50,300
+here. a of o equals 2 times ag plus 
+
+472
+00:22:50,300 --> 00:22:54,720
+am. ag is even, so g stands for the 
+
+473
+00:22:54,720 --> 00:22:55,960
+base area and for the top area, 
+
+474
+00:22:56,020 --> 00:22:57,420
+so it is calculated times 2, 
+
+475
+00:22:57,480 --> 00:22:59,760
+plus the lateral area, i.e. the 
+
+476
+00:22:59,760 --> 00:23:03,520
+areas of the lateral surfaces. Exactly, so 
+
+477
+00:23:03,660 --> 00:23:06,560
+we now see the prism 
+
+478
+00:23:06,560 --> 00:23:10,440
+unfolded here and then see that it 
+
+479
+00:23:10,440 --> 00:23:12,960
+
+480
+00:23:12,960 --> 00:23:15,740
+has different shapes. This allows us to 
+
+481
+00:23:15,740 --> 00:23:18,340
+see that the surface consists of three 
+
+482
+00:23:18,340 --> 00:23:19,680
+rectangles, i.e. the 
+
+483
+00:23:19,680 --> 00:23:22,000
+lateral surface and the two identical, 
+
+484
+00:23:22,000 --> 00:23:24,140
+two equal rectangles in the 
+
+485
+00:23:24,140 --> 00:23:25,280
+triangles, which are the 
+
+486
+00:23:25,280 --> 00:23:26,560
+base and the top surface. 
+
+487
+00:23:29,080 --> 00:23:30,320
+So what we 
+
+488
+00:23:30,440 --> 00:23:33,200
+have to do here is 
+
+489
+00:23:33,200 --> 00:23:34,480
+calculate the base or the top surface, 
+which is 
+
+490
+00:23:34,480 --> 00:23:38,180
+the right-angled triangle. Here we 
+
+491
+00:23:38,180 --> 00:23:39,340
+can also see the right angle. 
+
+492
+00:23:39,500 --> 00:23:43,220
+So a of g equals a times b by 2 
+
+493
+00:23:43,220 --> 00:23:44,940
+, then we put 
+
+494
+00:23:44,940 --> 00:23:48,740
+in all the values we were given, 3 
+
+495
+00:23:48,740 --> 00:23:52,860
+times 4 cm by 2 and that's 6 
+
+496
+00:23:52,860 --> 00:23:55,420
+square centimeters. So we know 
+
+497
+00:23:55,420 --> 00:23:59,120
+that the area of our base and 
+
+498
+00:23:59,120 --> 00:24:06,340
+top surface 
+
+499
+00:24:06,340 --> 00:24:09,120
+is exactly 6 cm² . And then we also see 
+
+500
+00:24:09,120 --> 00:24:12,800
+the lateral surface. There are the 
+
+501
+00:24:12,800 --> 00:24:15,320
+three sides with A, B and C and the 
+
+502
+00:24:15,320 --> 00:24:18,820
+height H. So we calculate the A of 
+
+503
+00:24:18,820 --> 00:24:22,660
+M as A times H plus B times H plus C 
+
+504
+00:24:22,660 --> 00:24:24,740
+times H. So we put all the 
+
+505
+00:24:24,740 --> 00:24:27,300
+values back in. This is then 3 cm 
+
+506
+00:24:27,300 --> 00:24:35,480
+times 6.5 cm times 4 cm times 6.5 cm plus 
+
+507
+00:24:35,480 --> 00:24:43,620
+4 cm times 6.5 cm plus 5 cm times 6.5 cm. 
+
+508
+00:24:43,620 --> 00:24:47,000
+And then we arrive at the value 78 
+
+509
+00:24:47,000 --> 00:24:51,380
+cm². So our surface area is 
+
+510
+00:24:51,380 --> 00:24:56,440
+78 cm². So, the total surface area of the 
+
+511
+00:24:56,440 --> 00:24:59,420
+base surface and the lateral surface 
+
+512
+00:24:59,420 --> 00:25:03,740
+is 90 cm². Here we calculate 
+
+513
+00:25:03,740 --> 00:25:07,340
+2 times a of g plus a of m, 
+
+514
+00:25:07,480 --> 00:25:13,040
+i.e. 2 times 6 cm² plus 68 cm². 78 
+
+515
+00:25:13,040 --> 00:25:15,220
+square centimeters are then 90 
+
+516
+00:25:15,220 --> 00:25:18,040
+square centimeters. So our 
+
+517
+00:25:18,040 --> 00:25:20,660
+answer is that the prism we 
+
+518
+00:25:20,660 --> 00:25:22,800
+have just seen has a 
+
+519
+00:25:22,800 --> 00:25:24,500
+total surface area of 90 
+
+520
+00:25:24,500 --> 00:25:29,760
+square centimeters. So, that's all there 
+is to it 
+
+521
+00:25:29,760 --> 00:25:31,140
+. I hope you've 
+
+522
+00:25:31,140 --> 00:25:32,640
+understood everything. If you still 
+
+523
+00:25:32,640 --> 00:25:33,880
+have any questions, 
+
+524
+00:25:33,880 --> 00:25:35,240
+please feel free to ask me now 
+
+525
+00:25:35,240 --> 00:25:37,700
+. If you would like 
+
+526
+00:25:37,700 --> 00:25:40,280
+to delve a little deeper into the topic 
+
+527
+00:25:40,280 --> 00:25:43,900
+or simply 
+
+528
+00:25:43,900 --> 00:25:44,980
+
+529
+00:25:44,980 --> 00:25:47,020
+want to do a few more exercises , you are 
+of course welcome to 
+
+530
+00:25:47,020 --> 00:25:48,660
+visit the online learning sheet. 
+
+531
+00:25:48,760 --> 00:25:50,500
+There are always a few 
+
+532
+00:25:50,500 --> 00:25:52,120
+exercises and, of course, the 
+
+533
+00:25:52,120 --> 00:25:55,280
+corresponding solutions. I hope 
+
+534
+00:25:55,280 --> 00:25:56,300
+you enjoyed it and 
+
+535
+00:25:56,300 --> 00:25:58,100
+understood everything well and maybe I'll 
+
+536
+00:25:58,100 --> 00:25:58,940
+see you soon at the 
+
+537
+00:25:58,940 --> 00:26:00,640
+next Schülerhilfe webinar. 
+
+538
+00:26:01,320 --> 00:26:03,340
+I'm Serena and I hope you 
+
+539
+00:26:03,340 --> 00:26:05,340
+have a great day. Bye. 
+
+540
+00:26:05,340 --> 00:26:05,860
+Take care. 

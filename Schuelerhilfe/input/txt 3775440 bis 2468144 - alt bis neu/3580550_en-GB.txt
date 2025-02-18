@@ -1,0 +1,1649 @@
+﻿1
+00:00:00,500 --> 00:00:02,380
+Welcome to the webinar 
+
+2
+00:00:02,380 --> 00:00:04,660
+Vectors, basics and terms. 
+
+3
+00:00:04,780 --> 00:00:06,320
+In this webinar, we 
+
+4
+00:00:06,320 --> 00:00:07,900
+will look at the basics of vector calculus 
+and 
+
+5
+00:00:07,900 --> 00:00:10,040
+vectors. This means that we will 
+
+6
+00:00:10,040 --> 00:00:11,480
+first look at what 
+
+7
+00:00:11,480 --> 00:00:13,200
+a vector is , what its 
+
+8
+00:00:13,200 --> 00:00:15,020
+properties are and how you can 
+
+9
+00:00:15,020 --> 00:00:16,540
+calculate with them. In other words, we 
+will 
+
+10
+00:00:16,540 --> 00:00:17,640
+look at addition, 
+
+11
+00:00:17,640 --> 00:00:19,680
+subtraction, scalar 
+
+12
+00:00:19,680 --> 00:00:23,720
+multiplication and the magnitude or 
+
+13
+00:00:23,780 --> 00:00:25,920
+length of a vector. and 
+
+14
+00:00:25,920 --> 00:00:27,740
+finally, we will look at the scale product 
+
+15
+00:00:27,740 --> 00:00:29,480
+in relation to the angles 
+
+16
+00:00:32,400 --> 00:00:34,520
+. the important thing here is that we will 
+
+17
+00:00:34,520 --> 00:00:37,200
+not just calculate this once, 
+
+18
+00:00:37,200 --> 00:00:39,720
+we will also go and 
+
+19
+00:00:39,720 --> 00:00:41,460
+
+20
+00:00:41,460 --> 00:00:42,900
+
+21
+00:00:42,900 --> 00:00:45,360
+illustrate it geometrically and 
+graphically , respectively, but we will 
+also illustrate the meaning . last but not 
+least, 
+
+22
+00:00:45,360 --> 00:00:46,660
+we will look at the place 
+
+23
+00:00:46,660 --> 00:00:47,860
+vectors and the connecting vectors 
+
+24
+00:00:47,860 --> 00:00:49,420
+, i.e. the difference between the two and 
+
+25
+00:00:49,420 --> 00:00:50,440
+how to calculate both 
+
+26
+00:00:50,440 --> 00:00:53,240
+or what 
+
+27
+00:00:55,100 --> 00:00:56,420
+characterizes the two things. First of all 
+
+28
+00:00:56,420 --> 00:00:59,340
+, what is a vector? 
+
+29
+00:00:59,340 --> 00:01:01,160
+In school mathematics, it is usually just 
+
+30
+00:01:01,160 --> 00:01:03,560
+a jumble of teeth, you usually have 
+
+31
+00:01:03,560 --> 00:01:04,740
+two or three numbers 
+
+32
+00:01:04,740 --> 00:01:07,880
+arranged on top of each other. A 
+
+33
+00:01:07,880 --> 00:01:09,440
+vector is always marked with a small 
+
+34
+00:01:09,440 --> 00:01:10,540
+letter and an 
+
+35
+00:01:10,540 --> 00:01:12,560
+arrow above it. 
+
+36
+00:01:13,900 --> 00:01:15,320
+So whenever you have something like this, 
+you 
+
+37
+00:01:15,320 --> 00:01:17,520
+have a letter here and then 
+
+38
+00:01:17,520 --> 00:01:18,780
+an arrow above it, then that's 
+
+39
+00:01:18,780 --> 00:01:20,900
+a vector. And vectors are 
+
+40
+00:01:20,900 --> 00:01:21,960
+always 
+
+41
+00:01:21,960 --> 00:01:24,000
+written one below the other. In analytical 
+
+42
+00:01:24,000 --> 00:01:25,900
+geometry, i.e. in 
+
+43
+00:01:25,900 --> 00:01:26,980
+vector calculus, which you do at school 
+
+44
+00:01:26,980 --> 00:01:29,300
+, a vector can 
+
+45
+00:01:29,300 --> 00:01:30,560
+
+46
+00:01:30,560 --> 00:01:31,960
+indicate a direction, a displacement or a 
+location. This means that whenever 
+
+47
+00:01:31,960 --> 00:01:33,260
+you are in three-dimensional 
+
+48
+00:01:33,260 --> 00:01:35,100
+space, you have one of these 
+
+49
+00:01:35,100 --> 00:01:36,480
+three cases. So you either 
+
+50
+00:01:36,480 --> 00:01:38,640
+specify a direction, a displacement 
+
+51
+00:01:38,640 --> 00:01:41,880
+or a location. Vectors can 
+
+52
+00:01:41,880 --> 00:01:43,080
+of course also be used in linear 
+
+53
+00:01:43,080 --> 00:01:45,040
+algebra. There 
+
+54
+00:01:45,040 --> 00:01:46,340
+they can indicate a stock or a 
+
+55
+00:01:46,340 --> 00:01:48,200
+distribution or can also 
+
+56
+00:01:48,200 --> 00:01:50,180
+
+57
+00:01:50,180 --> 00:01:51,760
+represent a solution to a system of 
+equations . Some graphing 
+
+58
+00:01:51,760 --> 00:01:53,340
+calculators do this, for example. 
+
+59
+00:01:53,820 --> 00:01:56,060
+In this webinar, however, we will 
+
+60
+00:01:56,060 --> 00:01:57,340
+mainly 
+
+61
+00:01:57,340 --> 00:01:59,120
+refer to these three cases , i.e. actually 
+only to 
+
+62
+00:01:59,120 --> 00:02:01,100
+analytical geometry, because this is where 
+
+63
+00:02:01,100 --> 00:02:03,740
+you will 
+
+64
+00:02:03,740 --> 00:02:06,840
+encounter vectors most frequently. Let's 
+
+65
+00:02:06,840 --> 00:02:08,880
+start with the properties. 
+
+66
+00:02:09,520 --> 00:02:12,440
+Every vector has a length and a 
+
+67
+00:02:12,440 --> 00:02:16,300
+direction. In fact, we 
+
+68
+00:02:16,300 --> 00:02:17,740
+always see two vectors here and we 
+
+69
+00:02:17,740 --> 00:02:18,420
+have now 
+
+70
+00:02:18,420 --> 00:02:19,600
+
+71
+00:02:19,600 --> 00:02:21,540
+highlighted the differences between the 
+two vectors . If we look at these 
+
+72
+00:02:21,540 --> 00:02:23,360
+two vectors 
+
+73
+00:02:23,360 --> 00:02:25,900
+, that is our x1, x2, x3, our three 
+
+74
+00:02:25,900 --> 00:02:28,500
+directions or degrees of freedom that 
+
+75
+00:02:28,500 --> 00:02:31,520
+we have. And we can see here that this 
+
+76
+00:02:31,520 --> 00:02:33,060
+is always the factor 2 of each other. 
+
+77
+00:02:33,100 --> 00:02:34,760
+It's always the same factor for all of 
+them 
+
+78
+00:02:34,760 --> 00:02:38,200
+, sometimes 2, sometimes 2, sometimes 2. 
+And if 
+
+79
+00:02:38,200 --> 00:02:40,280
+it's the case that the entries are 
+
+80
+00:02:40,280 --> 00:02:44,740
+only ever 
+
+81
+00:02:44,740 --> 00:02:45,660
+
+82
+00:02:45,660 --> 00:02:48,160
+multiplied by a certain factor when the 
+vector is multiplied by a certain factor, 
+then 
+
+83
+00:02:48,160 --> 00:02:49,980
+only the length of the vector is 
+
+84
+00:02:49,980 --> 00:02:53,320
+changed. You do not change its 
+
+85
+00:02:53,320 --> 00:02:55,180
+direction. If you multiply the whole 
+
+86
+00:02:55,180 --> 00:02:57,120
+vector by times 2, 
+
+87
+00:02:57,120 --> 00:02:58,580
+the vector still points in the same 
+
+88
+00:02:58,580 --> 00:02:59,720
+direction, it just has a different 
+
+89
+00:02:59,720 --> 00:03:03,800
+length. The situation is different if you 
+
+90
+00:03:03,800 --> 00:03:06,760
+have vectors where the entries 
+
+91
+00:03:06,760 --> 00:03:08,380
+are not multiples of each other. 
+
+92
+00:03:08,380 --> 00:03:10,120
+This is the case here. Here we have 3 
+times 
+
+93
+00:03:10,300 --> 00:03:13,080
+0 times something. You can 
+
+94
+00:03:13,080 --> 00:03:14,460
+'t get from 0 to 1 by multiplication. This 
+means that 
+
+95
+00:03:14,460 --> 00:03:16,400
+in no case are all 
+
+96
+00:03:16,400 --> 00:03:18,720
+entries multiples of each other. 
+
+97
+00:03:19,400 --> 00:03:21,000
+Consequently, they have a completely 
+
+98
+00:03:21,000 --> 00:03:25,160
+different direction. So the 
+
+99
+00:03:25,160 --> 00:03:27,420
+direction of the vectors is completely 
+
+100
+00:03:27,420 --> 00:03:28,400
+different. 
+
+101
+00:03:28,400 --> 00:03:30,660
+They have nothing 
+
+102
+00:03:30,660 --> 00:03:34,300
+in common. A special case is 
+
+103
+00:03:34,320 --> 00:03:35,540
+when you 
+
+104
+00:03:35,540 --> 00:03:37,560
+have the so-called opposite vector , i.e. 
+the numbers 
+
+105
+00:03:37,560 --> 00:03:39,180
+are reversed exactly ahead of time. Then 
+
+106
+00:03:39,180 --> 00:03:40,480
+it simply points in exactly the opposite 
+
+107
+00:03:40,480 --> 00:03:42,440
+direction. It is 
+
+108
+00:03:42,440 --> 00:03:44,220
+rotated by 180 degrees , which is 
+
+109
+00:03:44,220 --> 00:03:45,460
+usually not so bad, except for 
+
+110
+00:03:45,460 --> 00:03:46,620
+some factual problems 
+
+111
+00:03:46,620 --> 00:03:48,780
+. However, it is 
+
+112
+00:03:48,780 --> 00:03:50,080
+unattractive, so you should 
+
+113
+00:03:50,080 --> 00:03:51,740
+always be aware of the 
+
+114
+00:03:51,740 --> 00:03:53,100
+direction in which the vector is pointing. 
+
+115
+00:03:54,740 --> 00:03:57,040
+a mixture of these two 
+
+116
+00:03:57,040 --> 00:03:58,360
+is quite possible, i.e. if 
+
+117
+00:03:58,360 --> 00:03:59,440
+you 
+
+118
+00:03:59,440 --> 00:04:01,580
+multiply by a negative factor, for 
+example, 
+
+119
+00:04:01,580 --> 00:04:03,620
+the path has 
+
+120
+00:04:03,620 --> 00:04:05,440
+a different length on the one hand and 
+
+121
+00:04:05,440 --> 00:04:08,300
+a different orientation on the other 
+
+122
+00:04:08,300 --> 00:04:10,660
+, but that 's not a problem either - it's 
+
+123
+00:04:10,660 --> 00:04:12,100
+just a case that you often encounter with 
+
+124
+00:04:12,100 --> 00:04:15,730
+the positional relationship and that 
+brings us 
+
+125
+00:04:15,730 --> 00:04:17,590
+to the right-hand 
+
+126
+00:04:17,590 --> 00:04:20,270
+arithmetic operation. Here we see 
+
+127
+00:04:20,270 --> 00:04:22,890
+the addition, the A vector 
+
+128
+00:04:22,890 --> 00:04:24,610
+plus the B vector results in a new 
+
+129
+00:04:24,610 --> 00:04:28,590
+C vector. Vectors are first 
+
+130
+00:04:28,590 --> 00:04:29,830
+added by performing the 
+
+131
+00:04:29,830 --> 00:04:31,130
+arithmetic operation within the 
+
+132
+00:04:31,130 --> 00:04:32,410
+individual components, 
+
+133
+00:04:32,410 --> 00:04:35,750
+i.e. 1 plus 2, 2 plus minus 1 and 4 
+
+134
+00:04:35,750 --> 00:04:39,730
+plus 3. This means 1 plus 2 is 3, 2 
+
+135
+00:04:39,730 --> 00:04:43,390
+plus minus 1 is 2 minus 1, i.e. 1, 4 
+
+136
+00:04:43,390 --> 00:04:45,710
+plus 3 is 7. In other words, this is the 
+
+137
+00:04:45,710 --> 00:04:46,570
+resulting arithmetic operation. 
+
+138
+00:04:46,590 --> 00:04:48,750
+Vector. You can visualize this graphically 
+
+139
+00:04:48,750 --> 00:04:50,210
+if we have A plus B. 
+
+140
+00:04:50,350 --> 00:04:51,350
+In other words, we have one vector 
+
+141
+00:04:51,370 --> 00:04:54,310
+that points this way and one that points 
+that way. We 
+
+142
+00:04:54,310 --> 00:04:56,190
+first run through the A vector and then 
+
+143
+00:04:56,190 --> 00:04:57,650
+the B vector. Then 
+
+144
+00:04:57,650 --> 00:04:59,890
+we are back here and the C vector 
+
+145
+00:04:59,890 --> 00:05:02,490
+is then the vector that 
+
+146
+00:05:02,490 --> 00:05:06,470
+
+147
+00:05:06,470 --> 00:05:08,250
+arises from this point, from the starting 
+point to this point, i.e. against 
+
+148
+00:05:08,250 --> 00:05:08,670
+a 
+
+149
+00:05:13,500 --> 00:05:16,880
+displacement. 
+
+150
+00:05:16,880 --> 00:05:18,260
+Of course, the whole thing also works with 
+subtraction. A 
+
+151
+00:05:18,260 --> 00:05:20,180
+ vector minus B vector equals C 
+
+152
+00:05:20,180 --> 00:05:23,580
+ vector. So 4, 2, 5, minus 1, 3, 
+
+153
+00:05:23,600 --> 00:05:25,260
+minus 2. Again, the 
+
+154
+00:05:25,260 --> 00:05:26,380
+
+155
+00:05:26,380 --> 00:05:29,620
+calculation is only done within the 
+components. 4, minus 1, 2, minus 3, 5, 
+
+156
+00:05:29,880 --> 00:05:32,000
+minus, minus 2. 
+
+157
+00:05:32,000 --> 00:05:32,960
+Always be careful with something like this 
+, minus and minus, there is 
+
+158
+00:05:32,960 --> 00:05:33,880
+plus. Plus the 
+
+159
+00:05:38,260 --> 00:05:39,860
+seal 5, minus minus 2, 
+
+160
+00:05:39,860 --> 00:05:41,660
+because we already have it, is the same 
+
+161
+00:05:41,660 --> 00:05:45,690
+as 5 plus 2 and that is the 7. 
+
+162
+00:05:45,690 --> 00:05:46,910
+You can imagine it geometrically 
+
+163
+00:05:46,910 --> 00:05:48,170
+as follows. We have 
+
+164
+00:05:48,170 --> 00:05:49,670
+our A vector here and our B 
+
+165
+00:05:49,670 --> 00:05:51,450
+ vector here.  First we go 
+
+166
+00:05:51,450 --> 00:05:53,770
+along  our A vector. 
+
+167
+00:05:53,770 --> 00:05:55,730
+But now we don't go along our B vector in 
+that 
+
+168
+00:05:55,730 --> 00:05:56,950
+direction, but we have 
+
+169
+00:05:56,950 --> 00:05:58,750
+minus B here. That means we take 
+
+170
+00:05:58,750 --> 00:06:01,130
+the opposite vector. 
+
+171
+00:06:01,130 --> 00:06:02,710
+as already mentioned, the opposite vector 
+is simply the vector with 
+
+172
+00:06:02,710 --> 00:06:04,710
+the same length and the same direction 
+
+173
+00:06:04,710 --> 00:06:06,610
+, only rotated by 180 degrees, so 
+
+174
+00:06:06,610 --> 00:06:10,630
+we don't go away like this but like this 
+and 
+
+175
+00:06:10,630 --> 00:06:11,510
+then we 
+
+176
+00:06:11,510 --> 00:06:14,750
+arrive at the point again and the 
+resulting c vector 
+
+177
+00:06:14,750 --> 00:06:16,230
+is then the point that 
+
+178
+00:06:16,230 --> 00:06:18,290
+
+179
+00:06:18,290 --> 00:06:20,150
+goes from the hour point of the two to 
+this new point, so here again 
+
+180
+00:06:20,150 --> 00:06:21,850
+marked in green the 
+
+181
+00:06:25,560 --> 00:06:27,700
+scalar multiplication by a 
+
+182
+00:06:27,700 --> 00:06:30,060
+factor is actually only used to 
+
+183
+00:06:30,060 --> 00:06:32,760
+shorten or lengthen a 
+
+184
+00:06:32,760 --> 00:06:35,700
+vector. We see here that r times a vector 
+
+185
+00:06:35,700 --> 00:06:37,440
+equals b vector, for 
+
+186
+00:06:37,440 --> 00:06:40,260
+example 3 times 1 minus 2 3. This 
+
+187
+00:06:40,260 --> 00:06:41,840
+means that we multiply all components 
+
+188
+00:06:41,840 --> 00:06:43,820
+within the vector by the factor 
+
+189
+00:06:43,820 --> 00:06:45,260
+, in this case 3. 
+
+190
+00:06:45,840 --> 00:06:48,900
+So we calculate 3 times 1, 3 times minus 
+
+191
+00:06:48,900 --> 00:06:52,460
+2 and 3 times 3. 3 times 1 is 3, 3 
+
+192
+00:06:52,460 --> 00:06:55,280
+times minus 2 is minus 6 and 3 times 3 
+
+193
+00:06:55,280 --> 00:06:57,880
+is 9. As you can see, we have 
+
+194
+00:06:57,880 --> 00:07:00,020
+created a vector that is a multiple 
+
+195
+00:07:00,020 --> 00:07:02,700
+of the vector a, namely a 
+
+196
+00:07:02,700 --> 00:07:05,480
+multiple with the factor 3 and 
+
+197
+00:07:05,480 --> 00:07:07,020
+, as we 
+
+198
+00:07:07,020 --> 00:07:09,140
+learned at the beginning of the webinar , 
+we have only 
+
+199
+00:07:09,140 --> 00:07:12,600
+changed the length. If we 
+
+200
+00:07:12,600 --> 00:07:14,060
+
+201
+00:07:14,060 --> 00:07:16,840
+multiply by a negative factor, such as 
+minus 1, for example 
+
+202
+00:07:16,840 --> 00:07:17,500
+, we calculate the so-called 
+
+203
+00:07:17,500 --> 00:07:19,420
+opposite vector. This is the vector that 
+
+204
+00:07:19,420 --> 00:07:22,740
+is 180 degrees in the opposite direction. 
+And 
+
+205
+00:07:22,740 --> 00:07:24,200
+of course it can also 
+
+206
+00:07:24,200 --> 00:07:25,540
+have a different length. But the direction 
+is 
+
+207
+00:07:25,540 --> 00:07:26,940
+the same . It is simply the 
+
+208
+00:07:26,940 --> 00:07:29,240
+orientation that has been changed. 
+
+209
+00:07:30,640 --> 00:07:31,920
+So you can also explain it 
+
+210
+00:07:32,060 --> 00:07:33,200
+by simply drawing the tip at the 
+
+211
+00:07:33,200 --> 00:07:34,020
+other end. 
+
+212
+00:07:37,260 --> 00:07:39,600
+Well, that brings us to 
+
+213
+00:07:39,600 --> 00:07:42,180
+the length. Every vector has a 
+
+214
+00:07:42,180 --> 00:07:46,020
+length. If you 
+
+215
+00:07:46,020 --> 00:07:48,920
+change the length of a vector, as we have 
+just 
+
+216
+00:07:48,920 --> 00:07:51,160
+seen, we can now see 
+
+217
+00:07:51,200 --> 00:07:52,500
+how we 
+
+218
+00:07:52,500 --> 00:07:54,680
+can calculate the length of a vector . It 
+is simply the 
+
+219
+00:07:54,680 --> 00:07:56,920
+square root of the individual components 
+
+220
+00:07:56,920 --> 00:07:58,920
+squared, i.e. 1 squared plus 
+
+221
+00:07:58,920 --> 00:08:01,900
+2 squared plus 2 squared, which 
+
+222
+00:08:01,900 --> 00:08:03,220
+in this case is the square root of 9, 
+
+223
+00:08:03,280 --> 00:08:05,880
+i.e. 3. This approach is based on the 
+
+224
+00:08:05,880 --> 00:08:07,160
+Pythagorean theorem for the 
+
+225
+00:08:07,160 --> 00:08:13,180
+spatial diagonal. And as I said, that 
+
+226
+00:08:13,180 --> 00:08:14,840
+would be the first step. Here we have 
+
+227
+00:08:14,840 --> 00:08:15,880
+the individual components. This 
+
+228
+00:08:15,880 --> 00:08:18,960
+is the resultant. The V is then 
+
+229
+00:08:18,960 --> 00:08:20,980
+the square root of V1 squared plus V2 
+
+230
+00:08:20,980 --> 00:08:22,800
+squared. Provided there 
+
+231
+00:08:22,800 --> 00:08:25,100
+is a right angle here. But these three 
+
+232
+00:08:25,100 --> 00:08:28,760
+directions are all perpendicular 
+
+233
+00:08:28,760 --> 00:08:31,620
+to each other. That is always the case. 
+And 
+
+234
+00:08:31,620 --> 00:08:33,880
+therefore this 
+
+235
+00:08:33,880 --> 00:08:35,900
+Pythagorean approach can be used here. As 
+
+236
+00:08:35,900 --> 00:08:37,600
+I said, this is the formula that 
+
+237
+00:08:37,600 --> 00:08:39,660
+
+238
+00:08:39,660 --> 00:08:42,880
+
+239
+00:08:42,880 --> 00:08:44,520
+is always used to calculate the length of 
+a vector or later the distance between two 
+points if you 
+
+240
+00:08:44,520 --> 00:08:46,100
+insert the connecting vector here. 
+
+241
+00:08:46,100 --> 00:08:47,880
+We' 
+
+242
+00:08:47,880 --> 00:08:48,840
+ll see what a connection vector is in a 
+moment. 
+
+243
+00:08:52,410 --> 00:08:55,110
+Now let's move on to the scalar product of 
+
+244
+00:08:55,110 --> 00:08:57,850
+two vectors. So we 
+
+245
+00:08:57,850 --> 00:08:59,570
+multiply two vectors 
+
+246
+00:08:59,570 --> 00:09:00,950
+together. So A vector times B 
+
+247
+00:09:00,950 --> 00:09:03,850
+ vector gives a value r. 
+
+248
+00:09:05,050 --> 00:09:06,670
+What's important here, and this is a very 
+
+249
+00:09:06,670 --> 00:09:09,330
+popular question, is that if the result of 
+
+250
+00:09:09,330 --> 00:09:11,450
+this scalar multiplication, i.e. the 
+
+251
+00:09:11,450 --> 00:09:14,510
+scalar product, is 0, both 
+
+252
+00:09:14,510 --> 00:09:16,630
+vectors are perpendicular to each other. 
+This 
+
+253
+00:09:16,630 --> 00:09:17,810
+is always the case. So whenever the 
+
+254
+00:09:17,810 --> 00:09:21,810
+task is to show 
+
+255
+00:09:21,870 --> 00:09:23,130
+that the two vectors 
+
+256
+00:09:23,130 --> 00:09:24,470
+are perpendicular to each other, the 
+solution is to 
+
+257
+00:09:24,550 --> 00:09:26,890
+form the scalar product and 
+
+258
+00:09:26,890 --> 00:09:28,590
+this must then be 0, then 
+
+259
+00:09:28,590 --> 00:09:30,190
+this is the proof that the two 
+
+260
+00:09:30,190 --> 00:09:31,970
+vectors 
+
+261
+00:09:31,970 --> 00:09:34,490
+are perpendicular to each other . 
+
+262
+00:09:34,490 --> 00:09:35,990
+We will show you how to form the scalar 
+product here. So 
+
+263
+00:09:35,990 --> 00:09:38,850
+we have 2, 2, 4 times 1, minus 3, 1. 
+
+264
+00:09:39,430 --> 00:09:41,310
+We carry out the multiplication 
+
+265
+00:09:41,310 --> 00:09:43,150
+within the line, if you 
+
+266
+00:09:43,150 --> 00:09:44,590
+like. We could also 
+
+267
+00:09:44,590 --> 00:09:46,150
+divide it up like this , first line, 
+second line, 
+
+268
+00:09:46,150 --> 00:09:48,350
+third line, if you like. 
+
+269
+00:09:48,350 --> 00:09:51,270
+However, we tend to speak of elements. 
+
+270
+00:09:51,270 --> 00:09:54,110
+In other words, we have 2 times 1 plus 2 
+
+271
+00:09:54,110 --> 00:09:56,630
+times minus 3 plus 4 times 1. So we 
+
+272
+00:09:56,630 --> 00:10:02,230
+multiply within the elements 
+
+273
+00:10:02,230 --> 00:10:05,050
+and then add the rows together. 
+
+274
+00:10:05,410 --> 00:10:08,730
+This gives us 2 times 1 plus 2 times 
+
+275
+00:10:08,730 --> 00:10:12,450
+minus 3 plus 4 times 1 and that is 0. 2 
+
+276
+00:10:12,450 --> 00:10:16,510
+times 1 is 2, 2 times minus 3 is minus 
+
+277
+00:10:16,510 --> 00:10:18,450
+6 and 4 times 1 is 4. This means we 
+
+278
+00:10:18,450 --> 00:10:21,750
+have 2 minus 6 plus 4. 2 plus 4 is 
+
+279
+00:10:21,750 --> 00:10:24,910
+also 6 and 6 minus 6 is then 0. This 
+
+280
+00:10:24,910 --> 00:10:26,350
+means that these two vectors are 
+
+281
+00:10:26,350 --> 00:10:30,270
+absolutely perpendicular to each other. 
+Here we 
+
+282
+00:10:30,270 --> 00:10:32,530
+have a counterexample. 1, 0, 2 
+
+283
+00:10:32,530 --> 00:10:36,130
+times 3, 1, 4. 1 times 3 plus 0 times 1 
+
+284
+00:10:36,130 --> 00:10:39,270
+plus 2 times 4. 1 times 3 is 3. 0 times 1 
+
+285
+00:10:39,270 --> 00:10:41,470
+is 0. And 2 times 4 is 8. 
+
+286
+00:10:41,470 --> 00:10:43,570
+So we have 3 plus 8. That's 11. These 
+
+287
+00:10:43,570 --> 00:10:44,970
+two vectors 
+
+288
+00:10:44,970 --> 00:10:46,270
+are not perpendicular to each other, for 
+example. 
+
+289
+00:10:49,270 --> 00:10:51,070
+Of course, you can not only 
+
+290
+00:10:51,070 --> 00:10:52,930
+distinguish between vectors 
+
+291
+00:10:52,930 --> 00:10:54,110
+that are perpendicular to each other and 
+vectors 
+
+292
+00:10:54,110 --> 00:10:55,330
+that are not perpendicular to each other. 
+
+293
+00:10:55,330 --> 00:10:57,310
+You can also 
+
+294
+00:10:57,310 --> 00:10:58,790
+
+295
+00:10:58,790 --> 00:11:00,910
+calculate the angle between these vectors 
+. And this is 
+
+296
+00:11:00,910 --> 00:11:02,850
+the formula on the right. This formula is 
+used 
+
+297
+00:11:02,850 --> 00:11:04,930
+to calculate the angle that 
+
+298
+00:11:04,930 --> 00:11:08,210
+exists between two vectors. Or 
+
+299
+00:11:08,210 --> 00:11:09,510
+that is enclosed by two vectors 
+
+300
+00:11:09,510 --> 00:11:12,710
+. This above, A times B vector, 
+
+301
+00:11:12,730 --> 00:11:14,710
+is simply the scalar product. 
+
+302
+00:11:15,670 --> 00:11:16,850
+These magnitude lines are the 
+
+303
+00:11:16,850 --> 00:11:19,870
+vector magnitude, i.e. the length. The 
+important thing 
+
+304
+00:11:19,870 --> 00:11:21,450
+is that we multiply the 
+
+305
+00:11:21,450 --> 00:11:23,550
+vector length A by the vector length B. 
+
+306
+00:11:24,450 --> 00:11:28,090
+Yes, that's very important. And here 
+
+307
+00:11:28,090 --> 00:11:30,510
+above simply scalar product. We have 
+
+308
+00:11:30,510 --> 00:11:32,310
+
+309
+00:11:32,310 --> 00:11:34,890
+done the whole thing for two vectors , so 
+2, 0, 0 times 1, 2, 2, 
+
+310
+00:11:34,890 --> 00:11:38,510
+divided by the amount of 200 times 
+
+311
+00:11:38,510 --> 00:11:41,370
+the amount of 122 is equal to the 
+
+312
+00:11:41,370 --> 00:11:45,870
+cosine of alpha first 
+
+313
+00:11:45,870 --> 00:11:47,190
+we solve the scalar multiplication at the 
+top 
+
+314
+00:11:47,190 --> 00:11:50,890
+2 times 1 plus 0 times 2 plus 0 times 2 
+
+315
+00:11:50,890 --> 00:11:55,310
+is 2 here at the bottom we have the root 
+
+316
+00:11:55,310 --> 00:11:57,670
+of 2 squared plus 0 squared 
+
+317
+00:11:57,670 --> 00:12:00,750
+plus 0 squared the root of 
+
+318
+00:12:00,750 --> 00:12:04,170
+2 squared is 2, then it 
+
+319
+00:12:04,170 --> 00:12:05,690
+continues here on the right, the root of 1 
+
+320
+00:12:05,690 --> 00:12:08,570
+squared plus 2 squared plus 2 squared 
+
+321
+00:12:08,570 --> 00:12:11,830
+, that's the root 
+
+322
+00:12:11,830 --> 00:12:13,690
+of 9 in total, so 1 squared 
+
+323
+00:12:13,690 --> 00:12:15,430
+plus 2 squared plus 2 squared 
+
+324
+00:12:15,430 --> 00:12:18,590
+is 9 and the root of 9 is 3, 
+
+325
+00:12:18,730 --> 00:12:20,290
+so we get 3 here and 
+
+326
+00:12:20,290 --> 00:12:23,150
+that' s how we get this nice fraction 
+
+327
+00:12:23,150 --> 00:12:26,550
+, that is 2 by 2 2 times 3 is the same 
+
+328
+00:12:26,550 --> 00:12:28,110
+as 2 sixths. You could also 
+
+329
+00:12:28,110 --> 00:12:29,190
+shorten it , but that's not so 
+
+330
+00:12:29,190 --> 00:12:31,110
+important. So we know that the 
+
+331
+00:12:31,110 --> 00:12:33,030
+cosine of alpha is equal to 2 
+
+332
+00:12:33,030 --> 00:12:35,090
+sixths. Of course, we don't want to 
+
+333
+00:12:35,090 --> 00:12:36,270
+know what the cosine of alpha 
+
+334
+00:12:36,270 --> 00:12:37,410
+is, but we want to know what 
+
+335
+00:12:37,410 --> 00:12:38,830
+alpha is. That's why we still need 
+
+336
+00:12:38,830 --> 00:12:40,590
+the inverse operation of the cosine. This 
+
+337
+00:12:40,590 --> 00:12:41,910
+is the cosine raised to the power of minus 
+1, 
+
+338
+00:12:42,150 --> 00:12:43,890
+or sometimes the, 
+
+339
+00:12:43,970 --> 00:12:45,910
+or technically correct, the 
+
+340
+00:12:45,910 --> 00:12:48,510
+ argus-cosine. At school, 
+
+341
+00:12:48,510 --> 00:12:49,910
+however, we tend to talk about cosine 
+raised to the power of minus 1. 
+
+342
+00:12:50,970 --> 00:12:52,670
+Well, we then know that alpha 
+
+343
+00:12:52,670 --> 00:12:54,850
+is equal to cosine raised to the power of 
+minus 1 of 2 
+
+344
+00:12:54,850 --> 00:12:56,290
+sixths. And according to 
+
+345
+00:12:56,290 --> 00:12:58,330
+our calculator , that's about 70.5 
+
+346
+00:12:58,330 --> 00:13:00,450
+degrees. And that is the angle 
+
+347
+00:13:00,450 --> 00:13:02,790
+formed by the two vectors. And 
+
+348
+00:13:05,510 --> 00:13:07,310
+that brings us to the 
+
+349
+00:13:07,310 --> 00:13:09,210
+last point of our webinar, which 
+
+350
+00:13:09,210 --> 00:13:10,950
+is the position vector and the 
+
+351
+00:13:10,950 --> 00:13:14,570
+connection vector. A position vector 
+
+352
+00:13:14,570 --> 00:13:16,870
+always points from the origin of the 
+coordinates 
+
+353
+00:13:16,870 --> 00:13:18,030
+to a point, i.e. we have 
+
+354
+00:13:18,030 --> 00:13:19,670
+some point and the vector 
+
+355
+00:13:19,670 --> 00:13:21,410
+points from the origin to this point. 
+
+356
+00:13:22,470 --> 00:13:25,810
+In principle, the 
+
+357
+00:13:25,810 --> 00:13:28,370
+coordinates are simply described as a 
+vector. 
+
+358
+00:13:28,370 --> 00:13:33,170
+If you 
+
+359
+00:13:33,170 --> 00:13:35,010
+describe the points of a point as a 
+vector, you 
+
+360
+00:13:35,010 --> 00:13:39,350
+automatically get the position vector. 
+This is 
+
+361
+00:13:39,350 --> 00:13:40,990
+then labeled OP or 
+
+362
+00:13:40,990 --> 00:13:43,630
+simply P. It depends on 
+
+363
+00:13:43,630 --> 00:13:44,910
+what you want to do. 
+
+364
+00:13:45,910 --> 00:13:46,890
+Then there is the 
+
+365
+00:13:46,890 --> 00:13:49,070
+connection vector. As the name suggests 
+
+366
+00:13:49,070 --> 00:13:51,470
+, the connection vector 
+
+367
+00:13:51,470 --> 00:13:52,930
+connects two points. In other words, 
+
+368
+00:13:53,010 --> 00:13:55,730
+it indicates a displacement. And such a 
+
+369
+00:13:55,730 --> 00:13:56,910
+connecting vector is always 
+
+370
+00:13:56,910 --> 00:13:58,370
+used to set up straight lines 
+
+371
+00:13:58,370 --> 00:14:00,790
+and plane equations if you 
+
+372
+00:14:00,790 --> 00:14:01,910
+
+373
+00:14:01,910 --> 00:14:03,430
+want to get from one point to another . 
+For example, point 
+
+374
+00:14:03,430 --> 00:14:07,950
+A and point B in our case. So point A and 
+point 
+
+375
+00:14:07,950 --> 00:14:11,290
+B are each 
+
+376
+00:14:11,290 --> 00:14:12,990
+indicated with a position vector , i.e. 
+from the origin 
+
+377
+00:14:12,990 --> 00:14:15,870
+and therefore 
+
+378
+00:14:15,870 --> 00:14:18,610
+marked blue and orange here. And we now 
+want to 
+
+379
+00:14:18,610 --> 00:14:21,450
+determine this green vector here, 
+
+380
+00:14:21,450 --> 00:14:24,970
+the connecting vector. We do this 
+
+381
+00:14:24,970 --> 00:14:27,590
+simply by 
+
+382
+00:14:27,590 --> 00:14:29,390
+calculating the target point minus the 
+starting point, or also by 
+
+383
+00:14:29,390 --> 00:14:32,570
+calculating it as a point minus a foot. So 
+in 
+
+384
+00:14:32,570 --> 00:14:34,730
+our example, B vector minus A 
+
+385
+00:14:34,730 --> 00:14:37,110
+ vector. The connecting vector 
+
+386
+00:14:37,110 --> 00:14:40,170
+AB is then our B vector minus 
+
+387
+00:14:40,170 --> 00:14:42,850
+our A vector. So Bx minus Ax, By 
+
+388
+00:14:42,850 --> 00:14:46,270
+minus Ay, Bz minus Az. So 4 minus 
+
+389
+00:14:46,270 --> 00:14:49,690
+2, minus 1, minus 3 and 3 minus 1. 4 
+
+390
+00:14:49,690 --> 00:14:53,270
+minus 2 is 2. Minus 1 minus 3 is 
+
+391
+00:14:53,270 --> 00:14:58,050
+minus 4 and 3 minus 1 is 2. And that 
+
+392
+00:14:58,050 --> 00:14:59,250
+is ultimately our 
+
+393
+00:14:59,250 --> 00:15:00,570
+connecting vector from the point. 
+
+394
+00:15:05,200 --> 00:15:08,300
+So minus 2, 4, minus 2, the 
+
+395
+00:15:08,300 --> 00:15:11,980
+vector would point from B to A. So the 
+
+396
+00:15:11,980 --> 00:15:13,720
+arrow would be the other way around. That 
+would be 
+
+397
+00:15:13,720 --> 00:15:15,620
+the so-called opposite vector. 
+
+398
+00:15:17,920 --> 00:15:19,820
+That brings us to the end 
+
+399
+00:15:19,820 --> 00:15:21,680
+of the webinar. Thank you 
+
+400
+00:15:21,680 --> 00:15:23,120
+very much for your attention. 

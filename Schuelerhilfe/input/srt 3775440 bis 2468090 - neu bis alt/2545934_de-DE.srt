@@ -1,0 +1,2192 @@
+1
+00:00:00,850 --> 00:00:02,650
+Herzlich willkommen zum Webinar
+
+2
+00:00:02,650 --> 00:00:04,830
+Ableitungsregeln. Wir werden uns in
+
+3
+00:00:04,830 --> 00:00:06,210
+diesem Webinar mit den höheren
+
+4
+00:00:06,210 --> 00:00:07,850
+Ableitungsregeln befassen. Das heißt,
+
+5
+00:00:07,910 --> 00:00:09,130
+wir werden uns die Kettenregel, die
+
+6
+00:00:09,130 --> 00:00:10,870
+Produktregel und zuletzt die
+
+7
+00:00:10,870 --> 00:00:12,290
+Quotientenregel anschauen.
+
+8
+00:00:12,850 --> 00:00:14,150
+Zuallererst schauen wir uns aber erst
+
+9
+00:00:14,150 --> 00:00:15,710
+einmal an, was ist nochmal eine
+
+10
+00:00:15,710 --> 00:00:17,870
+Ableitung und wofür brauchen wir
+
+11
+00:00:17,870 --> 00:00:20,750
+diese? Eine Ableitung benötigen wir
+
+12
+00:00:20,750 --> 00:00:22,510
+dafür, um die Steigung einer Funktion
+
+13
+00:00:22,510 --> 00:00:23,610
+an einer bestimmten Stelle zu
+
+14
+00:00:23,610 --> 00:00:25,710
+berechnen. Das heißt, wir sehen hier
+
+15
+00:00:25,710 --> 00:00:27,470
+zum Beispiel eine Parabel und stellen
+
+16
+00:00:27,470 --> 00:00:29,070
+leider auch fest, dass die Steigung
+
+17
+00:00:29,070 --> 00:00:30,710
+nicht konstant ist. Anders als bei
+
+18
+00:00:30,710 --> 00:00:32,390
+einer Grad, die überall die gleiche
+
+19
+00:00:32,390 --> 00:00:35,330
+Steigung hat, haben Funktionen ab dem
+
+20
+00:00:35,330 --> 00:00:37,450
+zweiten Grad keine einheitliche
+
+21
+00:00:37,450 --> 00:00:39,950
+Steigung mehr. Daher können wir auch
+
+22
+00:00:39,950 --> 00:00:41,430
+kein Steigungsdreieck mehr anlegen,
+
+23
+00:00:41,490 --> 00:00:43,190
+bzw. das Anlegen eines
+
+24
+00:00:43,190 --> 00:00:44,330
+Steigungsdreiecks ist nur noch ein
+
+25
+00:00:44,330 --> 00:00:46,370
+Näherungsverfahren oder um es wie
+
+26
+00:00:46,370 --> 00:00:50,710
+hier visuell zu zeigen. Um jetzt
+
+27
+00:00:50,710 --> 00:00:52,190
+letztendlich die Steigung zu
+
+28
+00:00:52,190 --> 00:00:53,770
+bestimmen, müssen wir diese leider
+
+29
+00:00:53,770 --> 00:00:55,710
+immer berechnen. Und genau dafür
+
+30
+00:00:55,710 --> 00:00:58,350
+brauchen wir die erste Ableitung.
+
+31
+00:00:58,470 --> 00:01:00,390
+Denn die erste Ableitung liefert uns
+
+32
+00:01:00,390 --> 00:01:02,390
+immer die momentane Änderungsphase
+
+33
+00:01:02,390 --> 00:01:04,510
+der Ausgangsfunktion an einer Stelle,
+
+34
+00:01:04,650 --> 00:01:09,310
+sprich die Steigung. Und wir haben
+
+35
+00:01:09,310 --> 00:01:11,210
+das prinzipielle Bestimmen der
+
+36
+00:01:11,210 --> 00:01:12,450
+Steigung an einer Stelle hier einmal
+
+37
+00:01:12,450 --> 00:01:13,790
+vorgeführt. Wir haben hier unsere
+
+38
+00:01:13,790 --> 00:01:15,690
+Ausgangsfunktion f von x, diese ist
+
+39
+00:01:15,690 --> 00:01:19,130
+x² plus 3x minus 1. Und wir wollen im
+
+40
+00:01:19,130 --> 00:01:20,810
+Folgenden die Steigung an der Stelle
+
+41
+00:01:20,810 --> 00:01:23,630
+x gleich 2 bestimmen. Als erstes
+
+42
+00:01:23,630 --> 00:01:24,650
+müssen wir dafür die Ableitung
+
+43
+00:01:24,650 --> 00:01:26,110
+bilden. Das heißt, wenn wir eine
+
+44
+00:01:26,110 --> 00:01:27,830
+normale, ganz rationale Funktion
+
+45
+00:01:27,830 --> 00:01:29,550
+haben, wie wir sie hier sehen, die
+
+46
+00:01:29,550 --> 00:01:31,250
+kein Produkt oder keinen Bruch
+
+47
+00:01:31,250 --> 00:01:33,890
+beinhaltet, dann können wir das
+
+48
+00:01:33,890 --> 00:01:35,270
+einfach mit dem normalen Ableiten
+
+49
+00:01:35,270 --> 00:01:37,450
+machen. Das heißt, wir multiplizieren
+
+50
+00:01:37,450 --> 00:01:39,330
+mit dem Exponenten und erniedrigen
+
+51
+00:01:39,330 --> 00:01:40,930
+diesen anschließend um 1. Das heißt,
+
+52
+00:01:41,030 --> 00:01:45,750
+aus x² wird 2x. Wenn wir ein lineares
+
+53
+00:01:45,750 --> 00:01:47,210
+Glied haben, entfällt das x einfach,
+
+54
+00:01:47,310 --> 00:01:49,530
+also 3x wird abgeleitet zu einer 3
+
+55
+00:01:49,530 --> 00:01:52,230
+und die Konstanten entfallen auch.
+
+56
+00:01:52,350 --> 00:01:54,390
+Die erste Ableitung lautet daher in
+
+57
+00:01:54,390 --> 00:01:57,030
+diesem Fall f' von x ist gleich 2x
+
+58
+00:01:57,030 --> 00:02:00,570
+plus 3. Um jetzt letztendlich die
+
+59
+00:02:00,570 --> 00:02:02,490
+Steigung an der Stelle zu bestimmen,
+
+60
+00:02:02,530 --> 00:02:04,690
+setzen wir nun unsere Stelle in die
+
+61
+00:02:04,690 --> 00:02:06,270
+erste Ableitung ein, das heißt wir
+
+62
+00:02:06,270 --> 00:02:08,750
+bestimmen f' von 2, das ist dann
+
+63
+00:02:08,750 --> 00:02:11,470
+gleich 2 mal 2 plus 3, 2 mal 2 ist 4.
+
+64
+00:02:11,670 --> 00:02:14,190
+und 4 plus 3 ist dann entsprechend
+
+65
+00:02:14,190 --> 00:02:16,730
+die 7. Wir wissen nun also, dass die
+
+66
+00:02:16,730 --> 00:02:19,290
+Steigung der Funktion f von x an der
+
+67
+00:02:19,290 --> 00:02:22,650
+Stelle x gleich 2 7 beträgt. Und
+
+68
+00:02:22,650 --> 00:02:24,110
+damit haben wir die Aufgabe auch
+
+69
+00:02:24,110 --> 00:02:26,470
+schon abgeschlossen. Natürlich sind
+
+70
+00:02:26,470 --> 00:02:28,450
+die Funktionen nicht immer so einfach
+
+71
+00:02:29,050 --> 00:02:31,450
+und man hat auch Funktionen, die
+
+72
+00:02:31,450 --> 00:02:34,110
+nicht ganz rational sind und für
+
+73
+00:02:34,110 --> 00:02:36,030
+diese braucht man dann andere
+
+74
+00:02:36,030 --> 00:02:38,630
+Ableitungsregeln. Drei weitere
+
+75
+00:02:38,630 --> 00:02:40,370
+Ableitungsregeln werden wir uns in
+
+76
+00:02:40,370 --> 00:02:40,650
+laufenden Zeit noch mal vorstellen.
+
+77
+00:02:40,670 --> 00:02:42,170
+das Webinar anschauen. Das sind auch
+
+78
+00:02:42,170 --> 00:02:43,690
+die, die man am meisten dafür
+
+79
+00:02:43,690 --> 00:02:45,910
+braucht. Und dann würde ich sagen,
+
+80
+00:02:45,990 --> 00:02:49,150
+fangen wir eigentlich mal an. Zuerst
+
+81
+00:02:49,150 --> 00:02:50,310
+schauen wir uns die Kettenregel an.
+
+82
+00:02:50,370 --> 00:02:51,670
+Die Kettenregel wird immer dann
+
+83
+00:02:51,670 --> 00:02:53,470
+gebraucht, wenn zwei Funktionen
+
+84
+00:02:53,470 --> 00:02:55,190
+miteinander verknüpft sind. Das
+
+85
+00:02:55,190 --> 00:02:57,930
+heißt, es gibt eine innere und eine
+
+86
+00:02:57,930 --> 00:03:01,670
+äußere Funktion. Das werden wir
+
+87
+00:03:01,670 --> 00:03:02,870
+gleich auch nochmal genauer
+
+88
+00:03:02,870 --> 00:03:05,930
+thematisieren. Ganz klassische
+
+89
+00:03:05,930 --> 00:03:07,810
+Beispiele für die Kettenregel sind
+
+90
+00:03:07,810 --> 00:03:10,350
+Funktionen, wo... exponenten noch
+
+91
+00:03:10,350 --> 00:03:12,350
+eine funktions gleichung steht oder
+
+92
+00:03:12,350 --> 00:03:14,430
+wie hier man hat eine klammer die hat
+
+93
+00:03:14,430 --> 00:03:16,930
+in dem beispiel hoch 1 da braucht man
+
+94
+00:03:16,930 --> 00:03:18,370
+die kettenregel nicht unbedingt aber
+
+95
+00:03:18,370 --> 00:03:19,770
+man kann auch darauf die kettenregel
+
+96
+00:03:19,770 --> 00:03:21,970
+anwenden wenn der exponent aber
+
+97
+00:03:21,970 --> 00:03:24,130
+größer ist also hoch 2 hoch 3 hoch 5
+
+98
+00:03:24,130 --> 00:03:25,710
+und so weiter dann ist die
+
+99
+00:03:25,710 --> 00:03:29,010
+kettenregel unausweichlich ich habe
+
+100
+00:03:29,010 --> 00:03:30,910
+mir gegenbeispiele so was wie f von x
+
+101
+00:03:30,910 --> 00:03:32,910
+gleich 3x oder f von x ist gleich 5 x
+
+102
+00:03:32,910 --> 00:03:35,030
+hoch 3 dort brauchen wir die
+
+103
+00:03:35,030 --> 00:03:37,770
+kettenregel nicht ein weiteres
+
+104
+00:03:37,770 --> 00:03:39,630
+beispiel für Funktionen, wo man die
+
+105
+00:03:39,630 --> 00:03:40,670
+Kettenregel braucht, sind übrigens
+
+106
+00:03:40,670 --> 00:03:42,810
+trigonometrische Funktionen. Wenn man
+
+107
+00:03:42,810 --> 00:03:44,970
+da innerhalb des Sinus oder Kosinus
+
+108
+00:03:44,970 --> 00:03:47,530
+die Funktionsvariable hat, das
+
+109
+00:03:47,530 --> 00:03:48,930
+ableiten möchte, braucht man die
+
+110
+00:03:48,930 --> 00:03:53,690
+Kettenregel zwangsläufig. Und damit
+
+111
+00:03:53,690 --> 00:03:55,370
+führen wir sie jetzt auch einmal vor.
+
+112
+00:03:56,010 --> 00:03:58,210
+Wir beziehen uns jetzt hier auf das
+
+113
+00:03:58,210 --> 00:04:01,650
+Beispiel 3 mal x²-4 hoch 5. Das
+
+114
+00:04:01,650 --> 00:04:03,770
+heißt, das was hier in der Klammer
+
+115
+00:04:03,770 --> 00:04:05,710
+steht, die projiziert wird, ist die
+
+116
+00:04:05,710 --> 00:04:07,290
+innere Funktion, weil die steht im
+
+117
+00:04:07,290 --> 00:04:08,770
+Inneren der Klammern. Ich denke, so
+
+118
+00:04:08,770 --> 00:04:09,530
+kann man sich das ganz gut
+
+119
+00:04:09,530 --> 00:04:12,430
+vorstellen. Und die äußere Funktion
+
+120
+00:04:12,430 --> 00:04:14,390
+ist das, was die innere Funktion
+
+121
+00:04:14,390 --> 00:04:16,750
+umgibt, also 3 mal die Klammer hoch
+
+122
+00:04:16,750 --> 00:04:21,990
+5. Und damit bestimmt wir jetzt die
+
+123
+00:04:21,990 --> 00:04:24,170
+Ableitung. Wenn wir das mit der
+
+124
+00:04:24,170 --> 00:04:26,090
+Kettenregel ableiten, betrachten wir
+
+125
+00:04:26,090 --> 00:04:27,730
+immer folgenden Aufbau. Vf von x ist
+
+126
+00:04:27,730 --> 00:04:29,850
+gleich u von v von x, das heißt v von
+
+127
+00:04:29,850 --> 00:04:32,650
+x ist die innere Funktion und u ist
+
+128
+00:04:32,650 --> 00:04:36,330
+die äußere Funktion. Die erste
+
+129
+00:04:36,330 --> 00:04:39,550
+Ableitung lautet dann v' von x mal u'
+
+130
+00:04:39,670 --> 00:04:42,070
+von v von x. Das heißt innere
+
+131
+00:04:42,070 --> 00:04:44,430
+Funktion abgeleitet mal Ableitung der
+
+132
+00:04:44,430 --> 00:04:47,510
+äußeren Funktion und im Inneren steht
+
+133
+00:04:47,510 --> 00:04:50,330
+immer noch die alte innere
+
+134
+00:04:50,330 --> 00:04:53,090
+Funktionsgleichung. Deswegen ist auch
+
+135
+00:04:53,090 --> 00:04:54,810
+dieser Merksatz innere mal äußere
+
+136
+00:04:54,810 --> 00:04:57,010
+Ableitung geläufig. Denkt bitte
+
+137
+00:04:57,010 --> 00:04:59,870
+daran, hier innerhalb der äußeren
+
+138
+00:04:59,870 --> 00:05:01,450
+Funktionsgleichung passiert nichts,
+
+139
+00:05:01,570 --> 00:05:05,470
+die bleibt gleich. Das heißt, um
+
+140
+00:05:05,470 --> 00:05:06,970
+letztendlich unsere Ableitung zu
+
+141
+00:05:06,970 --> 00:05:08,710
+bestimmen, gehen wir jetzt als erstes
+
+142
+00:05:08,710 --> 00:05:10,730
+hin und bestimmen unsere innere und
+
+143
+00:05:10,730 --> 00:05:12,830
+äußere Ableitung sowie die
+
+144
+00:05:12,830 --> 00:05:17,470
+dazugehörigen Ableitungen. Gut, v von
+
+145
+00:05:17,470 --> 00:05:21,610
+x ist dann gleich x²-4, also unsere
+
+146
+00:05:21,610 --> 00:05:23,590
+innere Funktion, u von x ist gleich
+
+147
+00:05:23,590 --> 00:05:25,490
+3x hoch 5 oder 3x hoch 5. 3 mal eine
+
+148
+00:05:25,490 --> 00:05:28,370
+Klammer hoch 5 und davon bilden wir
+
+149
+00:05:28,370 --> 00:05:30,510
+jetzt die Ableitung. x² ist
+
+150
+00:05:30,510 --> 00:05:32,970
+abgeleitet, 2x, die Minus 4 entfällt.
+
+151
+00:05:33,790 --> 00:05:35,950
+3x hoch 5 oder 3 mal die Klammer hoch
+
+152
+00:05:35,950 --> 00:05:39,170
+5 wird zu 5 mal 3 mal die Klammer
+
+153
+00:05:39,170 --> 00:05:41,490
+hoch 4. Also einfach auch hier mit
+
+154
+00:05:41,490 --> 00:05:43,570
+dem Exponenten multiplizieren und den
+
+155
+00:05:43,570 --> 00:05:45,890
+Exponenten um 1 verringern. Deswegen
+
+156
+00:05:45,890 --> 00:05:47,790
+haben wir nur noch eine hoch 4. 5 mal
+
+157
+00:05:47,790 --> 00:05:50,150
+3 sind dann 15. Folglich haben wir 15
+
+158
+00:05:50,150 --> 00:05:55,090
+mal die Klammer hoch 4. u strich v
+
+159
+00:05:55,090 --> 00:05:58,590
+strich und unser v und können so die
+
+160
+00:05:58,590 --> 00:06:00,930
+erste ableitung stimmen wir setzen
+
+161
+00:06:00,930 --> 00:06:03,110
+jetzt einfach v strich u strich und v
+
+162
+00:06:03,110 --> 00:06:05,570
+an die stellen ein die wir hier sehen
+
+163
+00:06:05,570 --> 00:06:08,370
+das heißt 15 mal klammer auf x
+
+164
+00:06:08,370 --> 00:06:10,250
+quadrat minus vier klammer zu hoch 4
+
+165
+00:06:10,250 --> 00:06:12,090
+also das ist weiterhin unsere innere
+
+166
+00:06:12,090 --> 00:06:14,430
+funktionsgleichung und die 15 mal die
+
+167
+00:06:14,430 --> 00:06:17,450
+klammer hoch 4 ist die neue äußere
+
+168
+00:06:17,450 --> 00:06:19,870
+funktion also die erste ableitung der
+
+169
+00:06:19,870 --> 00:06:23,470
+äußeren Funktion und die mal 2x, die
+
+170
+00:06:23,470 --> 00:06:25,190
+sind die Ableitung der inneren
+
+171
+00:06:25,190 --> 00:06:27,430
+Funktion. Das können wir jetzt in dem
+
+172
+00:06:27,430 --> 00:06:30,090
+Fall noch vereinfachen. 15 mal 2x
+
+173
+00:06:30,090 --> 00:06:33,990
+sind 30x und so kommen wir zu 30x mal
+
+174
+00:06:33,990 --> 00:06:36,370
+Klammer auf x² minus 4 Klammer zu
+
+175
+00:06:36,370 --> 00:06:39,210
+hoch 4 und damit haben wir nun
+
+176
+00:06:39,210 --> 00:06:41,050
+erfolgreich unsere erste Ableitung
+
+177
+00:06:41,050 --> 00:06:43,890
+bestimmt. Wir haben hierzu noch ein
+
+178
+00:06:43,890 --> 00:06:46,510
+weiteres Beispiel. Das zeigt jetzt
+
+179
+00:06:46,510 --> 00:06:49,950
+wirklich, es ist etwas kürzer. Und so
+
+180
+00:06:49,950 --> 00:06:51,130
+wird das auch oftmals wirklich
+
+181
+00:06:51,130 --> 00:06:52,070
+aufgeschrieben, wenn man das
+
+182
+00:06:52,070 --> 00:06:53,090
+berechnet, weil es hat so noch eine
+
+183
+00:06:53,090 --> 00:06:55,230
+gute Übersichtlichkeit und es geht
+
+184
+00:06:55,230 --> 00:06:56,890
+schon in einem angemessenen Tempo.
+
+185
+00:06:57,750 --> 00:06:59,330
+Wir haben in dem Fall das Beispiel f
+
+186
+00:06:59,330 --> 00:07:01,530
+von x ist gleich 1 halb mal x² minus
+
+187
+00:07:01,530 --> 00:07:04,570
+3x plus 1, das Ganze hoch 3. Wir
+
+188
+00:07:04,570 --> 00:07:06,090
+schreiben als erstes unsere innere
+
+189
+00:07:06,090 --> 00:07:07,470
+und unsere äußere Funktionsgleichung
+
+190
+00:07:07,470 --> 00:07:09,390
+auf. Die innere Funktionsgleichung V
+
+191
+00:07:09,390 --> 00:07:12,330
+von X ist gleich X² minus 3X plus 1
+
+192
+00:07:12,330 --> 00:07:14,810
+und die äußere Funktionsgleichung U
+
+193
+00:07:14,810 --> 00:07:17,170
+von X ist gleich 1,5 mal Klammer auf
+
+194
+00:07:17,170 --> 00:07:20,770
+Klammer zu hoch 3 oder 1,5X hoch 3.
+
+195
+00:07:20,830 --> 00:07:21,870
+Das kann man sich jetzt vorstellen,
+
+196
+00:07:21,990 --> 00:07:24,330
+wie man möchte. Und am nächsten
+
+197
+00:07:24,330 --> 00:07:28,110
+Schritt leiten wir V und U ab. Das
+
+198
+00:07:28,110 --> 00:07:30,790
+heißt, V' von X ist dann gleich 2X
+
+199
+00:07:30,790 --> 00:07:32,510
+minus 3, einfach die Ableitung
+
+200
+00:07:32,510 --> 00:07:35,290
+hiervon. U' von x ist dann gleich 1
+
+201
+00:07:35,290 --> 00:07:38,230
+halb mal 3 mal die Klammer hoch 2 nur
+
+202
+00:07:38,230 --> 00:07:40,110
+noch Aus 1 halb mal 3 kann man auch
+
+203
+00:07:40,110 --> 00:07:43,730
+einfach 3 halbe machen Und das tragen
+
+204
+00:07:43,730 --> 00:07:46,250
+wir jetzt in den Ansatz ein So kommen
+
+205
+00:07:46,250 --> 00:07:49,510
+wir zu 3 halbe mal Klammer auf x²
+
+206
+00:07:49,510 --> 00:07:53,310
+minus 3x plus 1 Klammer zu hoch 2 mal
+
+207
+00:07:53,310 --> 00:07:55,690
+2x minus 3 Also wie gesagt, das ist
+
+208
+00:07:55,690 --> 00:07:57,130
+weiterhin die ganz normale innere
+
+209
+00:07:57,130 --> 00:07:59,710
+Funktion Diese 3 halbe mal die
+
+210
+00:07:59,710 --> 00:08:01,410
+Klammer hoch 2 ist die Ableitung der
+
+211
+00:08:01,410 --> 00:08:03,870
+äußeren Funktion Und die 2x-3 hier am
+
+212
+00:08:03,870 --> 00:08:05,550
+Ende, das ist die Ableitung der
+
+213
+00:08:05,550 --> 00:08:08,070
+inneren Funktion. Das ist so noch
+
+214
+00:08:08,070 --> 00:08:10,370
+etwas unübersichtlich, daher könnte
+
+215
+00:08:10,370 --> 00:08:13,430
+man das noch vereinfachen, indem man
+
+216
+00:08:13,430 --> 00:08:19,090
+die 3 halbe hier reinzieht. Und damit
+
+217
+00:08:19,090 --> 00:08:22,010
+wären wir auch schon bei der nächsten
+
+218
+00:08:22,010 --> 00:08:23,310
+Ableitungsregel, das ist die
+
+219
+00:08:23,310 --> 00:08:26,630
+Produktregel. Die Produktregel wird
+
+220
+00:08:26,630 --> 00:08:28,130
+immer dann gebraucht, wenn wir zwei
+
+221
+00:08:28,130 --> 00:08:29,330
+Funktionen miteinander
+
+222
+00:08:29,330 --> 00:08:32,270
+multiplizieren. Das heißt, wir sehen
+
+223
+00:08:32,270 --> 00:08:33,830
+hier eine erste Funktion und hier
+
+224
+00:08:33,830 --> 00:08:35,830
+eine zweite Funktion und diese sind
+
+225
+00:08:35,830 --> 00:08:37,290
+durch ein Malzeichen getrennt.
+
+226
+00:08:40,510 --> 00:08:42,710
+Man spricht hier von der ersten und
+
+227
+00:08:42,710 --> 00:08:44,910
+der zweiten Funktion, weil es nicht
+
+228
+00:08:44,910 --> 00:08:47,610
+allzu wichtig ist, als welche von
+
+229
+00:08:47,610 --> 00:08:50,290
+beiden man u bzw. v definiert.
+
+230
+00:08:52,510 --> 00:08:54,090
+Daher spricht man einfach von einer
+
+231
+00:08:54,090 --> 00:08:56,190
+ersten und einer zweiten Funktion und
+
+232
+00:08:56,190 --> 00:08:58,370
+die eine heißt u von x und die andere
+
+233
+00:08:58,370 --> 00:09:02,090
+heißt v von x. Wichtig, es ist nur
+
+234
+00:09:02,090 --> 00:09:03,990
+bei der Produktregel egal, welches U
+
+235
+00:09:03,990 --> 00:09:05,410
+und welches V ist. Bei der
+
+236
+00:09:05,410 --> 00:09:06,690
+Kettenregel, die wir gerade hatten,
+
+237
+00:09:06,830 --> 00:09:08,370
+ist das nicht egal und bei der
+
+238
+00:09:08,370 --> 00:09:10,050
+dritten Ableitungsregel, die gleich
+
+239
+00:09:10,050 --> 00:09:12,350
+folgt, ist dies auch nicht egal. Das
+
+240
+00:09:12,350 --> 00:09:13,930
+ist nur bei der Produktregel so.
+
+241
+00:09:14,210 --> 00:09:15,850
+Warum das so ist, sehen wir auch
+
+242
+00:09:15,850 --> 00:09:18,110
+gleich. Also wie gesagt,
+
+243
+00:09:18,250 --> 00:09:19,730
+Produktregel, wir haben zwei
+
+244
+00:09:19,730 --> 00:09:21,570
+Funktionstherme, die beide unsere
+
+245
+00:09:21,570 --> 00:09:23,030
+Variable enthalten und miteinander
+
+246
+00:09:23,030 --> 00:09:26,450
+multipliziert werden. und daher
+
+247
+00:09:26,450 --> 00:09:28,070
+bilden wir ein Produkt und brauchen
+
+248
+00:09:28,070 --> 00:09:31,510
+entsprechend unsere Produktregel. Wir
+
+249
+00:09:31,510 --> 00:09:33,770
+sehen hier den Aufbau u mal v , das
+
+250
+00:09:33,770 --> 00:09:35,970
+heißt eine der beiden Funktionen, die
+
+251
+00:09:35,970 --> 00:09:37,090
+miteinander multipliziert werden,
+
+252
+00:09:37,130 --> 00:09:39,490
+heißt u , die andere v . Die erste
+
+253
+00:09:39,490 --> 00:09:43,870
+Ableitung lautet dann u' mal v plus u
+
+254
+00:09:43,870 --> 00:09:47,070
+mal v' . Wir sehen, wir haben hier
+
+255
+00:09:47,070 --> 00:09:48,330
+ein Plus, das heißt diese beiden
+
+256
+00:09:48,330 --> 00:09:50,650
+Terme können wir auch tauschen, dann
+
+257
+00:09:50,650 --> 00:09:51,890
+passiert dann nichts mehr, also die
+
+258
+00:09:51,890 --> 00:09:53,210
+beiden Multiplikationen. Ob wir jetzt
+
+259
+00:09:53,210 --> 00:09:56,310
+u' von x mal v von x plus u von x mal
+
+260
+00:09:56,310 --> 00:09:59,450
+v' von x rechnen oder u von x mal v'
+
+261
+00:09:59,590 --> 00:10:02,770
+von x plus u' von x mal v von x, das
+
+262
+00:10:02,770 --> 00:10:04,870
+ist egal. Daher können wir es bei der
+
+263
+00:10:04,870 --> 00:10:07,670
+Produktregel tauschen. Der Merkesatz
+
+264
+00:10:07,670 --> 00:10:10,330
+lautet dahinter erste Funktion
+
+265
+00:10:10,330 --> 00:10:12,010
+abgeleitet mal zweite nicht
+
+266
+00:10:12,010 --> 00:10:14,030
+abgeleitet plus erste Funktion nicht
+
+267
+00:10:14,030 --> 00:10:16,330
+abgeleitet mal zweite abgeleitet. Man
+
+268
+00:10:16,330 --> 00:10:17,770
+multipliziert also jeweils eine
+
+269
+00:10:17,770 --> 00:10:19,730
+abgeleitete Funktion mit der nicht
+
+270
+00:10:19,730 --> 00:10:21,270
+abgeleiteten. Wichtig ist, dass man
+
+271
+00:10:21,270 --> 00:10:23,050
+am Ende beide einmal abgeleitet hat.
+
+272
+00:10:25,550 --> 00:10:30,790
+Und anhand dieses Beispiels werden
+
+273
+00:10:30,790 --> 00:10:31,870
+wir das jetzt weiter verdeutlichen.
+
+274
+00:10:33,330 --> 00:10:35,490
+Wir haben das Beispiel f von x ist
+
+275
+00:10:35,490 --> 00:10:41,730
+gleich 3x² mal 5x³ minus 2x. Unser u
+
+276
+00:10:41,730 --> 00:10:44,390
+von x ist dann 3x², unser v von x ist
+
+277
+00:10:44,390 --> 00:10:47,090
+dann gleich 5x³ minus 2x. Und wir
+
+278
+00:10:47,090 --> 00:10:48,710
+bilden jetzt als erstes die ersten
+
+279
+00:10:48,710 --> 00:10:51,010
+Ableitungen von u und von v. Das
+
+280
+00:10:51,010 --> 00:10:52,730
+heißt, u... Strich von x ist dann 2
+
+281
+00:10:52,730 --> 00:10:56,490
+mal 3x, das sind 6x. V' von x ist
+
+282
+00:10:56,490 --> 00:11:00,050
+dann gleich 3 mal 5x² minus 2. 3 mal
+
+283
+00:11:00,050 --> 00:11:03,950
+5x² sind dann 15x² minus 2. Und damit
+
+284
+00:11:03,950 --> 00:11:06,070
+haben wir unsere vier Terme, die wir
+
+285
+00:11:06,070 --> 00:11:07,350
+brauchen, um die Ableitung zu
+
+286
+00:11:07,350 --> 00:11:10,730
+bestimmen. Wir setzen jetzt unser u,
+
+287
+00:11:10,810 --> 00:11:13,910
+v, u' und v' in den Ansatz für die
+
+288
+00:11:13,910 --> 00:11:16,070
+Ableitung ein. Also u' von x mal v
+
+289
+00:11:16,070 --> 00:11:20,010
+von x plus u von x mal v' von x. Wir
+
+290
+00:11:20,010 --> 00:11:23,550
+kommen so zu 6x mal 5x hoch 3 minus
+
+291
+00:11:23,550 --> 00:11:31,050
+2x plus 3x² mal 15x² minus 2. Das ist
+
+292
+00:11:31,050 --> 00:11:32,210
+prinzipiell schon unsere erste
+
+293
+00:11:32,210 --> 00:11:34,230
+Ableitung. Wenn wir dort jetzt ein x
+
+294
+00:11:34,230 --> 00:11:36,030
+einsetzen würden, hätten wir wirklich
+
+295
+00:11:36,030 --> 00:11:38,610
+die Steigerung an der Stelle. Es ist
+
+296
+00:11:38,610 --> 00:11:41,230
+aber nicht unbedingt zielführend mit
+
+297
+00:11:41,230 --> 00:11:42,710
+diesem Ergebnis weiterzurechnen.
+
+298
+00:11:43,070 --> 00:11:45,410
+Daher sollte man es immer versuchen
+
+299
+00:11:45,410 --> 00:11:47,410
+zu vereinfachen am Ende. Und das
+
+300
+00:11:47,410 --> 00:11:49,210
+machen wir. auch wir multiplizieren
+
+301
+00:11:49,210 --> 00:11:51,190
+die Klammern aus. Man könnte jetzt
+
+302
+00:11:51,190 --> 00:11:54,570
+natürlich fairerweise sagen, dass
+
+303
+00:11:54,570 --> 00:11:56,310
+man, hätten wir hier am Anfang die
+
+304
+00:11:56,310 --> 00:11:57,630
+Klammer aus multipliziert, hätten wir
+
+305
+00:11:57,630 --> 00:11:59,330
+keine Produktregel gebraucht. Das
+
+306
+00:11:59,330 --> 00:12:01,870
+stimmt. Wir werden aber hier nach
+
+307
+00:12:01,870 --> 00:12:03,530
+auch noch ein Beispiel betrachten zur
+
+308
+00:12:03,530 --> 00:12:06,790
+E-Funktion und bei E-Funktionen ist
+
+309
+00:12:06,790 --> 00:12:08,470
+es meistens unausweichlich, dass man
+
+310
+00:12:08,470 --> 00:12:09,930
+die Produktregel braucht, also bei
+
+311
+00:12:09,930 --> 00:12:11,810
+zusammengesetzten E-Funktionen. Dazu
+
+312
+00:12:11,810 --> 00:12:12,670
+haben wir wie gesagt gleich ein
+
+313
+00:12:12,670 --> 00:12:15,610
+Beispiel. Gut, Wir klammern jetzt
+
+314
+00:12:15,610 --> 00:12:17,790
+aber erstmal aus, das heißt 6x mal 5x
+
+315
+00:12:17,790 --> 00:12:21,230
+hoch 3 sind 6x mal minus 2x und 6x
+
+316
+00:12:21,230 --> 00:12:24,350
+mal 5x hoch 3 sind 30x hoch 4, 6x mal
+
+317
+00:12:24,350 --> 00:12:29,070
+minus 2x sind minus 12x², 3x² mal
+
+318
+00:12:29,070 --> 00:12:34,290
+15x² sind 45x hoch 4 und 3x² mal
+
+319
+00:12:34,290 --> 00:12:37,990
+minus 2 sind minus 6x². Und das
+
+320
+00:12:37,990 --> 00:12:38,630
+können wir noch weiter
+
+321
+00:12:38,630 --> 00:12:41,750
+zusammenfassen, 30x hoch 4 plus 45x
+
+322
+00:12:41,750 --> 00:12:45,030
+hoch 4 sind die 75. x hoch 4 minus 12
+
+323
+00:12:45,030 --> 00:12:48,790
+x² minus 6 x² sind die minus 18 x²
+
+324
+00:12:48,790 --> 00:12:50,510
+und das ist jetzt wirklich unsere
+
+325
+00:12:50,510 --> 00:12:52,550
+Ableitung, mit der wir wunderbar
+
+326
+00:12:52,550 --> 00:12:56,760
+weiterrechnen können. Hier haben wir
+
+327
+00:12:56,760 --> 00:12:58,480
+das angekündigte nächste Beispiel mit
+
+328
+00:12:58,480 --> 00:12:59,860
+der e-Funktion. Wir sehen hier,
+
+329
+00:12:59,900 --> 00:13:02,520
+Klammer auf, 1 halb x hoch 3 minus 5x
+
+330
+00:13:02,520 --> 00:13:05,320
+plus 3, Klammer zu, mal e hoch x. Wir
+
+331
+00:13:05,320 --> 00:13:07,620
+haben hier die e-Funktion, die unser
+
+332
+00:13:07,620 --> 00:13:09,800
+x enthält und hier haben wir auch
+
+333
+00:13:09,800 --> 00:13:10,920
+einen Term, der unsere unsere
+
+334
+00:13:10,920 --> 00:13:13,540
+Funktionsvariable x enthält. Folglich
+
+335
+00:13:13,540 --> 00:13:14,640
+brauchen wir auf jeden Fall die
+
+336
+00:13:14,640 --> 00:13:16,580
+Produktregel. Hierbei sei ja noch
+
+337
+00:13:16,580 --> 00:13:18,180
+angemerkt, um die e-Funktion
+
+338
+00:13:18,180 --> 00:13:19,440
+abzuleiten, braucht man eigentlich
+
+339
+00:13:19,440 --> 00:13:21,920
+auch die Kettenregel. Wir haben aber
+
+340
+00:13:21,920 --> 00:13:24,920
+nur e hoch x, daher brauchen wir in
+
+341
+00:13:24,920 --> 00:13:26,140
+dem Fall die Kettenregel nicht, denn
+
+342
+00:13:26,140 --> 00:13:28,880
+e hoch x ist abgeleitet e hoch x. Ihr
+
+343
+00:13:28,880 --> 00:13:30,280
+braucht aber auf jeden Fall die
+
+344
+00:13:30,280 --> 00:13:32,920
+Kettenregel, wenn ihr sowas habt wie
+
+345
+00:13:32,920 --> 00:13:37,220
+e hoch 2x oder noch was komplexeres
+
+346
+00:13:37,220 --> 00:13:39,720
+im Exponenten stehen habt ja, dann
+
+347
+00:13:39,720 --> 00:13:41,720
+braucht ihr die auf jeden Fall, das
+
+348
+00:13:41,720 --> 00:13:44,160
+sei eine Stelle noch angemerkt gut
+
+349
+00:13:45,520 --> 00:13:49,160
+wir definieren als erstes unsere
+
+350
+00:13:49,160 --> 00:13:50,980
+beiden Funktionsgleichungen das heißt
+
+351
+00:13:50,980 --> 00:13:53,080
+u und v wir haben uns entschieden u
+
+352
+00:13:53,080 --> 00:13:54,980
+von x ist gleich 1 halb x hoch 3
+
+353
+00:13:54,980 --> 00:13:57,960
+minus 5x plus 3 und v von x ist
+
+354
+00:13:57,960 --> 00:14:00,220
+einfach e hoch x und als nächstes
+
+355
+00:14:00,220 --> 00:14:01,140
+bestimmen wir von beiden die
+
+356
+00:14:01,140 --> 00:14:02,420
+Ableitung. Wie gerade schon gesagt,
+
+357
+00:14:02,560 --> 00:14:04,460
+die Ableitung von e hoch x ist e hoch
+
+358
+00:14:04,460 --> 00:14:07,940
+x, folglich lautet v' von x gleich e
+
+359
+00:14:07,940 --> 00:14:10,800
+hoch x. Jetzt brauchen wir noch die
+
+360
+00:14:10,800 --> 00:14:13,920
+Ableitung von u von x. u' von x ist
+
+361
+00:14:13,920 --> 00:14:17,000
+dann gleich 3 halbe x² minus 5, also
+
+362
+00:14:17,000 --> 00:14:18,540
+einfach 1 halbe x hoch 3 ist
+
+363
+00:14:18,540 --> 00:14:21,380
+abgeleitet 3 halbe x, minus 5x ist
+
+364
+00:14:21,380 --> 00:14:23,360
+abgeleitet minus 5 und die plus 3
+
+365
+00:14:23,360 --> 00:14:26,240
+entfällt. und das setzen wir jetzt
+
+366
+00:14:26,240 --> 00:14:27,540
+alles wieder in den Ansatz für die
+
+367
+00:14:27,540 --> 00:14:29,040
+erste Ableitung ein und kommen so
+
+368
+00:14:29,040 --> 00:14:31,800
+auf, Klammer auf, 3 halbe x² minus 5,
+
+369
+00:14:31,940 --> 00:14:34,200
+Klammer zu, mal e hoch x plus,
+
+370
+00:14:34,280 --> 00:14:37,120
+Klammer auf, 1 halb x hoch 3 minus 5x
+
+371
+00:14:37,120 --> 00:14:40,020
+plus 3, Klammer zu, mal e hoch x.
+
+372
+00:14:43,120 --> 00:14:44,920
+Und prinzipiell wäre das schon unsere
+
+373
+00:14:44,920 --> 00:14:48,220
+erste Ableitung. Das einzige Problem,
+
+374
+00:14:48,300 --> 00:14:50,300
+was wir hierbei noch haben, ist, wenn
+
+375
+00:14:50,300 --> 00:14:51,640
+wir so eine e-Funktion haben, sollten
+
+376
+00:14:51,640 --> 00:14:53,520
+wir die immer aus... Wenn es
+
+377
+00:14:53,520 --> 00:14:55,580
+irgendwie möglich ist. Dafür müssen
+
+378
+00:14:55,580 --> 00:14:57,200
+wir aber erstmal sorgen, dass hier
+
+379
+00:14:57,200 --> 00:14:58,900
+wirklich beides mal die gleiche e
+
+380
+00:14:58,900 --> 00:15:00,200
+-Funktion steht. Also beides mal e
+
+381
+00:15:00,200 --> 00:15:02,660
+hoch x und nicht einmal e hoch x und
+
+382
+00:15:02,660 --> 00:15:05,740
+einmal 2 e hoch x. Wir haben beides
+
+383
+00:15:05,740 --> 00:15:07,320
+mal schon nur e hoch x, daher können
+
+384
+00:15:07,320 --> 00:15:08,120
+wir das jetzt sorgenfrei
+
+385
+00:15:08,120 --> 00:15:11,100
+zusammenziehen. Also 3 halbe x² minus
+
+386
+00:15:11,100 --> 00:15:14,280
+5 plus 1 halbe x hoch 3 minus 5x plus
+
+387
+00:15:14,280 --> 00:15:15,940
+3. Das steht in dieser Klammer drin.
+
+388
+00:15:15,940 --> 00:15:18,420
+und wenn man das vereinfacht und
+
+389
+00:15:18,420 --> 00:15:20,640
+ordnet, kommt man zu 1 halb x hoch 3
+
+390
+00:15:20,640 --> 00:15:25,220
+plus 3 halbe x Quadrat minus 5x minus
+
+391
+00:15:25,220 --> 00:15:28,300
+2 nur noch, denn minus 5 plus 3 sind
+
+392
+00:15:28,300 --> 00:15:30,800
+minus 2 und diese Klammer mal e hoch
+
+393
+00:15:30,800 --> 00:15:32,320
+x und das ist dann letztendlich auch
+
+394
+00:15:32,320 --> 00:15:35,140
+unsere Lösung. Man sieht, diese erste
+
+395
+00:15:35,140 --> 00:15:37,520
+Ableitung hat damit den gleichen
+
+396
+00:15:37,520 --> 00:15:39,420
+Aufbau wie unsere Funktionsgleichung
+
+397
+00:15:39,420 --> 00:15:41,460
+und hiermit kann man jetzt auch viel
+
+398
+00:15:41,460 --> 00:15:43,360
+schöner weiterrechnen als hiermit.
+
+399
+00:15:45,620 --> 00:15:47,620
+Damit wären wir jetzt auch schon bei
+
+400
+00:15:47,620 --> 00:15:49,460
+der letzten Ableitungsregel, das ist
+
+401
+00:15:49,460 --> 00:15:52,180
+die sogenannte Quotientenregel. Die
+
+402
+00:15:52,180 --> 00:15:53,600
+Quotientenregel wird immer dann
+
+403
+00:15:53,600 --> 00:15:55,480
+gebraucht, wenn ein Bruch vorliegt,
+
+404
+00:15:55,480 --> 00:15:57,540
+der aus einer Zähler- und einer
+
+405
+00:15:57,540 --> 00:15:59,880
+Nennerfunktion besteht. Also jetzt
+
+406
+00:15:59,880 --> 00:16:01,840
+bitte nicht verwechseln. Ihr müsst,
+
+407
+00:16:01,920 --> 00:16:03,040
+damit ihr die Quotientenregel
+
+408
+00:16:03,040 --> 00:16:05,420
+braucht, im Zähler und im Nenner
+
+409
+00:16:05,420 --> 00:16:08,400
+jeweils eure Variable haben. Also in
+
+410
+00:16:08,400 --> 00:16:11,240
+beiden, das ist wirklich wichtig. Und
+
+411
+00:16:11,240 --> 00:16:13,400
+man spricht jetzt auch von u von x
+
+412
+00:16:13,400 --> 00:16:16,640
+ist bei uns die Zählerfunktion, v von
+
+413
+00:16:16,640 --> 00:16:18,560
+x ist bei uns die Nennerfunktion und
+
+414
+00:16:18,560 --> 00:16:19,940
+hier darf man das wirklich auf keinen
+
+415
+00:16:19,940 --> 00:16:21,100
+Fall vertauschen, sonst hat man
+
+416
+00:16:21,100 --> 00:16:24,820
+leider einen Fehler gemacht. Und
+
+417
+00:16:24,820 --> 00:16:27,040
+deswegen spricht man hier auch oft
+
+418
+00:16:27,040 --> 00:16:28,680
+von Zähler- und Nennerfunktion.
+
+419
+00:16:31,940 --> 00:16:33,380
+Unsere Funktionsgleichung f von x hat
+
+420
+00:16:33,380 --> 00:16:35,300
+den Aufbau u von x durch v von x,
+
+421
+00:16:35,340 --> 00:16:36,540
+also u von x ist wie gerade schon
+
+422
+00:16:36,540 --> 00:16:38,200
+gesagt die Zählerfunktion, v von x
+
+423
+00:16:38,200 --> 00:16:39,500
+die Nennerfunktion. Die erste
+
+424
+00:16:39,500 --> 00:16:41,940
+Ableitung lautet dann u' von x mal v
+
+425
+00:16:41,940 --> 00:16:44,100
+von x minus, und deswegen ist es so
+
+426
+00:16:44,100 --> 00:16:46,140
+wichtig, wenn wir subtrahieren hier,
+
+427
+00:16:46,200 --> 00:16:48,060
+daher können wir das nicht mehr
+
+428
+00:16:48,060 --> 00:16:52,160
+vertauschen. Also minus u von x mal
+
+429
+00:16:52,160 --> 00:16:54,200
+v' von x, das Ganze geteilt durch v
+
+430
+00:16:54,200 --> 00:16:57,820
+von x zum Quadrat. Das heißt, wir
+
+431
+00:16:57,820 --> 00:17:00,000
+teilen am Ende durch unsere
+
+432
+00:17:00,000 --> 00:17:03,120
+Nennerfunktion zum Quadrat. Ich würde
+
+433
+00:17:03,120 --> 00:17:04,780
+das auch immer mit einem hoch 2 am
+
+434
+00:17:04,780 --> 00:17:06,220
+Ende stehen lassen, das seht ihr auch
+
+435
+00:17:06,220 --> 00:17:08,200
+gleich, wie das dann aussieht. Und es
+
+436
+00:17:08,200 --> 00:17:11,400
+ist nicht unbedingt immer sinnig, das
+
+437
+00:17:11,400 --> 00:17:12,980
+mit der binomischen Formel zu lösen.
+
+438
+00:17:14,080 --> 00:17:15,960
+Also man könnte es auch formulieren
+
+439
+00:17:15,960 --> 00:17:18,680
+als Zähler abgeleitet mal Nenner
+
+440
+00:17:18,680 --> 00:17:20,880
+minus Zähler mal Nenner abgeleitet
+
+441
+00:17:20,880 --> 00:17:22,720
+und alles durch den Nenner zum
+
+442
+00:17:22,720 --> 00:17:27,950
+Quadrat dividiert. Und damit machen
+
+443
+00:17:27,950 --> 00:17:30,250
+wir dann weiter bzw. wenden wir das
+
+444
+00:17:30,250 --> 00:17:32,010
+mal auf unser Beispiel an. Wir haben
+
+445
+00:17:32,010 --> 00:17:34,610
+f von x ist gleich 2x durch x² minus
+
+446
+00:17:34,610 --> 00:17:37,830
+4. 2x ist unsere Zählerfunktion, x²
+
+447
+00:17:37,830 --> 00:17:39,490
+minus 4. Und hier ist unsere
+
+448
+00:17:39,490 --> 00:17:41,950
+Nennerfunktion. Als erstes bestimmen
+
+449
+00:17:41,950 --> 00:17:44,790
+wir auch hier wieder u' und v'. Die
+
+450
+00:17:44,790 --> 00:17:47,090
+Ableitung von 2x ist einfach 2. Und
+
+451
+00:17:47,090 --> 00:17:50,330
+die Ableitung von x²-4 ist auch 2x.
+
+452
+00:17:51,290 --> 00:17:53,590
+Und damit haben wir unsere vier
+
+453
+00:17:53,590 --> 00:17:55,870
+Funktionstherme bestimmt, die wir
+
+454
+00:17:55,870 --> 00:17:57,050
+jetzt wieder in unseren Ansatz
+
+455
+00:17:57,050 --> 00:17:58,650
+einsetzen. Hier sehen wir diesen
+
+456
+00:17:58,650 --> 00:18:01,350
+nochmal. f' von x ist gleich u' von x
+
+457
+00:18:01,350 --> 00:18:04,850
+mal v von x minus u von x mal v' von
+
+458
+00:18:04,850 --> 00:18:06,750
+x. das Ganze geteilt durch v von x
+
+459
+00:18:06,750 --> 00:18:09,710
+zum Quadrat. In unserem Fall sieht es
+
+460
+00:18:09,710 --> 00:18:11,870
+dann wie folgt aus, 2 mal Klammer auf
+
+461
+00:18:11,870 --> 00:18:15,670
+x² minus 4 Klammer zu minus 2x mal 2x
+
+462
+00:18:15,670 --> 00:18:19,190
+geteilt durch x² minus 4 zum Quadrat.
+
+463
+00:18:21,270 --> 00:18:23,830
+Auch hier ist dies wieder prinzipiell
+
+464
+00:18:23,830 --> 00:18:25,950
+schon unsere Ableitung, aber auch
+
+465
+00:18:25,950 --> 00:18:27,410
+hier gilt natürlich, dass wir es nach
+
+466
+00:18:27,410 --> 00:18:29,310
+Möglichkeit vereinfachen sollten und
+
+467
+00:18:29,310 --> 00:18:31,090
+daher ist dies auch unser nächster
+
+468
+00:18:31,090 --> 00:18:34,030
+Schritt. Als erstes lösen wir die...
+
+469
+00:18:34,050 --> 00:18:38,190
+Klammer auf, 2 mal x² sind 2x², 2 mal
+
+470
+00:18:38,190 --> 00:18:40,970
+minus 4 ist die minus 8 und minus 2x
+
+471
+00:18:40,970 --> 00:18:44,650
+mal 2x sind minus 4x². Am Nenner
+
+472
+00:18:44,650 --> 00:18:45,810
+ändern wir nichts, ich hatte ja
+
+473
+00:18:45,810 --> 00:18:46,790
+gerade gesagt, den lassen wir am
+
+474
+00:18:46,790 --> 00:18:50,030
+besten immer so stehen. Was wir jetzt
+
+475
+00:18:50,030 --> 00:18:52,150
+noch sehen, wir haben hier 2x² minus
+
+476
+00:18:52,150 --> 00:18:53,610
+4x², das können wir auch noch
+
+477
+00:18:53,610 --> 00:18:55,510
+zusammenziehen und kommen so auf
+
+478
+00:18:55,510 --> 00:18:58,670
+minus 2x² minus 8 und das ist jetzt
+
+479
+00:18:58,670 --> 00:19:00,950
+wirklich die finale Darstellungsform,
+
+480
+00:19:01,010 --> 00:19:02,690
+das ist ja schon wesentlich kompakter
+
+481
+00:19:02,690 --> 00:19:03,990
+als... Das, was wir hier oben sehen.
+
+482
+00:19:05,130 --> 00:19:06,670
+Daher ist es immer sinnvoll, es zu
+
+483
+00:19:06,670 --> 00:19:09,630
+vereinfachen. Natürlich haben wir
+
+484
+00:19:09,630 --> 00:19:10,670
+noch ein weiteres Beispiel zur
+
+485
+00:19:10,670 --> 00:19:12,050
+Quotientenregel. Das sehen wir hier.
+
+486
+00:19:12,390 --> 00:19:17,230
+f von x ist gleich 4x²-0,2x±3 durch
+
+487
+00:19:17,230 --> 00:19:21,410
+x±1. Auch hier als erstes definieren
+
+488
+00:19:21,410 --> 00:19:22,590
+wir unsere Zähler- und unsere
+
+489
+00:19:22,590 --> 00:19:24,850
+Nennerfunktion. unsere Zählerfunktion
+
+490
+00:19:24,850 --> 00:19:29,130
+ist 4x²-0,2x±3 und unsere
+
+491
+00:19:29,130 --> 00:19:33,470
+Nennerfunktion ist x±1. Und nun
+
+492
+00:19:33,470 --> 00:19:34,810
+machen wir das, was wir jetzt
+
+493
+00:19:34,810 --> 00:19:36,670
+eigentlich immer gemacht haben, das
+
+494
+00:19:36,670 --> 00:19:39,570
+heißt die beiden Funktionen ableiten,
+
+495
+00:19:39,650 --> 00:19:43,110
+also u' und v' bilden. u' ist dann
+
+496
+00:19:43,110 --> 00:19:49,170
+aus 4x² wird 8x, aus –0,2x wird –0,2
+
+497
+00:19:49,170 --> 00:19:50,870
+und die plus 3 entfällt. So erhalten
+
+498
+00:19:50,870 --> 00:19:57,340
+wir 4u' 8x-0,2. Bei v von x ist es
+
+499
+00:19:57,340 --> 00:19:59,520
+ähnlich. Wir leiten v von x ab,
+
+500
+00:19:59,560 --> 00:20:01,920
+erhalten so v' von x. x abgeleitet
+
+501
+00:20:01,920 --> 00:20:03,300
+ist 1. Wir müssen uns das x hier
+
+502
+00:20:03,300 --> 00:20:04,940
+immer als 1x vorstellen. Dann bleibt
+
+503
+00:20:04,940 --> 00:20:07,520
+die 1 übrig und die plus 1 entfällt.
+
+504
+00:20:08,020 --> 00:20:10,220
+Wir setzen diese vier Terme wieder in
+
+505
+00:20:10,220 --> 00:20:11,820
+den Ansatz ein und kommen so zu,
+
+506
+00:20:11,920 --> 00:20:15,660
+Klammer auf, 8x-0,2, Klammer zu. Das
+
+507
+00:20:15,660 --> 00:20:18,800
+ist wie gesagt unsere Zählerfunktion
+
+508
+00:20:18,800 --> 00:20:22,520
+abgeleitet mal x plus 1, das ist wie
+
+509
+00:20:22,520 --> 00:20:25,440
+gesagt unsere Nennerfunktion minus
+
+510
+00:20:25,440 --> 00:20:28,600
+Klammer auf 4x² minus 0,2x plus 3,
+
+511
+00:20:28,720 --> 00:20:30,820
+das ist einfach unsere Zählerfunktion
+
+512
+00:20:30,820 --> 00:20:33,000
+und das ist die Ableitung unserer
+
+513
+00:20:33,000 --> 00:20:35,880
+Nennerfunktion. Und das Ganze geteilt
+
+514
+00:20:35,880 --> 00:20:40,000
+durch den Nenner zum Quadrat. Und
+
+515
+00:20:40,000 --> 00:20:42,180
+auch hier gilt wieder, prinzipiell
+
+516
+00:20:42,180 --> 00:20:43,620
+ist das schon die erste Ableitung.
+
+517
+00:20:43,980 --> 00:20:44,960
+Aber wir wollen es natürlich
+
+518
+00:20:44,960 --> 00:20:48,120
+vereinfachen. Deshalb lösen wir die
+
+519
+00:20:48,120 --> 00:20:50,120
+Klammern auf. Wir sehen ja hier oben,
+
+520
+00:20:50,140 --> 00:20:51,800
+multiplizieren wir zwei Klammern.
+
+521
+00:20:51,880 --> 00:20:56,060
+Deswegen 8x mal x, 8x mal 1, minus 0
+
+522
+00:20:56,060 --> 00:20:59,700
+,2 mal x und minus 0,2 mal 1. 8x mal
+
+523
+00:20:59,700 --> 00:21:03,080
+x sind die 8x², 8x mal 1 sind die
+
+524
+00:21:03,080 --> 00:21:06,140
+plus 8x, minus 0,2 mal x sind die
+
+525
+00:21:06,140 --> 00:21:09,160
+minus 0,2x und minus 0,2 mal 1 sind
+
+526
+00:21:09,160 --> 00:21:12,720
+die minus 0,2. Hier rechts würde man
+
+527
+00:21:12,720 --> 00:21:13,480
+meinen, Dann ist es vielleicht ein
+
+528
+00:21:13,480 --> 00:21:14,220
+bisschen einfacher, wir
+
+529
+00:21:14,220 --> 00:21:15,560
+multiplizieren die Klammer ja nur mit
+
+530
+00:21:15,560 --> 00:21:17,480
+1, aber wir müssen aufpassen, vor der
+
+531
+00:21:17,480 --> 00:21:19,760
+Klammer steht ein Minus und daher
+
+532
+00:21:19,760 --> 00:21:21,420
+drehen sich alle Vorzeichen innerhalb
+
+533
+00:21:21,420 --> 00:21:23,400
+der Klammer aus. Aus 4x² wird so
+
+534
+00:21:23,400 --> 00:21:27,120
+minus 4x², aus minus 0,2x wird so
+
+535
+00:21:27,120 --> 00:21:29,960
+plus 0,2x und aus der plus 3 wird so
+
+536
+00:21:29,960 --> 00:21:32,620
+eine minus 3. Damit haben wir jetzt
+
+537
+00:21:32,620 --> 00:21:33,560
+schon mal alle unsere Klammern
+
+538
+00:21:33,560 --> 00:21:35,560
+aufgelöst und versuchen jetzt
+
+539
+00:21:35,560 --> 00:21:37,380
+natürlich alles zusammenzufassen, was
+
+540
+00:21:37,380 --> 00:21:39,080
+geht. Ihr seht auch hier wieder, am
+
+541
+00:21:39,080 --> 00:21:42,620
+Nenner machen wir nichts. 8x² minus
+
+542
+00:21:42,620 --> 00:21:50,000
+4x² sind 4x². 8x minus 0,2x plus 0,2x
+
+543
+00:21:50,000 --> 00:21:53,820
+sind einfach plus 8x. Und minus 0,2
+
+544
+00:21:53,820 --> 00:21:57,500
+minus 3 sind minus 3,2. Folglich ist
+
+545
+00:21:57,500 --> 00:22:01,960
+das hier unsere erste Ableitung. Und
+
+546
+00:22:01,960 --> 00:22:04,120
+damit sind wir auch schon am Ende des
+
+547
+00:22:04,120 --> 00:22:06,100
+Webinars. Ich bedanke mich recht
+
+548
+00:22:06,100 --> 00:22:07,580
+herzlich. eure Aufmerksamkeit.
+

@@ -1,0 +1,2036 @@
+1
+00:00:01,140 --> 00:00:03,040
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,040 --> 00:00:05,900
+Hypothesentest, Signifikanzniveau und
+
+3
+00:00:05,900 --> 00:00:08,780
+Fehler erster und zweiter Art. In
+
+4
+00:00:08,780 --> 00:00:10,440
+diesem Webinar werden wir uns primär
+
+5
+00:00:10,440 --> 00:00:11,860
+mit dem Testen von Hypothesen
+
+6
+00:00:11,860 --> 00:00:13,500
+befassen und werden auch auf das
+
+7
+00:00:13,500 --> 00:00:15,600
+Signifikanzniveau sowie den Fehler
+
+8
+00:00:15,600 --> 00:00:17,260
+erster und zweiter Art eingehen.
+
+9
+00:00:17,340 --> 00:00:19,620
+Diese sind wesentliche Bestandteile
+
+10
+00:00:19,620 --> 00:00:22,260
+des Hypothesentests. Ganz zu Anfang
+
+11
+00:00:22,260 --> 00:00:24,480
+schauen wir uns eine kurze Einführung
+
+12
+00:00:24,480 --> 00:00:26,720
+ein, schauen uns an, wofür man den
+
+13
+00:00:26,720 --> 00:00:29,360
+Hypothesentest nutzen kann und wofür
+
+14
+00:00:29,360 --> 00:00:32,100
+dieser gebraucht wird. Danach schauen
+
+15
+00:00:32,100 --> 00:00:33,540
+wir uns die möglichen Fehler eines
+
+16
+00:00:33,540 --> 00:00:36,000
+Hypothesentests an und wir werden
+
+17
+00:00:36,000 --> 00:00:36,980
+auch an einem kurzen Beispiel
+
+18
+00:00:36,980 --> 00:00:39,060
+erklären, warum der Hypothesentest so
+
+19
+00:00:39,060 --> 00:00:40,900
+ausgeführt wird, wie er ausgeführt
+
+20
+00:00:40,900 --> 00:00:42,900
+wird. In diesem Zuge gehen wir dann
+
+21
+00:00:42,900 --> 00:00:44,800
+auf den Fehler erster und zweiter Art
+
+22
+00:00:44,800 --> 00:00:47,240
+ein und dabei auch auf das
+
+23
+00:00:47,240 --> 00:00:50,020
+Signifikanzniveau. So, anschließend
+
+24
+00:00:50,020 --> 00:00:52,580
+werden wir den Hypothesentest einmal
+
+25
+00:00:52,580 --> 00:00:54,100
+komplett durchführen, das heißt den
+
+26
+00:00:54,100 --> 00:00:56,820
+richtigen und werden uns anschauen,
+
+27
+00:00:56,820 --> 00:00:59,300
+wie man H0 und HA wählt und
+
+28
+00:00:59,300 --> 00:01:04,200
+natürlich, wie die Wahl von HA und H0
+
+29
+00:01:04,200 --> 00:01:06,560
+die Rechnung beeinflusst,
+
+30
+00:01:06,580 --> 00:01:07,780
+beziehungsweise vielleicht auch die
+
+31
+00:01:07,780 --> 00:01:10,740
+Ergebnisse. Ganz zum Schluss gehen
+
+32
+00:01:10,740 --> 00:01:12,180
+wir nochmal auf das Wichtigste ein,
+
+33
+00:01:12,240 --> 00:01:14,520
+das heißt, wie man H0 und HA wählt,
+
+34
+00:01:14,520 --> 00:01:16,440
+wird da nochmal explizit gesagt,
+
+35
+00:01:16,540 --> 00:01:18,480
+sowie die Vorder- Nachteile dabei.
+
+36
+00:01:19,640 --> 00:01:21,500
+Gut, kommen wir erstmal darauf
+
+37
+00:01:21,500 --> 00:01:23,760
+zurück, wofür wird der Hypothesentest
+
+38
+00:01:23,760 --> 00:01:27,400
+überhaupt benutzt. Und zwar, ein
+
+39
+00:01:27,400 --> 00:01:28,880
+Hypothesentest ist eigentlich nichts
+
+40
+00:01:28,880 --> 00:01:32,180
+weiter als eine Stichprobe, bei der
+
+41
+00:01:32,820 --> 00:01:34,620
+untersucht wird, ob eine Behauptung
+
+42
+00:01:34,620 --> 00:01:37,620
+wahr oder falsch ist. Dabei geht es
+
+43
+00:01:37,620 --> 00:01:39,880
+dann darum, dass man ein gewisses
+
+44
+00:01:39,880 --> 00:01:41,660
+Intervall aufstellt. Mit diesem
+
+45
+00:01:41,660 --> 00:01:43,680
+Intervall wird dann die Stichprobe
+
+46
+00:01:43,680 --> 00:01:45,780
+überprüft und darauf basierend auf
+
+47
+00:01:45,780 --> 00:01:47,540
+dem Ergebnis kann man sagen, ob eine
+
+48
+00:01:47,540 --> 00:01:50,420
+Behauptung wahr oder falsch ist. Es
+
+49
+00:01:50,420 --> 00:01:51,820
+gibt bei den Hypothesentests immer
+
+50
+00:01:51,820 --> 00:01:53,700
+genau zwei Hypothesen. Das ist einmal
+
+51
+00:01:53,700 --> 00:01:55,700
+die Nullhypothese H0, das ist die
+
+52
+00:01:55,700 --> 00:01:58,140
+Behauptung, und die Gegenhypothese
+
+53
+00:01:58,140 --> 00:02:02,020
+HA, das ist die Gegenbehauptung. Wie
+
+54
+00:02:02,020 --> 00:02:04,160
+genau das dann im Beispiel aussieht,
+
+55
+00:02:04,160 --> 00:02:07,120
+sehen wir gleich. und wir werden uns
+
+56
+00:02:07,120 --> 00:02:08,380
+auf den folgenden Folien dann
+
+57
+00:02:08,380 --> 00:02:09,900
+anschauen, wie so ein Hypothesentest
+
+58
+00:02:09,900 --> 00:02:12,360
+abläuft und worauf zu achten ist.
+
+59
+00:02:12,980 --> 00:02:14,440
+Hier sehen wir jetzt erstmal das
+
+60
+00:02:14,440 --> 00:02:15,840
+Szenario und zwar möchte ein Bauern
+
+61
+00:02:15,840 --> 00:02:18,220
+beweisen, dass mehr als 90% seiner
+
+62
+00:02:18,220 --> 00:02:22,360
+1000 Kühe mindestens 2 Liter Milch
+
+63
+00:02:22,360 --> 00:02:25,180
+pro Tag liefern. Dazu nimmt er einen
+
+64
+00:02:25,180 --> 00:02:28,140
+Stichprobenumfang von 100 Kühen und
+
+65
+00:02:28,140 --> 00:02:31,340
+möchte das beweisen. ist. Als erstes
+
+66
+00:02:31,340 --> 00:02:34,760
+geht es jetzt darum, wie wir H0 und
+
+67
+00:02:34,760 --> 00:02:37,220
+HA wählen. Der Bauer könnte sich für
+
+68
+00:02:37,220 --> 00:02:40,360
+H0 oder für HA entscheiden. Hier
+
+69
+00:02:40,360 --> 00:02:42,360
+sehen wir, wie es aussehen würde, was
+
+70
+00:02:42,360 --> 00:02:43,520
+richtig ist. Also es kann natürlich
+
+71
+00:02:43,520 --> 00:02:45,240
+sein, dass H0 richtig ist, also seine
+
+72
+00:02:45,240 --> 00:02:47,580
+Behauptung, dass mehr als 90 Prozent
+
+73
+00:02:47,580 --> 00:02:50,380
+der 1000 Kühe mehr als zwei Liter
+
+74
+00:02:50,380 --> 00:02:54,240
+Milch geben. Wenn das wirklich wahr
+
+75
+00:02:54,240 --> 00:02:56,300
+ist, dann wäre H0 richtig und wenn
+
+76
+00:02:56,300 --> 00:02:57,540
+Wenn der Bauer sich für H0
+
+77
+00:02:57,540 --> 00:02:59,280
+entschieden hat, hat er auch die
+
+78
+00:02:59,280 --> 00:03:00,640
+richtige Entscheidung getroffen.
+
+79
+00:03:01,780 --> 00:03:03,200
+Genau andersrum sieht es natürlich
+
+80
+00:03:03,200 --> 00:03:05,600
+aus, sofern HA richtig ist. In diesem
+
+81
+00:03:05,600 --> 00:03:09,580
+Fall ist HA das Szenario, dass
+
+82
+00:03:09,580 --> 00:03:13,700
+weniger als 90% der Kühe mindestens 2
+
+83
+00:03:13,700 --> 00:03:16,120
+Liter Milch pro Tag abgeben. Hätte er
+
+84
+00:03:16,120 --> 00:03:17,520
+sich in dem Fall auch für HA
+
+85
+00:03:17,520 --> 00:03:19,500
+entschieden, wäre er ebenfalls oder
+
+86
+00:03:19,500 --> 00:03:21,180
+hätte er ebenfalls richtig gelegen.
+
+87
+00:03:21,700 --> 00:03:23,400
+In die beiden Lücken käme dann
+
+88
+00:03:23,400 --> 00:03:24,580
+natürlich die falsche Entscheidung.
+
+89
+00:03:24,580 --> 00:03:26,980
+Das soll heißen, wenn sich der Bauer
+
+90
+00:03:26,980 --> 00:03:30,400
+für H0 entscheidet, HA aber in
+
+91
+00:03:30,400 --> 00:03:31,680
+Wirklichkeit richtig ist, das kann
+
+92
+00:03:31,680 --> 00:03:33,300
+der Bauer ja nicht wissen, dann hätte
+
+93
+00:03:33,300 --> 00:03:34,280
+er die falsche Entscheidung
+
+94
+00:03:34,280 --> 00:03:37,400
+getroffen. Genauso sieht es aus, wenn
+
+95
+00:03:37,400 --> 00:03:39,480
+der Bauer sich für HA entscheiden
+
+96
+00:03:39,480 --> 00:03:42,200
+würde, obwohl in Wirklichkeit H0
+
+97
+00:03:42,200 --> 00:03:45,560
+richtig ist. In diesen beiden roten
+
+98
+00:03:45,560 --> 00:03:46,840
+Feldern finden wir jetzt den Fehler
+
+99
+00:03:46,840 --> 00:03:48,960
+erster und zweiter Art wieder. Das
+
+100
+00:03:48,960 --> 00:03:51,700
+heißt, der Fehler erster Art
+
+101
+00:03:51,700 --> 00:03:54,460
+beschreibt, dass man sich gegen die
+
+102
+00:03:54,460 --> 00:03:56,660
+Nullhypothese entscheidet, obwohl
+
+103
+00:03:56,660 --> 00:04:01,180
+diese richtig ist. Der Fehler zweiter
+
+104
+00:04:01,180 --> 00:04:02,440
+Art ist, dass man sich für die
+
+105
+00:04:02,440 --> 00:04:04,220
+Gegenhypothese entscheidet, obwohl
+
+106
+00:04:04,220 --> 00:04:06,240
+die Nullhypothese richtig ist.
+
+107
+00:04:09,510 --> 00:04:10,490
+Hier sehen wir es auch nochmal
+
+108
+00:04:10,490 --> 00:04:12,550
+ausgeschrieben. Der Fehler erster Art
+
+109
+00:04:12,550 --> 00:04:14,310
+besagt, H0 ist richtig, man
+
+110
+00:04:14,310 --> 00:04:14,990
+entscheidet sich aber
+
+111
+00:04:14,990 --> 00:04:16,390
+fälschlicherweise gegen die
+
+112
+00:04:16,390 --> 00:04:18,870
+Nullhypothese und lehnt die
+
+113
+00:04:18,870 --> 00:04:19,830
+Behauptung somit fest.
+
+114
+00:04:19,850 --> 00:04:22,210
+fälschlicherweise ab. Der Fehler
+
+115
+00:04:22,210 --> 00:04:24,870
+zweiter Art ist, dass H0 falsch ist
+
+116
+00:04:24,870 --> 00:04:25,870
+und man entscheidet sich
+
+117
+00:04:25,870 --> 00:04:27,190
+fälschlicherweise für die
+
+118
+00:04:27,190 --> 00:04:34,200
+Nullhypothese. Wir veranschaulichen
+
+119
+00:04:34,200 --> 00:04:37,460
+jetzt erstmal, was ein Laie
+
+120
+00:04:37,460 --> 00:04:41,280
+vielleicht tun würde. Und zwar, wir
+
+121
+00:04:41,280 --> 00:04:43,940
+erinnern uns, 90% der Kühe sollen
+
+122
+00:04:43,940 --> 00:04:45,420
+mehr als 2 Liter Milch geben. Das ist
+
+123
+00:04:45,420 --> 00:04:46,900
+die Behauptung des Bauers und er
+
+124
+00:04:46,900 --> 00:04:49,880
+macht einen Stichprobenumfang von 100
+
+125
+00:04:49,880 --> 00:04:52,080
+Kühen. Und jetzt könnte man hier
+
+126
+00:04:52,080 --> 00:04:53,340
+einfach hingehen, wir kennen hier die
+
+127
+00:04:53,340 --> 00:04:55,480
+Wahrscheinlichkeit, 90%, wir kennen
+
+128
+00:04:55,480 --> 00:04:57,620
+den Stichprobenumfang 100 Kür und wir
+
+129
+00:04:57,620 --> 00:04:58,640
+könnten jetzt die Wahrscheinlichkeit
+
+130
+00:04:58,640 --> 00:05:02,480
+dafür ausrechnen, dass 0 bis 89 Kür 2
+
+131
+00:05:02,480 --> 00:05:06,460
+Liter Milch geben und 90 bis 100. Das
+
+132
+00:05:06,460 --> 00:05:10,800
+wären dann 41,68% bzw. 58,32%.
+
+133
+00:05:13,100 --> 00:05:14,800
+Jetzt muss man sich natürlich
+
+134
+00:05:14,800 --> 00:05:17,260
+entscheiden, wie sieht die
+
+135
+00:05:17,260 --> 00:05:19,880
+mathematische Verteilung aus? wenn
+
+136
+00:05:19,880 --> 00:05:22,260
+wir uns für H0 bzw. gegen die H0
+
+137
+00:05:22,260 --> 00:05:25,200
+-Hypothese entscheiden. Wenn wir uns
+
+138
+00:05:25,200 --> 00:05:27,920
+für die H0-Hypothese entscheiden und
+
+139
+00:05:27,920 --> 00:05:30,060
+H0 richtig ist, haben wir dort eine
+
+140
+00:05:30,060 --> 00:05:32,440
+Wahrscheinlichkeit von 58,32%. Das
+
+141
+00:05:32,440 --> 00:05:34,060
+ist gar nicht mal so schlecht. Das
+
+142
+00:05:34,060 --> 00:05:35,820
+Problem sitzt hier oben rechts.
+
+143
+00:05:36,440 --> 00:05:38,880
+Sofern wir uns für HA entscheiden und
+
+144
+00:05:38,880 --> 00:05:41,340
+H0 richtig ist, haben wir immer noch
+
+145
+00:05:41,340 --> 00:05:43,800
+eine Wahrscheinlichkeit von 41,68%.
+
+146
+00:05:43,800 --> 00:05:46,300
+Und das ist unser Fehler erster Art.
+
+147
+00:05:47,360 --> 00:05:49,820
+Das heißt... Das Problem dabei ist,
+
+148
+00:05:49,940 --> 00:05:52,980
+dass wir mit einer Wahrscheinlichkeit
+
+149
+00:05:52,980 --> 00:05:55,500
+von mehr als 40% einen Fehler machen.
+
+150
+00:05:56,080 --> 00:05:58,400
+Und das ist für eine Stichprobe
+
+151
+00:05:58,400 --> 00:06:01,200
+absolut unbrauchbar. Das heißt, wir
+
+152
+00:06:01,200 --> 00:06:06,260
+müssen zusehen, wenn wir eine Aussage
+
+153
+00:06:06,260 --> 00:06:08,960
+treffen wollen, muss hier eine kleine
+
+154
+00:06:08,960 --> 00:06:10,400
+Wahrscheinlichkeit stehen. Eine
+
+155
+00:06:10,400 --> 00:06:12,980
+Wahrscheinlichkeit von 40% sagt, dass
+
+156
+00:06:12,980 --> 00:06:16,180
+man bei jedem dritten Versuch
+
+157
+00:06:16,180 --> 00:06:17,000
+eigentlich einmal falsch liegen
+
+158
+00:06:17,000 --> 00:06:20,640
+müsste. es indiskutabel, daher wird
+
+159
+00:06:20,640 --> 00:06:22,280
+das so nicht angewendet. Und daher
+
+160
+00:06:22,280 --> 00:06:24,960
+ist das das Negativbeispiel, wie man
+
+161
+00:06:24,960 --> 00:06:26,440
+es nicht macht und deswegen stand da
+
+162
+00:06:26,440 --> 00:06:28,140
+auch vorhin, wie er Laie das machen
+
+163
+00:06:28,140 --> 00:06:31,920
+würde. Wir gehen jetzt hin und
+
+164
+00:06:31,920 --> 00:06:34,560
+gestalten das Intervall für den
+
+165
+00:06:34,560 --> 00:06:39,320
+Fehler erster Art auf maximal 5%. Und
+
+166
+00:06:39,320 --> 00:06:41,460
+das ist das sogenannte
+
+167
+00:06:41,460 --> 00:06:45,850
+Signifikanzniveau. Das sogenannte
+
+168
+00:06:45,850 --> 00:06:47,670
+Signifikanzniveau ist auch nichts
+
+169
+00:06:47,670 --> 00:06:49,430
+weiter. als die Wahrscheinlichkeit
+
+170
+00:06:49,430 --> 00:06:53,010
+für den Fehler erster Art. Gängig
+
+171
+00:06:53,010 --> 00:07:00,210
+sind dabei 5% oder 2%. Das heißt, wir
+
+172
+00:07:00,210 --> 00:07:02,330
+gehen jetzt genau andersrum hin, wie
+
+173
+00:07:02,330 --> 00:07:05,930
+vorhin. Vorhin hatten wir einfach ein
+
+174
+00:07:05,930 --> 00:07:08,910
+Intervall angenommen und wir haben
+
+175
+00:07:08,910 --> 00:07:12,270
+gemerkt, wir haben über 40% beim
+
+176
+00:07:12,270 --> 00:07:13,450
+Fehler erster Art als
+
+177
+00:07:13,450 --> 00:07:15,410
+Wahrscheinlichkeit. Das war ja viel
+
+178
+00:07:15,410 --> 00:07:18,050
+zu hoch. Wir setzen uns jetzt für den
+
+179
+00:07:18,050 --> 00:07:20,910
+Fehler erster Art die Grenze 5%.
+
+180
+00:07:22,770 --> 00:07:24,490
+Daher müssen wir jetzt genau den
+
+181
+00:07:24,490 --> 00:07:29,160
+anderen Weg gehen. Wir kennen jetzt
+
+182
+00:07:29,160 --> 00:07:30,520
+unser Intervall nicht, wir kennen
+
+183
+00:07:30,520 --> 00:07:32,020
+aber dafür unsere Wahrscheinlichkeit.
+
+184
+00:07:32,260 --> 00:07:35,040
+Das heißt, wir werden jetzt zwei
+
+185
+00:07:35,040 --> 00:07:37,640
+Intervalle aufstellen. Das ist einmal
+
+186
+00:07:37,640 --> 00:07:39,820
+das Intervall für die Nullhypothese
+
+187
+00:07:39,820 --> 00:07:42,400
+und dazu noch das Intervall für die
+
+188
+00:07:42,400 --> 00:07:45,900
+Gegenhypothese. Das eine der beiden
+
+189
+00:07:45,900 --> 00:07:46,960
+Intervalle ist natürlich immer
+
+190
+00:07:46,960 --> 00:07:49,140
+kleiner. und das andere ist natürlich
+
+191
+00:07:49,140 --> 00:07:52,320
+immer entsprechend größer. Welches
+
+192
+00:07:52,320 --> 00:07:53,680
+von diesen beiden Intervallen das
+
+193
+00:07:53,680 --> 00:07:57,480
+kleine und welches das große ist, das
+
+194
+00:07:57,480 --> 00:07:59,080
+ist einfach von der Behauptung
+
+195
+00:07:59,080 --> 00:07:59,760
+abhängig.
+
+196
+00:08:15,240 --> 00:08:17,140
+Wir sehen hier nun eine kleine
+
+197
+00:08:17,140 --> 00:08:20,440
+Tabelle. Und zwar, hier geht es jetzt
+
+198
+00:08:20,440 --> 00:08:22,420
+darum, wie man H0 annehmen kann. Man
+
+199
+00:08:22,420 --> 00:08:24,700
+kann einmal sagen, H0 bedeutet, dass
+
+200
+00:08:24,700 --> 00:08:27,220
+mehr als 90% der Kühe 2 Liter Milch
+
+201
+00:08:27,220 --> 00:08:28,840
+geben. Oder man setzt die
+
+202
+00:08:28,840 --> 00:08:30,300
+Nullhypothese genau entgegengesetzt
+
+203
+00:08:30,300 --> 00:08:32,480
+und sagt, dass wenig. weniger als 90%
+
+204
+00:08:32,480 --> 00:08:34,720
+der Kühe 2 Liter Milch geben.
+
+205
+00:08:36,100 --> 00:08:37,740
+Entsprechend würden sich auch die
+
+206
+00:08:37,740 --> 00:08:39,500
+Intervalle verschieben. Das hier ist
+
+207
+00:08:39,500 --> 00:08:40,660
+aber nicht das Intervall für unsere
+
+208
+00:08:40,660 --> 00:08:42,840
+Wahrscheinlichkeit, sondern das
+
+209
+00:08:42,840 --> 00:08:44,860
+Intervall für unsere Stichprobe. Also
+
+210
+00:08:44,860 --> 00:08:49,040
+wenn 0 bis 89 Kühe weniger als 2
+
+211
+00:08:49,040 --> 00:08:50,760
+Liter Milch geben, wäre die
+
+212
+00:08:50,760 --> 00:08:53,200
+Gegenhypothese bestätigt. Wenn mehr
+
+213
+00:08:53,200 --> 00:08:55,580
+als 90 Kühe 2 Liter Milch geben, wäre
+
+214
+00:08:55,580 --> 00:08:57,280
+die Nullhypothese bestätigt.
+
+215
+00:08:57,280 --> 00:08:58,920
+bestätigt. Wir stellen gleich
+
+216
+00:08:58,920 --> 00:09:00,200
+natürlich ein anderes Intervall auf.
+
+217
+00:09:02,020 --> 00:09:03,520
+Entsprechend andersrum ist es, wenn
+
+218
+00:09:03,520 --> 00:09:07,020
+wir H0 so annehmen, dass weniger als
+
+219
+00:09:07,020 --> 00:09:09,020
+90% der Kühe 2 Liter Milch geben.
+
+220
+00:09:09,300 --> 00:09:11,660
+Wenn wir dann von 0 bis 89 Kühe
+
+221
+00:09:15,220 --> 00:09:17,780
+weniger als 2 Liter Milch geben, ist
+
+222
+00:09:17,780 --> 00:09:21,340
+H0 bestätigt und wenn von 90 bis 100
+
+223
+00:09:21,340 --> 00:09:23,860
+Kühe, also mehr als 90 Kühe oder
+
+224
+00:09:23,860 --> 00:09:26,680
+mindestens 90 Kühe, 2 Liter Milch
+
+225
+00:09:26,680 --> 00:09:29,460
+geben, dann ist die Gegenhypothese HA
+
+226
+00:09:29,460 --> 00:09:31,900
+bestätigt. So sieht man, dass man,
+
+227
+00:09:31,960 --> 00:09:34,220
+wenn man die Nullhypothese H0 anders
+
+228
+00:09:34,220 --> 00:09:36,380
+wählt, sich auch HA und H0
+
+229
+00:09:36,380 --> 00:09:38,120
+vertauschen bzw. die beiden
+
+230
+00:09:38,120 --> 00:09:38,740
+Intervalle dazu.
+
+231
+00:09:42,480 --> 00:09:44,340
+Wir hatten diesen Fall ja gerade
+
+232
+00:09:44,340 --> 00:09:47,200
+beachtet oder uns dafür entschieden.
+
+233
+00:09:47,340 --> 00:09:49,020
+Wir hatten dafür HA eine
+
+234
+00:09:49,020 --> 00:09:51,360
+Wahrscheinlichkeit von 41,68% und
+
+235
+00:09:51,360 --> 00:09:55,160
+eine Wahrscheinlichkeit von 58,3%. 2%
+
+236
+00:09:55,160 --> 00:09:56,400
+für H0.
+
+237
+00:09:59,860 --> 00:10:01,980
+Nun wollen wir unser
+
+238
+00:10:01,980 --> 00:10:03,700
+Signikschikanzniveau anbringen. Das
+
+239
+00:10:03,700 --> 00:10:07,180
+heißt, dieses ist in der Regel auf 5%
+
+240
+00:10:07,180 --> 00:10:09,120
+gesetzt oder eben auch auf 2%. Das
+
+241
+00:10:09,120 --> 00:10:11,540
+ist auch ein gängiger Wert dazu. Und
+
+242
+00:10:11,540 --> 00:10:13,640
+wir sagen jetzt, wir möchten den
+
+243
+00:10:13,640 --> 00:10:16,440
+Fehler erster Art minimieren. Das
+
+244
+00:10:16,440 --> 00:10:19,540
+heißt, wir wollen bei HA die
+
+245
+00:10:19,540 --> 00:10:21,300
+Wahrscheinlichkeit von 0 bis K
+
+246
+00:10:21,300 --> 00:10:24,200
+Treffer auf kleiner gleich 5% setzen
+
+247
+00:10:24,200 --> 00:10:26,600
+und die Wahrscheinlichkeit von K plus
+
+248
+00:10:26,600 --> 00:10:29,600
+1 bis 100 Treffer, also mindestens K
+
+249
+00:10:29,600 --> 00:10:32,680
+plus 1 Treffer auf mindestens 95%.
+
+250
+00:10:32,680 --> 00:10:35,020
+Einfach nur, damit wir eine
+
+251
+00:10:35,020 --> 00:10:37,760
+aussagekräftige Aussage treffen
+
+252
+00:10:37,760 --> 00:10:38,120
+können.
+
+253
+00:10:40,800 --> 00:10:44,300
+Und diese Information nutzen wir, um
+
+254
+00:10:44,300 --> 00:10:47,580
+ein neues Intervall zu berechnen. Das
+
+255
+00:10:47,580 --> 00:10:49,820
+heißt, wir nehmen nicht diese beiden
+
+256
+00:10:49,820 --> 00:10:51,740
+vorgegebenen Intervalle, wir
+
+257
+00:10:51,740 --> 00:10:53,020
+berechnen jetzt unser eigenes
+
+258
+00:10:53,020 --> 00:10:54,100
+Intervall. Das ist einmal das
+
+259
+00:10:54,100 --> 00:10:56,900
+Intervall von 0 bis K und das
+
+260
+00:10:56,900 --> 00:10:59,760
+Intervall K plus 1 minus 100. Das
+
+261
+00:10:59,760 --> 00:11:01,420
+wird oftmals als die sogenannte
+
+262
+00:11:01,420 --> 00:11:03,060
+Entscheidungsregel genannt, ob man
+
+263
+00:11:03,060 --> 00:11:04,480
+dem Bauern jetzt glauben soll oder
+
+264
+00:11:04,480 --> 00:11:05,160
+eben nicht.
+
+265
+00:11:09,640 --> 00:11:11,260
+Die Rechnung dazu ist eigentlich
+
+266
+00:11:11,260 --> 00:11:13,720
+recht simpel. Man sucht einfach aus
+
+267
+00:11:13,720 --> 00:11:16,120
+einem Tabellenwerk. den Wert raus.
+
+268
+00:11:16,380 --> 00:11:17,440
+Man braucht dafür die
+
+269
+00:11:17,440 --> 00:11:18,660
+Wahrscheinlichkeit p, die ist bei uns
+
+270
+00:11:18,660 --> 00:11:21,340
+0,9. Den Stichprobenumfang, das ist
+
+271
+00:11:21,340 --> 00:11:23,820
+bei uns 100. Und man sucht dann den
+
+272
+00:11:23,820 --> 00:11:25,920
+Wert raus, wo zuletzt die Bedingung
+
+273
+00:11:25,920 --> 00:11:28,640
+erfüllt ist. Das heißt, von 0 bis k,
+
+274
+00:11:28,720 --> 00:11:29,560
+das ist die kumulierte
+
+275
+00:11:29,560 --> 00:11:31,900
+Wahrscheinlichkeit. Das heißt, wir
+
+276
+00:11:31,900 --> 00:11:32,960
+suchen die kumulierte
+
+277
+00:11:32,960 --> 00:11:35,860
+Wahrscheinlichkeit für 100 Versuche
+
+278
+00:11:35,860 --> 00:11:39,600
+bei p gleich 0,9. Für die noch gilt,
+
+279
+00:11:39,760 --> 00:11:41,200
+dass die Wahrscheinlichkeit kleiner
+
+280
+00:11:41,200 --> 00:11:42,420
+gleich 5% ist.
+
+281
+00:11:46,080 --> 00:11:48,100
+Beziehungsweise, für das Intervall,
+
+282
+00:11:48,120 --> 00:11:51,520
+ja, für das gilt, dass die
+
+283
+00:11:51,520 --> 00:11:53,060
+Wahrscheinlichkeit kleiner gleich 5%
+
+284
+00:11:53,060 --> 00:11:56,560
+ist. Das Tabellenwert wird uns dann
+
+285
+00:11:56,560 --> 00:11:59,020
+ein K von 84 ausgeben. Die andere
+
+286
+00:11:59,020 --> 00:12:00,240
+Möglichkeit ist es, wenn man einen
+
+287
+00:12:00,240 --> 00:12:01,900
+grafischen Taschenrechner hat, kann
+
+288
+00:12:01,900 --> 00:12:03,120
+man die kumulierte Wahrscheinlichkeit
+
+289
+00:12:03,120 --> 00:12:04,900
+automatisch in einer Tabelle erzeugen
+
+290
+00:12:04,900 --> 00:12:07,480
+lassen und sich so die Tabelle, die
+
+291
+00:12:07,480 --> 00:12:09,580
+man im Tabellenwerk findet, mittels
+
+292
+00:12:09,580 --> 00:12:10,840
+des Taschenrechners erstellen lassen.
+
+293
+00:12:10,840 --> 00:12:16,120
+Das heißt, wir wissen nun, wir
+
+294
+00:12:16,120 --> 00:12:18,460
+entscheiden uns für die
+
+295
+00:12:18,460 --> 00:12:21,280
+Gegenhypothese bis einschließlich 84
+
+296
+00:12:21,280 --> 00:12:24,760
+Kühe und ab 85 Kühen würden wir uns
+
+297
+00:12:24,760 --> 00:12:26,840
+für die H0-Hypothese entscheiden und
+
+298
+00:12:26,840 --> 00:12:28,460
+dem Bauern zustimmen.
+
+299
+00:12:34,820 --> 00:12:36,260
+Wir haben jetzt die beiden Intervalle
+
+300
+00:12:36,260 --> 00:12:38,760
+gebildet und das war jetzt auch schon
+
+301
+00:12:38,760 --> 00:12:39,900
+unsere Entscheidungsregel.
+
+302
+00:12:43,620 --> 00:12:45,620
+Und wir fassen das Ganze jetzt noch
+
+303
+00:12:45,620 --> 00:12:48,440
+einmal zusammen. Wir versuchen bei
+
+304
+00:12:48,440 --> 00:12:51,740
+dem Hypothesentest eine Behauptung zu
+
+305
+00:12:51,740 --> 00:12:54,220
+bestätigen oder zu widerlegen. Dazu
+
+306
+00:12:54,220 --> 00:12:55,440
+haben wir gerade diese
+
+307
+00:12:55,440 --> 00:13:00,020
+Entscheidungsregel gebildet. Der
+
+308
+00:13:00,020 --> 00:13:01,320
+Hypothesentest basiert einfach
+
+309
+00:13:01,320 --> 00:13:03,760
+darauf, dass man versucht, den Fehler
+
+310
+00:13:03,760 --> 00:13:05,980
+erster Art zu minimieren. Das ist das
+
+311
+00:13:05,980 --> 00:13:09,820
+mit dieser 5%-Annahme. Und so
+
+312
+00:13:09,820 --> 00:13:11,000
+versucht man einfach, die
+
+313
+00:13:11,000 --> 00:13:12,880
+mathematische Wahrscheinlichkeit für
+
+314
+00:13:12,880 --> 00:13:15,340
+die Gegenhypothese gering zu halten.
+
+315
+00:13:16,080 --> 00:13:18,060
+Und das macht man, wie gesagt, über
+
+316
+00:13:18,060 --> 00:13:19,980
+das Signifikanzniveau. Das waren
+
+317
+00:13:19,980 --> 00:13:23,620
+gerade die 5%. Und basierend auf
+
+318
+00:13:23,620 --> 00:13:25,120
+diesem bildet man die beiden
+
+319
+00:13:25,120 --> 00:13:25,860
+Intervalle.
+
+320
+00:13:32,720 --> 00:13:36,020
+Jetzt ist die Frage, und zwar müssen
+
+321
+00:13:36,020 --> 00:13:38,680
+wir uns daran orientieren, wie die
+
+322
+00:13:38,680 --> 00:13:41,340
+Behauptung ausgelegt ist. dass
+
+323
+00:13:44,340 --> 00:13:49,640
+entweder, also wenn wir ein großes p%
+
+324
+00:13:49,640 --> 00:13:52,960
+haben oder ein kleines p%, dann wird
+
+325
+00:13:52,960 --> 00:13:55,440
+unsere Nullhypothese H0 entweder dem
+
+326
+00:13:55,440 --> 00:13:57,920
+größeren Intervall und damit
+
+327
+00:13:57,920 --> 00:13:59,680
+natürlich zwangsläufig die
+
+328
+00:13:59,680 --> 00:14:01,120
+Gegenhypothese dem kleineren
+
+329
+00:14:01,120 --> 00:14:04,580
+Intervall zugeordnet, oder H0 wird
+
+330
+00:14:04,580 --> 00:14:06,540
+dem kleineren Intervall und HA somit
+
+331
+00:14:06,540 --> 00:14:07,800
+dem größeren Intervall zugeordnet.
+
+332
+00:14:07,880 --> 00:14:09,100
+Das heißt, das ist, denke ich,
+
+333
+00:14:09,140 --> 00:14:11,600
+logisch, wir können nur, entweder wir
+
+334
+00:14:11,600 --> 00:14:12,920
+geben der Hand eine Nullhypothese,
+
+335
+00:14:12,940 --> 00:14:17,060
+Oder wir geben der Gegenhypothese das
+
+336
+00:14:17,060 --> 00:14:21,040
+große Intervall. Die Frage dabei ist
+
+337
+00:14:21,040 --> 00:14:23,580
+natürlich nur, wie wählt man das oder
+
+338
+00:14:23,580 --> 00:14:26,100
+in welchem Fall gibt man der
+
+339
+00:14:26,100 --> 00:14:29,260
+Nullhypothese das kleine Intervall.
+
+340
+00:14:30,360 --> 00:14:32,200
+Dazu haben wir unsere Frage mal
+
+341
+00:14:32,200 --> 00:14:34,620
+erweitert. Und zwar, wie ändert sich
+
+342
+00:14:34,620 --> 00:14:36,280
+der Hypothesentest, wenn ich der
+
+343
+00:14:36,280 --> 00:14:37,900
+Bauer diese Behauptung bestätigen
+
+344
+00:14:37,900 --> 00:14:39,420
+möchte? Also wie auf der letzten
+
+345
+00:14:39,420 --> 00:14:40,340
+Folie, da sind wir immer davon
+
+346
+00:14:40,340 --> 00:14:41,400
+ausgegangen, der Bauer möchte dies
+
+347
+00:14:41,400 --> 00:14:42,880
+bestätigen. sondern ein
+
+348
+00:14:42,880 --> 00:14:45,680
+Qualitätskontrolleur. Und dieser
+
+349
+00:14:45,680 --> 00:14:47,480
+Qualitätskontrolleur will diese
+
+350
+00:14:47,480 --> 00:14:51,080
+Behauptung widerlegen. In dem Moment,
+
+351
+00:14:51,220 --> 00:14:53,960
+wo der Qualitätskontrolleur die
+
+352
+00:14:53,960 --> 00:14:55,960
+Behauptung widerlegen möchte,
+
+353
+00:14:56,220 --> 00:14:58,860
+entscheidet er sich für den unteren
+
+354
+00:14:58,860 --> 00:15:01,620
+Fall. Für ihn ist H0 der Fall, dass
+
+355
+00:15:01,620 --> 00:15:04,680
+weniger als 90% der Kühe 2 Liter
+
+356
+00:15:04,680 --> 00:15:09,600
+Milch geben. Und jetzt wird das obere
+
+357
+00:15:09,600 --> 00:15:12,560
+Intervall... Das heißt, wir
+
+358
+00:15:12,560 --> 00:15:16,000
+minimieren jetzt das Intervall für
+
+359
+00:15:16,000 --> 00:15:19,200
+die Gegenwahrscheinlichkeit bzw. für
+
+360
+00:15:19,200 --> 00:15:21,160
+die Gegenhypothese.
+
+361
+00:15:23,230 --> 00:15:26,270
+Der Gedankengang dabei ist genau das
+
+362
+00:15:26,270 --> 00:15:27,670
+gleiche. Wir nehmen jetzt das
+
+363
+00:15:27,670 --> 00:15:30,030
+Intervall k plus 1 bis 100 und das
+
+364
+00:15:30,030 --> 00:15:33,230
+soll kleiner gleich 5% sein. Diese
+
+365
+00:15:33,230 --> 00:15:34,530
+Wahrscheinlichkeit lesen wir auch
+
+366
+00:15:34,530 --> 00:15:36,350
+wieder aus unserem Tabellenbuch ab.
+
+367
+00:15:37,790 --> 00:15:40,110
+Damit das aber geht, das ist ja
+
+368
+00:15:40,110 --> 00:15:43,290
+mindestens K plus 1 Treffer und
+
+369
+00:15:43,290 --> 00:15:45,030
+mindestens Treffer findet man leider
+
+370
+00:15:45,030 --> 00:15:48,370
+nicht in einem Tabellenwerk, denn im
+
+371
+00:15:48,370 --> 00:15:49,750
+Tabellenwerk steht nur die kumulierte
+
+372
+00:15:49,750 --> 00:15:50,770
+Wahrscheinlichkeit, das ist die
+
+373
+00:15:50,770 --> 00:15:55,330
+höchstens. Das heißt, wenn wir haben
+
+374
+00:15:55,330 --> 00:15:59,110
+mindestens
+
+375
+00:15:59,110 --> 00:16:03,190
+k Treffer ist kleiner gleich 5%, dann
+
+376
+00:16:03,190 --> 00:16:04,750
+heißt das, wir haben 1 minus
+
+377
+00:16:04,750 --> 00:16:08,430
+höchstens k Treffer bis k, also von 0
+
+378
+00:16:08,430 --> 00:16:09,990
+bis k. Man kann mit dieser
+
+379
+00:16:09,990 --> 00:16:12,550
+Rechenoperation aus diesem Intervall
+
+380
+00:16:12,550 --> 00:16:15,370
+k plus 1 bis 100 das Intervall 0 bis
+
+381
+00:16:15,370 --> 00:16:17,450
+k machen. Das ist die kumulierte
+
+382
+00:16:17,450 --> 00:16:18,270
+Wahrscheinlichkeit.
+
+383
+00:16:21,110 --> 00:16:22,490
+Kleinlichkeit kann man aus
+
+384
+00:16:22,490 --> 00:16:24,930
+Tabellenwerken ablesen. Wichtig dabei
+
+385
+00:16:24,930 --> 00:16:29,570
+ist, die muss jetzt größer gleich 95%
+
+386
+00:16:29,570 --> 00:16:33,290
+sein. Das heißt, wir lesen jetzt ab,
+
+387
+00:16:33,390 --> 00:16:35,430
+wann die Wahrscheinlichkeit über 95%
+
+388
+00:16:35,430 --> 00:16:38,070
+liegt oder das erste Mal bei genau 95
+
+389
+00:16:38,070 --> 00:16:40,170
+% liegt. Wir kommen dann auf einen
+
+390
+00:16:40,170 --> 00:16:42,550
+Wert von 95. Das heißt, unser K ist
+
+391
+00:16:42,550 --> 00:16:45,610
+in diesem Fall 95. Und so können wir
+
+392
+00:16:45,610 --> 00:16:46,630
+wieder unsere beiden Intervalle
+
+393
+00:16:46,630 --> 00:16:49,550
+bestimmen. Das Intervall für die
+
+394
+00:16:49,550 --> 00:16:52,870
+Nullhypothese reicht dann von 0 bis
+
+395
+00:16:52,870 --> 00:16:55,830
+95 Das Intervall für die
+
+396
+00:16:55,830 --> 00:16:58,350
+Gegenhypothese reicht von 96 bis 100
+
+397
+00:16:59,510 --> 00:17:02,430
+Zur Erinnerung, bei der
+
+398
+00:17:02,430 --> 00:17:05,370
+Gegenhypothese HA würden wir dem
+
+399
+00:17:05,370 --> 00:17:08,450
+Bauer zustimmen Die Nullhypothese ist
+
+400
+00:17:08,450 --> 00:17:10,710
+ja, dass weniger als 90% der Kühe 2
+
+401
+00:17:10,710 --> 00:17:13,670
+Liter Milch geben Und jetzt steht man
+
+402
+00:17:13,670 --> 00:17:16,210
+vor einem kleinen Problem Der Bauer
+
+403
+00:17:16,210 --> 00:17:18,630
+würde obiges Intervall nehmen. Für
+
+404
+00:17:18,630 --> 00:17:20,870
+ihn ist die H0-Hypothese erfüllt bei
+
+405
+00:17:20,870 --> 00:17:25,410
+85 bis 100. Das heißt, er sagt dann,
+
+406
+00:17:25,510 --> 00:17:27,810
+H0-Hypothese mehr als 95 Prozent der
+
+407
+00:17:27,810 --> 00:17:29,630
+Kühe geben zwei Liter Milch und seine
+
+408
+00:17:29,630 --> 00:17:32,610
+Gegenhypothese wäre, dass weniger als
+
+409
+00:17:32,610 --> 00:17:34,410
+90 Prozent zwei Liter Milch geben,
+
+410
+00:17:34,530 --> 00:17:38,790
+wäre von 0 bis 84. Der Kontrolleur
+
+411
+00:17:38,790 --> 00:17:40,070
+betrachtet natürlich die andere
+
+412
+00:17:40,070 --> 00:17:41,810
+Seite. Er möchte dem Bau
+
+413
+00:17:41,810 --> 00:17:43,030
+widersprechen oder seine seine
+
+414
+00:17:43,030 --> 00:17:45,070
+Behauptung widerlegen. Deswegen hat
+
+415
+00:17:45,070 --> 00:17:47,310
+er seine Nullhypothese H0 genau
+
+416
+00:17:47,310 --> 00:17:50,530
+entgegen angesetzt. Er sagt einfach,
+
+417
+00:17:50,690 --> 00:17:53,050
+weniger als 90% der Kühe geben 2
+
+418
+00:17:53,050 --> 00:17:55,110
+Liter Milch und kommt so auf einen
+
+419
+00:17:55,110 --> 00:17:56,990
+Intervall für seine H0-Hypothese von
+
+420
+00:17:56,990 --> 00:17:59,810
+0 bis 95. Zur Erinnerung, diese
+
+421
+00:17:59,810 --> 00:18:01,410
+beiden sind genau entgegensätzlich.
+
+422
+00:18:02,670 --> 00:18:05,310
+Seine Gegenhypothese nimmt er nur an
+
+423
+00:18:05,310 --> 00:18:09,850
+für 96 bis 100 Kühe, die mehr als 2
+
+424
+00:18:09,850 --> 00:18:12,330
+Liter Milch geben. Und jetzt steht
+
+425
+00:18:12,330 --> 00:18:14,290
+man vor dem Problem, wir nehmen jetzt
+
+426
+00:18:14,290 --> 00:18:15,910
+an, es wurden drei Stichproben
+
+427
+00:18:15,910 --> 00:18:18,210
+gemacht. Bei dem kam raus, dass 88,
+
+428
+00:18:18,710 --> 00:18:22,290
+74 und 96 Kühe mehr als zwei Liter
+
+429
+00:18:22,290 --> 00:18:25,910
+Milch geben. Wenn wir die 74 Kühe
+
+430
+00:18:25,910 --> 00:18:29,350
+betrachten, dann sind sich beide
+
+431
+00:18:29,350 --> 00:18:31,490
+einig. Der Bauer hätte seine
+
+432
+00:18:31,490 --> 00:18:33,090
+Gegenhypothese, das heißt, er würde
+
+433
+00:18:33,090 --> 00:18:36,850
+auch einsehen, dass weniger als 90%
+
+434
+00:18:36,850 --> 00:18:39,030
+der Kühe zwei Liter Milch geben. Und
+
+435
+00:18:39,030 --> 00:18:40,430
+der Kontrolleur wäre auch in seinem
+
+436
+00:18:40,430 --> 00:18:42,930
+Bereich. Und sehe seine Aussage
+
+437
+00:18:42,930 --> 00:18:45,890
+bestätigt. Das heißt, er hat ihn ja
+
+438
+00:18:45,890 --> 00:18:47,010
+widersprochen. Also seine
+
+439
+00:18:47,010 --> 00:18:48,790
+Nullhypothese wird bestätigt. Weniger
+
+440
+00:18:48,790 --> 00:18:51,070
+als 90% der Kühe geben 2 Liter Milch.
+
+441
+00:18:51,170 --> 00:18:52,970
+Sie wären sich also beide einig.
+
+442
+00:18:54,950 --> 00:18:57,430
+Anders sieht es aus bei 96.
+
+443
+00:18:57,630 --> 00:18:59,110
+Beziehungsweise genauso sieht es aus
+
+444
+00:18:59,110 --> 00:19:03,310
+bei 96. Der Bauer würde sagen, seine
+
+445
+00:19:03,310 --> 00:19:08,470
+Nullhypothese ist bestätigt. 90%
+
+446
+00:19:08,470 --> 00:19:10,250
+seiner Kühe geben mehr als 2 Liter
+
+447
+00:19:10,250 --> 00:19:12,810
+Milch. Der Kontrolleur sehe seine
+
+448
+00:19:12,810 --> 00:19:15,670
+Gegenhypothese bestätigt. Er muss
+
+449
+00:19:15,670 --> 00:19:17,310
+einsehen, dass der Bauer recht hat.
+
+450
+00:19:17,810 --> 00:19:21,970
+Denn es geben auch laut ihm mehr als
+
+451
+00:19:21,970 --> 00:19:25,330
+90% der Kühe 2 Liter Milch, weil auch
+
+452
+00:19:25,330 --> 00:19:26,910
+er muss auf seine Gegenhypothese
+
+453
+00:19:26,910 --> 00:19:29,150
+umschwenken, beziehungsweise er sein
+
+454
+00:19:29,150 --> 00:19:31,010
+Intervall für seine Gegenhypothese,
+
+455
+00:19:31,010 --> 00:19:33,210
+die dem Bauern recht gibt, enthält
+
+456
+00:19:33,210 --> 00:19:35,410
+auch die 96%. Das heißt, es lehren
+
+457
+00:19:35,410 --> 00:19:38,190
+sich wieder beide einig. Das Problem
+
+458
+00:19:38,190 --> 00:19:42,610
+ist jetzt bei der 88%. Der Bauer sehe
+
+459
+00:19:42,610 --> 00:19:44,790
+seine Aussage bestätigt, weil die 88
+
+460
+00:19:44,790 --> 00:19:46,330
+liegt ja in seinem Intervall für die
+
+461
+00:19:46,330 --> 00:19:48,450
+H0. Das heißt, der Bauer sagt, okay,
+
+462
+00:19:48,570 --> 00:19:51,130
+mehr als 90% der Kühe geben mehr als
+
+463
+00:19:51,130 --> 00:19:53,570
+2 Liter Milch. Der Kontrolleur sieht
+
+464
+00:19:53,570 --> 00:19:55,250
+seine Aussage aber auch bestätigt und
+
+465
+00:19:55,250 --> 00:19:58,030
+sagt, weniger als 90% der Kühe geben
+
+466
+00:19:58,030 --> 00:20:00,790
+2 Liter Milch. Das heißt, in diesem
+
+467
+00:20:00,790 --> 00:20:03,070
+Moment sind sie sich nicht einig und
+
+468
+00:20:03,070 --> 00:20:04,910
+es ist eine Frage der Perspektive.
+
+469
+00:20:06,150 --> 00:20:09,010
+Und damit wären wir auch schon bei
+
+470
+00:20:09,010 --> 00:20:10,430
+den wichtigen Fragen. zu merken, wie
+
+471
+00:20:10,430 --> 00:20:14,790
+man die H0 oder HA-Hypothese annimmt.
+
+472
+00:20:16,750 --> 00:20:18,390
+Es ist ganz wichtig, dass man sich
+
+473
+00:20:18,390 --> 00:20:20,810
+die Aufgabe gut durchliest und dann
+
+474
+00:20:20,810 --> 00:20:23,270
+mit Verstand, also begründet, sich
+
+475
+00:20:23,270 --> 00:20:25,650
+dafür entscheidet, von wem aus man
+
+476
+00:20:25,650 --> 00:20:27,470
+die Hypothese annimmt.
+
+477
+00:20:31,980 --> 00:20:34,580
+Häufig steht eine Behauptung im Text
+
+478
+00:20:34,580 --> 00:20:35,860
+und ich würde sagen, es ist ist
+
+479
+00:20:35,860 --> 00:20:38,120
+eigentlich immer so, dass der
+
+480
+00:20:38,120 --> 00:20:40,660
+Hypothesentest zu der Aussage
+
+481
+00:20:40,660 --> 00:20:42,300
+gegensätzlich durchgeführt werden
+
+482
+00:20:42,300 --> 00:20:43,640
+soll. Das heißt, man schlüpft immer
+
+483
+00:20:43,640 --> 00:20:45,740
+in die Rolle dieses Kontrolleurs. Man
+
+484
+00:20:45,740 --> 00:20:47,060
+versucht, das zu widerlegen.
+
+485
+00:20:53,290 --> 00:20:55,850
+Durch dieses Ungleichheitszeichen
+
+486
+00:20:55,850 --> 00:21:00,390
+legt man dann die H0-Hypothese fest,
+
+487
+00:21:00,610 --> 00:21:04,410
+beziehungsweise das Intervall. Und
+
+488
+00:21:04,410 --> 00:21:08,340
+das sieht man dann auch hier nochmal.
+
+489
+00:21:12,510 --> 00:21:14,870
+einmal h0 geht von 0 bis k und einmal
+
+490
+00:21:14,870 --> 00:21:18,890
+h8 geht von 0 bis k und das ist wie
+
+491
+00:21:18,890 --> 00:21:21,850
+gesagt von den größer kleiner zeichen
+
+492
+00:21:21,850 --> 00:21:23,570
+fest also das ist größer gleich und
+
+493
+00:21:23,570 --> 00:21:26,190
+das ist kleiner hier sehen wir einmal
+
+494
+00:21:26,190 --> 00:21:29,350
+kleiner gleich und größer und
+
+495
+00:21:33,060 --> 00:21:34,920
+wir haben dann hier entsprechend
+
+496
+00:21:34,920 --> 00:21:37,200
+immer unsere fünf prozent unser
+
+497
+00:21:39,160 --> 00:21:40,820
+signifikanzniveau das ist wie gesagt
+
+498
+00:21:40,820 --> 00:21:43,080
+ganz wichtig dass man mit dem dass
+
+499
+00:21:43,080 --> 00:21:44,440
+man auch das signifikanzniveau
+
+500
+00:21:44,440 --> 00:21:46,080
+rausliest, das kann oder wie gesagt,
+
+501
+00:21:46,180 --> 00:21:48,020
+das kann nicht gängig sind, 5
+
+502
+00:21:48,800 --> 00:21:50,560
+beziehungsweise 2%, wobei ich
+
+503
+00:21:50,560 --> 00:21:52,320
+behaupten würde, dass 5% noch um
+
+504
+00:21:52,320 --> 00:21:56,280
+einiges populärer ist als 2%. Das
+
+505
+00:21:56,280 --> 00:21:57,480
+wäre es dann auch schon mit dem
+
+506
+00:21:57,480 --> 00:21:58,920
+Webinar. Ich hoffe, ihr hattet
+
+507
+00:21:58,920 --> 00:22:00,520
+gefallen am Webinar und ich bedanke
+
+508
+00:22:00,520 --> 00:22:01,560
+mich recht herzlich für eure
+
+509
+00:22:01,560 --> 00:22:02,340
+Aufmerksamkeit.
+

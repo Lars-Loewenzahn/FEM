@@ -1,0 +1,1789 @@
+﻿1
+00:00:02,860 --> 00:00:05,760
+So, hello and welcome to the webinar 
+
+2
+00:00:05,760 --> 00:00:08,420
+today in Latin for translating 
+
+3
+00:00:08,420 --> 00:00:10,680
+longer texts. There are 
+
+4
+00:00:10,680 --> 00:00:13,740
+eight of us at the moment . Can you please 
+write in 
+
+5
+00:00:13,740 --> 00:00:16,080
+the chat if you 
+
+6
+00:00:16,080 --> 00:00:18,280
+can hear me and if you 
+
+7
+00:00:18,280 --> 00:00:19,100
+can see the presentation. 
+
+8
+00:00:22,500 --> 00:00:27,780
+Okay, perfect. Very good. Okay, nice to 
+meet you 
+
+9
+00:00:27,780 --> 00:00:30,500
+. Okay, exactly. So my name is 
+
+10
+00:00:30,500 --> 00:00:32,740
+Sarah Fischer. I'm going to 
+
+11
+00:00:32,740 --> 00:00:35,400
+give the presentation first and I 
+
+12
+00:00:35,400 --> 00:00:38,340
+'m open to questions at the end or 
+
+13
+00:00:38,340 --> 00:00:39,800
+if I need to explain something again, 
+
+14
+00:00:39,820 --> 00:00:43,560
+call out something again. Exactly, like 
+this. 
+
+15
+00:00:45,040 --> 00:00:46,680
+So the topic today, as 
+
+16
+00:00:46,680 --> 00:00:48,740
+I said, is the translation of longer 
+
+17
+00:00:48,740 --> 00:00:52,280
+texts into Latin. Yes, first 
+
+18
+00:00:52,280 --> 00:00:53,920
+we'll look at the underlining method, 
+
+19
+00:00:54,060 --> 00:00:57,100
+then the indentation method, then 
+
+20
+00:00:57,100 --> 00:00:59,680
+text indexing and finally there are 
+
+21
+00:00:59,680 --> 00:01:01,000
+a few tips for 
+
+22
+00:01:01,000 --> 00:01:05,500
+translating longer texts. 
+
+23
+00:01:05,500 --> 00:01:08,580
+So that's the text example that 
+
+24
+00:01:08,580 --> 00:01:10,000
+we 
+
+25
+00:01:10,000 --> 00:01:12,500
+'ll have here the whole time. But I'm 
+
+26
+00:01:12,500 --> 00:01:14,400
+just going to read it out now and then 
+
+27
+00:01:14,400 --> 00:01:17,060
+we'll continue working with it. 
+
+28
+00:01:32,620 --> 00:01:36,920
+Illum uno di ficisse intelligierend 
+
+29
+00:01:36,920 --> 00:01:42,600
+legatus ad eum mitunt. Exactly, that's 
+
+30
+00:01:42,600 --> 00:01:46,160
+our text example. And with the 
+
+31
+00:01:46,160 --> 00:01:48,980
+underlining method, the first thing 
+
+32
+00:01:48,980 --> 00:01:50,860
+to do is to mark the predicates 
+
+33
+00:01:50,860 --> 00:01:53,840
+. And also, but preferably 
+
+34
+00:01:53,840 --> 00:01:55,620
+in a different color, the 
+
+35
+00:01:55,620 --> 00:01:58,920
+corresponding subjects. Exactly, here 
+
+36
+00:01:58,920 --> 00:02:01,440
+the first predicate is konfecker 
+
+37
+00:02:04,160 --> 00:02:07,240
+, then Transierend, then Intelligerend 
+
+38
+00:02:07,240 --> 00:02:09,180
+and then Mithund. I would 
+
+39
+00:02:09,180 --> 00:02:11,220
+simply recommend that you 
+
+40
+00:02:11,220 --> 00:02:14,060
+go through the text like this. Is that a 
+predicate? 
+
+41
+00:02:14,140 --> 00:02:17,100
+No, no, no. Just 
+
+42
+00:02:17,100 --> 00:02:19,620
+really 
+
+43
+00:02:19,620 --> 00:02:22,040
+look systematically word by word , okay, 
+is it a predicate? 
+
+44
+00:02:23,500 --> 00:02:26,000
+Exactly. The next step would be to 
+
+45
+00:02:26,260 --> 00:02:29,060
+
+46
+00:02:29,060 --> 00:02:30,440
+mark different introductory words. So all 
+the ones you 
+
+47
+00:02:30,620 --> 00:02:34,540
+can find. In this case, it's cum, it 
+
+48
+00:02:34,540 --> 00:02:36,760
+'s quad and it's ut. 
+
+49
+00:02:39,940 --> 00:02:44,500
+The next step, very important, oh 
+
+50
+00:02:44,500 --> 00:02:47,480
+my God, is to mark sentence-value 
+constructions 
+
+51
+00:02:47,480 --> 00:02:50,880
+. You 
+
+52
+00:02:50,880 --> 00:02:52,760
+often find that you 
+
+53
+00:02:52,760 --> 00:02:55,400
+want to translate things. Many people do 
+it word 
+
+54
+00:02:55,400 --> 00:02:57,460
+for word and if you 
+
+55
+00:02:57,460 --> 00:02:59,060
+ignore the constructions 
+
+56
+00:02:59,060 --> 00:03:00,520
+, nothing 
+
+57
+00:03:00,520 --> 00:03:03,300
+makes sense afterwards. That's right, the 
+
+58
+00:03:03,300 --> 00:03:06,440
+construction of little sentences. Here, 
+
+59
+00:03:06,440 --> 00:03:09,540
+for example, repentino eius 
+
+60
+00:03:09,540 --> 00:03:14,300
+adventu comoti. Exactly, that would be 
+
+61
+00:03:14,300 --> 00:03:15,760
+an applativus 
+
+62
+00:03:15,760 --> 00:03:18,880
+absolutus in this case , recognizable by 
+the fact 
+
+63
+00:03:18,880 --> 00:03:20,960
+that all the words are in the appliative. 
+
+64
+00:03:21,860 --> 00:03:27,600
+Correct. So, then ilum uno die die 
+
+65
+00:03:27,600 --> 00:03:28,300
+fekisse. 
+
+66
+00:03:31,420 --> 00:03:34,220
+Yes, these are our constructions 
+
+67
+00:03:34,220 --> 00:03:38,500
+in this case. So, then you first mark 
+
+68
+00:03:38,500 --> 00:03:41,780
+the main clause. Yes, in this case 
+
+69
+00:03:41,780 --> 00:03:44,520
+it's Helvetii, Repentino, Eius, 
+
+70
+00:03:44,520 --> 00:03:47,780
+Adventu, Komoti, Legatus, Ad, Eum, 
+
+71
+00:03:47,780 --> 00:03:51,480
+Mittund. Yes, of course, it's a long 
+
+72
+00:03:51,480 --> 00:03:52,520
+sentence, so it's sometimes 
+
+73
+00:03:52,520 --> 00:03:53,920
+difficult to 
+
+74
+00:03:53,920 --> 00:03:54,700
+filter out the main clause, so to speak, 
+
+75
+00:03:57,120 --> 00:03:58,800
+but I would still 
+
+76
+00:03:58,800 --> 00:04:00,260
+start with the main clause. I know 
+
+77
+00:04:00,280 --> 00:04:02,020
+some people start 
+
+78
+00:04:02,080 --> 00:04:03,720
+marking subordinate clauses, but it's 
+
+79
+00:04:03,720 --> 00:04:05,340
+easier if you 
+
+80
+00:04:05,340 --> 00:04:10,540
+look for the main clause first. Exactly. 
+Which 
+
+81
+00:04:10,540 --> 00:04:11,840
+might explain how 
+
+82
+00:04:11,840 --> 00:04:13,200
+you can find out that it 
+
+83
+00:04:13,200 --> 00:04:16,180
+'s the main clause. Exactly, so 
+
+84
+00:04:16,180 --> 00:04:19,080
+this cum it is logically 
+
+85
+00:04:19,080 --> 00:04:21,820
+a subordinate clause . Then the quad, we' 
+
+86
+00:04:21,820 --> 00:04:23,160
+ve just marked the introductory words 
+
+87
+00:04:23,160 --> 00:04:25,040
+, and these are all 
+
+88
+00:04:25,040 --> 00:04:28,380
+subordinate clauses, and here illum uno 
+the 
+
+89
+00:04:28,380 --> 00:04:31,760
+ficisse intelliging, we 
+
+90
+00:04:31,760 --> 00:04:34,740
+also know that it's a subordinate clause, 
+precisely 
+
+91
+00:04:34,740 --> 00:04:37,960
+because the construction says so. 
+
+92
+00:04:40,440 --> 00:04:43,900
+So, then you mark the subordinate clause 
+
+93
+00:04:43,900 --> 00:04:45,640
+of the first degree, which is of course 
+also 
+
+94
+00:04:45,640 --> 00:04:47,540
+a difficulty in longer 
+
+95
+00:04:47,540 --> 00:04:49,800
+texts, that subordinate clauses are also 
+
+96
+00:04:49,800 --> 00:04:51,680
+distributed throughout the sentence. That 
+would be 
+
+97
+00:04:51,680 --> 00:04:52,820
+practical if they were all simply 
+
+98
+00:04:52,820 --> 00:04:54,240
+one after the other. 
+
+99
+00:04:54,560 --> 00:04:56,940
+In this case, however, the 1st 
+
+100
+00:04:57,120 --> 00:04:57,500
+degree subordinate clause would be 
+
+101
+00:05:03,600 --> 00:05:05,340
+exact. You can 
+
+102
+00:05:05,340 --> 00:05:06,920
+probably already guess the next step. This 
+is 
+
+103
+00:05:06,920 --> 00:05:10,440
+the 2nd degree subordinate clause that you 
+
+104
+00:05:10,440 --> 00:05:15,020
+should mark. That's yes, 
+
+105
+00:05:18,440 --> 00:05:20,740
+and then comes the 3rd 
+
+106
+00:05:20,900 --> 00:05:23,000
+degree subordinate clause That's the short 
+one here. Ut 
+
+107
+00:05:23,000 --> 00:05:28,380
+flummen transirent. Like this. And then 
+
+108
+00:05:28,380 --> 00:05:29,720
+we can do a translation. 
+
+109
+00:05:31,260 --> 00:05:33,520
+What I 
+
+110
+00:05:33,520 --> 00:05:34,680
+would recommend anyway , you've sort of 
+
+111
+00:05:34,680 --> 00:05:36,860
+assigned everything and thought about 
+where 
+
+112
+00:05:36,860 --> 00:05:41,200
+it belongs and so on, that you still 
+
+113
+00:05:41,200 --> 00:05:44,320
+start with the main clause. So, the 
+
+114
+00:05:44,320 --> 00:05:46,460
+Helvetii were 
+
+115
+00:05:46,460 --> 00:05:50,980
+very moved by his sudden arrival and 
+
+116
+00:05:50,980 --> 00:05:53,060
+so they sent envoys to 
+
+117
+00:05:53,060 --> 00:05:55,940
+him. That would be the translation of the 
+
+118
+00:05:55,940 --> 00:05:58,320
+main clause. And you can also write it 
+
+119
+00:05:58,320 --> 00:06:01,120
+
+120
+00:06:01,120 --> 00:06:02,780
+like that in the exams or whatever. You 
+can 
+
+121
+00:06:02,780 --> 00:06:04,400
+write the main clause at the beginning, 
+then 
+
+122
+00:06:04,400 --> 00:06:06,280
+the subordinate clause of the first 
+degree, second 
+
+123
+00:06:06,280 --> 00:06:08,320
+degree, third degree. You can 
+
+124
+00:06:08,320 --> 00:06:09,460
+do it like this, but then it's 
+
+125
+00:06:09,460 --> 00:06:10,820
+not so nice in German , but it's still 
+
+126
+00:06:10,820 --> 00:06:12,820
+grammatically correct. If 
+
+127
+00:06:12,820 --> 00:06:14,280
+you can do it the way it is here, 
+
+128
+00:06:14,280 --> 00:06:15,360
+then of course everything is fine. 
+
+129
+00:06:15,440 --> 00:06:16,980
+I just wanted to say that there 
+
+130
+00:06:16,980 --> 00:06:19,060
+is another alternative. 
+
+131
+00:06:20,740 --> 00:06:25,920
+Exactly. Then the first 
+
+132
+00:06:25,920 --> 00:06:30,440
+subordinate clause follows. Because they 
+realized that 
+
+133
+00:06:30,440 --> 00:06:32,640
+he 
+
+134
+00:06:32,640 --> 00:06:34,620
+
+135
+00:06:34,740 --> 00:06:37,040
+
+136
+00:06:37,040 --> 00:06:39,440
+had done in a single day what they 
+themselves had spent 20 days doing with 
+extreme difficulty, namely crossing the 
+river. Yes, 
+
+137
+00:06:39,460 --> 00:06:40,480
+and then the 
+
+138
+00:06:40,480 --> 00:06:42,540
+next part of the speech follows. And 
+
+139
+00:06:42,540 --> 00:06:44,560
+so they sent envoys to him. 
+
+140
+00:06:47,160 --> 00:06:48,980
+Yes, here it's more or less, 
+
+141
+00:06:49,120 --> 00:06:51,800
+not as I 
+
+142
+00:06:51,800 --> 00:06:53,400
+mentioned as an option, for example, but 
+here 
+
+143
+00:06:53,400 --> 00:06:55,180
+it's really very 
+
+144
+00:06:55,180 --> 00:06:57,200
+much based on the Latin 
+
+145
+00:06:57,200 --> 00:06:58,000
+sentence. 
+
+146
+00:07:00,880 --> 00:07:05,340
+Yes, exactly. Then, we continue 
+
+147
+00:07:05,340 --> 00:07:08,920
+with the indentation method. This is the 
+
+148
+00:07:08,920 --> 00:07:10,880
+exact same text. Text example, 
+
+149
+00:07:10,960 --> 00:07:12,260
+so I'm not going to 
+
+150
+00:07:12,260 --> 00:07:16,320
+read it out again. Exactly. I 
+
+151
+00:07:16,320 --> 00:07:18,580
+might give you a few moments to 
+
+152
+00:07:18,580 --> 00:07:20,340
+read through that again, but it 
+
+153
+00:07:20,340 --> 00:07:22,140
+'s exactly what we've just 
+
+154
+00:07:22,140 --> 00:07:23,800
+been covering the whole time. 
+
+155
+00:07:33,050 --> 00:07:35,890
+Okay. Yes. Should be enough, I think. 
+
+156
+00:07:35,930 --> 00:07:38,710
+Okay. Yes. In the set-up method, 
+
+157
+00:07:38,710 --> 00:07:40,770
+you write the main and 
+
+158
+00:07:40,770 --> 00:07:43,210
+subordinate clauses one below the other 
+and 
+
+159
+00:07:43,210 --> 00:07:46,070
+, as before, you 
+
+160
+00:07:46,070 --> 00:07:47,990
+use commas and introductions. 
+
+161
+00:07:48,010 --> 00:07:51,870
+words. In other words, this is our 
+
+162
+00:07:51,870 --> 00:07:56,850
+text example here and Helvetii repentino 
+
+163
+00:07:56,850 --> 00:07:59,750
+eius adventu comoti up to the comma, 
+
+164
+00:07:59,750 --> 00:08:03,190
+then you start a new line, 
+
+165
+00:08:03,270 --> 00:08:04,730
+as you can see here, a cum 
+
+166
+00:08:04,730 --> 00:08:08,130
+it, then comes a comma, okay, then 
+
+167
+00:08:08,130 --> 00:08:10,590
+I write Quod ipsi diebus and so 
+
+168
+00:08:10,590 --> 00:08:12,870
+on under the line, then Ut 
+
+169
+00:08:12,870 --> 00:08:16,710
+flumen transirent, new line and so 
+
+170
+00:08:16,710 --> 00:08:19,690
+on. Exactly, what they 
+
+171
+00:08:19,690 --> 00:08:21,910
+'ve done here directly is also 
+
+172
+00:08:21,910 --> 00:08:25,550
+marked the introductory words, but in 
+
+173
+00:08:25,550 --> 00:08:27,390
+this case it's enough if you 
+
+174
+00:08:27,390 --> 00:08:29,250
+
+175
+00:08:29,250 --> 00:08:32,450
+write it in the right order. 
+
+176
+00:08:32,770 --> 00:08:34,850
+I personally find this 
+
+177
+00:08:34,850 --> 00:08:36,250
+option very useful because it gives you 
+
+178
+00:08:36,250 --> 00:08:37,430
+a bit of an 
+
+179
+00:08:37,430 --> 00:08:39,250
+overview. I think you're 
+
+180
+00:08:39,250 --> 00:08:40,830
+otherwise a bit overwhelmed by such a 
+
+181
+00:08:40,830 --> 00:08:42,290
+long text and don't know 
+
+182
+00:08:42,370 --> 00:08:44,930
+what to do now, no? exactly, and 
+
+183
+00:08:44,930 --> 00:08:46,950
+then you just start 
+
+184
+00:08:46,950 --> 00:08:48,530
+
+185
+00:08:48,530 --> 00:08:51,850
+indenting the subordinate clauses 
+according to the degree of dependency. So, 
+
+186
+00:08:51,850 --> 00:08:54,910
+you start with the main clause, then 
+
+187
+00:08:54,910 --> 00:08:57,770
+the subordinate clause of the first degree 
+follows, 
+
+188
+00:08:57,770 --> 00:09:01,410
+then the second degree, then the third and 
+
+189
+00:09:01,410 --> 00:09:03,770
+that belongs to the first again and 
+
+190
+00:09:03,770 --> 00:09:08,450
+that is then the main clause again. Yes, 
+
+191
+00:09:08,450 --> 00:09:11,490
+and so you have a kind of, yes, 
+
+192
+00:09:11,590 --> 00:09:14,510
+graphic exercise. where what belongs and 
+
+193
+00:09:14,510 --> 00:09:16,390
+how you can translate it. 
+
+194
+00:09:17,530 --> 00:09:18,090
+Exactly. 
+
+195
+00:09:20,900 --> 00:09:22,940
+So, let's translate that 
+
+196
+00:09:22,940 --> 00:09:24,560
+one after the other, which I've already 
+
+197
+00:09:24,560 --> 00:09:27,520
+suggested to you a bit. So 
+
+198
+00:09:27,520 --> 00:09:29,820
+just Helvetii, Repentino, Eius, 
+
+199
+00:09:30,020 --> 00:09:34,060
+Advento, Komoti, Legatos, Atheum, 
+
+200
+00:09:34,060 --> 00:09:36,460
+Mittund. The Helvetii 
+
+201
+00:09:36,460 --> 00:09:38,560
+were very moved by his sudden arrival 
+
+202
+00:09:38,560 --> 00:09:40,520
+and so they sent envoys to 
+
+203
+00:09:40,520 --> 00:09:42,980
+him. Then you sort of start with this, 
+
+204
+00:09:43,080 --> 00:09:44,580
+shall I say, shall I say, outer framework 
+
+205
+00:09:44,580 --> 00:09:50,370
+. Like this. Then you translate the 
+
+206
+00:09:50,370 --> 00:09:53,730
+subordinate clause of the first degree, 
+i.e. cum id 
+
+207
+00:09:53,730 --> 00:09:57,330
+illum uno die ficisse intelligirent. 
+
+208
+00:09:58,690 --> 00:10:01,290
+Yes. The Helvetii were 
+
+209
+00:10:01,290 --> 00:10:03,390
+very moved by his sudden arrival because 
+
+210
+00:10:03,390 --> 00:10:06,210
+they realized that he 
+
+211
+00:10:06,210 --> 00:10:08,650
+had done this in a single day and 
+
+212
+00:10:08,650 --> 00:10:10,450
+so they sent envoys to him. 
+
+213
+00:10:12,410 --> 00:10:15,910
+So. Then comes the subordinate clause. 
+Second 
+
+214
+00:10:15,910 --> 00:10:18,830
+degree, Quot ipsi diebus viginti 
+
+215
+00:10:18,830 --> 00:10:22,750
+egerime confickerant. The Helvetii 
+
+216
+00:10:22,750 --> 00:10:24,350
+were 
+
+217
+00:10:24,350 --> 00:10:26,950
+greatly moved by his sudden arrival 
+because they realized that 
+
+218
+00:10:26,950 --> 00:10:29,130
+he 
+
+219
+00:10:29,130 --> 00:10:31,690
+
+220
+00:10:31,690 --> 00:10:33,570
+
+221
+00:10:34,050 --> 00:10:35,870
+had done in a single day what , note, 
+subordinate clause of the second degree, 
+they themselves had spent 20 days doing 
+with extreme difficulty, 
+
+222
+00:10:35,870 --> 00:10:38,310
+and they therefore sent envoys to 
+
+223
+00:10:38,310 --> 00:10:42,050
+him. So, logically, now comes 
+
+224
+00:10:42,050 --> 00:10:43,810
+the third-degree clause, because we 
+
+225
+00:10:43,810 --> 00:10:45,130
+already 
+
+226
+00:10:45,130 --> 00:10:46,310
+have the outer construct , it's no 
+
+227
+00:10:46,310 --> 00:10:48,230
+longer difficult to 
+
+228
+00:10:48,230 --> 00:10:50,090
+weave that into it in a meaningful way . 
+
+229
+00:10:52,630 --> 00:10:54,830
+Exactly, the translation of Ut flumen 
+
+230
+00:10:54,830 --> 00:10:58,090
+transirent is, namely to 
+
+231
+00:10:58,090 --> 00:11:00,930
+cross the river , is again the whole 
+
+232
+00:11:00,930 --> 00:11:02,950
+translation, The Helvetii were 
+
+233
+00:11:02,950 --> 00:11:04,770
+very 
+
+234
+00:11:04,770 --> 00:11:07,330
+moved by his sudden arrival , because they 
+realized that he 
+
+235
+00:11:07,330 --> 00:11:09,750
+
+236
+00:11:09,750 --> 00:11:11,390
+
+237
+00:11:11,590 --> 00:11:14,050
+
+238
+00:11:14,050 --> 00:11:16,050
+had done in a single day what they 
+themselves had spent 20 days doing with 
+extreme difficulty, namely crossing the 
+river, and 
+
+239
+00:11:16,050 --> 00:11:17,970
+they therefore sent envoys to 
+
+240
+00:11:17,970 --> 00:11:24,570
+him. Yes, exactly. What I would also 
+
+241
+00:11:24,570 --> 00:11:26,210
+like to say about the method is that it 
+
+242
+00:11:26,210 --> 00:11:27,910
+takes a little longer than 
+
+243
+00:11:27,910 --> 00:11:29,610
+the underlining method, for example. 
+
+244
+00:11:30,590 --> 00:11:32,290
+Because you 
+
+245
+00:11:32,290 --> 00:11:35,230
+have to draw it on, so to speak. So really 
+
+246
+00:11:35,230 --> 00:11:36,510
+only for a long, complicated 
+
+247
+00:11:36,510 --> 00:11:38,030
+sentence in the paper or in the 
+
+248
+00:11:38,030 --> 00:11:40,290
+exam. But then I 
+
+249
+00:11:40,290 --> 00:11:41,850
+personally find it very clear. 
+
+250
+00:11:41,890 --> 00:11:45,430
+And you don't forget any sentences or 
+anything, which 
+
+251
+00:11:45,470 --> 00:11:46,610
+
+252
+00:11:46,610 --> 00:11:49,650
+often happens. Instead, you know, okay, 
+this is how 
+
+253
+00:11:49,650 --> 00:11:51,190
+I'm going to proceed, I have a structure. 
+
+254
+00:11:51,370 --> 00:11:52,930
+And then you're often 
+
+255
+00:11:52,930 --> 00:11:55,450
+a bit calmer for yourself. And 
+
+256
+00:11:55,450 --> 00:11:57,590
+unfortunately, in Latin it 
+
+257
+00:11:57,590 --> 00:11:59,410
+often has to do with nerves 
+
+258
+00:11:59,510 --> 00:12:01,330
+, because time is pressing. 
+
+259
+00:12:02,190 --> 00:12:08,750
+Okay. Yes, the text indexing. 
+
+260
+00:12:08,750 --> 00:12:10,930
+I can recommend that to you so, so much 
+
+261
+00:12:10,930 --> 00:12:13,010
+. It's so important that you 
+
+262
+00:12:13,010 --> 00:12:14,770
+
+263
+00:12:14,770 --> 00:12:16,950
+
+264
+00:12:16,950 --> 00:12:19,530
+
+265
+00:12:20,110 --> 00:12:21,890
+learn the content of the area that the 
+exam or paper or test is about in advance. 
+That you learn, 
+
+266
+00:12:21,890 --> 00:12:23,430
+okay, these words are... 
+
+267
+00:12:23,430 --> 00:12:26,610
+are often used and these 
+
+268
+00:12:26,610 --> 00:12:29,370
+sentences or words are often used in the 
+ACI 
+
+269
+00:12:29,370 --> 00:12:30,970
+. Often the 
+
+270
+00:12:30,970 --> 00:12:34,570
+appellative of the absolute looks like 
+this or 
+
+271
+00:12:34,570 --> 00:12:37,490
+yes, okay, this is now the word field, 
+
+272
+00:12:37,570 --> 00:12:40,410
+I'll say court, I learn everything 
+
+273
+00:12:40,410 --> 00:12:42,570
+in detail, what judge means 
+
+274
+00:12:42,570 --> 00:12:45,450
+and so on. So, 
+
+275
+00:12:45,450 --> 00:12:47,490
+to instruct prior knowledge or even if you 
+know, 
+
+276
+00:12:47,570 --> 00:12:49,050
+okay, it's now about 
+
+277
+00:12:49,050 --> 00:12:51,410
+Pliny the Younger, for example, about 
+these 
+
+278
+00:12:51,410 --> 00:12:54,130
+letters. Exactly, that you 
+
+279
+00:12:54,130 --> 00:12:56,270
+know a bit of the basics, okay, when 
+
+280
+00:12:56,270 --> 00:12:59,190
+was he where, what does he do, so that you 
+
+281
+00:12:59,190 --> 00:13:01,250
+
+282
+00:13:01,250 --> 00:13:03,290
+have a bit of an idea of the content 
+yourself , I say 
+
+283
+00:13:03,290 --> 00:13:06,950
+. So, and that's actually 
+
+284
+00:13:06,950 --> 00:13:09,150
+the most important thing for me, 
+
+285
+00:13:09,150 --> 00:13:10,910
+pay attention to the heading , because 
+that 
+
+286
+00:13:10,910 --> 00:13:13,270
+leads to the main topic. In most exams and 
+
+287
+00:13:13,270 --> 00:13:14,890
+papers, there is not only a 
+
+288
+00:13:14,890 --> 00:13:16,850
+German heading, but also 
+
+289
+00:13:16,850 --> 00:13:20,870
+a small introductory text. Yes, it's so 
+
+290
+00:13:20,870 --> 00:13:22,530
+important and actually so easy to 
+
+291
+00:13:22,750 --> 00:13:24,350
+read through and keep it in mind 
+
+292
+00:13:24,350 --> 00:13:25,970
+, because the text 
+
+293
+00:13:26,090 --> 00:13:28,390
+that you then have to translate 
+
+294
+00:13:28,390 --> 00:13:30,490
+is adapted to it, in other words, 
+
+295
+00:13:30,490 --> 00:13:31,690
+it's basically a 
+
+296
+00:13:31,690 --> 00:13:32,830
+continuation of this 
+
+297
+00:13:35,110 --> 00:13:36,410
+introductory text. In other words, you can 
+
+298
+00:13:36,410 --> 00:13:38,010
+get stuck on the content 
+
+299
+00:13:38,010 --> 00:13:39,450
+and think, okay, does this make 
+
+300
+00:13:39,450 --> 00:13:42,370
+sense in the context of the text? In terms 
+
+301
+00:13:42,370 --> 00:13:44,010
+of the headline, does my text 
+
+302
+00:13:44,010 --> 00:13:45,830
+now say what the headline 
+
+303
+00:13:45,830 --> 00:13:49,330
+means? That's a very 
+
+304
+00:13:49,330 --> 00:13:52,810
+important tip for me. Then consider 
+
+305
+00:13:52,950 --> 00:13:55,050
+what type of text it is. Is it a 
+
+306
+00:13:55,050 --> 00:13:58,010
+report, a speech, a letter, a story, 
+
+307
+00:13:58,030 --> 00:14:00,850
+whatever, or a dialog? Then, 
+
+308
+00:14:00,930 --> 00:14:02,830
+which people are involved? 
+
+309
+00:14:03,790 --> 00:14:05,210
+Generally speaking, 
+
+310
+00:14:05,210 --> 00:14:06,590
+you can 
+
+311
+00:14:06,590 --> 00:14:08,370
+mark key terms and keywords if you like. 
+
+312
+00:14:08,370 --> 00:14:10,790
+Power, yes, place and time, 
+
+313
+00:14:10,890 --> 00:14:14,430
+various connectors, okay, how 
+
+314
+00:14:14,430 --> 00:14:16,410
+does that fit together? Then the 
+
+315
+00:14:16,410 --> 00:14:18,930
+protagonists and very essential 
+
+316
+00:14:18,930 --> 00:14:21,330
+tempos. Whenever you 
+
+317
+00:14:21,330 --> 00:14:23,630
+have time at the end, check everything 
+again 
+
+318
+00:14:23,630 --> 00:14:25,690
+. Do I have the right 
+
+319
+00:14:25,690 --> 00:14:28,410
+time zones, I say now, right? 
+
+320
+00:14:28,670 --> 00:14:30,710
+Important with the constructions, what 
+about 
+
+321
+00:14:30,710 --> 00:14:34,990
+the ACI again? Yes, is 
+
+322
+00:14:34,990 --> 00:14:37,090
+it simultaneous, after the fact? 
+
+323
+00:14:37,370 --> 00:14:38,590
+Premature have I 
+
+324
+00:14:38,590 --> 00:14:41,670
+reproduced that correctly? Is it imperfect 
+or 
+
+325
+00:14:41,670 --> 00:14:44,870
+perfect? All that sort of thing, right? 
+Yes, 
+
+326
+00:14:44,870 --> 00:14:45,950
+you probably already know all that, 
+
+327
+00:14:45,990 --> 00:14:48,370
+but it's so important because you 
+
+328
+00:14:48,370 --> 00:14:49,770
+
+329
+00:14:49,770 --> 00:14:51,250
+make these annoying mistakes , right? 
+Because sometimes you 
+
+330
+00:14:51,250 --> 00:14:52,650
+overlook things even though you actually 
+
+331
+00:14:52,650 --> 00:14:55,890
+know it. Yes, exactly. I just wanted to 
+
+332
+00:14:55,890 --> 00:14:59,550
+say that again. Exactly, then a 
+
+333
+00:14:59,550 --> 00:15:01,150
+few more tips for translating 
+
+334
+00:15:01,150 --> 00:15:03,810
+longer texts. That you 
+
+335
+00:15:03,810 --> 00:15:06,050
+read the text slowly and thoroughly 
+several times. that 
+
+336
+00:15:06,550 --> 00:15:08,790
+you mark the predicates, which we 
+
+337
+00:15:08,790 --> 00:15:10,270
+also just did, and 
+
+338
+00:15:10,270 --> 00:15:12,250
+find the corresponding subjects, or 
+
+339
+00:15:12,250 --> 00:15:14,090
+if the subject 
+
+340
+00:15:14,090 --> 00:15:15,930
+is in the predicate, that you put an 
+
+341
+00:15:15,930 --> 00:15:17,310
+asterisk or something so that you 
+
+342
+00:15:17,310 --> 00:15:19,190
+know, okay, the subject is already there, 
+
+343
+00:15:19,230 --> 00:15:20,230
+I don't need to look for it anymore. 
+
+344
+00:15:21,330 --> 00:15:22,930
+Exactly, and 
+
+345
+00:15:22,930 --> 00:15:24,270
+mark and 
+
+346
+00:15:24,270 --> 00:15:25,990
+delimit sentence-value constructions . 
+I've already 
+
+347
+00:15:25,990 --> 00:15:27,050
+talked about that, what's 
+
+348
+00:15:27,050 --> 00:15:29,210
+so annoying is when you 
+
+349
+00:15:29,210 --> 00:15:30,870
+see them too late and you 
+
+350
+00:15:30,870 --> 00:15:33,390
+'ve already translated the whole sentence 
+and it doesn't 
+
+351
+00:15:33,390 --> 00:15:34,750
+make any sense and then you realize, ah, 
+okay, 
+
+352
+00:15:34,870 --> 00:15:36,670
+damn, I 
+
+353
+00:15:36,670 --> 00:15:38,810
+missed the applantius absolutus or 
+something, right? 
+
+354
+00:15:41,270 --> 00:15:42,070
+
+355
+00:15:42,070 --> 00:15:44,010
+You can use graphic display options , for 
+example, like 
+
+356
+00:15:44,010 --> 00:15:45,210
+what we just did, with 
+
+357
+00:15:45,210 --> 00:15:48,010
+the insertion, uh, indentation, yes. 
+
+358
+00:15:55,290 --> 00:15:57,110
+were they translated correctly, time 
+
+359
+00:15:57,110 --> 00:16:00,270
+fits and so on, right? All the 
+
+360
+00:16:00,270 --> 00:16:03,790
+Kasi. Yes, then 
+
+361
+00:16:03,790 --> 00:16:05,330
+
+362
+00:16:05,330 --> 00:16:08,990
+finding the right meaning for a word in 
+context , so 
+
+363
+00:16:08,990 --> 00:16:11,090
+practising using the dictionary . Yes, I 
+can 
+
+364
+00:16:11,090 --> 00:16:12,870
+really only recommend that. Come on, 
+
+365
+00:16:12,870 --> 00:16:13,750
+you're probably all 
+
+366
+00:16:13,750 --> 00:16:15,650
+at different levels, some of you 
+
+367
+00:16:15,650 --> 00:16:16,550
+might not be allowed to 
+
+368
+00:16:16,550 --> 00:16:18,630
+use a dictionary yet. If you 
+
+369
+00:16:18,630 --> 00:16:20,950
+are allowed to use a dictionary, very, 
+very 
+
+370
+00:16:20,950 --> 00:16:23,170
+important if you are 
+
+371
+00:16:23,170 --> 00:16:25,890
+translating original reading, for example. 
+I say 
+
+372
+00:16:25,890 --> 00:16:32,410
+, yes, Ovid for example. And 
+
+373
+00:16:32,410 --> 00:16:34,150
+the dictionaries 
+
+374
+00:16:34,150 --> 00:16:36,250
+contain very long entries because a word 
+
+375
+00:16:36,250 --> 00:16:39,010
+can have 30 meanings. That's why 
+
+376
+00:16:39,010 --> 00:16:40,630
+it's not so easy 
+
+377
+00:16:40,630 --> 00:16:43,870
+with dictionary translations in Latin. But 
+
+378
+00:16:43,870 --> 00:16:46,830
+it often says something like frequently in 
+
+379
+00:16:46,830 --> 00:16:50,090
+Ovid or frequently in Cicero. And then 
+
+380
+00:16:50,090 --> 00:16:51,850
+there is a usage or even 
+
+381
+00:16:51,850 --> 00:16:53,050
+a whole expression that is 
+
+382
+00:16:53,050 --> 00:16:54,230
+probably also in your 
+
+383
+00:16:54,230 --> 00:16:56,710
+text, as the word 
+
+384
+00:16:56,710 --> 00:16:58,550
+is frequently used by him. And that is 
+
+385
+00:16:58,550 --> 00:17:00,670
+often the correct 
+
+386
+00:17:00,670 --> 00:17:02,190
+translation, but you can 
+
+387
+00:17:02,190 --> 00:17:03,770
+also search for it. Don't always 
+
+388
+00:17:03,770 --> 00:17:07,490
+go straight for the first translation, 
+
+389
+00:17:07,630 --> 00:17:09,410
+but rather think a bit 
+
+390
+00:17:09,410 --> 00:17:11,770
+about the context and the 
+
+391
+00:17:11,770 --> 00:17:15,010
+author. Yes, I' 
+
+392
+00:17:15,010 --> 00:17:16,410
+ve already said that you 
+
+393
+00:17:16,410 --> 00:17:18,970
+
+394
+00:17:18,970 --> 00:17:21,270
+can take sentences that are convoluted 
+
+395
+00:17:21,270 --> 00:17:23,030
+and make them one after the other, rather 
+than 
+
+396
+00:17:23,030 --> 00:17:25,990
+not 
+
+397
+00:17:25,990 --> 00:17:27,450
+making a proper German sentence in German. 
+
+398
+00:17:27,450 --> 00:17:28,630
+Of course, that would also be super 
+annoying. 
+
+399
+00:17:30,250 --> 00:17:31,610
+Logical relationships have to be 
+
+400
+00:17:31,610 --> 00:17:33,770
+taken into account and these should also 
+be 
+
+401
+00:17:33,770 --> 00:17:35,430
+
+402
+00:17:35,430 --> 00:17:37,170
+clarified with the correct conjunctions in 
+German. 
+
+403
+00:17:37,170 --> 00:17:39,490
+It's also logical if I 
+
+404
+00:17:39,490 --> 00:17:42,630
+have a post tense or a pre tense that 
+
+405
+00:17:42,630 --> 00:17:43,750
+I then 
+
+406
+00:17:43,750 --> 00:17:45,790
+use, for example, after the . But often 
+the 
+
+407
+00:17:45,790 --> 00:17:47,410
+conjunctions are also in Latin and you 
+
+408
+00:17:47,410 --> 00:17:50,970
+have to translate them anyway. Exactly. 
+
+409
+00:17:50,970 --> 00:17:52,410
+So, now I've 
+
+410
+00:17:52,410 --> 00:17:54,270
+talked quite a lot . 
+
+411
+00:17:54,270 --> 00:17:58,310
+Thank you for your attention. Exactly. Now 
+
+412
+00:17:58,310 --> 00:18:00,670
+I'm open to questions if you want me 
+
+413
+00:18:00,670 --> 00:18:02,870
+to call something up again. 
+
+414
+00:18:02,870 --> 00:18:05,430
+Feedback is also welcome . Exactly. 
+
+415
+00:18:20,110 --> 00:18:20,510
+Okay. 
+
+416
+00:18:40,900 --> 00:18:42,960
+Yes, I'm pleased about that. Good that 
+you' 
+
+417
+00:18:42,960 --> 00:18:44,800
+ve understood. That's right. 
+
+418
+00:18:58,770 --> 00:19:02,210
+I'm glad about that. So those of 
+
+419
+00:19:02,210 --> 00:19:03,650
+you who don't have 
+
+420
+00:19:03,650 --> 00:19:05,190
+any more questions or anything, you' 
+
+421
+00:19:05,190 --> 00:19:08,070
+re welcome to leave the webinar if you 
+
+422
+00:19:08,070 --> 00:19:09,250
+want. I'll 
+
+423
+00:19:09,250 --> 00:19:10,670
+wait for all the other feedback, but 
+
+424
+00:19:10,670 --> 00:19:12,370
+of course you don't have to 
+
+425
+00:19:12,370 --> 00:19:14,270
+wait here in the room during that time. 
+Exactly. 
+
+426
+00:19:17,230 --> 00:19:18,710
+And right, of course I wish you 
+
+427
+00:19:18,710 --> 00:19:21,250
+a nice day and so on. 
+
+428
+00:19:21,250 --> 00:19:22,810
+I almost forgot now. 
+
+429
+00:19:23,230 --> 00:19:24,190
+I'll probably see you 
+
+430
+00:19:24,190 --> 00:19:30,940
+again at 2 pm. Okay. 
+
+431
+00:19:35,360 --> 00:19:37,180
+Yes. Then I would definitely like to thank 
+you 
+
+432
+00:19:37,180 --> 00:19:39,720
+for your attention. Exactly. 
+
+433
+00:19:39,960 --> 00:19:41,800
+No more feedback here. 
+
+434
+00:19:42,860 --> 00:19:44,600
+Have a nice day or see you soon. 
+
+435
+00:19:45,080 --> 00:19:45,560
+Bye. 

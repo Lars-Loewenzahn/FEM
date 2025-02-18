@@ -1,0 +1,612 @@
+1
+00:00:04,140 --> 00:00:06,300
+Hallo, mein Name ist Sabrina und ich
+
+2
+00:00:06,300 --> 00:00:07,860
+bin Nachhilfelehrerin bei der
+
+3
+00:00:07,860 --> 00:00:10,260
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:10,260 --> 00:00:12,400
+einen Einblick in das Thema Kation,
+
+5
+00:00:12,640 --> 00:00:15,360
+Anion und Edelgaskonfiguration geben.
+
+6
+00:00:15,860 --> 00:00:17,780
+Natürlich findest du zu diesem Thema
+
+7
+00:00:17,780 --> 00:00:19,360
+auch ein Wiki in unserem Online
+
+8
+00:00:19,360 --> 00:00:21,440
+-Lerncenter. Dort werden dir die
+
+9
+00:00:21,440 --> 00:00:23,300
+wichtigen und grundlegenden Begriffe
+
+10
+00:00:23,300 --> 00:00:26,660
+noch einmal erklärt. Bei Ionen
+
+11
+00:00:26,660 --> 00:00:28,840
+unterscheidet man negativ geladene
+
+12
+00:00:28,840 --> 00:00:31,500
+Ionen, die Anionen, von den positiv
+
+13
+00:00:31,500 --> 00:00:34,460
+geladenen Kationen. Ionen entstehen
+
+14
+00:00:34,460 --> 00:00:36,980
+aus den Atomen durch Elektronenabgabe
+
+15
+00:00:36,980 --> 00:00:39,780
+oder Aufnahme. Die Atome aller
+
+16
+00:00:39,780 --> 00:00:41,520
+Elemente streben danach, eine
+
+17
+00:00:41,520 --> 00:00:43,500
+komplett gefüllte Außenschale zu
+
+18
+00:00:43,500 --> 00:00:45,780
+besitzen, wie sie die Edelgase, die
+
+19
+00:00:45,780 --> 00:00:47,560
+Elemente der achten Hauptgruppe,
+
+20
+00:00:47,560 --> 00:00:49,960
+aufweisen. Dies wird auch häufig als
+
+21
+00:00:49,960 --> 00:00:52,340
+Oktettregel oder Acht-Elektronen
+
+22
+00:00:52,340 --> 00:00:54,580
+-Regel genannt. Dieses Streben wirkt
+
+23
+00:00:54,580 --> 00:00:56,500
+sich auf die Reaktivität und
+
+24
+00:00:56,500 --> 00:00:58,740
+Elektronegativität der Elemente aus.
+
+25
+00:00:58,740 --> 00:01:01,200
+Mit einer vollen Außenschale sind die
+
+26
+00:01:01,200 --> 00:01:02,860
+Teilchen energetisch sehr stabil,
+
+27
+00:01:03,060 --> 00:01:05,320
+weshalb sie Verbindungen eingehen, um
+
+28
+00:01:05,320 --> 00:01:07,580
+diesen Zustand zu erreichen. Die
+
+29
+00:01:07,580 --> 00:01:09,200
+einzigen Elemente, die nicht nach
+
+30
+00:01:09,200 --> 00:01:11,040
+Verbindungen streben und deshalb
+
+31
+00:01:11,040 --> 00:01:13,680
+extrem reaktionsträge sind, sind die
+
+32
+00:01:13,680 --> 00:01:15,820
+Edelgase selbst. Sie haben von Natur
+
+33
+00:01:15,820 --> 00:01:18,320
+aus die volle Außenschale. Die eben
+
+34
+00:01:18,320 --> 00:01:20,820
+erwähnte Elektronegativität ist das
+
+35
+00:01:20,820 --> 00:01:23,220
+relative Maß für die Fähigkeit eines
+
+36
+00:01:23,220 --> 00:01:25,980
+Atoms, Elektronen in einer Bindung an
+
+37
+00:01:25,980 --> 00:01:29,100
+sich heranzuziehen. Die Elemente der
+
+38
+00:01:29,100 --> 00:01:30,880
+siebten Hauptgruppe, Halogene
+
+39
+00:01:30,880 --> 00:01:32,500
+genannt, haben sieben
+
+40
+00:01:32,500 --> 00:01:34,980
+Außenelektronen, was bedeutet, dass
+
+41
+00:01:34,980 --> 00:01:37,060
+ihnen nur jeweils ein Elektron zur
+
+42
+00:01:37,060 --> 00:01:38,920
+Erreichung des erwünschten Zustandes
+
+43
+00:01:38,920 --> 00:01:41,280
+fehlt. Entsprechend reaktiv sind
+
+44
+00:01:41,280 --> 00:01:43,560
+diese Elemente. Sie haben hohe
+
+45
+00:01:43,560 --> 00:01:45,520
+Elektronegativitäten und kommen
+
+46
+00:01:45,520 --> 00:01:48,200
+elementar bereits bimolekular vor,
+
+47
+00:01:48,360 --> 00:01:50,420
+das heißt, sie teilen sich in einer
+
+48
+00:01:50,420 --> 00:01:52,420
+Elektronenpaarbindung zwei
+
+49
+00:01:52,420 --> 00:01:54,660
+Elektronen, die sie in einen der
+
+50
+00:01:54,660 --> 00:01:56,600
+Edelgaskonfigurationen entsprechen.
+
+51
+00:01:56,740 --> 00:02:00,120
+stabilen Zustand versetzen. Lässt man
+
+52
+00:02:00,120 --> 00:02:02,100
+die Halogene jedoch mit anderen
+
+53
+00:02:02,100 --> 00:02:03,600
+Elementen niedrigerer
+
+54
+00:02:03,600 --> 00:02:06,200
+Elektronegativität reagieren, zum
+
+55
+00:02:06,200 --> 00:02:08,480
+Beispiel mit Metallen, so reißen die
+
+56
+00:02:08,480 --> 00:02:10,320
+Halogene den Metallatomen,
+
+57
+00:02:10,380 --> 00:02:12,820
+Außenelektronen, aus und werden zu
+
+58
+00:02:12,820 --> 00:02:16,100
+Anionen, den negativ geladenen Ionen.
+
+59
+00:02:16,280 --> 00:02:18,660
+Die Metallatome werden zu Kationen,
+
+60
+00:02:18,700 --> 00:02:21,420
+den positiv geladenen Ionen. Auf
+
+61
+00:02:21,420 --> 00:02:23,460
+diese Weise erreichen beide Atome,
+
+62
+00:02:23,520 --> 00:02:26,180
+das Halogen- und das Metallatom, die
+
+63
+00:02:26,180 --> 00:02:29,260
+Edelgaskonfiguration. Sehen wir uns
+
+64
+00:02:29,260 --> 00:02:31,340
+dazu die Reaktion von Natrium und
+
+65
+00:02:31,340 --> 00:02:34,140
+Chlor zu Natriumchlorid an, erkennt
+
+66
+00:02:34,140 --> 00:02:36,720
+man, dass jeweils ein Chloratom einem
+
+67
+00:02:36,720 --> 00:02:39,300
+Natriumatom ein Elektron wegreißt.
+
+68
+00:02:39,500 --> 00:02:41,120
+Dadurch erreicht Chlor die
+
+69
+00:02:41,120 --> 00:02:43,920
+Elektronenkonfiguration von Argon und
+
+70
+00:02:43,920 --> 00:02:46,340
+Natrium die Konfiguration von Neon.
+
+71
+00:02:46,540 --> 00:02:49,200
+Nach der Ionenbildung folgt aufgrund
+
+72
+00:02:49,200 --> 00:02:51,420
+der verschiedennamigen Ladungen die
+
+73
+00:02:51,420 --> 00:02:54,520
+Ionenbindung. Kation und Anion ziehen
+
+74
+00:02:54,520 --> 00:02:56,260
+einander an und bilden einen
+
+75
+00:02:56,260 --> 00:02:58,500
+Salzkristall. Dieser ist räumlich wie
+
+76
+00:02:58,500 --> 00:03:00,400
+ein festes Gitter aufgebaut, bei dem
+
+77
+00:03:00,400 --> 00:03:02,740
+ein Chloridion in allen Richtungen
+
+78
+00:03:02,740 --> 00:03:04,780
+von insgesamt sechs benachbarten
+
+79
+00:03:04,780 --> 00:03:06,980
+Natriumionen umgeben ist und
+
+80
+00:03:06,980 --> 00:03:09,300
+umgekehrt. Obwohl es sich zwischen
+
+81
+00:03:09,300 --> 00:03:11,920
+Natrium- und Chloridionen nicht um
+
+82
+00:03:11,920 --> 00:03:13,580
+kovalente Bindungen, also
+
+83
+00:03:13,580 --> 00:03:15,840
+Atombindungen handelt, ist die
+
+84
+00:03:15,840 --> 00:03:17,740
+elektrostatische Anziehung zwischen
+
+85
+00:03:17,740 --> 00:03:20,220
+diesen sehr stark und führt zu einer
+
+86
+00:03:20,220 --> 00:03:23,400
+hohen Schmelztemperatur von ca. 800°C
+
+87
+00:03:23,400 --> 00:03:25,160
+in einer rigiden Struktur.
+
+88
+00:03:26,740 --> 00:03:29,140
+Natriumchlorid ist, wie Salze im
+
+89
+00:03:29,140 --> 00:03:31,540
+Allgemeinen, gut wasserlöslich, denn
+
+90
+00:03:31,540 --> 00:03:33,460
+Wasser ist ein polares Lösungsmittel
+
+91
+00:03:33,460 --> 00:03:36,000
+und bildet die sogenannten Hydratölen
+
+92
+00:03:36,000 --> 00:03:38,460
+um die Ionen. Die partiell positiv
+
+93
+00:03:38,460 --> 00:03:41,080
+geladene Seite jedes Wassermoleküls
+
+94
+00:03:41,080 --> 00:03:43,680
+in räumlicher Nähe eines Chlorid-Ions
+
+95
+00:03:43,680 --> 00:03:46,280
+richtet sich zum Ion aus. Die
+
+96
+00:03:46,280 --> 00:03:48,580
+partiell negativ geladene Seite zeigt
+
+97
+00:03:48,580 --> 00:03:51,200
+von diesem weg. Das positiv geladene
+
+98
+00:03:51,200 --> 00:03:53,540
+Natrium-Ion wird in derselben Weise
+
+99
+00:03:53,540 --> 00:03:56,440
+hydratisiert. Die partiell negativ
+
+100
+00:03:56,440 --> 00:03:58,360
+geladene Seite jedes angrenzenden
+
+101
+00:03:58,360 --> 00:04:01,000
+Wasserteilchens richtet sich zum Ion
+
+102
+00:04:01,000 --> 00:04:03,320
+hinaus, während die partiell positiv
+
+103
+00:04:03,320 --> 00:04:05,540
+geladenen Seiten von diesem weg
+
+104
+00:04:05,540 --> 00:04:07,740
+zeigen. zeigen. Bei Ionenbildung
+
+105
+00:04:07,740 --> 00:04:10,380
+nehmen Halogene jeweils 1 Elektron
+
+106
+00:04:10,380 --> 00:04:12,940
+auf, die Elemente der 6. Hauptgruppe,
+
+107
+00:04:12,940 --> 00:04:15,780
+die Chalkogene, nehmen jeweils 2 auf,
+
+108
+00:04:15,920 --> 00:04:18,000
+die Elemente der 5. Hauptgruppe, die
+
+109
+00:04:18,000 --> 00:04:20,600
+Stickstoffgruppen-Elemente jeweils 3
+
+110
+00:04:20,600 --> 00:04:23,020
+Elektronen, um die Konfiguration des
+
+111
+00:04:23,020 --> 00:04:25,340
+nächsten Edelgases in der Periode zu
+
+112
+00:04:25,340 --> 00:04:27,600
+erreichen. Ihre Ionen sind
+
+113
+00:04:27,600 --> 00:04:30,280
+dementsprechend negativ geladen. Die
+
+114
+00:04:30,280 --> 00:04:32,640
+Elemente der ersten 3 Hauptgruppen
+
+115
+00:04:32,640 --> 00:04:34,600
+neigen eher dazu, Elektronen
+
+116
+00:04:34,600 --> 00:04:37,160
+abzugeben, um die Konfiguration des
+
+117
+00:04:37,160 --> 00:04:39,500
+Edelgases in der vorherigen Periode
+
+118
+00:04:39,500 --> 00:04:42,000
+zu erreichen. Ihre Ionen sind dann
+
+119
+00:04:42,000 --> 00:04:44,660
+positiv geladen. Die Beachtung der
+
+120
+00:04:44,660 --> 00:04:46,300
+Hauptgruppen, in denen sich die
+
+121
+00:04:46,300 --> 00:04:48,420
+Bindungspartner befinden, verhelfen
+
+122
+00:04:48,420 --> 00:04:50,220
+einem zur Aufstellung der korrekten
+
+123
+00:04:50,220 --> 00:04:52,460
+Verhältnisformel eines Halses bzw.
+
+124
+00:04:52,860 --> 00:04:55,700
+einer Verbindung. So binden Elemente
+
+125
+00:04:55,700 --> 00:04:57,800
+der ersten Hauptgruppe, Elemente der
+
+126
+00:04:57,800 --> 00:05:00,220
+siebten Hauptgruppe im Verhältnis 1
+
+127
+00:05:00,220 --> 00:05:02,900
+zu 1, wie es bereits am Beispiel des
+
+128
+00:05:02,900 --> 00:05:04,680
+Natriumchlorids zu erkennen war.
+
+129
+00:05:05,320 --> 00:05:07,360
+Elemente der zweiten Hauptgruppe
+
+130
+00:05:07,360 --> 00:05:08,960
+binden Elemente der sechsten
+
+131
+00:05:08,960 --> 00:05:11,100
+ebenfalls im Verhältnis 1 zu 1.
+
+132
+00:05:11,760 --> 00:05:13,540
+Elemente der zweiten Hauptgruppe
+
+133
+00:05:13,540 --> 00:05:14,980
+binden Elemente der siebten im
+
+134
+00:05:14,980 --> 00:05:17,680
+Verhältnis 1 zu 2. Elemente der
+
+135
+00:05:17,680 --> 00:05:19,540
+ersten Hauptgruppe binden Elemente
+
+136
+00:05:19,540 --> 00:05:21,600
+der sechsten im Verhältnis 2 zu 1.
+
+137
+00:05:22,260 --> 00:05:24,040
+Elemente der dritten Hauptgruppe
+
+138
+00:05:24,040 --> 00:05:26,020
+binden Elemente der 7. im Verhältnis
+
+139
+00:05:26,020 --> 00:05:29,300
+1 zu 3. Elemente der 1. Hauptgruppe
+
+140
+00:05:29,300 --> 00:05:31,400
+binden Elemente der 5. im Verhältnis
+
+141
+00:05:31,400 --> 00:05:34,620
+3 zu 2. Elemente der 3. Hauptgruppe
+
+142
+00:05:34,620 --> 00:05:36,620
+binden Elemente der 6. im Verhältnis
+
+143
+00:05:36,620 --> 00:05:39,080
+2 zu 3. Und Elemente der 2.
+
+144
+00:05:39,460 --> 00:05:41,660
+Hauptgruppe binden Elemente der 5. im
+
+145
+00:05:41,660 --> 00:05:44,880
+Verhältnis 3 zu 2. Vielen Dank für
+
+146
+00:05:44,880 --> 00:05:47,100
+deine Aufmerksamkeit. Ich hoffe, das
+
+147
+00:05:47,100 --> 00:05:48,620
+Video konnte dir zu einem besseren
+
+148
+00:05:48,620 --> 00:05:51,200
+Verständnis des Themas Cation, Anion
+
+149
+00:05:51,200 --> 00:05:53,800
+und Edelgas-Konfiguration verhelfen
+
+150
+00:05:53,800 --> 00:05:55,100
+und ermöglicht es dir,
+
+151
+00:05:55,140 --> 00:05:56,460
+Verhältnisformeln korrekt
+
+152
+00:05:56,460 --> 00:05:58,460
+aufzustellen. Schön, dass du dabei
+
+153
+00:05:58,460 --> 00:06:00,100
+warst und bis zum nächsten Mal!
+

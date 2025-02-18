@@ -1,0 +1,655 @@
+﻿1
+00:00:00,340 --> 00:00:02,360
+Welcome to the 
+
+2
+00:00:02,360 --> 00:00:03,720
+Schülerhilfe webinar on the topic of 
+
+3
+00:00:03,720 --> 00:00:07,120
+connecting basic arithmetic operations. 
+
+4
+00:00:07,120 --> 00:00:09,900
+Today we are going to 
+
+5
+00:00:09,900 --> 00:00:12,920
+
+6
+00:00:12,920 --> 00:00:15,860
+look at some arithmetic rules relating to 
+brackets and dot-before-dash arithmetic. 
+First, 
+
+7
+00:00:15,860 --> 00:00:17,520
+we'll start with the parentheses 
+
+8
+00:00:17,520 --> 00:00:20,740
+first rule. Then we will look 
+
+9
+00:00:20,740 --> 00:00:22,340
+at what dot-before-dash actually 
+
+10
+00:00:22,340 --> 00:00:26,680
+means. We'll look at 
+
+11
+00:00:26,680 --> 00:00:28,480
+the order in which brackets and the 
+dot-before-dash 
+
+12
+00:00:28,480 --> 00:00:29,320
+rule are used. 
+
+13
+00:00:29,340 --> 00:00:31,300
+
+14
+00:00:31,300 --> 00:00:33,140
+We'll look at the in which 
+
+15
+00:00:33,140 --> 00:00:36,960
+parentheses and dot-before-dash 
+calculations must be considered in a 
+calculation and how we can calculate with 
+parentheses. 
+
+16
+00:00:36,960 --> 00:00:40,380
+Let's start with the rule: brackets 
+
+17
+00:00:40,380 --> 00:00:43,520
+always come first. We remember that if 
+
+18
+00:00:43,520 --> 00:00:46,120
+a calculation 
+
+19
+00:00:46,120 --> 00:00:49,100
+contains one or more brackets 
+
+20
+00:00:49,100 --> 00:00:51,820
+, the content of these brackets is always 
+
+21
+00:00:51,820 --> 00:00:54,640
+calculated first. We have 
+
+22
+00:00:54,640 --> 00:00:57,160
+written down an example of this. We have 
+
+23
+00:00:57,160 --> 00:01:00,900
+the calculation 3, 3 times in brackets 4 
+
+24
+00:01:00,900 --> 00:01:06,280
+minus 2 plus 3 minus in brackets 8 
+
+25
+00:01:06,280 --> 00:01:11,400
+minus 6 times 2. The first thing 
+
+26
+00:01:11,400 --> 00:01:13,700
+we do is work out the brackets. 
+
+27
+00:01:13,700 --> 00:01:17,500
+This means that we calculate 4 minus 2 
+equals 2 
+
+28
+00:01:17,500 --> 00:01:22,780
+and 8 minus 6 equals 2. Only then do 
+
+29
+00:01:22,780 --> 00:01:25,400
+we 
+
+30
+00:01:25,400 --> 00:01:26,580
+apply the other calculation rules. If 
+
+31
+00:01:29,010 --> 00:01:32,250
+we 
+
+32
+00:01:32,250 --> 00:01:34,790
+have several brackets inside each other in 
+a calculation, we calculate from the 
+
+33
+00:01:34,790 --> 00:01:40,570
+inside out. So 3 times square 
+
+34
+00:01:40,570 --> 00:01:43,770
+brackets open, round brackets open, 4 
+
+35
+00:01:43,770 --> 00:01:47,450
+minus 2, round brackets closed, plus 3 
+
+36
+00:01:47,450 --> 00:01:50,470
+square brackets closed, minus round 
+
+37
+00:01:50,470 --> 00:01:53,910
+brackets open, 8 minus 6, round brackets 
+
+38
+00:01:53,910 --> 00:01:57,670
+closed, times 2. So we first calculate 
+
+39
+00:01:57,670 --> 00:02:00,610
+what is in the inner bracket. 4 
+
+40
+00:02:00,610 --> 00:02:04,510
+minus 2 is 2. Then we can 
+
+41
+00:02:04,510 --> 00:02:07,270
+work out the square bracket. 2 plus 3 
+
+42
+00:02:07,270 --> 00:02:12,240
+is 5. If there is only one 
+
+43
+00:02:12,240 --> 00:02:14,020
+round bracket, we only need to 
+
+44
+00:02:14,020 --> 00:02:15,580
+work out the round bracket. 
+
+45
+00:02:15,580 --> 00:02:18,400
+There are no more brackets inside. So 8 
+
+46
+00:02:18,400 --> 00:02:22,560
+minus 6 equals 2. Then we can 
+
+47
+00:02:22,560 --> 00:02:24,540
+calculate again. What 
+
+48
+00:02:28,410 --> 00:02:32,570
+does dot before dash mean? 
+
+49
+00:02:32,570 --> 00:02:34,830
+Again, we remember when a calculation 
+
+50
+00:02:34,830 --> 00:02:37,710
+has no brackets or no more brackets 
+
+51
+00:02:37,710 --> 00:02:41,930
+, but it consists of multiplication 
+
+52
+00:02:41,930 --> 00:02:45,670
+and or division as well as addition and 
+
+53
+00:02:45,670 --> 00:02:49,530
+or subtraction. In other words, 
+
+54
+00:02:49,530 --> 00:02:53,870
+
+55
+00:02:53,870 --> 00:02:56,530
+the rule point before 
+
+56
+00:02:56,530 --> 00:02:58,950
+dash applies to both multiplication and 
+division as well as addition and 
+subtraction . Dot before dash means 
+
+57
+00:02:59,530 --> 00:03:02,450
+that we 
+
+58
+00:03:02,450 --> 00:03:05,710
+
+59
+00:03:05,710 --> 00:03:08,070
+
+60
+00:03:08,070 --> 00:03:11,410
+do the dot calculations, i.e. times and 
+divided, before the dash calculations, 
+i.e. minus and plus. This depends on the 
+
+61
+00:03:11,410 --> 00:03:15,330
+appearance of the characters. Times and 
+
+62
+00:03:15,330 --> 00:03:17,850
+divided are made up of dots, 
+
+63
+00:03:17,850 --> 00:03:19,530
+plus and minus are made up of dashes 
+
+64
+00:03:19,530 --> 00:03:21,290
+. That's why we say dot before 
+
+65
+00:03:21,290 --> 00:03:24,650
+dash. In other words, we have 
+
+66
+00:03:24,650 --> 00:03:26,970
+given another example. 5 times 3 
+
+67
+00:03:26,970 --> 00:03:30,710
+minus 9 plus 2 minus 9 divided by 
+
+68
+00:03:30,710 --> 00:03:34,470
+3 plus 6 times 2. We have no 
+
+69
+00:03:34,470 --> 00:03:36,970
+brackets, so we apply the dot 
+
+70
+00:03:36,970 --> 00:03:38,750
+ before dash rule. This means that we 
+
+71
+00:03:38,750 --> 00:03:42,810
+first calculate 5 times 3, 9 divided 
+
+72
+00:03:42,810 --> 00:03:47,310
+by 3 and 6 times 2. 
+
+73
+00:03:47,310 --> 00:03:49,950
+Once we have calculated this , we can then 
+
+74
+00:03:49,950 --> 00:03:53,150
+
+75
+00:03:53,150 --> 00:03:53,730
+calculate plus and minus from left to 
+right. 
+
+76
+00:03:58,810 --> 00:04:01,310
+If we 
+
+77
+00:04:01,310 --> 00:04:04,090
+
+78
+00:04:04,090 --> 00:04:06,670
+
+79
+00:04:06,670 --> 00:04:09,550
+have brackets and multiplications or 
+divisions as well as additions or 
+subtractions , we first calculate the 
+
+80
+00:04:09,550 --> 00:04:12,090
+brackets, then we calculate the dot 
+
+81
+00:04:12,090 --> 00:04:15,550
+before the dash. Because when we 
+
+82
+00:04:15,550 --> 00:04:18,650
+calculate the brackets 
+
+83
+00:04:18,650 --> 00:04:21,110
+, we only have the dot before 
+
+84
+00:04:21,110 --> 00:04:22,510
+dash operation left. We no 
+
+85
+00:04:22,510 --> 00:04:24,410
+longer have any brackets 
+
+86
+00:04:24,410 --> 00:04:26,110
+in our calculation. We have already 
+
+87
+00:04:26,110 --> 00:04:26,690
+calculated them. 
+
+88
+00:04:31,200 --> 00:04:33,840
+How do we calculate with brackets? Let's 
+
+89
+00:04:33,840 --> 00:04:35,460
+take a look at the example problems. 
+
+90
+00:04:36,400 --> 00:04:39,460
+We have 3 times in brackets 4 minus 2 
+
+91
+00:04:39,460 --> 00:04:43,080
+plus 3 minus in brackets 8 minus 6 
+
+92
+00:04:43,080 --> 00:04:46,380
+times 2. First we calculate the 
+
+93
+00:04:46,380 --> 00:04:50,760
+brackets. 4 minus 2 equals 2. 8 minus 
+
+94
+00:04:50,760 --> 00:04:55,480
+6 also equals 2. Now that we 
+
+95
+00:04:55,480 --> 00:04:56,740
+
+96
+00:04:56,740 --> 00:04:58,600
+have no more brackets in our calculation, 
+we apply the 
+
+97
+00:04:58,600 --> 00:05:00,320
+ dot-before-dash rule. 
+
+98
+00:05:00,320 --> 00:05:05,040
+So we calculate 3 times 2 equals 6 and 2 
+times 2 
+
+99
+00:05:05,040 --> 00:05:08,920
+equals 4. Then we carry out the 
+
+100
+00:05:08,920 --> 00:05:10,520
+other arithmetic operations, 
+
+101
+00:05:10,620 --> 00:05:14,140
+i.e. addition and subtraction. 6 plus 
+
+102
+00:05:14,140 --> 00:05:18,940
+3 equals 9, minus 4 equals 5. 5 is 
+
+103
+00:05:18,940 --> 00:05:21,240
+therefore the result of our calculation. 
+
+104
+00:05:24,350 --> 00:05:27,830
+Another example with brackets 
+
+105
+00:05:27,830 --> 00:05:32,790
+within brackets. 3 times square 
+
+106
+00:05:32,790 --> 00:05:35,410
+brackets, then in brackets 4 minus 2 
+
+107
+00:05:35,410 --> 00:05:38,910
+plus 3, square brackets closed, 
+
+108
+00:05:39,050 --> 00:05:43,050
+minus in brackets 8 minus 6 times 2. 
+
+109
+00:05:44,390 --> 00:05:46,630
+Again, we first calculate the 
+
+110
+00:05:46,630 --> 00:05:48,970
+round bracket inside the square 
+
+111
+00:05:48,970 --> 00:05:53,070
+bracket. 4 minus 2 equals 2. 
+
+112
+00:05:53,070 --> 00:05:55,650
+We can 
+
+113
+00:05:55,650 --> 00:05:58,150
+also calculate the round bracket outside 
+immediately. 8 minus 6 
+
+114
+00:05:58,150 --> 00:06:01,370
+is also 2. Next, 
+
+115
+00:06:01,370 --> 00:06:04,110
+we calculate the square bracket. 2 
+
+116
+00:06:04,110 --> 00:06:08,010
+plus 3 equals 5. Now we have no 
+
+117
+00:06:08,010 --> 00:06:10,350
+more brackets in our calculation. 
+
+118
+00:06:10,430 --> 00:06:14,450
+We can therefore multiply. 3 times 
+
+119
+00:06:14,450 --> 00:06:19,810
+5 equals 15 and 2 times 2 equals 4. This 
+
+120
+00:06:19,810 --> 00:06:26,030
+means that 15 minus 4 is 11 and 11 is 
+
+121
+00:06:26,030 --> 00:06:28,270
+the result of our calculation. 
+
+122
+00:06:31,990 --> 00:06:33,270
+What happens if we 
+
+123
+00:06:33,270 --> 00:06:36,550
+
+124
+00:06:36,550 --> 00:06:39,170
+have dot arithmetic within brackets ? In 
+this case, we 
+
+125
+00:06:39,170 --> 00:06:41,830
+
+126
+00:06:41,830 --> 00:06:44,370
+first carry out the dot-before-dash 
+calculation within the brackets, but only 
+
+127
+00:06:44,370 --> 00:06:46,830
+within the bracket. In 
+
+128
+00:06:46,830 --> 00:06:50,050
+our task, this means 7 times square 
+brackets 
+
+129
+00:06:50,050 --> 00:06:53,710
+to 5 plus inside brackets 3 times 3 minus 
+
+130
+00:06:53,710 --> 00:06:58,450
+4 minus 2 square brackets to minus 15 
+
+131
+00:06:58,450 --> 00:07:02,270
+times 2. We first calculate the 
+
+132
+00:07:02,270 --> 00:07:03,810
+dot-before-dash calculation 
+
+133
+00:07:03,810 --> 00:07:06,990
+inside the inner bracket. So 3 times 3 is 
+
+134
+00:07:06,990 --> 00:07:10,050
+9. Now we can 
+
+135
+00:07:10,050 --> 00:07:13,910
+calculate the inner bracket. 9 minus 4 
+equals 
+
+136
+00:07:13,910 --> 00:07:17,390
+5. Now we can calculate the outer 
+
+137
+00:07:17,390 --> 00:07:20,810
+bracket. 5 plus 5 equals 
+
+138
+00:07:20,810 --> 00:07:26,450
+10. minus 2 equals 8. We have now 
+
+139
+00:07:26,450 --> 00:07:29,690
+calculated all the brackets and 
+
+140
+00:07:29,690 --> 00:07:31,490
+we apply the dot-before-dash rule 
+
+141
+00:07:31,490 --> 00:07:35,910
+to the entire calculation. 7 times 8 
+
+142
+00:07:35,910 --> 00:07:41,450
+equals 56, 15 times 2 equals 30. Now 
+
+143
+00:07:41,450 --> 00:07:43,530
+we only have to 
+
+144
+00:07:43,530 --> 00:07:46,910
+carry out the remaining arithmetic 
+operations. So 
+
+145
+00:07:46,910 --> 00:07:52,690
+56 minus 30 equals 26. Let's 
+
+146
+00:07:54,870 --> 00:07:57,190
+summarize the whole thing again. 
+
+147
+00:07:57,190 --> 00:07:59,810
+Remember, we 
+
+148
+00:07:59,810 --> 00:08:02,850
+always calculate brackets first. If there 
+are several 
+
+149
+00:08:02,850 --> 00:08:05,770
+brackets, we calculate from the inside to 
+the 
+
+150
+00:08:05,770 --> 00:08:08,150
+outside. So first the inner bracket, 
+
+151
+00:08:08,230 --> 00:08:11,710
+then the outer bracket. 
+
+152
+00:08:11,710 --> 00:08:13,830
+We also note that the 
+
+153
+00:08:13,830 --> 00:08:16,590
+dot-before-dash rule applies to brackets . 
+And once we 
+
+154
+00:08:16,590 --> 00:08:18,510
+have calculated all the brackets, 
+
+155
+00:08:18,690 --> 00:08:20,970
+the dot-before-dash rule applies 
+
+156
+00:08:20,970 --> 00:08:25,490
+to the rest of the calculation. And that 
+brings us to 
+
+157
+00:08:25,490 --> 00:08:27,830
+the end of 
+
+158
+00:08:27,830 --> 00:08:29,830
+today's webinar. 
+
+159
+00:08:29,830 --> 00:08:31,450
+Thank you for your attention 
+
+160
+00:08:31,450 --> 00:08:33,210
+and have a nice day. 

@@ -1,0 +1,1380 @@
+1
+00:00:06,450 --> 00:00:09,170
+So, hallo und willkommen zum Webinar
+
+2
+00:00:09,170 --> 00:00:11,690
+heute in Deutsch. Heute geht es um
+
+3
+00:00:11,690 --> 00:00:14,350
+Konjugation. Klingt langweilig, ist
+
+4
+00:00:14,350 --> 00:00:16,670
+aber eigentlich recht interessant und
+
+5
+00:00:16,670 --> 00:00:20,690
+wichtig. Genau, also zuerst schauen
+
+6
+00:00:20,690 --> 00:00:22,410
+wir uns einfach Grundlagen an zur
+
+7
+00:00:22,410 --> 00:00:25,010
+Konjugation, also Personennummer und
+
+8
+00:00:25,010 --> 00:00:27,010
+Tempus. Dann schauen wir uns
+
+9
+00:00:27,010 --> 00:00:28,470
+Indikativ und Konjunktiv an und
+
+10
+00:00:28,470 --> 00:00:30,910
+zuletzt an eben Aktiv und Passiv
+
+11
+00:00:30,910 --> 00:00:31,590
+Modus.
+
+12
+00:00:34,350 --> 00:00:37,270
+So, also generell ist halt eben zu
+
+13
+00:00:37,270 --> 00:00:39,550
+sagen, Verben werden konjugiert, das
+
+14
+00:00:39,550 --> 00:00:41,130
+heißt Konjugationen gelten nur
+
+15
+00:00:41,130 --> 00:00:43,710
+Verwerben. Adjektive und Nomen
+
+16
+00:00:43,710 --> 00:00:47,110
+beispielsweise werden dekliniert. Die
+
+17
+00:00:47,110 --> 00:00:48,710
+Form wird dabei, also beim
+
+18
+00:00:48,710 --> 00:00:50,290
+Konjugieren, wird die Form nach
+
+19
+00:00:50,290 --> 00:00:52,870
+Person, Numerus, also Singular und
+
+20
+00:00:52,870 --> 00:00:54,390
+Plural und Tempus, Zeitform
+
+21
+00:00:54,390 --> 00:00:57,210
+verändert. Beispielsweise, man sieht
+
+22
+00:00:57,210 --> 00:00:58,510
+hier den Infinitiv, also die
+
+23
+00:00:58,510 --> 00:01:00,950
+Grundform, das ist Laufen. Das
+
+24
+00:01:00,950 --> 00:01:04,770
+konjugierte Verb wäre, ich laufe. Und
+
+25
+00:01:04,770 --> 00:01:06,490
+das kann man dann quasi aufdröseln.
+
+26
+00:01:06,490 --> 00:01:09,330
+Okay, ich laufe. Person ist die erste
+
+27
+00:01:09,330 --> 00:01:13,290
+Person. Singular. Weil Plural wäre ja
+
+28
+00:01:13,290 --> 00:01:15,970
+wir. Tempus ist Präsens. Ich laufe.
+
+29
+00:01:16,510 --> 00:01:17,990
+Dasselbe können wir mit Essen machen.
+
+30
+00:01:18,370 --> 00:01:21,190
+Essen ist ja Infinitiv. Wenn es
+
+31
+00:01:21,190 --> 00:01:24,010
+heißt, sie aßen, dann ist es auf
+
+32
+00:01:24,010 --> 00:01:25,650
+jeden Fall dritte Person Plural
+
+33
+00:01:25,650 --> 00:01:29,510
+Präterite. Und malen, du wirst malen,
+
+34
+00:01:29,510 --> 00:01:31,350
+ist das konjugierte Verb, dann ist es
+
+35
+00:01:31,350 --> 00:01:33,570
+zweite Person Singular, Futur 1. So
+
+36
+00:01:33,570 --> 00:01:34,630
+kann man das halt dann immer so
+
+37
+00:01:34,630 --> 00:01:36,910
+auseinander bestimmen, wenn man ein
+
+38
+00:01:36,910 --> 00:01:38,830
+konjugiertes Verb vor sich hat. Oder
+
+39
+00:01:38,830 --> 00:01:40,510
+halt auch so rum bilden, wenn man nur
+
+40
+00:01:40,510 --> 00:01:42,410
+weiß, erste Person Singular, Präsens,
+
+41
+00:01:42,410 --> 00:01:44,330
+verlaufen, ah ja, ich laufe.
+
+42
+00:01:47,260 --> 00:01:49,200
+Es gibt finite und infinite
+
+43
+00:01:49,200 --> 00:01:52,920
+Verbformen. Die finiten Verbformen,
+
+44
+00:01:52,920 --> 00:01:54,740
+das ist meine veränderliche Verbform,
+
+45
+00:01:54,920 --> 00:01:57,080
+an diesem kann man Personnumerus und
+
+46
+00:01:57,080 --> 00:01:59,840
+Tempus ablesen. Diese Verbform kann
+
+47
+00:01:59,840 --> 00:02:01,360
+man eben auch Personalform oder
+
+48
+00:02:01,360 --> 00:02:04,040
+konjugierte Form nennen. Zum Beispiel
+
+49
+00:02:04,040 --> 00:02:06,120
+ich singe, das was ich gerade meinte,
+
+50
+00:02:06,240 --> 00:02:07,920
+da kann ich erkennen, okay, das ist
+
+51
+00:02:07,920 --> 00:02:09,960
+erste Person, Singular Presence.
+
+52
+00:02:11,880 --> 00:02:13,700
+Infinite, also unveränderliche
+
+53
+00:02:13,700 --> 00:02:17,700
+Verbformen, können nicht abgelesen
+
+54
+00:02:17,700 --> 00:02:19,220
+werden, welche Personnumerus oder
+
+55
+00:02:19,220 --> 00:02:22,020
+Tempus verwendet wird. Dazu gehört
+
+56
+00:02:22,020 --> 00:02:23,700
+der Infinitiv, also die Grundform,
+
+57
+00:02:23,800 --> 00:02:27,180
+sowas wie laufen. Das Partizip 1,
+
+58
+00:02:27,440 --> 00:02:29,720
+also Partizip präsent, sowas wie
+
+59
+00:02:29,720 --> 00:02:31,580
+lächelnd zum Beispiel. Und das
+
+60
+00:02:31,580 --> 00:02:33,400
+Partizip 2, das ist das Partizip
+
+61
+00:02:33,400 --> 00:02:37,360
+perfekt gestohlen. Beispielsweise
+
+62
+00:02:37,360 --> 00:02:39,880
+hier, Infinitiv ist lieb. Partizip 1
+
+63
+00:02:39,880 --> 00:02:42,740
+lächelnd, Partizip 2 gestohlen.
+
+64
+00:02:43,540 --> 00:02:47,100
+Infinitiv lesen, Partizip 1 singend
+
+65
+00:02:47,100 --> 00:02:51,480
+mit dem N-D. Und Partizip 2 gekocht
+
+66
+00:02:51,480 --> 00:02:56,170
+zum Beispiel. Genau, das war jetzt
+
+67
+00:02:56,170 --> 00:02:57,750
+erstmal die Grundlage. Ich hoffe, das
+
+68
+00:02:57,750 --> 00:03:00,970
+ist klar geworden. Und ich bin nicht
+
+69
+00:03:00,970 --> 00:03:02,690
+zu schnell durchgeprescht. Generell
+
+70
+00:03:02,690 --> 00:03:03,730
+bin ich halt am Ende immer auf die
+
+71
+00:03:03,730 --> 00:03:06,550
+Fragen. Wir machen weiter mit
+
+72
+00:03:06,550 --> 00:03:10,590
+Indikativ und Konjunktiv. Ja,
+
+73
+00:03:10,590 --> 00:03:12,350
+generell eher, wenn man redet,
+
+74
+00:03:12,350 --> 00:03:15,490
+benutzt man Indikativ und das ist die
+
+75
+00:03:15,490 --> 00:03:18,370
+Wirklichkeitsform des Verbs. Der
+
+76
+00:03:18,370 --> 00:03:19,890
+Indikativ wird benutzt, wenn etwas
+
+77
+00:03:19,890 --> 00:03:21,850
+tatsächlich so ist, wie es in der
+
+78
+00:03:21,850 --> 00:03:23,830
+Aussage dargestellt wird. Hier ist
+
+79
+00:03:23,830 --> 00:03:26,150
+das Beispiel, wir haben keine Milch
+
+80
+00:03:26,150 --> 00:03:29,870
+mehr. Dies ist Indikativ. Hingegen,
+
+81
+00:03:29,890 --> 00:03:32,010
+der Konjunktiv wird verwendet, wenn
+
+82
+00:03:32,010 --> 00:03:33,930
+etwas unsicher oder unmöglich ist.
+
+83
+00:03:34,030 --> 00:03:36,250
+Zum Beispiel, sie behauptet, wir
+
+84
+00:03:36,250 --> 00:03:38,010
+hätten keine Milch mehr. Das ist
+
+85
+00:03:38,010 --> 00:03:39,690
+einfach eine Behauptung. Man weiß
+
+86
+00:03:39,690 --> 00:03:41,230
+nicht, ob das stimmt, deswegen
+
+87
+00:03:41,230 --> 00:03:43,030
+benutzt man den Konjunktiv. Sie
+
+88
+00:03:43,030 --> 00:03:44,670
+behauptet, wir hätten keine Milch
+
+89
+00:03:44,670 --> 00:03:47,390
+mehr. Es gibt zwei verschiedene
+
+90
+00:03:47,390 --> 00:03:49,170
+Formen vom Konjunktiv, einmal den
+
+91
+00:03:49,170 --> 00:03:51,230
+Konjunktiv I und den Konjunktiv II.
+
+92
+00:03:52,090 --> 00:03:54,170
+Es gibt aber auch noch die Ersatzform
+
+93
+00:03:54,170 --> 00:03:56,050
+im Deutschen, wo man das mit würden
+
+94
+00:03:56,050 --> 00:03:56,730
+umschreibt.
+
+95
+00:03:59,370 --> 00:04:02,050
+So, das ist jetzt ein bisschen, ich
+
+96
+00:04:02,050 --> 00:04:04,470
+sag mal, umfassender, aber ich denke,
+
+97
+00:04:04,510 --> 00:04:06,010
+das kann man auch ganz gut verstehen,
+
+98
+00:04:06,110 --> 00:04:08,850
+sonst gerne nachfragen. Der
+
+99
+00:04:08,850 --> 00:04:12,010
+Konjunktiv 1 zeigt an, dass eine
+
+100
+00:04:12,010 --> 00:04:13,570
+Aussage, eine bestimmte Aussage
+
+101
+00:04:13,570 --> 00:04:14,970
+möglich ist, aber nicht sehr
+
+102
+00:04:14,970 --> 00:04:18,330
+wahrscheinlich. Konjunktiv 1 wird
+
+103
+00:04:18,330 --> 00:04:19,930
+beispielsweise in der indirekten Rede
+
+104
+00:04:19,930 --> 00:04:22,070
+verwendet. Meine Mutter sagt, ich
+
+105
+00:04:22,070 --> 00:04:23,450
+solle mich nicht so anstellen.
+
+106
+00:04:24,750 --> 00:04:26,290
+Konjunktiv 1 wird gebildet im
+
+107
+00:04:26,290 --> 00:04:27,970
+Präsens, indem man den Verbstamm
+
+108
+00:04:27,970 --> 00:04:29,430
+nimmt und die Konjunktivendung.
+
+109
+00:04:30,130 --> 00:04:31,270
+Beispielsweise ist es hier
+
+110
+00:04:31,270 --> 00:04:34,170
+durchkonjugiert am Wert sagen im
+
+111
+00:04:34,170 --> 00:04:36,690
+Präsens. Ich sage, du sagest, er
+
+112
+00:04:36,690 --> 00:04:39,030
+sage, wir sagen, ihr saget, sie
+
+113
+00:04:39,030 --> 00:04:41,870
+sagen. Das sind die Endungen vom
+
+114
+00:04:41,870 --> 00:04:44,630
+Konjunktiv 1 im Präsens. Und die kann
+
+115
+00:04:44,630 --> 00:04:45,590
+man natürlich dann beliebig auf
+
+116
+00:04:45,590 --> 00:04:48,190
+andere Wörter anbinden. Ich laufe, du
+
+117
+00:04:48,190 --> 00:04:50,810
+laufest, er laufe, wir laufen, ihr
+
+118
+00:04:50,810 --> 00:04:51,850
+laufet, sie laufen.
+
+119
+00:04:54,650 --> 00:04:57,470
+Im Perfekt der Konjunktiv 1 von haben
+
+120
+00:04:57,470 --> 00:05:00,950
+oder sein und das Partizip Perfekt 2.
+
+121
+00:05:01,390 --> 00:05:03,270
+Also das ist das Partizip 2, was wir
+
+122
+00:05:03,270 --> 00:05:06,670
+gerade hatten. Also laufen, dann ich
+
+123
+00:05:06,670 --> 00:05:08,690
+sei gelaufen, sehen, du habest
+
+124
+00:05:08,690 --> 00:05:10,490
+gesehen. Das muss man natürlich dann
+
+125
+00:05:10,490 --> 00:05:12,190
+entscheiden, ob es die Form von haben
+
+126
+00:05:12,190 --> 00:05:16,250
+oder sein ist. und dann das Partizip
+
+127
+00:05:16,250 --> 00:05:17,970
+Perfekt. Wichtig natürlich, dass man
+
+128
+00:05:17,970 --> 00:05:19,590
+die Form von haben oder sein in den
+
+129
+00:05:19,590 --> 00:05:23,940
+Konjunktiv 1 setzt, im Perfekt. Bei
+
+130
+00:05:23,940 --> 00:05:26,720
+der Bildung vom Konjunktiv 1 im Futur
+
+131
+00:05:26,720 --> 00:05:29,840
+1 wird der Konjunktiv 1 von werden
+
+132
+00:05:29,840 --> 00:05:31,020
+benutzt und der entsprechende
+
+133
+00:05:31,020 --> 00:05:33,300
+Infinitiv. Zum Beispiel verstehen, er
+
+134
+00:05:33,300 --> 00:05:36,120
+werde verstehen. Oder singen, er
+
+135
+00:05:36,120 --> 00:05:39,340
+werde singen. Genau, das muss man
+
+136
+00:05:39,340 --> 00:05:40,580
+sich merken, weil das eben im
+
+137
+00:05:40,580 --> 00:05:42,240
+alltäglichen Sprachberuf jetzt nicht
+
+138
+00:05:42,240 --> 00:05:43,200
+so verankert ist.
+
+139
+00:05:46,910 --> 00:05:48,970
+In manchen Fällen ist die Konjunktiv
+
+140
+00:05:48,970 --> 00:05:51,310
+1 Form dieselbe wie die Indikativform
+
+141
+00:05:51,310 --> 00:05:53,990
+wäre. In dieser Form benutzt man als
+
+142
+00:05:53,990 --> 00:05:56,190
+Ersatzform den Konjunktiv 2 oder die
+
+143
+00:05:56,190 --> 00:05:58,130
+Form mit würden. Dies wird gemacht,
+
+144
+00:05:58,190 --> 00:06:00,270
+damit es eben eindeutig ist, ob das
+
+145
+00:06:00,270 --> 00:06:03,930
+Indikativ oder Konjunktiv ist. Neben
+
+146
+00:06:03,930 --> 00:06:05,650
+der Verwendung als Ersatzform für
+
+147
+00:06:05,650 --> 00:06:09,070
+Konjunktiv 1 ist der Konjunktiv 2
+
+148
+00:06:09,070 --> 00:06:10,870
+auch dafür da, etwas auszudrücken,
+
+149
+00:06:10,890 --> 00:06:13,490
+was eben unmöglich ist. Und man
+
+150
+00:06:13,490 --> 00:06:15,590
+verwendet ihn, wenn eine Frage oder
+
+151
+00:06:15,590 --> 00:06:17,290
+Aussage besonders höflich formuliert
+
+152
+00:06:17,290 --> 00:06:17,830
+werden soll.
+
+153
+00:06:20,710 --> 00:06:22,570
+Verwendungsbeispiele. Der Lehrer
+
+154
+00:06:22,570 --> 00:06:24,770
+sagt, ich habe nicht genug gelernt.
+
+155
+00:06:25,510 --> 00:06:27,610
+In diesem Falle entspricht die
+
+156
+00:06:27,610 --> 00:06:30,390
+Verbform habe, also die Konjunktiv 1
+
+157
+00:06:30,390 --> 00:06:32,610
+Form, der Indikativform. Das könnte
+
+158
+00:06:32,610 --> 00:06:34,370
+ja auch ein Indikativsatz sein.
+
+159
+00:06:35,450 --> 00:06:37,750
+Deshalb wird dieser ersetzt durch den
+
+160
+00:06:37,750 --> 00:06:39,390
+Konjunktiv 2 beispielsweise.
+
+161
+00:06:39,390 --> 00:06:41,730
+Beispielsweise, der Lehrer sagt, ich
+
+162
+00:06:41,730 --> 00:06:44,890
+hätte nicht genug gelernt, weil mit
+
+163
+00:06:44,890 --> 00:06:47,790
+habe, was ich gerade meinte, wäre ja
+
+164
+00:06:47,790 --> 00:06:50,870
+die Konjunktiv 1-Form identisch der
+
+165
+00:06:50,870 --> 00:06:52,910
+Indikativform. Deswegen, wie wir
+
+166
+00:06:52,910 --> 00:06:54,310
+gerade eben gelernt haben, benutzt
+
+167
+00:06:54,310 --> 00:06:56,750
+man dann die Form des Konjunktiv 2s,
+
+168
+00:06:56,790 --> 00:07:00,570
+hätte statt habe, damit man eben den
+
+169
+00:07:00,570 --> 00:07:03,030
+Konjunktiv im Satz erkennt. Ich
+
+170
+00:07:03,030 --> 00:07:04,730
+wünschte, ich könnte fliegen. Dies
+
+171
+00:07:04,730 --> 00:07:06,210
+ist ein unmöglicher Wunsch, daher
+
+172
+00:07:06,210 --> 00:07:07,670
+wird da auch der Konjunktiv 2
+
+173
+00:07:07,670 --> 00:07:08,170
+verwendet.
+
+174
+00:07:13,290 --> 00:07:15,770
+Wie wir eben gelernt haben, man kann
+
+175
+00:07:15,770 --> 00:07:17,910
+eben auch, wenn die Konjunktiv 1 Form
+
+176
+00:07:17,910 --> 00:07:21,030
+der Indikativform entspricht, das
+
+177
+00:07:21,030 --> 00:07:24,090
+durch würde ersetzen oder Konjunktiv
+
+178
+00:07:24,090 --> 00:07:27,530
+2. Würde wäre das dann, der Lehrer
+
+179
+00:07:27,530 --> 00:07:29,850
+sagt, ich würde nicht lernen.
+
+180
+00:07:35,390 --> 00:07:37,850
+So, Konjunktiv 2 wird gebildet im
+
+181
+00:07:37,850 --> 00:07:39,750
+Präsens, in dem man dem Präteritum
+
+182
+00:07:39,750 --> 00:07:42,350
+stammt. zum Beispiel lacht, nimmt und
+
+183
+00:07:42,350 --> 00:07:44,450
+die entsprechende Konjunktivendung
+
+184
+00:07:44,450 --> 00:07:48,330
+ergänzt. Zum Beispiel, ich lachte, du
+
+185
+00:07:48,330 --> 00:07:50,690
+lachtest, er lachte, wir lachten, ihr
+
+186
+00:07:50,690 --> 00:07:52,990
+lachtet, sie lachten. Das kann man
+
+187
+00:07:52,990 --> 00:07:54,390
+sich eigentlich ganz gut merken. Man
+
+188
+00:07:54,390 --> 00:07:55,850
+muss dann nur halt dann richtig den
+
+189
+00:07:55,850 --> 00:08:01,250
+Präteritumstamm bestimmen. Im Perfekt
+
+190
+00:08:01,250 --> 00:08:03,590
+wird der Konjunktiv 2 gebildet, indem
+
+191
+00:08:03,590 --> 00:08:05,730
+man das Konjunktiv 2 entweder von
+
+192
+00:08:05,730 --> 00:08:07,910
+haben oder von sein benutzt und dann
+
+193
+00:08:07,910 --> 00:08:11,270
+das Partizip Perfekt verwendet. Zum
+
+194
+00:08:11,270 --> 00:08:14,250
+Beispiel, wenn wir Raten nehmen. Wir
+
+195
+00:08:14,250 --> 00:08:17,390
+hätten geraten. Oder du wärest
+
+196
+00:08:17,390 --> 00:08:20,110
+gerannt. Bei Raten passt haben, bei
+
+197
+00:08:20,110 --> 00:08:23,670
+Rennen passt sein und somit benutzt
+
+198
+00:08:23,670 --> 00:08:25,490
+man dann die entsprechende Konjunktiv
+
+199
+00:08:25,490 --> 00:08:27,710
+-2-Form, um das Konjunktiv-2 im
+
+200
+00:08:27,710 --> 00:08:31,830
+Perfekt zu bilden. Im Futur 1 benutzt
+
+201
+00:08:31,830 --> 00:08:34,230
+man das Konjunktiv-2 von Werden, also
+
+202
+00:08:34,230 --> 00:08:37,350
+Würde in dem Fall, Und der Infinitiv.
+
+203
+00:08:37,730 --> 00:08:40,270
+Beispiel. Vergessen. Er würde
+
+204
+00:08:40,270 --> 00:08:44,070
+vergessen. Sie würde vergessen. Sie
+
+205
+00:08:44,070 --> 00:08:47,130
+würde singen. Ich würde singen. Ich
+
+206
+00:08:47,130 --> 00:08:49,550
+würde lachen. Wir würden lachen.
+
+207
+00:08:51,190 --> 00:08:53,190
+Genau. Haben wir eben auch kurz
+
+208
+00:08:53,190 --> 00:08:56,390
+angerissen. Ist aber auch, wenn die
+
+209
+00:08:56,390 --> 00:08:58,470
+Konjunktiv-2-Form genauso aussieht
+
+210
+00:08:58,470 --> 00:09:00,550
+wie die Indikativ-Form, verwendet man
+
+211
+00:09:00,550 --> 00:09:02,210
+statt des Konjunktivs die Ersatzform
+
+212
+00:09:02,210 --> 00:09:04,690
+mit würden. Die Bildung ist dann
+
+213
+00:09:04,690 --> 00:09:06,010
+würden und der entsprechende
+
+214
+00:09:06,010 --> 00:09:09,950
+Infinitiv. Ich wünschte, sie wartete
+
+215
+00:09:09,950 --> 00:09:12,890
+auf mich. In diesem Falle entspricht
+
+216
+00:09:12,890 --> 00:09:15,150
+die Konjunktiv-2-Form der Indikativ
+
+217
+00:09:15,150 --> 00:09:17,170
+-Form, deshalb ersetzen wir es hier
+
+218
+00:09:17,170 --> 00:09:18,830
+durch würden. Ich wünschte, sie würde
+
+219
+00:09:18,830 --> 00:09:21,130
+auf mich warten. Kommt einem
+
+220
+00:09:21,130 --> 00:09:21,870
+vielleicht auch ein bisschen
+
+221
+00:09:21,870 --> 00:09:23,670
+geläufiger vor, weil man häufig halt
+
+222
+00:09:23,670 --> 00:09:26,610
+so im direkten Sprachgebrauch
+
+223
+00:09:26,610 --> 00:09:27,430
+kommuniziert.
+
+224
+00:09:30,190 --> 00:09:32,410
+Wir machen weiter mit den Modi, also
+
+225
+00:09:32,410 --> 00:09:36,270
+aktiv und passiv. Genau, wenn ein
+
+226
+00:09:36,270 --> 00:09:38,730
+Satz im Aktiv formuliert ist, dann
+
+227
+00:09:38,730 --> 00:09:40,170
+steht das handelnde Subjekt im
+
+228
+00:09:40,170 --> 00:09:44,210
+Vordergrund, also wer oder was. Damit
+
+229
+00:09:44,210 --> 00:09:46,630
+erfragt man ja das Subjekt und das
+
+230
+00:09:46,630 --> 00:09:49,350
+steht im Vordergrund. Zum Beispiel,
+
+231
+00:09:49,410 --> 00:09:51,530
+die Frau backt einen Kuchen. Wer oder
+
+232
+00:09:51,530 --> 00:09:53,590
+was backt einen Kuchen? Die Frau. Und
+
+233
+00:09:53,590 --> 00:09:54,670
+in dem Fall steht dann eben das
+
+234
+00:09:54,670 --> 00:09:56,970
+handelnde Subjekt im Mittelpunkt und
+
+235
+00:09:56,970 --> 00:09:58,550
+ist derjenige, der die Aktion
+
+236
+00:09:58,550 --> 00:10:00,490
+ausführt. Das ist auch ganz wichtig.
+
+237
+00:10:01,450 --> 00:10:04,050
+Wenn der Satz im Passiv steht, ist
+
+238
+00:10:04,050 --> 00:10:09,070
+der Vorgang der Handlung mehr betont
+
+239
+00:10:09,070 --> 00:10:11,210
+oder der Zustand mehr betont. Zum
+
+240
+00:10:11,210 --> 00:10:13,250
+Beispiel, der Kuchen wird gebacken.
+
+241
+00:10:15,170 --> 00:10:17,030
+Dann ist es irrelevant, dass die Frau
+
+242
+00:10:17,030 --> 00:10:18,290
+den Kuchen backt, sondern nur, dass
+
+243
+00:10:18,290 --> 00:10:20,610
+der Kuchen gebacken wird. Und das ist
+
+244
+00:10:20,610 --> 00:10:23,850
+dann passiv. Ich weiß nicht, ob das
+
+245
+00:10:23,850 --> 00:10:26,210
+jetzt klar rüberkam. Nochmal, um zu
+
+246
+00:10:26,210 --> 00:10:28,570
+sagen, im Aktiv steht das handelnde
+
+247
+00:10:28,570 --> 00:10:30,570
+Subjekt im Mittelpunkt. Punkt und
+
+248
+00:10:31,330 --> 00:10:35,310
+jemand tut etwas und im Passiv ist es
+
+249
+00:10:35,310 --> 00:10:36,750
+etwas wird getan.
+
+250
+00:10:41,120 --> 00:10:42,700
+Ich weiß nicht, ob das jetzt klar
+
+251
+00:10:42,700 --> 00:10:47,680
+rüberkam. Zum Beispiel, die Frau
+
+252
+00:10:47,680 --> 00:10:49,440
+fällt ja einfach weg in dem Passiv
+
+253
+00:10:49,440 --> 00:10:51,160
+-Sub. Weil es nur noch um den Vorgang
+
+254
+00:10:51,160 --> 00:10:54,460
+geht des Kuchenbackens. Der Kuchen
+
+255
+00:10:54,460 --> 00:10:57,800
+wird dadurch zum Subjekt. Aber er ist
+
+256
+00:10:57,800 --> 00:10:59,240
+halt nicht das handelnde Subjekt,
+
+257
+00:10:59,260 --> 00:11:01,100
+weil er ja gar nichts macht. wird
+
+258
+00:11:01,100 --> 00:11:05,700
+dann eben passiv genutzt. So, wie man
+
+259
+00:11:05,700 --> 00:11:07,640
+einen Aktivsatz in einen Passivsatz
+
+260
+00:11:07,640 --> 00:11:11,360
+umwandelt, das geschieht, indem man
+
+261
+00:11:11,360 --> 00:11:13,800
+das Objekt des Aktivsatzes zum
+
+262
+00:11:13,800 --> 00:11:15,500
+indirekten Subjekt des Passivsatzes
+
+263
+00:11:15,500 --> 00:11:17,480
+macht. Klingt kompliziert, aber es
+
+264
+00:11:17,480 --> 00:11:18,660
+ist genau das, was ich gerade schon
+
+265
+00:11:18,660 --> 00:11:20,580
+erklärt habe, wo der Kuchen dann zum
+
+266
+00:11:20,580 --> 00:11:23,460
+indirekten Subjekt geworden ist. Das
+
+267
+00:11:23,460 --> 00:11:25,160
+Verb vom Aktivsatz wird dann das
+
+268
+00:11:25,160 --> 00:11:27,760
+Hilfsverb werden oder sein, die
+
+269
+00:11:27,760 --> 00:11:29,960
+entsprechende Form und das Partizip
+
+270
+00:11:29,960 --> 00:11:34,280
+2, also perfekt ergänzt. Ob dann
+
+271
+00:11:34,280 --> 00:11:36,540
+werden oder sein benutzt wird, hängt
+
+272
+00:11:36,540 --> 00:11:39,080
+davon ab, ob es ein Vorgangspassiv
+
+273
+00:11:39,080 --> 00:11:42,340
+oder ein Zustandspassiv ist. Der Mann
+
+274
+00:11:42,340 --> 00:11:44,560
+repariert das Auto. Das Auto wird
+
+275
+00:11:44,560 --> 00:11:45,660
+repariert.
+
+276
+00:11:49,820 --> 00:11:52,860
+Im Vorgangspassiv steht ein Vorgang
+
+277
+00:11:52,860 --> 00:11:54,260
+oder eine Handlung im Vordergrund.
+
+278
+00:11:54,460 --> 00:11:56,560
+Man verwendet dabei das Hilfsverb
+
+279
+00:11:56,560 --> 00:11:59,500
+werden und das Partizip 2. Also das
+
+280
+00:11:59,500 --> 00:12:02,340
+Partizip Perfekt. Zum Beispiel. Die
+
+281
+00:12:02,340 --> 00:12:04,360
+Blumen werden gegossen. In diesem
+
+282
+00:12:04,360 --> 00:12:05,800
+Falle, so wie der Kuchen wird
+
+283
+00:12:05,800 --> 00:12:09,020
+gebacken, steht der Vorgang bzw. die
+
+284
+00:12:09,020 --> 00:12:10,460
+Handlung des Gießens im Vordergrund.
+
+285
+00:12:10,620 --> 00:12:12,640
+Deswegen ist es ein Vorgangspassiv.
+
+286
+00:12:13,240 --> 00:12:15,780
+Hingegen Zustandspassiv stellt nur
+
+287
+00:12:15,780 --> 00:12:17,460
+einen Zustand oder ein Ergebnis dar.
+
+288
+00:12:18,340 --> 00:12:20,000
+Dabei verwendet man dann das
+
+289
+00:12:20,000 --> 00:12:22,360
+Hilfsverb sein und das Partizip 2,
+
+290
+00:12:22,600 --> 00:12:24,780
+also Partizip Perfekt. Die Tür ist
+
+291
+00:12:24,780 --> 00:12:25,380
+geschlossen.
+
+292
+00:12:27,920 --> 00:12:29,740
+des Geschlossenseins der Türe im
+
+293
+00:12:29,740 --> 00:12:32,180
+Vordergrund. Und es ist kein Vorgang,
+
+294
+00:12:32,180 --> 00:12:35,200
+sondern ein Zustand. Und deswegen ist
+
+295
+00:12:35,200 --> 00:12:37,660
+es das Zustandspassiv. Und man
+
+296
+00:12:37,660 --> 00:12:40,300
+verwendet ist, also die Form von
+
+297
+00:12:40,300 --> 00:12:40,660
+sein.
+
+298
+00:12:43,480 --> 00:12:45,580
+Im Normalfall ist es einem Passivsatz
+
+299
+00:12:45,580 --> 00:12:47,160
+nicht möglich zu erkennen, wer
+
+300
+00:12:47,160 --> 00:12:49,820
+handelt. Man bedenke das Beispiel,
+
+301
+00:12:50,060 --> 00:12:52,520
+der Kuchen wird gebacken. Ja, wer
+
+302
+00:12:52,520 --> 00:12:54,220
+backt den Kuchen? Man weiß es nicht.
+
+303
+00:12:54,220 --> 00:12:56,620
+Oder hier, die Kuh wird gemolken,
+
+304
+00:12:56,700 --> 00:12:58,360
+aber es gibt keine Angaben, wer die
+
+305
+00:12:58,360 --> 00:13:01,920
+Kuh melkt. Es ist aber auch möglich,
+
+306
+00:13:02,120 --> 00:13:03,980
+in einem Passivsatz zu zeigen, wer
+
+307
+00:13:03,980 --> 00:13:08,920
+handelt. Dabei benutzt man das Wort
+
+308
+00:13:08,920 --> 00:13:11,260
+von plus Dativ oder durch und
+
+309
+00:13:11,260 --> 00:13:14,040
+Akkusativ und kann dadurch eben den
+
+310
+00:13:14,040 --> 00:13:15,760
+Handelnden in den Satz einbauen, sag
+
+311
+00:13:15,760 --> 00:13:19,140
+ich mal. Zum Beispiel, das Kind wird
+
+312
+00:13:19,140 --> 00:13:21,320
+von seinem Bruder geärgert. Die Sicht
+
+313
+00:13:21,320 --> 00:13:23,120
+wird durch den Schnee verschlechtert.
+
+314
+00:13:23,220 --> 00:13:25,100
+Und somit hat man dann auch den
+
+315
+00:13:25,100 --> 00:13:25,940
+Handelnden drin.
+
+316
+00:13:29,550 --> 00:13:31,420
+Ja, generell ist noch zu sagen, dass
+
+317
+00:13:31,420 --> 00:13:33,820
+die Regeln, wenn man von und wenn man
+
+318
+00:13:33,820 --> 00:13:35,800
+durch verwendet, also gerade wenn man
+
+319
+00:13:35,800 --> 00:13:38,480
+Dativ und Akkusativ verwendet, ist
+
+320
+00:13:38,480 --> 00:13:39,500
+nicht ganz easy.
+
+321
+00:13:42,080 --> 00:13:43,980
+Prinzipiell kann man sagen, man
+
+322
+00:13:43,980 --> 00:13:46,280
+benutzt von eher bei Personen und
+
+323
+00:13:46,280 --> 00:13:50,480
+durch eher bei Dingen. Ein weiterer
+
+324
+00:13:50,480 --> 00:13:52,440
+Anhaltspunkt dabei ist, ob der
+
+325
+00:13:52,440 --> 00:13:54,700
+Handelnde oder die Ursache direkt
+
+326
+00:13:54,700 --> 00:13:56,240
+oder indirekt auf die Handlung
+
+327
+00:13:56,240 --> 00:13:58,380
+einwirkt. Wenn es eher direkt ist,
+
+328
+00:13:58,440 --> 00:14:00,160
+benutzt man von. Wenn es eher
+
+329
+00:14:00,160 --> 00:14:04,240
+indirekt ist, benutzt man durch. Zum
+
+330
+00:14:04,240 --> 00:14:06,780
+Beispiel. Die Tischdecke wird von der
+
+331
+00:14:06,780 --> 00:14:09,700
+Frau weggetragen. Also es ist direkte
+
+332
+00:14:09,700 --> 00:14:11,980
+Einwirkung. Oder die Tischdecke wird
+
+333
+00:14:11,980 --> 00:14:13,900
+durch den Wind weggeweht. Das ist ja
+
+334
+00:14:13,900 --> 00:14:15,780
+eher indirekte Einwirkung, weil der
+
+335
+00:14:15,780 --> 00:14:18,540
+Wind ja nicht quasi das Ziel hat, die
+
+336
+00:14:18,540 --> 00:14:20,180
+Decke wegzutragen. Sondern er ist
+
+337
+00:14:20,180 --> 00:14:23,120
+einfach windig, wie immer. Genau. Ich
+
+338
+00:14:23,120 --> 00:14:24,820
+hoffe, es wurde ein bisschen klar,
+
+339
+00:14:24,860 --> 00:14:26,680
+die Grundlagen zur Konjugation. Ich
+
+340
+00:14:26,680 --> 00:14:28,000
+weiß, das ist ein sehr umfassendes
+
+341
+00:14:28,000 --> 00:14:31,900
+Thema, aber ich bin mir sicher, man
+
+342
+00:14:31,900 --> 00:14:35,040
+kann das meistern. Alles klar. Dann
+
+343
+00:14:35,040 --> 00:14:35,880
+bedanke ich mich für die
+
+344
+00:14:35,880 --> 00:14:37,320
+Aufmerksamkeit und wünsche noch einen
+
+345
+00:14:37,320 --> 00:14:37,900
+schönen Abend.
+

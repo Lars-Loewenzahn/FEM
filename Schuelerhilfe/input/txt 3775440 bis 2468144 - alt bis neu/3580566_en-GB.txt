@@ -1,0 +1,2159 @@
+﻿1
+00:00:01,940 --> 00:00:03,800
+Welcome to the webinar 
+
+2
+00:00:03,800 --> 00:00:06,400
+analytic geometry positional relationship 
+
+3
+00:00:06,400 --> 00:00:08,900
+part 1. In this 
+
+4
+00:00:08,900 --> 00:00:10,540
+webinar we will 
+
+5
+00:00:10,540 --> 00:00:12,460
+
+6
+00:00:12,460 --> 00:00:14,060
+
+7
+00:00:14,060 --> 00:00:16,920
+look at the positional relationship from a 
+point to a degree as well as the 
+positional relationship between two 
+degrees . First, we will start with the 
+
+8
+00:00:16,920 --> 00:00:18,300
+positional relationship between a point 
+
+9
+00:00:18,300 --> 00:00:22,480
+and a degree. 
+
+10
+00:00:22,480 --> 00:00:23,640
+
+11
+00:00:23,640 --> 00:00:25,160
+There are exactly two 
+
+12
+00:00:25,160 --> 00:00:27,080
+cases for the positional relationship 
+between a point and a degree . One case is 
+that the 
+
+13
+00:00:27,080 --> 00:00:28,520
+point is part of the degree, i.e. 
+
+14
+00:00:28,520 --> 00:00:31,000
+the point lies on the degree. And 
+
+15
+00:00:31,000 --> 00:00:32,260
+the second case is that the point 
+
+16
+00:00:32,260 --> 00:00:33,760
+is not part of the line. This means that 
+
+17
+00:00:33,760 --> 00:00:35,920
+the point is not on the 
+
+18
+00:00:35,920 --> 00:00:37,300
+straight line and is outside it and has 
+
+19
+00:00:37,300 --> 00:00:39,240
+a certain distance. This can 
+
+20
+00:00:39,240 --> 00:00:41,080
+also be calculated, 
+
+21
+00:00:41,080 --> 00:00:45,340
+but we won 't be doing that in this 
+webinar. 
+
+22
+00:00:45,340 --> 00:00:47,260
+The solution method or the approach 
+
+23
+00:00:47,260 --> 00:00:49,300
+to such a problem is that we 
+
+24
+00:00:49,300 --> 00:00:52,460
+carry out a point test. This means that we 
+
+25
+00:00:52,460 --> 00:00:54,820
+
+26
+00:00:54,820 --> 00:00:56,640
+
+27
+00:00:56,640 --> 00:00:58,580
+
+28
+00:00:58,580 --> 00:01:00,440
+equate the position vector of the point, 
+i.e. simply write the point as a vector , 
+with the parameter form of the linear 
+equation and 
+
+29
+00:01:00,440 --> 00:01:02,260
+solve the resulting 
+
+30
+00:01:02,260 --> 00:01:05,420
+system of equations. The small problem 
+
+31
+00:01:05,500 --> 00:01:06,740
+that arises is that we have 
+
+32
+00:01:06,740 --> 00:01:08,780
+a system of equations with three 
+
+33
+00:01:08,780 --> 00:01:10,300
+equations, but only one variable, 
+
+34
+00:01:10,360 --> 00:01:12,640
+i.e. it is overdetermined. And 
+
+35
+00:01:12,640 --> 00:01:14,960
+so we have to 
+
+36
+00:01:14,960 --> 00:01:16,760
+determine the solutions to all three 
+equations, 
+
+37
+00:01:16,800 --> 00:01:18,320
+or 
+
+38
+00:01:18,320 --> 00:01:20,140
+determine the solutions from all three 
+equations , and then 
+
+39
+00:01:20,140 --> 00:01:21,620
+see whether we 
+
+40
+00:01:21,620 --> 00:01:23,520
+have a uniform solution at the end. Yes, 
+this means that our 
+
+41
+00:01:23,520 --> 00:01:26,760
+variable must 
+
+42
+00:01:26,760 --> 00:01:28,140
+have the same value for each equation . 
+We'll see that 
+
+43
+00:01:28,140 --> 00:01:29,020
+in a moment. We' 
+
+44
+00:01:29,020 --> 00:01:30,120
+ll have an example of 
+
+45
+00:01:30,120 --> 00:01:32,400
+both cases later on. This means that if 
+the 
+
+46
+00:01:32,400 --> 00:01:33,580
+point lies on the straight line, we have 
+
+47
+00:01:33,580 --> 00:01:36,100
+a unique solution. So 
+
+48
+00:01:36,100 --> 00:01:38,020
+all three equations 
+
+49
+00:01:38,020 --> 00:01:40,400
+have the same solution. The other case is 
+
+50
+00:01:40,500 --> 00:01:42,200
+that we do not 
+
+51
+00:01:42,200 --> 00:01:43,200
+have a unique solution. This means that we 
+have 
+
+52
+00:01:43,200 --> 00:01:44,640
+different solutions. So from 
+
+53
+00:01:44,640 --> 00:01:46,720
+one equation, the result is that lambda 
+
+54
+00:01:46,720 --> 00:01:48,240
+is equal to 2. 2 From the other equation 
+
+55
+00:01:48,240 --> 00:01:50,520
+, the result is that lambda is equal to 3. 
+And that 
+
+56
+00:01:50,520 --> 00:01:53,120
+is then quite clear, the point 
+
+57
+00:01:53,120 --> 00:01:57,410
+does not lie on the trench. We 
+
+58
+00:01:57,410 --> 00:01:58,290
+also have an example of this here, as 
+
+59
+00:01:58,290 --> 00:01:59,810
+just mentioned. On the left, we see 
+
+60
+00:01:59,810 --> 00:02:01,330
+the case where the point 
+
+61
+00:02:01,330 --> 00:02:03,330
+is part of the straight line. On the 
+right, we see the 
+
+62
+00:02:03,330 --> 00:02:04,710
+case where the point is not part of the 
+
+63
+00:02:04,710 --> 00:02:06,730
+line. We have specified the 
+
+64
+00:02:06,730 --> 00:02:10,390
+point P above. And 
+
+65
+00:02:10,390 --> 00:02:12,350
+we 
+
+66
+00:02:12,350 --> 00:02:14,890
+equate this point P with the equation of 
+the line G . the equation of the line g 
+
+67
+00:02:14,890 --> 00:02:17,990
+in this case is 0 31 plus subject 1 
+
+68
+00:02:17,990 --> 00:02:21,510
+minus 2 minus 1, i.e. we 
+
+69
+00:02:21,510 --> 00:02:23,990
+now 
+
+70
+00:02:23,990 --> 00:02:25,610
+
+71
+00:02:25,610 --> 00:02:28,270
+equate the point in the vector formula 
+with the equation of the line , i.e. 112 
+equals 
+
+72
+00:02:28,270 --> 00:02:34,090
+0 31 plus subject 1 2 1 and the form 
+
+73
+00:02:34,090 --> 00:02:38,970
+becomes a lgs, i.e. we 
+
+74
+00:02:38,970 --> 00:02:41,070
+simply see this line by line, i.e. 1 
+
+75
+00:02:41,070 --> 00:02:43,630
+equals 0 plus 1t, 1 equals 3 
+
+76
+00:02:43,630 --> 00:02:46,110
+minus 2t and 2 equals 1 plus t. 
+
+77
+00:02:47,170 --> 00:02:49,750
+And now we calculate 
+
+78
+00:02:49,750 --> 00:02:51,670
+the solution 
+
+79
+00:02:51,670 --> 00:02:52,950
+for t for each of these three equations . 
+We do this here, as 
+
+80
+00:02:52,950 --> 00:02:54,530
+I said, because we only 
+
+81
+00:02:54,530 --> 00:02:56,750
+have one unknown , so we 
+
+82
+00:02:56,750 --> 00:02:59,450
+get a solution from each equation. And 
+
+83
+00:02:59,450 --> 00:03:01,150
+in this case, we see 
+
+84
+00:03:01,150 --> 00:03:03,230
+that the solution t is 
+
+85
+00:03:03,230 --> 00:03:04,950
+equal to 1 for all three equations 
+
+86
+00:03:04,950 --> 00:03:07,550
+
+87
+00:03:07,550 --> 00:03:09,250
+, which means that we have a uniform 
+solution 
+
+88
+00:03:09,250 --> 00:03:12,370
+. Here on the right 
+
+89
+00:03:12,370 --> 00:03:13,470
+we see another case, which 
+
+90
+00:03:13,470 --> 00:03:14,750
+has already been worked out a little 
+
+91
+00:03:14,750 --> 00:03:16,590
+, which means we have 
+
+92
+00:03:16,590 --> 00:03:18,790
+
+93
+00:03:18,790 --> 00:03:20,090
+equated a point with the same equation of 
+the line, i.e. 
+
+94
+00:03:20,090 --> 00:03:24,310
+this is now the point 2-1-0 and 
+
+95
+00:03:24,310 --> 00:03:26,130
+we have already equated it and 
+
+96
+00:03:26,130 --> 00:03:28,010
+
+97
+00:03:28,010 --> 00:03:30,850
+formed the system of equations directly 
+from it , i.e. 2 minus 1, 0 is equal to 
+
+98
+00:03:30,850 --> 00:03:34,050
+0, 3, 1 plus t times 1 minus 2, 1. 
+
+99
+00:03:34,650 --> 00:03:36,330
+This results in the system of equations 2 
+
+100
+00:03:36,330 --> 00:03:39,010
+is equal to 0 plus t or 0 plus 1t 
+
+101
+00:03:39,010 --> 00:03:42,970
+and minus 1 is equal to 3 minus 2t, 0 
+
+102
+00:03:42,970 --> 00:03:46,430
+is equal to 1 plus 1t. If we 
+
+103
+00:03:46,430 --> 00:03:47,970
+now transform this to t, 
+
+104
+00:03:47,970 --> 00:03:49,310
+the first equation results in t is equal 
+
+105
+00:03:49,310 --> 00:03:51,990
+to 2. The second equation 
+
+106
+00:03:51,990 --> 00:03:54,010
+also results in t is equal to 2, but 
+
+107
+00:03:54,010 --> 00:03:55,430
+the third equation results in t is 
+
+108
+00:03:55,430 --> 00:03:57,550
+equal to minus 1. And now we have 
+
+109
+00:03:57,550 --> 00:03:58,930
+the two-neck solution twice, but 
+
+110
+00:03:58,930 --> 00:04:01,210
+unfortunately the minus 1 once. 
+Consequently, 
+
+111
+00:04:01,210 --> 00:04:02,930
+the point is not on the 
+
+112
+00:04:02,930 --> 00:04:05,450
+straight line. And that solves 
+
+113
+00:04:05,450 --> 00:04:07,110
+the problem. 
+
+114
+00:04:09,500 --> 00:04:11,960
+This brings us to the 
+
+115
+00:04:11,960 --> 00:04:13,680
+positional relationship between two 
+straight lines. 
+
+116
+00:04:14,300 --> 00:04:16,000
+
+117
+00:04:16,000 --> 00:04:17,780
+There are a total of four 
+
+118
+00:04:17,780 --> 00:04:21,560
+possibilities for the positional 
+relationship between two straight lines . 
+We are now 
+
+119
+00:04:21,560 --> 00:04:22,180
+really only talking about the 
+
+120
+00:04:22,180 --> 00:04:23,560
+three-dimensional. If you are in 
+
+121
+00:04:23,560 --> 00:04:25,520
+two dimensions, 
+
+122
+00:04:25,520 --> 00:04:26,840
+the fourth possibility, wind rails 
+
+123
+00:04:26,860 --> 00:04:28,900
+, does not exist . Vector calculation 
+
+124
+00:04:28,900 --> 00:04:30,400
+actually only takes place in 
+
+125
+00:04:30,400 --> 00:04:32,700
+three dimensions. Therefore, there are 
+
+126
+00:04:32,700 --> 00:04:34,540
+four possibilities. 
+
+127
+00:04:34,540 --> 00:04:35,660
+The first is, as we all know, 
+
+128
+00:04:35,720 --> 00:04:38,060
+parallel. The second is identical. 
+
+129
+00:04:38,060 --> 00:04:39,320
+The difference between parallel and 
+
+130
+00:04:39,320 --> 00:04:41,780
+identical is when two parallel 
+
+131
+00:04:41,780 --> 00:04:43,080
+degrees have the same 
+
+132
+00:04:43,080 --> 00:04:44,200
+orientation, i.e. the same 
+
+133
+00:04:44,200 --> 00:04:46,760
+direction. Two identical degrees 
+
+134
+00:04:46,760 --> 00:04:48,600
+also have the same direction, 
+
+135
+00:04:48,600 --> 00:04:50,240
+but they are really inside each other. 
+
+136
+00:04:50,240 --> 00:04:51,560
+This means that they have an infinite 
+
+137
+00:04:51,560 --> 00:04:53,980
+number of common points, whereas 
+
+138
+00:04:53,980 --> 00:04:56,880
+parallel degrees have no common 
+
+139
+00:04:56,880 --> 00:04:59,840
+points. Then there is the 
+
+140
+00:04:59,840 --> 00:05:01,240
+classic point of intersection, 
+
+141
+00:05:01,260 --> 00:05:02,920
+which means that they really do have a 
+point of intersection 
+
+142
+00:05:02,920 --> 00:05:05,380
+and then there is the case, which as 
+
+143
+00:05:05,380 --> 00:05:06,700
+I said only exists in three dimensions, 
+
+144
+00:05:06,840 --> 00:05:08,340
+that the degrees are skewed. 
+
+145
+00:05:08,600 --> 00:05:10,560
+Skewed means that they are not 
+
+146
+00:05:10,560 --> 00:05:11,880
+parallel, but they also have no 
+
+147
+00:05:11,880 --> 00:05:14,980
+intersection point because they do not 
+intersect 
+
+148
+00:05:14,980 --> 00:05:16,300
+. As I said, this is only possible in 
+
+149
+00:05:16,300 --> 00:05:18,260
+three 
+
+150
+00:05:18,260 --> 00:05:21,440
+dimensions, because you need the third 
+dimension for this. 
+
+151
+00:05:21,440 --> 00:05:22,880
+In principle, you can imagine it like this 
+
+152
+00:05:22,880 --> 00:05:24,800
+: you stretch 
+
+153
+00:05:24,800 --> 00:05:27,120
+a thread on the ceiling and on the floor. 
+These 
+
+154
+00:05:27,120 --> 00:05:28,760
+are not parallel to each other if 
+
+155
+00:05:28,760 --> 00:05:30,700
+you stretch them correctly, but they 
+
+156
+00:05:30,700 --> 00:05:31,860
+will never intersect. 
+
+157
+00:05:35,120 --> 00:05:37,200
+Well, how can you test the whole thing? 
+
+158
+00:05:38,820 --> 00:05:40,340
+When you 
+
+159
+00:05:40,340 --> 00:05:42,020
+examine the bearing relationship between 
+two straight lines, you 
+
+160
+00:05:42,020 --> 00:05:44,100
+always have two steps. The first 
+
+161
+00:05:44,100 --> 00:05:45,100
+step is always to check the 
+
+162
+00:05:45,100 --> 00:05:46,920
+direction vectors. 
+
+163
+00:05:46,920 --> 00:05:47,800
+In other words, you check whether the 
+
+164
+00:05:47,800 --> 00:05:49,460
+direction vectors 
+
+165
+00:05:49,460 --> 00:05:51,020
+are linearly dependent. This means whether 
+they 
+
+166
+00:05:51,020 --> 00:05:53,020
+are multiples of each other. This 
+
+167
+00:05:53,020 --> 00:05:55,200
+clarifies whether the two degrees 
+
+168
+00:05:55,200 --> 00:05:57,540
+have the same direction. And it is 
+
+169
+00:05:57,540 --> 00:05:59,480
+probably noticeable that parallel 
+
+170
+00:05:59,480 --> 00:06:01,600
+and identical degrees have the 
+
+171
+00:06:01,600 --> 00:06:04,340
+same direction. If the degrees 
+
+172
+00:06:04,340 --> 00:06:05,300
+have a point of intersection or 
+
+173
+00:06:05,300 --> 00:06:06,860
+are skewed, they 
+
+174
+00:06:06,860 --> 00:06:12,740
+do not. This means that if we 
+
+175
+00:06:12,740 --> 00:06:13,940
+
+176
+00:06:13,940 --> 00:06:16,180
+
+177
+00:06:16,180 --> 00:06:17,960
+have checked our direction vector or 
+direction vectors for linear dependence 
+and this 
+
+178
+00:06:17,960 --> 00:06:20,600
+is positive, then we either have 
+
+179
+00:06:20,600 --> 00:06:23,200
+two parallel lines or two 
+
+180
+00:06:23,200 --> 00:06:26,080
+identical lines. To 
+
+181
+00:06:26,080 --> 00:06:27,940
+continue, the next step is to 
+
+182
+00:06:27,940 --> 00:06:29,440
+carry out the point test. In other words 
+
+183
+00:06:29,460 --> 00:06:32,080
+, we check whether the support vector of 
+
+184
+00:06:32,080 --> 00:06:34,800
+one line 
+
+185
+00:06:34,800 --> 00:06:36,720
+is part of the other line. If this is the 
+case, 
+
+186
+00:06:36,800 --> 00:06:39,940
+they are identical. So if the 
+
+187
+00:06:39,940 --> 00:06:41,120
+point test is successful, the 
+
+188
+00:06:41,120 --> 00:06:42,800
+lines are identical. 
+
+189
+00:06:42,800 --> 00:06:44,960
+If the dot test is not successful, 
+
+190
+00:06:45,080 --> 00:06:48,910
+they are parallel. If the 
+
+191
+00:06:48,910 --> 00:06:50,510
+direction vectors 
+
+192
+00:06:50,510 --> 00:06:51,730
+are not linearly dependent, then we are 
+here, 
+
+193
+00:06:51,810 --> 00:06:53,630
+then we have an intersection point 
+
+194
+00:06:53,630 --> 00:06:57,090
+or two skew lines. 
+
+195
+00:06:57,090 --> 00:06:58,850
+The next step is to go and check 
+
+196
+00:06:58,850 --> 00:06:59,950
+for an intersection. So you 
+
+197
+00:06:59,950 --> 00:07:02,050
+set the two lines G1 and G2 
+
+198
+00:07:02,050 --> 00:07:06,040
+equal. Equal. We then get a 
+
+199
+00:07:06,040 --> 00:07:08,980
+linear system of equations and if 
+
+200
+00:07:08,980 --> 00:07:11,660
+this has a unique solution, then 
+
+201
+00:07:11,660 --> 00:07:12,980
+we have an intersection point. Then 
+
+202
+00:07:12,980 --> 00:07:13,860
+you can also determine the point of 
+intersection 
+
+203
+00:07:13,860 --> 00:07:15,440
+. Let's do that straight away 
+
+204
+00:07:15,440 --> 00:07:18,520
+. If this 
+
+205
+00:07:18,520 --> 00:07:20,760
+system of linear equations has no 
+solution, 
+
+206
+00:07:20,880 --> 00:07:22,920
+the lines are skewed 
+
+207
+00:07:22,920 --> 00:07:24,160
+and therefore have no 
+
+208
+00:07:24,160 --> 00:07:25,160
+point of intersection . 
+
+209
+00:07:27,970 --> 00:07:29,730
+As already mentioned, 
+
+210
+00:07:29,730 --> 00:07:30,870
+we now have a few 
+
+211
+00:07:30,870 --> 00:07:32,470
+exercises to 
+
+212
+00:07:32,470 --> 00:07:33,590
+illustrate the whole thing. 
+
+213
+00:07:33,590 --> 00:07:35,490
+First of all, we have the case here, 
+
+214
+00:07:35,630 --> 00:07:37,370
+i.e. left and right are two 
+
+215
+00:07:37,370 --> 00:07:38,350
+different calculations. Below is the 
+
+216
+00:07:38,350 --> 00:07:40,070
+case where 
+
+217
+00:07:40,070 --> 00:07:41,750
+the lines are identical on the left and 
+
+218
+00:07:41,750 --> 00:07:45,210
+parallel on the right. Of course, we are 
+
+219
+00:07:45,210 --> 00:07:46,590
+also looking at different straight lines. 
+So 
+
+220
+00:07:46,590 --> 00:07:49,070
+let's start with the left side. 
+
+221
+00:07:49,270 --> 00:07:51,490
+Here we have g1 equals x-vector 
+
+222
+00:07:51,490 --> 00:07:54,130
+equals 0, 1, 2 plus r times 1, 2, 
+
+223
+00:07:54,150 --> 00:07:55,990
+minus 3. and the second 
+
+224
+00:07:55,990 --> 00:07:58,310
+equation of the line is 2.5, minus 4 
+
+225
+00:07:58,310 --> 00:08:01,810
+plus t times minus 2, minus 4, 6 and 
+
+226
+00:08:01,810 --> 00:08:03,910
+the first thing we do, of course, is to 
+check whether 
+
+227
+00:08:03,910 --> 00:08:05,570
+the two direction vectors 
+
+228
+00:08:05,570 --> 00:08:06,630
+are linearly dependent. In other words, we 
+check 
+
+229
+00:08:06,670 --> 00:08:08,090
+whether they are multiples of each other. 
+
+230
+00:08:08,730 --> 00:08:11,250
+Then we simply look at whether 1 and minus 
+
+231
+00:08:11,250 --> 00:08:13,950
+2 is the factor minus 2, 2 and minus 
+
+232
+00:08:13,950 --> 00:08:18,290
+4 is the factor minus 3 and 6 is also 
+
+233
+00:08:18,290 --> 00:08:21,390
+the factor minus 2. In other words 
+
+234
+00:08:21,390 --> 00:08:23,630
+, they are linearly dependent 
+
+235
+00:08:23,650 --> 00:08:25,230
+or the direction vectors 
+
+236
+00:08:25,230 --> 00:08:27,870
+are multiples of each other. Consequently, 
+
+237
+00:08:27,870 --> 00:08:29,710
+the two degrees are either 
+
+238
+00:08:29,710 --> 00:08:33,270
+parallel or identical. Therefore, 
+
+239
+00:08:33,270 --> 00:08:35,370
+the next step is to check the 
+
+240
+00:08:35,370 --> 00:08:36,990
+support vector of the other degrees 
+
+241
+00:08:36,990 --> 00:08:40,070
+to see if it is part of the degrees. 
+
+242
+00:08:40,150 --> 00:08:41,770
+Therefore, we now take the 
+
+243
+00:08:41,770 --> 00:08:45,270
+support vector of G2 and use 
+
+244
+00:08:45,270 --> 00:08:49,090
+it to perform the dot test on G1. So 
+
+245
+00:08:49,090 --> 00:08:50,250
+we take the support vector here 
+
+246
+00:08:50,250 --> 00:08:51,670
+and check whether it 
+
+247
+00:08:51,670 --> 00:08:54,130
+lies on this equation of the line. This 
+brings us 
+
+248
+00:08:54,130 --> 00:08:56,030
+to the equation 2, 5, minus 4 is 
+
+249
+00:08:56,030 --> 00:08:58,710
+equal to 0, 1, 2 plus R times 1, 2, minus 
+
+250
+00:08:58,710 --> 00:09:00,850
+3. As I said, this is a very 
+
+251
+00:09:00,850 --> 00:09:02,210
+simple point test, as we 
+
+252
+00:09:02,210 --> 00:09:04,490
+have already demonstrated earlier. You 
+will notice that 
+
+253
+00:09:04,490 --> 00:09:06,510
+
+254
+00:09:06,510 --> 00:09:08,190
+R equals 2 in all three equations. 
+
+255
+00:09:08,250 --> 00:09:09,850
+So we have a uniform 
+
+256
+00:09:09,850 --> 00:09:14,230
+solution. Consequently, the point is part 
+
+257
+00:09:14,230 --> 00:09:17,150
+of the straight line and therefore the 
+
+258
+00:09:17,150 --> 00:09:20,990
+straight lines are identical. Here on the 
+right, 
+
+259
+00:09:20,990 --> 00:09:22,570
+as I said, we have the other example 
+
+260
+00:09:22,570 --> 00:09:24,090
+. We also have two 
+
+261
+00:09:24,090 --> 00:09:26,270
+straight line equations. One 
+
+262
+00:09:26,270 --> 00:09:28,990
+is 0, 1, 2 plus R times 1, 1, 3 
+
+263
+00:09:29,510 --> 00:09:32,970
+and the second is 4, 0, 0 plus T 
+
+264
+00:09:32,970 --> 00:09:36,530
+times 3, 3, 9. Here, too, we 
+
+265
+00:09:36,530 --> 00:09:37,430
+first check whether the 
+
+266
+00:09:37,430 --> 00:09:38,930
+direction vectors 
+
+267
+00:09:38,930 --> 00:09:42,710
+are linearly dependent. 1 and 3 is the 
+factor 3. 1 and 
+
+268
+00:09:42,710 --> 00:09:45,030
+3 is again the factor 3. 3 and 9, 
+
+269
+00:09:45,070 --> 00:09:46,790
+that would be the factor 3 in between. 
+
+270
+00:09:46,790 --> 00:09:49,230
+This means that yes, the direction vectors 
+are 
+
+271
+00:09:49,230 --> 00:09:50,970
+definitely linearly 
+
+272
+00:09:50,970 --> 00:09:53,130
+dependent on each other, i.e. multiples. 
+Consequently, 
+
+273
+00:09:53,130 --> 00:09:56,630
+the straight lines are also parallel 
+
+274
+00:09:56,630 --> 00:10:00,550
+or identical here. This is why the 
+
+275
+00:10:00,550 --> 00:10:02,190
+approach is now 
+
+276
+00:10:02,190 --> 00:10:03,530
+equivalent to what we 
+
+277
+00:10:03,530 --> 00:10:05,650
+did on the left. This means that we 
+
+278
+00:10:05,650 --> 00:10:07,830
+now 
+
+279
+00:10:07,830 --> 00:10:09,250
+equate the support vector with the other 
+line and 
+
+280
+00:10:09,250 --> 00:10:12,010
+check whether it is part of the line. 
+
+281
+00:10:12,010 --> 00:10:13,890
+Therefore, we take the support vector 
+
+282
+00:10:13,890 --> 00:10:16,710
+of G2, 4, 0, 0 and check whether it 
+
+283
+00:10:16,710 --> 00:10:19,210
+is part of the straight line G1. This 
+brings us 
+
+284
+00:10:19,210 --> 00:10:21,370
+to the equation 4, 0, 0 is 
+
+285
+00:10:21,370 --> 00:10:24,610
+equal to 0, 1, 2 plus R times 1, 1, 3. 
+
+286
+00:10:26,270 --> 00:10:28,150
+If we 
+
+287
+00:10:28,150 --> 00:10:29,570
+
+288
+00:10:29,570 --> 00:10:31,830
+carry out this point test, which is again 
+a point test, we will find 
+
+289
+00:10:31,830 --> 00:10:33,150
+that we 
+
+290
+00:10:33,150 --> 00:10:34,850
+get different values for R. So from the 
+first 
+
+291
+00:10:34,850 --> 00:10:36,330
+equation we get that R is equal to 
+
+292
+00:10:36,330 --> 00:10:38,430
+4. From the second equation 
+
+293
+00:10:38,430 --> 00:10:40,790
+we get that R is equal to minus 1. And 
+from 
+
+294
+00:10:40,790 --> 00:10:42,410
+the third equation we get that R 
+
+295
+00:10:42,410 --> 00:10:45,830
+is equal to minus 2 thirds. And that 
+
+296
+00:10:45,830 --> 00:10:47,210
+is not a uniform solution. 
+
+297
+00:10:49,130 --> 00:10:53,350
+Consequently, the point does not lie on 
+
+298
+00:10:53,350 --> 00:10:55,150
+the line and therefore the 
+
+299
+00:10:55,150 --> 00:10:58,730
+lines are only parallel. And this 
+
+300
+00:10:58,730 --> 00:11:00,250
+
+301
+00:11:00,250 --> 00:11:01,730
+also determines the positional 
+relationship between these two lines. 
+
+302
+00:11:04,110 --> 00:11:06,150
+Let's move on to the 
+
+303
+00:11:06,150 --> 00:11:08,010
+more complex cases. This means 
+
+304
+00:11:08,090 --> 00:11:09,530
+that the lines 
+
+305
+00:11:09,530 --> 00:11:10,750
+are either skewed or have an intersection 
+point. 
+
+306
+00:11:11,110 --> 00:11:13,070
+Here, too, we see 
+
+307
+00:11:13,070 --> 00:11:15,450
+our two straight lines at the top left. 
+
+308
+00:11:15,730 --> 00:11:18,870
+Our first straight line is G1 0,1 
+
+309
+00:11:18,870 --> 00:11:21,250
+,2 plus R times 1,1,2 and our 
+
+310
+00:11:21,250 --> 00:11:23,830
+straight line is equal to 2, 3, 0,0 plus T 
+
+311
+00:11:23,830 --> 00:11:27,830
+times minus 1, 1,2. Again, 
+
+312
+00:11:27,830 --> 00:11:29,710
+the first step is to 
+
+313
+00:11:29,710 --> 00:11:34,630
+check the linear dependency. So how do 
+
+314
+00:11:34,630 --> 00:11:36,150
+I get from 1 to minus 1? 1 is times 
+
+315
+00:11:36,150 --> 00:11:38,990
+minus 1. Here from 1 to 1, that 
+
+316
+00:11:38,990 --> 00:11:40,290
+would actually be a 1. And 
+
+317
+00:11:40,290 --> 00:11:41,390
+you can already see that there is not the 
+same 
+
+318
+00:11:41,390 --> 00:11:43,970
+factor. Consequently, 
+
+319
+00:11:43,970 --> 00:11:46,270
+when checking the linear 
+
+320
+00:11:46,270 --> 00:11:48,070
+dependency , we realize that the two 
+
+321
+00:11:48,070 --> 00:11:49,690
+direction vectors 
+
+322
+00:11:49,690 --> 00:11:51,330
+are not linearly dependent, i.e. they 
+
+323
+00:11:51,330 --> 00:11:53,870
+are not multiples . And so we check 
+directly for 
+
+324
+00:11:53,870 --> 00:11:56,330
+an intersection point. When checking for 
+
+325
+00:11:56,330 --> 00:11:58,170
+an intersection point , we set 
+
+326
+00:11:58,170 --> 00:11:59,470
+the complete straight lines to be equal 
+
+327
+00:11:59,470 --> 00:12:02,610
+and the same. This means that G1 is equal 
+to 
+
+328
+00:12:02,610 --> 00:12:05,990
+G2. This gives us 012 plus R times 
+
+329
+00:12:05,990 --> 00:12:10,290
+112, which is equal to 300 plus T times 
+
+330
+00:12:10,290 --> 00:12:11,250
+minus 112. 
+
+331
+00:12:13,830 --> 00:12:15,310
+We 
+
+332
+00:12:15,310 --> 00:12:17,090
+now have to solve this system of equations 
+. However, you realize that 
+
+333
+00:12:17,210 --> 00:12:19,090
+if you 
+
+334
+00:12:19,090 --> 00:12:20,290
+
+335
+00:12:20,290 --> 00:12:21,710
+examine the intersection of two straight 
+lines , you always have 
+
+336
+00:12:21,710 --> 00:12:22,990
+three equations and two unknowns. 
+
+337
+00:12:22,990 --> 00:12:24,550
+This means that it is still an 
+
+338
+00:12:24,550 --> 00:12:27,370
+overdetermined system of equations 
+
+339
+00:12:28,850 --> 00:12:31,330
+. Let's just take 
+
+340
+00:12:31,330 --> 00:12:32,710
+two equations as they arise here and solve 
+
+341
+00:12:32,710 --> 00:12:34,610
+them. However, it is still 
+
+342
+00:12:34,610 --> 00:12:36,170
+advisable to 
+
+343
+00:12:36,170 --> 00:12:37,910
+rearrange it completely so that you 
+
+344
+00:12:37,910 --> 00:12:39,550
+
+345
+00:12:39,550 --> 00:12:41,150
+have the two variables, i.e. the two 
+parameters on one side and the 
+
+346
+00:12:41,150 --> 00:12:42,710
+corresponding vector. Therefore, 
+
+347
+00:12:42,710 --> 00:12:45,850
+in the first step, we calculate minus 0, 
+1, 2 
+
+348
+00:12:45,970 --> 00:12:48,150
+so that the support vector is removed here 
+
+349
+00:12:48,150 --> 00:12:52,350
+and minus t times minus 1, 1, 2 so that 
+
+350
+00:12:52,350 --> 00:12:53,790
+the direction vector t 
+
+351
+00:12:53,790 --> 00:12:55,070
+is added to the page. Then we have our two 
+
+352
+00:12:55,070 --> 00:12:58,090
+parameters r and t on the left and our 
+
+353
+00:12:58,090 --> 00:13:00,530
+vector on the right. This gives us r 
+
+354
+00:13:00,530 --> 00:13:04,950
+times 1, 1, 2 minus t times minus 1, 1, 2 
+
+355
+00:13:04,950 --> 00:13:07,570
+and that is equal to 3, 0, 0 minus 0, 
+
+356
+00:13:07,690 --> 00:13:10,550
+1, 2. Very important, please be 
+
+357
+00:13:10,550 --> 00:13:11,690
+careful with the signs when you 
+
+358
+00:13:11,690 --> 00:13:14,330
+factor this out. This gives us r times 
+
+359
+00:13:14,330 --> 00:13:17,250
+1, i.e. r minus t times minus 1, 
+
+360
+00:13:17,330 --> 00:13:21,490
+which is minus minus plus t. 3 minus 0 
+
+361
+00:13:21,490 --> 00:13:24,190
+is a 3rd line, r times 1 
+
+362
+00:13:24,190 --> 00:13:26,790
+minus t times 1, which is simply 1r 
+
+363
+00:13:26,790 --> 00:13:29,090
+minus 1t and that is equal to 0 minus 
+
+364
+00:13:29,090 --> 00:13:33,590
+1, i.e. minus 1. The last line, r 
+
+365
+00:13:33,590 --> 00:13:36,330
+times 2 minus t times 2, is 2r 
+
+366
+00:13:36,330 --> 00:13:39,230
+minus 2t and 0 minus 2 is also a 
+
+367
+00:13:39,230 --> 00:13:42,250
+simple minus 2. And so we 
+
+368
+00:13:42,250 --> 00:13:43,710
+now have our system of equations and 
+
+369
+00:13:43,710 --> 00:13:45,810
+we simply 
+
+370
+00:13:45,810 --> 00:13:48,010
+take out two of the three equations here 
+to 
+
+371
+00:13:48,010 --> 00:13:49,610
+solve the system of equations. 
+
+372
+00:13:52,090 --> 00:13:53,610
+So we solve the whole thing as a 2x2 
+
+373
+00:13:53,610 --> 00:13:54,770
+system of equations. We decided 
+
+374
+00:13:54,770 --> 00:13:57,030
+to use the first two equations 
+
+375
+00:13:57,030 --> 00:13:58,730
+and came up with the 
+
+376
+00:13:58,730 --> 00:14:00,810
+solution R equals 1 and T equals 2. 
+
+377
+00:14:02,860 --> 00:14:05,060
+Once you have reached this point and 
+
+378
+00:14:05,060 --> 00:14:06,840
+determined the values of the two 
+parameters 
+
+379
+00:14:06,840 --> 00:14:08,240
+, you are still a long way from reaching 
+your 
+
+380
+00:14:08,240 --> 00:14:11,860
+goal. You absolutely have to 
+
+381
+00:14:11,860 --> 00:14:14,280
+do the test with the remaining equation. 
+
+382
+00:14:14,280 --> 00:14:15,160
+In other words, take the third 
+
+383
+00:14:15,160 --> 00:14:16,160
+equation that you have not yet 
+
+384
+00:14:16,160 --> 00:14:18,360
+worked with and do the test. 
+
+385
+00:14:18,360 --> 00:14:19,680
+In other words, you 
+
+386
+00:14:19,680 --> 00:14:21,220
+insert your R and your T. In our case, 
+this is equation 
+
+387
+00:14:21,220 --> 00:14:23,720
+3. With equations 1 and 2, the two 
+
+388
+00:14:23,720 --> 00:14:24,800
+above, we have solved the 
+
+389
+00:14:24,800 --> 00:14:26,920
+system of equations. And 
+
+390
+00:14:26,920 --> 00:14:28,200
+equation 3 below is the 
+
+391
+00:14:28,200 --> 00:14:29,900
+remaining equation, which we will use at 
+the end of the 
+
+392
+00:14:29,900 --> 00:14:31,660
+test. This is where 
+
+393
+00:14:31,660 --> 00:14:33,180
+we finally decide 
+
+394
+00:14:33,420 --> 00:14:36,380
+whether the lines are skewed or 
+
+395
+00:14:36,380 --> 00:14:39,920
+have a point of intersection. And that is 
+2r 
+
+396
+00:14:39,920 --> 00:14:42,040
+-2t is equal to minus 2, we know r 
+
+397
+00:14:42,040 --> 00:14:43,880
+is equal to 1 and t is equal to 2, so 
+
+398
+00:14:43,880 --> 00:14:46,780
+2 times 1 minus 2 times 2 is equal to 
+
+399
+00:14:46,780 --> 00:14:50,660
+minus 2. 2 times 1 is 2, minus 2 times 2 
+
+400
+00:14:50,660 --> 00:14:53,340
+is minus 4 and 2 minus 4 is minus 
+
+401
+00:14:53,340 --> 00:14:55,300
+2. So this is a true statement, 
+
+402
+00:14:55,300 --> 00:14:57,220
+which arises here below. Consequently, 
+
+403
+00:14:57,220 --> 00:14:58,860
+the straight lines really do have an 
+
+404
+00:14:58,860 --> 00:15:01,240
+intersection point. And whenever you 
+
+405
+00:15:01,240 --> 00:15:02,720
+have an intersection point 
+
+406
+00:15:02,720 --> 00:15:04,600
+, you also calculate it. This means 
+
+407
+00:15:04,700 --> 00:15:06,320
+that we now have to insert the r into the 
+
+408
+00:15:06,320 --> 00:15:08,640
+equation of the line 1 or the 
+
+409
+00:15:08,640 --> 00:15:11,220
+t into the equation of the line 2. 
+
+410
+00:15:11,220 --> 00:15:12,740
+
+411
+00:15:12,760 --> 00:15:14,420
+It doesn't matter which of the two 
+parameters you insert. The only important 
+thing is to 
+
+412
+00:15:14,420 --> 00:15:15,560
+always insert the parameters into the 
+correct 
+
+413
+00:15:15,560 --> 00:15:18,380
+linear equation. So r in g1 
+
+414
+00:15:18,380 --> 00:15:21,220
+in this case or t in g2. We have 
+
+415
+00:15:21,220 --> 00:15:23,100
+decided to use r in g1 
+
+416
+00:15:23,100 --> 00:15:25,460
+. We therefore calculate 
+
+417
+00:15:25,460 --> 00:15:28,680
+0, 1, 2 plus 1, 1, 2. 
+
+418
+00:15:28,680 --> 00:15:30,160
+2, i.e. 1, is simply here because 
+
+419
+00:15:30,160 --> 00:15:32,040
+r is equal to 1. We have 
+
+420
+00:15:32,040 --> 00:15:33,920
+inserted that. And this is how we 
+determine the 
+
+421
+00:15:33,920 --> 00:15:36,140
+intersection point. So 0 plus 1 times 1 is 
+
+422
+00:15:36,140 --> 00:15:38,640
+1. 1 plus 1 times 1 is 1 plus 1, 
+
+423
+00:15:38,760 --> 00:15:42,220
+or 2. And 2 plus 1 times 2 
+
+424
+00:15:42,220 --> 00:15:45,000
+is 2 plus 2, or 4. The 
+
+425
+00:15:45,000 --> 00:15:48,140
+intersection point is then 1, 2, 4. And 
+
+426
+00:15:48,140 --> 00:15:50,100
+that 
+
+427
+00:15:50,100 --> 00:15:53,420
+solves the problem. This brings us 
+
+428
+00:15:53,420 --> 00:15:55,040
+to the last case, which, if 
+
+429
+00:15:55,040 --> 00:15:56,580
+you've been paying attention, is the 
+skewed 
+
+430
+00:15:56,580 --> 00:15:59,840
+case. Once again, we have 
+
+431
+00:15:59,840 --> 00:16:01,480
+two degree equations, as we need them 
+
+432
+00:16:01,480 --> 00:16:03,760
+for this. The first 
+
+433
+00:16:03,760 --> 00:16:06,380
+equation of degree is 012 plus r times 
+
+434
+00:16:06,380 --> 00:16:08,600
+112. The second equation of degree 
+
+435
+00:16:08,600 --> 00:16:13,380
+is 611 plus t times minus 112. These 
+
+436
+00:16:13,380 --> 00:16:14,680
+are our two equations of degree 
+
+437
+00:16:14,680 --> 00:16:16,320
+and, of course, we start at the beginning 
+
+438
+00:16:16,320 --> 00:16:18,120
+. This means that we 
+
+439
+00:16:18,120 --> 00:16:19,040
+first check whether the two 
+
+440
+00:16:19,040 --> 00:16:21,240
+direction vectors 
+
+441
+00:16:21,240 --> 00:16:23,160
+are linearly dependent , i.e. 
+
+442
+00:16:23,160 --> 00:16:24,520
+find the two direction vectors once 
+
+443
+00:16:24,520 --> 00:16:27,480
+and see if they are multiples to 
+
+444
+00:16:27,480 --> 00:16:29,160
+get from 1 minus 1 
+
+445
+00:16:29,160 --> 00:16:31,360
+we have to 
+
+446
+00:16:31,360 --> 00:16:33,400
+multiply again by times minus 1 and to 
+
+447
+00:16:33,400 --> 00:16:35,460
+get from 1 to 1 we have to take the 1 
+there 
+
+448
+00:16:35,460 --> 00:16:37,920
+you can already see minus 1 and 1 here 
+
+449
+00:16:37,920 --> 00:16:39,200
+below we also have the 1 as a 
+
+450
+00:16:39,200 --> 00:16:42,440
+factor again , so it is not a constant 
+
+451
+00:16:42,440 --> 00:16:45,120
+factor that is 
+
+452
+00:16:45,120 --> 00:16:47,140
+different from element to element , so the 
+
+453
+00:16:47,140 --> 00:16:48,260
+direction vectors And are not 
+
+454
+00:16:48,260 --> 00:16:49,920
+multiples, so we now check 
+
+455
+00:16:49,920 --> 00:16:52,140
+again for an intersection point. Because 
+
+456
+00:16:52,140 --> 00:16:53,680
+we either have an intersection point 
+
+457
+00:16:53,680 --> 00:16:55,040
+or the lines are 
+
+458
+00:16:55,040 --> 00:16:55,940
+skewed. 
+
+459
+00:16:58,080 --> 00:16:59,280
+When checking for an intersection 
+
+460
+00:16:59,280 --> 00:17:00,420
+, we do what we just did, 
+
+461
+00:17:00,480 --> 00:17:02,700
+the approach. So G1 equals G2, so 
+
+462
+00:17:02,700 --> 00:17:06,180
+we get 012 plus R times 112 
+
+463
+00:17:06,180 --> 00:17:11,760
+equals 611 plus T times minus 112. 
+
+464
+00:17:11,760 --> 00:17:12,800
+Again, we want to 
+
+465
+00:17:12,800 --> 00:17:14,220
+collect our parameters on the left and 
+
+466
+00:17:14,220 --> 00:17:15,360
+our vector on the right. 
+
+467
+00:17:15,360 --> 00:17:17,400
+We therefore calculate minus 0.12 
+
+468
+00:17:17,560 --> 00:17:19,740
+so that the vector comes across and minus 
+
+469
+00:17:19,740 --> 00:17:23,940
+t times minus 1.12 so that the t vector 
+
+470
+00:17:23,940 --> 00:17:27,660
+comes across. This gives us r times 1 
+
+471
+00:17:27,660 --> 00:17:32,260
+.12 minus t times minus 1.12. This is 
+
+472
+00:17:32,260 --> 00:17:35,580
+equal to 6.1.1 minus 0.12. 
+
+473
+00:17:38,280 --> 00:17:40,320
+And from this we now form our 
+
+474
+00:17:40,320 --> 00:17:41,460
+system of equations. 
+
+475
+00:17:41,460 --> 00:17:44,060
+Again , please note that it is minus t. 
+
+476
+00:17:44,060 --> 00:17:45,520
+This means that if we 
+
+477
+00:17:45,520 --> 00:17:47,900
+determine the first line , we have r times 
+1 minus t 
+
+478
+00:17:47,900 --> 00:17:50,960
+times minus 1, which is plus t, so 1r 
+
+479
+00:17:50,960 --> 00:17:54,180
+plus 1t is equal to 6 minus 0, i.e. 6. 
+
+480
+00:17:54,320 --> 00:17:56,640
+The second line r times 1 minus t times 
+
+481
+00:17:56,640 --> 00:17:59,960
+1, which is 1r minus 1t and that is 
+
+482
+00:17:59,960 --> 00:18:02,120
+equal to 1 minus 1 or 0. 
+
+483
+00:18:03,720 --> 00:18:06,680
+The last line r times 2 minus t times 
+
+484
+00:18:06,680 --> 00:18:10,400
+2 equals 1 minus 2, so we arrive 
+
+485
+00:18:10,400 --> 00:18:15,580
+at 2r minus 2t. equals minus 1. If 
+
+486
+00:18:15,580 --> 00:18:16,880
+we solve this system of equations, 
+
+487
+00:18:16,940 --> 00:18:18,880
+we go back here 
+
+488
+00:18:18,880 --> 00:18:21,300
+and take two of the three 
+
+489
+00:18:21,300 --> 00:18:23,900
+equations and solve 
+
+490
+00:18:23,900 --> 00:18:24,660
+the 
+
+491
+00:18:24,660 --> 00:18:25,900
+system of equations with these two 
+equations , simply for the 
+
+492
+00:18:25,900 --> 00:18:27,920
+same reason as before. We have 
+
+493
+00:18:27,920 --> 00:18:29,080
+three equations, but only two 
+
+494
+00:18:29,080 --> 00:18:31,140
+unknown ones, so the 
+
+495
+00:18:31,140 --> 00:18:33,300
+system of equations is overdetermined and 
+
+496
+00:18:33,300 --> 00:18:35,500
+therefore we only take 
+
+497
+00:18:35,500 --> 00:18:37,040
+as many equations as we 
+
+498
+00:18:37,040 --> 00:18:39,460
+need to determine it. A 
+
+499
+00:18:39,460 --> 00:18:40,600
+system of equations is always 
+
+500
+00:18:40,600 --> 00:18:42,020
+determined if you 
+
+501
+00:18:42,020 --> 00:18:44,620
+have as many unknowns as equations. 
+
+502
+00:18:45,420 --> 00:18:46,540
+That's why we've taken the 
+
+503
+00:18:46,540 --> 00:18:47,880
+top two equations here, 
+
+504
+00:18:48,380 --> 00:18:49,880
+
+505
+00:18:49,880 --> 00:18:51,340
+worked out our r and our t , in which case 
+r is 
+
+506
+00:18:51,340 --> 00:18:53,740
+equal to 3 and t is equal to 3, and we'll 
+do 
+
+507
+00:18:53,740 --> 00:18:55,560
+
+508
+00:18:55,560 --> 00:18:56,880
+
+509
+00:18:56,880 --> 00:19:00,100
+the test with the last equation , which in 
+this case is equation 3 below. So 2r is 
+equal to, 
+
+510
+00:19:00,100 --> 00:19:01,680
+sorry, 2r minus 2t is 
+
+511
+00:19:01,680 --> 00:19:02,900
+equal to minus 1, that's the 
+
+512
+00:19:02,900 --> 00:19:05,040
+equation. We put our R 
+
+513
+00:19:05,040 --> 00:19:06,640
+and T in there , so we get 2 times 3 
+
+514
+00:19:06,640 --> 00:19:08,960
+minus 2 times 3 and unfortunately that is 
+
+515
+00:19:08,960 --> 00:19:10,900
+equal to 0 and not equal to minus 2. 
+
+516
+00:19:11,200 --> 00:19:14,000
+Consequently, we get a false 
+
+517
+00:19:14,000 --> 00:19:15,780
+statement, so a false statement 
+
+518
+00:19:15,780 --> 00:19:17,380
+and therefore the lines are 
+
+519
+00:19:17,380 --> 00:19:18,600
+skewed. So whenever the 
+
+520
+00:19:18,600 --> 00:19:20,240
+test results in a false statement at the 
+end 
+
+521
+00:19:20,240 --> 00:19:21,640
+, the straight lines are 
+
+522
+00:19:21,640 --> 00:19:24,980
+skewed. That brings us to 
+
+523
+00:19:24,980 --> 00:19:26,400
+the end of the webinar. 
+
+524
+00:19:26,400 --> 00:19:27,960
+Thank you very much for your 
+
+525
+00:19:27,960 --> 00:19:28,720
+attention. 

@@ -1,0 +1,3535 @@
+﻿1
+00:00:00,820 --> 00:00:03,080
+So, welcome to 
+
+2
+00:00:03,080 --> 00:00:06,260
+the webinar today, although you is a 
+
+3
+00:00:06,260 --> 00:00:08,700
+bit of an exaggeration, just one person 
+
+4
+00:00:08,700 --> 00:00:11,760
+here. Yes, I welcome you or you welcome 
+me. 
+
+5
+00:00:13,660 --> 00:00:16,180
+I hope you can understand me 
+
+6
+00:00:16,180 --> 00:00:18,100
+quite well so far. Perhaps 
+
+7
+00:00:18,100 --> 00:00:19,760
+you can 
+
+8
+00:00:19,760 --> 00:00:21,740
+give me some feedback in the chat to see 
+if you can hear me. 
+
+9
+00:00:23,080 --> 00:00:24,560
+Then I'll know if I'm on the 
+
+10
+00:00:24,560 --> 00:00:27,720
+safe side. Okay, perfect. 
+
+11
+00:00:27,880 --> 00:00:29,580
+Thank you for your feedback. 
+
+12
+00:00:30,940 --> 00:00:32,340
+I would like to take this opportunity to 
+introduce myself 
+
+13
+00:00:32,340 --> 00:00:33,840
+. My name is Kjell 
+
+14
+00:00:33,840 --> 00:00:35,860
+Polacek. I've been a 
+
+15
+00:00:35,860 --> 00:00:37,240
+tutor 
+
+16
+00:00:37,240 --> 00:00:39,120
+at Schülerhilfe since 2013. I 
+
+17
+00:00:39,120 --> 00:00:41,000
+am currently studying electrical 
+engineering at the 
+
+18
+00:00:41,000 --> 00:00:43,180
+University of Aachen and teach 
+
+19
+00:00:43,180 --> 00:00:45,300
+mathematics, so I will be 
+
+20
+00:00:45,300 --> 00:00:48,420
+giving the student presentation on the 
+graphing 
+
+21
+00:00:48,420 --> 00:00:51,880
+ calculator today. 
+
+22
+00:00:51,880 --> 00:00:53,660
+I have a question beforehand, and that is, 
+
+23
+00:00:53,880 --> 00:00:57,020
+if you would like to, 
+
+24
+00:00:57,020 --> 00:01:00,160
+you can write down briefly what your 
+
+25
+00:01:00,160 --> 00:01:01,740
+goals are for this course, whether you 
+
+26
+00:01:01,740 --> 00:01:03,100
+have any specific questions 
+
+27
+00:01:03,100 --> 00:01:04,960
+or whether this is simply 
+
+28
+00:01:04,960 --> 00:01:07,880
+intended as a general insight. Then I can 
+
+29
+00:01:07,880 --> 00:01:09,420
+
+30
+00:01:09,420 --> 00:01:13,180
+prepare the content a little better. That 
+would be 
+
+31
+00:01:13,180 --> 00:01:13,860
+good information for me. 
+
+32
+00:01:17,930 --> 00:01:21,490
+And yes, I'll wait a minute. 
+
+33
+00:01:21,630 --> 00:01:22,230
+Yes, 
+
+34
+00:01:37,470 --> 00:01:39,170
+all right, then I'll know. 
+
+35
+00:01:40,490 --> 00:01:42,290
+Yes, then I'll 
+
+36
+00:01:42,290 --> 00:01:45,590
+start the training right away and if you 
+
+37
+00:01:45,590 --> 00:01:47,150
+have specific questions or 
+
+38
+00:01:47,150 --> 00:01:49,790
+specific concerns, then you' 
+
+39
+00:01:49,790 --> 00:01:51,550
+re very welcome to ask them, because 
+
+40
+00:01:51,550 --> 00:01:53,050
+this webinar is primarily 
+
+41
+00:01:53,050 --> 00:01:57,270
+intended for students, but here we 
+
+42
+00:01:57,270 --> 00:01:58,870
+just want to give an overview and 
+
+43
+00:01:58,870 --> 00:02:01,970
+then we'll 
+
+44
+00:02:01,970 --> 00:02:05,350
+use the Texas Instruments Inspire. Well, 
+then I would 
+
+45
+00:02:05,350 --> 00:02:07,530
+say I'll just start with 
+
+46
+00:02:07,530 --> 00:02:09,090
+the push and as I said, 
+
+47
+00:02:09,190 --> 00:02:10,370
+if you have any questions, 
+
+48
+00:02:10,370 --> 00:02:12,470
+please feel free to ask them or 
+
+49
+00:02:12,470 --> 00:02:13,790
+make suggestions or special requests 
+
+50
+00:02:13,810 --> 00:02:17,370
+and I can answer them. 
+
+51
+00:02:18,810 --> 00:02:21,050
+So, in this context, I will 
+
+52
+00:02:21,050 --> 00:02:22,650
+now start my screen sharing, 
+
+53
+00:02:22,690 --> 00:02:24,590
+because we also have a virtual 
+
+54
+00:02:24,590 --> 00:02:25,930
+version of the calculator here, 
+
+55
+00:02:26,070 --> 00:02:27,510
+so that we can also 
+
+56
+00:02:27,510 --> 00:02:29,570
+go through the individual tasks live 
+
+57
+00:02:29,730 --> 00:02:31,150
+, or depending on whether it 
+
+58
+00:02:31,150 --> 00:02:35,190
+is desired. so I'll 
+
+59
+00:02:35,190 --> 00:02:36,310
+just switch over there now. 
+
+60
+00:02:46,210 --> 00:02:50,250
+
+61
+00:02:50,250 --> 00:02:51,910
+You should now be able to see my second 
+screen. Can you 
+
+62
+00:02:51,910 --> 00:02:55,070
+perhaps briefly confirm whether you 
+
+63
+00:02:55,070 --> 00:02:57,350
+can see my mouse pointer here? 
+
+64
+00:02:58,010 --> 00:02:59,310
+I know that as soon as everything is 
+
+65
+00:02:59,310 --> 00:03:00,650
+working . Okay, 
+
+66
+00:03:13,390 --> 00:03:17,240
+great. Good, I'll start the 
+
+67
+00:03:17,240 --> 00:03:19,140
+presentation now. As I said, don't be 
+
+68
+00:03:19,140 --> 00:03:20,120
+surprised, this is a 
+
+69
+00:03:20,120 --> 00:03:21,780
+student webinar, so it's 
+
+70
+00:03:21,780 --> 00:03:23,860
+all 
+
+71
+00:03:23,860 --> 00:03:27,100
+aimed at students or trainees. First of 
+all, 
+
+72
+00:03:27,100 --> 00:03:28,700
+a little motivation for this 
+
+73
+00:03:28,700 --> 00:03:30,560
+training. Why should it 
+
+74
+00:03:30,560 --> 00:03:34,000
+be invested at this time ? We have 
+
+75
+00:03:34,000 --> 00:03:35,540
+put together a few key points. 
+
+76
+00:03:35,700 --> 00:03:39,180
+First of all, a good command of 
+
+77
+00:03:39,180 --> 00:03:41,900
+the calculator saves time. The 
+
+78
+00:03:41,900 --> 00:03:43,740
+use of a calculator 
+
+79
+00:03:43,740 --> 00:03:45,640
+in school is compulsory, 
+
+80
+00:03:45,720 --> 00:03:47,700
+at least in many German 
+
+81
+00:03:47,700 --> 00:03:48,300
+federal states. 
+
+82
+00:03:51,220 --> 00:03:53,040
+This is certainly the 
+
+83
+00:03:53,040 --> 00:03:55,100
+case in NRW. And 
+
+84
+00:03:55,100 --> 00:03:57,400
+this is exactly the model that is used 
+there, for example. But 
+
+85
+00:03:57,400 --> 00:03:59,920
+
+86
+00:03:59,920 --> 00:04:03,280
+a graphing calculator or even 
+
+87
+00:04:03,280 --> 00:04:07,420
+CAS is also required in other federal 
+states . And that's why it's 
+
+88
+00:04:07,420 --> 00:04:09,120
+important that you have 
+
+89
+00:04:09,120 --> 00:04:10,740
+enough time for the 
+
+90
+00:04:10,740 --> 00:04:13,860
+tasks during the exams so that you 
+
+91
+00:04:13,860 --> 00:04:15,080
+
+92
+00:04:15,080 --> 00:04:18,460
+can cope reasonably well with the 
+calculator . Yes, that's why it's 
+
+93
+00:04:18,460 --> 00:04:21,500
+a very big motivational point. Yes, 
+
+94
+00:04:21,520 --> 00:04:22,540
+the second point, we can 
+
+95
+00:04:22,540 --> 00:04:24,260
+combine it directly with this. It is 
+important 
+
+96
+00:04:24,260 --> 00:04:26,680
+that others, including our 
+
+97
+00:04:26,680 --> 00:04:28,280
+students, gain confidence in 
+
+98
+00:04:28,280 --> 00:04:30,880
+working with it. This means that when 
+
+99
+00:04:30,880 --> 00:04:32,500
+a task like 
+
+100
+00:04:32,500 --> 00:04:36,720
+
+101
+00:04:36,720 --> 00:04:40,280
+determining the zeros graphically , for 
+example, progresses , you 
+
+102
+00:04:40,280 --> 00:04:42,460
+don't 
+
+103
+00:04:42,460 --> 00:04:43,920
+have to spend half an hour searching for 
+the functionality in the 
+
+104
+00:04:43,920 --> 00:04:45,440
+computer, but 
+
+105
+00:04:45,440 --> 00:04:47,280
+can call up this function directly. 
+
+106
+00:04:48,240 --> 00:04:50,180
+Then clearly 
+
+107
+00:04:50,180 --> 00:04:51,800
+avoid sources of error during operation. 
+That is very 
+
+108
+00:04:51,800 --> 00:04:57,120
+essential. And one consequence of 
+
+109
+00:04:57,120 --> 00:04:58,460
+all this is that homework 
+
+110
+00:04:58,460 --> 00:05:01,080
+can be completed more quickly. 
+
+111
+00:05:01,080 --> 00:05:02,880
+And this head start in knowledge 
+
+112
+00:05:02,880 --> 00:05:05,560
+often gives us an advantage in 
+
+113
+00:05:05,560 --> 00:05:07,840
+exams in general. That is 
+
+114
+00:05:07,840 --> 00:05:12,220
+a motivation. Yes. A 
+
+115
+00:05:12,220 --> 00:05:14,340
+graphing calculator like this. .. has a 
+
+116
+00:05:14,340 --> 00:05:17,920
+very wide range of functions and we're 
+
+117
+00:05:17,920 --> 00:05:19,140
+going to 
+
+118
+00:05:19,140 --> 00:05:20,880
+
+119
+00:05:20,880 --> 00:05:23,820
+take a brief look at the navigation here 
+in the webinar , or we're going to look at 
+it together , how do 
+
+120
+00:05:23,820 --> 00:05:25,160
+I generally get 
+
+121
+00:05:25,160 --> 00:05:27,980
+on with the calculator . We'll also take a 
+look 
+
+122
+00:05:27,980 --> 00:05:30,280
+at the settings menu, because 
+
+123
+00:05:30,280 --> 00:05:33,080
+you can 
+
+124
+00:05:33,080 --> 00:05:35,520
+or should definitely 
+
+125
+00:05:35,520 --> 00:05:37,420
+make some basic settings there so 
+
+126
+00:05:37,420 --> 00:05:38,960
+
+127
+00:05:38,960 --> 00:05:41,400
+that you can get correct results later 
+under certain circumstances. Then we will 
+
+128
+00:05:41,400 --> 00:05:43,280
+
+129
+00:05:43,280 --> 00:05:45,100
+
+130
+00:05:45,100 --> 00:05:46,980
+take a closer look at the concept between 
+scratchpad and documents. When do I use 
+one, 
+
+131
+00:05:47,080 --> 00:05:50,260
+when do I use the other? And yes, the 
+
+132
+00:05:50,260 --> 00:05:51,520
+last part is a bit 
+
+133
+00:05:51,520 --> 00:05:53,540
+summarized . I'll simply show you 
+
+134
+00:05:53,540 --> 00:05:57,980
+how to solve general problems with 
+
+135
+00:05:57,980 --> 00:05:59,720
+the calculator. 
+
+136
+00:06:00,180 --> 00:06:01,360
+In particular, zeros and 
+
+137
+00:06:01,360 --> 00:06:04,140
+integrals or, hence 
+
+138
+00:06:04,140 --> 00:06:05,660
+the name, graphing calculators 
+
+139
+00:06:05,740 --> 00:06:07,560
+, how you 
+
+140
+00:06:07,560 --> 00:06:09,420
+can display graphs, for example, and then 
+
+141
+00:06:09,420 --> 00:06:13,920
+analyze them. Okay, 
+
+142
+00:06:13,920 --> 00:06:15,360
+let's just start with the navigation. 
+
+143
+00:06:16,020 --> 00:06:18,780
+The main navigation on this model 
+
+144
+00:06:18,780 --> 00:06:21,140
+here is the Texas Instruments 
+
+145
+00:06:21,140 --> 00:06:25,340
+Inspire CX. This is the typical 
+
+146
+00:06:25,340 --> 00:06:27,480
+graphing calculator 
+
+147
+00:06:27,480 --> 00:06:30,980
+used at school and it has 
+
+148
+00:06:30,980 --> 00:06:33,360
+a touchpad in the middle or 
+
+149
+00:06:33,360 --> 00:06:35,780
+a touchpad integrated with 
+
+150
+00:06:35,780 --> 00:06:37,600
+arrow keys, which allows you to 
+
+151
+00:06:37,600 --> 00:06:39,760
+
+152
+00:06:39,760 --> 00:06:41,580
+easily 
+
+153
+00:06:42,680 --> 00:06:44,400
+manage all the functions directly in the 
+mouse pointer menu. This means that 
+
+154
+00:06:44,400 --> 00:06:45,400
+you can 
+
+155
+00:06:45,400 --> 00:06:46,720
+
+156
+00:06:46,720 --> 00:06:49,480
+control a mouse pointer either by touching 
+it with your finger. 
+
+157
+00:06:49,480 --> 00:06:51,020
+
+158
+00:06:51,020 --> 00:06:51,960
+Of course, I can 't 
+
+159
+00:06:51,960 --> 00:06:54,040
+simulate this so easily here in this 
+emulation . Here I 
+
+160
+00:06:54,040 --> 00:06:55,580
+simply use my mouse pointer, my 
+
+161
+00:06:55,580 --> 00:06:57,780
+physical mouse pointer, and 
+
+162
+00:06:57,780 --> 00:06:59,800
+I can also move it here. And 
+
+163
+00:06:59,800 --> 00:07:00,800
+I can then 
+
+164
+00:07:00,800 --> 00:07:03,200
+click on it, for example, to 
+
+165
+00:07:03,200 --> 00:07:05,700
+execute certain things. 
+
+166
+00:07:05,700 --> 00:07:06,860
+As I said, this works here with a 
+
+167
+00:07:06,860 --> 00:07:09,860
+touch field. Similarly, I can also 
+
+168
+00:07:09,860 --> 00:07:11,940
+use the arrow keys to 
+
+169
+00:07:11,940 --> 00:07:13,360
+
+170
+00:07:13,360 --> 00:07:16,360
+select the individual items in this menu, 
+for example. That 
+
+171
+00:07:16,360 --> 00:07:17,500
+also works. Likewise. 
+
+172
+00:07:18,220 --> 00:07:19,620
+The important thing is that if I 
+
+173
+00:07:19,620 --> 00:07:22,300
+want to confirm something, I press 
+
+174
+00:07:22,300 --> 00:07:24,620
+the button in the middle. In my case, 
+
+175
+00:07:24,620 --> 00:07:25,620
+I can do this simply by 
+
+176
+00:07:25,620 --> 00:07:27,680
+clicking the mouse, but 
+
+177
+00:07:27,680 --> 00:07:29,960
+in general, 
+
+178
+00:07:29,960 --> 00:07:32,660
+the whole thing works physically by 
+pressing the 
+
+179
+00:07:32,660 --> 00:07:35,760
+middle button. Or, if you 
+
+180
+00:07:35,760 --> 00:07:38,460
+don't like working with it, you can 
+
+181
+00:07:38,460 --> 00:07:40,340
+also use the letters of the 
+
+182
+00:07:40,340 --> 00:07:42,240
+graphic calculator 
+
+183
+00:07:42,280 --> 00:07:43,660
+or the numbers to 
+
+184
+00:07:43,660 --> 00:07:45,100
+
+185
+00:07:45,100 --> 00:07:46,920
+call up the menu items. For example, I can 
+
+186
+00:07:46,920 --> 00:07:48,960
+now use the letter A to 
+
+187
+00:07:48,960 --> 00:07:51,060
+calculate something directly in the 
+scratchpad or 
+
+188
+00:07:51,060 --> 00:07:54,300
+the number 1 to 
+
+189
+00:07:54,300 --> 00:07:54,780
+create a new document. 
+
+190
+00:07:57,340 --> 00:07:58,620
+I'll just try to 
+
+191
+00:07:58,620 --> 00:07:58,980
+show you how. 
+
+192
+00:08:03,550 --> 00:08:05,350
+I'll go out here to do that. I 
+
+193
+00:08:05,350 --> 00:08:06,490
+don't know , I think the main menu is 
+
+194
+00:08:06,490 --> 00:08:06,970
+here now. 
+
+195
+00:08:09,800 --> 00:08:11,320
+That's right. Here I am 
+
+196
+00:08:11,320 --> 00:08:12,540
+now in the main menu, as we 
+
+197
+00:08:12,540 --> 00:08:14,920
+see it on the right. And now I could 
+
+198
+00:08:14,920 --> 00:08:18,620
+press the B button, for example. And 
+
+199
+00:08:18,620 --> 00:08:20,080
+I'm already in circle. Mode. 
+
+200
+00:08:22,680 --> 00:08:23,120
+Okay. 
+
+201
+00:08:26,150 --> 00:08:29,510
+Yes. Then, as we can see, there are 
+
+202
+00:08:29,510 --> 00:08:33,150
+two rough main menu items in 
+
+203
+00:08:33,150 --> 00:08:35,030
+this calculator. 
+
+204
+00:08:35,030 --> 00:08:36,710
+The first is the 
+
+205
+00:08:36,710 --> 00:08:38,810
+so-called scratchpad or a 
+
+206
+00:08:38,810 --> 00:08:41,390
+document. In other words, in addition to 
+the 
+
+207
+00:08:41,390 --> 00:08:42,810
+other functionalities 
+
+208
+00:08:42,810 --> 00:08:44,070
+that are available, which we will also 
+
+209
+00:08:44,070 --> 00:08:46,690
+look at briefly in a moment, for example 
+
+210
+00:08:46,690 --> 00:08:48,710
+this menu item Geometry or 
+
+211
+00:08:48,710 --> 00:08:51,510
+Graph or Tables, you can 
+
+212
+00:08:51,510 --> 00:08:54,490
+generally 
+
+213
+00:08:54,490 --> 00:08:56,330
+perform general things here, for example 
+simple 
+
+214
+00:08:56,330 --> 00:08:59,630
+calculations. And you can 
+
+215
+00:08:59,630 --> 00:09:01,310
+use this scratchpad, for example. 
+
+216
+00:09:01,630 --> 00:09:03,630
+The scratchpad is designed for 
+
+217
+00:09:03,750 --> 00:09:05,750
+when quick calculations 
+
+218
+00:09:05,750 --> 00:09:07,810
+are required or when you 
+
+219
+00:09:07,810 --> 00:09:09,510
+
+220
+00:09:09,510 --> 00:09:11,450
+want to quickly analyze a graph. A special 
+feature of the 
+
+221
+00:09:11,450 --> 00:09:13,230
+scratchpad is that it is not 
+
+222
+00:09:13,230 --> 00:09:15,250
+
+223
+00:09:15,250 --> 00:09:17,910
+possible to save directly to your own 
+files. And this is again 
+
+224
+00:09:17,910 --> 00:09:20,490
+possible in a document, with the help of 
+
+225
+00:09:20,490 --> 00:09:22,310
+a document I can then, for example, 
+
+226
+00:09:22,310 --> 00:09:24,450
+
+227
+00:09:24,450 --> 00:09:26,050
+carry out a series of calculations and can 
+
+228
+00:09:26,050 --> 00:09:27,910
+save the whole thing. This means that I 
+can 
+
+229
+00:09:27,910 --> 00:09:29,950
+open it again the next day and 
+
+230
+00:09:29,950 --> 00:09:33,830
+continue there if I want to. And 
+
+231
+00:09:33,830 --> 00:09:35,470
+what 
+
+232
+00:09:35,470 --> 00:09:37,870
+is also possible here in the Documents 
+menu item are these 
+
+233
+00:09:37,870 --> 00:09:38,890
+settings. In other words, this 
+
+234
+00:09:38,890 --> 00:09:40,770
+settings menu can 
+
+235
+00:09:40,770 --> 00:09:41,570
+also be found here in the background. 
+
+236
+00:09:41,750 --> 00:09:43,370
+Documents, whether that makes sense 
+
+237
+00:09:43,370 --> 00:09:47,030
+or not is open to question, 
+
+238
+00:09:47,030 --> 00:09:48,710
+but they are definitely 
+
+239
+00:09:48,710 --> 00:09:52,230
+there. And I'd say 
+
+240
+00:09:52,230 --> 00:09:53,370
+we'll do that right here 
+
+241
+00:09:53,370 --> 00:09:56,810
+and just take a look at what 
+
+242
+00:09:56,810 --> 00:09:58,270
+settings you 
+
+243
+00:09:58,270 --> 00:10:00,390
+can make. Yes, let's 
+
+244
+00:10:00,390 --> 00:10:03,090
+just press button 5 and we'll be taken to 
+
+245
+00:10:03,090 --> 00:10:04,730
+a small 
+
+246
+00:10:04,730 --> 00:10:06,770
+menu where we can 
+
+247
+00:10:06,770 --> 00:10:09,670
+make a few settings directly. 
+
+248
+00:10:09,670 --> 00:10:12,110
+At this point, we can see very 
+
+249
+00:10:12,110 --> 00:10:14,870
+quickly that this window is different from 
+
+250
+00:10:14,870 --> 00:10:17,010
+the one here or from the one here 
+
+251
+00:10:17,010 --> 00:10:19,310
+. Why is that? When 
+
+252
+00:10:19,310 --> 00:10:20,850
+these recordings were made here, 
+
+253
+00:10:20,970 --> 00:10:22,210
+which was some time ago, 
+
+254
+00:10:22,370 --> 00:10:24,670
+I think two or three years ago, there 
+
+255
+00:10:24,670 --> 00:10:27,730
+was still this old 
+
+256
+00:10:27,730 --> 00:10:29,670
+operating system or the old 
+
+257
+00:10:29,670 --> 00:10:31,710
+firmware. That has now 
+
+258
+00:10:31,710 --> 00:10:32,810
+changed a bit, which is why we 
+
+259
+00:10:32,810 --> 00:10:33,870
+now also see additional 
+
+260
+00:10:33,870 --> 00:10:35,570
+menu items here , such as 
+
+261
+00:10:35,570 --> 00:10:37,330
+Restore factory defaults 
+
+262
+00:10:37,330 --> 00:10:43,230
+or a TI Innovator Hub, so that we 
+
+263
+00:10:43,230 --> 00:10:45,870
+know what that is. But the 
+
+264
+00:10:45,870 --> 00:10:47,210
+basic settings are there, of course. 
+
+265
+00:10:47,210 --> 00:10:50,770
+Yes, and here you first have to 
+
+266
+00:10:50,770 --> 00:10:52,970
+differentiate. You can 
+
+267
+00:10:52,970 --> 00:10:54,910
+change the language here, for example. 
+
+268
+00:10:54,910 --> 00:10:56,430
+For example, if you 
+
+269
+00:10:56,430 --> 00:10:57,650
+
+270
+00:10:57,650 --> 00:10:59,770
+have somehow received a model from abroad 
+, it may be that 
+
+271
+00:10:59,770 --> 00:11:00,870
+a different 
+
+272
+00:11:00,870 --> 00:11:02,290
+language is set here. So 
+
+273
+00:11:02,350 --> 00:11:04,030
+you can 
+
+274
+00:11:04,030 --> 00:11:05,590
+do this very quickly here. Then you can 
+
+275
+00:11:05,590 --> 00:11:07,290
+make document settings here. 
+
+276
+00:11:07,490 --> 00:11:10,410
+Yes, you can set parameters here, for 
+
+277
+00:11:10,410 --> 00:11:11,290
+example the number of 
+
+278
+00:11:11,290 --> 00:11:12,650
+decimal places for the 
+
+279
+00:11:12,650 --> 00:11:14,490
+output format, which is only possible in 
+
+280
+00:11:14,490 --> 00:11:16,890
+normal settings. You can also 
+
+281
+00:11:16,890 --> 00:11:19,750
+have a look here. Yes, 
+
+282
+00:11:19,750 --> 00:11:21,470
+we can see that here , for example. Here 
+
+283
+00:11:21,470 --> 00:11:23,510
+we can see the displayed digits. Yes, here 
+we 
+
+284
+00:11:23,510 --> 00:11:25,290
+have this floating point format. 
+
+285
+00:11:25,730 --> 00:11:28,010
+Floating point means that we have a total 
+of 
+
+286
+00:11:28,010 --> 00:11:30,170
+six digits, regardless of where 
+
+287
+00:11:30,170 --> 00:11:33,010
+the decimal place is. Here we can 
+
+288
+00:11:33,010 --> 00:11:34,790
+also see directly, and I think this is 
+
+289
+00:11:34,790 --> 00:11:36,130
+one of the most important settings, 
+
+290
+00:11:36,710 --> 00:11:38,570
+which angle measure we are using here. 
+
+291
+00:11:38,610 --> 00:11:39,890
+For example, we have 
+
+292
+00:11:39,890 --> 00:11:41,530
+set radians . 
+
+293
+00:11:41,530 --> 00:11:44,110
+But I can easily change that to degrees 
+here. 
+
+294
+00:11:44,310 --> 00:11:45,510
+I think this is one of the 
+
+295
+00:11:45,510 --> 00:11:46,570
+most important settings, 
+
+296
+00:11:46,590 --> 00:11:47,870
+especially for our 
+
+297
+00:11:47,870 --> 00:11:48,750
+students 
+
+298
+00:11:49,830 --> 00:11:52,970
+, or degrees. 
+
+299
+00:11:52,970 --> 00:11:55,010
+This is now here in degrees. Then 
+
+300
+00:11:55,010 --> 00:11:56,290
+I can set the exponential format here 
+
+301
+00:11:56,290 --> 00:11:59,670
+, calculation mode and 
+
+302
+00:11:59,670 --> 00:12:01,550
+many other points, base, decimal, 
+
+303
+00:12:01,610 --> 00:12:03,550
+etc. These are the degrees. These are the 
+formal 
+
+304
+00:12:03,550 --> 00:12:05,690
+settings for the documents. That 
+
+305
+00:12:05,690 --> 00:12:06,030
+is important. 
+
+306
+00:12:10,600 --> 00:12:12,640
+Otherwise there is this 
+
+307
+00:12:12,640 --> 00:12:15,500
+sub-item Setting up the handheld. 
+
+308
+00:12:15,900 --> 00:12:17,420
+This is the 
+
+309
+00:12:17,420 --> 00:12:19,300
+start sequence when you 
+
+310
+00:12:19,300 --> 00:12:22,660
+start this GTR for the first time , the 
+
+311
+00:12:22,660 --> 00:12:24,680
+factory settings. You can 
+
+312
+00:12:24,680 --> 00:12:27,020
+then 
+
+313
+00:12:27,020 --> 00:12:29,300
+make all the general settings there, such 
+as the 
+
+314
+00:12:29,300 --> 00:12:31,040
+duration of standby or the 
+
+315
+00:12:31,040 --> 00:12:31,920
+brightness, etc. 
+
+316
+00:12:34,920 --> 00:12:35,880
+I would just 
+
+317
+00:12:35,880 --> 00:12:38,080
+skip that here. And then there are 
+
+318
+00:12:38,080 --> 00:12:41,080
+other menu items, such as 
+
+319
+00:12:41,080 --> 00:12:45,580
+Status. Here you can see the current 
+
+320
+00:12:45,580 --> 00:12:47,620
+battery status. The firmware version, 
+which 
+
+321
+00:12:47,620 --> 00:12:49,900
+is perhaps interesting if there 
+
+322
+00:12:49,900 --> 00:12:51,360
+is a new one, if you perhaps 
+
+323
+00:12:51,360 --> 00:12:52,420
+
+324
+00:12:52,420 --> 00:12:55,160
+get an instruction from the school . 
+Memory capacity, which is 
+
+325
+00:12:55,160 --> 00:12:57,200
+of course all grayed out here 
+
+326
+00:12:57,200 --> 00:12:58,740
+due to this emulation on the 
+
+327
+00:12:58,740 --> 00:13:04,120
+computer. Okay, I think that's it 
+
+328
+00:13:05,500 --> 00:13:08,240
+so far. Right, here we can see 
+
+329
+00:13:08,240 --> 00:13:09,080
+the individual 
+
+330
+00:13:11,760 --> 00:13:14,120
+menu items in the settings menu again . 
+And 
+
+331
+00:13:14,120 --> 00:13:15,300
+there are a few more tricks here 
+
+332
+00:13:15,400 --> 00:13:17,280
+that I 
+
+333
+00:13:17,280 --> 00:13:19,540
+would like to talk about briefly . In the 
+
+334
+00:13:19,540 --> 00:13:21,140
+document settings, you can 
+
+335
+00:13:21,140 --> 00:13:22,560
+navigate very easily by 
+
+336
+00:13:22,560 --> 00:13:24,480
+using the Tab key. I 
+
+337
+00:13:24,480 --> 00:13:26,180
+personally always do it with the 
+
+338
+00:13:26,180 --> 00:13:30,560
+directional pad, but with Tab you can 
+
+339
+00:13:30,560 --> 00:13:31,640
+always get to the 
+
+340
+00:13:31,640 --> 00:13:33,820
+next submenu very quickly , I'll 
+
+341
+00:13:33,820 --> 00:13:34,980
+maybe show that again very briefly if I 
+
+342
+00:13:34,980 --> 00:13:36,780
+'m here now and now press Tab 
+
+343
+00:13:36,780 --> 00:13:38,540
+then I get directly to the 
+
+344
+00:13:38,540 --> 00:13:40,500
+next field, is perhaps 
+
+345
+00:13:40,500 --> 00:13:43,960
+practical for one or the other and the 
+
+346
+00:13:43,960 --> 00:13:45,280
+rest is, I think, kind of deep, 
+
+347
+00:13:45,440 --> 00:13:46,760
+opening selection and memorized 
+
+348
+00:13:46,760 --> 00:13:48,140
+sub-item, I guess here 
+
+349
+00:13:48,140 --> 00:13:50,240
+the Enter key I think that's 
+
+350
+00:13:50,240 --> 00:13:54,220
+reasonably clear Good, here we see 
+
+351
+00:13:54,220 --> 00:13:55,380
+again the menu that we just 
+
+352
+00:13:55,380 --> 00:13:57,020
+saw. I think that's 
+
+353
+00:13:57,040 --> 00:13:59,980
+clear. And then I would say, 
+
+354
+00:14:00,060 --> 00:14:02,660
+let's take a look at how you 
+
+355
+00:14:02,660 --> 00:14:04,480
+can work with it in general. 
+
+356
+00:14:05,880 --> 00:14:07,740
+I could either 
+
+357
+00:14:07,740 --> 00:14:11,740
+open the scratchpad directly. That's this 
+
+358
+00:14:11,740 --> 00:14:13,680
+menu. But let's 
+
+359
+00:14:13,680 --> 00:14:16,340
+get out of here. We now want to 
+
+360
+00:14:16,340 --> 00:14:17,860
+work on a problem at school and 
+
+361
+00:14:17,860 --> 00:14:19,180
+may want to 
+
+362
+00:14:19,180 --> 00:14:20,020
+continue working on it tomorrow . 
+
+363
+00:14:20,040 --> 00:14:21,600
+so I' 
+
+364
+00:14:21,600 --> 00:14:22,580
+m just going to create a document here 
+
+365
+00:14:22,580 --> 00:14:26,420
+and I'm now here in the 
+
+366
+00:14:26,420 --> 00:14:30,040
+document. And such a document consists 
+
+367
+00:14:30,040 --> 00:14:31,920
+of several elements, i.e. 
+
+368
+00:14:31,940 --> 00:14:35,180
+a document can consist of a graph 
+
+369
+00:14:35,180 --> 00:14:37,060
+, a table or 
+
+370
+00:14:37,060 --> 00:14:39,280
+a calculation, that's this 
+
+371
+00:14:39,280 --> 00:14:41,640
+important function and that's why it says 
+
+372
+00:14:41,640 --> 00:14:42,980
+press menu again, 
+
+373
+00:14:42,980 --> 00:14:45,480
+I' ve just pressed it away and here 
+
+374
+00:14:45,480 --> 00:14:46,620
+I can now 
+
+375
+00:14:46,620 --> 00:14:49,760
+add these individual widgets or gadgets. 
+and 
+
+376
+00:14:49,760 --> 00:14:52,040
+the most important thing we need 
+
+377
+00:14:52,040 --> 00:14:54,060
+, intuitively of course, is the 
+
+378
+00:14:54,060 --> 00:14:58,020
+calculator. In other words, this 
+
+379
+00:14:58,020 --> 00:14:59,720
+calculator 
+
+380
+00:14:59,720 --> 00:15:03,340
+is a kind of white paper where I 
+
+381
+00:15:03,340 --> 00:15:04,860
+can perform lots of calculations and 
+
+382
+00:15:04,860 --> 00:15:06,120
+these will then 
+
+383
+00:15:06,120 --> 00:15:09,180
+remain saved. For example, I can 
+
+384
+00:15:09,180 --> 00:15:12,540
+now calculate 5 at 6 here and 
+
+385
+00:15:12,540 --> 00:15:15,900
+then have the result directly here. Well, 
+
+386
+00:15:15,940 --> 00:15:16,800
+I find that a bit 
+
+387
+00:15:16,800 --> 00:15:18,420
+boring, so I would like to 
+
+388
+00:15:18,420 --> 00:15:21,520
+show you how you 
+
+389
+00:15:21,520 --> 00:15:23,340
+can use it effectively. And 
+
+390
+00:15:23,340 --> 00:15:24,920
+the convention of 
+
+391
+00:15:24,920 --> 00:15:26,980
+introducing variables is always 
+recommended. Because with the help 
+
+392
+00:15:26,980 --> 00:15:28,560
+of variables, I can then 
+
+393
+00:15:28,560 --> 00:15:31,060
+create more complicated expressions 
+
+394
+00:15:31,060 --> 00:15:32,740
+and 
+
+395
+00:15:32,740 --> 00:15:35,340
+then simply change the values of the 
+individual variables later and can 
+
+396
+00:15:35,340 --> 00:15:38,220
+then 
+
+397
+00:15:38,220 --> 00:15:39,740
+see very quickly, very nicely , how values 
+then change. 
+
+398
+00:15:40,100 --> 00:15:41,400
+And here you can see how to 
+
+399
+00:15:41,400 --> 00:15:45,980
+introduce a variable and the 
+
+400
+00:15:45,980 --> 00:15:47,560
+key element is simply 
+
+401
+00:15:47,560 --> 00:15:50,880
+this colon equals operation 
+
+402
+00:15:50,880 --> 00:15:53,080
+or this operator. Because with 
+
+403
+00:15:53,080 --> 00:15:54,620
+colon equals, just like in 
+
+404
+00:15:54,620 --> 00:15:56,320
+programming languages, I can 
+
+405
+00:15:56,320 --> 00:15:59,260
+assign values and if I now 
+
+406
+00:15:59,260 --> 00:16:01,700
+enter Test, for example, I'll 
+
+407
+00:16:01,700 --> 00:16:02,420
+just use the computer 
+
+408
+00:16:02,420 --> 00:16:03,940
+ keyboard, now a little 
+
+409
+00:16:03,940 --> 00:16:08,500
+faster, colon equals and 
+
+410
+00:16:08,500 --> 00:16:11,640
+now, when I click on 
+
+411
+00:16:11,640 --> 00:16:13,780
+Enter, I have now 
+
+412
+00:16:13,780 --> 00:16:16,360
+saved this variable in the test. This 
+means 
+
+413
+00:16:16,400 --> 00:16:19,340
+that if I now calculate Test 5 and 
+
+414
+00:16:19,340 --> 00:16:20,280
+as soon as I 
+
+415
+00:16:20,280 --> 00:16:21,500
+use Test again, I can see that 
+
+416
+00:16:21,500 --> 00:16:25,320
+the fetch is printed. 
+
+417
+00:16:25,320 --> 00:16:27,000
+This shows the system that you are now 
+using 
+
+418
+00:16:27,000 --> 00:16:29,440
+a variable. If I now 
+
+419
+00:16:29,440 --> 00:16:31,320
+calculate Test plus 5 and press Enter 
+
+420
+00:16:31,320 --> 00:16:33,160
+, I get exactly the 
+
+421
+00:16:33,160 --> 00:16:37,340
+value. 5 plus 5, i.e. 10, 
+
+422
+00:16:41,630 --> 00:16:43,150
+is the simplest way 
+
+423
+00:16:43,150 --> 00:16:45,950
+. Here we also see 
+
+424
+00:16:45,950 --> 00:16:48,510
+another hint. 
+
+425
+00:16:48,510 --> 00:16:50,310
+
+426
+00:16:52,010 --> 00:16:53,270
+I'll define the variables using Control. 
+
+427
+00:16:56,480 --> 00:16:57,960
+Yes, this is the 
+
+428
+00:16:57,960 --> 00:17:00,940
+symbol again . That is, here we see 
+
+429
+00:17:00,940 --> 00:17:04,900
+the assignment symbol at the top. This 
+means 
+
+430
+00:17:04,940 --> 00:17:07,780
+that if I now 
+
+431
+00:17:07,780 --> 00:17:09,400
+want to assign A, B and now I want to 
+assign more, then 
+
+432
+00:17:09,400 --> 00:17:11,080
+I just press Control. With Control, 
+
+433
+00:17:11,080 --> 00:17:12,160
+I can 
+
+434
+00:17:12,160 --> 00:17:13,760
+
+435
+00:17:13,760 --> 00:17:16,420
+call up this second meaning of the 
+individual keys and you can see 
+
+436
+00:17:16,420 --> 00:17:19,360
+this symbol directly here. Yes. This 
+
+437
+00:17:19,360 --> 00:17:20,600
+assignment symbol. Yes, this is supposed 
+to 
+
+438
+00:17:20,600 --> 00:17:24,040
+be this explanation. Okay. 
+
+439
+00:17:26,000 --> 00:17:31,080
+Let's delete it again. Good. And 
+
+440
+00:17:31,080 --> 00:17:32,960
+now, of course, you can do a lot of 
+
+441
+00:17:32,960 --> 00:17:37,720
+nice things with it and yes, I 
+
+442
+00:17:37,720 --> 00:17:39,200
+can now 
+
+443
+00:17:39,200 --> 00:17:40,900
+calculate with normal numbers , 
+definitions of other 
+
+444
+00:17:40,900 --> 00:17:42,020
+warming by existing 
+
+445
+00:17:42,020 --> 00:17:43,680
+variants. yes possible. In other words, I 
+
+446
+00:17:43,680 --> 00:17:45,220
+can say that a new test is simply 
+
+447
+00:17:45,220 --> 00:17:47,740
+a test squared. That is 
+
+448
+00:17:47,740 --> 00:17:49,860
+really very intuitive. Or test 
+
+449
+00:17:49,860 --> 00:17:51,840
+equals test three times. This is a 
+
+450
+00:17:52,680 --> 00:17:56,760
+special form of reuse 
+
+451
+00:17:56,780 --> 00:17:58,100
+, namely 
+
+452
+00:17:58,100 --> 00:18:00,300
+recursion. This means that I can 
+
+453
+00:18:00,300 --> 00:18:02,400
+simply 
+
+454
+00:18:02,400 --> 00:18:05,180
+triple the value. This is 
+
+455
+00:18:05,180 --> 00:18:07,720
+possible without any problems. And then 
+there is a nice 
+
+456
+00:18:07,720 --> 00:18:10,560
+function, namely this wait button 
+
+457
+00:18:10,560 --> 00:18:12,540
+here. 
+
+458
+00:18:12,540 --> 00:18:14,980
+I can use this wait button to display all 
+local variables 
+
+459
+00:18:14,980 --> 00:18:16,280
+. If I now 
+
+460
+00:18:16,280 --> 00:18:17,840
+press Wait here , I can see 
+
+461
+00:18:17,840 --> 00:18:20,200
+all the variables directly in the form of 
+a drop-down 
+
+462
+00:18:20,200 --> 00:18:21,460
+ list. You can now also select them here 
+
+463
+00:18:21,460 --> 00:18:23,660
+, for example, if you 
+
+464
+00:18:23,660 --> 00:18:27,140
+have longer, more complicated 
+
+465
+00:18:27,140 --> 00:18:29,460
+variables or expressions. 
+
+466
+00:18:32,200 --> 00:18:36,680
+Well, that's a few 
+
+467
+00:18:36,680 --> 00:18:39,800
+basic building blocks 
+
+468
+00:18:39,800 --> 00:18:42,500
+, but a graphic 
+
+469
+00:18:42,500 --> 00:18:43,720
+ calculator like this  can of course 
+
+470
+00:18:43,720 --> 00:18:45,840
+do much more. One of 
+
+471
+00:18:45,840 --> 00:18:48,020
+the key elements of graphing calculators 
+
+472
+00:18:48,020 --> 00:18:50,420
+are the graphical calculations. 
+
+473
+00:18:51,240 --> 00:18:52,600
+Graphical calculations mean 
+
+474
+00:18:52,600 --> 00:18:55,740
+iterative calculations using a 
+
+475
+00:18:55,740 --> 00:19:01,660
+suitable method. And an 
+
+476
+00:19:01,660 --> 00:19:02,820
+example method would be 
+
+477
+00:19:02,820 --> 00:19:03,860
+the Newton method for 
+
+478
+00:19:03,860 --> 00:19:05,960
+calculating zeros. 
+
+479
+00:19:06,000 --> 00:19:09,120
+I think this is also used here. And in 
+
+480
+00:19:09,120 --> 00:19:10,260
+this context, 
+
+481
+00:19:10,260 --> 00:19:11,980
+of course, it makes sense to 
+
+482
+00:19:11,980 --> 00:19:14,700
+define 
+
+483
+00:19:14,700 --> 00:19:17,580
+
+484
+00:19:17,580 --> 00:19:21,300
+functions , especially in the field of 
+analysis. And that's why it makes 
+
+485
+00:19:21,300 --> 00:19:22,320
+sense to 
+
+486
+00:19:22,320 --> 00:19:24,400
+define functions here too. And the system 
+
+487
+00:19:24,400 --> 00:19:25,520
+also recognizes when you 
+
+488
+00:19:25,520 --> 00:19:28,360
+define a function. And you can simply 
+
+489
+00:19:28,360 --> 00:19:29,940
+type it in intuitively in the same way as 
+you 
+
+490
+00:19:29,940 --> 00:19:30,840
+would at school 
+
+491
+00:19:31,540 --> 00:19:34,620
+, for example with f of x. And if 
+
+492
+00:19:34,620 --> 00:19:36,120
+I now try an f on the 
+
+493
+00:19:36,120 --> 00:19:36,580
+keyboard, 
+
+494
+00:19:39,340 --> 00:19:42,280
+h, b, c, d, e, f, and if I now 
+
+495
+00:19:42,280 --> 00:19:43,580
+use the brackets and 
+
+496
+00:19:43,580 --> 00:19:44,480
+
+497
+00:19:44,480 --> 00:19:49,640
+type in an X here, for example , you can 
+
+498
+00:19:49,640 --> 00:19:51,500
+also see the X, Y and Z keys below , they 
+are 
+
+499
+00:19:51,500 --> 00:19:53,160
+also marked differently because 
+
+500
+00:19:53,160 --> 00:19:55,160
+you need them more often and 
+
+501
+00:19:55,160 --> 00:19:55,960
+if I now 
+
+502
+00:19:55,960 --> 00:19:59,740
+press this assignment symbol, the control, 
+
+503
+00:20:00,100 --> 00:20:03,120
+the, R of X equals, yes, let 
+
+504
+00:20:03,120 --> 00:20:10,320
+'s somehow make X a square, minus 2 
+
+505
+00:20:10,320 --> 00:20:15,120
+as an example. Press Enter. Then 
+
+506
+00:20:15,120 --> 00:20:16,540
+the message ready appears immediately. 
+
+507
+00:20:16,920 --> 00:20:18,520
+This means that the calculator has 
+
+508
+00:20:18,520 --> 00:20:20,120
+also recognized at that moment that you 
+
+509
+00:20:20,120 --> 00:20:22,380
+have now defined a function. 
+
+510
+00:20:23,680 --> 00:20:25,880
+And the nice thing is that 
+
+511
+00:20:25,880 --> 00:20:26,940
+I can now 
+
+512
+00:20:26,940 --> 00:20:28,920
+
+513
+00:20:28,920 --> 00:20:31,520
+carry out all further calculations using 
+this function name. And there are now 
+
+514
+00:20:31,520 --> 00:20:33,460
+two functions that the calculator 
+
+515
+00:20:33,460 --> 00:20:35,240
+has to offer. 
+
+516
+00:20:35,240 --> 00:20:38,580
+One is Polyroutes and the other is 
+Handsaw. 
+
+517
+00:20:38,700 --> 00:20:43,100
+Yes, N12 is a bit 
+
+518
+00:20:43,100 --> 00:20:44,980
+more powerful, you can also 
+
+519
+00:20:44,980 --> 00:20:48,420
+solve non-linear equations with it , but 
+
+520
+00:20:48,420 --> 00:20:50,920
+let's take a look at Polyroutes first 
+
+521
+00:20:50,920 --> 00:20:53,480
+. One advantage of polyroutes is that 
+
+522
+00:20:53,580 --> 00:20:55,500
+you can use them to 
+
+523
+00:20:55,500 --> 00:20:57,640
+
+524
+00:20:57,640 --> 00:21:00,140
+calculate all possible solutions very 
+quickly , but as the name suggests, they 
+
+525
+00:21:00,140 --> 00:21:01,540
+only apply to completely rational 
+
+526
+00:21:01,540 --> 00:21:03,740
+functions. In other words, here we see 
+
+527
+00:21:03,740 --> 00:21:06,280
+the call of the function, Polyroutes, 
+
+528
+00:21:06,280 --> 00:21:10,260
+f of x. and X, that is, this 
+
+529
+00:21:10,260 --> 00:21:13,960
+function directly assumes that 
+
+530
+00:21:13,960 --> 00:21:15,880
+, as the name suggests, 
+
+531
+00:21:16,020 --> 00:21:17,620
+roots, that you directly 
+
+532
+00:21:17,620 --> 00:21:19,000
+determine the zero in a function. 
+
+533
+00:21:19,000 --> 00:21:20,740
+In other words, it 
+
+534
+00:21:20,740 --> 00:21:22,740
+directly replaces this expression, which 
+you enter here on the left, with 
+
+535
+00:21:22,740 --> 00:21:25,260
+zero. And if I now 
+
+536
+00:21:25,260 --> 00:21:28,200
+do the whole thing here , you can now 
+
+537
+00:21:28,200 --> 00:21:30,260
+type in the function manually or you 
+
+538
+00:21:30,260 --> 00:21:32,860
+can also search for it in the catalog. 
+
+539
+00:21:32,860 --> 00:21:34,280
+I'll have to have another quick look. 
+
+540
+00:21:34,280 --> 00:21:35,440
+Personally, I always use the 
+
+541
+00:21:35,440 --> 00:21:37,780
+entry variant, but if you 
+
+542
+00:21:37,780 --> 00:21:40,160
+look in the bell, I'll have 
+
+543
+00:21:40,160 --> 00:21:43,940
+a quick look at where you can do that. 
+
+544
+00:21:43,940 --> 00:21:45,100
+For example, you could 
+
+545
+00:21:45,100 --> 00:21:45,440
+search for it 
+
+546
+00:21:48,480 --> 00:21:50,640
+here, you could search for polyroutes here 
+
+547
+00:21:50,640 --> 00:21:52,080
+, under P. 
+
+548
+00:21:56,620 --> 00:21:58,260
+I've also seen msrc 
+
+549
+00:21:58,260 --> 00:22:00,780
+somewhere. Yes, there we have 
+
+550
+00:22:00,780 --> 00:22:03,220
+polyroutes, for example, and here we can 
+see 
+
+551
+00:22:03,220 --> 00:22:05,800
+the whole thing again. 
+
+552
+00:22:05,800 --> 00:22:06,960
+The whole thing. And I could 
+
+553
+00:22:06,960 --> 00:22:08,520
+also make this assistant active here. 
+
+554
+00:22:08,520 --> 00:22:10,440
+This means that a window opens 
+
+555
+00:22:10,440 --> 00:22:11,460
+where you 
+
+556
+00:22:11,460 --> 00:22:13,480
+can enter the function and the 
+
+557
+00:22:13,480 --> 00:22:17,220
+value again directly. But I'll 
+
+558
+00:22:17,220 --> 00:22:20,200
+just leave that for now. Similarly 
+
+559
+00:22:20,200 --> 00:22:22,640
+, you can also do the whole thing through 
+the menu. 
+
+560
+00:22:22,780 --> 00:22:24,560
+Exactly. To do this, however, you press 
+Menu 
+
+561
+00:22:24,560 --> 00:22:28,240
+and then Analysis or 
+
+562
+00:22:28,240 --> 00:22:31,420
+solve numerically here , solve system 
+linear 
+
+563
+00:22:33,800 --> 00:22:35,240
+equations or 
+
+564
+00:22:35,240 --> 00:22:36,540
+find roots of a polynomial here and here 
+
+565
+00:22:36,540 --> 00:22:39,520
+I can call up real polynomial roots 
+
+566
+00:22:39,520 --> 00:22:41,540
+and if you click on it, then 
+
+567
+00:22:41,540 --> 00:22:43,920
+exactly this function appears. And you 
+
+568
+00:22:43,920 --> 00:22:45,520
+can see that as soon as you 
+
+569
+00:22:45,520 --> 00:22:48,800
+type in a function here , the 
+
+570
+00:22:48,800 --> 00:22:51,020
+whole thing is no longer italicized. 
+Whenever 
+
+571
+00:22:51,020 --> 00:22:52,420
+it is in italics, the computer assumes 
+
+572
+00:22:52,420 --> 00:22:53,480
+that it is a 
+
+573
+00:22:53,480 --> 00:22:56,660
+variable. Only when I type in the 
+
+574
+00:22:56,660 --> 00:22:58,140
+correct function name here does 
+
+575
+00:22:58,240 --> 00:23:01,260
+it become straight again and then 
+
+576
+00:23:01,260 --> 00:23:03,160
+I know that it's an 
+
+577
+00:23:03,160 --> 00:23:06,440
+identifier for me. I can 
+
+578
+00:23:06,440 --> 00:23:07,300
+'t 
+
+579
+00:23:07,300 --> 00:23:09,680
+use that as a variable here, for example. 
+Yes, now I'll just 
+
+580
+00:23:09,680 --> 00:23:13,500
+enter the function. f of x, you 
+
+581
+00:23:13,500 --> 00:23:14,720
+can see that it's now also in bold 
+
+582
+00:23:14,720 --> 00:23:17,140
+. So he knows, aha, 
+
+583
+00:23:17,140 --> 00:23:20,580
+I know f of x, it's defined. And 
+
+584
+00:23:20,580 --> 00:23:22,860
+now I have to 
+
+585
+00:23:22,860 --> 00:23:24,560
+insert the conditions for polyroutes here 
+, namely 
+
+586
+00:23:24,560 --> 00:23:27,300
+polyroutes equal to 0 and 
+
+587
+00:23:27,300 --> 00:23:31,190
+then the whole thing with X and now we 
+have 
+
+588
+00:23:31,190 --> 00:23:32,970
+an argument error here 
+
+589
+00:23:32,970 --> 00:23:34,750
+, because I think they have 
+
+590
+00:23:34,750 --> 00:23:38,070
+changed this with the new version. Maybe 
+it's 
+
+591
+00:23:38,070 --> 00:23:39,510
+more practical if I 
+
+592
+00:23:41,690 --> 00:23:45,630
+
+593
+00:23:47,170 --> 00:23:52,490
+
+594
+00:23:57,190 --> 00:23:57,590
+
+595
+00:24:00,980 --> 00:24:04,600
+enter the yes, if I lose this if I lose 
+that , actions let's see I 'll always just 
+enter f now. That 
+
+596
+00:24:04,600 --> 00:24:08,660
+is not defined. 
+
+597
+00:24:12,760 --> 00:24:14,040
+Then I'll do that with our 
+
+598
+00:24:14,040 --> 00:24:14,720
+catalog. 
+
+599
+00:24:19,610 --> 00:24:20,010
+And 
+
+600
+00:24:26,800 --> 00:24:28,240
+make an assistant. 
+
+601
+00:24:33,650 --> 00:24:34,770
+Okay, somehow it doesn't do that. 
+
+602
+00:24:35,710 --> 00:24:37,650
+Anyway, you can, I think 
+
+603
+00:24:37,750 --> 00:24:38,790
+I'll just do f . 
+
+604
+00:24:42,770 --> 00:24:45,850
+Yes, that's how he did it. Okay, 
+
+605
+00:24:45,850 --> 00:24:48,430
+that means 
+
+606
+00:24:48,430 --> 00:24:50,550
+you don't need this f of x equal to 0 in 
+this case. 
+
+607
+00:24:50,550 --> 00:24:52,370
+It does that automatically. And 
+
+608
+00:24:52,370 --> 00:24:53,150
+here I have my two 
+
+609
+00:24:53,150 --> 00:24:54,450
+solutions, just as we 
+
+610
+00:24:54,450 --> 00:24:55,350
+would expect with this 
+
+611
+00:24:55,350 --> 00:24:58,430
+quadratic function. Root 2 and 
+
+612
+00:24:58,430 --> 00:24:59,350
+minus root 2. 
+
+613
+00:25:02,150 --> 00:25:03,890
+Good, and you can 
+
+614
+00:25:03,890 --> 00:25:04,870
+do the same with nSolve . 
+
+615
+00:25:08,330 --> 00:25:09,870
+And nSolve, as you can see here, you 
+
+616
+00:25:09,870 --> 00:25:12,350
+have to 
+
+617
+00:25:12,350 --> 00:25:14,530
+enter an estimated value, or you can enter 
+an estimated value. and 
+
+618
+00:25:14,530 --> 00:25:16,550
+that's already a sign that 
+
+619
+00:25:16,550 --> 00:25:20,730
+the Newton method is being used here 
+
+620
+00:25:20,730 --> 00:25:23,730
+and that's why it's a 
+
+621
+00:25:23,730 --> 00:25:26,890
+bit more powerful than Polygon. 
+
+622
+00:25:27,170 --> 00:25:28,890
+But well, I don't want to 
+
+623
+00:25:28,890 --> 00:25:31,170
+go into any more detail here. If you 
+
+624
+00:25:31,170 --> 00:25:32,350
+have any specific questions about this, 
+
+625
+00:25:32,350 --> 00:25:33,430
+please feel free to ask them 
+
+626
+00:25:33,430 --> 00:25:34,970
+now. Then 
+
+627
+00:25:34,970 --> 00:25:35,770
+we can 
+
+628
+00:25:35,770 --> 00:25:39,570
+take a closer look at it again. Right, 
+then there is 
+
+629
+00:25:39,570 --> 00:25:42,050
+one more function, namely 
+
+630
+00:25:42,050 --> 00:25:43,470
+the graphs. Display and 
+
+631
+00:25:43,470 --> 00:25:48,050
+analyze function and 
+
+632
+00:25:48,050 --> 00:25:52,930
+add graph to document. 
+
+633
+00:25:52,930 --> 00:25:56,570
+I'll have a look at insert doc and now 
+
+634
+00:25:56,570 --> 00:25:59,770
+we'll look for a graph here. And 
+
+635
+00:25:59,770 --> 00:26:01,610
+here I can now, yes, here we can 
+
+636
+00:26:01,610 --> 00:26:03,550
+now see our graph menu and here 
+
+637
+00:26:03,550 --> 00:26:04,910
+I can now also 
+
+638
+00:26:04,910 --> 00:26:07,390
+define a function directly, f1 of x, or I 
+
+639
+00:26:07,390 --> 00:26:08,990
+can also say, f1 of x is now 
+
+640
+00:26:08,990 --> 00:26:11,990
+equal to f of x. and by 
+
+641
+00:26:12,150 --> 00:26:14,010
+pressing Enter, by pressing Enter, 
+
+642
+00:26:14,010 --> 00:26:15,750
+I can then also 
+
+643
+00:26:15,750 --> 00:26:18,570
+calculate this function directly. The 
+important thing is that 
+
+644
+00:26:18,630 --> 00:26:21,130
+all the sheets in this document, i.e. 
+
+645
+00:26:21,130 --> 00:26:24,630
+all the pages that I have here, 
+
+646
+00:26:24,630 --> 00:26:26,230
+share a memory. 
+
+647
+00:26:26,230 --> 00:26:27,510
+This means that all the variables that I 
+
+648
+00:26:27,510 --> 00:26:31,070
+have defined here in 1.1 are also 
+
+649
+00:26:31,070 --> 00:26:35,650
+available here. And that is very 
+
+650
+00:26:35,650 --> 00:26:37,130
+important. For example, I could 
+
+651
+00:26:37,130 --> 00:26:39,390
+now also 
+
+652
+00:26:39,390 --> 00:26:42,270
+calculate f of x x times test here , yes, 
+such a variable. 
+
+653
+00:26:44,840 --> 00:26:46,180
+And then we see that the whole thing is 
+
+654
+00:26:46,180 --> 00:26:48,700
+now stretched or 
+
+655
+00:26:48,700 --> 00:26:52,040
+compressed by five. Yes, that's another 
+
+656
+00:26:52,040 --> 00:26:53,860
+important hint. And here I can 
+
+657
+00:26:53,860 --> 00:26:55,120
+really 
+
+658
+00:26:55,120 --> 00:26:57,180
+do additional things. 
+
+659
+00:26:57,180 --> 00:26:59,080
+I can now, well, I can 
+
+660
+00:26:59,080 --> 00:27:01,220
+also display several functions here 
+
+661
+00:27:01,220 --> 00:27:02,940
+. In other words, I can also 
+
+662
+00:27:02,940 --> 00:27:05,320
+add parameters. You do that 
+
+663
+00:27:05,320 --> 00:27:05,860
+here with an 
+
+664
+00:27:05,860 --> 00:27:07,800
+argument bar. But well, there are 
+
+665
+00:27:07,800 --> 00:27:08,980
+more games in there now, so I wouldn 
+
+666
+00:27:08,980 --> 00:27:10,720
+'t 
+
+667
+00:27:10,720 --> 00:27:13,120
+go into any more detail. You can also 
+
+668
+00:27:13,120 --> 00:27:17,660
+analyze functions , which means 
+
+669
+00:27:17,660 --> 00:27:20,080
+that you open this menu again, this 
+
+670
+00:27:20,080 --> 00:27:23,360
+menu sub-item, and can then 
+
+671
+00:27:23,360 --> 00:27:27,200
+, for example, I have to have a 
+
+672
+00:27:27,200 --> 00:27:29,900
+quick look at Graf, exactly, then 
+
+673
+00:27:29,900 --> 00:27:31,700
+you go to Analyze Graf and 
+
+674
+00:27:31,700 --> 00:27:33,000
+I have my typical 
+
+675
+00:27:33,000 --> 00:27:35,680
+graphical calculation properties here. 
+
+676
+00:27:35,680 --> 00:27:37,100
+This means that I can 
+
+677
+00:27:37,100 --> 00:27:39,240
+directly determine the zeros , the 
+minimum, the 
+
+678
+00:27:39,240 --> 00:27:41,820
+maximum, i.e. relativa, minima, 
+
+679
+00:27:41,820 --> 00:27:43,720
+maxima. I can 
+
+680
+00:27:43,720 --> 00:27:46,140
+determine intersection points , I can 
+
+681
+00:27:46,140 --> 00:27:47,380
+plot the derivative function 
+
+682
+00:27:47,380 --> 00:27:49,340
+or the antiderivative function or even 
+
+683
+00:27:49,340 --> 00:27:51,180
+the limited range. Ranges, 
+
+684
+00:27:51,240 --> 00:27:53,400
+sorry, so all sorts of things, 
+
+685
+00:27:53,400 --> 00:27:55,020
+yes, I'll do that here with 
+
+686
+00:27:55,020 --> 00:27:58,040
+the zero, I have to 
+
+687
+00:27:58,040 --> 00:28:00,600
+select the function once and, importantly, 
+also 
+
+688
+00:28:00,600 --> 00:28:02,140
+the lower bound, yes, that means 
+
+689
+00:28:02,240 --> 00:28:05,640
+the Newton method again here, yes, 
+
+690
+00:28:05,760 --> 00:28:08,640
+and then you can see the two 
+
+691
+00:28:08,640 --> 00:28:10,980
+zeros here , yes, I could 
+
+692
+00:28:10,980 --> 00:28:15,200
+also do that here now , 
+
+693
+00:28:15,200 --> 00:28:17,980
+I think it shouldn 
+
+694
+00:28:17,980 --> 00:28:19,540
+'t work with Tab , it's not doing it right 
+now , then I should also 
+
+695
+00:28:19,540 --> 00:28:21,240
+be able to set the zero standard. 
+
+696
+00:28:34,660 --> 00:28:36,140
+They have also 
+
+697
+00:28:36,140 --> 00:28:39,720
+changed this again in the version. But 
+it's 
+
+698
+00:28:39,720 --> 00:28:40,800
+actually a retrieve, which means 
+
+699
+00:28:40,800 --> 00:28:43,200
+you can 
+
+700
+00:28:43,200 --> 00:28:48,240
+
+701
+00:28:48,240 --> 00:28:50,820
+change it very easily on the device , even 
+here. Okay, good. 
+
+702
+00:28:51,020 --> 00:28:52,300
+I would do that at this point 
+
+703
+00:28:52,300 --> 00:28:54,120
+, or I would 
+
+704
+00:28:54,120 --> 00:28:56,020
+finish with this , as you can see here, 
+
+705
+00:28:56,080 --> 00:28:57,400
+you can also 
+
+706
+00:28:57,400 --> 00:29:00,460
+have tangent equations determined directly 
+here. 
+
+707
+00:29:00,460 --> 00:29:02,020
+You then go to the Type 
+
+708
+00:29:02,020 --> 00:29:04,280
+Geometry menu item here. You can also 
+
+709
+00:29:04,280 --> 00:29:09,380
+do that. Then under 8. and then here 
+
+710
+00:29:10,260 --> 00:29:13,120
+on points and straight lines. Then 
+
+711
+00:29:13,120 --> 00:29:13,800
+I could also 
+
+712
+00:29:13,800 --> 00:29:16,860
+determine a tangent here, for example. I 
+now 
+
+713
+00:29:16,860 --> 00:29:18,880
+select this graph. And then the 
+
+714
+00:29:18,880 --> 00:29:20,960
+point. And if you 
+
+715
+00:29:20,960 --> 00:29:22,760
+take a closer look here , you can see 
+
+716
+00:29:22,800 --> 00:29:23,980
+that the tangent is also 
+
+717
+00:29:23,980 --> 00:29:27,860
+displayed directly. So it's very 
+
+718
+00:29:27,860 --> 00:29:30,240
+general. Now I can 
+
+719
+00:29:30,240 --> 00:29:31,320
+move the point here again. 
+
+720
+00:29:33,140 --> 00:29:34,380
+And if you 
+
+721
+00:29:34,380 --> 00:29:36,440
+have a zero point, for example, then it 
+snaps 
+
+722
+00:29:36,440 --> 00:29:37,640
+directly into the zero point. 
+
+723
+00:29:37,780 --> 00:29:39,280
+This is also very practical for 
+
+724
+00:29:39,280 --> 00:29:41,420
+this task. So you can 
+
+725
+00:29:41,420 --> 00:29:42,200
+really work very well with it. 
+
+726
+00:29:45,120 --> 00:29:48,890
+Okay, good. Here's 
+
+727
+00:29:48,890 --> 00:29:49,630
+another example with the 
+
+728
+00:29:49,630 --> 00:29:51,490
+integral. I can now 
+
+729
+00:29:51,490 --> 00:29:53,110
+briefly show this again theoretically. 
+
+730
+00:29:53,950 --> 00:29:58,210
+Simply 
+
+731
+00:29:58,210 --> 00:30:01,890
+analyze to zero. to graph. Then the 
+integral. Here 
+
+732
+00:30:01,890 --> 00:30:02,930
+we enter the lower 
+
+733
+00:30:02,930 --> 00:30:05,150
+bound again. And here I can 
+
+734
+00:30:05,150 --> 00:30:06,850
+also 
+
+735
+00:30:06,850 --> 00:30:09,210
+click directly with the pointer on the 
+zero point, for example. 
+
+736
+00:30:09,210 --> 00:30:10,890
+It rattles in very nicely. That's 
+
+737
+00:30:10,890 --> 00:30:12,870
+a really great function. I can 
+
+738
+00:30:12,870 --> 00:30:14,050
+now also 
+
+739
+00:30:14,050 --> 00:30:17,570
+select the other zero. And then I get my 
+
+740
+00:30:17,570 --> 00:30:18,250
+integral here. 
+
+741
+00:30:21,800 --> 00:30:25,320
+This is displayed somewhere. I' 
+
+742
+00:30:29,800 --> 00:30:31,600
+m just wondering what the value 
+
+743
+00:30:31,600 --> 00:30:31,980
+is here. 
+
+744
+00:30:34,700 --> 00:30:35,580
+I might have to 
+
+745
+00:30:35,580 --> 00:30:36,400
+click on it again . 
+
+746
+00:30:39,870 --> 00:30:41,270
+For some reason it' 
+
+747
+00:30:41,270 --> 00:30:43,910
+s not showing me this. 
+
+748
+00:30:43,910 --> 00:30:47,870
+I probably need to press Tab again. Well, 
+it 
+
+749
+00:30:47,870 --> 00:30:48,870
+
+750
+00:30:48,870 --> 00:30:51,550
+doesn't show me this in this version, 
+
+751
+00:30:51,550 --> 00:30:53,470
+but it's clear on the device itself and 
+it' 
+
+752
+00:30:53,470 --> 00:30:56,490
+s always shown there. I 
+
+753
+00:30:56,490 --> 00:30:57,510
+don't know whether it 
+
+754
+00:30:57,510 --> 00:31:00,230
+has done that here. Okay, well, that's 
+
+755
+00:31:00,230 --> 00:31:02,730
+kind of wrong here, but 
+
+756
+00:31:02,730 --> 00:31:03,730
+it should definitely 
+
+757
+00:31:03,730 --> 00:31:04,310
+work on the device. 
+
+758
+00:31:07,500 --> 00:31:08,840
+Well, yes, and then there are 
+
+759
+00:31:08,840 --> 00:31:10,280
+other points, like here, for example, 
+
+760
+00:31:10,280 --> 00:31:11,400
+intersection, we've just 
+
+761
+00:31:11,400 --> 00:31:17,340
+done that. Exactly, yes. 
+
+762
+00:31:20,740 --> 00:31:22,160
+Good, you can 
+
+763
+00:31:22,160 --> 00:31:24,660
+also 
+
+764
+00:31:24,660 --> 00:31:24,920
+work with other functions here, for 
+example. 
+
+765
+00:31:27,900 --> 00:31:29,480
+Yes, well, these are the 
+
+766
+00:31:29,480 --> 00:31:32,760
+basic functions and that's where I want to 
+
+767
+00:31:32,760 --> 00:31:33,900
+... 
+
+768
+00:31:33,900 --> 00:31:37,360
+I'd like to finish my presentation at this 
+point . Yes, and if you 
+
+769
+00:31:37,360 --> 00:31:38,580
+like, please feel free to ask me any 
+
+770
+00:31:38,580 --> 00:31:42,260
+questions. I'll try to answer them too 
+
+771
+00:31:42,260 --> 00:31:43,620
+. Yes, with pleasure. 
+
+772
+00:31:43,940 --> 00:31:44,420
+That's 
+
+773
+00:32:25,450 --> 00:32:28,670
+a very good question. I myself 
+
+774
+00:32:28,670 --> 00:32:31,170
+come from NRW. I'm 
+
+775
+00:32:31,170 --> 00:32:33,830
+particularly familiar with the situation 
+there. 
+
+776
+00:32:34,790 --> 00:32:39,390
+I don't know exactly what it's like in 
+Bavaria. I 
+
+777
+00:32:39,390 --> 00:32:43,250
+mean in Bavaria, so I 
+
+778
+00:32:43,250 --> 00:32:45,290
+don't want to say anything wrong here. 
+
+779
+00:32:45,290 --> 00:32:47,990
+You might have to 
+
+780
+00:32:47,990 --> 00:32:50,810
+look that up again in the curriculum. 
+
+781
+00:32:50,810 --> 00:32:54,370
+In any case, if it is allowed, then there 
+is 
+
+782
+00:32:54,370 --> 00:32:55,570
+probably also an Abitur 
+
+783
+00:32:55,570 --> 00:32:58,330
+. In other words, there will also be 
+
+784
+00:32:58,330 --> 00:33:00,490
+specific tasks. In any case, I know that 
+
+785
+00:33:00,490 --> 00:33:02,690
+
+786
+00:33:02,690 --> 00:33:05,910
+there is no GTR in Baden-Württemberg. I'm 
+guessing 
+
+787
+00:33:05,910 --> 00:33:06,910
+, that's just a guess, 
+
+788
+00:33:06,930 --> 00:33:08,990
+I'm guessing that it's not 
+
+789
+00:33:08,990 --> 00:33:10,990
+allowed in Bavaria. But I can have a 
+
+790
+00:33:10,990 --> 00:33:13,750
+look, that shouldn't 
+
+791
+00:33:13,750 --> 00:33:15,810
+be a problem and I can give you 
+
+792
+00:33:15,810 --> 00:33:19,250
+some brief information. GTR Bavaria. 
+
+793
+00:33:22,090 --> 00:33:22,590
+Yes, 
+
+794
+00:33:37,430 --> 00:33:41,750
+there is such a list. 
+
+795
+00:33:43,450 --> 00:33:45,030
+It's also available from the 
+
+796
+00:33:45,030 --> 00:33:47,810
+calculator manufacturers. And they 
+
+797
+00:33:47,810 --> 00:33:49,450
+also tell you directly 
+
+798
+00:33:49,450 --> 00:33:54,190
+what can be used in which federal state. 
+
+799
+00:33:54,190 --> 00:33:54,850
+I'll have a look there. 
+
+800
+00:34:05,760 --> 00:34:07,560
+Okay, I've just seen on a 
+
+801
+00:34:07,560 --> 00:34:08,360
+website 
+
+802
+00:34:11,580 --> 00:34:13,800
+that Bavaria probably 
+
+803
+00:34:13,800 --> 00:34:15,860
+doesn't 
+
+804
+00:34:15,860 --> 00:34:17,360
+use GTRs , it looks like they use 
+
+805
+00:34:17,360 --> 00:34:21,420
+CRSs instead . A CRS, Computer Algebra 
+
+806
+00:34:21,420 --> 00:34:22,900
+System, is another extended 
+
+807
+00:34:22,900 --> 00:34:24,420
+version of the GTR. This means 
+
+808
+00:34:24,420 --> 00:34:29,200
+that the arithmetic expressions 
+
+809
+00:34:29,200 --> 00:34:30,860
+are not calculated numerically, but 
+
+810
+00:34:30,860 --> 00:34:33,640
+exactly. Yes, CRS. Computer's own 
+
+811
+00:34:33,640 --> 00:34:35,740
+ system. And I see that 
+
+812
+00:34:35,740 --> 00:34:37,880
+the Class-Pad 2 from Casio  is 
+
+813
+00:34:37,880 --> 00:34:40,040
+
+814
+00:34:40,040 --> 00:34:41,680
+allowed in secondary school level 2 in 
+Bavaria. I've 
+
+815
+00:34:41,680 --> 00:34:44,640
+just seen that here. It seems to be 
+
+816
+00:34:48,920 --> 00:34:53,960
+correct. Yes, exactly. 
+
+817
+00:35:20,360 --> 00:35:22,260
+Yes, in NRW, for example, 
+
+818
+00:35:22,320 --> 00:35:27,200
+the GTR is mandatory and 
+
+819
+00:35:27,200 --> 00:35:29,420
+I mean even this model, 
+
+820
+00:35:29,420 --> 00:35:30,780
+I'm not 
+
+821
+00:35:30,780 --> 00:35:33,680
+quite sure right now , but in any case, I 
+
+822
+00:35:33,680 --> 00:35:34,800
+don't think the model is 
+
+823
+00:35:34,800 --> 00:35:39,020
+mandatory, but the GTR in general 
+
+824
+00:35:39,020 --> 00:35:41,180
+is mandatory and there is 
+
+825
+00:35:41,180 --> 00:35:42,360
+definitely an 
+
+826
+00:35:42,360 --> 00:35:46,280
+Abitur exam where you, yes, or with 
+
+827
+00:35:46,280 --> 00:35:50,800
+which you can then, or where the GTR 
+
+828
+00:35:50,800 --> 00:35:52,900
+can be used when answering 
+
+829
+00:35:52,900 --> 00:35:54,600
+the questions. 
+
+830
+00:35:54,600 --> 00:35:55,900
+In any case , there is also a part in 
+
+831
+00:35:55,900 --> 00:35:59,320
+NRW that is free of aids , which means 
+that the GTR may 
+
+832
+00:35:59,320 --> 00:36:01,180
+not be used there. These are 
+
+833
+00:36:01,180 --> 00:36:02,700
+also tasks that you 
+
+834
+00:36:02,700 --> 00:36:04,480
+can solve very easily in your head or are 
+
+835
+00:36:04,480 --> 00:36:05,520
+also 
+
+836
+00:36:05,520 --> 00:36:08,540
+tested on knowledge in the largest circle. 
+And I suspect 
+
+837
+00:36:08,580 --> 00:36:09,740
+that it 
+
+838
+00:36:09,740 --> 00:36:10,200
+will be similar in Bavaria. 
+
+839
+00:36:14,290 --> 00:36:16,690
+Yes, with pleasure. Perhaps 
+
+840
+00:36:16,690 --> 00:36:20,330
+a quick question here. 
+
+841
+00:36:20,330 --> 00:36:22,570
+A little later at 8 
+
+842
+00:36:22,570 --> 00:36:24,470
+.30 p.m. there will also be 
+
+843
+00:36:24,470 --> 00:36:25,570
+
+844
+00:36:25,570 --> 00:36:27,690
+a training course on the 
+
+845
+00:36:27,690 --> 00:36:29,650
+Casio graphics calculator especially for 
+tutors 
+
+846
+00:36:29,650 --> 00:36:31,110
+. I will also be 
+
+847
+00:36:31,110 --> 00:36:33,250
+holding this in a moment. Have you also 
+registered for this 
+
+848
+00:36:33,250 --> 00:36:35,710
+or are you also 
+
+849
+00:36:35,710 --> 00:36:37,290
+interested? Then I'll already 
+
+850
+00:36:37,290 --> 00:36:38,790
+know whether I' 
+
+851
+00:36:38,790 --> 00:36:42,790
+m expecting participants. That would be 
+
+852
+00:36:42,790 --> 00:36:43,950
+good information for me 
+
+853
+00:36:47,720 --> 00:36:49,480
+. However, the presentation 
+
+854
+00:36:49,480 --> 00:36:51,440
+will then refer to the Casio, which means 
+that 
+
+855
+00:36:51,440 --> 00:36:53,340
+I will show you there , okay, good, then 
+
+856
+00:36:53,340 --> 00:36:55,740
+I know yes, if you 
+
+857
+00:36:55,740 --> 00:36:56,980
+have no further questions, then 
+
+858
+00:36:56,980 --> 00:36:58,200
+I would 
+
+859
+00:36:58,200 --> 00:37:01,600
+end the webinar at this point and yes, 
+then thank you 
+
+860
+00:37:01,600 --> 00:37:04,240
+again for your attention and 
+
+861
+00:37:04,240 --> 00:37:06,460
+then I wish you 
+
+862
+00:37:06,460 --> 00:37:08,400
+a nice rest of the evening and 
+
+863
+00:37:08,400 --> 00:37:09,600
+maybe I'll see 
+
+864
+00:37:09,600 --> 00:37:11,400
+you again in the other webinars. Well, 
+
+865
+00:37:27,020 --> 00:37:28,900
+thank you very much and then I'll end 
+
+866
+00:37:28,900 --> 00:37:29,400
+the webinar now 

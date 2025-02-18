@@ -1,0 +1,2168 @@
+1
+00:00:01,260 --> 00:00:03,160
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,160 --> 00:00:05,440
+Wachstums- und Zerfallsprozesse. Wir
+
+3
+00:00:05,440 --> 00:00:06,920
+werden uns in diesem Webinar mit
+
+4
+00:00:06,920 --> 00:00:08,580
+Wachstums- und Zerfallsprozessen
+
+5
+00:00:08,580 --> 00:00:10,580
+befassen. Zuerst schauen wir uns auf
+
+6
+00:00:10,580 --> 00:00:12,520
+einmal die Wachstumsfunktion n von t
+
+7
+00:00:12,520 --> 00:00:14,000
+an. Danach schauen wir uns eine
+
+8
+00:00:14,000 --> 00:00:15,460
+kleine Beispielaufgabe zur
+
+9
+00:00:15,460 --> 00:00:17,940
+Bakterienkultur an. Das ist eine
+
+10
+00:00:17,940 --> 00:00:19,840
+Beispielaufgabe zum exponentiellen
+
+11
+00:00:19,840 --> 00:00:22,640
+Wachstum. Danach gehen wir zum
+
+12
+00:00:22,640 --> 00:00:26,060
+exponentiellen Zerfall über. Das
+
+13
+00:00:26,060 --> 00:00:27,060
+heißt, wir schauen uns eine
+
+14
+00:00:27,060 --> 00:00:29,280
+exponentielle Abnahme an, am Beispiel
+
+15
+00:00:29,280 --> 00:00:30,900
+eines radioaktiven
+
+16
+00:00:34,680 --> 00:00:37,240
+Abnahmemachers der begrenzten
+
+17
+00:00:37,240 --> 00:00:39,380
+Abnahme. Auch das machen wir anhand
+
+18
+00:00:39,380 --> 00:00:40,820
+eines Beispiels. Das Beispiel dabei
+
+19
+00:00:40,820 --> 00:00:43,700
+ist das thermische Abkühlen. Und ganz
+
+20
+00:00:43,700 --> 00:00:44,800
+zuletzt schauen wir uns noch das
+
+21
+00:00:44,800 --> 00:00:46,520
+geologistische Wachstum an, anhand
+
+22
+00:00:46,520 --> 00:00:48,160
+der Beispielaufgabe die
+
+23
+00:00:48,160 --> 00:00:52,010
+Gerüchteküche. Damit fangen wir jetzt
+
+24
+00:00:52,010 --> 00:00:54,430
+mit der Wachstumsfunktion N von T an.
+
+25
+00:00:54,430 --> 00:00:57,250
+Und zwar, beim exponentiellen
+
+26
+00:00:57,250 --> 00:00:58,910
+Wachstum geht man folgenden Ansatz
+
+27
+00:00:58,910 --> 00:01:00,850
+aus. Die Wachstumsgeschwindigkeit sei
+
+28
+00:01:00,850 --> 00:01:03,430
+proportional zum Bestand. Das ist bei
+
+29
+00:01:03,430 --> 00:01:05,910
+Wachstumsfunktionen immer so. Das
+
+30
+00:01:05,910 --> 00:01:07,190
+heißt, wenn der Bestand doppelt so
+
+31
+00:01:07,190 --> 00:01:09,370
+groß ist, ist auch das Wachstum
+
+32
+00:01:09,370 --> 00:01:10,610
+doppelt so groß. Das hängt auch mit
+
+33
+00:01:10,610 --> 00:01:13,550
+diesem Wachstumsfaktor zusammen. dass
+
+34
+00:01:13,550 --> 00:01:15,510
+wenn der Bestand doppelt so groß ist,
+
+35
+00:01:15,610 --> 00:01:17,770
+auch das Wachstum entsprechend dann
+
+36
+00:01:17,770 --> 00:01:20,770
+zwangsläufig doppelt so groß ist.
+
+37
+00:01:22,070 --> 00:01:23,510
+Klassische Beispiele sind dafür
+
+38
+00:01:23,510 --> 00:01:25,250
+Bakterienkulturen, die sich zum
+
+39
+00:01:25,250 --> 00:01:28,070
+Beispiel immer verdoppeln. Oder wenn
+
+40
+00:01:28,070 --> 00:01:30,050
+es ums Zerfallen geht, der atomare
+
+41
+00:01:30,050 --> 00:01:31,550
+Zerfall. Wenn noch mehr da ist,
+
+42
+00:01:31,570 --> 00:01:33,090
+zerfällt es schneller, als wenn nur
+
+43
+00:01:33,090 --> 00:01:37,930
+noch weniger da ist. Und anhand
+
+44
+00:01:37,930 --> 00:01:40,270
+dieser Erkenntnis leiten wir jetzt
+
+45
+00:01:40,270 --> 00:01:42,070
+einmal unsere... Wachstumsfunktion n
+
+46
+00:01:42,070 --> 00:01:44,910
+von t her. Und zwar aufgrund des
+
+47
+00:01:44,910 --> 00:01:46,390
+Proportionalitätsfaktors können wir
+
+48
+00:01:46,390 --> 00:01:48,510
+sagen, k mal n von t ist gleich n'
+
+49
+00:01:48,670 --> 00:01:52,010
+von t. Also n von t ist der Bestand,
+
+50
+00:01:52,090 --> 00:01:55,210
+n' von t ist die Änderungsrate
+
+51
+00:01:55,210 --> 00:01:57,610
+beziehungsweise das Wachstum und das
+
+52
+00:01:57,610 --> 00:01:58,710
+hatten wir gerade gesagt, dass das
+
+53
+00:01:58,710 --> 00:02:01,770
+proportional ist. Und wir schreiben
+
+54
+00:02:01,770 --> 00:02:03,850
+das Differenzial n' von t jetzt um zu
+
+55
+00:02:03,850 --> 00:02:06,930
+dn durch dt und stellen das Ganze so
+
+56
+00:02:06,930 --> 00:02:08,850
+um, dass das dt auf der linken Seite
+
+57
+00:02:08,850 --> 00:02:11,270
+steht und das n von t hier unten im
+
+58
+00:02:11,270 --> 00:02:13,850
+Nenner und kommen so auf k mal dt ist
+
+59
+00:02:13,850 --> 00:02:18,990
+gleich 1 durch n von t dn. Wir wollen
+
+60
+00:02:18,990 --> 00:02:21,790
+jetzt diese Gleichung integrieren.
+
+61
+00:02:22,690 --> 00:02:24,630
+Wir integrieren in den Grenzen 0 bis
+
+62
+00:02:24,630 --> 00:02:27,770
+t bzw. 0 bis n. So kommen wir auf das
+
+63
+00:02:27,770 --> 00:02:32,070
+Integral 0 bis t von k dt ist gleich
+
+64
+00:02:32,070 --> 00:02:37,210
+0 bis n von 1 durch n von t dn. Das
+
+65
+00:02:37,210 --> 00:02:41,450
+Integral 0 bis t von k mal dt ist
+
+66
+00:02:41,450 --> 00:02:43,990
+einfach gelöst durch k mal t, also
+
+67
+00:02:43,990 --> 00:02:50,010
+kt. Und das Integral 0 bis n von 1
+
+68
+00:02:50,010 --> 00:02:52,430
+durch n von t wird gelöst durch den
+
+69
+00:02:52,430 --> 00:02:55,270
+Logarithmus von n von t. Wir wollen
+
+70
+00:02:55,270 --> 00:02:57,530
+natürlich letztendlich, dass n von t
+
+71
+00:02:57,530 --> 00:03:00,910
+auf einer Seite alleine stehen haben.
+
+72
+00:03:01,750 --> 00:03:03,750
+Daher gehen wir jetzt hin und
+
+73
+00:03:03,750 --> 00:03:05,210
+potenzieren mit der E-Kombination.
+
+74
+00:03:05,230 --> 00:03:07,530
+Funktion. Das heißt wir haben e hoch
+
+75
+00:03:07,530 --> 00:03:09,750
+k mal t ist gleich n von t. Durch das
+
+76
+00:03:09,750 --> 00:03:12,270
+Potenzieren mit der e-Funktion lösen
+
+77
+00:03:12,270 --> 00:03:14,150
+wir den Logarithmus. Das ist der
+
+78
+00:03:14,150 --> 00:03:16,390
+Ansatz. Zu diesem Ansatz kommt
+
+79
+00:03:16,390 --> 00:03:17,730
+natürlich noch die Randbedingung,
+
+80
+00:03:17,790 --> 00:03:22,130
+dass n von 0 gleich n 0 ist und so
+
+81
+00:03:22,130 --> 00:03:24,630
+lautet die allgemeine
+
+82
+00:03:24,630 --> 00:03:25,570
+Funktionsgleichung einer
+
+83
+00:03:25,570 --> 00:03:27,350
+Wachstumsfunktion n von t ist gleich
+
+84
+00:03:27,350 --> 00:03:31,510
+n 0 mal e hoch k t. n 0 ist dabei wie
+
+85
+00:03:31,510 --> 00:03:33,590
+gesagt unser Anfangswert und k unser
+
+86
+00:03:33,590 --> 00:03:35,250
+Wachstumswert. Funktionsfaktor t ist
+
+87
+00:03:35,250 --> 00:03:37,390
+die Variable, also die Zeit in der
+
+88
+00:03:37,390 --> 00:03:41,250
+Regel. Und damit fangen wir auch
+
+89
+00:03:41,250 --> 00:03:42,450
+gleich an. Und zwar haben wir eine
+
+90
+00:03:42,450 --> 00:03:43,710
+kleine Beispielaufgabe. Eine
+
+91
+00:03:43,710 --> 00:03:45,210
+Bakterienkultur besteht zum
+
+92
+00:03:45,210 --> 00:03:47,190
+Messbeginn aus 600 Einheiten. Nach 4
+
+93
+00:03:47,190 --> 00:03:51,150
+Stunden werden bereits 3256 Einheiten
+
+94
+00:03:51,150 --> 00:03:53,190
+gezählt. Als erstes sollen wir die
+
+95
+00:03:53,190 --> 00:03:54,750
+Funktionsgleichung aufstellen. Wenn
+
+96
+00:03:54,750 --> 00:03:55,690
+wir die Funktionsgleichung
+
+97
+00:03:55,690 --> 00:03:57,510
+aufgestellt haben, sollen wir den
+
+98
+00:03:57,510 --> 00:03:59,650
+Bestand nach 3, 5 und 10 Stunden
+
+99
+00:03:59,650 --> 00:04:01,950
+bestimmen. Zum Schluss sollen wir
+
+100
+00:04:01,950 --> 00:04:03,570
+noch die Verdopplungszeit angeben.
+
+101
+00:04:04,130 --> 00:04:06,310
+Das heißt, wie in der Aufgabe
+
+102
+00:04:06,310 --> 00:04:07,910
+vorgegeben, fangen wir als erstes mit
+
+103
+00:04:07,910 --> 00:04:09,590
+den bestimmten Funktionsgleichungen
+
+104
+00:04:09,590 --> 00:04:14,090
+an. Solche Angaben, wo ein Bestand
+
+105
+00:04:14,090 --> 00:04:15,410
+zum Messbeginn oder ein Bestand zum
+
+106
+00:04:15,410 --> 00:04:19,510
+Zeitpunkt 0 gegeben wird, sind sehr
+
+107
+00:04:19,510 --> 00:04:21,730
+wertvoll, denn damit sollte man immer
+
+108
+00:04:21,730 --> 00:04:24,290
+anfangen. Ja, deswegen fangen wir an
+
+109
+00:04:24,290 --> 00:04:26,910
+mit 600 ist gleich N0 mal E hoch K
+
+110
+00:04:26,910 --> 00:04:30,870
+mal 0. Der Vorteil hierbei ist, wir
+
+111
+00:04:30,870 --> 00:04:35,470
+haben e hoch k mal 0 ist e hoch 0 und
+
+112
+00:04:35,470 --> 00:04:38,070
+irgendwas hoch 0 ist immer 1. Das
+
+113
+00:04:38,070 --> 00:04:40,510
+heißt, da steht gerade 600 ist gleich
+
+114
+00:04:40,510 --> 00:04:43,450
+n0 mal 1 und deswegen wissen wir
+
+115
+00:04:43,450 --> 00:04:48,810
+sofort n0 ist gleich 600. Und damit
+
+116
+00:04:48,810 --> 00:04:50,010
+können wir dann direkt die zweite
+
+117
+00:04:50,010 --> 00:04:53,030
+Bedingung heranziehen. Nach 4 Stunden
+
+118
+00:04:53,030 --> 00:04:55,930
+werden bereits 3256 Einheiten
+
+119
+00:04:55,930 --> 00:04:59,150
+gezählt, das heißt 3200... 3256 ist
+
+120
+00:04:59,150 --> 00:05:02,310
+gleich N0 mal E hoch K mal 4. Die 4
+
+121
+00:05:02,310 --> 00:05:03,550
+hier, weil es halt nach 4 Stunden
+
+122
+00:05:03,550 --> 00:05:06,110
+ist. Das N0 kennen wir. Das ist ja
+
+123
+00:05:06,110 --> 00:05:07,550
+die 600 von vorhin. Das setzen wir
+
+124
+00:05:07,550 --> 00:05:08,830
+deswegen direkt ein und kommen zu
+
+125
+00:05:08,830 --> 00:05:12,460
+dieser Gleichung. Wir sehen jetzt
+
+126
+00:05:12,460 --> 00:05:13,820
+direkt, wir haben nur noch unser K
+
+127
+00:05:13,820 --> 00:05:16,480
+als Unbekannte. Daher stellen wir zu
+
+128
+00:05:16,480 --> 00:05:18,580
+diesem einfach um. Als erstes
+
+129
+00:05:18,580 --> 00:05:20,200
+versuchen wir natürlich unsere Potenz
+
+130
+00:05:20,200 --> 00:05:21,640
+zu isolieren. Das heißt, wir teilen
+
+131
+00:05:21,640 --> 00:05:25,120
+durch 600. 3.256 geteilt durch 600
+
+132
+00:05:25,120 --> 00:05:28,900
+sind dann 5,427 und das ist dann
+
+133
+00:05:28,900 --> 00:05:31,880
+gleich e hoch k mal 4. Wir stellen
+
+134
+00:05:31,880 --> 00:05:33,040
+fest, wir können es nicht weiter
+
+135
+00:05:33,040 --> 00:05:34,580
+zusammenfassen oder vereinfachen,
+
+136
+00:05:34,580 --> 00:05:36,720
+daher muss nun die e-Funktion
+
+137
+00:05:36,720 --> 00:05:38,140
+weichen. Das machen wir mit den ln,
+
+138
+00:05:38,320 --> 00:05:41,340
+also immer wenn ihr eine e-Funktion
+
+139
+00:05:41,340 --> 00:05:44,800
+habt oder e als Basis, nehmt den ln,
+
+140
+00:05:44,920 --> 00:05:46,580
+den Logarithmus Naturales, Diese hat
+
+141
+00:05:46,580 --> 00:05:48,960
+nämlich auch die Basis E und daher
+
+142
+00:05:48,960 --> 00:05:54,240
+können wir jetzt direkt von der 5,427
+
+143
+00:05:54,240 --> 00:05:56,560
+den Logarithmus nehmen. Das ist 1,7
+
+144
+00:05:56,560 --> 00:05:58,440
+ungefähr und auf der rechten Seite
+
+145
+00:05:58,440 --> 00:06:00,920
+erhalten wir keinen, weil der ln von
+
+146
+00:06:00,920 --> 00:06:03,800
+E ist 1. Deswegen steht auf der
+
+147
+00:06:03,800 --> 00:06:07,180
+rechten Seite nur 4 mal k. Um jetzt k
+
+148
+00:06:07,180 --> 00:06:08,260
+zu bestimmen, müssen wir nur noch
+
+149
+00:06:08,260 --> 00:06:09,740
+durch 4 teilen, dann steht da k ist
+
+150
+00:06:09,740 --> 00:06:13,760
+gleich 0,42. Und damit haben wir
+
+151
+00:06:13,760 --> 00:06:15,200
+jetzt unsere Wachstum.
+
+152
+00:06:15,220 --> 00:06:16,120
+Leistungsfunktion komplett
+
+153
+00:06:16,120 --> 00:06:20,430
+aufgestellt. Als nächstes sollten wir
+
+154
+00:06:20,430 --> 00:06:22,530
+den Bestand nach 3, 5 und 10 Stunden
+
+155
+00:06:22,530 --> 00:06:24,390
+bestimmen. Dafür setzen wir einfach
+
+156
+00:06:24,390 --> 00:06:26,970
+für unsere Variable 3, 5 und 10 ein.
+
+157
+00:06:27,070 --> 00:06:28,890
+Das heißt, wir wissen jetzt, nach 3
+
+158
+00:06:28,890 --> 00:06:33,310
+Stunden waren es 2115 Einheiten, nach
+
+159
+00:06:33,310 --> 00:06:37,030
+5 Stunden 4899 und nach 10 Stunden
+
+160
+00:06:37,030 --> 00:06:39,310
+waren es sogar schon 40.011
+
+161
+00:06:39,310 --> 00:06:40,490
+Einheiten.
+
+162
+00:06:43,530 --> 00:06:45,090
+Zum Schluss sollten wir noch die
+
+163
+00:06:45,090 --> 00:06:46,350
+Verdopplungszeit berechnen. Die
+
+164
+00:06:46,350 --> 00:06:49,710
+Verdopplungszeit ist genau die Zeit,
+
+165
+00:06:49,730 --> 00:06:51,330
+die vergeht, bis sich der Bestand
+
+166
+00:06:51,330 --> 00:06:56,730
+verdoppelt hat. Das heißt, wann sich
+
+167
+00:06:56,730 --> 00:06:59,470
+die Anzahl der Einheiten seit
+
+168
+00:06:59,470 --> 00:07:00,910
+Messbeginn verdoppelt haben. Das
+
+169
+00:07:00,910 --> 00:07:02,290
+heißt, wir hatten am Anfang 600
+
+170
+00:07:02,290 --> 00:07:05,790
+Einheiten, folglich ist gefragt, nach
+
+171
+00:07:05,790 --> 00:07:07,510
+wieviel Stunden gab es 1200
+
+172
+00:07:07,510 --> 00:07:10,570
+Einheiten. Deswegen setzen wir unsere
+
+173
+00:07:10,570 --> 00:07:12,510
+schon bestimmte Funktionsgleichung
+
+174
+00:07:12,510 --> 00:07:14,730
+mit 1200 gleich und lösen die
+
+175
+00:07:14,730 --> 00:07:18,590
+entstandene Gleichung. Also 1200 ist
+
+176
+00:07:18,590 --> 00:07:23,010
+gleich 600 mal e hoch 0,42t. Gleiche
+
+177
+00:07:23,010 --> 00:07:24,690
+Technik hier, erstmal durch 600
+
+178
+00:07:24,690 --> 00:07:25,930
+teilen, um unsere Potenz zu
+
+179
+00:07:25,930 --> 00:07:27,930
+isolieren. Dann steht da 2 ist gleich
+
+180
+00:07:27,930 --> 00:07:32,410
+e hoch 0,42t. Jetzt wenden wir hier
+
+181
+00:07:32,410 --> 00:07:33,550
+einen Logarithmus an, auch hier
+
+182
+00:07:33,550 --> 00:07:36,170
+Logarithmus Naturales, also ln, weil
+
+183
+00:07:36,170 --> 00:07:38,050
+wir hier eine e-Funktion haben. Dann
+
+184
+00:07:38,050 --> 00:07:40,250
+steht da, der ln von 2 ist gleich 0
+
+185
+00:07:40,250 --> 00:07:42,830
+,42 mal t. Jetzt müssen wir nur noch
+
+186
+00:07:42,830 --> 00:07:45,070
+durch 0,42 teilen. und dann steht da
+
+187
+00:07:45,070 --> 00:07:47,630
+der ln von 2 geteilt durch 0,42 ist
+
+188
+00:07:47,630 --> 00:07:50,230
+gleich t, also in unserem Fall 1,65.
+
+189
+00:07:50,630 --> 00:07:54,450
+Das heißt, nach 1,65 Stunden hat der
+
+190
+00:07:54,450 --> 00:07:56,790
+Bestand sich verdoppelt. Oder anders
+
+191
+00:07:56,790 --> 00:07:59,470
+gesagt, alle 1,65 Stunden verdoppelt
+
+192
+00:07:59,470 --> 00:08:00,050
+sich der Bestand.
+
+193
+00:08:03,160 --> 00:08:05,400
+Wir sehen hier die allgemeine Formel,
+
+194
+00:08:05,400 --> 00:08:08,460
+um die Verdopplungszeit zu bestimmen.
+
+195
+00:08:08,540 --> 00:08:10,240
+Es ist immer der ln von 2 geteilt
+
+196
+00:08:10,240 --> 00:08:11,660
+durch k. Das k ist wie gesagt der
+
+197
+00:08:11,660 --> 00:08:13,140
+Faktor für unsere Variablen hier
+
+198
+00:08:13,140 --> 00:08:15,700
+immer. und mit dieser Formel können
+
+199
+00:08:15,700 --> 00:08:17,880
+wir immer auf Anhieb ohne diese
+
+200
+00:08:17,880 --> 00:08:20,700
+Rechnung hier die Verdopplungszeit
+
+201
+00:08:20,700 --> 00:08:23,340
+bestimmen. Die kann wie gesagt
+
+202
+00:08:23,340 --> 00:08:25,140
+genutzt werden. Mit der Rechnung hier
+
+203
+00:08:25,140 --> 00:08:26,840
+tut man aber genau das, was hier
+
+204
+00:08:26,840 --> 00:08:30,860
+eigentlich aufgeschrieben ist. Damit
+
+205
+00:08:30,860 --> 00:08:33,040
+kommen wir nämlich auch zum Gegenteil
+
+206
+00:08:33,040 --> 00:08:34,020
+davon. Das ist nämlich die
+
+207
+00:08:34,020 --> 00:08:36,020
+exponentielle Abnahme. Wir hatten
+
+208
+00:08:36,020 --> 00:08:38,300
+hier gerade ein exponentielles
+
+209
+00:08:38,300 --> 00:08:39,700
+Wachstum. Die Bakterien haben sich ja
+
+210
+00:08:39,700 --> 00:08:41,520
+vermehrt. Jetzt haben wir das
+
+211
+00:08:41,520 --> 00:08:43,180
+Gegenbeispiel. eine exponentielle
+
+212
+00:08:43,180 --> 00:08:45,200
+Abnahme. Ganz klassisches Beispiel
+
+213
+00:08:45,200 --> 00:08:47,080
+zur exponentiellen Abnahme ist immer
+
+214
+00:08:47,080 --> 00:08:50,800
+ein radioaktiver Zerfall und dass es
+
+215
+00:08:50,800 --> 00:08:52,560
+eine Abnahme ist, wird auch gleich
+
+216
+00:08:52,560 --> 00:08:54,940
+direkt dadurch deutlich, dass man
+
+217
+00:08:54,940 --> 00:08:57,200
+hier etwas negatives im Exponenten
+
+218
+00:08:57,200 --> 00:08:59,160
+stehen hat. Deswegen ist der Ansatz
+
+219
+00:08:59,160 --> 00:09:02,420
+dafür immer N0 mal e hoch minus k mal
+
+220
+00:09:02,420 --> 00:09:07,330
+t. Auch für die Halbwertszeit nennt
+
+221
+00:09:07,330 --> 00:09:09,310
+sich das. Die Halbwertszeit ist der
+
+222
+00:09:09,310 --> 00:09:11,050
+Zeitpunkt, wenn nur noch die Hälfte
+
+223
+00:09:11,050 --> 00:09:13,090
+vom Anfangswert vorhanden ist. Auch
+
+224
+00:09:13,090 --> 00:09:14,890
+da Dafür gibt es eine vorgefertigte
+
+225
+00:09:14,890 --> 00:09:16,550
+Formel, die leiten wir jetzt einmal
+
+226
+00:09:16,550 --> 00:09:19,250
+her. Wie gerade gesagt, die
+
+227
+00:09:19,250 --> 00:09:21,150
+Halbwertszeit ist der Bestand, der
+
+228
+00:09:21,150 --> 00:09:23,230
+nur noch der Hälfte des
+
+229
+00:09:23,230 --> 00:09:24,730
+ursprünglichen Bestands entspricht,
+
+230
+00:09:24,790 --> 00:09:27,910
+das heißt N0 halbe. Und um den
+
+231
+00:09:27,910 --> 00:09:29,530
+Zeitpunkt zu berechnen, setzen wir
+
+232
+00:09:29,530 --> 00:09:30,870
+auch hier unsere Funktionsgleichung
+
+233
+00:09:30,870 --> 00:09:32,310
+mit diesem Bestand gleich. Also
+
+234
+00:09:32,310 --> 00:09:34,150
+kommen wir auf diese schöne Gleichung
+
+235
+00:09:34,150 --> 00:09:36,530
+hier. N0 halbe ist gleich N0 mal e
+
+236
+00:09:36,530 --> 00:09:39,870
+hoch minus kt. Wir teilen als erstes
+
+237
+00:09:39,870 --> 00:09:42,450
+durch N0. N0 halbe geteilt durch N0
+
+238
+00:09:42,450 --> 00:09:46,690
+ist 1 halb oder 0,5. Und das ist
+
+239
+00:09:46,690 --> 00:09:48,910
+gleich E hoch minus K mal T. Auch
+
+240
+00:09:48,910 --> 00:09:50,450
+hier wenden wir den Logarithmus an.
+
+241
+00:09:50,510 --> 00:09:51,910
+So kommen wir auf den Logarithmus.
+
+242
+00:09:51,950 --> 00:09:53,870
+Also auch wieder hier Logarithmus
+
+243
+00:09:53,870 --> 00:09:56,830
+naturales Ln von 1 halb ist gleich
+
+244
+00:09:56,830 --> 00:09:59,150
+minus K mal T. Wir teilen jetzt nur
+
+245
+00:09:59,150 --> 00:10:01,150
+noch durch minus K. Und dann steht da
+
+246
+00:10:01,150 --> 00:10:05,530
+der Ln von 1 halb durch minus K ist
+
+247
+00:10:05,530 --> 00:10:08,570
+gleich T ein halbes. Dieses C½ hier
+
+248
+00:10:08,570 --> 00:10:10,470
+mit dem Indiz C½ ist einfach das
+
+249
+00:10:10,470 --> 00:10:13,470
+Zeichen für die Halbwertszeit. Das
+
+250
+00:10:13,470 --> 00:10:15,450
+heißt, mit dieser Formel können wir
+
+251
+00:10:15,450 --> 00:10:16,890
+die Halbwertszeit bestimmen.
+
+252
+00:10:19,620 --> 00:10:20,560
+Hier haben wir jetzt auch gleich
+
+253
+00:10:20,560 --> 00:10:21,660
+schon unser Beispiel. Ein
+
+254
+00:10:21,660 --> 00:10:23,440
+radioaktives Element hat eine
+
+255
+00:10:23,440 --> 00:10:26,640
+Halbwertszeit von 653 Tagen. Nach
+
+256
+00:10:26,640 --> 00:10:28,680
+vier Jahren sind etwa 1000 Gramm der
+
+257
+00:10:28,680 --> 00:10:30,900
+Ausgangsmenge nicht zerfallen. Das
+
+258
+00:10:30,900 --> 00:10:33,040
+heißt, es ist der Bestand. Wie groß
+
+259
+00:10:33,040 --> 00:10:34,960
+war die Ausgangsmenge? Was hierbei
+
+260
+00:10:34,960 --> 00:10:37,360
+schon gemein ist, ist, einmal wird
+
+261
+00:10:37,360 --> 00:10:38,920
+einem die Zeit in Jahren gegeben und
+
+262
+00:10:38,920 --> 00:10:40,820
+einmal in Tagen. Man muss sich
+
+263
+00:10:40,820 --> 00:10:42,340
+selbstverständlich auf eine Einheit
+
+264
+00:10:42,340 --> 00:10:44,080
+einigen. Wir haben uns hier jetzt auf
+
+265
+00:10:44,080 --> 00:10:49,380
+Tage geeinigt. Das heißt, wir wissen
+
+266
+00:10:49,380 --> 00:10:54,340
+nach vier Jahren, also vier mal 365
+
+267
+00:10:54,340 --> 00:10:56,380
+Tagen sind nur noch 1000 Gramm
+
+268
+00:10:56,380 --> 00:10:59,700
+vorhanden. Und wir wissen, die
+
+269
+00:10:59,700 --> 00:11:02,300
+Halbwertszeit sind 653 Tage. Das
+
+270
+00:11:02,300 --> 00:11:04,440
+heißt, N0 halb. ist gleich N0 mal E
+
+271
+00:11:04,440 --> 00:11:09,700
+hoch minus K mal 653. Das sind unsere
+
+272
+00:11:09,700 --> 00:11:11,200
+beiden Gleichungen, mit denen wir
+
+273
+00:11:11,200 --> 00:11:15,300
+beginnen. Das Schöne bei der
+
+274
+00:11:15,300 --> 00:11:16,740
+Halbwertszeit ist hier, wir können
+
+275
+00:11:16,740 --> 00:11:18,660
+jetzt das durch N0 teilen, dann fällt
+
+276
+00:11:18,660 --> 00:11:20,600
+es raus und wir haben nur noch
+
+277
+00:11:20,600 --> 00:11:22,780
+unseren Wachstumsfaktor K, in dem
+
+278
+00:11:22,780 --> 00:11:24,920
+Fall Zerfallsfaktor K, als
+
+279
+00:11:24,920 --> 00:11:27,740
+Unbekannte. Das heißt, zu diesem
+
+280
+00:11:27,740 --> 00:11:30,340
+stellen wir um und bestimmen ihn so.
+
+281
+00:11:30,340 --> 00:11:32,200
+Also deswegen erster Schritt geteilt
+
+282
+00:11:32,200 --> 00:11:34,600
+durch N0. Jetzt steht da 1,5 gleich e
+
+283
+00:11:34,600 --> 00:11:37,840
+hoch minus k mal 653. Davon bilden
+
+284
+00:11:37,840 --> 00:11:39,440
+wir den Logarithmus. Jetzt steht da
+
+285
+00:11:39,440 --> 00:11:41,160
+der Logarithmus von 1,5 gleich minus
+
+286
+00:11:41,160 --> 00:11:44,740
+k mal 653. Jetzt teilen wir noch
+
+287
+00:11:44,740 --> 00:11:47,260
+durch minus 653 einfach aus dem
+
+288
+00:11:47,260 --> 00:11:48,480
+Grund, wir wollen ja, dass das k
+
+289
+00:11:48,480 --> 00:11:50,620
+alleine steht. Deswegen muss auch das
+
+290
+00:11:50,620 --> 00:11:52,980
+Vorzeichen gleich weg. Und deswegen
+
+291
+00:11:52,980 --> 00:11:54,560
+teilen wir gleich durch das
+
+292
+00:11:54,560 --> 00:11:57,860
+Vorzeichen und die 653. Wir kommen
+
+293
+00:11:57,860 --> 00:12:01,400
+dann auf ein K von 0,001061.
+
+294
+00:12:02,500 --> 00:12:03,980
+Bitte nehmt bei solchen kleinen
+
+295
+00:12:03,980 --> 00:12:06,300
+Zahlen immer hinreichend viele
+
+296
+00:12:06,300 --> 00:12:08,000
+Nachkommastellen mit. Zwei
+
+297
+00:12:08,000 --> 00:12:09,240
+Nachkommastellen würden uns hier
+
+298
+00:12:09,240 --> 00:12:10,240
+nichts bringen, das wäre dann nämlich
+
+299
+00:12:10,240 --> 00:12:12,060
+0 und damit wäre die Aufgabe
+
+300
+00:12:12,060 --> 00:12:16,400
+hinfällig. Gut, also das ist unser K
+
+301
+00:12:16,400 --> 00:12:18,260
+jetzt und das können wir jetzt auch
+
+302
+00:12:18,260 --> 00:12:19,220
+in unsere Funktionsgleichung
+
+303
+00:12:19,220 --> 00:12:21,440
+einsetzen. Das haben wir auch hier
+
+304
+00:12:21,440 --> 00:12:23,620
+gemacht. und wir wissen jetzt ja,
+
+305
+00:12:23,720 --> 00:12:28,580
+nach 4 Jahren bzw. 1460 Tagen sind
+
+306
+00:12:28,580 --> 00:12:30,120
+nur noch 1000 Gramm vorhanden. Das
+
+307
+00:12:30,120 --> 00:12:33,100
+heißt 1000 ist gleich N0 mal E hoch
+
+308
+00:12:33,100 --> 00:12:39,240
+minus 0,001061 mal 1460. Das Schöne
+
+309
+00:12:39,240 --> 00:12:41,300
+ist, dass hier, ich kann den
+
+310
+00:12:41,300 --> 00:12:42,100
+Taschenrechner nicht berechnen, das
+
+311
+00:12:42,100 --> 00:12:43,480
+ist eine Zahl. Wir müssen den
+
+312
+00:12:43,480 --> 00:12:44,980
+Taschenrechner eingeben, kommt raus 0
+
+313
+00:12:44,980 --> 00:12:48,320
+,212. Das heißt, diese Gleichung
+
+314
+00:12:48,320 --> 00:12:49,400
+erhalten wir und die sieht schon
+
+315
+00:12:49,400 --> 00:12:51,200
+wesentlich schöner aus. 1000 ist
+
+316
+00:12:51,200 --> 00:12:54,680
+gleich N0 mal 0,212. Wir teilen jetzt
+
+317
+00:12:54,680 --> 00:12:56,680
+nur noch durch 0,212 und dann steht
+
+318
+00:12:56,680 --> 00:13:01,680
+da N0 ist gleich 4710,33. Das heißt,
+
+319
+00:13:01,760 --> 00:13:04,260
+unsere Antwort ist, zu Beginn der
+
+320
+00:13:04,260 --> 00:13:08,180
+Messung waren 4,7103 kg des Materials
+
+321
+00:13:08,180 --> 00:13:10,300
+vorhanden. Damit ist die Aufgabe auch
+
+322
+00:13:10,300 --> 00:13:14,610
+schon gelöst. Kommen wir nun zum
+
+323
+00:13:14,610 --> 00:13:17,050
+begrenzten Wachstum bzw. begrenzte
+
+324
+00:13:17,050 --> 00:13:19,250
+Abnahme. Der Ansatz dafür ist N von T
+
+325
+00:13:19,250 --> 00:13:22,050
+ist gleich E plus oder minus. Ob wir
+
+326
+00:13:22,050 --> 00:13:23,050
+ein Plus oder Minus haben,
+
+327
+00:13:23,150 --> 00:13:24,550
+entscheidet sich danach, ob wir eine
+
+328
+00:13:24,550 --> 00:13:28,290
+begrenzte Abnahme oder eine begrenzte
+
+329
+00:13:28,290 --> 00:13:32,270
+Zunahme haben. Wir haben ein Plus bei
+
+330
+00:13:32,270 --> 00:13:34,570
+einer begrenzten Abnahme und ein
+
+331
+00:13:34,570 --> 00:13:36,430
+Minus bei einem begrenzten Wachstum.
+
+332
+00:13:36,750 --> 00:13:39,570
+Also E plus minus A mal E hoch minus
+
+333
+00:13:39,570 --> 00:13:42,390
+KT. Wichtig zu wissen dabei ist, E
+
+334
+00:13:42,390 --> 00:13:44,890
+ist die obere bzw. die untere Grenze,
+
+335
+00:13:44,890 --> 00:13:47,450
+je nachdem was man hat. Und E plus
+
+336
+00:13:47,450 --> 00:13:52,090
+bzw. minus A ist der Startwert. Das
+
+337
+00:13:52,090 --> 00:13:54,230
+ist ganz wichtig, denn das brauchen
+
+338
+00:13:54,230 --> 00:13:55,510
+wir jetzt auch für unsere Aufgabe.
+
+339
+00:13:55,750 --> 00:13:58,390
+Und zwar, ein warmes Getränk kühlt in
+
+340
+00:13:58,390 --> 00:13:59,430
+einem Gefäß ab. Die
+
+341
+00:13:59,430 --> 00:14:01,590
+Umgebungstemperatur beträgt 21 Grad
+
+342
+00:14:01,590 --> 00:14:04,010
+Celsius. Das Getränk ist am Anfang 60
+
+343
+00:14:04,010 --> 00:14:06,570
+Grad Celsius warm. Nach 5 Minuten
+
+344
+00:14:06,570 --> 00:14:08,710
+beträgt die Temperatur nur noch 55
+
+345
+00:14:08,710 --> 00:14:13,570
+Grad Celsius. Als erstes nehmen wir
+
+346
+00:14:13,570 --> 00:14:15,090
+am besten immer die Randbedingungen.
+
+347
+00:14:15,170 --> 00:14:16,750
+Das heißt, Umgebungstemperatur 21
+
+348
+00:14:16,750 --> 00:14:19,090
+Grad und Anfangstemperatur 60 Grad.
+
+349
+00:14:19,250 --> 00:14:21,510
+Das Getränk kann natürlich nur bis
+
+350
+00:14:21,510 --> 00:14:23,290
+zur Umgebungstemperatur abkühlen, das
+
+351
+00:14:23,290 --> 00:14:26,070
+heißt 21 Grad. Das ist unsere
+
+352
+00:14:26,070 --> 00:14:29,450
+Endtemperatur und damit unser E. E
+
+353
+00:14:29,450 --> 00:14:33,390
+ist gleich 21 Grad. Und wir wissen,
+
+354
+00:14:33,470 --> 00:14:36,210
+am Anfang ist das Getränk 60 Grad
+
+355
+00:14:36,210 --> 00:14:40,330
+warm. Das heißt E plus A ist gleich
+
+356
+00:14:40,330 --> 00:14:42,990
+60. E kennen wir ja schon und so
+
+357
+00:14:42,990 --> 00:14:43,790
+kommen wir auf diese kleine
+
+358
+00:14:43,790 --> 00:14:46,670
+Gleichung. 21 plus A ist gleich 60
+
+359
+00:14:46,670 --> 00:14:48,230
+und dann wissen wir A ist gleich 20.
+
+360
+00:14:48,250 --> 00:14:51,310
+39. Damit haben wir gleich zwei
+
+361
+00:14:51,310 --> 00:14:53,390
+unserer drei Variablen bestimmt.
+
+362
+00:14:54,130 --> 00:14:56,490
+Unser E und unser A. Was noch fehlt
+
+363
+00:14:56,490 --> 00:14:58,830
+ist unser K. Dieses können wir über
+
+364
+00:14:58,830 --> 00:15:00,530
+die letzte Bedingung bestimmen. Wir
+
+365
+00:15:00,530 --> 00:15:01,890
+wissen nämlich, nach fünf Minuten
+
+366
+00:15:01,890 --> 00:15:03,970
+beträgt die Temperatur nur noch 55
+
+367
+00:15:03,970 --> 00:15:06,590
+Grad Celsius. Und das machen wir
+
+368
+00:15:06,590 --> 00:15:08,290
+jetzt auch. Also das ist aktuell
+
+369
+00:15:08,290 --> 00:15:11,530
+unser Ansatz. Und jetzt nutzen wir
+
+370
+00:15:11,530 --> 00:15:13,210
+die dritte bedingungen und dort
+
+371
+00:15:13,210 --> 00:15:17,370
+kommen wir über eine gleichung können
+
+372
+00:15:17,370 --> 00:15:19,970
+wir sie nicht umgehen deswegen 55 ist
+
+373
+00:15:19,970 --> 00:15:23,090
+gleich 21 plus 39 mal e hoch minus k
+
+374
+00:15:23,090 --> 00:15:27,630
+mal 5 also die 55 für 55 grad und die
+
+375
+00:15:27,630 --> 00:15:31,150
+54 weil temperatur nach fünf minuten
+
+376
+00:15:31,150 --> 00:15:33,550
+bei 55 grad liegt und das stellen wir
+
+377
+00:15:33,550 --> 00:15:35,450
+jetzt um bitte passt auf hier ist
+
+378
+00:15:35,450 --> 00:15:36,950
+liegt eine eine Addition vor. Das
+
+379
+00:15:36,950 --> 00:15:38,570
+heißt, wenn ihr die 21 hier weg haben
+
+380
+00:15:38,570 --> 00:15:42,070
+wollt, rechnet ihr minus 21. 55 minus
+
+381
+00:15:42,070 --> 00:15:45,330
+21 sind 34. Dann steht da 34 ist
+
+382
+00:15:45,330 --> 00:15:48,170
+gleich 39 mal e hoch minus k mal 5.
+
+383
+00:15:49,290 --> 00:15:51,170
+Als nächstes versuchen wir die Potenz
+
+384
+00:15:51,170 --> 00:15:52,270
+wieder zu isolieren. Das heißt, wir
+
+385
+00:15:52,270 --> 00:15:55,330
+teilen durch 39. Dann erhalten wir 34
+
+386
+00:15:55,330 --> 00:15:58,170
+durch 39 ist gleich e hoch minus k
+
+387
+00:15:58,170 --> 00:16:00,110
+mal 5. Das
+
+388
+00:16:04,430 --> 00:16:05,690
+geht jetzt wieder den Logarithmus an.
+
+389
+00:16:07,810 --> 00:16:10,150
+Dann erhalten wir den Logarithmus von
+
+390
+00:16:10,150 --> 00:16:14,350
+34,39 ist gleich minus k mal 5.
+
+391
+00:16:14,590 --> 00:16:16,710
+Deswegen teilen wir durch minus 5 und
+
+392
+00:16:16,710 --> 00:16:20,130
+kommen so auf ein k von 0,027.
+
+393
+00:16:23,960 --> 00:16:25,320
+Damit haben wir unsere
+
+394
+00:16:25,320 --> 00:16:26,460
+Funktionsgleichung auch schon
+
+395
+00:16:26,460 --> 00:16:29,220
+bestimmt. Die Temperatur in
+
+396
+00:16:29,220 --> 00:16:31,100
+Abhängigkeit der Seite t ist gleich
+
+397
+00:16:31,100 --> 00:16:36,580
+21 plus 39 mal e hoch minus 0,027 T.
+
+398
+00:16:37,560 --> 00:16:39,700
+Die nächste Frage ist, wann ist das
+
+399
+00:16:39,700 --> 00:16:42,160
+Getränk nur noch 20% wärmer als die
+
+400
+00:16:42,160 --> 00:16:44,940
+Umgebungstemperatur? Als erstes
+
+401
+00:16:44,940 --> 00:16:45,940
+müssen wir natürlich die gesuchte
+
+402
+00:16:45,940 --> 00:16:48,400
+Temperatur bestimmen. 20% wärmer als
+
+403
+00:16:48,400 --> 00:16:51,640
+die Umgebungstemperatur heißt 21 mal
+
+404
+00:16:51,640 --> 00:16:57,180
+1,2, also 25,2 Grad. Als nächstes
+
+405
+00:16:57,180 --> 00:16:58,860
+setzen wir unsere Funktionsgleichung
+
+406
+00:16:58,860 --> 00:17:01,480
+mit der Temperatur gleich. Also 25,2
+
+407
+00:17:01,480 --> 00:17:05,040
+ist gleich 21 plus 39 mal e hoch
+
+408
+00:17:05,040 --> 00:17:10,060
+minus 0,027t. Der Zeitpunkt t ist
+
+409
+00:17:10,060 --> 00:17:11,140
+natürlich gesucht und daher
+
+410
+00:17:11,140 --> 00:17:13,600
+unbekannt. Folglich versuchen wir die
+
+411
+00:17:13,600 --> 00:17:15,680
+Gleichung nach t umzustellen. Wir
+
+412
+00:17:15,680 --> 00:17:17,700
+fangen an die 21 wieder rüber zu
+
+413
+00:17:17,700 --> 00:17:20,040
+ziehen mit einem Minus. Kommen so auf
+
+414
+00:17:20,040 --> 00:17:23,840
+4,2 ist gleich 39 mal e hoch minus 0
+
+415
+00:17:23,840 --> 00:17:27,620
+,027t. Als nächstes teilen wir wieder
+
+416
+00:17:27,620 --> 00:17:29,340
+durch 39 um unsere Potenzial. zu
+
+417
+00:17:29,340 --> 00:17:31,760
+isolieren. Dann kommen wir auf 4,29
+
+418
+00:17:31,760 --> 00:17:35,740
+ist gleich e hoch minus 0,027t.
+
+419
+00:17:36,580 --> 00:17:40,580
+Nächstes wieder, unsere Variable ist
+
+420
+00:17:40,580 --> 00:17:42,540
+mal wieder im Exponenten, folglich
+
+421
+00:17:42,540 --> 00:17:43,740
+brauchen wir wieder den Logarithmus.
+
+422
+00:17:44,080 --> 00:17:45,280
+Hier haben wir eine e-Funktion,
+
+423
+00:17:45,360 --> 00:17:46,560
+deswegen nehmen wir wieder den
+
+424
+00:17:46,560 --> 00:17:49,000
+Logarithmus Naturales und dann steht
+
+425
+00:17:49,000 --> 00:17:51,920
+da der ln von 4,2 durch 39 ist gleich
+
+426
+00:17:51,920 --> 00:17:56,400
+minus 0,027 mal t. Wir teilen es nur
+
+427
+00:17:56,400 --> 00:17:58,860
+noch durch durch minus 0,027 und dann
+
+428
+00:17:58,860 --> 00:18:01,600
+erhalten wir T ist gleich 8,25. Das
+
+429
+00:18:01,600 --> 00:18:04,040
+heißt, wir können sagen, nach 8,25
+
+430
+00:18:04,040 --> 00:18:06,480
+Minuten bzw. 8 Minuten und 15
+
+431
+00:18:06,480 --> 00:18:09,380
+Sekunden liegt die Temperatur nur
+
+432
+00:18:09,380 --> 00:18:10,900
+noch 20% über der
+
+433
+00:18:10,900 --> 00:18:11,800
+Umgebungstemperatur.
+
+434
+00:18:14,510 --> 00:18:16,440
+Und damit wären wir auch schon bei
+
+435
+00:18:16,440 --> 00:18:18,180
+unserer letzten Wachstumsart, das ist
+
+436
+00:18:18,180 --> 00:18:22,100
+das logistische Wachstum. Das
+
+437
+00:18:22,100 --> 00:18:23,640
+logistische Wachstum wird immer dann
+
+438
+00:18:23,640 --> 00:18:25,320
+angewendet, wenn ein Wachstum
+
+439
+00:18:25,320 --> 00:18:27,180
+exponentiell beginnt und begrenzt
+
+440
+00:18:27,180 --> 00:18:31,080
+aufhört. Dieses beschreibt daher,
+
+441
+00:18:31,300 --> 00:18:34,660
+dieses beschreibt der Wachstumsfaktor
+
+442
+00:18:34,660 --> 00:18:36,480
+nicht nur konstant, welche Form von
+
+443
+00:18:36,480 --> 00:18:38,260
+Abnahme und Zunahme vorliegt, sondern
+
+444
+00:18:38,260 --> 00:18:39,920
+verändert sich mit steigenden Werten
+
+445
+00:18:39,920 --> 00:18:42,440
+von n. Das heißt, unser
+
+446
+00:18:42,440 --> 00:18:44,360
+Wachstumsfaktor, das sehen wir hier,
+
+447
+00:18:44,460 --> 00:18:46,660
+n' von t ist nicht konstant, sondern
+
+448
+00:18:46,660 --> 00:18:50,460
+k-dn mal n und das ist der große
+
+449
+00:18:50,460 --> 00:18:51,840
+Unterschied zwischen dem normalen
+
+450
+00:18:51,840 --> 00:18:53,960
+Wachstum, was wir vorhin hatten. Und
+
+451
+00:18:53,960 --> 00:18:55,640
+deswegen haben wir jetzt auch eine
+
+452
+00:18:55,640 --> 00:18:57,900
+Wachstumsfunktion, die etwas
+
+453
+00:18:57,900 --> 00:19:00,620
+komplexer ist. N von T ist gleich N0
+
+454
+00:19:00,620 --> 00:19:04,120
+mal E hoch KT durch 1 minus D durch K
+
+455
+00:19:04,120 --> 00:19:09,760
+mal N0 mal E hoch KT minus 1. Wichtig
+
+456
+00:19:09,760 --> 00:19:13,140
+dabei ist, K ist weiterhin unser
+
+457
+00:19:13,140 --> 00:19:16,160
+Wachstumskoeffizient und D ist unser
+
+458
+00:19:16,160 --> 00:19:18,900
+Depressionskoeffizient. Der
+
+459
+00:19:18,900 --> 00:19:22,280
+Endbestand, der sich einstellt, ist D
+
+460
+00:19:22,280 --> 00:19:24,100
+durch K. Das ist ein ganz wichtiger
+
+461
+00:19:24,100 --> 00:19:26,180
+Zusammenhang, den wir brauchen, um
+
+462
+00:19:26,180 --> 00:19:27,380
+die Funktionsgleichung aufzunehmen.
+
+463
+00:19:28,120 --> 00:19:30,560
+Denn wir haben natürlich ein kleines
+
+464
+00:19:30,560 --> 00:19:30,980
+Beispiel.
+
+465
+00:19:56,400 --> 00:19:57,820
+Schüler streut das Gerücht, dieser
+
+466
+00:19:57,820 --> 00:20:02,200
+Schüler ist 0,001 der Schülerschaft,
+
+467
+00:20:02,240 --> 00:20:06,180
+also 0,1% der Schülerschaft. Und die
+
+468
+00:20:06,180 --> 00:20:08,560
+7 Schüler, die um 8 Uhr,
+
+469
+00:20:08,660 --> 00:20:09,700
+Entschuldigung, die eine Stunde
+
+470
+00:20:09,700 --> 00:20:11,460
+später Bescheid wissen, sind
+
+471
+00:20:11,460 --> 00:20:14,880
+dementsprechend 0,007, also 0,7%.
+
+472
+00:20:14,880 --> 00:20:17,680
+Daraus folgt natürlich auch, dass
+
+473
+00:20:17,680 --> 00:20:19,340
+wenn alle Schüler Bescheid wissen,
+
+474
+00:20:19,480 --> 00:20:23,000
+dass 1 ist, deswegen gilt D durch K
+
+475
+00:20:23,000 --> 00:20:26,080
+ist gleich 1. Das ist ganz wichtig
+
+476
+00:20:26,080 --> 00:20:30,660
+für unseren Ansatz, denn der sieht so
+
+477
+00:20:30,660 --> 00:20:35,280
+aus. 0,001 mal e hoch kt durch 1
+
+478
+00:20:35,280 --> 00:20:38,820
+minus 0,001 mal e hoch kt minus 1.
+
+479
+00:20:39,060 --> 00:20:42,740
+Das hier ist einfach der Anfangswert,
+
+480
+00:20:42,780 --> 00:20:45,320
+ein Schüler um 8 Uhr. Das hier ist
+
+481
+00:20:45,320 --> 00:20:50,380
+unser Endwert und damit fangen wir
+
+482
+00:20:50,380 --> 00:20:53,500
+dann schon an. Wichtig ist, wir
+
+483
+00:20:53,500 --> 00:20:58,280
+müssen das k bestimmen. Deswegen
+
+484
+00:20:58,280 --> 00:20:59,240
+kennen
+
+485
+00:21:04,640 --> 00:21:07,460
+bis zu sieben Schüler Bescheid. 0,007
+
+486
+00:21:07,460 --> 00:21:10,800
+ist gleich 0,001 mal e hoch k durch 1
+
+487
+00:21:10,800 --> 00:21:17,540
+plus 0,001 mal e hoch k minus 1. Als
+
+488
+00:21:17,540 --> 00:21:19,220
+erstes multiplizieren wir jetzt mit
+
+489
+00:21:19,220 --> 00:21:21,040
+dem kompletten Nenner, damit die e
+
+490
+00:21:21,040 --> 00:21:22,280
+-Funktion auf die andere Seite kommt
+
+491
+00:21:22,280 --> 00:21:25,700
+und aus dem Nenner rauskommt. kommen
+
+492
+00:21:25,700 --> 00:21:31,560
+so auf 0,007 mal Klammer auf 1 plus 0
+
+493
+00:21:31,560 --> 00:21:35,140
+,001 mal Klammer auf e hoch k minus 1
+
+494
+00:21:35,140 --> 00:21:38,640
+Klammer zu Klammer zu. Das ist gleich
+
+495
+00:21:38,640 --> 00:21:44,620
+0,001 mal e hoch k und als nächstes
+
+496
+00:21:44,620 --> 00:21:45,840
+lösen wir diese beiden Klammern hier
+
+497
+00:21:45,840 --> 00:21:50,420
+auf. Das heißt, wir multiplizieren
+
+498
+00:21:50,420 --> 00:21:53,680
+gleich beide aus, also 0,007 0,007
+
+499
+00:21:53,680 --> 00:21:56,860
+mal 1, das ist hier die 0,007. Dann
+
+500
+00:21:56,860 --> 00:22:01,240
+geht es weiter mit 0,007 mal 0,001
+
+501
+00:22:01,240 --> 00:22:04,000
+mal e hoch k, das sind dann 7 mal 10
+
+502
+00:22:04,000 --> 00:22:09,580
+hoch minus 6 e hoch k. Dann 0,007 mal
+
+503
+00:22:09,580 --> 00:22:12,980
+0,001 mal minus 1, das sind minus 7
+
+504
+00:22:12,980 --> 00:22:16,300
+mal 10 hoch minus 6. Das ist gleich 0
+
+505
+00:22:16,300 --> 00:22:19,380
+,001 mal e hoch k. Wir
+
+506
+00:22:21,780 --> 00:22:26,980
+versuchen jetzt weiterhin unser E zu
+
+507
+00:22:26,980 --> 00:22:28,720
+isolieren bzw. unser E hoch K zu
+
+508
+00:22:28,720 --> 00:22:30,800
+isolieren. Das wollen wir jetzt auf
+
+509
+00:22:30,800 --> 00:22:32,940
+der rechten Seite zusammenfassen und
+
+510
+00:22:32,940 --> 00:22:35,240
+deswegen ziehen wir das erstmal
+
+511
+00:22:35,240 --> 00:22:36,100
+rüber.
+
+512
+00:22:38,940 --> 00:22:41,020
+Also rechnen wir minus 7 mal 10 hoch
+
+513
+00:22:41,020 --> 00:22:43,560
+minus 6 E hoch K, damit der Teil auf
+
+514
+00:22:43,560 --> 00:22:45,780
+der anderen Seite erscheint. Wir
+
+515
+00:22:45,780 --> 00:22:50,740
+erhalten so 0,007-7-10-6 ist gleich 0
+
+516
+00:22:50,740 --> 00:22:57,900
+,001-7-10-6 zu mal e hoch k. Also wir
+
+517
+00:22:57,900 --> 00:22:58,920
+haben das gleich schon
+
+518
+00:22:58,920 --> 00:23:03,320
+zusammengefasst und haben so nur noch
+
+519
+00:23:03,320 --> 00:23:06,760
+einmal e hoch k da stehen. Und das
+
+520
+00:23:06,760 --> 00:23:08,180
+einzige was wir jetzt noch tun müssen
+
+521
+00:23:08,180 --> 00:23:10,260
+um unser e hoch k zu isolieren ist
+
+522
+00:23:10,260 --> 00:23:12,000
+durch die Klammer hier wieder teilen.
+
+523
+00:23:13,620 --> 00:23:17,060
+Teilen wir durch 0,001 minus 7 mal 10
+
+524
+00:23:17,060 --> 00:23:19,600
+hoch minus 6, dann erhalten wir
+
+525
+00:23:19,600 --> 00:23:21,440
+diesen schönen Bruch und sehen, unser
+
+526
+00:23:21,440 --> 00:23:24,440
+e hoch k steht alleine. Und jetzt
+
+527
+00:23:24,440 --> 00:23:26,980
+kommt eine altbekannte Rechentechnik.
+
+528
+00:23:27,240 --> 00:23:29,580
+Wir wenden den Logarithmus an, damit
+
+529
+00:23:29,580 --> 00:23:33,300
+wir das k aus unserem Exponenten
+
+530
+00:23:33,300 --> 00:23:34,840
+rauskriegen. Also wir bilden jetzt
+
+531
+00:23:34,840 --> 00:23:38,080
+den Logarithmus von 0,007 minus 7 mal
+
+532
+00:23:38,080 --> 00:23:42,460
+10 hoch minus 6 durch 0,001 minus 7.
+
+533
+00:23:42,620 --> 00:23:46,320
+mal 10 hoch minus 6. Und das ist dann
+
+534
+00:23:46,320 --> 00:23:48,300
+gleich unser k und wenn wir diesen
+
+535
+00:23:48,300 --> 00:23:49,820
+Term hier im Taschenrechner eingeben,
+
+536
+00:23:49,840 --> 00:23:52,680
+den Logarithmus, erhalten wir 1,952.
+
+537
+00:23:53,900 --> 00:23:55,780
+Folglich lautet unsere
+
+538
+00:23:55,780 --> 00:23:59,460
+Wachstumsfunktion n von t 0,001 mal e
+
+539
+00:23:59,460 --> 00:24:05,600
+hoch 1,952t durch 1 minus 0,001 mal E
+
+540
+00:24:05,600 --> 00:24:12,220
+hoch 1,952t minus 1. die Aufgabe dann
+
+541
+00:24:12,220 --> 00:24:16,120
+auch schon gelöst. Ich bedanke mich
+
+542
+00:24:16,120 --> 00:24:17,220
+für eure Aufmerksamkeit.
+

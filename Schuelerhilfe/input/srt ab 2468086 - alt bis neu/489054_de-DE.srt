@@ -1,0 +1,696 @@
+1
+00:00:00,460 --> 00:00:02,140
+Hallo und herzlich willkommen zu den
+
+2
+00:00:02,140 --> 00:00:04,060
+Lernvideos der Schülerhilfe. In
+
+3
+00:00:04,060 --> 00:00:05,380
+diesem Video geht es um das Thema
+
+4
+00:00:05,380 --> 00:00:07,620
+Einrückmethode. Diese ist vor allen
+
+5
+00:00:07,620 --> 00:00:09,560
+Dingen beim Übersetzen längerer Texte
+
+6
+00:00:09,560 --> 00:00:11,540
+hilfreich. Bei dieser Methode
+
+7
+00:00:11,540 --> 00:00:13,860
+schreibt man Haupt- und Nebensätze
+
+8
+00:00:13,860 --> 00:00:16,660
+untereinander. Und zwar, wenn man
+
+9
+00:00:16,660 --> 00:00:18,380
+Satzperioden hat, die mehrere
+
+10
+00:00:18,380 --> 00:00:20,540
+ineinander verschachtelte Teilsätze
+
+11
+00:00:20,540 --> 00:00:21,980
+haben, die man nicht so gut
+
+12
+00:00:21,980 --> 00:00:23,840
+überblicken kann. Mit Hilfe der
+
+13
+00:00:23,840 --> 00:00:25,440
+Einrückmethode kann man dann die
+
+14
+00:00:25,440 --> 00:00:28,320
+Abfolge dieser Teilsätze grafisch
+
+15
+00:00:28,320 --> 00:00:30,960
+darstellen. Man rückt dabei die
+
+16
+00:00:30,960 --> 00:00:32,800
+Nebensätze nach dem Grad ihrer
+
+17
+00:00:32,800 --> 00:00:36,280
+Abhängigkeit ein. Ein Hauptsatz kann
+
+18
+00:00:36,280 --> 00:00:38,200
+immer für sich alleine stehen, ein
+
+19
+00:00:38,200 --> 00:00:39,880
+Nebensatz hängt ja immer von einem
+
+20
+00:00:39,880 --> 00:00:42,400
+Hauptsatz ab. Wenn wir jetzt einen
+
+21
+00:00:42,400 --> 00:00:44,260
+Hauptsatz haben, von dem mehrere
+
+22
+00:00:44,260 --> 00:00:46,920
+Nebensätze abhängen, dann ist der
+
+23
+00:00:46,920 --> 00:00:48,360
+erste Nebensatz, der von diesem
+
+24
+00:00:48,360 --> 00:00:50,800
+Hauptsatz abhängt, ein Nebensatz
+
+25
+00:00:50,800 --> 00:00:53,240
+ersten Grad. Wenn jetzt von diesem
+
+26
+00:00:53,240 --> 00:00:55,360
+Nebensatz ersten Grades noch weitere
+
+27
+00:00:55,360 --> 00:00:57,780
+Nebensätze wiederum abhängen, dann
+
+28
+00:00:57,780 --> 00:00:59,780
+sind die zweiten Grades, dritten
+
+29
+00:00:59,780 --> 00:01:02,160
+Grades und so weiter. Schauen wir uns
+
+30
+00:01:02,160 --> 00:01:04,360
+nun als nächstes die Einrückmethode
+
+31
+00:01:04,360 --> 00:01:06,660
+an einem Beispiel an. Hier haben wir
+
+32
+00:01:06,660 --> 00:01:10,020
+ein Beispiel von Cäsar aus De Bello
+
+33
+00:01:10,020 --> 00:01:10,420
+Gallico.
+
+34
+00:01:21,080 --> 00:01:23,440
+Ergerime confekerant, ut flumen
+
+35
+00:01:23,440 --> 00:01:27,160
+transirent, caesarem uno die fecisse
+
+36
+00:01:27,160 --> 00:01:30,820
+intelegrent, legatus ad eum mitunt.
+
+37
+00:01:32,000 --> 00:01:34,840
+Wenn wir jetzt diesen Text übersetzen
+
+38
+00:01:34,840 --> 00:01:36,300
+wollen, dann sehen wir schon, dass da
+
+39
+00:01:36,300 --> 00:01:38,680
+mehrere Teilsätze erhalten sind, die
+
+40
+00:01:38,680 --> 00:01:41,020
+ineinander verschachtelt sind. Die
+
+41
+00:01:41,020 --> 00:01:44,640
+erste Aufgabe ist es nun, den Text
+
+42
+00:01:44,640 --> 00:01:46,560
+untereinander zu schreiben. Dabei
+
+43
+00:01:46,560 --> 00:01:48,180
+orientieren wir uns an der deutschen
+
+44
+00:01:48,180 --> 00:01:53,040
+Kommasetzung. und teilen jedem Satz,
+
+45
+00:01:53,040 --> 00:01:55,640
+der vor einem Komma steht, eine
+
+46
+00:01:55,640 --> 00:01:58,760
+eigene Zeile zu. Diese verschiedenen
+
+47
+00:01:58,760 --> 00:02:02,280
+Teilstücke fangen dann oftmals schon
+
+48
+00:02:02,280 --> 00:02:05,280
+durch Einleitungswörter an, die uns
+
+49
+00:02:05,280 --> 00:02:07,400
+anzeigen, dass ein Nebensatz folgt.
+
+50
+00:02:07,810 --> 00:02:13,000
+Cum, quod, ut. Im nächsten Schritt
+
+51
+00:02:13,000 --> 00:02:17,140
+rücken wir dann den ersten Nebensatz
+
+52
+00:02:17,140 --> 00:02:19,900
+eins nach rechts. da der Hauptsatz
+
+53
+00:02:19,900 --> 00:02:22,080
+immer ganz links stehen bleibt. Hier
+
+54
+00:02:22,080 --> 00:02:23,640
+haben wir jetzt den Satz, der mit Cum
+
+55
+00:02:23,640 --> 00:02:26,060
+beginnt und rücken den 1 nach rechts
+
+56
+00:02:26,060 --> 00:02:28,280
+ein. Wichtig ist, dass hier schon
+
+57
+00:02:28,280 --> 00:02:30,620
+auffällt, der Nebensatz ist nicht
+
+58
+00:02:30,620 --> 00:02:32,600
+vollständig, denn es fehlt ein
+
+59
+00:02:32,600 --> 00:02:35,920
+Prädikat. Den nächsten Nebensatz, den
+
+60
+00:02:35,920 --> 00:02:37,620
+wir dann haben, ist der Satz, der mit
+
+61
+00:02:37,620 --> 00:02:40,280
+der Einleitung Quod beginnt. Hinten
+
+62
+00:02:40,280 --> 00:02:42,820
+ist ein Prädikat vorhanden, also ist
+
+63
+00:02:42,820 --> 00:02:46,100
+dieser Nebensatz vollständig. Dann
+
+64
+00:02:46,100 --> 00:02:48,320
+noch ein zweiter, rücken wir den Ut
+
+65
+00:02:48,320 --> 00:02:50,280
+-Satz ein, der hat auch wieder ein
+
+66
+00:02:50,280 --> 00:02:52,620
+Prädikat und ist somit vollständig.
+
+67
+00:02:54,570 --> 00:02:58,290
+Im nächsten Teilstück fällt dann auf,
+
+68
+00:02:58,410 --> 00:03:00,890
+dass hinten ein Prädikat vorhanden
+
+69
+00:03:00,890 --> 00:03:03,450
+ist und hier wissen wir dann, aha,
+
+70
+00:03:03,590 --> 00:03:05,750
+oben beim Cum, da fehlte noch ein
+
+71
+00:03:05,750 --> 00:03:07,850
+Prädikat. Dieses haben wir dann jetzt
+
+72
+00:03:07,850 --> 00:03:10,890
+hier bei Intelligerent gefunden. Das
+
+73
+00:03:10,890 --> 00:03:13,010
+bedeutet, dass wir dann Kaisarim auf
+
+74
+00:03:13,010 --> 00:03:15,150
+die gleiche Stufe einrücken wie Kum.
+
+75
+00:03:16,150 --> 00:03:19,370
+Unten der Rest Legatus ad eum mitund,
+
+76
+00:03:19,570 --> 00:03:22,390
+das ist noch Teil des Hauptsatzes und
+
+77
+00:03:22,390 --> 00:03:24,370
+bleibt deshalb ganz links weiterhin
+
+78
+00:03:24,370 --> 00:03:28,480
+stehen. Wir können das Ganze auch
+
+79
+00:03:28,480 --> 00:03:29,980
+noch besser veranschaulichen, indem
+
+80
+00:03:29,980 --> 00:03:31,420
+wir so gestrichelte Linien dadurch
+
+81
+00:03:31,420 --> 00:03:34,340
+ziehen. Ganz links hier steht der
+
+82
+00:03:34,340 --> 00:03:38,060
+Hauptsatz, davon der Kumsatz, der
+
+83
+00:03:38,060 --> 00:03:40,960
+hier unten weitergeht. Das ist dann
+
+84
+00:03:40,960 --> 00:03:44,920
+der der Nebensatz ersten Grades, dann
+
+85
+00:03:44,920 --> 00:03:46,980
+kommt der Quadsatz, das ist der
+
+86
+00:03:46,980 --> 00:03:50,340
+Nebensatz zweiten Grades und dann der
+
+87
+00:03:50,340 --> 00:03:52,520
+Utzsatz, der Nebensatz dritten
+
+88
+00:03:52,520 --> 00:03:56,220
+Grades. Der Nebensatz ersten Grades
+
+89
+00:03:56,220 --> 00:03:58,620
+hängt jetzt vom Hauptsatz ab, der
+
+90
+00:03:58,620 --> 00:04:00,680
+zweiten Grades wieder vom ersten Grad
+
+91
+00:04:00,680 --> 00:04:04,380
+und der dritte vom zweiten. Dies ist
+
+92
+00:04:04,380 --> 00:04:06,220
+hilfreich bei der Übersetzung, weil
+
+93
+00:04:06,220 --> 00:04:07,920
+wir bei der Übersetzung dann erst mit
+
+94
+00:04:07,920 --> 00:04:11,540
+dem Hauptsatz starten. Wir haben hier
+
+95
+00:04:11,540 --> 00:04:14,220
+dann den vollständigen Hauptsatz und
+
+96
+00:04:14,220 --> 00:04:15,900
+den können wir uns dann übersetzen.
+
+97
+00:04:16,520 --> 00:04:19,180
+Hier hinten als Prädikat haben wir
+
+98
+00:04:19,180 --> 00:04:22,160
+mit und. Es ist immer am einfachsten
+
+99
+00:04:22,160 --> 00:04:24,040
+zuerst die Prädikate zu übersetzen.
+
+100
+00:04:24,940 --> 00:04:26,920
+Hier fällt auch noch auf, dass wir
+
+101
+00:04:26,920 --> 00:04:28,900
+hier noch eine nicht finite Verbform
+
+102
+00:04:28,900 --> 00:04:31,700
+haben, komoti. Diese zeigt uns an,
+
+103
+00:04:31,760 --> 00:04:33,640
+dass hier ein Partikipium Konjunktum
+
+104
+00:04:33,640 --> 00:04:35,440
+vorliegt und dann suchen wir das
+
+105
+00:04:35,440 --> 00:04:37,740
+Bezugswort dazu. Das ist in diesem
+
+106
+00:04:37,740 --> 00:04:42,060
+Fall Helvetia. Das Patikipium
+
+107
+00:04:42,060 --> 00:04:43,800
+Konjunktum ist in diesem Fall als
+
+108
+00:04:43,800 --> 00:04:46,300
+Beiordnung übersetzt. Die Übersetzung
+
+109
+00:04:46,300 --> 00:04:48,300
+von dem Hauptsatz lautet dann, die
+
+110
+00:04:48,300 --> 00:04:49,680
+Helvetier waren durch seine
+
+111
+00:04:49,680 --> 00:04:52,520
+plötzliche Ankunft sehr bewegt und
+
+112
+00:04:52,520 --> 00:04:54,860
+sie schickten deshalb darauf Gesandte
+
+113
+00:04:54,860 --> 00:04:57,100
+zu ihm. Dass sie als Beiordnung
+
+114
+00:04:57,100 --> 00:04:59,080
+übersetzt, das bedeutet ein weiterer
+
+115
+00:04:59,080 --> 00:05:01,840
+Hauptsatz, der mit und deshalb oder
+
+116
+00:05:01,840 --> 00:05:04,780
+und darauf angeschlossen wird. Je
+
+117
+00:05:04,780 --> 00:05:06,640
+nachdem, welche Sinnrichtung man der
+
+118
+00:05:06,640 --> 00:05:09,280
+Übersetzung geben will. Deshalb ist
+
+119
+00:05:09,280 --> 00:05:11,620
+ein kausale Sinnrichtung und darauf
+
+120
+00:05:11,620 --> 00:05:15,860
+temporal. Als nächstes schauen wir
+
+121
+00:05:15,860 --> 00:05:18,920
+uns dann hier den Nebensatz ersten
+
+122
+00:05:18,920 --> 00:05:21,840
+Grades an und übersetzen den. Wir
+
+123
+00:05:21,840 --> 00:05:24,740
+starten hier weil oder als, je
+
+124
+00:05:24,740 --> 00:05:26,120
+nachdem wieder, was man hier für eine
+
+125
+00:05:26,120 --> 00:05:28,620
+Sinnrichtung einschlagen möchte. Weil
+
+126
+00:05:28,620 --> 00:05:31,900
+sie erkannten, dass Cäsar das an
+
+127
+00:05:31,900 --> 00:05:33,740
+einem einzigen Tag gemacht hatte.
+
+128
+00:05:34,280 --> 00:05:36,980
+Wieder wichtig, erst die Prädikat.
+
+129
+00:05:37,180 --> 00:05:39,180
+übersetzen und dann den Rest des
+
+130
+00:05:39,180 --> 00:05:43,340
+Satzes mit Sinn füllen. Dann schauen
+
+131
+00:05:43,340 --> 00:05:45,620
+wir uns den Nebensatz zweiten Grades
+
+132
+00:05:45,620 --> 00:05:49,120
+an, der hier mit Quad beginnt, was
+
+133
+00:05:50,650 --> 00:05:53,930
+sie selbst in 20 Tagen mit äußerster
+
+134
+00:05:53,930 --> 00:05:56,990
+Mühe vollbracht hatten. Wichtig ist
+
+135
+00:05:56,990 --> 00:05:59,050
+hier, dass das Quad kein faktisches
+
+136
+00:05:59,050 --> 00:06:01,110
+Quad ist, sondern die Funktion eines
+
+137
+00:06:01,110 --> 00:06:03,730
+Relativspronomen hat, was sich auf
+
+138
+00:06:03,730 --> 00:06:06,270
+das It oben bezieht und deshalb
+
+139
+00:06:06,270 --> 00:06:08,090
+übersetzen wir das Ganze hier mit
+
+140
+00:06:08,090 --> 00:06:08,330
+Bas.
+
+141
+00:06:11,520 --> 00:06:13,080
+Im nächsten Schritt haben wir dann
+
+142
+00:06:13,080 --> 00:06:14,580
+noch den Nebensatz dritten Grades,
+
+143
+00:06:14,700 --> 00:06:18,640
+den Ut flumentransierend. Dann
+
+144
+00:06:18,640 --> 00:06:21,640
+übersetzen wir das mit nämlich den
+
+145
+00:06:21,640 --> 00:06:25,780
+Fluss zu überqueren. Hier wurde das
+
+146
+00:06:25,780 --> 00:06:29,220
+Ut mit nämlich und einem Infinitiv
+
+147
+00:06:29,220 --> 00:06:31,960
+übersetzt. Man kann das Ganze auch
+
+148
+00:06:31,960 --> 00:06:33,620
+wörtlicher übersetzen, zum Beispiel,
+
+149
+00:06:33,680 --> 00:06:37,560
+dass sie den Fluss überquerten. Um
+
+150
+00:06:37,560 --> 00:06:38,420
+das Ganze jetzt noch einmal
+
+151
+00:06:38,420 --> 00:06:40,380
+zusammenzufassen, wir haben uns hier
+
+152
+00:06:40,380 --> 00:06:42,720
+die Einrückmethode angeschaut. Dabei
+
+153
+00:06:42,720 --> 00:06:44,600
+wird der Hauptsatz ganz links
+
+154
+00:06:44,600 --> 00:06:47,880
+aufgeschrieben und jeder Nebensatz je
+
+155
+00:06:47,880 --> 00:06:49,800
+nach Grad der Abhängigkeit nach
+
+156
+00:06:49,800 --> 00:06:51,640
+rechts eingerückt. Bei der
+
+157
+00:06:51,640 --> 00:06:53,180
+Übersetzung sind dann vor allen
+
+158
+00:06:53,180 --> 00:06:54,740
+Dingen die Einleitungswörter von den
+
+159
+00:06:54,740 --> 00:06:56,640
+Nebensätzen von großer Bedeutung.
+
+160
+00:06:56,700 --> 00:06:58,000
+Diese sollte sollte man zuerst
+
+161
+00:06:58,000 --> 00:06:59,880
+übersetzen. Wenn wir dann die
+
+162
+00:06:59,880 --> 00:07:01,740
+einzelnen Sätze nacheinander
+
+163
+00:07:01,740 --> 00:07:03,700
+übersetzen, wir starten mit dem
+
+164
+00:07:03,700 --> 00:07:05,780
+Hauptsatz, dann ist es wichtig, dass
+
+165
+00:07:05,780 --> 00:07:07,240
+zuerst die Prädikate übersetzt
+
+166
+00:07:07,240 --> 00:07:08,720
+werden, die satzwertigen
+
+167
+00:07:08,720 --> 00:07:10,780
+Konstruktionen erkannt werden, wie
+
+168
+00:07:10,780 --> 00:07:12,840
+zum Beispiel Partikipium Conjunctum
+
+169
+00:07:12,840 --> 00:07:15,320
+oder ein ACI und dass diese dann
+
+170
+00:07:15,320 --> 00:07:17,080
+übersetzt werden und so dann
+
+171
+00:07:17,080 --> 00:07:18,980
+hinterher der Sinn des Textes
+
+172
+00:07:18,980 --> 00:07:21,500
+herausgefunden wird. Ich bedanke mich
+
+173
+00:07:21,500 --> 00:07:23,440
+für deine Aufmerksamkeit. Tschüss,
+
+174
+00:07:23,440 --> 00:07:24,500
+bis zum nächsten Mal.
+

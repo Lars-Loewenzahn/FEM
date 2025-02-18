@@ -1,0 +1,600 @@
+1
+00:00:00,400 --> 00:00:01,800
+Hallo und willkommen zum Lernvideo
+
+2
+00:00:01,800 --> 00:00:03,740
+der Schülerhilfe. In diesem Video
+
+3
+00:00:03,740 --> 00:00:04,960
+soll es um die sogenannten
+
+4
+00:00:04,960 --> 00:00:06,660
+kombinatorischen Abzählverfahren
+
+5
+00:00:06,660 --> 00:00:08,700
+gehen, und zwar im Speziellen um die
+
+6
+00:00:08,700 --> 00:00:10,540
+geordnete Stichprobe. Es gibt auch
+
+7
+00:00:10,540 --> 00:00:11,960
+noch ein Video zu der ungeordneten
+
+8
+00:00:11,960 --> 00:00:13,960
+Stichprobe. Aber was heißt jetzt
+
+9
+00:00:13,960 --> 00:00:15,780
+geordnete Stichprobe? Das bedeutet,
+
+10
+00:00:16,120 --> 00:00:18,060
+geordnet, dass die Reihenfolge
+
+11
+00:00:18,060 --> 00:00:20,060
+wichtig ist. Das heißt, geordnete
+
+12
+00:00:20,060 --> 00:00:22,820
+Stichprobe kann man gleichsetzen mit
+
+13
+00:00:22,820 --> 00:00:25,600
+der Beachtung der Reihenfolge. Aber
+
+14
+00:00:25,600 --> 00:00:27,220
+es gibt auch noch da zwei
+
+15
+00:00:27,220 --> 00:00:29,900
+Unterschiede. Und zwar einmal das
+
+16
+00:00:29,900 --> 00:00:32,000
+Ziehen mit Zurücklegen und einmal das
+
+17
+00:00:32,000 --> 00:00:34,280
+Ziehen ohne Zurücklegen. Man stellt
+
+18
+00:00:34,280 --> 00:00:36,180
+sich nämlich immer ein Ohnmodell vor.
+
+19
+00:00:36,420 --> 00:00:38,160
+Ziehen mit Zurücklegen heißt also,
+
+20
+00:00:38,220 --> 00:00:39,900
+dass wir die Kugeln nach dem Ziehen
+
+21
+00:00:39,900 --> 00:00:41,700
+wieder zurückpacken. Das heißt, die
+
+22
+00:00:41,700 --> 00:00:43,220
+Anzahl der Auswahlmöglichkeiten
+
+23
+00:00:43,220 --> 00:00:44,600
+bleibt gleich und damit auch die
+
+24
+00:00:44,600 --> 00:00:46,440
+Wahrscheinlichkeiten. Beim Ziehen
+
+25
+00:00:46,440 --> 00:00:48,380
+ohne Zurücklegen bleibt die Kugel
+
+26
+00:00:48,380 --> 00:00:50,040
+jedoch nach dem Ziehen draußen und
+
+27
+00:00:50,040 --> 00:00:51,660
+dadurch verändert sich jeweils immer
+
+28
+00:00:51,660 --> 00:00:53,420
+die Anzahl der Auswahlmöglichkeiten
+
+29
+00:00:53,420 --> 00:00:54,060
+und damit auch die
+
+30
+00:00:54,060 --> 00:00:55,480
+Wahrscheinlichkeiten. Aber das
+
+31
+00:00:55,480 --> 00:00:56,600
+schauen wir uns am besten mal an
+
+32
+00:00:56,600 --> 00:00:59,360
+einem Beispiel an. Wenn wir zum
+
+33
+00:00:59,360 --> 00:01:01,780
+Beispiel die Fragestellung haben, wie
+
+34
+00:01:01,780 --> 00:01:03,500
+viele Möglichkeiten gibt es beim
+
+35
+00:01:03,500 --> 00:01:05,260
+vierstelligen PIN-Code, zum Beispiel
+
+36
+00:01:05,260 --> 00:01:07,240
+im Handy. Wenn wir uns jetzt mal
+
+37
+00:01:07,240 --> 00:01:08,760
+diese beiden Möglichkeiten angucken,
+
+38
+00:01:08,840 --> 00:01:10,700
+zum Beispiel die Möglichkeit 1, 2, 3,
+
+39
+00:01:10,740 --> 00:01:13,860
+4 und 4, 3, 2, 1. Das sind ja an sich
+
+40
+00:01:13,860 --> 00:01:16,220
+die gleichen Zahlen, aber wir wissen
+
+41
+00:01:16,220 --> 00:01:19,060
+ja, dass es nicht derselbe Code ist.
+
+42
+00:01:19,220 --> 00:01:22,180
+Also die Reihenfolge ist bei dieser
+
+43
+00:01:22,180 --> 00:01:24,160
+Aufgabe wichtig, deswegen ist es eine
+
+44
+00:01:24,160 --> 00:01:26,740
+geordnete Stichprobe und zwar mit
+
+45
+00:01:26,740 --> 00:01:28,700
+Beachtung der Reihenfolge.
+
+46
+00:01:31,280 --> 00:01:33,460
+Jetzt wollen wir diese Aufgabe mal
+
+47
+00:01:33,460 --> 00:01:36,720
+lösen. Jetzt überlegen wir uns mal,
+
+48
+00:01:36,760 --> 00:01:38,580
+wie viele Möglichkeiten gibt es denn,
+
+49
+00:01:38,720 --> 00:01:41,060
+eine Ziffer auszuwählen. Und zwar
+
+50
+00:01:41,060 --> 00:01:43,980
+haben wir ja die Ziffern 0 bis 9. und
+
+51
+00:01:43,980 --> 00:01:47,060
+das auch bei jedem Feld. Das sind
+
+52
+00:01:47,060 --> 00:01:51,300
+insgesamt 10 Möglichkeiten. Das
+
+53
+00:01:51,300 --> 00:01:52,660
+heißt, ich habe für meine erste
+
+54
+00:01:52,660 --> 00:01:55,440
+Ziffer 10 Möglichkeiten, für meine
+
+55
+00:01:55,440 --> 00:01:57,740
+zweite Ziffer 10 Möglichkeiten und
+
+56
+00:01:57,740 --> 00:02:01,080
+auch für die dritte und vierte. Was
+
+57
+00:02:01,080 --> 00:02:01,980
+wir machen, und in der
+
+58
+00:02:01,980 --> 00:02:03,240
+Wahrscheinlichkeit wird meistens
+
+59
+00:02:03,240 --> 00:02:05,340
+multipliziert, wir multiplizieren
+
+60
+00:02:05,340 --> 00:02:07,480
+diese vier Möglichkeiten miteinander
+
+61
+00:02:08,760 --> 00:02:13,140
+und erhalten als Ergebnis 10. 1000.
+
+62
+00:02:13,280 --> 00:02:17,260
+10.000 Möglichkeiten. Man kann sich
+
+63
+00:02:17,260 --> 00:02:20,740
+da auch einer Formel behelfen und
+
+64
+00:02:20,740 --> 00:02:26,900
+zwar mit n hoch k. Was bedeutet jetzt
+
+65
+00:02:26,900 --> 00:02:30,180
+aber n und was bedeutet k? n sind die
+
+66
+00:02:30,180 --> 00:02:33,020
+Anzahl der Auswahlmöglichkeiten. Das
+
+67
+00:02:33,020 --> 00:02:36,160
+hatten wir ja bereits geklärt. Das
+
+68
+00:02:36,160 --> 00:02:37,740
+sind 10 Möglichkeiten, da wir die
+
+69
+00:02:37,740 --> 00:02:41,060
+Ziffer 0 bis bis 9 haben. k sind die
+
+70
+00:02:41,060 --> 00:02:43,280
+Anzahl der Ziehungen, wenn wir uns
+
+71
+00:02:43,280 --> 00:02:44,700
+wieder unser Ohn-Modell vorstellen.
+
+72
+00:02:44,980 --> 00:02:48,320
+Und wir ziehen 4 Zahlen daraus. Also
+
+73
+00:02:48,320 --> 00:02:51,500
+ist k gleich 4. Wenn wir das
+
+74
+00:02:51,500 --> 00:02:56,160
+einsetzen, dann erhalten wir 10 hoch
+
+75
+00:02:56,160 --> 00:03:03,450
+4 und das ist natürlich gerade die 10
+
+76
+00:03:03,450 --> 00:03:06,730
+.000, die wir schon eben rausbekommen
+
+77
+00:03:06,730 --> 00:03:06,970
+haben.
+
+78
+00:03:10,940 --> 00:03:12,580
+Jetzt wollen wir die Aufgaben...
+
+79
+00:03:12,620 --> 00:03:14,600
+Stellung etwas verändern. Und zwar
+
+80
+00:03:14,600 --> 00:03:17,180
+sagen wir jetzt, dass jede Ziffer nur
+
+81
+00:03:17,180 --> 00:03:20,400
+einmal vorkommen darf. Das ist jetzt
+
+82
+00:03:20,400 --> 00:03:21,460
+also nicht mit ziehen mit
+
+83
+00:03:21,460 --> 00:03:23,380
+zurücklegen, denn wenn eine Ziffer
+
+84
+00:03:23,380 --> 00:03:24,900
+gezogen ist, kommt diese nicht mehr
+
+85
+00:03:24,900 --> 00:03:27,360
+zurück. Deswegen ziehen ohne
+
+86
+00:03:27,360 --> 00:03:30,620
+zurücklegen. Das heißt, wenn wir bei
+
+87
+00:03:30,620 --> 00:03:33,220
+unserer ersten Ziffer, haben wir
+
+88
+00:03:33,220 --> 00:03:34,460
+immer noch 10 Möglichkeiten, die
+
+89
+00:03:34,460 --> 00:03:37,500
+Ziffern 0 bis 9. Wenn jetzt aber eine
+
+90
+00:03:37,500 --> 00:03:38,920
+Ziffer gezogen ist, haben wir nur
+
+91
+00:03:38,920 --> 00:03:40,740
+noch 9 weitere Ziffern zur Auswahl.
+
+92
+00:03:41,160 --> 00:03:42,900
+Also an der zweiten Stelle gibt es
+
+93
+00:03:42,900 --> 00:03:44,740
+nur noch neun Möglichkeiten. Für die
+
+94
+00:03:44,740 --> 00:03:46,100
+dritte Stelle, da jetzt ja schon zwei
+
+95
+00:03:46,100 --> 00:03:48,060
+Ziffern gezogen wurden, gibt es nur
+
+96
+00:03:48,060 --> 00:03:49,840
+noch acht Möglichkeiten und folglich
+
+97
+00:03:49,840 --> 00:03:52,420
+für die vierte sieben. Auch hier
+
+98
+00:03:52,420 --> 00:03:56,580
+multiplizieren wir diese wieder, die
+
+99
+00:03:56,580 --> 00:03:59,380
+Möglichkeiten und erhalten als
+
+100
+00:03:59,380 --> 00:04:04,380
+Ergebnis 5040 Möglichkeiten. Also
+
+101
+00:04:04,380 --> 00:04:05,460
+knapp die Hälfte von den
+
+102
+00:04:05,460 --> 00:04:08,180
+Möglichkeiten von eben. Das Ganze
+
+103
+00:04:08,180 --> 00:04:10,920
+kann man auch brechen. mit einem
+
+104
+00:04:10,920 --> 00:04:14,180
+Koeffizienten, und
+
+105
+00:04:21,510 --> 00:04:26,310
+zwar n Fakultät geteilt durch n minus
+
+106
+00:04:26,310 --> 00:04:30,350
+k Fakultät. Auch hier müssen wir uns
+
+107
+00:04:30,350 --> 00:04:32,970
+wieder überlegen, was ist n und was
+
+108
+00:04:32,970 --> 00:04:35,410
+ist k. n war die Anzahl der
+
+109
+00:04:35,410 --> 00:04:38,070
+Auswahlmöglichkeiten, wie eben zuvor
+
+110
+00:04:38,070 --> 00:04:40,510
+immer noch die 10, da es 10 Ziffern
+
+111
+00:04:40,510 --> 00:04:43,330
+gibt, und k war die Anzahl der
+
+112
+00:04:43,330 --> 00:04:47,170
+Ziehungen. Wir haben vier Ziffern,
+
+113
+00:04:47,230 --> 00:04:51,590
+also vier Ziehungen. Wenn wir das
+
+114
+00:04:51,590 --> 00:04:54,570
+einsetzen, erhalten wir folgenden
+
+115
+00:04:54,570 --> 00:04:57,310
+Term. Hier ist nochmal aufgestellt,
+
+116
+00:04:57,510 --> 00:05:00,990
+oben nochmal die 10. 10 Fakultät
+
+117
+00:05:00,990 --> 00:05:03,330
+geteilt durch 10 minus 4 Fakultät.
+
+118
+00:05:03,730 --> 00:05:06,230
+Das wäre dann 10 Fakultät geteilt
+
+119
+00:05:06,230 --> 00:05:07,790
+durch 6 Fakultät. Wenn wir das
+
+120
+00:05:07,790 --> 00:05:09,610
+aufschreiben, erkennen wir auch noch
+
+121
+00:05:09,610 --> 00:05:13,490
+sofort, dass wir oben und unten ganz
+
+122
+00:05:13,490 --> 00:05:17,470
+viele Ziffern kürzen können. Und
+
+123
+00:05:17,470 --> 00:05:21,070
+übrig bleibt unser 10 mal 9 mal 8 mal
+
+124
+00:05:21,070 --> 00:05:24,450
+7, das wir hier oben schon hatten.
+
+125
+00:05:25,830 --> 00:05:27,090
+Fassen wir das Ganze doch nochmal
+
+126
+00:05:27,090 --> 00:05:29,090
+kurz zusammen. In diesem Video ging
+
+127
+00:05:29,090 --> 00:05:30,910
+es um die geordnete Stichprobe.
+
+128
+00:05:31,050 --> 00:05:33,130
+Geordnete Stichprobe bedeutet, dass
+
+129
+00:05:33,130 --> 00:05:37,640
+die Reihenfolge beachtet wird. Dort
+
+130
+00:05:37,640 --> 00:05:38,340
+kann man aber auch nochmal
+
+131
+00:05:38,340 --> 00:05:40,840
+unterscheiden zwischen dem Ziehen mit
+
+132
+00:05:40,840 --> 00:05:42,760
+Zurücklegen und dem Ziehen ohne
+
+133
+00:05:42,760 --> 00:05:44,260
+Zurücklegen, wenn wir an unser ohne
+
+134
+00:05:44,260 --> 00:05:46,100
+Modell denken. Beim Ziehen mit
+
+135
+00:05:46,100 --> 00:05:48,780
+Zurücklegen bleibt die Anzahl der
+
+136
+00:05:48,780 --> 00:05:50,520
+Möglichkeiten gleich und damit auch
+
+137
+00:05:50,520 --> 00:05:52,440
+die Wahrscheinlichkeiten. Beim Ziehen
+
+138
+00:05:52,440 --> 00:05:54,080
+ohne Zurücklegen bleibt die Anzahl
+
+139
+00:05:54,080 --> 00:05:55,540
+der Möglichkeiten nicht gleich und
+
+140
+00:05:55,540 --> 00:05:56,740
+auch die Wahrscheinlichkeiten ändern
+
+141
+00:05:56,740 --> 00:05:58,820
+sich. Beim Ziehen mit Zurücklegen
+
+142
+00:05:58,820 --> 00:06:01,080
+können wir uns den Term n hoch k
+
+143
+00:06:01,080 --> 00:06:02,920
+merken, wobei n die Anzahl der
+
+144
+00:06:02,920 --> 00:06:04,800
+Auswahlmöglichkeiten ist und k die
+
+145
+00:06:04,800 --> 00:06:06,820
+Anzahl der Züge, also der Ziehungen.
+
+146
+00:06:07,600 --> 00:06:09,340
+Und beim Ziehen ohne Zurücklegen
+
+147
+00:06:09,340 --> 00:06:13,100
+benutzen wir diesen Term und n und k
+
+148
+00:06:13,100 --> 00:06:17,180
+sind dort dasselbe. Ich danke dir für
+
+149
+00:06:17,180 --> 00:06:18,660
+deine Aufmerksamkeit und freue mich
+
+150
+00:06:18,660 --> 00:06:19,160
+aufs nächste Mal.
+

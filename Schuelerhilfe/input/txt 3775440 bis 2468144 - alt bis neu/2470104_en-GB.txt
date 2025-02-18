@@ -1,0 +1,416 @@
+﻿1
+00:00:03,950 --> 00:00:06,150
+Hello, my name is Joshua and I 
+
+2
+00:00:06,150 --> 00:00:07,270
+am a tutor at 
+
+3
+00:00:07,270 --> 00:00:09,290
+Schülerhilfe. Today I would like to 
+
+4
+00:00:09,290 --> 00:00:11,850
+explain something about DNA to you. In our 
+
+5
+00:00:11,850 --> 00:00:13,650
+online learning center, you can 
+
+6
+00:00:13,650 --> 00:00:15,150
+of course also find a wiki on this topic 
+
+7
+00:00:15,150 --> 00:00:16,550
+, in which the 
+
+8
+00:00:16,550 --> 00:00:18,250
+basic and important terms 
+
+9
+00:00:18,250 --> 00:00:21,150
+are explained in more detail. Have you 
+
+10
+00:00:21,150 --> 00:00:22,850
+ever wondered what we 
+
+11
+00:00:22,850 --> 00:00:24,270
+humans are actually made of ? 
+
+12
+00:00:25,070 --> 00:00:26,790
+We will answer this question in this 
+
+13
+00:00:26,790 --> 00:00:29,690
+video. Our 
+
+14
+00:00:29,690 --> 00:00:32,350
+basic building block is our DNA. 
+
+15
+00:00:32,350 --> 00:00:34,290
+All genetic information is 
+
+16
+00:00:34,290 --> 00:00:36,450
+stored on it. It is, so to speak, a 
+
+17
+00:00:36,450 --> 00:00:38,490
+guide to our individual 
+
+18
+00:00:38,490 --> 00:00:40,290
+structure. This information 
+
+19
+00:00:40,290 --> 00:00:42,030
+determines our development, 
+
+20
+00:00:42,290 --> 00:00:44,010
+for example how we will 
+
+21
+00:00:44,010 --> 00:00:46,990
+look later on. But what does the 
+
+22
+00:00:46,990 --> 00:00:49,770
+abbreviation DNA actually stand for ? DNA 
+
+23
+00:00:49,770 --> 00:00:53,950
+stands for deoxyribonucleic acid or 
+
+24
+00:00:53,950 --> 00:00:56,590
+deoxyribonucleic acid 
+
+25
+00:00:56,590 --> 00:00:59,430
+or DNA. ZNES. For international 
+
+26
+00:00:59,430 --> 00:01:00,690
+simplification, however, the 
+
+27
+00:01:00,690 --> 00:01:02,850
+English abbreviation DNA is used. 
+
+28
+00:01:03,660 --> 00:01:06,210
+In eukaryotes, i.e. cells with a 
+
+29
+00:01:06,210 --> 00:01:07,970
+cell nucleus, such as 
+
+30
+00:01:07,970 --> 00:01:09,550
+animals, the DNA is 
+
+31
+00:01:09,550 --> 00:01:11,730
+mainly found in the chromosomes in the 
+
+32
+00:01:11,730 --> 00:01:15,410
+cell nucleus. In prokaryotes, cells 
+
+33
+00:01:15,410 --> 00:01:16,950
+without a nucleus, such as 
+
+34
+00:01:16,950 --> 00:01:19,450
+bacteria, it floats in the 
+
+35
+00:01:19,450 --> 00:01:22,290
+cytoplasm. But where exactly is 
+
+36
+00:01:22,290 --> 00:01:23,930
+our DNA located? DNA. 
+
+37
+00:01:24,350 --> 00:01:26,050
+It is located in our 
+
+38
+00:01:26,050 --> 00:01:28,350
+chromosomes. There it is 
+
+39
+00:01:28,350 --> 00:01:31,550
+wrapped around the histones, a protein. 
+The 
+
+40
+00:01:31,550 --> 00:01:33,930
+unit of DNA and proteins 
+
+41
+00:01:33,930 --> 00:01:36,950
+is called chromatin. 
+
+42
+00:01:36,950 --> 00:01:38,630
+Now that you have learned what the 
+abbreviation 
+
+43
+00:01:38,630 --> 00:01:40,770
+DNA actually means and where it is 
+
+44
+00:01:40,770 --> 00:01:42,630
+located, let's take a look at 
+
+45
+00:01:42,770 --> 00:01:45,890
+how DNA is structured. Our DNA 
+
+46
+00:01:45,890 --> 00:01:48,710
+consists of sugar, deoxyribose, 
+
+47
+00:01:48,710 --> 00:01:51,210
+phosphate and the four organic 
+
+48
+00:01:51,210 --> 00:01:54,930
+bases adenine, thymine, cytosine and 
+
+49
+00:01:54,930 --> 00:01:58,050
+guanine. The four bases are each 
+
+50
+00:01:58,050 --> 00:01:59,390
+
+51
+00:01:59,390 --> 00:02:01,650
+abbreviated with their first letter. In 
+simple terms, you could 
+
+52
+00:02:01,650 --> 00:02:03,870
+say that our DNA is structured like 
+
+53
+00:02:03,870 --> 00:02:06,350
+a rope ladder. The base adenine 
+
+54
+00:02:06,350 --> 00:02:08,230
+connects to the base thymine 
+
+55
+00:02:08,230 --> 00:02:11,030
+and the base cytosine 
+
+56
+00:02:11,030 --> 00:02:14,190
+connects to the base guanine. Only these 
+two 
+
+57
+00:02:14,190 --> 00:02:16,270
+combinations are possible. Here 
+
+58
+00:02:16,270 --> 00:02:17,630
+you can see a simplified 
+
+59
+00:02:17,630 --> 00:02:21,270
+representation of DNA. This series 
+
+60
+00:02:21,270 --> 00:02:23,970
+can be continued indefinitely. 
+
+61
+00:02:24,330 --> 00:02:28,530
+Z stands for sugar, P for phosphate, A 
+
+62
+00:02:28,530 --> 00:02:31,830
+for adenine, T for thymine, C for 
+
+63
+00:02:31,830 --> 00:02:35,470
+cytosine and G for guanine. The sugar 
+
+64
+00:02:35,470 --> 00:02:37,410
+is shown as a pentagon, the 
+
+65
+00:02:37,410 --> 00:02:40,330
+phosphate usually as a circle. The bases 
+
+66
+00:02:40,330 --> 00:02:41,330
+are given 
+
+67
+00:02:41,330 --> 00:02:43,330
+a 
+
+68
+00:02:43,330 --> 00:02:44,610
+shape at one end for better visualization 
+, so that it is easier... 
+
+69
+00:02:44,630 --> 00:02:46,670
+recognize which two bases 
+
+70
+00:02:46,670 --> 00:02:49,230
+go together. The combination of 
+
+71
+00:02:49,230 --> 00:02:51,930
+base, sugar and phosphate is called 
+
+72
+00:02:51,930 --> 00:02:54,710
+a nucleotide. Now we know the 
+
+73
+00:02:54,710 --> 00:02:57,730
+simplified structure of our DNA. 
+
+74
+00:02:57,730 --> 00:02:59,830
+Now let's take a look at the more complex 
+
+75
+00:02:59,830 --> 00:03:02,670
+structure. Our DNA is 
+
+76
+00:03:02,670 --> 00:03:05,370
+structured like a spiral. This shape is 
+called 
+
+77
+00:03:05,370 --> 00:03:08,150
+a helix. The word helix 
+
+78
+00:03:08,150 --> 00:03:10,810
+describes the helical shape. Our DNA is 
+
+79
+00:03:10,810 --> 00:03:13,430
+in a double helix. The 
+
+80
+00:03:13,430 --> 00:03:15,350
+individual strands of our DNA are 
+
+81
+00:03:15,350 --> 00:03:16,930
+connected by hydrogen bonding 
+
+82
+00:03:16,930 --> 00:03:19,010
+. 
+
+83
+00:03:19,010 --> 00:03:20,790
+You may 
+
+84
+00:03:20,790 --> 00:03:23,350
+already be familiar with hydrogen bonding 
+from your chemistry lessons. 
+
+85
+00:03:23,350 --> 00:03:24,890
+As mentioned at the beginning, 
+
+86
+00:03:24,890 --> 00:03:26,870
+our DNA can be read by 
+
+87
+00:03:26,870 --> 00:03:29,650
+RNA polymerase. This separates the 
+
+88
+00:03:29,650 --> 00:03:31,650
+double strands of DNA and 
+
+89
+00:03:31,650 --> 00:03:33,690
+duplicates them in a molecule 
+
+90
+00:03:33,690 --> 00:03:36,150
+called RNA. During this 
+
+91
+00:03:36,150 --> 00:03:39,310
+process, thymine becomes uracil. All 
+
+92
+00:03:39,310 --> 00:03:42,790
+other bases remain the same. 
+
+93
+00:03:42,790 --> 00:03:45,070
+During cell growth and reproduction, 
+
+94
+00:03:45,070 --> 00:03:47,290
+DNA polymerase 
+
+95
+00:03:47,290 --> 00:03:49,510
+duplicates the DNA and 
+
+96
+00:03:49,510 --> 00:03:52,450
+passes it on to the new cell. I hope that 
+you now 
+
+97
+00:03:52,450 --> 00:03:54,710
+know more about DNA. If you still have 
+
+98
+00:03:54,710 --> 00:03:56,550
+questions about these or other topics 
+
+99
+00:03:56,550 --> 00:03:58,410
+, please feel free to use our other 
+
+100
+00:03:58,410 --> 00:04:00,770
+learning content in the online learning 
+center or 
+
+101
+00:04:00,770 --> 00:04:02,390
+contact your 
+
+102
+00:04:02,390 --> 00:04:04,130
+local student help center. See you next 
+time. 

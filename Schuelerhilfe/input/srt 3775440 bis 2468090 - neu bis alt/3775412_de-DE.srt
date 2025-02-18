@@ -1,0 +1,620 @@
+1
+00:00:04,430 --> 00:00:06,510
+Hallo, mein Name ist Sabrina und ich
+
+2
+00:00:06,510 --> 00:00:07,910
+bin Nachhilfelehrerin bei der
+
+3
+00:00:07,910 --> 00:00:10,030
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:10,030 --> 00:00:12,050
+einen Einblick in das Thema Ester und
+
+5
+00:00:12,050 --> 00:00:14,290
+Verseifung geben. In unserem Online
+
+6
+00:00:14,290 --> 00:00:16,030
+-Lerncenter steht dir zu diesem Thema
+
+7
+00:00:16,030 --> 00:00:17,350
+natürlich auch ein Wiki zur
+
+8
+00:00:17,350 --> 00:00:19,570
+Verfügung, in dem dir die wichtigsten
+
+9
+00:00:19,570 --> 00:00:21,210
+Begriffe noch einmal erklärt werden.
+
+10
+00:00:21,850 --> 00:00:24,010
+Ester sind eine Stoffgruppe, die
+
+11
+00:00:24,010 --> 00:00:25,930
+durch Reaktion einer Säure und eines
+
+12
+00:00:25,930 --> 00:00:27,890
+Alkohols unter Wasserabspaltung
+
+13
+00:00:27,890 --> 00:00:30,030
+entstehen. Ihre Bildung wird als
+
+14
+00:00:30,030 --> 00:00:31,770
+Verästerung oder auch Esterbildung
+
+15
+00:00:31,770 --> 00:00:34,070
+bezeichnet. Eine Verästerung ist
+
+16
+00:00:34,070 --> 00:00:35,810
+durch die Wasserabspaltung auch immer
+
+17
+00:00:35,810 --> 00:00:38,290
+eine Kondensationsreaktion. Der
+
+18
+00:00:38,290 --> 00:00:40,570
+namentlich geläufigste Ester ist wohl
+
+19
+00:00:40,570 --> 00:00:43,070
+der Kunststoff Polyester, der im
+
+20
+00:00:43,070 --> 00:00:44,650
+gewöhnlichen Sprachgebrauch jedoch
+
+21
+00:00:44,650 --> 00:00:46,990
+aufgrund einer falschen Aussprache
+
+22
+00:00:46,990 --> 00:00:49,630
+Polyester oft gar nicht mehr als zur
+
+23
+00:00:49,630 --> 00:00:51,150
+Stoffgruppe Ester gehörig
+
+24
+00:00:51,150 --> 00:00:53,530
+wahrgenommen wird. Ester können
+
+25
+00:00:53,530 --> 00:00:55,670
+sowohl aus organischen Säuren wie
+
+26
+00:00:55,670 --> 00:00:58,630
+Carbon- und Sulfonsäuren als auch aus
+
+27
+00:00:58,630 --> 00:01:01,030
+anorganischen Säuren wie Phosphor-
+
+28
+00:01:01,030 --> 00:01:02,550
+und Schwefelsäure gebildet werden.
+
+29
+00:01:02,990 --> 00:01:06,030
+Als Alkohole sind primäre, sekundäre,
+
+30
+00:01:06,230 --> 00:01:08,670
+tertiäre und mehrwertige Alkohole
+
+31
+00:01:08,670 --> 00:01:11,150
+möglich. Am häufigsten werden euch
+
+32
+00:01:11,150 --> 00:01:13,690
+Carbonsäure-Ester begegnen. Sie
+
+33
+00:01:13,690 --> 00:01:15,890
+bestehen aus einem Säure- und einem
+
+34
+00:01:15,890 --> 00:01:18,370
+Alkoholteil. Teil. Diese Gruppe kommt
+
+35
+00:01:18,370 --> 00:01:20,270
+in der Natur häufig vor, zum Beispiel
+
+36
+00:01:20,270 --> 00:01:23,050
+als Fruchtester oder Fette. Beim
+
+37
+00:01:23,050 --> 00:01:25,950
+Blick auf die Edukte und Produkte mag
+
+38
+00:01:25,950 --> 00:01:27,890
+man sich fragen, aus welchem Edukt
+
+39
+00:01:27,890 --> 00:01:29,910
+der im Ester enthaltene Sauerstoff
+
+40
+00:01:29,910 --> 00:01:32,510
+der Alkoxygruppe stammt. Dies konnte
+
+41
+00:01:32,510 --> 00:01:34,610
+durch Isotopenmarkierung mit dem
+
+42
+00:01:34,610 --> 00:01:36,890
+schweren Isotop 18O untersucht
+
+43
+00:01:36,890 --> 00:01:39,610
+werden. So zeigte sich, dass bei
+
+44
+00:01:39,610 --> 00:01:41,830
+Einsatz primärer oder sekundärer
+
+45
+00:01:41,830 --> 00:01:43,690
+Alkohole der der Sauerstoff des
+
+46
+00:01:43,690 --> 00:01:45,610
+Alkohols in den Ester übergeht.
+
+47
+00:01:46,630 --> 00:01:48,810
+Betrachtet man dazu die Verästerung
+
+48
+00:01:48,810 --> 00:01:51,030
+nach Fischer, geht diese wie folgt
+
+49
+00:01:51,030 --> 00:01:53,370
+vonstatten. Die Carbonsäure wird
+
+50
+00:01:53,370 --> 00:01:55,250
+zunächst durch eine katalytisch
+
+51
+00:01:55,250 --> 00:01:57,590
+wirksame, starke Säure zu einem
+
+52
+00:01:57,590 --> 00:01:59,850
+mesomeriestabilisierten Kation
+
+53
+00:01:59,850 --> 00:02:02,870
+protoniert. Unter Mesomerie versteht
+
+54
+00:02:02,870 --> 00:02:05,090
+man das Phänomen, dass in einigen
+
+55
+00:02:05,090 --> 00:02:07,690
+Molekülen und mehratomigen Ionen, wie
+
+56
+00:02:07,690 --> 00:02:09,310
+hier, hier, die tatsächlich
+
+57
+00:02:09,310 --> 00:02:11,050
+vorliegenden Bindungsverhältnisse
+
+58
+00:02:11,050 --> 00:02:13,010
+nicht durch eine einzige
+
+59
+00:02:13,010 --> 00:02:15,350
+Strukturformel, sondern durch mehrere
+
+60
+00:02:15,350 --> 00:02:18,170
+Grenzformeln dargestellt werden. Die
+
+61
+00:02:18,170 --> 00:02:20,430
+wirkliche Elektronenverteilung liegt
+
+62
+00:02:20,430 --> 00:02:22,530
+zwischen den von den Grenzformeln
+
+63
+00:02:22,530 --> 00:02:25,410
+angegebenen Verteilungen. Hier ist
+
+64
+00:02:25,410 --> 00:02:27,390
+die positive Ladung innerhalb des
+
+65
+00:02:27,390 --> 00:02:29,870
+Moleküls delokalisiert, betrifft
+
+66
+00:02:29,870 --> 00:02:31,670
+jedoch zum Großteil den Kohlenstoff.
+
+67
+00:02:31,870 --> 00:02:34,350
+Die nukleophile Viele Alkoholgruppe
+
+68
+00:02:34,350 --> 00:02:36,610
+greift den partiell positiv geladenen
+
+69
+00:02:36,610 --> 00:02:38,770
+Kohlenstoff an, wodurch sich eine
+
+70
+00:02:38,770 --> 00:02:40,990
+tetraedrische Zwischenstufe bildet.
+
+71
+00:02:41,890 --> 00:02:43,630
+Nukleophilie ist das Maß für die
+
+72
+00:02:43,630 --> 00:02:45,410
+Fähigkeit eines Atoms, hier
+
+73
+00:02:45,410 --> 00:02:47,330
+Sauerstoff, mit einem freien
+
+74
+00:02:47,330 --> 00:02:49,410
+Elektronenpaar ein positiv oder
+
+75
+00:02:49,410 --> 00:02:52,010
+partiell positiv geladenes Atom, hier
+
+76
+00:02:52,010 --> 00:02:54,110
+Kohlenstoff, unter Ausbildung einer
+
+77
+00:02:54,110 --> 00:02:56,910
+Atombindung anzugreifen. Nach einem
+
+78
+00:02:56,910 --> 00:02:59,310
+Protonensprung kommt es zur H2O
+
+79
+00:02:59,310 --> 00:03:02,910
+-Abspaltung. Tonierung zur
+
+80
+00:03:02,910 --> 00:03:05,690
+Regenerierung des Katalysators, also
+
+81
+00:03:05,690 --> 00:03:07,930
+der Säure. Die Esterbildung ist
+
+82
+00:03:07,930 --> 00:03:11,130
+abgeschlossen. Die Verästerung ist
+
+83
+00:03:11,130 --> 00:03:13,770
+reversibel und die Rückreaktion heißt
+
+84
+00:03:13,770 --> 00:03:17,330
+saure Hydrolyse. Um die Ausbeute
+
+85
+00:03:17,330 --> 00:03:19,490
+einer Verästerung zu erhöhen, kann
+
+86
+00:03:19,490 --> 00:03:21,350
+man den Prinzipien des chemischen
+
+87
+00:03:21,350 --> 00:03:23,210
+Gleichgewichts entsprechend entweder
+
+88
+00:03:23,210 --> 00:03:25,590
+das billigste Edukt im Überschluss
+
+89
+00:03:25,590 --> 00:03:28,930
+einsetzen oder entstandenes Produkt
+
+90
+00:03:28,930 --> 00:03:30,390
+beispielsweise durch durch
+
+91
+00:03:30,390 --> 00:03:32,870
+Abdestillation entfernen. Die
+
+92
+00:03:32,870 --> 00:03:34,710
+Verästerung spielt auch in unserem
+
+93
+00:03:34,710 --> 00:03:37,450
+Metabolismus eine wichtige Rolle. Was
+
+94
+00:03:37,450 --> 00:03:39,570
+wir als Nahrungsfette zu uns nehmen
+
+95
+00:03:39,570 --> 00:03:42,490
+und verwerten, bzw. was der Körper
+
+96
+00:03:42,490 --> 00:03:44,450
+als Fett speichert, sind die
+
+97
+00:03:44,450 --> 00:03:46,730
+sogenannten Triglyceride oder
+
+98
+00:03:46,730 --> 00:03:50,750
+Triacylglycerole, TRGs. Sie sind
+
+99
+00:03:50,750 --> 00:03:52,890
+dreifache Äster des dreiwertigen
+
+100
+00:03:52,890 --> 00:03:54,850
+Alkohols Glycerin mit drei
+
+101
+00:03:54,850 --> 00:03:57,630
+Fettsäuremolekülen. Ihre allgemeine
+
+102
+00:03:57,630 --> 00:04:01,030
+Struktur ist hier dargestellt. R1, R2
+
+103
+00:04:01,030 --> 00:04:04,350
+und R3 sind Alkyl- oder Alkylenreste.
+
+104
+00:04:04,530 --> 00:04:06,770
+Die Reste können verschieden oder
+
+105
+00:04:06,770 --> 00:04:09,290
+auch identisch sein. Bei identischen
+
+106
+00:04:09,290 --> 00:04:10,890
+Resten spricht man von einfachen
+
+107
+00:04:10,890 --> 00:04:12,890
+TAGs, bei verschiedenen von
+
+108
+00:04:12,890 --> 00:04:15,830
+gemischten TAGs. Behandelt man Äste
+
+109
+00:04:15,830 --> 00:04:17,990
+mit Laugen, kommt es zur sogenannten
+
+110
+00:04:17,990 --> 00:04:21,870
+Verseifung bzw. Saponifikation. Diese
+
+111
+00:04:21,870 --> 00:04:24,310
+basische Hydrolyse ist irreversibel
+
+112
+00:04:24,310 --> 00:04:27,230
+und liefert als Produkte Alkohol und
+
+113
+00:04:27,230 --> 00:04:29,910
+das Salz der Säure. Der Begriff
+
+114
+00:04:29,910 --> 00:04:32,370
+Verseifung rührt daher, dass in der
+
+115
+00:04:32,370 --> 00:04:34,550
+Seifenzieherei Triglyceride
+
+116
+00:04:34,550 --> 00:04:36,110
+pflanzlichen oder tierischen
+
+117
+00:04:36,110 --> 00:04:38,250
+Ursprungs unter Baseneinsatz
+
+118
+00:04:38,250 --> 00:04:41,170
+hydrolysiert werden. Es entstehen
+
+119
+00:04:41,170 --> 00:04:45,930
+Glycerin nach IUPAC Propan-1, 2, 3
+
+120
+00:04:45,930 --> 00:04:48,690
+-Triol und die Alkalisalze der
+
+121
+00:04:48,690 --> 00:04:51,510
+enthaltenen Fettsäuren. Diese Salze
+
+122
+00:04:51,510 --> 00:04:53,990
+heißen Seifen. Setzt man zur
+
+123
+00:04:53,990 --> 00:04:56,350
+Versaifung Natronlauge ein, erhält
+
+124
+00:04:56,350 --> 00:04:58,830
+man die bekannte Kernsaife. Bei der
+
+125
+00:04:58,830 --> 00:05:01,030
+Versaifung folgt dem nukleophilen
+
+126
+00:05:01,030 --> 00:05:02,950
+Angriff des Hydroxid-Ions die
+
+127
+00:05:02,950 --> 00:05:05,550
+Abspaltung des Alkoholat-Ions unter
+
+128
+00:05:05,550 --> 00:05:07,110
+Bildung einer Carbonsäure.
+
+129
+00:05:08,110 --> 00:05:10,310
+Abschließend geht ein Proton von der
+
+130
+00:05:10,310 --> 00:05:12,650
+Säure auf das Alkoholat-Ion über,
+
+131
+00:05:12,850 --> 00:05:15,430
+welches zum Alkohol wird. Das
+
+132
+00:05:15,430 --> 00:05:17,750
+Gegenion zum entstandenen Karbonat
+
+133
+00:05:17,750 --> 00:05:20,310
+ist das aus der Lauge. Bei Einsatz
+
+134
+00:05:20,310 --> 00:05:21,930
+von Natronlauge entstehen
+
+135
+00:05:21,930 --> 00:05:24,770
+Natronsalze, bei Kalilauge analog
+
+136
+00:05:24,770 --> 00:05:28,130
+Kaliumsalze. Seifen sind aufgrund
+
+137
+00:05:28,130 --> 00:05:30,590
+ihres amphiphilen Aufbaus aus einem
+
+138
+00:05:30,590 --> 00:05:33,210
+hydrophoben Kohlenwasserstoffrest und
+
+139
+00:05:33,210 --> 00:05:35,390
+der hydrophilen deprotonierten
+
+140
+00:05:35,390 --> 00:05:38,130
+Säuregruppe Tenside, also Stoffe,
+
+141
+00:05:38,130 --> 00:05:39,890
+welche die Grenzflächenspannung
+
+142
+00:05:39,890 --> 00:05:42,430
+zwischen zwei Phasen absenken und die
+
+143
+00:05:42,430 --> 00:05:44,650
+Bildung von Dispersionen ermöglichen
+
+144
+00:05:44,650 --> 00:05:47,550
+bzw. die Löslichkeit eines Stoffes
+
+145
+00:05:47,550 --> 00:05:49,930
+erhöhen. Als solche bewirken sie eine
+
+146
+00:05:49,930 --> 00:05:51,750
+Vermengung von beispielsweise Öl und
+
+147
+00:05:51,750 --> 00:05:54,070
+Wasser, womit sie als waschaktive
+
+148
+00:05:54,070 --> 00:05:57,010
+Substanzen nutzbar sind. Ich hoffe,
+
+149
+00:05:57,090 --> 00:05:58,410
+dieses Video konnte dir zu einem
+
+150
+00:05:58,410 --> 00:06:00,610
+besseren Verständnis des Themas Äste
+
+151
+00:06:00,610 --> 00:06:02,670
+und Versaifung verhelfen. Wenn du
+
+152
+00:06:02,670 --> 00:06:04,190
+noch Fragen zu diesem oder anderen
+
+153
+00:06:04,190 --> 00:06:06,090
+Themen hast, wende dich gerne an
+
+154
+00:06:06,090 --> 00:06:08,270
+deine Schülerhilfe vor Ort. Bis zum
+
+155
+00:06:08,270 --> 00:06:08,830
+nächsten Mal!
+

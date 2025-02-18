@@ -1,0 +1,1708 @@
+﻿1
+00:00:02,990 --> 00:00:04,830
+Welcome to the webinar 
+
+2
+00:00:04,830 --> 00:00:08,230
+Power Laws and Roots. 
+
+3
+00:00:08,230 --> 00:00:09,970
+In this webinar, we will primarily be 
+
+4
+00:00:09,970 --> 00:00:11,850
+looking at power laws and roots. 
+
+5
+00:00:12,130 --> 00:00:13,910
+First, we will look at a very 
+
+6
+00:00:13,910 --> 00:00:15,670
+brief review of powers and 
+
+7
+00:00:15,670 --> 00:00:18,450
+roots, then the power laws 
+
+8
+00:00:18,450 --> 00:00:20,870
+and then we will look at 
+
+9
+00:00:20,970 --> 00:00:22,630
+how you 
+
+10
+00:00:22,630 --> 00:00:24,430
+can switch between the root and the power 
+notation 
+
+11
+00:00:24,490 --> 00:00:26,170
+, i.e. how you can convert it. 
+
+12
+00:00:26,170 --> 00:00:27,790
+There's a little formula for this that 
+
+13
+00:00:27,790 --> 00:00:29,870
+works quite well. And at the very 
+
+14
+00:00:29,870 --> 00:00:31,910
+end, we'll look at how you 
+
+15
+00:00:31,910 --> 00:00:34,250
+can take partial roots and how you can 
+
+16
+00:00:34,250 --> 00:00:36,430
+
+17
+00:00:36,430 --> 00:00:39,190
+simplify terms using the power laws and 
+root laws 
+
+18
+00:00:39,190 --> 00:00:42,050
+. Let's start with the short 
+
+19
+00:00:42,050 --> 00:00:44,670
+repetition. 
+
+20
+00:00:44,670 --> 00:00:47,170
+First of all, we see a power above. This 
+consists 
+
+21
+00:00:47,170 --> 00:00:50,070
+of a base and an exponent. 
+
+22
+00:00:50,790 --> 00:00:52,770
+The base is always what is at the bottom 
+
+23
+00:00:52,770 --> 00:00:54,470
+and the exponent is what is at the top 
+
+24
+00:00:54,470 --> 00:00:56,970
+. To explain this, 
+
+25
+00:00:56,970 --> 00:01:00,050
+x² is, for example, x times x, x to the 
+power of 3 
+
+26
+00:01:00,050 --> 00:01:02,710
+is x times x times x, i.e. the 
+
+27
+00:01:02,710 --> 00:01:05,130
+exponent indicates how often the base 
+
+28
+00:01:05,130 --> 00:01:07,330
+is multiplied by itself. x 
+
+29
+00:01:07,330 --> 00:01:09,370
+to the power of n is then simply x times x 
+times x 
+
+30
+00:01:09,370 --> 00:01:14,910
+and the whole thing n times. And 
+
+31
+00:01:14,910 --> 00:01:17,450
+this is not necessarily 
+
+32
+00:01:17,450 --> 00:01:20,330
+similar for a root , but there is also 
+something 
+
+33
+00:01:20,330 --> 00:01:21,550
+like an exponent, which is called 
+
+34
+00:01:21,550 --> 00:01:24,410
+a root exponent here. 
+
+35
+00:01:24,410 --> 00:01:25,990
+However, this is not always written down 
+if 
+
+36
+00:01:25,990 --> 00:01:27,550
+there is nothing there. And this is 
+
+37
+00:01:27,550 --> 00:01:29,050
+often the case, the 
+
+38
+00:01:29,050 --> 00:01:32,010
+square root is always meant. So in 
+
+39
+00:01:32,010 --> 00:01:33,450
+this case, n is equal to 2, which is the 
+
+40
+00:01:33,450 --> 00:01:35,990
+square root. And as I said, if 
+
+41
+00:01:35,990 --> 00:01:37,350
+this is used, it is not 
+
+42
+00:01:37,350 --> 00:01:38,790
+written down, but for every 
+
+43
+00:01:38,790 --> 00:01:41,030
+other root it is and must 
+
+44
+00:01:41,030 --> 00:01:43,670
+be written down. What is under 
+
+45
+00:01:43,670 --> 00:01:45,190
+the root is the so-called 
+
+46
+00:01:45,190 --> 00:01:49,050
+radical. And the 
+
+47
+00:01:49,050 --> 00:01:52,130
+root is taken from this. For example, the 
+
+48
+00:01:52,130 --> 00:01:54,870
+root of 25 is 5, or 
+
+49
+00:01:54,870 --> 00:01:56,430
+there is nothing here, so it is 
+
+50
+00:01:56,430 --> 00:01:58,750
+the square root. And that's 
+
+51
+00:01:58,770 --> 00:02:00,950
+because 5 to the power of 2 is 5 times 5 
+
+52
+00:02:01,070 --> 00:02:04,790
+, or 25. Here you can see 
+
+53
+00:02:04,790 --> 00:02:07,590
+the third root of 27 and, as 
+
+54
+00:02:07,590 --> 00:02:09,130
+I said earlier, if you don't 
+
+55
+00:02:09,130 --> 00:02:10,630
+
+56
+00:02:10,690 --> 00:02:12,810
+take the square root, i.e. the second 
+root, you have to 
+
+57
+00:02:12,810 --> 00:02:15,250
+write down the root exponent . And the 
+third 
+
+58
+00:02:15,250 --> 00:02:18,030
+root of 27 is 3, because 3 to the power of 
+3 
+
+59
+00:02:18,030 --> 00:02:21,830
+is 27. In general, the 
+
+60
+00:02:21,830 --> 00:02:24,330
+square root of x² equals x again 
+
+61
+00:02:24,330 --> 00:02:26,370
+This means that if the 
+
+62
+00:02:26,370 --> 00:02:28,990
+root exponent is the same as 
+
+63
+00:02:28,990 --> 00:02:32,290
+the exponent of the radical, 
+
+64
+00:02:32,290 --> 00:02:34,050
+the root is omitted 
+
+65
+00:02:34,170 --> 00:02:37,530
+We will see later why this is the case 
+
+66
+00:02:37,530 --> 00:02:38,570
+Let's move on to the 
+
+67
+00:02:38,570 --> 00:02:42,430
+power laws We see here the 
+
+68
+00:02:42,430 --> 00:02:44,170
+power law, which is to be applied 
+
+69
+00:02:44,250 --> 00:02:45,910
+if we have the same base We 
+
+70
+00:02:45,910 --> 00:02:48,210
+see here that we have the base A and 
+
+71
+00:02:48,210 --> 00:02:49,370
+then we have different 
+
+72
+00:02:49,370 --> 00:02:52,450
+powers, one m and one n. And power , we 
+have the power law. 
+
+73
+00:02:56,410 --> 00:02:59,390
+And if we 
+
+74
+00:02:59,390 --> 00:03:05,260
+have a to the power of m times a to the 
+power of n , that is a to the power of m 
+plus n. The 
+
+75
+00:03:05,260 --> 00:03:06,860
+whole thing can also be 
+
+76
+00:03:06,860 --> 00:03:09,700
+filled with a few numbers, i.e. 4 to the 
+power of 2 times 4 
+
+77
+00:03:09,700 --> 00:03:12,940
+to the power of 4 is equal to 4 to the 
+power of 2 plus 4 
+
+78
+00:03:12,940 --> 00:03:15,620
+or 4 to the power of 6. Why the 
+
+79
+00:03:15,620 --> 00:03:18,600
+whole thing works? can also be 
+
+80
+00:03:18,600 --> 00:03:20,820
+explained like this . a to the power of m 
+times a to the power of n. 
+
+81
+00:03:21,260 --> 00:03:23,580
+In other words, we have a times a times a 
+times a 
+
+82
+00:03:23,580 --> 00:03:26,020
+times a and so on. So m times a and 
+
+83
+00:03:26,020 --> 00:03:29,000
+then the times in between. a times a times 
+
+84
+00:03:29,000 --> 00:03:32,640
+a times n times a. And together we have m 
+
+85
+00:03:32,640 --> 00:03:37,840
+plus n times the a. They are only 
+
+86
+00:03:37,840 --> 00:03:41,300
+separated by a sign and 
+
+87
+00:03:42,720 --> 00:03:44,780
+therefore it is simply a 
+
+88
+00:03:44,780 --> 00:03:46,420
+sequence. and the experiment, 
+
+89
+00:03:46,600 --> 00:03:47,700
+as I said earlier, indicates 
+
+90
+00:03:47,760 --> 00:03:49,600
+how often the number 
+
+91
+00:03:49,600 --> 00:03:51,340
+is multiplied by itself. 
+
+92
+00:03:51,340 --> 00:03:57,300
+This is the case here m plus n times. 
+Let's 
+
+93
+00:03:57,300 --> 00:03:59,140
+move on to what happens when you 
+
+94
+00:03:59,140 --> 00:04:01,640
+raise a power. Here we have a 
+
+95
+00:04:01,640 --> 00:04:05,260
+to the power of m to the power of m. So we 
+
+96
+00:04:05,260 --> 00:04:08,620
+are now raising a power. For example, 
+
+97
+00:04:08,620 --> 00:04:12,220
+something like 3 to the power of 5 to the 
+power of 7. And whenever 
+
+98
+00:04:12,220 --> 00:04:14,200
+you raise a power, 
+
+99
+00:04:14,280 --> 00:04:16,640
+the two... exponents 
+
+100
+00:04:16,640 --> 00:04:20,040
+are multiplied. This means that 3 to the 
+power of 5 
+
+101
+00:04:20,040 --> 00:04:25,040
+to the power of 7 is 3 to the power of 5 
+times 7, i.e. 3 
+
+102
+00:04:25,040 --> 00:04:28,320
+to the power of 35. You can imagine the 
+whole thing as 
+
+103
+00:04:28,320 --> 00:04:29,940
+follows. 
+
+104
+00:04:29,940 --> 00:04:36,080
+First we have m times our a and then 
+
+105
+00:04:36,080 --> 00:04:38,440
+we have n times our a. We have 
+
+106
+00:04:38,440 --> 00:04:41,240
+a grid with, if you like, m 
+
+107
+00:04:41,240 --> 00:04:45,800
+rows and n columns and the question 
+
+108
+00:04:45,920 --> 00:04:47,060
+we have to ask ourselves now is 
+
+109
+00:04:47,060 --> 00:04:48,920
+simply how many a's we have. 
+
+110
+00:04:49,080 --> 00:04:51,140
+And that's the same calculation as 
+
+111
+00:04:51,140 --> 00:04:53,700
+before with the bricks in the 
+
+112
+00:04:53,700 --> 00:04:56,500
+classroom. We simply multiply the 
+
+113
+00:04:56,500 --> 00:04:58,540
+number of bricks in a row by 
+
+114
+00:04:58,540 --> 00:05:02,700
+the number of columns to get 
+
+115
+00:05:02,700 --> 00:05:06,480
+n times m. And that's how we can 
+
+116
+00:05:06,480 --> 00:05:08,460
+calculate the number of a's here. 
+
+117
+00:05:08,600 --> 00:05:11,440
+And that's why a power that 
+
+118
+00:05:11,440 --> 00:05:13,460
+is raised to the power... is then 
+
+119
+00:05:13,460 --> 00:05:15,080
+multiplied, as 
+
+120
+00:05:15,080 --> 00:05:15,660
+shown here above. 
+
+121
+00:05:19,370 --> 00:05:22,050
+Let's move on to multiplying 
+
+122
+00:05:22,050 --> 00:05:26,110
+powers with the same exponent. 
+
+123
+00:05:26,110 --> 00:05:28,850
+Here we see a to the power of n times b to 
+the power of n. This 
+
+124
+00:05:28,850 --> 00:05:30,170
+means that we have the same 
+
+125
+00:05:30,170 --> 00:05:33,050
+exponent n. However, the bases are 
+
+126
+00:05:33,050 --> 00:05:35,790
+different a and b. And in this case, 
+
+127
+00:05:35,790 --> 00:05:37,590
+it is simply the case that a to the power 
+of n 
+
+128
+00:05:37,590 --> 00:05:39,930
+times b to the power of n 
+
+129
+00:05:39,930 --> 00:05:41,170
+is simply a times b to the power of n . 
+This means that we offset 
+
+130
+00:05:41,170 --> 00:05:43,330
+the two bases against each other. The 
+
+131
+00:05:43,330 --> 00:05:45,230
+exponent is the same and it 
+
+132
+00:05:45,230 --> 00:05:46,310
+simply remains the same and we 
+
+133
+00:05:46,310 --> 00:05:47,510
+simply offset the whole 
+
+134
+00:05:47,510 --> 00:05:48,870
+bases against each other, or 
+
+135
+00:05:48,870 --> 00:05:50,570
+the two bases. And this 
+
+136
+00:05:50,570 --> 00:05:51,930
+works for the simple reason that 
+
+137
+00:05:52,730 --> 00:05:54,790
+we have just as many a's as 
+
+138
+00:05:54,790 --> 00:05:58,430
+b's, n times. And therefore 
+
+139
+00:05:58,430 --> 00:06:00,530
+we can always form pairs, a, b. And 
+
+140
+00:06:00,530 --> 00:06:02,550
+we then have n a, b pairs. That 
+
+141
+00:06:02,550 --> 00:06:06,550
+is then a, b to the power of n. That's how 
+
+142
+00:06:06,550 --> 00:06:08,170
+the whole thing works. 
+
+143
+00:06:10,920 --> 00:06:13,920
+Of course, you can not only 
+
+144
+00:06:13,920 --> 00:06:16,060
+multiply powers , you can also 
+
+145
+00:06:16,060 --> 00:06:19,540
+divide or divide them . For example, 
+
+146
+00:06:19,540 --> 00:06:22,940
+a to the power of m divided by a to the 
+power of n. This 
+
+147
+00:06:22,940 --> 00:06:24,040
+means 
+
+148
+00:06:24,040 --> 00:06:25,380
+that a distinction is made here again as 
+to whether we 
+
+149
+00:06:25,380 --> 00:06:27,240
+have the same base or the same 
+
+150
+00:06:27,240 --> 00:06:29,920
+exponent. In this case, we have the 
+
+151
+00:06:29,920 --> 00:06:33,600
+same base, i.e. a. And it is 
+
+152
+00:06:33,600 --> 00:06:35,340
+now the case that a to the power of m 
+divided by a 
+
+153
+00:06:35,340 --> 00:06:38,800
+to the power of n is a to the power of m 
+divided by a to the power of n. 
+
+154
+00:06:39,600 --> 00:06:42,300
+And whenever we have a divisor 
+
+155
+00:06:42,440 --> 00:06:44,860
+, we don't 
+
+156
+00:06:44,860 --> 00:06:47,860
+add as we do with multiplication , we 
+subtract. a 
+
+157
+00:06:47,860 --> 00:06:50,640
+to the power of m divided by a to the 
+power of n is a 
+
+158
+00:06:50,640 --> 00:06:56,220
+to the power of m minus n. This means that 
+if we 
+
+159
+00:06:56,220 --> 00:06:57,660
+
+160
+00:06:57,660 --> 00:06:59,420
+want to fill this with a few numbers , 4 
+to the power of 6 divided by 4 to the 
+power of 
+
+161
+00:06:59,420 --> 00:07:03,440
+2 is 4 to the power of 6 minus 2, i.e. 4 
+to the power of 
+
+162
+00:07:03,440 --> 00:07:05,860
+4. The whole thing works, you can 
+
+163
+00:07:05,860 --> 00:07:07,040
+simply make a fraction out of it. 
+
+164
+00:07:08,240 --> 00:07:10,120
+And then you can 
+
+165
+00:07:10,120 --> 00:07:15,100
+reduce the corresponding number of bases. 
+
+166
+00:07:15,100 --> 00:07:17,520
+In other words, for the example, which is 
+
+167
+00:07:17,520 --> 00:07:20,300
+practically drawn in here, a times a times 
+a times a times 
+
+168
+00:07:20,300 --> 00:07:23,080
+a times a times a, that is a to the power 
+of 
+
+169
+00:07:23,080 --> 00:07:26,100
+6. And a times a times a times a times a 
+would be a 
+
+170
+00:07:26,100 --> 00:07:30,460
+to the power of 4. And then we could 
+
+171
+00:07:30,460 --> 00:07:34,140
+reduce 4 a out. The 3, the 3 and that 
+
+172
+00:07:34,140 --> 00:07:35,920
+. Then only a times a remains, i.e. a 
+
+173
+00:07:35,920 --> 00:07:39,620
+to the power of 2. And 6 minus 4 is also 
+
+174
+00:07:39,620 --> 00:07:42,180
+2, so it only works 
+
+175
+00:07:42,180 --> 00:07:42,880
+by truncating. 
+
+176
+00:07:46,550 --> 00:07:50,340
+Another important point is that 
+
+177
+00:07:50,340 --> 00:07:53,640
+a negative exponent produces 
+
+178
+00:07:53,640 --> 00:07:55,700
+the reciprocal value. This means that a 
+
+179
+00:07:55,700 --> 00:07:59,460
+to the power of minus n is 1 by a to the 
+power of n. 
+
+180
+00:07:59,580 --> 00:08:03,000
+Or 5 to the power of minus 2 is 1 by 5 
+
+181
+00:08:03,000 --> 00:08:06,720
+to the power of 2. Or just 1 25, because 5 
+to the power of 2 
+
+182
+00:08:06,720 --> 00:08:09,260
+is 25. Why does this work? 
+
+183
+00:08:09,280 --> 00:08:11,480
+It works, it's quite simple. 
+
+184
+00:08:11,480 --> 00:08:13,620
+We can 
+
+185
+00:08:13,620 --> 00:08:17,760
+imagine a to the power of minus n as a to 
+the power of 0 minus n. 
+
+186
+00:08:17,760 --> 00:08:20,120
+We can add the 0. And if 
+
+187
+00:08:20,120 --> 00:08:22,040
+we now 
+
+188
+00:08:22,040 --> 00:08:24,480
+apply the power law the other way round, 
+that is to say, 
+
+189
+00:08:24,480 --> 00:08:27,020
+dividing a to the power of 0 minus n 
+
+190
+00:08:27,020 --> 00:08:29,520
+is a to the power of 0 divided by a to the 
+power of n. 
+
+191
+00:08:29,880 --> 00:08:32,280
+We can see here that we have the 
+
+192
+00:08:32,280 --> 00:08:34,960
+same base and we are dividing two 
+
+193
+00:08:34,960 --> 00:08:37,380
+powers by each other. That means 
+
+194
+00:08:37,600 --> 00:08:40,460
+we can 
+
+195
+00:08:40,460 --> 00:08:42,640
+write this as a fraction . And what comes 
+with it? 
+
+196
+00:08:43,100 --> 00:08:45,520
+Anything to the power of 0, whether it's 
+5, 
+
+197
+00:08:45,620 --> 00:08:49,400
+10 or 1, is always 1. a to the power of 0 
+is 
+
+198
+00:08:49,400 --> 00:08:52,480
+therefore only 1. And so we 
+
+199
+00:08:52,480 --> 00:08:54,980
+end up with 1 divided by a to the power of 
+n, and that 
+
+200
+00:08:54,980 --> 00:08:58,380
+'s 1 divided by a to the power of n. So 
+you can see that 
+
+201
+00:08:58,480 --> 00:09:02,700
+by adding a 
+
+202
+00:09:02,700 --> 00:09:04,860
+negative sign to the exponent 
+
+203
+00:09:05,000 --> 00:09:09,180
+, you get the reciprocal. So 
+
+204
+00:09:09,180 --> 00:09:12,380
+the power goes into the denominator. Here 
+you can see 
+
+205
+00:09:12,380 --> 00:09:13,540
+a few 
+
+206
+00:09:13,540 --> 00:09:16,100
+more examples. We have a times a to the 
+power of 
+
+207
+00:09:16,100 --> 00:09:18,320
+minus 1. Don't forget 
+
+208
+00:09:18,320 --> 00:09:21,380
+that the left-hand a is actually 
+
+209
+00:09:21,380 --> 00:09:23,460
+a to the power of 1. This means that we 
+have a 
+
+210
+00:09:23,460 --> 00:09:26,000
+to the power of 1 times a to the power of 
+minus 1. We have 
+
+211
+00:09:26,000 --> 00:09:29,240
+the same base. This means 
+
+212
+00:09:29,240 --> 00:09:32,700
+that we can 
+
+213
+00:09:32,700 --> 00:09:35,320
+add the two exponents together. That would 
+now be 1 minus 
+
+214
+00:09:35,320 --> 00:09:38,600
+1, which is 0. So we are 
+
+215
+00:09:38,600 --> 00:09:40,320
+left with a to the power of 0 and, as we 
+have just 
+
+216
+00:09:40,320 --> 00:09:45,120
+said, that is 1. The situation is 
+different with 3 to the power of 
+
+217
+00:09:45,120 --> 00:09:47,320
+minus 1. 3 to the power of minus 1 is 1 
+
+218
+00:09:47,320 --> 00:09:49,520
+divided by 3 to the power of 1, or a 
+
+219
+00:09:49,520 --> 00:09:53,020
+third. The 
+
+220
+00:09:53,020 --> 00:09:55,420
+example below is more or less the same as 
+the one above, only 
+
+221
+00:09:55,420 --> 00:09:56,960
+this time with a detailed 
+
+222
+00:09:56,960 --> 00:09:59,060
+calculation. We have 3 times 3 to the 
+power of 
+
+223
+00:09:59,060 --> 00:10:00,720
+minus 1, which is actually the 
+
+224
+00:10:00,720 --> 00:10:02,820
+same as 3 to the power of 1 times 3 to the 
+power of minus 
+
+225
+00:10:02,820 --> 00:10:05,280
+1. Then we have 1 minus 1 
+
+226
+00:10:05,280 --> 00:10:08,280
+is 0 again , or 3 to the power of 0 is 
+
+227
+00:10:08,280 --> 00:10:09,560
+1 again. This already agrees with 
+
+228
+00:10:09,560 --> 00:10:11,840
+our final result. 
+
+229
+00:10:11,840 --> 00:10:13,240
+But you can also 
+
+230
+00:10:13,240 --> 00:10:15,920
+do the whole thing in detail. Then you get 
+3 times 1 
+
+231
+00:10:15,920 --> 00:10:17,880
+third, 3 to the power of minus 1 is 1 
+
+232
+00:10:17,880 --> 00:10:20,240
+third. And then you can add the 3 to 
+
+233
+00:10:20,240 --> 00:10:21,460
+the numerator and we have 3 
+
+234
+00:10:21,460 --> 00:10:24,920
+thirds. We can, and 3 thirds 
+
+235
+00:10:24,920 --> 00:10:26,120
+is a whole, you could 
+
+236
+00:10:26,120 --> 00:10:27,980
+shorten that or say it's a 
+
+237
+00:10:27,980 --> 00:10:30,080
+whole. In any case, it's 
+
+238
+00:10:30,080 --> 00:10:30,640
+1 at the end 
+
+239
+00:10:33,390 --> 00:10:35,610
+. Now let's move on to how you 
+
+240
+00:10:35,610 --> 00:10:36,930
+
+241
+00:10:36,930 --> 00:10:40,290
+can switch from power notation to root 
+notation. 
+
+242
+00:10:40,290 --> 00:10:45,860
+Here, we see that a raised to the power of 
+1 by 
+
+243
+00:10:45,860 --> 00:10:48,140
+m is equal to the mth root of a. 
+
+244
+00:10:49,020 --> 00:10:50,480
+In other words, you can see that the 
+
+245
+00:10:50,480 --> 00:10:54,000
+root exponent is equal to the denominator 
+
+246
+00:10:54,000 --> 00:10:58,520
+of the... exponent. In other words, 27 to 
+the power of one 
+
+247
+00:10:58,520 --> 00:11:00,460
+third is the same as the 
+
+248
+00:11:00,460 --> 00:11:05,520
+third root of 27. And to 
+
+249
+00:11:05,520 --> 00:11:07,460
+make this formula complete, the 
+
+250
+00:11:07,460 --> 00:11:11,360
+numerator is added, the n. Because a to 
+the power of n 
+
+251
+00:11:11,360 --> 00:11:13,440
+divided by m is equal to the mth root 
+
+252
+00:11:13,440 --> 00:11:16,760
+of a to the power of n. So the exponent of 
+the 
+
+253
+00:11:16,760 --> 00:11:19,580
+radical is still 
+
+254
+00:11:19,580 --> 00:11:23,580
+the exponent here and the root exponent 
+
+255
+00:11:23,580 --> 00:11:29,200
+is the denominator of the fraction in the 
+
+256
+00:11:29,200 --> 00:11:33,400
+exponent. So you can see here, this 
+
+257
+00:11:33,400 --> 00:11:35,100
+is the m, this is the n, that is 
+
+258
+00:11:35,100 --> 00:11:37,780
+as much as 4 to the power of 3 half is 
+equal to 
+
+259
+00:11:37,780 --> 00:11:40,780
+the second root of 4 to the power of 3. If 
+
+260
+00:11:40,780 --> 00:11:42,560
+you see that it is still in the 
+
+261
+00:11:42,560 --> 00:11:44,420
+exponent, here it is also in the 
+
+262
+00:11:44,420 --> 00:11:47,240
+numerator of the exponent and the 
+
+263
+00:11:47,240 --> 00:11:49,660
+root exponent is in the denominator. 
+
+264
+00:11:49,680 --> 00:11:53,580
+Denominator of the exponent. This means 
+that 
+
+265
+00:11:53,580 --> 00:11:55,300
+you can always switch between 
+
+266
+00:11:55,300 --> 00:11:56,400
+power notation and 
+
+267
+00:11:56,400 --> 00:12:00,510
+root notation. This brings us to 
+
+268
+00:12:00,510 --> 00:12:02,070
+the next 
+
+269
+00:12:02,070 --> 00:12:03,530
+topic, which is partial 
+
+270
+00:12:03,530 --> 00:12:06,930
+ root extraction. Partial 
+
+271
+00:12:06,930 --> 00:12:10,710
+ root extraction is used to 
+
+272
+00:12:10,710 --> 00:12:16,110
+make quite large numbers smaller and thus 
+to 
+
+273
+00:12:16,110 --> 00:12:17,870
+
+274
+00:12:17,870 --> 00:12:20,030
+extract at least part of the root , even 
+if you may not be able to extract the 
+whole... 
+
+275
+00:12:20,050 --> 00:12:21,290
+root may not be possible. 
+
+276
+00:12:22,030 --> 00:12:24,630
+And that means that the 
+
+277
+00:12:24,630 --> 00:12:26,370
+root law is important here : the root of A 
+times B 
+
+278
+00:12:26,370 --> 00:12:28,330
+is equal to the root of A times the 
+
+279
+00:12:28,330 --> 00:12:29,530
+root of B. As I said, this works 
+
+280
+00:12:29,610 --> 00:12:30,710
+as long as 
+
+281
+00:12:30,710 --> 00:12:33,730
+you are multiplying. And the idea with 
+partial 
+
+282
+00:12:33,730 --> 00:12:35,230
+root extraction is simply to 
+
+283
+00:12:35,230 --> 00:12:37,390
+divide the radical into factors 
+
+284
+00:12:37,430 --> 00:12:39,210
+from which we 
+
+285
+00:12:39,210 --> 00:12:42,570
+can extract the root of at least one 
+factor. Yes, 
+
+286
+00:12:42,690 --> 00:12:44,170
+so there's no point in doing it 
+
+287
+00:12:44,170 --> 00:12:46,030
+clumsily and 
+
+288
+00:12:46,030 --> 00:12:47,330
+still 
+
+289
+00:12:47,330 --> 00:12:48,190
+not knowing the roots of both factors , 
+which is 
+
+290
+00:12:48,190 --> 00:12:50,250
+unfavorable. You should 
+
+291
+00:12:50,250 --> 00:12:52,410
+
+292
+00:12:52,410 --> 00:12:54,190
+
+293
+00:12:54,190 --> 00:12:58,350
+be able to take the root of one or more of 
+the two factors. And you 
+
+294
+00:12:58,350 --> 00:13:00,170
+then divide these factors into individual 
+roots in order to extract the 
+
+295
+00:13:00,170 --> 00:13:05,250
+individual roots. And you 
+
+296
+00:13:05,250 --> 00:13:07,070
+then take all the roots that you can 
+
+297
+00:13:07,070 --> 00:13:08,730
+and cannot take, 
+
+298
+00:13:08,770 --> 00:13:10,990
+which unfortunately remain. For 
+
+299
+00:13:10,990 --> 00:13:12,210
+example, here we have the root 
+
+300
+00:13:12,210 --> 00:13:15,290
+of 44, which can be written as 
+
+301
+00:13:15,290 --> 00:13:17,210
+the root of 4 times 11. 
+
+302
+00:13:17,210 --> 00:13:18,430
+Unfortunately, we cannot take the root of 
+11 
+
+303
+00:13:18,430 --> 00:13:20,510
+, but we can take the root of 4. This 
+means that we can take 
+
+304
+00:13:20,610 --> 00:13:22,870
+the root of 4 times the root of 
+
+305
+00:13:22,870 --> 00:13:25,810
+11. The root of 4 is 2. 
+
+306
+00:13:25,810 --> 00:13:27,510
+Unfortunately, as 
+
+307
+00:13:27,510 --> 00:13:29,390
+I said earlier, we cannot easily 
+
+308
+00:13:29,390 --> 00:13:31,770
+take the root of 11. So we 
+
+309
+00:13:31,770 --> 00:13:34,590
+only take the root partially, i.e. 2 times 
+the root of 11. 
+
+310
+00:13:34,590 --> 00:13:39,830
+Here below is an example of what 
+
+311
+00:13:39,830 --> 00:13:42,610
+is actually the advantageous 
+
+312
+00:13:42,610 --> 00:13:43,970
+root extraction. We have the 
+
+313
+00:13:43,970 --> 00:13:47,750
+root of 1600 and that could be 
+
+314
+00:13:47,750 --> 00:13:50,110
+written as 16 times the root of 
+
+315
+00:13:50,110 --> 00:13:56,570
+100 or 16 
+
+316
+00:13:56,810 --> 00:13:58,030
+
+317
+00:13:58,030 --> 00:14:00,630
+
+318
+00:14:00,630 --> 00:14:02,430
+
+319
+00:14:05,030 --> 00:14:07,770
+times 4 times 25, sorry, not 16 times the 
+root of 100, but the root of 16 times 100. 
+
+320
+00:14:07,770 --> 00:14:11,010
+And if we now 
+
+321
+00:14:11,010 --> 00:14:13,790
+think about it for a moment, we 
+
+322
+00:14:13,790 --> 00:14:15,570
+realize that we can take the 
+
+323
+00:14:15,570 --> 00:14:17,410
+root of 16 , we can 
+
+324
+00:14:17,410 --> 00:14:19,090
+take the root of 4 and 
+
+325
+00:14:19,090 --> 00:14:20,430
+we can also take the root of 25. 
+
+326
+00:14:21,030 --> 00:14:23,870
+This means that we now put all 
+
+327
+00:14:23,870 --> 00:14:25,190
+three factors under an 
+
+328
+00:14:25,190 --> 00:14:27,070
+independent root. 
+
+329
+00:14:27,070 --> 00:14:29,290
+This gives us the root of 16 times the 
+root 
+
+330
+00:14:29,290 --> 00:14:32,130
+of 4 times the root of 25. The 
+
+331
+00:14:32,130 --> 00:14:34,470
+root of 16 is 4. The root of 
+
+332
+00:14:34,470 --> 00:14:36,990
+4 is 2, the root of 25 is 5. 
+
+333
+00:14:37,070 --> 00:14:41,030
+This gives us 4 times 2 times 5. And 
+
+334
+00:14:41,030 --> 00:14:42,970
+we now have to 
+
+335
+00:14:42,970 --> 00:14:45,110
+carry out this multiplication . 
+
+336
+00:14:45,110 --> 00:14:47,030
+We multiply this and arrive at 40. This 
+
+337
+00:14:47,030 --> 00:14:48,650
+means that we can finally say that 
+
+338
+00:14:48,830 --> 00:14:51,770
+the square root of 1600 is 40. 
+
+339
+00:14:56,120 --> 00:14:57,760
+Here is another 
+
+340
+00:14:57,760 --> 00:15:01,160
+example. Root 2 times 2 to the power of 3 
+to the power of 
+
+341
+00:15:01,160 --> 00:15:02,740
+1.5. So we now need 
+
+342
+00:15:02,740 --> 00:15:06,140
+all the 
+
+343
+00:15:06,140 --> 00:15:08,920
+laws presented in this webinar , i.e. 
+power laws and also 
+
+344
+00:15:08,920 --> 00:15:11,620
+the root law. And we also need to 
+
+345
+00:15:11,620 --> 00:15:13,020
+
+346
+00:15:13,020 --> 00:15:14,300
+be able to switch from root notation to 
+power notation. 
+
+347
+00:15:15,580 --> 00:15:17,340
+Let's start with the square root of 2. 
+
+348
+00:15:17,540 --> 00:15:20,020
+The square root of 2 is 2 to the power of 
+1.5. There' 
+
+349
+00:15:20,020 --> 00:15:21,600
+s nothing at the top here , which means it 
+
+350
+00:15:21,600 --> 00:15:23,080
+'s the square root, so it' 
+
+351
+00:15:23,080 --> 00:15:26,500
+s basically a 2. and the radical has 
+
+352
+00:15:26,500 --> 00:15:27,880
+no exponent, which means it's a 
+
+353
+00:15:27,880 --> 00:15:30,960
+1, so we get 2 to the power of 1 half for 
+
+354
+00:15:30,960 --> 00:15:33,340
+the root of 2 here on the right we have 
+
+355
+00:15:33,340 --> 00:15:36,000
+2 to the power of 3 to the power of 1 
+half, which means 
+
+356
+00:15:36,000 --> 00:15:38,700
+we are exponentiating a power, so 
+
+357
+00:15:38,700 --> 00:15:41,200
+we have to multiply 3 x 1 half 
+
+358
+00:15:41,200 --> 00:15:43,780
+is 3 half and look at it all over 
+
+359
+00:15:43,780 --> 00:15:45,140
+again we see we have the 
+
+360
+00:15:45,140 --> 00:15:47,720
+same base 2 but we have 
+
+361
+00:15:47,720 --> 00:15:49,180
+different exponents 
+
+362
+00:15:49,180 --> 00:15:51,520
+, but that's not a problem because we can 
+
+363
+00:15:51,520 --> 00:15:52,860
+now 
+
+364
+00:15:52,860 --> 00:15:54,280
+simply 
+
+365
+00:15:54,280 --> 00:15:58,080
+add the two exponents because we have the 
+same base . So 1.5 plus 3.5. This gives 
+
+366
+00:15:58,080 --> 00:16:00,520
+us 2 to the power of 1.5 plus 3.5. 
+
+367
+00:16:00,580 --> 00:16:03,780
+That's 2 to the power of 4.5. Now you 
+could 
+
+368
+00:16:03,780 --> 00:16:06,040
+of course say, okay, 2 to the power of 4.5 
+is 
+
+369
+00:16:06,040 --> 00:16:09,400
+2 to the power of 2. That's 4. Then we'd 
+be 
+
+370
+00:16:09,400 --> 00:16:11,520
+right down here. But you can 
+
+371
+00:16:11,520 --> 00:16:15,080
+also convert this fraction back into 
+
+372
+00:16:15,080 --> 00:16:17,400
+root notation, in which case 
+
+373
+00:16:17,400 --> 00:16:20,600
+it is 2 to the power of 4 and 
+
+374
+00:16:20,600 --> 00:16:21,920
+the square root of that , i.e. the 
+
+375
+00:16:21,920 --> 00:16:25,860
+square root of 2 to the power of 4 and 2 
+to the power of 
+
+376
+00:16:25,860 --> 00:16:28,400
+4 is 16 and the square root of 16 
+
+377
+00:16:28,400 --> 00:16:30,680
+is 4. So you can see that although we 
+
+378
+00:16:30,680 --> 00:16:32,460
+
+379
+00:16:32,460 --> 00:16:33,740
+have chosen a completely different way , 
+we get the same 
+
+380
+00:16:33,740 --> 00:16:35,440
+result and that is 4. 
+
+381
+00:16:39,750 --> 00:16:41,190
+Here we have another 
+
+382
+00:16:41,190 --> 00:16:45,150
+example, 3 to the power of 3 divided by 9 
+or 3 
+
+383
+00:16:45,150 --> 00:16:47,030
+to the power of 3 ninths, as you 
+
+384
+00:16:47,030 --> 00:16:52,540
+would like to express it. 3 to the power 
+of 3 times 1 ninth 
+
+385
+00:16:52,600 --> 00:16:53,720
+, which is the same 
+
+386
+00:16:53,720 --> 00:16:58,360
+as 3 to the power of 3 times 1 ninth. And 
+
+387
+00:16:58,360 --> 00:17:00,840
+we can write the 9 as 3 to the power of 2. 
+This gives 
+
+388
+00:17:00,840 --> 00:17:03,980
+us 3 to the power of 3 times 1 by 3 
+
+389
+00:17:03,980 --> 00:17:07,360
+to the power of 2. Now comes the matter of 
+
+390
+00:17:07,360 --> 00:17:08,800
+the negative exponent again 
+
+391
+00:17:08,800 --> 00:17:11,920
+, or the inverse fraction. And 
+
+392
+00:17:11,920 --> 00:17:13,780
+we can write 1 divided by 3 to the power 
+of 2 
+
+393
+00:17:13,780 --> 00:17:18,200
+as 3 to the power of minus 2. This gives 
+us 
+
+394
+00:17:18,200 --> 00:17:20,480
+3 to the power of 3. 3 to the power of 3 
+times 3 to the power of minus 
+
+395
+00:17:20,480 --> 00:17:22,120
+2. Again, we see that we 
+
+396
+00:17:22,120 --> 00:17:23,580
+have the same base both times. 
+
+397
+00:17:23,580 --> 00:17:25,560
+In other words, we simply add 
+
+398
+00:17:25,560 --> 00:17:27,640
+our two exponents, i.e. 3 plus 
+
+399
+00:17:27,640 --> 00:17:31,080
+minus 2. This gives us 3 to the power of 3 
+
+400
+00:17:31,080 --> 00:17:35,040
+plus minus 2. 3 plus minus 2 is 1. 
+
+401
+00:17:35,120 --> 00:17:37,960
+This gives us 3 to the power of 1, i.e. 3. 
+
+402
+00:17:38,920 --> 00:17:40,840
+And we have already 
+
+403
+00:17:40,840 --> 00:17:42,240
+simplified this as much as possible. 
+
+404
+00:17:44,800 --> 00:17:46,500
+That brings us to the end of 
+
+405
+00:17:46,500 --> 00:17:48,280
+the webinar. Thank you 
+
+406
+00:17:48,280 --> 00:17:49,880
+very much for your attention. 

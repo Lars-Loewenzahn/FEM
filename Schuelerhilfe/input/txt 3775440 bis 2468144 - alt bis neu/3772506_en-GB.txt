@@ -1,0 +1,2041 @@
+﻿1
+00:00:01,580 --> 00:00:03,400
+Welcome to the webinar 
+
+2
+00:00:03,400 --> 00:00:06,680
+Combinatorial Counting Methods. 
+
+3
+00:00:06,680 --> 00:00:08,620
+In this webinar , we will 
+
+4
+00:00:08,620 --> 00:00:10,240
+
+5
+00:00:10,240 --> 00:00:12,020
+look at various counting methods. We will 
+first look 
+
+6
+00:00:12,020 --> 00:00:13,440
+at why we need the 
+
+7
+00:00:13,440 --> 00:00:15,940
+counting methods and which methods 
+
+8
+00:00:15,940 --> 00:00:18,580
+exist at all. We will then 
+
+9
+00:00:18,580 --> 00:00:20,220
+look at these, I'll 
+
+10
+00:00:20,220 --> 00:00:21,320
+say it in advance, three 
+
+11
+00:00:21,320 --> 00:00:23,080
+methods. These are 
+
+12
+00:00:23,080 --> 00:00:25,400
+permutation, combination and 
+
+13
+00:00:25,400 --> 00:00:28,560
+variation. We will 
+
+14
+00:00:28,560 --> 00:00:31,220
+
+15
+00:00:31,220 --> 00:00:33,260
+present the three cases or a total of six 
+cases using an example and 
+
+16
+00:00:33,260 --> 00:00:34,500
+at the very end we will 
+
+17
+00:00:34,540 --> 00:00:36,120
+
+18
+00:00:36,120 --> 00:00:37,480
+
+19
+00:00:37,480 --> 00:00:38,880
+summarize the formulas that we have shown 
+or used again using a small collection of 
+formulas. 
+
+20
+00:00:39,300 --> 00:00:42,120
+It is important here that we 
+
+21
+00:00:42,120 --> 00:00:43,900
+differentiate between combination and 
+
+22
+00:00:43,900 --> 00:00:45,940
+variation without 
+
+23
+00:00:45,940 --> 00:00:48,400
+repetition and with repetition, and 
+
+24
+00:00:48,400 --> 00:00:50,660
+with permutation 
+
+25
+00:00:50,780 --> 00:00:52,000
+we differentiate between 
+
+26
+00:00:52,000 --> 00:00:53,440
+can we differentiate the elements 
+
+27
+00:00:53,440 --> 00:00:56,240
+and cannot differentiate. 
+
+28
+00:00:56,240 --> 00:00:57,400
+
+29
+00:00:57,400 --> 00:00:58,720
+Of course, I will explain again in which 
+case we have each case and 
+
+30
+00:00:58,720 --> 00:01:00,440
+also why we have this case. 
+
+31
+00:01:00,820 --> 00:01:03,080
+But let's start first, why do 
+
+32
+00:01:03,080 --> 00:01:05,300
+we need counting methods and what 
+
+33
+00:01:05,300 --> 00:01:07,020
+are they anyway? 
+
+34
+00:01:07,020 --> 00:01:09,300
+Counting methods are methods for 
+
+35
+00:01:09,300 --> 00:01:11,280
+
+36
+00:01:11,280 --> 00:01:15,060
+
+37
+00:01:15,060 --> 00:01:17,320
+counting combinations, permutations and 
+variations of sets in a distinguishable or 
+indistinguishable way. 
+
+38
+00:01:17,400 --> 00:01:20,460
+In other words, we often need this 
+
+39
+00:01:20,460 --> 00:01:21,540
+in probability theory, 
+
+40
+00:01:21,580 --> 00:01:22,420
+because the general 
+
+41
+00:01:22,420 --> 00:01:23,700
+concept of probability is 
+
+42
+00:01:23,700 --> 00:01:26,720
+the number of favorable outcomes divided 
+by 
+
+43
+00:01:26,720 --> 00:01:28,280
+the number of all possible outcomes. 
+
+44
+00:01:28,880 --> 00:01:32,800
+Using these three methods, i.e. 
+
+45
+00:01:32,800 --> 00:01:34,220
+combination, permutation and 
+
+46
+00:01:34,220 --> 00:01:36,300
+variation, we can 
+
+47
+00:01:36,300 --> 00:01:39,920
+determine the denominator of this 
+fraction. This is because the 
+
+48
+00:01:39,920 --> 00:01:41,460
+numerator of the fraction is actually 
+
+49
+00:01:41,460 --> 00:01:42,600
+always determined quite quickly or 
+
+50
+00:01:42,600 --> 00:01:43,100
+perhaps 
+
+51
+00:01:43,100 --> 00:01:45,000
+already indirectly 
+
+52
+00:01:45,000 --> 00:01:47,460
+specified in the task. However, it is 
+
+53
+00:01:47,460 --> 00:01:49,140
+often difficult to 
+
+54
+00:01:49,140 --> 00:01:51,360
+
+55
+00:01:51,360 --> 00:01:52,880
+determine the denominator, i.e. the number 
+of all possible results . Cases 
+
+56
+00:01:52,880 --> 00:01:54,000
+can occur? How 
+
+57
+00:01:54,000 --> 00:01:56,360
+many combinations are there? And that's 
+exactly 
+
+58
+00:01:56,360 --> 00:01:58,280
+what we'll be looking at in this 
+
+59
+00:01:58,280 --> 00:02:00,860
+webinar. In other words, we 
+
+60
+00:02:00,860 --> 00:02:02,260
+are less concerned with the 
+
+61
+00:02:02,260 --> 00:02:03,320
+calculation of probability and 
+
+62
+00:02:03,320 --> 00:02:06,120
+more with the number of all possible 
+
+63
+00:02:06,120 --> 00:02:07,680
+events, i.e. combinations. 
+
+64
+00:02:08,620 --> 00:02:10,540
+And that brings us to 
+
+65
+00:02:10,540 --> 00:02:12,200
+permutation, variation and 
+
+66
+00:02:12,200 --> 00:02:15,600
+combination. The permutation indicates 
+
+67
+00:02:15,700 --> 00:02:17,520
+how many possibilities there are to 
+
+68
+00:02:17,520 --> 00:02:19,460
+sort the elements of a set. 
+
+69
+00:02:20,860 --> 00:02:21,960
+An example of this is the 
+
+70
+00:02:21,960 --> 00:02:23,540
+allocation of seats at a table. 
+
+71
+00:02:23,540 --> 00:02:25,220
+We also have this as an example. And with 
+
+72
+00:02:25,220 --> 00:02:27,300
+permutation, we differentiate 
+
+73
+00:02:27,300 --> 00:02:29,380
+between distinguishable and 
+
+74
+00:02:29,380 --> 00:02:32,320
+indistinguishable. The variation gives 
+
+75
+00:02:32,320 --> 00:02:33,880
+all the many possibilities that there 
+
+76
+00:02:33,880 --> 00:02:35,200
+is an ordered and an 
+
+77
+00:02:35,200 --> 00:02:37,740
+unordered sub-distribution of a 
+
+78
+00:02:37,740 --> 00:02:41,780
+subset of L elements. 
+
+79
+00:02:41,780 --> 00:02:44,260
+In other words, we have an example. 
+
+80
+00:02:45,040 --> 00:02:46,600
+A number of athletes take part 
+
+81
+00:02:46,600 --> 00:02:48,260
+in a competition with gold, 
+
+82
+00:02:48,360 --> 00:02:50,860
+silver and bronze medals. The important 
+
+83
+00:02:50,860 --> 00:02:53,400
+thing is always whether you 
+
+84
+00:02:53,400 --> 00:02:54,660
+
+85
+00:02:54,660 --> 00:02:57,580
+look at this with repetition or without 
+repetition . And that also depends 
+
+86
+00:02:57,580 --> 00:02:59,820
+on examples. We have 
+
+87
+00:02:59,820 --> 00:03:06,300
+one example with repetition 
+
+88
+00:03:06,300 --> 00:03:08,700
+and one example without repetition. 
+
+89
+00:03:09,240 --> 00:03:10,740
+The same applies to the combination. 
+
+90
+00:03:10,740 --> 00:03:12,140
+We also have two examples for this, 
+
+91
+00:03:12,280 --> 00:03:15,820
+so that you can easily see what 
+
+92
+00:03:15,820 --> 00:03:17,480
+it depends on. I'll 
+
+93
+00:03:17,480 --> 00:03:18,840
+start by saying that this is actually 
+always from 
+
+94
+00:03:18,840 --> 00:03:20,000
+the 
+
+95
+00:03:20,000 --> 00:03:22,860
+Unfortunately, you have to read the text 
+accordingly and 
+
+96
+00:03:22,860 --> 00:03:25,460
+understand and interpret it. 
+
+97
+00:03:25,460 --> 00:03:26,440
+Finally, we have the 
+
+98
+00:03:26,440 --> 00:03:29,720
+combination. Combinations indicate 
+
+99
+00:03:29,780 --> 00:03:31,360
+how many possibilities there are to 
+
+100
+00:03:31,360 --> 00:03:34,160
+
+101
+00:03:34,160 --> 00:03:35,660
+take k elements from an n-element set. 
+This is simply the 
+
+102
+00:03:35,660 --> 00:03:37,260
+binomial coefficient. So 
+
+103
+00:03:37,260 --> 00:03:38,820
+combinations are actually 
+
+104
+00:03:38,980 --> 00:03:41,200
+what we 
+
+105
+00:03:41,200 --> 00:03:42,640
+need in stochastics for the binomial 
+coefficient 
+
+106
+00:03:42,880 --> 00:03:44,160
+, or for the Benulli chain. 
+
+107
+00:03:44,960 --> 00:03:47,860
+An example of this would be 
+
+108
+00:03:47,860 --> 00:03:49,860
+How often do you hear it clarified when 
+
+109
+00:03:49,860 --> 00:03:53,440
+ten people post each other? And 
+
+110
+00:03:53,440 --> 00:03:55,260
+so I would say, let's start 
+
+111
+00:03:55,260 --> 00:03:57,480
+with the permutation. In this 
+
+112
+00:03:57,480 --> 00:04:00,120
+case, the permutation is of 
+
+113
+00:04:00,120 --> 00:04:01,980
+distinguishable quantities, because we 
+
+114
+00:04:01,980 --> 00:04:04,400
+have the example of 
+
+115
+00:04:04,400 --> 00:04:06,260
+five people sitting at a table. And the 
+
+116
+00:04:06,260 --> 00:04:07,380
+question now is, how many 
+
+117
+00:04:07,380 --> 00:04:08,800
+possible distributions are there? 
+
+118
+00:04:08,820 --> 00:04:09,740
+
+119
+00:04:09,740 --> 00:04:10,660
+Of course, we can keep the five people 
+apart. 
+
+120
+00:04:10,660 --> 00:04:12,020
+Let's assume that they all have a 
+
+121
+00:04:12,020 --> 00:04:13,800
+name, so we can 
+
+122
+00:04:13,800 --> 00:04:15,380
+easily tell them apart and 
+
+123
+00:04:15,380 --> 00:04:16,380
+calculate how many 
+
+124
+00:04:16,380 --> 00:04:17,880
+ways there are to distribute these five 
+
+125
+00:04:17,880 --> 00:04:19,460
+people at this beautiful table 
+
+126
+00:04:19,460 --> 00:04:23,480
+. The formula for this is 
+
+127
+00:04:23,480 --> 00:04:25,040
+simply the factorial of n, i.e. the 
+
+128
+00:04:25,040 --> 00:04:27,120
+n exclamation mark. The exclamation mark 
+
+129
+00:04:27,120 --> 00:04:28,180
+is the formula symbol for the 
+
+130
+00:04:28,180 --> 00:04:30,780
+factorial, which means that 
+
+131
+00:04:30,780 --> 00:04:32,960
+all numbers up to n 
+
+132
+00:04:32,960 --> 00:04:35,540
+should be multiplied together. This means 
+that if 
+
+133
+00:04:35,540 --> 00:04:36,860
+the factorial of 5 is 
+
+134
+00:04:36,860 --> 00:04:38,740
+described here , that is 5 times 4 times 3 
+
+135
+00:04:38,740 --> 00:04:41,840
+times 2 times 1 or 1 times 2 times 3 times 
+4 
+
+136
+00:04:41,840 --> 00:04:45,600
+times 5. In this case, that is 120. This 
+means that 
+
+137
+00:04:45,600 --> 00:04:47,940
+there are 120 ways to distribute the 
+
+138
+00:04:47,940 --> 00:04:48,880
+seats. 
+
+139
+00:04:51,700 --> 00:04:53,200
+How do we come up with that? You can 
+
+140
+00:04:53,200 --> 00:04:55,200
+also imagine the whole thing. The 
+
+141
+00:04:55,200 --> 00:04:57,640
+first person takes a seat. They have 5 
+
+142
+00:04:57,640 --> 00:05:01,220
+seats to choose from, which they 
+
+143
+00:05:01,220 --> 00:05:03,520
+can use. When they have sat down, 
+
+144
+00:05:03,560 --> 00:05:05,860
+the next person has four more 
+
+145
+00:05:05,860 --> 00:05:08,060
+seats to choose from. Once they have sat 
+down, 
+
+146
+00:05:08,060 --> 00:05:09,520
+the next person has 
+
+147
+00:05:09,520 --> 00:05:11,560
+three more seats to 
+
+148
+00:05:11,560 --> 00:05:13,660
+choose from and the next person only has 
+
+149
+00:05:13,660 --> 00:05:16,180
+two, until the last person only 
+
+150
+00:05:16,180 --> 00:05:18,540
+has one seat left and that's how 
+
+151
+00:05:18,540 --> 00:05:19,560
+it all adds up. If we do 
+
+152
+00:05:19,560 --> 00:05:23,200
+the math, 5 times 4 times 3 times 2 is 
+
+153
+00:05:23,200 --> 00:05:28,080
+already 120 and then 1. That's how we get 
+
+154
+00:05:28,080 --> 00:05:30,120
+to 120, or rather we have. 
+
+155
+00:05:30,120 --> 00:05:31,340
+.. nothing more than the 
+
+156
+00:05:31,340 --> 00:05:36,180
+faculty. And that brings us 
+
+157
+00:05:36,180 --> 00:05:38,300
+to permutation 
+
+158
+00:05:38,300 --> 00:05:44,260
+2. We are dealing with a 
+
+159
+00:05:44,260 --> 00:05:47,080
+group of indistinguishable elements. 
+
+160
+00:05:47,080 --> 00:05:49,800
+In other words, we now have the case 
+
+161
+00:05:49,820 --> 00:05:53,040
+that we have spheres, blue, red and 
+
+162
+00:05:53,040 --> 00:05:55,900
+green, but we can 
+
+163
+00:05:55,900 --> 00:05:57,240
+no longer 
+
+164
+00:05:57,240 --> 00:05:59,840
+distinguish the blue spheres from each 
+other. That's the big 
+
+165
+00:05:59,840 --> 00:06:02,040
+difference compared to just now. 
+
+166
+00:06:02,040 --> 00:06:03,720
+We could tell all the people apart. 
+
+167
+00:06:03,720 --> 00:06:04,860
+In this case, we can't 
+
+168
+00:06:04,860 --> 00:06:06,600
+tell the balls apart. We have seven blue 
+
+169
+00:06:06,600 --> 00:06:07,800
+balls that we can 
+
+170
+00:06:07,800 --> 00:06:09,160
+'t tell apart. Ten red ones that 
+
+171
+00:06:09,160 --> 00:06:10,180
+we 
+
+172
+00:06:10,180 --> 00:06:11,880
+can 't tell apart. And three green balls 
+that we 
+
+173
+00:06:11,880 --> 00:06:12,680
+
+174
+00:06:12,680 --> 00:06:14,560
+can 't tell apart. This means that the 
+result of 
+
+175
+00:06:14,560 --> 00:06:16,140
+the distribution of these balls is 
+
+176
+00:06:16,140 --> 00:06:18,640
+then given according to the pattern blue, 
+
+177
+00:06:18,640 --> 00:06:21,320
+red, green, green, blue, red. This 
+
+178
+00:06:21,320 --> 00:06:22,900
+does not mean a red ball with the number 
+
+179
+00:06:22,900 --> 00:06:25,640
+1, because they have no numbers. 
+
+180
+00:06:25,640 --> 00:06:27,180
+There is only one red ball for us. 
+
+181
+00:06:27,180 --> 00:06:28,500
+As we have already 
+
+182
+00:06:28,500 --> 00:06:31,440
+said several times , we cannot distinguish 
+between the red balls. 
+
+183
+00:06:31,760 --> 00:06:33,900
+And that's why we now have 
+
+184
+00:06:33,900 --> 00:06:35,660
+permutations with groups of 
+
+185
+00:06:35,660 --> 00:06:40,180
+indistinguishable elements. And that's 
+what 
+
+186
+00:06:40,180 --> 00:06:42,140
+we calculate. We simply form the 
+
+187
+00:06:42,140 --> 00:06:45,080
+factorial of the number of all spheres and 
+
+188
+00:06:45,080 --> 00:06:48,380
+then divide this factorial by 
+
+189
+00:06:48,380 --> 00:06:50,320
+the product of the factorials of the 
+
+190
+00:06:50,320 --> 00:06:52,920
+subgroups. In other words, we have 
+
+191
+00:06:52,920 --> 00:06:54,200
+seven blue spheres here, i.e. 
+
+192
+00:06:54,200 --> 00:06:56,920
+20 factorials divided by the factorial of 
+
+193
+00:06:56,920 --> 00:06:59,960
+seven times ten red spheres, i.e. times 
+
+194
+00:06:59,960 --> 00:07:03,040
+the factorial of ten times the 
+
+195
+00:07:03,040 --> 00:07:04,620
+factorial of three for the three 
+
+196
+00:07:04,620 --> 00:07:06,900
+green spheres. And as 
+
+197
+00:07:06,900 --> 00:07:08,420
+I said, these are numbers that can only be 
+calculated 
+
+198
+00:07:08,420 --> 00:07:09,500
+with a calculator, 
+
+199
+00:07:09,500 --> 00:07:13,040
+otherwise they would be too large, and 
+that is the 
+
+200
+00:07:13,040 --> 00:07:17,280
+number of possible combinations 
+
+201
+00:07:17,280 --> 00:07:18,960
+that we can create in this way. 
+
+202
+00:07:18,960 --> 00:07:20,680
+As I said, the combinations 
+
+203
+00:07:20,680 --> 00:07:23,880
+only consist of blue, red and green and 
+
+204
+00:07:25,870 --> 00:07:28,310
+, as I said, that's the number and that 
+
+205
+00:07:28,310 --> 00:07:29,410
+'s a lot. 
+
+206
+00:07:33,140 --> 00:07:34,620
+That brings us to 
+
+207
+00:07:34,620 --> 00:07:36,820
+combinations, in this case without 
+
+208
+00:07:36,820 --> 00:07:39,520
+repetition. Yes, I 
+
+209
+00:07:39,520 --> 00:07:41,400
+said at the beginning that we always have 
+an 
+
+210
+00:07:41,400 --> 00:07:43,340
+example of combination and 
+
+211
+00:07:43,340 --> 00:07:45,180
+variation without repetition and 
+
+212
+00:07:45,180 --> 00:07:46,900
+with repetition. In this case, the 
+
+213
+00:07:46,900 --> 00:07:48,780
+example is without repetition. 
+
+214
+00:07:48,780 --> 00:07:50,840
+In other words, this corresponds to 
+drawing without 
+
+215
+00:07:50,840 --> 00:07:52,480
+putting back, without observing the 
+
+216
+00:07:52,480 --> 00:07:54,980
+sequence. We have the 
+
+217
+00:07:54,980 --> 00:07:57,160
+task of 
+
+218
+00:07:57,160 --> 00:07:58,840
+selecting three people from a group of 15 
+
+219
+00:07:58,840 --> 00:08:00,660
+. How many 
+
+220
+00:08:00,660 --> 00:08:03,360
+grouping options are there? 
+
+221
+00:08:03,360 --> 00:08:05,020
+In this case, I'll explain again how this 
+
+222
+00:08:05,020 --> 00:08:08,160
+comes about. In this case, 
+
+223
+00:08:08,160 --> 00:08:09,740
+one person is selected 
+
+224
+00:08:09,740 --> 00:08:13,520
+and this person is then no longer 
+
+225
+00:08:13,520 --> 00:08:15,860
+available for selection. In other words, 
+after the 
+
+226
+00:08:15,860 --> 00:08:17,720
+first person of the 15 
+
+227
+00:08:17,720 --> 00:08:19,160
+has been selected , there are only 14 left 
+to 
+
+228
+00:08:19,160 --> 00:08:20,840
+choose from. After the second person has 
+been 
+
+229
+00:08:20,840 --> 00:08:22,400
+selected, there are only 13 left 
+
+230
+00:08:22,400 --> 00:08:25,340
+to choose from. That's why it's without 
+
+231
+00:08:25,340 --> 00:08:28,240
+a reserve. And it's 
+
+232
+00:08:28,240 --> 00:08:29,580
+simply about putting together 
+
+233
+00:08:29,580 --> 00:08:31,220
+a group or a team, if 
+
+234
+00:08:31,220 --> 00:08:32,520
+you like. There's no 
+
+235
+00:08:32,520 --> 00:08:34,680
+hierarchy in there or nothing that 
+
+236
+00:08:34,680 --> 00:08:36,940
+should or 
+
+237
+00:08:36,940 --> 00:08:38,800
+can differentiate them. So it doesn't 
+really matter 
+
+238
+00:08:38,920 --> 00:08:41,040
+in which order the people 
+
+239
+00:08:41,040 --> 00:08:44,000
+were chosen or drawn. 
+
+240
+00:08:44,360 --> 00:08:46,440
+They are in the group and that's all 
+
+241
+00:08:46,440 --> 00:08:47,780
+we can say about it. Therefore, 
+
+242
+00:08:47,780 --> 00:08:50,040
+the order doesn't matter. Therefore, 
+
+243
+00:08:50,040 --> 00:08:51,680
+draw without putting them back, regardless 
+
+244
+00:08:51,680 --> 00:08:54,900
+of the order. 
+
+245
+00:08:54,900 --> 00:08:57,440
+To answer the question, we need 
+
+246
+00:08:57,440 --> 00:08:57,980
+the so-called 
+
+247
+00:08:57,980 --> 00:09:00,480
+binomial coefficient. This is the one 
+
+248
+00:09:00,540 --> 00:09:02,360
+we always 
+
+249
+00:09:02,360 --> 00:09:05,200
+ need in the Bernoulli  chain. In other 
+
+250
+00:09:05,200 --> 00:09:07,080
+words, the formula is n over k, which is 
+the 
+
+251
+00:09:07,080 --> 00:09:07,820
+
+252
+00:09:07,820 --> 00:09:10,060
+prime coefficient . And this can be 
+
+253
+00:09:10,060 --> 00:09:11,500
+calculated by 
+
+254
+00:09:11,500 --> 00:09:14,320
+dividing the factorial of n by k factorial 
+times n minus k and 
+
+255
+00:09:14,320 --> 00:09:17,680
+then the factorial. In this case n is 
+
+256
+00:09:17,680 --> 00:09:20,080
+the number of people we have, 
+
+257
+00:09:20,200 --> 00:09:22,820
+in this case 15, and the k is the 
+
+258
+00:09:22,820 --> 00:09:23,980
+number of people we choose, 
+
+259
+00:09:23,980 --> 00:09:26,060
+so how many do we choose, in this 
+
+260
+00:09:26,060 --> 00:09:28,160
+case three. So we get F 
+
+261
+00:09:28,160 --> 00:09:30,260
+-faculty of 15 by faculty of 3 
+
+262
+00:09:30,260 --> 00:09:32,120
+times 15 minus 3 and from that the 
+
+263
+00:09:32,120 --> 00:09:35,240
+faculty. That's 455 in total, which 
+
+264
+00:09:35,240 --> 00:09:37,720
+means there are 455 ways of 
+
+265
+00:09:37,720 --> 00:09:41,960
+putting the group together. And therefore, 
+
+266
+00:09:42,180 --> 00:09:44,620
+the task is already 
+
+267
+00:09:44,620 --> 00:09:47,140
+calculated. 
+
+268
+00:09:47,140 --> 00:09:48,680
+You 
+
+269
+00:09:48,680 --> 00:09:50,260
+don't always have to calculate a binomial 
+coefficient like this. 
+
+270
+00:09:50,260 --> 00:09:51,780
+The calculator can also work it out. 
+
+271
+00:09:52,220 --> 00:09:54,680
+The command for this is usually 
+
+272
+00:09:54,680 --> 00:09:58,660
+this ncr. Yes, that should be 
+
+273
+00:09:58,660 --> 00:10:00,180
+somewhere in the menu or on the 
+
+274
+00:10:00,180 --> 00:10:01,360
+calculator and then 
+
+275
+00:10:01,360 --> 00:10:03,780
+it can also 
+
+276
+00:10:03,780 --> 00:10:04,540
+solve such binomial coefficients . 
+
+277
+00:10:07,530 --> 00:10:09,490
+And that brings us to 
+
+278
+00:10:09,490 --> 00:10:13,430
+combination with repetition. 
+
+279
+00:10:13,430 --> 00:10:15,730
+In this case, we have the task of 
+
+280
+00:10:15,730 --> 00:10:17,470
+18 
+
+281
+00:10:17,470 --> 00:10:19,350
+participants taking part in a decathlon . 
+
+282
+00:10:19,350 --> 00:10:21,090
+There can be exactly one winner in each 
+event. How 
+
+283
+00:10:21,090 --> 00:10:22,050
+many possibilities are there for 
+
+284
+00:10:22,050 --> 00:10:23,130
+distributing the winners? 
+
+285
+00:10:23,810 --> 00:10:25,570
+Decathlon means that ten 
+
+286
+00:10:25,570 --> 00:10:27,650
+competitions are held and in 
+
+287
+00:10:27,650 --> 00:10:29,030
+our case 18 participants take part 
+
+288
+00:10:29,030 --> 00:10:33,790
+. It is important to note that there will 
+
+289
+00:10:33,790 --> 00:10:36,910
+not be one overall winner of 
+
+290
+00:10:36,910 --> 00:10:39,630
+the event, but 
+
+291
+00:10:39,630 --> 00:10:41,950
+there can be one winner for each of the 
+ten fights 
+
+292
+00:10:41,950 --> 00:10:43,310
+. Conversely, this 
+
+293
+00:10:43,310 --> 00:10:46,730
+also means that one participant can 
+
+294
+00:10:46,730 --> 00:10:50,250
+have ten winners. And that's why there's a 
+draw 
+
+295
+00:10:50,250 --> 00:10:52,750
+. In each fight, 
+
+296
+00:10:52,930 --> 00:10:55,190
+regardless of whether the previous fight 
+
+297
+00:10:55,190 --> 00:10:56,890
+was won or lost, 
+
+298
+00:10:56,890 --> 00:10:58,910
+all 18 participants still have the 
+
+299
+00:10:58,910 --> 00:11:01,950
+chance to win or not. 
+
+300
+00:11:02,470 --> 00:11:05,730
+That's why it's a draw with a 
+
+301
+00:11:05,730 --> 00:11:08,650
+reset, because 18 participants always 
+
+302
+00:11:08,650 --> 00:11:12,430
+have the chance to win. 
+
+303
+00:11:12,430 --> 00:11:16,270
+Furthermore, the order doesn't matter, 
+
+304
+00:11:16,550 --> 00:11:20,350
+because it's 
+
+305
+00:11:21,980 --> 00:11:24,500
+about the possibility... the 
+
+306
+00:11:24,500 --> 00:11:25,800
+distribution of the winners. It's not 
+
+307
+00:11:25,800 --> 00:11:28,040
+about who has won what and it's 
+
+308
+00:11:28,040 --> 00:11:29,540
+only about the possibilities 
+
+309
+00:11:29,540 --> 00:11:31,080
+of the winner distribution and there is 
+only 
+
+310
+00:11:31,080 --> 00:11:33,780
+one victory and no victory. We 
+
+311
+00:11:33,780 --> 00:11:34,980
+don't differentiate between gold, 
+
+312
+00:11:35,020 --> 00:11:36,420
+bronze, silver, we'll do that 
+
+313
+00:11:36,420 --> 00:11:38,200
+again later and so it's without 
+
+314
+00:11:38,200 --> 00:11:41,220
+regard to the order. The 
+
+315
+00:11:41,220 --> 00:11:43,580
+formula we need for this is 
+
+316
+00:11:43,580 --> 00:11:46,080
+also a binomial coefficient. It's 
+
+317
+00:11:46,080 --> 00:11:49,680
+just heavily modified. 
+
+318
+00:11:49,680 --> 00:11:52,300
+Earlier we had N over K, now we have, 
+
+319
+00:11:52,340 --> 00:11:53,500
+as I said, in a 
+
+320
+00:11:53,500 --> 00:11:56,260
+binomial coefficient n plus k minus 1 
+
+321
+00:11:56,260 --> 00:11:58,640
+over k. 
+
+322
+00:11:58,640 --> 00:12:00,180
+But we calculate the binomial coefficient 
+
+323
+00:12:00,180 --> 00:12:02,160
+in the same way as before, either using 
+the 
+
+324
+00:12:02,160 --> 00:12:05,740
+calculator or n plus k minus 1 
+
+325
+00:12:05,740 --> 00:12:08,720
+of which the factorial is divided by k 
+factorial 
+
+326
+00:12:08,720 --> 00:12:13,340
+times n minus 1 factorial. And so 
+
+327
+00:12:13,340 --> 00:12:16,220
+this n minus 1 simply comes from the fact 
+
+328
+00:12:16,380 --> 00:12:17,780
+that we would actually have 
+
+329
+00:12:17,780 --> 00:12:20,740
+written here 
+
+330
+00:12:22,080 --> 00:12:23,480
+what we 
+
+331
+00:12:23,480 --> 00:12:24,820
+had written on the last slide and that can 
+
+332
+00:12:24,820 --> 00:12:25,960
+of course be simplified here 
+
+333
+00:12:25,980 --> 00:12:27,080
+because we also 
+
+334
+00:12:27,080 --> 00:12:30,200
+have n and k in here. That's why it is, 
+
+335
+00:12:30,340 --> 00:12:32,680
+let's say , simplified . We 
+
+336
+00:12:32,680 --> 00:12:34,140
+actually had n minus k in here 
+
+337
+00:12:34,140 --> 00:12:37,240
+and for us it would now be n 
+
+338
+00:12:37,240 --> 00:12:40,280
+plus k minus 1 minus k plus k plus k minus 
+k 
+
+339
+00:12:40,280 --> 00:12:42,920
+is n minus 1. So just take 
+
+340
+00:12:42,920 --> 00:12:45,520
+the formula and then you have 
+
+341
+00:12:45,520 --> 00:12:46,900
+the result directly or you can 
+
+342
+00:12:46,900 --> 00:12:53,000
+use it directly. In our case, the n equals 
+
+343
+00:12:53,000 --> 00:12:57,240
+17 and the k equals 10, so we arrive 
+
+344
+00:12:57,240 --> 00:12:59,180
+at the factorial of 27 by the 
+
+345
+00:12:59,180 --> 00:13:01,400
+factorial of 10 times the factorial of 
+
+346
+00:13:01,400 --> 00:13:04,940
+17 and we have this 
+
+347
+00:13:04,940 --> 00:13:08,240
+number of different possibilities 
+
+348
+00:13:08,240 --> 00:13:11,880
+for the distribution of the winners. 
+
+349
+00:13:11,880 --> 00:13:15,980
+In this case, that's 8,436,285, so that 
+
+350
+00:13:15,980 --> 00:13:19,550
+'s quite a few. And that's it 
+
+351
+00:13:19,550 --> 00:13:20,910
+for the combinations. 
+
+352
+00:13:21,510 --> 00:13:23,450
+And we are now looking at the 
+
+353
+00:13:23,450 --> 00:13:25,770
+variation. We now have 
+
+354
+00:13:25,770 --> 00:13:27,710
+the variation without repetition. 
+
+355
+00:13:27,950 --> 00:13:29,230
+
+356
+00:13:29,230 --> 00:13:30,910
+Of course, I'll explain why this is the 
+case in a moment. In our 
+
+357
+00:13:30,910 --> 00:13:32,990
+case, this now corresponds to drawing 
+
+358
+00:13:32,990 --> 00:13:34,990
+without putting back and observing the 
+
+359
+00:13:34,990 --> 00:13:36,990
+sequence. Our task is, 
+
+360
+00:13:37,130 --> 00:13:39,870
+or rather the factual context 
+
+361
+00:13:39,870 --> 00:13:41,490
+is, 15 athletes are taking part in a 
+
+362
+00:13:41,490 --> 00:13:43,470
+competition. There is one gold, 
+
+363
+00:13:43,470 --> 00:13:44,730
+one silver and one bronze 
+
+364
+00:13:44,730 --> 00:13:46,290
+ medal. How many possible 
+
+365
+00:13:46,290 --> 00:13:48,350
+outcomes are there? In this case, 
+
+366
+00:13:48,350 --> 00:13:50,150
+we are only looking at one 
+
+367
+00:13:50,150 --> 00:13:51,830
+competition and there is 
+
+368
+00:13:51,830 --> 00:13:53,790
+only one winner distribution. That's 
+
+369
+00:13:53,790 --> 00:13:55,070
+the big difference to the 
+
+370
+00:13:55,070 --> 00:13:57,810
+decathlon just now. And this time, 
+
+371
+00:13:57,810 --> 00:14:00,170
+there is not only victory or no 
+
+372
+00:14:00,170 --> 00:14:01,370
+victory, but also a distribution. 
+
+373
+00:14:01,950 --> 00:14:02,870
+There is a 
+
+374
+00:14:02,870 --> 00:14:03,890
+gold medal, a 
+
+375
+00:14:03,890 --> 00:14:05,110
+silver medal and a 
+
+376
+00:14:05,110 --> 00:14:08,430
+bronze medal. This 
+
+377
+00:14:08,430 --> 00:14:09,750
+means that there are three medals 
+
+378
+00:14:09,750 --> 00:14:12,450
+that are distributed and then 
+
+379
+00:14:12,450 --> 00:14:13,590
+of course the order is important, 
+
+380
+00:14:13,710 --> 00:14:14,430
+because it makes a 
+
+381
+00:14:14,430 --> 00:14:16,670
+difference whether I 
+
+382
+00:14:16,670 --> 00:14:18,270
+get the gold medal or the bronze medal. 
+
+383
+00:14:18,710 --> 00:14:20,710
+That's why the order is so 
+
+384
+00:14:20,710 --> 00:14:23,650
+important. It's pulling without 
+
+385
+00:14:23,650 --> 00:14:25,130
+putting it back, because if I 
+
+386
+00:14:25,130 --> 00:14:27,190
+win the gold medal, I can 
+
+387
+00:14:27,190 --> 00:14:28,570
+'t 
+
+388
+00:14:28,570 --> 00:14:29,670
+get the silver or bronze medal . I can 
+only 
+
+389
+00:14:29,670 --> 00:14:30,470
+win one medal at a time. 
+
+390
+00:14:33,740 --> 00:14:37,200
+To do this, we need this 
+
+391
+00:14:37,200 --> 00:14:39,280
+formula, namely the faculty of N 
+
+392
+00:14:39,280 --> 00:14:43,560
+by N-K faculty. As I said, N is 
+
+393
+00:14:43,560 --> 00:14:45,400
+the number of athletes who 
+
+394
+00:14:45,400 --> 00:14:47,140
+took part. K is the number 
+
+395
+00:14:47,140 --> 00:14:48,700
+of medals that are awarded. 
+
+396
+00:14:48,860 --> 00:14:50,060
+In this case, that is three. 
+
+397
+00:14:53,160 --> 00:14:54,960
+We now have the faculty 
+
+398
+00:14:54,960 --> 00:14:57,140
+of 15 through brackets to 15 minus 3 
+
+399
+00:14:57,140 --> 00:14:59,800
+faculty This is then the faculty 
+
+400
+00:14:59,800 --> 00:15:03,240
+of 12 And now the calculation 
+
+401
+00:15:03,240 --> 00:15:05,080
+with faculties comes 
+
+402
+00:15:05,080 --> 00:15:09,540
+into play a little The faculty of 15 is 15 
+
+403
+00:15:09,540 --> 00:15:12,120
+times 14 times 13 times 12 times 11 and so 
+
+404
+00:15:12,120 --> 00:15:14,920
+on The faculty of 12 is 12 times 
+
+405
+00:15:14,920 --> 00:15:17,300
+11 times 10 and so on That means 
+
+406
+00:15:17,380 --> 00:15:20,600
+we can shorten it out What remains 
+
+407
+00:15:20,600 --> 00:15:22,640
+is 15 times 14 
+
+408
+00:15:22,640 --> 00:15:25,920
+times 13. That means there are 2730 
+
+409
+00:15:25,920 --> 00:15:28,620
+possible results. 
+
+410
+00:15:30,880 --> 00:15:34,100
+Yes, so 2730 possible outcomes 
+
+411
+00:15:34,100 --> 00:15:38,850
+for this race. The idea 
+
+412
+00:15:38,850 --> 00:15:41,150
+behind this is, of course, that if 15 
+people 
+
+413
+00:15:41,150 --> 00:15:43,870
+take part, there are 15 possibilities 
+
+414
+00:15:43,870 --> 00:15:45,610
+for gold. If the gold medal 
+
+415
+00:15:45,610 --> 00:15:47,770
+is awarded, there are only 14 
+
+416
+00:15:47,770 --> 00:15:50,410
+possibilities for silver and so 
+
+417
+00:15:50,410 --> 00:15:53,390
+on. Yes, so that's the one with no 
+
+418
+00:15:53,390 --> 00:15:57,150
+backing up and so it's 
+
+419
+00:15:57,150 --> 00:15:58,890
+definitely without backing up and 
+
+420
+00:15:58,890 --> 00:16:02,990
+because of the gold-silver-bronze 
+
+421
+00:16:02,990 --> 00:16:04,950
+ principle, the order is also 
+
+422
+00:16:04,950 --> 00:16:08,650
+important. This brings us to the 
+
+423
+00:16:08,650 --> 00:16:10,870
+last part of the variation with 
+
+424
+00:16:10,870 --> 00:16:12,090
+repetition. 
+
+425
+00:16:14,110 --> 00:16:15,870
+For example, we have a 
+
+426
+00:16:15,870 --> 00:16:17,370
+combination lock that has four 
+
+427
+00:16:17,370 --> 00:16:18,790
+digits and you can 
+
+428
+00:16:18,790 --> 00:16:20,090
+enter the numbers from 0 to 9. 
+
+429
+00:16:20,110 --> 00:16:21,650
+It is important to note that the numbers 
+from 0 to 9 are 
+
+430
+00:16:21,650 --> 00:16:23,990
+a total of 10 possibilities and 
+
+431
+00:16:23,990 --> 00:16:27,790
+of course we have the case with repetition 
+here 
+
+432
+00:16:27,790 --> 00:16:30,470
+, because if the first 
+
+433
+00:16:30,470 --> 00:16:31,750
+digit is a 1, we can 
+
+434
+00:16:31,750 --> 00:16:33,770
+continue to 
+
+435
+00:16:33,770 --> 00:16:41,010
+use 1 as the second digit and then always 
+
+436
+00:16:41,010 --> 00:16:42,330
+use the same digit. So 
+
+437
+00:16:42,330 --> 00:16:43,790
+it is not used up after it has 
+
+438
+00:16:43,790 --> 00:16:46,110
+been used once. This means 
+
+439
+00:16:46,230 --> 00:16:47,790
+that repetitions are possible. 
+
+440
+00:16:50,830 --> 00:16:52,430
+
+441
+00:16:52,430 --> 00:16:54,050
+Of course , the order is important here. 
+The end of the number 
+
+442
+00:16:54,050 --> 00:16:56,710
+always has a sequence, which is 
+
+443
+00:16:56,710 --> 00:16:58,550
+also important. This means that if 
+
+444
+00:16:58,550 --> 00:17:00,930
+I set the code 1234 
+
+445
+00:17:00,950 --> 00:17:03,230
+, it will not work with 4321 
+
+446
+00:17:03,890 --> 00:17:05,430
+, which is why the sequence is also 
+
+447
+00:17:05,430 --> 00:17:07,690
+important. And for the variation with 
+
+448
+00:17:07,690 --> 00:17:08,990
+consideration of the sequence 
+
+449
+00:17:08,990 --> 00:17:12,930
+, you simply calculate n to the power of 
+k. In other words, the number 
+
+450
+00:17:12,930 --> 00:17:17,250
+of possible digits . For 
+
+451
+00:17:17,250 --> 00:17:19,810
+us , this is all digits from 0 to 0. 9, 
+i.e. 10 and 
+
+452
+00:17:19,810 --> 00:17:22,290
+k is the number of digits, is 
+
+453
+00:17:22,290 --> 00:17:24,430
+4 for us, i.e. 10 to the power of 4. 
+
+454
+00:17:24,430 --> 00:17:26,870
+So there are 10,000 combinations. 
+
+455
+00:17:26,870 --> 00:17:28,190
+You can also visualize this 
+
+456
+00:17:28,190 --> 00:17:29,850
+quite well with the number finder . These 
+are 
+
+457
+00:17:29,850 --> 00:17:33,590
+all combinations from 0, 0, 
+
+458
+00:17:33,590 --> 00:17:40,410
+0, 0 to 9,999 and so 
+
+459
+00:17:40,410 --> 00:17:41,710
+there are 10,000 
+
+460
+00:17:41,710 --> 00:17:42,690
+possible combinations. 
+
+461
+00:17:45,130 --> 00:17:46,610
+Finally, here is 
+
+462
+00:17:46,610 --> 00:17:48,130
+our small collection of formulas 
+
+463
+00:17:48,130 --> 00:17:49,670
+, as we said during the webinar. 
+
+464
+00:17:49,810 --> 00:17:51,270
+In permutation, we 
+
+465
+00:17:51,270 --> 00:17:52,790
+always distinguish between distinguishable 
+and 
+
+466
+00:17:52,790 --> 00:17:54,430
+indistinguishable. If it is 
+distinguishable 
+
+467
+00:17:54,430 --> 00:17:56,110
+, we have the 
+
+468
+00:17:56,110 --> 00:17:57,930
+factorial of n. If it is indistinguishable 
+
+469
+00:17:57,930 --> 00:17:59,350
+, we have 
+
+470
+00:17:59,350 --> 00:18:01,510
+the factorial of n by the individual 
+
+471
+00:18:01,510 --> 00:18:04,870
+factorials of the subgroups. When we 
+
+472
+00:18:04,870 --> 00:18:06,430
+deal with combinations, 
+
+473
+00:18:06,470 --> 00:18:08,770
+we distinguish between put back without 
+
+474
+00:18:08,770 --> 00:18:10,750
+put back and 
+
+475
+00:18:10,750 --> 00:18:12,230
+put back with put back. If we 
+
+476
+00:18:12,230 --> 00:18:13,770
+have without putting back, we simply take 
+
+477
+00:18:13,770 --> 00:18:15,470
+the binomial coefficient n over 
+
+478
+00:18:15,470 --> 00:18:17,350
+k. This can always be calculated 
+
+479
+00:18:17,350 --> 00:18:19,090
+by the factorial of n by k 
+
+480
+00:18:19,090 --> 00:18:22,930
+-factorial times n-k-factorial. If we 
+
+481
+00:18:22,930 --> 00:18:24,930
+
+482
+00:18:24,930 --> 00:18:26,830
+look at it with put back and repeat , this 
+
+483
+00:18:26,830 --> 00:18:29,170
+binomial coefficient changes to this. 
+
+484
+00:18:29,170 --> 00:18:30,970
+This means that we have n plus k minus 1 
+
+485
+00:18:30,970 --> 00:18:32,810
+over k. This can 
+
+486
+00:18:32,810 --> 00:18:35,150
+then be resolved using the same approach 
+and this 
+
+487
+00:18:35,150 --> 00:18:37,410
+then results in n plus k minus 1, of which 
+
+488
+00:18:37,410 --> 00:18:40,470
+the factorial, by k factorial times n 
+
+489
+00:18:40,470 --> 00:18:43,990
+minus 1 factorial. For the variation, 
+
+490
+00:18:43,990 --> 00:18:45,630
+we also differentiate between 
+
+491
+00:18:45,630 --> 00:18:48,610
+without restoring and with restoring. 
+
+492
+00:18:49,250 --> 00:18:52,230
+If we do not put back, we 
+
+493
+00:18:52,230 --> 00:18:54,810
+simply have factorial of n by n minus 
+
+494
+00:18:54,810 --> 00:18:57,510
+k factorial and if we 
+
+495
+00:18:57,510 --> 00:18:59,350
+look at the variation with putting back, 
+we 
+
+496
+00:18:59,350 --> 00:19:02,130
+simply have n to the power of k. We just 
+
+497
+00:19:02,130 --> 00:19:05,310
+have it with the combination lock. That 
+brings us to 
+
+498
+00:19:05,310 --> 00:19:06,790
+the end of the webinar. 
+
+499
+00:19:06,930 --> 00:19:08,390
+Thank you for your 
+
+500
+00:19:08,390 --> 00:19:09,090
+attention. 

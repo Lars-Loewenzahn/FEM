@@ -1,0 +1,2224 @@
+1
+00:00:00,000 --> 00:00:02,060
+Hallo und herzlich willkommen zum
+
+2
+00:00:02,060 --> 00:00:04,200
+Webinar der Schülerhilfe. Vorab ein
+
+3
+00:00:04,200 --> 00:00:06,140
+kurzer Technik-Check. Kannst du mich
+
+4
+00:00:06,140 --> 00:00:06,660
+gut hören?
+
+5
+00:00:14,080 --> 00:00:15,800
+Wenn ja, schreibe eine kurze
+
+6
+00:00:15,800 --> 00:00:16,780
+Nachricht in den Chat.
+
+7
+00:00:25,460 --> 00:00:29,960
+Bene. Gut. So, wir beschäftigen uns
+
+8
+00:00:29,960 --> 00:00:31,720
+heute mit dem Thema Bildung und
+
+9
+00:00:31,720 --> 00:00:34,560
+Deklination der Substantive in der
+
+10
+00:00:34,560 --> 00:00:36,940
+lateinischen Sprache. Das heißt, wir
+
+11
+00:00:36,940 --> 00:00:39,500
+werden uns zuerst die Definition der
+
+12
+00:00:39,500 --> 00:00:41,820
+Deklination anschauen und uns
+
+13
+00:00:41,820 --> 00:00:43,200
+anschließend mit den einzelnen
+
+14
+00:00:43,200 --> 00:00:44,420
+Deklinationen... Deklinationsklassen
+
+15
+00:00:44,420 --> 00:00:46,560
+befassen. Dabei schauen wir uns die
+
+16
+00:00:46,560 --> 00:00:49,260
+A, die O sowie die Konsonantische,
+
+17
+00:00:49,300 --> 00:00:51,980
+die U und die E-Deklination an und
+
+18
+00:00:51,980 --> 00:00:54,440
+schließen dann unser Webinar, indem
+
+19
+00:00:54,440 --> 00:00:56,060
+wir uns eine Übersicht der
+
+20
+00:00:56,060 --> 00:00:59,000
+unterschiedlichen Genera, sprich dem
+
+21
+00:00:59,000 --> 00:01:00,820
+einzelnen Geschlecht der
+
+22
+00:01:00,820 --> 00:01:02,860
+unterschiedlichen Deklination in der
+
+23
+00:01:02,860 --> 00:01:06,040
+Regel anschauen. Beginnen wir mit der
+
+24
+00:01:06,040 --> 00:01:08,340
+Definition der Deklination, also der
+
+25
+00:01:08,340 --> 00:01:10,180
+Fragestellung, was bedeutet
+
+26
+00:01:10,180 --> 00:01:14,780
+Deklinieren? Deklinieren kennen wir
+
+27
+00:01:14,780 --> 00:01:17,640
+meistens im Kontext der Substantive.
+
+28
+00:01:17,700 --> 00:01:19,200
+Das heißt, Substantive werden
+
+29
+00:01:19,200 --> 00:01:22,040
+dekliniert. Das kennen wir auch unter
+
+30
+00:01:22,040 --> 00:01:24,340
+der Begrifflichkeit gebeugt. Sie
+
+31
+00:01:24,340 --> 00:01:26,980
+werden gebeugt. Eine Deklination ist
+
+32
+00:01:26,980 --> 00:01:29,440
+eine sogenannte Flektion, also die
+
+33
+00:01:29,440 --> 00:01:32,140
+Anpassung eines Hauptwortes, des
+
+34
+00:01:32,140 --> 00:01:34,700
+sogenannten Substantives. Das heißt,
+
+35
+00:01:34,880 --> 00:01:36,600
+wenn wir uns daran erinnern,
+
+36
+00:01:36,620 --> 00:01:39,100
+Subjekte, Objekte oder auch andere
+
+37
+00:01:39,100 --> 00:01:41,860
+Hauptwörter sind Substantive.
+
+38
+00:01:41,880 --> 00:01:43,720
+Substantive und sie bekommen eine
+
+39
+00:01:43,720 --> 00:01:45,660
+Deklination. Das heißt, sie werden an
+
+40
+00:01:45,660 --> 00:01:49,860
+einen Kasus angepasst und neben dem
+
+41
+00:01:49,860 --> 00:01:51,940
+Kasus erhalten sie auch ein Numerus
+
+42
+00:01:51,940 --> 00:01:54,340
+und ein Genus. Das heißt, eine Anzahl
+
+43
+00:01:54,340 --> 00:01:56,880
+und ein Geschlecht. Das heißt, wir
+
+44
+00:01:56,880 --> 00:01:59,500
+passen ein Hauptwort, eine Substanz,
+
+45
+00:01:59,500 --> 00:02:02,000
+ein Substantiv an eine Situation,
+
+46
+00:02:02,440 --> 00:02:05,280
+nämlich dem Kasus, an eine Anzahl,
+
+47
+00:02:05,280 --> 00:02:07,520
+Singular oder Plural und dann ein
+
+48
+00:02:07,520 --> 00:02:11,460
+Genus an. Die Deklination Formt immer
+
+49
+00:02:11,460 --> 00:02:13,600
+nach allen drei Kriterien. Das nennt
+
+50
+00:02:13,600 --> 00:02:15,600
+man Flektieren. Das heißt, es werden
+
+51
+00:02:15,600 --> 00:02:18,180
+immer alle drei Kriterien
+
+52
+00:02:18,180 --> 00:02:20,020
+berücksichtigt. Also sowohl Kasus,
+
+53
+00:02:20,020 --> 00:02:22,160
+Numerus als auch Genus werden immer
+
+54
+00:02:22,160 --> 00:02:25,960
+im Zusammenhang stehen. Substantive
+
+55
+00:02:25,960 --> 00:02:27,660
+werden in unterschiedliche
+
+56
+00:02:27,660 --> 00:02:29,700
+Deklinationsklassen zugeordnet. Das
+
+57
+00:02:29,700 --> 00:02:34,980
+heißt, dass es wichtig ist, so wie
+
+58
+00:02:34,980 --> 00:02:36,760
+wir es von den Verben kennen, mit den
+
+59
+00:02:36,760 --> 00:02:40,240
+drei Verbstämmen. dem Präsens, dem
+
+60
+00:02:40,240 --> 00:02:42,640
+Perfekt und dem Partizipalstamm, dass
+
+61
+00:02:42,640 --> 00:02:44,980
+wir bei Substantisen stets den
+
+62
+00:02:44,980 --> 00:02:47,540
+Nominativ und auch den Genitiv
+
+63
+00:02:47,540 --> 00:02:50,100
+Singular lernen. Das ist insofern
+
+64
+00:02:50,100 --> 00:02:55,840
+wichtig, da einige Formen
+
+65
+00:02:55,840 --> 00:03:00,460
+mehrfach vorkommen. Das heißt, wir
+
+66
+00:03:00,460 --> 00:03:02,980
+können anhand des Genitivs Singular
+
+67
+00:03:02,980 --> 00:03:05,720
+immer erkennen, um welche Form es
+
+68
+00:03:05,720 --> 00:03:07,780
+sich handelt. Bei dem Nominativ ist
+
+69
+00:03:07,780 --> 00:03:11,060
+es generell nicht ganz definierbar.
+
+70
+00:03:11,140 --> 00:03:12,480
+Wenn wir zum Beispiel über die U
+
+71
+00:03:12,480 --> 00:03:14,000
+-Deklination reden oder die U
+
+72
+00:03:14,000 --> 00:03:15,540
+-Deklination, wissen wir
+
+73
+00:03:15,540 --> 00:03:17,240
+zwischendurch nicht, handelt es sich
+
+74
+00:03:17,240 --> 00:03:20,840
+zum Beispiel um ein Nominativ oder um
+
+75
+00:03:20,840 --> 00:03:25,340
+ein Akkusativ. Der sechste Fall, das
+
+76
+00:03:25,340 --> 00:03:27,180
+heißt, wenn wir über Fälle sprechen,
+
+77
+00:03:27,420 --> 00:03:29,140
+kennen wir vier aus dem deutschen
+
+78
+00:03:29,140 --> 00:03:31,680
+Nominativ, Genitiv, Dativ und
+
+79
+00:03:31,680 --> 00:03:33,580
+Akkusativ. Im lateinischen gibt es
+
+80
+00:03:33,580 --> 00:03:35,440
+dann noch den Adverbialstab. den
+
+81
+00:03:35,440 --> 00:03:38,200
+Adverbialfall, das ist der Applativ
+
+82
+00:03:38,200 --> 00:03:40,420
+und den sechsten Fall, den Vokativ.
+
+83
+00:03:40,620 --> 00:03:43,300
+Der gilt als Anredekasus und gleicht
+
+84
+00:03:43,300 --> 00:03:45,600
+oft oder meistens dem Nominativ.
+
+85
+00:03:47,300 --> 00:03:49,700
+Deklinieren bedeutet also, anpassen
+
+86
+00:03:49,700 --> 00:03:52,180
+an folgende Kriterien. Den Kasus,
+
+87
+00:03:52,220 --> 00:03:54,520
+Nominativ, Genitiv, Dativ, Akkusativ,
+
+88
+00:03:54,760 --> 00:03:57,260
+Applativ oder Vokativ. Eins davon
+
+89
+00:03:57,260 --> 00:04:00,080
+wird vorkommen, den Numerus, Singular
+
+90
+00:04:00,080 --> 00:04:02,300
+oder Plural, das heißt entweder oder
+
+91
+00:04:02,300 --> 00:04:06,320
+oder Genus, das heißt und das Genus,
+
+92
+00:04:06,420 --> 00:04:08,460
+das heißt entweder Maskulin oder
+
+93
+00:04:08,460 --> 00:04:12,040
+Femininum oder Neutrum. Diese drei
+
+94
+00:04:12,040 --> 00:04:16,000
+oder jeweils ein Punkt der drei wird
+
+95
+00:04:16,000 --> 00:04:17,660
+ausgewählt und formt dann
+
+96
+00:04:17,660 --> 00:04:20,580
+letztendlich die Flexion, also die
+
+97
+00:04:20,580 --> 00:04:22,700
+Beugung, die Deklination eines
+
+98
+00:04:22,700 --> 00:04:26,550
+Substantivs. Gibt es bis hierhin
+
+99
+00:04:26,550 --> 00:04:26,830
+Fragen?
+
+100
+00:04:31,160 --> 00:04:33,900
+Wunderbar. Der Aufbau und die
+
+101
+00:04:33,900 --> 00:04:36,980
+Deklinationsordnung
+
+102
+00:04:36,980 --> 00:04:39,880
+der A-Deklination. Die A-Deklination
+
+103
+00:04:39,880 --> 00:04:42,220
+wird meistens für Substantive mit
+
+104
+00:04:42,220 --> 00:04:44,220
+Feminin im Genus verwendet. Das
+
+105
+00:04:44,220 --> 00:04:48,060
+heißt, all diese, oder die meisten,
+
+106
+00:04:48,220 --> 00:04:49,800
+es gibt natürlich immer ein paar
+
+107
+00:04:49,800 --> 00:04:51,220
+Abweichungen, aber die meisten
+
+108
+00:04:51,220 --> 00:04:55,220
+Substantive, die in der A-Deklination
+
+109
+00:04:55,220 --> 00:04:57,540
+sind, sind auch Feminin. Das heißt,
+
+110
+00:04:57,640 --> 00:05:00,400
+wenige Ausnahmen, wie zum Beispiel
+
+111
+00:05:00,400 --> 00:05:04,660
+Pirata oder Agricola, die den Bauern
+
+112
+00:05:04,660 --> 00:05:06,360
+oder den Piraten meinen, der männlich
+
+113
+00:05:06,360 --> 00:05:09,300
+ist. sind die meisten Substantive
+
+114
+00:05:09,300 --> 00:05:10,980
+feminin. Wir nehmen das mal an dem
+
+115
+00:05:10,980 --> 00:05:13,620
+Beispiel via. Das heißt, die
+
+116
+00:05:13,620 --> 00:05:16,340
+Deklination folgt nach folgendem
+
+117
+00:05:16,340 --> 00:05:18,540
+Prinzip. Wir haben den Wort Stamm,
+
+118
+00:05:18,560 --> 00:05:21,500
+wie, und hängen dann anschließend die
+
+119
+00:05:21,500 --> 00:05:24,020
+Deklinationsendung an. Das heißt, die
+
+120
+00:05:24,020 --> 00:05:27,420
+unterschiedlichen Kasusformen, und
+
+121
+00:05:27,420 --> 00:05:29,200
+die Kasusformen enthalten
+
+122
+00:05:29,200 --> 00:05:32,360
+gleichzeitig auch den Numerus und das
+
+123
+00:05:32,360 --> 00:05:35,500
+Geschlecht. Das heißt, wenn wir jetzt
+
+124
+00:05:35,500 --> 00:05:38,300
+zum Beispiel, beziehungsweise wenn
+
+125
+00:05:38,300 --> 00:05:40,220
+wir uns das so vorstellen, wir haben
+
+126
+00:05:40,220 --> 00:05:43,460
+den Numerus und den Kasus innerhalb
+
+127
+00:05:43,460 --> 00:05:45,840
+der Deklinationsendung und im
+
+128
+00:05:45,840 --> 00:05:50,220
+weiteren Verlauf verstehen wir dann
+
+129
+00:05:50,220 --> 00:05:52,500
+das Genus, indem wir die
+
+130
+00:05:52,500 --> 00:05:54,400
+Grundsätzlichkeiten der einzelnen
+
+131
+00:05:54,400 --> 00:05:55,780
+Deklinationen kennen. Das heißt, wenn
+
+132
+00:05:55,780 --> 00:05:57,140
+wir zum Beispiel wissen, dass die A
+
+133
+00:05:57,140 --> 00:05:59,420
+-Deklination meistens feminin ist und
+
+134
+00:05:59,420 --> 00:06:01,220
+wir ein Hauptwort haben, wie zum
+
+135
+00:06:01,220 --> 00:06:03,280
+Beispiel Pirat. was jetzt gar nicht
+
+136
+00:06:03,280 --> 00:06:05,540
+feminin ist, erkennen wir anhand des
+
+137
+00:06:05,540 --> 00:06:07,120
+Adjektivs, welches immer der
+
+138
+00:06:07,120 --> 00:06:09,240
+Grundsätzlichkeit folgt, dass zum
+
+139
+00:06:09,240 --> 00:06:10,960
+Beispiel eine A-Deklination immer
+
+140
+00:06:10,960 --> 00:06:12,340
+feminin ist und dass die O
+
+141
+00:06:12,340 --> 00:06:14,480
+-Deklination maskulin ist und das
+
+142
+00:06:14,480 --> 00:06:17,680
+Neutrum die konsonantische
+
+143
+00:06:17,680 --> 00:06:19,500
+Deklination, dann können wir anhand
+
+144
+00:06:19,500 --> 00:06:23,700
+des Adjektivs erkennen, welches Genus
+
+145
+00:06:23,700 --> 00:06:26,300
+das Hauptwort hat. Grundsätzlich ist
+
+146
+00:06:26,300 --> 00:06:28,380
+es allerdings so oder viel und oft
+
+147
+00:06:28,380 --> 00:06:31,120
+ist es so, dass das Adjektiv und das
+
+148
+00:06:31,120 --> 00:06:33,660
+Substantiv das gleiche Genus, also
+
+149
+00:06:33,660 --> 00:06:35,340
+auch die gleiche Deklinationsendung
+
+150
+00:06:35,340 --> 00:06:37,140
+haben. Wir schauen uns das mal hier
+
+151
+00:06:37,140 --> 00:06:39,980
+bei der meistens femininen
+
+152
+00:06:39,980 --> 00:06:45,260
+Deklination der A an. Das heißt, wir,
+
+153
+00:06:45,440 --> 00:06:52,400
+wir, wir, wir, wir, wir. Im Plural,
+
+154
+00:06:52,400 --> 00:06:57,720
+wir, wirum, wirs, also wirs, wirs,
+
+155
+00:06:57,740 --> 00:07:02,440
+wirs. Wir. Wir stellen fest, es gibt
+
+156
+00:07:02,440 --> 00:07:03,940
+viele, wie ich eingangs bereits
+
+157
+00:07:03,940 --> 00:07:07,060
+erwähnte, viele Formen, die
+
+158
+00:07:07,060 --> 00:07:08,700
+deckungsgleich sind. Wir nehmen zum
+
+159
+00:07:08,700 --> 00:07:11,700
+Beispiel den Dativ und den Nominativ.
+
+160
+00:07:11,720 --> 00:07:14,180
+oder den Dativ und den
+
+161
+00:07:14,180 --> 00:07:17,600
+Applativplural. Diese Dinge sind zu
+
+162
+00:07:17,600 --> 00:07:20,120
+berücksichtigen und sich einzuprägen.
+
+163
+00:07:20,200 --> 00:07:21,680
+Denn wenn wir zum Beispiel wissen,
+
+164
+00:07:21,840 --> 00:07:25,400
+dass wir ein Genitivplural immer mit
+
+165
+00:07:25,400 --> 00:07:27,860
+einer Rumform haben, also A-Rumform,
+
+166
+00:07:28,040 --> 00:07:29,720
+können wir schnell und einfach
+
+167
+00:07:29,720 --> 00:07:33,560
+erkennen, um welchen Kasus es sich
+
+168
+00:07:33,560 --> 00:07:36,720
+handelt. Bei dem Dativ und dem
+
+169
+00:07:36,720 --> 00:07:39,280
+Numerativ, also bei dem Dativ
+
+170
+00:07:39,280 --> 00:07:40,700
+Singular und dem Numerativ Plural,
+
+171
+00:07:40,720 --> 00:07:43,380
+müssen wir anhand des Satzkontextes
+
+172
+00:07:43,380 --> 00:07:45,260
+erkennen, handelt es sich hier
+
+173
+00:07:45,260 --> 00:07:48,180
+tatsächlich um den Dativ oder doch um
+
+174
+00:07:48,180 --> 00:07:52,460
+den Nominativ. Ein kurzer Exkurs. Den
+
+175
+00:07:52,460 --> 00:07:54,140
+Nominativ erkennen wir meistens
+
+176
+00:07:54,140 --> 00:07:57,220
+daran, dass das Prädikat, in diesem
+
+177
+00:07:57,220 --> 00:07:59,100
+Falle, wenn wir jetzt wir hätten,
+
+178
+00:07:59,220 --> 00:08:00,580
+müssten wir entscheiden, ist es
+
+179
+00:08:00,580 --> 00:08:03,680
+Genitiv, Dativ oder Plural. Also
+
+180
+00:08:03,680 --> 00:08:05,940
+Nominativ, Plural. Also Genitiv,
+
+181
+00:08:05,940 --> 00:08:07,740
+Singular, Dativ, Singular oder
+
+182
+00:08:07,740 --> 00:08:10,640
+Nominativ, Plural. müssten wir anhand
+
+183
+00:08:10,640 --> 00:08:12,760
+des Prädikates überprüfen, ob hier
+
+184
+00:08:12,760 --> 00:08:16,180
+ein Nominativ möglich wäre. Das
+
+185
+00:08:16,180 --> 00:08:18,140
+heißt, das Prädikat müsste auch im
+
+186
+00:08:18,140 --> 00:08:19,940
+Plural stehen, damit der Nominativ
+
+187
+00:08:19,940 --> 00:08:21,640
+funktionieren könnte. Falls nicht,
+
+188
+00:08:21,800 --> 00:08:23,360
+müssen wir entscheiden, handelt es
+
+189
+00:08:23,360 --> 00:08:24,800
+sich hier um ein Genitiv oder ein
+
+190
+00:08:24,800 --> 00:08:26,980
+Dativ. Das wiederum können wir auch
+
+191
+00:08:26,980 --> 00:08:28,800
+an dem Prädikat abhängig machen, wenn
+
+192
+00:08:28,800 --> 00:08:30,360
+wir zum Beispiel ein Prädikat haben,
+
+193
+00:08:30,480 --> 00:08:34,520
+das einen Dativ braucht. Auch, sodass
+
+194
+00:08:34,520 --> 00:08:37,040
+zum Beispiel Wilkon-Sulere mit einem
+
+195
+00:08:37,040 --> 00:08:39,620
+Dativ gebildet werden kann, gäbe es
+
+196
+00:08:39,620 --> 00:08:40,980
+hier eine hohe Wahrscheinlichkeit,
+
+197
+00:08:40,980 --> 00:08:43,640
+dass wir hier im Dativ steht. Das
+
+198
+00:08:43,640 --> 00:08:45,420
+heißt, wir müssen anhand der anderen
+
+199
+00:08:45,420 --> 00:08:49,120
+Satzglieder überprüfen, um welchen
+
+200
+00:08:49,120 --> 00:08:50,960
+Kasus es sich handelt und ob es sich
+
+201
+00:08:50,960 --> 00:08:52,560
+wirklich um diesen Kasus handelt.
+
+202
+00:08:53,020 --> 00:08:56,800
+Gut, gehen wir weiter zur
+
+203
+00:08:56,800 --> 00:08:59,500
+Urdeklination. Die Odeklination wird
+
+204
+00:08:59,500 --> 00:09:01,600
+für die meisten Substantive mit Genus
+
+205
+00:09:01,600 --> 00:09:03,880
+Maskulinum oder Neutrum verwendet.
+
+206
+00:09:03,940 --> 00:09:07,660
+Die Substantive enden auf "-us", das
+
+207
+00:09:07,660 --> 00:09:09,480
+heißt im Nominativ. Das heißt,
+
+208
+00:09:09,600 --> 00:09:11,700
+Nominative, die auf "-us", enden,
+
+209
+00:09:11,700 --> 00:09:14,700
+sind demnach auch Maskuliner in den
+
+210
+00:09:14,700 --> 00:09:17,940
+meisten Fällen. Der Vokativ wird im
+
+211
+00:09:17,940 --> 00:09:20,300
+Singular mit "-e", gebildet. Das als
+
+212
+00:09:20,300 --> 00:09:22,160
+Grundsätzlichkeiten für die
+
+213
+00:09:22,160 --> 00:09:23,640
+Odeklination. Wir haben also
+
+214
+00:09:23,640 --> 00:09:25,740
+festgestellt, es gibt sowohl
+
+215
+00:09:25,740 --> 00:09:27,600
+maskuline als auch Neutrum
+
+216
+00:09:27,600 --> 00:09:30,900
+-Substantive,
+
+217
+00:09:30,920 --> 00:09:32,760
+die mit der Urdeklination gebildet
+
+218
+00:09:32,760 --> 00:09:34,240
+werden. Hierbei müssen wir dann
+
+219
+00:09:34,240 --> 00:09:38,020
+darauf achten, dass die Substantive,
+
+220
+00:09:38,040 --> 00:09:40,440
+die im Nominativ eine Ur-S-Händung
+
+221
+00:09:40,440 --> 00:09:43,860
+haben, meistens bzw. immer maskuliner
+
+222
+00:09:43,860 --> 00:09:46,500
+sind und kein Neutrum-Geschlecht
+
+223
+00:09:46,500 --> 00:09:48,760
+haben. Wir sehen das hier einmal an
+
+224
+00:09:48,760 --> 00:09:50,680
+dem Beispiel Advocatus.
+
+225
+00:09:53,420 --> 00:09:56,080
+Advocatus, Advocati, Advocato,
+
+226
+00:09:56,080 --> 00:09:59,120
+Advocatum, Advocato, Advocate.
+
+227
+00:10:00,860 --> 00:10:03,440
+Advocati, Advocatorum, Advocatis,
+
+228
+00:10:03,460 --> 00:10:07,660
+Advocatos, Advocatis, Advocati. Wir
+
+229
+00:10:07,660 --> 00:10:09,700
+stellen schnell fest, dass wir hier
+
+230
+00:10:09,700 --> 00:10:11,680
+auch wieder den Genitiv Plural mit
+
+231
+00:10:11,680 --> 00:10:13,980
+einer Rum-Endung haben. Wir haben bei
+
+232
+00:10:13,980 --> 00:10:16,360
+der O-Deklination A-Rum und bei der O
+
+233
+00:10:16,360 --> 00:10:18,440
+-Deklination O-Rum. Wir können also
+
+234
+00:10:18,440 --> 00:10:20,760
+feststellen, dass für die A- und O
+
+235
+00:10:20,760 --> 00:10:22,620
+-Deklination in den meisten Fällen
+
+236
+00:10:22,620 --> 00:10:24,660
+wir ein Rum im Genitiv Plural haben.
+
+237
+00:10:24,820 --> 00:10:26,580
+Das macht es uns leichter, wenn wir
+
+238
+00:10:26,580 --> 00:10:30,440
+uns leichte Eselsbrücken erdenken,
+
+239
+00:10:30,580 --> 00:10:33,480
+dass wir im Satz die Substantive
+
+240
+00:10:33,480 --> 00:10:35,420
+schneller dem richtigen Kasus
+
+241
+00:10:35,420 --> 00:10:38,560
+einzuordnen können. Wir stellen auch
+
+242
+00:10:38,560 --> 00:10:39,860
+fest, wir haben hier wieder das
+
+243
+00:10:39,860 --> 00:10:43,000
+Genitiv Singular und Nominativ Plural
+
+244
+00:10:43,000 --> 00:10:44,700
+Problem. Auch hier gilt wieder
+
+245
+00:10:44,700 --> 00:10:47,100
+folgende Methode anzuwenden. Wir
+
+246
+00:10:47,100 --> 00:10:50,300
+stellen zudem fest, dass Vocatis und
+
+247
+00:10:50,300 --> 00:10:53,080
+Vocatis, also Dativ und Appellativ
+
+248
+00:10:53,080 --> 00:10:56,680
+Plural, gleich mit der Endung der A
+
+249
+00:10:56,680 --> 00:10:58,800
+-Deklination sind. Wir haben auch
+
+250
+00:10:58,800 --> 00:11:02,260
+wieder die IS-Endung. Das ist auch
+
+251
+00:11:02,260 --> 00:11:03,620
+ein Kennzeichen dieser beiden
+
+252
+00:11:03,620 --> 00:11:05,620
+Deklinationen. Wir können also, wenn
+
+253
+00:11:05,620 --> 00:11:07,840
+wir eine IS-Endung haben und es sich
+
+254
+00:11:07,840 --> 00:11:09,500
+hier um die A- oder O-Deklination
+
+255
+00:11:09,500 --> 00:11:12,560
+handelt,
+
+256
+00:11:12,580 --> 00:11:14,080
+immer darauf schließen, dass wir
+
+257
+00:11:14,080 --> 00:11:16,000
+entweder oder haben. Das müssen wir
+
+258
+00:11:16,000 --> 00:11:19,040
+natürlich auch wieder innerhalb des
+
+259
+00:11:19,040 --> 00:11:21,920
+Satzes überprüfen. Ablative stehen
+
+260
+00:11:21,920 --> 00:11:24,200
+zum Beispiel meistens im Kontext mit
+
+261
+00:11:24,200 --> 00:11:26,760
+Adverbialen. Wie zum Beispiel
+
+262
+00:11:26,760 --> 00:11:29,980
+Adlativus locus oder Temporis und
+
+263
+00:11:29,980 --> 00:11:32,360
+weiteren. Der Dativ steht eher als
+
+264
+00:11:32,360 --> 00:11:34,400
+direktes oder indirektes Objekt im
+
+265
+00:11:34,400 --> 00:11:38,300
+Satz. Okay, kommen wir nun zur
+
+266
+00:11:38,300 --> 00:11:42,420
+Odeklination mit besonderer Endung.
+
+267
+00:11:44,480 --> 00:11:49,980
+Das heißt, einige dieser Substantive
+
+268
+00:11:49,980 --> 00:11:53,160
+der Urdeklination haben gar keine US
+
+269
+00:11:53,160 --> 00:11:55,600
+-Endung, also nicht nur. Wie gesagt,
+
+270
+00:11:55,740 --> 00:11:58,140
+es ist wichtig, dass wir wissen, US
+
+271
+00:11:58,140 --> 00:12:00,760
+-Endung ist in den meisten Fällen
+
+272
+00:12:00,760 --> 00:12:03,200
+maskulin. Zusätzlich gibt es noch
+
+273
+00:12:03,200 --> 00:12:05,720
+Neutrum und die schauen wir uns auch
+
+274
+00:12:05,720 --> 00:12:08,000
+gleich an. Aber es gibt eben auch
+
+275
+00:12:08,000 --> 00:12:11,100
+Substantive, die im Nominativ
+
+276
+00:12:11,100 --> 00:12:13,460
+Singular gar keine US-Endung haben.
+
+277
+00:12:13,480 --> 00:12:15,380
+Das heißt, wie zum Beispiel hier
+
+278
+00:12:15,380 --> 00:12:21,500
+Puer, der Junge, wird ohne US
+
+279
+00:12:21,500 --> 00:12:23,220
+gebildet, folgt allerdings der
+
+280
+00:12:23,220 --> 00:12:25,200
+gleichen Deklinationsordnung. Das
+
+281
+00:12:25,200 --> 00:12:27,220
+heißt, hier können wir nur mithilfe
+
+282
+00:12:27,220 --> 00:12:29,300
+des Genitiv Singular, so wie eingangs
+
+283
+00:12:29,300 --> 00:12:31,600
+erwähnt, erkennen, dass es sich hier
+
+284
+00:12:31,600 --> 00:12:35,160
+um die O-Deklination maskuliner
+
+285
+00:12:35,160 --> 00:12:37,140
+handelt. Okay, wir sehen auch wieder
+
+286
+00:12:37,140 --> 00:12:40,660
+IS, IS oder das O. Kommen wir nun zu
+
+287
+00:12:40,660 --> 00:12:42,460
+der O-Deklination mit Geschlecht.
+
+288
+00:12:42,480 --> 00:12:45,780
+Neutrum. Hierbei ist es so, dass
+
+289
+00:12:45,780 --> 00:12:48,740
+Nominative, also der Nominativ
+
+290
+00:12:48,740 --> 00:12:51,460
+Singular auf um Neutra ist. Das
+
+291
+00:12:51,460 --> 00:12:53,520
+heißt, wir können feststellen, Us
+
+292
+00:12:53,520 --> 00:12:56,980
+maskuliner, um Neutrum. Jetzt müssen
+
+293
+00:12:56,980 --> 00:12:58,760
+wir allerdings aufpassen, es gibt
+
+294
+00:12:58,760 --> 00:13:00,360
+natürlich auch in der Urdeklaration
+
+295
+00:13:00,360 --> 00:13:04,080
+maskulin das um, also die um-Endung,
+
+296
+00:13:04,080 --> 00:13:06,840
+wie zum Beispiel puero. Das dürfen
+
+297
+00:13:06,840 --> 00:13:09,680
+wir nicht mit dem Nominativ der
+
+298
+00:13:09,680 --> 00:13:12,900
+Neutra. O-Deklination verwechseln.
+
+299
+00:13:12,920 --> 00:13:15,320
+Wir können das daran erkennen, dass
+
+300
+00:13:15,320 --> 00:13:18,100
+der Plural mit A gebildet wird. Das
+
+301
+00:13:18,100 --> 00:13:21,720
+heißt, in der O-Deklination mit
+
+302
+00:13:21,720 --> 00:13:24,740
+Geschlecht Neutrum ist es so, wie wir
+
+303
+00:13:24,740 --> 00:13:26,700
+hier an dem Beispiel Templum sehen,
+
+304
+00:13:26,900 --> 00:13:30,360
+dass der Nominativ Plural und der
+
+305
+00:13:30,360 --> 00:13:36,160
+Akkusativ Plural mit A geendet werden
+
+306
+00:13:36,160 --> 00:13:38,780
+und nicht so, wie wir das aus den
+
+307
+00:13:38,780 --> 00:13:40,940
+anderen kennen mit I oder mit OS.
+
+308
+00:13:41,460 --> 00:13:45,660
+Okay, das ist soweit zu sagen. Gibt
+
+309
+00:13:45,660 --> 00:13:46,540
+es bis hierhin Fragen?
+
+310
+00:13:55,660 --> 00:13:58,220
+Sehr gut. Kommen wir nun zu der
+
+311
+00:13:58,220 --> 00:14:00,200
+konsonantischen Deklination. Also das
+
+312
+00:14:00,200 --> 00:14:02,120
+wäre es jetzt wichtig zur
+
+313
+00:14:02,120 --> 00:14:03,620
+Urdeklination zu sagen. Wir stellen
+
+314
+00:14:03,620 --> 00:14:06,660
+also fest, es gibt die US-Endung mit
+
+315
+00:14:06,660 --> 00:14:09,360
+Maskulin, also die Endung der
+
+316
+00:14:09,360 --> 00:14:12,280
+Maskuliner, die keine US-Endung
+
+317
+00:14:12,280 --> 00:14:14,100
+haben, sondern eine andere. wie zum
+
+318
+00:14:14,100 --> 00:14:18,580
+Beispiel er oder nur er und die
+
+319
+00:14:18,580 --> 00:14:21,980
+Neutra, die als Besonderheit eben im
+
+320
+00:14:21,980 --> 00:14:28,660
+Nominativ um hat und im Plural das a,
+
+321
+00:14:28,880 --> 00:14:31,060
+sowohl im Nominativ als auch im
+
+322
+00:14:31,060 --> 00:14:32,880
+Akkusativ. Kommen wir nun zur
+
+323
+00:14:32,880 --> 00:14:34,140
+konsonantischen Deklination.
+
+324
+00:14:34,720 --> 00:14:36,500
+Substantive der konsonantischen
+
+325
+00:14:36,500 --> 00:14:37,900
+Deklination haben zwei
+
+326
+00:14:37,900 --> 00:14:40,100
+Deklinationsordnungen. Die meisten
+
+327
+00:14:40,100 --> 00:14:41,960
+Substantive folgen dem Prinzip der
+
+328
+00:14:41,960 --> 00:14:42,720
+ersten Deklination.
+
+329
+00:14:42,740 --> 00:14:44,420
+Deklinationsordnung, die ich jetzt
+
+330
+00:14:44,420 --> 00:14:46,560
+vorstellen werde. Der Nominativ
+
+331
+00:14:46,560 --> 00:14:48,360
+Singular hat keine zusätzliche
+
+332
+00:14:48,360 --> 00:14:50,560
+Kasusendung. Das heißt, er bleibt so,
+
+333
+00:14:50,600 --> 00:14:51,900
+wie er ist. Er ist im Grunde genommen
+
+334
+00:14:51,900 --> 00:14:55,120
+nur der Kern. Wir sehen es hier an
+
+335
+00:14:55,120 --> 00:14:57,820
+dem Beispiel Senator. Senator bleibt
+
+336
+00:14:57,820 --> 00:15:01,160
+Senator. Senatoris, Senatori,
+
+337
+00:15:01,240 --> 00:15:04,420
+Senatorim, Senatori, Senator.
+
+338
+00:15:04,940 --> 00:15:08,140
+Achtung, der Vokativ bleibt auch ohne
+
+339
+00:15:08,140 --> 00:15:11,320
+Deklinationsendung. Dann Senatores,
+
+340
+00:15:11,720 --> 00:15:15,360
+Senatorum, Senatoribus, Senatores,
+
+341
+00:15:15,700 --> 00:15:18,640
+Senatoribus, Senatores. Auch hier
+
+342
+00:15:18,640 --> 00:15:21,560
+haben wir im Vokativ die gleiche
+
+343
+00:15:21,560 --> 00:15:23,600
+Änderung wie der Nominativ. Wenn wir
+
+344
+00:15:23,600 --> 00:15:25,540
+uns das einmal vorstellen oder wenn
+
+345
+00:15:25,540 --> 00:15:26,980
+wir die Besonderheiten dieser
+
+346
+00:15:26,980 --> 00:15:29,280
+Deklinationsänderung herausstellen
+
+347
+00:15:29,280 --> 00:15:30,600
+wollen, stellen wir fest, dass der
+
+348
+00:15:30,600 --> 00:15:32,960
+Nominativ und Akkusativ Plural gleich
+
+349
+00:15:32,960 --> 00:15:36,040
+sind. Wir haben hier im Akkusativ
+
+350
+00:15:36,040 --> 00:15:38,800
+Singular das E, aber auch wieder ein
+
+351
+00:15:38,800 --> 00:15:42,240
+M und haben auch ein Um. Nicht ein
+
+352
+00:15:42,240 --> 00:15:44,380
+Orum, nicht ein Arum, sondern nur ein
+
+353
+00:15:44,380 --> 00:15:46,380
+Um. Wenn wir nämlich genau schauen,
+
+354
+00:15:46,480 --> 00:15:48,700
+stellen wir fest, dass das R und hier
+
+355
+00:15:48,700 --> 00:15:50,600
+in diesem Fall auch das O, also das
+
+356
+00:15:50,600 --> 00:15:52,840
+Orum, bereits im Wort enthalten sind.
+
+357
+00:15:53,920 --> 00:15:55,940
+Als besondere Kennzeichen ist auch
+
+358
+00:15:55,940 --> 00:15:58,560
+hier der Dativ und der Applativ
+
+359
+00:15:58,560 --> 00:16:02,880
+wieder im Plural gleich. die Endung.
+
+360
+00:16:04,500 --> 00:16:07,580
+Einige Substantive folgen aber auch
+
+361
+00:16:07,580 --> 00:16:10,020
+der zweiten Deklinationsordnung. Die
+
+362
+00:16:10,020 --> 00:16:12,900
+haben zur Besonderheit das IUM im
+
+363
+00:16:12,900 --> 00:16:17,040
+Plural. Viele ihrer Art gleichen sich
+
+364
+00:16:17,040 --> 00:16:18,940
+zudem im Nominativ und Genitiv
+
+365
+00:16:18,940 --> 00:16:23,040
+Singular, wie zum Beispiel KIVES. Ist
+
+366
+00:16:23,040 --> 00:16:24,820
+auch maskulin, also hier ist kein
+
+367
+00:16:24,820 --> 00:16:26,760
+Unterschied zwischen, also der
+
+368
+00:16:26,760 --> 00:16:28,180
+Genera, kein Genera, also
+
+369
+00:16:28,180 --> 00:16:30,120
+Genusunterschied, sondern hier ist
+
+370
+00:16:30,120 --> 00:16:31,840
+die einfache Deklination. und um den
+
+371
+00:16:31,840 --> 00:16:33,420
+Unterschied, das erkennen wir eben
+
+372
+00:16:33,420 --> 00:16:36,240
+daran, dass es Kivis Kivis heißt und
+
+373
+00:16:36,240 --> 00:16:38,240
+dann wissen wir automatisch, dass es
+
+374
+00:16:38,240 --> 00:16:40,660
+im Genitiv Plural Kivium heißt. Das
+
+375
+00:16:40,660 --> 00:16:42,160
+heißt, hier haben wir noch ein I
+
+376
+00:16:42,160 --> 00:16:44,500
+zusätzlich und wir stellen fest, dass
+
+377
+00:16:44,500 --> 00:16:46,580
+wir weder ein O noch ein R, also kein
+
+378
+00:16:46,580 --> 00:16:48,640
+Rum haben, sondern hier ein Ium
+
+379
+00:16:48,640 --> 00:16:51,060
+haben. Der Rest der Formeln bleibt
+
+380
+00:16:51,060 --> 00:16:51,420
+gleich.
+
+381
+00:16:56,560 --> 00:16:59,660
+Wenn wir nun die konsonantische
+
+382
+00:16:59,660 --> 00:17:01,500
+Deklination mit Genus Neutrum sehen,
+
+383
+00:17:04,920 --> 00:17:08,020
+stellen wir fest, dass die in ihren
+
+384
+00:17:08,020 --> 00:17:09,580
+Besonderheiten der Urdefinition
+
+385
+00:17:09,580 --> 00:17:11,400
+gleicht. Und zwar haben wir hier
+
+386
+00:17:11,400 --> 00:17:15,460
+Nominativ und Akkusativ Plural mit A
+
+387
+00:17:15,460 --> 00:17:18,940
+-Endung. Kein I dazu im Genitiv
+
+388
+00:17:18,940 --> 00:17:23,140
+Plural, aber wir haben eben Corpus
+
+389
+00:17:23,140 --> 00:17:26,420
+Corporis. Ja, wir kennen das eben
+
+390
+00:17:26,420 --> 00:17:29,560
+daran, dass die Form sich ändert. Das
+
+391
+00:17:29,560 --> 00:17:31,600
+heißt, wir haben hier Korpus und wir
+
+392
+00:17:31,600 --> 00:17:35,600
+müssen an den Wortstamm ein OR
+
+393
+00:17:35,600 --> 00:17:39,140
+hinzufügen
+
+394
+00:17:39,140 --> 00:17:41,480
+und dann die Deklinationsendung
+
+395
+00:17:41,480 --> 00:17:43,220
+hinzufügen und das bleibt für den
+
+396
+00:17:43,220 --> 00:17:45,940
+Rest der Deklinationsordnung gleich,
+
+397
+00:17:46,020 --> 00:17:47,780
+bis auf den Vokativ, der ja wie
+
+398
+00:17:47,780 --> 00:17:49,340
+bereits gesagt in den meisten Fällen
+
+399
+00:17:49,340 --> 00:17:53,880
+im Nominativ gleicht. Und so stellen
+
+400
+00:17:53,880 --> 00:17:55,580
+wir auch wieder fest, im Genitiv
+
+401
+00:17:55,580 --> 00:17:57,540
+brauchen wir kein Ion, denn wir haben
+
+402
+00:17:57,540 --> 00:17:59,600
+hier auch wieder das Orem, so wie wir
+
+403
+00:17:59,600 --> 00:18:01,720
+es aus der Urdeklination kennen, und
+
+404
+00:18:01,720 --> 00:18:05,360
+hier das OR-Teil als Wortstamm und
+
+405
+00:18:05,360 --> 00:18:10,480
+das UM angehangen. Okay, dabei müssen
+
+406
+00:18:10,480 --> 00:18:11,900
+wir natürlich beachten, dass der
+
+407
+00:18:11,900 --> 00:18:14,140
+Genitiv eben wie bereits erklärt
+
+408
+00:18:14,140 --> 00:18:17,920
+formgebend ist. Okay, einige Neuter
+
+409
+00:18:17,920 --> 00:18:19,880
+verändern mehrere Formen und nehmen
+
+410
+00:18:19,880 --> 00:18:21,340
+alle Eigenarten der anderen.
+
+411
+00:18:21,580 --> 00:18:23,280
+Deklination mit auf. Das heißt, im
+
+412
+00:18:23,280 --> 00:18:25,640
+Grunde genommen, das Maximum der
+
+413
+00:18:25,640 --> 00:18:28,040
+konsonantischen Deklination sehen wir
+
+414
+00:18:28,040 --> 00:18:30,240
+hier an dem Beispiel Mare, Mares.
+
+415
+00:18:30,500 --> 00:18:32,440
+Hier stellen wir fest, wir haben hier
+
+416
+00:18:32,440 --> 00:18:36,300
+wieder den Nominativ unverändert,
+
+417
+00:18:36,320 --> 00:18:38,500
+also ohne Deklinationsordnung, aber
+
+418
+00:18:38,500 --> 00:18:41,980
+diesmal mit Re, also Mare. Dann haben
+
+419
+00:18:41,980 --> 00:18:45,680
+wir Mares, Mare, Mare, Marie im
+
+420
+00:18:45,680 --> 00:18:48,880
+Applativ, das ist wichtig, also
+
+421
+00:18:48,880 --> 00:18:52,860
+gleich der hier, dann Mare. So, zudem
+
+422
+00:18:52,860 --> 00:18:56,060
+stellen wir fest, dass wir hier Maria
+
+423
+00:18:56,060 --> 00:18:57,900
+haben. Also haben wir nicht nur das
+
+424
+00:18:57,900 --> 00:19:01,080
+A, sondern noch ein I ergänzt und ein
+
+425
+00:19:01,080 --> 00:19:02,960
+Ium, so wie wir das vorhin schon
+
+426
+00:19:02,960 --> 00:19:04,200
+kannten. Wir haben das hier an dem
+
+427
+00:19:04,200 --> 00:19:09,040
+Beispiel Kivium gesehen. Und der
+
+428
+00:19:09,040 --> 00:19:10,900
+Nominativ und der Akkusativ eben
+
+429
+00:19:10,900 --> 00:19:12,260
+gleich, wie wir es aus der
+
+430
+00:19:12,260 --> 00:19:14,560
+Konsonantischen eben kennen. Aber mit
+
+431
+00:19:14,560 --> 00:19:15,940
+Besonderheit, dass wir nicht nur ein
+
+432
+00:19:15,940 --> 00:19:18,340
+A, sondern ein Ia haben. Und das
+
+433
+00:19:18,340 --> 00:19:20,100
+verfolgt sich dann auch. Auch im
+
+434
+00:19:20,100 --> 00:19:23,020
+Vokativ. Achtung! Einige Substantive
+
+435
+00:19:23,020 --> 00:19:23,980
+mit konsonantischer
+
+436
+00:19:23,980 --> 00:19:26,320
+Deklinationsordnung sind auch Femina.
+
+437
+00:19:26,500 --> 00:19:30,100
+Wie zum Beispiel Regio Regiones,
+
+438
+00:19:30,380 --> 00:19:33,900
+Plebs Plebis oder Vox Vocis. Haben
+
+439
+00:19:33,900 --> 00:19:37,380
+das Genus Femininum.
+
+440
+00:19:38,650 --> 00:19:39,920
+Gibt es bis hierhin Fragen?
+
+441
+00:19:49,350 --> 00:19:52,200
+Super! Kommen wir nun zur U
+
+442
+00:19:52,200 --> 00:19:54,460
+-Deklination. Die meisten Substantive
+
+443
+00:19:54,460 --> 00:19:57,420
+der U-Deklination sind maskuliner. Es
+
+444
+00:19:57,420 --> 00:19:58,720
+gibt einige Ausnahmen der
+
+445
+00:19:58,720 --> 00:20:01,220
+Genussverteilung, allerdings wollen
+
+446
+00:20:01,220 --> 00:20:03,700
+wir uns hier mal das grundsätzliche
+
+447
+00:20:03,700 --> 00:20:05,180
+Beispiel anschauen. Wir sehen es hier
+
+448
+00:20:05,180 --> 00:20:07,940
+an dem Beispiel Kasus, maskulin der
+
+449
+00:20:07,940 --> 00:20:12,280
+Fall. Kasus, Kasus, Kasui, Kasum,
+
+450
+00:20:12,280 --> 00:20:18,680
+Kasu, Kasus. Kasus, Kasuum, Kasibus,
+
+451
+00:20:18,700 --> 00:20:22,800
+Kasus, Kasibus, Kasus. Auch hier,
+
+452
+00:20:22,840 --> 00:20:26,380
+Observation, ist das OS nicht für die
+
+453
+00:20:26,380 --> 00:20:27,800
+Urdeklaration das Erkennungswort. wir
+
+454
+00:20:27,800 --> 00:20:30,120
+daran, dass der Genitiv ebenfalls
+
+455
+00:20:30,120 --> 00:20:33,300
+gleich ist. Das heißt, sobald der
+
+456
+00:20:33,300 --> 00:20:35,360
+Genitiv mit Us-Endung ist, wissen
+
+457
+00:20:35,360 --> 00:20:37,040
+wir, es ist die U-Deklination und
+
+458
+00:20:37,040 --> 00:20:39,100
+dann greifen einige Dinge. Und zwar
+
+459
+00:20:39,100 --> 00:20:41,840
+stellen wir fest, dass bis auf den
+
+460
+00:20:41,840 --> 00:20:44,540
+Dativ und den Ablativ Plural alle
+
+461
+00:20:44,540 --> 00:20:46,500
+Formen mit einem U gebildet werden.
+
+462
+00:20:47,060 --> 00:20:48,880
+Das heißt, anders als in der U
+
+463
+00:20:48,880 --> 00:20:50,240
+-Deklination haben wir zum Beispiel
+
+464
+00:20:50,240 --> 00:20:52,700
+auch ein I oft. Hier haben wir das U
+
+465
+00:20:52,700 --> 00:20:57,040
+Wir stellen also fest, Kasus, also
+
+466
+00:20:57,040 --> 00:20:59,380
+Kasus, Kasus. Und wir haben im
+
+467
+00:20:59,380 --> 00:21:02,260
+Genitiv Plural Kasuum, ein doppeltes
+
+468
+00:21:02,260 --> 00:21:04,720
+U. Der Nominativ und der Akkusativ
+
+469
+00:21:04,720 --> 00:21:06,240
+sind gleich, wie wir es aus der
+
+470
+00:21:06,240 --> 00:21:08,980
+Konsonantischen kennen. Beide mit US
+
+471
+00:21:08,980 --> 00:21:10,640
+gebildet. Und wir haben noch eine
+
+472
+00:21:10,640 --> 00:21:12,260
+Besonderheit. Wir können nicht klar
+
+473
+00:21:12,260 --> 00:21:14,320
+differenzieren, ist es Singular oder
+
+474
+00:21:14,320 --> 00:21:16,020
+Plural. Das können wir dann eben
+
+475
+00:21:16,020 --> 00:21:18,800
+wieder aus dem Satzkontext erklären.
+
+476
+00:21:18,800 --> 00:21:21,560
+erklären. Einige Substantive können
+
+477
+00:21:21,560 --> 00:21:22,760
+die Endung der O-Deklination
+
+478
+00:21:22,760 --> 00:21:24,540
+übernehmen, wie wir zum Beispiel das
+
+479
+00:21:24,540 --> 00:21:27,620
+aus Domus, Domus, kennen, ist Feminin
+
+480
+00:21:27,620 --> 00:21:30,000
+und kann im Akkusativ Plural auch mit
+
+481
+00:21:30,000 --> 00:21:34,260
+Domus gebildet werden. Ja, also es
+
+482
+00:21:34,260 --> 00:21:36,760
+muss nicht immer zwangsläufig Domus
+
+483
+00:21:36,760 --> 00:21:39,100
+sein, sondern kann auch das OS
+
+484
+00:21:39,100 --> 00:21:42,220
+enthalten. Soweit zur O-Deklination.
+
+485
+00:21:42,520 --> 00:21:44,900
+Die E-Deklination ist allermeist
+
+486
+00:21:44,900 --> 00:21:47,680
+Feminin, die Nominativ und Akkusativ
+
+487
+00:21:47,800 --> 00:21:50,040
+Endung, gleich in der konsonantischen
+
+488
+00:21:50,040 --> 00:21:52,560
+Deklination der Maskuliner. Also
+
+489
+00:21:52,560 --> 00:21:54,880
+haben wir hier ES-Endung, ES-Endung
+
+490
+00:21:54,880 --> 00:21:58,480
+und wir haben, wie wir das zum
+
+491
+00:21:58,480 --> 00:22:00,720
+Beispiel hier auch am Nominativ
+
+492
+00:22:00,720 --> 00:22:03,900
+singen wollen, sind Res, Re, Re, Rem,
+
+493
+00:22:04,860 --> 00:22:09,840
+ja, Re, Res, Re, Rum, auch hier
+
+494
+00:22:09,840 --> 00:22:12,700
+wieder das Rum, diesmal nur mit E,
+
+495
+00:22:12,920 --> 00:22:15,520
+für die E-Deklination, also auch wie
+
+496
+00:22:15,520 --> 00:22:17,480
+die die U-Deklination sehr E-lastig.
+
+497
+00:22:17,520 --> 00:22:19,420
+Hier haben wir keine einzige Form,
+
+498
+00:22:19,500 --> 00:22:22,420
+die nicht mit E gebildet wird. Das
+
+499
+00:22:22,420 --> 00:22:24,220
+Rebus kennen wir schon von Ribus,
+
+500
+00:22:24,220 --> 00:22:26,200
+hier in der E-Deklination mit Rebus.
+
+501
+00:22:26,500 --> 00:22:28,660
+Res und Res sagte ich bereits,
+
+502
+00:22:28,800 --> 00:22:30,480
+genauso Dativ und Applativ gleich.
+
+503
+00:22:31,600 --> 00:22:33,960
+Okay, auch für die E-Deklination gibt
+
+504
+00:22:33,960 --> 00:22:35,680
+es eben Ausnahmen, wie zum Beispiel
+
+505
+00:22:35,680 --> 00:22:39,360
+Dies oder Diei ist maskulin. Der Tag
+
+506
+00:22:39,360 --> 00:22:42,500
+ist maskulin. ansonsten ist in den
+
+507
+00:22:42,500 --> 00:22:44,400
+meisten Fällen die E-Deklination
+
+508
+00:22:44,400 --> 00:22:47,260
+feminin. Gibt es bis hierhin Fragen?
+
+509
+00:22:54,550 --> 00:22:57,470
+Super. Kommen wir nun zu der
+
+510
+00:22:57,470 --> 00:22:59,950
+Übersicht der General. Die Formendung
+
+511
+00:22:59,950 --> 00:23:02,030
+und das entsprechende Geschlecht. Wir
+
+512
+00:23:02,030 --> 00:23:03,790
+sehen zum Beispiel, dass oder wir
+
+513
+00:23:03,790 --> 00:23:07,090
+haben festgestellt, dass wir
+
+514
+00:23:07,090 --> 00:23:08,610
+Ausnahmen besitzen und es ist
+
+515
+00:23:08,610 --> 00:23:10,130
+trotzdem schwierig und es ist
+
+516
+00:23:10,130 --> 00:23:13,010
+schwierig ein Muster zu erkennen und
+
+517
+00:23:13,010 --> 00:23:15,310
+zu charakterisieren. Jedoch gibt es
+
+518
+00:23:15,310 --> 00:23:17,830
+einige allgemeingültige Muster, die
+
+519
+00:23:17,830 --> 00:23:19,690
+wir uns merken können. Wenn wir zum
+
+520
+00:23:19,690 --> 00:23:22,310
+Beispiel eine OR oder eine ES mit
+
+521
+00:23:22,310 --> 00:23:25,070
+Genitiv ITIS haben, dann haben wir
+
+522
+00:23:25,070 --> 00:23:27,390
+das Geschlecht Maskulin, wie zum
+
+523
+00:23:27,390 --> 00:23:30,810
+Beispiel bei Senator oder Miles. Bei
+
+524
+00:23:30,810 --> 00:23:34,830
+den Endungen O, AS, ES oder IS haben
+
+525
+00:23:34,830 --> 00:23:37,110
+wir meistens Feminine als Geschlecht,
+
+526
+00:23:37,110 --> 00:23:41,150
+wie zum Beispiel Optio Clamatas,
+
+527
+00:23:41,150 --> 00:23:42,790
+Entschuldigung, Clamati Satia
+
+528
+00:23:42,790 --> 00:23:46,310
+clarmitas, Entschuldigung, als
+
+529
+00:23:46,310 --> 00:23:49,210
+Schaden und Unglück, oder nubes oder
+
+530
+00:23:49,210 --> 00:23:51,470
+navis, die Wolke oder das Schiff,
+
+531
+00:23:51,510 --> 00:23:55,670
+Feminin, oder eben, wie ich vergessen
+
+532
+00:23:55,670 --> 00:23:58,370
+habe zu sagen, das S oder das X für
+
+533
+00:23:58,370 --> 00:24:00,450
+Plebs und Vox, das haben wir gerade
+
+534
+00:24:00,450 --> 00:24:03,910
+schon als Beispiel gesehen. Die US
+
+535
+00:24:03,910 --> 00:24:07,050
+-Endung und die EN-Endung ist
+
+536
+00:24:07,050 --> 00:24:09,810
+meistens für das Geschlecht neutrum
+
+537
+00:24:09,810 --> 00:24:11,730
+zuständig. Achtung, bei der O
+
+538
+00:24:11,730 --> 00:24:13,530
+-Deklination haben wir gesagt, haben
+
+539
+00:24:13,530 --> 00:24:18,930
+wir zum Beispiel Servus als US
+
+540
+00:24:18,930 --> 00:24:20,710
+-Endung. Das ist allerdings nicht
+
+541
+00:24:20,710 --> 00:24:22,630
+formgebend. Das verändert sich,
+
+542
+00:24:22,730 --> 00:24:25,190
+deswegen können wir die Endung US nur
+
+543
+00:24:25,190 --> 00:24:27,090
+als neutrum sehen, wie zum Beispiel
+
+544
+00:24:27,090 --> 00:24:30,410
+Corpus oder Opus. Das sind neutre.
+
+545
+00:24:31,950 --> 00:24:33,730
+Neutraformen und die en-Endung wie
+
+546
+00:24:33,730 --> 00:24:37,530
+zum Beispiel Nomen im Nominativ.
+
+547
+00:24:38,630 --> 00:24:41,350
+Okay, das wäre soweit eine kleine
+
+548
+00:24:41,350 --> 00:24:44,330
+Übersicht zur, oder eine die
+
+549
+00:24:44,330 --> 00:24:46,910
+Übersicht zu den Deklinationsklassen.
+
+550
+00:24:46,930 --> 00:24:48,930
+Wenn es keine weiteren Fragen mehr
+
+551
+00:24:48,930 --> 00:24:52,130
+gibt, hoffe ich, dass dieses Webinar
+
+552
+00:24:52,130 --> 00:24:53,710
+dir weitergeholfen hat und ich
+
+553
+00:24:53,710 --> 00:24:54,610
+bedanke mich für deine
+
+554
+00:24:54,610 --> 00:24:57,770
+Aufmerksamkeit. Du kannst jetzt noch
+
+555
+00:24:57,770 --> 00:25:02,730
+Fragen stellen. hier hast. Tschüss,
+
+556
+00:25:02,730 --> 00:25:03,350
+auf Wiedersehen.
+

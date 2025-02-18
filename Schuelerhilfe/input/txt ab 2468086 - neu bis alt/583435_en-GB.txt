@@ -1,0 +1,736 @@
+﻿1
+00:00:00,720 --> 00:00:02,820
+Hello and welcome to the 
+
+2
+00:00:02,820 --> 00:00:05,720
+Schülerhilfe learning videos. 
+
+3
+00:00:05,720 --> 00:00:07,020
+In this video, you will learn the 
+
+4
+00:00:07,020 --> 00:00:08,300
+technical and content-related 
+
+5
+00:00:08,300 --> 00:00:10,080
+basics of a presentation. 
+
+6
+00:00:14,220 --> 00:00:16,180
+You will get an introduction to the 
+
+7
+00:00:16,180 --> 00:00:17,520
+basic functions of the 
+
+8
+00:00:17,520 --> 00:00:20,700
+Impress program. After that, you should be 
+
+9
+00:00:20,700 --> 00:00:22,240
+able to create your own 
+
+10
+00:00:22,240 --> 00:00:23,940
+presentations. 
+
+11
+00:00:25,060 --> 00:00:27,240
+These basic functions 
+
+12
+00:00:27,240 --> 00:00:31,480
+include selecting a layout, 
+
+13
+00:00:31,480 --> 00:00:34,720
+adding text , adding pages and 
+
+14
+00:00:34,720 --> 00:00:39,180
+inserting page numbers. You will 
+
+15
+00:00:39,180 --> 00:00:41,140
+also learn about the basic 
+
+16
+00:00:41,140 --> 00:00:42,600
+content structure of a 
+
+17
+00:00:42,600 --> 00:00:46,340
+presentation. This includes the 
+
+18
+00:00:46,340 --> 00:00:48,800
+start slide, which is something like the 
+
+19
+00:00:48,800 --> 00:00:52,380
+title page of your presentation, the 
+
+20
+00:00:52,380 --> 00:00:54,720
+table of contents, the 
+
+21
+00:00:54,720 --> 00:00:56,860
+references and the 
+
+22
+00:00:56,860 --> 00:01:00,780
+conclusion slide. So let's get started. 
+
+23
+00:01:01,460 --> 00:01:03,560
+First of all, we open the 
+
+24
+00:01:03,560 --> 00:01:07,320
+Emprez program. Once the program 
+
+25
+00:01:07,320 --> 00:01:09,260
+has started, a blank 
+
+26
+00:01:09,260 --> 00:01:11,420
+slide appears and we can 
+
+27
+00:01:11,420 --> 00:01:12,840
+start creating the presentation straight 
+away. 
+
+28
+00:01:17,370 --> 00:01:19,890
+On the left-hand side of the screen you 
+will see 
+
+29
+00:01:19,890 --> 00:01:21,590
+a column with an overview of 
+
+30
+00:01:21,590 --> 00:01:24,090
+all the slides. At the moment you 
+
+31
+00:01:24,090 --> 00:01:25,890
+only see one blank slide here , but soon 
+
+32
+00:01:25,890 --> 00:01:27,710
+we will add more slides. 
+
+33
+00:01:29,230 --> 00:01:30,770
+In the middle, you will always see the 
+
+34
+00:01:30,770 --> 00:01:32,710
+slide that you are currently editing. 
+
+35
+00:01:33,370 --> 00:01:35,350
+And at the top you can see the 
+
+36
+00:01:35,350 --> 00:01:38,190
+ribbon. This is where you will find all 
+the important 
+
+37
+00:01:38,190 --> 00:01:39,870
+functions of Impress. 
+
+38
+00:01:43,950 --> 00:01:46,790
+To insert a text, we look for 
+
+39
+00:01:46,790 --> 00:01:49,510
+the sub-item Insert in the ribbon. 
+
+40
+00:01:54,440 --> 00:01:56,520
+In the ribbon that appears below this, 
+
+41
+00:01:56,520 --> 00:01:59,720
+click on Text field. You 
+
+42
+00:02:04,520 --> 00:02:05,940
+can now 
+
+43
+00:02:05,940 --> 00:02:07,940
+click on a position on the slide where you 
+
+44
+00:02:07,940 --> 00:02:11,930
+want to insert a new text field. The new 
+
+45
+00:02:11,930 --> 00:02:13,610
+text field will then be 
+
+46
+00:02:13,610 --> 00:02:16,910
+created exactly at this point . If you 
+
+47
+00:02:16,910 --> 00:02:18,250
+
+48
+00:02:18,250 --> 00:02:19,910
+want to delete the text field later , 
+simply click on the 
+
+49
+00:02:19,910 --> 00:02:21,190
+rest. edge of the text field to 
+
+50
+00:02:21,190 --> 00:02:24,730
+select it. Now you can delete it by 
+
+51
+00:02:24,730 --> 00:02:26,670
+pressing the Backspace or Delete 
+
+52
+00:02:26,670 --> 00:02:27,350
+ key. 
+
+53
+00:02:32,150 --> 00:02:34,450
+If you 
+
+54
+00:02:34,450 --> 00:02:36,650
+want to change the font size or font, 
+
+55
+00:02:36,650 --> 00:02:38,090
+click on 
+
+56
+00:02:38,090 --> 00:02:40,250
+Format in the ribbon and select the 
+sub-item 
+
+57
+00:02:40,250 --> 00:02:42,970
+Characters. A 
+
+58
+00:02:42,970 --> 00:02:45,090
+pop-up window will then open in which you 
+
+59
+00:02:45,090 --> 00:02:48,250
+can format the font. You can move the 
+
+60
+00:02:48,250 --> 00:02:49,970
+text field by 
+
+61
+00:02:49,970 --> 00:02:51,550
+
+62
+00:02:51,550 --> 00:02:54,490
+holding down the edge of the text box with 
+the mouse and moving it. When the 
+
+63
+00:02:54,490 --> 00:02:56,130
+text is in the correct position, 
+
+64
+00:02:56,230 --> 00:02:57,530
+release the mouse. 
+
+65
+00:03:00,770 --> 00:03:02,610
+As a presentation consists of several 
+
+66
+00:03:02,610 --> 00:03:04,810
+slides, go to the menu ribbon 
+
+67
+00:03:04,810 --> 00:03:08,970
+and click on the menu item Slide. 
+
+68
+00:03:08,970 --> 00:03:11,650
+A ribbon will open . Click on 
+
+69
+00:03:11,650 --> 00:03:15,630
+New slide at the top . If you 
+
+70
+00:03:15,630 --> 00:03:17,390
+want to delete a page later, 
+
+71
+00:03:17,390 --> 00:03:19,330
+select the slide in the overview on the 
+
+72
+00:03:19,330 --> 00:03:21,330
+left-hand side of the screen and delete 
+
+73
+00:03:21,330 --> 00:03:23,090
+it with the Backspace or Delete 
+
+74
+00:03:23,090 --> 00:03:23,450
+ key. 
+
+75
+00:03:26,250 --> 00:03:28,170
+Let's now turn our attention to the 
+
+76
+00:03:28,170 --> 00:03:30,570
+basics of content. The structure of a 
+
+77
+00:03:30,570 --> 00:03:31,330
+presentation. 
+
+78
+00:03:33,760 --> 00:03:35,160
+Of course, the Impress 
+
+79
+00:03:35,160 --> 00:03:36,940
+presentation should present the technical 
+content 
+
+80
+00:03:36,940 --> 00:03:39,700
+. 
+
+81
+00:03:39,700 --> 00:03:41,580
+However, the following additional slides 
+should always be included. 
+
+82
+00:03:42,360 --> 00:03:44,500
+The opening slide with the topic of the 
+
+83
+00:03:44,500 --> 00:03:48,300
+presentation, a table of contents, the 
+
+84
+00:03:48,300 --> 00:03:50,600
+references and a 
+
+85
+00:03:50,600 --> 00:03:52,440
+concluding slide. The 
+
+86
+00:03:55,900 --> 00:03:57,900
+first slide of your presentation is 
+
+87
+00:03:57,900 --> 00:04:01,380
+something like the title page. The 
+following 
+
+88
+00:04:01,380 --> 00:04:03,360
+information should be included on the 
+start slide 
+
+89
+00:04:03,360 --> 00:04:06,740
+. The topic of the 
+
+90
+00:04:06,740 --> 00:04:09,840
+presentation, if it makes sense, 
+
+91
+00:04:09,840 --> 00:04:13,280
+a subtitle, in which course or 
+
+92
+00:04:13,280 --> 00:04:15,300
+subject the presentation takes place, 
+
+93
+00:04:15,340 --> 00:04:16,640
+for example in the 
+
+94
+00:04:16,640 --> 00:04:18,640
+math course, in Spanish or 
+
+95
+00:04:18,640 --> 00:04:22,380
+in the basic German course. 
+
+96
+00:04:22,380 --> 00:04:24,500
+The name of the presenter and 
+
+97
+00:04:24,500 --> 00:04:26,840
+the date on which the 
+
+98
+00:04:26,840 --> 00:04:27,880
+presentation will be given should also be 
+mentioned . 
+
+99
+00:04:30,750 --> 00:04:32,910
+To make the start slide a little more 
+appealing 
+
+100
+00:04:32,910 --> 00:04:34,970
+, it makes sense to 
+
+101
+00:04:34,970 --> 00:04:36,770
+
+102
+00:04:36,770 --> 00:04:37,270
+use a suitable picture or something 
+similar. 
+
+103
+00:04:40,930 --> 00:04:42,850
+Here you can see an example of a 
+
+104
+00:04:42,850 --> 00:04:46,090
+successful start slide. The title and 
+
+105
+00:04:46,090 --> 00:04:48,350
+subtitle are easy to read and 
+
+106
+00:04:48,350 --> 00:04:51,150
+placed in the middle. The other details 
+such as 
+
+107
+00:04:51,150 --> 00:04:53,190
+course, date and the name of the 
+
+108
+00:04:53,190 --> 00:04:55,070
+lecturer are complete. 
+
+109
+00:04:56,630 --> 00:04:58,350
+In addition, the start slide is 
+
+110
+00:04:58,350 --> 00:04:59,590
+
+111
+00:04:59,590 --> 00:05:00,930
+livened up by a funny but appropriate 
+cover picture. 
+
+112
+00:05:05,120 --> 00:05:07,460
+After the start slide, we insert a 
+
+113
+00:05:07,460 --> 00:05:10,300
+table of contents. This should 
+
+114
+00:05:10,300 --> 00:05:13,080
+contain all the topics. 
+
+115
+00:05:13,080 --> 00:05:15,160
+
+116
+00:05:15,160 --> 00:05:17,660
+
+117
+00:05:17,660 --> 00:05:20,740
+However, the start slide, the table of 
+contents itself and the conclusion slide 
+are not listed here. 
+
+118
+00:05:20,740 --> 00:05:22,340
+The table of contents 
+
+119
+00:05:22,340 --> 00:05:23,380
+is followed by the technical part of the 
+
+120
+00:05:23,380 --> 00:05:24,040
+presentation. 
+
+121
+00:05:27,110 --> 00:05:28,910
+After the technical part has been 
+completed 
+
+122
+00:05:28,910 --> 00:05:30,990
+, the presentation still needs 
+
+123
+00:05:30,990 --> 00:05:32,390
+a bibliography. 
+
+124
+00:05:34,400 --> 00:05:36,120
+
+125
+00:05:36,120 --> 00:05:38,040
+You have already learned how to correctly 
+format references in 
+
+126
+00:05:38,040 --> 00:05:38,880
+Module 1. 
+
+127
+00:05:42,300 --> 00:05:43,860
+The bibliography, which you 
+
+128
+00:05:43,860 --> 00:05:45,140
+
+129
+00:05:45,140 --> 00:05:47,260
+insert at the end of the presentation , 
+should 
+
+130
+00:05:47,260 --> 00:05:48,500
+contain all the sources that were used. 
+
+131
+00:05:49,400 --> 00:05:51,200
+
+132
+00:05:51,200 --> 00:05:52,520
+Don't forget the references for the images 
+you 
+
+133
+00:05:52,520 --> 00:05:55,480
+have used. Sort the sources 
+
+134
+00:05:55,480 --> 00:05:56,320
+alphabetically. 
+
+135
+00:05:58,540 --> 00:06:01,180
+Now we are almost done. Only 
+
+136
+00:06:01,180 --> 00:06:02,360
+one slide is still missing. 
+
+137
+00:06:06,220 --> 00:06:08,660
+The last slide of our presentation 
+
+138
+00:06:08,660 --> 00:06:11,740
+is the final slide. 
+
+139
+00:06:11,740 --> 00:06:13,920
+The design of this depends on 
+
+140
+00:06:13,920 --> 00:06:16,080
+the situation and the taste of the 
+
+141
+00:06:16,080 --> 00:06:19,480
+presenter. The last slide can, 
+
+142
+00:06:19,660 --> 00:06:21,560
+but does not have to, contain the 
+following. 
+
+143
+00:06:21,560 --> 00:06:24,180
+A thank you note for your 
+
+144
+00:06:24,180 --> 00:06:26,920
+attention, for example 
+
+145
+00:06:26,920 --> 00:06:30,120
+Thank you for your attention. A 
+
+146
+00:06:30,120 --> 00:06:31,760
+note asking if there are any questions or 
+
+147
+00:06:31,760 --> 00:06:33,740
+need for discussion about the 
+presentation. 
+
+148
+00:06:34,800 --> 00:06:37,820
+A summarizing statement or 
+
+149
+00:06:37,820 --> 00:06:40,520
+a concise picture or diagram 
+
+150
+00:06:40,520 --> 00:06:41,460
+from the presentation. 
+
+151
+00:06:44,510 --> 00:06:46,010
+
+152
+00:06:46,010 --> 00:06:48,390
+You can see a good example of a concluding 
+slide here. The 
+
+153
+00:06:48,390 --> 00:06:49,810
+picture of course relates to the 
+
+154
+00:06:49,810 --> 00:06:51,670
+topic of honey, which we have already 
+
+155
+00:06:51,670 --> 00:06:53,950
+used as an example in the start slide 
+
+156
+00:06:53,950 --> 00:06:54,190
+. 
+
+157
+00:06:57,440 --> 00:06:59,420
+To 
+
+158
+00:06:59,420 --> 00:07:01,620
+make the presentation perfect , the page 
+numbers are still missing. 
+
+159
+00:07:02,980 --> 00:07:05,080
+We insert these by 
+
+160
+00:07:05,080 --> 00:07:07,100
+
+161
+00:07:07,100 --> 00:07:09,360
+clicking on the Insert menu item in the 
+ribbon and selecting the 
+
+162
+00:07:09,960 --> 00:07:11,160
+Slide numbers sub-item . 
+
+163
+00:07:15,500 --> 00:07:18,820
+A pop-up window opens. 
+
+164
+00:07:18,820 --> 00:07:22,020
+Check the boxes for Slide number and 
+
+165
+00:07:22,020 --> 00:07:24,780
+Do not show on first slide. 
+
+166
+00:07:25,660 --> 00:07:27,520
+This will 
+
+167
+00:07:27,520 --> 00:07:31,470
+hide the page number on the start slide. 
+Finally, 
+
+168
+00:07:31,470 --> 00:07:33,710
+click on Apply to all. 
+
+169
+00:07:37,410 --> 00:07:38,970
+You have now 
+
+170
+00:07:38,970 --> 00:07:40,830
+become familiar with the main functions of 
+Impress. 
+
+171
+00:07:41,850 --> 00:07:44,050
+In the next module, you will 
+
+172
+00:07:44,050 --> 00:07:45,830
+learn about other Impress functions. 
+
+173
+00:07:46,430 --> 00:07:49,450
+These include changing the font, 
+
+174
+00:07:49,630 --> 00:07:52,390
+inserting and placing 
+
+175
+00:07:52,390 --> 00:07:55,290
+images, inserting 
+
+176
+00:07:55,290 --> 00:07:58,670
+animations, the color design of 
+
+177
+00:07:58,670 --> 00:08:01,870
+slides and other functions. 
+
+178
+00:08:03,470 --> 00:08:05,110
+Thank you for your attention 
+
+179
+00:08:05,110 --> 00:08:06,570
+and I wish you every success in 
+
+180
+00:08:06,570 --> 00:08:08,030
+creating your presentation. 

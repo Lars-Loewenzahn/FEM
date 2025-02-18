@@ -1,0 +1,826 @@
+﻿1
+00:00:01,490 --> 00:00:03,170
+Welcome to the webinar 
+
+2
+00:00:03,170 --> 00:00:05,370
+Basic Concepts of Geometry. 
+
+3
+00:00:05,370 --> 00:00:07,050
+In this webinar , we will 
+
+4
+00:00:07,050 --> 00:00:08,490
+
+5
+00:00:08,490 --> 00:00:10,090
+talk about the basic concepts of geometry 
+. On the one hand, that's the 
+
+6
+00:00:10,090 --> 00:00:11,510
+point, we'll start with that, which is 
+
+7
+00:00:11,510 --> 00:00:14,550
+a very basic one. And then 
+
+8
+00:00:14,550 --> 00:00:15,850
+we'll look at straight lines, 
+
+9
+00:00:15,850 --> 00:00:18,610
+distances, angles and circles. 
+
+10
+00:00:20,070 --> 00:00:22,010
+Let's start with the point. A 
+
+11
+00:00:22,010 --> 00:00:23,690
+point is the most important element in 
+
+12
+00:00:23,690 --> 00:00:25,370
+geometry. You can use a point to 
+
+13
+00:00:25,370 --> 00:00:27,610
+define corner points and 
+
+14
+00:00:27,610 --> 00:00:30,630
+everything else. Furthermore 
+
+15
+00:00:30,630 --> 00:00:31,850
+, points are also 
+
+16
+00:00:31,850 --> 00:00:34,070
+indispensable in a coordinate system. 
+
+17
+00:00:34,070 --> 00:00:36,630
+You mark such a point with a small 
+
+18
+00:00:36,630 --> 00:00:38,330
+cross . The cross should 
+
+19
+00:00:38,330 --> 00:00:39,610
+of course 
+
+20
+00:00:39,610 --> 00:00:40,910
+be drawn as thinly as possible. And the 
+
+21
+00:00:40,910 --> 00:00:42,630
+actual point is 
+
+22
+00:00:42,630 --> 00:00:44,470
+not in the area, but the 
+
+23
+00:00:44,470 --> 00:00:45,930
+point is really at the 
+
+24
+00:00:45,930 --> 00:00:47,590
+intersection of these small 
+
+25
+00:00:47,590 --> 00:00:50,210
+lines here. So that's where the 
+
+26
+00:00:50,210 --> 00:00:52,310
+actual point is . And so that you 
+
+27
+00:00:52,310 --> 00:00:53,350
+
+28
+00:00:53,350 --> 00:00:54,370
+can find the point again on your sheet , 
+you make a 
+
+29
+00:00:54,370 --> 00:00:56,510
+little cross around it. So 
+
+30
+00:00:56,510 --> 00:00:57,670
+please make sure that you 
+
+31
+00:00:57,670 --> 00:00:59,090
+do this as precisely as possible, simply 
+so that 
+
+32
+00:00:59,090 --> 00:01:01,130
+it is nice and accurate. This is also 
+
+33
+00:01:01,130 --> 00:01:02,070
+something very important in 
+
+34
+00:01:02,070 --> 00:01:03,990
+geometry. It should always be as precise 
+as possible 
+
+35
+00:01:03,990 --> 00:01:05,210
+, so always use a 
+
+36
+00:01:05,210 --> 00:01:06,830
+nice sharp pencil. 
+
+37
+00:01:08,330 --> 00:01:09,930
+That brings us to 
+
+38
+00:01:09,930 --> 00:01:11,330
+straight lines and distances. What is the 
+
+39
+00:01:11,330 --> 00:01:12,550
+
+40
+00:01:12,550 --> 00:01:15,590
+difference between them? If we 
+
+41
+00:01:15,590 --> 00:01:19,350
+draw two points and connect them with a 
+
+42
+00:01:19,350 --> 00:01:22,790
+line, this line is 
+
+43
+00:01:22,790 --> 00:01:25,810
+a straight line. This is because a 
+straight line is 
+
+44
+00:01:25,810 --> 00:01:27,450
+not limited by the points. A 
+
+45
+00:01:27,450 --> 00:01:28,990
+straight line has the property that 
+
+46
+00:01:28,990 --> 00:01:31,350
+it is infinitely long. This means 
+
+47
+00:01:31,410 --> 00:01:33,350
+that a straight line has no beginning and 
+no 
+
+48
+00:01:33,350 --> 00:01:36,690
+end. It does not start at one of the 
+
+49
+00:01:36,690 --> 00:01:38,330
+two points and end at the other. 
+
+50
+00:01:38,450 --> 00:01:43,280
+It is infinitely long. This is 
+
+51
+00:01:43,280 --> 00:01:45,220
+the big difference to a 
+
+52
+00:01:45,220 --> 00:01:47,100
+line. A line is a 
+
+53
+00:01:47,100 --> 00:01:48,580
+direct connection between two 
+
+54
+00:01:48,580 --> 00:01:50,180
+points and a line starts at 
+
+55
+00:01:50,180 --> 00:01:51,920
+one point and ends at another 
+
+56
+00:01:51,920 --> 00:01:55,400
+. 
+
+57
+00:01:55,400 --> 00:01:56,640
+is simply infinitely long and 
+
+58
+00:01:56,640 --> 00:01:59,120
+contains both points. That is a big 
+
+59
+00:01:59,120 --> 00:02:02,460
+difference. Therefore, a line is 
+
+60
+00:02:02,460 --> 00:02:04,600
+always just the direct 
+
+61
+00:02:04,600 --> 00:02:06,120
+connection between two points and the 
+
+62
+00:02:06,120 --> 00:02:08,200
+straight line is infinitely long, the 
+
+63
+00:02:08,200 --> 00:02:10,920
+line is not. There is also 
+
+64
+00:02:11,000 --> 00:02:13,320
+the so-called ray. The beam 
+
+65
+00:02:13,320 --> 00:02:14,880
+starts at a point and is then 
+
+66
+00:02:14,880 --> 00:02:18,140
+infinitely long, such as the 
+
+67
+00:02:18,140 --> 00:02:20,960
+laser beam of a laser pointer. It 
+
+68
+00:02:20,960 --> 00:02:24,140
+starts in the laser. And is then 
+
+69
+00:02:24,140 --> 00:02:26,200
+straight, if you like, 
+
+70
+00:02:26,320 --> 00:02:30,940
+infinitely long. This brings us 
+
+71
+00:02:30,940 --> 00:02:33,980
+to angles. Angles are 
+
+72
+00:02:33,980 --> 00:02:36,360
+always 
+
+73
+00:02:36,360 --> 00:02:37,960
+enclosed between intersecting degrees. In 
+other words, we 
+
+74
+00:02:37,960 --> 00:02:39,220
+see two 
+
+75
+00:02:39,220 --> 00:02:41,640
+degrees highlighted in gray here. And 
+these have an 
+
+76
+00:02:41,640 --> 00:02:43,380
+intersection point S, if you like. 
+
+77
+00:02:44,080 --> 00:02:46,680
+And this is where an angle is created. 
+
+78
+00:02:46,680 --> 00:02:48,400
+It is marked in black here. 
+
+79
+00:02:48,580 --> 00:02:50,520
+However, the S does not always stand for 
+
+80
+00:02:50,520 --> 00:02:52,220
+intersection. It can also stand for 
+
+81
+00:02:52,220 --> 00:02:53,760
+starting point or 
+
+82
+00:02:53,760 --> 00:02:54,640
+vertex. 
+
+83
+00:02:56,920 --> 00:02:58,420
+If you are really only 
+
+84
+00:02:58,420 --> 00:02:59,560
+looking at the angle, it is common to call 
+it 
+
+85
+00:02:59,560 --> 00:03:01,940
+a vertex. And angles 
+
+86
+00:03:01,940 --> 00:03:04,220
+are always 
+
+87
+00:03:04,220 --> 00:03:05,520
+named according to the Greek alphabet, 
+i.e. alpha, 
+
+88
+00:03:05,600 --> 00:03:07,660
+beta, gamma, delta, epsilon. 
+
+89
+00:03:10,400 --> 00:03:13,720
+The two parts of the degrees that 
+intersect 
+
+90
+00:03:13,720 --> 00:03:16,400
+here, i.e. the parts that 
+
+91
+00:03:16,400 --> 00:03:17,640
+we can see on this diagram, 
+
+92
+00:03:17,720 --> 00:03:20,480
+are called legs. 
+
+93
+00:03:20,480 --> 00:03:22,200
+There are several ways to 
+
+94
+00:03:22,200 --> 00:03:24,080
+measure an angle. However, it is almost 
+
+95
+00:03:24,080 --> 00:03:26,240
+always measured in degrees. There are also 
+
+96
+00:03:26,240 --> 00:03:28,360
+other units or ways 
+
+97
+00:03:28,360 --> 00:03:30,800
+of measuring. However, 
+
+98
+00:03:30,800 --> 00:03:34,120
+the unit of degrees is almost always used. 
+This means that the 
+
+99
+00:03:34,120 --> 00:03:36,860
+complete full circle is 360 degrees. 
+
+100
+00:03:39,560 --> 00:03:41,400
+This brings us 
+
+101
+00:03:41,400 --> 00:03:42,700
+to the next slide, 
+
+102
+00:03:42,700 --> 00:03:45,440
+namely different angles. 
+
+103
+00:03:45,520 --> 00:03:49,380
+A distinction is made between different 
+
+104
+00:03:49,380 --> 00:03:50,960
+types of angles depending on the number of 
+degrees. We have 
+
+105
+00:03:50,960 --> 00:03:52,720
+
+106
+00:03:52,720 --> 00:03:54,380
+listed the four most important types of 
+angle here. The first is an 
+
+107
+00:03:54,380 --> 00:03:56,840
+acute angle. It's called that because it' 
+
+108
+00:03:56,840 --> 00:03:59,840
+s acute here. This means that we have 
+
+109
+00:03:59,840 --> 00:04:02,120
+an angle between 0 and less than 
+
+110
+00:04:02,120 --> 00:04:05,940
+90°. Important, less than 90°. Because the 
+
+111
+00:04:05,940 --> 00:04:07,980
+90° angle is a special angle. 
+
+112
+00:04:08,180 --> 00:04:09,880
+This is the so-called right angle. 
+
+113
+00:04:09,900 --> 00:04:11,500
+The right angle is also indicated 
+
+114
+00:04:11,500 --> 00:04:12,760
+by the dot in here. 
+
+115
+00:04:12,760 --> 00:04:16,400
+that means whenever you see that you 
+
+116
+00:04:16,400 --> 00:04:17,760
+have two straight lines that 
+
+117
+00:04:17,760 --> 00:04:20,720
+intersect here or two lines and there 
+
+118
+00:04:20,720 --> 00:04:21,880
+is a quarter circle 
+
+119
+00:04:21,880 --> 00:04:23,340
+with a dot in it, you 
+
+120
+00:04:23,340 --> 00:04:24,900
+automatically know that this is a right 
+
+121
+00:04:24,900 --> 00:04:27,720
+angle and it is marked like this, which 
+
+122
+00:04:27,720 --> 00:04:29,280
+automatically means that it is 90 
+
+123
+00:04:29,280 --> 00:04:32,200
+degrees. then there is the 
+
+124
+00:04:32,200 --> 00:04:34,840
+obtuse angle, which goes from 
+
+125
+00:04:34,840 --> 00:04:37,360
+angles greater than 90 degrees up to the 
+
+126
+00:04:37,360 --> 00:04:39,600
+angles that are smaller than 180 degrees 
+
+127
+00:04:39,600 --> 00:04:41,880
+
+128
+00:04:41,880 --> 00:04:43,860
+it looks like this so here it's 90 
+
+129
+00:04:43,860 --> 00:04:46,860
+and it goes to everything that 
+
+130
+00:04:46,860 --> 00:04:49,320
+'s obtuse here so if you 
+
+131
+00:04:49,320 --> 00:04:52,320
+look at the corner here the 180 degree 
+
+132
+00:04:52,320 --> 00:04:53,880
+angle is 
+
+133
+00:04:53,880 --> 00:04:56,840
+called an elongated angle it's just 
+missing here 
+
+134
+00:04:56,840 --> 00:04:58,360
+we now see 
+
+135
+00:04:58,360 --> 00:05:01,420
+the obtuse angle for an 
+
+136
+00:05:01,420 --> 00:05:04,120
+angle greater than 180 degrees and less 
+than 
+
+137
+00:05:04,120 --> 00:05:05,960
+360 degrees that means it is everything 
+
+138
+00:05:05,960 --> 00:05:07,660
+between if we 
+
+139
+00:05:07,660 --> 00:05:09,920
+had a complete straight line here and once 
+
+140
+00:05:09,920 --> 00:05:13,840
+all the way around yes that is then the 
+over 
+
+141
+00:05:13,840 --> 00:05:16,560
+obtuse angle so it is actually 
+
+142
+00:05:16,560 --> 00:05:17,680
+if you want to draw an obtuse 
+
+143
+00:05:17,680 --> 00:05:19,980
+angle in the other direction little 
+
+144
+00:05:21,420 --> 00:05:22,880
+tip if you 
+
+145
+00:05:22,880 --> 00:05:24,600
+have to draw something like this , so with 
+the 
+
+146
+00:05:24,600 --> 00:05:26,780
+geo triangle it is to draw here . even 
+easier 
+
+147
+00:05:26,780 --> 00:05:27,980
+to measure the angle from here the 
+
+148
+00:05:27,980 --> 00:05:33,480
+opposite angle and so we are 
+
+149
+00:05:33,480 --> 00:05:37,320
+already at circles a circle is 
+characterized 
+
+150
+00:05:37,320 --> 00:05:39,700
+by the fact that it 
+
+151
+00:05:39,700 --> 00:05:42,200
+
+152
+00:05:42,200 --> 00:05:43,900
+has a constant distance from its center m 
+away to its outer edges yes 
+
+153
+00:05:43,900 --> 00:05:46,040
+and this distance is always the 
+
+154
+00:05:46,040 --> 00:05:48,180
+radius the radius is always 
+
+155
+00:05:48,180 --> 00:05:50,980
+measured from the center to the 
+circumference 
+
+156
+00:05:50,980 --> 00:05:53,340
+so this around here is the circumference. 
+And 
+
+157
+00:05:53,340 --> 00:05:55,880
+no matter where we 
+
+158
+00:05:55,880 --> 00:05:57,840
+measure from the circumference to the 
+center, we always have 
+
+159
+00:05:57,840 --> 00:06:00,860
+the radius there. And this is the 
+
+160
+00:06:00,860 --> 00:06:02,980
+property that you 
+
+161
+00:06:02,980 --> 00:06:04,760
+have a fixed distance from the center 
+point , namely the 
+
+162
+00:06:04,760 --> 00:06:05,540
+radius. 
+
+163
+00:06:07,980 --> 00:06:09,700
+In addition to the radius and the center 
+point, 
+
+164
+00:06:09,700 --> 00:06:10,980
+there is also the diameter d. 
+
+165
+00:06:11,140 --> 00:06:13,520
+Whenever you have to draw circles 
+
+166
+00:06:13,700 --> 00:06:16,180
+, you are either given the radius 
+
+167
+00:06:16,180 --> 00:06:17,540
+or the diameter. 
+
+168
+00:06:17,540 --> 00:06:20,580
+You really need to be careful 
+
+169
+00:06:20,580 --> 00:06:21,920
+not to confuse the two 
+
+170
+00:06:21,920 --> 00:06:23,560
+, because the diameter is always 
+
+171
+00:06:23,560 --> 00:06:29,560
+twice as big as the radius. 
+
+172
+00:06:29,560 --> 00:06:31,500
+The diameter is the distance 
+
+173
+00:06:31,500 --> 00:06:33,920
+from the edge point through the center 
+
+174
+00:06:33,920 --> 00:06:37,860
+to the edge point again. And 
+
+175
+00:06:37,860 --> 00:06:40,220
+from here to here is the 
+
+176
+00:06:40,220 --> 00:06:43,600
+radius. And from here to here it 
+
+177
+00:06:43,600 --> 00:06:45,020
+is the radius again. This means that the 
+
+178
+00:06:45,020 --> 00:06:47,320
+diameter is exactly twice as large 
+
+179
+00:06:47,320 --> 00:06:49,100
+as the radius. And if you ever 
+
+180
+00:06:49,100 --> 00:06:50,800
+have to draw a circle, 
+
+181
+00:06:50,800 --> 00:06:52,820
+pay attention, because 
+
+182
+00:06:52,820 --> 00:06:54,440
+sometimes you will be given the radius and 
+
+183
+00:06:54,440 --> 00:06:56,400
+sometimes the diameter. When you 
+
+184
+00:06:56,400 --> 00:06:58,260
+set your compass, you 
+
+185
+00:06:58,260 --> 00:06:59,540
+always set your compass to the 
+
+186
+00:06:59,540 --> 00:07:01,180
+radius. In other words, you make 
+
+187
+00:07:01,180 --> 00:07:03,740
+an incision in the center and 
+
+188
+00:07:03,740 --> 00:07:06,820
+then draw the compass around it. this 
+means that the length that is 
+
+189
+00:07:06,820 --> 00:07:08,980
+set on a compass is always 
+
+190
+00:07:08,980 --> 00:07:13,010
+the radius, as I just said, 
+
+191
+00:07:13,010 --> 00:07:14,930
+around the outside of the circle is the 
+
+192
+00:07:14,930 --> 00:07:18,290
+circumference, which, as I said, is the 
+length 
+
+193
+00:07:18,290 --> 00:07:20,850
+of the circular path and this can be 
+
+194
+00:07:20,850 --> 00:07:22,750
+calculated by 
+
+195
+00:07:22,750 --> 00:07:25,570
+multiplying the diameter by p. the circle 
+number 
+
+196
+00:07:25,570 --> 00:07:28,010
+indicates nothing more than the 
+
+197
+00:07:28,010 --> 00:07:31,490
+ratio between the circumference and 
+
+198
+00:07:31,490 --> 00:07:35,570
+the diameter and that brings us to 
+
+199
+00:07:35,570 --> 00:07:37,550
+the end of the webinar. 
+
+200
+00:07:37,550 --> 00:07:39,270
+Thank you very much for your 
+
+201
+00:07:39,270 --> 00:07:40,190
+attention. 

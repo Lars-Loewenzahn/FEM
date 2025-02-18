@@ -1,0 +1,582 @@
+﻿1
+00:00:04,110 --> 00:00:06,410
+Hello, my name is Joshua and I 
+
+2
+00:00:06,410 --> 00:00:07,470
+am a tutor at 
+
+3
+00:00:07,470 --> 00:00:09,350
+Schülerhilfe. Today I would like to 
+
+4
+00:00:09,350 --> 00:00:11,130
+
+5
+00:00:11,130 --> 00:00:13,010
+introduce you to the basics of mythosis 
+and meiosis . 
+
+6
+00:00:13,010 --> 00:00:14,450
+Of course, you can find 
+
+7
+00:00:14,450 --> 00:00:16,530
+
+8
+00:00:16,530 --> 00:00:19,250
+more learning content on this and many 
+other topics in our online learning 
+center. The basis 
+
+9
+00:00:19,250 --> 00:00:21,490
+of evolution is that animals 
+
+10
+00:00:21,490 --> 00:00:23,550
+
+11
+00:00:23,550 --> 00:00:25,750
+can reproduce and develop further. The 
+smallest dimension of this 
+
+12
+00:00:25,750 --> 00:00:27,530
+process is cell division. 
+
+13
+00:00:27,610 --> 00:00:29,790
+There are two different types 
+
+14
+00:00:29,790 --> 00:00:31,710
+of cell division. 
+
+15
+00:00:31,710 --> 00:00:34,930
+Mitosis and meiosis. 
+
+16
+00:00:34,930 --> 00:00:36,910
+Mitosis means that a 
+
+17
+00:00:36,910 --> 00:00:39,010
+cell divides into two further genetically 
+
+18
+00:00:39,010 --> 00:00:41,890
+identical cells. Prior to this, 
+
+19
+00:00:41,890 --> 00:00:44,230
+the cell is 
+
+20
+00:00:44,230 --> 00:00:47,490
+prepared for this during the S phase. This 
+process 
+
+21
+00:00:47,490 --> 00:00:50,110
+only exists in eukaryotic cells. 
+
+22
+00:00:50,110 --> 00:00:52,130
+Meiosis, on the other hand, is a special 
+
+23
+00:00:52,130 --> 00:00:53,770
+type of cell division that 
+
+24
+00:00:53,770 --> 00:00:55,810
+
+25
+00:00:55,810 --> 00:00:58,310
+occurs in germ cells, i.e. egg cells and 
+sperm cells. In this process, the 
+
+26
+00:00:58,310 --> 00:01:00,710
+chromosomes are halved so that 
+
+27
+00:01:00,710 --> 00:01:02,610
+each germ cell only 
+
+28
+00:01:02,610 --> 00:01:05,330
+has half a set of chromosomes . This is 
+important so that 
+
+29
+00:01:05,430 --> 00:01:07,150
+
+30
+00:01:07,150 --> 00:01:09,190
+a single, 
+
+31
+00:01:09,190 --> 00:01:10,930
+complete set of chromosomes 
+
+32
+00:01:10,930 --> 00:01:14,550
+is produced when the egg and sperm cell 
+fuse . In both mariosis 
+
+33
+00:01:14,550 --> 00:01:16,770
+and mythosis, the 
+
+34
+00:01:16,770 --> 00:01:18,470
+processes can 
+
+35
+00:01:18,470 --> 00:01:20,730
+be divided into different phases. In order 
+for the cell to begin the 
+
+36
+00:01:20,730 --> 00:01:22,410
+process of mythosis 
+
+37
+00:01:22,410 --> 00:01:24,710
+, it must first 
+
+38
+00:01:24,710 --> 00:01:26,710
+
+39
+00:01:26,710 --> 00:01:29,770
+duplicate the DNA and thus all the 
+chromosomes during the S phase. The first 
+phase of 
+
+40
+00:01:29,770 --> 00:01:32,190
+mitosis is called prophase. In 
+
+41
+00:01:32,190 --> 00:01:33,670
+this phase, the 
+
+42
+00:01:33,670 --> 00:01:35,670
+chromosomes condense and thus become 
+
+43
+00:01:35,670 --> 00:01:39,870
+visible. The spindle apparatus, which 
+
+44
+00:01:39,870 --> 00:01:41,350
+later separates the chromosomes from each 
+other 
+
+45
+00:01:41,350 --> 00:01:44,330
+, is formed. This is followed by the 
+
+46
+00:01:44,330 --> 00:01:46,910
+prometaphase. Here, longitudinally 
+
+47
+00:01:46,910 --> 00:01:49,470
+divided chromosomes become visible. In 
+
+48
+00:01:49,470 --> 00:01:51,630
+metaphase, the chromosomes arrange 
+themselves 
+
+49
+00:01:51,630 --> 00:01:54,110
+at the equatorial plane, i.e. in the 
+
+50
+00:01:54,110 --> 00:01:56,150
+middle of the cell. In 
+
+51
+00:01:56,150 --> 00:01:57,610
+the subsequent anaphase, the 
+
+52
+00:01:57,610 --> 00:01:59,250
+chromosomes, consisting of two 
+
+53
+00:01:59,250 --> 00:02:00,770
+chromatids 
+
+54
+00:02:00,770 --> 00:02:03,130
+, are separated using the spindle 
+apparatus. The 
+
+55
+00:02:03,130 --> 00:02:04,830
+chromatids 
+
+56
+00:02:04,830 --> 00:02:06,930
+are pulled to both sides of the cell. In 
+the 
+
+57
+00:02:06,930 --> 00:02:08,970
+final telophase 
+
+58
+00:02:08,970 --> 00:02:10,650
+, the two halves of the cell separate into 
+two 
+
+59
+00:02:10,650 --> 00:02:13,270
+identical cells. The cell nucleus becomes 
+
+60
+00:02:13,270 --> 00:02:14,110
+visible again. 
+
+61
+00:02:17,510 --> 00:02:20,010
+not identical. Meiosis begins 
+
+62
+00:02:20,010 --> 00:02:22,410
+in the nucleus of the egg mother cell. In 
+
+63
+00:02:22,410 --> 00:02:23,990
+metaphase, the 
+
+64
+00:02:23,990 --> 00:02:25,630
+paired chromosomes assemble in the 
+
+65
+00:02:25,630 --> 00:02:27,970
+equatorial plane of the spindle apparatus. 
+
+66
+00:02:28,090 --> 00:02:29,990
+The subsequent anaphase 1 
+
+67
+00:02:29,990 --> 00:02:31,590
+is very different from the 
+
+68
+00:02:31,590 --> 00:02:33,890
+mitotic anaphase, whereas in 
+
+69
+00:02:33,890 --> 00:02:35,970
+mitosis one chromatid from each 
+
+70
+00:02:35,970 --> 00:02:38,230
+chromosome ends up in the new cell, 
+
+71
+00:02:38,270 --> 00:02:40,390
+so that it 
+
+72
+00:02:40,390 --> 00:02:42,730
+contains the complete genetic material of 
+the mother cell, in 
+
+73
+00:02:42,730 --> 00:02:44,770
+meiosis the chromosome pairs are separated 
+
+74
+00:02:44,770 --> 00:02:46,430
+and 
+
+75
+00:02:46,430 --> 00:02:48,030
+pulled to both sides of the cell , so that 
+either the 
+
+76
+00:02:48,030 --> 00:02:49,750
+paternal or the maternal 
+
+77
+00:02:49,750 --> 00:02:51,750
+chromosome with two chromatids each 
+
+78
+00:02:51,750 --> 00:02:54,910
+ends up in the daughter cell. 
+
+79
+00:02:54,910 --> 00:02:57,430
+In telophase 1, 
+
+80
+00:02:57,430 --> 00:02:59,250
+only one chromosome with 
+
+81
+00:02:59,250 --> 00:03:02,950
+two chromatids of each type is present at 
+each pole. 
+
+82
+00:03:02,950 --> 00:03:04,570
+This means that the 
+
+83
+00:03:04,570 --> 00:03:06,010
+number of chromosomes has been reduced. 
+
+84
+00:03:07,070 --> 00:03:08,330
+This is followed by 
+
+85
+00:03:08,330 --> 00:03:11,490
+metaphase 2, anaphase 2 and 
+
+86
+00:03:11,490 --> 00:03:13,590
+telophase 2. This 
+
+87
+00:03:13,590 --> 00:03:15,470
+differs depending on whether 
+
+88
+00:03:15,470 --> 00:03:17,690
+an egg cell or sperm cell is formed. 
+
+89
+00:03:18,330 --> 00:03:20,110
+Finally, let's take another look 
+
+90
+00:03:20,110 --> 00:03:21,690
+
+91
+00:03:21,690 --> 00:03:23,510
+
+92
+00:03:23,510 --> 00:03:25,290
+at the differences between mithosis and 
+mariosis . 
+
+93
+00:03:25,290 --> 00:03:26,530
+We have already 
+
+94
+00:03:26,530 --> 00:03:28,790
+recognized that the phases differ. The 
+result of mithosis 
+
+95
+00:03:28,790 --> 00:03:30,230
+is two 
+
+96
+00:03:30,230 --> 00:03:32,890
+daughter cells that are identical to the 
+mother cell. At the end of mariosis 
+
+97
+00:03:32,890 --> 00:03:34,970
+, on the other hand, four 
+
+98
+00:03:34,970 --> 00:03:36,670
+
+99
+00:03:36,670 --> 00:03:38,590
+daughter cells are formed that are not 
+identical to the mother cell and 
+
+100
+00:03:38,590 --> 00:03:40,390
+
+101
+00:03:40,390 --> 00:03:42,370
+contain a random mixture of maternal and 
+paternal chromosomes 
+
+102
+00:03:42,370 --> 00:03:44,290
+and not all the 
+
+103
+00:03:44,290 --> 00:03:46,090
+chromosomes of a maternal and 
+
+104
+00:03:46,090 --> 00:03:48,690
+paternal version like the mother cell. 
+
+105
+00:03:48,690 --> 00:03:50,350
+The functions of the two processes are 
+also 
+
+106
+00:03:50,350 --> 00:03:52,650
+different. Mithosis serves to 
+
+107
+00:03:52,650 --> 00:03:54,410
+multiply the cells and thus to 
+
+108
+00:03:54,410 --> 00:03:56,710
+build up the body. Majosis 
+
+109
+00:03:56,710 --> 00:03:58,270
+, on the other hand, is used for sexual 
+
+110
+00:03:58,270 --> 00:04:01,370
+reproduction. During majosis 
+
+111
+00:04:01,370 --> 00:04:03,170
+, a so-called crossing-over can 
+
+112
+00:04:03,170 --> 00:04:06,010
+occur. This is actually an error 
+
+113
+00:04:06,010 --> 00:04:07,970
+in the separation of chromosomes, which 
+
+114
+00:04:07,970 --> 00:04:10,230
+leads to a part of the 
+
+115
+00:04:10,230 --> 00:04:11,990
+chromosome inherited from the mother 
+
+116
+00:04:11,990 --> 00:04:14,270
+jumping to the paternal chromosome and 
+vice versa. 
+
+117
+00:04:14,530 --> 00:04:16,130
+This process leads to the 
+
+118
+00:04:16,130 --> 00:04:17,910
+recombination of genetic 
+
+119
+00:04:17,910 --> 00:04:19,450
+information and is an important 
+
+120
+00:04:19,450 --> 00:04:20,950
+part of sexual 
+
+121
+00:04:20,950 --> 00:04:22,990
+recombination, i.e. the creation 
+
+122
+00:04:22,990 --> 00:04:26,250
+of new, multiplied genetic material. 
+
+123
+00:04:26,310 --> 00:04:28,330
+This is particularly important in meiosis 
+
+124
+00:04:28,330 --> 00:04:30,550
+. In mithosis, 
+
+125
+00:04:30,550 --> 00:04:32,610
+crossing-over has less effect. 
+
+126
+00:04:33,330 --> 00:04:35,390
+Not all animal groups are 
+
+127
+00:04:35,390 --> 00:04:37,150
+able to reproduce sexually. 
+
+128
+00:04:37,910 --> 00:04:39,210
+Instead, they can 
+
+129
+00:04:39,210 --> 00:04:41,210
+
+130
+00:04:41,210 --> 00:04:44,390
+reproduce parthenogenetically via cloning 
+, for example . These 
+
+131
+00:04:44,390 --> 00:04:45,930
+animals include water fleas, 
+
+132
+00:04:46,090 --> 00:04:48,670
+aphids and some 
+
+133
+00:04:48,670 --> 00:04:51,910
+species of fish and lizards. I hope I have 
+been able to 
+
+134
+00:04:51,910 --> 00:04:53,950
+help you 
+
+135
+00:04:53,950 --> 00:04:55,670
+better understand the processes of 
+mithosis and maiosis. 
+
+136
+00:04:56,170 --> 00:04:58,010
+If you 
+
+137
+00:04:58,010 --> 00:05:00,010
+have any further questions about this or 
+other topics, please take 
+
+138
+00:05:00,010 --> 00:05:01,810
+a look at our online learning center 
+
+139
+00:05:01,810 --> 00:05:04,230
+or contact your 
+
+140
+00:05:04,230 --> 00:05:06,510
+local student help center. See you 
+
+141
+00:05:06,510 --> 00:05:07,070
+next time! 

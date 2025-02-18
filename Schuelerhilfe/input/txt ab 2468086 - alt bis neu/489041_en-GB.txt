@@ -1,0 +1,602 @@
+﻿1
+00:00:00,590 --> 00:00:02,430
+Hello, welcome to 
+
+2
+00:00:02,430 --> 00:00:04,610
+another learning video from Schülerhilfe. 
+
+3
+00:00:05,210 --> 00:00:07,790
+Today I would like to 
+
+4
+00:00:07,790 --> 00:00:09,930
+take a look at the elegiac distich with 
+you . 
+
+5
+00:00:10,350 --> 00:00:12,810
+The elegiac distich is also a 
+
+6
+00:00:12,810 --> 00:00:16,090
+very common verse meter 
+
+7
+00:00:16,090 --> 00:00:17,750
+used in Latin poetry. 
+
+8
+00:00:18,450 --> 00:00:21,530
+The elegiac distich 
+
+9
+00:00:21,530 --> 00:00:27,670
+consists of a dactylic hexameter. 
+
+10
+00:00:27,670 --> 00:00:29,130
+You are welcome to watch our videos on 
+this 
+
+11
+00:00:29,130 --> 00:00:31,090
+. works again, 
+
+12
+00:00:31,490 --> 00:00:34,610
+is built up again and a 
+
+13
+00:00:34,610 --> 00:00:40,410
+dactylic pentameter. I have 
+
+14
+00:00:40,410 --> 00:00:43,910
+briefly 
+
+15
+00:00:43,910 --> 00:00:45,630
+shown you a diagram of how a 
+
+16
+00:00:45,630 --> 00:00:47,830
+dactylic hexameter is structured. 
+
+17
+00:00:48,190 --> 00:00:50,950
+You can see the six feet of verse. 
+
+18
+00:00:51,870 --> 00:00:54,630
+I have also marked 
+
+19
+00:00:54,630 --> 00:00:57,750
+the possible caesuras in yellow. 
+
+20
+00:01:00,030 --> 00:01:02,450
+Yes, and this hexameter 
+
+21
+00:01:02,450 --> 00:01:06,330
+is then followed by the pentameter. 
+
+22
+00:01:06,330 --> 00:01:09,370
+Let's take a look. The pentameter, penta 
+is 
+
+23
+00:01:09,370 --> 00:01:12,530
+Greek and means 5, so 
+
+24
+00:01:12,530 --> 00:01:15,430
+theoretically it should consist of 5 
+dactyls. 
+
+25
+00:01:15,750 --> 00:01:17,670
+That's about right. 
+
+26
+00:01:18,170 --> 00:01:19,910
+However, the special feature is that it 
+consists 
+
+27
+00:01:19,910 --> 00:01:25,330
+of 2 times 2.5 dactyls. And 
+
+28
+00:01:25,330 --> 00:01:27,070
+why do I emphasize 
+
+29
+00:01:27,070 --> 00:01:29,930
+these 2 times 2.5? 
+
+30
+00:01:29,930 --> 00:01:33,870
+We have a look at the diagram here. 
+
+31
+00:01:33,870 --> 00:01:35,890
+We have the first half of the pentameter 
+here 
+
+32
+00:01:35,890 --> 00:01:38,690
+and you can see that we first have two 
+
+33
+00:01:38,690 --> 00:01:43,910
+dactyls, where we 
+
+34
+00:01:43,910 --> 00:01:45,750
+
+35
+00:01:45,750 --> 00:01:47,370
+
+36
+00:01:47,410 --> 00:01:52,720
+can replace the double shortness, as in 
+the hexameter , with a spondee, i.e. with 
+a length. 
+
+37
+00:01:52,720 --> 00:01:56,620
+But then the third dactyl breaks off 
+
+38
+00:01:56,620 --> 00:02:00,240
+after the emphasized length. That is the 
+
+39
+00:02:00,240 --> 00:02:05,480
+first, yes. Two and a half parts and then 
+
+40
+00:02:05,480 --> 00:02:08,160
+we start again with two new 
+
+41
+00:02:08,160 --> 00:02:12,300
+fresh dactyls. Attention, you 
+
+42
+00:02:12,300 --> 00:02:15,820
+see, in this back part of the 
+
+43
+00:02:15,820 --> 00:02:19,040
+pentameter you must 
+
+44
+00:02:19,040 --> 00:02:22,960
+not replace the double shortening with 
+lengths. And 
+
+45
+00:02:22,960 --> 00:02:25,860
+finally, there remains a syllaba 
+
+46
+00:02:25,860 --> 00:02:28,900
+an Ketz, which can be either long or short 
+
+47
+00:02:28,900 --> 00:02:31,680
+, but is always accented. 
+
+48
+00:02:31,920 --> 00:02:32,660
+
+49
+00:02:35,500 --> 00:02:37,200
+The special feature of the pentameter 
+
+50
+00:02:37,380 --> 00:02:41,020
+is that although it 
+
+51
+00:02:41,020 --> 00:02:46,040
+is called pentameter, 5 meters , it has 6 
+stresses, which is because 
+
+52
+00:02:46,040 --> 00:02:48,340
+
+53
+00:02:48,340 --> 00:02:52,020
+it is broken off after the stressed length 
+and 
+
+54
+00:02:52,020 --> 00:02:54,800
+then restarted. You 
+
+55
+00:02:54,800 --> 00:02:56,080
+may be wondering about 
+
+56
+00:02:56,080 --> 00:02:59,040
+these two dashes here. 
+
+57
+00:02:59,040 --> 00:03:02,880
+So these two strokes are a caesura. 
+
+58
+00:03:03,560 --> 00:03:06,060
+The caesura, the incision that marks 
+exactly 
+
+59
+00:03:06,060 --> 00:03:07,700
+these two halves of the mentameter 
+
+60
+00:03:07,700 --> 00:03:10,340
+. And as a rule, 
+
+61
+00:03:10,340 --> 00:03:12,240
+of course, you also have a word boundary 
+here. 
+
+62
+00:03:12,260 --> 00:03:15,040
+However, there are exceptions, but 
+
+63
+00:03:15,040 --> 00:03:16,300
+let's take a look at 
+
+64
+00:03:16,300 --> 00:03:19,700
+a small example. 
+
+65
+00:03:19,700 --> 00:03:21,560
+Let's take a look at the following 
+
+66
+00:03:21,560 --> 00:03:24,280
+epigram, which is an elegiac 
+
+67
+00:03:24,280 --> 00:03:25,180
+destichon. 
+
+68
+00:03:38,900 --> 00:03:41,100
+I've already 
+
+69
+00:03:41,100 --> 00:03:44,880
+read it to you with the accents. Let's 
+mark 
+
+70
+00:03:44,880 --> 00:03:47,200
+briefly, let's chant our 
+
+71
+00:03:47,200 --> 00:03:49,820
+hexameter briefly . So here we have a 
+
+72
+00:03:49,820 --> 00:03:55,400
+length, a short, a short, a 
+
+73
+00:03:55,400 --> 00:04:00,020
+length. TN forms positional length, GR 
+
+74
+00:04:00,020 --> 00:04:02,840
+again a length, accusative plural 
+
+75
+00:04:02,840 --> 00:04:06,960
+is always long. Then we have 
+
+76
+00:04:06,960 --> 00:04:09,240
+an accusative plural here , which has to 
+
+77
+00:04:09,240 --> 00:04:11,900
+be long and the two I and E are 
+
+78
+00:04:11,900 --> 00:04:15,300
+short. Short, zack, Lekania, a 
+
+79
+00:04:15,300 --> 00:04:17,360
+diphthong, is inherently long. 
+
+80
+00:04:19,020 --> 00:04:20,720
+So we have 
+
+81
+00:04:20,720 --> 00:04:25,500
+found the first four feet of verse. And 
+then we have 
+
+82
+00:04:25,500 --> 00:04:28,800
+the length here again. Two short ones, 
+
+83
+00:04:28,820 --> 00:04:31,200
+in the fifth verse foot there is 
+
+84
+00:04:31,200 --> 00:04:34,340
+never a length in hexameter. And 
+
+85
+00:04:34,340 --> 00:04:36,080
+finally our last verse foot 
+
+86
+00:04:36,080 --> 00:04:37,740
+, which is so two-syllabic, first 
+
+87
+00:04:37,740 --> 00:04:40,420
+
+88
+00:04:40,420 --> 00:04:45,190
+fights the stressed length and our syllaba 
+. Now let's look at 
+
+89
+00:04:45,190 --> 00:04:47,650
+the pentameter, which is actually the 
+
+90
+00:04:47,650 --> 00:04:51,620
+new thing for you. 
+
+91
+00:04:51,620 --> 00:04:53,520
+First we have the word quä, which is 
+
+92
+00:04:53,520 --> 00:04:58,210
+of course long. So, and what we 
+
+93
+00:04:58,210 --> 00:04:59,950
+notice, we have to be careful, we 
+
+94
+00:04:59,950 --> 00:05:01,970
+have O and E here, which 
+
+95
+00:05:01,970 --> 00:05:05,430
+clash. Normally 
+
+96
+00:05:05,430 --> 00:05:06,570
+you'd think, oh yes, an 
+
+97
+00:05:06,570 --> 00:05:09,470
+illusion, so get rid of the O. No, 
+
+98
+00:05:09,830 --> 00:05:11,850
+watch out, the second word is Est, 
+
+99
+00:05:11,990 --> 00:05:14,610
+then the case of apheresis occurs. 
+
+100
+00:05:15,310 --> 00:05:16,530
+If you can't remember what that 
+
+101
+00:05:16,530 --> 00:05:18,510
+is, just watch the video 
+
+102
+00:05:18,510 --> 00:05:21,350
+again. In this 
+
+103
+00:05:21,350 --> 00:05:26,370
+case, the E is simply dropped. So, 
+
+104
+00:05:26,430 --> 00:05:28,170
+is there another caesura 
+
+105
+00:05:28,170 --> 00:05:29,950
+we need to look out for ? Or a 
+
+106
+00:05:29,950 --> 00:05:31,390
+hiatus? Sorry, I didn't 
+
+107
+00:05:31,390 --> 00:05:32,570
+promise. A hiatus 
+
+108
+00:05:32,570 --> 00:05:35,970
+that we need to watch out for? No. So, 
+
+109
+00:05:35,970 --> 00:05:37,550
+let's keep chanting. We 
+
+110
+00:05:37,550 --> 00:05:41,710
+have the O, which is long because of the 
+
+111
+00:05:41,710 --> 00:05:46,910
+following Sts. We have the E, which 
+
+112
+00:05:46,910 --> 00:05:50,830
+is long, because of MPT. We have an 
+
+113
+00:05:50,830 --> 00:05:53,050
+accusative plural ending that 
+
+114
+00:05:53,050 --> 00:05:55,570
+is always long in masculine-feminine. We 
+have 
+
+115
+00:05:55,570 --> 00:05:58,130
+HÄG, a word with a diphthong, must 
+
+116
+00:05:58,130 --> 00:06:01,930
+be long. Here we have I, a 
+
+117
+00:06:01,930 --> 00:06:04,110
+positional length, because of the double 
+
+118
+00:06:04,110 --> 00:06:07,890
+L. Here we have in pentameter, it 
+
+119
+00:06:07,890 --> 00:06:09,450
+has the last syllable on, K, it would be 
+
+120
+00:06:09,450 --> 00:06:13,130
+long here. Zack, and the beautiful leg. 
+
+121
+00:06:13,150 --> 00:06:15,750
+The last part is actually always 
+
+122
+00:06:15,750 --> 00:06:18,750
+clearly defined. You have 
+
+123
+00:06:18,750 --> 00:06:22,070
+two pure dactyls, we know A and 
+
+124
+00:06:22,070 --> 00:06:23,830
+U are short, and 
+
+125
+00:06:29,850 --> 00:06:32,930
+a syllaba attached. This means that we 
+have 
+
+126
+00:06:32,930 --> 00:06:35,210
+already 
+
+127
+00:06:35,210 --> 00:06:37,690
+found the emphasized length after which 
+the caesura, which I 
+
+128
+00:06:37,690 --> 00:06:39,110
+have just entered here, 
+
+129
+00:06:39,110 --> 00:06:43,770
+comes. Since there is a length in front of 
+it, 
+
+130
+00:06:43,770 --> 00:06:46,250
+this is the stressed length. and so 
+
+131
+00:06:46,250 --> 00:06:48,890
+we know that A and I are 
+
+132
+00:06:48,890 --> 00:06:52,830
+two shortenings, a dactilus. 
+
+133
+00:06:52,830 --> 00:06:54,030
+Let's take another quick look at what this 
+
+134
+00:06:54,030 --> 00:06:59,750
+means. Thais has black 
+
+135
+00:06:59,750 --> 00:07:07,030
+teeth , Lecania has white teeth. What's 
+the reason? Well, 
+
+136
+00:07:07,190 --> 00:07:09,830
+this hack, hack 
+
+137
+00:07:09,830 --> 00:07:13,830
+refers to Lecania here, by the way, Anja 
+has 
+
+138
+00:07:13,830 --> 00:07:20,650
+bought, meaning teeth, Ella has the one 
+
+139
+00:07:20,650 --> 00:07:22,350
+that is further away, the one that 
+
+140
+00:07:22,350 --> 00:07:26,450
+was mentioned before , so Thais, still 
+
+141
+00:07:26,450 --> 00:07:30,450
+her own. A funny little 
+
+142
+00:07:30,450 --> 00:07:32,210
+poem and the nice thing is 
+
+143
+00:07:32,210 --> 00:07:33,730
+that we can see here that 
+
+144
+00:07:33,730 --> 00:07:37,570
+dentures already existed in ancient Rome. 
+I hope 
+
+145
+00:07:37,570 --> 00:07:39,610
+you enjoy this video. See 
+
+146
+00:07:39,610 --> 00:07:41,690
+you soon. See you soon. Thank you very 
+much. 

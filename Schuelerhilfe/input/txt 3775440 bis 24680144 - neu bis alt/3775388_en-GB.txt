@@ -1,0 +1,467 @@
+﻿1
+00:00:03,950 --> 00:00:06,510
+Hello, my name is Joshua and I 
+
+2
+00:00:06,510 --> 00:00:07,570
+am a tutor at 
+
+3
+00:00:07,570 --> 00:00:09,430
+Schülerhilfe. Today I would like to 
+explain 
+
+4
+00:00:09,430 --> 00:00:11,210
+the basics of orbitals in 
+
+5
+00:00:11,210 --> 00:00:13,390
+chemistry to you. In our online 
+
+6
+00:00:13,390 --> 00:00:15,170
+ learning center you will 
+
+7
+00:00:15,170 --> 00:00:16,470
+also find a wiki  on this topic 
+
+8
+00:00:16,470 --> 00:00:17,670
+, in which the 
+
+9
+00:00:17,670 --> 00:00:19,350
+basic and important terms 
+
+10
+00:00:19,350 --> 00:00:22,410
+are explained in more detail. Perhaps 
+
+11
+00:00:22,410 --> 00:00:23,950
+you 
+
+12
+00:00:23,950 --> 00:00:26,410
+have already heard the term orbit in other 
+areas. It 
+
+13
+00:00:26,410 --> 00:00:27,470
+describes the elliptical 
+
+14
+00:00:27,470 --> 00:00:29,130
+orbit, for example of a 
+
+15
+00:00:29,130 --> 00:00:31,730
+satellite, around the earth. Earth. Both 
+
+16
+00:00:31,730 --> 00:00:33,210
+words come from the Latin 
+
+17
+00:00:33,210 --> 00:00:35,650
+word orbis, which 
+
+18
+00:00:35,650 --> 00:00:38,790
+
+19
+00:00:38,790 --> 00:00:41,050
+can mean, among other things, circle, 
+roundness or the round. In chemistry, 
+
+20
+00:00:41,050 --> 00:00:43,230
+orbitals also indicate where an electron 
+is located in 
+
+21
+00:00:43,230 --> 00:00:46,010
+relation to the nucleus of an atom. 
+
+22
+00:00:46,010 --> 00:00:47,810
+In contrast to satellites, which 
+
+23
+00:00:47,810 --> 00:00:49,970
+
+24
+00:00:49,970 --> 00:00:51,790
+have a fixed mathematical, clearly 
+describable orbit 
+
+25
+00:00:51,850 --> 00:00:54,110
+, it should be noted that 
+
+26
+00:00:54,110 --> 00:00:55,850
+this 
+
+27
+00:00:55,850 --> 00:00:57,790
+cannot be clearly determined with our 
+current means 
+
+28
+00:00:57,790 --> 00:00:59,950
+, which is why the orbital 
+
+29
+00:00:59,950 --> 00:01:01,590
+describes a space in which the electron 
+
+30
+00:01:01,590 --> 00:01:03,450
+
+31
+00:01:03,450 --> 00:01:06,210
+is located with a probability of 90% . 
+There are different types 
+
+32
+00:01:06,210 --> 00:01:08,310
+of orbitals. 
+
+33
+00:01:08,310 --> 00:01:11,930
+A distinction is usually made between S, P 
+and D 
+
+34
+00:01:11,930 --> 00:01:14,930
+ orbitals. Above a certain 
+
+35
+00:01:14,930 --> 00:01:16,830
+number of electrons, F 
+
+36
+00:01:16,830 --> 00:01:19,390
+ orbitals, G orbitals, S orbitals and 
+
+37
+00:01:19,390 --> 00:01:23,030
+H orbitals can also occur. In the case of 
+G and H orbitals 
+
+38
+00:01:23,030 --> 00:01:25,070
+, it should be noted that they 
+
+39
+00:01:25,070 --> 00:01:26,710
+usually only occur when the 
+
+40
+00:01:26,710 --> 00:01:28,970
+electrons are excited. 
+
+41
+00:01:28,970 --> 00:01:30,830
+However, we will 
+
+42
+00:01:30,830 --> 00:01:33,150
+not deal with these orbitals today. Let us 
+now look at 
+
+43
+00:01:33,210 --> 00:01:35,290
+their appearance, their arrangement around 
+the atomic nucleus and 
+
+44
+00:01:35,290 --> 00:01:37,210
+the number of electrons within the 
+
+45
+00:01:37,210 --> 00:01:40,470
+orbitals. S orbitals are spherical 
+
+46
+00:01:40,470 --> 00:01:42,370
+and can 
+
+47
+00:01:42,370 --> 00:01:44,290
+accommodate up to two electrons . As the 
+same 
+
+48
+00:01:44,290 --> 00:01:46,250
+orbital shape appears several times, 
+
+49
+00:01:46,290 --> 00:01:47,930
+they are 
+
+50
+00:01:47,930 --> 00:01:50,170
+
+51
+00:01:50,250 --> 00:01:52,910
+differentiated using numbers, the 
+principal quantum numbers. For example, 
+the 
+
+52
+00:01:52,910 --> 00:01:55,770
+1s and 2s orbitals are occupied first 
+before 
+
+53
+00:01:55,770 --> 00:01:58,610
+p orbitals are formed. They resemble 
+
+54
+00:01:58,610 --> 00:02:00,470
+a dumbbell in appearance, with 
+
+55
+00:02:00,470 --> 00:02:02,030
+space for two electrons 
+
+56
+00:02:02,030 --> 00:02:03,530
+. From the second 
+
+57
+00:02:03,530 --> 00:02:05,370
+main quantum number, 
+
+58
+00:02:05,370 --> 00:02:07,770
+up to three p orbitals can form, which 
+
+59
+00:02:07,770 --> 00:02:10,530
+
+60
+00:02:10,530 --> 00:02:13,670
+are aligned along the x, y and z axes in 
+the model. From 20 
+
+61
+00:02:13,670 --> 00:02:15,950
+electrons, d orbitals can 
+
+62
+00:02:15,950 --> 00:02:17,910
+occur. There are five of them. 
+
+63
+00:02:18,310 --> 00:02:20,410
+Four look like a double dumbbell. 
+
+64
+00:02:20,590 --> 00:02:23,490
+The fifth d-orbital is a dumbbell 
+
+65
+00:02:23,490 --> 00:02:26,130
+with a center ring. Each d orbital 
+
+66
+00:02:26,130 --> 00:02:27,930
+can contain up to two electrons. 
+
+67
+00:02:27,930 --> 00:02:30,030
+Let's take a look at this using an 
+
+68
+00:02:30,030 --> 00:02:32,650
+example. Let's look at 
+
+69
+00:02:32,650 --> 00:02:35,150
+Bohr. Bohr has the atomic number 5, which 
+means that 
+
+70
+00:02:35,490 --> 00:02:37,850
+
+71
+00:02:37,850 --> 00:02:39,810
+there are 5 protons in the atomic nucleus 
+and therefore it also has 
+
+72
+00:02:39,810 --> 00:02:42,450
+5 electrons. The atomic nucleus is 
+surrounded by the 
+
+73
+00:02:42,450 --> 00:02:45,250
+first s orbital. It contains 
+
+74
+00:02:45,250 --> 00:02:47,790
+2 electrons. This means that the first s 
+
+75
+00:02:47,790 --> 00:02:50,170
+ orbital is already fully occupied. 
+
+76
+00:02:50,170 --> 00:02:52,230
+This is followed by the second s orbital 
+with the 
+
+77
+00:02:52,230 --> 00:02:53,390
+principal 
+
+78
+00:02:56,930 --> 00:02:58,670
+
+79
+00:02:58,670 --> 00:03:00,870
+quantum number 2. Finally comes the p 
+orbital, which also has the principal 
+quantum number 2. 
+
+80
+00:03:01,050 --> 00:03:03,810
+It contains the last electron. The 
+
+81
+00:03:03,810 --> 00:03:04,910
+whole thing can also be 
+
+82
+00:03:04,910 --> 00:03:07,670
+represented in writing. The first s 
+
+83
+00:03:07,670 --> 00:03:10,010
+ orbital contains two electrons 
+
+84
+00:03:10,010 --> 00:03:12,270
+, as does  the second. The 
+
+85
+00:03:12,270 --> 00:03:14,490
+p 
+
+86
+00:03:14,490 --> 00:03:17,590
+orbital assigned to the second principal 
+quantum number contains one electron. This 
+
+87
+00:03:17,590 --> 00:03:19,090
+is one way of representing the 
+
+88
+00:03:19,090 --> 00:03:21,970
+electron configuration. Let's summarize 
+
+89
+00:03:21,970 --> 00:03:24,290
+this briefly. 1. 
+
+90
+00:03:24,890 --> 00:03:26,930
+orbitals indicate where an 
+
+91
+00:03:26,930 --> 00:03:28,790
+electron is located with a 90% 
+
+92
+00:03:28,790 --> 00:03:32,250
+probability. 2. there 
+
+93
+00:03:32,250 --> 00:03:34,690
+are 6 different orbitals distributed 
+
+94
+00:03:34,690 --> 00:03:35,630
+over different 
+
+95
+00:03:35,630 --> 00:03:38,310
+principal quantum numbers, with S, P and 
+
+96
+00:03:38,310 --> 00:03:40,730
+D orbitals being the most commonly used 
+
+97
+00:03:40,730 --> 00:03:44,390
+orbital forms. 3. each of these 
+
+98
+00:03:44,390 --> 00:03:45,990
+orbitals contains 
+
+99
+00:03:45,990 --> 00:03:50,270
+a maximum of 2 electrons. 4. 
+
+100
+00:03:50,270 --> 00:03:51,430
+if you 
+
+101
+00:03:51,430 --> 00:03:53,070
+write out all the occupied orbitals in the 
+orbitals, you get the 
+
+102
+00:03:53,070 --> 00:03:55,750
+electron configuration. I hope 
+
+103
+00:03:55,790 --> 00:03:57,030
+that I have been able to help you 
+understand the 
+
+104
+00:03:57,030 --> 00:03:58,450
+basics of orbitals 
+
+105
+00:03:58,450 --> 00:04:00,590
+. 
+
+106
+00:04:00,590 --> 00:04:02,390
+You can 
+
+107
+00:04:02,390 --> 00:04:04,230
+
+108
+00:04:04,230 --> 00:04:06,270
+find further examples of more complex 
+atoms in the second video on orbitals . In 
+addition to 
+
+109
+00:04:06,270 --> 00:04:08,190
+other content such as worksheets 
+
+110
+00:04:08,190 --> 00:04:10,230
+and interactive tasks , you can also find 
+it here 
+
+111
+00:04:10,230 --> 00:04:12,450
+in our online learning center. See you 
+
+112
+00:04:12,450 --> 00:04:12,990
+next time! 

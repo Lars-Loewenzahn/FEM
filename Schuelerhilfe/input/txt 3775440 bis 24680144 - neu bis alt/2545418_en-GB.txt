@@ -1,0 +1,2719 @@
+﻿1
+00:00:01,170 --> 00:00:03,070
+Welcome to the webinar 
+
+2
+00:00:03,070 --> 00:00:05,310
+Divisibility of natural numbers. 
+
+3
+00:00:05,310 --> 00:00:07,050
+In this webinar , we will look at the 
+
+4
+00:00:07,050 --> 00:00:08,730
+divisibility of natural numbers 
+
+5
+00:00:08,730 --> 00:00:11,430
+. Therefore, we will first 
+
+6
+00:00:11,430 --> 00:00:13,250
+look at what a divisor 
+
+7
+00:00:13,250 --> 00:00:15,370
+and a multiple is. After that, 
+
+8
+00:00:15,370 --> 00:00:16,750
+we will look at the final digit and the 
+
+9
+00:00:16,750 --> 00:00:18,810
+sum of digits rule and look at the 
+
+10
+00:00:18,810 --> 00:00:20,850
+corresponding rules for multiple 
+
+11
+00:00:20,850 --> 00:00:23,890
+divisors. Then we'll look 
+
+12
+00:00:23,890 --> 00:00:25,990
+at the prime factorization 
+
+13
+00:00:25,990 --> 00:00:28,090
+and finally we'll determine the greatest 
+
+14
+00:00:28,090 --> 00:00:29,630
+common parts and the least 
+
+15
+00:00:29,630 --> 00:00:32,250
+common multiple, 
+
+16
+00:00:32,250 --> 00:00:34,150
+using the n c of quersum rule and 
+
+17
+00:00:34,150 --> 00:00:35,970
+the prime factorization 
+
+18
+00:00:35,970 --> 00:00:39,150
+, and we'll start 
+
+19
+00:00:39,150 --> 00:00:40,510
+with multiples and multiples 
+
+20
+00:00:40,510 --> 00:00:42,690
+of a number are 
+
+21
+00:00:42,690 --> 00:00:44,590
+always created by multiplying 
+
+22
+00:00:44,590 --> 00:00:46,370
+these numbers by natural numbers 
+
+23
+00:00:46,370 --> 00:00:49,030
+, i.e. no matter what number we 
+
+24
+00:00:49,030 --> 00:00:51,090
+have, if we 
+
+25
+00:00:51,090 --> 00:00:52,770
+multiply it by a natural number, 
+
+26
+00:00:52,830 --> 00:00:54,910
+we get a multiple of it, 
+
+27
+00:00:54,990 --> 00:00:56,310
+i.e. a multiple of the number that 
+
+28
+00:00:56,310 --> 00:00:58,510
+is multiplied. This means 
+
+29
+00:00:58,510 --> 00:01:01,750
+that we now have 4 as a number and are 
+
+30
+00:01:01,750 --> 00:01:03,890
+now forming multiples of this 4. 
+
+31
+00:01:04,390 --> 00:01:06,590
+We do this by 
+
+32
+00:01:06,590 --> 00:01:09,450
+multiplying 4 by the natural numbers 
+
+33
+00:01:09,450 --> 00:01:10,910
+or by 
+
+34
+00:01:10,910 --> 00:01:13,650
+multiplying it by natural numbers , i.e. 4 
+times 2. The 2 
+
+35
+00:01:13,650 --> 00:01:16,050
+is a natural number, so 
+
+36
+00:01:16,050 --> 00:01:18,110
+this is absolutely legitimate and so we 
+arrive 
+
+37
+00:01:18,110 --> 00:01:22,410
+at 8 4 x 3 is 12 4 x 4 is 16 and 
+
+38
+00:01:22,410 --> 00:01:24,930
+we can you see 2 3 4 we can 
+
+39
+00:01:24,930 --> 00:01:26,530
+
+40
+00:01:26,530 --> 00:01:28,530
+go through the whole series of natural 
+numbers, i.e. to 
+
+41
+00:01:28,530 --> 00:01:30,850
+infinity and these are then all 
+
+42
+00:01:30,850 --> 00:01:34,330
+multiples of the 4 so every 
+
+43
+00:01:34,330 --> 00:01:36,410
+natural number that we 
+
+44
+00:01:36,410 --> 00:01:39,110
+multiply by the 4 is in the end the 
+
+45
+00:01:39,110 --> 00:01:40,490
+product of both is then a 
+
+46
+00:01:40,490 --> 00:01:42,670
+multiple of the 4 so we 
+
+47
+00:01:42,670 --> 00:01:45,770
+then arrive at 4, 8, 12, 16, 20. There 
+would 
+
+48
+00:01:45,770 --> 00:01:48,730
+still be the 24 and the 28 and it goes 
+
+49
+00:01:48,730 --> 00:01:49,970
+on and on like this. That's why there are 
+
+50
+00:01:49,970 --> 00:01:52,770
+three dots here , because 
+
+51
+00:01:52,770 --> 00:01:57,030
+there are an infinite number of multiples 
+. It is important to note 
+
+52
+00:01:57,030 --> 00:02:00,670
+that each number is also 
+
+53
+00:02:00,670 --> 00:02:02,530
+its own multiple, 
+
+54
+00:02:02,530 --> 00:02:04,670
+because 1 is a natural number. 
+
+55
+00:02:05,730 --> 00:02:07,670
+Therefore 4 times 1. We can 
+
+56
+00:02:07,670 --> 00:02:09,450
+multiply any number by 1 and as a 
+
+57
+00:02:09,450 --> 00:02:10,730
+result we get 
+
+58
+00:02:10,730 --> 00:02:14,130
+our number again. And therefore 4 times 1 
+is 
+
+59
+00:02:14,130 --> 00:02:17,930
+4, or in other words, every number is 
+
+60
+00:02:17,930 --> 00:02:19,270
+also its own 
+
+61
+00:02:19,270 --> 00:02:20,850
+multiple. That's why you also 
+
+62
+00:02:20,850 --> 00:02:23,750
+see 4 in the first place. Perhaps 
+
+63
+00:02:23,750 --> 00:02:25,710
+one or two more general words 
+
+64
+00:02:25,710 --> 00:02:28,230
+on the subject of natural numbers. Natural 
+
+65
+00:02:28,230 --> 00:02:31,230
+numbers are all numbers that are whole 
+
+66
+00:02:31,230 --> 00:02:35,510
+and positive. And that's why 
+
+67
+00:02:35,510 --> 00:02:38,790
+we'll also be using them in the rest of 
+
+68
+00:02:38,790 --> 00:02:42,450
+the webinar. 
+
+69
+00:02:42,450 --> 00:02:55,210
+Now let's move on to the divisor. 
+
+70
+00:03:09,310 --> 00:03:11,070
+12 divided by 4 is 3 and 12 
+
+71
+00:03:11,070 --> 00:03:13,870
+divided by 6 is 2 and 12 divided 
+
+72
+00:03:13,870 --> 00:03:16,550
+by 12 is 1. We only see 
+
+73
+00:03:16,550 --> 00:03:18,990
+whole numbers here or we have no 
+
+74
+00:03:18,990 --> 00:03:21,610
+decimals or no remainder. Therefore, 
+
+75
+00:03:21,610 --> 00:03:25,130
+1, 2, 3, 4, 6 and 12 are 
+
+76
+00:03:25,130 --> 00:03:29,190
+also divisors of 12. And this brings us 
+
+77
+00:03:29,190 --> 00:03:32,570
+to the first rule. 
+
+78
+00:03:32,570 --> 00:03:35,210
+Every number is also 
+
+79
+00:03:35,210 --> 00:03:37,970
+its own divisor. Because we can 
+
+80
+00:03:37,970 --> 00:03:39,750
+divide every number by itself 
+
+81
+00:03:39,750 --> 00:03:40,890
+and get no remainder. 
+
+82
+00:03:40,890 --> 00:03:42,530
+The result is always 1. Whenever we 
+
+83
+00:03:42,530 --> 00:03:44,070
+divide a number by itself 
+
+84
+00:03:44,110 --> 00:03:47,670
+, we get 1. And at the same time 
+
+85
+00:03:47,670 --> 00:03:50,490
+, of course, 1 is always a 
+
+86
+00:03:50,490 --> 00:03:54,330
+divisor of the number. This means that 
+when 
+
+87
+00:03:54,330 --> 00:03:56,210
+we divide a number by 1, we 
+
+88
+00:03:56,250 --> 00:03:58,450
+get the number again. Therefore, 
+
+89
+00:03:58,450 --> 00:04:01,950
+1 is always a divisor 
+
+90
+00:04:01,950 --> 00:04:05,010
+of every number and for every number, the 
+number is 
+
+91
+00:04:05,010 --> 00:04:05,850
+part of it. 
+
+92
+00:04:08,710 --> 00:04:10,490
+What is also detailed here 
+
+93
+00:04:10,490 --> 00:04:12,150
+, if we look at it 
+
+94
+00:04:12,150 --> 00:04:14,670
+graphically, we now only have 
+
+95
+00:04:14,670 --> 00:04:16,850
+the 1 from the equal sign on the left 
+
+96
+00:04:16,850 --> 00:04:19,770
+and the 12 on the right. Below it is 
+exactly the 
+
+97
+00:04:19,770 --> 00:04:21,630
+opposite. Here we have 
+
+98
+00:04:21,630 --> 00:04:23,450
+2 on the left and 6 on the right, here we 
+have 
+
+99
+00:04:23,450 --> 00:04:25,950
+6 on the left and 2 on the right 
+
+100
+00:04:25,950 --> 00:04:30,990
+. This means that if we 
+
+101
+00:04:30,990 --> 00:04:38,930
+divide a number by A, 
+
+102
+00:04:38,930 --> 00:04:41,970
+the result is also a divisor of this 
+number. 
+
+103
+00:04:42,270 --> 00:04:45,110
+This means that x divided by A is 
+
+104
+00:04:45,110 --> 00:04:48,710
+equal to b. Then A and b are divisors 
+
+105
+00:04:48,710 --> 00:04:50,850
+of the number. We can also see this here. 
+
+106
+00:04:53,710 --> 00:04:56,990
+12 divided by 4 is equal to 3. 
+
+107
+00:04:56,990 --> 00:04:58,990
+3 is also a divisor of the number 
+
+108
+00:04:58,990 --> 00:05:00,470
+, as it is written above. 12 divided by 
+
+109
+00:05:00,470 --> 00:05:03,490
+3 is 4, which means 
+
+110
+00:05:03,490 --> 00:05:05,170
+that both numbers are also divisors 
+
+111
+00:05:05,170 --> 00:05:07,310
+of the number. In addition, 
+
+112
+00:05:07,310 --> 00:05:12,010
+the number to the left of the 
+
+113
+00:05:12,010 --> 00:05:14,050
+divisor sign is 
+
+114
+00:05:14,050 --> 00:05:17,790
+a multiple of a and also of b. This 
+
+115
+00:05:17,790 --> 00:05:22,460
+also applies. That's it 
+
+116
+00:05:22,460 --> 00:05:23,940
+for now. about divisors and multiples. 
+
+117
+00:05:24,660 --> 00:05:26,820
+We will definitely 
+
+118
+00:05:26,820 --> 00:05:28,840
+need this later. 
+
+119
+00:05:28,840 --> 00:05:30,180
+For now, however, we will deal with the 
+final digit 
+
+120
+00:05:30,180 --> 00:05:33,920
+rule and the sum of digits rule. We will 
+need these 
+
+121
+00:05:33,920 --> 00:05:39,620
+later to check divisors. This is because 
+it 
+
+122
+00:05:39,620 --> 00:05:41,320
+is not 
+
+123
+00:05:41,320 --> 00:05:43,520
+easy to find all the divisors 
+
+124
+00:05:43,600 --> 00:05:44,740
+or to 
+
+125
+00:05:44,740 --> 00:05:47,740
+check a divisor when the numbers get 
+bigger. An example of this is 816 
+
+126
+00:05:48,040 --> 00:05:49,160
+, which is not too 
+
+127
+00:05:49,160 --> 00:05:50,820
+big yet , but 
+
+128
+00:05:50,820 --> 00:05:53,620
+I think the problem is already clear. You 
+can't 
+
+129
+00:05:53,620 --> 00:05:55,840
+check divisors or 
+
+130
+00:05:55,840 --> 00:05:58,920
+identify multiple divisors that quickly. 
+That's why 
+
+131
+00:05:58,920 --> 00:06:00,960
+the final digit and cross sum rules were 
+
+132
+00:06:00,960 --> 00:06:02,480
+invented. These are used for 
+
+133
+00:06:02,480 --> 00:06:05,120
+quick verification. This means that 
+
+134
+00:06:05,120 --> 00:06:06,840
+we can use them to quickly check 
+
+135
+00:06:06,880 --> 00:06:09,640
+whether a number 
+
+136
+00:06:09,640 --> 00:06:13,180
+is a divisor of a given number. In other 
+words, we 
+
+137
+00:06:13,180 --> 00:06:15,060
+can use a rule to 
+
+138
+00:06:15,060 --> 00:06:18,300
+check a specific divisor. 
+
+139
+00:06:18,300 --> 00:06:19,260
+We' ll see that in a moment. On the next 
+
+140
+00:06:19,260 --> 00:06:20,840
+slide, various parts are 
+
+141
+00:06:20,840 --> 00:06:23,260
+written down and the corresponding 
+
+142
+00:06:23,260 --> 00:06:26,560
+rule for these parts. Let's move on 
+
+143
+00:06:26,560 --> 00:06:28,980
+to the final digit, because 
+
+144
+00:06:28,980 --> 00:06:30,300
+we'll need the final digit in a moment. 
+The 
+
+145
+00:06:30,300 --> 00:06:32,780
+final digits are the last digits. 
+
+146
+00:06:33,460 --> 00:06:35,640
+They can be the ones, the 
+
+147
+00:06:35,640 --> 00:06:37,100
+tens and the hundreds. Sometimes 
+
+148
+00:06:37,100 --> 00:06:39,040
+it's just the last digit, the last 
+
+149
+00:06:39,040 --> 00:06:41,740
+digit, then it's the ones or 
+
+150
+00:06:41,740 --> 00:06:43,900
+, for example, the last two 
+
+151
+00:06:43,900 --> 00:06:45,400
+digits, then it's the tens and 
+
+152
+00:06:45,400 --> 00:06:46,860
+one or the last three digits 
+
+153
+00:06:46,860 --> 00:06:50,920
+then it's the hundreds and 
+
+154
+00:06:50,920 --> 00:06:54,140
+one that depends on the part 
+
+155
+00:06:54,140 --> 00:06:55,480
+we want to check that's 
+
+156
+00:06:55,480 --> 00:06:57,540
+on the next slide and then 
+
+157
+00:06:57,540 --> 00:06:58,780
+it will probably also become clear 
+
+158
+00:06:58,780 --> 00:07:01,680
+the cross sum of a number is formed 
+
+159
+00:07:01,680 --> 00:07:03,840
+by adding its digits 
+
+160
+00:07:03,840 --> 00:07:06,260
+, i.e. we have 816 here and 
+
+161
+00:07:06,260 --> 00:07:08,440
+we calculate the cross sum by 
+
+162
+00:07:08,440 --> 00:07:10,900
+
+163
+00:07:10,900 --> 00:07:14,020
+forming the sum of the individual digits , 
+i.e. 8 plus 1 plus 6 and that 
+
+164
+00:07:14,020 --> 00:07:17,100
+'s 15. In other words, the sum of the 
+digits 
+
+165
+00:07:17,100 --> 00:07:20,760
+of the number 816 is 15. And 
+
+166
+00:07:20,760 --> 00:07:22,360
+the sum of the digits can then be used to 
+
+167
+00:07:22,360 --> 00:07:25,200
+determine divisors or check divisors. 
+
+168
+00:07:25,660 --> 00:07:29,060
+And now we come to that. We can 
+
+169
+00:07:29,060 --> 00:07:30,820
+always 
+
+170
+00:07:30,820 --> 00:07:32,140
+see the divisor that we 
+
+171
+00:07:32,140 --> 00:07:33,420
+are currently looking at, shown here in 
+green on the left. 
+
+172
+00:07:33,420 --> 00:07:36,000
+The whole thing is to be understood as 
+follows. If we 
+
+173
+00:07:36,000 --> 00:07:38,640
+want to know, or if a number 
+
+174
+00:07:38,640 --> 00:07:41,640
+has the divisor 2, then the 
+
+175
+00:07:41,640 --> 00:07:43,260
+final digit is even. That is always the 
+
+176
+00:07:43,260 --> 00:07:44,840
+rule and that is the divisor we are 
+
+177
+00:07:44,840 --> 00:07:46,160
+checking. There is always an 
+
+178
+00:07:46,160 --> 00:07:49,420
+example on the right. So, if a number 
+
+179
+00:07:49,420 --> 00:07:51,580
+has a divisor of 2, then the 
+
+180
+00:07:51,580 --> 00:07:55,580
+final digit is even. In other words, we 
+
+181
+00:07:55,580 --> 00:07:57,860
+have 1984 here and if we 
+
+182
+00:07:57,860 --> 00:08:00,340
+want to know whether 1984 has a 
+
+183
+00:08:00,340 --> 00:08:02,440
+divisor of 2, we look at the 
+
+184
+00:08:02,440 --> 00:08:04,260
+last digit. So the last digit, 
+
+185
+00:08:04,340 --> 00:08:06,700
+that's 4, and see if it 
+
+186
+00:08:06,700 --> 00:08:08,360
+'s even. The 4 is even, 
+
+187
+00:08:08,460 --> 00:08:12,640
+so the 1984 is an integer 
+
+188
+00:08:12,640 --> 00:08:14,980
+divisible by 2. So it has a 
+
+189
+00:08:14,980 --> 00:08:18,740
+divisor of 2. If we want to know whether 
+
+190
+00:08:18,740 --> 00:08:21,380
+a number has a divisor of 4, then 
+
+191
+00:08:21,380 --> 00:08:23,340
+we look at the last two 
+
+192
+00:08:23,340 --> 00:08:26,060
+digits. These must 
+
+193
+00:08:26,060 --> 00:08:28,740
+be divisible by 4. This means 
+
+194
+00:08:28,740 --> 00:08:32,040
+that we have 232 here. The last two 
+
+195
+00:08:32,040 --> 00:08:33,600
+digits are the 10s and the 
+
+196
+00:08:33,600 --> 00:08:36,780
+1s, so we have 32 And we 
+
+197
+00:08:36,780 --> 00:08:38,800
+now have to see whether the 4 
+
+198
+00:08:38,800 --> 00:08:41,440
+is a divisor of 32 It is in this case, 
+
+199
+00:08:41,560 --> 00:08:46,640
+so the 4 is also a divisor of 232 
+
+200
+00:08:48,240 --> 00:08:51,060
+This means that if the 4 
+
+201
+00:08:51,060 --> 00:08:53,400
+is a divisor of the last two digits 
+
+202
+00:08:53,400 --> 00:08:57,080
+, then the 4 is also a divisor of the 
+whole number This is how 
+
+203
+00:08:57,080 --> 00:08:59,940
+it should be understood It is similar 
+
+204
+00:08:59,940 --> 00:09:02,460
+with the 8. A number is 
+
+205
+00:09:02,460 --> 00:09:04,500
+divisible by 8 or 
+
+206
+00:09:04,500 --> 00:09:06,920
+has the divisor 8 if the last 
+
+207
+00:09:06,920 --> 00:09:10,180
+three digits have the divisor 8. 
+
+208
+00:09:10,180 --> 00:09:13,000
+This means that we have 46,064, the 
+
+209
+00:09:13,000 --> 00:09:14,400
+last three digits, which are the 
+
+210
+00:09:14,400 --> 00:09:18,720
+100s, the 10s and the 1s. And we 
+
+211
+00:09:18,720 --> 00:09:21,400
+now check whether these 
+
+212
+00:09:21,400 --> 00:09:24,740
+are divisible by 8. The 64 has the divisor 
+
+213
+00:09:24,740 --> 00:09:29,720
+8, therefore the 46,000. 64 is also 
+
+214
+00:09:29,720 --> 00:09:34,860
+divisible by 8. And that brings us 
+
+215
+00:09:34,860 --> 00:09:36,260
+to the divisor 5. The 
+
+216
+00:09:36,260 --> 00:09:37,920
+divisor 5 is always quite pleasant, 
+
+217
+00:09:37,940 --> 00:09:41,260
+because a number has the divisor 5 if 
+
+218
+00:09:41,260 --> 00:09:43,400
+its final digit 
+
+219
+00:09:43,400 --> 00:09:44,660
+is a 0 or a 5. This means that we 
+
+220
+00:09:44,660 --> 00:09:46,160
+really only ever have to 
+
+221
+00:09:46,160 --> 00:09:49,180
+look at the final digit. In the case of 
+151 
+
+222
+00:09:49,180 --> 00:09:53,180
+.065 , this is  5. And as I said, if the 
+
+223
+00:09:53,180 --> 00:09:54,940
+final digit is a 0 or a 5, 
+
+224
+00:09:55,040 --> 00:09:57,360
+then the number has the divisor 5 in 
+
+225
+00:09:57,360 --> 00:09:59,160
+our case. If the final digit is a 5, this 
+means that 
+
+226
+00:09:59,160 --> 00:10:06,500
+151.065 has the divisor 5. And that 
+
+227
+00:10:06,500 --> 00:10:09,020
+brings us to the divisor 10. The divisor 
+
+228
+00:10:09,020 --> 00:10:11,100
+10 is the simplest case, namely 
+
+229
+00:10:11,100 --> 00:10:13,780
+every number has the divisor 10 if it 
+
+230
+00:10:13,780 --> 00:10:15,400
+has a 0 as the final digit and really 
+
+231
+00:10:15,400 --> 00:10:17,680
+only a 0. We can see immediately that 
+
+232
+00:10:17,800 --> 00:10:19,540
+the number has a 0 at the end, so 
+
+233
+00:10:19,540 --> 00:10:23,160
+it definitely has the divisor 10. The 
+
+234
+00:10:23,160 --> 00:10:24,320
+divisor 10 is therefore always quite 
+
+235
+00:10:24,320 --> 00:10:28,440
+simple and is therefore often a 
+
+236
+00:10:28,440 --> 00:10:30,340
+good starting point for the prime 
+
+237
+00:10:30,340 --> 00:10:32,560
+factorization that we 
+
+238
+00:10:32,560 --> 00:10:36,660
+will look at later, we come to the divisor 
+25 the 
+
+239
+00:10:36,660 --> 00:10:39,380
+divisor 25 or a number has the 
+
+240
+00:10:39,380 --> 00:10:41,520
+divisor 25 if the last two 
+
+241
+00:10:41,520 --> 00:10:46,240
+digits are 00 25 50 or 75 
+
+242
+00:10:46,240 --> 00:10:48,240
+that means if we want to know if 
+
+243
+00:10:48,240 --> 00:10:50,300
+a number has the divisor 25 
+
+244
+00:10:50,300 --> 00:10:51,300
+we only look at the last two 
+
+245
+00:10:51,300 --> 00:10:54,120
+digits and either it is only 0 
+
+246
+00:10:54,120 --> 00:10:59,440
+25 50 or 75 in our case we have 
+
+247
+00:10:59,440 --> 00:11:03,760
+the 516.875 so we have 
+
+248
+00:11:03,760 --> 00:11:05,360
+75 in the last two digits 
+
+249
+00:11:05,360 --> 00:11:07,920
+so the whole number is 
+
+250
+00:11:07,920 --> 00:11:12,000
+divisible by 25 so it has the 
+
+251
+00:11:12,000 --> 00:11:16,440
+divisor 25. Next we come to 
+
+252
+00:11:16,440 --> 00:11:19,800
+the divisor 3. You can determine whether 
+
+253
+00:11:19,800 --> 00:11:21,660
+a number has the divisor 3 by 
+
+254
+00:11:21,660 --> 00:11:24,980
+checking the sum of the digits. A 
+
+255
+00:11:24,980 --> 00:11:27,060
+number has the divisor 3 if its 
+
+256
+00:11:27,060 --> 00:11:29,600
+sum of digits also has the divisor 3. 
+
+257
+00:11:30,100 --> 00:11:32,500
+This means that the first thing we have to 
+do is find the 
+
+258
+00:11:32,500 --> 00:11:34,620
+sum of the digits of the number We have 
+
+259
+00:11:34,620 --> 00:11:38,800
+8613 here as an example. The sum of the 
+digits 
+
+260
+00:11:38,800 --> 00:11:41,880
+of 8613 is then 8 plus 6 plus 1 
+
+261
+00:11:41,880 --> 00:11:44,620
+plus 3. That's 18. And we 
+
+262
+00:11:44,620 --> 00:11:46,740
+now consider whether 18 has the divisor 
+
+263
+00:11:46,740 --> 00:11:51,560
+3. And it does. 3 times 6 is 
+
+264
+00:11:51,560 --> 00:11:56,180
+18, or the 18 has the 
+
+265
+00:11:56,180 --> 00:12:01,260
+divisor 3. Therefore, the 8613 also has 
+the 
+
+266
+00:12:01,260 --> 00:12:03,680
+divisor 3. We can therefore say that. 
+
+267
+00:12:04,760 --> 00:12:06,360
+Similarly, 
+
+268
+00:12:06,360 --> 00:12:07,840
+if we want to know whether a number 
+
+269
+00:12:07,840 --> 00:12:09,800
+has the part in 9, we 
+
+270
+00:12:09,800 --> 00:12:11,620
+first determine the sum of the digits and 
+see whether 
+
+271
+00:12:11,620 --> 00:12:14,200
+the sum of the digits has the part in 9. 
+
+272
+00:12:14,200 --> 00:12:18,560
+Here we have the 4,221, the sum of the 
+digits 
+
+273
+00:12:18,560 --> 00:12:21,280
+is then 9, so 4 plus 2 plus 2 plus 
+
+274
+00:12:21,280 --> 00:12:24,480
+1 is 9 and the 9 has the part in 9, 
+
+275
+00:12:24,620 --> 00:12:29,920
+so the 4,221 is also 
+
+276
+00:12:29,920 --> 00:12:32,300
+divisible by 9 or has the 
+
+277
+00:12:32,300 --> 00:12:36,140
+divisor 9. It is a little more difficult 
+
+278
+00:12:36,140 --> 00:12:37,840
+with the divisor 6 and the divisor 15. 
+
+279
+00:12:38,000 --> 00:12:40,920
+If we want to know whether a number 
+
+280
+00:12:40,920 --> 00:12:42,900
+has the divisor 6, we first have to 
+
+281
+00:12:42,900 --> 00:12:45,660
+check whether it has the divisor 2. 
+
+282
+00:12:45,660 --> 00:12:46,960
+This means that we first look at the 
+
+283
+00:12:46,960 --> 00:12:49,040
+rule for divisor 2 and check 
+
+284
+00:12:49,040 --> 00:12:51,680
+this. If it has the divisor 2, 
+
+285
+00:12:51,840 --> 00:12:53,420
+we still have to check whether it also has 
+
+286
+00:12:53,420 --> 00:12:56,200
+the divisor 3. In other words, we 
+
+287
+00:12:56,200 --> 00:12:58,280
+then check the divisor 3 with the 
+
+288
+00:12:58,280 --> 00:12:59,000
+rule here. 
+
+289
+00:13:01,940 --> 00:13:04,680
+If it has the divisor 2 and the divisor 3, 
+
+290
+00:13:04,840 --> 00:13:09,260
+it also has the divisor 6. If it 
+
+291
+00:13:09,260 --> 00:13:11,040
+has only one of the two parts or 
+
+292
+00:13:11,040 --> 00:13:13,520
+neither of them, then it does not have 
+
+293
+00:13:13,520 --> 00:13:18,580
+the divisor 6. So the number must 
+
+294
+00:13:18,580 --> 00:13:20,780
+have the divisor 2 and divisor 3 so that 
+
+295
+00:13:20,780 --> 00:13:22,820
+it also has the divisor 6, otherwise 
+
+296
+00:13:22,820 --> 00:13:26,830
+it does not. In principle, 
+
+297
+00:13:26,830 --> 00:13:28,430
+we also proceed in the same way with the 
+divisor 15. 
+
+298
+00:13:28,530 --> 00:13:31,010
+In order for a number to have the divisor 
+15, 
+
+299
+00:13:31,150 --> 00:13:32,930
+we must first check whether it 
+
+300
+00:13:32,930 --> 00:13:34,490
+has the divisor 3. In other words, we 
+
+301
+00:13:34,490 --> 00:13:36,970
+perform the operation here for the 
+
+302
+00:13:36,970 --> 00:13:38,590
+divisor 3. We check whether the number 
+
+303
+00:13:38,590 --> 00:13:40,450
+has the divisor 3. And then 
+
+304
+00:13:40,450 --> 00:13:42,250
+we check whether it has the divisor 5 
+
+305
+00:13:42,250 --> 00:13:44,450
+. So we look at the 
+
+306
+00:13:44,450 --> 00:13:47,810
+final digits. If it has both divisors 
+
+307
+00:13:47,810 --> 00:13:50,090
+, then it definitely has the 
+
+308
+00:13:50,090 --> 00:13:52,270
+divisor 15. If it only 
+
+309
+00:13:52,270 --> 00:13:53,970
+has one of the two divisors or 
+
+310
+00:13:53,970 --> 00:13:56,490
+neither of them, then it doesn't have the 
+divisor 
+
+311
+00:13:56,490 --> 00:14:00,110
+15. And that's it 
+
+312
+00:14:00,110 --> 00:14:02,210
+for the end digit and cross sum rule for 
+now. 
+
+313
+00:14:04,070 --> 00:14:06,410
+And that brings us to the 
+
+314
+00:14:06,410 --> 00:14:09,690
+prime factorization. First of all, let's 
+
+315
+00:14:09,690 --> 00:14:12,310
+talk about prime numbers in general. A 
+
+316
+00:14:12,310 --> 00:14:17,530
+prime number is a number that is only 
+
+317
+00:14:17,530 --> 00:14:19,230
+divisible by itself and 1. 
+
+318
+00:14:20,330 --> 00:14:22,010
+It is therefore only 
+
+319
+00:14:22,010 --> 00:14:23,670
+divisible by two natural numbers, namely 
+
+320
+00:14:23,670 --> 00:14:26,230
+1 and itself. This is what 
+
+321
+00:14:26,310 --> 00:14:27,510
+we have just 
+
+322
+00:14:27,510 --> 00:14:29,730
+learned about the divisors above. Every 
+number is 
+
+323
+00:14:29,730 --> 00:14:31,650
+divisible by 1 and by itself. And 
+
+324
+00:14:31,650 --> 00:14:33,290
+prime numbers have the special feature 
+
+325
+00:14:33,350 --> 00:14:35,850
+that they 
+
+326
+00:14:35,850 --> 00:14:39,890
+are only divisible by 1 and by themselves. 
+The 
+
+327
+00:14:39,890 --> 00:14:42,970
+first prime numbers are 2, 3, 5, 7, 
+
+328
+00:14:43,090 --> 00:14:49,070
+11, 13, 17, 19, 23, 29, 31, 37, 41, 
+
+329
+00:14:49,310 --> 00:14:52,710
+43, 47 and so on. 
+
+330
+00:14:52,710 --> 00:14:54,370
+It is advisable not to use all the 
+
+331
+00:14:54,370 --> 00:14:55,970
+prime numbers... There are also an 
+infinite 
+
+332
+00:14:55,970 --> 00:14:59,450
+number, so it is only advisable to 
+
+333
+00:14:59,450 --> 00:15:01,770
+
+334
+00:15:01,770 --> 00:15:04,350
+know the first 10 to 15 by heart. That is 
+enough. Because it is 
+
+335
+00:15:04,350 --> 00:15:06,170
+important to know the prime numbers 
+
+336
+00:15:06,170 --> 00:15:08,030
+or to know some prime numbers, 
+
+337
+00:15:08,130 --> 00:15:09,870
+because you need them for the 
+
+338
+00:15:09,870 --> 00:15:11,410
+prime factorization. 
+
+339
+00:15:11,490 --> 00:15:15,890
+We'll see what that is in a moment. As I 
+said, 
+
+340
+00:15:15,890 --> 00:15:19,950
+we need them for this. 
+
+341
+00:15:19,950 --> 00:15:21,590
+Furthermore, every 
+
+342
+00:15:21,590 --> 00:15:23,930
+natural number 
+
+343
+00:15:23,930 --> 00:15:25,790
+can be represented as a product of prime 
+numbers. This 
+
+344
+00:15:25,790 --> 00:15:29,230
+means that every natural number can 
+
+345
+00:15:29,230 --> 00:15:31,110
+
+346
+00:15:31,110 --> 00:15:33,390
+be represented as a product of prime 
+numbers. And the 
+
+347
+00:15:33,390 --> 00:15:36,730
+prime factorization is the 
+
+348
+00:15:36,730 --> 00:15:39,570
+calculation method for representing this 
+natural 
+
+349
+00:15:39,570 --> 00:15:41,930
+number with prime factors. 
+
+350
+00:15:41,930 --> 00:15:44,090
+In other words, we see here that 60 is 
+equal to 5 
+
+351
+00:15:44,090 --> 00:15:47,410
+times 3 times 2 times 2. 5, 3 and 
+
+352
+00:15:47,410 --> 00:15:50,410
+2 are prime numbers. 
+
+353
+00:15:50,510 --> 00:15:51,890
+This means that the prime factorization 
+was 
+
+354
+00:15:51,890 --> 00:15:54,350
+carried out here and these 4 numbers here 
+
+355
+00:15:54,350 --> 00:15:55,970
+are the prime factors. 
+
+356
+00:15:58,970 --> 00:16:00,990
+And that brings us to the 
+
+357
+00:16:00,990 --> 00:16:02,350
+actual prime factorization. 
+
+358
+00:16:02,390 --> 00:16:03,610
+We also have a 
+
+359
+00:16:03,610 --> 00:16:05,010
+small example to 
+
+360
+00:16:05,010 --> 00:16:08,630
+demonstrate this. Of course, it's not 
+
+361
+00:16:08,630 --> 00:16:10,150
+immediately obvious that 60 
+
+362
+00:16:10,150 --> 00:16:11,970
+equals 5 times 3 times 2 times 2. 
+
+363
+00:16:11,970 --> 00:16:14,190
+Perhaps the trained eye sees it 
+
+364
+00:16:14,190 --> 00:16:15,430
+and if you see it immediately and it 
+
+365
+00:16:15,430 --> 00:16:16,210
+is correct, you can 
+
+366
+00:16:16,210 --> 00:16:18,650
+write it down straight away. 
+
+367
+00:16:18,650 --> 00:16:19,950
+However, the numbers are usually somewhat 
+larger and 
+
+368
+00:16:19,950 --> 00:16:20,990
+then you can't do it so 
+
+369
+00:16:20,990 --> 00:16:23,790
+quickly. That's why you do it factor 
+
+370
+00:16:23,790 --> 00:16:27,390
+by factor. 
+
+371
+00:16:27,390 --> 00:16:29,550
+It doesn't matter in which order you find 
+the factors. 
+
+372
+00:16:30,030 --> 00:16:32,330
+After all, it's a product, i.e. a 
+
+373
+00:16:32,330 --> 00:16:35,550
+multiplication, and we can 
+
+374
+00:16:35,550 --> 00:16:37,070
+swap the elements around as we like. 
+
+375
+00:16:37,790 --> 00:16:39,970
+In other words, the order in which we 
+
+376
+00:16:39,970 --> 00:16:41,450
+find the factors doesn't matter 
+
+377
+00:16:43,370 --> 00:16:45,670
+Prime factors often 
+
+378
+00:16:45,670 --> 00:16:49,230
+occur several times , so this is not 
+uncommon And 
+
+379
+00:16:49,230 --> 00:16:50,910
+these prime factors that 
+
+380
+00:16:50,910 --> 00:16:52,190
+occur several times can either be 
+
+381
+00:16:52,190 --> 00:16:54,430
+written as a power or simply 
+
+382
+00:16:54,430 --> 00:16:56,010
+left one after the other But 
+
+383
+00:16:56,010 --> 00:16:58,570
+never multiply them out This is 
+
+384
+00:16:58,570 --> 00:17:00,010
+very important, never 
+
+385
+00:17:00,010 --> 00:17:01,890
+multiply them out If we now 
+
+386
+00:17:01,890 --> 00:17:03,290
+multiply 2 times 2, 
+
+387
+00:17:03,310 --> 00:17:04,850
+we get 4 and 4 is 
+
+388
+00:17:04,850 --> 00:17:08,670
+not a prime number. Therefore, we have 
+
+389
+00:17:08,670 --> 00:17:09,910
+not 
+
+390
+00:17:09,910 --> 00:17:12,370
+carried out a prime factorization . In 
+other words, 
+
+391
+00:17:12,370 --> 00:17:14,470
+only prime numbers are allowed at the end 
+
+392
+00:17:14,470 --> 00:17:16,130
+and they must be multiplied several times, 
+i.e. the 
+
+393
+00:17:16,130 --> 00:17:20,270
+same number several times. In order to 
+find suitable prime numbers 
+
+394
+00:17:20,270 --> 00:17:23,030
+, the final digit and 
+
+395
+00:17:23,030 --> 00:17:25,670
+cross sum rule is useful. We 
+
+396
+00:17:25,670 --> 00:17:27,410
+
+397
+00:17:27,410 --> 00:17:29,990
+learned the rule for 2, 3 and 5 earlier. 
+That gets you 
+
+398
+00:17:29,990 --> 00:17:30,490
+quite far. 
+
+399
+00:17:33,310 --> 00:17:35,530
+And you can 
+
+400
+00:17:35,530 --> 00:17:38,210
+use these rules to good effect. If 
+necessary, you can of course 
+
+401
+00:17:38,210 --> 00:17:41,190
+also check prime numbers. 
+
+402
+00:17:41,190 --> 00:17:42,890
+Of course, you want to 
+
+403
+00:17:42,890 --> 00:17:45,270
+find the largest possible divisor so that 
+the 
+
+404
+00:17:45,270 --> 00:17:46,770
+numbers become small very quickly. 
+
+405
+00:17:47,490 --> 00:17:49,270
+
+406
+00:17:49,270 --> 00:17:51,890
+The prime factorization is easier to 
+
+407
+00:17:51,890 --> 00:17:53,170
+carry out with small numbers because you 
+
+408
+00:17:53,170 --> 00:17:55,770
+know the corresponding prime numbers more 
+quickly. We 
+
+409
+00:17:55,770 --> 00:17:57,410
+only really know the first ones and 
+
+410
+00:17:57,410 --> 00:17:58,390
+if we 
+
+411
+00:17:58,390 --> 00:18:01,230
+
+412
+00:18:01,230 --> 00:18:02,550
+were to form a multiplication of 19 times 
+23 , it would quickly become 
+
+413
+00:18:02,550 --> 00:18:04,670
+confusing, so it is very 
+
+414
+00:18:04,670 --> 00:18:07,990
+practical if we first make the numbers 
+
+415
+00:18:07,990 --> 00:18:10,430
+small and then 
+
+416
+00:18:10,430 --> 00:18:12,370
+carry out the prime factorization. 
+
+417
+00:18:12,370 --> 00:18:14,950
+This means that we don't have to 
+
+418
+00:18:14,950 --> 00:18:16,550
+
+419
+00:18:16,550 --> 00:18:18,290
+have a product of prime numbers here 
+immediately. We can 
+
+420
+00:18:18,290 --> 00:18:22,030
+proceed step by step and only at the end, 
+when we 
+
+421
+00:18:22,030 --> 00:18:23,450
+
+422
+00:18:23,450 --> 00:18:24,990
+have completed the prime factorization , 
+may only 
+
+423
+00:18:24,990 --> 00:18:26,750
+prime numbers remain. 
+
+424
+00:18:26,750 --> 00:18:28,130
+We can also see this in the example 
+
+425
+00:18:28,130 --> 00:18:31,030
+we have here. We are supposed to 
+
+426
+00:18:31,030 --> 00:18:32,550
+decompose the 420 into its prime factors. 
+And that's 
+
+427
+00:18:32,550 --> 00:18:34,210
+what I mean. 
+
+428
+00:18:34,210 --> 00:18:36,410
+We see that we have 1, 2, 3, 4 
+
+429
+00:18:36,410 --> 00:18:40,490
+steps here and we only have 
+
+430
+00:18:40,490 --> 00:18:41,610
+prime numbers in this step 
+
+431
+00:18:41,610 --> 00:18:44,750
+. So you start very easily 
+
+432
+00:18:44,750 --> 00:18:46,210
+and first break the number down into 
+
+433
+00:18:46,210 --> 00:18:49,990
+factors. We can see that 
+
+434
+00:18:49,990 --> 00:18:52,350
+420 is divisible by 10, simply 
+
+435
+00:18:52,350 --> 00:18:53,610
+because it has 0, you can see that 
+
+436
+00:18:53,610 --> 00:18:55,210
+immediately. And that's why we write 
+
+437
+00:18:55,210 --> 00:18:59,790
+420 as 10. 42. What we 
+
+438
+00:18:59,790 --> 00:19:01,170
+also see immediately is that 
+
+439
+00:19:01,170 --> 00:19:03,650
+we can write 10 as 5 times 2. This 
+
+440
+00:19:03,650 --> 00:19:06,750
+is a very good step because, 
+
+441
+00:19:06,750 --> 00:19:08,870
+as I said, 10 is divisible by 5, 
+
+442
+00:19:08,970 --> 00:19:11,310
+2 times and 2 and 5 are 
+
+443
+00:19:11,310 --> 00:19:13,310
+already prime numbers. So we 
+
+444
+00:19:13,310 --> 00:19:15,210
+now have 2 prime numbers and we 
+
+445
+00:19:15,210 --> 00:19:19,270
+only have 42. 42 is 
+
+446
+00:19:19,270 --> 00:19:20,910
+already an even number and an 
+
+447
+00:19:20,910 --> 00:19:23,130
+even number can never 
+
+448
+00:19:23,130 --> 00:19:25,530
+be a prime number because all even 
+
+449
+00:19:25,530 --> 00:19:27,890
+numbers are divisible by 2. The 2 is 
+
+450
+00:19:27,890 --> 00:19:29,710
+an exception. The 2 
+
+451
+00:19:29,710 --> 00:19:32,590
+is the only even number that is a 
+
+452
+00:19:32,590 --> 00:19:36,430
+prime number. Well, 
+
+453
+00:19:39,320 --> 00:19:41,000
+as I said, we have 42, 
+
+454
+00:19:41,000 --> 00:19:43,140
+which means we can divide it 
+
+455
+00:19:43,140 --> 00:19:44,880
+by 2 in any case, so we get 
+
+456
+00:19:44,880 --> 00:19:47,660
+another 2 times 21. 249 
+
+457
+00:19:47,660 --> 00:19:49,000
+is another 2, so that's 
+
+458
+00:19:49,000 --> 00:19:51,660
+another prime number. And 
+
+459
+00:19:51,660 --> 00:19:53,100
+we have to think about 21 for a moment, it 
+
+460
+00:19:53,100 --> 00:19:56,000
+'s not a prime number. That means we 
+
+461
+00:19:56,000 --> 00:19:57,780
+have to break down 21 even further, 
+
+462
+00:19:57,820 --> 00:19:59,340
+or 
+
+463
+00:19:59,340 --> 00:20:02,180
+find a divisor of it. The 21 has the 
+
+464
+00:20:02,180 --> 00:20:06,120
+divisor 3, because the sum of the digits 
+of 21 
+
+465
+00:20:06,120 --> 00:20:10,560
+is 3. Consequently, the 
+
+466
+00:20:10,560 --> 00:20:11,840
+3 is divisible by 3, so 
+
+467
+00:20:11,960 --> 00:20:14,340
+the 21 also has the divisor 
+
+468
+00:20:14,340 --> 00:20:16,780
+3. We can therefore 
+
+469
+00:20:16,780 --> 00:20:19,600
+represent the 21 as 3 times 7. And if we 
+
+470
+00:20:19,600 --> 00:20:20,740
+now 
+
+471
+00:20:20,740 --> 00:20:23,780
+take a quick look at our result , 5 times 
+2 times 2 times 3 times 7, 
+
+472
+00:20:23,860 --> 00:20:26,040
+these are all prime numbers, then 
+
+473
+00:20:26,040 --> 00:20:28,560
+we are almost at the end, 
+
+474
+00:20:28,600 --> 00:20:30,280
+or rather we have 
+
+475
+00:20:30,280 --> 00:20:31,600
+already successfully 
+
+476
+00:20:31,600 --> 00:20:33,980
+broken down our number into prime factors. 
+The only thing we 
+
+477
+00:20:33,980 --> 00:20:35,820
+should do now is 
+
+478
+00:20:35,820 --> 00:20:38,120
+sort them in descending order of value. 
+
+479
+00:20:38,160 --> 00:20:39,340
+In other words, we start with the largest 
+
+480
+00:20:39,340 --> 00:20:41,780
+and then get smaller. 
+
+481
+00:20:41,780 --> 00:20:42,960
+You should always sort them like this. 
+
+482
+00:20:43,160 --> 00:20:47,040
+You'll see why in a moment. This means 420 
+
+483
+00:20:47,040 --> 00:20:50,020
+is equal to 7 times 5 times 3 times 2 
+times 2 
+
+484
+00:20:50,020 --> 00:20:52,780
+and we have successfully 
+
+485
+00:20:52,780 --> 00:20:54,440
+
+486
+00:20:54,440 --> 00:20:58,200
+carried out our prime factorization . 
+
+487
+00:20:58,200 --> 00:20:59,760
+This brings us to the topic of the 
+greatest 
+
+488
+00:20:59,760 --> 00:21:03,220
+common divisor. The greatest 
+
+489
+00:21:03,220 --> 00:21:05,240
+common divisor of two numbers is 
+
+490
+00:21:05,240 --> 00:21:08,200
+the greatest number by which both 
+
+491
+00:21:08,200 --> 00:21:10,800
+numbers are divisible. You 
+
+492
+00:21:10,800 --> 00:21:13,460
+often need this if you 
+
+493
+00:21:13,460 --> 00:21:14,900
+want to reduce fractions , because you are 
+looking for the 
+
+494
+00:21:14,900 --> 00:21:17,000
+greatest common divisor of the numerator 
+
+495
+00:21:17,000 --> 00:21:19,560
+and denominator and if you 
+
+496
+00:21:19,560 --> 00:21:21,620
+then 
+
+497
+00:21:21,620 --> 00:21:24,080
+divide the fraction by this greatest 
+common divisor, which is the advantage of 
+
+498
+00:21:24,080 --> 00:21:25,460
+the greatest common divisor over 
+
+499
+00:21:25,460 --> 00:21:27,980
+other divisors, then you 
+
+500
+00:21:27,980 --> 00:21:29,660
+directly get the fraction that cannot 
+
+501
+00:21:29,660 --> 00:21:31,580
+be reduced any further, because it has 
+already 
+
+502
+00:21:31,580 --> 00:21:33,140
+
+503
+00:21:33,140 --> 00:21:36,400
+been reduced by the greatest common 
+divisor yes that's why it 
+
+504
+00:21:36,400 --> 00:21:38,980
+always makes sense 
+
+505
+00:21:38,980 --> 00:21:40,420
+to look for the greatest common divisor 
+because 
+
+506
+00:21:40,420 --> 00:21:41,800
+then you immediately get a fraction that 
+
+507
+00:21:41,800 --> 00:21:44,800
+can't be reduced any further and that's 
+why 
+
+508
+00:21:44,800 --> 00:21:46,000
+we're going to 
+
+509
+00:21:46,000 --> 00:21:50,080
+deal with it now and we have two 
+
+510
+00:21:50,080 --> 00:21:52,240
+numbers here , 18 and 27, and we're 
+
+511
+00:21:52,240 --> 00:21:53,840
+looking for the greatest common divisor 
+
+512
+00:21:53,840 --> 00:21:56,580
+of both and the first thing to do 
+
+513
+00:21:56,580 --> 00:21:57,780
+, or for small numbers, 
+
+514
+00:21:57,780 --> 00:21:59,120
+is 
+
+515
+00:21:59,120 --> 00:22:00,880
+to write down the whole divisors the 
+divisor 
+
+516
+00:22:00,880 --> 00:22:02,920
+of 18 is 1, 2, 
+
+517
+00:22:02,920 --> 00:22:05,680
+3, 6, 9 and 18. 
+
+518
+00:22:05,680 --> 00:22:07,700
+The divisor of 27 is 1, 3, 
+
+519
+00:22:07,800 --> 00:22:11,900
+9 and 27 and we 
+
+520
+00:22:11,900 --> 00:22:14,480
+now choose the largest number that 
+
+521
+00:22:14,480 --> 00:22:17,780
+is in both divisors. This means that 
+
+522
+00:22:17,960 --> 00:22:20,140
+if the numbers 
+
+523
+00:22:20,140 --> 00:22:21,640
+are reasonably close together, you can 
+
+524
+00:22:21,760 --> 00:22:23,620
+start on the right. But you can 
+
+525
+00:22:23,620 --> 00:22:24,700
+also just start on the left. 
+
+526
+00:22:24,700 --> 00:22:26,140
+It doesn't matter, it's just a matter of 
+
+527
+00:22:26,180 --> 00:22:27,720
+what's faster at the moment. 
+
+528
+00:22:28,400 --> 00:22:29,860
+Let's start on the right. 
+
+529
+00:22:29,860 --> 00:22:32,000
+We have 18 at 18, 27 at 27, 
+
+530
+00:22:32,220 --> 00:22:34,300
+then we have 9 at 18 and 
+
+531
+00:22:34,300 --> 00:22:36,980
+we also have 9 at 27. And 
+
+532
+00:22:36,980 --> 00:22:38,340
+that is now our largest 
+
+533
+00:22:38,340 --> 00:22:41,620
+common divisor. In other words, we 
+
+534
+00:22:41,620 --> 00:22:44,800
+can conclude by saying that the largest 
+
+535
+00:22:44,800 --> 00:22:46,160
+number contained in both sets 
+
+536
+00:22:46,160 --> 00:22:48,020
+is 9. This means that 9 is 
+
+537
+00:22:48,020 --> 00:22:50,040
+the largest common divisor of the 
+
+538
+00:22:50,040 --> 00:22:50,640
+two numbers. 
+
+539
+00:22:53,880 --> 00:22:56,700
+The problem is, sometimes it is... 
+
+540
+00:22:56,720 --> 00:22:57,920
+a little more difficult to 
+
+541
+00:22:57,920 --> 00:22:59,520
+determine the greatest common divisor 
+
+542
+00:22:59,520 --> 00:23:01,180
+and then you can also resort to 
+
+543
+00:23:01,180 --> 00:23:02,860
+prime factorization. 
+
+544
+00:23:03,560 --> 00:23:06,180
+To do this, however, you first have to 
+
+545
+00:23:06,180 --> 00:23:07,980
+
+546
+00:23:07,980 --> 00:23:10,520
+carry out the prime factorization for both 
+numbers. This means that we need to 
+
+547
+00:23:10,520 --> 00:23:12,540
+
+548
+00:23:12,540 --> 00:23:15,380
+have written both numbers as prime factors 
+and then 
+
+549
+00:23:15,380 --> 00:23:17,740
+we select all the factors 
+
+550
+00:23:17,820 --> 00:23:20,000
+that are common to both numbers. 
+
+551
+00:23:20,540 --> 00:23:22,240
+And that is why it is so important 
+
+552
+00:23:22,300 --> 00:23:24,740
+
+553
+00:23:24,740 --> 00:23:26,260
+that we 
+
+554
+00:23:26,260 --> 00:23:28,540
+start with the largest number, otherwise 
+it will be very 
+
+555
+00:23:28,540 --> 00:23:33,120
+difficult to compare, i.e. 
+
+556
+00:23:33,120 --> 00:23:35,080
+in this example we have 19 and 
+
+557
+00:23:35,080 --> 00:23:37,620
+135, we have already 
+
+558
+00:23:37,620 --> 00:23:40,300
+carried out the prime factorization 
+
+559
+00:23:40,300 --> 00:23:41,860
+, i.e. we can represent 90 
+
+560
+00:23:41,860 --> 00:23:45,040
+by 5 times 3 times 3 times 2 and 135 
+
+561
+00:23:45,040 --> 00:23:50,460
+by 5 times 3 times 3 times 3 and now 
+
+562
+00:23:50,460 --> 00:23:52,080
+we compare that we have 
+
+563
+00:23:52,080 --> 00:23:53,660
+both times 5 here, we 
+
+564
+00:23:53,740 --> 00:23:55,240
+have 3 here , we have both times 
+
+565
+00:23:55,240 --> 00:23:56,780
+3 again and now we have 
+
+566
+00:23:56,780 --> 00:23:59,780
+2 and 3 at once. In other words, 
+
+567
+00:23:59,860 --> 00:24:01,540
+the common factors or the 
+
+568
+00:24:01,540 --> 00:24:03,840
+common factor is 5 times 3 times 3, 
+
+569
+00:24:03,880 --> 00:24:07,280
+because that's what we have for both. 
+
+570
+00:24:07,280 --> 00:24:09,260
+This means that the greatest common 
+divisor 
+
+571
+00:24:09,260 --> 00:24:12,000
+of the two numbers is 5 times 3 times 
+
+572
+00:24:12,000 --> 00:24:15,740
+3, i.e. 45. This is also how you can 
+
+573
+00:24:15,740 --> 00:24:17,240
+determine the greatest common divisor. 
+
+574
+00:24:18,040 --> 00:24:20,360
+Please note that this can also 
+
+575
+00:24:20,360 --> 00:24:21,660
+be written as a power. 
+
+576
+00:24:21,660 --> 00:24:24,720
+In other words, that would be 5 times 3 to 
+the power of 2 times 2 
+
+577
+00:24:24,720 --> 00:24:27,300
+and that would be 5 times 3 to the power 
+of 3. 
+
+578
+00:24:27,300 --> 00:24:29,440
+You just have to make sure that 5 times 3 
+
+579
+00:24:29,440 --> 00:24:32,540
+to the power of 2 is the common factor. 
+
+580
+00:24:32,680 --> 00:24:34,340
+And that would be 45 
+
+581
+00:24:36,680 --> 00:24:38,140
+, which brings us to the 
+
+582
+00:24:38,140 --> 00:24:42,180
+least common multiple. The 
+
+583
+00:24:42,180 --> 00:24:44,020
+least common multiple of two 
+
+584
+00:24:44,020 --> 00:24:46,880
+numbers is the smallest number that is a 
+
+585
+00:24:46,880 --> 00:24:49,300
+multiple of both numbers. The 
+
+586
+00:24:49,300 --> 00:24:50,740
+least common multiple is 
+
+587
+00:24:50,740 --> 00:24:52,220
+also often used in fractions 
+
+588
+00:24:52,220 --> 00:24:54,440
+. It is used when you 
+
+589
+00:24:54,440 --> 00:24:57,740
+want to make fractions equal. This is 
+
+590
+00:24:57,740 --> 00:25:00,920
+necessary if we 
+
+591
+00:25:00,920 --> 00:25:04,120
+want to add or subtract fractions . It is 
+therefore 
+
+592
+00:25:04,120 --> 00:25:05,800
+important to 
+
+593
+00:25:05,800 --> 00:25:07,340
+be able to determine the least common 
+multiple. 
+
+594
+00:25:15,460 --> 00:25:18,820
+Calculate or determine this by 
+
+595
+00:25:18,820 --> 00:25:20,280
+
+596
+00:25:20,280 --> 00:25:22,140
+simply writing down the multiples of both 
+numbers. In the 
+
+597
+00:25:22,140 --> 00:25:25,160
+example here, we have 4 and 6 and 
+
+598
+00:25:25,160 --> 00:25:27,080
+are now writing down the multiples 
+
+599
+00:25:27,080 --> 00:25:29,980
+of these numbers. Multiples of the 
+
+600
+00:25:29,980 --> 00:25:32,480
+4 are the 4, the 8, the 12, the 16, 
+
+601
+00:25:32,520 --> 00:25:34,440
+the 20 and the 24 and so on. 
+
+602
+00:25:34,540 --> 00:25:36,420
+There are an infinite number of multiples. 
+
+603
+00:25:37,520 --> 00:25:39,740
+Multiples of 6 are 6, 
+
+604
+00:25:39,740 --> 00:25:42,140
+12, 18 and 24 and 
+
+605
+00:25:42,140 --> 00:25:44,920
+many more numbers. We want the 
+
+606
+00:25:44,920 --> 00:25:47,180
+smallest common multiple. 
+
+607
+00:25:47,180 --> 00:25:49,120
+In other words, we now start on the left 
+and 
+
+608
+00:25:49,120 --> 00:25:53,560
+look for the smallest number 
+
+609
+00:25:53,560 --> 00:25:55,700
+that is contained in both sets, 
+
+610
+00:25:55,700 --> 00:25:57,640
+i.e. we always compare whether 
+
+611
+00:25:57,640 --> 00:25:59,020
+we 
+
+612
+00:25:59,020 --> 00:26:00,760
+find the same number when we first have 48 
+
+613
+00:26:00,760 --> 00:26:04,620
+12 16 now we have 6 12 18 
+
+614
+00:26:04,620 --> 00:26:06,880
+we can already see here aha we have 
+
+615
+00:26:06,880 --> 00:26:11,000
+12 both times, i.e. 12 
+
+616
+00:26:11,000 --> 00:26:14,500
+is the smallest common number and 
+
+617
+00:26:14,500 --> 00:26:16,500
+therefore the smallest common 
+
+618
+00:26:16,500 --> 00:26:19,400
+multiple of 4 and 6 is 
+
+619
+00:26:19,400 --> 00:26:19,700
+12. 
+
+620
+00:26:25,840 --> 00:26:28,500
+We can't always determine it as we have 
+
+621
+00:26:28,500 --> 00:26:29,860
+just shown , because the numbers 
+
+622
+00:26:29,860 --> 00:26:31,620
+may be slightly larger, as 
+
+623
+00:26:31,620 --> 00:26:34,220
+here. And then there is also an 
+
+624
+00:26:34,220 --> 00:26:37,900
+alternative method. 
+
+625
+00:26:37,900 --> 00:26:38,800
+First, we carry out the 
+
+626
+00:26:38,800 --> 00:26:40,420
+prime factorization for both numbers 
+
+627
+00:26:40,420 --> 00:26:44,000
+again. Then we 
+
+628
+00:26:44,000 --> 00:26:46,260
+
+629
+00:26:46,260 --> 00:26:47,720
+select the factors in their highest power. 
+Important, we go into both 
+
+630
+00:26:47,720 --> 00:26:51,520
+. Then we multiply 
+
+631
+00:26:51,520 --> 00:26:53,540
+these factors. only out. 
+
+632
+00:26:53,540 --> 00:26:55,420
+This means that in this case we have the 
+
+633
+00:26:55,420 --> 00:26:58,760
+330 and the 324, which we have 
+
+634
+00:26:58,760 --> 00:27:01,300
+already 
+
+635
+00:27:01,300 --> 00:27:03,420
+broken down into the following factors 
+using the prime factorization . The 11 
+
+636
+00:27:03,420 --> 00:27:06,820
+times 5 times 3 times 2 for the 330 and 3 
+
+637
+00:27:06,820 --> 00:27:10,060
+times 3 times 3 times 3 times 2 times 2 
+for the 
+
+638
+00:27:10,060 --> 00:27:14,680
+324. That is 3 to the power of 4 times 2 
+to the power of 2. 
+
+639
+00:27:15,920 --> 00:27:18,800
+We now select the factors in 
+
+640
+00:27:18,800 --> 00:27:21,700
+their highest power. This means 
+
+641
+00:27:21,880 --> 00:27:23,380
+that we start on the left again, which is 
+
+642
+00:27:23,420 --> 00:27:24,440
+why it is so 
+
+643
+00:27:24,440 --> 00:27:26,100
+important to sort them in 
+
+644
+00:27:26,100 --> 00:27:28,460
+descending order. 
+
+645
+00:27:28,460 --> 00:27:31,240
+The highest power is 11 to the power of 1, 
+
+646
+00:27:31,360 --> 00:27:34,060
+if you like. Then we have 5 
+
+647
+00:27:34,060 --> 00:27:37,440
+to the power of 1. Then we have 3. Here we 
+
+648
+00:27:37,440 --> 00:27:40,240
+have 3 to the power of 4. We take the 
+
+649
+00:27:40,240 --> 00:27:42,160
+highest power, so we take 3 
+
+650
+00:27:42,160 --> 00:27:45,040
+to the power of 4. Then we go on, 
+
+651
+00:27:45,040 --> 00:27:46,660
+we have a 2 here and here we also have 
+
+652
+00:27:46,660 --> 00:27:49,540
+2 to the power of 2. Here we also take the 
+
+653
+00:27:49,540 --> 00:27:54,560
+highest power, so 2 to the power of 2. The 
+
+654
+00:27:54,560 --> 00:27:56,580
+least common multiple is 
+
+655
+00:27:56,580 --> 00:27:59,840
+then 11 times 5 times 3 to the power of 4 
+times 2 to the power of 
+
+656
+00:27:59,840 --> 00:28:04,800
+2 and that is then 17,820. So 
+
+657
+00:28:04,800 --> 00:28:05,940
+we can say that the least 
+
+658
+00:28:05,940 --> 00:28:09,180
+common multiple of 330 and 324 
+
+659
+00:28:09,180 --> 00:28:14,720
+is 17,820. And that brings us to 
+
+660
+00:28:14,720 --> 00:28:16,680
+the end of the webinar. 
+
+661
+00:28:16,680 --> 00:28:18,180
+Thank you very much for your 
+
+662
+00:28:18,180 --> 00:28:18,920
+attention. 

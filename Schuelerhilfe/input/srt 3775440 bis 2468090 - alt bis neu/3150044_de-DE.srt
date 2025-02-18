@@ -1,0 +1,908 @@
+1
+00:00:02,740 --> 00:00:04,300
+In diesem Video möchte ich Ihnen kurz
+
+2
+00:00:04,300 --> 00:00:05,780
+die Arbeitszeitdokumentationen
+
+3
+00:00:05,780 --> 00:00:08,140
+während der Kurzarbeit erklären. Es
+
+4
+00:00:08,140 --> 00:00:09,820
+wird die folgende Liste zur Verfügung
+
+5
+00:00:09,820 --> 00:00:12,700
+gestellt und durch sie genutzt. Sie
+
+6
+00:00:12,700 --> 00:00:14,540
+beinhaltet den Monat, Namen und
+
+7
+00:00:14,540 --> 00:00:16,520
+Vornamen, die Mandantennummer, die
+
+8
+00:00:16,520 --> 00:00:18,840
+Personalnummer. Das wird vorher für
+
+9
+00:00:18,840 --> 00:00:22,000
+Sie ausgefüllt. Und es ist wichtig zu
+
+10
+00:00:22,000 --> 00:00:23,860
+wissen, wie viele Arbeitstage habe
+
+11
+00:00:23,860 --> 00:00:25,060
+ich vor der Kurzarbeit pro Woche
+
+12
+00:00:25,060 --> 00:00:26,840
+gehabt und wie viele während der
+
+13
+00:00:26,840 --> 00:00:29,260
+Kurzarbeit. Des Weiteren müssen Sie
+
+14
+00:00:29,260 --> 00:00:31,600
+eintragen, wie viele Überstunden
+
+15
+00:00:31,600 --> 00:00:32,320
+haben Sie. haben Sie noch auf dem
+
+16
+00:00:32,320 --> 00:00:34,560
+Konto mit dem Hinweis, dass diese im
+
+17
+00:00:34,560 --> 00:00:36,280
+ersten Monat der Kurzarbeit, in
+
+18
+00:00:36,280 --> 00:00:38,220
+diesem Fall im Juni, hinterher auf
+
+19
+00:00:38,220 --> 00:00:39,800
+Null sein müssen. Dafür haben wir
+
+20
+00:00:39,800 --> 00:00:42,100
+hier ein Kontrollfeld eingebaut, was
+
+21
+00:00:42,100 --> 00:00:43,540
+sich grün färbt, sobald das Null
+
+22
+00:00:43,540 --> 00:00:46,000
+erreicht. Wir haben jetzt hier als
+
+23
+00:00:46,000 --> 00:00:47,280
+Beispiel einen Mitarbeiter in
+
+24
+00:00:47,280 --> 00:00:49,300
+Vollzeit, der seine Arbeitszeit von
+
+25
+00:00:49,300 --> 00:00:50,900
+fünf auf vier Tage pro Woche
+
+26
+00:00:50,900 --> 00:00:53,160
+reduzieren wird, wobei Montag der
+
+27
+00:00:53,160 --> 00:00:55,980
+Kurzarbeitstag sein wird. Als erstes
+
+28
+00:00:55,980 --> 00:00:57,900
+müssen Sie hingehen als Mitarbeiter
+
+29
+00:00:57,900 --> 00:01:00,040
+in Vollzeit 40 Wochenstunden und
+
+30
+00:01:00,040 --> 00:01:01,780
+jeden Tag Ihre Sollarbeitszeit
+
+31
+00:01:01,780 --> 00:01:02,960
+eintragen. Die ist beim
+
+32
+00:01:02,960 --> 00:01:05,020
+Vollzeitmitarbeiter jeden Tag 8
+
+33
+00:01:05,020 --> 00:01:07,100
+Stunden, 8 mal 5 gleich 40 Stunden.
+
+34
+00:01:07,920 --> 00:01:10,360
+Und dann ist es Ihre Aufgabe, diese
+
+35
+00:01:10,360 --> 00:01:12,520
+Sollstunden an jedem Tag der
+
+36
+00:01:12,520 --> 00:01:13,980
+Kurzarbeit auf diese verschiedenen
+
+37
+00:01:13,980 --> 00:01:16,600
+Felder zu verteilen, sodass hinterher
+
+38
+00:01:16,600 --> 00:01:20,080
+die Summe wieder 8 ergibt und das
+
+39
+00:01:20,080 --> 00:01:22,460
+Kontrollfeld hier sich grün verfärbt.
+
+40
+00:01:23,480 --> 00:01:24,520
+Gut, wir machen das einfach mal
+
+41
+00:01:24,520 --> 00:01:26,180
+exemplarisch. In diesem Fall Montag,
+
+42
+00:01:26,180 --> 00:01:27,760
+der 1. Juni, ist ein Feiertag. Wir
+
+43
+00:01:27,760 --> 00:01:29,660
+geben also bei Feiertag eine 8 ein.
+
+44
+00:01:30,020 --> 00:01:31,820
+Die Stunden sind verplant, das Feld
+
+45
+00:01:31,820 --> 00:01:33,820
+färbt sich grün. Jetzt haben wir
+
+46
+00:01:33,820 --> 00:01:36,300
+schon gesagt, der Kurzarbeitstag in
+
+47
+00:01:36,300 --> 00:01:40,360
+dieser Woche ist der Montag. Heißt,
+
+48
+00:01:40,360 --> 00:01:42,660
+am Dienstag, Mittwoch, Donnerstag,
+
+49
+00:01:42,760 --> 00:01:45,300
+Freitag wird normal gearbeitet. Sie
+
+50
+00:01:45,300 --> 00:01:47,480
+tragen die 8 ein, das Kontrollfeld
+
+51
+00:01:47,480 --> 00:01:48,860
+färbt sich grün. Die Woche ist
+
+52
+00:01:48,860 --> 00:01:51,540
+korrekt erfasst. In der nächsten
+
+53
+00:01:51,540 --> 00:01:54,800
+Woche ist der Kurzarbeitstag wieder
+
+54
+00:01:54,800 --> 00:01:56,020
+der Montag. Sie geben die acht
+
+55
+00:01:56,020 --> 00:01:58,520
+Stunden bei Kurzarbeit ein. Der Tag
+
+56
+00:01:58,520 --> 00:02:00,860
+ist korrekt erfasst. Am Dienstag
+
+57
+00:02:00,860 --> 00:02:03,260
+arbeiten Sie, am Mittwoch arbeiten
+
+58
+00:02:03,260 --> 00:02:05,540
+Sie, am Donnerstag gibt es in dieser
+
+59
+00:02:05,540 --> 00:02:08,300
+Beispielwoche einen Feiertag. Da
+
+60
+00:02:08,300 --> 00:02:09,640
+geben Sie wieder die Feiertagsstunden
+
+61
+00:02:09,640 --> 00:02:12,020
+ein und am Freitag arbeiten Sie. Das
+
+62
+00:02:12,020 --> 00:02:13,620
+wäre die zweite Woche. Jetzt kommen
+
+63
+00:02:13,620 --> 00:02:16,700
+wir zu Sonderfällen. In der nächsten
+
+64
+00:02:16,700 --> 00:02:19,260
+Woche sind Sie krankgeschrieben.
+
+65
+00:02:19,520 --> 00:02:21,780
+Ganze Woche. Sie geben jeden Tag die
+
+66
+00:02:21,780 --> 00:02:23,180
+acht Stunden ein. Auch hier wird die
+
+67
+00:02:23,180 --> 00:02:26,160
+Liste grün. Dann die Woche sind Sie
+
+68
+00:02:26,160 --> 00:02:28,940
+im Urlaub. Das gleiche Thema. Sie
+
+69
+00:02:28,940 --> 00:02:30,900
+geben an jedem Urlaubstag acht
+
+70
+00:02:30,900 --> 00:02:32,960
+Stunden ein. Ihre Sollstunden von
+
+71
+00:02:32,960 --> 00:02:37,260
+vorne. Sie sind auf null. Am Montag
+
+72
+00:02:37,260 --> 00:02:38,960
+wäre wieder ein Kurzarbeitstag
+
+73
+00:02:38,960 --> 00:02:42,240
+planmäßig. Und am Dienstag machen wir
+
+74
+00:02:42,240 --> 00:02:44,200
+mal noch eine andere Variante. Da
+
+75
+00:02:44,200 --> 00:02:46,080
+sagen wir, okay, Sie kommen nur vier
+
+76
+00:02:46,080 --> 00:02:48,280
+Stunden arbeiten und bauen vier
+
+77
+00:02:48,280 --> 00:02:50,760
+Stunden mehr Arbeit ab. So, jetzt
+
+78
+00:02:50,760 --> 00:02:51,960
+hätten wir in diesem Monat nicht gut
+
+79
+00:02:51,960 --> 00:02:54,220
+aufgepasst, weil da oben steht jetzt
+
+80
+00:02:54,220 --> 00:02:55,300
+immer noch ein Rest von 20
+
+81
+00:02:55,300 --> 00:02:59,000
+Überstunden. Heißt, im laufenden
+
+82
+00:02:59,000 --> 00:03:00,040
+Monat hätten wir eigentlich anders
+
+83
+00:03:00,040 --> 00:03:01,180
+verfahren sollen. Wir machen ja hier
+
+84
+00:03:01,180 --> 00:03:02,980
+nur ein Beispiel. Was hätte man
+
+85
+00:03:02,980 --> 00:03:04,480
+beispielsweise tun können? Man könnte
+
+86
+00:03:04,480 --> 00:03:09,400
+sagen, ich nehme einfach
+
+87
+00:03:09,400 --> 00:03:12,120
+hier keine Urlaubsstunden, sondern
+
+88
+00:03:12,120 --> 00:03:14,920
+ich baue... hier mehr stunden ab dann
+
+89
+00:03:14,920 --> 00:03:19,580
+natürlich hier keine mehr aber jetzt
+
+90
+00:03:19,580 --> 00:03:21,380
+hier mein ziel erreicht ich habe im
+
+91
+00:03:21,380 --> 00:03:23,960
+laufenden monat meine 24 mehr stunden
+
+92
+00:03:23,960 --> 00:03:26,140
+abgebaut das kontrollfeld ist grün
+
+93
+00:03:26,140 --> 00:03:28,920
+und ich sehe am ende des monats wie
+
+94
+00:03:28,920 --> 00:03:29,740
+viele stunden habe ich wirklich
+
+95
+00:03:29,740 --> 00:03:31,180
+gearbeitet wie viele stunden sind
+
+96
+00:03:31,180 --> 00:03:33,440
+entfallen wegen kurzarbeit wie viele
+
+97
+00:03:33,440 --> 00:03:34,860
+stunden war ich krank wie viele
+
+98
+00:03:34,860 --> 00:03:36,240
+stunden habe ich im urlaub
+
+99
+00:03:36,240 --> 00:03:38,540
+feiertagsstunden abbau überstunden
+
+100
+00:03:38,540 --> 00:03:41,000
+und somit wäre dieser monat fertig
+
+101
+00:03:41,000 --> 00:03:43,260
+die liste wird geschickt am ersten
+
+102
+00:03:43,260 --> 00:03:44,720
+Werktag des Folgemonats an
+
+103
+00:03:44,720 --> 00:03:47,600
+zeiterfassung.schülerhilfe.de oder
+
+104
+00:03:47,600 --> 00:03:49,540
+wenn Sie schon wissen, Sie sind über
+
+105
+00:03:49,540 --> 00:03:51,560
+den Monatswechsel im Urlaub, dann
+
+106
+00:03:51,560 --> 00:03:52,880
+können Sie die Liste natürlich auch
+
+107
+00:03:52,880 --> 00:03:54,760
+vorausfüllen und können uns diese
+
+108
+00:03:54,760 --> 00:03:56,420
+eher zur Verfügung stellen. Es ist
+
+109
+00:03:56,420 --> 00:03:57,900
+aber wichtig, dass wir die dann vor
+
+110
+00:03:57,900 --> 00:04:01,060
+Ihrem Urlaub erhalten. So, dann
+
+111
+00:04:01,060 --> 00:04:02,500
+schauen wir uns noch das Beispiel an
+
+112
+00:04:02,500 --> 00:04:04,100
+für einen Mitarbeiter in Teilzeit.
+
+113
+00:04:04,660 --> 00:04:05,920
+Hier haben wir jetzt einen
+
+114
+00:04:05,920 --> 00:04:09,420
+Mitarbeiter, der 25 Wochenstunden
+
+115
+00:04:09,420 --> 00:04:11,160
+macht. Das ist die Summe hier dieser
+
+116
+00:04:11,160 --> 00:04:15,300
+Stunden. Und der kommt statt an vier
+
+117
+00:04:15,300 --> 00:04:17,740
+Tagen an drei Tagen. Ohne Kurzarbeit
+
+118
+00:04:17,740 --> 00:04:19,780
+hätte der gearbeitet Montag,
+
+119
+00:04:19,780 --> 00:04:22,680
+Dienstag, Mittwoch und Freitag. An
+
+120
+00:04:22,680 --> 00:04:24,060
+den drei Tagen während der Kurzarbeit
+
+121
+00:04:24,060 --> 00:04:25,540
+kommt er nur noch Montag, Dienstag
+
+122
+00:04:25,540 --> 00:04:26,880
+und Mittwoch und am Freitag ist
+
+123
+00:04:26,880 --> 00:04:30,240
+Kurzarbeit. So, demzufolge, Montag
+
+124
+00:04:30,240 --> 00:04:31,660
+ist ein Arbeitstag, hier aber auch
+
+125
+00:04:31,660 --> 00:04:33,640
+ein Feiertag, also trägt er eine 6
+
+126
+00:04:33,640 --> 00:04:36,040
+ein, seine Sollstunden. Das muss er
+
+127
+00:04:36,040 --> 00:04:37,120
+natürlich auch hier wieder vorher
+
+128
+00:04:37,120 --> 00:04:39,200
+pflegen. Wie viele Sollstunden habe
+
+129
+00:04:39,200 --> 00:04:40,760
+ich eigentlich an welchem Tag? Dieser
+
+130
+00:04:40,760 --> 00:04:42,620
+Mitarbeiter kommt immer 6 Stunden und
+
+131
+00:04:42,620 --> 00:04:44,800
+am Dienstag eine Stunde länger. Ihre
+
+132
+00:04:44,800 --> 00:04:46,480
+Sollstunden werden Sie ja individuell
+
+133
+00:04:46,480 --> 00:04:47,540
+kennen und können die dann hier
+
+134
+00:04:47,540 --> 00:04:50,800
+erfassen. So, am Dienstag soll der
+
+135
+00:04:50,800 --> 00:04:54,040
+weiterhin kommen, trägt eine 7 ein.
+
+136
+00:04:54,080 --> 00:04:55,140
+Am Mittwoch soll der weiterhin
+
+137
+00:04:55,140 --> 00:04:58,560
+kommen, trägt eine 6 ein. Und am
+
+138
+00:04:58,560 --> 00:05:00,860
+Freitag ist der Kurzarbeitstag des
+
+139
+00:05:00,860 --> 00:05:03,300
+Mitarbeiters, trägt er hier eine 6
+
+140
+00:05:03,300 --> 00:05:06,080
+ein. Also im Grunde das Gleiche, wie
+
+141
+00:05:06,080 --> 00:05:07,180
+wir es gerade bei Vollzeit gesehen
+
+142
+00:05:07,180 --> 00:05:10,420
+haben. So, die nächste Woche, der
+
+143
+00:05:10,420 --> 00:05:12,360
+kommt am Montag vielleicht auch
+
+144
+00:05:12,360 --> 00:05:14,120
+nicht, weil er mehr Stunden abbaut.
+
+145
+00:05:15,900 --> 00:05:18,460
+Am Dienstag wird gearbeitet, am
+
+146
+00:05:18,460 --> 00:05:21,360
+Mittwoch wird gearbeitet. Jetzt haben
+
+147
+00:05:21,360 --> 00:05:22,840
+wir hier am Donnerstag den Feiertag.
+
+148
+00:05:22,900 --> 00:05:24,280
+Dieser Mitarbeiter ist aber am
+
+149
+00:05:24,280 --> 00:05:25,680
+Donnerstag noch nie im Einsatz
+
+150
+00:05:25,680 --> 00:05:27,240
+gewesen. Demzufolge hat er am
+
+151
+00:05:27,240 --> 00:05:29,540
+Donnerstag null Sollstunden, trägt
+
+152
+00:05:29,540 --> 00:05:32,340
+auch in dieser Spalte nichts ein. So,
+
+153
+00:05:32,460 --> 00:05:33,500
+und am Freitag ist wieder der
+
+154
+00:05:33,500 --> 00:05:35,040
+Kurzarbeitstag. Es wird Kurzarbeit
+
+155
+00:05:35,040 --> 00:05:37,480
+erfasst. Wenn der Mitarbeiter jetzt
+
+156
+00:05:37,480 --> 00:05:40,120
+im Urlaub ist, trägt er natürlich
+
+157
+00:05:40,120 --> 00:05:43,440
+auch nur da Urlaub ein, wo er
+
+158
+00:05:43,440 --> 00:05:46,020
+Sollstunden hat. Somit ändert sich
+
+159
+00:05:46,020 --> 00:05:47,340
+auch die Zahl der genommenen
+
+160
+00:05:47,340 --> 00:05:48,740
+Urlaubstage pro Woche trotz
+
+161
+00:05:48,740 --> 00:05:51,020
+Kurzarbeit nicht. Der Mitarbeiter mit
+
+162
+00:05:51,020 --> 00:05:53,820
+vier Arbeitstagen nimmt genauso
+
+163
+00:05:53,820 --> 00:05:56,460
+weiterhin vier Urlaubstage für die
+
+164
+00:05:56,460 --> 00:05:58,520
+Woche. Und der Mitarbeiter in
+
+165
+00:05:58,520 --> 00:06:00,940
+Vollzeit nimmt auch weiterhin fünf
+
+166
+00:06:00,940 --> 00:06:02,920
+Arbeitstage für die Woche. Also genau
+
+167
+00:06:02,920 --> 00:06:04,800
+so, als hätte es keine Kurzarbeit
+
+168
+00:06:04,800 --> 00:06:07,780
+gegeben. So, dann können wir jetzt
+
+169
+00:06:07,780 --> 00:06:09,200
+hier nochmal sagen, oh, ich habe erst
+
+170
+00:06:09,200 --> 00:06:12,040
+sechs mehr Stunden abgebaut. Sechs
+
+171
+00:06:12,040 --> 00:06:14,160
+mehr Stunden muss ich noch. Dann
+
+172
+00:06:14,160 --> 00:06:15,840
+bleibt er den Montag auch nochmal zu
+
+173
+00:06:15,840 --> 00:06:18,760
+Hause, baut mehr Stunden ab, arbeitet
+
+174
+00:06:18,760 --> 00:06:21,380
+am Dienstag, arbeitet am Mittwoch,
+
+175
+00:06:21,480 --> 00:06:26,440
+geht am Freitag in Kurzarbeit. Und
+
+176
+00:06:26,440 --> 00:06:28,500
+hier wird nochmal regulär Montag,
+
+177
+00:06:28,500 --> 00:06:32,220
+Dienstag gearbeitet. Somit ist auch
+
+178
+00:06:32,220 --> 00:06:33,740
+diese Woche hier komplett gepflegt.
+
+179
+00:06:33,980 --> 00:06:35,720
+Jetzt haben wir noch einen
+
+180
+00:06:35,720 --> 00:06:39,000
+Sonderfall. Es kann ja möglich sein,
+
+181
+00:06:39,140 --> 00:06:41,500
+dass der Mitarbeiter vielleicht an
+
+182
+00:06:41,500 --> 00:06:42,900
+dem Dienstag jetzt nicht sieben
+
+183
+00:06:42,900 --> 00:06:44,360
+Stunden macht, sondern er macht acht
+
+184
+00:06:44,360 --> 00:06:47,420
+Stunden. Dann färbt sich natürlich
+
+185
+00:06:47,420 --> 00:06:49,100
+hier das Kontrollfeld rot, passt
+
+186
+00:06:49,100 --> 00:06:50,840
+nicht. Zum einen muss ich natürlich
+
+187
+00:06:50,840 --> 00:06:52,720
+dann sagen, ich habe acht Stunden
+
+188
+00:06:52,720 --> 00:06:55,060
+gearbeitet, also soll und ist muss
+
+189
+00:06:55,060 --> 00:06:57,000
+wieder übereinstimmen und jetzt passt
+
+190
+00:06:57,000 --> 00:06:58,440
+aber auch die Wochensumme nicht mehr.
+
+191
+00:06:58,520 --> 00:06:59,800
+Jetzt hatte ich keine 25 Stunden
+
+192
+00:06:59,800 --> 00:07:02,160
+mehr, sondern 26. Es ist wichtig,
+
+193
+00:07:02,320 --> 00:07:06,900
+dass im Monatssaldo diese Arbeitszeit
+
+194
+00:07:06,900 --> 00:07:08,680
+wieder aufgeht, also sprich, dass an
+
+195
+00:07:08,680 --> 00:07:10,280
+einem anderen Tag weniger gearbeitet
+
+196
+00:07:10,280 --> 00:07:13,540
+wird. Es darf während der Kurzarbeit
+
+197
+00:07:13,540 --> 00:07:17,860
+dürfen keine neuen Mehrstunden
+
+198
+00:07:17,860 --> 00:07:20,360
+aufgebaut werden. Innerhalb des
+
+199
+00:07:20,360 --> 00:07:22,660
+Monats sind sie flexibel. Am Ende des
+
+200
+00:07:22,660 --> 00:07:24,480
+Monats dürfen keine neuen Mehrstunden
+
+201
+00:07:24,480 --> 00:07:26,940
+entstehen. Und die bestehenden
+
+202
+00:07:26,940 --> 00:07:28,940
+müssen, wie gesagt, im ersten Monat
+
+203
+00:07:28,940 --> 00:07:32,660
+der Kurzarbeit abgebaut werden. Das
+
+204
+00:07:32,660 --> 00:07:35,100
+waren die kurzen Beispiele zum Thema,
+
+205
+00:07:35,200 --> 00:07:36,500
+wie dokumentiere ich meine
+
+206
+00:07:36,500 --> 00:07:38,140
+Arbeitszeit während der Kurzarbeit.
+
+207
+00:07:38,140 --> 00:07:40,140
+Wie gesagt, wenn das erfolgt ist,
+
+208
+00:07:40,160 --> 00:07:42,120
+diese Liste bitte als Excel-Datei an
+
+209
+00:07:42,120 --> 00:07:43,860
+zeiterfassung.schülerhilfe.de
+
+210
+00:07:43,860 --> 00:07:46,660
+schicken, zusätzlich ausdrucken,
+
+211
+00:07:46,700 --> 00:07:49,180
+unterschreiben, der jeweiligen
+
+212
+00:07:49,180 --> 00:07:50,320
+Führungskraft zur Unterschrift
+
+213
+00:07:50,320 --> 00:07:53,260
+vorlegen und auch dieses gescannt an
+
+214
+00:07:53,260 --> 00:07:54,920
+zeiterfassung.schülerhilfe.de
+
+215
+00:07:54,920 --> 00:07:57,780
+schicken, sodass wir das Ganze hier
+
+216
+00:07:57,780 --> 00:07:58,760
+in der Personalabteilung in
+
+217
+00:07:58,760 --> 00:08:00,100
+Gelsenkirchen ordentlich ablegen
+
+218
+00:08:00,100 --> 00:08:01,960
+können. Wenn Sie Fragen haben zur
+
+219
+00:08:01,960 --> 00:08:03,460
+Arbeitszeitdokumentation zu dieser
+
+220
+00:08:03,460 --> 00:08:05,400
+Liste, wenden Sie sich bitte im
+
+221
+00:08:05,400 --> 00:08:07,020
+ersten Schritt an Ihre Vorgesetzten,
+
+222
+00:08:07,020 --> 00:08:09,060
+die das ja auch kennen und im zweiten
+
+223
+00:08:09,060 --> 00:08:10,060
+Schritt können Sie sich natürlich
+
+224
+00:08:10,060 --> 00:08:11,880
+auch an uns in der Personalabteilung
+
+225
+00:08:11,880 --> 00:08:13,400
+wenden. Ich danke für Ihre
+
+226
+00:08:13,400 --> 00:08:15,520
+Aufmerksamkeit und wünsche einen
+
+227
+00:08:15,520 --> 00:08:15,880
+schönen Tag.
+

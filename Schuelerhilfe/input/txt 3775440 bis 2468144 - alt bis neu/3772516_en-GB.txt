@@ -1,0 +1,1879 @@
+﻿1
+00:00:01,140 --> 00:00:03,040
+Welcome to the 
+
+2
+00:00:03,040 --> 00:00:05,240
+Stochastics webinar . In 
+
+3
+00:00:05,240 --> 00:00:07,820
+this webinar, we will look at the basics 
+of 
+
+4
+00:00:07,820 --> 00:00:09,440
+stochastics. In other words, we will start 
+with 
+
+5
+00:00:09,440 --> 00:00:11,340
+some basic concepts, look at 
+
+6
+00:00:11,340 --> 00:00:12,880
+the difference between 
+
+7
+00:00:12,880 --> 00:00:14,240
+absolute and relative 
+
+8
+00:00:14,240 --> 00:00:16,220
+frequencies and also 
+
+9
+00:00:16,220 --> 00:00:18,980
+explain how to determine them. 
+
+10
+00:00:18,980 --> 00:00:20,600
+In stochastics, or when 
+
+11
+00:00:20,600 --> 00:00:21,740
+calculating probabilities 
+
+12
+00:00:21,840 --> 00:00:23,160
+, you actually always need the 
+
+13
+00:00:23,160 --> 00:00:25,640
+relative frequency. 
+
+14
+00:00:25,640 --> 00:00:27,340
+More will be 
+
+15
+00:00:27,340 --> 00:00:29,640
+said about this at this point. We then 
+look at 
+
+16
+00:00:29,640 --> 00:00:31,280
+the relationship between event 
+
+17
+00:00:31,280 --> 00:00:33,380
+and counter-event. In the course of this 
+
+18
+00:00:33,380 --> 00:00:36,040
+, we will also explain what the 
+
+19
+00:00:36,040 --> 00:00:39,920
+counter-event is. Finally, 
+
+20
+00:00:39,920 --> 00:00:41,860
+we will look at two examples. 
+
+21
+00:00:41,920 --> 00:00:42,840
+We have a small 
+
+22
+00:00:42,840 --> 00:00:44,300
+application example on the topic of 
+
+23
+00:00:44,300 --> 00:00:47,040
+the clock model and then we look 
+
+24
+00:00:47,040 --> 00:00:48,280
+at the conditional 
+
+25
+00:00:48,280 --> 00:00:50,600
+probability and 
+
+26
+00:00:50,660 --> 00:00:52,360
+the conditional probability is 
+
+27
+00:00:52,360 --> 00:00:54,000
+also 
+
+28
+00:00:54,000 --> 00:00:54,760
+explained using a small example 
+
+29
+00:01:03,150 --> 00:01:05,330
+. 
+
+30
+00:01:05,330 --> 00:01:06,530
+It is really only decided 
+
+31
+00:01:06,530 --> 00:01:08,730
+between true and false 
+
+32
+00:01:08,730 --> 00:01:10,270
+. There is nothing in between. 
+
+33
+00:01:10,270 --> 00:01:12,910
+There are only these two possibilities. P 
+
+34
+00:01:12,910 --> 00:01:15,310
+of this event X is then 
+
+35
+00:01:15,310 --> 00:01:15,790
+simply the 
+
+36
+00:01:15,790 --> 00:01:17,370
+probability of 
+
+37
+00:01:17,370 --> 00:01:19,530
+event X occurring . We have a 
+
+38
+00:01:19,530 --> 00:01:21,010
+small example here. We see that we 
+
+39
+00:01:21,010 --> 00:01:22,830
+have a jar. 
+
+40
+00:01:22,830 --> 00:01:25,270
+There are two red and one gray ball in it. 
+
+41
+00:01:25,690 --> 00:01:28,350
+And now we can go there. And 
+
+42
+00:01:28,350 --> 00:01:30,130
+
+43
+00:01:30,130 --> 00:01:31,490
+
+44
+00:01:31,490 --> 00:01:34,050
+
+45
+00:01:34,050 --> 00:01:37,150
+calculate the probability of a gray ball 
+being drawn and the probability of a red 
+ball being drawn . If we 
+
+46
+00:01:37,150 --> 00:01:38,970
+look at the red ball, we would 
+
+47
+00:01:38,970 --> 00:01:41,210
+write for P of X is equal to R. 
+
+48
+00:01:41,310 --> 00:01:43,190
+That means we want to 
+
+49
+00:01:43,190 --> 00:01:47,150
+have the event X , a red ball. And how 
+
+50
+00:01:47,150 --> 00:01:49,150
+exactly we arrive at this fraction 
+
+51
+00:01:49,150 --> 00:01:50,610
+will be explained again in detail in a 
+moment. 
+
+52
+00:01:50,770 --> 00:01:52,050
+I'll do it in 
+
+53
+00:01:52,050 --> 00:01:55,890
+short form now. But the counter at the top 
+
+54
+00:01:55,890 --> 00:01:58,790
+always shows how many balls we have, 
+
+55
+00:01:58,870 --> 00:01:59,690
+or how many 
+
+56
+00:01:59,690 --> 00:02:01,890
+possibilities we have for 
+
+57
+00:02:01,890 --> 00:02:03,830
+event X, i.e. a red ball, 
+
+58
+00:02:03,830 --> 00:02:06,130
+to occur. We have two balls that 
+
+59
+00:02:06,130 --> 00:02:07,690
+we can draw, which is why there is 
+
+60
+00:02:07,690 --> 00:02:10,790
+a 2. The denominator at the bottom always 
+shows 
+
+61
+00:02:10,790 --> 00:02:12,450
+the total number of all possible 
+
+62
+00:02:12,450 --> 00:02:14,990
+events. In other words, it 
+
+63
+00:02:14,990 --> 00:02:16,670
+always says how many balls are 
+
+64
+00:02:16,670 --> 00:02:19,730
+generally in the urn or in the jar, 
+
+65
+00:02:19,750 --> 00:02:21,490
+i.e. how many different balls 
+
+66
+00:02:21,510 --> 00:02:24,710
+we could draw, the 3 and 
+
+67
+00:02:24,710 --> 00:02:27,070
+so we come 
+
+68
+00:02:27,070 --> 00:02:29,490
+
+69
+00:02:29,490 --> 00:02:31,570
+to two thirds for the probability of 
+drawing a red ball , which is 
+
+70
+00:02:31,570 --> 00:02:35,310
+basically 66.7 percent. of 
+
+71
+00:02:37,460 --> 00:02:39,940
+course you can also 
+
+72
+00:02:39,940 --> 00:02:42,180
+draw a gray ball , so now b of x is 
+
+73
+00:02:42,180 --> 00:02:47,200
+equal to b, which is shown here in gray 
+
+74
+00:02:47,200 --> 00:02:51,500
+is probably supposed to be blue and there 
+
+75
+00:02:51,500 --> 00:02:53,180
+it is, the fraction or 
+
+76
+00:02:53,180 --> 00:02:54,520
+probability is 
+
+77
+00:02:54,520 --> 00:02:55,960
+
+78
+00:02:55,960 --> 00:02:57,120
+formed according to the same principle as 
+for the reds . You first look at the 
+
+79
+00:02:57,120 --> 00:02:59,140
+narrator to see how many possibilities 
+
+80
+00:02:59,140 --> 00:03:01,100
+I have to achieve my event. 
+
+81
+00:03:01,460 --> 00:03:03,260
+In other words, how many blue balls 
+
+82
+00:03:03,260 --> 00:03:04,980
+do I have in the urn? In this case, only 
+
+83
+00:03:04,980 --> 00:03:07,520
+one. And then in the denominator 
+
+84
+00:03:07,640 --> 00:03:09,480
+, we look at how many balls do 
+
+85
+00:03:09,480 --> 00:03:10,860
+we have left? Three of them, and that 
+brings 
+
+86
+00:03:10,860 --> 00:03:13,520
+us to a third, which is 33 
+
+87
+00:03:13,520 --> 00:03:16,160
+.4 percent, which brings 
+
+88
+00:03:19,770 --> 00:03:23,730
+us to a very important point. 
+
+89
+00:03:23,730 --> 00:03:24,990
+In the rest of the 
+
+90
+00:03:24,990 --> 00:03:27,730
+webinar , we will often see this x with 
+this 
+
+91
+00:03:27,730 --> 00:03:29,210
+horizontal line above it, which 
+
+92
+00:03:29,210 --> 00:03:31,750
+is called x across, and this x 
+
+93
+00:03:31,750 --> 00:03:34,370
+across is the opposite event 
+
+94
+00:03:34,370 --> 00:03:37,250
+of x, which means that we have just 
+
+95
+00:03:37,250 --> 00:03:38,470
+said that there are only two 
+
+96
+00:03:38,470 --> 00:03:39,870
+possibilities: either it happens 
+
+97
+00:03:39,870 --> 00:03:42,870
+or it doesn't happen. And it is precisely 
+
+98
+00:03:42,870 --> 00:03:44,590
+this principle that is used here. 
+
+99
+00:03:44,590 --> 00:03:47,450
+In other words, if event X is that a 
+
+100
+00:03:47,450 --> 00:03:49,930
+red ball is drawn, then the 
+
+101
+00:03:49,930 --> 00:03:51,590
+counter-event is quite simple: 
+
+102
+00:03:51,590 --> 00:03:54,710
+no red ball is drawn. If we 
+
+103
+00:03:54,710 --> 00:03:57,110
+define event X as "I hit 
+
+104
+00:03:57,110 --> 00:03:59,590
+at least three times", the 
+
+105
+00:03:59,590 --> 00:04:01,890
+counter-event is "I hit at most 
+
+106
+00:04:01,890 --> 00:04:02,370
+three times". 
+
+107
+00:04:05,370 --> 00:04:07,210
+And this is also how it works with the 
+
+108
+00:04:07,210 --> 00:04:09,630
+other examples. I roll an 
+
+109
+00:04:09,630 --> 00:04:12,510
+even number of dice . Or I roll 
+
+110
+00:04:12,510 --> 00:04:14,530
+an even number of dice . Regardless of 
+whether this is a 
+
+111
+00:04:14,530 --> 00:04:16,350
+singular or a plural. The 
+
+112
+00:04:16,350 --> 00:04:19,010
+opposite event would be that I roll odd 
+
+113
+00:04:19,010 --> 00:04:19,530
+numbers. 
+
+114
+00:04:22,820 --> 00:04:24,640
+Finally, we have the example 
+
+115
+00:04:24,800 --> 00:04:27,100
+that actually amounts to the same thing 
+
+116
+00:04:27,100 --> 00:04:29,180
+as example 2: I eat 
+
+117
+00:04:29,180 --> 00:04:32,800
+at most three apples. The 
+
+118
+00:04:32,800 --> 00:04:33,540
+counter probability is then 
+
+119
+00:04:33,540 --> 00:04:35,340
+simply that I eat at least three 
+
+120
+00:04:35,340 --> 00:04:36,740
+apples. Then this maximum is 
+
+121
+00:04:36,740 --> 00:04:39,200
+exchanged for the minimum. in 
+
+122
+00:04:39,200 --> 00:04:40,620
+the counter probability, in the 
+
+123
+00:04:40,620 --> 00:04:41,360
+counter-event. 
+
+124
+00:04:47,640 --> 00:04:49,220
+Knowing counter-events and 
+
+125
+00:04:49,220 --> 00:04:53,240
+using them very often. This is because the 
+
+126
+00:04:53,240 --> 00:04:54,820
+counter-event has a very 
+
+127
+00:04:54,820 --> 00:04:57,320
+special relationship to the event. 
+
+128
+00:04:57,320 --> 00:05:00,900
+We'll see that again in a moment. 
+
+129
+00:05:00,900 --> 00:05:02,540
+But first , let's explain the absolute 
+
+130
+00:05:02,540 --> 00:05:03,200
+frequency. 
+
+131
+00:05:05,610 --> 00:05:08,810
+The absolute frequency of e, 
+
+132
+00:05:08,910 --> 00:05:11,030
+this small n is an indication of 
+
+133
+00:05:11,030 --> 00:05:12,830
+how often the experiment 
+
+134
+00:05:12,830 --> 00:05:18,010
+was carried out. Yes, and the E indicates 
+
+135
+00:05:18,010 --> 00:05:20,790
+what kind of event 
+
+136
+00:05:20,790 --> 00:05:21,990
+it is. We also have another 
+
+137
+00:05:21,990 --> 00:05:23,110
+example here. Our 
+
+138
+00:05:23,110 --> 00:05:25,070
+example is that a die is 
+
+139
+00:05:25,070 --> 00:05:27,730
+rolled 500 times. In total, you get 
+
+140
+00:05:27,730 --> 00:05:30,650
+a 6 85 times. What is 
+
+141
+00:05:30,650 --> 00:05:33,710
+the absolute frequency? 
+
+142
+00:05:33,710 --> 00:05:35,410
+In other words, we first know that we have 
+
+143
+00:05:35,410 --> 00:05:37,190
+rolled the dice 500 times. So we have 
+
+144
+00:05:37,190 --> 00:05:39,750
+
+145
+00:05:39,750 --> 00:05:42,230
+carried out our random experiment 500 
+times. That's why A is at 
+
+146
+00:05:42,230 --> 00:05:46,030
+the bottom of index 5 of E, i.e. our 
+
+147
+00:05:46,030 --> 00:05:48,190
+event is the same, so we 
+
+148
+00:05:48,190 --> 00:05:50,710
+now enter what our event was, and 
+
+149
+00:05:50,710 --> 00:05:55,430
+that was a 6-dice. And the 
+
+150
+00:05:55,430 --> 00:05:58,290
+absolute frequency 
+
+151
+00:05:58,290 --> 00:06:00,770
+really only indicates how often 
+
+152
+00:06:00,770 --> 00:06:02,170
+the event ultimately 
+
+153
+00:06:02,170 --> 00:06:04,730
+occurred. In other words, how often 
+
+154
+00:06:04,730 --> 00:06:06,370
+did we 
+
+155
+00:06:06,370 --> 00:06:09,790
+roll a 6 in this case , which is 85 times, 
+and therefore 
+
+156
+00:06:09,790 --> 00:06:13,270
+A in the C500th of E equals a 
+
+157
+00:06:13,270 --> 00:06:16,710
+six-dice up to 85. Consequently, 
+
+158
+00:06:16,710 --> 00:06:18,030
+our absolute frequency is 
+
+159
+00:06:18,030 --> 00:06:20,250
+simply 85. And this is how you 
+
+160
+00:06:20,250 --> 00:06:22,770
+really form the absolute frequency. 
+
+161
+00:06:22,990 --> 00:06:25,210
+It simply indicates how often the 
+
+162
+00:06:25,210 --> 00:06:29,440
+event has occurred. 
+
+163
+00:06:29,440 --> 00:06:32,980
+The relative frequency is different . The 
+
+164
+00:06:32,980 --> 00:06:35,960
+relative frequency is so called because 
+
+165
+00:06:35,960 --> 00:06:39,740
+the number is set in relation 
+
+166
+00:06:39,740 --> 00:06:41,180
+to the... 
+
+167
+00:06:44,880 --> 00:06:46,020
+And it is set in relation to 
+
+168
+00:06:46,300 --> 00:06:48,060
+how often the random experiment 
+
+169
+00:06:48,060 --> 00:06:53,080
+was carried out. In other words, we 
+
+170
+00:06:53,080 --> 00:06:55,680
+carry out the experiment n times. 
+
+171
+00:06:55,780 --> 00:06:59,320
+That is the small n. And the 
+
+172
+00:06:59,320 --> 00:07:01,700
+event E occurs k times. 
+
+173
+00:07:01,700 --> 00:07:04,600
+That is the k. In other words, we have 
+
+174
+00:07:04,600 --> 00:07:06,260
+our dice experiment again here. When 
+
+175
+00:07:06,260 --> 00:07:08,380
+we 
+
+176
+00:07:08,380 --> 00:07:11,400
+determine the relative frequency , we 
+divide our 85 by 
+
+177
+00:07:11,400 --> 00:07:12,700
+the number of times we 
+
+178
+00:07:12,700 --> 00:07:13,860
+
+179
+00:07:13,880 --> 00:07:15,800
+have carried out the random experiment , 
+i.e. by 500. 
+
+180
+00:07:16,800 --> 00:07:20,800
+And so we arrive at 0.17 or 17%. 
+
+181
+00:07:20,800 --> 00:07:25,400
+And this relative frequency could 
+
+182
+00:07:25,400 --> 00:07:26,940
+also 
+
+183
+00:07:26,940 --> 00:07:30,300
+be seen as the probability that a 
+
+184
+00:07:34,110 --> 00:07:35,650
+six will be rolled. 
+
+185
+00:07:38,260 --> 00:07:41,260
+The relative frequency has the 
+
+186
+00:07:41,260 --> 00:07:43,120
+small r and the index 
+
+187
+00:07:43,120 --> 00:07:47,480
+also shows how often the 
+
+188
+00:07:47,480 --> 00:07:49,260
+random experiment was carried out. 
+
+189
+00:07:49,560 --> 00:07:50,820
+
+190
+00:07:50,820 --> 00:07:52,360
+The event is also shown in brackets, i.e. 
+E a 
+
+191
+00:07:52,360 --> 00:07:53,920
+six-dice. This has not 
+
+192
+00:07:53,920 --> 00:07:55,940
+changed from the previous example. 
+
+193
+00:07:56,840 --> 00:07:58,180
+The only important thing is that in 
+
+194
+00:07:58,180 --> 00:08:01,620
+the relative frequency, the number 
+
+195
+00:08:01,660 --> 00:08:03,120
+of times the event occurred 
+
+196
+00:08:03,120 --> 00:08:07,560
+
+197
+00:08:07,560 --> 00:08:11,080
+
+198
+00:08:11,080 --> 00:08:12,920
+
+199
+00:08:12,920 --> 00:08:14,600
+is divided by the total number of trials 
+or, in this case , the number of dice 
+thrown 
+
+200
+00:08:19,210 --> 00:08:21,290
+. 
+
+201
+00:08:21,370 --> 00:08:22,730
+And that is the relationship 
+
+202
+00:08:22,730 --> 00:08:24,650
+between the event and the 
+
+203
+00:08:24,650 --> 00:08:28,770
+counter-event. I 
+
+204
+00:08:28,770 --> 00:08:29,890
+have already said that there are only two 
+
+205
+00:08:29,890 --> 00:08:31,470
+possibilities. Either our 
+
+206
+00:08:31,470 --> 00:08:33,750
+event X occurs or the 
+
+207
+00:08:33,750 --> 00:08:38,310
+counter-event X occurs transversely. 
+Therefore 
+
+208
+00:08:38,310 --> 00:08:40,350
+, the probability of 
+
+209
+00:08:40,350 --> 00:08:42,790
+our event X, i.e. P of X, plus 
+
+210
+00:08:42,790 --> 00:08:43,990
+the probability of the 
+
+211
+00:08:43,990 --> 00:08:47,110
+counter-event is always 100%. In other 
+
+212
+00:08:47,110 --> 00:08:48,850
+words... Let's take the 
+
+213
+00:08:48,850 --> 00:08:50,230
+dice example again. I only roll the dice 
+once 
+
+214
+00:08:50,230 --> 00:08:54,010
+and I say that my event E is that 
+
+215
+00:08:54,110 --> 00:08:59,300
+I roll a 4. The counter-event 
+
+216
+00:08:59,300 --> 00:09:01,460
+is then simply that I don't roll a 4. 
+
+217
+00:09:02,880 --> 00:09:04,660
+And I think it's easy 
+
+218
+00:09:04,660 --> 00:09:05,860
+to imagine that if I roll this 
+
+219
+00:09:05,860 --> 00:09:07,420
+dice now , I have exactly two 
+
+220
+00:09:07,420 --> 00:09:08,560
+possibilities as to what happens. 
+
+221
+00:09:08,560 --> 00:09:10,320
+Either I roll a 4, which 
+
+222
+00:09:10,320 --> 00:09:13,060
+would be my event, or I don't roll a 
+
+223
+00:09:13,060 --> 00:09:15,560
+4, which would not be the event. One of 
+
+224
+00:09:15,560 --> 00:09:17,920
+these two cases is 100% 
+
+225
+00:09:17,920 --> 00:09:22,160
+true . That really is the case. That's why 
+
+226
+00:09:22,160 --> 00:09:24,560
+this equation or 
+
+227
+00:09:24,560 --> 00:09:25,000
+formula applies . 
+
+228
+00:09:27,660 --> 00:09:28,860
+Here we also see another 
+
+229
+00:09:28,860 --> 00:09:32,520
+example, if p of x is 0.25 and p 
+
+230
+00:09:32,520 --> 00:09:37,280
+x² is 0.75. Simply because 1 
+
+231
+00:09:37,280 --> 00:09:40,460
+minus 0.25 is 0.75. It is 
+
+232
+00:09:40,460 --> 00:09:42,160
+also very often a good idea to 
+
+233
+00:09:42,160 --> 00:09:43,340
+calculate using the counter-event. 
+
+234
+00:09:47,100 --> 00:09:48,780
+Here we have a small 
+
+235
+00:09:48,780 --> 00:09:50,980
+example of the clock model. We can 
+
+236
+00:09:50,980 --> 00:09:52,440
+also see a small tree diagram here. 
+
+237
+00:09:52,580 --> 00:09:55,900
+And if you 
+
+238
+00:09:55,900 --> 00:09:57,480
+have a multi-stage random experiment like 
+this, 
+
+239
+00:09:57,680 --> 00:10:00,560
+you always have to look at whether you 
+
+240
+00:10:00,560 --> 00:10:02,160
+have with or without backing. This is 
+
+241
+00:10:02,160 --> 00:10:04,180
+very important information. If 
+
+242
+00:10:04,180 --> 00:10:05,640
+you can't find this information, 
+
+243
+00:10:09,760 --> 00:10:12,360
+it's important because without it 
+
+244
+00:10:12,360 --> 00:10:13,900
+you can't 
+
+245
+00:10:13,900 --> 00:10:18,140
+solve the task correctly. Here we see 
+another 
+
+246
+00:10:18,140 --> 00:10:19,900
+beautiful urn from the beginning. We have 
+
+247
+00:10:19,900 --> 00:10:22,260
+a blue one, which appears gray here 
+
+248
+00:10:22,260 --> 00:10:25,800
+, and two red ones. We draw twice, 
+
+249
+00:10:25,800 --> 00:10:29,020
+but don't put it back. This means that 
+
+250
+00:10:29,140 --> 00:10:32,080
+we are now creating our tree diagram 
+
+251
+00:10:32,080 --> 00:10:32,240
+. 
+
+252
+00:10:37,900 --> 00:10:41,020
+
+253
+00:10:41,020 --> 00:10:43,820
+
+254
+00:10:43,820 --> 00:10:45,960
+The probability of each color is written 
+on the lines here. In other words, 
+
+255
+00:10:46,020 --> 00:10:47,780
+we start at the top here and now 
+
+256
+00:10:47,780 --> 00:10:49,120
+we can either draw a red 
+
+257
+00:10:49,120 --> 00:10:51,220
+or a blue. 
+
+258
+00:10:51,220 --> 00:10:52,160
+The probability that we draw a 
+
+259
+00:10:52,160 --> 00:10:53,860
+blue ball is one third. 
+
+260
+00:10:53,940 --> 00:10:55,500
+The probability that we draw a 
+
+261
+00:10:55,500 --> 00:10:57,060
+red ball is two thirds. 
+
+262
+00:10:57,140 --> 00:10:59,220
+This is simply because we have 
+
+263
+00:10:59,220 --> 00:11:01,560
+a blue ball in our urn, 
+
+264
+00:11:06,450 --> 00:11:09,610
+red balls in the urn and a total of 
+
+265
+00:11:09,610 --> 00:11:12,430
+three lines. Very importantly, these 
+
+266
+00:11:12,430 --> 00:11:14,470
+two probabilities 
+
+267
+00:11:14,470 --> 00:11:16,310
+must always add up to 1 and 1 
+
+268
+00:11:16,310 --> 00:11:18,190
+third plus 2 thirds is really 
+
+269
+00:11:18,190 --> 00:11:24,430
+1. Because we 
+
+270
+00:11:24,430 --> 00:11:27,390
+carry out the random experiment without 
+putting anything back 
+
+271
+00:11:27,390 --> 00:11:30,190
+, if we 
+
+272
+00:11:30,190 --> 00:11:32,110
+are now here with blue , this is to be 
+understood as 
+
+273
+00:11:32,110 --> 00:11:33,530
+we have drawn and have 
+
+274
+00:11:33,530 --> 00:11:36,330
+pulled out a blue ball. And then 
+
+275
+00:11:36,330 --> 00:11:38,830
+we have to consider, there are 
+
+276
+00:11:38,830 --> 00:11:40,810
+many. that is not certain, again 
+
+277
+00:11:40,810 --> 00:11:42,930
+the variant of drawing blue or 
+
+278
+00:11:42,930 --> 00:11:46,090
+drawing red. And if we have already 
+
+279
+00:11:46,090 --> 00:11:48,230
+drawn a blue ball and we 
+
+280
+00:11:48,230 --> 00:11:50,970
+don't put it back, we think about 
+
+281
+00:11:50,970 --> 00:11:52,610
+how many blue balls we 
+
+282
+00:11:52,610 --> 00:11:56,570
+still have in the urn. That's 0, so the 
+
+283
+00:11:56,570 --> 00:12:00,070
+number here is 0. How many balls 
+
+284
+00:12:00,070 --> 00:12:03,070
+do we have in total? 2. that is 
+
+285
+00:12:03,070 --> 00:12:06,070
+0 half and that is 0. i 
+
+286
+00:12:06,070 --> 00:12:07,010
+think you can imagine that 
+
+287
+00:12:07,010 --> 00:12:09,370
+if 
+
+288
+00:12:09,370 --> 00:12:10,970
+there is only one blue ball in the urn i 
+can't 
+
+289
+00:12:10,970 --> 00:12:14,510
+pull out two blue balls so there 
+
+290
+00:12:14,510 --> 00:12:17,370
+is a probability of 0 here and the 
+
+291
+00:12:17,370 --> 00:12:21,110
+
+292
+00:12:21,110 --> 00:12:22,830
+principle is exactly the same for the red 
+ball we 
+
+293
+00:12:22,830 --> 00:12:24,870
+have pulled out one blue ball 
+
+294
+00:12:24,870 --> 00:12:26,310
+and are now considering how many 
+
+295
+00:12:26,310 --> 00:12:28,830
+red balls we still have in there we have 
+
+296
+00:12:28,830 --> 00:12:30,690
+only pulled out one blue ball 
+
+297
+00:12:30,690 --> 00:12:32,450
+so far so we still have two red balls 
+
+298
+00:12:32,450 --> 00:12:34,770
+and we still have two 
+
+299
+00:12:34,770 --> 00:12:36,490
+balls in total. That's the 
+
+300
+00:12:36,490 --> 00:12:38,210
+probability, two halves and that 
+
+301
+00:12:38,210 --> 00:12:38,790
+'s number one. 
+
+302
+00:12:41,940 --> 00:12:43,540
+As I said, whenever you 
+
+303
+00:12:43,540 --> 00:12:47,160
+have a tree diagram like this and you have 
+the 
+
+304
+00:12:47,160 --> 00:12:49,360
+example without putting it back, 
+
+305
+00:12:49,360 --> 00:12:51,340
+the denominator 
+
+306
+00:12:51,380 --> 00:12:55,300
+always decreases by one the further you 
+
+307
+00:12:55,300 --> 00:12:59,280
+go down , unless you shorten it. The same 
+was 
+
+308
+00:12:59,280 --> 00:13:01,780
+
+309
+00:13:01,780 --> 00:13:06,460
+done here on the right-hand side with the 
+red sphere. Now 
+
+310
+00:13:06,460 --> 00:13:07,820
+imagine that a red ball has been 
+
+311
+00:13:07,820 --> 00:13:09,900
+drawn, then think about 
+
+312
+00:13:10,020 --> 00:13:11,500
+the probability 
+
+313
+00:13:11,500 --> 00:13:14,520
+of blue, how many blue balls do 
+
+314
+00:13:14,520 --> 00:13:17,080
+I have left? If I am here with red, 
+
+315
+00:13:17,300 --> 00:13:19,540
+I have only 
+
+316
+00:13:19,540 --> 00:13:21,360
+drawn out one red ball , which means there 
+is still 
+
+317
+00:13:21,360 --> 00:13:25,020
+one blue ball in the urn. And so 
+
+318
+00:13:25,020 --> 00:13:28,580
+we have one through and two more, 
+
+319
+00:13:28,640 --> 00:13:30,100
+because we have two balls, so 
+
+320
+00:13:30,100 --> 00:13:32,340
+the probability is 1.5. 
+
+321
+00:13:35,120 --> 00:13:36,880
+Of course, we can, or rather we have to, 
+
+322
+00:13:36,880 --> 00:13:38,180
+
+323
+00:13:38,180 --> 00:13:41,700
+specify the probability of another red 
+ball. 
+
+324
+00:13:41,700 --> 00:13:43,340
+Again, we have already 
+
+325
+00:13:43,340 --> 00:13:45,620
+drawn out one ball , a red ball. Then 
+
+326
+00:13:45,620 --> 00:13:47,420
+we only have one more red 
+
+327
+00:13:47,420 --> 00:13:49,900
+ball and a total of two, which is why 
+
+328
+00:13:49,900 --> 00:13:53,420
+it says 1.5. Here below, it is 
+
+329
+00:13:53,420 --> 00:13:54,180
+also true that the 
+
+330
+00:13:54,180 --> 00:13:56,200
+probability plus 1 
+
+331
+00:13:56,200 --> 00:14:00,000
+must add up to 1 . 0 plus 1 is 1, 1.5 plus 
+1.5 
+
+332
+00:14:00,000 --> 00:14:02,420
+is also 1. This means 
+
+333
+00:14:02,420 --> 00:14:03,840
+that everything has been calculated 
+correctly here . 
+
+334
+00:14:05,820 --> 00:14:08,060
+Now we come to the last 
+
+335
+00:14:08,060 --> 00:14:09,780
+topic, namely conditional 
+
+336
+00:14:09,780 --> 00:14:12,680
+probability. The basic principle 
+
+337
+00:14:12,680 --> 00:14:13,440
+of conditional 
+
+338
+00:14:13,440 --> 00:14:15,420
+probability is that 
+
+339
+00:14:15,420 --> 00:14:18,260
+two independent events 
+
+340
+00:14:18,260 --> 00:14:20,960
+are linked together. This 
+
+341
+00:14:20,960 --> 00:14:22,780
+also leads to a special 
+
+342
+00:14:22,780 --> 00:14:24,780
+notation. This notation P 
+
+343
+00:14:24,780 --> 00:14:30,880
+to E' F' is pronounced as 
+
+344
+00:14:30,880 --> 00:14:32,840
+the probability for the 
+
+345
+00:14:32,840 --> 00:14:37,060
+event. under the condition f and 
+
+346
+00:14:37,060 --> 00:14:39,060
+if you really 
+
+347
+00:14:39,060 --> 00:14:40,900
+approach this as an event then this f, 
+i.e. 
+
+348
+00:14:40,900 --> 00:14:43,780
+what 
+
+349
+00:14:43,780 --> 00:14:45,500
+is behind the rightmost line , is also 
+
+350
+00:14:45,500 --> 00:14:48,900
+drawn into the index pf of e and this is 
+then 
+
+351
+00:14:48,900 --> 00:14:50,940
+equal to the probability for e 
+
+352
+00:14:50,940 --> 00:14:52,700
+and f divided by the 
+
+353
+00:14:52,700 --> 00:14:56,980
+probability of f this 
+
+354
+00:14:59,540 --> 00:15:02,280
+p under the condition f is 
+
+355
+00:15:02,280 --> 00:15:03,620
+nothing more than the 
+
+356
+00:15:03,620 --> 00:15:06,300
+probability for the event E 
+
+357
+00:15:06,300 --> 00:15:07,900
+under the condition that the 
+
+358
+00:15:07,900 --> 00:15:10,740
+event F has really occurred. 
+
+359
+00:15:11,620 --> 00:15:14,180
+Such tasks are 
+
+360
+00:15:14,180 --> 00:15:16,320
+actually always calculated in the 
+four-field 
+
+361
+00:15:16,320 --> 00:15:17,880
+table. However, it is also possible to use 
+
+362
+00:15:17,880 --> 00:15:20,260
+a tree diagram. In the 
+
+363
+00:15:20,260 --> 00:15:21,780
+following , we will use the four-field 
+table. 
+
+364
+00:15:22,910 --> 00:15:24,060
+We have a small example here. 
+
+365
+00:15:25,250 --> 00:15:27,480
+We want to have the 
+
+366
+00:15:27,480 --> 00:15:29,660
+probability P that it 
+
+367
+00:15:29,660 --> 00:15:32,040
+will be a 1.0. is under the 
+
+368
+00:15:32,040 --> 00:15:34,960
+condition that it is a boy. 
+
+369
+00:15:34,960 --> 00:15:36,920
+In other words, we look for the 
+
+370
+00:15:36,920 --> 00:15:38,680
+probability of boys with 
+
+371
+00:15:38,680 --> 00:15:41,960
+a 1-0 school leaving certificate and 
+divide this 
+
+372
+00:15:41,960 --> 00:15:43,100
+probability by the 
+
+373
+00:15:43,100 --> 00:15:44,460
+probability of a boy. 
+
+374
+00:15:45,180 --> 00:15:47,120
+We'll see exactly what this looks like 
+
+375
+00:15:47,120 --> 00:15:49,160
+in a moment. First, we'll see the 
+
+376
+00:15:49,160 --> 00:15:54,120
+text of the exercise. And with four-field 
+
+377
+00:15:54,120 --> 00:15:55,220
+ tables it is actually always the case 
+
+378
+00:15:55,260 --> 00:15:56,700
+that there is such a task text 
+
+379
+00:15:56,700 --> 00:15:58,760
+and the 
+
+380
+00:15:58,760 --> 00:16:00,260
+four-field table is 
+
+381
+00:16:00,260 --> 00:16:02,700
+to be created on the basis of this text. 
+The 
+
+382
+00:16:02,700 --> 00:16:04,540
+probability that 
+
+383
+00:16:04,540 --> 00:16:06,580
+one boy out of all students 
+
+384
+00:16:06,580 --> 00:16:10,160
+has a 1.0 Abitur average is PAJ equal to 
+
+385
+00:16:10,160 --> 00:16:13,000
+0.005. In other words, this is the 
+
+386
+00:16:13,000 --> 00:16:15,120
+probability that it is a 1.0 
+
+387
+00:16:15,120 --> 00:16:16,540
+Abitur average and that it 
+
+388
+00:16:16,540 --> 00:16:19,040
+is a boy. The school management knows that 
+
+389
+00:16:19,040 --> 00:16:21,280
+a total of 5% of all students 
+
+390
+00:16:21,280 --> 00:16:24,580
+will achieve a 1.0 Abitur. 50% 
+
+391
+00:16:24,580 --> 00:16:26,460
+of all students are girls and 
+
+392
+00:16:26,460 --> 00:16:30,040
+do not have a 1.0 average. This 
+
+393
+00:16:30,040 --> 00:16:31,560
+information is entered into a 
+
+394
+00:16:31,560 --> 00:16:34,120
+four-field table. J stands 
+
+395
+00:16:34,120 --> 00:16:36,640
+for boys, J' are not boys, 
+
+396
+00:16:36,660 --> 00:16:39,280
+so in this case girls. A 
+
+397
+00:16:39,280 --> 00:16:43,400
+stands for the 1.0 Abitur, A' for no 
+
+398
+00:16:43,400 --> 00:16:46,060
+1.0 Abitur. We have just 
+
+399
+00:16:46,060 --> 00:16:49,560
+been told that 0.005 of 
+
+400
+00:16:49,560 --> 00:16:52,780
+boys have a 1.0 Abitur 
+
+401
+00:16:52,900 --> 00:16:53,560
+
+402
+00:16:53,560 --> 00:16:55,620
+
+403
+00:16:55,620 --> 00:16:57,360
+
+404
+00:16:57,360 --> 00:16:58,200
+
+405
+00:17:01,320 --> 00:17:04,080
+
+406
+00:17:04,180 --> 00:17:06,280
+
+407
+00:17:06,280 --> 00:17:08,200
+average , or the probability that a boy 
+has a 1.0 Abitur average is 0.005. 
+Furthermore, the school management knows 
+that a total of 5% of pupils 
+
+408
+00:17:08,200 --> 00:17:12,500
+have a 1.0 Abitur average. From this we 
+can, therefore 
+
+409
+00:17:12,500 --> 00:17:14,360
+we can calculate this 0.05. 
+
+410
+00:17:15,100 --> 00:17:18,480
+Because these 5% are 
+
+411
+00:17:20,170 --> 00:17:23,270
+ made up of boys and 
+
+412
+00:17:23,270 --> 00:17:24,430
+ non-boys, i.e. girls. 
+
+413
+00:17:25,330 --> 00:17:27,710
+That's why they are on the right here. And 
+
+414
+00:17:27,710 --> 00:17:28,970
+in the four-field table, it is always 
+
+415
+00:17:28,970 --> 00:17:31,250
+the case that the two events, i.e. 
+
+416
+00:17:31,250 --> 00:17:33,050
+this plus that, must add up to this. That 
+
+417
+00:17:33,050 --> 00:17:35,370
+plus that must add up to that. That plus 
+
+418
+00:17:35,370 --> 00:17:37,790
+that must add up to that. And 
+
+419
+00:17:37,790 --> 00:17:39,350
+there must always be a 1 at the bottom 
+right. 
+
+420
+00:17:40,590 --> 00:17:43,290
+We can therefore 
+
+421
+00:17:43,290 --> 00:17:47,350
+calculate this 0.045 directly. 0.05 minus 
+0.005 
+
+422
+00:17:47,350 --> 00:17:50,850
+is 0.045. This means that we can 
+
+423
+00:17:50,850 --> 00:17:52,850
+say that the probability 
+
+424
+00:17:52,850 --> 00:17:55,150
+for a girl with a 1.0 A-level average 
+
+425
+00:17:55,150 --> 00:18:02,530
+is 0.04 5. So 4.5%. 
+
+426
+00:18:02,530 --> 00:18:07,130
+It was also mentioned that 50% 
+
+427
+00:18:07,130 --> 00:18:10,410
+of the students are girls who do not have 
+a 1 
+
+428
+00:18:10,410 --> 00:18:12,890
+.0 Abitur average. They 
+
+429
+00:18:12,890 --> 00:18:16,010
+also appear here again. And with 
+
+430
+00:18:16,010 --> 00:18:17,710
+these two elements we can 
+
+431
+00:18:17,710 --> 00:18:19,150
+now calculate the element below. 
+
+432
+00:18:19,190 --> 00:18:21,350
+So that plus that then that. This brings 
+
+433
+00:18:21,350 --> 00:18:24,250
+us to 0.545. As I just 
+
+434
+00:18:24,250 --> 00:18:26,130
+said, there is always 
+
+435
+00:18:26,130 --> 00:18:31,270
+a 1 at the bottom here , so we can 
+
+436
+00:18:31,270 --> 00:18:35,950
+calculate 0.455 . 1 minus 0.545 is 0.455 
+
+437
+00:18:36,490 --> 00:18:38,310
+. Once we have this, we can 
+
+438
+00:18:38,310 --> 00:18:39,850
+also 
+
+439
+00:18:39,850 --> 00:18:43,150
+calculate the penultimate element at the 
+top here. That's this one, because 0 
+
+440
+00:18:43,150 --> 00:18:48,730
+.455 minus 0.05 is 0.45. And so, 
+
+441
+00:18:48,730 --> 00:18:49,850
+if we 
+
+442
+00:18:49,850 --> 00:18:52,430
+add the two together, we get 0.95. 
+
+443
+00:18:52,430 --> 00:18:54,550
+Our four-field table is now complete. And 
+
+444
+00:18:54,550 --> 00:18:56,450
+we can answer the questions. 
+
+445
+00:18:56,910 --> 00:18:59,090
+We now have the 
+
+446
+00:18:59,090 --> 00:19:02,010
+question, determine P, J under the 
+
+447
+00:19:02,010 --> 00:19:03,610
+condition A'. Here we 
+
+448
+00:19:03,610 --> 00:19:06,030
+simply use the 
+
+449
+00:19:06,030 --> 00:19:09,630
+formula shown at the beginning. That is, P 
+of J and A' 
+
+450
+00:19:09,830 --> 00:19:12,530
+by P of A'. This is then 0.45 
+
+451
+00:19:12,530 --> 00:19:17,650
+divided by 0.95, i.e. 47.4%. Determine P 
+
+452
+00:19:17,650 --> 00:19:19,570
+of J, that's practical. 
+
+453
+00:19:19,570 --> 00:19:21,410
+We can read off P from J directly. That's 
+
+454
+00:19:21,410 --> 00:19:24,190
+45.5% then. That's simply this. 
+
+455
+00:19:24,570 --> 00:19:28,830
+And P of A J'. In other words, we form 
+
+456
+00:19:28,830 --> 00:19:34,910
+P of A and J and have to 
+
+457
+00:19:34,910 --> 00:19:38,510
+divide this by P of J'. As 
+
+458
+00:19:38,510 --> 00:19:41,410
+I said, J' is this element. P of A and J' 
+
+459
+00:19:41,630 --> 00:19:44,750
+is this element. And so we arrive at 
+
+460
+00:19:44,750 --> 00:19:49,730
+8.3%. We are now at the end of the 
+
+461
+00:19:49,730 --> 00:19:51,450
+webinar. I hope you enjoyed 
+
+462
+00:19:51,450 --> 00:19:53,610
+it and thank you 
+
+463
+00:19:53,610 --> 00:19:55,070
+very much for your attention. 

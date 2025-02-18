@@ -1,0 +1,608 @@
+1
+00:00:00,750 --> 00:00:02,370
+Hallo und herzlich willkommen zu
+
+2
+00:00:02,370 --> 00:00:03,470
+einem weiteren Lernvideo der
+
+3
+00:00:03,470 --> 00:00:05,810
+Schülerhilfe. Dieses ist das sechste
+
+4
+00:00:05,810 --> 00:00:08,350
+und letzte Video zum Hexameter, was
+
+5
+00:00:08,350 --> 00:00:09,870
+ja eigentlich zum Namen passt, Hexa
+
+6
+00:00:09,870 --> 00:00:12,470
+gleich 6. Wir wollen uns noch zum
+
+7
+00:00:12,470 --> 00:00:14,370
+Schluss anschauen, die sogenannten
+
+8
+00:00:14,370 --> 00:00:18,190
+Zäsuren. Was sind eigentlich Zäsuren?
+
+9
+00:00:18,610 --> 00:00:21,170
+Zäsuren sind eigentlich Einschnitte,
+
+10
+00:00:21,270 --> 00:00:23,070
+die man als, ja, willkommene
+
+11
+00:00:23,070 --> 00:00:25,750
+Sprechpause deuten kann, damit man
+
+12
+00:00:25,750 --> 00:00:28,590
+nicht alles so in einem runterlesen,
+
+13
+00:00:28,590 --> 00:00:30,150
+runterrattern muss, wenn man etwa ein
+
+14
+00:00:30,150 --> 00:00:33,770
+Gedicht vorträgt. Es gibt bestimmte
+
+15
+00:00:33,770 --> 00:00:37,350
+markante Zäsuren im Hexameter, die
+
+16
+00:00:37,350 --> 00:00:40,110
+sogar auch besondere Namen haben. Die
+
+17
+00:00:40,110 --> 00:00:41,370
+schauen wir uns jetzt an.
+
+18
+00:00:46,140 --> 00:00:49,100
+Zäsur heißt wörtlich, wie du erkennen
+
+19
+00:00:49,100 --> 00:00:51,300
+kannst, hier Einschnitt vom Verb
+
+20
+00:00:51,300 --> 00:00:53,520
+kädere, fällen, töten, umhauen, aber
+
+21
+00:00:53,520 --> 00:00:56,860
+auch einschneiden, zerschneiden. Und
+
+22
+00:00:56,860 --> 00:01:00,160
+eine Zäsur entsteht dann, wenn ein
+
+23
+00:01:00,160 --> 00:01:03,360
+Wort mitten in einem Versfuß endet.
+
+24
+00:01:05,120 --> 00:01:07,720
+Und wenn das der Fall ist, bei den
+
+25
+00:01:07,720 --> 00:01:12,860
+Positionen 1, 2, 3 oder 4, die ich
+
+26
+00:01:12,860 --> 00:01:16,200
+dir hier eingezeichnet habe, dann
+
+27
+00:01:16,200 --> 00:01:19,320
+handelt es sich um eine Zäsur. Die
+
+28
+00:01:19,320 --> 00:01:23,520
+erste Zäsur heißt Trithemimeres. Wir
+
+29
+00:01:23,520 --> 00:01:26,820
+kürzen sie einfach mit T ab. Die
+
+30
+00:01:26,820 --> 00:01:30,360
+zweite Zäsur ist die sogenannte
+
+31
+00:01:30,360 --> 00:01:32,940
+Penthemimerese, die wir mit P
+
+32
+00:01:32,940 --> 00:01:38,450
+abkürzen. Die dritte Zäsur, du siehst
+
+33
+00:01:38,450 --> 00:01:40,910
+hier diese gestrichelte Linie, da
+
+34
+00:01:40,910 --> 00:01:42,090
+unterscheidet sich auch schon der
+
+35
+00:01:42,090 --> 00:01:44,530
+Name von den anderen Zäsuren, ist die
+
+36
+00:01:44,530 --> 00:01:49,670
+sogenannte Catatritontrochion-Zäsur.
+
+37
+00:01:49,830 --> 00:01:51,250
+Ich habe dir das Ganze hier nochmal
+
+38
+00:01:51,250 --> 00:01:52,590
+in lateinischen Buchstaben
+
+39
+00:01:52,590 --> 00:01:54,670
+aufgeschrieben. Das Ganze kommt, wie
+
+40
+00:01:54,670 --> 00:01:55,670
+du ahnen kannst, aus dem
+
+41
+00:01:55,670 --> 00:01:59,090
+Griechischen. Und diese Zäsur kürzen
+
+42
+00:01:59,090 --> 00:02:03,770
+wir ab mit KTT, Katatriton Prochaia.
+
+43
+00:02:04,730 --> 00:02:06,910
+Und schließlich unsere Zäsur Nummer
+
+44
+00:02:06,910 --> 00:02:11,270
+4, die Hepthämimeres. Du fragst dich
+
+45
+00:02:11,270 --> 00:02:12,870
+jetzt vielleicht, wie soll man sich
+
+46
+00:02:12,870 --> 00:02:15,010
+denn so komische Namen merken? Dazu
+
+47
+00:02:15,010 --> 00:02:16,670
+will ich dir einen Tipp geben. Und
+
+48
+00:02:20,760 --> 00:02:22,920
+zwar können wir die Namen
+
+49
+00:02:22,920 --> 00:02:25,880
+Trithämimeres, Pentämimeres und
+
+50
+00:02:25,880 --> 00:02:27,840
+Hepthämimeres in drei Bestandteile
+
+51
+00:02:27,840 --> 00:02:30,660
+zerlegen. Der erste Bestandteil wäre
+
+52
+00:02:30,660 --> 00:02:34,940
+dann Trit bzw. Pent oder auch Hep.
+
+53
+00:02:35,820 --> 00:02:37,520
+Tatsächlich entspricht das den
+
+54
+00:02:37,520 --> 00:02:41,160
+griechischen Zahlen. Trit bedeutet
+
+55
+00:02:41,160 --> 00:02:45,900
+also so viel wie Dritter, Pent so
+
+56
+00:02:45,900 --> 00:02:47,500
+viel wie Fünfter, du kennst
+
+57
+00:02:47,500 --> 00:02:49,360
+vielleicht ein Pentagon, ein Fünfeck
+
+58
+00:02:49,360 --> 00:02:54,780
+und Hep schließlich ist die Sieben.
+
+59
+00:02:56,550 --> 00:02:59,270
+Das Wörtchen Hemi Der Bestandteil
+
+60
+00:02:59,270 --> 00:03:02,930
+Hemi, der darauf folgt, heißt so viel
+
+61
+00:03:02,930 --> 00:03:05,110
+wie Halb. Du kennst ja vielleicht die
+
+62
+00:03:05,110 --> 00:03:07,610
+Hemisphären, unsere ADA2-Hemisphären,
+
+63
+00:03:07,650 --> 00:03:09,350
+eine nördliche, eine südliche.
+
+64
+00:03:10,770 --> 00:03:11,730
+Hemisphäre Halbkugel.
+
+65
+00:03:14,640 --> 00:03:16,560
+Also, warum kann uns das helfen beim
+
+66
+00:03:16,560 --> 00:03:19,780
+Einträgen dieser Namen? Ich habe, um
+
+67
+00:03:19,780 --> 00:03:21,740
+das zu verdeutlichen, hier nochmal
+
+68
+00:03:21,740 --> 00:03:23,720
+Trithemimeres aufgeschrieben für
+
+69
+00:03:23,720 --> 00:03:26,660
+dich. Also Tritt heißt hier so viel
+
+70
+00:03:26,660 --> 00:03:29,900
+wie, dass eine Zäsur stattfindet nach
+
+71
+00:03:29,900 --> 00:03:33,960
+der dritten möglichen Länge. Und zwar
+
+72
+00:03:33,960 --> 00:03:36,400
+nach der dritten möglichen Länge,
+
+73
+00:03:36,440 --> 00:03:38,180
+dann wenn ich zum Beispiel nur
+
+74
+00:03:38,180 --> 00:03:40,320
+Spondelen statt Daktylen hätte.
+
+75
+00:03:43,580 --> 00:03:46,600
+Und so ein Spondelus, zwei Längen,
+
+76
+00:03:46,660 --> 00:03:49,420
+würde ja den Vers genau in zwei
+
+77
+00:03:49,420 --> 00:03:53,920
+Hälften teilen. Hemi, halb. Wir
+
+78
+00:03:53,920 --> 00:03:55,340
+merken uns also eine Tritt.
+
+79
+00:03:55,360 --> 00:03:58,980
+Pithemimeres ist eine Zäsur nach der
+
+80
+00:03:58,980 --> 00:04:02,380
+dritten möglichen Länge und sie teilt
+
+81
+00:04:02,380 --> 00:04:07,020
+den Fersfuß in zwei Hälften. Ähnlich
+
+82
+00:04:07,020 --> 00:04:09,340
+wie Penthemimeres, Zäsur nach der
+
+83
+00:04:09,340 --> 00:04:11,460
+fünften möglichen Länge, teilt den
+
+84
+00:04:11,460 --> 00:04:13,800
+Fersfuß wieder in zwei Hälften. Das
+
+85
+00:04:13,800 --> 00:04:16,460
+gleiche gilt für die Hepthemimeres.
+
+86
+00:04:17,940 --> 00:04:21,160
+Die Casacriton-Trochayon-Zäsur hat
+
+87
+00:04:21,160 --> 00:04:23,280
+ihren Namen daher, dass man sich
+
+88
+00:04:23,280 --> 00:04:24,700
+vorstellen kann, dass ein Dactylus
+
+89
+00:04:24,700 --> 00:04:26,460
+aussieht wie ein Trocheus mit einer
+
+90
+00:04:26,460 --> 00:04:29,480
+weiteren Kürze. Triton heißt wieder
+
+91
+00:04:29,480 --> 00:04:31,080
+Dritter, diesen Bestandteil hast du
+
+92
+00:04:31,080 --> 00:04:33,920
+auch hier im Trit. Das heißt nach dem
+
+93
+00:04:33,920 --> 00:04:37,320
+dritten möglichen Trocheus. Also ist
+
+94
+00:04:37,320 --> 00:04:39,320
+das eine Zäsur im dritten Versfuß
+
+95
+00:04:39,320 --> 00:04:41,220
+nach der ersten Kürze.
+
+96
+00:04:43,700 --> 00:04:45,340
+Schauen wir uns das Ganze noch an
+
+97
+00:04:45,340 --> 00:04:49,730
+einem klitzekleinen Beispiel an. Du
+
+98
+00:04:49,730 --> 00:04:52,630
+siehst hier einen Auszug aus Horats
+
+99
+00:04:52,630 --> 00:04:54,990
+Episteln. Das sind eigentlich lustige
+
+100
+00:04:54,990 --> 00:04:57,950
+lateinische Satiren. die auch
+
+101
+00:04:57,950 --> 00:05:00,690
+durchweg im Hexameter stehen. Und ich
+
+102
+00:05:00,690 --> 00:05:02,250
+habe dir auch schon diese beiden
+
+103
+00:05:02,250 --> 00:05:04,710
+Verse vorskandiert, wie du sehen
+
+104
+00:05:04,710 --> 00:05:08,300
+kannst. Suchen wir also jetzt nach
+
+105
+00:05:08,300 --> 00:05:09,940
+möglichen Stellen, an denen hier
+
+106
+00:05:09,940 --> 00:05:14,020
+Versuchen stehen können. Also, was
+
+107
+00:05:14,020 --> 00:05:16,060
+haben wir denn da? Wir sehen das
+
+108
+00:05:16,060 --> 00:05:22,010
+Wörtchen Meum. Und dieses Meum teilt
+
+109
+00:05:22,010 --> 00:05:26,250
+den zweiten Versfuß hier nach der 1,
+
+110
+00:05:26,410 --> 00:05:29,030
+2, 3 dritten möglichen Hebung ab.
+
+111
+00:05:29,050 --> 00:05:30,590
+Also handelt es sich hier um eine
+
+112
+00:05:30,590 --> 00:05:32,970
+Trithemimeres.
+
+113
+00:05:34,780 --> 00:05:37,540
+Schauen wir weiter. Sie, Quiz. Und du
+
+114
+00:05:37,540 --> 00:05:39,980
+siehst, auch Quiz teilt
+
+115
+00:05:43,080 --> 00:05:45,500
+den nächsten Versfuß in zwei Hälften.
+
+116
+00:05:47,520 --> 00:05:51,200
+Und diese Zäsur steht nach der 1, 2,
+
+117
+00:05:51,280 --> 00:05:55,100
+3, 4, 5. möglichen Länge. Also
+
+118
+00:05:55,100 --> 00:05:56,300
+handelt es sich um eine
+
+119
+00:05:56,300 --> 00:05:58,360
+Penthemimeres.
+
+120
+00:06:01,290 --> 00:06:03,230
+Natürlich haben wir noch T, das ist
+
+121
+00:06:03,230 --> 00:06:04,790
+auch ein Wort. Grenze bildet, das
+
+122
+00:06:04,790 --> 00:06:06,330
+fällt aber zusammen mit dem Ende des
+
+123
+00:06:06,330 --> 00:06:08,390
+Vers Fußes, da haben wir keine Zäsur.
+
+124
+00:06:09,290 --> 00:06:11,870
+Und das Wort Percontabitur endet bei
+
+125
+00:06:11,870 --> 00:06:15,190
+den letzten beiden Versfüßen und auch
+
+126
+00:06:15,190 --> 00:06:16,750
+da gibt es keine besonderen Namen
+
+127
+00:06:16,750 --> 00:06:18,370
+für. Werfen wir also direkt einen
+
+128
+00:06:18,370 --> 00:06:22,410
+Blick auf den folgenden Vers. Na
+
+129
+00:06:22,410 --> 00:06:23,830
+schauen wir wieder, haben wir
+
+130
+00:06:23,830 --> 00:06:25,170
+irgendwo ein Wort, das einen Fuß
+
+131
+00:06:25,170 --> 00:06:28,130
+zerschneidet? Und da siehst du, wir
+
+132
+00:06:28,130 --> 00:06:29,310
+haben Undenos.
+
+133
+00:06:34,140 --> 00:06:35,700
+So, dann müssen wir eigentlich bloß
+
+134
+00:06:35,700 --> 00:06:41,780
+noch zählen. 1, 2, 3, 4, 5. Also
+
+135
+00:06:41,780 --> 00:06:44,280
+diese Zäsur steht nach der fünften
+
+136
+00:06:44,280 --> 00:06:46,780
+möglichen Länge. Auch hier handelt es
+
+137
+00:06:46,780 --> 00:06:49,760
+sich deswegen um eine Pentemimeres.
+
+138
+00:06:53,110 --> 00:06:56,050
+Schauen wir weiter. Skiert, endet
+
+139
+00:06:56,050 --> 00:06:59,570
+zwar, aber fällt zusammen mit dem
+
+140
+00:06:59,570 --> 00:07:02,070
+Ende eines Versfußes. Keine Zäsur.
+
+141
+00:07:04,090 --> 00:07:06,470
+Implevisse zerschneidet zwar durch
+
+142
+00:07:06,470 --> 00:07:08,450
+sein Ende auch den vorletzten Vers.
+
+143
+00:07:08,690 --> 00:07:12,090
+Fuß, aber für Zersuren im 5. oder 6.
+
+144
+00:07:12,270 --> 00:07:13,930
+Fuß gibt es keine speziellen Namen.
+
+145
+00:07:14,050 --> 00:07:16,550
+Das darfst du ignorieren. Damit haben
+
+146
+00:07:16,550 --> 00:07:18,070
+wir auch schon die möglichen Zersuren
+
+147
+00:07:18,070 --> 00:07:20,830
+hier gefunden. Du siehst, Zersuren zu
+
+148
+00:07:20,830 --> 00:07:22,790
+finden ist vielleicht gar nicht so
+
+149
+00:07:22,790 --> 00:07:25,190
+schwer. Nur die Namen sind vielleicht
+
+150
+00:07:25,190 --> 00:07:26,810
+etwas schwierig zu merken, aber mit
+
+151
+00:07:26,810 --> 00:07:28,210
+dem Tipp wird es dir hoffentlich gut
+
+152
+00:07:28,210 --> 00:07:29,550
+gelingen. Tschüss!
+

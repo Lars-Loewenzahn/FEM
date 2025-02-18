@@ -1,0 +1,2688 @@
+1
+00:00:01,870 --> 00:00:03,670
+Hallo und herzlich willkommen. Mein
+
+2
+00:00:03,670 --> 00:00:05,650
+Name ist Elena und ich werde heute
+
+3
+00:00:05,650 --> 00:00:08,230
+mit euch das Webinar machen. Ja,
+
+4
+00:00:08,290 --> 00:00:09,390
+heute geht es um Englisch, die
+
+5
+00:00:09,390 --> 00:00:11,630
+Abiturreihe, Components of Fictional
+
+6
+00:00:11,630 --> 00:00:14,810
+Text, Bausteine fiktionaler Texte.
+
+7
+00:00:16,290 --> 00:00:18,170
+Genau, ich werde jetzt gleich als
+
+8
+00:00:18,170 --> 00:00:21,170
+allererstes einmal mit euch, also die
+
+9
+00:00:21,170 --> 00:00:23,710
+Folien euch vorstellen, generell über
+
+10
+00:00:23,710 --> 00:00:26,130
+das Thema sprechen. Zwischendurch
+
+11
+00:00:26,130 --> 00:00:27,330
+wird es ein paar kleine Aufgaben
+
+12
+00:00:27,330 --> 00:00:30,350
+geben und am Ende beantworte ich auch
+
+13
+00:00:30,350 --> 00:00:32,230
+gerne noch. nochmal fragen. Ihr könnt
+
+14
+00:00:32,230 --> 00:00:33,290
+natürlich zwischendurch auch schon
+
+15
+00:00:33,290 --> 00:00:35,230
+Fragen stellen oder auch am Ende, da
+
+16
+00:00:35,230 --> 00:00:36,490
+kann ich euch, also da fordere ich
+
+17
+00:00:36,490 --> 00:00:38,090
+euch direkt nochmal auf, Fragen zu
+
+18
+00:00:38,090 --> 00:00:40,950
+stellen. Ich kann auch gerne immer
+
+19
+00:00:40,950 --> 00:00:42,170
+noch, wenn ich am Ende bin, ein paar
+
+20
+00:00:42,170 --> 00:00:43,930
+Folien zurückgehen, wie ihr möchtet.
+
+21
+00:00:44,030 --> 00:00:46,770
+Also wenn irgendwas unklar ist, sagt
+
+22
+00:00:46,770 --> 00:00:48,590
+Bescheid. Ich gehe dann gerne nochmal
+
+23
+00:00:48,590 --> 00:00:51,070
+zurück, erkläre gerne nochmal auf
+
+24
+00:00:51,070 --> 00:00:52,250
+eine andere Art und Weise, wenn ihr
+
+25
+00:00:52,250 --> 00:00:53,270
+was noch noch nicht verstanden habt.
+
+26
+00:00:53,670 --> 00:00:55,710
+Sagt nur Bescheid. Gut. Ich hoffe,
+
+27
+00:00:55,750 --> 00:00:56,970
+ihr könnt mich alle gut verstehen.
+
+28
+00:00:59,130 --> 00:01:01,810
+Und genau. Also, wenn irgendwas ist,
+
+29
+00:01:01,830 --> 00:01:04,610
+schreibt gerne in die Chatbox. Ja,
+
+30
+00:01:04,610 --> 00:01:07,170
+dann werde ich darauf aufmerksam und
+
+31
+00:01:07,170 --> 00:01:08,630
+kann es, wie gesagt, nochmal anders
+
+32
+00:01:08,630 --> 00:01:11,130
+erklären. So. Ich werde das Webinar,
+
+33
+00:01:11,230 --> 00:01:12,530
+also es ist, die Texte, die werden
+
+34
+00:01:12,530 --> 00:01:14,490
+auf Englisch sein. Wenn ihr möchtet,
+
+35
+00:01:14,490 --> 00:01:15,670
+kann ich das Webinar auf Englisch
+
+36
+00:01:15,670 --> 00:01:17,330
+halten. Ich kann es aber auch auf
+
+37
+00:01:17,330 --> 00:01:20,830
+Deutsch halten, wie ihr mögt. Sagt
+
+38
+00:01:20,830 --> 00:01:22,250
+einmal Bescheid, auf welcher Sprache
+
+39
+00:01:22,250 --> 00:01:24,810
+ihr das gerne hören möchtet. Auf
+
+40
+00:01:24,810 --> 00:01:28,570
+Englisch, okay, gut. Okay, so let's
+
+41
+00:01:28,570 --> 00:01:32,470
+start. If you don't understand my
+
+42
+00:01:32,470 --> 00:01:34,230
+English very well, if I should
+
+43
+00:01:34,230 --> 00:01:37,130
+explain something in a different way
+
+44
+00:01:37,130 --> 00:01:39,930
+or in German, please tell me. I would
+
+45
+00:01:39,930 --> 00:01:41,610
+love to explain something in German
+
+46
+00:01:41,610 --> 00:01:43,010
+to you if you don't understand my
+
+47
+00:01:43,010 --> 00:01:44,870
+English. Okay, Component.
+
+48
+00:01:50,850 --> 00:01:53,350
+So, I'm going to read that out first
+
+49
+00:01:53,350 --> 00:01:54,510
+and then I'm going to explain it in
+
+50
+00:01:54,510 --> 00:01:56,910
+my own words. In order to analyze a
+
+51
+00:01:56,910 --> 00:01:58,570
+fictional text, you need knowledge of
+
+52
+00:01:58,570 --> 00:02:00,170
+the fundamental components that a
+
+53
+00:02:00,170 --> 00:02:02,190
+fictional text contains. These
+
+54
+00:02:02,190 --> 00:02:03,850
+elements are used by the author to
+
+55
+00:02:03,850 --> 00:02:05,950
+create his own fictional word where
+
+56
+00:02:05,950 --> 00:02:08,090
+the story takes place. They are not
+
+57
+00:02:08,090 --> 00:02:10,110
+always obvious, therefore they need
+
+58
+00:02:10,110 --> 00:02:12,810
+to be analyzed in detail. Important
+
+59
+00:02:12,810 --> 00:02:14,930
+elements are Setting and Atmosphere,
+
+60
+00:02:15,150 --> 00:02:18,830
+Characters and the Plot. Okay, here I
+
+61
+00:02:18,830 --> 00:02:21,770
+just, there's nothing I can like add.
+
+62
+00:02:22,610 --> 00:02:24,650
+So the most important things of
+
+63
+00:02:24,650 --> 00:02:26,990
+fictional text are like the setting,
+
+64
+00:02:27,150 --> 00:02:29,090
+so where does take place the
+
+65
+00:02:29,090 --> 00:02:31,570
+atmosphere, like how are the persons
+
+66
+00:02:31,570 --> 00:02:34,290
+feeling or is it like dark or how's
+
+67
+00:02:34,290 --> 00:02:36,570
+the atmosphere, like in general, the
+
+68
+00:02:36,570 --> 00:02:39,850
+characters and the plot, like what's
+
+69
+00:02:39,850 --> 00:02:41,610
+happening. Yeah.
+
+70
+00:02:44,130 --> 00:02:46,270
+So, Setting and Atmosphere, let's
+
+71
+00:02:46,270 --> 00:02:49,050
+explore that. Setting. The setting
+
+72
+00:02:49,050 --> 00:02:50,970
+used in a fictional text describes
+
+73
+00:02:50,970 --> 00:02:53,210
+time as well as the geographic
+
+74
+00:02:53,210 --> 00:02:55,730
+location. It answers the question of
+
+75
+00:02:55,730 --> 00:02:58,350
+where and when. The setting can
+
+76
+00:02:58,350 --> 00:02:59,810
+influence the character's behavior.
+
+77
+00:02:59,990 --> 00:03:02,190
+It helps to initiate the mood for a
+
+78
+00:03:02,190 --> 00:03:04,750
+story. So, like, the setting is
+
+79
+00:03:04,750 --> 00:03:06,390
+important. Like, it's not only where
+
+80
+00:03:06,390 --> 00:03:08,250
+it does take place, but when. So,
+
+81
+00:03:08,270 --> 00:03:10,050
+also the time. It's also important,
+
+82
+00:03:10,230 --> 00:03:13,470
+like, this also contains... Setting.
+
+83
+00:03:15,050 --> 00:03:17,070
+Setting can influence the character's
+
+84
+00:03:17,070 --> 00:03:19,630
+behavior, so it's a very important
+
+85
+00:03:19,630 --> 00:03:25,190
+fact. And it also is important, the
+
+86
+00:03:25,190 --> 00:03:28,430
+setting can also affect the mood, the
+
+87
+00:03:28,430 --> 00:03:30,650
+mood of a story, the mood of certain
+
+88
+00:03:30,650 --> 00:03:33,310
+persons in a story. So it's also
+
+89
+00:03:33,310 --> 00:03:35,650
+important. Important questions
+
+90
+00:03:35,650 --> 00:03:37,670
+referring to the setting are which
+
+91
+00:03:37,670 --> 00:03:39,470
+year or period does the narration
+
+92
+00:03:39,470 --> 00:03:41,970
+take place in? Which season is it?
+
+93
+00:03:42,130 --> 00:03:45,490
+Like, I don't know, autumn, spring,
+
+94
+00:03:45,710 --> 00:03:48,190
+whatever. What time of the day is it?
+
+95
+00:03:48,290 --> 00:03:51,150
+Is it like noon? Is it like...
+
+96
+00:03:56,160 --> 00:03:58,000
+Because the weather is also important
+
+97
+00:03:58,000 --> 00:04:03,900
+as if it's raining or if the sun is
+
+98
+00:04:03,900 --> 00:04:06,800
+coming out, whatever. It also affects
+
+99
+00:04:06,800 --> 00:04:10,120
+the setting as maybe there may be
+
+100
+00:04:10,120 --> 00:04:13,240
+sunshine or rain and it may be dark.
+
+101
+00:04:13,420 --> 00:04:15,600
+So the setting can change. if the
+
+102
+00:04:15,600 --> 00:04:18,680
+weather changes. How can the social
+
+103
+00:04:18,680 --> 00:04:21,260
+environment be described? Like the
+
+104
+00:04:21,260 --> 00:04:23,240
+social relation between the
+
+105
+00:04:23,240 --> 00:04:25,620
+characters, for example. Whatever.
+
+106
+00:04:28,060 --> 00:04:30,160
+Atmosphere. The atmosphere of a story
+
+107
+00:04:30,160 --> 00:04:32,380
+describes the mood, emotions and
+
+108
+00:04:32,380 --> 00:04:34,480
+feelings. It is a literary technique
+
+109
+00:04:34,480 --> 00:04:36,260
+that can provide the reader with a
+
+110
+00:04:36,260 --> 00:04:38,300
+type of feelings that he gets while
+
+111
+00:04:38,300 --> 00:04:40,500
+reading the narrative. The atmosphere
+
+112
+00:04:40,500 --> 00:04:42,280
+can change throughout the story,
+
+113
+00:04:42,360 --> 00:04:44,000
+especially when there is a change of
+
+114
+00:04:44,000 --> 00:04:45,760
+setting. As the setting contributes,
+
+115
+00:04:47,420 --> 00:04:53,080
+So, first, the atmosphere of a story
+
+116
+00:04:53,080 --> 00:04:57,140
+contains three main things. The mood
+
+117
+00:04:57,140 --> 00:05:01,740
+of certain persons, it's unique. The
+
+118
+00:05:01,740 --> 00:05:06,760
+emotions and feelings. So, then
+
+119
+00:05:06,760 --> 00:05:08,960
+there's also the fact that the
+
+120
+00:05:08,960 --> 00:05:11,640
+atmosphere can change. So, it's not
+
+121
+00:05:11,640 --> 00:05:13,920
+static. So, when the story begins and
+
+122
+00:05:13,920 --> 00:05:15,740
+when the story ends, the mood, the
+
+123
+00:05:15,740 --> 00:05:17,040
+atmosphere doesn't have to be the
+
+124
+00:05:17,040 --> 00:05:20,620
+same, so it can be different. The
+
+125
+00:05:20,620 --> 00:05:22,400
+main purpose of creating a particular
+
+126
+00:05:22,400 --> 00:05:24,440
+atmosphere in a story is to establish
+
+127
+00:05:24,440 --> 00:05:27,240
+an emotional effect. Very important.
+
+128
+00:05:27,800 --> 00:05:29,780
+Therefore, the reader tends to stay
+
+129
+00:05:29,780 --> 00:05:31,820
+interested in the story as it appears
+
+130
+00:05:31,820 --> 00:05:34,660
+to be more lively and exciting. So,
+
+131
+00:05:34,800 --> 00:05:38,600
+yeah, the atmosphere is used to
+
+132
+00:05:38,600 --> 00:05:42,380
+create a certain tension, Spannung,
+
+133
+00:05:42,980 --> 00:05:45,280
+in the story. So it's very important
+
+134
+00:05:45,280 --> 00:05:47,060
+that the atmosphere is well
+
+135
+00:05:47,060 --> 00:05:50,980
+described, so the story gets more
+
+136
+00:05:50,980 --> 00:05:54,200
+lively and exciting for the reader to
+
+137
+00:05:54,200 --> 00:05:57,060
+read. The place where a story takes
+
+138
+00:05:57,060 --> 00:05:58,940
+place can indicate the spiritual
+
+139
+00:05:58,940 --> 00:06:01,000
+condition of a character, where
+
+140
+00:06:01,000 --> 00:06:02,880
+elements like nature, weather, colors
+
+141
+00:06:02,880 --> 00:06:04,660
+and shapes have an influence on the
+
+142
+00:06:04,660 --> 00:06:09,520
+mood. Ja, also die Setting, wie ich
+
+143
+00:06:09,520 --> 00:06:11,920
+es vorhin beschrieben habe, hat einen
+
+144
+00:06:11,920 --> 00:06:14,400
+Effekt auf die Bedingungen eines
+
+145
+00:06:14,400 --> 00:06:16,680
+Charakters, wie ist der Charakter,
+
+146
+00:06:16,780 --> 00:06:19,880
+wie ist er bekannt, oder ist der
+
+147
+00:06:19,880 --> 00:06:22,840
+Charakter in einem guten Mood oder so
+
+148
+00:06:22,840 --> 00:06:25,080
+etwas. Aber die Elemente wie Natur,
+
+149
+00:06:25,260 --> 00:06:27,680
+Wetter, Farben und Formen, sie
+
+150
+00:06:27,680 --> 00:06:30,100
+beeinflussen den Mood, wie fühlen die
+
+151
+00:06:30,100 --> 00:06:32,100
+Menschen zum Beispiel, wie ist die
+
+152
+00:06:32,100 --> 00:06:35,320
+Geschichte vermittelt. example so
+
+153
+00:06:35,320 --> 00:06:39,680
+dies vor allem ins half ein flüssiges
+
+154
+00:06:39,680 --> 00:06:41,600
+modus world fast
+
+155
+00:06:43,900 --> 00:06:47,500
+so passend aus konzernen setting and
+
+156
+00:06:47,500 --> 00:06:50,260
+atmosphere can be so hier auf die
+
+157
+00:06:50,260 --> 00:06:53,320
+possible task you may see in your
+
+158
+00:06:53,320 --> 00:06:58,760
+exam oh yeah in it they could be in
+
+159
+00:06:58,760 --> 00:07:01,800
+every exam yeah in every oral exam
+
+160
+00:07:01,800 --> 00:07:04,460
+whatever heißt die atmosphäre in der
+
+161
+00:07:04,460 --> 00:07:05,100
+text kreis
+
+162
+00:07:08,900 --> 00:07:31,920
+Wie wurde der
+
+163
+00:07:31,920 --> 00:07:34,760
+Autor erschaffen? Erklär deine
+
+164
+00:07:34,760 --> 00:07:38,040
+Meinung mit Beweis vom Text. Also
+
+165
+00:07:38,040 --> 00:07:40,500
+alle Punkte, die wir, wie ich es
+
+166
+00:07:40,500 --> 00:07:41,780
+vorher beschrieben habe, sind wichtig
+
+167
+00:07:41,780 --> 00:07:44,320
+für diese, um diese Fragen zu
+
+168
+00:07:44,320 --> 00:07:47,880
+beantworten. Also, die Atmosphäre und
+
+169
+00:07:47,880 --> 00:07:49,260
+die Atmosphäre sind nicht, sie sind
+
+170
+00:07:49,260 --> 00:07:52,000
+nicht, sie enthalten nicht nur einen
+
+171
+00:07:52,000 --> 00:07:55,280
+Fakt. Sie sind sehr, wie große
+
+172
+00:07:55,280 --> 00:07:57,400
+Fakten, also sie enthalten, zum
+
+173
+00:07:57,400 --> 00:08:00,160
+Beispiel, Farbe, wie die Wetter, was
+
+174
+00:08:00,160 --> 00:08:01,640
+auch immer, ich habe es bereits
+
+175
+00:08:01,640 --> 00:08:03,500
+vorhin erklärt, but they are very
+
+176
+00:08:03,500 --> 00:08:06,040
+important for a story. So if you get
+
+177
+00:08:06,040 --> 00:08:07,540
+asked, for example, how is the
+
+178
+00:08:07,540 --> 00:08:09,260
+atmosphere in the text created by the
+
+179
+00:08:09,260 --> 00:08:11,840
+author? You can say, for example,
+
+180
+00:08:11,980 --> 00:08:13,040
+yeah, the weather is good, the
+
+181
+00:08:13,040 --> 00:08:14,640
+weather is bad, whatever. You can
+
+182
+00:08:14,640 --> 00:08:16,380
+describe it if the sun shines, if
+
+183
+00:08:16,380 --> 00:08:17,540
+it's raining, if there's a
+
+184
+00:08:17,540 --> 00:08:21,320
+thunderstorm. What time of the day is
+
+185
+00:08:21,320 --> 00:08:23,360
+it? For example, you can describe all
+
+186
+00:08:23,360 --> 00:08:26,800
+these facts to describe better in
+
+187
+00:08:26,800 --> 00:08:28,360
+detail, to get more points, for
+
+188
+00:08:28,360 --> 00:08:30,260
+example. Wenn du es in Detail
+
+189
+00:08:30,260 --> 00:08:31,740
+beschreibst, ist das besser für deine
+
+190
+00:08:31,740 --> 00:08:35,960
+Grätsch. Phrasen. Mögliche Phrasen,
+
+191
+00:08:36,020 --> 00:08:38,100
+die du benutzen kannst. Setting. Die
+
+192
+00:08:38,100 --> 00:08:40,580
+Geschichte nimmt Platz in. Die
+
+193
+00:08:40,580 --> 00:08:42,000
+Geschichte nimmt Platz in der Zeit,
+
+194
+00:08:42,300 --> 00:08:44,140
+zum Beispiel in der Zeit der
+
+195
+00:08:46,860 --> 00:08:50,980
+Zweiten Weltkrieg. Zum Beispiel. Die
+
+196
+00:08:50,980 --> 00:08:51,720
+Weise, in der die Aktion ist.
+
+197
+00:08:56,380 --> 00:08:59,060
+Ein bisschen... ...was auch immer.
+
+198
+00:08:59,460 --> 00:09:01,640
+Die Aktion schafft sich von...
+
+199
+00:09:01,640 --> 00:09:05,980
+...zu... So all these phrases are so
+
+200
+00:09:05,980 --> 00:09:07,980
+-called useful phrases you can use in
+
+201
+00:09:07,980 --> 00:09:12,120
+your exam to start the description of
+
+202
+00:09:12,120 --> 00:09:16,700
+the setting. Atmosphere. Useful
+
+203
+00:09:16,700 --> 00:09:18,640
+phrases for the atmosphere. The fact
+
+204
+00:09:18,640 --> 00:09:21,340
+that creates a warm or friendly,
+
+205
+00:09:21,440 --> 00:09:23,100
+cold, happy, sinister, frozen,
+
+206
+00:09:23,220 --> 00:09:26,220
+hostile atmosphere. There is a change
+
+207
+00:09:26,220 --> 00:09:28,920
+of atmosphere when, for example, when
+
+208
+00:09:28,920 --> 00:09:32,440
+the king enters. The atmosphere is
+
+209
+00:09:32,440 --> 00:09:35,420
+charged with anger. The friendly,
+
+210
+00:09:35,580 --> 00:09:38,900
+warm, cold, whatever, atmosphere has
+
+211
+00:09:38,900 --> 00:09:42,280
+an impact on. So these are useful
+
+212
+00:09:42,280 --> 00:09:44,480
+phrases to describe the atmosphere.
+
+213
+00:09:46,760 --> 00:09:49,560
+Exercise, so first exercise. Please
+
+214
+00:09:49,560 --> 00:09:51,480
+read the text. I will read it out
+
+215
+00:09:51,480 --> 00:09:55,200
+loud. Scene 1, so it's from Sam
+
+216
+00:09:55,200 --> 00:09:57,480
+Shepard, True West. Scene 1, night,
+
+217
+00:09:57,680 --> 00:09:59,820
+sound of crickets and dark.
+
+218
+00:09:59,920 --> 00:10:01,940
+Candlelight appears in alcove.
+
+219
+00:10:41,980 --> 00:10:48,220
+So, the question
+
+220
+00:10:48,220 --> 00:10:50,260
+for you is, how does the setting
+
+221
+00:10:50,260 --> 00:10:52,760
+contribute to the mood of scene one?
+
+222
+00:10:53,420 --> 00:10:56,140
+So, please write in the chat box,
+
+223
+00:10:56,420 --> 00:10:58,980
+like, what is your opinion? Please
+
+224
+00:10:58,980 --> 00:11:01,080
+answer or try. um die Frage zu
+
+225
+00:11:01,080 --> 00:11:02,920
+beantworten. Nenne einfach nur ein
+
+226
+00:11:02,920 --> 00:11:04,740
+oder zwei Aspekte. Ich brauche nicht
+
+227
+00:11:04,740 --> 00:11:06,960
+die volle Runde. Nur ein oder zwei
+
+228
+00:11:06,960 --> 00:11:09,320
+Gedanken, die genügend sind.
+
+229
+00:11:09,440 --> 00:11:10,560
+Vielleicht haben Sie einige dieser
+
+230
+00:11:10,560 --> 00:11:16,680
+Ideen. Ich warte auf Antworten. Zum
+
+231
+00:11:16,680 --> 00:11:17,180
+Beispiel,
+
+232
+00:11:19,960 --> 00:11:23,360
+schau, wie die Beschreibung
+
+233
+00:11:23,360 --> 00:11:26,520
+geschrieben wird. Ist es friedlich?
+
+234
+00:11:26,680 --> 00:11:31,300
+Ist es verletzbar? ist es? Ich weiß
+
+235
+00:11:31,300 --> 00:11:35,610
+es nicht. Lest es und vielleicht habt
+
+236
+00:11:35,610 --> 00:11:36,110
+ihr eine Idee.
+
+237
+00:11:50,310 --> 00:11:51,670
+Also, ich habe eine Antwort bekommen.
+
+238
+00:11:51,690 --> 00:11:53,650
+Moonlight bedeutet friedlich. Das ist
+
+239
+00:11:53,650 --> 00:11:56,270
+richtig. Also, ich denke, ich würde
+
+240
+00:11:56,270 --> 00:11:58,530
+die Exzertion
+
+241
+00:12:00,310 --> 00:12:02,170
+beenden, dass es sehr friedlich ist
+
+242
+00:12:02,170 --> 00:12:06,810
+und die Atmosphäre so ein schönes und
+
+243
+00:12:06,810 --> 00:12:07,750
+friedliches Es ist ein sehr ruhiges
+
+244
+00:12:07,750 --> 00:12:10,970
+Setting, wie ein Handtuch, ein
+
+245
+00:12:10,970 --> 00:12:13,130
+Zigarettenstrahl. Es ist so, als
+
+246
+00:12:13,130 --> 00:12:14,510
+wären sie in keinem Ruck. Sie haben
+
+247
+00:12:14,510 --> 00:12:17,370
+Zeit, sie sind kalt. Ein Kabelstuhl,
+
+248
+00:12:17,550 --> 00:12:20,470
+das auf dem Tisch bricht. Das ist
+
+249
+00:12:20,470 --> 00:12:23,290
+auch ein bisschen romantisch. Es ist
+
+250
+00:12:23,290 --> 00:12:25,750
+also eine sehr ruhige Atmosphäre, in
+
+251
+00:12:25,750 --> 00:12:26,670
+der man sich gut fühlen kann.
+
+252
+00:12:29,810 --> 00:12:33,990
+Wenn man die Description nicht lesen
+
+253
+00:12:33,990 --> 00:12:35,650
+kann, You get maybe a different sense
+
+254
+00:12:35,650 --> 00:12:38,970
+of what they are saying here in the
+
+255
+00:12:38,970 --> 00:12:41,630
+dialogue. So the description is very
+
+256
+00:12:41,630 --> 00:12:45,270
+good for analysing or for getting a
+
+257
+00:12:45,270 --> 00:12:48,730
+look how the atmosphere is. If here
+
+258
+00:12:48,730 --> 00:12:51,090
+would be a different, for example, a
+
+259
+00:12:51,090 --> 00:12:53,510
+different description, we would get a
+
+260
+00:12:53,510 --> 00:12:56,990
+different sense of how this dialogue
+
+261
+00:12:56,990 --> 00:13:02,510
+may be. Also wenn hier zum Beispiel,
+
+262
+00:13:02,650 --> 00:13:05,870
+ich weiß nicht, Frieden und sehr
+
+263
+00:13:05,870 --> 00:13:10,010
+laute Geräusche wären, dann wäre das
+
+264
+00:13:10,010 --> 00:13:12,230
+nicht so friedlich. Also wir würden
+
+265
+00:13:12,230 --> 00:13:13,470
+einen Sinn bekommen, oh, das ist
+
+266
+00:13:13,470 --> 00:13:15,590
+nicht friedlich, was ist da los? Aber
+
+267
+00:13:15,590 --> 00:13:17,150
+jetzt mit dieser Beschreibung können
+
+268
+00:13:17,150 --> 00:13:19,650
+wir sehen, dass es eine friedliche
+
+269
+00:13:19,650 --> 00:13:24,950
+Situation ist. Ja, also ein nächstes
+
+270
+00:13:24,950 --> 00:13:26,190
+Übungsgerät, ein weiteres
+
+271
+00:13:26,190 --> 00:13:30,490
+Übungsgerät. Es ist auch, wie der
+
+272
+00:13:30,490 --> 00:13:32,490
+Veränderung der Setting den Mund und
+
+273
+00:13:32,490 --> 00:13:34,070
+Atmosphäre beeinflusst. Schaut
+
+274
+00:13:34,070 --> 00:13:35,790
+einfach den Text. Ich werde es alle
+
+275
+00:13:35,790 --> 00:13:37,710
+auslesen, wie ich es vorher gemacht
+
+276
+00:13:37,710 --> 00:13:40,630
+habe. Und nur ein oder zwei Antworten
+
+277
+00:13:40,630 --> 00:13:45,430
+sind genügend. Also, Szene 9. Mit,
+
+278
+00:13:45,550 --> 00:13:47,570
+okay, es ist von George Bernard Shaw.
+
+279
+00:13:48,550 --> 00:13:51,650
+Püpp, Marlion. Szene 9. Mit
+
+280
+00:13:51,650 --> 00:13:53,890
+Dinosaurier, blazend, die Stage ist
+
+281
+00:13:53,890 --> 00:13:56,330
+überwacht. Bottle's Toast is smashed,
+
+282
+00:13:56,570 --> 00:13:58,390
+typewriter, ripped out, telephone,
+
+283
+00:13:58,670 --> 00:14:01,110
+etc. All the debris from previous
+
+284
+00:14:01,110 --> 00:14:03,250
+scene is now starkly visible in
+
+285
+00:14:03,250 --> 00:14:05,210
+intense yellow light. The effect
+
+286
+00:14:05,210 --> 00:14:08,690
+should be like a desert junkyard at
+
+287
+00:14:08,690 --> 00:14:10,450
+high noon. The coolness of the
+
+288
+00:14:10,450 --> 00:14:13,130
+preceding scene is totally
+
+289
+00:14:13,130 --> 00:14:16,950
+obliterated. Austin is seated, a
+
+290
+00:14:16,950 --> 00:14:18,650
+table in a coffin, shirt open,
+
+291
+00:14:18,850 --> 00:14:22,630
+pouring with sweat. Hunched over a
+
+292
+00:14:22,630 --> 00:14:23,990
+writing note. ...
+
+293
+00:15:58,590 --> 00:15:59,990
+...
+
+294
+00:16:20,790 --> 00:16:23,250
+So, how does the change of setting
+
+295
+00:16:23,250 --> 00:16:26,410
+affect the mood and atmosphere? So,
+
+296
+00:16:26,410 --> 00:16:30,670
+we read the first excerpt and now we
+
+297
+00:16:30,670 --> 00:16:33,150
+have the second excerpt. Like, how is
+
+298
+00:16:33,150 --> 00:16:35,210
+the change transmitted? Can you tell
+
+299
+00:16:35,210 --> 00:16:37,210
+me how is the change of setting
+
+300
+00:16:37,210 --> 00:16:40,210
+affect the mood and atmosphere? Tell
+
+301
+00:16:40,210 --> 00:16:42,810
+me. So, write in the chat box maybe.
+
+302
+00:17:11,810 --> 00:17:12,370
+So.
+
+303
+00:17:19,430 --> 00:17:21,690
+That's right. So in the first excerpt
+
+304
+00:17:21,690 --> 00:17:23,870
+they're very relaxed and calm and
+
+305
+00:17:23,870 --> 00:17:25,830
+everything was peaceful. But now the
+
+306
+00:17:25,830 --> 00:17:28,030
+change of the setting, like they are
+
+307
+00:17:28,030 --> 00:17:29,730
+not running, but they are going
+
+308
+00:17:29,730 --> 00:17:31,990
+somewhere. And everything is very
+
+309
+00:17:31,990 --> 00:17:34,150
+stressful and it's very uncomfortable
+
+310
+00:17:34,150 --> 00:17:36,890
+because they're sweating. And here
+
+311
+00:17:36,890 --> 00:17:39,110
+it's a blazing heat, so it's very,
+
+312
+00:17:39,230 --> 00:17:42,450
+very hot. And smashed typewriter, a
+
+313
+00:17:42,450 --> 00:17:45,010
+ripped out telephone, so something is
+
+314
+00:17:45,010 --> 00:17:48,410
+broken as well. So there's a very
+
+315
+00:17:48,410 --> 00:17:51,090
+abrupt... Change of settings, change
+
+316
+00:17:51,090 --> 00:17:55,610
+of mood and atmosphere as well. So
+
+317
+00:17:55,610 --> 00:17:57,990
+yeah, it's very uncomfortable, the
+
+318
+00:17:57,990 --> 00:17:59,770
+mood and the atmosphere. Like you
+
+319
+00:17:59,770 --> 00:18:02,330
+don't feel very good in the setting.
+
+320
+00:18:06,040 --> 00:18:09,440
+Characters. The characters are a
+
+321
+00:18:09,440 --> 00:18:11,820
+significant element of every literary
+
+322
+00:18:11,820 --> 00:18:13,660
+text. With their decisions, dialogue
+
+323
+00:18:13,660 --> 00:18:15,920
+and action, they determine the course
+
+324
+00:18:15,920 --> 00:18:17,920
+of action. A character has the
+
+325
+00:18:17,920 --> 00:18:20,020
+following characteristics. Behavior,
+
+326
+00:18:20,320 --> 00:18:23,040
+emotions and things. Diese drei
+
+327
+00:18:23,040 --> 00:18:26,620
+Komponenten sind für Charaktere sehr
+
+328
+00:18:26,620 --> 00:18:28,980
+üblich. Es ist also wichtig, wenn du
+
+329
+00:18:28,980 --> 00:18:33,760
+einen Analyse machst, diese drei
+
+330
+00:18:33,760 --> 00:18:37,000
+Charakteristiken
+
+331
+00:18:37,000 --> 00:18:37,640
+zu behandeln. Also Verhalten,
+
+332
+00:18:37,840 --> 00:18:42,520
+Emotionen und Denken. Also, explizite
+
+333
+00:18:42,520 --> 00:18:46,300
+Charakterisation, also in mehr
+
+334
+00:18:46,300 --> 00:18:49,020
+Detail. The narrator or another
+
+335
+00:18:49,020 --> 00:18:50,720
+character describes the character
+
+336
+00:18:50,720 --> 00:18:52,860
+directly. Therefore following
+
+337
+00:18:52,860 --> 00:18:55,360
+characteristics are described to the
+
+338
+00:18:55,360 --> 00:18:57,080
+reader. Outward experience,
+
+339
+00:18:57,620 --> 00:19:00,160
+appearance, habits, behavior,
+
+340
+00:19:00,560 --> 00:19:03,820
+attitudes and opinions. So that's an
+
+341
+00:19:03,820 --> 00:19:08,100
+explicit characterization. So it's in
+
+342
+00:19:08,100 --> 00:19:11,520
+more detail. The reader gets like
+
+343
+00:19:11,520 --> 00:19:14,800
+more of what the character looks
+
+344
+00:19:14,800 --> 00:19:15,840
+like, how the character looks like.
+
+345
+00:19:15,860 --> 00:19:18,800
+So it gets more details about the
+
+346
+00:19:18,800 --> 00:19:22,600
+character. Then there is also, so we
+
+347
+00:19:22,600 --> 00:19:24,880
+have the explicit characterization
+
+348
+00:19:24,880 --> 00:19:26,020
+and we have the implicit
+
+349
+00:19:26,020 --> 00:19:28,500
+characterization. The character is
+
+350
+00:19:28,500 --> 00:19:30,780
+introduced indirectly. The reader has
+
+351
+00:19:30,780 --> 00:19:32,960
+to analyze given information in order
+
+352
+00:19:32,960 --> 00:19:34,880
+to define the characteristics of the
+
+353
+00:19:34,880 --> 00:19:37,180
+character. Information that might be
+
+354
+00:19:37,180 --> 00:19:39,400
+relevant are thought process,
+
+355
+00:19:39,640 --> 00:19:41,600
+behavior, speech, way of talking,
+
+356
+00:19:41,800 --> 00:19:43,900
+appearance, communication with other
+
+357
+00:19:43,900 --> 00:19:44,360
+characters.
+
+358
+00:19:51,840 --> 00:19:54,540
+Es ist einfach so, dass der Charakter
+
+359
+00:19:54,540 --> 00:19:57,040
+indirekt vorgestellt wird. In dem
+
+360
+00:19:57,040 --> 00:19:59,940
+Buch ist es nicht geschrieben. Ja,
+
+361
+00:20:00,140 --> 00:20:04,860
+Mr. Johnson hat dunkle Haare, hat
+
+362
+00:20:04,860 --> 00:20:06,960
+blaue Augen, ist sehr freundlich.
+
+363
+00:20:07,140 --> 00:20:10,220
+Aber wenn man die Geschichte lesen
+
+364
+00:20:10,220 --> 00:20:11,740
+kann, bekommt man eine Verständnis
+
+365
+00:20:11,740 --> 00:20:14,120
+dafür, wie der Charakter sich verhält
+
+366
+00:20:14,120 --> 00:20:16,040
+oder wie er aussieht. Aber einfach
+
+367
+00:20:16,040 --> 00:20:18,040
+unbequem. Es wird also nicht
+
+368
+00:20:18,040 --> 00:20:19,800
+geschrieben, ah, Mr. Johnson ist so
+
+369
+00:20:19,800 --> 00:20:22,240
+und so, aber es ist implizit. Man
+
+370
+00:20:22,240 --> 00:20:23,640
+bekommt einen impliziten Sinn, wie
+
+371
+00:20:23,640 --> 00:20:26,460
+der Charakter aussieht oder wie der
+
+372
+00:20:26,460 --> 00:20:27,920
+Charakter fühlt, was auch immer.
+
+373
+00:20:29,740 --> 00:20:32,080
+Konstellation von Charakteren. Die
+
+374
+00:20:32,080 --> 00:20:33,200
+Konstellation von Charakteren
+
+375
+00:20:33,200 --> 00:20:34,540
+beschreibt die Beziehung zwischen
+
+376
+00:20:34,540 --> 00:20:36,200
+Charakteren aus einem literären Text.
+
+377
+00:20:36,200 --> 00:20:38,540
+We can categorize characters into
+
+378
+00:20:38,540 --> 00:20:41,060
+groups if some people always stick up
+
+379
+00:20:41,060 --> 00:20:43,700
+for each other or if we can identify
+
+380
+00:20:43,700 --> 00:20:45,120
+a leader, a role model.
+
+381
+00:20:51,170 --> 00:20:53,410
+Every time you describe a character,
+
+382
+00:20:53,490 --> 00:20:56,250
+they are in a group. So if they stick
+
+383
+00:20:56,250 --> 00:21:00,490
+in this group. Or we can identify a
+
+384
+00:21:00,490 --> 00:21:03,990
+leader. So the person who is leading
+
+385
+00:21:03,990 --> 00:21:06,610
+everything, a role model. Also
+
+386
+00:21:06,610 --> 00:21:08,570
+possible. Therefore it is important
+
+387
+00:21:08,570 --> 00:21:09,690
+to consider the relationship.
+
+388
+00:21:09,970 --> 00:21:11,770
+zwischen den individuellen
+
+389
+00:21:11,770 --> 00:21:12,350
+Charakteren.
+
+390
+00:21:16,650 --> 00:21:18,670
+Die Beziehung zwischen den
+
+391
+00:21:18,670 --> 00:21:20,890
+Charakteren ist wichtig, um die
+
+392
+00:21:20,890 --> 00:21:22,130
+Verzweiflung von Charakteren zu
+
+393
+00:21:22,130 --> 00:21:24,630
+bekommen, wie sind die Charaktere mit
+
+394
+00:21:24,630 --> 00:21:28,010
+einander? Sind sie gute Freunde oder
+
+395
+00:21:28,010 --> 00:21:30,210
+sind sie mehr als Freunde? Oder sind
+
+396
+00:21:30,210 --> 00:21:33,850
+sie Feinde? Die Beziehung ist also
+
+397
+00:21:33,850 --> 00:21:36,990
+sehr wichtig für diese Faktoren. Um
+
+398
+00:21:36,990 --> 00:21:38,170
+auf die Attitüde zu reflektieren, If
+
+399
+00:21:38,170 --> 00:21:40,790
+the characters have towards another
+
+400
+00:21:40,790 --> 00:21:42,430
+character, we can use the following
+
+401
+00:21:42,430 --> 00:21:44,430
+terms. Affection, dislike,
+
+402
+00:21:44,690 --> 00:21:46,410
+friendship, rivalry, peaceful
+
+403
+00:21:46,410 --> 00:21:47,950
+relationship, tense relationship,
+
+404
+00:21:48,250 --> 00:21:49,590
+distant relationship. Distant
+
+405
+00:21:49,590 --> 00:21:54,650
+relationship. That's not right here.
+
+406
+00:21:55,010 --> 00:21:56,770
+It's like this relationship, a very
+
+407
+00:21:56,770 --> 00:22:01,110
+close relationship. Needs to sound
+
+408
+00:22:01,110 --> 00:22:04,830
+here. Loyalty and hostility. So these
+
+409
+00:22:04,830 --> 00:22:05,530
+are like...
+
+410
+00:22:08,890 --> 00:22:12,250
+different words, how you can describe
+
+411
+00:22:12,250 --> 00:22:14,470
+a relation, for example.
+
+412
+00:22:18,100 --> 00:22:20,680
+Development of a character. So,
+
+413
+00:22:20,800 --> 00:22:22,380
+there's a gradual development. The
+
+414
+00:22:22,380 --> 00:22:24,200
+development of a character depends on
+
+415
+00:22:24,200 --> 00:22:26,520
+many factors. It happens in more than
+
+416
+00:22:26,520 --> 00:22:28,840
+one phase. Then there's the abrupt
+
+417
+00:22:28,840 --> 00:22:30,980
+change. The character has a sudden
+
+418
+00:22:30,980 --> 00:22:33,400
+change of heart, often used in short
+
+419
+00:22:33,400 --> 00:22:33,860
+stories.
+
+420
+00:22:36,420 --> 00:22:39,660
+In den Geschichten, die Charaktere
+
+421
+00:22:39,660 --> 00:22:41,980
+verändern sich. Es kann also entweder
+
+422
+00:22:41,980 --> 00:22:43,560
+ein graduales Entwicklung sein, also
+
+423
+00:22:43,560 --> 00:22:46,300
+wo man es sehen kann, oder ein
+
+424
+00:22:46,300 --> 00:22:51,140
+abruptes Verändern. Es wird oft in
+
+425
+00:22:51,140 --> 00:22:53,740
+Kurzgeschichten genannt. Um den
+
+426
+00:22:53,740 --> 00:22:55,240
+Entwicklung eines Charakters zu
+
+427
+00:22:55,240 --> 00:22:57,360
+analysieren, müssen wir die Gründe
+
+428
+00:22:57,360 --> 00:22:58,140
+für den Veränderung identifizieren,
+
+429
+00:22:58,140 --> 00:23:00,040
+wie zum Beispiel, was passiert ist
+
+430
+00:23:00,040 --> 00:23:01,880
+oder warum es passiert ist oder so
+
+431
+00:23:01,880 --> 00:23:04,880
+weiter. und finden wichtige Quote und
+
+432
+00:23:04,880 --> 00:23:07,180
+Extrakte, die den Veränderung
+
+433
+00:23:07,180 --> 00:23:10,140
+signalisieren. Also brauchen wir, um
+
+434
+00:23:10,140 --> 00:23:13,640
+eine
+
+435
+00:23:13,640 --> 00:23:16,520
+Quote zu bekommen oder den Extrakt
+
+436
+00:23:16,520 --> 00:23:20,080
+aus dem Text zu bekommen, der bereits
+
+437
+00:23:20,080 --> 00:23:24,700
+einen Hinweis
+
+438
+00:23:24,700 --> 00:23:29,260
+auf den Veränderung aufgibt. So they
+
+439
+00:23:29,260 --> 00:23:31,520
+put like an important, for example,
+
+440
+00:23:31,540 --> 00:23:35,620
+question mark or exclamation mark or
+
+441
+00:23:35,620 --> 00:23:38,800
+whatever. So the story gives us
+
+442
+00:23:38,800 --> 00:23:41,640
+already a hint of why the person
+
+443
+00:23:41,640 --> 00:23:43,440
+changes and we need to find it in the
+
+444
+00:23:43,440 --> 00:23:43,760
+text.
+
+445
+00:23:47,130 --> 00:23:49,130
+Tasks. So possible tasks concerning
+
+446
+00:23:49,130 --> 00:23:52,070
+characters can be. Who are the main
+
+447
+00:23:52,070 --> 00:23:53,530
+characters? How are they presented?
+
+448
+00:23:54,050 --> 00:23:56,250
+What is the characters function in
+
+449
+00:23:56,250 --> 00:23:58,590
+the text? Describe the character. Pay
+
+450
+00:23:58,590 --> 00:24:01,370
+attention to the ...
+
+451
+00:24:28,490 --> 00:24:31,770
+All these possible tasks can be in
+
+452
+00:24:31,770 --> 00:24:36,050
+your exam. So, yeah, who are the main
+
+453
+00:24:36,050 --> 00:24:37,530
+characters? How are they presented?
+
+454
+00:24:37,630 --> 00:24:39,430
+For example, we just had Lee and
+
+455
+00:24:39,430 --> 00:24:41,590
+Orson. And now you have to present
+
+456
+00:24:41,590 --> 00:24:43,010
+them. You have to describe them in
+
+457
+00:24:43,010 --> 00:24:46,830
+detail. Yeah, and analyze their
+
+458
+00:24:46,830 --> 00:24:52,930
+behavior, whatever. Another exercise.
+
+459
+00:24:53,810 --> 00:24:56,150
+Ernst Hemingway, the old man and the
+
+460
+00:24:56,150 --> 00:24:58,450
+sea. So, the task at the end will
+
+461
+00:24:58,450 --> 00:25:00,150
+be... He characterized the old man by
+
+462
+00:25:00,150 --> 00:25:01,910
+using the information that I've given
+
+463
+00:25:01,910 --> 00:25:04,050
+in the text. Define the relationship
+
+464
+00:25:04,050 --> 00:25:05,850
+between the two characters and
+
+465
+00:25:05,850 --> 00:25:08,870
+explain your reasons. He was an old
+
+466
+00:25:08,870 --> 00:25:11,050
+man who fished alone in a skiff in
+
+467
+00:25:11,050 --> 00:25:12,990
+the Gulf Stream and he had gone 84
+
+468
+00:25:12,990 --> 00:25:15,450
+days now without taking a fish. In
+
+469
+00:25:15,450 --> 00:25:17,310
+the first 40 days the boy had been
+
+470
+00:25:17,310 --> 00:25:20,110
+with him. But after 40 days without a
+
+471
+00:25:20,110 --> 00:25:22,490
+fish the boy's parents had told him
+
+472
+00:25:22,490 --> 00:25:24,470
+that the old man was now definitely
+
+473
+00:25:24,470 --> 00:25:26,650
+and finally salaud, which is the
+
+474
+00:25:26,650 --> 00:25:28,590
+worst form of unlove. und der Junge
+
+475
+00:25:28,590 --> 00:25:31,910
+war in einem anderen Boot, in dem er
+
+476
+00:25:31,910 --> 00:25:34,290
+drei gute Fische die erste Woche
+
+477
+00:25:34,290 --> 00:25:35,530
+gefangen hat. Das hat den Junge
+
+478
+00:25:35,530 --> 00:25:37,770
+gesagt, um den alten Mann jeden Tag
+
+479
+00:25:37,770 --> 00:25:39,570
+mit seinem Geschenk zu sehen, und er
+
+480
+00:25:39,570 --> 00:25:41,030
+war immer da, um ihn zu helfen,
+
+481
+00:25:41,210 --> 00:25:43,950
+entweder die Kuitlein oder die Gaff
+
+482
+00:25:43,950 --> 00:25:45,950
+und Harpoon zu tragen, und der Seil,
+
+483
+00:25:45,950 --> 00:25:48,330
+der um die Masse geführt wurde. The
+
+484
+00:25:48,330 --> 00:25:50,450
+sail was pitched with four floor
+
+485
+00:25:50,450 --> 00:25:53,570
+sacks and furled it looked like the
+
+486
+00:25:53,570 --> 00:25:56,150
+flag of permanent defeat. The old man
+
+487
+00:25:56,150 --> 00:25:58,250
+was thin and gaunt with deep wrinkles
+
+488
+00:25:58,250 --> 00:26:00,690
+in the back of his neck. The brown
+
+489
+00:26:00,690 --> 00:26:04,470
+blotches of a benevolent skin cancer
+
+490
+00:26:04,470 --> 00:26:07,190
+the sun brings from its reflection on
+
+491
+00:26:07,190 --> 00:26:09,490
+the tropic sea were on his cheeks.
+
+492
+00:26:10,330 --> 00:26:13,250
+The blotches ran well down the sides
+
+493
+00:26:13,250 --> 00:26:15,610
+of his face and his hands had the
+
+494
+00:26:15,610 --> 00:26:19,190
+deep crease. ...
+
+495
+00:26:45,790 --> 00:26:47,670
+So, now please characterize the old
+
+496
+00:26:47,670 --> 00:26:49,230
+man by using the information that
+
+497
+00:26:49,230 --> 00:26:51,170
+I've given in the text. Define the
+
+498
+00:26:51,170 --> 00:26:52,370
+relationship between the two
+
+499
+00:26:52,370 --> 00:26:54,050
+characters and explain your reasons.
+
+500
+00:26:54,170 --> 00:26:56,430
+So, first characterize the old man.
+
+501
+00:26:56,670 --> 00:26:59,150
+So, can someone tell me, please write
+
+502
+00:26:59,150 --> 00:27:01,990
+in the box, yeah, some
+
+503
+00:27:01,990 --> 00:27:06,030
+characteristics of the old man. Can
+
+504
+00:27:06,030 --> 00:27:09,030
+you tell me? So, some important facts
+
+505
+00:27:09,030 --> 00:27:12,410
+about the old man. For example, his
+
+506
+00:27:12,410 --> 00:27:15,910
+behavior, how does he look like? So,
+
+507
+00:27:15,910 --> 00:27:17,110
+oddward appearance.
+
+508
+00:27:27,330 --> 00:27:28,150
+Any ideas?
+
+509
+00:27:31,590 --> 00:27:35,890
+For example, so, we can tell about
+
+510
+00:27:35,890 --> 00:27:39,730
+the old man that he was odd. So,
+
+511
+00:27:39,730 --> 00:27:41,490
+then, here.
+
+512
+00:27:48,870 --> 00:27:51,410
+The old man was thin and gone with
+
+513
+00:27:51,410 --> 00:27:53,310
+deep wrinkles in the back of his
+
+514
+00:27:53,310 --> 00:27:56,210
+neck. He
+
+515
+00:27:59,660 --> 00:28:01,380
+had deep crease scars.
+
+516
+00:28:04,440 --> 00:28:05,620
+Someone just gave him... Er hat mir
+
+517
+00:28:05,620 --> 00:28:06,220
+eine Antwort gegeben. Er ist
+
+518
+00:28:06,220 --> 00:28:07,560
+diszipliniert, wenn er nicht auf
+
+519
+00:28:07,560 --> 00:28:10,200
+Fisch abgibt. Das ist richtig. Er ist
+
+520
+00:28:10,200 --> 00:28:12,180
+sehr diszipliniert und er will
+
+521
+00:28:12,180 --> 00:28:14,880
+wirklich nicht auf Fisch abgeben. Er
+
+522
+00:28:14,880 --> 00:28:17,380
+ist wirklich dazu, dass er nicht auf
+
+523
+00:28:17,380 --> 00:28:22,220
+Fisch abgeben will. Das ist ein sehr
+
+524
+00:28:22,220 --> 00:28:23,960
+wichtiger Faktor für diesen alten
+
+525
+00:28:23,960 --> 00:28:28,420
+Mann. Das ist die Hauptstelle des
+
+526
+00:28:28,420 --> 00:28:30,560
+Geschichts, dass der alte Mann, auch
+
+527
+00:28:30,560 --> 00:28:35,120
+wenn er keinen Fisch bekommt, He is
+
+528
+00:28:35,120 --> 00:28:38,860
+still fishing. He doesn't stop. Very
+
+529
+00:28:38,860 --> 00:28:41,880
+good. And now the relationship
+
+530
+00:28:41,880 --> 00:28:43,620
+between the two characters. So
+
+531
+00:28:43,620 --> 00:28:46,180
+between the boy and the old man. Can
+
+532
+00:28:46,180 --> 00:28:47,260
+someone tell me, how is the
+
+533
+00:28:47,260 --> 00:28:48,700
+relationship? Is it good? Is it bad?
+
+534
+00:28:48,840 --> 00:28:50,980
+Is it friendly? Is it peaceful? Is it
+
+535
+00:28:50,980 --> 00:28:53,600
+like, are they enemies? What are
+
+536
+00:28:53,600 --> 00:28:56,480
+they? Are they friends? Yes,
+
+537
+00:29:06,580 --> 00:29:09,280
+they are friends and... Someone else
+
+538
+00:29:09,280 --> 00:29:09,600
+typing.
+
+539
+00:29:25,620 --> 00:29:28,660
+Okay, so they are friends. And you
+
+540
+00:29:28,660 --> 00:29:31,900
+can... Man sieht, dass der alte Mann
+
+541
+00:29:31,900 --> 00:29:35,620
+immer den jungen Jungen mit ihm
+
+542
+00:29:35,620 --> 00:29:37,360
+mitgenommen hat, um mit ihm angeln zu
+
+543
+00:29:37,360 --> 00:29:39,140
+gehen. Aber jetzt, als der alte Mann
+
+544
+00:29:39,140 --> 00:29:42,320
+keine mehr Fische bekommt, verändert
+
+545
+00:29:42,320 --> 00:29:43,700
+sich der junge Junge in ein anderes
+
+546
+00:29:43,700 --> 00:29:45,880
+Boot. Und jetzt fühlt sich der junge
+
+547
+00:29:45,880 --> 00:29:48,600
+Junge ein wenig traurig darüber. Aber
+
+548
+00:29:48,600 --> 00:29:51,060
+jeden Abend, wenn sie zurückkommen,
+
+549
+00:29:51,280 --> 00:29:54,040
+hilft der junge Junge dem alten Mann,
+
+550
+00:29:54,200 --> 00:29:56,880
+die Dinge aus diesem Boot zu
+
+551
+00:29:56,880 --> 00:30:00,320
+bekommen. So they are more, so they
+
+552
+00:30:00,320 --> 00:30:00,820
+are friendlier,
+
+553
+00:30:05,900 --> 00:30:10,980
+like before. So being friendly and
+
+554
+00:30:10,980 --> 00:30:12,840
+everything, he gives it back, so he
+
+555
+00:30:12,840 --> 00:30:16,020
+helps him now. Yeah. So the
+
+556
+00:30:16,020 --> 00:30:17,600
+relationship between them is very
+
+557
+00:30:17,600 --> 00:30:19,860
+friendly, very peaceful, and they are
+
+558
+00:30:19,860 --> 00:30:21,740
+helping each other, but in different
+
+559
+00:30:21,740 --> 00:30:25,790
+ways. It can be like, for example,
+
+560
+00:30:25,830 --> 00:30:28,890
+emotionally. And so the old man, the
+
+561
+00:30:28,890 --> 00:30:30,710
+young boy, emotionally, he's there
+
+562
+00:30:30,710 --> 00:30:33,230
+for him. And he gives them, for
+
+563
+00:30:33,230 --> 00:30:36,610
+example. hints of how he can do it.
+
+564
+00:30:36,730 --> 00:30:38,670
+And the young boy now helps him
+
+565
+00:30:38,670 --> 00:30:41,110
+physically with his power to
+
+566
+00:30:41,110 --> 00:30:42,590
+transport things out of the boat.
+
+567
+00:30:44,680 --> 00:30:47,660
+Plot. The plot of a narration
+
+568
+00:30:47,660 --> 00:30:49,500
+consists of a series of events that
+
+569
+00:30:49,500 --> 00:30:52,240
+are interconnected. The plot of a
+
+570
+00:30:52,240 --> 00:30:53,980
+text always contains a starting
+
+571
+00:30:53,980 --> 00:30:55,980
+situation, opportunities for action,
+
+572
+00:30:56,180 --> 00:30:58,360
+a change of situation resulting from
+
+573
+00:30:58,360 --> 00:31:00,860
+an action. In order to analyze the
+
+574
+00:31:00,860 --> 00:31:02,680
+relevance of events, we have to
+
+575
+00:31:02,680 --> 00:31:03,840
+identify their symbolic
+
+576
+00:31:32,840 --> 00:31:36,800
+Also wenn etwas passiert, ist es
+
+577
+00:31:36,800 --> 00:31:39,580
+chronologisch oder ist es ein
+
+578
+00:31:39,580 --> 00:31:42,740
+Flashback oder was passiert. Das ist
+
+579
+00:31:42,740 --> 00:31:44,380
+wichtig, um einen Sinn zu bekommen,
+
+580
+00:31:44,380 --> 00:31:46,460
+wie die Geschichte geschrieben wird.
+
+581
+00:31:51,650 --> 00:31:54,090
+Klimax. Der Klimax ist die Part der
+
+582
+00:31:54,090 --> 00:31:55,550
+Geschichte, wo der höchste Punkt der
+
+583
+00:31:55,550 --> 00:31:57,670
+Tension erreicht wird. Das ist
+
+584
+00:31:57,670 --> 00:31:59,470
+normalerweise der Punkt, wo wir den
+
+585
+00:31:59,470 --> 00:32:00,610
+Hauptproblem der Geschichte befinden,
+
+586
+00:32:00,610 --> 00:32:03,130
+der dann von einem oder mehr
+
+587
+00:32:03,130 --> 00:32:03,830
+Hauptcharakteren geschlossen wird.
+
+588
+00:32:03,950 --> 00:32:07,350
+This often results in a change. For
+
+589
+00:32:07,350 --> 00:32:08,870
+example, the character constellation
+
+590
+00:32:08,870 --> 00:32:11,410
+is affected because the relationship
+
+591
+00:32:11,410 --> 00:32:12,870
+between two characters is
+
+592
+00:32:12,870 --> 00:32:15,590
+strengthened or an argument is
+
+593
+00:32:15,590 --> 00:32:17,770
+resolved. That's why the climax is
+
+594
+00:32:17,770 --> 00:32:20,450
+also often referred to as a turning
+
+595
+00:32:20,450 --> 00:32:23,430
+point. So a story is mostly built as
+
+596
+00:32:23,430 --> 00:32:25,590
+there's a rising tension, then
+
+597
+00:32:25,590 --> 00:32:27,970
+there's a climax. Like the main part
+
+598
+00:32:27,970 --> 00:32:30,330
+is happening and then there's a
+
+599
+00:32:30,330 --> 00:32:33,090
+falling tension. That's like... wie
+
+600
+00:32:33,090 --> 00:32:34,630
+die Geschichte gebaut wird.
+
+601
+00:32:38,280 --> 00:32:41,060
+Open Ending. Der Ende ist einer der
+
+602
+00:32:41,060 --> 00:32:42,860
+wichtigsten Teilen der Geschichte.
+
+603
+00:32:43,000 --> 00:32:44,840
+Wir würden auch erwarten, dass die
+
+604
+00:32:44,840 --> 00:32:47,340
+Geschichte zu Ende kommt. Das ist
+
+605
+00:32:47,340 --> 00:32:50,600
+nicht immer der Fall. Manchmal gibt
+
+606
+00:32:50,600 --> 00:32:52,040
+der Ende der Geschichte keine Lösung,
+
+607
+00:32:52,420 --> 00:32:54,460
+aber es ist offen. Deshalb könnte die
+
+608
+00:32:54,460 --> 00:32:56,340
+Geschichte in verschiedene Richtungen
+
+609
+00:32:56,340 --> 00:32:58,820
+gehen und es ist an den Leser, um den
+
+610
+00:32:58,820 --> 00:33:00,360
+möglichen Ergebnis zu vorstellen.
+
+611
+00:33:01,040 --> 00:33:03,280
+Dadurch, Using an open end in a story
+
+612
+00:33:03,280 --> 00:33:05,560
+motivates the reader to think and to
+
+613
+00:33:05,560 --> 00:33:07,180
+deal with the subject matter of the
+
+614
+00:33:07,180 --> 00:33:09,240
+text. Open endings are especially
+
+615
+00:33:09,240 --> 00:33:13,020
+common in short stories. So, a story
+
+616
+00:33:13,020 --> 00:33:17,080
+doesn't need an ending, but it also
+
+617
+00:33:17,080 --> 00:33:18,840
+can have an open ending. And this is
+
+618
+00:33:18,840 --> 00:33:20,700
+very common for short stories.
+
+619
+00:33:25,010 --> 00:33:27,130
+So, possible tasks concerning the
+
+620
+00:33:27,130 --> 00:33:29,830
+plot can be Describe the sequence of
+
+621
+00:33:29,830 --> 00:33:31,390
+events of the story. How are the
+
+622
+00:33:31,390 --> 00:33:32,330
+events interconnected?
+
+623
+00:33:45,290 --> 00:33:49,270
+So all these questions are possible
+
+624
+00:33:49,270 --> 00:33:51,910
+tasks you can get asked in an exam,
+
+625
+00:33:52,170 --> 00:33:56,170
+like in an oral exam, whatever, in an
+
+626
+00:33:56,170 --> 00:33:56,530
+essay.
+
+627
+00:34:00,490 --> 00:34:03,810
+So, useful phrases for... The
+
+628
+00:34:03,810 --> 00:34:06,390
+sequence of events. The story is told
+
+629
+00:34:06,390 --> 00:34:09,010
+chronologically. The story disregards
+
+630
+00:34:09,010 --> 00:34:11,330
+the chronological order. Later events
+
+631
+00:34:11,330 --> 00:34:14,370
+are foreshadowed when the story
+
+632
+00:34:14,370 --> 00:34:16,410
+switches from the present to the past
+
+633
+00:34:16,410 --> 00:34:19,970
+or the other way around. An event
+
+634
+00:34:19,970 --> 00:34:22,730
+marks a shift in time. The narrator
+
+635
+00:34:22,730 --> 00:34:25,610
+uses retro-perspective narration too.
+
+636
+00:34:26,330 --> 00:34:29,010
+An event anticipates future events.
+
+637
+00:34:29,890 --> 00:34:32,090
+So useful phrases for the sequence of
+
+638
+00:34:32,090 --> 00:34:34,790
+events. Useful phrases for the
+
+639
+00:34:34,790 --> 00:34:36,990
+division of narration. The narrator
+
+640
+00:34:36,990 --> 00:34:40,230
+tells the story in parts. Five parts,
+
+641
+00:34:40,330 --> 00:34:43,630
+six parts, whatever. Two parts. The
+
+642
+00:34:43,630 --> 00:34:45,530
+development rises to a climax when
+
+643
+00:34:45,530 --> 00:34:49,150
+this and this happens. The story is
+
+644
+00:34:49,150 --> 00:34:52,170
+organized in major events. Six,
+
+645
+00:34:52,330 --> 00:34:55,070
+seven, one, two. The story can be
+
+646
+00:34:55,070 --> 00:34:58,610
+divided into. The story has a
+
+647
+00:34:58,610 --> 00:35:03,950
+surprise ending. Ending, whatever.
+
+648
+00:35:32,390 --> 00:35:34,450
+and the event correlates with another
+
+649
+00:35:34,450 --> 00:35:38,170
+event. So, these are useful phrases
+
+650
+00:35:38,170 --> 00:35:43,050
+for the composition. That's it. Thank
+
+651
+00:35:43,050 --> 00:35:44,770
+you for listening. Do you have any
+
+652
+00:35:44,770 --> 00:35:47,970
+questions? Any questions, please
+
+653
+00:35:47,970 --> 00:35:50,750
+write in the chat box. If not, yeah,
+
+654
+00:35:50,790 --> 00:35:53,930
+thank you for listening. You can give
+
+655
+00:35:53,930 --> 00:35:57,110
+me feedback if you want. Yeah.
+
+656
+00:36:01,140 --> 00:36:06,520
+So, yes. I'm waiting for you to...
+
+657
+00:36:07,020 --> 00:36:09,940
+Ask some questions or give me
+
+658
+00:36:09,940 --> 00:36:10,340
+feedback.
+
+659
+00:36:14,300 --> 00:36:21,880
+Thank you, Linus. So, at 11 there's
+
+660
+00:36:21,880 --> 00:36:26,420
+another webinar with me. Another from
+
+661
+00:36:26,420 --> 00:36:31,220
+the English Abitur Reihe. And at 12
+
+662
+00:36:31,220 --> 00:36:34,260
+there's another one. So, there's one
+
+663
+00:36:34,260 --> 00:36:38,260
+at 11 and at 12. So, maybe we see
+
+664
+00:36:38,260 --> 00:36:40,980
+each other again. And thank you for
+
+665
+00:36:40,980 --> 00:36:45,220
+listening. So, if that's it, I would
+
+666
+00:36:45,220 --> 00:36:48,480
+stop the webinar. I would end it. And
+
+667
+00:36:48,480 --> 00:36:50,400
+I wish you good luck for your future
+
+668
+00:36:50,400 --> 00:36:53,080
+exams, for your A-Levels, whatever.
+
+669
+00:36:53,340 --> 00:36:55,200
+We see each other again, hopefully in
+
+670
+00:36:55,200 --> 00:36:58,180
+one or two hours. We'll see. Thank
+
+671
+00:36:58,180 --> 00:37:00,240
+you and bye. Have a nice day and good
+
+672
+00:37:00,240 --> 00:37:01,440
+luck. Ciao.
+

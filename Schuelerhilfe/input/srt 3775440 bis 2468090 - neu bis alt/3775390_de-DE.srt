@@ -1,0 +1,640 @@
+1
+00:00:04,080 --> 00:00:06,460
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,460 --> 00:00:07,560
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,560 --> 00:00:09,580
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,580 --> 00:00:10,620
+einen Einblick in das Thema
+
+5
+00:00:10,620 --> 00:00:12,820
+Homologerei und Nomenklatur geben.
+
+6
+00:00:13,540 --> 00:00:15,520
+Unter Nomenklatur versteht man in der
+
+7
+00:00:15,520 --> 00:00:17,220
+Chemie eine systematische und
+
+8
+00:00:17,220 --> 00:00:18,700
+international einheitliche
+
+9
+00:00:18,700 --> 00:00:21,440
+Namensgebung für chemische Stoffe. Zu
+
+10
+00:00:21,440 --> 00:00:23,300
+diesem Zweck wurde vor gut 100 Jahren
+
+11
+00:00:23,300 --> 00:00:26,180
+die IUPAC, die Internationale Union
+
+12
+00:00:26,180 --> 00:00:28,020
+für Reine und Angewandte Chemie,
+
+13
+00:00:28,040 --> 00:00:30,660
+gegründet. Ihren Regeln folgt die
+
+14
+00:00:30,660 --> 00:00:32,340
+globale chemische Nomenklatur.
+
+15
+00:00:32,560 --> 00:00:34,260
+Betrachten wir zu diesem Zweck
+
+16
+00:00:34,260 --> 00:00:36,540
+zunächst die Reihe der unverzweigten
+
+17
+00:00:36,540 --> 00:00:39,400
+N-Alkane. Alkane sind die einfachsten
+
+18
+00:00:39,400 --> 00:00:40,920
+Kohlenwasserstoffe und haben die
+
+19
+00:00:40,920 --> 00:00:44,120
+allgemeine Summenformel CnH2n plus 2.
+
+20
+00:00:44,840 --> 00:00:46,580
+Für N kann man natürliche Zahlen
+
+21
+00:00:46,580 --> 00:00:49,560
+einsetzen. Das erste und kleinste
+
+22
+00:00:49,560 --> 00:00:51,960
+Alkan ist Methan mit der Summformel
+
+23
+00:00:51,960 --> 00:00:54,920
+CH4 und der folgenden Strukturformel,
+
+24
+00:00:54,940 --> 00:00:58,780
+gefolgt von Ethan mit C2H6, Propan
+
+25
+00:00:58,780 --> 00:01:01,820
+mit C3H8 und Butan mit einer
+
+26
+00:01:01,820 --> 00:01:04,780
+zusätzlichen CH2-Gruppe. Jedes
+
+27
+00:01:04,780 --> 00:01:06,500
+weitere Glied der Reihe enthält eine
+
+28
+00:01:06,500 --> 00:01:09,440
+weitere CH2-Gruppe. Die Namen der
+
+29
+00:01:09,440 --> 00:01:11,580
+ersten zehn Alkane muss man auswendig
+
+30
+00:01:11,580 --> 00:01:13,280
+lernen, was jedoch durch die Tatsache
+
+31
+00:01:13,280 --> 00:01:14,620
+erleichtert wird, dass sich ab dem
+
+32
+00:01:14,620 --> 00:01:16,640
+fünften Alkan die Namen von den
+
+33
+00:01:16,640 --> 00:01:18,400
+griechischen Zählwörtern ableiten.
+
+34
+00:01:18,800 --> 00:01:21,240
+Den meisten dürfte das Pentagon mit
+
+35
+00:01:21,240 --> 00:01:23,600
+seinen Fünfecken oder die hexagonale
+
+36
+00:01:23,600 --> 00:01:25,720
+Struktur von Bienenwaben, also
+
+37
+00:01:25,720 --> 00:01:28,380
+sechseckig, bekannt sein. Hepta steht
+
+38
+00:01:28,380 --> 00:01:31,200
+für 7, Octa bereits durch die Octet
+
+39
+00:01:31,200 --> 00:01:34,780
+-Regel bekannt für die 8, Nona für 9
+
+40
+00:01:34,780 --> 00:01:37,880
+und Deca genutzt für die Dekade ein
+
+41
+00:01:37,880 --> 00:01:40,760
+Jahrzehnt, also für die 10. Die
+
+42
+00:01:40,760 --> 00:01:42,400
+weitere Benennung folgt dem System
+
+43
+00:01:42,400 --> 00:01:44,340
+der Nennung der einer Stelle, gefolgt
+
+44
+00:01:44,340 --> 00:01:47,080
+von der 10er Stelle. Also Undekan für
+
+45
+00:01:47,080 --> 00:01:51,020
+11, Dodekan für 12, Tridekan für 13,
+
+46
+00:01:51,260 --> 00:01:53,860
+gefolgt von Tetra- und Pentadekan.
+
+47
+00:01:53,860 --> 00:01:56,720
+Die 20 trägt den Namen Eikosan,
+
+48
+00:01:56,860 --> 00:01:59,580
+gefolgt von Heneikosan und Dokosan.
+
+49
+00:01:59,760 --> 00:02:01,620
+Das System der weiterführenden
+
+50
+00:02:01,620 --> 00:02:03,640
+Benennung ab Trikosan bleibt aber das
+
+51
+00:02:03,640 --> 00:02:06,280
+gleiche. Das C30-Alkan heißt
+
+52
+00:02:06,280 --> 00:02:10,040
+Trikontan, das C40-Alkan Tetrakontan
+
+53
+00:02:10,040 --> 00:02:14,620
+und das C50-Alkan Pentakontan. Analog
+
+54
+00:02:14,620 --> 00:02:16,780
+zur homologen Reihe der Alkane und
+
+55
+00:02:16,780 --> 00:02:18,660
+ihrer Nomenklatur funktioniert die
+
+56
+00:02:18,660 --> 00:02:20,700
+homologe Reihe der unverzweigten N
+
+57
+00:02:20,700 --> 00:02:22,780
+-Alkene. Alkene sind
+
+58
+00:02:22,780 --> 00:02:24,060
+Kohlenwasserstoffe mit einer
+
+59
+00:02:24,060 --> 00:02:25,720
+Doppelbindung und der allgemeinen
+
+60
+00:02:25,720 --> 00:02:29,420
+Formel CnH2n. Das kleinste Alkan mit
+
+61
+00:02:29,420 --> 00:02:32,740
+n ist gleich 2 ist Ethen, gefolgt von
+
+62
+00:02:32,740 --> 00:02:35,540
+Propen und Buten. Die Benennung der
+
+63
+00:02:35,540 --> 00:02:37,120
+Alkene unterscheidet sich von den
+
+64
+00:02:37,120 --> 00:02:39,720
+Alkanen in der Endung, bei der ein A
+
+65
+00:02:39,720 --> 00:02:42,600
+durch ein E ersetzt wird. Die 1 vor
+
+66
+00:02:42,600 --> 00:02:44,940
+der Endung zeigt an, an welchem
+
+67
+00:02:44,940 --> 00:02:47,000
+Kohlenstoffatom, also an welchem C
+
+68
+00:02:47,000 --> 00:02:48,680
+-Atom, sich die Doppelbindung
+
+69
+00:02:48,680 --> 00:02:51,180
+befindet und die Cs werden von der
+
+70
+00:02:51,180 --> 00:02:52,940
+Seite aus benannt, an der sich die
+
+71
+00:02:52,940 --> 00:02:54,840
+Doppelbindung befindet, sodass die
+
+72
+00:02:54,840 --> 00:02:57,820
+Zahl möglichst klein ist. Obwohl die
+
+73
+00:02:57,820 --> 00:02:59,580
+Cs bei Propenen so benannt werden
+
+74
+00:02:59,580 --> 00:03:03,780
+könnten, dass es Prop2en oder Prop3en
+
+75
+00:03:03,780 --> 00:03:06,340
+heißt, handelt es sich bei allen drei
+
+76
+00:03:06,340 --> 00:03:09,620
+Molekülnamen um dasselbe Molekül. Der
+
+77
+00:03:09,620 --> 00:03:11,500
+die Regeln anwendende korrekte Name
+
+78
+00:03:11,500 --> 00:03:14,980
+ist Prop1en oder einfach nur Propen.
+
+79
+00:03:15,640 --> 00:03:17,820
+Ab Buten wird dann die Zahl vor der
+
+80
+00:03:17,820 --> 00:03:19,460
+Endung relevant für die Struktur,
+
+81
+00:03:19,500 --> 00:03:20,840
+denn hier könnte sich die
+
+82
+00:03:20,840 --> 00:03:22,380
+Doppelbindung auch zwischen den
+
+83
+00:03:22,380 --> 00:03:25,580
+beiden mittleren Cs befinden. But2en
+
+84
+00:03:25,580 --> 00:03:28,080
+wäre ein Strukturisomer zum hier
+
+85
+00:03:28,080 --> 00:03:31,840
+abgebildeten But1en. Strukturisomere
+
+86
+00:03:31,840 --> 00:03:34,020
+haben trotz identischer Summformel
+
+87
+00:03:34,020 --> 00:03:36,440
+verschiedene Strukturen. Bei Alkenen
+
+88
+00:03:36,440 --> 00:03:37,860
+heißt das, dass sich die
+
+89
+00:03:37,860 --> 00:03:39,380
+Doppelbindungen an einer anderen
+
+90
+00:03:39,380 --> 00:03:41,280
+Stelle befinden. Die hier
+
+91
+00:03:41,280 --> 00:03:43,040
+dargestellte homologe Reihe der
+
+92
+00:03:43,040 --> 00:03:44,900
+Alkene trägt die Doppelbindung immer
+
+93
+00:03:44,900 --> 00:03:48,060
+an einem endständigen C. Zu den
+
+94
+00:03:48,060 --> 00:03:49,740
+Kohlenwasserstoffen gehören auch die
+
+95
+00:03:49,740 --> 00:03:51,660
+Alkene, die eine Dreifachbindung
+
+96
+00:03:51,660 --> 00:03:53,780
+haben und die generelle Summenformel
+
+97
+00:03:53,780 --> 00:04:00,280
+C2H2N-2 haben. Sie tragen die Endung
+
+98
+00:04:00,280 --> 00:04:02,180
+sowie die Nummer des Cs, an dem die
+
+99
+00:04:02,180 --> 00:04:04,060
+Dreifachbindung hängt, genauso wie
+
+100
+00:04:04,060 --> 00:04:06,340
+die Alkene. Ansonsten ändert sich
+
+101
+00:04:06,340 --> 00:04:08,080
+nichts am System der Benennung der
+
+102
+00:04:08,080 --> 00:04:09,780
+Glieder dieser homologen Reihe.
+
+103
+00:04:10,380 --> 00:04:12,400
+Abgesehen von den Kohlenwasserstoffen
+
+104
+00:04:12,400 --> 00:04:14,300
+gibt es auch weitere homologe Reihen
+
+105
+00:04:14,300 --> 00:04:15,840
+organischer Verbindungen, welche
+
+106
+00:04:15,840 --> 00:04:17,460
+zusätzlich zu den Elementen
+
+107
+00:04:17,460 --> 00:04:19,160
+Kohlenstoff und Wasserstoff aus
+
+108
+00:04:19,160 --> 00:04:21,060
+weiteren Elementen aufgebaut sind.
+
+109
+00:04:21,060 --> 00:04:23,180
+sind. Dazu gehören die
+
+110
+00:04:23,180 --> 00:04:25,420
+sauerstoffbeinhaltenden Alkohole mit
+
+111
+00:04:25,420 --> 00:04:28,320
+der allgemeinen Summenformel CnH2n
+
+112
+00:04:28,320 --> 00:04:33,120
+plus 2O oder auch CnH2n plus 1OH.
+
+113
+00:04:34,180 --> 00:04:36,480
+Alkohole tragen die Endung "-ol",
+
+114
+00:04:36,480 --> 00:04:38,660
+welche für die Hydroxylgruppe, also
+
+115
+00:04:38,660 --> 00:04:41,420
+der OH-Gruppe, steht. Der einfachste
+
+116
+00:04:41,420 --> 00:04:43,620
+Alkohol ist Methanol und giftig für
+
+117
+00:04:43,620 --> 00:04:46,600
+den Menschen. Der C2-Alkohol Ethanol
+
+118
+00:04:46,600 --> 00:04:48,340
+ist der uns aus dem Alltag bekannte
+
+119
+00:04:48,340 --> 00:04:49,900
+gewöhnliche Alkohol, der in
+
+120
+00:04:49,900 --> 00:04:51,500
+alkoholischen Getränken enthalten
+
+121
+00:04:51,500 --> 00:04:54,280
+ist. In der Homologenreihe folgen
+
+122
+00:04:54,280 --> 00:04:57,600
+Propanol, Butanol und Pentanol. Auch
+
+123
+00:04:57,600 --> 00:04:58,760
+hier sind nur die Alkohole
+
+124
+00:04:58,760 --> 00:04:59,820
+dargestellt, welche die
+
+125
+00:04:59,820 --> 00:05:01,820
+Hydroxylgruppe an einem endständigen
+
+126
+00:05:01,820 --> 00:05:04,340
+C tragen. Eine weitere Gruppe
+
+127
+00:05:04,340 --> 00:05:05,760
+organischer Verbindungen, die in
+
+128
+00:05:05,760 --> 00:05:07,240
+einer Homologenreihe dargestellt
+
+129
+00:05:07,240 --> 00:05:09,200
+werden können, sind die Alkansäuren
+
+130
+00:05:09,200 --> 00:05:12,140
+bzw. Karbonsäuren mit der generellen
+
+131
+00:05:12,140 --> 00:05:17,220
+Summenformel CnH2n plus 1COOH. Diese
+
+132
+00:05:17,220 --> 00:05:19,220
+bestehen aus einer Carboxylgruppe,
+
+133
+00:05:19,220 --> 00:05:22,040
+das ist die COOH-Gruppe, sowie einem
+
+134
+00:05:22,040 --> 00:05:24,320
+Alkylrest bzw. im Fall von
+
+135
+00:05:24,320 --> 00:05:27,060
+Methansäure nur einem Wasserstoff. In
+
+136
+00:05:27,060 --> 00:05:28,540
+der generellen Summenformel von
+
+137
+00:05:28,540 --> 00:05:30,860
+Carbonsäuren können wir für n die
+
+138
+00:05:30,860 --> 00:05:33,120
+natürlichen Zahlen ab 0 einsetzen.
+
+139
+00:05:33,320 --> 00:05:35,920
+Die einfachste Carbonsäure ist somit
+
+140
+00:05:35,920 --> 00:05:38,980
+Methansäure mit der Formel HCOOH und
+
+141
+00:05:38,980 --> 00:05:42,970
+folgender Strukturformel. Die
+
+142
+00:05:42,970 --> 00:05:44,770
+nächsten Vertreter dieser homologen
+
+143
+00:05:44,770 --> 00:05:46,870
+Reihe sind Ethan-Säure, auch unter
+
+144
+00:05:46,870 --> 00:05:48,230
+dem Namen Essigsäure bekannt,
+
+145
+00:05:48,730 --> 00:05:52,190
+Propansäure und Butansäure. In dieser
+
+146
+00:05:52,190 --> 00:05:53,770
+homologen Reihe befindet sich die
+
+147
+00:05:53,770 --> 00:05:55,350
+funktionelle Gruppe erneut am
+
+148
+00:05:55,350 --> 00:05:57,350
+endständigen C, erkennbar am
+
+149
+00:05:57,350 --> 00:05:59,450
+Buchstaben N vor dem Molekülnamen.
+
+150
+00:06:00,850 --> 00:06:03,090
+Das N zeigt an, dass es sich um einen
+
+151
+00:06:03,090 --> 00:06:04,890
+unverzweigten Alkylrest handelt.
+
+152
+00:06:04,890 --> 00:06:07,110
+Verzweigte Alkylreste tragen den
+
+153
+00:06:07,110 --> 00:06:10,670
+Präfix ISO bzw. die Zahl des Cs, an
+
+154
+00:06:10,670 --> 00:06:12,390
+dem sich eine weitere Alkylgruppe
+
+155
+00:06:12,390 --> 00:06:14,410
+befindet. Vielen Dank für deine
+
+156
+00:06:14,410 --> 00:06:16,190
+Aufmerksamkeit. Ich hoffe, dieses
+
+157
+00:06:16,190 --> 00:06:17,790
+Video konnte dir zu einem besseren
+
+158
+00:06:17,790 --> 00:06:19,670
+Verständnis des Themas Homologerei
+
+159
+00:06:19,670 --> 00:06:22,150
+und Nomenklatur verhelfen. Bis zum
+
+160
+00:06:22,150 --> 00:06:22,690
+nächsten Mal!
+

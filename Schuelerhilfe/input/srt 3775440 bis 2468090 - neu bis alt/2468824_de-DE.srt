@@ -1,0 +1,2388 @@
+1
+00:00:00,430 --> 00:00:02,430
+Also ein einfaches Ja oder Nein würde
+
+2
+00:00:02,430 --> 00:00:04,930
+mir schon erstmal genügen. Okay, sehr
+
+3
+00:00:04,930 --> 00:00:08,410
+gut. Also mein Name ist Sarah
+
+4
+00:00:08,410 --> 00:00:10,750
+Fischer. Ich werde heute das Webinar
+
+5
+00:00:10,750 --> 00:00:13,630
+halten. Sicherlich kennst du schon
+
+6
+00:00:13,630 --> 00:00:15,350
+einige satzwertige Konstruktionen,
+
+7
+00:00:15,350 --> 00:00:17,730
+aber ich kann dir direkt sagen, dass
+
+8
+00:00:17,730 --> 00:00:19,130
+es ein bisschen anspruchsvolleres
+
+9
+00:00:19,130 --> 00:00:22,970
+Webinar ist. Ich versuche langsam und
+
+10
+00:00:22,970 --> 00:00:24,490
+deutlich zu reden und zu erklären,
+
+11
+00:00:25,010 --> 00:00:26,990
+aber gerne Fragen notieren und am
+
+12
+00:00:26,990 --> 00:00:28,190
+Ende können wir nochmal Fragen
+
+13
+00:00:28,190 --> 00:00:33,010
+klären. Gut, die Gliederung für heute
+
+14
+00:00:33,010 --> 00:00:35,130
+besteht darin, dass wir uns zuerst
+
+15
+00:00:35,130 --> 00:00:37,830
+den ACI angucken, dann das PC und
+
+16
+00:00:37,830 --> 00:00:40,710
+dann den Abel Apps. Wir gucken uns
+
+17
+00:00:40,710 --> 00:00:42,710
+dabei immer die Satzgliedstellung an,
+
+18
+00:00:42,910 --> 00:00:44,210
+die Bildung und die
+
+19
+00:00:44,210 --> 00:00:45,450
+Übersetzungsmöglichkeiten.
+
+20
+00:00:48,980 --> 00:00:52,320
+So, wir beginnen mit dem ACI in Lang
+
+21
+00:00:52,320 --> 00:00:55,460
+auch Accusativos Cum Infinitivo, den
+
+22
+00:00:55,460 --> 00:00:56,740
+du sicher kennst, denn das ist
+
+23
+00:00:56,740 --> 00:00:58,680
+meistens die erste satzwertige
+
+24
+00:00:58,680 --> 00:01:00,360
+Konstruktion, die man im Lateinischen
+
+25
+00:01:00,360 --> 00:01:04,910
+lernt. Der ACI kann als Subjekt oder
+
+26
+00:01:04,910 --> 00:01:06,510
+als Objekt in einem Satz zu finden
+
+27
+00:01:06,510 --> 00:01:09,690
+sein. Dann habe ich ja gerade schon
+
+28
+00:01:09,690 --> 00:01:10,550
+gesagt, das ist die erste
+
+29
+00:01:10,550 --> 00:01:12,010
+Satzwertekonstruktion, die man
+
+30
+00:01:12,010 --> 00:01:13,210
+eigentlich im Literalunterricht
+
+31
+00:01:13,210 --> 00:01:15,290
+lernt. Und das bedeutet, dass es ein
+
+32
+00:01:15,290 --> 00:01:18,870
+eigenständiger Aussagesatz ist. Ein
+
+33
+00:01:18,870 --> 00:01:20,690
+ACI ist immer abhängig von dem
+
+34
+00:01:20,690 --> 00:01:22,510
+Prädikat und wird bestimmt von dem
+
+35
+00:01:22,510 --> 00:01:25,430
+Subjekt. Durch Prädikat und Subjekt
+
+36
+00:01:25,430 --> 00:01:28,670
+wird dann der ACI herleitbar oder
+
+37
+00:01:28,670 --> 00:01:29,530
+durchstellbar.
+
+38
+00:01:31,850 --> 00:01:34,610
+So, also der ACI kann sowohl als
+
+39
+00:01:34,610 --> 00:01:36,210
+Objekt als auch als Subjekt stehen.
+
+40
+00:01:36,680 --> 00:01:38,810
+Er steht als Objekt, wenn er
+
+41
+00:01:38,810 --> 00:01:40,110
+eingeleitet wird mit
+
+42
+00:01:40,110 --> 00:01:42,890
+Wahrnehmungsverben, Äußerungsverben
+
+43
+00:01:42,890 --> 00:01:45,810
+oder Wissensverben. Beispielsweise
+
+44
+00:01:45,810 --> 00:01:49,230
+hier, widere, also sehen, diekere,
+
+45
+00:01:49,310 --> 00:01:51,210
+sprechen und so weiter. Pensare,
+
+46
+00:01:51,350 --> 00:01:54,210
+skire, jubere, sentire, narare,
+
+47
+00:01:54,330 --> 00:01:56,650
+sperare. Das sind
+
+48
+00:01:56,650 --> 00:01:58,490
+Wahrnehmungsverbungen bzw. Äußerungs-
+
+49
+00:01:58,490 --> 00:02:00,710
+und Wissensverben. und damit wird ein
+
+50
+00:02:00,710 --> 00:02:02,750
+ACI eingeleitet, der halt eben ein
+
+51
+00:02:02,750 --> 00:02:05,270
+Objekt ist. Bei unpersönlichen
+
+52
+00:02:05,270 --> 00:02:07,570
+Ausdrücken steht der ACI hingegen als
+
+53
+00:02:07,570 --> 00:02:10,170
+Subjekt. Zum Beispiel triste ist,
+
+54
+00:02:10,470 --> 00:02:14,090
+verisimile ist, konstat, zum
+
+55
+00:02:14,090 --> 00:02:17,090
+Beispiel, es steht fest, apportet,
+
+56
+00:02:17,110 --> 00:02:21,530
+liket, libet, apparet, diket. Genau.
+
+57
+00:02:22,350 --> 00:02:26,910
+So. Ein ACI erweitert das Objekt bzw.
+
+58
+00:02:27,230 --> 00:02:28,410
+das Subjekt mit einem ganz...
+
+59
+00:02:28,430 --> 00:02:31,650
+kompletten Satz. Deswegen satzwertige
+
+60
+00:02:31,650 --> 00:02:34,110
+Konstruktion. Die generellen
+
+61
+00:02:34,110 --> 00:02:37,130
+Kennzeichen eines ACIs sind natürlich
+
+62
+00:02:37,130 --> 00:02:40,310
+der Akkusativ, wegen Akkusativus und
+
+63
+00:02:40,310 --> 00:02:42,530
+Infinitivo, also ein Verb im
+
+64
+00:02:42,530 --> 00:02:43,250
+Infinitiv.
+
+65
+00:02:46,430 --> 00:02:48,590
+So, ich weiß erstmal über
+
+66
+00:02:48,590 --> 00:02:50,530
+unübersichtliche Folie, wir fangen
+
+67
+00:02:50,530 --> 00:02:52,470
+einfach links an und wir werden das
+
+68
+00:02:52,470 --> 00:02:54,550
+ganz logisch und langsam hoffentlich
+
+69
+00:02:54,550 --> 00:02:57,530
+und verständlich durchschauen. Wir
+
+70
+00:02:57,530 --> 00:02:58,410
+schauen uns Bildung und
+
+71
+00:02:58,410 --> 00:02:59,970
+Übersetzungsmöglichkeiten vom ACI an.
+
+72
+00:02:59,990 --> 00:03:04,830
+ACI an. Man erkennt ein ACI, indem es
+
+73
+00:03:04,830 --> 00:03:06,670
+einen einleitenden Subjektakkusativ
+
+74
+00:03:06,670 --> 00:03:09,670
+gibt und ein infinites Verb. Quatsch,
+
+75
+00:03:09,670 --> 00:03:11,550
+kein infinites, ein Verb im
+
+76
+00:03:11,550 --> 00:03:15,250
+Infinitiv, Entschuldigung. So, alle
+
+77
+00:03:15,250 --> 00:03:17,310
+weiteren Satzglieder, die zwischen
+
+78
+00:03:17,310 --> 00:03:19,630
+dem einleitenden Akkusativ und dem
+
+79
+00:03:19,630 --> 00:03:23,090
+Infinitiv stehen, gehören zum ACI.
+
+80
+00:03:24,250 --> 00:03:26,410
+Man kann den ACI auf verschiedene
+
+81
+00:03:26,410 --> 00:03:28,250
+Weisen übersetzen, zum Beispiel als
+
+82
+00:03:28,250 --> 00:03:30,910
+Teil des Haupt- Hauptsatzes. Senator
+
+83
+00:03:30,910 --> 00:03:36,390
+Milites in viis introire videt. Der
+
+84
+00:03:36,390 --> 00:03:38,270
+Senator sieht die Soldaten auf den
+
+85
+00:03:38,270 --> 00:03:42,190
+Straßen einmaschen. So, in dem Falle,
+
+86
+00:03:42,190 --> 00:03:43,690
+ne, hat man den Hauptsatz genommen,
+
+87
+00:03:43,910 --> 00:03:46,690
+das orangene, Senator videt, was
+
+88
+00:03:46,690 --> 00:03:49,710
+heißt, der Senator sieht. Und dann
+
+89
+00:03:49,710 --> 00:03:53,110
+der in ACI, Milites in viis introire,
+
+90
+00:03:53,270 --> 00:03:55,590
+ja, hat man in den Hauptsatz
+
+91
+00:03:55,590 --> 00:03:57,270
+eingebaut. Hier ist kein Nebensatz
+
+92
+00:03:57,270 --> 00:03:58,850
+vorhanden. Einfach einen Hauptsatz,
+
+93
+00:03:58,890 --> 00:04:03,930
+wo der ACI drin ist. So, jetzt kommen
+
+94
+00:04:03,930 --> 00:04:07,090
+wir zur zweiten Möglichkeit. Und zwar
+
+95
+00:04:07,090 --> 00:04:08,290
+kann der ACI nämlich auch als
+
+96
+00:04:08,290 --> 00:04:10,850
+Nebensatz verstanden werden. In dem
+
+97
+00:04:10,850 --> 00:04:13,870
+Falle wird der Akkusativ zum Subjekt
+
+98
+00:04:13,870 --> 00:04:15,030
+gemacht. Das nennt sich
+
+99
+00:04:15,030 --> 00:04:17,530
+Subjektsakkusativ, während der
+
+100
+00:04:17,530 --> 00:04:19,930
+Infinitiv zum Prädikat vom Nebensatz
+
+101
+00:04:19,930 --> 00:04:23,130
+wird. In dem Falle wird der ACI im
+
+102
+00:04:23,130 --> 00:04:25,430
+Deutschen mit der Subjunktion das
+
+103
+00:04:25,430 --> 00:04:26,150
+eingeleitet.
+
+104
+00:04:37,190 --> 00:04:39,230
+Ich möchte hier ganz wichtig dazu
+
+105
+00:04:39,230 --> 00:04:42,130
+sagen, dass häufig in dem Schullatein
+
+106
+00:04:42,130 --> 00:04:45,010
+eigentlich primär die
+
+107
+00:04:45,010 --> 00:04:47,530
+Nebensatzkonstruktionen besteht, also
+
+108
+00:04:47,530 --> 00:04:48,930
+das Letzte, in dem man den Aci
+
+109
+00:04:48,930 --> 00:04:50,850
+eigentlich immer oder häufig mit
+
+110
+00:04:50,850 --> 00:04:52,850
+Komma das im Nebensatz übersetzt.
+
+111
+00:04:52,850 --> 00:04:57,370
+Deswegen empfehle ich, sich das zu
+
+112
+00:04:57,370 --> 00:05:02,080
+verinnerlichen. Okay. Der Infinitiv
+
+113
+00:05:02,080 --> 00:05:03,960
+von einem ACI gibt immer die
+
+114
+00:05:03,960 --> 00:05:06,200
+entsprechende Zeit des Nebensatzes
+
+115
+00:05:06,200 --> 00:05:08,500
+an. Dadurch entsteht ein
+
+116
+00:05:08,500 --> 00:05:10,600
+verschiedenes Zeitverhältnis zwischen
+
+117
+00:05:10,600 --> 00:05:14,680
+Hauptsatz und Nebensatz. Es geht dann
+
+118
+00:05:14,680 --> 00:05:16,340
+um Gleichzeitigkeit, Vorzeitigkeit
+
+119
+00:05:16,340 --> 00:05:19,640
+oder Nachzeitigkeit. Wenn der
+
+120
+00:05:19,640 --> 00:05:24,160
+Infinitiv im ACI im Präsens steht,
+
+121
+00:05:24,340 --> 00:05:25,940
+dann wird Gleichzeitigkeit zum
+
+122
+00:05:25,940 --> 00:05:26,980
+Hauptsatz ausgedrückt.
+
+123
+00:05:32,500 --> 00:05:35,100
+Petere ist Infinitiv Präsens und dann
+
+124
+00:05:35,100 --> 00:05:36,920
+weiß man direkt, okay, das ist
+
+125
+00:05:36,920 --> 00:05:38,940
+Gleichzeitigkeit. Das heißt, ich muss
+
+126
+00:05:38,940 --> 00:05:40,640
+es auch so übersetzen, als wäre das
+
+127
+00:05:40,640 --> 00:05:42,120
+in der gleichen Zeitebene passiert.
+
+128
+00:05:43,120 --> 00:05:45,820
+Der Feldherr weiß, dass die Römer das
+
+129
+00:05:45,820 --> 00:05:48,720
+Lager an... angreifen. Wenn man das
+
+130
+00:05:48,720 --> 00:05:50,220
+jetzt hier so klar sieht, ist es ganz
+
+131
+00:05:50,220 --> 00:05:52,040
+offensichtlich, aber in diesem Falle
+
+132
+00:05:52,040 --> 00:05:53,400
+wäre es halt höchst falsch zu sagen,
+
+133
+00:05:53,580 --> 00:05:55,440
+der Feldherr weiß, dass die Römer das
+
+134
+00:05:55,440 --> 00:05:58,220
+Lager angegriffen haben oder
+
+135
+00:05:58,220 --> 00:06:00,600
+angreifen werden. Völlig falsch und
+
+136
+00:06:00,600 --> 00:06:02,520
+wirklich, es ist ja ein Fehler und
+
+137
+00:06:02,520 --> 00:06:04,360
+wenn sich solche Fehler häufen, führt
+
+138
+00:06:04,360 --> 00:06:05,600
+es halt eben zu einer schlechten Not.
+
+139
+00:06:05,660 --> 00:06:07,320
+Deswegen immer wichtig, auf das
+
+140
+00:06:07,320 --> 00:06:10,460
+Zeitverhältnis schauen. Dann, wenn
+
+141
+00:06:10,460 --> 00:06:12,580
+der Infinitiv im Perfekt steht, wird
+
+142
+00:06:12,580 --> 00:06:14,180
+Vorzeitigkeit zum Hauptsatz
+
+143
+00:06:14,180 --> 00:06:16,500
+ausgedrückt, was man dann eben auch
+
+144
+00:06:16,500 --> 00:06:19,260
+bei der Übersetzung beachten muss.
+
+145
+00:06:19,960 --> 00:06:23,000
+Imperator Milites Castra Petivissus
+
+146
+00:06:23,000 --> 00:06:26,280
+geht. Petivisse, ah ja, Infinitiv
+
+147
+00:06:26,280 --> 00:06:28,840
+Perfekt. Der Feldherr weiß, dass die
+
+148
+00:06:28,840 --> 00:06:30,800
+Soldaten das Lager angegriffen haben.
+
+149
+00:06:31,460 --> 00:06:33,780
+Vorzeitigkeit bedeutet, dass der
+
+150
+00:06:33,780 --> 00:06:36,420
+Vorgang im Nebensatz schon passiert
+
+151
+00:06:36,420 --> 00:06:39,140
+ist. also in der Vergangenheit liegt,
+
+152
+00:06:39,280 --> 00:06:41,140
+während wir gerade im Präsent sind.
+
+153
+00:06:41,320 --> 00:06:43,640
+Deswegen heißt das Vorzeitigkeit. Ich
+
+154
+00:06:43,640 --> 00:06:45,040
+weiß, manchmal verwechselt man das
+
+155
+00:06:45,040 --> 00:06:47,140
+ein bisschen mit Nachzeitigkeit, aber
+
+156
+00:06:47,140 --> 00:06:49,280
+genau, Nachzeitigkeit ist halt eben
+
+157
+00:06:49,280 --> 00:06:52,600
+Futur. Das gucken wir uns nämlich
+
+158
+00:06:52,600 --> 00:06:54,480
+jetzt an, wenn nämlich der Infinitiv
+
+159
+00:06:54,480 --> 00:06:56,320
+im Azi im Futur steht, wird die
+
+160
+00:06:56,320 --> 00:06:59,340
+Nachzeitigkeit ausgedrückt. Imperator
+
+161
+00:06:59,340 --> 00:07:03,060
+Milites Castra Petiturum esse. Ja,
+
+162
+00:07:03,080 --> 00:07:05,280
+das ist der Infinitiv Futur. Der
+
+163
+00:07:05,280 --> 00:07:06,860
+Feldherr weiß, dass die Soldaten das
+
+164
+00:07:06,860 --> 00:07:10,520
+Lager angreifen werden. Und wir
+
+165
+00:07:10,520 --> 00:07:12,380
+sehen, ach so, das ist Zukunft, das
+
+166
+00:07:12,380 --> 00:07:14,340
+heißt, es ist nachzeitig, es
+
+167
+00:07:14,340 --> 00:07:16,280
+geschieht nach unserem Hauptsatz.
+
+168
+00:07:16,420 --> 00:07:18,620
+Deswegen benutzen wir Futur, um das
+
+169
+00:07:18,620 --> 00:07:20,640
+auszudrücken, dass es noch passieren
+
+170
+00:07:20,640 --> 00:07:23,800
+wird. Ich weiß, es ist ein bisschen
+
+171
+00:07:23,800 --> 00:07:25,220
+verwirrend, aber eigentlich ist es
+
+172
+00:07:25,220 --> 00:07:26,920
+logisch. Und genau, wir können am
+
+173
+00:07:26,920 --> 00:07:28,320
+Ende gerne nochmal darauf eingehen.
+
+174
+00:07:29,560 --> 00:07:31,240
+Es geht eigentlich nur, dass man das
+
+175
+00:07:31,240 --> 00:07:32,820
+Zeitverhältnis richtig darstellt. und
+
+176
+00:07:32,820 --> 00:07:34,560
+da halt eben keine Fehler einzufüßen.
+
+177
+00:07:37,480 --> 00:07:39,340
+So, wir schauen uns noch weitere
+
+178
+00:07:39,340 --> 00:07:41,800
+Übersetzungsmöglichkeiten an. Da es
+
+179
+00:07:41,800 --> 00:07:43,360
+eine besondere Regel gibt bei der
+
+180
+00:07:43,360 --> 00:07:46,760
+Verwendung von Pronomina im ACI.
+
+181
+00:07:49,000 --> 00:07:50,560
+Reflexivpronomen, auf Deutsch
+
+182
+00:07:50,560 --> 00:07:52,600
+rückbezügliche Fürwörter, wir
+
+183
+00:07:52,600 --> 00:07:53,860
+brauchen nicht das deutsche Wort, wir
+
+184
+00:07:53,860 --> 00:07:56,440
+benutzen Reflexivpronomen, beziehen
+
+185
+00:07:56,440 --> 00:07:58,220
+sich eigentlich immer oder meistens
+
+186
+00:07:58,220 --> 00:08:01,900
+auf das Subjektumsatz. Wenn der
+
+187
+00:08:01,900 --> 00:08:04,760
+Subjektsakkusativ, wir erinnern uns,
+
+188
+00:08:04,760 --> 00:08:06,120
+hatten wir eben besprochen, das ist
+
+189
+00:08:06,120 --> 00:08:10,400
+der Akkusativ im ACI, der zum Subjekt
+
+190
+00:08:10,400 --> 00:08:12,980
+gemacht wird im Nebensatz. Wenn
+
+191
+00:08:12,980 --> 00:08:14,900
+dieser Subjektsakkusativ und das
+
+192
+00:08:14,900 --> 00:08:16,820
+eigentliche Subjekt identisch sind,
+
+193
+00:08:17,020 --> 00:08:20,560
+dann steht SE als Reflexivpronomen.
+
+194
+00:08:28,540 --> 00:08:31,280
+Die Senatoren glaubten, dass sie
+
+195
+00:08:31,280 --> 00:08:33,880
+selbst gute Politiker seien. Hier
+
+196
+00:08:33,880 --> 00:08:35,480
+siehst du im Grünen, wie sie
+
+197
+00:08:35,480 --> 00:08:37,760
+übersetzt wurde, mit sie selbst, also
+
+198
+00:08:37,760 --> 00:08:42,040
+reflexiv, auf Subjekt bezogen. Genau.
+
+199
+00:08:43,310 --> 00:08:46,420
+Wenn sich das Pronomen entweder auf
+
+200
+00:08:46,420 --> 00:08:47,840
+das Subjekt oder auf den
+
+201
+00:08:47,840 --> 00:08:50,320
+Subjektsakkusativ bezieht, dann steht
+
+202
+00:08:50,320 --> 00:08:52,120
+das Pronomen im Dativ, also nicht
+
+203
+00:08:52,120 --> 00:08:56,020
+mehr sie, das reflexive Pronomen, im
+
+204
+00:08:56,020 --> 00:08:58,200
+Subjekt, sondern in Dativ.
+
+205
+00:09:05,090 --> 00:09:06,500
+Ich weiß,
+
+206
+00:09:11,420 --> 00:09:12,640
+es ist ein bisschen komplizierter,
+
+207
+00:09:13,530 --> 00:09:19,500
+aber es bezieht sich auf Gatte.
+
+208
+00:09:20,560 --> 00:09:24,900
+Maritum. Die indirekte Rede, also
+
+209
+00:09:24,900 --> 00:09:27,780
+Oratio, Obnika wird im Lateinischen
+
+210
+00:09:27,780 --> 00:09:29,360
+auch durch den ACI wiedergegeben.
+
+211
+00:09:30,580 --> 00:09:33,680
+Wenn vom Dritten, also wenn von
+
+212
+00:09:33,680 --> 00:09:36,200
+anderen Personen etwas Geäußertes ins
+
+213
+00:09:36,200 --> 00:09:37,820
+Deutsche übersetzt wird, wird es mit
+
+214
+00:09:37,820 --> 00:09:40,160
+Konjunktiv wiedergegeben. Zum
+
+215
+00:09:40,160 --> 00:09:43,260
+Beispiel. Lucius kribbelt. Lukas
+
+216
+00:09:43,260 --> 00:09:46,300
+schreibt. Wäre ich vorsichtig, ich
+
+217
+00:09:46,300 --> 00:09:47,820
+würde, man kann dann auch den
+
+218
+00:09:47,820 --> 00:09:49,920
+lateinischen Namen nehmen. Das muss
+
+219
+00:09:49,920 --> 00:09:50,640
+man immer mit seinem Lehrer
+
+220
+00:09:50,640 --> 00:09:53,120
+absprechen. Also Lucius schreibt.
+
+221
+00:09:53,120 --> 00:09:59,110
+dass das Fest schön sei, dass das
+
+222
+00:09:59,110 --> 00:10:01,150
+Fest schön gewesen sei, dass das Fest
+
+223
+00:10:01,150 --> 00:10:04,250
+schön sein werde. Ja, hier kann man
+
+224
+00:10:04,250 --> 00:10:05,870
+sehen, das ist indirekte Rede,
+
+225
+00:10:05,970 --> 00:10:07,630
+deswegen geben wir es im Deutschen im
+
+226
+00:10:07,630 --> 00:10:10,330
+Konjunktiv wieder und orientieren uns
+
+227
+00:10:10,330 --> 00:10:11,890
+hierbei an der Zeit, da es einmal
+
+228
+00:10:11,890 --> 00:10:14,750
+Infinitivpräsens ist, übersetzen wir
+
+229
+00:10:14,750 --> 00:10:17,130
+es auch gleichzeitig, dann gibt es
+
+230
+00:10:17,130 --> 00:10:20,450
+den Infinitivperfekt, fuisse, dann
+
+231
+00:10:20,450 --> 00:10:22,330
+übersetzen wir es vorzeitig und dann
+
+232
+00:10:22,330 --> 00:10:25,970
+den Infinitivfuisse. Futurum esse und
+
+233
+00:10:25,970 --> 00:10:29,070
+dann benutzen wir eben die
+
+234
+00:10:29,070 --> 00:10:30,030
+Nachzeitigkeit.
+
+235
+00:10:32,940 --> 00:10:36,360
+So, großer Block ACI. Vielleicht
+
+236
+00:10:36,360 --> 00:10:37,940
+machen wir es so, hast du bisher
+
+237
+00:10:37,940 --> 00:10:40,620
+Fragen zum ACI? Sonst würden wir den
+
+238
+00:10:40,620 --> 00:10:42,020
+Block vielleicht zu Ende besprechen,
+
+239
+00:10:42,020 --> 00:10:43,160
+bevor ich jetzt mit dem nächsten
+
+240
+00:10:43,160 --> 00:10:43,740
+loslege.
+
+241
+00:10:55,680 --> 00:10:57,740
+Sophia? Oder soll ich einfach
+
+242
+00:10:57,740 --> 00:10:58,360
+weitermachen?
+
+243
+00:11:14,360 --> 00:11:16,860
+Nee, du hast keinen Zugriff auf die
+
+244
+00:11:16,860 --> 00:11:19,580
+Präsentation. Ich kann das nachher
+
+245
+00:11:19,580 --> 00:11:22,260
+nochmal aufrufen. Um die Übersichten,
+
+246
+00:11:22,300 --> 00:11:23,100
+dass du das zum Beispiel
+
+247
+00:11:23,100 --> 00:11:24,920
+abfotografieren könntest oder
+
+248
+00:11:24,920 --> 00:11:27,380
+abschreiben könntest. Das können wir
+
+249
+00:11:27,380 --> 00:11:29,820
+so machen. Genau.
+
+250
+00:11:32,580 --> 00:11:34,440
+Okay, gut. Also soll ich schon mal
+
+251
+00:11:34,440 --> 00:11:35,460
+weitermachen mit dem PC?
+
+252
+00:11:40,390 --> 00:11:43,950
+Okay, alles klar. Also Partizipium
+
+253
+00:11:43,950 --> 00:11:48,290
+Konjunktum, auch PC genannt, wird
+
+254
+00:11:48,290 --> 00:11:50,890
+gebildet entweder aus dem PPA, aus
+
+255
+00:11:50,890 --> 00:11:55,450
+dem PPP oder aus dem PFA. PC, also
+
+256
+00:11:55,450 --> 00:11:57,550
+das Partizipium Conjunctum, kann
+
+257
+00:11:57,550 --> 00:11:59,890
+ebenfalls wie der ACI auch als
+
+258
+00:11:59,890 --> 00:12:01,570
+satzwertige Konstruktion übersetzt
+
+259
+00:12:01,570 --> 00:12:06,570
+werden. Wir schauen uns kurz an, wie
+
+260
+00:12:06,570 --> 00:12:08,610
+das PC als Attribut übersetzt wird
+
+261
+00:12:08,610 --> 00:12:12,830
+oder angesehen wird. Generell ist ein
+
+262
+00:12:12,830 --> 00:12:15,730
+PC halt ein Attribut. Partizipien
+
+263
+00:12:15,730 --> 00:12:18,190
+sind als Adjektiv oder Attribut
+
+264
+00:12:18,190 --> 00:12:20,310
+funktionierende Verben. und das PC
+
+265
+00:12:20,310 --> 00:12:21,970
+hat dann einen direkten Bezug zum
+
+266
+00:12:21,970 --> 00:12:23,870
+Subjekt oder zum Objekt vom Satz.
+
+267
+00:12:24,370 --> 00:12:26,410
+Deswegen ist auch wichtig, die KNG
+
+268
+00:12:26,410 --> 00:12:26,950
+-Kongruenz.
+
+269
+00:12:29,840 --> 00:12:31,780
+Genau, Casus Numerus Genus, falls es
+
+270
+00:12:31,780 --> 00:12:34,960
+unklar war. Das Partizipium Communcum
+
+271
+00:12:34,960 --> 00:12:40,500
+adverbiale wird verwendet, oder es
+
+272
+00:12:40,500 --> 00:12:42,020
+ist eine Adverbiale, wenn man es als
+
+273
+00:12:42,020 --> 00:12:43,600
+satwärtsige Konstruktion übersetzt.
+
+274
+00:12:44,080 --> 00:12:45,300
+Dann kann man mehrere
+
+275
+00:12:45,300 --> 00:12:47,640
+Übersetzungsmöglichkeiten prüfen. und
+
+276
+00:12:47,640 --> 00:12:49,920
+dann muss man aber, dann bei diesen
+
+277
+00:12:49,920 --> 00:12:51,140
+Übersetzungsmöglichkeiten geht es
+
+278
+00:12:51,140 --> 00:12:52,100
+eigentlich nur darum, dass man den
+
+279
+00:12:52,100 --> 00:12:53,760
+richtigen Sinn übersetzt. Dass man
+
+280
+00:12:53,760 --> 00:12:56,440
+nicht denkt, okay, egal, ich
+
+281
+00:12:56,440 --> 00:12:58,120
+übersetze es einfach kausal. Da
+
+282
+00:12:58,120 --> 00:13:01,800
+schaut man auf den Kontext. Genau.
+
+283
+00:13:03,440 --> 00:13:04,320
+So. Bildung und
+
+284
+00:13:05,200 --> 00:13:07,160
+Übersetzungsmöglichkeiten. Das hatten
+
+285
+00:13:07,160 --> 00:13:09,340
+wir ja gerade, ne, aus dem PPP, PPA
+
+286
+00:13:09,340 --> 00:13:11,060
+und dem PFA kann man das Das
+
+287
+00:13:11,060 --> 00:13:15,400
+Partizipiumkonjunktum bilden. Das PPP
+
+288
+00:13:15,400 --> 00:13:18,980
+hat den Charakter der Vergangenheit,
+
+289
+00:13:18,980 --> 00:13:20,920
+also das Partizip Perfekt Passiv.
+
+290
+00:13:22,640 --> 00:13:25,180
+Vergangenheit Perfekt, die Handlung
+
+291
+00:13:25,180 --> 00:13:27,580
+wurde absolviert, ist Passiv und
+
+292
+00:13:27,580 --> 00:13:31,520
+deswegen ist das PPP immer vorzeitig.
+
+293
+00:13:31,960 --> 00:13:34,180
+Wichtig, damit man keinen
+
+294
+00:13:34,180 --> 00:13:37,660
+Übersetzungsfehler macht. Das TPP
+
+295
+00:13:37,660 --> 00:13:39,180
+wird aus der dritten Verbform
+
+296
+00:13:39,180 --> 00:13:41,460
+gebildet und ist meistens mit US oder
+
+297
+00:13:41,460 --> 00:13:44,720
+A oder UM. Das ist diese dritte Form,
+
+298
+00:13:44,800 --> 00:13:47,140
+die man mitlernt. Laudatus oder
+
+299
+00:13:47,140 --> 00:13:50,340
+Bocatus, Dictus, Dictum und so
+
+300
+00:13:50,340 --> 00:13:52,660
+weiter. Man kann diese Endung immer
+
+301
+00:13:52,660 --> 00:13:55,140
+durchdeklinieren und dann hat eben,
+
+302
+00:13:56,020 --> 00:13:58,000
+halt wie ein normales Nomen wird das
+
+303
+00:13:58,000 --> 00:13:59,280
+durchdekliniert und hat dann die
+
+304
+00:13:59,280 --> 00:14:01,340
+entsprechende Personenendung. Zum
+
+305
+00:14:01,340 --> 00:14:04,600
+Beispiel Markus, Laudatus, Domum,
+
+306
+00:14:04,600 --> 00:14:07,400
+Properat, der gerufene Markus eilt
+
+307
+00:14:07,400 --> 00:14:11,860
+nach Hause. Das ist jetzt mal für das
+
+308
+00:14:11,860 --> 00:14:17,200
+PPP. Das PPA, also Partizipräsent
+
+309
+00:14:17,200 --> 00:14:19,280
+aktiv, setzt sich aus den drei
+
+310
+00:14:19,280 --> 00:14:22,620
+Attributen zusammen. Und zwar, dass
+
+311
+00:14:22,620 --> 00:14:24,680
+es einmal der Gegenwart ist, also im
+
+312
+00:14:24,680 --> 00:14:27,180
+Präsens ist. Die Handlung vollzieht
+
+313
+00:14:27,180 --> 00:14:29,040
+sich selbst, also es ist aktiv, nicht
+
+314
+00:14:29,040 --> 00:14:31,440
+passiv. Es herrscht somit also eine
+
+315
+00:14:31,440 --> 00:14:33,820
+Gleichzeitigkeit. Gleichzeitig,
+
+316
+00:14:33,880 --> 00:14:35,440
+wichtig, nicht mehr vorzeitig,
+
+317
+00:14:35,500 --> 00:14:39,500
+gleichzeitig ist das PPA. Dieses
+
+318
+00:14:39,500 --> 00:14:41,200
+Partizip wird mit der allerersten
+
+319
+00:14:41,200 --> 00:14:43,640
+Verbkomm gebildet und folgt dann der
+
+320
+00:14:43,640 --> 00:14:47,720
+konsonantischen Deklination. Laudans,
+
+321
+00:14:47,720 --> 00:14:50,880
+Vokantis, Dicenti. Also die werden
+
+322
+00:14:50,880 --> 00:14:52,940
+immer mit NS gebildet im Nominativ
+
+323
+00:14:52,940 --> 00:14:55,800
+-Singular und dann mit T quasi.
+
+324
+00:14:56,300 --> 00:14:58,900
+Vokantis, Vokanti, Vokanti. TEM und
+
+325
+00:14:58,900 --> 00:15:00,200
+so weiter. Dann nach der
+
+326
+00:15:00,200 --> 00:15:03,220
+konsonantischen Deklination. Markus,
+
+327
+00:15:03,480 --> 00:15:05,760
+wo kannst du ein Proparat? Der
+
+328
+00:15:05,760 --> 00:15:08,180
+rufende Markus eilt nach Hause. Hier
+
+329
+00:15:08,180 --> 00:15:10,360
+wieder der gute Gegensatz zu dem
+
+330
+00:15:10,360 --> 00:15:12,860
+ersten Satz mit dem PPP, weil da war
+
+331
+00:15:12,860 --> 00:15:14,740
+es der gerufene Markus. Da ist
+
+332
+00:15:14,740 --> 00:15:16,080
+gerufen schon vorher passiert.
+
+333
+00:15:16,280 --> 00:15:18,400
+Deswegen ist es vorzeitig. Der
+
+334
+00:15:18,400 --> 00:15:20,680
+rufende Markus macht er gerade. Ist
+
+335
+00:15:20,680 --> 00:15:23,660
+in dem Moment passiert. Deswegen PPA.
+
+336
+00:15:24,520 --> 00:15:26,320
+Und halt eben Gleichzeitigkeit.
+
+337
+00:15:29,420 --> 00:15:33,760
+So, ja. So, dann gibt es auch noch
+
+338
+00:15:33,760 --> 00:15:36,020
+das PFA, womit ein Partizipium
+
+339
+00:15:36,020 --> 00:15:39,540
+-Konjunktum gebildet werden kann. Das
+
+340
+00:15:39,540 --> 00:15:41,260
+hat einmal den Aspekt Futur drin,
+
+341
+00:15:41,460 --> 00:15:43,380
+also den Charakter von der Zukunft.
+
+342
+00:15:43,800 --> 00:15:45,900
+Dann wird die Handlung aktiv
+
+343
+00:15:45,900 --> 00:15:47,800
+vollzogen, also aktiv und nicht
+
+344
+00:15:47,800 --> 00:15:49,520
+passiv, und somit besteht eine
+
+345
+00:15:49,520 --> 00:15:52,940
+Nachzeitigkeit. Nachzeitigkeit drückt
+
+346
+00:15:52,940 --> 00:15:55,160
+eine Absicht aus und wird mit Wollen
+
+347
+00:15:55,160 --> 00:15:58,160
+übersetzt im Normalfall. Man bildet
+
+348
+00:15:58,160 --> 00:16:00,820
+das PFA, also das Partizipfoto aktiv
+
+349
+00:16:00,820 --> 00:16:03,660
+mit der dritten Verbform und erhält
+
+350
+00:16:03,660 --> 00:16:07,400
+meistens Endung, Turus, Tura, Turum
+
+351
+00:16:07,400 --> 00:16:10,880
+und so weiter. Beispiel, Markus,
+
+352
+00:16:11,120 --> 00:16:14,220
+Mariam, Vucaturus, Domum, Propeat.
+
+353
+00:16:15,420 --> 00:16:18,680
+Markus, der Maria rufen will, eilt
+
+354
+00:16:18,680 --> 00:16:21,880
+nach Hause. Dieser Nebensatz in den
+
+355
+00:16:21,880 --> 00:16:25,120
+Kommata im Deutschen ist eben das
+
+356
+00:16:25,120 --> 00:16:28,900
+PFA. wie wir es hier übersetzen. Man
+
+357
+00:16:28,900 --> 00:16:31,940
+kann das PC als Attribute übersetzen
+
+358
+00:16:31,940 --> 00:16:34,160
+oder als Abverbiale oder manchmal
+
+359
+00:16:34,160 --> 00:16:36,840
+auch als Relativsatz. Aus diesen
+
+360
+00:16:36,840 --> 00:16:40,020
+Gründen gehört das PC zu den
+
+361
+00:16:40,020 --> 00:16:41,500
+satzwertigen Konstruktionen in
+
+362
+00:16:41,500 --> 00:16:45,720
+Dateien. Das PC bezieht sich
+
+363
+00:16:45,720 --> 00:16:48,760
+eigentlich immer auf das Subjekt und
+
+364
+00:16:48,760 --> 00:16:49,820
+wird durch einen Applativ
+
+365
+00:16:49,820 --> 00:16:53,660
+eingeleitet. Und diese Konstruktion
+
+366
+00:16:53,660 --> 00:16:55,800
+kommt also vom Subjekt und folgt dann
+
+367
+00:16:55,800 --> 00:16:57,840
+auch dem Konkurrenten Partizip.
+
+368
+00:16:59,810 --> 00:17:02,470
+So, das ist jetzt vielleicht mal ganz
+
+369
+00:17:02,470 --> 00:17:04,770
+gut oder übersichtlich. Einmal das PC
+
+370
+00:17:04,770 --> 00:17:07,530
+übersetzen als Attribut mit PPP.
+
+371
+00:17:08,550 --> 00:17:10,030
+Schauen wir uns erstmal den ganzen
+
+372
+00:17:10,030 --> 00:17:13,230
+Satz an. Markus, a Maria, Tanta
+
+373
+00:17:13,230 --> 00:17:17,890
+benevolentia vocatus, kellerita domum
+
+374
+00:17:17,890 --> 00:17:21,430
+properat. So, wir haben eben gelernt,
+
+375
+00:17:21,590 --> 00:17:24,290
+ach ja, PC wird häufig eingeleitet
+
+376
+00:17:24,290 --> 00:17:27,550
+von einem Aperitif und es hat
+
+377
+00:17:27,550 --> 00:17:31,630
+entweder PPP, PPA oder PFA dabei. Und
+
+378
+00:17:31,630 --> 00:17:32,610
+somit können wir ganz schnell
+
+379
+00:17:32,610 --> 00:17:35,250
+feststellen, ach ja, Amaria Tanta
+
+380
+00:17:35,250 --> 00:17:37,550
+Benevolentia Vocatus, das sind die
+
+381
+00:17:37,550 --> 00:17:40,950
+Klammern, ist also unser PC. So, dann
+
+382
+00:17:40,950 --> 00:17:42,950
+können wir erstmal den Hauptsatz
+
+383
+00:17:42,950 --> 00:17:45,750
+übersetzen. Markus, Kilarita, Domum,
+
+384
+00:17:45,750 --> 00:17:48,810
+Properat. Markus eilt schnell nach...
+
+385
+00:17:48,830 --> 00:17:52,050
+Das wäre unser Hauptsatz. Dann wollen
+
+386
+00:17:52,050 --> 00:17:54,650
+wir aber das PC als Attribut
+
+387
+00:17:54,650 --> 00:17:57,690
+übersetzen. Der von Maria mit
+
+388
+00:17:57,690 --> 00:17:59,950
+Großausfreundlichkeit gerufene Markus
+
+389
+00:17:59,950 --> 00:18:03,930
+eilt schnell nach Hause. So haben wir
+
+390
+00:18:03,930 --> 00:18:05,770
+es als Attribut mit PPP übersetzt.
+
+391
+00:18:06,370 --> 00:18:07,850
+Man kann es auch als Adverbial
+
+392
+00:18:07,850 --> 00:18:12,470
+übersetzen mit PPA. Hier ist das PC
+
+393
+00:18:12,470 --> 00:18:15,070
+Tanta Benevolencia Vocanti.
+
+394
+00:18:15,550 --> 00:18:17,150
+Übersetzen wir auch zuerst den
+
+395
+00:18:17,150 --> 00:18:19,050
+Hauptsatz. also ohne die satzwertige
+
+396
+00:18:19,050 --> 00:18:22,190
+Konstruktion, Marco Maria non
+
+397
+00:18:22,190 --> 00:18:23,050
+redivit.
+
+398
+00:18:27,280 --> 00:18:29,060
+Achso, ups, sorry, Marco gehört
+
+399
+00:18:29,060 --> 00:18:30,700
+natürlich dazu, also Maria non
+
+400
+00:18:30,700 --> 00:18:34,800
+redivit. Maria kam nicht zurück. Und
+
+401
+00:18:34,800 --> 00:18:37,120
+dann schauen wir, ach ja, wir wollen
+
+402
+00:18:37,120 --> 00:18:39,180
+es ad verbiale, das PPA übersetzen.
+
+403
+00:18:39,780 --> 00:18:43,340
+Vokanti ist das PPA, bezieht sich auf
+
+404
+00:18:43,340 --> 00:18:47,220
+Markus, ja, dieser rief. Und dann
+
+405
+00:18:47,220 --> 00:18:49,520
+Tanta Bonavolencia ist ja mit großer
+
+406
+00:18:49,520 --> 00:18:52,560
+Freundlichkeit. und dann schauen wir
+
+407
+00:18:52,560 --> 00:18:54,000
+halt eben, da wir es als Adverbial
+
+408
+00:18:54,000 --> 00:18:56,720
+übersetzen, okay, wie passt das in
+
+409
+00:18:56,720 --> 00:18:59,360
+den Kontext, also vom Inhalt her,
+
+410
+00:18:59,460 --> 00:19:02,280
+welches macht Sinn? Maria kam nicht
+
+411
+00:19:02,280 --> 00:19:03,760
+zurück, okay, welche Konjunktion
+
+412
+00:19:03,760 --> 00:19:06,240
+wählen wir? Machen wir es konzessiv,
+
+413
+00:19:06,260 --> 00:19:10,440
+kausal, temporal, was immer? Und in
+
+414
+00:19:10,440 --> 00:19:11,400
+diesem Falle macht halt eben
+
+415
+00:19:11,400 --> 00:19:13,200
+konzessiv am meisten Sinn, also mit
+
+416
+00:19:13,200 --> 00:19:15,520
+obwohl. Obwohl Markus mit großer
+
+417
+00:19:15,520 --> 00:19:17,500
+Freundlichkeit rief, kam Maria nicht
+
+418
+00:19:17,500 --> 00:19:22,120
+zurück. Das PC im nächsten Satz als
+
+419
+00:19:22,120 --> 00:19:26,720
+Relativsatz mit PFA übersetzt. Markus
+
+420
+00:19:26,720 --> 00:19:30,080
+Maria Tanta Benevolentia Vocaturus
+
+421
+00:19:30,080 --> 00:19:30,620
+Tacuit.
+
+422
+00:19:33,260 --> 00:19:36,780
+Markus Tacuit ist Hauptsatz, also
+
+423
+00:19:36,780 --> 00:19:40,260
+Markus Spieg. Dann wissen wir,
+
+424
+00:19:40,280 --> 00:19:44,880
+Vocaturus ist PFA und wir wissen,
+
+425
+00:19:44,960 --> 00:19:47,740
+dass das unser PC ist. Dann
+
+426
+00:19:47,740 --> 00:19:48,740
+übersetzen wir das. das als
+
+427
+00:19:48,740 --> 00:19:53,120
+Relativsatz. Markus schwieg, ist
+
+428
+00:19:53,120 --> 00:19:54,840
+unser Hauptsatz. Und dann kann man
+
+429
+00:19:54,840 --> 00:19:57,000
+einsetzen den Relativsatz hinter dem
+
+430
+00:19:57,000 --> 00:20:00,180
+Subjekt, also Markus, der Maria mit
+
+431
+00:20:00,180 --> 00:20:01,760
+großer Freundlichkeit rufen wollte,
+
+432
+00:20:01,900 --> 00:20:05,820
+schwieg. Das sind jetzt hier mal so
+
+433
+00:20:05,820 --> 00:20:07,400
+diese drei Übersetzungsmöglichkeiten
+
+434
+00:20:07,400 --> 00:20:10,040
+als Attribut, als Adverbiale und als
+
+435
+00:20:10,040 --> 00:20:13,960
+Relativsatz. Wir machen weiter mit
+
+436
+00:20:13,960 --> 00:20:15,780
+dem Abelabs, also Ablativus
+
+437
+00:20:15,780 --> 00:20:18,660
+Absolutus. Dieser ist eine
+
+438
+00:20:18,660 --> 00:20:21,760
+Fortentwicklung vom PC, also quasi
+
+439
+00:20:21,760 --> 00:20:24,640
+eine Stufe weiter und wird ebenfalls
+
+440
+00:20:24,640 --> 00:20:26,100
+als satzwertige Konstruktion
+
+441
+00:20:26,100 --> 00:20:28,260
+übersetzt im Deutschen. Dabei wird
+
+442
+00:20:28,260 --> 00:20:30,160
+eine ganze Satzeinheit hinzugefügt.
+
+443
+00:20:31,080 --> 00:20:34,840
+Wir sehen hier die beiden Sätze.
+
+444
+00:20:39,760 --> 00:20:42,180
+Die Römer kamen in die Stadt. Die
+
+445
+00:20:42,180 --> 00:20:44,340
+Frauen bereiteten die Abendessen vor.
+
+446
+00:20:46,400 --> 00:20:49,820
+So, das sind zwei Sätze. Und jetzt
+
+447
+00:20:49,820 --> 00:20:51,200
+haben wir den gesamten Satz
+
+448
+00:20:51,200 --> 00:20:53,700
+zusammengesetzt. Romanibus in urbe
+
+449
+00:20:53,700 --> 00:20:56,320
+venitis, domine, kenam, parabant.
+
+450
+00:20:57,660 --> 00:21:01,220
+Dann sehen wir, okay, durch den ACI
+
+451
+00:21:01,220 --> 00:21:02,120
+wurde halt hier eine ganze
+
+452
+00:21:02,120 --> 00:21:03,540
+Satzeinheit, ja quasi ein ganz
+
+453
+00:21:03,540 --> 00:21:05,760
+eigenständiger Satz hinzugefügt. Und
+
+454
+00:21:05,760 --> 00:21:08,100
+das sieht man hier in grün. Das
+
+455
+00:21:08,100 --> 00:21:10,280
+erkennt man daran, da der komplette
+
+456
+00:21:10,280 --> 00:21:13,500
+Satzteil quasi, alles steht im
+
+457
+00:21:13,500 --> 00:21:13,800
+Akkredit.
+
+458
+00:21:18,060 --> 00:21:20,200
+Die Übersetzung wäre, als die Irmer
+
+459
+00:21:20,200 --> 00:21:21,360
+in die Stadt gekommen waren,
+
+460
+00:21:21,440 --> 00:21:23,040
+bereiteten die Frauen das Abendessen
+
+461
+00:21:23,040 --> 00:21:27,600
+vor. Wichtig ist, der Abelaps hat
+
+462
+00:21:27,600 --> 00:21:29,200
+eben gar keine Abhängigkeit zu einem
+
+463
+00:21:29,200 --> 00:21:30,840
+anderen Satzglied. Deswegen ist das
+
+464
+00:21:30,840 --> 00:21:32,040
+hier auch so dargestellt, dass es
+
+465
+00:21:32,040 --> 00:21:33,480
+auch als zwei einzelne Sätze
+
+466
+00:21:33,480 --> 00:21:36,560
+funktionieren könnte. Es ist wichtig,
+
+467
+00:21:36,580 --> 00:21:39,420
+dass man weiß, dass der Abelaps
+
+468
+00:21:39,420 --> 00:21:41,380
+bedeutet, dass es komplett losgelöst
+
+469
+00:21:41,380 --> 00:21:43,260
+ist vom anderen Satz. So kann man das
+
+470
+00:21:43,260 --> 00:21:46,060
+auch besser identifizieren. Das
+
+471
+00:21:46,060 --> 00:21:48,360
+Partizip und das Bezugswort stehen im
+
+472
+00:21:48,360 --> 00:21:49,740
+Applativ. Dadurch ist diese
+
+473
+00:21:49,740 --> 00:21:54,340
+Konkurrenz gegeben. Dadurch entsteht
+
+474
+00:21:54,340 --> 00:21:56,540
+diese geschlossene Einheit und das
+
+475
+00:21:56,540 --> 00:21:58,960
+wird als Variable verstanden, also
+
+476
+00:21:58,960 --> 00:22:01,420
+eine Umstandsbeschreibung. Man kann
+
+477
+00:22:01,420 --> 00:22:03,320
+den Appelabs mit allen Partizipien
+
+478
+00:22:03,320 --> 00:22:07,720
+bilden, also PPA, PPP und PFA. Und
+
+479
+00:22:07,720 --> 00:22:08,960
+man muss immer auch auf das
+
+480
+00:22:08,960 --> 00:22:10,340
+Zeitverhältnis schauen, also
+
+481
+00:22:10,340 --> 00:22:12,260
+gleichzeitig, vorzeitig, nachzeitig.
+
+482
+00:22:14,510 --> 00:22:17,010
+So, um einen Abelaps zu übersetzen,
+
+483
+00:22:17,010 --> 00:22:20,810
+hat man sehr viele Möglichkeiten. Ja,
+
+484
+00:22:20,810 --> 00:22:22,570
+wir schauen uns mal ein paar an. Zum
+
+485
+00:22:22,570 --> 00:22:24,550
+Beispiel adverbial, das wäre
+
+486
+00:22:24,550 --> 00:22:27,850
+temporal, kausal oder konzessiv. Wir
+
+487
+00:22:27,850 --> 00:22:29,030
+haben hier den Satz wieder.
+
+488
+00:22:36,530 --> 00:22:38,230
+Obwohl die Römer in die Stadt kamen,
+
+489
+00:22:38,230 --> 00:22:39,230
+hatten die Frauen nicht das
+
+490
+00:22:39,230 --> 00:22:42,950
+Abendessen vorbereitet. Okay. In
+
+491
+00:22:42,950 --> 00:22:44,030
+diesem Fall ist es halt recht
+
+492
+00:22:44,030 --> 00:22:45,710
+einfach, da das Wort Tamen darin
+
+493
+00:22:45,710 --> 00:22:49,370
+steht und Tamen heißt ja dennoch. Und
+
+494
+00:22:49,370 --> 00:22:51,010
+sonst muss man eben überlegen, wie
+
+495
+00:22:51,010 --> 00:22:52,610
+man es vom Kontext her am besten
+
+496
+00:22:52,610 --> 00:22:56,660
+übersetzt. Dann kann man auch den
+
+497
+00:22:56,660 --> 00:22:57,400
+Abelaps mit einem
+
+498
+00:22:57,400 --> 00:22:59,320
+Präpositionalausdruck übersetzen.
+
+499
+00:23:00,300 --> 00:23:02,380
+Matre, Adventa, Tamen, Filius,
+
+500
+00:23:02,380 --> 00:23:06,200
+Prokul, Manebat. Trotz der Ankunft
+
+501
+00:23:06,200 --> 00:23:08,100
+der Mutter blieb der Sohn fern.
+
+502
+00:23:10,920 --> 00:23:12,740
+Du siehst sicher den Unterschied. Im
+
+503
+00:23:12,740 --> 00:23:14,620
+ersten Fall bei der Akverbialen ist
+
+504
+00:23:14,620 --> 00:23:17,160
+es ja ein kompletter Satz, obwohl die
+
+505
+00:23:17,160 --> 00:23:19,160
+Römer in die Stadt kamen. Und mit dem
+
+506
+00:23:19,160 --> 00:23:21,740
+Präpositionalausdruck, das bedeutet
+
+507
+00:23:21,740 --> 00:23:23,520
+im Deutschen, dass man keinen
+
+508
+00:23:23,520 --> 00:23:26,100
+Prädikat einsetzt, also keinen
+
+509
+00:23:26,100 --> 00:23:29,800
+Nebensatz hat, sondern eben nur so
+
+510
+00:23:29,800 --> 00:23:31,460
+einen Ausdruck. Trotz der Ankunft der
+
+511
+00:23:31,460 --> 00:23:35,560
+Mutter. Und man kann Abelaps zum
+
+512
+00:23:35,560 --> 00:23:36,600
+Beispiel auch mit einer Beordnung
+
+513
+00:23:36,600 --> 00:23:37,300
+übersetzen.
+
+514
+00:23:46,740 --> 00:23:51,660
+Das ist eine Beiordnung. Man hätte
+
+515
+00:23:51,660 --> 00:23:55,600
+genauso gut machen können, weil die
+
+516
+00:23:55,600 --> 00:23:57,640
+Römer geschlagen wurden, hungerte das
+
+517
+00:23:57,640 --> 00:23:59,580
+Volk zehn Jahre lang. Zum Beispiel.
+
+518
+00:23:59,700 --> 00:24:03,640
+Das wäre dann wieder adverbial. Und
+
+519
+00:24:03,640 --> 00:24:05,700
+in der Beiordnung hat man die beiden
+
+520
+00:24:05,700 --> 00:24:09,880
+Sätze nebeneinander. Es gibt eben
+
+521
+00:24:09,880 --> 00:24:11,360
+keine Möglichkeit, den Abelaps
+
+522
+00:24:11,360 --> 00:24:13,140
+wörtlich zu übersetzen. Das ist immer
+
+523
+00:24:13,140 --> 00:24:13,880
+ein Fehler.
+
+524
+00:24:16,580 --> 00:24:18,400
+So, hier haben wir noch häufig
+
+525
+00:24:18,400 --> 00:24:21,600
+verwendete Wendungen vom Abelaps. Die
+
+526
+00:24:21,600 --> 00:24:23,420
+kann ich dir einmal vortragen. His
+
+527
+00:24:23,420 --> 00:24:26,180
+rebus cognitis, nach Bekanntwerten
+
+528
+00:24:26,180 --> 00:24:31,980
+dieser Umstände. Hac oratione
+
+529
+00:24:31,980 --> 00:24:34,740
+habitat, nach dieser Rede. Eo facto,
+
+530
+00:24:35,060 --> 00:24:37,100
+danach oder nachdem das geschehen
+
+531
+00:24:37,100 --> 00:24:40,260
+war. Bello confecto. nach Beendigung
+
+532
+00:24:40,260 --> 00:24:44,520
+des Krieges, Eare nun Theata, auf
+
+533
+00:24:44,520 --> 00:24:47,500
+diese Meldung hin, Cäsare in Parante,
+
+534
+00:24:47,580 --> 00:24:49,400
+unter dem Kommando Cäsars,
+
+535
+00:24:50,440 --> 00:24:52,540
+Nulloresistente, wobei niemand
+
+536
+00:24:52,540 --> 00:24:55,700
+Widerstand leistete, Fakultate Data,
+
+537
+00:24:56,160 --> 00:24:58,840
+da sich die Gelegenheit bot, Sole
+
+538
+00:24:58,840 --> 00:25:01,460
+Oriente, bei Sonnenaufgang oder
+
+539
+00:25:01,460 --> 00:25:04,040
+Tagsanbruch, so, das sind einfach
+
+540
+00:25:04,040 --> 00:25:06,480
+häufig verwendete Wendungen, Es gibt
+
+541
+00:25:06,480 --> 00:25:08,140
+aber auch nominale Wendungen vom Ab
+
+542
+00:25:08,140 --> 00:25:10,240
+und Abs. In dem Falle tritt anstelle
+
+543
+00:25:10,240 --> 00:25:13,320
+von Partizip ein kongruentes Adjektiv
+
+544
+00:25:13,320 --> 00:25:15,600
+oder Substantiv auf, dann entfällt
+
+545
+00:25:15,600 --> 00:25:17,940
+das Partizip und wird immer mit der
+
+546
+00:25:17,940 --> 00:25:19,500
+Form von Essay übersetzt. Zum
+
+547
+00:25:19,500 --> 00:25:22,400
+Beispiel Augusto Imperatore unter
+
+548
+00:25:22,400 --> 00:25:26,120
+Kaisers Augustus. Cesare Auctore auf
+
+549
+00:25:26,120 --> 00:25:30,990
+Veranlassung Caesars. So, das war
+
+550
+00:25:30,990 --> 00:25:32,510
+jetzt viel Input von meiner Seite.
+
+551
+00:25:32,570 --> 00:25:33,670
+Ich freue mich, dass du bis hierher
+
+552
+00:25:33,670 --> 00:25:36,310
+zugehört hast. und jetzt haben wir
+
+553
+00:25:36,310 --> 00:25:38,630
+Zeit für Fragen. Ich kann aber auch
+
+554
+00:25:38,630 --> 00:25:40,530
+nochmal aufrufen, wenn du dir gerne
+
+555
+00:25:40,530 --> 00:25:41,990
+ein Foto machen würdest oder es
+
+556
+00:25:41,990 --> 00:25:44,590
+abfotografieren möchtest. Genau, wir
+
+557
+00:25:44,590 --> 00:25:45,670
+haben jetzt noch ein bisschen Zeit.
+
+558
+00:26:11,360 --> 00:26:15,900
+Die ganze oder welche Seite? Das ist
+
+559
+00:26:15,900 --> 00:26:16,620
+die Gliederung.
+
+560
+00:26:24,390 --> 00:26:26,090
+Ja, vielleicht diese Übersicht mit
+
+561
+00:26:26,090 --> 00:26:27,330
+dem Übersetzen. Dieses hier
+
+562
+00:26:27,330 --> 00:26:28,690
+vielleicht. Das ist vielleicht recht
+
+563
+00:26:28,690 --> 00:26:29,090
+hilfreich.
+
+564
+00:26:40,780 --> 00:26:42,420
+Ja, sag einfach, dann können wir
+
+565
+00:26:42,420 --> 00:26:44,760
+noch, oder dann kann ich weiter, Also
+
+566
+00:26:44,760 --> 00:26:46,300
+wenn du fertig bist, kann ich dann
+
+567
+00:26:46,300 --> 00:26:48,900
+weitere Übersichten aufrufen.
+
+568
+00:27:23,340 --> 00:27:24,380
+Diese hier, oder?
+
+569
+00:28:11,570 --> 00:28:14,030
+Ah, okay. Ja gut, dann wirst du es ja
+
+570
+00:28:14,030 --> 00:28:16,030
+noch lernen. Aperitivus absolutus.
+
+571
+00:28:17,790 --> 00:28:19,330
+Ist wahrscheinlich noch einfacher,
+
+572
+00:28:19,350 --> 00:28:20,790
+wenn man das in der Schule lernt. Ich
+
+573
+00:28:20,790 --> 00:28:22,670
+weiß nicht genau, welche Seite dir
+
+574
+00:28:22,670 --> 00:28:24,190
+dann am meisten bringt. Vielleicht
+
+575
+00:28:24,190 --> 00:28:24,730
+diese hier.
+
+576
+00:28:27,660 --> 00:28:29,060
+Also dann mach dich nicht verrückt.
+
+577
+00:28:29,120 --> 00:28:30,420
+Das lernt man ja dann nochmal ganz
+
+578
+00:28:30,420 --> 00:28:34,690
+langsam in der Schule. Und dann ist
+
+579
+00:28:34,690 --> 00:28:36,090
+es auch nochmal verständlich. ja
+
+580
+00:28:36,090 --> 00:28:37,610
+vermutlich, wenn man sich noch ein
+
+581
+00:28:37,610 --> 00:28:39,110
+bisschen mehr damit auseinanderhält.
+
+582
+00:28:56,860 --> 00:28:59,380
+Genau, also du kannst, ich würde
+
+583
+00:28:59,380 --> 00:29:00,340
+jetzt nicht empfehlen, quasi
+
+584
+00:29:00,340 --> 00:29:02,360
+vorzuarbeiten, also für die Schule,
+
+585
+00:29:02,420 --> 00:29:04,400
+das ist ja immer so ein bisschen, man
+
+586
+00:29:04,400 --> 00:29:05,520
+versteht es ja meistens doch
+
+587
+00:29:05,520 --> 00:29:07,040
+irgendwie ein bisschen anders, aber
+
+588
+00:29:07,040 --> 00:29:09,460
+im Online-Lern-Center kannst du auf
+
+589
+00:29:09,460 --> 00:29:10,940
+jeden Fall mal schauen, was es für
+
+590
+00:29:10,940 --> 00:29:14,160
+Übungen gibt zum PC und auch zum ACI.
+
+591
+00:29:15,100 --> 00:29:16,120
+Kannst du einfach im Online
+
+592
+00:29:16,120 --> 00:29:18,320
+-Lerncenter quasi eingeben und dann
+
+593
+00:29:18,320 --> 00:29:20,400
+findest du passende Übungsblätter mit
+
+594
+00:29:20,400 --> 00:29:20,880
+Lösungen.
+
+595
+00:29:35,780 --> 00:29:37,960
+Okay. Ja, dann vielen Dank, dass du
+
+596
+00:29:37,960 --> 00:29:39,820
+zugehört hast und ich wünsche dir
+
+597
+00:29:39,820 --> 00:29:40,760
+noch ein schönes Wochenende.
+

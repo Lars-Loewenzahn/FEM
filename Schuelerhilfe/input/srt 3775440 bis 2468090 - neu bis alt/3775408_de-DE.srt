@@ -1,0 +1,540 @@
+1
+00:00:03,920 --> 00:00:05,800
+Hallo, mein Name ist Paula und ich
+
+2
+00:00:05,800 --> 00:00:07,240
+bin Nachhilfelehrerin bei der
+
+3
+00:00:07,240 --> 00:00:09,660
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,660 --> 00:00:11,640
+erklären, was es in der Chemie mit
+
+5
+00:00:11,640 --> 00:00:13,920
+Proteinen auf sich hat. In unserem
+
+6
+00:00:13,920 --> 00:00:15,720
+Online-Lerncenter steht dir zu diesem
+
+7
+00:00:15,720 --> 00:00:17,280
+Thema natürlich auch ein Wiki zur
+
+8
+00:00:17,280 --> 00:00:18,860
+Verfügung, in dem dir die
+
+9
+00:00:18,860 --> 00:00:20,420
+grundlegenden und wichtigen Begriffe
+
+10
+00:00:20,420 --> 00:00:23,860
+genauer erklärt werden. Proteine sind
+
+11
+00:00:23,860 --> 00:00:25,480
+ein essentieller Bestandteil unserer
+
+12
+00:00:25,480 --> 00:00:27,200
+Nahrung und bestimmt kennt ihr
+
+13
+00:00:27,200 --> 00:00:29,420
+Proteine vor allem im Zusammenhang
+
+14
+00:00:29,420 --> 00:00:32,240
+mit Muskelaufbau. Aber nicht nur für
+
+15
+00:00:32,240 --> 00:00:34,140
+Sportler sind Proteine unverzichtbar,
+
+16
+00:00:34,200 --> 00:00:36,860
+sondern für jeden Menschen. Täglich
+
+17
+00:00:36,860 --> 00:00:39,280
+sollten wir mindestens ca. 0,8 bis 1
+
+18
+00:00:39,280 --> 00:00:41,780
+g pro kg Körpergewicht an Proteinen
+
+19
+00:00:41,780 --> 00:00:44,520
+zu uns nehmen. Doch was sind Proteine
+
+20
+00:00:44,520 --> 00:00:46,180
+eigentlich genau und warum braucht
+
+21
+00:00:46,180 --> 00:00:48,840
+unser Körper sie? Proteine bestehen
+
+22
+00:00:48,840 --> 00:00:50,840
+aus Aminosäuren. Aminosäuren haben
+
+23
+00:00:50,840 --> 00:00:53,160
+eine Grundstruktur aus einer sauren
+
+24
+00:00:53,160 --> 00:00:55,020
+Carboxylgruppe, einer basischen
+
+25
+00:00:55,020 --> 00:00:57,180
+Aminogruppe und einem H-Ion.
+
+26
+00:00:57,520 --> 00:00:59,220
+Zusätzlich hängt an ihrem zentralen
+
+27
+00:00:59,220 --> 00:01:01,800
+Körper. C-Atom ein variabler Rest R,
+
+28
+00:01:02,000 --> 00:01:03,920
+der spezifisch für die jeweilige
+
+29
+00:01:03,920 --> 00:01:07,240
+Aminosäure ist. 21 Aminosäuren sind
+
+30
+00:01:07,240 --> 00:01:09,100
+Proteinogen, das heißt sie sind
+
+31
+00:01:09,100 --> 00:01:11,800
+Bausteine der Proteine. Einige
+
+32
+00:01:11,800 --> 00:01:13,420
+Aminosäuren kann der Körper nicht
+
+33
+00:01:13,420 --> 00:01:15,260
+selbst herstellen, weswegen er auf
+
+34
+00:01:15,260 --> 00:01:17,640
+tägliche Zufuhr angewiesen ist. Diese
+
+35
+00:01:17,640 --> 00:01:19,180
+bezeichnet man als essentielle
+
+36
+00:01:19,180 --> 00:01:22,680
+Aminosäuren. Proteine und deren
+
+37
+00:01:22,680 --> 00:01:24,580
+Funktion werden maßgeblich durch die
+
+38
+00:01:24,580 --> 00:01:25,920
+verschiedenen Seitengruppen bestimmt.
+
+39
+00:01:26,960 --> 00:01:29,240
+Dabei wollen wir uns einige mögliche
+
+40
+00:01:29,240 --> 00:01:31,800
+Reste genauer anschauen. Diese können
+
+41
+00:01:31,800 --> 00:01:33,440
+als Seitenkette Schwefel gebunden
+
+42
+00:01:33,440 --> 00:01:36,140
+haben. Dazu zählen die Aminosäuren
+
+43
+00:01:36,140 --> 00:01:38,680
+Cystein und Methionin. Auch
+
+44
+00:01:38,680 --> 00:01:40,280
+Hydroxylgruppen können an den
+
+45
+00:01:40,280 --> 00:01:41,840
+zentralen C-Atom gebunden sein.
+
+46
+00:01:42,560 --> 00:01:44,320
+Weitere Aminogruppen in der
+
+47
+00:01:44,320 --> 00:01:46,660
+Seitenkette machen die Aminosäure
+
+48
+00:01:46,660 --> 00:01:47,940
+basisch, während weitere
+
+49
+00:01:47,940 --> 00:01:50,400
+Carboxylgruppen die Aminosäure sauer
+
+50
+00:01:50,400 --> 00:01:52,920
+machen. Das Zusammenspiel aus
+
+51
+00:01:52,920 --> 00:01:54,480
+verschiedenen Seitenketten und den
+
+52
+00:01:54,480 --> 00:01:56,380
+daraus resultierenden Bindungen ist
+
+53
+00:01:56,380 --> 00:01:57,820
+maßgeblich für die Struktur eines
+
+54
+00:01:57,820 --> 00:02:00,620
+Proteins. Wie wird aber nun aus den
+
+55
+00:02:00,620 --> 00:02:03,040
+Aminosäuren ein Protein? Die
+
+56
+00:02:03,040 --> 00:02:05,000
+Verbindung von zwei Aminosäuren unter
+
+57
+00:02:05,000 --> 00:02:06,900
+Abspaltung von Wasser nennt man
+
+58
+00:02:06,900 --> 00:02:09,740
+Peptidbindung. Dabei reagieren die
+
+59
+00:02:09,740 --> 00:02:11,820
+Carboxylgruppe und Aminogruppe
+
+60
+00:02:11,820 --> 00:02:14,540
+miteinander. Diese Bindung ist planar
+
+61
+00:02:14,540 --> 00:02:17,220
+und nicht freidrehbar. Bei der
+
+62
+00:02:17,220 --> 00:02:18,920
+Verknüpfung von zwei Aminosäuren
+
+63
+00:02:18,920 --> 00:02:21,800
+spricht man von einem Dipeptid. Bis
+
+64
+00:02:21,800 --> 00:02:23,920
+zu 10 verknüpfte Aminosäuren bilden
+
+65
+00:02:23,920 --> 00:02:26,500
+einen Oligopeptid und bei mehr als 10
+
+66
+00:02:26,500 --> 00:02:29,500
+spricht man von Polypeptiden. Diese
+
+67
+00:02:29,500 --> 00:02:31,640
+Polypeptide bilden die Grundstruktur
+
+68
+00:02:31,640 --> 00:02:34,500
+von Proteinen. Bei der Bildung von
+
+69
+00:02:34,500 --> 00:02:36,180
+Proteinen unterscheidet man zwischen
+
+70
+00:02:36,180 --> 00:02:38,880
+der Primär-, Sekundär-, Tertiär- und
+
+71
+00:02:38,880 --> 00:02:41,120
+der Quaterstruktur. Die
+
+72
+00:02:41,120 --> 00:02:43,080
+Primärstruktur zeichnet sich durch
+
+73
+00:02:43,080 --> 00:02:44,800
+die die einfache Abfolge der
+
+74
+00:02:44,800 --> 00:02:47,620
+Aminosäuren aus. Die Sekundärstruktur
+
+75
+00:02:47,620 --> 00:02:49,660
+entsteht unter Ausbildung von
+
+76
+00:02:49,660 --> 00:02:52,240
+Wasserstoffbrückenbindungen. Dabei
+
+77
+00:02:52,240 --> 00:02:54,120
+kann sich das Polypeptid in einer
+
+78
+00:02:54,120 --> 00:02:56,320
+Alpha-Helix-Struktur anlagern, die
+
+79
+00:02:56,320 --> 00:02:58,000
+ihr vielleicht von der DNA erkennt,
+
+80
+00:02:58,140 --> 00:03:00,660
+oder in einer Beta-Faltblattstruktur.
+
+81
+00:03:00,960 --> 00:03:02,680
+Die Tertiärstruktur ist
+
+82
+00:03:02,680 --> 00:03:04,180
+gekennzeichnet durch Ausbildung
+
+83
+00:03:04,180 --> 00:03:06,220
+weiterer Bindungen, die vor allem
+
+84
+00:03:06,220 --> 00:03:07,980
+durch die variablen Seitenketten der
+
+85
+00:03:07,980 --> 00:03:10,480
+Aminosäuren bestimmt sind. Dabei
+
+86
+00:03:10,480 --> 00:03:11,780
+spielen Van der Waals-Kräfte,
+
+87
+00:03:11,980 --> 00:03:13,940
+Disulfidbrücken oder Ionenbindungen
+
+88
+00:03:13,940 --> 00:03:16,360
+eine Rolle. Es kommt zur räumlichen
+
+89
+00:03:16,360 --> 00:03:19,440
+Anordnung der Struktur. Lagern sich
+
+90
+00:03:19,440 --> 00:03:21,300
+mehrere solcher Tertiärstrukturen
+
+91
+00:03:21,300 --> 00:03:23,440
+spezifisch zusammen, entsteht die
+
+92
+00:03:23,440 --> 00:03:25,800
+Quaterstruktur. Aber wofür genau
+
+93
+00:03:25,800 --> 00:03:27,380
+benötigen wir eigentlich Proteine?
+
+94
+00:03:27,620 --> 00:03:29,680
+Sie erfüllen viele Aufgaben im
+
+95
+00:03:29,680 --> 00:03:31,520
+Organismus, sodass wir hier nur auf
+
+96
+00:03:31,520 --> 00:03:34,100
+einige näher eingehen können. So sind
+
+97
+00:03:34,100 --> 00:03:35,500
+Proteine an zahlreichen
+
+98
+00:03:35,500 --> 00:03:37,440
+Stoffwechselprozessen beteiligt, die
+
+99
+00:03:37,440 --> 00:03:39,280
+auch die Energie für unseren gesamten
+
+100
+00:03:39,280 --> 00:03:41,860
+Körper, das Adenosintrifosphat, kurz
+
+101
+00:03:41,860 --> 00:03:44,760
+ATP, herstellen. Sie beschleunigen
+
+102
+00:03:44,760 --> 00:03:46,260
+chemische Reaktionen als
+
+103
+00:03:46,260 --> 00:03:49,160
+Biokatalysatoren. Des Weiteren kann
+
+104
+00:03:49,160 --> 00:03:51,060
+man aus Proteinen Hormone und
+
+105
+00:03:51,060 --> 00:03:53,260
+Signalstoffe herstellen, welche für
+
+106
+00:03:53,260 --> 00:03:54,900
+die Steuerung des Organismus wichtig
+
+107
+00:03:54,900 --> 00:03:58,620
+sind. Proteine sind essentiell für
+
+108
+00:03:58,680 --> 00:04:00,720
+den Aufbau zellulärer Strukturen wie
+
+109
+00:04:00,720 --> 00:04:02,760
+der Zellmembran, für die Immunabwehr,
+
+110
+00:04:02,940 --> 00:04:05,220
+für die Blutgerinnung und für vieles
+
+111
+00:04:05,220 --> 00:04:07,500
+mehr. Ein letzter wichtiger Punkt,
+
+112
+00:04:07,580 --> 00:04:09,140
+den wir heute besprechen wollen, ist,
+
+113
+00:04:09,180 --> 00:04:10,860
+dass Proteine bei Hitze leicht
+
+114
+00:04:10,860 --> 00:04:13,540
+denaturieren. Auch ein veränderter pH
+
+115
+00:04:13,540 --> 00:04:15,360
+-Wert kann zur Denaturierung und
+
+116
+00:04:15,360 --> 00:04:17,300
+damit zur Inaktivierung des Proteins
+
+117
+00:04:17,300 --> 00:04:19,840
+führen. Der Körper versucht deswegen,
+
+118
+00:04:20,040 --> 00:04:21,120
+den pH-Wert und die die
+
+119
+00:04:21,120 --> 00:04:23,000
+Körpertemperatur sehr konstant zu
+
+120
+00:04:23,000 --> 00:04:26,240
+halten. Übrigens ist genau das der
+
+121
+00:04:26,240 --> 00:04:28,380
+Vorgang, der abläuft, wenn ihr ein Ei
+
+122
+00:04:28,380 --> 00:04:30,540
+in der Pfanne erhitzt. Das darin
+
+123
+00:04:30,540 --> 00:04:33,020
+befindliche Eiweiß denaturiert, die
+
+124
+00:04:33,020 --> 00:04:34,820
+räumliche Struktur verändert sich und
+
+125
+00:04:34,820 --> 00:04:36,200
+das Eiweiß wird weiß und fest.
+
+126
+00:04:37,200 --> 00:04:39,140
+Denaturierungen können reversibel
+
+127
+00:04:39,140 --> 00:04:41,960
+oder irreversibel sein. Ich hoffe,
+
+128
+00:04:41,980 --> 00:04:43,360
+dass ich dir helfen konnte, auch
+
+129
+00:04:43,360 --> 00:04:44,760
+dieses Thema besser zu verstehen.
+
+130
+00:04:45,060 --> 00:04:47,000
+Wenn du noch Fragen zu diesem oder
+
+131
+00:04:47,000 --> 00:04:48,820
+anderen Themen hast, nutze gerne
+
+132
+00:04:48,820 --> 00:04:51,080
+unsere weiteren Lerninhalte im Online
+
+133
+00:04:51,080 --> 00:04:53,160
+-Lerncenter oder wende dich an deine
+
+134
+00:04:53,160 --> 00:04:55,100
+Schülerhilfe vor Ort. Bis zum
+
+135
+00:04:55,100 --> 00:04:55,600
+nächsten Mal!
+

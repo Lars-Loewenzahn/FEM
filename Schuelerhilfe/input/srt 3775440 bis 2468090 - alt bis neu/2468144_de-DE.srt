@@ -1,0 +1,992 @@
+1
+00:00:02,350 --> 00:00:04,350
+Herzlich willkommen zum Webinar
+
+2
+00:00:04,350 --> 00:00:06,870
+Wurzelgleichung. Wir werden uns in
+
+3
+00:00:06,870 --> 00:00:08,430
+diesem Webinar mit Wurzelgleichung
+
+4
+00:00:08,430 --> 00:00:10,430
+befassen. Als erstes schauen wir uns
+
+5
+00:00:10,430 --> 00:00:12,270
+einmal an, was ist überhaupt eine
+
+6
+00:00:12,270 --> 00:00:15,390
+Wurzelfunktion, weil Wurzelfunktionen
+
+7
+00:00:15,390 --> 00:00:17,050
+hat man in der Regel am häufigsten
+
+8
+00:00:17,050 --> 00:00:19,690
+Wurzelgleichung. Und danach werden
+
+9
+00:00:19,690 --> 00:00:21,070
+wir auch Wurzelgleichung lösen,
+
+10
+00:00:21,090 --> 00:00:22,590
+beziehungsweise werden wir ein
+
+11
+00:00:22,590 --> 00:00:24,550
+Lösungsverfahren für diese vorführen.
+
+12
+00:00:25,950 --> 00:00:27,430
+Gut, fangen wir mit den
+
+13
+00:00:27,430 --> 00:00:28,470
+Wurzelfunktionen an.
+
+14
+00:00:31,350 --> 00:00:32,370
+Bei Wurzelfunktionen ist es erstmal
+
+15
+00:00:32,370 --> 00:00:33,870
+grundlegend ganz wichtig, dass man
+
+16
+00:00:33,870 --> 00:00:35,030
+den Definitionsbereich in den
+
+17
+00:00:35,030 --> 00:00:36,590
+Wertebereich kennt. Der
+
+18
+00:00:36,590 --> 00:00:37,910
+Definitionsbereich für eine
+
+19
+00:00:37,910 --> 00:00:39,830
+allgemeine Wurzelfunktion, also die
+
+20
+00:00:39,830 --> 00:00:43,630
+Umkehrfunktion aus x², ist, dass man
+
+21
+00:00:43,630 --> 00:00:45,610
+alle positiven reellen Zahlen
+
+22
+00:00:45,610 --> 00:00:48,110
+einsetzen darf und die Wurzelfunktion
+
+23
+00:00:48,110 --> 00:00:49,490
+hat dann auch den Wertebereich für
+
+24
+00:00:49,490 --> 00:00:53,590
+alle reellen positiven Zahlen. Wenn
+
+25
+00:00:53,590 --> 00:00:55,430
+man so eine Wurzelfunktion hat,
+
+26
+00:00:55,530 --> 00:00:56,570
+beziehungsweise irgendwas damit
+
+27
+00:00:56,570 --> 00:00:57,750
+rechnen möchte, Es ist immer ganz
+
+28
+00:00:57,750 --> 00:00:58,810
+wichtig, als erstes den
+
+29
+00:00:58,810 --> 00:01:00,810
+Definitionsbereich zu bestimmen. Das
+
+30
+00:01:00,810 --> 00:01:02,090
+werden wir auch gleich sehen. Dieser
+
+31
+00:01:02,090 --> 00:01:03,490
+ist immer anders. Das ist jetzt, wie
+
+32
+00:01:03,490 --> 00:01:04,710
+gesagt, einfach nur für die
+
+33
+00:01:04,710 --> 00:01:07,270
+allgemeine Wurzelfunktion. Also f von
+
+34
+00:01:07,270 --> 00:01:09,750
+x ist gleich die Quadratwurzel aus x.
+
+35
+00:01:11,270 --> 00:01:12,910
+Diese startet im Ursprung. Das fängt
+
+36
+00:01:12,910 --> 00:01:14,710
+damit zusammen. Die Wurzel aus 0 ist
+
+37
+00:01:14,710 --> 00:01:15,690
+ja noch bestimmbar. Das ist ja der
+
+38
+00:01:15,690 --> 00:01:17,650
+Grenzfall. Und das ist dann einfach
+
+39
+00:01:17,650 --> 00:01:21,070
+0. und die Wurzel aus unendlich ist
+
+40
+00:01:21,070 --> 00:01:21,870
+dann auch unendlich, das heißt die
+
+41
+00:01:21,870 --> 00:01:24,730
+Funktion startet bei einem
+
+42
+00:01:24,730 --> 00:01:26,830
+koordinaten Ursprung und strebt gegen
+
+43
+00:01:26,830 --> 00:01:31,770
+unendlich. Wie gesagt, sie liefert
+
+44
+00:01:31,770 --> 00:01:36,210
+dabei alle positiven Zahlen. Die
+
+45
+00:01:36,210 --> 00:01:37,790
+Wertstabelle bei der allgemeinen
+
+46
+00:01:37,790 --> 00:01:39,090
+Wurzelfunktion würde jetzt erstmal
+
+47
+00:01:39,090 --> 00:01:41,910
+nur so aussehen, wenn wir ein x
+
+48
+00:01:41,910 --> 00:01:43,310
+einsetzen mit 0, kommt auch der
+
+49
+00:01:43,310 --> 00:01:45,150
+Funktionswert 0 raus, bei der 1 kommt
+
+50
+00:01:45,150 --> 00:01:47,930
+auch der Funktionswert 1 raus. Bei
+
+51
+00:01:47,930 --> 00:01:50,550
+einer 4 käme der Funktionswert 2 raus
+
+52
+00:01:50,550 --> 00:01:51,490
+und so weiter. Das heißt, die
+
+53
+00:01:51,490 --> 00:01:52,730
+Wurzelfunktion steigt immer
+
+54
+00:01:52,730 --> 00:01:56,750
+langsamer. Und damit wären wir auch
+
+55
+00:01:56,750 --> 00:01:58,450
+schon bei Wurzelgleichung.
+
+56
+00:01:59,730 --> 00:02:00,970
+Wurzelgleichung sind dadurch
+
+57
+00:02:00,970 --> 00:02:02,950
+gekennzeichnet, dass unsere Variable
+
+58
+00:02:02,950 --> 00:02:04,210
+unter der Wurzel steht. Das ist ganz
+
+59
+00:02:04,210 --> 00:02:06,050
+wichtig. Unsere Variable muss unter
+
+60
+00:02:06,050 --> 00:02:07,750
+der Wurzel stehen. Wenn unsere
+
+61
+00:02:07,750 --> 00:02:09,310
+Variable nicht unter der Wurzel
+
+62
+00:02:09,310 --> 00:02:11,190
+steht, haben wir keine
+
+63
+00:02:11,190 --> 00:02:12,390
+Wurzelgleichung vorliegen.
+
+64
+00:02:18,580 --> 00:02:20,240
+Grundsätzliche Rechenregeln ändern
+
+65
+00:02:20,240 --> 00:02:22,260
+sich zu ganz rationalen Funktionen
+
+66
+00:02:22,260 --> 00:02:24,900
+nicht. Es sind auch ganz normale
+
+67
+00:02:24,900 --> 00:02:26,120
+Gleichungen, wie wir sie von ganz
+
+68
+00:02:26,120 --> 00:02:29,200
+rationalen Funktionen kennen. Man
+
+69
+00:02:29,200 --> 00:02:31,180
+muss hier nur ein, zwei Sachen dabei
+
+70
+00:02:31,180 --> 00:02:34,360
+beachten. Und dann starten wir jetzt
+
+71
+00:02:34,360 --> 00:02:37,000
+auch schon direkt mit dem Lösen solch
+
+72
+00:02:37,000 --> 00:02:38,920
+einer Wurzelgleichung. Man sieht
+
+73
+00:02:38,920 --> 00:02:40,340
+hier, es sind quasi vier Schritte,
+
+74
+00:02:40,360 --> 00:02:42,880
+die es zu beachten gilt. Als erstes,
+
+75
+00:02:42,880 --> 00:02:43,980
+wie schon gesagt, wir müssen die
+
+76
+00:02:43,980 --> 00:02:45,400
+Definitionsmenge der Wurzel kennen.
+
+77
+00:02:45,400 --> 00:02:47,520
+Die sollten wir als erstes bestimmen.
+
+78
+00:02:47,820 --> 00:02:49,660
+Danach versuchen wir die Wurzel zu
+
+79
+00:02:49,660 --> 00:02:51,860
+isolieren im zweiten Schritt, um
+
+80
+00:02:51,860 --> 00:02:53,880
+anschließend im dritten Schritt die
+
+81
+00:02:53,880 --> 00:02:55,620
+Gleichung zu quadrieren, also bei der
+
+82
+00:02:55,620 --> 00:02:58,000
+Quadratwurzel quadrieren und so die
+
+83
+00:02:58,000 --> 00:03:02,240
+Wurzel zu eliminieren. Also im
+
+84
+00:03:02,240 --> 00:03:04,780
+dritten Schritt versuchen wir unsere
+
+85
+00:03:04,780 --> 00:03:06,740
+Wurzel zu eliminieren und das Ganze
+
+86
+00:03:06,740 --> 00:03:09,480
+dann aufzulösen, um letztendlich dann
+
+87
+00:03:09,480 --> 00:03:11,380
+bei 4 einmal zu schauen, ob unser
+
+88
+00:03:11,380 --> 00:03:13,580
+Ergebnis im Definitionsbereich liegt
+
+89
+00:03:13,580 --> 00:03:16,380
+und nochmal die Probe zu machen. Aber
+
+90
+00:03:16,380 --> 00:03:18,140
+fangen wir mit Punkt 1 an, die
+
+91
+00:03:18,140 --> 00:03:20,980
+Definitionsmenge. Wir müssen die
+
+92
+00:03:20,980 --> 00:03:22,460
+Definitionsmenge der Wurzel unbedingt
+
+93
+00:03:22,460 --> 00:03:24,140
+kennen, weil wir sonst nicht wissen,
+
+94
+00:03:24,380 --> 00:03:25,980
+was für Zahlen wir einsetzen dürfen
+
+95
+00:03:25,980 --> 00:03:28,380
+und ob die Lösung, die wir am Ende
+
+96
+00:03:28,380 --> 00:03:30,280
+berechnet haben, überhaupt... in
+
+97
+00:03:30,280 --> 00:03:31,640
+unserer Definitionsmenge liegt. Es
+
+98
+00:03:31,640 --> 00:03:32,560
+kommt nämlich sehr oft bei
+
+99
+00:03:32,560 --> 00:03:33,880
+Wurzelgleichungen vor, dass man ein
+
+100
+00:03:33,880 --> 00:03:35,140
+Ergebnis hat, was außerhalb des
+
+101
+00:03:35,140 --> 00:03:37,060
+Definitionsbereichs liegt. Einfach
+
+102
+00:03:37,060 --> 00:03:38,880
+durch dieses Quadrieren. Daher ist es
+
+103
+00:03:38,880 --> 00:03:40,580
+zwingend nötig, als erstes die
+
+104
+00:03:40,580 --> 00:03:44,840
+Definitionsmenge zu bestimmen. Wir
+
+105
+00:03:44,840 --> 00:03:46,700
+führen diese Wurzelgleichung oder das
+
+106
+00:03:46,700 --> 00:03:48,400
+Lösen dieser Wurzelgleichung anhand
+
+107
+00:03:48,400 --> 00:03:49,900
+des Beispiels 2 mal Klammer auf
+
+108
+00:03:49,900 --> 00:03:52,840
+Wurzel aus x plus 4 minus 2 Klammer
+
+109
+00:03:52,840 --> 00:03:56,420
+zu gleich 14 vor. und die
+
+110
+00:03:56,420 --> 00:03:58,060
+Definitionsmenge einer Wurzel
+
+111
+00:03:58,060 --> 00:04:00,620
+berechnet man immer durch die
+
+112
+00:04:00,620 --> 00:04:02,520
+Bedingungen, die man hat. Das ist bei
+
+113
+00:04:02,520 --> 00:04:04,660
+der Quadratwurzel einfach die, dass
+
+114
+00:04:04,660 --> 00:04:07,140
+unter der Wurzel immer ein Wert
+
+115
+00:04:07,140 --> 00:04:11,980
+größer gleich 0 stehen muss, denn aus
+
+116
+00:04:11,980 --> 00:04:14,300
+negativen Zahlen können wir mit
+
+117
+00:04:14,300 --> 00:04:16,420
+unserem Zahlenraum keine Wurzeln
+
+118
+00:04:16,420 --> 00:04:19,920
+ziehen. Daher gilt bei uns x plus 4
+
+119
+00:04:19,920 --> 00:04:21,920
+ist größer gleich 0. Das wäre die
+
+120
+00:04:21,920 --> 00:04:25,720
+Gleichung dafür. und wir werden dann,
+
+121
+00:04:25,740 --> 00:04:27,020
+wenn wir diese Ungleichung lösen,
+
+122
+00:04:27,040 --> 00:04:30,000
+rausbekommen, dass x größer gleich
+
+123
+00:04:30,000 --> 00:04:34,300
+minus 4 ist. Heißt, für alle x, die
+
+124
+00:04:34,300 --> 00:04:36,440
+größer gleich minus 4 sind, ist
+
+125
+00:04:36,440 --> 00:04:38,720
+unsere Wurzelgleichung definiert,
+
+126
+00:04:38,740 --> 00:04:39,660
+beziehungsweise unsere
+
+127
+00:04:39,660 --> 00:04:41,480
+Wurzelfunktion, wenn man so möchte.
+
+128
+00:04:42,480 --> 00:04:44,240
+Damit hätten wir Schritt 1
+
+129
+00:04:44,240 --> 00:04:46,840
+abgeschlossen. Wir haben unseren
+
+130
+00:04:46,840 --> 00:04:48,380
+Definitionsbereich, unsere
+
+131
+00:04:48,380 --> 00:04:50,580
+Definitionsmenge und können somit
+
+132
+00:04:50,580 --> 00:04:53,480
+Schritt 2 anfangen. Die Wurzel zu
+
+133
+00:04:53,480 --> 00:04:56,500
+isolieren bedeutet, dass wir die
+
+134
+00:04:56,500 --> 00:04:58,480
+Wurzel aus x plus 4 am Ende alleine
+
+135
+00:04:58,480 --> 00:05:01,160
+stehen haben. Das heißt, wir fangen
+
+136
+00:05:01,160 --> 00:05:04,440
+jetzt an und holen als erstes die 2
+
+137
+00:05:04,440 --> 00:05:06,560
+vor der Klammer weg. Wir haben ja
+
+138
+00:05:06,560 --> 00:05:08,640
+zweimal die Klammer, deswegen teilen
+
+139
+00:05:08,640 --> 00:05:10,820
+wir alles durch 2, damit die 2 davor
+
+140
+00:05:10,820 --> 00:05:13,060
+verschwindet. Heißt, wir müssen auch
+
+141
+00:05:13,060 --> 00:05:15,500
+die 14 durch 2 teilen. Deswegen steht
+
+142
+00:05:15,500 --> 00:05:17,180
+hier nur noch eine 7. Wir erhalten so
+
+143
+00:05:17,180 --> 00:05:19,960
+die Die Wurzel aus x plus 4 minus 2
+
+144
+00:05:19,960 --> 00:05:23,340
+ist gleich 7. Die minus 2 muss dann
+
+145
+00:05:23,340 --> 00:05:25,260
+noch zwangsläufig weg. Ich würde
+
+146
+00:05:25,260 --> 00:05:28,160
+immer raten, auch wenn es viel Arbeit
+
+147
+00:05:28,160 --> 00:05:29,040
+ist und vielleicht auch manchmal ein
+
+148
+00:05:29,040 --> 00:05:31,380
+bisschen unnötig erscheint, das so
+
+149
+00:05:31,380 --> 00:05:32,360
+lange umzustellen und zu
+
+150
+00:05:32,360 --> 00:05:33,700
+vereinfachen, bis die Wurzel wirklich
+
+151
+00:05:33,700 --> 00:05:36,060
+komplett alleine steht. Sonst braucht
+
+152
+00:05:36,060 --> 00:05:38,920
+man fast immer binomische Formeln.
+
+153
+00:05:39,480 --> 00:05:41,520
+Und das ist nicht so schön. Man macht
+
+154
+00:05:41,520 --> 00:05:42,540
+die Sache komplizierter, als sie
+
+155
+00:05:42,540 --> 00:05:44,860
+eigentlich ist. Daher auf jeden Fall
+
+156
+00:05:44,860 --> 00:05:47,080
+noch die 2 rüberholen. Das machen wir
+
+157
+00:05:47,080 --> 00:05:49,280
+durch eine plus 2, da können wir die
+
+158
+00:05:49,280 --> 00:05:51,400
+minus 2 wegholen. Dann haben wir die
+
+159
+00:05:51,400 --> 00:05:53,660
+Wurzel aus x plus 4 ist gleich 7 plus
+
+160
+00:05:53,660 --> 00:05:56,180
+2, also 9. Und jetzt sieht man schön,
+
+161
+00:05:56,320 --> 00:05:58,300
+die Wurzel steht alleine und auf der
+
+162
+00:05:58,300 --> 00:05:59,680
+rechten Seite steht auch nur eine 9.
+
+163
+00:06:00,500 --> 00:06:02,280
+Das heißt, wenn hier
+
+164
+00:06:05,220 --> 00:06:06,860
+keine Addition oder Subtraktion
+
+165
+00:06:06,860 --> 00:06:09,720
+steht, dann brauchen wir auch keine
+
+166
+00:06:09,720 --> 00:06:11,700
+binomische formen das ist sehr schön
+
+167
+00:06:11,700 --> 00:06:14,220
+bei der aufgabe deswegen ist der
+
+168
+00:06:14,220 --> 00:06:16,200
+schritt 2 abgeschlossen unsere wurzel
+
+169
+00:06:16,200 --> 00:06:18,200
+steht alleine und wir können mit
+
+170
+00:06:18,200 --> 00:06:20,840
+schritt 3 anfangen das heißt wir
+
+171
+00:06:20,840 --> 00:06:24,640
+quadrieren hier
+
+172
+00:06:27,160 --> 00:06:28,660
+steht es noch mal der hinweis wenn
+
+173
+00:06:28,660 --> 00:06:30,420
+hier rechts eine summe stünde oder
+
+174
+00:06:30,420 --> 00:06:31,620
+auch vielleicht links dann brauchen
+
+175
+00:06:31,620 --> 00:06:33,260
+wir zwangsläufig die binomische
+
+176
+00:06:33,260 --> 00:06:35,560
+formel formeln beim quadrieren denn
+
+177
+00:06:35,560 --> 00:06:37,100
+wir quadrieren das ganze jetzt und
+
+178
+00:06:37,100 --> 00:06:39,040
+dann haben wir das quadrat aus der
+
+179
+00:06:39,040 --> 00:06:41,660
+wurzel aus x plus 4 ist gleich die 9
+
+180
+00:06:41,660 --> 00:06:43,100
+zum Quadrat, also die ganze Seite
+
+181
+00:06:43,100 --> 00:06:45,760
+immer. Quadrat und Wurzel gleicht
+
+182
+00:06:45,760 --> 00:06:47,080
+sich aus, deswegen quadrieren wir ja
+
+183
+00:06:47,080 --> 00:06:48,940
+auch. Deswegen steht links jetzt x
+
+184
+00:06:48,940 --> 00:06:51,240
+plus 4 und rechts steht 9 zum
+
+185
+00:06:51,240 --> 00:06:54,620
+Quadrat, also 81. Und hätten wir
+
+186
+00:06:54,620 --> 00:06:56,040
+jetzt hier rechts stehen gehabt 9
+
+187
+00:06:56,040 --> 00:06:59,120
+plus x, hätten wir diesen Term 9 plus
+
+188
+00:06:59,120 --> 00:07:01,680
+x quadrieren müssen. Und da hätten
+
+189
+00:07:01,680 --> 00:07:02,620
+wir die binomische Formel für
+
+190
+00:07:02,620 --> 00:07:05,830
+gebraucht. Die brauchen wir jetzt,
+
+191
+00:07:05,870 --> 00:07:07,310
+wie mehrmals gesagt, aber nicht. und
+
+192
+00:07:07,310 --> 00:07:08,910
+wir haben jetzt x plus 4 ist gleich
+
+193
+00:07:08,910 --> 00:07:10,970
+81 und damit sind wir jetzt, wie am
+
+194
+00:07:10,970 --> 00:07:12,050
+Anfang schon gesagt, unsere
+
+195
+00:07:12,050 --> 00:07:14,270
+Wurzelgleichung los. Das ist jetzt
+
+196
+00:07:14,270 --> 00:07:16,350
+eine ganz einfache lineare Gleichung,
+
+197
+00:07:16,390 --> 00:07:18,250
+die können wir jetzt lösen. Wir
+
+198
+00:07:18,250 --> 00:07:20,870
+rechnen jetzt minus 4, dann haben wir
+
+199
+00:07:20,870 --> 00:07:24,450
+x ist gleich 81 minus 4, 77. Das ist
+
+200
+00:07:24,450 --> 00:07:25,830
+jetzt erstmal die Lösung unserer
+
+201
+00:07:25,830 --> 00:07:27,870
+Gleichung. Jetzt sollte man aber auf
+
+202
+00:07:27,870 --> 00:07:30,090
+keinen Fall schon die Lösung angeben,
+
+203
+00:07:30,130 --> 00:07:32,970
+denn wir wissen ja nicht mal, ob die
+
+204
+00:07:32,970 --> 00:07:35,290
+Lösung möglich ist. Das heißt, wir
+
+205
+00:07:35,290 --> 00:07:36,770
+müssen jetzt erstmal Schritt 4 noch
+
+206
+00:07:36,770 --> 00:07:39,010
+ausführen, das ist die Probe und
+
+207
+00:07:39,010 --> 00:07:41,290
+dafür schauen wir als erstes, ob die
+
+208
+00:07:41,290 --> 00:07:43,410
+Lösung überhaupt in unserer
+
+209
+00:07:43,410 --> 00:07:45,150
+Definitionsmenge liegt. Wir hatten ja
+
+210
+00:07:45,150 --> 00:07:47,770
+als erstes, also in Schritt 1, die
+
+211
+00:07:47,770 --> 00:07:49,830
+Definitionsmenge bestimmt und kamen
+
+212
+00:07:49,830 --> 00:07:51,990
+da zu dem Ergebnis, dass die
+
+213
+00:07:51,990 --> 00:07:55,530
+Gleichung für alle, bzw. die Wurzel
+
+214
+00:07:55,530 --> 00:07:58,010
+für alle x, die größer gleich minus 4
+
+215
+00:07:58,010 --> 00:08:00,790
+sind, definiert sind. Wir haben jetzt
+
+216
+00:08:00,790 --> 00:08:02,710
+die 77 als Lösung, die ist definitiv.
+
+217
+00:08:02,930 --> 00:08:06,310
+größer als die minus 4 folglich ist
+
+218
+00:08:06,310 --> 00:08:07,270
+unsere wurzel dafür schon mal
+
+219
+00:08:07,270 --> 00:08:09,130
+definiert und das ergebnis scheint
+
+220
+00:08:09,130 --> 00:08:10,550
+auch richtig zu sein das ganze können
+
+221
+00:08:10,550 --> 00:08:11,690
+wir jetzt noch mittels der probe
+
+222
+00:08:11,690 --> 00:08:14,490
+beweisen das heißt wir setzen einfach
+
+223
+00:08:14,490 --> 00:08:18,610
+unsere lösung für unser x ein unsere
+
+224
+00:08:18,610 --> 00:08:20,950
+ausgangs gleichung war war ja zweimal
+
+225
+00:08:20,950 --> 00:08:22,930
+klammer auf die wurzel aus x plus 4
+
+226
+00:08:22,930 --> 00:08:26,070
+minus 2 klammer zu ist gleich 14 und
+
+227
+00:08:26,070 --> 00:08:27,250
+für dieses Dieses x setzen wir jetzt
+
+228
+00:08:27,250 --> 00:08:29,610
+die 77 ein, so kommen wir auf 2 mal,
+
+229
+00:08:29,670 --> 00:08:32,610
+Klammer auf, die Wurzel aus 77 plus 4
+
+230
+00:08:32,610 --> 00:08:34,550
+minus 2, Klammer zu, ist gleich 14.
+
+231
+00:08:36,550 --> 00:08:38,710
+77 plus 4, das rechnen wir aus, auf
+
+232
+00:08:38,710 --> 00:08:40,130
+keinen Fall jetzt einzeln die Wurzeln
+
+233
+00:08:40,130 --> 00:08:42,750
+ziehen, das geht nämlich nicht. Und
+
+234
+00:08:42,750 --> 00:08:45,410
+77 plus 4 ist dann 81, die Wurzel aus
+
+235
+00:08:45,410 --> 00:08:47,290
+81 können wir schön ziehen, das ist
+
+236
+00:08:47,290 --> 00:08:49,410
+die 9. Deswegen steht im nächsten
+
+237
+00:08:49,410 --> 00:08:51,630
+Schritt auch nur noch 2 mal Klammer
+
+238
+00:08:51,630 --> 00:08:53,590
+auf 9 minus 2 Klammer zu ist gleich
+
+239
+00:08:53,590 --> 00:08:56,150
+14. Jetzt rechnen wir erst das
+
+240
+00:08:56,150 --> 00:08:57,630
+innerhalb der Klammer aus. Das heißt
+
+241
+00:08:57,630 --> 00:09:01,430
+9 minus 2 ist 7 und 2 mal 7 sind 14.
+
+242
+00:09:01,530 --> 00:09:03,670
+Das heißt es ist alles richtig. Die
+
+243
+00:09:03,670 --> 00:09:05,770
+Lösung der Gleichung ist wirklich 77.
+
+244
+00:09:06,970 --> 00:09:09,030
+Und damit hätten wir die Aufgabe auch
+
+245
+00:09:09,030 --> 00:09:09,830
+schon beendet.
+
+246
+00:09:12,480 --> 00:09:14,480
+Damit sind wir nun auch schon am Ende
+
+247
+00:09:14,480 --> 00:09:16,720
+des Webinars. Ich bedanke mich recht
+
+248
+00:09:16,720 --> 00:09:18,080
+herzlich für eure Aufmerksamkeit.
+

@@ -1,0 +1,382 @@
+﻿1
+00:00:00,270 --> 00:00:04,210
+How pleasant and easy it would be if 
+
+2
+00:00:04,210 --> 00:00:06,210
+we 
+
+3
+00:00:06,210 --> 00:00:08,210
+could move participants from the course 
+schedule , 
+
+4
+00:00:08,210 --> 00:00:10,030
+not just within a day, 
+
+5
+00:00:10,090 --> 00:00:13,290
+but also 
+
+6
+00:00:13,290 --> 00:00:15,410
+make changes to subjects over the course 
+of a day, 
+
+7
+00:00:15,410 --> 00:00:17,050
+and all this 
+
+8
+00:00:17,050 --> 00:00:19,790
+taking into account the course load 
+
+9
+00:00:19,790 --> 00:00:20,610
+or the 
+
+10
+00:00:20,610 --> 00:00:24,010
+course composition. We would have 
+
+11
+00:00:24,010 --> 00:00:26,090
+a lot of winners. 
+
+12
+00:00:26,090 --> 00:00:28,430
+On the one hand, we have the students as 
+
+13
+00:00:28,430 --> 00:00:30,310
+winners, who 
+
+14
+00:00:30,310 --> 00:00:32,190
+have the right course for them. But we 
+also have the teachers 
+
+15
+00:00:32,190 --> 00:00:34,550
+as winners because they 
+
+16
+00:00:34,550 --> 00:00:36,910
+also 
+
+17
+00:00:36,910 --> 00:00:40,230
+have a suitable course. And last but not 
+least, we 
+
+18
+00:00:40,230 --> 00:00:41,470
+as student support managers have of course 
+
+19
+00:00:41,470 --> 00:00:43,790
+also 
+
+20
+00:00:43,790 --> 00:00:46,670
+gained a great deal by saving time and 
+
+21
+00:00:46,670 --> 00:00:49,890
+
+22
+00:00:49,890 --> 00:00:52,970
+being able to show the results in just a 
+few clicks . 
+
+23
+00:00:52,970 --> 00:00:55,290
+You can do all this with this little 
+function, which 
+
+24
+00:00:55,290 --> 00:00:56,910
+is shown here far too small, 
+
+25
+00:00:56,950 --> 00:00:59,170
+move mode. When I 
+
+26
+00:00:59,170 --> 00:01:01,810
+activate this function, 
+
+27
+00:01:01,810 --> 00:01:03,550
+these two arrows move through and 
+
+28
+00:01:03,550 --> 00:01:05,750
+these three small dots 
+
+29
+00:01:05,750 --> 00:01:07,630
+now become targets. 
+
+30
+00:01:07,630 --> 00:01:10,530
+Pay attention. Crossed out, here we 
+
+31
+00:01:10,530 --> 00:01:12,750
+have the targets. I have 
+
+32
+00:01:12,970 --> 00:01:14,830
+
+33
+00:01:14,830 --> 00:01:16,230
+already 
+
+34
+00:01:16,230 --> 00:01:19,130
+made a restriction in order to be able to 
+display the function better. This is about 
+
+35
+00:01:19,130 --> 00:01:20,770
+Christina. Christina can no longer 
+
+36
+00:01:20,770 --> 00:01:22,030
+come to lessons on Wednesday, 
+
+37
+00:01:22,190 --> 00:01:23,570
+but would like to 
+
+38
+00:01:23,570 --> 00:01:25,590
+attend lessons on Saturday this week. 
+
+39
+00:01:25,710 --> 00:01:27,870
+And this is about mathematics. And 
+
+40
+00:01:27,870 --> 00:01:28,910
+that's why I've 
+
+41
+00:01:28,910 --> 00:01:30,610
+already restricted the subject 
+accordingly. 
+
+42
+00:01:31,990 --> 00:01:33,370
+I have 
+
+43
+00:01:33,370 --> 00:01:35,130
+activated this postponement mode. Now I go 
+to the 
+
+44
+00:01:35,130 --> 00:01:38,850
+student, click 
+
+45
+00:01:38,850 --> 00:01:40,750
+once on the student 's reference line and 
+it 
+
+46
+00:01:40,750 --> 00:01:43,350
+turns orange. 
+
+47
+00:01:43,350 --> 00:01:45,370
+I then look at the course that 
+
+48
+00:01:45,370 --> 00:01:47,690
+Christina would like to attend in the 
+future. 
+
+49
+00:01:47,810 --> 00:01:50,410
+For this Saturday, 9.9., 
+
+50
+00:01:50,670 --> 00:01:53,250
+she would like to 
+
+51
+00:01:53,250 --> 00:01:54,930
+come to class at 10.30 am. That means my 
+
+52
+00:01:54,930 --> 00:01:57,190
+mouse is not drawn, nothing is 
+
+53
+00:01:57,190 --> 00:01:58,930
+held. I go to the 
+
+54
+00:01:58,930 --> 00:02:01,250
+target, click 
+
+55
+00:02:01,250 --> 00:02:03,870
+on it briefly and the system interprets 
+
+56
+00:02:03,870 --> 00:02:06,070
+my action. I would like to 
+
+57
+00:02:06,070 --> 00:02:08,830
+move a participant. This 
+
+58
+00:02:08,830 --> 00:02:12,010
+shift takes place from the Wednesday 
+course 
+
+59
+00:02:12,010 --> 00:02:14,710
+with the teacher. The participant is 
+
+60
+00:02:14,710 --> 00:02:16,650
+named. In the new course, the 
+
+61
+00:02:16,650 --> 00:02:19,770
+change takes effect on 9.9. The first 
+
+62
+00:02:19,770 --> 00:02:22,610
+question I am asked is whether it is 
+
+63
+00:02:22,610 --> 00:02:24,690
+a one-off change 
+
+64
+00:02:24,690 --> 00:02:26,510
+, i.e. a change from 
+
+65
+00:02:26,510 --> 00:02:29,350
+Wednesday to Saturday in 
+
+66
+00:02:29,350 --> 00:02:32,770
+mathematics, or whether it will be a 
+
+67
+00:02:32,770 --> 00:02:34,430
+complete change in the future. I 
+
+68
+00:02:34,430 --> 00:02:36,250
+decide to make a one-off 
+
+69
+00:02:36,250 --> 00:02:39,210
+change, save the process 
+
+70
+00:02:39,210 --> 00:02:41,930
+and now see that Christina 
+
+71
+00:02:41,930 --> 00:02:43,870
+is excused here and here she is with the 
+
+72
+00:02:43,870 --> 00:02:46,950
+extra lesson. 
+
+73
+00:02:46,950 --> 00:02:48,850
+I would like to open a second example 
+
+74
+00:02:48,970 --> 00:02:52,130
+in which Robin will no longer be 
+
+75
+00:02:52,130 --> 00:02:54,390
+able to come to class on Wednesdays 
+
+76
+00:02:54,470 --> 00:02:56,390
+due to the timetable change, 
+
+77
+00:02:56,430 --> 00:02:59,230
+but will now 
+
+78
+00:02:59,230 --> 00:03:01,610
+attend class on Saturday at 12 noon . 
+
+79
+00:03:01,610 --> 00:03:03,970
+Here, too , I have 
+
+80
+00:03:03,970 --> 00:03:06,510
+activated the shift mode. I go 
+
+81
+00:03:06,510 --> 00:03:08,430
+to the student's line, click 
+
+82
+00:03:08,430 --> 00:03:10,910
+on it once, it changes color, go 
+
+83
+00:03:10,910 --> 00:03:13,650
+to the target and select 
+
+84
+00:03:13,650 --> 00:03:16,030
+
+85
+00:03:16,030 --> 00:03:18,470
+attendance as the second option. Will 
+always 
+
+86
+00:03:18,470 --> 00:03:20,950
+take place on Saturdays from now on . 
+Until the next 
+
+87
+00:03:20,950 --> 00:03:25,140
+change. Save. You can see here that 
+
+88
+00:03:25,320 --> 00:03:28,140
+participation has ended and 
+
+89
+00:03:28,140 --> 00:03:30,420
+Robin is a major participant here. 
+
+90
+00:03:31,380 --> 00:03:35,970
+suitable course. I invite you to 
+
+91
+00:03:35,970 --> 00:03:37,870
+give it a try, have fun 
+
+92
+00:03:37,870 --> 00:03:41,430
+and wish you every 
+
+93
+00:03:41,430 --> 00:03:41,990
+success. 

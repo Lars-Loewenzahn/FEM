@@ -1,0 +1,785 @@
+﻿1
+00:00:00,880 --> 00:00:02,940
+Hello and welcome to the 
+
+2
+00:00:02,940 --> 00:00:05,480
+Schülerhilfe learning videos. 
+
+3
+00:00:05,480 --> 00:00:06,720
+This module is about the 
+
+4
+00:00:06,720 --> 00:00:07,740
+introduction in a 
+
+5
+00:00:07,740 --> 00:00:09,000
+scientific paper. 
+
+6
+00:00:11,830 --> 00:00:13,710
+We start with general 
+
+7
+00:00:13,710 --> 00:00:15,790
+information and then look at 
+
+8
+00:00:15,790 --> 00:00:18,990
+the structure and content. Here 
+
+9
+00:00:18,990 --> 00:00:21,790
+we cover the subtopics, the 
+
+10
+00:00:21,790 --> 00:00:24,890
+introduction of the topic, the aim of the 
+
+11
+00:00:24,890 --> 00:00:29,450
+paper, sources, methods, an 
+
+12
+00:00:29,450 --> 00:00:31,410
+overview of the structure of the paper 
+
+13
+00:00:31,410 --> 00:00:34,330
+and what you will not cover. 
+
+14
+00:00:35,490 --> 00:00:37,210
+Finally, there is a conclusion. 
+
+15
+00:00:40,160 --> 00:00:41,120
+General information 
+
+16
+00:00:45,160 --> 00:00:47,400
+What is the purpose of an introduction? 
+
+17
+00:00:48,400 --> 00:00:50,120
+First of all, it should give a concise 
+
+18
+00:00:50,120 --> 00:00:52,840
+impression of the topic. It 
+
+19
+00:00:52,840 --> 00:00:54,780
+should make it clear what the reader 
+
+20
+00:00:54,780 --> 00:00:56,240
+can expect on the following pages. 
+
+21
+00:00:57,060 --> 00:00:59,140
+It should also 
+
+22
+00:00:59,140 --> 00:01:02,640
+arouse the reader' s curiosity . The 
+length depends 
+
+23
+00:01:02,640 --> 00:01:03,680
+on the time available and the overall 
+scope 
+
+24
+00:01:03,680 --> 00:01:06,480
+of the academic paper. The 
+
+25
+00:01:06,480 --> 00:01:09,340
+introduction should make up about 10% of 
+the 
+
+26
+00:01:09,340 --> 00:01:13,480
+total text. It makes 
+
+27
+00:01:13,480 --> 00:01:14,940
+sense to 
+
+28
+00:01:14,940 --> 00:01:16,880
+write the introduction only when the 
+complete 
+
+29
+00:01:16,880 --> 00:01:18,040
+structure is already known. 
+
+30
+00:01:20,960 --> 00:01:22,440
+Structure and content. 
+
+31
+00:01:25,150 --> 00:01:26,750
+Let's start by 
+
+32
+00:01:26,750 --> 00:01:29,650
+introducing the topic. The topic 
+
+33
+00:01:29,650 --> 00:01:31,330
+should 
+
+34
+00:01:31,330 --> 00:01:34,290
+be placed in a larger context . Give an 
+indication of the 
+
+35
+00:01:34,290 --> 00:01:35,830
+overarching significance or 
+
+36
+00:01:35,830 --> 00:01:39,290
+topicality of the topic. If the topic 
+
+37
+00:01:39,290 --> 00:01:41,290
+was not predetermined, but you 
+
+38
+00:01:41,290 --> 00:01:42,510
+chose the topic yourself 
+
+39
+00:01:42,510 --> 00:01:44,710
+, explain why you chose 
+
+40
+00:01:44,710 --> 00:01:46,110
+it. 
+
+41
+00:01:47,310 --> 00:01:49,130
+Also answer the question of why it is 
+
+42
+00:01:49,130 --> 00:01:50,610
+actually 
+
+43
+00:01:50,610 --> 00:01:51,370
+important to deal with the topic. 
+
+44
+00:01:55,080 --> 00:01:56,860
+Here are two examples of a 
+
+45
+00:01:56,860 --> 00:01:58,480
+boring and a gripping 
+
+46
+00:01:58,480 --> 00:02:01,600
+introduction. A boring introduction 
+
+47
+00:02:01,600 --> 00:02:04,240
+would be that this work deals with 
+
+48
+00:02:04,240 --> 00:02:07,040
+the architecture of Cologne Cathedral. A 
+
+49
+00:02:07,040 --> 00:02:10,100
+gripping introduction would be that 
+Cologne 
+
+50
+00:02:10,100 --> 00:02:11,640
+Cathedral is one of the largest and 
+
+51
+00:02:11,640 --> 00:02:13,180
+most important cathedrals in the 
+
+52
+00:02:13,180 --> 00:02:14,160
+Gothic architectural style. 
+
+53
+00:02:16,650 --> 00:02:18,730
+Now let's look at the aim of the work 
+
+54
+00:02:18,730 --> 00:02:21,150
+. What do you want to 
+
+55
+00:02:21,150 --> 00:02:23,490
+achieve in the next few pages? What do you 
+want to 
+
+56
+00:02:23,490 --> 00:02:26,470
+prove? Which positions or 
+
+57
+00:02:26,970 --> 00:02:29,050
+theses in the specialist literature do you 
+want to 
+
+58
+00:02:29,050 --> 00:02:31,970
+critically question? 
+
+59
+00:02:31,970 --> 00:02:33,950
+Based on your goal, draft one or more 
+
+60
+00:02:33,950 --> 00:02:36,050
+key questions that you 
+
+61
+00:02:36,050 --> 00:02:40,170
+will answer in the main section. 
+Attention! 
+
+62
+00:02:40,170 --> 00:02:41,970
+Make sure that your key questions 
+
+63
+00:02:41,970 --> 00:02:43,590
+
+64
+00:02:43,590 --> 00:02:46,150
+can be answered within the scope of your 
+paper. The topic should not be 
+
+65
+00:02:46,150 --> 00:02:47,830
+too broad, but also not too narrow 
+
+66
+00:02:47,830 --> 00:02:48,470
+. 
+
+67
+00:02:51,680 --> 00:02:52,860
+Here are some 
+
+68
+00:02:53,520 --> 00:02:54,360
+example formulations that you 
+
+69
+00:02:54,360 --> 00:02:56,320
+can use when it comes to the aim 
+
+70
+00:02:56,320 --> 00:02:59,900
+of the paper. The thesis has 
+
+71
+00:02:59,900 --> 00:03:02,900
+the following objectives. The main aim of 
+the 
+
+72
+00:03:02,900 --> 00:03:05,900
+thesis is. The work clarifies. 
+
+73
+00:03:06,540 --> 00:03:08,360
+The thesis should explain 
+
+74
+00:03:08,360 --> 00:03:11,280
+how? This work should 
+
+75
+00:03:11,280 --> 00:03:13,540
+express that... 
+
+76
+00:03:16,710 --> 00:03:18,430
+Next, some notes on 
+
+77
+00:03:18,430 --> 00:03:20,010
+citing sources in the 
+
+78
+00:03:20,010 --> 00:03:23,090
+introduction. Give an insight into 
+
+79
+00:03:23,090 --> 00:03:24,570
+the most important literature you 
+
+80
+00:03:24,570 --> 00:03:27,110
+use. Do not 
+
+81
+00:03:27,110 --> 00:03:28,590
+simply list the individual books and 
+
+82
+00:03:28,590 --> 00:03:30,570
+articles, but refer to 
+
+83
+00:03:30,570 --> 00:03:33,590
+them. If necessary, quote 
+
+84
+00:03:33,590 --> 00:03:37,190
+key author statements for your topic. 
+
+85
+00:03:37,190 --> 00:03:38,890
+What do the respective contents achieve? 
+
+86
+00:03:40,130 --> 00:03:42,030
+To what extent have authors dealt 
+
+87
+00:03:42,030 --> 00:03:44,810
+with the topic so far ? 
+
+88
+00:03:44,810 --> 00:03:46,350
+Mentioning sources helps to 
+
+89
+00:03:46,470 --> 00:03:47,870
+
+90
+00:03:47,870 --> 00:03:48,630
+present the current state of research. 
+
+91
+00:03:50,880 --> 00:03:52,260
+Here you can see some 
+
+92
+00:03:52,260 --> 00:03:54,280
+example formulations to make it clear 
+
+93
+00:03:54,280 --> 00:03:55,820
+how you 
+
+94
+00:03:55,820 --> 00:03:59,620
+can mention sources in an introduction. 
+
+95
+00:03:59,620 --> 00:04:03,380
+Caroline 
+
+96
+00:04:03,380 --> 00:04:06,160
+Meyer has recently dealt extensively with 
+the question of how .... In her 
+
+97
+00:04:06,160 --> 00:04:08,640
+book published in 2008, she shows how. 
+
+98
+00:04:09,260 --> 00:04:14,360
+Meier 2008 The standard literature 
+
+99
+00:04:14,360 --> 00:04:17,280
+on the subject of ... is still the book 
+
+100
+00:04:17,280 --> 00:04:19,960
+by Gustav Schmidt, in which the author 
+
+101
+00:04:19,960 --> 00:04:21,740
+proved for the first time that ... 
+
+102
+00:04:22,420 --> 00:04:26,980
+Schmidt 1985 
+
+103
+00:04:26,980 --> 00:04:28,480
+ The 
+
+104
+00:04:28,480 --> 00:04:31,080
+
+105
+00:04:31,080 --> 00:04:33,600
+article by Annalena Baulmann published in 
+1993, in which 
+
+106
+00:04:33,600 --> 00:04:36,500
+the author ... Baulmann, 1993 
+
+107
+00:04:39,380 --> 00:04:41,640
+The research methods depend strongly 
+
+108
+00:04:41,640 --> 00:04:43,220
+on the subject in which the work 
+
+109
+00:04:43,220 --> 00:04:45,860
+is written. 
+
+110
+00:04:45,860 --> 00:04:47,660
+Literature studies are often 
+
+111
+00:04:47,660 --> 00:04:50,540
+carried out at school . Literature studies 
+
+112
+00:04:50,540 --> 00:04:52,020
+deal critically with a 
+
+113
+00:04:52,020 --> 00:04:54,020
+topic, 
+
+114
+00:04:54,020 --> 00:04:56,200
+using only published sources and not 
+
+115
+00:04:56,200 --> 00:04:57,760
+collecting their own data. 
+
+116
+00:04:59,040 --> 00:05:00,360
+You should always explain the 
+
+117
+00:05:00,360 --> 00:05:02,380
+methodology in the introduction. 
+
+118
+00:05:03,440 --> 00:05:05,500
+Possible empirical methods 
+
+119
+00:05:05,500 --> 00:05:08,820
+include experiments, observations, 
+
+120
+00:05:08,980 --> 00:05:12,940
+interviews or studies. Possible 
+
+121
+00:05:12,940 --> 00:05:14,380
+theoretical methods are, for 
+
+122
+00:05:14,380 --> 00:05:16,920
+example, the comparison of several 
+
+123
+00:05:16,920 --> 00:05:19,140
+research approaches or a 
+
+124
+00:05:19,140 --> 00:05:23,910
+deconstruction of ideas. 
+
+125
+00:05:23,910 --> 00:05:25,430
+Another important point in the 
+
+126
+00:05:25,430 --> 00:05:27,230
+introduction is the overview of the 
+
+127
+00:05:27,230 --> 00:05:30,910
+structure of the thesis. Explain how you 
+are 
+
+128
+00:05:30,910 --> 00:05:33,630
+structuring your work. Give a 
+
+129
+00:05:33,630 --> 00:05:35,370
+rough overview of the structure of 
+
+130
+00:05:35,370 --> 00:05:38,490
+your argumentation. Show the reader 
+
+131
+00:05:38,490 --> 00:05:40,290
+the red phases that run through 
+
+132
+00:05:40,290 --> 00:05:43,230
+your paper. You can 
+
+133
+00:05:43,230 --> 00:05:45,010
+refer to your outline 
+
+134
+00:05:45,010 --> 00:05:47,150
+or table of contents. 
+
+135
+00:05:48,070 --> 00:05:50,130
+Outlining the structure is 
+
+136
+00:05:50,130 --> 00:05:52,250
+important so that the reader 
+
+137
+00:05:52,250 --> 00:05:53,910
+knows what to expect right from the start. 
+
+138
+00:05:57,940 --> 00:05:59,760
+Here are a few example formulations 
+
+139
+00:05:59,780 --> 00:06:01,340
+to 
+
+140
+00:06:01,340 --> 00:06:05,260
+explain the structure of a paper. First, 
+it is described 
+
+141
+00:06:05,260 --> 00:06:10,740
+how, then, finally. 
+
+142
+00:06:10,740 --> 00:06:14,000
+Building on this in the first section of 
+the paper, 
+
+143
+00:06:14,000 --> 00:06:16,420
+the second section 
+
+144
+00:06:16,420 --> 00:06:19,840
+concludes. This thesis is 
+
+145
+00:06:19,840 --> 00:06:21,720
+divided into so and so 
+
+146
+00:06:21,720 --> 00:06:24,800
+chapters. The first chapter 
+
+147
+00:06:24,800 --> 00:06:27,520
+explains how the second chapter 
+
+148
+00:06:27,520 --> 00:06:31,800
+is thematized. 
+
+149
+00:06:34,070 --> 00:06:35,710
+It makes sense to 
+
+150
+00:06:35,710 --> 00:06:37,450
+define in the introduction what is covered 
+in the thesis 
+
+151
+00:06:37,450 --> 00:06:40,550
+and what is not. You 
+
+152
+00:06:40,550 --> 00:06:42,230
+can also explain what you are not 
+
+153
+00:06:42,230 --> 00:06:45,310
+addressing. Extensive and 
+
+154
+00:06:45,310 --> 00:06:46,650
+complex topics cannot be 
+
+155
+00:06:46,650 --> 00:06:48,530
+fully covered in one paper 
+
+156
+00:06:48,530 --> 00:06:51,650
+. Therefore, limit your topic. 
+
+157
+00:06:51,970 --> 00:06:53,690
+This way, you won't create 
+
+158
+00:06:53,690 --> 00:06:56,690
+false expectations for the reader. 
+Basically 
+
+159
+00:06:56,690 --> 00:06:59,330
+, the narrower your topic, 
+
+160
+00:06:59,330 --> 00:07:00,690
+the easier it will be for you to 
+
+161
+00:07:00,690 --> 00:07:01,490
+work on it. 
+
+162
+00:07:04,840 --> 00:07:05,640
+Here are a few 
+
+163
+00:07:05,640 --> 00:07:07,680
+examples of how to define 
+
+164
+00:07:07,680 --> 00:07:10,540
+your topic. The work 
+
+165
+00:07:10,540 --> 00:07:11,260
+concentrates 
+
+166
+00:07:11,280 --> 00:07:15,240
+on the topics. The question of how is not 
+
+167
+00:07:15,240 --> 00:07:19,180
+dealt with? I will 
+
+168
+00:07:19,180 --> 00:07:22,560
+not go into this below. A comprehensive 
+treatment of 
+
+169
+00:07:22,560 --> 00:07:24,380
+this topic would 
+
+170
+00:07:24,380 --> 00:07:28,000
+go beyond the scope of this paper. 
+
+171
+00:07:28,000 --> 00:07:29,240
+You have now 
+
+172
+00:07:29,240 --> 00:07:31,340
+become familiar with all the important 
+points that an introduction to 
+
+173
+00:07:31,340 --> 00:07:32,540
+a scientific paper 
+
+174
+00:07:32,540 --> 00:07:35,220
+should contain. 
+
+175
+00:07:35,220 --> 00:07:37,340
+However, the order of points 1 to 6 can 
+
+176
+00:07:37,340 --> 00:07:37,600
+be varied. 
+
+177
+00:07:40,680 --> 00:07:45,600
+Conclusion. In the introduction, you make 
+the 
+
+178
+00:07:45,600 --> 00:07:47,200
+reader curious about the topic, 
+
+179
+00:07:47,380 --> 00:07:49,840
+introduce the topic of the paper 
+
+180
+00:07:49,840 --> 00:07:52,820
+, define the aim of your 
+
+181
+00:07:52,820 --> 00:07:55,480
+work, give a brief 
+
+182
+00:07:55,480 --> 00:07:56,740
+insight into the most important 
+
+183
+00:07:56,740 --> 00:07:58,680
+literature you use and 
+
+184
+00:07:58,680 --> 00:08:00,160
+the current state of research, 
+
+185
+00:08:00,600 --> 00:08:03,220
+explain the methods you 
+
+186
+00:08:03,220 --> 00:08:04,680
+use to achieve your goal, 
+
+187
+00:08:04,960 --> 00:08:07,600
+present the structure of your work 
+
+188
+00:08:07,600 --> 00:08:09,980
+and, if applicable, describe 
+
+189
+00:08:09,980 --> 00:08:11,440
+what you do not address. 
+
+190
+00:08:13,650 --> 00:08:15,570
+Thank you for your attention 
+
+191
+00:08:15,650 --> 00:08:17,550
+and good luck with writing the 
+
+192
+00:08:17,550 --> 00:08:18,090
+introduction. 

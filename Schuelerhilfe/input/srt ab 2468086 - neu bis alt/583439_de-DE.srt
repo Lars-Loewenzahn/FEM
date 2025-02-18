@@ -1,0 +1,828 @@
+1
+00:00:00,460 --> 00:00:02,440
+Hallo und herzlich willkommen zu den
+
+2
+00:00:02,440 --> 00:00:05,640
+Lernvideos der Schülerhilfe. In
+
+3
+00:00:05,640 --> 00:00:07,480
+diesem Modul beschäftigen wir uns mit
+
+4
+00:00:07,480 --> 00:00:10,460
+der Frage, wie erkenne ich gute und
+
+5
+00:00:10,460 --> 00:00:13,440
+bessere Quellen? Und, gibt es
+
+6
+00:00:13,440 --> 00:00:14,920
+überhaupt schlechte Quellen mit
+
+7
+00:00:14,920 --> 00:00:15,760
+falschen Informationen?
+
+8
+00:00:19,460 --> 00:00:21,300
+Wir schauen uns deshalb zuerst an,
+
+9
+00:00:21,380 --> 00:00:22,980
+wie du vertrauenswürdige Quellen
+
+10
+00:00:22,980 --> 00:00:25,920
+erkennen kannst. Danach beschäftigen
+
+11
+00:00:25,920 --> 00:00:27,920
+wir uns mit der Bewertung von Quellen
+
+12
+00:00:27,920 --> 00:00:30,140
+am Beispiel von Wikipedia und
+
+13
+00:00:30,140 --> 00:00:34,240
+Forenbeiträgen. Zum Schluss gehen wir
+
+14
+00:00:34,240 --> 00:00:35,800
+etwas genauer auf schlechte Quellen
+
+15
+00:00:35,800 --> 00:00:38,340
+ein. Wir vergleichen gute und
+
+16
+00:00:38,340 --> 00:00:40,440
+schlechte Quellen und sehen uns
+
+17
+00:00:40,440 --> 00:00:41,520
+Beispiele dazu an.
+
+18
+00:00:44,740 --> 00:00:46,220
+Beginnen wir damit, wie du
+
+19
+00:00:46,220 --> 00:00:47,860
+vertrauenswürdige Quellen erkennen
+
+20
+00:00:47,860 --> 00:00:51,980
+kannst. Im Modul 3 hast du bereits
+
+21
+00:00:51,980 --> 00:00:54,120
+erfahren, welche Merkmale eine
+
+22
+00:00:54,120 --> 00:00:55,920
+vertrauenswürdige Quelle aufweisen
+
+23
+00:00:55,920 --> 00:00:58,900
+sollte. Es sollten keine
+
+24
+00:00:58,900 --> 00:01:01,660
+Rechtschreibfehler vorhanden sein. Es
+
+25
+00:01:01,660 --> 00:01:04,180
+sollten seriöse und qualitativ
+
+26
+00:01:04,180 --> 00:01:05,940
+hochwertige Abbildungen vorhanden
+
+27
+00:01:05,940 --> 00:01:09,040
+sein. Außerdem sollte der Aufbau
+
+28
+00:01:09,040 --> 00:01:11,040
+übersichtlich und die Linkliste
+
+29
+00:01:11,040 --> 00:01:14,440
+gepflegt sein. Vorsicht vor Seiten,
+
+30
+00:01:14,480 --> 00:01:17,820
+die kein Impressum aufweisen. Auch
+
+31
+00:01:17,820 --> 00:01:19,560
+die Aktualität der Seite kann ein
+
+32
+00:01:19,560 --> 00:01:21,500
+Indikator für Seriosität sein.
+
+33
+00:01:23,180 --> 00:01:25,020
+Sachliche und neutrale Erklärungen
+
+34
+00:01:25,020 --> 00:01:27,000
+sowie begründete Wertungen sprechen
+
+35
+00:01:27,000 --> 00:01:28,680
+für eine vertrauenswürdige Quelle.
+
+36
+00:01:30,240 --> 00:01:33,420
+Prüfe zunächst, was ist das Ziel der
+
+37
+00:01:33,420 --> 00:01:36,140
+Internetseite? Ist es eine
+
+38
+00:01:36,140 --> 00:01:38,440
+kommerzielle Seite, also wird etwas
+
+39
+00:01:38,440 --> 00:01:42,280
+verkauft oder beworben? Ist es eine
+
+40
+00:01:42,280 --> 00:01:45,440
+rein informative Seite? Oder ist das
+
+41
+00:01:45,440 --> 00:01:49,060
+Ziel der Seite ein anderes? Wer ist
+
+42
+00:01:49,060 --> 00:01:51,460
+der Betreiber der Seite? Handelt es
+
+43
+00:01:51,460 --> 00:01:53,280
+sich um eine Person, eine
+
+44
+00:01:53,280 --> 00:01:55,400
+Organisation oder einen Verein?
+
+45
+00:01:57,080 --> 00:01:58,760
+Werden auf der Seite zum Beispiel
+
+46
+00:01:58,760 --> 00:02:00,820
+aktuelle Geschehnisse berücksichtigt
+
+47
+00:02:00,820 --> 00:02:02,540
+oder wird ein Produkt präsentiert?
+
+48
+00:02:04,760 --> 00:02:07,220
+Prüfe in jedem Fall den Autor und das
+
+49
+00:02:07,220 --> 00:02:09,980
+Impressum. Wie ist der Name des
+
+50
+00:02:09,980 --> 00:02:12,740
+Autors? Handelt es sich um eine
+
+51
+00:02:12,740 --> 00:02:16,000
+Organisation? Was liefert dir das
+
+52
+00:02:16,000 --> 00:02:19,640
+Impressum für Informationen? Wenn der
+
+53
+00:02:19,640 --> 00:02:20,960
+Betreiber der Seite ein
+
+54
+00:02:20,960 --> 00:02:23,160
+wissenschaftliches Institut, eine
+
+55
+00:02:23,160 --> 00:02:25,240
+öffentliche Einrichtung oder ein
+
+56
+00:02:25,240 --> 00:02:27,580
+bekannter Experte ist, dann spricht
+
+57
+00:02:27,580 --> 00:02:29,060
+das für eine vertrauenswürdige
+
+58
+00:02:29,060 --> 00:02:29,540
+Quelle.
+
+59
+00:02:32,850 --> 00:02:34,670
+Lass uns etwas näher auf die
+
+60
+00:02:34,670 --> 00:02:36,370
+Bewertung von Quellen eingehen.
+
+61
+00:02:39,690 --> 00:02:42,390
+Wikipedia-Einträge oder Forumbeiträge
+
+62
+00:02:42,390 --> 00:02:44,590
+sind immer kritisch zu hinterfragen,
+
+63
+00:02:44,710 --> 00:02:47,010
+denn die Artikel werden hauptsächlich
+
+64
+00:02:47,010 --> 00:02:48,810
+von Privatpersonen verfasst und
+
+65
+00:02:48,810 --> 00:02:51,750
+überprüft. Die Inhalte können daher
+
+66
+00:02:51,750 --> 00:02:55,800
+fehlerhaft sein. Für deine Recherche
+
+67
+00:02:55,800 --> 00:02:58,860
+sollte daher gelten, Verlasse dich
+
+68
+00:02:58,860 --> 00:03:00,340
+nicht ausschließlich auf Wikipedia,
+
+69
+00:03:00,720 --> 00:03:02,940
+sondern nutze es eher, um dir einen
+
+70
+00:03:02,940 --> 00:03:04,960
+Überblick zu verschaffen und weitere
+
+71
+00:03:04,960 --> 00:03:08,260
+Quellen zu finden. Gib die im
+
+72
+00:03:08,260 --> 00:03:10,300
+Wikipedia-Artikel gefundenen Quellen
+
+73
+00:03:10,300 --> 00:03:12,820
+als Primärquellen an, nicht aber den
+
+74
+00:03:12,820 --> 00:03:14,120
+Wikipedia-Artikel selber.
+
+75
+00:03:17,180 --> 00:03:19,310
+Noch größere Vorsicht ist geboten,
+
+76
+00:03:19,310 --> 00:03:20,770
+wenn du Informationen aus
+
+77
+00:03:20,770 --> 00:03:23,490
+Forenbeiträgen nutzen willst. Denn
+
+78
+00:03:23,490 --> 00:03:25,390
+hier wird gar nichts überprüft.
+
+79
+00:03:27,250 --> 00:03:30,050
+Überprüfe deshalb Informationen von
+
+80
+00:03:30,050 --> 00:03:32,530
+Wikipedia oder aus Foren immer, indem
+
+81
+00:03:32,530 --> 00:03:34,210
+du sie mit anderen Quellen wie
+
+82
+00:03:34,210 --> 00:03:36,470
+Büchern, Zeitschriften und
+
+83
+00:03:36,470 --> 00:03:38,090
+Internetseiten abgleichst.
+
+84
+00:03:40,680 --> 00:03:42,760
+Woran erkennst du nun einen guten
+
+85
+00:03:42,760 --> 00:03:46,040
+Wiki-Artikel? Er sollte eine neutrale
+
+86
+00:03:46,040 --> 00:03:48,180
+und sachliche Wortwahl aufweisen und
+
+87
+00:03:48,180 --> 00:03:49,900
+unterschiedliche Standpunkte zum
+
+88
+00:03:49,900 --> 00:03:52,500
+Thema behandeln. Er sollte
+
+89
+00:03:52,500 --> 00:03:54,380
+Möglichkeiten zur Meinungsbildung des
+
+90
+00:03:54,380 --> 00:03:57,120
+Lesers bieten. Die Quellen sollten
+
+91
+00:03:57,120 --> 00:04:00,380
+sorgfältig angegeben werden. Außerdem
+
+92
+00:04:00,380 --> 00:04:01,920
+sollten keine Widersprüche
+
+93
+00:04:01,920 --> 00:04:05,160
+auftauchen. Beschäftigen wir uns
+
+94
+00:04:05,160 --> 00:04:06,740
+jetzt mit schlechten Quellen und
+
+95
+00:04:06,740 --> 00:04:08,460
+schauen uns den Vergleich zu guten
+
+96
+00:04:08,460 --> 00:04:12,770
+Quellen an. Zunächst stellt sich die
+
+97
+00:04:12,770 --> 00:04:14,550
+Frage, wie man eigentlich Relevante
+
+98
+00:04:14,550 --> 00:04:16,750
+von unrelevanten Internetseiten
+
+99
+00:04:16,750 --> 00:04:19,870
+unterscheidet. Sehen wir uns dazu das
+
+100
+00:04:19,870 --> 00:04:24,470
+Beispiel der Seite www.bi-info.de an.
+
+101
+00:04:25,950 --> 00:04:27,570
+Dort werden folgende Links zum Thema
+
+102
+00:04:27,570 --> 00:04:28,830
+Bienen angezeigt.
+
+103
+00:04:33,390 --> 00:04:35,310
+Hier sehen wir in der linken Spalte
+
+104
+00:04:35,310 --> 00:04:37,150
+Internetseiten von offiziellen
+
+105
+00:04:37,150 --> 00:04:40,030
+Stellen wie Universitäten, Ämtern
+
+106
+00:04:40,030 --> 00:04:43,230
+oder Institutionen. In der rechten
+
+107
+00:04:43,230 --> 00:04:44,930
+Spalte sind die Betreiber entweder
+
+108
+00:04:44,930 --> 00:04:48,590
+privat oder unklar. Internetseiten
+
+109
+00:04:48,590 --> 00:04:50,410
+von offiziellen Stellen sind immer
+
+110
+00:04:50,410 --> 00:04:52,190
+verlässlicher als von privaten
+
+111
+00:04:52,190 --> 00:04:52,830
+Betreibern.
+
+112
+00:04:57,640 --> 00:04:59,840
+Wer betreibt nun die Internetseite
+
+113
+00:04:59,840 --> 00:05:02,580
+und mit welchem Ziel? Suche einen
+
+114
+00:05:02,580 --> 00:05:04,340
+Menüpunkt, der dir darüber Auskunft
+
+115
+00:05:04,340 --> 00:05:07,420
+gibt. Häufig findet man etwas wie
+
+116
+00:05:07,420 --> 00:05:12,140
+über diese Seite, über uns, wer sind
+
+117
+00:05:12,140 --> 00:05:15,880
+wir oder ähnliches. Jede
+
+118
+00:05:15,880 --> 00:05:17,780
+Internetseite muss auf der Hauptseite
+
+119
+00:05:17,780 --> 00:05:19,720
+einen Link zum sogenannten Impressum
+
+120
+00:05:19,720 --> 00:05:22,340
+enthalten. Dort wird der offizielle
+
+121
+00:05:22,340 --> 00:05:23,940
+Betreiber der Seite genannt.
+
+122
+00:05:28,780 --> 00:05:30,520
+Nehmen wir als Beispiel einmal die
+
+123
+00:05:30,520 --> 00:05:35,380
+Suchmaschine fragfin.de. Wenn du auf
+
+124
+00:05:35,380 --> 00:05:37,040
+der Seite ganz nach unten scrollst,
+
+125
+00:05:37,080 --> 00:05:39,760
+findest du die Links über FIN,
+
+126
+00:05:39,980 --> 00:05:44,280
+Datenschutz und Impressum. Dies ist
+
+127
+00:05:44,280 --> 00:05:45,680
+schon mal ein erster Hinweis auf
+
+128
+00:05:45,680 --> 00:05:49,420
+Seriosität. Schau dir diese Links
+
+129
+00:05:49,420 --> 00:05:51,620
+dennoch genauer an, um die Seriosität
+
+130
+00:05:51,620 --> 00:05:52,780
+beurteilen zu können.
+
+131
+00:05:56,000 --> 00:05:57,760
+Schauen wir uns als nächstes ein
+
+132
+00:05:57,760 --> 00:05:59,980
+Beispiel von Wikipedia an, wie man
+
+133
+00:05:59,980 --> 00:06:01,360
+die Art und den Zweck einer
+
+134
+00:06:01,360 --> 00:06:04,860
+Internetseite herausfindet. Ganz
+
+135
+00:06:04,860 --> 00:06:07,000
+unten auf der Wikipedia Startseite
+
+136
+00:06:07,000 --> 00:06:09,080
+findest du die folgende Auskunft.
+
+137
+00:06:10,840 --> 00:06:12,800
+Unter dem Link über Wikipedia
+
+138
+00:06:12,800 --> 00:06:15,680
+erhältst du Informationen über die
+
+139
+00:06:15,680 --> 00:06:17,260
+Art und den Zweck dieser Seite.
+
+140
+00:06:21,400 --> 00:06:23,540
+Auch bei Google findet man unten auf
+
+141
+00:06:23,540 --> 00:06:26,920
+der Seite den Punkt über Google. Auf
+
+142
+00:06:26,920 --> 00:06:28,840
+der folgenden Seite findet man nun
+
+143
+00:06:28,840 --> 00:06:33,390
+das Impressum. Als Beispiel siehst du
+
+144
+00:06:33,390 --> 00:06:35,790
+hier das Google Impressum. Wenn
+
+145
+00:06:38,860 --> 00:06:40,700
+wir die Internetseite generell auf
+
+146
+00:06:40,700 --> 00:06:43,300
+Seriosität überprüft haben, wenden
+
+147
+00:06:43,300 --> 00:06:45,780
+wir uns dem Inhalt bzw. dem Artikel
+
+148
+00:06:45,780 --> 00:06:49,060
+im Speziellen zu. Gibt es Angaben
+
+149
+00:06:49,060 --> 00:06:50,960
+oder Verweise, auf welcher Grundlage
+
+150
+00:06:50,960 --> 00:06:54,440
+ein Artikel entstanden ist? Achte am
+
+151
+00:06:54,440 --> 00:06:56,400
+Ende des Artikels auf Fußnoten,
+
+152
+00:06:56,400 --> 00:06:59,100
+Quellen oder Literaturangaben.
+
+153
+00:07:00,440 --> 00:07:03,420
+Außerdem können eingebettete Links im
+
+154
+00:07:03,420 --> 00:07:07,250
+Artikel helfen. Bei Wikipedia
+
+155
+00:07:07,250 --> 00:07:08,590
+-Artikeln findest du im
+
+156
+00:07:08,590 --> 00:07:10,670
+Inhaltsverzeichnis die Unterpunkte
+
+157
+00:07:10,670 --> 00:07:14,690
+zugrunde liegende Literatur, Weblinks
+
+158
+00:07:14,690 --> 00:07:16,650
+und Einzelnachweise.
+
+159
+00:07:21,000 --> 00:07:22,900
+Prüfe, ob die Inhalte stimmen.
+
+160
+00:07:24,220 --> 00:07:25,760
+Vergleiche daher die Informationen
+
+161
+00:07:25,760 --> 00:07:27,740
+auf Wikipedia mit anderen
+
+162
+00:07:27,740 --> 00:07:30,640
+Internetseiten und wenn möglich mit
+
+163
+00:07:30,640 --> 00:07:32,440
+einem gedruckten Lexikon oder mit
+
+164
+00:07:32,440 --> 00:07:38,100
+Fachliteratur. Am Anfang bzw. am Ende
+
+165
+00:07:38,100 --> 00:07:39,560
+eines Artikels findest du
+
+166
+00:07:39,560 --> 00:07:41,540
+verschiedene Icons. vor, die dir
+
+167
+00:07:41,540 --> 00:07:43,240
+helfen können, die Qualität eines
+
+168
+00:07:43,240 --> 00:07:46,680
+Artikels besser zu beurteilen. Es
+
+169
+00:07:46,680 --> 00:07:49,540
+gibt ein rotes Icon mit einem L, ein
+
+170
+00:07:49,540 --> 00:07:52,240
+blaues Icon mit einem L und ein
+
+171
+00:07:52,240 --> 00:07:53,840
+grünes Icon mit einem Stern.
+
+172
+00:07:57,470 --> 00:07:59,810
+Das rote Icon mit einem L bedeutet,
+
+173
+00:08:00,210 --> 00:08:02,130
+dass der Artikel überarbeitet werden
+
+174
+00:08:02,130 --> 00:08:04,250
+muss und somit keine zuverlässige
+
+175
+00:08:04,250 --> 00:08:07,490
+Quelle ist. Das blaue Icon mit einem
+
+176
+00:08:07,490 --> 00:08:09,370
+L bedeutet, dass der Artikel in einer
+
+177
+00:08:09,370 --> 00:08:11,390
+Liste mit lesenswerten Artikeln
+
+178
+00:08:11,390 --> 00:08:13,650
+steht, aber noch nicht den strengen
+
+179
+00:08:13,650 --> 00:08:16,330
+Kriterien entspricht. Dennoch wurde
+
+180
+00:08:16,330 --> 00:08:18,110
+der Artikel überdurchschnittlich gut
+
+181
+00:08:18,110 --> 00:08:22,560
+bearbeitet. Das grüne Icon mit dem
+
+182
+00:08:22,560 --> 00:08:24,520
+Stern bedeutet, dass der Artikel in
+
+183
+00:08:24,520 --> 00:08:26,240
+der Liste der exzellenten Artikel
+
+184
+00:08:26,240 --> 00:08:28,440
+aufgenommen wurde. Er entspricht
+
+185
+00:08:28,440 --> 00:08:30,580
+strengen Kriterien und enthält in der
+
+186
+00:08:30,580 --> 00:08:31,840
+Regel verlässliche Informationen.
+
+187
+00:08:35,780 --> 00:08:36,840
+Hier siehst du in einem
+
+188
+00:08:36,840 --> 00:08:38,800
+Beispielartikel, wie so ein Icon
+
+189
+00:08:38,800 --> 00:08:40,500
+aussieht. Dennoch
+
+190
+00:08:48,690 --> 00:08:50,190
+gilt es auch hier, diesen
+
+191
+00:08:50,190 --> 00:08:51,510
+Auszeichnungen nicht blind zu
+
+192
+00:08:51,510 --> 00:08:53,970
+vertrauen, denn sie basieren auf den
+
+193
+00:08:53,970 --> 00:08:57,150
+Bewertungen anderer Autoren. Somit
+
+194
+00:08:57,150 --> 00:08:58,690
+gibt es auch hier keine vollkommene
+
+195
+00:08:58,690 --> 00:09:00,510
+Sicherheit, dass die Inhalte des
+
+196
+00:09:00,510 --> 00:09:03,670
+Artikels allesamt korrekt sind. Wie
+
+197
+00:09:03,670 --> 00:09:05,110
+genau die Bewertung von Wikipedia
+
+198
+00:09:05,110 --> 00:09:07,450
+-Artikeln funktioniert, erfährst du
+
+199
+00:09:07,450 --> 00:09:08,310
+unter diesem Link.
+
+200
+00:09:13,340 --> 00:09:16,040
+Als Fazit lässt sich festhalten, dass
+
+201
+00:09:16,040 --> 00:09:17,940
+die Hürde hoch ist, damit eine Quelle
+
+202
+00:09:17,940 --> 00:09:20,280
+als seriös und qualitativ hochwertig
+
+203
+00:09:20,280 --> 00:09:23,760
+bewertet wird. kann. Also folgt, ja,
+
+204
+00:09:23,900 --> 00:09:26,040
+es gibt Quellen mit falschen
+
+205
+00:09:26,040 --> 00:09:30,350
+Informationen. Vielen Dank für deine
+
+206
+00:09:30,350 --> 00:09:32,490
+Aufmerksamkeit und viel Erfolg beim
+
+207
+00:09:32,490 --> 00:09:33,630
+Bewerten von Quellen.
+

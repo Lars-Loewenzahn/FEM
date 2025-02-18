@@ -1,0 +1,281 @@
+﻿1
+00:00:00,270 --> 00:00:01,970
+Hello and welcome to the 
+
+2
+00:00:01,970 --> 00:00:03,770
+Latin learning videos from Schülerhilfe. 
+
+3
+00:00:03,810 --> 00:00:05,430
+Today I'm going to explain the 
+
+4
+00:00:05,430 --> 00:00:09,810
+reflexive pronouns in the ACI. 
+
+5
+00:00:09,810 --> 00:00:11,370
+As a reminder , the ACI is a 
+
+6
+00:00:11,370 --> 00:00:14,190
+sentence element and not an independent 
+
+7
+00:00:14,190 --> 00:00:15,550
+clause . This means that it cannot 
+
+8
+00:00:15,550 --> 00:00:17,630
+stand alone without a main clause. When 
+
+9
+00:00:17,630 --> 00:00:20,150
+referring to a subject, the 
+
+10
+00:00:20,150 --> 00:00:25,430
+reflexive pronouns and suus are used. Now 
+
+11
+00:00:25,430 --> 00:00:28,270
+back to the declension of suus. The 
+
+12
+00:00:30,100 --> 00:00:33,560
+genitive is is sui, the dative is zibi, 
+
+13
+00:00:33,800 --> 00:00:36,740
+the accusative is se, just like the 
+
+14
+00:00:36,740 --> 00:00:38,960
+ablative is se. I have 
+
+15
+00:00:38,960 --> 00:00:40,580
+brought the following example sentence. 
+
+16
+00:00:42,260 --> 00:00:47,240
+Respondit sese in suo jure impediri. 
+
+17
+00:00:47,660 --> 00:00:50,400
+This translates as he responded 
+
+18
+00:00:50,580 --> 00:00:53,160
+that he 
+
+19
+00:00:53,160 --> 00:00:57,540
+was being hindered in the exercise of his 
+right. Now to se. Se 
+
+20
+00:00:57,540 --> 00:00:59,900
+is in reference to a superior 
+
+21
+00:00:59,900 --> 00:01:03,560
+subject. But it is also 
+
+22
+00:01:03,560 --> 00:01:05,860
+
+23
+00:01:05,860 --> 00:01:08,860
+possible to refer to the subject 
+accusative . Note that 
+
+24
+00:01:08,860 --> 00:01:13,180
+Caesar often uses Cc instead of the simple 
+C 
+
+25
+00:01:13,180 --> 00:01:17,800
+. C can also be reinforced by Ipse 
+
+26
+00:01:17,800 --> 00:01:20,920
+. The construction 
+
+27
+00:01:20,920 --> 00:01:23,940
+with Ipse is then in the nominative case. 
+I 
+
+28
+00:01:23,940 --> 00:01:25,540
+have 
+
+29
+00:01:25,540 --> 00:01:26,280
+provided the following example sentences 
+for C. 
+
+30
+00:01:32,030 --> 00:01:35,850
+This translates as We know that 
+
+31
+00:01:35,850 --> 00:01:39,510
+Seneca killed himself. 
+
+32
+00:01:39,510 --> 00:01:41,470
+In this case, Se refers to 
+
+33
+00:01:41,470 --> 00:01:43,890
+Seneca, i.e. to the 
+
+34
+00:01:43,890 --> 00:01:45,370
+subject accusative. 
+
+35
+00:01:51,940 --> 00:01:53,290
+In the next sentence, 
+
+36
+00:01:57,310 --> 00:01:59,850
+which translates, Mark assures 
+
+37
+00:01:59,910 --> 00:02:03,070
+us that he knows everything, 
+
+38
+00:02:03,070 --> 00:02:05,890
+the C refers to Mark. Mark 
+
+39
+00:02:05,890 --> 00:02:10,470
+is the subject here. The subject of the 
+
+40
+00:02:10,470 --> 00:02:13,050
+superordinate verb, i.e. the verb 
+
+41
+00:02:13,050 --> 00:02:16,870
+of the main clause and the infinitive, 
+
+42
+00:02:16,870 --> 00:02:20,850
+can also be the same. Then 
+
+43
+00:02:20,850 --> 00:02:22,970
+you use the 
+
+44
+00:02:22,970 --> 00:02:26,910
+subject accusative in Latin. It is 
+
+45
+00:02:26,910 --> 00:02:28,970
+different in German. The 
+
+46
+00:02:28,970 --> 00:02:31,770
+subject accusative is expressed here by 
+
+47
+00:02:31,770 --> 00:02:34,850
+the personal pronouns. I have 
+
+48
+00:02:34,850 --> 00:02:36,250
+brought you the following example. 
+
+49
+00:02:39,950 --> 00:02:42,730
+This translates as I think I 
+
+50
+00:02:42,970 --> 00:02:46,650
+have done everything. Here the 
+
+51
+00:02:46,650 --> 00:02:48,650
+subject is I, as I have already indicated 
+
+52
+00:02:48,650 --> 00:02:51,630
+, but you can see this both in 
+
+53
+00:02:51,630 --> 00:02:54,390
+the O, i.e. the personal ending in 
+
+54
+00:02:54,390 --> 00:03:00,540
+puto, i.e. I believe, and in 
+
+55
+00:03:00,540 --> 00:03:08,760
+me, which also means I in ACI. 
+
+56
+00:03:08,760 --> 00:03:11,000
+But you 
+
+57
+00:03:11,020 --> 00:03:12,800
+don't see that here in the subordinate 
+clause that you have in German. 
+
+58
+00:03:12,840 --> 00:03:14,780
+In Latin, however, you need 
+
+59
+00:03:14,780 --> 00:03:17,520
+both forms. Now let's move on to the 
+
+60
+00:03:17,520 --> 00:03:20,340
+summary. The reflexive pronoun 
+
+61
+00:03:20,340 --> 00:03:23,680
+se- in ACI can refer to either the 
+
+62
+00:03:23,680 --> 00:03:26,860
+subject accusative or the 
+
+63
+00:03:26,860 --> 00:03:30,380
+superior subject. With the 
+
+64
+00:03:30,380 --> 00:03:32,260
+same subject 
+
+65
+00:03:32,260 --> 00:03:34,180
+, personal pronouns can be used as the 
+
+66
+00:03:34,180 --> 00:03:38,240
+subject accusative. 
+
+67
+00:03:38,240 --> 00:03:40,020
+Thank you for your attention and see you 
+in the 
+
+68
+00:03:40,020 --> 00:03:41,280
+next Latin learning video from 
+
+69
+00:03:41,280 --> 00:03:41,960
+Schülerhilfe. 

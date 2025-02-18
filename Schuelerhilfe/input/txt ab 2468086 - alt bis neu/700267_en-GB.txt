@@ -1,0 +1,388 @@
+﻿1
+00:00:00,270 --> 00:00:01,950
+Hello and welcome to 
+
+2
+00:00:01,950 --> 00:00:03,930
+a learning video from Schülerhilfe. 
+
+3
+00:00:03,930 --> 00:00:05,170
+Today I'm going to show you a few 
+
+4
+00:00:05,170 --> 00:00:07,470
+practical examples of dependencies. 
+
+5
+00:00:09,110 --> 00:00:10,310
+Let's start with the 
+
+6
+00:00:10,310 --> 00:00:10,950
+first comic. 
+
+7
+00:00:15,710 --> 00:00:16,350
+Let's first translate this comic. 
+
+8
+00:00:30,690 --> 00:00:32,430
+Maybe it really is as 
+
+9
+00:00:32,430 --> 00:00:35,430
+evil as it seems. I 
+
+10
+00:00:35,430 --> 00:00:37,190
+don't remember if dragons 
+
+11
+00:00:37,190 --> 00:00:39,450
+
+12
+00:00:39,450 --> 00:00:42,310
+tend to feed on meat or herbs . There's 
+only one way to 
+
+13
+00:00:42,310 --> 00:00:45,230
+find out. Now let's take 
+
+14
+00:00:45,230 --> 00:00:46,750
+a look at where there are deponentials 
+here 
+
+15
+00:00:46,750 --> 00:00:49,450
+. 
+
+16
+00:00:49,450 --> 00:00:52,310
+You'll find the first one in the first 
+speech bubble . Like 
+
+17
+00:00:52,310 --> 00:00:55,810
+ D-Tour. Like D-Tour is in the 
+
+18
+00:00:55,810 --> 00:00:57,530
+presence  here. It's the third person. 
+
+19
+00:00:58,690 --> 00:01:00,390
+Don't confuse it with VIDERE. 
+
+20
+00:01:00,510 --> 00:01:02,290
+VIDERE means to see. In the 
+
+21
+00:01:02,290 --> 00:01:04,350
+passive form, VIDERI means 
+
+22
+00:01:04,350 --> 00:01:06,210
+to shine. That's how we 
+
+23
+00:01:06,210 --> 00:01:07,370
+translated it. To seem. 
+
+24
+00:01:10,560 --> 00:01:12,520
+In the second speech bubble, we have 
+
+25
+00:01:12,520 --> 00:01:15,300
+one right at the beginning. REMINISCOR. 
+
+26
+00:01:17,220 --> 00:01:19,460
+REMINISCOR is also 
+
+27
+00:01:19,460 --> 00:01:22,780
+present tense here , but the first person. 
+We 
+
+28
+00:01:22,780 --> 00:01:25,380
+have translated it as ERINNERE. I 
+
+29
+00:01:25,380 --> 00:01:28,660
+remember. Active. But you can see that 
+it's 
+
+30
+00:01:28,660 --> 00:01:29,400
+passive here. 
+
+31
+00:01:32,300 --> 00:01:34,380
+In this speech bubble we have another 
+
+32
+00:01:34,380 --> 00:01:37,480
+deponent, vesci. Vesci is 
+
+33
+00:01:37,480 --> 00:01:39,680
+always with the applicative, like here, 
+
+34
+00:01:39,780 --> 00:01:42,660
+Karne and Herbis. And we have 
+
+35
+00:01:42,660 --> 00:01:47,740
+translated it as to nourish. At the end 
+
+36
+00:01:47,740 --> 00:01:48,900
+you see an example of a 
+
+37
+00:01:48,900 --> 00:01:52,200
+semideponens, solernt, from solere, to 
+
+38
+00:01:52,320 --> 00:01:55,660
+nurture . Let's look at an 
+
+39
+00:01:55,660 --> 00:01:57,460
+example with the prohibitive and 
+
+40
+00:01:57,460 --> 00:02:00,760
+the imperative. Ne locutus cis 
+
+41
+00:02:00,760 --> 00:02:02,900
+denegotis in hoc conviv. 
+
+42
+00:02:21,000 --> 00:02:24,840
+Let's translate that again. 
+
+43
+00:02:24,840 --> 00:02:26,420
+Don't talk about business at this party. 
+
+44
+00:02:27,660 --> 00:02:29,280
+What am I supposed to talk about? 
+
+45
+00:02:30,640 --> 00:02:32,440
+Talk about small insignificant 
+
+46
+00:02:32,440 --> 00:02:34,860
+things. And I have 
+
+47
+00:02:34,860 --> 00:02:36,420
+seen a tiny little dwarf 
+
+48
+00:02:36,420 --> 00:02:39,320
+living in a tiny little tent. Not about 
+
+49
+00:02:39,320 --> 00:02:42,600
+such small things, you donkey. So, let's 
+see 
+
+50
+00:02:42,600 --> 00:02:44,080
+where the deponentials are here 
+
+51
+00:02:44,080 --> 00:02:46,180
+. We have one right at the 
+
+52
+00:02:46,180 --> 00:02:51,100
+beginning. Lakutus cis. You see, there 
+
+53
+00:02:51,100 --> 00:02:53,600
+'s a second version here , 
+
+54
+00:02:53,600 --> 00:02:58,140
+perfect subjunctive . And there's a ni in 
+front of it, 
+
+55
+00:02:58,140 --> 00:02:59,260
+so this is a 
+
+56
+00:02:59,260 --> 00:03:02,480
+prohibitive, a ban. You shall 
+
+57
+00:03:02,480 --> 00:03:03,480
+not speak. 
+
+58
+00:03:07,320 --> 00:03:11,340
+We have a second subjunctive 
+
+59
+00:03:11,340 --> 00:03:13,680
+here. Loqua. This is first person 
+
+60
+00:03:13,680 --> 00:03:15,960
+subjunctive present. We have 
+
+61
+00:03:15,960 --> 00:03:18,600
+translated it here as sollen. What 
+
+62
+00:03:18,600 --> 00:03:19,760
+else am I supposed to talk about ? 
+
+63
+00:03:23,040 --> 00:03:24,860
+In the very next speech bubble 
+
+64
+00:03:24,860 --> 00:03:26,020
+, you'll see an example of an 
+
+65
+00:03:26,020 --> 00:03:30,000
+imperative. Loquere. Speak. And 
+
+66
+00:03:35,120 --> 00:03:36,080
+then we come to a final 
+
+67
+00:03:36,080 --> 00:03:39,080
+example. Memento. 
+
+68
+00:03:49,400 --> 00:03:50,800
+Let's translate that again first. 
+
+69
+00:03:52,120 --> 00:03:54,940
+And remember, don't take more than 
+
+70
+00:03:54,940 --> 00:03:58,820
+one piece. Oh dear, I 
+
+71
+00:03:58,820 --> 00:04:00,480
+don't think I' 
+
+72
+00:04:00,480 --> 00:04:04,180
+ve used enough clear words. First of all, 
+pay attention, 
+
+73
+00:04:04,360 --> 00:04:06,440
+memento is a 
+
+74
+00:04:06,440 --> 00:04:08,800
+verbum defectivum. If you're not sure 
+
+75
+00:04:08,800 --> 00:04:10,180
+what that is, 
+
+76
+00:04:10,180 --> 00:04:11,660
+maybe watch another video about it. 
+
+77
+00:04:13,610 --> 00:04:15,610
+Then in the last speech bubble 
+
+78
+00:04:15,610 --> 00:04:17,750
+, we see an example of an ACI that 
+contains 
+
+79
+00:04:17,750 --> 00:04:20,050
+deponentia. 
+
+80
+00:04:20,050 --> 00:04:23,730
+We have translated the predicate Abitur 
+
+81
+00:04:23,730 --> 00:04:27,770
+as I believe. And then you see 
+
+82
+00:04:27,770 --> 00:04:31,730
+the verb Usam esse. It comes from 
+
+83
+00:04:31,730 --> 00:04:36,490
+uti, to use, and is in the 
+
+84
+00:04:36,490 --> 00:04:39,250
+infinitive perfect here. 
+
+85
+00:04:39,250 --> 00:04:40,770
+This means that it expresses the past 
+tense. 
+
+86
+00:04:44,970 --> 00:04:46,730
+And finally, a practical 
+
+87
+00:04:46,730 --> 00:04:50,510
+tip. When converting from active 
+
+88
+00:04:50,510 --> 00:04:53,150
+to passive, the accusative object 
+
+89
+00:04:53,150 --> 00:04:56,150
+becomes the subject. So if you encounter 
+
+90
+00:04:56,150 --> 00:04:58,930
+
+91
+00:04:58,930 --> 00:05:02,910
+an accusative in a sentence with a passive 
+predicate, it 
+
+92
+00:05:02,910 --> 00:05:04,150
+is probably a 
+
+93
+00:05:04,150 --> 00:05:04,710
+deponent. 
+
+94
+00:05:07,330 --> 00:05:09,470
+Thank you for your attention 
+
+95
+00:05:09,470 --> 00:05:10,610
+and see you next time. 

@@ -1,0 +1,650 @@
+﻿1
+00:00:00,850 --> 00:00:02,790
+Welcome to the 
+
+2
+00:00:02,790 --> 00:00:05,450
+Schülerhilfe webinar on counting and 
+
+3
+00:00:05,450 --> 00:00:08,370
+comparing. Today we want to 
+
+4
+00:00:08,370 --> 00:00:10,890
+take a look at how we count, 
+
+5
+00:00:11,520 --> 00:00:14,630
+then how we 
+
+6
+00:00:14,630 --> 00:00:18,630
+compare these numbers with each other , 
+how we 
+
+7
+00:00:18,630 --> 00:00:21,730
+can arrange numbers and finally how we 
+
+8
+00:00:21,730 --> 00:00:23,390
+can also 
+
+9
+00:00:23,390 --> 00:00:27,470
+compare larger numbers with each other . 
+
+10
+00:00:27,470 --> 00:00:29,830
+But let's start with counting. To do this, 
+
+11
+00:00:29,830 --> 00:00:32,010
+we switch off the lips and 
+
+12
+00:00:32,010 --> 00:00:33,950
+count the stars in the sky. 
+
+13
+00:00:37,480 --> 00:00:41,620
+We count through. One star, two, 
+
+14
+00:00:41,980 --> 00:00:48,340
+three, four, five, six, seven, 
+
+15
+00:00:48,340 --> 00:00:53,620
+eight, nine, ten, eleven, twelve, 
+
+16
+00:00:53,620 --> 00:00:58,380
+thirteen, fourteen, fifteen stars. 
+
+17
+00:00:58,420 --> 00:00:59,280
+How 
+
+18
+00:01:03,570 --> 00:01:05,790
+many different types of stars 
+
+19
+00:01:05,790 --> 00:01:08,670
+do we see? So we have these 
+
+20
+00:01:08,670 --> 00:01:13,650
+stars, one, then we have these 
+
+21
+00:01:13,650 --> 00:01:19,410
+stars, two and these stars. Three 
+
+22
+00:01:19,410 --> 00:01:22,270
+different types. These stars 
+
+23
+00:01:22,270 --> 00:01:25,250
+differ in the number 
+
+24
+00:01:25,250 --> 00:01:28,850
+of their points. Because these stars have 
+
+25
+00:01:28,850 --> 00:01:34,330
+1, 2, 3, 4, 5 points. These stars 
+
+26
+00:01:34,330 --> 00:01:39,030
+have 1, 2, 3, 4 points. And these 
+
+27
+00:01:39,030 --> 00:01:44,470
+stars have 1, 2, 3, 4, 5, 6, 7 
+
+28
+00:01:44,470 --> 00:01:47,670
+points. Here we see it again. 
+
+29
+00:01:50,000 --> 00:01:53,160
+How many stars with 4 points do 
+
+30
+00:01:53,160 --> 00:01:54,660
+we see now? In other words, we now 
+
+31
+00:01:54,660 --> 00:01:57,280
+only count all the stars that 
+
+32
+00:01:57,280 --> 00:01:59,600
+have four points. So here we have one, 
+
+33
+00:01:59,680 --> 00:02:05,100
+here is another one, two, three, four 
+
+34
+00:02:05,100 --> 00:02:11,180
+and five. So you can see five stars 
+
+35
+00:02:11,180 --> 00:02:15,040
+with four points. How many 
+
+36
+00:02:15,040 --> 00:02:17,040
+stars with five points can we see 
+
+37
+00:02:17,040 --> 00:02:25,800
+? Count again. 1, 2, 3, 4, 5, 
+
+38
+00:02:26,160 --> 00:02:31,920
+6, 7, so we see seven stars 
+
+39
+00:02:31,920 --> 00:02:36,080
+with five points. Finally, let's 
+
+40
+00:02:36,080 --> 00:02:38,300
+
+41
+00:02:38,300 --> 00:02:44,260
+count the stars with seven 7-pointed 
+points . These are 1, 2, 3, 
+
+42
+00:02:44,260 --> 00:02:47,280
+so we see 3 stars with 7 points. 
+
+43
+00:02:49,760 --> 00:02:52,800
+We now know that we have 5 stars 
+
+44
+00:02:52,800 --> 00:02:55,460
+with 4 points, 7 stars with 5 points 
+
+45
+00:02:55,460 --> 00:02:59,520
+and 3 stars with 7 points. Which of 
+
+46
+00:02:59,520 --> 00:03:01,580
+the stars are the most common 
+
+47
+00:03:01,580 --> 00:03:06,410
+? These are the stars with 5 
+
+48
+00:03:06,410 --> 00:03:08,390
+points. We have seven of them. These 
+
+49
+00:03:08,390 --> 00:03:11,170
+are the most common. And which are 
+
+50
+00:03:11,170 --> 00:03:14,210
+the rarest? These are 
+
+51
+00:03:14,210 --> 00:03:16,910
+the stars with seven points. Because 
+
+52
+00:03:16,910 --> 00:03:18,590
+we have three of them. 
+
+53
+00:03:21,910 --> 00:03:23,790
+Let's switch the light on again. 
+
+54
+00:03:24,470 --> 00:03:26,490
+Because what we just did was 
+
+55
+00:03:26,610 --> 00:03:28,630
+
+56
+00:03:28,630 --> 00:03:30,590
+compare the numbers. We asked the question 
+
+57
+00:03:30,590 --> 00:03:32,550
+, which type of star 
+
+58
+00:03:32,550 --> 00:03:36,590
+is the most common? So, which 
+
+59
+00:03:36,590 --> 00:03:39,610
+number is the largest? The 5, the 7 
+
+60
+00:03:39,610 --> 00:03:43,330
+or the 3? The answer is 
+
+61
+00:03:43,330 --> 00:03:45,550
+7, because it is bigger than 5 and 
+
+62
+00:03:45,550 --> 00:03:48,630
+bigger than 3. We can also see this on 
+
+63
+00:03:48,630 --> 00:03:51,190
+the number line. Because the larger a 
+
+64
+00:03:51,190 --> 00:03:53,650
+number is, the further to the right 
+
+65
+00:03:53,650 --> 00:03:55,150
+we can find it on the number line. 
+
+66
+00:03:55,370 --> 00:03:59,070
+We have the 3, we have the 5 and 
+
+67
+00:03:59,070 --> 00:04:02,610
+furthest to the right we have the 7. If we 
+
+68
+00:04:02,610 --> 00:04:04,410
+
+69
+00:04:04,410 --> 00:04:07,450
+want to write it down mathematically , we 
+write 7 for 7 is 
+
+70
+00:04:07,450 --> 00:04:12,570
+greater than 5, 7, then the angle 
+
+71
+00:04:12,570 --> 00:04:17,010
+bracket from the 7 to the 5. 
+
+72
+00:04:17,010 --> 00:04:21,010
+So the larger number has the 
+
+73
+00:04:21,010 --> 00:04:23,630
+open side of the bracket, the 
+
+74
+00:04:23,630 --> 00:04:26,170
+smaller number has the pointed end of the 
+
+75
+00:04:26,170 --> 00:04:31,830
+bracket. So 7 is greater than 5 or 7 
+
+76
+00:04:31,830 --> 00:04:34,210
+is greater than 3. 
+
+77
+00:04:38,120 --> 00:04:40,270
+We have a total of 5 
+
+78
+00:04:40,270 --> 00:04:43,790
+comparison signs. We have the 
+
+79
+00:04:43,790 --> 00:04:46,070
+equal sign. If two numbers 
+
+80
+00:04:46,070 --> 00:04:48,410
+are equal, for example 4 is 
+
+81
+00:04:48,410 --> 00:04:52,890
+equal to 4. Or 2 is equal to 2. Then 
+
+82
+00:04:52,890 --> 00:04:57,390
+the greater than sign. So 4 is 
+
+83
+00:04:57,390 --> 00:05:01,130
+greater than 2. 7 is greater than 5. 
+
+84
+00:05:01,870 --> 00:05:04,350
+We also have the less than 
+
+85
+00:05:04,350 --> 00:05:08,970
+sign. 2 is smaller than 4. 1 is 
+
+86
+00:05:08,970 --> 00:05:11,690
+smaller than 3. So we can 
+
+87
+00:05:11,690 --> 00:05:14,330
+remember that the sign always points to 
+the 
+
+88
+00:05:14,330 --> 00:05:16,850
+smaller number. So the tip of the 
+
+89
+00:05:16,850 --> 00:05:18,250
+bracket always points to the bracket. 
+
+90
+00:05:18,270 --> 00:05:19,770
+the smaller number in this 
+
+91
+00:05:19,770 --> 00:05:23,010
+comparison. We also have 
+
+92
+00:05:23,010 --> 00:05:25,270
+the greater than or equal 
+
+93
+00:05:25,270 --> 00:05:27,510
+to sign and the less than or equal to 
+sign, i.e. the 
+
+94
+00:05:27,510 --> 00:05:29,950
+corresponding angle bracket with 
+
+95
+00:05:29,950 --> 00:05:31,010
+a dash 
+
+96
+00:05:31,010 --> 00:05:33,790
+underneath , as with the equal sign. The 
+
+97
+00:05:33,790 --> 00:05:37,190
+sign means that the number, i.e. 
+
+98
+00:05:37,190 --> 00:05:38,470
+the greater than or equal to sign, means 
+
+99
+00:05:38,690 --> 00:05:41,010
+that the number is greater than or 
+
+100
+00:05:41,010 --> 00:05:44,230
+equal to. This means that 
+
+101
+00:05:44,270 --> 00:05:47,130
+the greater than or equal to sign applies 
+
+102
+00:05:47,270 --> 00:05:50,530
+to 4 is greater than or equal to 
+
+103
+00:05:50,530 --> 00:05:55,190
+2, but it also applies to 4 is greater 
+than 
+
+104
+00:05:55,190 --> 00:05:58,690
+or equal to 4, because 4 equals 4 
+
+105
+00:05:58,690 --> 00:06:02,470
+. Exactly the same applies to the 
+
+106
+00:06:02,470 --> 00:06:05,410
+less than or equal sign. So 1 is 
+
+107
+00:06:05,410 --> 00:06:08,970
+less than or equal to 3, but 5 is also 
+
+108
+00:06:08,970 --> 00:06:10,930
+less than or equal to 5. 
+
+109
+00:06:13,980 --> 00:06:16,440
+We can use comparisons 
+
+110
+00:06:16,440 --> 00:06:19,560
+to arrange numbers. For example, from 
+
+111
+00:06:19,560 --> 00:06:22,100
+small to large or from large to 
+
+112
+00:06:22,100 --> 00:06:26,340
+small. We want to arrange the following 
+numbers 
+
+113
+00:06:26,340 --> 00:06:32,080
+from small to large. 8, 5, 3, 6, 
+
+114
+00:06:32,340 --> 00:06:36,620
+2 and 5. First we look for the 
+
+115
+00:06:36,620 --> 00:06:39,360
+smallest number. This is the number that 
+
+116
+00:06:39,360 --> 00:06:41,100
+is furthest 
+
+117
+00:06:41,100 --> 00:06:45,280
+to the left on the number line. In our 
+case, 
+
+118
+00:06:45,280 --> 00:06:50,470
+this would be 2. Next, we take 
+
+119
+00:06:50,470 --> 00:06:53,150
+the next smallest number, i.e. the 
+
+120
+00:06:53,150 --> 00:06:54,950
+number furthest to the left 
+
+121
+00:06:54,950 --> 00:06:57,850
+. 
+
+122
+00:06:57,850 --> 00:07:00,670
+So we write down 2 is smaller than 
+
+123
+00:07:00,670 --> 00:07:05,810
+3, is smaller than the next largest 
+
+124
+00:07:05,810 --> 00:07:10,470
+number, which is 5. Then we have 
+
+125
+00:07:10,470 --> 00:07:11,870
+another 5 in our 
+
+126
+00:07:11,870 --> 00:07:13,150
+number line. In other words, we 
+
+127
+00:07:13,150 --> 00:07:16,230
+write is less than or equal to 5, 
+
+128
+00:07:16,550 --> 00:07:19,750
+because 5 equals 5 
+
+129
+00:07:19,750 --> 00:07:22,810
+must also be valid. The next number we 
+
+130
+00:07:22,810 --> 00:07:25,150
+have is 6. That means we 
+
+131
+00:07:25,150 --> 00:07:27,930
+write is less than 6. And the 
+
+132
+00:07:27,930 --> 00:07:30,570
+largest number is 8. That means we 
+
+133
+00:07:30,570 --> 00:07:33,030
+end our sequence with is 
+
+134
+00:07:33,030 --> 00:07:34,270
+less than 8. 
+
+135
+00:07:37,130 --> 00:07:39,490
+Now we want to 
+
+136
+00:07:39,490 --> 00:07:41,490
+compare larger numbers with each other. 
+Which number 
+
+137
+00:07:41,490 --> 00:07:46,410
+is larger? 2458. or 2131 
+
+138
+00:07:47,810 --> 00:07:49,590
+. To do this, we write the numbers 
+
+139
+00:07:49,590 --> 00:07:51,850
+one below the other and compare them 
+
+140
+00:07:51,850 --> 00:07:54,510
+digit by digit. We start with the 
+
+141
+00:07:54,510 --> 00:07:56,710
+highest digits, i.e. from left 
+
+142
+00:07:56,710 --> 00:07:59,830
+to right. First we compare 2 
+
+143
+00:07:59,830 --> 00:08:03,670
+and 2, which are the same. This means 
+
+144
+00:08:03,810 --> 00:08:06,750
+we 
+
+145
+00:08:06,750 --> 00:08:10,990
+continue with the next digit. The next 
+digit is 4 and 
+
+146
+00:08:10,990 --> 00:08:14,930
+1. We now know from the number line that 
+
+147
+00:08:15,010 --> 00:08:20,710
+4 is greater than 1. If 4 
+
+148
+00:08:20,710 --> 00:08:25,470
+is greater than 1, we also know from this 
+that 2468 
+
+149
+00:08:25,470 --> 00:08:29,150
+is greater than 2131. 
+
+150
+00:08:30,670 --> 00:08:33,190
+This means that we compare the 
+
+151
+00:08:33,190 --> 00:08:36,510
+individual 
+
+152
+00:08:36,510 --> 00:08:39,090
+
+153
+00:08:39,090 --> 00:08:42,150
+
+154
+00:08:42,230 --> 00:08:45,890
+digits until a comparison results in 
+greater or less than and no longer equal 
+
+155
+00:08:45,890 --> 00:08:48,150
+. So in this case 
+
+156
+00:08:48,150 --> 00:08:50,050
+2468 
+
+157
+00:08:52,830 --> 00:08:54,930
+. And that brings us to the 
+
+158
+00:08:54,930 --> 00:08:56,470
+end of today's webinar 
+
+159
+00:08:56,470 --> 00:08:59,050
+. Thank you 
+
+160
+00:08:59,050 --> 00:09:01,110
+for your attention and have a 
+
+161
+00:09:01,110 --> 00:09:01,850
+nice day. 

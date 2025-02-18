@@ -1,0 +1,468 @@
+1
+00:00:01,230 --> 00:00:04,190
+Herzlich willkommen in IK7. In dieser
+
+2
+00:00:04,190 --> 00:00:07,830
+Sequenz möchte ich gern mit Ihnen den
+
+3
+00:00:07,830 --> 00:00:10,090
+Status einmal näher betrachten und
+
+4
+00:00:10,090 --> 00:00:11,590
+schauen, welche Optionen und
+
+5
+00:00:11,590 --> 00:00:13,710
+Möglichkeiten sich dahinter
+
+6
+00:00:13,710 --> 00:00:16,810
+verbergen. Ich gehe über den Status
+
+7
+00:00:16,810 --> 00:00:19,250
+des Schülers rein, klicke ihn an und
+
+8
+00:00:19,250 --> 00:00:21,630
+es öffnet sich das Anfragebuch. Das
+
+9
+00:00:21,630 --> 00:00:23,770
+Anfragebuch in IK7 ist nun in
+
+10
+00:00:23,770 --> 00:00:25,950
+Registerblättern unterteilt. Diese
+
+11
+00:00:25,950 --> 00:00:27,790
+Registerblätter können Sie
+
+12
+00:00:27,790 --> 00:00:29,590
+nacheinander wählen, entweder über
+
+13
+00:00:29,590 --> 00:00:32,050
+Weiter, oder aber auch die Maus. Sie
+
+14
+00:00:32,050 --> 00:00:33,850
+müssen aber keine Reihenfolge
+
+15
+00:00:33,850 --> 00:00:35,910
+einhalten. Das heißt, Sie können auch
+
+16
+00:00:35,910 --> 00:00:37,670
+jederzeit wieder zurückgehen.
+
+17
+00:00:40,600 --> 00:00:42,320
+Mit dem ersten Registerblatt
+
+18
+00:00:42,320 --> 00:00:44,800
+beginnend erfahren Sie und erhalten
+
+19
+00:00:44,800 --> 00:00:46,360
+Sie Informationen über den
+
+20
+00:00:46,360 --> 00:00:47,920
+Gesprächspartner, über den
+
+21
+00:00:47,920 --> 00:00:49,860
+Interessenten. Sie haben hier den
+
+22
+00:00:49,860 --> 00:00:51,880
+Namen, Sie haben die Telefonnummer.
+
+23
+00:00:52,020 --> 00:00:54,080
+Im weiteren Verlauf können Sie gerne
+
+24
+00:00:54,080 --> 00:00:56,780
+eine E-Mail-Adresse eintragen. und
+
+25
+00:00:56,780 --> 00:00:59,840
+vor allen Dingen für die Voranmeldung
+
+26
+00:00:59,840 --> 00:01:02,500
+sehr wichtig ist hier die Adresse
+
+27
+00:01:02,500 --> 00:01:04,460
+hinterlegt. Die ist allerdings hinter
+
+28
+00:01:04,460 --> 00:01:06,660
+einer Pfeiltaste hinterlegt, ganz
+
+29
+00:01:06,660 --> 00:01:08,440
+einfach, weil wir aus ICAS 5 auch
+
+30
+00:01:08,440 --> 00:01:10,780
+gelernt haben, dass die Adresse bei
+
+31
+00:01:10,780 --> 00:01:13,440
+dem telefonischen Erstkontakt nicht
+
+32
+00:01:13,440 --> 00:01:16,220
+sehr, sehr häufig erfragt wird. Das
+
+33
+00:01:16,220 --> 00:01:18,900
+heißt also, hier die Notwendigkeit
+
+34
+00:01:18,900 --> 00:01:21,300
+bei den Amtskunden besteht und von
+
+35
+00:01:21,300 --> 00:01:22,900
+daher können wir sie auch verbergen.
+
+36
+00:01:25,250 --> 00:01:27,990
+Im zweiten Register bleibt werden die
+
+37
+00:01:27,990 --> 00:01:31,910
+Daten des Schülers erfasst. Das
+
+38
+00:01:31,910 --> 00:01:35,030
+Geschlecht, Name, den Vornamen
+
+39
+00:01:35,030 --> 00:01:37,470
+natürlich, die Klasse, Schulform und
+
+40
+00:01:37,470 --> 00:01:39,690
+angestrebten Schulabschluss. Und auch
+
+41
+00:01:39,690 --> 00:01:41,110
+hier habe ich die Möglichkeit zu
+
+42
+00:01:41,110 --> 00:01:43,310
+scrollen und kann die E-Mail-Adresse
+
+43
+00:01:43,310 --> 00:01:44,990
+des Schülers bereits eintragen.
+
+44
+00:01:48,600 --> 00:01:50,540
+Im Registerblatt Fächer werden die
+
+45
+00:01:50,540 --> 00:01:53,340
+Fächer erfragt und von uns ergänzt
+
+46
+00:01:53,340 --> 00:01:55,200
+und jeweils die entsprechende
+
+47
+00:01:55,200 --> 00:01:57,920
+Anmeldenote eingetragen. Als
+
+48
+00:02:00,870 --> 00:02:02,750
+nächstes Registerblatt haben wir die
+
+49
+00:02:02,750 --> 00:02:04,890
+Gesprächsdokumentation. In der
+
+50
+00:02:04,890 --> 00:02:06,770
+Gesprächsdokumentation erfahren wir
+
+51
+00:02:06,770 --> 00:02:08,310
+entweder über das Service Center
+
+52
+00:02:08,310 --> 00:02:10,610
+bereits Informationen zum
+
+53
+00:02:10,610 --> 00:02:14,070
+Erstgespräch, aber wir können, sobald
+
+54
+00:02:14,070 --> 00:02:16,090
+wir mit dem Gesprächspartner Kontakt
+
+55
+00:02:16,090 --> 00:02:17,570
+aufnehmen, auch hier weitere
+
+56
+00:02:17,570 --> 00:02:19,330
+Informationen mit Hilfe von
+
+57
+00:02:19,330 --> 00:02:23,130
+Textbausteinen hinzufügen. Wenn ich
+
+58
+00:02:23,130 --> 00:02:25,830
+den Vater angerufen habe und er sagt
+
+59
+00:02:25,830 --> 00:02:28,330
+mir also, der Niklas hat jetzt seit
+
+60
+00:02:28,330 --> 00:02:30,410
+kurzem, seitdem ein Lehrerwechsel
+
+61
+00:02:30,410 --> 00:02:33,370
+vollzogen wurde, Probleme und bekommt
+
+62
+00:02:33,370 --> 00:02:35,590
+vereinzelt schlechte Noten, so lässt
+
+63
+00:02:35,590 --> 00:02:37,170
+es sich mit Hilfe der Textbausteine
+
+64
+00:02:37,170 --> 00:02:38,450
+sehr, sehr schnell darstellen.
+
+65
+00:02:39,170 --> 00:02:40,490
+Selbstverständlich können Sie auch
+
+66
+00:02:40,490 --> 00:02:43,210
+hier mit Hilfe eines Freitextfeldes
+
+67
+00:02:43,210 --> 00:02:46,850
+Ergänzungen vornehmen. Mit Hilfe
+
+68
+00:02:46,850 --> 00:02:48,790
+dieses kleines Häkchen stellen Sie
+
+69
+00:02:48,790 --> 00:02:51,010
+entweder die Information vertraulich,
+
+70
+00:02:51,030 --> 00:02:53,090
+so kann der Nachhilfelehrer keines
+
+71
+00:02:53,090 --> 00:02:56,030
+dieser Informationen sehen, oder Sie
+
+72
+00:02:56,030 --> 00:02:57,370
+stellen die Information dem
+
+73
+00:02:57,370 --> 00:03:00,170
+Nachhilfelehrer zur Verfügung, sodass
+
+74
+00:03:00,170 --> 00:03:02,590
+er aus diesem Erstgespräch auch die
+
+75
+00:03:02,590 --> 00:03:06,270
+Information bekommt. kommt. Im
+
+76
+00:03:06,270 --> 00:03:08,830
+Registerblatt Status definiere ich
+
+77
+00:03:08,830 --> 00:03:12,210
+den weiteren Verlauf dieser Anfrage.
+
+78
+00:03:12,630 --> 00:03:14,550
+Das heißt, ich habe hier die
+
+79
+00:03:14,550 --> 00:03:17,310
+Möglichkeit die Kennzeichnung Amt
+
+80
+00:03:17,310 --> 00:03:20,370
+vorzunehmen. Die kann ich jederzeit
+
+81
+00:03:20,370 --> 00:03:23,030
+auch wieder rausnehmen. Ich kann sie
+
+82
+00:03:23,030 --> 00:03:24,650
+auch zu einem späteren Zeitpunkt
+
+83
+00:03:24,650 --> 00:03:27,390
+hinzufügen. Das ist in IK7 möglich.
+
+84
+00:03:27,910 --> 00:03:30,470
+Ich habe hier in der nächsten Aktion
+
+85
+00:03:30,470 --> 00:03:32,290
+wieder Vorlage die Möglichkeit das
+
+86
+00:03:32,290 --> 00:03:35,770
+Datum auszuwählen. und kann nach
+
+87
+00:03:35,770 --> 00:03:37,970
+Uhrzeit und die nachfolgenden
+
+88
+00:03:37,970 --> 00:03:41,310
+Aktionen benennen. Also
+
+89
+00:03:46,980 --> 00:03:49,360
+noch einmal, ich wähle das Datum aus,
+
+90
+00:03:49,540 --> 00:03:52,440
+füge die Uhrzeit hinzu, benenne die
+
+91
+00:03:52,440 --> 00:03:55,940
+Aktion, sage Termin hinzufügen und
+
+92
+00:03:55,940 --> 00:03:57,440
+habe jetzt die nächste Aktion
+
+93
+00:03:57,440 --> 00:03:59,640
+benannt, die jetzt auch wiederum in
+
+94
+00:03:59,640 --> 00:04:02,320
+der Wiedervorlage erscheint. Und zu
+
+95
+00:04:02,320 --> 00:04:04,620
+guter Letzt, das letzte Registerblatt
+
+96
+00:04:04,620 --> 00:04:07,040
+ermöglicht mir ein Angebot zu
+
+97
+00:04:07,040 --> 00:04:08,420
+erstellen, entweder über eine
+
+98
+00:04:08,420 --> 00:04:09,380
+Laufzeit oder einen
+
+99
+00:04:09,380 --> 00:04:12,520
+Kontingentvertrag. Laufzeit sind alle
+
+100
+00:04:12,520 --> 00:04:14,300
+Verträge der Kernverträge, die einer
+
+101
+00:04:14,300 --> 00:04:15,380
+Kündigung bedürfen.
+
+102
+00:04:16,320 --> 00:04:17,340
+Kontingentverträge sind alle
+
+103
+00:04:17,340 --> 00:04:19,700
+Kurzzeitverträge. Ich wähle dann
+
+104
+00:04:19,700 --> 00:04:22,880
+anschließend das Produkt aus, ergänze
+
+105
+00:04:22,880 --> 00:04:26,240
+die Teilnahmen und sobald ich
+
+106
+00:04:26,240 --> 00:04:28,160
+speichere, erscheint in meinem
+
+107
+00:04:28,160 --> 00:04:32,770
+Anfragebuch das Druckersymbol. Hier
+
+108
+00:04:32,770 --> 00:04:35,270
+ist es. Hier kann ich auch wieder mit
+
+109
+00:04:35,270 --> 00:04:36,770
+Hilfe des kleinen grauen Kästchen
+
+110
+00:04:36,770 --> 00:04:38,190
+sehen, welches Angebot ich
+
+111
+00:04:38,190 --> 00:04:41,350
+unterbreitet habe, F4 zweimal die
+
+112
+00:04:41,350 --> 00:04:45,320
+Woche. Und Sie sehen, dass aus meiner
+
+113
+00:04:45,320 --> 00:04:47,360
+neuen Teilnahme jetzt eine offene
+
+114
+00:04:47,360 --> 00:04:50,060
+Teilnahme geworden ist. Bitte
+
+115
+00:04:50,060 --> 00:04:51,660
+probieren Sie diese Dinge für sich
+
+116
+00:04:51,660 --> 00:04:53,300
+selbst einmal aus und erkunden Sie
+
+117
+00:04:53,300 --> 00:04:54,100
+das Anfragebuch.
+

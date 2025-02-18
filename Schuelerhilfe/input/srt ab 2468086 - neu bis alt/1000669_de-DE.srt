@@ -1,0 +1,1328 @@
+1
+00:00:00,820 --> 00:00:02,640
+So, ich würde jetzt einmal meinen
+
+2
+00:00:02,640 --> 00:00:03,760
+Bildschirm freigeben.
+
+3
+00:00:10,980 --> 00:00:12,820
+Ich hoffe oder ich frage jetzt noch
+
+4
+00:00:12,820 --> 00:00:14,600
+einmal nach, ob das gut zu sehen ist.
+
+5
+00:00:28,940 --> 00:00:30,140
+Sehe ich natürlich meinen Chat nicht,
+
+6
+00:00:30,220 --> 00:00:32,140
+das ist auch schön. Aber ich gehe mal
+
+7
+00:00:32,140 --> 00:00:33,860
+davon aus, dass das jetzt gut zu
+
+8
+00:00:33,860 --> 00:00:35,420
+sehen ist und man sieht, was ich hier
+
+9
+00:00:35,420 --> 00:00:36,620
+tue. Wir befinden uns jetzt ganz
+
+10
+00:00:36,620 --> 00:00:38,780
+normal im ICAS und wenn wir im ICAS
+
+11
+00:00:38,780 --> 00:00:40,560
+sind und möchten für einen Schüler
+
+12
+00:00:40,560 --> 00:00:42,940
+einen OLC-Account anlegen, machen wir
+
+13
+00:00:42,940 --> 00:00:46,040
+das natürlich ganz normal in den
+
+14
+00:00:46,040 --> 00:00:47,540
+Stammdaten des Schülers. Ich gehe mal
+
+15
+00:00:47,540 --> 00:00:48,740
+in die Anfragen, da habe ich nämlich
+
+16
+00:00:48,740 --> 00:00:52,270
+jemanden, der noch keinen hat. Gehe
+
+17
+00:00:52,270 --> 00:00:53,990
+dann auf Extras und kann hier in
+
+18
+00:00:53,990 --> 00:00:57,030
+Extras bei OLC auf den drei Punkten
+
+19
+00:00:57,030 --> 00:01:00,350
+einen OLC-Account anlegen. Ich sage
+
+20
+00:01:00,350 --> 00:01:02,570
+einfach, OLC-Account anlegen, wähle
+
+21
+00:01:02,570 --> 00:01:04,550
+das Service-Paket auf und drücke dann
+
+22
+00:01:04,550 --> 00:01:07,450
+Speichern. So, jetzt kriege ich eine
+
+23
+00:01:07,450 --> 00:01:08,790
+Mahnmeldung, der Zugang konnte nicht
+
+24
+00:01:08,790 --> 00:01:11,270
+angelegt werden, da der Schüler keine
+
+25
+00:01:11,270 --> 00:01:12,770
+E-Mail-Adresse hat. Das ist natürlich
+
+26
+00:01:12,770 --> 00:01:14,470
+wichtig. OLC-Account kann ich nur
+
+27
+00:01:14,470 --> 00:01:15,930
+anlegen, wenn der Schüler eine E-Mail
+
+28
+00:01:15,930 --> 00:01:18,050
+-Adresse hat. Dann werde ich das
+
+29
+00:01:18,050 --> 00:01:20,030
+jetzt einmal kurz nachfliegen. Da
+
+30
+00:01:34,530 --> 00:01:36,230
+der Schüler jetzt eine E-Mail-Adresse
+
+31
+00:01:36,230 --> 00:01:38,270
+hat, kann ich hier unter OLC-Account
+
+32
+00:01:38,270 --> 00:01:39,950
+anlegen, das Service-Paket auswählen
+
+33
+00:01:39,950 --> 00:01:42,070
+und sagen speichern. Tue mir dann
+
+34
+00:01:42,070 --> 00:01:43,310
+etwas die Ruhe an, wenn ich zu
+
+35
+00:01:43,310 --> 00:01:45,390
+schnell nochmal klicke, speichert er
+
+36
+00:01:45,390 --> 00:01:46,930
+das eventuell zweimal und sehe schon,
+
+37
+00:01:46,990 --> 00:01:48,510
+dass hier der Benutzer angelegt ist,
+
+38
+00:01:48,630 --> 00:01:50,350
+sehe hier, ob er sich schon mal
+
+39
+00:01:50,350 --> 00:01:53,930
+eingelegt hat und angemeldet hat und
+
+40
+00:01:53,930 --> 00:01:56,750
+kann hier die ULC-Aktivierungse-E
+
+41
+00:01:56,750 --> 00:01:58,190
+-Mail an den Schüler versenden. Das
+
+42
+00:01:58,190 --> 00:01:59,370
+sollte ich auch immer machen, sodass
+
+43
+00:01:59,370 --> 00:02:00,950
+der Schüler weiß, dass er sich da
+
+44
+00:02:00,950 --> 00:02:03,190
+einloggen kann. Ist der ULC-Account
+
+45
+00:02:03,190 --> 00:02:05,290
+einmal angelegt, hat der Schüler 48
+
+46
+00:02:05,290 --> 00:02:11,570
+Stunden oder 72 Stunden Zeit, die
+
+47
+00:02:11,570 --> 00:02:13,050
+Aktivierung anzunehmen und sich das
+
+48
+00:02:13,050 --> 00:02:14,670
+erste Mal einzuloggen, weil ansonsten
+
+49
+00:02:14,670 --> 00:02:17,030
+erlischt der Aktivierungslink. So
+
+50
+00:02:17,030 --> 00:02:21,050
+viel zum Thema Anlage des ULC. Möchte
+
+51
+00:02:21,050 --> 00:02:23,810
+ich das OECD jetzt verwalten, dann
+
+52
+00:02:23,810 --> 00:02:25,650
+gehe ich einfach auf die Login-Seite
+
+53
+00:02:25,650 --> 00:02:27,990
+vom Online-Lerncenter und melde mich
+
+54
+00:02:27,990 --> 00:02:30,090
+dort mit meiner Schülerhilfe-E-Mail
+
+55
+00:02:30,090 --> 00:02:31,030
+-Adresse. Ich mache das mal ein
+
+56
+00:02:31,030 --> 00:02:32,050
+bisschen größer, vielleicht sieht man
+
+57
+00:02:32,050 --> 00:02:32,830
+das dann besser, mit meiner
+
+58
+00:02:32,830 --> 00:02:34,390
+Schülerhilfe-E-Mail-Adresse an. Das
+
+59
+00:02:34,390 --> 00:02:36,570
+ist bei mir diese hier. Das ist für
+
+60
+00:02:36,570 --> 00:02:38,370
+jeden anderen Franchise-Partner
+
+61
+00:02:38,370 --> 00:02:40,610
+genauso. Und wenn man sich damit
+
+62
+00:02:40,610 --> 00:02:41,970
+angemeldet hat, muss man sich kurz
+
+63
+00:02:41,970 --> 00:02:43,890
+noch bei der IT-Abteilung, ich sage
+
+64
+00:02:43,890 --> 00:02:45,450
+jetzt mal bei Herrn Hoffmann melden,
+
+65
+00:02:45,490 --> 00:02:47,310
+dass Herr Hoffmann diese E-Mail
+
+66
+00:02:47,310 --> 00:02:48,350
+-Adresse mit den Standorten
+
+67
+00:02:48,350 --> 00:02:49,530
+verknüpft, weil dann kann man die
+
+68
+00:02:49,530 --> 00:02:52,970
+Benutzer über das OLC verwalten. Ich
+
+69
+00:02:52,970 --> 00:02:55,890
+logge mich jetzt einmal ein und sehe
+
+70
+00:02:55,890 --> 00:02:57,050
+gleich in der oberen Seite,
+
+71
+00:02:57,130 --> 00:02:58,870
+Startseite, mein Profil und habe hier
+
+72
+00:02:58,870 --> 00:03:00,430
+in der Mitte Benutzerübersicht. Das
+
+73
+00:03:00,430 --> 00:03:02,050
+existiert in den normalen Accounts
+
+74
+00:03:02,050 --> 00:03:04,230
+nicht. Wenn ich dort drauf gehe,
+
+75
+00:03:04,370 --> 00:03:06,110
+lande ich in der Benutzerübersicht
+
+76
+00:03:06,110 --> 00:03:08,010
+des OLCs und habe hier auch gleich
+
+77
+00:03:08,010 --> 00:03:10,270
+den Standort Gryffindor, wo wir eben
+
+78
+00:03:10,270 --> 00:03:13,990
+waren, ausgewählt. Und müsste jetzt
+
+79
+00:03:13,990 --> 00:03:17,730
+einmal gucken, wo unsere Anmeldung
+
+80
+00:03:17,730 --> 00:03:18,910
+geblieben ist. Ich gucke noch einmal
+
+81
+00:03:18,910 --> 00:03:20,310
+nach dem Namen. Das war die Hannah
+
+82
+00:03:20,310 --> 00:03:23,870
+Krüger. Und die Hannah Krüger können
+
+83
+00:03:23,870 --> 00:03:25,110
+wir jetzt hier über verschiedene
+
+84
+00:03:25,110 --> 00:03:26,950
+Filterfunktionen suchen. Wir sehen
+
+85
+00:03:26,950 --> 00:03:27,930
+hier, dass wir einmal die Schule
+
+86
+00:03:27,930 --> 00:03:30,070
+eingestellt haben. Wir können nach E
+
+87
+00:03:30,070 --> 00:03:31,270
+-Mail-Adressen Vornamen oder
+
+88
+00:03:31,270 --> 00:03:32,630
+Nachnamen suchen. Ich sage jetzt mal
+
+89
+00:03:32,630 --> 00:03:32,790
+Nachnamen.
+
+90
+00:03:35,890 --> 00:03:37,630
+Das wäre nun Michael Krüger. Die
+
+91
+00:03:37,630 --> 00:03:38,950
+Hanna Krüger finde ich noch nicht.
+
+92
+00:03:39,030 --> 00:03:40,150
+Das kann natürlich ein kleines
+
+93
+00:03:40,150 --> 00:03:41,670
+Übertragungsproblem sein, dass das
+
+94
+00:03:41,670 --> 00:03:42,710
+noch nicht angelegt ist und so
+
+95
+00:03:42,710 --> 00:03:43,670
+schnell geht, weil ich den gerade
+
+96
+00:03:43,670 --> 00:03:45,050
+angelegt habe. Wir nehmen einfach mal
+
+97
+00:03:45,050 --> 00:03:46,430
+einen, den ich eben schon angelegt
+
+98
+00:03:46,430 --> 00:03:51,160
+habe. Das ist die Alina Stanzel. Die
+
+99
+00:03:51,160 --> 00:03:52,500
+ist hier zu finden und wir sehen,
+
+100
+00:03:52,520 --> 00:03:53,960
+dass sie sich noch nicht angemeldet
+
+101
+00:03:53,960 --> 00:03:55,360
+hat. Hier in der Übersicht kann ich
+
+102
+00:03:55,360 --> 00:03:57,680
+immer sehen, E-Mail-Adresse, Name des
+
+103
+00:03:57,680 --> 00:04:00,340
+Schülers, ICAS-ID und ob das Kennwort
+
+104
+00:04:00,340 --> 00:04:01,960
+vergeben ist oder wann das letzte Mal
+
+105
+00:04:01,960 --> 00:04:04,120
+eingeloggt wurde oder ob überhaupt
+
+106
+00:04:04,120 --> 00:04:06,860
+ein Kennwort vergeben ist. Hier kann
+
+107
+00:04:06,860 --> 00:04:08,480
+ich auch nochmal auf dem grünen Link
+
+108
+00:04:08,480 --> 00:04:12,200
+den Zugangslink erneut versenden. Und
+
+109
+00:04:12,200 --> 00:04:13,520
+wenn ich einmal den Benutzer
+
+110
+00:04:13,520 --> 00:04:15,260
+anklicke, habe ich die Möglichkeit,
+
+111
+00:04:15,500 --> 00:04:18,220
+ein Enddatum zu setzen. Also wenn ich
+
+112
+00:04:18,220 --> 00:04:21,160
+das OEC beenden möchte. So, das
+
+113
+00:04:21,160 --> 00:04:22,780
+erstmal zu der Übersicht. Ich kann
+
+114
+00:04:22,780 --> 00:04:24,180
+hier nach Schülern und Lehrern
+
+115
+00:04:24,180 --> 00:04:25,880
+filtern und ich kriege insgesamt eine
+
+116
+00:04:25,880 --> 00:04:28,180
+Übersicht über den Monat August und
+
+117
+00:04:28,180 --> 00:04:29,860
+sehe, wie viele aktive Schüler, wie
+
+118
+00:04:29,860 --> 00:04:31,240
+viele aktive Lehrer und wie viele
+
+119
+00:04:31,240 --> 00:04:34,620
+aktive Accounts insgesamt. Ich würde
+
+120
+00:04:34,620 --> 00:04:36,440
+das jetzt einmal gerade stoppen und
+
+121
+00:04:36,440 --> 00:04:39,060
+abwarten und fragen, ob es hierzu
+
+122
+00:04:39,060 --> 00:04:42,240
+noch eine Frage gibt. Oder erstmal
+
+123
+00:04:42,240 --> 00:04:43,580
+was zum Nachfragen, bevor ich
+
+124
+00:04:43,580 --> 00:04:45,000
+weitermache, was noch funktioniert.
+
+125
+00:04:45,660 --> 00:04:45,800
+So,
+
+126
+00:04:50,380 --> 00:04:52,740
+Frau Stender, Sie dürfen fragen, wenn
+
+127
+00:04:52,740 --> 00:04:54,280
+es möglich ist. Am besten einfach in
+
+128
+00:04:54,280 --> 00:04:55,120
+den Chat, dann kann ich das
+
+129
+00:04:55,120 --> 00:04:55,880
+nachlesen.
+
+130
+00:05:03,280 --> 00:05:04,700
+Solange ich nichts lese, gehe ich
+
+131
+00:05:04,700 --> 00:05:06,200
+davon aus, dass alles verständlich
+
+132
+00:05:06,200 --> 00:05:07,480
+und klar war und ich einfach
+
+133
+00:05:07,480 --> 00:05:10,660
+weitermachen kann. Alles
+
+134
+00:05:24,610 --> 00:05:26,190
+klar, das ist schön. Dann mache ich
+
+135
+00:05:26,190 --> 00:05:27,150
+weiter, dann gebe ich wieder den
+
+136
+00:05:27,150 --> 00:05:28,310
+Bildschirm frei. Wir gehen noch
+
+137
+00:05:28,310 --> 00:05:30,230
+einmal auf das OLC zum
+
+138
+00:05:30,230 --> 00:05:34,690
+Administrieren. So, jetzt gibt es ja
+
+139
+00:05:34,690 --> 00:05:37,150
+mehrere Fälle, die man sich
+
+140
+00:05:37,150 --> 00:05:38,610
+durchdenken kann und passieren kann.
+
+141
+00:05:38,690 --> 00:05:39,850
+Einmal, wenn wir hier auf Gryffindor
+
+142
+00:05:39,850 --> 00:05:41,010
+sind, können wir uns noch mal unseren
+
+143
+00:05:41,010 --> 00:05:42,050
+Schüler, den wir gerade hatten,
+
+144
+00:05:42,110 --> 00:05:45,900
+raussuchen. Das war die Alina
+
+145
+00:05:45,900 --> 00:05:46,360
+Stanzel.
+
+146
+00:05:52,770 --> 00:05:53,810
+Da sehe sehe ich jetzt hier auch
+
+147
+00:05:53,810 --> 00:05:57,830
+unter Extras, welche Pakete gebucht
+
+148
+00:05:57,830 --> 00:05:58,870
+sind, wie das mit den Logins
+
+149
+00:05:58,870 --> 00:05:59,750
+aussieht. Und der hat sich natürlich
+
+150
+00:05:59,750 --> 00:06:02,030
+noch nicht eingeloggt, da da fiktive
+
+151
+00:06:02,030 --> 00:06:04,110
+E-Mail-Adressen sind. So, wenn ich
+
+152
+00:06:04,110 --> 00:06:05,550
+jetzt diesen Account beenden möchte,
+
+153
+00:06:05,650 --> 00:06:08,050
+kann ich das einmal hier, OLC-Account
+
+154
+00:06:08,050 --> 00:06:09,890
+beenden und wähle dann das Datum, zu
+
+155
+00:06:09,890 --> 00:06:11,070
+wann ich ihn beenden möchte. Ich kann
+
+156
+00:06:11,070 --> 00:06:12,790
+immer nur zum Monatsende beenden.
+
+157
+00:06:13,310 --> 00:06:15,550
+Wenn ich einen OLC-Account beendet
+
+158
+00:06:15,550 --> 00:06:17,970
+habe, kann ich den nicht wieder
+
+159
+00:06:17,970 --> 00:06:20,330
+aktivieren, solange er nicht beendet
+
+160
+00:06:20,330 --> 00:06:21,950
+ist. Das ist so ein bisschen, da muss
+
+161
+00:06:21,950 --> 00:06:22,950
+man gucken. Also habe ich einen
+
+162
+00:06:22,950 --> 00:06:24,850
+Account zum 31.08. beendet und der
+
+163
+00:06:24,850 --> 00:06:26,510
+Schüler will doch weitermachen, muss
+
+164
+00:06:26,510 --> 00:06:28,450
+ich ihm am 1.09. einen neuen Account
+
+165
+00:06:28,450 --> 00:06:30,450
+zukommen lassen. Das ist das eine,
+
+166
+00:06:30,490 --> 00:06:33,090
+was man bedenken muss. Das nächste
+
+167
+00:06:33,090 --> 00:06:35,530
+ist, ändert sich beim Schüler mal die
+
+168
+00:06:35,530 --> 00:06:37,570
+E-Mail-Adresse und ich möchte eine E
+
+169
+00:06:37,570 --> 00:06:39,970
+-Mail-Adresse in das bestehende ULC
+
+170
+00:06:39,970 --> 00:06:42,270
+haben. Dann kann ich einmal in den
+
+171
+00:06:42,270 --> 00:06:46,070
+Stammdaten vom Schüler die E-Mail
+
+172
+00:06:46,070 --> 00:06:48,390
+-Adresse bearbeiten. Hier steht jetzt
+
+173
+00:06:48,390 --> 00:06:51,150
+hagusku.gmx.nl. Wenn ich da einfach
+
+174
+00:06:51,150 --> 00:06:56,110
+at t-online.de und vorne
+
+175
+00:06:59,080 --> 00:07:03,380
+S123 von mache und speichere das,
+
+176
+00:07:03,540 --> 00:07:05,100
+habe ich hier eine geänderte E-Mail
+
+177
+00:07:05,100 --> 00:07:06,100
+und der Schüler könnte sich mit
+
+178
+00:07:06,100 --> 00:07:07,260
+dieser E-Mail nicht einloggen. Dann
+
+179
+00:07:07,260 --> 00:07:08,640
+gehe ich einfach nochmal auf Extras
+
+180
+00:07:08,640 --> 00:07:11,480
+und sage, OLC-Account anlegen und
+
+181
+00:07:11,480 --> 00:07:12,900
+lege den einfach nochmal an. Dann
+
+182
+00:07:12,900 --> 00:07:16,340
+überschreibt er im OLC diese E-Mail
+
+183
+00:07:16,340 --> 00:07:17,460
+-Adresse. Das können wir jetzt einmal
+
+184
+00:07:17,460 --> 00:07:20,740
+nachgucken. So, wir gucken dann
+
+185
+00:07:20,740 --> 00:07:23,100
+nochmal bei Schüler, suchen uns den
+
+186
+00:07:23,100 --> 00:07:25,320
+Schüler Stanzel oder die Schülerin
+
+187
+00:07:25,320 --> 00:07:28,020
+und sehen schon, dass hier vorne
+
+188
+00:07:28,020 --> 00:07:31,600
+Test123.online.de eingegeben ist.
+
+189
+00:07:32,460 --> 00:07:33,960
+Also hat das Ändern der E-Mail
+
+190
+00:07:33,960 --> 00:07:35,520
+-Adresse geklappt. Ich kann jetzt
+
+191
+00:07:35,520 --> 00:07:37,060
+hier nochmal draufgehen und ein
+
+192
+00:07:37,060 --> 00:07:38,840
+Enddatum setzen, einfach mal um zu
+
+193
+00:07:38,840 --> 00:07:40,380
+testen, dass die Übertragung von hier
+
+194
+00:07:40,380 --> 00:07:43,060
+ans ICAS auch funktioniert. Wenn ich
+
+195
+00:07:43,060 --> 00:07:44,140
+da jetzt sage, okay, die haben
+
+196
+00:07:44,140 --> 00:07:45,740
+gekündigt zum Mai, weil das Kind dann
+
+197
+00:07:45,740 --> 00:07:47,260
+mit der Schule fertig ist, sage ich
+
+198
+00:07:47,260 --> 00:07:49,700
+Enddatum speichern. Dann ist der
+
+199
+00:07:49,700 --> 00:07:51,540
+Account hier automatisch beendet.
+
+200
+00:07:51,600 --> 00:07:53,800
+Wenn ich das schließe und gucke
+
+201
+00:07:53,800 --> 00:07:56,160
+einmal im OLC, muss ich mir die Daten
+
+202
+00:07:56,160 --> 00:07:59,060
+einmal aktivieren. Wenn ich dann
+
+203
+00:07:59,060 --> 00:08:00,400
+aufklappe, sehe ich auch, das
+
+204
+00:08:00,400 --> 00:08:01,760
+Enddatum ist gesetzt. Das
+
+205
+00:08:01,760 --> 00:08:03,580
+funktioniert in beide Richtungen. Ich
+
+206
+00:08:03,580 --> 00:08:05,260
+kann hier das Enddatum setzen, also
+
+207
+00:08:05,260 --> 00:08:09,760
+im ICAS oder auch im OLC. Wenn man
+
+208
+00:08:09,760 --> 00:08:11,780
+das Ganze nochmal nachlesen möchte,
+
+209
+00:08:11,920 --> 00:08:14,360
+gibt es hier eine Anleitung. Die habe
+
+210
+00:08:14,360 --> 00:08:15,820
+ich hier auch schon mal offen. Da
+
+211
+00:08:15,820 --> 00:08:20,020
+steht auch zu jedem Menüpunkt
+
+212
+00:08:20,020 --> 00:08:22,840
+drin, was man an welcher Stelle
+
+213
+00:08:22,840 --> 00:08:24,480
+machen kann und wie man es beachten
+
+214
+00:08:24,480 --> 00:08:26,400
+kann. Was noch interessant ist, ist
+
+215
+00:08:26,400 --> 00:08:29,060
+einmal der CSV-Export. Da kann ich
+
+216
+00:08:29,060 --> 00:08:32,260
+mir quasi eine Übersicht von meinen
+
+217
+00:08:32,260 --> 00:08:33,940
+ganzen Schülern im OEC runterladen
+
+218
+00:08:33,940 --> 00:08:35,280
+und gucken, wann die sich das letzte
+
+219
+00:08:35,280 --> 00:08:36,560
+Mal eingeloggt haben und ob
+
+220
+00:08:36,560 --> 00:08:38,100
+überhaupt. Das ist quasi so ein
+
+221
+00:08:38,100 --> 00:08:39,340
+bisschen ähnlich wie das Reporting,
+
+222
+00:08:39,540 --> 00:08:42,200
+was wir früher bekommen haben. Wenn
+
+223
+00:08:42,200 --> 00:08:46,140
+ich jetzt einfach mal gucke, im OEC
+
+224
+00:08:46,140 --> 00:08:47,920
+habe ich hier CSV-Export. Bitte
+
+225
+00:08:47,920 --> 00:08:49,540
+beachten, es sind personenbezogene
+
+226
+00:08:49,540 --> 00:08:50,540
+Daten, deswegen müssen wir damit
+
+227
+00:08:50,540 --> 00:08:52,940
+vorsichtig sein. Klicke ich da drauf.
+
+228
+00:08:53,780 --> 00:08:56,620
+sich hier eine Excel-Datei. Dann
+
+229
+00:08:56,620 --> 00:08:58,860
+öffne ich Excel. Ein
+
+230
+00:09:01,840 --> 00:09:03,460
+kleiner Moment. Excel
+
+231
+00:09:17,440 --> 00:09:19,660
+ist jetzt hoffentlich zu sehen. Frau
+
+232
+00:09:23,470 --> 00:09:24,890
+Stender, können Sie die Excel-Tabelle
+
+233
+00:09:24,890 --> 00:09:25,770
+sehen? Ich
+
+234
+00:09:36,080 --> 00:09:37,560
+gehe jetzt davon aus, bzw. ich bende
+
+235
+00:09:37,560 --> 00:09:39,940
+einmal die Freigabe, genau, ich bende
+
+236
+00:09:39,940 --> 00:09:41,240
+einmal die Freigabe und gebe nur die
+
+237
+00:09:41,240 --> 00:09:43,840
+Excel-Tabelle frei. So, ich habe
+
+238
+00:09:43,840 --> 00:09:46,360
+einfach eine neue Excel-Tabelle. In
+
+239
+00:09:46,360 --> 00:09:47,680
+der Excel-Tabelle gehe ich dann auf
+
+240
+00:09:47,680 --> 00:09:52,360
+Daten und sage aus Text CSV, das
+
+241
+00:09:52,360 --> 00:09:53,880
+steht auch in der Anleitung, die sich
+
+242
+00:09:53,880 --> 00:09:55,800
+im OEC befindet, noch drin, wie man
+
+243
+00:09:55,800 --> 00:09:58,080
+das genau macht und wähle jetzt quasi
+
+244
+00:09:58,080 --> 00:09:59,980
+meine herunterladende Datei aus und
+
+245
+00:09:59,980 --> 00:10:03,040
+sage importieren. Und dann geht in
+
+246
+00:10:03,040 --> 00:10:05,580
+Excel quasi ein Fenster auf, E-Mail,
+
+247
+00:10:05,660 --> 00:10:08,400
+Vorname, Nachname, ICAS-ID, erstellt
+
+248
+00:10:08,400 --> 00:10:10,120
+am Anzahl-Login-Versuch. Und das ist
+
+249
+00:10:10,120 --> 00:10:11,320
+das, was ich jetzt importieren
+
+250
+00:10:11,320 --> 00:10:12,320
+möchte. Dann sage ich Daten
+
+251
+00:10:12,320 --> 00:10:13,740
+transformieren und
+
+252
+00:10:17,000 --> 00:10:18,680
+dann habe ich hier eine schöne Excel
+
+253
+00:10:18,680 --> 00:10:20,260
+-Tabelle, die
+
+254
+00:10:23,330 --> 00:10:25,570
+jetzt hier mir zeigt, dass ich eben
+
+255
+00:10:25,570 --> 00:10:28,010
+den Schülertest 123 IT Online quasi
+
+256
+00:10:28,010 --> 00:10:29,210
+nur einen Schüler ausgewählt hatte,
+
+257
+00:10:29,330 --> 00:10:31,130
+Vorname, Nachname. Ich habe die IKAS
+
+258
+00:10:31,130 --> 00:10:33,570
+-ID, wann er stellt, am 14.08.2020,
+
+259
+00:10:33,950 --> 00:10:36,110
+wie viele Login-Versuche er hatte und
+
+260
+00:10:36,110 --> 00:10:37,630
+wann er das letzte Mal eingeloggt
+
+261
+00:10:37,630 --> 00:10:41,390
+war. Das kann ich natürlich, ich
+
+262
+00:10:41,390 --> 00:10:43,130
+speichere das jetzt mal nicht, das
+
+263
+00:10:51,360 --> 00:10:54,800
+kann ich natürlich auch für alle
+
+264
+00:10:55,340 --> 00:10:56,480
+machen. Wenn ich hier Filter
+
+265
+00:10:56,480 --> 00:10:58,100
+zurücksetzen sage und habe jetzt hier
+
+266
+00:10:58,100 --> 00:10:59,240
+alle Schilder stehen, kann ich den
+
+267
+00:10:59,240 --> 00:11:00,960
+CSV-Export für alle Schüler machen.
+
+268
+00:11:02,880 --> 00:11:05,420
+So, jetzt warte ich auf Fragen oder
+
+269
+00:11:05,420 --> 00:11:06,980
+was, was interessant ist oder frage
+
+270
+00:11:06,980 --> 00:11:09,380
+einfach mal, Frau Stender, hatten Sie
+
+271
+00:11:09,380 --> 00:11:12,380
+den Login beim OLC für sich schon
+
+272
+00:11:12,380 --> 00:11:14,260
+freigeschaltet, sodass Sie das so
+
+273
+00:11:14,260 --> 00:11:15,560
+administrieren können? Ist das neu
+
+274
+00:11:15,560 --> 00:11:17,300
+für Sie? Haben Sie Fragen zu
+
+275
+00:11:17,300 --> 00:11:19,460
+irgendwas? Sie dürfen gerne
+
+276
+00:11:19,460 --> 00:11:21,880
+losschießen. Sie dürfen auch direkt
+
+277
+00:11:21,880 --> 00:11:23,480
+fragen, da wir hier uns nur zu
+
+278
+00:11:23,480 --> 00:11:24,700
+zweit... befinden, da es sich
+
+279
+00:11:24,700 --> 00:11:26,140
+scheinbar nicht so rumgesprochen hat,
+
+280
+00:11:26,400 --> 00:11:28,640
+können wir das direkt klären. Wenn
+
+281
+00:11:49,210 --> 00:11:50,550
+ich jetzt sehe, dass Sie nichts
+
+282
+00:11:50,550 --> 00:11:53,390
+schreiben, reicht Ihnen das als
+
+283
+00:11:53,390 --> 00:11:55,770
+Erklärung des Zusammenhangs zwischen
+
+284
+00:11:56,370 --> 00:11:59,210
+OLC und ICAS? Gibt es da noch Fragen
+
+285
+00:11:59,210 --> 00:12:00,730
+zu irgendwas anderem? Kann ich Ihnen
+
+286
+00:12:00,730 --> 00:12:02,130
+noch was anderes zeigen? Dann würde
+
+287
+00:12:02,130 --> 00:12:02,910
+ich das gerne machen.
+
+288
+00:12:26,570 --> 00:12:27,970
+Okay, wenn Sie noch Fragen haben,
+
+289
+00:12:28,050 --> 00:12:29,310
+sehr schön, bis morgen, das ist auch
+
+290
+00:12:29,310 --> 00:12:32,130
+schön. Nein, aber Sie dürfen gerne,
+
+291
+00:12:32,210 --> 00:12:34,170
+wenn Sie jetzt noch eine Frage haben,
+
+292
+00:12:34,190 --> 00:12:36,850
+noch was sehen wollen zeige ich es
+
+293
+00:12:36,850 --> 00:12:38,150
+gerne oder mache es nochmal, dass die
+
+294
+00:12:38,150 --> 00:12:39,290
+einmal gucken können, wie das Ganze
+
+295
+00:12:39,290 --> 00:12:41,090
+funktioniert. Ich denke, es ist
+
+296
+00:12:41,090 --> 00:12:42,470
+wichtig, dass man sich mit seiner
+
+297
+00:12:42,470 --> 00:12:43,450
+Franchise-Partner-E-Mail-Adresse
+
+298
+00:12:43,450 --> 00:12:44,850
+diesen Account anlegt, damit man die
+
+299
+00:12:44,850 --> 00:12:45,990
+Benutzer verwalten kann und dann
+
+300
+00:12:45,990 --> 00:12:47,390
+einfach mal guckt, wie viele sind
+
+301
+00:12:47,390 --> 00:12:49,610
+überhaupt angemeldet und passt das
+
+302
+00:12:49,610 --> 00:12:50,910
+mit denen, die ich im eCars
+
+303
+00:12:50,910 --> 00:12:52,230
+angemeldet habe und das einfach mal
+
+304
+00:12:52,230 --> 00:12:53,830
+abgleicht. Und wenn man das auf dem
+
+305
+00:12:53,830 --> 00:12:56,630
+aktuellen Stand hat, ist das
+
+306
+00:12:56,630 --> 00:12:57,550
+eigentlich ein gutes Tool,
+
+307
+00:13:26,150 --> 00:13:27,530
+Ich habe es gestern, kann ich jetzt
+
+308
+00:13:27,530 --> 00:13:28,970
+einmal aus dem Nähkästchen plaudern,
+
+309
+00:13:29,590 --> 00:13:30,730
+ich habe gestern mit einem Franchise
+
+310
+00:13:30,730 --> 00:13:31,850
+-Partner zusammengesessen auf einen
+
+311
+00:13:31,850 --> 00:13:34,670
+Kaffee. Der hat auch gesagt, oh, ich
+
+312
+00:13:34,670 --> 00:13:35,830
+muss mir die alle mal rausschreiben.
+
+313
+00:13:35,990 --> 00:13:37,050
+Und dann haben wir auch darüber
+
+314
+00:13:37,050 --> 00:13:38,130
+gesprochen, dass er sich anmelden
+
+315
+00:13:38,130 --> 00:13:40,650
+muss. Der schafft es heute nur nicht
+
+316
+00:13:40,650 --> 00:13:42,750
+zu diesem Webinar. Der hat sich dann
+
+317
+00:13:42,750 --> 00:13:45,190
+einfach angemeldet und dann kurz sich
+
+318
+00:13:45,190 --> 00:13:46,630
+bei Herrn Hoffmann gemeldet. und Herr
+
+319
+00:13:46,630 --> 00:13:47,890
+Hoffmann hat ihm das freigeschaltet
+
+320
+00:13:47,890 --> 00:13:49,110
+und er schrieb heute nur, er könnte
+
+321
+00:13:49,110 --> 00:13:50,490
+seine Benutzer verwalten und das
+
+322
+00:13:50,490 --> 00:13:54,850
+funktioniert. Super. Wenn Sie dann
+
+323
+00:13:54,850 --> 00:13:56,950
+keine Fragen mehr haben, würde ich
+
+324
+00:13:56,950 --> 00:13:58,210
+sagen, sind wir heute für durch. Das
+
+325
+00:13:58,210 --> 00:13:59,730
+war relativ schnell mit so wenig
+
+326
+00:13:59,730 --> 00:14:04,170
+Fragen. Kein Problem. Dann danke ich
+
+327
+00:14:04,170 --> 00:14:06,210
+fürs Zuhören und hoffe, Sie konnten
+
+328
+00:14:06,210 --> 00:14:07,550
+was mitnehmen. Alles
+
+329
+00:14:13,370 --> 00:14:15,350
+klar. Dann vielleicht bis zum
+
+330
+00:14:15,350 --> 00:14:16,550
+nächsten Mal. Dann stoppe ich das
+
+331
+00:14:16,550 --> 00:14:17,930
+hier und beende die Aufnahme und
+
+332
+00:14:17,930 --> 00:14:18,870
+wünsche noch einen schönen Tag.
+

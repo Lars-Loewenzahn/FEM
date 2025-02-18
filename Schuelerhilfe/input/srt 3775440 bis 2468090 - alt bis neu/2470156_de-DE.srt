@@ -1,0 +1,884 @@
+1
+00:00:07,440 --> 00:00:10,300
+Hallo miteinander. Erst einmal kurz
+
+2
+00:00:10,300 --> 00:00:11,840
+die Abfrage. Wenn ihr mich hören
+
+3
+00:00:11,840 --> 00:00:13,700
+könnt, würde ich euch bitten, einfach
+
+4
+00:00:13,700 --> 00:00:15,640
+nur kurz in den Chat reinzuschreiben,
+
+5
+00:00:15,680 --> 00:00:18,340
+damit ich sehe, dass das hier mit dem
+
+6
+00:00:18,340 --> 00:00:19,100
+Audio funktioniert.
+
+7
+00:00:24,250 --> 00:00:27,610
+Okay, super. Mein Name ist Yannick,
+
+8
+00:00:27,730 --> 00:00:29,370
+ich bin von der Schülerhilfe und ich
+
+9
+00:00:29,370 --> 00:00:31,150
+werde heute mit euch in diesem
+
+10
+00:00:31,150 --> 00:00:32,790
+Webinar über den Umgang mit
+
+11
+00:00:32,790 --> 00:00:35,070
+Sachtexten sprechen. Und wir werden
+
+12
+00:00:35,070 --> 00:00:37,990
+uns dazu die beiden folgenden Themen
+
+13
+00:00:37,990 --> 00:00:39,470
+einmal anschauen, und zwar, wie
+
+14
+00:00:39,470 --> 00:00:42,730
+schreibe ich eine Summary. und wie
+
+15
+00:00:42,730 --> 00:00:45,030
+ich mit Tabellen und Statistiken um
+
+16
+00:00:45,030 --> 00:00:46,830
+die in Sachtexten des Öfteren
+
+17
+00:00:46,830 --> 00:00:48,590
+verwendet werde, wie kann ich das
+
+18
+00:00:48,590 --> 00:00:51,670
+Ganze dann in meine Analyse
+
+19
+00:00:51,670 --> 00:00:53,050
+einbinden.
+
+20
+00:00:54,690 --> 00:00:57,250
+Zuerst einmal wollen wir zwei
+
+21
+00:00:57,250 --> 00:00:59,890
+Einigungen unterscheiden, und zwar
+
+22
+00:00:59,890 --> 00:01:02,990
+die Non-Fictionals, also die Nicht
+
+23
+00:01:02,990 --> 00:01:05,770
+-Fiktionalen, von den Fiktionalen
+
+24
+00:01:05,770 --> 00:01:08,030
+Texten. Also ein Non-Fictional Text
+
+25
+00:01:08,030 --> 00:01:10,530
+ist ein Bezug zur erlebbaren Welt.
+
+26
+00:01:10,890 --> 00:01:13,830
+Das Ganze ist überprüfbar durch Ort,
+
+27
+00:01:13,970 --> 00:01:16,270
+Zeit, Person und Handlungsabläufe.
+
+28
+00:01:16,450 --> 00:01:19,130
+Und Beispiele hierfür sind zum
+
+29
+00:01:19,130 --> 00:01:21,690
+Beispiel der News Report, also die
+
+30
+00:01:21,690 --> 00:01:24,050
+Nachrichtenmeldung, eine sogenannte
+
+31
+00:01:24,050 --> 00:01:27,010
+Feature Story, eine Reportage, das
+
+32
+00:01:27,010 --> 00:01:29,970
+Interview oder Advertisement, die
+
+33
+00:01:29,970 --> 00:01:33,950
+Werbeanzeige. Ein fictional Text,
+
+34
+00:01:34,230 --> 00:01:37,190
+also etwas Fiktionales, bezieht sich
+
+35
+00:01:37,190 --> 00:01:40,370
+darauf, dass es eine erfundene,
+
+36
+00:01:40,370 --> 00:01:43,750
+erdachte, eine fiktive, virtuelle
+
+37
+00:01:43,750 --> 00:01:45,750
+Wirklichkeit ist, eine so eine
+
+38
+00:01:45,750 --> 00:01:49,470
+erfundene Welt. Das Ganze können zum
+
+39
+00:01:49,470 --> 00:01:52,330
+Beispiel Dramen, Poetik oder epische
+
+40
+00:01:52,330 --> 00:01:54,150
+Texte sein, wie Kurzgeschichten,
+
+41
+00:01:54,910 --> 00:01:58,770
+Fabeln oder Novellen oder Romane.
+
+42
+00:01:58,770 --> 00:01:59,770
+Wenn
+
+43
+00:02:01,820 --> 00:02:03,860
+ich also eine Zusammenfassung, eine
+
+44
+00:02:03,860 --> 00:02:06,840
+Summary schreiben möchte. Diese
+
+45
+00:02:06,840 --> 00:02:09,080
+Zusammenfassung informiert kurz und
+
+46
+00:02:09,080 --> 00:02:10,700
+sachlich über den Inhalt eines
+
+47
+00:02:10,700 --> 00:02:13,260
+Textes. Sie wird immer im Simple
+
+48
+00:02:13,260 --> 00:02:15,640
+Present geschrieben. Sie enthält
+
+49
+00:02:15,640 --> 00:02:17,500
+keine persönlichen Wertungen oder
+
+50
+00:02:17,500 --> 00:02:19,480
+Stellungnahmen und sie beschränkt
+
+51
+00:02:19,480 --> 00:02:20,360
+sich auf die wichtigsten
+
+52
+00:02:20,360 --> 00:02:23,380
+Informationen. Und als grobe
+
+53
+00:02:23,380 --> 00:02:25,940
+Faustformel sollte die Summary nie
+
+54
+00:02:25,940 --> 00:02:27,160
+länger als ein Drittel des
+
+55
+00:02:27,160 --> 00:02:30,420
+Originaltextes sein. Genauso wichtig
+
+56
+00:02:30,420 --> 00:02:34,600
+ist auch, dass die Summary mit euren
+
+57
+00:02:34,600 --> 00:02:36,760
+eigenen Worten geschrieben wird. Das
+
+58
+00:02:36,760 --> 00:02:39,840
+heißt, dass ihr nicht ganze Sätze des
+
+59
+00:02:39,840 --> 00:02:42,040
+Originaltextes kopieren und
+
+60
+00:02:42,040 --> 00:02:44,220
+übertragen sollt, sondern dass ihr
+
+61
+00:02:44,220 --> 00:02:46,240
+versucht, den Inhalt mit euren
+
+62
+00:02:46,240 --> 00:02:49,000
+eigenen Worten
+
+63
+00:02:51,240 --> 00:02:52,820
+wieder dazugeben.
+
+64
+00:02:56,070 --> 00:02:58,470
+Ein paar Tipps und Hinweise für eine
+
+65
+00:02:58,470 --> 00:03:01,130
+gelungene Summary. Lies den Text
+
+66
+00:03:01,130 --> 00:03:02,330
+gründlich und unterstreiche
+
+67
+00:03:02,330 --> 00:03:04,350
+Schlüsselbegriffe. Die werden auch im
+
+68
+00:03:04,350 --> 00:03:06,410
+Englischen Keywords genannt oder
+
+69
+00:03:06,410 --> 00:03:08,990
+Kernaussagen. Das sind Key Phrases.
+
+70
+00:03:11,170 --> 00:03:12,650
+Nehmt eine Übersicht mit den
+
+71
+00:03:12,650 --> 00:03:14,050
+Kernaussagen an und formuliert
+
+72
+00:03:14,050 --> 00:03:16,970
+Stichpunkte mit eigenen Worten. Auch
+
+73
+00:03:16,970 --> 00:03:19,870
+hier nochmal vermeidet Zitate, also
+
+74
+00:03:19,870 --> 00:03:23,550
+wortwörtliche Übertragungen aus dem
+
+75
+00:03:23,550 --> 00:03:25,430
+Originaltext in eure Summary.
+
+76
+00:03:26,450 --> 00:03:28,830
+Formuliere vollständige Sätze und
+
+77
+00:03:28,830 --> 00:03:30,470
+ganz wichtig, verwende dabei
+
+78
+00:03:30,470 --> 00:03:32,110
+Bindewörter, sogenannte Linking
+
+79
+00:03:32,110 --> 00:03:34,330
+Words. Konjunktionen sowie andere
+
+80
+00:03:34,330 --> 00:03:36,030
+Mittel, um auch eine
+
+81
+00:03:36,030 --> 00:03:39,070
+abwechslungsreiche Syntax mit
+
+82
+00:03:39,070 --> 00:03:42,740
+einzubauen. Bei einer langen
+
+83
+00:03:42,740 --> 00:03:44,160
+Textzusammenfassung sollte die
+
+84
+00:03:44,160 --> 00:03:46,040
+Summary mit einem einleitenden Satz
+
+85
+00:03:46,040 --> 00:03:48,260
+beginnen. Und ganz wichtig sind die
+
+86
+00:03:48,260 --> 00:03:49,840
+Textsorte.
+
+87
+00:03:52,260 --> 00:03:54,380
+Also was habe ich überhaupt für einen
+
+88
+00:03:54,380 --> 00:03:56,180
+Text vorliegen? Ist es ein
+
+89
+00:03:56,180 --> 00:03:57,820
+Zeitungsartikel? Ist es ein
+
+90
+00:03:57,820 --> 00:03:59,600
+Interview? Ist es eine Geschichte?
+
+91
+00:03:59,940 --> 00:04:03,760
+Etc. Ihr müsst Titel und Autor des
+
+92
+00:04:03,760 --> 00:04:07,020
+Textes angeben, sofern verfügbar auch
+
+93
+00:04:07,020 --> 00:04:08,520
+den Zeitpunkt und den Ort der
+
+94
+00:04:08,520 --> 00:04:12,480
+Veröffentlichung und ganz wichtig den
+
+95
+00:04:12,480 --> 00:04:14,380
+Textgegenstand, die Problematik, also
+
+96
+00:04:14,380 --> 00:04:17,380
+die Kernaussage des Textes. Worum
+
+97
+00:04:17,380 --> 00:04:19,100
+geht es also überhaupt in dem
+
+98
+00:04:19,100 --> 00:04:22,140
+präsentierten Text? Um
+
+99
+00:04:26,100 --> 00:04:27,020
+das einmal nochmal kurz
+
+100
+00:04:27,020 --> 00:04:30,680
+zusammenzufassen. Wir unterscheiden
+
+101
+00:04:30,680 --> 00:04:32,300
+zuerst einmal zwischen nicht
+
+102
+00:04:32,300 --> 00:04:33,420
+fiktionalen und fiktionalen Texten.
+
+103
+00:04:33,440 --> 00:04:36,020
+beziehungsweise literarischen Texten.
+
+104
+00:04:36,240 --> 00:04:38,840
+Die Summary eines Textes informiert
+
+105
+00:04:38,840 --> 00:04:40,260
+immer kurz und sachlich über dessen
+
+106
+00:04:40,260 --> 00:04:42,040
+Inhalt und beschränkt sich auf die
+
+107
+00:04:42,040 --> 00:04:45,100
+wirklich wesentlichen Inhalte. Eine
+
+108
+00:04:45,100 --> 00:04:47,700
+Summary wird immer im Simple Present
+
+109
+00:04:47,700 --> 00:04:49,340
+geschrieben und enthält keine
+
+110
+00:04:49,340 --> 00:04:51,300
+persönlichen Wertungen oder
+
+111
+00:04:51,300 --> 00:04:54,340
+Stellungnahmen. Beachte die
+
+112
+00:04:54,340 --> 00:04:55,820
+Vorgehensweise und Tipps für eine
+
+113
+00:04:55,820 --> 00:04:58,180
+gelungene Summary und denke an den
+
+114
+00:04:58,180 --> 00:05:00,120
+vollständigen Einleitungssatz, den
+
+115
+00:05:00,120 --> 00:05:03,340
+sogenannten Umbrella Sentence. Kommen
+
+116
+00:05:05,780 --> 00:05:08,060
+wir jetzt zu einem anderen Punkt und
+
+117
+00:05:08,060 --> 00:05:10,220
+zwar zu Tabellen und Statistiken.
+
+118
+00:05:11,580 --> 00:05:13,820
+Viele Sachtexte verwenden Tabellen
+
+119
+00:05:13,820 --> 00:05:16,260
+und oder Statistiken, um ihre
+
+120
+00:05:16,260 --> 00:05:18,220
+Argumente glaubhaft zu untermauern.
+
+121
+00:05:18,800 --> 00:05:20,940
+Hierbei ist es wichtig, zum Beispiel
+
+122
+00:05:20,940 --> 00:05:22,300
+auch für eine Summary, die
+
+123
+00:05:22,300 --> 00:05:23,900
+verschiedenen Darstellungsformen zu
+
+124
+00:05:23,900 --> 00:05:25,800
+kennen und auch richtig benennen zu
+
+125
+00:05:25,800 --> 00:05:28,720
+können. Im Folgenden werden dir alle
+
+126
+00:05:28,720 --> 00:05:30,380
+wichtigen Darstellungsformen mit
+
+127
+00:05:30,380 --> 00:05:31,720
+ihrer englischen Bezeichnung am
+
+128
+00:05:31,720 --> 00:05:34,080
+Beispiel der Bundestagswahl. Wahl in
+
+129
+00:05:34,080 --> 00:05:35,920
+Deutschland im Jahre 2017
+
+130
+00:05:35,920 --> 00:05:39,880
+vorgestellt. Wir haben hier also eine
+
+131
+00:05:39,880 --> 00:05:43,200
+Tabelle und diese
+
+132
+00:05:45,050 --> 00:05:46,930
+Tabelle gibt, oder eine Tabelle im
+
+133
+00:05:46,930 --> 00:05:48,550
+Allgemeinen, gibt eine sehr formale
+
+134
+00:05:48,550 --> 00:05:50,350
+und wenig anschauliche Übersicht über
+
+135
+00:05:50,350 --> 00:05:53,050
+wichtige Fakten.
+
+136
+00:05:56,940 --> 00:05:58,920
+Und zwar haben wir hier einmal in der
+
+137
+00:05:58,920 --> 00:06:00,640
+Tabelle eine Überschrift und zwar die
+
+138
+00:06:00,640 --> 00:06:03,760
+Wahlergebnisse der Bundestagswahl
+
+139
+00:06:03,760 --> 00:06:06,960
+2017. Wir haben hier die die Parteien
+
+140
+00:06:06,960 --> 00:06:10,480
+in der äußersten Spalte angegeben,
+
+141
+00:06:10,560 --> 00:06:14,000
+jeweils den prozentualen Anteil und
+
+142
+00:06:14,000 --> 00:06:16,580
+die dazugehörigen Sitze im Bundestag.
+
+143
+00:06:19,890 --> 00:06:21,710
+Diese Tabelle könnte jetzt
+
+144
+00:06:21,710 --> 00:06:23,650
+beispielsweise auch nochmal anders
+
+145
+00:06:23,650 --> 00:06:26,470
+grafisch dargestellt werden, in Form
+
+146
+00:06:26,470 --> 00:06:28,590
+eines Torten- oder Kreisdiagramms.
+
+147
+00:06:30,530 --> 00:06:33,070
+Ein Tortendiagramm wird benutzt, um
+
+148
+00:06:33,070 --> 00:06:34,330
+einzelne Teile im Vergleich zum
+
+149
+00:06:34,330 --> 00:06:36,790
+Ganzen anzuzeigen. Und hier haben wir
+
+150
+00:06:36,790 --> 00:06:38,450
+einmal eben zwei Darstellungen.
+
+151
+00:06:39,410 --> 00:06:41,650
+Einmal in einer 2D- und einmal in
+
+152
+00:06:41,650 --> 00:06:43,130
+einer 3D-Variante.
+
+153
+00:06:46,070 --> 00:06:48,510
+Und eine andere Möglichkeit, wie
+
+154
+00:06:48,510 --> 00:06:50,310
+Daten dargestellt werden können in
+
+155
+00:06:50,310 --> 00:06:52,430
+einem Sachtext, wäre zum Beispiel
+
+156
+00:06:52,430 --> 00:06:54,270
+auch das sogenannte Balkendiagramm.
+
+157
+00:06:54,350 --> 00:06:56,570
+Das Balkendiagramm kann einmal wie
+
+158
+00:06:56,570 --> 00:06:58,250
+hier angezeigt werden, sodass die
+
+159
+00:06:58,250 --> 00:07:00,490
+Datenpunkte sich auf der Y-Achse
+
+160
+00:07:00,490 --> 00:07:03,370
+befinden. Wir können aber auch das
+
+161
+00:07:03,370 --> 00:07:06,470
+Ganze um 90 Grad nach rechts drehen,
+
+162
+00:07:06,490 --> 00:07:08,310
+sodass sich die Balken auf der X
+
+163
+00:07:08,310 --> 00:07:10,370
+-Achse befinden. Das ist tatsächlich
+
+164
+00:07:10,370 --> 00:07:12,110
+in dem Fall egal und macht auch
+
+165
+00:07:12,110 --> 00:07:12,710
+keinen Unterschied.
+
+166
+00:07:16,300 --> 00:07:18,380
+Wir können auch hier dann, das wäre
+
+167
+00:07:18,380 --> 00:07:20,200
+dann in dem Fall das Säulendiagramm.
+
+168
+00:07:21,100 --> 00:07:22,660
+Das Säulendiagramm ist eben dem
+
+169
+00:07:22,660 --> 00:07:25,640
+Balkendiagramm sehr ähnlich. Und wir
+
+170
+00:07:25,640 --> 00:07:27,100
+können hier jetzt auch zum Beispiel
+
+171
+00:07:27,100 --> 00:07:29,680
+den Verlauf nochmal komplett anders
+
+172
+00:07:29,680 --> 00:07:32,700
+darstellen. Zum Beispiel in einer
+
+173
+00:07:32,700 --> 00:07:36,900
+hierarchischen Reihenfolge. Eine
+
+174
+00:07:36,900 --> 00:07:39,860
+weitere Form der Datendarstellung
+
+175
+00:07:39,860 --> 00:07:42,140
+wäre letztlich das Liniendiagramm.
+
+176
+00:07:42,160 --> 00:07:43,980
+Und zwar haben wir hier einzelne
+
+177
+00:07:43,980 --> 00:07:46,920
+Datenpunkte, die dann über eine Linie
+
+178
+00:07:46,920 --> 00:07:48,560
+oder mittels einer Linie verbunden
+
+179
+00:07:48,560 --> 00:07:52,800
+werden. Meist werden Daten- oder
+
+180
+00:07:52,800 --> 00:07:55,760
+Liniendiagramme für chronologische
+
+181
+00:07:55,760 --> 00:07:57,500
+Abfolgen benutzt.
+
+182
+00:08:00,750 --> 00:08:01,890
+Hier sind jetzt einmal nochmal
+
+183
+00:08:01,890 --> 00:08:04,590
+wichtige Vokabeln, wie zum Beispiel,
+
+184
+00:08:04,650 --> 00:08:07,930
+oder die wichtigsten Übersetzungen
+
+185
+00:08:07,930 --> 00:08:10,130
+eigentlich, die im Rahmen einer
+
+186
+00:08:10,130 --> 00:08:12,070
+Sachtextanalyse mittels Tabellen und
+
+187
+00:08:12,070 --> 00:08:13,670
+Statistiken verwendet werden sollen.
+
+188
+00:08:13,670 --> 00:08:17,470
+Wie zum Beispiel Chart als Diagramm,
+
+189
+00:08:17,470 --> 00:08:21,130
+Column wäre die Säule, Graph das
+
+190
+00:08:21,130 --> 00:08:23,110
+Diagramm oder der angegebene Graph,
+
+191
+00:08:23,530 --> 00:08:27,310
+Axis ist die einzelne Achse, Axis mit
+
+192
+00:08:27,310 --> 00:08:30,050
+E wären dann Plural die Achsen,
+
+193
+00:08:30,110 --> 00:08:32,570
+Vertical für senkrecht, vertikal,
+
+194
+00:08:32,670 --> 00:08:36,530
+Horizonte, waagerecht, horizontal, Y
+
+195
+00:08:36,530 --> 00:08:40,630
+-Axis, X-Axis, Y- und X-Achse,
+
+196
+00:08:40,690 --> 00:08:42,810
+Segment wäre das Segment. Segment
+
+197
+00:08:42,810 --> 00:08:45,470
+oder Teilstück, Line, die Linie,
+
+198
+00:08:45,510 --> 00:08:49,590
+Curve, die Kurve, Quadrant, der
+
+199
+00:08:49,590 --> 00:08:51,950
+Quadrant, to expand, ausdehnen oder
+
+200
+00:08:51,950 --> 00:08:54,910
+erweitern, to reach, erreichen, to
+
+201
+00:08:54,910 --> 00:08:58,370
+remain, bleiben, shrink, schrumpen,
+
+202
+00:08:58,390 --> 00:09:00,990
+rise, der Anstieg, increase, der
+
+203
+00:09:00,990 --> 00:09:02,690
+Anstieg, decrease, der Rückgang,
+
+204
+00:09:03,450 --> 00:09:07,050
+drop, das Fallen oder Fall, das
+
+205
+00:09:07,050 --> 00:09:08,990
+Fallen, der Rückgang. Wir
+
+206
+00:09:12,600 --> 00:09:16,640
+wären dann mit dem Webinar zu dem
+
+207
+00:09:16,640 --> 00:09:18,500
+Umgang mit Sachtexten an der Stelle
+
+208
+00:09:18,500 --> 00:09:21,160
+fertig. Gibt es von euch soweit erst
+
+209
+00:09:21,160 --> 00:09:23,800
+einmal eine Frage zu diesen Themen?
+
+210
+00:09:43,420 --> 00:09:45,680
+Insofern es keine Fragen von den
+
+211
+00:09:45,680 --> 00:09:48,100
+anderen Teilnehmern gibt, bedanke ich
+
+212
+00:09:48,100 --> 00:09:50,140
+mich erst einmal bei euch für eure
+
+213
+00:09:50,140 --> 00:09:53,400
+Aufmerksamkeit und würde
+
+214
+00:09:55,640 --> 00:09:58,340
+euch an der Stelle einen schönen
+
+215
+00:09:58,340 --> 00:09:59,880
+Sonntag noch wünschen und weiterhin
+
+216
+00:09:59,880 --> 00:10:01,500
+auch viel Erfolg beim Englisch lernen
+
+217
+00:10:01,500 --> 00:10:02,920
+oder beim Lernen. für eure weiteren
+
+218
+00:10:02,920 --> 00:10:05,820
+Klausuren oder Prüfungen. Und
+
+219
+00:10:05,820 --> 00:10:07,760
+vielleicht sehen oder hören wir uns
+
+220
+00:10:07,760 --> 00:10:09,660
+beim nächsten Mal bei einem anderen
+
+221
+00:10:09,660 --> 00:10:10,080
+Berliner.
+

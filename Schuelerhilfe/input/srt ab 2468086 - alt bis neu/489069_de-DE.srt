@@ -1,0 +1,432 @@
+1
+00:00:00,340 --> 00:00:02,020
+Hallo und herzlich willkommen zu
+
+2
+00:00:02,020 --> 00:00:03,940
+einem Lernvideo der Schülerhilfe. Ich
+
+3
+00:00:03,940 --> 00:00:07,840
+erkläre dir heute den NCI. NCI ist
+
+4
+00:00:07,840 --> 00:00:12,200
+die Abkürzung für Nominativos com
+
+5
+00:00:12,200 --> 00:00:14,340
+Infinitivo.
+
+6
+00:00:15,520 --> 00:00:17,180
+Dieser Name scheint erst einmal
+
+7
+00:00:17,180 --> 00:00:19,580
+merkwürdig zu klingen. Aber setzen
+
+8
+00:00:19,580 --> 00:00:21,340
+wir diesen Satz ins Lateinische,
+
+9
+00:00:21,340 --> 00:00:24,240
+erhalten wir direkt ein NCI. Der Satz
+
+10
+00:00:24,240 --> 00:00:27,580
+würde lauten Nomen primo alienum esse
+
+11
+00:00:27,580 --> 00:00:32,240
+videtur. Ein NCI setzt sich zusammen
+
+12
+00:00:32,240 --> 00:00:38,160
+aus einem Subjekt, hier Nomen, wie
+
+13
+00:00:38,160 --> 00:00:41,160
+beim ACI aus einem Infinitiv, hier
+
+14
+00:00:41,160 --> 00:00:47,030
+Esse, und ein Prädikat. Das Prädikat
+
+15
+00:00:47,030 --> 00:00:52,450
+steht hier im Passiv. Bei einem NCI
+
+16
+00:00:52,450 --> 00:00:54,130
+handelt es sich also im Grunde
+
+17
+00:00:54,130 --> 00:00:56,570
+einfach um einen ins Passiv gesetzter
+
+18
+00:00:56,570 --> 00:00:59,410
+ACI. Der einzige Unterschied ist,
+
+19
+00:00:59,510 --> 00:01:01,470
+dass wir nicht erfahren, wer etwas
+
+20
+00:01:01,470 --> 00:01:04,390
+hört, sagt, sieht oder Sonstiges.
+
+21
+00:01:07,990 --> 00:01:10,650
+Eine Sache musst du beachten. Denn
+
+22
+00:01:10,650 --> 00:01:12,530
+nicht alle Verben, bei denen ein ACI
+
+23
+00:01:12,530 --> 00:01:15,310
+stehen kann, kann auch mit einem NCI
+
+24
+00:01:15,310 --> 00:01:17,810
+stehen. Wir müssen uns dann fragen,
+
+25
+00:01:17,930 --> 00:01:20,610
+bei welchen Verben steht ein NCI? Das
+
+26
+00:01:20,610 --> 00:01:24,400
+schauen wir uns einmal an. Zunächst
+
+27
+00:01:24,400 --> 00:01:27,540
+sind es Verben des Befehlens und des
+
+28
+00:01:27,540 --> 00:01:31,290
+Verbietens. Die Person, die ein
+
+29
+00:01:31,290 --> 00:01:33,250
+Verbot spricht, wird dabei nicht
+
+30
+00:01:33,250 --> 00:01:34,870
+genannt oder soll nicht genannt
+
+31
+00:01:34,870 --> 00:01:36,950
+werden oder manchmal darf sie auch
+
+32
+00:01:36,950 --> 00:01:39,430
+nicht genannt werden. Ein Beispiel
+
+33
+00:01:39,430 --> 00:01:42,310
+dafür lautet Milites pugnare
+
+34
+00:01:42,310 --> 00:01:45,410
+juventur. Wir sehen zunächst, wir
+
+35
+00:01:45,410 --> 00:01:49,350
+haben am Anfang wieder ein Subjekt.
+
+36
+00:01:49,410 --> 00:01:53,190
+Dann haben wir hier Infinitiv und am
+
+37
+00:01:53,190 --> 00:01:55,890
+Ende Juventur, ein Prädikat im
+
+38
+00:01:55,890 --> 00:01:59,370
+Passiv. Jubere heißt befehlen. Wir
+
+39
+00:01:59,370 --> 00:02:01,270
+haben also ein Verb des Befehlens.
+
+40
+00:02:01,710 --> 00:02:04,730
+Und wir übersetzen, man befiehlt den
+
+41
+00:02:04,730 --> 00:02:06,110
+Soldaten zu kämpfen.
+
+42
+00:02:11,100 --> 00:02:13,600
+Dann steht ein Nci bei dem Verb
+
+43
+00:02:13,600 --> 00:02:16,740
+videre, wenn es im Passiv steht. Es
+
+44
+00:02:16,740 --> 00:02:19,080
+bedeutet dann scheinen. Auch
+
+45
+00:02:23,430 --> 00:02:24,590
+das schauen wir uns an einem Beispiel
+
+46
+00:02:24,590 --> 00:02:30,190
+an. Mons altissimus esse videtur. Wir
+
+47
+00:02:30,190 --> 00:02:31,630
+sehen, wir haben wieder ein Subjekt
+
+48
+00:02:31,630 --> 00:02:35,870
+im Nominativ. ein Infinitiv und am
+
+49
+00:02:35,870 --> 00:02:39,010
+Ende unser Prädikat im Passiv. Und
+
+50
+00:02:39,010 --> 00:02:41,550
+wir übersetzen zunächst wörtlich, es
+
+51
+00:02:41,550 --> 00:02:43,710
+scheint, dass der Berg sehr hoch ist.
+
+52
+00:02:44,330 --> 00:02:45,970
+Wir haben jetzt auch noch andere
+
+53
+00:02:45,970 --> 00:02:47,950
+Möglichkeiten, das auszudrücken. Eine
+
+54
+00:02:47,950 --> 00:02:49,430
+weitere Übersetzungsmöglichkeit
+
+55
+00:02:49,430 --> 00:02:51,510
+lautet, der Berg scheint hoch zu
+
+56
+00:02:51,510 --> 00:02:53,490
+sein. Oder die letzte Möglichkeit,
+
+57
+00:02:53,850 --> 00:02:55,790
+anscheinend ist der Berg hoch.
+
+58
+00:02:59,260 --> 00:03:01,200
+Zuletzt steht der NCEI auch noch bei
+
+59
+00:03:01,200 --> 00:03:03,700
+Verben des Sagens und bei Verben des
+
+60
+00:03:03,700 --> 00:03:07,960
+Denkens. sowie audiere oder dickere.
+
+61
+00:03:08,840 --> 00:03:10,400
+Im Deutschen können wir das nicht
+
+62
+00:03:10,400 --> 00:03:12,540
+wörtlich ausdrücken. So müssen wir
+
+63
+00:03:12,540 --> 00:03:13,940
+uns alternative Formulierungen
+
+64
+00:03:13,940 --> 00:03:15,660
+überlegen. Was das bedeutet, schauen
+
+65
+00:03:15,660 --> 00:03:16,800
+wir uns jetzt noch einmal an einem
+
+66
+00:03:16,800 --> 00:03:20,240
+Beispiel an. Markus, Piga, Esse,
+
+67
+00:03:20,400 --> 00:03:22,460
+Dickitur. Wir haben wieder ein
+
+68
+00:03:22,460 --> 00:03:26,280
+Subjekt, Markus, im Nominativ. Dann
+
+69
+00:03:26,280 --> 00:03:28,980
+haben wir ein Infinitiv, Esse, und am
+
+70
+00:03:28,980 --> 00:03:30,640
+Ende des Satzes ein Prädikat im
+
+71
+00:03:30,640 --> 00:03:33,200
+Passiv. Probieren wir es zunächst
+
+72
+00:03:33,200 --> 00:03:34,440
+einmal. einmal die wörtliche
+
+73
+00:03:34,440 --> 00:03:37,960
+Variante. Diese lautet, Markus wird
+
+74
+00:03:37,960 --> 00:03:41,160
+gesagt, faul zu sein. Das klingt
+
+75
+00:03:41,160 --> 00:03:43,580
+nicht schön. Daher können wir das
+
+76
+00:03:43,580 --> 00:03:45,680
+durch andere Formulierungen ersetzen.
+
+77
+00:03:45,960 --> 00:03:49,020
+Eine Idee wäre, von Markus wird
+
+78
+00:03:49,020 --> 00:03:51,640
+gesagt, er sei faul. Das klingt schon
+
+79
+00:03:51,640 --> 00:03:54,480
+besser. Man kann auch sagen, es
+
+80
+00:03:54,480 --> 00:03:58,020
+heißt, Markus sei faul. Eine weitere
+
+81
+00:03:58,020 --> 00:04:01,640
+wäre, man sagt, Markus sei faul oder
+
+82
+00:04:01,640 --> 00:04:04,180
+zuletzt, angeblich ist Markus faul
+
+83
+00:04:04,180 --> 00:04:05,960
+oder Markus soll faul sein.
+
+84
+00:04:09,920 --> 00:04:11,660
+Hier siehst du noch einige Verben,
+
+85
+00:04:11,660 --> 00:04:13,960
+die mit NCI stehen. Zum Beispiel
+
+86
+00:04:13,960 --> 00:04:19,020
+Dikor, man sagt, dass ich, dann wäre
+
+87
+00:04:19,020 --> 00:04:21,720
+noch Nuntior eine Einleitung für ein
+
+88
+00:04:21,720 --> 00:04:25,860
+NCI, man meldet, dass. Es gibt dann
+
+89
+00:04:25,860 --> 00:04:27,960
+noch putor oder credor, das heißt
+
+90
+00:04:27,960 --> 00:04:32,600
+beides man glaubt. Und zuletzt vertor
+
+91
+00:04:32,600 --> 00:04:37,460
+oder veruntor, man berichtet. Oder
+
+92
+00:04:37,460 --> 00:04:40,620
+traditur, traduntur, man überliefert.
+
+93
+00:04:41,000 --> 00:04:43,160
+Du musst aufpassen, die letzten
+
+94
+00:04:43,160 --> 00:04:45,040
+beiden Verben kommen nur in der
+
+95
+00:04:45,040 --> 00:04:49,300
+dritten Person vor. Und damit sind
+
+96
+00:04:49,300 --> 00:04:50,440
+wir schon bei der Zusammenfassung
+
+97
+00:04:50,440 --> 00:04:53,140
+angekommen. Du hast gesehen, woraus
+
+98
+00:04:53,140 --> 00:04:55,640
+sich ein NCI zusammensetzt. Nomen
+
+99
+00:04:55,640 --> 00:04:59,220
+primo alienum esse videtur. Du hast
+
+100
+00:04:59,220 --> 00:05:02,780
+ein Subjekt, du hast ein Infinitiv
+
+101
+00:05:02,780 --> 00:05:07,320
+und ein Prädikat im Passiv. Der NCI
+
+102
+00:05:07,320 --> 00:05:09,720
+steht zudem mit Verben des Befehlens
+
+103
+00:05:09,720 --> 00:05:15,270
+und Verbietens, hinter Video, in der
+
+104
+00:05:15,270 --> 00:05:17,770
+Bedeutung Schein im Passiv und
+
+105
+00:05:17,770 --> 00:05:20,370
+zuletzt mit Verben des Sagens und
+
+106
+00:05:20,370 --> 00:05:24,490
+Denkens. Vielen Dank für deine
+
+107
+00:05:24,490 --> 00:05:26,230
+Aufmerksamkeit und bis zum nächsten
+
+108
+00:05:26,230 --> 00:05:26,590
+Mal.
+

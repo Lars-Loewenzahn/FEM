@@ -1,0 +1,356 @@
+1
+00:00:04,530 --> 00:00:07,450
+Hallo, mein Name ist Sabrina. Ich bin
+
+2
+00:00:07,450 --> 00:00:08,770
+Nachhilfelehrerin bei der
+
+3
+00:00:08,770 --> 00:00:10,950
+Schülerhilfe und möchte dir heute
+
+4
+00:00:10,950 --> 00:00:12,990
+erklären, was es in der Chemie mit
+
+5
+00:00:12,990 --> 00:00:15,190
+der stufenweisen Oxidation von
+
+6
+00:00:15,190 --> 00:00:17,570
+Alkoholen auf sich hat. Zu diesem
+
+7
+00:00:17,570 --> 00:00:19,490
+Thema findest du in unserem Online
+
+8
+00:00:19,490 --> 00:00:22,050
+-Lerncenter auch ein Wiki, in dem dir
+
+9
+00:00:22,050 --> 00:00:23,710
+die wichtigsten Begriffe noch einmal
+
+10
+00:00:23,710 --> 00:00:26,810
+erklärt werden. Zuerst eine kleine
+
+11
+00:00:26,810 --> 00:00:29,230
+Begriffserklärung. Stufenweise
+
+12
+00:00:29,230 --> 00:00:31,810
+bedeutet, dass es mehrere Schritte
+
+13
+00:00:31,810 --> 00:00:35,590
+gibt. dass sich die Oxidationszahl
+
+14
+00:00:35,590 --> 00:00:39,210
+von einem Atom erhöht. Einwertige
+
+15
+00:00:39,210 --> 00:00:40,910
+Alkohole lassen sich in drei
+
+16
+00:00:40,910 --> 00:00:43,690
+Kategorien unterteilen. Primäre
+
+17
+00:00:43,690 --> 00:00:47,550
+Alkohole, hier 1-Propanol, sekundäre
+
+18
+00:00:47,550 --> 00:00:50,430
+Alkohole, hier 2-Propanol und
+
+19
+00:00:50,430 --> 00:00:53,450
+tertiäre Alkohole, hier 2-Methyl-2
+
+20
+00:00:53,450 --> 00:00:55,950
+-Propanol. Entscheidend für die
+
+21
+00:00:55,950 --> 00:00:57,470
+Einteilung ist die Anzahl der
+
+22
+00:00:57,470 --> 00:00:59,630
+Kohlenstoffnachbarn desjenigen C
+
+23
+00:00:59,630 --> 00:01:02,150
+-Atoms, das die Hydroxygruppe
+
+24
+00:01:02,150 --> 00:01:04,510
+besitzt. Fangen wir mit der ersten
+
+25
+00:01:04,510 --> 00:01:07,830
+Oxidation von 1-Propanol an. Zuerst
+
+26
+00:01:07,830 --> 00:01:09,670
+bestimmt man die Oxidationszahl des
+
+27
+00:01:09,670 --> 00:01:12,170
+relevanten C-Atoms. In diesem Fall
+
+28
+00:01:12,170 --> 00:01:14,010
+verteilen sich die Bindungselektronen
+
+29
+00:01:14,010 --> 00:01:16,250
+so. Das heißt, dass die
+
+30
+00:01:16,250 --> 00:01:19,490
+Oxidationszahl –1 beträgt. Als
+
+31
+00:01:19,490 --> 00:01:20,690
+nächstes brauchen wir ein
+
+32
+00:01:20,690 --> 00:01:22,890
+Oxidationsmittel, hier nehmen wir
+
+33
+00:01:22,890 --> 00:01:27,050
+Cu2+. Die Hydroxygruppe wird zu einer
+
+34
+00:01:27,050 --> 00:01:29,510
+Karbonylgruppe. Die gesamte
+
+35
+00:01:29,510 --> 00:01:30,930
+funktionelle Gruppe ist eine
+
+36
+00:01:30,930 --> 00:01:33,470
+Aldehydgruppe. Gruppe. Der neue Stoff
+
+37
+00:01:33,470 --> 00:01:36,270
+ist demnach Propanal. Die
+
+38
+00:01:36,270 --> 00:01:38,910
+Oxidationszahl des C-Atoms ist jetzt
+
+39
+00:01:38,910 --> 00:01:41,370
+plus 1. Durch die weitere
+
+40
+00:01:41,370 --> 00:01:43,190
+Oxidationsstufe bildet sich die
+
+41
+00:01:43,190 --> 00:01:45,950
+Carbonsäure Propansäure. Die
+
+42
+00:01:45,950 --> 00:01:47,190
+funktionelle Gruppe wird
+
+43
+00:01:47,190 --> 00:01:49,370
+Carboxygruppe genannt. Die
+
+44
+00:01:49,370 --> 00:01:52,010
+Oxidationszahl beträgt jetzt plus 3.
+
+45
+00:01:52,390 --> 00:01:55,110
+Eine weitere Oxidation des C-Atoms
+
+46
+00:01:55,110 --> 00:01:57,910
+ist nicht möglich. Kommen wir damit
+
+47
+00:01:57,910 --> 00:02:01,190
+zur Oxidation von 2-Propanol. Hier
+
+48
+00:02:01,190 --> 00:02:02,810
+lautet die Oxidationszahl des
+
+49
+00:02:02,810 --> 00:02:05,250
+relevanten C-Atoms 0. Nach der
+
+50
+00:02:05,250 --> 00:02:06,810
+Oxidation haben wir wieder eine
+
+51
+00:02:06,810 --> 00:02:08,890
+Karbonylgruppe, obwohl sie in dieser
+
+52
+00:02:08,890 --> 00:02:10,990
+Konstellation auch Ketogruppe genannt
+
+53
+00:02:10,990 --> 00:02:13,270
+wird. Dementsprechend ist auch das
+
+54
+00:02:13,270 --> 00:02:15,910
+Ketonpropanon entstanden. Die
+
+55
+00:02:15,910 --> 00:02:18,390
+Oxidationszahl lautet jetzt plus 2.
+
+56
+00:02:19,000 --> 00:02:21,210
+Eine weitere Oxidation des C-Atoms
+
+57
+00:02:21,210 --> 00:02:23,630
+ist nicht möglich. Wenn man sich alle
+
+58
+00:02:23,630 --> 00:02:25,230
+Reaktionen noch einmal im Vergleich
+
+59
+00:02:25,230 --> 00:02:27,510
+betrachtet, dann fällt auf, dass jede
+
+60
+00:02:27,510 --> 00:02:29,690
+Oxidationsstufe damit verbunden ist,
+
+61
+00:02:29,810 --> 00:02:31,970
+dass das entsprechende C-Atom nach
+
+62
+00:02:31,970 --> 00:02:34,030
+und nach den angebundenen Wasserstoff
+
+63
+00:02:34,030 --> 00:02:36,630
+abgibt. Dies erklärt auch, warum es
+
+64
+00:02:36,630 --> 00:02:38,830
+nicht möglich ist, 2-Methyl-2
+
+65
+00:02:38,830 --> 00:02:40,750
+-Propanol, also einen tertiären
+
+66
+00:02:40,750 --> 00:02:42,330
+Alkohol, auf diese Weise zu
+
+67
+00:02:42,330 --> 00:02:44,710
+oxidieren. Zum Schluss fassen wir den
+
+68
+00:02:44,710 --> 00:02:46,970
+Prozess noch einmal zusammen. 1.
+
+69
+00:02:47,950 --> 00:02:49,430
+Alkohole kann man stufenweise
+
+70
+00:02:49,430 --> 00:02:52,070
+oxidieren. 2. Dabei steigt die
+
+71
+00:02:52,070 --> 00:02:54,470
+Oxidationszahl des C-Atoms, an das
+
+72
+00:02:54,470 --> 00:02:57,230
+die Hydroxygruppe gebunden ist. 3.
+
+73
+00:02:57,490 --> 00:03:00,270
+Die Anzahl der Oxidationsstufen hängt
+
+74
+00:03:00,270 --> 00:03:02,870
+von der Art des Alkohols ab. 4.
+
+75
+00:03:03,570 --> 00:03:05,850
+Primäre Alkohole können zweimal
+
+76
+00:03:05,850 --> 00:03:08,050
+oxidiert werden. Dabei entsteht
+
+77
+00:03:08,050 --> 00:03:10,430
+zuerst ein Aldehyd und dann eine
+
+78
+00:03:10,430 --> 00:03:14,410
+Carbonsäure. 5. Sekundäre Alkohole
+
+79
+00:03:14,410 --> 00:03:17,410
+besitzen nur eine Oxidationsstufe. Es
+
+80
+00:03:17,410 --> 00:03:21,150
+wird ein Keton gebildet. 6. Tertiäre
+
+81
+00:03:21,150 --> 00:03:23,030
+Alkohole lassen sich auf diese Weise
+
+82
+00:03:23,030 --> 00:03:26,010
+nicht oxidieren. Ich hoffe, dass ich
+
+83
+00:03:26,010 --> 00:03:27,430
+dir dabei helfen konnte, die
+
+84
+00:03:27,430 --> 00:03:29,370
+stufenweise Oxidation von Alkoholen
+
+85
+00:03:29,370 --> 00:03:31,430
+zu verstehen. Wenn du noch Fragen zu
+
+86
+00:03:31,430 --> 00:03:32,830
+diesem oder anderen Themen hast,
+
+87
+00:03:32,990 --> 00:03:35,170
+nutze gerne unsere weiteren Inhalte
+
+88
+00:03:35,170 --> 00:03:37,310
+im Online-Lerncenter oder wende dich
+
+89
+00:03:37,310 --> 00:03:38,830
+an deine Schülerhilfe vor Ort.
+

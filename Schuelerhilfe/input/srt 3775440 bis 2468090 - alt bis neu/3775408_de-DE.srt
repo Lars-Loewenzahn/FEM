@@ -1,0 +1,536 @@
+1
+00:00:03,950 --> 00:00:06,750
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,750 --> 00:00:07,850
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,850 --> 00:00:09,870
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,870 --> 00:00:11,650
+etwas über Stärke erklären. In
+
+5
+00:00:11,650 --> 00:00:13,370
+unserem Online-Lerncenter steht dir
+
+6
+00:00:13,370 --> 00:00:14,830
+zu diesem Thema natürlich auch noch
+
+7
+00:00:14,830 --> 00:00:16,490
+ein Wiki zur Verfügung, in dem dir
+
+8
+00:00:16,490 --> 00:00:17,810
+die grundlegenden und wichtigen
+
+9
+00:00:17,810 --> 00:00:19,310
+Begriffe genauer erklärt werden.
+
+10
+00:00:21,010 --> 00:00:22,770
+Stärke dürfte dir vielleicht bereits
+
+11
+00:00:22,770 --> 00:00:24,830
+aus Rezepten oder Zutatenlisten auf
+
+12
+00:00:24,830 --> 00:00:27,070
+Verpackungen bekannt sein. Sie ist
+
+13
+00:00:27,070 --> 00:00:29,650
+ein feines, farb- und geruchloses
+
+14
+00:00:29,650 --> 00:00:31,110
+Pulver, bei dem es sich um ein
+
+15
+00:00:31,110 --> 00:00:32,990
+langkettiges Kohlenhydrat handelt,
+
+16
+00:00:33,050 --> 00:00:35,530
+ein sogenannter Polysaccharid, mit
+
+17
+00:00:35,530 --> 00:00:39,490
+der generellen Formel C6H10O5. Stärke
+
+18
+00:00:39,490 --> 00:00:40,690
+ist einer der wichtigsten
+
+19
+00:00:40,690 --> 00:00:42,090
+Speicherstoffe in pflanzlichen
+
+20
+00:00:42,090 --> 00:00:44,470
+Zellen. Sie bestehen aus vielen Alpha
+
+21
+00:00:44,470 --> 00:00:45,870
+-Glucose-Einheiten, die über
+
+22
+00:00:45,870 --> 00:00:47,670
+sogenannte alpha-glucosidische
+
+23
+00:00:47,670 --> 00:00:49,450
+Bindungen miteinander verknüpft sind.
+
+24
+00:00:49,450 --> 00:00:51,990
+Bei Alpha-Glucose handelt es sich um
+
+25
+00:00:51,990 --> 00:00:53,170
+das Molekül, bei dem die
+
+26
+00:00:53,170 --> 00:00:55,410
+Hydroxylgruppe am C1 in der Howarth
+
+27
+00:00:55,410 --> 00:00:58,050
+-Projektion nach unten zeigt. Die
+
+28
+00:00:58,050 --> 00:00:59,670
+Glucosemoleküle werden durch
+
+29
+00:00:59,670 --> 00:01:01,450
+Kondensationsreaktionen miteinander
+
+30
+00:01:01,450 --> 00:01:03,930
+verknüpft. Diese Kondensation geht
+
+31
+00:01:03,930 --> 00:01:05,810
+unter Wasserabspaltung vonstatten.
+
+32
+00:01:05,910 --> 00:01:08,890
+Die Umkehrreaktion, also der Abbau
+
+33
+00:01:08,890 --> 00:01:11,290
+von Stärke zu Glucose, erfolgt unter
+
+34
+00:01:11,290 --> 00:01:12,710
+Einsatz von Wasser und heißt
+
+35
+00:01:12,710 --> 00:01:15,490
+Hydrolyse oder hydrolytische
+
+36
+00:01:15,490 --> 00:01:17,810
+Spaltung. In unverzweigten
+
+37
+00:01:17,810 --> 00:01:20,090
+Stärkemolekülen sind lediglich das C1
+
+38
+00:01:20,090 --> 00:01:21,950
+und das C4 an den Bindungen
+
+39
+00:01:21,950 --> 00:01:24,830
+beteiligt. Die Bindung wird alpha-1,4
+
+40
+00:01:24,830 --> 00:01:26,990
+-glykosidisch genannt. Liegt
+
+41
+00:01:26,990 --> 00:01:29,030
+verzweigte Stärke vor, ist an den
+
+42
+00:01:29,030 --> 00:01:31,410
+Verzweigungsstellen auch das C6-Atom
+
+43
+00:01:31,410 --> 00:01:34,230
+an der Bindung beteiligt. Außerdem
+
+44
+00:01:34,230 --> 00:01:36,490
+liegt zusätzlich eine alpha-1,6
+
+45
+00:01:36,490 --> 00:01:37,970
+-glykosidische Bindung vor.
+
+46
+00:01:39,350 --> 00:01:41,230
+Entsprechend unterscheidet man zwei
+
+47
+00:01:41,230 --> 00:01:44,370
+Stärkeformen. Amylose besteht aus ca.
+
+48
+00:01:44,590 --> 00:01:47,430
+500 bis 6000 Glykoseeinheiten, welche
+
+49
+00:01:47,430 --> 00:01:50,090
+nur Alpha-1,4-Glykosidisch verknüpft
+
+50
+00:01:50,090 --> 00:01:52,390
+sind. Dies resultiert in einer
+
+51
+00:01:52,390 --> 00:01:54,630
+linearen helikalen, also
+
+52
+00:01:54,630 --> 00:01:57,930
+spiralförmigen Kette. Eine Helix,
+
+53
+00:01:57,990 --> 00:02:00,110
+auch Schraubenlinie oder zylindrische
+
+54
+00:02:00,110 --> 00:02:02,270
+Spirale genannt, ist eine Kurve, die
+
+55
+00:02:02,270 --> 00:02:04,050
+sich mit konstanter Steigung um einen
+
+56
+00:02:04,050 --> 00:02:06,230
+Zylinder windet. Durch den
+
+57
+00:02:06,230 --> 00:02:08,170
+Bindungswinkel am Sauerstoff liegen
+
+58
+00:02:08,170 --> 00:02:10,590
+nicht alle Glykosemonomere auf einer
+
+59
+00:02:10,590 --> 00:02:13,230
+geraden Linie, sondern die Kette hat
+
+60
+00:02:13,230 --> 00:02:14,910
+eine Wölbung und eine leichte
+
+61
+00:02:14,910 --> 00:02:18,350
+Torsion, also Drehung. Dies führt zu
+
+62
+00:02:18,350 --> 00:02:20,210
+der bereits erwähnten helixartigen
+
+63
+00:02:20,210 --> 00:02:22,450
+Struktur. Dabei zeigen die
+
+64
+00:02:22,450 --> 00:02:24,730
+hydrophilen Hydroxylgruppen der Helix
+
+65
+00:02:24,730 --> 00:02:26,550
+nach außen, was dazu führt, dass
+
+66
+00:02:26,550 --> 00:02:28,650
+diese Stärke in Wasser löslich ist.
+
+67
+00:02:28,650 --> 00:02:32,190
+ist. Amylopektin hingegen, welches
+
+68
+00:02:32,190 --> 00:02:34,150
+aus hunderttausenden bis zu Millionen
+
+69
+00:02:34,150 --> 00:02:36,230
+Glucosebausteinen besteht, ist
+
+70
+00:02:36,230 --> 00:02:38,790
+wasserunlöslich, quillt aber in
+
+71
+00:02:38,790 --> 00:02:41,570
+Wasser. Amylopektin ist die
+
+72
+00:02:41,570 --> 00:02:43,670
+sogenannte verzweigte Stärke, bei der
+
+73
+00:02:43,670 --> 00:02:45,590
+auch das C6-Atom an der Bindung
+
+74
+00:02:45,590 --> 00:02:48,110
+beteiligt ist. Es liegen zusätzlich
+
+75
+00:02:48,110 --> 00:02:50,370
+Alpha-1,6-glykosidische Bindungen
+
+76
+00:02:50,370 --> 00:02:52,990
+vor. Meist besteht die pflanzliche
+
+77
+00:02:52,990 --> 00:02:57,610
+Stärke aus 20-30% Amyllose und 70-80%
+
+78
+00:02:57,610 --> 00:03:00,310
+Amylopektin. Stärke lässt sich mit
+
+79
+00:03:00,310 --> 00:03:02,590
+der Jodprobe nachweisen. Dazu wird
+
+80
+00:03:02,590 --> 00:03:04,650
+eine jodhaltige Lösung verwendet,
+
+81
+00:03:04,670 --> 00:03:07,470
+meist eine Jod-Kalium-Jodid-Lösung
+
+82
+00:03:07,470 --> 00:03:10,130
+oder eine sogenannte Jodtektur, also
+
+83
+00:03:10,130 --> 00:03:11,650
+eine alkoholische Lösung von
+
+84
+00:03:11,650 --> 00:03:13,750
+elementarem Jod, die zu der
+
+85
+00:03:13,750 --> 00:03:16,050
+stärkehaltigen Lösung bzw. Probe
+
+86
+00:03:16,050 --> 00:03:18,530
+gegeben wird. Bei der Jodprobe
+
+87
+00:03:18,530 --> 00:03:20,110
+entsteht eine blau-violette bis
+
+88
+00:03:20,110 --> 00:03:21,650
+schwarze Färbung durch eine
+
+89
+00:03:21,650 --> 00:03:24,510
+Einschlussverbindung. Die in Stärke
+
+90
+00:03:24,510 --> 00:03:26,390
+vorliegende Amylose besitzt eine
+
+91
+00:03:26,390 --> 00:03:28,270
+helikale Konformation mit einem
+
+92
+00:03:28,270 --> 00:03:30,290
+kanalartigen Hohlraum in der Mitte.
+
+93
+00:03:30,550 --> 00:03:32,430
+In diesen Hohlräumen können sich
+
+94
+00:03:32,430 --> 00:03:34,890
+Polyodidketten einlagern. Diese
+
+95
+00:03:34,890 --> 00:03:36,190
+Einlagerung führt zu einer
+
+96
+00:03:36,190 --> 00:03:38,430
+Delokalisierung von Valenzelektronen
+
+97
+00:03:38,430 --> 00:03:40,310
+und damit zur Absorption in höheren
+
+98
+00:03:40,310 --> 00:03:42,590
+Wellenlängenbereichen. Die Lösung
+
+99
+00:03:42,590 --> 00:03:45,030
+erscheint blau. Pflanzen nutzen
+
+100
+00:03:45,030 --> 00:03:46,970
+Stärke zur Speicherung überschüssiger
+
+101
+00:03:46,970 --> 00:03:48,990
+Energie. Dazu werden die
+
+102
+00:03:48,990 --> 00:03:51,410
+Glucosemonomere zu Stärke verkettet,
+
+103
+00:03:51,450 --> 00:03:53,390
+um Glucose in einer unlöslichen und
+
+104
+00:03:53,390 --> 00:03:55,750
+osmotisch unwirksamen Form zu binden.
+
+105
+00:03:56,570 --> 00:03:58,810
+Reich an Stärkekörnern sind Samen,
+
+106
+00:03:58,810 --> 00:04:00,810
+Knollen und Zwiebeln. Die
+
+107
+00:04:00,810 --> 00:04:02,430
+Verarbeitung dieser Knollen nutzen
+
+108
+00:04:02,430 --> 00:04:04,930
+wir zur Stärkeproduktion. Der
+
+109
+00:04:04,930 --> 00:04:06,690
+Großteil der Weltproduktion stammt
+
+110
+00:04:06,690 --> 00:04:09,570
+aus Mais. Ca. 5% stammt aus
+
+111
+00:04:09,570 --> 00:04:12,010
+Kartoffeln. Stärke kann durch Enzyme,
+
+112
+00:04:12,050 --> 00:04:13,930
+die sogenannten Amylasen, gespalten
+
+113
+00:04:13,930 --> 00:04:16,050
+werden. Dabei entstehen neben
+
+114
+00:04:16,050 --> 00:04:17,950
+Zweifachzuckern auch Dextrine, bei
+
+115
+00:04:17,950 --> 00:04:19,250
+denen es sich um Poly- und
+
+116
+00:04:19,250 --> 00:04:21,830
+Oligosaccharide handelt. Unter
+
+117
+00:04:21,830 --> 00:04:23,730
+Hitzeeinwirkung kann Stärke eine
+
+118
+00:04:23,730 --> 00:04:26,770
+große Menge Wasser binden, Quellen
+
+119
+00:04:26,770 --> 00:04:30,050
+und verkleistern. Diese Eigenschaften
+
+120
+00:04:30,050 --> 00:04:31,630
+machen Stärke nutzbar für alle
+
+121
+00:04:31,630 --> 00:04:34,630
+möglichen Gebäcke und Speisen. Neben
+
+122
+00:04:34,630 --> 00:04:35,990
+der Nutzung zur Herstellung von
+
+123
+00:04:35,990 --> 00:04:37,810
+Lebensmitteln wird Stärke auch zum
+
+124
+00:04:37,810 --> 00:04:39,970
+Leimen von Papier, Beizen von
+
+125
+00:04:39,970 --> 00:04:42,450
+Baumwolle und zum Färben verwendet.
+
+126
+00:04:42,890 --> 00:04:44,990
+Sie ist neben ihrem Nährwert also
+
+127
+00:04:44,990 --> 00:04:47,050
+auch anderweitig vielfältig nutzbar.
+
+128
+00:04:47,610 --> 00:04:49,830
+Ich hoffe, dass du nun mehr über
+
+129
+00:04:49,830 --> 00:04:51,750
+Stärke weißt. Wenn du noch Fragen zu
+
+130
+00:04:51,750 --> 00:04:53,390
+diesen oder anderen Themen hast,
+
+131
+00:04:53,630 --> 00:04:55,190
+nutze gerne unsere weiteren
+
+132
+00:04:55,190 --> 00:04:57,330
+Lerninhalte im Online Lern- oder
+
+133
+00:04:57,330 --> 00:04:59,090
+wende dich an deine Schülerhilfe vor
+
+134
+00:04:59,090 --> 00:05:00,510
+Ort. Bis zum nächsten Mal.
+

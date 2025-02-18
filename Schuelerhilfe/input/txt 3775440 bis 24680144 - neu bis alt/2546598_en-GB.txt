@@ -1,0 +1,2287 @@
+﻿1
+00:00:00,000 --> 00:00:02,060
+Hello and welcome to the 
+
+2
+00:00:02,060 --> 00:00:04,200
+Schülerhilfe webinar. Let's start with a 
+
+3
+00:00:04,200 --> 00:00:06,140
+quick technology check. Can you hear me 
+
+4
+00:00:06,140 --> 00:00:06,660
+well? 
+
+5
+00:00:14,080 --> 00:00:15,800
+If so, write a short 
+
+6
+00:00:15,800 --> 00:00:16,780
+message in the chat. 
+
+7
+00:00:25,460 --> 00:00:29,960
+Bene. Good. So, 
+
+8
+00:00:29,960 --> 00:00:31,720
+today we're going to look at the formation 
+and 
+
+9
+00:00:31,720 --> 00:00:34,560
+declension of nouns in 
+
+10
+00:00:34,560 --> 00:00:36,940
+the Latin language. This means that we 
+
+11
+00:00:36,940 --> 00:00:39,500
+will first 
+
+12
+00:00:39,500 --> 00:00:41,820
+look at the definition of declension and 
+
+13
+00:00:41,820 --> 00:00:43,200
+then look at the individual 
+
+14
+00:00:43,200 --> 00:00:44,420
+declensions... declension classes 
+
+15
+00:00:44,420 --> 00:00:46,560
+. We will look at the 
+
+16
+00:00:46,560 --> 00:00:49,260
+A, the O, the consonantal, 
+
+17
+00:00:49,300 --> 00:00:51,980
+the U and the E declension and 
+
+18
+00:00:51,980 --> 00:00:54,440
+then conclude our webinar 
+
+19
+00:00:54,440 --> 00:00:56,060
+by looking at an overview of the 
+
+20
+00:00:56,060 --> 00:00:59,000
+different genera, i.e. the 
+
+21
+00:00:59,000 --> 00:01:00,820
+individual genders of the 
+
+22
+00:01:00,820 --> 00:01:02,860
+different declensions 
+
+23
+00:01:02,860 --> 00:01:06,040
+as a rule. Let's start with the 
+
+24
+00:01:06,040 --> 00:01:08,340
+definition of declension, i.e. the 
+
+25
+00:01:08,340 --> 00:01:10,180
+question, what does declination mean 
+
+26
+00:01:10,180 --> 00:01:14,780
+? We 
+
+27
+00:01:14,780 --> 00:01:17,640
+usually know declension in the context of 
+nouns. 
+
+28
+00:01:17,700 --> 00:01:19,200
+This means that nouns are 
+
+29
+00:01:19,200 --> 00:01:22,040
+declined. We also know this under 
+
+30
+00:01:22,040 --> 00:01:24,340
+the term inflected. They 
+
+31
+00:01:24,340 --> 00:01:26,980
+are inflected. A declension 
+
+32
+00:01:26,980 --> 00:01:29,440
+is a so-called inflection, i.e. the 
+
+33
+00:01:29,440 --> 00:01:32,140
+adaptation of a noun 
+
+34
+00:01:32,140 --> 00:01:34,700
+. 
+
+35
+00:01:34,880 --> 00:01:36,600
+In other words , if we remember, 
+
+36
+00:01:36,620 --> 00:01:39,100
+subjects, objects or other 
+
+37
+00:01:39,100 --> 00:01:41,860
+nouns are nouns. 
+
+38
+00:01:41,880 --> 00:01:43,720
+Nouns and they are given a 
+
+39
+00:01:43,720 --> 00:01:45,660
+declension. This means 
+
+40
+00:01:45,660 --> 00:01:49,860
+that they are adapted to a case and, in 
+addition to the 
+
+41
+00:01:49,860 --> 00:01:51,940
+case, they are also given a number 
+
+42
+00:01:51,940 --> 00:01:54,340
+and a gender. In other words, a number 
+
+43
+00:01:54,340 --> 00:01:56,880
+and a gender. In other words, we 
+
+44
+00:01:56,880 --> 00:01:59,500
+adapt a noun, a substance, 
+
+45
+00:01:59,500 --> 00:02:02,000
+a noun to a situation, 
+
+46
+00:02:02,440 --> 00:02:05,280
+namely the case, to a number, 
+
+47
+00:02:05,280 --> 00:02:07,520
+singular or plural and then a 
+
+48
+00:02:07,520 --> 00:02:11,460
+gender. The declension always forms 
+
+49
+00:02:11,460 --> 00:02:13,600
+according to all three criteria. This is 
+called 
+
+50
+00:02:13,600 --> 00:02:15,600
+inflection. This means 
+
+51
+00:02:15,600 --> 00:02:18,180
+that all three criteria are always 
+
+52
+00:02:18,180 --> 00:02:20,020
+taken into account. This means that case, 
+
+53
+00:02:20,020 --> 00:02:22,160
+number and gender are always 
+
+54
+00:02:22,160 --> 00:02:25,960
+connected. Nouns 
+
+55
+00:02:25,960 --> 00:02:27,660
+are assigned to different 
+
+56
+00:02:27,660 --> 00:02:29,700
+declension classes. This 
+
+57
+00:02:29,700 --> 00:02:34,980
+means that it is important, as 
+
+58
+00:02:34,980 --> 00:02:36,760
+we know it from verbs, with the 
+
+59
+00:02:36,760 --> 00:02:40,240
+three verb stems: the present, the 
+
+60
+00:02:40,240 --> 00:02:42,640
+perfect and the participle stem, that 
+
+61
+00:02:42,640 --> 00:02:44,980
+we always 
+
+62
+00:02:44,980 --> 00:02:47,540
+
+63
+00:02:47,540 --> 00:02:50,100
+learn the nominative and also the genitive 
+singular for nouns . This is 
+
+64
+00:02:50,100 --> 00:02:55,840
+important because some forms 
+
+65
+00:02:55,840 --> 00:03:00,460
+occur more than once. This means that we 
+
+66
+00:03:00,460 --> 00:03:02,980
+can 
+
+67
+00:03:02,980 --> 00:03:05,720
+always recognize which form we are dealing 
+with based on the genitive singular 
+
+68
+00:03:05,720 --> 00:03:07,780
+. With the nominative 
+
+69
+00:03:07,780 --> 00:03:11,060
+case, it is generally not completely 
+definable. 
+
+70
+00:03:11,140 --> 00:03:12,480
+For example, when we talk about the U 
+
+71
+00:03:12,480 --> 00:03:14,000
+ declension or the U 
+
+72
+00:03:14,000 --> 00:03:15,540
+ declension, we 
+
+73
+00:03:15,540 --> 00:03:17,240
+don't know in between whether it is 
+
+74
+00:03:17,240 --> 00:03:20,840
+a nominative or 
+
+75
+00:03:20,840 --> 00:03:25,340
+an accusative. The sixth case, that 
+
+76
+00:03:25,340 --> 00:03:27,180
+is, when we talk about cases, 
+
+77
+00:03:27,420 --> 00:03:29,140
+we know four from the German 
+
+78
+00:03:29,140 --> 00:03:31,680
+nominative, genitive, dative and 
+
+79
+00:03:31,680 --> 00:03:33,580
+accusative. In Latin, there is 
+
+80
+00:03:33,580 --> 00:03:35,440
+also the adverbial 
+
+81
+00:03:35,440 --> 00:03:38,200
+case, the adverbial case, which is the 
+applicative 
+
+82
+00:03:38,200 --> 00:03:40,420
+, and the sixth case, the vocative . 
+
+83
+00:03:40,620 --> 00:03:43,300
+This is used as a form of address and 
+
+84
+00:03:43,300 --> 00:03:45,600
+often or usually resembles the nominative. 
+
+85
+00:03:47,300 --> 00:03:49,700
+Declining therefore means adapting 
+
+86
+00:03:49,700 --> 00:03:52,180
+to the following criteria. The case, 
+
+87
+00:03:52,220 --> 00:03:54,520
+nominative, genitive, dative, accusative, 
+
+88
+00:03:54,760 --> 00:03:57,260
+applicative or vocative. One of these 
+
+89
+00:03:57,260 --> 00:04:00,080
+will occur, the number, singular 
+
+90
+00:04:00,080 --> 00:04:02,300
+or plural, that is either or or 
+
+91
+00:04:02,300 --> 00:04:06,320
+genus, that is and the gender, 
+
+92
+00:04:06,420 --> 00:04:08,460
+that is either masculine or 
+
+93
+00:04:08,460 --> 00:04:12,040
+feminine or neuter. These three 
+
+94
+00:04:12,040 --> 00:04:16,000
+, or one point of each of the three, are 
+
+95
+00:04:16,000 --> 00:04:17,660
+selected and then 
+
+96
+00:04:17,660 --> 00:04:20,580
+ultimately form the inflection, i.e. 
+
+97
+00:04:20,580 --> 00:04:22,700
+the inflection, the declension of a 
+
+98
+00:04:22,700 --> 00:04:26,550
+noun. Any 
+
+99
+00:04:26,550 --> 00:04:26,830
+questions so far ? 
+
+100
+00:04:31,160 --> 00:04:33,900
+Wonderful. The structure and 
+
+101
+00:04:33,900 --> 00:04:36,980
+declension order 
+
+102
+00:04:36,980 --> 00:04:39,880
+of the A-declension. The A declension 
+
+103
+00:04:39,880 --> 00:04:42,220
+is mostly 
+
+104
+00:04:42,220 --> 00:04:44,220
+used for nouns with feminine genders. That 
+
+105
+00:04:44,220 --> 00:04:48,060
+is, all of these, or most of them, 
+
+106
+00:04:48,220 --> 00:04:49,800
+there are of course always a few 
+
+107
+00:04:49,800 --> 00:04:51,220
+deviations, but most 
+
+108
+00:04:51,220 --> 00:04:55,220
+nouns 
+
+109
+00:04:55,220 --> 00:04:57,540
+that are in the A declension are also 
+feminine. That is, 
+
+110
+00:04:57,640 --> 00:05:00,400
+with a few exceptions, such as 
+
+111
+00:05:00,400 --> 00:05:04,660
+pirata or agricola, which 
+
+112
+00:05:04,660 --> 00:05:06,360
+mean the farmer or the pirate, which 
+
+113
+00:05:06,360 --> 00:05:09,300
+is masculine , most nouns are 
+
+114
+00:05:09,300 --> 00:05:10,980
+feminine . Let's take the 
+
+115
+00:05:10,980 --> 00:05:13,620
+example of via. This means that the 
+
+116
+00:05:13,620 --> 00:05:16,340
+declension follows the following 
+
+117
+00:05:16,340 --> 00:05:18,540
+principle. We have the word stem, 
+
+118
+00:05:18,560 --> 00:05:21,500
+wie, and then add the 
+
+119
+00:05:21,500 --> 00:05:24,020
+declension ending. This means that the 
+
+120
+00:05:24,020 --> 00:05:27,420
+different case forms, and 
+
+121
+00:05:27,420 --> 00:05:29,200
+the case forms 
+
+122
+00:05:29,200 --> 00:05:32,360
+also contain the number and the 
+
+123
+00:05:32,360 --> 00:05:35,500
+gender. This means, 
+
+124
+00:05:35,500 --> 00:05:38,300
+for example, that if 
+
+125
+00:05:38,300 --> 00:05:40,220
+we imagine it this way, we have 
+
+126
+00:05:40,220 --> 00:05:43,460
+the number and the case within 
+
+127
+00:05:43,460 --> 00:05:45,840
+the declension ending and 
+
+128
+00:05:45,840 --> 00:05:50,220
+then we understand 
+
+129
+00:05:50,220 --> 00:05:52,500
+the gender by 
+
+130
+00:05:52,500 --> 00:05:54,400
+
+131
+00:05:54,400 --> 00:05:55,780
+knowing the basic principles of the 
+individual declensions. This means that if 
+
+132
+00:05:55,780 --> 00:05:57,140
+we know, for example, that the A 
+
+133
+00:05:57,140 --> 00:05:59,420
+ declension is mostly feminine and 
+
+134
+00:05:59,420 --> 00:06:01,220
+we have a noun 
+
+135
+00:06:01,220 --> 00:06:03,280
+, such as pirate, which 
+
+136
+00:06:03,280 --> 00:06:05,540
+is not feminine at all , we can recognize 
+from the 
+
+137
+00:06:05,540 --> 00:06:07,120
+adjective, which always follows the 
+
+138
+00:06:07,120 --> 00:06:09,240
+basic principle that, for 
+
+139
+00:06:09,240 --> 00:06:10,960
+example, an A declension 
+
+140
+00:06:10,960 --> 00:06:12,340
+is always feminine and that the O 
+
+141
+00:06:12,340 --> 00:06:14,480
+ declension is masculine and the 
+
+142
+00:06:14,480 --> 00:06:17,680
+neuter is the consonantal 
+
+143
+00:06:17,680 --> 00:06:19,500
+declension, then we can 
+
+144
+00:06:19,500 --> 00:06:23,700
+recognize from the adjective which gender 
+
+145
+00:06:23,700 --> 00:06:26,300
+the noun has. Basically 
+
+146
+00:06:26,300 --> 00:06:28,380
+, however, it is the case 
+
+147
+00:06:28,380 --> 00:06:31,120
+that the adjective and the 
+
+148
+00:06:31,120 --> 00:06:33,660
+noun have the same gender, i.e. 
+
+149
+00:06:33,660 --> 00:06:35,340
+the same declension ending 
+
+150
+00:06:35,340 --> 00:06:37,140
+. Let's 
+
+151
+00:06:37,140 --> 00:06:39,980
+take a look at the mostly feminine 
+
+152
+00:06:39,980 --> 00:06:45,260
+declension of A. That is, we, 
+
+153
+00:06:45,440 --> 00:06:52,400
+we, we, we, we, we. In the plural 
+
+154
+00:06:52,400 --> 00:06:57,720
+, we, weum, wes, so wes, wes 
+
+155
+00:06:57,740 --> 00:07:02,440
+, wes. We. We realize that there are 
+
+156
+00:07:02,440 --> 00:07:03,940
+many, as I 
+
+157
+00:07:03,940 --> 00:07:07,060
+mentioned at the beginning , many forms 
+that 
+
+158
+00:07:07,060 --> 00:07:08,700
+are congruent. 
+
+159
+00:07:08,700 --> 00:07:11,700
+For example, we take the dative and the 
+nominative 
+
+160
+00:07:11,720 --> 00:07:14,180
+, or the dative and the 
+
+161
+00:07:14,180 --> 00:07:17,600
+plural of the applicative . These things 
+need to be 
+
+162
+00:07:17,600 --> 00:07:20,120
+taken into account and memorized. 
+
+163
+00:07:20,200 --> 00:07:21,680
+For example, if we know 
+
+164
+00:07:21,840 --> 00:07:25,400
+that we always 
+
+165
+00:07:25,400 --> 00:07:27,860
+have a genitive plural with a rum form, 
+i.e. A-rum form, 
+
+166
+00:07:28,040 --> 00:07:29,720
+we can quickly and easily 
+
+167
+00:07:29,720 --> 00:07:33,560
+recognize which case we are 
+
+168
+00:07:33,560 --> 00:07:36,720
+dealing with. In the case of the dative 
+and 
+
+169
+00:07:36,720 --> 00:07:39,280
+the numerative, i.e. the dative 
+
+170
+00:07:39,280 --> 00:07:40,700
+singular and the numerative plural 
+
+171
+00:07:40,720 --> 00:07:43,380
+, we have to 
+
+172
+00:07:43,380 --> 00:07:45,260
+recognize from the context of the sentence 
+
+173
+00:07:45,260 --> 00:07:48,180
+whether it is actually the dative or 
+
+174
+00:07:48,180 --> 00:07:52,460
+the nominative. A brief digression. 
+
+175
+00:07:52,460 --> 00:07:54,140
+We usually recognize the nominative 
+
+176
+00:07:54,140 --> 00:07:57,220
+by the fact that the predicate, in this 
+
+177
+00:07:57,220 --> 00:07:59,100
+case, if we had we now, 
+
+178
+00:07:59,220 --> 00:08:00,580
+we would have to decide whether it is 
+
+179
+00:08:00,580 --> 00:08:03,680
+genitive, dative or plural. So 
+
+180
+00:08:03,680 --> 00:08:05,940
+nominative, plural. So genitive, 
+
+181
+00:08:05,940 --> 00:08:07,740
+singular, dative, singular or 
+
+182
+00:08:07,740 --> 00:08:10,640
+nominative, plural. we would have to use 
+
+183
+00:08:10,640 --> 00:08:12,760
+the predicate to check whether 
+
+184
+00:08:12,760 --> 00:08:16,180
+a nominative would be possible here. 
+
+185
+00:08:16,180 --> 00:08:18,140
+This means that the predicate would also 
+have to 
+
+186
+00:08:18,140 --> 00:08:19,940
+be plural for the nominative 
+
+187
+00:08:19,940 --> 00:08:21,640
+to work. If not, 
+
+188
+00:08:21,800 --> 00:08:23,360
+we have to decide 
+
+189
+00:08:23,360 --> 00:08:24,800
+whether it is a genitive or a 
+
+190
+00:08:24,800 --> 00:08:26,980
+dative. We can also 
+
+191
+00:08:26,980 --> 00:08:28,800
+make this dependent on the predicate 
+
+192
+00:08:28,800 --> 00:08:30,360
+, for example if we have a predicate 
+
+193
+00:08:30,480 --> 00:08:34,520
+that needs a dative. Also, if, 
+
+194
+00:08:34,520 --> 00:08:37,040
+for example, wilkon-sulere 
+
+195
+00:08:37,040 --> 00:08:39,620
+can be formed with a dative 
+
+196
+00:08:39,620 --> 00:08:40,980
+, there is a high probability that 
+
+197
+00:08:40,980 --> 00:08:43,640
+we are dealing with the dative here. 
+
+198
+00:08:43,640 --> 00:08:45,420
+This means that we have to 
+
+199
+00:08:45,420 --> 00:08:49,120
+check which 
+
+200
+00:08:49,120 --> 00:08:50,960
+case it is and whether it 
+
+201
+00:08:50,960 --> 00:08:52,560
+really is this case using the other parts 
+of the sentence. 
+
+202
+00:08:53,020 --> 00:08:56,800
+Right, let's move on to the 
+
+203
+00:08:56,800 --> 00:08:59,500
+original declension. The odeclension 
+
+204
+00:08:59,500 --> 00:09:01,600
+is used for most nouns with a 
+
+205
+00:09:01,600 --> 00:09:03,880
+masculine or neuter gender. 
+
+206
+00:09:03,940 --> 00:09:07,660
+The nouns end in "-us", 
+
+207
+00:09:07,660 --> 00:09:09,480
+i.e. in the nominative case. This 
+
+208
+00:09:09,600 --> 00:09:11,700
+
+209
+00:09:11,700 --> 00:09:14,700
+means that nominatives ending in "-us" are 
+also masculine in 
+
+210
+00:09:14,700 --> 00:09:17,940
+most cases. The vocative 
+
+211
+00:09:17,940 --> 00:09:20,300
+is formed in the singular with "-e". These 
+are the 
+
+212
+00:09:20,300 --> 00:09:22,160
+basic principles for the 
+
+213
+00:09:22,160 --> 00:09:23,640
+declension. So we have 
+
+214
+00:09:23,640 --> 00:09:25,740
+established that there are both 
+
+215
+00:09:25,740 --> 00:09:27,600
+masculine and neuter 
+
+216
+00:09:27,600 --> 00:09:30,900
+ nouns 
+
+217
+00:09:30,920 --> 00:09:32,760
+that are formed with the original 
+declension 
+
+218
+00:09:32,760 --> 00:09:34,240
+. We must then 
+
+219
+00:09:34,240 --> 00:09:38,020
+note that the nouns 
+
+220
+00:09:38,040 --> 00:09:40,440
+
+221
+00:09:40,440 --> 00:09:43,860
+that have a primary S-handling in the 
+nominative case 
+
+222
+00:09:43,860 --> 00:09:46,500
+are usually or always masculine and do not 
+
+223
+00:09:46,500 --> 00:09:48,760
+have a neuter gender. We can see this here 
+with 
+
+224
+00:09:48,760 --> 00:09:50,680
+the example of advocatus. 
+
+225
+00:09:53,420 --> 00:09:56,080
+Advocatus, Advocati, Advocato, 
+
+226
+00:09:56,080 --> 00:09:59,120
+Advocatum, Advocato, Advocate. 
+
+227
+00:10:00,860 --> 00:10:03,440
+Advocati, Advocatorum, Advocatis 
+
+228
+00:10:03,460 --> 00:10:07,660
+, Advocatos, Advocatis, Advocati. We 
+
+229
+00:10:07,660 --> 00:10:09,700
+quickly realize that we 
+
+230
+00:10:09,700 --> 00:10:11,680
+also 
+
+231
+00:10:11,680 --> 00:10:13,980
+have the genitive plural with a rum ending 
+here. 
+
+232
+00:10:13,980 --> 00:10:16,360
+We have A-rum in the O-declension and 
+
+233
+00:10:16,360 --> 00:10:18,440
+O-rum in the O-declension. So we can see 
+
+234
+00:10:18,440 --> 00:10:20,760
+that for the A and O 
+
+235
+00:10:20,760 --> 00:10:22,620
+ declensions 
+
+236
+00:10:22,620 --> 00:10:24,660
+, we have a rum in the genitive plural in 
+most cases . 
+
+237
+00:10:24,820 --> 00:10:26,580
+This makes it easier for us to 
+
+238
+00:10:26,580 --> 00:10:30,440
+come up with easy mnemonic devices to help 
+us 
+
+239
+00:10:30,580 --> 00:10:33,480
+
+240
+00:10:33,480 --> 00:10:35,420
+
+241
+00:10:35,420 --> 00:10:38,560
+classify the nouns in the sentence more 
+quickly in the correct case. We also 
+
+242
+00:10:38,560 --> 00:10:39,860
+notice that we have the 
+
+243
+00:10:39,860 --> 00:10:43,000
+genitive singular and nominative plural 
+
+244
+00:10:43,000 --> 00:10:44,700
+problem here again. 
+
+245
+00:10:44,700 --> 00:10:47,100
+The following method applies here too. We 
+
+246
+00:10:47,100 --> 00:10:50,300
+also note that vocatis and 
+
+247
+00:10:50,300 --> 00:10:53,080
+vocatis, i.e. dative and appellative 
+
+248
+00:10:53,080 --> 00:10:56,680
+plural, 
+
+249
+00:10:56,680 --> 00:10:58,800
+are the same with the ending of the A 
+declension. We also have 
+
+250
+00:10:58,800 --> 00:11:02,260
+the IS ending again. This is also 
+
+251
+00:11:02,260 --> 00:11:03,620
+a characteristic of these two 
+
+252
+00:11:03,620 --> 00:11:05,620
+declensions. So if 
+
+253
+00:11:05,620 --> 00:11:07,840
+we have an IS ending and we 
+
+254
+00:11:07,840 --> 00:11:09,500
+are dealing with the A or O declension 
+
+255
+00:11:09,500 --> 00:11:12,560
+, we can 
+
+256
+00:11:12,580 --> 00:11:14,080
+always conclude that we 
+
+257
+00:11:14,080 --> 00:11:16,000
+have either or. 
+
+258
+00:11:16,000 --> 00:11:19,040
+Of course, we also have to check this 
+again within the 
+
+259
+00:11:19,040 --> 00:11:21,920
+sentence. Ablatives 
+
+260
+00:11:21,920 --> 00:11:24,200
+, for example, are usually in the context 
+of 
+
+261
+00:11:24,200 --> 00:11:26,760
+adverbials. For example, 
+
+262
+00:11:26,760 --> 00:11:29,980
+adlativus locus or temporis and 
+
+263
+00:11:29,980 --> 00:11:32,360
+others. The dative tends to be used as a 
+
+264
+00:11:32,360 --> 00:11:34,400
+direct or indirect object in the 
+
+265
+00:11:34,400 --> 00:11:38,300
+sentence. Okay, now we come to the 
+
+266
+00:11:38,300 --> 00:11:42,420
+declension with a special ending. 
+
+267
+00:11:44,480 --> 00:11:49,980
+This means that some of these nouns 
+
+268
+00:11:49,980 --> 00:11:53,160
+in the original declension have no US 
+
+269
+00:11:53,160 --> 00:11:55,600
+ending at all , i.e. not only. As I said, 
+it' 
+
+270
+00:11:55,740 --> 00:11:58,140
+s important that we know that the US 
+
+271
+00:11:58,140 --> 00:12:00,760
+ ending is 
+
+272
+00:12:00,760 --> 00:12:03,200
+masculine  in most cases. There are also 
+
+273
+00:12:03,200 --> 00:12:05,720
+neuter nouns, which we'll look at 
+
+274
+00:12:05,720 --> 00:12:08,000
+in a moment. But there are also 
+
+275
+00:12:08,000 --> 00:12:11,100
+nouns 
+
+276
+00:12:11,100 --> 00:12:13,460
+that have no US ending at all in the 
+nominative singular. 
+
+277
+00:12:13,480 --> 00:12:15,380
+This means, for example, that 
+
+278
+00:12:15,380 --> 00:12:21,500
+Puer, the boy, is 
+
+279
+00:12:21,500 --> 00:12:23,220
+formed without US , but follows the 
+
+280
+00:12:23,220 --> 00:12:25,200
+same declension order. 
+
+281
+00:12:25,200 --> 00:12:27,220
+This means that we can only 
+
+282
+00:12:27,220 --> 00:12:29,300
+
+283
+00:12:29,300 --> 00:12:31,600
+recognize that this is 
+
+284
+00:12:31,600 --> 00:12:35,160
+the O-declension masculine with the help 
+of the genitive singular, as mentioned at 
+the beginning 
+
+285
+00:12:35,160 --> 00:12:37,140
+. Okay, we also see 
+
+286
+00:12:37,140 --> 00:12:40,660
+IS, IS or the O again . Now let's move on 
+to 
+
+287
+00:12:40,660 --> 00:12:42,460
+the O-declension with gender. 
+
+288
+00:12:42,480 --> 00:12:45,780
+Neuter. Here it is the case that 
+
+289
+00:12:45,780 --> 00:12:48,740
+nominatives, i.e. the nominative 
+
+290
+00:12:48,740 --> 00:12:51,460
+singular on um, are neuter. This 
+
+291
+00:12:51,460 --> 00:12:53,520
+means that we can determine us 
+
+292
+00:12:53,520 --> 00:12:56,980
+masculine, um neuter. Now, 
+
+293
+00:12:56,980 --> 00:12:58,760
+however, we have to be careful, there is 
+
+294
+00:12:58,760 --> 00:13:00,360
+of course also 
+
+295
+00:13:00,360 --> 00:13:04,080
+the um in the original masculine 
+declaration , i.e. the um ending, such 
+
+296
+00:13:04,080 --> 00:13:06,840
+as puero. 
+
+297
+00:13:06,840 --> 00:13:09,680
+We must not confuse this with the 
+nominative of the 
+
+298
+00:13:09,680 --> 00:13:12,900
+neutra. O declension. 
+
+299
+00:13:12,920 --> 00:13:15,320
+We can recognize this by the fact that 
+
+300
+00:13:15,320 --> 00:13:18,100
+the plural is formed with A. 
+
+301
+00:13:18,100 --> 00:13:21,720
+This means that in the O-declension with 
+
+302
+00:13:21,720 --> 00:13:24,740
+neuter gender, as we 
+
+303
+00:13:24,740 --> 00:13:26,700
+can see here in the example of templum 
+
+304
+00:13:26,900 --> 00:13:30,360
+, the nominative plural and the 
+
+305
+00:13:30,360 --> 00:13:36,160
+accusative plural end with A 
+
+306
+00:13:36,160 --> 00:13:38,780
+and not 
+
+307
+00:13:38,780 --> 00:13:40,940
+with I or OS as we know it from the 
+others. 
+
+308
+00:13:41,460 --> 00:13:45,660
+Okay, that's enough to say. Are there 
+
+309
+00:13:45,660 --> 00:13:46,540
+any questions so far? 
+
+310
+00:13:55,660 --> 00:13:58,220
+Very good. Now let's move on to the 
+
+311
+00:13:58,220 --> 00:14:00,200
+consonantal declension. So that 
+
+312
+00:14:00,200 --> 00:14:02,120
+would be important 
+
+313
+00:14:02,120 --> 00:14:03,620
+to say about the original declension. 
+
+314
+00:14:03,620 --> 00:14:06,660
+So we can see that there is the US ending 
+with 
+
+315
+00:14:06,660 --> 00:14:09,360
+masculine, i.e. the ending of 
+
+316
+00:14:09,360 --> 00:14:12,280
+masculines that don't have a US ending 
+
+317
+00:14:12,280 --> 00:14:14,100
+but a different one, 
+
+318
+00:14:14,100 --> 00:14:18,580
+such as er or nur er and the 
+
+319
+00:14:18,580 --> 00:14:21,980
+neuter, which 
+
+320
+00:14:21,980 --> 00:14:28,660
+has um as a special feature in the 
+nominative and the a in the plural, 
+
+321
+00:14:28,880 --> 00:14:31,060
+both in the nominative and 
+
+322
+00:14:31,060 --> 00:14:32,880
+the accusative. Now we come to the 
+
+323
+00:14:32,880 --> 00:14:34,140
+consonantal declension. 
+
+324
+00:14:34,720 --> 00:14:36,500
+Nouns in the consonantal 
+
+325
+00:14:36,500 --> 00:14:37,900
+declension have two 
+
+326
+00:14:37,900 --> 00:14:40,100
+orders of declension. Most 
+
+327
+00:14:40,100 --> 00:14:41,960
+nouns follow the principle of the 
+
+328
+00:14:41,960 --> 00:14:42,720
+first declension. 
+
+329
+00:14:42,740 --> 00:14:44,420
+I will now 
+
+330
+00:14:44,420 --> 00:14:46,560
+introduce the order of declension . The 
+nominative 
+
+331
+00:14:46,560 --> 00:14:48,360
+singular has no additional 
+
+332
+00:14:48,360 --> 00:14:50,560
+case ending. This means that it remains 
+
+333
+00:14:50,600 --> 00:14:51,900
+as it is. It is basically 
+
+334
+00:14:51,900 --> 00:14:55,120
+just the nucleus. We can see it here in 
+
+335
+00:14:55,120 --> 00:14:57,820
+the example of senator. Senator remains 
+
+336
+00:14:57,820 --> 00:15:01,160
+senator. Senatoris, Senatori, 
+
+337
+00:15:01,240 --> 00:15:04,420
+Senatorim, Senatori, Senator. 
+
+338
+00:15:04,940 --> 00:15:08,140
+Note that the vocative also remains 
+without a 
+
+339
+00:15:08,140 --> 00:15:11,320
+declension ending. Then Senatores, 
+
+340
+00:15:11,720 --> 00:15:15,360
+Senatorum, Senatoribus, Senatores 
+
+341
+00:15:15,700 --> 00:15:18,640
+, Senatoribus, Senatores. Here, too, 
+
+342
+00:15:18,640 --> 00:15:21,560
+we have the same 
+
+343
+00:15:21,560 --> 00:15:23,600
+change in the vocative as the nominative. 
+If we 
+
+344
+00:15:23,600 --> 00:15:25,540
+imagine this or if 
+
+345
+00:15:25,540 --> 00:15:26,980
+we 
+
+346
+00:15:26,980 --> 00:15:29,280
+
+347
+00:15:29,280 --> 00:15:30,600
+want to point out the special features of 
+this declension change , we can see that 
+the 
+
+348
+00:15:30,600 --> 00:15:32,960
+nominative and accusative plural 
+
+349
+00:15:32,960 --> 00:15:36,040
+are the same. We have 
+
+350
+00:15:36,040 --> 00:15:38,800
+the E in the accusative singular here , 
+but we also have an 
+
+351
+00:15:38,800 --> 00:15:42,240
+M again and we also have an um. Not an 
+
+352
+00:15:42,240 --> 00:15:44,380
+Orum, not an Arum, but only an 
+
+353
+00:15:44,380 --> 00:15:46,380
+Um . If we look closely, 
+
+354
+00:15:46,480 --> 00:15:48,700
+we see that the R and 
+
+355
+00:15:48,700 --> 00:15:50,600
+in this case also the O, i.e. the 
+
+356
+00:15:50,600 --> 00:15:52,840
+orum, are already contained in the word. 
+
+357
+00:15:53,920 --> 00:15:55,940
+As a special feature, 
+
+358
+00:15:55,940 --> 00:15:58,560
+the dative and the applative 
+
+359
+00:15:58,560 --> 00:16:02,880
+are again the same in the plural. the 
+ending. 
+
+360
+00:16:04,500 --> 00:16:07,580
+However, some nouns also follow 
+
+361
+00:16:07,580 --> 00:16:10,020
+the second declension order. These 
+
+362
+00:16:10,020 --> 00:16:12,900
+have the IUM in the 
+
+363
+00:16:12,900 --> 00:16:17,040
+plural as a special feature. Many of their 
+kind are 
+
+364
+00:16:17,040 --> 00:16:18,940
+also the same in the nominative and 
+genitive 
+
+365
+00:16:18,940 --> 00:16:23,040
+singular, such as KIVES. It is 
+
+366
+00:16:23,040 --> 00:16:24,820
+also masculine, so there is no 
+
+367
+00:16:24,820 --> 00:16:26,760
+difference between the 
+
+368
+00:16:26,760 --> 00:16:28,180
+genera, no 
+
+369
+00:16:28,180 --> 00:16:30,120
+difference between the genders, but 
+
+370
+00:16:30,120 --> 00:16:31,840
+the simple declension. and 
+
+371
+00:16:31,840 --> 00:16:33,420
+we can recognize the difference by the 
+fact 
+
+372
+00:16:33,420 --> 00:16:36,240
+that it is called Kivis Kivis 
+
+373
+00:16:36,240 --> 00:16:38,240
+and then we automatically know that it 
+
+374
+00:16:38,240 --> 00:16:40,660
+is called Kivium in the genitive plural. 
+
+375
+00:16:40,660 --> 00:16:42,160
+This means that here we have an 
+
+376
+00:16:42,160 --> 00:16:44,500
+additional I and we realize that 
+
+377
+00:16:44,500 --> 00:16:46,580
+we 
+
+378
+00:16:46,580 --> 00:16:48,640
+have neither an O nor an R, i.e. no rum, 
+but an Ium 
+
+379
+00:16:48,640 --> 00:16:51,060
+. The rest of the formulas remain the 
+
+380
+00:16:51,060 --> 00:16:51,420
+same . 
+
+381
+00:16:56,560 --> 00:16:59,660
+If we now 
+
+382
+00:16:59,660 --> 00:17:01,500
+look at the consonantal declension with 
+genus neuter 
+
+383
+00:17:04,920 --> 00:17:08,020
+, we see that it 
+
+384
+00:17:08,020 --> 00:17:09,580
+
+385
+00:17:09,580 --> 00:17:11,400
+is similar to the original definition in 
+its special features. Here we have 
+
+386
+00:17:11,400 --> 00:17:15,460
+the nominative and accusative plural with 
+an A 
+
+387
+00:17:15,460 --> 00:17:18,940
+ ending. No I in the genitive 
+
+388
+00:17:18,940 --> 00:17:23,140
+plural, but we do have corpus 
+
+389
+00:17:23,140 --> 00:17:26,420
+corporis. Yes, we know this 
+
+390
+00:17:26,420 --> 00:17:29,560
+from the fact that the form changes. 
+
+391
+00:17:29,560 --> 00:17:31,600
+This means that we have corpus here and we 
+
+392
+00:17:31,600 --> 00:17:35,600
+have to 
+
+393
+00:17:35,600 --> 00:17:39,140
+add an OR to the word stem 
+
+394
+00:17:39,140 --> 00:17:41,480
+and then 
+
+395
+00:17:41,480 --> 00:17:43,220
+add the declension ending and this remains 
+
+396
+00:17:43,220 --> 00:17:45,940
+the same for the rest of the declension 
+order, 
+
+397
+00:17:46,020 --> 00:17:47,780
+except for the vocative, which, as 
+
+398
+00:17:47,780 --> 00:17:49,340
+already mentioned, 
+
+399
+00:17:49,340 --> 00:17:53,880
+is the same in most cases in the 
+nominative. And so 
+
+400
+00:17:53,880 --> 00:17:55,580
+we see again that 
+
+401
+00:17:55,580 --> 00:17:57,540
+we don't need an ion in the genitive , 
+because 
+
+402
+00:17:57,540 --> 00:17:59,600
+here we have the orm again, as we 
+
+403
+00:17:59,600 --> 00:18:01,720
+know it from the original declension, and 
+
+404
+00:18:01,720 --> 00:18:05,360
+here we have the OR part as the word stem 
+and 
+
+405
+00:18:05,360 --> 00:18:10,480
+the UM attached. Okay, 
+
+406
+00:18:10,480 --> 00:18:11,900
+of course we have to bear in mind that the 
+
+407
+00:18:11,900 --> 00:18:14,140
+genitive 
+
+408
+00:18:14,140 --> 00:18:17,920
+is formative , as already explained. Okay, 
+some nouns 
+
+409
+00:18:17,920 --> 00:18:19,880
+change several forms and take on 
+
+410
+00:18:19,880 --> 00:18:21,340
+all the peculiarities of the other. 
+
+411
+00:18:21,580 --> 00:18:23,280
+Declension. 
+
+412
+00:18:23,280 --> 00:18:25,640
+Basically , this means 
+
+413
+00:18:25,640 --> 00:18:28,040
+that we can see the maximum of the 
+consonantal declension 
+
+414
+00:18:28,040 --> 00:18:30,240
+here in the example of mare, mares. 
+
+415
+00:18:30,500 --> 00:18:32,440
+Here we see that we have 
+
+416
+00:18:32,440 --> 00:18:36,300
+the nominative again unchanged, 
+
+417
+00:18:36,320 --> 00:18:38,500
+i.e. without declension order, but 
+
+418
+00:18:38,500 --> 00:18:41,980
+this time with Re, i.e. Mare. Then we have 
+
+419
+00:18:41,980 --> 00:18:45,680
+Mares, Mare, Mare, Marie in the 
+
+420
+00:18:45,680 --> 00:18:48,880
+applicative, which is important, so 
+
+421
+00:18:48,880 --> 00:18:52,860
+the same here, then Mare. So, 
+
+422
+00:18:52,860 --> 00:18:56,060
+we also notice that we 
+
+423
+00:18:56,060 --> 00:18:57,900
+have Maria here. So we have not only 
+
+424
+00:18:57,900 --> 00:19:01,080
+added the A, but also an I and an 
+
+425
+00:19:01,080 --> 00:19:02,960
+Ium, as we already 
+
+426
+00:19:02,960 --> 00:19:04,200
+knew earlier. We have seen this here in 
+the 
+
+427
+00:19:04,200 --> 00:19:09,040
+example of Kivium. And the 
+
+428
+00:19:09,040 --> 00:19:10,900
+nominative and the accusative 
+
+429
+00:19:10,900 --> 00:19:12,260
+are the same, as we 
+
+430
+00:19:12,260 --> 00:19:14,560
+know from the consonantal. But with the 
+
+431
+00:19:14,560 --> 00:19:15,940
+special feature that we don't just 
+
+432
+00:19:15,940 --> 00:19:18,340
+have an A, but an Ia. And this 
+
+433
+00:19:18,340 --> 00:19:20,100
+is also followed. Also in the 
+
+434
+00:19:20,100 --> 00:19:23,020
+vocative. Attention! Some nouns 
+
+435
+00:19:23,020 --> 00:19:23,980
+with a consonantal 
+
+436
+00:19:23,980 --> 00:19:26,320
+declension order are also femina. 
+
+437
+00:19:26,500 --> 00:19:30,100
+For example, Regio Regiones, 
+
+438
+00:19:30,380 --> 00:19:33,900
+Plebs Plebis or Vox Vocis. They have 
+
+439
+00:19:33,900 --> 00:19:37,380
+the feminine gender. 
+
+440
+00:19:38,650 --> 00:19:39,920
+Any questions so far? 
+
+441
+00:19:49,350 --> 00:19:52,200
+Great! Now let's move on to the U 
+
+442
+00:19:52,200 --> 00:19:54,460
+ declension. Most nouns 
+
+443
+00:19:54,460 --> 00:19:57,420
+in the U declension are masculine. 
+
+444
+00:19:57,420 --> 00:19:58,720
+There are some exceptions to the 
+
+445
+00:19:58,720 --> 00:20:01,220
+distribution of genders, but let's 
+
+446
+00:20:01,220 --> 00:20:03,700
+
+447
+00:20:03,700 --> 00:20:05,180
+take a look at the basic example here. We 
+can see it here 
+
+448
+00:20:05,180 --> 00:20:07,940
+with the example of case, masculine 
+
+449
+00:20:07,940 --> 00:20:12,280
+case. Kasus, kasus, kasui, kasum 
+
+450
+00:20:12,280 --> 00:20:18,680
+, kasu, kasus. Kasus, kasuum, kasibus, 
+
+451
+00:20:18,700 --> 00:20:22,800
+kasus, kasibus, kasus. Here too, 
+
+452
+00:20:22,840 --> 00:20:26,380
+Observation , the OS is not 
+
+453
+00:20:26,380 --> 00:20:27,800
+the identifying word for the original 
+declaration. we 
+
+454
+00:20:27,800 --> 00:20:30,120
+remember that the genitive 
+
+455
+00:20:30,120 --> 00:20:33,300
+is also the same. That is, as soon as the 
+genitive 
+
+456
+00:20:33,300 --> 00:20:35,360
+is with an Us ending, 
+
+457
+00:20:35,360 --> 00:20:37,040
+we know it is the U-declension and 
+
+458
+00:20:37,040 --> 00:20:39,100
+then a few things take effect. 
+
+459
+00:20:39,100 --> 00:20:41,840
+We realize that 
+
+460
+00:20:41,840 --> 00:20:44,540
+all 
+
+461
+00:20:44,540 --> 00:20:46,500
+forms except for the dative and the 
+ablative plural are formed with a U. 
+
+462
+00:20:47,060 --> 00:20:48,880
+This means that, unlike in the U 
+
+463
+00:20:48,880 --> 00:20:50,240
+ declension, we 
+
+464
+00:20:50,240 --> 00:20:52,700
+often have an I, for example. Here we have 
+the U 
+
+465
+00:20:52,700 --> 00:20:57,040
+We therefore establish case, i.e. 
+
+466
+00:20:57,040 --> 00:20:59,380
+case, case. And we have a 
+
+467
+00:20:59,380 --> 00:21:02,260
+double 
+
+468
+00:21:02,260 --> 00:21:04,720
+U in the genitive plural case. The 
+nominative and the accusative 
+
+469
+00:21:04,720 --> 00:21:06,240
+are the same, as we 
+
+470
+00:21:06,240 --> 00:21:08,980
+know from the consonantal. Both 
+
+471
+00:21:08,980 --> 00:21:10,640
+formed with US. And we have another 
+
+472
+00:21:10,640 --> 00:21:12,260
+peculiarity. We cannot clearly 
+
+473
+00:21:12,260 --> 00:21:14,320
+differentiate whether it is singular or 
+
+474
+00:21:14,320 --> 00:21:16,020
+plural. We can 
+
+475
+00:21:16,020 --> 00:21:18,800
+
+476
+00:21:18,800 --> 00:21:21,560
+explain this again from the context of the 
+sentence. Some nouns can 
+
+477
+00:21:21,560 --> 00:21:22,760
+
+478
+00:21:22,760 --> 00:21:24,540
+take on the ending of the O declension , 
+as we 
+
+479
+00:21:24,540 --> 00:21:27,620
+know from domus, domus, for example, is 
+feminine 
+
+480
+00:21:27,620 --> 00:21:30,000
+and can also 
+
+481
+00:21:30,000 --> 00:21:34,260
+be formed with domus in the accusative 
+plural . Yes, so it 
+
+482
+00:21:34,260 --> 00:21:36,760
+doesn't always have to 
+
+483
+00:21:36,760 --> 00:21:39,100
+be domus , but can also 
+
+484
+00:21:39,100 --> 00:21:42,220
+contain the OS. So much for the 
+O-declension. 
+
+485
+00:21:42,520 --> 00:21:44,900
+The E declension is mostly 
+
+486
+00:21:44,900 --> 00:21:47,680
+feminine, the nominative and accusative 
+
+487
+00:21:47,800 --> 00:21:50,040
+endings are the same in the consonantal 
+
+488
+00:21:50,040 --> 00:21:52,560
+declension of masculines. So 
+
+489
+00:21:52,560 --> 00:21:54,880
+here we have ES endings, ES endings 
+
+490
+00:21:54,880 --> 00:21:58,480
+and we have, as we 
+
+491
+00:21:58,480 --> 00:22:00,720
+also 
+
+492
+00:22:00,720 --> 00:22:03,900
+want to sing here in the nominative, for 
+example, Res, Re, Re, Rem, 
+
+493
+00:22:04,860 --> 00:22:09,840
+ja, Re, Res, Re, Rum, here 
+
+494
+00:22:09,840 --> 00:22:12,700
+again the Rum, this time only with E, 
+
+495
+00:22:12,920 --> 00:22:15,520
+for the E declension, so like 
+
+496
+00:22:15,520 --> 00:22:17,480
+the U declension it is also very E-heavy. 
+
+497
+00:22:17,520 --> 00:22:19,420
+Here we don't have a single form 
+
+498
+00:22:19,500 --> 00:22:22,420
+that is not formed with E. 
+
+499
+00:22:22,420 --> 00:22:24,220
+We already know the rebus from ribus, 
+
+500
+00:22:24,220 --> 00:22:26,200
+here in the E-declension with rebus. 
+
+501
+00:22:26,500 --> 00:22:28,660
+I've already mentioned res and res, 
+
+502
+00:22:28,800 --> 00:22:30,480
+as well as the dative and the applative. 
+
+503
+00:22:31,600 --> 00:22:33,960
+Okay, there are also 
+
+504
+00:22:33,960 --> 00:22:35,680
+exceptions to the E declension , such as 
+
+505
+00:22:35,680 --> 00:22:39,360
+Dies or Diei is masculine. The day 
+
+506
+00:22:39,360 --> 00:22:42,500
+is masculine. Otherwise, in 
+
+507
+00:22:42,500 --> 00:22:44,400
+most cases the E declension is 
+
+508
+00:22:44,400 --> 00:22:47,260
+feminine. Any questions so far? 
+
+509
+00:22:54,550 --> 00:22:57,470
+Great. Now let's move on to the 
+
+510
+00:22:57,470 --> 00:22:59,950
+overview of the general. The form ending 
+
+511
+00:22:59,950 --> 00:23:02,030
+and the corresponding gender. 
+
+512
+00:23:02,030 --> 00:23:03,790
+For example, we see that or we' 
+
+513
+00:23:03,790 --> 00:23:07,090
+ve established that we 
+
+514
+00:23:07,090 --> 00:23:08,610
+have exceptions and it's 
+
+515
+00:23:08,610 --> 00:23:10,130
+still difficult and it's 
+
+516
+00:23:10,130 --> 00:23:13,010
+difficult to recognize and 
+
+517
+00:23:13,010 --> 00:23:15,310
+characterize a pattern. However, there are 
+
+518
+00:23:15,310 --> 00:23:17,830
+some universal patterns that 
+
+519
+00:23:17,830 --> 00:23:19,690
+we can remember. 
+
+520
+00:23:19,690 --> 00:23:22,310
+For example , if we 
+
+521
+00:23:22,310 --> 00:23:25,070
+have an OR or an ES with genitive ITIS, 
+then we have 
+
+522
+00:23:25,070 --> 00:23:27,390
+the masculine gender, 
+
+523
+00:23:27,390 --> 00:23:30,810
+such as Senator or Miles. With 
+
+524
+00:23:30,810 --> 00:23:34,830
+the endings O, AS, ES or IS, 
+
+525
+00:23:34,830 --> 00:23:37,110
+we usually have feminines as the gender, 
+such 
+
+526
+00:23:37,110 --> 00:23:41,150
+as Optio Clamatas, 
+
+527
+00:23:41,150 --> 00:23:42,790
+sorry, Clamati Satia 
+
+528
+00:23:42,790 --> 00:23:46,310
+clarmitas, sorry, as 
+
+529
+00:23:46,310 --> 00:23:49,210
+damage and misfortune, or nubes or 
+
+530
+00:23:49,210 --> 00:23:51,470
+navis, the cloud or the ship, 
+
+531
+00:23:51,510 --> 00:23:55,670
+feminine, or, as I forgot 
+
+532
+00:23:55,670 --> 00:23:58,370
+to say, the S or the X for 
+
+533
+00:23:58,370 --> 00:24:00,450
+plebs and vox, which we have just 
+
+534
+00:24:00,450 --> 00:24:03,910
+seen as an example. The US 
+
+535
+00:24:03,910 --> 00:24:07,050
+ ending and the EN ending are 
+
+536
+00:24:07,050 --> 00:24:09,810
+usually 
+
+537
+00:24:09,810 --> 00:24:11,730
+responsible for the neuter gender. 
+Attention, in the O 
+
+538
+00:24:11,730 --> 00:24:13,530
+ declension we have said, 
+
+539
+00:24:13,530 --> 00:24:18,930
+for example, we  have Servus as the US 
+
+540
+00:24:18,930 --> 00:24:20,710
+ ending. However, this is not 
+
+541
+00:24:20,710 --> 00:24:22,630
+formative. This changes, 
+
+542
+00:24:22,730 --> 00:24:25,190
+so we can only 
+
+543
+00:24:25,190 --> 00:24:27,090
+see the US ending as a neuter, such as 
+
+544
+00:24:27,090 --> 00:24:30,410
+corpus or opus. These are neutre. 
+
+545
+00:24:31,950 --> 00:24:33,730
+Neuter forms and the en ending, 
+
+546
+00:24:33,730 --> 00:24:37,530
+such as nouns in the nominative case. 
+
+547
+00:24:38,630 --> 00:24:41,350
+Okay, that's a brief 
+
+548
+00:24:41,350 --> 00:24:44,330
+overview of the 
+
+549
+00:24:44,330 --> 00:24:46,910
+declension classes. 
+
+550
+00:24:46,930 --> 00:24:48,930
+If there are no more questions 
+
+551
+00:24:48,930 --> 00:24:52,130
+, I hope that this webinar 
+
+552
+00:24:52,130 --> 00:24:53,710
+has helped you and I 
+
+553
+00:24:53,710 --> 00:24:54,610
+thank you for your 
+
+554
+00:24:54,610 --> 00:24:57,770
+attention. You can still 
+
+555
+00:24:57,770 --> 00:25:02,730
+ask questions. here. Bye, 
+
+556
+00:25:02,730 --> 00:25:03,350
+goodbye. 

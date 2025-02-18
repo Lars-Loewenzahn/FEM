@@ -1,0 +1,536 @@
+1
+00:00:00,530 --> 00:00:02,590
+Herzlich willkommen zum Webinar der
+
+2
+00:00:02,590 --> 00:00:04,110
+Schülerhilfe zum Thema
+
+3
+00:00:04,110 --> 00:00:08,410
+Grundrechenarten Addition. Wir wollen
+
+4
+00:00:08,410 --> 00:00:10,690
+uns heute einmal anschauen, wie wir
+
+5
+00:00:10,690 --> 00:00:13,930
+Zahlen miteinander addieren, dann wie
+
+6
+00:00:13,930 --> 00:00:16,010
+wir eine schriftliche Addition
+
+7
+00:00:16,010 --> 00:00:19,030
+durchführen, was der Zehnerübergang
+
+8
+00:00:19,030 --> 00:00:22,390
+ist und wie wir große Zahlen
+
+9
+00:00:22,390 --> 00:00:25,930
+addieren. Beginnen wollen wir mit der
+
+10
+00:00:25,930 --> 00:00:28,470
+Addition an sich. Wie kann man sich
+
+11
+00:00:28,470 --> 00:00:31,330
+die Rechnung 4 plus 5 gleich 9
+
+12
+00:00:31,330 --> 00:00:36,570
+überhaupt vorstellen? Also, wir haben
+
+13
+00:00:36,570 --> 00:00:40,810
+einen Zahlenstrahl. Und auf dem
+
+14
+00:00:40,810 --> 00:00:42,710
+Zahlenstrahl markieren wir uns die
+
+15
+00:00:42,710 --> 00:00:46,790
+erste Zahl, die 4. Wenn wir nun 5
+
+16
+00:00:46,790 --> 00:00:48,930
+addieren, gehen wir auf dem
+
+17
+00:00:48,930 --> 00:00:52,130
+Zahlenstrahl 5 Schritte weiter nach
+
+18
+00:00:52,130 --> 00:00:54,610
+rechts und landen dann bei der 9.
+
+19
+00:00:56,170 --> 00:00:58,910
+Damit haben wir 4 und 5 addiert.
+
+20
+00:01:02,120 --> 00:01:04,280
+Bei der Addition addieren wir immer
+
+21
+00:01:04,280 --> 00:01:06,820
+zwei Summanden. So nennen wir die
+
+22
+00:01:06,820 --> 00:01:10,560
+Zahlen, die wir addieren wollen. Das
+
+23
+00:01:10,560 --> 00:01:13,580
+Ergebnis der Addition nennen wir
+
+24
+00:01:13,580 --> 00:01:17,300
+Summe. Die Reihenfolge der Summanden
+
+25
+00:01:17,300 --> 00:01:19,320
+hat dabei keine Auswirkung auf die
+
+26
+00:01:19,320 --> 00:01:22,140
+Summe. Das heißt, es ist egal, ob wir
+
+27
+00:01:22,140 --> 00:01:26,040
+4 plus 5 oder 5 plus 4 rechnen. Das
+
+28
+00:01:26,040 --> 00:01:29,440
+Ergebnis ist dasselbe. Allgemein sagt
+
+29
+00:01:29,440 --> 00:01:34,500
+man dann auch, a plus b ist b plus a.
+
+30
+00:01:36,500 --> 00:01:38,640
+Dabei können wir für a und b
+
+31
+00:01:38,640 --> 00:01:40,880
+beliebige Zahlen einsetzen.
+
+32
+00:01:43,760 --> 00:01:46,080
+Ein weiteres Beispiel ist die Aufgabe
+
+33
+00:01:46,080 --> 00:01:50,800
+3 plus 7 plus 1, also mit mehr als
+
+34
+00:01:50,800 --> 00:01:56,820
+zwei Summanden. Wir haben 3, gehen 7
+
+35
+00:01:56,820 --> 00:02:00,860
+Schritte nach rechts. und dann noch
+
+36
+00:02:00,860 --> 00:02:02,880
+einen weiteren Schritt nach rechts
+
+37
+00:02:02,880 --> 00:02:07,300
+und landen bei 11. Alternativ können
+
+38
+00:02:07,300 --> 00:02:10,260
+wir uns die Zahlen auch als Punkte
+
+39
+00:02:10,260 --> 00:02:13,720
+vorstellen. Also 3 wären 3 Punkte, 7
+
+40
+00:02:13,720 --> 00:02:18,320
+sind 7 Punkte, 1 ist 1 Punkt. Dann
+
+41
+00:02:18,320 --> 00:02:20,560
+fügen wir die Punkte einfach immer in
+
+42
+00:02:20,560 --> 00:02:26,560
+Fünferblöcke zusammen. Also 5, 5 und
+
+43
+00:02:26,560 --> 00:02:30,900
+1. Das heißt, wir haben 5, 10, 11 als
+
+44
+00:02:30,900 --> 00:02:31,260
+Ergebnis.
+
+45
+00:02:34,140 --> 00:02:38,120
+Ein weiteres Beispiel ist 22 plus 15
+
+46
+00:02:38,120 --> 00:02:41,700
+plus 4. Hier wird der Zahlenstrahl
+
+47
+00:02:41,700 --> 00:02:43,780
+sehr lang und nicht mehr
+
+48
+00:02:43,780 --> 00:02:45,280
+übersichtlich. Das heißt, den
+
+49
+00:02:45,280 --> 00:02:48,740
+verwenden wir hierbei nicht. Wir
+
+50
+00:02:48,740 --> 00:02:50,220
+können das Ganze allerdings wieder
+
+51
+00:02:50,220 --> 00:02:52,460
+mit Punkten machen. Aber auch hier
+
+52
+00:02:52,460 --> 00:02:55,020
+merken wir, wir müssen für 22 schon
+
+53
+00:02:55,020 --> 00:02:59,960
+22 Punkte aufschreiben. 15 für 15. 4
+
+54
+00:02:59,960 --> 00:03:03,120
+für 4 und würden die dann in 5er
+
+55
+00:03:03,120 --> 00:03:05,900
+Blöcken aufschreiben. Stattdessen
+
+56
+00:03:05,900 --> 00:03:08,260
+können wir aber auch die schriftliche
+
+57
+00:03:08,260 --> 00:03:12,300
+Addition verwenden. Bei der
+
+58
+00:03:12,300 --> 00:03:15,500
+schriftlichen Addition schreiben wir
+
+59
+00:03:15,500 --> 00:03:20,280
+2 Summanden oder auch mehr Summanden
+
+60
+00:03:20,280 --> 00:03:24,140
+untereinander auf. Dies ist vor allem
+
+61
+00:03:24,140 --> 00:03:26,860
+bei größeren Zahlen nützlich. Wir
+
+62
+00:03:26,860 --> 00:03:29,580
+nehmen als Beispiel einmal 12 plus 4.
+
+63
+00:03:29,660 --> 00:03:32,620
+Wir schreiben die beiden Zahlen
+
+64
+00:03:32,620 --> 00:03:36,260
+untereinander und addieren dann die
+
+65
+00:03:36,260 --> 00:03:40,020
+1er miteinander, also 2 plus 4 ist 6
+
+66
+00:03:40,020 --> 00:03:43,700
+und die 10er miteinander, also 1 plus
+
+67
+00:03:43,700 --> 00:03:47,080
+2 ist 3. Dann fügen wir die beiden
+
+68
+00:03:47,080 --> 00:03:48,720
+Zahlen nur noch zusammen. Das
+
+69
+00:03:48,720 --> 00:03:50,620
+Ergebnis ist also 36.
+
+70
+00:03:53,300 --> 00:04:00,050
+3 10er und 6 1er. Wie ist es nun,
+
+71
+00:04:00,170 --> 00:04:04,270
+wenn wir ein Beispiel wie 17 plus 25
+
+72
+00:04:04,270 --> 00:04:09,150
+haben? Wir addieren die eine, 7 plus
+
+73
+00:04:09,150 --> 00:04:12,930
+5 ergibt 12. Das heißt, hier können
+
+74
+00:04:12,930 --> 00:04:14,750
+wir schon nicht mehr unsere Zahlen
+
+75
+00:04:14,750 --> 00:04:17,570
+einfach aneinander fügen. Würden wir
+
+76
+00:04:17,570 --> 00:04:19,930
+das machen, würden wir für die 10er 1
+
+77
+00:04:19,930 --> 00:04:23,210
+plus 2 rechnen, das wäre 3, und fügen
+
+78
+00:04:23,210 --> 00:04:24,350
+die Zahlen zusammen, dann wäre unser
+
+79
+00:04:24,350 --> 00:04:27,730
+Ergebnis 312. Das macht natürlich...
+
+80
+00:04:27,750 --> 00:04:30,750
+keinen Sinn. Stattdessen, wenn wir
+
+81
+00:04:30,750 --> 00:04:33,470
+die 1 addieren und über 10 kommen,
+
+82
+00:04:33,630 --> 00:04:36,950
+merken wir uns die 2 für die 1er
+
+83
+00:04:36,950 --> 00:04:40,490
+Zahlen und schreiben für die 1 eine
+
+84
+00:04:40,490 --> 00:04:44,110
+kleine 1 mit unter die 10er Zahlen.
+
+85
+00:04:44,310 --> 00:04:47,210
+Dann wissen wir, die müssen wir
+
+86
+00:04:47,210 --> 00:04:48,770
+ebenfalls mit addieren. Wir rechnen
+
+87
+00:04:48,770 --> 00:04:53,070
+dann also 1 plus 2 plus 1 für die
+
+88
+00:04:53,070 --> 00:04:56,510
+10er, also 4. Das heißt, unser
+
+89
+00:04:56,510 --> 00:05:01,570
+Ergebnis lautet 42. Wir merken uns,
+
+90
+00:05:01,650 --> 00:05:04,770
+wenn das Zwischenergebnis größer als
+
+91
+00:05:04,770 --> 00:05:08,070
+10 ist, muss bei der nächsten Stelle
+
+92
+00:05:08,070 --> 00:05:11,410
+eine 1 hinzugefügt werden. Also, 1
+
+93
+00:05:11,410 --> 00:05:14,370
+sind zusammen über 10. Das heißt, wir
+
+94
+00:05:14,370 --> 00:05:16,590
+fügen eine 1 bei den Zehnern hinzu.
+
+95
+00:05:20,450 --> 00:05:22,250
+Schauen wir uns das Ganze nochmal bei
+
+96
+00:05:22,250 --> 00:05:25,510
+einer größeren Aufgabe an. Dann 177
+
+97
+00:05:25,510 --> 00:05:32,010
+plus 94 plus 53. Wir beginnen mit den
+
+98
+00:05:32,010 --> 00:05:39,230
+Einen. 7 plus 4 plus 3 ergibt 14. Das
+
+99
+00:05:39,230 --> 00:05:42,170
+heißt, die 4 schreiben wir als
+
+100
+00:05:42,170 --> 00:05:45,650
+Einerzahl hin. Und schreiben die 1
+
+101
+00:05:45,650 --> 00:05:49,550
+klein unter die Zehner. Dann machen
+
+102
+00:05:49,550 --> 00:05:52,870
+wir mit den Zehnern weiter. 7 plus 9.
+
+103
+00:05:53,470 --> 00:06:00,730
+Plus 5 plus 1 ergibt 22. Die 2
+
+104
+00:06:00,730 --> 00:06:04,430
+schreiben wir als 10er Zahl auf und
+
+105
+00:06:04,430 --> 00:06:10,610
+übertragen die 2 von der 20 unter die
+
+106
+00:06:10,610 --> 00:06:13,730
+100er Stellen. Hier rechnen wir dann
+
+107
+00:06:13,730 --> 00:06:17,310
+noch die 100er Zahlen aus. 1 plus 2
+
+108
+00:06:17,310 --> 00:06:22,230
+ergibt 3. 3 schreiben wir als 100er
+
+109
+00:06:22,230 --> 00:06:24,810
+Zahl. auf. Unser Ergebnis lautet also
+
+110
+00:06:24,810 --> 00:06:25,950
+324.
+
+111
+00:06:29,920 --> 00:06:33,120
+Mit dieser Rechentechnik sind auch
+
+112
+00:06:33,120 --> 00:06:35,900
+große Zahlen kein Problem mehr. Zum
+
+113
+00:06:35,900 --> 00:06:43,880
+Beispiel 45.642 plus 101.569. Wir
+
+114
+00:06:43,880 --> 00:06:45,160
+schreiben die beiden Zahlen einfach
+
+115
+00:06:45,160 --> 00:06:48,020
+wieder untereinander und gehen Stelle
+
+116
+00:06:48,020 --> 00:06:50,840
+für Stelle die einzelnen Summen
+
+117
+00:06:50,840 --> 00:06:54,980
+durch. Also 2 plus 9 ist 11. Die 1
+
+118
+00:06:54,980 --> 00:06:57,820
+schreiben wir auf. Die 10er 1
+
+119
+00:06:57,820 --> 00:07:00,980
+schreiben wir unter die 10er. 4 plus
+
+120
+00:07:00,980 --> 00:07:04,160
+6 plus 1 ist wieder 11. Wir schreiben
+
+121
+00:07:04,160 --> 00:07:08,860
+die 1 auf und übertragen die 1 als
+
+122
+00:07:08,860 --> 00:07:14,240
+10er. 6 plus 5 plus 1 ist 12. Die 2
+
+123
+00:07:14,240 --> 00:07:16,380
+schreiben wir auf. Die 1 wird wieder
+
+124
+00:07:16,380 --> 00:07:21,080
+übertragen. 5 plus 1 plus 1 ist 7.
+
+125
+00:07:21,320 --> 00:07:22,800
+Hier brauchen wir dann nichts
+
+126
+00:07:22,800 --> 00:07:28,700
+übertragen. 4 plus 0 ist 4 und 1 plus
+
+127
+00:07:28,700 --> 00:07:33,040
+0 bleibt 1. Das heißt, unser Ergebnis
+
+128
+00:07:33,040 --> 00:07:36,740
+für diese beiden großen Zahlen ist
+
+129
+00:07:36,740 --> 00:07:40,060
+147.211.
+
+130
+00:07:42,560 --> 00:07:45,440
+Damit wären wir auch schon am Ende
+
+131
+00:07:45,440 --> 00:07:47,380
+unseres heutigen Webinars angelangt.
+
+132
+00:07:47,380 --> 00:07:49,020
+Ich bedanke mich für die
+
+133
+00:07:49,020 --> 00:07:50,780
+Aufmerksamkeit und wünsche noch einen
+
+134
+00:07:50,780 --> 00:07:51,500
+schönen Tag.
+

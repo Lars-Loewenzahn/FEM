@@ -1,0 +1,2488 @@
+1
+00:00:01,100 --> 00:00:02,920
+Herzlich willkommen zum Webinar
+
+2
+00:00:02,920 --> 00:00:05,300
+Graden und Ebenen. Wir werden uns in
+
+3
+00:00:05,300 --> 00:00:07,060
+diesem Webinar mit Gradengleichung
+
+4
+00:00:07,060 --> 00:00:08,920
+und Ebenengleichung befassen, wie man
+
+5
+00:00:08,920 --> 00:00:11,380
+diese aufstellt oder auch umformt.
+
+6
+00:00:11,820 --> 00:00:13,720
+Hier sehen wir unsere heutigen
+
+7
+00:00:13,720 --> 00:00:15,700
+inhaltlichen Themen. Wir sehen, wir
+
+8
+00:00:15,700 --> 00:00:17,280
+werden uns im ersten Teil des
+
+9
+00:00:17,280 --> 00:00:19,160
+Webinars mit Graden befassen, über
+
+10
+00:00:19,160 --> 00:00:20,780
+deren Eigenschaften, über deren
+
+11
+00:00:20,780 --> 00:00:23,420
+Definition, über Vektoren. Und das
+
+12
+00:00:23,420 --> 00:00:24,180
+werden wir erstmal nur im
+
+13
+00:00:24,180 --> 00:00:25,840
+Zweidimensionalen machen. danach
+
+14
+00:00:25,840 --> 00:00:27,440
+gehen wir ins Dreidimensionale über,
+
+15
+00:00:27,580 --> 00:00:31,760
+schauen uns die Unterschiede
+
+16
+00:00:31,760 --> 00:00:34,260
+an zum Dreidimensionalen und wie das
+
+17
+00:00:34,260 --> 00:00:38,130
+Verfahren dort funktioniert. Danach
+
+18
+00:00:38,130 --> 00:00:39,710
+widmen wir uns den Ebenen, wir
+
+19
+00:00:39,710 --> 00:00:40,930
+schauen uns auch hier erst wieder die
+
+20
+00:00:40,930 --> 00:00:42,750
+Eigenschaften einer Ebene an, danach
+
+21
+00:00:42,750 --> 00:00:44,030
+schauen wir uns an, wie wir eine
+
+22
+00:00:44,030 --> 00:00:45,810
+Ebene über Vektoren definieren können
+
+23
+00:00:45,810 --> 00:00:48,690
+und anschließend schauen wir uns die
+
+24
+00:00:48,690 --> 00:00:49,870
+verschiedenen Formen von
+
+25
+00:00:49,870 --> 00:00:51,430
+Ebenengleichungen an. Man sieht hier
+
+26
+00:00:51,430 --> 00:00:53,890
+schon, es gibt die Parameterform, die
+
+27
+00:00:53,890 --> 00:00:55,470
+normalen Form und die
+
+28
+00:00:55,470 --> 00:00:58,070
+Koordinatenform. Wir werden diese
+
+29
+00:00:58,070 --> 00:00:59,990
+einmal vorstellen und anschließend
+
+30
+00:00:59,990 --> 00:01:00,910
+werden wir natürlich auch die
+
+31
+00:01:00,910 --> 00:01:03,390
+Ebenengleichung in allen drei Formen
+
+32
+00:01:03,390 --> 00:01:04,970
+einmal umrechnen und präsentieren.
+
+33
+00:01:05,850 --> 00:01:08,170
+Fangen wir mit den Graden an. Eine
+
+34
+00:01:08,170 --> 00:01:09,790
+Gerade kann immer durch zwei Punkte
+
+35
+00:01:09,790 --> 00:01:11,130
+definiert werden. Das ist wie gesagt
+
+36
+00:01:11,130 --> 00:01:12,470
+immer so, wenn man sich zwei Punkte
+
+37
+00:01:12,470 --> 00:01:13,990
+auf ein Blatt Papier zeichnet und
+
+38
+00:01:13,990 --> 00:01:15,570
+diese mit einem Geodreieck gradlinig
+
+39
+00:01:15,570 --> 00:01:16,710
+verbindet, hat man eine Gerade.
+
+40
+00:01:19,790 --> 00:01:21,570
+lang. Das ist der Unterschied. Wenn
+
+41
+00:01:21,570 --> 00:01:23,530
+man nur den Abschnitt einer Gerade
+
+42
+00:01:23,530 --> 00:01:24,930
+zwischen zwei Punkten meint, dann ist
+
+43
+00:01:24,930 --> 00:01:28,770
+es nur eine Strecke. Wir betrachten
+
+44
+00:01:28,770 --> 00:01:30,590
+aber in folgenden Graden und diese
+
+45
+00:01:30,590 --> 00:01:33,750
+sind auch bei der Vektorrechnung
+
+46
+00:01:33,750 --> 00:01:36,970
+immer unendlich lang und wie das
+
+47
+00:01:36,970 --> 00:01:40,810
+zustande kommt, sehen wir gleich. Wir
+
+48
+00:01:40,810 --> 00:01:41,970
+sehen hier als erstes, wie schon
+
+49
+00:01:41,970 --> 00:01:43,450
+gesagt, ein Koordinatensystem, was
+
+50
+00:01:43,450 --> 00:01:44,930
+erstmal nur im Zweidimensionalen ist.
+
+51
+00:01:45,570 --> 00:01:47,370
+Bitte verwechselt das, was jetzt
+
+52
+00:01:47,370 --> 00:01:49,170
+kommt, nicht mit der Einzelne. den
+
+53
+00:01:49,170 --> 00:01:50,710
+Funktionsgleichungen, also linearen
+
+54
+00:01:50,710 --> 00:01:51,810
+Funktionen, das sind ja auch eine
+
+55
+00:01:51,810 --> 00:01:54,410
+Grade. Wir wollen diese Grade gleich
+
+56
+00:01:54,410 --> 00:01:55,850
+über Vektoren beschreiben. Das ist
+
+57
+00:01:55,850 --> 00:01:57,290
+ein anderes Kapitel der Mathematik.
+
+58
+00:01:58,010 --> 00:01:59,350
+Deswegen, wir sind jetzt bei der
+
+59
+00:01:59,350 --> 00:02:00,890
+Vektorrechnung, auch wenn das jetzt
+
+60
+00:02:00,890 --> 00:02:04,370
+aussieht wie eine Aufgabe zur
+
+61
+00:02:04,370 --> 00:02:08,310
+linearen Gleichung. Gut, wir sehen
+
+62
+00:02:08,310 --> 00:02:09,350
+hier erstmal, wir haben zwei Punkte
+
+63
+00:02:09,350 --> 00:02:11,550
+und wollen diese zwei Punkte mittels
+
+64
+00:02:11,550 --> 00:02:14,310
+einer Grade verbinden. Die Idee
+
+65
+00:02:14,310 --> 00:02:17,350
+dahinter ist, dass wir einen Punkt
+
+66
+00:02:17,350 --> 00:02:19,350
+als Stück... Vektor nehmen und von
+
+67
+00:02:19,350 --> 00:02:21,050
+diesem Stützvektor aus nur eine
+
+68
+00:02:21,050 --> 00:02:23,210
+Richtung angeben. Dieser
+
+69
+00:02:23,210 --> 00:02:25,650
+Richtungsvektor weist dann zu Punkt
+
+70
+00:02:25,650 --> 00:02:29,550
+B. Die Definition der Geraden findet
+
+71
+00:02:29,550 --> 00:02:30,970
+dann darüber statt, dass wir erstmal
+
+72
+00:02:30,970 --> 00:02:33,390
+vom Ursprung zum Stützvektor gehen.
+
+73
+00:02:34,070 --> 00:02:35,110
+Also wir haben hier einen
+
+74
+00:02:35,110 --> 00:02:37,250
+Ursprungsvektor und dann geht es mit
+
+75
+00:02:37,250 --> 00:02:38,770
+einem Richtungsvektor weiter zum
+
+76
+00:02:38,770 --> 00:02:40,590
+Punkt B. Also wir verbinden Punkt A
+
+77
+00:02:40,590 --> 00:02:41,550
+und Punkt B über einen
+
+78
+00:02:41,550 --> 00:02:43,650
+Richtungsvektor. Dieser
+
+79
+00:02:43,650 --> 00:02:45,650
+Richtungsvektor hat eine Variable
+
+80
+00:02:45,650 --> 00:02:47,410
+Länge, damit auch wirklich alle
+
+81
+00:02:47,410 --> 00:02:48,990
+Punkte auf dieser Gramm definiert
+
+82
+00:02:48,990 --> 00:02:51,390
+werden können. Ja und ich hatte
+
+83
+00:02:51,390 --> 00:02:52,690
+vorhin schon mehrmals gesagt, Grad
+
+84
+00:02:52,690 --> 00:02:54,530
+sind unendlich lang, das wird auch
+
+85
+00:02:54,530 --> 00:02:58,170
+dadurch erreicht. Wir haben für
+
+86
+00:02:58,170 --> 00:03:00,290
+diesen Fall einfach mal Punkt A als
+
+87
+00:03:00,290 --> 00:03:02,430
+Stützvektor genommen. Dieser hat den
+
+88
+00:03:02,430 --> 00:03:05,710
+Punkt . Wenn wir daraus einen Vektor
+
+89
+00:03:05,710 --> 00:03:06,770
+machen wollen, müssen wir das einfach
+
+90
+00:03:06,770 --> 00:03:08,910
+untereinander schreiben. Dann lautet
+
+91
+00:03:08,910 --> 00:03:11,710
+der Vektor des Stützvektors . 3,
+
+92
+00:03:11,930 --> 00:03:14,830
+minus 1. Das ist unser Vektor A im
+
+93
+00:03:14,830 --> 00:03:18,890
+Folgenden. Und der Richtungsvektor
+
+94
+00:03:18,890 --> 00:03:21,290
+ist nur die Verschiebung von A nach
+
+95
+00:03:21,290 --> 00:03:27,390
+B. Und wie man diesen Richtungsvektor
+
+96
+00:03:27,390 --> 00:03:29,870
+dann berechnet, beziehungsweise den
+
+97
+00:03:29,870 --> 00:03:32,470
+Vektor an sich berechnet, es geht
+
+98
+00:03:32,470 --> 00:03:34,010
+einfach Punkt, wo wir hinwollen,
+
+99
+00:03:34,030 --> 00:03:36,210
+minus Punkt, wo wir herkommen. Also B
+
+100
+00:03:36,210 --> 00:03:38,230
+-Vektor minus A-Vektor. Es ist auch
+
+101
+00:03:38,230 --> 00:03:39,610
+gebräuchlich dieser Merksatz als
+
+102
+00:03:39,610 --> 00:03:43,710
+Spitze minus Fuß, also immer B minus
+
+103
+00:03:43,710 --> 00:03:46,690
+A-Vektor. Den B-Vektor müssen wir
+
+104
+00:03:46,690 --> 00:03:48,430
+dann erstmal ablesen, der ist 2,2,
+
+105
+00:03:48,970 --> 00:03:50,590
+als Vektor, wie gesagt, untereinander
+
+106
+00:03:50,590 --> 00:03:52,430
+geschrieben, minus unser A-Vektor,
+
+107
+00:03:52,430 --> 00:03:53,790
+den haben wir gerade gehabt, minus 3,
+
+108
+00:03:53,910 --> 00:03:56,490
+minus 1. Wir addieren oder
+
+109
+00:03:56,490 --> 00:03:58,370
+subtrahieren zwei Vektoren, indem wir
+
+110
+00:03:58,370 --> 00:04:00,270
+sie einfach gemäß der Vorzeichen
+
+111
+00:04:00,270 --> 00:04:02,590
+verrechnen, also 2, minus, minus 3
+
+112
+00:04:02,590 --> 00:04:05,450
+und 2, minus, minus 1. 1, 2, minus,
+
+113
+00:04:05,530 --> 00:04:08,310
+minus 3 ist 2 plus 3, also 5. Und 2,
+
+114
+00:04:08,430 --> 00:04:10,730
+minus, minus 1 ist 2 plus 1, also 3.
+
+115
+00:04:12,070 --> 00:04:14,290
+Unser Richtungsvektor lautet dann 5,
+
+116
+00:04:14,310 --> 00:04:17,530
+3. Das kann man auch hier noch sehen.
+
+117
+00:04:18,050 --> 00:04:20,730
+Dieses 5, 3 bedeutet, um zu Punkt B
+
+118
+00:04:20,730 --> 00:04:23,410
+zu bekommen, gehen wir 5 Einheiten in
+
+119
+00:04:23,410 --> 00:04:26,470
+x1-Richtung. Haben wir bis hier. Von
+
+120
+00:04:26,470 --> 00:04:27,690
+der minus 3 bis zu 2 sind 5
+
+121
+00:04:27,690 --> 00:04:29,830
+Einheiten. Und anschließend 3
+
+122
+00:04:29,830 --> 00:04:32,730
+Einheiten in x2-Richtung. Also von
+
+123
+00:04:32,730 --> 00:04:34,510
+der minus 1 bis zu 2 und da kommen
+
+124
+00:04:34,510 --> 00:04:35,830
+wir wirklich zu Punkt B. Der
+
+125
+00:04:35,830 --> 00:04:37,510
+Richtungsvektor ist also erstmal nur
+
+126
+00:04:37,510 --> 00:04:39,110
+die Verschiebung von Punkt A zu Punkt
+
+127
+00:04:39,110 --> 00:04:39,470
+B.
+
+128
+00:04:42,250 --> 00:04:43,790
+Wir sehen das Ganze jetzt hier einmal
+
+129
+00:04:43,790 --> 00:04:45,170
+im Dreidimensionalen. Das sieht jetzt
+
+130
+00:04:45,170 --> 00:04:46,730
+gleich wesentlich komplexer aus, aber
+
+131
+00:04:46,730 --> 00:04:48,950
+das Prinzip ändert sich nicht. Das
+
+132
+00:04:48,950 --> 00:04:50,030
+einzige, was wir jetzt haben, wir
+
+133
+00:04:50,030 --> 00:04:52,770
+haben eine dritte Koordinate. Wir
+
+134
+00:04:52,770 --> 00:04:54,870
+haben als Punkt A die Koordinaten 4,
+
+135
+00:04:54,890 --> 00:04:56,910
+2, minus 1. Als Vektor geschrieben
+
+136
+00:04:56,910 --> 00:05:00,950
+ist das dann 4, 2, minus 1. B hat den
+
+137
+00:05:00,950 --> 00:05:04,890
+Punkt minus 1, 3, 2. Als Koordinate
+
+138
+00:05:04,890 --> 00:05:06,830
+geschrieben ist es dann minus 1, 3,
+
+139
+00:05:06,910 --> 00:05:08,510
+2. Entschuldigung, als Vektor
+
+140
+00:05:08,510 --> 00:05:10,290
+geschrieben untereinander minus 1, 3,
+
+141
+00:05:10,350 --> 00:05:13,090
+2. Und den Richtungsvektor, also von
+
+142
+00:05:13,090 --> 00:05:14,710
+A nach B, berechnen wir hier auch
+
+143
+00:05:14,710 --> 00:05:16,830
+wieder durch B-Vektor minus A-Vektor.
+
+144
+00:05:17,070 --> 00:05:19,650
+Als Stützvektor haben wir wieder den
+
+145
+00:05:19,650 --> 00:05:21,070
+A-Vektor gewählt. Das haben wir hier
+
+146
+00:05:21,070 --> 00:05:22,570
+gemacht. SV ist die Abkürzung für
+
+147
+00:05:22,570 --> 00:05:25,330
+Stützvektor und RV die Abkürzung für
+
+148
+00:05:25,330 --> 00:05:29,410
+Richtungsvektor. Und wir sehen, das
+
+149
+00:05:29,410 --> 00:05:30,970
+Prinzip bleibt gleich. Erst einen
+
+150
+00:05:30,970 --> 00:05:32,930
+Stützvektor definieren und dann den
+
+151
+00:05:32,930 --> 00:05:34,570
+Richtungsvektor berechnen. Das ist
+
+152
+00:05:34,570 --> 00:05:36,610
+einfach dann der zweite Punkt minus
+
+153
+00:05:36,610 --> 00:05:38,310
+der Stützvektor, also P-Vektor minus
+
+154
+00:05:38,310 --> 00:05:41,330
+A-Vektor. In dem Fall minus 1, 3, 2,
+
+155
+00:05:41,470 --> 00:05:43,790
+minus 4, 2, minus 1. Also minus 1,
+
+156
+00:05:43,850 --> 00:05:45,070
+minus 4 ist minus 5.
+
+157
+00:05:49,510 --> 00:05:52,390
+Plus 1, also 3. Folglich ist das hier
+
+158
+00:05:52,390 --> 00:05:53,830
+unser Richtungsvektor und das hier
+
+159
+00:05:53,830 --> 00:05:54,830
+unser Stützvektor.
+
+160
+00:05:57,030 --> 00:05:58,170
+Letztendlich müssen wir diesen
+
+161
+00:05:58,170 --> 00:05:59,730
+Stützvektor und Richtungsvektor immer
+
+162
+00:05:59,730 --> 00:06:01,090
+nur noch in diesen Ansatz für eine
+
+163
+00:06:01,090 --> 00:06:03,090
+Geradengleichung eintragen. Und
+
+164
+00:06:03,090 --> 00:06:04,650
+dieser lautet x-Vektor ist gleich
+
+165
+00:06:04,650 --> 00:06:07,230
+unser Stützvektor plus ein Parameter
+
+166
+00:06:07,230 --> 00:06:09,350
+mal unser Richtungsvektor. Dieser
+
+167
+00:06:09,350 --> 00:06:11,030
+Parameter ist wie gesagt dafür da,
+
+168
+00:06:11,150 --> 00:06:13,910
+dass alle Punkte auf der Gerade
+
+169
+00:06:13,910 --> 00:06:15,030
+definiert sind und die Gerade auch
+
+170
+00:06:15,030 --> 00:06:19,550
+unendlich lang ist. Wichtig hierbei
+
+171
+00:06:19,550 --> 00:06:22,070
+ist aber noch, bitte verwendet immer
+
+172
+00:06:22,070 --> 00:06:24,270
+einen anderen Parameter. Immer wenn
+
+173
+00:06:24,270 --> 00:06:25,610
+ihr eine neue Gradengleichung
+
+174
+00:06:25,610 --> 00:06:27,790
+aufstellt oder eine andere, nutzt
+
+175
+00:06:27,790 --> 00:06:30,010
+einen anderen Parameter. Das hat
+
+176
+00:06:30,010 --> 00:06:31,150
+einfach den Hintergrund, dass wenn
+
+177
+00:06:31,150 --> 00:06:32,670
+ihr später mal die Lage von zwei
+
+178
+00:06:32,670 --> 00:06:33,870
+Graden zueinander bestimmen müsst,
+
+179
+00:06:33,930 --> 00:06:35,390
+weil man kann sowas auch im
+
+180
+00:06:35,390 --> 00:06:37,310
+Dreidimensionalen machen, dann ist es
+
+181
+00:06:37,310 --> 00:06:39,150
+sehr ungünstig, wenn ihr zweimal den
+
+182
+00:06:39,150 --> 00:06:40,350
+gleichen Parameter verwendet habt,
+
+183
+00:06:40,390 --> 00:06:41,210
+dann könnt ihr die nämlich nicht
+
+184
+00:06:41,210 --> 00:06:43,330
+auseinanderhalten. Diese Parameter
+
+185
+00:06:43,330 --> 00:06:44,830
+aus zwei verschiedenen Graden haben
+
+186
+00:06:44,830 --> 00:06:46,110
+nämlich nichts miteinander zu tun.
+
+187
+00:06:46,390 --> 00:06:48,270
+Deswegen macht euch das einfach ein
+
+188
+00:06:48,270 --> 00:06:49,290
+bisschen einfacher und verwendet
+
+189
+00:06:49,290 --> 00:06:51,610
+immer einen anderen Parameter bei
+
+190
+00:06:51,610 --> 00:06:52,750
+einer anderen Gradengleichung.
+
+191
+00:06:55,530 --> 00:06:57,710
+Gut, und so haben wir dann schon
+
+192
+00:06:57,710 --> 00:07:00,010
+unsere Gradengleichung definiert. Das
+
+193
+00:07:00,010 --> 00:07:01,050
+Ganze haben wir hier mal ein kleines
+
+194
+00:07:01,050 --> 00:07:02,270
+Beispiel gemacht. Wir haben unseren
+
+195
+00:07:02,270 --> 00:07:03,530
+Stützvektor berechnet und unseren
+
+196
+00:07:03,530 --> 00:07:05,470
+Richtungsvektor. Und hier ist nochmal
+
+197
+00:07:05,470 --> 00:07:07,550
+unser Ansatz. Zuerst unser
+
+198
+00:07:07,550 --> 00:07:09,670
+Stützungsvektor 1, minus 1,3, unser
+
+199
+00:07:09,670 --> 00:07:12,070
+Richtungsvektor 2,04 und unser
+
+200
+00:07:12,070 --> 00:07:13,610
+Parameter. Wir haben Lambda noch
+
+201
+00:07:13,610 --> 00:07:14,870
+nicht verwendet, deswegen verwenden
+
+202
+00:07:14,870 --> 00:07:18,110
+wir jetzt einfach mal Lambda. Und das
+
+203
+00:07:18,110 --> 00:07:19,450
+setzen wir jetzt hier alles ein und
+
+204
+00:07:19,450 --> 00:07:22,350
+erhalten so 1, minus 1,3 plus Lambda
+
+205
+00:07:22,350 --> 00:07:24,870
+mal 2,04. Also unser Stützvektor plus
+
+206
+00:07:24,870 --> 00:07:26,770
+Lambda mal unser Richtungsvektor.
+
+207
+00:07:27,290 --> 00:07:29,570
+Oder plus Parameter mal unser
+
+208
+00:07:29,570 --> 00:07:32,650
+Richtungsvektor. Und damit ist unsere
+
+209
+00:07:32,650 --> 00:07:33,790
+Gradengleichung auch schon fertig.
+
+210
+00:07:33,790 --> 00:07:37,400
+Hier haben wir das Ganze nochmal als
+
+211
+00:07:37,400 --> 00:07:39,520
+komplette Rechnung aufgeschrieben.
+
+212
+00:07:39,600 --> 00:07:41,520
+Wir starten mit zwei Punkten und
+
+213
+00:07:41,520 --> 00:07:43,800
+unsere Aufgabe ist es nun, die
+
+214
+00:07:43,800 --> 00:07:45,980
+Geradengleichung zu berechnen, die
+
+215
+00:07:45,980 --> 00:07:48,180
+diese beiden Punkte beinhaltet oder
+
+216
+00:07:48,180 --> 00:07:49,660
+die Gerade, die durch die beiden
+
+217
+00:07:49,660 --> 00:07:52,220
+Punkte aufgespannt wird, zu
+
+218
+00:07:52,220 --> 00:07:52,720
+berechnen.
+
+219
+00:07:55,350 --> 00:07:56,670
+Als erstes suchen wir uns wieder
+
+220
+00:07:56,670 --> 00:07:57,930
+einen der beiden Punkte aus, den wir
+
+221
+00:07:57,930 --> 00:07:59,290
+als Ortsvektor nehmen können, also
+
+222
+00:07:59,290 --> 00:08:01,390
+als Stützvektor. In der Regel nimmt
+
+223
+00:08:01,390 --> 00:08:02,630
+man immer Punkt A, man kann aber
+
+224
+00:08:02,630 --> 00:08:04,430
+genauso gut Punkt B nehmen. Es ist
+
+225
+00:08:04,430 --> 00:08:05,650
+aber gängig, Punkt A zu nehmen.
+
+226
+00:08:05,890 --> 00:08:07,610
+Schreiben diesen Stützvektor als
+
+227
+00:08:07,610 --> 00:08:09,110
+Vektor auf, das heißt untereinander,
+
+228
+00:08:09,150 --> 00:08:11,990
+minus 4, 10, 1. Und anschließend
+
+229
+00:08:11,990 --> 00:08:14,890
+schreiben wir uns den zweiten Punkt
+
+230
+00:08:14,890 --> 00:08:16,690
+auch erstmal als Vektor auf, also 6,
+
+231
+00:08:16,730 --> 00:08:19,650
+7, 8. Dann, das habe ich gerade schon
+
+232
+00:08:19,650 --> 00:08:20,950
+gesagt, definieren wir einen als
+
+233
+00:08:20,950 --> 00:08:22,210
+Stützvektor. Das haben wir als Punkt
+
+234
+00:08:22,210 --> 00:08:23,450
+A gemacht, weil es einfach gängig
+
+235
+00:08:23,450 --> 00:08:26,570
+ist. Und sobald der Stützvektor
+
+236
+00:08:26,570 --> 00:08:28,730
+definiert ist, berechnen wir unseren
+
+237
+00:08:28,730 --> 00:08:30,830
+Richtungsvektor. Der Richtungsvektor
+
+238
+00:08:30,830 --> 00:08:32,430
+ist wie gesagt immer der Punkt, der
+
+239
+00:08:32,430 --> 00:08:33,910
+übrig bleibt, minus unser
+
+240
+00:08:33,910 --> 00:08:36,590
+Stützvektor. Also Spitze minus Fuß.
+
+241
+00:08:37,930 --> 00:08:41,050
+Also bei uns ist das 6, 7, 8, minus,
+
+242
+00:08:41,230 --> 00:08:44,970
+minus 4, 10, 1. 1, 6, minus, minus 4
+
+243
+00:08:44,970 --> 00:08:46,730
+ist das gleiche wie 6 plus 4, minus
+
+244
+00:08:46,730 --> 00:08:50,870
+mal minus, ist 10. 7 minus 10 ist
+
+245
+00:08:50,870 --> 00:08:55,390
+minus 3, 8 minus 1 ist 7. Und das ist
+
+246
+00:08:55,390 --> 00:08:56,650
+dann nun schon unser Richtungsvektor.
+
+247
+00:08:56,810 --> 00:08:58,590
+Und damit haben wir unsere Arbeit
+
+248
+00:08:58,590 --> 00:08:59,970
+eigentlich schon getan. Wir kennen
+
+249
+00:08:59,970 --> 00:09:01,270
+unseren Stützvektor, wir kennen
+
+250
+00:09:01,270 --> 00:09:03,270
+unseren Richtungsvektor. Das Einzige,
+
+251
+00:09:03,270 --> 00:09:05,130
+was wir jetzt noch tun müssen, ist
+
+252
+00:09:05,130 --> 00:09:06,550
+unseren Stützvektor sowie unseren
+
+253
+00:09:06,550 --> 00:09:07,970
+Richtungsvektor in den Ansatz
+
+254
+00:09:07,970 --> 00:09:11,230
+einzufügen. Das hieß ja Stützvektor
+
+255
+00:09:11,230 --> 00:09:13,330
+plus Parameter mal Richtungsvektor.
+
+256
+00:09:13,470 --> 00:09:15,350
+Also bei uns heißt das jetzt minus 4,
+
+257
+00:09:15,410 --> 00:09:17,730
+10, 1 plus, in dem Fall wurde wieder
+
+258
+00:09:17,730 --> 00:09:19,570
+Lambda gewählt als Parameter. Also
+
+259
+00:09:19,570 --> 00:09:22,610
+Lambda mal 10, minus 3, 7. Und das
+
+260
+00:09:22,610 --> 00:09:23,490
+ist nun schon unsere
+
+261
+00:09:23,490 --> 00:09:25,930
+Geradengleichung. So funktioniert das
+
+262
+00:09:25,930 --> 00:09:27,070
+Aufstellen der Geradengleichung
+
+263
+00:09:27,070 --> 00:09:28,330
+immer, wenn man zwei Punkte gegeben
+
+264
+00:09:28,330 --> 00:09:31,290
+hat. Das ist auch wie gesagt immer
+
+265
+00:09:31,290 --> 00:09:35,540
+gleich. Und damit kommen wir auch
+
+266
+00:09:35,540 --> 00:09:39,100
+schon zu Ebenen. Ebenen sind ähnlich
+
+267
+00:09:39,100 --> 00:09:42,620
+wie Graden unendlich groß. Und eine
+
+268
+00:09:42,620 --> 00:09:44,500
+Ebene kann immer durch drei Punkte
+
+269
+00:09:44,500 --> 00:09:46,980
+definiert werden. Wichtig dabei ist,
+
+270
+00:09:47,040 --> 00:09:48,640
+diese drei Punkte dürfen nicht auf
+
+271
+00:09:48,640 --> 00:09:50,820
+einer Graden liegen, weil man sieht
+
+272
+00:09:50,820 --> 00:09:52,060
+hier ja schon, die Ebene wird
+
+273
+00:09:52,060 --> 00:09:56,080
+aufgespannt. So und so. Und wenn
+
+274
+00:09:56,080 --> 00:09:57,240
+diese drei Punkte jetzt auf einer
+
+275
+00:09:57,240 --> 00:09:58,780
+Graden liegen, dann spannen wir ja
+
+276
+00:09:58,780 --> 00:10:00,140
+nichts auf. Dann gehen wir einfach
+
+277
+00:10:00,140 --> 00:10:01,120
+nur so gerade durch, dann haben wir
+
+278
+00:10:01,120 --> 00:10:04,880
+eine Gerade. Deswegen müssen die drei
+
+279
+00:10:04,880 --> 00:10:07,040
+Punkte zwangsläufig nicht auf einer
+
+280
+00:10:07,040 --> 00:10:11,600
+Geraden liegen. Vom Prinzip her ist
+
+281
+00:10:11,600 --> 00:10:13,400
+das Aufspannen einer Ebene lediglich
+
+282
+00:10:13,400 --> 00:10:15,420
+das Aufstellen einer Geraden und dann
+
+283
+00:10:15,420 --> 00:10:17,140
+einen weiteren Richtungsvektor
+
+284
+00:10:17,140 --> 00:10:19,460
+inklusive Parameter dazu addieren, um
+
+285
+00:10:19,460 --> 00:10:21,900
+aus der Geraden eine Ebene zu machen.
+
+286
+00:10:23,800 --> 00:10:25,340
+Das Ganze sehen wir auch nochmal
+
+287
+00:10:25,340 --> 00:10:27,640
+hier. Wir haben hier drei punkte
+
+288
+00:10:27,640 --> 00:10:31,480
+gegeben abc ist hier unten welche
+
+289
+00:10:31,480 --> 00:10:33,700
+oben c hier oben daher bietet es sich
+
+290
+00:10:33,700 --> 00:10:35,600
+jetzt an oder man muss in dem fall
+
+291
+00:10:35,600 --> 00:10:39,280
+als stützvektor nehmen und der erste
+
+292
+00:10:39,280 --> 00:10:42,180
+richtungssektor geht von a nach b der
+
+293
+00:10:42,180 --> 00:10:43,860
+zweite richtungssektor geht von a
+
+294
+00:10:43,860 --> 00:10:48,780
+nach c ja also das prinzip hierbei
+
+295
+00:10:48,780 --> 00:10:49,940
+lautet auch als erstes ein
+
+296
+00:10:49,940 --> 00:10:51,320
+stützvektor definieren dass es bei
+
+297
+00:10:51,320 --> 00:10:53,640
+uns den stützvektor in vektor
+
+298
+00:10:53,640 --> 00:10:55,000
+schreibweise aufschreiben das Das
+
+299
+00:10:55,000 --> 00:10:56,900
+heißt 4, 2, minus 1, also
+
+300
+00:10:56,900 --> 00:10:58,180
+untereinander aufgeschrieben, nicht
+
+301
+00:10:58,180 --> 00:11:00,660
+mehr nebeneinander. Und danach kann
+
+302
+00:11:00,660 --> 00:11:02,500
+es schon weitergehen mit dem
+
+303
+00:11:02,500 --> 00:11:04,080
+Berechnen der in dem Fall zwei
+
+304
+00:11:04,080 --> 00:11:05,660
+Richtungsvektoren. Wie gesagt, um
+
+305
+00:11:05,660 --> 00:11:07,200
+eine Ebene aufzuspannen, braucht man
+
+306
+00:11:07,200 --> 00:11:09,980
+immer zwei Richtungsvektoren. Und das
+
+307
+00:11:09,980 --> 00:11:11,520
+entspricht dann eben drei Punkten.
+
+308
+00:11:13,040 --> 00:11:14,160
+Also wir fangen an mit
+
+309
+00:11:14,160 --> 00:11:15,980
+Richtungsvektor 1. Der geht von A
+
+310
+00:11:15,980 --> 00:11:18,020
+nach B. Man hätte genauso gut von A
+
+311
+00:11:18,020 --> 00:11:19,160
+nach C als Richtungsvektor 1
+
+312
+00:11:19,160 --> 00:11:20,500
+definieren können. Das ist völlig
+
+313
+00:11:20,500 --> 00:11:22,100
+wurscht, wie das gemacht wird.
+
+314
+00:11:24,980 --> 00:11:27,400
+Der Richtungsvektor von A nach B wird
+
+315
+00:11:27,400 --> 00:11:29,020
+dann berechnet durch B-Vektor minus A
+
+316
+00:11:29,020 --> 00:11:30,660
+-Vektor. Also hierbei gilt auch
+
+317
+00:11:30,660 --> 00:11:32,960
+Punkt, wo wir hinwollen, minus
+
+318
+00:11:32,960 --> 00:11:35,600
+Stützvektor oder Spitze minus Fuß, je
+
+319
+00:11:35,600 --> 00:11:36,580
+nachdem, was man sich am besten
+
+320
+00:11:36,580 --> 00:11:39,340
+merken kann. Also B-Vektor minus A
+
+321
+00:11:39,340 --> 00:11:42,820
+-Vektor. Unser b-Vektor ist minus 1,
+
+322
+00:11:42,980 --> 00:11:45,800
+3, 2 und minus unser a-Vektor, also
+
+323
+00:11:45,800 --> 00:11:48,880
+minus 4, 2, minus 1. Minus 1, minus 4
+
+324
+00:11:48,880 --> 00:11:52,640
+sind minus 5. 3, minus 2 ist 1 und 2,
+
+325
+00:11:52,760 --> 00:11:54,860
+minus minus 1 ist 2 plus 1,
+
+326
+00:11:54,920 --> 00:11:56,840
+beziehungsweise 3. Dann ist das hier
+
+327
+00:11:56,840 --> 00:11:59,080
+unser erster Richtungsvektor. Den
+
+328
+00:11:59,080 --> 00:12:00,860
+zweiten Richtungsvektor rechnen wir
+
+329
+00:12:00,860 --> 00:12:03,060
+äquivalent dazu aus. Wir müssen nur
+
+330
+00:12:03,060 --> 00:12:05,560
+anstatt den b-Vektor den c-Vektor
+
+331
+00:12:05,560 --> 00:12:08,000
+nehmen. Der c-Vektor ist 1, minus 1,
+
+332
+00:12:08,060 --> 00:12:09,440
+1, hier steht auch noch mal das Punkt
+
+333
+00:12:09,440 --> 00:12:11,960
+und wir rechnen jetzt halt c-Vektor,
+
+334
+00:12:11,960 --> 00:12:14,620
+minus a-Vektor, also minus 4, 2,
+
+335
+00:12:14,640 --> 00:12:17,380
+minus 1 wieder, 1, minus 4, ist eine
+
+336
+00:12:17,380 --> 00:12:20,140
+minus 3, minus 1, minus 2 ist auch
+
+337
+00:12:20,140 --> 00:12:22,760
+eine minus 3 und 1, minus minus 1 ist
+
+338
+00:12:22,760 --> 00:12:25,140
+1 plus 1, also 2. Und das ist damit
+
+339
+00:12:25,140 --> 00:12:28,420
+unser zweiter Richtungsvektor. Also
+
+340
+00:12:28,420 --> 00:12:29,780
+um eine Ebene aufzuspannen, braucht
+
+341
+00:12:29,780 --> 00:12:31,260
+ihr immer einen Stützvektor und zwei
+
+342
+00:12:31,260 --> 00:12:33,680
+Richtungsvektoren und diese setzt ihr
+
+343
+00:12:33,680 --> 00:12:35,300
+dann in diesen Ansatz ein. Das ist
+
+344
+00:12:35,300 --> 00:12:36,620
+wie gesagt der Ansatz für die
+
+345
+00:12:36,620 --> 00:12:40,320
+Ebenengleichung in Parameterform. Wie
+
+346
+00:12:40,320 --> 00:12:41,640
+zu Anfang des Webinars schon mal
+
+347
+00:12:41,640 --> 00:12:43,300
+gesagt, gibt es insgesamt drei
+
+348
+00:12:43,300 --> 00:12:44,860
+Darstellungsmöglichkeiten für eine
+
+349
+00:12:44,860 --> 00:12:47,200
+Ebene. Das ist eine der
+
+350
+00:12:47,200 --> 00:12:48,760
+Darstellungsmöglichkeiten und das ist
+
+351
+00:12:48,760 --> 00:12:50,960
+die Darstellungsmöglichkeit, die man
+
+352
+00:12:50,960 --> 00:12:53,400
+zuerst lernt, die Parameterform, und
+
+353
+00:12:53,400 --> 00:12:55,800
+auch die, mit der man oftmals
+
+354
+00:12:55,800 --> 00:12:57,300
+anfängt. Also in den meisten Fällen
+
+355
+00:12:57,300 --> 00:12:58,540
+werdet ihr hiermit anfangen. Immer
+
+356
+00:12:58,540 --> 00:13:00,220
+wenn ihr drei Punkte gegeben bekommt,
+
+357
+00:13:00,460 --> 00:13:03,020
+stellt ihr zuerst die Parameterform
+
+358
+00:13:03,020 --> 00:13:05,220
+auf. Und diese ist einfach
+
+359
+00:13:05,220 --> 00:13:08,160
+Stützvektor plus erster Parameter mal
+
+360
+00:13:08,160 --> 00:13:10,420
+erster Richtungsvektor plus zweiter
+
+361
+00:13:10,420 --> 00:13:11,580
+Parameter mal zweiter
+
+362
+00:13:11,580 --> 00:13:13,180
+Richtungsvektor. Hierbei ist ganz
+
+363
+00:13:13,180 --> 00:13:14,140
+wichtig, dass hier auch
+
+364
+00:13:14,140 --> 00:13:15,480
+unterschiedliche Parameter gewählt
+
+365
+00:13:15,480 --> 00:13:16,540
+werden. Ihr seht hier einmal ein
+
+366
+00:13:16,540 --> 00:13:18,520
+Lambda und ein µ. Also es müssen
+
+367
+00:13:18,520 --> 00:13:20,100
+zwangsläufig zwei verschiedene
+
+368
+00:13:20,100 --> 00:13:23,920
+Parameter gewählt werden. Die
+
+369
+00:13:23,920 --> 00:13:26,140
+Parameter sind hier einzubringen,
+
+370
+00:13:26,160 --> 00:13:27,820
+damit man die Längen dieser einzelnen
+
+371
+00:13:27,820 --> 00:13:30,060
+Richtungsvektoren verändern kann und
+
+372
+00:13:30,060 --> 00:13:31,820
+so wirklich alle Punkte auf der Ebene
+
+373
+00:13:31,820 --> 00:13:34,700
+definieren kann. werden. Auch hierbei
+
+374
+00:13:34,700 --> 00:13:40,440
+gilt wieder die Regel, dass man auf
+
+375
+00:13:40,440 --> 00:13:41,980
+keinen Fall Parameter mehrmals
+
+376
+00:13:41,980 --> 00:13:44,100
+verwenden sollte innerhalb einer
+
+377
+00:13:44,100 --> 00:13:48,460
+Aufgabe oder einer Klausur. Gut, dann
+
+378
+00:13:49,740 --> 00:13:51,800
+machen wir das einfach mal. Unser
+
+379
+00:13:51,800 --> 00:13:53,500
+Stützvektor lautet in diesem Beispiel
+
+380
+00:13:53,500 --> 00:13:57,020
+minus 4, 10, 1 und der erste
+
+381
+00:13:57,020 --> 00:13:59,860
+Richtungsvektor war 10, minus 37 der
+
+382
+00:13:59,860 --> 00:14:01,600
+zweite richtungsvektor lautete minus
+
+383
+00:14:01,600 --> 00:14:04,460
+3 minus 32 das heißt wenn wir das
+
+384
+00:14:04,460 --> 00:14:06,720
+alles eintragen erhalten wir dass er
+
+385
+00:14:06,720 --> 00:14:08,400
+als erstes unterstützt vektor plus
+
+386
+00:14:08,400 --> 00:14:09,960
+erster parameter mal erster
+
+387
+00:14:09,960 --> 00:14:11,660
+richtungsvektor plus zweiter
+
+388
+00:14:11,660 --> 00:14:13,240
+parameter als zweiter richtungsvektor
+
+389
+00:14:13,240 --> 00:14:16,640
+also einfach eingesetzt minus 4 10 1
+
+390
+00:14:16,640 --> 00:14:21,620
+plus lambda mal 10 minus 37 plus mal
+
+391
+00:14:21,620 --> 00:14:26,700
+minus 3 minus 32 und das ist dann
+
+392
+00:14:26,700 --> 00:14:28,320
+auch schon unsere Ebenengleichung in
+
+393
+00:14:28,320 --> 00:14:30,680
+der Parameterform. Also die
+
+394
+00:14:30,680 --> 00:14:31,880
+Parameterform ist immer dadurch
+
+395
+00:14:31,880 --> 00:14:32,960
+gekennzeichnet, dass man einen
+
+396
+00:14:32,960 --> 00:14:33,940
+Stützvektor und zwei
+
+397
+00:14:33,940 --> 00:14:38,210
+Richtungsvektoren hat. Die nächste
+
+398
+00:14:38,210 --> 00:14:40,230
+Darstellungsmöglichkeit einer Ebene
+
+399
+00:14:40,230 --> 00:14:42,810
+ist die sogenannte Normalenform. Die
+
+400
+00:14:42,810 --> 00:14:44,670
+Normalenform heißt Normalenform, weil
+
+401
+00:14:44,670 --> 00:14:46,490
+eine Ebene durch einen normalen
+
+402
+00:14:46,490 --> 00:14:48,110
+Vektor beschrieben wird. Ein normaler
+
+403
+00:14:48,110 --> 00:14:50,290
+Vektor ist ein Vektor, der senkrecht
+
+404
+00:14:50,290 --> 00:14:52,030
+auf der Ebene steht. Also der steht
+
+405
+00:14:52,030 --> 00:14:55,390
+komplett senkrecht zur Ebene, wie zum
+
+406
+00:14:55,390 --> 00:14:58,330
+Beispiel eine ideale Laterne, die
+
+407
+00:14:58,330 --> 00:15:00,370
+perfekt senkrecht auf einer Straße
+
+408
+00:15:00,370 --> 00:15:02,470
+steht. So kann man sich das
+
+409
+00:15:02,470 --> 00:15:03,730
+vorstellen. Dieser normalen Vektor
+
+410
+00:15:03,730 --> 00:15:07,730
+durchstößt die Ebene senkrecht, also
+
+411
+00:15:07,730 --> 00:15:10,210
+rechtwinklig. Und über diesen
+
+412
+00:15:10,210 --> 00:15:11,790
+normalen Vektor kann man nun auch die
+
+413
+00:15:11,790 --> 00:15:14,750
+Lage der Ebene beschreiben. Die Form
+
+414
+00:15:14,750 --> 00:15:16,690
+der normalen Form sieht so aus, es
+
+415
+00:15:16,690 --> 00:15:17,550
+ist streng genommen eine normale
+
+416
+00:15:17,550 --> 00:15:19,450
+Gleichung, weil es heißt immer gleich
+
+417
+00:15:19,450 --> 00:15:22,390
+0. Wir sehen hier als erstes eine
+
+418
+00:15:22,390 --> 00:15:24,730
+Klammer, x-Vektor minus sv, also
+
+419
+00:15:24,730 --> 00:15:27,070
+Stützvektor. Der Stützvektor hier ist
+
+420
+00:15:27,070 --> 00:15:28,610
+wie gesagt einfach nur ein Punkt, der
+
+421
+00:15:28,610 --> 00:15:32,150
+in der Ebene liegt. Also x-Vektor
+
+422
+00:15:32,150 --> 00:15:34,630
+minus Punkt in der Ebene mal der
+
+423
+00:15:34,630 --> 00:15:36,910
+normalen Vektor. Ihr seht, ihr
+
+424
+00:15:36,910 --> 00:15:38,810
+braucht hier nur einen Vektor, das
+
+425
+00:15:38,810 --> 00:15:41,710
+ist der normalen Vektor. Und damit,
+
+426
+00:15:41,910 --> 00:15:43,810
+ich denke da erkennt man jetzt schon
+
+427
+00:15:43,810 --> 00:15:45,050
+recht gut, wann man die normalen
+
+428
+00:15:45,050 --> 00:15:46,770
+Formen nutzt. immer wenn man einen
+
+429
+00:15:46,770 --> 00:15:48,570
+Vektor gegeben bekommt, der die Ebene
+
+430
+00:15:48,570 --> 00:15:50,050
+senkrecht schneidet oder wenn es
+
+431
+00:15:50,050 --> 00:15:51,110
+schon in der Aufgabe heißt, der
+
+432
+00:15:51,110 --> 00:15:52,990
+normalen Vektor, dann solltet ihr
+
+433
+00:15:52,990 --> 00:15:54,250
+direkt mit dieser normalen Form
+
+434
+00:15:54,250 --> 00:15:57,110
+anfangen. Gut, wie gesagt, wichtig
+
+435
+00:15:57,110 --> 00:16:00,710
+ist X-Vektor minus SV-Stützvektor.
+
+436
+00:16:00,770 --> 00:16:01,950
+Der Stützvektor ist einfach nur ein
+
+437
+00:16:01,950 --> 00:16:03,750
+Punkt, der in der Ebene liegt. Wenn
+
+438
+00:16:03,750 --> 00:16:05,830
+man von der Parameterform in die
+
+439
+00:16:05,830 --> 00:16:07,830
+normalen Formen umsteigt, trägt man
+
+440
+00:16:07,830 --> 00:16:09,070
+hier halt über den Stützvektor ein,
+
+441
+00:16:09,110 --> 00:16:10,550
+deswegen steht hier Stützvektor und
+
+442
+00:16:10,550 --> 00:16:12,310
+das Ganze mal der normalen Vektor.
+
+443
+00:16:12,950 --> 00:16:15,290
+Ich denke, ihr habt schon gemerkt,
+
+444
+00:16:15,490 --> 00:16:17,210
+den Stützvektor können wir wie gesagt
+
+445
+00:16:17,210 --> 00:16:18,310
+einfach hier eintragen, uns fehlt
+
+446
+00:16:18,310 --> 00:16:20,070
+aber der normalen Vektor. Wie kommen
+
+447
+00:16:20,070 --> 00:16:24,270
+wir dazu? Der normale Vektor steht ja
+
+448
+00:16:24,270 --> 00:16:26,050
+senkrecht zur Ebene, also wichtig in
+
+449
+00:16:26,050 --> 00:16:28,450
+zwei Richtungen. Egal, wo man jetzt
+
+450
+00:16:28,450 --> 00:16:29,850
+hier einen rechten Winkel ansetzen
+
+451
+00:16:29,850 --> 00:16:31,370
+würde, man könnte ihn so komplett
+
+452
+00:16:31,370 --> 00:16:32,030
+rumrotieren,
+
+453
+00:16:36,690 --> 00:16:39,030
+Und diesen normalen Vektor müssen wir
+
+454
+00:16:39,030 --> 00:16:42,730
+leider berechnen. Es gibt dafür auch
+
+455
+00:16:42,730 --> 00:16:44,010
+das Verfahren, das sogenannte
+
+456
+00:16:44,010 --> 00:16:45,530
+Kreuzprodukt. Damit kann man einen
+
+457
+00:16:45,530 --> 00:16:47,190
+normalen Vektor schnell berechnen.
+
+458
+00:16:47,310 --> 00:16:49,030
+Wir zeigen jetzt hier aber einmal,
+
+459
+00:16:49,090 --> 00:16:51,410
+wie man den normalen Vektor mit dem
+
+460
+00:16:51,410 --> 00:16:52,950
+Gleichungssystem berechnet. Und zwar
+
+461
+00:16:52,950 --> 00:16:55,270
+brauchen wir dafür das Skalarprodukt.
+
+462
+00:16:56,770 --> 00:16:58,350
+Wichtig ist, ein kleiner Rückblick
+
+463
+00:16:58,350 --> 00:17:00,690
+vielleicht, das Skalarprodukt von
+
+464
+00:17:00,690 --> 00:17:02,290
+zwei rechtwinklig zueinander
+
+465
+00:17:02,290 --> 00:17:04,250
+stehenden Vektoren ist immer 0. Also
+
+466
+00:17:04,250 --> 00:17:05,870
+immer wenn ihr das Skalarprodukt von
+
+467
+00:17:05,870 --> 00:17:08,730
+zwei Richtungsvektoren bildet und das
+
+468
+00:17:08,730 --> 00:17:10,850
+0 ist, wisst ihr, dass diese Vektoren
+
+469
+00:17:10,850 --> 00:17:13,310
+senkrecht aufeinander stehen. Und das
+
+470
+00:17:13,310 --> 00:17:15,150
+machen wir uns jetzt zu Nutze. Denn
+
+471
+00:17:15,150 --> 00:17:16,710
+wir wissen ja, unsere beiden
+
+472
+00:17:16,710 --> 00:17:18,310
+Richtungsvektoren aus der
+
+473
+00:17:18,310 --> 00:17:19,670
+Parameterform, ich gehe mal ganz kurz
+
+474
+00:17:19,670 --> 00:17:22,030
+zurück, das wäre ja hier, säße ja
+
+475
+00:17:22,030 --> 00:17:25,650
+einer, und hier. Diese müssen
+
+476
+00:17:25,650 --> 00:17:28,890
+zwangsläufig rechtwinklig zu unserem
+
+477
+00:17:28,890 --> 00:17:30,910
+normalen Vektor stehen. Und das ist
+
+478
+00:17:30,910 --> 00:17:32,190
+hier die Bedingung, die wir anführen.
+
+479
+00:17:32,270 --> 00:17:33,830
+Weil immer wenn zwei
+
+480
+00:17:33,830 --> 00:17:35,130
+Richtungsvektoren ja rechtwinklig
+
+481
+00:17:35,130 --> 00:17:35,950
+zueinander stehen, ist das
+
+482
+00:17:35,950 --> 00:17:38,350
+Skalarprodukt 0. Und mit diesem
+
+483
+00:17:38,350 --> 00:17:41,570
+Ansatz veröffnen wir jetzt unser
+
+484
+00:17:41,570 --> 00:17:45,150
+Gleichungssystem. Wir haben hier
+
+485
+00:17:45,150 --> 00:17:45,830
+immer noch die beiden
+
+486
+00:17:45,830 --> 00:17:46,970
+Richtungsvektoren aus unserem
+
+487
+00:17:46,970 --> 00:17:48,190
+Beispiel. Das heißt der erste
+
+488
+00:17:48,190 --> 00:17:50,270
+Richtungsvektor 10, minus 3, 7 und
+
+489
+00:17:50,270 --> 00:17:52,070
+der zweite Richtungsvektor minus 3,
+
+490
+00:17:52,170 --> 00:17:56,650
+minus 3, 2. Wir kommen so auf 10-3, 7
+
+491
+00:17:56,650 --> 00:18:01,650
+mal n1, n2, n3. Wir multiplizieren
+
+492
+00:18:01,650 --> 00:18:04,130
+Skalar, das bedeutet 10 mal n1 plus
+
+493
+00:18:04,130 --> 00:18:07,290
+minus 3 mal n2 plus 7 mal n3. Das ist
+
+494
+00:18:07,290 --> 00:18:11,030
+die erste Gleichung. Minus 3 mal n1
+
+495
+00:18:11,030 --> 00:18:14,150
+plus minus 3 mal n2 plus 2 mal n3 ist
+
+496
+00:18:14,150 --> 00:18:15,550
+die zweite Gleichung. Das ist die
+
+497
+00:18:15,550 --> 00:18:18,450
+hier. Ihr stellt aber jetzt schon
+
+498
+00:18:18,450 --> 00:18:20,650
+fest, wir haben nur zwei Gleichungen.
+
+499
+00:18:20,690 --> 00:18:22,070
+Eine Gleichung, zweite Gleichung.
+
+500
+00:18:22,090 --> 00:18:23,870
+Gleichung. Wir haben aber insgesamt
+
+501
+00:18:23,870 --> 00:18:27,490
+drei Unbekannte, N1, N2 und N3. Daher
+
+502
+00:18:27,490 --> 00:18:28,710
+liegt hier ein unterbestimmtes
+
+503
+00:18:28,710 --> 00:18:30,730
+Gleichungssystem vor. Um dieses
+
+504
+00:18:30,730 --> 00:18:32,210
+unterbestimmte Gleichungssystem
+
+505
+00:18:32,210 --> 00:18:34,190
+trotzdem lösen zu können, müssen wir
+
+506
+00:18:34,190 --> 00:18:35,630
+jetzt einen Parameter wählen,
+
+507
+00:18:35,670 --> 00:18:39,570
+beziehungsweise einer der Variablen,
+
+508
+00:18:39,610 --> 00:18:41,630
+also N1, N2, N3. Einer von den drei
+
+509
+00:18:41,630 --> 00:18:43,030
+müssen wir jetzt einen Wert zuordnen.
+
+510
+00:18:45,730 --> 00:18:47,110
+Welchen Wert ihr nehmt, ist
+
+511
+00:18:47,110 --> 00:18:50,070
+schlussendlich unwichtig. Ihr ändert
+
+512
+00:18:50,070 --> 00:18:51,790
+damit nur die Länge normalen Vektors
+
+513
+00:18:51,790 --> 00:18:52,910
+und das ist erstmal nicht wichtig.
+
+514
+00:18:53,670 --> 00:18:56,350
+Bei Vektoren geht es nämlich fast nie
+
+515
+00:18:56,350 --> 00:18:58,150
+um die Länge, sondern meistens nur um
+
+516
+00:18:58,150 --> 00:19:01,450
+die Richtung. Deswegen ist es gängig,
+
+517
+00:19:01,470 --> 00:19:06,010
+n1 einfach als 1 zu setzen. Das
+
+518
+00:19:06,010 --> 00:19:08,310
+heißt, wir setzen n1 als 1 und
+
+519
+00:19:08,310 --> 00:19:09,490
+dadurch erhalten wir nur noch zwei
+
+520
+00:19:09,490 --> 00:19:12,890
+unbekannte n2 und n3. Wir kommen so
+
+521
+00:19:12,890 --> 00:19:15,730
+zu 10 mal 1, also 10 und Und minus 3
+
+522
+00:19:15,730 --> 00:19:18,890
+mal 1, also minus 3. Also unser neues
+
+523
+00:19:18,890 --> 00:19:21,750
+Gleichungssystem ist 10 minus 3n2
+
+524
+00:19:21,750 --> 00:19:24,890
+plus 7n3 ist gleich 0. Und minus 3
+
+525
+00:19:24,890 --> 00:19:27,910
+minus 3n2 plus 2n3 ist gleich 0.
+
+526
+00:19:28,750 --> 00:19:30,210
+Dieses Gleichungssystem können wir
+
+527
+00:19:30,210 --> 00:19:33,210
+lösen. Wir erhalten dann für n2 minus
+
+528
+00:19:33,210 --> 00:19:36,370
+41 Fünfzehntel und für n3 minus 13
+
+529
+00:19:36,370 --> 00:19:39,890
+Fünftel. Man kann diesen normalen
+
+530
+00:19:39,890 --> 00:19:41,170
+Vektor natürlich ein bisschen schöner
+
+531
+00:19:41,170 --> 00:19:42,810
+machen, wenn man ihn jetzt mit 15
+
+532
+00:19:42,810 --> 00:19:46,610
+erweitern würde. Man käme dann auf
+
+533
+00:19:46,610 --> 00:19:56,450
+die Lösung 15, minus 41 und minus 39.
+
+534
+00:19:57,730 --> 00:19:59,590
+Dann hätte man einen Richtungsvektor
+
+535
+00:19:59,590 --> 00:20:02,710
+ohne die Brüche, einfach nur mit 15
+
+536
+00:20:02,710 --> 00:20:04,830
+erweitert, ginge auch. Dazu hätte man
+
+537
+00:20:04,830 --> 00:20:06,810
+einfach das N1 hier am Anfang nach 15
+
+538
+00:20:06,810 --> 00:20:08,690
+setzen sollen. Das heißt, wenn man
+
+539
+00:20:08,690 --> 00:20:10,950
+schon hier oben zufällig sieht, was
+
+540
+00:20:10,950 --> 00:20:14,290
+für ein Wert... Wert man N1 zuordnen
+
+541
+00:20:14,290 --> 00:20:15,950
+sollte, dann kann man dies auch tun,
+
+542
+00:20:16,070 --> 00:20:17,590
+dann sind die Zahlen am Ende ein
+
+543
+00:20:17,590 --> 00:20:20,310
+bisschen schöner. Und wenn wir
+
+544
+00:20:20,310 --> 00:20:21,810
+unseren normalen Vektor damit kennen,
+
+545
+00:20:21,950 --> 00:20:23,490
+setzen wir ihn auch einfach ein. Wie
+
+546
+00:20:23,490 --> 00:20:26,030
+gesagt, den Stützvektor nehmen wir
+
+547
+00:20:26,030 --> 00:20:28,590
+einfach so aus der Parameterform. Den
+
+548
+00:20:28,590 --> 00:20:29,710
+normalen Vektor müssen wir so
+
+549
+00:20:29,710 --> 00:20:31,110
+errechnen, wie gerade oder über das
+
+550
+00:20:31,110 --> 00:20:34,230
+Kreuzprodukt bestimmen. und so kommen
+
+551
+00:20:34,230 --> 00:20:36,370
+wir dann zu x-Vektor, minus, minus 4,
+
+552
+00:20:36,450 --> 00:20:39,850
+10, 1, Skalar multipliziert mit 1,
+
+553
+00:20:39,970 --> 00:20:43,570
+minus 41, 15, minus 13, 5, und das
+
+554
+00:20:43,570 --> 00:20:44,810
+ist gleich 0, deswegen heißt es
+
+555
+00:20:44,810 --> 00:20:45,510
+eigentlich auch die normale
+
+556
+00:20:45,510 --> 00:20:48,930
+Gleichung. Damit haben wir die
+
+557
+00:20:48,930 --> 00:20:50,570
+normale Form, das ist sie auch schon.
+
+558
+00:20:50,770 --> 00:20:52,270
+Wenn ihr jetzt irgendwie wissen
+
+559
+00:20:52,270 --> 00:20:54,010
+wollt, ob ein Punkt auf der Ebene
+
+560
+00:20:54,010 --> 00:20:55,690
+liegt, setzt ihr einfach euren Punkt
+
+561
+00:20:55,690 --> 00:20:58,090
+hier ein mit x1, x2, x3 und dann
+
+562
+00:20:58,090 --> 00:20:59,270
+könnt ihr gucken, ob hier eine wahre
+
+563
+00:20:59,270 --> 00:21:01,470
+Aussage entsteht. Das heißt, erst in
+
+564
+00:21:01,470 --> 00:21:02,570
+der Klammer die beiden Vektoren
+
+565
+00:21:02,570 --> 00:21:03,590
+verrechnen, dann Skalar
+
+566
+00:21:03,590 --> 00:21:04,950
+multiplizieren und dann muss da 0
+
+567
+00:21:04,950 --> 00:21:06,190
+rauskommen. Wenn da keine 0
+
+568
+00:21:06,190 --> 00:21:07,250
+rauskommt, liegt der Punkt
+
+569
+00:21:07,250 --> 00:21:08,710
+entsprechend nicht auf der Ebene.
+
+570
+00:21:11,060 --> 00:21:12,320
+Damit haben wir jetzt zwei
+
+571
+00:21:12,320 --> 00:21:13,900
+Darstellungsmöglichkeiten behandelt.
+
+572
+00:21:14,300 --> 00:21:15,800
+Es fehlt natürlich noch die dritte
+
+573
+00:21:15,800 --> 00:21:17,880
+und das ist die Koordinatenform. Die
+
+574
+00:21:17,880 --> 00:21:19,700
+Koordinatenform geht eigentlich genau
+
+575
+00:21:19,700 --> 00:21:20,740
+darauf ein, was ich gerade schon mal
+
+576
+00:21:20,740 --> 00:21:22,440
+gesagt habe, nur dass wir keinen
+
+577
+00:21:22,440 --> 00:21:24,640
+Punkt einsetzen, sondern wir wollen
+
+578
+00:21:24,640 --> 00:21:28,720
+dieses Skalarprodukt auflösen oder
+
+579
+00:21:28,720 --> 00:21:31,920
+ausführen und daher rechnen wir das
+
+580
+00:21:31,920 --> 00:21:34,380
+aus. Dieser x-Vektor hat natürlich
+
+581
+00:21:34,380 --> 00:21:38,940
+ein x1, ein x2 und ein x3. Deswegen
+
+582
+00:21:38,940 --> 00:21:42,920
+rechnen wir vom Prinzip her x1 minus
+
+583
+00:21:42,920 --> 00:21:47,500
+minus 4, x2 minus 10. und x3 minus 1.
+
+584
+00:21:49,780 --> 00:21:52,160
+Also man geht dahin einfach vor, man
+
+585
+00:21:52,160 --> 00:21:53,600
+multipliziert das, was hier drin
+
+586
+00:21:53,600 --> 00:21:56,080
+steht, mal 1 plus das, was hier drin
+
+587
+00:21:56,080 --> 00:21:59,680
+steht, mal minus 41 Fünftel plus das,
+
+588
+00:21:59,760 --> 00:22:01,940
+was hier unten steht, mal minus 13
+
+589
+00:22:01,940 --> 00:22:04,440
+Fünftel. Man kann auch hier das
+
+590
+00:22:04,440 --> 00:22:05,940
+Einzel multiplizieren. Das bedeutet
+
+591
+00:22:05,940 --> 00:22:12,220
+einmal x1 minus minus 4 mal 1. Das
+
+592
+00:22:12,220 --> 00:22:15,480
+haben wir eine Sekunde. Haben wir
+
+593
+00:22:15,480 --> 00:22:19,300
+hier. Minus, minus 4 mal 1. Dann geht
+
+594
+00:22:19,300 --> 00:22:22,400
+es weiter. Minus 41 Fünfzehntel mal
+
+595
+00:22:22,400 --> 00:22:27,120
+x2. Also minus 41 Fünfzehntel x2. Und
+
+596
+00:22:27,120 --> 00:22:27,860
+dann geht es natürlich auch noch
+
+597
+00:22:27,860 --> 00:22:30,700
+weiter. Minus 41 Fünfzehntel mal
+
+598
+00:22:30,700 --> 00:22:34,320
+minus 10. Das ist der Teil hier. Und
+
+599
+00:22:34,320 --> 00:22:37,220
+zu guter Letzt minus 13 Fünftel mal
+
+600
+00:22:37,220 --> 00:22:39,800
+x3. Also hier minus 13 Fünftel mal
+
+601
+00:22:39,800 --> 00:22:44,500
+x3. Und minus 13 Fünftel mal minus 1.
+
+602
+00:22:44,640 --> 00:22:47,700
+Das haben wir hier. Das kann man dann
+
+603
+00:22:47,700 --> 00:22:49,380
+einfach ausrechnen. So kommen wir auf
+
+604
+00:22:49,380 --> 00:22:52,380
+x1 minus 41 Fünfzehntel x2 minus 3
+
+605
+00:22:52,380 --> 00:22:55,660
+Fünftel x3. Das was hier hinten
+
+606
+00:22:55,660 --> 00:22:58,040
+steht, diese Multiplikationen mit den
+
+607
+00:22:58,040 --> 00:22:59,440
+Brüchen, das kann man einfach so im
+
+608
+00:22:59,440 --> 00:23:01,420
+Taschenrechner eingeben. Und dann
+
+609
+00:23:01,420 --> 00:23:05,620
+kommt daraus 509 Fünfzehntel. Und es
+
+610
+00:23:05,620 --> 00:23:06,620
+gibt da jetzt zwei verschiedene
+
+611
+00:23:06,620 --> 00:23:07,760
+Möglichkeiten wie man es machen kann.
+
+612
+00:23:07,760 --> 00:23:10,920
+entweder man sammelt seine variablen
+
+613
+00:23:10,920 --> 00:23:14,080
+x12 und 3 auf der linken seite und
+
+614
+00:23:14,080 --> 00:23:16,160
+auf der rechten seite den zugehörigen
+
+615
+00:23:16,160 --> 00:23:18,840
+wert oder man stellt es nach null um
+
+616
+00:23:18,840 --> 00:23:21,500
+das ist aber das hängt je nachdem was
+
+617
+00:23:21,500 --> 00:23:23,360
+man vor hat und womit man besser
+
+618
+00:23:23,360 --> 00:23:24,980
+zurecht kommt das ist also und
+
+619
+00:23:24,980 --> 00:23:28,860
+wichtig oder steht gut damit wären
+
+620
+00:23:28,860 --> 00:23:30,080
+wir auch schon am ende des webinars
+
+621
+00:23:30,080 --> 00:23:32,000
+ich bedanke mich recht herzlich für
+
+622
+00:23:32,000 --> 00:23:33,020
+eure aufmerksamkeit
+

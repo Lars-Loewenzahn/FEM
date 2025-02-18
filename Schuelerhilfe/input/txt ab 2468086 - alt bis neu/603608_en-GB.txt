@@ -1,0 +1,566 @@
+﻿1
+00:00:00,020 --> 00:00:01,500
+Hi and welcome to the 
+
+2
+00:00:01,500 --> 00:00:02,960
+Latin learning videos from Schülerhilfe. 
+
+3
+00:00:03,020 --> 00:00:05,400
+I'm Tim and today we're talking about 
+
+4
+00:00:05,400 --> 00:00:07,640
+the formation of the PPP, i.e. the past 
+participle 
+
+5
+00:00:07,640 --> 00:00:11,060
+passive. The PPP is one 
+
+6
+00:00:11,060 --> 00:00:12,840
+of three participles in Latin. 
+
+7
+00:00:13,400 --> 00:00:15,060
+
+8
+00:00:15,060 --> 00:00:16,460
+You can find separate videos on the other 
+two participles . 
+
+9
+00:00:17,560 --> 00:00:19,120
+So let's take a 
+
+10
+00:00:19,120 --> 00:00:21,940
+closer look at the PPP . The basic rule 
+for forming the 
+
+11
+00:00:21,940 --> 00:00:26,400
+PPP is that we 
+
+12
+00:00:26,400 --> 00:00:31,640
+need the verb stem plus T plus 
+
+13
+00:00:31,640 --> 00:00:35,660
+the case endings of the A and O 
+
+14
+00:00:35,660 --> 00:00:38,600
+ declensions. However, there are some 
+
+15
+00:00:38,600 --> 00:00:39,200
+exceptions. 
+
+16
+00:00:42,040 --> 00:00:43,680
+Let's take a look at the sound laws for 
+
+17
+00:00:43,680 --> 00:00:46,700
+consonantal stems. If the T 
+
+18
+00:00:46,700 --> 00:00:49,400
+follows a consonant 
+
+19
+00:00:49,400 --> 00:00:52,140
+, certain sound changes occur . 
+
+20
+00:00:52,140 --> 00:00:52,820
+I would like to introduce these to you 
+now. 
+
+21
+00:00:56,580 --> 00:01:00,280
+If the T follows another T or 
+
+22
+00:01:00,340 --> 00:01:02,300
+a D, 
+
+23
+00:01:04,830 --> 00:01:07,710
+a sound change is made and 
+
+24
+00:01:07,710 --> 00:01:11,090
+the double T or D-T is changed to an S or 
+
+25
+00:01:11,090 --> 00:01:12,670
+double S. 
+
+26
+00:01:15,380 --> 00:01:18,260
+If the T follows a C, a Q-U, 
+
+27
+00:01:18,360 --> 00:01:22,260
+a G or an H, it becomes 
+
+28
+00:01:22,260 --> 00:01:27,720
+C-T. If the T follows an M, it 
+
+29
+00:01:27,720 --> 00:01:34,420
+becomes M-P. Or if it follows a B or 
+
+30
+00:01:34,420 --> 00:01:39,040
+P, it becomes a PT. 
+
+31
+00:01:39,040 --> 00:01:40,460
+I'll show you 
+
+32
+00:01:40,460 --> 00:01:41,700
+a few more examples of these sound changes 
+in a moment. 
+
+33
+00:01:45,370 --> 00:01:49,630
+Attention! The verb stem is not 
+
+34
+00:01:49,630 --> 00:01:51,730
+always identical to the present tense 
+stem. 
+
+35
+00:01:54,550 --> 00:01:57,070
+Let's take a look at the different 
+
+36
+00:01:57,070 --> 00:02:00,250
+conjugations. The A conjugation. 
+
+37
+00:02:01,050 --> 00:02:06,810
+Here the PPP ends in atom. Verbs 
+
+38
+00:02:06,810 --> 00:02:09,610
+in the A conjugation with perfect Ui 
+
+39
+00:02:09,610 --> 00:02:14,370
+end in Itum in the PPP. Here are two 
+
+40
+00:02:14,370 --> 00:02:14,950
+examples. 
+
+41
+00:02:17,560 --> 00:02:23,380
+Dare is the infinitive. In the PPP 
+
+42
+00:02:23,380 --> 00:02:26,980
+it is Datum and means 
+
+43
+00:02:26,980 --> 00:02:32,800
+given . Sonare with the perfect Sono 
+
+44
+00:02:32,800 --> 00:02:36,700
+-I has the PPP Sonitum. 
+
+45
+00:02:38,320 --> 00:02:40,620
+Sonitum means sounded in German. 
+
+46
+00:02:41,280 --> 00:02:45,880
+The I-conjugation. If the perfect tense 
+
+47
+00:02:45,880 --> 00:02:48,560
+of I-conjugation verbs 
+
+48
+00:02:48,560 --> 00:02:53,980
+ends in I-Wi , the PPP ends in Itum. With 
+
+49
+00:02:53,980 --> 00:02:57,360
+other perfects, a T is 
+
+50
+00:02:57,360 --> 00:03:01,240
+added to the stem without an I. 
+
+51
+00:03:01,240 --> 00:03:05,800
+Let's take a look at two examples. The 
+
+52
+00:03:05,800 --> 00:03:07,000
+PPP comes from audire and means 
+
+53
+00:03:07,000 --> 00:03:11,340
+to hear. The PPP is therefore auditum, 
+
+54
+00:03:11,340 --> 00:03:11,860
+heard. 
+
+55
+00:03:14,910 --> 00:03:21,020
+Aperire, the perfect tense is Aparui. The 
+
+56
+00:03:21,020 --> 00:03:26,200
+PPP is apertum. So the I is missing here. 
+
+57
+00:03:27,920 --> 00:03:29,920
+Apertum means open. 
+
+58
+00:03:33,640 --> 00:03:35,100
+Let's take a look at the E conjugation. 
+
+59
+00:03:35,960 --> 00:03:38,100
+When the perfect tense of verbs in the E 
+
+60
+00:03:38,100 --> 00:03:40,640
+ conjugation ends in E like N... 
+
+61
+00:03:40,640 --> 00:03:46,560
+the PPP ends in etum. 
+
+62
+00:03:46,560 --> 00:03:49,560
+If the perfect tense verbs end in ui, the 
+
+63
+00:03:49,560 --> 00:03:53,940
+PPP ends in itum, not etum. And in 
+
+64
+00:03:53,940 --> 00:03:56,300
+other perfect tenses, the e is not part 
+
+65
+00:03:56,300 --> 00:03:59,900
+of the stem. Here are a few examples. 
+
+66
+00:04:01,920 --> 00:04:07,200
+Flevi, the PPP is fletum and 
+
+67
+00:04:07,200 --> 00:04:11,780
+it means cried. Monoi comes from 
+
+68
+00:04:11,780 --> 00:04:16,560
+monere, the PPP is monitum 
+
+69
+00:04:16,560 --> 00:04:18,160
+and this means admonished in German. 
+
+70
+00:04:18,480 --> 00:04:23,240
+And finally videre, the perfect tense 
+
+71
+00:04:23,240 --> 00:04:30,040
+is vidi and here a T is attached to 
+
+72
+00:04:30,040 --> 00:04:32,800
+the D, but since we 
+
+73
+00:04:32,800 --> 00:04:34,560
+have a sound change because the T follows 
+a 
+
+74
+00:04:34,560 --> 00:04:37,780
+D, it becomes an S and the 
+
+75
+00:04:37,780 --> 00:04:41,060
+PPP is visum . That means seen. 
+
+76
+00:04:44,350 --> 00:04:45,690
+Let's take a look at the 
+
+77
+00:04:45,690 --> 00:04:50,150
+consonant conjugation. Here 
+
+78
+00:04:50,150 --> 00:04:52,470
+you have to observe the sound laws 
+
+79
+00:04:52,550 --> 00:04:54,790
+that we 
+
+80
+00:04:54,790 --> 00:04:57,110
+have just discussed together. This is 
+because consonant 
+
+81
+00:04:57,110 --> 00:04:59,870
+verbs end 
+
+82
+00:04:59,870 --> 00:05:03,110
+in a consonant in their word stem. And 
+when the T 
+
+83
+00:05:03,110 --> 00:05:05,630
+follows a consonant, 
+
+84
+00:05:05,630 --> 00:05:09,790
+there are certain sound changes. Some 
+verbs 
+
+85
+00:05:09,790 --> 00:05:13,910
+in the present tense have an N or an M. 
+
+86
+00:05:14,170 --> 00:05:18,250
+This is called nasal. And this 
+
+87
+00:05:18,250 --> 00:05:23,580
+decays in the PPP. Let's take a look at 
+
+88
+00:05:23,580 --> 00:05:29,680
+a few examples. Consular. The 
+
+89
+00:05:29,680 --> 00:05:32,040
+PPP is Konsultum and means 
+
+90
+00:05:32,040 --> 00:05:38,220
+consulted. Constiturare. The PPP is 
+
+91
+00:05:38,220 --> 00:05:40,460
+constitutum. And that means 
+
+92
+00:05:40,460 --> 00:05:41,040
+decided. 
+
+93
+00:05:44,100 --> 00:05:48,440
+In the word relinquere we now have 
+
+94
+00:05:48,440 --> 00:05:51,160
+a nasal, i.e. an N. This 
+
+95
+00:05:51,160 --> 00:05:55,420
+decays in the PPP and becomes relictum, 
+
+96
+00:05:55,440 --> 00:05:58,440
+left behind. Consonantal 
+
+97
+00:05:58,440 --> 00:06:01,820
+verbs that end in der and whose 
+
+98
+00:06:01,820 --> 00:06:05,160
+perfect tense ends in didi form 
+
+99
+00:06:05,160 --> 00:06:09,660
+the PPP in ditum. Redere, 
+
+100
+00:06:09,660 --> 00:06:13,520
+to give back. The PPP is redditum, 
+
+101
+00:06:13,600 --> 00:06:14,780
+returned. 
+
+102
+00:06:17,360 --> 00:06:19,260
+Finally, let's look at the mixed 
+
+103
+00:06:19,260 --> 00:06:21,740
+conjugation. In the mixed conjugation 
+
+104
+00:06:21,740 --> 00:06:25,760
+, the short I of the 
+
+105
+00:06:25,760 --> 00:06:29,260
+present tense stem does not belong to the 
+verb stem. That 
+
+106
+00:06:29,260 --> 00:06:34,340
+is, Fackere machen. The PPP is 
+
+107
+00:06:34,340 --> 00:06:39,020
+fact and not fackitum. It means 
+
+108
+00:06:39,020 --> 00:06:42,840
+made. Kappere is not. Kapitum, 
+
+109
+00:06:42,840 --> 00:06:45,900
+but Kaptum. So the I expires. 
+
+110
+00:06:49,000 --> 00:06:50,940
+Kaptum means made. 
+
+111
+00:06:58,920 --> 00:07:01,300
+With most perfects in wie 
+
+112
+00:07:01,300 --> 00:07:04,040
+, you replace the wie in the PPP 
+
+113
+00:07:04,040 --> 00:07:04,860
+with tum. 
+
+114
+00:07:07,570 --> 00:07:10,910
+So they advertise. Avients 
+
+115
+00:07:10,910 --> 00:07:13,850
+become atum. For example, stravi 
+
+116
+00:07:13,850 --> 00:07:15,730
+becomes stratum and means 
+
+117
+00:07:15,730 --> 00:07:19,210
+spread out. Evi 
+
+118
+00:07:19,210 --> 00:07:22,410
+regularly becomes etum, so the word 
+
+119
+00:07:22,410 --> 00:07:26,430
+flevi in the perfect tense, the PPP is 
+
+120
+00:07:26,430 --> 00:07:32,610
+fletum, cried. Ivi, the PPP 
+
+121
+00:07:32,610 --> 00:07:35,810
+ends in itum, so for example pettivi 
+
+122
+00:07:35,810 --> 00:07:38,610
+is the perfect tense of petare 
+
+123
+00:07:38,610 --> 00:07:43,390
+, the PPP is pettitum, requested. Ovi, 
+
+124
+00:07:43,470 --> 00:07:46,930
+as a perfect ending, the PPP 
+
+125
+00:07:46,930 --> 00:07:53,410
+is otum. So movi in the perfect tense, 
+motum in the 
+
+126
+00:07:53,410 --> 00:07:56,850
+PPP, which means moved. And 
+
+127
+00:07:56,850 --> 00:08:00,130
+finally uvi as a perfect ending. 
+
+128
+00:08:00,750 --> 00:08:06,120
+The PPP becomes utum. For example, 
+
+129
+00:08:06,120 --> 00:08:10,040
+adiuvi, where 
+
+130
+00:08:10,040 --> 00:08:14,440
+the past participle is adiutum, helped. 
+
+131
+00:08:18,990 --> 00:08:23,050
+Most perfects end in 
+
+132
+00:08:23,050 --> 00:08:29,970
+sum in the PPP. So läsi, the PPP is 
+
+133
+00:08:29,970 --> 00:08:34,650
+läsum and means hurt. Mansi in the 
+
+134
+00:08:34,650 --> 00:08:38,570
+perfect, mansum in the PPP remained. 
+
+135
+00:08:43,240 --> 00:08:45,720
+Since there is no regular formation of the 
+
+136
+00:08:45,720 --> 00:08:48,640
+PPP, you should 
+
+137
+00:08:48,640 --> 00:08:50,640
+always learn the fourth stem form. 
+
+138
+00:08:52,200 --> 00:08:54,160
+Thank you for your attention 
+
+139
+00:08:54,320 --> 00:08:55,100
+and see you next time. 

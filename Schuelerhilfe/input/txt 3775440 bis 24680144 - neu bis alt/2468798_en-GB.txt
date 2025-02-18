@@ -1,0 +1,898 @@
+﻿1
+00:00:07,440 --> 00:00:10,300
+Hello everyone. First of all, a quick 
+
+2
+00:00:10,300 --> 00:00:11,840
+query. If you 
+
+3
+00:00:11,840 --> 00:00:13,700
+can hear me , I would ask you to just 
+
+4
+00:00:13,700 --> 00:00:15,640
+write into the chat so 
+
+5
+00:00:15,680 --> 00:00:18,340
+that I can see that this is 
+
+6
+00:00:18,340 --> 00:00:19,100
+working with the audio. 
+
+7
+00:00:24,250 --> 00:00:27,610
+Okay, great. My name is Yannick, 
+
+8
+00:00:27,730 --> 00:00:29,370
+I'm from Schülerhilfe and I' 
+
+9
+00:00:29,370 --> 00:00:31,150
+m going to talk to you today in this 
+
+10
+00:00:31,150 --> 00:00:32,790
+webinar about dealing with 
+
+11
+00:00:32,790 --> 00:00:35,070
+non-fiction texts. And we're going to 
+
+12
+00:00:35,070 --> 00:00:37,990
+
+13
+00:00:37,990 --> 00:00:39,470
+look at the following two topics : how do 
+
+14
+00:00:39,470 --> 00:00:42,730
+I write a summary and how do 
+
+15
+00:00:42,730 --> 00:00:45,030
+I deal with tables and statistics 
+
+16
+00:00:45,030 --> 00:00:46,830
+that are often 
+
+17
+00:00:46,830 --> 00:00:48,590
+used in factual texts , and how can I 
+
+18
+00:00:48,590 --> 00:00:51,670
+then 
+
+19
+00:00:51,670 --> 00:00:53,050
+integrate the whole thing into my 
+analysis. 
+
+20
+00:00:54,690 --> 00:00:57,250
+First of all, let's 
+
+21
+00:00:57,250 --> 00:00:59,890
+differentiate between two categories: 
+
+22
+00:00:59,890 --> 00:01:02,990
+non-fictional 
+
+23
+00:01:02,990 --> 00:01:05,770
+
+24
+00:01:05,770 --> 00:01:08,030
+texts and fictional texts. So a 
+non-fictional text 
+
+25
+00:01:08,030 --> 00:01:10,530
+is a reference to the tangible world. 
+
+26
+00:01:10,890 --> 00:01:13,830
+The whole thing can be verified by place, 
+
+27
+00:01:13,970 --> 00:01:16,270
+time, person and plot. 
+
+28
+00:01:16,450 --> 00:01:19,130
+And examples of this 
+
+29
+00:01:19,130 --> 00:01:21,690
+include a news report 
+
+30
+00:01:21,690 --> 00:01:24,050
+, a 
+
+31
+00:01:24,050 --> 00:01:27,010
+feature story, a reportage 
+
+32
+00:01:27,010 --> 00:01:29,970
+, an interview or an advertisement 
+
+33
+00:01:29,970 --> 00:01:33,950
+. A fictional text, 
+
+34
+00:01:34,230 --> 00:01:37,190
+i.e. something fictional, refers 
+
+35
+00:01:37,190 --> 00:01:40,370
+to the fact that it is an invented, 
+
+36
+00:01:40,370 --> 00:01:43,750
+imagined, fictitious, virtual 
+
+37
+00:01:43,750 --> 00:01:45,750
+reality, an 
+
+38
+00:01:45,750 --> 00:01:49,470
+invented world. It can be, for 
+
+39
+00:01:49,470 --> 00:01:52,330
+example, drama, poetry or epic 
+
+40
+00:01:52,330 --> 00:01:54,150
+texts, such as short stories, 
+
+41
+00:01:54,910 --> 00:01:58,770
+fables, novellas or novels. 
+
+42
+00:01:58,770 --> 00:01:59,770
+
+43
+00:02:01,820 --> 00:02:03,860
+So if I 
+
+44
+00:02:03,860 --> 00:02:06,840
+want to write a summary . This 
+
+45
+00:02:06,840 --> 00:02:09,080
+summary provides brief and 
+
+46
+00:02:09,080 --> 00:02:10,700
+factual information about the content of a 
+
+47
+00:02:10,700 --> 00:02:13,260
+text. It is always written in the simple 
+
+48
+00:02:13,260 --> 00:02:15,640
+present tense. It 
+
+49
+00:02:15,640 --> 00:02:17,500
+does not contain any personal assessments 
+or 
+
+50
+00:02:17,500 --> 00:02:19,480
+opinions and is limited 
+
+51
+00:02:19,480 --> 00:02:20,360
+to the most important 
+
+52
+00:02:20,360 --> 00:02:23,380
+information. And as a 
+
+53
+00:02:23,380 --> 00:02:25,940
+rule of thumb, the summary should never 
+
+54
+00:02:25,940 --> 00:02:27,160
+be longer than a third of the 
+
+55
+00:02:27,160 --> 00:02:30,420
+original text. It is just as important 
+
+56
+00:02:30,420 --> 00:02:34,600
+that the summary is written in your 
+
+57
+00:02:34,600 --> 00:02:36,760
+own words. This means that 
+
+58
+00:02:36,760 --> 00:02:39,840
+
+59
+00:02:39,840 --> 00:02:42,040
+
+60
+00:02:42,040 --> 00:02:44,220
+you should not copy and paste entire 
+sentences from the original text , but 
+rather 
+
+61
+00:02:44,220 --> 00:02:46,240
+try to convey the content in your 
+
+62
+00:02:46,240 --> 00:02:49,000
+own words 
+
+63
+00:02:51,240 --> 00:02:52,820
+. 
+
+64
+00:02:56,070 --> 00:02:58,470
+A few tips and hints for a 
+
+65
+00:02:58,470 --> 00:03:01,130
+successful summary. Read the text 
+
+66
+00:03:01,130 --> 00:03:02,330
+thoroughly and underline 
+
+67
+00:03:02,330 --> 00:03:04,350
+key terms. These are also 
+
+68
+00:03:04,350 --> 00:03:06,410
+called keywords or 
+
+69
+00:03:06,410 --> 00:03:08,990
+key statements. These are key phrases. 
+
+70
+00:03:11,170 --> 00:03:12,650
+Make an overview of the 
+
+71
+00:03:12,650 --> 00:03:14,050
+core statements and formulate 
+
+72
+00:03:14,050 --> 00:03:16,970
+key points in your own words. 
+
+73
+00:03:16,970 --> 00:03:19,870
+Again, avoid quotes, i.e. 
+
+74
+00:03:19,870 --> 00:03:23,550
+word-for-word transfers from the 
+
+75
+00:03:23,550 --> 00:03:25,430
+original text into your summary. 
+
+76
+00:03:26,450 --> 00:03:28,830
+Formulate complete sentences and 
+
+77
+00:03:28,830 --> 00:03:30,470
+, very importantly, use 
+
+78
+00:03:30,470 --> 00:03:32,110
+linking 
+
+79
+00:03:32,110 --> 00:03:34,330
+words. Use conjunctions and other 
+
+80
+00:03:34,330 --> 00:03:36,030
+means to incorporate 
+
+81
+00:03:36,030 --> 00:03:39,070
+varied syntax 
+
+82
+00:03:39,070 --> 00:03:42,740
+. In a long 
+
+83
+00:03:42,740 --> 00:03:44,160
+text summary, the 
+
+84
+00:03:44,160 --> 00:03:46,040
+summary should begin with an introductory 
+sentence 
+
+85
+00:03:46,040 --> 00:03:48,260
+. And the 
+
+86
+00:03:48,260 --> 00:03:49,840
+type of text is very important. 
+
+87
+00:03:52,260 --> 00:03:54,380
+So what kind of 
+
+88
+00:03:54,380 --> 00:03:56,180
+text do I have here? Is 
+
+89
+00:03:56,180 --> 00:03:57,820
+it a newspaper article? Is it an 
+
+90
+00:03:57,820 --> 00:03:59,600
+interview? Is it a story? 
+
+91
+00:03:59,940 --> 00:04:03,760
+Etc. You must 
+
+92
+00:04:03,760 --> 00:04:07,020
+state the title and author of the text, if 
+available also 
+
+93
+00:04:07,020 --> 00:04:08,520
+the time and place of 
+
+94
+00:04:08,520 --> 00:04:12,480
+publication and, very importantly 
+
+95
+00:04:12,480 --> 00:04:14,380
+, the subject of the text, the problem, 
+i.e. 
+
+96
+00:04:14,380 --> 00:04:17,380
+the core message of the text. 
+
+97
+00:04:17,380 --> 00:04:19,100
+So what is the 
+
+98
+00:04:19,100 --> 00:04:22,140
+text being presented about? To 
+
+99
+00:04:26,100 --> 00:04:27,020
+briefly 
+
+100
+00:04:27,020 --> 00:04:30,680
+summarize this once again. 
+
+101
+00:04:30,680 --> 00:04:32,300
+First of all, we differentiate between 
+
+102
+00:04:32,300 --> 00:04:33,420
+non-fictional and fictional texts 
+
+103
+00:04:33,440 --> 00:04:36,020
+, or literary texts . 
+
+104
+00:04:36,240 --> 00:04:38,840
+The summary of a text 
+
+105
+00:04:38,840 --> 00:04:40,260
+always provides brief and factual 
+information about its 
+
+106
+00:04:40,260 --> 00:04:42,040
+content and is limited to the 
+
+107
+00:04:42,040 --> 00:04:45,100
+really essential content. A 
+
+108
+00:04:45,100 --> 00:04:47,700
+summary is always written in the simple 
+present tense 
+
+109
+00:04:47,700 --> 00:04:49,340
+and does not contain any 
+
+110
+00:04:49,340 --> 00:04:51,300
+personal evaluations or 
+
+111
+00:04:51,300 --> 00:04:54,340
+statements. Follow the 
+
+112
+00:04:54,340 --> 00:04:55,820
+procedure and tips for a 
+
+113
+00:04:55,820 --> 00:04:58,180
+successful summary and remember the 
+
+114
+00:04:58,180 --> 00:05:00,120
+complete introductory sentence, the 
+
+115
+00:05:00,120 --> 00:05:03,340
+so-called umbrella sentence. 
+
+116
+00:05:05,780 --> 00:05:08,060
+Now let's move on to another point 
+
+117
+00:05:08,060 --> 00:05:10,220
+, namely tables and statistics. 
+
+118
+00:05:11,580 --> 00:05:13,820
+Many factual texts use tables 
+
+119
+00:05:13,820 --> 00:05:16,260
+and/or statistics to 
+
+120
+00:05:16,260 --> 00:05:18,220
+support their arguments credibly. 
+
+121
+00:05:18,800 --> 00:05:20,940
+It is important, 
+
+122
+00:05:20,940 --> 00:05:22,300
+for example for a summary, to 
+
+123
+00:05:22,300 --> 00:05:23,900
+
+124
+00:05:23,900 --> 00:05:25,800
+know the different forms of presentation 
+and to 
+
+125
+00:05:25,800 --> 00:05:28,720
+be able to name them correctly. In the 
+following, you will be introduced to all 
+the 
+
+126
+00:05:28,720 --> 00:05:30,380
+important forms of presentation with 
+
+127
+00:05:30,380 --> 00:05:31,720
+their English names using 
+
+128
+00:05:31,720 --> 00:05:34,080
+the example of the Bundestag election. 
+Election in 
+
+129
+00:05:34,080 --> 00:05:35,920
+Germany in 2017 
+
+130
+00:05:35,920 --> 00:05:39,880
+. So we have a 
+
+131
+00:05:39,880 --> 00:05:43,200
+table here and this 
+
+132
+00:05:45,050 --> 00:05:46,930
+table, or a table in 
+
+133
+00:05:46,930 --> 00:05:48,550
+general, gives a very formal 
+
+134
+00:05:48,550 --> 00:05:50,350
+and not very clear overview of 
+
+135
+00:05:50,350 --> 00:05:53,050
+important facts. 
+
+136
+00:05:56,940 --> 00:05:58,920
+We 
+
+137
+00:05:58,920 --> 00:06:00,640
+have a heading in the table, namely the 
+
+138
+00:06:00,640 --> 00:06:03,760
+election results of the 
+
+139
+00:06:03,760 --> 00:06:06,960
+2017 Bundestag election . We have listed 
+the parties 
+
+140
+00:06:06,960 --> 00:06:10,480
+in the outermost column, 
+
+141
+00:06:10,560 --> 00:06:14,000
+the percentage share and 
+
+142
+00:06:14,000 --> 00:06:16,580
+the corresponding seats in the Bundestag. 
+
+143
+00:06:19,890 --> 00:06:21,710
+This table could now 
+
+144
+00:06:21,710 --> 00:06:23,650
+also 
+
+145
+00:06:23,650 --> 00:06:26,470
+be presented graphically in a different 
+way, for example in the form 
+
+146
+00:06:26,470 --> 00:06:28,590
+of a pie chart or pie chart. 
+
+147
+00:06:30,530 --> 00:06:33,070
+A pie chart is used to 
+
+148
+00:06:33,070 --> 00:06:34,330
+show individual parts in comparison to the 
+
+149
+00:06:34,330 --> 00:06:36,790
+whole. And here we have 
+
+150
+00:06:36,790 --> 00:06:38,450
+two representations. 
+
+151
+00:06:39,410 --> 00:06:41,650
+One in a 2D and one in 
+
+152
+00:06:41,650 --> 00:06:43,130
+a 3D variant. 
+
+153
+00:06:46,070 --> 00:06:48,510
+Another way in which 
+
+154
+00:06:48,510 --> 00:06:50,310
+data can be displayed in 
+
+155
+00:06:50,310 --> 00:06:52,430
+a factual text is 
+
+156
+00:06:52,430 --> 00:06:54,270
+the bar chart, for example. 
+
+157
+00:06:54,350 --> 00:06:56,570
+The bar chart can 
+
+158
+00:06:56,570 --> 00:06:58,250
+be displayed as shown here so that the 
+
+159
+00:06:58,250 --> 00:07:00,490
+data points are on the Y-axis 
+
+160
+00:07:00,490 --> 00:07:03,370
+. However, we can also rotate the 
+
+161
+00:07:03,370 --> 00:07:06,470
+whole thing 90 degrees to the right so 
+that 
+
+162
+00:07:06,490 --> 00:07:08,310
+the bars are on the X 
+
+163
+00:07:08,310 --> 00:07:10,370
+ axis. This 
+
+164
+00:07:10,370 --> 00:07:12,110
+doesn't really matter in this case and 
+makes 
+
+165
+00:07:12,110 --> 00:07:12,710
+no difference. 
+
+166
+00:07:16,300 --> 00:07:18,380
+We can also do this here, which 
+
+167
+00:07:18,380 --> 00:07:20,200
+in this case would be the bar chart. 
+
+168
+00:07:21,100 --> 00:07:22,660
+The bar chart is 
+
+169
+00:07:22,660 --> 00:07:25,640
+very similar to the bar chart. And we 
+
+170
+00:07:25,640 --> 00:07:27,100
+can also 
+
+171
+00:07:27,100 --> 00:07:29,680
+
+172
+00:07:29,680 --> 00:07:32,700
+display the progression in a completely 
+different way here, for example. For 
+example, in a 
+
+173
+00:07:32,700 --> 00:07:36,900
+hierarchical order. 
+
+174
+00:07:36,900 --> 00:07:39,860
+Another form of data representation 
+
+175
+00:07:39,860 --> 00:07:42,140
+is the line chart. 
+
+176
+00:07:42,160 --> 00:07:43,980
+Here we have individual 
+
+177
+00:07:43,980 --> 00:07:46,920
+data points that 
+
+178
+00:07:46,920 --> 00:07:48,560
+
+179
+00:07:48,560 --> 00:07:52,800
+are then connected via a line or by means 
+of a line. Data or 
+
+180
+00:07:52,800 --> 00:07:55,760
+line charts are usually used for 
+chronological 
+
+181
+00:07:55,760 --> 00:07:57,500
+sequences. 
+
+182
+00:08:00,750 --> 00:08:01,890
+Here are some 
+
+183
+00:08:01,890 --> 00:08:04,590
+important words, for example, 
+
+184
+00:08:04,650 --> 00:08:07,930
+or the most important translations 
+
+185
+00:08:07,930 --> 00:08:10,130
+, which 
+
+186
+00:08:10,130 --> 00:08:12,070
+
+187
+00:08:12,070 --> 00:08:13,670
+should be used in the context of a factual 
+text analysis using tables and statistics. 
+
+188
+00:08:13,670 --> 00:08:17,470
+For example, Chart as a diagram, 
+
+189
+00:08:17,470 --> 00:08:21,130
+Column would be the column, Graph the 
+
+190
+00:08:21,130 --> 00:08:23,110
+diagram or the specified graph, 
+
+191
+00:08:23,530 --> 00:08:27,310
+Axis is the single axis, Axis with 
+
+192
+00:08:27,310 --> 00:08:30,050
+E would then be plural the axes, 
+
+193
+00:08:30,110 --> 00:08:32,570
+Vertical for vertical, vertical, 
+
+194
+00:08:32,670 --> 00:08:36,530
+horizons, horizontal, horizontal, Y 
+
+195
+00:08:36,530 --> 00:08:40,630
+-axis, X-axis, Y- and X-axis, 
+
+196
+00:08:40,690 --> 00:08:42,810
+Segment would be the segment. Segment 
+
+197
+00:08:42,810 --> 00:08:45,470
+or part, Line, the line, 
+
+198
+00:08:45,510 --> 00:08:49,590
+Curve, the curve, Quadrant, the 
+
+199
+00:08:49,590 --> 00:08:51,950
+quadrant, to expand, to extend or 
+
+200
+00:08:51,950 --> 00:08:54,910
+widen, to reach, to 
+
+201
+00:08:54,910 --> 00:08:58,370
+remain, shrink, shrink 
+
+202
+00:08:58,390 --> 00:09:00,990
+, rise, the rise, increase, the 
+
+203
+00:09:00,990 --> 00:09:02,690
+rise, decrease, the decrease, 
+
+204
+00:09:03,450 --> 00:09:07,050
+drop, the fall or fall, the 
+
+205
+00:09:07,050 --> 00:09:08,990
+fall, the decrease. We 
+
+206
+00:09:12,600 --> 00:09:16,640
+would then be 
+
+207
+00:09:16,640 --> 00:09:18,500
+
+208
+00:09:18,500 --> 00:09:21,160
+finished with the webinar on dealing with 
+factual texts at this point. Do you have 
+any 
+
+209
+00:09:21,160 --> 00:09:23,800
+questions on these topics? 
+
+210
+00:09:43,420 --> 00:09:45,680
+If there are no questions from the 
+
+211
+00:09:45,680 --> 00:09:48,100
+other participants, I would like to thank 
+
+212
+00:09:48,100 --> 00:09:50,140
+you for your 
+
+213
+00:09:50,140 --> 00:09:53,400
+attention and 
+
+214
+00:09:55,640 --> 00:09:58,340
+wish you a good 
+
+215
+00:09:58,340 --> 00:09:59,880
+Sunday and continued 
+
+216
+00:09:59,880 --> 00:10:01,500
+success in learning English 
+
+217
+00:10:01,500 --> 00:10:02,920
+or studying for your further 
+
+218
+00:10:02,920 --> 00:10:05,820
+exams or tests . And 
+
+219
+00:10:05,820 --> 00:10:07,760
+maybe we'll see or hear each other 
+
+220
+00:10:07,760 --> 00:10:09,660
+next time at another 
+
+221
+00:10:09,660 --> 00:10:10,080
+Berlin. 

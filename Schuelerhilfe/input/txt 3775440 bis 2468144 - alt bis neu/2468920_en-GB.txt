@@ -1,0 +1,622 @@
+﻿1
+00:00:04,140 --> 00:00:06,300
+Hello, my name is Sabrina and I 
+
+2
+00:00:06,300 --> 00:00:07,860
+am a tutor 
+
+3
+00:00:07,860 --> 00:00:10,260
+at Schülerhilfe. Today I would like to 
+give you 
+
+4
+00:00:10,260 --> 00:00:12,400
+an insight into the topic of cation, 
+
+5
+00:00:12,640 --> 00:00:15,360
+anion and noble gas configuration. 
+
+6
+00:00:15,860 --> 00:00:17,780
+Of course, you can 
+
+7
+00:00:17,780 --> 00:00:19,360
+also find a wiki on this topic in our 
+online 
+
+8
+00:00:19,360 --> 00:00:21,440
+ learning center. The 
+
+9
+00:00:21,440 --> 00:00:23,300
+important and basic terms  are 
+
+10
+00:00:23,300 --> 00:00:26,660
+explained  there once again. With ions 
+
+11
+00:00:26,660 --> 00:00:28,840
+, a distinction is made between negatively 
+charged 
+
+12
+00:00:28,840 --> 00:00:31,500
+ions, the anions, and the positively 
+
+13
+00:00:31,500 --> 00:00:34,460
+charged cations. Ions 
+
+14
+00:00:34,460 --> 00:00:36,980
+are formed from atoms by giving up 
+
+15
+00:00:36,980 --> 00:00:39,780
+or taking up electrons . The atoms of all 
+
+16
+00:00:39,780 --> 00:00:41,520
+elements strive to have a 
+
+17
+00:00:41,520 --> 00:00:43,500
+completely filled outer shell 
+
+18
+00:00:43,500 --> 00:00:45,780
+, as is the case 
+
+19
+00:00:45,780 --> 00:00:47,560
+
+20
+00:00:47,560 --> 00:00:49,960
+with noble gases, the elements of the 
+eighth main group. This is often 
+
+21
+00:00:49,960 --> 00:00:52,340
+
+22
+00:00:52,340 --> 00:00:54,580
+referred to as the octet rule or the 
+eight-electron rule. This striving 
+
+23
+00:00:54,580 --> 00:00:56,500
+has an effect on the reactivity and 
+
+24
+00:00:56,500 --> 00:00:58,740
+electronegativity of the elements. 
+
+25
+00:00:58,740 --> 00:01:01,200
+With a full outer shell, the 
+
+26
+00:01:01,200 --> 00:01:02,860
+particles are energetically very stable 
+
+27
+00:01:03,060 --> 00:01:05,320
+, which is why they form compounds to 
+
+28
+00:01:05,320 --> 00:01:07,580
+achieve this state. 
+
+29
+00:01:07,580 --> 00:01:09,200
+The only elements that do not 
+
+30
+00:01:09,200 --> 00:01:11,040
+strive for compounds and 
+
+31
+00:01:11,040 --> 00:01:13,680
+are therefore extremely inert are the 
+
+32
+00:01:13,680 --> 00:01:15,820
+noble gases themselves. They naturally 
+have 
+
+33
+00:01:15,820 --> 00:01:18,320
+a full outer shell. The 
+
+34
+00:01:18,320 --> 00:01:20,820
+electronegativity just mentioned is the 
+
+35
+00:01:20,820 --> 00:01:23,220
+relative measure of an 
+
+36
+00:01:23,220 --> 00:01:25,980
+atom 's ability to attract electrons 
+
+37
+00:01:25,980 --> 00:01:29,100
+to itself in a bond. The elements of the 
+
+38
+00:01:29,100 --> 00:01:30,880
+seventh main group, 
+
+39
+00:01:30,880 --> 00:01:32,500
+called halogens , have seven 
+
+40
+00:01:32,500 --> 00:01:34,980
+outer electrons, which means that 
+
+41
+00:01:34,980 --> 00:01:37,060
+they are only missing one electron each to 
+
+42
+00:01:37,060 --> 00:01:38,920
+reach the desired state 
+
+43
+00:01:38,920 --> 00:01:41,280
+. 
+
+44
+00:01:41,280 --> 00:01:43,560
+These elements are correspondingly 
+reactive . They have high 
+
+45
+00:01:43,560 --> 00:01:45,520
+electronegativities and are 
+
+46
+00:01:45,520 --> 00:01:48,200
+already found in bimolecular form, 
+
+47
+00:01:48,360 --> 00:01:50,420
+i.e. they share 
+
+48
+00:01:50,420 --> 00:01:52,420
+two electrons in an electron pair bond 
+
+49
+00:01:52,420 --> 00:01:54,660
+, which 
+
+50
+00:01:54,660 --> 00:01:56,600
+
+51
+00:01:56,740 --> 00:02:00,120
+puts them in a stable state corresponding 
+to the noble gas configurations. 
+
+52
+00:02:00,120 --> 00:02:02,100
+However, if the halogens are allowed to 
+react with other 
+
+53
+00:02:02,100 --> 00:02:03,600
+elements of lower 
+
+54
+00:02:03,600 --> 00:02:06,200
+electronegativity, for 
+
+55
+00:02:06,200 --> 00:02:08,480
+example with metals, the 
+
+56
+00:02:08,480 --> 00:02:10,320
+halogens strip the metal atoms, the 
+
+57
+00:02:10,380 --> 00:02:12,820
+outer electrons, and become 
+
+58
+00:02:12,820 --> 00:02:16,100
+anions, the negatively charged ions. 
+
+59
+00:02:16,280 --> 00:02:18,660
+The metal atoms become cations 
+
+60
+00:02:18,700 --> 00:02:21,420
+, the positively charged ions. 
+
+61
+00:02:21,420 --> 00:02:23,460
+In this way, both atoms, 
+
+62
+00:02:23,520 --> 00:02:26,180
+the halogen and the metal atom, reach the 
+
+63
+00:02:26,180 --> 00:02:29,260
+noble gas configuration. If we look 
+
+64
+00:02:29,260 --> 00:02:31,340
+at the reaction of sodium and 
+
+65
+00:02:31,340 --> 00:02:34,140
+chlorine to form sodium chloride 
+
+66
+00:02:34,140 --> 00:02:36,720
+, we can see that a chlorine atom 
+
+67
+00:02:36,720 --> 00:02:39,300
+rips an electron away from a sodium atom. 
+
+68
+00:02:39,500 --> 00:02:41,120
+This gives chlorine the 
+
+69
+00:02:41,120 --> 00:02:43,920
+electron configuration of argon and 
+
+70
+00:02:43,920 --> 00:02:46,340
+sodium the configuration of neon. 
+
+71
+00:02:46,540 --> 00:02:49,200
+Ion formation is followed by 
+
+72
+00:02:49,200 --> 00:02:51,420
+
+73
+00:02:51,420 --> 00:02:54,520
+ionic bonding due to the different 
+charges. Cation and anion 
+
+74
+00:02:54,520 --> 00:02:56,260
+attract each other and form a 
+
+75
+00:02:56,260 --> 00:02:58,500
+salt crystal. This is spatially 
+
+76
+00:02:58,500 --> 00:03:00,400
+structured like a solid lattice, in which 
+
+77
+00:03:00,400 --> 00:03:02,740
+a chloride ion 
+
+78
+00:03:02,740 --> 00:03:04,780
+
+79
+00:03:04,780 --> 00:03:06,980
+is surrounded in all directions by a total 
+of six neighboring sodium ions and 
+
+80
+00:03:06,980 --> 00:03:09,300
+vice versa. Although there 
+
+81
+00:03:09,300 --> 00:03:11,920
+are no 
+
+82
+00:03:11,920 --> 00:03:13,580
+covalent bonds, i.e. 
+
+83
+00:03:13,580 --> 00:03:15,840
+atomic bonds, between sodium and chloride 
+ions , the 
+
+84
+00:03:15,840 --> 00:03:17,740
+electrostatic attraction between 
+
+85
+00:03:17,740 --> 00:03:20,220
+them is very strong and leads to a 
+
+86
+00:03:20,220 --> 00:03:23,400
+high melting temperature of approx. 800°C 
+
+87
+00:03:23,400 --> 00:03:25,160
+in a rigid structure. 
+
+88
+00:03:26,740 --> 00:03:29,140
+Sodium chloride, like salts in general, is 
+
+89
+00:03:29,140 --> 00:03:31,540
+highly soluble in water, as 
+
+90
+00:03:31,540 --> 00:03:33,460
+water is a polar solvent 
+
+91
+00:03:33,460 --> 00:03:36,000
+and forms so-called hydrate oils 
+
+92
+00:03:36,000 --> 00:03:38,460
+around the ions. The partially positively 
+
+93
+00:03:38,460 --> 00:03:41,080
+charged side of each water molecule 
+
+94
+00:03:41,080 --> 00:03:43,680
+in the vicinity of a chloride ion aligns 
+
+95
+00:03:43,680 --> 00:03:46,280
+itself with the ion. 
+
+96
+00:03:46,280 --> 00:03:48,580
+The partially negatively charged side 
+
+97
+00:03:48,580 --> 00:03:51,200
+points away from it. The positively 
+charged 
+
+98
+00:03:51,200 --> 00:03:53,540
+sodium ion is 
+
+99
+00:03:53,540 --> 00:03:56,440
+hydrated in the same way. The partially 
+negatively 
+
+100
+00:03:56,440 --> 00:03:58,360
+charged side of each adjacent 
+
+101
+00:03:58,360 --> 00:04:01,000
+water particle points towards the ion 
+
+102
+00:04:01,000 --> 00:04:03,320
+, while the partially positively 
+
+103
+00:04:03,320 --> 00:04:05,540
+charged sides point away from it 
+
+104
+00:04:05,540 --> 00:04:07,740
+. During ion formation, 
+
+105
+00:04:07,740 --> 00:04:10,380
+halogens take up 1 electron each 
+
+106
+00:04:10,380 --> 00:04:12,940
+, the elements of the 6th main group, 
+
+107
+00:04:12,940 --> 00:04:15,780
+the chalcogens, take up 2 electrons each, 
+
+108
+00:04:15,920 --> 00:04:18,000
+the elements of the 5th main group, the 
+
+109
+00:04:18,000 --> 00:04:20,600
+nitrogen group elements take up 3 
+
+110
+00:04:20,600 --> 00:04:23,020
+electrons each, in order to 
+
+111
+00:04:23,020 --> 00:04:25,340
+
+112
+00:04:25,340 --> 00:04:27,600
+reach the configuration of the next noble 
+gas in the period . Their ions are 
+
+113
+00:04:27,600 --> 00:04:30,280
+therefore negatively charged. The 
+
+114
+00:04:30,280 --> 00:04:32,640
+elements of the first 3 main groups 
+
+115
+00:04:32,640 --> 00:04:34,600
+tend to 
+
+116
+00:04:34,600 --> 00:04:37,160
+give up electrons in order to reach the 
+configuration of the 
+
+117
+00:04:37,160 --> 00:04:39,500
+noble gas in the previous period 
+
+118
+00:04:39,500 --> 00:04:42,000
+. Their ions are then 
+
+119
+00:04:42,000 --> 00:04:44,660
+positively charged. Observing the 
+
+120
+00:04:44,660 --> 00:04:46,300
+main groups in which the 
+
+121
+00:04:46,300 --> 00:04:48,420
+bonding partners are located helps 
+
+122
+00:04:48,420 --> 00:04:50,220
+to establish the correct 
+
+123
+00:04:50,220 --> 00:04:52,460
+ratio formula of a neck or 
+
+124
+00:04:52,860 --> 00:04:55,700
+a compound. For example, elements 
+
+125
+00:04:55,700 --> 00:04:57,800
+of the first main group bind elements of 
+the 
+
+126
+00:04:57,800 --> 00:05:00,220
+seventh main group in a ratio of 1 
+
+127
+00:05:00,220 --> 00:05:02,900
+to 1, as already seen in the example of 
+
+128
+00:05:02,900 --> 00:05:04,680
+sodium chloride. 
+
+129
+00:05:05,320 --> 00:05:07,360
+Elements of the second main group 
+
+130
+00:05:07,360 --> 00:05:08,960
+
+131
+00:05:08,960 --> 00:05:11,100
+also bind elements of the sixth in a ratio 
+of 1 to 1. 
+
+132
+00:05:11,760 --> 00:05:13,540
+Elements of the second main group 
+
+133
+00:05:13,540 --> 00:05:14,980
+bind elements of the seventh in a 
+
+134
+00:05:14,980 --> 00:05:17,680
+ratio of 1 to 2. Elements of the 
+
+135
+00:05:17,680 --> 00:05:19,540
+first main group bind elements 
+
+136
+00:05:19,540 --> 00:05:21,600
+of the sixth in a ratio of 2 to 1. 
+
+137
+00:05:22,260 --> 00:05:24,040
+Elements of the third main group 
+
+138
+00:05:24,040 --> 00:05:26,020
+bind elements of the seventh in a ratio of 
+
+139
+00:05:26,020 --> 00:05:29,300
+1 to 3. Elements of the first main group 
+
+140
+00:05:29,300 --> 00:05:31,400
+bind elements of the fifth in a ratio of 
+
+141
+00:05:31,400 --> 00:05:34,620
+3 to 2. Elements of the third main group 
+
+142
+00:05:34,620 --> 00:05:36,620
+bind elements of the sixth in a ratio of 
+
+143
+00:05:36,620 --> 00:05:39,080
+2 to 3. And elements of the second 
+
+144
+00:05:39,460 --> 00:05:41,660
+main group bind elements of the fifth in a 
+
+145
+00:05:41,660 --> 00:05:44,880
+ratio of 3 to 2. Thank you for 
+
+146
+00:05:44,880 --> 00:05:47,100
+your attention. I hope the 
+
+147
+00:05:47,100 --> 00:05:48,620
+video has helped you to better 
+
+148
+00:05:48,620 --> 00:05:51,200
+understand the topic of cation, anion 
+
+149
+00:05:51,200 --> 00:05:53,800
+and noble gas configuration 
+
+150
+00:05:53,800 --> 00:05:55,100
+and enables you to 
+
+151
+00:05:55,140 --> 00:05:56,460
+
+152
+00:05:56,460 --> 00:05:58,460
+set up ratio formulas correctly . Thank 
+you 
+
+153
+00:05:58,460 --> 00:06:00,100
+for watching and see you next time! 

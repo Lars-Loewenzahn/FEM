@@ -1,0 +1,2022 @@
+﻿1
+00:00:01,580 --> 00:00:03,460
+Welcome to the 
+
+2
+00:00:03,460 --> 00:00:06,000
+Binomial Formulas webinar . In 
+
+3
+00:00:06,000 --> 00:00:07,420
+this webinar , we will be looking at the 
+three 
+
+4
+00:00:07,420 --> 00:00:09,160
+binomial formulas. I 
+
+5
+00:00:09,160 --> 00:00:10,720
+will explain them and also 
+
+6
+00:00:10,720 --> 00:00:12,060
+briefly derive them so that we all 
+
+7
+00:00:12,060 --> 00:00:13,760
+know where they come from or how 
+
+8
+00:00:13,760 --> 00:00:16,080
+they are composed. 
+
+9
+00:00:16,080 --> 00:00:17,500
+We will then look at how we 
+
+10
+00:00:17,500 --> 00:00:18,940
+can apply the binomial formulas, i.e. how 
+we 
+
+11
+00:00:18,940 --> 00:00:21,660
+can recognize them and whether we 
+
+12
+00:00:21,660 --> 00:00:23,700
+can convert them or something with them. 
+
+13
+00:00:23,700 --> 00:00:25,480
+Finally, we will look 
+
+14
+00:00:25,480 --> 00:00:26,940
+at simplifying fractions and 
+
+15
+00:00:26,940 --> 00:00:28,460
+roots using the binomial 
+
+16
+00:00:28,460 --> 00:00:31,020
+formulas and I would say that 
+
+17
+00:00:31,100 --> 00:00:32,640
+we will now start directly with the 
+
+18
+00:00:32,640 --> 00:00:35,960
+first binomial formula. The first 
+
+19
+00:00:35,960 --> 00:00:38,140
+binomial formula 
+
+20
+00:00:38,140 --> 00:00:39,840
+looks like this: it is a bracket 
+
+21
+00:00:39,840 --> 00:00:41,780
+to the power of 2 and the bracket contains 
+a 
+
+22
+00:00:41,780 --> 00:00:43,460
+plus b, which means that the bracket 
+contains 
+
+23
+00:00:43,460 --> 00:00:47,380
+an addition. And 
+
+24
+00:00:47,380 --> 00:00:49,980
+we can now also 
+
+25
+00:00:49,980 --> 00:00:51,440
+write this parenthesis to the power of 2 
+as a product, i.e. 
+
+26
+00:00:51,440 --> 00:00:53,640
+parenthesis on a plus b. parenthesis to 
+times 
+
+27
+00:00:53,640 --> 00:00:57,100
+parenthesis on a plus b parenthesis to if 
+
+28
+00:00:57,100 --> 00:00:58,640
+we now 
+
+29
+00:00:58,640 --> 00:01:00,460
+multiply these two parentheses out we 
+calculate a times a 
+
+30
+00:01:00,460 --> 00:01:03,760
+that is a squared a times b that is 
+
+31
+00:01:03,760 --> 00:01:08,420
+then plus ab then b times a b times a is 
+
+32
+00:01:08,420 --> 00:01:09,880
+the same as a times b therefore 
+
+33
+00:01:09,880 --> 00:01:11,100
+we have also written here plus 
+
+34
+00:01:11,100 --> 00:01:14,560
+a times b and still b times b and that is 
+
+35
+00:01:14,560 --> 00:01:16,260
+then b squared we now see 
+
+36
+00:01:16,260 --> 00:01:18,580
+here we have ab plus ab and that is 
+
+37
+00:01:18,580 --> 00:01:21,140
+then together 2ab. The first 
+
+38
+00:01:21,140 --> 00:01:22,720
+binomial formula can therefore be 
+
+39
+00:01:22,720 --> 00:01:26,420
+solved by a² plus 2ab plus b². 
+
+40
+00:01:27,800 --> 00:01:28,920
+We also have a small 
+
+41
+00:01:28,920 --> 00:01:30,780
+example of this. In this case, 
+
+42
+00:01:30,780 --> 00:01:33,560
+of course, we see that a and b are two 
+numbers, 
+
+43
+00:01:33,660 --> 00:01:35,640
+so a is 5, b is 2. We therefore have 
+
+44
+00:01:35,640 --> 00:01:37,840
+no variable or parameter 
+
+45
+00:01:37,840 --> 00:01:39,760
+in the binomial formula. This means 
+
+46
+00:01:39,860 --> 00:01:41,580
+that in such a case, we could also 
+
+47
+00:01:41,580 --> 00:01:43,080
+calculate the value in the brackets first. 
+
+48
+00:01:43,080 --> 00:01:45,260
+In this case, that would be 5 plus 2, i.e. 
+
+49
+00:01:45,260 --> 00:01:48,980
+7. And 7 to the power of 2 would be 49. In 
+this case, 
+
+50
+00:01:48,980 --> 00:01:50,340
+you could therefore 
+
+51
+00:01:50,340 --> 00:01:53,660
+bypass the binomial formula. However, we 
+will 
+
+52
+00:01:53,660 --> 00:01:55,700
+
+53
+00:01:55,700 --> 00:01:57,340
+see many cases in the course of the 
+webinar where it is not so easy to 
+
+54
+00:01:57,340 --> 00:01:59,600
+work around this and where the binomial 
+
+55
+00:01:59,600 --> 00:02:04,040
+formulas are absolutely necessary. 
+
+56
+00:02:04,040 --> 00:02:05,920
+In other words, this is simply an 
+
+57
+00:02:05,920 --> 00:02:07,460
+example where it doesn't necessarily 
+
+58
+00:02:07,460 --> 00:02:09,540
+have to be. But we will 
+
+59
+00:02:09,540 --> 00:02:11,000
+see plenty more examples where it is 
+necessary. 
+
+60
+00:02:12,080 --> 00:02:13,900
+So if we 
+
+61
+00:02:13,900 --> 00:02:15,660
+have a variable or a parameter in the 
+brackets. 
+
+62
+00:02:16,100 --> 00:02:17,540
+But let's just break it 
+
+63
+00:02:17,540 --> 00:02:19,760
+down . In our case, a is 5 and b 
+
+64
+00:02:19,760 --> 00:02:23,200
+is 2. And so we get 5 to the power of 2 
+
+65
+00:02:23,200 --> 00:02:26,800
+plus 2 times 5 times 2 plus 2 to the power 
+of 2. 
+
+66
+00:02:27,540 --> 00:02:30,320
+Let's start on the left. 5 to the power of 
+2 is 
+
+67
+00:02:30,320 --> 00:02:34,580
+25. 2 times 5 is 10. 10 times 2 is 
+
+68
+00:02:34,580 --> 00:02:38,380
+20 again. And 2 to the power of 2 is 
+
+69
+00:02:38,380 --> 00:02:41,300
+4. 25 
+
+70
+00:02:41,300 --> 00:02:44,440
+plus 20 plus 4, that's all together, 
+
+71
+00:02:44,500 --> 00:02:45,680
+or the sum of these is 
+
+72
+00:02:45,680 --> 00:02:49,680
+49. And 
+
+73
+00:02:49,680 --> 00:02:52,300
+we would also have arrived at 49 if we 
+
+74
+00:02:52,300 --> 00:02:55,000
+had calculated 7 to the power of 2. In 
+other words, we 
+
+75
+00:02:55,000 --> 00:02:56,180
+have probably calculated correctly. 
+
+76
+00:02:58,810 --> 00:03:00,710
+This brings us to 
+
+77
+00:03:00,710 --> 00:03:03,250
+the second binomial formula. The 
+
+78
+00:03:03,250 --> 00:03:04,550
+second binomial formula 
+
+79
+00:03:04,550 --> 00:03:06,390
+differs from the first in 
+
+80
+00:03:06,390 --> 00:03:08,250
+that it 
+
+81
+00:03:08,250 --> 00:03:09,370
+now has a 
+
+82
+00:03:09,370 --> 00:03:11,150
+minus sign instead of a plus sign. This 
+means 
+
+83
+00:03:11,230 --> 00:03:12,710
+that instead of addition, 
+
+84
+00:03:12,710 --> 00:03:13,990
+subtraction takes place within the 
+brackets 
+
+85
+00:03:13,990 --> 00:03:15,430
+. Here, too, we have the 
+
+86
+00:03:15,430 --> 00:03:17,530
+format, parenthesis open, a minus b, 
+
+87
+00:03:17,630 --> 00:03:19,250
+parenthesis closed, to the power of 2, 
+i.e. a 
+
+88
+00:03:19,250 --> 00:03:21,850
+parenthesis is squared . This means that 
+in 
+
+89
+00:03:21,850 --> 00:03:24,190
+this case, too, we can 
+
+90
+00:03:24,190 --> 00:03:25,550
+multiply the two brackets together 
+
+91
+00:03:25,550 --> 00:03:27,870
+to resolve the power. So a 
+
+92
+00:03:27,870 --> 00:03:31,290
+minus b times a minus b. In other words 
+
+93
+00:03:31,290 --> 00:03:32,490
+, we simply multiply this 
+
+94
+00:03:32,490 --> 00:03:34,710
+out and get our solution. A 
+
+95
+00:03:34,710 --> 00:03:38,470
+times A is A², A times minus B is minus 
+
+96
+00:03:38,470 --> 00:03:41,050
+AB, then minus B times A is also 
+
+97
+00:03:41,050 --> 00:03:43,270
+minus AB and now, very 
+
+98
+00:03:43,270 --> 00:03:45,890
+importantly, minus B times minus B, 
+
+99
+00:03:45,890 --> 00:03:47,790
+so we have minus times minus, which is 
+
+100
+00:03:47,790 --> 00:03:52,270
+plus, so we have plus B². So 
+
+101
+00:03:52,270 --> 00:03:58,230
+we arrive at a²-2ab±2ab. 
+
+102
+00:04:01,870 --> 00:04:04,770
+And we can see that the difference 
+
+103
+00:04:04,770 --> 00:04:06,850
+in the result compared to the 
+
+104
+00:04:06,850 --> 00:04:08,490
+first binomial formula is that 
+
+105
+00:04:08,490 --> 00:04:10,070
+we now have a minus here, 
+
+106
+00:04:10,190 --> 00:04:13,170
+previously there was a plus. So in 
+
+107
+00:04:13,170 --> 00:04:14,370
+the second binomial formula 
+
+108
+00:04:14,370 --> 00:04:15,890
+, there is a minus in the brackets 
+
+109
+00:04:15,890 --> 00:04:17,930
+and 
+
+110
+00:04:17,930 --> 00:04:21,290
+a minus in front of the two ab-parts in 
+the solution. 
+
+111
+00:04:21,290 --> 00:04:22,250
+We also have an example of this 
+
+112
+00:04:22,250 --> 00:04:23,790
+and this is now an example that 
+
+113
+00:04:23,790 --> 00:04:26,850
+we 
+
+114
+00:04:26,850 --> 00:04:28,290
+could no longer solve using a specific 
+value in the brackets. 
+
+115
+00:04:28,290 --> 00:04:29,630
+Unfortunately, we now have to apply the 
+
+116
+00:04:29,630 --> 00:04:31,770
+binomial formula. In this 
+
+117
+00:04:31,770 --> 00:04:35,230
+case, a is 3 and b is 4x. 
+
+118
+00:04:35,230 --> 00:04:38,630
+It is very important that b is 4x. 
+
+119
+00:04:38,670 --> 00:04:40,610
+In other words , we use this and arrive at 
+3 
+
+120
+00:04:40,610 --> 00:04:45,210
+to the power of 2 minus 2 times 3 times 4x 
+plus 
+
+121
+00:04:45,210 --> 00:04:47,670
+parenthesis to the power of 2. This 
+
+122
+00:04:47,670 --> 00:04:50,730
+means that it is very important that we 
+
+123
+00:04:50,730 --> 00:04:53,030
+square the 4 and 
+
+124
+00:04:53,030 --> 00:04:58,070
+square the x straight away. Because we are 
+squaring 4x 
+
+125
+00:04:58,070 --> 00:05:00,730
+and not just the x. That's why it's 
+
+126
+00:05:00,730 --> 00:05:03,270
+also put in brackets here. And 
+
+127
+00:05:03,270 --> 00:05:04,350
+then let's just work it 
+
+128
+00:05:04,350 --> 00:05:07,510
+out. 3 to the power of 2 is 9. minus 2 
+times 3 
+
+129
+00:05:07,510 --> 00:05:09,810
+is minus 6. and minus 6 times 4x is 
+
+130
+00:05:09,810 --> 00:05:14,610
+minus 24x. And 4x squared. 4 
+
+131
+00:05:14,610 --> 00:05:17,030
+squared is 16. And x 
+
+132
+00:05:17,030 --> 00:05:19,490
+squared is simply x². So we 
+
+133
+00:05:19,490 --> 00:05:23,910
+get 9 minus 24x plus 16x². And that's what 
+
+134
+00:05:23,910 --> 00:05:25,590
+we get using the second 
+
+135
+00:05:25,590 --> 00:05:29,640
+binomial formula. This brings us 
+
+136
+00:05:29,640 --> 00:05:31,120
+to the third 
+
+137
+00:05:31,120 --> 00:05:32,520
+binomial formula. The third 
+
+138
+00:05:32,520 --> 00:05:33,660
+binomial formula is always quite 
+
+139
+00:05:33,660 --> 00:05:35,740
+easy to recognize. The third 
+
+140
+00:05:35,740 --> 00:05:37,420
+binomial formula does not have 
+
+141
+00:05:37,420 --> 00:05:39,480
+a power of 2. It is simply 
+
+142
+00:05:39,480 --> 00:05:40,540
+two brackets 
+
+143
+00:05:40,540 --> 00:05:42,280
+that are multiplied together. One 
+
+144
+00:05:42,280 --> 00:05:43,940
+bracket contains a plus b, the 
+
+145
+00:05:43,940 --> 00:05:46,440
+other a minus b. This means 
+
+146
+00:05:46,440 --> 00:05:47,780
+that there is an addition sign in one and 
+
+147
+00:05:47,780 --> 00:05:49,580
+a subtraction sign in the other. 
+
+148
+00:05:49,860 --> 00:05:52,180
+And the two numbers are 
+
+149
+00:05:52,180 --> 00:05:55,200
+the same in each case. Of course, you can 
+also 
+
+150
+00:05:55,200 --> 00:05:57,320
+
+151
+00:05:57,320 --> 00:05:59,500
+derive this third binomial formula first. 
+This means that 
+
+152
+00:05:59,580 --> 00:06:00,400
+if we 
+
+153
+00:06:00,400 --> 00:06:02,840
+multiply out the two brackets , we also 
+have a times a, a 
+
+154
+00:06:02,840 --> 00:06:05,660
+squared, a times minus b, is minus ab. 
+
+155
+00:06:05,660 --> 00:06:10,120
+ab and then b times a, that's 
+
+156
+00:06:10,120 --> 00:06:11,840
+plus ab, here you can already see it, 
+
+157
+00:06:11,920 --> 00:06:14,700
+minus ab plus ab and now we have 
+
+158
+00:06:14,700 --> 00:06:18,020
+plus b times minus b, that's minus b², 
+
+159
+00:06:18,300 --> 00:06:19,700
+in this case we only have a minus 
+
+160
+00:06:19,700 --> 00:06:23,040
+and therefore we have minus b² and 
+
+161
+00:06:23,040 --> 00:06:23,680
+now you can 
+
+162
+00:06:23,680 --> 00:06:25,740
+summarize the whole thing , minus ab plus 
+ab 
+
+163
+00:06:25,740 --> 00:06:29,740
+falls out, that cancels itself out and 
+
+164
+00:06:29,740 --> 00:06:33,020
+what remains is a² minus b² and that 
+
+165
+00:06:33,020 --> 00:06:34,400
+is then already the solution of the 
+
+166
+00:06:34,400 --> 00:06:35,560
+third binomial formula. 
+
+167
+00:06:39,270 --> 00:06:40,370
+Here we have a small 
+
+168
+00:06:40,370 --> 00:06:43,530
+example. 3 plus 2 times 3 minus 
+
+169
+00:06:43,530 --> 00:06:45,110
+2, this is of course another 
+
+170
+00:06:45,110 --> 00:06:46,070
+example where we don't 
+
+171
+00:06:46,070 --> 00:06:47,170
+necessarily need the third binomial 
+
+172
+00:06:47,170 --> 00:06:49,190
+formula, because we could 
+
+173
+00:06:49,190 --> 00:06:50,830
+
+174
+00:06:50,830 --> 00:06:53,050
+simply carry out the addition up to the 
+subtraction . 3 plus 2 is 5 and 
+
+175
+00:06:53,050 --> 00:06:55,250
+3 minus 2 is 1. In other words, it says 
+
+176
+00:06:55,250 --> 00:06:57,750
+5 times 1, which means that the 
+
+177
+00:06:57,750 --> 00:06:58,890
+result must be 5 , but 
+
+178
+00:06:58,890 --> 00:06:59,970
+we will now check this using 
+
+179
+00:06:59,970 --> 00:07:02,970
+the binomial formula. The solution 
+
+180
+00:07:02,970 --> 00:07:04,470
+of the third binomial formula 
+
+181
+00:07:04,470 --> 00:07:08,350
+is a²-b². In our case, the 3 
+
+182
+00:07:08,350 --> 00:07:12,490
+is the a and the 2 is our b. So 
+
+183
+00:07:12,490 --> 00:07:16,330
+we get 3 to the power of 2 minus 2 to the 
+power of 2 and 
+
+184
+00:07:16,330 --> 00:07:20,890
+that is then 9 minus 4 and 9 minus 4 
+
+185
+00:07:20,890 --> 00:07:23,930
+is then correspondingly 5. That means 
+
+186
+00:07:24,030 --> 00:07:25,710
+we would have 
+
+187
+00:07:25,710 --> 00:07:29,210
+calculated that correctly in our heads. 
+The only important thing here is 
+
+188
+00:07:29,350 --> 00:07:32,350
+that the determinant value within the 
+
+189
+00:07:32,350 --> 00:07:33,890
+brackets only works as long as 
+
+190
+00:07:33,890 --> 00:07:35,310
+we 
+
+191
+00:07:35,310 --> 00:07:37,750
+have no variables and no parameters and 
+
+192
+00:07:37,750 --> 00:07:39,190
+we usually have these, so we definitely 
+
+193
+00:07:39,190 --> 00:07:40,470
+need the binomial formulas. 
+
+194
+00:07:42,250 --> 00:07:45,090
+This brings us to 
+
+195
+00:07:45,090 --> 00:07:46,490
+the topic of how to recognize binomial 
+formulas 
+
+196
+00:07:46,490 --> 00:07:48,350
+. 
+
+197
+00:07:48,350 --> 00:07:50,350
+Unfortunately, recognizing binomial 
+formulas is not 
+
+198
+00:07:50,350 --> 00:07:52,650
+all that easy. It is something that 
+
+199
+00:07:52,650 --> 00:07:54,630
+primarily takes place through practice. 
+
+200
+00:07:54,630 --> 00:07:56,850
+This means that when you do exercises on 
+
+201
+00:07:56,850 --> 00:07:58,030
+binomial formulas 
+
+202
+00:07:58,030 --> 00:07:59,650
+, you simply develop an eye and a feel 
+
+203
+00:07:59,650 --> 00:08:01,370
+for the square numbers on 
+
+204
+00:08:01,370 --> 00:08:03,530
+the one hand and for 
+
+205
+00:08:03,770 --> 00:08:05,590
+when you 
+
+206
+00:08:05,590 --> 00:08:07,590
+can create or apply a binomial formula on 
+the other. This 
+
+207
+00:08:07,590 --> 00:08:09,230
+means, of course, that we have to 
+
+208
+00:08:09,230 --> 00:08:10,590
+learn the structure of the binomial 
+formula 
+
+209
+00:08:10,590 --> 00:08:13,190
+and recognize certain patterns. 
+
+210
+00:08:13,190 --> 00:08:14,910
+We can learn the structure in 
+
+211
+00:08:14,910 --> 00:08:16,610
+this webinar. So we 
+
+212
+00:08:16,610 --> 00:08:18,470
+can take a closer look at the structure 
+
+213
+00:08:18,470 --> 00:08:21,090
+and see where 
+
+214
+00:08:21,090 --> 00:08:24,090
+it comes from. The problem is that 
+
+215
+00:08:24,090 --> 00:08:26,050
+recognizing patterns is 
+
+216
+00:08:26,050 --> 00:08:27,130
+something that unfortunately 
+
+217
+00:08:27,130 --> 00:08:29,770
+only happens through practice. You 
+
+218
+00:08:29,770 --> 00:08:31,630
+can, or I can now, 
+
+219
+00:08:31,630 --> 00:08:33,530
+and I will, teach you a few things 
+
+220
+00:08:33,530 --> 00:08:34,830
+that you 
+
+221
+00:08:34,830 --> 00:08:37,790
+can pay attention to. And so that 
+recognizing such 
+
+222
+00:08:37,790 --> 00:08:38,730
+patterns is perhaps a little quicker 
+
+223
+00:08:38,730 --> 00:08:42,250
+. But unfortunately there is no way 
+
+224
+00:08:42,250 --> 00:08:45,810
+around practicing. This is where 
+
+225
+00:08:45,810 --> 00:08:46,910
+we start with the conversion, 
+
+226
+00:08:46,910 --> 00:08:48,550
+so that we can now 
+
+227
+00:08:48,550 --> 00:08:51,570
+apply the binomial formulas to convert 
+something. 
+
+228
+00:08:52,710 --> 00:08:55,810
+In other words, on the one hand we have 
+
+229
+00:08:55,810 --> 00:08:57,690
+the classic example here , we have a 
+bracket 
+
+230
+00:08:57,690 --> 00:09:00,410
+and this bracket is squared and 
+
+231
+00:09:00,410 --> 00:09:02,210
+we are supposed to solve it. In other 
+words 
+
+232
+00:09:02,310 --> 00:09:03,170
+, this is done using the binomial 
+
+233
+00:09:03,170 --> 00:09:04,990
+formulas. If we 
+
+234
+00:09:04,990 --> 00:09:06,070
+have the power raised to the power of 2, 
+we already know 
+
+235
+00:09:06,070 --> 00:09:07,810
+
+236
+00:09:07,810 --> 00:09:08,910
+that it cannot be the third binomial 
+formula. Therefore, it is 
+
+237
+00:09:08,910 --> 00:09:10,170
+either the first or the second. 
+
+238
+00:09:10,770 --> 00:09:12,370
+We can see that we have a plus 
+
+239
+00:09:12,370 --> 00:09:14,270
+in here. Therefore, it is definitely the 
+
+240
+00:09:14,270 --> 00:09:16,490
+first binomial formula. And we 
+
+241
+00:09:16,490 --> 00:09:17,770
+have simply defined it like this. The 
+
+242
+00:09:17,770 --> 00:09:19,990
+number to the left of the plus sign is our 
+
+243
+00:09:19,990 --> 00:09:22,330
+a. The number to the right of the plus 
+sign 
+
+244
+00:09:22,330 --> 00:09:23,870
+is our b. This means that our a 
+
+245
+00:09:23,870 --> 00:09:26,130
+in this case is 2. And our b is c. 
+
+246
+00:09:32,790 --> 00:09:36,570
+2ab plus b², which in our case now means 
+
+247
+00:09:36,570 --> 00:09:42,470
+2 to the power of 2 plus 2 times 2 times c 
+plus c². 
+
+248
+00:09:43,010 --> 00:09:46,790
+2 to the power of 2 is 4, 2 times 2 times 
+c is 
+
+249
+00:09:46,790 --> 00:09:50,630
+4c and c to the power of 2 is simply c to 
+the power of 2. 
+
+250
+00:09:50,790 --> 00:09:52,910
+And so we have 
+
+251
+00:09:52,910 --> 00:09:55,990
+already solved this bracket. Of course, 
+there' 
+
+252
+00:09:55,990 --> 00:09:57,790
+s also the other way around and 
+
+253
+00:09:57,790 --> 00:09:59,110
+that's actually always the bigger 
+
+254
+00:09:59,110 --> 00:10:00,590
+problem, where you 
+
+255
+00:10:00,590 --> 00:10:03,950
+need this exercise to recognize certain 
+
+256
+00:10:03,950 --> 00:10:07,610
+patterns . We can 
+
+257
+00:10:07,610 --> 00:10:09,350
+already see a 
+
+258
+00:10:09,350 --> 00:10:10,890
+solution to a binomial formula here, if 
+you like, but 
+
+259
+00:10:10,890 --> 00:10:12,330
+we now want to 
+
+260
+00:10:12,330 --> 00:10:15,770
+generate the binomial again. This means 
+that we have 64 b² 
+
+261
+00:10:15,770 --> 00:10:21,810
+minus 80ab plus 25a². And now 
+
+262
+00:10:21,810 --> 00:10:24,510
+we have to think about what 
+
+263
+00:10:24,510 --> 00:10:29,430
+our a was and what our b was . We'll 
+
+264
+00:10:29,430 --> 00:10:31,370
+just go and say that the 
+
+265
+00:10:31,370 --> 00:10:33,610
+leftmost square is our a square, 
+
+266
+00:10:33,610 --> 00:10:35,730
+which means that if we 
+
+267
+00:10:35,730 --> 00:10:39,090
+take the root of the 64 b square, we get 
+our a 
+
+268
+00:10:39,090 --> 00:10:42,830
+square, which means that the root of 64 b 
+
+269
+00:10:42,830 --> 00:10:45,470
+square is 8 and 
+
+270
+00:10:45,470 --> 00:10:47,250
+the root of b square is b, which 
+
+271
+00:10:47,250 --> 00:10:51,050
+means that our a is 8b, which is the 
+number 
+
+272
+00:10:51,050 --> 00:10:54,210
+or term to the left of 
+
+273
+00:10:54,210 --> 00:10:55,770
+our addition or 
+
+274
+00:10:55,770 --> 00:10:57,210
+subtraction sign. We 
+
+275
+00:10:57,210 --> 00:10:58,350
+still have to work out which binomial 
+
+276
+00:10:58,350 --> 00:11:00,290
+formula we can make from this. 
+
+277
+00:11:00,290 --> 00:11:01,830
+First of all, we see here that we have an 
+AB 
+
+278
+00:11:01,830 --> 00:11:05,170
+ part and we have an A² part. 
+
+279
+00:11:05,170 --> 00:11:10,750
+This means that if we have B², AB and A² 
+
+280
+00:11:10,850 --> 00:11:12,210
+, then this tells us in any case 
+
+281
+00:11:12,290 --> 00:11:13,550
+that if we 
+
+282
+00:11:13,550 --> 00:11:14,730
+have the first or second binomial formula, 
+
+283
+00:11:14,730 --> 00:11:17,490
+if we had the third then we would 
+
+284
+00:11:17,490 --> 00:11:20,450
+only have b to the power of 2 or a to the 
+power of 2 or 
+
+285
+00:11:20,450 --> 00:11:22,510
+other parameters or variables to the 
+
+286
+00:11:22,510 --> 00:11:26,590
+square this ab part tells us we 
+
+287
+00:11:26,590 --> 00:11:28,090
+can make the first or second 
+
+288
+00:11:28,090 --> 00:11:29,950
+binomial formula from it we 
+
+289
+00:11:29,950 --> 00:11:31,910
+also see a minus here that means 
+
+290
+00:11:31,910 --> 00:11:33,110
+we can make the second 
+
+291
+00:11:33,110 --> 00:11:34,350
+binomial formula from here because it 
+
+292
+00:11:34,350 --> 00:11:37,550
+contains this and we have 
+
+293
+00:11:37,550 --> 00:11:40,530
+already found out and our a is 
+
+294
+00:11:40,530 --> 00:11:44,090
+8b. This means that if we 
+
+295
+00:11:44,090 --> 00:11:46,730
+divide 80ab by 8b, 
+
+296
+00:11:46,770 --> 00:11:50,010
+we get 10a. Now it's 
+
+297
+00:11:50,010 --> 00:11:51,570
+still 2ab, which means we have to 
+
+298
+00:11:51,570 --> 00:11:53,130
+divide by 2 again and then we 
+
+299
+00:11:53,130 --> 00:11:58,250
+get 5a. This means that 5a 
+
+300
+00:11:58,250 --> 00:12:04,070
+is our b. 
+
+301
+00:12:04,070 --> 00:12:05,470
+We can also calculate the whole, or the 
+5a, 
+
+302
+00:12:05,490 --> 00:12:07,850
+by taking the root... from the b² 
+
+303
+00:12:07,850 --> 00:12:09,290
+now. This is actually also 
+
+304
+00:12:09,290 --> 00:12:10,650
+the easy way, but you should 
+
+305
+00:12:10,650 --> 00:12:11,530
+definitely 
+
+306
+00:12:11,530 --> 00:12:13,490
+check it again with this. This means that 
+the square root 
+
+307
+00:12:13,490 --> 00:12:16,630
+of 25a², the square root of 25 is 5, 
+
+308
+00:12:16,850 --> 00:12:19,590
+the square root of a² is a, which means 
+that 
+
+309
+00:12:19,630 --> 00:12:22,310
+our b is 5a. And 
+
+310
+00:12:22,310 --> 00:12:23,330
+now we have everything we 
+
+311
+00:12:23,330 --> 00:12:24,830
+need for the binomial formula. We have 
+
+312
+00:12:24,830 --> 00:12:26,390
+clarified that we need to create 
+
+313
+00:12:26,390 --> 00:12:28,550
+the second binomial formula . Our a 
+
+314
+00:12:28,550 --> 00:12:31,950
+is 8b and our b is 5a. This means 
+
+315
+00:12:32,030 --> 00:12:34,230
+that we can turn these terms into, 
+
+316
+00:12:34,290 --> 00:12:36,890
+open parentheses, 8b minus 5a, close 
+parentheses, 
+
+317
+00:12:37,030 --> 00:12:39,590
+to the power of 2. And to 
+
+318
+00:12:39,590 --> 00:12:41,270
+do something like this, you simply need 
+
+319
+00:12:41,270 --> 00:12:43,970
+a certain amount of practice so that you 
+know 
+
+320
+00:12:44,030 --> 00:12:47,510
+how best to proceed. That brings us 
+
+321
+00:12:47,510 --> 00:12:48,710
+to 
+
+322
+00:12:48,710 --> 00:12:51,070
+a few example tasks. 
+
+323
+00:12:51,170 --> 00:12:52,530
+The first 
+
+324
+00:12:52,530 --> 00:12:54,330
+example problem we see here is opening the 
+parenthesis, b plus 
+
+325
+00:12:54,330 --> 00:12:56,950
+3d, closing the parenthesis, to the power 
+of 2. We see that 
+
+326
+00:12:56,990 --> 00:12:58,390
+we have the parenthesis to the power of 2, 
+so it 
+
+327
+00:12:58,390 --> 00:12:59,510
+is definitely the first or 
+
+328
+00:12:59,510 --> 00:13:00,750
+second binomial formula that we 
+
+329
+00:13:00,750 --> 00:13:02,550
+need. We also see 
+
+330
+00:13:02,550 --> 00:13:04,110
+an addition in here , a plus sign. 
+
+331
+00:13:04,190 --> 00:13:05,430
+This means that we have the first 
+
+332
+00:13:05,430 --> 00:13:07,250
+binomial formula. The solution 
+
+333
+00:13:07,250 --> 00:13:11,030
+is therefore a² plus 2ab plus b². 
+
+334
+00:13:11,030 --> 00:13:12,310
+Now we just have to apply it here 
+
+335
+00:13:12,310 --> 00:13:14,630
+. In our case, our a 
+
+336
+00:13:14,630 --> 00:13:18,270
+is the b and our b is the 3d. 
+
+337
+00:13:18,270 --> 00:13:21,570
+This means that we have b to the power of 
+2 plus 6 
+
+338
+00:13:21,570 --> 00:13:25,430
+bd plus 3d squared. We have to 
+
+339
+00:13:25,430 --> 00:13:27,350
+square the 3. That is the 9 then. 
+
+340
+00:13:27,390 --> 00:13:29,730
+3 to the power of 2 is 9 and the d. That's 
+how 
+
+341
+00:13:29,730 --> 00:13:32,850
+we get this plus d squared. That 
+
+342
+00:13:32,850 --> 00:13:36,030
+is very important. Then the 
+
+343
+00:13:36,030 --> 00:13:38,510
+next example is a plus c times a 
+
+344
+00:13:38,510 --> 00:13:41,130
+minus c. We see that we have an 
+
+345
+00:13:41,130 --> 00:13:42,270
+addition and a 
+
+346
+00:13:42,270 --> 00:13:44,110
+subtraction. There is no 
+
+347
+00:13:44,110 --> 00:13:45,390
+power in the brackets here. 
+
+348
+00:13:45,390 --> 00:13:47,350
+This means it is the third binomial 
+
+349
+00:13:47,350 --> 00:13:48,750
+formula. 
+
+350
+00:13:48,750 --> 00:13:51,330
+It always contains the same values. And 
+
+351
+00:13:51,330 --> 00:13:54,690
+now we 
+
+352
+00:13:54,690 --> 00:13:56,070
+simply carry out the third binomial 
+formula. The solution to 
+
+353
+00:13:56,070 --> 00:13:59,750
+this is a² minus b². 
+
+354
+00:13:59,750 --> 00:14:02,290
+In our case, a is our a, our b 
+
+355
+00:14:02,290 --> 00:14:04,850
+is b. the c and so we arrive at a² 
+
+356
+00:14:04,850 --> 00:14:06,490
+minus c². 
+
+357
+00:14:09,370 --> 00:14:10,830
+Here we have the 
+
+358
+00:14:10,830 --> 00:14:13,550
+third example again. We see that we 
+
+359
+00:14:13,550 --> 00:14:15,330
+already have the solution to a binomial 
+
+360
+00:14:15,330 --> 00:14:17,130
+formula, i.e. the same problem 
+
+361
+00:14:17,130 --> 00:14:18,650
+as before, and we are now supposed to 
+
+362
+00:14:18,650 --> 00:14:20,970
+create the binomial from it. 
+
+363
+00:14:20,970 --> 00:14:24,310
+First of all, we see that we have 169 
+minus 26b plus 
+
+364
+00:14:24,310 --> 00:14:28,190
+b². That means we have three 
+
+365
+00:14:28,190 --> 00:14:29,890
+elements, we can't 
+
+366
+00:14:29,890 --> 00:14:31,250
+summarize it any further , so it won't 
+
+367
+00:14:31,250 --> 00:14:33,990
+be the third binomial formula. It 
+
+368
+00:14:33,990 --> 00:14:35,270
+'s the first or the second again. 
+
+369
+00:14:36,250 --> 00:14:38,690
+We now have a minus here again 
+
+370
+00:14:38,690 --> 00:14:41,950
+. Consequently, we can turn it into 
+
+371
+00:14:41,950 --> 00:14:43,690
+the second binomial formula. 
+
+372
+00:14:45,010 --> 00:14:46,450
+Now, of course, we have to think about 
+
+373
+00:14:46,470 --> 00:14:48,090
+our a and our b. That's 
+
+374
+00:14:48,090 --> 00:14:51,330
+our a² here. In other words 
+
+375
+00:14:51,330 --> 00:14:54,070
+, we calculate our a by 
+
+376
+00:14:54,070 --> 00:14:56,130
+taking the square root of 169. The square 
+root of 
+
+377
+00:14:56,130 --> 00:15:03,270
+169 is 13, which is our b². 
+
+378
+00:15:03,270 --> 00:15:04,530
+We get our b by 
+
+379
+00:15:04,530 --> 00:15:08,290
+taking the square root here. This means 
+that our b is 
+
+380
+00:15:08,290 --> 00:15:12,030
+b in this case. 
+
+381
+00:15:12,030 --> 00:15:13,510
+We now know which binomial formula we 
+
+382
+00:15:13,510 --> 00:15:15,150
+have and how big a and b are, 
+
+383
+00:15:15,250 --> 00:15:19,770
+namely 13 and b. 
+
+384
+00:15:19,770 --> 00:15:20,890
+As I said, the minus arises from the fact 
+that we 
+
+385
+00:15:20,890 --> 00:15:22,070
+know directly that we have to 
+
+386
+00:15:22,070 --> 00:15:24,290
+apply the second binomial formula because 
+there 
+
+387
+00:15:24,290 --> 00:15:26,410
+is a minus here. So that's how we 
+
+388
+00:15:26,410 --> 00:15:28,630
+get to parenthesis open, 13 minus b 
+parenthesis to 
+
+389
+00:15:28,630 --> 00:15:32,650
+the power of 2. And that's how you can 
+
+390
+00:15:32,650 --> 00:15:36,770
+solve such problems. This brings us 
+
+391
+00:15:36,770 --> 00:15:38,490
+to our last topic. This 
+
+392
+00:15:38,490 --> 00:15:40,530
+is the simplification of fractions and 
+
+393
+00:15:40,530 --> 00:15:41,690
+also the simplification of 
+
+394
+00:15:41,690 --> 00:15:44,290
+roots. So now it's about 
+
+395
+00:15:44,290 --> 00:15:46,670
+simplifying terms using the 
+
+396
+00:15:46,670 --> 00:15:48,790
+binomial formula. 
+
+397
+00:15:48,790 --> 00:15:49,770
+Let's start by looking at a fraction. 
+
+398
+00:15:52,590 --> 00:15:56,150
+16x²-24x±9 by 16x-12 and now 
+
+399
+00:15:56,150 --> 00:15:57,510
+we can simplify 
+
+400
+00:15:57,510 --> 00:15:59,610
+the fraction by factoring it 
+
+401
+00:15:59,610 --> 00:16:01,530
+. This means that we 
+
+402
+00:16:01,530 --> 00:16:03,450
+factorize the numerator and the 
+
+403
+00:16:03,450 --> 00:16:05,790
+denominator, i.e. we express the 
+
+404
+00:16:05,790 --> 00:16:09,270
+numerator or denominator by products 
+
+405
+00:16:09,270 --> 00:16:11,810
+, i.e. by multiplication and 
+
+406
+00:16:11,810 --> 00:16:14,670
+the aim is, of course, 
+
+407
+00:16:14,670 --> 00:16:16,110
+
+408
+00:16:16,110 --> 00:16:17,190
+to have the same term in the numerator and 
+the denominator so that we 
+
+409
+00:16:17,190 --> 00:16:20,050
+can reduce it. And we can 
+
+410
+00:16:20,050 --> 00:16:21,330
+
+411
+00:16:21,330 --> 00:16:24,590
+create a binomial out of this in the last 
+task. That 
+
+412
+00:16:24,590 --> 00:16:29,170
+is 4x-3². This is our 
+
+413
+00:16:29,170 --> 00:16:32,350
+a² again and the root of 16x² is 
+
+414
+00:16:32,350 --> 00:16:35,030
+4x. The square root of 16 is 4 and 
+
+415
+00:16:35,030 --> 00:16:37,810
+the square root of x² is x. That is 
+
+416
+00:16:37,810 --> 00:16:41,030
+our b². This means that our b is 
+
+417
+00:16:41,030 --> 00:16:43,410
+the root of 9 or 3. And the 
+
+418
+00:16:43,410 --> 00:16:46,150
+minus tells us again that we 
+
+419
+00:16:46,150 --> 00:16:47,850
+need the second binomial formula. 
+
+420
+00:16:48,410 --> 00:16:50,290
+Consequently, we can 
+
+421
+00:16:50,290 --> 00:16:52,130
+express the numerator using brackets on 4x 
+minus 
+
+422
+00:16:52,130 --> 00:16:55,230
+3 brackets to the power of 2. Now, 
+
+423
+00:16:55,230 --> 00:16:56,690
+of course, we consider whether we 
+
+424
+00:16:56,690 --> 00:16:58,210
+
+425
+00:16:58,210 --> 00:17:00,070
+can also express the denominator using 
+this term. And yes, 
+
+426
+00:17:00,070 --> 00:17:03,530
+we can , because 4 times this term is also 
+
+427
+00:17:03,530 --> 00:17:06,630
+our denominator. So 4 times 4x is 16 
+
+428
+00:17:06,630 --> 00:17:08,490
+and 4 times minus 3 is minus 12. 
+
+429
+00:17:08,730 --> 00:17:10,610
+And so we arrive at the new denominator 
+
+430
+00:17:10,610 --> 00:17:14,310
+4 times parenthesis to 4x minus 3. And I 
+
+431
+00:17:14,310 --> 00:17:16,310
+think we already know what we 
+
+432
+00:17:16,310 --> 00:17:18,470
+'re going to do next. We 
+
+433
+00:17:18,470 --> 00:17:20,190
+only have 
+
+434
+00:17:20,190 --> 00:17:23,550
+multiplication in the numerator and 
+denominator here , except for the 
+brackets. 
+
+435
+00:17:23,950 --> 00:17:25,510
+We can therefore 
+
+436
+00:17:25,510 --> 00:17:29,630
+shorten the brackets . We now shorten the 
+
+437
+00:17:29,630 --> 00:17:34,990
+parentheses in the denominator with the 
+power. And 
+
+438
+00:17:34,990 --> 00:17:39,430
+then we are left with 4x-3 divided by 4 
+
+439
+00:17:39,430 --> 00:17:40,770
+, which looks much simpler 
+
+440
+00:17:40,770 --> 00:17:44,790
+than the term here. And that's the end of 
+
+441
+00:17:44,790 --> 00:17:46,770
+the task and 
+
+442
+00:17:46,770 --> 00:17:48,430
+we'll now take a brief look at 
+
+443
+00:17:48,430 --> 00:17:51,310
+simplifying roots. The important thing to 
+
+444
+00:17:51,310 --> 00:17:53,090
+remember when simplifying roots 
+
+445
+00:17:53,270 --> 00:17:55,250
+is that if we take the square root, which 
+
+446
+00:17:55,250 --> 00:17:56,370
+is the normal root where there 
+
+447
+00:17:56,370 --> 00:17:57,410
+is nothing here , then whenever there 
+
+448
+00:17:57,410 --> 00:17:58,670
+is nothing here, it is the 
+
+449
+00:17:58,670 --> 00:18:02,370
+square root. If we 
+
+450
+00:18:02,370 --> 00:18:04,750
+raise it to the power of 2 or square it, 
+
+451
+00:18:04,750 --> 00:18:06,970
+the root is omitted . This means 
+
+452
+00:18:06,970 --> 00:18:08,470
+that in this case we have the root of 4 
+plus the 
+
+453
+00:18:08,470 --> 00:18:12,290
+root of 3, the whole to the power of 2. 
+
+454
+00:18:12,290 --> 00:18:13,950
+So we see that we need the first 
+
+455
+00:18:13,950 --> 00:18:18,190
+binomial formula because we have 
+
+456
+00:18:18,190 --> 00:18:23,680
+an addition here. And root 4 is 
+
+457
+00:18:23,680 --> 00:18:30,010
+our a and root 3 is our b. The 
+
+458
+00:18:30,010 --> 00:18:31,910
+solution to the first binomial formula 
+
+459
+00:18:31,910 --> 00:18:36,830
+is a² plus 2ab equals b². 
+
+460
+00:18:39,380 --> 00:18:42,060
+In our case, we arrive at the 
+
+461
+00:18:42,060 --> 00:18:45,180
+root 4 to the power of 2. We then have two 
+
+462
+00:18:45,180 --> 00:18:48,980
+options. Either you 
+
+463
+00:18:48,980 --> 00:18:50,260
+solve the root straight away. You say that 
+the 
+
+464
+00:18:50,360 --> 00:18:52,880
+root and the power of 2 cancel each other 
+out. This is 
+
+465
+00:18:52,880 --> 00:18:56,180
+simply 4. Or you 
+
+466
+00:18:56,180 --> 00:18:58,100
+square the square root. So 
+
+467
+00:18:58,100 --> 00:19:00,280
+4 squares 16, which is what was 
+
+468
+00:19:00,280 --> 00:19:03,900
+done here. Then we continue with 2ab. 
+
+469
+00:19:04,040 --> 00:19:05,920
+So 2 times root 4 times root 3. 
+
+470
+00:19:06,720 --> 00:19:09,300
+plus b to the square 16. so root 3 
+
+471
+00:19:09,300 --> 00:19:10,800
+to the square in this case was also 
+squared 
+
+472
+00:19:10,800 --> 00:19:13,620
+under the root so 3 
+
+473
+00:19:13,620 --> 00:19:17,820
+to the power of 2 so we get the root 
+
+474
+00:19:17,820 --> 00:19:20,280
+of 9 of course we simplify that 
+
+475
+00:19:20,280 --> 00:19:21,980
+now the root of 16 is 4 
+
+476
+00:19:21,980 --> 00:19:25,400
+and the root of 9 is 3 root 4 
+
+477
+00:19:25,400 --> 00:19:26,980
+times root 3 these are now root 
+
+478
+00:19:26,980 --> 00:19:30,560
+laws can be added together to 3 
+
+479
+00:19:30,560 --> 00:19:33,300
+times 4, 12, so the root of 12. 
+
+480
+00:19:35,300 --> 00:19:37,140
+This means that we can now simplify it 
+
+481
+00:19:37,140 --> 00:19:40,680
+to 4 plus 2 times the root of 
+
+482
+00:19:40,680 --> 00:19:43,280
+12 plus 3. Of course we could 
+
+483
+00:19:43,280 --> 00:19:46,680
+still do that , we could still 
+
+484
+00:19:46,680 --> 00:19:49,020
+add 4 plus 3 to get 7, but that's already 
+
+485
+00:19:49,020 --> 00:19:52,540
+simplified . That 
+
+486
+00:19:52,540 --> 00:19:54,480
+brings us to the end of the webinar. 
+
+487
+00:19:54,480 --> 00:19:56,440
+Thank you for your attention. 

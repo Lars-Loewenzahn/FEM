@@ -1,0 +1,1064 @@
+1
+00:00:02,000 --> 00:00:04,000
+Herzlich willkommen zum Webinar
+
+2
+00:00:04,000 --> 00:00:06,380
+Runden. Wir werden uns in diesem
+
+3
+00:00:06,380 --> 00:00:07,900
+Webinar mit dem Runden beschäftigen.
+
+4
+00:00:07,940 --> 00:00:09,420
+Wir werden uns zuerst das Runden auf
+
+5
+00:00:09,420 --> 00:00:11,060
+Zehner anschauen, danach das Runden
+
+6
+00:00:11,060 --> 00:00:12,340
+auf Hunderter und das Runden auf
+
+7
+00:00:12,340 --> 00:00:14,480
+Tausender. Ganz zum Schluss werden
+
+8
+00:00:14,480 --> 00:00:16,020
+wir anhand einer etwas größeren
+
+9
+00:00:16,020 --> 00:00:18,040
+Zahlen das Runden nochmal vorführen.
+
+10
+00:00:18,140 --> 00:00:19,680
+Das heißt gemischt, also wir runden
+
+11
+00:00:19,680 --> 00:00:20,960
+einmal auf Zehner, Hunderter und
+
+12
+00:00:20,960 --> 00:00:23,540
+Tausender in dem Beispiel. Und zeigen
+
+13
+00:00:23,540 --> 00:00:27,160
+so die Unterschiede. Fangen wir mit
+
+14
+00:00:27,160 --> 00:00:28,700
+dem etwas Allgemeinen zu dem Runden
+
+15
+00:00:28,700 --> 00:00:31,040
+an. Das Runden wird benötigt, damit
+
+16
+00:00:31,040 --> 00:00:32,680
+man eine einfache Darstellung von
+
+17
+00:00:32,680 --> 00:00:34,700
+Zahlen erlangt. Das heißt, dass
+
+18
+00:00:34,700 --> 00:00:36,320
+gerade bei großen Zahlen man sich
+
+19
+00:00:36,320 --> 00:00:37,320
+vielleicht auf das Wesentliche
+
+20
+00:00:37,320 --> 00:00:39,180
+beschränkt und auf ein exaktes
+
+21
+00:00:39,180 --> 00:00:40,840
+Ergebnis verzichtet. Das heißt, dass
+
+22
+00:00:40,840 --> 00:00:42,340
+man vielleicht einige Stellen, die
+
+23
+00:00:42,340 --> 00:00:44,980
+weit hinten liegen, rundet, sodass
+
+24
+00:00:44,980 --> 00:00:47,200
+man die Zahl besser verarbeiten kann,
+
+25
+00:00:47,240 --> 00:00:48,200
+sich vielleicht auch besser merken
+
+26
+00:00:48,200 --> 00:00:50,560
+kann oder eine Überschlagsrechnung
+
+27
+00:00:50,560 --> 00:00:54,000
+mit ihr durchführen kann. wird
+
+28
+00:00:54,000 --> 00:00:55,480
+gerundet. Das Runden ist an und für
+
+29
+00:00:55,480 --> 00:00:57,200
+sich gar nicht so schwer. Man muss
+
+30
+00:00:57,200 --> 00:00:59,580
+nur zwei wichtige Regeln folgen. Die
+
+31
+00:00:59,580 --> 00:01:01,800
+erste ist, man betrachtet immer die
+
+32
+00:01:01,800 --> 00:01:04,360
+Ziffer, die hinter der jeweiligen
+
+33
+00:01:04,360 --> 00:01:06,740
+Stelle steht, bis zu der man runden
+
+34
+00:01:06,740 --> 00:01:09,240
+möchte. Das bedeutet, wenn wir auf
+
+35
+00:01:09,240 --> 00:01:10,660
+Zehner runden möchten, schauen wir
+
+36
+00:01:10,660 --> 00:01:12,100
+uns die Stelle rechts daneben an, die
+
+37
+00:01:12,100 --> 00:01:14,380
+Einer. Wenn wir auf Hunderter runden
+
+38
+00:01:14,380 --> 00:01:15,760
+wollen, schauen wir uns die Stelle
+
+39
+00:01:15,760 --> 00:01:17,320
+rechts daneben an, also die Zehner.
+
+40
+00:01:17,700 --> 00:01:19,360
+Wenn wir auf Tausender runden wollen,
+
+41
+00:01:19,480 --> 00:01:20,820
+schauen wir uns auch dabei wieder die
+
+42
+00:01:20,820 --> 00:01:22,540
+Stelle rechts daneben an und das sind
+
+43
+00:01:22,540 --> 00:01:26,220
+die Hunderter. Wichtig dabei ist,
+
+44
+00:01:26,320 --> 00:01:28,340
+dass immer nur die eine Stelle rechts
+
+45
+00:01:28,340 --> 00:01:30,060
+daneben gilt und es wird nur einmal
+
+46
+00:01:30,060 --> 00:01:31,560
+gerundet. Das werde ich gleich auch
+
+47
+00:01:31,560 --> 00:01:33,320
+nochmal bei den Runden auf Hunderter
+
+48
+00:01:33,320 --> 00:01:34,440
+und Runden auf Tausender zeigen und
+
+49
+00:01:34,440 --> 00:01:36,060
+erwähnen, was ich damit meine. Es
+
+50
+00:01:36,060 --> 00:01:37,540
+wird immer nur einmal gerundet und
+
+51
+00:01:37,540 --> 00:01:38,940
+dabei schaut man sich immer nur die
+
+52
+00:01:38,940 --> 00:01:41,440
+Stelle rechts von der Stelle an, die
+
+53
+00:01:41,440 --> 00:01:44,200
+gerundet werden soll. Die zweite
+
+54
+00:01:44,200 --> 00:01:46,120
+wichtige Regel ist die Regel, wie
+
+55
+00:01:46,120 --> 00:01:48,120
+gerundet wird. Bei allen Zahlen,
+
+56
+00:01:48,260 --> 00:01:51,180
+entweder von 0, 1, 2, 3 bis
+
+57
+00:01:51,180 --> 00:01:53,320
+einschließlich 4, wird abgerundet.
+
+58
+00:01:53,560 --> 00:01:55,160
+Das heißt, man sagt auch, alle
+
+59
+00:01:55,160 --> 00:01:56,640
+Zahlen, die kleiner als 5 sind,
+
+60
+00:01:56,760 --> 00:01:59,020
+werden abgerundet. Oder dann wird
+
+61
+00:01:59,020 --> 00:02:01,900
+abgerundet. Wenn die Zahl eine 5, 6,
+
+62
+00:02:02,020 --> 00:02:03,960
+7, 8 oder eine 9 ist, wird
+
+63
+00:02:03,960 --> 00:02:07,380
+aufgerundet. Das heißt, ist die Zahl
+
+64
+00:02:07,380 --> 00:02:09,040
+kleiner als eine 5, wird abgerundet.
+
+65
+00:02:09,040 --> 00:02:10,400
+ist sie größer als eine 5 wird
+
+66
+00:02:10,400 --> 00:02:11,820
+aufgerundet. Wichtig ist, wir
+
+67
+00:02:11,820 --> 00:02:13,240
+sprechen immer über die Zahl, die
+
+68
+00:02:13,240 --> 00:02:15,020
+rechts von der zu rundenden Stelle
+
+69
+00:02:15,020 --> 00:02:18,720
+steht. Fangen wir mit dem Runden auf
+
+70
+00:02:18,720 --> 00:02:21,380
+Zehnern an. Wie gesagt, hier steht
+
+71
+00:02:21,380 --> 00:02:22,760
+nochmal oben die Regel, wie gerundet
+
+72
+00:02:22,760 --> 00:02:24,520
+wird. Wenn die einer Stelle kleiner
+
+73
+00:02:24,520 --> 00:02:27,500
+als 5 ist, wird abgerundet. Wenn die
+
+74
+00:02:27,500 --> 00:02:29,780
+einer Stelle gleich oder größer als 5
+
+75
+00:02:29,780 --> 00:02:31,520
+ist, wird aufgerundet. Wie gesagt,
+
+76
+00:02:31,640 --> 00:02:33,900
+weil wir auf 10er runden, schauen wir
+
+77
+00:02:33,900 --> 00:02:35,920
+uns die 1er an. Das sind ja hier die
+
+78
+00:02:35,920 --> 00:02:37,280
+1er, wir wollen ja auf die 10er
+
+79
+00:02:37,280 --> 00:02:38,900
+runden. Die 1er sind, wie jetzt schon
+
+80
+00:02:38,900 --> 00:02:40,780
+mehrmals gesagt, die Stelle rechts
+
+81
+00:02:40,780 --> 00:02:44,100
+von den 10ern. Gut, die 1er sind bei
+
+82
+00:02:44,100 --> 00:02:47,860
+der 723 eine 3. Die 3 ist kleiner als
+
+83
+00:02:47,860 --> 00:02:50,160
+die 5, folglich wird abgerundet und
+
+84
+00:02:50,160 --> 00:02:51,680
+wir erhalten eine 720.
+
+85
+00:02:54,270 --> 00:02:56,010
+Als nächste Zahl haben wir die 48.
+
+86
+00:02:57,010 --> 00:02:58,650
+Das heißt, hier betrachten wir auch
+
+87
+00:02:58,650 --> 00:02:59,910
+wieder die 1, das sind in dem Fall
+
+88
+00:02:59,910 --> 00:03:02,930
+eine 8. Die 8 ist größer als die 5,
+
+89
+00:03:03,090 --> 00:03:05,050
+also wird aufgerundet. Folglich gehen
+
+90
+00:03:05,050 --> 00:03:07,730
+wir zu den nächstgrößeren 10ern und
+
+91
+00:03:07,730 --> 00:03:12,160
+das ist dann die 50. Als nächstes
+
+92
+00:03:12,160 --> 00:03:15,780
+haben wir die 574. Die 1 ist hierbei
+
+93
+00:03:15,780 --> 00:03:17,840
+eine 4. Die 4 ist kleiner als die 5,
+
+94
+00:03:18,000 --> 00:03:20,820
+also wird abgerundet zur 570.
+
+95
+00:03:23,170 --> 00:03:24,910
+Hier haben wir ein Beispiel, was
+
+96
+00:03:24,910 --> 00:03:26,270
+oftmals Probleme bereitet. Wir haben
+
+97
+00:03:26,270 --> 00:03:29,730
+die 96. Die 6 ist größer als die 5,
+
+98
+00:03:29,870 --> 00:03:31,830
+also wird aufgerundet. Soweit kennen
+
+99
+00:03:31,830 --> 00:03:32,990
+wir das jetzt ja schon. Jetzt ist nur
+
+100
+00:03:32,990 --> 00:03:35,890
+das Problem, wir können die 10er
+
+101
+00:03:35,890 --> 00:03:37,930
+nicht mehr erhöhen, weil wir haben ja
+
+102
+00:03:37,930 --> 00:03:41,210
+schon die 9. Deswegen müssen wir die
+
+103
+00:03:41,210 --> 00:03:44,570
+nächsten 100er aufmachen. Und 96 ist
+
+104
+00:03:44,570 --> 00:03:45,970
+daher aufgerundet 100.
+
+105
+00:03:48,750 --> 00:03:52,250
+Als nächstes haben wir die 455. Hier
+
+106
+00:03:52,250 --> 00:03:54,110
+betrachten wir die rechte 5, also die
+
+107
+00:03:54,110 --> 00:03:57,650
+1er. Und 5, wir haben ja gerade
+
+108
+00:03:57,650 --> 00:04:00,210
+gelernt, ab 5... wird aufgerundet und
+
+109
+00:04:00,210 --> 00:04:02,230
+wir haben dort eine 5, daher runden
+
+110
+00:04:02,230 --> 00:04:04,770
+wir die 455 auf und erhalten so die
+
+111
+00:04:04,770 --> 00:04:06,190
+460.
+
+112
+00:04:08,730 --> 00:04:10,930
+Und damit sind wir auch schon bei den
+
+113
+00:04:10,930 --> 00:04:12,550
+Runden auf Hundertern. Das Runden auf
+
+114
+00:04:12,550 --> 00:04:14,370
+Hunderter funktioniert eigentlich
+
+115
+00:04:14,370 --> 00:04:16,110
+genauso. Wichtig ist jetzt nur, wenn
+
+116
+00:04:16,110 --> 00:04:18,170
+wir auf Hunderter runden, schauen wir
+
+117
+00:04:18,170 --> 00:04:19,670
+uns die Zehnerstelle an. Wenn die
+
+118
+00:04:19,670 --> 00:04:21,610
+Zehnerstelle kleiner als die 5 ist,
+
+119
+00:04:21,650 --> 00:04:23,370
+wird abgerundet und wenn die 10er
+
+120
+00:04:23,370 --> 00:04:25,910
+Stelle größer oder gleich 5 ist, wird
+
+121
+00:04:25,910 --> 00:04:28,670
+aufgerundet. Wichtig ist hierbei, was
+
+122
+00:04:28,670 --> 00:04:30,110
+ich schon mal zu Anfang gesagt habe,
+
+123
+00:04:30,230 --> 00:04:31,990
+die 1er Stelle ist nicht von
+
+124
+00:04:31,990 --> 00:04:33,330
+Bedeutung, die betrachten wir gar
+
+125
+00:04:33,330 --> 00:04:35,710
+nicht. Das heißt, wir wollen jetzt
+
+126
+00:04:35,710 --> 00:04:38,550
+die 723 auf 100er runden, daher
+
+127
+00:04:38,550 --> 00:04:41,890
+betrachten wir nur die 2. Es ist
+
+128
+00:04:41,890 --> 00:04:43,890
+egal, was hier für eine Stelle steht.
+
+129
+00:04:44,610 --> 00:04:48,470
+Wir haben die 723, wir betrachten
+
+130
+00:04:48,470 --> 00:04:51,510
+lediglich die 10er, weil wir wollen
+
+131
+00:04:51,510 --> 00:04:53,650
+auf 100er runden. Das ist die zweite
+
+132
+00:04:53,650 --> 00:04:55,070
+Stelle von rechts, die Zehner immer.
+
+133
+00:04:55,550 --> 00:04:57,630
+Und wir haben in dem Falle 2. Die 2
+
+134
+00:04:57,630 --> 00:04:59,290
+ist kleiner als die 5. Also wird
+
+135
+00:04:59,290 --> 00:05:01,330
+abgerundet und wir erhalten die 700.
+
+136
+00:05:02,490 --> 00:05:04,050
+Also wenn wir auf Hunderter runden,
+
+137
+00:05:04,110 --> 00:05:05,930
+dann kommt nach der Hunderter Ziffer
+
+138
+00:05:05,930 --> 00:05:08,370
+auch nur noch 0. Das ist immer so.
+
+139
+00:05:09,170 --> 00:05:11,030
+Genauso wie als wir gerade auf Zehner
+
+140
+00:05:11,030 --> 00:05:12,610
+gerundet haben, kam nach der Zehner
+
+141
+00:05:12,610 --> 00:05:13,790
+Ziffer nur noch eine 0.
+
+142
+00:05:16,860 --> 00:05:20,100
+Als nächstes haben wir die 248. Das
+
+143
+00:05:20,100 --> 00:05:21,240
+ist jetzt so ein Beispiel, was ich
+
+144
+00:05:21,240 --> 00:05:23,820
+vorhin meinte. Wenn man jetzt zweimal
+
+145
+00:05:23,820 --> 00:05:25,280
+runden würde, würde man die 8
+
+146
+00:05:25,280 --> 00:05:26,820
+aufrunden, also erst auf die 10er
+
+147
+00:05:26,820 --> 00:05:27,940
+runden, hätte man hier eine 5 stehen.
+
+148
+00:05:28,060 --> 00:05:29,240
+Und wenn wir dann auf die 100er
+
+149
+00:05:29,240 --> 00:05:30,560
+runden würden, würden wir aufrunden.
+
+150
+00:05:31,200 --> 00:05:32,660
+Das machen wir nicht. Es wird immer
+
+151
+00:05:32,660 --> 00:05:33,940
+nur einmal gerundet und wir
+
+152
+00:05:33,940 --> 00:05:36,380
+betrachten daher auch immer nur die
+
+153
+00:05:36,380 --> 00:05:39,180
+Stelle rechts von der Stelle, die
+
+154
+00:05:39,180 --> 00:05:40,820
+gerundet werden soll. Also wenn auf
+
+155
+00:05:40,820 --> 00:05:42,360
+100er gerundet werden soll, die 10er
+
+156
+00:05:42,360 --> 00:05:44,600
+Stelle. Das ist hier eine 4 und
+
+157
+00:05:44,600 --> 00:05:45,860
+deswegen ist es auch egal, dass hier
+
+158
+00:05:45,860 --> 00:05:48,260
+eine 8 steht. Das ist eine 4. Die 4
+
+159
+00:05:48,260 --> 00:05:49,960
+ist kleiner als die 5, also müssen
+
+160
+00:05:49,960 --> 00:05:54,400
+wir abrunden zur 200. Als nächstes
+
+161
+00:05:54,400 --> 00:05:57,360
+haben wir die 574. Wir haben hier die
+
+162
+00:05:57,360 --> 00:06:00,280
+10er 7 und die 7 ist größer als die
+
+163
+00:06:00,280 --> 00:06:04,620
+5. Also wird einfach aufgerundet. Als
+
+164
+00:06:04,620 --> 00:06:05,920
+nächstes haben wir wieder so ein
+
+165
+00:06:05,920 --> 00:06:07,000
+Beispiel, was oftmals Probleme
+
+166
+00:06:07,000 --> 00:06:10,860
+bereitet, die 996. Auch hier
+
+167
+00:06:10,860 --> 00:06:12,720
+betrachten wir die 10er, also die 9
+
+168
+00:06:12,720 --> 00:06:15,160
+und die 9 ist größer als die 5, also
+
+169
+00:06:15,160 --> 00:06:16,920
+wird aufgerundet. Das heißt, wir
+
+170
+00:06:16,920 --> 00:06:19,700
+möchten die 100er um 1 erhöhen. Das
+
+171
+00:06:19,700 --> 00:06:20,740
+geht aber nicht, weil wir haben da
+
+172
+00:06:20,740 --> 00:06:23,540
+schon eine 9 stehen, deswegen ist 996
+
+173
+00:06:23,540 --> 00:06:27,220
+aufgerundet 1000. Dann muss man halt
+
+174
+00:06:27,220 --> 00:06:30,720
+die 1000er um 1 erhöhen. die 100er
+
+175
+00:06:30,720 --> 00:06:31,800
+nicht mehr erhöhen kann, weil da
+
+176
+00:06:31,800 --> 00:06:36,820
+schon eine 9 steht. Die 455. In dem
+
+177
+00:06:36,820 --> 00:06:39,940
+Fall haben wir bei den 10ern eine 5
+
+178
+00:06:39,940 --> 00:06:43,280
+stehen. Daher 5 ist gleich 5 und wir
+
+179
+00:06:43,280 --> 00:06:44,920
+haben ja gelernt, ab wann wird
+
+180
+00:06:44,920 --> 00:06:47,540
+aufgerundet. Daher ist die 455
+
+181
+00:06:47,540 --> 00:06:52,820
+gerundet 500. Und damit sind wir auch
+
+182
+00:06:52,820 --> 00:06:54,900
+schon bei den Runden auf Tausendern.
+
+183
+00:06:55,760 --> 00:06:57,360
+Beim Runden auf Tausendern schauen
+
+184
+00:06:57,360 --> 00:06:58,460
+wir uns wie gesagt auch die Stelle
+
+185
+00:06:58,460 --> 00:06:59,980
+rechts an. daneben an, das ist die
+
+186
+00:06:59,980 --> 00:07:01,760
+100er Stelle. Wenn diese kleiner als
+
+187
+00:07:01,760 --> 00:07:04,560
+5 ist, wird abgerundet und wenn diese
+
+188
+00:07:04,560 --> 00:07:06,500
+gleich oder größer als 5 ist, wird
+
+189
+00:07:06,500 --> 00:07:08,920
+aufgerundet. Und hierbei
+
+190
+00:07:08,920 --> 00:07:10,480
+interessieren uns wie gesagt auch nur
+
+191
+00:07:10,480 --> 00:07:12,480
+die 100er, nicht die 10er Stellen und
+
+192
+00:07:12,480 --> 00:07:14,840
+auch nicht die 1er Stellen. Wir haben
+
+193
+00:07:14,840 --> 00:07:19,740
+hier die 3423. Die 100er Stelle ist
+
+194
+00:07:19,740 --> 00:07:22,200
+immer die dritte Stelle von rechts.
+
+195
+00:07:23,320 --> 00:07:24,920
+Die dritte Stelle von rechts ist die
+
+196
+00:07:24,920 --> 00:07:26,300
+erste, zweite und die dritte. Das
+
+197
+00:07:26,300 --> 00:07:28,440
+heißt in dem Fall ist es die 4. Das
+
+198
+00:07:28,440 --> 00:07:31,040
+sind unsere Hunderter. Die 4 ist
+
+199
+00:07:31,040 --> 00:07:33,020
+kleiner als die 5, also wird
+
+200
+00:07:33,020 --> 00:07:36,580
+abgerundet und 3423 wird abgerundet
+
+201
+00:07:36,580 --> 00:07:40,760
+auf 3000. Als nächstes haben wir die
+
+202
+00:07:40,760 --> 00:07:44,240
+6758. Die 7 ist unsere
+
+203
+00:07:44,240 --> 00:07:48,380
+Hunderterstelle und die 7 ist größer
+
+204
+00:07:48,380 --> 00:07:50,920
+als die 5, also wird aufgerundet in
+
+205
+00:07:50,920 --> 00:07:52,540
+dem Fall zu dem nächstgrößten
+
+206
+00:07:52,540 --> 00:07:57,340
+Tausender. Das sind dann 7000. Bei
+
+207
+00:07:57,340 --> 00:08:03,040
+der 7455 haben wir 4 Hunderter. Die 4
+
+208
+00:08:03,040 --> 00:08:04,740
+ist kleiner als die 5, also wird
+
+209
+00:08:04,740 --> 00:08:06,840
+abgerundet zur 7000.
+
+210
+00:08:09,270 --> 00:08:10,850
+Als nächstes haben wir hier wieder
+
+211
+00:08:10,850 --> 00:08:14,070
+die 9612. Wir haben bei den
+
+212
+00:08:14,070 --> 00:08:15,890
+Hundertern eine 6, das heißt es wird
+
+213
+00:08:15,890 --> 00:08:17,870
+aufgerundet zum nächstgrößeren
+
+214
+00:08:17,870 --> 00:08:19,310
+Tausender. Aber wir haben ja schon
+
+215
+00:08:19,310 --> 00:08:22,290
+die 9. Das heißt wir müssen jetzt zum
+
+216
+00:08:22,290 --> 00:08:24,890
+nächstgrößeren Zehntausender. Und das
+
+217
+00:08:24,890 --> 00:08:28,770
+ist 10.000 dann die Zahl. Also 9612
+
+218
+00:08:28,770 --> 00:08:31,950
+aufgerundet auf Tausender ergibt 10
+
+219
+00:08:31,950 --> 00:08:32,810
+.000.
+
+220
+00:08:35,370 --> 00:08:36,970
+Als nächstes haben wir noch die Zahl
+
+221
+00:08:36,970 --> 00:08:41,610
+1574. Hier haben wir 500er und wir
+
+222
+00:08:41,610 --> 00:08:43,050
+haben ja gelernt, bei 5 wird
+
+223
+00:08:43,050 --> 00:08:44,790
+aufgerundet und so erhalten wir
+
+224
+00:08:44,790 --> 00:08:46,250
+gerundet die 2000.
+
+225
+00:08:48,870 --> 00:08:50,630
+Damit wären wir auch schon beim
+
+226
+00:08:50,630 --> 00:08:52,850
+gemischten Runden. Und zwar sehen wir
+
+227
+00:08:52,850 --> 00:08:55,450
+hier 3 mal die gleiche Zahl. Es ist
+
+228
+00:08:55,450 --> 00:08:59,750
+die 467.372 und wir wollen die...
+
+229
+00:08:59,770 --> 00:09:00,910
+diese nun einmal auf Zehner,
+
+230
+00:09:00,990 --> 00:09:04,070
+Hunderter und Tausender runden. Und
+
+231
+00:09:04,070 --> 00:09:05,090
+wir haben ja gelernt, wenn wir auf
+
+232
+00:09:05,090 --> 00:09:07,110
+Zehner runden, betrachten wir die
+
+233
+00:09:07,110 --> 00:09:08,310
+Einer einfach nur. Das ist, wie
+
+234
+00:09:08,310 --> 00:09:09,670
+gesagt, die erste Stelle von rechts,
+
+235
+00:09:09,710 --> 00:09:13,030
+also die Zwei. Die Zwei ist kleiner
+
+236
+00:09:13,030 --> 00:09:14,330
+als die Fünf. Wir müssen also
+
+237
+00:09:14,330 --> 00:09:20,590
+abrunden zur 467.370. Und ich denke,
+
+238
+00:09:20,590 --> 00:09:23,110
+ihr seht schon, desto mehr wir
+
+239
+00:09:23,110 --> 00:09:25,670
+runden, desto kompakter wird die Zahl
+
+240
+00:09:25,670 --> 00:09:26,610
+und desto besser kann man sich auch
+
+241
+00:09:26,610 --> 00:09:28,790
+merken. Das ist nämlich auch ein
+
+242
+00:09:28,790 --> 00:09:31,130
+großer Faktor. Gut, als nächstes
+
+243
+00:09:31,130 --> 00:09:32,110
+wollen wir einmal auf Hunderter
+
+244
+00:09:32,110 --> 00:09:36,030
+runden, also die 467.372 auf
+
+245
+00:09:36,030 --> 00:09:38,250
+Hunderter gerundet. Dafür schauen wir
+
+246
+00:09:38,250 --> 00:09:39,750
+uns die 10er an. Die 10er sind wie
+
+247
+00:09:39,750 --> 00:09:41,410
+gesagt die zweite Stelle von rechts,
+
+248
+00:09:41,470 --> 00:09:44,330
+also in dem Fall die 7. Die 7 ist
+
+249
+00:09:44,330 --> 00:09:48,210
+größer als die 5, also runden wir
+
+250
+00:09:48,210 --> 00:09:49,890
+zunächst größer und Hunderter auf.
+
+251
+00:09:49,890 --> 00:09:53,430
+das heißt aus der 3 wird eine 4 und
+
+252
+00:09:53,430 --> 00:09:59,250
+wir kommen zu 467.400. Zum Schluss
+
+253
+00:09:59,250 --> 00:10:00,650
+runden wir noch einmal auf die
+
+254
+00:10:00,650 --> 00:10:03,790
+Tausender, das heißt wir schauen uns
+
+255
+00:10:03,790 --> 00:10:05,290
+in dem Fall die Hunderter Stelle an,
+
+256
+00:10:05,430 --> 00:10:06,670
+das ist wie vorhin schon mal gesagt
+
+257
+00:10:06,670 --> 00:10:08,110
+die dritte Stelle von rechts, also
+
+258
+00:10:08,110 --> 00:10:12,390
+die 3 und wir stellen fest wir haben
+
+259
+00:10:12,390 --> 00:10:14,370
+eine 3, die 3 ist kleiner als die
+
+260
+00:10:14,370 --> 00:10:17,090
+fünf also wird abgerundet wir gehen
+
+261
+00:10:17,090 --> 00:10:22,050
+also zum 467.000 und das ist schon so
+
+262
+00:10:22,050 --> 00:10:23,270
+eine zahl die man sich gut merken
+
+263
+00:10:23,270 --> 00:10:25,250
+kann und die auch immer noch genau
+
+264
+00:10:25,250 --> 00:10:29,350
+genug ist damit wären wir am ende des
+
+265
+00:10:29,350 --> 00:10:31,630
+webinars ich bedanke mich für eure
+
+266
+00:10:31,630 --> 00:10:32,290
+aufmerksamkeit
+

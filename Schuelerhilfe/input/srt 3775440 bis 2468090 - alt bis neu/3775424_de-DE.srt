@@ -1,0 +1,356 @@
+1
+00:00:04,270 --> 00:00:06,810
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,810 --> 00:00:07,830
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,830 --> 00:00:09,710
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,710 --> 00:00:10,970
+etwas über die Darstellung und
+
+5
+00:00:10,970 --> 00:00:12,470
+Eigenschaften von Nichtmetallen
+
+6
+00:00:12,470 --> 00:00:14,530
+erklären. In unserem Online
+
+7
+00:00:14,530 --> 00:00:16,270
+-Lerncenter steht dir zu diesem Thema
+
+8
+00:00:16,270 --> 00:00:17,650
+natürlich auch noch ein Wiki zur
+
+9
+00:00:17,650 --> 00:00:18,890
+Verfügung, in dem dir die
+
+10
+00:00:18,890 --> 00:00:20,610
+grundlegenden und wichtigen Begriffe
+
+11
+00:00:20,610 --> 00:00:23,210
+genauer erklärt werden. Zunächst
+
+12
+00:00:23,210 --> 00:00:25,110
+schauen wir uns an, wie Nichtmetalle
+
+13
+00:00:25,110 --> 00:00:27,010
+unterteilt werden, nämlich in
+
+14
+00:00:27,010 --> 00:00:28,870
+reaktive Nichtmetalle, also
+
+15
+00:00:28,870 --> 00:00:31,630
+Nichtmetalle, und Halogene und in
+
+16
+00:00:31,630 --> 00:00:33,770
+Edelgase. Wie du vielleicht schon
+
+17
+00:00:33,770 --> 00:00:35,910
+weißt, sind Edelgase nicht reaktiv,
+
+18
+00:00:35,990 --> 00:00:38,190
+da sie den Optimalzustand, also die
+
+19
+00:00:38,190 --> 00:00:39,810
+Edelgaskonfiguration, bereits
+
+20
+00:00:39,810 --> 00:00:41,550
+erreicht haben. Zur
+
+21
+00:00:41,550 --> 00:00:43,350
+Edelgaskonfiguration steht dir in
+
+22
+00:00:43,350 --> 00:00:45,030
+unserem Online-Lerncenter auch ein
+
+23
+00:00:45,030 --> 00:00:48,910
+separates Video zur Verfügung. Die
+
+24
+00:00:48,910 --> 00:00:50,490
+Edelgaskonfiguration tritt dann ein,
+
+25
+00:00:50,610 --> 00:00:52,610
+wenn ein Element 8 Außenelektronen
+
+26
+00:00:52,610 --> 00:00:54,450
+hat, wie es bei den Edelgasen der
+
+27
+00:00:54,450 --> 00:00:57,130
+Fall ist. Alle anderen Elemente, die
+
+28
+00:00:57,130 --> 00:00:58,710
+diesen Zustand quasi nicht von
+
+29
+00:00:58,710 --> 00:01:00,730
+vornherein haben, streben diesen an.
+
+30
+00:01:01,570 --> 00:01:03,510
+Nichtmetalle können fest oder flüssig
+
+31
+00:01:03,510 --> 00:01:06,910
+sein, Halogene sind gasförmig. Nun
+
+32
+00:01:06,910 --> 00:01:08,250
+schauen wir uns an, wo sich die
+
+33
+00:01:08,250 --> 00:01:09,730
+Nichtmetalle im Periodensystem
+
+34
+00:01:09,730 --> 00:01:12,290
+befinden. Allgemein unterschieden
+
+35
+00:01:12,290 --> 00:01:13,750
+wird im Periodensystem zwischen
+
+36
+00:01:13,750 --> 00:01:15,570
+Metallen, Halbmetallen und
+
+37
+00:01:15,570 --> 00:01:17,930
+Nichtmetallen. Die Nichtmetalle
+
+38
+00:01:17,930 --> 00:01:19,910
+befinden sich rechts oben, außer
+
+39
+00:01:19,910 --> 00:01:21,910
+Wasserstoff, wie du auch der Grafik
+
+40
+00:01:21,910 --> 00:01:24,230
+entnehmen kannst. In der Grafik sind
+
+41
+00:01:24,230 --> 00:01:25,830
+die Nichtmetalle grün und die
+
+42
+00:01:25,830 --> 00:01:27,370
+Halogene, bei denen wir ja eben
+
+43
+00:01:27,370 --> 00:01:29,010
+gelernt hatten, dass sie zu den
+
+44
+00:01:29,010 --> 00:01:31,570
+Nichtmetallen gehören, gelb. Die
+
+45
+00:01:31,570 --> 00:01:33,310
+Edelgase sind in der Abbildung in
+
+46
+00:01:33,310 --> 00:01:36,690
+dunkelblau abgebildet. Nun schauen
+
+47
+00:01:36,690 --> 00:01:38,390
+wir uns an, wo denn eigentlich der
+
+48
+00:01:38,390 --> 00:01:39,530
+Unterschied von Metallen zu
+
+49
+00:01:39,530 --> 00:01:41,630
+Nichtmetallen liegt. Metalle haben
+
+50
+00:01:41,630 --> 00:01:44,090
+die Eigenschaften hohe Leitfähigkeit,
+
+51
+00:01:44,190 --> 00:01:45,950
+hohe Wärmeleitfähigkeit,
+
+52
+00:01:46,070 --> 00:01:48,290
+Verformbarkeit und metallischen
+
+53
+00:01:48,290 --> 00:01:51,310
+Glanz. Diese Eigenschaften fehlen den
+
+54
+00:01:51,310 --> 00:01:53,970
+Nichtmetallen. Nichtmetalle sind sehr
+
+55
+00:01:53,970 --> 00:01:55,510
+reaktiv, sie haben eine hohe
+
+56
+00:01:55,510 --> 00:01:58,010
+Elektronegativität. Sie nehmen sehr
+
+57
+00:01:58,010 --> 00:01:59,730
+leicht Elektronen auf, da ihnen nur
+
+58
+00:01:59,730 --> 00:02:00,990
+noch ein Elektron bis zur
+
+59
+00:02:00,990 --> 00:02:03,310
+Edelgaskonfiguration fehlt, wie du im
+
+60
+00:02:03,310 --> 00:02:04,350
+Periode. Kondensiodensystem auch
+
+61
+00:02:04,350 --> 00:02:06,750
+erkennen kannst. Und wie du
+
+62
+00:02:06,750 --> 00:02:08,250
+vielleicht bereits weißt, wird die
+
+63
+00:02:08,250 --> 00:02:10,370
+Edelgaskonfiguration als Optimum
+
+64
+00:02:10,370 --> 00:02:12,430
+angesehen und wird deshalb von jedem
+
+65
+00:02:12,430 --> 00:02:14,570
+Element angestrebt. Da die
+
+66
+00:02:14,570 --> 00:02:16,510
+Nichtmetalle also kurz davor sind,
+
+67
+00:02:16,590 --> 00:02:18,370
+dies zu erreichen, strengen sie sich
+
+68
+00:02:18,370 --> 00:02:20,910
+besonders an, indem sie sehr reaktiv
+
+69
+00:02:20,910 --> 00:02:23,930
+sind. Nichtmetalle tendieren zur
+
+70
+00:02:23,930 --> 00:02:27,070
+Anionenbildung. Anionen sind negativ
+
+71
+00:02:27,070 --> 00:02:29,210
+geladene Ionen. Sie entstehen durch
+
+72
+00:02:29,210 --> 00:02:31,410
+die Elektronenaufnahme eines Atoms.
+
+73
+00:02:31,690 --> 00:02:34,030
+Bei der Elektrolyse wandern Anionen
+
+74
+00:02:34,030 --> 00:02:37,550
+zur Anode, also dem Pluspol. Anionen
+
+75
+00:02:37,550 --> 00:02:39,030
+können mit Hilfe von chemischen
+
+76
+00:02:39,030 --> 00:02:40,570
+Reaktionen nachgewiesen werden.
+
+77
+00:02:41,530 --> 00:02:43,270
+Nichtmetalle bilden mit Wasser eine
+
+78
+00:02:43,270 --> 00:02:46,430
+saure Lösung. Nichtmetalle bilden mit
+
+79
+00:02:46,430 --> 00:02:48,630
+Metallen Salze. Wenn du dich hierzu
+
+80
+00:02:48,630 --> 00:02:50,250
+genauer informieren möchtest, kannst
+
+81
+00:02:50,250 --> 00:02:51,690
+du dir dazu ein eigenes Video
+
+82
+00:02:51,690 --> 00:02:53,870
+ansehen. Ich hoffe, dass ich dir
+
+83
+00:02:53,870 --> 00:02:55,810
+dieses Thema erklären konnte. Wenn du
+
+84
+00:02:55,810 --> 00:02:56,810
+noch Fragen Wenn du Fragen zu diesem
+
+85
+00:02:56,810 --> 00:02:58,910
+oder anderen Themen hast, nutze gerne
+
+86
+00:02:58,910 --> 00:03:01,030
+unsere weiteren Lerninhalte im Online
+
+87
+00:03:01,030 --> 00:03:02,850
+-Lerncenter oder wende dich an deine
+
+88
+00:03:02,850 --> 00:03:04,550
+Schülerhilfe vor Ort. Bis zum
+
+89
+00:03:04,550 --> 00:03:05,130
+nächsten Mal!
+

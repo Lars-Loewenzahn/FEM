@@ -1,0 +1,1848 @@
+1
+00:00:01,230 --> 00:00:03,150
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,150 --> 00:00:05,430
+Wahrscheinlichkeit. Wir werden uns in
+
+3
+00:00:05,430 --> 00:00:07,170
+diesem Webinar zuallererst über den
+
+4
+00:00:07,170 --> 00:00:07,790
+allgemeinen
+
+5
+00:00:07,790 --> 00:00:08,830
+Wahrscheinlichkeitsbegriff
+
+6
+00:00:08,830 --> 00:00:10,670
+unterhalten, wie dieser entsteht und
+
+7
+00:00:10,670 --> 00:00:13,130
+auch berechnet wird, also die
+
+8
+00:00:13,130 --> 00:00:14,350
+Einzelwahrscheinlichkeit berechnet
+
+9
+00:00:14,350 --> 00:00:16,190
+wird. Danach schauen wir uns
+
+10
+00:00:16,190 --> 00:00:18,950
+mehrstufige Zufallsexperimente an und
+
+11
+00:00:18,950 --> 00:00:20,230
+ganz zum Schluss schauen wir uns noch
+
+12
+00:00:20,230 --> 00:00:22,210
+was zur bedingten Wahrscheinlichkeit
+
+13
+00:00:22,210 --> 00:00:24,230
+an. Fangen wir nun mit dem
+
+14
+00:00:24,230 --> 00:00:26,110
+Wahrscheinlichkeitsbegriff an. Um
+
+15
+00:00:26,110 --> 00:00:27,990
+eine Wahrscheinlichkeit zu bestimmen,
+
+16
+00:00:28,050 --> 00:00:29,790
+müssen wir erstmal eine Grundlage
+
+17
+00:00:29,790 --> 00:00:31,830
+schaffen. Wir müssen ein Ereignis E
+
+18
+00:00:31,830 --> 00:00:37,130
+definieren und die Anzahl aller
+
+19
+00:00:37,130 --> 00:00:39,430
+möglichen Ereignisse oder Ergebnisse
+
+20
+00:00:39,430 --> 00:00:42,430
+Sigma. Das E ist wie gesagt die für
+
+21
+00:00:42,430 --> 00:00:44,150
+uns günstigen Ereignisse, die wir
+
+22
+00:00:44,150 --> 00:00:46,350
+haben wollen. Das Sigma ist die
+
+23
+00:00:46,350 --> 00:00:48,290
+Anzahl aller möglichen Ereignisse.
+
+24
+00:00:48,290 --> 00:00:50,390
+Wir haben das Ganze mal am kleinen
+
+25
+00:00:50,390 --> 00:00:52,950
+Beispiel gemacht und zwar haben wir
+
+26
+00:00:52,950 --> 00:00:55,070
+als Sigma definiert ein paar
+
+27
+00:00:55,070 --> 00:00:57,190
+Eissorten, einmal Schokolade, Vanille
+
+28
+00:00:57,190 --> 00:01:00,150
+und Erdbeer. Der Betrag von Sigma
+
+29
+00:01:00,150 --> 00:01:03,650
+bzw. die Mächtigkeit beschreibt, wie
+
+30
+00:01:03,650 --> 00:01:05,890
+viele Elemente Sigma enthält. Das
+
+31
+00:01:05,890 --> 00:01:10,090
+sind bei uns 1, 2, 3. Die
+
+32
+00:01:10,090 --> 00:01:11,630
+Wahrscheinlichkeit ist letztendlich
+
+33
+00:01:11,630 --> 00:01:13,910
+nur der Quotient aus der Anzahl der
+
+34
+00:01:13,910 --> 00:01:16,830
+günstigen Ereignisse, also E, und dem
+
+35
+00:01:16,830 --> 00:01:17,410
+Betrag von der Mächtigkeit. der
+
+36
+00:01:17,410 --> 00:01:19,930
+ergebnismenge also den sigma das
+
+37
+00:01:19,930 --> 00:01:23,690
+heißt man teilt immer die günstigen
+
+38
+00:01:23,690 --> 00:01:25,370
+ereignisse durch die anzahl aller
+
+39
+00:01:25,370 --> 00:01:27,630
+möglichen ereignisse also das ist
+
+40
+00:01:27,630 --> 00:01:30,650
+durch sigma ist wie gesagt die anzahl
+
+41
+00:01:30,650 --> 00:01:32,910
+aller für uns günstigen ereignisse
+
+42
+00:01:32,910 --> 00:01:35,490
+die zu einem erfolg führen und sieht
+
+43
+00:01:35,490 --> 00:01:38,070
+man sind alle möglichen dazu haben
+
+44
+00:01:38,070 --> 00:01:39,430
+wir auch ein kleines beispiel und
+
+45
+00:01:39,430 --> 00:01:41,970
+zwar du hast fünf eis zu verfügung
+
+46
+00:01:41,970 --> 00:01:43,450
+wie hoch ist die wahrscheinlichkeit
+
+47
+00:01:43,450 --> 00:01:45,490
+weder erdbeer noch vanille zu
+
+48
+00:01:45,490 --> 00:01:48,390
+bekommen Wir wissen erstmal, es gibt
+
+49
+00:01:48,390 --> 00:01:50,310
+insgesamt fünf Eissorten, das heißt
+
+50
+00:01:50,310 --> 00:01:54,390
+der Betrag von Sigma ist 5. Eine der
+
+51
+00:01:54,390 --> 00:01:55,990
+fünf Eissorten werden wir bekommen
+
+52
+00:01:55,990 --> 00:01:59,050
+und wir wollen aber kein Erdbeer und
+
+53
+00:01:59,050 --> 00:02:01,810
+kein Vanille. Das heißt für uns
+
+54
+00:02:01,810 --> 00:02:03,210
+günstige Eissorten, die uns
+
+55
+00:02:03,210 --> 00:02:05,370
+schmecken, sind 5 minus die beiden,
+
+56
+00:02:05,490 --> 00:02:08,410
+also 5 minus 2, also 3. Das heißt es
+
+57
+00:02:08,410 --> 00:02:10,730
+gibt drei Eissorten, die zu einem
+
+58
+00:02:10,730 --> 00:02:13,230
+positiven Ergebnis führen. Die
+
+59
+00:02:13,230 --> 00:02:14,550
+Wahrscheinlichkeit, dass wir dann
+
+60
+00:02:14,550 --> 00:02:17,170
+eine Eissorte bekommen, die uns
+
+61
+00:02:17,170 --> 00:02:19,870
+schmeckt, ist dann 3 geteilt durch 5,
+
+62
+00:02:19,990 --> 00:02:23,230
+also 0,6 Wahrscheinlichkeiten werden
+
+63
+00:02:23,230 --> 00:02:25,990
+gerne in Prozent angegeben Um die
+
+64
+00:02:25,990 --> 00:02:27,090
+Wahrscheinlichkeit in Prozent
+
+65
+00:02:27,090 --> 00:02:29,930
+anzugeben, multipliziert man dieses
+
+66
+00:02:29,930 --> 00:02:32,710
+dezimale Ergebnis einfach mit 100 und
+
+67
+00:02:32,710 --> 00:02:34,430
+erhält so die Wahrscheinlichkeit in
+
+68
+00:02:34,430 --> 00:02:37,450
+Prozent Das heißt bei uns 0,6 mal 100
+
+69
+00:02:37,450 --> 00:02:41,630
+ist gleich 60% Das heißt, wir können
+
+70
+00:02:41,630 --> 00:02:43,830
+abschließend sagen, wir erhalten mit
+
+71
+00:02:43,830 --> 00:02:45,370
+einer Wahrscheinlichkeit von 60%
+
+72
+00:02:45,370 --> 00:02:47,830
+weder Erdbeer noch Vanille. Ganz
+
+73
+00:02:47,830 --> 00:02:49,630
+wichtig ist, dies gilt nur für eine
+
+74
+00:02:49,630 --> 00:02:50,970
+Eiskugel. Also wir stellen uns jetzt
+
+75
+00:02:50,970 --> 00:02:52,650
+wirklich vor, wir gehen zu einer
+
+76
+00:02:52,650 --> 00:02:54,690
+Eisdiele, bekommen eine willkürlich
+
+77
+00:02:54,690 --> 00:02:57,010
+oder eine zufällig gewählte Eissorte,
+
+78
+00:02:57,050 --> 00:03:01,110
+aber nur eine Kugel davon. Die Frage
+
+79
+00:03:01,110 --> 00:03:02,770
+ist natürlich jetzt, wie sieht das
+
+80
+00:03:02,770 --> 00:03:04,490
+aus, wenn wir mehrere Eiskugeln
+
+81
+00:03:04,490 --> 00:03:05,610
+bekommen und diese auch immer
+
+82
+00:03:05,610 --> 00:03:07,390
+zufällig gewählt werden. Dann sind
+
+83
+00:03:07,390 --> 00:03:08,970
+wir nämlich bei mehrstufigen
+
+84
+00:03:08,970 --> 00:03:11,450
+Zufallsexperimenten. Und zwar
+
+85
+00:03:11,450 --> 00:03:12,830
+behandeln wir jetzt noch weiterhin
+
+86
+00:03:12,830 --> 00:03:14,250
+das gleiche Beispiel. Das heißt, es
+
+87
+00:03:14,250 --> 00:03:15,590
+gibt fünf Eiskugeln und es wird eine
+
+88
+00:03:15,590 --> 00:03:17,450
+Eiskugel zufällig ausgewählt. Wichtig
+
+89
+00:03:17,450 --> 00:03:19,490
+dabei ist, die Auswahl der zweiten
+
+90
+00:03:19,490 --> 00:03:21,210
+Kugel wird nicht durch die Auswahl
+
+91
+00:03:21,210 --> 00:03:22,310
+der ersten beeinflusst. Das soll
+
+92
+00:03:22,310 --> 00:03:23,450
+heißen, angenommen wir hatten bei der
+
+93
+00:03:23,450 --> 00:03:25,410
+ersten Erdbeer, dann heißt das nicht,
+
+94
+00:03:25,470 --> 00:03:26,350
+dass wir bei der zweiten nicht
+
+95
+00:03:26,350 --> 00:03:28,610
+Erdbeer bekommen. Also das ist
+
+96
+00:03:28,610 --> 00:03:29,670
+unabhängig voneinander.
+
+97
+00:03:35,890 --> 00:03:37,990
+Die erste Kugel für uns gut ist, also
+
+98
+00:03:37,990 --> 00:03:39,990
+uns schmeckt, ist ja 60%, das haben
+
+99
+00:03:39,990 --> 00:03:42,590
+wir gerade berechnet. Und diese 60%
+
+100
+00:03:42,590 --> 00:03:44,390
+sind konstant, weil die Anzahl der
+
+101
+00:03:44,390 --> 00:03:46,150
+für uns günstigen Eiskugeln bleibt
+
+102
+00:03:46,150 --> 00:03:48,470
+gleich. Wir haben nur die Forderung,
+
+103
+00:03:48,490 --> 00:03:49,630
+dass wir keinen Erdbeer und keinen
+
+104
+00:03:49,630 --> 00:03:51,290
+Vanille wollen. Das heißt, wir
+
+105
+00:03:51,290 --> 00:03:52,590
+könnten hier auch zweimal die gleiche
+
+106
+00:03:52,590 --> 00:03:53,890
+Kugel kriegen, das wäre für uns auch
+
+107
+00:03:53,890 --> 00:03:56,170
+okay. Hauptsache kein Erdbeer und
+
+108
+00:03:56,170 --> 00:03:58,250
+kein Vanille. Wir gehen des Weiteren
+
+109
+00:03:58,250 --> 00:03:59,510
+auch davon aus, dass das Eis
+
+110
+00:03:59,510 --> 00:04:01,670
+natürlich nicht ausgeht. Also in der
+
+111
+00:04:01,670 --> 00:04:03,110
+Eisdiele gibt es genug Eis und wir
+
+112
+00:04:03,110 --> 00:04:04,870
+können weiterhin unsere 5 Eissorten
+
+113
+00:04:04,870 --> 00:04:08,470
+bekommen. Deswegen ist auch für die
+
+114
+00:04:08,470 --> 00:04:09,690
+zweite Kugel die Wahrscheinlichkeit
+
+115
+00:04:09,690 --> 00:04:11,930
+60%, dass wir weder Erdbeer noch
+
+116
+00:04:11,930 --> 00:04:13,430
+Vanille bekommen. Weil bei der
+
+117
+00:04:13,430 --> 00:04:14,710
+zweiten Kugel ist auch unsere
+
+118
+00:04:14,710 --> 00:04:17,610
+Forderung weiterhin kein Erdbeer und
+
+119
+00:04:17,610 --> 00:04:19,210
+kein Vanille von den 5 Kugeln. Das
+
+120
+00:04:19,210 --> 00:04:20,350
+heißt, wir haben auch hier diesen
+
+121
+00:04:20,350 --> 00:04:22,690
+Quotienten 3 Fünftel und das sind
+
+122
+00:04:22,690 --> 00:04:26,210
+halt 0,6. Um jetzt die
+
+123
+00:04:26,210 --> 00:04:27,610
+Wahrscheinlichkeit dafür zu
+
+124
+00:04:27,610 --> 00:04:30,870
+bestimmen, dass wir bei beiden Kugeln
+
+125
+00:04:30,870 --> 00:04:34,610
+kein Erdbeer und kein Vanille
+
+126
+00:04:34,610 --> 00:04:36,510
+erhalten, müssen wir die beiden
+
+127
+00:04:36,510 --> 00:04:37,650
+Einzelwahrscheinlichkeiten
+
+128
+00:04:37,650 --> 00:04:38,970
+multiplizieren. Das ist nämlich ein
+
+129
+00:04:38,970 --> 00:04:41,010
+Pfad. Und die erste Regel laut
+
+130
+00:04:41,010 --> 00:04:42,470
+entlang eines Pfades wird
+
+131
+00:04:42,470 --> 00:04:43,810
+multipliziert. Das heißt, wir rechnen
+
+132
+00:04:43,810 --> 00:04:47,130
+0,6 mal 0,6. Das ist dann P1 mal P2.
+
+133
+00:04:47,130 --> 00:04:50,290
+also 0,36 beziehungsweise wie wir
+
+134
+00:04:50,290 --> 00:04:53,170
+gerade gelernt haben 36 prozent wir
+
+135
+00:04:53,170 --> 00:04:54,270
+können also sagen mit einer
+
+136
+00:04:54,270 --> 00:04:56,070
+wahrscheinlichkeit von 36 prozent
+
+137
+00:04:56,070 --> 00:04:58,450
+bekommen wir zwei kugeln wo keine
+
+138
+00:04:58,450 --> 00:05:00,230
+erdbeer und keine vanille kugel dabei
+
+139
+00:05:00,230 --> 00:05:03,670
+ist und das funktioniert wie gesagt
+
+140
+00:05:03,670 --> 00:05:06,790
+so mit der fahrt regel das ganze kann
+
+141
+00:05:06,790 --> 00:05:07,910
+man natürlich noch entsprechend
+
+142
+00:05:07,910 --> 00:05:10,430
+weiter aufspannen man nutzt für sowas
+
+143
+00:05:10,430 --> 00:05:12,010
+dann meistens solche baum diagramme
+
+144
+00:05:12,010 --> 00:05:13,970
+und wir haben jetzt ja auch ein
+
+145
+00:05:13,970 --> 00:05:15,470
+anderes beispiel das ist auch schon
+
+146
+00:05:15,470 --> 00:05:17,630
+ein bisschen komplett Denn oftmals
+
+147
+00:05:17,630 --> 00:05:19,190
+gibt es mehrere Wege, die zum Ziel
+
+148
+00:05:19,190 --> 00:05:20,270
+führen. Es ist ja nicht immer so,
+
+149
+00:05:20,310 --> 00:05:22,190
+dass wir sagen, ich will nur Gewinne.
+
+150
+00:05:22,490 --> 00:05:24,930
+Man sagt ja auch mal, ich möchte zwei
+
+151
+00:05:24,930 --> 00:05:26,390
+Gewinnen bei drei Versuchen zum
+
+152
+00:05:26,390 --> 00:05:27,510
+Beispiel. Das ist genau hier der
+
+153
+00:05:27,510 --> 00:05:30,230
+Fall. Und zwar, in einer Lostrommel
+
+154
+00:05:30,230 --> 00:05:32,010
+befinden sich zehn Lose. Vier davon
+
+155
+00:05:32,010 --> 00:05:33,930
+sind Gewinnlose, sechs hingegen
+
+156
+00:05:33,930 --> 00:05:35,830
+Nieten. Wie hoch ist die
+
+157
+00:05:35,830 --> 00:05:37,130
+Wahrscheinlichkeit, dass von drei
+
+158
+00:05:37,130 --> 00:05:39,290
+gekauften Losen genau zwei Gewinne
+
+159
+00:05:39,290 --> 00:05:41,010
+dabei sind? Wichtig ist hierbei
+
+160
+00:05:41,010 --> 00:05:42,990
+erstmal die Formulierung, von drei
+
+161
+00:05:42,990 --> 00:05:45,530
+gekauften Losen genau zwei Gewinne
+
+162
+00:05:45,530 --> 00:05:47,510
+dabei sind Wir haben jetzt also
+
+163
+00:05:47,510 --> 00:05:48,970
+wirklich nur das Ereignis, dass wir
+
+164
+00:05:48,970 --> 00:05:51,290
+bei drei gekauften Losen zwei Gewinne
+
+165
+00:05:51,290 --> 00:05:53,170
+haben Es gibt auch andere
+
+166
+00:05:53,170 --> 00:05:55,490
+Formulierungen, sowas wie mindestens
+
+167
+00:05:55,490 --> 00:05:58,010
+zwei Gewinne Bei mindestens zwei
+
+168
+00:05:58,010 --> 00:05:59,910
+Gewinne wären auch drei Gewinne in
+
+169
+00:05:59,910 --> 00:06:01,390
+Ordnung bei drei Versuchen oder bei
+
+170
+00:06:01,390 --> 00:06:03,950
+drei gekauften Losen Wir hingegen
+
+171
+00:06:03,950 --> 00:06:04,790
+wollen jetzt in dieser
+
+172
+00:06:04,790 --> 00:06:07,090
+Aufschlussabstellung genau zwei
+
+173
+00:06:07,090 --> 00:06:09,270
+Gewinne nur haben Das heißt, bei uns
+
+174
+00:06:09,270 --> 00:06:11,650
+ist drei Gewinne keine Option und
+
+175
+00:06:11,650 --> 00:06:13,130
+gehört nicht zu unserem Ergebnisraum.
+
+176
+00:06:15,050 --> 00:06:16,770
+Sowas löst man am besten über ein
+
+177
+00:06:16,770 --> 00:06:18,310
+Baumdiagramm. Wir wissen, wir kaufen
+
+178
+00:06:18,310 --> 00:06:20,110
+drei Lose, das heißt, wir brauchen
+
+179
+00:06:20,110 --> 00:06:22,490
+drei Stufen. Hier ist die erste Stufe
+
+180
+00:06:22,490 --> 00:06:24,970
+für das erste Los. Das hier ist die
+
+181
+00:06:24,970 --> 00:06:28,150
+zweite Stufe für das zweite Los. Und
+
+182
+00:06:28,150 --> 00:06:29,010
+hier hinten sehen wir die dritte
+
+183
+00:06:29,010 --> 00:06:30,810
+Stufe für das dritte Los. Also wir
+
+184
+00:06:30,810 --> 00:06:32,590
+starten immer ganz links hier, wo das
+
+185
+00:06:32,590 --> 00:06:34,090
+Baumdiagramm noch am schlankesten ist
+
+186
+00:06:34,090 --> 00:06:38,190
+und fangen dann an. Wir überlegen uns
+
+187
+00:06:38,190 --> 00:06:40,290
+jetzt, welche Kombinationen führen
+
+188
+00:06:40,290 --> 00:06:42,390
+denn zu unserem Ereignis. Wir wollen
+
+189
+00:06:42,390 --> 00:06:45,170
+zwei Gewinne bei drei Losen. Das
+
+190
+00:06:45,170 --> 00:06:47,350
+heißt, eine Möglichkeit ist, wir
+
+191
+00:06:47,350 --> 00:06:49,050
+ziehen eine Niete und dann zwei
+
+192
+00:06:49,050 --> 00:06:53,410
+Gewinne. Das wäre dieser Fazit. Die
+
+193
+00:06:53,410 --> 00:06:55,610
+andere Möglichkeit ist, wir bekommen
+
+194
+00:06:55,610 --> 00:06:57,590
+einen Gewinn, dann bekommen wir noch
+
+195
+00:06:57,590 --> 00:06:58,810
+einen Gewinn, aber zum Schluss
+
+196
+00:06:58,810 --> 00:07:00,530
+erhalten wir eine Niete. Das wäre die
+
+197
+00:07:00,530 --> 00:07:03,720
+zweite Möglichkeit. Die dritte
+
+198
+00:07:03,720 --> 00:07:05,220
+Möglichkeit wäre, wir haben einen
+
+199
+00:07:05,220 --> 00:07:07,640
+Gewinn, eine Niete und dann wieder
+
+200
+00:07:07,640 --> 00:07:10,420
+einen Gewinn. Das heißt, wir haben
+
+201
+00:07:10,420 --> 00:07:11,880
+jetzt insgesamt drei Möglichkeiten,
+
+202
+00:07:12,200 --> 00:07:16,520
+um unser Ereignis zu erreichen.
+
+203
+00:07:17,500 --> 00:07:19,100
+Wichtig ist noch, wir haben jetzt
+
+204
+00:07:19,100 --> 00:07:22,040
+hier nur G' als kein Gewinn definiert
+
+205
+00:07:22,040 --> 00:07:25,440
+und G als Gewinn. das macht man immer
+
+206
+00:07:25,440 --> 00:07:27,220
+so, man reduziert das so weit wie
+
+207
+00:07:27,220 --> 00:07:31,700
+möglich, einfach zu einem Ereignis,
+
+208
+00:07:31,740 --> 00:07:33,960
+was seinem Ereignis übereinstimmt,
+
+209
+00:07:34,020 --> 00:07:35,440
+also Gewinn in unserem Fall und dem
+
+210
+00:07:35,440 --> 00:07:37,240
+Gegenereignis das ist einfach das
+
+211
+00:07:37,240 --> 00:07:38,800
+Ereignis, dass das Ereignis nicht
+
+212
+00:07:38,800 --> 00:07:41,280
+eintrifft, also G', das ist jetzt
+
+213
+00:07:41,280 --> 00:07:43,800
+egal, was das ist vielleicht gibt es
+
+214
+00:07:43,800 --> 00:07:45,220
+ja auch verschiedene Nieten, aber es
+
+215
+00:07:45,220 --> 00:07:46,440
+ist auf jeden Fall nicht das Los, was
+
+216
+00:07:46,440 --> 00:07:48,320
+was wir wollen. Das Los, was wir
+
+217
+00:07:48,320 --> 00:07:49,400
+wollen, ist immer G und die
+
+218
+00:07:49,400 --> 00:07:50,780
+restlichen Lose sind einfach immer
+
+219
+00:07:50,780 --> 00:07:53,320
+G'. Das ist immer dieses Prinzip,
+
+220
+00:07:53,500 --> 00:07:54,920
+dass man sich auf das Wesentliche
+
+221
+00:07:54,920 --> 00:08:00,390
+reduziert. Und wir müssen jetzt
+
+222
+00:08:00,390 --> 00:08:01,970
+natürlich noch die Wahrscheinlichkeit
+
+223
+00:08:01,970 --> 00:08:04,870
+berechnen für einen Gewinn. Wir
+
+224
+00:08:04,870 --> 00:08:06,470
+wissen, wir haben 10 Lose in der
+
+225
+00:08:06,470 --> 00:08:09,610
+Lostrommel, 4 davon sind Gewinnlose,
+
+226
+00:08:09,710 --> 00:08:14,710
+6 sind davon Mieten. Die Die
+
+227
+00:08:14,710 --> 00:08:16,370
+Wahrscheinlichkeit im ersten
+
+228
+00:08:16,370 --> 00:08:18,790
+Durchgang für ein Gewinnlos, wir
+
+229
+00:08:18,790 --> 00:08:19,390
+haben da ja 4,
+
+230
+00:08:23,320 --> 00:08:27,000
+ist dann 6 Zehntel. Was ganz wichtig
+
+231
+00:08:27,000 --> 00:08:29,220
+ist, wir haben eine Lostrommel und
+
+232
+00:08:29,220 --> 00:08:31,140
+wir ziehen das Los ja aus der Trommel
+
+233
+00:08:31,140 --> 00:08:34,020
+raus. Das heißt, nachdem wir das
+
+234
+00:08:34,020 --> 00:08:36,600
+erste Mal gezogen haben, haben wir
+
+235
+00:08:36,600 --> 00:08:38,920
+nur noch 9 Lose in der Trommel. Und
+
+236
+00:08:38,920 --> 00:08:40,940
+wenn wir zuvor einen Gewinn gezogen
+
+237
+00:08:40,940 --> 00:08:43,640
+haben, haben wir danach einen Gewinn
+
+238
+00:08:43,640 --> 00:08:44,740
+weniger drin. Das heißt, die
+
+239
+00:08:44,740 --> 00:08:46,100
+Wahrscheinlichkeit ändert sich mit
+
+240
+00:08:46,100 --> 00:08:48,500
+der Zeit. Oder mit der Anzahl der
+
+241
+00:08:48,500 --> 00:08:51,780
+Züge. Das ist ganz wichtig, weil nach
+
+242
+00:08:51,780 --> 00:08:53,020
+dem ersten Zug, wir haben einen
+
+243
+00:08:53,020 --> 00:08:54,200
+Gewinn gezogen, haben wir nur noch
+
+244
+00:08:54,200 --> 00:08:56,220
+drei Gewinne in der Lostrommel von
+
+245
+00:08:56,220 --> 00:09:00,390
+insgesamt neun. Wir haben hier jetzt
+
+246
+00:09:00,390 --> 00:09:01,930
+erstmal unsere drei Möglichkeiten,
+
+247
+00:09:02,030 --> 00:09:02,810
+die ich gerade schon mal gezeigt
+
+248
+00:09:02,810 --> 00:09:05,890
+habe, aufgestellt. Also Gewinn,
+
+249
+00:09:05,890 --> 00:09:07,330
+Gewinn, kein Gewinn, Gewinn, kein
+
+250
+00:09:07,330 --> 00:09:09,550
+Gewinn, Gewinn, kein Gewinn, Gewinn,
+
+251
+00:09:09,570 --> 00:09:15,340
+Gewinn. Und wir müssen jetzt jeweils
+
+252
+00:09:15,340 --> 00:09:16,340
+die dazugehörigen
+
+253
+00:09:16,340 --> 00:09:17,360
+Wahrscheinlichkeiten berechnen.
+
+254
+00:09:19,380 --> 00:09:20,740
+viertel die wahrscheinlichkeit für
+
+255
+00:09:20,740 --> 00:09:22,060
+den zweiten gewinn ist nur noch drei
+
+256
+00:09:22,060 --> 00:09:24,040
+neuntel weil wir schon ein gewinn los
+
+257
+00:09:24,040 --> 00:09:26,160
+entnommen haben wichtig ist die
+
+258
+00:09:26,160 --> 00:09:28,380
+gesamtzahl ändert sich immer immer
+
+259
+00:09:28,380 --> 00:09:29,760
+wenn ihr etwas entnehmt oder etwas
+
+260
+00:09:29,760 --> 00:09:31,680
+ohne zurückleben hat schon
+
+261
+00:09:36,100 --> 00:09:41,520
+8 10 98 egal bei welchem fall ja und
+
+262
+00:09:41,520 --> 00:09:44,180
+beim dritten zug haben wir aber noch
+
+263
+00:09:44,180 --> 00:09:46,120
+alle mieten drin wir hatten ja anfang
+
+264
+00:09:46,120 --> 00:09:47,940
+sechs stück wir haben aber aktuell
+
+265
+00:09:47,940 --> 00:09:49,540
+hier in dem beispiel noch keine miete
+
+266
+00:09:49,540 --> 00:09:51,400
+gezogen deswegen haben wir noch sechs
+
+267
+00:09:51,400 --> 00:09:53,460
+mieten aus insgesamt insgesamt 8
+
+268
+00:09:53,460 --> 00:09:59,280
+Losen. Das nächste, was zu unserem
+
+269
+00:09:59,280 --> 00:10:00,940
+Ereignis führen würde, wäre Gewinn.
+
+270
+00:10:00,980 --> 00:10:02,820
+Kein Gewinn, Gewinn. Für den ersten
+
+271
+00:10:02,820 --> 00:10:03,540
+Gewinn haben wir wieder die
+
+272
+00:10:03,540 --> 00:10:06,600
+Wahrscheinlichkeit 4 Zehntel. Für die
+
+273
+00:10:06,600 --> 00:10:07,700
+erste Niete haben wir dann die
+
+274
+00:10:07,700 --> 00:10:09,100
+Wahrscheinlichkeit 6 Neuntel. Wir
+
+275
+00:10:09,100 --> 00:10:11,620
+haben noch 6 Nieten in der
+
+276
+00:10:11,620 --> 00:10:13,160
+Lostrammel. Wir haben aber insgesamt
+
+277
+00:10:13,160 --> 00:10:14,680
+nur noch 9 Lose. So kommen wir auf
+
+278
+00:10:14,680 --> 00:10:17,500
+diese 6 Neuntel. dann wieder ein
+
+279
+00:10:17,500 --> 00:10:19,020
+Gewinn. Wir haben hier schon ein
+
+280
+00:10:19,020 --> 00:10:20,260
+Gewinn entnommen hier vorne, das
+
+281
+00:10:20,260 --> 00:10:21,960
+heißt wir haben nur noch 3 Gewinnlose
+
+282
+00:10:21,960 --> 00:10:25,120
+in der Trommel und insgesamt 8 Lose.
+
+283
+00:10:26,340 --> 00:10:28,540
+Bei kein Gewinn, Gewinn, Gewinn ist
+
+284
+00:10:28,540 --> 00:10:31,140
+es ähnlich. Zuerst haben wir noch 6
+
+285
+00:10:31,140 --> 00:10:34,720
+Nieten in der Lostrommel und 10 Lose,
+
+286
+00:10:34,740 --> 00:10:36,700
+so entsteht dieser Bruch 6 Zehntel.
+
+287
+00:10:36,700 --> 00:10:38,640
+Bei dem ersten Gewinn haben wir noch
+
+288
+00:10:38,640 --> 00:10:40,560
+alle Gewinne in der Lostrommel, aber
+
+289
+00:10:40,560 --> 00:10:43,460
+nur noch 9 Lose. So kommen wir auf
+
+290
+00:10:43,460 --> 00:10:45,560
+den Bruch 4 Neuntel. Und beim zweiten
+
+291
+00:10:45,560 --> 00:10:46,820
+Gewinn haben wir schon ein Gewinn
+
+292
+00:10:46,820 --> 00:10:48,840
+weniger in der Lostrommel, also 3 und
+
+293
+00:10:48,840 --> 00:10:50,700
+noch insgesamt 8 Lose. So kommen wir
+
+294
+00:10:50,700 --> 00:10:53,740
+zu 3 Achtel. Ihr werdet feststellen
+
+295
+00:10:53,740 --> 00:10:55,940
+hierbei, dass der Nenner immer gleich
+
+296
+00:10:55,940 --> 00:10:57,980
+ist. 10 mal 9 mal 8, 10 mal 9 mal 8,
+
+297
+00:10:58,000 --> 00:11:01,420
+10 mal 9 mal 8. und wir haben auch
+
+298
+00:11:01,420 --> 00:11:03,500
+hier oben immer die gleichen zähler
+
+299
+00:11:03,500 --> 00:11:05,020
+nur halt oftmals vertauscht aber was
+
+300
+00:11:05,020 --> 00:11:06,920
+eine multiplikation ist ist die
+
+301
+00:11:06,920 --> 00:11:08,840
+wahrscheinlichkeit für alle gleich
+
+302
+00:11:08,840 --> 00:11:13,580
+nämlich 4 x 3 x 6 durch 10 x 9 x 8
+
+303
+00:11:13,580 --> 00:11:15,760
+und weil wir das dreimal haben drei
+
+304
+00:11:15,760 --> 00:11:18,960
+mal also am ende der fahrt ist werden
+
+305
+00:11:18,960 --> 00:11:20,340
+die einzelwahrscheinlichkeiten
+
+306
+00:11:20,340 --> 00:11:22,200
+addiert das heißt wir rechnen die
+
+307
+00:11:22,200 --> 00:11:23,540
+wahrscheinlichkeit plus die
+
+308
+00:11:23,540 --> 00:11:24,660
+wahrscheinlichkeit plus die die
+
+309
+00:11:24,660 --> 00:11:26,180
+Wahrscheinlichkeit, weil sich aber
+
+310
+00:11:26,180 --> 00:11:27,540
+alle drei gleich groß sind, rechnen
+
+311
+00:11:27,540 --> 00:11:29,420
+wir dreimal die Wahrscheinlichkeit.
+
+312
+00:11:29,440 --> 00:11:30,860
+Das ist in dem Fall 0,1
+
+313
+00:11:30,860 --> 00:11:33,740
+beziehungsweise 10%. Wir können also
+
+314
+00:11:33,740 --> 00:11:35,400
+sagen, die Wahrscheinlichkeit, dass
+
+315
+00:11:35,400 --> 00:11:38,180
+wir beim dreimaligen ziehen genau
+
+316
+00:11:38,180 --> 00:11:40,620
+zweimal Gewinn erhalten oder zwei
+
+317
+00:11:40,620 --> 00:11:43,160
+Gewinne erhalten, liegt bei 10%.
+
+318
+00:11:46,980 --> 00:11:48,780
+Kommen wir dann jetzt abschließend
+
+319
+00:11:48,780 --> 00:11:50,720
+zur bedingten Wahrscheinlichkeit.
+
+320
+00:11:51,400 --> 00:11:53,160
+Eine bedingte Wahrscheinlichkeit wird
+
+321
+00:11:53,160 --> 00:11:55,020
+am besten mit der Vierfelder-Tafel
+
+322
+00:11:55,020 --> 00:11:58,520
+beschrieben. Wir sehen hier die heißt
+
+323
+00:11:58,520 --> 00:12:00,100
+4-Felder-Tafel, weil hier in der
+
+324
+00:12:00,100 --> 00:12:03,620
+Mitte 4 Felder sind. Die Elemente,
+
+325
+00:12:03,620 --> 00:12:05,040
+die hier drum verteilt sind, also die
+
+326
+00:12:05,040 --> 00:12:06,560
+7, entsteht dadurch, dass man die
+
+327
+00:12:06,560 --> 00:12:08,100
+beiden Elemente in der Zeile addiert,
+
+328
+00:12:08,180 --> 00:12:10,140
+entsteht die 7. Gleiches gilt für die
+
+329
+00:12:10,140 --> 00:12:12,940
+22. Und hier, wenn man die Spalten
+
+330
+00:12:12,940 --> 00:12:14,820
+addiert, erhält man die 10 bzw. die
+
+331
+00:12:14,820 --> 00:12:18,860
+19. Die 29 erhält man, indem man die
+
+332
+00:12:18,860 --> 00:12:20,700
+beiden Felder und die beiden Felder
+
+333
+00:12:20,700 --> 00:12:23,420
+addiert. Also 7 plus 22 ist 29, 10
+
+334
+00:12:23,420 --> 00:12:27,460
+plus 19 ist 29. So funktioniert eine
+
+335
+00:12:27,460 --> 00:12:31,400
+Vierfelder-Tafel. Wir sehen, es geht
+
+336
+00:12:31,400 --> 00:12:33,140
+ja hier um eine Schulklasse. Diese
+
+337
+00:12:33,140 --> 00:12:35,160
+Schulklasse besteht aus 29 Schülern.
+
+338
+00:12:35,540 --> 00:12:38,220
+Und von diesen 29 Schülern haben 10
+
+339
+00:12:38,220 --> 00:12:40,420
+Schüler braune Haare und 7 Schüler
+
+340
+00:12:40,420 --> 00:12:43,100
+grüne Augen. 5 Schüler haben sowohl
+
+341
+00:12:43,100 --> 00:12:44,740
+braune Haare als auch grüne Augen.
+
+342
+00:12:45,540 --> 00:12:47,240
+Wir sollen jetzt hieraus erstmal die
+
+343
+00:12:47,240 --> 00:12:48,920
+Vierfelder-Tafel erstellen. Wir
+
+344
+00:12:48,920 --> 00:12:50,140
+wissen, insgesamt gibt es... 29
+
+345
+00:12:50,140 --> 00:12:51,560
+Schüler. Das ist schon mal der Wert,
+
+346
+00:12:51,580 --> 00:12:54,140
+der hier unten rechts steht. Dann
+
+347
+00:12:54,140 --> 00:12:55,760
+wird unterschieden zwischen braune
+
+348
+00:12:55,760 --> 00:12:59,540
+Haare und keine braunen Haare. Und
+
+349
+00:12:59,540 --> 00:13:01,400
+grüne Augen und keine grünen Augen.
+
+350
+00:13:01,500 --> 00:13:02,340
+Das ist wie gesagt diese
+
+351
+00:13:02,340 --> 00:13:03,300
+Vereinfachung, die man macht.
+
+352
+00:13:03,360 --> 00:13:04,600
+Entweder der Schüler hat braune Haare
+
+353
+00:13:04,600 --> 00:13:06,220
+oder er hat keine braunen Haare. Die
+
+354
+00:13:06,220 --> 00:13:07,460
+anderen Haarfarben werden erstmal
+
+355
+00:13:07,460 --> 00:13:10,160
+nicht beachtet. Und jetzt versucht
+
+356
+00:13:10,160 --> 00:13:12,180
+man, die entsprechenden Zahlen an die
+
+357
+00:13:12,180 --> 00:13:13,180
+entsprechenden Stellen zu bringen.
+
+358
+00:13:19,000 --> 00:13:19,600
+Wir wissen aber nichts über die
+
+359
+00:13:19,600 --> 00:13:21,160
+Augenfarbe, aber wir wissen braune
+
+360
+00:13:21,160 --> 00:13:22,780
+Haare, deswegen steht hier unten 10.
+
+361
+00:13:24,560 --> 00:13:27,340
+Des Weiteren wissen wir, 7 Schüler
+
+362
+00:13:27,340 --> 00:13:29,080
+haben grüne Augen. Das heißt, hier
+
+363
+00:13:29,080 --> 00:13:30,320
+bei grünen Augen über die Haarfarbe
+
+364
+00:13:30,320 --> 00:13:31,220
+wissen wir nichts, schreiben wir hier
+
+365
+00:13:31,220 --> 00:13:35,090
+die 7 hin. Und wir wissen auch noch,
+
+366
+00:13:35,250 --> 00:13:37,330
+5 Schüler haben braune Haare und
+
+367
+00:13:37,330 --> 00:13:39,030
+grüne Augen. Das ist das Element
+
+368
+00:13:39,030 --> 00:13:41,990
+hier. Die 5 heißt, wenn wir anfangen,
+
+369
+00:13:42,030 --> 00:13:44,470
+kennen wir die 5, die 7, die 10 und
+
+370
+00:13:44,470 --> 00:13:47,230
+die 29. Und wie gerade gesagt, muss
+
+371
+00:13:47,230 --> 00:13:49,190
+hier gelten, das Feld plus das Feld
+
+372
+00:13:49,190 --> 00:13:51,430
+ergibt das. Also 5 plus was ergibt
+
+373
+00:13:51,430 --> 00:13:53,290
+10? Natürlich 5. So kommen wir auf
+
+374
+00:13:53,290 --> 00:13:56,510
+die 5 hier. Und die 7 kommt ja auch
+
+375
+00:13:56,510 --> 00:13:58,670
+dadurch, das Feld plus das Feld muss
+
+376
+00:13:58,670 --> 00:14:00,910
+das Feld ergeben. Also 5 plus was ist
+
+377
+00:14:00,910 --> 00:14:05,290
+gleich 7? 2 also. Und dann wissen wir
+
+378
+00:14:05,290 --> 00:14:06,290
+auch schon, wie es hier weitergeht.
+
+379
+00:14:06,370 --> 00:14:07,650
+Wir wissen ja, dass hier unten eine
+
+380
+00:14:07,650 --> 00:14:10,570
+29 steht. Und das Feld plus das Feld
+
+381
+00:14:10,570 --> 00:14:12,810
+ergibt ja das Feld hier. Also 7 plus
+
+382
+00:14:12,810 --> 00:14:16,210
+was ist 29. 29, 22, so kommt die 22
+
+383
+00:14:16,210 --> 00:14:18,670
+hier hin. Gleiches gilt für die 19.
+
+384
+00:14:19,050 --> 00:14:21,070
+Das Feld plus das Feld ergibt auch
+
+385
+00:14:21,070 --> 00:14:23,750
+wieder das Feld. Also 10 plus was
+
+386
+00:14:23,750 --> 00:14:27,410
+ergibt 29, 19. Und so können wir
+
+387
+00:14:27,410 --> 00:14:29,130
+dieses Feld jetzt hier auch noch
+
+388
+00:14:29,130 --> 00:14:33,450
+bestimmen. Denn 2 plus was ist 19,
+
+389
+00:14:33,710 --> 00:14:36,690
+17. Und jetzt haben wir unsere
+
+390
+00:14:36,690 --> 00:14:39,610
+Vierfelder-Tafel fertig. Das Feld
+
+391
+00:14:39,610 --> 00:14:41,270
+hier oben ist die Anzahl der Schüler,
+
+392
+00:14:41,310 --> 00:14:42,810
+die braune Haare und grünen Haare.
+
+393
+00:14:42,830 --> 00:14:46,110
+Das Feld hier ist die Anzahl der
+
+394
+00:14:46,110 --> 00:14:47,550
+Schüler, die keine braunen Haare,
+
+395
+00:14:47,550 --> 00:14:50,170
+aber grüne Augen haben. Das Feld hier
+
+396
+00:14:50,170 --> 00:14:51,510
+ist die Anzahl der Schüler, die
+
+397
+00:14:51,510 --> 00:14:53,890
+braune Haare und keine grünen Augen
+
+398
+00:14:53,890 --> 00:14:56,450
+haben. Das Feld hier ist die Anzahl
+
+399
+00:14:56,450 --> 00:14:57,970
+der Schüler, die keine braunen Haare
+
+400
+00:14:57,970 --> 00:15:01,550
+und keine grünen Augen haben. Jetzt
+
+401
+00:15:01,550 --> 00:15:02,350
+kann man hier dann auch
+
+402
+00:15:02,350 --> 00:15:03,530
+Wahrscheinlichkeiten berechnen. Dabei
+
+403
+00:15:03,530 --> 00:15:04,910
+ist es aber ganz wichtig, dass auf
+
+404
+00:15:04,910 --> 00:15:06,650
+den Wortlaut der Aufgabe geachtet
+
+405
+00:15:06,650 --> 00:15:08,370
+wird. Und zwar, wir haben hier zwei
+
+406
+00:15:08,370 --> 00:15:10,350
+Beispiele. Viele berechnen die
+
+407
+00:15:10,350 --> 00:15:12,070
+Wahrscheinlichkeit, dass ein zufällig
+
+408
+00:15:12,070 --> 00:15:14,410
+ausgewählter Schüler weder braune
+
+409
+00:15:14,410 --> 00:15:17,470
+Haare noch grüne Augen hat. Wir
+
+410
+00:15:17,470 --> 00:15:19,390
+wissen also nichts über den Schüler.
+
+411
+00:15:19,570 --> 00:15:21,130
+Wir wissen nur, wir wollen einen
+
+412
+00:15:21,130 --> 00:15:23,770
+Schüler, der keine braunen Haare und
+
+413
+00:15:23,770 --> 00:15:27,310
+keine grünen Augen hat. Das heißt,
+
+414
+00:15:27,470 --> 00:15:30,510
+keine braunen Haare und keine grünen
+
+415
+00:15:30,510 --> 00:15:35,510
+Augen. Das ist die 17. Weder braune
+
+416
+00:15:35,510 --> 00:15:37,430
+Haare noch grüne Augen. Also keine
+
+417
+00:15:37,430 --> 00:15:39,410
+braunen Haare und keine grünen Augen.
+
+418
+00:15:39,530 --> 00:15:41,550
+Das ist die 17. Das heißt, wir
+
+419
+00:15:41,550 --> 00:15:43,670
+wissen, das trifft auf 17 der 29
+
+420
+00:15:43,670 --> 00:15:47,970
+Schüler zu. Folglich lautet das
+
+421
+00:15:47,970 --> 00:15:52,170
+Ergebnis 17 durch 29, also 58,5%.
+
+422
+00:15:53,630 --> 00:15:55,290
+Hierbei sind alle Schüler zu
+
+423
+00:15:55,290 --> 00:15:56,990
+berücksichtigen. Aus dem ganz
+
+424
+00:15:56,990 --> 00:15:59,990
+einfachen Grund, es wurde nicht
+
+425
+00:15:59,990 --> 00:16:03,090
+vorher eingegrenzt. Es wurde nicht
+
+426
+00:16:03,090 --> 00:16:04,510
+keine Haarfarbe genannt oder keine
+
+427
+00:16:04,510 --> 00:16:06,870
+Augenfarbe. Man hat wirklich
+
+428
+00:16:06,870 --> 00:16:10,890
+zufallsmäßig
+
+429
+00:16:10,890 --> 00:16:12,770
+einen Schüler ausgewählt. Bei der
+
+430
+00:16:12,770 --> 00:16:13,870
+nächsten Aufgabenstellung ist das
+
+431
+00:16:13,870 --> 00:16:14,730
+anders und dann wird das
+
+432
+00:16:14,730 --> 00:16:15,770
+wahrscheinlich auch klar, was ich
+
+433
+00:16:15,770 --> 00:16:16,850
+gerade erwähnt habe. Und zwar
+
+434
+00:16:16,850 --> 00:16:18,510
+berechne die Wahrscheinlichkeit, dass
+
+435
+00:16:18,510 --> 00:16:20,030
+ein zufällig ausgewählter Schüler,
+
+436
+00:16:20,150 --> 00:16:22,670
+der braune Haare hat, keine grünen
+
+437
+00:16:22,670 --> 00:16:25,590
+Augen hat. Das heißt, wir wissen
+
+438
+00:16:25,590 --> 00:16:28,190
+schon, dass der Schüler braune Haare
+
+439
+00:16:28,190 --> 00:16:29,310
+hat. Man muss sich das also so
+
+440
+00:16:29,310 --> 00:16:33,270
+vorstellen, man lässt alle Schüler
+
+441
+00:16:33,270 --> 00:16:34,990
+mit braunen Haaren sich in einer
+
+442
+00:16:34,990 --> 00:16:36,830
+Reihe aufstellen und wählt dann von
+
+443
+00:16:36,830 --> 00:16:38,450
+dieser Gruppe, wirklich nur von
+
+444
+00:16:38,450 --> 00:16:40,390
+dieser Gruppe, die braune Haare hat,
+
+445
+00:16:40,590 --> 00:16:42,710
+einen Schüler aus. Und jetzt ist die
+
+446
+00:16:42,710 --> 00:16:43,830
+Frage, wie groß ist die
+
+447
+00:16:43,830 --> 00:16:45,370
+Wahrscheinlichkeit, dass dieser grüne
+
+448
+00:16:45,370 --> 00:16:48,610
+Augen hat? Das heißt, wir wissen ja,
+
+449
+00:16:48,710 --> 00:16:52,990
+braune Haare und keine grünen Augen
+
+450
+00:16:52,990 --> 00:16:55,530
+ist die 5. Jetzt ist nur die Frage,
+
+451
+00:16:55,770 --> 00:16:59,090
+wie viele gibt es denn insgesamt? Es
+
+452
+00:16:59,090 --> 00:17:00,750
+gibt nur noch 10 Stück. Es sind
+
+453
+00:17:00,750 --> 00:17:01,890
+diesmal nicht alle zu
+
+454
+00:17:01,890 --> 00:17:03,930
+berücksichtigen, weil wir wissen, Wir
+
+455
+00:17:03,930 --> 00:17:05,250
+betrachten nur die Schüler, die
+
+456
+00:17:05,250 --> 00:17:07,550
+braune Haare haben. Und dann beträgt
+
+457
+00:17:07,550 --> 00:17:10,630
+die Wahrscheinlichkeit 0,5. Denn wir
+
+458
+00:17:10,630 --> 00:17:13,050
+berücksichtigen nur die mit den
+
+459
+00:17:13,050 --> 00:17:15,790
+braunen Haaren. Das sind dann 50%.
+
+460
+00:17:17,820 --> 00:17:19,880
+Und damit wären wir auch schon am
+
+461
+00:17:19,880 --> 00:17:22,000
+Ende des Webinars. Ich bedanke mich
+
+462
+00:17:22,000 --> 00:17:23,120
+für eure Aufmerksamkeit.
+

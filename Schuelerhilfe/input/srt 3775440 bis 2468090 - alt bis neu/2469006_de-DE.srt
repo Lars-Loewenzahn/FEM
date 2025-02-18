@@ -1,0 +1,1184 @@
+1
+00:00:09,940 --> 00:00:12,740
+Hallo nochmal, Enes. Wenn du mich
+
+2
+00:00:12,740 --> 00:00:15,100
+auch jetzt hören kannst, einfach nur
+
+3
+00:00:15,100 --> 00:00:17,460
+mal kurz in den Chat reinschreiben.
+
+4
+00:00:18,680 --> 00:00:24,040
+Top. Genau, das ist heute das letzte
+
+5
+00:00:24,040 --> 00:00:26,500
+Webinar, und zwar zum Thema
+
+6
+00:00:26,500 --> 00:00:29,240
+Stochastik, mehrstufige
+
+7
+00:00:29,240 --> 00:00:33,420
+Zufallsexperimente. Und zwar gibt es
+
+8
+00:00:33,420 --> 00:00:36,700
+zu Beginn eine allgemeine Einführung,
+
+9
+00:00:36,700 --> 00:00:38,300
+was sind überhaupt mehrstufige
+
+10
+00:00:38,300 --> 00:00:38,880
+Zufallsexperimente.
+
+11
+00:00:38,940 --> 00:00:40,880
+Zufallsexperimente und dazu werden
+
+12
+00:00:40,880 --> 00:00:43,240
+wir uns drei verschiedene Varianten
+
+13
+00:00:43,240 --> 00:00:46,060
+angucken, und zwar das Ohrenmodell,
+
+14
+00:00:46,140 --> 00:00:49,320
+das Baumdiagramm und die Vierfelder
+
+15
+00:00:49,320 --> 00:00:54,600
+Tafel. Was sind überhaupt mehrstufige
+
+16
+00:00:54,600 --> 00:00:58,160
+Zufallsexperimente? Mehrstufige
+
+17
+00:00:58,160 --> 00:00:59,980
+Zufallsexperimente bezeichnen das
+
+18
+00:00:59,980 --> 00:01:02,080
+nacheinander mehrfache Ausführen von
+
+19
+00:01:02,080 --> 00:01:04,320
+Zufallsexperimenten, die zu einem
+
+20
+00:01:04,320 --> 00:01:05,920
+einzigen Zufallsexperiment
+
+21
+00:01:05,920 --> 00:01:09,240
+zusammengefasst werden. Ich denke,
+
+22
+00:01:09,260 --> 00:01:10,520
+das wird auch noch mal klar. Klarer,
+
+23
+00:01:10,520 --> 00:01:12,640
+wenn wir uns das Beispiel Münzwurf
+
+24
+00:01:12,640 --> 00:01:15,140
+anschauen. Das Werfen einer Münze
+
+25
+00:01:15,140 --> 00:01:16,560
+kann mehrfach hintereinander
+
+26
+00:01:16,560 --> 00:01:18,720
+ausgeführt werden. Es stellt sich die
+
+27
+00:01:18,720 --> 00:01:19,980
+Frage, wie hoch die
+
+28
+00:01:19,980 --> 00:01:21,840
+Wahrscheinlichkeit für eine bestimmte
+
+29
+00:01:21,840 --> 00:01:24,340
+Konstellation ist. Wie zum Beispiel
+
+30
+00:01:24,340 --> 00:01:28,500
+für Kopf, Kopf, Zahl, Zahl. Wenn du
+
+31
+00:01:28,500 --> 00:01:30,620
+allerdings vier Würfe nur zur
+
+32
+00:01:30,620 --> 00:01:31,440
+Verfügung hast.
+
+33
+00:01:36,840 --> 00:01:39,640
+Gucken wir uns also das erste Modell
+
+34
+00:01:39,640 --> 00:01:42,760
+an. Und zwar das Urnenmodell. Das
+
+35
+00:01:42,760 --> 00:01:44,900
+Urnmodell ist ein sogenanntes
+
+36
+00:01:44,900 --> 00:01:47,600
+Gedankenexperiment. Stell dir also
+
+37
+00:01:47,600 --> 00:01:50,660
+eine Urne vor, in der Kugeln liegen.
+
+38
+00:01:51,400 --> 00:01:54,280
+Jede Kugel hat die gleiche
+
+39
+00:01:54,280 --> 00:01:56,000
+Wahrscheinlichkeit gezogen zu werden.
+
+40
+00:01:56,260 --> 00:01:58,360
+Also wenn du dort zwölf Kugeln
+
+41
+00:01:58,360 --> 00:01:59,400
+siehst, dann liegt die
+
+42
+00:01:59,400 --> 00:02:01,160
+Wahrscheinlichkeit, dass eine
+
+43
+00:02:01,160 --> 00:02:03,520
+bestimmte Kugel gezogen wird, bei
+
+44
+00:02:03,520 --> 00:02:07,640
+einem Zwölftel. Also davon ausgehend,
+
+45
+00:02:07,640 --> 00:02:10,140
+dass in der Urne eine beliebige Menge
+
+46
+00:02:10,140 --> 00:02:12,040
+an Kugeln liegen, von denen man
+
+47
+00:02:12,040 --> 00:02:14,720
+wiederum eine beliebige Menge ziehen
+
+48
+00:02:14,720 --> 00:02:16,400
+kann, die aber nicht größer sein darf
+
+49
+00:02:16,400 --> 00:02:18,660
+als die Gesamtzahl der Kugeln, die
+
+50
+00:02:18,660 --> 00:02:20,820
+sich dort drin befinden, gibt es
+
+51
+00:02:20,820 --> 00:02:22,640
+einige Dinge, die eben variieren
+
+52
+00:02:22,640 --> 00:02:24,960
+können. Das kann zum Beispiel die
+
+53
+00:02:24,960 --> 00:02:29,040
+Farbe sein oder irgendwas anderes in
+
+54
+00:02:29,040 --> 00:02:30,280
+der Reihenfolge oder in der
+
+55
+00:02:30,280 --> 00:02:32,200
+Variation, wie die Kugeln gezogen
+
+56
+00:02:32,200 --> 00:02:35,020
+werden sollen. Und zwar gibt es dazu
+
+57
+00:02:35,020 --> 00:02:38,420
+vier Möglichkeiten. Und zwar kannst
+
+58
+00:02:38,420 --> 00:02:42,480
+du die Kugeln ziehen und wiederum
+
+59
+00:02:42,480 --> 00:02:45,800
+zurücklegen, indem du aber auch die
+
+60
+00:02:45,800 --> 00:02:48,220
+Reihenfolge beachtest. Du kannst
+
+61
+00:02:48,220 --> 00:02:50,760
+ziehen mit zurücklegen, ohne die
+
+62
+00:02:50,760 --> 00:02:53,460
+Reihenfolge zu beachten. Du kannst
+
+63
+00:02:53,460 --> 00:02:55,820
+ziehen ohne die Kugeln wieder
+
+64
+00:02:55,820 --> 00:02:58,440
+zurückzulegen in die Urne, indem du
+
+65
+00:02:58,440 --> 00:03:00,340
+aber auch die Reihenfolge beachtest.
+
+66
+00:03:00,340 --> 00:03:03,640
+und du kannst ziehen, ohne die Kugel
+
+67
+00:03:03,640 --> 00:03:05,960
+zurückzulegen und ohne die
+
+68
+00:03:05,960 --> 00:03:09,700
+Reihenfolge zu beachten. Es gibt also
+
+69
+00:03:09,700 --> 00:03:11,500
+vier verschiedene Möglichkeiten. Das
+
+70
+00:03:11,500 --> 00:03:13,200
+Ganze kann man auch über eine
+
+71
+00:03:13,200 --> 00:03:15,100
+Kreuztabelle wie unten auch nochmal
+
+72
+00:03:15,100 --> 00:03:17,680
+darstellen, wo du auch nochmal mit
+
+73
+00:03:17,680 --> 00:03:19,280
+zurücklegen, mit beachtender
+
+74
+00:03:19,280 --> 00:03:21,200
+Reihenfolge und ohne beachtender
+
+75
+00:03:21,200 --> 00:03:22,640
+Reihenfolge hast und genau das
+
+76
+00:03:22,640 --> 00:03:24,740
+gleiche für die Variante ohne
+
+77
+00:03:24,740 --> 00:03:26,480
+zurücklegen, mit beachtender
+
+78
+00:03:26,480 --> 00:03:28,400
+Reihenfolge und ohne beachtender
+
+79
+00:03:28,400 --> 00:03:32,110
+Reihenfolge. Gucken wir uns dazu
+
+80
+00:03:32,110 --> 00:03:35,330
+einmal also die erste Variante an,
+
+81
+00:03:35,390 --> 00:03:37,230
+und zwar das Ziehen mit Zurücklegen
+
+82
+00:03:37,230 --> 00:03:41,150
+mit Beachtung der Reihenfolge. Das
+
+83
+00:03:41,150 --> 00:03:42,690
+heißt, die Kugeln, die du gezogen
+
+84
+00:03:42,690 --> 00:03:44,490
+hast, werden nach dem Ziehen wieder
+
+85
+00:03:44,490 --> 00:03:46,970
+in die Urne zurückgelegt. Wichtig ist
+
+86
+00:03:46,970 --> 00:03:48,910
+dabei, dass eine Reihenfolge
+
+87
+00:03:48,910 --> 00:03:52,510
+beibehalten bleiben soll. Also wir
+
+88
+00:03:52,510 --> 00:03:54,870
+wollen eine blaue und danach zwei
+
+89
+00:03:54,870 --> 00:03:58,670
+rote Kugeln ziehen. N bleibt also
+
+90
+00:03:58,670 --> 00:04:01,690
+immer 12 und die Reihenfolge muss
+
+91
+00:04:01,690 --> 00:04:05,110
+dementsprechend blau, rot, rot sein.
+
+92
+00:04:08,550 --> 00:04:10,650
+Das Ganze kann eben aber auch
+
+93
+00:04:10,650 --> 00:04:13,310
+variieren, indem du eine blaue, eine
+
+94
+00:04:13,310 --> 00:04:15,930
+grüne oder eine rote Kugel ziehen
+
+95
+00:04:15,930 --> 00:04:20,660
+sollst, mit zurücklegen. Du kannst
+
+96
+00:04:20,660 --> 00:04:22,680
+aber auch das Ganze eben wiederum so
+
+97
+00:04:22,680 --> 00:04:25,380
+auslegen, dass du mit zurücklegen das
+
+98
+00:04:25,380 --> 00:04:27,840
+Ganze machst, aber ohne die
+
+99
+00:04:27,840 --> 00:04:30,380
+Reihenfolge zu beachten. Also du
+
+100
+00:04:30,380 --> 00:04:33,100
+sollst eine blaue und dann zwei rote
+
+101
+00:04:33,100 --> 00:04:35,760
+Kugeln ziehen. Also es ist egal, ob
+
+102
+00:04:35,760 --> 00:04:38,240
+du die blaue Kugel zu Beginn, in der
+
+103
+00:04:38,240 --> 00:04:41,340
+Mitte oder am Anfang ziehst oder ob
+
+104
+00:04:41,340 --> 00:04:43,240
+du die zwei Kugeln hintereinander
+
+105
+00:04:43,240 --> 00:04:46,640
+ziehst, zuletzt, zu Beginn oder
+
+106
+00:04:46,640 --> 00:04:48,740
+abwechselnd, indem du eine rote, eine
+
+107
+00:04:48,740 --> 00:04:50,520
+blaue und dann eine rote Kugel
+
+108
+00:04:50,520 --> 00:04:54,900
+ziehst. Das Ganze ist genau nochmal
+
+109
+00:04:54,900 --> 00:04:56,660
+das gleiche für eine blaue, eine
+
+110
+00:04:56,660 --> 00:04:59,460
+grüne und eine rote Kugel. Das heißt,
+
+111
+00:04:59,580 --> 00:05:02,080
+jede Farbe kann zu Beginn gezogen
+
+112
+00:05:02,080 --> 00:05:03,900
+werden, sie kann aber auch in der
+
+113
+00:05:03,900 --> 00:05:06,160
+Mitte oder am Ende gezogen werden.
+
+114
+00:05:06,320 --> 00:05:09,120
+Und auch da ist die Reihenfolge total
+
+115
+00:05:09,120 --> 00:05:11,660
+unterschiedlich, sodass Blau, Grün
+
+116
+00:05:11,660 --> 00:05:13,420
+oder Rot in der Mitte sein kann,
+
+117
+00:05:13,560 --> 00:05:16,280
+Grün, Rot, Blau in der Mitte oder
+
+118
+00:05:16,280 --> 00:05:17,760
+Rot, Grün, Blau am Ende.
+
+119
+00:05:20,710 --> 00:05:24,070
+Nun das Ziehen ohne Zurücklegen und
+
+120
+00:05:24,070 --> 00:05:26,650
+mit Beachtung der Reihenfolge. Das
+
+121
+00:05:26,650 --> 00:05:28,230
+heißt, die Kugeln werden durch das
+
+122
+00:05:28,230 --> 00:05:30,510
+Ziehen aus der Urne entfernt. Hast du
+
+123
+00:05:30,510 --> 00:05:32,650
+also eine blaue gezogen, wird sie
+
+124
+00:05:32,650 --> 00:05:34,250
+nicht mehr zurückgelegt und die
+
+125
+00:05:34,250 --> 00:05:36,230
+Anzahl der Kugeln, die sich jetzt in
+
+126
+00:05:36,230 --> 00:05:39,450
+deiner Urne noch befinden, wird minus
+
+127
+00:05:39,450 --> 00:05:42,370
+1 subtrahiert. Das heißt, wenn du zu
+
+128
+00:05:42,370 --> 00:05:44,710
+Beginn 12 Kugeln drin hattest und
+
+129
+00:05:44,710 --> 00:05:47,030
+dann eine blaue gezogen hast, wird
+
+130
+00:05:47,030 --> 00:05:51,270
+diese auch rausgetan. Hast du dann
+
+131
+00:05:51,270 --> 00:05:52,930
+bei deinem nächsten Zug nur noch 11
+
+132
+00:05:52,930 --> 00:05:54,710
+Kugeln, hast du eine rote
+
+133
+00:05:54,710 --> 00:05:57,490
+herausgezogen, findest du danach nur
+
+134
+00:05:57,490 --> 00:06:00,710
+noch 10 Kugeln wieder. Also n wird
+
+135
+00:06:00,710 --> 00:06:02,350
+immer um die Anzahl der gezogenen
+
+136
+00:06:02,350 --> 00:06:04,690
+Kugeln kleiner und die Reihenfolge
+
+137
+00:06:04,690 --> 00:06:07,430
+sollte hierbei blau-rot-rot sein
+
+138
+00:06:08,330 --> 00:06:10,330
+Genau das gleiche Schema noch einmal
+
+139
+00:06:10,330 --> 00:06:14,130
+für blau-grün-rot und dann aber das
+
+140
+00:06:14,130 --> 00:06:15,990
+Ziehen ohne Zurücklegen und ohne
+
+141
+00:06:15,990 --> 00:06:18,250
+Beachtung der Reihenfolge Und auch
+
+142
+00:06:18,250 --> 00:06:19,870
+hier ist es im Prinzip wieder das
+
+143
+00:06:19,870 --> 00:06:22,010
+gleiche, nur dass sich die Anzahl der
+
+144
+00:06:22,010 --> 00:06:23,750
+Kugeln, die sich dann in der Urne
+
+145
+00:06:23,750 --> 00:06:26,150
+befinden, immer wieder um 1
+
+146
+00:06:26,150 --> 00:06:27,150
+subtrahiert
+
+147
+00:06:29,980 --> 00:06:31,460
+Wofür brauchen wir diese vier
+
+148
+00:06:31,460 --> 00:06:31,920
+verschiedenen
+
+149
+00:06:31,920 --> 00:06:34,580
+Variationsmöglichkeiten? Es gibt
+
+150
+00:06:34,580 --> 00:06:36,060
+Aufgaben, bei denen nach einer
+
+151
+00:06:36,060 --> 00:06:37,840
+bestimmten Reihenfolge verlangt wird,
+
+152
+00:06:37,940 --> 00:06:39,480
+und wiederum andere, bei denen die
+
+153
+00:06:39,480 --> 00:06:42,480
+Reihenfolge egal ist. Das Gleiche
+
+154
+00:06:42,480 --> 00:06:43,960
+gilt wiederum auch wirklich für das
+
+155
+00:06:43,960 --> 00:06:45,300
+Verfahren, wenn du die Kugel
+
+156
+00:06:45,300 --> 00:06:47,260
+zurücklegen sollst. Du musst also
+
+157
+00:06:47,260 --> 00:06:49,440
+wirklich genau durchlesen, was die
+
+158
+00:06:49,440 --> 00:06:51,360
+Aufgabenstellung von dir abverlangt,
+
+159
+00:06:51,360 --> 00:06:54,280
+um dann die richtige Variation zu
+
+160
+00:06:54,280 --> 00:06:54,580
+erkennen.
+
+161
+00:06:58,060 --> 00:06:59,320
+Machen wir weiter mit dem
+
+162
+00:06:59,320 --> 00:07:01,600
+Baumdiagramm. Das Baumdiagramm ist
+
+163
+00:07:01,600 --> 00:07:04,180
+meiner Meinung nach etwas leichter
+
+164
+00:07:04,180 --> 00:07:07,120
+als das Ohrenverfahren. Und zwar das
+
+165
+00:07:07,120 --> 00:07:07,760
+mehrstufige
+
+166
+00:07:07,760 --> 00:07:09,760
+Wahrscheinlichkeitsexperiment lässt
+
+167
+00:07:09,760 --> 00:07:11,660
+sich besonders gut eben mit Hilfe des
+
+168
+00:07:11,660 --> 00:07:14,200
+Baumdiagrammes darstellen. Gucken wir
+
+169
+00:07:14,200 --> 00:07:15,840
+uns dazu einmal das Beispiel des
+
+170
+00:07:15,840 --> 00:07:18,680
+Münzwurfs an. Wir haben also das
+
+171
+00:07:18,680 --> 00:07:21,380
+dreimalige Werfen einer Münze und im
+
+172
+00:07:21,380 --> 00:07:24,080
+Diagramm steht K für Kopf und Z für
+
+173
+00:07:24,080 --> 00:07:26,380
+Zahl. Und die Zahlen im Diagramm
+
+174
+00:07:26,380 --> 00:07:27,280
+beschreiben jeweils die
+
+175
+00:07:27,280 --> 00:07:29,540
+Wahrscheinlichkeit für den Wurf. Das
+
+176
+00:07:29,540 --> 00:07:31,720
+heißt, beim ersten Wurf habe ich die
+
+177
+00:07:31,720 --> 00:07:34,400
+Wahrscheinlichkeit von 50% Zahl oder
+
+178
+00:07:34,400 --> 00:07:37,060
+Kopf zu werfen. Nachdem ich nun Zahl
+
+179
+00:07:37,060 --> 00:07:40,720
+oder Kopf geworfen habe, habe ich
+
+180
+00:07:40,720 --> 00:07:43,000
+wieder eine 50%ige Wahrscheinlichkeit
+
+181
+00:07:43,000 --> 00:07:45,460
+Zahl oder Kopf zu werfen. Und so
+
+182
+00:07:45,460 --> 00:07:46,860
+summiert sich das Ganze auf.
+
+183
+00:07:50,050 --> 00:07:53,190
+Zuerst gibt es im Allgemeinen zwei
+
+184
+00:07:53,190 --> 00:07:54,970
+Regeln für die Baumdiagramme. Die
+
+185
+00:07:54,970 --> 00:07:57,210
+erste Pfadregel besagt, die
+
+186
+00:07:57,210 --> 00:07:58,590
+Wahrscheinlichkeiten entlang eines
+
+187
+00:07:58,590 --> 00:08:01,530
+Pfades werden multipliziert. Also
+
+188
+00:08:01,530 --> 00:08:03,010
+wenn ich mir die Wahrscheinlichkeit
+
+189
+00:08:03,010 --> 00:08:05,370
+für die Reihenfolge Zahl, Zahl, Zahl
+
+190
+00:08:05,370 --> 00:08:09,370
+angucken möchte, muss ich 0,5 mal 0,5
+
+191
+00:08:09,370 --> 00:08:13,590
+mal 0,5 rechnen. 0,5 mal 0,5 sind 0
+
+192
+00:08:13,590 --> 00:08:17,590
+,25 und 0,25 mal 0,5 ergibt wiederum
+
+193
+00:08:17,590 --> 00:08:20,150
+0,125. Das heißt die
+
+194
+00:08:20,150 --> 00:08:21,830
+Wahrscheinlichkeit die Reihenfolge
+
+195
+00:08:21,830 --> 00:08:24,130
+Zahl, Zahl, Zahl zu werfen liegt bei
+
+196
+00:08:24,130 --> 00:08:26,370
+12,5%. Und
+
+197
+00:08:28,830 --> 00:08:30,090
+am Ende werden die
+
+198
+00:08:30,090 --> 00:08:31,610
+Wahrscheinlichkeiten eines Pfades
+
+199
+00:08:31,610 --> 00:08:33,570
+dann addiert. Also die
+
+200
+00:08:33,570 --> 00:08:36,630
+Wahrscheinlichkeit, zweimal Zahl und
+
+201
+00:08:36,630 --> 00:08:38,130
+einmal Kopf zu werfen, wird mit dem
+
+202
+00:08:38,130 --> 00:08:42,150
+Pfaden Zahl, Zahl, Kopf, Zahl, Kopf,
+
+203
+00:08:42,430 --> 00:08:45,930
+Zahl, Zahl berechnet. Also musst du
+
+204
+00:08:45,930 --> 00:08:49,410
+dementsprechend, so wie eben, 0,5
+
+205
+00:08:49,410 --> 00:08:55,930
+hoch 3 mal 3 rechnen. Also 0,5 mal 0
+
+206
+00:08:55,930 --> 00:09:00,150
+,5 mal 0. 0,5 plus 0,5 mal 0,5 mal 0
+
+207
+00:09:00,150 --> 00:09:04,750
+,5 plus 0,5 mal 0,5 mal 0,5 oder 0
+
+208
+00:09:04,750 --> 00:09:11,350
+,125 mal 3 und das ergibt
+
+209
+00:09:11,350 --> 00:09:16,510
+dann 0,375. Also du hast eine 37,5
+
+210
+00:09:16,510 --> 00:09:18,970
+%ige Wahrscheinlichkeit für diese
+
+211
+00:09:18,970 --> 00:09:19,790
+Konstellation.
+
+212
+00:09:22,480 --> 00:09:24,500
+Gucken wir uns zuletzt die 4-Felder
+
+213
+00:09:24,500 --> 00:09:26,900
+-Tafel an. Und zwar eine 4-Felder
+
+214
+00:09:26,900 --> 00:09:28,480
+-Tafel ist eine Tafel. oder eine
+
+215
+00:09:28,480 --> 00:09:30,800
+Tabelle, die in der Statistik oder in
+
+216
+00:09:30,800 --> 00:09:32,280
+der Stochastik verwendet wird, wenn
+
+217
+00:09:32,280 --> 00:09:33,780
+es um die Zusammenhänge zweier
+
+218
+00:09:33,780 --> 00:09:36,140
+Ereignisse geht. Dafür gibt es im
+
+219
+00:09:36,140 --> 00:09:38,000
+Prinzip noch einen weiteren Begriff,
+
+220
+00:09:38,060 --> 00:09:39,300
+gerade wenn man sich das in der
+
+221
+00:09:39,300 --> 00:09:41,620
+Statistik anschaut. Das ist dann der
+
+222
+00:09:41,620 --> 00:09:44,100
+Begriff der Korrelation, also um
+
+223
+00:09:44,100 --> 00:09:46,960
+Zusammenhänge zu untersuchen. Das
+
+224
+00:09:46,960 --> 00:09:48,540
+werdet ihr wahrscheinlich aber so in
+
+225
+00:09:48,540 --> 00:09:50,200
+der Schule noch nicht behandelt haben
+
+226
+00:09:50,200 --> 00:09:52,500
+oder werdet es auch nicht behandeln.
+
+227
+00:09:53,780 --> 00:09:55,400
+Und zwar gucken wir uns dazu das
+
+228
+00:09:55,400 --> 00:09:58,220
+Beispiel an. Eine Schule hat 830
+
+229
+00:09:58,220 --> 00:10:01,240
+Schüler, von denen 428 weiblich sind.
+
+230
+00:10:01,740 --> 00:10:05,600
+Von den Mädchen spielen 28%, also 103
+
+231
+00:10:05,600 --> 00:10:10,580
+Schülerinnen von den 428, regelmäßig
+
+232
+00:10:10,580 --> 00:10:12,520
+Fußball. Und von den Jungen insgesamt
+
+233
+00:10:12,520 --> 00:10:18,180
+402 Schüler spielen 43%.
+
+234
+00:10:20,660 --> 00:10:22,220
+Achso, genau, von den jungen Spielen
+
+235
+00:10:22,220 --> 00:10:29,420
+43% Fußball und zwar 173 Schüler
+
+236
+00:10:29,420 --> 00:10:32,760
+wären das dann. Und die Werte lassen
+
+237
+00:10:32,760 --> 00:10:34,800
+sich eben in dieser Tafel wie folgt
+
+238
+00:10:34,800 --> 00:10:37,120
+darstellen. Also du hast links in der
+
+239
+00:10:37,120 --> 00:10:39,980
+äußersten Spalte hast du Fußball und
+
+240
+00:10:39,980 --> 00:10:42,000
+kein Fußball stehen. In der zweiten
+
+241
+00:10:42,000 --> 00:10:44,540
+Spalte Jungen und Mädchen, äh Jungen,
+
+242
+00:10:44,540 --> 00:10:45,860
+in der zweiten, äh in der dritten
+
+243
+00:10:45,860 --> 00:10:47,380
+Spalte Mädchen und in der der Spalte
+
+244
+00:10:47,380 --> 00:10:49,680
+ganz rechts, hast du unten in der
+
+245
+00:10:49,680 --> 00:10:52,220
+zweiten Zeile einmal die Anzahl der
+
+246
+00:10:52,220 --> 00:10:54,900
+Fußballspielenden, dann darunter die
+
+247
+00:10:54,900 --> 00:10:57,160
+Anzahl, die nicht Fußball spielen und
+
+248
+00:10:57,160 --> 00:11:00,500
+jeweils unten rechts die Gesamtanzahl
+
+249
+00:11:00,500 --> 00:11:03,440
+der Schülerinnen und Schüler. Du
+
+250
+00:11:03,440 --> 00:11:04,680
+musst also jetzt erst einmal
+
+251
+00:11:04,680 --> 00:11:06,740
+lediglich übertragen, was dort zu
+
+252
+00:11:06,740 --> 00:11:08,940
+erkennen ist. Wir haben also mit der
+
+253
+00:11:08,940 --> 00:11:12,540
+173 hier die Jungen, die Fußball
+
+254
+00:11:12,540 --> 00:11:15,760
+spielen. Mit der 103 haben wir die
+
+255
+00:11:15,760 --> 00:11:18,240
+Mädchen, die Fußball spielen und wir
+
+256
+00:11:18,240 --> 00:11:20,140
+haben unten einmal die Gesamtanzahl
+
+257
+00:11:20,140 --> 00:11:22,440
+der Jungen, das sind 402 Schüler und
+
+258
+00:11:22,440 --> 00:11:24,440
+wir haben 428 Mädchen, die
+
+259
+00:11:24,440 --> 00:11:26,500
+Gesamtanzahl der weiblichen Schülerin
+
+260
+00:11:26,500 --> 00:11:29,320
+und wir haben unten eine Totalsumme
+
+261
+00:11:29,320 --> 00:11:31,980
+von 830 Schülerinnen und Schülern.
+
+262
+00:11:31,980 --> 00:11:36,040
+Wenn wir jetzt also die Anzahl für
+
+263
+00:11:36,040 --> 00:11:38,700
+die Jungen berechnen wollen, die
+
+264
+00:11:38,700 --> 00:11:41,240
+keinen Fußball spielen, müssen wir
+
+265
+00:11:41,240 --> 00:11:45,060
+hier 402 minus 173 rechnen, um auf
+
+266
+00:11:45,060 --> 00:11:47,380
+unsere Summe zu kommen an Jungen, die
+
+267
+00:11:47,380 --> 00:11:49,020
+keinen Fußball spielen. Genau das
+
+268
+00:11:49,020 --> 00:11:50,960
+gleiche für die Mädchen. Wenn wir
+
+269
+00:11:50,960 --> 00:11:52,420
+jetzt aber die Anzahl der
+
+270
+00:11:52,420 --> 00:11:54,200
+Fußballspielenden Jungen und Mädchen
+
+271
+00:11:54,200 --> 00:11:55,500
+berechnen wollen, müssen wir
+
+272
+00:11:55,500 --> 00:11:59,680
+lediglich 173 plus 103 addieren. Wir
+
+273
+00:11:59,680 --> 00:12:01,360
+bekommen dann also folgende. das Bild
+
+274
+00:12:01,360 --> 00:12:04,560
+und zwar spielen 229 Jungen keinen
+
+275
+00:12:04,560 --> 00:12:07,200
+Fußball und 325 Mädchen spielen
+
+276
+00:12:07,200 --> 00:12:10,080
+ebenso keinen Fußball. Wir haben aber
+
+277
+00:12:10,080 --> 00:12:13,360
+273 von 830 Schülerinnen und
+
+278
+00:12:13,360 --> 00:12:16,100
+Schülern, die Fußball spielen. Jetzt
+
+279
+00:12:16,100 --> 00:12:17,460
+fehlt uns nur noch die letzte Zahl
+
+280
+00:12:17,460 --> 00:12:20,060
+und zwar die Anzahl an Schülerinnen
+
+281
+00:12:20,060 --> 00:12:21,720
+und Schülern, die keinen Fußball
+
+282
+00:12:21,720 --> 00:12:25,980
+spielen und das sind 229 plus 325
+
+283
+00:12:25,980 --> 00:12:28,780
+Schülerinnen und Schüler und das Das
+
+284
+00:12:28,780 --> 00:12:33,220
+ergibt 554 Schülerinnen und Schüler.
+
+285
+00:12:34,480 --> 00:12:37,240
+Das heißt, dass über die Hälfte der
+
+286
+00:12:37,240 --> 00:12:39,100
+Jungen und Mädchen in der Schule
+
+287
+00:12:39,100 --> 00:12:42,500
+keinen Fußball spielen und die Jungen
+
+288
+00:12:42,500 --> 00:12:44,000
+und Mädchen, die Fußball spielen,
+
+289
+00:12:44,160 --> 00:12:46,560
+einen etwas geringeren Anteil
+
+290
+00:12:46,560 --> 00:12:47,200
+darstellen.
+
+291
+00:12:49,970 --> 00:12:54,050
+Gibt es von dir soweit eine Frage zu
+
+292
+00:12:54,050 --> 00:12:58,010
+einem der präsentierten Themen? Okay,
+
+293
+00:13:00,590 --> 00:13:03,910
+wenn das nicht der Fall sein sollte,
+
+294
+00:13:04,050 --> 00:13:06,170
+dann bedanke ich mich auch nochmal
+
+295
+00:13:06,170 --> 00:13:08,670
+für deine Aufmerksamkeit und wünsche
+
+296
+00:13:08,670 --> 00:13:09,930
+dir noch ein schönes Wochenende.
+

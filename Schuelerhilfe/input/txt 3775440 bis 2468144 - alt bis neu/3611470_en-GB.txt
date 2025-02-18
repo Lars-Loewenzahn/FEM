@@ -1,0 +1,2798 @@
+﻿1
+00:00:01,580 --> 00:00:03,560
+Welcome to the webinar 
+
+2
+00:00:03,560 --> 00:00:05,900
+Surface areas. 
+
+3
+00:00:05,900 --> 00:00:08,000
+In this webinar , we will be looking at 
+these 
+
+4
+00:00:08,000 --> 00:00:09,860
+figures. 
+
+5
+00:00:09,860 --> 00:00:12,060
+First of all, we will describe what their 
+
+6
+00:00:12,060 --> 00:00:13,740
+special features are. And 
+
+7
+00:00:13,740 --> 00:00:15,160
+then we will 
+
+8
+00:00:15,160 --> 00:00:17,640
+briefly 
+
+9
+00:00:17,640 --> 00:00:18,800
+derive the formula for the area and 
+
+10
+00:00:18,800 --> 00:00:19,960
+illustrate how they 
+
+11
+00:00:19,960 --> 00:00:20,880
+fit together or what the 
+
+12
+00:00:20,880 --> 00:00:22,720
+thought process behind them is. We will 
+
+13
+00:00:22,720 --> 00:00:24,140
+first look at the rectangle, 
+
+14
+00:00:24,300 --> 00:00:26,720
+then the parallelogram, then the 
+
+15
+00:00:26,720 --> 00:00:29,060
+triangle, then the trapezoid and 
+
+16
+00:00:29,060 --> 00:00:30,720
+finally the kite square and 
+
+17
+00:00:30,720 --> 00:00:34,800
+the rhombus. And we'll start 
+
+18
+00:00:34,800 --> 00:00:36,460
+directly with the rectangle. 
+
+19
+00:00:37,180 --> 00:00:38,820
+A rectangle is characterized 
+
+20
+00:00:38,920 --> 00:00:40,360
+by the fact that the opposite edges 
+
+21
+00:00:40,360 --> 00:00:41,660
+
+22
+00:00:41,660 --> 00:00:44,080
+are always the same length and parallel to 
+each other. At the same time, you 
+
+23
+00:00:44,080 --> 00:00:46,780
+only have right angles. The area of 
+
+24
+00:00:46,780 --> 00:00:48,220
+a rectangle is calculated as 
+
+25
+00:00:48,220 --> 00:00:51,200
+a equals a times b. 
+
+26
+00:00:51,200 --> 00:00:53,260
+The reasoning behind this is simple. A 
+
+27
+00:00:53,260 --> 00:00:56,240
+is the length of the rectangle and B 
+
+28
+00:00:56,240 --> 00:00:58,280
+is the width or the height, depending on 
+
+29
+00:00:58,280 --> 00:01:02,020
+how you want to say it. And when we 
+
+30
+00:01:02,020 --> 00:01:03,680
+calculate the area, i.e. A 
+
+31
+00:01:03,680 --> 00:01:05,580
+is equal to A times B, we are 
+
+32
+00:01:05,580 --> 00:01:08,360
+actually doing nothing more than 
+
+33
+00:01:08,360 --> 00:01:13,760
+calculating how many squares we 
+
+34
+00:01:13,760 --> 00:01:14,760
+can get in there with one 
+
+35
+00:01:14,760 --> 00:01:18,500
+unit of area. We could 
+
+36
+00:01:18,500 --> 00:01:21,760
+also determine the area by 
+
+37
+00:01:21,760 --> 00:01:23,400
+going there, we know that there are 8 
+
+38
+00:01:23,400 --> 00:01:24,860
+units of length or let's say 8 cm 
+
+39
+00:01:24,860 --> 00:01:29,000
+, we now draw boxes 
+
+40
+00:01:29,000 --> 00:01:32,060
+with 1x1 cm everywhere , we then get 8 
+
+41
+00:01:32,060 --> 00:01:34,320
+pieces in a row and a total of 4 
+
+42
+00:01:34,320 --> 00:01:38,580
+pieces and 4 on top of each other in 
+there, 
+
+43
+00:01:38,580 --> 00:01:42,220
+which means we have a total of 4x8 
+
+44
+00:01:42,220 --> 00:01:45,760
+boxes in there and that is 32 the 
+
+45
+00:01:45,760 --> 00:01:48,400
+area is therefore 32 cm² 
+
+46
+00:01:48,400 --> 00:01:51,440
+and with this form formula A times 
+
+47
+00:01:51,440 --> 00:01:56,240
+B we do nothing else. And that brings us 
+
+48
+00:01:56,240 --> 00:01:57,260
+to the 
+
+49
+00:01:57,260 --> 00:01:59,680
+parallelogram. The formula for the 
+
+50
+00:01:59,680 --> 00:02:01,540
+rectangle will be 
+
+51
+00:02:01,540 --> 00:02:04,400
+with us for a long time, because almost 
+all solids 
+
+52
+00:02:04,400 --> 00:02:05,860
+can 
+
+53
+00:02:05,860 --> 00:02:09,100
+
+54
+00:02:09,100 --> 00:02:10,320
+
+55
+00:02:10,320 --> 00:02:11,500
+be converted back into a rectangle or a 
+parallelogram by multiplying and cutting 
+them up. 
+
+56
+00:02:12,060 --> 00:02:14,240
+But 
+
+57
+00:02:14,240 --> 00:02:17,300
+we can now see the connection to the 
+parallelogram, because 
+
+58
+00:02:17,300 --> 00:02:19,680
+we are looking at a 
+
+59
+00:02:19,680 --> 00:02:21,520
+parallelogram here. A parallelogram 
+
+60
+00:02:21,520 --> 00:02:23,600
+is characterized by the fact that the 
+
+61
+00:02:23,600 --> 00:02:24,940
+opposite sides 
+
+62
+00:02:24,940 --> 00:02:27,920
+are always parallel and of equal length. 
+But 
+
+63
+00:02:27,920 --> 00:02:29,840
+unlike a rectangle, we 
+
+64
+00:02:29,840 --> 00:02:31,240
+no longer need to have right angles. This 
+
+65
+00:02:31,240 --> 00:02:33,100
+means that B is parallel to B, A is 
+
+66
+00:02:33,100 --> 00:02:35,180
+parallel to A and A is of course as 
+
+67
+00:02:35,180 --> 00:02:37,080
+long as A and B is also as 
+
+68
+00:02:37,080 --> 00:02:38,800
+long as B. But we 
+
+69
+00:02:38,800 --> 00:02:41,020
+no longer have any right angles here. 
+
+70
+00:02:41,020 --> 00:02:43,320
+
+71
+00:02:43,320 --> 00:02:45,500
+There are two formulas for calculating the 
+area of a parallelogram : a 
+
+72
+00:02:45,500 --> 00:02:51,120
+times ha and b times hb. The difference 
+
+73
+00:02:51,120 --> 00:02:53,560
+is as follows. The height is always 
+
+74
+00:02:53,560 --> 00:02:55,120
+
+75
+00:02:55,120 --> 00:02:56,860
+applied at right angles to the base side. 
+This is always the case. Whenever 
+
+76
+00:02:56,860 --> 00:02:58,480
+you 
+
+77
+00:02:58,480 --> 00:03:01,080
+calculate a height in geometry , it is 
+always perpendicular 
+
+78
+00:03:01,080 --> 00:03:02,100
+to the base side that we are 
+
+79
+00:03:02,100 --> 00:03:05,580
+looking at. So the two edges 
+
+80
+00:03:05,580 --> 00:03:06,860
+must always be perpendicular to each other 
+
+81
+00:03:06,860 --> 00:03:09,060
+and ha is simply the height 
+
+82
+00:03:09,080 --> 00:03:12,060
+that is perpendicular to a. HB would be 
+
+83
+00:03:12,060 --> 00:03:14,700
+the height that is perpendicular to B. 
+
+84
+00:03:14,900 --> 00:03:18,780
+It should somehow run like this. And 
+
+85
+00:03:18,780 --> 00:03:19,960
+then, of course, it depends on what 
+
+86
+00:03:19,960 --> 00:03:21,480
+I have given. If I have given A and HA 
+
+87
+00:03:21,480 --> 00:03:22,780
+, I naturally take the 
+
+88
+00:03:22,780 --> 00:03:25,220
+formula and if I 
+
+89
+00:03:25,220 --> 00:03:28,460
+have given B and HB , I take the latter. 
+But 
+
+90
+00:03:28,460 --> 00:03:29,880
+let's move on to where do these 
+
+91
+00:03:29,880 --> 00:03:32,880
+formulas come from? First of all, we can 
+
+92
+00:03:32,880 --> 00:03:34,540
+
+93
+00:03:34,540 --> 00:03:36,220
+turn any parallelogram into a rectangle by 
+a simple transformation 
+
+94
+00:03:36,220 --> 00:03:36,360
+. 
+
+95
+00:03:39,280 --> 00:03:40,680
+To do this, let's label it again very 
+
+96
+00:03:40,680 --> 00:03:42,420
+briefly. Remember, we have 
+
+97
+00:03:42,420 --> 00:03:44,020
+the edge length A here, the 
+
+98
+00:03:44,020 --> 00:03:46,060
+edge length B here and that's HA. 
+
+99
+00:03:46,060 --> 00:03:47,600
+It is very important that we now have HA 
+here 
+
+100
+00:03:47,600 --> 00:03:50,680
+and HA is perpendicular to A. 
+
+101
+00:03:51,840 --> 00:03:53,780
+Now we simply go and 
+
+102
+00:03:53,780 --> 00:03:55,480
+cut off our parallelogram at 
+
+103
+00:03:55,480 --> 00:03:57,780
+one corner. Important, at right angles. 
+
+104
+00:03:58,300 --> 00:04:01,820
+So here is a right angle. And 
+
+105
+00:04:01,820 --> 00:04:03,900
+now we take this corner off and 
+
+106
+00:04:03,900 --> 00:04:05,600
+
+107
+00:04:05,600 --> 00:04:08,560
+put it back on the other side. So this is 
+the corner that 
+
+108
+00:04:08,560 --> 00:04:11,160
+we cut off. And we 
+
+109
+00:04:11,160 --> 00:04:13,340
+see that we now have a 
+
+110
+00:04:13,340 --> 00:04:14,900
+rectangle. The question is, what are 
+
+111
+00:04:14,900 --> 00:04:16,300
+the dimensions of this rectangle? The 
+rectangle 
+
+112
+00:04:16,300 --> 00:04:20,400
+has the length A and the height 
+
+113
+00:04:20,400 --> 00:04:20,900
+HA. 
+
+114
+00:04:23,840 --> 00:04:28,020
+And therefore, if we now 
+
+115
+00:04:28,020 --> 00:04:30,200
+use HA for our B, we go from a is 
+
+116
+00:04:30,200 --> 00:04:33,960
+equal to a times b to a is equal to ha and 
+
+117
+00:04:33,960 --> 00:04:35,800
+therefore we can 
+
+118
+00:04:35,800 --> 00:04:37,240
+always use this formula to 
+
+119
+00:04:37,240 --> 00:04:38,920
+calculate the area of a parallelogram 
+because we 
+
+120
+00:04:38,920 --> 00:04:40,340
+haven't added anything, 
+
+121
+00:04:40,340 --> 00:04:42,300
+we've just 
+
+122
+00:04:42,300 --> 00:04:43,940
+cut off an area and added it 
+
+123
+00:04:43,940 --> 00:04:46,340
+back on the other side, 
+
+124
+00:04:46,340 --> 00:04:47,540
+i.e. we haven 
+
+125
+00:04:47,540 --> 00:04:50,220
+'t changed the area content, just the 
+appearance as 
+
+126
+00:04:53,160 --> 00:04:55,180
+you can see again we've 
+
+127
+00:04:55,180 --> 00:04:57,080
+cut here and we have 
+
+128
+00:04:57,080 --> 00:04:58,860
+simply attached this knowledge here and 
+
+129
+00:04:58,860 --> 00:05:01,360
+then come to this rectangle the figures 
+
+130
+00:05:01,360 --> 00:05:02,900
+are different one is a 
+
+131
+00:05:02,900 --> 00:05:04,100
+parallelogram as I said the other is a 
+
+132
+00:05:04,100 --> 00:05:06,760
+rectangle but we can 
+
+133
+00:05:06,760 --> 00:05:08,780
+calculate the areas using the formula 
+
+134
+00:05:08,780 --> 00:05:10,560
+because we 
+
+135
+00:05:10,560 --> 00:05:14,470
+have successfully reshaped it so we are 
+already at 
+
+136
+00:05:14,470 --> 00:05:16,070
+the triangles 
+
+137
+00:05:16,070 --> 00:05:18,890
+and it is similar with the triangles first 
+of all 
+
+138
+00:05:18,890 --> 00:05:20,110
+the area content for a triangle 
+
+139
+00:05:20,110 --> 00:05:24,710
+is 1,5 a times ha which means 
+
+140
+00:05:24,710 --> 00:05:26,710
+that here again we have the height 
+
+141
+00:05:26,710 --> 00:05:28,530
+ha which must of course be perpendicular 
+to 
+
+142
+00:05:28,530 --> 00:05:29,870
+the side, this index here 
+
+143
+00:05:29,870 --> 00:05:31,450
+indicates that this is the height that 
+
+144
+00:05:31,450 --> 00:05:33,010
+is on A , as it 
+
+145
+00:05:33,010 --> 00:05:35,150
+was with the parallelogram and depending 
+on 
+
+146
+00:05:35,190 --> 00:05:36,610
+what you have now given here, 
+
+147
+00:05:36,610 --> 00:05:37,610
+you can of course also 
+
+148
+00:05:37,610 --> 00:05:40,330
+use the other two formulas, i.e. 1.5 times 
+B times HB 
+
+149
+00:05:40,330 --> 00:05:44,690
+or 1.5 times C times HC. As 
+
+150
+00:05:44,690 --> 00:05:47,130
+I said, this depends on what sides we 
+
+151
+00:05:47,130 --> 00:05:48,510
+have been given and what 
+
+152
+00:05:48,510 --> 00:05:51,570
+height, and we have 
+
+153
+00:05:51,570 --> 00:05:53,210
+now entered this triangle and want to 
+
+154
+00:05:53,210 --> 00:05:54,730
+derive these formulas 
+
+155
+00:05:54,730 --> 00:05:55,410
+, so we will 
+
+156
+00:05:55,410 --> 00:05:57,790
+limit ourselves to these. The derivation 
+for the 
+
+157
+00:05:57,790 --> 00:06:01,750
+others works in the same way. 
+
+158
+00:06:01,750 --> 00:06:05,250
+First of all, we can 
+
+159
+00:06:05,250 --> 00:06:06,610
+
+160
+00:06:06,610 --> 00:06:09,330
+create a parallelogram from a triangle by 
+transforming it. And we'll 
+
+161
+00:06:09,330 --> 00:06:10,730
+just go to the base here, 
+
+162
+00:06:10,730 --> 00:06:12,990
+or we'll transform it into a 
+
+163
+00:06:12,990 --> 00:06:14,850
+parallelogram and then 
+
+164
+00:06:14,850 --> 00:06:16,030
+
+165
+00:06:16,030 --> 00:06:17,890
+apply the formula for the parallelogram . 
+We have just 
+
+166
+00:06:17,890 --> 00:06:19,290
+shown where the formula for the 
+
+167
+00:06:19,290 --> 00:06:21,650
+parallelogram comes from. We could 
+
+168
+00:06:21,650 --> 00:06:23,090
+
+169
+00:06:23,090 --> 00:06:24,670
+of course also turn this triangle into a 
+rectangle 
+
+170
+00:06:24,670 --> 00:06:26,190
+. But we're 
+
+171
+00:06:26,190 --> 00:06:29,070
+not going to do that now , because that 
+would be a bit 
+
+172
+00:06:29,070 --> 00:06:32,490
+too much. Well, first 
+
+173
+00:06:32,490 --> 00:06:34,090
+we'll try to turn this triangle 
+
+174
+00:06:34,090 --> 00:06:36,150
+into a parallelogram. 
+
+175
+00:06:36,150 --> 00:06:37,610
+We do this by 
+
+176
+00:06:37,610 --> 00:06:39,090
+mirroring the triangle. Just to remind you 
+
+177
+00:06:39,090 --> 00:06:43,030
+, the height HA is the 
+
+178
+00:06:43,030 --> 00:06:44,890
+distance from the extended 
+
+179
+00:06:44,890 --> 00:06:46,850
+base side, if you like, 
+
+180
+00:06:46,850 --> 00:06:49,210
+to the tip. So the height doesn't 
+
+181
+00:06:49,210 --> 00:06:50,530
+always have to be inside the figure, it 
+can 
+
+182
+00:06:50,530 --> 00:06:52,390
+also be outside. As here, 
+
+183
+00:06:52,410 --> 00:06:53,890
+you take a dashed 
+
+184
+00:06:53,890 --> 00:06:55,110
+line so that you 
+
+185
+00:06:55,110 --> 00:06:56,930
+can measure or draw the height correctly. 
+
+186
+00:06:57,150 --> 00:06:58,770
+And again, the height must 
+
+187
+00:06:58,770 --> 00:07:01,150
+be perpendicular to it. And 
+
+188
+00:07:01,150 --> 00:07:03,670
+first, we 
+
+189
+00:07:03,670 --> 00:07:05,230
+simply double our triangle . In other 
+words, we have 
+
+190
+00:07:05,230 --> 00:07:07,030
+
+191
+00:07:07,030 --> 00:07:09,650
+drawn this triangle next to it again in 
+exactly the same way. And now we're going 
+to rotate 
+
+192
+00:07:09,710 --> 00:07:11,390
+it. So I'll show that again 
+
+193
+00:07:11,390 --> 00:07:13,830
+very briefly. The edge moves up. 
+
+194
+00:07:14,070 --> 00:07:17,030
+We rotate it 180 degrees 
+
+195
+00:07:17,030 --> 00:07:20,610
+clockwise. And now it's lying 
+
+196
+00:07:20,610 --> 00:07:22,230
+here like this. I think you can already 
+see 
+
+197
+00:07:22,290 --> 00:07:24,290
+what we're going to do. We're going to 
+
+198
+00:07:24,290 --> 00:07:26,150
+push this triangle onto it right now 
+
+199
+00:07:26,150 --> 00:07:28,590
+and get a 
+
+200
+00:07:28,590 --> 00:07:29,970
+parallelogram. So as I said, this 
+
+201
+00:07:29,970 --> 00:07:31,030
+is still the division when you see 
+
+202
+00:07:31,090 --> 00:07:32,710
+that there are two triangles. And now 
+
+203
+00:07:32,710 --> 00:07:34,650
+we can see that 
+
+204
+00:07:34,650 --> 00:07:36,710
+these two triangles together form a 
+
+205
+00:07:36,710 --> 00:07:38,910
+parallelogram. a is again parallel 
+
+206
+00:07:38,910 --> 00:07:40,770
+to a and c is again parallel to c. 
+
+207
+00:07:41,070 --> 00:07:42,830
+This means that the criteria for a 
+
+208
+00:07:42,830 --> 00:07:44,770
+parallelogram have 
+
+209
+00:07:44,770 --> 00:07:46,370
+been retained . We still have the 
+
+210
+00:07:46,370 --> 00:07:50,030
+height ha. That is still the 
+
+211
+00:07:50,030 --> 00:07:53,810
+point here. And the parallelogram 
+
+212
+00:07:53,810 --> 00:07:57,350
+now has a length of a. 
+
+213
+00:07:57,350 --> 00:07:58,530
+Of course, you can 
+
+214
+00:07:58,530 --> 00:08:00,310
+do this in several ways. Instead of 
+putting the 
+
+215
+00:08:00,310 --> 00:08:01,730
+triangle on top here , we could have 
+
+216
+00:08:01,810 --> 00:08:03,110
+put this on top. 
+
+217
+00:08:03,110 --> 00:08:05,030
+then our parallelogram would have 
+
+218
+00:08:05,030 --> 00:08:07,670
+looked like this there are, as I said, 
+
+219
+00:08:07,670 --> 00:08:12,110
+several possibilities we could 
+
+220
+00:08:12,110 --> 00:08:15,050
+also 
+
+221
+00:08:15,050 --> 00:08:16,410
+transform the triangle not into a 
+parallelogram 
+
+222
+00:08:16,410 --> 00:08:17,930
+but into a trapezoid that also worked 
+
+223
+00:08:17,930 --> 00:08:20,190
+but is not necessarily 
+
+224
+00:08:20,190 --> 00:08:21,670
+recommended I would always 
+
+225
+00:08:21,670 --> 00:08:23,470
+recommend that you simply 
+
+226
+00:08:23,470 --> 00:08:25,410
+transform it into a parallelogram 
+
+227
+00:08:25,410 --> 00:08:27,590
+as it is shown here and 
+
+228
+00:08:27,590 --> 00:08:29,050
+then you can 
+
+229
+00:08:29,050 --> 00:08:31,630
+calculate it accordingly see here we also 
+have 
+
+230
+00:08:31,630 --> 00:08:33,650
+two cases here on the left that are, as 
+
+231
+00:08:33,650 --> 00:08:36,210
+I said, two different transformations 
+
+232
+00:08:36,210 --> 00:08:40,650
+we have once here the shorter 
+
+233
+00:08:40,650 --> 00:08:42,250
+side packed together and here 
+
+234
+00:08:42,250 --> 00:08:43,730
+we have the so on the right we have 
+
+235
+00:08:43,730 --> 00:08:45,430
+packed the longest side together 
+
+236
+00:08:45,430 --> 00:08:46,710
+then the appearance changes a 
+
+237
+00:08:46,710 --> 00:08:48,630
+bit the area content 
+
+238
+00:08:48,630 --> 00:08:50,090
+does not change because we 
+
+239
+00:08:50,090 --> 00:08:52,690
+still have the length a here and the 
+
+240
+00:08:52,690 --> 00:08:56,730
+length h here and here we 
+
+241
+00:08:56,730 --> 00:09:01,760
+now have the height HA and here A. Here 
+
+242
+00:09:01,760 --> 00:09:03,360
+you can also see that the 
+
+243
+00:09:03,360 --> 00:09:05,580
+height is in the figure and 
+
+244
+00:09:05,580 --> 00:09:08,020
+next to the figure, simply because you 
+
+245
+00:09:08,020 --> 00:09:11,830
+can't draw it in. 
+
+246
+00:09:11,830 --> 00:09:14,070
+A is the length of this parallelogram 
+
+247
+00:09:14,070 --> 00:09:17,350
+and HA is the corresponding height. 
+
+248
+00:09:17,350 --> 00:09:19,570
+The area of this whole 
+
+249
+00:09:19,570 --> 00:09:22,330
+parallelogram would then be A times 
+
+250
+00:09:22,330 --> 00:09:25,310
+HA. What is also very important here is 
+that 
+
+251
+00:09:25,390 --> 00:09:26,610
+we have 
+
+252
+00:09:26,610 --> 00:09:28,970
+doubled our triangle . So this is twice 
+
+253
+00:09:29,130 --> 00:09:30,310
+the triangle of which we 
+
+254
+00:09:30,310 --> 00:09:32,030
+are to calculate the area . 
+
+255
+00:09:32,030 --> 00:09:33,870
+This means that if we 
+
+256
+00:09:33,870 --> 00:09:36,230
+want to find the area of a triangle, 
+
+257
+00:09:36,230 --> 00:09:38,790
+we have to 
+
+258
+00:09:38,790 --> 00:09:41,610
+divide the total area by 2. Therefore, a 
+
+259
+00:09:41,610 --> 00:09:44,210
+times ha, which 
+
+260
+00:09:44,210 --> 00:09:47,850
+is for 2 of the triangles, becomes 1.5 
+times a times ha for 1 
+
+261
+00:09:47,850 --> 00:09:50,270
+of the triangles. Whether you 
+
+262
+00:09:50,310 --> 00:09:53,150
+multiply by 1.5, i.e. 0.5, or 
+
+263
+00:09:53,150 --> 00:09:54,570
+divide by 2 is the same. 
+
+264
+00:09:55,210 --> 00:09:57,390
+This 1.5 ensures that the 
+
+265
+00:09:57,390 --> 00:10:00,690
+area is halved And so 
+
+266
+00:10:00,690 --> 00:10:04,910
+we arrive at this shape This brings 
+
+267
+00:10:04,910 --> 00:10:08,110
+us to the trapezoid The trapezoid 
+
+268
+00:10:08,110 --> 00:10:09,730
+is characterized by the fact that it 
+
+269
+00:10:09,730 --> 00:10:12,850
+has two parallel sides Side A 
+
+270
+00:10:12,850 --> 00:10:16,230
+is parallel to side C And we 
+
+271
+00:10:16,230 --> 00:10:17,750
+can already see that there are 
+
+272
+00:10:17,750 --> 00:10:19,470
+actually no other criteria The two 
+
+273
+00:10:19,470 --> 00:10:21,230
+sides here do not have to 
+
+274
+00:10:21,230 --> 00:10:22,670
+be the same length A distinction is made 
+between 
+
+275
+00:10:22,670 --> 00:10:24,070
+the general trapezoid and a 
+
+276
+00:10:24,070 --> 00:10:25,950
+symmetrical trapezoid In 
+
+277
+00:10:25,950 --> 00:10:27,370
+symmetrical trapezoids, the 
+
+278
+00:10:27,370 --> 00:10:29,510
+two sides are the same length. 
+
+279
+00:10:29,510 --> 00:10:30,810
+However, we are now dealing with the 
+
+280
+00:10:30,810 --> 00:10:32,650
+general trapezoid. However, you can 
+
+281
+00:10:32,650 --> 00:10:33,830
+of course also 
+
+282
+00:10:33,830 --> 00:10:35,270
+
+283
+00:10:35,270 --> 00:10:38,690
+calculate the symmetrical trapezoid using 
+the formula for the general trapezoid . So 
+we 
+
+284
+00:10:38,690 --> 00:10:40,570
+simply assume that A is parallel 
+
+285
+00:10:40,570 --> 00:10:42,750
+to C. Of course, they are 
+
+286
+00:10:42,750 --> 00:10:47,030
+not the same length. And we now have the 
+
+287
+00:10:47,030 --> 00:10:49,250
+formula, the area purity A 
+
+288
+00:10:49,250 --> 00:10:52,510
+is calculated as 1.5 times A plus C. 
+
+289
+00:10:54,830 --> 00:10:58,530
+And we now go and try to 
+
+290
+00:10:58,530 --> 00:11:00,490
+borrow this. 
+
+291
+00:11:00,490 --> 00:11:02,530
+There is also the alternative formula a is 
+equal to m 
+
+292
+00:11:02,530 --> 00:11:04,670
+times h. m is this center line here. 
+
+293
+00:11:05,270 --> 00:11:07,110
+And h, as I said, is the height of the 
+
+294
+00:11:07,110 --> 00:11:09,090
+trapezoid. In this case, there is no 
+
+295
+00:11:09,090 --> 00:11:10,610
+indication, because a trapezoid only has 
+one 
+
+296
+00:11:10,610 --> 00:11:13,290
+height. Yes, this is the one here. 
+
+297
+00:11:16,450 --> 00:11:18,990
+Right, let's get started. 
+
+298
+00:11:18,990 --> 00:11:20,510
+Again, we want to 
+
+299
+00:11:20,510 --> 00:11:22,030
+create a parallelogram. That is, 
+
+300
+00:11:22,210 --> 00:11:25,290
+a parallelogram from this trapezoid. 
+
+301
+00:11:25,830 --> 00:11:29,430
+And I'll repeat it again. 
+
+302
+00:11:29,430 --> 00:11:31,930
+As I said, A is the length of the bottom 
+side. 
+
+303
+00:11:31,950 --> 00:11:34,090
+C is the length of the top side. These 
+
+304
+00:11:34,090 --> 00:11:35,770
+are both parallel to each other. 
+
+305
+00:11:35,770 --> 00:11:39,330
+But they are different lengths. B and D 
+
+306
+00:11:39,330 --> 00:11:41,470
+are the lengths of the sides. They 
+
+307
+00:11:41,470 --> 00:11:43,510
+do not have to be the same length. They 
+are only the 
+
+308
+00:11:43,510 --> 00:11:46,190
+same 
+
+309
+00:11:46,190 --> 00:11:48,830
+length in a symmetrical trapezoid . And H 
+is the height of our 
+
+310
+00:11:48,830 --> 00:11:51,870
+trapezoid. To turn our trapezoid into a 
+
+311
+00:11:51,870 --> 00:11:53,850
+parallelogram 
+
+312
+00:11:53,850 --> 00:11:55,470
+, we first mirror the trapezoid. So 
+mirroring 
+
+313
+00:11:55,470 --> 00:11:57,610
+really means that we 
+
+314
+00:11:57,610 --> 00:11:59,270
+mirror it here and that it 
+
+315
+00:11:59,270 --> 00:12:00,450
+is now mirror-inverted. We can see that 
+
+316
+00:12:00,450 --> 00:12:01,950
+side D is suddenly on the left 
+
+317
+00:12:01,950 --> 00:12:04,610
+and side B on the right 
+
+318
+00:12:04,610 --> 00:12:07,550
+. That is very important. It 
+
+319
+00:12:07,550 --> 00:12:10,210
+really has to be mirrored. And now 
+
+320
+00:12:10,210 --> 00:12:14,210
+we turn it or flip the 
+
+321
+00:12:14,210 --> 00:12:16,130
+mirrored trapezoid over. And now 
+
+322
+00:12:16,130 --> 00:12:16,890
+we can see here again that we 
+
+323
+00:12:16,890 --> 00:12:18,190
+have sides D 
+
+324
+00:12:18,190 --> 00:12:20,250
+lying next to each other. And down here we 
+
+325
+00:12:20,250 --> 00:12:21,810
+now also have A and C and C and A. 
+
+326
+00:12:22,830 --> 00:12:24,090
+So now we push them 
+
+327
+00:12:24,090 --> 00:12:25,890
+together like this and you can see that we 
+have 
+
+328
+00:12:25,890 --> 00:12:27,470
+a parallelogram. This is 
+
+329
+00:12:27,470 --> 00:12:28,730
+very elongated, but it is a 
+
+330
+00:12:28,730 --> 00:12:31,750
+parallelogram. We have 
+
+331
+00:12:31,750 --> 00:12:34,470
+the side length C plus A at the top and 
+bottom. Whether 
+
+332
+00:12:34,470 --> 00:12:36,030
+we 
+
+333
+00:12:36,030 --> 00:12:38,670
+have C plus A or A plus C doesn't matter. 
+Both are 
+
+334
+00:12:38,670 --> 00:12:41,190
+the same length and we had, 
+
+335
+00:12:41,230 --> 00:12:43,430
+or it is the case with a trapezoid, 
+
+336
+00:12:43,430 --> 00:12:44,750
+that the sides 
+
+337
+00:12:44,750 --> 00:12:47,930
+are always parallel to each other . This 
+means that C and A and A 
+
+338
+00:12:47,930 --> 00:12:50,410
+and C are also parallel to each other. 
+
+339
+00:12:50,410 --> 00:12:51,930
+In other words, we now really have a 
+
+340
+00:12:51,930 --> 00:12:55,910
+parallelogram. A and C is then the 
+
+341
+00:12:55,910 --> 00:12:57,370
+length of this new parallelogram 
+
+342
+00:12:57,370 --> 00:12:59,050
+and the height is still our 
+
+343
+00:12:59,050 --> 00:13:00,530
+height H. You can also see that here, 
+
+344
+00:13:00,550 --> 00:13:01,710
+it appears here again, 
+
+345
+00:13:01,830 --> 00:13:04,610
+but it is still our height. 
+
+346
+00:13:04,890 --> 00:13:05,370
+The 
+
+347
+00:13:07,960 --> 00:13:11,800
+formula 1.5 A plus C times h for the 
+
+348
+00:13:11,800 --> 00:13:13,460
+area of a trapezoid arises 
+
+349
+00:13:13,460 --> 00:13:16,040
+from the fact that we could 
+
+350
+00:13:16,040 --> 00:13:17,680
+
+351
+00:13:17,680 --> 00:13:19,760
+now calculate the area of this resulting 
+parallelogram 
+
+352
+00:13:19,760 --> 00:13:20,840
+using the formula for the 
+
+353
+00:13:20,840 --> 00:13:24,440
+parallelogram, i.e. length times height, 
+
+354
+00:13:24,500 --> 00:13:27,120
+which in our case means a plus c times h. 
+
+355
+00:13:27,220 --> 00:13:28,780
+It is very important to always 
+
+356
+00:13:28,780 --> 00:13:30,580
+write this a plus c in brackets, also here 
+in the 
+
+357
+00:13:30,580 --> 00:13:33,280
+final formula, otherwise only 
+
+358
+00:13:33,280 --> 00:13:34,960
+the c or the a will be multiplied. 
+
+359
+00:13:36,300 --> 00:13:38,300
+Therefore, we arrive at a plus c in 
+
+360
+00:13:38,300 --> 00:13:40,600
+brackets times h and that is again 
+
+361
+00:13:40,600 --> 00:13:42,500
+for the whole parallelogram. And the 
+
+362
+00:13:42,500 --> 00:13:44,820
+whole parallelogram consists of 
+
+363
+00:13:44,820 --> 00:13:47,780
+two trapezoids. So the same as 
+
+364
+00:13:47,780 --> 00:13:48,720
+we just had with the triangles 
+
+365
+00:13:48,780 --> 00:13:50,820
+, because we have mirrored it, i.e. 
+
+366
+00:13:50,820 --> 00:13:55,020
+multiplied it. So we use 
+
+367
+00:13:55,020 --> 00:13:57,840
+this formula above to calculate the area 
+
+368
+00:13:57,840 --> 00:13:59,440
+of two trapezoids. 
+
+369
+00:13:59,440 --> 00:14:00,720
+Of course, we only ever want to 
+
+370
+00:14:00,720 --> 00:14:03,260
+calculate the area for one trapezoid. 
+
+371
+00:14:03,260 --> 00:14:05,060
+That 's why this factor of 1 is half 
+again, 
+
+372
+00:14:05,060 --> 00:14:06,260
+because we still have to divide by 2. 
+
+373
+00:14:06,320 --> 00:14:08,060
+As I just said, 
+
+374
+00:14:08,060 --> 00:14:09,460
+
+375
+00:14:09,460 --> 00:14:11,720
+it doesn't matter whether we multiply by 1 
+half or divide by 2 . It's the same. 
+
+376
+00:14:11,740 --> 00:14:13,600
+And so the formula for a 
+
+377
+00:14:13,600 --> 00:14:16,060
+parallelogram is 1 half times a plus c 
+
+378
+00:14:16,060 --> 00:14:17,020
+times h. 
+
+379
+00:14:21,020 --> 00:14:22,820
+And that 
+
+380
+00:14:22,820 --> 00:14:23,720
+explains the formula. 
+
+381
+00:14:26,250 --> 00:14:28,210
+Let's move on to the second formula. 
+
+382
+00:14:28,210 --> 00:14:29,910
+Alternatively, there was the formula a 
+
+383
+00:14:29,910 --> 00:14:31,930
+is equal to m times h. As already 
+mentioned, M is 
+
+384
+00:14:31,930 --> 00:14:35,850
+the center line and H is the height. And 
+
+385
+00:14:35,850 --> 00:14:38,890
+this center line is exactly in the 
+
+386
+00:14:38,890 --> 00:14:41,390
+middle between C and A or A and C. 
+
+387
+00:14:42,210 --> 00:14:44,510
+And the length of this center line, 
+
+388
+00:14:44,590 --> 00:14:46,690
+i.e. the complete, if we now 
+
+389
+00:14:46,690 --> 00:14:48,930
+look at the parallelogram, here 
+
+390
+00:14:48,930 --> 00:14:50,970
+it is completely through A plus C. 
+
+391
+00:14:51,030 --> 00:14:52,070
+This is related to the 
+
+392
+00:14:52,070 --> 00:14:53,710
+parallelogram. The two edges 
+
+393
+00:14:53,710 --> 00:14:56,230
+are parallel to each other. consequently, 
+
+394
+00:14:56,230 --> 00:14:59,470
+if we always 
+
+395
+00:14:59,470 --> 00:15:01,270
+measure parallel to the base side , the 
+distance is 
+
+396
+00:15:01,270 --> 00:15:02,650
+the same at every point, so even if 
+
+397
+00:15:02,650 --> 00:15:03,730
+we 
+
+398
+00:15:03,730 --> 00:15:05,170
+were to draw a line here , it would be 
+just 
+
+399
+00:15:05,170 --> 00:15:08,330
+as long here at the top, it would also be 
+just as 
+
+400
+00:15:08,330 --> 00:15:11,650
+long as a plus c, i.e. the 
+
+401
+00:15:11,650 --> 00:15:17,010
+center line is twice as long as a plus c 
+
+402
+00:15:17,010 --> 00:15:18,750
+, which is dashed here, or in other 
+
+403
+00:15:18,750 --> 00:15:20,170
+words, the center line of a 
+
+404
+00:15:20,170 --> 00:15:23,290
+parallelogram that ends here 
+
+405
+00:15:23,290 --> 00:15:24,990
+is 1.5 times a plus c. 
+
+406
+00:15:28,180 --> 00:15:29,700
+And that 
+
+407
+00:15:29,700 --> 00:15:29,980
+' s actually it. 
+
+408
+00:15:33,220 --> 00:15:36,240
+We have a line that is 1.5 times a plus 
+
+409
+00:15:36,240 --> 00:15:39,180
+c. And we still have the height 
+
+410
+00:15:39,180 --> 00:15:44,040
+h. And therefore 1.5 times a plus c is 
+
+411
+00:15:44,040 --> 00:15:46,060
+exactly the part. And that's how you get 
+from 
+
+412
+00:15:46,060 --> 00:15:50,440
+the formula to m times h. So I'll go 
+
+413
+00:15:50,440 --> 00:15:54,280
+back for a moment. The center line 
+
+414
+00:15:54,280 --> 00:15:57,800
+is 1.5 times a plus c. In other words, we 
+
+415
+00:15:57,800 --> 00:15:59,340
+now 
+
+416
+00:15:59,340 --> 00:16:01,300
+enter m into the formula for this one and 
+a half times a plus c 
+
+417
+00:16:01,300 --> 00:16:02,800
+and then we get the formula. 
+
+418
+00:16:03,800 --> 00:16:05,300
+That's where this comes from, i.e. if you 
+
+419
+00:16:05,300 --> 00:16:06,600
+
+420
+00:16:06,600 --> 00:16:08,500
+are given the length of the center line 
+and the height, always use the 
+
+421
+00:16:08,500 --> 00:16:11,680
+formula. And as I said, the 
+
+422
+00:16:11,680 --> 00:16:13,640
+center line lies exactly between the 
+
+423
+00:16:13,640 --> 00:16:16,140
+base side and the side above it. 
+
+424
+00:16:16,920 --> 00:16:19,660
+So it divides the height h into exactly 
+
+425
+00:16:19,660 --> 00:16:21,020
+two equal parts. 
+
+426
+00:16:23,750 --> 00:16:25,430
+This brings us to the 
+
+427
+00:16:25,430 --> 00:16:29,110
+kite quadrilateral. The kite quadrilateral 
+
+428
+00:16:29,110 --> 00:16:33,130
+is a special quadrilateral 
+
+429
+00:16:33,130 --> 00:16:35,210
+, as it has two diagonals 
+
+430
+00:16:35,210 --> 00:16:37,630
+that intersect at right angles. 
+
+431
+00:16:37,630 --> 00:16:39,010
+The area of the kite quadrilateral 
+
+432
+00:16:39,010 --> 00:16:40,830
+is calculated as a is equal to 1 
+
+433
+00:16:40,830 --> 00:16:44,130
+half times e times f. 
+
+434
+00:16:44,130 --> 00:16:47,630
+As already mentioned, e and f are the two 
+diagonals. And 
+
+435
+00:16:47,630 --> 00:16:50,630
+we can 
+
+436
+00:16:50,630 --> 00:16:53,470
+
+437
+00:16:53,470 --> 00:16:55,970
+turn any kite quadrilateral into a 
+rectangle by transforming it. And e and f 
+are the 
+
+438
+00:16:55,970 --> 00:16:56,710
+two diagonals. are, as I said, 
+
+439
+00:16:56,710 --> 00:16:57,970
+the two diagonals of the 
+
+440
+00:16:57,970 --> 00:16:59,230
+kite square. So, these diagonals 
+
+441
+00:16:59,230 --> 00:17:00,530
+intersect 
+
+442
+00:17:00,530 --> 00:17:03,450
+at right angles. And now we go 
+
+443
+00:17:03,450 --> 00:17:06,050
+and first double our 
+
+444
+00:17:06,050 --> 00:17:09,230
+
+445
+00:17:09,230 --> 00:17:10,670
+kite shape and then we cut the kite shape 
+
+446
+00:17:10,670 --> 00:17:12,550
+
+447
+00:17:12,550 --> 00:17:15,450
+apart along the diagonals, i.e. along E 
+and F. Then we have triangles . Then we 
+have four 
+
+448
+00:17:15,450 --> 00:17:18,670
+such triangles. And the triangle 
+
+449
+00:17:18,670 --> 00:17:20,050
+here is exactly what we 
+
+450
+00:17:20,050 --> 00:17:22,270
+have here. The triangle is exactly what 
+
+451
+00:17:22,270 --> 00:17:24,970
+we have here. Perhaps one more thing... 
+
+452
+00:17:24,990 --> 00:17:26,490
+something about the kite finch in general. 
+
+453
+00:17:26,530 --> 00:17:30,750
+This vertical diagonal E is 
+
+454
+00:17:30,750 --> 00:17:32,170
+also a line of symmetry. 
+
+455
+00:17:32,170 --> 00:17:34,910
+In other words, the triangle here is the 
+same 
+
+456
+00:17:34,910 --> 00:17:37,110
+size as this and the triangle here is 
+
+457
+00:17:37,110 --> 00:17:40,830
+the same size as this. And 
+
+458
+00:17:40,830 --> 00:17:43,170
+now we take 
+
+459
+00:17:43,170 --> 00:17:44,630
+
+460
+00:17:44,630 --> 00:17:47,170
+the triangles from our multiplied kite 
+finch, which we have cut apart , and 
+
+461
+00:17:47,170 --> 00:17:50,170
+place them on the triangles of our 
+
+462
+00:17:50,170 --> 00:17:53,110
+kite finch. So we place them in front of 
+it 
+
+463
+00:17:53,110 --> 00:17:54,410
+and then we fold them 
+
+464
+00:17:54,410 --> 00:17:57,350
+in here like this and we see that 
+
+465
+00:17:57,350 --> 00:17:59,490
+the triangles we have just 
+
+466
+00:17:59,490 --> 00:18:00,730
+cut apart are always the 
+
+467
+00:18:00,730 --> 00:18:02,910
+outer ones and we see that we have now 
+
+468
+00:18:02,910 --> 00:18:05,950
+created a rectangle let's take 
+
+469
+00:18:05,950 --> 00:18:07,210
+another quick look at the 
+
+470
+00:18:07,210 --> 00:18:08,530
+actual kite 
+
+471
+00:18:08,530 --> 00:18:09,710
+path the actual kite path the one 
+
+472
+00:18:09,710 --> 00:18:11,730
+diagonal the e is measured from here 
+
+473
+00:18:11,730 --> 00:18:14,050
+below to here above that is 
+
+474
+00:18:14,050 --> 00:18:14,990
+now exactly the height of our 
+
+475
+00:18:14,990 --> 00:18:17,290
+rectangle and f is measured from here 
+
+476
+00:18:17,290 --> 00:18:18,930
+outside to here outside. In other words, 
+this 
+
+477
+00:18:18,930 --> 00:18:20,730
+is also the width of our 
+
+478
+00:18:20,730 --> 00:18:22,950
+rectangle. So we have 
+
+479
+00:18:22,950 --> 00:18:27,450
+created a rectangle that 
+
+480
+00:18:27,450 --> 00:18:32,660
+has the edge length E and F. 
+
+481
+00:18:32,660 --> 00:18:35,200
+The area of this rectangle 
+
+482
+00:18:35,200 --> 00:18:38,240
+is then equal to E times F, i.e. length 
+times 
+
+483
+00:18:38,240 --> 00:18:40,480
+width. The only important thing here is 
+
+484
+00:18:40,480 --> 00:18:43,280
+that we have of course 
+
+485
+00:18:43,280 --> 00:18:44,120
+
+486
+00:18:48,340 --> 00:18:50,200
+doubled the kite rectangle . Therefore, we 
+now have to 
+
+487
+00:18:50,200 --> 00:18:51,940
+
+488
+00:18:51,940 --> 00:18:53,480
+divide the formula by two again , because 
+with the formula a 
+
+489
+00:18:53,480 --> 00:18:55,560
+equals e times f we calculate the 
+
+490
+00:18:55,560 --> 00:18:57,020
+area for two 
+
+491
+00:18:57,020 --> 00:19:00,820
+kite quadrilaterals. Therefore, the 
+
+492
+00:19:00,820 --> 00:19:03,440
+formula for one kite quadrilateral is a 
+
+493
+00:19:03,440 --> 00:19:05,800
+is equal to one and a half times e times 
+f. 
+
+494
+00:19:07,020 --> 00:19:09,260
+And this allows us to 
+
+495
+00:19:09,260 --> 00:19:10,480
+calculate the area of the kite hexagon. 
+
+496
+00:19:13,120 --> 00:19:15,240
+This brings us to the rhombus. 
+
+497
+00:19:15,700 --> 00:19:17,800
+The rhombus is a special form of the 
+
+498
+00:19:17,800 --> 00:19:19,120
+kite hexagon and the rhombus has the 
+
+499
+00:19:19,120 --> 00:19:21,640
+property that all sides 
+
+500
+00:19:21,640 --> 00:19:23,880
+are the same length, similar to the 
+square, 
+
+501
+00:19:24,000 --> 00:19:25,780
+except of course that there are no 
+
+502
+00:19:25,780 --> 00:19:29,640
+right angles. And because all 
+
+503
+00:19:29,640 --> 00:19:37,080
+sides are the same length 
+
+504
+00:19:37,080 --> 00:19:38,900
+, the rhombus can also be broken down 
+differently. With 
+
+505
+00:19:38,900 --> 00:19:41,480
+the rhombus, the edge E is still 
+
+506
+00:19:42,460 --> 00:19:44,640
+a line of symmetry or the 
+
+507
+00:19:44,640 --> 00:19:47,240
+line of symmetry and we also have 
+
+508
+00:19:47,240 --> 00:19:48,780
+the option of 
+
+509
+00:19:48,780 --> 00:19:50,680
+specifying the two diagonals E and F with 
+a rhombus . 
+
+510
+00:19:52,940 --> 00:19:56,680
+If the rhombus is specified by its 
+edgelets 
+
+511
+00:19:56,680 --> 00:20:00,540
+A, then it is 
+
+512
+00:20:00,540 --> 00:20:02,000
+treated as a parallelogram, because the 
+
+513
+00:20:02,000 --> 00:20:02,920
+rhombus is actually just a 
+
+514
+00:20:02,920 --> 00:20:04,300
+parallelogram, because the edge is 
+
+515
+00:20:04,300 --> 00:20:06,420
+parallel to the edge and the side 
+
+516
+00:20:06,420 --> 00:20:07,800
+is parallel to the side and so 
+
+517
+00:20:07,800 --> 00:20:09,060
+we have 
+
+518
+00:20:09,060 --> 00:20:11,700
+fulfilled all the properties of a 
+parallelogram. That is why 
+
+519
+00:20:11,700 --> 00:20:13,360
+it is also common to specify the 
+
+520
+00:20:13,360 --> 00:20:14,980
+base side and the height of a rhombus . 
+
+521
+00:20:15,180 --> 00:20:16,460
+And then, as already mentioned, it is a 
+
+522
+00:20:16,460 --> 00:20:18,280
+parallelogram, which 
+
+523
+00:20:18,280 --> 00:20:19,460
+has the property that all sides 
+
+524
+00:20:19,460 --> 00:20:23,360
+are the same length. But there is also 
+
+525
+00:20:23,360 --> 00:20:24,920
+the property or the possibility of 
+
+526
+00:20:25,560 --> 00:20:27,580
+specifying the diagonals E and F, as 
+
+527
+00:20:27,580 --> 00:20:28,700
+is known from the kite shape. 
+
+528
+00:20:28,700 --> 00:20:30,380
+Therefore, the rhombus is a special 
+
+529
+00:20:30,380 --> 00:20:33,160
+form of the kite quadrilateral and 
+
+530
+00:20:33,160 --> 00:20:34,780
+can therefore be 
+
+531
+00:20:34,780 --> 00:20:36,100
+calculated using the same formula. But 
+let's take 
+
+532
+00:20:36,100 --> 00:20:37,260
+another look at how the rhombus 
+
+533
+00:20:37,260 --> 00:20:39,820
+can be broken down. So A is equal to 1.5 
+
+534
+00:20:39,820 --> 00:20:41,680
+E times F. E and F are again the 
+
+535
+00:20:41,680 --> 00:20:45,600
+two diagonals. And how can we 
+
+536
+00:20:45,600 --> 00:20:47,240
+
+537
+00:20:47,240 --> 00:20:49,680
+turn this rhombus into a rectangle using a 
+simple transformation? As 
+
+538
+00:20:49,680 --> 00:20:51,040
+just mentioned, E and F are 
+
+539
+00:20:51,040 --> 00:20:53,280
+the vertical and 
+
+540
+00:20:53,280 --> 00:20:55,700
+horizontal diagonals respectively. the 
+
+541
+00:20:55,700 --> 00:20:59,580
+vertical fd horizontal and we 
+
+542
+00:20:59,580 --> 00:21:03,420
+cut the kite square it 
+
+543
+00:21:03,420 --> 00:21:04,720
+swings we 
+
+544
+00:21:04,720 --> 00:21:07,560
+first cut the rhombus at its horizontal 
+
+545
+00:21:07,560 --> 00:21:11,940
+diagonal i.e. at f we get 
+
+546
+00:21:11,940 --> 00:21:19,320
+two triangles these 
+
+547
+00:21:19,320 --> 00:21:21,620
+have the property that 
+
+548
+00:21:21,620 --> 00:21:25,520
+they are equal because it is also a 
+
+549
+00:21:25,520 --> 00:21:29,920
+symmetry line therefore stone is there 
+
+550
+00:21:29,920 --> 00:21:32,700
+along f and next 
+
+551
+00:21:32,700 --> 00:21:35,080
+we divide the matched part again so 
+
+552
+00:21:35,080 --> 00:21:37,720
+that we contain two rectangles because 
+
+553
+00:21:37,720 --> 00:21:39,960
+this rectangle is the same as 
+
+554
+00:21:39,960 --> 00:21:43,680
+that or just that therefore we 
+
+555
+00:21:43,680 --> 00:21:45,160
+now put these rectangles here like this 
+
+556
+00:21:45,160 --> 00:21:48,720
+and make a 
+
+557
+00:21:48,720 --> 00:21:50,820
+rectangle out of the triangle yes so we 
+
+558
+00:21:50,820 --> 00:21:54,060
+now put the triangles differently 3 g, to 
+
+559
+00:21:54,060 --> 00:21:55,560
+create a rectangle . We can see that 
+
+560
+00:21:55,560 --> 00:21:57,960
+here. We now have a rectangle 
+
+561
+00:21:57,960 --> 00:22:02,000
+and what is very important is that 
+
+562
+00:22:02,000 --> 00:22:03,880
+, unlike with a 
+
+563
+00:22:03,880 --> 00:22:07,760
+kite quadrilateral , we have not 
+
+564
+00:22:07,760 --> 00:22:09,820
+duplicated our figure. So we haven 
+
+565
+00:22:09,820 --> 00:22:12,080
+'t drawn it again next to it. 
+
+566
+00:22:12,080 --> 00:22:13,600
+We are still only looking at one 
+
+567
+00:22:13,600 --> 00:22:17,560
+figure. And we can now see that the 
+
+568
+00:22:17,560 --> 00:22:19,420
+resulting rectangle has a 
+
+569
+00:22:19,420 --> 00:22:27,080
+different width f and height. 1.5 E is the 
+
+570
+00:22:27,080 --> 00:22:29,180
+length of the rectangle, i.e. 
+
+571
+00:22:29,180 --> 00:22:31,960
+the height if you like, and F is the 
+width. 
+
+572
+00:22:33,580 --> 00:22:35,140
+And because it is a rectangle 
+
+573
+00:22:35,220 --> 00:22:36,300
+, we can 
+
+574
+00:22:36,300 --> 00:22:39,000
+calculate the area by A times B, i.e. 
+length 
+
+575
+00:22:39,000 --> 00:22:40,980
+times width. And so we arrive at 1.5 
+
+576
+00:22:40,980 --> 00:22:43,360
+times E times F for the area of 
+
+577
+00:22:43,360 --> 00:22:44,060
+a rhombus. 
+
+578
+00:22:50,560 --> 00:22:52,920
+And as just mentioned, the 
+
+579
+00:22:52,920 --> 00:22:54,740
+rhombus is also... a 
+
+580
+00:22:54,740 --> 00:22:56,120
+kite quadrilateral, a special 
+
+581
+00:22:56,120 --> 00:22:56,960
+kite quadrilateral, because 
+
+582
+00:22:56,960 --> 00:22:58,160
+
+583
+00:22:58,160 --> 00:23:00,520
+not all sides of a kite quadrilateral are 
+normally the same length. And 
+
+584
+00:23:00,520 --> 00:23:02,100
+that's why we can 
+
+585
+00:23:02,100 --> 00:23:04,780
+calculate it with the same formula. We 
+could have 
+
+586
+00:23:04,780 --> 00:23:06,660
+
+587
+00:23:06,660 --> 00:23:08,140
+dissected the rhombus in the same way as 
+the kite quadrilateral. That 
+
+588
+00:23:08,140 --> 00:23:09,560
+would also have been possible, of course. 
+
+589
+00:23:11,340 --> 00:23:13,260
+Well, let's finish with 
+
+590
+00:23:13,260 --> 00:23:15,240
+a quick look at compound surfaces. 
+
+591
+00:23:15,320 --> 00:23:17,020
+We have a surface here, 
+
+592
+00:23:17,060 --> 00:23:19,180
+a small task and we are 
+
+593
+00:23:19,180 --> 00:23:21,100
+now supposed to calculate the area A. 
+
+594
+00:23:21,580 --> 00:23:23,800
+
+595
+00:23:23,800 --> 00:23:25,300
+There are no pre-colored formulas for 
+compound areas. 
+
+596
+00:23:26,060 --> 00:23:28,220
+Composite surfaces must 
+
+597
+00:23:28,220 --> 00:23:30,060
+be broken down into several surfaces in 
+such a way 
+
+598
+00:23:30,240 --> 00:23:33,260
+that 
+
+599
+00:23:33,260 --> 00:23:35,840
+formulas are known for the individual 
+surfaces that are created. 
+
+600
+00:23:35,840 --> 00:23:38,800
+In other words, we try to create a figure 
+like this 
+
+601
+00:23:38,800 --> 00:23:42,460
+in the form of 
+
+602
+00:23:42,460 --> 00:23:45,640
+rectangles and triangles , if possible. 
+
+603
+00:23:46,680 --> 00:23:47,680
+That gets you quite far. 
+
+604
+00:23:47,680 --> 00:23:49,500
+Of course, you can also 
+
+605
+00:23:49,500 --> 00:23:52,740
+reshape something into a trapezoid or a 
+frame 
+
+606
+00:23:52,740 --> 00:23:56,760
+or cut it out, divide it up. 
+
+607
+00:23:56,760 --> 00:23:58,420
+But you do it or try to do it as much as 
+
+608
+00:23:58,420 --> 00:24:00,860
+possible with rectangles and 
+
+609
+00:24:00,860 --> 00:24:05,980
+triangles. The important thing here is 
+that E is 
+
+610
+00:24:05,980 --> 00:24:08,740
+the width from here to here, D is 
+
+611
+00:24:08,740 --> 00:24:11,760
+the length from here to here, F from 
+
+612
+00:24:11,760 --> 00:24:15,460
+here to here, A from here to here. 
+
+613
+00:24:16,300 --> 00:24:19,000
+C from here to here and B from here 
+
+614
+00:24:19,000 --> 00:24:20,700
+to here. We'll have to 
+
+615
+00:24:20,700 --> 00:24:23,040
+pay attention once we've broken it down. 
+
+616
+00:24:23,260 --> 00:24:24,440
+In fact, we're going to 
+
+617
+00:24:24,440 --> 00:24:27,420
+show you two possibilities . 
+
+618
+00:24:27,420 --> 00:24:29,060
+There are many more possibilities. 
+
+619
+00:24:31,220 --> 00:24:32,860
+This is the first one, which means 
+
+620
+00:24:32,880 --> 00:24:34,320
+we're going to form two large 
+
+621
+00:24:34,320 --> 00:24:35,660
+rectangles. We have a 
+
+622
+00:24:35,660 --> 00:24:39,120
+rectangle here and a rectangle here. 
+
+623
+00:24:39,120 --> 00:24:40,600
+Of course, it would have been just as good 
+to 
+
+624
+00:24:40,720 --> 00:24:43,420
+
+625
+00:24:43,420 --> 00:24:45,680
+make a very long rectangle here and a 
+
+626
+00:24:45,680 --> 00:24:46,920
+correspondingly smaller one here. That 
+works 
+
+627
+00:24:46,920 --> 00:24:48,960
+too. 
+
+628
+00:24:48,960 --> 00:24:51,180
+But we decided to do it this way. In other 
+words 
+
+629
+00:24:51,180 --> 00:24:52,240
+, as I just said, we have now 
+
+630
+00:24:52,400 --> 00:24:53,880
+created two rectangles. It is important to 
+note 
+
+631
+00:24:53,880 --> 00:24:55,900
+that the rectangle that 
+
+632
+00:24:55,900 --> 00:24:58,400
+is vertical here has the edge lengths 
+
+633
+00:24:58,400 --> 00:25:02,380
+E and F. So F is from here to 
+
+634
+00:25:02,380 --> 00:25:03,540
+here and that is, if 
+
+635
+00:25:03,540 --> 00:25:05,340
+you like, the height of the rectangle and 
+E 
+
+636
+00:25:05,340 --> 00:25:09,700
+is the width. The second rectangle 
+
+637
+00:25:09,700 --> 00:25:12,120
+down here , which is horizontal, has the 
+
+638
+00:25:12,120 --> 00:25:15,260
+edge length C, because C 
+
+639
+00:25:15,260 --> 00:25:17,260
+is measured from here to here, and the 
+height B. 
+
+640
+00:25:18,480 --> 00:25:20,160
+As just mentioned, A 
+
+641
+00:25:20,160 --> 00:25:21,880
+is the edge length up to here. 
+
+642
+00:25:23,440 --> 00:25:26,280
+This means that A is not the 
+
+643
+00:25:26,280 --> 00:25:28,780
+edge length of the new rectangle, that 
+
+644
+00:25:28,780 --> 00:25:32,260
+is C, because our rectangle 
+
+645
+00:25:32,260 --> 00:25:33,960
+ends here. That is very important. 
+
+646
+00:25:35,140 --> 00:25:36,500
+That's why you have to be 
+
+647
+00:25:36,500 --> 00:25:37,900
+careful about... be careful. If you 
+
+648
+00:25:37,900 --> 00:25:39,000
+enter the wrong value here and 
+
+649
+00:25:39,000 --> 00:25:39,940
+of course 
+
+650
+00:25:39,940 --> 00:25:41,440
+calculate the area , you have 
+unfortunately 
+
+651
+00:25:41,440 --> 00:25:44,320
+made a small mistake. The second 
+
+652
+00:25:44,320 --> 00:25:47,420
+option is to 
+
+653
+00:25:47,420 --> 00:25:49,480
+
+654
+00:25:49,480 --> 00:25:51,940
+divide the two or the figure here along 
+the corners. This means 
+
+655
+00:25:51,940 --> 00:25:56,260
+that two trapezoids are created. The 
+trapezoids, i.e. the 
+
+656
+00:25:56,260 --> 00:25:57,820
+base side of one trapezoid is 
+
+657
+00:25:57,820 --> 00:26:00,140
+A and the upper side parallel to it 
+
+658
+00:26:00,140 --> 00:26:06,300
+is C. Here it would be F and D. You can 
+
+659
+00:26:06,300 --> 00:26:08,720
+also divide it in this way and then 
+
+660
+00:26:08,720 --> 00:26:10,100
+you have to 
+
+661
+00:26:10,100 --> 00:26:13,100
+use the formula for two trapezoids . You 
+can choose 
+
+662
+00:26:13,120 --> 00:26:15,140
+which variant you want to use. As 
+
+663
+00:26:15,140 --> 00:26:17,680
+I said, you usually try to 
+
+664
+00:26:17,680 --> 00:26:20,560
+divide it into rectangles. The advantage 
+
+665
+00:26:20,560 --> 00:26:21,860
+of rectangles is that 
+
+666
+00:26:21,860 --> 00:26:23,100
+you can 
+
+667
+00:26:23,100 --> 00:26:25,100
+memorize the formula for a rectangle very 
+well, and of 
+
+668
+00:26:25,100 --> 00:26:26,360
+course you can memorize the formula for 
+the trapezoid too, but the 
+
+669
+00:26:26,360 --> 00:26:27,560
+calculation effort for the rectangle is 
+
+670
+00:26:27,560 --> 00:26:30,040
+usually a little less. that's why 
+
+671
+00:26:30,040 --> 00:26:32,440
+it's usually the faster way 
+
+672
+00:26:32,440 --> 00:26:33,980
+to divide it into two rectangles 
+
+673
+00:26:33,980 --> 00:26:35,120
+, or in this case it would 
+
+674
+00:26:35,120 --> 00:26:37,120
+have been faster if a 
+
+675
+00:26:37,120 --> 00:26:40,180
+figure stopped at one end 
+
+676
+00:26:40,180 --> 00:26:46,060
+, i.e. if it tapered like this, then 
+
+677
+00:26:46,060 --> 00:26:48,520
+of course it's an advantage 
+
+678
+00:26:48,520 --> 00:26:52,200
+to form a trapezoid from it right away , 
+which brings us to 
+
+679
+00:26:52,200 --> 00:26:54,000
+the end of the webinar. 
+
+680
+00:26:54,000 --> 00:26:55,940
+thank you for your attention. 

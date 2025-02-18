@@ -1,0 +1,564 @@
+1
+00:00:04,110 --> 00:00:06,410
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,410 --> 00:00:07,470
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,470 --> 00:00:09,350
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,350 --> 00:00:11,130
+die Grundlagen der Mythose und Meiose
+
+5
+00:00:11,130 --> 00:00:13,010
+näher bringen. Zu diesem und viele
+
+6
+00:00:13,010 --> 00:00:14,450
+weitere Themen findest du natürlich
+
+7
+00:00:14,450 --> 00:00:16,530
+innerhalb unseres Online-Lerncenters
+
+8
+00:00:16,530 --> 00:00:19,250
+weitere Lerninhalte. Die Grundlage
+
+9
+00:00:19,250 --> 00:00:21,490
+der Evolution ist, dass sich Tiere
+
+10
+00:00:21,490 --> 00:00:23,550
+fortpflanzen und weiterentwickeln
+
+11
+00:00:23,550 --> 00:00:25,750
+können. Die kleinste Dimension dieses
+
+12
+00:00:25,750 --> 00:00:27,530
+Vorgangs bildet die Zellteilung.
+
+13
+00:00:27,610 --> 00:00:29,790
+Dabei werden zwei verschiedene Arten
+
+14
+00:00:29,790 --> 00:00:31,710
+der Zellteilung unterschieden. Die
+
+15
+00:00:31,710 --> 00:00:34,930
+Mitose und die Meiose. Unter der
+
+16
+00:00:34,930 --> 00:00:36,910
+Mitose versteht man, dass sich eine
+
+17
+00:00:36,910 --> 00:00:39,010
+Zelle in zwei weitere genetisch
+
+18
+00:00:39,010 --> 00:00:41,890
+identische Zellen teilt. Zuvor wird
+
+19
+00:00:41,890 --> 00:00:44,230
+die Zelle im Laufe der S-Phase darauf
+
+20
+00:00:44,230 --> 00:00:47,490
+vorbereitet. Dieser Prozess existiert
+
+21
+00:00:47,490 --> 00:00:50,110
+nur bei eukaryotischen Zellen. Die
+
+22
+00:00:50,110 --> 00:00:52,130
+Meiose hingegen ist eine besondere
+
+23
+00:00:52,130 --> 00:00:53,770
+Art der Zellteilung, die bei den
+
+24
+00:00:53,770 --> 00:00:55,810
+Keimzellen, also Eizellen und
+
+25
+00:00:55,810 --> 00:00:58,310
+Spermien vorkommt. Dabei wird der
+
+26
+00:00:58,310 --> 00:01:00,710
+Chromosomenbestand halbiert. sodass
+
+27
+00:01:00,710 --> 00:01:02,610
+jede Keimzelle nur einen halben
+
+28
+00:01:02,610 --> 00:01:05,330
+Chromosomensatz hat. Das ist wichtig,
+
+29
+00:01:05,430 --> 00:01:07,150
+damit bei der Verschmelzung von Ei-
+
+30
+00:01:07,150 --> 00:01:09,190
+und Samenzelle wieder ein einziger,
+
+31
+00:01:09,190 --> 00:01:10,930
+vollständiger Chromosomensatz
+
+32
+00:01:10,930 --> 00:01:14,550
+entsteht. Sowohl bei der Mariose als
+
+33
+00:01:14,550 --> 00:01:16,770
+auch bei der Mythose lassen sich die
+
+34
+00:01:16,770 --> 00:01:18,470
+Abläufe in verschiedene Phasen
+
+35
+00:01:18,470 --> 00:01:20,730
+einteilen. Damit die Zelle den
+
+36
+00:01:20,730 --> 00:01:22,410
+Vorgang der Mythose beginnen kann,
+
+37
+00:01:22,410 --> 00:01:24,710
+muss sie zuvor die DNA und damit alle
+
+38
+00:01:24,710 --> 00:01:26,710
+Chromosomen im Laufe der S-Phase
+
+39
+00:01:26,710 --> 00:01:29,770
+verdoppeln. Die erste Phase der
+
+40
+00:01:29,770 --> 00:01:32,190
+Mitose wird Prophase genannt. In
+
+41
+00:01:32,190 --> 00:01:33,670
+dieser Phase verdichtet sich die
+
+42
+00:01:33,670 --> 00:01:35,670
+Chromosomen und werden somit
+
+43
+00:01:35,670 --> 00:01:39,870
+sichtbar. Der Spindelapparat, der
+
+44
+00:01:39,870 --> 00:01:41,350
+später die Chromosomen voneinander
+
+45
+00:01:41,350 --> 00:01:44,330
+trennt, entsteht. Es folgt die
+
+46
+00:01:44,330 --> 00:01:46,910
+Prometaphase. Dabei werden längs
+
+47
+00:01:46,910 --> 00:01:49,470
+geteilte Chromosomen sichtbar. In der
+
+48
+00:01:49,470 --> 00:01:51,630
+Metaphase ordnen sich die Chromosomen
+
+49
+00:01:51,630 --> 00:01:54,110
+an der Äquatorialebene, also in der
+
+50
+00:01:54,110 --> 00:01:56,150
+Mitte der Zelle. In der dann
+
+51
+00:01:56,150 --> 00:01:57,610
+folgenden Anaphase werden die
+
+52
+00:01:57,610 --> 00:01:59,250
+Chromosomen, bestehend aus zwei
+
+53
+00:01:59,250 --> 00:02:00,770
+Chromatiden, mithilfe des
+
+54
+00:02:00,770 --> 00:02:03,130
+Spindelapparats aufgetrennt. Die
+
+55
+00:02:03,130 --> 00:02:04,830
+Chromatiden werden auf beide Seiten
+
+56
+00:02:04,830 --> 00:02:06,930
+der Zelle gezogen. In der
+
+57
+00:02:06,930 --> 00:02:08,970
+abschließenden Telophase trennen sich
+
+58
+00:02:08,970 --> 00:02:10,650
+die beiden Zellhälften in zwei
+
+59
+00:02:10,650 --> 00:02:13,270
+identische Zellen. Der Zellkern wird
+
+60
+00:02:13,270 --> 00:02:14,110
+wieder sichtbar.
+
+61
+00:02:17,510 --> 00:02:20,010
+nicht identisch. Die Meiose beginnt
+
+62
+00:02:20,010 --> 00:02:22,410
+im Zellkern der Eimutterzelle. In der
+
+63
+00:02:22,410 --> 00:02:23,990
+Metaphase versammeln sich die
+
+64
+00:02:23,990 --> 00:02:25,630
+gepaarten Chromosomen in der
+
+65
+00:02:25,630 --> 00:02:27,970
+Äquatorialebene des Spindelapparats.
+
+66
+00:02:28,090 --> 00:02:29,990
+Die anschließende Anaphase 1
+
+67
+00:02:29,990 --> 00:02:31,590
+unterscheidet sich sehr von der
+
+68
+00:02:31,590 --> 00:02:33,890
+mitotischen Anaphase, während bei der
+
+69
+00:02:33,890 --> 00:02:35,970
+Mitose je ein Chromatid von jedem
+
+70
+00:02:35,970 --> 00:02:38,230
+Chromosom in der neuen Zelle landet,
+
+71
+00:02:38,270 --> 00:02:40,390
+sodass sie das komplette Erbgut der
+
+72
+00:02:40,390 --> 00:02:42,730
+Mutterzelle enthält, werden bei der
+
+73
+00:02:42,730 --> 00:02:44,770
+Meiose die Chromosompaare getrennt
+
+74
+00:02:44,770 --> 00:02:46,430
+und auf die beiden Seiten der Zelle
+
+75
+00:02:46,430 --> 00:02:48,030
+gezogen, sodass entweder das
+
+76
+00:02:48,030 --> 00:02:49,750
+väterliche oder das mütterliche
+
+77
+00:02:49,750 --> 00:02:51,750
+Chromosom mit je zwei Chromatiden in
+
+78
+00:02:51,750 --> 00:02:54,910
+die Tochterzelle gelangt. In der
+
+79
+00:02:54,910 --> 00:02:57,430
+Telophase 1 liegt an jedem Pol dann
+
+80
+00:02:57,430 --> 00:02:59,250
+jeweils nur noch ein Chromosom mit
+
+81
+00:02:59,250 --> 00:03:02,950
+zwei Chromatiden jedes Typs vor. Es
+
+82
+00:03:02,950 --> 00:03:04,570
+ist also zu einer Reduktion der
+
+83
+00:03:04,570 --> 00:03:06,010
+Chromosomenanzahl gekommen.
+
+84
+00:03:07,070 --> 00:03:08,330
+Anschließend finden noch die
+
+85
+00:03:08,330 --> 00:03:11,490
+Metaphase 2, die Anaphase 2 und die
+
+86
+00:03:11,490 --> 00:03:13,590
+Telophase 2 statt. Diese
+
+87
+00:03:13,590 --> 00:03:15,470
+unterscheidet sich, je nachdem, ob
+
+88
+00:03:15,470 --> 00:03:17,690
+eine Eizelle oder Spermia entsteht.
+
+89
+00:03:18,330 --> 00:03:20,110
+Schauen wir uns zuletzt noch einmal
+
+90
+00:03:20,110 --> 00:03:21,690
+zusammenfassend die Unterschiede
+
+91
+00:03:21,690 --> 00:03:23,510
+zwischen der Mithose und der Mariose
+
+92
+00:03:23,510 --> 00:03:25,290
+an. Dass die Phasen sich
+
+93
+00:03:25,290 --> 00:03:26,530
+unterscheiden, haben wir bereits
+
+94
+00:03:26,530 --> 00:03:28,790
+erkannt. Das Ergebnis der Mithose
+
+95
+00:03:28,790 --> 00:03:30,230
+sind zwei mit der Mutterzelle
+
+96
+00:03:30,230 --> 00:03:32,890
+identische Tochterzellen. Am Ende der
+
+97
+00:03:32,890 --> 00:03:34,970
+Mariose entstehen hingegen vier mit
+
+98
+00:03:34,970 --> 00:03:36,670
+der Mutterzelle nicht identische
+
+99
+00:03:36,670 --> 00:03:38,590
+Tochterzellen, die eine zufällige
+
+100
+00:03:38,590 --> 00:03:40,390
+Mischung aus mütterlichen und
+
+101
+00:03:40,390 --> 00:03:42,370
+väterlichen Chromosomen enthalten und
+
+102
+00:03:42,370 --> 00:03:44,290
+nicht wie die Mutterzelle von allen
+
+103
+00:03:44,290 --> 00:03:46,090
+Chromosomen einer mütterlichen und
+
+104
+00:03:46,090 --> 00:03:48,690
+väterlichen Version. Auch die
+
+105
+00:03:48,690 --> 00:03:50,350
+Funktionen der beiden Vorgänge sind
+
+106
+00:03:50,350 --> 00:03:52,650
+verschieden. Die Mithose dient der
+
+107
+00:03:52,650 --> 00:03:54,410
+Vermehrung der Zellen und damit dem
+
+108
+00:03:54,410 --> 00:03:56,710
+Aufbau des Körpers. Die Majose
+
+109
+00:03:56,710 --> 00:03:58,270
+wiederum dient der sexuellen
+
+110
+00:03:58,270 --> 00:04:01,370
+Fortpflanzung. Bei der Majose kann es
+
+111
+00:04:01,370 --> 00:04:03,170
+zu einem sogenannten Crossing-Over
+
+112
+00:04:03,170 --> 00:04:06,010
+kommen. Das ist eigentlich ein Fehler
+
+113
+00:04:06,010 --> 00:04:07,970
+bei der Trennung der Chromosomen, der
+
+114
+00:04:07,970 --> 00:04:10,230
+dazu führt, dass ein Teil des von der
+
+115
+00:04:10,230 --> 00:04:11,990
+Mutter geerbten Chromosoms auf das
+
+116
+00:04:11,990 --> 00:04:14,270
+väterliche springt und umgekehrt.
+
+117
+00:04:14,530 --> 00:04:16,130
+Dieser Prozess führt zur
+
+118
+00:04:16,130 --> 00:04:17,910
+Neukombination der genetischen
+
+119
+00:04:17,910 --> 00:04:19,450
+Informationen und und ist wichtiger
+
+120
+00:04:19,450 --> 00:04:20,950
+Bestandteil der sexuellen
+
+121
+00:04:20,950 --> 00:04:22,990
+Rekombination, also der Entstehung
+
+122
+00:04:22,990 --> 00:04:26,250
+von neuem, vervielfältigterem Erbgut.
+
+123
+00:04:26,310 --> 00:04:28,330
+Das ist vor allem bei der Meiose
+
+124
+00:04:28,330 --> 00:04:30,550
+wichtig. Bei der Mithose hat ein
+
+125
+00:04:30,550 --> 00:04:32,610
+Crossing-Over weniger Auswirkungen.
+
+126
+00:04:33,330 --> 00:04:35,390
+Nicht alle Tiergruppen sind in der
+
+127
+00:04:35,390 --> 00:04:37,150
+Lage, sich sexuell fortzupflanzen.
+
+128
+00:04:37,910 --> 00:04:39,210
+Stattdessen können sie sich zum
+
+129
+00:04:39,210 --> 00:04:41,210
+Beispiel parthenogenetisch über
+
+130
+00:04:41,210 --> 00:04:44,390
+Klonen vervielfältigen. Zu diesen
+
+131
+00:04:44,390 --> 00:04:45,930
+Tieren gehören Wasserflöhe,
+
+132
+00:04:46,090 --> 00:04:48,670
+Blattläuse oder einige Fisch- und
+
+133
+00:04:48,670 --> 00:04:51,910
+Eidechsenarten. Ich hoffe, ich konnte
+
+134
+00:04:51,910 --> 00:04:53,950
+dir helfen, die Prozesse der Mithose
+
+135
+00:04:53,950 --> 00:04:55,670
+und Maiose besser zu verstehen.
+
+136
+00:04:56,170 --> 00:04:58,010
+Solltest du zu diesem oder weiteren
+
+137
+00:04:58,010 --> 00:05:00,010
+Themen noch Fragen haben, schaue dich
+
+138
+00:05:00,010 --> 00:05:01,810
+einmal bei uns im Online-Lerncenter
+
+139
+00:05:01,810 --> 00:05:04,230
+um oder wende dich gerne auch deiner
+
+140
+00:05:04,230 --> 00:05:06,510
+Schülerhilfe vor Ort zu. Bis zum
+
+141
+00:05:06,510 --> 00:05:07,070
+nächsten Mal!
+

@@ -1,0 +1,424 @@
+1
+00:00:04,080 --> 00:00:06,400
+Hallo, mein Name ist Sabrina und ich
+
+2
+00:00:06,400 --> 00:00:07,940
+bin Nachhilfelehrerin bei der
+
+3
+00:00:07,940 --> 00:00:09,980
+Schülerhilfe. Heute wollen wir uns
+
+4
+00:00:09,980 --> 00:00:11,880
+mit einem wichtigen Thema der Chemie
+
+5
+00:00:11,880 --> 00:00:13,640
+auseinandersetzen. Wir werden
+
+6
+00:00:13,640 --> 00:00:16,600
+besprechen, was Anionen, Kationen und
+
+7
+00:00:16,600 --> 00:00:19,000
+was Ionenbindungen sind und welche
+
+8
+00:00:19,000 --> 00:00:21,220
+Strukturen sie bilden. Natürlich
+
+9
+00:00:21,220 --> 00:00:23,000
+steht dir zu diesem Thema in unserem
+
+10
+00:00:23,000 --> 00:00:25,520
+Online-Lerncenter auch ein Wiki zur
+
+11
+00:00:25,520 --> 00:00:27,600
+Verfügung, in dem dir die wichtigsten
+
+12
+00:00:27,600 --> 00:00:29,480
+Begriffe noch einmal erklärt werden.
+
+13
+00:00:29,480 --> 00:00:32,960
+Um zu verstehen, was Ionenbindungen
+
+14
+00:00:32,960 --> 00:00:34,780
+sind und wie sie zustande kommen,
+
+15
+00:00:34,980 --> 00:00:37,240
+müssen wir uns erst die Ladungen in
+
+16
+00:00:37,240 --> 00:00:39,580
+einer solchen Bindung anschauen. In
+
+17
+00:00:39,580 --> 00:00:41,360
+der Chemie unterscheidet man zwei
+
+18
+00:00:41,360 --> 00:00:43,800
+Arten von geladenen Teilchen, nämlich
+
+19
+00:00:43,800 --> 00:00:46,820
+die Anionen und die Kationen. Dabei
+
+20
+00:00:46,820 --> 00:00:49,600
+sind die Anionen negativ geladen. Als
+
+21
+00:00:49,600 --> 00:00:51,940
+Eselsbrücke kannst du dir das N in
+
+22
+00:00:51,940 --> 00:00:55,160
+Anion für negativ merken. Kationen
+
+23
+00:00:55,160 --> 00:00:57,860
+sind positiv geladen. Doch wie
+
+24
+00:00:57,860 --> 00:01:00,520
+entstehen solche Ionen? Nun, bestimmt
+
+25
+00:01:00,520 --> 00:01:02,660
+hast Du schon einmal vom Atommodell
+
+26
+00:01:02,660 --> 00:01:04,780
+gehört, bei dem man davon ausgeht,
+
+27
+00:01:04,820 --> 00:01:06,780
+dass die Elektronen eines Atoms,
+
+28
+00:01:06,860 --> 00:01:09,200
+welches normalerweise ungeladen ist,
+
+29
+00:01:09,380 --> 00:01:11,480
+in Schalen um den Kern herumgelegen
+
+30
+00:01:11,480 --> 00:01:14,220
+sind. Nun können Atome beispielsweise
+
+31
+00:01:14,220 --> 00:01:16,880
+einen Elektron aufnehmen und es
+
+32
+00:01:16,880 --> 00:01:18,140
+entsteht ein negativer
+
+33
+00:01:18,140 --> 00:01:19,680
+Ladungsüberschuss durch das
+
+34
+00:01:19,680 --> 00:01:21,720
+aufgenommene, negativ geladene
+
+35
+00:01:21,720 --> 00:01:24,200
+Teilchen, wie du hier im Beispiel an
+
+36
+00:01:24,200 --> 00:01:26,860
+Chlor und seinem Chlorid-Ion siehst.
+
+37
+00:01:27,260 --> 00:01:30,400
+Dieses Ion ist dann ein Anion. Man
+
+38
+00:01:30,400 --> 00:01:32,480
+schreibt nun bei dem Atomnamen ein
+
+39
+00:01:32,480 --> 00:01:34,620
+Minus dazu, um dies zu signalisieren.
+
+40
+00:01:35,460 --> 00:01:37,720
+Analog dazu entsteht bei der Abgabe
+
+41
+00:01:37,720 --> 00:01:40,000
+eines Elektrons, also einer negativen
+
+42
+00:01:40,000 --> 00:01:41,680
+Ladung, ein positiver
+
+43
+00:01:41,680 --> 00:01:43,560
+Ladungsüberschuss und es bildet sich
+
+44
+00:01:43,560 --> 00:01:45,820
+ein Kation, wie hier im Beispiel das
+
+45
+00:01:45,820 --> 00:01:48,760
+Natrium-Ion. Übrigens nennt man die
+
+46
+00:01:48,760 --> 00:01:50,580
+Energie, die man benötigt, um ein
+
+47
+00:01:50,580 --> 00:01:52,680
+Elektron aus einem Atom zu lösen,
+
+48
+00:01:52,780 --> 00:01:55,660
+Ionisierungsenergie. Auch wichtig zu
+
+49
+00:01:55,660 --> 00:01:57,840
+wissen ist, dass Ionen weniger stabil
+
+50
+00:01:57,840 --> 00:01:59,720
+sind als ihre Atome und somit
+
+51
+00:01:59,720 --> 00:02:02,820
+reaktiver reagieren. Aber was hat es
+
+52
+00:02:02,820 --> 00:02:04,720
+nun mit den Ionenbindungen auf sich?
+
+53
+00:02:05,640 --> 00:02:07,180
+Ionenbindungen entstehen, wenn sich
+
+54
+00:02:07,180 --> 00:02:10,460
+Kationen und Anionen verbinden. Dass
+
+55
+00:02:10,460 --> 00:02:12,600
+diese beiden gegensätzlich geladenen
+
+56
+00:02:12,600 --> 00:02:14,200
+Ionen miteinander reagieren, ist
+
+57
+00:02:14,200 --> 00:02:15,940
+logisch, da sich, wie du sicher
+
+58
+00:02:15,940 --> 00:02:18,260
+weißt, positive und negative Ladungen
+
+59
+00:02:18,260 --> 00:02:20,520
+anziehen. Die Kraft zwischen den
+
+60
+00:02:20,520 --> 00:02:21,920
+beiden bezeichnet man als
+
+61
+00:02:21,920 --> 00:02:25,200
+elektrostatische Anziehungskraft. Im
+
+62
+00:02:25,200 --> 00:02:26,700
+Beispiel siehst du, wie sich das
+
+63
+00:02:26,700 --> 00:02:28,940
+Anion des Chlorids und das Kation des
+
+64
+00:02:28,940 --> 00:02:31,480
+Natriums zu Natriumchlorid verbinden.
+
+65
+00:02:31,640 --> 00:02:33,660
+Dies geschieht unter Ausbildung einer
+
+66
+00:02:33,660 --> 00:02:36,560
+Ionenbindung. Wenn man sich nun viele
+
+67
+00:02:36,560 --> 00:02:38,880
+Natrium- und viele Chlorid-Ionen
+
+68
+00:02:38,880 --> 00:02:41,020
+zusammen ansieht, dann lagern sich
+
+69
+00:02:41,020 --> 00:02:43,120
+diese in einem ganz bestimmten Muster
+
+70
+00:02:43,120 --> 00:02:45,220
+aneinander nämlich in einem Gitter.
+
+71
+00:02:45,760 --> 00:02:48,020
+Dabei liegen, wie du siehst, immer
+
+72
+00:02:48,020 --> 00:02:50,740
+positive und negative Ladungen
+
+73
+00:02:50,740 --> 00:02:53,100
+nebeneinander, die sich gegenseitig
+
+74
+00:02:53,100 --> 00:02:55,720
+anziehen. Das ist der energetisch
+
+75
+00:02:55,720 --> 00:02:57,840
+günstigste Zustand für das Molekül.
+
+76
+00:02:58,280 --> 00:03:00,620
+Diese Struktur ist ziemlich fest und
+
+77
+00:03:00,620 --> 00:03:02,960
+man benötigt Energie, um ein Teilchen
+
+78
+00:03:02,960 --> 00:03:04,640
+aus diesem Gitter herauszulösen.
+
+79
+00:03:04,880 --> 00:03:06,800
+Diese Energie bezeichnet man als
+
+80
+00:03:06,800 --> 00:03:09,140
+Gitterenergie. Sie entspricht der
+
+81
+00:03:09,140 --> 00:03:10,980
+Kraft, die das das Ionen im Gitter
+
+82
+00:03:10,980 --> 00:03:13,960
+hält. Vielleicht kommt dir das NaCl
+
+83
+00:03:13,960 --> 00:03:15,840
+aus unserem Beispiel bekannt vor.
+
+84
+00:03:16,160 --> 00:03:18,740
+Unser normales Kochsalz ist chemisch
+
+85
+00:03:18,740 --> 00:03:21,840
+ausgedrückt NaCl. Salze sind die
+
+86
+00:03:21,840 --> 00:03:23,820
+Vertreter der Ionenbindungen und
+
+87
+00:03:23,820 --> 00:03:25,340
+bilden genau diese feste
+
+88
+00:03:25,340 --> 00:03:27,080
+Gitterstrukturen, die wir besprochen
+
+89
+00:03:27,080 --> 00:03:29,520
+haben. Deshalb ist Salz auch ein
+
+90
+00:03:29,520 --> 00:03:31,420
+fester Stoff, der Kristalle bildet.
+
+91
+00:03:31,500 --> 00:03:33,520
+Sie haben meist relativ hohe
+
+92
+00:03:33,520 --> 00:03:35,200
+Siedepunkte und sind löslich in
+
+93
+00:03:35,200 --> 00:03:38,600
+Wasser. Neben NaCl gibt es auch
+
+94
+00:03:38,600 --> 00:03:40,820
+andere Salze, die nach demselben
+
+95
+00:03:40,820 --> 00:03:42,760
+Schema gebildet werden. Beispiele
+
+96
+00:03:42,760 --> 00:03:45,340
+dafür wären Calciumcarbonat oder
+
+97
+00:03:45,340 --> 00:03:48,340
+Bariumsulfat. Ich hoffe, dass ich dir
+
+98
+00:03:48,340 --> 00:03:50,660
+helfen konnte zu verstehen, was Anion
+
+99
+00:03:50,660 --> 00:03:52,940
+und Kation sind und wie die typischen
+
+100
+00:03:52,940 --> 00:03:54,620
+Bindungen, die sie bilden, aussehen.
+
+101
+00:03:54,800 --> 00:03:56,720
+Wenn du noch Fragen zu diesem oder
+
+102
+00:03:56,720 --> 00:03:58,640
+anderen Themen hast, nutze gerne
+
+103
+00:03:58,640 --> 00:04:00,460
+unsere weiteren Inhalte im Online
+
+104
+00:04:00,460 --> 00:04:02,700
+-Lerncenter oder wende dich an deine
+
+105
+00:04:02,700 --> 00:04:04,780
+Schülerhilfe vor Ort. Bis zum
+
+106
+00:04:04,780 --> 00:04:05,380
+nächsten Mal!
+

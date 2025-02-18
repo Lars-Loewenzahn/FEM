@@ -1,0 +1,427 @@
+﻿1
+00:00:00,850 --> 00:00:02,590
+Hello and welcome to 
+
+2
+00:00:02,590 --> 00:00:03,810
+another learning video from 
+
+3
+00:00:03,810 --> 00:00:06,670
+Schülerhilfe . Having already 
+
+4
+00:00:06,670 --> 00:00:08,450
+
+5
+00:00:08,450 --> 00:00:10,250
+explained the basics of lactulian 
+hexameter in two videos , 
+
+6
+00:00:11,190 --> 00:00:13,150
+I would now like to 
+
+7
+00:00:13,150 --> 00:00:16,710
+show you a practical example. 
+
+8
+00:00:16,710 --> 00:00:18,310
+To make it 
+
+9
+00:00:18,310 --> 00:00:19,770
+easier for you to follow, I 've 
+
+10
+00:00:19,770 --> 00:00:23,070
+
+11
+00:00:23,070 --> 00:00:26,150
+written down the basic scheme of the 
+hexameter here again and there's also 
+
+12
+00:00:26,150 --> 00:00:30,510
+the possible lengths that we 
+
+13
+00:00:30,510 --> 00:00:32,630
+
+14
+00:00:32,630 --> 00:00:37,260
+can use instead of the double contractions 
+in the first four feet of verse. So, it' 
+
+15
+00:00:37,260 --> 00:00:39,200
+s always best to start by 
+
+16
+00:00:39,200 --> 00:00:40,840
+looking for position lengths, they are 
+
+17
+00:00:40,840 --> 00:00:42,160
+very easy to find. You 
+
+18
+00:00:42,160 --> 00:00:43,520
+just have to be able to count and know 
+what 
+
+19
+00:00:43,520 --> 00:00:45,960
+consonants are. And the first 
+
+20
+00:00:45,960 --> 00:00:48,020
+syllable, that's always very 
+
+21
+00:00:48,020 --> 00:00:50,480
+smart too , it's always long, 
+
+22
+00:00:50,480 --> 00:00:52,600
+there's no other way. So, let's see, 
+
+23
+00:00:52,700 --> 00:00:56,120
+we have an MF position here. Then 
+
+24
+00:00:56,120 --> 00:00:58,620
+we have RT here, then we have 
+
+25
+00:00:58,620 --> 00:01:03,960
+KR here, then we have TM here, 
+
+26
+00:01:03,960 --> 00:01:08,100
+STM here , even 3. In the next line 
+
+27
+00:01:08,100 --> 00:01:15,000
+we have SK, we have DM, we have 
+
+28
+00:01:15,000 --> 00:01:20,620
+Hüsen, even 3. And our MT and 
+
+29
+00:01:20,620 --> 00:01:23,820
+finally our double L. This 
+
+30
+00:01:23,820 --> 00:01:26,880
+means that the vowels before these two 
+
+31
+00:01:26,880 --> 00:01:28,100
+or more consonants must 
+
+32
+00:01:28,100 --> 00:01:30,320
+be position-long. We can 
+
+33
+00:01:30,320 --> 00:01:31,200
+enter that straight away. 
+
+34
+00:01:38,870 --> 00:01:40,670
+So, and then we have the 
+
+35
+00:01:40,670 --> 00:01:50,910
+I, the A, U and the I. So, very 
+
+36
+00:01:50,910 --> 00:01:51,970
+nice, you see, we've 
+
+37
+00:01:51,970 --> 00:01:55,810
+already found a lot. Then, if 
+
+38
+00:01:55,810 --> 00:01:58,310
+we look here, the last 
+
+39
+00:01:58,310 --> 00:02:00,610
+verse foot always has length and then a 
+
+40
+00:02:00,610 --> 00:02:03,590
+syllable. Ankeps, so 
+
+41
+00:02:03,590 --> 00:02:04,730
+we' ve found the length , we know it's 
+
+42
+00:02:04,730 --> 00:02:07,550
+even stressed. Also here and our 
+
+43
+00:02:07,550 --> 00:02:12,930
+last syllable ankeps. And the fifth 
+
+44
+00:02:12,930 --> 00:02:14,890
+verse foot is always a pure 
+
+45
+00:02:14,890 --> 00:02:19,030
+dactyl, i.e. short, short stressed 
+
+46
+00:02:19,030 --> 00:02:23,150
+length. Similarly in the verse below, 
+short, 
+
+47
+00:02:23,250 --> 00:02:26,870
+short stressed length. Here you can see 
+
+48
+00:02:26,910 --> 00:02:29,470
+that this O is naturally long, 
+
+49
+00:02:29,570 --> 00:02:31,230
+as it is not followed by two consonants. 
+
+50
+00:02:32,330 --> 00:02:34,230
+So, let's take another look 
+
+51
+00:02:34,230 --> 00:02:36,690
+at the first verse: we have I in the 
+
+52
+00:02:36,690 --> 00:02:38,710
+forte. So, if we 
+
+53
+00:02:38,710 --> 00:02:40,290
+look now , there's only one syllable 
+
+54
+00:02:40,290 --> 00:02:42,630
+between I and O. It has to 
+
+55
+00:02:42,630 --> 00:02:45,310
+be long , of course, because a double 
+short 
+
+56
+00:02:45,310 --> 00:02:47,310
+also needs two syllables. So 
+
+57
+00:02:47,310 --> 00:02:49,290
+we have a length, bang, and 
+
+58
+00:02:49,290 --> 00:02:52,250
+we can mark that. I had just 
+
+59
+00:02:52,250 --> 00:02:55,090
+introduced you to the law that vowel 
+
+60
+00:02:55,090 --> 00:02:58,630
+before vowel is shortened. So 
+
+61
+00:02:58,630 --> 00:03:01,750
+we know that this i is short. Yes, and 
+
+62
+00:03:01,750 --> 00:03:03,810
+we had already marked Meos' anyway 
+
+63
+00:03:03,810 --> 00:03:07,510
+. And a shortness can 
+
+64
+00:03:07,510 --> 00:03:09,870
+never appear on its own, because the a 
+
+65
+00:03:09,870 --> 00:03:13,650
+is already long, so either 
+
+66
+00:03:13,650 --> 00:03:18,130
+this a is short or the e is short. But it 
+
+67
+00:03:18,130 --> 00:03:20,610
+has to be the e, because three shortenings 
+
+68
+00:03:20,610 --> 00:03:21,970
+couldn't 
+
+69
+00:03:21,970 --> 00:03:24,370
+come one after the other or two lengths 
+can 
+
+70
+00:03:24,370 --> 00:03:28,810
+'t be followed by a shortness. So 
+
+71
+00:03:28,810 --> 00:03:31,430
+we can see that the A is long here 
+
+72
+00:03:31,430 --> 00:03:33,810
+and so we also know the 
+
+73
+00:03:33,810 --> 00:03:39,290
+ablative case. Like A. So and a 
+
+74
+00:03:39,290 --> 00:03:41,090
+double length must be followed by a third 
+length 
+
+75
+00:03:41,090 --> 00:03:43,610
+, so here too long A, 
+
+76
+00:03:43,770 --> 00:03:46,090
+again ablative, one 
+
+77
+00:03:46,090 --> 00:03:50,050
+syllable remains and that can only 
+
+78
+00:03:50,050 --> 00:03:54,750
+be the length. So, in the next verse we 
+
+79
+00:03:54,750 --> 00:03:58,330
+again have a vowel before a vowel 
+
+80
+00:03:58,350 --> 00:04:00,930
+, so the I is short and then the 
+
+81
+00:04:00,930 --> 00:04:02,270
+O must also be short. 
+
+82
+00:04:07,100 --> 00:04:09,800
+So, then we have the A as length, 
+
+83
+00:04:09,900 --> 00:04:12,440
+in between there are two syllables 
+
+84
+00:04:12,440 --> 00:04:15,580
+and they are actually meditans 
+
+85
+00:04:15,580 --> 00:04:16,000
+short. 
+
+86
+00:04:21,150 --> 00:04:22,890
+And now let's take a look at 
+
+87
+00:04:22,890 --> 00:04:23,750
+the back, we have a length here 
+
+88
+00:04:23,750 --> 00:04:25,430
+, as you know, 
+
+89
+00:04:25,430 --> 00:04:26,950
+there can only be one other length before 
+this length 
+
+90
+00:04:26,950 --> 00:04:30,490
+and that is a stressed one. 
+
+91
+00:04:30,490 --> 00:04:33,370
+One syllable remains, the U, and that can 
+
+92
+00:04:33,370 --> 00:04:36,090
+only be long. 
+
+93
+00:04:36,090 --> 00:04:38,530
+Of course, you can also read that in a 
+fancy way now. I 
+
+94
+00:04:38,530 --> 00:04:42,950
+bam forte via sacra secut mius est 
+
+95
+00:04:42,950 --> 00:04:48,490
+mus niscio quid meditans lugarum 
+
+96
+00:04:48,490 --> 00:04:52,770
+totus in ilis. Meaning, I 
+
+97
+00:04:52,770 --> 00:04:56,490
+happened to be walking along the via sacra 
+
+98
+00:04:56,490 --> 00:05:01,310
+, as is my way. And I was meditating 
+
+99
+00:05:01,310 --> 00:05:03,950
+on something, nesquio quitt, 
+
+100
+00:05:04,310 --> 00:05:08,790
+on some trifle 
+
+101
+00:05:08,790 --> 00:05:12,850
+, completely immersed in the nugarum. 
+
+102
+00:05:13,810 --> 00:05:16,070
+That was an example of how we 
+
+103
+00:05:16,070 --> 00:05:19,170
+chant a hexameter. 
+
+104
+00:05:19,170 --> 00:05:21,790
+I look forward to the next time and say 
+see you 
+
+105
+00:05:21,790 --> 00:05:22,470
+then. Bye. 

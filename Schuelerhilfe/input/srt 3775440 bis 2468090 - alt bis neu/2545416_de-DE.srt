@@ -1,0 +1,2620 @@
+1
+00:00:00,270 --> 00:00:02,070
+Hallo und herzlich willkommen zum
+
+2
+00:00:02,070 --> 00:00:04,150
+Webinar der Schülerhilfe. Wir
+
+3
+00:00:04,150 --> 00:00:05,590
+beschäftigen uns heute mit der
+
+4
+00:00:05,590 --> 00:00:07,910
+Analyse einer politischen Rede und
+
+5
+00:00:07,910 --> 00:00:09,370
+sehen uns das anschließend an einem
+
+6
+00:00:09,370 --> 00:00:12,270
+Textbeispiel an. Wir gehen dazu
+
+7
+00:00:12,270 --> 00:00:14,890
+zuerst auf die allgemeinen Dinge der
+
+8
+00:00:14,890 --> 00:00:16,750
+politischen Rede ein, das heißt die
+
+9
+00:00:16,750 --> 00:00:18,970
+Eigenschaften und Charakteristiken.
+
+10
+00:00:20,050 --> 00:00:21,330
+Anschließend schauen wir uns das
+
+11
+00:00:21,330 --> 00:00:23,370
+Grundlegende zu einer Analyse einer
+
+12
+00:00:23,370 --> 00:00:26,650
+politischen Rede an. Befolgt davon
+
+13
+00:00:26,650 --> 00:00:28,170
+schauen wir uns den Aufbau der
+
+14
+00:00:28,170 --> 00:00:30,950
+Analyse an. Und abschließend werden
+
+15
+00:00:30,950 --> 00:00:32,330
+wir uns mit der Analyse am
+
+16
+00:00:32,330 --> 00:00:34,550
+Textbeispiel mithilfe der
+
+17
+00:00:34,550 --> 00:00:37,250
+rhetorischen Mittel beschäftigen. Die
+
+18
+00:00:37,250 --> 00:00:39,310
+politische Rede als solches wird
+
+19
+00:00:39,310 --> 00:00:41,370
+verwendet, um zu einem bestimmten
+
+20
+00:00:41,370 --> 00:00:43,510
+Anlass, mit einer bestimmten Absicht,
+
+21
+00:00:43,510 --> 00:00:45,050
+an einen bestimmten Adressaten
+
+22
+00:00:45,050 --> 00:00:48,310
+jemanden zu überzeugen. Das heißt,
+
+23
+00:00:48,390 --> 00:00:50,630
+der Redner wendet sich eben an den
+
+24
+00:00:50,630 --> 00:00:53,750
+Adressaten, um zu überzeugen, unter
+
+25
+00:00:53,750 --> 00:00:55,670
+einem Gesicht und mit einer gewissen
+
+26
+00:00:55,670 --> 00:00:57,090
+Absicht, unter einem bestimmten
+
+27
+00:00:57,090 --> 00:00:59,270
+Anlass. Das heißt, die politische
+
+28
+00:00:59,270 --> 00:01:01,030
+Rede findet ihre Verwendung
+
+29
+00:01:01,030 --> 00:01:02,630
+grundsätzlich im mündlichen Vortrag.
+
+30
+00:01:03,690 --> 00:01:06,970
+Dabei stützt sie sich auf nicht Fakt-
+
+31
+00:01:06,970 --> 00:01:08,950
+und Informationsorientiertheit,
+
+32
+00:01:08,990 --> 00:01:12,010
+sondern sie ist subjektiv und möchte
+
+33
+00:01:12,010 --> 00:01:14,570
+den Zuhörer beeinflussen. Das heißt,
+
+34
+00:01:14,630 --> 00:01:16,830
+im Fokus steht die Beeinflussung und
+
+35
+00:01:16,830 --> 00:01:20,110
+die Überzeugung des Zuhörers. Dabei
+
+36
+00:01:20,110 --> 00:01:24,150
+sind Reaktionen auf das Gehörte von
+
+37
+00:01:24,150 --> 00:01:26,830
+den Adressaten eben auch unmittelbar
+
+38
+00:01:26,830 --> 00:01:29,370
+zu. Das heißt, durch Zurufe, Lachen,
+
+39
+00:01:29,390 --> 00:01:31,230
+Zwischenfragen oder Unruhe, genauso
+
+40
+00:01:31,230 --> 00:01:35,890
+wie Applaus. Die allgemeine Absicht
+
+41
+00:01:35,890 --> 00:01:37,410
+einer politischen Rede ist, die
+
+42
+00:01:37,410 --> 00:01:39,370
+Zustimmung und Überzeugung des Hörers
+
+43
+00:01:39,370 --> 00:01:42,610
+zu erreichen. Grundlegendes zur
+
+44
+00:01:42,610 --> 00:01:45,890
+Analyse von Sachtexten. Schauen wir
+
+45
+00:01:45,890 --> 00:01:47,530
+uns zu Beginn einmal die typischen
+
+46
+00:01:47,530 --> 00:01:48,830
+Aufgabenstellungen zu einer
+
+47
+00:01:48,830 --> 00:01:50,930
+politischen Rede an. Das heißt, eine
+
+48
+00:01:50,930 --> 00:01:53,950
+Aufgabenstellung ist grundsätzlich
+
+49
+00:01:53,950 --> 00:01:55,510
+gleich. Das heißt, hier geht es
+
+50
+00:01:55,510 --> 00:01:57,730
+grundsätzlich um eine Analyse, aber
+
+51
+00:01:57,730 --> 00:01:59,370
+hier geht es um die unterschiedlichen
+
+52
+00:01:59,370 --> 00:02:01,850
+Schwerpunkte. Das heißt, einerseits
+
+53
+00:02:01,850 --> 00:02:04,570
+könnte es sein, untersuchen Sie die
+
+54
+00:02:04,570 --> 00:02:06,170
+vorliegende Rede im Hinblick auf die
+
+55
+00:02:06,170 --> 00:02:08,390
+Redesituation und ihre Absicht. Dabei
+
+56
+00:02:08,390 --> 00:02:09,850
+schauen wir auf die Intention des
+
+57
+00:02:09,850 --> 00:02:12,590
+Redners, auf die Redesituation, wie
+
+58
+00:02:12,590 --> 00:02:14,830
+er vorträgt, was er vorträgt. Das
+
+59
+00:02:14,830 --> 00:02:16,890
+heißt, wir legen sehr viel Wert
+
+60
+00:02:16,890 --> 00:02:20,590
+darauf, wie vorgetragen wird. Oder
+
+61
+00:02:20,590 --> 00:02:21,950
+erarbeiten Sie die
+
+62
+00:02:21,950 --> 00:02:23,790
+Argumentationsstruktur. des Redners,
+
+63
+00:02:23,870 --> 00:02:25,690
+da schauen wir auf die Argumentation.
+
+64
+00:02:26,570 --> 00:02:29,090
+Das heißt, also auf die
+
+65
+00:02:29,890 --> 00:02:30,790
+Argumentationsstruktur, das heißt,
+
+66
+00:02:30,830 --> 00:02:32,810
+wir untersuchen die Anordnung der
+
+67
+00:02:32,810 --> 00:02:34,510
+Argumente, wir bewerten die
+
+68
+00:02:34,510 --> 00:02:36,470
+Argumente, wie werden die Argumente
+
+69
+00:02:36,470 --> 00:02:38,170
+dargelegt, in welcher Weise werden
+
+70
+00:02:38,170 --> 00:02:39,590
+sie vorgetragen, mit welchen
+
+71
+00:02:39,590 --> 00:02:41,150
+Hilfsmitteln werden sie vorgetragen
+
+72
+00:02:41,150 --> 00:02:43,450
+oder untersuchen sie die Rede im
+
+73
+00:02:43,450 --> 00:02:45,150
+Hinblick auf ihre Sprachebene und
+
+74
+00:02:45,150 --> 00:02:47,330
+ihre rhetorische Mitte, erläutern sie
+
+75
+00:02:47,330 --> 00:02:49,890
+Hier geben wir grundsätzlich auf die
+
+76
+00:02:49,890 --> 00:02:51,850
+Sprache ein, das heißt wir lösen uns
+
+77
+00:02:51,850 --> 00:02:53,190
+etwas von den Argumenten, wir
+
+78
+00:02:53,190 --> 00:02:54,190
+bewerten also nicht mehr
+
+79
+00:02:54,190 --> 00:02:56,370
+Inhaltliches, sondern wir bewerten
+
+80
+00:02:56,370 --> 00:03:00,110
+die eigentliche Formulierung, das
+
+81
+00:03:00,110 --> 00:03:02,250
+heißt die Sprachebene sowie die
+
+82
+00:03:02,250 --> 00:03:03,950
+Nutzung rhetorischer Mittel und deren
+
+83
+00:03:03,950 --> 00:03:05,850
+Wirkung. Anschließend oder
+
+84
+00:03:05,850 --> 00:03:07,310
+abschließend zu diesem Webinar
+
+85
+00:03:07,310 --> 00:03:08,790
+schauen wir uns ein Textbeispiel an,
+
+86
+00:03:08,870 --> 00:03:11,850
+bei dem wir genau auf eben diese
+
+87
+00:03:11,850 --> 00:03:13,770
+letzte Aufgabenstellung eingehen
+
+88
+00:03:13,770 --> 00:03:14,890
+werden. Die
+
+89
+00:03:17,000 --> 00:03:18,920
+analytischen Elemente einer Rede
+
+90
+00:03:18,920 --> 00:03:21,220
+sind, wie schon in der
+
+91
+00:03:21,220 --> 00:03:22,680
+Aufgabenstellung hervorgeht, die
+
+92
+00:03:22,680 --> 00:03:25,060
+Redesituation, Anlass, Inhalt und
+
+93
+00:03:25,060 --> 00:03:26,540
+Thema der Rede, wie in der
+
+94
+00:03:26,540 --> 00:03:28,920
+Redeabsicht, die Sprachebenen und die
+
+95
+00:03:28,920 --> 00:03:31,960
+rhetorischen Mittel. Genauso wie die
+
+96
+00:03:31,960 --> 00:03:33,840
+Redeweise und die abschließende
+
+97
+00:03:33,840 --> 00:03:36,340
+Zusammenfassung. Diese analytischen
+
+98
+00:03:36,340 --> 00:03:38,200
+Elemente sind grundsätzlich immer in
+
+99
+00:03:38,200 --> 00:03:39,780
+der Analyse enthalten, die
+
+100
+00:03:39,780 --> 00:03:42,180
+Aufgabenstellung legt allerdings den
+
+101
+00:03:42,180 --> 00:03:45,840
+Schwerpunkt fest. Die
+
+102
+00:03:45,840 --> 00:03:47,820
+Argumentationsstruktur bedarf, oder
+
+103
+00:03:47,820 --> 00:03:48,520
+wenn wir über die
+
+104
+00:03:48,520 --> 00:03:49,940
+Argumentationsstruktur sprechen,
+
+105
+00:03:50,160 --> 00:03:52,200
+bedarf es da einiger Hinweise. Das
+
+106
+00:03:52,200 --> 00:03:54,900
+heißt, wir müssen zuerst einige Dinge
+
+107
+00:03:54,900 --> 00:03:57,160
+veranschaulichen. Das heißt, wir
+
+108
+00:03:57,160 --> 00:04:00,080
+müssen einerseits überlegen, wie ist
+
+109
+00:04:00,080 --> 00:04:02,040
+die Anordnung der Argumente. Das
+
+110
+00:04:02,040 --> 00:04:03,580
+heißt, gibt es eine lineare
+
+111
+00:04:03,580 --> 00:04:07,880
+Ausrichtung wie vom Unwichtigen zum
+
+112
+00:04:07,880 --> 00:04:10,400
+Wichtigen oder umgekehrt? Oder sind
+
+113
+00:04:10,400 --> 00:04:13,240
+sie durcheinander gemischt? Wie ist
+
+114
+00:04:13,240 --> 00:04:15,160
+die Veranschaulichung der Argumente?
+
+115
+00:04:15,280 --> 00:04:17,180
+Gibt es Beispiele und Belege, zum
+
+116
+00:04:17,180 --> 00:04:18,720
+Beispiel Studien, Umfragen oder
+
+117
+00:04:18,720 --> 00:04:21,420
+Statistiken, sowie Untersuchungen und
+
+118
+00:04:21,420 --> 00:04:23,060
+sowie dann eben die Untersuchung, ob
+
+119
+00:04:23,060 --> 00:04:24,760
+die genannten Beispiele treffend
+
+120
+00:04:24,760 --> 00:04:27,040
+sind. Das heißt, sind es erfundene
+
+121
+00:04:27,040 --> 00:04:29,080
+Beispiele, sind es erfundene Belege
+
+122
+00:04:29,080 --> 00:04:32,020
+oder sind es geprüfte, originale,
+
+123
+00:04:32,020 --> 00:04:35,720
+existente, reale Beweise, die
+
+124
+00:04:35,720 --> 00:04:37,420
+angeführt werden. Wie ist die
+
+125
+00:04:37,420 --> 00:04:39,360
+Gestaltung der Gedankenführung? Das
+
+126
+00:04:39,360 --> 00:04:41,540
+heißt, gibt es eine stringente
+
+127
+00:04:41,540 --> 00:04:42,720
+Gedankenführung, gibt es
+
+128
+00:04:42,720 --> 00:04:44,560
+Abschweifungen, wie ist die
+
+129
+00:04:44,560 --> 00:04:45,620
+allgemeine Entwicklung des
+
+130
+00:04:45,620 --> 00:04:46,940
+Gedankenganges, wie ist die
+
+131
+00:04:46,940 --> 00:04:48,720
+Schlüssigkeit und Nachvollziehbarkeit
+
+132
+00:04:48,720 --> 00:04:50,720
+der einzelnen Argumente oder der
+
+133
+00:04:50,720 --> 00:04:52,160
+einzelnen Gedanken, die vorgetragen
+
+134
+00:04:52,160 --> 00:04:54,060
+werden und letztendlich, wie ist die
+
+135
+00:04:54,060 --> 00:04:56,140
+Wirkung der Argumente. Ist es eine
+
+136
+00:04:56,140 --> 00:04:58,000
+folgerichtige Argumentationsstruktur
+
+137
+00:04:58,000 --> 00:04:59,800
+mit der Wirkung der Intention des
+
+138
+00:04:59,800 --> 00:05:02,460
+Redners, also funktioniert die Rede,
+
+139
+00:05:02,680 --> 00:05:07,160
+hat sie ihre Absicht erreicht, wirkt
+
+140
+00:05:07,160 --> 00:05:08,540
+sie das, worauf sie erfolgt. abzielt.
+
+141
+00:05:08,620 --> 00:05:11,020
+Diese Fragen müssen wir uns während
+
+142
+00:05:11,020 --> 00:05:12,880
+der Analyse stellen, wenn wir uns
+
+143
+00:05:12,880 --> 00:05:13,940
+ausgiebig mit der
+
+144
+00:05:15,020 --> 00:05:16,080
+Argumentationsstruktur befassen
+
+145
+00:05:16,080 --> 00:05:19,950
+wollen. Wie ist so eine Redeanalyse
+
+146
+00:05:19,950 --> 00:05:22,750
+aufgebaut? Grundsätzlich folgt, wie
+
+147
+00:05:22,750 --> 00:05:26,150
+jede Analyse, auch eine Redeanalyse
+
+148
+00:05:26,150 --> 00:05:28,390
+dem analytischen Triplet. Das heißt,
+
+149
+00:05:28,510 --> 00:05:30,150
+sie wird geteilt in Einleitung,
+
+150
+00:05:30,210 --> 00:05:32,050
+Haupt, Schluss. Bei der Einleitung
+
+151
+00:05:32,050 --> 00:05:34,890
+nennen wir den Redner, den Titel der
+
+152
+00:05:34,890 --> 00:05:36,090
+Rede, der der meistens der
+
+153
+00:05:36,090 --> 00:05:38,010
+prägnanteste Satz einer Rede ist, wie
+
+154
+00:05:38,010 --> 00:05:39,850
+zum Beispiel Yes, we can von Barack
+
+155
+00:05:39,850 --> 00:05:43,030
+Obama oder I have a dream von Martin
+
+156
+00:05:43,030 --> 00:05:44,450
+Luther King oder Wollt ihr den
+
+157
+00:05:44,450 --> 00:05:46,230
+totalen Krieg von Joseph Goebbels.
+
+158
+00:05:47,970 --> 00:05:50,370
+Anschließend nennen wir das Thema Ort
+
+159
+00:05:50,370 --> 00:05:52,550
+und Zeit. Wir benennen die
+
+160
+00:05:52,550 --> 00:05:54,590
+Zuhörerschaft. Das kann einerseits
+
+161
+00:05:54,590 --> 00:05:57,950
+das amerikanische Volk und die
+
+162
+00:05:57,950 --> 00:06:00,550
+internationalen Zuhörer sein oder die
+
+163
+00:06:00,550 --> 00:06:03,630
+eingeladenen Personen im Sportpalast.
+
+164
+00:06:04,370 --> 00:06:05,970
+Das heißt, wir könnten sagen, die
+
+165
+00:06:05,970 --> 00:06:10,010
+nationalsozialistische Elite. Und was
+
+166
+00:06:10,010 --> 00:06:11,650
+ist der Anlass? Es kann einerseits
+
+167
+00:06:11,650 --> 00:06:12,970
+sein, die Mobilisierung aller
+
+168
+00:06:12,970 --> 00:06:17,890
+Deutschen zum Endsieg oder I have a
+
+169
+00:06:17,890 --> 00:06:20,810
+dream, der Aufruf gegen die
+
+170
+00:06:20,810 --> 00:06:23,710
+Diskriminierung von Afroamerikanern
+
+171
+00:06:23,710 --> 00:06:26,610
+und so weiter und so fort. Also
+
+172
+00:06:26,610 --> 00:06:28,230
+hierin müssen wir im Grunde genommen
+
+173
+00:06:28,230 --> 00:06:30,430
+das Oberflächliche, die
+
+174
+00:06:30,430 --> 00:06:32,010
+Rahmenbedingungen festlegen. Das
+
+175
+00:06:32,010 --> 00:06:33,090
+machen wir meistens mit einem
+
+176
+00:06:33,090 --> 00:06:34,690
+einleitenden Satz, in dem wir alle
+
+177
+00:06:34,690 --> 00:06:39,150
+Teile einmal benennen, die wir hier
+
+178
+00:06:39,150 --> 00:06:41,530
+gerade benannt haben. Im Hauptteil
+
+179
+00:06:41,530 --> 00:06:43,490
+gehen wir dann auf unterschiedliche
+
+180
+00:06:43,490 --> 00:06:45,250
+Punkte ein. Einerseits natürlich, wie
+
+181
+00:06:45,250 --> 00:06:47,010
+wir anfangs schon gesehen haben, die
+
+182
+00:06:47,010 --> 00:06:48,250
+Argumentationsstruktur und die
+
+183
+00:06:48,250 --> 00:06:50,650
+Sprachebene, aber vor allen Dingen
+
+184
+00:06:50,650 --> 00:06:54,630
+bewerten wir auch die Rederolle. Das
+
+185
+00:06:54,630 --> 00:06:55,930
+heißt, wir stellen uns die Frage, wie
+
+186
+00:06:55,930 --> 00:06:58,210
+versucht der Redner den Zuhörer zu
+
+187
+00:06:58,210 --> 00:07:00,370
+überzeugen? Dabei untersuchen wir
+
+188
+00:07:00,370 --> 00:07:01,630
+eben die Schlüssigkeit, die
+
+189
+00:07:01,630 --> 00:07:02,710
+Übersichtlichkeit und die
+
+190
+00:07:02,710 --> 00:07:05,030
+Anschaulichkeit des Vortrags, genauso
+
+191
+00:07:05,030 --> 00:07:07,010
+wie die Argumente und letztendlich
+
+192
+00:07:07,010 --> 00:07:08,310
+dann auch die sorgfältige
+
+193
+00:07:08,310 --> 00:07:11,290
+Sprachanalyse zur Durchleuchtung der
+
+194
+00:07:11,290 --> 00:07:13,770
+Strategie. Das heißt, wie ist das
+
+195
+00:07:13,770 --> 00:07:15,710
+Ganze vorgetragen? Gibt es eigene
+
+196
+00:07:15,710 --> 00:07:17,430
+Aufwertung? Gibt es Abwertung des
+
+197
+00:07:17,430 --> 00:07:19,990
+Gegners? Gibt es Beschwichtigung oder
+
+198
+00:07:19,990 --> 00:07:22,910
+emotionalisieren irgendwelche Dinge?
+
+199
+00:07:23,050 --> 00:07:24,690
+Wie ist die Nutzung der Rhetorik?
+
+200
+00:07:24,690 --> 00:07:26,830
+Welche Rhetorik wird benutzt oder
+
+201
+00:07:26,830 --> 00:07:29,130
+werden gewisse Fakten verzerrt,
+
+202
+00:07:29,130 --> 00:07:33,310
+sodass der Anschein entsteht, dass
+
+203
+00:07:33,310 --> 00:07:35,810
+einzelne Dinge zurechtgezogen wurden,
+
+204
+00:07:35,950 --> 00:07:37,750
+nur um den Redner in eine gute
+
+205
+00:07:37,750 --> 00:07:40,230
+Position zu bringen. Abschließend
+
+206
+00:07:40,230 --> 00:07:42,170
+beschäftigen wir uns dann mit den
+
+207
+00:07:42,170 --> 00:07:44,230
+Analyseergebnissen, das heißt, wir
+
+208
+00:07:44,230 --> 00:07:46,830
+können aus unseren Einschätzungen des
+
+209
+00:07:46,830 --> 00:07:48,950
+Hauptteils auf die Wirkung der Rede
+
+210
+00:07:48,950 --> 00:07:50,490
+und die Intention des Redners
+
+211
+00:07:50,490 --> 00:07:53,730
+Rückschlüsse anstellen, genauso wie
+
+212
+00:07:53,730 --> 00:07:56,090
+ein abschließendes Fazit liefern und
+
+213
+00:07:56,090 --> 00:07:58,030
+letztendlich eine Zukunftsaussicht
+
+214
+00:07:58,030 --> 00:07:59,770
+und eine eigene Beurteilung liefern,
+
+215
+00:07:59,770 --> 00:08:01,410
+in dem die letzten beiden Punkte
+
+216
+00:08:01,410 --> 00:08:02,810
+allerdings immer mit Vorsicht zu
+
+217
+00:08:02,810 --> 00:08:04,730
+beachten sind. Die sind meistens
+
+218
+00:08:04,730 --> 00:08:06,790
+entweder mit dem Fachlehrer vorher
+
+219
+00:08:06,790 --> 00:08:08,270
+abzusprechen, wenn es eine
+
+220
+00:08:08,270 --> 00:08:10,390
+Abiturprüfung ist, sollte das vorher
+
+221
+00:08:10,390 --> 00:08:13,310
+mit dem Deutschlehrer abgeklärt
+
+222
+00:08:13,310 --> 00:08:14,910
+werden, ob das gefragt ist oder
+
+223
+00:08:14,910 --> 00:08:18,410
+nicht. Ansonsten ist das zum Schluss
+
+224
+00:08:18,410 --> 00:08:21,030
+aufzuführen und zu überlegen in der
+
+225
+00:08:21,030 --> 00:08:23,050
+Zukunftsaussicht, inwieweit haben
+
+226
+00:08:23,050 --> 00:08:26,010
+sich die Dinge bewahrheitet,
+
+227
+00:08:26,010 --> 00:08:28,330
+inwieweit sind sie fehlgeschlagen Und
+
+228
+00:08:28,330 --> 00:08:30,630
+wie ist die eigene Beurteilung, wie
+
+229
+00:08:30,630 --> 00:08:34,550
+ist die eigene Empfindung zu der
+
+230
+00:08:34,550 --> 00:08:37,930
+Rede? Also nicht im Sinne von, wie
+
+231
+00:08:37,930 --> 00:08:40,130
+finde ich jetzt das Thema, sondern ob
+
+232
+00:08:40,130 --> 00:08:42,330
+die Rede Wirkung gezeigt hat, auch
+
+233
+00:08:42,330 --> 00:08:46,810
+auf die eigene Persönlichkeit. Die
+
+234
+00:08:46,810 --> 00:08:49,490
+Analyse und die rhetorischen Mittel
+
+235
+00:08:49,490 --> 00:08:51,730
+am Textbeispiel vorgestellt. Wir
+
+236
+00:08:51,730 --> 00:08:53,750
+sehen hier eine Antritts- oder wir
+
+237
+00:08:53,750 --> 00:08:55,370
+beschäftigen uns hier mit der
+
+238
+00:08:55,370 --> 00:08:58,430
+Antrittsrede des Präsidenten der
+
+239
+00:08:58,430 --> 00:08:59,710
+Vereinigten Staaten von Amerika,
+
+240
+00:08:59,810 --> 00:09:03,370
+Donald Trump, der am 20. Januar 2017
+
+241
+00:09:03,370 --> 00:09:06,810
+zum Präsidenten ernannt worden, also
+
+242
+00:09:06,810 --> 00:09:08,950
+vereidigt worden ist. Und wir schauen
+
+243
+00:09:08,950 --> 00:09:11,250
+uns seine Antrittsrede einmal an. Wir
+
+244
+00:09:11,250 --> 00:09:12,550
+beginnen mit der Einleitung.
+
+245
+00:09:13,990 --> 00:09:14,670
+Präsidentschaftsbeschreibung.
+
+246
+00:09:14,670 --> 00:09:15,810
+Präsident des obersten Gerichtshofs
+
+247
+00:09:15,810 --> 00:09:17,870
+Roberts, Präsident Carter, Präsident
+
+248
+00:09:17,870 --> 00:09:19,970
+Clinton, Präsident Bush, Präsident
+
+249
+00:09:19,970 --> 00:09:22,230
+Obama, meine amerikanischen Mitbürger
+
+250
+00:09:22,230 --> 00:09:23,750
+und Menschen aller Welt, ich danke
+
+251
+00:09:23,750 --> 00:09:26,890
+euch. Wir, die Bürger Amerikas, sind
+
+252
+00:09:26,890 --> 00:09:28,590
+nun in einer großen nationalen
+
+253
+00:09:28,590 --> 00:09:31,170
+Anstrengung geeint, unser Land wieder
+
+254
+00:09:31,170 --> 00:09:32,990
+aufzubauen und seine Hoffnung für
+
+255
+00:09:32,990 --> 00:09:35,370
+unser ganzes Volk wiederherzustellen.
+
+256
+00:09:36,150 --> 00:09:39,190
+Damit beginnt er seine Rede. Wir
+
+257
+00:09:39,190 --> 00:09:41,850
+beginnen nun die Analyse eben am
+
+258
+00:09:41,850 --> 00:09:44,810
+Textbeispiel und können hier sofort
+
+259
+00:09:44,810 --> 00:09:47,150
+unseren einleitenden Satz
+
+260
+00:09:47,150 --> 00:09:48,450
+formulieren, indem wir wie gesagt auf
+
+261
+00:09:48,450 --> 00:09:50,910
+Redner, Titel der Rede, Thema, Ort,
+
+262
+00:09:51,070 --> 00:09:52,750
+Zeit, Zureichschaft und Anlass
+
+263
+00:09:52,750 --> 00:09:54,930
+eingehen. Wir können also drei Punkte
+
+264
+00:09:54,930 --> 00:09:57,170
+konstatieren.
+
+265
+00:09:58,190 --> 00:10:00,870
+Denn aus Anlass seines Amtsantritts
+
+266
+00:10:00,870 --> 00:10:03,310
+als 45. Präsident der Vereinigten
+
+267
+00:10:03,310 --> 00:10:05,310
+Staaten von Amerika, hier geben wir
+
+268
+00:10:05,310 --> 00:10:07,850
+eben den Anlass teil, hielt der New
+
+269
+00:10:07,850 --> 00:10:09,730
+Yorker Unternehmer Donald Trump, wer
+
+270
+00:10:09,730 --> 00:10:12,090
+ist der Redner, seine Antrittsrede,
+
+271
+00:10:12,090 --> 00:10:16,010
+was passiert und wann, am 20. Januar
+
+272
+00:10:16,010 --> 00:10:18,650
+2017 an der Westfront, wo das Kapitol
+
+273
+00:10:18,650 --> 00:10:21,890
+ist in Washington DC. Thema. Trump
+
+274
+00:10:21,890 --> 00:10:24,170
+betont darin, dass die Macht, die in
+
+275
+00:10:24,170 --> 00:10:25,230
+den letzten Jahren durch seine
+
+276
+00:10:25,230 --> 00:10:26,450
+Vorgänger missbraucht, gebraucht
+
+277
+00:10:26,450 --> 00:10:29,370
+wurde, nun durch ihn wieder in die
+
+278
+00:10:29,370 --> 00:10:30,590
+Hände des patriotischen
+
+279
+00:10:30,590 --> 00:10:32,310
+amerikanischen Volkes zurückgelangen
+
+280
+00:10:32,310 --> 00:10:37,590
+würde. Dann die Zuhörerschaft, an wen
+
+281
+00:10:37,590 --> 00:10:39,950
+wendet er sich? Der Präsident richtet
+
+282
+00:10:39,950 --> 00:10:41,830
+sich mit seiner Rede insbesondere an
+
+283
+00:10:41,830 --> 00:10:43,570
+seine anwesenden Vorgänger, das
+
+284
+00:10:43,570 --> 00:10:45,970
+amerikanische Volk und internationale
+
+285
+00:10:45,970 --> 00:10:48,110
+Zuschauer. Zudem wendet er sich an
+
+286
+00:10:48,110 --> 00:10:49,730
+seine Kritiker sowie in- und
+
+287
+00:10:49,730 --> 00:10:51,970
+ausländische Pressevertreter. Wir
+
+288
+00:10:51,970 --> 00:10:53,910
+sehen hier, wir haben alles benannt,
+
+289
+00:10:53,930 --> 00:10:55,330
+was wir auf der linken Seite finden.
+
+290
+00:10:55,530 --> 00:10:57,390
+Wir haben das in drei Punkte
+
+291
+00:10:57,390 --> 00:10:59,210
+unterteilt. So können wir das auch
+
+292
+00:10:59,210 --> 00:11:01,270
+grundsätzlich für eine Analyse
+
+293
+00:11:01,270 --> 00:11:02,450
+machen. Das heißt, es muss nicht
+
+294
+00:11:02,450 --> 00:11:05,050
+alles in einen einleitenden Satz
+
+295
+00:11:05,050 --> 00:11:09,970
+gefasst werden, sondern es muss halt
+
+296
+00:11:09,970 --> 00:11:11,090
+ein ausformulierender,
+
+297
+00:11:11,090 --> 00:11:14,770
+allgemeingültiger Anfang gemacht
+
+298
+00:11:14,770 --> 00:11:18,560
+werden. Kommen wir nun zu einzelnen
+
+299
+00:11:18,560 --> 00:11:21,060
+Auszügen aus dem Textbeispiel. wir,
+
+300
+00:11:21,140 --> 00:11:23,140
+die Bürger Amerikas, sind nun in
+
+301
+00:11:23,140 --> 00:11:24,920
+einer großen nationalen Anstrengung
+
+302
+00:11:24,920 --> 00:11:26,780
+geeint, unser Land wieder aufzubauen
+
+303
+00:11:26,780 --> 00:11:28,700
+und seine Hoffnung für unser ganzes
+
+304
+00:11:28,700 --> 00:11:30,880
+Volk wiederherzustellen. Gemeinsam
+
+305
+00:11:30,880 --> 00:11:32,740
+werden wir den Kurs Amerikas und der
+
+306
+00:11:32,740 --> 00:11:34,780
+Welt für viele, viele Jahre lang
+
+307
+00:11:34,780 --> 00:11:36,840
+bestimmen. Es wird Herausforderungen
+
+308
+00:11:36,840 --> 00:11:38,120
+und schwierige Situationen geben,
+
+309
+00:11:38,300 --> 00:11:40,840
+aber wir werden es schaffen. Zu lange
+
+310
+00:11:40,840 --> 00:11:42,460
+hat eine kleine Gruppe in der
+
+311
+00:11:42,460 --> 00:11:44,040
+Hauptstadt unseres Landes von der
+
+312
+00:11:44,040 --> 00:11:46,300
+Regierung profitiert und das Volk hat
+
+313
+00:11:46,300 --> 00:11:47,860
+die Kosten getragen. Washington
+
+314
+00:11:47,860 --> 00:11:50,040
+blühte, aber das Volk hatte nichts
+
+315
+00:11:50,040 --> 00:11:52,560
+von dem Reichtum gehabt. Politikern
+
+316
+00:11:52,560 --> 00:11:54,320
+ging es gut, aber die Arbeitsplätze
+
+317
+00:11:54,320 --> 00:11:56,560
+wanderten ab und die Fabriken
+
+318
+00:11:56,560 --> 00:11:58,780
+schlossen. Das Establishment schützte
+
+319
+00:11:58,780 --> 00:12:00,320
+sich selbst, aber nicht die Bürger
+
+320
+00:12:00,320 --> 00:12:02,720
+unseres Landes. Ihre Siege waren
+
+321
+00:12:02,720 --> 00:12:04,940
+nicht eure Siege, ihre Triumphe waren
+
+322
+00:12:04,940 --> 00:12:07,780
+nicht eure Triumphe. Und während sie
+
+323
+00:12:07,780 --> 00:12:09,560
+in der Hauptstadt unseres Landes
+
+324
+00:12:09,560 --> 00:12:11,520
+feierten, gab es für Familie im
+
+325
+00:12:11,520 --> 00:12:14,140
+Existenzminimum in unserem Land wenig
+
+326
+00:12:14,140 --> 00:12:16,940
+zu feiern. Im Zentrum dieser Bewegung
+
+327
+00:12:16,940 --> 00:12:18,500
+steht die entscheidende Überzeugung,
+
+328
+00:12:18,540 --> 00:12:20,660
+dass die Nation da ist, um ihren
+
+329
+00:12:20,660 --> 00:12:22,840
+Bürgern zu dienen. Amerika wollen
+
+330
+00:12:22,840 --> 00:12:25,240
+tolle Schulen für ihre Kinder,
+
+331
+00:12:25,500 --> 00:12:27,340
+sichere Wohngegenden für ihre
+
+332
+00:12:27,340 --> 00:12:29,400
+Familien und gute Jobs für sich
+
+333
+00:12:29,400 --> 00:12:29,720
+selbst.
+
+334
+00:12:33,020 --> 00:12:34,700
+Amerikaner wollen tolle Schulen für
+
+335
+00:12:34,700 --> 00:12:36,760
+ihre Kinder, sichere Wohngegenden für
+
+336
+00:12:36,760 --> 00:12:38,640
+ihre Familien und gute Jobs für sich
+
+337
+00:12:38,640 --> 00:12:41,220
+selbst. Dies sind gerechtfertigte und
+
+338
+00:12:41,220 --> 00:12:42,880
+vernünftige Forderungen für
+
+339
+00:12:42,880 --> 00:12:45,580
+rechtschaffenden Menschen und einer
+
+340
+00:12:45,580 --> 00:12:47,520
+rechtschaffenden Weltöffentlichkeit.
+
+341
+00:12:49,940 --> 00:12:53,220
+Wir kommen nun zum Hauptteil unserer
+
+342
+00:12:53,220 --> 00:12:55,780
+Redeanalyse, in dem wir beispielhafte
+
+343
+00:12:55,780 --> 00:12:57,300
+Formulierungen einmal vorgestellt
+
+344
+00:12:57,300 --> 00:12:59,160
+finden. Wir gehen also nun auf die
+
+345
+00:12:59,160 --> 00:13:01,720
+Einschätzung der Rednerrolle. und
+
+346
+00:13:01,720 --> 00:13:03,620
+untersuchen die Schlüssigkeit und
+
+347
+00:13:03,620 --> 00:13:05,000
+Übersichtlichkeit sowie die
+
+348
+00:13:05,000 --> 00:13:08,220
+Anschaulichkeit des Vortrages, also
+
+349
+00:13:08,220 --> 00:13:09,560
+der vorgebrachten Argumente.
+
+350
+00:13:10,340 --> 00:13:12,100
+Einleitend stellt Präsident Trump
+
+351
+00:13:12,100 --> 00:13:14,060
+sich auf die Seite des amerikanischen
+
+352
+00:13:14,060 --> 00:13:16,220
+Volkes und unterstreicht somit seine
+
+353
+00:13:16,220 --> 00:13:18,880
+Verbundenheit mit ihm. Er motiviert
+
+354
+00:13:18,880 --> 00:13:20,760
+seine Zuhörer, dessen Amtszeit zu
+
+355
+00:13:20,760 --> 00:13:22,480
+unterstützen, indem er ihnen
+
+356
+00:13:22,480 --> 00:13:25,520
+verspricht, Politik für das Volk und
+
+357
+00:13:25,520 --> 00:13:27,400
+wieder des Establishments zu handeln.
+
+358
+00:13:27,400 --> 00:13:30,600
+Trump führt wiederholt Beispiele an,
+
+359
+00:13:30,680 --> 00:13:32,580
+in denen dessen Vorgänger Regierungen
+
+360
+00:13:32,580 --> 00:13:34,720
+scheinbar versagt haben. Hierbei
+
+361
+00:13:34,720 --> 00:13:36,260
+nimmt er keine Rücksicht auf die
+
+362
+00:13:36,260 --> 00:13:37,840
+Fundiertheit und Korrektheit der
+
+363
+00:13:37,840 --> 00:13:40,200
+Anschuldigung. Seine Ausführungen
+
+364
+00:13:40,200 --> 00:13:41,840
+folgen allermeist der Schilderung
+
+365
+00:13:41,840 --> 00:13:43,700
+negativer Auswirkungen vorheriger
+
+366
+00:13:43,700 --> 00:13:46,180
+Politik und der positiven Darstellung
+
+367
+00:13:46,180 --> 00:13:50,880
+seiner Vorhaben für Amerika. Wir
+
+368
+00:13:50,880 --> 00:13:52,800
+gehen also weiter und müssen nun
+
+369
+00:13:52,800 --> 00:13:55,180
+einige Überlegungen anstellen. Wir
+
+370
+00:13:55,180 --> 00:13:57,240
+überlegen, die Rede von Trump sollte
+
+371
+00:13:57,240 --> 00:13:58,840
+in einen gesellschaftlichen Kontext
+
+372
+00:13:58,840 --> 00:14:00,720
+eingeordnet werden können. Das heißt,
+
+373
+00:14:00,820 --> 00:14:02,140
+wir stellen uns die Frage, wie
+
+374
+00:14:02,140 --> 00:14:04,080
+verlief der Wahlkampf? Welche
+
+375
+00:14:04,080 --> 00:14:05,640
+Ereignisse oder gesellschaftlichen
+
+376
+00:14:05,640 --> 00:14:07,860
+Ströme waren zu der Zeit in den USA
+
+377
+00:14:07,860 --> 00:14:10,580
+erkennbar und vorherrschend? Wie
+
+378
+00:14:10,580 --> 00:14:12,600
+waren die medial-gesellschaftlichen
+
+379
+00:14:12,600 --> 00:14:14,280
+und weltpolitischen Reaktionen auf
+
+380
+00:14:14,280 --> 00:14:17,500
+seinen Wahlsieg? Zudem sollte
+
+381
+00:14:17,500 --> 00:14:19,580
+aufgezeigt werden, welche Wirkung die
+
+382
+00:14:19,580 --> 00:14:21,140
+Rede auf differenziertere
+
+383
+00:14:21,140 --> 00:14:24,740
+Zuhörerschaft hat. Wer fühlt sich
+
+384
+00:14:24,740 --> 00:14:26,720
+besonders angesprochen und wer nicht?
+
+385
+00:14:28,300 --> 00:14:29,480
+Welche Argumentationsstruktur lässt
+
+386
+00:14:29,480 --> 00:14:30,860
+sich darstellen? Hier gehen wir eben
+
+387
+00:14:30,860 --> 00:14:33,080
+auf die Punkte ein, die wir vorher
+
+388
+00:14:33,080 --> 00:14:35,180
+beleuchtet haben, als wir über die
+
+389
+00:14:35,180 --> 00:14:37,520
+Argumentationsstruktur sprachen. Wie
+
+390
+00:14:37,520 --> 00:14:40,000
+ist diese aufgebaut? Welche Mimik und
+
+391
+00:14:40,000 --> 00:14:43,680
+Gestik wird verwendet? Also wird vom
+
+392
+00:14:43,680 --> 00:14:46,340
+Redner verwendet. Dabei müssen wir
+
+393
+00:14:46,340 --> 00:14:47,680
+immer bedenken, wenn wir die Rede
+
+394
+00:14:47,680 --> 00:14:50,240
+sehen, ist das uns möglich. wenn wir
+
+395
+00:14:50,240 --> 00:14:52,980
+eine Abschrift der Rede im Nachgang
+
+396
+00:14:52,980 --> 00:14:54,960
+haben, dann sehen wir auch im
+
+397
+00:14:54,960 --> 00:14:59,140
+Nebentext gekennzeichneten Jubel,
+
+398
+00:14:59,140 --> 00:15:01,360
+Applaus, Buhrufe, Zustimmung,
+
+399
+00:15:01,460 --> 00:15:03,960
+Ablehnung. Das heißt, wir können auch
+
+400
+00:15:03,960 --> 00:15:07,220
+Überlegungen
+
+401
+00:15:07,220 --> 00:15:08,780
+oder Rückschlüsse auf die
+
+402
+00:15:08,780 --> 00:15:10,640
+Zuhörerschaft anstellen und eben auch
+
+403
+00:15:10,640 --> 00:15:12,100
+auf die Mimik und Gestik des Rednern.
+
+404
+00:15:12,200 --> 00:15:15,160
+Wenn wir die Rede nur als Text, als
+
+405
+00:15:15,160 --> 00:15:17,660
+Rotext haben, dann können wir diesen
+
+406
+00:15:17,660 --> 00:15:20,260
+Punkt wenig bis gar nicht
+
+407
+00:15:20,260 --> 00:15:23,460
+analysieren. Dann müssen wir einen
+
+408
+00:15:23,460 --> 00:15:26,880
+ganz wichtigen Punkt ansprechen, und
+
+409
+00:15:26,880 --> 00:15:28,540
+zwar welche Rhetorik verwendet der
+
+410
+00:15:28,540 --> 00:15:30,620
+Redner und gibt es wiederkehrende
+
+411
+00:15:30,620 --> 00:15:34,550
+Merkmale. Rhetorische Stilmittel
+
+412
+00:15:34,550 --> 00:15:36,370
+ermöglichen es uns, wenn wir darüber
+
+413
+00:15:36,370 --> 00:15:37,950
+sprechen, die Aufmerksamkeit des
+
+414
+00:15:37,950 --> 00:15:40,250
+Publikums zu erwecken, wichtige
+
+415
+00:15:40,250 --> 00:15:42,830
+Aspekte zu betonen, die Zuhörerschaft
+
+416
+00:15:42,830 --> 00:15:44,750
+von einem Standpunkt zu überzeugen,
+
+417
+00:15:44,750 --> 00:15:47,390
+Bilder im Kopf des Zuhörers zu
+
+418
+00:15:47,390 --> 00:15:49,310
+erzeugen, einen komplizierten
+
+419
+00:15:49,310 --> 00:15:51,530
+Sachverhalt verständlich zu machen
+
+420
+00:15:51,530 --> 00:15:54,110
+oder zu vereinfachen, das Publikum
+
+421
+00:15:54,110 --> 00:15:55,850
+von der eigenen Kreativität zu
+
+422
+00:15:55,850 --> 00:15:58,330
+überzeugen und Emotionen auszulösen.
+
+423
+00:16:00,220 --> 00:16:02,560
+Also Emotionen beim Publikum, beim
+
+424
+00:16:02,560 --> 00:16:05,540
+Zuhörer auszulösen. Schauen wir uns
+
+425
+00:16:05,540 --> 00:16:08,080
+nun ein paar rhetorische Mittel an,
+
+426
+00:16:08,140 --> 00:16:10,340
+die für die Analyse einer oder die in
+
+427
+00:16:10,340 --> 00:16:14,340
+der allgemeinen Rednerrhetorik gängig
+
+428
+00:16:14,340 --> 00:16:16,460
+sind. Dabei sprechen wir über die
+
+429
+00:16:16,460 --> 00:16:19,080
+Allegorie, das heißt etwas Abstraktes
+
+430
+00:16:19,080 --> 00:16:20,460
+wird durch etwas Konkretes
+
+431
+00:16:20,460 --> 00:16:22,400
+dargestellt, Amor für Liebe, Waage
+
+432
+00:16:22,400 --> 00:16:24,100
+für Gerechtigkeit oder Taube für
+
+433
+00:16:24,100 --> 00:16:26,080
+Frieden. Dabei stellen wir fest, dass
+
+434
+00:16:26,080 --> 00:16:28,680
+es auch einige Symbole gibt. Es gibt
+
+435
+00:16:28,680 --> 00:16:30,540
+zum Beispiel auch den Sensemann für
+
+436
+00:16:30,540 --> 00:16:34,100
+den Tod. Das heißt abstrakte Dinge
+
+437
+00:16:34,100 --> 00:16:35,620
+werden verbildlicht und damit
+
+438
+00:16:35,620 --> 00:16:37,840
+greifbar und verständlicher. Die
+
+439
+00:16:37,840 --> 00:16:39,720
+Alliteration ist die Wiederholung von
+
+440
+00:16:39,720 --> 00:16:42,060
+Anfangsbuchstaben bzw. anfänglicher
+
+441
+00:16:42,060 --> 00:16:44,040
+Klänge, zum Beispiel durch dick und
+
+442
+00:16:44,040 --> 00:16:46,860
+dünn. Veni, vidi, vici. Das ist ein
+
+443
+00:16:46,860 --> 00:16:48,440
+eindringlicher Klang, der sich
+
+444
+00:16:48,440 --> 00:16:51,860
+einprägt. Das heißt, wichtige Dinge,
+
+445
+00:16:51,960 --> 00:16:54,000
+die
+
+446
+00:16:57,870 --> 00:17:03,090
+im Kopf bleiben sollen, die werden
+
+447
+00:17:03,090 --> 00:17:05,310
+eben durch diese Alliteration sehr
+
+448
+00:17:05,310 --> 00:17:09,970
+einprägsam. einprägsam. Die Anapha
+
+449
+00:17:09,970 --> 00:17:11,370
+ist die Wiederholung mehrerer Sätze
+
+450
+00:17:11,370 --> 00:17:13,070
+oder mehrerer Satzteile, wie zum
+
+451
+00:17:13,070 --> 00:17:14,710
+Beispiel mein Haus, mein Auto, mein
+
+452
+00:17:14,710 --> 00:17:18,270
+Boot, alles in gleicher Wiederholung,
+
+453
+00:17:18,270 --> 00:17:20,150
+alles mit einem Possessivpronomen
+
+454
+00:17:21,150 --> 00:17:22,870
+verbunden, das heißt, wichtige Punkte
+
+455
+00:17:22,870 --> 00:17:25,370
+werden unterstrichen und im Grunde
+
+456
+00:17:25,370 --> 00:17:29,070
+genommen auf die gleiche Stufe
+
+457
+00:17:29,070 --> 00:17:33,190
+gestellt. Der Klimax ist eine Leiter
+
+458
+00:17:33,190 --> 00:17:34,710
+oder eine Steigerung oder der
+
+459
+00:17:34,710 --> 00:17:37,030
+Intensität einer Aussage, zum
+
+460
+00:17:37,030 --> 00:17:38,330
+Beispiel das berühmte vom
+
+461
+00:17:38,330 --> 00:17:40,170
+Tellerwäscher zum Millionär, das
+
+462
+00:17:40,170 --> 00:17:42,110
+erhält eine gewisse Dramatik und eine
+
+463
+00:17:42,110 --> 00:17:44,670
+Betonung von zentralen Aspekten, die
+
+464
+00:17:44,670 --> 00:17:45,790
+letztendlich dann auch eine
+
+465
+00:17:45,790 --> 00:17:47,510
+emotionale Wirkung haben, denn sie
+
+466
+00:17:47,510 --> 00:17:48,670
+sind gesteigert bei einem
+
+467
+00:17:48,670 --> 00:17:51,730
+Spannungsmoment. Die Antithese ist
+
+468
+00:17:51,730 --> 00:17:54,490
+eine Gegenbehauptung, dabei stellt
+
+469
+00:17:54,490 --> 00:17:56,170
+man zwei Dinge gegeneinander, zum
+
+470
+00:17:56,170 --> 00:17:57,890
+Beispiel die Kunst ist lang und kurz
+
+471
+00:17:57,890 --> 00:17:59,670
+ist ist unser Leben. Dabei ist die
+
+472
+00:17:59,670 --> 00:18:01,950
+Entkräftung von Argumenten meistens
+
+473
+00:18:01,950 --> 00:18:03,730
+gewollt.
+
+474
+00:18:05,150 --> 00:18:08,050
+Der Euphemismus ist eine gewisse
+
+475
+00:18:08,050 --> 00:18:10,470
+Beschönigung. Das heißt, wir sehen
+
+476
+00:18:10,470 --> 00:18:12,610
+uns das mal am Beispiel an. Es wurden
+
+477
+00:18:12,610 --> 00:18:14,510
+zehn Mitarbeiter freigestellt,
+
+478
+00:18:14,510 --> 00:18:16,190
+anstelle von gekündigt oder
+
+479
+00:18:16,190 --> 00:18:20,210
+entlassen. Dabei ist die Absicht,
+
+480
+00:18:20,270 --> 00:18:23,290
+prekäre
+
+481
+00:18:23,290 --> 00:18:26,850
+Themen abzuschwächen und seicht dazu.
+
+482
+00:18:27,070 --> 00:18:30,310
+Die Mythonomie ist die Umbenennung
+
+483
+00:18:30,310 --> 00:18:32,230
+oder das Ersetzen des eigentlichen
+
+484
+00:18:32,230 --> 00:18:34,990
+Begriffes, zum Beispiel Person statt
+
+485
+00:18:34,990 --> 00:18:36,770
+Sache oder Abstraktum statt
+
+486
+00:18:36,770 --> 00:18:39,450
+Konkretum, zum Beispiel Bacchus statt
+
+487
+00:18:39,450 --> 00:18:41,190
+Wein oder Griechenland statt die
+
+488
+00:18:41,190 --> 00:18:43,090
+griechische Regierung, eben das, was
+
+489
+00:18:43,090 --> 00:18:44,650
+Trump vorhin auch gemacht hat, das
+
+490
+00:18:44,650 --> 00:18:47,350
+heißt Washington DC als im Grunde
+
+491
+00:18:47,350 --> 00:18:49,250
+genommen die amerikanische Regierung
+
+492
+00:18:49,250 --> 00:18:53,150
+zu benennen.
+
+493
+00:18:54,450 --> 00:18:56,910
+Dadurch erhält sich ein lebendigeres
+
+494
+00:18:56,910 --> 00:18:58,870
+und authentischeres Gestalten eines
+
+495
+00:18:58,870 --> 00:19:01,530
+Umstandes und letztendlich auch hier
+
+496
+00:19:01,530 --> 00:19:08,150
+wieder die Greifbarkeit von größeren
+
+497
+00:19:08,150 --> 00:19:11,170
+Themen. Das heißt, man kann sich
+
+498
+00:19:11,170 --> 00:19:13,310
+besser ein Washington D.C. vorstellen
+
+499
+00:19:13,310 --> 00:19:15,210
+als die amerikanische Regierung mit
+
+500
+00:19:15,210 --> 00:19:16,730
+ihren einzelnen Gesichtern. Wenn man
+
+501
+00:19:16,730 --> 00:19:19,170
+über Washington D.C. oder das Kapitol
+
+502
+00:19:19,170 --> 00:19:21,090
+spricht, dann weiß man, dass damit
+
+503
+00:19:21,090 --> 00:19:23,010
+der Regierungsapparat insgesamt
+
+504
+00:19:23,010 --> 00:19:25,350
+gemeint ist, ohne das konkret zu
+
+505
+00:19:25,350 --> 00:19:27,150
+benennen. Das heißt, wir vereinfachen
+
+506
+00:19:27,150 --> 00:19:29,030
+auch etwas. Wir brechen etwas runter.
+
+507
+00:19:29,370 --> 00:19:32,470
+Die Metapher ist die allgemeingültige
+
+508
+00:19:32,470 --> 00:19:34,310
+Übertragung oder ein
+
+509
+00:19:34,310 --> 00:19:37,630
+allgemeingültiger Ausdruck, der durch
+
+510
+00:19:37,630 --> 00:19:39,590
+etwas Anschaulicheres ersetzt wird.
+
+511
+00:19:39,590 --> 00:19:41,010
+Das heißt den Überflieger oder die
+
+512
+00:19:41,010 --> 00:19:42,750
+Fahrstuhlmannschaft, das sind
+
+513
+00:19:42,750 --> 00:19:44,170
+bildhafte Darsteller mit einer
+
+514
+00:19:44,170 --> 00:19:45,690
+besonderen Betonung auf ihrer
+
+515
+00:19:45,690 --> 00:19:46,330
+Eigenschaft.
+
+516
+00:19:50,270 --> 00:19:51,930
+Die Personifikation ist die
+
+517
+00:19:51,930 --> 00:19:54,150
+Vermenschlichung von Dingen, Tieren
+
+518
+00:19:54,150 --> 00:19:56,250
+oder Gegenständen oder auch Pflanzen.
+
+519
+00:19:56,510 --> 00:19:59,130
+Dabei ist zum Beispiel der Windpfiff
+
+520
+00:19:59,130 --> 00:20:01,170
+ein trauriges Lied, dabei fängt dann
+
+521
+00:20:01,170 --> 00:20:04,150
+der Wind an zu pfeifen. Dann noch ein
+
+522
+00:20:04,150 --> 00:20:05,730
+trauriges Lied dazu, dafür wird
+
+523
+00:20:05,730 --> 00:20:07,630
+Sprache lebendiger und anschaulicher.
+
+524
+00:20:09,530 --> 00:20:11,310
+Auch in irgendeiner Art und Weise
+
+525
+00:20:11,310 --> 00:20:13,130
+authentischer. Rhetorische Fragen
+
+526
+00:20:13,130 --> 00:20:16,010
+wollen die Überzeugung des Publikums
+
+527
+00:20:16,010 --> 00:20:17,870
+hervorrufen. Dabei wird Provokation
+
+528
+00:20:17,870 --> 00:20:21,270
+oder wahre Zustimmung gewollt. Das
+
+529
+00:20:21,270 --> 00:20:22,650
+ist das berühmte, wollt ihr den
+
+530
+00:20:22,650 --> 00:20:24,590
+totalen Krieg und alle schreien ja.
+
+531
+00:20:25,430 --> 00:20:27,670
+Würden sie ihr Geld verbrennen? Nein.
+
+532
+00:20:29,590 --> 00:20:31,530
+Oxymoron ist der Widerspruch, zum
+
+533
+00:20:31,530 --> 00:20:32,930
+Beispiel der schwarze Schimmel oder
+
+534
+00:20:32,930 --> 00:20:34,850
+unsichtbar sichtbar. Dabei ist die
+
+535
+00:20:34,850 --> 00:20:37,130
+Betonung von innerer Zerrissenheit
+
+536
+00:20:37,130 --> 00:20:39,330
+und Mehrdeutigkeit klar. Oder auch
+
+537
+00:20:39,330 --> 00:20:41,770
+das Gegenspielen von Dinge passen
+
+538
+00:20:41,770 --> 00:20:43,030
+nicht zusammen, um das zu
+
+539
+00:20:43,030 --> 00:20:46,530
+verdeutlichen. Gut, nun gehen wir
+
+540
+00:20:46,530 --> 00:20:48,270
+zurück auf die Rede, die wir uns
+
+541
+00:20:48,270 --> 00:20:51,470
+vorhin angeschaut haben und benennen
+
+542
+00:20:51,470 --> 00:20:52,970
+ein paar rhetorische Mittel. Zum
+
+543
+00:20:52,970 --> 00:20:55,250
+Beispiel, Washington blühte, aber das
+
+544
+00:20:55,250 --> 00:20:56,710
+Volk hat nichts von dem Reichtum
+
+545
+00:20:56,710 --> 00:20:58,250
+gehabt. Hier reden wir ganz klar über
+
+546
+00:20:58,250 --> 00:21:00,270
+eine Mythonomie. Wir gehen nochmal
+
+547
+00:21:00,270 --> 00:21:01,890
+zurück und stellen uns vor, wir haben
+
+548
+00:21:01,890 --> 00:21:03,070
+hier die Umbenennung oder das
+
+549
+00:21:03,070 --> 00:21:04,250
+Ersetzen eines eigentlichen
+
+550
+00:21:04,250 --> 00:21:05,910
+Begriffes. Wir hatten da eingangs
+
+551
+00:21:05,910 --> 00:21:07,490
+über Griechenland oder Washington
+
+552
+00:21:07,490 --> 00:21:10,430
+gesprochen. Hier haben wir nämlich
+
+553
+00:21:10,430 --> 00:21:12,350
+das Washington, wovon wir gerade
+
+554
+00:21:12,350 --> 00:21:14,510
+redeten. Washington blühte, aber das
+
+555
+00:21:14,510 --> 00:21:16,010
+Volk hat nichts vom Reichtum gehabt.
+
+556
+00:21:16,010 --> 00:21:18,050
+habt, auch das Blühen, ne, ist ja
+
+557
+00:21:18,050 --> 00:21:19,910
+etwas, hier, wenn wir so wollen, eine
+
+558
+00:21:19,910 --> 00:21:22,130
+Personifikation der eigentlichen
+
+559
+00:21:22,130 --> 00:21:25,490
+Stadt, ja, ich meine, gut, auch
+
+560
+00:21:25,490 --> 00:21:27,190
+Menschen können nicht, können nicht
+
+561
+00:21:27,190 --> 00:21:28,750
+blühen, aber damit ist ja klar, was
+
+562
+00:21:28,750 --> 00:21:31,470
+gemeint ist, das ist euer Land, dies
+
+563
+00:21:31,470 --> 00:21:33,390
+ist eure Feier und dies, die
+
+564
+00:21:33,390 --> 00:21:35,610
+Vereinigten Staaten von Amerika, ist
+
+565
+00:21:35,610 --> 00:21:37,450
+euer Land, wir werden unsere
+
+566
+00:21:37,450 --> 00:21:38,890
+Arbeitsplätze zurückbringen, wir
+
+567
+00:21:38,890 --> 00:21:40,430
+werden unsere Grenzen zurückholen,
+
+568
+00:21:40,450 --> 00:21:41,490
+wir werden unsere Träume
+
+569
+00:21:41,490 --> 00:21:42,870
+zurückbringen, Wir werden unsere
+
+570
+00:21:42,870 --> 00:21:46,410
+Träume zurückbringen. Wir teilen ein
+
+571
+00:21:46,410 --> 00:21:48,630
+Herz, eine Heimat und ein ruhmreiches
+
+572
+00:21:48,630 --> 00:21:50,970
+Schicksal. Zu guter Letzt müssen wir
+
+573
+00:21:50,970 --> 00:21:53,270
+groß denken und noch größer träumen.
+
+574
+00:21:53,290 --> 00:21:55,170
+Ein Klimaxen, groß, größer.
+
+575
+00:21:57,600 --> 00:22:00,200
+Die Kernelemente sind grundsätzlich
+
+576
+00:22:00,200 --> 00:22:03,480
+so, dass die Kernelemente seiner
+
+577
+00:22:03,480 --> 00:22:05,500
+Rede, wenn wir die kurz analysieren
+
+578
+00:22:05,500 --> 00:22:07,220
+wollen und das zusammenfassen wollen,
+
+579
+00:22:07,400 --> 00:22:08,640
+dass dann letztendlich auch für
+
+580
+00:22:08,640 --> 00:22:10,220
+unsere Analyse wichtig ist. Das
+
+581
+00:22:10,220 --> 00:22:11,820
+heißt, diese Punkte müssten genannt
+
+582
+00:22:11,820 --> 00:22:14,200
+werden. fußt auf Wiederholung an
+
+583
+00:22:14,200 --> 00:22:16,360
+Laffen und Alliteration. Seine
+
+584
+00:22:16,360 --> 00:22:17,440
+Kernaussagen formuliert er
+
+585
+00:22:17,440 --> 00:22:19,840
+wiederholend. Vermeidung schwieriger
+
+586
+00:22:19,840 --> 00:22:21,400
+Wörter und Fachthemiologie, das
+
+587
+00:22:21,400 --> 00:22:22,820
+heißt, die Sprache bedient sich
+
+588
+00:22:22,820 --> 00:22:24,600
+vieler drastischer Formulierungen,
+
+589
+00:22:24,600 --> 00:22:26,300
+wie zum Beispiel dem Klimax. Wir
+
+590
+00:22:26,300 --> 00:22:27,780
+werden unsere alten Allianz sehen,
+
+591
+00:22:27,860 --> 00:22:29,820
+unsere neuen Zivilisationen. Trump
+
+592
+00:22:29,820 --> 00:22:31,860
+benutzt eine sehr einfache Sprache,
+
+593
+00:22:31,860 --> 00:22:33,440
+Wie wir schon sagten, die Vermeidung
+
+594
+00:22:33,440 --> 00:22:34,140
+schwieriger Wörter und
+
+595
+00:22:34,140 --> 00:22:35,660
+Fachterminologie. Wirkung auf den
+
+596
+00:22:35,660 --> 00:22:37,440
+Zuhörer ist ein Mann des Volkes.
+
+597
+00:22:38,040 --> 00:22:40,360
+Trump vermeidet dadurch dann auch
+
+598
+00:22:40,360 --> 00:22:42,300
+eine einfache Sprache durch die
+
+599
+00:22:42,300 --> 00:22:44,360
+Vermeidung komplizierter
+
+600
+00:22:44,360 --> 00:22:46,420
+Satzkonstruktionen. Er bevorzugt also
+
+601
+00:22:46,420 --> 00:22:48,040
+die einfache Hauptsatz
+
+602
+00:22:48,040 --> 00:22:49,360
+-Andeinandersetzung, die in sich
+
+603
+00:22:49,360 --> 00:22:52,460
+Parataxe. Es sollte keine Angst
+
+604
+00:22:52,460 --> 00:22:54,140
+geben. Punkt. Wir sind beschützt und
+
+605
+00:22:54,140 --> 00:22:55,300
+wir werden beschützt sein. also
+
+606
+00:22:55,300 --> 00:22:57,380
+Subjekt, Objekt, Prädikat oder
+
+607
+00:22:57,380 --> 00:22:59,280
+Subjekt, Prädikat, Objekt, wenn wir
+
+608
+00:22:59,280 --> 00:23:00,700
+das jetzt nicht aus dem Englischen
+
+609
+00:23:00,700 --> 00:23:01,640
+nehmen, sondern aus dem Deutschen,
+
+610
+00:23:01,800 --> 00:23:03,480
+dann haben wir eine einfache
+
+611
+00:23:03,480 --> 00:23:04,600
+Hauptsatzanreihung.
+
+612
+00:23:07,160 --> 00:23:09,020
+Abschließend sehen wir hier noch die
+
+613
+00:23:09,020 --> 00:23:11,580
+allgemeine Rede von Trump. Wir können
+
+614
+00:23:11,580 --> 00:23:13,100
+also hier auch feststellen, es werden
+
+615
+00:23:13,100 --> 00:23:15,900
+einige Dinge dick gedruckt. Das sind
+
+616
+00:23:15,900 --> 00:23:17,420
+einzelne Abschnitte, die finden wir
+
+617
+00:23:17,420 --> 00:23:21,580
+auch so im Druck, um uns zu
+
+618
+00:23:21,580 --> 00:23:23,720
+orientieren. Wichtig ist zu sagen bei
+
+619
+00:23:23,720 --> 00:23:26,160
+der Analyse, eine Rede, dass
+
+620
+00:23:26,160 --> 00:23:29,100
+unterschiedliche Dinge benannt
+
+621
+00:23:29,100 --> 00:23:32,060
+werden, dass wir darauf schauen,
+
+622
+00:23:32,240 --> 00:23:34,820
+einzelne Dinge zu beleuchten, in den
+
+623
+00:23:34,820 --> 00:23:36,200
+Kontext zu setzen und dann
+
+624
+00:23:36,200 --> 00:23:38,100
+abschließend das auszuformulieren, so
+
+625
+00:23:38,100 --> 00:23:41,380
+wie wir es hier in Kurzform einmal
+
+626
+00:23:41,380 --> 00:23:44,360
+stichpunktartig aufgezählt haben,
+
+627
+00:23:44,520 --> 00:23:46,160
+also sowohl die Rhetorik als auch die
+
+628
+00:23:46,160 --> 00:23:48,820
+Sprache als auch den Inhalt zusammen
+
+629
+00:23:48,820 --> 00:23:50,460
+zu beleuchten. Wir haben uns auch
+
+630
+00:23:50,460 --> 00:23:54,120
+angeschaut,
+
+631
+00:23:54,120 --> 00:23:55,940
+wie man das formulieren kann,
+
+632
+00:23:56,100 --> 00:23:58,300
+einzelne Dinge zu formulieren. So
+
+633
+00:23:58,300 --> 00:24:00,080
+sollte der Hauptteil aussehen. Zack,
+
+634
+00:24:00,260 --> 00:24:03,280
+einzelne Punkte aneinandergereiht,
+
+635
+00:24:03,300 --> 00:24:05,180
+die sollten verbunden sein. Es ist
+
+636
+00:24:05,180 --> 00:24:07,200
+sehr wichtig, grundsätzlich auf die
+
+637
+00:24:07,200 --> 00:24:14,400
+allgemeingültigen Analyse-Elemente
+
+638
+00:24:16,830 --> 00:24:18,830
+zurückzugreifen, wie Konjunktionen
+
+639
+00:24:18,830 --> 00:24:20,910
+die verbinden, daraufhin anschließend
+
+640
+00:24:20,910 --> 00:24:23,690
+ist. sollte auch gezeigt werden oder
+
+641
+00:24:23,690 --> 00:24:28,550
+auch eben hier die Verknüpfung
+
+642
+00:24:28,550 --> 00:24:31,310
+einzelner Elemente wie der
+
+643
+00:24:31,310 --> 00:24:32,410
+Schlüssigkeit, der Übersichtlichkeit
+
+644
+00:24:32,410 --> 00:24:34,550
+und der Anschaulichkeit oder der
+
+645
+00:24:34,550 --> 00:24:37,670
+Rhetorik, so wie wir das hier im
+
+646
+00:24:37,670 --> 00:24:38,910
+Nachgang gemacht haben. Also wir
+
+647
+00:24:38,910 --> 00:24:40,390
+stellen einzelne Dinge fest und wir
+
+648
+00:24:40,390 --> 00:24:41,950
+sollten uns immer fragen, die
+
+649
+00:24:41,950 --> 00:24:43,210
+Rhetorik ist kein Selbstzweck,
+
+650
+00:24:43,250 --> 00:24:44,490
+sondern die Rhetorik hat immer eine
+
+651
+00:24:44,490 --> 00:24:46,770
+Absicht, die Funktion ist hierbei
+
+652
+00:24:46,770 --> 00:24:48,030
+maßgeblich.
+
+653
+00:24:50,810 --> 00:24:54,390
+Gut, sollten keine Fragen mehr sein,
+
+654
+00:24:54,450 --> 00:24:56,590
+bedanke ich mich fürs Zuhören und
+
+655
+00:24:56,590 --> 00:24:59,590
+sage bis bald. Tschüss.
+

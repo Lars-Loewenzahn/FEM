@@ -1,0 +1,615 @@
+﻿1
+00:00:00,400 --> 00:00:01,800
+Hello and welcome to the learning video 
+
+2
+00:00:01,800 --> 00:00:03,740
+from Schülerhilfe. This video is 
+
+3
+00:00:03,740 --> 00:00:04,960
+about the so-called 
+
+4
+00:00:04,960 --> 00:00:06,660
+combinatorial counting methods, 
+
+5
+00:00:06,660 --> 00:00:08,700
+and in particular about 
+
+6
+00:00:08,700 --> 00:00:10,540
+ordered random sampling. There is also 
+
+7
+00:00:10,540 --> 00:00:11,960
+a video on unordered 
+
+8
+00:00:11,960 --> 00:00:13,960
+random sampling. But what does ordered 
+sampling mean 
+
+9
+00:00:13,960 --> 00:00:15,780
+? 
+
+10
+00:00:16,120 --> 00:00:18,060
+Ordered means that the order 
+
+11
+00:00:18,060 --> 00:00:20,060
+is important. In other words, ordered 
+
+12
+00:00:20,060 --> 00:00:22,820
+sampling can be equated 
+
+13
+00:00:22,820 --> 00:00:25,600
+with observing the order. But 
+
+14
+00:00:25,600 --> 00:00:27,220
+there are also two 
+
+15
+00:00:27,220 --> 00:00:29,900
+differences. One is 
+
+16
+00:00:29,900 --> 00:00:32,000
+drawing with putting back and the other is 
+
+17
+00:00:32,000 --> 00:00:34,280
+drawing without putting back. You 
+
+18
+00:00:34,280 --> 00:00:36,180
+always imagine an out-of-order model. 
+
+19
+00:00:36,420 --> 00:00:38,160
+Drawing with putting back means 
+
+20
+00:00:38,220 --> 00:00:39,900
+that we 
+
+21
+00:00:39,900 --> 00:00:41,700
+put the balls back after drawing. This 
+means that the 
+
+22
+00:00:41,700 --> 00:00:43,220
+number of choices 
+
+23
+00:00:43,220 --> 00:00:44,600
+remains the same and so do the 
+
+24
+00:00:44,600 --> 00:00:46,440
+probabilities. 
+
+25
+00:00:46,440 --> 00:00:48,380
+
+26
+00:00:48,380 --> 00:00:50,040
+However, when drawing without putting the 
+ball back, the ball remains outside after 
+the draw and 
+
+27
+00:00:50,040 --> 00:00:51,660
+this always changes 
+
+28
+00:00:51,660 --> 00:00:53,420
+the number of choices 
+
+29
+00:00:53,420 --> 00:00:54,060
+and therefore the 
+
+30
+00:00:54,060 --> 00:00:55,480
+probabilities. But 
+
+31
+00:00:55,480 --> 00:00:56,600
+let's take a look at this 
+
+32
+00:00:56,600 --> 00:00:59,360
+using an example. 
+
+33
+00:00:59,360 --> 00:01:01,780
+For example, if we have the question of 
+how 
+
+34
+00:01:01,780 --> 00:01:03,500
+many possibilities there are for a 
+
+35
+00:01:03,500 --> 00:01:05,260
+four-digit PIN code, for example 
+
+36
+00:01:05,260 --> 00:01:07,240
+in a cell phone. If we now 
+
+37
+00:01:07,240 --> 00:01:08,760
+look at these two possibilities, 
+
+38
+00:01:08,840 --> 00:01:10,700
+for example 1, 2, 3, 
+
+39
+00:01:10,740 --> 00:01:13,860
+4 and 4, 3, 2, 1, these are actually 
+
+40
+00:01:13,860 --> 00:01:16,220
+the same numbers, but we know 
+
+41
+00:01:16,220 --> 00:01:19,060
+that they are not the same code. 
+
+42
+00:01:19,220 --> 00:01:22,180
+So the order is 
+
+43
+00:01:22,180 --> 00:01:24,160
+important in this task, which is why it is 
+an 
+
+44
+00:01:24,160 --> 00:01:26,740
+ordered random sample, 
+
+45
+00:01:26,740 --> 00:01:28,700
+taking the order into account. 
+
+46
+00:01:31,280 --> 00:01:33,460
+Now let's 
+
+47
+00:01:33,460 --> 00:01:36,720
+solve this task. Let's think 
+
+48
+00:01:36,760 --> 00:01:38,580
+about how many ways there are to 
+
+49
+00:01:38,720 --> 00:01:41,060
+select a digit. 
+
+50
+00:01:41,060 --> 00:01:43,980
+We have the digits 0 to 9, and 
+
+51
+00:01:43,980 --> 00:01:47,060
+that for each field. That's 
+
+52
+00:01:47,060 --> 00:01:51,300
+a total of 10 possibilities. 
+
+53
+00:01:51,300 --> 00:01:52,660
+This means that I have 
+
+54
+00:01:52,660 --> 00:01:55,440
+10 possibilities for my first digit, 
+
+55
+00:01:55,440 --> 00:01:57,740
+10 possibilities for my second digit and 
+
+56
+00:01:57,740 --> 00:02:01,080
+also for the third and fourth. What 
+
+57
+00:02:01,080 --> 00:02:01,980
+we do, and in 
+
+58
+00:02:01,980 --> 00:02:03,240
+probability we usually 
+
+59
+00:02:03,240 --> 00:02:05,340
+multiply, we multiply 
+
+60
+00:02:05,340 --> 00:02:07,480
+these four possibilities together 
+
+61
+00:02:08,760 --> 00:02:13,140
+and the result is 10. 1000. 
+
+62
+00:02:13,280 --> 00:02:17,260
+10,000 possibilities. You can 
+
+63
+00:02:17,260 --> 00:02:20,740
+also use a formula, 
+
+64
+00:02:20,740 --> 00:02:26,900
+namely n to the power of k. 
+
+65
+00:02:26,900 --> 00:02:30,180
+But what does n mean and what does k mean? 
+n is the 
+
+66
+00:02:30,180 --> 00:02:33,020
+number of choices. 
+
+67
+00:02:33,020 --> 00:02:36,160
+We have already clarified this. That 
+
+68
+00:02:36,160 --> 00:02:37,740
+'s 10 possibilities, as we 
+
+69
+00:02:37,740 --> 00:02:41,060
+have the numbers 0 to 9. k is the 
+
+70
+00:02:41,060 --> 00:02:43,280
+number of draws, if we 
+
+71
+00:02:43,280 --> 00:02:44,700
+imagine our Ohn model again. 
+
+72
+00:02:44,980 --> 00:02:48,320
+And we draw 4 numbers from it. So 
+
+73
+00:02:48,320 --> 00:02:51,500
+k equals 4. If we 
+
+74
+00:02:51,500 --> 00:02:56,160
+use that, we get 10 to the power of 
+
+75
+00:02:56,160 --> 00:03:03,450
+4 and that is of course just the 10 
+
+76
+00:03:03,450 --> 00:03:06,730
+,000 that we just got out 
+
+77
+00:03:06,730 --> 00:03:06,970
+. 
+
+78
+00:03:10,940 --> 00:03:12,580
+Now we want to change the tasks... 
+
+79
+00:03:12,620 --> 00:03:14,600
+position a little. 
+
+80
+00:03:14,600 --> 00:03:17,180
+We now say that each digit 
+
+81
+00:03:17,180 --> 00:03:20,400
+can only occur once. 
+
+82
+00:03:20,400 --> 00:03:21,460
+So that's not drawing with 
+
+83
+00:03:21,460 --> 00:03:23,380
+putting back, because once a digit 
+
+84
+00:03:23,380 --> 00:03:24,900
+has been drawn, it doesn't come 
+
+85
+00:03:24,900 --> 00:03:27,360
+back. Therefore, we draw without 
+
+86
+00:03:27,360 --> 00:03:30,620
+putting it back. This means that if we 
+start with 
+
+87
+00:03:30,620 --> 00:03:33,220
+our first digit, we still have 
+
+88
+00:03:33,220 --> 00:03:34,460
+10 possibilities, the 
+
+89
+00:03:34,460 --> 00:03:37,500
+digits 0 to 9. But if a 
+
+90
+00:03:37,500 --> 00:03:38,920
+digit is drawn, we only have 
+
+91
+00:03:38,920 --> 00:03:40,740
+9 more digits to choose from. 
+
+92
+00:03:41,160 --> 00:03:42,900
+So at the second digit there 
+
+93
+00:03:42,900 --> 00:03:44,740
+are only nine possibilities. For the 
+
+94
+00:03:44,740 --> 00:03:46,100
+third digit, since two 
+
+95
+00:03:46,100 --> 00:03:48,060
+digits have already been drawn, there are 
+only 
+
+96
+00:03:48,060 --> 00:03:49,840
+eight possibilities and therefore 
+
+97
+00:03:49,840 --> 00:03:52,420
+seven for the fourth. 
+
+98
+00:03:52,420 --> 00:03:56,580
+Again, we multiply these 
+
+99
+00:03:56,580 --> 00:03:59,380
+possibilities and get 
+
+100
+00:03:59,380 --> 00:04:04,380
+5040 possibilities as a result. In other 
+words, 
+
+101
+00:04:04,380 --> 00:04:05,460
+just under half of the 
+
+102
+00:04:05,460 --> 00:04:08,180
+possibilities from before. The whole thing 
+
+103
+00:04:08,180 --> 00:04:10,920
+can also be broken with a 
+
+104
+00:04:10,920 --> 00:04:14,180
+coefficient 
+
+105
+00:04:21,510 --> 00:04:26,310
+, namely n factorial divided by n minus 
+
+106
+00:04:26,310 --> 00:04:30,350
+k factorial . 
+
+107
+00:04:30,350 --> 00:04:32,970
+Again , we have to think about what n is 
+and what 
+
+108
+00:04:32,970 --> 00:04:35,410
+k is. n was the number of 
+
+109
+00:04:35,410 --> 00:04:38,070
+choices, just like 
+
+110
+00:04:38,070 --> 00:04:40,510
+10 before , because there 
+
+111
+00:04:40,510 --> 00:04:43,330
+are 10 digits , and k was the number of 
+
+112
+00:04:43,330 --> 00:04:47,170
+draws. We have four digits 
+
+113
+00:04:47,230 --> 00:04:51,590
+, so four draws. If we use this 
+
+114
+00:04:51,590 --> 00:04:54,570
+, we get the following 
+
+115
+00:04:54,570 --> 00:04:57,310
+term. Here it is again, 
+
+116
+00:04:57,510 --> 00:05:00,990
+with the 10 at the top. 10 factorial 
+
+117
+00:05:00,990 --> 00:05:03,330
+divided by 10 minus 4 factorial. 
+
+118
+00:05:03,730 --> 00:05:06,230
+That would be 10 factorial 
+
+119
+00:05:06,230 --> 00:05:07,790
+divided by 6 factorial. If we 
+
+120
+00:05:07,790 --> 00:05:09,610
+write this down, we can 
+
+121
+00:05:09,610 --> 00:05:13,490
+immediately see that we 
+
+122
+00:05:13,490 --> 00:05:17,470
+can shorten a lot of digits at the top and 
+bottom. And 
+
+123
+00:05:17,470 --> 00:05:21,070
+what remains is our 10 times 9 times 8 
+times 
+
+124
+00:05:21,070 --> 00:05:24,450
+7, which we already had above. 
+
+125
+00:05:25,830 --> 00:05:27,090
+Let's 
+
+126
+00:05:27,090 --> 00:05:29,090
+briefly summarize the whole thing again. 
+This video was 
+
+127
+00:05:29,090 --> 00:05:30,910
+about the ordered sample. 
+
+128
+00:05:31,050 --> 00:05:33,130
+Ordered random sampling means that 
+
+129
+00:05:33,130 --> 00:05:37,640
+the order is taken into account. Here, 
+
+130
+00:05:37,640 --> 00:05:38,340
+however, we can also 
+
+131
+00:05:38,340 --> 00:05:40,840
+differentiate again 
+
+132
+00:05:40,840 --> 00:05:42,760
+between drawing with a reserve and drawing 
+without 
+
+133
+00:05:42,760 --> 00:05:44,260
+a reserve, if we 
+
+134
+00:05:44,260 --> 00:05:46,100
+think of our without model. When drawing 
+with 
+
+135
+00:05:46,100 --> 00:05:48,780
+putting back, the number of 
+
+136
+00:05:48,780 --> 00:05:50,520
+possibilities remains the same and so do 
+
+137
+00:05:50,520 --> 00:05:52,440
+the probabilities. When drawing 
+
+138
+00:05:52,440 --> 00:05:54,080
+without putting back, the number of 
+
+139
+00:05:54,080 --> 00:05:55,540
+possibilities does not remain the same and 
+
+140
+00:05:55,540 --> 00:05:56,740
+the probabilities also change 
+
+141
+00:05:56,740 --> 00:05:58,820
+. When drawing with putting back 
+
+142
+00:05:58,820 --> 00:06:01,080
+, we can remember the term n to the power 
+of k 
+
+143
+00:06:01,080 --> 00:06:02,920
+, where n is the number of 
+
+144
+00:06:02,920 --> 00:06:04,800
+choices and k is the 
+
+145
+00:06:04,800 --> 00:06:06,820
+number of moves, i.e. the number of draws. 
+
+146
+00:06:07,600 --> 00:06:09,340
+And when drawing without putting back, 
+
+147
+00:06:09,340 --> 00:06:13,100
+we use this term and n and k 
+
+148
+00:06:13,100 --> 00:06:17,180
+are the same there. Thank you for 
+
+149
+00:06:17,180 --> 00:06:18,660
+your attention and I look forward 
+
+150
+00:06:18,660 --> 00:06:19,160
+to the next time. 

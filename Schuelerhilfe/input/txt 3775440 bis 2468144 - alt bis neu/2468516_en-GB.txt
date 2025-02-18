@@ -1,0 +1,2690 @@
+﻿1
+00:00:01,460 --> 00:00:02,740
+Hello and welcome to 
+
+2
+00:00:02,740 --> 00:00:04,640
+another Schülerhilfe webinar 
+
+3
+00:00:04,640 --> 00:00:07,780
+on the topic of content writing. I see 
+
+4
+00:00:07,940 --> 00:00:09,960
+that Ann-Kathrin and 
+
+5
+00:00:09,960 --> 00:00:11,440
+Annika are here. They were also 
+
+6
+00:00:11,440 --> 00:00:14,180
+present at my last webinar. 
+
+7
+00:00:14,180 --> 00:00:15,900
+Is that correct? Then I 
+
+8
+00:00:15,920 --> 00:00:17,040
+
+9
+00:00:17,040 --> 00:00:18,760
+don't think I need to do the whole 
+introduction again. 
+
+10
+00:00:18,760 --> 00:00:20,640
+Welcome and then we'll talk about 
+
+11
+00:00:20,640 --> 00:00:23,000
+the synopsis right away. 
+
+12
+00:00:23,140 --> 00:00:24,160
+Right, great. 
+
+13
+00:00:29,680 --> 00:00:31,820
+Great, all right. Wonderful then. 
+
+14
+00:00:31,820 --> 00:00:32,820
+As a reminder, I'm 
+
+15
+00:00:32,820 --> 00:00:34,220
+Kathi, so you can also address me as Kathi 
+
+16
+00:00:34,220 --> 00:00:36,060
+. Since we've 
+
+17
+00:00:36,060 --> 00:00:37,180
+become a rather small group now 
+
+18
+00:00:37,180 --> 00:00:38,560
+, I only have the two of you 
+
+19
+00:00:38,560 --> 00:00:40,220
+right now, I could imagine 
+
+20
+00:00:40,480 --> 00:00:44,060
+that you can simply 
+
+21
+00:00:44,060 --> 00:00:45,940
+write a short stop in the chat at any time 
+
+22
+00:00:46,000 --> 00:00:47,560
+if you have a question, then 
+
+23
+00:00:47,560 --> 00:00:49,100
+I' ll see it very quickly and can then 
+
+24
+00:00:49,100 --> 00:00:50,820
+take a break immediately. 
+
+25
+00:00:50,860 --> 00:00:51,700
+Then we don't need anything 
+
+26
+00:00:51,700 --> 00:00:53,380
+in between. So you can 
+
+27
+00:00:53,380 --> 00:00:56,280
+stop me at any time and ask a 
+
+28
+00:00:56,280 --> 00:00:58,040
+question. I think that's in 
+
+29
+00:00:58,040 --> 00:01:01,500
+everyone's interest. Okay, then 
+
+30
+00:01:01,500 --> 00:01:03,720
+I' d like to get straight to it. Where's 
+
+31
+00:01:03,720 --> 00:01:05,800
+my pointer? My pointer has 
+
+32
+00:01:05,800 --> 00:01:09,480
+disappeared. There it is. There it is. 
+
+33
+00:01:09,480 --> 00:01:11,280
+Let's go. Here's what we're going to do. 
+
+34
+00:01:11,460 --> 00:01:13,680
+First, let's take a quick look 
+
+35
+00:01:13,680 --> 00:01:16,340
+at typical tasks. What do 
+
+36
+00:01:16,340 --> 00:01:18,100
+tasks look like that 
+
+37
+00:01:18,100 --> 00:01:21,120
+are aimed at a summary? Then the really 
+
+38
+00:01:21,120 --> 00:01:22,920
+important part of this 
+
+39
+00:01:22,920 --> 00:01:24,740
+presentation is this one, 
+
+40
+00:01:24,740 --> 00:01:27,220
+namely rules for writing a 
+
+41
+00:01:27,220 --> 00:01:28,760
+summary, what do I 
+
+42
+00:01:28,760 --> 00:01:31,240
+actually have to consider? And then at the 
+end, 
+
+43
+00:01:31,240 --> 00:01:33,300
+a little bit about the structure 
+
+44
+00:01:33,300 --> 00:01:35,420
+of a synopsis, or 
+
+45
+00:01:35,420 --> 00:01:37,520
+sometimes it's also 
+
+46
+00:01:37,520 --> 00:01:38,540
+called a text reproduction. There is a 
+small 
+
+47
+00:01:38,540 --> 00:01:40,100
+distinction, which I would 
+
+48
+00:01:40,100 --> 00:01:44,120
+also briefly mention. So, 
+
+49
+00:01:44,120 --> 00:01:46,480
+what do typical assignments 
+
+50
+00:01:46,480 --> 00:01:47,820
+look like? We have 
+
+51
+00:01:47,820 --> 00:01:49,940
+summarized four examples for you here . 
+These 
+
+52
+00:01:49,940 --> 00:01:53,560
+are as follows. Task 1 
+
+53
+00:01:53,560 --> 00:01:55,900
+or Task A. Provide a 
+
+54
+00:01:55,900 --> 00:01:57,980
+structured summary of the 
+
+55
+00:01:57,980 --> 00:02:00,020
+text. One word is missing. An 
+
+56
+00:02:00,020 --> 00:02:02,020
+should be the word. Or 
+
+57
+00:02:02,020 --> 00:02:04,920
+describe the content in your own words. 
+And 
+
+58
+00:02:04,920 --> 00:02:07,000
+I would like to 
+
+59
+00:02:07,000 --> 00:02:08,820
+emphasize the own words here. 
+
+60
+00:02:08,820 --> 00:02:10,060
+I'll 
+
+61
+00:02:10,060 --> 00:02:12,180
+say something about that in a moment. Or 
+the task could be to 
+
+62
+00:02:12,180 --> 00:02:13,820
+
+63
+00:02:13,820 --> 00:02:16,220
+summarize the most important details. Or 
+it could 
+
+64
+00:02:16,220 --> 00:02:18,280
+be to describe the content 
+
+65
+00:02:18,280 --> 00:02:21,300
+and the course of the conversation. 
+
+66
+00:02:21,300 --> 00:02:22,440
+Of course, the example can also be 
+something 
+
+67
+00:02:22,440 --> 00:02:23,820
+else, but describe 
+
+68
+00:02:23,820 --> 00:02:26,020
+the content and the course of the 
+
+69
+00:02:26,020 --> 00:02:29,400
+conversation. Only selected examples. 
+
+70
+00:02:29,420 --> 00:02:31,260
+Of course, one or two 
+
+71
+00:02:31,260 --> 00:02:32,580
+teachers will also come up with a slightly 
+
+72
+00:02:32,580 --> 00:02:34,240
+different way of writing it, 
+
+73
+00:02:34,240 --> 00:02:36,500
+but it will usually be based 
+
+74
+00:02:36,500 --> 00:02:40,690
+on these formulations. What 
+
+75
+00:02:40,690 --> 00:02:42,110
+are typical tasks and 
+
+76
+00:02:42,110 --> 00:02:45,610
+what do I need to solve them? 
+
+77
+00:02:45,610 --> 00:02:47,350
+I need the following skills. 
+
+78
+00:02:47,390 --> 00:02:49,570
+I need to be structured. 
+
+79
+00:02:49,570 --> 00:02:51,830
+I need to be able to plan well in order to 
+
+80
+00:02:51,830 --> 00:02:54,190
+write a good summary. I need 
+
+81
+00:02:54,190 --> 00:02:57,290
+to be able to express myself well, because 
+the 
+
+82
+00:02:57,290 --> 00:02:59,470
+text is supposed to 
+
+83
+00:02:59,470 --> 00:03:00,890
+be rendered in my own words and not 
+
+84
+00:03:00,890 --> 00:03:02,310
+simply retold. In 
+
+85
+00:03:02,310 --> 00:03:03,010
+other words 
+
+86
+00:03:03,010 --> 00:03:04,810
+, I need to 
+
+87
+00:03:04,810 --> 00:03:07,390
+have a certain level of expressive 
+competence. And of course, before 
+
+88
+00:03:07,390 --> 00:03:09,050
+I even 
+
+89
+00:03:09,050 --> 00:03:10,810
+start a summary, I should 
+
+90
+00:03:10,810 --> 00:03:12,690
+have a good understanding of the text or 
+
+91
+00:03:12,690 --> 00:03:14,530
+
+92
+00:03:14,530 --> 00:03:17,390
+have recognized the most important 
+aspects. In other words, my reading skills 
+
+93
+00:03:17,390 --> 00:03:18,790
+also play a very important 
+
+94
+00:03:18,790 --> 00:03:20,190
+role. So you see, 
+
+95
+00:03:20,190 --> 00:03:21,570
+you need a 
+
+96
+00:03:21,570 --> 00:03:24,550
+bit more than the 
+
+97
+00:03:24,550 --> 00:03:25,810
+standard for a synopsis . A synopsis 
+
+98
+00:03:25,810 --> 00:03:27,130
+is always 
+
+99
+00:03:27,130 --> 00:03:29,310
+perceived as particularly simple. Yes, 
+yes, a synopsis is 
+
+100
+00:03:29,310 --> 00:03:30,850
+usually task 1, but 
+
+101
+00:03:30,850 --> 00:03:32,110
+of course it shouldn't be 
+
+102
+00:03:32,110 --> 00:03:35,850
+underestimated. So, now comes 
+
+103
+00:03:35,850 --> 00:03:38,290
+the core issue, namely the rules 
+
+104
+00:03:38,290 --> 00:03:39,430
+for writing a 
+
+105
+00:03:39,430 --> 00:03:42,170
+synopsis. Once again 
+
+106
+00:03:42,170 --> 00:03:43,370
+, the emphasis here is that the 
+
+107
+00:03:43,370 --> 00:03:45,510
+synopsis 
+
+108
+00:03:45,510 --> 00:03:47,290
+is not a retelling . In a 
+
+109
+00:03:47,290 --> 00:03:50,190
+retelling , you normally want to 
+
+110
+00:03:50,190 --> 00:03:51,950
+be very close to the text, or very 
+
+111
+00:03:51,950 --> 00:03:53,910
+close to the action. So you have a 
+
+112
+00:03:53,910 --> 00:03:56,530
+high degree of fidelity to the text, they 
+say. The 
+
+113
+00:03:56,530 --> 00:03:57,770
+text is 
+
+114
+00:03:57,770 --> 00:03:59,470
+reproduced as accurately and completely as 
+possible , but 
+
+115
+00:03:59,470 --> 00:04:01,810
+that 's exactly what we don't want. In 
+other words, we want 
+
+116
+00:04:01,810 --> 00:04:04,530
+to delete this directly. We 
+
+117
+00:04:04,530 --> 00:04:06,370
+don't want a retelling. No, 
+
+118
+00:04:06,370 --> 00:04:08,770
+this is what we want. We want to 
+
+119
+00:04:08,770 --> 00:04:11,290
+
+120
+00:04:11,290 --> 00:04:13,270
+
+121
+00:04:13,270 --> 00:04:15,590
+focus on individual, particularly 
+important, i.e. elementary aspects of the 
+text and reproduce them. 
+
+122
+00:04:15,750 --> 00:04:18,210
+This may 
+
+123
+00:04:18,210 --> 00:04:20,070
+or may not be meant as a summary. 
+
+124
+00:04:20,070 --> 00:04:21,590
+I'll go into this in more detail in a 
+moment 
+
+125
+00:04:21,590 --> 00:04:22,970
+. But it is very important to me 
+
+126
+00:04:22,970 --> 00:04:24,990
+to 
+
+127
+00:04:24,990 --> 00:04:26,770
+delete this word here immediately. It must 
+not 
+
+128
+00:04:26,770 --> 00:04:30,810
+become a retelling. Then there are 
+
+129
+00:04:30,810 --> 00:04:31,910
+rules - you know them, 
+
+130
+00:04:31,910 --> 00:04:33,950
+hopefully you' ve heard them a hundred 
+times - 
+
+131
+00:04:34,070 --> 00:04:36,430
+that a synopsis 
+
+132
+00:04:36,430 --> 00:04:37,570
+should be written in the 
+
+133
+00:04:37,570 --> 00:04:40,170
+present tense . And only in 
+
+134
+00:04:40,170 --> 00:04:41,610
+exceptions, for example if something 
+
+135
+00:04:41,610 --> 00:04:44,070
+has happened immediately beforehand, then 
+
+136
+00:04:44,070 --> 00:04:46,350
+in the perfect tense. Here's another very 
+
+137
+00:04:46,350 --> 00:04:47,950
+brief digression 
+
+138
+00:04:47,950 --> 00:04:49,770
+to remind you of this. Presence 
+
+139
+00:04:49,770 --> 00:04:52,350
+is the present tense. For example, the 
+
+140
+00:04:52,350 --> 00:04:55,230
+protagonist regularly 
+
+141
+00:04:55,230 --> 00:04:57,510
+meets his neighbor on the stairs. This is 
+
+142
+00:04:57,510 --> 00:04:59,190
+the normal present tense. 
+
+143
+00:05:00,630 --> 00:05:04,230
+Perfect is, the protagonist 
+
+144
+00:05:04,230 --> 00:05:05,910
+regularly met his neighbor there 
+
+145
+00:05:05,910 --> 00:05:07,530
+. And the simple 
+
+146
+00:05:07,530 --> 00:05:09,390
+past would be, the protagonist 
+
+147
+00:05:09,390 --> 00:05:12,150
+regularly met 
+
+148
+00:05:12,150 --> 00:05:14,870
+his neighbor at the stairs. So, as 
+
+149
+00:05:14,870 --> 00:05:16,830
+I said, this is the most important thing. 
+
+150
+00:05:16,850 --> 00:05:18,390
+It's always written in the present tense. 
+
+151
+00:05:18,490 --> 00:05:20,050
+There may be exceptions. 
+
+152
+00:05:20,050 --> 00:05:21,470
+But it always depends on the text. 
+
+153
+00:05:25,190 --> 00:05:26,530
+Then, because another important 
+
+154
+00:05:26,530 --> 00:05:28,870
+rule, direct 
+
+155
+00:05:28,870 --> 00:05:31,510
+speech is never used. Yes, so direct 
+
+156
+00:05:31,510 --> 00:05:33,770
+speech is best immediately 
+
+157
+00:05:33,770 --> 00:05:36,210
+changed to indirect speech. Whereby, 
+
+158
+00:05:36,310 --> 00:05:37,650
+and I think this should even be 
+
+159
+00:05:37,650 --> 00:05:39,610
+in red, you should 
+
+160
+00:05:39,610 --> 00:05:41,770
+think about whether this content, this 
+
+161
+00:05:41,770 --> 00:05:44,450
+direct speech, someone is saying 
+
+162
+00:05:44,450 --> 00:05:46,290
+something, whether it is important 
+
+163
+00:05:46,290 --> 00:05:48,410
+for the summary at all. So that's 
+
+164
+00:05:48,410 --> 00:05:50,030
+important. For example, if you have 
+
+165
+00:05:50,030 --> 00:05:52,050
+the feeling that the whole text 
+
+166
+00:05:52,050 --> 00:05:53,970
+somehow revolves around a certain sentence 
+
+167
+00:05:53,970 --> 00:05:56,130
+that some character 
+
+168
+00:05:56,130 --> 00:05:57,750
+has said before , then that would of 
+course be 
+
+169
+00:05:57,750 --> 00:05:59,930
+particularly important, should still 
+
+170
+00:05:59,930 --> 00:06:01,330
+be converted into indirect speech 
+
+171
+00:06:01,330 --> 00:06:05,670
+, but should 
+
+172
+00:06:05,670 --> 00:06:07,190
+also be central to your synopsis. 
+
+173
+00:06:09,600 --> 00:06:11,700
+Another brief digression on 
+
+174
+00:06:11,700 --> 00:06:14,040
+direct and indirect speech. The 
+
+175
+00:06:14,040 --> 00:06:16,780
+protagonist calls out, am I not the 
+
+176
+00:06:16,780 --> 00:06:18,680
+helmsman? Of course, you wouldn 
+
+177
+00:06:18,680 --> 00:06:20,280
+'t write this exactly in your 
+
+178
+00:06:20,280 --> 00:06:21,520
+summary, but you would 
+
+179
+00:06:21,520 --> 00:06:23,840
+write that the protagonist asks about 
+
+180
+00:06:23,840 --> 00:06:26,040
+the legitimacy of his role as 
+
+181
+00:06:26,040 --> 00:06:27,640
+helmsman. Just as an example, 
+
+182
+00:06:27,640 --> 00:06:31,420
+nicely formulated. Not everyone has 
+
+183
+00:06:31,420 --> 00:06:32,500
+this level of 
+
+184
+00:06:32,500 --> 00:06:35,140
+expressive competence. It could 
+
+185
+00:06:35,140 --> 00:06:36,720
+look like this if you really 
+
+186
+00:06:36,720 --> 00:06:39,140
+want to formulate it beautifully , but of 
+course it can 
+
+187
+00:06:39,140 --> 00:06:40,580
+also look different. The important thing 
+is 
+
+188
+00:06:40,700 --> 00:06:42,300
+that the indirect speech 
+
+189
+00:06:42,300 --> 00:06:43,420
+is off. This is a second 
+
+190
+00:06:43,420 --> 00:06:44,940
+example, but I think one is enough 
+
+191
+00:06:44,940 --> 00:06:47,620
+at this point. These are 
+
+192
+00:06:47,620 --> 00:06:49,180
+individual speeches, individual 
+
+193
+00:06:49,180 --> 00:06:50,700
+phrases, perhaps individual 
+
+194
+00:06:50,700 --> 00:06:53,920
+quotations. If there are whole dialogues, 
+for 
+
+195
+00:06:53,920 --> 00:06:55,540
+example longer dialogues, you 
+
+196
+00:06:55,540 --> 00:07:00,760
+don't have to 
+
+197
+00:07:00,760 --> 00:07:03,140
+reproduce every single statement, but 
+rather 
+
+198
+00:07:03,140 --> 00:07:05,620
+
+199
+00:07:05,620 --> 00:07:07,380
+summarize the meaning and the course or 
+simply the result, 
+
+200
+00:07:07,380 --> 00:07:08,900
+depending on what you think is important 
+
+201
+00:07:08,900 --> 00:07:10,640
+for the summary. and not 
+
+202
+00:07:10,640 --> 00:07:12,700
+all the content and the whole 
+
+203
+00:07:12,700 --> 00:07:15,240
+course. So rather, what 
+
+204
+00:07:15,240 --> 00:07:17,720
+is the most important development, the 
+
+205
+00:07:17,720 --> 00:07:21,480
+most important event? 
+
+206
+00:07:21,480 --> 00:07:22,660
+Of course, this should be included in a 
+synopsis 
+
+207
+00:07:22,660 --> 00:07:24,160
+, but not all the 
+
+208
+00:07:24,160 --> 00:07:24,880
+details. 
+
+209
+00:07:27,560 --> 00:07:29,140
+Then, it actually still happens 
+
+210
+00:07:29,140 --> 00:07:30,920
+frighteningly often that 
+
+211
+00:07:30,920 --> 00:07:32,980
+students 
+
+212
+00:07:32,980 --> 00:07:34,500
+
+213
+00:07:34,500 --> 00:07:35,740
+write synopses in the first person. 
+Something is 
+
+214
+00:07:35,740 --> 00:07:38,900
+written, I have read this, 
+
+215
+00:07:38,900 --> 00:07:40,980
+very, very, very unfavorably. It is 
+
+216
+00:07:40,980 --> 00:07:42,540
+never written in the first person. 
+
+217
+00:07:42,920 --> 00:07:44,880
+The summary should, and now 
+
+218
+00:07:44,880 --> 00:07:46,680
+it's getting very highbrow again, 
+
+219
+00:07:46,800 --> 00:07:49,640
+
+220
+00:07:49,640 --> 00:07:51,780
+have a normative general validity. This 
+means that there should 
+
+221
+00:07:51,780 --> 00:07:54,440
+
+222
+00:07:54,440 --> 00:07:56,620
+be no explicit reference to the writer. In 
+simple 
+
+223
+00:07:56,620 --> 00:07:59,140
+German terms , this means that if the 
+
+224
+00:07:59,140 --> 00:08:00,620
+narrative to be summarized 
+
+225
+00:08:00,620 --> 00:08:03,960
+is written in the first person, it is 
+
+226
+00:08:03,960 --> 00:08:08,160
+ converted to R-S-V .  An example. 
+
+227
+00:08:08,160 --> 00:08:10,040
+drinking coffee outside under the lime 
+trees. 
+
+228
+00:08:10,160 --> 00:08:12,060
+Because she didn't quite suit me, 
+
+229
+00:08:12,060 --> 00:08:13,860
+I stayed 
+
+230
+00:08:13,860 --> 00:08:16,440
+behind on a pretext . That's what the text 
+says. That 
+
+231
+00:08:16,440 --> 00:08:18,920
+'s perhaps very important for you. 
+
+232
+00:08:18,960 --> 00:08:20,340
+The whole text somehow revolves 
+
+233
+00:08:20,340 --> 00:08:23,400
+around exactly this. This statement 
+
+234
+00:08:23,420 --> 00:08:25,000
+that the character has written. 
+
+235
+00:08:25,100 --> 00:08:26,220
+Then you write this in your 
+
+236
+00:08:26,220 --> 00:08:27,780
+summary of course, but 
+
+237
+00:08:27,780 --> 00:08:29,720
+in the R form. For example, 
+
+238
+00:08:29,720 --> 00:08:31,280
+Werther turned down an invitation to a 
+
+239
+00:08:31,280 --> 00:08:33,100
+party under the lime trees on 
+
+240
+00:08:33,100 --> 00:08:37,680
+a pretext. That's the first person 
+
+241
+00:08:37,680 --> 00:08:39,100
+ form, which of course you don't 
+
+242
+00:08:39,100 --> 00:08:43,280
+use in the synopsis. So, and 
+
+243
+00:08:43,280 --> 00:08:45,040
+here, which I would have liked to 
+
+244
+00:08:45,040 --> 00:08:47,020
+underline in red anyway , the content is 
+
+245
+00:08:47,020 --> 00:08:50,340
+not retold, but must 
+
+246
+00:08:50,340 --> 00:08:51,820
+
+247
+00:08:51,820 --> 00:08:53,180
+be reproduced in your own words. Of 
+course, 
+
+248
+00:08:53,180 --> 00:08:54,680
+certain 
+
+249
+00:08:54,680 --> 00:08:56,720
+key words from the text 
+
+250
+00:08:56,720 --> 00:08:58,140
+can be used if they 
+
+251
+00:08:58,140 --> 00:08:59,880
+are particularly important, but by no 
+
+252
+00:08:59,880 --> 00:09:02,280
+means whole parts of sentences 
+
+253
+00:09:02,280 --> 00:09:04,200
+or even whole sentences. That would be a 
+
+254
+00:09:04,200 --> 00:09:07,080
+pure retelling and 
+
+255
+00:09:07,080 --> 00:09:08,720
+not an original contribution at all , it 
+wouldn 
+
+256
+00:09:08,720 --> 00:09:10,920
+'t even be a summary and 
+
+257
+00:09:10,920 --> 00:09:12,180
+you really wouldn't get any 
+
+258
+00:09:12,180 --> 00:09:15,880
+points. So, once again, 
+
+259
+00:09:15,880 --> 00:09:18,060
+not every 
+
+260
+00:09:18,060 --> 00:09:20,040
+single paragraph, not every 
+
+261
+00:09:20,040 --> 00:09:23,440
+single conversation, not every 
+
+262
+00:09:23,440 --> 00:09:25,580
+single quote has to 
+
+263
+00:09:25,580 --> 00:09:27,520
+be paraphrased . It can also 
+
+264
+00:09:27,520 --> 00:09:29,340
+be paraphrased, as we did 
+
+265
+00:09:29,340 --> 00:09:30,960
+in this example. This 
+
+266
+00:09:30,960 --> 00:09:32,920
+is a pure paraphrasing 
+
+267
+00:09:32,920 --> 00:09:36,060
+from the first person to the first person 
+or from 
+
+268
+00:09:36,060 --> 00:09:38,580
+direct to indirect speech. This 
+
+269
+00:09:38,580 --> 00:09:40,900
+is only done when it 
+
+270
+00:09:40,900 --> 00:09:42,880
+is important. But you should think about 
+
+271
+00:09:42,880 --> 00:09:44,500
+it first: do I have to 
+
+272
+00:09:44,500 --> 00:09:46,280
+paraphrase this? Is it 
+
+273
+00:09:46,280 --> 00:09:48,560
+important at all ? In most cases, it's 
+
+274
+00:09:48,560 --> 00:09:50,360
+not. For the summary, you should 
+
+275
+00:09:50,360 --> 00:09:51,940
+actually 
+
+276
+00:09:51,940 --> 00:09:54,220
+condense the most important aspects of the 
+text, 
+
+277
+00:09:54,220 --> 00:09:56,940
+in a very concentrated way and not 
+sentence by 
+
+278
+00:09:56,940 --> 00:09:57,320
+sentence . 
+
+279
+00:10:01,530 --> 00:10:03,750
+Then, the summary is 
+
+280
+00:10:03,750 --> 00:10:06,210
+written very factually. This is in 
+
+281
+00:10:06,210 --> 00:10:08,630
+contrast to the retelling 
+
+282
+00:10:08,670 --> 00:10:09,630
+, which I have already mentioned several 
+times 
+
+283
+00:10:09,630 --> 00:10:11,350
+. The retelling 
+
+284
+00:10:11,350 --> 00:10:12,930
+wants 
+
+285
+00:10:12,930 --> 00:10:15,010
+to be close to the action, vivid, lively, 
+
+286
+00:10:15,010 --> 00:10:17,010
+exciting. In the synopsis 
+
+287
+00:10:17,010 --> 00:10:18,650
+, something like this should 
+
+288
+00:10:18,650 --> 00:10:20,370
+be given as far as possible. So you don't 
+
+289
+00:10:20,370 --> 00:10:22,790
+need words like suddenly or suddenly 
+
+290
+00:10:22,790 --> 00:10:25,330
+someone was standing behind 
+
+291
+00:10:25,330 --> 00:10:27,290
+someone else. It should not 
+
+292
+00:10:27,290 --> 00:10:28,770
+create any suspense at all , it should not 
+
+293
+00:10:28,770 --> 00:10:31,170
+embellish, no narrative techniques 
+
+294
+00:10:31,170 --> 00:10:32,930
+should be used. It should simply 
+
+295
+00:10:32,930 --> 00:10:35,310
+
+296
+00:10:35,310 --> 00:10:36,810
+be a functional text. In other words, it 
+should not 
+
+297
+00:10:36,810 --> 00:10:40,030
+be entertaining, it should 
+
+298
+00:10:40,030 --> 00:10:42,770
+simply inform. Quite 
+
+299
+00:10:42,770 --> 00:10:43,430
+factually. 
+
+300
+00:10:45,940 --> 00:10:47,360
+As already mentioned here, the 
+
+301
+00:10:47,360 --> 00:10:50,640
+synopsis is limited to the 
+
+302
+00:10:50,640 --> 00:10:52,880
+essential details of the 
+
+303
+00:10:52,880 --> 00:10:55,320
+original and should therefore 
+
+304
+00:10:55,320 --> 00:10:58,440
+be shorter than the original text, and 
+
+305
+00:10:58,440 --> 00:11:00,140
+the synopsis does not contain any 
+
+306
+00:11:00,140 --> 00:11:01,960
+evaluations, comments or 
+
+307
+00:11:01,960 --> 00:11:03,940
+interpretations. These are, so to speak, 
+
+308
+00:11:03,940 --> 00:11:05,940
+the two summarizing sentences 
+
+309
+00:11:05,980 --> 00:11:07,900
+
+310
+00:11:07,900 --> 00:11:10,420
+
+311
+00:11:10,420 --> 00:11:13,120
+that make up the rules for writing a 
+synopsis. And I can also see 
+
+312
+00:11:13,320 --> 00:11:14,560
+that you, 
+
+313
+00:11:14,560 --> 00:11:15,700
+of course I can see that you 
+
+314
+00:11:15,700 --> 00:11:17,420
+don't ask any questions. 
+
+315
+00:11:17,420 --> 00:11:19,320
+So I continue to assume that 
+
+316
+00:11:19,320 --> 00:11:21,640
+there are no questions either. As long as 
+
+317
+00:11:21,640 --> 00:11:23,140
+you don't write anything, I'll 
+
+318
+00:11:23,140 --> 00:11:25,520
+just continue. You 
+
+319
+00:11:25,520 --> 00:11:27,440
+just stop me when something comes up. And 
+at the 
+
+320
+00:11:27,440 --> 00:11:29,540
+end, I'll give you another 
+
+321
+00:11:29,540 --> 00:11:31,780
+opportunity to ask questions anyway. 
+
+322
+00:11:31,780 --> 00:11:32,780
+Also remember to 
+
+323
+00:11:32,780 --> 00:11:34,300
+
+324
+00:11:34,300 --> 00:11:35,960
+make a note of the slide number so that I 
+
+325
+00:11:35,960 --> 00:11:37,340
+can jump back to a slide if necessary. 
+
+326
+00:11:40,470 --> 00:11:41,630
+Then we come to the 
+
+327
+00:11:41,630 --> 00:11:44,290
+third point, namely the structure of the 
+
+328
+00:11:44,290 --> 00:11:46,230
+table of contents. I'm sure you 
+
+329
+00:11:46,230 --> 00:11:49,090
+'ve often heard the standard 
+
+330
+00:11:49,170 --> 00:11:51,970
+introduction, main body and conclusion. 
+The 
+
+331
+00:11:51,970 --> 00:11:54,470
+summary of a 
+
+332
+00:11:54,470 --> 00:11:57,170
+fictional text, for example, describes the 
+narrative 
+
+333
+00:11:57,170 --> 00:12:00,150
+events. That's the case with 
+
+334
+00:12:00,150 --> 00:12:02,570
+fictional texts. But 
+
+335
+00:12:02,570 --> 00:12:06,090
+then let's talk about non-fiction texts. 
+In the context 
+
+336
+00:12:06,090 --> 00:12:07,790
+of non-fiction texts, we tend to talk 
+about 
+
+337
+00:12:07,790 --> 00:12:09,390
+this reproduction of the text. I mentioned 
+this 
+
+338
+00:12:09,390 --> 00:12:10,530
+at the very beginning. 
+
+339
+00:12:10,590 --> 00:12:11,330
+Sometimes we don't say 
+
+340
+00:12:11,330 --> 00:12:12,210
+content description, but 
+
+341
+00:12:12,210 --> 00:12:14,210
+text reproduction. This is 
+
+342
+00:12:14,210 --> 00:12:15,990
+the case with factual texts, for example, 
+as 
+
+343
+00:12:15,990 --> 00:12:18,390
+statements and trains of thought 
+
+344
+00:12:18,390 --> 00:12:20,550
+
+345
+00:12:20,550 --> 00:12:24,250
+are presented in a very condensed, 
+concentrated way. Whether 
+
+346
+00:12:24,250 --> 00:12:25,770
+it is a summary 
+
+347
+00:12:25,770 --> 00:12:28,570
+or a reproduction of the text is 
+
+348
+00:12:28,570 --> 00:12:30,550
+completely irrelevant when it comes to 
+classification. In each 
+
+349
+00:12:30,550 --> 00:12:32,050
+case, it is still about the 
+
+350
+00:12:32,050 --> 00:12:33,290
+introduction, which 
+
+351
+00:12:33,290 --> 00:12:34,830
+must be written , and a main body. 
+
+352
+00:12:37,930 --> 00:12:38,670
+The introduction is actually 
+
+353
+00:12:38,670 --> 00:12:40,050
+very easy to 
+
+354
+00:12:40,050 --> 00:12:42,310
+formulate by default because it contains 
+the most important 
+
+355
+00:12:42,310 --> 00:12:44,470
+information. The main body 
+
+356
+00:12:44,470 --> 00:12:46,030
+is actually exactly what you 
+
+357
+00:12:46,030 --> 00:12:47,610
+need to focus on and for which you 
+
+358
+00:12:47,610 --> 00:12:50,370
+
+359
+00:12:50,370 --> 00:12:53,130
+get most of the points. Summary. What 
+belongs in 
+
+360
+00:12:53,130 --> 00:12:54,630
+the introduction? This will 
+
+361
+00:12:54,630 --> 00:12:56,150
+probably and hopefully 
+
+362
+00:12:56,150 --> 00:12:58,450
+already be hanging out of your ears. The 
+
+363
+00:12:58,450 --> 00:12:59,670
+author must be named, 
+
+364
+00:12:59,710 --> 00:13:01,190
+or the 
+
+365
+00:13:01,190 --> 00:13:03,990
+title of the text . What kind of 
+
+366
+00:13:03,990 --> 00:13:05,530
+text is it? 
+
+367
+00:13:05,530 --> 00:13:09,450
+Is it a diary entry , for example ? That 
+would be 
+
+368
+00:13:09,450 --> 00:13:11,350
+a non-fictional text. Or 
+
+369
+00:13:11,350 --> 00:13:13,470
+is it an opera? A 
+
+370
+00:13:13,470 --> 00:13:15,510
+tragedy? Which would be an example of a 
+
+371
+00:13:15,510 --> 00:13:17,170
+drama, for example? I 
+
+372
+00:13:17,170 --> 00:13:18,010
+don't know , I think you were both 
+
+373
+00:13:18,010 --> 00:13:20,450
+in the drama at the time. That would be an 
+
+374
+00:13:20,450 --> 00:13:21,210
+example of a 
+
+375
+00:13:21,210 --> 00:13:23,130
+fictional text. Or is it 
+
+376
+00:13:23,130 --> 00:13:25,050
+perhaps a ballad? That would be an 
+
+377
+00:13:25,050 --> 00:13:26,350
+example of a lyric, 
+
+378
+00:13:26,430 --> 00:13:27,950
+if it's a novel, 
+
+379
+00:13:27,950 --> 00:13:29,050
+of course you should mention all of that 
+
+380
+00:13:29,050 --> 00:13:31,210
+in this introductory one 
+
+381
+00:13:31,210 --> 00:13:33,810
+or two or three sentences. 
+
+382
+00:13:33,810 --> 00:13:35,450
+As an aside, I 
+
+383
+00:13:35,450 --> 00:13:36,450
+recently 
+
+384
+00:13:36,450 --> 00:13:37,810
+spoke to a German teacher who also thinks 
+
+385
+00:13:37,810 --> 00:13:39,990
+it's a total bad habit to 
+
+386
+00:13:39,990 --> 00:13:41,910
+teach students 
+
+387
+00:13:41,910 --> 00:13:45,870
+that the introduction to a 
+
+388
+00:13:45,870 --> 00:13:47,850
+text has to be in one sentence. 
+
+389
+00:13:47,850 --> 00:13:49,210
+He thinks it's terrible and 
+
+390
+00:13:49,210 --> 00:13:51,330
+so do I , by the way - it doesn't have to 
+
+391
+00:13:51,330 --> 00:13:53,150
+happen. You don't have to 
+
+392
+00:13:53,150 --> 00:13:55,390
+
+393
+00:13:55,390 --> 00:13:57,410
+string all this information together in 
+one sentence like a robot. 
+
+394
+00:13:57,490 --> 00:13:59,510
+You can also 
+
+395
+00:13:59,510 --> 00:14:01,130
+
+396
+00:14:01,130 --> 00:14:02,190
+make two sentences or my God, maybe even 
+three sentences . 
+
+397
+00:14:02,190 --> 00:14:04,750
+Nobody will actually tear your head off. 
+
+398
+00:14:04,750 --> 00:14:06,350
+On the contrary, it's actually much, much 
+
+399
+00:14:06,350 --> 00:14:09,470
+easier. So remember, 
+
+400
+00:14:09,550 --> 00:14:10,970
+you don't have to fit all this information 
+into 
+
+401
+00:14:10,970 --> 00:14:13,070
+one long sentence. 
+
+402
+00:14:13,350 --> 00:14:14,970
+It's better to write two or even 
+
+403
+00:14:14,970 --> 00:14:17,510
+three sentences. Of course, you should 
+also 
+
+404
+00:14:17,510 --> 00:14:18,930
+indicate when the text was written 
+
+405
+00:14:18,930 --> 00:14:21,350
+. This is important because 
+
+406
+00:14:21,350 --> 00:14:23,350
+the year of publication also 
+
+407
+00:14:23,350 --> 00:14:25,750
+says a lot about the content, if 
+
+408
+00:14:25,750 --> 00:14:27,370
+it is known at all. 
+
+409
+00:14:27,370 --> 00:14:28,790
+So perhaps it is already written here, if 
+
+410
+00:14:28,790 --> 00:14:30,090
+possible, so you should also 
+
+411
+00:14:30,090 --> 00:14:32,350
+
+412
+00:14:32,350 --> 00:14:34,770
+be able to assign it to the era or age. 
+For example, if you 
+
+413
+00:14:34,770 --> 00:14:35,570
+'re in the LK , I can't 
+
+414
+00:14:35,570 --> 00:14:37,030
+remember which of you two or whether 
+
+415
+00:14:37,030 --> 00:14:39,730
+you were both in the LK. If you 
+
+416
+00:14:39,730 --> 00:14:41,270
+can then assign the era, for example, 
+
+417
+00:14:41,370 --> 00:14:42,870
+I don't know, then, this is a 
+
+418
+00:14:42,870 --> 00:14:47,870
+text, blah blah blah, that can be 
+
+419
+00:14:47,870 --> 00:14:49,170
+assigned to the Sturm und Drang 
+
+420
+00:14:49,170 --> 00:14:51,210
+, for example. You should 
+
+421
+00:14:51,210 --> 00:14:52,390
+mention that if you know that, 
+
+422
+00:14:52,510 --> 00:14:56,150
+if you know the date. And then, 
+
+423
+00:14:56,190 --> 00:14:57,750
+what is this text about? 
+
+424
+00:14:57,850 --> 00:15:00,570
+Topic or problem, but this 
+
+425
+00:15:00,570 --> 00:15:03,850
+does not mean that the synopsis begins 
+here 
+
+426
+00:15:03,850 --> 00:15:06,230
+, but rather that 
+
+427
+00:15:06,230 --> 00:15:09,130
+one or at most two 
+
+428
+00:15:09,130 --> 00:15:10,810
+sentences are sufficient , here it really 
+is the case, one 
+
+429
+00:15:10,810 --> 00:15:12,690
+or two sentences that really 
+
+430
+00:15:12,690 --> 00:15:15,470
+roughly outline the topic so that the 
+
+431
+00:15:15,470 --> 00:15:17,490
+reader immediately knows what 
+
+432
+00:15:17,490 --> 00:15:19,570
+this text is about . The synopsis, the 
+
+433
+00:15:19,570 --> 00:15:21,770
+main part of it, then follows. 
+
+434
+00:15:25,250 --> 00:15:26,550
+Main part. Here, of course, you can 
+
+435
+00:15:26,550 --> 00:15:27,810
+again differentiate between which 
+
+436
+00:15:27,810 --> 00:15:29,670
+text category I come from. 
+
+437
+00:15:29,670 --> 00:15:31,670
+Do I come from a non-fictional text or 
+
+438
+00:15:31,670 --> 00:15:33,190
+a fictional text? 
+
+439
+00:15:33,190 --> 00:15:34,710
+Do I come from drama, poetry or 
+
+440
+00:15:34,710 --> 00:15:35,990
+epic? Depending on what I 
+
+441
+00:15:35,990 --> 00:15:37,870
+have here. Here is an 
+
+442
+00:15:37,870 --> 00:15:40,030
+example of a fictional text. How 
+
+443
+00:15:40,030 --> 00:15:41,770
+should the main body 
+
+444
+00:15:41,770 --> 00:15:45,330
+be structured for fictional texts? 
+
+445
+00:15:45,330 --> 00:15:47,070
+Of course, I have to address the 
+characters 
+
+446
+00:15:47,070 --> 00:15:48,910
+involved . Who are the characters 
+
+447
+00:15:48,910 --> 00:15:51,290
+? Where does the whole thing take place? 
+In 
+
+448
+00:15:51,290 --> 00:15:52,990
+what time? Perhaps also what 
+
+449
+00:15:52,990 --> 00:15:54,710
+time period? All of this has to 
+
+450
+00:15:54,710 --> 00:15:57,470
+be specified , of course. And then comes 
+
+451
+00:15:57,470 --> 00:15:59,670
+the summary of the most important 
+
+452
+00:15:59,670 --> 00:16:02,150
+events. This can be in chronological 
+
+453
+00:16:02,150 --> 00:16:04,410
+order, but should not 
+
+454
+00:16:04,410 --> 00:16:08,790
+have any time jumps or flashbacks. In 
+
+455
+00:16:08,790 --> 00:16:10,330
+chronological order makes 
+
+456
+00:16:10,330 --> 00:16:11,830
+perfect sense for fictional texts, 
+
+457
+00:16:11,870 --> 00:16:13,490
+as these are narrative texts. 
+
+458
+00:16:13,930 --> 00:16:16,630
+With non-fiction texts, you can 
+
+459
+00:16:16,630 --> 00:16:18,550
+deviate from 
+
+460
+00:16:18,550 --> 00:16:20,170
+going through the text chronologically . 
+In this case, it 
+
+461
+00:16:20,170 --> 00:16:20,990
+may simply make sense to 
+
+462
+00:16:21,030 --> 00:16:23,630
+go through different positions 
+
+463
+00:16:23,630 --> 00:16:26,810
+or perhaps also different 
+
+464
+00:16:26,810 --> 00:16:28,590
+scientific aspects 
+
+465
+00:16:28,590 --> 00:16:30,330
+that you 
+
+466
+00:16:30,330 --> 00:16:32,890
+have summarized . You can also 
+
+467
+00:16:32,890 --> 00:16:35,710
+
+468
+00:16:35,710 --> 00:16:37,290
+deviate from this chronological logical 
+sequence. 
+
+469
+00:16:37,290 --> 00:16:38,570
+But with fictional texts , i.e. 
+
+470
+00:16:38,570 --> 00:16:40,250
+narrative texts, you should stick to 
+
+471
+00:16:40,250 --> 00:16:44,870
+it . 
+
+472
+00:16:44,870 --> 00:16:46,870
+Take the example of a non-fiction text. 
+
+473
+00:16:46,870 --> 00:16:48,570
+Of course, you should provide a certain 
+number of 
+
+474
+00:16:48,570 --> 00:16:50,170
+meaningful sections. That's 
+
+475
+00:16:50,210 --> 00:16:52,010
+what I just meant. Maybe 
+
+476
+00:16:52,010 --> 00:16:54,550
+this text is about 
+
+477
+00:16:54,550 --> 00:16:55,910
+a certain topic, 
+
+478
+00:16:55,910 --> 00:16:57,490
+illuminated from different angles. You 
+
+479
+00:16:57,490 --> 00:16:59,190
+simply make meaningful sections out of it 
+
+480
+00:16:59,190 --> 00:17:01,950
+and think about what 
+
+481
+00:17:01,950 --> 00:17:03,250
+the first, second, third 
+
+482
+00:17:03,250 --> 00:17:04,870
+section is about, what are the most 
+important 
+
+483
+00:17:04,870 --> 00:17:08,730
+details, exactly which 
+
+484
+00:17:08,730 --> 00:17:10,290
+sections, 
+
+485
+00:17:10,670 --> 00:17:11,850
+summarize further sections , the 
+conclusion, the, ah 
+
+486
+00:17:11,850 --> 00:17:13,110
+yes, have you then 
+
+487
+00:17:13,110 --> 00:17:14,630
+put the sections together, have you 
+
+488
+00:17:14,630 --> 00:17:15,750
+already described the sections , what are 
+the 
+
+489
+00:17:15,750 --> 00:17:17,290
+most important aspects, could you 
+
+490
+00:17:17,290 --> 00:17:18,150
+perhaps notice that there 
+
+491
+00:17:18,150 --> 00:17:19,550
+is something coherent, 
+
+492
+00:17:19,610 --> 00:17:20,730
+something that 
+
+493
+00:17:20,730 --> 00:17:22,570
+overlays the whole thing, so to speak , 
+then 
+
+494
+00:17:22,570 --> 00:17:24,330
+of course you could also 
+
+495
+00:17:24,330 --> 00:17:25,330
+
+496
+00:17:25,330 --> 00:17:28,110
+write a conclusion, a so-called final 
+sentence or a conclusion. But you'll 
+notice, 
+
+497
+00:17:28,110 --> 00:17:30,790
+whether you're using a non-fiction text or 
+
+498
+00:17:30,790 --> 00:17:32,170
+a fictional text, that 
+
+499
+00:17:33,310 --> 00:17:35,810
+careful planning is the be-all 
+
+500
+00:17:35,810 --> 00:17:39,170
+and end-all. So many students, many 
+students 
+
+501
+00:17:39,170 --> 00:17:40,370
+
+502
+00:17:40,370 --> 00:17:41,770
+still don't have the confidence , 
+especially for an 
+
+503
+00:17:41,770 --> 00:17:44,210
+exam like this , which can easily take two 
+or 
+
+504
+00:17:44,430 --> 00:17:47,110
+three hours. So you want to 
+
+505
+00:17:47,110 --> 00:17:48,350
+ask briefly, what is the 
+
+506
+00:17:48,350 --> 00:17:50,310
+current status of German lessons? 
+
+507
+00:17:51,990 --> 00:17:52,970
+Advanced course exams, preliminary exams 
+
+508
+00:17:52,970 --> 00:17:54,010
+, for example. How long are they? 
+
+509
+00:17:58,410 --> 00:17:59,210
+Ms. Schönweiß. 
+
+510
+00:18:06,290 --> 00:18:08,870
+Ah yes. Well, you write for four to 
+
+511
+00:18:08,870 --> 00:18:11,430
+five hours. That means you have 
+
+512
+00:18:11,430 --> 00:18:12,870
+plenty of time, even if, 
+
+513
+00:18:12,870 --> 00:18:13,890
+
+514
+00:18:13,890 --> 00:18:15,230
+as I said, many students don't quite have 
+the confidence to 
+
+515
+00:18:16,230 --> 00:18:18,210
+
+516
+00:18:18,210 --> 00:18:19,830
+
+517
+00:18:19,830 --> 00:18:21,450
+take apart a text in front of you to the 
+best of their knowledge and belief . In 
+other words, you 
+
+518
+00:18:21,450 --> 00:18:23,690
+can smear it with colors and 
+
+519
+00:18:23,690 --> 00:18:26,610
+marginal notes and 
+
+520
+00:18:26,610 --> 00:18:29,090
+integrate and circle sections of meaning. 
+And then 
+
+521
+00:18:29,090 --> 00:18:30,070
+you can take a so-called 
+
+522
+00:18:30,070 --> 00:18:31,650
+concept paper. You 
+
+523
+00:18:31,650 --> 00:18:32,810
+simply take a blank piece of paper, which 
+
+524
+00:18:32,810 --> 00:18:34,770
+you are also allowed to do in the exam, in 
+
+525
+00:18:34,770 --> 00:18:36,450
+which you already 
+
+526
+00:18:36,450 --> 00:18:38,690
+plan a rough outline , so to speak. What 
+should the 
+
+527
+00:18:38,690 --> 00:18:40,270
+summary look like from your point of view 
+
+528
+00:18:40,270 --> 00:18:44,070
+? 
+
+529
+00:18:44,070 --> 00:18:45,550
+And what 
+
+530
+00:18:45,550 --> 00:18:46,970
+is important to include in 
+
+531
+00:18:46,970 --> 00:18:48,550
+bullet points, of course, so that you 
+
+532
+00:18:48,550 --> 00:18:50,090
+only 
+
+533
+00:18:50,090 --> 00:18:51,150
+
+534
+00:18:51,150 --> 00:18:54,390
+have to keep an eye on this concept paper 
+from time to time as you write. And then 
+
+535
+00:18:54,390 --> 00:18:56,890
+you won't get lost. 
+
+536
+00:18:56,890 --> 00:18:58,390
+I find it very difficult and 
+
+537
+00:18:58,390 --> 00:18:59,690
+actually impossible to write a 
+
+538
+00:18:59,690 --> 00:19:01,490
+synopsis without a 
+
+539
+00:19:01,490 --> 00:19:03,330
+concept paper . You get 
+
+540
+00:19:03,330 --> 00:19:04,550
+lost in between, you 
+
+541
+00:19:04,550 --> 00:19:06,150
+digress, you lose the 
+
+542
+00:19:06,150 --> 00:19:07,250
+thread, it's no longer really 
+
+543
+00:19:07,250 --> 00:19:09,690
+legible. And by that I don't mean 
+
+544
+00:19:09,690 --> 00:19:10,910
+the legibility of the writing, but 
+
+545
+00:19:10,910 --> 00:19:12,390
+you simply don't somehow understand 
+
+546
+00:19:12,390 --> 00:19:14,390
+the thread you 
+
+547
+00:19:14,390 --> 00:19:16,490
+'ve been following. So my appeal to you is 
+to 
+
+548
+00:19:16,590 --> 00:19:20,170
+take it easy. 
+
+549
+00:19:20,170 --> 00:19:21,610
+
+550
+00:19:21,610 --> 00:19:23,830
+When I was writing my exams , I sometimes 
+
+551
+00:19:23,830 --> 00:19:26,730
+didn't write anything for 20 to 30 minutes 
+for 
+
+552
+00:19:26,730 --> 00:19:28,030
+the synopsis, I just 
+
+553
+00:19:28,030 --> 00:19:30,970
+sorted it, divided it into sections, 
+
+554
+00:19:30,990 --> 00:19:32,830
+created a concept paper and outline 
+
+555
+00:19:32,830 --> 00:19:34,170
+and only then started 
+
+556
+00:19:34,170 --> 00:19:36,450
+writing. You have to dare to do that, 
+
+557
+00:19:36,470 --> 00:19:37,530
+it was 
+
+558
+00:19:37,530 --> 00:19:39,950
+difficult for me at the beginning too , 
+but it's worth it. 
+
+559
+00:19:39,950 --> 00:19:41,310
+It's really worth it, because 
+
+560
+00:19:41,310 --> 00:19:42,550
+once you 
+
+561
+00:19:42,550 --> 00:19:44,710
+'ve written a concept paper like this , 
+you write from A 
+
+562
+00:19:44,710 --> 00:19:46,330
+to Z once and 
+
+563
+00:19:46,330 --> 00:19:47,810
+don't have any problems getting 
+
+564
+00:19:47,810 --> 00:19:50,370
+lost in between. A big tip from me. 
+
+565
+00:19:52,470 --> 00:19:54,050
+So, finally we come to a 
+
+566
+00:19:54,050 --> 00:19:55,890
+small checklist. So, have I 
+
+567
+00:19:55,890 --> 00:19:57,310
+used the contra quals throughout 
+
+568
+00:19:57,310 --> 00:19:59,730
+? Have I 
+
+569
+00:19:59,730 --> 00:20:01,650
+
+570
+00:20:01,650 --> 00:20:04,370
+converted direct speech into indirect 
+speech , if at all necessary ? Have 
+
+571
+00:20:04,370 --> 00:20:05,730
+I, very importantly, used my own 
+
+572
+00:20:05,730 --> 00:20:07,850
+formulations? Or am 
+
+573
+00:20:07,850 --> 00:20:09,490
+I perhaps still too close to the text 
+
+574
+00:20:09,490 --> 00:20:11,990
+? Have I written factually? 
+
+575
+00:20:11,990 --> 00:20:13,210
+Not that I 
+
+576
+00:20:13,210 --> 00:20:15,570
+
+577
+00:20:15,570 --> 00:20:17,470
+have used any embellishing adjectives that 
+I 
+
+578
+00:20:17,470 --> 00:20:20,410
+would have to delete immediately. Have I 
+limited myself to essential 
+
+579
+00:20:20,410 --> 00:20:22,510
+aspects or 
+
+580
+00:20:22,510 --> 00:20:23,810
+am I perhaps even repeating myself 
+somewhere 
+
+581
+00:20:23,810 --> 00:20:25,250
+
+582
+00:20:25,250 --> 00:20:28,590
+that could perhaps be summarized again? 
+Have I 
+
+583
+00:20:28,590 --> 00:20:30,930
+hopefully not 
+
+584
+00:20:30,930 --> 00:20:33,050
+
+585
+00:20:33,050 --> 00:20:34,490
+written any evaluations, interpretations 
+or comments , but have I really only 
+
+586
+00:20:34,490 --> 00:20:36,270
+given a factual account of what 
+
+587
+00:20:36,270 --> 00:20:39,370
+appears in the text? Have I 
+
+588
+00:20:39,370 --> 00:20:40,870
+included everything important about the 
+text in my 
+
+589
+00:20:40,870 --> 00:20:41,790
+evaluation? Introduction, have I 
+
+590
+00:20:41,790 --> 00:20:43,730
+perhaps 
+
+591
+00:20:43,730 --> 00:20:45,130
+forgotten the year of publication , which 
+can happen in the heat 
+
+592
+00:20:45,130 --> 00:20:47,370
+of the moment, have I 
+
+593
+00:20:47,370 --> 00:20:48,810
+kept to the correct order for 
+
+594
+00:20:48,810 --> 00:20:51,330
+fictional texts or is my 
+
+595
+00:20:51,330 --> 00:20:53,790
+division into meaningful sections good, 
+
+596
+00:20:53,890 --> 00:20:55,450
+logical, sensible, if I am 
+
+597
+00:20:55,450 --> 00:20:57,910
+analyzing non-fiction texts, do I 
+
+598
+00:20:57,910 --> 00:20:58,970
+perhaps have a summarizing 
+
+599
+00:20:58,970 --> 00:21:00,930
+final sentence and so on. 
+
+600
+00:21:00,930 --> 00:21:03,970
+You can keep that roughly in 
+
+601
+00:21:03,970 --> 00:21:07,370
+mind as a checklist , then you can 
+
+602
+00:21:07,370 --> 00:21:08,610
+'t really 
+
+603
+00:21:08,610 --> 00:21:11,370
+do too much wrong. So, my dears, 
+
+604
+00:21:11,370 --> 00:21:13,630
+that's actually all you need to 
+
+605
+00:21:13,630 --> 00:21:15,450
+know about the synopsis. 
+
+606
+00:21:15,650 --> 00:21:17,050
+It may seem very 
+
+607
+00:21:17,050 --> 00:21:19,010
+short to you , because this summary 
+usually 
+
+608
+00:21:19,010 --> 00:21:21,710
+
+609
+00:21:21,710 --> 00:21:23,930
+corresponds to requirement area 1 in an 
+exam. 
+
+610
+00:21:25,390 --> 00:21:26,790
+That's probably why 
+
+611
+00:21:26,790 --> 00:21:27,770
+not so much attention is paid to it 
+
+612
+00:21:27,770 --> 00:21:29,370
+. But you should, because with 
+
+613
+00:21:29,370 --> 00:21:30,930
+a good summary, you are 
+
+614
+00:21:30,930 --> 00:21:33,070
+also well prepared for 
+
+615
+00:21:33,070 --> 00:21:34,570
+further tasks, 
+
+616
+00:21:34,570 --> 00:21:35,890
+such as standard 
+
+617
+00:21:35,890 --> 00:21:38,330
+analysis tasks, where you 
+
+618
+00:21:38,330 --> 00:21:40,510
+are also supposed to analyze the text. 
+Many people make 
+
+619
+00:21:40,510 --> 00:21:41,970
+the mistake, especially when they 
+
+620
+00:21:41,970 --> 00:21:44,350
+read I am analyzing the text, of 
+
+621
+00:21:44,350 --> 00:21:46,070
+only writing a summary 
+
+622
+00:21:46,070 --> 00:21:47,030
+and not really 
+
+623
+00:21:47,030 --> 00:21:49,330
+analyzing it. In other words, a summary as 
+
+624
+00:21:49,330 --> 00:21:52,330
+opposed to a text analysis. 
+
+625
+00:21:53,130 --> 00:21:54,550
+A summary really only gives 
+
+626
+00:21:54,550 --> 00:21:56,450
+a factual account of the text. 
+
+627
+00:21:56,450 --> 00:21:58,650
+We have 
+
+628
+00:21:58,650 --> 00:22:00,710
+just discussed the criteria for this. And 
+
+629
+00:22:00,710 --> 00:22:02,790
+when it comes to text analysis, I have to 
+
+630
+00:22:02,790 --> 00:22:05,070
+look deeper. 
+
+631
+00:22:05,070 --> 00:22:07,570
+The main question is, what did the 
+
+632
+00:22:07,570 --> 00:22:10,270
+author of the text 
+
+633
+00:22:10,270 --> 00:22:12,110
+actually want to convey to me as the 
+reader ? That's the 
+
+634
+00:22:12,110 --> 00:22:15,090
+rough distinction. If you 
+
+635
+00:22:15,090 --> 00:22:17,010
+have any questions for Katrin 
+
+636
+00:22:17,010 --> 00:22:18,730
+and Annika, please feel free to ask them 
+
+637
+00:22:18,730 --> 00:22:19,730
+now. 
+
+638
+00:22:27,990 --> 00:22:30,170
+Your heads are spinning. Did I 
+
+639
+00:22:30,170 --> 00:22:31,570
+perhaps understand something ? Uh, not 
+
+640
+00:22:31,570 --> 00:22:34,070
+understood, sorry. Otherwise, 
+
+641
+00:22:34,070 --> 00:22:35,130
+you can give me a short 
+
+642
+00:22:35,130 --> 00:22:36,010
+feedback now . 
+
+643
+00:22:47,860 --> 00:22:48,260
+great, 
+
+644
+00:23:06,850 --> 00:23:08,490
+great, thank you, that makes me happy. 
+
+645
+00:23:09,370 --> 00:23:10,950
+Then, if there are no more questions 
+
+646
+00:23:10,950 --> 00:23:12,510
+and you 
+
+647
+00:23:12,510 --> 00:23:13,970
+'re totally happy with it , have a nice 
+
+648
+00:23:13,970 --> 00:23:16,110
+evening tonight. 
+
+649
+00:23:16,110 --> 00:23:17,030
+I don't need to 
+
+650
+00:23:17,030 --> 00:23:18,310
+repeat the appeal right now , I've already 
+
+651
+00:23:18,310 --> 00:23:19,890
+done that, you've noticed. Stay 
+
+652
+00:23:19,890 --> 00:23:21,750
+at home, enjoy the time that 
+
+653
+00:23:21,750 --> 00:23:24,030
+you can stay at home. 
+
+654
+00:23:24,030 --> 00:23:25,910
+You're really doing everyone 
+
+655
+00:23:25,910 --> 00:23:28,570
+a big favor. Okay, 
+
+656
+00:23:28,610 --> 00:23:29,610
+great. Have a nice evening 
+
+657
+00:23:29,610 --> 00:23:30,090
+. Bye. 

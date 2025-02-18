@@ -1,0 +1,602 @@
+﻿1
+00:00:04,080 --> 00:00:06,620
+Hello, my name is Nick and I am a 
+
+2
+00:00:06,620 --> 00:00:08,120
+tutor at Schülerhilfe. 
+
+3
+00:00:08,200 --> 00:00:10,000
+I'm pleased to 
+
+4
+00:00:10,000 --> 00:00:11,300
+
+5
+00:00:11,300 --> 00:00:13,080
+be able to explain something about the 
+human eye to you today. In addition to 
+this video, 
+
+6
+00:00:13,080 --> 00:00:14,540
+you can also 
+
+7
+00:00:14,540 --> 00:00:16,260
+ find a wiki 
+
+8
+00:00:16,260 --> 00:00:18,320
+on this topic in our online learning 
+center, where 
+
+9
+00:00:18,320 --> 00:00:19,560
+the most important terms and 
+
+10
+00:00:19,560 --> 00:00:21,420
+basics are explained. We 
+
+11
+00:00:21,420 --> 00:00:23,180
+humans have amazingly 
+
+12
+00:00:23,180 --> 00:00:25,180
+well-developed eyes, even compared 
+
+13
+00:00:25,180 --> 00:00:26,760
+to primates. In our 
+
+14
+00:00:26,760 --> 00:00:28,180
+past, the ability to 
+
+15
+00:00:28,260 --> 00:00:30,020
+
+16
+00:00:30,020 --> 00:00:32,140
+spot snakes and other enemies from a great 
+distance or to distinguish ripe 
+
+17
+00:00:32,140 --> 00:00:33,620
+from unripe fruit was 
+
+18
+00:00:33,700 --> 00:00:36,260
+essential for our survival. To 
+
+19
+00:00:36,260 --> 00:00:37,520
+see in the dark, we can 
+
+20
+00:00:37,520 --> 00:00:39,220
+even dilate our pupils to 
+
+21
+00:00:39,220 --> 00:00:41,380
+let in more light. A 
+
+22
+00:00:41,380 --> 00:00:43,020
+good way to 
+
+23
+00:00:43,020 --> 00:00:44,600
+
+24
+00:00:44,600 --> 00:00:46,420
+arm ourselves against the many dangers of 
+dusk and dawn. But how does 
+
+25
+00:00:46,420 --> 00:00:48,400
+the eye actually work? And 
+
+26
+00:00:48,400 --> 00:00:49,840
+how can we even see with it? 
+
+27
+00:00:51,040 --> 00:00:52,700
+Objects reflect light. 
+
+28
+00:00:52,700 --> 00:00:54,380
+Seeing means 
+
+29
+00:00:54,380 --> 00:00:55,940
+processing the reflected light rays in the 
+eye. 
+
+30
+00:00:56,180 --> 00:00:57,500
+The light rays have to pass through 
+
+31
+00:00:57,500 --> 00:00:59,360
+the crystal-clear cornea, in which 
+
+32
+00:00:59,360 --> 00:01:01,220
+the light is refracted, and through 
+
+33
+00:01:01,220 --> 00:01:02,760
+the pupil, a hole in the iris 
+
+34
+00:01:02,920 --> 00:01:04,340
+which, depending on the brightness, is 
+either 
+
+35
+00:01:04,340 --> 00:01:06,320
+larger when it is dark or smaller 
+
+36
+00:01:06,440 --> 00:01:08,600
+when it is light. On their long 
+
+37
+00:01:08,600 --> 00:01:09,940
+journey through the lens, the 
+
+38
+00:01:09,940 --> 00:01:11,460
+light rays are bundled further and 
+
+39
+00:01:11,460 --> 00:01:13,600
+cross each other. This is why the image 
+
+40
+00:01:13,600 --> 00:01:14,940
+on the retina is reversed 
+
+41
+00:01:14,940 --> 00:01:17,700
+. At a point above the 
+
+42
+00:01:17,700 --> 00:01:19,660
+optic nerve, information is 
+
+43
+00:01:19,660 --> 00:01:21,640
+passed on to the brain where it is 
+reassembled 
+
+44
+00:01:21,640 --> 00:01:22,560
+into a correct image 
+
+45
+00:01:22,560 --> 00:01:24,620
+. For this process to 
+
+46
+00:01:24,620 --> 00:01:26,160
+work properly, we need 
+
+47
+00:01:26,160 --> 00:01:28,080
+more or less healthy eyes. 
+
+48
+00:01:28,080 --> 00:01:29,320
+
+49
+00:01:29,380 --> 00:01:31,400
+Let's take a look at exactly how they are 
+constructed. 
+
+50
+00:01:31,400 --> 00:01:32,700
+The most important components of the 
+
+51
+00:01:32,700 --> 00:01:35,140
+human eye are the cornea, 
+
+52
+00:01:35,180 --> 00:01:37,900
+the pupil, the iris or iris 
+
+53
+00:01:37,900 --> 00:01:39,540
+membrane, the 
+
+54
+00:01:39,540 --> 00:01:42,100
+ciliary muscle, the lens, the 
+
+55
+00:01:42,100 --> 00:01:44,420
+vitreous body, the sclera, the 
+
+56
+00:01:44,420 --> 00:01:46,700
+choroid, the retina and the 
+
+57
+00:01:46,700 --> 00:01:49,080
+optic nerve. Many of these structures are 
+
+58
+00:01:49,080 --> 00:01:50,600
+extremely sensitive. As good 
+
+59
+00:01:50,600 --> 00:01:52,340
+eyesight 
+
+60
+00:01:52,340 --> 00:01:54,060
+was even more vital for our ancestors than 
+it is for 
+
+61
+00:01:54,060 --> 00:01:55,640
+us, we humans have 
+
+62
+00:01:55,640 --> 00:01:57,420
+
+63
+00:01:57,420 --> 00:01:58,820
+developed various mechanisms and organs 
+
+64
+00:01:58,820 --> 00:02:00,480
+to protect our eyes. 
+
+65
+00:02:00,480 --> 00:02:02,680
+
+66
+00:02:02,680 --> 00:02:04,260
+
+67
+00:02:04,260 --> 00:02:05,680
+I will now explain the most important of 
+these organs, the eyebrows, eyelashes, 
+lacrimal fluid and eyelids, 
+
+68
+00:02:05,680 --> 00:02:07,980
+in more detail. The eyebrows serve to 
+
+69
+00:02:08,080 --> 00:02:10,020
+protect the eyes from sweat, wetness, dust 
+
+70
+00:02:10,020 --> 00:02:11,480
+and other foreign bodies 
+
+71
+00:02:11,480 --> 00:02:12,880
+and thus support the function 
+
+72
+00:02:12,880 --> 00:02:15,300
+of the eyelashes the eyelashes 
+
+73
+00:02:15,300 --> 00:02:17,120
+protect the eyes by catching 
+
+74
+00:02:17,120 --> 00:02:18,680
+small dirt particles or 
+
+75
+00:02:18,680 --> 00:02:21,080
+foreign bodies the tear fluid 
+
+76
+00:02:21,080 --> 00:02:23,160
+serves to remove foreign bodies by 
+
+77
+00:02:23,160 --> 00:02:24,680
+playing out or evenly 
+
+78
+00:02:24,680 --> 00:02:26,620
+moisturizing the cornea it forms 
+
+79
+00:02:26,620 --> 00:02:27,660
+a lubricant for 
+
+80
+00:02:27,660 --> 00:02:29,200
+the low-friction gliding of the eyelids 
+
+81
+00:02:29,200 --> 00:02:30,880
+over the eye and helps to 
+
+82
+00:02:30,880 --> 00:02:32,820
+ward off pathogens. The eyelid 
+
+83
+00:02:32,820 --> 00:02:34,020
+is the muscularly mobile 
+
+84
+00:02:34,020 --> 00:02:35,780
+soft tissue fold that 
+
+85
+00:02:35,780 --> 00:02:37,580
+can protectively cover the eyeball from 
+the front. 
+
+86
+00:02:37,580 --> 00:02:39,060
+Above all, it prevents 
+
+87
+00:02:39,060 --> 00:02:40,660
+the eyeball from drying out and protects 
+against 
+
+88
+00:02:40,660 --> 00:02:42,400
+external mechanical influences. 
+
+89
+00:02:42,960 --> 00:02:44,440
+However, 
+
+90
+00:02:44,440 --> 00:02:45,880
+not everyone's vision works equally well. 
+
+91
+00:02:46,200 --> 00:02:48,000
+Many people suffer from short-sightedness 
+
+92
+00:02:48,000 --> 00:02:49,940
+or long-sightedness. The causes of 
+
+93
+00:02:49,940 --> 00:02:51,640
+these visual defects can be varied 
+
+94
+00:02:51,640 --> 00:02:53,100
+. For example 
+
+95
+00:02:53,100 --> 00:02:55,440
+, short-sightedness can be caused by 
+
+96
+00:02:55,440 --> 00:02:57,480
+an eyeball that is too long. Let's take a 
+
+97
+00:02:57,480 --> 00:02:58,620
+
+98
+00:02:58,620 --> 00:03:00,540
+closer look at the two groups of 
+short-sightedness and long-sightedness. 
+
+99
+00:03:00,540 --> 00:03:02,360
+Short-sightedness is a congenital 
+
+100
+00:03:02,360 --> 00:03:04,180
+or acquired visual defect of the 
+
+101
+00:03:04,180 --> 00:03:06,020
+eye. People who are short-sighted 
+
+102
+00:03:06,020 --> 00:03:07,640
+can usually still see well up close, 
+
+103
+00:03:07,740 --> 00:03:09,540
+while objects in the distance 
+
+104
+00:03:09,540 --> 00:03:11,140
+appear blurred. 
+
+105
+00:03:11,140 --> 00:03:12,780
+The opposite is true for long-sighted 
+people. 
+
+106
+00:03:13,260 --> 00:03:15,440
+This means that a short-sighted person 
+
+107
+00:03:15,440 --> 00:03:16,940
+does not generally have poorer vision 
+
+108
+00:03:16,940 --> 00:03:17,900
+; at close range, they may 
+
+109
+00:03:17,900 --> 00:03:19,640
+even be superior to someone with normal 
+vision. 
+
+110
+00:03:20,140 --> 00:03:22,240
+People who 
+
+111
+00:03:22,240 --> 00:03:23,740
+cannot see close objects clearly are 
+considered far-sighted 
+
+112
+00:03:23,740 --> 00:03:25,840
+. This is usually due to the 
+
+113
+00:03:25,840 --> 00:03:29,120
+eyeball being too short. In order for 
+ophthalmologists and 
+
+114
+00:03:29,120 --> 00:03:30,440
+associated engineers 
+
+115
+00:03:30,440 --> 00:03:32,700
+
+116
+00:03:32,700 --> 00:03:34,160
+to be able to make vision corrections or 
+glasses, it is necessary to 
+
+117
+00:03:34,160 --> 00:03:36,940
+determine the visual defect precisely. 
+
+118
+00:03:36,940 --> 00:03:38,540
+The most important unit for 
+
+119
+00:03:38,540 --> 00:03:40,420
+
+120
+00:03:40,420 --> 00:03:42,100
+describing the strength of 
+long-sightedness or short-sightedness is 
+called the diopter. 
+
+121
+00:03:42,260 --> 00:03:44,400
+The unit of measurement diopter 
+
+122
+00:03:44,400 --> 00:03:45,700
+is used in ophthalmic optics 
+
+123
+00:03:45,700 --> 00:03:46,780
+to describe how strongly a 
+
+124
+00:03:46,780 --> 00:03:48,220
+spectacle lens must refract light in order 
+to 
+
+125
+00:03:48,320 --> 00:03:50,120
+correct a visual defect 
+
+126
+00:03:50,120 --> 00:03:52,080
+. Put simply, the 
+
+127
+00:03:52,080 --> 00:03:53,760
+strength of the lenses is 
+
+128
+00:03:53,760 --> 00:03:56,080
+given in diopters. However, 
+
+129
+00:03:56,080 --> 00:03:57,820
+people who are completely blind and 
+
+130
+00:03:57,820 --> 00:03:59,380
+therefore have no use for glasses can also 
+
+131
+00:03:59,380 --> 00:04:00,440
+make use of various 
+
+132
+00:04:00,440 --> 00:04:02,080
+aids. 
+
+133
+00:04:02,080 --> 00:04:03,580
+The best-known aids include 
+
+134
+00:04:03,580 --> 00:04:05,320
+guide dogs, canes for the blind 
+
+135
+00:04:05,320 --> 00:04:07,600
+and even echolocation. 
+
+136
+00:04:07,600 --> 00:04:09,300
+The blind person makes a sound 
+
+137
+00:04:09,300 --> 00:04:10,940
+and can 
+
+138
+00:04:10,940 --> 00:04:12,480
+recognize how far 
+
+139
+00:04:12,480 --> 00:04:14,080
+away a potential obstacle is based on the 
+echo . 
+
+140
+00:04:14,600 --> 00:04:16,480
+I hope you now know more about 
+
+141
+00:04:16,480 --> 00:04:17,780
+how the human 
+
+142
+00:04:17,780 --> 00:04:20,040
+eye works. If you have any further 
+questions about 
+
+143
+00:04:20,040 --> 00:04:21,360
+this or other topics, please 
+
+144
+00:04:21,480 --> 00:04:23,060
+contact your 
+
+145
+00:04:23,060 --> 00:04:24,640
+local Schülerhilfe or take a look 
+
+146
+00:04:24,640 --> 00:04:26,740
+at our online learning center. See 
+
+147
+00:04:26,740 --> 00:04:27,380
+you next time! 

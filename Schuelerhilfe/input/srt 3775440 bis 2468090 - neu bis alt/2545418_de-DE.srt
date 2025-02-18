@@ -1,0 +1,1044 @@
+1
+00:00:01,170 --> 00:00:03,090
+Herzlich willkommen zum Webinar der
+
+2
+00:00:03,090 --> 00:00:04,510
+Schülerhilfe zum Thema
+
+3
+00:00:04,510 --> 00:00:08,290
+Grundrechenarten. Wir wollen heute
+
+4
+00:00:08,290 --> 00:00:09,610
+einmal durchgehen, wie wir die
+
+5
+00:00:09,610 --> 00:00:11,550
+Grundrechenarten Addition,
+
+6
+00:00:11,790 --> 00:00:15,070
+Subtraktion, Multiplikation und
+
+7
+00:00:15,070 --> 00:00:18,970
+Division anwenden und im Anschluss
+
+8
+00:00:18,970 --> 00:00:20,890
+möchten wir uns anschauen, wie wir
+
+9
+00:00:20,890 --> 00:00:23,130
+sie bei Brüchen bzw. bei
+
+10
+00:00:23,130 --> 00:00:26,830
+Dezimalbrüchen gebrauchen. Beginnen
+
+11
+00:00:26,830 --> 00:00:30,090
+wollen wir mit der Addition. Bei der
+
+12
+00:00:30,090 --> 00:00:32,590
+Addition werden zwei oder auch
+
+13
+00:00:32,590 --> 00:00:34,630
+mehrere Zahlen zusammengezählt.
+
+14
+00:00:35,030 --> 00:00:37,190
+Hierbei wird das Pluszeichen
+
+15
+00:00:37,190 --> 00:00:39,850
+verwendet. Also wir sehen hier, wir
+
+16
+00:00:39,850 --> 00:00:43,370
+haben mindestens zwei Zahlen, die
+
+17
+00:00:43,370 --> 00:00:45,730
+nennen wir Summanden, mit einem
+
+18
+00:00:45,730 --> 00:00:48,650
+Pluszeichen dazwischen. Die ergeben
+
+19
+00:00:48,650 --> 00:00:52,510
+eine Summe. Also zum Beispiel 3 plus
+
+20
+00:00:52,510 --> 00:00:56,370
+4 gleich 7. Das Ganze funktioniert
+
+21
+00:00:56,370 --> 00:00:59,250
+auch mit mehreren Zahlen. In diesem
+
+22
+00:00:59,250 --> 00:01:03,350
+Fall 5 plus 2 plus 3 haben wir 3
+
+23
+00:01:03,350 --> 00:01:06,510
+Summanden und als Ergebnis wieder
+
+24
+00:01:06,510 --> 00:01:10,480
+eine Summe. Hier haben wir noch ein
+
+25
+00:01:10,480 --> 00:01:13,840
+paar Beispielaufgaben vorbereitet. So
+
+26
+00:01:13,840 --> 00:01:18,120
+ist zum Beispiel 12 plus 4 16, 25
+
+27
+00:01:18,120 --> 00:01:27,060
+plus 12 37, 35 plus 17 52, 104 plus
+
+28
+00:01:27,060 --> 00:01:34,560
+208. 3432, 3442 plus
+
+29
+00:01:34,560 --> 00:01:42,440
+9377 ist 12859. Hier haben wir noch
+
+30
+00:01:42,440 --> 00:01:45,400
+Aufgaben mit mehreren Summanden. 37
+
+31
+00:01:45,400 --> 00:01:53,960
+.845 plus 4583 plus 125 ergibt 42
+
+32
+00:01:53,960 --> 00:01:55,400
+.553.
+
+33
+00:01:57,260 --> 00:02:00,880
+Und sogar mit vier Summanden 237 plus
+
+34
+00:02:00,880 --> 00:02:09,120
+62 plus 4397 plus 390 ergibt 5086.
+
+35
+00:02:12,490 --> 00:02:15,390
+Als nächstes schauen wir uns die
+
+36
+00:02:15,390 --> 00:02:18,110
+Subtraktion an. Bei einer Subtraktion
+
+37
+00:02:18,110 --> 00:02:21,250
+wird eine Zahl von einer anderen Zahl
+
+38
+00:02:21,250 --> 00:02:24,250
+abgezogen. Dafür verwenden wir das
+
+39
+00:02:24,250 --> 00:02:28,890
+Minuszeichen. Wir haben also eine
+
+40
+00:02:28,890 --> 00:02:33,010
+Zahl. Von dieser Zahl wird abgezogen.
+
+41
+00:02:33,010 --> 00:02:35,870
+Die nennen wir Minuend. Die steht
+
+42
+00:02:35,870 --> 00:02:38,310
+vorne. Die Zahl, die wir davon
+
+43
+00:02:38,310 --> 00:02:40,310
+abziehen, steht hinter dem
+
+44
+00:02:40,310 --> 00:02:42,030
+Minuszeichen. Die nennen wir
+
+45
+00:02:42,030 --> 00:02:45,950
+Subtrahend. Das Ergebnis von einer
+
+46
+00:02:45,950 --> 00:02:48,230
+Subtraktion nennen wir dann
+
+47
+00:02:48,230 --> 00:02:52,780
+Differenz. Wir können auch mehr als
+
+48
+00:02:52,780 --> 00:02:54,900
+einen Subtrahenden haben. In dem
+
+49
+00:02:54,900 --> 00:02:57,100
+Fall... Nehmen wir unseren Minuent
+
+50
+00:02:57,100 --> 00:03:00,420
+und den ersten Subtrahent, rechnen
+
+51
+00:03:00,420 --> 00:03:02,980
+das Ergebnis aus. In dem Fall 18
+
+52
+00:03:02,980 --> 00:03:07,400
+minus 6 wäre 12. Damit ist 12 unser
+
+53
+00:03:07,400 --> 00:03:11,120
+neuer Minuent. Und wir ziehen den
+
+54
+00:03:11,120 --> 00:03:13,200
+weiteren Subtrahenten davon ab und
+
+55
+00:03:13,200 --> 00:03:16,440
+erhalten unsere Differenz 10. Auch
+
+56
+00:03:18,550 --> 00:03:19,870
+hier haben wir nochmal einige
+
+57
+00:03:19,870 --> 00:03:22,790
+Beispielaufgaben vorbereitet. So ist
+
+58
+00:03:22,790 --> 00:03:30,250
+35 minus 2, 33. 58 minus 26 ist 32,
+
+59
+00:03:31,110 --> 00:03:39,750
+81 minus 38 ist 43, 609 minus 175 ist
+
+60
+00:03:39,750 --> 00:03:51,290
+434, 9863 minus 3746 ist 6117. Hier
+
+61
+00:03:51,290 --> 00:03:54,470
+mit mehreren Subtrahenten, einmal mit
+
+62
+00:03:54,470 --> 00:03:56,950
+zwei Subtrahenten. Subtrahenden und
+
+63
+00:03:56,950 --> 00:04:03,470
+einem Minuent. 2836 minus 273 minus
+
+64
+00:04:03,470 --> 00:04:11,430
+1283 ergibt 1280. Oder 1019 minus
+
+65
+00:04:11,430 --> 00:04:16,230
+319, Da ist 700, dann unser neuer
+
+66
+00:04:16,230 --> 00:04:22,090
+Minuent, minus 286. Dann haben wir
+
+67
+00:04:22,090 --> 00:04:27,390
+den neuen Minuent 414, minus 414.
+
+68
+00:04:28,180 --> 00:04:30,690
+Damit ist unsere Differenz dann 0.
+
+69
+00:04:34,580 --> 00:04:38,270
+Bei der Multiplikation werden zwei
+
+70
+00:04:38,270 --> 00:04:42,130
+oder mehr Zahlen miteinander mal
+
+71
+00:04:42,130 --> 00:04:44,570
+genommen. Dafür verwenden wir das
+
+72
+00:04:44,570 --> 00:04:48,050
+Malzahlen. also ein Punkt. Zum
+
+73
+00:04:49,460 --> 00:04:53,940
+Beispiel 3 mal 4. Die beiden Zahlen
+
+74
+00:04:53,940 --> 00:04:55,960
+bei der Multiplikation nennen wir
+
+75
+00:04:55,960 --> 00:04:59,980
+Faktor. Und wir können eine
+
+76
+00:04:59,980 --> 00:05:01,820
+Multiplikation uns so vorstellen,
+
+77
+00:05:02,140 --> 00:05:10,300
+dass wir 3 mal die 4 nehmen, also den
+
+78
+00:05:10,300 --> 00:05:13,220
+einen Faktor so oft wie der zweite
+
+79
+00:05:13,220 --> 00:05:14,300
+Faktor da ist.
+
+80
+00:05:17,000 --> 00:05:18,340
+3 mal 4 können wir uns auch
+
+81
+00:05:18,340 --> 00:05:22,940
+vorstellen als 4 plus 4 plus 4. 1, 2,
+
+82
+00:05:22,940 --> 00:05:27,020
+3. Oder anders gelesen 4 mal 3. 3
+
+83
+00:05:27,020 --> 00:05:31,480
+plus 3 plus 3 plus 3. Das Ergebnis
+
+84
+00:05:31,480 --> 00:05:33,400
+einer Multiplikation nennen wir
+
+85
+00:05:33,400 --> 00:05:38,370
+Produkt. Wenn wir mehrere Faktoren
+
+86
+00:05:38,370 --> 00:05:42,130
+haben, können wir auch die einfach
+
+87
+00:05:42,130 --> 00:05:44,090
+miteinander multiplizieren. Also wir
+
+88
+00:05:44,090 --> 00:05:48,750
+rechnen 2 mal 2. Das Ergebnis. 4 mal
+
+89
+00:05:48,750 --> 00:05:54,060
+3 ergibt 12 als Produkt. Auch hier
+
+90
+00:05:54,060 --> 00:05:54,880
+haben wir wieder einige
+
+91
+00:05:54,880 --> 00:05:58,540
+Beispielaufgaben. Wir haben 5 mal 21
+
+92
+00:05:58,540 --> 00:06:08,420
+ist 105. 42 mal 11 ist 462. 53 mal 14
+
+93
+00:06:08,420 --> 00:06:17,220
+ist 742. 26 mal 764 ist 19.864.
+
+94
+00:06:19,260 --> 00:06:28,940
+342 mal 93 ist 31.806 35 mal 24 mal
+
+95
+00:06:28,940 --> 00:06:32,060
+8, also mit mehr als zwei Faktoren,
+
+96
+00:06:32,120 --> 00:06:42,300
+ergibt 6720 und 2 mal 12 mal 9 mal 13
+
+97
+00:06:42,300 --> 00:06:45,080
+ergibt 2808
+
+98
+00:06:47,440 --> 00:06:51,580
+Zuletzt haben wir die Division in den
+
+99
+00:06:51,580 --> 00:06:53,560
+Grundrechenarten. Bei einer Division
+
+100
+00:06:53,560 --> 00:06:56,520
+wird eine Zahl durch eine andere
+
+101
+00:06:56,520 --> 00:06:58,640
+geteilt. Dafür verwenden wir das
+
+102
+00:06:58,640 --> 00:07:01,300
+Geteilzeichen, also diesen
+
+103
+00:07:01,300 --> 00:07:05,000
+Doppelpunkt. Bei einer Division haben
+
+104
+00:07:05,000 --> 00:07:07,900
+wir einen Dividend und einen Divisor.
+
+105
+00:07:08,560 --> 00:07:11,260
+Der Dividend ist die Zahl, die
+
+106
+00:07:11,260 --> 00:07:14,300
+geteilt wird. Der Divisor ist die
+
+107
+00:07:14,300 --> 00:07:16,720
+Zahl, durch die geteilt wird. Das
+
+108
+00:07:16,720 --> 00:07:19,000
+heißt, der Divisor steht hinter dem
+
+109
+00:07:19,000 --> 00:07:22,680
+Geteilzeichen. Das Ergebnis einer
+
+110
+00:07:22,680 --> 00:07:25,560
+Division ist der Quotient.
+
+111
+00:07:28,180 --> 00:07:30,360
+Ähnlich wie bei der Subtraktion
+
+112
+00:07:30,360 --> 00:07:33,440
+können wir auch mehrere Divisoren
+
+113
+00:07:33,440 --> 00:07:36,180
+haben. In dem Fall gehen wir genauso
+
+114
+00:07:36,180 --> 00:07:38,620
+vor. Wir nehmen unseren Dividend, in
+
+115
+00:07:38,620 --> 00:07:42,100
+dem Fall 18, teilen ihn durch 3.
+
+116
+00:07:42,900 --> 00:07:45,860
+Unseren ersten Divisor, das ergibt 6.
+
+117
+00:07:46,760 --> 00:07:49,440
+Damit ist 6 unser neuer Dividend und
+
+118
+00:07:49,440 --> 00:07:51,640
+diesen teilen wir dann durch den
+
+119
+00:07:51,640 --> 00:07:54,400
+zweiten Divisor 2 und bekommen damit
+
+120
+00:07:54,400 --> 00:07:59,940
+unseren Quotienten 3. Auch hier sind
+
+121
+00:07:59,940 --> 00:08:02,920
+nochmal ein paar Beispielaufgaben. 24
+
+122
+00:08:02,920 --> 00:08:08,960
+geteilt durch 6 ist 4. 39 geteilt
+
+123
+00:08:08,960 --> 00:08:14,520
+durch 13 ist 3. 144 geteilt durch 12
+
+124
+00:08:14,520 --> 00:08:18,940
+ist 12. Und hier dann mit mehreren
+
+125
+00:08:18,940 --> 00:08:22,900
+Divisoren. 360 geteilt durch 10 ist
+
+126
+00:08:22,900 --> 00:08:26,680
+36. Das heißt, 36 ist unser neuer
+
+127
+00:08:26,680 --> 00:08:30,520
+Dividend. Geteilt durch 3 ist 12.
+
+128
+00:08:30,830 --> 00:08:33,220
+Dann ist 12 unser neuer Dividend.
+
+129
+00:08:33,810 --> 00:08:37,200
+Geteilt durch 12. Also 1.
+
+130
+00:08:41,310 --> 00:08:42,540
+Wie verwenden wir die
+
+131
+00:08:42,540 --> 00:08:44,520
+Grundrechenarten jetzt bei Brüchen?
+
+132
+00:08:45,360 --> 00:08:48,880
+Für die Addition und Subtraktion
+
+133
+00:08:48,880 --> 00:08:50,740
+merken wir uns, wenn wir Brüche
+
+134
+00:08:50,740 --> 00:08:52,460
+miteinander addieren oder
+
+135
+00:08:52,460 --> 00:08:55,160
+subtrahieren wollen, müssen wir alle
+
+136
+00:08:55,160 --> 00:08:57,640
+Brüche, die wir addieren oder
+
+137
+00:08:57,640 --> 00:08:59,120
+subtrahieren wollen, auf einen
+
+138
+00:08:59,120 --> 00:09:01,580
+Nenner, den sogenannten Hauptnenner,
+
+139
+00:09:01,600 --> 00:09:06,220
+kürzen oder erweitern. Danach werden
+
+140
+00:09:06,220 --> 00:09:08,500
+nur die Zähler addiert oder
+
+141
+00:09:08,500 --> 00:09:12,080
+subtrahiert. Also wir haben 3 Viertel
+
+142
+00:09:12,080 --> 00:09:15,340
+plus 1 Achtel. Der Hauptnenner von
+
+143
+00:09:15,340 --> 00:09:18,340
+beiden, den wir auch das kleinste
+
+144
+00:09:18,340 --> 00:09:20,780
+gemeinsame Vielfache nennen, ist 8.
+
+145
+00:09:21,280 --> 00:09:25,220
+Das heißt, wir erweitern 3 Viertel
+
+146
+00:09:25,220 --> 00:09:29,700
+auf 8, also auf den Hauptnenner 8.
+
+147
+00:09:30,040 --> 00:09:33,380
+Das wären dann 6 Achtel plus 1
+
+148
+00:09:33,380 --> 00:09:36,640
+Achtel. Jetzt haben beide Brüche den
+
+149
+00:09:36,640 --> 00:09:39,060
+gleichen Hauptnenner und wir addieren
+
+150
+00:09:39,060 --> 00:09:41,980
+die Zähler. 6 plus 1. Unser Ergebnis
+
+151
+00:09:41,980 --> 00:09:44,500
+ist also 7 Achtel.
+
+152
+00:09:48,770 --> 00:09:52,030
+Wenn wir zwei Brüche erweitern,
+
+153
+00:09:52,030 --> 00:09:54,510
+suchen wir uns auch hier das kleinste
+
+154
+00:09:54,510 --> 00:09:56,570
+gemeinsame Vielfache. Das kleinste
+
+155
+00:09:56,570 --> 00:09:58,930
+gemeinsame Vielfache von 3 und 4 ist
+
+156
+00:09:58,930 --> 00:10:02,770
+12. Wir erweitern also beide Brüche
+
+157
+00:10:02,770 --> 00:10:05,250
+auf den Hauptnenner 12. Das heißt,
+
+158
+00:10:05,310 --> 00:10:08,610
+aus 2 Dritteln werden 8 Zwölftel, aus
+
+159
+00:10:08,610 --> 00:10:11,850
+einem Viertel werden 3 Zwölftel. Dann
+
+160
+00:10:11,850 --> 00:10:13,770
+haben beide Brüche den gleichen
+
+161
+00:10:13,770 --> 00:10:16,550
+Hauptnenner und wir subtrahieren die
+
+162
+00:10:16,550 --> 00:10:20,210
+Zähler. Also 8 minus 3, das heißt
+
+163
+00:10:20,210 --> 00:10:23,010
+unser Ergebnis lautet 5 Zwölftel.
+
+164
+00:10:26,230 --> 00:10:29,050
+Die Multiplikation und Division bei
+
+165
+00:10:29,050 --> 00:10:32,550
+Brüchen ist nicht identisch, so wie
+
+166
+00:10:32,550 --> 00:10:35,370
+das bei Plus und bei Minus ist. Wenn
+
+167
+00:10:35,370 --> 00:10:40,070
+wir Brüche multiplizieren, werden
+
+168
+00:10:40,070 --> 00:10:42,390
+alle Zähler und alle Nenner...
+
+169
+00:10:42,410 --> 00:10:44,110
+miteinander multipliziert. Also ganz
+
+170
+00:10:44,110 --> 00:10:46,570
+einfach. Das heißt, wenn wir 4
+
+171
+00:10:46,570 --> 00:10:49,410
+Siebtel mal 2 Drittel rechnen wollen,
+
+172
+00:10:50,230 --> 00:10:52,750
+multiplizieren wir die Zähler, 4 mal
+
+173
+00:10:52,750 --> 00:10:58,230
+2 und die Nenner, 7 mal 3. Und das
+
+174
+00:10:58,230 --> 00:11:01,230
+Ergebnis ist dann 8 Einundzwanzigstel
+
+175
+00:11:01,230 --> 00:11:06,620
+von dieser Aufgabe. Wenn wir eine
+
+176
+00:11:06,620 --> 00:11:10,540
+Zahl dividieren wollen, dann
+
+177
+00:11:10,540 --> 00:11:13,560
+multiplizieren wir sie mit dem Das
+
+178
+00:11:13,560 --> 00:11:19,020
+heißt, wir nehmen den Divisor und
+
+179
+00:11:19,020 --> 00:11:22,800
+wechseln Zähler und Nenner, also aus
+
+180
+00:11:22,800 --> 00:11:26,600
+7 Fünftel wird 5 Siebtel und
+
+181
+00:11:26,600 --> 00:11:30,200
+multiplizieren dann. Hier gehen wir
+
+182
+00:11:30,200 --> 00:11:32,440
+dann wieder vor wie bei der normalen
+
+183
+00:11:32,440 --> 00:11:34,980
+Multiplikation. Wir multiplizieren
+
+184
+00:11:34,980 --> 00:11:38,440
+die Zähler 8 und 5 und wir
+
+185
+00:11:38,440 --> 00:11:41,140
+multiplizieren die Nenner 9 und 7.
+
+186
+00:11:41,880 --> 00:11:47,640
+Also 8 mal 5, 40, 9 mal 7, 63. Das
+
+187
+00:11:47,640 --> 00:11:51,820
+heißt, 8 Neuntel geteilt durch 7
+
+188
+00:11:51,820 --> 00:11:54,120
+Fünftel ergibt 40
+
+189
+00:11:54,120 --> 00:11:58,850
+Dreihundsechzigstel. Wie sieht das
+
+190
+00:11:58,850 --> 00:12:01,090
+Ganze nun bei Dezimalbrüchen aus?
+
+191
+00:12:03,690 --> 00:12:06,750
+Dezimalbrüche werden wir
+
+192
+00:12:10,500 --> 00:12:12,940
+darauf achten, dass wir die richtigen
+
+193
+00:12:12,940 --> 00:12:14,200
+Nachkommastellen miteinander
+
+194
+00:12:14,200 --> 00:12:18,880
+addieren. Also zum Beispiel 12,467
+
+195
+00:12:18,880 --> 00:12:23,400
+plus 3,12. Das heißt, wir addieren
+
+196
+00:12:23,400 --> 00:12:32,680
+die 3, die 12, 0,4 und 0,1, 0,06 und
+
+197
+00:12:32,680 --> 00:12:40,880
+0,02 und 0,007. Und hierfür haben wir
+
+198
+00:12:40,880 --> 00:12:41,960
+bei der anderen Zahl keine
+
+199
+00:12:41,960 --> 00:12:43,680
+Nachkommastelle mehr zum Addieren.
+
+200
+00:12:43,900 --> 00:12:46,180
+Wenn keine Nachkommastelle mehr
+
+201
+00:12:46,180 --> 00:12:48,460
+hinter der letzten Zahl steht, aber
+
+202
+00:12:48,460 --> 00:12:52,340
+im anderen Summanden noch eine da
+
+203
+00:12:52,340 --> 00:12:54,880
+ist, dann wird die fehlende
+
+204
+00:12:54,880 --> 00:12:56,960
+Nachkommastelle einfach durch eine 0
+
+205
+00:12:56,960 --> 00:13:03,440
+ersetzt. Also 0,007 plus 0. Und damit
+
+206
+00:13:03,440 --> 00:13:05,580
+erhalten wir dann unser Ergebnis 15
+
+207
+00:13:05,580 --> 00:13:07,140
+,587.
+
+208
+00:13:09,000 --> 00:13:11,260
+Genauso gehen wir bei der Subtraktion
+
+209
+00:13:11,260 --> 00:13:18,320
+vor. Wir rechnen 12 minus 3, 0,4
+
+210
+00:13:18,320 --> 00:13:27,940
+minus 0,1, 0,06 minus 0,02 und 0,007.
+
+211
+00:13:28,340 --> 00:13:30,540
+Auch hier fehlt die Nachkommastelle
+
+212
+00:13:30,540 --> 00:13:34,320
+wieder, also minus 0. Und erhalten
+
+213
+00:13:34,320 --> 00:13:40,990
+dann unser Ergebnis 9,347. Wenn wir
+
+214
+00:13:40,990 --> 00:13:45,010
+Dezimalbrüche multiplizieren oder
+
+215
+00:13:45,010 --> 00:13:47,350
+dividieren wollen, ist auch hier die
+
+216
+00:13:47,350 --> 00:13:50,290
+Anwendung wieder unterschiedlich. Bei
+
+217
+00:13:50,290 --> 00:13:52,950
+der Multiplikation multiplizieren wir
+
+218
+00:13:52,950 --> 00:13:54,570
+die Zahlen, als gäbe es keine
+
+219
+00:13:54,570 --> 00:13:58,270
+Nachkommastellen. Das heißt, 12,24
+
+220
+00:13:58,270 --> 00:14:02,090
+mal 2,5 rechnen wir erst einmal
+
+221
+00:14:02,090 --> 00:14:09,110
+einfach als 1224 mal 25 aus. Das
+
+222
+00:14:09,110 --> 00:14:13,910
+Ergebnis wäre 30.600. Dann schauen
+
+223
+00:14:13,910 --> 00:14:15,390
+wir uns an, wie viele
+
+224
+00:14:15,390 --> 00:14:18,210
+Nachkommastellen es in beiden Zahlen
+
+225
+00:14:18,210 --> 00:14:20,470
+zusammen gibt. Also wir haben zwei
+
+226
+00:14:20,470 --> 00:14:24,410
+Nachkommastellen im ersten Faktor und
+
+227
+00:14:24,410 --> 00:14:26,650
+eine Nachkommastelle im zweiten
+
+228
+00:14:26,650 --> 00:14:27,930
+Faktor. Das heißt drei
+
+229
+00:14:27,930 --> 00:14:31,490
+Nachkommastellen insgesamt. Und nach
+
+230
+00:14:31,490 --> 00:14:34,030
+diesen drei Nachkommastellen setzen
+
+231
+00:14:34,030 --> 00:14:39,530
+wir dann zwischen 30 und 6 das Komma.
+
+232
+00:14:39,550 --> 00:14:41,590
+Das heißt, unser Ergebnis für die
+
+233
+00:14:41,590 --> 00:14:46,350
+Multiplikation von 12,24 und 2,5 ist
+
+234
+00:14:46,350 --> 00:14:53,310
+30,600 oder 30,6. Denn die letzten
+
+235
+00:14:53,310 --> 00:14:55,210
+Nullen nach dem Komma kann man
+
+236
+00:14:55,210 --> 00:14:57,010
+weglassen. Bei
+
+237
+00:14:59,250 --> 00:15:03,410
+der Division werden der Dividend und
+
+238
+00:15:03,410 --> 00:15:05,730
+der Divisor so lange mit dem Faktor
+
+239
+00:15:05,730 --> 00:15:08,350
+10 erweitert, bis der Divisor kein
+
+240
+00:15:08,350 --> 00:15:10,750
+Komma mehr besitzt. Das heißt, jedes
+
+241
+00:15:10,750 --> 00:15:12,950
+Mal, wenn wir beide mit 10
+
+242
+00:15:12,950 --> 00:15:15,950
+multiplizieren, rutscht die
+
+243
+00:15:15,950 --> 00:15:20,150
+Kommastelle 1 nach hinten, 1 nach
+
+244
+00:15:20,150 --> 00:15:22,970
+rechts. Das heißt, wir haben unsere
+
+245
+00:15:22,970 --> 00:15:28,130
+Aufgabe 8,25 geteilt durch 1,5. Das
+
+246
+00:15:28,130 --> 00:15:30,170
+erweitern wir mit dem Faktor 10,
+
+247
+00:15:30,370 --> 00:15:35,050
+haben dann die Rechnung 82,5 durch
+
+248
+00:15:35,050 --> 00:15:38,310
+15. Wir sehen also, das Komma ist an
+
+249
+00:15:38,310 --> 00:15:42,410
+beiden Zahlen eine Stelle nach rechts
+
+250
+00:15:42,410 --> 00:15:46,430
+gerutscht und damit hat unser Divisor
+
+251
+00:15:46,430 --> 00:15:48,630
+kein Komma mehr. Das heißt, jetzt
+
+252
+00:15:48,630 --> 00:15:50,710
+können wir die Aufgabe ausrechnen und
+
+253
+00:15:50,710 --> 00:15:53,770
+erhalten das Ergebnis. Das Ergebnis
+
+254
+00:15:53,770 --> 00:15:56,170
+bleibt dann nämlich gleich, egal wie.
+
+255
+00:15:56,270 --> 00:15:57,490
+oft wir es mit dem Faktor 10
+
+256
+00:15:57,490 --> 00:15:59,330
+erweitern, wir erhalten immer das
+
+257
+00:15:59,330 --> 00:16:00,070
+gleiche Ergebnis.
+
+258
+00:16:03,110 --> 00:16:05,130
+Nun, damit wären wir auch schon am
+
+259
+00:16:05,130 --> 00:16:07,770
+Ende unseres heutigen Webinars. Ich
+
+260
+00:16:07,770 --> 00:16:09,610
+bedanke mich für eure Aufmerksamkeit
+
+261
+00:16:09,610 --> 00:16:11,150
+und wünsche einen schönen Tag.
+

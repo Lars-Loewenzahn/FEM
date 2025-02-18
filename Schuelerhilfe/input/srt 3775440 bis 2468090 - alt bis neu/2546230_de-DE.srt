@@ -1,0 +1,1452 @@
+1
+00:00:01,230 --> 00:00:03,110
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,110 --> 00:00:06,350
+Matrizen in der linearen Algebra. Wir
+
+3
+00:00:06,350 --> 00:00:07,570
+werden uns heute ganz zuerst
+
+4
+00:00:07,570 --> 00:00:09,250
+anschauen, was eine Matrix überhaupt
+
+5
+00:00:09,250 --> 00:00:11,330
+ist und was Matrizen überhaupt
+
+6
+00:00:11,330 --> 00:00:13,990
+beschreiben. Danach widmen wir uns
+
+7
+00:00:13,990 --> 00:00:16,190
+zwei besonderen Matrizen, schauen uns
+
+8
+00:00:16,190 --> 00:00:18,650
+diese an und werden zum Schluss dann
+
+9
+00:00:18,650 --> 00:00:20,350
+noch Rechenoperatoren ausführen. Das
+
+10
+00:00:20,350 --> 00:00:22,730
+heißt Matrix mal Vektor, Matrix plus
+
+11
+00:00:22,730 --> 00:00:25,870
+Matrix, Matrix mal Matrix, das
+
+12
+00:00:25,870 --> 00:00:27,890
+Transponieren und Invertieren von
+
+13
+00:00:27,890 --> 00:00:30,750
+Matrizen. Das sind die... Themen des
+
+14
+00:00:30,750 --> 00:00:33,050
+heutigen Webinars und damit fangen
+
+15
+00:00:33,050 --> 00:00:34,790
+wir auch schon an. Was ist eine
+
+16
+00:00:34,790 --> 00:00:37,750
+Matrix? Eine Matrix ist erstmal solch
+
+17
+00:00:37,750 --> 00:00:40,570
+ein Gebilde. Eine Matrix hat mehrere
+
+18
+00:00:40,570 --> 00:00:42,070
+Zeilen und mehrere Spalten. Nochmal
+
+19
+00:00:42,070 --> 00:00:43,330
+zur Erinnerung, Zeilen sind das
+
+20
+00:00:43,330 --> 00:00:46,090
+Horizontale und Spalten das Vertikale
+
+21
+00:00:46,090 --> 00:00:50,730
+und die Größe einer Matrix wird immer
+
+22
+00:00:50,730 --> 00:00:52,930
+wie hier zu sehen gekennzeichnet. Das
+
+23
+00:00:52,930 --> 00:00:54,530
+heißt, man gibt die Anzahl ihrer
+
+24
+00:00:54,530 --> 00:00:58,070
+Zeilen an, dann kreuzt die Die Anzahl
+
+25
+00:00:58,070 --> 00:01:00,050
+der Spalten. Das heißt, die Dimension
+
+26
+00:01:00,050 --> 00:01:02,410
+einer Matrix wird gesprochen M kreuz
+
+27
+00:01:02,410 --> 00:01:05,250
+N. M ist dabei die Anzahl der Zeilen,
+
+28
+00:01:05,270 --> 00:01:07,850
+N die Anzahl der Spalten. Also das,
+
+29
+00:01:07,910 --> 00:01:09,750
+was wir hier sehen, ist eine 3 kreuz
+
+30
+00:01:09,750 --> 00:01:13,850
+3 Matrix. Diese Matrix hat 3 Zeilen
+
+31
+00:01:13,850 --> 00:01:16,570
+und 3 Spalten. Das, was wir hier
+
+32
+00:01:16,570 --> 00:01:19,010
+sehen, ist eine 2 kreuz 3 Matrix.
+
+33
+00:01:19,150 --> 00:01:21,610
+Diese Matrix hat 2 Zeilen und 3
+
+34
+00:01:21,610 --> 00:01:25,030
+Spalten. Wir sehen hier eine 4 kreuz
+
+35
+00:01:25,030 --> 00:01:27,610
+4 Matrix. Diese Matrix hat 4 Zeilen
+
+36
+00:01:27,610 --> 00:01:32,310
+und 4 Spalten. Eine Besonderheit ist
+
+37
+00:01:32,310 --> 00:01:36,150
+eine Matrix, die nur eine Spalte hat,
+
+38
+00:01:36,290 --> 00:01:38,210
+aber mehrere Zeilen. Das ist nämlich
+
+39
+00:01:38,210 --> 00:01:41,590
+ein Vektor. Also diese 3x1 Matrix ist
+
+40
+00:01:41,590 --> 00:01:45,870
+ein Vektor. Und ein Vektor zeichnet
+
+41
+00:01:45,870 --> 00:01:48,010
+sich dadurch aus, dass er immer nur
+
+42
+00:01:48,010 --> 00:01:49,490
+eine Spalte hat. Das heißt, er hat,
+
+43
+00:01:49,570 --> 00:01:51,150
+wie hier steht, beliebig viele
+
+44
+00:01:51,150 --> 00:01:53,390
+Zeilen, aber immer nur eine Spalte.
+
+45
+00:01:54,790 --> 00:01:57,490
+Die Einträge in Matrizen sind in der
+
+46
+00:01:57,490 --> 00:01:59,430
+Schulmathematik ausschließlich reelle
+
+47
+00:01:59,430 --> 00:02:02,190
+Zahlen und die Matrizen werden immer
+
+48
+00:02:02,190 --> 00:02:03,710
+nach Großbuchstaben benannt. Das
+
+49
+00:02:03,710 --> 00:02:05,410
+heißt, das hier ist die Matrix A.
+
+50
+00:02:08,270 --> 00:02:10,090
+Die Zahlen hier drin, damit kann man
+
+51
+00:02:10,090 --> 00:02:11,190
+auch rechnen und um die
+
+52
+00:02:11,190 --> 00:02:12,670
+Rechenvorschriften klarer zu machen,
+
+53
+00:02:12,790 --> 00:02:16,190
+werden oftmals die einzelnen Elemente
+
+54
+00:02:16,190 --> 00:02:18,550
+in der Matrix durch so eine Art
+
+55
+00:02:18,550 --> 00:02:20,070
+Koordinaten beschrieben. Zum Beispiel
+
+56
+00:02:20,070 --> 00:02:24,970
+hier das Element A11. das element in
+
+57
+00:02:24,970 --> 00:02:26,650
+der ersten zeile und in der ersten
+
+58
+00:02:26,650 --> 00:02:29,910
+spalte a21 ist das element in der
+
+59
+00:02:29,910 --> 00:02:31,470
+zweiten zeile in der ersten spalte
+
+60
+00:02:31,470 --> 00:02:33,110
+also der indiz hier unten setzt sich
+
+61
+00:02:33,110 --> 00:02:35,610
+immer zusammen aus der zeilenzahl und
+
+62
+00:02:35,610 --> 00:02:38,190
+danach aus der spaltenzahl ja also
+
+63
+00:02:38,190 --> 00:02:40,750
+das hier ist a22 zweite zeile zweites
+
+64
+00:02:40,750 --> 00:02:42,090
+element das element was hier nach
+
+65
+00:02:42,090 --> 00:02:45,230
+kommt wäre a23 zweite zeile dritte
+
+66
+00:02:45,230 --> 00:02:50,470
+spalte und so kann man das machen es
+
+67
+00:02:50,470 --> 00:02:51,610
+wird Manchmal wird durch den Comma
+
+68
+00:02:51,610 --> 00:02:54,330
+-Targettrennt, wird aber nicht immer
+
+69
+00:02:54,330 --> 00:02:56,130
+gemacht. Auch diese Schreibweise ist
+
+70
+00:02:56,130 --> 00:02:59,850
+durchaus üblich. Also in
+
+71
+00:02:59,850 --> 00:03:01,050
+Aufgabenstellung wird dann oftmals
+
+72
+00:03:01,050 --> 00:03:03,490
+gefordert, dass man das Element A33
+
+73
+00:03:03,490 --> 00:03:05,270
+bestimmen soll oder rausschreiben
+
+74
+00:03:05,270 --> 00:03:07,070
+soll. Das wäre in diesem Fall die 9.
+
+75
+00:03:07,350 --> 00:03:11,010
+Das Element A23 wäre beispielsweise
+
+76
+00:03:11,010 --> 00:03:11,690
+die 6.
+
+77
+00:03:14,670 --> 00:03:16,210
+Damit kommen wir auch schon dazu,
+
+78
+00:03:16,390 --> 00:03:17,530
+wofür brauchen wir überhaupt
+
+79
+00:03:17,530 --> 00:03:20,650
+Matrizen. Was können diese? Mittels
+
+80
+00:03:20,650 --> 00:03:21,930
+Matrizen können wir sehr gut
+
+81
+00:03:21,930 --> 00:03:23,710
+Austausch- und Entwicklungsprozesse
+
+82
+00:03:23,710 --> 00:03:25,530
+modellieren. Das ist so das, was in
+
+83
+00:03:25,530 --> 00:03:26,450
+der Schule am häufigsten damit
+
+84
+00:03:26,450 --> 00:03:27,370
+gemacht wird. Damit kann man
+
+85
+00:03:27,370 --> 00:03:29,430
+Austauschprozesse modellieren. Zum
+
+86
+00:03:29,430 --> 00:03:30,610
+Beispiel hier sehen wir schon so ein
+
+87
+00:03:30,610 --> 00:03:32,830
+Schaubild für einen Austauschprozess.
+
+88
+00:03:33,070 --> 00:03:34,790
+Des Weiteren kann man mit Matrizen
+
+89
+00:03:34,790 --> 00:03:37,370
+lineare Gleichungssysteme lösen oder
+
+90
+00:03:37,370 --> 00:03:39,990
+auch lineare Abbildungen verändern.
+
+91
+00:03:40,010 --> 00:03:42,050
+Also Spiegeln, Rotieren, Scheren und
+
+92
+00:03:42,050 --> 00:03:43,510
+Strecken. Dazu sehen wir ein kleines
+
+93
+00:03:43,510 --> 00:03:44,530
+Beispiel. Wir sehen hier ein
+
+94
+00:03:44,530 --> 00:03:46,170
+Rechteck, das geschert ist. Also
+
+95
+00:03:46,170 --> 00:03:48,050
+geschert heißt, die Kante wird
+
+96
+00:03:48,050 --> 00:03:50,350
+verschoben zu der unteren und so
+
+97
+00:03:50,350 --> 00:03:51,670
+erhalten wir aus diesem Rechteck ein
+
+98
+00:03:51,670 --> 00:03:55,350
+Parallelogramm. Sowas wird aber eher
+
+99
+00:03:55,350 --> 00:03:57,810
+innerhalb der Hochschulen behandelt
+
+100
+00:03:57,810 --> 00:04:00,270
+und nicht innerhalb der Schule. Im
+
+101
+00:04:00,270 --> 00:04:02,130
+Schulalltag befasst man sich eher mit
+
+102
+00:04:02,130 --> 00:04:02,750
+dem Austauschen,
+
+103
+00:04:02,750 --> 00:04:05,050
+Entwicklungsprozessen sowie das Lösen
+
+104
+00:04:05,050 --> 00:04:06,470
+von linearen Gleichungssystemen.
+
+105
+00:04:09,410 --> 00:04:11,650
+Kommen wir zu ein paar besonderen
+
+106
+00:04:11,650 --> 00:04:15,550
+Matrizen. Also die erste besondere
+
+107
+00:04:15,550 --> 00:04:16,590
+Matrix ist die sogenannte
+
+108
+00:04:16,590 --> 00:04:19,370
+Einheitsmatrix. Die Einheitsmatrix
+
+109
+00:04:19,370 --> 00:04:21,010
+zeichnet sich dadurch aus, dass wenn
+
+110
+00:04:21,010 --> 00:04:22,230
+wir mit der Einheitsmatrix
+
+111
+00:04:22,230 --> 00:04:25,350
+multiplizieren, dass die Matrix sich
+
+112
+00:04:25,350 --> 00:04:27,010
+nicht ändert. Es ist also ähnlich,
+
+113
+00:04:27,090 --> 00:04:28,450
+wie wenn wir etwas mit einer 1
+
+114
+00:04:28,450 --> 00:04:30,310
+multiplizieren. Also 5 mal 1 ist
+
+115
+00:04:30,310 --> 00:04:32,230
+beispielsweise wieder 1. Wenn wir
+
+116
+00:04:32,230 --> 00:04:33,750
+eine Matrix haben, die wir jetzt mit
+
+117
+00:04:33,750 --> 00:04:35,430
+der Einheitsmatrix multiplizieren,
+
+118
+00:04:35,450 --> 00:04:37,150
+erhalten wir auch wieder unsere
+
+119
+00:04:37,150 --> 00:04:40,410
+Ausgangsmatrix. Die Einheitsmatrix
+
+120
+00:04:40,410 --> 00:04:41,950
+zeichnet sich dadurch aus, dass sie
+
+121
+00:04:41,950 --> 00:04:44,390
+auf den Diagonalen nur 1 entstehen
+
+122
+00:04:44,390 --> 00:04:48,310
+hat und ansonsten nur 0. Des Weiteren
+
+123
+00:04:48,310 --> 00:04:50,830
+müssen die Einheitsmatrizen auch
+
+124
+00:04:50,830 --> 00:04:53,330
+quadratisch sein. Diese sind immer
+
+125
+00:04:53,330 --> 00:04:56,330
+zwangsläufig quadratisch. Und wie
+
+126
+00:04:56,330 --> 00:04:58,750
+gesagt, auf den Diagonalen immer eine
+
+127
+00:04:58,750 --> 00:05:01,110
+1, alles andere wird mit einer 0
+
+128
+00:05:01,110 --> 00:05:02,730
+bestückt. So bekommt man eine
+
+129
+00:05:02,730 --> 00:05:06,270
+Einheitsmatrix. Die zweite besondere
+
+130
+00:05:06,270 --> 00:05:07,750
+Matrix ist die Nullmatrix. Das ist
+
+131
+00:05:07,750 --> 00:05:09,650
+eine Matrix, die nur Nullen enthält
+
+132
+00:05:09,650 --> 00:05:12,430
+und wenn man mit dieser Nullmatrix
+
+133
+00:05:12,430 --> 00:05:15,090
+addiert oder subtrahiert, ändert sich
+
+134
+00:05:15,090 --> 00:05:17,250
+die Ausgangsmatrix auch nicht. Es ist
+
+135
+00:05:17,250 --> 00:05:20,130
+ähnlich, als wenn man mit einer Null
+
+136
+00:05:20,130 --> 00:05:22,410
+addiert oder subtrahiert. Wie man das
+
+137
+00:05:22,410 --> 00:05:25,710
+kennt, 5 plus 0 ist weiterhin 5. Und
+
+138
+00:05:28,430 --> 00:05:30,450
+damit sind wir auch schon bei
+
+139
+00:05:30,450 --> 00:05:33,770
+Operationen. Wir werden jetzt mit
+
+140
+00:05:33,770 --> 00:05:36,310
+Matrizen rechnen. Als erstes nehmen
+
+141
+00:05:36,310 --> 00:05:37,730
+wir den gängigsten Fall, das ist
+
+142
+00:05:37,730 --> 00:05:40,550
+Matrix mal Vektor. Wichtig ist, ihr
+
+143
+00:05:40,550 --> 00:05:42,010
+müsst wirklich immer rechnen, Matrix
+
+144
+00:05:42,010 --> 00:05:44,210
+mal Vektor, andersrum funktioniert es
+
+145
+00:05:44,210 --> 00:05:46,510
+nicht. Das hängt damit zusammen, wenn
+
+146
+00:05:46,510 --> 00:05:47,890
+ihr mit Matrizen rechnet, rechnet ihr
+
+147
+00:05:47,890 --> 00:05:50,750
+immer Zeile mal Spalte. Das heißt,
+
+148
+00:05:50,930 --> 00:05:54,670
+wir rechnen 1 mal 10 plus 2 mal 11
+
+149
+00:05:54,670 --> 00:05:57,770
+plus 3 mal 12. Das ist hier die
+
+150
+00:05:57,770 --> 00:05:59,630
+oberste Zeile, also von unserem
+
+151
+00:05:59,630 --> 00:06:04,610
+Ergebnis. Wichtig dabei ist, die
+
+152
+00:06:04,610 --> 00:06:07,250
+linke Matrix gibt immer die Anzahl
+
+153
+00:06:07,250 --> 00:06:09,730
+der Zeilen an. die Rechte die Anzahl
+
+154
+00:06:09,730 --> 00:06:11,450
+der Spalten. Das heißt, wenn wir eine
+
+155
+00:06:11,450 --> 00:06:12,530
+Matrix mit einem Vektor
+
+156
+00:06:12,530 --> 00:06:14,170
+multiplizieren, erhalten wir immer
+
+157
+00:06:14,170 --> 00:06:15,630
+zwangsläufig wieder einen Vektor.
+
+158
+00:06:15,910 --> 00:06:17,530
+Weil, ich hatte gerade gesagt, die
+
+159
+00:06:17,530 --> 00:06:19,150
+rechte Matrix gibt die Anzahl der
+
+160
+00:06:19,150 --> 00:06:21,130
+Spalten an. Und wie zu Anfang des
+
+161
+00:06:21,130 --> 00:06:23,030
+Webinars erwähnt, ein Vektor hat
+
+162
+00:06:23,030 --> 00:06:24,990
+immer nur eine Spalte. Das heißt,
+
+163
+00:06:25,110 --> 00:06:27,270
+Matrix bei Vektor ergibt immer wieder
+
+164
+00:06:27,270 --> 00:06:30,930
+einen Vektor. Die zweite Zeile
+
+165
+00:06:30,930 --> 00:06:33,650
+rechnet sich dann nach. 4 mal 10 plus
+
+166
+00:06:33,650 --> 00:06:38,070
+5 mal 11 plus 6 mal 12. Die dritte
+
+167
+00:06:38,070 --> 00:06:40,750
+Zeile rechnet sich dann nach 7 mal 10
+
+168
+00:06:40,750 --> 00:06:46,810
+plus 8 mal 11 plus 9 mal 12. Und so
+
+169
+00:06:46,810 --> 00:06:48,190
+kommen wir dann zu diesem Vektor.
+
+170
+00:06:48,230 --> 00:06:48,730
+Also das sind alles
+
+171
+00:06:48,730 --> 00:06:52,250
+Rechneroperationen. Das muss man
+
+172
+00:06:52,250 --> 00:06:53,090
+nicht immer so ausführlich
+
+173
+00:06:53,090 --> 00:06:54,550
+hinschreiben. Es reicht auch, wenn
+
+174
+00:06:54,550 --> 00:06:56,770
+man das einmal im Taschenrechner
+
+175
+00:06:56,770 --> 00:06:58,770
+eingibt und dann gleich diesen Vektor
+
+176
+00:06:58,770 --> 00:07:02,710
+hinschreibt, also 68, 167, 168. 266.
+
+177
+00:07:03,710 --> 00:07:05,930
+Und jetzt sehen wir das Beispiel,
+
+178
+00:07:06,030 --> 00:07:07,950
+wenn wir die Einheitsmatrix nehmen.
+
+179
+00:07:08,830 --> 00:07:10,410
+Wir multiplizieren jetzt unseren
+
+180
+00:07:10,410 --> 00:07:11,990
+Sektor mit unserer Einheitsmatrix.
+
+181
+00:07:12,070 --> 00:07:15,030
+Das heißt, wir rechnen 1 mal 1 plus 0
+
+182
+00:07:15,030 --> 00:07:17,890
+mal 2 plus 0 mal 3. Und das ist
+
+183
+00:07:17,890 --> 00:07:22,550
+einfach 1 mal 1. Also 1. Die zweite
+
+184
+00:07:22,550 --> 00:07:26,610
+Zeile ist 0 mal 1 plus 1 mal 2 plus 0
+
+185
+00:07:26,610 --> 00:07:30,230
+mal 3. Und das ist einfach 2. Die
+
+186
+00:07:30,230 --> 00:07:33,470
+letzte Zeile ist 0 mal 1 plus 0 mal 2
+
+187
+00:07:33,470 --> 00:07:35,910
+plus 1 mal 3 und das ist gleich 3.
+
+188
+00:07:36,270 --> 00:07:37,790
+Das heißt, hier sieht man, wir
+
+189
+00:07:37,790 --> 00:07:40,630
+multiplizieren unseren Vektor mit
+
+190
+00:07:40,630 --> 00:07:42,250
+einer Matrix, aber nicht mit
+
+191
+00:07:42,250 --> 00:07:43,750
+irgendeiner Matrix, sondern mit der
+
+192
+00:07:43,750 --> 00:07:46,090
+Einheitsmatrix und wir erhalten
+
+193
+00:07:46,090 --> 00:07:47,550
+wieder unseren Vektor.
+
+194
+00:07:51,220 --> 00:07:52,980
+Natürlich kann man Matrizen auch
+
+195
+00:07:52,980 --> 00:07:55,160
+addieren und auch subtrainieren.
+
+196
+00:07:55,760 --> 00:07:57,160
+Wichtig dabei ist, dass die
+
+197
+00:07:57,160 --> 00:07:58,840
+Dimensionen der Matrizen genau
+
+198
+00:07:58,840 --> 00:08:00,380
+übereinstimmen. Das heißt, beide
+
+199
+00:08:00,380 --> 00:08:01,900
+Matrizen müssen genauso viele...
+
+200
+00:08:01,980 --> 00:08:04,640
+Zeilen, genau gleich viele Zeilen und
+
+201
+00:08:04,640 --> 00:08:07,880
+Spalten haben. Das heißt, wir haben
+
+202
+00:08:07,880 --> 00:08:10,140
+hier eine 2x3-Matrix, hier haben wir
+
+203
+00:08:10,140 --> 00:08:12,200
+auch eine 2x3-Matrix, das heißt, wir
+
+204
+00:08:12,200 --> 00:08:14,860
+können wirklich die beiden Matrizen
+
+205
+00:08:14,860 --> 00:08:17,920
+addieren. Das Addieren funktioniert
+
+206
+00:08:17,920 --> 00:08:19,480
+einfach nach dem Prinzip, dass wir
+
+207
+00:08:19,480 --> 00:08:21,420
+die jeweils gleichen Elemente immer
+
+208
+00:08:21,420 --> 00:08:23,780
+addieren oder eben, wenn hier ein
+
+209
+00:08:23,780 --> 00:08:25,240
+Subtraktionszeichen, also ein
+
+210
+00:08:25,240 --> 00:08:27,740
+Minuszeichen wäre, subtrahieren Das
+
+211
+00:08:27,740 --> 00:08:31,680
+heißt, wir rechnen 1 plus 0 minus 3
+
+212
+00:08:31,680 --> 00:08:35,640
+plus
+
+213
+00:08:35,640 --> 00:08:43,020
+3, 2 plus 5, 1 plus 2, 2 plus 1 und 7
+
+214
+00:08:43,020 --> 00:08:47,380
+plus minus 1. 1 plus 0 ist die 1,
+
+215
+00:08:47,580 --> 00:08:51,340
+minus 3 plus 3 ist 0, 2 plus 5 ist 7,
+
+216
+00:08:51,520 --> 00:08:55,780
+1 plus 2 ist die 3, 2 plus 1 ist auch
+
+217
+00:08:55,780 --> 00:08:58,260
+4. eine 3 und 7 plus minus 1 ist eine
+
+218
+00:08:58,260 --> 00:09:00,760
+6. Das heißt, diese Matrix hier ist
+
+219
+00:09:00,760 --> 00:09:04,020
+das Ergebnis und immer wenn Matrizen
+
+220
+00:09:04,020 --> 00:09:05,140
+addiert oder subtrahiert werden,
+
+221
+00:09:05,300 --> 00:09:07,060
+erhält man auch wieder eine Matrix
+
+222
+00:09:07,060 --> 00:09:09,000
+der gleichen Dimension. Also die
+
+223
+00:09:09,000 --> 00:09:10,980
+Anzahl der Zeilen und Spalten ändert
+
+224
+00:09:10,980 --> 00:09:12,020
+sich dabei nicht.
+
+225
+00:09:14,540 --> 00:09:16,140
+Hier sehen wir nochmal den Fall, was
+
+226
+00:09:16,140 --> 00:09:17,700
+passiert, wenn man eine Matrix mit
+
+227
+00:09:17,700 --> 00:09:19,160
+einer Matrix multipliziert. Ganz
+
+228
+00:09:19,160 --> 00:09:21,960
+wichtig hierbei ist, die Breite der
+
+229
+00:09:21,960 --> 00:09:23,500
+ersten Matrix muss mit der Höhe der
+
+230
+00:09:23,500 --> 00:09:25,980
+zweiten Matrix übereinstimmen. Das
+
+231
+00:09:25,980 --> 00:09:28,380
+heißt so viel wie Die linke Matrix
+
+232
+00:09:28,380 --> 00:09:30,480
+muss genauso viele Spalten haben, wie
+
+233
+00:09:30,480 --> 00:09:33,820
+die rechte Matrix Zeilen. Das, was
+
+234
+00:09:33,820 --> 00:09:35,420
+hier jetzt steht, ist eine Rechnung.
+
+235
+00:09:36,920 --> 00:09:39,880
+Das Ergebnis setzt sich auch wie
+
+236
+00:09:39,880 --> 00:09:42,620
+folgt zusammen. Die Matrix, wir
+
+237
+00:09:42,620 --> 00:09:45,820
+erhalten ja wieder eine Matrix als
+
+238
+00:09:45,820 --> 00:09:48,780
+Ergebnis. Und die Zeilen dieser
+
+239
+00:09:48,780 --> 00:09:51,480
+Matrix werden durch die linke Matrix
+
+240
+00:09:51,480 --> 00:09:54,280
+angegeben, während die Spalten der
+
+241
+00:09:54,280 --> 00:09:55,800
+Matrix durch die rechte Matrix
+
+242
+00:09:55,800 --> 00:09:56,780
+angegeben werden. angegeben werden.
+
+243
+00:09:57,920 --> 00:10:01,380
+Wenn wir jetzt das Element oben links
+
+244
+00:10:01,380 --> 00:10:03,480
+berechnen wollen, müssen wir die
+
+245
+00:10:03,480 --> 00:10:05,800
+obere Zeile der linken Matrix nehmen
+
+246
+00:10:05,800 --> 00:10:08,080
+und die linke Spalte der rechten
+
+247
+00:10:08,080 --> 00:10:09,900
+Matrix. Deswegen lautet die Rechnung
+
+248
+00:10:09,900 --> 00:10:14,240
+für die 7 3 mal 1 plus 2 mal 0 plus 1
+
+249
+00:10:14,240 --> 00:10:19,080
+mal 4. Das ist 7. Für das Element
+
+250
+00:10:19,080 --> 00:10:21,120
+rechts daneben nehmen wir die oberste
+
+251
+00:10:21,120 --> 00:10:23,620
+zeile der linken matrix aber die
+
+252
+00:10:23,620 --> 00:10:25,920
+rechte spalte der rechten matrix das
+
+253
+00:10:25,920 --> 00:10:30,960
+heißt wir rechnen 3 mal 1 plus 3 mal
+
+254
+00:10:30,960 --> 00:10:37,120
+2 plus 2 mal 1 plus 1 mal 0 und das
+
+255
+00:10:37,120 --> 00:10:39,560
+ist dann gleich 8 die 7 erhalten
+
+256
+00:10:39,560 --> 00:10:41,480
+haben wir hier noch weil das ist das
+
+257
+00:10:41,480 --> 00:10:43,960
+ergebnis von hier vor und das wird
+
+258
+00:10:43,960 --> 00:10:46,960
+immer ergänzt jetzt als nächstes
+
+259
+00:10:46,960 --> 00:10:48,960
+berechnen wir das das Element unten
+
+260
+00:10:48,960 --> 00:10:51,460
+links. Das heißt, wir nehmen jetzt
+
+261
+00:10:51,460 --> 00:10:53,160
+von der linken Matrix die untere
+
+262
+00:10:53,160 --> 00:10:55,580
+Zeile und von der rechten Matrix die
+
+263
+00:10:55,580 --> 00:10:57,540
+linke Spalte. Das heißt, wir rechnen
+
+264
+00:10:57,540 --> 00:11:00,720
+einmal 1 plus 0 mal 0 plus 2 mal 4.
+
+265
+00:11:01,360 --> 00:11:03,680
+Das ist 9. Und zu guter Letzt fehlt
+
+266
+00:11:03,680 --> 00:11:05,760
+noch das Element unten rechts. Dafür
+
+267
+00:11:05,760 --> 00:11:07,200
+nehmen wir wieder von der linken
+
+268
+00:11:07,200 --> 00:11:12,180
+Matrix die untere Zeile und von der
+
+269
+00:11:12,180 --> 00:11:15,280
+rechten Matrix die rechte Spalte. Wir
+
+270
+00:11:15,280 --> 00:11:18,480
+rechnen also einmal 1. 2 plus 0 mal 1
+
+271
+00:11:18,480 --> 00:11:22,580
+plus 2 mal 0 und das ist 2 und das
+
+272
+00:11:22,580 --> 00:11:25,160
+ist dann die Matrix, die das Ergebnis
+
+273
+00:11:25,160 --> 00:11:27,940
+ist. Und damit haben wir erfolgreich
+
+274
+00:11:27,940 --> 00:11:29,460
+die beiden Matrizen miteinander
+
+275
+00:11:29,460 --> 00:11:31,340
+multipliziert. Zu
+
+276
+00:11:34,060 --> 00:11:35,800
+guter Letzt kommen wir noch zum
+
+277
+00:11:35,800 --> 00:11:38,820
+Transponieren. Das Transponieren ist
+
+278
+00:11:38,820 --> 00:11:40,600
+vom Prinzip her nur, dass man die
+
+279
+00:11:40,600 --> 00:11:42,860
+Zeilen mit den Spalten tauscht. Man
+
+280
+00:11:42,860 --> 00:11:44,420
+verfährt dabei so, dass man eine
+
+281
+00:11:44,420 --> 00:11:46,440
+Diagonale bildet und dann alles
+
+282
+00:11:46,440 --> 00:11:49,820
+entlang der Diagonalen spielt. Das
+
+283
+00:11:49,820 --> 00:11:51,180
+heißt, wir sehen das hier mal, das
+
+284
+00:11:51,180 --> 00:11:52,840
+Transponieren einer Matrix wird
+
+285
+00:11:52,840 --> 00:11:55,280
+dadurch gekennzeichnet, dass sie ein
+
+286
+00:11:55,280 --> 00:11:59,500
+T noch bekommt. Aus 1, 2, 3, 4, 5, 6,
+
+287
+00:11:59,660 --> 00:12:03,820
+7, 8, 9 wird 1, 4, 7, 2, 5, 8, 3, 6,
+
+288
+00:12:03,840 --> 00:12:06,440
+9. Also man sieht, die Zahlen, die
+
+289
+00:12:06,440 --> 00:12:08,260
+vorher in einer Zeile standen, stehen
+
+290
+00:12:08,260 --> 00:12:10,580
+jetzt in einer Spalte. Es wurde quasi
+
+291
+00:12:10,580 --> 00:12:13,900
+daran gespiegelt. Das geht natürlich
+
+292
+00:12:13,900 --> 00:12:17,140
+nicht nur mit quadratischen Matrizen.
+
+293
+00:12:17,380 --> 00:12:20,200
+Die Eigenschaft bei quadratischen
+
+294
+00:12:20,200 --> 00:12:21,620
+Matrizen ist dabei nur, dass die
+
+295
+00:12:21,620 --> 00:12:23,400
+Zeilen- und Spaltenanzahl unverändert
+
+296
+00:12:23,400 --> 00:12:25,620
+bleibt, weil es gleich viele Zeilen
+
+297
+00:12:25,620 --> 00:12:27,020
+wie Spalten gibt. Wenn man eine
+
+298
+00:12:27,020 --> 00:12:28,660
+Matrix hat, die nicht quadratisch
+
+299
+00:12:28,660 --> 00:12:30,460
+ist, wie zum Beispiel hier eine 3x2
+
+300
+00:12:30,460 --> 00:12:33,200
+Matrix, dann ändert sich natürlich
+
+301
+00:12:33,200 --> 00:12:34,680
+auch die Anzahl der Zeilen und
+
+302
+00:12:34,680 --> 00:12:37,300
+Spalten. Das heißt, eine 3x2 Matrix
+
+303
+00:12:37,300 --> 00:12:40,620
+wird zu einer 2x3 Matrix. Wir
+
+304
+00:12:40,620 --> 00:12:43,400
+schreiben jetzt die 1, 3 und 2 in
+
+305
+00:12:43,400 --> 00:12:46,140
+eine Zeile, bzw. haben dann 3.
+
+306
+00:12:46,380 --> 00:12:49,540
+spalten, während wir nur noch 1, 2
+
+307
+00:12:49,540 --> 00:12:53,520
+Zeilen haben. Bei einem Vektor ist
+
+308
+00:12:53,520 --> 00:12:57,640
+dies genauso. Wir spiegeln daran,
+
+309
+00:12:57,740 --> 00:13:00,300
+beziehungsweise wir erhalten, wenn
+
+310
+00:13:00,300 --> 00:13:02,460
+wir einen Vektor transponieren, eine
+
+311
+00:13:02,460 --> 00:13:05,200
+1-Kreuz-3-Matrix, denn ein Vektor ist
+
+312
+00:13:05,200 --> 00:13:06,620
+ja eigentlich nur eine 3-Kreuz-1
+
+313
+00:13:06,620 --> 00:13:10,520
+-Matrix. Das heißt, 5 minus 1, 3 wird
+
+314
+00:13:10,520 --> 00:13:12,320
+einfach nebeneinander in eine Zeile
+
+315
+00:13:12,320 --> 00:13:14,160
+geschrieben. Dafür haben wir aber
+
+316
+00:13:14,160 --> 00:13:19,020
+dann 3 Spalten. Zu guter Letzt kommen
+
+317
+00:13:19,020 --> 00:13:21,020
+wir noch zu Invertieren. Das
+
+318
+00:13:21,020 --> 00:13:23,720
+Invertieren ist eine Rechenoperation.
+
+319
+00:13:25,380 --> 00:13:27,560
+Wenn man eine Matrix mit ihrer
+
+320
+00:13:27,560 --> 00:13:30,260
+Inversen multipliziert, erhält man
+
+321
+00:13:30,260 --> 00:13:34,440
+automatisch die Einheitsmatrix. Das
+
+322
+00:13:34,440 --> 00:13:36,120
+Problem dabei ist nur, dass das
+
+323
+00:13:36,120 --> 00:13:38,480
+Berechnen und das Bestimmen der
+
+324
+00:13:38,480 --> 00:13:41,600
+Inversen nicht allzu einfach ist. Das
+
+325
+00:13:41,600 --> 00:13:44,940
+bedeutet, händisch ist es nur sehr
+
+326
+00:13:44,940 --> 00:13:47,620
+aufwendig zu realisieren. die Inverse
+
+327
+00:13:47,620 --> 00:13:49,120
+zu bestimmen, daher wird eigentlich
+
+328
+00:13:49,120 --> 00:13:50,200
+immer auf den Taschenrechner
+
+329
+00:13:50,200 --> 00:13:52,900
+zurückgegriffen. Wir sehen einmal
+
+330
+00:13:52,900 --> 00:13:56,560
+hier unsere Matrix A, 2, 5, 1, 3 und
+
+331
+00:13:56,560 --> 00:13:59,320
+die Inverse dazu, A hoch minus 1 wird
+
+332
+00:13:59,320 --> 00:14:02,200
+sie bezeichnet, wäre 3, minus 5,
+
+333
+00:14:02,380 --> 00:14:04,080
+minus 1 und 2.
+
+334
+00:14:07,080 --> 00:14:09,240
+Und hier ist jetzt der Beweis dazu,
+
+335
+00:14:09,440 --> 00:14:11,160
+wenn wir A mal A hoch minus 1
+
+336
+00:14:11,160 --> 00:14:12,460
+rechnen, also die Matrix mit ihrer
+
+337
+00:14:12,460 --> 00:14:14,860
+Inverse multiplizieren, erhalten wir
+
+338
+00:14:14,860 --> 00:14:20,160
+die Einheitsmatrix . Ich
+
+339
+00:14:20,160 --> 00:14:23,220
+rechne das noch einmal kurz vor. Auch
+
+340
+00:14:23,220 --> 00:14:24,460
+hierbei gilt natürlich immer Zeilen
+
+341
+00:14:24,460 --> 00:14:27,440
+und Spalten. Wenn wir jetzt 2 mal 3
+
+342
+00:14:27,440 --> 00:14:32,680
+plus 5 mal minus 1 rechnen, haben wir
+
+343
+00:14:32,680 --> 00:14:34,860
+das Element hier oben, also steht es
+
+344
+00:14:34,860 --> 00:14:37,400
+jetzt 2 mal 3 ist die 6, 5 mal minus
+
+345
+00:14:37,400 --> 00:14:39,040
+1 ist die minus 5, das ist eine 1.
+
+346
+00:14:39,980 --> 00:14:41,820
+Dann rechnen wir das Element hier
+
+347
+00:14:41,820 --> 00:14:43,180
+oben als nächstes aus, also oben
+
+348
+00:14:43,180 --> 00:14:46,040
+rechts, also 2 mal minus 5 plus 5 mal
+
+349
+00:14:46,040 --> 00:14:47,940
+2 ist minus 10 plus 10, das ist eine
+
+350
+00:14:47,940 --> 00:14:50,500
+0. Machen wir mit dem Element unten
+
+351
+00:14:50,500 --> 00:14:52,800
+links weiter, also mit dem hier. 1
+
+352
+00:14:52,800 --> 00:14:55,620
+mal 3 plus 3 mal minus 1, also 3
+
+353
+00:14:55,620 --> 00:14:58,680
+minus 3 ist eine 0. Und dann zu guter
+
+354
+00:14:58,680 --> 00:15:02,680
+Letzt noch 1 mal minus 5 plus 3 mal
+
+355
+00:15:02,680 --> 00:15:05,460
+2, das ist minus 5 plus 6 und das ist
+
+356
+00:15:05,460 --> 00:15:07,400
+eine 1. Das heißt, wir sehen, wenn
+
+357
+00:15:07,400 --> 00:15:09,300
+wir eine Matrix mit ihrer Inversen
+
+358
+00:15:09,300 --> 00:15:11,260
+multiplizieren, erhalten wir wieder
+
+359
+00:15:11,260 --> 00:15:12,380
+die Einheitsmatrix.
+
+360
+00:15:15,080 --> 00:15:16,420
+Damit wären wir auch schon am Ende
+
+361
+00:15:16,420 --> 00:15:18,260
+des Webinars und ich bedanke mich
+
+362
+00:15:18,260 --> 00:15:19,220
+recht herzlich für eure
+
+363
+00:15:19,220 --> 00:15:19,920
+Aufmerksamkeit.
+

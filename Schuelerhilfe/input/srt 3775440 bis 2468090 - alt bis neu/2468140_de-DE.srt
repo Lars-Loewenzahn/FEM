@@ -1,0 +1,1572 @@
+1
+00:00:00,140 --> 00:00:02,160
+Ja, herzlich willkommen beim Webinar
+
+2
+00:00:02,160 --> 00:00:05,800
+der Schülerhilfe. Zuerst die Frage,
+
+3
+00:00:05,860 --> 00:00:08,520
+kann man mich hören? Da aber jetzt
+
+4
+00:00:08,520 --> 00:00:12,180
+kein Teilnehmer da ist, werde ich
+
+5
+00:00:12,180 --> 00:00:13,660
+jetzt einfach das Webinar so halten.
+
+6
+00:00:14,620 --> 00:00:16,560
+Also, das heutige Webinar behandelt
+
+7
+00:00:16,560 --> 00:00:20,480
+die Zuordnung in
+
+8
+00:00:20,480 --> 00:00:22,720
+der Mathematik. Falls es während der
+
+9
+00:00:22,720 --> 00:00:24,800
+Präsentation Fragen geben sollte,
+
+10
+00:00:24,980 --> 00:00:26,240
+können die Teilnehmer das gerne in
+
+11
+00:00:26,240 --> 00:00:27,860
+den Chat schreiben. Dann beantworte
+
+12
+00:00:27,860 --> 00:00:29,400
+ich die so gut wie möglich. es geht.
+
+13
+00:00:30,260 --> 00:00:31,820
+Zuallererst jetzt aber erstmal eine
+
+14
+00:00:31,820 --> 00:00:34,180
+Übersicht, wie das Webinar heute
+
+15
+00:00:34,180 --> 00:00:36,840
+ablaufen wird. Als allererstes
+
+16
+00:00:36,840 --> 00:00:38,500
+definieren wir quasi, was eine
+
+17
+00:00:38,500 --> 00:00:40,620
+Zuordnung erstmal ist, dann
+
+18
+00:00:40,620 --> 00:00:43,360
+Darstellungsformen von Zuordnungen,
+
+19
+00:00:43,460 --> 00:00:45,580
+als nächsten Schritt dann wichtige
+
+20
+00:00:45,580 --> 00:00:47,760
+Zuordnungen, dann gucken wir uns den
+
+21
+00:00:47,760 --> 00:00:49,360
+Unterschied zwischen proportionalen
+
+22
+00:00:49,360 --> 00:00:51,820
+Zuordnungen und antiproportionalen
+
+23
+00:00:51,820 --> 00:00:53,720
+Zuordnungen an. Ja, und
+
+24
+00:00:53,720 --> 00:00:55,740
+beziehungsweise wir definieren
+
+25
+00:00:55,740 --> 00:00:57,020
+erstmal, was eine proportionale
+
+26
+00:00:57,020 --> 00:00:58,340
+Zuordnung ist und dann was eine
+
+27
+00:00:58,340 --> 00:01:00,040
+antiproportionale Zuordnung ist und
+
+28
+00:01:00,040 --> 00:01:01,360
+gucken uns dann die Unterschiede
+
+29
+00:01:01,360 --> 00:01:04,180
+zwischen diesen beiden an. Ja, dann
+
+30
+00:01:04,180 --> 00:01:05,580
+kann das Webinar jetzt eigentlich
+
+31
+00:01:05,580 --> 00:01:07,840
+beginnen. Zuallererst, wie gesagt,
+
+32
+00:01:07,960 --> 00:01:10,160
+die Frage, was ist eine Zuordnung?
+
+33
+00:01:10,960 --> 00:01:14,280
+Also eine Zuordnung bedeutet, wenn in
+
+34
+00:01:14,280 --> 00:01:17,320
+der Mathematik zwei Größen oder zwei
+
+35
+00:01:17,320 --> 00:01:19,080
+Mengen eine Beziehung zueinander
+
+36
+00:01:19,080 --> 00:01:21,020
+haben. Und das wird dann in der
+
+37
+00:01:21,020 --> 00:01:23,220
+Mathematik als Zuordnung bezeichnet.
+
+38
+00:01:23,900 --> 00:01:27,920
+Als Beispiel, in einer Umfrage wird
+
+39
+00:01:27,920 --> 00:01:30,140
+jeder Schüler der Klasse 7a nach
+
+40
+00:01:30,140 --> 00:01:32,640
+seinem Lieblingsessen gefragt. Und
+
+41
+00:01:32,640 --> 00:01:34,380
+wenn man jetzt eine Zuordnung macht
+
+42
+00:01:34,380 --> 00:01:35,960
+in der Mathematik, dann wird dem
+
+43
+00:01:35,960 --> 00:01:38,280
+Schüler das Lieblingsessen
+
+44
+00:01:38,280 --> 00:01:42,860
+zugeordnet.
+
+45
+00:01:43,580 --> 00:01:45,040
+Also da sieht man ja, das ist ja eine
+
+46
+00:01:45,040 --> 00:01:46,440
+Beziehung zwischen diesen beiden
+
+47
+00:01:46,440 --> 00:01:46,960
+Größen.
+
+48
+00:01:51,930 --> 00:01:53,470
+Diese Zuordnung, die wir jetzt gerade
+
+49
+00:01:53,470 --> 00:01:54,910
+gemacht haben. haben. Das sehen wir
+
+50
+00:01:54,910 --> 00:01:56,450
+jetzt ja hier. Die wird jetzt einfach
+
+51
+00:01:56,450 --> 00:01:57,850
+mit einem Strich zugeordnet, aber es
+
+52
+00:01:57,850 --> 00:01:59,970
+gibt noch andere Darstellungsformen,
+
+53
+00:01:59,970 --> 00:02:02,810
+wie man halt diese Zuordnung da ja
+
+54
+00:02:02,810 --> 00:02:06,490
+angeben kann. Ein Beispiel dafür wäre
+
+55
+00:02:06,490 --> 00:02:09,050
+das Pfeildiagramm. Wenn wir jetzt das
+
+56
+00:02:09,050 --> 00:02:11,610
+gleiche, quasi die gleiche Zuordnung
+
+57
+00:02:11,610 --> 00:02:14,270
+wie eben hatten, bei der nach dem
+
+58
+00:02:14,270 --> 00:02:17,610
+Lieblingsessen ja gefragt wird und
+
+59
+00:02:18,470 --> 00:02:21,110
+aus dem Freundeskreis diese angeben,
+
+60
+00:02:21,150 --> 00:02:22,010
+kann man dies jetzt in einem
+
+61
+00:02:22,010 --> 00:02:24,050
+Pfeildiagramm Also wenn man weiß,
+
+62
+00:02:24,070 --> 00:02:27,050
+dass Lisa Nudeln mag, beziehungsweise
+
+63
+00:02:27,050 --> 00:02:29,930
+dass Lieblingsessen Nudeln sind, hat
+
+64
+00:02:29,930 --> 00:02:31,050
+man halt hier einen Pfeil, der von
+
+65
+00:02:31,050 --> 00:02:34,070
+Lisa auf Nudeln zeigt. Hat man jetzt
+
+66
+00:02:34,070 --> 00:02:35,970
+bei Hannes, der mag Hamburger gerne,
+
+67
+00:02:36,090 --> 00:02:37,730
+Lorenz Pizza und Julia Hamburger.
+
+68
+00:02:38,270 --> 00:02:39,370
+Dementsprechend zeigt man dann immer
+
+69
+00:02:39,370 --> 00:02:42,390
+von dem Namen, dieser gibt das
+
+70
+00:02:42,390 --> 00:02:43,890
+Lieblingsessen an und man verbindet
+
+71
+00:02:43,890 --> 00:02:48,490
+diese mit einem Pfeil. Wenn jetzt die
+
+72
+00:02:48,490 --> 00:02:51,830
+Menge der Teilnehmer immer größer
+
+73
+00:02:51,830 --> 00:02:53,230
+wird, bietet sich das irgendwann
+
+74
+00:02:53,230 --> 00:02:54,950
+nicht mehr an, weil es dann halt
+
+75
+00:02:54,950 --> 00:02:56,770
+nicht mehr übersichtlich wird. Also
+
+76
+00:02:56,770 --> 00:02:57,830
+wenn wir uns jetzt vorstellen, diese
+
+77
+00:02:57,830 --> 00:03:01,870
+Liste wird immer weitergeführt mit
+
+78
+00:03:01,870 --> 00:03:05,790
+50, 100, 200 Teilnehmern, ist es
+
+79
+00:03:05,790 --> 00:03:06,430
+irgendwann nicht mehr
+
+80
+00:03:06,430 --> 00:03:08,430
+nachvollziehbar, wer jetzt gerade was
+
+81
+00:03:08,430 --> 00:03:10,350
+mag oder wie viele jetzt Nudeln
+
+82
+00:03:10,350 --> 00:03:11,450
+mögen. Das kann man ja nämlich
+
+83
+00:03:11,450 --> 00:03:14,190
+genauso gut nachgucken. Man kann ja
+
+84
+00:03:14,190 --> 00:03:15,530
+nachgucken, Nudeln werden von zwei
+
+85
+00:03:15,530 --> 00:03:17,410
+Leuten gemocht, von Lisa und Andi in
+
+86
+00:03:17,410 --> 00:03:19,510
+diesem Fall. Dann kann man sich
+
+87
+00:03:19,510 --> 00:03:21,930
+mithilfe des Säulendiagramms da ein
+
+88
+00:03:21,930 --> 00:03:23,170
+bisschen Übersicht beschaffen. Das
+
+89
+00:03:23,170 --> 00:03:25,370
+wäre jetzt die Zuordnung der Klasse
+
+90
+00:03:25,370 --> 00:03:27,270
+7a und nicht mehr die Zuordnung des
+
+91
+00:03:27,270 --> 00:03:29,750
+Freundeskreises. Da weiß man dann
+
+92
+00:03:29,750 --> 00:03:33,430
+halt, dass 13 Schüler Pizza mögen
+
+93
+00:03:33,430 --> 00:03:35,630
+oder Pizza von 13 Schülern gemocht
+
+94
+00:03:35,630 --> 00:03:40,030
+wird. Nudeln sind bei sieben Schülern
+
+95
+00:03:40,030 --> 00:03:43,510
+das Lieblingsessen und Hamburger. Das
+
+96
+00:03:43,510 --> 00:03:48,250
+wären so zwei Darstellungsformen von
+
+97
+00:03:48,250 --> 00:03:49,030
+Zuordnung.
+
+98
+00:03:51,290 --> 00:03:54,650
+Wichtige Zuordnung, ja, man
+
+99
+00:03:54,650 --> 00:03:56,290
+unterscheidet bei den Zuordnungen
+
+100
+00:03:56,290 --> 00:03:57,970
+zwischen proportionalen Zuordnungen,
+
+101
+00:03:58,010 --> 00:04:01,490
+aber auch zwischen antiproportionalen
+
+102
+00:04:01,490 --> 00:04:03,370
+oder indirekt proportionalen
+
+103
+00:04:03,370 --> 00:04:06,230
+Zuordnungen. Darüber hinaus gibt es
+
+104
+00:04:06,230 --> 00:04:07,390
+halt noch Zuordnungen, die keine
+
+105
+00:04:07,390 --> 00:04:10,330
+proportionalen Eigenschaften haben,
+
+106
+00:04:10,430 --> 00:04:12,710
+aber das kenne ich ja am Ende so ein
+
+107
+00:04:12,710 --> 00:04:16,570
+bisschen an. anschneiden. Zuallererst
+
+108
+00:04:16,570 --> 00:04:17,830
+aber mal die proportionalen
+
+109
+00:04:17,830 --> 00:04:20,810
+Zuordnungen. Also, proportionale
+
+110
+00:04:20,810 --> 00:04:23,490
+Zuordnungen sind Zuordnungen, bei
+
+111
+00:04:23,490 --> 00:04:25,910
+denen man das dem Doppelten bzw.
+
+112
+00:04:26,010 --> 00:04:27,990
+Dreifachen usw. der ersten Größe
+
+113
+00:04:27,990 --> 00:04:31,110
+jeweils das Doppelte Dreifache usw.
+
+114
+00:04:31,230 --> 00:04:35,750
+der zweiten Größe zuordnen kann. Dazu
+
+115
+00:04:35,750 --> 00:04:38,950
+ein Merksatz. Kannst du eine Aufgabe
+
+116
+00:04:38,950 --> 00:04:41,290
+mit je mehr, desto mehr formulieren,
+
+117
+00:04:41,310 --> 00:04:42,270
+dann hast du es mit mit einer
+
+118
+00:04:42,270 --> 00:04:44,450
+proportionalen Zuordnung zu tun. Ein
+
+119
+00:04:44,450 --> 00:04:45,930
+Beispiel aus dem Alltag, ein
+
+120
+00:04:45,930 --> 00:04:48,890
+Bröstchen kostet 25 Cent und jetzt
+
+121
+00:04:48,890 --> 00:04:50,530
+haben wir halt quasi diesen Merksatz
+
+122
+00:04:50,530 --> 00:04:53,510
+in dem drin und man weiß, dass es
+
+123
+00:04:53,510 --> 00:04:55,310
+eine proportionale Zuordnung ist. Je
+
+124
+00:04:55,310 --> 00:04:57,830
+mehr Brötchen man kauft, desto mehr
+
+125
+00:04:57,830 --> 00:05:00,810
+Geld muss man bezahlen. Also jetzt,
+
+126
+00:05:00,870 --> 00:05:03,190
+wenn man drei Brötchen kauft, muss
+
+127
+00:05:03,190 --> 00:05:04,310
+man auch das Dreifache davon
+
+128
+00:05:04,310 --> 00:05:06,950
+bezahlen, also 75 Cent. Ein anderes
+
+129
+00:05:06,950 --> 00:05:08,450
+Beispiel zum Lesen einer Seite
+
+130
+00:05:08,450 --> 00:05:10,630
+benötigt ja eine Minute. je mehr
+
+131
+00:05:10,630 --> 00:05:12,230
+Seiten das Buch hat, desto länger
+
+132
+00:05:12,230 --> 00:05:14,110
+liest er daran. Also wir haben hier
+
+133
+00:05:14,110 --> 00:05:15,570
+wieder je mehr, desto mehr,
+
+134
+00:05:15,750 --> 00:05:19,810
+verlänger. Daraus weiß man dann halt,
+
+135
+00:05:19,890 --> 00:05:21,790
+dass es eine proportionale Zuordnung
+
+136
+00:05:21,790 --> 00:05:22,070
+ist.
+
+137
+00:05:26,640 --> 00:05:28,980
+So, ein anderes Beispiel dafür wäre,
+
+138
+00:05:28,980 --> 00:05:31,780
+dass in einer Eisdiele um die Ecke
+
+139
+00:05:31,780 --> 00:05:35,120
+kostet eine Kugel 70 Cent. Jetzt kann
+
+140
+00:05:35,120 --> 00:05:36,000
+man sich das Ganze in so einer
+
+141
+00:05:36,000 --> 00:05:38,200
+Tabelle auch anordnen, damit man man
+
+142
+00:05:38,200 --> 00:05:40,560
+den übersicht hat hier auf der linken
+
+143
+00:05:40,560 --> 00:05:42,300
+seite wird der erste wert ist die
+
+144
+00:05:42,300 --> 00:05:44,620
+anzahl der zu eiskugeln und der
+
+145
+00:05:44,620 --> 00:05:46,940
+zweite wert sind die kosten in euro
+
+146
+00:05:47,740 --> 00:05:49,640
+wir haben ja in der aufgabe gegeben
+
+147
+00:05:49,640 --> 00:05:51,780
+beziehungsweise dem beispiel gegeben
+
+148
+00:05:51,780 --> 00:05:54,560
+dass eine kugel 70 cent kostet und
+
+149
+00:05:54,560 --> 00:05:55,980
+jetzt wissen wir bei den zuordnungen
+
+150
+00:05:55,980 --> 00:05:59,920
+ja je mehr desto mehr das ganze in
+
+151
+00:05:59,920 --> 00:06:03,140
+werten an veranschaulicht ist jetzt
+
+152
+00:06:03,140 --> 00:06:05,000
+wenn man doppelt so viele eiskugeln
+
+153
+00:06:05,000 --> 00:06:08,140
+kauft verdoppelt sich auch die Kosten
+
+154
+00:06:08,140 --> 00:06:11,540
+in Euro. Also wenn wir jetzt eine
+
+155
+00:06:11,540 --> 00:06:13,960
+Kugel Eis kaufen, haben wir 70 Cent.
+
+156
+00:06:14,460 --> 00:06:16,380
+Wenn wir jetzt zwei Kugeln kaufen,
+
+157
+00:06:16,660 --> 00:06:20,640
+ist es ja doppelt so viel. Eiskugeln,
+
+158
+00:06:20,700 --> 00:06:22,720
+also auch doppelt so viel kosten,
+
+159
+00:06:22,840 --> 00:06:26,320
+also ist man bei 1,40 Euro. Wenn wir
+
+160
+00:06:26,320 --> 00:06:28,240
+jetzt drei Eiskugeln kaufen, dann
+
+161
+00:06:28,240 --> 00:06:29,360
+verdreifacht sich auch der
+
+162
+00:06:29,360 --> 00:06:32,640
+Kostenwert, also 2,10 Euro. Man muss
+
+163
+00:06:32,640 --> 00:06:33,400
+aber nicht immer mal von dem
+
+164
+00:06:33,400 --> 00:06:35,680
+Startpunkt ausgeben, wenn wir jetzt
+
+165
+00:06:35,680 --> 00:06:37,000
+quasi uns errechnet haben, wie viel
+
+166
+00:06:37,000 --> 00:06:39,960
+man für drei Kugeln zahlt und man
+
+167
+00:06:39,960 --> 00:06:40,920
+jetzt wissen will, wie viel sechs
+
+168
+00:06:40,920 --> 00:06:42,680
+ist, kann man auch in dieser Liste
+
+169
+00:06:42,680 --> 00:06:44,280
+das einfach mal zwei dann rechnen,
+
+170
+00:06:44,320 --> 00:06:46,540
+also sechs Kugeln sind doppelt so
+
+171
+00:06:46,540 --> 00:06:47,900
+viel wie drei Kugeln und
+
+172
+00:06:47,900 --> 00:06:49,440
+dementsprechend verdoppelt sich auch
+
+173
+00:06:49,440 --> 00:06:54,440
+der Preis von den drei Kugeln halt.
+
+174
+00:06:55,100 --> 00:06:57,160
+Man hat dann für sechs Kugeln zahlt
+
+175
+00:06:57,160 --> 00:06:59,180
+man 4,20 Euro, wenn man für drei
+
+176
+00:06:59,180 --> 00:07:03,780
+Kugeln 2,10 Euro zahlt. Genauso kann
+
+177
+00:07:03,780 --> 00:07:06,080
+man dann nachher in Beispielaufgaben
+
+178
+00:07:06,080 --> 00:07:09,860
+ausrechnen, wenn wir jetzt sagen, man
+
+179
+00:07:09,860 --> 00:07:12,140
+hat sechs Eiskugeln gekauft und 4,20
+
+180
+00:07:12,140 --> 00:07:14,420
+€ bezahlt. Wie viel kostet eine
+
+181
+00:07:14,420 --> 00:07:15,680
+Eiskugel? Dann kann man das Ganze
+
+182
+00:07:15,680 --> 00:07:17,920
+halt auch, ich mach's mal eben mit
+
+183
+00:07:17,920 --> 00:07:23,640
+einem, so, kann man das Ganze auch
+
+184
+00:07:23,640 --> 00:07:26,480
+auch dementsprechend rückwärts
+
+185
+00:07:26,480 --> 00:07:31,460
+machen, geteilt durch 6 und das hier
+
+186
+00:07:31,460 --> 00:07:35,220
+auch geteilt durch 6. So wird man
+
+187
+00:07:35,220 --> 00:07:38,700
+dann halt auf die 70
+
+188
+00:07:40,110 --> 00:07:41,210
+Cent dann komplett und hätten wir
+
+189
+00:07:41,210 --> 00:07:44,890
+diesen Wert hier nicht gegeben, kann
+
+190
+00:07:44,890 --> 00:07:46,790
+man dann halt auch in der Tabelle
+
+191
+00:07:46,790 --> 00:07:49,350
+rückwärts rechnen. Das Ganze lässt
+
+192
+00:07:49,350 --> 00:07:51,230
+sich auch als Graph darstellen, wie
+
+193
+00:07:51,230 --> 00:07:52,290
+wir es jetzt in diesem Schaubild
+
+194
+00:07:52,290 --> 00:07:55,190
+haben. Hier nochmal die Tabelle als x
+
+195
+00:07:55,190 --> 00:07:57,090
+-Wert und x-Wert. y-Wert, hier die x
+
+196
+00:07:57,090 --> 00:07:58,590
+-Wert ist der Einzahl der Eiskugeln,
+
+197
+00:07:58,650 --> 00:07:59,990
+findet sich dann auf der x-Achse
+
+198
+00:07:59,990 --> 00:08:02,390
+wieder und der y-Wert sind die Kosten
+
+199
+00:08:02,390 --> 00:08:08,020
+in Euro, also hier 0,7, 1,4, 2,1, 2
+
+200
+00:08:08,020 --> 00:08:11,600
+,8, 3,5 und 4,2. Jetzt kann man das
+
+201
+00:08:11,600 --> 00:08:15,220
+als Graph halt darstellen und man hat
+
+202
+00:08:15,220 --> 00:08:16,380
+halt hier jetzt so eine Linie, die
+
+203
+00:08:16,380 --> 00:08:18,940
+man auch weiterführen kann und
+
+204
+00:08:21,020 --> 00:08:23,040
+kann dann daran halt auch Sachen
+
+205
+00:08:23,040 --> 00:08:26,360
+ablesen einfach. Das wäre jetzt halt
+
+206
+00:08:26,360 --> 00:08:29,080
+wieder eine andere Veranschaulichung
+
+207
+00:08:29,080 --> 00:08:30,860
+von Zuordnung, die man jetzt hat als
+
+208
+00:08:30,860 --> 00:08:35,720
+Graph. Ein weiteres Beispiel wäre
+
+209
+00:08:35,720 --> 00:08:37,440
+dann in einer Bäckerei kosten sieben
+
+210
+00:08:37,440 --> 00:08:40,140
+Teilchen 8,40 Euro. Wie viel kosten
+
+211
+00:08:40,140 --> 00:08:42,460
+dann fünf Teilchen? Das ist jetzt ja
+
+212
+00:08:42,460 --> 00:08:44,140
+so ähnlich, wie wir das gerade in dem
+
+213
+00:08:44,140 --> 00:08:47,600
+Beispiel der Eiskugeln gemacht haben.
+
+214
+00:08:47,920 --> 00:08:49,140
+Wir wissen, dass es eine
+
+215
+00:08:49,140 --> 00:08:51,360
+proportionale Zuordnung ist. Also je
+
+216
+00:08:51,360 --> 00:08:53,060
+mehr Teilchen man kauft, desto mehr
+
+217
+00:08:53,060 --> 00:08:55,900
+Kosten hast du bzw. desto mehr Geld
+
+218
+00:08:55,900 --> 00:08:59,280
+musst du bezahlen. Wenn wir jetzt
+
+219
+00:08:59,280 --> 00:09:00,820
+wissen wollen, wie viel 5 Teilchen
+
+220
+00:09:00,820 --> 00:09:02,380
+kosten, müssen wir das mit einem
+
+221
+00:09:02,380 --> 00:09:06,020
+Dreisatz machen. Also wir teilen
+
+222
+00:09:06,020 --> 00:09:10,280
+erstmal durch 7, also um erstmal auf
+
+223
+00:09:10,280 --> 00:09:12,000
+die Kosten für ein Teil zu kommen.
+
+224
+00:09:12,340 --> 00:09:15,520
+Also 7 teilt man durch 7 und auf der
+
+225
+00:09:15,520 --> 00:09:16,660
+anderen Seite muss man es ja genauso
+
+226
+00:09:16,660 --> 00:09:18,880
+machen. Das ist ja eine proportionale
+
+227
+00:09:18,880 --> 00:09:21,200
+Zuordnung. ist. Also man kann ja auch
+
+228
+00:09:21,200 --> 00:09:23,200
+genauso gut sagen, je weniger
+
+229
+00:09:23,200 --> 00:09:25,460
+Teilchen du kaufst, desto weniger
+
+230
+00:09:25,460 --> 00:09:28,500
+Kosten hast du. Also geteilt durch 7
+
+231
+00:09:28,500 --> 00:09:30,460
+muss man die 8,40 Euro auch durch 7
+
+232
+00:09:30,460 --> 00:09:33,960
+rechnen und man hält halt, dass ein
+
+233
+00:09:33,960 --> 00:09:36,740
+Teilchen 1,20 Euro kostet. Da man
+
+234
+00:09:36,740 --> 00:09:38,060
+jetzt aber wissen will, wie viel 5
+
+235
+00:09:38,060 --> 00:09:40,240
+Teilchen kosten, rechnet man nochmal
+
+236
+00:09:40,240 --> 00:09:43,280
+5 auf der linken Seite, um auf die 5
+
+237
+00:09:43,280 --> 00:09:44,200
+Teilchen zu kommen und
+
+238
+00:09:44,200 --> 00:09:45,540
+dementsprechend auch auf der rechten
+
+239
+00:09:45,540 --> 00:09:47,380
+Seite, um auf die Kosten in Euro zu
+
+240
+00:09:47,380 --> 00:09:50,660
+kommen mal 5. 1,20 Euro mal 5 sind 6
+
+241
+00:09:50,660 --> 00:09:53,180
+Euro. Also wäre die Antwort auf die
+
+242
+00:09:53,180 --> 00:09:55,000
+Frage, wie viel kosten dann 5
+
+243
+00:09:55,000 --> 00:09:57,880
+Teilchen? 5 Teilchen kosten 6 Euro.
+
+244
+00:10:00,240 --> 00:10:01,800
+Wo es eine proportionale Zuordnung
+
+245
+00:10:01,800 --> 00:10:02,500
+gibt, gibt es auch eine
+
+246
+00:10:02,500 --> 00:10:04,080
+antiproportionale Zuordnung.
+
+247
+00:10:07,500 --> 00:10:09,140
+Heißt, Zuordnung, wenn sich etwas
+
+248
+00:10:09,140 --> 00:10:12,100
+verdoppelt bei der ersten Größe,
+
+249
+00:10:12,920 --> 00:10:14,120
+halbiert es sich in der zweiten
+
+250
+00:10:14,120 --> 00:10:17,200
+Größe. Also wenn wir den Merksatz von
+
+251
+00:10:17,200 --> 00:10:18,180
+eben haben, müssen wir den
+
+252
+00:10:18,180 --> 00:10:20,320
+umformulieren, kannst du eine Aufgabe
+
+253
+00:10:20,320 --> 00:10:21,700
+mit je mehr, desto weniger
+
+254
+00:10:21,700 --> 00:10:23,080
+formulieren, dann hast du es mit
+
+255
+00:10:23,080 --> 00:10:24,860
+einer antiproportionalen Zuordnung zu
+
+256
+00:10:24,860 --> 00:10:27,800
+tun. Beispiel wäre dafür jetzt Maler
+
+257
+00:10:27,800 --> 00:10:29,380
+oder Handwerker. Ein Maler braucht
+
+258
+00:10:29,380 --> 00:10:31,100
+zum Streichen eines Zimmers vier
+
+259
+00:10:31,100 --> 00:10:33,700
+Stunden. Je mehr Maler arbeiten,
+
+260
+00:10:33,880 --> 00:10:35,420
+desto weniger Zeit brauchen sie, um
+
+261
+00:10:35,420 --> 00:10:37,920
+das Zimmer zu streichen. Also hier,
+
+262
+00:10:37,980 --> 00:10:40,560
+je mehr Maler, desto weniger Zeit.
+
+263
+00:10:40,740 --> 00:10:42,220
+Das ist eine antiproportionale
+
+264
+00:10:42,220 --> 00:10:42,600
+Zuordnung.
+
+265
+00:10:48,840 --> 00:10:51,160
+Genauso kann man dann, also nicht
+
+266
+00:10:51,160 --> 00:10:52,760
+genauso, sondern ähnlich, kann man
+
+267
+00:10:52,760 --> 00:10:54,220
+das auch in einer Tabelle dann
+
+268
+00:10:54,220 --> 00:10:54,880
+berechnen.
+
+269
+00:10:57,280 --> 00:10:59,580
+Allerdings muss man halt nicht
+
+270
+00:10:59,580 --> 00:11:02,340
+wieder, wenn man von drei, jetzt an
+
+271
+00:11:02,340 --> 00:11:04,220
+diesem Beispiel drei Anzahl der Maler
+
+272
+00:11:04,220 --> 00:11:07,460
+hat, und man wissen will, wie viel
+
+273
+00:11:07,460 --> 00:11:09,300
+einer braucht, Teilt man auf dieser
+
+274
+00:11:09,300 --> 00:11:11,020
+Seite 2 durch 3, aber auf der anderen
+
+275
+00:11:11,020 --> 00:11:12,620
+Seite wird dann mal 3 genommen. Dann
+
+276
+00:11:12,620 --> 00:11:14,120
+haben wir ja je mehr, desto weniger.
+
+277
+00:11:14,840 --> 00:11:18,120
+Aber auch je weniger Maler, desto
+
+278
+00:11:18,120 --> 00:11:21,380
+mehr Anzahl der Stunden. Daraus kann
+
+279
+00:11:21,380 --> 00:11:22,920
+man ja ableiten, dass es sich jetzt
+
+280
+00:11:22,920 --> 00:11:24,940
+an das Antiproportionale, dass auf
+
+281
+00:11:24,940 --> 00:11:26,160
+diesen beiden Seiten halt ein
+
+282
+00:11:26,160 --> 00:11:28,980
+gegensätzlicher Schritt gemacht
+
+283
+00:11:28,980 --> 00:11:31,460
+werden muss. Also wir haben jetzt
+
+284
+00:11:31,460 --> 00:11:33,340
+dieses Beispiel. Drei Maler brauchen
+
+285
+00:11:33,340 --> 00:11:34,180
+zum Schreichen einer
+
+286
+00:11:34,180 --> 00:11:38,060
+Vierzimmerwohnung zwölf Stunden. Wie
+
+287
+00:11:38,060 --> 00:11:40,000
+viele Stunden braucht ein Maler? Das
+
+288
+00:11:40,000 --> 00:11:41,160
+wäre die erste Aufgabe. Oder wie
+
+289
+00:11:41,160 --> 00:11:42,760
+viele Stunden brauchen vier Maler?
+
+290
+00:11:42,760 --> 00:11:46,830
+Das wäre die zweite Aufgabe. Und da
+
+291
+00:11:46,830 --> 00:11:49,570
+wir jetzt wissen, drei Maler brauchen
+
+292
+00:11:49,570 --> 00:11:53,430
+zwölf Stunden. Wir wollen jetzt
+
+293
+00:11:53,430 --> 00:11:54,570
+wissen, wie viele Einmaler braucht.
+
+294
+00:11:54,670 --> 00:11:56,010
+Das teilt man hier durch drei auf der
+
+295
+00:11:56,010 --> 00:11:57,990
+linken Seite. Man weiß, wie viele
+
+296
+00:11:57,990 --> 00:12:00,030
+Einmaler braucht, aber das ist jetzt
+
+297
+00:12:00,030 --> 00:12:02,350
+hier ja vermehrt. Rechnet man mal
+
+298
+00:12:02,350 --> 00:12:05,130
+drei, also hat man jetzt errechnet,
+
+299
+00:12:05,130 --> 00:12:07,430
+dass ein Maler 36 Stunden braucht.
+
+300
+00:12:08,210 --> 00:12:10,350
+Wie viele Stunden brauchen 4 Maler?
+
+301
+00:12:10,370 --> 00:12:11,650
+Wir gucken uns jetzt die Anzahl der
+
+302
+00:12:11,650 --> 00:12:14,270
+Maler an. Man hat 1, rechnet diesen
+
+303
+00:12:14,270 --> 00:12:17,690
+mal 4, also hat man jetzt 4 Maler.
+
+304
+00:12:17,850 --> 00:12:20,850
+Ein Maler braucht 36 Stunden, 4 Maler
+
+305
+00:12:20,850 --> 00:12:22,110
+brauchen dementsprechend weniger,
+
+306
+00:12:22,350 --> 00:12:24,930
+also man teilt hier zwar auch
+
+307
+00:12:24,930 --> 00:12:26,510
+proportional, nur antiproportional
+
+308
+00:12:26,510 --> 00:12:28,950
+durch 4, aber es ist ja beides die 4
+
+309
+00:12:28,950 --> 00:12:31,410
+auf den Seiten nur halt quasi
+
+310
+00:12:31,410 --> 00:12:35,440
+gegensätzlich. Auch das lässt sich
+
+311
+00:12:35,440 --> 00:12:36,800
+wieder an einem Graphen darstellen.
+
+312
+00:12:37,340 --> 00:12:38,960
+Hier haben wir die Dauer in Stunden.
+
+313
+00:12:38,980 --> 00:12:43,020
+auf der y-Achse und auf der x-Achse
+
+314
+00:12:43,020 --> 00:12:47,780
+die Anzahl der Maler. Man gibt hier
+
+315
+00:12:47,780 --> 00:12:49,320
+diese Werte ein und kann das auch an
+
+316
+00:12:49,320 --> 00:12:50,280
+einem Graphen darstellen.
+
+317
+00:12:58,650 --> 00:13:01,350
+Wenn man jetzt unterscheiden will, ob
+
+318
+00:13:01,350 --> 00:13:02,870
+es eine proportionale oder eine
+
+319
+00:13:02,870 --> 00:13:05,650
+antiproportionale Zuordnung ist, wenn
+
+320
+00:13:05,650 --> 00:13:07,110
+man jetzt eine Aufgabe beispielsweise
+
+321
+00:13:07,110 --> 00:13:08,870
+einer Tabelle gegeben hat und
+
+322
+00:13:08,870 --> 00:13:10,470
+entscheiden soll, ob das proportional
+
+323
+00:13:10,470 --> 00:13:13,470
+oder antiproportional ist, dann kann
+
+324
+00:13:13,470 --> 00:13:16,250
+man als allererstes immer mal sich
+
+325
+00:13:16,250 --> 00:13:17,990
+die Werte auf der linken und auf der
+
+326
+00:13:17,990 --> 00:13:19,090
+rechten Seite angucken.
+
+327
+00:13:22,050 --> 00:13:25,590
+Wird die linke Seite größer, also
+
+328
+00:13:25,590 --> 00:13:27,830
+wenn wir jetzt hier 3 haben, hier ist
+
+329
+00:13:27,830 --> 00:13:30,610
+4, wird die größer und der rechte
+
+330
+00:13:30,610 --> 00:13:32,970
+Wert wird auch größer. Dann kann man
+
+331
+00:13:32,970 --> 00:13:34,290
+schon mal davon ausgehen, dass es
+
+332
+00:13:34,290 --> 00:13:37,250
+sich um eine proportionale Zuordnung
+
+333
+00:13:37,250 --> 00:13:39,350
+handelt. Aber es gibt halt auch
+
+334
+00:13:39,350 --> 00:13:40,650
+Zuordnungen, die weder proportional
+
+335
+00:13:40,650 --> 00:13:43,210
+noch antiproportional sind. Man
+
+336
+00:13:43,210 --> 00:13:49,210
+stelle sich vor, man schreibt
+
+337
+00:13:49,210 --> 00:13:52,350
+sich an jeder Stunde des Tages die
+
+338
+00:13:52,350 --> 00:13:54,890
+Temperatur auf. Das sind jetzt zwar
+
+339
+00:13:54,890 --> 00:13:56,810
+zwei Werte, aber die stehen ja in
+
+340
+00:13:56,810 --> 00:13:58,590
+keinem Verhältnis zueinander. Das
+
+341
+00:13:58,590 --> 00:13:59,890
+wäre dann eine beliebige Zuordnung.
+
+342
+00:13:59,890 --> 00:14:01,910
+Aber jetzt, wenn wir unterscheiden
+
+343
+00:14:01,910 --> 00:14:03,170
+wollen zwischen proportionaler und
+
+344
+00:14:03,170 --> 00:14:05,590
+antiproportionaler, haben wir ja die
+
+345
+00:14:05,590 --> 00:14:07,990
+Merksätze proportional je mehr, desto
+
+346
+00:14:07,990 --> 00:14:09,610
+mehr, beziehungsweise auch je
+
+347
+00:14:09,610 --> 00:14:12,650
+weniger, desto weniger. Und in der
+
+348
+00:14:12,650 --> 00:14:15,550
+antiproportionalen haben wir je mehr,
+
+349
+00:14:15,590 --> 00:14:19,050
+desto weniger, aber auch je weniger,
+
+350
+00:14:19,070 --> 00:14:21,330
+desto mehr. Jetzt schauen wir uns die
+
+351
+00:14:21,330 --> 00:14:25,410
+Tabelle an. Man hat erst den Wert 3
+
+352
+00:14:25,410 --> 00:14:28,410
+und dann den Wert 1. Man teilt also
+
+353
+00:14:28,410 --> 00:14:32,790
+auf der linken Seite durch 3 und auf
+
+354
+00:14:32,790 --> 00:14:34,190
+der rechten Seite wird dies genauso
+
+355
+00:14:34,190 --> 00:14:36,530
+gemacht. Dann wissen wir, es ist eine
+
+356
+00:14:36,530 --> 00:14:39,010
+proportionale Zuordnung. Da kann man
+
+357
+00:14:39,010 --> 00:14:40,190
+sich den zweiten Schritt fast schon
+
+358
+00:14:40,190 --> 00:14:42,490
+sparen, aber nur um das Ganze jetzt
+
+359
+00:14:42,490 --> 00:14:44,370
+nochmal zu vervollständigen. Mal 4
+
+360
+00:14:44,370 --> 00:14:45,690
+wird auf der linken Seite genommen
+
+361
+00:14:45,690 --> 00:14:48,070
+und mal 4 auf der rechten Seite. Man
+
+362
+00:14:48,070 --> 00:14:49,210
+kann das halt hier dementsprechend
+
+363
+00:14:49,210 --> 00:14:54,450
+weiterführen. Mal 5 muss man dann auf
+
+364
+00:14:54,450 --> 00:14:57,770
+der Seite auch machen. Ich kann jetzt
+
+365
+00:14:57,770 --> 00:15:00,150
+hier geteilt durch 4 machen und
+
+366
+00:15:02,680 --> 00:15:04,140
+muss dies auch entsprechend auf
+
+367
+00:15:04,140 --> 00:15:05,240
+diesen Seiten weiterführen und
+
+368
+00:15:05,240 --> 00:15:07,000
+genauso läuft es dann ja auch ab.
+
+369
+00:15:07,300 --> 00:15:09,320
+Also wenn man auf der linken Seite
+
+370
+00:15:09,320 --> 00:15:13,300
+etwas malen nimmt, dann macht man das
+
+371
+00:15:13,300 --> 00:15:15,700
+auch auf der rechten Seite. Anders
+
+372
+00:15:15,700 --> 00:15:17,800
+sieht es da in der rechten Tabelle
+
+373
+00:15:17,800 --> 00:15:19,940
+aus. Hier haben wir ja erstmal eine 4
+
+374
+00:15:19,940 --> 00:15:23,280
+und dann eine 60, aber der Wert auf
+
+375
+00:15:23,280 --> 00:15:25,200
+der rechten Seite wird halt weniger,
+
+376
+00:15:25,340 --> 00:15:27,220
+wo er auf der linken Seite allerdings
+
+377
+00:15:27,220 --> 00:15:29,180
+mehr wird. dann fällt einem schon
+
+378
+00:15:29,180 --> 00:15:29,860
+auf, dass es hier eine
+
+379
+00:15:29,860 --> 00:15:31,240
+antiproportionalen Zuordnung ist.
+
+380
+00:15:34,060 --> 00:15:37,320
+Also wenn wir hier jetzt mal 15
+
+381
+00:15:37,320 --> 00:15:40,080
+rechnen, um auf die 60 zu kommen,
+
+382
+00:15:40,180 --> 00:15:44,180
+muss man hier geteilt durch 15
+
+383
+00:15:44,180 --> 00:15:48,880
+rechnen, um darauf zu kommen. Und so
+
+384
+00:15:48,880 --> 00:15:49,700
+sehen wir halt, dass es eine
+
+385
+00:15:49,700 --> 00:15:51,300
+antiproportionalen Zuordnung ist.
+
+386
+00:15:54,190 --> 00:15:55,950
+Das wäre es jetzt an dieser Stelle
+
+387
+00:15:55,950 --> 00:15:58,270
+mit der Präsentation. Sollte es da
+
+388
+00:15:58,270 --> 00:15:59,550
+noch Fragen geben? können die
+
+389
+00:15:59,550 --> 00:16:01,070
+Teilnehmer diese gerne in den Chat
+
+390
+00:16:01,070 --> 00:16:04,290
+schreiben. Da aber zurzeit keine da
+
+391
+00:16:04,290 --> 00:16:07,250
+sind, ist an diesem Punkt das Webinar
+
+392
+00:16:07,250 --> 00:16:09,150
+dementsprechend beendet. Auf
+
+393
+00:16:09,150 --> 00:16:09,590
+Wiedersehen!
+

@@ -1,0 +1,741 @@
+﻿1
+00:00:00,000 --> 00:00:01,880
+Hello and welcome to the 
+
+2
+00:00:01,880 --> 00:00:04,800
+Schülerhilfe learning videos. Today we're 
+
+3
+00:00:04,800 --> 00:00:06,480
+looking at the basics 
+
+4
+00:00:06,480 --> 00:00:08,120
+of writing a scientific 
+
+5
+00:00:08,120 --> 00:00:12,060
+text. In this module, you will learn 
+
+6
+00:00:12,100 --> 00:00:13,640
+what is important when writing a 
+
+7
+00:00:13,640 --> 00:00:15,520
+scientific text. 
+
+8
+00:00:16,320 --> 00:00:18,500
+We will first look at the 
+
+9
+00:00:18,500 --> 00:00:20,580
+concept of scientificity and 
+
+10
+00:00:20,580 --> 00:00:22,000
+then go into the 
+
+11
+00:00:22,000 --> 00:00:23,200
+different types of 
+
+12
+00:00:23,200 --> 00:00:24,780
+scientific work. 
+
+13
+00:00:25,920 --> 00:00:27,520
+We will then look at the 
+
+14
+00:00:27,520 --> 00:00:29,200
+specifics of language and 
+
+15
+00:00:29,200 --> 00:00:32,260
+style, form and structure 
+
+16
+00:00:32,260 --> 00:00:34,320
+as well as page layout. 
+
+17
+00:00:36,950 --> 00:00:38,310
+Let's start with the 
+
+18
+00:00:38,310 --> 00:00:41,030
+scientific nature of texts. What does 
+
+19
+00:00:41,030 --> 00:00:41,810
+
+20
+00:00:41,810 --> 00:00:43,170
+scientific writing actually mean ? 
+
+21
+00:00:46,000 --> 00:00:47,680
+Scientific texts fulfill 
+
+22
+00:00:47,680 --> 00:00:48,980
+various criteria. 
+
+23
+00:00:50,460 --> 00:00:53,280
+Verifiability. All statements must be 
+
+24
+00:00:53,280 --> 00:00:55,000
+marked with references 
+
+25
+00:00:55,120 --> 00:00:57,980
+so that they can be checked. 
+
+26
+00:00:57,980 --> 00:00:59,280
+The sources are given as 
+
+27
+00:00:59,280 --> 00:01:01,280
+short references in the text and 
+
+28
+00:01:01,280 --> 00:01:03,360
+as full references in the bibliography. 
+
+29
+00:01:03,660 --> 00:01:05,940
+You will learn more about this in Module 
+3: 
+
+30
+00:01:08,300 --> 00:01:10,680
+Comprehensibility. A person with 
+
+31
+00:01:10,680 --> 00:01:12,360
+basic knowledge of the subject area 
+
+32
+00:01:12,360 --> 00:01:13,800
+must be able to understand the work. 
+
+33
+00:01:14,460 --> 00:01:16,620
+Your argumentation 
+
+34
+00:01:16,620 --> 00:01:18,100
+must be presented logically and 
+comprehensibly. 
+
+35
+00:01:20,930 --> 00:01:23,370
+Reliability or dependability. 
+
+36
+00:01:23,750 --> 00:01:26,110
+
+37
+00:01:26,110 --> 00:01:27,550
+
+38
+00:01:27,550 --> 00:01:29,230
+It must be possible to achieve the same 
+results when repeating the methods used. 
+
+39
+00:01:29,910 --> 00:01:31,950
+Therefore, choose 
+
+40
+00:01:31,950 --> 00:01:36,450
+measurement methods that are as precise 
+and reliable as possible. Congruence. 
+
+41
+00:01:36,450 --> 00:01:38,850
+The paper must address the topic or 
+
+42
+00:01:38,850 --> 00:01:40,370
+title of the paper. 
+
+43
+00:01:40,730 --> 00:01:42,550
+The title should therefore already 
+
+44
+00:01:42,550 --> 00:01:44,330
+provide information about the content of 
+the 
+
+45
+00:01:44,330 --> 00:01:44,930
+paper. 
+
+46
+00:01:47,670 --> 00:01:50,530
+New findings. The work must 
+
+47
+00:01:50,530 --> 00:01:52,710
+make new statements or look at statements 
+
+48
+00:01:52,710 --> 00:01:53,930
+from a new perspective 
+
+49
+00:01:53,930 --> 00:01:58,430
+. Topicality. The basis of the 
+
+50
+00:01:58,430 --> 00:01:59,970
+work is the current and 
+
+51
+00:01:59,970 --> 00:02:01,610
+available specialist literature. 
+
+52
+00:02:03,650 --> 00:02:05,990
+Objectivity. The work is 
+
+53
+00:02:05,990 --> 00:02:09,210
+written in a neutral form. Personal 
+
+54
+00:02:09,210 --> 00:02:11,010
+opinions or subjective views 
+
+55
+00:02:11,010 --> 00:02:13,410
+should not be expressed. 
+
+56
+00:02:13,410 --> 00:02:15,230
+Furthermore, all statements must be 
+
+57
+00:02:15,230 --> 00:02:19,530
+justified. Stylistics. The work is 
+
+58
+00:02:19,530 --> 00:02:21,390
+factual and clearly written. 
+
+59
+00:02:23,460 --> 00:02:25,440
+Now let's take a look at what 
+
+60
+00:02:25,440 --> 00:02:27,280
+types of scientific papers 
+
+61
+00:02:27,280 --> 00:02:30,760
+there are. In a literature thesis, 
+
+62
+00:02:30,760 --> 00:02:31,740
+only 
+
+63
+00:02:31,740 --> 00:02:33,460
+scientific 
+
+64
+00:02:33,460 --> 00:02:36,080
+findings that have already been published 
+are used. This means that 
+
+65
+00:02:36,080 --> 00:02:37,980
+the current literature is used, 
+
+66
+00:02:38,220 --> 00:02:40,220
+but no own data is 
+
+67
+00:02:40,220 --> 00:02:43,740
+collected. Empirical or 
+
+68
+00:02:43,740 --> 00:02:46,520
+analytical work or research 
+
+69
+00:02:46,520 --> 00:02:49,640
+is different. Here, empirically 
+
+70
+00:02:49,640 --> 00:02:52,500
+collected data is taken into account. 
+
+71
+00:02:52,500 --> 00:02:54,420
+
+72
+00:02:54,420 --> 00:02:56,500
+However, the current scientific literature 
+forms the basis of the 
+
+73
+00:02:56,500 --> 00:02:59,720
+work. Empirical means 
+
+74
+00:02:59,720 --> 00:03:02,420
+based on experience. Empirical 
+
+75
+00:03:02,420 --> 00:03:04,160
+studies are, for example, 
+
+76
+00:03:04,160 --> 00:03:05,960
+frequency counts, 
+
+77
+00:03:06,180 --> 00:03:07,840
+observation protocols or 
+
+78
+00:03:07,840 --> 00:03:11,620
+interviews. A project or 
+
+79
+00:03:11,620 --> 00:03:13,620
+company-related paper or 
+
+80
+00:03:14,200 --> 00:03:16,220
+a practical project 
+
+81
+00:03:16,220 --> 00:03:18,140
+
+82
+00:03:18,140 --> 00:03:20,960
+deals with a specific practical task . 
+Here, too, the current 
+
+83
+00:03:20,960 --> 00:03:23,240
+scientific literature forms the basis of 
+the 
+
+84
+00:03:23,240 --> 00:03:27,190
+work. How do I write a 
+
+85
+00:03:27,190 --> 00:03:28,250
+scientific text? 
+
+86
+00:03:31,970 --> 00:03:33,530
+Above 
+
+87
+00:03:33,530 --> 00:03:37,610
+all, scientific writing means writing 
+factually. 
+
+88
+00:03:37,610 --> 00:03:39,770
+No feelings, opinions or 
+
+89
+00:03:39,770 --> 00:03:42,410
+evaluations should be expressed. 
+
+90
+00:03:42,410 --> 00:03:43,830
+Internal actions such as 
+
+91
+00:03:43,830 --> 00:03:45,710
+thoughts or monologues should also 
+
+92
+00:03:45,710 --> 00:03:49,510
+be avoided. Use indirect rather than 
+
+93
+00:03:49,510 --> 00:03:53,270
+literal speech. 
+
+94
+00:03:53,270 --> 00:03:55,150
+Be brief, but not too brief. 
+
+95
+00:03:55,150 --> 00:03:57,750
+In short, provide a concise but accurate 
+
+96
+00:03:57,750 --> 00:03:59,430
+description of the event without 
+
+97
+00:03:59,430 --> 00:04:02,590
+digression. It is important to 
+
+98
+00:04:02,590 --> 00:04:04,570
+maintain an objective point of view. 
+
+99
+00:04:05,410 --> 00:04:07,430
+Therefore, do not use 
+
+100
+00:04:07,430 --> 00:04:08,650
+the first person when writing. 
+
+101
+00:04:11,420 --> 00:04:13,580
+What are the components of a 
+
+102
+00:04:13,580 --> 00:04:16,180
+scientific paper? 
+
+103
+00:04:16,180 --> 00:04:17,700
+First of all, there is the cover page, 
+
+104
+00:04:17,740 --> 00:04:19,820
+which 
+
+105
+00:04:19,820 --> 00:04:21,640
+
+106
+00:04:21,640 --> 00:04:23,960
+
+107
+00:04:23,960 --> 00:04:27,140
+should contain the topic, the author's 
+first name and surname, the submission 
+date and other information. This can be 
+
+108
+00:04:27,140 --> 00:04:30,000
+followed by several lists. Which 
+
+109
+00:04:30,000 --> 00:04:32,040
+lists are required depends 
+
+110
+00:04:32,040 --> 00:04:34,140
+on the type and scope of the work 
+
+111
+00:04:34,140 --> 00:04:36,880
+. Examples are 
+
+112
+00:04:36,880 --> 00:04:39,460
+
+113
+00:04:39,460 --> 00:04:40,820
+lists of contents, tables, figures or 
+abbreviations. 
+
+114
+00:04:43,000 --> 00:04:44,660
+Then comes the text of the paper, 
+
+115
+00:04:44,820 --> 00:04:47,620
+i.e. the main body. 
+
+116
+00:04:47,620 --> 00:04:49,480
+The main body is followed by the appendix 
+and the 
+
+117
+00:04:49,480 --> 00:04:51,840
+bibliography. 
+
+118
+00:04:51,840 --> 00:04:53,340
+All 
+
+119
+00:04:53,340 --> 00:04:55,820
+sources must be listed in the bibliography 
+and 
+
+120
+00:04:55,820 --> 00:04:57,420
+
+121
+00:04:57,420 --> 00:05:00,460
+sorted alphabetically according to the 
+author's surname . Finally, 
+
+122
+00:05:00,460 --> 00:05:02,120
+an affidavit must 
+
+123
+00:05:02,120 --> 00:05:04,420
+be added stating that 
+
+124
+00:05:04,420 --> 00:05:06,220
+the work 
+
+125
+00:05:06,220 --> 00:05:10,930
+was written independently, i.e. without 
+outside help. 
+
+126
+00:05:10,930 --> 00:05:12,950
+The topic is dealt with in the main 
+section. 
+
+127
+00:05:13,670 --> 00:05:15,970
+A reference to the problem must be 
+
+128
+00:05:15,970 --> 00:05:18,350
+established and the objective 
+
+129
+00:05:18,350 --> 00:05:21,790
+addressed. It is important to 
+
+130
+00:05:21,790 --> 00:05:23,810
+
+131
+00:05:23,810 --> 00:05:24,250
+pay attention to a logical structure of 
+the argumentation . 
+
+132
+00:05:27,110 --> 00:05:29,550
+The introduction should 
+
+133
+00:05:29,550 --> 00:05:32,970
+lead to the topic of the paper . 
+
+134
+00:05:32,970 --> 00:05:34,630
+It is practical to use an example with 
+
+135
+00:05:34,630 --> 00:05:37,770
+current figures. 
+
+136
+00:05:37,770 --> 00:05:39,330
+The task or 
+
+137
+00:05:39,850 --> 00:05:42,470
+problem should also be addressed and the 
+
+138
+00:05:42,470 --> 00:05:44,550
+objective of the work 
+
+139
+00:05:44,550 --> 00:05:47,730
+explained in more detail. For example, 
+does the thesis deal with 
+
+140
+00:05:47,730 --> 00:05:49,750
+a special topic or should it provide an 
+
+141
+00:05:49,750 --> 00:05:51,490
+overview of the current state of 
+
+142
+00:05:51,490 --> 00:05:54,670
+research? The 
+
+143
+00:05:54,670 --> 00:05:56,450
+approach to the work should also 
+
+144
+00:05:56,450 --> 00:05:57,350
+
+145
+00:05:57,370 --> 00:05:59,450
+be presented clearly. The 
+
+146
+00:05:59,450 --> 00:06:01,430
+structure of the paper should also be 
+described. 
+
+147
+00:06:03,510 --> 00:06:05,010
+The conclusion should 
+
+148
+00:06:05,010 --> 00:06:07,090
+contain a summary and provide an 
+
+149
+00:06:07,090 --> 00:06:08,370
+intellectual link to the 
+
+150
+00:06:08,370 --> 00:06:10,730
+problem. In addition, 
+
+151
+00:06:10,730 --> 00:06:12,790
+an outlook on future 
+
+152
+00:06:12,790 --> 00:06:14,110
+questions should be given. 
+
+153
+00:06:15,150 --> 00:06:17,110
+Finally, a conclusion should be drawn 
+
+154
+00:06:17,250 --> 00:06:19,650
+that 
+
+155
+00:06:19,650 --> 00:06:20,130
+addresses the critical positions. 
+
+156
+00:06:25,890 --> 00:06:27,810
+Finally, let's address the question 
+
+157
+00:06:27,810 --> 00:06:29,670
+of how to design the 
+
+158
+00:06:29,670 --> 00:06:30,310
+page layout. 
+
+159
+00:06:34,030 --> 00:06:36,450
+The margins should be 
+
+160
+00:06:36,450 --> 00:06:41,090
+3 cm at the top and bottom, 4 cm on the 
+left and 2 
+
+161
+00:06:41,090 --> 00:06:44,870
+cm on the right. Use a common 
+
+162
+00:06:44,870 --> 00:06:47,050
+font such as Times New Roman or 
+
+163
+00:06:47,050 --> 00:06:50,210
+Arial. The standard font size is 
+
+164
+00:06:50,210 --> 00:06:52,590
+12, although headings 
+
+165
+00:06:52,590 --> 00:06:55,350
+can be written larger. The 
+
+166
+00:06:55,350 --> 00:06:57,350
+text alignment should be set to 
+justification 
+
+167
+00:06:57,350 --> 00:06:59,450
+and automatic 
+
+168
+00:06:59,450 --> 00:07:01,330
+hyphenation should be activated. 
+
+169
+00:07:02,130 --> 00:07:04,030
+
+170
+00:07:04,030 --> 00:07:06,110
+Line spacing should be set to one and a 
+half and the 
+
+171
+00:07:06,110 --> 00:07:07,370
+sheets should be numbered . 
+
+172
+00:07:11,470 --> 00:07:13,220
+When numbering 
+
+173
+00:07:13,220 --> 00:07:15,120
+, make sure that the cover page is not 
+
+174
+00:07:15,120 --> 00:07:18,600
+numbered. 
+
+175
+00:07:18,600 --> 00:07:20,680
+
+176
+00:07:20,680 --> 00:07:23,060
+The table of contents, list of 
+abbreviations, list of figures, appendix 
+and bibliography are numbered using 
+
+177
+00:07:23,060 --> 00:07:26,260
+Roman numerals. The 
+
+178
+00:07:26,260 --> 00:07:28,460
+text and the appendix, on the other hand, 
+are 
+
+179
+00:07:28,460 --> 00:07:30,120
+numbered using Arabic numerals. 
+
+180
+00:07:32,990 --> 00:07:35,150
+Thank you for your attention 
+
+181
+00:07:35,150 --> 00:07:36,410
+and good luck with the 
+
+182
+00:07:36,410 --> 00:07:37,090
+text! 

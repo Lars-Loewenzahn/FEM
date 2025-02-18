@@ -1,0 +1,360 @@
+1
+00:00:00,430 --> 00:00:01,750
+Hallo, ich freue mich, dass du heute
+
+2
+00:00:01,750 --> 00:00:03,370
+wieder mit dabei bist. Ich möchte dir
+
+3
+00:00:03,370 --> 00:00:04,590
+gerne heute in diesem Video erklären,
+
+4
+00:00:04,910 --> 00:00:07,070
+wie man einen Punkt an einer Ebene
+
+5
+00:00:07,070 --> 00:00:09,170
+spiegelt. Weil das Ganze immer ein
+
+6
+00:00:09,170 --> 00:00:10,590
+bisschen abstrakt ist, habe ich ein
+
+7
+00:00:10,590 --> 00:00:12,970
+Beispiel dafür mitgebracht. Wir haben
+
+8
+00:00:12,970 --> 00:00:14,610
+in meinem Beispiel die Ebene E
+
+9
+00:00:14,610 --> 00:00:18,310
+gegeben und den Punkt P. Unser Ziel
+
+10
+00:00:18,310 --> 00:00:20,770
+ist es, den Punkt P unter der Ebene
+
+11
+00:00:20,770 --> 00:00:22,710
+zu spiegeln. Ich nenne diesen Punkt
+
+12
+00:00:22,710 --> 00:00:26,770
+P'. Ein Weg, dieses Ziel zu
+
+13
+00:00:26,770 --> 00:00:29,650
+erreichen, ist eine Hilfsgerade. zu
+
+14
+00:00:29,650 --> 00:00:33,110
+erstellen und dafür benötige ich zum
+
+15
+00:00:33,110 --> 00:00:35,170
+einen den normalen Vektor der Ebene
+
+16
+00:00:35,170 --> 00:00:39,390
+und den Punkt P. Wie das Ganze mit
+
+17
+00:00:39,390 --> 00:00:41,210
+Zahlen funktioniert, zeige ich dir an
+
+18
+00:00:41,210 --> 00:00:45,490
+diesem Beispiel. Wir haben die Ebene
+
+19
+00:00:45,490 --> 00:00:48,450
+E gegeben und den Punkt P. Wichtig
+
+20
+00:00:48,450 --> 00:00:49,850
+hierfür ist, dass die Ebene in der
+
+21
+00:00:49,850 --> 00:00:51,510
+sogenannten Koordinatenform gegeben
+
+22
+00:00:51,510 --> 00:00:54,090
+ist, denn in der Koordinatenform
+
+23
+00:00:54,090 --> 00:00:56,130
+steckt schon der normalen Vektor der
+
+24
+00:00:56,130 --> 00:00:59,990
+Ebene drin. Wir haben 2, 2 und vor
+
+25
+00:00:59,990 --> 00:01:03,050
+dem Z steht eine 1. Das bedeutet, der
+
+26
+00:01:03,050 --> 00:01:08,570
+normalen Vektor der Ebene heißt 2, 2,
+
+27
+00:01:08,630 --> 00:01:12,810
+1. Möchte ich jetzt eine Hilfsgerade
+
+28
+00:01:12,810 --> 00:01:16,770
+erstellen, nehme ich dafür den
+
+29
+00:01:24,160 --> 00:01:26,760
+Punkt P als Ortsvektor, weil von dort
+
+30
+00:01:26,760 --> 00:01:28,840
+soll meine Gerade starten, plus
+
+31
+00:01:32,010 --> 00:01:34,570
+S mal den Richtungsvektor. und als
+
+32
+00:01:34,570 --> 00:01:35,770
+Richtungsvektor nehme ich den
+
+33
+00:01:35,770 --> 00:01:37,390
+normalen Vektor der Ebene, weil es
+
+34
+00:01:37,390 --> 00:01:39,150
+sehr wichtig ist, dass die gerade
+
+35
+00:01:39,150 --> 00:01:44,280
+senkrecht zur Ebene verläuft. Also 2,
+
+36
+00:01:44,300 --> 00:01:47,600
+2, 1. Jetzt möchte ich herausfinden,
+
+37
+00:01:47,680 --> 00:01:49,300
+wie oft ich den Richtungsvektor
+
+38
+00:01:49,300 --> 00:01:51,720
+nehmen muss, um genau auf der Ebene
+
+39
+00:01:51,720 --> 00:01:52,420
+anzukommen.
+
+40
+00:01:55,880 --> 00:02:00,040
+Dafür setze ich jede Zeile einzeln in
+
+41
+00:02:00,040 --> 00:02:02,520
+meine Ebene ein. Die erste Zeile
+
+42
+00:02:02,520 --> 00:02:05,460
+setze ich für das x ein, die zweite
+
+43
+00:02:05,460 --> 00:02:10,460
+Zeile für das x. und die dritte Zeile
+
+44
+00:02:10,460 --> 00:02:17,100
+für das z. Ich schreibe also 2 mal
+
+45
+00:02:17,100 --> 00:02:24,440
+jetzt die erste Zeile 4 plus 2s plus
+
+46
+00:02:24,440 --> 00:02:27,640
+plus 2 mal die zweite Zeile der
+
+47
+00:02:27,640 --> 00:02:35,120
+Gerade, 3 plus 2s, plus 1 mal die
+
+48
+00:02:35,120 --> 00:02:38,260
+letzte Zeile der Geraden, also 1 plus
+
+49
+00:02:38,260 --> 00:02:43,460
+1s, ist gleich 33. Die 33 stammt noch
+
+50
+00:02:43,460 --> 00:02:45,620
+aus der Ebene. Jetzt löse ich die
+
+51
+00:02:45,620 --> 00:02:50,060
+Klammern auf, indem ich jeden Teil
+
+52
+00:02:50,060 --> 00:02:51,900
+vor der Klammer mit jedem Teil in der
+
+53
+00:02:51,900 --> 00:02:56,340
+Klammer mal nehme. Und erhalte so 15
+
+54
+00:02:58,550 --> 00:03:05,370
+plus 9s ist gleich 33. Ich rechne auf
+
+55
+00:03:05,370 --> 00:03:08,990
+beiden Seiten minus 15 und erhalte 9s
+
+56
+00:03:08,990 --> 00:03:13,990
+ist gleich 18. Ich teile alles durch
+
+57
+00:03:13,990 --> 00:03:19,910
+9 und erhalte s ist gleich 2. Für
+
+58
+00:03:19,910 --> 00:03:21,330
+unser Beispiel bedeutet das
+
+59
+00:03:21,330 --> 00:03:24,630
+folgendes. Wenn ich den
+
+60
+00:03:24,630 --> 00:03:28,630
+Richtungsvektor mal 2 nehme, komme
+
+61
+00:03:28,630 --> 00:03:33,070
+ich mit meiner Geraden genau auf
+
+62
+00:03:33,070 --> 00:03:35,350
+meiner Ebene an. Ich möchte aber
+
+63
+00:03:35,350 --> 00:03:36,790
+nicht genau auf der Ebene landen,
+
+64
+00:03:36,810 --> 00:03:38,670
+sondern möchte dieselbe Distanz
+
+65
+00:03:38,670 --> 00:03:41,290
+hinter der Ebene zurücklegen. Also
+
+66
+00:03:41,290 --> 00:03:43,810
+muss ich noch zwei Richtungsvektoren
+
+67
+00:03:43,810 --> 00:03:49,750
+dazu packen. Ich muss also für S 4 in
+
+68
+00:03:49,750 --> 00:03:51,410
+meine Geradengleichung einsetzen.
+
+69
+00:03:59,740 --> 00:04:02,480
+Meine Geradengleichung lautete 4,
+
+70
+00:04:11,720 --> 00:04:15,580
+3, 1 für meinen Punkt plus S und
+
+71
+00:04:15,580 --> 00:04:19,820
+statt S schreibe ich jetzt 4 mal den
+
+72
+00:04:19,820 --> 00:04:24,620
+normalen Vektor der Ebene. Der Punkt,
+
+73
+00:04:24,660 --> 00:04:29,760
+den ich berechne, also P' lautet 12,
+
+74
+00:04:33,860 --> 00:04:37,400
+11 und 5. 5.
+
+75
+00:04:41,900 --> 00:04:43,540
+Möchtest du einen Punkt an einer
+
+76
+00:04:43,540 --> 00:04:45,740
+Ebene spiegeln, musst du aus dem
+
+77
+00:04:45,740 --> 00:04:48,020
+Punkt und dem normalen Vektor der
+
+78
+00:04:48,020 --> 00:04:50,580
+Ebene eine Hilfsgerade bauen. Als
+
+79
+00:04:50,580 --> 00:04:52,660
+nächstes bestimmst du, wie oft du den
+
+80
+00:04:52,660 --> 00:04:54,640
+Richtungsvektor mal nehmen musst, um
+
+81
+00:04:54,640 --> 00:04:56,840
+direkt auf der Ebene anzukommen. Da
+
+82
+00:04:56,840 --> 00:04:58,340
+wir aber nicht auf der Ebene ankommen
+
+83
+00:04:58,340 --> 00:05:00,060
+wollen, sondern sie durchstoßen
+
+84
+00:05:00,060 --> 00:05:02,400
+wollen und denselben Weg wie zur
+
+85
+00:05:02,400 --> 00:05:03,960
+Ebene hin noch einmal zurücklegen
+
+86
+00:05:03,960 --> 00:05:05,800
+wollen, musst du dieses Ergebnis mal
+
+87
+00:05:05,800 --> 00:05:07,760
+2 nehmen und in die Gerade einsetzen.
+
+88
+00:05:07,760 --> 00:05:10,080
+Das Ergebnis ist ein gespiegelter
+
+89
+00:05:10,080 --> 00:05:13,100
+Punkt. Viel Erfolg und bis zum
+
+90
+00:05:13,100 --> 00:05:13,580
+nächsten Mal!
+

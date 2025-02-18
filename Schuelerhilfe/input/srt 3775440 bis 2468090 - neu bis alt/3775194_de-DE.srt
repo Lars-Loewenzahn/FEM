@@ -1,0 +1,472 @@
+1
+00:00:04,300 --> 00:00:06,420
+Hallo, mein Name ist Nick und ich bin
+
+2
+00:00:06,420 --> 00:00:07,820
+Nachhilfelehrer bei der Schülerhilfe.
+
+3
+00:00:07,860 --> 00:00:09,680
+Heute möchte ich dir gerne etwas über
+
+4
+00:00:09,680 --> 00:00:11,040
+das menschliche Immunsystem erklären.
+
+5
+00:00:11,440 --> 00:00:13,240
+Weitere Inhalte zu diesem und vielen
+
+6
+00:00:13,240 --> 00:00:14,500
+anderen Themen, wie zum Beispiel
+
+7
+00:00:14,500 --> 00:00:15,920
+Wikis, Arbeitsblätter oder
+
+8
+00:00:15,920 --> 00:00:17,420
+interaktive Aufgaben, findest du
+
+9
+00:00:17,420 --> 00:00:18,940
+natürlich auch in unserem Online
+
+10
+00:00:18,940 --> 00:00:22,580
+-Lerncenter. In unserem Körper gibt
+
+11
+00:00:22,580 --> 00:00:24,060
+es viele verschiedene Mitbewohner.
+
+12
+00:00:24,220 --> 00:00:26,100
+Einige sind nützlich, andere nicht.
+
+13
+00:00:26,100 --> 00:00:28,800
+Unser Immunsystem hat die bedeutende
+
+14
+00:00:28,800 --> 00:00:30,500
+Aufgabe, hier eine Unterscheidung
+
+15
+00:00:30,500 --> 00:00:32,380
+vorzunehmen. Doch was verstehen wir
+
+16
+00:00:32,380 --> 00:00:33,660
+eigentlich unter dem Immunsystem?
+
+17
+00:00:34,320 --> 00:00:36,260
+Unter dem Immunsystem des Menschen
+
+18
+00:00:36,260 --> 00:00:38,040
+ist das biologische Abwehrsystem des
+
+19
+00:00:38,040 --> 00:00:39,600
+Körpers zu verstehen, welches aus
+
+20
+00:00:39,600 --> 00:00:41,420
+spezialisierten Zellen und Organen
+
+21
+00:00:41,420 --> 00:00:43,120
+gebildet wird. Die Aufgabe ist die
+
+22
+00:00:43,120 --> 00:00:44,520
+Bekämpfung und Eliminierung von
+
+23
+00:00:44,520 --> 00:00:45,960
+Krankheitserregern, die unseren
+
+24
+00:00:45,960 --> 00:00:47,760
+Organismus infiltrieren. Neben
+
+25
+00:00:47,760 --> 00:00:50,000
+Bakterien können dies Viren, Pilze
+
+26
+00:00:50,000 --> 00:00:52,160
+oder Parasiten sein. Vor allem in
+
+27
+00:00:52,160 --> 00:00:53,580
+unserem Blut finden sich viele
+
+28
+00:00:53,580 --> 00:00:55,640
+potenzielle Krankheitserreger. Daher
+
+29
+00:00:55,640 --> 00:00:57,040
+findet sich auch ein relevanter Teil
+
+30
+00:00:57,040 --> 00:00:58,920
+unserer Immunabwehr in unseren
+
+31
+00:00:58,920 --> 00:01:00,740
+Blutgefäßen. Die wichtigsten
+
+32
+00:01:00,740 --> 00:01:02,780
+Komponenten dabei sind die weißen
+
+33
+00:01:02,780 --> 00:01:05,400
+Blutkörperchen. Es gibt zwei Arten
+
+34
+00:01:05,400 --> 00:01:07,520
+von weißen Blutkörperchen, Phagozyten
+
+35
+00:01:07,520 --> 00:01:10,760
+und Lymphozyten. Die Phagozyten haben
+
+36
+00:01:10,760 --> 00:01:12,500
+sich darauf spezialisiert, Schmutz,
+
+37
+00:01:12,560 --> 00:01:14,600
+gefährliche Bakterien, Sterbende und
+
+38
+00:01:14,600 --> 00:01:16,940
+tote Zellen aufzufressen. Die
+
+39
+00:01:16,940 --> 00:01:18,580
+Lymphozyten ermöglichen dem Körper
+
+40
+00:01:18,580 --> 00:01:20,120
+bereits bekannte Eindringlinge
+
+41
+00:01:20,120 --> 00:01:21,660
+wiederzuerkennen und helfen so dem
+
+42
+00:01:21,660 --> 00:01:23,620
+Körper, diese zu zerstören. Die
+
+43
+00:01:23,620 --> 00:01:25,100
+Immunantwort wird in die
+
+44
+00:01:25,100 --> 00:01:27,040
+unspezifische und in die spezifische
+
+45
+00:01:27,040 --> 00:01:29,380
+Abwehr unterteilt. Die unspezifische
+
+46
+00:01:29,380 --> 00:01:31,220
+Immunabwehr ist angeboren und setzt
+
+47
+00:01:31,220 --> 00:01:32,600
+sich aus der unspezifischen
+
+48
+00:01:32,600 --> 00:01:34,000
+zellulären Abwehr und der
+
+49
+00:01:34,000 --> 00:01:35,980
+unspezifischen humoralen Abwehr
+
+50
+00:01:35,980 --> 00:01:38,200
+zusammen. Beide Systeme bauen
+
+51
+00:01:38,200 --> 00:01:39,780
+aufeinander auf und ergänzen sich.
+
+52
+00:01:40,220 --> 00:01:41,660
+Die primär verantwortlichen
+
+53
+00:01:41,660 --> 00:01:43,480
+Bestandteile der spezifischen Abwehr
+
+54
+00:01:43,480 --> 00:01:45,300
+sind die B-Lymphozyten des humoralen
+
+55
+00:01:45,300 --> 00:01:47,480
+Immunsystems und deren Antikörper und
+
+56
+00:01:47,480 --> 00:01:49,300
+die T-Lymphozyten des zellulären
+
+57
+00:01:49,300 --> 00:01:51,980
+Immunsystems. Die B-Lymphozyten
+
+58
+00:01:51,980 --> 00:01:54,100
+bilden das intelligente System, das
+
+59
+00:01:54,100 --> 00:01:56,160
+Eindringlinge identifiziert und sich
+
+60
+00:01:56,160 --> 00:01:58,120
+an sie heftet. Dabei informieren sie
+
+61
+00:01:58,120 --> 00:01:59,920
+die T-Lymphozyten, die diese dann
+
+62
+00:01:59,920 --> 00:02:02,680
+zerstören. Des Weiteren gehören
+
+63
+00:02:02,680 --> 00:02:04,360
+Antigene und Antikörper sowie
+
+64
+00:02:04,360 --> 00:02:05,880
+Plasmazellen der spezifischen
+
+65
+00:02:05,880 --> 00:02:07,480
+Immunabwehr des menschlichen Körpers
+
+66
+00:02:07,480 --> 00:02:09,860
+an, welche für eine schnelle
+
+67
+00:02:09,860 --> 00:02:11,880
+Immunabwehr sorgen, falls der gleiche
+
+68
+00:02:11,880 --> 00:02:13,400
+Erreger das System erneut befallen
+
+69
+00:02:13,400 --> 00:02:15,460
+sollte. Es handelt sich um einen
+
+70
+00:02:15,460 --> 00:02:17,280
+Abwehrmechanismus, der spezifisch
+
+71
+00:02:17,280 --> 00:02:19,380
+gegen bekannte Erreger wirkt. Dies
+
+72
+00:02:19,380 --> 00:02:20,800
+geschieht dadurch, dass die Zellen
+
+73
+00:02:20,800 --> 00:02:22,200
+dieses Abwehrsystems schon einmal
+
+74
+00:02:22,200 --> 00:02:23,580
+Kontakt mit diesen Eindringlingen
+
+75
+00:02:23,580 --> 00:02:25,380
+hatten und sich deshalb an diese
+
+76
+00:02:25,380 --> 00:02:27,320
+erinnern können. Dadurch ist das
+
+77
+00:02:27,320 --> 00:02:29,120
+spezifische Immunsystem in der Lage,
+
+78
+00:02:29,180 --> 00:02:30,720
+bei einem erneuten Angriff des
+
+79
+00:02:30,720 --> 00:02:32,320
+gleichen Erregers schnell und
+
+80
+00:02:32,320 --> 00:02:34,560
+effektiv zu handeln. Diese Fähigkeit
+
+81
+00:02:34,560 --> 00:02:36,040
+entwickelt sich allerdings erst im
+
+82
+00:02:36,040 --> 00:02:37,600
+Laufe des Erwachsenwerdens und ist
+
+83
+00:02:37,600 --> 00:02:39,180
+daher bei Kindern noch unzureichend
+
+84
+00:02:39,180 --> 00:02:41,660
+ausgebildet. Es kommt zum Einsatz,
+
+85
+00:02:41,920 --> 00:02:44,060
+wenn das unspezifische Abwehrsystem
+
+86
+00:02:44,060 --> 00:02:46,200
+überfordert ist und die Erreger nicht
+
+87
+00:02:46,200 --> 00:02:48,560
+neutralisieren kann. Schauen wir uns
+
+88
+00:02:48,560 --> 00:02:50,020
+im nächsten Schritt die Organe näher
+
+89
+00:02:50,020 --> 00:02:51,300
+an, welche an der Immunantwort
+
+90
+00:02:51,300 --> 00:02:53,480
+beteiligt sind. Zum Immunsystem
+
+91
+00:02:53,480 --> 00:02:55,640
+gehören zum Beispiel der Thymus, das
+
+92
+00:02:55,640 --> 00:02:57,800
+Knochenmark, die Milz, die Mandeln,
+
+93
+00:02:57,800 --> 00:03:00,380
+die Lymphknoten sowie spezielle
+
+94
+00:03:00,380 --> 00:03:02,480
+Blutzellen. Sie alle sind beteiligt,
+
+95
+00:03:02,500 --> 00:03:03,820
+die Erreger zu neutralisieren.
+
+96
+00:03:04,740 --> 00:03:06,860
+Weitere Aufgaben des Immunsystems
+
+97
+00:03:06,860 --> 00:03:08,180
+sind darüber hinaus noch die
+
+98
+00:03:08,180 --> 00:03:09,900
+Kontrolle von körpereigenen und
+
+99
+00:03:09,900 --> 00:03:11,480
+ungefährlichen Mikroorganismen,
+
+100
+00:03:11,500 --> 00:03:13,360
+Tumorabwehr und die Wundheilung.
+
+101
+00:03:13,960 --> 00:03:15,520
+Zusätzlich kannst du auch aktiv
+
+102
+00:03:15,520 --> 00:03:17,120
+Einfluss auf die Funktion deines
+
+103
+00:03:17,120 --> 00:03:19,140
+Immunsystems, sowohl positiv als auch
+
+104
+00:03:19,140 --> 00:03:21,420
+negativ, nehmen. Das Das Immunsystem
+
+105
+00:03:21,420 --> 00:03:23,020
+kann positiv durch die Ernährung,
+
+106
+00:03:23,040 --> 00:03:24,680
+Vitamine und Mineralstoffe
+
+107
+00:03:24,680 --> 00:03:26,620
+beeinflusst werden. Geschwächt wird
+
+108
+00:03:26,620 --> 00:03:27,620
+das Immunsystem durch
+
+109
+00:03:27,620 --> 00:03:30,220
+Nährstoffmangel, Stress, Alkohol oder
+
+110
+00:03:30,220 --> 00:03:32,520
+Rauchen. Schön, dass du mit dabei
+
+111
+00:03:32,520 --> 00:03:34,600
+warst. Ich hoffe, dass ich dir unser
+
+112
+00:03:34,600 --> 00:03:35,940
+Immunsystem näher bringen konnte.
+
+113
+00:03:36,260 --> 00:03:37,940
+Wenn du noch weitere Fragen zu diesen
+
+114
+00:03:37,940 --> 00:03:39,660
+und anderen Themen hast, nutze gerne
+
+115
+00:03:39,660 --> 00:03:41,440
+unsere weiteren Inhalte im Online
+
+116
+00:03:41,440 --> 00:03:43,180
+-Lerncenter oder wende dich an deine
+
+117
+00:03:43,180 --> 00:03:44,740
+Schülerhilfe vor Ort. Bis zum
+
+118
+00:03:44,740 --> 00:03:45,200
+nächsten Mal.
+

@@ -1,0 +1,624 @@
+1
+00:00:04,370 --> 00:00:06,830
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,830 --> 00:00:07,970
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,970 --> 00:00:10,070
+Schülerhilfe. Heute erhältst du von
+
+4
+00:00:10,070 --> 00:00:11,630
+mir noch weitere Informationen zum
+
+5
+00:00:11,630 --> 00:00:13,910
+Blutkreislauf des Menschen. Zu diesem
+
+6
+00:00:13,910 --> 00:00:15,510
+Thema findest du natürlich in unserem
+
+7
+00:00:15,510 --> 00:00:17,110
+Online-Lerncenter noch weitere
+
+8
+00:00:17,110 --> 00:00:19,070
+Inhalte, wie zum Beispiel Wikis oder
+
+9
+00:00:19,070 --> 00:00:22,110
+Übungsaufgaben. Je nach Lebensphase
+
+10
+00:00:22,110 --> 00:00:24,050
+besteht der menschliche Körper zu 30
+
+11
+00:00:24,050 --> 00:00:26,770
+bis 70 Prozent aus Wasser. Dieses
+
+12
+00:00:26,770 --> 00:00:28,150
+Wasser befindet sich nicht nur
+
+13
+00:00:28,150 --> 00:00:29,710
+stationär in unserem mehr oder
+
+14
+00:00:29,710 --> 00:00:31,690
+weniger ausgeprägten Schwungmasse,
+
+15
+00:00:31,690 --> 00:00:34,450
+denn zwischen 4,5 und 6 Kilo unseres
+
+16
+00:00:34,450 --> 00:00:36,390
+Körpers bestehen aus flüssigem Blut,
+
+17
+00:00:37,210 --> 00:00:38,770
+vielleicht hast du dich ja auch schon
+
+18
+00:00:38,770 --> 00:00:40,170
+einmal aus Versehen tiefer
+
+19
+00:00:40,170 --> 00:00:41,790
+geschnitten, dann ist dir sicher
+
+20
+00:00:41,790 --> 00:00:43,570
+aufgefallen, wie groß die Menge des
+
+21
+00:00:43,570 --> 00:00:47,150
+austretenden Blutes sein kann. Als
+
+22
+00:00:47,150 --> 00:00:48,250
+Blutkreislauf oder auch
+
+23
+00:00:48,250 --> 00:00:50,950
+Kreislaufzirkulation, Blutgefäßsystem
+
+24
+00:00:50,950 --> 00:00:53,470
+oder Blutbahn genannt, bezeichnen wir
+
+25
+00:00:53,470 --> 00:00:55,370
+das Strömungssystem des Blutes im
+
+26
+00:00:55,370 --> 00:00:57,010
+Körper des Menschen und der meisten
+
+27
+00:00:57,010 --> 00:00:59,470
+Tiere, Ausgehend vom Herzen zu den
+
+28
+00:00:59,470 --> 00:01:01,330
+Organen und wieder zurück zum Herzen.
+
+29
+00:01:02,570 --> 00:01:04,330
+Der Blutkreislauf lässt sich in den
+
+30
+00:01:04,330 --> 00:01:06,010
+großen und den kleinen Blutkreislauf
+
+31
+00:01:06,010 --> 00:01:08,730
+unterteilen. Der große Blutkreislauf
+
+32
+00:01:08,730 --> 00:01:10,470
+startet in der linken Herzkammer.
+
+33
+00:01:11,290 --> 00:01:12,710
+Sauerstoffreiches Blut wird von hier
+
+34
+00:01:12,710 --> 00:01:14,070
+aus mit hohem Druck in die
+
+35
+00:01:14,070 --> 00:01:16,650
+Hauptschlagadern, die Aorta, gepumpt.
+
+36
+00:01:16,650 --> 00:01:19,030
+Von dort aus gelangt es über die
+
+37
+00:01:19,030 --> 00:01:20,890
+Verzweigung, die Arterien und
+
+38
+00:01:20,890 --> 00:01:22,750
+Arteriolen, durch das Blut in die
+
+39
+00:01:22,750 --> 00:01:24,750
+kleinsten Gefäße. Das sind die
+
+40
+00:01:24,750 --> 00:01:26,990
+Kapillaren. Dort werden die
+
+41
+00:01:26,990 --> 00:01:28,810
+Inhaltsstoffe des Blutes, zum
+
+42
+00:01:28,810 --> 00:01:30,550
+Beispiel Sauerstoff oder verschiedene
+
+43
+00:01:30,550 --> 00:01:32,630
+Nährstoffe, durch die Zellwände
+
+44
+00:01:32,630 --> 00:01:35,450
+ausgetauscht. Das sauerstoffarme Blut
+
+45
+00:01:35,450 --> 00:01:36,950
+wird in die rechte Herzkammer
+
+46
+00:01:36,950 --> 00:01:39,230
+transportiert. Dort beginnt dann der
+
+47
+00:01:39,230 --> 00:01:42,130
+Lungenkreislauf. Im Lungenkreislauf,
+
+48
+00:01:42,330 --> 00:01:43,850
+den man auch kleiner Blutkreislauf
+
+49
+00:01:43,850 --> 00:01:45,810
+nennt, wird das Blut über die Lunge
+
+50
+00:01:45,810 --> 00:01:49,010
+mit Sauerstoff angereichert. Das Blut
+
+51
+00:01:49,010 --> 00:01:50,630
+muss verschiedene Aufgaben erfüllen,
+
+52
+00:01:50,730 --> 00:01:52,210
+beispielsweise einen Teil der
+
+53
+00:01:52,210 --> 00:01:53,710
+Immunantwort und den
+
+54
+00:01:53,710 --> 00:01:56,070
+Sauerstofftransport. Aus diesem Grund
+
+55
+00:01:56,070 --> 00:01:57,450
+besteht das Blut aus verschiedenen
+
+56
+00:01:57,450 --> 00:01:59,450
+Komponenten. Die wichtigsten
+
+57
+00:01:59,450 --> 00:02:01,830
+Komponenten bilden erstens das
+
+58
+00:02:01,830 --> 00:02:04,310
+Blutplasma, zweitens die
+
+59
+00:02:04,310 --> 00:02:07,930
+Blutplättchen, drittens die roten
+
+60
+00:02:07,930 --> 00:02:11,350
+Blutkörperchen, 4. Die weißen
+
+61
+00:02:11,350 --> 00:02:13,170
+Blutkörperchen. Die roten
+
+62
+00:02:13,170 --> 00:02:15,230
+Blutkörperchen heißen fachsprachlich
+
+63
+00:02:15,230 --> 00:02:17,710
+Erythrozyten und sind deshalb rot,
+
+64
+00:02:17,910 --> 00:02:20,030
+weil sie den Blutfarbstoff Hämoglobin
+
+65
+00:02:20,030 --> 00:02:22,770
+enthalten. Sie binden den Sauerstoff.
+
+66
+00:02:22,890 --> 00:02:25,070
+Die weißen Blutkörperchen heißen
+
+67
+00:02:25,070 --> 00:02:27,190
+fachsprachlich Leukozyten und sind
+
+68
+00:02:27,190 --> 00:02:30,290
+weiß, da sie farbarm sind. Sie sind
+
+69
+00:02:30,290 --> 00:02:31,610
+hauptsächlich für die Abwehr von
+
+70
+00:02:31,610 --> 00:02:33,250
+Krankheitserregern zuständig.
+
+71
+00:02:34,370 --> 00:02:36,490
+Zusätzlich wird unser Blutkreislauf
+
+72
+00:02:36,490 --> 00:02:38,510
+je nach lokalem Blutdruck in das
+
+73
+00:02:38,510 --> 00:02:40,110
+Niederdrucksystem und das
+
+74
+00:02:40,110 --> 00:02:43,030
+Hochdrucksystem unterschieden. Im
+
+75
+00:02:43,030 --> 00:02:44,750
+Niederdrucksystem beträgt der
+
+76
+00:02:44,750 --> 00:02:46,530
+Blutdruck zumeist 20 mm
+
+77
+00:02:46,530 --> 00:02:51,290
+Quecksilbersäule, kurz MMHG. Zu
+
+78
+00:02:51,290 --> 00:02:52,970
+diesen Kreislaufabschnitten gehören
+
+79
+00:02:52,970 --> 00:02:55,310
+die Venen, Kapillaren, die
+
+80
+00:02:55,310 --> 00:02:57,770
+Lungengefäße, der rechte Vorderhof
+
+81
+00:02:57,770 --> 00:03:00,770
+und die rechte Herzkammer. Im
+
+82
+00:03:00,770 --> 00:03:02,650
+Niederdrucksystem befindet sich etwa
+
+83
+00:03:02,650 --> 00:03:06,270
+85% des Blutes. Das Hochdrucksystem
+
+84
+00:03:06,270 --> 00:03:08,390
+besteht aus der linken Herzkammer und
+
+85
+00:03:08,390 --> 00:03:11,370
+allen Arterien. Der Blutdruck in
+
+86
+00:03:11,370 --> 00:03:13,170
+diesem System schwankt zwischen 80
+
+87
+00:03:13,170 --> 00:03:17,730
+und 120 mmHg. Ein derartig komplexes
+
+88
+00:03:17,730 --> 00:03:19,390
+System wie unser Blutkreislauf
+
+89
+00:03:19,390 --> 00:03:21,550
+benötigt verschiedene Sensoren und
+
+90
+00:03:21,550 --> 00:03:23,990
+Regulationsmöglichkeiten. Vielleicht
+
+91
+00:03:23,990 --> 00:03:25,270
+kennst du ja jemanden, der an
+
+92
+00:03:25,270 --> 00:03:26,750
+Bluthochdruck leidet und den
+
+93
+00:03:26,750 --> 00:03:28,730
+negativen Aspekten des Blutdrucks.
+
+94
+00:03:28,750 --> 00:03:32,050
+Kreislaufs durchaus bekannt sind. Die
+
+95
+00:03:32,050 --> 00:03:34,550
+wichtigsten Regulationswege sind die
+
+96
+00:03:34,550 --> 00:03:37,850
+Kreislaufreflexe, die Niere und der
+
+97
+00:03:37,850 --> 00:03:41,030
+Wassergehalt unseres Körpers. Unter
+
+98
+00:03:41,030 --> 00:03:43,190
+Kreislaufreflexen wird folgendes
+
+99
+00:03:43,190 --> 00:03:46,710
+verstanden. An den Gefäßwänden finden
+
+100
+00:03:46,710 --> 00:03:48,770
+sich Druckrezeptoren, sogenannte
+
+101
+00:03:48,770 --> 00:03:51,170
+Barorezeptoren, welche stetig den
+
+102
+00:03:51,170 --> 00:03:53,270
+Blutdruck messen. Steigt der
+
+103
+00:03:53,270 --> 00:03:54,550
+Blutdruck, erweitern sich die
+
+104
+00:03:54,550 --> 00:03:56,790
+Gefäßwände. Die Barorezeptoren geben
+
+105
+00:03:56,790 --> 00:03:58,350
+geben dann das Signal an das Gehirn
+
+106
+00:03:58,350 --> 00:04:00,910
+weiter. Durch eine Aktivierung des
+
+107
+00:04:00,910 --> 00:04:02,870
+Parasympathikus, ein Teil des
+
+108
+00:04:02,870 --> 00:04:05,430
+vegetativen Nervensystems, wird der
+
+109
+00:04:05,430 --> 00:04:07,310
+Herzschlag und somit der Blutdruck
+
+110
+00:04:07,310 --> 00:04:09,230
+verlangsamt. Falls ein
+
+111
+00:04:09,230 --> 00:04:11,070
+Blutdruckabfall von den Sensoren
+
+112
+00:04:11,070 --> 00:04:12,750
+registriert wird, wird ein anderer
+
+113
+00:04:12,750 --> 00:04:14,990
+Teil des vegetativen Nervensystems,
+
+114
+00:04:14,990 --> 00:04:17,910
+der Sympathikus, aktiviert, um den
+
+115
+00:04:17,910 --> 00:04:20,190
+Blutdruck zu erhöhen. Die Die Niere
+
+116
+00:04:20,190 --> 00:04:22,030
+ist auch ein wichtiges Organ in Bezug
+
+117
+00:04:22,030 --> 00:04:23,110
+auf die Regulation des
+
+118
+00:04:23,110 --> 00:04:25,350
+Blutkreislaufs. Der Blutdruck wird
+
+119
+00:04:25,350 --> 00:04:26,970
+auch von Rezeptoren in der Niere
+
+120
+00:04:26,970 --> 00:04:29,110
+gemessen. Fällt der Blutdruck zu weit
+
+121
+00:04:29,110 --> 00:04:30,850
+ab, wird das Hormon Renin
+
+122
+00:04:30,850 --> 00:04:33,270
+ausgeschüttet. Dieses Hormon bewirkt,
+
+123
+00:04:33,270 --> 00:04:35,250
+dass sich die Gefäße verengen, somit
+
+124
+00:04:35,250 --> 00:04:36,450
+wird der Blutdruck erhöht.
+
+125
+00:04:37,770 --> 00:04:38,990
+Langfristig kann der Körper den
+
+126
+00:04:38,990 --> 00:04:40,430
+Blutdruck auch über die Menge an
+
+127
+00:04:40,430 --> 00:04:42,310
+Wasser im Blut und damit indirekt
+
+128
+00:04:42,310 --> 00:04:44,730
+über die Menge an Blut steuern. Ist
+
+129
+00:04:44,730 --> 00:04:46,650
+der Blutdruck zu hoch, kann der
+
+130
+00:04:46,650 --> 00:04:48,370
+Körper mehr Wasser durch die Niere
+
+131
+00:04:48,370 --> 00:04:50,690
+ausscheiden. Als Resultat wird die
+
+132
+00:04:50,690 --> 00:04:52,350
+Menge an Blut im Körper verringert
+
+133
+00:04:52,350 --> 00:04:54,590
+und der Blutdruck sinkt. Es ist auch
+
+134
+00:04:54,590 --> 00:04:56,150
+möglich, dass die Niere Wasser
+
+135
+00:04:56,150 --> 00:04:58,130
+zurückhält und somit den Blutdruck im
+
+136
+00:04:58,130 --> 00:05:00,350
+Körper anhebt. Vor allem im Alter
+
+137
+00:05:00,350 --> 00:05:01,990
+haben viele Menschen Probleme mit
+
+138
+00:05:01,990 --> 00:05:03,410
+ihrem Blutdruck und wie bereits
+
+139
+00:05:03,410 --> 00:05:05,210
+erwähnt, kann Bluthochdruck zu vielen
+
+140
+00:05:05,210 --> 00:05:06,550
+verschiedenen Krankheiten führen.
+
+141
+00:05:08,170 --> 00:05:10,290
+Umso wichtiger ist es daher, dass wir
+
+142
+00:05:10,290 --> 00:05:11,950
+mit richtiger Ernährung, einem
+
+143
+00:05:11,950 --> 00:05:14,030
+gesunden Alltag und regelmäßigem
+
+144
+00:05:14,030 --> 00:05:15,370
+Sport dafür sorgen, dass unser
+
+145
+00:05:15,370 --> 00:05:17,370
+Blutkreislauf auch bis ins hohe Alter
+
+146
+00:05:17,370 --> 00:05:20,450
+seine Funktion optimal erfüllt. Ich
+
+147
+00:05:20,450 --> 00:05:21,470
+hoffe, dass ich dir die
+
+148
+00:05:21,470 --> 00:05:23,570
+Funktionsweise unseres Blutkreislaufs
+
+149
+00:05:23,570 --> 00:05:25,350
+näher bringen konnte. Zu diesem und
+
+150
+00:05:25,350 --> 00:05:26,830
+vielen weiteren Themen findest du in
+
+151
+00:05:26,830 --> 00:05:28,750
+unserem Online-Lerncenter zusätzliche
+
+152
+00:05:28,750 --> 00:05:30,790
+Inhalte. Wenn du darüber hinaus noch
+
+153
+00:05:30,790 --> 00:05:32,090
+Fragen hast, stehen wir als
+
+154
+00:05:32,090 --> 00:05:33,970
+Schülerhilfe dir natürlich auch immer
+
+155
+00:05:33,970 --> 00:05:35,730
+vor Ort zur Verfügung. Bis zum
+
+156
+00:05:35,730 --> 00:05:36,330
+nächsten Mal!
+

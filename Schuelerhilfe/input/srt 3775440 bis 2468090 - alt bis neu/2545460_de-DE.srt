@@ -1,0 +1,640 @@
+1
+00:00:00,340 --> 00:00:02,360
+Herzlich willkommen zum Webinar der
+
+2
+00:00:02,360 --> 00:00:03,720
+Schülerhilfe zum Thema
+
+3
+00:00:03,720 --> 00:00:07,120
+Grundrechenarten verbinden. Wir
+
+4
+00:00:07,120 --> 00:00:09,900
+wollen uns heute einige Rechenregeln
+
+5
+00:00:09,900 --> 00:00:12,920
+zum Thema Klammern und Punkt-vor
+
+6
+00:00:12,920 --> 00:00:15,860
+-Strich-Rechnung anschauen. Zunächst
+
+7
+00:00:15,860 --> 00:00:17,520
+beginnen wir mit der Regel Klammern
+
+8
+00:00:17,520 --> 00:00:20,740
+immer zuerst. Dann schauen wir uns
+
+9
+00:00:20,740 --> 00:00:22,340
+an, was Punkt-vor-Strich eigentlich
+
+10
+00:00:22,340 --> 00:00:26,680
+bedeutet. Wir gucken uns an, in
+
+11
+00:00:26,680 --> 00:00:28,480
+welcher Reihenfolge Klammern und
+
+12
+00:00:28,480 --> 00:00:29,320
+Punkt-vor-Strich-Rechnung sind.
+
+13
+00:00:29,340 --> 00:00:31,300
+Rechnung in einer Rechnung beachtet
+
+14
+00:00:31,300 --> 00:00:33,140
+werden müssen und wie wir mit
+
+15
+00:00:33,140 --> 00:00:36,960
+Klammern rechnen können. Beginnen
+
+16
+00:00:36,960 --> 00:00:40,380
+wollen wir mit der Regel Klammern
+
+17
+00:00:40,380 --> 00:00:43,520
+immer zuerst. Wir merken uns, wenn
+
+18
+00:00:43,520 --> 00:00:46,120
+eine Rechnung eine oder mehrere
+
+19
+00:00:46,120 --> 00:00:49,100
+Klammern beinhaltet, dann wird der
+
+20
+00:00:49,100 --> 00:00:51,820
+Inhalt dieser Klammern immer zuerst
+
+21
+00:00:51,820 --> 00:00:54,640
+ausgerechnet. Wir haben dafür ein
+
+22
+00:00:54,640 --> 00:00:57,160
+Beispiel aufgeschrieben. Wir haben
+
+23
+00:00:57,160 --> 00:01:00,900
+die Rechnung 3, 3 mal in Klammern 4
+
+24
+00:01:00,900 --> 00:01:06,280
+minus 2 plus 3 minus in Klammern 8
+
+25
+00:01:06,280 --> 00:01:11,400
+minus 6 mal 2. Als allererstes
+
+26
+00:01:11,400 --> 00:01:13,700
+rechnen wir die Klammern aus. Das
+
+27
+00:01:13,700 --> 00:01:17,500
+heißt, wir rechnen 4 minus 2 ergibt 2
+
+28
+00:01:17,500 --> 00:01:22,780
+und 8 minus 6 ergibt 2. Erst danach
+
+29
+00:01:22,780 --> 00:01:25,400
+wenden wir die übrigen Rechenregeln
+
+30
+00:01:25,400 --> 00:01:26,580
+an. Wenn
+
+31
+00:01:29,010 --> 00:01:32,250
+wir mehrere Klammern ineinander in
+
+32
+00:01:32,250 --> 00:01:34,790
+einer Rechnung haben, rechnen wir von
+
+33
+00:01:34,790 --> 00:01:40,570
+innen nach außen. Also 3 mal eckige
+
+34
+00:01:40,570 --> 00:01:43,770
+Klammer auf, runde Klammer auf, 4
+
+35
+00:01:43,770 --> 00:01:47,450
+minus 2, runde Klammer zu, plus 3
+
+36
+00:01:47,450 --> 00:01:50,470
+eckige Klammer zu, minus runde
+
+37
+00:01:50,470 --> 00:01:53,910
+Klammer auf, 8 minus 6, runde Klammer
+
+38
+00:01:53,910 --> 00:01:57,670
+zu, mal 2. Wir rechnen also zuerst,
+
+39
+00:01:57,670 --> 00:02:00,610
+was in der inneren Klammer steht. 4
+
+40
+00:02:00,610 --> 00:02:04,510
+minus 2 ergibt 2. Dann können wir die
+
+41
+00:02:04,510 --> 00:02:07,270
+eckige Klammer ausrechnen. 2 plus 3
+
+42
+00:02:07,270 --> 00:02:12,240
+ist 5. Bei der einzig stehenden
+
+43
+00:02:12,240 --> 00:02:14,020
+runden Klammer brauchen wir nur die
+
+44
+00:02:14,020 --> 00:02:15,580
+runde Klammer ausrechnen. Hier ist
+
+45
+00:02:15,580 --> 00:02:18,400
+keine Klammer mehr innen drin. Also 8
+
+46
+00:02:18,400 --> 00:02:22,560
+minus 6 gleich 2. Danach können wir
+
+47
+00:02:22,560 --> 00:02:24,540
+nochmal weiterrechnen. Was
+
+48
+00:02:28,410 --> 00:02:32,570
+bedeutet Punkt vor Strich? Wir merken
+
+49
+00:02:32,570 --> 00:02:34,830
+uns wieder, wenn eine Rechnung keine
+
+50
+00:02:34,830 --> 00:02:37,710
+Klammern hat oder keine Klammern mehr
+
+51
+00:02:37,710 --> 00:02:41,930
+hat, sie jedoch aus Multiplikation
+
+52
+00:02:41,930 --> 00:02:45,670
+und oder Division sowie Addition und
+
+53
+00:02:45,670 --> 00:02:49,530
+oder Subtraktion besteht. Also sowohl
+
+54
+00:02:49,530 --> 00:02:53,870
+mal oder geteilt als auch plus oder
+
+55
+00:02:53,870 --> 00:02:56,530
+minus gilt die Regel Punkt vor
+
+56
+00:02:56,530 --> 00:02:58,950
+Strich. Punkt vor Strich bedeutet,
+
+57
+00:02:59,530 --> 00:03:02,450
+dass wir die Punktrechnungen, also
+
+58
+00:03:02,450 --> 00:03:05,710
+mal und geteilt, vor den
+
+59
+00:03:05,710 --> 00:03:08,070
+Strichrechnungen, also minus und
+
+60
+00:03:08,070 --> 00:03:11,410
+plus, machen. Das hängt mit dem
+
+61
+00:03:11,410 --> 00:03:15,330
+Aussehen der Zeichen ab. Mal und
+
+62
+00:03:15,330 --> 00:03:17,850
+geteilt werden aus Punkten gebildet,
+
+63
+00:03:17,850 --> 00:03:19,530
+plus und minus werden aus Strichen
+
+64
+00:03:19,530 --> 00:03:21,290
+gebildet. Deswegen sagt man Punkt vor
+
+65
+00:03:21,290 --> 00:03:24,650
+Strich. Das heißt, wir haben wieder
+
+66
+00:03:24,650 --> 00:03:26,970
+ein Beispiel aufgeführt. 5 mal 3
+
+67
+00:03:26,970 --> 00:03:30,710
+minus 9 plus 2 minus 9 geteilt durch
+
+68
+00:03:30,710 --> 00:03:34,470
+3 plus 6 mal 2. Wir haben keine
+
+69
+00:03:34,470 --> 00:03:36,970
+Klammern, also wenden wir die Punkt
+
+70
+00:03:36,970 --> 00:03:38,750
+-vor-Strich-Regel an. Das heißt, wir
+
+71
+00:03:38,750 --> 00:03:42,810
+rechnen zunächst 5 mal 3, 9 geteilt
+
+72
+00:03:42,810 --> 00:03:47,310
+durch 3 und 6 mal 2 aus. Wenn wir das
+
+73
+00:03:47,310 --> 00:03:49,950
+berechnet haben, können wir danach
+
+74
+00:03:49,950 --> 00:03:53,150
+von links nach rechts Plus und Minus
+
+75
+00:03:53,150 --> 00:03:53,730
+berechnen.
+
+76
+00:03:58,810 --> 00:04:01,310
+Wenn wir Klammern und
+
+77
+00:04:01,310 --> 00:04:04,090
+Multiplikationen oder Divisionen
+
+78
+00:04:04,090 --> 00:04:06,670
+sowie Additionen oder Subtraktionen
+
+79
+00:04:06,670 --> 00:04:09,550
+haben, gilt, wir rechnen erst die
+
+80
+00:04:09,550 --> 00:04:12,090
+Klammern aus, dann rechnen wir Punkt
+
+81
+00:04:12,090 --> 00:04:15,550
+vor Strich. Denn, wenn wir die
+
+82
+00:04:15,550 --> 00:04:18,650
+Klammern ausrechnen, haben wir danach
+
+83
+00:04:18,650 --> 00:04:21,110
+nur noch die Operation Punkt vor
+
+84
+00:04:21,110 --> 00:04:22,510
+Strich übrig. Wir haben keine
+
+85
+00:04:22,510 --> 00:04:24,410
+Klammern mehr in unserer Rechnung
+
+86
+00:04:24,410 --> 00:04:26,110
+drin. Die haben wir ja dann schon
+
+87
+00:04:26,110 --> 00:04:26,690
+berechnet.
+
+88
+00:04:31,200 --> 00:04:33,840
+Wie rechnen wir nun mit Klammern? Wir
+
+89
+00:04:33,840 --> 00:04:35,460
+schauen uns die Beispielaufgaben an.
+
+90
+00:04:36,400 --> 00:04:39,460
+Wir haben 3 mal in Klammern 4 minus 2
+
+91
+00:04:39,460 --> 00:04:43,080
+plus 3 minus in Klammern 8 minus 6
+
+92
+00:04:43,080 --> 00:04:46,380
+mal 2. Als erstes berechnen wir die
+
+93
+00:04:46,380 --> 00:04:50,760
+Klammern. 4 minus 2 ergibt 2. 8 minus
+
+94
+00:04:50,760 --> 00:04:55,480
+6 ergibt ebenfalls 2. Nun, wo wir
+
+95
+00:04:55,480 --> 00:04:56,740
+keine Klammern mehr in unserer
+
+96
+00:04:56,740 --> 00:04:58,600
+Rechnung haben, wenden wir die Punkt
+
+97
+00:04:58,600 --> 00:05:00,320
+-vor-Strich-Regel an. Wir rechnen
+
+98
+00:05:00,320 --> 00:05:05,040
+also 3 mal 2 ergibt 6 und 2 mal 2
+
+99
+00:05:05,040 --> 00:05:08,920
+ergibt 4. Danach führen wir die
+
+100
+00:05:08,920 --> 00:05:10,520
+weiteren Rechenoperationen durch,
+
+101
+00:05:10,620 --> 00:05:14,140
+also Addition und Subtraktion. 6 plus
+
+102
+00:05:14,140 --> 00:05:18,940
+3 ergibt 9, minus 4 ergibt 5. 5 ist
+
+103
+00:05:18,940 --> 00:05:21,240
+also das Ergebnis unserer Rechnung.
+
+104
+00:05:24,350 --> 00:05:27,830
+Ein weiteres Beispiel mit Klammern
+
+105
+00:05:27,830 --> 00:05:32,790
+innerhalb von Klammern. 3 mal eckige
+
+106
+00:05:32,790 --> 00:05:35,410
+Klammer, dann in Klammern 4 minus 2
+
+107
+00:05:35,410 --> 00:05:38,910
+plus 3, eckige Klammer geschlossen,
+
+108
+00:05:39,050 --> 00:05:43,050
+minus in Klammern 8 minus 6 mal 2.
+
+109
+00:05:44,390 --> 00:05:46,630
+Wir berechnen wieder zunächst die
+
+110
+00:05:46,630 --> 00:05:48,970
+runde Klammer innerhalb der eckigen
+
+111
+00:05:48,970 --> 00:05:53,070
+Klammer. 4 minus 2 ergibt 2. Die
+
+112
+00:05:53,070 --> 00:05:55,650
+runde Klammer außerhalb können wir
+
+113
+00:05:55,650 --> 00:05:58,150
+sofort auch berechnen. 8 minus 6
+
+114
+00:05:58,150 --> 00:06:01,370
+ergibt ebenfalls 2. Als nächstes
+
+115
+00:06:01,370 --> 00:06:04,110
+berechnen wir die eckige Klammer. 2
+
+116
+00:06:04,110 --> 00:06:08,010
+plus 3 ergibt 5. Nun haben wir keine
+
+117
+00:06:08,010 --> 00:06:10,350
+Klammern mehr in unserer Rechnung.
+
+118
+00:06:10,430 --> 00:06:14,450
+Wir können also multiplizieren. 3 mal
+
+119
+00:06:14,450 --> 00:06:19,810
+5 ergibt 15 und 2 mal 2 ergibt 4. Das
+
+120
+00:06:19,810 --> 00:06:26,030
+heißt, 15 minus 4 ist 11 und 11 ist
+
+121
+00:06:26,030 --> 00:06:28,270
+damit das Ergebnis unserer Rechnung.
+
+122
+00:06:31,990 --> 00:06:33,270
+Wie sieht es aus, wenn wir
+
+123
+00:06:33,270 --> 00:06:36,550
+Punktrechnung innerhalb von Klammern
+
+124
+00:06:36,550 --> 00:06:39,170
+haben? In diesem Fall führen wir die
+
+125
+00:06:39,170 --> 00:06:41,830
+Punkt-vor-Strich-Rechnung innerhalb
+
+126
+00:06:41,830 --> 00:06:44,370
+der Klammern zunächst durch, aber nur
+
+127
+00:06:44,370 --> 00:06:46,830
+innerhalb der Klammer. Das heißt in
+
+128
+00:06:46,830 --> 00:06:50,050
+unserer Aufgabe 7 mal eckige Klammer
+
+129
+00:06:50,050 --> 00:06:53,710
+auf 5 plus in Klammern 3 mal 3 minus
+
+130
+00:06:53,710 --> 00:06:58,450
+4 minus 2 eckige Klammer zu minus 15
+
+131
+00:06:58,450 --> 00:07:02,270
+mal 2. berechnen wir zunächst die
+
+132
+00:07:02,270 --> 00:07:03,810
+Punkt-vor-Strich-Rechnung innerhalb
+
+133
+00:07:03,810 --> 00:07:06,990
+der inneren Klammer. Also 3 mal 3 ist
+
+134
+00:07:06,990 --> 00:07:10,050
+9. Jetzt können wir die innere
+
+135
+00:07:10,050 --> 00:07:13,910
+Klammer berechnen. 9 minus 4 ergibt
+
+136
+00:07:13,910 --> 00:07:17,390
+5. Jetzt können wir die äußere
+
+137
+00:07:17,390 --> 00:07:20,810
+Klammer berechnen. 5 plus 5 ergibt
+
+138
+00:07:20,810 --> 00:07:26,450
+10. Minus 2 ergibt 8. Damit haben wir
+
+139
+00:07:26,450 --> 00:07:29,690
+dann alle Klammern ausgerechnet. und
+
+140
+00:07:29,690 --> 00:07:31,490
+wir wenden die Punkt-vor-Strich-Regel
+
+141
+00:07:31,490 --> 00:07:35,910
+für die gesamte Rechnung an. 7 mal 8
+
+142
+00:07:35,910 --> 00:07:41,450
+ergibt 56, 15 mal 2 ergibt 30. Jetzt
+
+143
+00:07:41,450 --> 00:07:43,530
+müssen wir nur noch die restlichen
+
+144
+00:07:43,530 --> 00:07:46,910
+Rechenoperationen durchführen. Also
+
+145
+00:07:46,910 --> 00:07:52,690
+56 minus 30 ergibt 26. Wir
+
+146
+00:07:54,870 --> 00:07:57,190
+fassen das Ganze nochmal zusammen.
+
+147
+00:07:57,190 --> 00:07:59,810
+Wir merken uns, wir berechnen
+
+148
+00:07:59,810 --> 00:08:02,850
+Klammern immer zuerst. Bei mehreren
+
+149
+00:08:02,850 --> 00:08:05,770
+Klammern rechnen wir von innen nach
+
+150
+00:08:05,770 --> 00:08:08,150
+außen. Also erst die innere Klammer,
+
+151
+00:08:08,230 --> 00:08:11,710
+dann die äußere Klammer. Auch in den
+
+152
+00:08:11,710 --> 00:08:13,830
+Klammern beachten wir, dass die Punkt
+
+153
+00:08:13,830 --> 00:08:16,590
+-vor-Strich-Regel gilt. Und wenn wir
+
+154
+00:08:16,590 --> 00:08:18,510
+alle Klammern ausgerechnet haben,
+
+155
+00:08:18,690 --> 00:08:20,970
+gilt die Punkt-vor-Strich-Regel für
+
+156
+00:08:20,970 --> 00:08:25,490
+die restliche Rechnung. Und damit
+
+157
+00:08:25,490 --> 00:08:27,830
+wären wir auch schon am Ende unseres
+
+158
+00:08:27,830 --> 00:08:29,830
+heutigen Webinars angelangt. Ich
+
+159
+00:08:29,830 --> 00:08:31,450
+bedanke mich für die Aufmerksamkeit
+
+160
+00:08:31,450 --> 00:08:33,210
+und wünsche noch einen schönen Tag.
+

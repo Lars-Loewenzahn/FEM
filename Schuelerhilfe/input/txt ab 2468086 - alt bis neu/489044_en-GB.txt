@@ -1,0 +1,719 @@
+﻿1
+00:00:00,500 --> 00:00:02,640
+Hello to another learning video from 
+
+2
+00:00:02,640 --> 00:00:04,860
+Schülerhilfe . After 
+
+3
+00:00:04,860 --> 00:00:07,020
+explaining to you in the last videos how a 
+
+4
+00:00:07,020 --> 00:00:09,120
+lactylic hexameter is structured 
+
+5
+00:00:09,120 --> 00:00:11,640
+and what I have to pay attention to, 
+
+6
+00:00:11,640 --> 00:00:14,200
+this time it's about a few special 
+features 
+
+7
+00:00:14,200 --> 00:00:16,080
+that you have to pay attention to in 
+
+8
+00:00:16,080 --> 00:00:19,040
+Scandian. So let's take a look 
+
+9
+00:00:19,040 --> 00:00:22,720
+at these special features. Yes, very 
+
+10
+00:00:22,720 --> 00:00:26,160
+important, avoid the hiatus. And you 
+
+11
+00:00:26,160 --> 00:00:27,360
+might be asking yourself, what is 
+
+12
+00:00:27,360 --> 00:00:30,800
+a hiatus? A hiat occurs 
+
+13
+00:00:30,800 --> 00:00:34,500
+when two vowels collide. 
+
+14
+00:00:34,620 --> 00:00:37,260
+This is when a word 
+
+15
+00:00:37,260 --> 00:00:39,960
+ends with a vowel and the next word 
+
+16
+00:00:39,960 --> 00:00:43,120
+begins with a vowel. So the question is, 
+
+17
+00:00:43,240 --> 00:00:44,680
+how do we avoid this 
+
+18
+00:00:44,680 --> 00:00:47,200
+clash? There are two 
+
+19
+00:00:47,200 --> 00:00:47,940
+possibilities. 
+
+20
+00:00:53,430 --> 00:00:56,010
+Firstly, and this is the 
+
+21
+00:00:56,010 --> 00:00:58,010
+most common and most important option, 
+
+22
+00:00:58,430 --> 00:01:00,950
+we use an elysion. 
+
+23
+00:01:03,590 --> 00:01:06,430
+Elysion is sometimes also 
+
+24
+00:01:06,430 --> 00:01:10,150
+ called Syn-a-loy -phä. But you 
+
+25
+00:01:10,150 --> 00:01:12,130
+don't necessarily need to know the word. 
+Importantly, 
+
+26
+00:01:12,290 --> 00:01:14,030
+elysion comes from the Latin 
+
+27
+00:01:14,030 --> 00:01:18,510
+elidere. Elidere, elido, elisi, 
+
+28
+00:01:18,630 --> 00:01:22,590
+elisum, to knock out. And I've 
+
+29
+00:01:22,590 --> 00:01:24,710
+illustrated this for you here with these 
+
+30
+00:01:24,710 --> 00:01:27,410
+frogs. 
+
+31
+00:01:27,410 --> 00:01:28,890
+Just imagine that a frog here 
+
+32
+00:01:28,890 --> 00:01:30,550
+corresponds to any vowel. 
+
+33
+00:01:31,810 --> 00:01:35,550
+So, case 1: The first word ends 
+
+34
+00:01:35,550 --> 00:01:38,370
+with a vowel and the second word 
+
+35
+00:01:38,370 --> 00:01:42,390
+begins with a vowel. What 
+
+36
+00:01:42,390 --> 00:01:46,110
+happens then? The first vowel is 
+
+37
+00:01:46,110 --> 00:01:48,310
+knocked out. It disappears. 
+
+38
+00:01:48,330 --> 00:01:51,350
+You simply don't measure it. 
+
+39
+00:01:53,270 --> 00:01:55,050
+A special feature of 
+
+40
+00:01:55,050 --> 00:01:57,230
+Latin is that a word is considered to 
+
+41
+00:01:57,230 --> 00:01:59,890
+have a vowel sound even if it 
+
+42
+00:01:59,890 --> 00:02:06,340
+ends in a vowel plus an M. Here, too, 
+
+43
+00:02:06,340 --> 00:02:08,420
+what happened in the 
+
+44
+00:02:08,420 --> 00:02:11,580
+first example happens again , namely 
+
+45
+00:02:11,580 --> 00:02:14,720
+the whole ending is 
+
+46
+00:02:14,720 --> 00:02:17,620
+knocked out before the following vowel. 
+
+47
+00:02:17,620 --> 00:02:19,520
+All that remains is the 
+
+48
+00:02:19,520 --> 00:02:22,480
+initial vowel of the first word. 
+
+49
+00:02:25,220 --> 00:02:26,900
+I have 
+
+50
+00:02:26,900 --> 00:02:30,600
+brought you two small examples here. For 
+example, if 
+
+51
+00:02:30,600 --> 00:02:33,500
+the word me and unum were to collide 
+
+52
+00:02:33,600 --> 00:02:38,140
+, then the following would happen: the E 
+is 
+
+53
+00:02:38,140 --> 00:02:42,020
+dropped and what remains is munum 
+
+54
+00:02:42,020 --> 00:02:44,160
+and you would read it like this, 
+
+55
+00:02:44,160 --> 00:02:46,380
+munum, the E has really 
+
+56
+00:02:46,380 --> 00:02:48,060
+disappeared, 
+
+57
+00:02:48,060 --> 00:02:50,700
+been knocked out , elysion. Another 
+
+58
+00:02:50,700 --> 00:02:57,090
+example, unum adque, here too 
+
+59
+00:02:57,090 --> 00:02:58,950
+, as with the second 
+
+60
+00:02:58,950 --> 00:03:00,810
+example, we now have a word that 
+
+61
+00:03:00,810 --> 00:03:03,190
+ends vowel , this time with a vowel plus 
+M, and 
+
+62
+00:03:03,190 --> 00:03:06,550
+the following word that 
+
+63
+00:03:06,550 --> 00:03:09,690
+begins with a vowel . So here, too, we 
+
+64
+00:03:09,690 --> 00:03:12,090
+simply knock out the ending. 
+
+65
+00:03:12,090 --> 00:03:14,030
+What remains is un- and we would read and 
+
+66
+00:03:14,030 --> 00:03:16,350
+also measure unatque when scansion. 
+
+67
+00:03:19,680 --> 00:03:22,660
+A special form of elision 
+
+68
+00:03:22,660 --> 00:03:25,820
+takes place when a 
+
+69
+00:03:25,820 --> 00:03:28,980
+word with a vowel ending is followed by 
+either 
+
+70
+00:03:28,980 --> 00:03:31,980
+the form es from esse, du bist, or 
+
+71
+00:03:31,980 --> 00:03:37,200
+est, er, sie, es ist. 
+
+72
+00:03:37,200 --> 00:03:39,380
+We then use a process 
+
+73
+00:03:39,380 --> 00:03:42,520
+called departure. This is basically 
+
+74
+00:03:42,520 --> 00:03:46,980
+a reverse illusion. 
+
+75
+00:03:46,980 --> 00:03:48,200
+Again, I've 
+
+76
+00:03:48,200 --> 00:03:49,480
+used this little picture as an example 
+
+77
+00:03:49,480 --> 00:03:51,400
+. So here we have 
+
+78
+00:03:51,400 --> 00:03:54,480
+our vowel sound and it 
+
+79
+00:03:54,480 --> 00:03:58,360
+is followed by the word es or est. In 
+
+80
+00:03:58,360 --> 00:04:00,440
+these cases, you see, this time 
+
+81
+00:04:00,440 --> 00:04:04,140
+the vowel of the first word is 
+
+82
+00:04:04,140 --> 00:04:06,700
+retained, but this time 
+
+83
+00:04:06,700 --> 00:04:12,100
+the e of es or est disappears . 
+
+84
+00:04:12,100 --> 00:04:15,720
+We have an example here, Bono est, if 
+
+85
+00:04:15,720 --> 00:04:17,160
+you chant it , would 
+
+86
+00:04:17,160 --> 00:04:22,720
+become Bonost in a verse after we 
+
+87
+00:04:22,720 --> 00:04:26,650
+have knocked out the E. An 
+
+88
+00:04:26,650 --> 00:04:29,230
+apheresis also takes place when you 
+
+89
+00:04:29,230 --> 00:04:31,730
+have a word, like here, that 
+
+90
+00:04:31,730 --> 00:04:35,170
+ends in a vowel plus M. 
+
+91
+00:04:35,170 --> 00:04:39,310
+Again, this time the E would disappear. 
+
+92
+00:04:39,310 --> 00:04:43,530
+What remains is a vowel Mst. An 
+
+93
+00:04:43,530 --> 00:04:48,710
+example. Bonum est. You would have to 
+
+94
+00:04:48,710 --> 00:04:50,650
+
+95
+00:04:50,650 --> 00:04:53,150
+treat this in a verse Das as follows. You 
+see, you have it, 
+
+96
+00:04:53,470 --> 00:04:56,130
+before the vowel ending um, so 
+
+97
+00:04:56,130 --> 00:04:58,230
+we knock out the e. 
+
+98
+00:04:58,230 --> 00:05:02,070
+What remains is bonumst. Another 
+
+99
+00:05:02,070 --> 00:05:04,770
+phenomenon to be aware of is 
+
+100
+00:05:04,770 --> 00:05:07,990
+the so-called iamb shortening. 
+
+101
+00:05:07,990 --> 00:05:09,850
+There are certain words that 
+
+102
+00:05:09,850 --> 00:05:11,270
+actually have an iambic 
+
+103
+00:05:11,270 --> 00:05:13,690
+round structure by nature, i.e. they 
+consist of 
+
+104
+00:05:13,690 --> 00:05:16,390
+a length followed by a, 
+
+105
+00:05:16,390 --> 00:05:17,350
+sorry, they consist of 
+
+106
+00:05:17,350 --> 00:05:20,010
+a shortness followed by a 
+
+107
+00:05:20,010 --> 00:05:24,430
+length. Examples would be the 
+
+108
+00:05:24,430 --> 00:05:29,310
+word nihil, nichts, mihi, mir, 
+
+109
+00:05:31,120 --> 00:05:35,380
+tibi, dir and the first person 
+
+110
+00:05:35,380 --> 00:05:37,180
+singular indicative present active of 
+
+111
+00:05:37,180 --> 00:05:41,120
+rogare, rogo, ich bitte, ich frage. 
+
+112
+00:05:41,420 --> 00:05:44,120
+And we can 
+
+113
+00:05:44,120 --> 00:05:47,780
+actually measure these words as double 
+abbreviations. 
+
+114
+00:05:49,980 --> 00:05:51,160
+That's why we're talking about 
+
+115
+00:05:51,160 --> 00:05:53,620
+jam shortenings. In other words, the 
+
+116
+00:05:53,620 --> 00:05:54,860
+words that I have already 
+
+117
+00:05:54,860 --> 00:05:56,540
+marked for you above could also be 
+
+118
+00:05:56,540 --> 00:05:59,320
+measured as nihil, 
+
+119
+00:05:59,500 --> 00:06:05,160
+mihi, tibi and orogo. 
+
+120
+00:06:07,090 --> 00:06:09,210
+Now that you' 
+
+121
+00:06:09,210 --> 00:06:11,750
+ve learned about elysion, 
+
+122
+00:06:11,750 --> 00:06:13,890
+apharesis and jam shortening 
+
+123
+00:06:14,550 --> 00:06:15,530
+, let's look at two 
+
+124
+00:06:15,530 --> 00:06:18,290
+more important points. 
+
+125
+00:06:18,290 --> 00:06:22,900
+Firstly, the consonant H. In fact 
+
+126
+00:06:22,900 --> 00:06:25,620
+, you should never 
+
+127
+00:06:25,620 --> 00:06:28,820
+count an H when scansion. Never. 
+
+128
+00:06:29,120 --> 00:06:31,400
+This is because 
+
+129
+00:06:31,400 --> 00:06:34,000
+Latin did not regard the H as a real 
+
+130
+00:06:34,000 --> 00:06:35,740
+full letter 
+
+131
+00:06:35,740 --> 00:06:40,160
+, but as spiritus, translated 
+
+132
+00:06:40,160 --> 00:06:44,700
+as breath. And indeed, the H 
+
+133
+00:06:44,700 --> 00:06:45,940
+also fell silent very early on in 
+
+134
+00:06:45,940 --> 00:06:47,940
+spoken Latin. And you could 
+
+135
+00:06:47,940 --> 00:06:49,700
+also remember clumsily that what you don't 
+
+136
+00:06:49,700 --> 00:06:52,500
+speak, you don't measure. And 
+
+137
+00:06:53,840 --> 00:06:55,900
+finally, it's about the 
+
+138
+00:06:55,900 --> 00:07:00,940
+combination of muta cum liquida. 
+
+139
+00:07:03,520 --> 00:07:07,000
+What is mute, what is liquida? I 
+
+140
+00:07:07,000 --> 00:07:08,800
+have written down here 
+
+141
+00:07:08,800 --> 00:07:10,740
+which consonants 
+
+142
+00:07:10,740 --> 00:07:19,120
+belong to the so-called muta, K, G, T, D, 
+
+143
+00:07:19,360 --> 00:07:23,640
+P and B. And if these 
+
+144
+00:07:23,640 --> 00:07:27,060
+consonants are followed by a liquida, 
+
+145
+00:07:27,060 --> 00:07:34,420
+the liquidae include R and L, then 
+
+146
+00:07:34,420 --> 00:07:37,700
+this combination can, as it 
+
+147
+00:07:37,700 --> 00:07:38,840
+should, 
+
+148
+00:07:38,840 --> 00:07:41,140
+have a position-length-forming effect, 
+
+149
+00:07:41,220 --> 00:07:44,600
+but the syllable before it, if it 
+
+150
+00:07:44,600 --> 00:07:46,360
+is short , can also be measured short. 
+
+151
+00:07:47,900 --> 00:07:49,920
+Let's take a look at two small 
+
+152
+00:07:49,920 --> 00:07:52,980
+examples. If we look at 
+
+153
+00:07:52,980 --> 00:07:55,340
+the accusative partem of partis, 
+
+154
+00:07:55,340 --> 00:07:58,280
+partly, you can see that we have 
+
+155
+00:07:58,280 --> 00:08:03,720
+two consonants R and T after the a. So 
+
+156
+00:08:03,720 --> 00:08:08,300
+the A must be measured long, because we 
+
+157
+00:08:08,300 --> 00:08:10,020
+have a position length. I 
+
+158
+00:08:10,020 --> 00:08:13,460
+also have a liquida and a 
+
+159
+00:08:13,460 --> 00:08:17,420
+muta here , but in the order liquida 
+
+160
+00:08:17,420 --> 00:08:19,020
+- muta. This always 
+
+161
+00:08:19,020 --> 00:08:22,760
+forms the position length. In contrast 
+
+162
+00:08:22,760 --> 00:08:28,120
+to the accusative patras, where I have 
+
+163
+00:08:28,120 --> 00:08:29,860
+two options. 
+
+164
+00:08:29,860 --> 00:08:31,960
+Again, I have two consonants and 
+
+165
+00:08:31,960 --> 00:08:35,400
+of course I can 
+
+166
+00:08:35,400 --> 00:08:38,600
+measure this A as position length. 
+
+167
+00:08:38,600 --> 00:08:39,540
+But now I also have the option 
+
+168
+00:08:39,540 --> 00:08:41,680
+, because this time it really is 
+
+169
+00:08:41,680 --> 00:08:46,040
+the combination of muta with liquida 
+
+170
+00:08:46,040 --> 00:08:50,920
+, to measure the A short, as 
+
+171
+00:08:50,920 --> 00:08:55,740
+here, patrim. That's 
+
+172
+00:08:55,740 --> 00:08:57,760
+a whole series of special features 
+
+173
+00:08:58,380 --> 00:09:00,500
+to consider, but you'll 
+
+174
+00:09:00,500 --> 00:09:01,760
+
+175
+00:09:01,760 --> 00:09:04,420
+soon get the hang of it through practice. 
+In the next video, 
+
+176
+00:09:04,420 --> 00:09:05,800
+however, I'll show you 
+
+177
+00:09:05,800 --> 00:09:07,980
+an example of this again. So, 
+
+178
+00:09:08,100 --> 00:09:08,580
+bye! 

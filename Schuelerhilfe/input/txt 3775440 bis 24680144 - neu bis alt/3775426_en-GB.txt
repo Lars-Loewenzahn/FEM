@@ -1,0 +1,435 @@
+﻿1
+00:00:03,950 --> 00:00:05,790
+Hello, my name is Paula and I 
+
+2
+00:00:05,790 --> 00:00:07,070
+am a tutor 
+
+3
+00:00:07,070 --> 00:00:09,270
+at Schülerhilfe. Today I would like to 
+explain 
+
+4
+00:00:09,270 --> 00:00:11,110
+something to you about binary salts 
+
+5
+00:00:11,110 --> 00:00:13,570
+in chemistry. In our 
+
+6
+00:00:13,570 --> 00:00:15,270
+online learning center, you will 
+
+7
+00:00:15,270 --> 00:00:16,870
+of course also find a wiki on this topic 
+
+8
+00:00:16,870 --> 00:00:18,390
+, in which the 
+
+9
+00:00:18,390 --> 00:00:19,890
+basic and important terms 
+
+10
+00:00:19,890 --> 00:00:22,830
+are explained in more detail. Let's start 
+with 
+
+11
+00:00:22,830 --> 00:00:24,330
+an illustrative 
+
+12
+00:00:24,330 --> 00:00:26,710
+example. If you 
+
+13
+00:00:26,710 --> 00:00:28,590
+mix two primary colors , for example red 
+and blue, 
+
+14
+00:00:28,590 --> 00:00:30,510
+you get a so-called 
+
+15
+00:00:30,510 --> 00:00:32,730
+secondary color, in our case purple. 
+
+16
+00:00:33,730 --> 00:00:35,630
+Based on color theory, you can 
+
+17
+00:00:35,630 --> 00:00:37,410
+
+18
+00:00:37,410 --> 00:00:40,210
+determine the secondary color in advance. 
+
+19
+00:00:40,210 --> 00:00:42,070
+Similar 
+
+20
+00:00:42,070 --> 00:00:44,470
+rules can be applied to the synthesis of 
+binary salts . But what is 
+
+21
+00:00:44,470 --> 00:00:46,550
+binary salt anyway? Binary 
+
+22
+00:00:46,550 --> 00:00:47,830
+means that it consists of two 
+
+23
+00:00:47,830 --> 00:00:50,230
+components. And since it is 
+
+24
+00:00:50,230 --> 00:00:51,650
+a salt, these 
+
+25
+00:00:51,650 --> 00:00:53,530
+components must be 
+
+26
+00:00:53,530 --> 00:00:56,270
+present in their ionic form. To determine 
+the two 
+
+27
+00:00:56,270 --> 00:00:57,930
+components , let's take a 
+
+28
+00:00:57,930 --> 00:00:59,950
+look at the main groups of the periodic 
+table 
+
+29
+00:00:59,950 --> 00:01:02,970
+. All the elements listed here can 
+
+30
+00:01:02,970 --> 00:01:04,150
+
+31
+00:01:04,150 --> 00:01:06,730
+be divided into three groups. The metals, 
+the 
+
+32
+00:01:06,730 --> 00:01:09,990
+semi-metals and the non-metals. 
+
+33
+00:01:09,990 --> 00:01:11,790
+To form a salt, you need 
+
+34
+00:01:11,790 --> 00:01:13,730
+a component that donates electrons 
+
+35
+00:01:13,730 --> 00:01:16,690
+, the electron donor. These are 
+
+36
+00:01:16,690 --> 00:01:18,710
+semi-metals and non-metals, with 
+
+37
+00:01:18,710 --> 00:01:21,750
+the exception of noble gases. Due to their 
+
+38
+00:01:21,750 --> 00:01:23,570
+different reaction behavior 
+
+39
+00:01:23,570 --> 00:01:25,170
+, the semimetals are not 
+
+40
+00:01:25,170 --> 00:01:27,290
+discussed further here. And the 
+
+41
+00:01:27,290 --> 00:01:28,950
+noble gases are also 
+
+42
+00:01:28,950 --> 00:01:31,910
+excluded for salt formation. We have now 
+
+43
+00:01:31,910 --> 00:01:34,190
+determined our possible components. But 
+how do 
+
+44
+00:01:34,190 --> 00:01:35,890
+the salts form? And what 
+
+45
+00:01:35,890 --> 00:01:37,530
+reactions take place in this process 
+
+46
+00:01:37,530 --> 00:01:39,850
+? Let's start with the metals. 
+
+47
+00:01:39,970 --> 00:01:42,310
+They give off a number of electrons 
+
+48
+00:01:42,310 --> 00:01:43,610
+that is identical to their 
+
+49
+00:01:43,610 --> 00:01:46,130
+main group. So lithium 
+
+50
+00:01:46,130 --> 00:01:48,390
+gives off one electron. Magnesium 2, 
+
+51
+00:01:48,710 --> 00:01:51,130
+aluminum 3 and so on. For 
+
+52
+00:01:51,130 --> 00:01:52,910
+non-metals, you can 
+
+53
+00:01:52,910 --> 00:01:54,730
+
+54
+00:01:54,790 --> 00:01:57,250
+calculate the number of electrons they 
+accept by 
+
+55
+00:01:57,250 --> 00:01:59,650
+subtracting the main group from 8. The 
+only 
+
+56
+00:01:59,650 --> 00:02:01,970
+exception is hydrogen, which 
+
+57
+00:02:01,970 --> 00:02:03,630
+can only accept one more electron. 
+
+58
+00:02:04,350 --> 00:02:05,850
+Now we come to the actual 
+
+59
+00:02:05,850 --> 00:02:08,330
+salt formation. To do this, we choose a 
+
+60
+00:02:08,330 --> 00:02:10,010
+metal and a non-metal. 
+
+61
+00:02:10,550 --> 00:02:13,610
+First sodium and chlorine. Sodium 
+
+62
+00:02:13,610 --> 00:02:15,690
+releases an electron and chlorine 
+
+63
+00:02:15,690 --> 00:02:17,730
+accepts an electron. 
+
+64
+00:02:17,730 --> 00:02:19,790
+The result is sodium chloride, i.e. 
+
+65
+00:02:19,790 --> 00:02:22,390
+ordinary table salt. It is important 
+
+66
+00:02:22,470 --> 00:02:24,110
+that the number of 
+
+67
+00:02:24,110 --> 00:02:27,410
+electrons exchanged is always identical. 
+
+68
+00:02:27,410 --> 00:02:29,430
+That was easy here. But what if 
+
+69
+00:02:29,430 --> 00:02:30,790
+you choose a different pair 
+
+70
+00:02:30,790 --> 00:02:32,530
+? Let's take 
+
+71
+00:02:32,530 --> 00:02:35,110
+aluminum and oxygen, for example . 
+Aluminum 
+
+72
+00:02:35,110 --> 00:02:37,070
+gives up three electrons. 
+
+73
+00:02:37,070 --> 00:02:39,010
+However, an oxygen atom can only accept 
+two 
+
+74
+00:02:39,010 --> 00:02:41,450
+electrons. 
+
+75
+00:02:41,450 --> 00:02:43,650
+So we need more atoms. Since the number of 
+
+76
+00:02:43,650 --> 00:02:45,370
+electrons exchanged 
+
+77
+00:02:45,370 --> 00:02:47,470
+must be identical , we simply multiply 
+
+78
+00:02:47,470 --> 00:02:50,210
+2 and 3, which 
+
+79
+00:02:50,210 --> 00:02:53,470
+gives us 6 as the common denominator. Two 
+aluminum atoms 
+
+80
+00:02:53,470 --> 00:02:56,390
+give up 6 electrons and three 
+
+81
+00:02:56,390 --> 00:02:58,730
+oxygen atoms take up 6 electrons 
+
+82
+00:02:58,730 --> 00:03:01,910
+. The resulting salt is therefore 
+
+83
+00:03:01,910 --> 00:03:06,230
+Al2U3. These indices are only 
+
+84
+00:03:06,230 --> 00:03:07,890
+noted if they 
+
+85
+00:03:08,010 --> 00:03:10,230
+differ from one another. So the correct 
+
+86
+00:03:10,230 --> 00:03:13,130
+spelling of calcium sulphide is CAS 
+
+87
+00:03:13,130 --> 00:03:17,470
+and not CA2S2. Finally, the 
+
+88
+00:03:17,470 --> 00:03:20,310
+summary. First, binary 
+
+89
+00:03:20,310 --> 00:03:22,430
+salts are composed of metal ions 
+
+90
+00:03:22,430 --> 00:03:23,750
+and non-metal ions. 
+
+91
+00:03:24,370 --> 00:03:26,950
+Second, metal atoms give 
+
+92
+00:03:26,950 --> 00:03:30,170
+off electrons. Third, 
+
+93
+00:03:30,170 --> 00:03:32,210
+ non-metal atoms accept electrons. 
+
+94
+00:03:33,350 --> 00:03:35,050
+Fourthly, the number of 
+
+95
+00:03:35,050 --> 00:03:37,050
+ions exchanged must 
+
+96
+00:03:37,050 --> 00:03:40,890
+be identical. Fifthly 
+
+97
+00:03:40,890 --> 00:03:43,090
+, if the number of the respective ions 
+differs , 
+
+98
+00:03:43,090 --> 00:03:45,190
+their number is indicated by indices. 
+
+99
+00:03:45,830 --> 00:03:47,490
+I hope that you now have a better 
+
+100
+00:03:47,490 --> 00:03:49,410
+understanding of how binary sides 
+
+101
+00:03:49,410 --> 00:03:51,890
+are formed. If you still have questions 
+about this 
+
+102
+00:03:51,890 --> 00:03:53,890
+or other topics, please feel free to use 
+
+103
+00:03:53,890 --> 00:03:56,030
+our other learning content in the online 
+
+104
+00:03:56,030 --> 00:03:58,050
+ learning center or contact your 
+
+105
+00:03:58,050 --> 00:03:59,890
+local student help center. See you 
+
+106
+00:03:59,890 --> 00:04:00,350
+next time! 

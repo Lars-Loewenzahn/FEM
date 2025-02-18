@@ -1,0 +1,2648 @@
+1
+00:00:01,170 --> 00:00:03,070
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,070 --> 00:00:05,310
+Teilbarkeit natürlicher Zahlen. Wir
+
+3
+00:00:05,310 --> 00:00:07,050
+werden uns in diesem Webinar mit der
+
+4
+00:00:07,050 --> 00:00:08,730
+Teilbarkeit von natürlichen Zahlen
+
+5
+00:00:08,730 --> 00:00:11,430
+befassen. Daher werden wir uns zuerst
+
+6
+00:00:11,430 --> 00:00:13,250
+einmal das anschauen, was ein Teiler
+
+7
+00:00:13,250 --> 00:00:15,370
+und ein Vielfaches ist. Danach
+
+8
+00:00:15,370 --> 00:00:16,750
+schauen wir uns die Endziffer sowie
+
+9
+00:00:16,750 --> 00:00:18,810
+Quersumregel an und schauen uns die
+
+10
+00:00:18,810 --> 00:00:20,850
+entsprechenden Regeln für mehrere
+
+11
+00:00:20,850 --> 00:00:23,890
+Teiler an. danach schauen wir uns
+
+12
+00:00:23,890 --> 00:00:25,990
+noch die primfaktor zerlegung an und
+
+13
+00:00:25,990 --> 00:00:28,090
+zum schluss bestimmen wir größte
+
+14
+00:00:28,090 --> 00:00:29,630
+gemeinsame teile und das kleinste
+
+15
+00:00:29,630 --> 00:00:32,250
+gemeinsame vielfache dabei werden wir
+
+16
+00:00:32,250 --> 00:00:34,150
+auf die n c von quersum regel sowie
+
+17
+00:00:34,150 --> 00:00:35,970
+auf die primfaktor zerlegung
+
+18
+00:00:35,970 --> 00:00:39,150
+zurückgreifen und damit starten wir
+
+19
+00:00:39,150 --> 00:00:40,510
+dann auch schon mit vielfache und
+
+20
+00:00:40,510 --> 00:00:42,690
+zwar vielfache einer zahl entstehen
+
+21
+00:00:42,690 --> 00:00:44,590
+immer durch mit multiplikationen
+
+22
+00:00:44,590 --> 00:00:46,370
+dieser zahlen mit natürlichen zahlen
+
+23
+00:00:46,370 --> 00:00:49,030
+das heißt egal was für eine zahl wir
+
+24
+00:00:49,030 --> 00:00:51,090
+haben wenn wir sie mit einer
+
+25
+00:00:51,090 --> 00:00:52,770
+natürlichen Zahl multiplizieren,
+
+26
+00:00:52,830 --> 00:00:54,910
+erhalten wir ein Vielfaches von ihr,
+
+27
+00:00:54,990 --> 00:00:56,310
+also ein Vielfaches von der Zahl, die
+
+28
+00:00:56,310 --> 00:00:58,510
+multipliziert wird. Das heißt, wir
+
+29
+00:00:58,510 --> 00:01:01,750
+haben jetzt die 4 als eine Zahl und
+
+30
+00:01:01,750 --> 00:01:03,890
+bilden nun die Vielfachen dieser 4.
+
+31
+00:01:04,390 --> 00:01:06,590
+Dies geschieht, indem wir die 4 mit
+
+32
+00:01:06,590 --> 00:01:09,450
+den natürlichen Zahlen multiplizieren
+
+33
+00:01:09,450 --> 00:01:10,910
+oder mit natürlichen Zahlen
+
+34
+00:01:10,910 --> 00:01:13,650
+multiplizieren, also 4 mal 2. Die 2
+
+35
+00:01:13,650 --> 00:01:16,050
+ist eine natürliche Zahl, daher ist
+
+36
+00:01:16,050 --> 00:01:18,110
+das absolut legitim und so kommen wir
+
+37
+00:01:18,110 --> 00:01:22,410
+zu 8 4 x 3 ist 12 4 x 4 ist 16 und
+
+38
+00:01:22,410 --> 00:01:24,930
+wir können ihr seht schon 2 3 4 wir
+
+39
+00:01:24,930 --> 00:01:26,530
+können die ganze reihe natürlichen
+
+40
+00:01:26,530 --> 00:01:28,530
+zahlen durchgehen das heißt bis
+
+41
+00:01:28,530 --> 00:01:30,850
+unendlich und das sind dann alles
+
+42
+00:01:30,850 --> 00:01:34,330
+vielfache von der 4 also jede
+
+43
+00:01:34,330 --> 00:01:36,410
+natürliche zahl die wir mit der 4
+
+44
+00:01:36,410 --> 00:01:39,110
+multiplizieren ist am ende das
+
+45
+00:01:39,110 --> 00:01:40,490
+produkt aus beiden ist dann ein
+
+46
+00:01:40,490 --> 00:01:42,670
+vielfaches von der 4 so So kommen wir
+
+47
+00:01:42,670 --> 00:01:45,770
+dann zu 4, 8, 12, 16, 20. Es kämen
+
+48
+00:01:45,770 --> 00:01:48,730
+noch die 24 und die 28 und das geht
+
+49
+00:01:48,730 --> 00:01:49,970
+immer so weiter. Deswegen sind hier
+
+50
+00:01:49,970 --> 00:01:52,770
+die drei Punkte drin, denn Vielfache
+
+51
+00:01:52,770 --> 00:01:57,030
+gibt es unendlich viele. Wichtig
+
+52
+00:01:57,030 --> 00:02:00,670
+dabei ist, jede Zahl ist auch
+
+53
+00:02:00,670 --> 00:02:02,530
+gleichzeitig ihr eigenes Vielfaches,
+
+54
+00:02:02,530 --> 00:02:04,670
+denn die 1 ist eine natürliche Zahl.
+
+55
+00:02:05,730 --> 00:02:07,670
+Daher 4 mal 1. Wir können ja jede
+
+56
+00:02:07,670 --> 00:02:09,450
+Zahl mit 1 multiplizieren und als
+
+57
+00:02:09,450 --> 00:02:10,730
+Ergebnis erhalten wir dann wieder
+
+58
+00:02:10,730 --> 00:02:14,130
+unsere Zahl. Und deswegen 4 mal 1 ist
+
+59
+00:02:14,130 --> 00:02:17,930
+4 oder anders gesagt, jede Zahl ist
+
+60
+00:02:17,930 --> 00:02:19,270
+auch gleichzeitig ihr eigenes
+
+61
+00:02:19,270 --> 00:02:20,850
+Vielfaches. Deswegen taucht ihr auch
+
+62
+00:02:20,850 --> 00:02:23,750
+erstens auch die 4 auf. Vielleicht
+
+63
+00:02:23,750 --> 00:02:25,710
+noch ein, zwei allgemeine Worte zum
+
+64
+00:02:25,710 --> 00:02:28,230
+Thema natürliche Zahlen. Natürliche
+
+65
+00:02:28,230 --> 00:02:31,230
+Zahlen sind alle Zahlen, die ganz
+
+66
+00:02:31,230 --> 00:02:35,510
+zahllich und positiv sind. Und daher
+
+67
+00:02:35,510 --> 00:02:38,790
+werden wir diese auch im weiteren
+
+68
+00:02:38,790 --> 00:02:42,450
+Verlauf des Webinars benutzen. Kommen
+
+69
+00:02:42,450 --> 00:02:55,210
+wir nun zum Teiler.
+
+70
+00:03:09,310 --> 00:03:11,070
+12 geteilt durch 4 ist 3 und 12
+
+71
+00:03:11,070 --> 00:03:13,870
+geteilt durch 6 ist 2 und 12 geteilt
+
+72
+00:03:13,870 --> 00:03:16,550
+durch 12 ist 1. Wir sehen hier nur
+
+73
+00:03:16,550 --> 00:03:18,990
+ganze Zahlen bzw. wir haben keine
+
+74
+00:03:18,990 --> 00:03:21,610
+Dezimalzahlen oder keinen Rest. Daher
+
+75
+00:03:21,610 --> 00:03:25,130
+sind die 1, 2, 3, 4, 6 und die 12
+
+76
+00:03:25,130 --> 00:03:29,190
+auch Teiler der 12. Und damit kommen
+
+77
+00:03:29,190 --> 00:03:32,570
+wir auch schon zur ersten Regel. Und
+
+78
+00:03:32,570 --> 00:03:35,210
+zwar jede Zahl ist gleichzeitig auch
+
+79
+00:03:35,210 --> 00:03:37,970
+ihr eigener Teiler. Denn wir können
+
+80
+00:03:37,970 --> 00:03:39,750
+jede Zahl durch sich selbst teilen
+
+81
+00:03:39,750 --> 00:03:40,890
+und erhalten keinen Rest. Es kommt
+
+82
+00:03:40,890 --> 00:03:42,530
+immer 1 raus. Immer wenn wir eine
+
+83
+00:03:42,530 --> 00:03:44,070
+Zahl durch sich selbst teilen,
+
+84
+00:03:44,110 --> 00:03:47,670
+erhalten wir die 1. Und gleichzeitig
+
+85
+00:03:47,670 --> 00:03:50,490
+ist natürlich auch die 1 immer ein
+
+86
+00:03:50,490 --> 00:03:54,330
+Teiler der Zahl. Das bedeutet, wenn
+
+87
+00:03:54,330 --> 00:03:56,210
+wir eine Zahl durch 1 teilen,
+
+88
+00:03:56,250 --> 00:03:58,450
+erhalten wir wieder die Zahl. Daher
+
+89
+00:03:58,450 --> 00:04:01,950
+ist die 1 immer ein Teiler jeder
+
+90
+00:04:01,950 --> 00:04:05,010
+Zahl. und bei jeder Zahl ist die Zahl
+
+91
+00:04:05,010 --> 00:04:05,850
+Teil ihrer.
+
+92
+00:04:08,710 --> 00:04:10,490
+Was hierbei auch noch ausführlich
+
+93
+00:04:10,490 --> 00:04:12,150
+ist, wenn wir mal gucken, wir haben
+
+94
+00:04:12,150 --> 00:04:14,670
+jetzt nur grafisch gesehen einmal
+
+95
+00:04:14,670 --> 00:04:16,850
+links die 1 vom Gleichzeichen stehen
+
+96
+00:04:16,850 --> 00:04:19,770
+und rechts die 12. Unten ist es genau
+
+97
+00:04:19,770 --> 00:04:21,630
+umgekehrt. Hier haben wir links die
+
+98
+00:04:21,630 --> 00:04:23,450
+2, rechts die 6 stehen, Hier haben
+
+99
+00:04:23,450 --> 00:04:25,950
+wir links die 6 und rechts die 2
+
+100
+00:04:25,950 --> 00:04:30,990
+stehen. Das heißt, wenn wir eine Zahl
+
+101
+00:04:30,990 --> 00:04:38,930
+durch A teilen, dann ist
+
+102
+00:04:38,930 --> 00:04:41,970
+auch das Ergebnis Teiler dieser Zahl.
+
+103
+00:04:42,270 --> 00:04:45,110
+Das heißt, x geteilt durch A ist
+
+104
+00:04:45,110 --> 00:04:48,710
+gleich b. Dann sind A und b Teiler
+
+105
+00:04:48,710 --> 00:04:50,850
+der Zahl. Das sehen wir auch hier.
+
+106
+00:04:53,710 --> 00:04:56,990
+12 geteilt durch 4 ist gleich 3. Die
+
+107
+00:04:56,990 --> 00:04:58,990
+3 ist auch Teiler der Zahl, das steht
+
+108
+00:04:58,990 --> 00:05:00,470
+nämlich hier drüber. 12 geteilt durch
+
+109
+00:05:00,470 --> 00:05:03,490
+3 ist nämlich 4. Das heißt, immer
+
+110
+00:05:03,490 --> 00:05:05,170
+beide Zahlen sind dann auch Teiler
+
+111
+00:05:05,170 --> 00:05:07,310
+der Zahl. Außerdem, was auch noch
+
+112
+00:05:07,310 --> 00:05:12,010
+gilt, die Zahl, also die links vom
+
+113
+00:05:12,010 --> 00:05:14,050
+Geteilzeichen steht, ist ein
+
+114
+00:05:14,050 --> 00:05:17,790
+Vielfaches von a und auch von b. Das
+
+115
+00:05:17,790 --> 00:05:22,460
+gilt dabei dann auch. Das wäre es
+
+116
+00:05:22,460 --> 00:05:23,940
+erstmal. zu Teiler und Vielfacher.
+
+117
+00:05:24,660 --> 00:05:26,820
+Das werden wir auf jeden Fall später
+
+118
+00:05:26,820 --> 00:05:28,840
+noch brauchen. Wir beschäftigen uns
+
+119
+00:05:28,840 --> 00:05:30,180
+jetzt aber mit der Endziffer- und der
+
+120
+00:05:30,180 --> 00:05:33,920
+Quersum-Regel. Diese benötigen wir
+
+121
+00:05:33,920 --> 00:05:39,620
+später, um Teiler zu prüfen. Denn es
+
+122
+00:05:39,620 --> 00:05:41,320
+ist bei größer werdenden Zahlen nicht
+
+123
+00:05:41,320 --> 00:05:43,520
+allzu einfach, alle Teiler zu finden,
+
+124
+00:05:43,600 --> 00:05:44,740
+beziehungsweise einen Teiler zu
+
+125
+00:05:44,740 --> 00:05:47,740
+prüfen. Beispiel ist hier die 816.
+
+126
+00:05:48,040 --> 00:05:49,160
+Die ist zwar noch nicht allzu zu
+
+127
+00:05:49,160 --> 00:05:50,820
+groß, aber das Problem wird, denke
+
+128
+00:05:50,820 --> 00:05:53,620
+ich, schon klar. Man kann nicht so
+
+129
+00:05:53,620 --> 00:05:55,840
+schnell Teiler prüfen oder mehrere
+
+130
+00:05:55,840 --> 00:05:58,920
+Teiler identifizieren. Daher wurden
+
+131
+00:05:58,920 --> 00:06:00,960
+sich die Endziffer- und Quersumregel
+
+132
+00:06:00,960 --> 00:06:02,480
+ausgedacht. Diese dienen der
+
+133
+00:06:02,480 --> 00:06:05,120
+schnellen Überprüfung. Das heißt, mit
+
+134
+00:06:05,120 --> 00:06:06,840
+diesen können wir schnell überprüfen,
+
+135
+00:06:06,880 --> 00:06:09,640
+ob eine Zahl ein Teiler einer
+
+136
+00:06:09,640 --> 00:06:13,180
+gegebenen Zahl ist. Das heißt, wir
+
+137
+00:06:13,180 --> 00:06:15,060
+können mit einer Regel einen
+
+138
+00:06:15,060 --> 00:06:18,300
+bestimmten Teiler prüfen. Das werden
+
+139
+00:06:18,300 --> 00:06:19,260
+wir gleich sehen. Auf der nächsten
+
+140
+00:06:19,260 --> 00:06:20,840
+Folie sind verschiedene Teile
+
+141
+00:06:20,840 --> 00:06:23,260
+aufgeschrieben und die entsprechende
+
+142
+00:06:23,260 --> 00:06:26,560
+Regel zu diesen Teilen. Kommen wir
+
+143
+00:06:26,560 --> 00:06:28,980
+noch zur Endziffer, denn die
+
+144
+00:06:28,980 --> 00:06:30,300
+Endziffer brauchen wir gleich. Die
+
+145
+00:06:30,300 --> 00:06:32,780
+Endziffern sind die letzten Stellen.
+
+146
+00:06:33,460 --> 00:06:35,640
+Es können die Einerstellen sein, die
+
+147
+00:06:35,640 --> 00:06:37,100
+Zehner und die Hunderter. Manchmal
+
+148
+00:06:37,100 --> 00:06:39,040
+ist es halt die Endziffer, die letzte
+
+149
+00:06:39,040 --> 00:06:41,740
+Stelle, dann ist es die Einer oder
+
+150
+00:06:41,740 --> 00:06:43,900
+beispielsweise die letzten zwei
+
+151
+00:06:43,900 --> 00:06:45,400
+Stellen, dann sind es die Zehner und
+
+152
+00:06:45,400 --> 00:06:46,860
+einer oder die letzten drei stellen
+
+153
+00:06:46,860 --> 00:06:50,920
+dann sind es die hunderter zähne und
+
+154
+00:06:50,920 --> 00:06:54,140
+einer das hängt von der vom teile ab
+
+155
+00:06:54,140 --> 00:06:55,480
+dem wir prüfen wollen das sind wir
+
+156
+00:06:55,480 --> 00:06:57,540
+auf der nächsten folie und dann wird
+
+157
+00:06:57,540 --> 00:06:58,780
+es wahrscheinlich auch klar werden
+
+158
+00:06:58,780 --> 00:07:01,680
+die quersumme einer zahl bildet man
+
+159
+00:07:01,680 --> 00:07:03,840
+durch die addition ihrer ziffern das
+
+160
+00:07:03,840 --> 00:07:06,260
+heißt wir haben hier die 816 und die
+
+161
+00:07:06,260 --> 00:07:08,440
+quersumme errechnen wir indem wir die
+
+162
+00:07:08,440 --> 00:07:10,900
+summe aus aus den einzelnen Ziffern
+
+163
+00:07:10,900 --> 00:07:14,020
+bilden, also 8 plus 1 plus 6 und das
+
+164
+00:07:14,020 --> 00:07:17,100
+ist 15. Das heißt, die Quersumme von
+
+165
+00:07:17,100 --> 00:07:20,760
+der Zahl 816 ist die 15. Und anhand
+
+166
+00:07:20,760 --> 00:07:22,360
+der Quersumme lassen sich dann auch
+
+167
+00:07:22,360 --> 00:07:25,200
+Teiler bestimmen bzw. Teiler prüfen.
+
+168
+00:07:25,660 --> 00:07:29,060
+Und dazu kommen wir jetzt. Wir sehen
+
+169
+00:07:29,060 --> 00:07:30,820
+hier immer, hier links immer grün
+
+170
+00:07:30,820 --> 00:07:32,140
+dargestellt, den Teiler, den wir
+
+171
+00:07:32,140 --> 00:07:33,420
+gerade betrachten. Und zwar, das
+
+172
+00:07:33,420 --> 00:07:36,000
+Ganze ist so zu verstehen. Wenn wir
+
+173
+00:07:36,000 --> 00:07:38,640
+wissen wollen, oder wenn eine Zahl
+
+174
+00:07:38,640 --> 00:07:41,640
+den Teiler 2 hat, dann ist die
+
+175
+00:07:41,640 --> 00:07:43,260
+Endziffer gerade. Das ist immer die
+
+176
+00:07:43,260 --> 00:07:44,840
+Regel und das ist der Teiler, den wir
+
+177
+00:07:44,840 --> 00:07:46,160
+prüfen. Hier rechts steht immer ein
+
+178
+00:07:46,160 --> 00:07:49,420
+Beispiel dazu. Also, wenn eine Zahl
+
+179
+00:07:49,420 --> 00:07:51,580
+den Teiler 2 hat, dann ist die
+
+180
+00:07:51,580 --> 00:07:55,580
+Endziffer gerade. Das heißt, wir
+
+181
+00:07:55,580 --> 00:07:57,860
+haben hier die 1984 und wenn wir
+
+182
+00:07:57,860 --> 00:08:00,340
+jetzt wissen wollen, ob die 1984 den
+
+183
+00:08:00,340 --> 00:08:02,440
+Teiler 2 hat, schauen wir uns die
+
+184
+00:08:02,440 --> 00:08:04,260
+letzte Stelle an. Also die Endziffer,
+
+185
+00:08:04,340 --> 00:08:06,700
+das ist die 4 und schauen, ob die
+
+186
+00:08:06,700 --> 00:08:08,360
+gerade ist. Die 4 ist gerade,
+
+187
+00:08:08,460 --> 00:08:12,640
+folglich ist die 1984 ganzzahlig
+
+188
+00:08:12,640 --> 00:08:14,980
+durch 2 teilbar. Also sie hat den
+
+189
+00:08:14,980 --> 00:08:18,740
+Teiler 2. Wenn wir wissen wollen, ob
+
+190
+00:08:18,740 --> 00:08:21,380
+eine Zahl den Teiler 4 hat, dann
+
+191
+00:08:21,380 --> 00:08:23,340
+schauen wir uns die beiden letzten
+
+192
+00:08:23,340 --> 00:08:26,060
+Ziffern an. Diese müssen durch 4
+
+193
+00:08:26,060 --> 00:08:28,740
+teilbar sein. Das heißt, wir haben
+
+194
+00:08:28,740 --> 00:08:32,040
+hier die 232. Die letzten beiden
+
+195
+00:08:32,040 --> 00:08:33,600
+Ziffern, das sind die 10er und die
+
+196
+00:08:33,600 --> 00:08:36,780
+1er, also die 32 haben wir Und wir
+
+197
+00:08:36,780 --> 00:08:38,800
+müssen jetzt gucken, ob die 4 Teiler
+
+198
+00:08:38,800 --> 00:08:41,440
+der 32 ist Das ist sie in dem Fall,
+
+199
+00:08:41,560 --> 00:08:46,640
+daher ist die 4 auch Teiler der 232
+
+200
+00:08:48,240 --> 00:08:51,060
+Das heißt, wenn die 4 Teiler der
+
+201
+00:08:51,060 --> 00:08:53,400
+letzten beiden Ziffern ist, dann ist
+
+202
+00:08:53,400 --> 00:08:57,080
+die 4 auch Teiler der ganzen Zahl So
+
+203
+00:08:57,080 --> 00:08:59,940
+ist das zu verstehen Ähnlich sieht es
+
+204
+00:08:59,940 --> 00:09:02,460
+bei der 8 aus. Eine Zahl ist
+
+205
+00:09:02,460 --> 00:09:04,500
+ganzzahlig durch 8 teilbar bzw. sie
+
+206
+00:09:04,500 --> 00:09:06,920
+hat den Teiler 8, wenn die letzten
+
+207
+00:09:06,920 --> 00:09:10,180
+drei Ziffern den Teiler 8 haben. Das
+
+208
+00:09:10,180 --> 00:09:13,000
+heißt, wir haben hier die 46.064, die
+
+209
+00:09:13,000 --> 00:09:14,400
+letzten drei Ziffern, das sind die
+
+210
+00:09:14,400 --> 00:09:18,720
+100er, die 10er und die 1er. Und wir
+
+211
+00:09:18,720 --> 00:09:21,400
+prüfen jetzt, ob diese durch 8
+
+212
+00:09:21,400 --> 00:09:24,740
+teilbar sind. Die 64 hat den Teiler
+
+213
+00:09:24,740 --> 00:09:29,720
+8, daher ist auch die 46.000. 64
+
+214
+00:09:29,720 --> 00:09:34,860
+durch 8 teilbar. Und damit wären wir
+
+215
+00:09:34,860 --> 00:09:36,260
+dann auch schon bei dem Teiler 5. Der
+
+216
+00:09:36,260 --> 00:09:37,920
+Teiler 5 ist immer recht angenehm,
+
+217
+00:09:37,940 --> 00:09:41,260
+denn eine Zahl hat den Teiler 5, wenn
+
+218
+00:09:41,260 --> 00:09:43,400
+ihre Endziffer eine 0 oder eine 5
+
+219
+00:09:43,400 --> 00:09:44,660
+ist. Das heißt, wir müssen uns dabei
+
+220
+00:09:44,660 --> 00:09:46,160
+wirklich immer nur die Endziffer
+
+221
+00:09:46,160 --> 00:09:49,180
+angucken. Das ist hier bei der 151
+
+222
+00:09:49,180 --> 00:09:53,180
+.065 die 5. Und wie gesagt, wenn als
+
+223
+00:09:53,180 --> 00:09:54,940
+Endziffer eine 0 oder eine 5 steht,
+
+224
+00:09:55,040 --> 00:09:57,360
+dann hat die Zahl den Teiler 5 bei
+
+225
+00:09:57,360 --> 00:09:59,160
+uns. steht hier eine 5, das heißt die
+
+226
+00:09:59,160 --> 00:10:06,500
+151.065 hat den Teiler 5. Und damit
+
+227
+00:10:06,500 --> 00:10:09,020
+sind wir beim Teiler 10. Der Teiler
+
+228
+00:10:09,020 --> 00:10:11,100
+10 ist der einfachste Fall und zwar
+
+229
+00:10:11,100 --> 00:10:13,780
+jede Zahl hat den Teiler 10, wenn sie
+
+230
+00:10:13,780 --> 00:10:15,400
+als Endziffer eine 0 hat und wirklich
+
+231
+00:10:15,400 --> 00:10:17,680
+nur eine 0. Wir sehen hier sofort,
+
+232
+00:10:17,800 --> 00:10:19,540
+die Zahl hat eine 0 am Ende, daher
+
+233
+00:10:19,540 --> 00:10:23,160
+hat sie definitiv den Teiler 10. Der
+
+234
+00:10:23,160 --> 00:10:24,320
+Teiler 10 geht daher immer recht
+
+235
+00:10:24,320 --> 00:10:28,440
+einfach und ist daher oftmals eine
+
+236
+00:10:28,440 --> 00:10:30,340
+gute ausgangsbasis bei der primfaktor
+
+237
+00:10:30,340 --> 00:10:32,560
+zerlegung die wir uns später anschaut
+
+238
+00:10:32,560 --> 00:10:36,660
+werden kommen wir zum teiler 25 der
+
+239
+00:10:36,660 --> 00:10:39,380
+teiler 25 bzw eine zahl hat den
+
+240
+00:10:39,380 --> 00:10:41,520
+teiler 25 wenn die letzten beiden
+
+241
+00:10:41,520 --> 00:10:46,240
+ziffern 00 sind 25 50 oder 75 sind
+
+242
+00:10:46,240 --> 00:10:48,240
+das heißt wenn wir wissen wollen ob
+
+243
+00:10:48,240 --> 00:10:50,300
+eine zahl der teiler 25 hat schauen
+
+244
+00:10:50,300 --> 00:10:51,300
+wir uns nur die letzten beiden
+
+245
+00:10:51,300 --> 00:10:54,120
+ziffern an und entweder es ist nur 0
+
+246
+00:10:54,120 --> 00:10:59,440
+25 50 oder 75 in unserem fall haben
+
+247
+00:10:59,440 --> 00:11:03,760
+wir die 516.875 wir haben also bei
+
+248
+00:11:03,760 --> 00:11:05,360
+den letzten beiden ziffern die 75
+
+249
+00:11:05,360 --> 00:11:07,920
+folglich ist auch die ganze zahl
+
+250
+00:11:07,920 --> 00:11:12,000
+durch 25 teilbar also hat hat den
+
+251
+00:11:12,000 --> 00:11:16,440
+Teiler 25. Kommen wir als nächstes zu
+
+252
+00:11:16,440 --> 00:11:19,800
+dem Teiler 3. Man kann ermitteln, ob
+
+253
+00:11:19,800 --> 00:11:21,660
+eine Zahl den Teiler 3 hat, indem man
+
+254
+00:11:21,660 --> 00:11:24,980
+die Quersumme prüft. Und zwar, eine
+
+255
+00:11:24,980 --> 00:11:27,060
+Zahl hat den Teiler 3, wenn ihre
+
+256
+00:11:27,060 --> 00:11:29,600
+Quersumme ebenfalls den Teiler 3 hat.
+
+257
+00:11:30,100 --> 00:11:32,500
+Das heißt, wir müssen als erstes die
+
+258
+00:11:32,500 --> 00:11:34,620
+Quersumme der Zahl Wir haben hier als
+
+259
+00:11:34,620 --> 00:11:38,800
+Beispiel die 8613. Die Quersumme von
+
+260
+00:11:38,800 --> 00:11:41,880
+der 8613 ist dann 8 plus 6 plus 1
+
+261
+00:11:41,880 --> 00:11:44,620
+plus 3. Das sind 18. Und wir
+
+262
+00:11:44,620 --> 00:11:46,740
+überlegen jetzt, ob die 18 den Teiler
+
+263
+00:11:46,740 --> 00:11:51,560
+3 hat. Und das hat sie. 3 mal 6 sind
+
+264
+00:11:51,560 --> 00:11:56,180
+18, beziehungsweise die 18 hat den
+
+265
+00:11:56,180 --> 00:12:01,260
+Teiler 3. Daher hat auch die 8613 den
+
+266
+00:12:01,260 --> 00:12:03,680
+Teiler 3. Das können wir daher sagen.
+
+267
+00:12:04,760 --> 00:12:06,360
+Ähnlich sieht es bei der 9 aus, wenn
+
+268
+00:12:06,360 --> 00:12:07,840
+wir wissen wollen, ob eine Zahl den
+
+269
+00:12:07,840 --> 00:12:09,800
+Teil an 9 hat, bestimmen wir als
+
+270
+00:12:09,800 --> 00:12:11,620
+erstes die Quersumme und gucken, ob
+
+271
+00:12:11,620 --> 00:12:14,200
+die Quersumme den Teil an 9 hat. Wir
+
+272
+00:12:14,200 --> 00:12:18,560
+haben hier die 4.221, die Quersumme
+
+273
+00:12:18,560 --> 00:12:21,280
+ist dann 9, also 4 plus 2 plus 2 plus
+
+274
+00:12:21,280 --> 00:12:24,480
+1 ist 9 und die 9 hat den Teil an 9,
+
+275
+00:12:24,620 --> 00:12:29,920
+daher ist auch die 4.221 durch 9
+
+276
+00:12:29,920 --> 00:12:32,300
+teilbar. beziehungsweise hat den
+
+277
+00:12:32,300 --> 00:12:36,140
+Teiler 9. Etwas schwieriger ist es
+
+278
+00:12:36,140 --> 00:12:37,840
+beim Teiler 6 und beim Teiler 15.
+
+279
+00:12:38,000 --> 00:12:40,920
+Wenn wir wissen wollen, ob eine Zahl
+
+280
+00:12:40,920 --> 00:12:42,900
+den Teiler 6 hat, müssen wir zuerst
+
+281
+00:12:42,900 --> 00:12:45,660
+prüfen, ob sie den Teiler 2 hat. Das
+
+282
+00:12:45,660 --> 00:12:46,960
+heißt, wir schauen uns zuerst die
+
+283
+00:12:46,960 --> 00:12:49,040
+Regel für den Teiler 2 an und prüfen
+
+284
+00:12:49,040 --> 00:12:51,680
+dies. Wenn sie den Teiler 2 hat,
+
+285
+00:12:51,840 --> 00:12:53,420
+müssen wir noch gucken, ob sie auch
+
+286
+00:12:53,420 --> 00:12:56,200
+den Teiler 3 hat. Das heißt, wir
+
+287
+00:12:56,200 --> 00:12:58,280
+prüfen dann den Teiler 3 mit der
+
+288
+00:12:58,280 --> 00:12:59,000
+Regel hier.
+
+289
+00:13:01,940 --> 00:13:04,680
+den Teiler 2 und den Teiler 3 hat,
+
+290
+00:13:04,840 --> 00:13:09,260
+hat sie auch den Teiler 6. Wenn sie
+
+291
+00:13:09,260 --> 00:13:11,040
+nur einen der beiden Teile hat oder
+
+292
+00:13:11,040 --> 00:13:13,520
+keinen von beiden, dann hat sie nicht
+
+293
+00:13:13,520 --> 00:13:18,580
+den Teiler 6. Also die Zahl muss die
+
+294
+00:13:18,580 --> 00:13:20,780
+Teiler 2 und Teiler 3 haben, damit
+
+295
+00:13:20,780 --> 00:13:22,820
+sie auch den Teiler 6 hat, sonst ist
+
+296
+00:13:22,820 --> 00:13:26,830
+das nicht so. Vom Prinzip her gehen
+
+297
+00:13:26,830 --> 00:13:28,430
+wir auch so bei dem Teiler 15 vor.
+
+298
+00:13:28,530 --> 00:13:31,010
+Damit eine Zahl den Teiler 15 hat,
+
+299
+00:13:31,150 --> 00:13:32,930
+müssen wir erst Erst prüfen, ob sie
+
+300
+00:13:32,930 --> 00:13:34,490
+den Teiler 3 hat. Das heißt, wir
+
+301
+00:13:34,490 --> 00:13:36,970
+führen die Operation hier für den
+
+302
+00:13:36,970 --> 00:13:38,590
+Teiler 3 auf. Wir prüfen, ob die Zahl
+
+303
+00:13:38,590 --> 00:13:40,450
+den Teiler 3 hat. Und anschließend
+
+304
+00:13:40,450 --> 00:13:42,250
+prüfen wir noch, ob sie den Teiler 5
+
+305
+00:13:42,250 --> 00:13:44,450
+hat. Also gucken wir auf die
+
+306
+00:13:44,450 --> 00:13:47,810
+Endziffern. Wenn sie beide Teiler
+
+307
+00:13:47,810 --> 00:13:50,090
+hat, dann hat sie definitiv den
+
+308
+00:13:50,090 --> 00:13:52,270
+Teiler 15. Wenn sie nur einen der
+
+309
+00:13:52,270 --> 00:13:53,970
+beiden Teiler hat oder keinen von
+
+310
+00:13:53,970 --> 00:13:56,490
+beiden, dann hat sie nicht den Teiler
+
+311
+00:13:56,490 --> 00:14:00,110
+15. Und das wäre es jetzt fürs Erste
+
+312
+00:14:00,110 --> 00:14:02,210
+auch zur Endziffer- und Quersumregel.
+
+313
+00:14:04,070 --> 00:14:06,410
+Und damit wären wir jetzt bei der
+
+314
+00:14:06,410 --> 00:14:09,690
+Primfaktorzerlegung. Und zwar erstmal
+
+315
+00:14:09,690 --> 00:14:12,310
+generell zum Thema Primzahl. Eine
+
+316
+00:14:12,310 --> 00:14:17,530
+Primzahl ist eine Zahl, die nur durch
+
+317
+00:14:17,530 --> 00:14:19,230
+sich selbst und die 1 teilbar ist.
+
+318
+00:14:20,330 --> 00:14:22,010
+Sie ist also nur durch zwei
+
+319
+00:14:22,010 --> 00:14:23,670
+natürliche Zahlen teilbar, nämlich
+
+320
+00:14:23,670 --> 00:14:26,230
+die 1 und sich selbst. Das ist das,
+
+321
+00:14:26,310 --> 00:14:27,510
+was wir gerade bei den Teilern oben
+
+322
+00:14:27,510 --> 00:14:29,730
+gelernt haben. Jede Zahl ist durch 1
+
+323
+00:14:29,730 --> 00:14:31,650
+und durch sich selbst teilbar. Und
+
+324
+00:14:31,650 --> 00:14:33,290
+Primzahlen haben die Besonderheit,
+
+325
+00:14:33,350 --> 00:14:35,850
+dass sie ausschließlich durch 1 und
+
+326
+00:14:35,850 --> 00:14:39,890
+durch sich selbst teilbar sind. Die
+
+327
+00:14:39,890 --> 00:14:42,970
+ersten Primzahlen lauten 2, 3, 5, 7,
+
+328
+00:14:43,090 --> 00:14:49,070
+11, 13, 17, 19, 23, 29, 31, 37, 41,
+
+329
+00:14:49,310 --> 00:14:52,710
+43, 47 und so weiter. Es ist
+
+330
+00:14:52,710 --> 00:14:54,370
+empfehlenswert, man muss nicht alle
+
+331
+00:14:54,370 --> 00:14:55,970
+Primzahlen... Es gibt auch unendlich
+
+332
+00:14:55,970 --> 00:14:59,450
+viele und daher ist es nur ratsam,
+
+333
+00:14:59,450 --> 00:15:01,770
+die ersten 10 bis 15 auswendig zu
+
+334
+00:15:01,770 --> 00:15:04,350
+kennen. Das reicht. Denn es ist
+
+335
+00:15:04,350 --> 00:15:06,170
+wichtig, die Primzahlen zu kennen
+
+336
+00:15:06,170 --> 00:15:08,030
+oder einige Primzahlen zu kennen,
+
+337
+00:15:08,130 --> 00:15:09,870
+weil die braucht man bei der
+
+338
+00:15:09,870 --> 00:15:11,410
+Primfaktorzerlegung. Was das ist,
+
+339
+00:15:11,490 --> 00:15:15,890
+sehen wir gleich. Wie gesagt, dafür
+
+340
+00:15:15,890 --> 00:15:19,950
+brauchen wir sie. Und zwar, des
+
+341
+00:15:19,950 --> 00:15:21,590
+Weiteren gilt, dass man jede
+
+342
+00:15:21,590 --> 00:15:23,930
+natürliche Zahl als Produkt aus
+
+343
+00:15:23,930 --> 00:15:25,790
+Primzahlen darstellen kann. Das
+
+344
+00:15:25,790 --> 00:15:29,230
+heißt, jede natürliche Zahl kann als
+
+345
+00:15:29,230 --> 00:15:31,110
+ein Produkt aus Primzahlen
+
+346
+00:15:31,110 --> 00:15:33,390
+dargestellt werden. Und die
+
+347
+00:15:33,390 --> 00:15:36,730
+Primfaktorzerlegung ist der
+
+348
+00:15:36,730 --> 00:15:39,570
+Rechenweg, wie man diese natürliche
+
+349
+00:15:39,570 --> 00:15:41,930
+Zahl mit Primfaktoren darstellt. Das
+
+350
+00:15:41,930 --> 00:15:44,090
+heißt, wir sehen hier 60 ist gleich 5
+
+351
+00:15:44,090 --> 00:15:47,410
+mal 3 mal 2 mal 2. Die 5, die 3 sowie
+
+352
+00:15:47,410 --> 00:15:50,410
+die 2 sind Primzahlen. Das heißt,
+
+353
+00:15:50,510 --> 00:15:51,890
+hier wurde die Primfaktorzerlegung
+
+354
+00:15:51,890 --> 00:15:54,350
+durchgeführt und diese 4 Zahlen hier
+
+355
+00:15:54,350 --> 00:15:55,970
+sind die Primfaktoren.
+
+356
+00:15:58,970 --> 00:16:00,990
+Und damit kommen wir auch schon zur
+
+357
+00:16:00,990 --> 00:16:02,350
+eigentlichen Primfaktorzerlegung.
+
+358
+00:16:02,390 --> 00:16:03,610
+Dazu haben wir auch gleich noch ein
+
+359
+00:16:03,610 --> 00:16:05,010
+kleines Beispiel, wo wir es mal dran
+
+360
+00:16:05,010 --> 00:16:08,630
+vorführen. Man kommt natürlich nicht
+
+361
+00:16:08,630 --> 00:16:10,150
+direkt auf diesen Ansatz, dass 60
+
+362
+00:16:10,150 --> 00:16:11,970
+gleich 5 mal 3 mal 2 mal 2 ist.
+
+363
+00:16:11,970 --> 00:16:14,190
+Vielleicht sieht es das geübte Auge
+
+364
+00:16:14,190 --> 00:16:15,430
+und wenn man das sofort sieht und es
+
+365
+00:16:15,430 --> 00:16:16,210
+auch richtig ist, kann man es auch
+
+366
+00:16:16,210 --> 00:16:18,650
+sofort hinschreiben. Meistens sind
+
+367
+00:16:18,650 --> 00:16:19,950
+die Zahlen aber auch etwas größer und
+
+368
+00:16:19,950 --> 00:16:20,990
+dann schafft man das nicht mehr so
+
+369
+00:16:20,990 --> 00:16:23,790
+schnell. Daher macht man das Faktor
+
+370
+00:16:23,790 --> 00:16:27,390
+für Faktor. In welcher Reihenfolge
+
+371
+00:16:27,390 --> 00:16:29,550
+man Faktoren herausfindet, ist egal.
+
+372
+00:16:30,030 --> 00:16:32,330
+Denn es ist ja ein Produkt, also eine
+
+373
+00:16:32,330 --> 00:16:35,550
+Multiplikation und dort können wir
+
+374
+00:16:35,550 --> 00:16:37,070
+die Elemente ja beliebig vertauschen.
+
+375
+00:16:37,790 --> 00:16:39,970
+Das heißt, in welcher Reihenfolge wir
+
+376
+00:16:39,970 --> 00:16:41,450
+die Faktoren herausfinden, ist egal
+
+377
+00:16:43,370 --> 00:16:45,670
+Primfaktoren kommen ganz oft mehrfach
+
+378
+00:16:45,670 --> 00:16:49,230
+vor Also das ist keine Seltenheit Und
+
+379
+00:16:49,230 --> 00:16:50,910
+diese Primfaktoren, die mehrfach
+
+380
+00:16:50,910 --> 00:16:52,190
+vorkommen, kann man entweder als
+
+381
+00:16:52,190 --> 00:16:54,430
+Potenz schreiben Oder einfach so
+
+382
+00:16:54,430 --> 00:16:56,010
+hintereinander stehen lassen Aber auf
+
+383
+00:16:56,010 --> 00:16:58,570
+keinen Fall ausmultiplizieren Das ist
+
+384
+00:16:58,570 --> 00:17:00,010
+ganz wichtig, auf keinen Fall
+
+385
+00:17:00,010 --> 00:17:01,890
+ausmultiplizieren Wenn wir jetzt
+
+386
+00:17:01,890 --> 00:17:03,290
+nämlich 2 mal 2 multiplizieren,
+
+387
+00:17:03,310 --> 00:17:04,850
+erhalten wir die 4 und die 4 ist
+
+388
+00:17:04,850 --> 00:17:08,670
+keine Primzahl. Daher haben wir dann
+
+389
+00:17:08,670 --> 00:17:09,910
+keine Primfaktorzerlegung
+
+390
+00:17:09,910 --> 00:17:12,370
+durchgeführt. Also es dürfen am Ende
+
+391
+00:17:12,370 --> 00:17:14,470
+nur Primzahlen stehen und das auch
+
+392
+00:17:14,470 --> 00:17:16,130
+mehrfach mal, also mehrfach die
+
+393
+00:17:16,130 --> 00:17:20,270
+gleiche Zahl. Um passende Primzahlen
+
+394
+00:17:20,270 --> 00:17:23,030
+zu finden, ist die Endziffer- und
+
+395
+00:17:23,030 --> 00:17:25,670
+Quersumregel nützlich. Wir haben die
+
+396
+00:17:25,670 --> 00:17:27,410
+Regel für die 2, die 3 und die 5
+
+397
+00:17:27,410 --> 00:17:29,990
+vorhin gelernt. Damit kommt man schon
+
+398
+00:17:29,990 --> 00:17:30,490
+recht weit.
+
+399
+00:17:33,310 --> 00:17:35,530
+Und diese Regeln kann man da gut
+
+400
+00:17:35,530 --> 00:17:38,210
+anwenden. Zur Not kann man natürlich
+
+401
+00:17:38,210 --> 00:17:41,190
+auch Primzahlen prüfen. Man möchte
+
+402
+00:17:41,190 --> 00:17:42,890
+dabei natürlich einen möglichst
+
+403
+00:17:42,890 --> 00:17:45,270
+großen Teiler finden, damit die
+
+404
+00:17:45,270 --> 00:17:46,770
+Zahlen sehr schnell klein werden.
+
+405
+00:17:47,490 --> 00:17:49,270
+Weil mit kleinen Zahlen lässt sich
+
+406
+00:17:49,270 --> 00:17:51,890
+besser die Primfaktorzerlegung
+
+407
+00:17:51,890 --> 00:17:53,170
+durchführen, weil man schneller
+
+408
+00:17:53,170 --> 00:17:55,770
+entsprechende Primzahlen kennt. Wir
+
+409
+00:17:55,770 --> 00:17:57,410
+kennen ja wirklich nur die ersten und
+
+410
+00:17:57,410 --> 00:17:58,390
+wenn wir jetzt noch eine
+
+411
+00:17:58,390 --> 00:18:01,230
+Multiplikation aus 19 mal 23 bilden
+
+412
+00:18:01,230 --> 00:18:02,550
+sollten, wird das schnell
+
+413
+00:18:02,550 --> 00:18:04,670
+unübersichtlich, daher ist es ganz
+
+414
+00:18:04,670 --> 00:18:07,990
+praktisch, wenn wir die Zahlen erst
+
+415
+00:18:07,990 --> 00:18:10,430
+klein werden lassen und dann die
+
+416
+00:18:10,430 --> 00:18:12,370
+Primfaktorzerlegung durchführen. Das
+
+417
+00:18:12,370 --> 00:18:14,950
+heißt, wir müssen nicht sofort hier
+
+418
+00:18:14,950 --> 00:18:16,550
+ein Produkt aus Primzahlen stehen
+
+419
+00:18:16,550 --> 00:18:18,290
+haben. Wir können Schritt für Schritt
+
+420
+00:18:18,290 --> 00:18:22,030
+vorgehen und nur am Ende, wenn wir
+
+421
+00:18:22,030 --> 00:18:23,450
+die Primfaktorzerlegung komplett
+
+422
+00:18:23,450 --> 00:18:24,990
+durchgeführt haben, dürfen dann nur
+
+423
+00:18:24,990 --> 00:18:26,750
+noch Primzahlen stehen. Das Ganze
+
+424
+00:18:26,750 --> 00:18:28,130
+sehen wir auch an dem Beispiel, was
+
+425
+00:18:28,130 --> 00:18:31,030
+wir hier haben. wir sollen die 420 in
+
+426
+00:18:31,030 --> 00:18:32,550
+ihre Primfaktoren zerlegen. Und das
+
+427
+00:18:32,550 --> 00:18:34,210
+ist jetzt das, was ich meine. Wir
+
+428
+00:18:34,210 --> 00:18:36,410
+sehen, wir haben hier 1, 2, 3, 4
+
+429
+00:18:36,410 --> 00:18:40,490
+Schritte und wir haben erst in dem
+
+430
+00:18:40,490 --> 00:18:41,610
+Schritt hier nur noch Primzahlen
+
+431
+00:18:41,610 --> 00:18:44,750
+stehen. Also man fängt ganz locker an
+
+432
+00:18:44,750 --> 00:18:46,210
+und zerlegt die Zahl erstmal in
+
+433
+00:18:46,210 --> 00:18:49,990
+Faktoren. Und zwar, wir sehen, die
+
+434
+00:18:49,990 --> 00:18:52,350
+420 ist durch 10 teilbar, einfach
+
+435
+00:18:52,350 --> 00:18:53,610
+weil sie 0 hat, das sieht man dann
+
+436
+00:18:53,610 --> 00:18:55,210
+sofort. Und deswegen schreiben wir
+
+437
+00:18:55,210 --> 00:18:59,790
+die 420 schon mal als 10. 42. Was wir
+
+438
+00:18:59,790 --> 00:19:01,170
+jetzt auch sofort sehen, die 10
+
+439
+00:19:01,170 --> 00:19:03,650
+können wir als 5 mal 2 schreiben. Das
+
+440
+00:19:03,650 --> 00:19:06,750
+ist ein ganz guter Schritt, weil die
+
+441
+00:19:06,750 --> 00:19:08,870
+10 ist wie gesagt durch 5 teilbar,
+
+442
+00:19:08,970 --> 00:19:11,310
+das 2 mal und die 2 und die 5 sind
+
+443
+00:19:11,310 --> 00:19:13,310
+schon Primzahlen. Damit haben wir
+
+444
+00:19:13,310 --> 00:19:15,210
+jetzt schon mal 2 Primzahlen und wir
+
+445
+00:19:15,210 --> 00:19:19,270
+haben nur noch die 42. Die 42 ist
+
+446
+00:19:19,270 --> 00:19:20,910
+schon mal eine gerade Zahl und eine
+
+447
+00:19:20,910 --> 00:19:23,130
+gerade Zahl kann niemals eine
+
+448
+00:19:23,130 --> 00:19:25,530
+Primzahl sein, weil alle gerade
+
+449
+00:19:25,530 --> 00:19:27,890
+Zahlen durch 2 teilbar sind. Die 2
+
+450
+00:19:27,890 --> 00:19:29,710
+stellt da eine Ausnahme dar. Die 2
+
+451
+00:19:29,710 --> 00:19:32,590
+ist die einzige gerade Zahl, die eine
+
+452
+00:19:32,590 --> 00:19:36,430
+Primzahl ist. Gut,
+
+453
+00:19:39,320 --> 00:19:41,000
+wir haben wie gesagt die 42, das
+
+454
+00:19:41,000 --> 00:19:43,140
+heißt, die können wir auf jeden Fall
+
+455
+00:19:43,140 --> 00:19:44,880
+durch 2 teilen, dann erhalten wir
+
+456
+00:19:44,880 --> 00:19:47,660
+schon mal nochmal 2 mal 21. 249
+
+457
+00:19:47,660 --> 00:19:49,000
+nochmal die 2, also das ist schon mal
+
+458
+00:19:49,000 --> 00:19:51,660
+nochmal eine Primzahl. Und die 21
+
+459
+00:19:51,660 --> 00:19:53,100
+müssen wir mal kurz überlegen, das
+
+460
+00:19:53,100 --> 00:19:56,000
+ist keine Primzahl. Das heißt, wir
+
+461
+00:19:56,000 --> 00:19:57,780
+müssen die 21 noch weiter zerlegen,
+
+462
+00:19:57,820 --> 00:19:59,340
+beziehungsweise einen Teiler von ihr
+
+463
+00:19:59,340 --> 00:20:02,180
+finden. Und zwar hat die 21 den
+
+464
+00:20:02,180 --> 00:20:06,120
+Teiler 3. Denn die Quersumme von 21
+
+465
+00:20:06,120 --> 00:20:10,560
+ist ja 3. Folglich hat auch die, also
+
+466
+00:20:10,560 --> 00:20:11,840
+die 3 ist ja durch 3 teilbar,
+
+467
+00:20:11,960 --> 00:20:14,340
+folglich hat auch die 21 den Teiler
+
+468
+00:20:14,340 --> 00:20:16,780
+3. Die 21 können wir... wir daher als
+
+469
+00:20:16,780 --> 00:20:19,600
+3 mal 7 darstellen. Und wenn wir
+
+470
+00:20:19,600 --> 00:20:20,740
+jetzt mal kurz unser Ergebnis
+
+471
+00:20:20,740 --> 00:20:23,780
+angucken, 5 mal 2 mal 2 mal 3 mal 7,
+
+472
+00:20:23,860 --> 00:20:26,040
+das sind alles Primzahlen, dann sind
+
+473
+00:20:26,040 --> 00:20:28,560
+wir schon fast am Ende,
+
+474
+00:20:28,600 --> 00:20:30,280
+beziehungsweise wir haben unsere Zahl
+
+475
+00:20:30,280 --> 00:20:31,600
+schon erfolgreich in Primfaktoren
+
+476
+00:20:31,600 --> 00:20:33,980
+zerlegt. Das Einzige, was wir jetzt
+
+477
+00:20:33,980 --> 00:20:35,820
+noch machen sollten, wir sollten sie
+
+478
+00:20:35,820 --> 00:20:38,120
+dem Wert nach absteigend sortieren.
+
+479
+00:20:38,160 --> 00:20:39,340
+Das heißt, wir fangen mit dem größten
+
+480
+00:20:39,340 --> 00:20:41,780
+an und werden dann kleiner. Das
+
+481
+00:20:41,780 --> 00:20:42,960
+sollte man immer mal so sortieren.
+
+482
+00:20:43,160 --> 00:20:47,040
+Warum seht ihr gleich. Das heißt 420
+
+483
+00:20:47,040 --> 00:20:50,020
+ist gleich 7 mal 5 mal 3 mal 2 mal 2
+
+484
+00:20:50,020 --> 00:20:52,780
+und damit haben wir erfolgreich
+
+485
+00:20:52,780 --> 00:20:54,440
+unsere Primfaktorzerlegung
+
+486
+00:20:54,440 --> 00:20:58,200
+durchgeführt. Damit wären wir auch
+
+487
+00:20:58,200 --> 00:20:59,760
+schon bei dem Thema größter
+
+488
+00:20:59,760 --> 00:21:03,220
+gemeinsamer Teiler. Der größte
+
+489
+00:21:03,220 --> 00:21:05,240
+gemeinsame Teiler zweier Zahlen ist
+
+490
+00:21:05,240 --> 00:21:08,200
+die größte Zahl, durch welche beide
+
+491
+00:21:08,200 --> 00:21:10,800
+Zahlen teilbar sind. Das braucht man
+
+492
+00:21:10,800 --> 00:21:13,460
+ganz oft, wenn man Brüche kürzen
+
+493
+00:21:13,460 --> 00:21:14,900
+möchte, dann sucht man nämlich den
+
+494
+00:21:14,900 --> 00:21:17,000
+größten gemeinsamen Teiler von Zähler
+
+495
+00:21:17,000 --> 00:21:19,560
+und Nenner und wenn man den Bruch
+
+496
+00:21:19,560 --> 00:21:21,620
+dann durch diesen größten gemeinsamen
+
+497
+00:21:21,620 --> 00:21:24,080
+Teiler teilt, das ist der Vorteil von
+
+498
+00:21:24,080 --> 00:21:25,460
+dem größten gemeinsamen Teiler zu
+
+499
+00:21:25,460 --> 00:21:27,980
+anderen Teilern, dann erhält man
+
+500
+00:21:27,980 --> 00:21:29,660
+nämlich direkt den Bruch, der nicht
+
+501
+00:21:29,660 --> 00:21:31,580
+weiter kürzbar ist, weil er bereits
+
+502
+00:21:31,580 --> 00:21:33,140
+durch den größten gemeinsamen teiler
+
+503
+00:21:33,140 --> 00:21:36,400
+gekürzt worden ist ja deswegen ist es
+
+504
+00:21:36,400 --> 00:21:38,980
+halt sinnvoll immer den größten
+
+505
+00:21:38,980 --> 00:21:40,420
+gemeinsamen teiler zu suchen weil man
+
+506
+00:21:40,420 --> 00:21:41,800
+erhält dann sofort ein bruch der
+
+507
+00:21:41,800 --> 00:21:44,800
+nicht weiter kürzbar ist und daher
+
+508
+00:21:44,800 --> 00:21:46,000
+werden wir uns damit jetzt mal
+
+509
+00:21:46,000 --> 00:21:50,080
+befassen und zwar wir haben hier zwei
+
+510
+00:21:50,080 --> 00:21:52,240
+zahlen die 18 und die 27 und wir
+
+511
+00:21:52,240 --> 00:21:53,840
+suchen den größten gemeinsamen teiler
+
+512
+00:21:53,840 --> 00:21:56,580
+von beiden und als erstes
+
+513
+00:21:56,580 --> 00:21:57,780
+beziehungsweise bei kleinen zahlen
+
+514
+00:21:57,780 --> 00:21:59,120
+ist es dann eine möglichkeit sich die
+
+515
+00:21:59,120 --> 00:22:00,880
+ganzen teiler aufzuschreiben teiler
+
+516
+00:22:00,880 --> 00:22:02,920
+von der Der 18 ist die 1, die 2, die
+
+517
+00:22:02,920 --> 00:22:05,680
+3, die 6, die 9 und die 18. Der
+
+518
+00:22:05,680 --> 00:22:07,700
+Teiler von der 27 ist die 1, die 3,
+
+519
+00:22:07,800 --> 00:22:11,900
+die 9 und die 27. Und wir suchen uns
+
+520
+00:22:11,900 --> 00:22:14,480
+jetzt die größte Zahl aus, die bei
+
+521
+00:22:14,480 --> 00:22:17,780
+beiden Teilern drin steht. Das heißt,
+
+522
+00:22:17,960 --> 00:22:20,140
+man kann, wenn die Zahlen
+
+523
+00:22:20,140 --> 00:22:21,640
+einigermaßen beieinander liegen,
+
+524
+00:22:21,760 --> 00:22:23,620
+rechts anfangen. Man kann aber sonst
+
+525
+00:22:23,620 --> 00:22:24,700
+auch einfach links anfangen. Es ist
+
+526
+00:22:24,700 --> 00:22:26,140
+egal, es geht da nur ein bisschen,
+
+527
+00:22:26,180 --> 00:22:27,720
+was schneller ist in dem Moment.
+
+528
+00:22:28,400 --> 00:22:29,860
+Fangen wir mal rechts an. Wir haben
+
+529
+00:22:29,860 --> 00:22:32,000
+bei der 18 die 18, bei der 27 die 27.
+
+530
+00:22:32,220 --> 00:22:34,300
+Dann haben wir bei der 18 die 9 und
+
+531
+00:22:34,300 --> 00:22:36,980
+bei der 27 haben wir auch die 9. Und
+
+532
+00:22:36,980 --> 00:22:38,340
+das ist jetzt unser größter
+
+533
+00:22:38,340 --> 00:22:41,620
+gemeinsamer Teiler. Das heißt, wir
+
+534
+00:22:41,620 --> 00:22:44,800
+können abschließend sagen, die größte
+
+535
+00:22:44,800 --> 00:22:46,160
+Zahl, die in beiden Mengen enthalten
+
+536
+00:22:46,160 --> 00:22:48,020
+ist, ist die 9. Das heißt, die 9 ist
+
+537
+00:22:48,020 --> 00:22:50,040
+der größte gemeinsame Teiler von den
+
+538
+00:22:50,040 --> 00:22:50,640
+beiden Zahlen.
+
+539
+00:22:53,880 --> 00:22:56,700
+Das Problem ist, manchmal ist es...
+
+540
+00:22:56,720 --> 00:22:57,920
+etwas schwieriger, den größten
+
+541
+00:22:57,920 --> 00:22:59,520
+gemeinsamen Teiler zu bestimmen und
+
+542
+00:22:59,520 --> 00:23:01,180
+dann kann man auch auf die
+
+543
+00:23:01,180 --> 00:23:02,860
+Primfaktorzerlegung zurückgreifen.
+
+544
+00:23:03,560 --> 00:23:06,180
+Dafür muss man aber als erstes die
+
+545
+00:23:06,180 --> 00:23:07,980
+Primfaktorzerlegung für beide Zahlen
+
+546
+00:23:07,980 --> 00:23:10,520
+ausführen. Das heißt, wir müssen
+
+547
+00:23:10,520 --> 00:23:12,540
+beide Zahlen als Primfaktoren
+
+548
+00:23:12,540 --> 00:23:15,380
+geschrieben haben und anschließend
+
+549
+00:23:15,380 --> 00:23:17,740
+wählen wir dann alle Faktoren aus,
+
+550
+00:23:17,820 --> 00:23:20,000
+die in beiden Zahlen gemeinsam sind.
+
+551
+00:23:20,540 --> 00:23:22,240
+Und daher ist es jetzt so wichtig,
+
+552
+00:23:22,300 --> 00:23:24,740
+dass es hier den Wert nach Absteigen
+
+553
+00:23:24,740 --> 00:23:26,260
+steht dass wir mit der größten zahl
+
+554
+00:23:26,260 --> 00:23:28,540
+beginnen sonst wird das nämlich sehr
+
+555
+00:23:28,540 --> 00:23:33,120
+schwer zu vergleichen das heißt wir
+
+556
+00:23:33,120 --> 00:23:35,080
+haben in diesem beispiel die 19 und
+
+557
+00:23:35,080 --> 00:23:37,620
+die 135 wir haben bereits die
+
+558
+00:23:37,620 --> 00:23:40,300
+primfaktor zerlegung durchgeführt das
+
+559
+00:23:40,300 --> 00:23:41,860
+heißt die 90 können wir darstellen
+
+560
+00:23:41,860 --> 00:23:45,040
+durch 5 mal 3 mal 3 mal 2 und die 135
+
+561
+00:23:45,040 --> 00:23:50,460
+durch 5 mal 3 mal 3 mal 3 und nun
+
+562
+00:23:50,460 --> 00:23:52,080
+vergleichen wir das wir haben hier
+
+563
+00:23:52,080 --> 00:23:53,660
+beides mal die 5 wir haben hier bei
+
+564
+00:23:53,740 --> 00:23:55,240
+erst mal die 3, wir haben beides mal
+
+565
+00:23:55,240 --> 00:23:56,780
+nochmal die 3 und jetzt haben wir auf
+
+566
+00:23:56,780 --> 00:23:59,780
+einmal die 2 und die 3. Das heißt,
+
+567
+00:23:59,860 --> 00:24:01,540
+die gemeinsamen Faktoren oder der
+
+568
+00:24:01,540 --> 00:24:03,840
+gemeinsame Faktor ist 5 mal 3 mal 3,
+
+569
+00:24:03,880 --> 00:24:07,280
+weil das haben wir bei beiden. Das
+
+570
+00:24:07,280 --> 00:24:09,260
+heißt, der größte gemeinsame Teiler
+
+571
+00:24:09,260 --> 00:24:12,000
+von den beiden Zahlen ist 5 mal 3 mal
+
+572
+00:24:12,000 --> 00:24:15,740
+3, also 45. So kann man auch den
+
+573
+00:24:15,740 --> 00:24:17,240
+größten gemeinsamen Teiler bestimmen.
+
+574
+00:24:18,040 --> 00:24:20,360
+Achtet bitte darauf, Das kann auch
+
+575
+00:24:20,360 --> 00:24:21,660
+als Potenzen geschrieben werden. Das
+
+576
+00:24:21,660 --> 00:24:24,720
+heißt, das wäre 5 mal 3 hoch 2 mal 2
+
+577
+00:24:24,720 --> 00:24:27,300
+und das wäre 5 mal 3 hoch 3. Da müsst
+
+578
+00:24:27,300 --> 00:24:29,440
+ihr halt darauf achten, dass 5 mal 3
+
+579
+00:24:29,440 --> 00:24:32,540
+hoch 2 der gemeinsame Faktor wäre.
+
+580
+00:24:32,680 --> 00:24:34,340
+Und das ist dann auch 45.
+
+581
+00:24:36,680 --> 00:24:38,140
+Damit wären wir auch schon beim
+
+582
+00:24:38,140 --> 00:24:42,180
+kleinsten gemeinsamen Vielfachen. Das
+
+583
+00:24:42,180 --> 00:24:44,020
+kleinste gemeinsame Vielfache zweier
+
+584
+00:24:44,020 --> 00:24:46,880
+Zahlen ist die kleinste Zahl, die ein
+
+585
+00:24:46,880 --> 00:24:49,300
+Vielfaches beider Zahlen ist. Das
+
+586
+00:24:49,300 --> 00:24:50,740
+kleinste gemeinsame Vielfache wird
+
+587
+00:24:50,740 --> 00:24:52,220
+auch in der Bruchrechnung ganz oft
+
+588
+00:24:52,220 --> 00:24:54,440
+benutzt. Und zwar, wenn man Brüche
+
+589
+00:24:54,440 --> 00:24:57,740
+gleichnamig machen möchte. Das ist ja
+
+590
+00:24:57,740 --> 00:25:00,920
+notwendig, wenn wir Brüche addieren
+
+591
+00:25:00,920 --> 00:25:04,120
+oder subtrahieren wollen. Daher ist
+
+592
+00:25:04,120 --> 00:25:05,800
+es wichtig, das kleinste gemeinsame
+
+593
+00:25:05,800 --> 00:25:07,340
+Vielfache bestimmen zu können.
+
+594
+00:25:15,460 --> 00:25:18,820
+Berechnen bzw. ermitteln, indem man
+
+595
+00:25:18,820 --> 00:25:20,280
+die Vielfachen von beiden Zahlen
+
+596
+00:25:20,280 --> 00:25:22,140
+einfach aufschreibt. Wir haben in dem
+
+597
+00:25:22,140 --> 00:25:25,160
+Beispiel hier die 4 und die 6. und
+
+598
+00:25:25,160 --> 00:25:27,080
+schreiben hier nun das Vielfache von
+
+599
+00:25:27,080 --> 00:25:29,980
+diesen Zahlen auf. Vielfache von der
+
+600
+00:25:29,980 --> 00:25:32,480
+4 sind die 4, die 8, die 12, die 16,
+
+601
+00:25:32,520 --> 00:25:34,440
+die 20 und die 24 und so weiter.
+
+602
+00:25:34,540 --> 00:25:36,420
+Vielfache gibt es ja unendlich viele.
+
+603
+00:25:37,520 --> 00:25:39,740
+Vielfache von der 6 sind die 6, die
+
+604
+00:25:39,740 --> 00:25:42,140
+12, die 18 und die 24 und auch noch
+
+605
+00:25:42,140 --> 00:25:44,920
+viele weitere Zahlen. Wir wollen das
+
+606
+00:25:44,920 --> 00:25:47,180
+kleinste gemeinsame Vielfache. Das
+
+607
+00:25:47,180 --> 00:25:49,120
+heißt, wir fangen jetzt links an und
+
+608
+00:25:49,120 --> 00:25:53,560
+suchen uns die kleinsten. zahl aus
+
+609
+00:25:53,560 --> 00:25:55,700
+die in beiden mengen enthalten ist ja
+
+610
+00:25:55,700 --> 00:25:57,640
+das heißt wir vergleichen immer ob
+
+611
+00:25:57,640 --> 00:25:59,020
+wir wann wir als erstes mal eine
+
+612
+00:25:59,020 --> 00:26:00,760
+gleiche zahl finden wir haben hier 48
+
+613
+00:26:00,760 --> 00:26:04,620
+12 16 jetzt haben wir hier 6 12 18
+
+614
+00:26:04,620 --> 00:26:06,880
+sehen wir hier schon aha wir haben
+
+615
+00:26:06,880 --> 00:26:11,000
+beides mal die 12 das heißt die 12
+
+616
+00:26:11,000 --> 00:26:14,500
+ist die kleinste gemeinsame zahl und
+
+617
+00:26:14,500 --> 00:26:16,500
+deswegen ist das kleinste gemeinsame
+
+618
+00:26:16,500 --> 00:26:19,400
+vielfache von der 4 und von der 6 die
+
+619
+00:26:19,400 --> 00:26:19,700
+12.
+
+620
+00:26:25,840 --> 00:26:28,500
+Nicht immer so ermitteln kann, wie
+
+621
+00:26:28,500 --> 00:26:29,860
+gerade gezeigt, weil die Zahlen
+
+622
+00:26:29,860 --> 00:26:31,620
+vielleicht etwas größer werden, wie
+
+623
+00:26:31,620 --> 00:26:34,220
+hier. Und dann gibt es auch noch eine
+
+624
+00:26:34,220 --> 00:26:37,900
+alternative Methode. Und zwar führen
+
+625
+00:26:37,900 --> 00:26:38,800
+wir als erstes die
+
+626
+00:26:38,800 --> 00:26:40,420
+Primfaktorzerlegung für beide Zahlen
+
+627
+00:26:40,420 --> 00:26:44,000
+wieder aus. Dann wählen wir die
+
+628
+00:26:44,000 --> 00:26:46,260
+Faktoren in ihrer höchsten Potenz
+
+629
+00:26:46,260 --> 00:26:47,720
+aus. Wichtig, wir gehen in beide
+
+630
+00:26:47,720 --> 00:26:51,520
+rein. Anschließend multiplizieren wir
+
+631
+00:26:51,520 --> 00:26:53,540
+diese Faktoren. nur aus. Das
+
+632
+00:26:53,540 --> 00:26:55,420
+bedeutet, wir haben in dem Fall die
+
+633
+00:26:55,420 --> 00:26:58,760
+330 und die 324. Diese haben wir
+
+634
+00:26:58,760 --> 00:27:01,300
+mittels der Primfaktorzerlegung schon
+
+635
+00:27:01,300 --> 00:27:03,420
+in folgende Faktoren zerlegt. Die 11
+
+636
+00:27:03,420 --> 00:27:06,820
+mal 5 mal 3 mal 2 für die 330 und 3
+
+637
+00:27:06,820 --> 00:27:10,060
+mal 3 mal 3 mal 3 mal 2 mal 2 für die
+
+638
+00:27:10,060 --> 00:27:14,680
+324. Das ist 3 hoch 4 mal 2 hoch 2.
+
+639
+00:27:15,920 --> 00:27:18,800
+Wir wählen jetzt die Faktoren in
+
+640
+00:27:18,800 --> 00:27:21,700
+ihrer höchsten Potenz aus. Das heißt,
+
+641
+00:27:21,880 --> 00:27:23,380
+wir fangen hier wieder links an,
+
+642
+00:27:23,420 --> 00:27:24,440
+deswegen ist es auch hierbei so
+
+643
+00:27:24,440 --> 00:27:26,100
+wichtig, dass es sortiert ist, also
+
+644
+00:27:26,100 --> 00:27:28,460
+dem Wert nach absteigend. Wir haben
+
+645
+00:27:28,460 --> 00:27:31,240
+als höchste Potenz einmal 11 hoch 1,
+
+646
+00:27:31,360 --> 00:27:34,060
+wenn wir so wollen. Danach kommt 5
+
+647
+00:27:34,060 --> 00:27:37,440
+hoch 1. Dann haben wir hier 3. Hier
+
+648
+00:27:37,440 --> 00:27:40,240
+haben wir 3 hoch 4. Wir nehmen die
+
+649
+00:27:40,240 --> 00:27:42,160
+höchste Potenz, daher nehmen wir 3
+
+650
+00:27:42,160 --> 00:27:45,040
+hoch 4. Dann gehen wir weiter, haben
+
+651
+00:27:45,040 --> 00:27:46,660
+wir hier eine 2 und da haben wir auch
+
+652
+00:27:46,660 --> 00:27:49,540
+2 hoch 2. Auch hier nehmen wir die
+
+653
+00:27:49,540 --> 00:27:54,560
+höchste Potenz, also 2 hoch 2. Das
+
+654
+00:27:54,560 --> 00:27:56,580
+kleinste gemeinsame Vielfache ist
+
+655
+00:27:56,580 --> 00:27:59,840
+dann 11 mal 5 mal 3 hoch 4 mal 2 hoch
+
+656
+00:27:59,840 --> 00:28:04,800
+2 und das ist dann 17.820. Folglich
+
+657
+00:28:04,800 --> 00:28:05,940
+können wir sagen, das kleinste
+
+658
+00:28:05,940 --> 00:28:09,180
+gemeinsame Vielfache von 330 und 324
+
+659
+00:28:09,180 --> 00:28:14,720
+ist 17.820. Und damit wären wir auch
+
+660
+00:28:14,720 --> 00:28:16,680
+schon am Ende des Webinars. Ich
+
+661
+00:28:16,680 --> 00:28:18,180
+bedanke mich recht herzlich für eure
+
+662
+00:28:18,180 --> 00:28:18,920
+Aufmerksamkeit.
+

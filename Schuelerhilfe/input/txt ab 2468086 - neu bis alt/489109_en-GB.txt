@@ -1,0 +1,508 @@
+﻿1
+00:00:00,110 --> 00:00:01,690
+Hello, welcome to 
+
+2
+00:00:01,690 --> 00:00:03,870
+another learning video from Schülerhilfe. 
+
+3
+00:00:04,010 --> 00:00:05,830
+Today I would like to 
+
+4
+00:00:05,830 --> 00:00:07,430
+
+5
+00:00:07,430 --> 00:00:09,290
+introduce you to a very important Latin 
+verse meter , the lactilian 
+
+6
+00:00:09,290 --> 00:00:13,110
+hexameter. It is very important for you 
+
+7
+00:00:13,110 --> 00:00:14,950
+to know that Latin 
+
+8
+00:00:14,950 --> 00:00:16,650
+poetry, in contrast to German poetry 
+
+9
+00:00:17,390 --> 00:00:20,790
+, is based on the fact that a regular 
+
+10
+00:00:20,790 --> 00:00:22,530
+rhythm is created by a 
+
+11
+00:00:22,530 --> 00:00:25,090
+certain fixed sequence of 
+
+12
+00:00:25,090 --> 00:00:30,670
+lengths and contractions. In German, 
+
+13
+00:00:30,670 --> 00:00:32,250
+we would rather 
+
+14
+00:00:32,250 --> 00:00:34,870
+work with stressed and unstressed 
+syllables. And it is precisely 
+
+15
+00:00:34,870 --> 00:00:37,650
+this sequence that is determined by 
+
+16
+00:00:37,650 --> 00:00:40,910
+the so-called meter, the measure. 
+
+17
+00:00:40,930 --> 00:00:42,210
+You may be familiar with 
+
+18
+00:00:42,210 --> 00:00:44,750
+iambus, trocheus, 
+
+19
+00:00:44,890 --> 00:00:46,530
+dactylus and anapest from your German 
+lessons. 
+
+20
+00:00:49,270 --> 00:00:50,890
+Let's take a 
+
+21
+00:00:50,890 --> 00:00:53,070
+closer look at the name dactylic hexameter 
+
+22
+00:00:53,070 --> 00:00:56,950
+and where it comes from. The word dactylus 
+
+23
+00:00:56,950 --> 00:01:00,070
+actually comes from the Greek 
+
+24
+00:01:00,070 --> 00:01:00,590
+and has a kind of dactyl meaning 
+
+25
+00:01:00,590 --> 00:01:02,630
+finger . And now you 
+
+26
+00:01:02,630 --> 00:01:03,890
+might be asking yourself , what does a 
+finger have to do with 
+
+27
+00:01:03,890 --> 00:01:06,750
+poetry? Yes, let's take 
+
+28
+00:01:06,750 --> 00:01:08,210
+a look at this 
+
+29
+00:01:08,210 --> 00:01:11,650
+finger of a skeleton that I 
+
+30
+00:01:11,650 --> 00:01:14,230
+have drawn for you. You can see that 
+
+31
+00:01:14,230 --> 00:01:19,170
+the lower bone is long and the 
+
+32
+00:01:19,170 --> 00:01:23,210
+two following bones are short. 
+
+33
+00:01:24,030 --> 00:01:26,990
+And that's what actually 
+
+34
+00:01:26,990 --> 00:01:29,910
+makes a dactylus a meter. 
+
+35
+00:01:32,010 --> 00:01:36,970
+We have a length first. 
+
+36
+00:01:36,970 --> 00:01:38,770
+So you see, we mark lengths 
+
+37
+00:01:38,770 --> 00:01:41,990
+with this line over the vowel 
+
+38
+00:01:41,990 --> 00:01:44,790
+or over the syllable and then 
+
+39
+00:01:44,790 --> 00:01:51,750
+1 or 2 shortenings follow. And you can 
+also see that we 
+
+40
+00:01:51,750 --> 00:01:54,010
+mark shortening with this semicircle 
+
+41
+00:01:54,010 --> 00:01:57,430
+above the syllable, i.e. above the vowel 
+
+42
+00:01:57,430 --> 00:02:01,410
+of the short. And finally, we have 
+
+43
+00:02:01,410 --> 00:02:03,530
+a third sign, 
+
+44
+00:02:03,530 --> 00:02:06,350
+this accent, which always indicates 
+
+45
+00:02:06,490 --> 00:02:09,690
+that this syllable is stressed. 
+
+46
+00:02:09,690 --> 00:02:11,190
+This means that the dactyl 
+
+47
+00:02:11,190 --> 00:02:13,330
+does not only consist of a long, short, 
+
+48
+00:02:13,330 --> 00:02:14,670
+short syllable, but the first 
+
+49
+00:02:14,670 --> 00:02:16,170
+syllable, the length, is also 
+
+50
+00:02:16,170 --> 00:02:19,110
+stressed. Then we come to the 
+
+51
+00:02:19,110 --> 00:02:21,850
+hexameter. The word hexa 
+
+52
+00:02:21,850 --> 00:02:26,430
+comes from the Greek and means 6, and 
+
+53
+00:02:26,430 --> 00:02:33,380
+meta is the measure. So in 
+
+54
+00:02:33,380 --> 00:02:37,900
+dactylic hexameter we have a verse 
+measure, 
+
+55
+00:02:37,900 --> 00:02:41,060
+a verse that consists of six 
+
+56
+00:02:41,060 --> 00:02:47,430
+hexadactyls. I have 
+
+57
+00:02:47,430 --> 00:02:51,050
+shown you here what a 
+
+58
+00:02:51,050 --> 00:02:52,890
+dactylic hexameter 
+
+59
+00:02:52,890 --> 00:02:59,090
+looks like in row form. We would have 1, 
+2, 3, 4, 
+
+60
+00:02:59,430 --> 00:03:05,190
+5, 6 dactyls. If you now take a 
+
+61
+00:03:05,190 --> 00:03:09,430
+look at the last verse 
+
+62
+00:03:09,430 --> 00:03:11,710
+, you will of course notice that 
+
+63
+00:03:11,710 --> 00:03:13,990
+a syllable is somehow missing here. What 
+
+64
+00:03:13,990 --> 00:03:16,270
+happened there? Something very typically 
+
+65
+00:03:16,270 --> 00:03:19,270
+Latin. The last verse foot of 
+
+66
+00:03:19,270 --> 00:03:21,710
+a Latin verse is often shortened by 
+
+67
+00:03:21,710 --> 00:03:24,890
+one syllable. This phenomenon, 
+
+68
+00:03:25,010 --> 00:03:26,770
+this shortening, is also called 
+
+69
+00:03:26,770 --> 00:03:28,710
+catalexis. We 
+
+70
+00:03:31,080 --> 00:03:34,960
+say that the last foot of the verse is 
+
+71
+00:03:34,960 --> 00:03:38,100
+catalectic. And this X, which 
+
+72
+00:03:38,100 --> 00:03:40,140
+has not yet been encountered 
+
+73
+00:03:40,140 --> 00:03:43,640
+, is a so-called syllaba ankeps. 
+
+74
+00:03:44,160 --> 00:03:46,560
+Ankeps means double-headed, 
+
+75
+00:03:46,680 --> 00:03:50,580
+two-faced, double German, and 
+
+76
+00:03:50,580 --> 00:03:52,340
+like the god Janus, who also 
+
+77
+00:03:52,340 --> 00:03:54,360
+has two faces, this 
+
+78
+00:03:54,360 --> 00:04:00,320
+syllable on Caps can 
+
+79
+00:04:00,320 --> 00:04:05,350
+be either long or short. Now of course it 
+would be 
+
+80
+00:04:05,350 --> 00:04:07,190
+very boring if I 
+
+81
+00:04:07,190 --> 00:04:09,530
+only 
+
+82
+00:04:09,530 --> 00:04:11,410
+had this hexameter scheme all the time and 
+of course I would also have 
+
+83
+00:04:11,410 --> 00:04:13,310
+a problem, how am I supposed to 
+
+84
+00:04:13,310 --> 00:04:15,190
+find words that correspond exactly to it? 
+
+85
+00:04:15,190 --> 00:04:17,110
+Long, short, short, long, short, short. 
+
+86
+00:04:17,470 --> 00:04:20,330
+That's why there are variations. 
+
+87
+00:04:20,330 --> 00:04:21,510
+I'll show you a few of them. 
+
+88
+00:04:22,550 --> 00:04:24,810
+First, let's look at the 
+
+89
+00:04:24,810 --> 00:04:26,490
+hexameter in row form. Das wäre 
+
+90
+00:04:26,490 --> 00:04:31,050
+quasi ein Bau-Baba-Bau-Baba-Bau-Baba 
+
+91
+00:04:31,050 --> 00:04:35,070
+-Bau-Baba-Bau-Baba-Bau-Bu-Bu 
+
+92
+00:04:35,070 --> 00:04:38,910
+-Söllerwagen-Kips. Or the variant 
+
+93
+00:04:38,910 --> 00:04:45,110
+
+94
+00:04:45,110 --> 00:04:49,690
+Bau-Baba-Baba-Bau-Bau-Bau-Bau-Baba-Bau-Baba-Bau-Bu. 
+Or another 
+
+95
+00:04:49,690 --> 00:04:50,250
+variant. 
+
+96
+00:05:00,170 --> 00:05:03,770
+What do we notice? 
+
+97
+00:05:03,770 --> 00:05:07,970
+We have a double short here and 
+
+98
+00:05:07,970 --> 00:05:12,850
+a long in the following verse. Similarly 
+here 
+
+99
+00:05:12,850 --> 00:05:16,910
+double short and here one long. 
+
+100
+00:05:16,930 --> 00:05:19,470
+Length. So what has happened? 
+
+101
+00:05:20,210 --> 00:05:22,310
+In fact, every now and then we can 
+
+102
+00:05:22,310 --> 00:05:25,530
+replace a double short with a 
+
+103
+00:05:25,530 --> 00:05:29,130
+long. You see here again, this 
+
+104
+00:05:29,130 --> 00:05:34,090
+is our dactyl and yes, because every 
+
+105
+00:05:34,090 --> 00:05:36,190
+thing likes to have a name, 
+
+106
+00:05:36,190 --> 00:05:39,690
+we call this meter two lengths, first 
+
+107
+00:05:39,690 --> 00:05:42,330
+emphasized, a spondius. 
+
+108
+00:05:46,670 --> 00:05:49,690
+What's important, however, is that you'll 
+notice this 
+
+109
+00:05:49,690 --> 00:05:50,890
+if you take a 
+
+110
+00:05:50,890 --> 00:05:53,330
+look at the penultimate verse foot 
+
+111
+00:05:53,330 --> 00:05:55,290
+, the fifth 
+
+112
+00:05:55,290 --> 00:05:58,690
+verse foot. There we have 
+
+113
+00:05:58,690 --> 00:06:02,550
+our dactylus consistently everywhere. This 
+is because, as 
+
+114
+00:06:02,550 --> 00:06:06,170
+
+115
+00:06:06,170 --> 00:06:07,730
+a rule, the 
+
+116
+00:06:07,730 --> 00:06:10,030
+basic meter 
+
+117
+00:06:10,030 --> 00:06:12,790
+is preserved in its pure form in the 
+penultimate verse foot of a verse . So 
+here is the dactyl. 
+
+118
+00:06:12,930 --> 00:06:16,790
+Long, short, short. That was the first 
+
+119
+00:06:16,790 --> 00:06:18,030
+part of our introduction to the 
+
+120
+00:06:18,030 --> 00:06:20,850
+hexamite. In the second part, I will 
+
+121
+00:06:20,850 --> 00:06:23,130
+explain to you when syllables 
+
+122
+00:06:23,130 --> 00:06:26,750
+are actually long. And 
+
+123
+00:06:26,750 --> 00:06:28,330
+
+124
+00:06:28,330 --> 00:06:31,510
+illustrate the whole thing with a 
+practical example. Well, see you then. 
+Bye. 

@@ -1,0 +1,586 @@
+﻿1
+00:00:04,080 --> 00:00:05,900
+Hello, my name is Paula and I 
+
+2
+00:00:05,900 --> 00:00:07,160
+am a tutor 
+
+3
+00:00:07,160 --> 00:00:09,660
+at Schülerhilfe. Today I would like to 
+explain 
+
+4
+00:00:09,660 --> 00:00:10,800
+something about the different 
+
+5
+00:00:10,800 --> 00:00:12,020
+classes of 
+
+6
+00:00:12,020 --> 00:00:14,380
+hydrocarbon compounds. 
+
+7
+00:00:14,380 --> 00:00:16,160
+In our online learning center you will 
+
+8
+00:00:16,160 --> 00:00:17,760
+of course also find a 
+
+9
+00:00:17,760 --> 00:00:19,600
+wiki on this topic , in which the 
+
+10
+00:00:19,600 --> 00:00:21,180
+basic and important terms 
+
+11
+00:00:21,180 --> 00:00:24,240
+are explained in more detail. We are all 
+
+12
+00:00:24,240 --> 00:00:25,500
+familiar with 
+
+13
+00:00:25,500 --> 00:00:26,600
+words that sound similar but have 
+completely 
+
+14
+00:00:26,600 --> 00:00:28,980
+different meanings. 
+
+15
+00:00:28,980 --> 00:00:31,860
+For example, model and model or circle 
+
+16
+00:00:31,860 --> 00:00:34,640
+and old man. The equivalents in chemistry 
+
+17
+00:00:34,640 --> 00:00:37,420
+would be ethane, ethene and 
+
+18
+00:00:37,460 --> 00:00:40,440
+ethyne , for example. All three are 
+
+19
+00:00:40,440 --> 00:00:42,000
+hydrocarbons with similar 
+
+20
+00:00:42,000 --> 00:00:44,280
+names and molecular formulas 
+
+21
+00:00:44,280 --> 00:00:45,780
+, but with 
+
+22
+00:00:45,780 --> 00:00:49,280
+different properties. 
+
+23
+00:00:49,280 --> 00:00:51,660
+
+24
+00:00:51,740 --> 00:00:53,880
+However, the naming, i.e. ending in an, en 
+or in, follows a fixed 
+
+25
+00:00:53,880 --> 00:00:55,400
+principle, which 
+
+26
+00:00:55,400 --> 00:00:57,140
+fortunately 
+
+27
+00:00:57,140 --> 00:00:59,440
+simplifies the whole thing somewhat. 
+However, before I go into this 
+
+28
+00:00:59,440 --> 00:01:01,240
+in more detail, I would like to 
+
+29
+00:01:01,240 --> 00:01:02,560
+
+30
+00:01:02,560 --> 00:01:04,600
+go through the basics with you. Firstly 
+
+31
+00:01:04,640 --> 00:01:06,320
+, hydrocarbons are organic 
+
+32
+00:01:06,320 --> 00:01:08,340
+substances that are made up exclusively of 
+C 
+
+33
+00:01:08,340 --> 00:01:11,420
+ and H atoms. Secondly 
+
+34
+00:01:11,420 --> 00:01:12,780
+, they have the general 
+
+35
+00:01:12,780 --> 00:01:16,420
+molecular formula CMH0. Thirdly 
+
+36
+00:01:16,420 --> 00:01:17,960
+, there are different categories of 
+
+37
+00:01:17,960 --> 00:01:21,140
+hydrocarbons. Now to the 
+
+38
+00:01:21,140 --> 00:01:24,060
+categories. Firstly, a distinction is made 
+
+39
+00:01:24,060 --> 00:01:25,660
+between aliphatic and 
+
+40
+00:01:25,660 --> 00:01:27,540
+aromatic hydrocarbons. 
+
+41
+00:01:28,580 --> 00:01:30,700
+Aromatic hydrocarbons 
+
+42
+00:01:30,700 --> 00:01:32,380
+are characterized by the fact that they 
+
+43
+00:01:32,380 --> 00:01:34,140
+have at least one specific ring structure. 
+
+44
+00:01:35,060 --> 00:01:36,840
+This in turn is characterized by the fact 
+
+45
+00:01:36,840 --> 00:01:38,220
+that it is no longer possible to 
+
+46
+00:01:38,220 --> 00:01:40,080
+determine exactly where the single 
+
+47
+00:01:40,080 --> 00:01:41,340
+and where the double bonds are 
+
+48
+00:01:41,340 --> 00:01:43,040
+located, which is why they are 
+
+49
+00:01:43,040 --> 00:01:44,580
+
+50
+00:01:44,580 --> 00:01:47,160
+referred to as delocalized double bonds. 
+This is shown in the 
+
+51
+00:01:47,160 --> 00:01:49,380
+structural formula as an inner ring 
+
+52
+00:01:49,380 --> 00:01:53,440
+within C66. 
+
+53
+00:01:53,440 --> 00:01:55,400
+
+54
+00:01:55,400 --> 00:01:58,040
+However, we will not go into this category 
+in detail in this video. In the case of 
+
+55
+00:01:58,040 --> 00:01:59,720
+aliphatic hydrocarbons 
+
+56
+00:01:59,720 --> 00:02:01,320
+, a further 
+
+57
+00:02:01,320 --> 00:02:03,200
+
+58
+00:02:03,200 --> 00:02:05,000
+distinction is made between saturated and 
+unsaturated compounds . 
+
+59
+00:02:05,000 --> 00:02:06,800
+Chains or 
+
+60
+00:02:06,800 --> 00:02:09,740
+rings can occur in both subcategories . 
+Saturated 
+
+61
+00:02:09,740 --> 00:02:11,560
+hydrocarbons are called alkanes. 
+
+62
+00:02:12,160 --> 00:02:14,420
+They are characterized by the fact that 
+
+63
+00:02:14,420 --> 00:02:16,580
+each C atom within the molecule 
+
+64
+00:02:16,580 --> 00:02:18,400
+
+65
+00:02:18,400 --> 00:02:20,660
+forms bonds with four other atoms . Here 
+is 
+
+66
+00:02:20,660 --> 00:02:22,500
+a table of the first four alkanes to 
+illustrate this. 
+
+67
+00:02:24,400 --> 00:02:26,320
+Generally speaking, the 
+
+68
+00:02:26,320 --> 00:02:29,040
+names end in an and the general 
+
+69
+00:02:29,040 --> 00:02:34,120
+molecular formula is cnH2n plus 2. Those 
+
+70
+00:02:34,120 --> 00:02:35,160
+were the saturated 
+
+71
+00:02:35,160 --> 00:02:37,260
+hydrocarbons. Now we come 
+
+72
+00:02:37,260 --> 00:02:38,220
+to the unsaturated 
+
+73
+00:02:38,220 --> 00:02:40,440
+hydrocarbons, alkenes and 
+
+74
+00:02:40,440 --> 00:02:43,220
+alkynes. Alkenes have C 
+
+75
+00:02:43,220 --> 00:02:45,800
+ double bonds. Accordingly, 
+
+76
+00:02:45,800 --> 00:02:47,860
+the first alkene already consists of 
+
+77
+00:02:47,860 --> 00:02:51,220
+two C atoms. It is called ethene. An 
+
+78
+00:02:51,220 --> 00:02:53,740
+alkene with three C atoms is called 
+propene. 
+
+79
+00:02:54,340 --> 00:02:57,000
+So far so good. From four C atoms upwards 
+
+80
+00:02:57,000 --> 00:02:58,040
+, however, things get a little 
+
+81
+00:02:58,040 --> 00:03:00,100
+more complicated. If the 
+
+82
+00:03:00,100 --> 00:03:02,320
+double bond is between the first and 
+
+83
+00:03:02,320 --> 00:03:04,560
+second C atoms, it is called a butene. 
+
+84
+00:03:05,320 --> 00:03:07,460
+In this case, the molecule can only 
+
+85
+00:03:07,460 --> 00:03:09,940
+be constructed in one way. 
+
+86
+00:03:09,940 --> 00:03:11,080
+However, if the double bond is located 
+
+87
+00:03:11,080 --> 00:03:13,000
+between the second and third C 
+
+88
+00:03:13,000 --> 00:03:14,940
+ atoms, two different 
+
+89
+00:03:14,940 --> 00:03:17,560
+molecular forms are possible. The 
+so-called 
+
+90
+00:03:17,560 --> 00:03:18,940
+cis-form, in which the 
+
+91
+00:03:18,940 --> 00:03:21,100
+methyl groups are on the same side 
+
+92
+00:03:21,100 --> 00:03:23,420
+, and the transform, in which 
+
+93
+00:03:23,420 --> 00:03:24,860
+the methyl groups are on 
+
+94
+00:03:24,860 --> 00:03:26,180
+different sides. 
+
+95
+00:03:27,180 --> 00:03:29,820
+In general, alkenes have one C 
+
+96
+00:03:29,820 --> 00:03:31,980
+ double bond. However, if 
+
+97
+00:03:31,980 --> 00:03:34,060
+there are several double bonds, they are 
+referred 
+
+98
+00:03:34,060 --> 00:03:36,860
+to as polyenes. The names of 
+
+99
+00:03:36,860 --> 00:03:38,480
+unsaturated hydrocarbons 
+
+100
+00:03:38,480 --> 00:03:42,100
+therefore all end in "-en". The 
+
+101
+00:03:42,100 --> 00:03:45,620
+general molecular formula is CnH2n. 
+
+102
+00:03:46,040 --> 00:03:48,060
+
+103
+00:03:48,060 --> 00:03:50,920
+There is no general structural formula. 
+Alkynes have C 
+
+104
+00:03:50,920 --> 00:03:52,980
+ triple bonds. The shortest 
+
+105
+00:03:52,980 --> 00:03:56,260
+alkyne is ethyne. It is followed by 
+propyne 
+
+106
+00:03:56,260 --> 00:03:59,860
+and a butyne. In general, alkynes 
+
+107
+00:03:59,860 --> 00:04:02,260
+have one C triple bond; if 
+
+108
+00:04:02,260 --> 00:04:03,960
+there are several triple bonds, they 
+
+109
+00:04:04,060 --> 00:04:06,620
+are referred to as polyynes. The names 
+
+110
+00:04:06,620 --> 00:04:08,980
+end in "-in". The general 
+
+111
+00:04:08,980 --> 00:04:13,720
+molecular formula is "-cnH2n-2". 
+
+112
+00:04:13,720 --> 00:04:15,820
+
+113
+00:04:15,820 --> 00:04:18,320
+There is no general structural formula 
+here either. Let us 
+
+114
+00:04:18,320 --> 00:04:20,160
+briefly summarize once again . There 
+
+115
+00:04:20,160 --> 00:04:22,020
+are aromatic and aliphatic 
+
+116
+00:04:22,020 --> 00:04:24,340
+hydrocarbons. In the case of 
+
+117
+00:04:24,340 --> 00:04:26,120
+aliphatic hydrocarbons , 
+
+118
+00:04:26,120 --> 00:04:27,320
+a distinction is made 
+
+119
+00:04:27,320 --> 00:04:28,980
+between saturated and unsaturated 
+
+120
+00:04:28,980 --> 00:04:31,200
+compounds. Saturated 
+
+121
+00:04:31,200 --> 00:04:33,680
+hydrocarbons are alkanes. Their 
+
+122
+00:04:33,680 --> 00:04:36,660
+names end in an. The general 
+
+123
+00:04:36,660 --> 00:04:41,300
+molecular formula is cnH2n plus 2. 
+
+124
+00:04:41,300 --> 00:04:43,060
+Unsaturated hydrocarbons 
+
+125
+00:04:43,060 --> 00:04:45,660
+include alkenes. The names 
+
+126
+00:04:45,660 --> 00:04:48,620
+of alkenes always end in en. They 
+
+127
+00:04:48,620 --> 00:04:50,620
+have C double bonds and if 
+
+128
+00:04:50,620 --> 00:04:52,620
+only one is present, the 
+
+129
+00:04:52,620 --> 00:04:56,140
+general molecular formula is cnH2n. 
+
+130
+00:04:56,140 --> 00:04:58,180
+There are also alkynes. The 
+
+131
+00:04:58,180 --> 00:05:00,000
+names of alkynes always end 
+
+132
+00:05:00,000 --> 00:05:02,080
+ in "-in". They have C 
+
+133
+00:05:02,080 --> 00:05:04,320
+ triple bonds and if only one is present 
+
+134
+00:05:04,320 --> 00:05:06,220
+, 
+
+135
+00:05:06,220 --> 00:05:11,180
+the general molecular formula is CnH2n-2. 
+I hope that 
+
+136
+00:05:11,180 --> 00:05:12,860
+you now have a better understanding of 
+
+137
+00:05:12,860 --> 00:05:14,320
+the different classes of 
+
+138
+00:05:14,320 --> 00:05:16,060
+hydrocarbon compounds. 
+
+139
+00:05:16,440 --> 00:05:18,240
+If you have any further questions about 
+this or 
+
+140
+00:05:18,240 --> 00:05:20,060
+other topics, please feel free to use 
+
+141
+00:05:20,060 --> 00:05:22,280
+our other learning content in the online 
+
+142
+00:05:22,280 --> 00:05:24,300
+ learning center or contact your 
+
+143
+00:05:24,300 --> 00:05:26,140
+local student help center. 
+
+144
+00:05:26,140 --> 00:05:26,680
+See you next time. 

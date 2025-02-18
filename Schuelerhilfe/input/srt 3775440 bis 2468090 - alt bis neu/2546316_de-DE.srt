@@ -1,0 +1,2168 @@
+1
+00:00:00,880 --> 00:00:02,760
+Hallo und herzlich willkommen zum
+
+2
+00:00:02,760 --> 00:00:05,260
+Webinar der Schülerhilfe. Wir
+
+3
+00:00:05,260 --> 00:00:07,160
+beschäftigen uns heute mit dem
+
+4
+00:00:07,160 --> 00:00:09,300
+Textverständnis, das heißt mit dem
+
+5
+00:00:09,300 --> 00:00:11,800
+richtigen Umgang mit Texten. Dazu
+
+6
+00:00:11,800 --> 00:00:13,160
+schauen wir uns unterschiedliche
+
+7
+00:00:13,160 --> 00:00:16,320
+Texte an, und zwar zuerst Sachtexte,
+
+8
+00:00:16,320 --> 00:00:18,060
+also nicht-fiktionale Texte,
+
+9
+00:00:18,060 --> 00:00:19,860
+Geschichten erzählende Texte, also
+
+10
+00:00:19,860 --> 00:00:24,280
+Prosa, Gedichte, Dialoge und Szenen,
+
+11
+00:00:24,280 --> 00:00:25,460
+und werden uns abschließend mit
+
+12
+00:00:25,460 --> 00:00:27,640
+Märchen und Fadeln beschäftigen. Das
+
+13
+00:00:27,640 --> 00:00:30,820
+heißt, wir unterscheiden grob in
+
+14
+00:00:30,820 --> 00:00:32,360
+fiktionale und nicht-fiktionale
+
+15
+00:00:32,360 --> 00:00:34,420
+Texte. Wir sehen also Sachtexte als
+
+16
+00:00:34,420 --> 00:00:37,300
+nicht-fiktionale, also als reale
+
+17
+00:00:37,300 --> 00:00:39,340
+Texte an, diese, die sich mit der
+
+18
+00:00:39,340 --> 00:00:40,880
+Wirklichkeit beschäftigen und
+
+19
+00:00:40,880 --> 00:00:42,960
+fiktionale Texte, die sich zwar mit
+
+20
+00:00:42,960 --> 00:00:46,220
+einer Wirklichkeit beschäftigen
+
+21
+00:00:46,220 --> 00:00:47,600
+können, dabei muss aber das
+
+22
+00:00:47,600 --> 00:00:49,400
+fiktionale Berlin nicht das
+
+23
+00:00:49,400 --> 00:00:52,380
+originalgetreue, jetzige, aktuelle
+
+24
+00:00:52,380 --> 00:00:54,460
+Berlin sein oder das
+
+25
+00:00:54,460 --> 00:00:56,000
+geschichtshistorische Berlin, sondern
+
+26
+00:00:56,000 --> 00:00:58,420
+es kann von der Realität und der
+
+27
+00:00:58,420 --> 00:01:00,380
+allgemeinen Wahrheit etwas abweichen.
+
+28
+00:01:00,440 --> 00:01:03,220
+Das heißt, es gibt einerseits die
+
+29
+00:01:03,220 --> 00:01:05,180
+Unterscheidung zwischen realen Texten
+
+30
+00:01:05,180 --> 00:01:06,900
+und einerseits zwischen erfundenen
+
+31
+00:01:06,900 --> 00:01:09,140
+Texten. Sachtexte gehören zu den
+
+32
+00:01:09,140 --> 00:01:11,540
+nicht fiktionalen Texten. Sie sind
+
+33
+00:01:11,540 --> 00:01:13,520
+nämlich Gebrauchstexte. Das heißt,
+
+34
+00:01:13,700 --> 00:01:15,720
+sie sind allgemein zur
+
+35
+00:01:15,720 --> 00:01:18,660
+Informationsbildung da. Zum Beispiel
+
+36
+00:01:18,660 --> 00:01:20,000
+Zeitungsartikel oder
+
+37
+00:01:20,000 --> 00:01:22,240
+Gebrauchsanweisungen. Ihre Merkmale
+
+38
+00:01:22,240 --> 00:01:24,480
+sind es, dass sie Informationen zu
+
+39
+00:01:24,480 --> 00:01:26,360
+den verschiedensten Fakten und Dingen
+
+40
+00:01:26,360 --> 00:01:28,180
+liefern. Dabei haben sie eine hohe
+
+41
+00:01:28,180 --> 00:01:29,800
+Alltagspräsenz, wie zum Beispiel
+
+42
+00:01:29,800 --> 00:01:31,260
+gerade Berichterstattungen,
+
+43
+00:01:31,400 --> 00:01:35,440
+Zeitungsartikel oder Beiträge. Sie
+
+44
+00:01:35,440 --> 00:01:37,260
+sind daran orientiert, eine möglichst
+
+45
+00:01:37,260 --> 00:01:39,580
+wahrheitsgemäße Schilderung von
+
+46
+00:01:39,580 --> 00:01:41,380
+Handlungen und Vorgängen möglichst
+
+47
+00:01:41,380 --> 00:01:44,360
+objektiv, das heißt losgelöst von
+
+48
+00:01:44,360 --> 00:01:46,220
+eigener Empfindung zu schildern.
+
+49
+00:01:46,360 --> 00:01:47,980
+Dabei ist es, wie gesagt, sehr
+
+50
+00:01:47,980 --> 00:01:49,620
+wichtig, die eigene Meinung
+
+51
+00:01:49,620 --> 00:01:51,100
+hinzuzufügen. hinten anzustellen, das
+
+52
+00:01:51,100 --> 00:01:53,000
+heißt, möglichst ganz außen
+
+53
+00:01:53,000 --> 00:01:55,720
+vorzulassen. Man berichtet meistens
+
+54
+00:01:55,720 --> 00:01:57,860
+in der Mann-oder-Du- bzw. Sie
+
+55
+00:01:57,860 --> 00:01:59,220
+-Perspektive, das heißt, man
+
+56
+00:01:59,220 --> 00:02:00,900
+beschäftigt sich nicht mit dem Ich,
+
+57
+00:02:01,020 --> 00:02:02,960
+sondern mit einer dritten entfernten
+
+58
+00:02:02,960 --> 00:02:07,260
+Person, geschuldet dadurch, dass man
+
+59
+00:02:07,260 --> 00:02:08,920
+Informationen über eine hohe
+
+60
+00:02:08,920 --> 00:02:10,560
+Alltagspräsenz, also über eine
+
+61
+00:02:10,560 --> 00:02:12,760
+Berichterstattung liefert, wird die
+
+62
+00:02:12,760 --> 00:02:14,980
+Textposition im Präsenz stattfinden.
+
+63
+00:02:16,540 --> 00:02:19,060
+Bei der Auswertung ist es so, dass
+
+64
+00:02:19,060 --> 00:02:20,440
+dass wir Überschriften beachten
+
+65
+00:02:20,440 --> 00:02:22,580
+müssen. Das heißt, wir müssen uns mit
+
+66
+00:02:22,580 --> 00:02:24,020
+dem Thema beschäftigen. Wir müssen
+
+67
+00:02:24,020 --> 00:02:26,340
+uns grundsätzlich immer im Klaren
+
+68
+00:02:26,340 --> 00:02:28,620
+sein, worum geht es eigentlich. Und
+
+69
+00:02:28,620 --> 00:02:31,040
+die Überschriften sind dazu nützlich,
+
+70
+00:02:31,100 --> 00:02:33,680
+uns die einzelnen Textpassagen
+
+71
+00:02:33,680 --> 00:02:37,920
+aufzuzeigen und im Grunde genommen
+
+72
+00:02:37,920 --> 00:02:39,580
+uns zu zeigen, in welchem
+
+73
+00:02:39,580 --> 00:02:41,220
+Themenabschnitt wir uns gerade
+
+74
+00:02:41,220 --> 00:02:42,580
+beschäftigen. Das heißt, wir haben
+
+75
+00:02:42,580 --> 00:02:46,280
+ein Oberthema mit einer oberen
+
+76
+00:02:46,280 --> 00:02:47,980
+Überschrift und haben dann einzelne
+
+77
+00:02:47,980 --> 00:02:50,620
+kleine Sinnabschnitte, die meistens
+
+78
+00:02:50,620 --> 00:02:52,120
+auch mit Überschriften versehen
+
+79
+00:02:52,120 --> 00:02:53,960
+werden, da sie uns zeigen, welche
+
+80
+00:02:53,960 --> 00:02:55,800
+Unterpunkte dieses Themas gerade
+
+81
+00:02:55,800 --> 00:02:57,840
+beleuchtet werden. Das dient
+
+82
+00:02:57,840 --> 00:03:01,220
+natürlich einerseits der Orientierung
+
+83
+00:03:01,220 --> 00:03:02,760
+und andererseits auch der klaren
+
+84
+00:03:02,760 --> 00:03:04,360
+Informationsbildung. Das heißt,
+
+85
+00:03:04,480 --> 00:03:08,480
+klargeordnete Fakten zeigen eine klar
+
+86
+00:03:08,480 --> 00:03:10,000
+sortierte und seriöse, also
+
+87
+00:03:10,000 --> 00:03:12,360
+ernsthafte Berichterstattung. Bei der
+
+88
+00:03:12,360 --> 00:03:13,980
+Auswertung von Sachtexten ist es
+
+89
+00:03:13,980 --> 00:03:15,760
+wichtig, mehrmals zu lesen. Das
+
+90
+00:03:15,760 --> 00:03:17,800
+heißt, sich zuerst einen Eindruck
+
+91
+00:03:17,800 --> 00:03:19,960
+über das Thema zu machen, unbekannte
+
+92
+00:03:19,960 --> 00:03:22,120
+Fachbegriffe nachzuschlagen, beim
+
+93
+00:03:22,120 --> 00:03:24,840
+Zweitlesen die einzelnen Texte,
+
+94
+00:03:24,840 --> 00:03:26,120
+sofern nicht vorhanden, in
+
+95
+00:03:26,120 --> 00:03:28,000
+Sinnabschnitte zu teilen und diesen
+
+96
+00:03:28,000 --> 00:03:29,280
+Sinnabschnitten eben auch
+
+97
+00:03:29,280 --> 00:03:31,140
+zusammenhängende Überschriften zu
+
+98
+00:03:31,140 --> 00:03:32,720
+geben, sofern diese nicht vorhanden
+
+99
+00:03:32,720 --> 00:03:34,360
+sind. Das heißt, das, was wir gerade
+
+100
+00:03:34,360 --> 00:03:35,900
+bei der Überschrift genannt haben,
+
+101
+00:03:36,000 --> 00:03:37,760
+können wir auch selbst anfertigen,
+
+102
+00:03:37,760 --> 00:03:42,380
+indem wir den Text in einzelne kleine
+
+103
+00:03:42,380 --> 00:03:44,760
+Sinnabschnitte einzahlen und diese
+
+104
+00:03:44,760 --> 00:03:46,600
+mit einzelnen kleinen Überschriften
+
+105
+00:03:46,600 --> 00:03:48,300
+versehen, sodass wir die
+
+106
+00:03:48,300 --> 00:03:50,260
+Informationen klar sortieren können.
+
+107
+00:03:50,400 --> 00:03:51,940
+Wir sollten auf Schlüsselwörter
+
+108
+00:03:51,940 --> 00:03:55,600
+achten und, sofern die Zeit besteht,
+
+109
+00:03:55,760 --> 00:03:57,640
+auch eine Mindmap dazu anfertigen,
+
+110
+00:03:57,700 --> 00:03:58,980
+indem wir einzelne kleine
+
+111
+00:03:58,980 --> 00:04:00,100
+Themenabschnitte miteinander
+
+112
+00:04:00,100 --> 00:04:04,040
+verknüpfen. Erzählende Texte, also
+
+113
+00:04:04,040 --> 00:04:06,580
+Prosa nachzuerzählen, ist insofern
+
+114
+00:04:06,580 --> 00:04:08,240
+wichtig, dass wir, wie wir schon
+
+115
+00:04:08,240 --> 00:04:12,480
+sagten, uns hier mit fiktionalen
+
+116
+00:04:12,480 --> 00:04:13,920
+Texten, also erfundenen Texten
+
+117
+00:04:13,920 --> 00:04:15,640
+arbeiten. Das heißt, bei der Vor- und
+
+118
+00:04:15,640 --> 00:04:19,080
+Nacherzählung ist es wichtig, diesen
+
+119
+00:04:19,080 --> 00:04:21,280
+Text zu verstehen, die wichtigsten
+
+120
+00:04:21,280 --> 00:04:23,380
+Stellen zu unterstreichen. Das heißt,
+
+121
+00:04:23,520 --> 00:04:25,600
+klar herauszustellen, wer sind die
+
+122
+00:04:25,600 --> 00:04:27,340
+Figuren, also wer macht was, wo
+
+123
+00:04:27,340 --> 00:04:29,260
+passiert was, wie passiert was und
+
+124
+00:04:29,260 --> 00:04:31,040
+wann passiert was. Was? Damit man
+
+125
+00:04:31,040 --> 00:04:33,300
+sich einzelne kleine Stichpunkte
+
+126
+00:04:33,300 --> 00:04:34,880
+machen kann und einen roten Faden
+
+127
+00:04:34,880 --> 00:04:38,000
+durch die Handlung sich anfertigt,
+
+128
+00:04:38,000 --> 00:04:39,760
+sodass man sich Stichworte zur
+
+129
+00:04:39,760 --> 00:04:41,300
+Handlung anfertigen kann und im
+
+130
+00:04:41,300 --> 00:04:42,620
+Grunde genommen damit die
+
+131
+00:04:42,620 --> 00:04:44,820
+Verlaufsform der Handlung anfertigt.
+
+132
+00:04:44,840 --> 00:04:46,300
+Dazu kann man zum Beispiel auch einen
+
+133
+00:04:46,300 --> 00:04:48,240
+kleinen Zeitstrahl anfertigen, indem
+
+134
+00:04:48,240 --> 00:04:50,240
+man die einzelnen Ereignisse zum
+
+135
+00:04:50,240 --> 00:04:52,140
+Beispiel mit Hilfe von der Nennung
+
+136
+00:04:52,140 --> 00:04:55,980
+von Verben aufschreibt. Also Figuren,
+
+137
+00:04:56,120 --> 00:04:58,640
+Schauplätze und die Stichworte zur
+
+138
+00:04:58,640 --> 00:05:01,220
+Handlung. Das heißt, wer, wo und was.
+
+139
+00:05:02,060 --> 00:05:04,500
+Beim Schreiben ist es wichtig, nur
+
+140
+00:05:04,500 --> 00:05:05,800
+die wichtigsten Passagen
+
+141
+00:05:05,800 --> 00:05:07,340
+nachzuerzählen. Das heißt, wir müssen
+
+142
+00:05:07,340 --> 00:05:09,220
+Wichtiges von Wichtigem, von
+
+143
+00:05:09,220 --> 00:05:11,040
+Unwichtigem trennen. Wir müssen also
+
+144
+00:05:11,040 --> 00:05:12,980
+den Erzählkern herausfinden und uns
+
+145
+00:05:12,980 --> 00:05:14,440
+fragen, worum geht es hier wirklich?
+
+146
+00:05:14,680 --> 00:05:16,540
+Ist es wirklich wichtig, dass
+
+147
+00:05:16,540 --> 00:05:18,420
+Nebeninformationen genannt werden?
+
+148
+00:05:18,420 --> 00:05:21,000
+Sind diese Nebeninformationen für das
+
+149
+00:05:21,000 --> 00:05:22,720
+Ende der Geschichte und für den
+
+150
+00:05:22,720 --> 00:05:24,440
+Fortlauf der Geschichte relevant oder
+
+151
+00:05:24,440 --> 00:05:26,360
+nicht? Eine Nacherzählung muss also
+
+152
+00:05:26,360 --> 00:05:28,380
+immer kürzer als der Ausgangstext
+
+153
+00:05:28,380 --> 00:05:30,900
+sein. Wichtig ist die Wiedergabe in
+
+154
+00:05:30,900 --> 00:05:32,200
+eigenen Worten. Das heißt, wir
+
+155
+00:05:32,200 --> 00:05:34,280
+schreiben den Text nicht ab. Wir
+
+156
+00:05:34,280 --> 00:05:37,580
+dürfen keine ausschmückenden Wörter
+
+157
+00:05:37,580 --> 00:05:38,920
+verwenden. Das heißt, keine
+
+158
+00:05:38,920 --> 00:05:40,640
+Spannungswörter wie plötzlich oder
+
+159
+00:05:40,640 --> 00:05:42,500
+sonstige verwenden, sondern wir
+
+160
+00:05:42,500 --> 00:05:45,020
+sollen die Handlung nacherzählen. Das
+
+161
+00:05:45,020 --> 00:05:46,300
+heißt, wir sollen sie nicht neu
+
+162
+00:05:46,300 --> 00:05:48,620
+erfinden, weder Figuren noch Dinge
+
+163
+00:05:48,620 --> 00:05:52,640
+noch Handlungen sollten die
+
+164
+00:05:52,640 --> 00:05:55,440
+Nacherzählung beinhalten, die sollten
+
+165
+00:05:55,440 --> 00:05:57,220
+in der Nacherzählung zu finden sein,
+
+166
+00:05:57,300 --> 00:05:59,540
+sondern der Originaltext sagt uns
+
+167
+00:05:59,540 --> 00:06:01,380
+wer, wo, was, wann und das sollen wir
+
+168
+00:06:01,380 --> 00:06:03,460
+nacherzählen, kurz und prägnant.
+
+169
+00:06:03,800 --> 00:06:05,440
+Dadurch, dass wir wiedererzählen,
+
+170
+00:06:05,520 --> 00:06:08,800
+beschreiben wir anders als in
+
+171
+00:06:08,800 --> 00:06:10,160
+Sachtexten, indem wir die
+
+172
+00:06:10,160 --> 00:06:11,880
+Gegenwartsbeschreibung anfertigen,
+
+173
+00:06:11,900 --> 00:06:14,000
+sind erzählende. Texte aus der
+
+174
+00:06:14,000 --> 00:06:15,400
+Vergangenheit erzählen, das heißt,
+
+175
+00:06:15,420 --> 00:06:16,600
+wir benutzen die schriftliche
+
+176
+00:06:16,600 --> 00:06:18,400
+Vergangenheit, also das Proterritum.
+
+177
+00:06:18,520 --> 00:06:20,460
+Die Erzählperspektiven bleiben
+
+178
+00:06:20,460 --> 00:06:23,780
+gleich, das heißt, haben wir eine
+
+179
+00:06:23,780 --> 00:06:25,520
+Erzählung aus der Ich-Perspektive,
+
+180
+00:06:25,520 --> 00:06:27,580
+erzählen wir auch aus der Ich
+
+181
+00:06:27,580 --> 00:06:30,440
+-Perspektive wieder. Nacherzählungen
+
+182
+00:06:30,440 --> 00:06:32,460
+sind natürlich auch im ähnlichen Stil
+
+183
+00:06:32,460 --> 00:06:34,000
+anzufertigen, das heißt, wenn der
+
+184
+00:06:34,000 --> 00:06:36,100
+Text einen gewissen Stil hat, sollten
+
+185
+00:06:36,100 --> 00:06:39,140
+wir versuchen, diesen zu wahren und
+
+186
+00:06:39,140 --> 00:06:40,460
+und nicht vollkommen mit ihnen zu
+
+187
+00:06:40,460 --> 00:06:42,420
+brechen. Dabei ist es wichtig, dass
+
+188
+00:06:42,420 --> 00:06:44,420
+die Sprache anschaulich, lebendig und
+
+189
+00:06:44,420 --> 00:06:46,400
+abwechslungsreich bleibt. Wichtig
+
+190
+00:06:46,400 --> 00:06:47,800
+ist, dass sie spannend bleibt und
+
+191
+00:06:47,800 --> 00:06:49,280
+treffende Adjektive und Verben
+
+192
+00:06:49,280 --> 00:06:51,680
+formuliert. Das heißt, wenn wir zu
+
+193
+00:06:51,680 --> 00:06:54,120
+einzelnen Spannungspunkten kommen,
+
+194
+00:06:54,240 --> 00:06:55,820
+dürfen wir die natürlich benennen.
+
+195
+00:06:55,880 --> 00:06:56,940
+Wir dürfen allerdings keine
+
+196
+00:06:56,940 --> 00:06:58,960
+Nebenhandlungen erfinden oder eine
+
+197
+00:06:58,960 --> 00:07:01,260
+Spannung aufbauen, wo keine ist. Das
+
+198
+00:07:01,260 --> 00:07:03,000
+heißt, wenn einem plötzlich steht,
+
+199
+00:07:03,080 --> 00:07:04,160
+dürfen wir auch einem plötzlich
+
+200
+00:07:04,160 --> 00:07:04,740
+übernehmen
+
+201
+00:07:08,140 --> 00:07:09,660
+verwenden allerdings keine Spannung
+
+202
+00:07:09,660 --> 00:07:13,280
+aufbauen, wo keine ist. Wir können
+
+203
+00:07:13,280 --> 00:07:15,480
+unsere erzählenden Texte, also unsere
+
+204
+00:07:15,480 --> 00:07:17,220
+Nacherzählung, wenn sie geschrieben
+
+205
+00:07:17,220 --> 00:07:19,340
+ist, überprüfen, indem wir fragen,
+
+206
+00:07:19,440 --> 00:07:21,380
+wer handelt, wo und wann spielt die
+
+207
+00:07:21,380 --> 00:07:24,020
+Geschichte, zu welcher Textart gehört
+
+208
+00:07:24,020 --> 00:07:25,720
+die Geschichte, also was ist das für
+
+209
+00:07:25,720 --> 00:07:28,840
+eine Art von Geschichte, ist es zum
+
+210
+00:07:28,840 --> 00:07:30,280
+Beispiel ein Tagebucheintrag oder
+
+211
+00:07:30,280 --> 00:07:32,360
+sonstiges, welche Stimmung herrscht
+
+212
+00:07:32,360 --> 00:07:35,240
+oder ist es eine erfundene
+
+213
+00:07:35,240 --> 00:07:36,080
+Geschichte, ist es eine
+
+214
+00:07:36,080 --> 00:07:39,360
+Waldgeschichte, Eine Stadtgeschichte
+
+215
+00:07:39,360 --> 00:07:41,540
+oder etwas anderes? Welche Stimmung
+
+216
+00:07:41,540 --> 00:07:42,820
+herrscht? Eine positive oder
+
+217
+00:07:42,820 --> 00:07:45,020
+negative? Warum ist das so? Und dann
+
+218
+00:07:45,020 --> 00:07:47,980
+dementsprechend auch die treffenden
+
+219
+00:07:47,980 --> 00:07:50,680
+Adjektive dazu zu markieren oder die
+
+220
+00:07:50,680 --> 00:07:52,440
+einzelnen Stimmungswörter dazu zu
+
+221
+00:07:52,440 --> 00:07:54,500
+markieren. Worum geht es? Also die
+
+222
+00:07:54,500 --> 00:07:55,820
+allgemeine Handlung. Wir haben das
+
+223
+00:07:55,820 --> 00:07:57,380
+gerade am Beispiel der Verben, die
+
+224
+00:07:57,380 --> 00:08:00,860
+man markieren soll, beleuchtet. Gibt
+
+225
+00:08:00,860 --> 00:08:03,120
+es wichtige Handlungsverläufe, die
+
+226
+00:08:03,120 --> 00:08:04,460
+nicht berücksichtigt wurden? Auch
+
+227
+00:08:04,460 --> 00:08:05,660
+hier greift es wieder an die
+
+228
+00:08:05,660 --> 00:08:07,200
+einzelnen Verben, also die einzelnen
+
+229
+00:08:07,200 --> 00:08:09,480
+Handlungen zu markieren und diese im
+
+230
+00:08:09,480 --> 00:08:11,420
+Grunde genommen abzuarbeiten. Stimmt
+
+231
+00:08:11,420 --> 00:08:12,860
+die Reihenfolge der Handlungen? Das
+
+232
+00:08:12,860 --> 00:08:14,520
+können wir dadurch, indem wir diesen
+
+233
+00:08:14,520 --> 00:08:16,340
+Zeitstrahl anfertigen, eben auch
+
+234
+00:08:16,340 --> 00:08:20,770
+überprüfen. Also die Personalform,
+
+235
+00:08:20,870 --> 00:08:24,230
+ich, du oder er, sie, es, genauso wie
+
+236
+00:08:24,230 --> 00:08:26,490
+sie im Original zu finden ist. Gibt
+
+237
+00:08:26,490 --> 00:08:28,170
+es sprachliche Auffälligkeiten, die
+
+238
+00:08:28,170 --> 00:08:29,990
+wir entweder übernehmen oder noch
+
+239
+00:08:29,990 --> 00:08:31,830
+nicht übernommen haben? Ist
+
+240
+00:08:31,830 --> 00:08:34,350
+durchgehend das Präteritum benutzt?
+
+241
+00:08:34,370 --> 00:08:35,630
+Das heißt, haben wir auch wirklich
+
+242
+00:08:35,630 --> 00:08:37,650
+alle Verben richtig in die richtige
+
+243
+00:08:37,650 --> 00:08:42,230
+Zeitform übersetzt? Ist der Stil dem
+
+244
+00:08:42,230 --> 00:08:44,090
+Original ähnlich oder brechen wir
+
+245
+00:08:44,090 --> 00:08:46,150
+total damit? Das heißt, wir sollen in
+
+246
+00:08:46,150 --> 00:08:47,790
+unseren eigenen Worten nacherzählen,
+
+247
+00:08:47,790 --> 00:08:49,050
+aber wir sollen natürlich keine
+
+248
+00:08:49,050 --> 00:08:50,710
+fremde Geschichte nacherzählen,
+
+249
+00:08:50,710 --> 00:08:52,590
+sondern schon eine, die einer
+
+250
+00:08:52,590 --> 00:08:54,650
+Geschichte nacherzählen, die eben der
+
+251
+00:08:54,650 --> 00:08:56,990
+Geschichte auch nahe steht. Ist die
+
+252
+00:08:56,990 --> 00:08:59,850
+Erzählung kürzer als das Original,
+
+253
+00:09:00,150 --> 00:09:02,450
+ist als Faustregel immer zu merken,
+
+254
+00:09:02,530 --> 00:09:05,450
+meistens sollte sie ungefähr ein
+
+255
+00:09:05,450 --> 00:09:07,770
+Drittel der Geschichte machen, also
+
+256
+00:09:07,770 --> 00:09:09,610
+bei Inhaltsangaben. Und bei
+
+257
+00:09:09,610 --> 00:09:11,530
+Nacherzählungen sollte sie ungefähr
+
+258
+00:09:11,530 --> 00:09:12,830
+zwei Drittel der Geschichte
+
+259
+00:09:12,830 --> 00:09:16,280
+ausmachen. Kommen wir nun zu dem
+
+260
+00:09:16,280 --> 00:09:18,300
+Thema Gedichte. Gedichte sind auch
+
+261
+00:09:18,300 --> 00:09:23,360
+vom fiktionalen Text, also die
+
+262
+00:09:23,360 --> 00:09:26,440
+Textgattung der künstlichen Sprache.
+
+263
+00:09:26,500 --> 00:09:28,880
+Das heißt, wir haben hier keinen
+
+264
+00:09:28,880 --> 00:09:31,140
+fortlaufenden Prosa-Text, also keinen
+
+265
+00:09:31,140 --> 00:09:34,300
+durchgehenden geschriebenen Text,
+
+266
+00:09:34,400 --> 00:09:36,840
+sondern wir haben eine verdichtete
+
+267
+00:09:36,840 --> 00:09:38,440
+bildhafte Sprache, bei der der
+
+268
+00:09:38,440 --> 00:09:40,960
+Sprachtext in Verse und Strophen
+
+269
+00:09:40,960 --> 00:09:42,500
+unterteilt ist. Das heißt, wir haben
+
+270
+00:09:42,500 --> 00:09:45,480
+hier weitaus weniger Wörter als in
+
+271
+00:09:45,480 --> 00:09:47,880
+einem Prosatext, in einer Geschichte.
+
+272
+00:09:48,240 --> 00:09:51,120
+Wir haben einen gewissen Rhythmus und
+
+273
+00:09:51,120 --> 00:09:52,520
+wir haben auch ein Versmaß. Das
+
+274
+00:09:52,520 --> 00:09:54,120
+heißt, wir müssen auf unbetonte und
+
+275
+00:09:54,120 --> 00:09:56,600
+betonte Silben achten, genauso wie an
+
+276
+00:09:56,600 --> 00:09:58,740
+den Versenden auf ein Reimschema.
+
+277
+00:10:01,340 --> 00:10:03,300
+Wichtig ist, dass wenn wir über
+
+278
+00:10:03,300 --> 00:10:06,160
+Gedichte sprechen, also Gedichte
+
+279
+00:10:06,160 --> 00:10:07,760
+gehören zur Textgattung der Lyrik,
+
+280
+00:10:08,860 --> 00:10:10,460
+Geschichten gehören zur Textgattung
+
+281
+00:10:10,460 --> 00:10:14,040
+der Epik. Als grobe literarische
+
+282
+00:10:14,040 --> 00:10:16,720
+Texteinordnung ist es so, dass bei
+
+283
+00:10:16,720 --> 00:10:19,260
+Gedichten, also der Lyrik, meistens
+
+284
+00:10:19,260 --> 00:10:21,520
+große Themen und Stimmungen
+
+285
+00:10:21,520 --> 00:10:23,640
+beleuchtet werden, die schwierig in
+
+286
+00:10:23,640 --> 00:10:25,920
+Worte zu fassen sind. Denn die Lyrik
+
+287
+00:10:25,920 --> 00:10:29,700
+versucht, schwierige oder schwierig
+
+288
+00:10:29,700 --> 00:10:32,260
+in Worte zu fassende Themen mithilfe
+
+289
+00:10:32,260 --> 00:10:34,240
+dieser Kunstfähigkeit, also der
+
+290
+00:10:34,240 --> 00:10:35,780
+Verdichtung und der bildhaften
+
+291
+00:10:35,780 --> 00:10:38,040
+Sprache auszudrücken. Dabei sind
+
+292
+00:10:38,040 --> 00:10:39,840
+Themen wie Natur, Farben, Wetter,
+
+293
+00:10:39,940 --> 00:10:42,400
+Gefühle oder... Wahrnehmungen sehr
+
+294
+00:10:42,400 --> 00:10:44,160
+wichtig. Wir haben zum Beispiel in
+
+295
+00:10:44,160 --> 00:10:46,180
+der Natur Wald, Felder, Parks,
+
+296
+00:10:46,400 --> 00:10:48,360
+Blätter, Laub und Kastanien, Kürbisse
+
+297
+00:10:48,360 --> 00:10:50,200
+und Erntezeit. Wir haben Farben
+
+298
+00:10:50,200 --> 00:10:52,760
+Braun, Rot und Orange. Wir werden das
+
+299
+00:10:52,760 --> 00:10:54,600
+gleich mal an einem Beispielgedicht
+
+300
+00:10:54,600 --> 00:10:56,900
+sehen. Deswegen führen wir hier diese
+
+301
+00:10:56,900 --> 00:10:58,440
+Herbstmetaphorik auf.
+
+302
+00:10:59,640 --> 00:11:00,900
+Herbstmetaphorik heißt das heißt eine
+
+303
+00:11:00,900 --> 00:11:03,760
+bildliche Sprache, die im Herbst
+
+304
+00:11:03,760 --> 00:11:05,320
+angesiedelt ist. Hier könnte man auch
+
+305
+00:11:05,320 --> 00:11:07,580
+ein Themenfeld zum Herbst machen und
+
+306
+00:11:07,580 --> 00:11:08,980
+sich diese kleinen Begriffe
+
+307
+00:11:08,980 --> 00:11:12,180
+herausziehen, um zu überprüfen, ob es
+
+308
+00:11:12,180 --> 00:11:13,360
+hier wirklich um den Herbst geht.
+
+309
+00:11:13,760 --> 00:11:15,820
+Gefühle, gemütlich, bedrückt oder
+
+310
+00:11:15,820 --> 00:11:18,280
+traurig, Herbstluft, Spaziergänge,
+
+311
+00:11:18,420 --> 00:11:20,420
+Duft des Laubes, beobachtende Tiere.
+
+312
+00:11:20,620 --> 00:11:22,060
+Dann haben wir hier die
+
+313
+00:11:22,060 --> 00:11:25,860
+unterschiedlichen Randschemata. Wir
+
+314
+00:11:25,860 --> 00:11:27,640
+haben gerade darüber gesprochen, nun
+
+315
+00:11:27,640 --> 00:11:29,420
+beginnt die Erntezeit, Bauern machen
+
+316
+00:11:29,420 --> 00:11:33,020
+sich bereit, die Kinder riechen in
+
+317
+00:11:33,020 --> 00:11:34,600
+der Luft, den wunderschönen
+
+318
+00:11:34,600 --> 00:11:36,240
+Kürbisduft, also hier haben wir zum
+
+319
+00:11:36,240 --> 00:11:38,020
+Beispiel ein Paarreim, dann gibt es
+
+320
+00:11:38,020 --> 00:11:40,200
+ein Kreuzreim auf Erntezeit und
+
+321
+00:11:40,200 --> 00:11:42,620
+Bereit, Wald und Kalt, also dieser
+
+322
+00:11:42,620 --> 00:11:44,360
+hier ist überkreuzt, dann gibt es den
+
+323
+00:11:44,360 --> 00:11:47,680
+umarmenden Reim, Bäume, Kalt und Wald
+
+324
+00:11:47,680 --> 00:11:49,760
+und Träumen, reimt sich auf Bäumen,
+
+325
+00:11:50,580 --> 00:11:53,160
+dann haben wir den Weisen, in der wir
+
+326
+00:11:53,160 --> 00:11:54,440
+im Grunde genommen ein Paarreim
+
+327
+00:11:54,440 --> 00:11:57,560
+haben, mit einem nicht gereimten Vers
+
+328
+00:11:57,560 --> 00:12:00,220
+in der Mitte, also AA, kein Reimen
+
+329
+00:12:00,220 --> 00:12:02,980
+und dann BB, Erntezeit bereit, dann
+
+330
+00:12:02,980 --> 00:12:05,720
+Futter, Luft und Duft. Und so stellen
+
+331
+00:12:05,720 --> 00:12:07,040
+wir heraus, dass wir im Grunde
+
+332
+00:12:07,040 --> 00:12:08,740
+genommen einen Rhythmus haben, mit
+
+333
+00:12:08,740 --> 00:12:09,860
+dem wir es schaffen. Wir haben noch
+
+334
+00:12:09,860 --> 00:12:11,700
+zusätzlich betonte und unbetonte
+
+335
+00:12:11,700 --> 00:12:14,060
+Silben, wie zum Beispiel auch ein
+
+336
+00:12:14,060 --> 00:12:15,940
+Versmaß im Jambus Tocheus, aber
+
+337
+00:12:15,940 --> 00:12:17,100
+darauf wollen wir heute nicht
+
+338
+00:12:17,100 --> 00:12:18,720
+eingehen. Wir wollen nur feststellen,
+
+339
+00:12:18,780 --> 00:12:21,800
+dass beim Textverständnis, gerade bei
+
+340
+00:12:21,800 --> 00:12:23,280
+Gedichten, es sehr wichtig ist, auf
+
+341
+00:12:23,280 --> 00:12:26,180
+die Reime zu achten, das heißt auf
+
+342
+00:12:26,180 --> 00:12:28,840
+die letzten Wörter in einem Vers. Das
+
+343
+00:12:28,840 --> 00:12:31,240
+ist ein Vers und diese vier Verse
+
+344
+00:12:31,240 --> 00:12:33,460
+bilden immer eine Strophe. Hier sind
+
+345
+00:12:33,460 --> 00:12:36,140
+es sogar fünf. Kommen wir nun zum
+
+346
+00:12:36,140 --> 00:12:38,300
+Dialog und den Szenen. Dialoge und
+
+347
+00:12:38,300 --> 00:12:40,220
+Szenen kommen aus der Textgattung der
+
+348
+00:12:40,220 --> 00:12:41,860
+Dramatik, denn das sind meistens
+
+349
+00:12:41,860 --> 00:12:43,660
+Theaterstücke oder Filmszenen.
+
+350
+00:12:45,280 --> 00:12:47,440
+Dialoge und Szenen finden sich in der
+
+351
+00:12:47,440 --> 00:12:49,240
+dritten Textgattung eben gerade in
+
+352
+00:12:49,240 --> 00:12:51,680
+der Dramatik, im Gegensatz zur Lyrik
+
+353
+00:12:51,680 --> 00:12:55,260
+und Epik. Dabei ist es so, dass die
+
+354
+00:12:55,260 --> 00:12:59,880
+Dramatik Theaterstücke thematisiert,
+
+355
+00:12:59,940 --> 00:13:03,040
+beziehungsweise die Dramatik ist
+
+356
+00:13:03,040 --> 00:13:07,220
+letztendlich ein Theaterstück von der
+
+357
+00:13:07,220 --> 00:13:09,460
+Art her. Und diese bestehen aus
+
+358
+00:13:09,460 --> 00:13:11,720
+Dialogen und Monologen. Diese sind
+
+359
+00:13:11,720 --> 00:13:14,540
+unterteilt in Akte und diese Akte in
+
+360
+00:13:14,540 --> 00:13:16,160
+Szenen unterteilt und in diesen
+
+361
+00:13:16,160 --> 00:13:17,800
+Szenen finden eben Dialoge oder
+
+362
+00:13:17,800 --> 00:13:20,240
+Monologe statt. In den Dialogen gibt
+
+363
+00:13:20,240 --> 00:13:22,360
+es nur gesprochen an. Hier finden wir
+
+364
+00:13:22,360 --> 00:13:24,940
+keine Anführungszeichen. Es ist eben
+
+365
+00:13:24,940 --> 00:13:26,660
+die Rede zwischen zwei oder mehreren
+
+366
+00:13:26,660 --> 00:13:29,240
+Personen, in dem wir ein Thema haben,
+
+367
+00:13:29,340 --> 00:13:30,980
+das entweder in einer Unterhaltung
+
+368
+00:13:30,980 --> 00:13:32,660
+stattfindet, in einem Streit oder in
+
+369
+00:13:32,660 --> 00:13:34,880
+einer Befragung stattfindet. Dabei
+
+370
+00:13:34,880 --> 00:13:36,960
+ist es so, dass der Charakter einer
+
+371
+00:13:36,960 --> 00:13:38,900
+Person eben gerade durch seinen
+
+372
+00:13:38,900 --> 00:13:42,420
+gesprochenen Anteil klar wird und
+
+373
+00:13:42,420 --> 00:13:44,480
+sein Verhalten. Dabei gibt es keine
+
+374
+00:13:44,480 --> 00:13:46,220
+erzählenden Einschübe, das heißt, es
+
+375
+00:13:46,220 --> 00:13:47,840
+gibt keine Kommentare, sondern wir
+
+376
+00:13:47,840 --> 00:13:49,240
+können das Verhältnis zu einer
+
+377
+00:13:49,240 --> 00:13:51,560
+anderen Person und das Verhältnis der
+
+378
+00:13:51,560 --> 00:13:53,240
+Person im Grunde genommen nur durch
+
+379
+00:13:53,240 --> 00:13:55,100
+seine gesprochenen, das heißt
+
+380
+00:13:55,100 --> 00:13:58,720
+geäußerte Form, Schlussfolgern. Was
+
+381
+00:13:58,720 --> 00:13:59,820
+wir allerdings haben, sind
+
+382
+00:13:59,820 --> 00:14:02,660
+Regieanweisungen, um uns zu
+
+383
+00:14:02,660 --> 00:14:04,060
+vergegenwärtigen. was denn
+
+384
+00:14:04,060 --> 00:14:05,920
+tatsächlich passiert. Also neben der
+
+385
+00:14:05,920 --> 00:14:07,280
+allgemeinen Handlung, die gesprochen
+
+386
+00:14:07,280 --> 00:14:08,760
+wird und dem Verhalten, dem
+
+387
+00:14:08,760 --> 00:14:10,160
+Präsentieren der einzelnen Personen,
+
+388
+00:14:10,300 --> 00:14:12,820
+gibt es auch noch die Handlung, die
+
+389
+00:14:12,820 --> 00:14:14,680
+in Regieanweisungen gezeigt wird. Wir
+
+390
+00:14:14,680 --> 00:14:16,880
+sehen das hier gerade an dem Beispiel
+
+391
+00:14:16,880 --> 00:14:20,940
+der Elinia
+
+392
+00:14:20,940 --> 00:14:22,540
+und dem Tim. Die unterhalten sich
+
+393
+00:14:22,540 --> 00:14:25,120
+gerade und er fragt sie, hast du Lust
+
+394
+00:14:25,120 --> 00:14:27,380
+heute Abend mit ins Kino zu kommen?
+
+395
+00:14:27,480 --> 00:14:29,760
+Sie sagt gerne, ich kann ab 7 Uhr.
+
+396
+00:14:29,820 --> 00:14:32,080
+Tim sagt gut, dann lass uns doch um
+
+397
+00:14:32,080 --> 00:14:34,260
+halb 8. vor dem Kinotreffen und die
+
+398
+00:14:34,260 --> 00:14:36,620
+Regieanweisung sagt anschließend,
+
+399
+00:14:36,640 --> 00:14:39,120
+nachdem das gesprochen wurde, zeigt
+
+400
+00:14:39,120 --> 00:14:40,340
+es uns im Grunde um die
+
+401
+00:14:40,340 --> 00:14:41,760
+Regieanweisung, was dann passiert.
+
+402
+00:14:41,820 --> 00:14:43,460
+Das ist das, was wir zum Beispiel in
+
+403
+00:14:43,460 --> 00:14:46,580
+der Prosa haben, immer haben. Beide
+
+404
+00:14:46,580 --> 00:14:48,020
+steigen auf ihre Fahrer und fahren
+
+405
+00:14:48,020 --> 00:14:49,460
+davon. Hier haben wir es allerdings
+
+406
+00:14:49,460 --> 00:14:51,520
+immer in Präsens ausgedrückt, weil
+
+407
+00:14:51,520 --> 00:14:53,680
+das genau nach dem, wie beiden das
+
+408
+00:14:53,680 --> 00:14:56,540
+gesagt haben, passiert. Darauf ist zu
+
+409
+00:14:56,540 --> 00:15:00,560
+achten. Märchen sind ebenfalls Prosa
+
+410
+00:15:00,560 --> 00:15:02,560
+-Gedichte, das heißt Formen, die der
+
+411
+00:15:02,560 --> 00:15:04,360
+Epik zugehören. Das heißt, es ist
+
+412
+00:15:04,360 --> 00:15:06,520
+auch eine gefundene Geschichte. Dabei
+
+413
+00:15:06,520 --> 00:15:09,420
+spielen Fantasiewelten und Orte und
+
+414
+00:15:09,420 --> 00:15:11,220
+Gegenstände und Wesen eine Rolle.
+
+415
+00:15:11,300 --> 00:15:13,600
+Merkmale sind, dass wir einen Held
+
+416
+00:15:13,600 --> 00:15:15,200
+und einen Helfer haben und meistens
+
+417
+00:15:15,200 --> 00:15:17,220
+auch noch einen Bösewicht. Der Held
+
+418
+00:15:17,220 --> 00:15:20,320
+hat eine Aufgabe und ein zu lösendes
+
+419
+00:15:20,320 --> 00:15:22,520
+Problem. Der Helfer hilft dem Helden
+
+420
+00:15:22,520 --> 00:15:24,000
+dabei. Das können entweder Personen
+
+421
+00:15:24,000 --> 00:15:25,900
+oder Tiere sein. Nein, wir haben
+
+422
+00:15:25,900 --> 00:15:27,380
+wiederkehrende typische
+
+423
+00:15:27,380 --> 00:15:29,240
+Formulierungen wie, wie Sie alle
+
+424
+00:15:29,240 --> 00:15:31,440
+kennen, es war einmal oder zum Ende
+
+425
+00:15:31,440 --> 00:15:33,620
+eine Schlussfloskel und wenn sie
+
+426
+00:15:33,620 --> 00:15:35,140
+nicht gestorben sind, dann leben sie
+
+427
+00:15:35,140 --> 00:15:37,080
+noch heute. Wir haben ein Ende,
+
+428
+00:15:37,160 --> 00:15:38,960
+welches meistens mit einem
+
+429
+00:15:38,960 --> 00:15:40,520
+glücklichen Ende, also es ist meist
+
+430
+00:15:40,520 --> 00:15:42,020
+ein glückliches Ende, in dem der
+
+431
+00:15:42,020 --> 00:15:43,660
+Konflikt das Problem gelöst wird
+
+432
+00:15:43,660 --> 00:15:44,980
+durch den Helden und wir haben eine
+
+433
+00:15:44,980 --> 00:15:47,440
+moralische Lehre, die kann enthalten
+
+434
+00:15:47,440 --> 00:15:48,940
+sein, die uns zum Nachdenken
+
+435
+00:15:48,940 --> 00:15:51,240
+anfordert. Wir haben magische
+
+436
+00:15:51,240 --> 00:15:53,180
+Elemente, wie zum Beispiel magische
+
+437
+00:15:53,180 --> 00:15:54,980
+Sprüche oder magische Zahlen, wie
+
+438
+00:15:54,980 --> 00:15:57,120
+Spiegel ein Spiegel an der Wand. Wir
+
+439
+00:15:57,120 --> 00:15:59,040
+haben auch besondere Gegenstände mit
+
+440
+00:15:59,040 --> 00:16:00,580
+Zauberkraft, wie zum Beispiel einen
+
+441
+00:16:00,580 --> 00:16:02,460
+Zauberspiegel, ein Spinnrad, das Sie
+
+442
+00:16:02,460 --> 00:16:05,560
+zum ewigen Schlaf bringen kann oder
+
+443
+00:16:05,560 --> 00:16:10,020
+eine Spindel. Wir haben in der
+
+444
+00:16:10,020 --> 00:16:11,480
+Einleitung meistens, wie schon
+
+445
+00:16:11,480 --> 00:16:13,220
+gesagt, es war einmal als
+
+446
+00:16:13,220 --> 00:16:15,680
+Einleitungsformel, dann haben wir
+
+447
+00:16:15,680 --> 00:16:17,260
+eine Ausgangssituation, bei der
+
+448
+00:16:17,260 --> 00:16:19,980
+vorgestellt wird. und die Problematik
+
+449
+00:16:19,980 --> 00:16:22,180
+vorgestellt wird. Im Hauptteil muss
+
+450
+00:16:22,180 --> 00:16:23,880
+der Held ein Rätsel oder ein
+
+451
+00:16:23,880 --> 00:16:25,680
+Abenteuer an einer Prüfung bestehen,
+
+452
+00:16:25,700 --> 00:16:29,760
+um ein Problem zu lösen. Das kreiert
+
+453
+00:16:29,760 --> 00:16:31,200
+meistens eine Spannung und eine
+
+454
+00:16:31,200 --> 00:16:33,200
+Konfrontation mit einem Bösewicht,
+
+455
+00:16:33,240 --> 00:16:35,300
+mit einem Gegner. Anschließend, im
+
+456
+00:16:35,300 --> 00:16:37,100
+Schluss ist es so, dass der Held nach
+
+457
+00:16:37,100 --> 00:16:38,840
+Hause zurückkehrt. Wir haben
+
+458
+00:16:38,840 --> 00:16:40,720
+glückliche Beteiligte, die Welt ist
+
+459
+00:16:40,720 --> 00:16:42,220
+in Ordnung. Es kann auch manchmal mit
+
+460
+00:16:42,220 --> 00:16:43,840
+einer Hochzeit enden oder mit einem
+
+461
+00:16:43,840 --> 00:16:45,980
+Freundenfest und es endet meistens
+
+462
+00:16:45,980 --> 00:16:47,600
+mit der Floskel und wenn sie nicht
+
+463
+00:16:47,600 --> 00:16:49,140
+gestorben sind, dann leben sie noch
+
+464
+00:16:49,140 --> 00:16:51,120
+heute. Ein Schreibband für ein
+
+465
+00:16:51,120 --> 00:16:54,680
+Märchen ist, sich anzufertigen, indem
+
+466
+00:16:54,680 --> 00:16:56,900
+man den Held benennt, den Helfer
+
+467
+00:16:56,900 --> 00:16:58,180
+benennt, die Orte benennt, die
+
+468
+00:16:58,180 --> 00:16:59,380
+Personen, die Probleme und die
+
+469
+00:16:59,380 --> 00:17:00,740
+Gegenstände benennt und die
+
+470
+00:17:00,740 --> 00:17:02,480
+Problematik und wie es gelöst wird.
+
+471
+00:17:02,480 --> 00:17:05,000
+und das dann letztendlich, um das
+
+472
+00:17:05,000 --> 00:17:06,740
+letztendlich zu verstehen, reicht es
+
+473
+00:17:06,740 --> 00:17:08,700
+sich im Grunde genommen, wie einen
+
+474
+00:17:08,700 --> 00:17:10,540
+Steckbrief anzufertigen, indem man
+
+475
+00:17:10,540 --> 00:17:12,080
+fragt, wer ist der Held, wer ist der
+
+476
+00:17:12,080 --> 00:17:13,660
+Helfer, wo sind die Orte, die
+
+477
+00:17:13,660 --> 00:17:15,200
+Personen, was ist das Problem, wie
+
+478
+00:17:15,200 --> 00:17:16,840
+wird es gelöst und mit welchen
+
+479
+00:17:16,840 --> 00:17:18,060
+Mitteln, also mit welchen
+
+480
+00:17:18,060 --> 00:17:20,440
+Gegenständen wird es gelöst. Bei
+
+481
+00:17:20,440 --> 00:17:22,420
+Fabeln ist es so, dass sie auch
+
+482
+00:17:22,420 --> 00:17:25,260
+Tiere, allerdings keine magischen
+
+483
+00:17:25,260 --> 00:17:27,320
+Tiere beinhalten können, Da ist es
+
+484
+00:17:27,320 --> 00:17:28,900
+so, dass Tiere menschliche
+
+485
+00:17:28,900 --> 00:17:30,700
+Eigenschaften inhalten. Das heißt, in
+
+486
+00:17:30,700 --> 00:17:32,540
+Fabeln gibt es keine Menschen,
+
+487
+00:17:32,660 --> 00:17:33,980
+sondern es gibt nur Tiere, die
+
+488
+00:17:33,980 --> 00:17:36,160
+menschliche Eigenschaften haben. Das
+
+489
+00:17:36,160 --> 00:17:41,340
+stammt aus der Antike. Es gibt viele
+
+490
+00:17:41,340 --> 00:17:43,720
+griechische Dichter aus der Antike,
+
+491
+00:17:43,720 --> 00:17:48,000
+die das erfunden haben. Dabei ist es
+
+492
+00:17:48,000 --> 00:17:49,420
+so, dass Menschen auf spielerische
+
+493
+00:17:49,420 --> 00:17:51,340
+Weise einen Spiegel ihres Verhaltens
+
+494
+00:17:51,340 --> 00:17:52,860
+vorgeführt haben. Das soll natürlich
+
+495
+00:17:52,860 --> 00:17:55,360
+dazu anregen, über Moral und
+
+496
+00:17:55,360 --> 00:17:57,520
+Verhalten nachzudenken. Es soll auf
+
+497
+00:17:57,520 --> 00:17:59,040
+jeden Fall hier ein moralischer
+
+498
+00:17:59,040 --> 00:18:00,440
+Anspruch sein. Man muss sich also
+
+499
+00:18:00,440 --> 00:18:02,260
+immer fragen, was ist die Moral von
+
+500
+00:18:02,260 --> 00:18:05,040
+der Geschichte. In Fabeln ist es so,
+
+501
+00:18:05,080 --> 00:18:07,680
+dass Tiere gewisse Verhaltensweisen
+
+502
+00:18:07,680 --> 00:18:09,460
+haben, wie zum Beispiel der Esel ist
+
+503
+00:18:09,460 --> 00:18:11,240
+immer stur und diese
+
+504
+00:18:11,240 --> 00:18:14,500
+Grundeigenschaften bleiben immer
+
+505
+00:18:14,500 --> 00:18:17,100
+gleich. Zusätzlich haben sie
+
+506
+00:18:17,100 --> 00:18:18,640
+ergänzende Eigenschaften, die im
+
+507
+00:18:18,640 --> 00:18:19,700
+Grunde genommen dann auf die
+
+508
+00:18:19,700 --> 00:18:21,040
+einzelnen Personen zugeschnitten
+
+509
+00:18:21,040 --> 00:18:22,800
+sind. sind. Dabei ist es so, dass der
+
+510
+00:18:22,800 --> 00:18:24,800
+Aufbau einer Fabel so ist, dass wir
+
+511
+00:18:24,800 --> 00:18:26,500
+eine Ausgangssituation haben, einen
+
+512
+00:18:26,500 --> 00:18:28,620
+Konflikt, der eben gerade durch diese
+
+513
+00:18:28,620 --> 00:18:31,120
+festen, sturen Eigenschaften
+
+514
+00:18:31,120 --> 00:18:33,440
+hervorgeführt wird, dann eine Lösung,
+
+515
+00:18:33,560 --> 00:18:34,860
+in dem man im Grunde genommen diese
+
+516
+00:18:34,860 --> 00:18:37,980
+gleichbleibende Grundeigenschaft
+
+517
+00:18:37,980 --> 00:18:40,520
+überwindet und dann letztendlich in
+
+518
+00:18:40,520 --> 00:18:42,720
+die Moral leitet, dass es nicht immer
+
+519
+00:18:42,720 --> 00:18:44,260
+gut ist, nur das und das zu tun.
+
+520
+00:18:44,320 --> 00:18:45,340
+Dabei Dabei sind die schlechten
+
+521
+00:18:45,340 --> 00:18:48,620
+Eigenschaften ein schlechtes Ende,
+
+522
+00:18:48,780 --> 00:18:51,020
+führen zu einem schlechten Ende. Also
+
+523
+00:18:51,020 --> 00:18:52,500
+es muss nicht immer nur eine Lösung
+
+524
+00:18:52,500 --> 00:18:54,500
+sein, die gut endet, sondern sie kann
+
+525
+00:18:54,500 --> 00:18:55,940
+auch manchmal bösen enden, um zu
+
+526
+00:18:55,940 --> 00:18:57,540
+zeigen, dass es nicht immer gut ist,
+
+527
+00:18:57,560 --> 00:18:59,800
+nur so zu handeln. Oder sie endet
+
+528
+00:18:59,800 --> 00:19:01,780
+darin, dass das Dumme überlistet wird
+
+529
+00:19:01,780 --> 00:19:03,960
+und eine Lehre ist, nimm dich vor dem
+
+530
+00:19:03,960 --> 00:19:07,340
+Bösen acht. Wir haben hier einige
+
+531
+00:19:07,340 --> 00:19:09,840
+Tiere aufgeführt, die grundsätzlich
+
+532
+00:19:09,840 --> 00:19:11,300
+sehr wichtig sind. den Dachs, den
+
+533
+00:19:11,300 --> 00:19:13,660
+Hasen, den Hahn, den Hasen, den
+
+534
+00:19:13,660 --> 00:19:15,760
+Storch, den Wolf und die Ziege. Dabei
+
+535
+00:19:15,760 --> 00:19:16,960
+ist es so, dass sie gewisse
+
+536
+00:19:16,960 --> 00:19:18,540
+Eigenschaften haben. Hier können wir
+
+537
+00:19:18,540 --> 00:19:20,140
+gerade zwischen Gut und Böse teilen.
+
+538
+00:19:20,400 --> 00:19:22,020
+Also die Wahl der Tiere ist immer
+
+539
+00:19:22,020 --> 00:19:23,360
+nach den unterschiedlichen und
+
+540
+00:19:23,360 --> 00:19:25,000
+gegensätzlichen Eigenschaften zu
+
+541
+00:19:25,000 --> 00:19:27,480
+sehen. Vielen Dank für die
+
+542
+00:19:27,480 --> 00:19:29,180
+Aufmerksamkeit. Bis bald.
+

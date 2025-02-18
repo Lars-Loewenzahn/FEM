@@ -1,0 +1,512 @@
+1
+00:00:03,950 --> 00:00:06,210
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,210 --> 00:00:07,290
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,290 --> 00:00:09,410
+Schülerhilfe. Ich möchte euch heute
+
+4
+00:00:09,410 --> 00:00:11,270
+einen Einblick in das Thema polare
+
+5
+00:00:11,270 --> 00:00:13,730
+Atombindung, Elektronegativität und
+
+6
+00:00:13,730 --> 00:00:16,250
+Dipolmolekül geben. Dieses Video
+
+7
+00:00:16,250 --> 00:00:18,170
+setzt voraus, dass du bereits mit dem
+
+8
+00:00:18,170 --> 00:00:20,190
+Thema Elektronenpaarbindungen und dem
+
+9
+00:00:20,190 --> 00:00:22,650
+Orbitalmodell vertraut bist. Schaue
+
+10
+00:00:22,650 --> 00:00:24,210
+doch hierzu gerne die Videos in
+
+11
+00:00:24,210 --> 00:00:26,570
+unserem Online-Lerncenter. Eine
+
+12
+00:00:26,570 --> 00:00:27,650
+Atombindung ist eine
+
+13
+00:00:27,650 --> 00:00:29,950
+Elektronenpaarbindung. Diese Bindung
+
+14
+00:00:29,950 --> 00:00:31,790
+kann polar oder unpolar sein,
+
+15
+00:00:31,930 --> 00:00:34,070
+abhängig von der Elektronegativität
+
+16
+00:00:34,070 --> 00:00:36,230
+der an der Bindung beteiligten Atome.
+
+17
+00:00:36,510 --> 00:00:40,590
+Die Elektronegativität, kurz EN, ist
+
+18
+00:00:40,590 --> 00:00:42,650
+das relative Maß für die Fähigkeit
+
+19
+00:00:42,650 --> 00:00:44,210
+eines Atomselektronen an sich
+
+20
+00:00:44,210 --> 00:00:45,970
+heranzuziehen. Je höher die
+
+21
+00:00:45,970 --> 00:00:48,150
+Elektronegativität, desto stärker
+
+22
+00:00:48,150 --> 00:00:49,730
+zieht das jeweilige Atom an den
+
+23
+00:00:49,730 --> 00:00:51,690
+Elektronen der Bindung. Die
+
+24
+00:00:51,690 --> 00:00:53,570
+Elektronegativität eines Elements
+
+25
+00:00:53,570 --> 00:00:55,690
+lässt sich im PSE, also dem
+
+26
+00:00:55,690 --> 00:00:58,670
+Periodensystem, ablesen. Innerhalb
+
+27
+00:00:58,670 --> 00:01:00,470
+der Hauptgruppen des PSE nimmt die
+
+28
+00:01:00,470 --> 00:01:02,430
+Elektronegativität von links nach
+
+29
+00:01:02,430 --> 00:01:04,450
+rechts von der ersten bis zur siebten
+
+30
+00:01:04,450 --> 00:01:06,650
+Hauptgruppe zu. Mit steigender
+
+31
+00:01:06,650 --> 00:01:08,750
+Periode, also von oben nach unten,
+
+32
+00:01:08,890 --> 00:01:11,750
+nimmt die EN ab. Die Elektronendichte
+
+33
+00:01:11,750 --> 00:01:13,210
+ist an der dicken Seite des
+
+34
+00:01:13,210 --> 00:01:15,550
+Keilstrichs höher. Es handelt sich um
+
+35
+00:01:15,550 --> 00:01:18,430
+ein sogenanntes Dipolmolekül. Die
+
+36
+00:01:18,430 --> 00:01:20,570
+Polarität eines Moleküls wirkt sich
+
+37
+00:01:20,570 --> 00:01:22,670
+in hohem Maß auf seine Eigenschaften
+
+38
+00:01:22,670 --> 00:01:25,090
+aus. So handelt es sich bei gelöstem
+
+39
+00:01:25,090 --> 00:01:27,590
+Chlorwasserstoff um eine Säure. In
+
+40
+00:01:27,590 --> 00:01:29,590
+Wasser gelöst bildet es Salzsäure.
+
+41
+00:01:29,770 --> 00:01:32,130
+Aufgrund der hohen En-Differenz gibt
+
+42
+00:01:32,130 --> 00:01:33,990
+in Wasser gelöstes Chlorwasserstoff
+
+43
+00:01:33,990 --> 00:01:36,690
+Protonen ab. Es entstehen also auch
+
+44
+00:01:36,690 --> 00:01:40,110
+Chlorid-Anionen. Wasser selbst ist
+
+45
+00:01:40,110 --> 00:01:42,330
+ein polares Lösungsmittel. In diesem
+
+46
+00:01:42,330 --> 00:01:44,190
+lösen sich auch nur polare oder
+
+47
+00:01:44,190 --> 00:01:47,650
+geladene Teilchen. Im H2O-Molekül ist
+
+48
+00:01:47,650 --> 00:01:48,850
+die Elektronendichte am
+
+49
+00:01:48,850 --> 00:01:51,010
+Sauerstoffatom deutlich höher als auf
+
+50
+00:01:51,010 --> 00:01:53,690
+Seiten der Wasserstoffatome. Damit
+
+51
+00:01:53,690 --> 00:01:55,830
+entsteht eine partiell negative und
+
+52
+00:01:55,830 --> 00:01:58,330
+eine partiell positive Seite. Doch
+
+53
+00:01:58,330 --> 00:02:00,110
+nicht jedes Molekül mit polarer
+
+54
+00:02:00,110 --> 00:02:01,590
+Atombindung ist gleich ein
+
+55
+00:02:01,590 --> 00:02:04,290
+Dipolmolekül. Der Dipolcharakter
+
+56
+00:02:04,290 --> 00:02:06,210
+kommt nur zum Tragen, wenn die
+
+57
+00:02:06,210 --> 00:02:08,030
+Elektronendichte asymmetrisch
+
+58
+00:02:08,030 --> 00:02:10,630
+umverteilt ist. So ist das CO2
+
+59
+00:02:10,630 --> 00:02:12,830
+-Molekül kein Dipol, da die
+
+60
+00:02:12,830 --> 00:02:14,090
+Sauerstoffe, an denen die
+
+61
+00:02:14,090 --> 00:02:16,090
+Elektronendichte aufgrund der höheren
+
+62
+00:02:16,090 --> 00:02:18,530
+En größer ist, mit den mittig
+
+63
+00:02:18,530 --> 00:02:20,530
+liegenden Kohlenstoffatomen in einer
+
+64
+00:02:20,530 --> 00:02:23,250
+Linie liegen. Das Molekül hat nicht
+
+65
+00:02:23,250 --> 00:02:25,430
+eine positivere und eine negativere
+
+66
+00:02:25,430 --> 00:02:28,210
+Seite, ist also kein Dipolmolekül.
+
+67
+00:02:28,670 --> 00:02:30,430
+Aus diesem Grund ist es auch wichtig,
+
+68
+00:02:30,590 --> 00:02:32,810
+das H2O-Molekül gewinkelt zu
+
+69
+00:02:32,810 --> 00:02:35,270
+zeichnen, damit sein Dipolcharakter
+
+70
+00:02:35,270 --> 00:02:37,850
+erkennbar wird. Sehen wir uns dazu
+
+71
+00:02:37,850 --> 00:02:39,550
+die Verbindung Ammoniak mit der
+
+72
+00:02:39,550 --> 00:02:42,670
+Summenformel NH3 und Boa-Tri-Fluorid
+
+73
+00:02:42,670 --> 00:02:45,170
+mit BF3 an. Erkennt man an der
+
+74
+00:02:45,170 --> 00:02:46,650
+Strukturformel, dass sich bei
+
+75
+00:02:46,650 --> 00:02:48,610
+Ammoniak die drei Wasserstoffatome
+
+76
+00:02:48,610 --> 00:02:50,550
+auf einer Seite befinden, welches
+
+77
+00:02:50,550 --> 00:02:52,510
+somit partiell positiv geladen ist,
+
+78
+00:02:52,630 --> 00:02:54,610
+während die andere Seite mit dem
+
+79
+00:02:54,610 --> 00:02:56,650
+freien Elektronenpaar des Stickstoffs
+
+80
+00:02:56,650 --> 00:02:59,290
+partiell negativ geladen ist. Bei
+
+81
+00:02:59,290 --> 00:03:01,150
+Ammoniak handelt es sich also um ein
+
+82
+00:03:01,150 --> 00:03:04,250
+Dipolmolekül. Das Bohr-Tri-Fluorid
+
+83
+00:03:04,250 --> 00:03:06,850
+-Molekül hingegen ist planar. Alle
+
+84
+00:03:06,850 --> 00:03:09,710
+vier Atome liegen in einer Ebene. Die
+
+85
+00:03:09,710 --> 00:03:12,070
+positive Partialladung ist mittig am
+
+86
+00:03:12,070 --> 00:03:14,170
+Bohr-Atom, während die negativen
+
+87
+00:03:14,170 --> 00:03:16,150
+Partialladungen das Zentralatom
+
+88
+00:03:16,150 --> 00:03:18,570
+symmetrisch umgeben. Es handelt sich
+
+89
+00:03:18,570 --> 00:03:20,030
+aus diesen Gründen nicht um ein
+
+90
+00:03:20,030 --> 00:03:22,630
+Dipolmolekül. Der Grund für die
+
+91
+00:03:22,630 --> 00:03:24,410
+planare Struktur des Bohr-Tri
+
+92
+00:03:24,410 --> 00:03:25,470
+-Fluorids ist die
+
+93
+00:03:25,470 --> 00:03:27,590
+Elektronenkonfiguration des Bohrs.
+
+94
+00:03:28,230 --> 00:03:30,630
+Dieses hat nur drei Valenzelektronen,
+
+95
+00:03:30,630 --> 00:03:32,510
+die Elektronenpaarbindungen mit einem
+
+96
+00:03:32,510 --> 00:03:35,010
+maximalen Abstandswinkel von 120°
+
+97
+00:03:35,010 --> 00:03:37,950
+aufbauen. Bei Ammoniak hingegen hat
+
+98
+00:03:37,950 --> 00:03:40,090
+das zentrale Stickstoffatom neben den
+
+99
+00:03:40,090 --> 00:03:42,170
+drei Valenzelektronen, welche die
+
+100
+00:03:42,170 --> 00:03:43,790
+Bindung mit den Wasserstoffatomen
+
+101
+00:03:43,790 --> 00:03:45,530
+eingehen, auch ein freies
+
+102
+00:03:45,530 --> 00:03:47,150
+Elektronenpaar, welches ebenfalls
+
+103
+00:03:47,150 --> 00:03:49,210
+Platz braucht und möglichst großen
+
+104
+00:03:49,210 --> 00:03:50,110
+Abstand zu den
+
+105
+00:03:50,110 --> 00:03:52,470
+Elektronenpaarbindungen. Man
+
+106
+00:03:52,470 --> 00:03:54,150
+unterscheidet also nicht nur zwischen
+
+107
+00:03:54,150 --> 00:03:56,790
+polaren und unpolaren Atombindungen,
+
+108
+00:03:56,870 --> 00:03:58,730
+sondern bedingt durch die Struktur
+
+109
+00:03:58,730 --> 00:04:00,710
+der Verbindung auch zwischen Dipol-
+
+110
+00:04:00,710 --> 00:04:04,130
+und Nicht-Dipol-Molekülen. Dipole
+
+111
+00:04:04,130 --> 00:04:06,090
+sind nicht mit Ionen zu verwechseln.
+
+112
+00:04:06,340 --> 00:04:08,450
+In Dipol-Molekülen sind die Atome
+
+113
+00:04:08,450 --> 00:04:09,190
+immer noch über
+
+114
+00:04:09,190 --> 00:04:11,030
+Elektronenpaarbindungen verknüpft.
+
+115
+00:04:11,030 --> 00:04:13,410
+Die Partialladungen entstehen durch
+
+116
+00:04:13,410 --> 00:04:14,730
+die Ungleichverteilung der
+
+117
+00:04:14,730 --> 00:04:16,550
+Bindungselektronen innerhalb des
+
+118
+00:04:16,550 --> 00:04:18,850
+Moleküls. Dennoch ist ein
+
+119
+00:04:18,850 --> 00:04:21,390
+Dipolmolekül als Einheit nach außen
+
+120
+00:04:21,390 --> 00:04:24,090
+hin elektrisch neutral. Vielen Dank
+
+121
+00:04:24,090 --> 00:04:26,210
+für deine Aufmerksamkeit. Ich hoffe,
+
+122
+00:04:26,230 --> 00:04:28,050
+dieses Video konnte dir helfen, das
+
+123
+00:04:28,050 --> 00:04:29,750
+Thema polare Atombindungen zu
+
+124
+00:04:29,750 --> 00:04:31,890
+verstehen. Weitere Inhalte wie
+
+125
+00:04:31,890 --> 00:04:34,230
+interaktive Aufgaben, Arbeitsblätter
+
+126
+00:04:34,230 --> 00:04:36,390
+oder Wikis findest du natürlich auch
+
+127
+00:04:36,390 --> 00:04:38,570
+in unserem Online-Lerncenter. Bis zum
+
+128
+00:04:38,570 --> 00:04:39,190
+nächsten Mal!
+

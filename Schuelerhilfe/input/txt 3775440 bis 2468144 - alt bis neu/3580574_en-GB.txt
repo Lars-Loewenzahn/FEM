@@ -1,0 +1,1904 @@
+﻿1
+00:00:03,310 --> 00:00:05,070
+Welcome to the webinar 
+
+2
+00:00:05,070 --> 00:00:07,370
+Integral areas and 
+
+3
+00:00:07,370 --> 00:00:09,850
+rotational volumes. In 
+
+4
+00:00:09,850 --> 00:00:12,230
+this webinar , we will talk about areas 
+
+5
+00:00:12,230 --> 00:00:13,970
+under functions, i.e. between the 
+
+6
+00:00:13,970 --> 00:00:16,030
+function graphs and the x-axis, and 
+
+7
+00:00:16,030 --> 00:00:16,890
+at the very end about 
+
+8
+00:00:16,890 --> 00:00:20,270
+volumes of rotation. To do this, 
+
+9
+00:00:20,270 --> 00:00:21,570
+we will start by 
+
+10
+00:00:21,570 --> 00:00:23,150
+looking at integrals again , i.e. 
+
+11
+00:00:23,150 --> 00:00:25,070
+certain integrals and the 
+
+12
+00:00:25,070 --> 00:00:26,750
+geometric interpretation of a 
+
+13
+00:00:26,750 --> 00:00:29,210
+certain integral and thus 
+
+14
+00:00:29,210 --> 00:00:31,390
+integrals in general, 
+
+15
+00:00:31,390 --> 00:00:34,290
+and then we will 
+
+16
+00:00:34,370 --> 00:00:35,850
+have one or two application tasks on how 
+
+17
+00:00:35,850 --> 00:00:38,170
+to 
+
+18
+00:00:38,170 --> 00:00:40,750
+determine areas under graphs and then at 
+the end 
+
+19
+00:00:40,750 --> 00:00:42,470
+we will 
+
+20
+00:00:42,470 --> 00:00:45,810
+look at the volumes of rotation. Well, 
+let's start again very 
+
+21
+00:00:45,810 --> 00:00:46,790
+quickly with a brief review 
+
+22
+00:00:46,790 --> 00:00:48,010
+. Definite integrals, a 
+
+23
+00:00:48,010 --> 00:00:49,410
+definite integral is characterized 
+
+24
+00:00:49,410 --> 00:00:50,750
+by the fact that it 
+
+25
+00:00:50,750 --> 00:00:52,110
+has an upper and a lower limit. A is the 
+
+26
+00:00:52,110 --> 00:00:54,390
+lower limit, B is the upper limit and 
+
+27
+00:00:54,390 --> 00:00:56,010
+such an integral can be solved by 
+
+28
+00:00:56,010 --> 00:00:58,210
+
+29
+00:00:58,210 --> 00:00:59,610
+
+30
+00:00:59,610 --> 00:01:01,410
+
+31
+00:01:01,410 --> 00:01:05,310
+calculating the antiderivative f of b, 
+i.e. the upper limit, minus the 
+antiderivative f of a, i.e. the lower 
+limit. This is 
+
+32
+00:01:05,310 --> 00:01:07,590
+also due to the main theorem of 
+
+33
+00:01:07,590 --> 00:01:08,970
+differential and integral calculus 
+
+34
+00:01:08,970 --> 00:01:10,650
+
+35
+00:01:10,650 --> 00:01:13,590
+, as explained in the previous webinar. It 
+is very important 
+
+36
+00:01:13,590 --> 00:01:15,450
+that the function 
+
+37
+00:01:15,450 --> 00:01:16,910
+is continuous. It must not have any gaps, 
+
+38
+00:01:16,970 --> 00:01:19,310
+as is the case here, or in other words, 
+
+39
+00:01:19,310 --> 00:01:20,590
+this is 
+
+40
+00:01:20,590 --> 00:01:23,170
+not possible for fractional rational 
+functions or only in 
+
+41
+00:01:23,170 --> 00:01:25,510
+the interval where 
+
+42
+00:01:25,510 --> 00:01:27,870
+there is no interruption or no definition 
+gap. 
+
+43
+00:01:28,470 --> 00:01:30,590
+But this is almost always the case. So 
+
+44
+00:01:30,590 --> 00:01:32,090
+we must always have something like this, 
+the 
+
+45
+00:01:32,090 --> 00:01:34,030
+graph must not have a gap and 
+
+46
+00:01:34,030 --> 00:01:34,870
+then we can also 
+
+47
+00:01:34,870 --> 00:01:37,010
+determine the area in between. 
+
+48
+00:01:39,850 --> 00:01:42,250
+The area 
+
+49
+00:01:42,250 --> 00:01:44,070
+between the graph and the x-axis is always 
+
+50
+00:01:44,070 --> 00:01:47,950
+calculated. And this area is 
+
+51
+00:01:47,950 --> 00:01:49,630
+delimited by the upper or 
+
+52
+00:01:49,990 --> 00:01:51,730
+lower limit, i.e. in the interval a, 
+
+53
+00:01:51,850 --> 00:01:55,650
+b. This means that the area 
+
+54
+00:01:55,650 --> 00:01:57,430
+starts at point a and ends at 
+
+55
+00:01:57,430 --> 00:01:58,770
+point b, if you like. 
+
+56
+00:02:01,570 --> 00:02:03,870
+A special case is, of course, if 
+
+57
+00:02:03,870 --> 00:02:05,950
+we want to start at 0. 
+
+58
+00:02:06,610 --> 00:02:08,570
+This is then the so-called 
+
+59
+00:02:08,570 --> 00:02:10,390
+antiderivative function, which goes from 0 
+to x 
+
+60
+00:02:10,390 --> 00:02:14,390
+or from 0 to b, i.e. f from b. And 
+
+61
+00:02:14,390 --> 00:02:16,530
+as I said, this is a special case. 
+
+62
+00:02:18,610 --> 00:02:19,490
+This is also called 
+
+63
+00:02:19,490 --> 00:02:22,550
+the area content function if 
+
+64
+00:02:22,550 --> 00:02:24,610
+the a is 0, as is the case with the 
+
+65
+00:02:24,610 --> 00:02:28,660
+antiderivative function. Here 
+
+66
+00:02:28,660 --> 00:02:29,920
+we have a small example. 
+
+67
+00:02:29,920 --> 00:02:31,100
+We are to calculate the area 
+
+68
+00:02:31,100 --> 00:02:34,120
+between the function and the x-axis 
+
+69
+00:02:34,120 --> 00:02:35,980
+. And the function is f 
+
+70
+00:02:35,980 --> 00:02:38,740
+of x is equal to 2x² plus 2. The 
+
+71
+00:02:38,740 --> 00:02:40,560
+interval is 0 to 2. This means that 
+
+72
+00:02:40,580 --> 00:02:42,280
+we have exactly this 
+
+73
+00:02:42,280 --> 00:02:45,100
+special case just mentioned, that 
+
+74
+00:02:45,100 --> 00:02:48,000
+we start at 0 and end at 2. 
+
+75
+00:02:49,800 --> 00:02:50,700
+We therefore take the 
+
+76
+00:02:50,700 --> 00:02:52,000
+area content function, i.e. 
+
+77
+00:02:52,000 --> 00:02:54,800
+the antiderivative. So the integral from 
+
+78
+00:02:54,800 --> 00:02:56,740
+a to b of the function f of x dx 
+
+79
+00:02:56,740 --> 00:02:58,380
+is then simply f of b, because our 
+
+80
+00:02:58,380 --> 00:03:01,600
+a is 0. This means that our 
+
+81
+00:03:01,600 --> 00:03:02,660
+antiderivative, where we 
+
+82
+00:03:02,660 --> 00:03:03,580
+insert the b , is our 
+
+83
+00:03:03,580 --> 00:03:08,420
+area content function A of b. 
+
+84
+00:03:08,420 --> 00:03:09,880
+So we first integrate 
+
+85
+00:03:09,880 --> 00:03:12,480
+our function 2x² plus 2, i.e. the 
+
+86
+00:03:12,480 --> 00:03:14,900
+integral from 0 to 2 of 2x² plus 2. 
+
+87
+00:03:14,980 --> 00:03:17,400
+This is integrated 2 thirds x to the power 
+of 3 
+
+88
+00:03:17,400 --> 00:03:21,000
+plus 2x. And because we only 
+
+89
+00:03:21,000 --> 00:03:22,660
+have the upper limit 2 and the lower 
+
+90
+00:03:22,660 --> 00:03:25,380
+limit is 0, we only need to 
+
+91
+00:03:25,380 --> 00:03:26,780
+use x equal to 2, i.e. the upper 
+
+92
+00:03:26,780 --> 00:03:28,960
+limit. This gives us 2 thirds 
+
+93
+00:03:28,960 --> 00:03:32,120
+times 2 to the power of 3 plus 2 times 2. 
+That's 
+
+94
+00:03:32,120 --> 00:03:34,860
+28 thirds. In other words, we know that 
+
+95
+00:03:34,980 --> 00:03:37,400
+we have 
+
+96
+00:03:37,400 --> 00:03:41,120
+enclosed an area of 28 thirds. The whole 
+thing 
+
+97
+00:03:41,120 --> 00:03:42,500
+can then be interpreted in this way, even 
+
+98
+00:03:42,500 --> 00:03:43,800
+if it is slightly shifted here. 
+
+99
+00:03:43,840 --> 00:03:46,480
+So the area should or the 
+
+100
+00:03:46,480 --> 00:03:52,700
+area is to be found here. This is where 
+the 
+
+101
+00:03:52,700 --> 00:03:57,930
+area is located and we have 
+
+102
+00:03:57,930 --> 00:03:58,870
+just calculated it. 
+
+103
+00:04:01,490 --> 00:04:03,110
+Of course, it looks a little different 
+
+104
+00:04:03,210 --> 00:04:04,130
+if we suddenly 
+
+105
+00:04:04,130 --> 00:04:05,990
+have an upper and a lower limit, such as 
+
+106
+00:04:05,990 --> 00:04:08,070
+1 and 3 here. As you 
+
+107
+00:04:08,070 --> 00:04:09,010
+have probably already seen , we 
+
+108
+00:04:09,090 --> 00:04:10,350
+also have a different functional equation 
+here , 
+
+109
+00:04:10,450 --> 00:04:14,850
+x²-4. And you proceed in almost 
+
+110
+00:04:14,850 --> 00:04:18,010
+exactly the same way. First, we 
+
+111
+00:04:18,010 --> 00:04:19,930
+insert the two limits, 1 and 3, which 
+means that 
+
+112
+00:04:19,930 --> 00:04:21,450
+in this case we calculate 
+
+113
+00:04:21,450 --> 00:04:23,710
+the integral from 1 to 3 of the function 
+
+114
+00:04:23,710 --> 00:04:26,230
+f of x dx. In other words, we take the 
+
+115
+00:04:26,230 --> 00:04:27,550
+antiderivative of the upper limit 
+
+116
+00:04:27,550 --> 00:04:29,210
+minus the antiderivative of the 
+
+117
+00:04:29,210 --> 00:04:31,450
+lower limit. Yes, that's what we see 
+
+118
+00:04:31,450 --> 00:04:33,110
+here. Integral from 1 to 3 of 
+
+119
+00:04:33,110 --> 00:04:36,570
+the function x² plus 2x dx. First, 
+
+120
+00:04:36,570 --> 00:04:38,510
+we simply form the antiderivative 
+
+121
+00:04:38,650 --> 00:04:39,790
+or integrate the 
+
+122
+00:04:39,790 --> 00:04:42,330
+whole thing. x² is integrated 1 third x 
+
+123
+00:04:42,330 --> 00:04:45,170
+to the power of 3 and 2 is integrated 
+minus 2x. 
+
+124
+00:04:46,130 --> 00:04:48,150
+And that in the limits 1 to 3. You 
+
+125
+00:04:48,150 --> 00:04:49,570
+can see that this time both limits are 
+
+126
+00:04:49,570 --> 00:04:51,130
+still here, because there was just a 0, 
+
+127
+00:04:51,170 --> 00:04:52,230
+so we saved ourselves the trouble. 
+
+128
+00:04:52,290 --> 00:04:55,030
+In this case, there are just two limits. 
+Now 
+
+129
+00:04:55,030 --> 00:04:56,530
+it's simply upper limit minus 
+
+130
+00:04:56,530 --> 00:04:58,350
+lower limit, i.e. f of b minus f 
+
+131
+00:04:58,350 --> 00:04:59,830
+of a This gives us 1 third times 
+
+132
+00:04:59,830 --> 00:05:02,570
+3 to the power of 3 plus 2 times 3 minus 1 
+third 
+
+133
+00:05:02,570 --> 00:05:04,590
+times 1 plus 2 times 1 So as I said, 
+
+134
+00:05:04,710 --> 00:05:06,190
+always use 3 here for the upper limit 
+
+135
+00:05:06,190 --> 00:05:07,830
+and 1 here for the lower limit 
+
+136
+00:05:07,830 --> 00:05:10,810
+It's best to 
+
+137
+00:05:10,810 --> 00:05:12,010
+always put the second terms in brackets, 
+otherwise 
+
+138
+00:05:12,010 --> 00:05:13,150
+you' ll have to change the signs 
+immediately, 
+
+139
+00:05:13,190 --> 00:05:15,030
+if you don't do this, my advice 
+
+140
+00:05:15,030 --> 00:05:16,530
+to you is to always put them in brackets 
+and 
+
+141
+00:05:16,530 --> 00:05:19,310
+then calculate them at the end in 
+
+142
+00:05:19,310 --> 00:05:20,590
+this case, we end up with an 
+
+143
+00:05:20,590 --> 00:05:24,450
+area of 40 thirds the 
+
+144
+00:05:24,450 --> 00:05:27,770
+whole thing is then located as we 
+
+145
+00:05:27,770 --> 00:05:31,850
+see here, i.e. from 1 to 3 so 
+
+146
+00:05:31,850 --> 00:05:35,370
+directly below here is 
+
+147
+00:05:35,370 --> 00:05:39,850
+our area yes you can see here 
+
+148
+00:05:39,850 --> 00:05:41,130
+very nicely it is 
+
+149
+00:05:41,130 --> 00:05:43,410
+limited here by the 1 and by the 3 below 
+
+150
+00:05:43,410 --> 00:05:45,230
+the graph of the x-axis. 
+
+151
+00:05:48,730 --> 00:05:50,670
+Now let's move on to a task that 
+
+152
+00:05:50,670 --> 00:05:52,870
+also occurs very often and that 
+
+153
+00:05:52,930 --> 00:05:53,830
+may 
+
+154
+00:05:53,830 --> 00:05:55,230
+
+155
+00:05:55,230 --> 00:05:57,730
+sound very difficult if you haven't done 
+it before. This is the 
+
+156
+00:05:57,730 --> 00:06:00,150
+area between two 
+
+157
+00:06:00,150 --> 00:06:03,350
+functions. To 
+
+158
+00:06:03,350 --> 00:06:04,650
+calculate this area , we first need 
+
+159
+00:06:04,650 --> 00:06:07,290
+the difference function and 
+
+160
+00:06:07,290 --> 00:06:13,110
+, of course, we have to 
+
+161
+00:06:13,110 --> 00:06:14,150
+calculate the limits. We want to 
+
+162
+00:06:14,150 --> 00:06:16,490
+do all of that right away. 
+
+163
+00:06:16,490 --> 00:06:17,690
+You should always use absolute value 
+dashes for such problems 
+
+164
+00:06:17,690 --> 00:06:19,530
+, simply because it often 
+
+165
+00:06:19,530 --> 00:06:20,570
+happens that a negative 
+
+166
+00:06:20,570 --> 00:06:21,950
+area results and 
+
+167
+00:06:21,950 --> 00:06:24,430
+the absolute value dashes make it 
+
+168
+00:06:24,430 --> 00:06:25,150
+positive. 
+
+169
+00:06:28,260 --> 00:06:29,500
+Well, here we have such a 
+
+170
+00:06:29,500 --> 00:06:31,080
+task. We have 
+
+171
+00:06:31,080 --> 00:06:32,800
+the function g of x in green and the 
+
+172
+00:06:32,800 --> 00:06:36,080
+function f of x in blue . f of x minus x² 
+
+173
+00:06:36,080 --> 00:06:38,700
+plus 3 half x plus 4 and g of x 1 
+
+174
+00:06:38,700 --> 00:06:41,920
+half x² plus 1. And we are now supposed to 
+
+175
+00:06:41,920 --> 00:06:43,360
+
+176
+00:06:43,360 --> 00:06:44,920
+
+177
+00:06:44,960 --> 00:06:47,040
+calculate the area enclosed between these 
+two graphs . We can see here 
+
+178
+00:06:47,140 --> 00:06:48,820
+that we could 
+
+179
+00:06:48,820 --> 00:06:50,580
+read off the intersection points , minus 1 
+and 2, 
+
+180
+00:06:50,580 --> 00:06:51,540
+but this is not popular in mathematics 
+
+181
+00:06:51,540 --> 00:06:53,980
+. Therefore, we first have to 
+
+182
+00:06:53,980 --> 00:06:54,820
+determine the limits, 
+
+183
+00:06:54,840 --> 00:06:56,620
+or the intersection points. 
+
+184
+00:06:56,620 --> 00:06:57,940
+And we do this simply by 
+
+185
+00:06:57,940 --> 00:06:59,060
+
+186
+00:06:59,060 --> 00:07:00,700
+equating the two functional equations . 
+Quite normally, the 
+
+187
+00:07:00,840 --> 00:07:01,520
+point of intersection between two 
+
+188
+00:07:01,520 --> 00:07:03,040
+functions, i.e. f of x is equal to g 
+
+189
+00:07:03,040 --> 00:07:05,880
+of x. So minus x² plus 3 half x 
+
+190
+00:07:05,880 --> 00:07:08,640
+plus 4 equals 1 half x² plus 1. 
+
+191
+00:07:09,500 --> 00:07:11,340
+And we now 
+
+192
+00:07:11,340 --> 00:07:13,200
+simply have to solve this equation . The 
+easiest 
+
+193
+00:07:13,220 --> 00:07:14,260
+thing to do is to convert it to the normal 
+form 
+
+194
+00:07:14,260 --> 00:07:17,000
+, i.e. x² minus x minus 2, and 
+
+195
+00:07:17,000 --> 00:07:19,000
+then insert it into the PQ formula or 
+
+196
+00:07:19,000 --> 00:07:20,280
+the midnight formula, 
+
+197
+00:07:20,280 --> 00:07:21,700
+depending on what you are better at or 
+
+198
+00:07:21,700 --> 00:07:22,320
+perhaps 
+
+199
+00:07:22,320 --> 00:07:23,460
+simply solve it with the calculator, 
+
+200
+00:07:23,520 --> 00:07:25,800
+depending on what you are allowed to do 
+and 
+
+201
+00:07:25,800 --> 00:07:28,060
+what you can do. Well, we then have 
+
+202
+00:07:28,060 --> 00:07:29,900
+the two solutions, minus 1 and 2, 
+
+203
+00:07:29,900 --> 00:07:31,020
+and these are also our 
+
+204
+00:07:31,020 --> 00:07:32,740
+limits. The minus 1 is then our 
+
+205
+00:07:32,740 --> 00:07:34,880
+lower limit A and the 2 is our 
+
+206
+00:07:34,880 --> 00:07:38,700
+upper limit B. This means that we 
+
+207
+00:07:38,700 --> 00:07:40,340
+now have the area is the 
+
+208
+00:07:40,340 --> 00:07:43,440
+amount of the integral from a to b of f 
+
+209
+00:07:43,440 --> 00:07:45,540
+of x minus g of x. 
+
+210
+00:07:45,540 --> 00:07:46,460
+As I said, you 
+
+211
+00:07:46,640 --> 00:07:48,100
+always calculate or subtract 
+
+212
+00:07:48,100 --> 00:07:50,560
+the two functions f from x and g 
+
+213
+00:07:50,560 --> 00:07:53,340
+from x in the integral. And that's what 
+we've 
+
+214
+00:07:53,340 --> 00:07:55,060
+just done here. In the limits 
+
+215
+00:07:55,060 --> 00:07:58,080
+minus 1 to 2 minus x² plus 3 half x 
+
+216
+00:07:58,080 --> 00:08:01,660
+plus 4 minus 1 half x² plus 1. Again, 
+
+217
+00:08:01,660 --> 00:08:03,580
+the advice to you is to put it 
+
+218
+00:08:03,580 --> 00:08:04,720
+in brackets first and then 
+
+219
+00:08:04,720 --> 00:08:07,760
+simplify it. Minus x² minus 1 half 
+
+220
+00:08:07,760 --> 00:08:12,020
+x² is minus 3 half x² and plus 4 
+
+221
+00:08:12,020 --> 00:08:13,840
+minus 1 is just a plus 3 and 
+
+222
+00:08:13,840 --> 00:08:14,760
+then this is just the 
+
+223
+00:08:14,760 --> 00:08:16,220
+function that we have to integrate. 
+
+224
+00:08:17,140 --> 00:08:18,740
+The first thing we do now is to form 
+
+225
+00:08:18,740 --> 00:08:20,720
+the antiderivative. Minus 3 half x² 
+
+226
+00:08:20,720 --> 00:08:24,500
+integrated is minus 1 half x to the power 
+of 3 
+
+227
+00:08:24,500 --> 00:08:27,300
+and plus 3 half x integrated is 3 
+
+228
+00:08:27,300 --> 00:08:30,020
+quarter x². The 3 simply get an 
+
+229
+00:08:30,020 --> 00:08:31,520
+x, so we get 3x and 
+
+230
+00:08:31,520 --> 00:08:33,120
+we have already 
+
+231
+00:08:33,120 --> 00:08:35,700
+completed the integration. And the whole 
+thing happens 
+
+232
+00:08:35,700 --> 00:08:37,740
+in the limits minus 1 to 2. 
+
+233
+00:08:41,220 --> 00:08:43,540
+And we've actually already 
+
+234
+00:08:43,540 --> 00:08:44,620
+done the hardest part. 
+
+235
+00:08:44,620 --> 00:08:46,000
+All we have to do now is 
+
+236
+00:08:46,000 --> 00:08:50,900
+calculate the upper limit minus the lower 
+limit. We do the 
+
+237
+00:08:50,900 --> 00:08:52,300
+same here. So we use 
+
+238
+00:08:52,300 --> 00:08:54,020
+2 as the upper limit and minus 
+
+239
+00:08:54,020 --> 00:08:56,900
+1 as the lower limit. This brings 
+
+240
+00:08:56,900 --> 00:08:59,100
+us to 5 minus minus 7 quarters. 
+
+241
+00:08:59,100 --> 00:09:00,280
+Here, too, the wheel equation is in 
+
+242
+00:09:00,280 --> 00:09:01,620
+brackets and you can see that minus minus 
+
+243
+00:09:01,620 --> 00:09:03,600
+is plus, which brings us to 
+
+244
+00:09:03,600 --> 00:09:09,240
+27 quarters. And that 
+
+245
+00:09:09,240 --> 00:09:11,800
+completes the task. So 
+
+246
+00:09:11,800 --> 00:09:13,480
+we have 
+
+247
+00:09:13,480 --> 00:09:14,720
+calculated this area. 
+
+248
+00:09:20,710 --> 00:09:22,430
+Let's move on to the next topic, 
+
+249
+00:09:22,570 --> 00:09:25,650
+improper integrals . And we'll 
+
+250
+00:09:25,650 --> 00:09:27,350
+start with an example. 
+
+251
+00:09:27,490 --> 00:09:29,110
+Let's assume that we make 
+
+252
+00:09:29,110 --> 00:09:31,130
+an infinite number of squares. And 
+
+253
+00:09:31,130 --> 00:09:33,250
+this is as follows: the next 
+
+254
+00:09:33,250 --> 00:09:34,650
+square is always only a 
+
+255
+00:09:34,650 --> 00:09:36,730
+quarter of the area of the current 
+
+256
+00:09:36,730 --> 00:09:38,090
+square. In other words, a quarter of the 
+
+257
+00:09:38,090 --> 00:09:39,210
+area is now only half as 
+
+258
+00:09:39,210 --> 00:09:43,250
+high. And the question now is, how 
+
+259
+00:09:43,250 --> 00:09:45,890
+large is the resulting area? 
+
+260
+00:09:46,290 --> 00:09:48,610
+So how big will the area be? We 
+
+261
+00:09:48,610 --> 00:09:50,590
+have to keep extending this. The 
+
+262
+00:09:50,590 --> 00:09:51,950
+first idea is, of course, to 
+
+263
+00:09:51,950 --> 00:09:55,770
+build a triangle around it. And 
+
+264
+00:09:55,770 --> 00:09:58,690
+then the area is nothing 
+
+265
+00:09:58,690 --> 00:10:00,410
+more than a. is equal to a times b 
+
+266
+00:10:00,410 --> 00:10:04,810
+halves. But that is nothing more than 
+
+267
+00:10:04,810 --> 00:10:06,850
+an estimate. As I said, that's 
+
+268
+00:10:06,850 --> 00:10:09,630
+not the truth, it's just a 
+
+269
+00:10:09,630 --> 00:10:10,530
+rough estimate. 
+
+270
+00:10:15,310 --> 00:10:16,850
+It doesn't always work, 
+
+271
+00:10:16,930 --> 00:10:17,710
+and this 
+
+272
+00:10:17,710 --> 00:10:19,330
+example doesn't work 
+
+273
+00:10:19,330 --> 00:10:20,710
+for all functions. We have 
+
+274
+00:10:20,710 --> 00:10:21,590
+
+275
+00:10:21,590 --> 00:10:23,030
+picked out two functions here where it 
+does 
+
+276
+00:10:23,030 --> 00:10:25,810
+and doesn't work. 
+
+277
+00:10:25,810 --> 00:10:27,090
+First, let' s take a look at the E 
+function, where 
+
+278
+00:10:27,090 --> 00:10:28,850
+it works. 
+
+279
+00:10:28,850 --> 00:10:30,990
+We want to 
+
+280
+00:10:30,990 --> 00:10:32,830
+
+281
+00:10:32,830 --> 00:10:34,990
+calculate the integral between 0 and 
+infinity of the function e raised to the 
+power of minus x. It's very important to 
+note 
+
+282
+00:10:34,990 --> 00:10:37,450
+that something to the power of 0 is always 
+1. 
+
+283
+00:10:37,550 --> 00:10:40,990
+This means that we start with 1 and then 
+
+284
+00:10:40,990 --> 00:10:42,710
+we ask ourselves, e to the power of minus 
+
+285
+00:10:42,710 --> 00:10:43,950
+infinity, or the 
+
+286
+00:10:43,950 --> 00:10:45,830
+integral of e to the power of minus 
+infinity, 
+
+287
+00:10:45,890 --> 00:10:49,770
+what is that? Sorry, the 
+
+288
+00:10:49,770 --> 00:10:51,590
+integral from 0 to infinity of the 
+
+289
+00:10:51,590 --> 00:10:53,830
+function e raised to the power of minus x. 
+
+290
+00:10:53,830 --> 00:10:54,710
+You'll 
+
+291
+00:10:54,710 --> 00:10:57,310
+see why I made a mistake in a moment . 
+First, let's 
+
+292
+00:10:57,310 --> 00:10:59,790
+use our limits of integration and what 
+
+293
+00:10:59,790 --> 00:11:04,230
+'s very important here is that e raised to 
+the power of minus x 
+
+294
+00:11:04,230 --> 00:11:06,270
+is integrated minus e raised to the power 
+of minus x. 
+
+295
+00:11:06,950 --> 00:11:07,970
+That's why I 
+
+296
+00:11:07,970 --> 00:11:09,290
+made such a mistake. In other words, in 
+the end it 
+
+297
+00:11:09,290 --> 00:11:10,550
+really says minus e to the power of minus 
+
+298
+00:11:10,550 --> 00:11:12,410
+infinity. e to the power of minus infinity 
+is 
+
+299
+00:11:12,410 --> 00:11:15,110
+approximately 0. That means it' 
+
+300
+00:11:15,110 --> 00:11:17,110
+s approximately 1. 
+
+301
+00:11:21,500 --> 00:11:26,360
+So the area between 0 and 
+
+302
+00:11:26,360 --> 00:11:32,400
+infinity is approximately 1. That's what 
+it says 
+
+303
+00:11:32,400 --> 00:11:34,040
+here. Because simply 
+
+304
+00:11:34,200 --> 00:11:37,000
+minus e to the power of minus infinity is 
+
+305
+00:11:37,000 --> 00:11:41,020
+approximately 0. A second example where 
+
+306
+00:11:41,020 --> 00:11:42,680
+this doesn't work is simply x to the power 
+of 
+
+307
+00:11:42,680 --> 00:11:48,000
+minus 1. Because if we now 
+
+308
+00:11:48,000 --> 00:11:51,920
+insert the 1 here , we simply have 1 to 
+the power of 
+
+309
+00:11:51,920 --> 00:11:55,180
+minus 1, which is simply 1, okay, 
+
+310
+00:11:55,320 --> 00:11:57,920
+we can still do that, and infinity 
+
+311
+00:11:57,920 --> 00:11:59,540
+to the power of minus 1, unfortunately 
+that 
+
+312
+00:11:59,540 --> 00:12:01,600
+doesn't work , or rather we have to 
+
+313
+00:12:01,600 --> 00:12:02,640
+integrate it and then we will 
+
+314
+00:12:02,640 --> 00:12:03,420
+find that it no longer 
+
+315
+00:12:03,420 --> 00:12:06,560
+works. We can see that 
+
+316
+00:12:06,560 --> 00:12:09,900
+here for now. First of all, let's go 
+
+317
+00:12:09,900 --> 00:12:12,900
+and insert our limits and we 
+
+318
+00:12:12,900 --> 00:12:14,060
+suddenly have the logarithm of 
+
+319
+00:12:14,060 --> 00:12:16,920
+x, i.e. we have 
+
+320
+00:12:16,920 --> 00:12:19,000
+the logarithm of x as an 
+
+321
+00:12:19,000 --> 00:12:21,300
+antiderivative function in the limits 1 to 
+b 
+
+322
+00:12:21,300 --> 00:12:23,060
+or 1 to infinity, if you 
+
+323
+00:12:23,060 --> 00:12:27,240
+like. And the logarithm of 
+
+324
+00:12:27,240 --> 00:12:29,240
+infinity is unfortunately infinite. 
+
+325
+00:12:31,920 --> 00:12:33,460
+This is simply due to the fact that the 
+
+326
+00:12:33,460 --> 00:12:35,280
+logarithm function increases continuously, 
+
+327
+00:12:35,280 --> 00:12:37,420
+albeit very slowly. And therefore 
+
+328
+00:12:37,420 --> 00:12:39,520
+no value is set or it 
+
+329
+00:12:39,520 --> 00:12:43,070
+approaches no value. This brings us to 
+
+330
+00:12:43,070 --> 00:12:44,150
+the last 
+
+331
+00:12:44,150 --> 00:12:45,310
+topic for today. These are the 
+
+332
+00:12:45,310 --> 00:12:47,130
+rotation volumes. Yes, 
+
+333
+00:12:47,170 --> 00:12:49,090
+rotation volumes are simply 
+
+334
+00:12:49,090 --> 00:12:51,170
+bodies that are created by rotating them 
+
+335
+00:12:51,170 --> 00:12:53,970
+around the x-axis or the y-axis 
+
+336
+00:12:53,970 --> 00:12:55,290
+. Of course, the whole thing 
+
+337
+00:12:55,290 --> 00:12:56,630
+also takes place in an interval. 
+
+338
+00:12:57,370 --> 00:12:59,390
+And as I said, there are two cases, 
+
+339
+00:12:59,470 --> 00:13:02,010
+either 
+
+340
+00:13:02,010 --> 00:13:03,810
+rotating along the x-axis or rotating 
+along the y-axis 
+
+341
+00:13:03,810 --> 00:13:05,310
+. 
+
+342
+00:13:05,310 --> 00:13:06,510
+
+343
+00:13:08,550 --> 00:13:10,650
+Rotating along the x-axis is 
+
+344
+00:13:10,650 --> 00:13:12,830
+of course easier, but rotating along the 
+y-axis 
+
+345
+00:13:12,830 --> 00:13:14,690
+is also not too 
+
+346
+00:13:14,690 --> 00:13:17,150
+difficult. the whole thing is of course 
+
+347
+00:13:17,150 --> 00:13:19,110
+based on the fact that if you 
+
+348
+00:13:19,110 --> 00:13:20,910
+let it rotate , a circular surface is 
+created here 
+
+349
+00:13:20,910 --> 00:13:22,810
+and the function equation of course 
+
+350
+00:13:22,810 --> 00:13:26,110
+changes this edge here, so 
+
+351
+00:13:26,110 --> 00:13:26,970
+if, for example, you 
+
+352
+00:13:26,970 --> 00:13:28,450
+
+353
+00:13:28,450 --> 00:13:30,450
+were to incorporate a function like this , 
+the edge would 
+
+354
+00:13:30,450 --> 00:13:32,870
+look like this the area of this 
+
+355
+00:13:32,870 --> 00:13:35,610
+surface for the cut surface is 
+
+356
+00:13:35,610 --> 00:13:38,990
+still always pi times R², where our 
+
+357
+00:13:38,990 --> 00:13:41,490
+R is our function equation. So 
+
+358
+00:13:41,490 --> 00:13:43,830
+we arrive at the approach, V of X 
+
+359
+00:13:43,830 --> 00:13:45,950
+is equal to Pi times our integral from 
+
+360
+00:13:45,950 --> 00:13:48,670
+A to B, F² of X dx, that is, we 
+
+361
+00:13:48,670 --> 00:13:50,030
+square our function, this is 
+
+362
+00:13:50,030 --> 00:13:51,450
+simply due to the fact that the 
+
+363
+00:13:51,450 --> 00:13:52,910
+function value at each point represents 
+the 
+
+364
+00:13:52,910 --> 00:13:55,070
+radius at each point. 
+
+365
+00:13:57,550 --> 00:13:59,190
+With FV of Y it's a bit 
+
+366
+00:13:59,190 --> 00:14:00,430
+easier, er, it's a bit 
+
+367
+00:14:00,430 --> 00:14:02,550
+more complicated. Here 
+
+368
+00:14:02,550 --> 00:14:04,850
+again , we have pi times the integral from 
+a to 
+
+369
+00:14:04,850 --> 00:14:07,070
+b of f raised to the power of minus 1. 
+This means that we 
+
+370
+00:14:07,070 --> 00:14:09,010
+need the inverse function of 
+
+371
+00:14:09,010 --> 00:14:14,390
+x squared again. This means 
+
+372
+00:14:14,470 --> 00:14:16,550
+that if we rotate around the y-axis 
+
+373
+00:14:16,590 --> 00:14:17,870
+, we only need to 
+
+374
+00:14:17,870 --> 00:14:18,870
+form the inverse function. In other words, 
+we have to 
+
+375
+00:14:18,870 --> 00:14:20,610
+rearrange the function equation according 
+to x. 
+
+376
+00:14:22,820 --> 00:14:23,980
+Let's start with an 
+
+377
+00:14:23,980 --> 00:14:25,720
+example . 
+
+378
+00:14:25,720 --> 00:14:27,220
+The first thing we want to do is rotate 
+around the x-axis. 
+
+379
+00:14:27,220 --> 00:14:28,320
+As just mentioned, this is the 
+
+380
+00:14:28,320 --> 00:14:29,600
+simpler case. We have the 
+
+381
+00:14:29,600 --> 00:14:32,200
+function f of x is equal to 1.5x² and 
+
+382
+00:14:32,200 --> 00:14:35,420
+we want the volume of rotation in 
+
+383
+00:14:35,420 --> 00:14:38,480
+an interval from 0 to 1. And that 
+
+384
+00:14:38,480 --> 00:14:40,140
+'s quite simple. v of x is then 
+
+385
+00:14:40,140 --> 00:14:42,120
+equal to pi times the integral of a to 
+
+386
+00:14:42,120 --> 00:14:46,060
+b of the function f of x² dx. 
+
+387
+00:14:46,060 --> 00:14:47,140
+In other words, we simply 
+
+388
+00:14:47,140 --> 00:14:49,360
+insert our function here. So pi times 
+
+389
+00:14:49,360 --> 00:14:52,240
+the integral from 0 to 1 of 1.5x² 
+
+390
+00:14:52,240 --> 00:14:56,140
+to the power of 2 dx. x. Now it is very 
+important that 
+
+391
+00:14:56,240 --> 00:14:57,580
+when we solve this bracket here, we 
+
+392
+00:14:58,020 --> 00:14:59,980
+have to square the 1 half once, 
+
+393
+00:15:00,040 --> 00:15:01,360
+which is then 1 quarter and 
+
+394
+00:15:01,360 --> 00:15:03,060
+square the x. It is very important to 
+remember 
+
+395
+00:15:03,060 --> 00:15:04,680
+
+396
+00:15:04,680 --> 00:15:06,760
+that when you raise a power , you multiply 
+it, 
+
+397
+00:15:06,800 --> 00:15:08,400
+power laws. This means we calculate 
+
+398
+00:15:08,400 --> 00:15:10,520
+2 times 2, which is not 2 plus 2, very 
+
+399
+00:15:10,520 --> 00:15:12,860
+important. So we arrive at x to the power 
+of 4. 
+
+400
+00:15:13,020 --> 00:15:15,880
+2 times 2 2 is 4, so x to the power of 4. 
+And 
+
+401
+00:15:15,880 --> 00:15:17,040
+we can already see that this 
+
+402
+00:15:17,040 --> 00:15:18,620
+is almost through the number. We 
+
+403
+00:15:18,620 --> 00:15:20,680
+now have pi times the integral from 0 
+
+404
+00:15:20,680 --> 00:15:23,300
+to 1 and 1, 1 quarter x to the power of 4 
+dx. 
+
+405
+00:15:23,540 --> 00:15:24,500
+We now integrate this 
+
+406
+00:15:24,500 --> 00:15:27,600
+as normal. Then we arrive at pi times 1 
+
+407
+00:15:27,600 --> 00:15:29,680
+twentieth x to the power of 5 in the 
+limits 0 
+
+408
+00:15:29,680 --> 00:15:32,680
+to 1. The limit 0 is then 
+
+409
+00:15:32,680 --> 00:15:34,340
+0 again. If we 
+
+410
+00:15:34,340 --> 00:15:35,620
+insert the limit 0 , we get a 0 again. 
+
+411
+00:15:35,780 --> 00:15:36,940
+This means that we actually only have to 
+
+412
+00:15:36,940 --> 00:15:38,960
+look at the limit 1 and that is 
+
+413
+00:15:38,960 --> 00:15:40,820
+then simply pi times 1 twentieth. 
+
+414
+00:15:41,020 --> 00:15:44,840
+That is approximately 0.16 
+
+415
+00:15:44,840 --> 00:15:48,560
+volume units. That is the volume 
+
+416
+00:15:48,560 --> 00:15:50,620
+of this body of revolution. The volume 
+
+417
+00:15:50,620 --> 00:15:51,960
+is so small because it's a very 
+
+418
+00:15:51,960 --> 00:15:52,760
+small interval. 
+
+419
+00:15:57,520 --> 00:15:59,600
+Right, now let's 
+
+420
+00:15:59,600 --> 00:16:01,180
+continue with the second example problem. 
+
+421
+00:16:01,220 --> 00:16:03,360
+In this case, we are rotating around the 
+y-axis 
+
+422
+00:16:03,360 --> 00:16:08,560
+. Here we see that Vy 
+
+423
+00:16:08,560 --> 00:16:11,140
+is equal to pi times a in the 
+
+424
+00:16:11,140 --> 00:16:13,080
+change integral from a to b of f 
+
+425
+00:16:13,080 --> 00:16:15,440
+raised to the power of minus 1x squared 
+dx. 
+
+426
+00:16:15,440 --> 00:16:17,280
+This means that the first thing we have to 
+do here is to 
+
+427
+00:16:17,280 --> 00:16:19,360
+form the inverse function. In other words, 
+we 
+
+428
+00:16:19,360 --> 00:16:21,580
+convert to x. We know that y 
+
+429
+00:16:21,580 --> 00:16:23,240
+is equal to 1 third x squared. 
+
+430
+00:16:23,840 --> 00:16:25,780
+If we multiply by 3, we get 3y 
+
+431
+00:16:25,780 --> 00:16:27,200
+equals x squared. If we take the 
+
+432
+00:16:27,200 --> 00:16:28,340
+roots, then we know that x is 
+
+433
+00:16:28,340 --> 00:16:32,760
+equal to the square root of 3y. y. To 
+
+434
+00:16:32,760 --> 00:16:34,020
+
+435
+00:16:34,020 --> 00:16:35,620
+keep our variable simple, we now 
+
+436
+00:16:35,620 --> 00:16:37,560
+simply swap x and y so that we still 
+
+437
+00:16:37,560 --> 00:16:41,020
+have an x. And so we arrive at 
+
+438
+00:16:41,020 --> 00:16:43,220
+the root of 3x is y. This gives 
+
+439
+00:16:43,220 --> 00:16:46,420
+us our inverse function. And this 
+
+440
+00:16:46,420 --> 00:16:48,300
+is now simply our f raised to the power of 
+minus 
+
+441
+00:16:48,300 --> 00:16:51,140
+1. And so we arrive at vy 
+
+442
+00:16:51,140 --> 00:16:53,380
+equals pi times the integral from 0 to 
+
+443
+00:16:53,380 --> 00:16:56,580
+4 of the square root of 3x. This is 
+
+444
+00:16:56,580 --> 00:16:57,720
+of course quite simple now. The 
+
+445
+00:16:57,720 --> 00:16:59,740
+square root of 3x is simply 
+
+446
+00:16:59,740 --> 00:17:01,940
+3x. Because root and square cancel each 
+other 
+
+447
+00:17:01,940 --> 00:17:03,900
+out. And so we arrive at pi times 
+
+448
+00:17:03,900 --> 00:17:06,860
+the integral from 0 to 4 of 3x dx. 
+
+449
+00:17:07,440 --> 00:17:09,860
+3x dx, i.e. 3x integrated 
+
+450
+00:17:09,860 --> 00:17:12,980
+by x, is nothing more than 3 half 
+
+451
+00:17:12,980 --> 00:17:14,980
+x squared. And the whole thing in the 
+
+452
+00:17:14,980 --> 00:17:16,840
+limits 0 to 4. 0 is 
+
+453
+00:17:16,840 --> 00:17:18,100
+0 again. This means that we 
+
+454
+00:17:18,100 --> 00:17:19,480
+only have to insert 4. Then we calculate 
+
+455
+00:17:19,480 --> 00:17:22,560
+4 times 3 halves times 4 to the power of 
+2. Then 
+
+456
+00:17:22,560 --> 00:17:25,580
+we arrive at 24 pi or a volume 
+
+457
+00:17:25,580 --> 00:17:30,560
+of 75.4 volumes. 
+
+458
+00:17:30,560 --> 00:17:32,780
+And that' s it for integrals. 
+
+459
+00:17:33,060 --> 00:17:34,740
+I hope you enjoyed the webinar 
+
+460
+00:17:34,740 --> 00:17:36,400
+and I hope you have a 
+
+461
+00:17:36,400 --> 00:17:37,000
+nice evening. 

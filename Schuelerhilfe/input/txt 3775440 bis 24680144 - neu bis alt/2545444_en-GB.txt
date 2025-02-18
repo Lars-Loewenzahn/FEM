@@ -1,0 +1,2232 @@
+﻿1
+00:00:02,060 --> 00:00:03,860
+Welcome to the webinar 
+
+2
+00:00:03,860 --> 00:00:06,440
+Solving Equations Part 2. 
+
+3
+00:00:06,440 --> 00:00:07,820
+In this webinar , we will 
+
+4
+00:00:07,820 --> 00:00:08,760
+
+5
+00:00:08,760 --> 00:00:09,920
+
+6
+00:00:09,920 --> 00:00:11,340
+look at the root equation, the exponential 
+equation and the logarithmic equation. 
+
+7
+00:00:11,960 --> 00:00:13,880
+We will first look 
+
+8
+00:00:13,980 --> 00:00:15,320
+at how to recognize each 
+
+9
+00:00:15,320 --> 00:00:17,480
+type of equation and then 
+
+10
+00:00:17,480 --> 00:00:19,820
+, of course, how to solve it. 
+
+11
+00:00:19,820 --> 00:00:21,720
+We will 
+
+12
+00:00:21,720 --> 00:00:22,880
+then present the solution method using a 
+small 
+
+13
+00:00:22,880 --> 00:00:26,020
+example problem. Let's start with the 
+
+14
+00:00:26,020 --> 00:00:28,320
+root equation. 
+
+15
+00:00:28,320 --> 00:00:30,720
+You can always recognize a root equation 
+by the fact that the 
+
+16
+00:00:30,720 --> 00:00:32,100
+variable is under the root. 
+
+17
+00:00:32,560 --> 00:00:35,320
+It is important that the variable 
+
+18
+00:00:35,320 --> 00:00:36,780
+is under the root in such a way that you 
+
+19
+00:00:36,780 --> 00:00:38,020
+cannot simply take the root. 
+
+20
+00:00:38,140 --> 00:00:39,220
+Here is an example. 
+
+21
+00:00:39,220 --> 00:00:41,180
+On the left we have a normal 
+
+22
+00:00:41,180 --> 00:00:42,420
+equation. This is not one, 
+
+23
+00:00:42,600 --> 00:00:44,160
+but several examples of 
+
+24
+00:00:44,160 --> 00:00:46,220
+normal equations. Here on the right we 
+
+25
+00:00:46,220 --> 00:00:47,140
+have examples 
+
+26
+00:00:47,140 --> 00:00:50,360
+of root equations. and we 
+
+27
+00:00:50,360 --> 00:00:52,260
+now have here 7 is equal to the root 
+
+28
+00:00:52,260 --> 00:00:55,620
+of 4x to the power of 2 minus 2. We 
+
+29
+00:00:55,620 --> 00:00:56,700
+only have one product under the root here 
+
+30
+00:00:56,700 --> 00:01:00,160
+, 4 times x². Consequently, we can 
+
+31
+00:01:00,160 --> 00:01:02,440
+take the root of 4 and 
+
+32
+00:01:02,440 --> 00:01:04,700
+x² and transform the whole thing to 
+
+33
+00:01:04,700 --> 00:01:08,300
+2x. This means that we can turn this 
+
+34
+00:01:08,300 --> 00:01:10,560
+equation into a normal equation 
+
+35
+00:01:10,560 --> 00:01:11,780
+, so this is not a 
+
+36
+00:01:11,780 --> 00:01:14,700
+root equation. A root equation 
+
+37
+00:01:14,700 --> 00:01:16,520
+is characterized 
+
+38
+00:01:17,000 --> 00:01:18,980
+by the fact that the x is under the root, 
+
+39
+00:01:19,180 --> 00:01:20,600
+so we can see this here, for 
+
+40
+00:01:20,600 --> 00:01:22,340
+example, root of x, which 
+
+41
+00:01:22,340 --> 00:01:23,660
+we cannot simplify any further, so 
+
+42
+00:01:23,660 --> 00:01:26,420
+it is a root equation. Root 
+
+43
+00:01:26,420 --> 00:01:29,680
+of 3 times d, in this case the d 
+
+44
+00:01:29,680 --> 00:01:32,020
+also stands alone, which means 
+
+45
+00:01:32,020 --> 00:01:33,060
+we can't really 
+
+46
+00:01:33,060 --> 00:01:34,540
+take the root of the d , if it 
+
+47
+00:01:34,540 --> 00:01:36,780
+were a d² , it would be the same case as 
+
+48
+00:01:36,780 --> 00:01:39,280
+here. Here we could use root 3 times d 
+
+49
+00:01:39,280 --> 00:01:41,100
+as a simplification 
+
+50
+00:01:41,100 --> 00:01:42,640
+, but in this case we haven 't. Therefore, 
+it is a 
+
+51
+00:01:42,640 --> 00:01:44,740
+root equation. Below we have 
+
+52
+00:01:44,740 --> 00:01:46,000
+another example. At 
+
+53
+00:01:46,000 --> 00:01:47,300
+first glance , it looks similar to 
+
+54
+00:01:47,300 --> 00:01:48,560
+this one. The only difference is 
+
+55
+00:01:48,560 --> 00:01:50,700
+the following. Here we have 
+
+56
+00:01:50,700 --> 00:01:53,660
+an addition under the root and we 
+
+57
+00:01:53,660 --> 00:01:55,540
+cannot 
+
+58
+00:01:55,540 --> 00:01:57,960
+take the root from this term. That's why 
+it's a 
+
+59
+00:01:57,960 --> 00:01:59,120
+root equation and we have to solve the 
+
+60
+00:01:59,120 --> 00:02:01,500
+root in other ways. 
+
+61
+00:02:03,230 --> 00:02:05,190
+If there is a normal number, something 
+like 
+
+62
+00:02:05,190 --> 00:02:06,710
+a 2 or a 3 under a root 
+
+63
+00:02:06,710 --> 00:02:08,030
+, it is still a completely 
+
+64
+00:02:08,030 --> 00:02:10,130
+normal equation, because the 
+
+65
+00:02:10,130 --> 00:02:11,690
+
+66
+00:02:11,690 --> 00:02:13,670
+calculator calculates the root of 2 or the 
+root of 3 
+
+67
+00:02:13,670 --> 00:02:17,390
+without any worries. Well, let's move on 
+to how 
+
+68
+00:02:17,390 --> 00:02:19,970
+to solve root equations. 
+
+69
+00:02:19,970 --> 00:02:21,770
+First of all, we want to 
+
+70
+00:02:21,770 --> 00:02:23,190
+transform the whole thing so that the root 
+is on 
+
+71
+00:02:23,190 --> 00:02:24,590
+one side and everything else is 
+
+72
+00:02:24,590 --> 00:02:27,990
+on the other side. In other words, we 
+
+73
+00:02:27,990 --> 00:02:29,970
+try to 
+
+74
+00:02:29,970 --> 00:02:32,770
+isolate the root first. 
+
+75
+00:02:32,770 --> 00:02:34,450
+Once we have isolated the root, we square 
+the 
+
+76
+00:02:34,450 --> 00:02:36,350
+equation. In doing so, we have to put 
+brackets 
+
+77
+00:02:36,350 --> 00:02:38,930
+and then we also need, 
+
+78
+00:02:38,990 --> 00:02:40,350
+when we have squared it, 
+
+79
+00:02:40,350 --> 00:02:42,310
+we have a term in the bracket, which 
+
+80
+00:02:42,310 --> 00:02:44,810
+is squared. Therefore, to 
+
+81
+00:02:44,810 --> 00:02:47,050
+solve this term, we then need 
+
+82
+00:02:47,050 --> 00:02:49,130
+the binomial formula or one of the 
+
+83
+00:02:49,130 --> 00:02:52,970
+binomial formulas. If we 
+
+84
+00:02:52,970 --> 00:02:57,190
+have squared, the root is omitted. 
+
+85
+00:02:57,250 --> 00:02:58,770
+That's also the reason why 
+
+86
+00:02:58,770 --> 00:03:01,350
+we square it. And from this point on 
+
+87
+00:03:01,350 --> 00:03:02,730
+, we no longer have a root equation 
+
+88
+00:03:02,790 --> 00:03:03,890
+, but just a normal 
+
+89
+00:03:03,890 --> 00:03:07,330
+equation. So usually 
+
+90
+00:03:07,330 --> 00:03:09,050
+we end up with a quadratic equation 
+
+91
+00:03:09,050 --> 00:03:10,170
+, but there can also be equations 
+
+92
+00:03:10,170 --> 00:03:11,690
+of higher degrees or perhaps 
+
+93
+00:03:11,690 --> 00:03:12,630
+even just linear ones. 
+
+94
+00:03:15,490 --> 00:03:17,830
+Well, as I said, 
+
+95
+00:03:17,830 --> 00:03:19,890
+we then have to solve this equation . To 
+do this, 
+
+96
+00:03:19,890 --> 00:03:21,230
+we first have to 
+
+97
+00:03:21,230 --> 00:03:22,770
+apply the binomial formula and 
+
+98
+00:03:22,770 --> 00:03:24,770
+then 
+
+99
+00:03:24,770 --> 00:03:26,350
+determine the solution for x. Determining 
+the solution 
+
+100
+00:03:26,350 --> 00:03:28,610
+for x then depends on the... degree of 
+
+101
+00:03:28,610 --> 00:03:31,970
+the equation. 
+
+102
+00:03:31,970 --> 00:03:34,230
+We will use the equation 5 plus x 
+
+103
+00:03:34,230 --> 00:03:37,130
+equals 9 plus the square root of x. 
+
+104
+00:03:37,130 --> 00:03:40,690
+In the first step, we transform it so 
+
+105
+00:03:40,770 --> 00:03:42,230
+that the root of x stands alone. 
+
+106
+00:03:42,450 --> 00:03:44,050
+This is what is 
+
+107
+00:03:44,050 --> 00:03:46,090
+meant by isolating root. This means that 
+the 9 must be added, 
+
+108
+00:03:46,150 --> 00:03:47,930
+so we calculate minus 9. 
+
+109
+00:03:47,930 --> 00:03:50,810
+5 plus x minus 9 equals 
+
+110
+00:03:50,810 --> 00:03:52,790
+the square root of x. Before we 
+
+111
+00:03:52,790 --> 00:03:54,430
+go to square it, 
+
+112
+00:03:54,430 --> 00:03:55,310
+we simplify everything as much as 
+
+113
+00:03:55,310 --> 00:03:56,970
+possible 5-9 we can calculate that 
+
+114
+00:03:56,970 --> 00:03:59,550
+is minus 4 so we get minus 4 
+
+115
+00:03:59,550 --> 00:04:01,610
+plus x that is equal to the square root of 
+
+116
+00:04:01,610 --> 00:04:04,930
+x and now we can't 
+
+117
+00:04:04,930 --> 00:04:07,590
+simplify it any further so we go 
+
+118
+00:04:07,590 --> 00:04:10,030
+to the second step and 
+
+119
+00:04:10,030 --> 00:04:11,870
+square it that means it is an 
+
+120
+00:04:11,870 --> 00:04:12,950
+equation so we 
+
+121
+00:04:12,950 --> 00:04:13,930
+always have to 
+
+122
+00:04:13,930 --> 00:04:15,870
+do the same thing on both sides we square 
+minus 4 plus x 
+
+123
+00:04:15,870 --> 00:04:17,610
+so we write there we have minus 
+
+124
+00:04:17,610 --> 00:04:19,890
+4 plus x in brackets and square 
+
+125
+00:04:19,890 --> 00:04:22,230
+that. And we square the root 
+
+126
+00:04:22,230 --> 00:04:27,410
+of x. That s That's step 2. And now 
+
+127
+00:04:27,410 --> 00:04:29,290
+we start with step 3 and 
+
+128
+00:04:29,290 --> 00:04:32,250
+get rid of our root equation. Because 
+
+129
+00:04:32,250 --> 00:04:35,410
+the root of x to the power of 2, root and 
+
+130
+00:04:35,410 --> 00:04:36,850
+to the power of 2 equalize, is simply 
+
+131
+00:04:36,850 --> 00:04:40,430
+x. In other words, we now have minus 4 
+
+132
+00:04:40,430 --> 00:04:42,610
+plus x to the power of 2. That's an 
+
+133
+00:04:42,610 --> 00:04:43,850
+addition in here, 
+
+134
+00:04:43,850 --> 00:04:45,390
+so we can simply swap it to x minus 
+
+135
+00:04:45,390 --> 00:04:50,170
+4 to the power of 2 and that's how we get 
+to this 
+
+136
+00:04:50,170 --> 00:04:53,190
+equation. This is a 
+
+137
+00:04:53,190 --> 00:04:55,270
+second-degree equation , so x-4 to the 
+power of 2 is 
+
+138
+00:04:55,270 --> 00:04:58,290
+equal to x and 
+
+139
+00:04:58,290 --> 00:05:01,910
+we now have to solve this equation . In 
+other words, in the next 
+
+140
+00:05:01,910 --> 00:05:04,530
+step we go and solve the 
+
+141
+00:05:04,530 --> 00:05:05,890
+binomial here. To do this, we need 
+
+142
+00:05:05,890 --> 00:05:07,250
+the binomial formula, in this case 
+
+143
+00:05:07,250 --> 00:05:08,570
+the second one, because we 
+
+144
+00:05:08,570 --> 00:05:10,630
+have a minus here. The second binomial 
+
+145
+00:05:10,630 --> 00:05:13,050
+formula is a-b, the whole to the power of 
+2 
+
+146
+00:05:13,050 --> 00:05:17,170
+is equal to a²-2ab. plus b². 
+
+147
+00:05:17,170 --> 00:05:19,430
+Therefore, x minus 4 squared becomes x² 
+
+148
+00:05:19,430 --> 00:05:22,730
+minus 2 times 4x plus 4 squared. 
+
+149
+00:05:23,730 --> 00:05:27,450
+Minus 2 times 4x is minus 8x, plus 4 
+
+150
+00:05:27,450 --> 00:05:29,430
+squared is a plus 16, the x² 
+
+151
+00:05:29,430 --> 00:05:34,490
+remains the same and is equal to x. 
+
+152
+00:05:36,280 --> 00:05:38,380
+We now have a simple 
+
+153
+00:05:38,380 --> 00:05:40,540
+quadratic equation. 
+
+154
+00:05:40,540 --> 00:05:42,280
+We have to solve this as we always do, 
+
+155
+00:05:42,280 --> 00:05:44,620
+i.e. on the one hand 
+
+156
+00:05:44,620 --> 00:05:46,080
+we have a 
+
+157
+00:05:46,080 --> 00:05:47,880
+quadratic, a linear and an 
+
+158
+00:05:47,880 --> 00:05:50,240
+absolute term, i.e. the pq 
+
+159
+00:05:50,240 --> 00:05:51,740
+formula or the midnight formula can 
+
+160
+00:05:51,740 --> 00:05:53,520
+be used so that we 
+
+161
+00:05:53,520 --> 00:05:54,780
+can apply these, we must of course 
+
+162
+00:05:54,780 --> 00:05:57,260
+convert the whole thing to zero, so the 
+
+163
+00:05:57,260 --> 00:05:58,720
+x must be removed here, so we calculate 
+minus 
+
+164
+00:05:58,720 --> 00:06:01,000
+x then we get x squared minus 
+
+165
+00:06:01,000 --> 00:06:05,720
+9x plus 16 is equal to zero if we 
+
+166
+00:06:05,720 --> 00:06:08,720
+use the pq formula, 
+
+167
+00:06:08,720 --> 00:06:10,580
+but we have to 
+
+168
+00:06:10,580 --> 00:06:12,080
+do one more thing. This is not necessary 
+for us, 
+
+169
+00:06:12,100 --> 00:06:13,600
+because in our case the x² already stands 
+
+170
+00:06:13,600 --> 00:06:15,880
+alone. If this 
+
+171
+00:06:15,880 --> 00:06:21,420
+is not the case , it is essential to 
+
+172
+00:06:21,420 --> 00:06:24,200
+divide by the factor before the x². This 
+means 
+
+173
+00:06:24,260 --> 00:06:25,760
+that if there is a 2 or a 
+
+174
+00:06:25,760 --> 00:06:28,500
+minus 1 here , then we first have to 
+
+175
+00:06:28,500 --> 00:06:30,160
+divide by the factor so that the x² 
+
+176
+00:06:30,160 --> 00:06:32,080
+stands alone. Only when the x² 
+
+177
+00:06:32,080 --> 00:06:33,600
+stands alone can we 
+
+178
+00:06:33,600 --> 00:06:35,800
+read off the p and the q, as we 
+
+179
+00:06:35,800 --> 00:06:38,820
+know it from the pq formula. It is 
+important to note 
+
+180
+00:06:38,820 --> 00:06:40,300
+that p and q are always 
+
+181
+00:06:40,300 --> 00:06:41,980
+signed, which is why p is 
+
+182
+00:06:41,980 --> 00:06:45,260
+minus 9 and q is plus 16. The approach 
+
+183
+00:06:45,260 --> 00:06:46,780
+for the pq formula can be seen again here 
+
+184
+00:06:46,780 --> 00:06:49,180
+, x1.2 is equal to minus p half 
+
+185
+00:06:49,180 --> 00:06:51,020
+plus minus the square root of p half 
+
+186
+00:06:51,020 --> 00:06:54,020
+minus q. If we 
+
+187
+00:06:54,020 --> 00:06:56,260
+use minus 9 for p and 16 for q, we get 
+
+188
+00:06:56,260 --> 00:06:58,660
+here, so x1.2 is minus minus 
+
+189
+00:06:58,660 --> 00:07:02,240
+9 halves and the minus minus 9 halves 
+
+190
+00:07:02,240 --> 00:07:04,340
+plus minus the root of minus 9 
+
+191
+00:07:04,340 --> 00:07:08,560
+halves squared minus 16. Minus 
+
+192
+00:07:08,560 --> 00:07:10,760
+minus 9 halves is plus 4.5, so 
+
+193
+00:07:10,760 --> 00:07:12,260
+minus and minus is first plus and 
+
+194
+00:07:12,260 --> 00:07:17,320
+9 halves is 4.5. The 
+
+195
+00:07:17,320 --> 00:07:20,600
+sum of these under the root is 4.25. This 
+means that 
+
+196
+00:07:20,660 --> 00:07:23,080
+for x1 we arrive at the solution 4.5 
+
+197
+00:07:23,080 --> 00:07:26,740
+plus the root of 4.25. That is 
+
+198
+00:07:26,740 --> 00:07:31,300
+approximately 6.56. 6. For x2 we 
+
+199
+00:07:31,300 --> 00:07:34,260
+arrive at 4.5 minus the root of 4.25. 
+
+200
+00:07:34,380 --> 00:07:37,280
+That is approximately 2.44. And these are 
+
+201
+00:07:37,280 --> 00:07:38,480
+already the solutions for 
+
+202
+00:07:38,480 --> 00:07:41,000
+our root equation. And that solves 
+
+203
+00:07:41,000 --> 00:07:44,560
+the root equation. 
+
+204
+00:07:44,560 --> 00:07:45,940
+This brings us to the 
+
+205
+00:07:45,940 --> 00:07:47,020
+exponential equations. 
+
+206
+00:07:49,760 --> 00:07:50,880
+Exponential equations are 
+
+207
+00:07:50,880 --> 00:07:53,100
+equations where our variable is in the 
+
+208
+00:07:53,100 --> 00:07:55,820
+exponent. Very importantly in the 
+
+209
+00:07:55,820 --> 00:07:57,700
+exponent, these are again 
+
+210
+00:07:57,700 --> 00:07:58,160
+quite... These are normal 
+
+211
+00:07:58,160 --> 00:07:59,240
+polynomial equations that we already 
+
+212
+00:07:59,240 --> 00:07:59,960
+know. These are 
+
+213
+00:07:59,960 --> 00:08:02,400
+exponential equations. Even with 
+
+214
+00:08:02,400 --> 00:08:03,400
+large exponents, with 
+
+215
+00:08:03,400 --> 00:08:05,540
+polynomial equations, they are still 
+
+216
+00:08:05,540 --> 00:08:07,940
+polynomial equations. 
+
+217
+00:08:07,940 --> 00:08:09,360
+However, as soon as we 
+
+218
+00:08:09,360 --> 00:08:12,200
+have a variable in the exponent , as here 
+3 to the power of x, it is an 
+
+219
+00:08:12,200 --> 00:08:13,960
+exponential equation. Here, too, 13 
+
+220
+00:08:13,960 --> 00:08:15,120
+to the power of 2x. 
+
+221
+00:08:17,360 --> 00:08:18,660
+However, an exponential equation 
+
+222
+00:08:18,660 --> 00:08:23,860
+only has to 
+
+223
+00:08:23,860 --> 00:08:25,820
+have the variable in the exponent at one 
+point. This means 
+
+224
+00:08:25,920 --> 00:08:28,680
+that we have 11x minus x to the power of 
+53. 
+
+225
+00:08:29,200 --> 00:08:31,060
+That would be a normal 
+
+226
+00:08:31,060 --> 00:08:32,140
+polynomial equation, but then 
+
+227
+00:08:32,140 --> 00:08:33,320
+on the other side it says that it 
+
+228
+00:08:33,320 --> 00:08:39,440
+equals 13 to the power of 2x plus x to the 
+power of 4. 
+
+229
+00:08:39,440 --> 00:08:40,900
+This is the part that 
+
+230
+00:08:40,900 --> 00:08:41,680
+ultimately turns the equation into an 
+
+231
+00:08:41,680 --> 00:08:44,420
+exponential equation. And how 
+
+232
+00:08:44,420 --> 00:08:46,000
+we solve it is what 
+
+233
+00:08:46,000 --> 00:08:49,220
+we're going to look at now. First of all, 
+we 
+
+234
+00:08:49,220 --> 00:08:51,240
+reshape the equation. 
+
+235
+00:08:51,240 --> 00:08:52,680
+We reshape the equation so 
+
+236
+00:08:52,680 --> 00:08:54,100
+that our power alone... one on 
+
+237
+00:08:54,100 --> 00:08:55,560
+one side and 
+
+238
+00:08:55,560 --> 00:08:58,800
+the rest on the other side. So we isolate 
+
+239
+00:08:58,800 --> 00:09:01,360
+the power. This is always the case. 
+Regardless 
+
+240
+00:09:01,360 --> 00:09:02,720
+of whether we have a root equation, 
+
+241
+00:09:02,860 --> 00:09:05,220
+an exponential equation or 
+
+242
+00:09:05,220 --> 00:09:07,400
+a logarithm equation. 
+
+243
+00:09:07,400 --> 00:09:09,640
+We always isolate first. So the root, 
+
+244
+00:09:09,760 --> 00:09:11,860
+the power or the logarithm. 
+
+245
+00:09:11,860 --> 00:09:13,400
+In this case, of course, the power. We 
+
+246
+00:09:13,400 --> 00:09:15,780
+isolate our power. Everything else 
+
+247
+00:09:15,780 --> 00:09:16,720
+we want to 
+
+248
+00:09:16,720 --> 00:09:20,960
+have on the other side . and then we start 
+
+249
+00:09:20,960 --> 00:09:23,100
+to work on the equation. if we 
+
+250
+00:09:23,100 --> 00:09:24,380
+have an exponential equation 
+
+251
+00:09:24,380 --> 00:09:26,860
+, we work with the logarithm 
+
+252
+00:09:26,860 --> 00:09:28,960
+. the logarithm can 
+
+253
+00:09:28,960 --> 00:09:31,320
+get our variable from the exponent 
+
+254
+00:09:31,320 --> 00:09:33,160
+. we can see that right away. that means 
+we 
+
+255
+00:09:33,160 --> 00:09:34,880
+solve our 
+
+256
+00:09:34,880 --> 00:09:37,240
+exponential equation with the logarithm . 
+that is 
+
+257
+00:09:37,240 --> 00:09:38,920
+step 2. and then in step 3 we have 
+
+258
+00:09:38,920 --> 00:09:41,140
+a normal equation 
+
+259
+00:09:41,140 --> 00:09:43,720
+. we can also see that here our equation 
+
+260
+00:09:43,720 --> 00:09:46,640
+is in this case 43 is equal to 7 plus 
+
+261
+00:09:46,640 --> 00:09:48,340
+3 to the power of x. 
+
+262
+00:09:48,340 --> 00:09:50,300
+As I said , the first step is to isolate 
+the power. That 
+
+263
+00:09:50,300 --> 00:09:52,100
+means we have to remove the 7, 
+
+264
+00:09:52,180 --> 00:09:53,720
+the 3 to the power of x should stand 
+alone. 
+
+265
+00:09:53,820 --> 00:09:56,540
+We therefore calculate minus 7, 43, 
+
+266
+00:09:56,900 --> 00:09:59,580
+minus 7 is 36 and 36 is then equal to 
+
+267
+00:09:59,580 --> 00:10:01,480
+3 to the power of x. Step 1 is now 
+
+268
+00:10:01,480 --> 00:10:05,820
+complete and we can 
+
+269
+00:10:05,820 --> 00:10:07,160
+start with step 2 and apply the logarithm 
+
+270
+00:10:07,160 --> 00:10:10,540
+. This means that we now 
+
+271
+00:10:10,540 --> 00:10:11,840
+apply the logarithm, importantly on 
+
+272
+00:10:11,840 --> 00:10:14,960
+both sides. There are different 
+
+273
+00:10:14,960 --> 00:10:17,280
+logarithms. There is the logarithm 
+
+274
+00:10:17,280 --> 00:10:19,020
+to the base 10, which is the LG or 
+
+275
+00:10:19,440 --> 00:10:20,680
+LOG, which are both 
+
+276
+00:10:20,680 --> 00:10:24,080
+abbreviations for it. And there is the 
+
+277
+00:10:24,080 --> 00:10:26,400
+LN, the logarithm naturalis. This 
+
+278
+00:10:26,400 --> 00:10:28,720
+has the base E, i.e. Euler's 
+
+279
+00:10:28,720 --> 00:10:31,320
+number E. The ln is always 
+
+280
+00:10:31,320 --> 00:10:33,340
+used if 
+
+281
+00:10:33,340 --> 00:10:38,580
+Euler's number e is used as the base. If 
+you 
+
+282
+00:10:38,580 --> 00:10:41,600
+have other bases, such as 
+
+283
+00:10:41,600 --> 00:10:42,620
+3 in our case , then you simply use 
+
+284
+00:10:42,620 --> 00:10:44,860
+the normal logarithm lg or log 
+
+285
+00:10:44,860 --> 00:10:47,620
+and work with this. 
+
+286
+00:10:47,620 --> 00:10:48,820
+The difference between the two 
+
+287
+00:10:48,820 --> 00:10:50,520
+logarithms is, as already mentioned, the 
+base. 
+
+288
+00:10:52,180 --> 00:10:53,960
+
+289
+00:10:53,960 --> 00:10:55,080
+However, the arithmetic laws and the 
+application do not change. 
+
+290
+00:10:57,620 --> 00:10:59,320
+Good. We now apply the logarithm 
+
+291
+00:10:59,320 --> 00:11:01,740
+, i.e. the logarithm of 36 is 
+
+292
+00:11:01,740 --> 00:11:03,900
+equal to the logarithm of 3 to the power 
+of x. 
+
+293
+00:11:04,640 --> 00:11:06,520
+And now comes the reason why we 
+
+294
+00:11:06,520 --> 00:11:08,000
+actually use the logarithm 
+
+295
+00:11:08,140 --> 00:11:09,560
+, because there are 
+
+296
+00:11:09,560 --> 00:11:11,880
+logarithmic arithmetic laws. 
+
+297
+00:11:11,880 --> 00:11:13,660
+We need these and the 
+
+298
+00:11:13,660 --> 00:11:16,540
+logarithm of a to the power of b is equal 
+to b 
+
+299
+00:11:16,540 --> 00:11:18,720
+times our logarithm of a. 
+
+300
+00:11:18,720 --> 00:11:21,720
+This means that the law of logarithmic 
+arithmetic 
+
+301
+00:11:21,720 --> 00:11:29,400
+allows us 
+
+302
+00:11:29,400 --> 00:11:31,480
+to take our exponent from above and 
+
+303
+00:11:31,480 --> 00:11:32,940
+move it in front of it. In other words, we 
+can get our 
+
+304
+00:11:32,940 --> 00:11:34,700
+variable from the exponents. 
+
+305
+00:11:35,240 --> 00:11:37,620
+And so the logarithm of 3 
+
+306
+00:11:37,620 --> 00:11:39,880
+to the power of x becomes x times the 
+logarithm of 3. 
+
+307
+00:11:40,740 --> 00:11:42,300
+And we can see that this is 
+
+308
+00:11:42,300 --> 00:11:43,700
+another very simple equation 
+
+309
+00:11:43,720 --> 00:11:45,960
+, because the logarithm of 36 is the 
+
+310
+00:11:45,960 --> 00:11:46,840
+number that can be calculated. 
+
+311
+00:11:46,920 --> 00:11:48,280
+and the 
+
+312
+00:11:48,280 --> 00:11:49,660
+logarithm of 3 is also a 
+
+313
+00:11:49,660 --> 00:11:50,520
+number that the calculator 
+
+314
+00:11:50,520 --> 00:11:53,200
+can determine, so it 
+
+315
+00:11:53,200 --> 00:11:56,380
+just says the number is equal to x times 
+the 
+
+316
+00:11:56,380 --> 00:11:58,380
+number, which means that we now 
+
+317
+00:11:58,380 --> 00:11:59,280
+simply divide by the 
+
+318
+00:11:59,280 --> 00:12:01,520
+logarithm of 3, where it says the 
+
+319
+00:12:01,520 --> 00:12:03,300
+logarithm of 36 divided by 
+
+320
+00:12:03,300 --> 00:12:07,020
+the logarithm of 3 is equal to x, 
+
+321
+00:12:07,020 --> 00:12:07,800
+which means that we 
+
+322
+00:12:07,800 --> 00:12:10,720
+enter 3.61 in the calculator, which is 
+then x. 
+
+323
+00:12:10,720 --> 00:12:12,840
+I would also advise you 
+
+324
+00:12:12,840 --> 00:12:14,320
+not to immediately round it off like this 
+at the back. I 
+
+325
+00:12:14,320 --> 00:12:15,820
+would enter the total into the 
+
+326
+00:12:15,820 --> 00:12:17,500
+calculator 
+
+327
+00:12:17,500 --> 00:12:18,740
+and then write down the result at the end. 
+This 
+
+328
+00:12:18,740 --> 00:12:22,620
+is much more accurate. And 
+
+329
+00:12:22,620 --> 00:12:24,540
+
+330
+00:12:24,540 --> 00:12:26,740
+now we have already solved our exponential 
+equation . Our x is 
+
+331
+00:12:26,740 --> 00:12:28,540
+then 3.61. 
+
+332
+00:12:30,720 --> 00:12:33,020
+And that brings us to 
+
+333
+00:12:33,020 --> 00:12:34,660
+our last type of equation, which 
+
+334
+00:12:34,660 --> 00:12:36,800
+is the logarithm equation or the 
+
+335
+00:12:36,800 --> 00:12:39,260
+logarithm equations. 
+
+336
+00:12:39,260 --> 00:12:40,980
+You can recognize a logarithm equation 
+
+337
+00:12:40,980 --> 00:12:43,380
+by the fact that the variable is in the 
+
+338
+00:12:43,380 --> 00:12:45,020
+logarithm. Which 
+
+339
+00:12:45,020 --> 00:12:46,400
+logarithm you have, i.e. ln 
+
+340
+00:12:46,400 --> 00:12:49,520
+or log, does not matter at first. 
+
+341
+00:12:49,520 --> 00:12:51,780
+The only important thing is that the 
+variable is 
+
+342
+00:12:51,780 --> 00:12:53,640
+not the exponent in the logarithm 
+
+343
+00:12:53,640 --> 00:12:56,660
+, in this case 3 to the power of x. This 
+
+344
+00:12:56,660 --> 00:12:58,080
+is the case we just 
+
+345
+00:12:58,080 --> 00:12:59,440
+had, because the 
+
+346
+00:12:59,440 --> 00:13:00,980
+law of logarithmic arithmetic allows us 
+
+347
+00:13:00,980 --> 00:13:02,480
+to make it x times the 
+
+348
+00:13:02,480 --> 00:13:05,060
+logarithm of 3 and then it is 
+
+349
+00:13:05,060 --> 00:13:06,700
+no longer a logarithmic equation yes 
+
+350
+00:13:06,700 --> 00:13:09,600
+so the variable must be the base if 
+
+351
+00:13:09,600 --> 00:13:11,180
+it already occurs something like logarithm 
+
+352
+00:13:11,180 --> 00:13:12,860
+x to the power of 3 we can 
+
+353
+00:13:12,860 --> 00:13:14,300
+also draw the three in front of it we have 
+three times 
+
+354
+00:13:14,300 --> 00:13:16,860
+the logarithm of x but our 
+
+355
+00:13:16,860 --> 00:13:18,680
+variable x is ultimately still 
+
+356
+00:13:18,680 --> 00:13:21,960
+in the logarithm so it's a 
+
+357
+00:13:21,960 --> 00:13:25,260
+logarithm equation yes so with 
+
+358
+00:13:25,260 --> 00:13:26,820
+logarithm equations our 
+
+359
+00:13:26,820 --> 00:13:28,520
+function variable or our 
+
+360
+00:13:28,520 --> 00:13:30,740
+variable is in the logarithm and 
+
+361
+00:13:30,740 --> 00:13:31,740
+we can't get that 
+
+362
+00:13:31,740 --> 00:13:35,700
+out of it using a logarithm arithmetic 
+law. 
+
+363
+00:13:35,700 --> 00:13:37,160
+The theory of how to transform this is 
+
+364
+00:13:37,280 --> 00:13:40,180
+that you try to have the logarithm 
+
+365
+00:13:40,180 --> 00:13:42,120
+on one side and 
+
+366
+00:13:42,120 --> 00:13:44,800
+the rest on the other. In other words, 
+
+367
+00:13:44,840 --> 00:13:46,080
+you want to 
+
+368
+00:13:46,080 --> 00:13:48,260
+isolate the logarithm first. What I 
+
+369
+00:13:48,260 --> 00:13:50,020
+said earlier is always our 
+
+370
+00:13:50,020 --> 00:13:52,120
+first step. Then 
+
+371
+00:13:52,120 --> 00:13:53,740
+we try or want to solve the logarithm 
+
+372
+00:13:53,740 --> 00:13:56,900
+. We do this 
+
+373
+00:13:56,900 --> 00:13:58,720
+by exponentiating with the base. 
+
+374
+00:13:59,460 --> 00:14:01,960
+This is very important, exponentiation 
+with 
+
+375
+00:14:01,960 --> 00:14:03,940
+the base . In other words, as I' 
+
+376
+00:14:03,940 --> 00:14:05,100
+ve just said, the normal 
+
+377
+00:14:05,100 --> 00:14:07,000
+logarithm, which 
+
+378
+00:14:07,000 --> 00:14:09,400
+is abbreviated log or lg , has a base of 
+10. 
+
+379
+00:14:09,400 --> 00:14:11,680
+We'll see that in a moment. The 
+
+380
+00:14:11,680 --> 00:14:14,620
+logarithm naturalis ln, which also 
+
+381
+00:14:14,620 --> 00:14:16,660
+often occurs, has the base e, i.e. 
+
+382
+00:14:16,660 --> 00:14:19,080
+Euler's number e. If we 
+
+383
+00:14:19,080 --> 00:14:21,460
+
+384
+00:14:21,460 --> 00:14:23,180
+have the logarithm naturalis ln in an 
+equation, we exponentiate with 
+
+385
+00:14:23,180 --> 00:14:25,680
+Euler's number. E. This is very 
+
+386
+00:14:25,680 --> 00:14:29,040
+important, not with the 10, but 
+
+387
+00:14:29,040 --> 00:14:32,600
+we'll see that in a moment. Thirdly, if 
+
+388
+00:14:32,600 --> 00:14:35,220
+we have exponentiated, we have 
+
+389
+00:14:35,220 --> 00:14:38,040
+a normal equation again , we can see that 
+
+390
+00:14:38,040 --> 00:14:41,880
+straight away, and we can 
+
+391
+00:14:41,880 --> 00:14:44,540
+simply calculate it. We 
+
+392
+00:14:44,540 --> 00:14:46,300
+may sometimes need 
+
+393
+00:14:46,300 --> 00:14:46,820
+a few 
+
+394
+00:14:46,820 --> 00:14:49,140
+logarithm calculation rules in some places 
+, but 
+
+395
+00:14:49,140 --> 00:14:50,800
+we already need to know them for the 
+
+396
+00:14:50,800 --> 00:14:53,680
+exponential equation anyway. This brings 
+us 
+
+397
+00:14:53,680 --> 00:14:55,200
+to our 
+
+398
+00:14:55,200 --> 00:14:57,620
+example. Here we have the 
+
+399
+00:14:57,620 --> 00:15:00,040
+logarithm of 5 minus x bracket to 
+
+400
+00:15:00,040 --> 00:15:02,440
+is equal to minus 22 minus the 
+
+401
+00:15:02,440 --> 00:15:05,400
+logarithm of x. As just 
+
+402
+00:15:05,400 --> 00:15:08,380
+mentioned, we first isolate our 
+
+403
+00:15:08,380 --> 00:15:10,880
+logarithm. The problem 
+
+404
+00:15:10,880 --> 00:15:12,120
+here is, of course, that we have two 
+
+405
+00:15:12,120 --> 00:15:15,960
+logarithms and we first have to 
+
+406
+00:15:15,960 --> 00:15:18,960
+combine them and for this we need the 
+
+407
+00:15:18,960 --> 00:15:22,480
+logarithm arithmetic laws. 
+
+408
+00:15:22,480 --> 00:15:23,520
+But first we have to 
+
+409
+00:15:23,520 --> 00:15:25,400
+get them on one side. We do this by 
+
+410
+00:15:25,400 --> 00:15:27,620
+
+411
+00:15:27,620 --> 00:15:28,960
+getting the logarithm of x on the other 
+side. Here we have minus the 
+
+412
+00:15:28,960 --> 00:15:30,860
+logarithm of x. Consequently, 
+
+413
+00:15:30,860 --> 00:15:32,680
+we calculate plus the logarithm of x. And 
+
+414
+00:15:32,680 --> 00:15:34,980
+then there is the logarithm of 5 
+
+415
+00:15:34,980 --> 00:15:37,680
+minus x plus the logarithm of x 
+
+416
+00:15:37,680 --> 00:15:42,760
+is equal to minus 22. And now 
+
+417
+00:15:42,760 --> 00:15:44,600
+we have to 
+
+418
+00:15:44,600 --> 00:15:47,800
+make a logarithm from these two logarithms 
+. 
+
+419
+00:15:47,800 --> 00:15:49,980
+We do this 
+
+420
+00:15:49,980 --> 00:15:51,520
+by applying the law of logarithmic 
+arithmetic. 
+
+421
+00:15:51,520 --> 00:15:55,680
+If two logarithms 
+
+422
+00:15:55,680 --> 00:15:58,720
+are added together, we can also 
+
+423
+00:15:58,720 --> 00:16:00,640
+multiply the values in here within 
+
+424
+00:16:00,640 --> 00:16:03,660
+a logarithm. In other words, from the 
+
+425
+00:16:03,660 --> 00:16:05,720
+logarithm of 5 minus x plus the 
+
+426
+00:16:05,720 --> 00:16:07,060
+logarithm of x, we can make 
+
+427
+00:16:07,060 --> 00:16:10,640
+the logarithm of 5 minus x times x. 
+
+428
+00:16:11,340 --> 00:16:13,120
+So we can 
+
+429
+00:16:13,120 --> 00:16:14,860
+
+430
+00:16:14,860 --> 00:16:15,980
+multiply the values that are here in the 
+logarithm with each other and 
+
+431
+00:16:15,980 --> 00:16:18,120
+then write them into a logarithm . 
+
+432
+00:16:18,460 --> 00:16:20,240
+Now we have 
+
+433
+00:16:20,240 --> 00:16:22,220
+isolated the logarithm. The logarithm 
+
+434
+00:16:22,220 --> 00:16:26,900
+of the term is equal to minus 22. 
+
+435
+00:16:26,900 --> 00:16:28,600
+Next comes step 2 
+
+436
+00:16:29,480 --> 00:16:31,380
+, namely, we want to 
+
+437
+00:16:31,380 --> 00:16:33,100
+get rid of the logarithm , so we 
+exponentiate 
+
+438
+00:16:33,100 --> 00:16:36,820
+with the base. We have the LG here, 
+
+439
+00:16:37,040 --> 00:16:38,820
+which means that it has a base of 10, 
+
+440
+00:16:39,020 --> 00:16:41,580
+so we exponentiate with 10 
+
+441
+00:16:41,580 --> 00:16:43,420
+. To the power of 10, the 
+
+442
+00:16:43,420 --> 00:16:46,720
+logarithm of 5 minus x times x is 
+
+443
+00:16:46,720 --> 00:16:49,320
+equal to 10 to the power of minus 22. So 
+everything 
+
+444
+00:16:49,380 --> 00:16:50,660
+that is here on the left-hand side 
+
+445
+00:16:50,760 --> 00:16:53,220
+ends up in the exponent of 
+
+446
+00:16:53,220 --> 00:16:55,040
+10. Everything that is here on the 
+right-hand 
+
+447
+00:16:55,040 --> 00:16:56,460
+side will later be in the 
+
+448
+00:16:56,460 --> 00:16:58,700
+exponent of 10, only on the 
+
+449
+00:16:58,700 --> 00:17:01,360
+right-hand side. Why we 
+
+450
+00:17:01,360 --> 00:17:03,620
+do all this is because 10 to the power of 
+the 
+
+451
+00:17:03,620 --> 00:17:05,400
+logarithm of the term in here 
+
+452
+00:17:05,460 --> 00:17:07,260
+is just the term that' 
+
+453
+00:17:07,260 --> 00:17:10,040
+s in here. Exponentiating by 10 
+
+454
+00:17:10,040 --> 00:17:11,800
+solves the logarithm. solves the 
+
+455
+00:17:11,800 --> 00:17:14,840
+logarithm. So we arrive at 5 
+
+456
+00:17:14,840 --> 00:17:17,140
+minus x times x equals 10 raised to the 
+power of 
+
+457
+00:17:17,140 --> 00:17:20,100
+minus 22. We can already see 
+
+458
+00:17:20,200 --> 00:17:27,140
+that this is a very simple, um, very 
+
+459
+00:17:27,140 --> 00:17:29,960
+simple quadratic equation. I'll 
+
+460
+00:17:29,960 --> 00:17:30,680
+
+461
+00:17:30,680 --> 00:17:32,540
+come up with the same second degree. And 
+as I said, here 
+
+462
+00:17:32,540 --> 00:17:33,420
+again the hint, attention 
+
+463
+00:17:33,420 --> 00:17:35,140
+logarithm rules, we definitely need them 
+
+464
+00:17:35,140 --> 00:17:38,420
+up there. where we 
+
+465
+00:17:38,420 --> 00:17:41,980
+have added the logarithms and so 
+
+466
+00:17:41,980 --> 00:17:44,540
+we are now already at the part that 
+
+467
+00:17:44,540 --> 00:17:46,500
+actually works normally 5 
+
+468
+00:17:46,500 --> 00:17:49,480
+minus x times x equals 10 to the power of 
+minus 22 
+
+469
+00:17:49,480 --> 00:17:53,080
+we also multiply that so that 
+
+470
+00:17:53,080 --> 00:17:54,240
+we 
+
+471
+00:17:54,240 --> 00:17:59,880
+can use our pq formula again so 5 times x 
+are 5x minus x 
+
+472
+00:17:59,880 --> 00:18:02,080
+times x are minus x squared and that 
+
+473
+00:18:02,080 --> 00:18:04,380
+is equal to 10 to the power of minus 22. 
+
+474
+00:18:04,380 --> 00:18:06,540
+We now set this to 
+
+475
+00:18:06,540 --> 00:18:08,860
+0 at the top . Then it says 5, so 
+calculate minus 
+
+476
+00:18:08,860 --> 00:18:12,400
+10 to the power of minus 22. This is then 
+5x 
+
+477
+00:18:12,400 --> 00:18:15,180
+minus x² minus 10 to the power of minus 
+22. 
+
+478
+00:18:16,200 --> 00:18:17,260
+Now we have the 
+
+479
+00:18:17,260 --> 00:18:20,220
+case just mentioned. Our x² has 
+
+480
+00:18:20,220 --> 00:18:22,740
+a minus. Therefore, before we can use the 
+
+481
+00:18:22,740 --> 00:18:25,300
+PQ formula, we have to 
+
+482
+00:18:25,300 --> 00:18:26,840
+multiply by times minus 1 
+
+483
+00:18:26,920 --> 00:18:30,080
+or divide by minus 1 
+
+484
+00:18:30,080 --> 00:18:31,700
+. This means that the signs 
+
+485
+00:18:31,700 --> 00:18:34,040
+must be reversed. We then 
+
+486
+00:18:34,160 --> 00:18:36,140
+have to 
+
+487
+00:18:36,140 --> 00:18:38,480
+multiply everything by times minus 1 , 
+i.e. the 5x, the 
+
+488
+00:18:38,480 --> 00:18:40,480
+minus x² and the minus 10 to the power of 
+minus 
+
+489
+00:18:40,480 --> 00:18:42,940
+22. We then arrive at minus 5x plus 
+
+490
+00:18:42,940 --> 00:18:45,460
+x² plus 10 to the power of minus 22 equals 
+
+491
+00:18:45,460 --> 00:18:48,020
+0. The exponent is never 
+
+492
+00:18:48,020 --> 00:18:51,060
+changed. So even if you 
+
+493
+00:18:51,060 --> 00:18:53,120
+calculate with times minus 2, the exponent 
+
+494
+00:18:53,120 --> 00:18:54,360
+above always remains the same. The 
+
+495
+00:18:54,360 --> 00:18:55,360
+sign is not changed. 
+
+496
+00:18:55,360 --> 00:18:57,860
+Now let's rearrange this again briefly 
+
+497
+00:18:57,860 --> 00:19:00,560
+and arrive at x². Minus 5x plus 10 
+
+498
+00:19:00,560 --> 00:19:03,420
+to the power of minus 22 equals 0. Our p 
+
+499
+00:19:03,420 --> 00:19:06,540
+is therefore minus 5, our q is 10 
+
+500
+00:19:06,540 --> 00:19:09,940
+to the power of minus 22. Here we can see 
+another 
+
+501
+00:19:09,940 --> 00:19:10,900
+approach for our pq 
+
+502
+00:19:10,900 --> 00:19:11,880
+ formula. This is the same 
+
+503
+00:19:11,880 --> 00:19:13,800
+procedure as before. We put it 
+
+504
+00:19:13,800 --> 00:19:15,380
+all in and come up with minus, 
+
+505
+00:19:15,560 --> 00:19:17,840
+minus 5 half, plus minus, the square root 
+
+506
+00:19:17,840 --> 00:19:20,200
+of minus 5 half, minus 
+
+507
+00:19:20,200 --> 00:19:24,340
+10 to the power of minus 22. 10 to the 
+power of minus 22. 
+
+508
+00:19:25,020 --> 00:19:27,040
+That's such a small number that it 
+
+509
+00:19:27,040 --> 00:19:30,240
+gets lost in the rounding. That's why 
+
+510
+00:19:30,240 --> 00:19:31,600
+what's written underneath 
+
+511
+00:19:31,640 --> 00:19:33,160
+is now simply the square root of 6.25 
+
+512
+00:19:33,160 --> 00:19:35,340
+or 2.5 squared. 
+
+513
+00:19:36,640 --> 00:19:39,000
+So x1.2 is then equal to 2.5 
+
+514
+00:19:39,000 --> 00:19:41,700
+plus minus the square root of 6.25. That 
+
+515
+00:19:41,700 --> 00:19:46,360
+means x1 is 5 and x2 is then 2.5 
+
+516
+00:19:46,360 --> 00:19:50,240
+minus 2.5, i.e. 0. 
+
+517
+00:19:50,240 --> 00:19:52,420
+You could have estimated the whole thing 
+up here 
+
+518
+00:19:52,420 --> 00:19:53,560
+, because that... This is a 
+
+519
+00:19:53,560 --> 00:19:54,940
+number that 
+
+520
+00:19:54,940 --> 00:19:56,380
+is already very close to 0. And if you 
+then 
+
+521
+00:19:56,380 --> 00:20:00,040
+make a rough calculation, consider it as 0 
+
+522
+00:20:00,040 --> 00:20:01,560
+and 
+
+523
+00:20:01,560 --> 00:20:03,860
+use the 0 product theorem 
+
+524
+00:20:03,860 --> 00:20:06,140
+, you would have had x1 equal to 0 and x2 
+equal to 5 and you would have 
+
+525
+00:20:06,140 --> 00:20:08,160
+had the same results. This is a 
+
+526
+00:20:08,160 --> 00:20:09,320
+trick that always works if 
+
+527
+00:20:09,320 --> 00:20:13,560
+you have an equation where you 
+
+528
+00:20:13,560 --> 00:20:14,860
+have a product here and it 
+
+529
+00:20:14,860 --> 00:20:18,060
+is approximately 0. This is then a 
+
+530
+00:20:18,060 --> 00:20:19,500
+rough calculation and 
+
+531
+00:20:19,500 --> 00:20:20,580
+
+532
+00:20:20,640 --> 00:20:21,920
+you have to end up in the range that you 
+calculate here. 
+
+533
+00:20:23,320 --> 00:20:24,860
+Of course, this is the calculation that 
+
+534
+00:20:24,860 --> 00:20:26,020
+has to be carried out in any case. 
+
+535
+00:20:26,080 --> 00:20:27,240
+What I have just said is 
+
+536
+00:20:27,240 --> 00:20:28,860
+rather optional for checking purposes, 
+
+537
+00:20:28,880 --> 00:20:31,140
+or to check the 
+
+538
+00:20:31,140 --> 00:20:34,820
+plausibility of the whole thing. That 
+brings us to 
+
+539
+00:20:34,820 --> 00:20:36,300
+the end of the webinar. 
+
+540
+00:20:36,400 --> 00:20:38,340
+Thank you very much for 
+
+541
+00:20:38,340 --> 00:20:39,400
+your attention. 

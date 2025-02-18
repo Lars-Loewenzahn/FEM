@@ -1,0 +1,1428 @@
+1
+00:00:00,590 --> 00:00:02,730
+Herzlich willkommen zum Webinar
+
+2
+00:00:02,730 --> 00:00:04,710
+Vierecke. Wir werden uns in diesem
+
+3
+00:00:04,710 --> 00:00:06,410
+Webinar mit diesen Vierecken
+
+4
+00:00:06,410 --> 00:00:08,170
+befassen. Das heißt, wir schauen uns
+
+5
+00:00:08,170 --> 00:00:10,510
+zuallererst das allgemeine Viereck
+
+6
+00:00:10,510 --> 00:00:12,670
+an, danach das Quadrat, danach das
+
+7
+00:00:12,670 --> 00:00:15,130
+Rechteck, danach die Raute, danach
+
+8
+00:00:15,130 --> 00:00:17,110
+Trapez und zum Schluss noch das
+
+9
+00:00:17,110 --> 00:00:18,370
+Parallelogramm und das
+
+10
+00:00:18,370 --> 00:00:21,110
+Drachenviereck. Ganz zum Schluss
+
+11
+00:00:21,110 --> 00:00:22,930
+werden wir uns das Haus der Vierecke
+
+12
+00:00:22,930 --> 00:00:24,830
+einmal ansehen. Dort sind diese
+
+13
+00:00:24,830 --> 00:00:26,070
+ganzen Vierecke noch einmal
+
+14
+00:00:26,070 --> 00:00:28,470
+verzeichnet und dort wird auch noch
+
+15
+00:00:28,470 --> 00:00:29,730
+mal sehr gut klar, was die
+
+16
+00:00:29,730 --> 00:00:31,090
+Unterschiede der einzelnen Vierecke
+
+17
+00:00:31,090 --> 00:00:33,850
+sind, beziehungsweise wie viele
+
+18
+00:00:33,850 --> 00:00:35,770
+Eigenschaften jedes von diesen hat.
+
+19
+00:00:36,690 --> 00:00:38,610
+Und damit fangen wir auch schon an,
+
+20
+00:00:38,730 --> 00:00:41,490
+was für Vierecke gibt es. Und da wir
+
+21
+00:00:41,490 --> 00:00:43,230
+fangen mit dem allgemeinen Viereck
+
+22
+00:00:43,230 --> 00:00:44,690
+an. Das allgemeine Viereck hat
+
+23
+00:00:44,690 --> 00:00:46,370
+eigentlich keine Eigenschaften. Die
+
+24
+00:00:46,370 --> 00:00:47,790
+einzige Eigenschaft, die es hat, ist,
+
+25
+00:00:47,830 --> 00:00:49,570
+dass die Summe der Innenwinkel, also
+
+26
+00:00:49,570 --> 00:00:51,430
+die Summe dieser vier eingezeichneten
+
+27
+00:00:51,430 --> 00:00:54,230
+Winkel, 360 Grad beträgt. Das gilt
+
+28
+00:00:54,230 --> 00:00:56,890
+bei allen Winkeln, das heißt auch bei
+
+29
+00:00:56,890 --> 00:00:59,650
+allen Vierecken, die wir jetzt gleich
+
+30
+00:00:59,650 --> 00:01:00,810
+noch später behandeln werden.
+
+31
+00:01:01,810 --> 00:01:04,050
+Dadurch, dass es keine Eigenschaften
+
+32
+00:01:04,050 --> 00:01:06,050
+hat, was Symmetrie, Kantenlängen oder
+
+33
+00:01:06,050 --> 00:01:08,170
+die Orientierung von Kanten
+
+34
+00:01:08,170 --> 00:01:09,950
+zueinander hat, ist es nur sehr
+
+35
+00:01:09,950 --> 00:01:11,270
+schwer, den Flächeninhalt zu
+
+36
+00:01:11,270 --> 00:01:13,730
+berechnen. Und daher ist es nur
+
+37
+00:01:13,730 --> 00:01:15,210
+möglich, den Flächeninhalt eines
+
+38
+00:01:15,210 --> 00:01:16,630
+allgemeinen Vierecks zu berechnen,
+
+39
+00:01:16,650 --> 00:01:17,910
+indem man es geschickt in mehrere
+
+40
+00:01:17,910 --> 00:01:20,370
+Teilflächen zerlegt. Dafür gibt es
+
+41
+00:01:20,370 --> 00:01:21,710
+natürlich, weil es so viele
+
+42
+00:01:21,710 --> 00:01:23,070
+verschiedene Möglichkeiten gibt, so
+
+43
+00:01:23,070 --> 00:01:26,750
+ein Viereck zu modellieren, keine
+
+44
+00:01:26,750 --> 00:01:28,650
+einheitliche Formel. Das muss man
+
+45
+00:01:28,650 --> 00:01:30,590
+leider wirklich immer selbstständig
+
+46
+00:01:30,590 --> 00:01:32,750
+für den Fall speziell machen. Wir
+
+47
+00:01:32,750 --> 00:01:33,990
+sehen hier einmal ein Beispiel. Man
+
+48
+00:01:33,990 --> 00:01:37,310
+kann das Viereck so teilen in zwei
+
+49
+00:01:37,310 --> 00:01:38,910
+Dreiecke. Die Dreiecke sind
+
+50
+00:01:38,910 --> 00:01:40,290
+rechtwinklig, hier wurde nämlich
+
+51
+00:01:40,290 --> 00:01:41,870
+rechtwinklig zur Seite A geschnitten.
+
+52
+00:01:42,130 --> 00:01:43,710
+Dann hat man hier zwei rechtwinklige
+
+53
+00:01:43,710 --> 00:01:45,170
+Dreiecke, die man gut berechnen kann.
+
+54
+00:01:45,170 --> 00:01:47,730
+Und das hier in der Mitte, da die
+
+55
+00:01:47,730 --> 00:01:49,970
+beiden blauen Linien ja senkrecht auf
+
+56
+00:01:49,970 --> 00:01:52,050
+A stehen, stehen diese blauen Linien
+
+57
+00:01:52,050 --> 00:01:55,290
+auch parallel zueinander. Daher, wenn
+
+58
+00:01:55,290 --> 00:01:56,450
+man das jetzt um 90 Grad drehen
+
+59
+00:01:56,450 --> 00:01:57,650
+würde, würde man es sehr gut sehen,
+
+60
+00:01:57,770 --> 00:02:00,650
+haben wir hier ein Trapez. Über das
+
+61
+00:02:00,650 --> 00:02:02,170
+Trapez werden wir uns aber gleich
+
+62
+00:02:02,170 --> 00:02:04,550
+noch unterhalten. Wichtig ist,
+
+63
+00:02:04,630 --> 00:02:05,710
+vielleicht könnt ihr es schon mal
+
+64
+00:02:05,710 --> 00:02:08,030
+merken, die Höhe des Trapezes wäre
+
+65
+00:02:08,030 --> 00:02:10,010
+hier so zwischen den blauen Linien
+
+66
+00:02:10,010 --> 00:02:14,150
+eingezeichnet. Gut, fangen wir dann
+
+67
+00:02:14,150 --> 00:02:16,530
+an. mit dem Quadrat an. Das Quadrat
+
+68
+00:02:16,530 --> 00:02:18,350
+ist das speziellste Viereck, es hat
+
+69
+00:02:18,350 --> 00:02:20,390
+nämlich die meisten Eigenschaften.
+
+70
+00:02:20,950 --> 00:02:23,130
+Erstmal sind beim Quadrat alle vier
+
+71
+00:02:23,130 --> 00:02:26,310
+Seiten gleich lang und alle Winkel
+
+72
+00:02:26,310 --> 00:02:32,350
+sind rechtwinklig. Und diese beiden
+
+73
+00:02:32,350 --> 00:02:34,730
+Eigenschaften sorgen dafür, dass es
+
+74
+00:02:34,730 --> 00:02:36,710
+alle Eigenschaften eines Rechtecks,
+
+75
+00:02:36,870 --> 00:02:38,870
+eines Parallelogramms, eines Trapezes
+
+76
+00:02:38,870 --> 00:02:42,490
+und eines Drachenvierecks erfüllt.
+
+77
+00:02:43,170 --> 00:02:44,650
+Beim Rechteck ist das ja nur, die
+
+78
+00:02:44,650 --> 00:02:45,850
+gegenüberliegenden Seiten sollen
+
+79
+00:02:45,850 --> 00:02:48,310
+gleich lang sein. Das ist es. Und der
+
+80
+00:02:48,310 --> 00:02:52,290
+Winkel 90° haben wir also. Das
+
+81
+00:02:52,290 --> 00:02:53,730
+Quadrat ist, wie gesagt, da noch
+
+82
+00:02:53,730 --> 00:02:54,890
+etwas genauer. Bei dem sind sogar
+
+83
+00:02:54,890 --> 00:02:58,430
+alle Seiten gleich lang. Beim
+
+84
+00:02:58,430 --> 00:02:59,410
+Parallelogramm gilt nur, die
+
+85
+00:02:59,410 --> 00:03:00,770
+gegenüberliegenden Seiten müssen
+
+86
+00:03:00,770 --> 00:03:02,330
+parallel und gleich lang sein. Das
+
+87
+00:03:02,330 --> 00:03:04,930
+haben wir hier auch. Und beim Trapez
+
+88
+00:03:04,930 --> 00:03:05,730
+brauchen wir nur zwei
+
+89
+00:03:05,730 --> 00:03:07,330
+gegenüberliegende Seiten, die
+
+90
+00:03:07,330 --> 00:03:09,550
+parallel sind. Das haben wir auch. Da
+
+91
+00:03:09,550 --> 00:03:10,770
+wird über die Länge gar nichts mehr
+
+92
+00:03:10,770 --> 00:03:14,650
+gesagt. Und daher ist das Quadrat das
+
+93
+00:03:14,650 --> 00:03:18,490
+speziellste Viereck. Für den
+
+94
+00:03:18,490 --> 00:03:20,310
+Flächeninhalt des Quadrats gilt A mal
+
+95
+00:03:20,310 --> 00:03:22,830
+A, beziehungsweise Länge mal Höhe,
+
+96
+00:03:22,830 --> 00:03:25,270
+wie beim Rechteck. Durch den
+
+97
+00:03:25,270 --> 00:03:26,710
+Spezialfall, dass dort alle Seiten
+
+98
+00:03:26,710 --> 00:03:28,170
+gleich lang sind, haben wir A mal A,
+
+99
+00:03:28,250 --> 00:03:30,310
+beziehungsweise A Quadrat, also die
+
+100
+00:03:30,310 --> 00:03:32,350
+Seitenlänge hoch 2. Das gilt aber,
+
+101
+00:03:32,370 --> 00:03:36,670
+wie gesagt, nur beim Quadrat. Kommen
+
+102
+00:03:36,670 --> 00:03:41,030
+wir als nächstes zur Raute. Die Raute
+
+103
+00:03:41,030 --> 00:03:42,710
+ist ein Spezialfall eines
+
+104
+00:03:42,710 --> 00:03:44,770
+Drachenvierecks bzw. eines
+
+105
+00:03:44,770 --> 00:03:48,650
+Parallelogramms. Bei der Raute ist es
+
+106
+00:03:48,650 --> 00:03:50,830
+so, dass die beiden Kanten, die
+
+107
+00:03:50,830 --> 00:03:52,910
+gegenüber liegen, immer parallel sind
+
+108
+00:03:52,910 --> 00:03:55,970
+und gleich lang. Also wie beim
+
+109
+00:03:56,950 --> 00:03:58,610
+Quadrat sind die gegenüberliegenden
+
+110
+00:03:58,610 --> 00:04:00,890
+Kanten gleich lang und parallel und
+
+111
+00:04:00,890 --> 00:04:02,310
+alle vier Seiten sind auch gleich
+
+112
+00:04:02,310 --> 00:04:04,250
+lang hierbei. Also wir haben überall,
+
+113
+00:04:04,410 --> 00:04:08,550
+jede Kante hat die Länge a. Anders
+
+114
+00:04:08,550 --> 00:04:10,350
+als beim Quadrat ist es hierbei
+
+115
+00:04:10,350 --> 00:04:12,350
+natürlich so, dass wir keinen rechten
+
+116
+00:04:12,350 --> 00:04:13,570
+Winkel mehr haben, den müssen wir
+
+117
+00:04:13,570 --> 00:04:15,850
+nicht haben. Aufgrund, dass wir immer
+
+118
+00:04:15,850 --> 00:04:18,650
+die gleichen Seitenlängen haben und
+
+119
+00:04:18,650 --> 00:04:21,210
+dass die gegenüberliegenden Seiten
+
+120
+00:04:21,210 --> 00:04:23,970
+parallel zueinander sind, schließt
+
+121
+00:04:23,970 --> 00:04:26,490
+sich hier immer der gleiche Winkel
+
+122
+00:04:26,490 --> 00:04:31,890
+ein. Das sorgt auch dazu, dass die
+
+123
+00:04:31,890 --> 00:04:34,670
+Raute zwei Symmetrielinien hat. Das
+
+124
+00:04:34,670 --> 00:04:38,050
+ist einmal hier die Seite E und hier
+
+125
+00:04:38,050 --> 00:04:41,150
+die Seite F, bzw. die Seite, sondern
+
+126
+00:04:41,150 --> 00:04:43,590
+die beiden Linien. Diese werden wir
+
+127
+00:04:43,590 --> 00:04:44,910
+auch noch gleich beim Drachenviereck
+
+128
+00:04:44,910 --> 00:04:47,370
+finden. Der Unterschied zwischen der
+
+129
+00:04:47,370 --> 00:04:48,730
+Raute und dem Drachenviereck ist
+
+130
+00:04:48,730 --> 00:04:50,690
+einfach, dass bei der Raute alle
+
+131
+00:04:50,690 --> 00:04:52,650
+Seitenlängen gleich lang sind. Das
+
+132
+00:04:52,650 --> 00:04:55,690
+ist beim Drachenviereck nicht so. Den
+
+133
+00:04:55,690 --> 00:04:57,150
+Flächeninhalt einer Raute kann man
+
+134
+00:04:57,150 --> 00:04:58,250
+mittels der Formel fürs
+
+135
+00:04:58,250 --> 00:04:59,850
+Parallelogramm berechnen, also die
+
+136
+00:04:59,850 --> 00:05:01,730
+Grundseite mal die Höhe, die auf der
+
+137
+00:05:01,730 --> 00:05:03,370
+Grundseite steht. HA ist wie gesagt
+
+138
+00:05:03,370 --> 00:05:04,930
+die Höhe, die auf der Grundseite A
+
+139
+00:05:04,930 --> 00:05:08,430
+steht. Die zweite Möglichkeit ist es,
+
+140
+00:05:08,550 --> 00:05:10,650
+das über die Flächeninhaltsformel des
+
+141
+00:05:10,650 --> 00:05:12,870
+Drachenpflegs zu berechnen. Also A
+
+142
+00:05:12,870 --> 00:05:15,310
+ist gleich 1,5 mal E mal F, also E
+
+143
+00:05:15,310 --> 00:05:18,550
+mal F ist das. Und das sind die zwei
+
+144
+00:05:18,550 --> 00:05:19,930
+Möglichkeiten dafür.
+
+145
+00:05:22,340 --> 00:05:24,080
+Kommen wir als nächstes zum Trapez.
+
+146
+00:05:24,100 --> 00:05:26,220
+Beim Trapez muss man erstmal zwei
+
+147
+00:05:26,220 --> 00:05:28,500
+unterscheiden. Einmal das allgemeine
+
+148
+00:05:28,500 --> 00:05:30,600
+Trapez und das symmetrische Trapez.
+
+149
+00:05:31,140 --> 00:05:33,480
+Beim allgemeinen Trapez ist es nur
+
+150
+00:05:33,480 --> 00:05:35,740
+so, dass die Kante A parallel zur
+
+151
+00:05:35,740 --> 00:05:41,320
+Kante C ist. Über die anderen
+
+152
+00:05:41,320 --> 00:05:43,660
+Seitenlängen B und D oder deren
+
+153
+00:05:43,660 --> 00:05:45,060
+Orientierung zueinander können wir
+
+154
+00:05:45,060 --> 00:05:47,520
+nichts sagen. Das Einzige, was sich
+
+155
+00:05:47,520 --> 00:05:49,200
+daraus ergibt, dass A und C parallel
+
+156
+00:05:49,200 --> 00:05:51,500
+zueinander sind, sind, dass zwei
+
+157
+00:05:51,500 --> 00:05:53,240
+Winkel von den Seiten, also Beta plus
+
+158
+00:05:53,240 --> 00:05:56,020
+Gamma, 180° ergeben und die beiden
+
+159
+00:05:56,020 --> 00:05:57,700
+Winkel ergeben zusammen auch 180
+
+160
+00:05:57,700 --> 00:06:01,380
+Grad. Die Seite A ist in dem Fall die
+
+161
+00:06:01,380 --> 00:06:05,040
+Grundseite. Das symmetrische Trapez
+
+162
+00:06:05,040 --> 00:06:06,740
+zeichnet sich hingegen dadurch aus,
+
+163
+00:06:06,840 --> 00:06:09,240
+dass die beiden Schenkel hier, in dem
+
+164
+00:06:09,240 --> 00:06:11,940
+Fall D und B, gleich lang sind.
+
+165
+00:06:12,020 --> 00:06:13,400
+Deswegen gilt auch D ist gleich B.
+
+166
+00:06:13,860 --> 00:06:15,320
+Man spricht daher auch vom
+
+167
+00:06:15,320 --> 00:06:18,640
+gleichschenkligen Trapez. Die Winkel
+
+168
+00:06:18,640 --> 00:06:20,240
+hier unten an den Schenkeln sind
+
+169
+00:06:20,240 --> 00:06:22,940
+dementsprechend auch gleich, weil die
+
+170
+00:06:22,940 --> 00:06:25,940
+Kanten gleich lang sind weiterhin ist
+
+171
+00:06:25,940 --> 00:06:28,220
+hier die seite c parallel zur seite a
+
+172
+00:06:28,220 --> 00:06:30,740
+über die längen dieser beiden seiten
+
+173
+00:06:30,740 --> 00:06:34,560
+gibt es aber keine aussage die höhe
+
+174
+00:06:34,560 --> 00:06:37,020
+eines trapez wird wie beim
+
+175
+00:06:37,020 --> 00:06:39,140
+parallelogramm gemessen von der
+
+176
+00:06:39,140 --> 00:06:42,360
+grundseite rechtwinklig nach oben das
+
+177
+00:06:42,360 --> 00:06:47,660
+ist die höhe hier ja und auch beim
+
+178
+00:06:47,660 --> 00:06:49,180
+symmetrischen trapez gilt natürlich
+
+179
+00:06:49,180 --> 00:06:50,600
+dass die beiden winkel zusammen immer
+
+180
+00:06:50,600 --> 00:06:52,360
+180 grad ergeben Eben wie gesagt, das
+
+181
+00:06:52,360 --> 00:06:54,720
+ergibt sich dadurch, dass die Seite A
+
+182
+00:06:54,720 --> 00:06:57,160
+parallel zur Seite C ist.
+
+183
+00:07:02,870 --> 00:07:04,150
+Hier sehen wir nochmal, was ich
+
+184
+00:07:04,150 --> 00:07:05,790
+gerade angesprochen habe zum Thema
+
+185
+00:07:05,790 --> 00:07:07,490
+Flächeninhalt. Es gibt zwei
+
+186
+00:07:07,490 --> 00:07:09,570
+Möglichkeiten beim Trapez. Einmal,
+
+187
+00:07:09,570 --> 00:07:13,010
+wir tragen die Höhe H ein und kriegen
+
+188
+00:07:13,010 --> 00:07:14,930
+zwei Seiten gegeben, beziehungsweise
+
+189
+00:07:14,930 --> 00:07:16,650
+die Grundseite und die dazu parallele
+
+190
+00:07:16,650 --> 00:07:19,290
+Seite C. Der Flächeninhalt A
+
+191
+00:07:19,290 --> 00:07:21,950
+berechnet sich dann zu 1,5 mal A plus
+
+192
+00:07:21,950 --> 00:07:24,570
+C mal H. Ganz wichtig, das A plus C
+
+193
+00:07:24,570 --> 00:07:26,230
+muss dann in Klammern stehen. Man
+
+194
+00:07:26,230 --> 00:07:27,590
+muss erst die Summe aus den beiden
+
+195
+00:07:27,590 --> 00:07:29,850
+Längen bilden und dann darf man mit 1
+
+196
+00:07:29,850 --> 00:07:31,890
+,5 bzw. h multiplizieren, sonst kommt
+
+197
+00:07:31,890 --> 00:07:34,210
+was Falsches raus. Alternativ kann
+
+198
+00:07:34,210 --> 00:07:35,150
+man auch die sogenannte
+
+199
+00:07:35,150 --> 00:07:37,370
+Mittelparallele m angeben.
+
+200
+00:07:39,830 --> 00:07:42,570
+Das ist diese hier und dann kann der
+
+201
+00:07:42,570 --> 00:07:43,750
+Flächeninhalt auch bestimmt werden
+
+202
+00:07:43,750 --> 00:07:47,890
+über m mal h. Diese Mittelparallele m
+
+203
+00:07:47,890 --> 00:07:50,190
+ist einfach genau in der Mitte
+
+204
+00:07:50,190 --> 00:07:52,490
+zwischen c und a aufgetragen.
+
+205
+00:07:54,770 --> 00:07:56,650
+möchte, die Mittelparallele wird hier
+
+206
+00:07:56,650 --> 00:07:58,550
+oben durch dieses 1,5 mal a plus c
+
+207
+00:07:58,550 --> 00:08:00,510
+ebenfalls berechnet, also die Länge
+
+208
+00:08:00,510 --> 00:08:02,170
+der Mittelparallele. Wenn man die
+
+209
+00:08:02,170 --> 00:08:03,610
+natürlich schon gegeben hat, nutzt
+
+210
+00:08:03,610 --> 00:08:06,130
+man diese Formel a ist gleich m mal
+
+211
+00:08:06,130 --> 00:08:10,240
+h. Das sind die zwei Möglichkeiten,
+
+212
+00:08:10,320 --> 00:08:12,320
+den Flächeninhalt eines Trapezes zu
+
+213
+00:08:12,320 --> 00:08:15,840
+bestimmen. Damit wären wir auch schon
+
+214
+00:08:15,840 --> 00:08:17,860
+beim Parallelogramm. Ein
+
+215
+00:08:17,860 --> 00:08:19,620
+Parallelogramm zeichnet sich dadurch
+
+216
+00:08:19,620 --> 00:08:21,280
+aus, dass die gegenüberliegende Seite
+
+217
+00:08:21,280 --> 00:08:23,420
+immer gleich lang ist und parallel
+
+218
+00:08:23,420 --> 00:08:25,260
+dazu. Das heißt, Wir haben hier
+
+219
+00:08:25,260 --> 00:08:26,660
+beides mal die Seite A, die ist
+
+220
+00:08:26,660 --> 00:08:28,280
+natürlich dann gleich lang und auch
+
+221
+00:08:28,280 --> 00:08:29,800
+parallel zueinander, genauso wie die
+
+222
+00:08:29,800 --> 00:08:35,340
+zwei Seiten B. Über die Winkel lässt
+
+223
+00:08:35,340 --> 00:08:37,260
+sich nur aussagen, dass die
+
+224
+00:08:37,260 --> 00:08:38,460
+gegenüberliegenden Winkel immer
+
+225
+00:08:38,460 --> 00:08:39,720
+gleich groß sind, deswegen Beta und
+
+226
+00:08:39,720 --> 00:08:42,380
+Beta, Alpha und Alpha. Das hängt auch
+
+227
+00:08:42,380 --> 00:08:43,620
+wieder mit den Seitenlängen und der
+
+228
+00:08:43,620 --> 00:08:46,720
+Parallelität zusammen. Und der
+
+229
+00:08:46,720 --> 00:08:48,540
+Flächeninhalt eines Parallelogramms
+
+230
+00:08:48,540 --> 00:08:50,880
+wird immer bestimmt über Länge der
+
+231
+00:08:50,880 --> 00:08:53,060
+Grundseite mal Höhe auf der
+
+232
+00:08:53,060 --> 00:08:55,000
+Grundseite, also A ist gleich A mal
+
+233
+00:08:55,000 --> 00:08:57,340
+HA. HA ist wie gesagt die Höhe, die
+
+234
+00:08:57,340 --> 00:08:59,820
+auf der Seite A steht. Oder A ist
+
+235
+00:08:59,820 --> 00:09:02,600
+gleich B mal HB. HB ist dabei die
+
+236
+00:09:02,600 --> 00:09:04,700
+Höhe, die auf der Seite B steht. Also
+
+237
+00:09:04,700 --> 00:09:06,160
+diese Höhen stehen immer senkrecht
+
+238
+00:09:06,160 --> 00:09:07,180
+auf den Seiten. Hier sieht man es
+
+239
+00:09:07,180 --> 00:09:08,260
+sehr gut und wenn man es drehen
+
+240
+00:09:08,260 --> 00:09:09,120
+würde, würde man es hier auch gut
+
+241
+00:09:09,120 --> 00:09:10,660
+sehen, dass hier ein rechter Winkel
+
+242
+00:09:10,660 --> 00:09:12,560
+herrscht. Und das muss auch immer
+
+243
+00:09:12,560 --> 00:09:14,400
+sein. Die Höhe ist immer senkrecht zu
+
+244
+00:09:14,400 --> 00:09:18,400
+der Grundseite bemessen. und das
+
+245
+00:09:18,400 --> 00:09:21,240
+parallelogramm ist eigentlich nur ein
+
+246
+00:09:21,240 --> 00:09:23,680
+spezialfall der raute denn bei der
+
+247
+00:09:23,680 --> 00:09:25,200
+raute hat man die zusätzliche
+
+248
+00:09:25,200 --> 00:09:26,520
+eigenschaft dass alle seiten gleich
+
+249
+00:09:26,520 --> 00:09:28,340
+lang sind das hat man ein
+
+250
+00:09:28,340 --> 00:09:31,400
+parallelogramm natürlich nicht und
+
+251
+00:09:33,510 --> 00:09:35,550
+damit wären wir nun auch schon beim
+
+252
+00:09:35,550 --> 00:09:37,790
+drachen viereck wir sehen hier ein
+
+253
+00:09:37,790 --> 00:09:39,690
+drachen viereck und wir sehen dass
+
+254
+00:09:39,690 --> 00:09:41,710
+das drachen viereck zwei symmetrie
+
+255
+00:09:41,710 --> 00:09:43,410
+eine symmetrie linie hat Das ist
+
+256
+00:09:43,410 --> 00:09:45,730
+einmal die Seite von A nach C hier,
+
+257
+00:09:45,830 --> 00:09:49,950
+rot gestrichelt dargestellt. Beim
+
+258
+00:09:49,950 --> 00:09:52,090
+Drachenviereck ist es üblich, die
+
+259
+00:09:52,090 --> 00:09:54,490
+Länge E und die Breite S anzugeben.
+
+260
+00:09:54,590 --> 00:09:56,350
+Und mit diesen brecht man dann auch
+
+261
+00:09:56,350 --> 00:09:58,330
+den Flächeninhalt. A ist gleich
+
+262
+00:09:58,330 --> 00:10:02,870
+anderthalb mal E mal F. Des Weiteren
+
+263
+00:10:02,870 --> 00:10:05,630
+ist es hier so, dass C genauso lang
+
+264
+00:10:05,630 --> 00:10:08,630
+ist wie B, D genauso lang ist wie A.
+
+265
+00:10:10,010 --> 00:10:11,630
+Und die beiden gegenüberliegenden
+
+266
+00:10:11,630 --> 00:10:13,270
+Winkel... d und b sind gleich groß.
+
+267
+00:10:13,330 --> 00:10:14,430
+Das ergibt sich wie gesagt dadurch,
+
+268
+00:10:14,510 --> 00:10:16,090
+dass wir hier eine Symmetrie-Linie
+
+269
+00:10:16,090 --> 00:10:20,830
+haben. Das heißt, wir haben die
+
+270
+00:10:20,830 --> 00:10:23,290
+Diagonale, AC ist nicht nur eine
+
+271
+00:10:23,290 --> 00:10:24,310
+Diagonale, sondern auch eine
+
+272
+00:10:24,310 --> 00:10:25,490
+Symmetrieachse.
+
+273
+00:10:27,880 --> 00:10:31,040
+Und die andere Diagonale, F, steht
+
+274
+00:10:31,040 --> 00:10:33,020
+senkrecht auf E. Das ist auch
+
+275
+00:10:33,020 --> 00:10:34,480
+notwendig, damit diese Formel
+
+276
+00:10:34,480 --> 00:10:36,580
+Gültigkeit hat. Also hier zwischen
+
+277
+00:10:36,580 --> 00:10:37,820
+besteht ein rechter Winkel. Das
+
+278
+00:10:37,820 --> 00:10:38,480
+könnte vielleicht mal ganz
+
+279
+00:10:38,480 --> 00:10:39,960
+interessant sein, wenn man
+
+280
+00:10:39,960 --> 00:10:41,020
+irgendwelche Seitenlängen mit
+
+281
+00:10:41,020 --> 00:10:42,220
+Pythagoras berechnen soll.
+
+282
+00:10:45,370 --> 00:10:47,570
+Gut, damit wären wir nun auch schon
+
+283
+00:10:47,570 --> 00:10:50,810
+beim Haus der Vierecke. Wir sehen
+
+284
+00:10:50,810 --> 00:10:52,590
+hier rechts das Haus der Vierecke und
+
+285
+00:10:52,590 --> 00:10:54,470
+je höher wir jetzt hier in diesem
+
+286
+00:10:54,470 --> 00:10:56,870
+Haus gehen, desto mehr Eigenschaften
+
+287
+00:10:56,870 --> 00:10:57,830
+haben wir. Die wenigsten
+
+288
+00:10:57,830 --> 00:10:58,830
+Eigenschaften haben wir natürlich
+
+289
+00:10:58,830 --> 00:11:01,650
+beim allgemeinen Viereck. Das
+
+290
+00:11:01,650 --> 00:11:02,910
+allgemeine Viereck hat einfach nur
+
+291
+00:11:02,910 --> 00:11:05,710
+eine Innenwinkelsumme von 360°. Mehr
+
+292
+00:11:05,710 --> 00:11:08,630
+können wir darüber nicht sagen. Das
+
+293
+00:11:08,630 --> 00:11:10,090
+wird schon deutlich konkreter beim
+
+294
+00:11:10,090 --> 00:11:12,070
+symmetrischen Trapez bzw. beim
+
+295
+00:11:12,070 --> 00:11:13,170
+Parallelogramm oder beim
+
+296
+00:11:13,170 --> 00:11:16,570
+Drachenviereck. Das Parallelogramm
+
+297
+00:11:16,570 --> 00:11:17,650
+hat die Eigenschaft, dass die beiden
+
+298
+00:11:17,650 --> 00:11:19,250
+Seiten parallel zueinander sind und
+
+299
+00:11:19,250 --> 00:11:21,090
+gleich lang und die beiden Seiten
+
+300
+00:11:21,090 --> 00:11:22,310
+parallel zueinander sind und gleich
+
+301
+00:11:22,310 --> 00:11:24,630
+lang. Das heißt, die Seite ist
+
+302
+00:11:24,630 --> 00:11:26,730
+jeweils parallel und gleich lang zu
+
+303
+00:11:26,730 --> 00:11:28,310
+der jeweils gegenüberliegenden Seite.
+
+304
+00:11:29,670 --> 00:11:31,170
+Beim Drachenviereck ist es so, dass
+
+305
+00:11:31,170 --> 00:11:32,390
+die Diagonale gleichzeitig
+
+306
+00:11:32,390 --> 00:11:33,890
+Symmetrieachse ist. Also wir haben
+
+307
+00:11:33,890 --> 00:11:35,330
+eine ganze Symmetrieachse, deswegen
+
+308
+00:11:35,330 --> 00:11:37,530
+ist die Kante hier genauso lang wie
+
+309
+00:11:37,530 --> 00:11:39,710
+die, die hier genauso lang wie die
+
+310
+00:11:39,710 --> 00:11:41,150
+und die beiden Winkel stimmen
+
+311
+00:11:41,150 --> 00:11:43,790
+natürlich auch überein. Das
+
+312
+00:11:43,790 --> 00:11:45,130
+symmetrische Trapez hat auch eine
+
+313
+00:11:45,130 --> 00:11:47,930
+Symmetrieachse, daher ist es
+
+314
+00:11:47,930 --> 00:11:49,470
+gleichzeitig auch gleichschenklich
+
+315
+00:11:49,470 --> 00:11:50,790
+und die beiden Winkel an den
+
+316
+00:11:50,790 --> 00:11:52,950
+Schenkeln sind auch gleich. Und die
+
+317
+00:11:52,950 --> 00:11:54,450
+Grundseite hier ist natürlich
+
+318
+00:11:54,450 --> 00:11:59,050
+parallel zu der oberen Seite. Im
+
+319
+00:11:59,050 --> 00:12:00,110
+nächsten Stockwerk, wenn man so
+
+320
+00:12:00,110 --> 00:12:01,590
+möchte, ist das Rechteck oder die
+
+321
+00:12:01,590 --> 00:12:04,850
+Raute. Die Raute hat noch ein paar
+
+322
+00:12:04,850 --> 00:12:07,030
+Eigenschaften mehr. Die Raute
+
+323
+00:12:07,030 --> 00:12:08,630
+beispielsweise im Vergleich zum
+
+324
+00:12:08,630 --> 00:12:10,490
+Parallelogramm hat alle Eigenschaften
+
+325
+00:12:10,490 --> 00:12:12,470
+des Parallelogramms und zusätzlich
+
+326
+00:12:12,470 --> 00:12:14,270
+sind noch alle Seiten gleich lang.
+
+327
+00:12:14,470 --> 00:12:16,430
+Das heißt, es hat eine Eigenschaft
+
+328
+00:12:16,430 --> 00:12:19,070
+mehr als das Parallelogramm. Genauso
+
+329
+00:12:19,070 --> 00:12:21,270
+sieht es beim Rechteck aus. Beim
+
+330
+00:12:21,270 --> 00:12:22,810
+Parallelogramm sind die Winkel hier
+
+331
+00:12:22,810 --> 00:12:24,790
+ja variabel. Das ist beim Rechteck
+
+332
+00:12:24,790 --> 00:12:26,390
+nicht mehr der Fall. Beim Rechteck
+
+333
+00:12:26,390 --> 00:12:28,730
+hat das Rechteck alle Eigenschaften
+
+334
+00:12:28,730 --> 00:12:30,030
+eines Parallelogramms, aber
+
+335
+00:12:30,030 --> 00:12:32,250
+zusätzlich dazu... auch noch dass
+
+336
+00:12:32,250 --> 00:12:36,030
+alle winkel 90 grad betragen und das
+
+337
+00:12:36,030 --> 00:12:37,350
+einzige was man jetzt noch machen
+
+338
+00:12:37,350 --> 00:12:39,050
+kann ist hier die seitenlängen
+
+339
+00:12:39,050 --> 00:12:41,470
+anfassen beziehungsweise hier den
+
+340
+00:12:41,470 --> 00:12:42,530
+winkel und dann landet man beim
+
+341
+00:12:42,530 --> 00:12:44,370
+quadrat das quadrat ist ein
+
+342
+00:12:44,370 --> 00:12:46,550
+besonderes rechteck wo alle seiten
+
+343
+00:12:46,550 --> 00:12:48,790
+gleich lang sind beziehungsweise eine
+
+344
+00:12:48,790 --> 00:12:51,230
+besondere raute wo alle winkel gleich
+
+345
+00:12:51,230 --> 00:12:54,390
+sind nämlich 90 grad und so ist das
+
+346
+00:12:54,390 --> 00:12:57,470
+quadrat das das Viereck mit den
+
+347
+00:12:57,470 --> 00:12:59,310
+meisten Eigenschaften. Deswegen steht
+
+348
+00:12:59,310 --> 00:13:00,510
+es auch im Haus der Vierecke ganz
+
+349
+00:13:00,510 --> 00:13:02,510
+oben. Wie gesagt, wir fangen unten an
+
+350
+00:13:02,510 --> 00:13:04,690
+mit den wenigsten Eigenschaften und
+
+351
+00:13:04,690 --> 00:13:06,710
+die Eigenschaften werden desto höher,
+
+352
+00:13:06,790 --> 00:13:08,170
+dass das Viereck hier auf dieser
+
+353
+00:13:08,170 --> 00:13:11,210
+Abbildung eingezeichnet ist, dann
+
+354
+00:13:11,210 --> 00:13:12,730
+werden die Eigenschaften auch mehr.
+
+355
+00:13:17,760 --> 00:13:20,020
+Gut, damit wären wir nun auch am Ende
+
+356
+00:13:20,020 --> 00:13:22,220
+des Webinars. Ich bedanke mich recht
+
+357
+00:13:22,220 --> 00:13:23,860
+herzlich für eure Aufmerksamkeit.
+

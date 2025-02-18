@@ -1,0 +1,2224 @@
+1
+00:00:01,330 --> 00:00:03,390
+Herzlich Willkommen zum Webinar Satz
+
+2
+00:00:03,390 --> 00:00:05,770
+des Pythagoras. Ich hoffe erstmal,
+
+3
+00:00:05,890 --> 00:00:07,170
+dass ihr mich hören könnt. Falls dem
+
+4
+00:00:07,170 --> 00:00:08,470
+so ist, schreibt mir dann ein kurzes
+
+5
+00:00:08,470 --> 00:00:09,730
+Ja oder Okay in den Chat rein.
+
+6
+00:00:10,150 --> 00:00:11,550
+Einfach nur, damit ich weiß, dass ihr
+
+7
+00:00:11,550 --> 00:00:12,790
+mich hören könnt und dass wir wie
+
+8
+00:00:12,790 --> 00:00:14,650
+gewohnt mit dem Webinar beginnen
+
+9
+00:00:14,650 --> 00:00:14,950
+können.
+
+10
+00:00:19,500 --> 00:00:21,120
+Ihr könnt mich nicht hören, aber
+
+11
+00:00:29,060 --> 00:00:30,360
+ihr könnt mich hören. Das heißt, wir
+
+12
+00:00:30,360 --> 00:00:33,120
+fangen jetzt auch an. Wie gesagt, wir
+
+13
+00:00:33,120 --> 00:00:34,520
+befassen uns heute mit dem Satz des
+
+14
+00:00:34,520 --> 00:00:35,840
+Pythagoras. Wenn ihr gleich
+
+15
+00:00:35,840 --> 00:00:37,740
+irgendwozu Fragen habt, schreibt das
+
+16
+00:00:37,740 --> 00:00:38,860
+einfach in den Chat rein. Ich komme
+
+17
+00:00:38,860 --> 00:00:40,740
+auf jeden Fall darauf zurück. Wie
+
+18
+00:00:40,740 --> 00:00:41,900
+immer werden wir auch am Ende
+
+19
+00:00:41,900 --> 00:00:43,100
+wahrscheinlich Zeit für eine kleine
+
+20
+00:00:43,100 --> 00:00:47,830
+Fragerunde haben. Das Webminar heute
+
+21
+00:00:47,830 --> 00:00:50,270
+befasst sich eigentlich primär mit
+
+22
+00:00:50,270 --> 00:00:51,910
+dem Satz des Pythagoras. Das heißt
+
+23
+00:00:51,910 --> 00:00:53,490
+wirklich den Satz des Pythagoras, den
+
+24
+00:00:53,490 --> 00:00:54,510
+man auch in der Schule behandelt.
+
+25
+00:00:55,010 --> 00:00:56,070
+Danach haben wir auf der letzten
+
+26
+00:00:56,070 --> 00:00:59,510
+Folie noch ein Dreieck, wo der Satz
+
+27
+00:00:59,510 --> 00:01:01,390
+des Euclid, bzw. der Höhen- und
+
+28
+00:01:01,390 --> 00:01:03,850
+Kathetensatz des Euclids zur Geltung
+
+29
+00:01:03,850 --> 00:01:04,990
+kommt und wir ihn auch nochmal kurz
+
+30
+00:01:04,990 --> 00:01:06,390
+ansprechen. Wir haben dazu nur leider
+
+31
+00:01:06,390 --> 00:01:08,950
+keine Übungsaufgabe. Trotz alledem
+
+32
+00:01:08,950 --> 00:01:10,270
+werde ich es natürlich so ausführlich
+
+33
+00:01:10,270 --> 00:01:11,950
+erklären, dass ihr es alle versteht.
+
+34
+00:01:13,590 --> 00:01:15,930
+Gut, fangen wir mit den Grundlagen
+
+35
+00:01:15,930 --> 00:01:18,710
+an, damit wir einfach uns verstehen.
+
+36
+00:01:20,450 --> 00:01:23,190
+Das Wichtigste ist, den Satz des
+
+37
+00:01:23,190 --> 00:01:25,030
+Pythagoras kann man nur in einem
+
+38
+00:01:25,030 --> 00:01:26,650
+rechtwinkligen Dreieck verwenden.
+
+39
+00:01:26,650 --> 00:01:28,590
+Wenn ihr kein rechtwinkliges Dreieck
+
+40
+00:01:28,590 --> 00:01:30,050
+habt, könnt ihr nicht den Satz des
+
+41
+00:01:30,050 --> 00:01:31,950
+Pythagoras verwenden. Das ist das
+
+42
+00:01:31,950 --> 00:01:34,430
+Wichtigste. Satz des Pythagoras, also
+
+43
+00:01:34,430 --> 00:01:35,910
+wir brauchen ein rechtwinkliges
+
+44
+00:01:35,910 --> 00:01:40,810
+Dreieck. Dann. Wir haben ein
+
+45
+00:01:40,810 --> 00:01:42,210
+rechtwinkliges Dreieck, das heißt wir
+
+46
+00:01:42,210 --> 00:01:44,490
+haben auch drei Seiten. Wenn wir mit
+
+47
+00:01:44,490 --> 00:01:45,790
+dem Satz des Pythagoras arbeiten,
+
+48
+00:01:46,050 --> 00:01:48,810
+klassifizieren wir die Seiten auch.
+
+49
+00:01:48,810 --> 00:01:50,970
+Und zwar teilen wir sie in Katheten
+
+50
+00:01:50,970 --> 00:01:53,490
+und eine Hypotenuse auf. Das
+
+51
+00:01:53,490 --> 00:01:55,150
+Wichtigste ist für uns, die
+
+52
+00:01:55,150 --> 00:01:56,350
+Hypotenuse ist dadurch
+
+53
+00:01:56,350 --> 00:01:58,090
+gekennzeichnet, dass sie erstens
+
+54
+00:01:58,090 --> 00:02:00,190
+gegenüber vom rechten Winkel liegt
+
+55
+00:02:00,190 --> 00:02:02,510
+und zweitens sie ist die längste
+
+56
+00:02:02,510 --> 00:02:05,810
+Seite im Dreieck. Wenn irgendwann man
+
+57
+00:02:05,810 --> 00:02:07,610
+das ausrechnet und ihr kommt auf eine
+
+58
+00:02:07,610 --> 00:02:09,670
+Länge und die Hypotenuse ist nicht
+
+59
+00:02:09,670 --> 00:02:11,710
+die längste Seite, dann habt ihr
+
+60
+00:02:11,710 --> 00:02:13,730
+einen Fehler gemacht. Und das zwar zu
+
+61
+00:02:13,730 --> 00:02:16,790
+100%. Deswegen merkt euch bitte,
+
+62
+00:02:17,810 --> 00:02:21,810
+Hypotenuse liegt gegenüber vom
+
+63
+00:02:21,810 --> 00:02:23,550
+rechten Winkel und sie ist die
+
+64
+00:02:23,550 --> 00:02:26,510
+längste Seite im Dreieck. Das ist das
+
+65
+00:02:26,510 --> 00:02:29,250
+Wichtigste. Die beiden Seiten, die da
+
+66
+00:02:29,250 --> 00:02:30,550
+noch übrig bleiben, sind die Katheten
+
+67
+00:02:30,550 --> 00:02:32,230
+und die beiden Katheten schließen den
+
+68
+00:02:32,230 --> 00:02:34,690
+rechten Winkel ein. Ich denke, das
+
+69
+00:02:34,690 --> 00:02:38,550
+ist soweit klar. Das heißt, wir
+
+70
+00:02:38,550 --> 00:02:39,970
+werden jetzt im Folgenden, wenn wir
+
+71
+00:02:39,970 --> 00:02:41,610
+mit dem Satz Pythagoras arbeiten,
+
+72
+00:02:41,870 --> 00:02:43,930
+sehr viel von Hypotenuse und Katheten
+
+73
+00:02:43,930 --> 00:02:47,030
+sprechen. Und die erste Aufgabe, die
+
+74
+00:02:47,030 --> 00:02:48,210
+man eigentlich immer hat, wenn man
+
+75
+00:02:48,210 --> 00:02:50,750
+ein Dreieck sieht und man möchte es
+
+76
+00:02:50,750 --> 00:02:52,950
+mit einem Satz des Pythagoras lösen,
+
+77
+00:02:52,950 --> 00:02:54,270
+ist erstmal schauen, ob es überhaupt
+
+78
+00:02:54,270 --> 00:02:56,990
+rechtwinklig ist. Dann schauen, wo
+
+79
+00:02:56,990 --> 00:02:59,010
+die Hypotenuse liegt und dann halt
+
+80
+00:02:59,010 --> 00:03:00,470
+gucken, was man gegeben hat. Also ob
+
+81
+00:03:00,470 --> 00:03:02,050
+man zwei Katheten gegeben hat oder
+
+82
+00:03:02,050 --> 00:03:04,050
+Hypotenuse und eine Kathete oder weiß
+
+83
+00:03:04,050 --> 00:03:08,040
+Gott was. Gut, ein Mann namens
+
+84
+00:03:08,040 --> 00:03:10,080
+Pythagoras. Ich denke, viele von euch
+
+85
+00:03:10,080 --> 00:03:12,380
+kennen den Satz des Pythagoras als A²
+
+86
+00:03:12,380 --> 00:03:18,480
+plus B² ist gleich C². Ja, das ist
+
+87
+00:03:18,480 --> 00:03:19,480
+nicht ganz so schön formuliert,
+
+88
+00:03:19,500 --> 00:03:23,330
+meiner Meinung nach. Wenn ihr euch
+
+89
+00:03:23,330 --> 00:03:24,590
+das merkt, könnt ihr das gerne
+
+90
+00:03:24,590 --> 00:03:26,030
+machen. Denkt nur bitte immer daran,
+
+91
+00:03:26,130 --> 00:03:28,410
+dass in diesem Fall A² A und B die
+
+92
+00:03:28,410 --> 00:03:30,050
+beiden Katheten sind und C die
+
+93
+00:03:30,050 --> 00:03:32,950
+Hypotenose. Das heißt, korrekt würde
+
+94
+00:03:32,950 --> 00:03:35,930
+man besser sagen, Kathete zum Quadrat
+
+95
+00:03:35,930 --> 00:03:37,790
+plus Kathete zum Quadrat ist gleich
+
+96
+00:03:37,790 --> 00:03:42,270
+Hypotenuse zum Quadrat. Wenn man sich
+
+97
+00:03:42,270 --> 00:03:44,890
+das Ganze mal grafisch vorstellen
+
+98
+00:03:44,890 --> 00:03:46,670
+möchte, sieht das dann so wichtig
+
+99
+00:03:46,670 --> 00:03:48,630
+aus. Das heißt, wir haben hier
+
+100
+00:03:48,630 --> 00:03:50,130
+erstmal die Hypotenuse, also hier ist
+
+101
+00:03:50,130 --> 00:03:51,370
+ein rechter Winkel, das ist dann die
+
+102
+00:03:51,370 --> 00:03:53,070
+Seite gegenüber vom rechten Winkel.
+
+103
+00:03:53,130 --> 00:03:54,830
+Und ich denke, wie man schon recht
+
+104
+00:03:54,830 --> 00:03:56,070
+gut erkennen kann, es ist auch die
+
+105
+00:03:56,070 --> 00:03:59,270
+längste Seite. Wir haben jetzt hier
+
+106
+00:03:59,270 --> 00:04:03,750
+eine Länge c und wenn wir c zum
+
+107
+00:04:03,750 --> 00:04:06,110
+Quadrat bilden, tun wir nichts weiter
+
+108
+00:04:06,110 --> 00:04:07,970
+als eine Fläche aufspannen. Also wir
+
+109
+00:04:07,970 --> 00:04:09,510
+gehen hier die Länge c entlang und
+
+110
+00:04:09,510 --> 00:04:11,110
+dann auch hier. Wir sehen, es
+
+111
+00:04:11,110 --> 00:04:12,610
+entsteht eine Fläche. Und diese
+
+112
+00:04:12,610 --> 00:04:13,810
+Fläche hat einfach die Eigenschaft,
+
+113
+00:04:14,010 --> 00:04:16,090
+das hat der Herr Pythagoras
+
+114
+00:04:16,090 --> 00:04:18,510
+herausgefunden, diese Fläche ist
+
+115
+00:04:18,510 --> 00:04:20,910
+genauso groß wie die beiden Orangen
+
+116
+00:04:20,910 --> 00:04:25,210
+zusammen. Also die Summe der beiden
+
+117
+00:04:25,210 --> 00:04:28,690
+Orangen. Flächen. Das ist so die
+
+118
+00:04:28,690 --> 00:04:29,990
+Erklärung dahinter. Das hat er halt
+
+119
+00:04:29,990 --> 00:04:31,790
+entdeckt und das machen wir uns
+
+120
+00:04:31,790 --> 00:04:32,770
+seitdem alle zunutze.
+
+121
+00:04:35,890 --> 00:04:39,810
+Kommen wir nun dazu, was ich gerade
+
+122
+00:04:39,810 --> 00:04:43,970
+schon angedeutet habe. a² plus b² ist
+
+123
+00:04:43,970 --> 00:04:47,030
+gleich c². Ist gut, nur denkt bitte
+
+124
+00:04:47,030 --> 00:04:49,690
+dran, a und b sind dann Katheten.
+
+125
+00:04:49,690 --> 00:04:51,390
+Also lieber sagen Kathete zum Quadrat
+
+126
+00:04:51,390 --> 00:04:52,830
+plus Kathete zum Quadrat ist gleich
+
+127
+00:04:52,830 --> 00:04:55,310
+die Übertinulie zum Quadrat. Das hat
+
+128
+00:04:55,310 --> 00:04:56,510
+einfach nur den Grund, Und es ist
+
+129
+00:04:56,510 --> 00:04:57,950
+leider nicht so, dass ihr immer
+
+130
+00:04:57,950 --> 00:05:00,150
+Dreiecke bekommt, wo C die Hypotenuse
+
+131
+00:05:00,150 --> 00:05:03,390
+ist. Das soll heißen, wenn ihr euch
+
+132
+00:05:03,390 --> 00:05:05,070
+das nur so merkt und es funktioniert
+
+133
+00:05:05,070 --> 00:05:06,310
+in der Regel auch damit, das stimmt
+
+134
+00:05:06,310 --> 00:05:08,990
+schon, dann geht man dann so eine
+
+135
+00:05:08,990 --> 00:05:10,590
+gewisse Routine über und setzt immer
+
+136
+00:05:10,590 --> 00:05:14,050
+bei A ein und B bei B und C würde man
+
+137
+00:05:14,050 --> 00:05:16,710
+bei C einsetzen. Und wenn man dann
+
+138
+00:05:16,710 --> 00:05:18,630
+halt mal einen Dreieck bekommt, wo C
+
+139
+00:05:18,630 --> 00:05:21,450
+nicht die Hypotenuse ist, bekommt man
+
+140
+00:05:21,450 --> 00:05:22,770
+zwangsläufig ein falsches Ergebnis.
+
+141
+00:05:22,770 --> 00:05:24,730
+Deswegen lieber, dass ihr merkt,
+
+142
+00:05:24,810 --> 00:05:26,730
+Kathete zum Quadrat plus Kathete zum
+
+143
+00:05:26,730 --> 00:05:28,390
+Quadrat ist gleich die Hypotenuse zum
+
+144
+00:05:28,390 --> 00:05:30,590
+Quadrat. Denn ihr müsst eh am Anfang
+
+145
+00:05:30,590 --> 00:05:31,910
+immer schauen, was die Hypotenuse
+
+146
+00:05:31,910 --> 00:05:33,510
+sind und was sind entsprechend meine
+
+147
+00:05:33,510 --> 00:05:37,620
+beiden Katheten. Gibt es hierzu
+
+148
+00:05:37,620 --> 00:05:40,760
+erstmal noch Fragen? Okay,
+
+149
+00:05:45,660 --> 00:05:47,600
+anscheinend nicht. Wenn ihr Fragen
+
+150
+00:05:47,600 --> 00:05:49,280
+habt, schreibt sie gerne in den Chat
+
+151
+00:05:49,280 --> 00:05:54,240
+rein. Gut, fangen wir an mit der
+
+152
+00:05:54,240 --> 00:05:58,880
+Hypotenusenlänge berechnen. Für die
+
+153
+00:05:58,880 --> 00:06:00,260
+Berechnung der Hypotenusenlänge ist
+
+154
+00:06:00,260 --> 00:06:01,480
+der Satz des Pythagoras bereits
+
+155
+00:06:01,480 --> 00:06:03,960
+richtig umgestellt. Denn wir wissen,
+
+156
+00:06:04,020 --> 00:06:05,240
+wir haben ja gerade gehört, Kathet
+
+157
+00:06:05,240 --> 00:06:06,940
+zum Quadrat plus Kathete zum Quadrat
+
+158
+00:06:06,940 --> 00:06:08,600
+ist gleich die Hypotenuse zum
+
+159
+00:06:08,600 --> 00:06:12,740
+Quadrat. Das heißt, wenn wir jetzt
+
+160
+00:06:12,740 --> 00:06:13,920
+die beiden Katheten einsetzen,
+
+161
+00:06:14,000 --> 00:06:15,420
+erhalten wir das Quadrat der
+
+162
+00:06:15,420 --> 00:06:19,540
+Hypotenuse. a² plus b² ist gleich c².
+
+163
+00:06:20,840 --> 00:06:23,220
+Das heißt, um die Hypotenusenlänge zu
+
+164
+00:06:23,220 --> 00:06:24,700
+bestimmen, müssen wir noch die Wurzel
+
+165
+00:06:24,700 --> 00:06:27,460
+ziehen. Das Ganze sieht dann in einer
+
+166
+00:06:27,460 --> 00:06:29,460
+Aufgabe so aus. Wir sehen hier
+
+167
+00:06:29,460 --> 00:06:31,980
+erstmal ein Dreieck. Es steht schon
+
+168
+00:06:31,980 --> 00:06:33,160
+in der Aufgabe, gegeben ist ein
+
+169
+00:06:33,160 --> 00:06:34,560
+rechtwinkliges Dreieck. Das heißt,
+
+170
+00:06:34,620 --> 00:06:36,260
+wir wissen schon mal sofort, aha, wir
+
+171
+00:06:36,260 --> 00:06:37,700
+dürfen den Satz des Pythagoras
+
+172
+00:06:37,700 --> 00:06:41,280
+nutzen. Und wir wissen, die
+
+173
+00:06:41,280 --> 00:06:43,700
+Kathetenlänge A und B sind 3 cm. Wie
+
+174
+00:06:43,700 --> 00:06:45,980
+lang ist die Hypotenuse? Auch wenn
+
+175
+00:06:45,980 --> 00:06:47,160
+wir nur diese Skizze hier gegeben
+
+176
+00:06:47,160 --> 00:06:48,540
+bekommen, sehen wir, wir haben ein
+
+177
+00:06:48,540 --> 00:06:49,820
+Dreieck und wir haben einen rechten
+
+178
+00:06:49,820 --> 00:06:51,000
+Winkel. Das heißt, es ist
+
+179
+00:06:51,000 --> 00:06:52,620
+zwangsläufig ein rechtwinkeliges
+
+180
+00:06:52,620 --> 00:06:55,480
+Dreieck. Hier ist der rechte Winkel,
+
+181
+00:06:55,480 --> 00:06:56,660
+das heißt, das hier muss dann die
+
+182
+00:06:56,660 --> 00:06:58,180
+Hypotenuse sein. Und wenn wir mal
+
+183
+00:06:58,180 --> 00:06:59,520
+ganz kurz schauen, das ist auch die
+
+184
+00:06:59,520 --> 00:07:01,120
+längste Seite, das heißt, das passt
+
+185
+00:07:01,120 --> 00:07:05,380
+schon. Das und B und A sind dann in
+
+186
+00:07:05,380 --> 00:07:08,740
+dem Fall auch Katheten. Das heißt,
+
+187
+00:07:08,840 --> 00:07:12,600
+wir wissen, 4² plus 3² ist gleich die
+
+188
+00:07:12,600 --> 00:07:15,640
+Seite c². Weil wir natürlich nicht
+
+189
+00:07:15,640 --> 00:07:17,480
+wissen wollen, was c² ist, sondern
+
+190
+00:07:17,480 --> 00:07:19,460
+wir wollen wissen, was c ist, müssen
+
+191
+00:07:19,460 --> 00:07:22,060
+wir noch die Wurzel ziehen. Also 4²
+
+192
+00:07:22,060 --> 00:07:26,060
+ist 16 plus 3² ist 9. 16 plus 9 ist
+
+193
+00:07:26,060 --> 00:07:30,160
+25. Das heißt, wir wissen, 25 ist c².
+
+194
+00:07:30,860 --> 00:07:32,480
+Davon ziehen wir noch die Wurzel und
+
+195
+00:07:32,480 --> 00:07:33,840
+dann kommen wir auf eine Hypotenuse
+
+196
+00:07:33,840 --> 00:07:38,470
+in Länge von 5 cm. Und damit haben
+
+197
+00:07:38,470 --> 00:07:40,010
+wir dann auch schon die Länge der
+
+198
+00:07:40,010 --> 00:07:41,530
+Hypotenuse bestimmt und die Aufgabe
+
+199
+00:07:41,530 --> 00:07:45,910
+fachgerecht gelöst. Wie gesagt, wenn
+
+200
+00:07:45,910 --> 00:07:47,170
+ihr irgendwo zu Fragen habt, schreibt
+
+201
+00:07:47,170 --> 00:07:50,990
+das sehr gerne in den Chat rein. Ein
+
+202
+00:07:50,990 --> 00:07:52,870
+wenig komplizierter ist es, wenn wir
+
+203
+00:07:52,870 --> 00:07:54,750
+die Kathetenlänge berechnen wollen.
+
+204
+00:07:56,030 --> 00:07:57,790
+Wir haben ja gerade festgestellt, der
+
+205
+00:07:57,790 --> 00:07:59,430
+Satz des Pythagoras ist so, wie wir
+
+206
+00:07:59,430 --> 00:08:01,570
+ihn bekommen oder wie er auch in der
+
+207
+00:08:01,570 --> 00:08:04,070
+Formelsammlung steht, zur Hypotenuse
+
+208
+00:08:04,070 --> 00:08:06,990
+umgestellt. Das heißt, um eine
+
+209
+00:08:06,990 --> 00:08:09,190
+Kathete zu berechnen, also wir müssen
+
+210
+00:08:09,190 --> 00:08:10,530
+ja immer zwei Seiten kennen. Wenn
+
+211
+00:08:10,530 --> 00:08:12,070
+eine Kathete unbekannt ist, haben wir
+
+212
+00:08:12,070 --> 00:08:14,230
+zwangsläufig eine Hypotenuse und eine
+
+213
+00:08:14,230 --> 00:08:17,010
+Kathete. Das heißt dann, wir müssen
+
+214
+00:08:17,010 --> 00:08:18,710
+den Satz des Pythagoras zu einer
+
+215
+00:08:18,710 --> 00:08:22,070
+Kathete umstellen. Und wenn wir es
+
+216
+00:08:22,070 --> 00:08:24,850
+umgestellt haben, erhalten wir das
+
+217
+00:08:24,850 --> 00:08:27,370
+Quadrat der gesuchten Kathete. Also
+
+218
+00:08:27,370 --> 00:08:31,310
+Beispiel a² ist gleich c²-b². Auch
+
+219
+00:08:31,310 --> 00:08:32,090
+hier wollen wir natürlich nicht
+
+220
+00:08:32,090 --> 00:08:33,650
+wissen, was a² ist. wollen wir
+
+221
+00:08:33,650 --> 00:08:34,870
+wissen, was A ist. Das heißt, wir
+
+222
+00:08:34,870 --> 00:08:35,970
+müssen dann noch die Wurzel ziehen.
+
+223
+00:08:36,730 --> 00:08:38,270
+Wie das Theoretische dann hier
+
+224
+00:08:38,270 --> 00:08:40,650
+praktisch aussieht, sehen wir hier.
+
+225
+00:08:42,090 --> 00:08:43,510
+Wir sehen, wir haben hier auch wieder
+
+226
+00:08:43,510 --> 00:08:46,070
+ein rechtwinkliges Teig. Wir sehen,
+
+227
+00:08:46,170 --> 00:08:47,610
+wir haben hier die Seitenlänge A 6
+
+228
+00:08:47,610 --> 00:08:50,550
+cm, B ist unbekannt und C 10 cm.
+
+229
+00:08:51,490 --> 00:08:52,630
+Gucken wir uns das auch mal hier
+
+230
+00:08:52,630 --> 00:08:54,430
+wieder ausführlich an. Wir haben hier
+
+231
+00:08:54,430 --> 00:08:56,630
+einen rechten Winkel. Das heißt,
+
+232
+00:08:56,730 --> 00:08:59,290
+gegenüber hier die Seite müsste die
+
+233
+00:08:59,290 --> 00:09:01,170
+Hypotenuse sein. Schauen wir nochmal
+
+234
+00:09:01,170 --> 00:09:03,310
+ein bisschen genauer hin. Es ist die
+
+235
+00:09:03,310 --> 00:09:04,830
+längste Seite, das heißt, das wird
+
+236
+00:09:04,830 --> 00:09:07,250
+die Hypotenuse sein bzw. sie ist es.
+
+237
+00:09:08,770 --> 00:09:10,730
+Wir hatten also fest, wir kennen eine
+
+238
+00:09:10,730 --> 00:09:14,420
+Kathete und die Hypotenuse. Wenn wir
+
+239
+00:09:14,420 --> 00:09:15,340
+jetzt den Satz des Metallgauers
+
+240
+00:09:15,340 --> 00:09:16,280
+anwenden, haben wir aber leider
+
+241
+00:09:16,280 --> 00:09:18,040
+Kathete zum Quadrat plus Kathete zum
+
+242
+00:09:18,040 --> 00:09:19,500
+Quadrat ist die Hypotenuse zum
+
+243
+00:09:19,500 --> 00:09:21,480
+Quadrat. Deswegen müssen wir das
+
+244
+00:09:21,480 --> 00:09:23,860
+erstmal umstellen. a² plus b² ist
+
+245
+00:09:23,860 --> 00:09:27,600
+gleich c². Jetzt rechnen wir erst mal
+
+246
+00:09:27,600 --> 00:09:29,460
+minus a², damit wir die zweite
+
+247
+00:09:29,460 --> 00:09:32,760
+Kathete auskriegen. b². Dann wissen
+
+248
+00:09:32,760 --> 00:09:37,340
+wir, b² ist gleich c² minus a².
+
+249
+00:09:40,100 --> 00:09:41,420
+Natürlich wollen wir nicht wissen,
+
+250
+00:09:41,440 --> 00:09:43,240
+was b² ist, sondern wir wollen
+
+251
+00:09:43,240 --> 00:09:44,300
+wissen, was b ist. Das heißt, wir
+
+252
+00:09:44,300 --> 00:09:45,360
+müssen am Ende noch w die Wurzel
+
+253
+00:09:45,360 --> 00:09:49,180
+ziehen. Aber als erstes setzen wir
+
+254
+00:09:49,180 --> 00:09:51,780
+jetzt ein. Wir wissen, c ist 10, a
+
+255
+00:09:51,780 --> 00:09:54,040
+ist 6. Das heißt, wir wissen, b² ist
+
+256
+00:09:54,040 --> 00:09:55,640
+gleich 10 zum Quadrat. minus 6 zum
+
+257
+00:09:55,640 --> 00:09:59,060
+Quadrat. Was ganz wichtig ist, wenn
+
+258
+00:09:59,060 --> 00:10:01,740
+ihr sowas rechnet, bin ich gerade gar
+
+259
+00:10:01,740 --> 00:10:02,520
+nicht darauf eingegangen, fällt mir
+
+260
+00:10:02,520 --> 00:10:04,900
+gerade ein, ihr dürft niemals auf die
+
+261
+00:10:04,900 --> 00:10:07,620
+Idee kommen, 10 minus 6 zu rechnen
+
+262
+00:10:07,620 --> 00:10:09,600
+und das dazu quadrieren. Ihr müsst
+
+263
+00:10:09,600 --> 00:10:11,620
+wirklich 10 zum Quadrat ausrechnen
+
+264
+00:10:11,620 --> 00:10:12,960
+und dann minus 6 zum Quadrat
+
+265
+00:10:12,960 --> 00:10:14,440
+ausrechnen. Das heißt, 10 zum Quadrat
+
+266
+00:10:14,440 --> 00:10:17,540
+100 minus 36. So müsst ihr das
+
+267
+00:10:17,540 --> 00:10:19,560
+rechnen. Kommt ihr auf 64.
+
+268
+00:10:24,040 --> 00:10:25,680
+Dann ziehen wir davon noch die Wurzel
+
+269
+00:10:25,680 --> 00:10:27,840
+und dann wissen wir, die gesuchte
+
+270
+00:10:27,840 --> 00:10:30,840
+Seite B ist 8 cm lang. Gucken wir mal
+
+271
+00:10:30,840 --> 00:10:32,540
+ganz kurz, ob das sein kann. Diese
+
+272
+00:10:32,540 --> 00:10:34,620
+Seite ist 6 cm lang, diese Seite ist
+
+273
+00:10:34,620 --> 00:10:36,960
+10 cm lang. Das heißt, unsere
+
+274
+00:10:36,960 --> 00:10:38,860
+berechnete Kathetenlänge ist kürzer
+
+275
+00:10:38,860 --> 00:10:41,620
+als die Hypotenuse. Das passt dann.
+
+276
+00:10:42,740 --> 00:10:44,460
+Das heißt, wir können schlussendlich
+
+277
+00:10:44,460 --> 00:10:46,620
+sagen, die Kathete ist 8 cm lang.
+
+278
+00:10:47,860 --> 00:10:50,340
+Gibt es hierzu eine Frage? oder auch
+
+279
+00:10:50,340 --> 00:10:53,140
+zu den Hypotenusenlängen berechnet.
+
+280
+00:10:59,160 --> 00:11:00,700
+Wie gesagt, wenn es eine Frage gibt,
+
+281
+00:11:00,820 --> 00:11:02,560
+schreibt sie doch bitte in den Chat
+
+282
+00:11:02,560 --> 00:11:02,740
+rein.
+
+283
+00:11:05,920 --> 00:11:09,880
+Gut, kommen wir dann zu einer
+
+284
+00:11:09,880 --> 00:11:12,380
+weiteren Aufgabe zur Kathetenlänge
+
+285
+00:11:12,380 --> 00:11:14,240
+berechnen. Wenn ihr euch fragt, wo
+
+286
+00:11:14,240 --> 00:11:16,520
+der Unterschied ist, wollen wir ganz
+
+287
+00:11:16,520 --> 00:11:18,540
+kurz, bei der Aufgabe gerade war B
+
+288
+00:11:18,540 --> 00:11:21,240
+unbekannt, dafür A bekannt. Jetzt ist
+
+289
+00:11:21,240 --> 00:11:22,980
+B bekannt und dafür ist A unbekannt.
+
+290
+00:11:25,570 --> 00:11:27,150
+Das macht für euch genau gar keinen
+
+291
+00:11:27,150 --> 00:11:30,790
+Sinn. Wir fangen jetzt auch wieder
+
+292
+00:11:30,790 --> 00:11:32,530
+hier an. Hier ist der rechte Winkel,
+
+293
+00:11:32,570 --> 00:11:33,670
+wir haben ein Dreieck, das heißt, den
+
+294
+00:11:33,670 --> 00:11:34,730
+Satz des Pythagoras können wir
+
+295
+00:11:34,730 --> 00:11:37,370
+anwenden. Rechter Winkel ist hier,
+
+296
+00:11:37,470 --> 00:11:38,970
+heißt die Kathete wird die Hypotenuse
+
+297
+00:11:38,970 --> 00:11:40,250
+sein und das ist auch die längste
+
+298
+00:11:40,250 --> 00:11:41,450
+Seite, das heißt, es ist die
+
+299
+00:11:41,450 --> 00:11:42,130
+Hypotenuse.
+
+300
+00:11:44,710 --> 00:11:47,130
+Und wir kennen die Seite B, die ist 8
+
+301
+00:11:47,130 --> 00:11:50,250
+cm lang, aber die Seite A fehlt. Das
+
+302
+00:11:50,250 --> 00:11:51,450
+heißt, wir müssen den Satz des
+
+303
+00:11:51,450 --> 00:11:54,790
+Pythagoras nach A umstellen. Also,
+
+304
+00:11:54,870 --> 00:11:57,670
+wir fangen hier an mit a² plus b² ist
+
+305
+00:11:57,670 --> 00:11:59,650
+gleich c² Oder richtig gesprochen,
+
+306
+00:11:59,810 --> 00:12:01,430
+Kathete zum Quadrat plus Kathete zum
+
+307
+00:12:01,430 --> 00:12:03,210
+Quadrat ist gleich die Hypotenuse zum
+
+308
+00:12:03,210 --> 00:12:07,310
+Quadrat Da a unbekannt ist, müssen
+
+309
+00:12:07,310 --> 00:12:09,710
+wir gucken, dass a² alleine steht Das
+
+310
+00:12:11,440 --> 00:12:16,160
+heißt, wir rechnen minus b² Wir
+
+311
+00:12:16,160 --> 00:12:18,960
+erhalten dann a² ist gleich c² minus
+
+312
+00:12:18,960 --> 00:12:22,960
+b² Auch hier setzen wir dann jetzt
+
+313
+00:12:22,960 --> 00:12:24,840
+wieder auf unsere bekannten Längen c
+
+314
+00:12:24,840 --> 00:12:27,660
+und b ein, so kommen wir auf a² ist
+
+315
+00:12:27,660 --> 00:12:32,420
+gleich 10² minus 8². Wie auch gerade
+
+316
+00:12:32,420 --> 00:12:34,800
+müssen wir hier 10² und 8² erst
+
+317
+00:12:34,800 --> 00:12:36,320
+ausrechnen, bevor wir die Subtraktion
+
+318
+00:12:36,320 --> 00:12:39,260
+vollziehen können. 10² sind wie
+
+319
+00:12:39,260 --> 00:12:42,460
+gerade 100 und 8² sind 64. Das heißt
+
+320
+00:12:42,460 --> 00:12:44,820
+100 minus 64, das ist 36.
+
+321
+00:12:48,680 --> 00:12:49,960
+Die Unschwätzliche Erkenntnis
+
+322
+00:12:49,960 --> 00:12:53,820
+entspricht a², also 36. Auch in
+
+323
+00:12:53,820 --> 00:12:54,880
+diesem Beispiel wollen wir natürlich
+
+324
+00:12:54,880 --> 00:12:58,060
+wissen, was A ist. Deswegen ziehen
+
+325
+00:12:58,060 --> 00:13:01,380
+wir von der 36 noch die Wurzel. Das
+
+326
+00:13:01,380 --> 00:13:03,140
+ist ganz wichtig. Wir wissen jetzt,
+
+327
+00:13:03,160 --> 00:13:06,100
+A² ist 36 und deswegen müssen wir, um
+
+328
+00:13:06,100 --> 00:13:07,340
+auf A zu kommen, noch die Wurzel
+
+329
+00:13:07,340 --> 00:13:09,400
+ziehen. Wir kommen dann auf eine
+
+330
+00:13:09,400 --> 00:13:12,720
+Länge von 6 cm. Damit ist die Aufgabe
+
+331
+00:13:12,720 --> 00:13:13,600
+dann auch schon gelöst.
+
+332
+00:13:17,800 --> 00:13:19,360
+Ich denke, du hast dazu keine Frage.
+
+333
+00:13:19,960 --> 00:13:21,340
+Wenn du eine Frage hast, ich sage es
+
+334
+00:13:21,340 --> 00:13:23,220
+nochmal, schreib es sehr gerne in den
+
+335
+00:13:23,220 --> 00:13:26,620
+Chat. Kommen wir jetzt zu einer
+
+336
+00:13:26,620 --> 00:13:28,160
+Anwendungsaufgabe, die vielleicht
+
+337
+00:13:28,160 --> 00:13:30,640
+nicht ganz so einfach ist. Und zwar
+
+338
+00:13:30,640 --> 00:13:32,680
+geht es um eine Raumdiagonale.
+
+339
+00:13:34,860 --> 00:13:36,280
+Erstmal ganz gründlich, was ist eine
+
+340
+00:13:36,280 --> 00:13:38,240
+Raumdiagonale überhaupt? Wir sehen
+
+341
+00:13:38,240 --> 00:13:39,740
+hier einen schönen Quader. Eine
+
+342
+00:13:39,740 --> 00:13:42,160
+Raumdiagonale ist eine Diagonale, die
+
+343
+00:13:42,160 --> 00:13:43,240
+wirklich durch den Raum hindurch
+
+344
+00:13:43,240 --> 00:13:45,400
+geht. Also die fängt hier oben an der
+
+345
+00:13:45,400 --> 00:13:47,260
+Ecke an und geht diagonal durch nach
+
+346
+00:13:47,260 --> 00:13:49,140
+unten an die Ecke. Das heißt, es ist
+
+347
+00:13:49,140 --> 00:13:50,800
+sozusagen die größte Länge, die man
+
+348
+00:13:50,800 --> 00:13:55,400
+in dieses Quader reinkriegt. Wenn man
+
+349
+00:13:55,400 --> 00:13:57,020
+sich das Ganze mal im Sachverhalt
+
+350
+00:13:57,020 --> 00:13:58,500
+vorstellen möchte, angenommen du hast
+
+351
+00:13:58,500 --> 00:14:00,160
+einen Raum, der ist zehn Meter lang,
+
+352
+00:14:00,260 --> 00:14:01,420
+fünf Meter breit und sieben Meter
+
+353
+00:14:01,420 --> 00:14:03,420
+hoch, dann wäre das die längste
+
+354
+00:14:03,420 --> 00:14:04,540
+Holzlatte, die du da reinbringen
+
+355
+00:14:04,540 --> 00:14:07,740
+könntest, ohne die zu zerbrechen. Die
+
+356
+00:14:07,740 --> 00:14:11,120
+Frage ist, wie kommen wir jetzt
+
+357
+00:14:11,120 --> 00:14:14,780
+darauf? auf. Das ist gar nicht mal so
+
+358
+00:14:14,780 --> 00:14:21,310
+einfach. Ich denke, dir ist im
+
+359
+00:14:21,310 --> 00:14:23,070
+Anbetracht des Themas dieses Webinars
+
+360
+00:14:23,070 --> 00:14:24,530
+bekannt, dass wir das so mit dem Satz
+
+361
+00:14:24,530 --> 00:14:26,510
+des Metallurass lösen werden. Das
+
+362
+00:14:26,510 --> 00:14:27,850
+heißt, wir brauchen wohl irgendwie
+
+363
+00:14:27,850 --> 00:14:30,130
+rechtwinklige Dreiecke. Ja, deswegen
+
+364
+00:14:30,130 --> 00:14:31,050
+haben wir auch natürlich schon
+
+365
+00:14:31,050 --> 00:14:32,050
+vorgesagt, wir haben hier ein
+
+366
+00:14:32,050 --> 00:14:33,330
+rechtwinkliges Dreieck angezeichnet.
+
+367
+00:14:33,770 --> 00:14:35,610
+Also das hier geht schön hoch, das
+
+368
+00:14:35,610 --> 00:14:36,830
+ist unsere Raumdiagonale, dann dann
+
+369
+00:14:36,830 --> 00:14:38,350
+hier unten diagonal durch und dann
+
+370
+00:14:38,350 --> 00:14:39,890
+hier hoch. Und dazwischen steht ein
+
+371
+00:14:39,890 --> 00:14:43,430
+rechter Wind. So weit. So gut. Das
+
+372
+00:14:43,430 --> 00:14:44,630
+ist eigentlich auch schon die Lösung.
+
+373
+00:14:45,730 --> 00:14:47,390
+Also, wenn man das hier eingezeichnet
+
+374
+00:14:47,390 --> 00:14:48,770
+hat, geht es nur noch ans Ausrechnen,
+
+375
+00:14:48,770 --> 00:14:49,770
+beziehungsweise es fehlt nur noch ein
+
+376
+00:14:49,770 --> 00:14:53,050
+ganz kleiner Ansatz. Die Höhe hier
+
+377
+00:14:53,050 --> 00:14:57,090
+kennen wir ja. Das ist die 7. Die
+
+378
+00:14:57,090 --> 00:14:58,690
+Länge der Raumdiagonale kennen wir
+
+379
+00:14:58,690 --> 00:14:59,850
+natürlich nicht. Die sollen wir ja
+
+380
+00:14:59,850 --> 00:15:04,590
+berechnen. und die Flächendiagonalie
+
+381
+00:15:04,590 --> 00:15:07,090
+unten kennen wir leider auch nicht.
+
+382
+00:15:08,330 --> 00:15:10,070
+Das heißt, wir müssen erstmal ein
+
+383
+00:15:10,070 --> 00:15:12,550
+bisschen kleiner anfangen. Bevor wir
+
+384
+00:15:12,550 --> 00:15:13,890
+die Raumdiagonale berechnen können,
+
+385
+00:15:14,310 --> 00:15:15,830
+also bevor wir dieses Dreieck
+
+386
+00:15:15,830 --> 00:15:18,150
+betrachten, müssen wir ein bisschen
+
+387
+00:15:18,150 --> 00:15:19,410
+kleiner anfangen und das Kleine
+
+388
+00:15:19,410 --> 00:15:22,550
+betrachten. Das erste kleine Dreieck
+
+389
+00:15:22,550 --> 00:15:26,150
+dient nur dazu, um die
+
+390
+00:15:27,460 --> 00:15:30,760
+Flächendiagonalie auszuhalten. für
+
+391
+00:15:30,760 --> 00:15:32,780
+die Grundfläche. Mehr brauchen wir
+
+392
+00:15:32,780 --> 00:15:35,020
+nicht. Denn wir wissen, die Strecke
+
+393
+00:15:35,020 --> 00:15:37,480
+hier ist 5, die Seiten sind ja
+
+394
+00:15:37,480 --> 00:15:39,220
+parallel zueinander beim Quader und
+
+395
+00:15:39,220 --> 00:15:41,780
+die Strecke hier sind 10. Das hier
+
+396
+00:15:41,780 --> 00:15:45,240
+ist also unsere Hypotenuse. Das
+
+397
+00:15:45,240 --> 00:15:48,120
+heißt, wir rechnen erstmal die
+
+398
+00:15:48,120 --> 00:15:53,250
+Flächendiagonale D aus. Hier ist der
+
+399
+00:15:53,250 --> 00:15:56,050
+rechte Winkel. Das heißt, D ist
+
+400
+00:15:56,050 --> 00:15:57,210
+gegenüber vom rechten Winkel,
+
+401
+00:15:57,230 --> 00:15:58,370
+deswegen ist D auch gleich die
+
+402
+00:15:58,370 --> 00:16:00,430
+Hypotenuse. Ich denke, Man erkennt
+
+403
+00:16:00,430 --> 00:16:01,730
+auch an dieser Stelle wieder, d ist
+
+404
+00:16:01,730 --> 00:16:04,870
+die längste Seite im Dreieck. Also
+
+405
+00:16:04,870 --> 00:16:06,590
+ist das hier eine Kathete und das.
+
+406
+00:16:06,990 --> 00:16:09,670
+Wir wissen also, 10 zum Quadrat plus
+
+407
+00:16:09,670 --> 00:16:13,630
+15 zum Quadrat ist gleich d². Das
+
+408
+00:16:13,630 --> 00:16:14,730
+heißt, das rechnen wir auch in dem
+
+409
+00:16:14,730 --> 00:16:16,210
+Fall wieder aus. 10 zum Quadrat sind
+
+410
+00:16:16,210 --> 00:16:19,930
+100, plus 15 zum Quadrat sind 25. 100
+
+411
+00:16:19,930 --> 00:16:23,370
+plus 25 sind dann 125. Das entspricht
+
+412
+00:16:23,370 --> 00:16:27,070
+gleich d². Auch an dieser Stelle
+
+413
+00:16:27,070 --> 00:16:28,170
+wollen wir natürlich nicht wissen,
+
+414
+00:16:28,210 --> 00:16:29,810
+was d² ist, sondern was d ist.
+
+415
+00:16:30,390 --> 00:16:31,830
+Deswegen ziehen wir davon noch die
+
+416
+00:16:31,830 --> 00:16:34,830
+Wurzel. Wenn wir die Wurzel gezogen
+
+417
+00:16:34,830 --> 00:16:35,970
+haben, kommen wir für die
+
+418
+00:16:35,970 --> 00:16:38,990
+Flächendiagonale D auf einen Wert von
+
+419
+00:16:38,990 --> 00:16:42,710
+11,18 cm. Oder in dem Fall
+
+420
+00:16:42,710 --> 00:16:43,990
+Längeinheiten, es gibt ja keine
+
+421
+00:16:43,990 --> 00:16:48,450
+Einheiten dabei. So weit, so gut. Mit
+
+422
+00:16:48,450 --> 00:16:51,530
+diesem Wissen, dass das hier 11,18 cm
+
+423
+00:16:51,530 --> 00:16:55,510
+sind, können wir das große, in diesem
+
+424
+00:16:55,510 --> 00:16:57,190
+Fall blau gekennzeichnete Dreieck
+
+425
+00:16:57,190 --> 00:17:00,670
+aufspannen. Ja? Denn wir kannten ja
+
+426
+00:17:00,670 --> 00:17:02,150
+gerade die Flächendiagonale nicht,
+
+427
+00:17:02,230 --> 00:17:03,590
+die wir jetzt D genannt haben. Die
+
+428
+00:17:03,590 --> 00:17:04,670
+haben wir ja gerade berechnet. Das
+
+429
+00:17:04,670 --> 00:17:08,050
+heißt, wir wissen, das sind 11,18 und
+
+430
+00:17:08,050 --> 00:17:11,090
+das sind 7. Also 7 zum Quadrat plus
+
+431
+00:17:11,090 --> 00:17:13,350
+11,18 zum Quadrat ist gleich unsere
+
+432
+00:17:13,350 --> 00:17:16,530
+Raumdiagonale E zum Quadrat. Hast du
+
+433
+00:17:16,530 --> 00:17:19,050
+das bis hierhin verstanden? Sonst
+
+434
+00:17:19,050 --> 00:17:20,230
+gehe ich da nochmal näher drauf ein.
+
+435
+00:17:20,390 --> 00:17:22,510
+Denn das ist recht wichtig, dass du
+
+436
+00:17:22,510 --> 00:17:23,730
+überhaupt verstanden hast, warum wir
+
+437
+00:17:23,730 --> 00:17:25,010
+jetzt dieses D berechnen mussten.
+
+438
+00:17:25,010 --> 00:17:25,950
+Gut,
+
+439
+00:17:29,180 --> 00:17:31,620
+das heißt wir haben dann diesen
+
+440
+00:17:31,620 --> 00:17:33,180
+schönen Ansatz und ich denke der Rest
+
+441
+00:17:33,180 --> 00:17:35,260
+ist schon nahezu selbst erklärt. Auch
+
+442
+00:17:35,260 --> 00:17:37,740
+hier wieder, bevor wir E² ausrechnen
+
+443
+00:17:37,740 --> 00:17:40,560
+müssen, 11,18² sind dann die 125
+
+444
+00:17:40,560 --> 00:17:44,620
+wieder, 17² sind die 49, das müssen
+
+445
+00:17:44,620 --> 00:17:46,400
+wir einmal aufaddieren. Dann kommen
+
+446
+00:17:46,400 --> 00:17:51,020
+wir auf 174 ist gleich E². Das ist
+
+447
+00:17:51,020 --> 00:17:56,880
+dann auch die
+
+448
+00:17:56,880 --> 00:17:58,820
+Länge unserer Raumdiagonale. Das
+
+449
+00:17:58,820 --> 00:18:00,080
+heißt, wir können dann schlussendlich
+
+450
+00:18:00,080 --> 00:18:02,760
+sagen, die Raumdiagonale ist ca. 13
+
+451
+00:18:02,760 --> 00:18:06,900
+,19 cm lang. Damit wäre dann auch
+
+452
+00:18:06,900 --> 00:18:09,160
+diese doch etwas schwierigere Aufgabe
+
+453
+00:18:09,160 --> 00:18:09,760
+gelöst.
+
+454
+00:18:12,580 --> 00:18:14,340
+Wie gesagt, ich glaube, du hast keine
+
+455
+00:18:14,340 --> 00:18:15,480
+Frage. Wenn du eine hast, darfst du
+
+456
+00:18:15,480 --> 00:18:17,420
+sie natürlich sehr gerne stellen. Ich
+
+457
+00:18:19,090 --> 00:18:20,710
+habe am Anfang des Webinars ja schon
+
+458
+00:18:20,710 --> 00:18:22,170
+gesagt, dass wir uns auch kurz mit
+
+459
+00:18:22,170 --> 00:18:24,210
+den Katheten und Höhensatz des Euklid
+
+460
+00:18:24,210 --> 00:18:27,630
+beschäftigen. Das ist der Katheten-
+
+461
+00:18:27,630 --> 00:18:31,750
+und Höhensatz des Euklid. Was ist der
+
+462
+00:18:31,750 --> 00:18:32,910
+Sinn dahinter? Der Sinn ist recht
+
+463
+00:18:32,910 --> 00:18:36,350
+einfach. Wir haben ja gelernt, wir
+
+464
+00:18:36,350 --> 00:18:38,110
+können den Satz des Pythagoras leider
+
+465
+00:18:38,110 --> 00:18:41,290
+nur in einem rechtwinkligen Dreieck
+
+466
+00:18:41,290 --> 00:18:43,990
+benutzen. Es ist das leider so, dass
+
+467
+00:18:43,990 --> 00:18:45,750
+nur sehr wenige Dreiecke
+
+468
+00:18:45,750 --> 00:18:48,030
+rechtwinklige Dreiecke sind. Das
+
+469
+00:18:48,030 --> 00:18:49,410
+heißt, wir sind sehr begrenzt mit der
+
+470
+00:18:49,410 --> 00:18:51,670
+Anwendung. Um jetzt auch in nicht
+
+471
+00:18:51,670 --> 00:18:52,770
+-rechtwinkligen Dreiecken
+
+472
+00:18:52,770 --> 00:18:55,770
+irgendwelche Längen berechnen zu
+
+473
+00:18:55,770 --> 00:18:58,410
+können, braucht man den KT und den
+
+474
+00:18:58,410 --> 00:19:00,590
+Höhensatz des Volkid. Denn dieser
+
+475
+00:19:00,590 --> 00:19:02,150
+kann in ein beliebiges Dreieck
+
+476
+00:19:02,150 --> 00:19:05,190
+eingezeichnet werden. Denn wie du
+
+477
+00:19:05,190 --> 00:19:09,170
+vielleicht weißt, kann man, wenn du
+
+478
+00:19:09,170 --> 00:19:10,610
+ein beliebiges Dreieck hast und dann
+
+479
+00:19:10,610 --> 00:19:12,210
+so eine Höhe hc einzeichnest,
+
+480
+00:19:13,190 --> 00:19:14,230
+unterteilst du dieses Dreieck
+
+481
+00:19:14,230 --> 00:19:15,710
+automatisch in zwei rechtwinklige
+
+482
+00:19:15,710 --> 00:19:17,470
+Dreiecke. Denn du hast dann hier
+
+483
+00:19:17,470 --> 00:19:19,190
+einen rechten Winkel, ja, in der Höhe
+
+484
+00:19:19,190 --> 00:19:20,410
+steht ja immer senkrecht auf der
+
+485
+00:19:20,410 --> 00:19:22,430
+Grundseite hier. Das heißt, wenn du
+
+486
+00:19:22,430 --> 00:19:23,510
+hier einen rechten Winkel hast, hast
+
+487
+00:19:23,510 --> 00:19:25,170
+du automatisch auch hier einen. Dann
+
+488
+00:19:25,170 --> 00:19:26,290
+hast du so einen rechtwinkligen
+
+489
+00:19:26,290 --> 00:19:28,030
+Streik hier, wo hier der rechte
+
+490
+00:19:28,030 --> 00:19:29,830
+Winkel ist, und hier links daneben
+
+491
+00:19:29,830 --> 00:19:31,510
+ein großes rechtwinkliges Dreieck, wo
+
+492
+00:19:31,510 --> 00:19:33,110
+auch wieder hier der rechte Winkel
+
+493
+00:19:33,110 --> 00:19:37,690
+ist. Das heißt, du hast automatisch
+
+494
+00:19:37,690 --> 00:19:40,810
+aus deinem Dreieck, welches keinen
+
+495
+00:19:40,810 --> 00:19:43,170
+rechten Winkel hatte, zwei Dreiecke
+
+496
+00:19:43,170 --> 00:19:46,130
+gemacht mit zwei rechten Winkeln. Das
+
+497
+00:19:46,130 --> 00:19:47,950
+heißt, in diesem Dreieck hier hat der
+
+498
+00:19:47,950 --> 00:19:50,050
+Satz Pythagoras wieder seine
+
+499
+00:19:50,050 --> 00:19:51,490
+Bedeutung. Das heißt, den kannst du
+
+500
+00:19:51,490 --> 00:19:52,910
+anwenden. Das ist eine ganz tolle
+
+501
+00:19:52,910 --> 00:19:55,710
+Sache. Heißt, wenn du H und HC kennst
+
+502
+00:19:55,710 --> 00:19:57,070
+und A, kannst du P berechnen. Oder
+
+503
+00:19:57,070 --> 00:19:58,470
+wenn du P und A kennst, kannst du HC
+
+504
+00:19:58,470 --> 00:20:01,110
+inrechnen. Darum geht es. Das einzige
+
+505
+00:20:01,110 --> 00:20:03,270
+Problem ist, wenn du ein Dreieck
+
+506
+00:20:03,270 --> 00:20:05,310
+bekommst, dann werden vielleicht so
+
+507
+00:20:05,310 --> 00:20:06,670
+die Seiten bemaßt, aber mehr auch
+
+508
+00:20:06,670 --> 00:20:10,580
+nicht. Ich denke, du weißt, wenn das
+
+509
+00:20:10,580 --> 00:20:11,740
+hier die Seite A ist und das hier die
+
+510
+00:20:11,740 --> 00:20:13,060
+Seite B, ist das hier unten die Seite
+
+511
+00:20:13,060 --> 00:20:16,020
+C gewesen. Die Seite C wird dann in P
+
+512
+00:20:16,020 --> 00:20:18,240
+und Q unterteilt, also zerteilt, um
+
+513
+00:20:18,240 --> 00:20:22,320
+genau zu sein. Und jetzt gibt es hier
+
+514
+00:20:22,320 --> 00:20:23,840
+drei Formeln. Diese drei Formeln
+
+515
+00:20:23,840 --> 00:20:25,140
+müssen in der Formelsammlung stehen.
+
+516
+00:20:25,220 --> 00:20:26,960
+Das sind nämlich die Formeln von
+
+517
+00:20:26,960 --> 00:20:28,460
+diesen Katheten und dem Höhensatz des
+
+518
+00:20:28,460 --> 00:20:33,420
+Rückglieds. Zwar a², also die Seite
+
+519
+00:20:33,420 --> 00:20:36,100
+hier zum Quadrat, ist das gleiche wie
+
+520
+00:20:36,100 --> 00:20:42,080
+p mal c. Denkt dran bitte, c war die
+
+521
+00:20:42,080 --> 00:20:45,440
+ganze Seite hier. Also a², die Seite
+
+522
+00:20:45,440 --> 00:20:47,220
+zum Quadrat, ist das gleiche wie p,
+
+523
+00:20:47,480 --> 00:20:50,700
+das Stückchen hier, mal c, das Ganze.
+
+524
+00:20:50,840 --> 00:20:56,240
+C ist ja gleich P plus Q. B², also
+
+525
+00:20:56,240 --> 00:20:57,700
+die Seite zum Quadrat, ist dann halt
+
+526
+00:20:57,700 --> 00:21:00,840
+das gleiche wie Q mal C, also die
+
+527
+00:21:00,840 --> 00:21:04,780
+ganze Seite. HC zum Quadrat ist
+
+528
+00:21:04,780 --> 00:21:08,340
+gleich P mal Q. Also die Seite zum
+
+529
+00:21:08,340 --> 00:21:10,980
+Quadrat ist gleich das mal das
+
+530
+00:21:10,980 --> 00:21:13,700
+Stückchen. Und damit hast du diese
+
+531
+00:21:13,700 --> 00:21:15,600
+ganzen Formeln schon, ja, muss ich
+
+532
+00:21:15,600 --> 00:21:21,260
+sagen, erklärt. Du brauchst diese
+
+533
+00:21:21,260 --> 00:21:23,140
+dann halt, um auch auch in nicht
+
+534
+00:21:23,140 --> 00:21:24,360
+rechtwinkligen Dreieckenlängen
+
+535
+00:21:24,360 --> 00:21:27,320
+ausrechnen zu können, ist an und für
+
+536
+00:21:27,320 --> 00:21:30,600
+sich eine sehr schöne Sache. Wenn du
+
+537
+00:21:30,600 --> 00:21:31,860
+es ein, zwei Mal geübt hast, denke
+
+538
+00:21:31,860 --> 00:21:33,380
+ich, läuft es auch schon recht locker
+
+539
+00:21:33,380 --> 00:21:36,460
+von der Hand. Hast du jetzt noch eine
+
+540
+00:21:36,460 --> 00:21:36,800
+Frage?
+
+541
+00:21:50,940 --> 00:21:54,040
+Okay, wenn du keine Fragen hast, wir
+
+542
+00:21:54,040 --> 00:21:56,480
+wären jetzt am Ende des Webinars. Wie
+
+543
+00:21:56,480 --> 00:21:57,920
+schon zu Anfang vermutet, haben wir
+
+544
+00:21:57,920 --> 00:22:01,000
+noch reichlich Zeit, um Fragen zu
+
+545
+00:22:01,000 --> 00:22:03,560
+beantworten. wie gesagt, wenn du
+
+546
+00:22:03,560 --> 00:22:05,740
+keine Fragen mehr hast bedanke ich
+
+547
+00:22:05,740 --> 00:22:06,620
+mich erstmal wieder für deine
+
+548
+00:22:06,620 --> 00:22:08,340
+Aufmerksamkeit ich hoffe, du hattest
+
+549
+00:22:08,340 --> 00:22:09,140
+Spaß am Webinar
+
+550
+00:22:11,840 --> 00:22:13,320
+ich bleibe wie gerade auch noch ein
+
+551
+00:22:13,320 --> 00:22:14,400
+bisschen im Raum drin, falls du
+
+552
+00:22:14,400 --> 00:22:16,340
+Fragen hast wenn nicht, wie gesagt,
+
+553
+00:22:16,580 --> 00:22:17,620
+wünsche ich dir noch einen schönen
+
+554
+00:22:18,360 --> 00:22:19,740
+Mittwochabend, ein weiteres Mal einen
+
+555
+00:22:19,740 --> 00:22:22,720
+schönen Mittwochabend und du kannst
+
+556
+00:22:22,720 --> 00:22:24,280
+den Raum dann auch verlassen Ciao
+

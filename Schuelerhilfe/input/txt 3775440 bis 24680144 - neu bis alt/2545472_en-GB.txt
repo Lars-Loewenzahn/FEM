@@ -1,0 +1,3617 @@
+﻿1
+00:00:00,000 --> 00:00:01,620
+Welcome to the webinar 
+
+2
+00:00:01,620 --> 00:00:03,700
+Curve Discussion of a Fractional 
+
+3
+00:00:03,700 --> 00:00:06,160
+Rational Function. In 
+
+4
+00:00:06,160 --> 00:00:07,360
+this webinar we will 
+
+5
+00:00:07,360 --> 00:00:10,620
+
+6
+00:00:10,620 --> 00:00:12,080
+perform a curve discussion of a fractional 
+rational function. 
+
+7
+00:00:12,580 --> 00:00:14,680
+Many of the criteria and necessary 
+
+8
+00:00:14,680 --> 00:00:16,660
+conditions are similar to those 
+
+9
+00:00:16,720 --> 00:00:18,040
+we 
+
+10
+00:00:18,040 --> 00:00:20,080
+know from completely rational functions. 
+
+11
+00:00:20,080 --> 00:00:21,620
+We will also see a brief overview 
+
+12
+00:00:21,620 --> 00:00:23,980
+of the things we 
+
+13
+00:00:23,980 --> 00:00:25,440
+will calculate and look at today. 
+
+14
+00:00:26,020 --> 00:00:27,420
+First of all, we will take a look at our 
+
+15
+00:00:27,420 --> 00:00:30,220
+function, which is 
+
+16
+00:00:30,220 --> 00:00:31,760
+always the same except for one point in 
+the webinar 
+
+17
+00:00:31,760 --> 00:00:33,280
+, so we will 
+
+18
+00:00:33,380 --> 00:00:35,520
+
+19
+00:00:35,520 --> 00:00:37,780
+carry out the curve discussion using the 
+function that we are about to present. 
+
+20
+00:00:37,780 --> 00:00:39,200
+The first thing you should 
+
+21
+00:00:39,200 --> 00:00:40,500
+always do with a fractional rational 
+function 
+
+22
+00:00:40,500 --> 00:00:41,780
+is to 
+
+23
+00:00:41,780 --> 00:00:43,300
+determine the domain. This should always 
+be the first thing 
+
+24
+00:00:43,300 --> 00:00:45,200
+you do and then you can 
+
+25
+00:00:45,200 --> 00:00:46,480
+
+26
+00:00:46,480 --> 00:00:48,000
+start with the actual curve discussion and 
+
+27
+00:00:48,000 --> 00:00:49,760
+
+28
+00:00:49,780 --> 00:00:50,980
+swap the elements listed here as you wish. 
+
+29
+00:00:50,980 --> 00:00:52,860
+We then continue with the 
+
+30
+00:00:52,860 --> 00:00:53,820
+zeros and the 
+
+31
+00:00:53,820 --> 00:00:55,080
+ Y-intercept. This means 
+
+32
+00:00:55,080 --> 00:00:57,240
+that both together are 
+
+33
+00:00:57,240 --> 00:00:59,420
+the two points of intersection with the 
+
+34
+00:00:59,420 --> 00:01:02,900
+coordinate axes. 
+
+35
+00:01:02,900 --> 00:01:04,540
+We will then calculate the pole points and 
+
+36
+00:01:04,540 --> 00:01:06,900
+go into more detail about what pole points 
+are 
+
+37
+00:01:06,900 --> 00:01:08,280
+and what the difference is between 
+
+38
+00:01:08,280 --> 00:01:09,860
+a definition gap and a 
+
+39
+00:01:09,860 --> 00:01:12,520
+pole point. Then we will look at the 
+
+40
+00:01:12,520 --> 00:01:13,800
+global behavior, the 
+
+41
+00:01:13,800 --> 00:01:15,820
+symmetry behavior and of course the 
+
+42
+00:01:15,820 --> 00:01:19,240
+classics, extreme values, emergency 
+values, 
+
+43
+00:01:19,320 --> 00:01:20,320
+sufficient conditions. for the 
+
+44
+00:01:20,320 --> 00:01:24,000
+extreme points, i.e. what kind of 
+
+45
+00:01:24,000 --> 00:01:25,880
+extreme points are there, then 
+
+46
+00:01:25,880 --> 00:01:27,680
+we will look at the monotonic 
+
+47
+00:01:27,680 --> 00:01:29,080
+behavior and finally at 
+
+48
+00:01:29,080 --> 00:01:31,280
+inflection points and curvatures and there 
+
+49
+00:01:31,280 --> 00:01:33,380
+is a special feature to note 
+
+50
+00:01:33,380 --> 00:01:35,720
+that I will say now and 
+
+51
+00:01:35,720 --> 00:01:37,020
+finally we will look at the whole of 
+
+52
+00:01:37,020 --> 00:01:38,600
+this fractional rational function 
+
+53
+00:01:38,600 --> 00:01:40,540
+once as a graph and then 
+
+54
+00:01:40,540 --> 00:01:43,520
+I think everything that 
+
+55
+00:01:43,520 --> 00:01:45,620
+you have calculated before becomes 
+understandable how 
+
+56
+00:01:45,620 --> 00:01:49,180
+to interpret it graphically well First 
+
+57
+00:01:49,180 --> 00:01:50,140
+we see here our 
+
+58
+00:01:50,140 --> 00:01:52,340
+function equation f of x equal to x² 
+
+59
+00:01:52,340 --> 00:01:54,500
+minus 4 by x² minus 1. 
+
+60
+00:01:54,500 --> 00:01:56,160
+So this is really a fractional rational 
+
+61
+00:01:56,160 --> 00:01:58,280
+function. A fractional rational 
+
+62
+00:01:58,280 --> 00:01:59,580
+function 
+
+63
+00:01:59,580 --> 00:02:03,100
+is characterized by the fact that it also 
+
+64
+00:02:03,100 --> 00:02:04,740
+contains our variable in the denominator 
+and this is 
+
+65
+00:02:04,740 --> 00:02:04,980
+not the 
+
+66
+00:02:09,520 --> 00:02:11,900
+fractional rational function. 
+
+67
+00:02:11,900 --> 00:02:13,260
+As already 
+
+68
+00:02:13,260 --> 00:02:14,540
+mentioned , we will use this as the basis 
+for the curve discussion in a moment 
+
+69
+00:02:14,540 --> 00:02:17,280
+. However, we will focus more on 
+
+70
+00:02:17,280 --> 00:02:19,100
+the conditions and the 
+
+71
+00:02:19,100 --> 00:02:22,000
+calculation methods. We will not 
+
+72
+00:02:22,000 --> 00:02:23,560
+necessarily go into solving 
+
+73
+00:02:23,560 --> 00:02:25,700
+equations in depth. 
+
+74
+00:02:25,700 --> 00:02:28,420
+We will only touch on this and 
+
+75
+00:02:28,420 --> 00:02:30,500
+generally mention the important 
+
+76
+00:02:30,500 --> 00:02:32,300
+things, which 
+
+77
+00:02:32,300 --> 00:02:33,400
+may be 
+
+78
+00:02:33,400 --> 00:02:34,960
+different for a fractional rational 
+function than 
+
+79
+00:02:34,960 --> 00:02:36,400
+for a completely rational function. 
+
+80
+00:02:38,480 --> 00:02:40,760
+Well, let's start right away 
+
+81
+00:02:40,760 --> 00:02:42,340
+with the domain of definition. 
+
+82
+00:02:42,340 --> 00:02:43,800
+The domain of a 
+
+83
+00:02:43,800 --> 00:02:46,960
+fractional rational function is 
+
+84
+00:02:46,960 --> 00:02:47,980
+always 
+
+85
+00:02:47,980 --> 00:02:49,720
+restricted by the fact that the 
+denominator 
+
+86
+00:02:49,720 --> 00:02:53,160
+must not contain a zero. After all, we 
+know that 
+
+87
+00:02:53,200 --> 00:02:54,540
+we are not allowed to 
+
+88
+00:02:54,540 --> 00:02:56,180
+divide by zero in mathematics . A fraction 
+
+89
+00:02:56,180 --> 00:02:57,760
+is actually nothing more than a division 
+
+90
+00:02:57,960 --> 00:03:01,960
+. We are dividing by x²-1 
+
+91
+00:03:02,120 --> 00:03:05,100
+, so the denominator polynomial, as it 
+
+92
+00:03:05,100 --> 00:03:07,080
+is also called, or the denominator 
+
+93
+00:03:07,080 --> 00:03:11,460
+term must never be zero. This means that 
+
+94
+00:03:11,600 --> 00:03:14,060
+we first calculate our 
+
+95
+00:03:14,060 --> 00:03:16,500
+x, which would result in 
+
+96
+00:03:16,500 --> 00:03:18,540
+a 0 in the denominator. 
+
+97
+00:03:18,540 --> 00:03:20,180
+We therefore set the denominator 
+
+98
+00:03:20,180 --> 00:03:22,200
+equal to 0 and solve this equation. We 
+
+99
+00:03:22,200 --> 00:03:24,480
+see that the equation is then x²-1 
+
+100
+00:03:24,480 --> 00:03:26,720
+is equal to 0. It is therefore a purely 
+
+101
+00:03:26,720 --> 00:03:28,080
+quadratic equation, for which we 
+
+102
+00:03:28,080 --> 00:03:29,640
+do not 
+
+103
+00:03:29,640 --> 00:03:31,700
+need a higher solution method , not even a 
+pq formula. We 
+
+104
+00:03:31,700 --> 00:03:33,160
+simply rearrange it so that the x 
+
+105
+00:03:33,160 --> 00:03:34,500
+stands alone and then take the 
+
+106
+00:03:34,500 --> 00:03:36,260
+root. So we calculate plus 1, then 
+
+107
+00:03:36,260 --> 00:03:37,620
+we have x² is equal to 1. 
+
+108
+00:03:38,480 --> 00:03:39,640
+Then we take the 
+
+109
+00:03:39,640 --> 00:03:42,260
+root and arrive at x is equal to 
+
+110
+00:03:42,260 --> 00:03:45,720
+plus minus 1. So we know that the 
+
+111
+00:03:45,720 --> 00:03:47,640
+domain excludes the x 
+
+112
+00:03:47,640 --> 00:03:50,100
+ values 1 and minus 1. Yes, this is 
+
+113
+00:03:50,100 --> 00:03:51,620
+noted here. 
+
+114
+00:03:51,620 --> 00:03:54,280
+The domain includes all 
+
+115
+00:03:54,280 --> 00:03:56,700
+real numbers. This change 
+
+116
+00:03:56,700 --> 00:04:00,880
+is called except 1 and minus 1, and that 
+
+117
+00:04:00,880 --> 00:04:03,320
+is our domain of definition. 
+
+118
+00:04:03,880 --> 00:04:05,520
+We must 
+
+119
+00:04:05,520 --> 00:04:08,600
+always keep this in mind in the following 
+, because you 
+
+120
+00:04:08,600 --> 00:04:12,180
+can often get solutions that 
+
+121
+00:04:12,180 --> 00:04:13,680
+
+122
+00:04:13,680 --> 00:04:16,140
+are then excluded by the domain. 
+
+123
+00:04:16,140 --> 00:04:17,080
+Of course, this must also be 
+
+124
+00:04:17,080 --> 00:04:17,460
+mentioned at the point of origin. 
+
+125
+00:04:20,260 --> 00:04:22,400
+We can now see a somewhat 
+
+126
+00:04:22,400 --> 00:04:25,400
+bare foil here. This is the slide on which 
+
+127
+00:04:25,400 --> 00:04:26,120
+we 
+
+128
+00:04:26,120 --> 00:04:27,340
+will always collect our intermediate 
+results. 
+
+129
+00:04:27,560 --> 00:04:29,120
+This will of course fill up as 
+
+130
+00:04:29,120 --> 00:04:32,820
+the webinar progresses . At the moment, 
+
+131
+00:04:32,820 --> 00:04:34,060
+we only know the domain of definition, 
+which 
+
+132
+00:04:34,200 --> 00:04:35,900
+includes all real numbers except 
+
+133
+00:04:35,900 --> 00:04:39,240
+1 and minus 1. Next, 
+
+134
+00:04:39,240 --> 00:04:40,080
+we will 
+
+135
+00:04:40,080 --> 00:04:43,840
+continue with the zeros . The necessary 
+condition for 
+
+136
+00:04:43,840 --> 00:04:45,080
+a zero is 
+
+137
+00:04:45,080 --> 00:04:46,280
+exactly the same for fractional rational 
+functions 
+
+138
+00:04:46,280 --> 00:04:48,540
+. So this function value 
+
+139
+00:04:48,540 --> 00:04:50,100
+should be 0, or we 
+
+140
+00:04:50,100 --> 00:04:51,960
+set f of x equal to 0. 
+
+141
+00:04:55,320 --> 00:04:58,560
+The beauty of this is that with a 
+
+142
+00:04:58,560 --> 00:05:00,000
+fractional rational function or 
+
+143
+00:05:00,000 --> 00:05:02,360
+a fraction in general, a fraction 
+
+144
+00:05:02,360 --> 00:05:03,980
+always takes on the value 0 if 
+
+145
+00:05:03,980 --> 00:05:06,940
+the numerator is 0. This means that when 
+we 
+
+146
+00:05:06,940 --> 00:05:09,780
+equate f of x with 0, 
+
+147
+00:05:09,780 --> 00:05:11,580
+we simply look to see when the 
+
+148
+00:05:11,580 --> 00:05:14,560
+numerator polynomial, i.e. the term in the 
+
+149
+00:05:14,560 --> 00:05:16,640
+numerator, has a zero. 
+
+150
+00:05:16,780 --> 00:05:18,360
+So we just set the 
+
+151
+00:05:18,360 --> 00:05:20,360
+numerator equal to 0 and then 
+
+152
+00:05:20,360 --> 00:05:21,520
+the equation looks much simpler 
+
+153
+00:05:21,520 --> 00:05:25,100
+. So x²-4 is equal to 0 and this 
+
+154
+00:05:25,100 --> 00:05:25,960
+is again a purely 
+
+155
+00:05:25,960 --> 00:05:27,480
+quadratic equation. This means 
+
+156
+00:05:27,500 --> 00:05:29,820
+that we now calculate plus 4, where x² 
+
+157
+00:05:29,820 --> 00:05:31,500
+is equal to 4 and now take 
+
+158
+00:05:31,500 --> 00:05:34,340
+the square root again and arrive at plus 
+
+159
+00:05:34,340 --> 00:05:36,640
+minus 2. This means that our 
+
+160
+00:05:36,640 --> 00:05:38,680
+function equation has 
+
+161
+00:05:38,680 --> 00:05:41,360
+a 
+
+162
+00:05:41,360 --> 00:05:43,640
+zero at the plus and minus 2 points. 
+
+163
+00:05:43,640 --> 00:05:44,960
+Of course, we now have to make sure that 
+these 
+
+164
+00:05:44,960 --> 00:05:46,320
+zeros are not accidentally 
+
+165
+00:05:46,320 --> 00:05:47,360
+
+166
+00:05:47,360 --> 00:05:51,040
+excluded by a domain. In this case they 
+are 
+
+167
+00:05:51,040 --> 00:05:52,360
+not, they are both 
+
+168
+00:05:52,360 --> 00:05:53,980
+elements of our definition set. 
+
+169
+00:05:54,560 --> 00:05:57,180
+This means that only... And so 
+
+170
+00:05:57,180 --> 00:05:59,460
+they are actually zeros. 
+
+171
+00:06:02,150 --> 00:06:03,610
+Of course, it is not always so 
+
+172
+00:06:03,610 --> 00:06:06,290
+easy to solve these equations. 
+
+173
+00:06:06,370 --> 00:06:08,270
+Of course, there can also be quadratic 
+
+174
+00:06:08,270 --> 00:06:10,190
+equations in the numerator or 
+
+175
+00:06:10,190 --> 00:06:12,270
+cubic or similar. Then 
+
+176
+00:06:12,270 --> 00:06:13,970
+, of course, you need solvents such as 
+
+177
+00:06:13,970 --> 00:06:14,950
+polynomial divisions, 
+
+178
+00:06:14,950 --> 00:06:16,510
+the midnight formula or the PQ formula. 
+
+179
+00:06:16,810 --> 00:06:17,990
+This is of course not 
+
+180
+00:06:17,990 --> 00:06:19,330
+impossible, it doesn't always have to 
+
+181
+00:06:19,330 --> 00:06:21,130
+be purely quadratic. 
+
+182
+00:06:23,970 --> 00:06:25,730
+Well, we can see that we have 
+
+183
+00:06:25,730 --> 00:06:26,610
+already 
+
+184
+00:06:26,610 --> 00:06:28,890
+added our two zeros here. Well, the 
+
+185
+00:06:28,890 --> 00:06:30,230
+zero had the 
+
+186
+00:06:30,230 --> 00:06:31,910
+ y-coordinate 0, so it was 
+
+187
+00:06:31,910 --> 00:06:33,790
+no longer calculated separately. 
+
+188
+00:06:33,790 --> 00:06:36,710
+So we have the points 2,0 and minus 2 
+
+189
+00:06:36,710 --> 00:06:37,950
+,0 as zeros. 
+
+190
+00:06:41,470 --> 00:06:43,150
+Now we come to the intersection 
+
+191
+00:06:43,150 --> 00:06:46,510
+with the y-axis. In contrast to the 
+
+192
+00:06:46,510 --> 00:06:47,970
+ x-axis 
+
+193
+00:06:47,970 --> 00:06:49,290
+, there is only one point of intersection 
+with the y-axis . 
+
+194
+00:06:49,290 --> 00:06:51,450
+and this intersection point 
+
+195
+00:06:51,450 --> 00:06:53,790
+is simply calculated 
+
+196
+00:06:53,790 --> 00:06:56,490
+by inserting the value 0 for the x we 
+calculate f from 
+
+197
+00:06:56,490 --> 00:06:59,810
+0 yes and that is then 0 to the power of 
+
+198
+00:06:59,810 --> 00:07:02,070
+2 minus 4 by 0 to the power of 2 minus 1 
+so 
+
+199
+00:07:02,070 --> 00:07:03,710
+this time we really need counters 
+
+200
+00:07:03,710 --> 00:07:06,050
+and denominators we can also 
+
+201
+00:07:06,050 --> 00:07:07,570
+enter this in the calculator because 
+
+202
+00:07:07,570 --> 00:07:08,750
+the 0 is 
+
+203
+00:07:08,750 --> 00:07:10,230
+also contained in our definition set that 
+
+204
+00:07:10,230 --> 00:07:12,230
+means we can also calculate this we 
+
+205
+00:07:12,230 --> 00:07:13,930
+then get minus 4 by minus 1 
+
+206
+00:07:13,930 --> 00:07:15,630
+please note minus and minus falls 
+
+207
+00:07:15,630 --> 00:07:18,670
+out and 4 by 1 is 4 that means 
+
+208
+00:07:18,670 --> 00:07:20,950
+we have the intersection point with the 
+
+209
+00:07:20,950 --> 00:07:25,150
+y-axis at 04 and we have the intersection 
+point with the y-axis at 04 axis at 04 and 
+with that we have 
+
+210
+00:07:25,150 --> 00:07:26,870
+now also 
+
+211
+00:07:26,870 --> 00:07:31,560
+determined the intersection points with 
+the coordinate axes 
+
+212
+00:07:31,560 --> 00:07:33,360
+we also enter this again in folie and 
+
+213
+00:07:33,360 --> 00:07:35,440
+think you can see quite well the folie 
+
+214
+00:07:35,440 --> 00:07:39,780
+feels gradually we 
+
+215
+00:07:39,780 --> 00:07:42,420
+now come to the poles and poles are 
+
+216
+00:07:42,420 --> 00:07:45,460
+a thing that is only 
+
+217
+00:07:45,460 --> 00:07:46,920
+
+218
+00:07:46,920 --> 00:07:47,720
+known with fractional rational functions 
+which we 
+
+219
+00:07:47,720 --> 00:07:48,820
+do not know with the completely rational 
+functions. 
+
+220
+00:07:49,180 --> 00:07:51,460
+Pole points are the points at which 
+
+221
+00:07:51,460 --> 00:07:53,660
+the function is not defined. 
+
+222
+00:07:53,780 --> 00:07:55,460
+However, it is very important to note that 
+
+223
+00:07:55,660 --> 00:07:57,920
+pole points also have 
+
+224
+00:07:57,920 --> 00:07:59,920
+the property that the 
+
+225
+00:07:59,920 --> 00:08:01,420
+function value tends to infinity 
+
+226
+00:08:01,420 --> 00:08:03,020
+. This means that in order for the 
+
+227
+00:08:03,020 --> 00:08:05,120
+function value to approach infinity 
+
+228
+00:08:05,680 --> 00:08:08,580
+, it must be ensured that we 
+
+229
+00:08:08,580 --> 00:08:10,600
+do not 
+
+230
+00:08:10,600 --> 00:08:12,720
+have a zero of the numerator at the pole 
+point. In other words, we 
+
+231
+00:08:12,720 --> 00:08:15,640
+simply have to check whether one of our 
+
+232
+00:08:15,640 --> 00:08:19,440
+two... zeros 
+
+233
+00:08:19,440 --> 00:08:21,320
+are excluded by our domain. 
+
+234
+00:08:21,380 --> 00:08:23,840
+In this case, it is not. We have only 
+
+235
+00:08:23,840 --> 00:08:25,280
+not 
+
+236
+00:08:25,280 --> 00:08:26,780
+defined the 1 and the minus 1. Our zeros 
+were 
+
+237
+00:08:26,780 --> 00:08:28,460
+at 2 and minus 2 respectively, which 
+
+238
+00:08:28,460 --> 00:08:29,280
+means that this is 
+
+239
+00:08:29,280 --> 00:08:31,000
+not the case for us. So we 
+
+240
+00:08:31,000 --> 00:08:33,320
+really do have a pole position. 
+
+241
+00:08:34,800 --> 00:08:37,840
+Once it has been clarified that we 
+
+242
+00:08:37,840 --> 00:08:39,660
+definitely have a pole position 
+
+243
+00:08:39,660 --> 00:08:41,680
+, we can 
+
+244
+00:08:41,680 --> 00:08:42,840
+of course 
+
+245
+00:08:42,840 --> 00:08:46,000
+describe this pole position in more 
+detail. In other words, we can 
+
+246
+00:08:46,000 --> 00:08:47,920
+say whether the graph tends towards 
+
+247
+00:08:47,920 --> 00:08:49,840
+infinity or towards minus infinity 
+
+248
+00:08:49,840 --> 00:08:52,040
+and whether there is 
+
+249
+00:08:52,040 --> 00:08:55,160
+still a change in it. That's what you do 
+
+250
+00:08:55,160 --> 00:08:56,620
+next. 
+
+251
+00:08:56,620 --> 00:08:58,020
+But first you should really make sure that 
+
+252
+00:08:58,020 --> 00:09:01,220
+it is a pole. Very 
+
+253
+00:09:01,220 --> 00:09:03,900
+importantly, a defining hole can 
+
+254
+00:09:03,900 --> 00:09:05,720
+only be a pole if 
+
+255
+00:09:05,720 --> 00:09:07,400
+the same zero of the denominator did not 
+
+256
+00:09:07,400 --> 00:09:09,300
+also occur in the numerator. This 
+
+257
+00:09:09,300 --> 00:09:11,700
+simply means that the zero of the 
+numerator must 
+
+258
+00:09:11,700 --> 00:09:13,200
+lie in the domain of definition and 
+
+259
+00:09:13,200 --> 00:09:16,240
+not 
+
+260
+00:09:16,240 --> 00:09:17,780
+be excluded by the domain of definition. 
+As I just 
+
+261
+00:09:17,780 --> 00:09:19,400
+said, this is the case for us 
+
+262
+00:09:19,400 --> 00:09:21,280
+, so let's move on. 
+
+263
+00:09:24,710 --> 00:09:26,410
+Well, as we have just said, 
+
+264
+00:09:26,450 --> 00:09:27,750
+we are now interested 
+
+265
+00:09:27,750 --> 00:09:32,290
+in this pole position and, more precisely, 
+
+266
+00:09:32,290 --> 00:09:34,010
+the course of the pole position. 
+
+267
+00:09:36,840 --> 00:09:39,160
+In order to classify the pole position, 
+
+268
+00:09:39,220 --> 00:09:41,420
+we cannot 
+
+269
+00:09:41,420 --> 00:09:42,200
+take the function value in the pole 
+position into account, 
+
+270
+00:09:42,220 --> 00:09:44,300
+because that is 
+
+271
+00:09:44,300 --> 00:09:46,760
+also a definition gap. In other words, we 
+
+272
+00:09:46,760 --> 00:09:47,980
+cannot calculate a function value there. 
+
+273
+00:09:48,320 --> 00:09:50,420
+That's why we have to approach the pole 
+
+274
+00:09:50,420 --> 00:09:53,740
+from the left and from the right. 
+
+275
+00:09:55,120 --> 00:09:56,920
+We really approximate using the 
+
+276
+00:09:56,920 --> 00:09:59,240
+limit. The whole thing then 
+
+277
+00:09:59,240 --> 00:10:01,080
+looks like this. We once had the 
+
+278
+00:10:01,080 --> 00:10:03,120
+poles at minus 1 and plus 
+
+279
+00:10:03,120 --> 00:10:04,700
+1. Now we have minus 1 plus 
+
+280
+00:10:04,700 --> 00:10:08,640
+and minus 1 minus. This plus and 
+
+281
+00:10:08,640 --> 00:10:11,120
+the minus in the exponent 
+
+282
+00:10:11,120 --> 00:10:13,380
+indicates that we are looking at a number 
+here 
+
+283
+00:10:13,380 --> 00:10:15,240
+that is slightly larger than 
+
+284
+00:10:15,240 --> 00:10:19,140
+the minus 1 for plus and that we are 
+
+285
+00:10:19,140 --> 00:10:20,320
+now looking at a number that 
+
+286
+00:10:20,320 --> 00:10:22,040
+is slightly smaller than the minus 1 for 
+minus . 
+
+287
+00:10:22,620 --> 00:10:24,500
+This simply helps us to ensure that we 
+
+288
+00:10:24,500 --> 00:10:26,220
+are not exactly in our polar stillness 
+
+289
+00:10:26,220 --> 00:10:28,860
+and can calculate something. 
+
+290
+00:10:28,860 --> 00:10:31,140
+So we 
+
+291
+00:10:31,140 --> 00:10:33,780
+
+292
+00:10:33,780 --> 00:10:34,960
+approach the pole stillness from the left 
+for the minus and from the right for the 
+plus. Or the 
+
+293
+00:10:34,960 --> 00:10:39,360
+definition holes. And we 
+
+294
+00:10:39,360 --> 00:10:40,940
+now have to 
+
+295
+00:10:40,940 --> 00:10:43,700
+
+296
+00:10:43,700 --> 00:10:44,600
+calculate this expression, the limits of 
+x-strip against minus 1 plus f of x. This 
+
+297
+00:10:48,490 --> 00:10:50,730
+
+298
+00:10:50,730 --> 00:10:52,170
+means, of course, that we have to 
+
+299
+00:10:52,170 --> 00:10:55,090
+perform the calculation that follows four 
+times. So once for minus 
+
+300
+00:10:55,090 --> 00:10:57,330
+1 minus, once for plus 1 plus and 
+
+301
+00:10:57,330 --> 00:11:00,010
+once for plus 1 minus. So 
+
+302
+00:11:00,010 --> 00:11:01,670
+four times in total. But we 
+
+303
+00:11:01,670 --> 00:11:03,870
+only do it once. The calculation remains 
+the 
+
+304
+00:11:03,870 --> 00:11:09,030
+same. In order to 
+
+305
+00:11:09,030 --> 00:11:10,650
+be able to classify the pole position in 
+more detail , we 
+
+306
+00:11:10,650 --> 00:11:13,550
+first have to go and 
+
+307
+00:11:13,550 --> 00:11:16,850
+factorize the numerator and denominator. 
+As we can see, we 
+
+308
+00:11:16,850 --> 00:11:18,250
+have 
+
+309
+00:11:18,250 --> 00:11:20,870
+applied the third binomial formula in this 
+case. x²-4 
+
+310
+00:11:20,870 --> 00:11:23,290
+can be written as x-2 times x±2 
+
+311
+00:11:23,290 --> 00:11:27,790
+or x-1 times x±1. If you 
+
+312
+00:11:27,790 --> 00:11:29,670
+calculate the pole positions, you have to 
+
+313
+00:11:29,670 --> 00:11:32,410
+
+314
+00:11:32,410 --> 00:11:34,970
+know the zeros of the numerator and 
+denominator anyway and then 
+
+315
+00:11:34,970 --> 00:11:35,770
+you can also 
+
+316
+00:11:35,770 --> 00:11:39,690
+write it down in factorized form. 
+
+317
+00:11:39,690 --> 00:11:40,270
+We have already 
+
+318
+00:11:40,270 --> 00:11:41,530
+done that here. What is written here is 
+
+319
+00:11:41,530 --> 00:11:43,710
+of course the same for all four cases. 
+
+320
+00:11:45,110 --> 00:11:46,590
+All you have to do now is 
+
+321
+00:11:46,590 --> 00:11:49,910
+enter this x-strut against minus 1 plus, 
+
+322
+00:11:49,950 --> 00:11:51,410
+or 
+
+323
+00:11:51,410 --> 00:11:52,250
+
+324
+00:11:52,250 --> 00:11:54,790
+enter the other cases for the other cases, 
+of course . And we've 
+
+325
+00:11:54,790 --> 00:11:56,870
+done that here. So wherever 
+
+326
+00:11:56,870 --> 00:11:58,590
+there is an x here, we 
+
+327
+00:11:58,590 --> 00:12:01,530
+enter a minus 1 plus. This gives us 
+
+328
+00:12:01,530 --> 00:12:03,810
+minus 1 plus minus 2 
+
+329
+00:12:03,810 --> 00:12:07,230
+times minus 1 plus plus 2 in the numerator 
+, 
+
+330
+00:12:07,230 --> 00:12:10,450
+minus 1 plus minus 1 and minus 1 plus 
+
+331
+00:12:10,450 --> 00:12:13,950
+plus 1 in the denominator . In the end, 
+we're 
+
+332
+00:12:13,950 --> 00:12:15,150
+only interested in the continuation 
+
+333
+00:12:15,150 --> 00:12:17,550
+that results. That's what matters. 
+
+334
+00:12:18,270 --> 00:12:20,690
+That's why it's always very important that 
+plus 
+
+335
+00:12:20,690 --> 00:12:22,810
+times minus equals minus and minus times 
+
+336
+00:12:22,810 --> 00:12:26,950
+minus equals plus. We 
+
+337
+00:12:26,950 --> 00:12:28,270
+first calculate the brackets as far as we 
+
+338
+00:12:28,270 --> 00:12:30,950
+can. This plus or minus is 
+
+339
+00:12:30,950 --> 00:12:32,770
+only interesting if we then 
+
+340
+00:12:32,770 --> 00:12:34,550
+have a zero. In other words 
+
+341
+00:12:34,550 --> 00:12:36,430
+, we now have minus 1 plus minus 
+
+342
+00:12:36,430 --> 00:12:42,210
+2 here . That's minus 3 together. Then 
+
+343
+00:12:42,210 --> 00:12:44,430
+we have minus 1 plus plus 2 here. 
+
+344
+00:12:44,690 --> 00:12:46,650
+That's simply a 1. Minus 1 plus 
+
+345
+00:12:46,650 --> 00:12:49,350
+2 is 1. As I said, it only becomes 
+
+346
+00:12:49,350 --> 00:12:50,650
+interesting when a zero is created. 
+
+347
+00:12:51,010 --> 00:12:53,110
+Minus 1 plus minus 1 is a minus 
+
+348
+00:12:53,110 --> 00:12:54,810
+2. And now we come to the case of 
+
+349
+00:12:54,810 --> 00:12:58,250
+minus 1 plus plus 1. Minus 1 plus 1 
+
+350
+00:12:58,250 --> 00:13:00,650
+would theoretically be 0. And now it 
+becomes 
+
+351
+00:13:00,650 --> 00:13:04,470
+important. Minus 1 plus plus 1. This 
+
+352
+00:13:04,470 --> 00:13:06,350
+minus 1 plus means that it 
+
+353
+00:13:06,350 --> 00:13:08,090
+is a number that is a tiny bit 
+
+354
+00:13:08,090 --> 00:13:13,330
+larger than minus 1. 
+
+355
+00:13:13,450 --> 00:13:15,470
+For example, minus 0.99. 
+
+356
+00:13:17,760 --> 00:13:18,880
+And this number is 
+
+357
+00:13:22,980 --> 00:13:25,860
+minus 0.01. That means it is a 
+
+358
+00:13:25,860 --> 00:13:27,580
+positive number and that is all that 
+matters 
+
+359
+00:13:27,580 --> 00:13:30,040
+. It's a positive number and 
+
+360
+00:13:30,040 --> 00:13:33,520
+that's why it's 0 plus. 
+
+361
+00:13:33,520 --> 00:13:35,280
+And now we're almost 
+
+362
+00:13:35,280 --> 00:13:39,320
+there. Minus 3 times 1 is minus 3. 
+
+363
+00:13:40,300 --> 00:13:44,580
+Minus 2 times 0 plus, so minus, because 
+
+364
+00:13:44,580 --> 00:13:47,140
+plus is minus, so 0 minus. And 
+
+365
+00:13:47,140 --> 00:13:49,160
+that's all that matters. Because we 
+
+366
+00:13:49,160 --> 00:13:52,160
+now have minus divided by minus, which 
+
+367
+00:13:52,160 --> 00:13:53,660
+is already a plus, and 3 divided by 
+
+368
+00:13:53,660 --> 00:13:55,000
+0, which is therefore tending towards 
+infinity. 
+
+369
+00:13:55,280 --> 00:13:56,920
+In other words, we know that if 
+
+370
+00:13:56,920 --> 00:13:58,720
+we... 
+
+371
+00:13:58,720 --> 00:14:01,160
+approach the pole from the right, the 
+function value tends to 
+
+372
+00:14:01,160 --> 00:14:04,280
+infinity and, as 
+
+373
+00:14:04,280 --> 00:14:06,320
+I said , this is something that we 
+
+374
+00:14:06,320 --> 00:14:08,280
+
+375
+00:14:08,280 --> 00:14:10,000
+will also find in our sketch at the end of 
+the webinar . well 
+
+376
+00:14:12,340 --> 00:14:14,580
+, as I said, this was only 
+
+377
+00:14:14,580 --> 00:14:16,060
+done for this, exactly the same 
+calculation 
+
+378
+00:14:16,060 --> 00:14:17,140
+we would now have to 
+
+379
+00:14:17,140 --> 00:14:19,120
+do for the other three, which follows 
+
+380
+00:14:19,120 --> 00:14:21,040
+exactly the same principle and the 
+
+381
+00:14:21,040 --> 00:14:22,680
+form once factorized can 
+
+382
+00:14:22,680 --> 00:14:24,140
+of course also be used for this. 
+
+383
+00:14:24,140 --> 00:14:28,110
+the next step is to 
+
+384
+00:14:28,110 --> 00:14:29,390
+
+385
+00:14:29,390 --> 00:14:30,870
+provide a small negative example , namely 
+
+386
+00:14:34,610 --> 00:14:37,810
+this functional equation has 
+
+387
+00:14:37,810 --> 00:14:41,130
+no 
+
+388
+00:14:41,130 --> 00:14:43,430
+poles at the same points, i.e. it has no 
+gaps in the definition, 
+
+389
+00:14:43,430 --> 00:14:47,190
+only because the numerator and denominator 
+
+390
+00:14:47,190 --> 00:14:48,670
+have their zero at the same point 
+
+391
+00:14:48,670 --> 00:14:53,750
+, and we now want to 
+
+392
+00:14:53,750 --> 00:14:55,630
+show the example that if this 
+
+393
+00:14:55,630 --> 00:14:57,410
+is the case, i.e. the numerator and 
+denominator have 
+
+394
+00:14:57,410 --> 00:14:58,190
+their 
+
+395
+00:14:58,190 --> 00:14:59,310
+zero at the same point , what the 
+calculation for this 
+
+396
+00:14:59,310 --> 00:15:00,690
+looks like. 
+
+397
+00:15:00,690 --> 00:15:02,010
+Of course, you can already see this when 
+you 
+
+398
+00:15:02,010 --> 00:15:03,310
+
+399
+00:15:03,310 --> 00:15:04,950
+calculate the zeros of the function and 
+the definition gaps, 
+
+400
+00:15:04,970 --> 00:15:06,190
+then you realize that the zero 
+
+401
+00:15:06,190 --> 00:15:10,410
+is in a definition gap. Then 
+
+402
+00:15:10,410 --> 00:15:11,710
+you can already see it and if you 
+
+403
+00:15:11,710 --> 00:15:14,030
+also factorize it , which you 
+
+404
+00:15:14,030 --> 00:15:15,750
+have to do if you 
+
+405
+00:15:15,750 --> 00:15:18,570
+examine pole points , you can also see it, 
+because 
+
+406
+00:15:18,570 --> 00:15:19,530
+then you can suddenly 
+
+407
+00:15:19,530 --> 00:15:22,010
+shorten something out. You can see here 
+the x plus 
+
+408
+00:15:22,010 --> 00:15:25,470
+1 and x plus 1. This means that the 
+numerator 
+
+409
+00:15:25,470 --> 00:15:26,970
+and denominator appear to have a 
+
+410
+00:15:26,970 --> 00:15:30,630
+zero at x minus 1. And this 
+
+411
+00:15:30,630 --> 00:15:31,590
+shows that the 
+
+412
+00:15:31,590 --> 00:15:33,190
+same terms arise here , which we 
+
+413
+00:15:33,190 --> 00:15:36,430
+can then factor out. So whenever 
+
+414
+00:15:36,430 --> 00:15:38,230
+you have something like this that you 
+
+415
+00:15:38,230 --> 00:15:40,250
+see in the factored form that you 
+
+416
+00:15:40,250 --> 00:15:43,310
+can reduce out, then the 
+
+417
+00:15:43,310 --> 00:15:44,890
+numerator function and the denominator 
+function have 
+
+418
+00:15:44,890 --> 00:15:45,890
+a zero at the same point 
+
+419
+00:15:45,890 --> 00:15:48,850
+. That's why you shorten it 
+
+420
+00:15:48,850 --> 00:15:52,350
+out and then calculate 
+
+421
+00:15:52,350 --> 00:15:53,610
+the whole thing again. So x 
+
+422
+00:15:53,610 --> 00:15:55,650
+minus 2 by x minus 1. We 
+
+423
+00:15:55,650 --> 00:15:57,590
+look at the point minus 1 plus. 
+
+424
+00:15:58,310 --> 00:16:00,490
+This means we have minus 1 plus 
+
+425
+00:16:00,490 --> 00:16:02,550
+minus 2 and minus 1 plus minus 1. 
+
+426
+00:16:02,850 --> 00:16:05,570
+Minus 1 minus 2 is minus 3. Minus 1 
+
+427
+00:16:05,570 --> 00:16:07,650
+minus 1 is minus 2. And now we 
+
+428
+00:16:07,650 --> 00:16:09,930
+have minus 3 divided by minus 2. So 
+
+429
+00:16:09,930 --> 00:16:11,310
+minus divided by minus is plus. 
+
+430
+00:16:11,510 --> 00:16:13,410
+And 3 divided by 2 is then 1 
+
+431
+00:16:13,410 --> 00:16:16,410
+.5. And here you can see that it is now 
+
+432
+00:16:16,410 --> 00:16:17,650
+exactly the case that it does not 
+
+433
+00:16:17,650 --> 00:16:19,070
+
+434
+00:16:19,070 --> 00:16:20,790
+run towards plus or minus infinity , i.e. 
+towards infinity, which 
+
+435
+00:16:20,790 --> 00:16:22,510
+is the criterion of a pole, 
+
+436
+00:16:22,630 --> 00:16:26,070
+but approaches a value. And 
+
+437
+00:16:26,070 --> 00:16:27,430
+that is just a 
+
+438
+00:16:27,430 --> 00:16:28,430
+definition gap. 
+
+439
+00:16:32,740 --> 00:16:34,960
+Well, that brings us to the 
+
+440
+00:16:34,960 --> 00:16:37,540
+behavior at infinity. The 
+
+441
+00:16:37,540 --> 00:16:39,640
+behavior at infinity is 
+
+442
+00:16:39,640 --> 00:16:43,480
+
+443
+00:16:43,480 --> 00:16:44,900
+calculated much differently for fractional 
+rational functions than 
+
+444
+00:16:44,900 --> 00:16:46,380
+for integer rational functions 
+
+445
+00:16:46,380 --> 00:16:49,440
+. The good news is that the 
+
+446
+00:16:49,440 --> 00:16:54,120
+criteria or the approach for the 
+
+447
+00:16:54,120 --> 00:16:55,800
+axes and the point symmetry is the 
+
+448
+00:16:55,800 --> 00:16:57,120
+same as we 
+
+449
+00:16:57,120 --> 00:16:59,620
+know it from integer rational functions. 
+
+450
+00:17:05,160 --> 00:17:07,540
+The first thing we have to do to determine 
+this is to 
+
+451
+00:17:07,540 --> 00:17:11,540
+convert something. Well, we have to 
+
+452
+00:17:11,540 --> 00:17:13,400
+
+453
+00:17:13,400 --> 00:17:15,800
+factor out the highest power of the 
+denominator and the numerator. 
+
+454
+00:17:15,800 --> 00:17:17,700
+We really have to do this , otherwise we 
+
+455
+00:17:17,700 --> 00:17:19,420
+cannot determine the behavior in the 
+finite 
+
+456
+00:17:19,420 --> 00:17:23,560
+. Once again, we have 
+
+457
+00:17:23,560 --> 00:17:25,200
+our function equation from earlier, 
+
+458
+00:17:25,220 --> 00:17:26,760
+i.e. the one we 
+
+459
+00:17:26,760 --> 00:17:28,040
+used at the beginning , which we'll use to 
+
+460
+00:17:28,040 --> 00:17:30,560
+discuss our curves and which 
+
+461
+00:17:30,560 --> 00:17:32,260
+will only be used throughout the 
+
+462
+00:17:32,260 --> 00:17:33,780
+webinar. That was just 
+
+463
+00:17:33,780 --> 00:17:36,760
+an example of what it 
+
+464
+00:17:36,760 --> 00:17:38,260
+looks like if you don't 
+
+465
+00:17:38,260 --> 00:17:41,920
+have a pole position. So we have x²-4 
+divided by 
+
+466
+00:17:41,920 --> 00:17:44,900
+x²-1 again and now we want to 
+
+467
+00:17:44,900 --> 00:17:46,560
+
+468
+00:17:46,560 --> 00:17:48,600
+determine the global behavior, i.e. the 
+behavior in the finite. First, 
+
+469
+00:17:48,600 --> 00:17:51,880
+we factor 
+
+470
+00:17:51,880 --> 00:17:54,720
+out the highest factor of the numerator 
+and the denominator. 
+
+471
+00:17:54,720 --> 00:17:55,800
+Of course, it is important for this to 
+
+472
+00:17:55,800 --> 00:17:56,800
+work that we 
+
+473
+00:17:56,800 --> 00:17:58,400
+no longer have the function equation 
+
+474
+00:17:58,400 --> 00:17:59,860
+in factored form 
+
+475
+00:17:59,860 --> 00:18:02,220
+. We really have to 
+
+476
+00:18:02,220 --> 00:18:03,820
+
+477
+00:18:03,820 --> 00:18:06,200
+have it in this general form. The 
+factorized form will 
+
+478
+00:18:06,200 --> 00:18:08,020
+only be good. 
+
+479
+00:18:14,000 --> 00:18:16,220
+I think we can all see the largest 
+
+480
+00:18:16,220 --> 00:18:18,660
+exponent in the numerator is x² and the 
+
+481
+00:18:18,660 --> 00:18:20,120
+largest exponent in the denominator is 
+also 
+
+482
+00:18:20,120 --> 00:18:24,440
+x². We want to factor out this x². 
+
+483
+00:18:25,240 --> 00:18:27,060
+To do this, we simply 
+
+484
+00:18:27,060 --> 00:18:29,740
+add x² times the brackets. And 
+
+485
+00:18:29,740 --> 00:18:31,020
+you get everything that' s in here 
+
+486
+00:18:31,020 --> 00:18:33,780
+by 
+
+487
+00:18:33,780 --> 00:18:38,020
+dividing this by x² . x² divided by x² is 
+1. minus 4 
+
+488
+00:18:38,020 --> 00:18:41,260
+divided by x² is minus 4 divided by x². 
+
+489
+00:18:41,260 --> 00:18:42,940
+You do exactly the same in the 
+denominator. 
+
+490
+00:18:43,280 --> 00:18:45,620
+
+491
+00:18:45,620 --> 00:18:48,240
+The largest exponent in the denominator is 
+now also x². That's why 
+
+492
+00:18:48,240 --> 00:18:51,020
+we're going to factor it out again. 
+
+493
+00:18:51,020 --> 00:18:53,120
+We can get the value in brackets 
+
+494
+00:18:53,120 --> 00:18:55,940
+by dividing this by x². x² 
+
+495
+00:18:55,940 --> 00:18:57,320
+divided by x² is also a 1 
+
+496
+00:18:57,320 --> 00:18:59,600
+and minus 1 divided by x² is also 
+
+497
+00:18:59,600 --> 00:19:06,120
+minus 1 divided by x². Now we have 
+
+498
+00:19:06,120 --> 00:19:09,560
+reached the point where we 
+
+499
+00:19:09,560 --> 00:19:11,920
+
+500
+00:19:11,920 --> 00:19:14,520
+can let our x run towards infinity or 
+minus infinity . The important thing 
+
+501
+00:19:14,520 --> 00:19:18,220
+here is that our x is in the 
+
+502
+00:19:18,220 --> 00:19:22,300
+denominator. we have 
+
+503
+00:19:22,300 --> 00:19:24,980
+a fraction in both the numerator and the 
+denominator and so we get 
+
+504
+00:19:24,980 --> 00:19:27,000
+here plus minus infinity to the 
+
+505
+00:19:27,000 --> 00:19:28,780
+square and here below also plus 
+
+506
+00:19:28,780 --> 00:19:30,760
+minus finite to the square but it is 
+
+507
+00:19:30,760 --> 00:19:32,920
+both times in the denominator and it is 
+
+508
+00:19:32,920 --> 00:19:36,440
+very important that 1 through infinity 
+
+509
+00:19:36,440 --> 00:19:39,500
+to the square tends towards zero 
+
+510
+00:19:39,500 --> 00:19:41,700
+, because we divide the 1 by a very 
+
+511
+00:19:41,700 --> 00:19:44,920
+large number and whenever you 
+
+512
+00:19:44,920 --> 00:19:46,380
+
+513
+00:19:46,380 --> 00:19:48,420
+divide a small number by a very large one 
+, you get a small number. 
+
+514
+00:19:50,160 --> 00:19:53,440
+In this case, 1 divided by infinity is 0 
+
+515
+00:19:55,140 --> 00:19:57,280
+, as is 4 divided by infinity. That 
+
+516
+00:19:57,280 --> 00:20:00,620
+is 0. Now we also have 
+
+517
+00:20:00,700 --> 00:20:03,760
+the fact that we 
+
+518
+00:20:03,760 --> 00:20:04,680
+square the number to infinity . It is also 
+
+519
+00:20:04,680 --> 00:20:06,620
+unimportant whether we 
+
+520
+00:20:06,620 --> 00:20:09,660
+have plus or minus. And then we also get a 
+
+521
+00:20:09,660 --> 00:20:11,280
+0. Therefore, it is also irrelevant 
+
+522
+00:20:11,320 --> 00:20:14,040
+whether we have plus 0 or minus 0. It 
+
+523
+00:20:14,040 --> 00:20:17,780
+'s simply 1 minus 0 divided by 1. So 1 
+
+524
+00:20:17,780 --> 00:20:23,260
+divided by 1, that's 1. So we know 
+
+525
+00:20:23,400 --> 00:20:26,860
+that the function for x-stript 
+
+526
+00:20:26,860 --> 00:20:28,460
+
+527
+00:20:28,460 --> 00:20:31,120
+
+528
+00:20:31,120 --> 00:20:36,020
+tends to plus-and-finite or x-stript tends 
+to minus-and-finite both times. We know 
+that now. And 
+
+529
+00:20:36,020 --> 00:20:37,260
+we will also 
+
+530
+00:20:37,260 --> 00:20:38,200
+be able to recognize this later on the 
+graph. 
+
+531
+00:20:40,930 --> 00:20:43,050
+Of course, other numbers are also 
+
+532
+00:20:43,050 --> 00:20:45,430
+conceivable. So it could just as 
+
+533
+00:20:45,430 --> 00:20:46,970
+well be a 0 or 
+
+534
+00:20:47,170 --> 00:20:48,450
+any other number, i.e. a 5, a 6 
+
+535
+00:20:48,450 --> 00:20:50,390
+or plus infinity or 
+
+536
+00:20:50,390 --> 00:20:53,770
+minus infinity. It should also be 
+
+537
+00:20:53,770 --> 00:20:55,550
+noted that if the numerator 
+
+538
+00:20:55,550 --> 00:20:57,850
+is exactly one percent larger, 
+
+539
+00:20:57,850 --> 00:20:59,070
+for example if we 
+
+540
+00:20:59,070 --> 00:21:02,010
+had x³ instead of x², then we would have 
+been 
+
+541
+00:21:02,010 --> 00:21:04,230
+
+542
+00:21:04,230 --> 00:21:07,250
+left with an x if we had truncated both. 
+This 
+
+543
+00:21:07,250 --> 00:21:08,470
+would mean 
+
+544
+00:21:08,470 --> 00:21:13,590
+that we would have an oblique asymptote. 
+This is 
+
+545
+00:21:13,590 --> 00:21:14,350
+definitely 
+
+546
+00:21:14,350 --> 00:21:15,090
+worth mentioning. 
+
+547
+00:21:18,400 --> 00:21:19,680
+Now let's move on to the 
+
+548
+00:21:19,680 --> 00:21:20,880
+symmetry behavior. 
+
+549
+00:21:23,320 --> 00:21:25,420
+As we said earlier, there are 
+
+550
+00:21:25,420 --> 00:21:26,980
+
+551
+00:21:26,980 --> 00:21:28,660
+only two simple 
+
+552
+00:21:28,660 --> 00:21:30,340
+types of symmetry for fractional rational 
+functions. These are 
+
+553
+00:21:30,340 --> 00:21:31,260
+axis symmetry and 
+
+554
+00:21:31,260 --> 00:21:32,520
+point symmetry. So these are exactly 
+
+555
+00:21:32,520 --> 00:21:34,040
+the same two symmetries 
+
+556
+00:21:34,040 --> 00:21:35,840
+as we 
+
+557
+00:21:35,840 --> 00:21:37,320
+know from completely rational functions. 
+And the 
+
+558
+00:21:37,320 --> 00:21:39,120
+conditions for them are also the 
+
+559
+00:21:39,120 --> 00:21:40,620
+same. For axis symmetry 
+
+560
+00:21:40,620 --> 00:21:42,380
+, we have f of minus x is equal to f 
+
+561
+00:21:42,380 --> 00:21:44,420
+of x. This means that it 
+
+562
+00:21:44,420 --> 00:21:45,920
+doesn't really matter whether you 
+
+563
+00:21:45,920 --> 00:21:47,600
+
+564
+00:21:47,600 --> 00:21:49,040
+enter your variable as positive or 
+negative. 
+
+565
+00:21:49,040 --> 00:21:51,300
+The result is the same either way. The 
+point symmetry 
+
+566
+00:21:51,300 --> 00:21:53,920
+is, or rather the condition for the 
+
+567
+00:21:53,920 --> 00:21:55,720
+point symmetry is, f of minus x 
+
+568
+00:21:55,720 --> 00:21:57,420
+is equal to minus f of x. This means 
+
+569
+00:21:57,560 --> 00:21:59,200
+that if you 
+
+570
+00:21:59,200 --> 00:22:00,800
+enter your variable with the wrong sign, 
+you will 
+
+571
+00:22:00,800 --> 00:22:01,680
+also get a result 
+
+572
+00:22:01,680 --> 00:22:05,540
+with the wrong sign. off. And as 
+
+573
+00:22:05,540 --> 00:22:07,620
+we 
+
+574
+00:22:07,620 --> 00:22:09,580
+know it from completely rational functions 
+, we now check this first, 
+
+575
+00:22:09,760 --> 00:22:10,840
+except that we now 
+
+576
+00:22:10,840 --> 00:22:12,260
+have a fractional rational function. 
+
+577
+00:22:13,180 --> 00:22:16,380
+This means that we simply 
+
+578
+00:22:16,380 --> 00:22:20,420
+insert a minus x for our x, then 
+
+579
+00:22:20,420 --> 00:22:22,420
+we get minus x to the power of 2 minus 4 
+
+580
+00:22:22,420 --> 00:22:25,000
+by minus x to the power of 2 minus 1. Now 
+
+581
+00:22:25,000 --> 00:22:26,140
+it is very important that we have 
+
+582
+00:22:26,140 --> 00:22:27,620
+an even power both times, which is 
+
+583
+00:22:27,620 --> 00:22:29,120
+why our sign is omitted. 
+
+584
+00:22:29,360 --> 00:22:32,560
+So minus x² becomes x² both times. 
+
+585
+00:22:32,860 --> 00:22:34,700
+And we see what we 
+
+586
+00:22:34,700 --> 00:22:36,880
+get here , x² minus 4 by x² minus 
+
+587
+00:22:36,880 --> 00:22:38,900
+1, which is again our 
+
+588
+00:22:38,900 --> 00:22:40,720
+initial function f of x. 
+
+589
+00:22:40,720 --> 00:22:45,660
+So f of minus x is equal to f of 
+
+590
+00:22:45,660 --> 00:22:46,940
+x. I'll go 
+
+591
+00:22:46,940 --> 00:22:49,120
+back one page for a moment. This is the 
+criterion for 
+
+592
+00:22:49,120 --> 00:22:51,300
+axisymmetry. Consequently, our 
+
+593
+00:22:51,300 --> 00:22:53,340
+function is axisymmetric to the 
+
+594
+00:22:53,340 --> 00:22:56,940
+ y-axis. And that 
+
+595
+00:22:56,940 --> 00:22:58,020
+already 
+
+596
+00:22:58,020 --> 00:22:58,440
+clarifies  the symmetry behavior. 
+
+597
+00:23:01,240 --> 00:23:03,720
+Now we come to extreme values or 
+
+598
+00:23:04,060 --> 00:23:07,040
+extreme points. To do this, we 
+
+599
+00:23:07,040 --> 00:23:09,400
+first need the first derivative, which 
+
+600
+00:23:09,400 --> 00:23:11,280
+is somewhat more difficult to calculate 
+
+601
+00:23:11,280 --> 00:23:12,780
+for fractionally rational functions. 
+
+602
+00:23:12,780 --> 00:23:14,420
+With fractionally rational functions 
+
+603
+00:23:14,420 --> 00:23:16,060
+, you always need the 
+
+604
+00:23:16,060 --> 00:23:18,600
+quotient rule to derive them . This is 
+very 
+
+605
+00:23:18,600 --> 00:23:22,540
+important. The quotient rule is 
+
+606
+00:23:25,860 --> 00:23:28,660
+denominator times the 
+
+607
+00:23:28,660 --> 00:23:34,240
+
+608
+00:23:34,240 --> 00:23:38,380
+
+609
+00:23:38,380 --> 00:23:40,580
+
+610
+00:23:40,580 --> 00:23:42,780
+
+611
+00:23:42,780 --> 00:23:44,220
+
+612
+00:23:44,220 --> 00:23:45,380
+
+613
+00:23:45,380 --> 00:23:47,100
+
+614
+00:23:47,100 --> 00:23:48,480
+
+615
+00:23:48,480 --> 00:23:49,940
+
+616
+00:23:49,940 --> 00:23:52,700
+
+617
+00:23:52,700 --> 00:23:55,520
+derivative of the numerator minus the 
+numerator times the derivative of the 
+denominator yes and the whole thing 
+divided by the quotient to the square - as 
+I said, this is the quotient rule. In the 
+case of a fractional function, a 
+distinction is always made between a 
+numerator and a polynomial and this should 
+
+618
+00:23:55,520 --> 00:23:57,380
+
+619
+00:23:57,380 --> 00:24:00,300
+of course not be interchanged, especially 
+in the case of the derivative 
+
+620
+00:24:00,300 --> 00:24:02,060
+
+621
+00:24:02,060 --> 00:24:04,820
+. This is always a 
+
+622
+00:24:04,820 --> 00:24:05,860
+bit easier to calculate. So 
+
+623
+00:24:05,860 --> 00:24:06,920
+if you 
+
+624
+00:24:06,920 --> 00:24:08,780
+were to factor it out now , you would 
+
+625
+00:24:08,780 --> 00:24:10,160
+only end up making life more difficult for 
+yourself. So it' 
+
+626
+00:24:10,160 --> 00:24:13,440
+s better to leave it like this. This is 
+now 
+
+627
+00:24:13,440 --> 00:24:16,200
+our first derivation 
+
+628
+00:24:16,200 --> 00:24:17,600
+and we'll continue with it. 
+
+629
+00:24:20,540 --> 00:24:22,060
+Here too, the 
+
+630
+00:24:22,060 --> 00:24:24,980
+necessary conditions and the 
+
+631
+00:24:24,980 --> 00:24:26,060
+sufficient condition for the 
+
+632
+00:24:26,060 --> 00:24:28,340
+extreme points 
+
+633
+00:24:28,340 --> 00:24:30,540
+do not change for completely rational 
+functions. This means 
+
+634
+00:24:30,660 --> 00:24:32,240
+that here too, with a fractional 
+
+635
+00:24:32,240 --> 00:24:34,280
+rational function, we set the 
+
+636
+00:24:34,280 --> 00:24:36,060
+first derivative equal to 0 in order to 
+
+637
+00:24:36,060 --> 00:24:38,880
+carry out the necessary condition. And 
+
+638
+00:24:38,880 --> 00:24:40,060
+then we also carry out the 
+
+639
+00:24:40,060 --> 00:24:45,220
+sufficient condition. So 6x through x²-1² 
+
+640
+00:24:45,220 --> 00:24:48,040
+is equal to 0. We are now only looking 
+
+641
+00:24:48,040 --> 00:24:50,020
+for zeros of the first derivative 
+
+642
+00:24:50,020 --> 00:24:51,620
+and we can see that the first derivative 
+
+643
+00:24:51,620 --> 00:24:53,120
+is also like a fractional rational 
+
+644
+00:24:53,120 --> 00:24:55,500
+function. Therefore, we are now 
+
+645
+00:24:55,500 --> 00:24:57,940
+only looking at the numerator function 
+again, 
+
+646
+00:24:58,120 --> 00:25:01,360
+i.e. 6x is equal to 0. 
+
+647
+00:25:01,360 --> 00:25:03,560
+We now solve this equation , x is then 
+equal to 0 
+
+648
+00:25:03,560 --> 00:25:05,540
+accordingly. 
+
+649
+00:25:05,540 --> 00:25:06,840
+Of course, this equation does not always 
+have to 
+
+650
+00:25:06,840 --> 00:25:09,660
+be so simple. In other words, we 
+
+651
+00:25:09,660 --> 00:25:13,440
+now know that we have a 
+
+652
+00:25:13,440 --> 00:25:16,740
+potential extreme point at 0. Now 
+
+653
+00:25:16,740 --> 00:25:17,900
+, as we know, there are two 
+
+654
+00:25:17,900 --> 00:25:19,640
+ways to 
+
+655
+00:25:19,640 --> 00:25:21,700
+determine the type of extreme point or to 
+first 
+
+656
+00:25:21,700 --> 00:25:22,900
+determine whether there 
+
+657
+00:25:22,900 --> 00:25:25,460
+is one at all . On the one hand, this can 
+be done using 
+
+658
+00:25:25,460 --> 00:25:27,200
+the second derivative or using a 
+
+659
+00:25:27,200 --> 00:25:30,280
+monotonicity table. The 
+
+660
+00:25:30,280 --> 00:25:31,140
+monotonicity table 
+
+661
+00:25:31,140 --> 00:25:34,680
+is of course useful if we 
+
+662
+00:25:34,680 --> 00:25:36,100
+
+663
+00:25:36,100 --> 00:25:38,880
+have to determine the monotonicity 
+behavior of the function anyway. 
+
+664
+00:25:38,880 --> 00:25:40,480
+This is the case with us. We have just 
+
+665
+00:25:40,480 --> 00:25:41,720
+seen in the overview at the beginning 
+
+666
+00:25:41,940 --> 00:25:44,680
+that we also have to determine the... 
+monotonicity 
+
+667
+00:25:44,680 --> 00:25:46,820
+. That's why I would 
+
+668
+00:25:46,820 --> 00:25:48,500
+go this way at this point. 
+
+669
+00:25:48,500 --> 00:25:50,220
+Of course, it is also possible to 
+
+670
+00:25:50,220 --> 00:25:52,020
+use the second derivative 
+
+671
+00:25:52,020 --> 00:25:53,960
+. This means that we 
+
+672
+00:25:53,960 --> 00:25:55,420
+insert our calculated point into the 
+
+673
+00:25:55,420 --> 00:25:57,720
+second derivative and if the 
+
+674
+00:25:57,720 --> 00:26:00,040
+result is greater than 0, 
+
+675
+00:26:00,040 --> 00:26:02,220
+there is a low point. If it is less than 
+0, 
+
+676
+00:26:02,260 --> 00:26:04,320
+there is a high point. And if it 
+
+677
+00:26:04,320 --> 00:26:06,900
+is not equal to 0, then we must 
+
+678
+00:26:06,900 --> 00:26:08,420
+suspect that it is a 
+
+679
+00:26:08,420 --> 00:26:09,100
+saddle point. 
+
+680
+00:26:14,000 --> 00:26:15,720
+Let's take a look at 
+
+681
+00:26:15,720 --> 00:26:17,160
+our second derivative, f' 
+
+682
+00:26:17,380 --> 00:26:19,660
+of x, which is equal to minus 18x² 
+
+683
+00:26:19,660 --> 00:26:22,140
+minus 6 by x² minus 1 to the power of 3. 
+
+684
+00:26:22,780 --> 00:26:24,720
+This second derivative has also 
+
+685
+00:26:24,720 --> 00:26:26,340
+been calculated using the quotient rule. 
+
+686
+00:26:26,980 --> 00:26:28,860
+And we can now insert the 0 into this 
+
+687
+00:26:28,860 --> 00:26:30,360
+, then we simply get 
+
+688
+00:26:30,360 --> 00:26:34,180
+minus 6 by minus 1 to the power of 3. That 
+is 
+
+689
+00:26:34,180 --> 00:26:36,820
+minus 1 to the power of 3, that is minus 
+1. We 
+
+690
+00:26:36,820 --> 00:26:38,680
+then get the 6, because minus by 
+
+691
+00:26:38,680 --> 00:26:41,200
+minus is plus. And the 6 is greater 
+
+692
+00:26:41,200 --> 00:26:42,900
+than 0, so 
+
+693
+00:26:42,900 --> 00:26:45,780
+there is a low point. We can also 
+
+694
+00:26:45,780 --> 00:26:47,040
+prove the whole thing with the 
+monotonicity table. 
+
+695
+00:26:47,320 --> 00:26:48,720
+First, we take 
+
+696
+00:26:48,720 --> 00:26:50,840
+the point in the middle where the 
+potential 
+
+697
+00:26:50,840 --> 00:26:52,700
+extreme point is, i.e. x equals 
+
+698
+00:26:52,700 --> 00:26:54,680
+0. Then we go a little to the left 
+
+699
+00:26:54,680 --> 00:26:55,900
+of it and a little to the right of it. 
+
+700
+00:26:56,040 --> 00:26:57,880
+It is important to note that with 
+fractional 
+
+701
+00:26:57,880 --> 00:26:59,600
+rational functions, 
+
+702
+00:26:59,840 --> 00:27:00,980
+you should not go beyond your 
+
+703
+00:27:00,980 --> 00:27:03,560
+definition gap. We 
+
+704
+00:27:03,560 --> 00:27:06,220
+have a definition gap at the minus 1 or at 
+the 
+
+705
+00:27:06,220 --> 00:27:09,200
+1. This means that 
+
+706
+00:27:09,320 --> 00:27:12,180
+the x that we insert here must 
+
+707
+00:27:12,180 --> 00:27:14,220
+be less than 0, but at the same time 
+
+708
+00:27:14,220 --> 00:27:17,760
+greater than minus 1. The x that 
+
+709
+00:27:17,760 --> 00:27:19,380
+we insert here must 
+
+710
+00:27:19,380 --> 00:27:21,360
+be greater than 0, but at the same time 
+less 
+
+711
+00:27:21,360 --> 00:27:22,900
+than 1, so that we don't 
+
+712
+00:27:22,900 --> 00:27:24,480
+go over our definition gap. 
+
+713
+00:27:25,960 --> 00:27:27,540
+If we do this, we get 
+
+714
+00:27:27,540 --> 00:27:30,600
+a result smaller than 
+
+715
+00:27:30,600 --> 00:27:33,300
+0 on the left, i.e. the graph falls. To 
+the right 
+
+716
+00:27:33,300 --> 00:27:35,300
+of this, we get a result greater than 0, 
+i.e. 
+
+717
+00:27:35,300 --> 00:27:36,520
+it rises. So we have a 
+
+718
+00:27:36,520 --> 00:27:37,940
+change of sign from minus to 
+
+719
+00:27:37,940 --> 00:27:41,360
+plus, i.e. from falling to rising, and 
+
+720
+00:27:41,360 --> 00:27:42,920
+that is a low point. 
+
+721
+00:27:42,920 --> 00:27:43,700
+I think you can already visualize this 
+graphically 
+
+722
+00:27:43,700 --> 00:27:45,960
+. Here it is falling straight 
+
+723
+00:27:45,960 --> 00:27:48,420
+up, which is a low point, i.e. 
+
+724
+00:27:48,420 --> 00:27:52,360
+a minimum. And that 
+
+725
+00:27:52,360 --> 00:27:54,440
+already 
+
+726
+00:27:54,440 --> 00:27:55,280
+characterizes the type of extreme point. 
+
+727
+00:27:57,450 --> 00:27:58,590
+We also wanted to 
+
+728
+00:27:58,590 --> 00:28:00,030
+determine the monotonic behavior and here 
+
+729
+00:28:00,030 --> 00:28:01,310
+you can see what I just 
+
+730
+00:28:01,310 --> 00:28:04,110
+mentioned. 
+
+731
+00:28:04,110 --> 00:28:05,870
+We have the location of our extreme point 
+and 
+
+732
+00:28:05,870 --> 00:28:07,810
+then a location to the right or left 
+
+733
+00:28:07,810 --> 00:28:10,210
+of it, but of course this is also 
+
+734
+00:28:10,210 --> 00:28:12,310
+between minus 1 and 0 or 
+
+735
+00:28:12,710 --> 00:28:15,070
+between 0 and 1. You must 
+
+736
+00:28:15,070 --> 00:28:16,550
+not 
+
+737
+00:28:16,550 --> 00:28:18,350
+go beyond our definition gap. If we 
+
+738
+00:28:18,350 --> 00:28:19,910
+want to determine the monotonicity 
+behavior 
+
+739
+00:28:20,070 --> 00:28:22,790
+, we also go to the left 
+
+740
+00:28:22,790 --> 00:28:25,210
+or right of the definition gap 
+
+741
+00:28:25,210 --> 00:28:27,050
+and always calculate 
+
+742
+00:28:27,050 --> 00:28:29,010
+the first derivative for these values and 
+look 
+
+743
+00:28:29,010 --> 00:28:31,170
+at the sign. 
+
+744
+00:28:31,190 --> 00:28:33,430
+the gradient is here we see 
+
+745
+00:28:33,430 --> 00:28:35,390
+to the left of the mini from 1 to that 
+means 
+
+746
+00:28:35,390 --> 00:28:36,730
+to the left of our left 
+
+747
+00:28:36,730 --> 00:28:39,410
+definition gap the graph falls 
+
+748
+00:28:39,410 --> 00:28:43,970
+to the right of our left 
+
+749
+00:28:43,970 --> 00:28:46,050
+definition gap it also falls 
+
+750
+00:28:46,050 --> 00:28:49,830
+and now we see to the right of 
+
+751
+00:28:49,830 --> 00:28:53,890
+our extreme point it rises that 
+
+752
+00:28:53,890 --> 00:28:55,390
+means here a sign change from 
+
+753
+00:28:55,390 --> 00:29:00,070
+minus to plus and to the right of the 
+
+754
+00:29:00,070 --> 00:29:02,030
+right definition gap it 
+
+755
+00:29:02,030 --> 00:29:05,270
+also rises again and we can 
+
+756
+00:29:05,270 --> 00:29:06,690
+
+757
+00:29:06,690 --> 00:29:09,230
+notice all of this in our graph again and 
+this 
+
+758
+00:29:09,230 --> 00:29:11,770
+clarifies the monotonic behavior here 
+
+759
+00:29:14,010 --> 00:29:15,510
+we see it again falls falls 
+
+760
+00:29:15,510 --> 00:29:18,970
+rises rises around the low point 
+
+761
+00:29:18,970 --> 00:29:20,150
+we have the change from falling to 
+
+762
+00:29:20,150 --> 00:29:22,570
+rising so definitely a low point 
+
+763
+00:29:22,570 --> 00:29:25,490
+next we come to 
+
+764
+00:29:25,490 --> 00:29:29,290
+turning points and curvature. With 
+
+765
+00:29:29,290 --> 00:29:30,710
+fractional rational functions, it is 
+
+766
+00:29:30,710 --> 00:29:32,390
+very important to keep in mind 
+
+767
+00:29:33,270 --> 00:29:34,670
+that a fractional rational 
+
+768
+00:29:34,670 --> 00:29:36,410
+function 
+
+769
+00:29:36,410 --> 00:29:38,410
+can have a change in curvature even though 
+
+770
+00:29:38,410 --> 00:29:41,010
+it does not have an inflection point. This 
+is 
+
+771
+00:29:41,010 --> 00:29:43,450
+a big difference to completely 
+
+772
+00:29:43,450 --> 00:29:45,750
+rational functions. 
+
+773
+00:29:45,750 --> 00:29:47,370
+However, a fractionally rational function 
+can still 
+
+774
+00:29:47,370 --> 00:29:48,770
+have the classic inflection point 
+
+775
+00:29:48,770 --> 00:29:50,570
+. That is why we first 
+
+776
+00:29:50,570 --> 00:29:52,750
+check for such an inflection point. This 
+is done 
+
+777
+00:29:52,750 --> 00:29:54,530
+as we know it, 
+
+778
+00:29:54,530 --> 00:29:55,910
+i.e. we need the second 
+
+779
+00:29:55,910 --> 00:29:58,530
+derivative and set it 
+
+780
+00:29:58,530 --> 00:30:00,970
+equal to 0. 
+
+781
+00:30:00,970 --> 00:30:01,930
+We already had the second derivative 
+earlier with the 
+
+782
+00:30:01,930 --> 00:30:03,630
+monotonicity table, which is exactly the 
+
+783
+00:30:03,630 --> 00:30:05,490
+same as the one here. We 
+
+784
+00:30:05,490 --> 00:30:07,930
+now set it equal to 0, here too, the 
+
+785
+00:30:07,930 --> 00:30:09,030
+second derivative is again a 
+
+786
+00:30:09,030 --> 00:30:10,790
+fractional rational function and it 
+
+787
+00:30:10,790 --> 00:30:12,190
+will look for the zeros, that's how 
+
+788
+00:30:12,190 --> 00:30:14,750
+it should be interpreted. That's why 
+
+789
+00:30:14,750 --> 00:30:16,150
+we only take the numerator and set 
+
+790
+00:30:16,150 --> 00:30:18,090
+it equal to 0. So minus 18x² 
+
+791
+00:30:18,090 --> 00:30:20,830
+minus 6 equals 0 and we will find that 
+
+792
+00:30:20,830 --> 00:30:24,370
+
+793
+00:30:24,370 --> 00:30:26,710
+there is no solution to this equation. 
+Because we 
+
+794
+00:30:26,710 --> 00:30:27,970
+can now calculate plus 6, then 
+
+795
+00:30:27,970 --> 00:30:30,750
+we would divide by minus 18 
+
+796
+00:30:30,750 --> 00:30:32,330
+. Then we would have something 
+
+797
+00:30:32,330 --> 00:30:33,870
+negative and then we would have to 
+
+798
+00:30:33,870 --> 00:30:35,230
+take the root of a negative number 
+
+799
+00:30:35,230 --> 00:30:37,330
+and that is not possible. In other words, 
+
+800
+00:30:37,510 --> 00:30:40,570
+not equal to 0, no solution and there are 
+
+801
+00:30:40,570 --> 00:30:43,590
+obviously no 
+
+802
+00:30:43,590 --> 00:30:47,410
+turning points for the time being. 
+
+803
+00:30:47,410 --> 00:30:48,590
+However, we have to 
+
+804
+00:30:48,590 --> 00:30:52,450
+characterize the whole thing using the 
+curvature table. Because, as I just 
+
+805
+00:30:52,450 --> 00:30:53,790
+said, even if we don't have an 
+
+806
+00:30:53,790 --> 00:30:55,430
+inflection point, the 
+
+807
+00:30:55,430 --> 00:30:55,910
+curvature can change. 
+
+808
+00:30:59,450 --> 00:31:01,210
+That's why we now use such a 
+
+809
+00:31:01,210 --> 00:31:04,990
+nice table for the curvature. 
+
+810
+00:31:04,990 --> 00:31:06,830
+First of all, we see here... minus 1 and 
+1, 
+
+811
+00:31:06,890 --> 00:31:08,230
+our two definition gaps 
+
+812
+00:31:08,230 --> 00:31:10,990
+again. We can 
+
+813
+00:31:10,990 --> 00:31:12,830
+now hide the low point here. In other 
+words, we 
+
+814
+00:31:12,830 --> 00:31:16,470
+only need one digit from the, 
+
+815
+00:31:16,470 --> 00:31:18,270
+finally, one digit to the left of the 
+
+816
+00:31:18,270 --> 00:31:21,050
+definition gap, one digit to the right 
+
+817
+00:31:21,050 --> 00:31:22,470
+of our right definition gap 
+
+818
+00:31:22,470 --> 00:31:24,750
+and one digit in between. So 
+
+819
+00:31:24,750 --> 00:31:26,410
+conceivable values here would be 
+
+820
+00:31:26,430 --> 00:31:29,250
+one minus 2, here a 0 and 
+
+821
+00:31:29,250 --> 00:31:32,930
+here a 2, for example. 
+
+822
+00:31:32,930 --> 00:31:34,810
+We then calculate the second 
+
+823
+00:31:34,810 --> 00:31:37,150
+derivative for these values. This means 
+that 
+
+824
+00:31:37,150 --> 00:31:39,530
+for a digit 
+
+825
+00:31:39,530 --> 00:31:41,230
+smaller than minus 1, it is 
+
+826
+00:31:41,230 --> 00:31:42,830
+less than 0, i.e. curved to the right. 
+
+827
+00:31:43,630 --> 00:31:45,410
+Between minus 1 and 1 we have 
+
+828
+00:31:45,410 --> 00:31:47,050
+a value that is greater than 0, which 
+
+829
+00:31:47,050 --> 00:31:49,870
+means it is curved to the left and for 
+
+830
+00:31:49,870 --> 00:31:51,790
+a value greater than 1 it is 
+
+831
+00:31:51,790 --> 00:31:54,250
+again less than 0, which means it 
+
+832
+00:31:54,250 --> 00:31:55,350
+is again curved to the right. And here 
+
+833
+00:31:55,350 --> 00:31:56,350
+we see that we have 
+
+834
+00:31:56,350 --> 00:31:57,870
+right-curved, right-curved, 
+
+835
+00:31:57,870 --> 00:32:00,770
+left-curved, right-curved. We 
+
+836
+00:32:00,770 --> 00:32:03,970
+definitely have a change. And 
+
+837
+00:32:03,970 --> 00:32:08,910
+we're still holding on to that. Well, that 
+
+838
+00:32:08,910 --> 00:32:10,590
+'s the information we' 
+
+839
+00:32:10,590 --> 00:32:12,830
+ve gathered so far and we 
+
+840
+00:32:12,830 --> 00:32:14,550
+
+841
+00:32:14,550 --> 00:32:17,150
+'ll take a look at the graph in a moment. 
+This is the graph 
+
+842
+00:32:17,150 --> 00:32:22,510
+and we can see here, 
+
+843
+00:32:22,510 --> 00:32:23,850
+let's start with the low point. This is 
+
+844
+00:32:23,850 --> 00:32:25,330
+our low point and we can also see... 
+
+845
+00:32:25,350 --> 00:32:28,290
+The low point is exactly at the 
+
+846
+00:32:28,290 --> 00:32:31,070
+intersection with the y-axis. This is 
+
+847
+00:32:31,070 --> 00:32:32,330
+also here. Here we can see 
+
+848
+00:32:32,330 --> 00:32:33,770
+the two zeros that we 
+
+849
+00:32:33,770 --> 00:32:36,490
+have calculated. And we can see that if 
+
+850
+00:32:36,490 --> 00:32:38,230
+we 
+
+851
+00:32:38,230 --> 00:32:40,690
+approach minus 1 or 1 , our graph runs 
+away, which 
+
+852
+00:32:40,690 --> 00:32:41,650
+is how you want to formulate it. 
+
+853
+00:32:44,750 --> 00:32:46,270
+That's why these are our 
+
+854
+00:32:46,270 --> 00:32:47,790
+definition gaps. So once here, 
+
+855
+00:32:47,870 --> 00:32:49,490
+or are pole points that we 
+
+856
+00:32:49,490 --> 00:32:52,430
+have found out. And here. 
+
+857
+00:32:52,430 --> 00:32:54,770
+Furthermore, we see... 
+
+858
+00:32:54,770 --> 00:32:56,630
+The graph falls to the left of the left 
+pole point, and 
+
+859
+00:32:58,250 --> 00:33:00,730
+
+860
+00:33:00,730 --> 00:33:01,770
+the graph falls to the right of the left 
+pole point , as we have 
+
+861
+00:33:01,770 --> 00:33:04,470
+calculated. If we now look at the 
+
+862
+00:33:04,470 --> 00:33:06,370
+right-hand pole, i.e. 
+
+863
+00:33:06,370 --> 00:33:08,310
+this one, we see that 
+
+864
+00:33:08,310 --> 00:33:10,270
+it rises to the left of the right-hand 
+pole, here, 
+
+865
+00:33:10,370 --> 00:33:12,730
+and 
+
+866
+00:33:12,730 --> 00:33:15,290
+it continues to rise to the right of the 
+right-hand pole. We can also see 
+
+867
+00:33:15,290 --> 00:33:17,070
+here that the function is approaching the 
+
+868
+00:33:17,070 --> 00:33:18,650
+value 1, as we have already 
+
+869
+00:33:18,650 --> 00:33:22,810
+calculated, and this is what the graph 
+
+870
+00:33:22,810 --> 00:33:26,610
+looks like at the end. The 
+
+871
+00:33:26,610 --> 00:33:28,410
+change in curvature is yes, here it is 
+curved 
+
+872
+00:33:28,410 --> 00:33:30,290
+to the right, here it is 
+
+873
+00:33:30,290 --> 00:33:31,370
+curved to the left and here it is 
+
+874
+00:33:31,370 --> 00:33:34,950
+curved to the right again. This means 
+
+875
+00:33:34,950 --> 00:33:37,210
+that there is a change of curvature within 
+the 
+
+876
+00:33:37,210 --> 00:33:42,050
+pole positions. And that brings us to 
+
+877
+00:33:42,050 --> 00:33:43,510
+the end of the webinar. 
+
+878
+00:33:43,510 --> 00:33:45,130
+Thank you very much for your 
+
+879
+00:33:45,130 --> 00:33:45,810
+attention. 

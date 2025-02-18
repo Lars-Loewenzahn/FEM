@@ -1,0 +1,3196 @@
+1
+00:00:02,510 --> 00:00:03,850
+Hallo und willkommen zu unserem
+
+2
+00:00:03,850 --> 00:00:06,010
+Webinar zum Thema Rechnen mit
+
+3
+00:00:06,010 --> 00:00:08,650
+Dezimalzahlen. Bevor es aber richtig
+
+4
+00:00:08,650 --> 00:00:10,990
+losgeht, ist der Ton laut, klar und
+
+5
+00:00:10,990 --> 00:00:12,470
+deutlich und ist auch das Bild zu
+
+6
+00:00:12,470 --> 00:00:14,250
+sehen? Wenn ja, dann bitte gebt mir
+
+7
+00:00:14,250 --> 00:00:15,970
+einmal ganz kurz im Chat Bescheid mit
+
+8
+00:00:15,970 --> 00:00:17,770
+einem OK oder sowas und dann legen
+
+9
+00:00:17,770 --> 00:00:18,390
+wir auch sofort los.
+
+10
+00:00:22,710 --> 00:00:26,150
+Alles klar, dankeschön. Ja, heute
+
+11
+00:00:26,150 --> 00:00:27,830
+geht es um Dezimalzahlen bzw.
+
+12
+00:00:28,870 --> 00:00:30,410
+verwenden wir auch den Begriff der
+
+13
+00:00:30,410 --> 00:00:32,290
+Dezimalbrüche. Wir werden auch gleich
+
+14
+00:00:32,290 --> 00:00:33,590
+genau sehen, warum wir das tun.
+
+15
+00:00:34,630 --> 00:00:35,730
+Nämlich, wenn wir erstmal die Frage
+
+16
+00:00:35,730 --> 00:00:37,270
+beantworten, was sind Dezimalbrüche
+
+17
+00:00:37,270 --> 00:00:39,290
+und dann schauen wir uns an, wie wir
+
+18
+00:00:39,290 --> 00:00:40,530
+diese Dezimalbrüche miteinander
+
+19
+00:00:40,530 --> 00:00:42,850
+vergleichen bzw. umrechnen in ihre
+
+20
+00:00:42,850 --> 00:00:45,390
+beiden Darstellungsweisen. Dann, wie
+
+21
+00:00:45,390 --> 00:00:46,830
+wir sie addieren, subtrahieren,
+
+22
+00:00:46,950 --> 00:00:48,350
+multiplizieren und dividieren. Also
+
+23
+00:00:48,350 --> 00:00:49,210
+wir gehen nochmal die vier
+
+24
+00:00:49,210 --> 00:00:51,630
+Grundrechenarten durch. Wir
+
+25
+00:00:51,630 --> 00:00:52,790
+bezeichnen die jetzt eben auch als
+
+26
+00:00:52,790 --> 00:00:54,210
+Dezimalbrüche, dabei geht es jetzt
+
+27
+00:00:54,210 --> 00:00:55,910
+aber, wie wir gleich sehen werden,
+
+28
+00:00:56,010 --> 00:00:57,970
+weniger um die Bruchrechnung, sondern
+
+29
+00:00:57,970 --> 00:00:59,090
+eben darum, dass wir diese
+
+30
+00:00:59,090 --> 00:01:00,990
+Dezimalzahlen auf zwei verschiedene
+
+31
+00:01:00,990 --> 00:01:03,230
+Arten und Weisen darstellen können.
+
+32
+00:01:03,470 --> 00:01:05,650
+Also, erstmal zum Thema, was sind
+
+33
+00:01:05,650 --> 00:01:09,910
+Dezimalbrüche? Und zwar, diese
+
+34
+00:01:09,910 --> 00:01:11,850
+Zahlen, die können wir eben einmal in
+
+35
+00:01:11,850 --> 00:01:13,970
+der Kommaschreibweise darstellen. Das
+
+36
+00:01:13,970 --> 00:01:15,310
+bezeichnen wir dann auch einfach dann
+
+37
+00:01:15,310 --> 00:01:17,890
+oft als Dezimalzahlen. Wir haben also
+
+38
+00:01:17,890 --> 00:01:21,710
+hier als Beispiel die 0,5, 3,12, 0
+
+39
+00:01:21,710 --> 00:01:24,970
+,111111. Also wir haben immer ein
+
+40
+00:01:24,970 --> 00:01:27,430
+Komma, was links vor dem Komma steht.
+
+41
+00:01:27,510 --> 00:01:28,830
+Das sind die ganzen Zahlen, die wir
+
+42
+00:01:28,830 --> 00:01:30,670
+vorher schon kannten. Die Sachen, die
+
+43
+00:01:30,670 --> 00:01:31,870
+wir an den Fingern abzählen können
+
+44
+00:01:31,870 --> 00:01:34,230
+und so weiter. Und dann haben wir
+
+45
+00:01:34,230 --> 00:01:35,530
+eben diese Nachkommastellen bekommen.
+
+46
+00:01:36,530 --> 00:01:37,950
+Das ist eine Art und Weise eben
+
+47
+00:01:37,950 --> 00:01:39,730
+Dezimalzahlen darzustellen mit der
+
+48
+00:01:39,730 --> 00:01:42,430
+Kommaschreibweise. Die andere ist in
+
+49
+00:01:42,430 --> 00:01:44,370
+Form von Brüchen. Und was wir uns
+
+50
+00:01:44,370 --> 00:01:45,850
+heute besonders dabei angucken, sind
+
+51
+00:01:45,850 --> 00:01:48,110
+nicht alle möglichen Brüche, sondern
+
+52
+00:01:48,110 --> 00:01:50,010
+wir schauen uns besonders die Brüche
+
+53
+00:01:50,010 --> 00:01:52,870
+an, indem wir im Nenner, also in der
+
+54
+00:01:52,870 --> 00:01:55,330
+unteren Zahl, eine Zehnerpotenz
+
+55
+00:01:55,330 --> 00:01:57,250
+finden. Mit Zehnerpotenz ist ganz
+
+56
+00:01:57,250 --> 00:01:59,050
+einfach gemeint, dass wir dort immer
+
+57
+00:01:59,050 --> 00:02:01,530
+eine Eins und dann Nullen haben. Also
+
+58
+00:02:01,530 --> 00:02:02,990
+eine Zehn, eine Hundert, eine
+
+59
+00:02:02,990 --> 00:02:05,090
+Tausend, eine Zehntausend, immer eine
+
+60
+00:02:05,090 --> 00:02:07,210
+Eins mit einer gewissen Anzahl an
+
+61
+00:02:07,210 --> 00:02:08,950
+Nullen dahinter. Natürlich gibt es
+
+62
+00:02:08,950 --> 00:02:10,330
+noch Brüche, bei denen das nicht der
+
+63
+00:02:10,330 --> 00:02:12,150
+Fall ist. Generell sprechen wir auch
+
+64
+00:02:12,150 --> 00:02:13,330
+allgemein dann einfach nur von
+
+65
+00:02:13,330 --> 00:02:14,850
+Brüchen. Aber wenn wir von
+
+66
+00:02:14,850 --> 00:02:16,810
+Dezimalbrüchen sprechen, dann meinen
+
+67
+00:02:16,810 --> 00:02:18,730
+wir erstmal immer die, wo eben im
+
+68
+00:02:18,730 --> 00:02:20,870
+Nenner eine solche Zahl auftaucht.
+
+69
+00:02:21,230 --> 00:02:22,990
+Der Grund dahinter ist, dass wir dann
+
+70
+00:02:22,990 --> 00:02:24,890
+nämlich diese Umrechnung, die
+
+71
+00:02:24,890 --> 00:02:26,310
+Darstellung zwischen diesen beiden
+
+72
+00:02:26,310 --> 00:02:28,910
+Arten und Weisen, oder die Umrechnung
+
+73
+00:02:28,910 --> 00:02:30,390
+zwischen diesen beiden Darstellungen,
+
+74
+00:02:30,430 --> 00:02:33,810
+sehr einfach erledigen können. werden
+
+75
+00:02:33,810 --> 00:02:34,930
+wir sehen dass die vier gemeinsam
+
+76
+00:02:34,930 --> 00:02:36,190
+haben wenn
+
+77
+00:02:38,430 --> 00:02:40,470
+wir nun dezimalbrüche vergleichen
+
+78
+00:02:40,470 --> 00:02:42,550
+möchten dann müssen wir uns jetzt
+
+79
+00:02:42,550 --> 00:02:43,890
+generell anschauen okay wie machen
+
+80
+00:02:43,890 --> 00:02:44,970
+wir es in der einen schreibweise wir
+
+81
+00:02:44,970 --> 00:02:46,050
+machen es in der anderen schreibweise
+
+82
+00:02:46,050 --> 00:02:48,750
+und mit vergleichen meinen wir immer
+
+83
+00:02:48,750 --> 00:02:50,550
+dass wir fragen welche von beiden
+
+84
+00:02:50,550 --> 00:02:52,510
+zahlen ist größer oder kleiner oder
+
+85
+00:02:52,510 --> 00:02:53,890
+sind sie vielleicht auch beide gleich
+
+86
+00:02:53,890 --> 00:02:56,890
+bei der komma schreibweise gehen wir
+
+87
+00:02:56,890 --> 00:02:58,890
+dazu von links nach rechts die
+
+88
+00:02:58,890 --> 00:03:00,510
+einzelnen stellen der zahlen
+
+89
+00:03:00,510 --> 00:03:02,810
+miteinander durch die gleichen wir
+
+90
+00:03:02,810 --> 00:03:05,250
+uns einfach an ab welchem moment sind
+
+91
+00:03:05,250 --> 00:03:07,370
+die denn unterschiedlich und wenn die
+
+92
+00:03:07,370 --> 00:03:08,710
+unterschiedlich sind welche ist dann
+
+93
+00:03:08,710 --> 00:03:11,330
+größer oder welche ist kleiner wir
+
+94
+00:03:11,330 --> 00:03:12,550
+nehmen uns also diese beiden zahlen
+
+95
+00:03:12,550 --> 00:03:17,250
+hier die 0,5 334 und die 0,5 38 und
+
+96
+00:03:17,250 --> 00:03:18,530
+möchten die vergleichen dieses
+
+97
+00:03:18,530 --> 00:03:20,090
+kästchen was in der mitte ist das ist
+
+98
+00:03:20,090 --> 00:03:21,830
+gerade so ein platzhalter da möchten
+
+99
+00:03:21,830 --> 00:03:23,150
+wir gleich gerne ein zeichen
+
+100
+00:03:23,150 --> 00:03:25,110
+schreiben für das eine ist kleiner
+
+101
+00:03:25,110 --> 00:03:26,870
+als das andere oder ist es größer als
+
+102
+00:03:26,870 --> 00:03:28,670
+das andere oder vielleicht sind sie
+
+103
+00:03:28,670 --> 00:03:30,230
+auch gleich. Dazu müssen wir die eben
+
+104
+00:03:30,230 --> 00:03:32,570
+vergleichen. Ja, und wir gehen jetzt
+
+105
+00:03:32,570 --> 00:03:34,730
+Schritt für Schritt von links nach
+
+106
+00:03:34,730 --> 00:03:36,090
+rechts die einzelnen Ziffern durch.
+
+107
+00:03:36,470 --> 00:03:38,090
+Wir beginnen auch eigentlich bei der
+
+108
+00:03:38,090 --> 00:03:40,190
+0, die vor dem Komma steht. Ja, die
+
+109
+00:03:40,190 --> 00:03:41,170
+vergleichen wir natürlich auch,
+
+110
+00:03:41,290 --> 00:03:42,890
+stellen fest, dass es das Gleiche
+
+111
+00:03:42,890 --> 00:03:44,370
+ist. Okay, weiter geht's. Dann haben
+
+112
+00:03:44,370 --> 00:03:45,930
+wir das Komma. Dann kommt die erste
+
+113
+00:03:45,930 --> 00:03:47,470
+Zahl hinter dem Komma, die erste
+
+114
+00:03:47,470 --> 00:03:49,970
+Ziffer, die 5. Bei der rechten Zahl
+
+115
+00:03:49,970 --> 00:03:52,510
+haben wir auch eine 5. 5 und 5 sind
+
+116
+00:03:52,510 --> 00:03:54,590
+natürlich die gleiche Ziffer. Also
+
+117
+00:03:54,590 --> 00:03:55,490
+vergleichen wir mit der nächsten
+
+118
+00:03:55,490 --> 00:03:58,550
+Stelle. Die 3 und die nächste Stelle
+
+119
+00:03:58,550 --> 00:04:00,430
+hier ist auch eine 3. Die sind auch
+
+120
+00:04:00,430 --> 00:04:01,950
+gleich. Also machen wir mit der
+
+121
+00:04:01,950 --> 00:04:04,070
+nächsten Stelle weiter. Jetzt nehmen
+
+122
+00:04:04,070 --> 00:04:06,590
+wir diese 3. Und jetzt haben wir bei
+
+123
+00:04:06,590 --> 00:04:07,790
+rechts eine andere Ziffer an der
+
+124
+00:04:07,790 --> 00:04:08,990
+gleichen Stelle, nämlich nicht mehr
+
+125
+00:04:08,990 --> 00:04:11,850
+die 3, sondern die 8. Ja, und die
+
+126
+00:04:11,850 --> 00:04:13,030
+beiden können wir dann vergleichen.
+
+127
+00:04:13,030 --> 00:04:15,010
+Wir können direkt sagen, die 3 ist
+
+128
+00:04:15,010 --> 00:04:17,050
+kleiner als die 8. Wir schauen immer
+
+129
+00:04:17,050 --> 00:04:18,690
+von links nach rechts. Die linke Zahl
+
+130
+00:04:18,690 --> 00:04:21,170
+ist kleiner als die rechte Zahl. Als
+
+131
+00:04:21,170 --> 00:04:22,630
+Erinnerung, das Zeichen für kleiner
+
+132
+00:04:22,630 --> 00:04:24,730
+ist dann dieser, wir nennen es jetzt
+
+133
+00:04:24,730 --> 00:04:25,910
+mal so ein Pfeil, der nach links
+
+134
+00:04:25,910 --> 00:04:27,950
+zeigt. Als Eselsbrücke kann man sich
+
+135
+00:04:27,950 --> 00:04:29,850
+mal merken, die Spitze von diesem
+
+136
+00:04:29,850 --> 00:04:31,650
+Pfeil zeigt immer zur kleineren Zahl
+
+137
+00:04:31,650 --> 00:04:33,730
+hin. Deswegen heißt das hier 3 ist
+
+138
+00:04:33,730 --> 00:04:36,490
+kleiner als 8. Ja, und weil das gilt,
+
+139
+00:04:36,670 --> 00:04:38,650
+heißt das insgesamt auch für die
+
+140
+00:04:38,650 --> 00:04:41,150
+Zahlen als solche, dass die linke
+
+141
+00:04:41,150 --> 00:04:43,090
+Zahl kleiner ist als die rechte. Denn
+
+142
+00:04:43,090 --> 00:04:44,770
+wir haben Schritt für Schritt, Ziffer
+
+143
+00:04:44,770 --> 00:04:46,650
+für Ziffer verglichen, bis wir einen
+
+144
+00:04:46,650 --> 00:04:48,130
+Unterschied festgestellt haben an
+
+145
+00:04:48,130 --> 00:04:50,710
+einer Ziffer. Und dieser Unterschied,
+
+146
+00:04:50,870 --> 00:04:51,930
+wenn der eine größer, der andere
+
+147
+00:04:51,930 --> 00:04:53,550
+kleiner ist, der überträgt sich dann
+
+148
+00:04:53,550 --> 00:04:57,640
+auf die ganze Zahl. Ja, das heißt
+
+149
+00:04:57,640 --> 00:04:59,100
+auch, dann spielt es auch keine Rolle
+
+150
+00:04:59,100 --> 00:05:00,360
+mehr, was dann dahinter kommt. Wir
+
+151
+00:05:00,360 --> 00:05:01,640
+sehen, hier wäre noch eine Ziffer,
+
+152
+00:05:01,700 --> 00:05:02,840
+hier wäre zum Beispiel noch die 4,
+
+153
+00:05:02,960 --> 00:05:04,200
+die Zahlen könnten insgesamt noch
+
+154
+00:05:04,200 --> 00:05:05,920
+viel länger sein. In dem Moment, wo
+
+155
+00:05:05,920 --> 00:05:06,880
+wir eine Ziffer finden, die
+
+156
+00:05:06,880 --> 00:05:08,480
+unterschiedlich ist, können wir das
+
+157
+00:05:08,480 --> 00:05:10,280
+Ganze abbrechen und sagen, okay, wenn
+
+158
+00:05:10,280 --> 00:05:11,460
+die eine Ziffer kleiner ist als die
+
+159
+00:05:11,460 --> 00:05:12,920
+andere, dann gilt das auch für die
+
+160
+00:05:12,920 --> 00:05:13,960
+Zahlen insgesamt.
+
+161
+00:05:20,170 --> 00:05:21,970
+Bei der Bruchschreibweise, da gilt im
+
+162
+00:05:21,970 --> 00:05:23,510
+Grunde das Gleiche wie bei Brüchen
+
+163
+00:05:23,510 --> 00:05:25,630
+auch allgemein. Damit wir die Brüche
+
+164
+00:05:25,630 --> 00:05:27,570
+vergleichen können, müssen wir sie
+
+165
+00:05:27,570 --> 00:05:29,890
+auf den gleichen Nenner bringen, um
+
+166
+00:05:29,890 --> 00:05:31,770
+dann die Zähler zu vergleichen. Also
+
+167
+00:05:31,770 --> 00:05:33,210
+müssen wir erweitern, eventuell
+
+168
+00:05:33,210 --> 00:05:34,590
+kürzen, aber in den meisten Fällen
+
+169
+00:05:34,590 --> 00:05:37,010
+erweitert man, um die Brüche auf den
+
+170
+00:05:37,010 --> 00:05:38,310
+gleichen Nenner zu bringen. So, jetzt
+
+171
+00:05:38,310 --> 00:05:39,150
+haben wir es eben mit diesen
+
+172
+00:05:39,150 --> 00:05:41,270
+Zehnerpotenzen im Nenner zu tun, was
+
+173
+00:05:41,270 --> 00:05:42,350
+das Ganze ein kleines bisschen
+
+174
+00:05:42,350 --> 00:05:44,350
+einfacher macht. Denn hier möchten
+
+175
+00:05:44,350 --> 00:05:47,170
+wir vergleichen die beiden Brüche 3
+
+176
+00:05:47,170 --> 00:05:52,330
+Zehntel und 33 Hundertstel. Und wir
+
+177
+00:05:52,330 --> 00:05:53,830
+müssen jetzt gar nicht lange nach
+
+178
+00:05:53,830 --> 00:05:56,050
+einem kleinsten gemeinsamen Nenner
+
+179
+00:05:56,050 --> 00:05:57,710
+suchen, was man ja normalerweise
+
+180
+00:05:57,710 --> 00:05:58,830
+dadurch macht, dass man ja beide
+
+181
+00:05:58,830 --> 00:06:01,850
+Zahlenreihen aufschreibt oder andere
+
+182
+00:06:01,850 --> 00:06:03,530
+Berechnungen dazu erledigt. Bei den
+
+183
+00:06:03,530 --> 00:06:04,690
+Zehnerpotenzen geht es ein bisschen
+
+184
+00:06:04,690 --> 00:06:05,990
+einfacher. Wir müssen uns überlegen,
+
+185
+00:06:06,050 --> 00:06:07,690
+wir haben hier links eine 10, wir
+
+186
+00:06:07,690 --> 00:06:09,110
+haben hier rechts eine 100. Das
+
+187
+00:06:09,110 --> 00:06:10,410
+heißt, wir möchten hier links im
+
+188
+00:06:10,410 --> 00:06:12,730
+Nenner noch eine 0 hinzufügen. Dann
+
+189
+00:06:12,730 --> 00:06:14,770
+haben wir bei beiden eine 100 im
+
+190
+00:06:14,770 --> 00:06:16,510
+Nenner. Und das bedeutet
+
+191
+00:06:16,510 --> 00:06:18,110
+letztendlich, ich muss den linken
+
+192
+00:06:18,110 --> 00:06:20,470
+Bruch mit 10 erweitern. Also den
+
+193
+00:06:20,470 --> 00:06:22,150
+Zähler mal 10 rechnen und den Nenner
+
+194
+00:06:22,150 --> 00:06:24,190
+mal 10. Denn, bleiben wir mal im
+
+195
+00:06:24,190 --> 00:06:26,410
+Nenner, 10 mal 10 ist 100. Wir haben
+
+196
+00:06:26,410 --> 00:06:29,330
+eine 0 drangehangen. Und im Zähler 3
+
+197
+00:06:29,330 --> 00:06:31,310
+mal 10 ist 30. Wir haben auch nur
+
+198
+00:06:31,310 --> 00:06:32,990
+eine 0 dran gehangen. Und
+
+199
+00:06:32,990 --> 00:06:34,070
+letztendlich ist auch das, dass was
+
+200
+00:06:34,070 --> 00:06:35,870
+passiert. Wir hängen einfach so lange
+
+201
+00:06:35,870 --> 00:06:37,230
+immer im Zähler und im Nenner Nullen
+
+202
+00:06:37,230 --> 00:06:38,670
+dran, bis beide Nenner gleich sind.
+
+203
+00:06:39,470 --> 00:06:40,990
+Also man muss sich das gar nicht
+
+204
+00:06:40,990 --> 00:06:42,370
+überlegen mit dem ich muss mal 10
+
+205
+00:06:42,370 --> 00:06:43,390
+nehmen, sondern man kann sich direkt
+
+206
+00:06:43,390 --> 00:06:45,150
+überlegen, ich hänge im Zähler und im
+
+207
+00:06:45,150 --> 00:06:46,590
+Nenner Nullen dran, so lange bis
+
+208
+00:06:46,590 --> 00:06:48,610
+beide Brüche gleich viele Nullen im
+
+209
+00:06:48,610 --> 00:06:51,230
+Nenner haben. So, jetzt haben wir
+
+210
+00:06:51,230 --> 00:06:53,630
+also festgestellt, der linke Bruch, 3
+
+211
+00:06:53,630 --> 00:06:55,890
+Zehntel, ist genau das gleiche wie 30
+
+212
+00:06:55,890 --> 00:06:58,010
+Hundertstel und die können wir jetzt
+
+213
+00:06:58,010 --> 00:07:00,210
+vergleichen. 30 Hundertstel und 33
+
+214
+00:07:00,210 --> 00:07:02,210
+Hundertstel. Dazu schauen wir uns
+
+215
+00:07:02,210 --> 00:07:04,110
+nämlich nur noch die Zähler an. 30
+
+216
+00:07:04,110 --> 00:07:08,070
+ist kleiner als 33, also muss auch
+
+217
+00:07:08,070 --> 00:07:09,710
+die linke Zahl oder der linke Bruch
+
+218
+00:07:09,710 --> 00:07:10,990
+kleiner als der rechte Bruch sein.
+
+219
+00:07:11,150 --> 00:07:13,950
+Ja, denn 3 Zehntel und 30 Hundertstel
+
+220
+00:07:13,950 --> 00:07:16,770
+sind das gleiche. 30 ist kleiner als
+
+221
+00:07:16,770 --> 00:07:19,490
+33 und damit gilt insgesamt ist auch
+
+222
+00:07:19,490 --> 00:07:21,310
+hier der linke Bruch kleiner als der
+
+223
+00:07:21,310 --> 00:07:21,830
+rechte Bruch.
+
+224
+00:07:25,750 --> 00:07:27,430
+Also generell alles was man von
+
+225
+00:07:27,430 --> 00:07:28,950
+Brüchen kennt überträgt sich auch auf
+
+226
+00:07:28,950 --> 00:07:30,930
+Dezimalbrüche, nur dass es oft ein
+
+227
+00:07:30,930 --> 00:07:32,470
+kleines bisschen einfacher ist, weil
+
+228
+00:07:32,470 --> 00:07:33,810
+die Nenner eben immer diese Zahlen
+
+229
+00:07:33,810 --> 00:07:36,330
+sind mit 10, 100, 1000, 10.000 und so
+
+230
+00:07:36,330 --> 00:07:36,550
+weiter.
+
+231
+00:07:42,200 --> 00:07:44,000
+Jetzt kommen wir zu der Umwandlung.
+
+232
+00:07:44,100 --> 00:07:45,760
+Wie kommen wir denn von der Komma
+
+233
+00:07:45,760 --> 00:07:47,120
+-Schreibweise zur Bruchschreibweise
+
+234
+00:07:47,120 --> 00:07:49,980
+und nachher auch umgekehrt? Wir
+
+235
+00:07:49,980 --> 00:07:51,060
+schauen uns das an einem Beispiel an
+
+236
+00:07:51,060 --> 00:07:53,400
+mit der Zahl 0,283.
+
+237
+00:07:56,150 --> 00:07:57,650
+Und der erste Schritt, den wir
+
+238
+00:07:57,650 --> 00:07:59,630
+machen, ist, wir zählen die Anzahl
+
+239
+00:07:59,630 --> 00:08:01,470
+von Stellen nach dem Komma oder eben
+
+240
+00:08:01,470 --> 00:08:02,930
+die Anzahl der Ziffern nach dem
+
+241
+00:08:02,930 --> 00:08:04,890
+Komma, also rechts davon. davon, da
+
+242
+00:08:04,890 --> 00:08:06,470
+zählen wir in unserer Zahl drei
+
+243
+00:08:06,470 --> 00:08:08,150
+Stellen. Zwei, die acht und die drei
+
+244
+00:08:08,150 --> 00:08:09,910
+sind insgesamt drei Stellen nach dem
+
+245
+00:08:09,910 --> 00:08:11,050
+Komma. Das wird nachher nochmal
+
+246
+00:08:11,050 --> 00:08:11,330
+wichtig.
+
+247
+00:08:14,310 --> 00:08:16,610
+Und zwar möchten wir jetzt gleich
+
+248
+00:08:16,610 --> 00:08:18,790
+einen Bruch zusammenbauen, der die
+
+249
+00:08:18,790 --> 00:08:21,550
+gleiche Wertigkeit hat wie 0,283 und
+
+250
+00:08:21,550 --> 00:08:22,970
+wir wissen ja jetzt schon, im Nenner
+
+251
+00:08:22,970 --> 00:08:24,110
+von diesem Bruch wird diese
+
+252
+00:08:24,110 --> 00:08:25,990
+Zehnerpotenz stehen. Eine 10, eine
+
+253
+00:08:25,990 --> 00:08:28,530
+100, eine 1000 und so weiter. Wir
+
+254
+00:08:28,530 --> 00:08:29,690
+müssen herausfinden, was für eine
+
+255
+00:08:29,690 --> 00:08:31,730
+Zehnerpotenz dahin kommt und dafür
+
+256
+00:08:31,730 --> 00:08:33,690
+haben wir eben diese drei Stellen
+
+257
+00:08:33,690 --> 00:08:36,170
+gezählt. Denn wir schreiben genau so
+
+258
+00:08:36,170 --> 00:08:38,630
+viele Nullen nach der 1, wie wir
+
+259
+00:08:38,630 --> 00:08:40,170
+Stellen gezählt haben. Heißt in
+
+260
+00:08:40,170 --> 00:08:42,190
+unserem Fall, der Dezimalbruch, den
+
+261
+00:08:42,190 --> 00:08:44,250
+wir bilden, der hat im Nenner eine
+
+262
+00:08:44,250 --> 00:08:46,210
+Zahl, die beginnt mit einer 1 und hat
+
+263
+00:08:46,210 --> 00:08:48,390
+dann drei Nullen. Also wir brauchen
+
+264
+00:08:48,390 --> 00:08:50,110
+gleich eine 1000 im Nenner.
+
+265
+00:08:56,110 --> 00:08:57,730
+Was auf dem Bruchstich drauf kommt,
+
+266
+00:08:57,830 --> 00:09:00,110
+also im Zähler, das sind dann ganz
+
+267
+00:09:00,110 --> 00:09:01,730
+einfach die Ziffern, die wir hier
+
+268
+00:09:01,730 --> 00:09:03,910
+gezählt haben. Wir haben gerade
+
+269
+00:09:03,910 --> 00:09:05,230
+gezählt, aber wir schreiben jetzt
+
+270
+00:09:05,230 --> 00:09:06,190
+nicht die 3 rein, sondern wir
+
+271
+00:09:06,190 --> 00:09:07,450
+schreiben wirklich diese Ziffern hin.
+
+272
+00:09:07,510 --> 00:09:10,270
+Also die 2, die 8 und die 3, was dann
+
+273
+00:09:10,270 --> 00:09:11,650
+ja als Zahl ausgesprochen ganz
+
+274
+00:09:11,650 --> 00:09:16,590
+einfach die 283 wäre. Und den Nenner,
+
+275
+00:09:16,610 --> 00:09:17,570
+den haben wir schon bestimmt, das
+
+276
+00:09:17,570 --> 00:09:18,130
+heißt, das können wir jetzt
+
+277
+00:09:18,130 --> 00:09:19,070
+eigentlich schon zusammenfassen in
+
+278
+00:09:19,070 --> 00:09:21,170
+einen Schritt. Wir haben also durch
+
+279
+00:09:21,170 --> 00:09:23,670
+das Zählen der Stellen festgestellt,
+
+280
+00:09:23,670 --> 00:09:25,550
+wir brauchen im Nenner eine 1000. Die
+
+281
+00:09:25,550 --> 00:09:27,250
+1000 hat drei Nullen und unsere Zahl
+
+282
+00:09:27,250 --> 00:09:29,650
+hat drei Nachkommastellen. Und im
+
+283
+00:09:29,650 --> 00:09:30,790
+Zähler schreiben wir dann einfach
+
+284
+00:09:30,790 --> 00:09:32,530
+diese Zahl so hin, als hätte die kein
+
+285
+00:09:32,530 --> 00:09:33,830
+Komma und natürlich können wir dann
+
+286
+00:09:33,830 --> 00:09:35,890
+auch die Null uns vorne sparen. Und
+
+287
+00:09:35,890 --> 00:09:37,850
+wir erhalten einfach die 283
+
+288
+00:09:37,850 --> 00:09:40,750
+Tausendste. Denn das ist ja auch das,
+
+289
+00:09:40,790 --> 00:09:42,530
+was diese Zahl hier ist. Wir haben
+
+290
+00:09:42,530 --> 00:09:43,950
+die erste Nachkommastelle, das sind
+
+291
+00:09:43,950 --> 00:09:45,990
+die Zehntel. Die nächste sind die
+
+292
+00:09:45,990 --> 00:09:47,870
+Hundertstel und dann sind es die
+
+293
+00:09:47,870 --> 00:09:49,350
+Tausendstel. Das heißt, wenn wir das
+
+294
+00:09:49,350 --> 00:09:51,630
+von dieser Tausendstelstelle an uns
+
+295
+00:09:51,630 --> 00:09:54,710
+betrachten, dann sind das eben 283
+
+296
+00:09:54,710 --> 00:09:57,410
+Tausendstel. Das ist nämlich auch
+
+297
+00:09:57,410 --> 00:09:59,450
+etwas, was man zum Beispiel beim
+
+298
+00:09:59,450 --> 00:10:02,070
+Sport in der Stoppuhrzeit misst, wo
+
+299
+00:10:02,070 --> 00:10:03,130
+man es in Hundertstel oder auch
+
+300
+00:10:03,130 --> 00:10:06,010
+Tausendstelsekunden misst. Und da
+
+301
+00:10:06,010 --> 00:10:07,270
+wird das ja dann auch so angezeigt,
+
+302
+00:10:07,290 --> 00:10:09,210
+dass man sagt, wir haben 10 Sekunden
+
+303
+00:10:09,210 --> 00:10:12,930
+und 283 tausendstel Sekunden. Das
+
+304
+00:10:12,930 --> 00:10:14,450
+kann man dann eben auch mit so einer
+
+305
+00:10:14,450 --> 00:10:16,550
+Dezimalzahl angeben oder mit dem
+
+306
+00:10:16,550 --> 00:10:18,570
+Bruch. Letztendlich bedeutet beides
+
+307
+00:10:18,570 --> 00:10:19,150
+das Gleiche.
+
+308
+00:10:25,010 --> 00:10:26,390
+Jetzt schauen wir uns die umgekehrte
+
+309
+00:10:26,390 --> 00:10:27,970
+Reihenfolge an. Und dann machen wir
+
+310
+00:10:27,970 --> 00:10:29,850
+direkt den Schritt zu einem Bruch,
+
+311
+00:10:29,850 --> 00:10:32,670
+der erstmal nicht dieser Vorstellung
+
+312
+00:10:32,670 --> 00:10:34,530
+von Dezimalbruch entspricht, die wir
+
+313
+00:10:34,530 --> 00:10:36,130
+vorhin gelernt haben. Wir sehen, wir
+
+314
+00:10:36,130 --> 00:10:38,090
+haben hier im Nenner keine Potenz von
+
+315
+00:10:38,090 --> 00:10:41,270
+10, aber das ist kein Problem, wir
+
+316
+00:10:41,270 --> 00:10:42,390
+bringen die gleich einfach auf eine
+
+317
+00:10:42,390 --> 00:10:43,810
+solche 10er Potenz, das würden wir
+
+318
+00:10:43,810 --> 00:10:45,870
+sowieso machen und dann können wir
+
+319
+00:10:45,870 --> 00:10:48,330
+das eben auch schnell umwandeln. Da
+
+320
+00:10:48,330 --> 00:10:49,590
+machen wir ruhig jetzt einen extra
+
+321
+00:10:49,590 --> 00:10:51,150
+Schritt, damit wir eben noch den
+
+322
+00:10:51,150 --> 00:10:53,030
+etwas allgemeineren Fall mit
+
+323
+00:10:53,030 --> 00:10:54,390
+reinnehmen, aber wir sehen gleich, ab
+
+324
+00:10:54,390 --> 00:10:55,690
+dem zweiten Schritt ist das Ganze
+
+325
+00:10:55,690 --> 00:10:57,750
+sowieso wieder das gleiche. Und zwar
+
+326
+00:10:57,750 --> 00:10:59,530
+ist die Idee, wir erweitern den Bruch
+
+327
+00:10:59,530 --> 00:11:01,150
+oder kürzen ihn, je nachdem was in
+
+328
+00:11:01,150 --> 00:11:03,710
+der Situation gerade passt, so dass
+
+329
+00:11:03,710 --> 00:11:05,690
+eben im Nenner eine 10, eine 100,
+
+330
+00:11:05,750 --> 00:11:07,690
+eine 1000 oder etwas Passenderes
+
+331
+00:11:07,690 --> 00:11:11,310
+entsteht. In unserem Fall haben wir
+
+332
+00:11:11,310 --> 00:11:13,230
+die 25 im Nenner. Da muss man sich
+
+333
+00:11:13,230 --> 00:11:14,810
+überlegen, wie kann ich von der 25
+
+334
+00:11:14,810 --> 00:11:17,390
+auf die nächstmögliche Zehnerpotenz
+
+335
+00:11:17,390 --> 00:11:18,930
+kommen? Ja, dann geht man eben die
+
+336
+00:11:18,930 --> 00:11:21,970
+25er Reihe durch und findet da aber
+
+337
+00:11:21,970 --> 00:11:24,970
+relativ zügig die 100. 100. Denn 25
+
+338
+00:11:24,970 --> 00:11:29,610
+mal 4 sind 100. Das bedeutet nun
+
+339
+00:11:29,610 --> 00:11:31,010
+also, wir können diesen Bruch mit 4
+
+340
+00:11:31,010 --> 00:11:33,150
+erweitern. Im Zähler rechnen wir 6
+
+341
+00:11:33,150 --> 00:11:35,310
+mal 4, das ist 24. Im Nenner rechnen
+
+342
+00:11:35,310 --> 00:11:37,290
+wir 25 mal 4, das ist die 100. Das
+
+343
+00:11:37,290 --> 00:11:38,390
+ist die Zahl, die wir haben wollten.
+
+344
+00:11:38,710 --> 00:11:39,830
+Und jetzt haben wir schon mal den
+
+345
+00:11:39,830 --> 00:11:42,270
+Dezimalbruch. Also, wenn wir
+
+346
+00:11:42,270 --> 00:11:43,490
+natürlich direkt mit dem Dezimalbruch
+
+347
+00:11:43,490 --> 00:11:44,830
+anfangen, dann müssen wir das nicht
+
+348
+00:11:44,830 --> 00:11:45,970
+machen. Aber jetzt sieht man auch,
+
+349
+00:11:46,010 --> 00:11:46,970
+man kann das auch mit einem anderen
+
+350
+00:11:46,970 --> 00:11:48,650
+Bruch erledigen, dass man den auf
+
+351
+00:11:48,650 --> 00:11:49,910
+eine solche Zehnerpotenz bringt.
+
+352
+00:11:52,880 --> 00:11:54,220
+Was wir jetzt tun, ist, wir schreiben
+
+353
+00:11:54,220 --> 00:11:56,180
+jetzt die Zahl im Zähler erstmal auf,
+
+354
+00:11:56,300 --> 00:11:58,680
+also einzeln. Wir ziehen den erstmal
+
+355
+00:11:58,680 --> 00:12:00,320
+raus. Der Zähler ist die Zahl 24.
+
+356
+00:12:01,000 --> 00:12:02,360
+Aber wir wissen, da müssen wir jetzt
+
+357
+00:12:02,360 --> 00:12:03,760
+noch ein Komma setzen. Die Frage ist
+
+358
+00:12:03,760 --> 00:12:08,710
+ja nur, wo muss das Komma hin? Und
+
+359
+00:12:08,710 --> 00:12:11,030
+wir stellen uns vor, wir achten mal
+
+360
+00:12:11,030 --> 00:12:12,910
+darauf, steht nicht nur die 24, hier
+
+361
+00:12:12,910 --> 00:12:14,550
+steht sozusagen auch sogar schon ein
+
+362
+00:12:14,550 --> 00:12:16,410
+Komma dahinter. Wir tun jetzt erstmal
+
+363
+00:12:16,410 --> 00:12:17,790
+so, als wenn wir diese 24 da
+
+364
+00:12:17,790 --> 00:12:19,830
+rausnehmen und wenn die 24 ein Komma
+
+365
+00:12:19,830 --> 00:12:21,510
+hätte, dann würde es dahinter stehen.
+
+366
+00:12:21,650 --> 00:12:23,990
+Dann wäre das 24,0 im Grunde
+
+367
+00:12:23,990 --> 00:12:26,690
+genommen. Jetzt müssen wir dieses
+
+368
+00:12:26,690 --> 00:12:28,690
+Komma aber verschieben. Und zwar
+
+369
+00:12:28,690 --> 00:12:31,390
+verschieben wir es nach links, um so
+
+370
+00:12:31,390 --> 00:12:34,150
+viele Stellen, wie wir Nullen hier im
+
+371
+00:12:34,150 --> 00:12:35,630
+Nenner haben. Wir haben im Nenner
+
+372
+00:12:35,630 --> 00:12:37,970
+zwei Nullen von der 100. Das
+
+373
+00:12:37,970 --> 00:12:39,290
+bedeutet, wir müssen dieses Komma,
+
+374
+00:12:39,290 --> 00:12:41,270
+was hinter der Zahl steht, jetzt
+
+375
+00:12:41,270 --> 00:12:43,630
+zweimal nach links schieben. Wenn wir
+
+376
+00:12:43,630 --> 00:12:44,890
+es einmal nach links schieben, steht
+
+377
+00:12:44,890 --> 00:12:46,530
+es zwischen der 2 und der 4, dann
+
+378
+00:12:46,530 --> 00:12:49,210
+wäre das 2,4. Und wenn wir es nochmal
+
+379
+00:12:49,210 --> 00:12:51,050
+verschieben, dann haben wir
+
+380
+00:12:51,050 --> 00:12:53,970
+eigentlich Komma 2,4. Wir können aber
+
+381
+00:12:53,970 --> 00:12:55,010
+so ein Komma nicht alleine stehen
+
+382
+00:12:55,010 --> 00:12:56,290
+lassen, deswegen würden wir dann
+
+383
+00:12:56,290 --> 00:12:57,430
+davor natürlich noch die 0
+
+384
+00:12:57,430 --> 00:13:00,150
+hinzufügen. Also wenn wir von der 24
+
+385
+00:13:00,150 --> 00:13:02,470
+aus das Komma um zwei Stellen nach
+
+386
+00:13:02,470 --> 00:13:04,290
+links verschieben, dann steht es vor
+
+387
+00:13:04,290 --> 00:13:06,930
+der 2 und der 4 und dann fügen wir
+
+388
+00:13:06,930 --> 00:13:09,470
+natürlich noch die 0 hinzu. Und dann
+
+389
+00:13:09,470 --> 00:13:13,800
+haben wir die 0,24 erhalten. So
+
+390
+00:13:13,800 --> 00:13:14,460
+schnell wollte ich das nicht
+
+391
+00:13:14,460 --> 00:13:15,920
+wegmachen. Kurz stehen lassen.
+
+392
+00:13:22,720 --> 00:13:25,700
+Also die Idee ist dann, wir können
+
+393
+00:13:25,700 --> 00:13:27,580
+das versuchen auf so eine 10er oder
+
+394
+00:13:27,580 --> 00:13:30,240
+100er Potenz umzuwandeln, wenn
+
+395
+00:13:30,240 --> 00:13:32,300
+möglich. Aber die eigentlichen
+
+396
+00:13:32,300 --> 00:13:33,160
+interessanten Schritte, die dann
+
+397
+00:13:33,160 --> 00:13:34,600
+passieren, sind eben, Wir schreiben
+
+398
+00:13:34,600 --> 00:13:35,940
+uns den Zähler auf und verschieben
+
+399
+00:13:35,940 --> 00:13:37,300
+dann das Komma, was erstmal immer
+
+400
+00:13:37,300 --> 00:13:39,460
+dahinter startet, um so viele Stellen
+
+401
+00:13:39,460 --> 00:13:40,860
+nach links, wie wir im Nenner auch
+
+402
+00:13:40,860 --> 00:13:43,620
+Nullen haben. Jetzt gibt es natürlich
+
+403
+00:13:43,620 --> 00:13:45,000
+manche Brüche, die lassen sich nicht
+
+404
+00:13:45,000 --> 00:13:46,460
+so einfach auf eine Zehnerpotenz
+
+405
+00:13:46,460 --> 00:13:48,240
+bringen. Da gibt es natürlich immer
+
+406
+00:13:48,240 --> 00:13:49,520
+noch die andere Strategie, die wir
+
+407
+00:13:49,520 --> 00:13:51,400
+dann in unserem Webinar zum Thema
+
+408
+00:13:51,400 --> 00:13:52,620
+Bruchrechnung allgemein nochmal
+
+409
+00:13:52,620 --> 00:13:54,280
+aufbringen, wo man dann die
+
+410
+00:13:54,280 --> 00:13:55,880
+klassische schriftliche Division
+
+411
+00:13:55,880 --> 00:13:57,400
+durchführt, wo man einfach dann
+
+412
+00:13:57,400 --> 00:13:59,120
+hingeht und sagt, ich teile die 6
+
+413
+00:13:59,120 --> 00:14:01,760
+durch die 25 und füttere die
+
+414
+00:14:01,760 --> 00:14:03,440
+schriftliche Division aus. Heute geht
+
+415
+00:14:03,440 --> 00:14:04,680
+es aber vor allem um Dezimalbrüche
+
+416
+00:14:04,680 --> 00:14:05,820
+und bei denen würde man ja in der
+
+417
+00:14:05,820 --> 00:14:07,940
+Regel hier schon anfangen, bei den 24
+
+418
+00:14:07,940 --> 00:14:09,760
+Hundertsteln, da hat man es gesehen,
+
+419
+00:14:09,940 --> 00:14:11,280
+das kann man ganz einfach mit einer
+
+420
+00:14:11,280 --> 00:14:12,300
+Komma-Verschiebung lösen.
+
+421
+00:14:16,930 --> 00:14:18,490
+So, dann machen wir weiter mit der
+
+422
+00:14:18,490 --> 00:14:19,950
+Addition und der Subtraktion.
+
+423
+00:14:19,950 --> 00:14:23,200
+Subtraktionen. Was wir schon wissen
+
+424
+00:14:23,200 --> 00:14:25,300
+ist, wie man die generelle
+
+425
+00:14:25,300 --> 00:14:27,120
+schriftliche Addition oder auch die
+
+426
+00:14:27,120 --> 00:14:28,920
+schriftliche Subtraktion durchführt.
+
+427
+00:14:29,020 --> 00:14:30,560
+Hier rechts sehen wir so ein kurzes
+
+428
+00:14:30,560 --> 00:14:31,740
+Beispiel. Man schreibt die Zahlen
+
+429
+00:14:31,740 --> 00:14:33,880
+übereinander, geht dann von Stelle zu
+
+430
+00:14:33,880 --> 00:14:36,040
+Stelle vor, von rechts nach links und
+
+431
+00:14:36,040 --> 00:14:38,020
+addiert oder subtrahiert entsprechend
+
+432
+00:14:38,020 --> 00:14:39,840
+die Zahlen. Dabei kommt es ja immer
+
+433
+00:14:39,840 --> 00:14:41,300
+mal vor, dass man die einen im Sinn
+
+434
+00:14:41,300 --> 00:14:44,080
+nehmen muss, aber generell die
+
+435
+00:14:44,080 --> 00:14:47,900
+Rechnung, die schriftliche Addition,
+
+436
+00:14:47,920 --> 00:14:48,880
+die schriftliche Subtraktion, die
+
+437
+00:14:48,880 --> 00:14:50,280
+kennen wir ja. Jetzt ist natürlich
+
+438
+00:14:50,280 --> 00:14:52,600
+nur die Frage, wie macht man das bei
+
+439
+00:14:52,600 --> 00:14:56,240
+Dezimalbrüchen? Im Grunde macht man
+
+440
+00:14:56,240 --> 00:14:57,780
+es genauso. Man muss nur darauf
+
+441
+00:14:57,780 --> 00:14:58,900
+achten, dass man die Zahlen auch
+
+442
+00:14:58,900 --> 00:15:00,260
+richtig untereinander schreibt und
+
+443
+00:15:00,260 --> 00:15:01,200
+dabei ist das Komma eben
+
+444
+00:15:01,200 --> 00:15:02,940
+entscheidend. Man schreibt die Zahlen
+
+445
+00:15:02,940 --> 00:15:04,860
+immer so untereinander, dass das
+
+446
+00:15:04,860 --> 00:15:06,380
+Komma auch jeweils untereinander
+
+447
+00:15:06,380 --> 00:15:08,180
+steht. Denn dadurch stehen dann die
+
+448
+00:15:08,180 --> 00:15:09,500
+Einer unter Einern, Zehner unter
+
+449
+00:15:09,500 --> 00:15:12,300
+Zehnern, die Zehntel unter Zehnteln,
+
+450
+00:15:12,300 --> 00:15:13,560
+die Hundertstel unter Hundertstel und
+
+451
+00:15:13,560 --> 00:15:15,280
+so weiter. Also da gilt das gleiche
+
+452
+00:15:15,280 --> 00:15:16,920
+Prinzip, nur dass wir uns sozusagen,
+
+453
+00:15:17,140 --> 00:15:18,060
+wenn wir das wie eine Tabelle
+
+454
+00:15:18,060 --> 00:15:19,660
+aufschreiben, eine extra Spalte haben
+
+455
+00:15:19,660 --> 00:15:21,540
+für das Komma. Wir haben hier die
+
+456
+00:15:21,540 --> 00:15:24,580
+Zahl 0,48 und wir haben die Zahl 12
+
+457
+00:15:24,580 --> 00:15:27,860
+,099. Und wenn wir die addieren oder
+
+458
+00:15:27,860 --> 00:15:29,480
+auch subtrahieren möchten, dann
+
+459
+00:15:29,480 --> 00:15:30,500
+müssen wir die eben so untereinander
+
+460
+00:15:30,500 --> 00:15:31,560
+schreiben, dass das Komma
+
+461
+00:15:31,560 --> 00:15:33,040
+untereinander steht und alle anderen
+
+462
+00:15:33,040 --> 00:15:34,960
+Zahlen stimmen dann automatisch von
+
+463
+00:15:34,960 --> 00:15:36,760
+ihrem Platz her auch überein. Ja, da
+
+464
+00:15:36,760 --> 00:15:37,800
+muss man es einfach nur gründlich
+
+465
+00:15:37,800 --> 00:15:40,360
+aufschreiben. Und generell gilt
+
+466
+00:15:40,360 --> 00:15:41,780
+natürlich auch hier wieder, wenn dann
+
+467
+00:15:41,780 --> 00:15:43,360
+eine Stelle freigeblieben ist, dann
+
+468
+00:15:43,360 --> 00:15:44,800
+kann man da auch eine 0 hinschreiben
+
+469
+00:15:44,800 --> 00:15:47,920
+oder sich eine 0 dazu denken und dann
+
+470
+00:15:47,920 --> 00:15:49,120
+wie immer von rechts nach links
+
+471
+00:15:49,120 --> 00:15:51,180
+losrechnen. Ja, wir überlegen uns, 0
+
+472
+00:15:51,180 --> 00:15:53,460
+plus die 9 ist dann die 9, dann
+
+473
+00:15:53,460 --> 00:15:54,200
+machen wir an der nächsten Stelle
+
+474
+00:15:54,200 --> 00:15:57,440
+weiter. Die 8 plus die 9 ist an sich
+
+475
+00:15:57,440 --> 00:15:59,260
+die 17, also schreiben wir eine 7
+
+476
+00:15:59,260 --> 00:16:01,200
+hin, 1 im Sinn. Hier sollte noch eine
+
+477
+00:16:01,200 --> 00:16:02,560
+1 in klein natürlich dann
+
+478
+00:16:02,560 --> 00:16:04,360
+hingeschrieben werden. Hier plus
+
+479
+00:16:04,360 --> 00:16:06,780
+diese 1 im Sinn ist die 5 und so
+
+480
+00:16:06,780 --> 00:16:08,380
+weiter. Jetzt trägt man das Ganze
+
+481
+00:16:08,380 --> 00:16:09,940
+dann nach links vor. Und das Komma
+
+482
+00:16:09,940 --> 00:16:11,420
+ist dann einfach ein Zeichen, was man
+
+483
+00:16:11,420 --> 00:16:12,540
+dann entsprechend an der gleichen
+
+484
+00:16:12,540 --> 00:16:14,840
+Stelle natürlich wieder setzt. Heißt
+
+485
+00:16:14,840 --> 00:16:16,880
+also, die schriftliche Addition und
+
+486
+00:16:16,880 --> 00:16:18,080
+die schriftliche Subtraktion, die
+
+487
+00:16:18,080 --> 00:16:19,240
+funktionieren genauso auch bei
+
+488
+00:16:19,240 --> 00:16:20,820
+Dezimalbrüchen. Man muss es nur
+
+489
+00:16:20,820 --> 00:16:22,020
+ordentlich hinschreiben, sodass das
+
+490
+00:16:22,020 --> 00:16:23,000
+Komma untereinander steht.
+
+491
+00:16:26,800 --> 00:16:28,760
+Das ist wirklich das Allerwichtigste
+
+492
+00:16:28,760 --> 00:16:28,940
+dabei.
+
+493
+00:16:34,670 --> 00:16:36,450
+Die Multiplikation, die kennen wir
+
+494
+00:16:36,450 --> 00:16:37,590
+auch schon in ihrer schriftlichen
+
+495
+00:16:37,590 --> 00:16:38,750
+Variante, die schriftliche
+
+496
+00:16:38,750 --> 00:16:40,530
+Multiplikation, bei der wir dann
+
+497
+00:16:40,530 --> 00:16:41,890
+immer Ziffer für Ziffer
+
+498
+00:16:41,890 --> 00:16:45,010
+multiplizieren. Und das dann einmal
+
+499
+00:16:45,010 --> 00:16:46,070
+mit der einen Ziffer machen, einmal
+
+500
+00:16:46,070 --> 00:16:47,270
+mit der anderen Ziffer machen und
+
+501
+00:16:47,270 --> 00:16:48,170
+dann müssen wir unsere
+
+502
+00:16:48,170 --> 00:16:50,070
+Zwischenergebnisse alle zusammen
+
+503
+00:16:50,070 --> 00:16:54,340
+addieren. Und auch hier kann man sich
+
+504
+00:16:54,340 --> 00:16:55,900
+überlegen, das kann man auch auf die
+
+505
+00:16:55,900 --> 00:16:58,120
+Dezimalbrüche übertragen, auf
+
+506
+00:17:00,520 --> 00:17:03,180
+unsere Kommaschreibweise. Aber auch
+
+507
+00:17:03,180 --> 00:17:04,600
+hier spielt es wieder eine Rolle,
+
+508
+00:17:04,680 --> 00:17:06,460
+dass wir die Anzahl der
+
+509
+00:17:06,460 --> 00:17:09,200
+Nachkommastellen zählen und die dann
+
+510
+00:17:09,200 --> 00:17:10,840
+am Ende nochmal verwenden. Also hier
+
+511
+00:17:10,840 --> 00:17:12,340
+gibt es ein etwas anderes Prinzip.
+
+512
+00:17:13,220 --> 00:17:14,660
+Und zwar schauen wir uns das direkt
+
+513
+00:17:14,660 --> 00:17:16,400
+einfach an dem Beispiel an. Dann
+
+514
+00:17:16,400 --> 00:17:17,540
+gehen wir nochmal die Sätze durch.
+
+515
+00:17:17,620 --> 00:17:18,780
+Ich zeige es am liebsten erstmal
+
+516
+00:17:18,780 --> 00:17:20,280
+direkt an dem Beispiel. Wir haben
+
+517
+00:17:20,280 --> 00:17:23,500
+hier die Zahlen 0,23 und 2,5 und wir
+
+518
+00:17:23,500 --> 00:17:26,680
+möchten die gerne mal nehmen. Die
+
+519
+00:17:26,680 --> 00:17:28,460
+eigentliche Multiplikation in Form
+
+520
+00:17:28,460 --> 00:17:29,980
+einer schriftlichen Multiplikation,
+
+521
+00:17:29,980 --> 00:17:30,920
+die führen wir jetzt auch gleich
+
+522
+00:17:30,920 --> 00:17:35,760
+durch und zwar ohne das Komma. Vorher
+
+523
+00:17:35,760 --> 00:17:36,740
+zählen wir aber, wie viele
+
+524
+00:17:36,740 --> 00:17:38,040
+Nachkommastellen haben wir insgesamt.
+
+525
+00:17:38,660 --> 00:17:40,300
+In der linken Zahl haben wir zwei
+
+526
+00:17:40,300 --> 00:17:41,700
+Nachkommastellen, in der rechten Zahl
+
+527
+00:17:41,700 --> 00:17:43,480
+haben wir eine. Zusammengerechnet
+
+528
+00:17:43,480 --> 00:17:45,760
+ergibt das drei. Das brauchen wir
+
+529
+00:17:45,760 --> 00:17:46,960
+ganz am Ende, wenn wir gleich unser
+
+530
+00:17:46,960 --> 00:17:49,140
+Endergebnis bestimmen. Wir haben
+
+531
+00:17:49,140 --> 00:17:52,100
+insgesamt drei Nachkommastellen. Dann
+
+532
+00:17:52,100 --> 00:17:54,420
+rechnen wir die Zahlen ohne Komma
+
+533
+00:17:54,420 --> 00:17:56,600
+mal. Das bedeutet, wir lassen bei der
+
+534
+00:17:56,600 --> 00:17:58,700
+0,23 das Komma weg. Dann können wir
+
+535
+00:17:58,700 --> 00:17:59,840
+auch die 0 weglassen und wir haben
+
+536
+00:17:59,840 --> 00:18:03,980
+die Zahl 23. Die 2,5, da lassen wir
+
+537
+00:18:03,980 --> 00:18:05,260
+das Komma weg und haben im Grunde die
+
+538
+00:18:05,260 --> 00:18:08,100
+Zahl 25. Das sind im Grunde also so
+
+539
+00:18:08,100 --> 00:18:09,320
+gesehen erstmal ganz andere Zahlen,
+
+540
+00:18:09,520 --> 00:18:10,800
+weil das Komma ja natürlich weg ist.
+
+541
+00:18:10,800 --> 00:18:12,700
+Aber wir nehmen die miteinander mal,
+
+542
+00:18:12,820 --> 00:18:15,540
+23 mal 25, mit der schriftlichen
+
+543
+00:18:15,540 --> 00:18:17,680
+Multiplikation oder eventuell ergibt
+
+544
+00:18:17,680 --> 00:18:18,720
+das dann auch Zahlen, die ihr sogar
+
+545
+00:18:18,720 --> 00:18:20,180
+im Kopf miteinander mal nehmen könnt.
+
+546
+00:18:20,360 --> 00:18:22,180
+Das Wichtige ist, ihr führt die
+
+547
+00:18:22,180 --> 00:18:24,140
+Malrechnung erstmal ohne Komma durch.
+
+548
+00:18:24,820 --> 00:18:26,700
+Und das Ergebnis dieser Malrechnung
+
+549
+00:18:26,700 --> 00:18:31,220
+ist dann die 575. Jetzt wissen wir
+
+550
+00:18:31,220 --> 00:18:32,200
+aber, wir müssen das Komma wieder
+
+551
+00:18:32,200 --> 00:18:34,400
+hinzufügen. Eigentlich ist das
+
+552
+00:18:34,400 --> 00:18:37,660
+Ergebnis von 0,23 mal 2,5 nicht die
+
+553
+00:18:37,660 --> 00:18:41,180
+Zahl 575. sondern wir haben drei
+
+554
+00:18:41,180 --> 00:18:43,440
+Nachkommastellen vorhin gezählt, also
+
+555
+00:18:43,440 --> 00:18:44,920
+muss unser Ergebnis auch drei
+
+556
+00:18:44,920 --> 00:18:47,800
+Nachkommastellen jetzt aufweisen.
+
+557
+00:18:49,160 --> 00:18:51,140
+Also wir stellen uns wieder vor, das
+
+558
+00:18:51,140 --> 00:18:52,260
+Komma würde eigentlich dahinter
+
+559
+00:18:52,260 --> 00:18:53,960
+stehen und wir müssen es jetzt um
+
+560
+00:18:53,960 --> 00:18:56,100
+drei Stellen nach links verschieben.
+
+561
+00:18:57,800 --> 00:18:59,380
+Und wenn wir es um drei Stellen nach
+
+562
+00:18:59,380 --> 00:19:01,120
+links verschieben, dann steht es eben
+
+563
+00:19:01,120 --> 00:19:03,160
+vor der 5, also vor allen
+
+564
+00:19:03,160 --> 00:19:04,660
+Nachkommastellen, die wir gerade
+
+565
+00:19:04,660 --> 00:19:09,240
+berechnet haben. Vor der 5, 7, 5. Das
+
+566
+00:19:09,240 --> 00:19:10,640
+sind dann nämlich genau drei Stellen.
+
+567
+00:19:11,780 --> 00:19:13,500
+Natürlich gilt wieder, wenn das Komma
+
+568
+00:19:13,500 --> 00:19:15,540
+ganz links ganz vorne steht, dann
+
+569
+00:19:15,540 --> 00:19:16,840
+muss natürlich da nochmal eine 0 vor.
+
+570
+00:19:17,160 --> 00:19:19,320
+Die Zahl kann nicht mit einem Komma
+
+571
+00:19:19,320 --> 00:19:20,300
+beginnen, sondern da muss dann noch
+
+572
+00:19:20,300 --> 00:19:22,740
+eine 0 vorstehen. Also haben wir als
+
+573
+00:19:22,740 --> 00:19:25,420
+Ergebnis die 0,575. Nachdem wir im
+
+574
+00:19:25,420 --> 00:19:27,040
+Grunde die Zahlen ohne Komma mal
+
+575
+00:19:27,040 --> 00:19:29,120
+genommen haben und das Komma dann am
+
+576
+00:19:29,120 --> 00:19:30,180
+Ende wieder hinzufügen.
+
+577
+00:19:42,710 --> 00:19:43,990
+Zuletzt schauen wir uns dann noch die
+
+578
+00:19:43,990 --> 00:19:47,230
+Division an. Und bei der Division, da
+
+579
+00:19:47,230 --> 00:19:47,990
+spielen wir... wir auch wieder ein
+
+580
+00:19:47,990 --> 00:19:49,030
+bisschen mit dem Komma rum, da
+
+581
+00:19:49,030 --> 00:19:50,950
+verschieben wir auch wieder. Und zwar
+
+582
+00:19:50,950 --> 00:19:53,910
+gilt hier erstmal, wenn wir zwei
+
+583
+00:19:53,910 --> 00:19:56,350
+Kommazahlen, zwei Dezimalzahlen
+
+584
+00:19:57,270 --> 00:19:58,470
+durcheinander dividieren möchten,
+
+585
+00:19:58,690 --> 00:20:00,910
+dann müssen wir erstmal das Komma so
+
+586
+00:20:00,910 --> 00:20:03,290
+lange in beiden Zahlen verschieben,
+
+587
+00:20:04,250 --> 00:20:07,410
+sodass entweder zumindest die rechte
+
+588
+00:20:07,410 --> 00:20:09,230
+Zahl kein Komma mehr hat, also die
+
+589
+00:20:09,230 --> 00:20:10,710
+Zahl, durch die wir teilen, kein
+
+590
+00:20:10,710 --> 00:20:13,270
+Komma mehr hat, oder man kann es auch
+
+591
+00:20:13,270 --> 00:20:14,770
+weiter treiben und das Komma so lange
+
+592
+00:20:14,770 --> 00:20:16,390
+verschieben, bis beide Zahlen ein
+
+593
+00:20:16,390 --> 00:20:18,510
+Komma mehr haben. Letzteres ist
+
+594
+00:20:18,510 --> 00:20:19,630
+manchmal ein bisschen einfacher,
+
+595
+00:20:19,730 --> 00:20:21,070
+deswegen zeigen wir das hier auch.
+
+596
+00:20:21,510 --> 00:20:23,150
+Also, wir fangen an mit unserer
+
+597
+00:20:23,150 --> 00:20:24,250
+Division, die wir durchführen
+
+598
+00:20:24,250 --> 00:20:28,390
+möchten, 1,983 durch 0,2. Das ist
+
+599
+00:20:28,390 --> 00:20:29,450
+etwas, wofür wir so erstmal nicht
+
+600
+00:20:29,450 --> 00:20:30,550
+wirklich rechnen können, oder
+
+601
+00:20:30,550 --> 00:20:32,050
+zumindest was sehr, sehr kompliziert
+
+602
+00:20:32,050 --> 00:20:33,990
+wäre es wirklich so zu rechnen. Also
+
+603
+00:20:33,990 --> 00:20:35,290
+fangen wir an, das Komma zu
+
+604
+00:20:35,290 --> 00:20:37,210
+verschieben. Und zwar in diesem Fall
+
+605
+00:20:37,210 --> 00:20:38,230
+möchten wir jetzt nach rechts
+
+606
+00:20:38,230 --> 00:20:39,390
+verschieben, denn wir möchten, dass
+
+607
+00:20:39,390 --> 00:20:40,430
+das Komma irgendwann nicht mehr da
+
+608
+00:20:40,430 --> 00:20:41,570
+ist, damit wir es nicht mehr
+
+609
+00:20:41,570 --> 00:20:43,690
+brauchen. Wir verschieben also in
+
+610
+00:20:43,690 --> 00:20:45,390
+beiden Zahlen, nicht nur in einer,
+
+611
+00:20:45,490 --> 00:20:47,310
+sondern in beiden Zahlen das Komma.
+
+612
+00:20:47,390 --> 00:20:48,930
+Denn solange wir das in beiden Zahlen
+
+613
+00:20:48,930 --> 00:20:50,850
+verschieben, ergibt die Division
+
+614
+00:20:50,850 --> 00:20:52,590
+immer das gleiche Ergebnis. Das ist
+
+615
+00:20:52,590 --> 00:20:53,830
+eine interessante Eigenschaft der
+
+616
+00:20:53,830 --> 00:20:56,010
+Geteiltrechnung. Wenn wir das Komma
+
+617
+00:20:56,010 --> 00:20:57,210
+bei beiden Zahlen verschieben, dann
+
+618
+00:20:57,210 --> 00:20:58,990
+ist die Division immer die gleiche.
+
+619
+00:20:59,790 --> 00:21:01,470
+Also wenn wir es um eine Stelle nach
+
+620
+00:21:01,470 --> 00:21:03,650
+rechts verschieben, haben wir die 19
+
+621
+00:21:03,650 --> 00:21:07,110
+,83 und aus der 0,2 wurde dann nur
+
+622
+00:21:07,110 --> 00:21:08,810
+noch die 2. Das Komma wurde jetzt
+
+623
+00:21:08,810 --> 00:21:10,190
+rechts dahinter verschoben, also
+
+624
+00:21:10,190 --> 00:21:11,890
+haben wir nur noch die Zahl 2 im
+
+625
+00:21:11,890 --> 00:21:14,090
+Grunde. Das könnte man jetzt sogar
+
+626
+00:21:14,090 --> 00:21:15,650
+schon dividieren. Man könnte jetzt
+
+627
+00:21:15,650 --> 00:21:17,810
+schon loslegen und die schriftliche
+
+628
+00:21:17,810 --> 00:21:20,010
+Division hiermit durchführen und dann
+
+629
+00:21:20,010 --> 00:21:21,110
+würde man einfach das Komma
+
+630
+00:21:21,110 --> 00:21:22,510
+entsprechend auch im Ergebnis an der
+
+631
+00:21:22,510 --> 00:21:24,430
+Stelle setzen, wenn man das bei der
+
+632
+00:21:24,430 --> 00:21:25,830
+schriftlichen Division hier sozusagen
+
+633
+00:21:25,830 --> 00:21:28,630
+überspringen würde. Wir machen das
+
+634
+00:21:28,630 --> 00:21:29,550
+jetzt aber noch ein bisschen weiter,
+
+635
+00:21:29,690 --> 00:21:31,330
+denn manchmal ist es ein bisschen
+
+636
+00:21:31,330 --> 00:21:32,690
+einfacher, das auch wirklich noch ein
+
+637
+00:21:32,690 --> 00:21:34,090
+bisschen weiter zu vereinfachen,
+
+638
+00:21:34,930 --> 00:21:36,390
+damit man das Komma gar nicht
+
+639
+00:21:36,390 --> 00:21:38,390
+wirklich so sehr im Blick haben muss
+
+640
+00:21:38,390 --> 00:21:39,770
+erstmal. Das ist aber auch ein
+
+641
+00:21:39,770 --> 00:21:41,550
+bisschen Geschmackssache. Also ich
+
+642
+00:21:41,550 --> 00:21:42,510
+persönlich habe es früher auch so
+
+643
+00:21:42,510 --> 00:21:43,490
+gelernt, dass man das jetzt schon
+
+644
+00:21:43,490 --> 00:21:44,950
+dividiert, aber man kann es eben noch
+
+645
+00:21:44,950 --> 00:21:46,250
+weiterführen. Wir schreiben das Komma
+
+646
+00:21:46,250 --> 00:21:47,610
+weiter um eine Stelle nach rechts.
+
+647
+00:21:48,050 --> 00:21:50,210
+Daraus wird jetzt hier links die 198
+
+648
+00:21:50,210 --> 00:21:54,090
+,3. Und wenn ich das bei der 2 noch
+
+649
+00:21:54,090 --> 00:21:55,290
+weiter nach rechts verschiebe, dann
+
+650
+00:21:55,290 --> 00:21:56,650
+muss ich jetzt Nullen dranhängen.
+
+651
+00:21:56,650 --> 00:21:59,550
+Also mache ich daraus die 20. Dann
+
+652
+00:21:59,550 --> 00:22:00,830
+muss ich das noch ein letztes Mal
+
+653
+00:22:00,830 --> 00:22:02,790
+tun, damit hier links die 1983
+
+654
+00:22:02,790 --> 00:22:06,050
+entsteht. Und bei meiner 20 hänge ich
+
+655
+00:22:06,050 --> 00:22:07,590
+noch einen Null dran und das ergibt
+
+656
+00:22:07,590 --> 00:22:10,690
+die 200. Aber weiterhin gilt, auch
+
+657
+00:22:10,690 --> 00:22:12,310
+diese Division ergibt immer noch das
+
+658
+00:22:12,310 --> 00:22:13,850
+gleiche Ergebnis, was wir jetzt hier
+
+659
+00:22:13,850 --> 00:22:15,510
+schon vorgegeben haben. Hier wird
+
+660
+00:22:15,510 --> 00:22:17,170
+schon ausgerechnet 9,915.
+
+661
+00:22:19,510 --> 00:22:21,410
+Aber das wäre auch schon bei den
+
+662
+00:22:21,410 --> 00:22:23,270
+anderen Rechnungen mit ein bisschen
+
+663
+00:22:23,270 --> 00:22:24,570
+weniger Verschiebung herausgekommen.
+
+664
+00:22:25,510 --> 00:22:26,850
+Aber wir zeigen nochmal, wie das
+
+665
+00:22:26,850 --> 00:22:27,990
+jetzt hier bei der schriftlichen
+
+666
+00:22:27,990 --> 00:22:29,410
+Division dann nämlich aussehen würde.
+
+667
+00:22:29,970 --> 00:22:31,470
+Wir würden uns ja überlegen, okay,
+
+668
+00:22:31,510 --> 00:22:37,990
+wie oft passt die 200 in die 1983? Da
+
+669
+00:22:37,990 --> 00:22:41,150
+passt die 9 mal rein, denn 9 mal 200
+
+670
+00:22:41,150 --> 00:22:46,250
+sind 1800. Dann 9 mal 2 sind 18. Also
+
+671
+00:22:46,250 --> 00:22:47,610
+schriftliche Division, wir fragen
+
+672
+00:22:47,610 --> 00:22:49,510
+wieder, wie oft passt das da rein und
+
+673
+00:22:49,510 --> 00:22:50,850
+den Faktor schreiben wir erstmal ins
+
+674
+00:22:50,850 --> 00:22:54,010
+Ergebnis. Also wir ziehen jetzt die
+
+675
+00:22:54,010 --> 00:23:00,530
+1800 ab. Dabei bleibt 183 übrig. Und
+
+676
+00:23:00,530 --> 00:23:01,830
+bei der schriftlichen Division macht
+
+677
+00:23:01,830 --> 00:23:03,210
+man dann weiter, indem man die
+
+678
+00:23:03,210 --> 00:23:06,410
+nächste Zahl sozusagen von oben
+
+679
+00:23:06,410 --> 00:23:08,010
+herunterzieht. runterzieht. Jetzt
+
+680
+00:23:08,010 --> 00:23:09,110
+sind wir eigentlich schon am Ende der
+
+681
+00:23:09,110 --> 00:23:11,530
+Zahl angekommen, also ist ganz
+
+682
+00:23:11,530 --> 00:23:13,790
+wichtig, da wir jetzt eine 0
+
+683
+00:23:13,790 --> 00:23:15,410
+sozusagen hinzu erfinden müssen,
+
+684
+00:23:15,550 --> 00:23:17,690
+müssen wir im Ergebnis schon mal das
+
+685
+00:23:17,690 --> 00:23:19,190
+Komma setzen. Das ist das, was hier
+
+686
+00:23:19,190 --> 00:23:20,350
+in rot schon mal angezeigt wird.
+
+687
+00:23:20,410 --> 00:23:22,170
+Sobald die Zahl kleiner ist als der
+
+688
+00:23:22,170 --> 00:23:24,750
+Dividend, sobald das hier nicht mehr
+
+689
+00:23:24,750 --> 00:23:27,750
+weiter geht, müssen wir eine 0
+
+690
+00:23:27,750 --> 00:23:29,590
+hinzufügen, damit wir wieder weiter
+
+691
+00:23:29,590 --> 00:23:32,090
+dividieren können und im Ergebnis das
+
+692
+00:23:32,090 --> 00:23:32,690
+Komma setzen.
+
+693
+00:23:37,140 --> 00:23:39,060
+Also machen wir dann aber weiter mit
+
+694
+00:23:39,060 --> 00:23:42,380
+wie oft passt die 200 in die 1830.
+
+695
+00:23:43,600 --> 00:23:45,620
+Das passt wieder 9 mal, denn da passt
+
+696
+00:23:45,620 --> 00:23:48,560
+wieder die 1800. Nur dass die 9 ja
+
+697
+00:23:48,560 --> 00:23:49,860
+jetzt schon hinterm Komma ist, denn
+
+698
+00:23:49,860 --> 00:23:51,720
+wir sind schon in dem Teil, wo wir,
+
+699
+00:23:51,720 --> 00:23:53,280
+in dem Teil dieser Rechnung, wo wir
+
+700
+00:23:53,280 --> 00:23:54,340
+jetzt hier von oben immer weiter
+
+701
+00:23:54,340 --> 00:23:56,300
+Nullen hinzufügen müssen, damit wir
+
+702
+00:23:56,300 --> 00:23:57,280
+überhaupt weiterrechnen können.
+
+703
+00:24:00,990 --> 00:24:02,270
+Wenn wir das jetzt voneinander
+
+704
+00:24:02,270 --> 00:24:03,430
+subtrahieren, dann würde hier
+
+705
+00:24:03,430 --> 00:24:05,130
+eigentlich die 30 überbleiben, aber
+
+706
+00:24:05,130 --> 00:24:06,710
+wir fügen ja wieder eine 0 hinzu,
+
+707
+00:24:06,750 --> 00:24:08,030
+damit wir wieder weiter dividieren
+
+708
+00:24:08,030 --> 00:24:10,510
+können. Wie oft passt die 200 in die
+
+709
+00:24:10,510 --> 00:24:14,150
+300? Na genau einmal, denn einmal 200
+
+710
+00:24:14,150 --> 00:24:17,510
+ist 200. Auch die ziehen wir wieder
+
+711
+00:24:17,510 --> 00:24:20,250
+ab, erhalten die 100, zu der wir
+
+712
+00:24:20,250 --> 00:24:22,130
+wieder eine 0 hinzufügen, damit es
+
+713
+00:24:22,130 --> 00:24:23,730
+eine 1000 wird. Und jetzt geht das
+
+714
+00:24:23,730 --> 00:24:25,410
+Ganze glatt auf, denn wie oft passt
+
+715
+00:24:25,410 --> 00:24:28,810
+die 200 in die 1000? Genau 5 mal. 5
+
+716
+00:24:30,220 --> 00:24:33,500
+mal 200 ist nämlich 1000 und wir sind
+
+717
+00:24:33,500 --> 00:24:34,960
+dann irgendwann fertig, wenn wir
+
+718
+00:24:34,960 --> 00:24:36,420
+keinen Rest mehr übrig haben, wenn
+
+719
+00:24:36,420 --> 00:24:39,500
+dann eine Null entsteht. Und dann
+
+720
+00:24:39,500 --> 00:24:41,880
+haben wir die Dezimalzahl berechnet.
+
+721
+00:24:43,120 --> 00:24:45,820
+Das ist letztendlich auch die Art und
+
+722
+00:24:45,820 --> 00:24:48,780
+Weise, mit der wir eben einen Bruch
+
+723
+00:24:48,780 --> 00:24:50,320
+in eine Dezimalzahl auch umwandeln
+
+724
+00:24:50,320 --> 00:24:51,720
+könnten. Wenn wir uns vorstellen
+
+725
+00:24:51,720 --> 00:24:55,980
+würden, wir haben den Bruch 1983,200,
+
+726
+00:24:56,200 --> 00:24:58,200
+also als Bruch, dann könnten wir...
+
+727
+00:24:58,220 --> 00:24:59,340
+wir auch da diese Umwandlung in eine
+
+728
+00:24:59,340 --> 00:25:01,180
+Kommazahl so durchführen. Hier jetzt
+
+729
+00:25:01,180 --> 00:25:02,260
+aber haben wir das in einem anderen
+
+730
+00:25:02,260 --> 00:25:04,300
+Zusammenhang gelernt. Wenn wir zwei
+
+731
+00:25:04,300 --> 00:25:06,500
+Kommazahlen dividieren möchten, dann
+
+732
+00:25:06,500 --> 00:25:07,840
+verschiebe ich das Komma so lange,
+
+733
+00:25:07,900 --> 00:25:09,400
+dass zumindest die rechte Zahl kein
+
+734
+00:25:09,400 --> 00:25:11,140
+Komma mehr hat oder man treibt es
+
+735
+00:25:11,140 --> 00:25:12,360
+noch ein bisschen weiter, bis beide
+
+736
+00:25:12,360 --> 00:25:14,600
+Zahlen kein Komma mehr haben. Die
+
+737
+00:25:14,600 --> 00:25:15,840
+Rechnung übrigens, wenn wir das hier
+
+738
+00:25:15,840 --> 00:25:17,000
+gemacht haben, würde genau gleich
+
+739
+00:25:17,000 --> 00:25:18,460
+aussehen, nur nur dass wir hier
+
+740
+00:25:18,460 --> 00:25:20,760
+überall noch praktisch dieses Komma
+
+741
+00:25:20,760 --> 00:25:22,360
+immer noch mit drin hätten, an der
+
+742
+00:25:22,360 --> 00:25:24,880
+entsprechenden Stelle. Also das macht
+
+743
+00:25:24,880 --> 00:25:26,120
+keinen großen Unterschied von den
+
+744
+00:25:26,120 --> 00:25:27,360
+Zahlen her. Die Überlegungen, die
+
+745
+00:25:27,360 --> 00:25:28,380
+Rechnungen, die man machen muss, sind
+
+746
+00:25:28,380 --> 00:25:30,220
+alle die gleichen. Wichtig ist nur,
+
+747
+00:25:30,320 --> 00:25:32,080
+wir setzen irgendwann an einer Stelle
+
+748
+00:25:32,080 --> 00:25:33,880
+einmal das Komma, und zwar sobald wir
+
+749
+00:25:33,880 --> 00:25:35,760
+anfangen, hier Nullen sozusagen
+
+750
+00:25:35,760 --> 00:25:38,480
+hinzuzufügen und hinzuerfinden, sage
+
+751
+00:25:38,480 --> 00:25:40,960
+ich jetzt mal fast, damit wir weiter
+
+752
+00:25:40,960 --> 00:25:42,800
+dividieren können. Ganz
+
+753
+00:25:45,680 --> 00:25:48,020
+wichtig ist aber, wir dividieren
+
+754
+00:25:48,020 --> 00:25:50,120
+niemals durch eine Dezimalzahl, wir
+
+755
+00:25:50,120 --> 00:25:52,140
+würden also nie durch 0,2 teilen, wir
+
+756
+00:25:52,140 --> 00:25:53,100
+würden immer vorher diese
+
+757
+00:25:53,100 --> 00:25:54,040
+Verschiebung durchführen.
+
+758
+00:25:57,120 --> 00:25:58,580
+Wir haben das jetzt eben an der
+
+759
+00:25:58,580 --> 00:26:02,460
+Kommaschreibweise gezeigt, denn
+
+760
+00:26:02,460 --> 00:26:04,240
+sobald wir die Dezimalbrüche
+
+761
+00:26:04,240 --> 00:26:06,000
+natürlich als Brüche schreiben, mit
+
+762
+00:26:06,000 --> 00:26:08,000
+der 10, 100 oder 1000 oder so weiter
+
+763
+00:26:08,000 --> 00:26:09,980
+im Nenner, dann gelten die ganz
+
+764
+00:26:09,980 --> 00:26:12,200
+normalen Bruchrechenregeln für die
+
+765
+00:26:12,200 --> 00:26:13,720
+Addition, Subtraktion, Multiplikation
+
+766
+00:26:13,720 --> 00:26:15,760
+und Division. Also da funktioniert
+
+767
+00:26:15,760 --> 00:26:17,220
+das genauso wie mit in
+
+768
+00:26:17,220 --> 00:26:18,700
+Anführungszeichen normalen Brüchen
+
+769
+00:26:18,700 --> 00:26:19,720
+oder man sollte besser sagen
+
+770
+00:26:19,720 --> 00:26:22,660
+allgemeineren Brüchen. Da gelten
+
+771
+00:26:22,660 --> 00:26:24,240
+genau die gleichen Regeln. Dazu haben
+
+772
+00:26:24,240 --> 00:26:25,540
+wir auch nochmal ein eigenes Webinar,
+
+773
+00:26:25,540 --> 00:26:27,200
+wenn ihr das besuchen möchtet. Aber
+
+774
+00:26:27,200 --> 00:26:28,340
+da verweisen wir eben dann einfach
+
+775
+00:26:28,340 --> 00:26:30,500
+auf die allgemeine Bruchrechnung. Was
+
+776
+00:26:30,500 --> 00:26:31,520
+wir uns heute vor allem anschauen
+
+777
+00:26:31,520 --> 00:26:33,500
+wollten, waren die Grundrechenarten
+
+778
+00:26:33,500 --> 00:26:35,560
+in Form der Komma-Schreibweise.
+
+779
+00:26:38,990 --> 00:26:41,190
+Und das ist auch schon das Ende von
+
+780
+00:26:41,190 --> 00:26:42,710
+unserem heutigen Webinar zum Thema
+
+781
+00:26:42,710 --> 00:26:44,590
+Dezimalbrüche. Erstmal vielen Dank
+
+782
+00:26:44,590 --> 00:26:46,330
+für die Aufmerksamkeit. Falls es noch
+
+783
+00:26:46,330 --> 00:26:48,430
+Fragen gibt oder ich nochmal eine
+
+784
+00:26:48,430 --> 00:26:50,130
+Folie zeigen soll, dann schreibt mir
+
+785
+00:26:50,130 --> 00:26:51,390
+das im Chat. Was ich immer empfehlen
+
+786
+00:26:51,390 --> 00:26:52,170
+kann, ist, schnappt euch die
+
+787
+00:26:52,170 --> 00:26:53,350
+Übungsaufgaben, die wir jetzt zu
+
+788
+00:26:53,350 --> 00:26:55,110
+diesem Thema im Online-Lerncenter
+
+789
+00:26:55,110 --> 00:26:56,930
+haben und übt das Ganze einfach
+
+790
+00:26:56,930 --> 00:26:58,230
+nochmal. Und falls es dann doch
+
+791
+00:26:58,230 --> 00:27:01,130
+nochmal zu Problemen kommt, falls die
+
+792
+00:27:01,130 --> 00:27:02,170
+Lösung nicht stimmt oder nochmal
+
+793
+00:27:02,170 --> 00:27:03,550
+Fragen sind, dann haben wir natürlich
+
+794
+00:27:03,550 --> 00:27:04,970
+auch nochmal Lernvideos zu dem Thema
+
+795
+00:27:04,970 --> 00:27:05,850
+und auch unsere Wiki.
+
+796
+00:27:15,260 --> 00:27:16,480
+Alles klar, wunderbar, das freut
+
+797
+00:27:16,480 --> 00:27:17,620
+mich. Ja, dann wünsche ich noch einen
+
+798
+00:27:17,620 --> 00:27:19,080
+schönen Tag und bis zum nächsten Mal.
+
+799
+00:27:19,220 --> 00:27:19,520
+Tschüss.
+

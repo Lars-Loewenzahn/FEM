@@ -1,0 +1,1000 @@
+1
+00:00:01,840 --> 00:00:03,880
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,880 --> 00:00:05,840
+Dreiecke. Wir unterhalten uns in
+
+3
+00:00:05,840 --> 00:00:07,900
+diesem Webinar über Dreiecke. Wir
+
+4
+00:00:07,900 --> 00:00:09,680
+schauen uns zuerst Eigenschaften
+
+5
+00:00:09,680 --> 00:00:11,140
+eines Dreiecks an und widmen uns
+
+6
+00:00:11,140 --> 00:00:13,500
+danach ein paar Berechnungen, also
+
+7
+00:00:13,500 --> 00:00:14,780
+wir berechnen den Umfang und den
+
+8
+00:00:14,780 --> 00:00:17,300
+Flächeninhalt eines Dreiecks. Danach
+
+9
+00:00:17,300 --> 00:00:18,100
+schauen wir uns verschiedene
+
+10
+00:00:18,100 --> 00:00:20,620
+Dreiecksarten und Konkurrenzsätze an.
+
+11
+00:00:21,260 --> 00:00:22,700
+Ganz am Ende gibt es noch eine kleine
+
+12
+00:00:22,700 --> 00:00:24,720
+Beispielaufgabe zum zweiten Thema,
+
+13
+00:00:24,800 --> 00:00:26,660
+also Umfang und Flächeninhalt, die
+
+14
+00:00:26,660 --> 00:00:27,940
+wir dann zusammen erarbeiten.
+
+15
+00:00:30,840 --> 00:00:32,840
+ein allgemeines Dreieck. Was sofort
+
+16
+00:00:32,840 --> 00:00:34,780
+auffällt, denke ich, ist, dass die
+
+17
+00:00:34,780 --> 00:00:36,560
+Beschriftung entgegen des
+
+18
+00:00:36,560 --> 00:00:39,380
+Uhrzeigersinns stattfindet. So A, B
+
+19
+00:00:39,380 --> 00:00:41,780
+und C. Die Beschriftung der Eckpunkte
+
+20
+00:00:41,780 --> 00:00:44,600
+erfolgt entgegen dem Uhrzeigersinn.
+
+21
+00:00:45,200 --> 00:00:48,920
+Die Seiten haben immer den kleinen
+
+22
+00:00:48,920 --> 00:00:50,780
+Buchstaben von der gegenüberliegenden
+
+23
+00:00:50,780 --> 00:00:52,240
+Ecke. Deswegen haben wir hier die
+
+24
+00:00:52,240 --> 00:00:54,520
+Eckpunkt A und gegenüberliegend die
+
+25
+00:00:54,520 --> 00:00:57,640
+Seite klein A. Hier Eckpunkt B und
+
+26
+00:00:57,640 --> 00:00:59,600
+gegenüberliegend die Seite klein B.
+
+27
+00:01:00,460 --> 00:01:02,440
+Die Winkel werden immer nach dem
+
+28
+00:01:02,440 --> 00:01:03,840
+griechischen Alphabet sortiert,
+
+29
+00:01:03,900 --> 00:01:08,380
+Alpha, Beta, Gamma Und auch
+
+30
+00:01:08,380 --> 00:01:10,380
+entsprechend gegen den Uhrzeigersinn
+
+31
+00:01:10,380 --> 00:01:14,280
+Bei jedem Dreieck ist die Winkelsumme
+
+32
+00:01:14,280 --> 00:01:16,620
+der Innenwinkel 180° Daher gilt
+
+33
+00:01:16,620 --> 00:01:18,500
+wirklich immer Alpha plus Beta plus
+
+34
+00:01:18,500 --> 00:01:22,980
+Gamma gleich 180° Das ist wirklich
+
+35
+00:01:22,980 --> 00:01:25,480
+immer so und so kann man auch ganz
+
+36
+00:01:25,480 --> 00:01:26,940
+schnell Sachen kontrollieren oder
+
+37
+00:01:26,940 --> 00:01:28,640
+wenn man zwei Winkel hat, den dritten
+
+38
+00:01:28,640 --> 00:01:29,320
+ausrechnen.
+
+39
+00:01:31,860 --> 00:01:33,760
+Kommen wir dann zu Umfang und
+
+40
+00:01:33,760 --> 00:01:36,720
+Flächeninhalt. Der Umfang eines
+
+41
+00:01:36,720 --> 00:01:38,620
+Dreiecks ist einfach die Strecke, die
+
+42
+00:01:38,620 --> 00:01:39,940
+man zurücklegt, wenn man einmal ganz
+
+43
+00:01:39,940 --> 00:01:42,940
+rum geht. Also U ist gleich A plus B
+
+44
+00:01:42,940 --> 00:01:45,600
+plus C. Einfach die Summe der
+
+45
+00:01:45,600 --> 00:01:47,340
+Kantenlängen.
+
+46
+00:01:48,860 --> 00:01:50,680
+Beim Flächeninhalt wird es etwas
+
+47
+00:01:50,680 --> 00:01:53,420
+komplizierter. Grundsätzlich gilt
+
+48
+00:01:53,420 --> 00:01:57,020
+beim Dreieck Länge mal Höhe geteilt
+
+49
+00:01:57,020 --> 00:01:59,200
+durch 2. Ganz wichtig ist, wir sehen
+
+50
+00:01:59,200 --> 00:02:00,420
+jetzt hier drei verschiedene Formeln,
+
+51
+00:02:00,500 --> 00:02:03,780
+A mal HA halbe A ist dann die
+
+52
+00:02:03,780 --> 00:02:05,820
+Grundseite und HA ist die Höhe, die
+
+53
+00:02:05,820 --> 00:02:07,860
+auf A steht, die wäre dann hier so
+
+54
+00:02:07,860 --> 00:02:08,740
+angesetzt.
+
+55
+00:02:12,760 --> 00:02:15,880
+B mal HB ist dann, also A ist gleich
+
+56
+00:02:15,880 --> 00:02:18,260
+B mal HB halbe, bedeutet dann, wir
+
+57
+00:02:18,260 --> 00:02:20,680
+nehmen B als Grundseite und haben
+
+58
+00:02:20,680 --> 00:02:23,400
+dann die Höhe über B, beziehungsweise
+
+59
+00:02:23,400 --> 00:02:25,320
+von B aus, das ginge dann ungefähr
+
+60
+00:02:25,320 --> 00:02:29,100
+hier so lang. Und zu guter Letzt, A
+
+61
+00:02:29,100 --> 00:02:32,700
+ist gleich C mal hc halbe. Das ist
+
+62
+00:02:32,700 --> 00:02:33,720
+der Fall, den wir hier unten sehen.
+
+63
+00:02:33,840 --> 00:02:34,800
+Das Dreieck steht auf seiner
+
+64
+00:02:34,800 --> 00:02:37,220
+Grundseite C und die Höhe hc ist
+
+65
+00:02:37,220 --> 00:02:38,880
+eingezeichnet. Die Höhen sind immer
+
+66
+00:02:38,880 --> 00:02:42,640
+senkrecht zur Grundseite. Also man
+
+67
+00:02:42,640 --> 00:02:43,660
+kann hier auch immer einen rechten
+
+68
+00:02:43,660 --> 00:02:46,700
+Winkel einzeichnen. Und damit kann
+
+69
+00:02:46,700 --> 00:02:48,760
+man dann entsprechend den
+
+70
+00:02:48,760 --> 00:02:51,420
+Flächeninhalt berechnen. Der Umfang
+
+71
+00:02:51,420 --> 00:02:52,440
+ist natürlich, wie wir schon gesehen
+
+72
+00:02:52,440 --> 00:02:53,940
+haben, wesentlich einfacher zu
+
+73
+00:02:53,940 --> 00:02:54,360
+bestimmen.
+
+74
+00:02:57,750 --> 00:02:59,950
+Kommen wir nun erstmal zu den
+
+75
+00:02:59,950 --> 00:03:03,030
+wichtigsten Dreiecksarten. Es gibt
+
+76
+00:03:03,030 --> 00:03:05,150
+das gleichseitige Dreieck. Beim
+
+77
+00:03:05,150 --> 00:03:07,170
+gleichseitigen Dreieck sind, wie der
+
+78
+00:03:07,170 --> 00:03:08,450
+Name eigentlich schon sagt, alle
+
+79
+00:03:08,450 --> 00:03:10,010
+Seiten gleich. Heißt, alle Seiten
+
+80
+00:03:10,010 --> 00:03:12,090
+sind gleich lang und folglich sind
+
+81
+00:03:12,090 --> 00:03:13,890
+auch alle Winkel gleich groß, nämlich
+
+82
+00:03:13,890 --> 00:03:15,310
+60 Grad.
+
+83
+00:03:17,670 --> 00:03:19,570
+Das sollte man kennen, das ist ein
+
+84
+00:03:19,570 --> 00:03:22,230
+ganz wichtiges Dreieck und ist auch
+
+85
+00:03:22,230 --> 00:03:23,510
+einer der einfachsten Fälle
+
+86
+00:03:23,510 --> 00:03:26,370
+eigentlich. Zusätzlich gibt es noch
+
+87
+00:03:26,370 --> 00:03:29,070
+das gleichschenklige Dreieck. Beim
+
+88
+00:03:29,070 --> 00:03:30,750
+gleichschenkligen Dreieck sind nur
+
+89
+00:03:30,750 --> 00:03:32,590
+zwei Seiten gleich lang. Das sind die
+
+90
+00:03:32,590 --> 00:03:35,270
+sogenannten Schenkel, hier B und A.
+
+91
+00:03:35,650 --> 00:03:38,510
+Diese sind gleich lang und der Winkel
+
+92
+00:03:38,510 --> 00:03:41,290
+zur Grundseite, Alpha und Beta, ist
+
+93
+00:03:41,290 --> 00:03:44,450
+ebenfalls gleich groß. Das sind so
+
+94
+00:03:44,450 --> 00:03:46,790
+die zwei wichtigsten Dreiecksformen.
+
+95
+00:03:48,470 --> 00:03:50,210
+Das gleichschenklige kommt aber doch
+
+96
+00:03:50,210 --> 00:03:52,550
+noch etwas öfter vor als das gleiche.
+
+97
+00:03:52,790 --> 00:03:59,520
+Seitige. Bei Konkurrenzsätzen ist es
+
+98
+00:03:59,520 --> 00:04:01,160
+so, dass diese dazu dienen,
+
+99
+00:04:03,960 --> 00:04:07,780
+Dreiecke eindeutig zu bestimmen. Das
+
+100
+00:04:07,780 --> 00:04:10,920
+heißt, man spricht von, dass zwei
+
+101
+00:04:10,920 --> 00:04:12,400
+Dreiecks zueinander konkurrent sind,
+
+102
+00:04:12,640 --> 00:04:16,300
+das heißt gleich sind, wenn gewisse,
+
+103
+00:04:16,300 --> 00:04:19,180
+wenn die Konkurrenzsätze zutreffen.
+
+104
+00:04:19,260 --> 00:04:20,600
+So kann man es am einfachsten
+
+105
+00:04:20,600 --> 00:04:22,520
+ausdrücken. Es gibt verschiedene, wir
+
+106
+00:04:22,520 --> 00:04:24,640
+haben hier den Konkurrenzsatz. sss
+
+107
+00:04:24,640 --> 00:04:27,320
+das steht für seite seite seite das
+
+108
+00:04:27,320 --> 00:04:29,700
+heißt wir haben drei seiten die wir
+
+109
+00:04:29,700 --> 00:04:31,680
+prüfen wir gucken einfach ob alle
+
+110
+00:04:31,680 --> 00:04:33,440
+drei seiten längen gleich sind wenn
+
+111
+00:04:33,440 --> 00:04:34,680
+das der fall ist dann sind die
+
+112
+00:04:34,680 --> 00:04:36,300
+dreiecke automatisch konkurrent das
+
+113
+00:04:36,300 --> 00:04:42,080
+bedeutet identisch ja es gibt
+
+114
+00:04:43,320 --> 00:04:44,660
+natürlich noch andere zum beispiel
+
+115
+00:04:44,660 --> 00:04:47,360
+hier wsw das heißt winkel seite
+
+116
+00:04:47,360 --> 00:04:50,160
+winkel bei diesem konkurrenz satz
+
+117
+00:04:50,160 --> 00:04:52,900
+geht es darum dass man zwei Winkel
+
+118
+00:04:52,900 --> 00:04:54,700
+prüft und die eingeschlossene Seite.
+
+119
+00:04:55,780 --> 00:04:58,040
+Also man sucht sich die beiden Winkel
+
+120
+00:04:58,040 --> 00:04:58,220
+raus,
+
+121
+00:05:02,780 --> 00:05:04,580
+misst diese nach, die müssen wirklich
+
+122
+00:05:04,580 --> 00:05:07,560
+nachgemessen werden, und prüft und
+
+123
+00:05:07,560 --> 00:05:09,860
+misst die Länge der eingeschlossenen
+
+124
+00:05:09,860 --> 00:05:12,000
+Seite. Dies vergleicht man mit dem zu
+
+125
+00:05:12,000 --> 00:05:16,340
+vergleichenden Dreieck. Ähnlich so
+
+126
+00:05:16,340 --> 00:05:20,220
+geht mit sws also seite winkel seite
+
+127
+00:05:20,220 --> 00:05:22,180
+das heißt wir haben zwei seiten und
+
+128
+00:05:22,180 --> 00:05:25,100
+einen eingeschlossenen winkel heißt
+
+129
+00:05:25,100 --> 00:05:26,420
+wir messen die beiden seiten längen
+
+130
+00:05:26,420 --> 00:05:28,620
+ab und den und die größe des
+
+131
+00:05:28,620 --> 00:05:30,000
+eingeschlossenen winkels und
+
+132
+00:05:30,000 --> 00:05:32,260
+vergleichen dies wieder der
+
+133
+00:05:35,100 --> 00:05:37,820
+kongruenz als sw ist seite seite
+
+134
+00:05:37,820 --> 00:05:41,260
+winkel ganz wichtig bei diesen wird
+
+135
+00:05:41,260 --> 00:05:43,760
+nicht der eingeschlossene winkel
+
+136
+00:05:43,760 --> 00:05:47,040
+gemessen sondern der
+
+137
+00:05:47,040 --> 00:05:49,580
+gegenüberliegende seite Winkel und
+
+138
+00:05:49,580 --> 00:05:51,880
+zwar der von der größeren Seite
+
+139
+00:05:51,880 --> 00:05:53,200
+gegenüber liegende Winkel. Der ist
+
+140
+00:05:53,200 --> 00:05:54,160
+schon ein bisschen kompliziert, das
+
+141
+00:05:54,160 --> 00:05:55,320
+muss man sich wirklich merken. Bei
+
+142
+00:05:55,320 --> 00:05:56,420
+den anderen, denke ich, konnte man
+
+143
+00:05:56,420 --> 00:05:58,360
+sich das noch ganz gut merken. Aber
+
+144
+00:05:58,360 --> 00:05:59,740
+hier ist es wirklich so, wir haben
+
+145
+00:05:59,740 --> 00:06:01,460
+zwei Seitenlängen gegeben, die wir
+
+146
+00:06:01,460 --> 00:06:03,860
+wieder abmessen und messen zusätzlich
+
+147
+00:06:03,860 --> 00:06:07,780
+den Winkel gegenüber von der größeren
+
+148
+00:06:07,780 --> 00:06:12,190
+Seite. Das ist, wie gesagt, ganz,
+
+149
+00:06:12,230 --> 00:06:13,250
+ganz wichtig.
+
+150
+00:06:19,490 --> 00:06:22,950
+Sofern ein Winkel der kleineren Seite
+
+151
+00:06:22,950 --> 00:06:26,370
+gegenüber liegt, existiert kein
+
+152
+00:06:26,370 --> 00:06:27,950
+Konkurrenzsatz. Das ist ganz wichtig.
+
+153
+00:06:30,090 --> 00:06:33,090
+Es gibt dann die Versuche, diesen
+
+154
+00:06:33,090 --> 00:06:35,070
+besonderen Fall durch Kleinbuchstaben
+
+155
+00:06:35,070 --> 00:06:40,290
+auszudrücken, dass man das zweite S
+
+156
+00:06:40,290 --> 00:06:41,550
+klein macht oder sogar noch das W
+
+157
+00:06:41,550 --> 00:06:42,530
+klein macht, einfach um zu
+
+158
+00:06:42,530 --> 00:06:45,470
+kennzeichnen, dass man den Winkel
+
+159
+00:06:45,470 --> 00:06:47,030
+gegenüber der kleineren Seite
+
+160
+00:06:47,030 --> 00:06:48,890
+genommen hat. Ich würde mich aber
+
+161
+00:06:48,890 --> 00:06:51,550
+immer an die festgelegten
+
+162
+00:06:51,550 --> 00:06:52,570
+Konkurrenzsätze halten.
+
+163
+00:06:55,740 --> 00:06:58,660
+Das wäre es dann auch schon zu den
+
+164
+00:06:58,660 --> 00:07:01,640
+Konkurrenzsätzen gewesen. Im Großen
+
+165
+00:07:01,640 --> 00:07:02,580
+und Ganzen lässt sich einfach
+
+166
+00:07:02,580 --> 00:07:04,540
+festhalten, dass man diese braucht,
+
+167
+00:07:04,640 --> 00:07:07,120
+um zu beweisen, dass Dreiecke
+
+168
+00:07:07,120 --> 00:07:08,720
+identisch sind bzw. konkurrent
+
+169
+00:07:08,720 --> 00:07:12,460
+zueinander sind. Und am besten lernt
+
+170
+00:07:12,460 --> 00:07:14,400
+man diese auswendig bzw. kennt deren
+
+171
+00:07:14,400 --> 00:07:18,220
+Bedeutung. Wir kommen nun zu einer
+
+172
+00:07:18,220 --> 00:07:20,800
+kleinen Beispielaufgabe. Und zwar
+
+173
+00:07:20,800 --> 00:07:22,620
+sehen wir hier ein Dreieck, um genau
+
+174
+00:07:22,620 --> 00:07:24,420
+zu sein, ist es ein gleichschenkliges
+
+175
+00:07:24,420 --> 00:07:25,240
+Dreieck, das schon aus der
+
+176
+00:07:25,240 --> 00:07:27,620
+Aufgabenstellung ersichtlich ist. Und
+
+177
+00:07:27,620 --> 00:07:29,160
+wir sollen den Umfang sowie den
+
+178
+00:07:29,160 --> 00:07:30,780
+Flächeninhalt berechnen. Wir sehen
+
+179
+00:07:30,780 --> 00:07:32,460
+erstmal, wir haben hier die Seite A
+
+180
+00:07:32,460 --> 00:07:35,960
+mit 7 cm und die Grundseite C mit 1,5
+
+181
+00:07:35,960 --> 00:07:38,520
+cm, beziehungsweise das C, was hier
+
+182
+00:07:38,520 --> 00:07:39,840
+angegeben ist, geht nur bis zur
+
+183
+00:07:39,840 --> 00:07:41,700
+Mitte. Beim gleichständigen Dreieck
+
+184
+00:07:41,700 --> 00:07:44,360
+ist es ja der Fall, dass die Spitze
+
+185
+00:07:44,360 --> 00:07:45,800
+genau mittig über der Grundseite
+
+186
+00:07:45,800 --> 00:07:47,760
+sitzt und die Seite B ist natürlich
+
+187
+00:07:47,760 --> 00:07:50,000
+genauso lang wie Seite A. Das ist ja
+
+188
+00:07:50,000 --> 00:07:51,140
+die Eigenschaft eines gleichständigen
+
+189
+00:07:51,140 --> 00:07:52,300
+Dreiecks, was wir schon gelernt
+
+190
+00:07:52,300 --> 00:07:55,900
+haben. Um den Flächeninhalt zu
+
+191
+00:07:55,900 --> 00:07:58,420
+berechnen, Groß A, brauchen wir
+
+192
+00:07:58,420 --> 00:08:01,240
+natürlich die Höhe HC. Die haben wir
+
+193
+00:08:01,240 --> 00:08:03,400
+glücklicherweise schon gegeben, 8 cm.
+
+194
+00:08:04,420 --> 00:08:06,760
+Und damit fangen wir jetzt erstmal
+
+195
+00:08:06,760 --> 00:08:08,540
+an. Wir berechnen als erstes jetzt
+
+196
+00:08:08,540 --> 00:08:10,780
+einfach mal den Umgang. Der Umfang
+
+197
+00:08:10,780 --> 00:08:13,420
+war ja einfach A plus B plus C, in
+
+198
+00:08:13,420 --> 00:08:17,100
+dem Fall C' weil C geht ja nur bis
+
+199
+00:08:17,100 --> 00:08:19,580
+zur Mitte und C' ist die gesamte
+
+200
+00:08:19,580 --> 00:08:21,820
+Länge. Das C' können wir einfach
+
+201
+00:08:21,820 --> 00:08:24,320
+errechnen, indem wir C mit 2
+
+202
+00:08:24,320 --> 00:08:26,820
+multiplizieren, weil wenn man so
+
+203
+00:08:26,820 --> 00:08:29,360
+möchte haben wir hier nochmal die
+
+204
+00:08:29,360 --> 00:08:30,300
+Länge C.
+
+205
+00:08:33,480 --> 00:08:36,900
+Folglich ist C 3 cm lang. Wir wissen
+
+206
+00:08:36,900 --> 00:08:39,940
+ja A ist gleich B mit 7 cm und so
+
+207
+00:08:39,940 --> 00:08:41,020
+kommen wir für den Umfang. Umfang auf
+
+208
+00:08:41,020 --> 00:08:44,060
+7 plus 7 plus 3 Zentimetern, das
+
+209
+00:08:44,060 --> 00:08:46,080
+macht 7 Zentimeter. Wir können also
+
+210
+00:08:46,080 --> 00:08:48,200
+abschließend sagen, der Umfang dieses
+
+211
+00:08:48,200 --> 00:08:50,500
+gleichschenkligen Dreiecks beträgt 17
+
+212
+00:08:50,500 --> 00:08:53,880
+Zentimeter. Eigentlich schon
+
+213
+00:08:53,880 --> 00:08:55,140
+einfacher ist es bei dem
+
+214
+00:08:55,140 --> 00:08:59,720
+Flächeninhalt. Wir haben ja das C
+
+215
+00:08:59,720 --> 00:09:00,900
+-Strich schon gegeben, wir brauchen
+
+216
+00:09:00,900 --> 00:09:02,160
+ja immer die gesamte Länge der
+
+217
+00:09:02,160 --> 00:09:04,720
+Grundseite und das HC ist ebenfalls
+
+218
+00:09:04,720 --> 00:09:06,380
+gegeben. Das heißt, alles was wir
+
+219
+00:09:06,380 --> 00:09:07,360
+hier einsetzen müssen, haben wir
+
+220
+00:09:07,360 --> 00:09:09,620
+gegeben. deswegen setzen wir dies
+
+221
+00:09:09,620 --> 00:09:12,040
+einfach ein flächen halt groß a ist
+
+222
+00:09:12,040 --> 00:09:14,340
+dann gleich c strich mal hc strich
+
+223
+00:09:14,340 --> 00:09:16,460
+das hc strich ist einfach nur die
+
+224
+00:09:16,460 --> 00:09:19,240
+höhe die auf der grundseite c strich
+
+225
+00:09:19,240 --> 00:09:21,720
+steht also einfach unter hc so kommen
+
+226
+00:09:21,720 --> 00:09:25,180
+wir auf 3 x 8 cm durch 2 das macht 12
+
+227
+00:09:25,180 --> 00:09:28,300
+quadratzentimeter wir wissen jetzt
+
+228
+00:09:28,300 --> 00:09:30,200
+also dass der flächen inhalt dieses
+
+229
+00:09:30,200 --> 00:09:32,440
+dreiecks 12 quadratzentimeter beträgt
+
+230
+00:09:32,440 --> 00:09:36,000
+er beträgt und das wäre auch schon
+
+231
+00:09:36,000 --> 00:09:38,560
+die Beispielaufgabe. Also wie gesagt,
+
+232
+00:09:38,700 --> 00:09:40,600
+achtet immer darauf, was für ein
+
+233
+00:09:40,600 --> 00:09:41,920
+Dreieck, um was für ein Dreieck es
+
+234
+00:09:41,920 --> 00:09:43,200
+sich handelt. Das steht ganz oft in
+
+235
+00:09:43,200 --> 00:09:44,320
+der Aufgabenstellung, so wie auch
+
+236
+00:09:44,320 --> 00:09:46,240
+hier. Und das ist dann eine wichtige
+
+237
+00:09:46,240 --> 00:09:47,680
+Information, um die Aufgabenstellung
+
+238
+00:09:47,680 --> 00:09:49,200
+zu lösen. Sonst ist es oftmals
+
+239
+00:09:49,200 --> 00:09:51,260
+einfach schier nicht möglich, sie zu
+
+240
+00:09:51,260 --> 00:09:54,180
+lösen. Daher ist das Wissen, was wir
+
+241
+00:09:54,180 --> 00:09:56,520
+gerade angeschaut haben, doch
+
+242
+00:09:56,520 --> 00:09:57,360
+wichtig.
+
+243
+00:10:00,940 --> 00:10:03,060
+Damit Damit wären wir auch schon am
+
+244
+00:10:03,060 --> 00:10:05,520
+Ende des Webinars. Ich hoffe, ihr
+
+245
+00:10:05,520 --> 00:10:06,720
+habt daran Gefallen gefunden und
+
+246
+00:10:06,720 --> 00:10:07,820
+konntet etwas aus dem Webinar
+
+247
+00:10:07,820 --> 00:10:10,020
+mitnehmen. Ich bedanke mich auf jeden
+
+248
+00:10:10,020 --> 00:10:10,760
+Fall schon mal für eure
+
+249
+00:10:10,760 --> 00:10:13,060
+Aufmerksamkeit und wünsche euch noch
+
+250
+00:10:13,060 --> 00:10:13,680
+einen schönen Abend.
+

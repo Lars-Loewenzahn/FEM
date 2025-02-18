@@ -1,0 +1,2000 @@
+1
+00:00:01,580 --> 00:00:03,400
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,400 --> 00:00:06,680
+Kombinatorische Abzählverfahren. Wir
+
+3
+00:00:06,680 --> 00:00:08,620
+werden uns in diesem Webinar mit
+
+4
+00:00:08,620 --> 00:00:10,240
+verschiedenen Abzählverfahren
+
+5
+00:00:10,240 --> 00:00:12,020
+beschäftigen. Wir schauen uns zuerst
+
+6
+00:00:12,020 --> 00:00:13,440
+an, wozu brauchen wir die
+
+7
+00:00:13,440 --> 00:00:15,940
+Abzählverfahren und welche Verfahren
+
+8
+00:00:15,940 --> 00:00:18,580
+gibt es überhaupt. Anschließend
+
+9
+00:00:18,580 --> 00:00:20,220
+beschäftigen wir uns mit diesen, ich
+
+10
+00:00:20,220 --> 00:00:21,320
+nehme es mal vorweg, dreifach
+
+11
+00:00:21,320 --> 00:00:23,080
+Verfahren. Das ist einerseits die
+
+12
+00:00:23,080 --> 00:00:25,400
+Permutation, die Kombination und die
+
+13
+00:00:25,400 --> 00:00:28,560
+Variation. Wir werden die drei Fälle
+
+14
+00:00:28,560 --> 00:00:31,220
+bzw. insgesamt sechs Fälle anhand
+
+15
+00:00:31,220 --> 00:00:33,260
+eines Beispiels vorstellen und ganz
+
+16
+00:00:33,260 --> 00:00:34,500
+zum Schluss werden wir die Formeln,
+
+17
+00:00:34,540 --> 00:00:36,120
+die wir gezeigt haben oder benutzt
+
+18
+00:00:36,120 --> 00:00:37,480
+haben, nochmal anhand einer kleinen
+
+19
+00:00:37,480 --> 00:00:38,880
+Formelsammlung zusammenfassen.
+
+20
+00:00:39,300 --> 00:00:42,120
+Wichtig hierbei ist, wir
+
+21
+00:00:42,120 --> 00:00:43,900
+unterscheiden bei der Kombination und
+
+22
+00:00:43,900 --> 00:00:45,940
+der Variation zwischen ohne
+
+23
+00:00:45,940 --> 00:00:48,400
+Wiederholung und mit Wiederholung und
+
+24
+00:00:48,400 --> 00:00:50,660
+bei der Permutation sind wir bei,
+
+25
+00:00:50,780 --> 00:00:52,000
+dass wir unterscheiden zwischen
+
+26
+00:00:52,000 --> 00:00:53,440
+können wir die Elemente unterscheiden
+
+27
+00:00:53,440 --> 00:00:56,240
+und nicht unterscheiden. In welchem
+
+28
+00:00:56,240 --> 00:00:57,400
+Fall wir jeweils haben, werde ich
+
+29
+00:00:57,400 --> 00:00:58,720
+dann natürlich nochmal erklären und
+
+30
+00:00:58,720 --> 00:01:00,440
+auch warum wir diesen Fall haben.
+
+31
+00:01:00,820 --> 00:01:03,080
+Aber fangen wir doch erstmal an, wozu
+
+32
+00:01:03,080 --> 00:01:05,300
+brauchen wir Abzählverfahren und was
+
+33
+00:01:05,300 --> 00:01:07,020
+ist das überhaupt? Also
+
+34
+00:01:07,020 --> 00:01:09,300
+Abzählverfahren sind Methoden, um
+
+35
+00:01:09,300 --> 00:01:11,280
+Kombinationen, Permutationen und
+
+36
+00:01:11,280 --> 00:01:15,060
+Variationen von Mengen unterscheidbar
+
+37
+00:01:15,060 --> 00:01:17,320
+oder ununterscheidbar durchzuzählen.
+
+38
+00:01:17,400 --> 00:01:20,460
+Das heißt, wir brauchen das ganz oft
+
+39
+00:01:20,460 --> 00:01:21,540
+in der Wahrscheinlichkeitsrechnung,
+
+40
+00:01:21,580 --> 00:01:22,420
+denn der allgemeine
+
+41
+00:01:22,420 --> 00:01:23,700
+Wahrscheinlichkeitsbegriff ist ja
+
+42
+00:01:23,700 --> 00:01:26,720
+Anzahl der günstigen Ergebnisse durch
+
+43
+00:01:26,720 --> 00:01:28,280
+Anzahl aller möglichen Ergebnisse.
+
+44
+00:01:28,880 --> 00:01:32,800
+Mittels dieser drei Verfahren, also
+
+45
+00:01:32,800 --> 00:01:34,220
+Kombination, Permutation und
+
+46
+00:01:34,220 --> 00:01:36,300
+Variation, können wir den Nenner
+
+47
+00:01:36,300 --> 00:01:39,920
+dieses Bruchs bestimmen. Denn der
+
+48
+00:01:39,920 --> 00:01:41,460
+Zähler des Bruchs ist ja eigentlich
+
+49
+00:01:41,460 --> 00:01:42,600
+immer recht schnell bestimmt oder
+
+50
+00:01:42,600 --> 00:01:43,100
+vielleicht auch in der
+
+51
+00:01:43,100 --> 00:01:45,000
+Aufgabenstellung schon indirekt
+
+52
+00:01:45,000 --> 00:01:47,460
+vorgegeben. Schwierig ist es aber
+
+53
+00:01:47,460 --> 00:01:49,140
+oftmals, den Nenner, also die Anzahl
+
+54
+00:01:49,140 --> 00:01:51,360
+aller möglichen Ergebnisse zu
+
+55
+00:01:51,360 --> 00:01:52,880
+bestimmen, also wie viele. Fälle
+
+56
+00:01:52,880 --> 00:01:54,000
+können denn eintreffen? Wie viele
+
+57
+00:01:54,000 --> 00:01:56,360
+Kombinationen gibt es? Und genau
+
+58
+00:01:56,360 --> 00:01:58,280
+darum kümmern wir uns in diesem
+
+59
+00:01:58,280 --> 00:02:00,860
+Webinar. Das heißt, wir beschäftigen
+
+60
+00:02:00,860 --> 00:02:02,260
+uns weniger mit der
+
+61
+00:02:02,260 --> 00:02:03,320
+Wahrscheinlichkeitsrechnung, sondern
+
+62
+00:02:03,320 --> 00:02:06,120
+eher um die Anzahl aller möglichen
+
+63
+00:02:06,120 --> 00:02:07,680
+Ereignisse, also um Kombinationen.
+
+64
+00:02:08,620 --> 00:02:10,540
+Und damit wären wir auch schon bei
+
+65
+00:02:10,540 --> 00:02:12,200
+der Permutation, Variation und
+
+66
+00:02:12,200 --> 00:02:15,600
+Kombination. Die Permutation gibt an,
+
+67
+00:02:15,700 --> 00:02:17,520
+wie viele Möglichkeiten es gibt, die
+
+68
+00:02:17,520 --> 00:02:19,460
+Elemente einer Menge zu sortieren.
+
+69
+00:02:20,860 --> 00:02:21,960
+Beispiel ist hierfür die
+
+70
+00:02:21,960 --> 00:02:23,540
+Sitzplatzvergabe am Tisch. Das haben
+
+71
+00:02:23,540 --> 00:02:25,220
+wir auch gleich als Beispiel. Und bei
+
+72
+00:02:25,220 --> 00:02:27,300
+der Permutation unterscheiden wir
+
+73
+00:02:27,300 --> 00:02:29,380
+zwischen unterscheidbar und nicht
+
+74
+00:02:29,380 --> 00:02:32,320
+unterscheidbar. Die Variation gibt
+
+75
+00:02:32,320 --> 00:02:33,880
+all die viele Möglichkeiten, dass es
+
+76
+00:02:33,880 --> 00:02:35,200
+einer geordneten und einer
+
+77
+00:02:35,200 --> 00:02:37,740
+ungeordneten Unterverteilung einer
+
+78
+00:02:37,740 --> 00:02:41,780
+Teilmenge von L-Elementen gibt. Das
+
+79
+00:02:41,780 --> 00:02:44,260
+heißt, wir haben dazu ein Beispiel.
+
+80
+00:02:45,040 --> 00:02:46,600
+Eine Anzahl an Sportlern nimmt an
+
+81
+00:02:46,600 --> 00:02:48,260
+einem Wettbewerb teil mit Gold,
+
+82
+00:02:48,360 --> 00:02:50,860
+Silber und Bronzeplatzierung. Wichtig
+
+83
+00:02:50,860 --> 00:02:53,400
+ist dabei halt immer, ob man das mit
+
+84
+00:02:53,400 --> 00:02:54,660
+Wiederholung oder ohne Wiederholung
+
+85
+00:02:54,660 --> 00:02:57,580
+betrachtet. Und das hängt dann auch
+
+86
+00:02:57,580 --> 00:02:59,820
+von Beispielen ab. Wir haben jeweils
+
+87
+00:02:59,820 --> 00:03:06,300
+ein Beispiel zu mit Wiederholung
+
+88
+00:03:06,300 --> 00:03:08,700
+und ein Beispiel ohne Wiederholung.
+
+89
+00:03:09,240 --> 00:03:10,740
+Gleiches gilt für die Kombination. Da
+
+90
+00:03:10,740 --> 00:03:12,140
+haben wir auch zwei Beispiele zu,
+
+91
+00:03:12,280 --> 00:03:15,820
+damit man einfach sieht, wovon wird
+
+92
+00:03:15,820 --> 00:03:17,480
+es abhängig gemacht. Ich nehme mal
+
+93
+00:03:17,480 --> 00:03:18,840
+vorweg, das ist eigentlich immer aus
+
+94
+00:03:18,840 --> 00:03:20,000
+dem Aufgang. Text, den muss man
+
+95
+00:03:20,000 --> 00:03:22,860
+leider entsprechend lesen und das
+
+96
+00:03:22,860 --> 00:03:25,460
+verstehen und auch deuten. Als
+
+97
+00:03:25,460 --> 00:03:26,440
+letztes haben wir dann noch die
+
+98
+00:03:26,440 --> 00:03:29,720
+Kombination. Kombinationen geben an,
+
+99
+00:03:29,780 --> 00:03:31,360
+wie viele Möglichkeiten es gibt, aus
+
+100
+00:03:31,360 --> 00:03:34,160
+einer n-elementigen Menge k Elemente
+
+101
+00:03:34,160 --> 00:03:35,660
+zu entnehmen. Das ist einfach der
+
+102
+00:03:35,660 --> 00:03:37,260
+Binomialkoeffizient. Also
+
+103
+00:03:37,260 --> 00:03:38,820
+Kombinationen sind eigentlich das,
+
+104
+00:03:38,980 --> 00:03:41,200
+was wir in der Stochastik beim
+
+105
+00:03:41,200 --> 00:03:42,640
+Binomialkoeffizienten brauchen,
+
+106
+00:03:42,880 --> 00:03:44,160
+beziehungsweise bei der Benullikette.
+
+107
+00:03:44,960 --> 00:03:47,860
+Ein Beispiel dazu wäre zum Beispiel
+
+108
+00:03:47,860 --> 00:03:49,860
+Wie oft hört man es klären, wenn sich
+
+109
+00:03:49,860 --> 00:03:53,440
+zehn Leute einander zuposten? Und
+
+110
+00:03:53,440 --> 00:03:55,260
+damit würde ich sagen, starten wir
+
+111
+00:03:55,260 --> 00:03:57,480
+jetzt mit der Permutation. In dem
+
+112
+00:03:57,480 --> 00:04:00,120
+Fall ist die Permutation von
+
+113
+00:04:00,120 --> 00:04:01,980
+unterscheidbaren Mengen, denn wir
+
+114
+00:04:01,980 --> 00:04:04,400
+haben das Beispiel, an einem Tisch
+
+115
+00:04:04,400 --> 00:04:06,260
+nimmt fünf Personen Platz. Und die
+
+116
+00:04:06,260 --> 00:04:07,380
+Frage ist jetzt, wie viele
+
+117
+00:04:07,380 --> 00:04:08,800
+Möglichkeiten der Verteilung gibt es?
+
+118
+00:04:08,820 --> 00:04:09,740
+Die fünf Personen können wir
+
+119
+00:04:09,740 --> 00:04:10,660
+natürlich auseinanderhalten. Die
+
+120
+00:04:10,660 --> 00:04:12,020
+haben alle, nehmen wir mal an, einen
+
+121
+00:04:12,020 --> 00:04:13,800
+Namen. und daher können wir sie
+
+122
+00:04:13,800 --> 00:04:15,380
+wunderbar auseinanderhalten und
+
+123
+00:04:15,380 --> 00:04:16,380
+berechnen nun, wie viele
+
+124
+00:04:16,380 --> 00:04:17,880
+Möglichkeiten es gibt, diese fünf
+
+125
+00:04:17,880 --> 00:04:19,460
+Personen an diesem schönen Tisch zu
+
+126
+00:04:19,460 --> 00:04:23,480
+verteilen. Die Formel dafür ist
+
+127
+00:04:23,480 --> 00:04:25,040
+einfach die Fakultät von n, also das
+
+128
+00:04:25,040 --> 00:04:27,120
+n-Ausrufezeichen. Das Ausrufezeichen
+
+129
+00:04:27,120 --> 00:04:28,180
+ist das Formelzeichen für die
+
+130
+00:04:28,180 --> 00:04:30,780
+Fakultät und das besagt, dass man
+
+131
+00:04:30,780 --> 00:04:32,960
+alle Zahlen bis n aneinander
+
+132
+00:04:32,960 --> 00:04:35,540
+multiplizieren soll. Das heißt, wenn
+
+133
+00:04:35,540 --> 00:04:36,860
+die Fakultät von 5 ist hier
+
+134
+00:04:36,860 --> 00:04:38,740
+beschrieben, das ist 5 mal 4 mal 3
+
+135
+00:04:38,740 --> 00:04:41,840
+mal 2 mal 1 bzw. 1 mal 2 mal 3 mal 4
+
+136
+00:04:41,840 --> 00:04:45,600
+mal 5. Das ist in dem Fall 120. Das
+
+137
+00:04:45,600 --> 00:04:47,940
+heißt, es gibt 120 Möglichkeiten, die
+
+138
+00:04:47,940 --> 00:04:48,880
+Sitzplätze zu verteilen.
+
+139
+00:04:51,700 --> 00:04:53,200
+Wie kommen wir da drauf? Man kann
+
+140
+00:04:53,200 --> 00:04:55,200
+sich das Ganze auch vorstellen. Die
+
+141
+00:04:55,200 --> 00:04:57,640
+erste Person nimmt Platz. Diese hat 5
+
+142
+00:04:57,640 --> 00:05:01,220
+Plätze zur Auswahl, die sie nutzen
+
+143
+00:05:01,220 --> 00:05:03,520
+kann. Wenn sie sich hingesetzt hat,
+
+144
+00:05:03,560 --> 00:05:05,860
+hat die nächste Person noch vier
+
+145
+00:05:05,860 --> 00:05:08,060
+Plätze zur Auswahl. Wenn die sich
+
+146
+00:05:08,060 --> 00:05:09,520
+hingesetzt hat, hat die nächste
+
+147
+00:05:09,520 --> 00:05:11,560
+Person wiederum noch drei Plätze zur
+
+148
+00:05:11,560 --> 00:05:13,660
+Auswahl und die nächste Person nur
+
+149
+00:05:13,660 --> 00:05:16,180
+noch zwei, bis die letzte Person nur
+
+150
+00:05:16,180 --> 00:05:18,540
+noch einen Sitzplatz hat und so setzt
+
+151
+00:05:18,540 --> 00:05:19,560
+sich das dann zusammen. Wenn wir
+
+152
+00:05:19,560 --> 00:05:23,200
+mitrechnen, 5 mal 4 mal 3 mal 2 ist
+
+153
+00:05:23,200 --> 00:05:28,080
+schon 120 und mal 1 dann. So kommen
+
+154
+00:05:28,080 --> 00:05:30,120
+wir auf die 120 bzw. wir haben im
+
+155
+00:05:30,120 --> 00:05:31,340
+Endeffekt... nichts weiter als die
+
+156
+00:05:31,340 --> 00:05:36,180
+Fakultät gebildet. Und damit sind wir
+
+157
+00:05:36,180 --> 00:05:38,300
+dann auch schon bei der Permutation
+
+158
+00:05:38,300 --> 00:05:44,260
+2. Wir beschäftigen uns mit einer
+
+159
+00:05:44,260 --> 00:05:47,080
+Gruppe ununterscheidbarer Elemente.
+
+160
+00:05:47,080 --> 00:05:49,800
+Das heißt, wir haben jetzt den Fall,
+
+161
+00:05:49,820 --> 00:05:53,040
+dass wir Kugeln haben, blau, rot und
+
+162
+00:05:53,040 --> 00:05:55,900
+grün, aber wir können die blauen
+
+163
+00:05:55,900 --> 00:05:57,240
+Kugeln untereinander nicht mehr
+
+164
+00:05:57,240 --> 00:05:59,840
+unterscheiden. Das ist halt der große
+
+165
+00:05:59,840 --> 00:06:02,040
+Unterschied zu gerade. Die Leute
+
+166
+00:06:02,040 --> 00:06:03,720
+konnten wir alle unterscheiden. In
+
+167
+00:06:03,720 --> 00:06:04,860
+dem Fall können wir die Kugeln nicht
+
+168
+00:06:04,860 --> 00:06:06,600
+unterscheiden. Wir haben sieben blaue
+
+169
+00:06:06,600 --> 00:06:07,800
+Kugeln, die können wir untereinander
+
+170
+00:06:07,800 --> 00:06:09,160
+nicht unterscheiden. Zehn rote, die
+
+171
+00:06:09,160 --> 00:06:10,180
+wir untereinander nicht unterscheiden
+
+172
+00:06:10,180 --> 00:06:11,880
+können. Und drei grüne, die wir
+
+173
+00:06:11,880 --> 00:06:12,680
+untereinander nicht unterscheiden
+
+174
+00:06:12,680 --> 00:06:14,560
+können. Das heißt, Das Ergebnis bei
+
+175
+00:06:14,560 --> 00:06:16,140
+der Verteilung dieser Kugeln wird
+
+176
+00:06:16,140 --> 00:06:18,640
+dann angegeben nach dem Muster blau,
+
+177
+00:06:18,640 --> 00:06:21,320
+rot, grün, grün, blau, rot. Das heißt
+
+178
+00:06:21,320 --> 00:06:22,900
+nicht irgendwie rote Kugel mit Nummer
+
+179
+00:06:22,900 --> 00:06:25,640
+1, weil die haben keine Zahlen. Es
+
+180
+00:06:25,640 --> 00:06:27,180
+gibt für uns nur eine rote Kugel. Die
+
+181
+00:06:27,180 --> 00:06:28,500
+roten Kugeln können wir, wie schon
+
+182
+00:06:28,500 --> 00:06:31,440
+mehrmals gesagt, nicht unterscheiden.
+
+183
+00:06:31,760 --> 00:06:33,900
+Und daher haben wir jetzt hier
+
+184
+00:06:33,900 --> 00:06:35,660
+Permutationen mit Gruppen
+
+185
+00:06:35,660 --> 00:06:40,180
+ununterscheidbarer Elemente. Und das
+
+186
+00:06:40,180 --> 00:06:42,140
+berechnen wir. Wir bilden einfach die
+
+187
+00:06:42,140 --> 00:06:45,080
+Fakultät der Anzahl aller Kugeln und
+
+188
+00:06:45,080 --> 00:06:48,380
+dann teilen wir diese Fakultät durch
+
+189
+00:06:48,380 --> 00:06:50,320
+das Produkt der Fakultäten der
+
+190
+00:06:50,320 --> 00:06:52,920
+Untergruppen. Das heißt, wir haben
+
+191
+00:06:52,920 --> 00:06:54,200
+hier sieben blaue Kugeln, das heißt
+
+192
+00:06:54,200 --> 00:06:56,920
+20 Fakultäten durch die Fakultät von
+
+193
+00:06:56,920 --> 00:06:59,960
+sieben mal zehn rote Kugeln, also mal
+
+194
+00:06:59,960 --> 00:07:03,040
+die Fakultät von zehn mal die
+
+195
+00:07:03,040 --> 00:07:04,620
+Fakultät von drei noch für die drei
+
+196
+00:07:04,620 --> 00:07:06,900
+grünen Kugeln. und das sind wie
+
+197
+00:07:06,900 --> 00:07:08,420
+gesagt Zahlen, die berechnet man nur
+
+198
+00:07:08,420 --> 00:07:09,500
+noch mit dem Taschenrechner, das wird
+
+199
+00:07:09,500 --> 00:07:13,040
+sonst zu groß und das ist dann die
+
+200
+00:07:13,040 --> 00:07:17,280
+Anzahl an möglichen Kombinationen,
+
+201
+00:07:17,280 --> 00:07:18,960
+die wir so erstellen können. Wie
+
+202
+00:07:18,960 --> 00:07:20,680
+gesagt, die Kombinationen bestehen
+
+203
+00:07:20,680 --> 00:07:23,880
+nur aus Blau, Rot und Grün und
+
+204
+00:07:25,870 --> 00:07:28,310
+das ist wie gesagt die Anzahl und das
+
+205
+00:07:28,310 --> 00:07:29,410
+ist jede Menge.
+
+206
+00:07:33,140 --> 00:07:34,620
+Damit wären wir auch schon bei
+
+207
+00:07:34,620 --> 00:07:36,820
+Kombinationen, in dem Fall ohne
+
+208
+00:07:36,820 --> 00:07:39,520
+Wiederholung. Ja, ich hatte ja zu
+
+209
+00:07:39,520 --> 00:07:41,400
+Anfang gesagt, wir haben immer ein
+
+210
+00:07:41,400 --> 00:07:43,340
+Beispiel bei Kombination und
+
+211
+00:07:43,340 --> 00:07:45,180
+Variation zu ohne Wiederholung und
+
+212
+00:07:45,180 --> 00:07:46,900
+mit Wiederholung. In dem Fall ist das
+
+213
+00:07:46,900 --> 00:07:48,780
+Beispiel zu ohne Wiederholung. Das
+
+214
+00:07:48,780 --> 00:07:50,840
+heißt, das entspricht dem Ziehen ohne
+
+215
+00:07:50,840 --> 00:07:52,480
+Zurücklegen, ohne Beachtung der
+
+216
+00:07:52,480 --> 00:07:54,980
+Reihenfolge. Und zwar, wir haben die
+
+217
+00:07:54,980 --> 00:07:57,160
+Aufgabe, aus einer Gruppe von 15
+
+218
+00:07:57,160 --> 00:07:58,840
+Menschen sollen drei ausgewählt
+
+219
+00:07:58,840 --> 00:08:00,660
+werden. Wie viele Möglichkeiten der
+
+220
+00:08:00,660 --> 00:08:03,360
+Gruppierung gibt es? Es ist in dem
+
+221
+00:08:03,360 --> 00:08:05,020
+Fall, ich erkläre nochmal, wie das
+
+222
+00:08:05,020 --> 00:08:08,160
+zustande kommt. Es ist in dem Fall ja
+
+223
+00:08:08,160 --> 00:08:09,740
+so, es wird eine Person ausgewählt
+
+224
+00:08:09,740 --> 00:08:13,520
+und diese steht dann ja nicht mehr
+
+225
+00:08:13,520 --> 00:08:15,860
+zur Auswahl. Das heißt, nachdem die
+
+226
+00:08:15,860 --> 00:08:17,720
+erste Person von den 15 ausgewählt
+
+227
+00:08:17,720 --> 00:08:19,160
+wurde, stehen nur noch 14 zur
+
+228
+00:08:19,160 --> 00:08:20,840
+Auswahl. Nachdem die zweite
+
+229
+00:08:20,840 --> 00:08:22,400
+ausgewählt wurde, stehen nur noch 13
+
+230
+00:08:22,400 --> 00:08:25,340
+zur Auswahl. Deswegen ist es ohne
+
+231
+00:08:25,340 --> 00:08:28,240
+Zurücklegen. Und es geht da ja
+
+232
+00:08:28,240 --> 00:08:29,580
+einfach nur um die Zusammenstellung
+
+233
+00:08:29,580 --> 00:08:31,220
+einer Gruppe oder eines Teams, wenn
+
+234
+00:08:31,220 --> 00:08:32,520
+wir so wollen. Es gibt keine
+
+235
+00:08:32,520 --> 00:08:34,680
+Hierarchie da drin oder nichts, wie
+
+236
+00:08:34,680 --> 00:08:36,940
+man sie unterscheiden sollte. oder
+
+237
+00:08:36,940 --> 00:08:38,800
+kann. Daher ist es eigentlich egal,
+
+238
+00:08:38,920 --> 00:08:41,040
+in welcher Reihenfolge die Leute
+
+239
+00:08:41,040 --> 00:08:44,000
+gewählt wurden oder ausgelost wurden.
+
+240
+00:08:44,360 --> 00:08:46,440
+Sie sind in der Gruppe und mehr
+
+241
+00:08:46,440 --> 00:08:47,780
+können wir darüber nicht sagen. Daher
+
+242
+00:08:47,780 --> 00:08:50,040
+ist die Reihenfolge egal. Daher
+
+243
+00:08:50,040 --> 00:08:51,680
+ziehen ohne zurücklegen, ohne
+
+244
+00:08:51,680 --> 00:08:54,900
+Beachtung der Reihenfolge. Wir
+
+245
+00:08:54,900 --> 00:08:57,440
+brauchen für die Frage zu beantworten
+
+246
+00:08:57,440 --> 00:08:57,980
+den sogenannten
+
+247
+00:08:57,980 --> 00:09:00,480
+Binomialkoeffizienten. Das ist den,
+
+248
+00:09:00,540 --> 00:09:02,360
+den wir auch immer in der Bernoulli
+
+249
+00:09:02,360 --> 00:09:05,200
+-Kette brauchen. Das heißt, die
+
+250
+00:09:05,200 --> 00:09:07,080
+Formel lautet n über k, so spricht
+
+251
+00:09:07,080 --> 00:09:07,820
+man das, das ist der
+
+252
+00:09:07,820 --> 00:09:10,060
+Primalkoeffizient. Und diesen kann
+
+253
+00:09:10,060 --> 00:09:11,500
+man berechnen durch die Fakultät von
+
+254
+00:09:11,500 --> 00:09:14,320
+n durch k Fakultät mal n minus k und
+
+255
+00:09:14,320 --> 00:09:17,680
+davon die Fakultät. In dem Fall n ist
+
+256
+00:09:17,680 --> 00:09:20,080
+die Anzahl der Leute, die wir haben,
+
+257
+00:09:20,200 --> 00:09:22,820
+in dem Fall 15. Und das k ist die
+
+258
+00:09:22,820 --> 00:09:23,980
+Anzahl der Leute, die wir wählen,
+
+259
+00:09:23,980 --> 00:09:26,060
+also wie viele wählen wir, in dem
+
+260
+00:09:26,060 --> 00:09:28,160
+Fall drei Stück. So kommen wir zu F
+
+261
+00:09:28,160 --> 00:09:30,260
+-Fakultät von 15 durch Fakultät von 3
+
+262
+00:09:30,260 --> 00:09:32,120
+mal 15 minus 3 und davon die
+
+263
+00:09:32,120 --> 00:09:35,240
+Fakultät. Das sind insgesamt 455. Das
+
+264
+00:09:35,240 --> 00:09:37,720
+heißt, es gibt 455 Möglichkeiten, die
+
+265
+00:09:37,720 --> 00:09:41,960
+Gruppe zusammenzustellen. Und daher,
+
+266
+00:09:42,180 --> 00:09:44,620
+damit ist die Aufgabe auch schon
+
+267
+00:09:44,620 --> 00:09:47,140
+berechnet. So ein
+
+268
+00:09:47,140 --> 00:09:48,680
+Binomialkoeffizient, den muss man
+
+269
+00:09:48,680 --> 00:09:50,260
+nicht immer so ausrechnen. Den kann
+
+270
+00:09:50,260 --> 00:09:51,780
+auch der Taschenrechner ausrechnen.
+
+271
+00:09:52,220 --> 00:09:54,680
+Der Befehl dafür lautet meistens
+
+272
+00:09:54,680 --> 00:09:58,660
+dieses ncr. Ja, das müsste sich dann
+
+273
+00:09:58,660 --> 00:10:00,180
+irgendwo in dem Menü oder auf dem
+
+274
+00:10:00,180 --> 00:10:01,360
+Taschenrechner befinden und dann kann
+
+275
+00:10:01,360 --> 00:10:03,780
+der auch solche Binomialkoeffizienten
+
+276
+00:10:03,780 --> 00:10:04,540
+lösen.
+
+277
+00:10:07,530 --> 00:10:09,490
+Und damit wären wir auch schon bei
+
+278
+00:10:09,490 --> 00:10:13,430
+Kombination mit Wiederholung. Wir
+
+279
+00:10:13,430 --> 00:10:15,730
+haben in diesem Fall die Aufgabe, und
+
+280
+00:10:15,730 --> 00:10:17,470
+zwar an einem Zehnkampf nehmen 18
+
+281
+00:10:17,470 --> 00:10:19,350
+Teilnehmer teil. Bei jeder Disziplin
+
+282
+00:10:19,350 --> 00:10:21,090
+kann es genau einen Sieger geben. Wie
+
+283
+00:10:21,090 --> 00:10:22,050
+viele Möglichkeiten der
+
+284
+00:10:22,050 --> 00:10:23,130
+Siegerverteilung gibt es? ist.
+
+285
+00:10:23,810 --> 00:10:25,570
+Zehnkampf bedeutet, es werden zehn
+
+286
+00:10:25,570 --> 00:10:27,650
+Wettbewerbe durchgeführt und in
+
+287
+00:10:27,650 --> 00:10:29,030
+unserem Fall nehmen 18 Teilnehmer
+
+288
+00:10:29,030 --> 00:10:33,790
+teil. Wichtig dabei ist, es wird
+
+289
+00:10:33,790 --> 00:10:36,910
+nicht irgendwie ein Gesamtsieger von
+
+290
+00:10:36,910 --> 00:10:39,630
+dem Event geben, sondern für jeden
+
+291
+00:10:39,630 --> 00:10:41,950
+der zehn Kämpfe kann es einen Sieger
+
+292
+00:10:41,950 --> 00:10:43,310
+geben. Das heißt im Umkehrschluss
+
+293
+00:10:43,310 --> 00:10:46,730
+auch, ein Teilnehmer kann zehn Sieger
+
+294
+00:10:46,730 --> 00:10:50,250
+erlangen. Und deswegen ist es ziehen
+
+295
+00:10:50,250 --> 00:10:52,750
+mit zurücklegen. Bei jedem Kampf,
+
+296
+00:10:52,930 --> 00:10:55,190
+unabhängig davon, ob der Kampf davor
+
+297
+00:10:55,190 --> 00:10:56,890
+gewonnen oder verloren wurde, haben
+
+298
+00:10:56,890 --> 00:10:58,910
+alle 18 Teilnehmer weiterhin die
+
+299
+00:10:58,910 --> 00:11:01,950
+Chance zu siegen oder eben nicht.
+
+300
+00:11:02,470 --> 00:11:05,730
+Deswegen ist es das Ziehen mit
+
+301
+00:11:05,730 --> 00:11:08,650
+Zurücklegen, weil immer 18 Teilnehmer
+
+302
+00:11:08,650 --> 00:11:12,430
+die Chance auf den Sieg haben. Des
+
+303
+00:11:12,430 --> 00:11:16,270
+Weiteren ist die Reihenfolge egal,
+
+304
+00:11:16,550 --> 00:11:20,350
+weil es
+
+305
+00:11:21,980 --> 00:11:24,500
+geht ja um die Möglichkeit... der
+
+306
+00:11:24,500 --> 00:11:25,800
+Siegerverteilung. Es geht nicht
+
+307
+00:11:25,800 --> 00:11:28,040
+darum, wer was gewonnen hat und es
+
+308
+00:11:28,040 --> 00:11:29,540
+geht lediglich um die Möglichkeiten
+
+309
+00:11:29,540 --> 00:11:31,080
+der Siegerverteilung und es gibt nur
+
+310
+00:11:31,080 --> 00:11:33,780
+einen Sieg und keinen Sieg. Wir
+
+311
+00:11:33,780 --> 00:11:34,980
+unterscheiden nicht zwischen Gold,
+
+312
+00:11:35,020 --> 00:11:36,420
+Bronze, Silber, das machen wir später
+
+313
+00:11:36,420 --> 00:11:38,200
+nochmal und daher ist es ohne
+
+314
+00:11:38,200 --> 00:11:41,220
+Beachtung der Reihenfolge. Die
+
+315
+00:11:41,220 --> 00:11:43,580
+Formel, die wir dafür brauchen, ist
+
+316
+00:11:43,580 --> 00:11:46,080
+auch ein Binomialkoeffizient. Dieser
+
+317
+00:11:46,080 --> 00:11:49,680
+ist nur stark abgeändert. Wir hatten
+
+318
+00:11:49,680 --> 00:11:52,300
+ja vorhin N über K, jetzt haben wir,
+
+319
+00:11:52,340 --> 00:11:53,500
+wie gesagt, in einem
+
+320
+00:11:53,500 --> 00:11:56,260
+Biminialkoeffizient n plus k minus 1
+
+321
+00:11:56,260 --> 00:11:58,640
+über k. Wir berechnen den
+
+322
+00:11:58,640 --> 00:12:00,180
+Biminialkoeffizienten aber genauso
+
+323
+00:12:00,180 --> 00:12:02,160
+wie vorher, also entweder mittels des
+
+324
+00:12:02,160 --> 00:12:05,740
+Taschenrechners oder n plus k minus 1
+
+325
+00:12:05,740 --> 00:12:08,720
+davon die Fakultät durch k Fakultät
+
+326
+00:12:08,720 --> 00:12:13,340
+mal n minus 1 Fakultät. Und also
+
+327
+00:12:13,340 --> 00:12:16,220
+dieses n minus 1 rührt einfach daher,
+
+328
+00:12:16,380 --> 00:12:17,780
+wir hätten hier einfach eigentlich
+
+329
+00:12:17,780 --> 00:12:20,740
+stehen, das
+
+330
+00:12:22,080 --> 00:12:23,480
+was wir auch auf der letzten Folie
+
+331
+00:12:23,480 --> 00:12:24,820
+stehen hatten und das kann man
+
+332
+00:12:24,820 --> 00:12:25,960
+natürlich dann hier vereinfachen,
+
+333
+00:12:25,980 --> 00:12:27,080
+weil wir hier auch n und k drin
+
+334
+00:12:27,080 --> 00:12:30,200
+haben. Deswegen ist es entsprechend,
+
+335
+00:12:30,340 --> 00:12:32,680
+sagen wir mal, vereinfacht. Wir
+
+336
+00:12:32,680 --> 00:12:34,140
+hatten hier eigentlich n minus k drin
+
+337
+00:12:34,140 --> 00:12:37,240
+stehen und bei uns wäre das jetzt n
+
+338
+00:12:37,240 --> 00:12:40,280
+plus k minus 1 minus k plus k minus k
+
+339
+00:12:40,280 --> 00:12:42,920
+ist n minus 1. Daher nehmt einfach
+
+340
+00:12:42,920 --> 00:12:45,520
+die Formel und dann habt ihr direkt
+
+341
+00:12:45,520 --> 00:12:46,900
+das Ergebnis bzw. könnt es direkt
+
+342
+00:12:46,900 --> 00:12:53,000
+einsetzen. Bei uns ist das n gleich
+
+343
+00:12:53,000 --> 00:12:57,240
+17 und das k gleich 10. So kommen wir
+
+344
+00:12:57,240 --> 00:12:59,180
+zu der Fakultät von 27 durch die
+
+345
+00:12:59,180 --> 00:13:01,400
+Fakultät von 10 mal die Fakultät von
+
+346
+00:13:01,400 --> 00:13:04,940
+17 und wir haben entsprechend diese
+
+347
+00:13:04,940 --> 00:13:08,240
+Anzahl an verschiedenen Möglichkeiten
+
+348
+00:13:08,240 --> 00:13:11,880
+für die Verteilung der Gewinner. Das
+
+349
+00:13:11,880 --> 00:13:15,980
+sind in dem Fall 8.436.285, also das
+
+350
+00:13:15,980 --> 00:13:19,550
+sind schon ein paar. Das wäre es dann
+
+351
+00:13:19,550 --> 00:13:20,910
+auch zu den Kombinationen gewesen.
+
+352
+00:13:21,510 --> 00:13:23,450
+Und wir sind dabei jetzt mit der
+
+353
+00:13:23,450 --> 00:13:25,770
+Variation. Und zwar haben wir jetzt
+
+354
+00:13:25,770 --> 00:13:27,710
+die Variation ohne Wiederholung.
+
+355
+00:13:27,950 --> 00:13:29,230
+Warum das so ist, erkläre ich
+
+356
+00:13:29,230 --> 00:13:30,910
+natürlich gleich wieder. In unserem
+
+357
+00:13:30,910 --> 00:13:32,990
+Fall entspricht das jetzt dem Ziehen
+
+358
+00:13:32,990 --> 00:13:34,990
+ohne Zurücklegen mit Beachten der
+
+359
+00:13:34,990 --> 00:13:36,990
+Reihenfolge. Unsere Aufgabe ist es,
+
+360
+00:13:37,130 --> 00:13:39,870
+beziehungsweise der Sachzusammenhang
+
+361
+00:13:39,870 --> 00:13:41,490
+ist, 15 Sportler nehmen an einem
+
+362
+00:13:41,490 --> 00:13:43,470
+Wettbewerb teil. Es gibt eine Gold-,
+
+363
+00:13:43,470 --> 00:13:44,730
+eine Silber- und eine Bronze
+
+364
+00:13:44,730 --> 00:13:46,290
+-Medaille. Wie viele mögliche
+
+365
+00:13:46,290 --> 00:13:48,350
+Ausgänge gibt es? In dem Fall
+
+366
+00:13:48,350 --> 00:13:50,150
+betrachten wir ja nur einen
+
+367
+00:13:50,150 --> 00:13:51,830
+Wettbewerb und es gibt in dem Fall
+
+368
+00:13:51,830 --> 00:13:53,790
+nur eine Siegerverteilung. Das ist
+
+369
+00:13:53,790 --> 00:13:55,070
+der große Unterschied zu dem
+
+370
+00:13:55,070 --> 00:13:57,810
+Zehnkampf von gerade. Und diesmal
+
+371
+00:13:57,810 --> 00:14:00,170
+gibt es nicht nur Sieg oder kein
+
+372
+00:14:00,170 --> 00:14:01,370
+Sieg, sondern auch eine Verteilung.
+
+373
+00:14:01,950 --> 00:14:02,870
+Und zwar es gibt eine
+
+374
+00:14:02,870 --> 00:14:03,890
+Goldplatzierung, eine
+
+375
+00:14:03,890 --> 00:14:05,110
+Silberplatzierung und eine
+
+376
+00:14:05,110 --> 00:14:08,430
+Bronzeplatzierung. Das heißt, es gibt
+
+377
+00:14:08,430 --> 00:14:09,750
+schon mal drei Medaillen, die
+
+378
+00:14:09,750 --> 00:14:12,450
+verteilt werden und dann ist
+
+379
+00:14:12,450 --> 00:14:13,590
+natürlich die Reihenfolge wichtig,
+
+380
+00:14:13,710 --> 00:14:14,430
+denn es macht schon einen
+
+381
+00:14:14,430 --> 00:14:16,670
+Unterschied, ob ich die Goldmedaille
+
+382
+00:14:16,670 --> 00:14:18,270
+kriege oder die Bronzemedaille.
+
+383
+00:14:18,710 --> 00:14:20,710
+Deswegen ist die Reihenfolge ganz
+
+384
+00:14:20,710 --> 00:14:23,650
+wichtig. Es ist ziehen ohne
+
+385
+00:14:23,650 --> 00:14:25,130
+zurücklegen, weil wenn ich die
+
+386
+00:14:25,130 --> 00:14:27,190
+Goldmedaille gewonnen habe, kann ich
+
+387
+00:14:27,190 --> 00:14:28,570
+die Silber- oder Bronzemedaille nicht
+
+388
+00:14:28,570 --> 00:14:29,670
+bekommen. Ich kann immer nur eine
+
+389
+00:14:29,670 --> 00:14:30,470
+Medaille gewinnen.
+
+390
+00:14:33,740 --> 00:14:37,200
+Und zwar brauchen wir dafür diese
+
+391
+00:14:37,200 --> 00:14:39,280
+Formel, und zwar die Fakultät von N
+
+392
+00:14:39,280 --> 00:14:43,560
+durch N-K-Fakultät. N ist wie gesagt
+
+393
+00:14:43,560 --> 00:14:45,400
+die Anzahl der Sportler, die
+
+394
+00:14:45,400 --> 00:14:47,140
+teilgenommen haben. K ist die Anzahl
+
+395
+00:14:47,140 --> 00:14:48,700
+der Medaillen, die vergeben werden.
+
+396
+00:14:48,860 --> 00:14:50,060
+Das sind in dem Fall drei.
+
+397
+00:14:53,160 --> 00:14:54,960
+Wir haben dann jetzt die Fakultät von
+
+398
+00:14:54,960 --> 00:14:57,140
+15 durch Klammer auf 15 minus 3
+
+399
+00:14:57,140 --> 00:14:59,800
+Fakultät Das ist dann die Fakultät
+
+400
+00:14:59,800 --> 00:15:03,240
+von 12 Und jetzt kommt das Rechnen
+
+401
+00:15:03,240 --> 00:15:05,080
+mit Fakultäten ein bisschen Zur
+
+402
+00:15:05,080 --> 00:15:09,540
+Geltung Die Fakultät von 15 ist ja 15
+
+403
+00:15:09,540 --> 00:15:12,120
+mal 14 mal 13 Mal 12 mal 11 und so
+
+404
+00:15:12,120 --> 00:15:14,920
+weiter Die Fakultät von 12 ist 12 mal
+
+405
+00:15:14,920 --> 00:15:17,300
+11 mal 10 und so weiter Das heißt,
+
+406
+00:15:17,380 --> 00:15:20,600
+wir können es rauskürzen Es bleibt
+
+407
+00:15:20,600 --> 00:15:22,640
+Bleibt dann nämlich übrig 15 mal 14
+
+408
+00:15:22,640 --> 00:15:25,920
+mal 13. Das heißt, es gibt 2730
+
+409
+00:15:25,920 --> 00:15:28,620
+mögliche Ergebnisse.
+
+410
+00:15:30,880 --> 00:15:34,100
+Ja, also 2730 Möglichkeiten, wie
+
+411
+00:15:34,100 --> 00:15:38,850
+dieses Rennen ausgehen kann. Die Idee
+
+412
+00:15:38,850 --> 00:15:41,150
+dahinter ist natürlich, wenn 15 Leute
+
+413
+00:15:41,150 --> 00:15:43,870
+teilnehmen, gibt es 15 Möglichkeiten
+
+414
+00:15:43,870 --> 00:15:45,610
+für Gold. Wenn die Goldmedaille
+
+415
+00:15:45,610 --> 00:15:47,770
+vergeben wurde, gibt es nur noch 14
+
+416
+00:15:47,770 --> 00:15:50,410
+Möglichkeiten für Silber und so
+
+417
+00:15:50,410 --> 00:15:53,390
+weiter. Ja, also das ist das mit ohne
+
+418
+00:15:53,390 --> 00:15:57,150
+Zurücklegen und daher ist es
+
+419
+00:15:57,150 --> 00:15:58,890
+definitiv ohne Zurücklegen und
+
+420
+00:15:58,890 --> 00:16:02,990
+aufgrund des Gold-Silber-Bronze
+
+421
+00:16:02,990 --> 00:16:04,950
+-Prinzips ist auch die Reihenfolge
+
+422
+00:16:04,950 --> 00:16:08,650
+wichtig. Damit wären wir auch bei dem
+
+423
+00:16:08,650 --> 00:16:10,870
+letzten Teil der Variation mit
+
+424
+00:16:10,870 --> 00:16:12,090
+Wiederholung.
+
+425
+00:16:14,110 --> 00:16:15,870
+Und zwar als Beispiel haben wir ein
+
+426
+00:16:15,870 --> 00:16:17,370
+Zahlenschloss, das besitzt vier
+
+427
+00:16:17,370 --> 00:16:18,790
+Ziffern und man kann jeweils die
+
+428
+00:16:18,790 --> 00:16:20,090
+Zahlen von 0 bis 9 eintragen.
+
+429
+00:16:20,110 --> 00:16:21,650
+Wichtig, die Zahlen von 0 bis 9 sind
+
+430
+00:16:21,650 --> 00:16:23,990
+insgesamt 10 Möglichkeiten und wir
+
+431
+00:16:23,990 --> 00:16:27,790
+haben natürlich hier den Fall mit
+
+432
+00:16:27,790 --> 00:16:30,470
+Wiederholung, weil wenn die erste
+
+433
+00:16:30,470 --> 00:16:31,750
+Ziffer eine 1 ist, können wir
+
+434
+00:16:31,750 --> 00:16:33,770
+weiterhin auch als zweite Ziffer die
+
+435
+00:16:33,770 --> 00:16:41,010
+1 nehmen und dann entsprechend immer
+
+436
+00:16:41,010 --> 00:16:42,330
+die gleiche Ziffer verwenden. Also
+
+437
+00:16:42,330 --> 00:16:43,790
+sie ist nicht verbraucht, nachdem sie
+
+438
+00:16:43,790 --> 00:16:46,110
+einmal verwendet wurde. Das heißt,
+
+439
+00:16:46,230 --> 00:16:47,790
+Wiederholungen sind möglich.
+
+440
+00:16:50,830 --> 00:16:52,430
+Wichtig dabei ist die Reihenfolge
+
+441
+00:16:52,430 --> 00:16:54,050
+natürlich. Der Zahlenschluss hat
+
+442
+00:16:54,050 --> 00:16:56,710
+immer eine Reihenfolge, die ist
+
+443
+00:16:56,710 --> 00:16:58,550
+nämlich auch wichtig. Das heißt, wenn
+
+444
+00:16:58,550 --> 00:17:00,930
+ich den Code 1234 einstelle,
+
+445
+00:17:00,950 --> 00:17:03,230
+funktioniert es nicht mit 4321.
+
+446
+00:17:03,890 --> 00:17:05,430
+Deswegen ist auch die Reihenfolge
+
+447
+00:17:05,430 --> 00:17:07,690
+wichtig. Und bei der Variation mit
+
+448
+00:17:07,690 --> 00:17:08,990
+Beachtung der Reihenfolge berechnet
+
+449
+00:17:08,990 --> 00:17:12,930
+man einfach n hoch k. Also die Anzahl
+
+450
+00:17:12,930 --> 00:17:17,250
+der möglichen Ziffern. Das sind bei
+
+451
+00:17:17,250 --> 00:17:19,810
+uns alle von 0 bis 0. 9, also 10 und
+
+452
+00:17:19,810 --> 00:17:22,290
+k ist die Anzahl der Ziffern, sind
+
+453
+00:17:22,290 --> 00:17:24,430
+bei uns 4, also 10 hoch 4. Es gibt
+
+454
+00:17:24,430 --> 00:17:26,870
+also 10.000 Kombinationen. Beim
+
+455
+00:17:26,870 --> 00:17:28,190
+Zahlenschluss kann man sich das auch
+
+456
+00:17:28,190 --> 00:17:29,850
+recht gut vorstellen. Das sind
+
+457
+00:17:29,850 --> 00:17:33,590
+nämlich alle Kombinationen von 0, 0,
+
+458
+00:17:33,590 --> 00:17:40,410
+0, 0 bis 9.999 und damit
+
+459
+00:17:40,410 --> 00:17:41,710
+gibt es 10.000
+
+460
+00:17:41,710 --> 00:17:42,690
+Kombinationsmöglichkeiten.
+
+461
+00:17:45,130 --> 00:17:46,610
+Abschließend sehen wir hier nochmal
+
+462
+00:17:46,610 --> 00:17:48,130
+unsere kleine Formelsammlung, wie
+
+463
+00:17:48,130 --> 00:17:49,670
+schon während des Webinars gesagt.
+
+464
+00:17:49,810 --> 00:17:51,270
+Wir unterscheiden bei der Permutation
+
+465
+00:17:51,270 --> 00:17:52,790
+immer zwischen unterscheidbar und
+
+466
+00:17:52,790 --> 00:17:54,430
+nicht unterscheidbar. Wenn es
+
+467
+00:17:54,430 --> 00:17:56,110
+unterscheidbar ist, haben wir die
+
+468
+00:17:56,110 --> 00:17:57,930
+Fakultät von n. Wenn es nicht
+
+469
+00:17:57,930 --> 00:17:59,350
+unterscheidbar ist, haben wir die
+
+470
+00:17:59,350 --> 00:18:01,510
+Fakultät von n durch die einzelnen
+
+471
+00:18:01,510 --> 00:18:04,870
+Fakultäten der Teilgruppen. Wenn wir
+
+472
+00:18:04,870 --> 00:18:06,430
+uns mit Kombinationen befassen,
+
+473
+00:18:06,470 --> 00:18:08,770
+unterscheiden wir zwischen ohne
+
+474
+00:18:08,770 --> 00:18:10,750
+Zurücklegen zurücklegen und mit
+
+475
+00:18:10,750 --> 00:18:12,230
+zurücklegen. Wenn wir ohne
+
+476
+00:18:12,230 --> 00:18:13,770
+zurücklegen haben, nehmen wir einfach
+
+477
+00:18:13,770 --> 00:18:15,470
+nur den Binomialkoeffizienten n über
+
+478
+00:18:15,470 --> 00:18:17,350
+k. Diesen kann man immer berechnen
+
+479
+00:18:17,350 --> 00:18:19,090
+durch die Fakultät von n durch k
+
+480
+00:18:19,090 --> 00:18:22,930
+-Fakultät mal n-k-Fakultät. Wenn wir
+
+481
+00:18:22,930 --> 00:18:24,930
+mit zurücklegen und Wiederholung
+
+482
+00:18:24,930 --> 00:18:26,830
+betrachten, wandelt sich dieser
+
+483
+00:18:26,830 --> 00:18:29,170
+Binomialkoeffizient zu diesem ab. Das
+
+484
+00:18:29,170 --> 00:18:30,970
+heißt, wir haben n plus k minus 1
+
+485
+00:18:30,970 --> 00:18:32,810
+über k. Das kann kann man nach
+
+486
+00:18:32,810 --> 00:18:35,150
+gleichem Ansatz dann auflösen und das
+
+487
+00:18:35,150 --> 00:18:37,410
+ergibt dann n plus k minus 1, davon
+
+488
+00:18:37,410 --> 00:18:40,470
+die Fakultät, durch k Fakultät mal n
+
+489
+00:18:40,470 --> 00:18:43,990
+minus 1 Fakultät. Bei der Variation
+
+490
+00:18:43,990 --> 00:18:45,630
+unterscheiden wir ebenfalls zwischen
+
+491
+00:18:45,630 --> 00:18:48,610
+ohne Zurücklegen und mit Zurücklegen.
+
+492
+00:18:49,250 --> 00:18:52,230
+Wir haben bei ohne Zurücklegen
+
+493
+00:18:52,230 --> 00:18:54,810
+einfach Fakultät von n durch n minus
+
+494
+00:18:54,810 --> 00:18:57,510
+k Fakultät und wenn wir die Variation
+
+495
+00:18:57,510 --> 00:18:59,350
+mit Zurücklegen betrachten, haben wir
+
+496
+00:18:59,350 --> 00:19:02,130
+einfach n hoch k. wir es gerade auch
+
+497
+00:19:02,130 --> 00:19:05,310
+bei den Zahlenschloss haben. Damit
+
+498
+00:19:05,310 --> 00:19:06,790
+wären wir auch am Ende des Webinars.
+
+499
+00:19:06,930 --> 00:19:08,390
+Ich bedanke mich für eure
+
+500
+00:19:08,390 --> 00:19:09,090
+Aufmerksamkeit.
+

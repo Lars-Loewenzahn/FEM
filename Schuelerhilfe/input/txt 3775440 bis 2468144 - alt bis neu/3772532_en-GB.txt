@@ -1,0 +1,1210 @@
+﻿1
+00:00:09,940 --> 00:00:12,740
+Hello again, Enes. If you 
+
+2
+00:00:12,740 --> 00:00:15,100
+can hear me now, just 
+
+3
+00:00:15,100 --> 00:00:17,460
+drop me a line in the chat. 
+
+4
+00:00:18,680 --> 00:00:24,040
+Top. Right, this is the last 
+
+5
+00:00:24,040 --> 00:00:26,500
+webinar today, on the topic of 
+
+6
+00:00:26,500 --> 00:00:29,240
+stochastics, multi-stage 
+
+7
+00:00:29,240 --> 00:00:33,420
+random experiments. And 
+
+8
+00:00:33,420 --> 00:00:36,700
+at the beginning there is a general 
+introduction, 
+
+9
+00:00:36,700 --> 00:00:38,300
+what are multistage 
+
+10
+00:00:38,300 --> 00:00:38,880
+random experiments. 
+
+11
+00:00:38,940 --> 00:00:40,880
+
+12
+00:00:40,880 --> 00:00:43,240
+We will 
+
+13
+00:00:43,240 --> 00:00:46,060
+look at three different types of random 
+experiments , namely the ear model, 
+
+14
+00:00:46,140 --> 00:00:49,320
+the tree diagram and the four-field 
+
+15
+00:00:49,320 --> 00:00:54,600
+table. What are multistage 
+
+16
+00:00:54,600 --> 00:00:58,160
+random experiments? Multi-stage 
+
+17
+00:00:58,160 --> 00:00:59,980
+random experiments refer to the 
+
+18
+00:00:59,980 --> 00:01:02,080
+successive execution of multiple 
+
+19
+00:01:02,080 --> 00:01:04,320
+random experiments that 
+
+20
+00:01:04,320 --> 00:01:05,920
+
+21
+00:01:05,920 --> 00:01:09,240
+are combined into a single random 
+experiment. I think 
+
+22
+00:01:09,260 --> 00:01:10,520
+this is also clear once again. It becomes 
+clearer 
+
+23
+00:01:10,520 --> 00:01:12,640
+when we 
+
+24
+00:01:12,640 --> 00:01:15,140
+look at the example of tossing a coin . A 
+coin can be tossed 
+
+25
+00:01:15,140 --> 00:01:16,560
+several times in succession 
+
+26
+00:01:16,560 --> 00:01:18,720
+. 
+
+27
+00:01:18,720 --> 00:01:19,980
+The question arises as to how high the 
+
+28
+00:01:19,980 --> 00:01:21,840
+probability 
+
+29
+00:01:21,840 --> 00:01:24,340
+is for a certain constellation. 
+
+30
+00:01:24,340 --> 00:01:28,500
+For example, heads, tails, tails. 
+
+31
+00:01:28,500 --> 00:01:30,620
+However, if you only have four tosses 
+
+32
+00:01:30,620 --> 00:01:31,440
+at your disposal. 
+
+33
+00:01:36,840 --> 00:01:39,640
+So let's take a look at the first model 
+
+34
+00:01:39,640 --> 00:01:42,760
+. This is the urn model. The 
+
+35
+00:01:42,760 --> 00:01:44,900
+urn model is a so-called 
+
+36
+00:01:44,900 --> 00:01:47,600
+thought experiment. 
+
+37
+00:01:47,600 --> 00:01:50,660
+Imagine an urn with balls in it. 
+
+38
+00:01:51,400 --> 00:01:54,280
+Each ball has the same 
+
+39
+00:01:54,280 --> 00:01:56,000
+probability of being drawn. 
+
+40
+00:01:56,260 --> 00:01:58,360
+So if you 
+
+41
+00:01:58,360 --> 00:01:59,400
+see twelve balls there , then the 
+
+42
+00:01:59,400 --> 00:02:01,160
+probability of a 
+
+43
+00:02:01,160 --> 00:02:03,520
+particular ball being drawn is 
+
+44
+00:02:03,520 --> 00:02:07,640
+one twelfth. So assuming 
+
+45
+00:02:07,640 --> 00:02:10,140
+that 
+
+46
+00:02:10,140 --> 00:02:12,040
+there are any number of balls in the urn , 
+of which you 
+
+47
+00:02:12,040 --> 00:02:14,720
+
+48
+00:02:14,720 --> 00:02:16,400
+can draw any number , but it must not be 
+greater 
+
+49
+00:02:16,400 --> 00:02:18,660
+than the total number of balls 
+
+50
+00:02:18,660 --> 00:02:20,820
+in there, there are 
+
+51
+00:02:20,820 --> 00:02:22,640
+a few things that 
+
+52
+00:02:22,640 --> 00:02:24,960
+can vary. This can be, for example, the 
+
+53
+00:02:24,960 --> 00:02:29,040
+color or something else in 
+
+54
+00:02:29,040 --> 00:02:30,280
+the order or 
+
+55
+00:02:30,280 --> 00:02:32,200
+variation of how the balls 
+
+56
+00:02:32,200 --> 00:02:35,020
+are to be drawn. 
+
+57
+00:02:35,020 --> 00:02:38,420
+There are four ways to do this. 
+
+58
+00:02:38,420 --> 00:02:42,480
+You can draw the balls and then 
+
+59
+00:02:42,480 --> 00:02:45,800
+put them back, but you also have to 
+
+60
+00:02:45,800 --> 00:02:48,220
+pay attention to the order. You 
+
+61
+00:02:48,220 --> 00:02:50,760
+can draw with putting the balls back 
+without observing the 
+
+62
+00:02:50,760 --> 00:02:53,460
+order. You can 
+
+63
+00:02:53,460 --> 00:02:55,820
+draw without 
+
+64
+00:02:55,820 --> 00:02:58,440
+putting the balls back into the urn 
+
+65
+00:02:58,440 --> 00:03:00,340
+, but also observing the order. 
+
+66
+00:03:00,340 --> 00:03:03,640
+and you can draw without 
+
+67
+00:03:03,640 --> 00:03:05,960
+putting the ball back and without 
+
+68
+00:03:05,960 --> 00:03:09,700
+observing the order. So there are 
+
+69
+00:03:09,700 --> 00:03:11,500
+four different possibilities. The 
+
+70
+00:03:11,500 --> 00:03:13,200
+whole thing can also be 
+
+71
+00:03:13,200 --> 00:03:15,100
+
+72
+00:03:15,100 --> 00:03:17,680
+illustrated again using a cross table as 
+below , where you also 
+
+73
+00:03:17,680 --> 00:03:19,280
+
+74
+00:03:19,280 --> 00:03:21,200
+
+75
+00:03:21,200 --> 00:03:22,640
+have again with putting back, with 
+observing order and without observing 
+order and exactly the 
+
+76
+00:03:22,640 --> 00:03:24,740
+same for the variant without 
+
+77
+00:03:24,740 --> 00:03:26,480
+putting back, with observing 
+
+78
+00:03:26,480 --> 00:03:28,400
+order and without observing 
+
+79
+00:03:28,400 --> 00:03:32,110
+order. Let's take a look at 
+
+80
+00:03:32,110 --> 00:03:35,330
+the first variant, 
+
+81
+00:03:35,390 --> 00:03:37,230
+i.e. the draw with putting back with 
+
+82
+00:03:37,230 --> 00:03:41,150
+observing order. 
+
+83
+00:03:41,150 --> 00:03:42,690
+This means that the balls you 
+
+84
+00:03:42,690 --> 00:03:44,490
+have drawn are put back into 
+
+85
+00:03:44,490 --> 00:03:46,970
+the urn after the draw. It is important 
+
+86
+00:03:46,970 --> 00:03:48,910
+that a sequence is 
+
+87
+00:03:48,910 --> 00:03:52,510
+maintained. So we 
+
+88
+00:03:52,510 --> 00:03:54,870
+want to draw one blue ball and then two 
+
+89
+00:03:54,870 --> 00:03:58,670
+red balls. N therefore 
+
+90
+00:03:58,670 --> 00:04:01,690
+always remains 12 and the order must 
+
+91
+00:04:01,690 --> 00:04:05,110
+be blue, red, red. 
+
+92
+00:04:08,550 --> 00:04:10,650
+However, you can also 
+
+93
+00:04:10,650 --> 00:04:13,310
+vary the whole thing by 
+
+94
+00:04:13,310 --> 00:04:15,930
+drawing a blue, a green or a red ball 
+
+95
+00:04:15,930 --> 00:04:20,660
+and putting it back. 
+
+96
+00:04:20,660 --> 00:04:22,680
+However, you can also 
+
+97
+00:04:22,680 --> 00:04:25,380
+interpret the whole thing in such a way 
+that you do the 
+
+98
+00:04:25,380 --> 00:04:27,840
+whole thing by putting it back , but 
+without 
+
+99
+00:04:27,840 --> 00:04:30,380
+observing the order. So you 
+
+100
+00:04:30,380 --> 00:04:33,100
+should draw one blue ball and then two red 
+
+101
+00:04:33,100 --> 00:04:35,760
+balls. So it doesn't matter whether you 
+
+102
+00:04:35,760 --> 00:04:38,240
+
+103
+00:04:38,240 --> 00:04:41,340
+draw the blue ball at the beginning, in 
+the middle or at the start or whether you 
+
+104
+00:04:41,340 --> 00:04:43,240
+
+105
+00:04:43,240 --> 00:04:46,640
+draw the two balls one after the other , 
+last, at the beginning or 
+
+106
+00:04:46,640 --> 00:04:48,740
+alternately by 
+
+107
+00:04:48,740 --> 00:04:50,520
+
+108
+00:04:50,520 --> 00:04:54,900
+drawing a red, a blue and then a red ball 
+. It's exactly the same again 
+
+109
+00:04:54,900 --> 00:04:56,660
+for a blue, a 
+
+110
+00:04:56,660 --> 00:04:59,460
+green and a red ball. This means 
+
+111
+00:04:59,580 --> 00:05:02,080
+that each color can be drawn at the 
+beginning 
+
+112
+00:05:02,080 --> 00:05:03,900
+, but it can also be drawn in the 
+
+113
+00:05:03,900 --> 00:05:06,160
+middle or at the end. 
+
+114
+00:05:06,320 --> 00:05:09,120
+And here too, the order is completely 
+
+115
+00:05:09,120 --> 00:05:11,660
+different, so blue, green 
+
+116
+00:05:11,660 --> 00:05:13,420
+or red can be in the middle, 
+
+117
+00:05:13,560 --> 00:05:16,280
+green, red, blue in the middle or 
+
+118
+00:05:16,280 --> 00:05:17,760
+red, green, blue at the end. 
+
+119
+00:05:20,710 --> 00:05:24,070
+Now draw the balls without putting them 
+back and 
+
+120
+00:05:24,070 --> 00:05:26,650
+observing the order. 
+
+121
+00:05:26,650 --> 00:05:28,230
+This means that the balls are 
+
+122
+00:05:28,230 --> 00:05:30,510
+removed from the urn when they are drawn. 
+If you have 
+
+123
+00:05:30,510 --> 00:05:32,650
+drawn a blue ball, it is 
+
+124
+00:05:32,650 --> 00:05:34,250
+no longer put back and the 
+
+125
+00:05:34,250 --> 00:05:36,230
+number of balls still in 
+
+126
+00:05:36,230 --> 00:05:39,450
+your urn 
+
+127
+00:05:39,450 --> 00:05:42,370
+is subtracted minus 1. This means that if 
+you 
+
+128
+00:05:42,370 --> 00:05:44,710
+had 12 balls in it at the start and 
+
+129
+00:05:44,710 --> 00:05:47,030
+then drew a blue 
+
+130
+00:05:47,030 --> 00:05:51,270
+one, this will also be removed. 
+
+131
+00:05:51,270 --> 00:05:52,930
+If you only have 11 
+
+132
+00:05:52,930 --> 00:05:54,710
+balls left on your next turn and you have 
+drawn a red one 
+
+133
+00:05:54,710 --> 00:05:57,490
+, you will only have 
+
+134
+00:05:57,490 --> 00:06:00,710
+10 balls left. So n is 
+
+135
+00:06:00,710 --> 00:06:02,350
+always 
+
+136
+00:06:02,350 --> 00:06:04,690
+reduced by the number of balls drawn and 
+the order 
+
+137
+00:06:04,690 --> 00:06:07,430
+here should be blue-red-red 
+
+138
+00:06:08,330 --> 00:06:10,330
+Exactly the same scheme again 
+
+139
+00:06:10,330 --> 00:06:14,130
+for blue-green-red and then 
+
+140
+00:06:14,130 --> 00:06:15,990
+drawing without putting back and without 
+
+141
+00:06:15,990 --> 00:06:18,250
+observing the order And 
+
+142
+00:06:18,250 --> 00:06:19,870
+here too it is basically the same again 
+
+143
+00:06:19,870 --> 00:06:22,010
+, except that the number of 
+
+144
+00:06:22,010 --> 00:06:23,750
+balls that are then in the urn 
+
+145
+00:06:23,750 --> 00:06:26,150
+is always 
+
+146
+00:06:26,150 --> 00:06:27,150
+subtracted by 1 
+
+147
+00:06:29,980 --> 00:06:31,460
+Why do we need these four 
+
+148
+00:06:31,460 --> 00:06:31,920
+different 
+
+149
+00:06:31,920 --> 00:06:34,580
+variation options? There are 
+
+150
+00:06:34,580 --> 00:06:36,060
+tasks where a 
+
+151
+00:06:36,060 --> 00:06:37,840
+certain order is required 
+
+152
+00:06:37,940 --> 00:06:39,480
+and others where the 
+
+153
+00:06:39,480 --> 00:06:42,480
+order does not matter. The same 
+
+154
+00:06:42,480 --> 00:06:43,960
+really applies to the 
+
+155
+00:06:43,960 --> 00:06:45,300
+procedure when you 
+
+156
+00:06:45,300 --> 00:06:47,260
+have to put the ball back. So you 
+
+157
+00:06:47,260 --> 00:06:49,440
+really need to read through exactly what 
+the 
+
+158
+00:06:49,440 --> 00:06:51,360
+task requires of you 
+
+159
+00:06:51,360 --> 00:06:54,280
+in order to 
+
+160
+00:06:54,280 --> 00:06:54,580
+recognize the correct variation. 
+
+161
+00:06:58,060 --> 00:06:59,320
+Let's continue with the 
+
+162
+00:06:59,320 --> 00:07:01,600
+tree diagram. 
+
+163
+00:07:01,600 --> 00:07:04,180
+In my opinion, the tree diagram is 
+somewhat easier 
+
+164
+00:07:04,180 --> 00:07:07,120
+than the ear method. The 
+
+165
+00:07:07,120 --> 00:07:07,760
+multi-stage 
+
+166
+00:07:07,760 --> 00:07:09,760
+probability experiment can be 
+
+167
+00:07:09,760 --> 00:07:11,660
+
+168
+00:07:11,660 --> 00:07:14,200
+illustrated particularly well with the 
+help of the tree diagram. Let's take a 
+look 
+
+169
+00:07:14,200 --> 00:07:15,840
+at the example of the 
+
+170
+00:07:15,840 --> 00:07:18,680
+coin toss. We have 
+
+171
+00:07:18,680 --> 00:07:21,380
+three tosses of a coin and in the 
+
+172
+00:07:21,380 --> 00:07:24,080
+diagram K stands for heads and Z for 
+
+173
+00:07:24,080 --> 00:07:26,380
+tails. And the numbers in the diagram 
+
+174
+00:07:26,380 --> 00:07:27,280
+each describe the 
+
+175
+00:07:27,280 --> 00:07:29,540
+probability of the toss. This 
+
+176
+00:07:29,540 --> 00:07:31,720
+means that on the first toss I have a 
+
+177
+00:07:31,720 --> 00:07:34,400
+50% probability of throwing tails or 
+
+178
+00:07:34,400 --> 00:07:37,060
+heads. Now that I 
+
+179
+00:07:37,060 --> 00:07:40,720
+have thrown tails or heads, I have 
+
+180
+00:07:40,720 --> 00:07:43,000
+a 50% probability 
+
+181
+00:07:43,000 --> 00:07:45,460
+of throwing tails or heads again . And 
+that's how 
+
+182
+00:07:45,460 --> 00:07:46,860
+it all adds up. 
+
+183
+00:07:50,050 --> 00:07:53,190
+First of all, there are generally two 
+
+184
+00:07:53,190 --> 00:07:54,970
+rules for the tree diagrams. The 
+
+185
+00:07:54,970 --> 00:07:57,210
+first path rule says the 
+
+186
+00:07:57,210 --> 00:07:58,590
+probabilities along a 
+
+187
+00:07:58,590 --> 00:08:01,530
+path are multiplied. So 
+
+188
+00:08:01,530 --> 00:08:03,010
+if I 
+
+189
+00:08:03,010 --> 00:08:05,370
+
+190
+00:08:05,370 --> 00:08:09,370
+want to look at the probability of the 
+sequence number, number, number, I have to 
+
+191
+00:08:09,370 --> 00:08:13,590
+calculate 0.5 times 0.5 times 0.5. 0.5 
+times 0.5 is 0 
+
+192
+00:08:13,590 --> 00:08:17,590
+.25 and 0.25 times 0.5 is 
+
+193
+00:08:17,590 --> 00:08:20,150
+0.125. This means that the 
+
+194
+00:08:20,150 --> 00:08:21,830
+probability 
+
+195
+00:08:21,830 --> 00:08:24,130
+of throwing the sequence number, number, 
+number is 
+
+196
+00:08:24,130 --> 00:08:26,370
+12.5%. And 
+
+197
+00:08:28,830 --> 00:08:30,090
+at the end, the 
+
+198
+00:08:30,090 --> 00:08:31,610
+probabilities of a path are 
+
+199
+00:08:31,610 --> 00:08:33,570
+then added together. So the 
+
+200
+00:08:33,570 --> 00:08:36,630
+probability of throwing tails twice and 
+
+201
+00:08:36,630 --> 00:08:38,130
+heads once is 
+
+202
+00:08:38,130 --> 00:08:42,150
+
+203
+00:08:42,430 --> 00:08:45,930
+calculated with the paths tails, tails, 
+heads, tails, heads, tails, tails. So you 
+have to 
+
+204
+00:08:45,930 --> 00:08:49,410
+
+205
+00:08:49,410 --> 00:08:55,930
+calculate 0.5 to the power of 3 times 3. 
+So 0.5 times 0 
+
+206
+00:08:55,930 --> 00:09:00,150
+.5 times 0. 0.5 plus 0.5 times 0.5 times 0 
+
+207
+00:09:00,150 --> 00:09:04,750
+.5 plus 0.5 times 0.5 times 0.5 or 0 
+
+208
+00:09:04,750 --> 00:09:11,350
+.125 times 3 and that gives you 
+
+209
+00:09:11,350 --> 00:09:16,510
+0.375. So you have a 37.5 
+
+210
+00:09:16,510 --> 00:09:18,970
+% probability for this 
+
+211
+00:09:18,970 --> 00:09:19,790
+constellation. 
+
+212
+00:09:22,480 --> 00:09:24,500
+Finally, let's take a look at the 4-square 
+
+213
+00:09:24,500 --> 00:09:26,900
+ table. A 4-field 
+
+214
+00:09:26,900 --> 00:09:28,480
+ table is a table 
+
+215
+00:09:28,480 --> 00:09:30,800
+that 
+
+216
+00:09:30,800 --> 00:09:32,280
+is used in statistics or stochastics 
+
+217
+00:09:32,280 --> 00:09:33,780
+when it comes to the correlation between 
+two 
+
+218
+00:09:33,780 --> 00:09:36,140
+events. 
+
+219
+00:09:36,140 --> 00:09:38,000
+In principle, there is another term for 
+this 
+
+220
+00:09:38,060 --> 00:09:39,300
+, especially if you look at it in 
+
+221
+00:09:39,300 --> 00:09:41,620
+statistics. This is the 
+
+222
+00:09:41,620 --> 00:09:44,100
+term correlation, i.e. to 
+
+223
+00:09:44,100 --> 00:09:46,960
+investigate relationships. 
+
+224
+00:09:46,960 --> 00:09:48,540
+However, you will probably 
+
+225
+00:09:48,540 --> 00:09:50,200
+not have dealt with this at school 
+
+226
+00:09:50,200 --> 00:09:52,500
+or will not deal with it. 
+
+227
+00:09:53,780 --> 00:09:55,400
+Let's take a look at this 
+
+228
+00:09:55,400 --> 00:09:58,220
+example. A school has 830 
+
+229
+00:09:58,220 --> 00:10:01,240
+pupils, 428 of whom are female. 
+
+230
+00:10:01,740 --> 00:10:05,600
+Of the girls, 28%, i.e. 103 
+
+231
+00:10:05,600 --> 00:10:10,580
+pupils out of the 428, 
+
+232
+00:10:10,580 --> 00:10:12,520
+play soccer regularly. And 
+
+233
+00:10:12,520 --> 00:10:18,180
+43% of the 402 boys play football. 
+
+234
+00:10:20,660 --> 00:10:22,220
+Oh, right, of the boys 
+
+235
+00:10:22,220 --> 00:10:29,420
+43% play soccer, 
+
+236
+00:10:29,420 --> 00:10:32,760
+that would be 173 pupils. And the values 
+can be 
+
+237
+00:10:32,760 --> 00:10:34,800
+
+238
+00:10:34,800 --> 00:10:37,120
+represented in this table as follows. So 
+you have 
+
+239
+00:10:37,120 --> 00:10:39,980
+soccer and 
+
+240
+00:10:39,980 --> 00:10:42,000
+no soccer in the leftmost column. In the 
+second 
+
+241
+00:10:42,000 --> 00:10:44,540
+column you have boys and girls, uh boys, 
+
+242
+00:10:44,540 --> 00:10:45,860
+in the second, uh in the third 
+
+243
+00:10:45,860 --> 00:10:47,380
+column girls and in the column 
+
+244
+00:10:47,380 --> 00:10:49,680
+on the far right, you have 
+
+245
+00:10:49,680 --> 00:10:52,220
+the number of 
+
+246
+00:10:52,220 --> 00:10:54,900
+soccer players in the second row at the 
+bottom , then below that the 
+
+247
+00:10:54,900 --> 00:10:57,160
+number who do not play soccer and 
+
+248
+00:10:57,160 --> 00:11:00,500
+in each case at the bottom right the total 
+number 
+
+249
+00:11:00,500 --> 00:11:03,440
+of pupils. 
+
+250
+00:11:03,440 --> 00:11:04,680
+So 
+
+251
+00:11:04,680 --> 00:11:06,740
+all you have to do now is transfer what 
+you can 
+
+252
+00:11:06,740 --> 00:11:08,940
+see there. So with the 
+
+253
+00:11:08,940 --> 00:11:12,540
+173 here we have the boys who 
+
+254
+00:11:12,540 --> 00:11:15,760
+play soccer. With the 103 we have the 
+
+255
+00:11:15,760 --> 00:11:18,240
+girls who play soccer and 
+
+256
+00:11:18,240 --> 00:11:20,140
+at the bottom we have the total number 
+
+257
+00:11:20,140 --> 00:11:22,440
+of boys, which is 402 pupils and 
+
+258
+00:11:22,440 --> 00:11:24,440
+we have 428 girls, the 
+
+259
+00:11:24,440 --> 00:11:26,500
+total number of female pupils 
+
+260
+00:11:26,500 --> 00:11:29,320
+and we have a total of 
+
+261
+00:11:29,320 --> 00:11:31,980
+830 pupils at the bottom. 
+
+262
+00:11:31,980 --> 00:11:36,040
+So if we now 
+
+263
+00:11:36,040 --> 00:11:38,700
+want to calculate the number of boys who 
+
+264
+00:11:38,700 --> 00:11:41,240
+do not play soccer, we have to 
+
+265
+00:11:41,240 --> 00:11:45,060
+calculate 402 minus 173 
+
+266
+00:11:45,060 --> 00:11:47,380
+to arrive at our total of boys who 
+
+267
+00:11:47,380 --> 00:11:49,020
+do not play soccer. Exactly the 
+
+268
+00:11:49,020 --> 00:11:50,960
+same for the girls. 
+
+269
+00:11:50,960 --> 00:11:52,420
+However, if we now 
+
+270
+00:11:52,420 --> 00:11:54,200
+
+271
+00:11:54,200 --> 00:11:55,500
+want to calculate the number of boys and 
+girls who play soccer, 
+
+272
+00:11:55,500 --> 00:11:59,680
+we only have to add 173 plus 103. 
+
+273
+00:11:59,680 --> 00:12:01,360
+We then get the following picture: 
+
+274
+00:12:01,360 --> 00:12:04,560
+229 boys do not play 
+
+275
+00:12:04,560 --> 00:12:07,200
+soccer and 325 girls 
+
+276
+00:12:07,200 --> 00:12:10,080
+do not play soccer either. However, we 
+have 
+
+277
+00:12:10,080 --> 00:12:13,360
+273 out of 830 
+
+278
+00:12:13,360 --> 00:12:16,100
+pupils who play soccer. Now we are 
+
+279
+00:12:16,100 --> 00:12:17,460
+only missing the last figure 
+
+280
+00:12:17,460 --> 00:12:20,060
+, namely the number of pupils 
+
+281
+00:12:20,060 --> 00:12:21,720
+who do not play soccer 
+
+282
+00:12:21,720 --> 00:12:25,980
+, which is 229 plus 325 
+
+283
+00:12:25,980 --> 00:12:28,780
+pupils and that 
+
+284
+00:12:28,780 --> 00:12:33,220
+makes 554 pupils. 
+
+285
+00:12:34,480 --> 00:12:37,240
+This means that more than half of the 
+
+286
+00:12:37,240 --> 00:12:39,100
+boys and girls at the school 
+
+287
+00:12:39,100 --> 00:12:42,500
+do not play soccer and the boys 
+
+288
+00:12:42,500 --> 00:12:44,000
+and girls who do play soccer 
+
+289
+00:12:44,160 --> 00:12:46,560
+
+290
+00:12:46,560 --> 00:12:47,200
+make up a slightly smaller proportion. 
+
+291
+00:12:49,970 --> 00:12:54,050
+Do you have a question about 
+
+292
+00:12:54,050 --> 00:12:58,010
+any of the topics presented? Okay, 
+
+293
+00:13:00,590 --> 00:13:03,910
+if that's not the case, 
+
+294
+00:13:04,050 --> 00:13:06,170
+then thank you again 
+
+295
+00:13:06,170 --> 00:13:08,670
+for your attention and 
+
+296
+00:13:08,670 --> 00:13:09,930
+have a nice weekend. 

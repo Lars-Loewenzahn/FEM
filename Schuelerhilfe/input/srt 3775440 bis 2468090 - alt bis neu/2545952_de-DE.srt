@@ -1,0 +1,2032 @@
+1
+00:00:03,660 --> 00:00:05,520
+Herzlich willkommen zum Webinar
+
+2
+00:00:05,520 --> 00:00:06,900
+Fortgeschrittene Methoden der
+
+3
+00:00:06,900 --> 00:00:09,140
+Differenzialrechnung. Wir werden uns
+
+4
+00:00:09,140 --> 00:00:10,420
+in diesem Webinar mit
+
+5
+00:00:10,420 --> 00:00:12,780
+Funktionsscharen und auch Grenzwerten
+
+6
+00:00:12,780 --> 00:00:14,300
+befassen. Bevor wir mit dem
+
+7
+00:00:14,300 --> 00:00:15,720
+eigentlichen Webinar anfangen, wäre
+
+8
+00:00:15,720 --> 00:00:17,520
+es ganz schön, wenn du einmal ganz
+
+9
+00:00:17,520 --> 00:00:19,420
+kurz ein kurzes Ja oder Okay unten
+
+10
+00:00:19,420 --> 00:00:20,300
+rechts in den Chat schreiben
+
+11
+00:00:20,300 --> 00:00:22,320
+könntest. Einfach nur, damit ich
+
+12
+00:00:22,320 --> 00:00:23,620
+weiß, dass du mich hören kannst und
+
+13
+00:00:23,620 --> 00:00:25,380
+dass wir wie gewohnt mit dem Webinar
+
+14
+00:00:25,380 --> 00:00:27,320
+beginnen können. Du kannst mich
+
+15
+00:00:27,320 --> 00:00:29,100
+hören, das ist wunderbar. Dann fangen
+
+16
+00:00:29,100 --> 00:00:30,540
+wir auch gleich an. Wenn du gleich
+
+17
+00:00:30,540 --> 00:00:32,320
+irgendwozu eine Frage hast, stell die
+
+18
+00:00:32,320 --> 00:00:33,820
+Frage einfach in den Chat rein, dann
+
+19
+00:00:33,820 --> 00:00:35,080
+kann ich darauf direkt zurückkommen
+
+20
+00:00:35,080 --> 00:00:37,320
+und das nochmal erläutern, die
+
+21
+00:00:37,320 --> 00:00:40,140
+entsprechende Stelle. Hier sehen wir
+
+22
+00:00:40,140 --> 00:00:42,700
+erstmal unsere heutigen Themen. Wir
+
+23
+00:00:42,700 --> 00:00:43,340
+werden uns einmal mit
+
+24
+00:00:43,340 --> 00:00:45,080
+Funktionsschaden beschäftigen, mit
+
+25
+00:00:45,080 --> 00:00:46,800
+einer Ortskurve von Funktionsschaden
+
+26
+00:00:46,800 --> 00:00:48,360
+und dann schauen wir uns noch
+
+27
+00:00:48,360 --> 00:00:50,040
+Grenzwerte und die regel von del
+
+28
+00:00:50,040 --> 00:00:53,660
+hospital an fangen wir mit den
+
+29
+00:00:53,660 --> 00:00:57,820
+funktionsscharen an funktionsscharen
+
+30
+00:00:57,820 --> 00:00:59,880
+sind einfach funktionen die einen
+
+31
+00:00:59,880 --> 00:01:01,700
+parameter noch haben dieser parameter
+
+32
+00:01:01,700 --> 00:01:04,500
+ist oftmals ein a und mittels dieses
+
+33
+00:01:04,500 --> 00:01:06,120
+parameters kann die kurve nochmals
+
+34
+00:01:06,120 --> 00:01:07,640
+verändert werden beziehungsweise man
+
+35
+00:01:07,640 --> 00:01:10,060
+kann mit einer funktionsschar wie
+
+36
+00:01:10,060 --> 00:01:12,260
+sich abgebildet mehrere funktions
+
+37
+00:01:12,260 --> 00:01:13,620
+gleichungen abbilden also das hier
+
+38
+00:01:13,620 --> 00:01:14,020
+sind Das sind alles
+
+39
+00:01:14,020 --> 00:01:15,940
+Funktionsgleichungen, die aus dieser
+
+40
+00:01:15,940 --> 00:01:19,300
+Funktionsschar stammen. Eine
+
+41
+00:01:19,300 --> 00:01:20,360
+herkömmliche, ganz rationale
+
+42
+00:01:20,360 --> 00:01:21,620
+Funktion, wie wir sie sonst immer
+
+43
+00:01:21,620 --> 00:01:22,780
+behandelt haben, ist zum Beispiel das
+
+44
+00:01:22,780 --> 00:01:26,720
+hier. f von x ist gleich x² plus 4x
+
+45
+00:01:26,720 --> 00:01:30,000
+minus 1. Du siehst, hier gibt es
+
+46
+00:01:30,000 --> 00:01:32,260
+wirklich nur x als Variable drin. Bei
+
+47
+00:01:32,260 --> 00:01:34,580
+der Funktionsschar gibt es neben der
+
+48
+00:01:34,580 --> 00:01:37,080
+Variable x noch ein Parameter. Bitte
+
+49
+00:01:37,080 --> 00:01:38,780
+beachte, dass so ein Parameter
+
+50
+00:01:38,780 --> 00:01:40,440
+wirklich wie eine Zahl behandelt wird
+
+51
+00:01:40,440 --> 00:01:42,940
+und nicht wie eine Variable. ist das
+
+52
+00:01:42,940 --> 00:01:43,860
+ganz wichtig.
+
+53
+00:01:46,580 --> 00:01:48,400
+Die wesentlichen Unterschiede
+
+54
+00:01:48,400 --> 00:01:50,460
+zwischen Funktionen und
+
+55
+00:01:50,460 --> 00:01:54,180
+Funktionsscharen sind, also die gute
+
+56
+00:01:54,180 --> 00:01:55,540
+Nachricht für dich ist erstmal, dass
+
+57
+00:01:55,540 --> 00:01:59,080
+alle Kriterien gleich bleiben. Das
+
+58
+00:01:59,080 --> 00:02:00,860
+heißt, Nullwendigbedingungen und
+
+59
+00:02:00,860 --> 00:02:01,740
+hinreichende Bedingungen für
+
+60
+00:02:01,740 --> 00:02:03,640
+Nullstellen, Wendestellen und
+
+61
+00:02:03,640 --> 00:02:05,040
+Extremstellen bleiben gleich.
+
+62
+00:02:08,620 --> 00:02:11,900
+Die Lösung von diesen, also die
+
+63
+00:02:11,900 --> 00:02:14,320
+Lösungsmenge, ist... bei normalen
+
+64
+00:02:14,320 --> 00:02:15,900
+Funktionen ja immer eine Zahl oder es
+
+65
+00:02:15,900 --> 00:02:20,880
+gibt keine. Bei Funktionsscharen ist
+
+66
+00:02:20,880 --> 00:02:23,780
+es oftmals so, dass die Lösung vom
+
+67
+00:02:23,780 --> 00:02:25,700
+gegebenen Parameter abhängig ist. Das
+
+68
+00:02:25,700 --> 00:02:27,420
+heißt, dann kommt nicht irgendwie x
+
+69
+00:02:27,420 --> 00:02:29,040
+ist gleich 5 raus, sondern sowas wie
+
+70
+00:02:29,660 --> 00:02:33,820
+x ist gleich a plus 3 raus. Das
+
+71
+00:02:33,820 --> 00:02:38,420
+passiert häufiger und da muss man
+
+72
+00:02:38,420 --> 00:02:39,220
+sich dann halt entsprechend dran
+
+73
+00:02:39,220 --> 00:02:42,740
+gewöhnen und darauf einstellen. Wir
+
+74
+00:02:42,740 --> 00:02:47,900
+sehen hier eine Funktionsgleichung
+
+75
+00:02:49,730 --> 00:02:52,050
+für heute. fk von x ist gleich k mal
+
+76
+00:02:52,050 --> 00:02:54,410
+x durch x² plus 1. k ist dabei wie
+
+77
+00:02:54,410 --> 00:02:56,490
+gesagt unser Schadparameter.
+
+78
+00:02:58,210 --> 00:03:01,010
+Und wir gehen jetzt einfach mal eine
+
+79
+00:03:01,010 --> 00:03:02,390
+kleine Kurvendiskussion durch. Wir
+
+80
+00:03:02,390 --> 00:03:05,330
+fangen an mit den Nullstellen. Und
+
+81
+00:03:05,330 --> 00:03:07,510
+zwar bei Nullstellen setzen wir auch
+
+82
+00:03:07,510 --> 00:03:09,630
+hier die Funktionsschar einfach mit 0
+
+83
+00:03:09,630 --> 00:03:11,410
+gleich. Ganz wichtig, das ist
+
+84
+00:03:11,410 --> 00:03:12,550
+eigentlich eine gebrochen rationale
+
+85
+00:03:12,550 --> 00:03:14,810
+Funktion. Das siehst du daran, dass
+
+86
+00:03:14,810 --> 00:03:17,010
+auch die Variable im Nenner vorkommt,
+
+87
+00:03:17,050 --> 00:03:23,830
+hier x². Daher müssen wir
+
+88
+00:03:23,830 --> 00:03:26,950
+jetzt oder können wir, wenn wir die
+
+89
+00:03:26,950 --> 00:03:29,310
+Funktion mit 0 gleichsetzen, einfach
+
+90
+00:03:29,310 --> 00:03:33,010
+nur den Zählerterm nehmen, also das k
+
+91
+00:03:33,010 --> 00:03:35,830
+mal x und d mit 0 gleichsetzen. Das
+
+92
+00:03:35,830 --> 00:03:38,390
+hat damit zu tun, wenn wir hier im
+
+93
+00:03:38,390 --> 00:03:40,810
+Zähler eine 0 kriegen, ist
+
+94
+00:03:40,810 --> 00:03:42,650
+automatisch der Funktionswert... wird
+
+95
+00:03:42,650 --> 00:03:47,350
+0. Und deswegen suchen wir einfach
+
+96
+00:03:47,350 --> 00:03:49,450
+nur das Zählerpolynom nach
+
+97
+00:03:49,450 --> 00:03:51,750
+Nullstellen ab. Und so kommen wir auf
+
+98
+00:03:51,750 --> 00:03:53,610
+0 ist gleich k mal x, das stellen wir
+
+99
+00:03:53,610 --> 00:03:55,150
+dann nach x um, also wir teilen durch
+
+100
+00:03:55,150 --> 00:03:57,150
+k, weil das k ist ja nur irgendeine
+
+101
+00:03:57,150 --> 00:04:00,490
+Zahl und dann steht da x0 ist gleich
+
+102
+00:04:00,490 --> 00:04:03,970
+0. Und es ist ganz wichtig, die
+
+103
+00:04:03,970 --> 00:04:05,130
+Nullstellen an der Bruchfunktion
+
+104
+00:04:05,130 --> 00:04:06,210
+hängen nicht vom Nenner ab, das
+
+105
+00:04:06,210 --> 00:04:07,730
+werden wir noch öfter in diesem
+
+106
+00:04:07,730 --> 00:04:08,710
+Webinar hören.
+
+107
+00:04:12,260 --> 00:04:15,140
+Kommen wir zu den Extremstellen. Um
+
+108
+00:04:15,140 --> 00:04:16,420
+Um die Extremstellung zu berechnen,
+
+109
+00:04:16,500 --> 00:04:18,020
+müssen wir natürlich als erstes die
+
+110
+00:04:18,020 --> 00:04:20,360
+Funktionsgleichung ableiten. Die
+
+111
+00:04:20,360 --> 00:04:21,740
+erste Ableitung einer gebrochen
+
+112
+00:04:21,740 --> 00:04:23,300
+rationalen Funktionsgleichung ist
+
+113
+00:04:23,300 --> 00:04:26,320
+immer mittels der Quotientenregel zu
+
+114
+00:04:26,320 --> 00:04:27,820
+erstellen. Hier oben steht die
+
+115
+00:04:27,820 --> 00:04:29,220
+nochmal drin, die Quotientenregel ist
+
+116
+00:04:29,220 --> 00:04:30,340
+aber kein Bestandteil dieses
+
+117
+00:04:30,340 --> 00:04:32,000
+Webinars. Ich erkläre sie aber trotz
+
+118
+00:04:32,000 --> 00:04:35,020
+alledem einmal kurz. Wir stellen uns
+
+119
+00:04:35,020 --> 00:04:36,200
+das so vor, die Funktion ist
+
+120
+00:04:36,200 --> 00:04:39,180
+aufgebaut. Wir haben oben hier unsere
+
+121
+00:04:39,180 --> 00:04:41,320
+Funktionsgleichung u von x und unten
+
+122
+00:04:41,320 --> 00:04:44,100
+unser v von x. Und um nun die
+
+123
+00:04:44,100 --> 00:04:46,520
+Ableitung zu erstellen, gehen wir
+
+124
+00:04:46,520 --> 00:04:48,920
+hin, rechnen u' von x mal v von x
+
+125
+00:04:48,920 --> 00:04:52,300
+minus v' von x mal u von x durch v².
+
+126
+00:04:54,160 --> 00:04:55,780
+Unser u von x, hatte ich ja gerade
+
+127
+00:04:55,780 --> 00:04:57,780
+gesagt, ist k mal x. Unser v von x
+
+128
+00:04:57,780 --> 00:05:01,480
+ist x² plus 1. Und jetzt erstellen
+
+129
+00:05:01,480 --> 00:05:04,060
+wir einfach u' und v' durch simples
+
+130
+00:05:04,060 --> 00:05:07,360
+Ableiten. Also u von x abgeleitet ist
+
+131
+00:05:07,360 --> 00:05:10,220
+einfach nur k, folglich ist u'k und
+
+132
+00:05:10,220 --> 00:05:12,920
+v' von x ist dann 2x, das ist einfach
+
+133
+00:05:12,920 --> 00:05:16,940
+die Ableitung von x² plus 1. So
+
+134
+00:05:16,940 --> 00:05:20,200
+kommen wir auf k mal x² plus 1 zu
+
+135
+00:05:20,200 --> 00:05:23,320
+minus 2x mal kx, das Ganze geteilt
+
+136
+00:05:23,320 --> 00:05:27,560
+durch x² plus 1 zu hoch 2. Dieses
+
+137
+00:05:27,560 --> 00:05:28,980
+Binom hier unten sollte man immer
+
+138
+00:05:28,980 --> 00:05:30,140
+nach Möglichkeit einfach stehen
+
+139
+00:05:30,140 --> 00:05:32,580
+lassen, das macht die Sache einfach
+
+140
+00:05:32,580 --> 00:05:34,960
+ein bisschen einfacher. man später
+
+141
+00:05:34,960 --> 00:05:39,100
+nochmal ableiten muss. Im Zähler oben
+
+142
+00:05:39,100 --> 00:05:40,480
+sollte man alles vereinfachen, was
+
+143
+00:05:40,480 --> 00:05:42,440
+geht. Zum Beispiel kann man hier
+
+144
+00:05:42,440 --> 00:05:44,520
+jetzt ja hingehen, minus 2x mal kx
+
+145
+00:05:44,520 --> 00:05:47,280
+vereinfachen, ist
+
+146
+00:05:48,940 --> 00:05:50,440
+aber an für sich nicht ganz so
+
+147
+00:05:50,440 --> 00:05:51,480
+wichtig, wenn man sofort die
+
+148
+00:05:51,480 --> 00:05:53,160
+Extremstellen berechnen möchte. Du
+
+149
+00:05:53,160 --> 00:05:55,040
+siehst, die erste Ableitung wurde
+
+150
+00:05:55,040 --> 00:05:57,840
+sofort mit 0 gleichgesetzt. Das
+
+151
+00:05:57,840 --> 00:05:59,840
+heißt, wir können jetzt wieder direkt
+
+152
+00:05:59,840 --> 00:06:03,020
+uns nur den Zähler vornehmen und
+
+153
+00:06:03,020 --> 00:06:04,260
+diesen auf einer Nullstelle
+
+154
+00:06:04,260 --> 00:06:08,020
+untersuchen. Wir kommen so dann auf 0
+
+155
+00:06:08,020 --> 00:06:12,580
+ist gleich k mal x² plus 1 minus 2x
+
+156
+00:06:12,580 --> 00:06:16,340
+mal kx. Jetzt fassen wir dieses 2x
+
+157
+00:06:16,340 --> 00:06:19,140
+mal kx erstmal zusammen und lösen die
+
+158
+00:06:19,140 --> 00:06:21,700
+Klammer auf. Die Klammer ist k mal
+
+159
+00:06:21,700 --> 00:06:25,020
+x², das ist einfach kx² und k mal
+
+160
+00:06:25,020 --> 00:06:29,960
+plus 1, also plus k und 2x mal kx
+
+161
+00:06:29,960 --> 00:06:32,600
+ergibt zusammen minus 2kx².
+
+162
+00:06:35,220 --> 00:06:39,060
+Und wir können jetzt hier hingehen.
+
+163
+00:06:39,700 --> 00:06:45,700
+Wir haben ja kx² und minus 2kx². Das
+
+164
+00:06:45,700 --> 00:06:49,000
+ist zusammen minus kx². Das plus k
+
+165
+00:06:49,000 --> 00:06:51,500
+bleibt. Und wir sehen, wir haben
+
+166
+00:06:51,500 --> 00:06:53,960
+beides in Abhängigkeit von k. Daher
+
+167
+00:06:53,960 --> 00:06:55,540
+ist es uns möglich, ein k
+
+168
+00:06:55,540 --> 00:06:58,340
+auszuklammern. Das machen wir auch
+
+169
+00:06:58,340 --> 00:06:59,380
+hier. Jetzt haben wir das k davor.
+
+170
+00:07:01,100 --> 00:07:03,480
+Und jetzt steht da Klammer auf. auf
+
+171
+00:07:03,480 --> 00:07:06,360
+minus x² plus 1, Klammer zu, und weil
+
+172
+00:07:06,360 --> 00:07:07,940
+das k davor steht, können wir einfach
+
+173
+00:07:07,940 --> 00:07:11,380
+durch das k teilen. Und dann siehst
+
+174
+00:07:11,380 --> 00:07:12,540
+du, haben wir auf einmal unseren
+
+175
+00:07:12,540 --> 00:07:14,620
+Parameter eliminiert. Das geht wie
+
+176
+00:07:14,620 --> 00:07:15,780
+gesagt nicht immer, das ist jetzt
+
+177
+00:07:15,780 --> 00:07:20,020
+hier ein Sonderfall, denn unsere
+
+178
+00:07:20,020 --> 00:07:21,320
+Lösung ist gleich, wie du hier unten
+
+179
+00:07:21,320 --> 00:07:23,080
+schon siehst, unabhängig von k.
+
+180
+00:07:24,380 --> 00:07:25,840
+Nachdem wir durch k geteilt haben,
+
+181
+00:07:25,900 --> 00:07:27,180
+haben wir nämlich 0 ist gleich minus
+
+182
+00:07:27,180 --> 00:07:29,240
+x² plus 1, Das ist eine ganz einfach
+
+183
+00:07:29,240 --> 00:07:31,180
+quadratische Gleichung. Da rechnet
+
+184
+00:07:31,180 --> 00:07:32,900
+man jetzt einfach plus x², dann steht
+
+185
+00:07:32,900 --> 00:07:35,480
+da x² ist gleich 1 und man zieht
+
+186
+00:07:35,480 --> 00:07:36,820
+anschließend die Wurzel und kommt auf
+
+187
+00:07:36,820 --> 00:07:39,060
+die Lösung 1 und minus 1.
+
+188
+00:07:46,620 --> 00:07:47,980
+Anschließend berechnet man ja noch
+
+189
+00:07:47,980 --> 00:07:52,100
+immer oder meistens die y-Koordinate.
+
+190
+00:07:52,160 --> 00:07:53,820
+Das machen wir hier einfach, indem
+
+191
+00:07:53,820 --> 00:07:55,500
+wir unsere Lösung, so wie wir es von
+
+192
+00:07:55,500 --> 00:07:57,400
+allen anderen ganz rationalen
+
+193
+00:07:57,400 --> 00:07:59,020
+Funktionen kennen, indem wir unsere
+
+194
+00:07:59,020 --> 00:08:01,760
+Lösung in die Ursprungsfunktion f von
+
+195
+00:08:01,760 --> 00:08:05,340
+x, also hier fk von x einsetzen. Wir
+
+196
+00:08:05,340 --> 00:08:07,380
+setzen jetzt also für das x hier die
+
+197
+00:08:07,380 --> 00:08:10,140
+1 bzw. die minus 1 ein. Das war ja
+
+198
+00:08:10,140 --> 00:08:14,420
+die Lösung soeben. Und so kommen wir
+
+199
+00:08:14,420 --> 00:08:16,720
+auf k mal 1 durch 1 zum Quadrat plus
+
+200
+00:08:16,720 --> 00:08:20,320
+1. Und das ist einfach k halbe, also
+
+201
+00:08:20,320 --> 00:08:22,140
+1 zum Quadrat ist ja auch 1. 1 plus 1
+
+202
+00:08:22,140 --> 00:08:24,720
+ist dann die 2. k mal 1 ist das k.
+
+203
+00:08:27,550 --> 00:08:29,590
+Beide minus 1. läuft es fast genauso.
+
+204
+00:08:29,790 --> 00:08:32,330
+Wir haben k mal minus 1 durch minus 1
+
+205
+00:08:32,330 --> 00:08:35,170
+hoch 2 plus 1. Minus 1 hoch 2 ist
+
+206
+00:08:35,170 --> 00:08:37,150
+auch 1. Bitte darauf achten, dass das
+
+207
+00:08:37,150 --> 00:08:39,410
+Minus wegfällt. Und so kommen wir
+
+208
+00:08:39,410 --> 00:08:43,330
+hier auf minus k halbe. Das heißt,
+
+209
+00:08:43,430 --> 00:08:46,430
+man kann jetzt sagen, an
+
+210
+00:08:47,900 --> 00:08:50,840
+der Stelle 1 liegt ein Hochpunkt vor
+
+211
+00:08:50,840 --> 00:08:53,380
+und an der stelle 2 liegt ein minimum
+
+212
+00:08:53,380 --> 00:08:58,220
+vor sofern
+
+213
+00:08:58,220 --> 00:09:02,080
+k nicht null ist also die option dass
+
+214
+00:09:02,080 --> 00:09:03,800
+der parameter null ist wird meistens
+
+215
+00:09:03,800 --> 00:09:05,220
+ausgeschlossen wir hatten es leider
+
+216
+00:09:05,220 --> 00:09:06,640
+noch keinen definitionsbereich hier
+
+217
+00:09:06,640 --> 00:09:10,860
+aber wenn k null wäre hätten wir ja
+
+218
+00:09:10,860 --> 00:09:12,220
+hier null halbe und hier hätten wir
+
+219
+00:09:12,220 --> 00:09:13,840
+auch minus null halbe das wäre auch
+
+220
+00:09:13,840 --> 00:09:15,820
+null dann würden natürlich beide
+
+221
+00:09:15,820 --> 00:09:20,200
+punkte auf der x-achse liegen aber
+
+222
+00:09:20,200 --> 00:09:22,040
+dann würde auch die ganze Funktion
+
+223
+00:09:22,040 --> 00:09:24,420
+auf der x-Achse liegen. Also das wird
+
+224
+00:09:24,420 --> 00:09:25,800
+nicht vorkommen.
+
+225
+00:09:29,990 --> 00:09:33,050
+Was auch auffällt, unsere x
+
+226
+00:09:33,050 --> 00:09:35,170
+-Koordinate ist nicht abhängig von k,
+
+227
+00:09:35,390 --> 00:09:38,770
+einfach 1 bzw. minus 1, aber die y
+
+228
+00:09:38,770 --> 00:09:40,350
+-Koordinate enthält unseren
+
+229
+00:09:40,350 --> 00:09:49,010
+Chartparameter k. Daher ist die Art
+
+230
+00:09:49,010 --> 00:09:53,310
+unserer Extrema ebenfalls abhängig
+
+231
+00:09:53,310 --> 00:10:04,930
+von k. Also wenn unser k kleiner als
+
+232
+00:10:04,930 --> 00:10:06,330
+0 ist, dann würde hier etwas
+
+233
+00:10:06,330 --> 00:10:08,430
+Negatives stehen und dann wäre auf
+
+234
+00:10:08,430 --> 00:10:11,970
+einmal E2 der Hochpunkt und E1 der
+
+235
+00:10:11,970 --> 00:10:15,070
+Tiefpunkt. Ja, weil k könnte ja auch
+
+236
+00:10:15,070 --> 00:10:16,410
+negative Werte annehmen. Hätten wir
+
+237
+00:10:16,410 --> 00:10:17,730
+hier auf einmal ein Minus und hier
+
+238
+00:10:17,730 --> 00:10:18,970
+hätten wir ein Minusminus und
+
+239
+00:10:18,970 --> 00:10:21,190
+Minusminus wäre wieder Plus. Und so
+
+240
+00:10:21,190 --> 00:10:23,550
+würde der Hochpunkt mit dem Tiefpunkt
+
+241
+00:10:23,550 --> 00:10:24,130
+tauschen.
+
+242
+00:10:29,290 --> 00:10:31,990
+Normalerweise, wenn die Extremstellen
+
+243
+00:10:31,990 --> 00:10:34,550
+oder was auch immer oder Wendestellen
+
+244
+00:10:34,550 --> 00:10:37,450
+abhängig, wenn die x-Koordinate auch
+
+245
+00:10:37,450 --> 00:10:39,670
+abhängig vom Schadparameter ist,
+
+246
+00:10:39,830 --> 00:10:41,610
+berechnet man immer eine Ortskurve.
+
+247
+00:10:43,930 --> 00:10:46,130
+und diese ortskurve ist einfach
+
+248
+00:10:46,130 --> 00:10:50,650
+sozusagen der graf oder die kurve auf
+
+249
+00:10:50,650 --> 00:10:52,530
+dem sich dann die extremstellen
+
+250
+00:10:52,530 --> 00:10:55,750
+befinden die strategie wie man das
+
+251
+00:10:55,750 --> 00:10:57,150
+macht ist ja immer aufgeschrieben man
+
+252
+00:10:57,150 --> 00:10:59,770
+muss natürlich erst mit extremstellen
+
+253
+00:10:59,770 --> 00:11:00,990
+berechnen über das notwendige
+
+254
+00:11:00,990 --> 00:11:02,830
+kriterium und dann muss man die y
+
+255
+00:11:02,830 --> 00:11:05,890
+koordinate errechnen das heißt punkt
+
+256
+00:11:05,890 --> 00:11:07,870
+1 und 2 ist ganz normal extremstelle
+
+257
+00:11:07,870 --> 00:11:09,910
+bestimmt wirklich Wirklich spannend
+
+258
+00:11:09,910 --> 00:11:12,350
+wird jetzt bei Punkt 3. Und zwar
+
+259
+00:11:12,350 --> 00:11:13,530
+nehmen wir eine der beiden
+
+260
+00:11:13,530 --> 00:11:15,330
+Koordinaten, also entweder die x-
+
+261
+00:11:15,330 --> 00:11:18,070
+oder die y-Koordinate. Ich würde dazu
+
+262
+00:11:18,070 --> 00:11:19,910
+raten, die x-Koordinate zu nehmen.
+
+263
+00:11:19,990 --> 00:11:21,870
+Und diese wird zu dem Parameter
+
+264
+00:11:21,870 --> 00:11:24,910
+umgestellt. Und nachdem das
+
+265
+00:11:24,910 --> 00:11:27,130
+umgestellt wurde, wird das in den
+
+266
+00:11:27,130 --> 00:11:31,370
+anderen Punkt eingesetzt. Keine
+
+267
+00:11:31,370 --> 00:11:33,630
+Angst, das machen wir gleich. Wir
+
+268
+00:11:33,630 --> 00:11:35,210
+haben jetzt natürlich bei uns das
+
+269
+00:11:35,210 --> 00:11:37,650
+kleine Problem gehabt, dass wir
+
+270
+00:11:37,650 --> 00:11:41,250
+unsere x-koordinate war ja unabhängig
+
+271
+00:11:41,250 --> 00:11:42,950
+vom schadbarometer daher betrachten
+
+272
+00:11:42,950 --> 00:11:44,250
+wir jetzt hier erstmal eine andere
+
+273
+00:11:44,250 --> 00:11:45,890
+funktionsgleichung das ist die
+
+274
+00:11:45,890 --> 00:11:47,870
+funktionsgleichung x quadrat plus a x
+
+275
+00:11:47,870 --> 00:11:50,690
+plus 1 und dieser funktionsgleichung
+
+276
+00:11:50,690 --> 00:11:52,330
+sie ist eine ganz rationale funktion
+
+277
+00:11:52,330 --> 00:11:55,650
+die untersuchen wir jetzt erstmal auf
+
+278
+00:11:55,650 --> 00:11:57,410
+extremstellen das heißt als erstes
+
+279
+00:11:57,410 --> 00:11:59,610
+bilden wir die erste ableitung diese
+
+280
+00:11:59,610 --> 00:12:02,370
+ist 2x plus a und diese erste
+
+281
+00:12:02,370 --> 00:12:03,830
+ableitung müssen wir natürlich mit
+
+282
+00:12:03,830 --> 00:12:06,850
+null gleichsetzen Das haben wir auch
+
+283
+00:12:06,850 --> 00:12:09,230
+hier gemacht. 0 ist gleich 2x plus a
+
+284
+00:12:09,230 --> 00:12:12,830
+und nun gehen wir hin und stellen
+
+285
+00:12:12,830 --> 00:12:15,710
+nach x um. Das heißt, als erstes
+
+286
+00:12:15,710 --> 00:12:17,890
+rechnen wir minus a. Dann steht da
+
+287
+00:12:17,890 --> 00:12:20,950
+minus a ist gleich 2x. Und jetzt
+
+288
+00:12:20,950 --> 00:12:21,990
+zahlen wir noch durch 2 und dann
+
+289
+00:12:21,990 --> 00:12:23,770
+steht da minus a halbe ist gleich
+
+290
+00:12:23,770 --> 00:12:26,490
+unser x. Also das x für unsere
+
+291
+00:12:26,490 --> 00:12:30,550
+Extremstelle. Und jetzt kommt halt
+
+292
+00:12:30,550 --> 00:12:33,670
+Schritt 2. Wir setzen dieses x, minus
+
+293
+00:12:33,670 --> 00:12:35,390
+a halbe. in die Funktionsgleichung
+
+294
+00:12:35,390 --> 00:12:37,070
+ein, um die y-Koordinate zu
+
+295
+00:12:37,070 --> 00:12:39,850
+errechnen. Das heißt, wir würden f a
+
+296
+00:12:39,850 --> 00:12:43,370
+von minus a halbe. Und das ist gleich
+
+297
+00:12:43,370 --> 00:12:45,590
+minus a halbe zum Quadrat plus a mal
+
+298
+00:12:45,590 --> 00:12:49,530
+minus a halbe plus 1. Bitte achtet
+
+299
+00:12:49,530 --> 00:12:52,550
+drauf, minus a halbe zum Quadrat ist
+
+300
+00:12:52,550 --> 00:12:56,050
+ein Viertel a Quadrat. Das Minus
+
+301
+00:12:56,050 --> 00:12:58,390
+hiervon kommt daher, weil wir haben
+
+302
+00:12:58,390 --> 00:13:00,950
+ein Viertel a Quadrat und das hier
+
+303
+00:13:00,950 --> 00:13:03,550
+hinten a mal minus a halbe ist minus
+
+304
+00:13:03,550 --> 00:13:08,880
+a halbe zum Quadrat. Das heißt, wir
+
+305
+00:13:08,880 --> 00:13:09,800
+haben, ich schreibe es mal kurz
+
+306
+00:13:09,800 --> 00:13:11,160
+drüber, hier
+
+307
+00:13:13,340 --> 00:13:15,260
+haben wir ein Viertel und hier haben
+
+308
+00:13:15,260 --> 00:13:18,300
+wir minus anderthalb. Das ist dann
+
+309
+00:13:18,300 --> 00:13:22,500
+wieder minus ein Viertel a Quadrat
+
+310
+00:13:22,500 --> 00:13:25,900
+natürlich. Und die plus 1 bleibt
+
+311
+00:13:25,900 --> 00:13:30,290
+auch. Wir kommen so auf minus ein
+
+312
+00:13:30,290 --> 00:13:32,990
+Viertel a Quadrat plus 1 und das ist
+
+313
+00:13:32,990 --> 00:13:35,090
+dann unsere y-Koordinate. Das heißt,
+
+314
+00:13:35,110 --> 00:13:36,290
+wir haben haben die Extremstelle
+
+315
+00:13:36,290 --> 00:13:39,350
+minus a halbe und minus ein Viertel a
+
+316
+00:13:39,350 --> 00:13:42,410
+Quadrat plus 1. Das hier ist wie
+
+317
+00:13:42,410 --> 00:13:44,390
+gesagt unsere x-Koordinate und das
+
+318
+00:13:44,390 --> 00:13:47,550
+unsere y-Koordinate. Und im nächsten
+
+319
+00:13:47,550 --> 00:13:48,870
+Schritt, um die Ortskurve zu
+
+320
+00:13:48,870 --> 00:13:51,830
+erstellen, gehen wir einfach hin,
+
+321
+00:13:51,910 --> 00:13:53,950
+nehmen uns unsere x-Koordinate und
+
+322
+00:13:53,950 --> 00:13:56,190
+formen sie nach a um. Unsere x
+
+323
+00:13:56,190 --> 00:13:57,790
+-Koordinate lautet ja einfach x ist
+
+324
+00:13:57,790 --> 00:13:59,950
+gleich minus a halbe, Das formen wir
+
+325
+00:13:59,950 --> 00:14:02,190
+jetzt nach a um, also rechnen wir mal
+
+326
+00:14:02,190 --> 00:14:04,250
+2, da steht ja 2x gleich minus a.
+
+327
+00:14:04,730 --> 00:14:06,870
+Rechnen wir doch mal minus 1, damit
+
+328
+00:14:06,870 --> 00:14:08,770
+das Vorzeichen gewechselt wird. Und
+
+329
+00:14:08,770 --> 00:14:10,490
+nun wissen wir, a ist gleich minus
+
+330
+00:14:10,490 --> 00:14:14,930
+2x. Und genau das setzen wir jetzt
+
+331
+00:14:14,930 --> 00:14:16,530
+für dieses a ein. Also wir setzen
+
+332
+00:14:16,530 --> 00:14:19,130
+jetzt für das a hier minus 2x ein.
+
+333
+00:14:19,250 --> 00:14:20,770
+Das siehst du auch hier. Hier steht
+
+334
+00:14:20,770 --> 00:14:22,470
+noch das a drin und jetzt steht hier
+
+335
+00:14:22,470 --> 00:14:27,050
+auf einmal minus 2x hoch 2 drin. Wir
+
+336
+00:14:27,050 --> 00:14:29,250
+haben jetzt minus 1 Viertel mal minus
+
+337
+00:14:29,250 --> 00:14:33,470
+2x zum Quadrat plus 1. Minus 2x und
+
+338
+00:14:33,470 --> 00:14:36,410
+das Ganze zum Quadrat ist einfach 4x
+
+339
+00:14:36,410 --> 00:14:40,730
+Quadrat. Und minus 1 Viertel mal 4x
+
+340
+00:14:40,730 --> 00:14:43,110
+Quadrat ist einfach minus x Quadrat
+
+341
+00:14:43,110 --> 00:14:46,550
+und die plus 1 bleibt. Folglich
+
+342
+00:14:46,550 --> 00:14:49,830
+lautet dann die Ortskurve minus x
+
+343
+00:14:49,830 --> 00:14:52,710
+Quadrat plus 1. Und das sehen wir
+
+344
+00:14:52,710 --> 00:14:55,170
+auch mal hier. du siehst das ist das
+
+345
+00:14:55,170 --> 00:14:57,690
+fette violette ist die ortskurve
+
+346
+00:14:57,690 --> 00:15:00,750
+berechnet haben und das hier sind die
+
+347
+00:15:00,750 --> 00:15:02,330
+verschiedenen funktions gleichungen
+
+348
+00:15:02,330 --> 00:15:04,370
+für verschiedene parameter und du
+
+349
+00:15:04,370 --> 00:15:06,230
+siehst alle tiefpunkte liegen auf
+
+350
+00:15:06,230 --> 00:15:08,390
+dieser ortskurve gut
+
+351
+00:15:13,600 --> 00:15:15,800
+das wäre es dann jetzt erstmal zu
+
+352
+00:15:18,200 --> 00:15:20,300
+funktionsscharen wir würden dann mit
+
+353
+00:15:20,300 --> 00:15:22,240
+grenzwerten anfangen hast du eine
+
+354
+00:15:22,240 --> 00:15:22,920
+frage hierzu.
+
+355
+00:15:29,860 --> 00:15:30,940
+Gesagt, wenn du eine Frage hast,
+
+356
+00:15:30,980 --> 00:15:32,320
+kannst du die gerne schreiben.
+
+357
+00:15:37,820 --> 00:15:41,180
+Okay, ich mache das einfach mal
+
+358
+00:15:41,180 --> 00:15:43,980
+weiter und wir fangen dann mit
+
+359
+00:15:43,980 --> 00:15:45,280
+Grenzwerten an.
+
+360
+00:15:51,280 --> 00:15:53,260
+Um einen Grenzwert zu definieren,
+
+361
+00:15:53,300 --> 00:15:54,280
+brauchen wir natürlich erstmal eine
+
+362
+00:15:54,280 --> 00:15:57,380
+Zuordnungsvorschrift, sowas wie a n
+
+363
+00:15:57,380 --> 00:16:01,100
+ist gleich n plus 1 oder einen
+
+364
+00:16:01,100 --> 00:16:03,240
+Funktionsterm. Das Problem ist nur,
+
+365
+00:16:03,300 --> 00:16:04,960
+bei solchen gebrochen rationalen
+
+366
+00:16:04,960 --> 00:16:06,420
+Funktionstermen, wo auch auch ein x
+
+367
+00:16:06,420 --> 00:16:09,380
+im Nenner steht, dass diese nun mal
+
+368
+00:16:09,380 --> 00:16:14,340
+nicht für alle Zahlen definiert sind.
+
+369
+00:16:14,520 --> 00:16:18,400
+Weil, das siehst du auch hier, wir
+
+370
+00:16:19,780 --> 00:16:23,000
+dürfen ja unter keinen Umständen bei
+
+371
+00:16:23,000 --> 00:16:24,800
+einem Bruch eine 0 im Nenner stehen
+
+372
+00:16:24,800 --> 00:16:27,960
+haben. Also wenn wir sowas haben wie
+
+373
+00:16:27,960 --> 00:16:30,880
+n strebt gegen 3 und wir haben 1
+
+374
+00:16:30,880 --> 00:16:32,340
+durch n, dann wäre das ein Drittel.
+
+375
+00:16:33,980 --> 00:16:37,520
+Hierbei, wo wir im Nenner x-3² haben
+
+376
+00:16:37,520 --> 00:16:39,720
+und wenn wir hier auf einmal eine 3
+
+377
+00:16:39,720 --> 00:16:43,180
+einsetzen, können wir keineswegs mehr
+
+378
+00:16:43,180 --> 00:16:48,840
+einen Funktionswert ausrechnen. Das
+
+379
+00:16:48,840 --> 00:16:50,280
+heißt, wir können auch keinen
+
+380
+00:16:50,280 --> 00:16:52,100
+Grenzwert berechnen. Ganz einfach,
+
+381
+00:16:52,200 --> 00:16:53,440
+weil dann steht eine 0 drin und das
+
+382
+00:16:53,440 --> 00:16:56,460
+Ding ist nicht mehr definiert. Das
+
+383
+00:16:56,460 --> 00:16:59,240
+ist schlecht. Deswegen gibt es
+
+384
+00:16:59,240 --> 00:17:00,780
+Möglichkeiten, Grenzwerte zu
+
+385
+00:17:00,780 --> 00:17:05,240
+berechnen. Im folgenden werden wir
+
+386
+00:17:05,240 --> 00:17:06,460
+diese schöne Funktionsgleichung
+
+387
+00:17:06,460 --> 00:17:09,760
+berechnen Und wir lassen unsere x
+
+388
+00:17:09,760 --> 00:17:12,280
+gegen minus 1 streben Minus 1 ist
+
+389
+00:17:12,280 --> 00:17:14,680
+natürlich die Nenner Nullstelle Das
+
+390
+00:17:14,680 --> 00:17:16,160
+heißt, wenn du hier eine minus 1
+
+391
+00:17:16,160 --> 00:17:18,840
+einsetzt, hast du eine Null im Nenner
+
+392
+00:17:18,840 --> 00:17:20,020
+stehen Das heißt, man kann das nicht
+
+393
+00:17:20,020 --> 00:17:22,500
+einfach einsetzen Und jetzt kommen
+
+394
+00:17:22,500 --> 00:17:26,620
+unsere Rechentechniken für Grenzwerte
+
+395
+00:17:26,620 --> 00:17:29,540
+ins Spiel Eine Möglichkeit ist es
+
+396
+00:17:30,640 --> 00:17:33,340
+sich einfach der minus 1 anzunähern.
+
+397
+00:17:33,440 --> 00:17:35,580
+Das heißt, einmal von links, man geht
+
+398
+00:17:35,580 --> 00:17:37,600
+ganz nah dran, und einmal von rechts.
+
+399
+00:17:37,640 --> 00:17:40,560
+Du siehst hier minus 1,1 und minus 0
+
+400
+00:17:40,560 --> 00:17:43,600
+,9 und hier immer die Funktionswerte
+
+401
+00:17:43,600 --> 00:17:47,960
+davon. Und du siehst auch schon, bei
+
+402
+00:17:47,960 --> 00:17:50,400
+minus 1,01, das ist ja schon sehr nah
+
+403
+00:17:50,400 --> 00:17:51,800
+an der minus 1 dran, haben wir einen
+
+404
+00:17:51,800 --> 00:17:55,520
+Funktionswert von minus 0,49. Bei
+
+405
+00:17:55,520 --> 00:17:58,200
+minus 0,99, da sind wir ein Stück
+
+406
+00:17:58,200 --> 00:18:00,160
+rechts, Rechts davon haben wir den
+
+407
+00:18:00,160 --> 00:18:04,060
+Funktionswert minus 0,51. Also man
+
+408
+00:18:04,060 --> 00:18:05,600
+könnte jetzt vermuten, dass
+
+409
+00:18:05,600 --> 00:18:08,140
+dazwischen der Grenzwert bei minus 0
+
+410
+00:18:08,140 --> 00:18:10,240
+,5 liegt. Das ist eine Möglichkeit,
+
+411
+00:18:10,420 --> 00:18:14,180
+dass man das vermutet. Aber in der
+
+412
+00:18:14,180 --> 00:18:16,600
+Mathematik ist das halt immer
+
+413
+00:18:16,600 --> 00:18:18,100
+schwierig, wenn man Sachen nur
+
+414
+00:18:18,100 --> 00:18:20,560
+vermutet. Daher wollen wir es
+
+415
+00:18:20,560 --> 00:18:23,920
+natürlich auch berechnen können. Und
+
+416
+00:18:23,920 --> 00:18:25,680
+dafür gibt es diese zweite
+
+417
+00:18:25,680 --> 00:18:29,760
+Möglichkeit. Das Problem an dieser
+
+418
+00:18:29,760 --> 00:18:31,900
+zweiten Möglichkeit ist, dass es doch
+
+419
+00:18:31,900 --> 00:18:33,760
+eine recht trickreiche Rechnung ist,
+
+420
+00:18:33,860 --> 00:18:37,960
+weil wir versuchen das erstmal zu
+
+421
+00:18:37,960 --> 00:18:40,300
+faktorisieren alles. Du siehst hier,
+
+422
+00:18:40,400 --> 00:18:43,880
+wir haben das jetzt in zwei Klammern
+
+423
+00:18:43,880 --> 00:18:44,460
+geschrieben, die miteinander
+
+424
+00:18:44,460 --> 00:18:48,380
+multipliziert werden und du siehst
+
+425
+00:18:48,380 --> 00:18:49,780
+denke ich auch, wir haben hier
+
+426
+00:18:49,780 --> 00:18:51,200
+zweimal die gleichen. Wir haben im
+
+427
+00:18:51,200 --> 00:18:53,020
+Zähler sowie im Nenner eine x plus 1
+
+428
+00:18:53,020 --> 00:18:55,220
+zum Quadrat. Das heißt, die können
+
+429
+00:18:55,220 --> 00:18:58,820
+wir dann rauskürzen. Und dann bleibt
+
+430
+00:18:58,820 --> 00:19:02,960
+nur noch übrig x plus 1 durch x minus
+
+431
+00:19:02,960 --> 00:19:03,380
+2.
+
+432
+00:19:06,830 --> 00:19:08,090
+Beziehungsweise es muss genau
+
+433
+00:19:08,090 --> 00:19:09,330
+andersrum heißen, es ist ein Fehler.
+
+434
+00:19:10,790 --> 00:19:15,810
+Das heißt x plus 2 durch x minus 1.
+
+435
+00:19:16,150 --> 00:19:19,970
+Und dort setzen wir jetzt die minus 1
+
+436
+00:19:19,970 --> 00:19:23,570
+ein. Dann steht da minus 1 plus 2,
+
+437
+00:19:23,750 --> 00:19:29,470
+das ist die 1. und minus 1 minus 1
+
+438
+00:19:29,470 --> 00:19:32,190
+system minus 2 und so kommen wir auf
+
+439
+00:19:32,190 --> 00:19:35,670
+minus 0,5 damit haben wir jetzt den
+
+440
+00:19:35,670 --> 00:19:38,470
+grenzwert wirklich berechnet das
+
+441
+00:19:38,470 --> 00:19:40,170
+problem an diesem verfahren ist nur
+
+442
+00:19:40,170 --> 00:19:43,370
+von dieser gleichung hierhin zu
+
+443
+00:19:43,370 --> 00:19:46,030
+kommen also das einfachste oder das
+
+444
+00:19:46,030 --> 00:19:47,530
+einzige womit das wirklich geht ist
+
+445
+00:19:47,530 --> 00:19:49,030
+du müsstest alle nullstellen
+
+446
+00:19:49,030 --> 00:19:50,430
+ausrechnen und das dann faktorisiert
+
+447
+00:19:50,430 --> 00:19:52,970
+aufschreiben. Das dauert sehr lange
+
+448
+00:19:52,970 --> 00:19:56,910
+und ist doch recht umständlich. Daher
+
+449
+00:19:56,910 --> 00:19:59,250
+gibt es eine ganz tolle Regel von
+
+450
+00:19:59,250 --> 00:20:02,210
+Dell Hospital, mit der man das
+
+451
+00:20:02,210 --> 00:20:05,490
+deutlich einfacher kann. Und zwar,
+
+452
+00:20:05,570 --> 00:20:06,990
+das ist die dritte Möglichkeit, das
+
+453
+00:20:06,990 --> 00:20:10,310
+zu lösen. Und zwar, wir haben ja eine
+
+454
+00:20:10,310 --> 00:20:11,890
+Zählerfunktion f von x und eine
+
+455
+00:20:11,890 --> 00:20:16,970
+Nennerfunktion g von x. Und wir haben
+
+456
+00:20:16,970 --> 00:20:19,730
+leider die Form, dass wir, wenn wir
+
+457
+00:20:19,730 --> 00:20:22,910
+jetzt unseren Wert x gleich minus 1
+
+458
+00:20:22,910 --> 00:20:24,970
+in die Nennerfunktion einsetzen, dass
+
+459
+00:20:24,970 --> 00:20:29,450
+wir eine 0 bekommen. Und wir gehen
+
+460
+00:20:29,450 --> 00:20:33,010
+jetzt ganz einfach hin. Leiten Zähler
+
+461
+00:20:33,010 --> 00:20:35,090
+und Nenner einmal ab. Wir leiten aber
+
+462
+00:20:35,090 --> 00:20:37,110
+wirklich die Zählerfunktion für sich
+
+463
+00:20:37,110 --> 00:20:38,590
+und die Nennerfunktion für sich
+
+464
+00:20:38,590 --> 00:20:40,210
+einmal ab. Also wir nutzen... jetzt
+
+465
+00:20:40,210 --> 00:20:41,530
+im Folgenden nicht die
+
+466
+00:20:41,530 --> 00:20:43,730
+Quotientenregel. Hier ist nochmal der
+
+467
+00:20:43,730 --> 00:20:47,250
+Beweis. Wenn wir die Minus 1
+
+468
+00:20:47,250 --> 00:20:48,670
+ersetzen, haben wir im Zähler und im
+
+469
+00:20:48,670 --> 00:20:53,090
+Nenner eine 0. Daher können wir die
+
+470
+00:20:53,090 --> 00:20:55,570
+Regel anwenden und die erste
+
+471
+00:20:55,570 --> 00:20:58,470
+Ableitung bilden. Das heißt, hier
+
+472
+00:20:58,470 --> 00:21:00,590
+wurde die erste Ableitung hiervon
+
+473
+00:21:00,590 --> 00:21:02,870
+gebildet. Also im Zähler wurde
+
+474
+00:21:02,870 --> 00:21:06,990
+abgeleitet x hoch 3 plus 4x² plus 5x
+
+475
+00:21:06,990 --> 00:21:09,930
+plus 2, das ist ist dann 3x² plus 8x
+
+476
+00:21:09,930 --> 00:21:12,870
+plus 5 und der Nenner wurde auch
+
+477
+00:21:12,870 --> 00:21:16,370
+abgeleitet, x³ plus x² minus x minus
+
+478
+00:21:16,370 --> 00:21:20,990
+1, ergibt dann 3x² plus 2x minus 1.
+
+479
+00:21:22,500 --> 00:21:24,530
+Und dort würde man es dann wieder
+
+480
+00:21:24,530 --> 00:21:26,250
+einsetzen und man würde leider wieder
+
+481
+00:21:26,250 --> 00:21:28,310
+feststellen, dass zweimal eine 0
+
+482
+00:21:28,310 --> 00:21:30,570
+rauskommt, das heißt man leitet
+
+483
+00:21:30,570 --> 00:21:32,270
+Zähler und Nenner ein weiteres Mal
+
+484
+00:21:32,270 --> 00:21:36,530
+ab. Also wir leiten 3x² plus 8x plus
+
+485
+00:21:36,530 --> 00:21:40,050
+5 ab. und erhalten so 6x plus 8 und
+
+486
+00:21:40,050 --> 00:21:43,490
+3x² plus 2x minus 1 leiten wir auch
+
+487
+00:21:43,490 --> 00:21:46,830
+ab und erhalten so 6x plus 2. Jetzt
+
+488
+00:21:46,830 --> 00:21:48,730
+setzen wir wieder unsere minus 1 ein
+
+489
+00:21:48,730 --> 00:21:52,150
+und wir stellen fest, dass diesmal
+
+490
+00:21:52,150 --> 00:21:54,470
+auch minus 1 halb rauskommt. Und
+
+491
+00:21:54,470 --> 00:21:55,870
+damit haben wir auch hier den
+
+492
+00:21:55,870 --> 00:21:56,930
+Grenzwert bestimmt.
+
+493
+00:21:59,810 --> 00:22:01,870
+Wir wären dann jetzt am Ende des
+
+494
+00:22:01,870 --> 00:22:03,290
+Webinars. Wir haben noch ein paar
+
+495
+00:22:03,290 --> 00:22:04,710
+Minuten Zeit, um Fragen zu
+
+496
+00:22:04,710 --> 00:22:05,810
+beantworten. Das heißt, wenn du
+
+497
+00:22:05,810 --> 00:22:07,050
+Fragen hast, kannst du gerne noch
+
+498
+00:22:07,050 --> 00:22:09,830
+Fragen stellen. Ich bedanke mich aber
+
+499
+00:22:09,830 --> 00:22:11,450
+schon mal recht herzlich für deine
+
+500
+00:22:11,450 --> 00:22:14,210
+Aufmerksamkeit. Und sofern du keine
+
+501
+00:22:14,210 --> 00:22:15,530
+Fragen mehr hast, sind wir wie gesagt
+
+502
+00:22:15,530 --> 00:22:17,690
+fertig. Ich würde dir noch einen
+
+503
+00:22:17,690 --> 00:22:19,510
+schönen Abend wünschen und du
+
+504
+00:22:19,510 --> 00:22:21,110
+könntest den Raum verlassen. Ich
+
+505
+00:22:21,110 --> 00:22:22,110
+bleibe aber noch ein bisschen im
+
+506
+00:22:22,110 --> 00:22:24,190
+Raum, falls du noch eine Frage
+
+507
+00:22:24,190 --> 00:22:24,910
+stellen möchtest.
+
+508
+00:23:00,840 --> 00:23:01,640
+Danke dir auch.
+

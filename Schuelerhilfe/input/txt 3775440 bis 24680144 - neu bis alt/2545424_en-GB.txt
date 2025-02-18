@@ -1,0 +1,2824 @@
+﻿1
+00:00:00,780 --> 00:00:02,600
+Welcome to the webinar 
+
+2
+00:00:02,600 --> 00:00:06,100
+Matrices in Linear Algebra. We will 
+
+3
+00:00:06,100 --> 00:00:07,500
+
+4
+00:00:07,500 --> 00:00:09,740
+deal with matrices in this webinar . 
+First, 
+
+5
+00:00:09,740 --> 00:00:10,720
+however, we will take a brief look 
+
+6
+00:00:10,720 --> 00:00:12,380
+at the Gaussian process, 
+
+7
+00:00:12,480 --> 00:00:14,680
+because this is also or can also be 
+
+8
+00:00:14,680 --> 00:00:16,080
+used in connection with matrices 
+
+9
+00:00:16,080 --> 00:00:17,980
+. We will then look at the 
+
+10
+00:00:17,980 --> 00:00:19,680
+exchange processes, the 
+
+11
+00:00:19,680 --> 00:00:21,780
+development processes and finally 
+
+12
+00:00:21,780 --> 00:00:23,780
+the production processes, i.e. a 
+
+13
+00:00:23,780 --> 00:00:27,980
+requirements matrix. The Gaussian process. 
+
+14
+00:00:28,640 --> 00:00:30,440
+With the Gaussian process, you 
+
+15
+00:00:30,440 --> 00:00:32,380
+always try to 
+
+16
+00:00:32,380 --> 00:00:37,200
+create this diagonal at the end. In other 
+words, you 
+
+17
+00:00:37,200 --> 00:00:39,240
+always want the equations 
+
+18
+00:00:39,240 --> 00:00:40,980
+to have one less variable. In other words, 
+we see that 
+
+19
+00:00:41,060 --> 00:00:43,000
+the first equation here has x, y and 
+
+20
+00:00:43,000 --> 00:00:45,440
+z, the second only has y and z and 
+
+21
+00:00:45,440 --> 00:00:47,260
+the third only has one z. This is 
+
+22
+00:00:47,260 --> 00:00:50,760
+the diagonal mentioned above. 
+
+23
+00:00:50,760 --> 00:00:52,480
+But before we can calculate it like this, 
+we 
+
+24
+00:00:52,480 --> 00:00:53,980
+first have to convert our equation... 
+
+25
+00:00:54,000 --> 00:00:55,240
+system into the form of a matrix 
+
+26
+00:00:55,240 --> 00:00:57,360
+. This vertical line 
+
+27
+00:00:57,360 --> 00:00:58,840
+here can be imagined 
+
+28
+00:00:58,840 --> 00:01:00,180
+as standing in place of the equal sign. 
+
+29
+00:01:00,440 --> 00:01:02,740
+The matrix given here 
+
+30
+00:01:02,740 --> 00:01:05,160
+can be read as follows. It means 1 times x 
+
+31
+00:01:05,160 --> 00:01:07,840
+plus 2 times y plus 3 times z is equal to 
+
+32
+00:01:07,840 --> 00:01:12,460
+2. 1 times x plus 1 times y plus 1 times z 
+
+33
+00:01:12,460 --> 00:01:16,080
+is equal to 2. 3 times x plus 3 times y 
+
+34
+00:01:16,080 --> 00:01:20,500
+plus 1 times z is equal to 0. And 
+
+35
+00:01:20,500 --> 00:01:24,160
+we reshape this matrix so that 
+
+36
+00:01:24,160 --> 00:01:25,580
+we get this diagonal. 
+
+37
+00:01:25,580 --> 00:01:27,820
+In other words, we draw the diagonal. 
+
+38
+00:01:27,820 --> 00:01:30,020
+There are still numbers on the right-hand 
+side, but 
+
+39
+00:01:30,180 --> 00:01:31,340
+nothing on the left-hand side 
+
+40
+00:01:31,340 --> 00:01:33,660
+. This is how it should be understood. The 
+
+41
+00:01:33,660 --> 00:01:34,920
+transformation to 
+
+42
+00:01:34,920 --> 00:01:36,920
+get from here to here is done by adding 
+and 
+
+43
+00:01:36,920 --> 00:01:38,060
+subtracting the rows 
+
+44
+00:01:39,060 --> 00:01:40,120
+, or 
+
+45
+00:01:40,120 --> 00:01:41,800
+multiplying by a factor of a 
+
+46
+00:01:41,800 --> 00:01:44,180
+row or an equation, so that 
+
+47
+00:01:44,180 --> 00:01:45,500
+
+48
+00:01:45,500 --> 00:01:46,660
+something is deleted when adding and 
+subtracting . So this is the 
+
+49
+00:01:46,660 --> 00:01:47,800
+normal Gaussian method, as you can 
+
+50
+00:01:47,800 --> 00:01:49,900
+see below. And the Gauss 
+
+51
+00:01:49,900 --> 00:01:51,200
+ method is based on the 
+
+52
+00:01:51,200 --> 00:01:55,080
+addition method. And if we 
+
+53
+00:01:55,080 --> 00:01:56,300
+have this here, we have 
+
+54
+00:01:56,300 --> 00:01:57,540
+achieved our goal. We now know 
+
+55
+00:01:57,740 --> 00:01:59,340
+that 
+
+56
+00:01:59,340 --> 00:02:02,280
+1x plus 2y plus 3z equals 
+
+57
+00:02:02,280 --> 00:02:07,540
+2, minus y minus 2z equals 0 and 
+
+58
+00:02:07,540 --> 00:02:10,400
+minus 2z equals 6. So this is exactly what 
+
+59
+00:02:10,400 --> 00:02:13,300
+we have here. And that's almost the 
+
+60
+00:02:13,300 --> 00:02:15,000
+solution, because we can now look at 
+
+61
+00:02:15,000 --> 00:02:16,940
+the... equation minus 2 z 
+
+62
+00:02:16,940 --> 00:02:19,240
+is equal to 6 and we can 
+
+63
+00:02:19,240 --> 00:02:21,260
+divide by minus 2 and calculate our z, 
+which 
+
+64
+00:02:21,260 --> 00:02:23,800
+in this case would be minus 3. If we 
+
+65
+00:02:23,800 --> 00:02:25,340
+know the z, we can insert it into 
+
+66
+00:02:25,340 --> 00:02:27,020
+the equation above, i.e. 
+
+67
+00:02:27,020 --> 00:02:29,200
+here for the z and we get an 
+
+68
+00:02:29,200 --> 00:02:31,200
+equation that 
+
+69
+00:02:31,200 --> 00:02:33,500
+is only dependent on y . Then we determine 
+
+70
+00:02:33,500 --> 00:02:36,020
+our y here in the second equation 
+
+71
+00:02:36,020 --> 00:02:37,640
+. Once we have determined this, we know y 
+
+72
+00:02:37,640 --> 00:02:40,560
+and z. 
+
+73
+00:02:40,560 --> 00:02:42,180
+We then insert these two variables into 
+the top equation 
+
+74
+00:02:42,180 --> 00:02:43,920
+for y and for z and then we get 
+
+75
+00:02:43,920 --> 00:02:45,420
+another equation that only 
+
+76
+00:02:45,420 --> 00:02:47,160
+has one unknown. In this case, this is 
+
+77
+00:02:47,160 --> 00:02:49,820
+x. We can then 
+
+78
+00:02:49,820 --> 00:02:51,620
+rearrange this equation according to x and 
+thus 
+
+79
+00:02:51,620 --> 00:02:53,400
+
+80
+00:02:53,400 --> 00:02:56,840
+calculate the third missing variable. And 
+this is how the 
+
+81
+00:02:56,840 --> 00:02:58,000
+Gaussian method works. So it is 
+
+82
+00:02:58,660 --> 00:02:59,700
+actually just a different 
+
+83
+00:02:59,700 --> 00:03:02,220
+form of representation for the matrices 
+
+84
+00:03:02,220 --> 00:03:03,560
+than we are familiar with. 
+
+85
+00:03:06,450 --> 00:03:07,970
+This brings us to 
+
+86
+00:03:07,970 --> 00:03:11,190
+the exchange processes. In 
+
+87
+00:03:11,190 --> 00:03:12,730
+exchange processes, the first thing that 
+is 
+
+88
+00:03:12,730 --> 00:03:14,150
+always given is a diagram 
+
+89
+00:03:14,150 --> 00:03:17,870
+like this or often a diagram like this. 
+
+90
+00:03:17,870 --> 00:03:19,210
+Exchange processes often 
+
+91
+00:03:19,210 --> 00:03:20,830
+
+92
+00:03:20,830 --> 00:03:22,410
+
+93
+00:03:22,410 --> 00:03:24,810
+use situations such as telephone 
+providers, supermarket chains or parties , 
+i.e. something where groups 
+
+94
+00:03:24,810 --> 00:03:27,850
+change. Buying behavior is 
+
+95
+00:03:27,850 --> 00:03:29,830
+often simulated with this or 
+
+96
+00:03:29,830 --> 00:03:32,730
+other things. In this case, you have 
+
+97
+00:03:32,730 --> 00:03:34,970
+three parties, A, B and C. and let' 
+
+98
+00:03:34,970 --> 00:03:36,650
+s just say that some customers 
+
+99
+00:03:36,650 --> 00:03:38,510
+switch between the parties or 
+
+100
+00:03:38,510 --> 00:03:41,410
+stay with them. this case here 
+
+101
+00:03:41,410 --> 00:03:43,970
+from c to a with the 0.1 means 
+
+102
+00:03:43,970 --> 00:03:47,250
+that after one time cycle, ten 
+
+103
+00:03:47,250 --> 00:03:49,630
+percent have switched from c to a 
+
+104
+00:03:49,630 --> 00:03:53,710
+. at the same time, 30 percent switch 
+
+105
+00:03:53,710 --> 00:03:58,150
+from a to c. this case here, which 
+
+106
+00:03:58,150 --> 00:04:00,130
+starts from a and ends in a again, is 
+
+107
+00:04:00,130 --> 00:04:01,830
+the proportion of customers who 
+
+108
+00:04:01,830 --> 00:04:04,730
+stay with a. in other words, 30% stay 
+
+109
+00:04:04,730 --> 00:04:09,550
+with A. The sum of the arrows that 
+
+110
+00:04:09,550 --> 00:04:15,970
+move away from a party is always 100% 
+
+111
+00:04:15,970 --> 00:04:20,270
+or 1. So 0.3 plus 0.3 plus 0.4 
+
+112
+00:04:20,270 --> 00:04:22,830
+is 1. This is simply the principle 
+
+113
+00:04:22,950 --> 00:04:24,430
+that nothing is lost in the 
+
+114
+00:04:24,430 --> 00:04:27,050
+system. You can also see this later in 
+
+115
+00:04:27,050 --> 00:04:30,350
+the matrix. This is also how it is 
+
+116
+00:04:30,350 --> 00:04:32,750
+to be understood here below. From C, 0 
+
+117
+00:04:32,750 --> 00:04:36,730
+.3, i.e. 30%, goes to B. From B, 50% go to 
+
+118
+00:04:36,730 --> 00:04:40,970
+A. 60% remain in C and 30% 
+
+119
+00:04:40,970 --> 00:04:44,910
+remain in B. And from this we can 
+
+120
+00:04:44,910 --> 00:04:49,590
+create a matrix. 
+
+121
+00:04:49,590 --> 00:04:51,450
+For the approach, it is best to first 
+
+122
+00:04:51,450 --> 00:04:53,830
+write our parties at the edge and above 
+
+123
+00:04:53,830 --> 00:04:56,510
+, i.e. ABC, ABC. 
+
+124
+00:04:56,510 --> 00:04:59,550
+This always results in a square matrix, 
+
+125
+00:04:59,670 --> 00:05:00,750
+because we can see here that the 
+individual 
+
+126
+00:05:00,750 --> 00:05:03,650
+parties determine the number of 
+
+127
+00:05:03,650 --> 00:05:05,270
+columns and the number of rows. 
+
+128
+00:05:05,350 --> 00:05:07,850
+Consequently, the matrix must 
+
+129
+00:05:07,850 --> 00:05:10,150
+be square. And I just 
+
+130
+00:05:10,150 --> 00:05:13,250
+said that the number 
+
+131
+00:05:13,250 --> 00:05:18,690
+of customers in the system is constant. So 
+
+132
+00:05:18,690 --> 00:05:20,150
+this here, nothing is lost. 
+
+133
+00:05:20,610 --> 00:05:22,750
+This is also shown by the fact that the 
+
+134
+00:05:22,750 --> 00:05:25,450
+sum of the columns is 1. 0.3 plus 0.4 plus 
+
+135
+00:05:25,450 --> 00:05:29,430
+0.3 is 1. 0.2 plus 0.3 plus 0.5 is 
+
+136
+00:05:29,430 --> 00:05:32,870
+also 1. 0.1 plus 0.3 plus 0.6 is 
+
+137
+00:05:32,870 --> 00:05:35,270
+also 1. This is proof 
+
+138
+00:05:35,410 --> 00:05:39,930
+that nothing is lost. And if 
+
+139
+00:05:39,930 --> 00:05:41,370
+a question like this comes up, prove 
+
+140
+00:05:41,470 --> 00:05:43,990
+that nothing is lost, then 
+
+141
+00:05:43,990 --> 00:05:44,890
+that is already the solution, that you 
+
+142
+00:05:44,890 --> 00:05:46,070
+simply always have to prove that 
+
+143
+00:05:46,070 --> 00:05:49,050
+the sum of the columns is 1. 
+
+144
+00:05:49,050 --> 00:05:50,150
+
+145
+00:05:50,150 --> 00:05:51,330
+As I said, the matrix has now simply been 
+displayed. This is the 
+
+146
+00:05:51,330 --> 00:05:53,710
+element here that describes how 
+
+147
+00:05:53,710 --> 00:05:55,850
+many customers move from A to A. 
+
+148
+00:05:56,010 --> 00:05:58,410
+This is the arrow that starts 
+
+149
+00:05:58,410 --> 00:06:01,670
+and ends in A , i.e. 0.3. From A to B is 
+
+150
+00:06:01,670 --> 00:06:05,110
+0.4. From A to C is 0.3. 
+
+151
+00:06:05,230 --> 00:06:06,490
+So we just write the 
+
+152
+00:06:06,490 --> 00:06:08,470
+value of the arrows here. 
+
+153
+00:06:08,470 --> 00:06:09,670
+Please make sure that you always 
+
+154
+00:06:09,670 --> 00:06:11,930
+enter decimal numbers here. So the 
+
+155
+00:06:11,930 --> 00:06:14,590
+numbers for exchange processes are 
+
+156
+00:06:14,590 --> 00:06:15,930
+always less than or equal to 1. 
+
+157
+00:06:18,690 --> 00:06:22,170
+From B to A is 0.2, which is 
+
+158
+00:06:22,170 --> 00:06:26,090
+simply the arrow here. From B to B 
+
+159
+00:06:26,090 --> 00:06:29,230
+0.3 is the arrow and from B to C 0 
+
+160
+00:06:29,230 --> 00:06:32,590
+.5 is the arrow. 
+
+161
+00:06:32,590 --> 00:06:34,750
+It works the same way with C. From C to A 
+0 
+
+162
+00:06:34,750 --> 00:06:37,550
+.1 is the arrow. From C to B 0 
+
+163
+00:06:37,550 --> 00:06:40,270
+.3. This is the 
+
+164
+00:06:40,270 --> 00:06:42,630
+arrow marked  orange here. And from C to 
+
+165
+00:06:42,630 --> 00:06:46,250
+C 0.6. This is the one here. This is how 
+
+166
+00:06:46,250 --> 00:06:47,990
+you determine the matrix and the matrix 
+
+167
+00:06:47,990 --> 00:06:52,150
+now describes how the number 
+
+168
+00:06:52,150 --> 00:06:56,910
+of customers for the individual parties 
+
+169
+00:06:56,910 --> 00:06:59,310
+A, B and C 
+
+170
+00:06:59,310 --> 00:07:03,250
+changes after one round. This means that 
+we 
+
+171
+00:07:03,250 --> 00:07:06,630
+first need an initial distribution. This 
+
+172
+00:07:06,630 --> 00:07:10,330
+is always given and the 
+
+173
+00:07:10,330 --> 00:07:14,270
+distribution is always a vector. 250, 
+
+174
+00:07:14,650 --> 00:07:17,390
+300, i.e. at time 0 or 
+
+175
+00:07:17,390 --> 00:07:20,570
+at the start of the observation, 200 were 
+with 
+
+176
+00:07:20,570 --> 00:07:22,910
+party A, 250 with party B 
+
+177
+00:07:22,910 --> 00:07:27,150
+and 300 with party C. And if 
+
+178
+00:07:27,150 --> 00:07:29,830
+we now 
+
+179
+00:07:29,830 --> 00:07:31,330
+want to calculate the development after a 
+time cycle, 
+
+180
+00:07:31,490 --> 00:07:34,590
+we simply multiply the matrix 
+
+181
+00:07:34,590 --> 00:07:37,350
+by the vector. As already mentioned, X0 
+
+182
+00:07:37,350 --> 00:07:39,090
+is our initial distribution and we 
+
+183
+00:07:39,090 --> 00:07:40,350
+obtain the distribution after one 
+
+184
+00:07:40,350 --> 00:07:42,190
+time run X1 
+
+185
+00:07:42,190 --> 00:07:44,050
+
+186
+00:07:44,050 --> 00:07:45,490
+by multiplying the matrix by the vector . 
+Very important, you 
+
+187
+00:07:45,490 --> 00:07:47,250
+must always multiply the matrix by the 
+vector 
+
+188
+00:07:47,250 --> 00:07:49,850
+. The other way round, vector times 
+matrix, 
+
+189
+00:07:49,850 --> 00:07:52,230
+does not work. This is simply based 
+
+190
+00:07:52,230 --> 00:07:55,010
+on the fact that a matrix is 
+
+191
+00:07:55,010 --> 00:07:57,310
+multiplied by rows times columns. 
+
+192
+00:07:57,310 --> 00:07:59,890
+This means that the matrix needs just as 
+
+193
+00:07:59,890 --> 00:08:02,330
+many columns as the vector needs rows 
+
+194
+00:08:02,330 --> 00:08:04,510
+and if you 
+
+195
+00:08:04,510 --> 00:08:05,590
+swap the vector and matrix , it will 
+
+196
+00:08:05,590 --> 00:08:07,230
+no longer work. That's why it's very 
+important to 
+
+197
+00:08:07,410 --> 00:08:10,850
+multiply the matrix by the vector. This 
+means that 
+
+198
+00:08:10,930 --> 00:08:13,030
+if you 
+
+199
+00:08:13,030 --> 00:08:14,950
+multiply your matrix by the vector , you 
+get the 
+
+200
+00:08:14,950 --> 00:08:18,070
+vector for a time jump afterwards. 
+
+201
+00:08:18,310 --> 00:08:20,250
+In other words, if we use the 
+
+202
+00:08:20,250 --> 00:08:21,470
+initial distribution as the vector , 
+
+203
+00:08:21,610 --> 00:08:22,790
+we get the distribution after 
+
+204
+00:08:22,790 --> 00:08:25,910
+one pass. 
+
+205
+00:08:25,910 --> 00:08:28,030
+For example, if we , so this xn is 
+
+206
+00:08:28,030 --> 00:08:31,430
+simply a vector that 
+
+207
+00:08:31,430 --> 00:08:33,630
+
+208
+00:08:33,630 --> 00:08:35,770
+simulates the stock or distribution at any 
+point in time. If 
+
+209
+00:08:35,770 --> 00:08:37,690
+we 
+
+210
+00:08:37,690 --> 00:08:39,250
+multiply the matrix by this vector , we 
+simply get 
+
+211
+00:08:39,250 --> 00:08:41,550
+the initial distribution for a 
+
+212
+00:08:41,550 --> 00:08:43,230
+time jump afterwards. This means that if 
+
+213
+00:08:43,230 --> 00:08:45,190
+this 
+
+214
+00:08:45,190 --> 00:08:47,450
+were the distribution after 5 passes, we 
+would have the 
+
+215
+00:08:47,450 --> 00:08:49,410
+distribution after 6 passes. So 
+
+216
+00:08:49,410 --> 00:08:50,910
+the time jump always goes one step further 
+
+217
+00:08:50,910 --> 00:08:54,210
+. There are often 
+
+218
+00:08:54,210 --> 00:08:55,850
+tasks that directly ask you to 
+
+219
+00:08:55,970 --> 00:08:57,270
+calculate the distribution after 5 
+
+220
+00:08:57,270 --> 00:09:01,690
+years. Of course, you could 
+
+221
+00:09:01,690 --> 00:09:02,690
+calculate this according to this 
+principle. 
+
+222
+00:09:02,690 --> 00:09:03,990
+First you calculate the distribution after 
+
+223
+00:09:03,990 --> 00:09:07,150
+one round, then after two, that 
+
+224
+00:09:07,150 --> 00:09:08,510
+would be the equation, then after 
+
+225
+00:09:08,510 --> 00:09:10,210
+three, then after four and then after 
+
+226
+00:09:10,210 --> 00:09:12,430
+five. The problem is, that would be five 
+
+227
+00:09:12,430 --> 00:09:13,330
+calculations and that is quite 
+
+228
+00:09:13,330 --> 00:09:15,430
+time-consuming. That's why there's also 
+the option of 
+
+229
+00:09:15,430 --> 00:09:18,810
+
+230
+00:09:18,810 --> 00:09:21,390
+
+231
+00:09:21,390 --> 00:09:22,950
+making several time jumps when you 
+exponentiate the matrix. This means 
+
+232
+00:09:23,150 --> 00:09:27,050
+that if you 
+
+233
+00:09:27,050 --> 00:09:30,910
+were to calculate m to the power of t 
+times x0 , you would have the distribution 
+
+234
+00:09:30,910 --> 00:09:34,390
+after t years. You then 
+
+235
+00:09:34,390 --> 00:09:36,330
+
+236
+00:09:36,330 --> 00:09:39,110
+continue by the exponent in time jumps. 
+This means that 
+
+237
+00:09:39,370 --> 00:09:41,750
+if you had m to the power of 5 and you 
+
+238
+00:09:41,750 --> 00:09:44,030
+multiplied this by x0, you would 
+
+239
+00:09:44,030 --> 00:09:45,630
+immediately 
+
+240
+00:09:45,630 --> 00:09:48,630
+get the distribution after 5 years. Or to 
+put it another way, m to the power of t 
+
+241
+00:09:48,630 --> 00:09:50,990
+times xn, i.e. the distribution after n 
+
+242
+00:09:50,990 --> 00:09:52,870
+years, is equal to the distribution 
+
+243
+00:09:52,870 --> 00:09:55,790
+after n years plus t, i.e. plus the 
+
+244
+00:09:55,790 --> 00:09:57,390
+power. This means that if this is the 
+
+245
+00:09:57,390 --> 00:09:59,550
+distribution after 3 years and we 
+
+246
+00:09:59,550 --> 00:10:01,130
+take the matrix to the power of 5 times 
+the 
+
+247
+00:10:01,130 --> 00:10:02,450
+distribution after 3 years, then it is 
+
+248
+00:10:02,450 --> 00:10:04,190
+the distribution after 3 plus 5, i.e. 
+
+249
+00:10:04,190 --> 00:10:05,310
+after 8 years. 
+
+250
+00:10:08,090 --> 00:10:10,470
+And this is how you calculate the 
+
+251
+00:10:10,470 --> 00:10:13,530
+different 
+
+252
+00:10:13,530 --> 00:10:14,870
+distributions at different times. 
+
+253
+00:10:14,890 --> 00:10:18,270
+points in time. Of course, it is also 
+
+254
+00:10:18,270 --> 00:10:20,910
+possible to 
+
+255
+00:10:20,910 --> 00:10:23,490
+calculate a distribution before the start 
+of observation. This is 
+
+256
+00:10:23,490 --> 00:10:25,810
+done by 
+
+257
+00:10:25,810 --> 00:10:27,550
+taking the matrix to the power of minus 1, 
+i.e. m to the power of minus 1 
+
+258
+00:10:27,550 --> 00:10:30,050
+times xn, which is xn minus 1 
+
+259
+00:10:30,050 --> 00:10:31,950
+. 
+
+260
+00:10:31,950 --> 00:10:32,890
+Of course, you can now also 
+
+261
+00:10:32,890 --> 00:10:34,110
+
+262
+00:10:34,110 --> 00:10:35,950
+use a power minus 5 instead of a power 
+minus 1 , then it is the distribution 
+
+263
+00:10:35,950 --> 00:10:43,340
+five years ago yes, that's how it works 
+this 
+
+264
+00:10:43,340 --> 00:10:46,380
+matrix m power minus 1 is the inverse 
+
+265
+00:10:46,380 --> 00:10:49,100
+matrix this is very difficult 
+
+266
+00:10:49,100 --> 00:10:51,680
+to calculate manually, so 
+
+267
+00:10:51,680 --> 00:10:52,680
+it is usually 
+
+268
+00:10:52,680 --> 00:10:57,140
+calculated with the calculator and 
+
+269
+00:10:57,140 --> 00:10:59,540
+we have already 
+
+270
+00:10:59,540 --> 00:11:02,480
+worked through this slide a very important 
+point 
+
+271
+00:11:02,480 --> 00:11:04,080
+is the equilibrium distribution 
+
+272
+00:11:04,080 --> 00:11:06,860
+if the buying behavior does not 
+
+273
+00:11:06,860 --> 00:11:09,340
+change, 
+
+274
+00:11:09,340 --> 00:11:11,940
+a constant 
+
+275
+00:11:11,940 --> 00:11:12,940
+distribution often occurs after many time 
+jumps , i.e. an 
+
+276
+00:11:12,940 --> 00:11:13,980
+equilibrium distribution. This 
+
+277
+00:11:13,980 --> 00:11:16,080
+means that the number of customers 
+
+278
+00:11:16,080 --> 00:11:18,680
+for the individual parties 
+
+279
+00:11:18,680 --> 00:11:21,880
+is constant . And the condition for this 
+is 
+
+280
+00:11:21,880 --> 00:11:23,860
+simply that m times x equals x 
+
+281
+00:11:23,860 --> 00:11:24,700
+. This means that the 
+
+282
+00:11:24,700 --> 00:11:26,020
+distribution vector no longer changes 
+
+283
+00:11:26,020 --> 00:11:29,040
+. That's all we're saying here. We 
+
+284
+00:11:29,040 --> 00:11:31,140
+multiply our matrix by the 
+
+285
+00:11:31,140 --> 00:11:32,380
+vector and get the 
+
+286
+00:11:32,380 --> 00:11:36,100
+vector again. And that is the 
+
+287
+00:11:36,100 --> 00:11:38,420
+necessary condition, so to speak, or 
+
+288
+00:11:38,420 --> 00:11:41,200
+the approach we are pursuing. From 
+
+289
+00:11:41,200 --> 00:11:42,240
+this approach, we can do 
+
+290
+00:11:42,280 --> 00:11:44,140
+matrix times x-vector or our 
+
+291
+00:11:44,140 --> 00:11:45,460
+distribution vector is equal to the 
+
+292
+00:11:45,460 --> 00:11:46,860
+unit matrix times our 
+
+293
+00:11:46,860 --> 00:11:49,240
+distribution vector. The unit matrix 
+
+294
+00:11:49,240 --> 00:11:51,100
+simply has the property that 
+
+295
+00:11:51,100 --> 00:11:53,680
+when we 
+
+296
+00:11:53,680 --> 00:11:55,380
+
+297
+00:11:55,380 --> 00:11:57,700
+multiply a vector or matrix by the unit 
+matrix , nothing changes. 
+
+298
+00:11:57,880 --> 00:12:00,480
+It's as if we 
+
+299
+00:12:00,480 --> 00:12:03,080
+multiply a number by 1. times 1 is 5, 10 
+times 
+
+300
+00:12:03,080 --> 00:12:07,320
+1 is 10, 155 times 1 is 155. It's 
+
+301
+00:12:07,320 --> 00:12:09,040
+exactly the same principle and that's what 
+
+302
+00:12:09,040 --> 00:12:11,600
+we're doing here now, because we 
+
+303
+00:12:11,600 --> 00:12:15,000
+can rearrange it like this. 
+
+304
+00:12:15,460 --> 00:12:16,580
+You can see 
+
+305
+00:12:16,580 --> 00:12:17,940
+why we're doing this in the second step. 
+
+306
+00:12:17,940 --> 00:12:20,120
+We can now convert this 
+
+307
+00:12:20,120 --> 00:12:21,500
+to 0 by calculating 
+
+308
+00:12:21,500 --> 00:12:24,200
+minus e times the x vector. And 
+
+309
+00:12:24,200 --> 00:12:26,960
+here we are. And we multiply 
+
+310
+00:12:32,370 --> 00:12:34,710
+the unit matrix by the x-vector. 
+
+311
+00:12:35,810 --> 00:12:38,450
+and therefore we can 
+
+312
+00:12:38,450 --> 00:12:40,450
+
+313
+00:12:40,450 --> 00:12:42,770
+calculate n, our matrix, minus our unit 
+matrix times the x-vector and thus have 
+
+314
+00:12:42,770 --> 00:12:45,530
+a nice little equation. 
+
+315
+00:12:46,230 --> 00:12:47,730
+Of course, you can also 
+
+316
+00:12:47,730 --> 00:12:49,010
+follow the approach above, but that 
+
+317
+00:12:49,010 --> 00:12:50,510
+always takes a little longer. 
+
+318
+00:12:50,510 --> 00:12:52,450
+The result is the same, 
+
+319
+00:12:52,450 --> 00:12:53,870
+which is why this is usually 
+
+320
+00:12:53,870 --> 00:12:57,570
+used . In other words, this is the 
+
+321
+00:12:57,570 --> 00:13:01,210
+approach as described above. And 
+
+322
+00:13:01,210 --> 00:13:03,330
+we are now calculating for this matrix 
+
+323
+00:13:03,330 --> 00:13:05,750
+in here. M minus E follow 
+
+324
+00:13:05,750 --> 00:13:07,070
+this approach here and that is 
+
+325
+00:13:07,070 --> 00:13:11,990
+this. M minus E is simply, this 
+
+326
+00:13:11,990 --> 00:13:13,610
+is our matrix M, which we also 
+
+327
+00:13:13,610 --> 00:13:15,110
+saw on the previous slide, 
+
+328
+00:13:15,230 --> 00:13:16,610
+this is the unit matrix, the 
+
+329
+00:13:16,610 --> 00:13:17,950
+unit matrix is simply characterized by 
+
+330
+00:13:17,950 --> 00:13:19,510
+the fact that it 
+
+331
+00:13:19,510 --> 00:13:21,150
+only has ones on the diagonals and 
+otherwise 
+
+332
+00:13:21,150 --> 00:13:25,830
+only zeros. And now we can 
+
+333
+00:13:25,830 --> 00:13:29,010
+subtract that. Subtracting two 
+
+334
+00:13:29,010 --> 00:13:30,630
+matrices works like this, so 
+
+335
+00:13:30,630 --> 00:13:32,310
+first of all it is necessary that both 
+
+336
+00:13:32,310 --> 00:13:34,090
+matrices 
+
+337
+00:13:34,090 --> 00:13:36,130
+have the same number of rows and columns, 
+i.e. the same number of 
+
+338
+00:13:36,130 --> 00:13:39,370
+3x3 matrices 
+
+339
+00:13:39,370 --> 00:13:42,410
+, and now we can subtract them, 
+
+340
+00:13:42,410 --> 00:13:43,890
+i.e. we subtract the 
+
+341
+00:13:43,890 --> 00:13:46,470
+individual elements from each other, i.e. 
+0.3 
+
+342
+00:13:46,470 --> 00:13:52,690
+minus 1 0.2 minus 0 0.1 minus 0 0.4 
+
+343
+00:13:52,690 --> 00:13:59,070
+minus 0 0.3 minus 1 0.3 minus 0 0.3 
+
+344
+00:13:59,070 --> 00:14:03,050
+minus 0, 0.5 minus 0 and 0.6 minus 1. 
+
+345
+00:14:04,970 --> 00:14:08,350
+This gives us a matrix, or rather we 
+
+346
+00:14:08,350 --> 00:14:11,970
+get this matrix minus 0.7, 0 
+
+347
+00:14:11,970 --> 00:14:17,990
+.2, 0.1, 0.4, minus 0.7, 0.3, 0.3, 0 
+
+348
+00:14:17,990 --> 00:14:21,790
+.5, minus 0.5. And this is 
+
+349
+00:14:21,790 --> 00:14:23,370
+finally the matrix that is here 
+
+350
+00:14:23,370 --> 00:14:26,130
+and with this we can 
+
+351
+00:14:26,130 --> 00:14:28,450
+follow the approach. In other words, 
+
+352
+00:14:28,470 --> 00:14:31,330
+this matrix times our x-vector must 
+
+353
+00:14:31,330 --> 00:14:33,510
+equal 0, or we can solve the matrix 
+
+354
+00:14:33,510 --> 00:14:35,490
+using the Gauss 
+
+355
+00:14:35,490 --> 00:14:36,510
+ method, which we 
+
+356
+00:14:36,510 --> 00:14:41,000
+saw at the beginning. And that brings us 
+
+357
+00:14:41,000 --> 00:14:41,740
+to the 
+
+358
+00:14:41,740 --> 00:14:44,840
+development processes. 
+
+359
+00:14:44,840 --> 00:14:46,160
+The difference between development 
+
+360
+00:14:46,160 --> 00:14:48,240
+processes and exchange processes is that 
+
+361
+00:14:48,240 --> 00:14:52,860
+development processes are represented 
+
+362
+00:14:52,860 --> 00:14:54,020
+differently. 
+
+363
+00:14:54,020 --> 00:14:55,900
+There is often more of a straightforward 
+
+364
+00:14:55,900 --> 00:14:58,420
+process and 
+
+365
+00:14:58,420 --> 00:14:59,580
+there is no exchange between them . 
+
+366
+00:14:59,580 --> 00:15:00,640
+We can see that here, for example. You get 
+from 
+
+367
+00:15:00,640 --> 00:15:02,760
+A to B and from B to C, but you 
+
+368
+00:15:02,760 --> 00:15:04,140
+don't get back from B to A. 
+
+369
+00:15:05,880 --> 00:15:08,400
+It is also noticeable here that there 
+
+370
+00:15:08,400 --> 00:15:10,980
+is not only a percentage 
+
+371
+00:15:10,980 --> 00:15:13,260
+exchange, as before, i.e. 0.3, 
+
+372
+00:15:13,280 --> 00:15:16,780
+0.5, 0.3 and 0.2, but also an 
+
+373
+00:15:16,780 --> 00:15:20,400
+absolute increase. In other 
+
+374
+00:15:20,420 --> 00:15:22,520
+words, we see 200 here, which means 
+
+375
+00:15:22,520 --> 00:15:25,080
+that 200 can go from C to A again. So 
+
+376
+00:15:25,080 --> 00:15:27,060
+the classic example of this 
+
+377
+00:15:27,060 --> 00:15:28,180
+is cell populations or 
+
+378
+00:15:28,180 --> 00:15:30,040
+breeding animals. If you 
+
+379
+00:15:30,040 --> 00:15:31,940
+take the example of breeding animals, 
+these are 
+
+380
+00:15:31,940 --> 00:15:34,960
+a very small animals, b are then 
+
+381
+00:15:34,960 --> 00:15:36,620
+growing animals and c are 
+
+382
+00:15:36,620 --> 00:15:38,960
+adult animals. 
+
+383
+00:15:38,960 --> 00:15:40,420
+Of course, these can also 
+
+384
+00:15:40,420 --> 00:15:43,020
+produce young again and then something can 
+
+385
+00:15:43,020 --> 00:15:45,820
+go from c back to a. Of course, it's 
+
+386
+00:15:45,820 --> 00:15:47,080
+also understandable that you 
+
+387
+00:15:47,080 --> 00:15:48,640
+can't go back from b to a or 
+
+388
+00:15:48,640 --> 00:15:51,120
+from c to a because the animals can 
+
+389
+00:15:51,120 --> 00:15:53,080
+'t get any younger. The only 
+
+390
+00:15:53,080 --> 00:15:54,720
+thing that works is that they can produce 
+new 
+
+391
+00:15:54,720 --> 00:15:57,060
+young and then you can 
+
+392
+00:15:57,060 --> 00:15:58,280
+go back to A again. And that 
+
+393
+00:15:58,280 --> 00:15:59,280
+works via 
+
+394
+00:15:59,280 --> 00:16:01,540
+absolute growth. Such an absolute 
+
+395
+00:16:01,540 --> 00:16:02,780
+increase can of course also 
+
+396
+00:16:02,780 --> 00:16:04,780
+
+397
+00:16:04,780 --> 00:16:06,080
+be caused by external intervention. 
+Questions like this are popular 
+
+398
+00:16:06,080 --> 00:16:09,380
+in exams, where you 
+
+399
+00:16:09,380 --> 00:16:11,060
+try to change the process from the outside 
+in 
+
+400
+00:16:11,060 --> 00:16:13,740
+order 
+
+401
+00:16:13,740 --> 00:16:15,960
+to cause a certain event. This 
+
+402
+00:16:15,960 --> 00:16:17,400
+also works via an 
+
+403
+00:16:17,400 --> 00:16:20,320
+absolute increase. For example, a 
+
+404
+00:16:20,320 --> 00:16:22,640
+shepherd introduces 200 new young 
+
+405
+00:16:22,780 --> 00:16:24,400
+so that the 
+
+406
+00:16:24,400 --> 00:16:26,580
+population changes in his favor the 
+following year. 
+
+407
+00:16:29,340 --> 00:16:30,980
+The matrix of a 
+
+408
+00:16:30,980 --> 00:16:33,340
+development process is also a 
+
+409
+00:16:33,340 --> 00:16:35,920
+square matrix, because you 
+
+410
+00:16:35,920 --> 00:16:40,740
+also have the number of parties 
+
+411
+00:16:40,740 --> 00:16:42,000
+here, or the 
+
+412
+00:16:42,000 --> 00:16:44,800
+development points, specifies the 
+
+413
+00:16:44,800 --> 00:16:46,160
+number of rows or columns, 
+
+414
+00:16:46,220 --> 00:16:47,960
+i.e. it is inevitably 
+
+415
+00:16:47,960 --> 00:16:50,000
+a square matrix again if you 
+
+416
+00:16:50,060 --> 00:16:52,160
+
+417
+00:16:52,160 --> 00:16:54,740
+have A, B and C in the columns and also in 
+the rows. 
+
+418
+00:16:54,740 --> 00:16:56,740
+However, it is important that the 
+
+419
+00:16:56,740 --> 00:16:58,460
+sum of the columns is not equal to 1. This 
+
+420
+00:16:58,460 --> 00:17:00,260
+means that the herd can 
+
+421
+00:17:00,260 --> 00:17:03,480
+grow or shrink. 
+
+422
+00:17:03,480 --> 00:17:04,640
+It is also noticeable that there are many 
+
+423
+00:17:04,640 --> 00:17:06,280
+zeros. For example, there 
+
+424
+00:17:06,280 --> 00:17:11,020
+is nothing from B to A. This means that 
+the 
+
+425
+00:17:11,020 --> 00:17:13,380
+animals cannot return to the young 
+
+426
+00:17:13,380 --> 00:17:14,660
+and they 
+
+427
+00:17:14,660 --> 00:17:17,020
+cannot stay in B either. That's what 
+
+428
+00:17:17,020 --> 00:17:18,380
+these many zeros simply say. 
+
+429
+00:17:19,040 --> 00:17:21,000
+But this is also a logical 
+
+430
+00:17:21,000 --> 00:17:24,520
+conclusion, because the animals 
+
+431
+00:17:24,520 --> 00:17:25,380
+cannot 
+
+432
+00:17:25,380 --> 00:17:26,720
+get any younger and of course 
+
+433
+00:17:26,720 --> 00:17:27,800
+they also get older. This means that they 
+
+434
+00:17:27,800 --> 00:17:29,040
+cannot 
+
+435
+00:17:29,040 --> 00:17:31,260
+remain in their current status. So it goes 
+
+436
+00:17:31,260 --> 00:17:34,360
+on and on. The only thing is that they can 
+
+437
+00:17:34,360 --> 00:17:37,420
+remain as old animals. That's this 0 
+
+438
+00:17:37,420 --> 00:17:38,920
+.2 here. When you're fully grown, 
+
+439
+00:17:38,940 --> 00:17:40,440
+you're fully grown. After that, there's 
+
+440
+00:17:40,440 --> 00:17:43,360
+not much more and that's why there's 
+
+441
+00:17:43,360 --> 00:17:47,160
+a 0.2 here, but 
+
+442
+00:17:47,160 --> 00:17:51,960
+nothing for the B., for example. And a 
+very clear 
+
+443
+00:17:51,960 --> 00:17:52,620
+sign of such a 
+
+444
+00:17:52,620 --> 00:17:53,860
+development process is of course 
+
+445
+00:17:53,860 --> 00:17:55,500
+numbers that are greater than 1, 
+
+446
+00:17:55,560 --> 00:17:58,380
+for example 200. So from C 
+
+447
+00:17:58,380 --> 00:17:59,980
+to A we have a 200. 
+
+448
+00:18:03,380 --> 00:18:05,600
+However, the calculation works in exactly 
+the same 
+
+449
+00:18:05,600 --> 00:18:08,640
+way as with exchange matrices. The 
+
+450
+00:18:08,640 --> 00:18:09,760
+tasks are often 
+
+451
+00:18:09,760 --> 00:18:11,540
+similar, but it is 
+
+452
+00:18:11,540 --> 00:18:13,640
+always clear to see whether it 
+
+453
+00:18:13,640 --> 00:18:14,960
+is a development process or an 
+
+454
+00:18:14,960 --> 00:18:18,100
+exchange process. As I said, the 
+
+455
+00:18:18,100 --> 00:18:19,640
+calculations and many calculation methods 
+
+456
+00:18:19,640 --> 00:18:23,880
+are the same. And that brings us 
+
+457
+00:18:23,880 --> 00:18:24,840
+to the 
+
+458
+00:18:24,840 --> 00:18:25,940
+production processes. 
+
+459
+00:18:26,860 --> 00:18:29,900
+Production processes are something 
+
+460
+00:18:29,900 --> 00:18:31,960
+quite different and production processes 
+
+461
+00:18:31,960 --> 00:18:35,120
+can be recognized directly. This is 
+because 
+
+462
+00:18:35,120 --> 00:18:36,340
+production processes are 
+
+463
+00:18:36,340 --> 00:18:38,860
+always concerned with manufacturing 
+
+464
+00:18:38,860 --> 00:18:41,260
+from individual parts. Manufacturing 
+
+465
+00:18:41,260 --> 00:18:43,280
+from individual parts usually involves 
+
+466
+00:18:43,280 --> 00:18:45,000
+intermediate products. In other words, we 
+
+467
+00:18:45,000 --> 00:18:46,220
+can see quite clearly that we have 
+
+468
+00:18:46,220 --> 00:18:48,600
+products, the P, and we have 
+
+469
+00:18:48,600 --> 00:18:50,160
+intermediate products, which is the Z, and 
+
+470
+00:18:50,160 --> 00:18:52,220
+of course we have individual parts. The 
+
+471
+00:18:52,220 --> 00:18:53,840
+whole thing is to be understood as 
+follows. 
+
+472
+00:18:54,920 --> 00:18:57,800
+Our products P1 to P3 
+
+473
+00:18:57,800 --> 00:19:00,840
+consist of intermediate products. These 
+
+474
+00:19:00,840 --> 00:19:02,460
+intermediate products in turn consist 
+
+475
+00:19:02,460 --> 00:19:05,460
+of individual parts and such a 
+
+476
+00:19:05,460 --> 00:19:10,660
+production process is used to 
+
+477
+00:19:10,660 --> 00:19:12,560
+calculate the material input. 
+
+478
+00:19:12,560 --> 00:19:16,240
+In other words, how many individual parts 
+from E1 
+
+479
+00:19:16,240 --> 00:19:17,880
+to E3 do we need for a 
+
+480
+00:19:17,880 --> 00:19:21,240
+certain number of P1 to P3. And 
+
+481
+00:19:21,240 --> 00:19:22,780
+the whole thing looks really 
+
+482
+00:19:22,780 --> 00:19:26,040
+tricky. And the arrows 
+
+483
+00:19:26,040 --> 00:19:27,940
+also point in the opposite direction to 
+the 
+
+484
+00:19:27,940 --> 00:19:29,160
+development process, if you 
+
+485
+00:19:29,160 --> 00:19:33,960
+like, because we here, as 
+
+486
+00:19:33,960 --> 00:19:36,420
+I said, it's different, but usually 
+
+487
+00:19:36,420 --> 00:19:37,500
+you go there because it's 
+
+488
+00:19:37,500 --> 00:19:39,960
+easier to understand that you 
+
+489
+00:19:39,960 --> 00:19:44,160
+
+490
+00:19:44,160 --> 00:19:46,200
+count the arrows from the intermediate 
+product to the individual product. In 
+other words, it 
+
+491
+00:19:46,200 --> 00:19:48,740
+is the demand. The intermediate product 1 
+
+492
+00:19:48,740 --> 00:19:51,140
+requires the single product E1 and the 
+
+493
+00:19:51,140 --> 00:19:52,660
+single product E2 and the 
+
+494
+00:19:52,660 --> 00:19:55,520
+single product E3. 
+
+495
+00:19:55,520 --> 00:19:56,700
+We will see the quantities in a moment. 
+This is just to help you 
+
+496
+00:19:56,700 --> 00:19:59,060
+understand. In most cases, 
+
+497
+00:19:59,120 --> 00:20:00,540
+the arrows 
+
+498
+00:20:00,540 --> 00:20:03,220
+indicate a requirement. Of course, there 
+is also 
+
+499
+00:20:03,220 --> 00:20:04,400
+the option of 
+
+500
+00:20:04,400 --> 00:20:06,640
+setting it up the other way round , so 
+that the arrows point from the 
+
+501
+00:20:06,640 --> 00:20:08,860
+individual product to the next higher 
+
+502
+00:20:08,860 --> 00:20:11,740
+product. However, we have 
+
+503
+00:20:11,740 --> 00:20:13,160
+decided that the arrows 
+
+504
+00:20:13,160 --> 00:20:14,500
+represent a requirement. 
+
+505
+00:20:17,720 --> 00:20:21,580
+And now let's fill this 
+
+506
+00:20:21,580 --> 00:20:25,360
+representation with a few numbers. 
+
+507
+00:20:25,360 --> 00:20:26,520
+A representation of a 
+
+508
+00:20:27,480 --> 00:20:29,460
+production matrix can look like this. 
+
+509
+00:20:30,460 --> 00:20:32,120
+
+510
+00:20:32,120 --> 00:20:33,120
+Of course, the resulting matrix does not 
+have to 
+
+511
+00:20:33,120 --> 00:20:35,780
+be square. 
+
+512
+00:20:35,780 --> 00:20:36,840
+But we'll deal with setting up the matrix 
+
+513
+00:20:36,840 --> 00:20:38,280
+in a moment. I would 
+
+514
+00:20:38,280 --> 00:20:39,400
+first like to explain all the numbers. 
+
+515
+00:20:39,640 --> 00:20:43,740
+We can see here that 
+
+516
+00:20:43,740 --> 00:20:46,220
+intermediate production Z1 requires 
+
+517
+00:20:46,220 --> 00:20:50,560
+the single product E1 twice and 
+
+518
+00:20:50,560 --> 00:20:55,820
+E2 three times. In addition, there are 
+four times 
+
+519
+00:20:55,820 --> 00:21:00,140
+E3. The situation is similar for Z2. It 
+
+520
+00:21:00,140 --> 00:21:03,560
+needs E1 three times, E2 once and 
+
+521
+00:21:03,560 --> 00:21:09,680
+E3 five times. For our end product P1 
+
+522
+00:21:09,680 --> 00:21:15,800
+we need 3 times z1 5 times z2 for 
+
+523
+00:21:17,630 --> 00:21:21,690
+the product p2 we need four times 
+
+524
+00:21:21,690 --> 00:21:27,890
+z1 and twice z2 for our product 
+
+525
+00:21:27,890 --> 00:21:30,630
+p3 we need four times z1 and 
+
+526
+00:21:30,630 --> 00:21:35,890
+once z2 in order to 
+
+527
+00:21:35,890 --> 00:21:37,490
+
+528
+00:21:37,490 --> 00:21:40,030
+set up a matrix based on this data or 
+based on this data 
+
+529
+00:21:40,130 --> 00:21:41,470
+, or in this case two, 
+
+530
+00:21:41,670 --> 00:21:43,210
+because a matrix can only ever 
+
+531
+00:21:43,210 --> 00:21:44,910
+represent one transition. The transition 
+from 
+
+532
+00:21:44,910 --> 00:21:48,690
+E1 to Z1 or from Z1 to P1, 
+
+533
+00:21:48,850 --> 00:21:50,330
+or the demand. 
+
+534
+00:21:53,810 --> 00:21:55,730
+It is important to note that the height of 
+the 
+
+535
+00:21:55,730 --> 00:21:57,490
+matrix, i.e. the number of rows, 
+
+536
+00:21:57,570 --> 00:22:00,010
+indicates the number of inputs. 
+
+537
+00:22:00,010 --> 00:22:04,250
+In other words, how many individual parts 
+do 
+
+538
+00:22:04,250 --> 00:22:06,290
+we have to create Z. This is E1, 
+
+539
+00:22:06,310 --> 00:22:10,810
+E2 and E3. This means that the matrix that 
+
+540
+00:22:10,810 --> 00:22:15,230
+describes the requirements of Z has three 
+
+541
+00:22:15,230 --> 00:22:18,450
+rows, because the number of inputs 
+indicates the 
+
+542
+00:22:18,450 --> 00:22:21,730
+height and the input is E. The 
+
+543
+00:22:21,730 --> 00:22:24,610
+output, i.e. what comes out, is the 
+
+544
+00:22:24,610 --> 00:22:26,530
+two intermediate products here, i.e. Z1 
+
+545
+00:22:26,530 --> 00:22:30,050
+and Z2, so we get a 3x2 
+
+546
+00:22:30,050 --> 00:22:34,550
+matrix for the requirements of Z. 
+
+547
+00:22:34,550 --> 00:22:36,350
+However, it is important that the arrows 
+
+548
+00:22:36,350 --> 00:22:37,810
+are uniform. I said earlier that 
+
+549
+00:22:38,010 --> 00:22:41,290
+some people set them in exactly the 
+
+550
+00:22:41,290 --> 00:22:42,550
+opposite direction. However, it is 
+important that you 
+
+551
+00:22:42,590 --> 00:22:44,170
+
+552
+00:22:44,170 --> 00:22:45,650
+decide on an arrow direction within a 
+task. 
+
+553
+00:22:45,950 --> 00:22:47,330
+So either you set it up as a 
+
+554
+00:22:47,330 --> 00:22:48,670
+requirement, as we 
+
+555
+00:22:48,670 --> 00:22:50,630
+have done. This means that P1 requires so 
+and so 
+
+556
+00:22:50,630 --> 00:22:53,110
+much Z and Z requires so and so much E. 
+
+557
+00:22:53,970 --> 00:22:55,350
+Of course, you can also 
+
+558
+00:22:55,350 --> 00:22:59,170
+do it the other way round by saying that 
+with so and so 
+
+559
+00:22:59,170 --> 00:23:02,550
+much E I can do Z and with so 
+
+560
+00:23:02,550 --> 00:23:03,850
+and so much Z I can do P. 
+
+561
+00:23:03,850 --> 00:23:05,470
+But then all the arrows point in the other 
+
+562
+00:23:05,470 --> 00:23:06,870
+direction. Under no 
+
+563
+00:23:06,870 --> 00:23:08,190
+circumstances should you mix them somehow, 
+because then there will be 
+
+564
+00:23:08,190 --> 00:23:13,510
+problems. Right, next 
+
+565
+00:23:13,510 --> 00:23:14,930
+we set up the production matrix for our 
+
+566
+00:23:14,930 --> 00:23:18,450
+P, i.e. how much input do 
+
+567
+00:23:18,450 --> 00:23:21,910
+we have ? We have Z1 and Z2 as input, 
+which 
+
+568
+00:23:22,030 --> 00:23:24,730
+means we have two rows and 
+
+569
+00:23:24,730 --> 00:23:27,030
+how much output do we have? We have 
+
+570
+00:23:27,030 --> 00:23:29,830
+P1, P2 and P3, which means we 
+
+571
+00:23:29,830 --> 00:23:32,750
+have three rows as output. Well, that's 
+how 
+
+572
+00:23:32,750 --> 00:23:36,410
+these two matrices are created. They 
+
+573
+00:23:36,410 --> 00:23:38,010
+are to be understood as follows. It says 
+here 
+
+574
+00:23:38,010 --> 00:23:40,830
+that for Z1 we need 2 times E1 
+
+575
+00:23:41,030 --> 00:23:44,830
+, which is the case, 3 times E2 
+
+576
+00:23:44,830 --> 00:23:47,770
+, which is the case and 4 times E3, which 
+is the 
+
+577
+00:23:47,770 --> 00:23:52,490
+case. For Z2, we need 3 times E1 
+
+578
+00:23:52,730 --> 00:23:56,270
+, which is the case, 1 time E2 
+
+579
+00:23:56,270 --> 00:23:58,650
+, which is the case, and 5 times E3, which 
+is the 
+
+580
+00:23:58,650 --> 00:24:02,410
+case. Then it goes on. 
+
+581
+00:24:02,410 --> 00:24:05,990
+For the product P1, we need 3 times Z1 
+
+582
+00:24:06,210 --> 00:24:09,190
+, which is the arrow, and 5 times Z2 
+
+583
+00:24:09,190 --> 00:24:12,710
+, which is the arrow. For product P2 
+
+584
+00:24:12,710 --> 00:24:17,650
+, we need 4 times Z1 
+
+585
+00:24:17,650 --> 00:24:21,570
+, which is the arrow, and 2 times Z2, 
+which is the 
+
+586
+00:24:21,570 --> 00:24:25,130
+arrow. For the product P3, 
+
+587
+00:24:25,130 --> 00:24:30,170
+we need 4 times Z1, which is the arrow, 
+and 
+
+588
+00:24:30,170 --> 00:24:33,710
+once Z2 . This is the case. 
+
+589
+00:24:33,710 --> 00:24:36,450
+We have now set up our two matrices 
+
+590
+00:24:36,450 --> 00:24:39,990
+. Now we can 
+
+591
+00:24:39,990 --> 00:24:42,910
+calculate how much input, i.e. how 
+
+592
+00:24:42,910 --> 00:24:44,610
+many individual parts we need to 
+
+593
+00:24:44,610 --> 00:24:48,770
+produce a certain quantity of products 
+
+594
+00:24:48,770 --> 00:24:50,750
+. So you can 
+
+595
+00:24:50,750 --> 00:24:52,990
+calculate the input for a certain amount 
+of 
+
+596
+00:24:52,990 --> 00:24:55,630
+output. You are then always 
+
+597
+00:24:55,630 --> 00:24:57,670
+given the quantity of output, i.e. 
+
+598
+00:24:57,830 --> 00:24:59,830
+the question in 
+
+599
+00:24:59,830 --> 00:25:01,290
+our case would be, for 
+
+600
+00:25:01,290 --> 00:25:05,430
+
+601
+00:25:05,530 --> 00:25:08,790
+
+602
+00:25:08,930 --> 00:25:11,670
+
+603
+00:25:11,750 --> 00:25:12,990
+
+604
+00:25:12,990 --> 00:25:16,990
+example, how many individual parts E1, E2, 
+E3 do we need for 100 products P1, 50 
+products P2 and 20 products P3 . The 
+number of outputs is 
+
+605
+00:25:16,990 --> 00:25:18,330
+then the vector by which we 
+
+606
+00:25:18,330 --> 00:25:20,790
+multiply. And it is important to 
+
+607
+00:25:20,790 --> 00:25:22,970
+note that the matrices cannot 
+
+608
+00:25:22,970 --> 00:25:26,430
+be ordered arbitrarily. You 
+
+609
+00:25:26,430 --> 00:25:30,490
+start with the individual part matrix to 
+the 
+
+610
+00:25:30,490 --> 00:25:33,570
+intermediate part matrix. Then comes 
+
+611
+00:25:33,570 --> 00:25:35,410
+the matrix from the intermediate product 
+to the 
+
+612
+00:25:35,410 --> 00:25:37,730
+end product. In other words, if you 
+
+613
+00:25:37,730 --> 00:25:39,710
+like, you work 
+
+614
+00:25:39,710 --> 00:25:41,530
+through the chain chronologically up to 
+the end product. 
+
+615
+00:25:42,230 --> 00:25:43,870
+This means that if our individual parts 
+
+616
+00:25:43,870 --> 00:25:45,770
+
+617
+00:25:45,770 --> 00:25:47,190
+were made up of other things, the 
+
+618
+00:25:47,190 --> 00:25:49,690
+matrix would be here again. So 
+
+619
+00:25:49,690 --> 00:25:52,710
+don't dice the matrices under any 
+circumstances. They 
+
+620
+00:25:52,710 --> 00:25:54,110
+have a certain order, 
+
+621
+00:25:54,110 --> 00:25:55,610
+otherwise this 
+
+622
+00:25:55,610 --> 00:25:58,290
+row-mash-column principle would no longer 
+work. And 
+
+623
+00:25:58,290 --> 00:26:00,350
+as I said, that would be the calculation 
+
+624
+00:26:00,350 --> 00:26:02,090
+. You could also enter this calculation 
+
+625
+00:26:02,090 --> 00:26:03,290
+in the calculator. 
+
+626
+00:26:03,290 --> 00:26:05,630
+If you 
+
+627
+00:26:05,630 --> 00:26:08,110
+want to calculate this manually, it is 
+important to note that you can 
+
+628
+00:26:08,110 --> 00:26:09,850
+either 
+
+629
+00:26:09,850 --> 00:26:11,530
+offset the two matrices against each other 
+first and then 
+
+630
+00:26:11,530 --> 00:26:15,030
+set up a production matrix. 
+
+631
+00:26:15,030 --> 00:26:17,090
+We can see that here below. We'll do that 
+in 
+
+632
+00:26:17,090 --> 00:26:19,510
+a moment. Or we can 
+
+633
+00:26:19,510 --> 00:26:21,930
+go and say that we 
+
+634
+00:26:21,930 --> 00:26:23,730
+simply work 
+
+635
+00:26:23,730 --> 00:26:25,210
+the vector from the last matrix. In other 
+words, this has been 
+
+636
+00:26:25,210 --> 00:26:27,170
+shown here once. We first calculate 
+
+637
+00:26:27,170 --> 00:26:30,770
+the matrix here times our vector. 
+
+638
+00:26:30,770 --> 00:26:33,390
+In other words, we calculate 3 times 100 
+plus 4 
+
+639
+00:26:33,390 --> 00:26:37,470
+times 50 plus 4 times 20 In this case, 
+that's 
+
+640
+00:26:37,470 --> 00:26:41,450
+580 And then for the 
+
+641
+00:26:41,450 --> 00:26:43,290
+next element underneath here, 5 times 
+
+642
+00:26:43,290 --> 00:26:46,030
+100 plus 2 times 50 plus 1 times 20, that 
+
+643
+00:26:46,030 --> 00:26:48,630
+'s 620 And then we have 
+
+644
+00:26:48,630 --> 00:26:50,450
+our matrix times the new 
+
+645
+00:26:50,450 --> 00:26:53,890
+vector And we can now 
+
+646
+00:26:53,890 --> 00:26:55,370
+calculate that again Here, too, 
+
+647
+00:26:55,370 --> 00:26:58,950
+row times column So 2 times 580 plus 
+
+648
+00:26:58,950 --> 00:27:03,910
+3 times 620, that's 3020. 3 times 580 
+
+649
+00:27:03,910 --> 00:27:10,030
+plus 1 times 620 is 2360. 4 times 580 
+
+650
+00:27:10,030 --> 00:27:13,850
+plus 5 times 620 is 5420. And 
+
+651
+00:27:13,850 --> 00:27:16,210
+that is the number of 
+
+652
+00:27:16,210 --> 00:27:17,350
+individual parts we need. 
+
+653
+00:27:17,350 --> 00:27:21,010
+This means that for the 
+
+654
+00:27:21,010 --> 00:27:23,650
+quantity of output described here , i.e. 
+products P1 
+
+655
+00:27:23,650 --> 00:27:26,830
+to 3, we need 3020 times 1020 times the 
+
+656
+00:27:26,830 --> 00:27:30,190
+individual part E1, 2360 times the 
+
+657
+00:27:30,190 --> 00:27:33,890
+individual part E2 and 5420 times the 
+
+658
+00:27:33,890 --> 00:27:36,970
+individual part E3. This is how it should 
+be 
+
+659
+00:27:36,970 --> 00:27:40,050
+understood. So the first matrix here 
+
+660
+00:27:40,050 --> 00:27:43,130
+was also structured Z1, Z2, E1, E2, 
+
+661
+00:27:43,150 --> 00:27:45,350
+E3. This is why the matrix is also 
+
+662
+00:27:45,350 --> 00:27:50,730
+structured E1, E2, E3. And 
+
+663
+00:27:50,730 --> 00:27:53,290
+that brings us to the 
+
+664
+00:27:53,290 --> 00:27:55,970
+other solution. If we 
+
+665
+00:27:55,970 --> 00:28:00,210
+want to have a matrix that represents the 
+
+666
+00:28:00,210 --> 00:28:02,430
+entire process, 
+
+667
+00:28:02,430 --> 00:28:04,230
+we can 
+
+668
+00:28:04,230 --> 00:28:07,810
+multiply the two matrices here. In other 
+words, we 
+
+669
+00:28:07,810 --> 00:28:09,450
+multiply the two matrices 
+
+670
+00:28:09,450 --> 00:28:13,210
+and get one large one. And if 
+
+671
+00:28:13,210 --> 00:28:15,750
+we now 
+
+672
+00:28:15,750 --> 00:28:16,930
+want to calculate the amount of input , we 
+can simply 
+
+673
+00:28:16,930 --> 00:28:19,330
+multiply the matrix by the vector. 
+
+674
+00:28:19,330 --> 00:28:20,510
+Of course, you get the same 
+
+675
+00:28:20,510 --> 00:28:23,490
+result, but you have 
+
+676
+00:28:23,510 --> 00:28:25,930
+determined the production. production 
+matrix and 
+
+677
+00:28:28,140 --> 00:28:32,700
+you calculate this production matrix 
+
+678
+00:28:32,700 --> 00:28:33,940
+simply by 
+
+679
+00:28:33,940 --> 00:28:36,020
+
+680
+00:28:36,020 --> 00:28:37,020
+
+681
+00:28:37,020 --> 00:28:38,860
+
+682
+00:28:38,860 --> 00:28:44,630
+multiplying the individual matrices here 
+that describe the process step by step and 
+
+683
+00:28:44,630 --> 00:28:49,190
+then you determine this process matrix and 
+that 
+
+684
+00:28:51,840 --> 00:28:53,420
+'s the end of the 
+
+685
+00:28:53,420 --> 00:28:55,520
+webinar thank you 
+
+686
+00:28:55,520 --> 00:28:56,820
+very much for your attention 

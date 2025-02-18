@@ -1,0 +1,528 @@
+1
+00:00:03,980 --> 00:00:06,300
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,300 --> 00:00:07,380
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,380 --> 00:00:09,400
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,400 --> 00:00:12,120
+die Säure-Base-Titration erklären. In
+
+5
+00:00:12,120 --> 00:00:13,900
+unserem Online-Lerncenter steht dir
+
+6
+00:00:13,900 --> 00:00:15,320
+zu diesem Thema natürlich auch noch
+
+7
+00:00:15,320 --> 00:00:17,000
+ein Wiki zur Verfügung, in dem dir
+
+8
+00:00:17,000 --> 00:00:18,280
+die grundlegenden und wichtigen
+
+9
+00:00:18,280 --> 00:00:19,840
+Begriffe genauer erklärt werden.
+
+10
+00:00:20,600 --> 00:00:22,700
+Dieses Video baut inhaltlich auf dem
+
+11
+00:00:22,700 --> 00:00:25,980
+Video Neutralisation auf, weshalb du
+
+12
+00:00:25,980 --> 00:00:27,680
+dir dieses Video am besten zuerst
+
+13
+00:00:27,680 --> 00:00:30,440
+anschaust. Eine mögliche weitere
+
+14
+00:00:30,440 --> 00:00:31,320
+Anwendung der
+
+15
+00:00:31,320 --> 00:00:33,200
+Stoffmengenkonzentration neben der
+
+16
+00:00:33,200 --> 00:00:35,040
+Neutralisation ist die sogenannte
+
+17
+00:00:35,040 --> 00:00:37,680
+Titration. Dabei wird auch wieder
+
+18
+00:00:37,680 --> 00:00:39,060
+eine Säure mit einer Base
+
+19
+00:00:39,060 --> 00:00:41,380
+neutralisiert. In diesem Fall ist die
+
+20
+00:00:41,380 --> 00:00:42,620
+Konzentration einer der
+
+21
+00:00:42,620 --> 00:00:44,700
+Reaktionspartner unbekannt und soll
+
+22
+00:00:44,700 --> 00:00:46,940
+ermittelt werden. Dazu wird die
+
+23
+00:00:46,940 --> 00:00:49,340
+Lösung unbekannter Konzentration mit
+
+24
+00:00:49,340 --> 00:00:51,360
+einer Lösung bekannter Konzentration
+
+25
+00:00:51,360 --> 00:00:54,720
+titriert. Der Versuchsaufbau sieht
+
+26
+00:00:54,720 --> 00:00:58,780
+wie folgt aus. In einem Becherglas
+
+27
+00:00:58,780 --> 00:01:00,400
+befindet sich ein bekanntes Volumen
+
+28
+00:01:00,400 --> 00:01:02,060
+einer Säure, deren Konzentration
+
+29
+00:01:02,060 --> 00:01:04,460
+allerdings unbekannt ist. Diese wird
+
+30
+00:01:04,460 --> 00:01:07,500
+mit einem Indikator versetzt. Darüber
+
+31
+00:01:07,500 --> 00:01:09,620
+befindet sich eine Bürette mit dem
+
+32
+00:01:09,620 --> 00:01:11,680
+sogenannten Titrant oder auch
+
+33
+00:01:11,680 --> 00:01:14,000
+Maßlösung genannt, welche einer Base
+
+34
+00:01:14,000 --> 00:01:17,180
+bekannter Konzentration ist. Nun wird
+
+35
+00:01:17,180 --> 00:01:19,400
+die Maßlösung tropfenweise zur Säure
+
+36
+00:01:19,400 --> 00:01:21,040
+gegeben, bis der Indikator durch
+
+37
+00:01:21,040 --> 00:01:23,160
+Farbänderung anzeigt, dass die Säure
+
+38
+00:01:23,160 --> 00:01:26,000
+neutralisiert wurde. Wir notieren uns
+
+39
+00:01:26,000 --> 00:01:27,660
+das verbrauchte Volumen unserer
+
+40
+00:01:27,660 --> 00:01:30,260
+Maßlösung. In der Versuchsauswertung
+
+41
+00:01:30,260 --> 00:01:32,720
+muss nun die Konzentration der Säure
+
+42
+00:01:32,720 --> 00:01:35,040
+berechnet werden. Wir gehen das
+
+43
+00:01:35,040 --> 00:01:36,920
+einmal zusammen durch und nebenbei
+
+44
+00:01:36,920 --> 00:01:38,760
+lernst du, wie ein Versuchsprotokoll
+
+45
+00:01:38,760 --> 00:01:42,480
+aufgebaut ist. Als erstes kommt die
+
+46
+00:01:42,480 --> 00:01:44,980
+Aufgabenstellung. 20 Milliliter
+
+47
+00:01:44,980 --> 00:01:47,100
+Salpetersäure werden mit Natronlauge,
+
+48
+00:01:47,100 --> 00:01:50,140
+C ist gleich 0,1 Mol pro Liter,
+
+49
+00:01:50,280 --> 00:01:52,580
+titriert. Berechne die
+
+50
+00:01:52,580 --> 00:01:54,520
+Stoffmengenkonzentration der Säure.
+
+51
+00:01:56,700 --> 00:01:59,040
+Zweitens, Versuchsaufbau. Wie bereits
+
+52
+00:01:59,040 --> 00:02:00,500
+beschrieben, benötigen wir eine
+
+53
+00:02:00,500 --> 00:02:03,040
+Bürette mit der Natronlauge mit 0,1
+
+54
+00:02:03,040 --> 00:02:05,320
+Mol pro Liter und ein Becherglas mit
+
+55
+00:02:05,320 --> 00:02:07,520
+20 ml Salpetersäure, deren
+
+56
+00:02:07,520 --> 00:02:09,660
+Konzentration wir ermitteln sollen.
+
+57
+00:02:11,440 --> 00:02:13,860
+Drittens, Durchführung. Hier werden
+
+58
+00:02:13,860 --> 00:02:16,200
+die Messergebnisse dokumentiert. Es
+
+59
+00:02:16,200 --> 00:02:17,920
+wird der Füllstand an der Bürette vor
+
+60
+00:02:17,920 --> 00:02:20,080
+und nach dem Versuch abgelesen und
+
+61
+00:02:20,080 --> 00:02:22,200
+aufgeschrieben. Die Differenz der
+
+62
+00:02:22,200 --> 00:02:23,960
+beiden Werte ist unser verbrauchtes
+
+63
+00:02:23,960 --> 00:02:26,120
+Volumen. Bis zum Umschlag des
+
+64
+00:02:26,120 --> 00:02:29,360
+Indikators werden 12,5 ml Maßlösung
+
+65
+00:02:29,360 --> 00:02:32,700
+verbraucht. Nun viertens kommt die
+
+66
+00:02:32,700 --> 00:02:35,340
+Auswertung. Nun erfolgt die
+
+67
+00:02:35,340 --> 00:02:35,940
+Berechnung der
+
+68
+00:02:35,940 --> 00:02:37,360
+Stoffmengenkonzentration der
+
+69
+00:02:37,360 --> 00:02:39,820
+Salpetersäure. Als erstes stellen wir
+
+70
+00:02:39,820 --> 00:02:41,500
+wieder die Reaktionsgleichung auf.
+
+71
+00:02:41,500 --> 00:02:47,640
+HNO3 plus NaOH wird zu H2O plus
+
+72
+00:02:47,640 --> 00:02:52,020
+NaNO3. Salpetersäure reagiert mit
+
+73
+00:02:52,020 --> 00:02:53,860
+Natronlauge zu Wasser und
+
+74
+00:02:53,860 --> 00:02:57,260
+Natriumnitrat. Welch ein Glück! Wir
+
+75
+00:02:57,260 --> 00:02:58,440
+müssen in diesem Fall nichts
+
+76
+00:02:58,440 --> 00:03:00,860
+ausgleichen. Salpetersäure und
+
+77
+00:03:00,860 --> 00:03:02,340
+Natronlauge reagieren im
+
+78
+00:03:02,340 --> 00:03:06,360
+Stoffwengenverhältnis 1 zu 1. Im
+
+79
+00:03:06,360 --> 00:03:07,800
+nächsten Schritt ist es sinnvoll,
+
+80
+00:03:07,860 --> 00:03:09,980
+alle bekannten und unbekannten Größen
+
+81
+00:03:09,980 --> 00:03:13,040
+aufzunehmen. Wir kennen erstens das
+
+82
+00:03:13,040 --> 00:03:16,780
+Volumen der Salpetersäure, also V von
+
+83
+00:03:16,780 --> 00:03:20,840
+HNO3 gleich 20 ml. Zweitens das
+
+84
+00:03:20,840 --> 00:03:23,500
+Volumen der Natronlauge, also V von
+
+85
+00:03:23,500 --> 00:03:28,620
+NaOH ist gleich 12,5 ml. Und zu guter
+
+86
+00:03:28,620 --> 00:03:30,000
+Letzt die Konzentration der
+
+87
+00:03:30,000 --> 00:03:33,760
+Natronlauge, also C von NaOH gleich 0
+
+88
+00:03:33,760 --> 00:03:36,640
+,1 mol pro Liter. Die Konzentration
+
+89
+00:03:36,640 --> 00:03:39,840
+der Salpetersäure, also C von HNO3,
+
+90
+00:03:40,060 --> 00:03:42,620
+ist unbekannt. Aber wie erkennen wir
+
+91
+00:03:42,620 --> 00:03:45,460
+diese nun? Die Konzentration der
+
+92
+00:03:45,460 --> 00:03:47,140
+Salpetersäure ergibt sich, indem man
+
+93
+00:03:47,140 --> 00:03:48,720
+die Stoffmenge der Salpetersäure
+
+94
+00:03:48,720 --> 00:03:50,480
+durch das Volumen der Lösung teilt.
+
+95
+00:03:51,300 --> 00:03:55,920
+Also C von HNO3 ist gleich N von HNO3
+
+96
+00:03:55,920 --> 00:04:00,080
+geteilt durch V von HNO3. Das Volumen
+
+97
+00:04:00,080 --> 00:04:01,900
+der Lösung ist uns bekannt. Wir
+
+98
+00:04:01,900 --> 00:04:03,520
+brauchen nur noch die Stoffmenge der
+
+99
+00:04:03,520 --> 00:04:06,500
+Salpetersäure. Wir wissen bereits aus
+
+100
+00:04:06,500 --> 00:04:08,060
+der Reaktionsgleichung, dass die
+
+101
+00:04:08,060 --> 00:04:09,980
+Stoffmengen von Natronlauge und
+
+102
+00:04:09,980 --> 00:04:11,740
+Salpetersäure gleich sein müssen,
+
+103
+00:04:11,940 --> 00:04:14,020
+also im Verhältnis von 1 zu 1
+
+104
+00:04:14,020 --> 00:04:16,280
+vorliegen. Die Stoffmenge der
+
+105
+00:04:16,280 --> 00:04:17,780
+Natronlauge lässt sich aus dem
+
+106
+00:04:17,780 --> 00:04:19,620
+gemessenen Volumen und der gegebenen
+
+107
+00:04:19,620 --> 00:04:21,140
+Konzentration nach folgender
+
+108
+00:04:21,140 --> 00:04:25,100
+Gleichung berechnen. n von NaOH ist
+
+109
+00:04:25,100 --> 00:04:31,160
+gleich c von NaOH mal v von NaOH. n
+
+110
+00:04:31,160 --> 00:04:34,180
+von NaOH ist gleich gleich 0,1 Mol
+
+111
+00:04:34,180 --> 00:04:38,980
+pro Liter mal 0,0125 Liter. Und
+
+112
+00:04:38,980 --> 00:04:41,560
+Achtung, das Volumen muss immer in
+
+113
+00:04:41,560 --> 00:04:45,320
+Liter umgerechnet werden. n von NaOH
+
+114
+00:04:45,320 --> 00:04:49,340
+ist gleich n von HNO3, ist gleich 0
+
+115
+00:04:49,340 --> 00:04:53,500
+,00125 Mol. Jetzt haben wir alles,
+
+116
+00:04:53,700 --> 00:04:54,800
+was wir brauchen, um die
+
+117
+00:04:54,800 --> 00:04:56,680
+Konzentration der Salpetersäure zu
+
+118
+00:04:56,680 --> 00:04:58,960
+berechnen. Also setzen wir alles in
+
+119
+00:04:58,960 --> 00:05:02,960
+die Ansatzgleichung ein. C von HNO3
+
+120
+00:05:02,960 --> 00:05:07,820
+ist gleich 0,00125 mol pro 0,02
+
+121
+00:05:07,820 --> 00:05:11,220
+Liter. Das Volumen wieder in Liter.
+
+122
+00:05:11,840 --> 00:05:13,680
+Für die Konzentration ergibt sich
+
+123
+00:05:13,680 --> 00:05:19,220
+also C von HNO3 ist gleich 0,0625 mol
+
+124
+00:05:19,220 --> 00:05:21,840
+pro Liter. Ich hoffe, dass du nun
+
+125
+00:05:21,840 --> 00:05:23,860
+mehr über Säurebasetitration und
+
+126
+00:05:23,860 --> 00:05:26,360
+Stoffmengenkonzentration weißt. Wenn
+
+127
+00:05:26,360 --> 00:05:28,140
+du noch Fragen zu diesem oder anderen
+
+128
+00:05:28,140 --> 00:05:29,860
+Themen hast, nutze gerne unsere
+
+129
+00:05:29,860 --> 00:05:31,580
+weiteren Lerninhalte. im Online
+
+130
+00:05:31,580 --> 00:05:33,660
+-Lerncenter oder wende dich an deine
+
+131
+00:05:33,660 --> 00:05:35,540
+Schülerhilfe vor Ort. Bis zum
+
+132
+00:05:35,540 --> 00:05:36,180
+nächsten Mal!
+

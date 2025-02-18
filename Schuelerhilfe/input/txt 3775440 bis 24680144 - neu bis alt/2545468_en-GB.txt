@@ -1,0 +1,2277 @@
+﻿1
+00:00:00,850 --> 00:00:02,650
+Welcome to the webinar 
+
+2
+00:00:02,650 --> 00:00:04,830
+Derivation Rules. In 
+
+3
+00:00:04,830 --> 00:00:06,210
+this webinar, we will be looking at the 
+higher 
+
+4
+00:00:06,210 --> 00:00:07,850
+derivative rules. This means 
+
+5
+00:00:07,910 --> 00:00:09,130
+that we will look at the chain rule, the 
+
+6
+00:00:09,130 --> 00:00:10,870
+product rule and finally the 
+
+7
+00:00:10,870 --> 00:00:12,290
+quotient rule. 
+
+8
+00:00:12,850 --> 00:00:14,150
+But first of all, let's look 
+
+9
+00:00:14,150 --> 00:00:15,710
+at what is a derivative again 
+
+10
+00:00:15,710 --> 00:00:17,870
+and what do we need 
+
+11
+00:00:17,870 --> 00:00:20,750
+it for ? We need a derivative 
+
+12
+00:00:20,750 --> 00:00:22,510
+to 
+
+13
+00:00:22,510 --> 00:00:23,610
+
+14
+00:00:23,610 --> 00:00:25,710
+calculate the gradient of a function at a 
+certain point. This means 
+
+15
+00:00:25,710 --> 00:00:27,470
+, for example, that we see a parabola here 
+and 
+
+16
+00:00:27,470 --> 00:00:29,070
+unfortunately we also notice that the 
+gradient 
+
+17
+00:00:29,070 --> 00:00:30,710
+is not constant. Unlike 
+
+18
+00:00:30,710 --> 00:00:32,390
+a degree, which 
+
+19
+00:00:32,390 --> 00:00:35,330
+has the same slope everywhere , functions 
+from the 
+
+20
+00:00:35,330 --> 00:00:37,450
+second degree onwards no 
+
+21
+00:00:37,450 --> 00:00:39,950
+longer have a uniform slope. Therefore, we 
+can 
+
+22
+00:00:39,950 --> 00:00:41,430
+no longer create a slope triangle 
+
+23
+00:00:41,490 --> 00:00:43,190
+, or the creation of a 
+
+24
+00:00:43,190 --> 00:00:44,330
+slope triangle is only an 
+
+25
+00:00:44,330 --> 00:00:46,370
+approximation method or to show it 
+
+26
+00:00:46,370 --> 00:00:50,710
+visually , as here. In order to 
+
+27
+00:00:50,710 --> 00:00:52,190
+finally determine the gradient 
+
+28
+00:00:52,190 --> 00:00:53,770
+, we unfortunately 
+
+29
+00:00:53,770 --> 00:00:55,710
+always have to calculate it. And this is 
+exactly what 
+
+30
+00:00:55,710 --> 00:00:58,350
+we need the first derivative for. 
+
+31
+00:00:58,470 --> 00:01:00,390
+This is because the first derivative 
+
+32
+00:01:00,390 --> 00:01:02,390
+always provides us with the instantaneous 
+phase of change 
+
+33
+00:01:02,390 --> 00:01:04,510
+of the output function at a point, 
+
+34
+00:01:04,650 --> 00:01:09,310
+i.e. the gradient . And we have 
+
+35
+00:01:09,310 --> 00:01:11,210
+
+36
+00:01:11,210 --> 00:01:12,450
+
+37
+00:01:12,450 --> 00:01:13,790
+demonstrated the principle of determining 
+the gradient at a point here. Here we have 
+our 
+
+38
+00:01:13,790 --> 00:01:15,690
+initial function f of x, which is 
+
+39
+00:01:15,690 --> 00:01:19,130
+x² plus 3x minus 1, and we want to 
+
+40
+00:01:19,130 --> 00:01:20,810
+
+41
+00:01:20,810 --> 00:01:23,630
+determine the gradient at the point x 
+equals 2. First, 
+
+42
+00:01:23,630 --> 00:01:24,650
+we need to 
+
+43
+00:01:24,650 --> 00:01:26,110
+form the derivative. This means that if we 
+
+44
+00:01:26,110 --> 00:01:27,830
+
+45
+00:01:27,830 --> 00:01:29,550
+have a normal, completely rational 
+function , as we see here, which 
+
+46
+00:01:29,550 --> 00:01:31,250
+does not 
+
+47
+00:01:31,250 --> 00:01:33,890
+contain a product or fraction , then we 
+can 
+
+48
+00:01:33,890 --> 00:01:35,270
+simply 
+
+49
+00:01:35,270 --> 00:01:37,450
+do this with the normal derivative. In 
+other words, we multiply 
+
+50
+00:01:37,450 --> 00:01:39,330
+by the exponent 
+
+51
+00:01:39,330 --> 00:01:40,930
+and then reduce it by 1. This means that 
+
+52
+00:01:41,030 --> 00:01:45,750
+x² becomes 2x. If we 
+
+53
+00:01:45,750 --> 00:01:47,210
+have a linear element, the x is simply 
+omitted 
+
+54
+00:01:47,310 --> 00:01:49,530
+, i.e. 3x is derived to a 3 
+
+55
+00:01:49,530 --> 00:01:52,230
+and the constants are also omitted. 
+
+56
+00:01:52,350 --> 00:01:54,390
+The first derivative in 
+
+57
+00:01:54,390 --> 00:01:57,030
+this case is therefore f' of x is equal to 
+2x 
+
+58
+00:01:57,030 --> 00:02:00,570
+plus 3. To finally 
+
+59
+00:02:00,570 --> 00:02:02,490
+determine the gradient at the point, 
+
+60
+00:02:02,530 --> 00:02:04,690
+we now insert our point into the 
+
+61
+00:02:04,690 --> 00:02:06,270
+first derivative, i.e. we 
+
+62
+00:02:06,270 --> 00:02:08,750
+determine f' of 2, which is then 
+
+63
+00:02:08,750 --> 00:02:11,470
+equal to 2 times 2 plus 3, 2 times 2 is 4 
+
+64
+00:02:11,670 --> 00:02:14,190
+and 4 plus 3 is then correspondingly 
+
+65
+00:02:14,190 --> 00:02:16,730
+7. So we now know that the 
+
+66
+00:02:16,730 --> 00:02:19,290
+gradient of the function f of x at the 
+
+67
+00:02:19,290 --> 00:02:22,650
+point x is equal to 2 7. And 
+
+68
+00:02:22,650 --> 00:02:24,110
+that 
+
+69
+00:02:24,110 --> 00:02:26,470
+completes the task. Of course 
+
+70
+00:02:26,470 --> 00:02:28,450
+, the functions are not always so simple 
+
+71
+00:02:29,050 --> 00:02:31,450
+and you also have functions that 
+
+72
+00:02:31,450 --> 00:02:34,110
+are not completely rational and for 
+
+73
+00:02:34,110 --> 00:02:36,030
+these you then need other 
+
+74
+00:02:36,030 --> 00:02:38,630
+derivation rules. 
+
+75
+00:02:38,630 --> 00:02:40,370
+We will 
+
+76
+00:02:40,370 --> 00:02:40,650
+look 
+
+77
+00:02:40,670 --> 00:02:42,170
+at three more derivation rules in the 
+webinar . These are also 
+
+78
+00:02:42,170 --> 00:02:43,690
+the ones you 
+
+79
+00:02:43,690 --> 00:02:45,910
+need the most. And then I would say 
+
+80
+00:02:45,990 --> 00:02:49,150
+let's actually get started. First, 
+
+81
+00:02:49,150 --> 00:02:50,310
+let's take a look at the chain rule. 
+
+82
+00:02:50,370 --> 00:02:51,670
+The chain rule is always 
+
+83
+00:02:51,670 --> 00:02:53,470
+used when two functions 
+
+84
+00:02:53,470 --> 00:02:55,190
+are linked together. 
+
+85
+00:02:55,190 --> 00:02:57,930
+In other words, there is an inner and an 
+
+86
+00:02:57,930 --> 00:03:01,670
+outer function. We will 
+
+87
+00:03:01,670 --> 00:03:02,870
+
+88
+00:03:02,870 --> 00:03:05,930
+discuss this in more detail in a moment. 
+Classic 
+
+89
+00:03:05,930 --> 00:03:07,810
+examples of the chain rule are 
+
+90
+00:03:07,810 --> 00:03:10,350
+functions where... exponents there is 
+still 
+
+91
+00:03:10,350 --> 00:03:12,350
+a function equation or 
+
+92
+00:03:12,350 --> 00:03:14,430
+, as here, you have a bracket which 
+
+93
+00:03:14,430 --> 00:03:16,930
+in the example has a power of 1 you 
+
+94
+00:03:16,930 --> 00:03:18,370
+don't necessarily need the chain rule, but 
+
+95
+00:03:18,370 --> 00:03:19,770
+you can also 
+
+96
+00:03:19,770 --> 00:03:21,970
+apply the chain rule to it if the exponent 
+
+97
+00:03:21,970 --> 00:03:24,130
+is greater, i.e. a power of 2 to the power 
+of 3 to the power of 5 
+
+98
+00:03:24,130 --> 00:03:25,710
+and so on, then the 
+
+99
+00:03:25,710 --> 00:03:29,010
+chain rule is unavoidable I have 
+
+100
+00:03:29,010 --> 00:03:30,910
+come up with counterexamples such as f of 
+x 
+
+101
+00:03:30,910 --> 00:03:32,910
+equals 3x or f of x equals 5 x 
+
+102
+00:03:32,910 --> 00:03:35,030
+to the power of 3 there we 
+
+103
+00:03:35,030 --> 00:03:37,770
+don't need the chain rule Another 
+
+104
+00:03:37,770 --> 00:03:39,630
+example of functions where you 
+
+105
+00:03:39,630 --> 00:03:40,670
+need the chain rule are 
+
+106
+00:03:40,670 --> 00:03:42,810
+trigonometric functions , by the way . If 
+you 
+
+107
+00:03:42,810 --> 00:03:44,970
+
+108
+00:03:44,970 --> 00:03:47,530
+have the function variable within the sine 
+or cosine 
+
+109
+00:03:47,530 --> 00:03:48,930
+and want to derive it, you 
+
+110
+00:03:48,930 --> 00:03:53,690
+inevitably need the chain rule. And so 
+
+111
+00:03:53,690 --> 00:03:55,370
+we will now demonstrate it. 
+
+112
+00:03:56,010 --> 00:03:58,210
+We are now referring to the 
+
+113
+00:03:58,210 --> 00:04:01,650
+example of 3 times x²-4 to the power of 5. 
+This 
+
+114
+00:04:01,650 --> 00:04:03,770
+means that what is in the brackets here 
+
+115
+00:04:03,770 --> 00:04:05,710
+, which is projected, is the 
+
+116
+00:04:05,710 --> 00:04:07,290
+inner function, because it is 
+
+117
+00:04:07,290 --> 00:04:08,770
+inside the brackets. I think that's a 
+
+118
+00:04:08,770 --> 00:04:09,530
+pretty good way to 
+
+119
+00:04:09,530 --> 00:04:12,430
+visualize it. And the outer function 
+
+120
+00:04:12,430 --> 00:04:14,390
+is what 
+
+121
+00:04:14,390 --> 00:04:16,750
+surrounds the inner function , i.e. 3 
+times the brackets to the power of 
+
+122
+00:04:16,750 --> 00:04:21,990
+5. And this is how we determine the 
+
+123
+00:04:21,990 --> 00:04:24,170
+derivative. When we 
+
+124
+00:04:24,170 --> 00:04:26,090
+derive this using the chain rule, we 
+
+125
+00:04:26,090 --> 00:04:27,730
+always consider the following structure. 
+Vf of x is 
+
+126
+00:04:27,730 --> 00:04:29,850
+equal to u of v of x, i.e. v of 
+
+127
+00:04:29,850 --> 00:04:32,650
+x is the inner function and u is 
+
+128
+00:04:32,650 --> 00:04:36,330
+the outer function. The first 
+
+129
+00:04:36,330 --> 00:04:39,550
+derivative is then v' of x times u' 
+
+130
+00:04:39,670 --> 00:04:42,070
+of v of x. This means that the inner 
+
+131
+00:04:42,070 --> 00:04:44,430
+function is derived times the derivative 
+of the 
+
+132
+00:04:44,430 --> 00:04:47,510
+outer function and 
+
+133
+00:04:47,510 --> 00:04:50,330
+the old inner 
+
+134
+00:04:50,330 --> 00:04:53,090
+function equation is still inside. 
+
+135
+00:04:53,090 --> 00:04:54,810
+This is why the mnemonic inner times outer 
+
+136
+00:04:54,810 --> 00:04:57,010
+derivative is so common. Please 
+
+137
+00:04:57,010 --> 00:04:59,870
+remember that 
+
+138
+00:04:59,870 --> 00:05:01,450
+nothing happens within the outer function 
+equation, 
+
+139
+00:05:01,570 --> 00:05:05,470
+it remains the same. This means that in 
+order to 
+
+140
+00:05:05,470 --> 00:05:06,970
+finally 
+
+141
+00:05:06,970 --> 00:05:08,710
+determine our derivative , we now first go 
+
+142
+00:05:08,710 --> 00:05:10,730
+and determine our inner and 
+
+143
+00:05:10,730 --> 00:05:12,830
+outer derivative as well as the 
+
+144
+00:05:12,830 --> 00:05:17,470
+corresponding derivatives. Well, v of 
+
+145
+00:05:17,470 --> 00:05:21,610
+x is then equal to x²-4, i.e. our 
+
+146
+00:05:21,610 --> 00:05:23,590
+inner function, u of x is equal to 
+
+147
+00:05:23,590 --> 00:05:25,490
+3x to the power of 5 or 3x to the power of 
+5. 3 times a 
+
+148
+00:05:25,490 --> 00:05:28,370
+bracket to the power of 5 and we 
+
+149
+00:05:28,370 --> 00:05:30,510
+now form the derivative. x² is 
+
+150
+00:05:30,510 --> 00:05:32,970
+derived, 2x, the minus 4 is omitted. 
+
+151
+00:05:33,790 --> 00:05:35,950
+3x to the power of 5 or 3 times the 
+bracket to the power of 
+
+152
+00:05:35,950 --> 00:05:39,170
+5 becomes 5 times 3 times the bracket 
+
+153
+00:05:39,170 --> 00:05:41,490
+to the power of 4. So simply 
+
+154
+00:05:41,490 --> 00:05:43,570
+multiply by the exponent here too and 
+
+155
+00:05:43,570 --> 00:05:45,890
+reduce the exponent by 1. Therefore, 
+
+156
+00:05:45,890 --> 00:05:47,790
+we only have one to the power of 4. 5 
+times 
+
+157
+00:05:47,790 --> 00:05:50,150
+3 is then 15. Consequently, we have 15 
+
+158
+00:05:50,150 --> 00:05:55,090
+times the bracket to the power of 4. u 
+dash v 
+
+159
+00:05:55,090 --> 00:05:58,590
+dash and our v and can thus 
+
+160
+00:05:58,590 --> 00:06:00,930
+tune the first derivative we 
+
+161
+00:06:00,930 --> 00:06:03,110
+now simply put v dash u dash and v 
+
+162
+00:06:03,110 --> 00:06:05,570
+in the places we see here 
+
+163
+00:06:05,570 --> 00:06:08,370
+that is 15 times bracket on x 
+
+164
+00:06:08,370 --> 00:06:10,250
+square minus four bracket to the power of 
+4 
+
+165
+00:06:10,250 --> 00:06:12,090
+so this is still our inner 
+
+166
+00:06:12,090 --> 00:06:14,430
+function equation and the 15 times the 
+
+167
+00:06:14,430 --> 00:06:17,450
+bracket to the power of 4 is the new outer 
+
+168
+00:06:17,450 --> 00:06:19,870
+function so the first derivative of the 
+
+169
+00:06:19,870 --> 00:06:23,470
+outer function and the times 2x, which 
+
+170
+00:06:23,470 --> 00:06:25,190
+are the derivative of the inner 
+
+171
+00:06:25,190 --> 00:06:27,430
+function. We can now 
+
+172
+00:06:27,430 --> 00:06:30,090
+simplify this in this case. 15 times 2x 
+
+173
+00:06:30,090 --> 00:06:33,990
+is 30x and so we 
+
+174
+00:06:33,990 --> 00:06:36,370
+arrive at 30x times brackets to the 
+
+175
+00:06:36,370 --> 00:06:39,210
+power of x² minus 4 brackets to the power 
+of 4 and so we have now 
+
+176
+00:06:39,210 --> 00:06:41,050
+successfully 
+
+177
+00:06:41,050 --> 00:06:43,890
+determined our first derivative. We have 
+
+178
+00:06:43,890 --> 00:06:46,510
+another example for this. This 
+
+179
+00:06:46,510 --> 00:06:49,950
+really shows that it's a bit shorter. And 
+that's how 
+
+180
+00:06:49,950 --> 00:06:51,130
+it's often really 
+
+181
+00:06:51,130 --> 00:06:52,070
+written down when you 
+
+182
+00:06:52,070 --> 00:06:53,090
+calculate it , because it's still 
+
+183
+00:06:53,090 --> 00:06:55,230
+very clear and can be done 
+
+184
+00:06:55,230 --> 00:06:56,890
+at a reasonable speed. 
+
+185
+00:06:57,750 --> 00:06:59,330
+In this case, we have the example f 
+
+186
+00:06:59,330 --> 00:07:01,530
+of x is equal to 1 half times x² minus 
+
+187
+00:07:01,530 --> 00:07:04,570
+3x plus 1, the whole to the power of 3. 
+
+188
+00:07:04,570 --> 00:07:06,090
+First, we 
+
+189
+00:07:06,090 --> 00:07:07,470
+
+190
+00:07:07,470 --> 00:07:09,390
+write down our inner and outer functional 
+equation . The inner functional equation V 
+
+191
+00:07:09,390 --> 00:07:12,330
+of X is equal to X² minus 3X plus 1 
+
+192
+00:07:12,330 --> 00:07:14,810
+and the outer functional equation U 
+
+193
+00:07:14,810 --> 00:07:17,170
+of X is equal to 1.5 times 
+
+194
+00:07:17,170 --> 00:07:20,770
+parenthesis to the power of 3 or 1.5X to 
+the power of 3. 
+
+195
+00:07:20,830 --> 00:07:21,870
+You can now imagine this 
+
+196
+00:07:21,990 --> 00:07:24,330
+however you like. And in the next 
+
+197
+00:07:24,330 --> 00:07:28,110
+step we derive V and U. This 
+
+198
+00:07:28,110 --> 00:07:30,790
+means that V' of X is then equal to 2X 
+
+199
+00:07:30,790 --> 00:07:32,510
+minus 3, simply the derivative 
+
+200
+00:07:32,510 --> 00:07:35,290
+of this. U' of x is then equal to 1 
+
+201
+00:07:35,290 --> 00:07:38,230
+half times 3 times the bracket to the 
+power of 2 only 
+
+202
+00:07:38,230 --> 00:07:40,110
+1 half times 3 can also 
+
+203
+00:07:40,110 --> 00:07:43,730
+simply be made into 3 halves And 
+
+204
+00:07:43,730 --> 00:07:46,250
+we now enter this into the formula So we 
+arrive 
+
+205
+00:07:46,250 --> 00:07:49,510
+at 3 halves times the bracket to x² 
+
+206
+00:07:49,510 --> 00:07:53,310
+minus 3x plus 1 bracket to the power of 2 
+times 
+
+207
+00:07:53,310 --> 00:07:55,690
+2x minus 3 So as I said, this is 
+
+208
+00:07:55,690 --> 00:07:57,130
+still the normal inner 
+
+209
+00:07:57,130 --> 00:07:59,710
+function These 3 halves times the 
+
+210
+00:07:59,710 --> 00:08:01,410
+bracket to the power of 2 is the 
+derivative of the 
+
+211
+00:08:01,410 --> 00:08:03,870
+outer function And the 2x-3 here at the 
+
+212
+00:08:03,870 --> 00:08:05,550
+end is the derivative of the 
+
+213
+00:08:05,550 --> 00:08:08,070
+inner function. It's still 
+
+214
+00:08:08,070 --> 00:08:10,370
+a bit confusing as it is , so you could 
+
+215
+00:08:10,370 --> 00:08:13,430
+simplify it by 
+
+216
+00:08:13,430 --> 00:08:19,090
+dragging the 3 halves in here. And that 
+brings us to 
+
+217
+00:08:19,090 --> 00:08:22,010
+the next 
+
+218
+00:08:22,010 --> 00:08:23,310
+derivation rule, which is the 
+
+219
+00:08:23,310 --> 00:08:26,630
+product rule. The product rule 
+
+220
+00:08:26,630 --> 00:08:28,130
+is always used when we 
+
+221
+00:08:28,130 --> 00:08:29,330
+
+222
+00:08:29,330 --> 00:08:32,270
+multiply two functions together . This 
+means 
+
+223
+00:08:32,270 --> 00:08:33,830
+that we see a first function here and 
+
+224
+00:08:33,830 --> 00:08:35,830
+a second function here and these are 
+
+225
+00:08:35,830 --> 00:08:37,290
+separated by a sign. 
+
+226
+00:08:40,510 --> 00:08:42,710
+We speak of the first and second function 
+here 
+
+227
+00:08:42,710 --> 00:08:44,910
+because it is not 
+
+228
+00:08:44,910 --> 00:08:47,610
+too important which of the 
+
+229
+00:08:47,610 --> 00:08:50,290
+two we define as u and v respectively. 
+
+230
+00:08:52,510 --> 00:08:54,090
+Therefore, we simply speak of a 
+
+231
+00:08:54,090 --> 00:08:56,190
+first and a second function and 
+
+232
+00:08:56,190 --> 00:08:58,370
+one is called u of x and the other 
+
+233
+00:08:58,370 --> 00:09:02,090
+is called v of x. Importantly, it only 
+
+234
+00:09:02,090 --> 00:09:03,990
+matters which 
+
+235
+00:09:03,990 --> 00:09:05,410
+is u and which is v for the product rule. 
+
+236
+00:09:05,410 --> 00:09:06,690
+
+237
+00:09:06,830 --> 00:09:08,370
+It doesn't matter for the chain rule, 
+which we just had, 
+
+238
+00:09:08,370 --> 00:09:10,050
+
+239
+00:09:10,050 --> 00:09:12,350
+and it doesn't matter for the third 
+derivative rule, which follows shortly. 
+This 
+
+240
+00:09:12,350 --> 00:09:13,930
+is only the case with the product rule. 
+
+241
+00:09:14,210 --> 00:09:15,850
+We'll see why this is the case 
+
+242
+00:09:15,850 --> 00:09:18,110
+in a moment. So as I said, 
+
+243
+00:09:18,250 --> 00:09:19,730
+product rule, we have two 
+
+244
+00:09:19,730 --> 00:09:21,570
+function terms that both 
+
+245
+00:09:21,570 --> 00:09:23,030
+contain our variable and 
+
+246
+00:09:23,030 --> 00:09:26,450
+are multiplied by each other . and 
+therefore 
+
+247
+00:09:26,450 --> 00:09:28,070
+we form a product and need 
+
+248
+00:09:28,070 --> 00:09:31,510
+our product rule accordingly. 
+
+249
+00:09:31,510 --> 00:09:33,770
+Here we see the structure u times v , 
+
+250
+00:09:33,770 --> 00:09:35,970
+i.e. one of the two functions that 
+
+251
+00:09:35,970 --> 00:09:37,090
+are multiplied together 
+
+252
+00:09:37,130 --> 00:09:39,490
+is called u , the other is called v . The 
+first 
+
+253
+00:09:39,490 --> 00:09:43,870
+derivative is then u' times v plus u 
+
+254
+00:09:43,870 --> 00:09:47,070
+times v' . We see that we have 
+
+255
+00:09:47,070 --> 00:09:48,330
+a plus here, which 
+
+256
+00:09:48,330 --> 00:09:50,650
+means that we can also swap these two 
+terms, in which case 
+
+257
+00:09:50,650 --> 00:09:51,890
+nothing more happens, i.e. the 
+
+258
+00:09:51,890 --> 00:09:53,210
+two multiplications. Whether we now 
+
+259
+00:09:53,210 --> 00:09:56,310
+
+260
+00:09:56,310 --> 00:09:59,450
+calculate u' from x times v from x plus u 
+from x times v' from x or u from x times 
+v' 
+
+261
+00:09:59,590 --> 00:10:02,770
+from x plus u' from x times v from x, 
+
+262
+00:10:02,770 --> 00:10:04,870
+it doesn't matter. Therefore, we can 
+
+263
+00:10:04,870 --> 00:10:07,670
+swap it with the product rule. The 
+mnemonic 
+
+264
+00:10:07,670 --> 00:10:10,330
+behind this is first function 
+
+265
+00:10:10,330 --> 00:10:12,010
+derived times second not 
+
+266
+00:10:12,010 --> 00:10:14,030
+derived plus first function not 
+
+267
+00:10:14,030 --> 00:10:16,330
+derived times second derived. 
+
+268
+00:10:16,330 --> 00:10:17,770
+So you multiply one 
+
+269
+00:10:17,770 --> 00:10:19,730
+derived function by the 
+
+270
+00:10:19,730 --> 00:10:21,270
+non-derived function . The important thing 
+is that you 
+
+271
+00:10:21,270 --> 00:10:23,050
+have derived both once at the end. 
+
+272
+00:10:25,550 --> 00:10:30,790
+And 
+
+273
+00:10:30,790 --> 00:10:31,870
+we will now use this example to illustrate 
+this further. 
+
+274
+00:10:33,330 --> 00:10:35,490
+We have the example f of x is 
+
+275
+00:10:35,490 --> 00:10:41,730
+equal to 3x² times 5x³ minus 2x. Our u 
+
+276
+00:10:41,730 --> 00:10:44,390
+of x is then 3x², our v of x is 
+
+277
+00:10:44,390 --> 00:10:47,090
+then equal to 5x³ minus 2x. And we 
+
+278
+00:10:47,090 --> 00:10:48,710
+now first form the first 
+
+279
+00:10:48,710 --> 00:10:51,010
+derivatives of u and of v. That 
+
+280
+00:10:51,010 --> 00:10:52,730
+is, u... line of x is then 2 
+
+281
+00:10:52,730 --> 00:10:56,490
+times 3x, which is 6x. V' of x is 
+
+282
+00:10:56,490 --> 00:11:00,050
+then equal to 3 times 5x² minus 2. 3 times 
+
+283
+00:11:00,050 --> 00:11:03,950
+5x² is then 15x² minus 2. And so 
+
+284
+00:11:03,950 --> 00:11:06,070
+we have our four terms that we 
+
+285
+00:11:06,070 --> 00:11:07,350
+need to 
+
+286
+00:11:07,350 --> 00:11:10,730
+determine the derivative. We now insert 
+our u, 
+
+287
+00:11:10,810 --> 00:11:13,910
+v, u' and v' into the formula for the 
+
+288
+00:11:13,910 --> 00:11:16,070
+derivative. So u' of x times v 
+
+289
+00:11:16,070 --> 00:11:20,010
+of x plus u of x times v' of x. 
+
+290
+00:11:20,010 --> 00:11:23,550
+This gives us 6x times 5x to the power of 
+3 minus 
+
+291
+00:11:23,550 --> 00:11:31,050
+2x plus 3x² times 15x² minus 2. This is 
+
+292
+00:11:31,050 --> 00:11:32,210
+basically our first 
+
+293
+00:11:32,210 --> 00:11:34,230
+derivative. If we 
+
+294
+00:11:34,230 --> 00:11:36,030
+were to insert an x there now , we would 
+really have 
+
+295
+00:11:36,030 --> 00:11:38,610
+the increase at this point. 
+
+296
+00:11:38,610 --> 00:11:41,230
+However, it is not necessarily expedient 
+
+297
+00:11:41,230 --> 00:11:42,710
+to continue calculating with this result. 
+
+298
+00:11:43,070 --> 00:11:45,410
+That's why you should always try 
+
+299
+00:11:45,410 --> 00:11:47,410
+to simplify at the end. And that's what 
+
+300
+00:11:47,410 --> 00:11:49,210
+we do. We also multiply 
+
+301
+00:11:49,210 --> 00:11:51,190
+out the brackets. 
+
+302
+00:11:51,190 --> 00:11:54,570
+Of course, it would be fair to say that 
+
+303
+00:11:54,570 --> 00:11:56,310
+if we had 
+
+304
+00:11:56,310 --> 00:11:57,630
+multiplied the brackets out at the 
+beginning, we wouldn 
+
+305
+00:11:57,630 --> 00:11:59,330
+'t have needed a product rule. That 
+
+306
+00:11:59,330 --> 00:12:01,870
+is true. However, we will 
+
+307
+00:12:01,870 --> 00:12:03,530
+also look at an example of an 
+
+308
+00:12:03,530 --> 00:12:06,790
+E-function here and with E-functions 
+
+309
+00:12:06,790 --> 00:12:08,470
+it is usually unavoidable that you 
+
+310
+00:12:08,470 --> 00:12:09,930
+need the product rule, i.e. with 
+
+311
+00:12:09,930 --> 00:12:11,810
+compound E-functions. 
+
+312
+00:12:11,810 --> 00:12:12,670
+As I said, we have an 
+
+313
+00:12:12,670 --> 00:12:15,610
+example of this in a moment. Well, we're 
+going to factor 
+
+314
+00:12:15,610 --> 00:12:17,790
+out for now, i.e. 6x times 5x 
+
+315
+00:12:17,790 --> 00:12:21,230
+to the power of 3 is 6x times minus 2x and 
+6x 
+
+316
+00:12:21,230 --> 00:12:24,350
+times 5x to the power of 3 is 30x to the 
+power of 4, 6x times 
+
+317
+00:12:24,350 --> 00:12:29,070
+minus 2x is minus 12x², 3x² times 
+
+318
+00:12:29,070 --> 00:12:34,290
+15x² is 45x to the power of 4 and 3x² 
+times 
+
+319
+00:12:34,290 --> 00:12:37,990
+minus 2 is minus 6x². And 
+
+320
+00:12:37,990 --> 00:12:38,630
+we can 
+
+321
+00:12:38,630 --> 00:12:41,750
+summarize this even further , 30x to the 
+power of 4 plus 45x 
+
+322
+00:12:41,750 --> 00:12:45,030
+to the power of 4 are the 75. x to the 
+power of 4 minus 12 
+
+323
+00:12:45,030 --> 00:12:48,790
+x² minus 6 x² are the minus 18 x² 
+
+324
+00:12:48,790 --> 00:12:50,510
+and this is now really our 
+
+325
+00:12:50,510 --> 00:12:52,550
+derivation, with which we 
+
+326
+00:12:52,550 --> 00:12:56,760
+can continue to calculate wonderfully . 
+Here we have 
+
+327
+00:12:56,760 --> 00:12:58,480
+the next example with 
+
+328
+00:12:58,480 --> 00:12:59,860
+the e-function. We see here, 
+
+329
+00:12:59,900 --> 00:13:02,520
+brackets open, 1 half x to the power of 3 
+minus 5x 
+
+330
+00:13:02,520 --> 00:13:05,320
+plus 3, brackets closed, times e to the 
+power of x. 
+
+331
+00:13:05,320 --> 00:13:07,620
+Here we have the e-function that 
+
+332
+00:13:07,620 --> 00:13:09,800
+contains our x and here we also have 
+
+333
+00:13:09,800 --> 00:13:10,920
+a term that contains our 
+
+334
+00:13:10,920 --> 00:13:13,540
+function variable x. Consequently, 
+
+335
+00:13:13,540 --> 00:13:14,640
+we definitely need the 
+
+336
+00:13:14,640 --> 00:13:16,580
+product rule. It should also be 
+
+337
+00:13:16,580 --> 00:13:18,180
+noted that in order to 
+
+338
+00:13:18,180 --> 00:13:19,440
+derive the e-function , we actually 
+
+339
+00:13:19,440 --> 00:13:21,920
+also need the chain rule. However, we 
+
+340
+00:13:21,920 --> 00:13:24,920
+only have e to the power of x, so we 
+
+341
+00:13:24,920 --> 00:13:26,140
+don't need the chain rule in this case, 
+because 
+
+342
+00:13:26,140 --> 00:13:28,880
+e to the power of x is derived from e to 
+the power of x. 
+
+343
+00:13:28,880 --> 00:13:30,280
+But you definitely need the 
+
+344
+00:13:30,280 --> 00:13:32,920
+chain rule, if you have something like 
+
+345
+00:13:32,920 --> 00:13:37,220
+e to the power of 2x or something more 
+complex 
+
+346
+00:13:37,220 --> 00:13:39,720
+in the exponent yes, then 
+
+347
+00:13:39,720 --> 00:13:41,720
+you definitely need it, that 
+
+348
+00:13:41,720 --> 00:13:44,160
+'s one more point well 
+
+349
+00:13:45,520 --> 00:13:49,160
+we first define our 
+
+350
+00:13:49,160 --> 00:13:50,980
+two function equations, that is 
+
+351
+00:13:50,980 --> 00:13:53,080
+u and v we have decided u 
+
+352
+00:13:53,080 --> 00:13:54,980
+of x is equal to 1 half x to the power of 
+3 
+
+353
+00:13:54,980 --> 00:13:57,960
+minus 5x plus 3 and v of x is 
+
+354
+00:13:57,960 --> 00:14:00,220
+simply e to the power of x and next 
+
+355
+00:14:00,220 --> 00:14:01,140
+we determine the 
+
+356
+00:14:01,140 --> 00:14:02,420
+derivative of both. As we have just said, 
+
+357
+00:14:02,560 --> 00:14:04,460
+the derivative of e to the power of x is e 
+to the power of 
+
+358
+00:14:04,460 --> 00:14:07,940
+x, so v' of x is equal to e 
+
+359
+00:14:07,940 --> 00:14:10,800
+to the power of x. Now we still need the 
+
+360
+00:14:10,800 --> 00:14:13,920
+derivative of u of x. u' of x is 
+
+361
+00:14:13,920 --> 00:14:17,000
+then equal to 3 half x² minus 5, so 
+
+362
+00:14:17,000 --> 00:14:18,540
+simply 1 half x to the power of 3 is 
+
+363
+00:14:18,540 --> 00:14:21,380
+derived from 3 half x, minus 5x is 
+
+364
+00:14:21,380 --> 00:14:23,360
+derived from minus 5 and the plus 3 
+
+365
+00:14:23,360 --> 00:14:26,240
+is omitted. and we now put 
+
+366
+00:14:26,240 --> 00:14:27,540
+all this back into the approach for the 
+
+367
+00:14:27,540 --> 00:14:29,040
+first derivative and thus 
+
+368
+00:14:29,040 --> 00:14:31,800
+arrive at, parenthesis open, 3 half x² 
+minus 5, 
+
+369
+00:14:31,940 --> 00:14:34,200
+parenthesis closed, times e to the power 
+of x plus, 
+
+370
+00:14:34,280 --> 00:14:37,120
+parenthesis open, 1 half x to the power of 
+3 minus 5x 
+
+371
+00:14:37,120 --> 00:14:40,020
+plus 3, parenthesis closed, times e to the 
+power of x. 
+
+372
+00:14:43,120 --> 00:14:44,920
+And in principle, that would already be 
+our 
+
+373
+00:14:44,920 --> 00:14:48,220
+first derivative. The only problem 
+
+374
+00:14:48,300 --> 00:14:50,300
+we still have here is that if 
+
+375
+00:14:50,300 --> 00:14:51,640
+we have an e-function like this, 
+
+376
+00:14:51,640 --> 00:14:53,520
+we should always use it... If it 
+
+377
+00:14:53,520 --> 00:14:55,580
+is somehow possible. 
+
+378
+00:14:55,580 --> 00:14:57,200
+But first we have to make 
+
+379
+00:14:57,200 --> 00:14:58,900
+sure that we really have the same e 
+
+380
+00:14:58,900 --> 00:15:00,200
+-function both times.  So both times e 
+
+381
+00:15:00,200 --> 00:15:02,660
+to the power of x and not once e to the 
+power of x and 
+
+382
+00:15:02,660 --> 00:15:05,740
+once 2 e to the power of x. We 
+
+383
+00:15:05,740 --> 00:15:07,320
+only have e to the power of x both times , 
+so we can 
+
+384
+00:15:07,320 --> 00:15:08,120
+now 
+
+385
+00:15:08,120 --> 00:15:11,100
+add them together without any worries . So 
+3 half x² minus 
+
+386
+00:15:11,100 --> 00:15:14,280
+5 plus 1 half x to the power of 3 minus 5x 
+plus 
+
+387
+00:15:14,280 --> 00:15:15,940
+3. That's in this bracket. 
+
+388
+00:15:15,940 --> 00:15:18,420
+and if you simplify and 
+
+389
+00:15:18,420 --> 00:15:20,640
+organize it , you get 1 half x to the 
+power of 3 
+
+390
+00:15:20,640 --> 00:15:25,220
+plus 3 half x squared minus 5x minus 
+
+391
+00:15:25,220 --> 00:15:28,300
+2 only, because minus 5 plus 3 is 
+
+392
+00:15:28,300 --> 00:15:30,800
+minus 2 and this bracket times e to the 
+power of 
+
+393
+00:15:30,800 --> 00:15:32,320
+x and that's ultimately 
+
+394
+00:15:32,320 --> 00:15:35,140
+our solution. As you can see, this first 
+
+395
+00:15:35,140 --> 00:15:37,520
+derivative has the same 
+
+396
+00:15:37,520 --> 00:15:39,420
+structure as our function equation 
+
+397
+00:15:39,420 --> 00:15:41,460
+and it is much 
+
+398
+00:15:41,460 --> 00:15:43,360
+easier to continue calculating with it 
+than with this. 
+
+399
+00:15:45,620 --> 00:15:47,620
+This brings 
+
+400
+00:15:47,620 --> 00:15:49,460
+us to the last derivation rule, 
+
+401
+00:15:49,460 --> 00:15:52,180
+the so-called quotient rule. The 
+
+402
+00:15:52,180 --> 00:15:53,600
+quotient rule is always 
+
+403
+00:15:53,600 --> 00:15:55,480
+used when there is a fraction 
+
+404
+00:15:55,480 --> 00:15:57,540
+that consists of a numerator and a 
+
+405
+00:15:57,540 --> 00:15:59,880
+denominator function. So 
+
+406
+00:15:59,880 --> 00:16:01,840
+please don't get confused. 
+
+407
+00:16:01,920 --> 00:16:03,040
+In order to 
+
+408
+00:16:03,040 --> 00:16:05,420
+use the quotient rule , you must 
+
+409
+00:16:05,420 --> 00:16:08,400
+have your variable in both the numerator 
+and the denominator . So in 
+
+410
+00:16:08,400 --> 00:16:11,240
+both, that's really important. And 
+
+411
+00:16:11,240 --> 00:16:13,400
+now we also talk about u of x 
+
+412
+00:16:13,400 --> 00:16:16,640
+is the numerator function, v of 
+
+413
+00:16:16,640 --> 00:16:18,560
+x is the denominator function and 
+
+414
+00:16:18,560 --> 00:16:19,940
+here you really must not 
+
+415
+00:16:19,940 --> 00:16:21,100
+mix them up under any circumstances, 
+otherwise you have 
+
+416
+00:16:21,100 --> 00:16:24,820
+unfortunately made a mistake. And 
+
+417
+00:16:24,820 --> 00:16:27,040
+that's why we often talk 
+
+418
+00:16:27,040 --> 00:16:28,680
+about numerator and denominator functions 
+here. 
+
+419
+00:16:31,940 --> 00:16:33,380
+Our functional equation f of x has 
+
+420
+00:16:33,380 --> 00:16:35,300
+the structure u of x by v of x, 
+
+421
+00:16:35,340 --> 00:16:36,540
+so u of x is 
+
+422
+00:16:36,540 --> 00:16:38,200
+the numerator function, as just mentioned, 
+and v of x 
+
+423
+00:16:38,200 --> 00:16:39,500
+is the denominator function. The first 
+
+424
+00:16:39,500 --> 00:16:41,940
+derivative is then u' of x times v 
+
+425
+00:16:41,940 --> 00:16:44,100
+of x minus, and that's why it's so 
+
+426
+00:16:44,100 --> 00:16:46,140
+important when we subtract here, 
+
+427
+00:16:46,200 --> 00:16:48,060
+so we can't 
+
+428
+00:16:48,060 --> 00:16:52,160
+mix it up any more. So minus u of x times 
+
+429
+00:16:52,160 --> 00:16:54,200
+v' of x, the whole thing divided by v 
+
+430
+00:16:54,200 --> 00:16:57,820
+of x squared. That means we 
+
+431
+00:16:57,820 --> 00:17:00,000
+end up dividing by our 
+
+432
+00:17:00,000 --> 00:17:03,120
+denominator function squared. I would 
+
+433
+00:17:03,120 --> 00:17:04,780
+always leave this with a power of 2 at the 
+
+434
+00:17:04,780 --> 00:17:06,220
+end, so you can see 
+
+435
+00:17:06,220 --> 00:17:08,200
+what it looks like straight away. And it 
+
+436
+00:17:08,200 --> 00:17:11,400
+doesn't necessarily always make sense to 
+solve it 
+
+437
+00:17:11,400 --> 00:17:12,980
+using the binomial formula. 
+
+438
+00:17:14,080 --> 00:17:15,960
+So you could also formulate it 
+
+439
+00:17:15,960 --> 00:17:18,680
+as numerator derived times denominator 
+
+440
+00:17:18,680 --> 00:17:20,880
+minus numerator derived times denominator 
+
+441
+00:17:20,880 --> 00:17:22,720
+and everything 
+
+442
+00:17:22,720 --> 00:17:27,950
+divided by the denominator squared. And 
+
+443
+00:17:27,950 --> 00:17:30,250
+then we continue with this or apply it 
+
+444
+00:17:30,250 --> 00:17:32,010
+to our example. We have 
+
+445
+00:17:32,010 --> 00:17:34,610
+f of x is equal to 2x by x² minus 
+
+446
+00:17:34,610 --> 00:17:37,830
+4. 2x is our numerator function, x² 
+
+447
+00:17:37,830 --> 00:17:39,490
+minus 4. And here is our 
+
+448
+00:17:39,490 --> 00:17:41,950
+denominator function. First, 
+
+449
+00:17:41,950 --> 00:17:44,790
+we determine u' and v' again. The 
+
+450
+00:17:44,790 --> 00:17:47,090
+derivative of 2x is simply 2, and 
+
+451
+00:17:47,090 --> 00:17:50,330
+the derivative of x²-4 is also 2x. 
+
+452
+00:17:51,290 --> 00:17:53,590
+And with that, we have 
+
+453
+00:17:53,590 --> 00:17:55,870
+determined our four function terms, which 
+we 
+
+454
+00:17:55,870 --> 00:17:57,050
+now insert back into our approach 
+
+455
+00:17:57,050 --> 00:17:58,650
+. Here we can see this 
+
+456
+00:17:58,650 --> 00:18:01,350
+again. f' of x is equal to u' of x 
+
+457
+00:18:01,350 --> 00:18:04,850
+times v of x minus u of x times v' of 
+
+458
+00:18:04,850 --> 00:18:06,750
+x. The whole thing divided by v of x 
+
+459
+00:18:06,750 --> 00:18:09,710
+squared. In our case, it 
+
+460
+00:18:09,710 --> 00:18:11,870
+looks like this, 2 times bracket on 
+
+461
+00:18:11,870 --> 00:18:15,670
+x² minus 4 bracket off minus 2x times 2x 
+
+462
+00:18:15,670 --> 00:18:19,190
+divided by x² minus 4 squared. 
+
+463
+00:18:21,270 --> 00:18:23,830
+Again, this is basically 
+
+464
+00:18:23,830 --> 00:18:25,950
+our derivative, but 
+
+465
+00:18:25,950 --> 00:18:27,410
+of course we 
+
+466
+00:18:27,410 --> 00:18:29,310
+should simplify it if possible, 
+
+467
+00:18:29,310 --> 00:18:31,090
+so this is our next 
+
+468
+00:18:31,090 --> 00:18:34,030
+step. First, we solve the... 
+
+469
+00:18:34,050 --> 00:18:38,190
+bracket, 2 times x² is 2x², 2 times 
+
+470
+00:18:38,190 --> 00:18:40,970
+minus 4 is minus 8 and minus 2x 
+
+471
+00:18:40,970 --> 00:18:44,650
+times 2x is minus 4x². 
+
+472
+00:18:44,650 --> 00:18:45,810
+We don't change the denominator , as I 
+
+473
+00:18:45,810 --> 00:18:46,790
+just said, it's best to leave it 
+
+474
+00:18:46,790 --> 00:18:50,030
+as it is. What we 
+
+475
+00:18:50,030 --> 00:18:52,150
+can see now is that we have 2x² minus 
+
+476
+00:18:52,150 --> 00:18:53,610
+4x² here , which we can also 
+
+477
+00:18:53,610 --> 00:18:55,510
+add together to get 
+
+478
+00:18:55,510 --> 00:18:58,670
+minus 2x² minus 8 and that is now 
+
+479
+00:18:58,670 --> 00:19:00,950
+really the final form of representation, 
+
+480
+00:19:01,010 --> 00:19:02,690
+which is already much more compact 
+
+481
+00:19:02,690 --> 00:19:03,990
+than... What we see here above. 
+
+482
+00:19:05,130 --> 00:19:06,670
+So it always makes sense to 
+
+483
+00:19:06,670 --> 00:19:09,630
+simplify it. Of course, we have 
+
+484
+00:19:09,630 --> 00:19:10,670
+another example of the 
+
+485
+00:19:10,670 --> 00:19:12,050
+quotient rule. We can see that here. 
+
+486
+00:19:12,390 --> 00:19:17,230
+f of x is equal to 4x²-0.2x±3 by 
+
+487
+00:19:17,230 --> 00:19:21,410
+x±1. Here too, 
+
+488
+00:19:21,410 --> 00:19:22,590
+we first define our numerator and our 
+
+489
+00:19:22,590 --> 00:19:24,850
+denominator function. our numerator 
+function 
+
+490
+00:19:24,850 --> 00:19:29,130
+is 4x²-0.2x±3 and our 
+
+491
+00:19:29,130 --> 00:19:33,470
+denominator function is x±1. And now 
+
+492
+00:19:33,470 --> 00:19:34,810
+we do what we 
+
+493
+00:19:34,810 --> 00:19:36,670
+have always done now, 
+
+494
+00:19:36,670 --> 00:19:39,570
+i.e. derive the two functions, 
+
+495
+00:19:39,650 --> 00:19:43,110
+i.e. form u' and v'. u' is then 
+
+496
+00:19:43,110 --> 00:19:49,170
+4x² becomes 8x, -0.2x becomes -0.2 
+
+497
+00:19:49,170 --> 00:19:50,870
+and the plus 3 is omitted. This gives us 
+
+498
+00:19:50,870 --> 00:19:57,340
+4u' 8x-0.2. It is 
+
+499
+00:19:57,340 --> 00:19:59,520
+similar with v from x. We derive v from x, 
+
+500
+00:19:59,560 --> 00:20:01,920
+thus obtaining v' from x. x derived 
+
+501
+00:20:01,920 --> 00:20:03,300
+is 1. We must 
+
+502
+00:20:03,300 --> 00:20:04,940
+always think of x as 1x. Then 
+
+503
+00:20:04,940 --> 00:20:07,520
+the 1 remains and the plus 1 is omitted. 
+
+504
+00:20:08,020 --> 00:20:10,220
+We put these four terms back into 
+
+505
+00:20:10,220 --> 00:20:11,820
+the formula and arrive at, 
+
+506
+00:20:11,920 --> 00:20:15,660
+parenthesis open, 8x-0.2, parenthesis 
+closed. 
+
+507
+00:20:15,660 --> 00:20:18,800
+As I said, this is our numerator function 
+
+508
+00:20:18,800 --> 00:20:22,520
+derived times x plus 1, this is 
+
+509
+00:20:22,520 --> 00:20:25,440
+our denominator function minus 
+
+510
+00:20:25,440 --> 00:20:28,600
+parenthesis to 4x² minus 0.2x plus 3, 
+
+511
+00:20:28,720 --> 00:20:30,820
+this is simply our numerator function 
+
+512
+00:20:30,820 --> 00:20:33,000
+and this is the derivative of our 
+
+513
+00:20:33,000 --> 00:20:35,880
+denominator function. And the whole thing 
+divided 
+
+514
+00:20:35,880 --> 00:20:40,000
+by the denominator squared. And 
+
+515
+00:20:40,000 --> 00:20:42,180
+again, this is basically 
+
+516
+00:20:42,180 --> 00:20:43,620
+the first derivative. 
+
+517
+00:20:43,980 --> 00:20:44,960
+But of course we want to 
+
+518
+00:20:44,960 --> 00:20:48,120
+simplify it. That's why we dissolve the 
+
+519
+00:20:48,120 --> 00:20:50,120
+brackets. As we can see above, 
+
+520
+00:20:50,140 --> 00:20:51,800
+we are multiplying two brackets. 
+
+521
+00:20:51,880 --> 00:20:56,060
+So 8x times x, 8x times 1, minus 0 
+
+522
+00:20:56,060 --> 00:20:59,700
+.2 times x and minus 0.2 times 1. 8x times 
+
+523
+00:20:59,700 --> 00:21:03,080
+x is 8x², 8x times 1 is 
+
+524
+00:21:03,080 --> 00:21:06,140
+plus 8x, minus 0.2 times x is 
+
+525
+00:21:06,140 --> 00:21:09,160
+minus 0.2x and minus 0.2 times 1 is 
+
+526
+00:21:09,160 --> 00:21:12,720
+minus 0.2. You 
+
+527
+00:21:12,720 --> 00:21:13,480
+might think it's a 
+
+528
+00:21:13,480 --> 00:21:14,220
+bit easier here on the right, because 
+we're 
+
+529
+00:21:14,220 --> 00:21:15,560
+only multiplying the parenthesis by 
+
+530
+00:21:15,560 --> 00:21:17,480
+1, but we have to be careful, there' 
+
+531
+00:21:17,480 --> 00:21:19,760
+s a minus in front of the parenthesis and 
+so 
+
+532
+00:21:19,760 --> 00:21:21,420
+all the signs inside 
+
+533
+00:21:21,420 --> 00:21:23,400
+the parenthesis are reversed. So 4x² 
+
+534
+00:21:23,400 --> 00:21:27,120
+becomes minus 4x², minus 0.2x becomes 
+
+535
+00:21:27,120 --> 00:21:29,960
+plus 0.2x and plus 3 becomes 
+
+536
+00:21:29,960 --> 00:21:32,620
+minus 3. We have now 
+
+537
+00:21:32,620 --> 00:21:33,560
+
+538
+00:21:33,560 --> 00:21:35,560
+resolved all of our brackets and are 
+
+539
+00:21:35,560 --> 00:21:37,380
+of course trying to add everything 
+together that 
+
+540
+00:21:37,380 --> 00:21:39,080
+we can. As you can see, 
+
+541
+00:21:39,080 --> 00:21:42,620
+we don't do anything to the denominator. 
+8x² minus 
+
+542
+00:21:42,620 --> 00:21:50,000
+4x² is 4x². 8x minus 0.2x plus 0.2x 
+
+543
+00:21:50,000 --> 00:21:53,820
+is simply plus 8x. And minus 0.2 
+
+544
+00:21:53,820 --> 00:21:57,500
+minus 3 is minus 3.2, so 
+
+545
+00:21:57,500 --> 00:22:01,960
+this is our first derivative. 
+
+546
+00:22:01,960 --> 00:22:04,120
+And that brings us to the end of the 
+
+547
+00:22:04,120 --> 00:22:06,100
+webinar. Thank you 
+
+548
+00:22:06,100 --> 00:22:07,580
+very much for your attention. 

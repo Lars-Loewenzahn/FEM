@@ -1,0 +1,4032 @@
+1
+00:00:02,830 --> 00:00:05,010
+Guten Abend und willkommen zu unserem
+
+2
+00:00:05,010 --> 00:00:07,950
+Webinar zum Thema Brüche. Bevor es
+
+3
+00:00:07,950 --> 00:00:10,810
+losgeht, ist das Bild zu sehen, wo
+
+4
+00:00:10,810 --> 00:00:12,730
+momentan Brüche steht und ist auch
+
+5
+00:00:12,730 --> 00:00:15,310
+der Ton laut, klar und deutlich. Wenn
+
+6
+00:00:15,310 --> 00:00:17,050
+ja, einmal bitte ganz kurz rechts im
+
+7
+00:00:17,050 --> 00:00:19,010
+Chat mit einem OK bestätigen oder
+
+8
+00:00:19,010 --> 00:00:20,370
+irgendwas in der Richtung und dann
+
+9
+00:00:20,370 --> 00:00:21,390
+können wir auch sofort loslegen.
+
+10
+00:00:24,470 --> 00:00:27,610
+Wunderbar, okay. Also, heute machen
+
+11
+00:00:27,610 --> 00:00:29,310
+wir eine kleine Übersicht zum Thema
+
+12
+00:00:29,310 --> 00:00:31,950
+Brüche. Was sind Brüche? Wie werden
+
+13
+00:00:31,950 --> 00:00:33,830
+die dargestellt? Wofür stehen die?
+
+14
+00:00:34,270 --> 00:00:36,070
+und ein paar Rechenoperationen, und
+
+15
+00:00:36,070 --> 00:00:38,330
+zwar erweitern, kürzen und die
+
+16
+00:00:38,330 --> 00:00:40,290
+Viergrundrechenarten plus, minus, mal
+
+17
+00:00:40,290 --> 00:00:42,490
+und geteilt. Aber wir beginnen eben
+
+18
+00:00:42,490 --> 00:00:44,050
+ganz am Anfang und stellen einfach
+
+19
+00:00:44,050 --> 00:00:45,990
+nochmal diese Frage, was ist ein
+
+20
+00:00:45,990 --> 00:00:48,130
+Bruch? So, jetzt kann man natürlich
+
+21
+00:00:48,130 --> 00:00:49,510
+erstmal sagen, okay, ein Bruch sind
+
+22
+00:00:49,510 --> 00:00:51,210
+zwei Zahlen, die man übereinander
+
+23
+00:00:51,210 --> 00:00:52,950
+schreibt mit einem Strich in der
+
+24
+00:00:52,950 --> 00:00:55,750
+Mitte und wir nennen dann die obere
+
+25
+00:00:55,750 --> 00:00:57,670
+Zahl Zähler und die untere Zahl
+
+26
+00:00:57,670 --> 00:00:59,590
+Nenner und wie gesagt, dazwischen
+
+27
+00:00:59,590 --> 00:01:02,190
+steht dann ein Bruchstrich. Das ist
+
+28
+00:01:02,190 --> 00:01:03,830
+natürlich nicht falsch soweit, aber
+
+29
+00:01:03,830 --> 00:01:04,890
+das gibt uns natürlich nicht das
+
+30
+00:01:04,890 --> 00:01:06,350
+ganze Bild. Ja, was ist eigentlich
+
+31
+00:01:06,350 --> 00:01:09,350
+ein Bruch? Also so ist erstmal die
+
+32
+00:01:09,350 --> 00:01:12,170
+Darstellung von einem Bruch. Wir
+
+33
+00:01:12,170 --> 00:01:13,870
+haben immer oben den Zähler, immer
+
+34
+00:01:13,870 --> 00:01:15,410
+unten den Nenner Und es ist auch am
+
+35
+00:01:15,410 --> 00:01:16,450
+besten, wenn man wirklich diese
+
+36
+00:01:16,450 --> 00:01:18,770
+Wörter, diese Worte Zähler und Nenner
+
+37
+00:01:18,770 --> 00:01:20,310
+verwendet. Das mögen Lehrer sehr
+
+38
+00:01:20,310 --> 00:01:21,910
+gerne, beziehungsweise umgekehrt
+
+39
+00:01:21,910 --> 00:01:23,350
+mögen sie es nicht so gerne, wenn man
+
+40
+00:01:23,350 --> 00:01:24,710
+sagt, die Zahl oben und die Zahl
+
+41
+00:01:24,710 --> 00:01:26,610
+unten. Es sei denn, dahinter folgt
+
+42
+00:01:26,610 --> 00:01:29,690
+dann das Wort Zähler und Nenner. Aber
+
+43
+00:01:29,690 --> 00:01:31,210
+wozu braucht man Brüche eigentlich?
+
+44
+00:01:31,450 --> 00:01:33,150
+Und da gehen wir einfach zu diesem
+
+45
+00:01:33,150 --> 00:01:35,610
+typischen Beispiel hin. Man kann es
+
+46
+00:01:35,610 --> 00:01:37,150
+mit einer Torte machen, man kann es
+
+47
+00:01:37,150 --> 00:01:38,690
+mit einer Pizza machen. Wir haben
+
+48
+00:01:38,690 --> 00:01:40,870
+hier eine Torte und die wurde
+
+49
+00:01:40,870 --> 00:01:43,450
+zerschnitten oder die wurde in Teile
+
+50
+00:01:43,450 --> 00:01:45,630
+geschnitten und zwar acht gleich
+
+51
+00:01:45,630 --> 00:01:47,730
+große Teile. Okay, wir haben also
+
+52
+00:01:47,730 --> 00:01:49,570
+unsere Torte in acht gleich große
+
+53
+00:01:49,570 --> 00:01:52,030
+Stücke unterteilt und diese Stücke
+
+54
+00:01:52,030 --> 00:01:53,810
+sind jetzt verschieden eingefärbt.
+
+55
+00:01:53,830 --> 00:01:55,310
+Das hat nichts damit zu tun, dass
+
+56
+00:01:55,310 --> 00:01:57,550
+dort eventuell etwas anderes auf der
+
+57
+00:01:57,550 --> 00:01:58,990
+Torte ist oder in der Torte ist,
+
+58
+00:01:59,050 --> 00:02:02,010
+sondern wir haben vier Personen, die
+
+59
+00:02:02,010 --> 00:02:04,890
+sich diese Torte teilen möchten. und
+
+60
+00:02:04,890 --> 00:02:07,650
+diese vier Personen ist diese Familie
+
+61
+00:02:07,650 --> 00:02:09,650
+hier. Und die Farben stehen jetzt
+
+62
+00:02:09,650 --> 00:02:12,370
+praktisch dafür, wer wie viele Stücke
+
+63
+00:02:12,370 --> 00:02:14,590
+bekommt. Till in Gelb bekommt zwei
+
+64
+00:02:14,590 --> 00:02:16,450
+Stücke, Mama Judith in Grün ein
+
+65
+00:02:16,450 --> 00:02:19,190
+Stück, Papa Andi in Rot zwei Stücke
+
+66
+00:02:19,190 --> 00:02:21,410
+und Onkel Michael in Blau drei
+
+67
+00:02:21,410 --> 00:02:22,990
+Stücke. Ja, und wenn wir das wieder
+
+68
+00:02:22,990 --> 00:02:24,490
+zusammen addieren, dann kommen eben
+
+69
+00:02:24,490 --> 00:02:26,250
+acht Stücke heraus. Also insgesamt
+
+70
+00:02:26,250 --> 00:02:29,350
+der ganze Kuchen wird aufgeteilt. So,
+
+71
+00:02:29,430 --> 00:02:31,190
+und um jetzt zu vergleichen oder um
+
+72
+00:02:31,190 --> 00:02:33,130
+jetzt zu beschreiben, welchen Teil
+
+73
+00:02:33,130 --> 00:02:35,330
+von dem Kuchen jeder bekommt, kann
+
+74
+00:02:35,330 --> 00:02:38,130
+man Brüche verwenden als Beispiel wir
+
+75
+00:02:38,130 --> 00:02:40,610
+sagen, Till ist am nächsten Tag oder
+
+76
+00:02:40,610 --> 00:02:41,590
+geht am nächsten Tag in die Schule
+
+77
+00:02:41,590 --> 00:02:44,390
+und erzählt dann, ich habe gestern
+
+78
+00:02:44,390 --> 00:02:46,150
+zwei Stücke Kuchen gegessen dann
+
+79
+00:02:46,150 --> 00:02:47,790
+überlegt man sich, okay, Till hat
+
+80
+00:02:47,790 --> 00:02:49,510
+gestern zwei Stücke Kuchen gegessen
+
+81
+00:02:49,510 --> 00:02:51,850
+aber wir wissen ja jetzt nicht wie
+
+82
+00:02:51,850 --> 00:02:54,410
+viel von dem Kuchen war das denn
+
+83
+00:02:54,410 --> 00:02:56,330
+jetzt genau, denn wenn wir nur sagen
+
+84
+00:02:56,330 --> 00:02:58,230
+zwei Stücke, dann wüssten wir nur
+
+85
+00:02:58,230 --> 00:03:00,190
+Okay, zwei Stücke. Eventuell haben
+
+86
+00:03:00,190 --> 00:03:01,530
+wir den Kuchen in zwei Hälften
+
+87
+00:03:01,530 --> 00:03:02,750
+unterteilt und er hat diese beiden
+
+88
+00:03:02,750 --> 00:03:04,650
+Hälften gegessen. Dann sind es immer
+
+89
+00:03:04,650 --> 00:03:06,530
+noch zwei Stücke. Wir möchten das
+
+90
+00:03:06,530 --> 00:03:08,090
+gerne als Anteil von dem ganzen
+
+91
+00:03:08,090 --> 00:03:10,450
+Kuchen ausdrücken. Also möchten wir
+
+92
+00:03:10,450 --> 00:03:12,410
+sagen, er hat zwei von den insgesamt
+
+93
+00:03:12,410 --> 00:03:15,850
+acht Stücken gegessen. Also zwei
+
+94
+00:03:15,850 --> 00:03:18,410
+Achtel. Wir schreiben dann im Zähler
+
+95
+00:03:18,410 --> 00:03:20,870
+die Anzahl der Stücke und im Nenner
+
+96
+00:03:20,870 --> 00:03:22,470
+die Anzahl der Stücke, die es
+
+97
+00:03:22,470 --> 00:03:24,950
+insgesamt gibt. Also das Ganze vom
+
+98
+00:03:24,950 --> 00:03:26,670
+Kuchen. Der ganze Kuchen besteht aus
+
+99
+00:03:26,670 --> 00:03:28,190
+acht Stücken und Till bekommt zwei
+
+100
+00:03:28,190 --> 00:03:30,350
+davon und daher kommen dann die zwei
+
+101
+00:03:30,350 --> 00:03:32,610
+Achtel. Und das Gleiche passiert
+
+102
+00:03:32,610 --> 00:03:34,010
+natürlich mit den anderen, mit den
+
+103
+00:03:34,010 --> 00:03:36,110
+ein Achteln, zwei Achteln und drei
+
+104
+00:03:36,110 --> 00:03:38,830
+Achteln. Ja, also die Idee ist, wenn
+
+105
+00:03:38,830 --> 00:03:41,090
+wir nur 2 sagen, dann ist das keine
+
+106
+00:03:41,090 --> 00:03:42,530
+große Information. Wenn wir aber
+
+107
+00:03:42,530 --> 00:03:44,330
+sagen 2 Achtel, dann wissen wir,
+
+108
+00:03:44,430 --> 00:03:46,550
+okay, wir stellen uns einen ganzen
+
+109
+00:03:46,550 --> 00:03:50,350
+Kuchen vor und 2 Achtel davon, also 8
+
+110
+00:03:50,350 --> 00:03:52,430
+Stücke zerteilen, davon 2 nehmen, das
+
+111
+00:03:52,430 --> 00:03:53,630
+ist der Anteil, den Till bekommen
+
+112
+00:03:53,630 --> 00:03:55,310
+hat. Jetzt wissen wir natürlich immer
+
+113
+00:03:55,310 --> 00:03:56,610
+noch nicht, wie groß der Kuchen war.
+
+114
+00:03:56,670 --> 00:03:57,450
+Vielleicht war es ja ein kleiner
+
+115
+00:03:57,450 --> 00:03:58,530
+Kuchen, vielleicht war es ein großer
+
+116
+00:03:58,530 --> 00:04:00,950
+Kuchen. Aber an diesem Kuchen als
+
+117
+00:04:00,950 --> 00:04:02,310
+Anteil können wir dann mit der 2
+
+118
+00:04:02,310 --> 00:04:04,290
+Achtel beschreiben, wie viel Till
+
+119
+00:04:04,290 --> 00:04:07,810
+auch wirklich bekommen hat. Okay, so
+
+120
+00:04:07,810 --> 00:04:08,630
+kommen wir zu der ersten
+
+121
+00:04:08,630 --> 00:04:10,670
+Rechenoperation, nämlich das Kürzen.
+
+122
+00:04:13,170 --> 00:04:14,750
+Ich überspringe mal gerne hier den
+
+123
+00:04:14,750 --> 00:04:16,190
+allerersten Absatz und komme direkt
+
+124
+00:04:16,190 --> 00:04:17,710
+zu einem ähnlichen Beispiel. Und
+
+125
+00:04:17,710 --> 00:04:19,110
+zwar, wir stellen uns vor, wir haben
+
+126
+00:04:19,110 --> 00:04:21,410
+sowas wie eine Tafel Schokolade, aber
+
+127
+00:04:21,410 --> 00:04:22,550
+wir stellen uns jetzt nur einen
+
+128
+00:04:22,550 --> 00:04:24,690
+Streifen sozusagen davon vor. Also
+
+129
+00:04:24,690 --> 00:04:26,110
+wir stellen uns so eine Tafel
+
+130
+00:04:26,110 --> 00:04:28,870
+Schokolade vor, sagen wir mit vier
+
+131
+00:04:28,870 --> 00:04:30,750
+mal sechs Schokostücken, aber wir
+
+132
+00:04:30,750 --> 00:04:32,170
+nehmen jetzt nur einen Streifen von
+
+133
+00:04:32,170 --> 00:04:34,850
+sechs Schokostücken. So, und von
+
+134
+00:04:34,850 --> 00:04:36,890
+diesem Streifen mit sechs Stücken
+
+135
+00:04:36,890 --> 00:04:38,490
+dran, könnten wir uns jetzt zum
+
+136
+00:04:38,490 --> 00:04:40,430
+Beispiel drei nehmen. Wir möchten mit
+
+137
+00:04:40,430 --> 00:04:42,550
+jemandem teilen, ich bekomme drei, du
+
+138
+00:04:42,550 --> 00:04:45,430
+bekommst drei. Stattdessen könnten
+
+139
+00:04:45,430 --> 00:04:46,630
+wir das ja auch ein bisschen gröber
+
+140
+00:04:46,630 --> 00:04:48,190
+betrachten und einfach sagen, von
+
+141
+00:04:48,190 --> 00:04:49,770
+diesen sechs Stücken, also von diesem
+
+142
+00:04:49,770 --> 00:04:51,890
+Streifen besser gesagt, kriege ich
+
+143
+00:04:51,890 --> 00:04:53,370
+die Hälfte und die andere Person
+
+144
+00:04:53,370 --> 00:04:56,310
+kriegt die Hälfte. Also ob wir jetzt
+
+145
+00:04:56,310 --> 00:05:00,110
+sagen, wir nehmen 3 von 6 oder wir
+
+146
+00:05:00,110 --> 00:05:03,690
+nehmen 1 von 2, ist im Grunde das
+
+147
+00:05:03,690 --> 00:05:04,950
+Gleiche, denn wenn wir hier sehen,
+
+148
+00:05:05,030 --> 00:05:07,170
+wenn wir die beiden Stücke dann
+
+149
+00:05:07,170 --> 00:05:08,430
+aneinander halten oder diese beiden
+
+150
+00:05:08,430 --> 00:05:09,830
+Streifen aneinander halten, sehen
+
+151
+00:05:09,830 --> 00:05:11,750
+wir, dass es der gleiche Anteil ist.
+
+152
+00:05:12,110 --> 00:05:15,090
+3 von 6 ist das gleiche wie 1 von 2.
+
+153
+00:05:16,770 --> 00:05:17,990
+Und das können wir dann auch
+
+154
+00:05:17,990 --> 00:05:19,810
+mathematisch wirklich ausdrücken mit
+
+155
+00:05:19,810 --> 00:05:22,310
+dem Kürzen. Und zwar erstmal die
+
+156
+00:05:22,310 --> 00:05:23,950
+Schreibweise, mit der wir das Kürzen
+
+157
+00:05:23,950 --> 00:05:25,250
+beschreiben, die sehen wir links. Wir
+
+158
+00:05:25,250 --> 00:05:26,830
+beginnen mit dem Bruch 3 Sechstel,
+
+159
+00:05:26,850 --> 00:05:30,270
+also wir nehmen 3 von 6. Und wenn wir
+
+160
+00:05:30,270 --> 00:05:34,570
+das kürzen mit der Zahl 3, dann kommt
+
+161
+00:05:34,570 --> 00:05:37,310
+dort ein Halb raus, also 1 von 2. So,
+
+162
+00:05:37,370 --> 00:05:38,830
+und was heißt jetzt kürzen mit der
+
+163
+00:05:38,830 --> 00:05:40,130
+Zahl 3? Das haben wir hier
+
+164
+00:05:40,130 --> 00:05:41,570
+dargestellt mit der 3 unterm
+
+165
+00:05:41,570 --> 00:05:44,430
+Gleichzeichen. Was das bedeutet,
+
+166
+00:05:44,630 --> 00:05:45,990
+steht im Grunde rechts als
+
+167
+00:05:45,990 --> 00:05:47,770
+Nebenrechnung. Wir nehmen den Zähler,
+
+168
+00:05:47,850 --> 00:05:49,490
+die 3, und teilen den einmal durch
+
+169
+00:05:49,490 --> 00:05:52,050
+diese 3, das ist die 1. Und dann
+
+170
+00:05:52,050 --> 00:05:54,570
+nehmen wir den Nenner, die 6, und
+
+171
+00:05:54,570 --> 00:05:56,950
+teilen den durch die 3, also die 2.
+
+172
+00:05:57,310 --> 00:05:59,430
+Kommt daraus. Wir haben das hier mit
+
+173
+00:05:59,430 --> 00:06:01,170
+Farben auch dargestellt. Die gelbe 3
+
+174
+00:06:01,170 --> 00:06:02,930
+ist das, womit wir kürzen. und in
+
+175
+00:06:02,930 --> 00:06:04,610
+grün und blau sehen wir jeweils
+
+176
+00:06:04,610 --> 00:06:06,470
+Zähler und Nenner und das, was dabei
+
+177
+00:06:06,470 --> 00:06:08,670
+rauskommt. Also wir machen praktisch
+
+178
+00:06:08,670 --> 00:06:10,210
+eine Geteiltrechnung mit Zähler und
+
+179
+00:06:10,210 --> 00:06:11,730
+Nenner mit der gleichen Zahl. Dabei
+
+180
+00:06:11,730 --> 00:06:13,390
+ist es natürlich wichtig, dass wir
+
+181
+00:06:13,390 --> 00:06:14,490
+diese Geteiltrechnung auch
+
+182
+00:06:14,490 --> 00:06:15,990
+durchführen können, dass da auch
+
+183
+00:06:15,990 --> 00:06:17,250
+wieder ganze Zahlen rauskommen.
+
+184
+00:06:17,330 --> 00:06:19,810
+Deswegen hier geht es mit der 3. Mit
+
+185
+00:06:19,810 --> 00:06:21,330
+der 2 könnten wir zum Beispiel nicht
+
+186
+00:06:21,330 --> 00:06:24,570
+kürzen, denn 3 geteilt durch 2, das
+
+187
+00:06:24,570 --> 00:06:28,210
+geht nicht ganz auf. Und wichtig ist
+
+188
+00:06:28,210 --> 00:06:30,390
+auch nochmal hier zu betonen, da
+
+189
+00:06:30,390 --> 00:06:31,930
+links steht jetzt also 3 Sechstel
+
+190
+00:06:31,930 --> 00:06:34,770
+gleich mit der 3 drunter 1 Halb. Und
+
+191
+00:06:34,770 --> 00:06:35,990
+das heißt auch wirklich, die beiden
+
+192
+00:06:35,990 --> 00:06:37,570
+Zahlen, also die beiden Brüche sind
+
+193
+00:06:37,570 --> 00:06:40,450
+gleichwertig. 3 Sechstel und 1 Halb
+
+194
+00:06:40,450 --> 00:06:42,230
+sind praktisch austauschbar. Das ist
+
+195
+00:06:42,230 --> 00:06:43,510
+der gleiche Wert, der dahinter
+
+196
+00:06:43,510 --> 00:06:45,210
+steckt. Auch wenn es zwei
+
+197
+00:06:45,210 --> 00:06:46,330
+verschiedene Brüche sind. Das haben
+
+198
+00:06:46,330 --> 00:06:48,190
+wir jetzt hier durch die Grafik und
+
+199
+00:06:48,190 --> 00:06:49,090
+durch die Rechnung gesehen. sehen.
+
+200
+00:06:51,990 --> 00:06:53,730
+Eine Empfehlung ist, wenn wir einen
+
+201
+00:06:53,730 --> 00:06:55,530
+Bruch, der sehr große Zahlen im
+
+202
+00:06:55,530 --> 00:06:56,930
+Zähler und Nenner hat, kürzen wollen,
+
+203
+00:06:57,050 --> 00:06:58,210
+dann können wir das entweder Schritt
+
+204
+00:06:58,210 --> 00:06:59,450
+für Schritt machen, also immer
+
+205
+00:06:59,450 --> 00:07:01,010
+schauen, welche Zahl passt denn jetzt
+
+206
+00:07:01,010 --> 00:07:02,350
+als nächstes in Zähler und Nenner und
+
+207
+00:07:02,350 --> 00:07:05,370
+dann kürzen wir damit. Oder man
+
+208
+00:07:05,370 --> 00:07:07,350
+berechnet direkt durch eine geeignete
+
+209
+00:07:07,350 --> 00:07:09,230
+Methode den größten gemeinsamen
+
+210
+00:07:09,230 --> 00:07:11,170
+Teiler von Zähler und Nenner, also
+
+211
+00:07:11,170 --> 00:07:12,210
+die größte Zahl, die
+
+212
+00:07:19,550 --> 00:07:20,430
+Aber hier sehen wir auf jeden Fall,
+
+213
+00:07:20,470 --> 00:07:22,010
+der größte gemeinsame Teiler von 3
+
+214
+00:07:22,010 --> 00:07:24,790
+und 6 ist bereits die 3. Die 3 teilt
+
+215
+00:07:24,790 --> 00:07:26,930
+offensichtlich die 3, aber sie teilt
+
+216
+00:07:26,930 --> 00:07:29,010
+auch die 6. Eine größere gibt es
+
+217
+00:07:29,010 --> 00:07:32,810
+nicht für die beiden. Und nochmal zur
+
+218
+00:07:32,810 --> 00:07:34,110
+Schreibweise, eben die Zahl, die wir
+
+219
+00:07:34,110 --> 00:07:35,430
+untersgleich schreiben, das ist die
+
+220
+00:07:35,430 --> 00:07:36,890
+Zahl, mit der wir kürzen. So, hier
+
+221
+00:07:36,890 --> 00:07:39,370
+jetzt noch ein, zwei Beispiele. Die 2
+
+222
+00:07:39,370 --> 00:07:41,250
+Viertel, die könnten wir mit der 2
+
+223
+00:07:41,250 --> 00:07:43,210
+kürzen, denn wir können Zähler und
+
+224
+00:07:43,210 --> 00:07:45,230
+Nenner durch 2 teilen. Im Zähler 2
+
+225
+00:07:45,230 --> 00:07:47,590
+geteilt durch 2 ist 1 und im Nenner 4
+
+226
+00:07:47,590 --> 00:07:50,070
+geteilt durch 2 ist 2. Also kommt
+
+227
+00:07:50,070 --> 00:07:52,570
+dort 1 Halb raus. 2 Viertel ist das
+
+228
+00:07:52,570 --> 00:07:54,450
+gleiche wie 1 Halb. Und das macht zum
+
+229
+00:07:54,450 --> 00:07:55,710
+Beispiel auch Sinn, wenn wir uns auf
+
+230
+00:07:55,710 --> 00:07:58,450
+eine Uhr schauen. Er hat 2
+
+231
+00:07:58,450 --> 00:08:01,350
+Viertelstunden, sind also 2 mal 15
+
+232
+00:08:01,350 --> 00:08:03,110
+Minuten. Das ist das gleiche wie eine
+
+233
+00:08:03,110 --> 00:08:07,690
+halbe Stunde, also 30 Minuten. Hier
+
+234
+00:08:07,690 --> 00:08:08,930
+etwas größere Zahlen, 12
+
+235
+00:08:08,930 --> 00:08:11,330
+Vierundfünfzigstel. Da könnten wir
+
+236
+00:08:11,330 --> 00:08:13,050
+zum Beispiel mit der 2 kürzen, weil
+
+237
+00:08:13,050 --> 00:08:14,510
+beide Zahlen gerade sind. Wir können
+
+238
+00:08:14,510 --> 00:08:16,270
+aber auch direkt mit der 6 kürzen,
+
+239
+00:08:16,270 --> 00:08:18,250
+weil 12 durch 6 aufgeht. Das ist die
+
+240
+00:08:18,250 --> 00:08:21,150
+2. Und 54 durch 6 geht ebenfalls auf.
+
+241
+00:08:21,250 --> 00:08:22,110
+Das ist die 9.
+
+242
+00:08:24,980 --> 00:08:26,620
+Und jetzt noch größere Zahlen, hier
+
+243
+00:08:26,620 --> 00:08:30,100
+in zwei Schritten, 12, 144. Sagen
+
+244
+00:08:30,100 --> 00:08:31,980
+wir, okay, wir wissen, beide sind
+
+245
+00:08:31,980 --> 00:08:33,720
+gerade, also geht auf jeden Fall die
+
+246
+00:08:33,720 --> 00:08:35,840
+2 und eine andere fällt uns jetzt
+
+247
+00:08:35,840 --> 00:08:38,700
+nicht sofort auf oder ein. Also
+
+248
+00:08:38,700 --> 00:08:40,800
+kürzen wir erstmal mit 2, 12 durch 2
+
+249
+00:08:40,800 --> 00:08:43,320
+ist 6, im Zähler und im Nenner 144
+
+250
+00:08:43,320 --> 00:08:46,600
+durch 2 sind 72. Okay, jetzt haben
+
+251
+00:08:46,600 --> 00:08:47,780
+wir schon mal einmal gekürzt, jetzt
+
+252
+00:08:47,780 --> 00:08:48,860
+sind die Zahlen ein bisschen kleiner
+
+253
+00:08:48,860 --> 00:08:50,080
+und man kann vielleicht eher die
+
+254
+00:08:50,080 --> 00:08:51,320
+nächste Zahl finden, mit der wir
+
+255
+00:08:51,320 --> 00:08:52,840
+kürzen können. Falls es eine gibt.
+
+256
+00:08:52,960 --> 00:08:55,120
+Irgendwann ist ja auch Stopp. Und
+
+257
+00:08:55,120 --> 00:08:57,160
+hier ist es so, die 6 ist auf jeden
+
+258
+00:08:57,160 --> 00:08:59,460
+Fall durch 6 teilbar. Die 72, die ist
+
+259
+00:08:59,460 --> 00:09:01,920
+auch durch 6 teilbar. Also können wir
+
+260
+00:09:01,920 --> 00:09:04,240
+mit der 6 kürzen. 6 durch 6 im Zähler
+
+261
+00:09:04,240 --> 00:09:07,380
+ist 1 und 72 durch 6 im Nenner ist
+
+262
+00:09:07,380 --> 00:09:10,880
+12. Okay, ein Zwölftel kommt raus.
+
+263
+00:09:10,960 --> 00:09:12,660
+Spätestens wenn wir eine 1 im Zähler
+
+264
+00:09:12,660 --> 00:09:14,400
+oder Nenner haben, können wir sowieso
+
+265
+00:09:14,400 --> 00:09:17,020
+nicht weiter kürzen, Weil durch die 1
+
+266
+00:09:17,020 --> 00:09:18,160
+können wir nichts kleineres mehr
+
+267
+00:09:18,160 --> 00:09:20,040
+teilen. Und mit der 1 kürzen bringt
+
+268
+00:09:20,040 --> 00:09:21,240
+nichts, weil dann rechnen wir einfach
+
+269
+00:09:21,240 --> 00:09:23,120
+nur überall durch 1. Aber jetzt
+
+270
+00:09:23,120 --> 00:09:24,600
+können wir im Nachhinein sehen, wir
+
+271
+00:09:24,600 --> 00:09:25,940
+hätten auch das Ganze in einem
+
+272
+00:09:25,940 --> 00:09:27,800
+Schritt machen können. Und zwar haben
+
+273
+00:09:27,800 --> 00:09:29,180
+wir einmal durch 2 gekürzt, einmal
+
+274
+00:09:29,180 --> 00:09:31,940
+mit der 6 gekürzt. Und wenn wir die
+
+275
+00:09:31,940 --> 00:09:33,760
+beiden jetzt mal nehmen, 2 mal 6,
+
+276
+00:09:33,980 --> 00:09:36,040
+kommt dort 12 raus. Und das verrät
+
+277
+00:09:36,040 --> 00:09:37,380
+uns, wir hätten auch direkt mit der
+
+278
+00:09:37,380 --> 00:09:40,440
+12 kürzen können. Denn im Zähler 12
+
+279
+00:09:40,440 --> 00:09:42,600
+durch 12 ist 1 und im Nenner 144
+
+280
+00:09:42,600 --> 00:09:45,980
+durch 12 ist 12. So sieht man dann
+
+281
+00:09:45,980 --> 00:09:47,600
+spätestens am Ende, welche Zahl auch
+
+282
+00:09:47,600 --> 00:09:51,630
+gepasst hätte. Okay, als nächstes
+
+283
+00:09:51,630 --> 00:09:52,890
+kommt das Erweitern. Und das
+
+284
+00:09:52,890 --> 00:09:54,490
+Erweitern ist im Grunde das Gegenteil
+
+285
+00:09:54,490 --> 00:09:55,750
+vom Kürzen. Deswegen können wir das
+
+286
+00:09:55,750 --> 00:09:56,650
+jetzt auch ein kleines bisschen
+
+287
+00:09:56,650 --> 00:09:58,990
+schneller sogar abhandeln. Was wir
+
+288
+00:09:58,990 --> 00:10:00,330
+jetzt machen, ist wir verfeinern die
+
+289
+00:10:00,330 --> 00:10:01,630
+Aufteilung. Wir stellen uns nochmal
+
+290
+00:10:01,630 --> 00:10:04,630
+vor, wir beginnen mit einem Streifen
+
+291
+00:10:04,630 --> 00:10:07,090
+Schokolade oder sowas und stellen uns
+
+292
+00:10:07,090 --> 00:10:09,110
+jetzt vor, das war von vornherein
+
+293
+00:10:09,110 --> 00:10:10,290
+jetzt nicht in einzelne Stücke
+
+294
+00:10:10,290 --> 00:10:11,490
+unterteilt, sondern es ist einfach
+
+295
+00:10:11,490 --> 00:10:13,090
+ein langes Stück, eine lange Tafel
+
+296
+00:10:13,090 --> 00:10:15,470
+oder so. Und wir teilen die in der
+
+297
+00:10:15,470 --> 00:10:16,630
+Mitte durch, dass wir also zwei
+
+298
+00:10:16,630 --> 00:10:17,810
+Hälften haben. Das könnten wir
+
+299
+00:10:17,810 --> 00:10:19,390
+machen. Wir könnten es aber auch
+
+300
+00:10:19,390 --> 00:10:21,370
+vorher in kleinere Stücke
+
+301
+00:10:21,370 --> 00:10:22,610
+unterteilen, zum Beispiel in
+
+302
+00:10:22,610 --> 00:10:24,850
+insgesamt sechs Stücke und dann drei
+
+303
+00:10:24,850 --> 00:10:26,190
+an die eine Person, drei an die
+
+304
+00:10:26,190 --> 00:10:28,130
+andere Person geben. Und genauso wie
+
+305
+00:10:28,130 --> 00:10:29,230
+vorhin, wir haben es jetzt nur
+
+306
+00:10:29,230 --> 00:10:30,910
+umgedreht, haben wir dort die gleiche
+
+307
+00:10:30,910 --> 00:10:32,850
+Anzahl. Wie kommen wir jetzt
+
+308
+00:10:32,850 --> 00:10:34,630
+rechnerisch von dem Groben zu der
+
+309
+00:10:34,630 --> 00:10:36,750
+Feinen Aufteilung? Indem wir das
+
+310
+00:10:36,750 --> 00:10:38,190
+Gegenteil von eben machen. Vorhin
+
+311
+00:10:38,190 --> 00:10:39,870
+haben wir geteilt, diesmal nehmen wir
+
+312
+00:10:39,870 --> 00:10:42,290
+mal. Also jetzt dreht sich das Ganze
+
+313
+00:10:42,290 --> 00:10:44,710
+um. Wir beginnen mit den 1,5, also 1
+
+314
+00:10:44,710 --> 00:10:47,930
+durch 2. Und erweitern mit der 3. Das
+
+315
+00:10:47,930 --> 00:10:49,290
+stellen wir dadurch dar, dass wir die
+
+316
+00:10:49,290 --> 00:10:51,790
+3 über das Gleich schreiben. Und dann
+
+317
+00:10:51,790 --> 00:10:53,990
+rechnen wir im Zähler 1 mal 3 gleich
+
+318
+00:10:53,990 --> 00:10:56,970
+3 und im Nenner 2 mal 3 gleich 6. Die
+
+319
+00:10:56,970 --> 00:10:58,250
+Nebenrechnung steht ja dann auch
+
+320
+00:10:58,250 --> 00:10:59,650
+rechts daneben. Die muss man dann
+
+321
+00:10:59,650 --> 00:11:01,010
+nicht immer angeben, sondern auch
+
+322
+00:11:01,010 --> 00:11:02,610
+hier wieder diese Schreibweise mit
+
+323
+00:11:02,610 --> 00:11:04,730
+der Zahl über dem Gleich steht
+
+324
+00:11:04,730 --> 00:11:06,370
+praktisch für diese Nebenrechnung.
+
+325
+00:11:07,910 --> 00:11:09,490
+Und dann sehen wir eben, 1 halb ist
+
+326
+00:11:09,490 --> 00:11:11,170
+das gleiche wie 3 sechstel. Das haben
+
+327
+00:11:11,170 --> 00:11:12,550
+wir auch vorhin schon gesehen, aber
+
+328
+00:11:12,550 --> 00:11:13,990
+jetzt haben wir es umgekehrt gemacht
+
+329
+00:11:13,990 --> 00:11:16,130
+mit dem Erweitern. Die Zahl über dem
+
+330
+00:11:16,130 --> 00:11:17,850
+Gleich mit der wird erweitert. Und
+
+331
+00:11:17,850 --> 00:11:18,910
+hier ist jetzt ein entscheidender
+
+332
+00:11:18,910 --> 00:11:20,990
+Unterschied. Vorhin beim Kürzen habe
+
+333
+00:11:20,990 --> 00:11:22,590
+ich ja noch gesagt, wir können immer
+
+334
+00:11:22,590 --> 00:11:24,990
+nur mit Zahlen kürzen, die auch beide
+
+335
+00:11:24,990 --> 00:11:26,350
+Zahlen im Zähler und im Nenner
+
+336
+00:11:26,350 --> 00:11:30,870
+teilen. Und beim Erweitern ist diese
+
+337
+00:11:30,870 --> 00:11:32,770
+Einschränkung nicht mehr. Wir können
+
+338
+00:11:32,770 --> 00:11:34,590
+mit jeder beliebigen Zahl erweitern.
+
+339
+00:11:35,410 --> 00:11:37,570
+Wir können ja mal nehmen mit jeder
+
+340
+00:11:37,570 --> 00:11:38,670
+Zahl, die wir wollen. Wir können mit
+
+341
+00:11:38,670 --> 00:11:40,230
+der 2, mit der 3, mit der 4, mit der
+
+342
+00:11:40,230 --> 00:11:42,030
+5 mal nehmen und so weiter. Das
+
+343
+00:11:42,030 --> 00:11:43,610
+funktioniert ja immer. Deswegen
+
+344
+00:11:43,610 --> 00:11:45,050
+erweitern ist praktisch ein bisschen
+
+345
+00:11:45,050 --> 00:11:46,230
+lockerer. Da können wir mit jeder
+
+346
+00:11:46,230 --> 00:11:48,270
+Zahl arbeiten. Beim Kürzen müssen wir
+
+347
+00:11:48,270 --> 00:11:49,570
+immer erstmal schauen, mit welcher
+
+348
+00:11:49,570 --> 00:11:51,010
+Zahl wir überhaupt kürzen können oder
+
+349
+00:11:51,010 --> 00:11:54,570
+wollen. Okay, Beispiele. Wir fangen
+
+350
+00:11:54,570 --> 00:11:56,730
+mit 3 Siebtel an und aus einem ganz
+
+351
+00:11:56,730 --> 00:11:58,370
+bestimmten Grund, weil unsere Aufgabe
+
+352
+00:11:58,370 --> 00:11:59,770
+das vielleicht von uns verlangt oder
+
+353
+00:11:59,770 --> 00:12:01,170
+wir das in einer Rechnung verwenden.
+
+354
+00:12:01,250 --> 00:12:02,730
+Wir kommen gleich dazu, warum man
+
+355
+00:12:02,730 --> 00:12:05,470
+manchmal erweitern sollte bei den
+
+356
+00:12:05,470 --> 00:12:07,230
+Grundrechenarten. Jedenfalls, es wird
+
+357
+00:12:07,230 --> 00:12:09,050
+verlangt, dass wir den Bruch mit 3
+
+358
+00:12:09,050 --> 00:12:10,650
+erweitern. Also rechnen wir im Zähler
+
+359
+00:12:10,650 --> 00:12:12,750
+3 mal 3, das sind die 9 und im Nenner
+
+360
+00:12:12,750 --> 00:12:16,790
+7 mal 3, das sind die 21. Also 9,21.
+
+361
+00:12:17,170 --> 00:12:19,510
+3,7 ist das gleiche wie 9,21.
+
+362
+00:12:21,630 --> 00:12:22,890
+Vierneuntel, wenn wir die mit 7
+
+363
+00:12:22,890 --> 00:12:24,430
+erweitern, rechnen wir also im Zähler
+
+364
+00:12:24,430 --> 00:12:27,030
+4 mal 7, das ist die 28 und im Nenner
+
+365
+00:12:27,030 --> 00:12:32,010
+die 9 mal 7, das ist die 63. Und noch
+
+366
+00:12:32,010 --> 00:12:33,550
+ein weiteres Beispiel, auch wenn es
+
+367
+00:12:33,550 --> 00:12:35,670
+im Grunde immer das gleiche ist, die
+
+368
+00:12:35,670 --> 00:12:38,030
+zwei Vierzehntel wollen wir mit 13
+
+369
+00:12:38,030 --> 00:12:41,890
+erweitern, also 2 mal 13 sind 26 und
+
+370
+00:12:41,890 --> 00:12:43,710
+14 mal 13 wird schon ein bisschen
+
+371
+00:12:43,710 --> 00:12:45,170
+größer, 182.
+
+372
+00:12:48,090 --> 00:12:50,250
+Okay, jetzt ist natürlich die Frage,
+
+373
+00:12:50,470 --> 00:12:52,330
+wann müssen wir denn erweitern?
+
+374
+00:12:52,410 --> 00:12:54,050
+Kürzen macht ja im Grunde ein
+
+375
+00:12:54,050 --> 00:12:55,970
+bisschen Sinn vielleicht, dass man
+
+376
+00:12:55,970 --> 00:12:57,710
+sich denkt, kürzen hilft uns, die
+
+377
+00:12:57,710 --> 00:12:59,190
+Brüche klein zu halten, also mit
+
+378
+00:12:59,190 --> 00:13:00,710
+kleinem Zähler und kleinem Nenner.
+
+379
+00:13:00,750 --> 00:13:02,430
+Denn kleine Zahlen sind erstmal immer
+
+380
+00:13:02,430 --> 00:13:04,170
+ein bisschen bequemer. Also warum
+
+381
+00:13:04,170 --> 00:13:05,970
+sollte man sich die Mühe machen, die
+
+382
+00:13:05,970 --> 00:13:07,570
+Zahlen im Zähler und Nenner größer zu
+
+383
+00:13:07,570 --> 00:13:10,290
+machen? Warum erweitern? Und einer
+
+384
+00:13:10,290 --> 00:13:12,890
+der Gründe dafür ist das Addieren und
+
+385
+00:13:12,890 --> 00:13:14,410
+Subtrahieren, also Plus- und
+
+386
+00:13:14,410 --> 00:13:14,950
+Minusrechnen.
+
+387
+00:13:17,860 --> 00:13:19,040
+Wir beschäftigen uns jetzt
+
+388
+00:13:19,040 --> 00:13:21,020
+hauptsächlich mit dem Plus. Das
+
+389
+00:13:21,020 --> 00:13:22,640
+Minusrechnen geht dann praktisch
+
+390
+00:13:22,640 --> 00:13:23,980
+genauso, nur dass wir an einem
+
+391
+00:13:23,980 --> 00:13:25,020
+entscheidenden Schritt dann eben
+
+392
+00:13:25,020 --> 00:13:26,440
+nicht Plus rechnen, sondern Minus.
+
+393
+00:13:27,440 --> 00:13:30,700
+Okay, doch wie machen wir das jetzt?
+
+394
+00:13:30,840 --> 00:13:32,880
+Wir können nur zwei Brüche zusammen
+
+395
+00:13:32,880 --> 00:13:35,540
+addieren oder subtrahieren, wenn sie
+
+396
+00:13:35,540 --> 00:13:38,300
+den gleichen Nenner haben. Und wir
+
+397
+00:13:38,300 --> 00:13:39,120
+Wir können uns natürlich vorstellen,
+
+398
+00:13:39,260 --> 00:13:40,940
+wir möchten auch häufig Brüchel
+
+399
+00:13:40,940 --> 00:13:42,040
+zusammen addieren, die nicht den
+
+400
+00:13:42,040 --> 00:13:44,080
+gleichen Nenner haben. Als Beispiel,
+
+401
+00:13:44,160 --> 00:13:46,900
+wir möchten 3 Viertel plus 1 Drittel
+
+402
+00:13:46,900 --> 00:13:49,120
+rechnen. So, das können wir erstmal
+
+403
+00:13:49,120 --> 00:13:51,120
+so direkt nicht, weil wir haben es
+
+404
+00:13:51,120 --> 00:13:52,660
+einmal mit Vierteln und einmal mit
+
+405
+00:13:52,660 --> 00:13:54,760
+Dritteln zu tun. Und wenn man sich
+
+406
+00:13:54,760 --> 00:13:57,260
+nochmal die Torte vorhin vorstellt,
+
+407
+00:13:57,340 --> 00:13:59,780
+wir hätten, sagen wir, wir haben zwei
+
+408
+00:13:59,780 --> 00:14:01,500
+Torten. Die eine wurde in Viertel,
+
+409
+00:14:01,500 --> 00:14:03,000
+die andere wurde in Drittel zerteilt
+
+410
+00:14:03,000 --> 00:14:04,240
+und wir nehmen jetzt von der einen
+
+411
+00:14:04,240 --> 00:14:05,620
+die drei Stücke und von der anderen
+
+412
+00:14:05,620 --> 00:14:07,920
+den einen Stück und packen das zu
+
+413
+00:14:07,920 --> 00:14:09,820
+einer Torte zusammen. Das würden wir
+
+414
+00:14:09,820 --> 00:14:11,800
+dann durch Addition zusammenfügen.
+
+415
+00:14:12,640 --> 00:14:14,400
+Aber wie viel haben wir dann von der
+
+416
+00:14:14,400 --> 00:14:15,960
+neuen Torte? Das Problem ist, wir
+
+417
+00:14:15,960 --> 00:14:17,220
+haben einmal ein Viertel genommen
+
+418
+00:14:17,220 --> 00:14:18,920
+oder wir haben Viertelstücke genommen
+
+419
+00:14:18,920 --> 00:14:19,780
+und wir haben von der anderen
+
+420
+00:14:19,780 --> 00:14:21,440
+Drittelstücke genommen. Die sind
+
+421
+00:14:21,440 --> 00:14:23,060
+nicht vergleichbar. Dafür müssen die
+
+422
+00:14:23,060 --> 00:14:25,520
+den gleichen Nenner haben. Die Idee
+
+423
+00:14:25,520 --> 00:14:27,520
+bei den Torten wäre jetzt, die
+
+424
+00:14:27,520 --> 00:14:29,820
+Viertelstücke nochmal zu unterteilen
+
+425
+00:14:29,820 --> 00:14:31,220
+und die Drittelstücke nochmal zu
+
+426
+00:14:31,220 --> 00:14:33,320
+unterteilen, dass beide Kuchen
+
+427
+00:14:33,320 --> 00:14:35,340
+insgesamt in die gleiche Stückzahl
+
+428
+00:14:35,340 --> 00:14:38,020
+geteilt ist. Und genau das machen wir
+
+429
+00:14:38,020 --> 00:14:39,340
+jetzt auch durch Erweitern. Wir
+
+430
+00:14:39,340 --> 00:14:43,100
+verfeinern die Aufteilung. Ups, ich
+
+431
+00:14:43,100 --> 00:14:44,400
+wollte mal vorwarnen, jetzt gleich
+
+432
+00:14:44,400 --> 00:14:45,820
+kommt, wenn ich jetzt nochmal drücke,
+
+433
+00:14:45,900 --> 00:14:47,160
+dann kommt eine Rechnung, die sieht
+
+434
+00:14:47,160 --> 00:14:48,080
+auf den ersten Blick natürlich ein
+
+435
+00:14:48,080 --> 00:14:49,700
+bisschen größer aus Jetzt gerade hat
+
+436
+00:14:49,700 --> 00:14:51,560
+man sie ja schon gesehen Wir gehen da
+
+437
+00:14:51,560 --> 00:14:52,660
+jetzt Schritt für Schritt durch, die
+
+438
+00:14:52,660 --> 00:14:54,260
+wirkt nur auf den ersten Blick
+
+439
+00:14:54,260 --> 00:14:55,840
+riesig, weil die jetzt auf einmal da
+
+440
+00:14:55,840 --> 00:14:57,320
+ist Aber wenn wir das jetzt Schritt
+
+441
+00:14:57,320 --> 00:14:58,340
+für Schritt uns anschauen, passiert
+
+442
+00:14:58,340 --> 00:14:59,660
+da eigentlich nichts allzu
+
+443
+00:14:59,660 --> 00:15:02,000
+kompliziertes Also wir beginnen ganz
+
+444
+00:15:02,000 --> 00:15:04,140
+links, wir möchten 3 Viertel plus 1
+
+445
+00:15:04,140 --> 00:15:05,460
+Drittel rechnen Wir möchten diese
+
+446
+00:15:05,460 --> 00:15:07,700
+Addition hier durchführen. Okay,
+
+447
+00:15:07,700 --> 00:15:09,100
+gehen wir zum nächsten Schritt. Was
+
+448
+00:15:09,100 --> 00:15:11,440
+tun wir hier? Wir erweitern beide
+
+449
+00:15:11,440 --> 00:15:12,940
+Brüche. Und das schreiben wir diesmal
+
+450
+00:15:12,940 --> 00:15:14,920
+aus hier mit dem Erweitern, indem wir
+
+451
+00:15:14,920 --> 00:15:16,080
+wirklich die Zahlen, mit der wir
+
+452
+00:15:16,080 --> 00:15:17,580
+erweitern, im Zähler und im Nenner
+
+453
+00:15:17,580 --> 00:15:20,020
+dran multiplizieren. Beim linken
+
+454
+00:15:20,020 --> 00:15:21,480
+Bruch, bei den drei Vierteln,
+
+455
+00:15:21,540 --> 00:15:23,980
+erweitern wir mit der 3. Wir nehmen
+
+456
+00:15:23,980 --> 00:15:25,460
+also im Zähler und im Nenner mit der
+
+457
+00:15:25,460 --> 00:15:27,620
+3 mal. Und dann gehen wir in den
+
+458
+00:15:27,620 --> 00:15:29,000
+rechten Bruch, da haben wir die 1
+
+459
+00:15:29,000 --> 00:15:30,740
+Drittel und die erweitern wir mit der
+
+460
+00:15:30,740 --> 00:15:32,260
+4. Das heißt, wir nehmen im Zähler
+
+461
+00:15:32,260 --> 00:15:34,160
+mit der 4 mal und im Nenner mit der 4
+
+462
+00:15:34,160 --> 00:15:36,520
+mal. Okay, warum haben wir jetzt
+
+463
+00:15:36,520 --> 00:15:38,660
+links mit der 3 und rechts mit der 4
+
+464
+00:15:38,660 --> 00:15:40,920
+mal genommen? Weil, wenn wir jetzt
+
+465
+00:15:40,920 --> 00:15:41,940
+erstmal in das Ergebnis schauen,
+
+466
+00:15:42,080 --> 00:15:43,720
+sehen wir, was dabei herauskommt. Was
+
+467
+00:15:43,720 --> 00:15:45,140
+dabei herauskommt ist, dass beide
+
+468
+00:15:45,140 --> 00:15:46,920
+Nenner jetzt Zwölftel sind. Wir haben
+
+469
+00:15:46,920 --> 00:15:49,940
+4 mal 3 bzw. 3 mal 4 gerechnet im
+
+470
+00:15:49,940 --> 00:15:51,480
+Nenner und das sind beides Zwölftel.
+
+471
+00:15:51,920 --> 00:15:53,720
+Und wenn wir dann noch im Zähler die
+
+472
+00:15:53,720 --> 00:15:54,880
+Malrechnung durchführen, dann haben
+
+473
+00:15:54,880 --> 00:15:56,720
+wir dort einmal 9 Zwölftel und einmal
+
+474
+00:15:56,720 --> 00:16:00,260
+4 Zwölftel. Okay, das erklärt schon
+
+475
+00:16:00,260 --> 00:16:01,660
+mal, warum wir erweitert haben. Wir
+
+476
+00:16:01,660 --> 00:16:02,960
+haben erweitert, weil wir auf die
+
+477
+00:16:02,960 --> 00:16:04,640
+gleichen Nenner wollten und in diesem
+
+478
+00:16:04,640 --> 00:16:06,880
+Fall war das die 12. Aber wie finde
+
+479
+00:16:06,880 --> 00:16:09,160
+ich den heraus? Da komme ich gleich
+
+480
+00:16:09,160 --> 00:16:11,200
+nochmal kurz zu. Erstmal führen wir
+
+481
+00:16:11,200 --> 00:16:12,220
+die Rechnung noch zu Ende durch.
+
+482
+00:16:12,300 --> 00:16:13,900
+Jetzt haben wir gleiche Nenner, 9
+
+483
+00:16:13,900 --> 00:16:17,780
+Zwölftel plus 4 Zwölftel. Wenn wir
+
+484
+00:16:17,780 --> 00:16:18,840
+die jetzt zusammen addieren wollen,
+
+485
+00:16:18,960 --> 00:16:20,460
+können wir die einfach in einem Bruch
+
+486
+00:16:20,460 --> 00:16:22,220
+zusammenfügen. Also die teilen sich
+
+487
+00:16:22,220 --> 00:16:24,060
+jetzt ein Nenner, nämlich die
+
+488
+00:16:24,060 --> 00:16:26,180
+Zwölftel. und im Zähler steht 9 plus
+
+489
+00:16:26,180 --> 00:16:28,080
+4 und die können wir jetzt endlich
+
+490
+00:16:28,080 --> 00:16:30,260
+berechnen und erhalten halt eine 13
+
+491
+00:16:30,260 --> 00:16:32,340
+im Zähler, also insgesamt 13
+
+492
+00:16:32,340 --> 00:16:34,700
+Zwölftel. So, nochmal ganz kurz, was
+
+493
+00:16:34,700 --> 00:16:36,620
+ist passiert? Wir haben beide Brüche
+
+494
+00:16:36,620 --> 00:16:38,040
+auf den gleichen Nenner gebracht, das
+
+495
+00:16:38,040 --> 00:16:39,460
+heißt, wir haben erweitert diesen
+
+496
+00:16:39,460 --> 00:16:40,560
+Zwischenschritt, wo das hier
+
+497
+00:16:40,560 --> 00:16:43,340
+ausmultipliziert steht. Das kann man
+
+498
+00:16:43,340 --> 00:16:45,440
+dann auch auf lange Sicht oft im Kopf
+
+499
+00:16:45,440 --> 00:16:46,720
+machen und einfach direkt zu den
+
+500
+00:16:46,720 --> 00:16:49,060
+erweiterten Brüchen gehen. und die
+
+501
+00:16:49,060 --> 00:16:50,260
+können wir dann zusammen addieren,
+
+502
+00:16:50,380 --> 00:16:51,920
+indem wir Zähler zusammen addieren
+
+503
+00:16:51,920 --> 00:16:53,440
+und auch da ist es so den vorletzten
+
+504
+00:16:53,440 --> 00:16:55,720
+Schritt hier, die 9 plus 4 durch 12,
+
+505
+00:16:55,940 --> 00:16:57,500
+die kann man auch dann auslassen,
+
+506
+00:16:57,580 --> 00:16:58,880
+denn im Endeffekt ziehen wir hier nur
+
+507
+00:16:58,880 --> 00:17:01,000
+den Bruchstrich durch. Und wenn wir
+
+508
+00:17:01,000 --> 00:17:02,520
+jetzt subtrahieren wollten, wenn hier
+
+509
+00:17:02,520 --> 00:17:03,760
+also ein Minus stehen würde, dann
+
+510
+00:17:03,760 --> 00:17:04,840
+würde das einfach bedeuten, dass wir
+
+511
+00:17:04,840 --> 00:17:06,200
+ganz am Ende Minus rechnen statt
+
+512
+00:17:06,200 --> 00:17:08,860
+Plus. So kommen wir noch mal zu dem
+
+513
+00:17:08,860 --> 00:17:09,860
+entscheidenden Schritt zurück,
+
+514
+00:17:09,860 --> 00:17:11,140
+Nämlich die Arbeit, die man sich mal
+
+515
+00:17:11,140 --> 00:17:12,360
+beim Addieren und Subtrahieren machen
+
+516
+00:17:12,360 --> 00:17:15,220
+muss, und zwar die beiden auf den
+
+517
+00:17:15,220 --> 00:17:16,200
+gleichen Nenner zu bringen oder
+
+518
+00:17:16,200 --> 00:17:18,660
+gleichnamig zu machen. Da gibt es
+
+519
+00:17:18,660 --> 00:17:22,300
+mehrere Methoden. Eine Methode, die
+
+520
+00:17:22,300 --> 00:17:23,800
+immer funktioniert und die wurde hier
+
+521
+00:17:23,800 --> 00:17:25,460
+praktisch auch angewendet, aber die
+
+522
+00:17:25,460 --> 00:17:27,120
+musste man hier machen. Es
+
+523
+00:17:27,120 --> 00:17:28,720
+funktioniert immer, erweitere den
+
+524
+00:17:28,720 --> 00:17:30,860
+Bruch mit dem jeweils anderen Nenner.
+
+525
+00:17:31,780 --> 00:17:35,060
+Das heißt also, wenn wir einmal
+
+526
+00:17:35,060 --> 00:17:37,520
+Viertel haben und Drittel, dann
+
+527
+00:17:37,520 --> 00:17:39,460
+würden wir den Viertelbruch mit 3
+
+528
+00:17:39,460 --> 00:17:42,380
+erweitern und den Drittelbruch mit 4
+
+529
+00:17:42,380 --> 00:17:44,520
+erweitern. Also sozusagen über Kreuz
+
+530
+00:17:44,520 --> 00:17:46,120
+erweitern, den einen mit dem anderen.
+
+531
+00:17:46,940 --> 00:17:48,420
+Das ist eine Technik, die immer
+
+532
+00:17:48,420 --> 00:17:50,720
+funktioniert. Ihr werdet damit immer
+
+533
+00:17:50,720 --> 00:17:52,340
+einen Hauptnenner finden, denn was
+
+534
+00:17:52,340 --> 00:17:54,080
+dabei immer passiert im Nenner ist,
+
+535
+00:17:54,260 --> 00:17:55,500
+dass ihr einfach nur die eine Zahl
+
+536
+00:17:55,500 --> 00:17:56,900
+mal die andere rechnet und dann in
+
+537
+00:17:56,900 --> 00:17:58,640
+dem anderen Bruch in einer anderen
+
+538
+00:17:58,640 --> 00:18:00,920
+Reihenfolge genau das gleiche. nur
+
+539
+00:18:00,920 --> 00:18:02,080
+dass bei Malrechnungen die
+
+540
+00:18:02,080 --> 00:18:03,680
+Reihenfolge ja keine Rolle spielt. 4
+
+541
+00:18:03,680 --> 00:18:05,620
+mal 3 ist das gleiche wie 3 mal 4. Da
+
+542
+00:18:05,620 --> 00:18:06,900
+kommt also dann immer das gleiche
+
+543
+00:18:06,900 --> 00:18:08,200
+raus. Wer kriegt auf jeden Fall den
+
+544
+00:18:08,200 --> 00:18:09,860
+Hauptnenner? Wir sehen aber gleich
+
+545
+00:18:09,860 --> 00:18:12,780
+ein Beispiel, wo das zu unnötig
+
+546
+00:18:12,780 --> 00:18:15,480
+großen Zahlen führen würde. Ja, also
+
+547
+00:18:15,480 --> 00:18:17,200
+die Technik funktioniert immer, aber
+
+548
+00:18:17,200 --> 00:18:19,780
+die bringt euch auch oft zu sehr
+
+549
+00:18:19,780 --> 00:18:21,460
+großen Brüchen hin. Und manchmal ist
+
+550
+00:18:21,460 --> 00:18:23,220
+das nicht nötig. Und dazu schauen wir
+
+551
+00:18:23,220 --> 00:18:24,220
+uns am besten Beispiele an.
+
+552
+00:18:28,860 --> 00:18:30,000
+so wie wir es gerade gesehen haben
+
+553
+00:18:30,000 --> 00:18:31,220
+und das ist auch hier so, dass es
+
+554
+00:18:31,220 --> 00:18:33,360
+auch die sinnvollste Technik ist in
+
+555
+00:18:33,360 --> 00:18:35,240
+diesem Fall. Wir möchten 3 Viertel
+
+556
+00:18:35,240 --> 00:18:37,860
+plus 2 Fünftel rechnen. Dazu müssen
+
+557
+00:18:37,860 --> 00:18:39,460
+wir den linken Bruch mit 5 erweitern
+
+558
+00:18:39,460 --> 00:18:41,020
+und den rechten Bruch mit 4. Das
+
+559
+00:18:41,020 --> 00:18:42,420
+sehen wir dann in dem zweiten
+
+560
+00:18:42,420 --> 00:18:44,180
+Schritt, dass wir wirklich die 5 dran
+
+561
+00:18:44,180 --> 00:18:45,500
+multiplizieren im Zähler und Nenner
+
+562
+00:18:45,500 --> 00:18:47,020
+und bei dem anderen Bruch die 4
+
+563
+00:18:47,020 --> 00:18:50,760
+multiplizieren. Okay, 3 mal 5 ist
+
+564
+00:18:50,760 --> 00:18:53,660
+diese 15, 4 mal 5 ist diese 20, also
+
+565
+00:18:53,660 --> 00:18:56,860
+20. Im rechten Bruch 2 mal 4 ist
+
+566
+00:18:56,860 --> 00:18:59,940
+diese 8 und 5 mal 4 ist diese 20 für
+
+567
+00:18:59,940 --> 00:19:04,340
+20. Also 15 20 plus 8 20, wir müssen
+
+568
+00:19:04,340 --> 00:19:06,000
+nur noch die Zähler addieren und da
+
+569
+00:19:06,000 --> 00:19:06,920
+möchte ich auch kurz nochmal darauf
+
+570
+00:19:06,920 --> 00:19:08,480
+hinweisen, an diesem Schritt addiert
+
+571
+00:19:08,480 --> 00:19:10,080
+man nur noch die Zähler zusammen, der
+
+572
+00:19:10,080 --> 00:19:12,880
+Nenner bleibt 20 und wir erhalten
+
+573
+00:19:12,880 --> 00:19:15,920
+also 15 plus 8 ist 23 insgesamt. Also
+
+574
+00:19:15,920 --> 00:19:19,440
+23 Zwanzigstel. Okay, hier haben wir
+
+575
+00:19:19,440 --> 00:19:20,980
+also auf die 20 erweitert, denn wir
+
+576
+00:19:20,980 --> 00:19:23,000
+hatten es mit den Nennern 4 und 5 zu
+
+577
+00:19:23,000 --> 00:19:25,800
+tun. Hier ein weiteres Beispiel, und
+
+578
+00:19:25,800 --> 00:19:27,220
+das ist schon mal ein gutes Beispiel,
+
+579
+00:19:27,340 --> 00:19:30,380
+warum es sinnvoll ist, manchmal nicht
+
+580
+00:19:30,380 --> 00:19:32,620
+diese über Kreuz erweiterten Technik
+
+581
+00:19:32,620 --> 00:19:34,100
+zu verwenden. Wir haben hier den
+
+582
+00:19:34,100 --> 00:19:37,160
+Bruch 1 Neuntel und 2 Drittel. So,
+
+583
+00:19:37,160 --> 00:19:38,200
+und jetzt könnten wir hingehen und
+
+584
+00:19:38,200 --> 00:19:39,580
+den linken mit 3 erweitern, den
+
+585
+00:19:39,580 --> 00:19:41,800
+rechten mit 9 erweitern. Aber die
+
+586
+00:19:41,800 --> 00:19:44,020
+Idee hier ist, es reicht ja, den
+
+587
+00:19:44,020 --> 00:19:45,620
+rechten Bruch zu erweitern, denn die
+
+588
+00:19:45,620 --> 00:19:47,740
+3, also die Drittel, die können wir
+
+589
+00:19:47,740 --> 00:19:50,000
+jetzt zu Neunteln machen. Wir können
+
+590
+00:19:50,000 --> 00:19:51,740
+einfach den rechten Bruch mit einer 3
+
+591
+00:19:51,740 --> 00:19:53,400
+erweitern und dann haben wir beide
+
+592
+00:19:53,400 --> 00:19:55,160
+Brüche schon als Neuntel stehen. Also
+
+593
+00:19:55,160 --> 00:19:56,460
+den linken lassen wir in Ruhe, der
+
+594
+00:19:56,460 --> 00:19:58,300
+bleibt ein Neuntel. Den rechten
+
+595
+00:19:58,300 --> 00:20:01,280
+erweitern wir auf 6 Neuntel. Und dann
+
+596
+00:20:01,280 --> 00:20:02,120
+können wir die schon zusammen
+
+597
+00:20:02,120 --> 00:20:03,720
+addieren. Ansonsten hätten wir es
+
+598
+00:20:03,720 --> 00:20:05,140
+jetzt mit 7 Zwanzigsteln zu tun
+
+599
+00:20:05,140 --> 00:20:06,580
+gehabt, wenn wir über Kreuz erweitert
+
+600
+00:20:06,580 --> 00:20:07,840
+hätten. Das ist schon mal so ein
+
+601
+00:20:07,840 --> 00:20:09,180
+einfaches Beispiel, wenn man sieht,
+
+602
+00:20:09,280 --> 00:20:11,280
+der eine Nenner ist ein Vielfaches
+
+603
+00:20:11,280 --> 00:20:12,920
+von dem anderen Nenner, dann reicht
+
+604
+00:20:12,920 --> 00:20:14,240
+es auch nur, diesen anderen eben zu
+
+605
+00:20:14,240 --> 00:20:16,720
+erweitern, um auf die Größere von
+
+606
+00:20:16,720 --> 00:20:19,400
+beiden zu kommen. Und jetzt machen
+
+607
+00:20:19,400 --> 00:20:20,200
+wir noch ein Beispiel mit
+
+608
+00:20:20,200 --> 00:20:22,540
+Subtraktion. Und das ist ein
+
+609
+00:20:22,540 --> 00:20:25,420
+Beispiel, wo wir generell uns vorher
+
+610
+00:20:25,420 --> 00:20:26,880
+Gedanken machen, wie wir erweitern.
+
+611
+00:20:26,880 --> 00:20:28,020
+und der Unterschied, dass wir jetzt
+
+612
+00:20:28,020 --> 00:20:29,040
+hier nur subtrahieren, das ist
+
+613
+00:20:29,040 --> 00:20:29,960
+einfach nur, um noch ein bisschen
+
+614
+00:20:29,960 --> 00:20:32,060
+Variation reinzubringen. Wir haben 3
+
+615
+00:20:32,060 --> 00:20:34,180
+Viertel minus 1 Sechstel. Auch hier,
+
+616
+00:20:34,180 --> 00:20:35,160
+wir müssen auf den gleichen Nenner
+
+617
+00:20:35,160 --> 00:20:37,340
+bringen. Wir könnten jetzt mit 6 und
+
+618
+00:20:37,340 --> 00:20:39,300
+mit 4 erweitern, aber auch das würde
+
+619
+00:20:39,300 --> 00:20:41,560
+unnötig groß werden. Wir überlegen
+
+620
+00:20:41,560 --> 00:20:44,360
+uns, was ist das kleinste gemeinsame
+
+621
+00:20:44,360 --> 00:20:46,780
+Vielfache von 4 und 6? 6, naja, in
+
+622
+00:20:46,780 --> 00:20:49,000
+der 4er-Reihe haben wir die 12, also
+
+623
+00:20:49,000 --> 00:20:52,140
+4, 8, 12 und in der 6er-Reihe haben
+
+624
+00:20:52,140 --> 00:20:56,080
+wir 6, 12, 18, 24 und so weiter. Also
+
+625
+00:20:56,080 --> 00:20:57,920
+beide haben als 12 den gemeinsamen
+
+626
+00:20:57,920 --> 00:20:59,940
+Nenner. Das heißt, die Idee ist oft,
+
+627
+00:21:00,000 --> 00:21:01,260
+dass man sich überlegt, was ist das
+
+628
+00:21:01,260 --> 00:21:03,140
+kleinste gemeinsame Vielfache von den
+
+629
+00:21:03,140 --> 00:21:05,460
+beiden Zahlen, um dann praktisch mal
+
+630
+00:21:05,460 --> 00:21:06,860
+zu wissen, was ist der Hauptnenner,
+
+631
+00:21:06,860 --> 00:21:08,400
+den ich suche, in diesem Fall die 12,
+
+632
+00:21:08,400 --> 00:21:10,080
+12 und dann nur noch passend zu
+
+633
+00:21:10,080 --> 00:21:11,920
+erweitern, um auf diese 12 zu kommen.
+
+634
+00:21:12,260 --> 00:21:13,800
+In diesem Fall müssen wir also links
+
+635
+00:21:13,800 --> 00:21:15,900
+mit der 3 erweitern, weil 4 mal 3 12
+
+636
+00:21:15,900 --> 00:21:18,440
+sind im Nenner und rechts müssen wir
+
+637
+00:21:18,440 --> 00:21:21,300
+mit der 2 erweitern, weil 6 mal 2 12
+
+638
+00:21:21,300 --> 00:21:23,420
+ist im Nenner. Und dann machen wir es
+
+639
+00:21:23,420 --> 00:21:24,560
+mit dem Rest auch so. Wir erhalten
+
+640
+00:21:24,560 --> 00:21:27,000
+dann die Brüche 9 zwölftel minus 2
+
+641
+00:21:27,000 --> 00:21:29,760
+zwölftel und wie gesagt, jetzt müssen
+
+642
+00:21:29,760 --> 00:21:31,480
+wir minus rechnen, das heißt nur im
+
+643
+00:21:31,480 --> 00:21:34,360
+Zähler minus, 9 minus 2, das ist dann
+
+644
+00:21:34,360 --> 00:21:36,720
+diese 7 und wir erhalten insgesamt 7
+
+645
+00:21:36,720 --> 00:21:37,260
+zwölfte.
+
+646
+00:21:40,810 --> 00:21:42,510
+Okay, das waren im Grunde auch schon
+
+647
+00:21:42,510 --> 00:21:43,830
+die beiden schwierigen
+
+648
+00:21:43,830 --> 00:21:45,410
+Grundrechenarten von den Vieren.
+
+649
+00:21:45,470 --> 00:21:46,470
+Normalerweise kennt man ja irgendwie
+
+650
+00:21:46,470 --> 00:21:48,150
+das Mal und Geteiltnehmen irgendwie
+
+651
+00:21:48,150 --> 00:21:49,750
+die komplizierteren sind, aber
+
+652
+00:21:49,750 --> 00:21:51,390
+diesmal ist es so, Plus und Minus, da
+
+653
+00:21:51,390 --> 00:21:52,510
+brauchen wir diese Arbeit mit dem
+
+654
+00:21:52,510 --> 00:21:54,210
+Erweitern, damit die auf den gleichen
+
+655
+00:21:54,210 --> 00:21:55,730
+Nenner kommen. Jetzt kommen wir zur
+
+656
+00:21:55,730 --> 00:21:56,810
+Multiplikation und die ist
+
+657
+00:21:56,810 --> 00:21:58,470
+vergleichsweise relativ simpel
+
+658
+00:21:58,470 --> 00:21:58,810
+gehalten.
+
+659
+00:22:01,560 --> 00:22:04,380
+Es gibt eine ganz einfache Regel, die
+
+660
+00:22:04,380 --> 00:22:05,940
+man beim Multiplizieren verfolgen
+
+661
+00:22:05,940 --> 00:22:07,740
+muss und die heißt, dass wir den
+
+662
+00:22:07,740 --> 00:22:09,540
+Zähler mit dem Zähler multiplizieren
+
+663
+00:22:09,540 --> 00:22:11,900
+und den Nenner mit dem Nenner. Oder
+
+664
+00:22:11,900 --> 00:22:13,280
+noch kürzer, Zähler mal Zähler,
+
+665
+00:22:13,300 --> 00:22:14,820
+Nenner mal Nenner. Wir müssen den
+
+666
+00:22:14,820 --> 00:22:16,220
+Bruch nicht vorher gleichnamig
+
+667
+00:22:16,220 --> 00:22:17,600
+machen. Wir müssen nicht erweitern,
+
+668
+00:22:17,600 --> 00:22:18,780
+So wie wir es gerade gesehen haben.
+
+669
+00:22:19,180 --> 00:22:21,240
+Ganz einfaches Beispiel, 2 Fünftel
+
+670
+00:22:21,240 --> 00:22:23,200
+mal 6 Siebtel. Wenn wir die mal
+
+671
+00:22:23,200 --> 00:22:24,500
+nehmen wollen, können wir das zum
+
+672
+00:22:24,500 --> 00:22:25,440
+Beispiel so machen, dass wir dann
+
+673
+00:22:25,440 --> 00:22:26,820
+einfach den Bruchstrich durchziehen
+
+674
+00:22:26,820 --> 00:22:28,460
+und die Malpunkte im Zähler und
+
+675
+00:22:28,460 --> 00:22:30,180
+Nenner setzen, denn wir möchten
+
+676
+00:22:30,180 --> 00:22:31,440
+wirklich einfach diese beiden Zahlen
+
+677
+00:22:31,440 --> 00:22:34,480
+jeweils mal nehmen. 2 mal 6 sind 12,
+
+678
+00:22:34,800 --> 00:22:38,260
+5 mal 7 sind 35, also erhalten wir 12
+
+679
+00:22:38,260 --> 00:22:41,200
+Fünfunddreißigstel. Das war es dann
+
+680
+00:22:41,200 --> 00:22:45,260
+auch schon. Wie gesagt, der Merksatz
+
+681
+00:22:45,260 --> 00:22:46,620
+ist Zähler mal Zähler, Nenner mal
+
+682
+00:22:46,620 --> 00:22:48,080
+Nenner. Jetzt habe ich gesagt, das
+
+683
+00:22:48,080 --> 00:22:49,940
+war es schon. Es gibt aber eine
+
+684
+00:22:49,940 --> 00:22:51,520
+Kleinigkeit, die man dabei beachten
+
+685
+00:22:51,520 --> 00:22:53,620
+sollte. Die erste ist, am Ende immer
+
+686
+00:22:53,620 --> 00:22:56,500
+zu kürzen, wenn es geht. Wenn wir am
+
+687
+00:22:56,500 --> 00:22:59,060
+Ende diesen Bruch haben, 12,35 und
+
+688
+00:22:59,060 --> 00:23:00,600
+wir könnten den noch kürzen, wir
+
+689
+00:23:00,600 --> 00:23:03,160
+sehen eine Zahl, die Zähler und
+
+690
+00:23:03,160 --> 00:23:04,780
+Nenner teilt, dann sollten wir das in
+
+691
+00:23:04,780 --> 00:23:07,500
+der Regel tun. tun. Es gibt mal
+
+692
+00:23:07,500 --> 00:23:08,800
+Ausnahmen, wo man mitten in der
+
+693
+00:23:08,800 --> 00:23:10,240
+Rechnung ist und sich denkt, ich muss
+
+694
+00:23:10,240 --> 00:23:12,440
+aber diese 12,35 gleich mit anderen
+
+695
+00:23:12,440 --> 00:23:14,940
+35 zusammen addieren, dann lässt man
+
+696
+00:23:14,940 --> 00:23:16,160
+die natürlich, sonst muss man wieder
+
+697
+00:23:16,160 --> 00:23:18,560
+die Nenner gleichnamig machen. Aber
+
+698
+00:23:18,560 --> 00:23:19,700
+allgemein, wenn das jetzt ein
+
+699
+00:23:19,700 --> 00:23:21,280
+Endergebnis wäre einer Rechnung, dann
+
+700
+00:23:21,280 --> 00:23:22,300
+sollte man noch schauen, ob man es
+
+701
+00:23:22,300 --> 00:23:26,160
+kürzen kann. Das ist aber nur die
+
+702
+00:23:26,160 --> 00:23:27,440
+halbe Story. Die andere andere Hälfte
+
+703
+00:23:27,440 --> 00:23:29,140
+kommt gleich. Hier machen wir ein
+
+704
+00:23:29,140 --> 00:23:30,540
+Beispiel, wo wir auch am Ende kürzen.
+
+705
+00:23:30,720 --> 00:23:33,560
+3 Viertel mal 2 Fünftel. Wir rechnen
+
+706
+00:23:33,560 --> 00:23:35,620
+3 mal 2 im Zähler, 4 mal 5 im Nenner.
+
+707
+00:23:35,820 --> 00:23:38,700
+Ganz simpel. 3 mal 2 sind 6, 4 mal 5
+
+708
+00:23:38,700 --> 00:23:40,620
+sind 20. Also haben wir als Ergebnis
+
+709
+00:23:40,620 --> 00:23:43,260
+erstmal 6 Zwanzigstel. Das kann man
+
+710
+00:23:43,260 --> 00:23:45,300
+auch so weit im Kopf erreichen. Und
+
+711
+00:23:45,300 --> 00:23:46,840
+was wir dann noch machen, ist wir
+
+712
+00:23:46,840 --> 00:23:47,680
+schauen, schauen, ob wir kürzen
+
+713
+00:23:47,680 --> 00:23:49,780
+können. Beide Zahlen sind gerade. 6
+
+714
+00:23:49,780 --> 00:23:51,460
+ist gerade, 20 ist gerade. Also
+
+715
+00:23:51,460 --> 00:23:52,620
+können wir auf jeden Fall mit der 2
+
+716
+00:23:52,620 --> 00:23:55,060
+kürzen. Und dann erhalten wir 6 durch
+
+717
+00:23:55,060 --> 00:23:57,660
+2 sind 3 im Zähler und im Nenner 20
+
+718
+00:23:57,660 --> 00:24:00,880
+durch 2, das sind 10. Also 3 Zehntel.
+
+719
+00:24:00,920 --> 00:24:03,440
+Das Ergebnis ist 3 Zehntel. Wie
+
+720
+00:24:03,440 --> 00:24:04,560
+gesagt, das sollten wir in der Regel
+
+721
+00:24:04,560 --> 00:24:05,860
+tun, am Ende schauen, ob wir kürzen
+
+722
+00:24:05,860 --> 00:24:08,220
+können. Hier noch ein weiteres
+
+723
+00:24:08,220 --> 00:24:09,820
+Beispiel, etwas größere Zahlen, auch
+
+724
+00:24:09,820 --> 00:24:11,440
+hier können wir am Ende kürzen, 8
+
+725
+00:24:11,440 --> 00:24:13,480
+Neuntel mal 6 Siebtel, im Zähler
+
+726
+00:24:13,480 --> 00:24:15,120
+rechnen wir 8 mal 6, im Nenner
+
+727
+00:24:15,120 --> 00:24:17,660
+rechnen wir 9 mal 7. 7. 8 mal 6 sind
+
+728
+00:24:17,660 --> 00:24:21,420
+48, 9 mal 7 sind 63 und wir haben 48
+
+729
+00:24:21,420 --> 00:24:23,120
+Dreihundsechzigstel. Und hier müssen
+
+730
+00:24:23,120 --> 00:24:24,440
+wir wieder hinschauen, okay, welche
+
+731
+00:24:24,440 --> 00:24:26,880
+Zahl teilt denn beide? Und wenn man
+
+732
+00:24:26,880 --> 00:24:28,420
+genau hinschaut oder seine
+
+733
+00:24:28,420 --> 00:24:30,800
+Zahlenreihen gut kennt oder seine
+
+734
+00:24:30,800 --> 00:24:32,380
+Teilbarkeitsregeln gut kennt, dann
+
+735
+00:24:32,380 --> 00:24:34,360
+sieht man, oh, da geht die 3 rein in
+
+736
+00:24:34,360 --> 00:24:36,820
+die 48 und in die 63. Wenn wir also
+
+737
+00:24:36,820 --> 00:24:38,400
+mit der 3 kürzen, erhalten wir dann
+
+738
+00:24:38,400 --> 00:24:41,800
+16 Einundzwanzigstel. Okay. Okay,
+
+739
+00:24:41,800 --> 00:24:44,160
+denn was typischerweise passiert
+
+740
+00:24:44,160 --> 00:24:45,820
+durch Malrechnen, entstehen natürlich
+
+741
+00:24:45,820 --> 00:24:47,560
+größere Zahlen oder noch schneller
+
+742
+00:24:47,560 --> 00:24:49,840
+größere Zahlen als beim Addieren und
+
+743
+00:24:49,840 --> 00:24:51,600
+gerade da lohnt es sich am Ende zu
+
+744
+00:24:51,600 --> 00:24:53,340
+schauen, ob wir kürzen können. Aber
+
+745
+00:24:53,340 --> 00:24:54,740
+hier ist jetzt endlich die andere
+
+746
+00:24:54,740 --> 00:24:59,180
+Hälfte der Story. Wir können, ah
+
+747
+00:24:59,180 --> 00:25:00,540
+Mist, haben wir das, Moment, ich muss
+
+748
+00:25:00,540 --> 00:25:01,540
+mal ganz kurz schauen, ob wir das
+
+749
+00:25:01,540 --> 00:25:04,140
+hier haben. Ja, okay, die andere
+
+750
+00:25:04,140 --> 00:25:05,180
+Story kommt gleich bei der Division,
+
+751
+00:25:05,460 --> 00:25:06,360
+aber die gilt auch für die
+
+752
+00:25:06,360 --> 00:25:08,920
+Multiplikation. Wir können das kurz
+
+753
+00:25:08,920 --> 00:25:10,000
+in diesem zweiten Beispiel uns
+
+754
+00:25:10,000 --> 00:25:12,220
+anschauen Wir können auch schon Wir
+
+755
+00:25:12,220 --> 00:25:14,580
+müssen das Kürzen nicht erst am Ende
+
+756
+00:25:14,580 --> 00:25:16,480
+machen Wir können das Kürzen auch
+
+757
+00:25:16,480 --> 00:25:18,280
+dann ausführen Wenn wir die
+
+758
+00:25:18,280 --> 00:25:19,620
+Malrechnung noch gar nicht gemacht
+
+759
+00:25:19,620 --> 00:25:21,540
+haben Wenn wir uns diesen Buch hier
+
+760
+00:25:21,540 --> 00:25:23,020
+anschauen Wo die alle auf einem Buch
+
+761
+00:25:23,020 --> 00:25:26,080
+stehen 8 mal 6, 9 mal 7 Dann könnten
+
+762
+00:25:26,080 --> 00:25:27,820
+wir jetzt schon kürzen Indem wir
+
+763
+00:25:27,820 --> 00:25:30,000
+erkennen Okay, wir haben die 6 im
+
+764
+00:25:30,000 --> 00:25:32,640
+Zähler Wir haben die 9 im Nenner Ja,
+
+765
+00:25:32,640 --> 00:25:34,640
+beide sind durch 3 teilbar. Wir
+
+766
+00:25:34,640 --> 00:25:35,900
+können 6 durch 3 teilen und wir
+
+767
+00:25:35,900 --> 00:25:37,760
+können auch 9 durch 3 teilen. Und wir
+
+768
+00:25:37,760 --> 00:25:38,980
+könnten das dann auch schon früher
+
+769
+00:25:38,980 --> 00:25:40,500
+machen. Wir könnten schon an dieser
+
+770
+00:25:40,500 --> 00:25:43,220
+Stelle praktisch überkreuzt die 6 und
+
+771
+00:25:43,220 --> 00:25:45,280
+die 9 miteinander kürzen. Aber das
+
+772
+00:25:45,280 --> 00:25:46,460
+sehen wir gleich in einem Beispiel
+
+773
+00:25:46,460 --> 00:25:50,380
+bei der Division einmal genauer. Ich
+
+774
+00:25:50,380 --> 00:25:51,520
+kann hier nämlich leider nicht auf
+
+775
+00:25:51,520 --> 00:25:53,000
+den Bildschirm schreiben, sonst würde
+
+776
+00:25:53,000 --> 00:25:54,280
+ich es da einfach draufschreiben.
+
+777
+00:25:55,440 --> 00:25:56,920
+Okay, jetzt kommen wir zur Division.
+
+778
+00:25:56,920 --> 00:25:58,000
+Ich habe versprochen, dass die
+
+779
+00:25:58,000 --> 00:25:59,660
+Division auch nicht so schwer ist wie
+
+780
+00:25:59,660 --> 00:26:01,580
+Plus und Minus. Und der Grund liegt
+
+781
+00:26:01,580 --> 00:26:02,760
+dafür, dass wir eigentlich nie
+
+782
+00:26:02,760 --> 00:26:04,860
+wirklich Brüche dividieren, also nie
+
+783
+00:26:04,860 --> 00:26:06,940
+wirklich teilen, sondern eine
+
+784
+00:26:06,940 --> 00:26:08,460
+Division bei Brüchen immer zu einer
+
+785
+00:26:08,460 --> 00:26:10,160
+Multiplikation umschreiben.
+
+786
+00:26:12,960 --> 00:26:15,180
+Man muss dafür etwas benutzen, was
+
+787
+00:26:15,180 --> 00:26:16,660
+sich Kehrbruch nennt. Und Kehrbruch
+
+788
+00:26:16,660 --> 00:26:17,580
+ist eigentlich ein ganz einfaches
+
+789
+00:26:17,580 --> 00:26:19,220
+Konzept. Wenn wir einen Bruch haben
+
+790
+00:26:19,220 --> 00:26:20,620
+mit Zähler und Nenner, dann ist der
+
+791
+00:26:20,620 --> 00:26:22,740
+Kehrbruch einfach der, wo wir Zähler
+
+792
+00:26:22,740 --> 00:26:24,560
+und Nenner tauschen. Also den einen
+
+793
+00:26:24,560 --> 00:26:25,560
+nach unten, den anderen nach oben
+
+794
+00:26:25,560 --> 00:26:28,220
+schreiben. Und der Merksatz heißt
+
+795
+00:26:28,220 --> 00:26:30,340
+dann, dividiere, also Teilebrüche,
+
+796
+00:26:30,460 --> 00:26:32,120
+indem du mit dem Kehrbruch
+
+797
+00:26:32,120 --> 00:26:34,160
+multiplizierst. Die Idee ist also,
+
+798
+00:26:34,400 --> 00:26:36,620
+wir machen, das ist eine ganz
+
+799
+00:26:36,620 --> 00:26:38,220
+beliebte Idee in der Mathematik, wir
+
+800
+00:26:38,220 --> 00:26:40,120
+machen einfach zweimal das Gegenteil
+
+801
+00:26:40,120 --> 00:26:41,740
+und bekommen wieder das Ursprüngliche
+
+802
+00:26:41,740 --> 00:26:44,080
+heraus. Statt mit dem Bruch mal zu
+
+803
+00:26:44,080 --> 00:26:45,820
+nehmen, machen wir das Gegenteil vom
+
+804
+00:26:45,820 --> 00:26:47,460
+mal nehmen, das ist teilen, und das
+
+805
+00:26:47,460 --> 00:26:49,180
+Gegenteil von dem zweiten Bruch, das
+
+806
+00:26:49,180 --> 00:26:51,780
+ist nämlich der Kehrbruch. Das sieht
+
+807
+00:26:51,780 --> 00:26:53,460
+dann so aus. Wir haben 3 Achtel durch
+
+808
+00:26:53,460 --> 00:26:55,960
+2 Siebtel. Wir wollen also durch 2
+
+809
+00:26:55,960 --> 00:26:57,640
+Siebtel teilen. Das können wir auch
+
+810
+00:26:57,640 --> 00:27:00,740
+umschreiben zu 3 Achtel mal mal 7
+
+811
+00:27:00,740 --> 00:27:02,780
+halbe. Wir haben also die 2 und die 7
+
+812
+00:27:02,780 --> 00:27:05,220
+umgedreht. Und das ergibt tatsächlich
+
+813
+00:27:05,220 --> 00:27:07,820
+das gleiche. Weil wir praktisch 2 mal
+
+814
+00:27:07,820 --> 00:27:09,900
+das Gegenteil machen. Und wenn wir
+
+815
+00:27:09,900 --> 00:27:12,060
+jetzt 3 Achtel mal 7 halbe rechnen
+
+816
+00:27:12,060 --> 00:27:13,220
+möchten, naja, dann können wir das so
+
+817
+00:27:13,220 --> 00:27:14,440
+wie eben machen, zähler mal zähler,
+
+818
+00:27:14,580 --> 00:27:16,260
+nennler mal nennler, und erhalten als
+
+819
+00:27:16,260 --> 00:27:18,120
+Ergebnis die 21 Sechzehntel.
+
+820
+00:27:22,820 --> 00:27:25,160
+Okay, also dividieren tun wir in dem
+
+821
+00:27:25,160 --> 00:27:26,460
+Sinne nicht, sondern wir schreiben
+
+822
+00:27:26,460 --> 00:27:27,780
+das immer zu einer Malrechnung um.
+
+823
+00:27:27,780 --> 00:27:29,740
+Wichtig ist, nicht nur das Geteilt zu
+
+824
+00:27:29,740 --> 00:27:30,740
+einem Mal zu ändern, sondern auch
+
+825
+00:27:30,740 --> 00:27:34,330
+wirklich den Kehrbruch zu bilden. Und
+
+826
+00:27:34,330 --> 00:27:35,450
+auch hierzu haben wir jetzt Beispiele
+
+827
+00:27:35,450 --> 00:27:36,950
+und bei dem letzten, wie versprochen,
+
+828
+00:27:36,970 --> 00:27:38,790
+sehen wir dann noch einmal, wie wir
+
+829
+00:27:38,790 --> 00:27:40,430
+das Kürzen auch ein bisschen
+
+830
+00:27:40,430 --> 00:27:42,570
+vorziehen können. Also nicht erst
+
+831
+00:27:42,570 --> 00:27:43,730
+ganz am Ende des Endergebnisses zu
+
+832
+00:27:43,730 --> 00:27:45,010
+kürzen, sondern auch schon mittendrin
+
+833
+00:27:45,010 --> 00:27:47,070
+in der Rechnung zu kürzen. Wir
+
+834
+00:27:47,070 --> 00:27:48,310
+beginnen erstmal mit einem einfachen
+
+835
+00:27:48,310 --> 00:27:50,750
+Beispiel, 1 Drittel durch 2 Fünftel.
+
+836
+00:27:51,110 --> 00:27:53,150
+Wir tauschen das geteilt durch ein
+
+837
+00:27:53,150 --> 00:27:55,170
+Mal um und machen den Kehrbruch von 2
+
+838
+00:27:55,170 --> 00:27:57,630
+Fünftel, das ist dann 5 Halbe. 1
+
+839
+00:27:57,630 --> 00:28:00,470
+Drittel mal 5 Halbe ist dann 1 mal 5
+
+840
+00:28:00,470 --> 00:28:03,310
+im Zähler, 3 mal 2 im Nenner, also 5
+
+841
+00:28:03,310 --> 00:28:05,430
+Sechstel. Und 5 Sechstel können wir
+
+842
+00:28:05,430 --> 00:28:06,970
+auch nicht mehr kürzen, da sind wir
+
+843
+00:28:06,970 --> 00:28:10,290
+schon fein raus. So, und jetzt ein
+
+844
+00:28:10,290 --> 00:28:12,830
+zweites Beispiel und da sehen wir
+
+845
+00:28:12,830 --> 00:28:14,710
+jetzt, wie wir das kürzen machen,
+
+846
+00:28:14,830 --> 00:28:16,470
+bevor wir zum Endergebnis kommen.
+
+847
+00:28:16,670 --> 00:28:17,390
+Naja, das sieht jetzt auch wieder
+
+848
+00:28:17,390 --> 00:28:18,550
+nach ein bisschen viel aus, aber wir
+
+849
+00:28:18,550 --> 00:28:19,570
+gehen da Schritt für Schritt durch.
+
+850
+00:28:19,910 --> 00:28:21,450
+Wir beginnen ganz links. Was wollen
+
+851
+00:28:21,450 --> 00:28:23,550
+wir eigentlich rechnen? 3 Vierzehntel
+
+852
+00:28:23,550 --> 00:28:26,070
+durch 9 Siebtel. Okay, wissen wir
+
+853
+00:28:26,070 --> 00:28:27,230
+erstmal, bevor wir da überhaupt groß
+
+854
+00:28:27,230 --> 00:28:28,610
+überlegen, wir schreiben das erstmal
+
+855
+00:28:28,610 --> 00:28:30,350
+zu einer Malrechnung um. um 3
+
+856
+00:28:30,350 --> 00:28:34,370
+Vierzehntel mal 7 Neuntel. Okay. So,
+
+857
+00:28:34,450 --> 00:28:36,310
+dann wissen wir, mal rechnen heißt
+
+858
+00:28:36,310 --> 00:28:37,850
+Zähler mal Zähler, Nenner mal Nenner.
+
+859
+00:28:37,910 --> 00:28:39,130
+Wir können die also einfach alle auf
+
+860
+00:28:39,130 --> 00:28:41,450
+einen Bruch schreiben. Ja, das müsst
+
+861
+00:28:41,450 --> 00:28:43,090
+ihr eigentlich in dem Sinne hier noch
+
+862
+00:28:43,090 --> 00:28:44,570
+nicht, aber es ist hilfreich, wenn
+
+863
+00:28:44,570 --> 00:28:45,710
+ihr euch das wirklich dann als einen
+
+864
+00:28:45,710 --> 00:28:49,250
+Bruch vorstellt, wo eine Malrechnung
+
+865
+00:28:49,250 --> 00:28:50,570
+im Zähler und eine Malrechnung im
+
+866
+00:28:50,570 --> 00:28:52,530
+Nenner steht. Und jetzt fangen wir an
+
+867
+00:28:52,530 --> 00:28:54,190
+zu kürzen. Wir können auch direkt mal
+
+868
+00:28:54,190 --> 00:28:56,590
+nehmen und müssten dann kürzen, aber
+
+869
+00:28:56,590 --> 00:28:57,510
+die Zahlen, die dann dabei
+
+870
+00:28:57,510 --> 00:28:59,310
+rauskommen, an denen ist es
+
+871
+00:28:59,310 --> 00:29:00,430
+vielleicht ein bisschen schwieriger
+
+872
+00:29:00,430 --> 00:29:02,990
+zu erkennen, welche Zahlen da zum
+
+873
+00:29:02,990 --> 00:29:05,170
+Kürzen helfen. An dieser Stelle ist
+
+874
+00:29:05,170 --> 00:29:06,450
+es einfacher, denn wir haben jetzt
+
+875
+00:29:06,450 --> 00:29:08,030
+einzelne Faktoren dort stehen. Wir
+
+876
+00:29:08,030 --> 00:29:09,550
+haben eine 3 und eine 7 im Zähler,
+
+877
+00:29:09,610 --> 00:29:11,150
+wir haben eine 14 und eine 9 im
+
+878
+00:29:11,150 --> 00:29:12,770
+Nenner und die sind ein bisschen
+
+879
+00:29:12,770 --> 00:29:14,170
+kleiner und wir können, wenn wir die
+
+880
+00:29:14,170 --> 00:29:15,630
+vergleichen, ein bisschen schneller
+
+881
+00:29:15,630 --> 00:29:17,570
+Teiler finden. Wir könnten zum
+
+882
+00:29:17,570 --> 00:29:18,890
+Beispiel damit anfangen, aus dem
+
+883
+00:29:18,890 --> 00:29:20,790
+Zähler die 7 und aus dem Nenner die
+
+884
+00:29:20,790 --> 00:29:23,270
+14 zu nehmen. Also man nimmt sich
+
+885
+00:29:23,270 --> 00:29:24,730
+praktisch immer einen Faktor aus dem
+
+886
+00:29:24,730 --> 00:29:26,270
+Zähler und einen Faktor aus dem
+
+887
+00:29:26,270 --> 00:29:27,450
+Nenner. Die müssen nicht
+
+888
+00:29:27,450 --> 00:29:29,050
+untereinander stehen, so wie die 7
+
+889
+00:29:29,050 --> 00:29:30,690
+und die 14, die sind ja überkreuzt
+
+890
+00:29:30,690 --> 00:29:33,070
+sozusagen. Aber einer aus dem Zähler,
+
+891
+00:29:33,110 --> 00:29:35,250
+einer aus dem Nenner. 7 und 14 haben
+
+892
+00:29:35,250 --> 00:29:38,050
+als gemeinsamen Teiler die 7. 7 durch
+
+893
+00:29:38,050 --> 00:29:40,430
+7 funktioniert wunderbar und 14 durch
+
+894
+00:29:40,430 --> 00:29:42,610
+7 funktioniert auch. Was kommt da
+
+895
+00:29:42,610 --> 00:29:45,290
+jeweils raus? Wenn wir die 7 durch
+
+896
+00:29:45,290 --> 00:29:47,870
+die 7 teilen, kommt diese 1 raus. Und
+
+897
+00:29:47,870 --> 00:29:49,670
+wenn wir die 14 durch die 7 teilen,
+
+898
+00:29:49,770 --> 00:29:51,190
+dann kommt diese 2 hier links raus.
+
+899
+00:29:51,590 --> 00:29:53,450
+Und die 3 und die 9, die haben wir
+
+900
+00:29:53,450 --> 00:29:54,670
+einfach weiter mitgeschleppt. Wir
+
+901
+00:29:54,670 --> 00:29:56,090
+haben also praktisch innerhalb dieser
+
+902
+00:29:56,090 --> 00:29:57,730
+Malrechnung, bevor wir die eigentlich
+
+903
+00:29:57,730 --> 00:29:59,690
+durchführen, haben wir gekürzt.
+
+904
+00:29:59,690 --> 00:30:01,510
+nämlich sozusagen diesen diesen bruch
+
+905
+00:30:01,510 --> 00:30:03,670
+der da so quer drin steckt diese 74
+
+906
+00:30:03,670 --> 00:30:06,990
+10 die haben wir einfach gekürzt also
+
+907
+00:30:06,990 --> 00:30:08,790
+machen wir jetzt weiter mit 3 x 1 im
+
+908
+00:30:08,790 --> 00:30:11,730
+zähler und 2 x 9 im nenner und die
+
+909
+00:30:11,730 --> 00:30:12,890
+könnten wir jetzt natürlich sowieso
+
+910
+00:30:12,890 --> 00:30:14,430
+wunderbar ausrechnen naja das geht
+
+911
+00:30:14,430 --> 00:30:16,230
+auf jeden fall im kopf wohin die 14
+
+912
+00:30:16,230 --> 00:30:17,430
+mal 9 müsste ich auch erst mal
+
+913
+00:30:17,430 --> 00:30:19,270
+überlegen aber zweimal neuen ist
+
+914
+00:30:19,270 --> 00:30:21,270
+super 3 x 1 super aber es geht noch
+
+915
+00:30:21,270 --> 00:30:22,850
+besser wir können jetzt noch mal
+
+916
+00:30:22,850 --> 00:30:24,170
+kürzen bevor wir die mal rechnung
+
+917
+00:30:24,170 --> 00:30:25,850
+ausführen wir haben jetzt Jetzt
+
+918
+00:30:25,850 --> 00:30:28,350
+überkreuz hier wieder die 3 und die
+
+919
+00:30:28,350 --> 00:30:29,590
+9. Und auch die haben einen
+
+920
+00:30:29,590 --> 00:30:30,910
+gemeinsamen Teiler, nämlich die 3.
+
+921
+00:30:31,490 --> 00:30:34,830
+Also im Zähler 3 geteilt durch diese
+
+922
+00:30:34,830 --> 00:30:36,530
+3, mit der wir kürzen, ist diese 1.
+
+923
+00:30:36,970 --> 00:30:39,730
+Und 9 geteilt durch diese 3 ist diese
+
+924
+00:30:39,730 --> 00:30:41,710
+3. Und jetzt haben wir es noch
+
+925
+00:30:41,710 --> 00:30:43,010
+einfacher. Wir haben jetzt richtig
+
+926
+00:30:43,010 --> 00:30:44,750
+kleine Zahlen. Wir haben 1 mal 1 im
+
+927
+00:30:44,750 --> 00:30:47,030
+Zähler und 2 mal 3 im Nenner. und die
+
+928
+00:30:47,030 --> 00:30:48,410
+eigentliche Malrechnung, die wir
+
+929
+00:30:48,410 --> 00:30:50,230
+jetzt durchführen müssen, ist im
+
+930
+00:30:50,230 --> 00:30:53,250
+Grunde ganz einfach. Und zwar 2 mal 3
+
+931
+00:30:53,250 --> 00:30:54,930
+nur noch. Ein Sechstel haben wir also
+
+932
+00:30:54,930 --> 00:30:57,850
+raus. Die Idee ist also, wenn ihr
+
+933
+00:30:57,850 --> 00:30:59,850
+kürzt, bevor ihr das Endergebnis
+
+934
+00:30:59,850 --> 00:31:01,310
+erreicht, dann habt ihr in der Regel
+
+935
+00:31:01,310 --> 00:31:02,950
+diese einzelnen Faktoren da stehen
+
+936
+00:31:02,950 --> 00:31:05,270
+und wenn ihr jetzt große Zahlen im
+
+937
+00:31:05,270 --> 00:31:06,470
+Zähler und im Nenner schon hättet,
+
+938
+00:31:06,470 --> 00:31:07,490
+Also angenommen, wir hätten das
+
+939
+00:31:07,490 --> 00:31:09,210
+ausgerechnet, die 3 mal die 7 und die
+
+940
+00:31:09,210 --> 00:31:10,670
+14 mal die 9, dann hättet ihr sehr
+
+941
+00:31:10,670 --> 00:31:12,310
+große Zahlen im Zähler und Nenner und
+
+942
+00:31:12,310 --> 00:31:14,190
+ihr müsstet ja dann darin Teiler
+
+943
+00:31:14,190 --> 00:31:15,750
+finden. Das heißt, im Kopf würdet ihr
+
+944
+00:31:15,750 --> 00:31:17,350
+die sowieso wieder in Faktoren zurück
+
+945
+00:31:17,350 --> 00:31:19,890
+zerlegen, um zu gucken, welche Teiler
+
+946
+00:31:19,890 --> 00:31:20,990
+sind da gemeinsam, also welche
+
+947
+00:31:20,990 --> 00:31:22,350
+Faktoren haben die beiden gemeinsam.
+
+948
+00:31:23,130 --> 00:31:24,650
+Na ja, die stehen ja hier schon
+
+949
+00:31:24,650 --> 00:31:28,350
+teilweise aufgebrochen
+
+950
+00:31:28,350 --> 00:31:29,790
+dort stehen. Ja, wir haben jetzt hier
+
+951
+00:31:29,790 --> 00:31:31,990
+keine Primfaktorzerlegung, zumindest
+
+952
+00:31:31,990 --> 00:31:33,590
+nicht im Nenner, aber wir haben
+
+953
+00:31:33,590 --> 00:31:34,930
+zumindest schon mal eine Zerlegung in
+
+954
+00:31:34,930 --> 00:31:36,630
+kleinere Faktoren und darin kann man
+
+955
+00:31:36,630 --> 00:31:38,270
+dann viel einfacher erkennen, welche
+
+956
+00:31:38,270 --> 00:31:39,810
+Teile wir haben und dementsprechend
+
+957
+00:31:39,810 --> 00:31:41,210
+kann man da auch schon viel einfacher
+
+958
+00:31:41,210 --> 00:31:43,110
+kürzen vorher. Also auf jeden Fall
+
+959
+00:31:43,110 --> 00:31:45,070
+meine Empfehlung immer, am Ende
+
+960
+00:31:45,070 --> 00:31:46,930
+kürzen solltet ihr sowieso, aber
+
+961
+00:31:46,930 --> 00:31:47,890
+schaut, ob ihr vielleicht schon
+
+962
+00:31:47,890 --> 00:31:49,970
+vorher kürzen könnt. Und damit sind
+
+963
+00:31:49,970 --> 00:31:50,830
+wir dann eigentlich auch schon am
+
+964
+00:31:50,830 --> 00:31:52,230
+Ende von unserer kleinen Übersicht.
+
+965
+00:31:53,290 --> 00:31:55,210
+Ich hoffe, das hat euch geholfen. Wir
+
+966
+00:31:55,210 --> 00:31:56,510
+haben also heute nochmal behandelt,
+
+967
+00:31:56,510 --> 00:31:57,750
+was ist eigentlich ein Bruchhof, so
+
+968
+00:31:57,750 --> 00:31:59,650
+brauchen wir die Erweitern, Kürzen
+
+969
+00:31:59,650 --> 00:32:02,570
+und die vier Grundrechenarten. Haben
+
+970
+00:32:02,570 --> 00:32:04,470
+wir hier eine Übersicht gehabt? Nein?
+
+971
+00:32:04,610 --> 00:32:05,850
+Dann lasse ich das einfach nochmal
+
+972
+00:32:05,850 --> 00:32:07,490
+stehen. Erstmal bedanke ich mich für
+
+973
+00:32:07,490 --> 00:32:08,890
+eure Aufmerksamkeit. Wenn jetzt noch
+
+974
+00:32:08,890 --> 00:32:10,590
+Fragen sind, dann schreibt die in den
+
+975
+00:32:10,590 --> 00:32:11,710
+Chat. Am besten schreibt ihr dann
+
+976
+00:32:11,710 --> 00:32:13,270
+einfach nur erstmal Frage und schickt
+
+977
+00:32:13,270 --> 00:32:14,470
+das ab, dann weiß ich, dass noch was
+
+978
+00:32:14,470 --> 00:32:16,730
+kommt. Ansonsten kann ich euch immer
+
+979
+00:32:16,730 --> 00:32:18,210
+empfehlen, falls ihr nicht sowieso
+
+980
+00:32:18,210 --> 00:32:19,550
+Hausaufgaben zu dem Thema habt,
+
+981
+00:32:19,690 --> 00:32:21,230
+schaut bei uns ins Online-Lerncenter,
+
+982
+00:32:21,370 --> 00:32:23,150
+dort findet ihr haufenweise Aufgaben
+
+983
+00:32:23,150 --> 00:32:24,970
+zum Thema Brüche. Brüche ist ein
+
+984
+00:32:24,970 --> 00:32:26,870
+beliebtes, großes Thema. Zu all
+
+985
+00:32:26,870 --> 00:32:27,810
+diesen Rechentechniken, die wir
+
+986
+00:32:27,810 --> 00:32:29,030
+gerade gesehen haben, findet ihr dort
+
+987
+00:32:29,030 --> 00:32:30,550
+Aufgaben, aber auch Aufgaben, die
+
+988
+00:32:30,550 --> 00:32:31,650
+jetzt nicht wirklich direkt mit dem
+
+989
+00:32:31,650 --> 00:32:32,910
+Rechnen zu tun haben, sondern auch
+
+990
+00:32:32,910 --> 00:32:34,410
+von dem Konzept Brüche. Also
+
+991
+00:32:34,410 --> 00:32:35,790
+irgendein Sachverhalt, der
+
+992
+00:32:35,790 --> 00:32:36,730
+beschrieben ist und ihr sollt dann
+
+993
+00:32:36,730 --> 00:32:38,030
+Brüche dazu aufstellen oder
+
+994
+00:32:38,030 --> 00:32:39,730
+umgekehrt, da ist ein Bruch gegeben
+
+995
+00:32:39,730 --> 00:32:41,030
+und ihr überlegt euch eine
+
+996
+00:32:41,030 --> 00:32:44,570
+Sachsituation oder ein Problem oder
+
+997
+00:32:44,570 --> 00:32:46,610
+eine Aufgabe drumherum. Und falls ihr
+
+998
+00:32:46,610 --> 00:32:47,590
+euch dann dabei doch nochmal ein
+
+999
+00:32:47,590 --> 00:32:48,650
+bisschen unsicher fühlt und doch
+
+1000
+00:32:48,650 --> 00:32:49,610
+nicht mehr wisst, ah, wie war das
+
+1001
+00:32:49,610 --> 00:32:50,590
+denn jetzt nochmal, dann haben wir
+
+1002
+00:32:50,590 --> 00:32:52,110
+natürlich noch unsere Lernvideos und
+
+1003
+00:32:52,110 --> 00:32:54,050
+Wikis, an denen ihr euch dann nochmal
+
+1004
+00:32:54,050 --> 00:32:55,170
+ein bisschen das Ganze auffrischen
+
+1005
+00:32:55,170 --> 00:32:55,490
+könnt. hat.
+
+1006
+00:33:00,020 --> 00:33:01,660
+Okay, wunderbar. Dann auch einen
+
+1007
+00:33:01,660 --> 00:33:03,260
+schönen Abend noch und bis zum
+
+1008
+00:33:03,260 --> 00:33:03,980
+nächsten Mal. Tschüss.
+

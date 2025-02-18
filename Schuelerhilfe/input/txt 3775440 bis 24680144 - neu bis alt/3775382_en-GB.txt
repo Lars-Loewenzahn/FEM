@@ -1,0 +1,508 @@
+﻿1
+00:00:04,110 --> 00:00:06,230
+Hello, my name is Paula and I 
+
+2
+00:00:06,230 --> 00:00:07,450
+am a tutor 
+
+3
+00:00:07,450 --> 00:00:09,530
+at Schülerhilfe. Today I would like to 
+
+4
+00:00:09,530 --> 00:00:11,190
+
+5
+00:00:11,190 --> 00:00:12,910
+explain the redox reaction to you. In our 
+online 
+
+6
+00:00:12,910 --> 00:00:14,810
+ learning center you will 
+
+7
+00:00:14,810 --> 00:00:15,970
+of course also find a wiki on this topic 
+
+8
+00:00:15,970 --> 00:00:17,690
+, in which the 
+
+9
+00:00:17,690 --> 00:00:19,310
+basic and important terms 
+
+10
+00:00:19,310 --> 00:00:22,570
+are explained in more detail. The 
+
+11
+00:00:22,570 --> 00:00:23,850
+redox reaction is an important 
+
+12
+00:00:23,850 --> 00:00:26,090
+reaction in chemistry and is used in 
+
+13
+00:00:26,090 --> 00:00:27,890
+many detection reactions. 
+
+14
+00:00:28,650 --> 00:00:30,890
+In order to understand it, we should 
+
+15
+00:00:30,890 --> 00:00:31,970
+first 
+
+16
+00:00:31,970 --> 00:00:34,230
+take another look at the oxidation 
+numbers, as they 
+
+17
+00:00:34,230 --> 00:00:35,570
+are the basis for 
+
+18
+00:00:35,570 --> 00:00:37,490
+understanding and applying the redox 
+reaction 
+
+19
+00:00:37,490 --> 00:00:39,890
+. If you 
+
+20
+00:00:39,890 --> 00:00:41,590
+
+21
+00:00:41,590 --> 00:00:43,330
+would like to find out more about 
+oxidation numbers 
+
+22
+00:00:43,330 --> 00:00:44,390
+, you can watch the video 
+
+23
+00:00:44,390 --> 00:00:47,290
+Oxidation numbers. Nevertheless, 
+
+24
+00:00:47,290 --> 00:00:48,710
+I will also 
+
+25
+00:00:48,710 --> 00:00:50,430
+briefly 
+
+26
+00:00:50,430 --> 00:00:52,730
+mention the most important facts about 
+oxidation numbers here. For 
+
+27
+00:00:52,730 --> 00:00:54,470
+elementary substances 
+
+28
+00:00:54,470 --> 00:00:57,150
+, the oxidation number is 0. Elementary 
+
+29
+00:00:57,150 --> 00:00:58,870
+means that they do not 
+
+30
+00:00:58,870 --> 00:01:00,790
+occur in a compound. 
+
+31
+00:01:00,790 --> 00:01:02,610
+It is important to 
+
+32
+00:01:02,610 --> 00:01:04,770
+pay attention to additional information , 
+such as whether the 
+
+33
+00:01:04,770 --> 00:01:06,690
+elementary substance 
+
+34
+00:01:06,690 --> 00:01:09,110
+is negatively or positively charged. If 
+neither 
+
+35
+00:01:09,110 --> 00:01:10,310
+is the case, the 
+
+36
+00:01:10,310 --> 00:01:12,010
+oxidation number of the substance is 0. 
+
+37
+00:01:12,890 --> 00:01:15,190
+Hydrogen, for example, usually has 
+
+38
+00:01:15,190 --> 00:01:17,410
+an oxidation number plus 1 and 
+
+39
+00:01:17,410 --> 00:01:20,250
+oxygen minus 2. It is important to note 
+that 
+
+40
+00:01:20,250 --> 00:01:21,930
+the compound of several elements 
+
+41
+00:01:21,930 --> 00:01:23,950
+must always be 0 if it 
+
+42
+00:01:23,950 --> 00:01:25,690
+
+43
+00:01:25,690 --> 00:01:28,150
+is not negatively or positively charged. 
+Let's take a look at the example of the 
+
+44
+00:01:28,150 --> 00:01:30,050
+reaction between copper oxide and 
+
+45
+00:01:30,050 --> 00:01:32,130
+hydrogen. I will come back 
+
+46
+00:01:32,130 --> 00:01:34,890
+to this later. The 
+
+47
+00:01:34,890 --> 00:01:36,650
+oxidation number is written above the 
+substance 
+
+48
+00:01:36,650 --> 00:01:39,410
+with a plus or minus sign and 
+
+49
+00:01:39,410 --> 00:01:40,690
+a Roman numeral. 
+
+50
+00:01:41,610 --> 00:01:43,950
+
+51
+00:01:43,950 --> 00:01:45,450
+
+52
+00:01:45,450 --> 00:01:47,870
+
+53
+00:01:47,870 --> 00:01:50,150
+Colors are often used to illustrate 
+whether the oxidation number is positive 
+or negative. 
+
+54
+00:01:50,150 --> 00:01:52,590
+For example, use green for 0, red for 
+
+55
+00:01:52,590 --> 00:01:54,710
+negative numbers and blue for positive 
+
+56
+00:01:54,710 --> 00:01:57,090
+numbers. So, after a 
+
+57
+00:01:57,090 --> 00:01:58,170
+brief repetition of 
+
+58
+00:01:58,170 --> 00:01:59,810
+oxidation numbers , we now come to the 
+
+59
+00:01:59,810 --> 00:02:02,490
+redox reaction. You may be wondering 
+
+60
+00:02:02,490 --> 00:02:04,070
+why this is 
+
+61
+00:02:04,070 --> 00:02:06,370
+actually called a redox reaction. It's 
+quite 
+
+62
+00:02:06,370 --> 00:02:09,070
+simple. The name redox 
+
+63
+00:02:09,070 --> 00:02:10,910
+is made up of the terms reduction and 
+
+64
+00:02:10,910 --> 00:02:13,770
+oxidation. The initial letters of 
+
+65
+00:02:13,770 --> 00:02:15,690
+both processes therefore form the 
+
+66
+00:02:15,690 --> 00:02:18,390
+term redox. Let's now take a look 
+
+67
+00:02:18,390 --> 00:02:19,730
+at what exactly a 
+
+68
+00:02:19,730 --> 00:02:22,450
+redox reaction actually is. 
+
+69
+00:02:22,450 --> 00:02:23,810
+As we have just seen in the naming 
+
+70
+00:02:23,810 --> 00:02:26,130
+, the redox reaction consists of 
+
+71
+00:02:26,130 --> 00:02:28,050
+at least one oxidation and 
+
+72
+00:02:28,050 --> 00:02:30,950
+at least one reduction. 
+
+73
+00:02:30,950 --> 00:02:33,290
+Oxidation occurs when 
+
+74
+00:02:33,290 --> 00:02:35,790
+electrons are released . 
+
+75
+00:02:35,790 --> 00:02:38,150
+The opposite is true for reduction. 
+
+76
+00:02:38,310 --> 00:02:39,950
+Here the electrons are 
+
+77
+00:02:39,950 --> 00:02:42,270
+absorbed. A reducing agent 
+
+78
+00:02:42,270 --> 00:02:44,030
+is also called a donor and is 
+
+79
+00:02:44,030 --> 00:02:45,470
+responsible for 
+
+80
+00:02:45,630 --> 00:02:48,590
+releasing electrons in the reaction. 
+Conversely 
+
+81
+00:02:48,590 --> 00:02:50,370
+, the oxidizing agent, also 
+
+82
+00:02:50,370 --> 00:02:52,050
+known as an acceptor, accepts the 
+
+83
+00:02:52,050 --> 00:02:55,210
+electrons . Let's come back to 
+
+84
+00:02:55,210 --> 00:02:57,710
+our example. The reaction of 
+
+85
+00:02:57,710 --> 00:03:00,030
+copper oxide and hydrogen to water 
+
+86
+00:03:00,030 --> 00:03:02,490
+and copper. First we set up the 
+
+87
+00:03:02,490 --> 00:03:04,850
+reaction equation. Then 
+
+88
+00:03:04,850 --> 00:03:06,370
+the oxidation numbers are 
+
+89
+00:03:06,370 --> 00:03:08,450
+written above each element. Now 
+
+90
+00:03:08,450 --> 00:03:10,350
+compare the oxidation numbers 
+
+91
+00:03:10,350 --> 00:03:12,270
+on the reactant and product sides 
+
+92
+00:03:12,270 --> 00:03:14,330
+. You can see here 
+
+93
+00:03:14,470 --> 00:03:17,630
+that the oxidation number of Cu, i.e. 
+
+94
+00:03:17,630 --> 00:03:20,650
+copper, goes from plus 2 on the reactant 
+
+95
+00:03:20,650 --> 00:03:24,150
+side to 0 on the product side. 
+
+96
+00:03:24,150 --> 00:03:26,770
+A reduction is therefore taking place 
+here. In the case of 
+
+97
+00:03:26,770 --> 00:03:28,430
+hydrogen, you can see that 
+
+98
+00:03:28,430 --> 00:03:30,690
+the oxidation number 
+
+99
+00:03:30,690 --> 00:03:33,110
+was 0 on the reactant side and plus 1 on 
+the product side, 
+
+100
+00:03:33,770 --> 00:03:35,870
+so oxidation is taking place here. 
+
+101
+00:03:36,690 --> 00:03:38,850
+As this reaction involves oxidation 
+
+102
+00:03:38,850 --> 00:03:41,330
+and reduction, it 
+
+103
+00:03:41,330 --> 00:03:42,370
+is a 
+
+104
+00:03:42,370 --> 00:03:45,090
+redox reaction. Here is 
+
+105
+00:03:45,090 --> 00:03:46,710
+
+106
+00:03:46,710 --> 00:03:48,410
+
+107
+00:03:48,410 --> 00:03:49,710
+a brief 
+
+108
+00:03:49,710 --> 00:03:52,150
+summary of the most important steps that 
+you need to follow in the redox reaction. 
+Firstly 
+
+109
+00:03:52,150 --> 00:03:53,610
+, set up the reaction equation. 
+
+110
+00:03:54,230 --> 00:03:55,950
+Secondly 
+
+111
+00:03:55,950 --> 00:03:58,610
+, write down the oxidation numbers . 
+Thirdly 
+
+112
+00:03:58,610 --> 00:04:00,430
+
+113
+00:04:00,430 --> 00:04:03,210
+, compare the oxidation numbers of the 
+product side and the reactant side. 
+Fourthly, if 
+
+114
+00:04:03,210 --> 00:04:04,930
+
+115
+00:04:04,930 --> 00:04:07,070
+there is both a reduction and an oxidation 
+
+116
+00:04:07,070 --> 00:04:10,610
+, it is a redox reaction. I hope 
+
+117
+00:04:10,650 --> 00:04:12,330
+I have been able to help you 
+
+118
+00:04:12,330 --> 00:04:14,290
+better understand the topic of redox 
+reactions. 
+
+119
+00:04:14,790 --> 00:04:16,570
+If you still have questions about this 
+
+120
+00:04:16,570 --> 00:04:18,330
+or other topics, 
+
+121
+00:04:18,330 --> 00:04:20,350
+please feel free to use our other learning 
+content in the 
+
+122
+00:04:20,350 --> 00:04:22,510
+online learning center or contact 
+
+123
+00:04:22,510 --> 00:04:24,590
+your local student help center. See you 
+
+124
+00:04:24,590 --> 00:04:25,070
+next time! 

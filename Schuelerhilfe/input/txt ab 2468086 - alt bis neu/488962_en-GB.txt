@@ -1,0 +1,294 @@
+﻿1
+00:00:00,820 --> 00:00:03,940
+Welcome to IK7. In this 
+
+2
+00:00:03,940 --> 00:00:05,780
+sequence, I would like to 
+
+3
+00:00:05,780 --> 00:00:09,020
+introduce you to the dashboard. As soon as 
+you 
+
+4
+00:00:09,020 --> 00:00:11,220
+
+5
+00:00:11,220 --> 00:00:13,460
+have successfully logged in to IK7 , the 
+dashboard opens. It 
+
+6
+00:00:13,460 --> 00:00:15,880
+is the start page for IK7, so to speak. 
+
+7
+00:00:17,400 --> 00:00:19,400
+On this start page, you will find 
+
+8
+00:00:19,400 --> 00:00:20,940
+all the important and relevant 
+
+9
+00:00:20,940 --> 00:00:23,360
+information you need to 
+
+10
+00:00:23,360 --> 00:00:25,460
+manage and influence your day-to-day 
+business 
+
+11
+00:00:25,460 --> 00:00:28,380
+. 
+
+12
+00:00:28,380 --> 00:00:30,980
+You can see the weekly schedule on the 
+left-hand side . 
+
+13
+00:00:30,980 --> 00:00:33,420
+The current week is displayed here. 
+
+14
+00:00:33,420 --> 00:00:35,820
+You can use the arrows 
+
+15
+00:00:35,820 --> 00:00:39,040
+to scroll backwards and forwards. 
+
+16
+00:00:39,040 --> 00:00:40,260
+You also receive visual 
+
+17
+00:00:40,260 --> 00:00:42,980
+support in that the events 
+
+18
+00:00:42,980 --> 00:00:44,680
+
+19
+00:00:44,680 --> 00:00:48,800
+are marked with a different colored 
+button. You will see 
+
+20
+00:00:48,800 --> 00:00:50,400
+
+21
+00:00:50,400 --> 00:00:52,920
+a small arrow at the bottom right of the 
+weekly schedule , which 
+
+22
+00:00:52,920 --> 00:00:55,360
+in turn 
+
+23
+00:00:55,360 --> 00:00:56,920
+hides the events that have already been 
+completed. 
+
+24
+00:01:00,470 --> 00:01:02,670
+On the right-hand side you will find 
+
+25
+00:01:02,670 --> 00:01:04,970
+several cards. Tiles. 
+
+26
+00:01:04,970 --> 00:01:07,590
+You will find the Requests tile, behind 
+which is 
+
+27
+00:01:07,590 --> 00:01:10,190
+the request book. 
+
+28
+00:01:10,190 --> 00:01:12,690
+You will find the Call planner tile and 
+the 
+
+29
+00:01:12,690 --> 00:01:15,710
+Journal tile . The Appointments tile 
+
+30
+00:01:15,710 --> 00:01:17,990
+contains the calendar. We have 
+
+31
+00:01:17,990 --> 00:01:20,470
+a large tile with tasks and 
+
+32
+00:01:20,470 --> 00:01:23,870
+the substitution plan. 
+
+33
+00:01:23,870 --> 00:01:26,270
+You can open the 
+
+34
+00:01:26,270 --> 00:01:29,110
+tiles using the three dots. Here, too, 
+
+35
+00:01:29,110 --> 00:01:30,530
+you receive visual support 
+
+36
+00:01:30,830 --> 00:01:33,010
+in that the tile changes color from 
+
+37
+00:01:33,010 --> 00:01:36,850
+blue to orange if 
+
+38
+00:01:36,850 --> 00:01:38,690
+
+39
+00:01:38,690 --> 00:01:41,790
+there are new unprocessed events and 
+requests in your tile that 
+
+40
+00:01:41,790 --> 00:01:43,310
+have not yet 
+
+41
+00:01:43,310 --> 00:01:47,520
+been processed by me or by you in the top 
+
+42
+00:01:47,520 --> 00:01:49,580
+bar you can see the respective 
+
+43
+00:01:49,580 --> 00:01:52,340
+areas ik7 stands for the 
+
+44
+00:01:52,340 --> 00:01:56,360
+courses dashboard here you will find all 
+things and 
+
+45
+00:01:56,360 --> 00:01:58,100
+all functions that 
+
+46
+00:01:58,100 --> 00:02:00,320
+belong to the context of courses on the 
+
+47
+00:02:00,320 --> 00:02:03,960
+substitution plan In the contacts area 
+
+48
+00:02:03,960 --> 00:02:06,060
+you will find all contacts to the 
+
+49
+00:02:06,060 --> 00:02:08,560
+students, to the registrants, to the 
+
+50
+00:02:08,560 --> 00:02:10,140
+teachers, but also to the 
+
+51
+00:02:10,140 --> 00:02:10,800
+staff. 
+
+52
+00:02:13,240 --> 00:02:15,340
+The Finances section 
+
+53
+00:02:15,340 --> 00:02:17,140
+
+54
+00:02:17,140 --> 00:02:19,080
+contains the school fees, the products, 
+the cash book, the fees, 
+
+55
+00:02:19,160 --> 00:02:21,060
+but also detailed information 
+
+56
+00:02:21,060 --> 00:02:25,120
+and records on contracts, 
+
+57
+00:02:25,120 --> 00:02:28,340
+registrations and terminations. 
+
+58
+00:02:28,340 --> 00:02:30,220
+Last but not least, the Service section 
+
+59
+00:02:30,220 --> 00:02:33,920
+contains all reports. 
+
+60
+00:02:33,920 --> 00:02:36,820
+On the right-hand side you can see the 
+
+61
+00:02:36,820 --> 00:02:39,540
+student help. For me here at the moment 
+
+62
+00:02:39,540 --> 00:02:40,940
+Gryffindor. I am in the 
+
+63
+00:02:40,940 --> 00:02:43,960
+play school. Other schools can be 
+
+64
+00:02:43,960 --> 00:02:46,600
+
+65
+00:02:46,600 --> 00:02:48,600
+displayed by clicking on this location and 
+you can see all 
+
+66
+00:02:48,600 --> 00:02:51,400
+other locations here. You have a 
+
+67
+00:02:51,400 --> 00:02:54,600
+search function. Behind the question mark 
+
+68
+00:02:54,600 --> 00:02:57,520
+is the handbook and last but not least 
+
+69
+00:02:57,520 --> 00:02:58,760
+you can lock yourself out. 
+
+70
+00:03:02,380 --> 00:03:03,840
+Now I invite you to 
+
+71
+00:03:03,840 --> 00:03:07,180
+join me in making inquiries. 
+
+72
+00:03:07,280 --> 00:03:08,840
+This is the next sequence. 

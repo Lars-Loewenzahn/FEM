@@ -1,0 +1,677 @@
+﻿1
+00:00:00,780 --> 00:00:02,440
+Hello and welcome to the 
+
+2
+00:00:02,440 --> 00:00:04,260
+Schülerhilfe learning videos. 
+
+3
+00:00:04,260 --> 00:00:05,520
+This video is about 
+
+4
+00:00:05,520 --> 00:00:08,240
+dictionaries. A dictionary can 
+
+5
+00:00:08,240 --> 00:00:10,480
+also be called a reference book. 
+
+6
+00:00:10,640 --> 00:00:12,480
+This can either be online in a 
+
+7
+00:00:12,480 --> 00:00:14,800
+search engine or an actual 
+
+8
+00:00:14,800 --> 00:00:17,420
+book for reference. What both 
+
+9
+00:00:17,420 --> 00:00:19,220
+have in common is that it is always an 
+
+10
+00:00:19,220 --> 00:00:21,740
+alphabetically sorted list of 
+
+11
+00:00:21,740 --> 00:00:24,340
+words to which certain 
+
+12
+00:00:24,340 --> 00:00:26,260
+information is assigned. 
+
+13
+00:00:28,560 --> 00:00:30,380
+Let's start with the 
+
+14
+00:00:30,380 --> 00:00:31,520
+structure of the dictionary. 
+
+15
+00:00:31,540 --> 00:00:33,400
+Dictionary. Depending on what kind of 
+
+16
+00:00:33,400 --> 00:00:35,080
+dictionary you use, it is structured a 
+
+17
+00:00:35,080 --> 00:00:37,580
+little differently. What they all have in 
+common is 
+
+18
+00:00:37,580 --> 00:00:38,900
+that they usually 
+
+19
+00:00:38,900 --> 00:00:41,160
+have user instructions that explain 
+
+20
+00:00:41,340 --> 00:00:43,000
+how best to 
+
+21
+00:00:43,000 --> 00:00:45,100
+use the dictionary . There is also a 
+
+22
+00:00:45,100 --> 00:00:47,380
+list of abbreviations with all the 
+
+23
+00:00:47,380 --> 00:00:49,120
+abbreviations 
+
+24
+00:00:49,120 --> 00:00:51,900
+used in the book. This is followed by 
+
+25
+00:00:51,900 --> 00:00:54,520
+the dictionary with all the 
+
+26
+00:00:54,520 --> 00:00:56,320
+words that are listed and 
+
+27
+00:00:56,320 --> 00:00:57,700
+there is usually also 
+
+28
+00:00:57,700 --> 00:00:59,780
+an appendix at the back , for example with 
+
+29
+00:00:59,780 --> 00:01:01,380
+irregular verbs or 
+
+30
+00:01:01,380 --> 00:01:05,230
+the like. 
+
+31
+00:01:05,230 --> 00:01:07,490
+Next , let's take a look at the different 
+types of 
+
+32
+00:01:07,490 --> 00:01:09,990
+dictionaries. First of all, 
+
+33
+00:01:09,990 --> 00:01:12,410
+there are language dictionaries. These 
+
+34
+00:01:12,410 --> 00:01:13,930
+either represent the entire 
+
+35
+00:01:13,930 --> 00:01:15,750
+vocabulary of a language or the 
+
+36
+00:01:15,750 --> 00:01:17,550
+partial vocabulary of a language. 
+
+37
+00:01:18,210 --> 00:01:19,810
+Partial vocabulary means 
+
+38
+00:01:19,810 --> 00:01:21,490
+, for example, that there are dictionaries 
+only about 
+
+39
+00:01:21,490 --> 00:01:23,830
+certain dialects or about 
+
+40
+00:01:23,830 --> 00:01:26,590
+colloquial language. What they all have in 
+common is 
+
+41
+00:01:26,790 --> 00:01:28,530
+that they provide linguistic information 
+
+42
+00:01:28,530 --> 00:01:31,110
+, i.e. how it is 
+
+43
+00:01:31,110 --> 00:01:33,550
+written, how it is pronounced, its 
+
+44
+00:01:33,550 --> 00:01:35,570
+origin, meaning and 
+
+45
+00:01:35,570 --> 00:01:38,430
+grammatical characteristics. There may 
+
+46
+00:01:38,430 --> 00:01:39,610
+also be an 
+
+47
+00:01:39,610 --> 00:01:41,870
+assignment of comparable words 
+
+48
+00:01:41,870 --> 00:01:44,690
+, for example synonyms or 
+
+49
+00:01:44,690 --> 00:01:46,950
+rhymes. Sometimes there are 
+
+50
+00:01:46,950 --> 00:01:48,750
+special dictionaries for this. These are 
+then called 
+
+51
+00:01:48,750 --> 00:01:50,130
+synonym dictionaries or rhyming 
+
+52
+00:01:50,130 --> 00:01:52,990
+dictionaries. Synonyms are words 
+
+53
+00:01:52,990 --> 00:01:55,250
+with very similar or very identical 
+
+54
+00:01:55,250 --> 00:01:58,610
+meanings 
+
+55
+00:01:58,610 --> 00:02:00,830
+that can be used in a similar way and 
+
+56
+00:02:00,830 --> 00:02:04,710
+do not differ greatly in their meaning. 
+
+57
+00:02:04,710 --> 00:02:06,510
+The next type of dictionary 
+
+58
+00:02:06,510 --> 00:02:09,270
+is the foreign dictionary. These 
+
+59
+00:02:09,270 --> 00:02:10,310
+list all the words from 
+
+60
+00:02:10,310 --> 00:02:12,030
+foreign language components that 
+
+61
+00:02:12,030 --> 00:02:14,010
+
+62
+00:02:14,010 --> 00:02:17,170
+are used in the German language. These are 
+frequently 
+
+63
+00:02:17,170 --> 00:02:18,390
+used phrases and 
+
+64
+00:02:18,390 --> 00:02:20,430
+idioms. And 
+
+65
+00:02:20,430 --> 00:02:23,130
+foreign language elements are then 
+
+66
+00:02:23,130 --> 00:02:24,590
+explained in more detail , for example 
+
+67
+00:02:24,590 --> 00:02:27,090
+the meaning, where it 
+
+68
+00:02:27,090 --> 00:02:29,330
+comes from, how it is pronounced and 
+
+69
+00:02:29,330 --> 00:02:34,070
+how it is written. Another type of 
+
+70
+00:02:34,070 --> 00:02:35,830
+dictionary 
+
+71
+00:02:35,830 --> 00:02:38,530
+is the lexicon or subject dictionary, 
+
+72
+00:02:38,750 --> 00:02:42,110
+encyclopaedia or specialist lexicon if 
+
+73
+00:02:42,110 --> 00:02:43,510
+it only 
+
+74
+00:02:43,510 --> 00:02:46,050
+relates to a specific subject area. Here, 
+more 
+
+75
+00:02:46,050 --> 00:02:47,970
+world and factual knowledge is conveyed 
+
+76
+00:02:47,970 --> 00:02:50,470
+instead of linguistic knowledge, which is 
+why 
+
+77
+00:02:50,470 --> 00:02:51,970
+it is also said to 
+
+78
+00:02:51,970 --> 00:02:54,690
+contain factual information. 
+
+79
+00:02:54,690 --> 00:02:56,390
+However, in some cases this can also 
+
+80
+00:02:56,390 --> 00:02:57,930
+be mixed with linguistic knowledge. 
+
+81
+00:03:00,840 --> 00:03:02,760
+Now we come to important questions. 
+
+82
+00:03:03,360 --> 00:03:05,560
+Firstly, why do I need a 
+
+83
+00:03:05,560 --> 00:03:07,720
+dictionary? With the help of a 
+
+84
+00:03:07,720 --> 00:03:10,140
+dictionary, you can 
+
+85
+00:03:10,140 --> 00:03:11,980
+
+86
+00:03:11,980 --> 00:03:14,580
+look up the pronunciation and spelling of 
+words and also what the words 
+
+87
+00:03:14,580 --> 00:03:16,860
+mean. Then you can also 
+
+88
+00:03:16,860 --> 00:03:18,720
+look up what certain 
+
+89
+00:03:18,720 --> 00:03:20,520
+idioms there are with this word 
+
+90
+00:03:20,520 --> 00:03:23,520
+and what examples of 
+
+91
+00:03:23,520 --> 00:03:25,140
+usage there are, i.e. in which 
+
+92
+00:03:25,140 --> 00:03:27,420
+situations the word is used. 
+
+93
+00:03:27,800 --> 00:03:29,660
+It is also very important that you 
+
+94
+00:03:29,660 --> 00:03:31,700
+
+95
+00:03:31,700 --> 00:03:33,440
+can use this to expand your vocabulary so 
+that you 
+
+96
+00:03:33,440 --> 00:03:38,070
+don't repeat yourself so often in your 
+texts. Then 
+
+97
+00:03:38,070 --> 00:03:40,450
+there's the important question of how do I 
+use 
+
+98
+00:03:40,450 --> 00:03:42,970
+my dictionary? The aim is 
+
+99
+00:03:42,970 --> 00:03:44,270
+, of course, to 
+
+100
+00:03:44,270 --> 00:03:47,290
+
+101
+00:03:47,290 --> 00:03:49,210
+be able to look up the information you are 
+looking for quickly and specifically so 
+
+102
+00:03:49,210 --> 00:03:53,350
+that you can find it as quickly as 
+possible. 
+
+103
+00:03:53,350 --> 00:03:56,010
+The following tips will help you do this. 
+The whole thing 
+
+104
+00:03:56,010 --> 00:03:58,710
+is always sorted alphabetically. 
+
+105
+00:03:58,710 --> 00:04:00,130
+This means that if you are 
+
+106
+00:04:00,130 --> 00:04:01,310
+looking for a specific word , you have to 
+
+107
+00:04:01,310 --> 00:04:03,130
+narrow it down further and further. For 
+example, if you 
+
+108
+00:04:03,130 --> 00:04:04,910
+are looking for cat, you first look 
+
+109
+00:04:04,910 --> 00:04:08,110
+up K, then go to K-A 
+
+110
+00:04:08,110 --> 00:04:10,230
+and so on and so forth, so keep 
+
+111
+00:04:10,230 --> 00:04:11,750
+narrowing it down according to the 
+
+112
+00:04:11,750 --> 00:04:13,810
+different letters. It is important that 
+
+113
+00:04:13,810 --> 00:04:14,870
+
+114
+00:04:14,870 --> 00:04:16,930
+
+115
+00:04:16,930 --> 00:04:19,330
+you pay attention to keywords and key 
+words. These are 
+
+116
+00:04:19,330 --> 00:04:21,310
+printed in bold at the top and help you to 
+
+117
+00:04:21,310 --> 00:04:23,770
+find a word more quickly. Please 
+
+118
+00:04:23,770 --> 00:04:25,510
+also note that not all 
+
+119
+00:04:25,510 --> 00:04:28,030
+word forms are shown in the dictionary. 
+
+120
+00:04:28,030 --> 00:04:29,910
+For example, verbs are always in the 
+
+121
+00:04:29,910 --> 00:04:32,390
+infinitive and compound words 
+
+122
+00:04:32,390 --> 00:04:33,850
+are sometimes not included. 
+
+123
+00:04:33,930 --> 00:04:35,270
+You have to 
+
+124
+00:04:35,270 --> 00:04:36,570
+look at the individual components. 
+
+125
+00:04:39,030 --> 00:04:41,130
+Finally, let's look at 
+
+126
+00:04:41,130 --> 00:04:43,370
+some frequently used 
+
+127
+00:04:43,370 --> 00:04:45,630
+abbreviations 
+
+128
+00:04:45,630 --> 00:04:48,150
+that are helpful to know. For example, 
+here for 
+
+129
+00:04:48,150 --> 00:04:52,190
+special, abbreviation 
+
+130
+00:04:52,190 --> 00:04:57,430
+, colloquial, original and 
+
+131
+00:04:57,430 --> 00:05:00,670
+comparisons. These abbreviations 
+
+132
+00:05:00,670 --> 00:05:02,010
+are also listed in 
+
+133
+00:05:02,010 --> 00:05:04,430
+the dictionary's list of abbreviations 
+
+134
+00:05:04,430 --> 00:05:05,170
+. 
+
+135
+00:05:07,820 --> 00:05:09,640
+It is also very helpful to 
+
+136
+00:05:09,640 --> 00:05:11,200
+know the special symbols 
+
+137
+00:05:11,200 --> 00:05:14,120
+used in a dictionary. For example, 
+
+138
+00:05:14,120 --> 00:05:15,640
+there is the underscored 
+
+139
+00:05:15,640 --> 00:05:18,360
+dot, as here in Abiturient. This tells 
+
+140
+00:05:18,360 --> 00:05:19,800
+us that the whole thing 
+
+141
+00:05:19,800 --> 00:05:22,640
+is emphasized briefly . Or the underscore 
+
+142
+00:05:22,640 --> 00:05:25,420
+, Abitur, which is then 
+
+143
+00:05:25,420 --> 00:05:29,680
+emphasized for a long time. 
+
+144
+00:05:29,680 --> 00:05:31,500
+You will always find the pronunciation in 
+square brackets , sometimes 
+
+145
+00:05:31,500 --> 00:05:33,980
+also in phonetic transcription. Then a 
+
+146
+00:05:33,980 --> 00:05:36,020
+vertical line shows you the 
+
+147
+00:05:36,020 --> 00:05:37,860
+hyphenation within a word 
+
+148
+00:05:37,860 --> 00:05:41,260
+. An equals sign 
+
+149
+00:05:41,260 --> 00:05:43,100
+always refers to a 
+
+150
+00:05:43,100 --> 00:05:45,800
+word with the same meaning , i.e. a 
+synonym. And an 
+
+151
+00:05:45,800 --> 00:05:48,080
+arrow indicates a reference within the 
+
+152
+00:05:48,080 --> 00:05:51,400
+dictionary. To 
+
+153
+00:05:51,400 --> 00:05:52,880
+summarize the whole thing once again, 
+
+154
+00:05:52,940 --> 00:05:54,900
+this video was about working 
+
+155
+00:05:55,060 --> 00:05:56,700
+with a dictionary. 
+
+156
+00:05:56,700 --> 00:05:58,620
+There are different types of dictionaries 
+
+157
+00:05:58,680 --> 00:06:00,520
+, but they are always 
+
+158
+00:06:00,520 --> 00:06:01,800
+sorted alphabetically so that you can find 
+the 
+
+159
+00:06:01,800 --> 00:06:03,640
+information quickly. 
+
+160
+00:06:04,320 --> 00:06:05,700
+It is important that you 
+
+161
+00:06:05,700 --> 00:06:06,740
+
+162
+00:06:06,740 --> 00:06:08,340
+
+163
+00:06:08,340 --> 00:06:11,580
+look at the list of abbreviations and user 
+notes for each dictionary . 
+
+164
+00:06:11,580 --> 00:06:12,420
+Thank you for your 
+
+165
+00:06:12,420 --> 00:06:14,540
+attention. See 
+
+166
+00:06:14,540 --> 00:06:15,080
+you next time. 

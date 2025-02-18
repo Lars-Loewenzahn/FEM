@@ -1,0 +1,2118 @@
+﻿1
+00:00:00,430 --> 00:00:02,630
+Welcome to the webinar 
+
+2
+00:00:02,630 --> 00:00:04,730
+Linear Systems of Equations. 
+
+3
+00:00:04,730 --> 00:00:05,830
+First of all, I hope you can hear me. 
+
+4
+00:00:06,050 --> 00:00:07,570
+If so, please write 
+
+5
+00:00:07,570 --> 00:00:09,350
+a short yes or okay 
+
+6
+00:00:09,350 --> 00:00:11,530
+in the chat at the bottom right. As 
+
+7
+00:00:16,080 --> 00:00:17,640
+I said, if you can hear me, 
+
+8
+00:00:17,760 --> 00:00:19,380
+please write a short yes or okay 
+
+9
+00:00:19,380 --> 00:00:21,080
+or something else 
+
+10
+00:00:21,080 --> 00:00:23,380
+in the chat at the bottom right. Okay, it 
+works 
+
+11
+00:00:23,380 --> 00:00:25,280
+wonderfully. Then we'll start 
+
+12
+00:00:25,280 --> 00:00:28,800
+the webinar as usual. 
+
+13
+00:00:28,800 --> 00:00:30,160
+Today, we will primarily be looking at the 
+
+14
+00:00:30,160 --> 00:00:31,440
+Gaussian algorithm. In other words, I'm 
+
+15
+00:00:31,440 --> 00:00:33,460
+going to demonstrate the Gaussian 
+algorithm using 
+
+16
+00:00:33,460 --> 00:00:34,520
+a small example 
+
+17
+00:00:34,520 --> 00:00:36,680
+so that we 
+
+18
+00:00:36,680 --> 00:00:37,560
+can take a closer look at how it 
+
+19
+00:00:37,560 --> 00:00:40,060
+works. We will then take a look 
+
+20
+00:00:40,060 --> 00:00:41,580
+at a small problem on linear 
+
+21
+00:00:41,580 --> 00:00:43,680
+systems of equations and look 
+
+22
+00:00:43,680 --> 00:00:45,380
+in particular at underdetermined 
+
+23
+00:00:45,380 --> 00:00:46,960
+systems of equations, how to 
+
+24
+00:00:46,960 --> 00:00:49,040
+deal with these and still 
+
+25
+00:00:49,040 --> 00:00:51,360
+work out a solution . If there is a 
+question on any 
+
+26
+00:00:51,360 --> 00:00:52,720
+point or at any time, 
+
+27
+00:00:52,720 --> 00:00:54,500
+
+28
+00:00:54,500 --> 00:00:55,860
+please write the question in 
+
+29
+00:00:55,860 --> 00:00:57,620
+the chat at the bottom right. Then I can 
+
+30
+00:00:57,620 --> 00:00:59,740
+definitely get back to you directly. 
+
+31
+00:00:59,740 --> 00:01:01,000
+But I also hope that we will 
+
+32
+00:01:01,000 --> 00:01:02,480
+have time for a short Q&A session at the 
+end 
+
+33
+00:01:02,480 --> 00:01:05,200
+. Let's start with the Gaussian 
+
+34
+00:01:05,200 --> 00:01:07,180
+ algorithm. The Gauss algorithm 
+
+35
+00:01:07,180 --> 00:01:08,220
+is a straightforward 
+
+36
+00:01:08,220 --> 00:01:09,520
+method for solving 
+
+37
+00:01:09,520 --> 00:01:11,860
+systems of linear equations. 
+
+38
+00:01:11,860 --> 00:01:13,660
+As is usual with algorithms, you 
+
+39
+00:01:13,660 --> 00:01:14,880
+always do the same thing and follow a 
+
+40
+00:01:14,880 --> 00:01:18,360
+fixed pattern. This means that it is 
+
+41
+00:01:18,360 --> 00:01:19,340
+always quite clear what you 
+
+42
+00:01:19,340 --> 00:01:21,200
+do next. This is the difference 
+
+43
+00:01:21,200 --> 00:01:22,440
+between the addition and 
+
+44
+00:01:23,680 --> 00:01:27,050
+subtraction method. With the Gauss 
+
+45
+00:01:27,050 --> 00:01:28,590
+ algorithm, you simplify the 
+
+46
+00:01:28,590 --> 00:01:30,090
+original equations using 
+
+47
+00:01:30,090 --> 00:01:31,470
+other equations. This means that, 
+
+48
+00:01:31,470 --> 00:01:33,130
+as with the addition method , 
+
+49
+00:01:33,130 --> 00:01:34,370
+you add and subtract equations 
+
+50
+00:01:38,050 --> 00:01:40,350
+and thus achieve that variables are 
+
+51
+00:01:40,350 --> 00:01:43,470
+canceled out. So the Gauss 
+
+52
+00:01:43,470 --> 00:01:45,070
+ algorithm is based on the 
+
+53
+00:01:45,070 --> 00:01:47,050
+addition method, but is a 
+
+54
+00:01:47,050 --> 00:01:49,010
+special form of it because it 
+
+55
+00:01:49,010 --> 00:01:50,970
+is an algorithm. The reason for this will 
+
+56
+00:01:50,970 --> 00:01:53,090
+become clear in a moment. At the very 
+
+57
+00:01:53,090 --> 00:01:56,690
+end, if you 
+
+58
+00:01:56,690 --> 00:01:59,290
+know a variable , you insert it into the 
+
+59
+00:01:59,290 --> 00:02:01,770
+equation above it in order to 
+
+60
+00:02:01,770 --> 00:02:03,350
+find all the variables at the end. 
+
+61
+00:02:03,370 --> 00:02:05,090
+to determine . We'll see that 
+
+62
+00:02:05,090 --> 00:02:06,030
+in a moment, it's 
+
+63
+00:02:06,030 --> 00:02:07,590
+quite clear what happens with the Gauss 
+algorithm 
+
+64
+00:02:07,590 --> 00:02:10,310
+. The aim of the Gaussian 
+
+65
+00:02:10,310 --> 00:02:12,630
+algorithm is 
+
+66
+00:02:12,630 --> 00:02:14,850
+to get a diagonal into it. This means that 
+
+67
+00:02:14,850 --> 00:02:16,990
+in the end we want the first equation 
+
+68
+00:02:16,990 --> 00:02:19,910
+to contain x, y and z, the second 
+
+69
+00:02:19,910 --> 00:02:21,950
+y and z and the third only 
+
+70
+00:02:21,950 --> 00:02:24,370
+z. Once we have achieved this, 
+
+71
+00:02:24,470 --> 00:02:26,230
+we immediately know the solution for z, 
+
+72
+00:02:26,330 --> 00:02:27,050
+which we can 
+
+73
+00:02:27,050 --> 00:02:29,730
+take from the third equation. We 
+
+74
+00:02:29,730 --> 00:02:31,130
+then insert this into the second equation 
+and 
+
+75
+00:02:31,130 --> 00:02:33,770
+thus break our y. 
+
+76
+00:02:33,770 --> 00:02:35,310
+Once we have done this , we insert the 
+solution 
+
+77
+00:02:35,310 --> 00:02:36,770
+for y and for z into the first 
+
+78
+00:02:36,770 --> 00:02:38,070
+equation and can thus 
+
+79
+00:02:38,070 --> 00:02:39,850
+calculate our x. That's the 
+
+80
+00:02:39,850 --> 00:02:41,230
+backwards substitution that just came up. 
+
+81
+00:02:41,590 --> 00:02:43,210
+The one that comes from the bottom, that 
+continues to 
+
+82
+00:02:43,210 --> 00:02:45,110
+insert upwards and so in the 
+
+83
+00:02:45,110 --> 00:02:47,430
+end knows all the solutions. The aim 
+
+84
+00:02:47,430 --> 00:02:48,990
+of the Gauss-Eurotm 
+
+85
+00:02:48,990 --> 00:02:54,890
+is to achieve this diagonal , as I said, 
+and you 
+
+86
+00:02:54,890 --> 00:02:58,210
+end up adding and subtracting 
+
+87
+00:02:58,210 --> 00:03:00,730
+equations until you 
+
+88
+00:03:00,730 --> 00:03:02,670
+have reached this diagonal. How often this 
+
+89
+00:03:02,670 --> 00:03:03,910
+is depends on how many 
+
+90
+00:03:03,910 --> 00:03:05,690
+equations you have. In our case, 
+
+91
+00:03:05,690 --> 00:03:07,230
+we have three equations. The first 
+
+92
+00:03:07,230 --> 00:03:09,810
+is x plus 2y plus 3z equals 
+
+93
+00:03:09,810 --> 00:03:11,810
+2. The second equation is x plus 
+
+94
+00:03:11,810 --> 00:03:14,230
+y plus z equals 2. And the third 
+
+95
+00:03:14,230 --> 00:03:16,850
+equation is 3. x plus 3y plus z 
+
+96
+00:03:16,850 --> 00:03:20,470
+equals 0. And in the Gauss 
+
+97
+00:03:20,470 --> 00:03:22,110
+ algorithm ,  we always use the 
+
+98
+00:03:22,110 --> 00:03:23,690
+first equation to 
+
+99
+00:03:23,690 --> 00:03:26,570
+add or subtract. When 
+
+100
+00:03:26,570 --> 00:03:28,210
+adding and subtracting 
+
+101
+00:03:28,210 --> 00:03:30,150
+, the first variable, in this 
+
+102
+00:03:30,150 --> 00:03:34,110
+case x and 3x, should always be dropped. 
+The 
+
+103
+00:03:34,110 --> 00:03:35,170
+question we now 
+
+104
+00:03:35,170 --> 00:03:37,750
+have to ask ourselves is how often we have 
+to 
+
+105
+00:03:37,750 --> 00:03:40,130
+add 
+
+106
+00:03:40,130 --> 00:03:41,730
+or subtract equation 1 to equation 2 so 
+that the x is 
+
+107
+00:03:41,730 --> 00:03:44,510
+dropped out. The solution is... we have to 
+
+108
+00:03:44,510 --> 00:03:46,850
+
+109
+00:03:46,850 --> 00:03:48,470
+subtract equation 1 from equation 2 once 
+and then we have x 
+
+110
+00:03:48,470 --> 00:03:51,370
+minus x and then our x has 
+
+111
+00:03:51,370 --> 00:03:54,550
+been canceled out in equation 3 this is 
+
+112
+00:03:54,550 --> 00:03:56,470
+similar only here we have 3x 
+
+113
+00:03:56,470 --> 00:04:00,430
+so we have to 
+
+114
+00:04:00,430 --> 00:04:02,250
+calculate equation 3 minus 3 times 
+
+115
+00:04:02,250 --> 00:04:05,390
+
+116
+00:04:05,390 --> 00:04:06,850
+
+117
+00:04:06,850 --> 00:04:09,670
+
+118
+00:04:09,670 --> 00:04:11,010
+
+119
+00:04:11,010 --> 00:04:13,010
+
+120
+00:04:13,010 --> 00:04:14,110
+equation 1 so that we simply have 3x minus 
+3 times x and it is also 0x again and it 
+is also canceled out again 
+
+121
+00:04:14,110 --> 00:04:17,510
+. This means that we 
+
+122
+00:04:17,510 --> 00:04:19,890
+not only calculate x minus x, but also y 
+
+123
+00:04:19,890 --> 00:04:25,610
+minus 2y, z minus 3z, 2 minus 2. 
+
+124
+00:04:29,040 --> 00:04:30,880
+In the third equation 
+
+125
+00:04:30,880 --> 00:04:32,440
+, we multiply the first 
+
+126
+00:04:32,440 --> 00:04:33,680
+equation by 3 before we 
+
+127
+00:04:33,680 --> 00:04:34,820
+multiply, which makes it 
+
+128
+00:04:34,820 --> 00:04:35,720
+a little more difficult. So we have 
+
+129
+00:04:35,720 --> 00:04:40,580
+3x minus 3 times x plus 3y minus 3 
+
+130
+00:04:40,580 --> 00:04:47,120
+times 2y plus z minus 3 times 3z and 0 
+
+131
+00:04:47,120 --> 00:04:49,980
+minus 3 times 2. So 
+
+132
+00:04:49,980 --> 00:04:52,240
+multiply everything by 3. And 
+
+133
+00:04:52,240 --> 00:04:53,680
+if you 
+
+134
+00:04:53,680 --> 00:04:54,960
+subtract here too, you have to 
+
+135
+00:04:54,960 --> 00:04:56,900
+pay attention to the signatures . In this 
+case we are 
+
+136
+00:04:56,900 --> 00:04:57,840
+lucky, we only have 
+
+137
+00:04:57,840 --> 00:04:59,200
+plus signs up here , which means that 
+everything 
+
+138
+00:04:59,200 --> 00:05:01,380
+becomes minus. But always remember, 
+
+139
+00:05:01,420 --> 00:05:03,100
+if there is something negative, minus 
+
+140
+00:05:03,100 --> 00:05:07,580
+times minus is plus. And then 
+
+141
+00:05:07,580 --> 00:05:11,690
+, of course, you have to do the math. 3x 
+minus 
+
+142
+00:05:11,690 --> 00:05:14,730
+3x, sorry, x minus x is 
+
+143
+00:05:14,730 --> 00:05:20,250
+0. Plus y minus 2y is minus y. z 
+
+144
+00:05:20,250 --> 00:05:23,410
+minus 3z is minus 2z and 2 minus 2 
+
+145
+00:05:23,410 --> 00:05:28,490
+is 0. 3x minus 3x is 0. So 
+
+146
+00:05:28,490 --> 00:05:29,690
+you can see that you've done everything 
+right 
+
+147
+00:05:29,690 --> 00:05:30,590
+by the fact that 
+
+148
+00:05:30,590 --> 00:05:31,890
+there are zeros here. Then 
+
+149
+00:05:31,890 --> 00:05:33,850
+the factors here are probably correct . 
+That was the 
+
+150
+00:05:33,850 --> 00:05:35,790
+point of this addition or 
+
+151
+00:05:35,790 --> 00:05:37,250
+subtraction, that the x is 
+
+152
+00:05:37,250 --> 00:05:39,250
+canceled out. And then 
+
+153
+00:05:39,250 --> 00:05:42,030
+, of course, we continue. 3y minus 3 times 
+
+154
+00:05:42,030 --> 00:05:46,070
+2y. 3 times 2y is 6y, so 3y minus 
+
+155
+00:05:46,070 --> 00:05:50,930
+6y is minus 3y. And then we have 
+
+156
+00:05:50,930 --> 00:05:54,750
+z minus 3 times 3z. Minus 3 times 3z is 
+
+157
+00:05:54,750 --> 00:05:57,890
+minus 9z. And z minus 9z is then 
+
+158
+00:05:57,890 --> 00:06:01,910
+minus 8z. On the other hand, we 
+
+159
+00:06:01,910 --> 00:06:06,130
+then have 0 minus 3 times... 2. minus 3 
+
+160
+00:06:06,130 --> 00:06:09,210
+times 2 is then minus 6. This is 
+
+161
+00:06:09,210 --> 00:06:10,250
+now our new 
+
+162
+00:06:10,250 --> 00:06:11,570
+system of equations. Whenever we 
+
+163
+00:06:11,570 --> 00:06:13,130
+
+164
+00:06:13,130 --> 00:06:14,750
+have added or subtracted two equations , 
+they are given a new 
+
+165
+00:06:14,750 --> 00:06:16,230
+name. Simply so that we know 
+
+166
+00:06:16,390 --> 00:06:21,190
+that the equation is no longer so 
+
+167
+00:06:21,190 --> 00:06:24,050
+easy to find again. Because 
+
+168
+00:06:24,050 --> 00:06:25,690
+now you can no longer really tell 
+
+169
+00:06:25,770 --> 00:06:27,590
+where this equation comes from. It's 
+
+170
+00:06:27,590 --> 00:06:28,870
+not a simple transformation. We' 
+
+171
+00:06:28,870 --> 00:06:30,090
+ve added two equations together, so we' 
+
+172
+00:06:30,090 --> 00:06:31,130
+ve got a new equation 
+
+173
+00:06:31,130 --> 00:06:33,050
+. That's why we've given it 
+
+174
+00:06:33,050 --> 00:06:34,910
+a new number. They are 
+
+175
+00:06:34,910 --> 00:06:36,370
+simply 
+
+176
+00:06:36,370 --> 00:06:38,510
+distributed consecutively . So this is 
+equation 4, 
+
+177
+00:06:38,650 --> 00:06:42,650
+this is equation 5 soon. Well, 
+
+178
+00:06:42,650 --> 00:06:44,030
+that brings us to this 
+
+179
+00:06:44,030 --> 00:06:46,510
+system of equations. If we 
+
+180
+00:06:46,510 --> 00:06:47,790
+want to bring in the diagonal 
+
+181
+00:06:48,190 --> 00:06:50,130
+, we have to remove the minus 3y here. 
+
+182
+00:06:50,790 --> 00:06:52,630
+The second equation, or 
+
+183
+00:06:52,630 --> 00:06:54,310
+in this case equation 4, is already 
+correct 
+
+184
+00:06:54,310 --> 00:06:56,850
+. We just have to remove the minus 3y 
+
+185
+00:06:56,850 --> 00:07:00,830
+. And so we ask ourselves 
+
+186
+00:07:00,830 --> 00:07:07,190
+again, how many times do we have to 
+
+187
+00:07:07,190 --> 00:07:09,130
+
+188
+00:07:09,130 --> 00:07:10,270
+add the fourth equation to the fifth 
+equation or perhaps 
+
+189
+00:07:10,270 --> 00:07:13,110
+subtract it so that the minus 3y 
+
+190
+00:07:13,110 --> 00:07:16,010
+is removed? As a little tip, if you 
+
+191
+00:07:16,010 --> 00:07:17,730
+have the same sign here, i.e. 
+
+192
+00:07:17,730 --> 00:07:19,330
+plus and plus or minus and minus, 
+
+193
+00:07:19,430 --> 00:07:21,330
+as in this case, then you will 
+
+194
+00:07:21,330 --> 00:07:23,030
+always have to subtract. In other words, 
+
+195
+00:07:23,090 --> 00:07:26,330
+we calculate equation 5 minus, in this 
+
+196
+00:07:26,330 --> 00:07:28,730
+case 3 times equation 4, which is minus 
+
+197
+00:07:28,730 --> 00:07:29,710
+simply because we have 
+
+198
+00:07:29,710 --> 00:07:32,210
+the same sign here . 
+
+199
+00:07:32,210 --> 00:07:35,830
+This means that in this case we have 
+
+200
+00:07:35,830 --> 00:07:37,030
+equation 4 3 times , because here we 
+
+201
+00:07:37,030 --> 00:07:39,270
+only have y, here we have 3y, so 
+
+202
+00:07:39,270 --> 00:07:41,310
+we need the 4th equation 3 times 
+
+203
+00:07:41,310 --> 00:07:43,550
+and then the calculation 
+
+204
+00:07:43,550 --> 00:07:48,430
+starts all over again. Minus 3y minus 3 
+times minus 3 
+
+205
+00:07:48,430 --> 00:07:51,490
+minus y, that's minus minus is 
+
+206
+00:07:51,490 --> 00:07:53,110
+plus, that means we have minus 3y 
+
+207
+00:07:53,110 --> 00:07:56,690
+plus 3y, that's 0, then it goes 
+
+208
+00:07:56,690 --> 00:08:01,010
+on, minus 8z minus minus 3 times 
+
+209
+00:08:01,010 --> 00:08:03,550
+minus 2z. Again, minus times 
+
+210
+00:08:03,550 --> 00:08:06,190
+minus is plus. That means we have 
+
+211
+00:08:06,190 --> 00:08:09,330
+plus 6z, minus 8z, plus 6z is 
+
+212
+00:08:09,330 --> 00:08:10,610
+minus 2z. 
+
+213
+00:08:13,550 --> 00:08:15,390
+And so we have 
+
+214
+00:08:15,390 --> 00:08:17,650
+
+215
+00:08:17,650 --> 00:08:20,630
+already created the system of equations, 
+or the diagonal. We 
+
+216
+00:08:20,630 --> 00:08:21,770
+can see here that the diagonal is 
+
+217
+00:08:21,770 --> 00:08:23,830
+present. We give the last 
+
+218
+00:08:23,830 --> 00:08:24,950
+equation a new name, 
+
+219
+00:08:24,990 --> 00:08:27,430
+which is equation 6 
+
+220
+00:08:27,430 --> 00:08:29,070
+. and 
+
+221
+00:08:29,070 --> 00:08:32,310
+determine the z we can 
+
+222
+00:08:32,310 --> 00:08:33,630
+easily determine the z by just 
+
+223
+00:08:33,630 --> 00:08:35,530
+dividing by minus two the 
+
+224
+00:08:35,530 --> 00:08:37,890
+z alone is here on the page 
+
+225
+00:08:37,890 --> 00:08:39,350
+we have done that here once then 
+
+226
+00:08:39,350 --> 00:08:42,550
+the z is equal to 3 and now that we 
+
+227
+00:08:42,550 --> 00:08:45,210
+know that we put the z equal to 3 
+
+228
+00:08:45,210 --> 00:08:48,130
+in the equation 4 that is in 
+
+229
+00:08:48,130 --> 00:08:52,010
+minus y minus 2 z equal to 0 we 
+
+230
+00:08:52,010 --> 00:08:53,310
+then put in here so we come to minus 
+
+231
+00:08:53,310 --> 00:08:56,630
+y, minus 2 times 3 equals 0, minus 
+
+232
+00:08:56,630 --> 00:08:59,370
+2 times 3 equals minus 6, so minus y 
+
+233
+00:08:59,370 --> 00:09:03,610
+minus 6 equals 0 and 
+
+234
+00:09:03,610 --> 00:09:04,750
+now we simply transform y, 
+
+235
+00:09:04,750 --> 00:09:06,230
+the easiest way to do this is 
+
+236
+00:09:06,230 --> 00:09:08,090
+to calculate plus y, then it says minus 6 
+
+237
+00:09:08,090 --> 00:09:11,490
+equals y. Now we know our 
+
+238
+00:09:11,490 --> 00:09:14,550
+two variables z and y, 
+
+239
+00:09:14,550 --> 00:09:16,770
+the only thing missing is the x, which 
+
+240
+00:09:16,770 --> 00:09:18,270
+we insert into equation 
+
+241
+00:09:18,270 --> 00:09:22,550
+1. It then looks like this. So x 
+
+242
+00:09:22,550 --> 00:09:25,010
+plus 2y plus 3z equals 2, that's 
+
+243
+00:09:25,010 --> 00:09:27,070
+our approach here, our y was 
+
+244
+00:09:27,070 --> 00:09:29,370
+minus 6, our z was 3, we put it in like 
+this, so we 
+
+245
+00:09:29,370 --> 00:09:31,590
+get x plus 2 times 
+
+246
+00:09:31,590 --> 00:09:34,570
+minus 6 plus 3 times 3 equals 2, 2 
+
+247
+00:09:34,570 --> 00:09:36,930
+times minus 6 equals minus 12, 3 times 3 
+equals 
+
+248
+00:09:36,930 --> 00:09:40,510
+plus 9 and minus 12 plus 9 
+
+249
+00:09:40,510 --> 00:09:43,830
+equals minus 3. And so 
+
+250
+00:09:43,830 --> 00:09:46,990
+we arrive at x, minus 3 equals 2, the 3 
+
+251
+00:09:46,990 --> 00:09:48,130
+just has to go over, so 
+
+252
+00:09:48,130 --> 00:09:49,950
+we calculate plus 3 and then it says x 
+
+253
+00:09:49,950 --> 00:09:52,130
+equals 5. We can then 
+
+254
+00:09:52,130 --> 00:09:53,630
+conclude that the solution 
+
+255
+00:09:53,630 --> 00:09:55,490
+to the system of equations is x equals 5, 
+
+256
+00:09:55,670 --> 00:10:01,170
+y equals minus 6 and z equals 3. Is 
+
+257
+00:10:01,170 --> 00:10:02,930
+there a question about this? So 
+
+258
+00:10:02,930 --> 00:10:05,390
+we have 
+
+259
+00:10:05,390 --> 00:10:08,930
+successfully applied the Gauss algorithm . 
+Or was that 
+
+260
+00:10:08,930 --> 00:10:09,750
+clear enough? 
+
+261
+00:10:16,680 --> 00:10:20,080
+Okay, great. Let's 
+
+262
+00:10:20,080 --> 00:10:21,460
+continue with a factual task on the 
+
+263
+00:10:21,460 --> 00:10:23,600
+system of linear equations. 
+
+264
+00:10:23,600 --> 00:10:25,100
+here we see the graphical 
+
+265
+00:10:25,100 --> 00:10:28,040
+representation of the solution if there 
+
+266
+00:10:28,040 --> 00:10:29,520
+is exactly one solution then there is an 
+
+267
+00:10:29,520 --> 00:10:31,180
+intersection point and you get a 
+
+268
+00:10:31,180 --> 00:10:34,660
+unique x and y the whole thing is only 
+
+269
+00:10:34,660 --> 00:10:36,600
+shown in two dimensions that 
+
+270
+00:10:36,600 --> 00:10:38,160
+means if you only had 22 
+
+271
+00:10:38,160 --> 00:10:40,340
+variables the whole thing also exists for 
+
+272
+00:10:40,340 --> 00:10:41,960
+three variables in 3d in 
+
+273
+00:10:41,960 --> 00:10:47,660
+three dimensions and yes that is the 
+
+274
+00:10:47,660 --> 00:10:48,800
+case as I said always 
+
+275
+00:10:48,800 --> 00:10:50,360
+has exactly one solution if you don't 
+
+276
+00:10:50,360 --> 00:10:51,660
+have a solution the two are parallel 
+
+277
+00:10:51,660 --> 00:10:53,680
+to each other, this means that 
+
+278
+00:10:53,680 --> 00:10:56,220
+a false statement arises , something like 
+6 is 
+
+279
+00:10:56,220 --> 00:10:58,820
+equal to 0 or 6 is equal to minus 6, 
+
+280
+00:10:58,940 --> 00:11:01,080
+which can also be the case. And that 
+
+281
+00:11:01,080 --> 00:11:02,120
+simply indicates that there 
+
+282
+00:11:02,120 --> 00:11:03,560
+is no point of intersection and the 
+
+283
+00:11:03,560 --> 00:11:05,020
+lines are parallel in 
+
+284
+00:11:05,020 --> 00:11:06,720
+two dimensions or, if you look at it 
+
+285
+00:11:06,720 --> 00:11:08,480
+from three dimensions, 
+
+286
+00:11:08,480 --> 00:11:11,100
+they can 
+
+287
+00:11:11,100 --> 00:11:13,240
+only be skewed in addition to the 
+parallels . But here 
+
+288
+00:11:13,240 --> 00:11:14,740
+only two-dimensional is shown. shows. 
+
+289
+00:11:16,160 --> 00:11:17,440
+The latter is the possibility that 
+
+290
+00:11:17,440 --> 00:11:19,160
+there are infinitely many solutions. This 
+
+291
+00:11:19,160 --> 00:11:20,500
+ultimately means that the 
+
+292
+00:11:20,500 --> 00:11:21,900
+straight lines lie inside each other. 
+That's why 
+
+293
+00:11:21,900 --> 00:11:24,420
+we only see one here. And this 
+
+294
+00:11:25,100 --> 00:11:26,960
+is simply expressed by the fact that you 
+
+295
+00:11:26,960 --> 00:11:28,440
+get a true statement. Something 
+
+296
+00:11:28,440 --> 00:11:30,880
+like 0 is equal to 0, which shows 
+
+297
+00:11:30,880 --> 00:11:32,540
+that it is the same straight line and 
+
+298
+00:11:32,540 --> 00:11:35,280
+all the straight lines lie on top of each 
+other. 
+
+299
+00:11:35,280 --> 00:11:37,560
+So there are an infinite number of common 
+
+300
+00:11:37,560 --> 00:11:41,230
+points. That's how you can 
+
+301
+00:11:41,230 --> 00:11:45,690
+understand the whole thing. And that 
+brings us 
+
+302
+00:11:45,690 --> 00:11:47,810
+to another 
+
+303
+00:11:47,810 --> 00:11:49,290
+system of linear equations. I'll 
+
+304
+00:11:49,290 --> 00:11:51,130
+just say right away that this is the 
+
+305
+00:11:51,130 --> 00:11:53,990
+system of equations where we 
+
+306
+00:11:53,990 --> 00:11:55,410
+
+307
+00:11:55,410 --> 00:11:57,350
+will get an underdetermined system of 
+equations . 
+
+308
+00:11:57,350 --> 00:11:59,010
+At first glance , it doesn't seem so, 
+because if 
+
+309
+00:11:59,010 --> 00:12:01,210
+you look, we have three 
+
+310
+00:12:01,210 --> 00:12:03,490
+unknown x, y and z and three 
+
+311
+00:12:03,490 --> 00:12:04,790
+equations. In other words, at 
+
+312
+00:12:04,790 --> 00:12:06,590
+first glance you would think that we 
+
+313
+00:12:06,590 --> 00:12:08,810
+have enough equations. The 
+
+314
+00:12:08,810 --> 00:12:09,830
+only problem is that we will later 
+
+315
+00:12:09,830 --> 00:12:11,790
+realize that some equations 
+
+316
+00:12:11,790 --> 00:12:13,290
+from here are multiples of each other. 
+
+317
+00:12:15,770 --> 00:12:18,010
+And we can 
+
+318
+00:12:18,010 --> 00:12:20,390
+only evaluate multiple equations as one 
+equation. Otherwise 
+
+319
+00:12:20,390 --> 00:12:21,730
+I could turn one equation 
+
+320
+00:12:21,730 --> 00:12:22,470
+into any number of equations . 
+
+321
+00:12:25,350 --> 00:12:27,670
+And 
+
+322
+00:12:27,670 --> 00:12:29,050
+we'll see in a moment how to work out a 
+solution anyway. 
+
+323
+00:12:30,070 --> 00:12:31,530
+Of course, we don't know at the beginning 
+
+324
+00:12:31,610 --> 00:12:32,610
+that this is an underdetermined 
+
+325
+00:12:32,610 --> 00:12:33,870
+system of equations, so 
+
+326
+00:12:33,870 --> 00:12:35,070
+we start as normal with our Gauss 
+
+327
+00:12:35,070 --> 00:12:38,370
+ algorithm. 
+
+328
+00:12:38,370 --> 00:12:40,310
+The first thing  we want to do 
+
+329
+00:12:40,310 --> 00:12:41,970
+is delete the 6x and the 3x , so we 
+calculate 
+
+330
+00:12:41,970 --> 00:12:43,990
+equation 2 minus 6 times equation 1 
+
+331
+00:12:43,990 --> 00:12:46,870
+and equation 3 minus 3 times equation 
+
+332
+00:12:46,870 --> 00:12:50,730
+1. We then arrive at 0 minus 6y 
+
+333
+00:12:50,730 --> 00:12:53,890
+minus 16z is equal to minus 12 and 0 
+
+334
+00:12:53,890 --> 00:12:57,130
+minus 3y minus 8z is equal to minus 6. 
+
+335
+00:12:57,250 --> 00:13:02,250
+So 3x minus 3 times x 
+
+336
+00:13:02,250 --> 00:13:06,110
+is 0, 3y minus 3 times 2y. 
+
+337
+00:13:09,450 --> 00:13:12,290
+are in this case minus 3y, so we 
+
+338
+00:13:12,290 --> 00:13:15,030
+have plus 3y minus 6y are minus 
+
+339
+00:13:15,030 --> 00:13:21,030
+3y, then z, minus 3 times 3z, so z 
+
+340
+00:13:21,030 --> 00:13:25,730
+minus 9z are minus 8z and minus 3 
+
+341
+00:13:25,730 --> 00:13:28,230
+times 2 is the minus 6 here in the 
+
+342
+00:13:28,230 --> 00:13:32,290
+equation above, 6y minus 6 times 2 
+
+343
+00:13:32,290 --> 00:13:37,290
+are 6y minus 12y, are then together 
+
+344
+00:13:37,290 --> 00:13:44,410
+minus 6y and 2z minus 6 times 3z, minus 
+
+345
+00:13:44,410 --> 00:13:49,690
+6 times 3z are minus 18z and 2z minus 
+
+346
+00:13:49,690 --> 00:13:56,150
+18z are minus 16z. Back here 0, 
+
+347
+00:13:56,310 --> 00:13:59,370
+sorry, but 0 minus 6 times 2 
+
+348
+00:13:59,370 --> 00:14:01,890
+is minus 12. That's how we get here 
+
+349
+00:14:01,890 --> 00:14:02,970
+and we can see that we have 
+
+350
+00:14:02,970 --> 00:14:04,710
+successfully 
+
+351
+00:14:04,710 --> 00:14:06,970
+deleted our first equation again. In the 
+next step, 
+
+352
+00:14:06,970 --> 00:14:09,270
+of course, we want to delete the minus 3y 
+
+353
+00:14:09,270 --> 00:14:12,810
+. And we do this by 
+
+354
+00:14:12,810 --> 00:14:15,790
+calculating 2 times equation 5 minus 
+
+355
+00:14:15,790 --> 00:14:18,030
+equation 4. Simply 2 times equation 
+
+356
+00:14:18,030 --> 00:14:20,430
+5 so that we have both times 6y. and 
+
+357
+00:14:20,430 --> 00:14:22,650
+then we suddenly realize 
+
+358
+00:14:22,810 --> 00:14:24,370
+that we get a zero line. 
+
+359
+00:14:24,470 --> 00:14:25,710
+A zero line is simply a 
+
+360
+00:14:25,710 --> 00:14:27,510
+line that drops out completely. If 
+
+361
+00:14:27,510 --> 00:14:28,750
+you look closely, you can see 
+
+362
+00:14:28,750 --> 00:14:29,510
+that the two 
+
+363
+00:14:29,510 --> 00:14:30,910
+equations 
+
+364
+00:14:30,910 --> 00:14:33,050
+are multiples of each other. The upper 
+equation here is 
+
+365
+00:14:33,050 --> 00:14:34,350
+simply the lower equation 
+
+366
+00:14:34,350 --> 00:14:37,090
+multiplied by 2. Now that you 
+
+367
+00:14:37,090 --> 00:14:38,730
+know it, you would have seen it at the 
+
+368
+00:14:38,730 --> 00:14:40,650
+beginning, you can see that these are 
+
+369
+00:14:40,650 --> 00:14:42,630
+always the multiples. 0 times 2 
+
+370
+00:14:42,630 --> 00:14:45,890
+is also 0, 2 times 3 is 6, 3 times 2 
+
+371
+00:14:45,890 --> 00:14:50,650
+is also 6 and 2 times 1 is 2. 
+
+372
+00:14:50,650 --> 00:14:51,650
+In other words, you can already see here 
+that these 
+
+373
+00:14:51,650 --> 00:14:53,430
+are multiples and the trained eye 
+
+374
+00:14:53,430 --> 00:14:55,670
+could see in advance that 
+
+375
+00:14:55,670 --> 00:14:57,390
+it 
+
+376
+00:14:57,390 --> 00:14:58,850
+is an underdetermined system of equations. 
+And 
+
+377
+00:14:58,850 --> 00:15:00,510
+in the end, we've already 
+
+378
+00:15:00,510 --> 00:15:03,710
+demonstrated this. And the 
+
+379
+00:15:03,710 --> 00:15:06,770
+problem is that we 
+
+380
+00:15:06,770 --> 00:15:08,970
+now have three unknowns and only 
+
+381
+00:15:08,970 --> 00:15:12,030
+two equations. Therefore, we can 
+
+382
+00:15:12,030 --> 00:15:14,450
+no longer solve the system of equations 
+
+383
+00:15:14,450 --> 00:15:18,850
+determinately. We can only solve it 
+
+384
+00:15:18,850 --> 00:15:20,130
+depending on one 
+
+385
+00:15:20,130 --> 00:15:22,370
+parameter. This parameter 
+
+386
+00:15:22,370 --> 00:15:24,970
+is usually called Z. And 
+
+387
+00:15:24,970 --> 00:15:28,590
+now we can only solve X and Y as a 
+
+388
+00:15:28,590 --> 00:15:30,990
+function of Z. 
+
+389
+00:15:30,990 --> 00:15:33,330
+And that's what we do now. The fact that 
+we use Z 
+
+390
+00:15:33,330 --> 00:15:36,890
+as a parameter 
+
+391
+00:15:36,890 --> 00:15:39,030
+means that z is 
+
+392
+00:15:39,030 --> 00:15:40,970
+no longer a variable for us, as 
+
+393
+00:15:40,970 --> 00:15:42,970
+before, but a 
+
+394
+00:15:42,970 --> 00:15:44,730
+parameter with a value. 
+
+395
+00:15:44,730 --> 00:15:46,230
+Depending on this, we 
+
+396
+00:15:46,230 --> 00:15:48,450
+ultimately want to 
+
+397
+00:15:48,450 --> 00:15:53,070
+be able to specify the y and the x. This 
+means that our z remains z, 
+
+398
+00:15:53,270 --> 00:15:57,530
+but is no longer a variable. So, 
+
+399
+00:15:57,530 --> 00:15:59,450
+we can now solve equation 4 
+
+400
+00:15:59,450 --> 00:16:03,030
+, because we know z is 
+
+401
+00:16:03,030 --> 00:16:05,130
+our parameter, and y is the 
+
+402
+00:16:05,130 --> 00:16:06,270
+variable, we only have one 
+
+403
+00:16:06,270 --> 00:16:07,110
+variable. Variables are the 
+
+404
+00:16:07,110 --> 00:16:08,710
+equation, so we can 
+
+405
+00:16:08,710 --> 00:16:11,750
+rearrange equation 4 according to y. So 
+
+406
+00:16:11,750 --> 00:16:14,370
+minus 6y minus 16z is equal to minus 
+
+407
+00:16:14,370 --> 00:16:17,830
+12, we transform that. To minus 6y 
+
+408
+00:16:17,830 --> 00:16:21,030
+is equal to minus 12 plus 16z 
+
+409
+00:16:21,030 --> 00:16:22,390
+, we then divide that by minus 6 to 
+
+410
+00:16:22,390 --> 00:16:23,690
+get the y. And we 
+
+411
+00:16:23,690 --> 00:16:27,470
+then arrive at 2 minus 8 thirds z for y. 
+
+412
+00:16:27,690 --> 00:16:29,910
+This is now the solution for our 
+
+413
+00:16:29,910 --> 00:16:31,910
+variable y as a function of 
+
+414
+00:16:31,910 --> 00:16:35,530
+our z. As I said... only 
+
+415
+00:16:35,530 --> 00:16:36,810
+as a function of one 
+
+416
+00:16:36,810 --> 00:16:38,310
+parameter, because we 
+
+417
+00:16:38,310 --> 00:16:39,250
+
+418
+00:16:39,250 --> 00:16:42,490
+have an underdetermined system of 
+equations . This is always the case. 
+
+419
+00:16:42,490 --> 00:16:45,790
+We have now calculated our y. Our 
+
+420
+00:16:45,790 --> 00:16:48,010
+variable z is now simply the 
+
+421
+00:16:48,010 --> 00:16:50,850
+parameter z. So in the end, we 
+
+422
+00:16:50,850 --> 00:16:54,210
+enter z equals z as the solution, even 
+
+423
+00:16:54,210 --> 00:16:55,470
+if this has not yet 
+
+424
+00:16:55,470 --> 00:16:57,790
+been written down so explicitly. Now that 
+we 
+
+425
+00:16:57,790 --> 00:17:00,550
+know z and y, the 
+
+426
+00:17:00,550 --> 00:17:02,510
+next step is to calculate our x. To do 
+this, we 
+
+427
+00:17:02,510 --> 00:17:04,430
+insert our y into the first equation 
+
+428
+00:17:04,490 --> 00:17:13,930
+, i.e. into x plus 2y, but it is written 
+
+429
+00:17:13,930 --> 00:17:16,830
+correctly here , i.e. x plus 2y plus 3z 
+
+430
+00:17:16,830 --> 00:17:19,970
+equals 2, as it is 
+
+431
+00:17:19,970 --> 00:17:21,530
+written below. 
+
+432
+00:17:21,530 --> 00:17:23,890
+Finally, we have 
+
+433
+00:17:23,890 --> 00:17:26,130
+
+434
+00:17:26,130 --> 00:17:28,850
+entered the value for the y that we have 
+just determined in green. 
+
+435
+00:17:28,850 --> 00:17:30,390
+As I said, the z remains simply z because 
+it 
+
+436
+00:17:30,390 --> 00:17:32,270
+is our parameter and we can see that 
+
+437
+00:17:32,290 --> 00:17:33,470
+we only have 
+
+438
+00:17:33,490 --> 00:17:36,390
+our x as a variant. That's why we'll now 
+
+439
+00:17:36,390 --> 00:17:38,210
+solve for x. The first thing we do is 
+break 
+
+440
+00:17:38,210 --> 00:17:40,450
+up the brackets, so 2 times 2, 4 and 
+
+441
+00:17:40,450 --> 00:17:43,290
+2 times minus 8 thirds is minus 16 
+
+442
+00:17:43,290 --> 00:17:46,430
+thirds z. Now we have minus 16 
+
+443
+00:17:46,430 --> 00:17:49,370
+thirds z plus 3z, which is then 
+
+444
+00:17:49,370 --> 00:17:53,790
+minus 7 thirds z. This gives us 
+
+445
+00:17:53,790 --> 00:17:56,090
+x plus 4 minus 7 thirds z is equal to 
+
+446
+00:17:56,090 --> 00:17:57,930
+2. Next we calculate minus 4 
+
+447
+00:17:58,070 --> 00:18:02,010
+so that the 4 goes across. And 2 minus 4 
+
+448
+00:18:02,010 --> 00:18:03,490
+is the minus 2 here. So we arrive 
+
+449
+00:18:03,490 --> 00:18:05,810
+at x minus 7 thirds z is equal to 
+
+450
+00:18:05,810 --> 00:18:08,070
+minus 2. And then we can 
+
+451
+00:18:08,070 --> 00:18:10,270
+finally say that x is equal to 7 
+
+452
+00:18:10,270 --> 00:18:13,530
+thirds z minus 2. So we 
+
+453
+00:18:13,530 --> 00:18:15,230
+transform that by plus 7 thirds z. 
+
+454
+00:18:15,310 --> 00:18:17,050
+And with that we have 
+
+455
+00:18:17,050 --> 00:18:21,600
+also solved the system of equations. 
+
+456
+00:18:21,600 --> 00:18:25,740
+Are there any questions? I think it 
+
+457
+00:18:25,740 --> 00:18:26,680
+may seem 
+
+458
+00:18:26,700 --> 00:18:27,420
+a little abstract at first. 
+
+459
+00:18:36,130 --> 00:18:38,330
+Z is our parameter Z, which 
+
+460
+00:18:38,330 --> 00:18:39,810
+cannot be determined any further. As 
+
+461
+00:18:39,810 --> 00:18:42,110
+I said , this is our parameter. The only 
+
+462
+00:18:42,130 --> 00:18:44,270
+thing you can say is that Z equals Z, 
+
+463
+00:18:44,270 --> 00:18:44,470
+nothing more. 
+
+464
+00:18:47,510 --> 00:18:50,170
+Right, now let's come back to 
+
+465
+00:18:50,170 --> 00:18:51,830
+the instructions that we 
+
+466
+00:18:51,830 --> 00:18:55,270
+have done everything. So here is a brief 
+
+467
+00:18:55,270 --> 00:18:56,630
+and crisp summary of what 
+
+468
+00:18:56,630 --> 00:18:57,990
+we have just worked out or 
+
+469
+00:18:57,990 --> 00:19:00,170
+established. You can recognize an 
+
+470
+00:19:00,170 --> 00:19:01,270
+underdetermined system of equations 
+
+471
+00:19:01,270 --> 00:19:02,530
+simply by the fact that you either 
+
+472
+00:19:02,530 --> 00:19:04,130
+have fewer equations than you have 
+
+473
+00:19:04,130 --> 00:19:06,370
+unknown equations or if it 
+
+474
+00:19:06,370 --> 00:19:08,330
+seems determined at first , like our 
+
+475
+00:19:08,330 --> 00:19:10,190
+case right now, we get 
+
+476
+00:19:10,190 --> 00:19:12,230
+a zero line at some point. This means that 
+one 
+
+477
+00:19:12,230 --> 00:19:13,710
+equation is omitted and then 
+
+478
+00:19:13,710 --> 00:19:15,130
+we suddenly have fewer equations 
+
+479
+00:19:15,130 --> 00:19:17,310
+than we have variables. Then it is 
+
+480
+00:19:17,310 --> 00:19:20,910
+clearly underdetermined. 
+
+481
+00:19:20,910 --> 00:19:22,650
+The first thing you do when you realize 
+that 
+
+482
+00:19:22,650 --> 00:19:23,850
+the system of equations 
+
+483
+00:19:23,850 --> 00:19:25,790
+is underdetermined is to determine a 
+variable 
+
+484
+00:19:25,790 --> 00:19:27,470
+as a parameter and you 
+
+485
+00:19:27,470 --> 00:19:29,930
+actually always take the last variable, 
+
+486
+00:19:29,950 --> 00:19:32,850
+i.e. Z. That's why we've 
+
+487
+00:19:32,850 --> 00:19:33,930
+just 
+
+488
+00:19:33,930 --> 00:19:37,750
+determined everything as a function of Z. 
+And then we solve the 
+
+489
+00:19:37,750 --> 00:19:40,250
+system of equations as normal. 
+
+490
+00:19:41,070 --> 00:19:45,830
+In other words, the variable Z becomes 
+
+491
+00:19:45,830 --> 00:19:49,630
+a parameter and we solve all the 
+
+492
+00:19:49,630 --> 00:19:52,150
+other variables as a function of 
+
+493
+00:19:52,150 --> 00:19:53,470
+these introduced parameters. 
+
+494
+00:19:53,490 --> 00:19:56,290
+Parameters. It is important that 
+
+495
+00:19:56,290 --> 00:19:58,030
+only one parameter is introduced. 
+
+496
+00:19:58,030 --> 00:19:59,210
+It is not 
+
+497
+00:19:59,210 --> 00:20:01,370
+necessary to introduce two parameters. So 
+
+498
+00:20:01,370 --> 00:20:04,070
+at most, if two 
+
+499
+00:20:04,070 --> 00:20:05,670
+equations are really missing, you have to 
+
+500
+00:20:05,670 --> 00:20:07,610
+introduce two parameters. However, this 
+
+501
+00:20:07,610 --> 00:20:09,070
+does not occur in school mathematics 
+
+502
+00:20:09,070 --> 00:20:10,410
+and I am not aware of any cases where 
+
+503
+00:20:10,410 --> 00:20:12,850
+this is done at school. 
+
+504
+00:20:12,850 --> 00:20:15,050
+Therefore, only one parameter is ever 
+
+505
+00:20:15,050 --> 00:20:18,850
+introduced. And this is how you 
+
+506
+00:20:18,850 --> 00:20:20,610
+ultimately solve the underdetermined 
+
+507
+00:20:20,610 --> 00:20:21,630
+systems of equations. 
+
+508
+00:20:24,540 --> 00:20:26,000
+That brings us to the end 
+
+509
+00:20:26,000 --> 00:20:27,280
+of the webinar. But we still have 
+
+510
+00:20:27,280 --> 00:20:29,580
+time to clarify questions. In other words, 
+
+511
+00:20:29,660 --> 00:20:30,500
+if you have any questions, 
+
+512
+00:20:30,500 --> 00:20:31,620
+please feel free to ask them. 
+
+513
+00:20:31,920 --> 00:20:33,380
+And of course I'll 
+
+514
+00:20:33,380 --> 00:20:34,340
+be happy to answer them. 
+
+515
+00:20:39,630 --> 00:20:42,070
+If you don't have any questions... No 
+questions? 
+
+516
+00:20:42,210 --> 00:20:45,070
+Okay. Then we're done. 
+
+517
+00:20:45,070 --> 00:20:47,190
+Thank you for your attention 
+
+518
+00:20:47,190 --> 00:20:48,350
+and have a nice 
+
+519
+00:20:48,350 --> 00:20:48,530
+evening. 

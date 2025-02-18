@@ -1,0 +1,433 @@
+﻿1
+00:00:04,080 --> 00:00:06,400
+Hello, my name is Sabrina and I 
+
+2
+00:00:06,400 --> 00:00:07,940
+am a tutor 
+
+3
+00:00:07,940 --> 00:00:09,980
+at Schülerhilfe. Today we are going to 
+
+4
+00:00:09,980 --> 00:00:11,880
+
+5
+00:00:11,880 --> 00:00:13,640
+look at an important topic in chemistry. 
+We will 
+
+6
+00:00:13,640 --> 00:00:16,600
+discuss what anions, cations and 
+
+7
+00:00:16,600 --> 00:00:19,000
+ionic bonds are and what 
+
+8
+00:00:19,000 --> 00:00:21,220
+structures they form. Of course, 
+
+9
+00:00:21,220 --> 00:00:23,000
+
+10
+00:00:23,000 --> 00:00:25,520
+there is also a wiki available for this 
+topic in our online learning center 
+
+11
+00:00:25,520 --> 00:00:27,600
+, in which the most important 
+
+12
+00:00:27,600 --> 00:00:29,480
+terms are explained to you once again. 
+
+13
+00:00:29,480 --> 00:00:32,960
+In order to understand what ionic bonds 
+
+14
+00:00:32,960 --> 00:00:34,780
+are and how they are formed, 
+
+15
+00:00:34,980 --> 00:00:37,240
+we first need to look at the charges in 
+
+16
+00:00:37,240 --> 00:00:39,580
+such a bond. 
+
+17
+00:00:39,580 --> 00:00:41,360
+In chemistry, a distinction is made 
+between two 
+
+18
+00:00:41,360 --> 00:00:43,800
+types of charged particles, namely 
+
+19
+00:00:43,800 --> 00:00:46,820
+anions and cations. 
+
+20
+00:00:46,820 --> 00:00:49,600
+The anions are negatively charged. As 
+
+21
+00:00:49,600 --> 00:00:51,940
+a mnemonic, you can remember the N in 
+
+22
+00:00:51,940 --> 00:00:55,160
+anion for negative. Cations 
+
+23
+00:00:55,160 --> 00:00:57,860
+are positively charged. But how 
+
+24
+00:00:57,860 --> 00:01:00,520
+are such ions formed? Well, 
+
+25
+00:01:00,520 --> 00:01:02,660
+you've probably heard of the atomic model 
+
+26
+00:01:02,660 --> 00:01:04,780
+, which assumes 
+
+27
+00:01:04,820 --> 00:01:06,780
+that the electrons of an atom, 
+
+28
+00:01:06,860 --> 00:01:09,200
+which is normally uncharged, are 
+
+29
+00:01:09,380 --> 00:01:11,480
+arranged in shells around the nucleus 
+
+30
+00:01:11,480 --> 00:01:14,220
+. Atoms can, for example, 
+
+31
+00:01:14,220 --> 00:01:16,880
+accept an electron and 
+
+32
+00:01:16,880 --> 00:01:18,140
+a negative 
+
+33
+00:01:18,140 --> 00:01:19,680
+excess charge is created by the 
+
+34
+00:01:19,680 --> 00:01:21,720
+negatively charged 
+
+35
+00:01:21,720 --> 00:01:24,200
+particle, as you can see here in the 
+example of 
+
+36
+00:01:24,200 --> 00:01:26,860
+chlorine and its chloride ion. 
+
+37
+00:01:27,260 --> 00:01:30,400
+This ion is then an anion. 
+
+38
+00:01:30,400 --> 00:01:32,480
+A 
+
+39
+00:01:32,480 --> 00:01:34,620
+minus sign is now added to the atom name 
+to indicate this. 
+
+40
+00:01:35,460 --> 00:01:37,720
+Similarly, when 
+
+41
+00:01:37,720 --> 00:01:40,000
+an electron, i.e. a negative 
+
+42
+00:01:40,000 --> 00:01:41,680
+charge, is released, a positive 
+
+43
+00:01:41,680 --> 00:01:43,560
+excess charge is created and 
+
+44
+00:01:43,560 --> 00:01:45,820
+a cation is formed, such as the 
+
+45
+00:01:45,820 --> 00:01:48,760
+sodium ion in this example. Incidentally, 
+the 
+
+46
+00:01:48,760 --> 00:01:50,580
+energy required to release an 
+
+47
+00:01:50,580 --> 00:01:52,680
+electron from an atom is called 
+
+48
+00:01:52,780 --> 00:01:55,660
+ionization energy. It is also important to 
+
+49
+00:01:55,660 --> 00:01:57,840
+know that ions 
+
+50
+00:01:57,840 --> 00:01:59,720
+are less stable than their atoms and are 
+therefore 
+
+51
+00:01:59,720 --> 00:02:02,820
+more reactive. But what is 
+
+52
+00:02:02,820 --> 00:02:04,720
+ionic bonding all about? 
+
+53
+00:02:05,640 --> 00:02:07,180
+Ionic bonds are formed when 
+
+54
+00:02:07,180 --> 00:02:10,460
+cations and anions combine. 
+
+55
+00:02:10,460 --> 00:02:12,600
+
+56
+00:02:12,600 --> 00:02:14,200
+
+57
+00:02:14,200 --> 00:02:15,940
+It is logical that these two oppositely 
+charged ions react with each other 
+because, as you probably 
+
+58
+00:02:15,940 --> 00:02:18,260
+know, positive and negative charges 
+
+59
+00:02:18,260 --> 00:02:20,520
+attract each other. The force between the 
+
+60
+00:02:20,520 --> 00:02:21,920
+two is known as 
+
+61
+00:02:21,920 --> 00:02:25,200
+electrostatic attraction. In the 
+
+62
+00:02:25,200 --> 00:02:26,700
+example, you can see how the 
+
+63
+00:02:26,700 --> 00:02:28,940
+anion of chloride and the cation of 
+
+64
+00:02:28,940 --> 00:02:31,480
+sodium combine to form sodium chloride. 
+
+65
+00:02:31,640 --> 00:02:33,660
+This happens by forming an 
+
+66
+00:02:33,660 --> 00:02:36,560
+ionic bond. If you look at many 
+
+67
+00:02:36,560 --> 00:02:38,880
+sodium ions and many chloride ions 
+
+68
+00:02:38,880 --> 00:02:41,020
+together, 
+
+69
+00:02:41,020 --> 00:02:43,120
+they form a very specific pattern 
+
+70
+00:02:43,120 --> 00:02:45,220
+, namely a lattice. 
+
+71
+00:02:45,760 --> 00:02:48,020
+As you can see, there are always 
+
+72
+00:02:48,020 --> 00:02:50,740
+positive and negative charges 
+
+73
+00:02:50,740 --> 00:02:53,100
+next to each other, which 
+
+74
+00:02:53,100 --> 00:02:55,720
+attract each other. This is the 
+
+75
+00:02:55,720 --> 00:02:57,840
+most energetically favorable state for the 
+molecule. 
+
+76
+00:02:58,280 --> 00:03:00,620
+This structure is quite solid and 
+
+77
+00:03:00,620 --> 00:03:02,960
+energy is required to detach a particle 
+
+78
+00:03:02,960 --> 00:03:04,640
+from this lattice. 
+
+79
+00:03:04,880 --> 00:03:06,800
+This energy is called 
+
+80
+00:03:06,800 --> 00:03:09,140
+lattice energy. It corresponds to the 
+
+81
+00:03:09,140 --> 00:03:10,980
+force that 
+
+82
+00:03:10,980 --> 00:03:13,960
+keeps the ions in the lattice . You may 
+recognize the NaCl 
+
+83
+00:03:13,960 --> 00:03:15,840
+from our example. 
+
+84
+00:03:16,160 --> 00:03:18,740
+In chemical terms, our normal table salt 
+is 
+
+85
+00:03:18,740 --> 00:03:21,840
+NaCl. Salts 
+
+86
+00:03:21,840 --> 00:03:23,820
+are the representatives of ionic bonds and 
+
+87
+00:03:23,820 --> 00:03:25,340
+form exactly these solid 
+
+88
+00:03:25,340 --> 00:03:27,080
+lattice structures that we 
+
+89
+00:03:27,080 --> 00:03:29,520
+have discussed. This is why salt is also a 
+
+90
+00:03:29,520 --> 00:03:31,420
+solid substance that forms crystals. 
+
+91
+00:03:31,500 --> 00:03:33,520
+They usually have relatively high 
+
+92
+00:03:33,520 --> 00:03:35,200
+boiling points and are soluble in 
+
+93
+00:03:35,200 --> 00:03:38,600
+water. In addition to NaCl, there are also 
+
+94
+00:03:38,600 --> 00:03:40,820
+other salts 
+
+95
+00:03:40,820 --> 00:03:42,760
+that are formed in the same way. Examples 
+
+96
+00:03:42,760 --> 00:03:45,340
+of this would be calcium carbonate or 
+
+97
+00:03:45,340 --> 00:03:48,340
+barium sulphate. I hope I 
+
+98
+00:03:48,340 --> 00:03:50,660
+have been able to help you understand what 
+anion 
+
+99
+00:03:50,660 --> 00:03:52,940
+and cation are and what the typical 
+
+100
+00:03:52,940 --> 00:03:54,620
+bonds they form look like. 
+
+101
+00:03:54,800 --> 00:03:56,720
+If you have any further questions on this 
+or 
+
+102
+00:03:56,720 --> 00:03:58,640
+other topics, please feel free to use 
+
+103
+00:03:58,640 --> 00:04:00,460
+our other content in the online 
+
+104
+00:04:00,460 --> 00:04:02,700
+ learning center or contact your 
+
+105
+00:04:02,700 --> 00:04:04,780
+local Schülerhilfe. See you 
+
+106
+00:04:04,780 --> 00:04:05,380
+next time! 

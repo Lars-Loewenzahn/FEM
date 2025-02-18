@@ -1,0 +1,404 @@
+1
+00:00:00,300 --> 00:00:01,760
+Hallo und willkommen zum Lernvideo
+
+2
+00:00:01,760 --> 00:00:03,680
+mit dem Thema wissenschaftliche
+
+3
+00:00:03,680 --> 00:00:04,900
+Darstellung mithilfe von
+
+4
+00:00:04,900 --> 00:00:07,840
+Zehnerpotenzen. Um ganz ganz große
+
+5
+00:00:07,840 --> 00:00:09,720
+Zahlen und ganz ganz kleine Zahlen
+
+6
+00:00:09,720 --> 00:00:11,220
+nicht komplett ausschreiben zu
+
+7
+00:00:11,220 --> 00:00:12,520
+müssen, hat man sich auf eine
+
+8
+00:00:12,520 --> 00:00:13,740
+wissenschaftliche Darstellung
+
+9
+00:00:13,740 --> 00:00:15,600
+mithilfe von Zehnerpotenzen geeinigt.
+
+10
+00:00:16,180 --> 00:00:17,960
+Wir müssen jetzt aber nochmal in
+
+11
+00:00:17,960 --> 00:00:19,420
+Erinnerung rufen, was Zehnerpotenzen
+
+12
+00:00:19,420 --> 00:00:21,040
+nochmal waren. Deswegen haben wir
+
+13
+00:00:21,040 --> 00:00:22,220
+jetzt hier nochmal drei
+
+14
+00:00:22,220 --> 00:00:24,020
+Zehnerpotenzen aufgeschrieben. Ich
+
+15
+00:00:24,020 --> 00:00:26,060
+möchte nochmal kurz wiederholen, was
+
+16
+00:00:26,060 --> 00:00:28,340
+es bedeutet. 10 hoch 1 ergibt nämlich
+
+17
+00:00:28,340 --> 00:00:32,920
+gerade 10. 10 hoch 2, 10 mal 10, 100.
+
+18
+00:00:33,980 --> 00:00:36,620
+10 hoch 3, 10 mal 10 mal 10, 1000.
+
+19
+00:00:38,900 --> 00:00:40,840
+Dasselbe gilt auch für negative
+
+20
+00:00:40,840 --> 00:00:43,040
+Exponenten. 10 hoch minus 1 ist
+
+21
+00:00:43,040 --> 00:00:46,400
+nichts anderes als 1 durch 10, also 0
+
+22
+00:00:46,400 --> 00:00:50,040
+,1. 10 hoch minus 2 ist 1 durch 100,
+
+23
+00:00:50,440 --> 00:00:54,540
+also 0,01. und 10 hoch minus 3 ist 1
+
+24
+00:00:54,540 --> 00:00:59,680
+durch 1000, also 0,001. Man kann sich
+
+25
+00:00:59,680 --> 00:01:01,980
+jetzt auch leicht überlegen, dass
+
+26
+00:01:01,980 --> 00:01:04,240
+immer der Exponent die Anzahl der
+
+27
+00:01:04,240 --> 00:01:06,480
+Nullen angibt. Bei 10 hoch 2 sind
+
+28
+00:01:06,480 --> 00:01:09,480
+hinter der 1 zwei Nullen, bei 10 hoch
+
+29
+00:01:09,480 --> 00:01:13,440
+minus 3 sind vor der 1 drei Nullen.
+
+30
+00:01:14,320 --> 00:01:16,080
+Schauen wir uns mal ein Beispiel an.
+
+31
+00:01:17,500 --> 00:01:20,260
+Ich kann die 500, die ich hier stehen
+
+32
+00:01:20,260 --> 00:01:22,560
+habe, ja umschreiben. in das Produkt
+
+33
+00:01:22,560 --> 00:01:26,040
+5 mal 100. Wenn ich nochmal nach oben
+
+34
+00:01:26,040 --> 00:01:30,360
+schaue, 10 hoch 2 war 100, das heißt,
+
+35
+00:01:30,380 --> 00:01:32,400
+ich kann das auch schreiben als
+
+36
+00:01:32,400 --> 00:01:39,480
+Zehnerpotenz 5 mal 10 hoch 2. 0,007
+
+37
+00:01:39,480 --> 00:01:40,820
+kann ich auch aufschreiben
+
+38
+00:01:40,820 --> 00:01:46,100
+umschreiben als Produkt 7 mal 0,001.
+
+39
+00:01:47,540 --> 00:01:52,560
+0,001 war genau 10 hoch minus 3, also
+
+40
+00:01:52,560 --> 00:01:53,860
+kann ich die Zahl auch umschreiben
+
+41
+00:01:53,860 --> 00:01:58,480
+als 7 mal 10 hoch minus 3. Man
+
+42
+00:01:58,480 --> 00:02:00,220
+erkennt, wenn ich eine große Zahl
+
+43
+00:02:00,220 --> 00:02:01,900
+habe, habe ich eine Zehnerpotenz mit
+
+44
+00:02:01,900 --> 00:02:03,840
+positiven Exponenten, wenn ich eine
+
+45
+00:02:03,840 --> 00:02:05,440
+kleine Zahl habe, habe ich eine
+
+46
+00:02:05,440 --> 00:02:07,880
+Zehnerpotenz mit negativen
+
+47
+00:02:07,880 --> 00:02:08,480
+Exponenten.
+
+48
+00:02:10,940 --> 00:02:12,460
+Man wendet die wissenschaftliche
+
+49
+00:02:12,460 --> 00:02:14,340
+Darstellung meist auch in der Physik
+
+50
+00:02:14,340 --> 00:02:15,680
+an. Dort haben wir zum Beispiel
+
+51
+00:02:15,680 --> 00:02:17,060
+riesengroße Zahlen wie die
+
+52
+00:02:17,060 --> 00:02:20,040
+Lichtgeschwindigkeit. Wenn ich die
+
+53
+00:02:20,040 --> 00:02:21,980
+jetzt also in eine wissenschaftliche
+
+54
+00:02:21,980 --> 00:02:24,480
+Darstellung bringen will, muss ich
+
+55
+00:02:24,480 --> 00:02:26,320
+quasi das Komma verschieben. Ich
+
+56
+00:02:26,320 --> 00:02:27,960
+denke mir, wenn jetzt kein Komma da
+
+57
+00:02:27,960 --> 00:02:30,220
+ist, ist das Komma ganz am Ende, also
+
+58
+00:02:30,220 --> 00:02:33,600
+Komma 0. Ich zähle jetzt, wie oft ich
+
+59
+00:02:33,600 --> 00:02:38,060
+das Komma verschieben muss. 1, 2, 3,
+
+60
+00:02:38,260 --> 00:02:44,700
+4, 5, 6, 7, 8. Ich verschiebe es
+
+61
+00:02:44,700 --> 00:02:46,780
+nämlich immer bis zu der Stelle, dass
+
+62
+00:02:46,780 --> 00:02:48,600
+nur noch eine Ziffer vor dem Komma
+
+63
+00:02:48,600 --> 00:02:51,280
+steht. Ich habe es also um 8 Stellen
+
+64
+00:02:51,280 --> 00:02:54,720
+verschoben. Das heißt, wenn ich das
+
+65
+00:02:54,720 --> 00:03:03,660
+Komma hier setze, 2,99792458
+
+66
+00:03:03,660 --> 00:03:07,040
+muss ich das mit der Zehnerpotenz 10
+
+67
+00:03:07,040 --> 00:03:10,020
+hoch 8 multiplizieren, damit es
+
+68
+00:03:10,020 --> 00:03:13,300
+denselben Wert ergibt. In der Physik
+
+69
+00:03:13,300 --> 00:03:14,900
+rechnen wir meist mit dem gerundeten
+
+70
+00:03:14,900 --> 00:03:20,020
+Wert 3 mal 10 hoch 8 Meter pro
+
+71
+00:03:20,020 --> 00:03:22,300
+Sekunde. So schnell ist das Licht.
+
+72
+00:03:23,100 --> 00:03:24,380
+Schauen wir uns jetzt nochmal ein
+
+73
+00:03:24,380 --> 00:03:25,740
+Beispiel an. für eine kleine Zahl an.
+
+74
+00:03:26,800 --> 00:03:28,620
+Nehmen wir unsere Haardicke, die
+
+75
+00:03:28,620 --> 00:03:33,760
+beträgt 0,00004 Meter. Auch hier
+
+76
+00:03:33,760 --> 00:03:34,900
+verschiebe ich wieder das Komma,
+
+77
+00:03:34,940 --> 00:03:36,980
+sodass nur eine Ziffer vor dem Komma
+
+78
+00:03:36,980 --> 00:03:44,360
+stehen bleibt. Also 1, 2, 3, 4 und 5,
+
+79
+00:03:44,520 --> 00:03:46,900
+sodass das Komma hinter der 4 steht.
+
+80
+00:03:47,140 --> 00:03:48,840
+Ich habe es also um 5 Einheiten
+
+81
+00:03:48,840 --> 00:03:51,400
+verschoben. Deswegen kann ich auch
+
+82
+00:03:51,400 --> 00:03:57,520
+schreiben 4 mal 10 hoch minus 5
+
+83
+00:03:57,520 --> 00:03:58,360
+Meter.
+
+84
+00:04:01,000 --> 00:04:03,140
+Nochmal kurz zusammengefasst, wenn
+
+85
+00:04:03,140 --> 00:04:06,280
+ich eine große Zahl habe, dann zähle
+
+86
+00:04:06,280 --> 00:04:14,110
+ich die Stellen ab, die ich das Komma
+
+87
+00:04:14,110 --> 00:04:15,630
+verschoben habe, sodass nur noch eine
+
+88
+00:04:15,630 --> 00:04:17,630
+Ziffer vor dem Komma steht. Das ist
+
+89
+00:04:17,630 --> 00:04:19,830
+dann auch genau mein Exponent von
+
+90
+00:04:19,830 --> 00:04:23,790
+meiner Zehnerpotenz. Bei großen...
+
+91
+00:04:23,850 --> 00:04:26,030
+Zahlen war die Zehnerpotenz mit einem
+
+92
+00:04:26,030 --> 00:04:28,050
+positiven Exponenten versehen. Wenn
+
+93
+00:04:28,050 --> 00:04:31,430
+ich eine kleine Zahl habe, dann ist
+
+94
+00:04:31,430 --> 00:04:33,730
+der Exponent mit einer negativen Zahl
+
+95
+00:04:33,730 --> 00:04:35,630
+versehen, aber auch wieder genau um
+
+96
+00:04:35,630 --> 00:04:37,210
+die Stellen, die ich das Komma
+
+97
+00:04:37,210 --> 00:04:38,610
+verschoben habe, sodass nur eine
+
+98
+00:04:38,610 --> 00:04:39,910
+Ziffer vor dem Komma stehen bleibt.
+
+99
+00:04:40,130 --> 00:04:40,570
+Ich
+
+100
+00:04:44,640 --> 00:04:45,940
+danke dir für deine Aufmerksamkeit
+
+101
+00:04:45,940 --> 00:04:47,160
+und freue mich aufs nächste Mal.
+

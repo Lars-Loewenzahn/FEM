@@ -1,0 +1,2523 @@
+﻿1
+00:00:04,400 --> 00:00:06,280
+Welcome to the webinar 
+
+2
+00:00:06,280 --> 00:00:08,040
+Trigonometry. In 
+
+3
+00:00:08,040 --> 00:00:09,640
+this webinar , we will look at 
+trigonometric 
+
+4
+00:00:09,640 --> 00:00:11,520
+functions and the sine and cosine 
+
+5
+00:00:11,520 --> 00:00:14,300
+theorems. 
+
+6
+00:00:14,300 --> 00:00:15,900
+We will also look at when 
+
+7
+00:00:15,900 --> 00:00:19,560
+something is used and why we 
+
+8
+00:00:19,560 --> 00:00:21,020
+
+9
+00:00:21,020 --> 00:00:22,880
+need the sine and cosine theorems . 
+
+10
+00:00:22,880 --> 00:00:25,160
+We will also 
+
+11
+00:00:25,160 --> 00:00:26,040
+convey this knowledge using these three 
+examples , which we will then of course 
+
+12
+00:00:26,040 --> 00:00:29,760
+work on together and 
+
+13
+00:00:29,760 --> 00:00:31,180
+
+14
+00:00:31,180 --> 00:00:32,740
+apply what we have already learned and 
+
+15
+00:00:32,740 --> 00:00:35,300
+explain again accordingly . Let's start 
+
+16
+00:00:35,300 --> 00:00:37,060
+with the three 
+
+17
+00:00:37,060 --> 00:00:38,580
+trigonometric 
+
+18
+00:00:38,580 --> 00:00:42,020
+functions commonly used in school. But 
+before we do that 
+
+19
+00:00:42,020 --> 00:00:43,980
+, let's first look at what 
+
+20
+00:00:43,980 --> 00:00:45,900
+trigonometric functions are. 
+
+21
+00:00:45,900 --> 00:00:47,240
+In fact, trigonometric functions 
+
+22
+00:00:47,240 --> 00:00:48,360
+are actually a very practical 
+
+23
+00:00:48,360 --> 00:00:50,860
+thing, because they represent 
+
+24
+00:00:50,860 --> 00:00:52,700
+
+25
+00:00:52,700 --> 00:00:55,520
+or show relationships in a right-angled 
+triangle . Very importantly, this 
+
+26
+00:00:55,520 --> 00:00:57,200
+only applies in a right-angled triangle. 
+
+27
+00:00:57,260 --> 00:00:58,800
+We can therefore only 
+
+28
+00:00:58,800 --> 00:01:00,120
+
+29
+00:01:00,120 --> 00:01:02,320
+use them in right-angled triangles . This 
+means that if 
+
+30
+00:01:02,320 --> 00:01:04,060
+there is no right-angled triangle 
+
+31
+00:01:04,460 --> 00:01:05,480
+, we unfortunately cannot 
+
+32
+00:01:05,480 --> 00:01:09,400
+use them. A right angle in 
+
+33
+00:01:09,400 --> 00:01:10,780
+a triangle is always marked by such a 
+
+34
+00:01:10,780 --> 00:01:11,780
+point, 
+
+35
+00:01:11,780 --> 00:01:13,420
+i.e. it is a 90-degree angle, which means 
+
+36
+00:01:13,420 --> 00:01:14,780
+that there is a right angle 
+
+37
+00:01:14,780 --> 00:01:17,300
+and then we can also 
+
+38
+00:01:17,300 --> 00:01:18,720
+
+39
+00:01:18,720 --> 00:01:22,360
+use the trigonometric functions 
+accordingly. And if we are 
+
+40
+00:01:22,360 --> 00:01:23,700
+
+41
+00:01:23,700 --> 00:01:25,400
+
+42
+00:01:25,400 --> 00:01:27,500
+
+43
+00:01:27,500 --> 00:01:28,760
+
+44
+00:01:28,760 --> 00:01:31,880
+working with the sine, cosine or tangent , 
+which are the three trigonometric 
+functions used at school , then we are 
+also talking about 
+
+45
+00:01:31,880 --> 00:01:34,180
+cathets and hypotenuses or, more precisely 
+
+46
+00:01:34,180 --> 00:01:37,180
+, the ante- and anticathets 
+
+47
+00:01:37,180 --> 00:01:40,200
+and a hypotenuse. I would always 
+
+48
+00:01:40,200 --> 00:01:41,820
+advise that you look at the 
+
+49
+00:01:41,820 --> 00:01:44,560
+hypotenuse first , because 
+
+50
+00:01:44,560 --> 00:01:46,000
+you can always 
+
+51
+00:01:46,000 --> 00:01:48,600
+get a good overview from there. This is 
+very important. The 
+
+52
+00:01:48,600 --> 00:01:51,920
+hypotenuse is really always the 
+
+53
+00:01:51,920 --> 00:01:54,320
+longest side of the triangle and is 
+
+54
+00:01:54,320 --> 00:01:55,740
+opposite the right angle. 
+
+55
+00:01:56,080 --> 00:01:57,720
+This means that if this is our 
+
+56
+00:01:57,720 --> 00:01:59,420
+right angle, then this is 
+
+57
+00:01:59,420 --> 00:02:00,780
+the hypotenuse. I think you can 
+
+58
+00:02:00,780 --> 00:02:04,100
+also see that side C is 
+
+59
+00:02:04,100 --> 00:02:06,380
+the longest side in this triangle and it 
+is 
+
+60
+00:02:06,380 --> 00:02:10,180
+also the hypotenuse. 
+
+61
+00:02:10,180 --> 00:02:11,500
+Unfortunately, things get 
+
+62
+00:02:11,500 --> 00:02:12,960
+a bit more complex with the anchoring 
+catheter and the counter-catheter . So if 
+this is 
+
+63
+00:02:12,960 --> 00:02:14,860
+the hypotenuse, A and B are 
+
+64
+00:02:14,860 --> 00:02:16,780
+catheters. Which of the two 
+
+65
+00:02:16,780 --> 00:02:17,680
+
+66
+00:02:17,680 --> 00:02:19,420
+is the anterior and which of the two is 
+the posterior catheter must then 
+
+67
+00:02:19,420 --> 00:02:21,120
+be clarified accordingly using 
+
+68
+00:02:21,120 --> 00:02:23,640
+the angle. And that's what we' 
+
+69
+00:02:23,640 --> 00:02:26,520
+re going to look at now. Because the 
+anathema 
+
+70
+00:02:26,520 --> 00:02:28,440
+is always the cathetus of the angle 
+
+71
+00:02:28,440 --> 00:02:30,940
+. We still have the triangle 
+
+72
+00:02:30,940 --> 00:02:33,020
+from before, which means that C is still 
+
+73
+00:02:33,020 --> 00:02:35,780
+our hypotenuse. And here we have 
+
+74
+00:02:35,780 --> 00:02:38,040
+beta in the land angle. And that is 
+
+75
+00:02:38,040 --> 00:02:39,600
+a cathetus here, so A and B are 
+
+76
+00:02:39,600 --> 00:02:42,820
+also a cathetus. And for beta 
+
+77
+00:02:42,820 --> 00:02:45,300
+, A is the anathema, because 
+
+78
+00:02:45,300 --> 00:02:47,120
+that's the cathetus of the angle 
+
+79
+00:02:47,120 --> 00:02:49,680
+. And B is 
+
+80
+00:02:49,680 --> 00:02:51,860
+the opposite cathetus, i.e. the cathetus 
+
+81
+00:02:51,940 --> 00:02:55,240
+opposite the angle. The 
+
+82
+00:02:55,240 --> 00:02:57,920
+whole thing changes, of course, as soon as 
+
+83
+00:02:57,920 --> 00:03:00,680
+we look at the alpha angle. If 
+
+84
+00:03:00,680 --> 00:03:02,280
+we look at the angle alpha 
+
+85
+00:03:02,280 --> 00:03:04,200
+, C is of course still the hypotenuse. 
+
+86
+00:03:04,200 --> 00:03:07,080
+But then side B is the on-cathetus 
+
+87
+00:03:07,080 --> 00:03:10,260
+ and side A is the 
+
+88
+00:03:10,260 --> 00:03:15,020
+off-cathetus. This is very important. So 
+
+89
+00:03:15,020 --> 00:03:17,080
+the on-cathetus is always the cathetus 
+
+90
+00:03:17,080 --> 00:03:19,660
+that is at the angle, and the off-cathetus 
+
+91
+00:03:19,660 --> 00:03:22,040
+is the cathetus that 
+
+92
+00:03:22,040 --> 00:03:25,100
+is opposite the angle. Please 
+
+93
+00:03:25,100 --> 00:03:27,000
+check this 
+
+94
+00:03:27,000 --> 00:03:29,360
+carefully every time you are given a 
+different angle , because if you 
+
+95
+00:03:29,360 --> 00:03:30,340
+
+96
+00:03:30,340 --> 00:03:31,940
+have to calculate a triangle like this, 
+you 
+
+97
+00:03:31,940 --> 00:03:33,300
+sometimes calculate with the angle beta. 
+And 
+
+98
+00:03:33,300 --> 00:03:35,160
+sometimes with the angle alpha. And 
+
+99
+00:03:35,160 --> 00:03:36,820
+then, of course, the 
+
+100
+00:03:36,820 --> 00:03:39,100
+anchor and opposite cathets also change. 
+Because, as 
+
+101
+00:03:39,100 --> 00:03:42,140
+I said, B is the anchor cathetus of alpha 
+
+102
+00:03:42,140 --> 00:03:44,740
+and A is the anchor cathetus of beta. 
+
+103
+00:03:45,760 --> 00:03:49,640
+So please pay attention here. Well, let' 
+
+104
+00:03:49,640 --> 00:03:51,340
+s now move on to what this is 
+
+105
+00:03:51,340 --> 00:03:53,720
+all about. So, we see that 
+
+106
+00:03:53,820 --> 00:03:55,980
+the sine of an angle is always 
+
+107
+00:03:55,980 --> 00:03:59,860
+a fraction. So the sine, for 
+
+108
+00:03:59,860 --> 00:04:01,880
+example, is the opposite cathetus 
+
+109
+00:04:01,880 --> 00:04:03,640
+divided by the hypotenuse that 
+
+110
+00:04:03,640 --> 00:04:05,240
+means if we 
+
+111
+00:04:05,240 --> 00:04:08,080
+look at the angle alpha against the 
+cathetus here 
+
+112
+00:04:08,080 --> 00:04:09,780
+alpha is our hypotenuse 
+
+113
+00:04:09,780 --> 00:04:11,340
+because here is the right angle that 
+
+114
+00:04:11,340 --> 00:04:13,680
+means this is the an-cathetus and a is 
+
+115
+00:04:13,680 --> 00:04:14,820
+then correspondingly the opposite cathetus 
+
+116
+00:04:14,820 --> 00:04:17,500
+that means in this triangle the 
+
+117
+00:04:17,500 --> 00:04:21,620
+sine of alpha is a by c as we 
+
+118
+00:04:21,620 --> 00:04:23,200
+see we have an equation with 
+
+119
+00:04:23,200 --> 00:04:26,200
+three parameters that means if we 
+
+120
+00:04:26,200 --> 00:04:28,220
+now insert two we can determine the 
+
+121
+00:04:28,220 --> 00:04:31,100
+third as a variable 
+
+122
+00:04:31,100 --> 00:04:33,320
+so if we know two quantities here, 
+
+123
+00:04:33,320 --> 00:04:35,340
+either an angle or a length 
+
+124
+00:04:35,340 --> 00:04:37,160
+or the length, we can 
+
+125
+00:04:37,160 --> 00:04:40,620
+determine the third quantity the sine 
+
+126
+00:04:40,620 --> 00:04:41,920
+function is 
+
+127
+00:04:41,920 --> 00:04:43,140
+programmed into the calculator this is the 
+good 
+
+128
+00:04:43,140 --> 00:04:45,000
+news and is located under 
+
+129
+00:04:45,000 --> 00:04:47,360
+a sine button very important is 
+
+130
+00:04:47,360 --> 00:04:50,080
+the calculator or mathematics 
+
+131
+00:04:50,080 --> 00:04:51,180
+is also often calculated with the 
+
+132
+00:04:51,180 --> 00:04:54,980
+radial measure we We 
+
+133
+00:04:54,980 --> 00:04:56,640
+always calculate here in geometry with the 
+degree 
+
+134
+00:04:56,640 --> 00:04:59,020
+mode. This means that we 
+
+135
+00:04:59,020 --> 00:05:01,840
+specify the angles in degrees. And that 
+means it 
+
+136
+00:05:01,840 --> 00:05:02,960
+is very important that the 
+
+137
+00:05:02,960 --> 00:05:04,400
+calculators are also set to this degree 
+
+138
+00:05:04,400 --> 00:05:07,380
+mode. Otherwise the correct value is 
+
+139
+00:05:07,380 --> 00:05:09,160
+entered and the 
+
+140
+00:05:09,160 --> 00:05:12,140
+result is strange. 
+
+141
+00:05:12,140 --> 00:05:13,600
+Unfortunately, this then comes out in 
+radians and we 
+
+142
+00:05:13,600 --> 00:05:17,520
+want it in degrees. 
+
+143
+00:05:17,520 --> 00:05:19,000
+It looks similar for the cosine and the 
+
+144
+00:05:19,000 --> 00:05:21,720
+tangent. The cosine of an 
+
+145
+00:05:21,720 --> 00:05:23,180
+angle is the anathema divided 
+
+146
+00:05:23,180 --> 00:05:25,800
+by the hypotenuse. We still have 
+
+147
+00:05:25,800 --> 00:05:27,240
+the same triangle as before. 
+
+148
+00:05:27,400 --> 00:05:30,140
+The right angle is at the top here. 
+
+149
+00:05:30,140 --> 00:05:31,660
+That means C is still our 
+
+150
+00:05:31,660 --> 00:05:34,780
+hypotenuse and our angle alpha is 
+
+151
+00:05:34,780 --> 00:05:37,520
+still at the bottom left. That means B 
+
+152
+00:05:37,520 --> 00:05:39,920
+is the anathema and therefore 
+
+153
+00:05:39,920 --> 00:05:43,060
+the cosine of alpha is B through C. 
+
+154
+00:05:45,030 --> 00:05:47,610
+The tangent is the trigonometric 
+
+155
+00:05:47,610 --> 00:05:49,510
+function where you don't 
+
+156
+00:05:49,510 --> 00:05:50,770
+need a hypotenuse . This means that we 
+only need the 
+
+157
+00:05:50,770 --> 00:05:52,990
+anticathetus and the anathema because, as 
+
+158
+00:05:52,990 --> 00:05:54,510
+you can see, the tangent of the 
+
+159
+00:05:54,510 --> 00:05:55,750
+angle alpha is equal to the 
+
+160
+00:05:55,750 --> 00:05:57,570
+anticathetus through the anathema. 
+
+161
+00:05:57,890 --> 00:05:59,610
+Again, the same triangle as 
+
+162
+00:05:59,610 --> 00:06:01,310
+before, i.e. here is the 
+
+163
+00:06:01,310 --> 00:06:02,750
+right angle, that would be our 
+
+164
+00:06:02,750 --> 00:06:04,450
+hypotenuse, which we 
+
+165
+00:06:04,510 --> 00:06:07,050
+don't need for the tangent . B is 
+
+166
+00:06:07,050 --> 00:06:08,950
+therefore the anathema and A 
+
+167
+00:06:08,950 --> 00:06:11,770
+the anticathema. And 
+
+168
+00:06:11,770 --> 00:06:14,010
+we could now use this to 
+
+169
+00:06:14,010 --> 00:06:17,670
+calculate an angle. So much for that. 
+
+170
+00:06:20,490 --> 00:06:21,430
+Functions must also be in the 
+
+171
+00:06:21,430 --> 00:06:22,670
+formulary. However, it is 
+
+172
+00:06:22,670 --> 00:06:24,470
+definitely an advantage if you know them 
+
+173
+00:06:24,470 --> 00:06:26,670
+by heart. Then the knowledge is 
+
+174
+00:06:26,670 --> 00:06:28,170
+always available and you are 
+
+175
+00:06:28,170 --> 00:06:32,270
+more productive. 
+
+176
+00:06:32,270 --> 00:06:35,610
+So far, we have only used angles 
+
+177
+00:06:35,630 --> 00:06:36,490
+, or rather 
+
+178
+00:06:41,710 --> 00:06:43,790
+, as is almost always the case, there is 
+of course also 
+
+179
+00:06:43,790 --> 00:06:45,690
+an inverse function. This 
+
+180
+00:06:45,690 --> 00:06:47,470
+inverse function is used when 
+
+181
+00:06:47,470 --> 00:06:49,330
+we want to calculate an angle. 
+
+182
+00:06:49,330 --> 00:06:51,410
+If we insert two side lengths 
+
+183
+00:06:51,410 --> 00:06:52,770
+and want to calculate an angle, 
+
+184
+00:06:52,930 --> 00:06:54,950
+we have to 
+
+185
+00:06:54,950 --> 00:06:56,230
+
+186
+00:06:56,230 --> 00:06:58,010
+get the angle alpha from this sine 
+function here. And for this we need 
+
+187
+00:06:58,010 --> 00:07:00,050
+the inverse function. And the 
+
+188
+00:07:00,050 --> 00:07:01,910
+inverse function of sine 
+
+189
+00:07:01,910 --> 00:07:05,170
+is sine raised to the power of minus 1. 
+The 
+
+190
+00:07:05,170 --> 00:07:06,570
+inverse function of cosine 
+
+191
+00:07:06,570 --> 00:07:08,330
+is cosine raised to the power of minus 1 
+and 
+
+192
+00:07:08,330 --> 00:07:10,030
+the tangent is tangent raised to the power 
+of minus 1. 
+
+193
+00:07:11,370 --> 00:07:13,410
+It should be called 
+
+194
+00:07:13,410 --> 00:07:17,030
+arc sine instead of sine raised to the 
+power of minus 1. 
+
+195
+00:07:17,030 --> 00:07:18,670
+However, on all calculators 
+
+196
+00:07:18,690 --> 00:07:19,950
+used in schools, 
+
+197
+00:07:20,310 --> 00:07:22,890
+sine raised to the power of minus 1 is 
+used and this 
+
+198
+00:07:22,890 --> 00:07:24,650
+is also 
+
+199
+00:07:24,650 --> 00:07:29,030
+perfectly acceptable in a school context 
+Well, as I said, 
+
+200
+00:07:29,250 --> 00:07:30,710
+this key is also on 
+
+201
+00:07:30,710 --> 00:07:32,310
+the calculator And this is how 
+
+202
+00:07:32,310 --> 00:07:33,950
+you use the sine raised to the power of 
+minus 1 function, 
+
+203
+00:07:34,090 --> 00:07:36,130
+This is the inverse function And then 
+
+204
+00:07:36,130 --> 00:07:37,270
+you can 
+
+205
+00:07:37,270 --> 00:07:39,190
+rearrange it accordingly, as you can see 
+here The important thing is that 
+
+206
+00:07:39,250 --> 00:07:41,310
+the sine raised to the power of minus 1 
+naturally 
+
+207
+00:07:41,310 --> 00:07:43,910
+cancels out the sine, i.e. 
+
+208
+00:07:43,910 --> 00:07:45,890
+only alpha remains and if you 
+
+209
+00:07:45,890 --> 00:07:47,130
+didn't have anything before , then you 
+take 
+
+210
+00:07:47,130 --> 00:07:49,450
+the sine raised to the power of minus 1 of 
+A through C 
+
+211
+00:07:49,450 --> 00:07:52,050
+and can thus determine the angle. 
+
+212
+00:07:55,020 --> 00:07:57,080
+The three trinometric functions, 
+
+213
+00:07:57,080 --> 00:07:59,180
+sine, cosine and tangent, which 
+
+214
+00:07:59,180 --> 00:08:01,260
+have just been introduced, can 
+
+215
+00:08:01,260 --> 00:08:02,940
+
+216
+00:08:02,940 --> 00:08:05,780
+only 
+
+217
+00:08:05,780 --> 00:08:08,420
+be used in a right-angled triangle , as 
+was hopefully mentioned at the beginning. 
+
+218
+00:08:08,420 --> 00:08:10,840
+Unfortunately, if you have a triangle 
+
+219
+00:08:10,840 --> 00:08:12,460
+that 
+
+220
+00:08:12,460 --> 00:08:13,900
+is not right-angled 
+
+221
+00:08:13,900 --> 00:08:16,820
+, you cannot use them. This means 
+
+222
+00:08:17,000 --> 00:08:20,340
+that you first have to 
+
+223
+00:08:20,340 --> 00:08:21,680
+divide the triangle in such a way that 
+
+224
+00:08:21,680 --> 00:08:23,460
+you get a right-angled triangle. 
+
+225
+00:08:23,460 --> 00:08:24,780
+Unfortunately, this is not always 
+possible. 
+
+226
+00:08:25,480 --> 00:08:27,420
+And if this 
+
+227
+00:08:27,420 --> 00:08:29,220
+is unfortunately not possible , you have 
+to 
+
+228
+00:08:29,220 --> 00:08:31,520
+help yourself with other means. These are 
+
+229
+00:08:31,520 --> 00:08:33,300
+the sine and cosine theorems. These 
+
+230
+00:08:33,300 --> 00:08:35,240
+can also be used in 
+
+231
+00:08:35,240 --> 00:08:37,900
+non-right-angled triangles. And 
+
+232
+00:08:37,900 --> 00:08:39,920
+you can already see here that the sine 
+theorem 
+
+233
+00:08:39,920 --> 00:08:41,600
+is A by the sine of alpha is 
+
+234
+00:08:41,600 --> 00:08:43,280
+equal to B by the sine of beta and 
+
+235
+00:08:43,280 --> 00:08:44,800
+that is equal to C by the sine of 
+
+236
+00:08:44,800 --> 00:08:48,420
+gamma. As you can see, it simply 
+
+237
+00:08:48,420 --> 00:08:50,960
+follows the alphabet ABC alpha beta 
+
+238
+00:08:50,960 --> 00:08:54,700
+gamma. And conversely, this means 
+
+239
+00:08:54,700 --> 00:08:57,780
+nothing more than the angle, the 
+
+240
+00:08:57,780 --> 00:08:59,420
+side divided by the sine of the 
+
+241
+00:08:59,420 --> 00:09:01,440
+opposite angle. If you 
+
+242
+00:09:01,440 --> 00:09:02,820
+look at this in a triangle 
+
+243
+00:09:02,860 --> 00:09:06,520
+, you will see this accordingly. 
+
+244
+00:09:06,520 --> 00:09:08,240
+So, as you can see here, you can use this 
+
+245
+00:09:08,340 --> 00:09:11,700
+very well to 
+
+246
+00:09:11,700 --> 00:09:13,760
+calculate a side or an angle if 
+
+247
+00:09:13,760 --> 00:09:16,760
+two angles and a side or two 
+
+248
+00:09:16,760 --> 00:09:18,240
+sides and an angle are given. 
+
+249
+00:09:18,880 --> 00:09:20,740
+In other words, if you have three 
+quantities, 
+
+250
+00:09:20,800 --> 00:09:22,700
+you can calculate the fourth. This 
+
+251
+00:09:22,700 --> 00:09:24,340
+is very practical and 
+
+252
+00:09:24,340 --> 00:09:25,400
+, as 
+
+253
+00:09:25,400 --> 00:09:26,480
+mentioned earlier , also applies to 
+
+254
+00:09:26,480 --> 00:09:29,160
+non-right-angled triangles. 
+
+255
+00:09:29,160 --> 00:09:30,420
+You can see this here if we now 
+
+256
+00:09:30,420 --> 00:09:33,380
+know alpha, B and beta , for example. 
+
+257
+00:09:33,380 --> 00:09:35,700
+All we have to do is convert to A. This is 
+quite 
+
+258
+00:09:35,700 --> 00:09:37,720
+simple if we 
+
+259
+00:09:37,720 --> 00:09:40,040
+multiply by the sine of alpha . Then the A 
+
+260
+00:09:40,040 --> 00:09:42,100
+is equal to B by the sine of beta 
+
+261
+00:09:42,100 --> 00:09:44,960
+times the sine of alpha. 
+
+262
+00:09:44,960 --> 00:09:46,620
+By inserting B, beta and alpha 
+
+263
+00:09:46,620 --> 00:09:47,980
+, we can now determine the 
+
+264
+00:09:47,980 --> 00:09:52,480
+side length A. The second 
+
+265
+00:09:52,480 --> 00:09:54,820
+possibility is the cosine theorem. 
+
+266
+00:09:54,940 --> 00:09:56,260
+That's why it's called the sine and 
+
+267
+00:09:56,260 --> 00:09:58,800
+cosine theorem. 
+
+268
+00:09:58,800 --> 00:10:00,220
+In my opinion, the cosine theorem is a 
+little 
+
+269
+00:10:00,220 --> 00:10:03,100
+more complex. To use the cosine theorem 
+
+270
+00:10:03,100 --> 00:10:05,060
+, you always need two 
+
+271
+00:10:05,060 --> 00:10:06,960
+sides and the 
+
+272
+00:10:06,960 --> 00:10:09,920
+angles enclosed by the two sides. 
+
+273
+00:10:09,920 --> 00:10:13,460
+You can then use this information to 
+determine the 
+
+274
+00:10:13,460 --> 00:10:15,180
+side opposite the angle , in this case 
+
+275
+00:10:15,180 --> 00:10:18,700
+c. You also need this 
+
+276
+00:10:18,700 --> 00:10:22,160
+quite often and the cosine theorem 
+
+277
+00:10:22,160 --> 00:10:24,860
+is simply c² equals a² plus b² 
+
+278
+00:10:24,860 --> 00:10:27,680
+minus 2ab times the cosine of phi. 
+
+279
+00:10:28,040 --> 00:10:29,920
+If you now 
+
+280
+00:10:29,920 --> 00:10:31,240
+want to calculate c directly, you can see 
+
+281
+00:10:31,240 --> 00:10:33,600
+the square root. This means that you 
+
+282
+00:10:33,600 --> 00:10:36,060
+can also go there and say that c is 
+
+283
+00:10:36,060 --> 00:10:39,020
+equal to the root of the whole. 
+
+284
+00:10:39,480 --> 00:10:41,300
+It's a bit quicker then, 
+
+285
+00:10:41,300 --> 00:10:42,500
+you 've saved yourself a calculation step, 
+
+286
+00:10:44,980 --> 00:10:46,740
+but otherwise it's absolutely 
+
+287
+00:10:46,740 --> 00:10:50,880
+correct, just as it says. Right, 
+
+288
+00:10:50,880 --> 00:10:52,160
+now let's move on to our 
+
+289
+00:10:52,160 --> 00:10:53,780
+example problems. We'll 
+
+290
+00:10:53,780 --> 00:10:55,400
+
+291
+00:10:55,400 --> 00:10:57,520
+
+292
+00:10:57,520 --> 00:10:58,760
+need the cosine theorem right at the end, 
+I'll say it in advance, in example 
+exercise 3 and then 
+
+293
+00:10:58,760 --> 00:11:00,160
+we'll go into it in more detail. 
+
+294
+00:11:00,160 --> 00:11:02,740
+Example problems 1 and 2 are 
+
+295
+00:11:02,740 --> 00:11:04,500
+
+296
+00:11:04,500 --> 00:11:05,740
+
+297
+00:11:05,740 --> 00:11:08,300
+to be solved with the normal three 
+trigonometric functions, as I presented 
+them at the beginning , and 
+
+298
+00:11:08,300 --> 00:11:09,380
+we will now take a 
+
+299
+00:11:09,380 --> 00:11:12,160
+closer look at them. Here we see 
+
+300
+00:11:12,160 --> 00:11:14,620
+example problem 1, where we 
+
+301
+00:11:14,620 --> 00:11:15,780
+have a right-angled 
+
+302
+00:11:15,780 --> 00:11:16,980
+triangle, which means we can 
+
+303
+00:11:16,980 --> 00:11:18,600
+work with sine, cosine or tangent. 
+
+304
+00:11:18,680 --> 00:11:21,060
+So we don't need a sine or 
+
+305
+00:11:21,060 --> 00:11:22,380
+cosine theorem. That's very 
+
+306
+00:11:22,380 --> 00:11:23,460
+good, because it's a 
+
+307
+00:11:23,460 --> 00:11:25,500
+bit quicker. We can also see that 
+
+308
+00:11:25,620 --> 00:11:27,400
+we have given two side lengths. 
+
+309
+00:11:27,980 --> 00:11:32,280
+And our task 
+
+310
+00:11:32,280 --> 00:11:34,120
+now is to 
+
+311
+00:11:34,120 --> 00:11:36,800
+calculate the missing angles and lengths. 
+We can see that 
+
+312
+00:11:36,800 --> 00:11:38,380
+one length is currently missing, which is 
+
+313
+00:11:38,380 --> 00:11:41,780
+length B and two angles. We can 
+
+314
+00:11:41,780 --> 00:11:42,920
+now 
+
+315
+00:11:42,920 --> 00:11:44,860
+go with several possibilities. 
+
+316
+00:11:44,860 --> 00:11:46,180
+For example, we could use the Pythagorean 
+theorem 
+
+317
+00:11:46,180 --> 00:11:48,360
+to help us 
+
+318
+00:11:48,360 --> 00:11:52,380
+calculate the length B. For now, however, 
+we will 
+
+319
+00:11:52,380 --> 00:11:55,040
+continue or start with the angle alpha 
+
+320
+00:11:55,040 --> 00:11:57,400
+. To calculate the angle alpha 
+
+321
+00:11:57,400 --> 00:11:59,220
+, let's 
+
+322
+00:11:59,220 --> 00:12:01,500
+take a look at this. Here is the right 
+angle, 
+
+323
+00:12:01,500 --> 00:12:03,740
+i.e. this side with the 7 cm 
+
+324
+00:12:03,740 --> 00:12:05,720
+is our hypotenuse, because it is 
+
+325
+00:12:05,720 --> 00:12:07,580
+opposite the right angle and also 
+
+326
+00:12:07,580 --> 00:12:10,780
+the longest side. If we 
+
+327
+00:12:10,780 --> 00:12:12,840
+look at the angle alpha here , then B is 
+
+328
+00:12:12,840 --> 00:12:15,220
+the anathema because it is at the angle 
+
+329
+00:12:15,220 --> 00:12:17,860
+and the 5 cm is the anticathema 
+
+330
+00:12:17,940 --> 00:12:19,460
+because it is opposite the angle. 
+
+331
+00:12:19,780 --> 00:12:21,600
+In other words, we know the opposite 
+cathetus 
+
+332
+00:12:21,600 --> 00:12:24,160
+and hypotenuse. In other words, we choose 
+
+333
+00:12:24,160 --> 00:12:25,620
+the trigonometric function that 
+
+334
+00:12:25,620 --> 00:12:29,120
+contains these two components. And 
+
+335
+00:12:29,120 --> 00:12:31,120
+that is the sine. The sine is 
+
+336
+00:12:31,120 --> 00:12:33,000
+, after all, the sine of alpha is equal to 
+the 
+
+337
+00:12:33,000 --> 00:12:36,500
+opposite cathetus divided by the 
+hypotenuse. So 
+
+338
+00:12:36,500 --> 00:12:40,060
+in our case 5 cm by 7 cm. Because 
+
+339
+00:12:40,060 --> 00:12:41,580
+we 
+
+340
+00:12:41,580 --> 00:12:43,660
+want to calculate an angle in this case , 
+we must 
+
+341
+00:12:43,660 --> 00:12:44,920
+of course use the inverse function, 
+
+342
+00:12:49,840 --> 00:12:53,680
+1 of 5 by 7 cm. And then 
+
+343
+00:12:53,680 --> 00:12:57,920
+we arrive at an angle of 45.6°. And 
+
+344
+00:12:57,920 --> 00:13:00,720
+so we have already 
+
+345
+00:13:00,720 --> 00:13:05,260
+calculated our angle alpha. Now 
+
+346
+00:13:05,260 --> 00:13:07,340
+we continue with side B. 
+
+347
+00:13:07,340 --> 00:13:08,900
+As I said, we 
+
+348
+00:13:08,900 --> 00:13:10,000
+could have helped ourselves with 
+Pythagoras 
+
+349
+00:13:10,000 --> 00:13:12,220
+. But we can also 
+
+350
+00:13:12,220 --> 00:13:14,340
+
+351
+00:13:14,340 --> 00:13:16,960
+calculate the cosine at the point where we 
+know the angle alpha . 
+
+352
+00:13:17,060 --> 00:13:19,560
+We then take the angle and the 7 
+
+353
+00:13:19,560 --> 00:13:22,000
+cm, because we know that... is 
+
+354
+00:13:22,000 --> 00:13:23,220
+the hypotenuse, which is the 
+
+355
+00:13:23,220 --> 00:13:25,520
+anathema. Hypotenuse and anathema, 
+
+356
+00:13:25,660 --> 00:13:27,520
+then you take the cosine. 
+
+357
+00:13:27,520 --> 00:13:28,880
+Of course, we could also have used the 
+tangent 
+
+358
+00:13:28,880 --> 00:13:30,520
+. That's what 
+
+359
+00:13:30,540 --> 00:13:31,900
+you need , the opposite cathetus and the 
+anathema 
+
+360
+00:13:31,900 --> 00:13:33,120
+, that would also have 
+
+361
+00:13:33,120 --> 00:13:35,360
+been an option. As you can see, 
+
+362
+00:13:35,420 --> 00:13:36,520
+we decided to use the cosine 
+
+363
+00:13:36,520 --> 00:13:37,520
+and 
+
+364
+00:13:37,520 --> 00:13:39,300
+set it up for this purpose. The cosine of 
+alpha 
+
+365
+00:13:39,300 --> 00:13:44,440
+is equal to B divided by C. In other 
+words, this is 
+
+366
+00:13:44,440 --> 00:13:47,660
+the anathema, i.e. B divided 
+
+367
+00:13:47,660 --> 00:13:49,520
+by the hypotenuse C, which is 7 cm. 
+
+368
+00:13:50,720 --> 00:13:52,780
+And B is searched for accordingly, which 
+means 
+
+369
+00:13:52,780 --> 00:13:54,040
+we have to 
+
+370
+00:13:54,040 --> 00:13:56,000
+multiply C across. So we arrive at the 
+
+371
+00:13:56,000 --> 00:13:58,960
+cosine of alpha times C equals B. 
+
+372
+00:13:59,980 --> 00:14:01,060
+Conveniently, we see that we 
+
+373
+00:14:01,060 --> 00:14:02,400
+don't need the inverse function of 
+
+374
+00:14:02,400 --> 00:14:04,060
+cosine, we can insert it directly 
+
+375
+00:14:04,060 --> 00:14:06,520
+and then it works. We have 
+
+376
+00:14:06,520 --> 00:14:07,760
+now done nothing more than 
+
+377
+00:14:07,760 --> 00:14:09,920
+insert alpha and C here. 
+
+378
+00:14:09,920 --> 00:14:11,280
+we have of course 
+
+379
+00:14:11,280 --> 00:14:14,260
+taken alpha from the previous calculation 
+and so 
+
+380
+00:14:14,260 --> 00:14:16,100
+we arrive at b is equal to the 
+
+381
+00:14:16,100 --> 00:14:20,400
+cosine of 45.6 degrees times 7 cm, i.e. 
+
+382
+00:14:20,400 --> 00:14:25,980
+49 cm. now we know all three sides 
+
+383
+00:14:25,980 --> 00:14:28,080
+and an angle or we know that 
+
+384
+00:14:28,080 --> 00:14:29,660
+we have a right-angled triangle 
+
+385
+00:14:29,660 --> 00:14:32,480
+and we could 
+
+386
+00:14:32,480 --> 00:14:33,220
+of course 
+
+387
+00:14:33,220 --> 00:14:34,560
+
+388
+00:14:34,560 --> 00:14:36,620
+calculate the last angle again using 
+exaggerated metric functions , but it is 
+much 
+
+389
+00:14:36,620 --> 00:14:37,940
+quicker using the interior angle theorem. 
+
+390
+00:14:38,080 --> 00:14:39,460
+The interior angle theorem says nothing 
+
+391
+00:14:39,460 --> 00:14:42,360
+more than that the sum of angles or 
+
+392
+00:14:42,360 --> 00:14:44,780
+the interior angle sum of a triangle 
+
+393
+00:14:44,780 --> 00:14:48,060
+must always be 180°. We have 
+
+394
+00:14:48,060 --> 00:14:49,880
+a right-angled triangle here, 
+
+395
+00:14:49,880 --> 00:14:51,900
+which means we have a 90° angle 
+
+396
+00:14:51,900 --> 00:14:53,840
+and the angle here, alpha, which 
+
+397
+00:14:53,840 --> 00:14:55,880
+we have already determined, has an 
+
+398
+00:14:55,880 --> 00:15:00,000
+angle of 45.6°. And so we can 
+
+399
+00:15:00,000 --> 00:15:02,440
+
+400
+00:15:02,440 --> 00:15:08,060
+easily calculate the angle beta that we 
+are missing. 180°, minus 45.6°, 
+
+401
+00:15:08,220 --> 00:15:14,500
+minus 90°, so that makes 44.4°. And 
+
+402
+00:15:14,500 --> 00:15:16,020
+so we have 
+
+403
+00:15:16,020 --> 00:15:16,960
+determined the three missing quantities. 
+
+404
+00:15:19,920 --> 00:15:21,860
+Let's continue with task 2. 
+
+405
+00:15:22,060 --> 00:15:23,920
+As you 
+
+406
+00:15:23,920 --> 00:15:26,020
+can probably see by now , task 2 is a text 
+task. 
+
+407
+00:15:26,120 --> 00:15:27,900
+Whenever you are given a text task 
+
+408
+00:15:27,900 --> 00:15:30,240
+or a factual task like this 
+
+409
+00:15:30,240 --> 00:15:32,460
+, you should first think about 
+
+410
+00:15:32,460 --> 00:15:33,760
+where 
+
+411
+00:15:33,760 --> 00:15:35,240
+I can get my angle or 
+
+412
+00:15:35,240 --> 00:15:37,740
+triangle from if you are in trigonometry . 
+As I said, this is very 
+
+413
+00:15:37,740 --> 00:15:40,780
+important, because we have to 
+
+414
+00:15:40,780 --> 00:15:42,020
+
+415
+00:15:42,020 --> 00:15:43,620
+get a right-angled triangle in here 
+somehow , otherwise we can't 
+
+416
+00:15:43,620 --> 00:15:48,140
+work. Well, a chimney that 
+
+417
+00:15:48,140 --> 00:15:50,340
+is 75 meters high casts a 70 
+
+418
+00:15:50,340 --> 00:15:52,380
+meter long shadow. Determine 
+
+419
+00:15:52,380 --> 00:15:54,000
+the width of the angle at which the 
+
+420
+00:15:54,000 --> 00:15:55,700
+sun's rays hit the flat ground 
+
+421
+00:15:55,700 --> 00:16:00,240
+. 
+
+422
+00:16:00,240 --> 00:16:01,800
+
+423
+00:16:01,800 --> 00:16:03,500
+
+424
+00:16:03,500 --> 00:16:05,700
+In other words, we have to determine the 
+angle between the sun's rays and the 
+ground . 
+
+425
+00:16:05,700 --> 00:16:07,120
+So we have a chimney here and the 
+
+426
+00:16:07,120 --> 00:16:10,080
+chimney is, as it was 
+
+427
+00:16:10,080 --> 00:16:12,120
+built, perpendicular to the ground. This 
+
+428
+00:16:12,120 --> 00:16:13,080
+is then simply 
+
+429
+00:16:13,080 --> 00:16:13,800
+assumed in mathematics that it really 
+
+430
+00:16:13,800 --> 00:16:15,760
+is vertical. In reality, 
+
+431
+00:16:15,760 --> 00:16:16,860
+it may deviate slightly, 
+
+432
+00:16:16,960 --> 00:16:18,440
+but in mathematics we are always 
+
+433
+00:16:18,440 --> 00:16:20,720
+working ideally, so this 
+
+434
+00:16:20,720 --> 00:16:23,100
+chimney is vertical. Consequently, 
+
+435
+00:16:23,100 --> 00:16:26,640
+we have a right angle here. And 
+
+436
+00:16:26,640 --> 00:16:27,840
+now I think you can 
+
+437
+00:16:27,840 --> 00:16:29,120
+already see what it all boils down to. 
+
+438
+00:16:29,120 --> 00:16:30,560
+We have a right angle here, which 
+
+439
+00:16:30,580 --> 00:16:32,760
+is the hypotenuse. 
+
+440
+00:16:33,720 --> 00:16:35,820
+Now let's find this angle 
+
+441
+00:16:35,820 --> 00:16:39,620
+alpha. In other words, we have 
+
+442
+00:16:39,620 --> 00:16:42,420
+the opposite cathetus and the anathema. 
+
+443
+00:16:43,500 --> 00:16:45,460
+And if we 
+
+444
+00:16:45,460 --> 00:16:47,060
+know the opposite cathetus and the 
+anathema, then there is 
+
+445
+00:16:47,060 --> 00:16:48,340
+of course only one trigonometric 
+
+446
+00:16:48,340 --> 00:16:50,400
+function that comes into question. That is 
+
+447
+00:16:50,400 --> 00:16:52,760
+the tangent. This is simply due to the 
+fact 
+
+448
+00:16:52,760 --> 00:16:54,160
+that we have the opposite cathetus and the 
+
+449
+00:16:54,160 --> 00:16:56,080
+anathema and only the 
+
+450
+00:16:56,080 --> 00:16:58,560
+tangent has that . naturally want to 
+
+451
+00:16:58,560 --> 00:16:59,780
+
+452
+00:16:59,780 --> 00:17:04,560
+calculate the angle accordingly. In other 
+words, we use the 
+
+453
+00:17:04,560 --> 00:17:05,980
+tangent of alpha is equal to the 
+
+454
+00:17:05,980 --> 00:17:08,200
+anticatheter by the ancatheter, i.e. 
+
+455
+00:17:08,200 --> 00:17:10,420
+75 by 70. But we want to know 
+
+456
+00:17:10,480 --> 00:17:11,740
+what the angle alpha is, so 
+
+457
+00:17:11,740 --> 00:17:14,300
+we need the inverse function. This 
+
+458
+00:17:14,300 --> 00:17:16,740
+is the tangent to the power of minus 1. 
+And so 
+
+459
+00:17:16,740 --> 00:17:18,240
+we calculate alpha is equal to the 
+
+460
+00:17:18,240 --> 00:17:22,340
+tangent to the power of minus 1 of 75 by 
+70. 
+
+461
+00:17:23,040 --> 00:17:24,760
+And the calculator will give us 
+
+462
+00:17:24,760 --> 00:17:28,760
+an angle of 46.98 degrees. 
+
+463
+00:17:28,940 --> 00:17:30,580
+So we know that the 
+
+464
+00:17:30,580 --> 00:17:32,340
+sun's rays 
+
+465
+00:17:32,340 --> 00:17:37,980
+hit the ground at an angle of 45.98 
+degrees 
+
+466
+00:17:37,980 --> 00:17:38,200
+. 
+
+467
+00:17:42,930 --> 00:17:44,550
+Now we come to 
+
+468
+00:17:44,550 --> 00:17:47,850
+what is probably the most difficult 
+
+469
+00:17:47,850 --> 00:17:50,310
+example problem. This is a 
+
+470
+00:17:50,310 --> 00:17:52,530
+triangle and I think we can all see 
+
+471
+00:17:52,530 --> 00:17:54,510
+straight away that it is not right-angled. 
+
+472
+00:17:55,790 --> 00:17:57,330
+So of course we can't 
+
+473
+00:17:57,330 --> 00:17:58,730
+use the sine, cosine and 
+
+474
+00:17:58,730 --> 00:18:01,450
+tangent. Whenever you 
+
+475
+00:18:01,450 --> 00:18:02,790
+have problems like this, I would 
+
+476
+00:18:02,790 --> 00:18:04,990
+advise you to 
+
+477
+00:18:05,490 --> 00:18:07,530
+enter the known quantities. So in our 
+case, 
+
+478
+00:18:07,610 --> 00:18:10,770
+this is 4.5, this 
+
+479
+00:18:10,770 --> 00:18:13,430
+is 3 and this 
+
+480
+00:18:13,430 --> 00:18:16,610
+is 60 degrees. And I think you can see 
+quite 
+
+481
+00:18:16,610 --> 00:18:20,310
+quickly that side A and 
+
+482
+00:18:20,310 --> 00:18:23,150
+side B 
+
+483
+00:18:23,150 --> 00:18:25,650
+enclose the known angle. And that's 
+
+484
+00:18:25,650 --> 00:18:27,930
+something that practically calls for the 
+
+485
+00:18:27,930 --> 00:18:30,710
+cosine theorem. We know two 
+
+486
+00:18:30,710 --> 00:18:32,490
+side lengths and these include the 
+
+487
+00:18:32,490 --> 00:18:35,230
+angle. And so, 
+
+488
+00:18:35,230 --> 00:18:36,730
+of course, we immediately use the cosine 
+theorem. It 
+
+489
+00:18:36,730 --> 00:18:39,530
+says that c² is equal to a² plus b² 
+
+490
+00:18:39,530 --> 00:18:42,170
+minus 2ab times the cosine of Phi. 
+
+491
+00:18:42,850 --> 00:18:44,170
+I had already 
+
+492
+00:18:44,170 --> 00:18:45,250
+said earlier that we want to calculate 
+here 
+
+493
+00:18:45,250 --> 00:18:46,430
+, so we write 
+
+494
+00:18:46,430 --> 00:18:47,470
+the root directly. 
+
+495
+00:18:47,470 --> 00:18:48,450
+Of course, this is also the first 
+
+496
+00:18:48,450 --> 00:18:51,050
+step here. So C is equal to the root 
+
+497
+00:18:51,050 --> 00:18:54,850
+of a² plus b² minus 2ab times the 
+
+498
+00:18:54,850 --> 00:18:59,130
+cosine of Phi. The only thing we 
+
+499
+00:18:59,130 --> 00:19:00,870
+have to do now is to 
+
+500
+00:19:00,870 --> 00:19:03,330
+insert a, b and phi. a we have 
+
+501
+00:19:03,330 --> 00:19:04,970
+just written down was 4.5 
+
+502
+00:19:04,970 --> 00:19:08,750
+cm and b was 3 cm. So we arrive at 
+
+503
+00:19:08,750 --> 00:19:11,930
+c is equal to the square root of 4.5 cm² 
+
+504
+00:19:11,930 --> 00:19:17,530
+plus 3 cm² minus 2 times 4.5 cm times 3 
+
+505
+00:19:17,530 --> 00:19:19,830
+cm. If you like, you can 
+
+506
+00:19:19,830 --> 00:19:20,890
+also enter a multipoint, 
+
+507
+00:19:20,950 --> 00:19:25,990
+times the cosine of 60°. 
+
+508
+00:19:25,990 --> 00:19:27,110
+We enter this completely into our 
+
+509
+00:19:27,110 --> 00:19:28,270
+calculator . I would 
+
+510
+00:19:28,270 --> 00:19:29,610
+also advise you to 
+
+511
+00:19:29,610 --> 00:19:31,070
+enter the root directly and not 
+
+512
+00:19:31,070 --> 00:19:32,750
+calculate the term under the root first . 
+
+513
+00:19:32,750 --> 00:19:35,010
+and the calculator will then give us 
+
+514
+00:19:35,010 --> 00:19:40,690
+a length of 3.97 cm. And that 
+
+515
+00:19:40,690 --> 00:19:42,030
+is already the length of 
+
+516
+00:19:42,030 --> 00:19:42,770
+side B. 
+
+517
+00:19:48,530 --> 00:19:50,150
+What you should pay attention to is that 
+
+518
+00:19:50,150 --> 00:19:52,730
+it doesn't really matter what tasks 
+
+519
+00:19:52,730 --> 00:19:53,750
+you are 
+
+520
+00:19:53,750 --> 00:19:55,790
+working on in geometry or trigonometry. 
+
+521
+00:19:55,790 --> 00:19:57,290
+Please always pay attention to the units. 
+It is 
+
+522
+00:19:57,290 --> 00:19:59,810
+not guaranteed that the lengths will 
+
+523
+00:19:59,810 --> 00:20:01,090
+always 
+
+524
+00:20:01,090 --> 00:20:02,410
+be given to you in the same unit. It may 
+well be 
+
+525
+00:20:02,510 --> 00:20:03,970
+that your teachers give you one 
+
+526
+00:20:03,970 --> 00:20:05,650
+side in Z... and one side in 
+
+527
+00:20:05,650 --> 00:20:07,930
+meters. And before you 
+
+528
+00:20:07,930 --> 00:20:09,050
+start calculating, you must 
+
+529
+00:20:09,050 --> 00:20:11,930
+of course set the side lengths to the 
+
+530
+00:20:11,930 --> 00:20:13,290
+same unit, otherwise 
+
+531
+00:20:13,290 --> 00:20:14,410
+you won't be able to start calculating. 
+
+532
+00:20:14,650 --> 00:20:15,430
+This is very important. 
+
+533
+00:20:18,590 --> 00:20:21,630
+Right, we have now 
+
+534
+00:20:21,630 --> 00:20:25,590
+calculated side C and we can 
+
+535
+00:20:25,590 --> 00:20:26,690
+of course continue. We have to 
+
+536
+00:20:26,690 --> 00:20:27,950
+calculate everything again, 
+
+537
+00:20:27,950 --> 00:20:29,670
+i.e. we also have to 
+
+538
+00:20:29,670 --> 00:20:31,990
+calculate beta and alpha . and we can now 
+
+539
+00:20:31,990 --> 00:20:34,510
+also 
+
+540
+00:20:34,510 --> 00:20:37,990
+determine the angle alpha using the cosine 
+theorem . Using a² is 
+
+541
+00:20:37,990 --> 00:20:41,130
+equal to b² plus c² minus 2bc times the 
+
+542
+00:20:41,130 --> 00:20:42,350
+cosine of alpha. 
+
+543
+00:20:44,930 --> 00:20:46,930
+Of course, we have to rearrange this, 
+
+544
+00:20:47,050 --> 00:20:49,590
+because in this case, we 
+
+545
+00:20:49,590 --> 00:20:50,730
+
+546
+00:20:50,730 --> 00:20:52,910
+already know the three lengths and we now 
+want to 
+
+547
+00:20:52,910 --> 00:20:55,990
+determine the angle alpha. 
+
+548
+00:20:55,990 --> 00:20:58,510
+This means that we have to convert this 
+whole term 
+
+549
+00:20:58,510 --> 00:21:00,190
+to the... cosine of alpha first 
+
+550
+00:21:00,190 --> 00:21:02,670
+. This is actually quite 
+
+551
+00:21:02,670 --> 00:21:05,290
+quick. We first calculate minus b² 
+
+552
+00:21:05,290 --> 00:21:07,310
+minus c² and then we arrive at a² 
+
+553
+00:21:07,310 --> 00:21:09,370
+minus b² minus c² equals minus 
+
+554
+00:21:09,370 --> 00:21:12,950
+2bc times the cosine of alpha. The 
+
+555
+00:21:12,950 --> 00:21:15,030
+next step is of course 
+
+556
+00:21:15,030 --> 00:21:16,770
+
+557
+00:21:16,770 --> 00:21:18,570
+to divide by the factor in front of the 
+trigonometric function, in this case 
+
+558
+00:21:18,570 --> 00:21:21,910
+divided by minus 2bc. Then 
+
+559
+00:21:21,910 --> 00:21:23,650
+we arrive at the cosine of alpha is 
+
+560
+00:21:23,650 --> 00:21:27,190
+equal to a² minus b² minus c² 
+
+561
+00:21:27,190 --> 00:21:31,530
+divided by minus 2 BC and the next 
+
+562
+00:21:31,530 --> 00:21:32,670
+step is, I think, already clear. 
+
+563
+00:21:33,030 --> 00:21:34,430
+We now have to 
+
+564
+00:21:34,430 --> 00:21:36,790
+choose the inverse function again , that 
+is, 
+
+565
+00:21:36,950 --> 00:21:38,030
+I think there's a 
+
+566
+00:21:38,030 --> 00:21:39,150
+little problem with the representation 
+here , we 
+
+567
+00:21:39,150 --> 00:21:43,830
+form the cosine to the power of minus 1 of 
+
+568
+00:21:43,830 --> 00:21:45,810
+these beautiful brackets. 
+
+569
+00:21:48,790 --> 00:21:50,730
+And as I said, we enter this 
+
+570
+00:21:50,730 --> 00:21:51,890
+completely into our calculator 
+
+571
+00:21:51,890 --> 00:21:54,270
+, enter the length a, b and c 
+
+572
+00:21:54,270 --> 00:21:57,030
+and the calculator will then 
+
+573
+00:21:57,030 --> 00:21:59,930
+
+574
+00:21:59,930 --> 00:22:04,570
+give us a length of an angle of 79 
+degrees, which 
+
+575
+00:22:04,570 --> 00:22:06,010
+is unfortunately missing on the last 
+
+576
+00:22:06,010 --> 00:22:11,710
+page, but alpha is 79 degrees and 
+
+577
+00:22:11,710 --> 00:22:13,690
+
+578
+00:22:13,690 --> 00:22:15,890
+we can then 
+
+579
+00:22:15,890 --> 00:22:17,930
+calculate the missing angle betta again 
+using the angle theorem, so even 
+
+580
+00:22:17,930 --> 00:22:19,450
+if there are always many ways 
+
+581
+00:22:19,450 --> 00:22:20,650
+to calculate this, always take 
+
+582
+00:22:20,650 --> 00:22:22,490
+the simplest one, think about it briefly 
+and 
+
+583
+00:22:22,490 --> 00:22:24,910
+take the simplest one. If you 
+
+584
+00:22:24,910 --> 00:22:26,710
+know all but one interior angle, 
+
+585
+00:22:26,910 --> 00:22:29,590
+then you can always use 
+
+586
+00:22:29,590 --> 00:22:31,370
+the interior angle theorem for 
+
+587
+00:22:31,370 --> 00:22:33,270
+triangles. Really always. There is also 
+
+588
+00:22:33,270 --> 00:22:35,230
+one for a quadrilateral, but we are 
+
+589
+00:22:35,230 --> 00:22:36,270
+actually only dealing with triangles here. 
+
+590
+00:22:36,310 --> 00:22:38,370
+In other words, it's always 180 
+
+591
+00:22:38,370 --> 00:22:41,270
+degrees. If you 
+
+592
+00:22:41,270 --> 00:22:42,530
+have a right-angled triangle and you know 
+two 
+
+593
+00:22:42,530 --> 00:22:45,910
+side lengths, then you can 
+
+594
+00:22:45,910 --> 00:22:47,810
+also find the third using Pythagoras. 
+
+595
+00:22:47,810 --> 00:22:49,010
+Of course, this doesn't work here because 
+we 
+
+596
+00:22:49,010 --> 00:22:51,070
+don't have a right-angled triangle, but 
+
+597
+00:22:51,070 --> 00:22:52,490
+the interior angle theorem 
+
+598
+00:22:52,490 --> 00:22:54,170
+still applies here , as it applies to 
+every 
+
+599
+00:22:54,170 --> 00:22:57,430
+triangle. This means that we also have 
+
+600
+00:22:57,430 --> 00:23:00,130
+an interior angle sum of 180° here. 
+
+601
+00:23:00,250 --> 00:23:03,030
+We know gamma and alpha 
+
+602
+00:23:03,030 --> 00:23:04,610
+, which means that we calculate beta 
+equals 
+
+603
+00:23:04,610 --> 00:23:08,590
+180°, minus 79°, minus 60° and then 
+
+604
+00:23:08,590 --> 00:23:10,950
+we know that the angle beta is 41° 
+
+605
+00:23:10,950 --> 00:23:13,670
+. And that means we have 
+
+606
+00:23:13,670 --> 00:23:15,610
+already 
+
+607
+00:23:15,610 --> 00:23:19,600
+calculated the three missing variables. 
+That brings us to 
+
+608
+00:23:19,600 --> 00:23:21,360
+the end of the webinar. I hope you 
+
+609
+00:23:21,360 --> 00:23:23,680
+enjoyed the webinar and 
+
+610
+00:23:23,680 --> 00:23:25,680
+were able to take something away with you. 
+
+611
+00:23:25,680 --> 00:23:26,780
+In any case, thank you for your 
+
+612
+00:23:26,780 --> 00:23:28,760
+attention and 
+
+613
+00:23:28,760 --> 00:23:29,620
+have a nice evening. 

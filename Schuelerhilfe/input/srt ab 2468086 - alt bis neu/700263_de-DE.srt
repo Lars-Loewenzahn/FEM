@@ -1,0 +1,460 @@
+1
+00:00:00,560 --> 00:00:02,060
+Hallo und herzlich willkommen zu
+
+2
+00:00:02,060 --> 00:00:03,520
+einem weiteren Lernvideo der
+
+3
+00:00:03,520 --> 00:00:05,480
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:05,480 --> 00:00:07,500
+verschiedene Möglichkeiten der
+
+5
+00:00:07,500 --> 00:00:09,060
+Übersetzung des lateinischen Passivs
+
+6
+00:00:09,060 --> 00:00:11,080
+vorstellen, beziehungsweise in diesem
+
+7
+00:00:11,080 --> 00:00:13,920
+Video eine erste Möglichkeit. Schauen
+
+8
+00:00:13,920 --> 00:00:15,860
+wir uns dazu direkt einmal folgende
+
+9
+00:00:15,860 --> 00:00:17,020
+Beispielsätze an, die ich dir
+
+10
+00:00:17,020 --> 00:00:19,860
+mitgebracht habe. Wir haben einmal
+
+11
+00:00:19,860 --> 00:00:25,460
+den aktiven Satz Piraten versenken
+
+12
+00:00:25,460 --> 00:00:28,240
+das Schiff. Wenn wir diesen Satz ins
+
+13
+00:00:28,240 --> 00:00:31,800
+Passiv setzen, Dann erhältst du navis
+
+14
+00:00:31,800 --> 00:00:35,540
+apiratis mergitur. Du erkennst auch
+
+15
+00:00:35,540 --> 00:00:37,040
+hier bei mergitur natürlich die
+
+16
+00:00:37,040 --> 00:00:40,240
+passive Verbendung. Das Schiff wird
+
+17
+00:00:40,240 --> 00:00:42,700
+von Piraten versenkt.
+
+18
+00:00:46,700 --> 00:00:48,460
+Was ist also passiert, als wir den
+
+19
+00:00:48,460 --> 00:00:50,120
+Aktivsatz ins Passiv umgewandelt
+
+20
+00:00:50,120 --> 00:00:52,400
+haben? Du siehst, wir haben aus dem
+
+21
+00:00:52,400 --> 00:00:56,040
+Akkusativobjekt navem im Passivsatz
+
+22
+00:00:56,040 --> 00:01:00,320
+ein Subjekt gemacht, navis. Wir
+
+23
+00:01:00,320 --> 00:01:03,640
+merken uns also folgendes. Ein
+
+24
+00:01:03,640 --> 00:01:06,140
+aktiver Satz setzt immer ein tätiges
+
+25
+00:01:06,140 --> 00:01:08,640
+Subjekt voraus. In einem Passivsatz
+
+26
+00:01:08,640 --> 00:01:10,980
+dagegen hast du immer ein Subjekt,
+
+27
+00:01:11,020 --> 00:01:13,380
+auf das eingewirkt wird. Hier etwa
+
+28
+00:01:13,380 --> 00:01:15,080
+das Schiff, das von den Piraten
+
+29
+00:01:15,080 --> 00:01:15,740
+versenkt wird.
+
+30
+00:01:19,620 --> 00:01:21,100
+Werfen wir nun einen Blick auf
+
+31
+00:01:21,100 --> 00:01:24,280
+folgenden Beispielsatz. Titanic navis
+
+32
+00:01:24,280 --> 00:01:28,380
+mersa est. Das Schiff Titanic oder
+
+33
+00:01:28,380 --> 00:01:32,580
+die Titanic wurde versenkt. Jetzt
+
+34
+00:01:32,580 --> 00:01:35,380
+magst du dich fragen, ist das Schiff
+
+35
+00:01:35,380 --> 00:01:37,080
+nicht... einfach gesunken, als es
+
+36
+00:01:37,080 --> 00:01:39,920
+gegen einen Eisberg gefahren ist? Ja,
+
+37
+00:01:40,020 --> 00:01:43,900
+so war es tatsächlich. Denn die
+
+38
+00:01:43,900 --> 00:01:45,780
+passive Übersetzung würde natürlich
+
+39
+00:01:45,780 --> 00:01:48,920
+nahelegen, dass die Titanic von
+
+40
+00:01:48,920 --> 00:01:51,140
+irgendjemandem versenkt worden ist.
+
+41
+00:01:51,200 --> 00:01:53,300
+Von wem denn? Etwa Eismeerpiraten
+
+42
+00:01:53,300 --> 00:01:56,420
+oder eine wilde Horde? Piratenhafte
+
+43
+00:01:56,420 --> 00:01:58,860
+Eisberge? Man weiß es nicht. Aber auf
+
+44
+00:01:58,860 --> 00:02:00,380
+jeden Fall stellen wir fest, die
+
+45
+00:02:00,380 --> 00:02:02,700
+passive Übersetzung ist hier nicht
+
+46
+00:02:02,700 --> 00:02:04,800
+wirklich sinnvoll. Es
+
+47
+00:02:07,580 --> 00:02:08,760
+gibt insgesamt aber vier
+
+48
+00:02:08,760 --> 00:02:10,440
+Möglichkeiten, ein lateinisches
+
+49
+00:02:10,440 --> 00:02:13,480
+Passiv zu übersetzen, außer einem
+
+50
+00:02:13,480 --> 00:02:14,620
+regulären Passiv.
+
+51
+00:02:19,090 --> 00:02:21,890
+Jetzt möchte ich mir mit dir die
+
+52
+00:02:21,890 --> 00:02:23,390
+erste Möglichkeit anschauen, die
+
+53
+00:02:23,390 --> 00:02:25,050
+sogenannte medial-reflexive
+
+54
+00:02:25,050 --> 00:02:28,410
+Übersetzung. Dazu benutzen wir einmal
+
+55
+00:02:28,410 --> 00:02:31,050
+einen Beispielsatz, post laborem
+
+56
+00:02:31,050 --> 00:02:33,750
+labor, und in diesem Beispielsatz ist
+
+57
+00:02:33,750 --> 00:02:36,710
+das Verb lavare enthalten, waschen,
+
+58
+00:02:36,810 --> 00:02:38,410
+das ich dir auch mit aufgeschrieben
+
+59
+00:02:38,410 --> 00:02:41,550
+habe. Die Frage ist also, wie
+
+60
+00:02:41,550 --> 00:02:43,870
+übersetzen wir diesen Satz? Post
+
+61
+00:02:43,870 --> 00:02:45,590
+laborem labor.
+
+62
+00:02:49,980 --> 00:02:51,880
+Wenn wir es als passiv übersetzen,
+
+63
+00:02:51,880 --> 00:02:54,480
+kommt dabei raus, nach der Arbeit,
+
+64
+00:02:54,580 --> 00:03:01,020
+post laborem labor, werde ich
+
+65
+00:03:01,020 --> 00:03:02,880
+gewaschen.
+
+66
+00:03:04,220 --> 00:03:05,740
+Und da magst du dich jetzt natürlich
+
+67
+00:03:05,740 --> 00:03:08,520
+fragen, ja von wem? Von wem werde ich
+
+68
+00:03:08,520 --> 00:03:09,580
+denn gewaschen nach der Arbeit?
+
+69
+00:03:09,800 --> 00:03:12,620
+Natürlich von mir selbst. Und
+
+70
+00:03:12,620 --> 00:03:14,020
+deswegen ist hier die bessere
+
+71
+00:03:14,020 --> 00:03:17,240
+Übersetzung, nach der Arbeit wasche
+
+72
+00:03:17,240 --> 00:03:18,000
+ich mich.
+
+73
+00:03:23,320 --> 00:03:24,820
+Hier haben wir noch einmal unsere
+
+74
+00:03:24,820 --> 00:03:26,760
+gerade gefundene Übersetzung, nach
+
+75
+00:03:26,760 --> 00:03:29,460
+der Arbeit wasche ich mich. Und da
+
+76
+00:03:29,460 --> 00:03:31,080
+ziehe ich mal das Verb raus, ich
+
+77
+00:03:31,080 --> 00:03:34,480
+wasche mich. Wenn wir jetzt diesen
+
+78
+00:03:34,480 --> 00:03:37,180
+Satz anschauen, dann siehst du, du
+
+79
+00:03:37,180 --> 00:03:40,900
+hast einmal ich. Ich bin also selbst
+
+80
+00:03:40,900 --> 00:03:43,260
+das Subjekt, sprich ich bin der
+
+81
+00:03:43,260 --> 00:03:47,240
+Waschende, aktiv. Gleichzeitig aber,
+
+82
+00:03:47,280 --> 00:03:53,420
+mich bin ich auch der Gewaschene,
+
+83
+00:03:53,540 --> 00:03:56,800
+passiv. Das ist nämlich tatsächlich
+
+84
+00:03:56,800 --> 00:04:00,060
+die Besonderheit dieser sogenannten
+
+85
+00:04:00,060 --> 00:04:02,540
+reflexiven Übersetzung, ich wasche
+
+86
+00:04:02,540 --> 00:04:05,860
+mich. Reflexivität steht also
+
+87
+00:04:05,860 --> 00:04:07,900
+irgendwo genau in der Mitte zwischen
+
+88
+00:04:07,900 --> 00:04:12,340
+aktiv und passiv. Und das erklärt
+
+89
+00:04:12,340 --> 00:04:14,200
+jetzt schließlich auch den Namen
+
+90
+00:04:14,200 --> 00:04:17,580
+Mediator. Das lateinische Wort für
+
+91
+00:04:17,580 --> 00:04:20,580
+Mitte ist nämlich Medium. Ich habe es
+
+92
+00:04:20,580 --> 00:04:23,080
+euch hier aufgeschrieben, Medium, und
+
+93
+00:04:23,080 --> 00:04:25,860
+das bedeutet Mitte. Und daher der
+
+94
+00:04:25,860 --> 00:04:27,480
+Name medialreflexiv.
+
+95
+00:04:32,020 --> 00:04:34,100
+Kommen wir jetzt zu unserem Titanic
+
+96
+00:04:34,100 --> 00:04:36,440
+-Problem zurück. Wir haben ja
+
+97
+00:04:36,440 --> 00:04:37,600
+festgestellt, dass die passive
+
+98
+00:04:37,600 --> 00:04:40,060
+Übersetzung, die Titanic wurde
+
+99
+00:04:40,060 --> 00:04:41,820
+versenkt, oder das Schiff Titanic
+
+100
+00:04:41,820 --> 00:04:44,140
+wurde versenkt, wenig sinnvoll ist.
+
+101
+00:04:44,140 --> 00:04:45,840
+Probieren wir doch jetzt mal
+
+102
+00:04:45,840 --> 00:04:49,820
+vielleicht einfach unsere neu
+
+103
+00:04:49,820 --> 00:04:51,880
+kennengelernte medialreflexive
+
+104
+00:04:51,880 --> 00:04:55,300
+Übersetzung aus. Dann hätten wir die
+
+105
+00:04:57,320 --> 00:05:00,900
+Titanic versenkte
+
+106
+00:05:02,560 --> 00:05:02,900
+sich.
+
+107
+00:05:10,610 --> 00:05:11,790
+Ja und du merkst schon, die
+
+108
+00:05:11,790 --> 00:05:14,490
+medialreflexive Übersetzung wirkt
+
+109
+00:05:14,490 --> 00:05:16,290
+hier fast noch ein wenig merkwürdiger
+
+110
+00:05:16,290 --> 00:05:18,310
+als die passive Übersetzung, weil
+
+111
+00:05:18,310 --> 00:05:20,110
+welches Schiff versenkt sich selbst.
+
+112
+00:05:20,710 --> 00:05:23,090
+Wie wir das also übersetzen, das will
+
+113
+00:05:23,090 --> 00:05:24,650
+ich dir im nächsten Video erklären.
+
+114
+00:05:25,150 --> 00:05:26,350
+Ich hoffe, ich sehe dich dann wieder.
+
+115
+00:05:27,010 --> 00:05:27,590
+Bis dann!
+

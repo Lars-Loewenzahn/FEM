@@ -1,0 +1,883 @@
+﻿1
+00:00:00,500 --> 00:00:03,060
+Welcome to the 
+
+2
+00:00:03,060 --> 00:00:05,520
+Schülerhilfe webinar on Reported 
+
+3
+00:00:05,520 --> 00:00:10,320
+Speech. Today we are going to go 
+
+4
+00:00:10,320 --> 00:00:12,800
+through how we 
+
+5
+00:00:12,800 --> 00:00:16,840
+use indirect speech in English, how it 
+
+6
+00:00:16,840 --> 00:00:20,560
+is formed and how we deal with it 
+
+7
+00:00:20,700 --> 00:00:23,880
+when the reporting verb is 
+
+8
+00:00:23,880 --> 00:00:27,420
+used in the present and past tenses 
+
+9
+00:00:27,420 --> 00:00:29,960
+. We will also 
+
+10
+00:00:29,960 --> 00:00:32,380
+take a look at the so-called backshift of 
+
+11
+00:00:32,380 --> 00:00:35,980
+tenses. And finally, we'll take a look 
+
+12
+00:00:35,980 --> 00:00:39,400
+at how pronouns, place and 
+
+13
+00:00:39,400 --> 00:00:43,700
+tenses change in reported 
+
+14
+00:00:43,700 --> 00:00:46,540
+speech. But let's start with 
+
+15
+00:00:46,540 --> 00:00:50,340
+the application. What is reported 
+
+16
+00:00:50,340 --> 00:00:54,780
+speech? It's about 
+
+17
+00:00:54,780 --> 00:00:56,400
+
+18
+00:00:56,680 --> 00:00:58,440
+reproducing what someone else has said. We 
+can see this 
+
+19
+00:00:58,440 --> 00:01:01,520
+well here in an example. We have 
+
+20
+00:01:01,520 --> 00:01:03,800
+two people, a boy and a 
+
+21
+00:01:03,800 --> 00:01:05,400
+girl, who are talking to each other. 
+
+22
+00:01:05,620 --> 00:01:08,800
+The girl says I saw Julia 
+
+23
+00:01:08,800 --> 00:01:12,220
+yesterday and the next day 
+
+24
+00:01:12,220 --> 00:01:15,180
+the boy tells another 
+
+25
+00:01:15,180 --> 00:01:19,040
+girl that the girl says 
+
+26
+00:01:19,400 --> 00:01:23,980
+she saw Julia yesterday. And 
+
+27
+00:01:23,980 --> 00:01:28,000
+this girl says she saw Julia 
+
+28
+00:01:28,000 --> 00:01:30,680
+yesterday. This is 
+
+29
+00:01:30,680 --> 00:01:32,460
+indirect speech or 
+
+30
+00:01:32,460 --> 00:01:36,800
+reported speech in English. So, 
+
+31
+00:01:36,820 --> 00:01:38,480
+how is reported speech formed in 
+
+32
+00:01:38,480 --> 00:01:41,160
+English? It is always 
+
+33
+00:01:41,160 --> 00:01:44,480
+introduced by an accompanying clause 
+
+34
+00:01:44,480 --> 00:01:47,600
+with a reporting verb and a 
+
+35
+00:01:47,600 --> 00:01:50,760
+conjunction . In a declarative sentence, 
+
+36
+00:01:50,760 --> 00:01:54,020
+for example, this would be Mark says 
+
+37
+00:01:54,020 --> 00:01:57,300
+that he had a dog when he was little. 
+
+38
+00:01:58,130 --> 00:02:01,080
+Our reporting verb in this case is 
+
+39
+00:02:01,080 --> 00:02:03,780
+says. This 
+
+40
+00:02:03,780 --> 00:02:06,140
+introduces the reported speech. Our 
+
+41
+00:02:06,140 --> 00:02:10,480
+conjunction is that. 
+
+42
+00:02:10,480 --> 00:02:13,840
+We must note that as a conjunction, that 
+
+43
+00:02:13,840 --> 00:02:16,060
+can also be omitted. 
+
+44
+00:02:16,060 --> 00:02:17,480
+In this case, we would only have the 
+
+45
+00:02:17,480 --> 00:02:18,320
+reporting verb. 
+
+46
+00:02:21,690 --> 00:02:25,410
+If we 
+
+47
+00:02:25,410 --> 00:02:27,070
+
+48
+00:02:27,070 --> 00:02:29,210
+want to present interrogative sentences 
+without an interrogative word in indirect 
+speech, we 
+
+49
+00:02:29,210 --> 00:02:33,950
+use asked, for example, as the 
+
+50
+00:02:33,950 --> 00:02:36,770
+reporting verb and 
+
+51
+00:02:36,770 --> 00:02:42,970
+if as the conjunction. So Jane asked if I 
+wanted to go 
+
+52
+00:02:42,970 --> 00:02:47,120
+to the cinema with her. If we 
+
+53
+00:02:47,120 --> 00:02:49,820
+have interrogative sentences with an 
+interrogative word 
+
+54
+00:02:50,000 --> 00:02:53,700
+, we use the 
+
+55
+00:02:53,700 --> 00:02:56,240
+interrogative word as the conjunction . 
+For example, what. 
+
+56
+00:02:56,480 --> 00:02:59,660
+As in our example Steve wanted 
+
+57
+00:02:59,660 --> 00:03:03,020
+to know what we had planned for New 
+
+58
+00:03:03,020 --> 00:03:03,860
+Year's Eve. 
+
+59
+00:03:06,760 --> 00:03:09,420
+The reported verb in this case is 
+
+60
+00:03:09,420 --> 00:03:12,080
+wanted to know, but could of course 
+
+61
+00:03:12,080 --> 00:03:15,400
+also be asked, for example. So 
+
+62
+00:03:15,400 --> 00:03:18,860
+Steve asked what. If 
+
+63
+00:03:24,270 --> 00:03:29,030
+the reporting verb is in the present 
+tense, 
+
+64
+00:03:29,290 --> 00:03:31,930
+the time of the literal speech 
+
+65
+00:03:31,930 --> 00:03:35,050
+in the indirect speech remains unchanged. 
+
+66
+00:03:35,250 --> 00:03:40,870
+For example, Julia, I am 
+
+67
+00:03:40,870 --> 00:03:45,690
+hungry. Our verb is am in the present 
+tense. 
+
+68
+00:03:45,690 --> 00:03:49,030
+In indirect speech, it then 
+
+69
+00:03:49,030 --> 00:03:53,270
+looks like this. Julia says, 
+
+70
+00:03:53,270 --> 00:03:55,970
+so our reporting verb is in the present 
+tense, that she 
+
+71
+00:03:55,970 --> 00:04:00,130
+is hungry. As the reporting verb is in the 
+
+72
+00:04:00,130 --> 00:04:03,130
+present tense, the tense of the 
+
+73
+00:04:03,130 --> 00:04:05,550
+literal speech remains unchanged. 
+
+74
+00:04:05,550 --> 00:04:07,530
+So both remain in the simple present. 
+
+75
+00:04:08,550 --> 00:04:11,170
+Exactly the same applies if 
+
+76
+00:04:11,170 --> 00:04:13,570
+the simple past is used in the literal 
+speech 
+
+77
+00:04:13,570 --> 00:04:20,830
+. Mario says 
+
+78
+00:04:22,330 --> 00:04:27,010
+he ordered pizza last night. Says is 
+
+79
+00:04:27,010 --> 00:04:29,230
+in the present tense, so the reporting 
+verb 
+
+80
+00:04:29,230 --> 00:04:33,710
+is in the present tense. This means that 
+the verb 
+
+81
+00:04:33,710 --> 00:04:35,750
+in the literal 
+
+82
+00:04:35,750 --> 00:04:38,830
+speech remains unchanged in the indirect 
+speech. 
+
+83
+00:04:41,230 --> 00:04:43,750
+So what happens when the reporting verb is 
+
+84
+00:04:43,750 --> 00:04:46,870
+in the past tense? Then 
+
+85
+00:04:46,870 --> 00:04:48,850
+we use the so-called 
+
+86
+00:04:48,850 --> 00:04:52,190
+backshift of tenses. If the 
+
+87
+00:04:52,190 --> 00:04:54,250
+reporting verb 
+
+88
+00:04:54,250 --> 00:04:56,670
+is in the past , for example in the simple 
+
+89
+00:04:56,670 --> 00:04:59,830
+past or past perfect, 
+
+90
+00:04:59,830 --> 00:05:02,870
+the tenses of the verbs 
+
+91
+00:05:02,870 --> 00:05:06,810
+change from direct to indirect speech. 
+
+92
+00:05:06,810 --> 00:05:10,570
+Simple present then becomes simple past, 
+
+93
+00:05:10,730 --> 00:05:13,250
+present perfect becomes past 
+
+94
+00:05:13,250 --> 00:05:15,730
+perfect, simple simple past 
+
+95
+00:05:15,730 --> 00:05:18,410
+also becomes past perfect and past 
+
+96
+00:05:18,410 --> 00:05:22,830
+perfect remains past perfect. Be 
+
+97
+00:05:22,830 --> 00:05:27,450
+going to and the infinitive becomes was 
+
+98
+00:05:27,450 --> 00:05:31,390
+or were going to and the infinitive 
+
+99
+00:05:31,390 --> 00:05:35,370
+and will with the infinitive becomes would 
+
+100
+00:05:35,370 --> 00:05:39,810
+with the infinitive. We have 
+
+101
+00:05:39,810 --> 00:05:41,750
+prepared a few examples. 
+
+102
+00:05:41,750 --> 00:05:44,990
+First, the backshift from simple 
+
+103
+00:05:44,990 --> 00:05:49,170
+present to simple past. We have the 
+
+104
+00:05:49,170 --> 00:05:53,330
+statement Jake, I like basketball. So 
+
+105
+00:05:53,330 --> 00:05:57,070
+like in the simple present. In 
+
+106
+00:05:57,070 --> 00:05:59,390
+indirect speech or reported speech 
+
+107
+00:05:59,390 --> 00:06:03,170
+, it is then Jake said he liked 
+
+108
+00:06:03,170 --> 00:06:06,610
+basketball. Said is the reporting 
+
+109
+00:06:06,610 --> 00:06:09,650
+verb and is in the simple past. 
+
+110
+00:06:09,650 --> 00:06:11,250
+This means that we use the 
+
+111
+00:06:11,250 --> 00:06:14,810
+backshift here and change like to 
+
+112
+00:06:14,870 --> 00:06:19,630
+liked. So, Jake said he liked 
+
+113
+00:06:19,630 --> 00:06:21,990
+basketball. And here you can also see 
+
+114
+00:06:21,990 --> 00:06:24,430
+that the That 
+
+115
+00:06:24,430 --> 00:06:24,910
+can be omitted . 
+
+116
+00:06:30,890 --> 00:06:33,720
+Present perfect becomes past 
+
+117
+00:06:33,720 --> 00:06:38,780
+perfect, so John. Janice has hurt 
+
+118
+00:06:38,780 --> 00:06:41,520
+her foot, has hurt in the present 
+
+119
+00:06:41,520 --> 00:06:45,220
+perfect. This becomes John said, 
+
+120
+00:06:45,460 --> 00:06:50,040
+Janice had hurt her foot. So past 
+
+121
+00:06:50,040 --> 00:06:54,920
+perfect in indirect speech. Exactly 
+
+122
+00:06:54,920 --> 00:06:58,620
+the same applies in the simple past. 
+
+123
+00:06:58,620 --> 00:07:01,240
+Here, too, it becomes the past perfect. So 
+
+124
+00:07:01,240 --> 00:07:05,020
+Mike, did Alex send you a message 
+
+125
+00:07:05,020 --> 00:07:11,320
+last night? Mike asked if Alex had 
+
+126
+00:07:11,320 --> 00:07:15,600
+sent you a message last night. 
+
+127
+00:07:15,600 --> 00:07:19,480
+So we have the past tense, 
+
+128
+00:07:19,560 --> 00:07:22,680
+the simple past of send as a question, 
+
+129
+00:07:22,780 --> 00:07:26,920
+therefore it is do as an auxiliary verb of 
+the 
+
+130
+00:07:26,920 --> 00:07:32,140
+question in the simple past and have our 
+
+131
+00:07:32,140 --> 00:07:34,660
+question in the indirect speech, our 
+
+132
+00:07:34,660 --> 00:07:38,340
+reporting verb in the simple past, the 
+
+133
+00:07:38,340 --> 00:07:40,940
+conjunction and therefore through the 
+
+134
+00:07:40,940 --> 00:07:44,200
+backshift of tenses. Send in the past 
+
+135
+00:07:44,200 --> 00:07:46,760
+perfect, so had sent. 
+
+136
+00:07:51,400 --> 00:07:55,580
+The will with the infinitive becomes 
+
+137
+00:07:55,580 --> 00:07:58,580
+would with the infinitive. For 
+
+138
+00:07:58,580 --> 00:08:02,380
+example, George. Anna will call you 
+
+139
+00:08:02,380 --> 00:08:06,480
+later. And in the Reported Speech. 
+
+140
+00:08:07,420 --> 00:08:11,720
+George said that Anna would call you 
+
+141
+00:08:11,720 --> 00:08:12,080
+later. 
+
+142
+00:08:14,940 --> 00:08:17,900
+How do pronouns change in the... 
+
+143
+00:08:17,920 --> 00:08:21,040
+indirect speech. First, 
+
+144
+00:08:21,040 --> 00:08:25,680
+let's look at the subject pronouns. I or 
+you 
+
+145
+00:08:25,680 --> 00:08:32,420
+becomes he or she, depending on who 
+
+146
+00:08:32,420 --> 00:08:37,320
+is speaking. We or you becomes they. 
+
+147
+00:08:37,540 --> 00:08:40,520
+Here we have to pay attention to 
+
+148
+00:08:40,520 --> 00:08:43,880
+who, uh, who is speaking. Is you a 
+
+149
+00:08:43,880 --> 00:08:47,680
+single person or is you several 
+
+150
+00:08:47,680 --> 00:08:49,720
+people who form the subject. 
+
+151
+00:08:50,720 --> 00:08:52,280
+Accordingly, it then becomes he 
+
+152
+00:08:52,280 --> 00:08:56,600
+or she or they. For example, 
+
+153
+00:08:56,600 --> 00:09:03,670
+Paul, we went to the cinema. Paul 
+
+154
+00:09:03,670 --> 00:09:06,730
+said they had gone to the cinema. 
+
+155
+00:09:07,830 --> 00:09:10,350
+So we becomes they. 
+
+156
+00:09:15,420 --> 00:09:19,520
+Object changes me or you 
+
+157
+00:09:19,520 --> 00:09:25,160
+to him or her accordingly and us 
+
+158
+00:09:25,160 --> 00:09:29,220
+or you changes to them. Here too, 
+
+159
+00:09:29,220 --> 00:09:30,820
+as with the 
+
+160
+00:09:30,820 --> 00:09:33,280
+subject pronoun you, we have to pay 
+attention to whether we are 
+
+161
+00:09:33,280 --> 00:09:36,140
+
+162
+00:09:36,140 --> 00:09:41,020
+dealing with a singular or plural object. 
+As an example, we have Mike. 
+
+163
+00:09:41,380 --> 00:09:44,640
+Mr. Miller doesn't like me. This means 
+that 
+
+164
+00:09:45,880 --> 00:09:47,760
+in indirect speech 
+
+165
+00:09:47,760 --> 00:09:52,080
+, we know that me changes to him or her as 
+the 
+
+166
+00:09:52,080 --> 00:09:56,460
+object. So, Mike said that Mr. Miller 
+
+167
+00:09:56,460 --> 00:10:00,360
+didn't like him, because it's about Mike 
+
+168
+00:10:00,360 --> 00:10:03,680
+, i.e. him, not her. 
+
+169
+00:10:08,060 --> 00:10:11,560
+Possessive pronouns change my or 
+
+170
+00:10:11,560 --> 00:10:15,880
+your to his or her accordingly. 
+
+171
+00:10:16,020 --> 00:10:20,700
+And and our or your to their. For 
+
+172
+00:10:20,700 --> 00:10:26,800
+example, My car broke on my way to 
+
+173
+00:10:26,800 --> 00:10:30,280
+the game. So in 
+
+174
+00:10:30,280 --> 00:10:34,440
+indirect speech , change to Vince said his 
+car 
+
+175
+00:10:34,440 --> 00:10:37,580
+had broken on his way to the game. 
+
+176
+00:10:42,230 --> 00:10:44,410
+How do place and 
+
+177
+00:10:44,410 --> 00:10:47,370
+time references change when switching from 
+
+178
+00:10:47,370 --> 00:10:51,820
+direct to indirect speech? We 
+
+179
+00:10:51,820 --> 00:10:54,660
+use different vocabulary 
+
+180
+00:10:54,660 --> 00:10:56,640
+for direct and indirect speech. 
+
+181
+00:10:56,880 --> 00:11:00,780
+This means that the direct Now becomes 
+
+182
+00:11:00,780 --> 00:11:04,000
+Then or At 
+
+183
+00:11:04,000 --> 00:11:08,260
+that moment in indirect speech. Today 
+becomes That day. 
+
+184
+00:11:08,960 --> 00:11:13,540
+Tonight becomes That night. 
+
+185
+00:11:13,540 --> 00:11:17,580
+Yesterday becomes The day before. 
+
+186
+00:11:17,580 --> 00:11:21,000
+Tomorrow becomes The next. Or the 
+
+187
+00:11:21,000 --> 00:11:25,020
+following day. This becomes that. 
+
+188
+00:11:25,400 --> 00:11:31,040
+And here becomes there. That looks 
+
+189
+00:11:31,040 --> 00:11:32,700
+like a lot of things 
+
+190
+00:11:32,780 --> 00:11:34,920
+that change at first. 
+
+191
+00:11:34,920 --> 00:11:37,540
+
+192
+00:11:37,540 --> 00:11:39,880
+
+193
+00:11:39,880 --> 00:11:43,920
+But once you get into it and take another 
+look at these words, you 'll quickly get 
+the hang of it. So, let's 
+
+194
+00:11:43,920 --> 00:11:48,040
+summarize. If we 
+
+195
+00:11:48,040 --> 00:11:51,060
+
+196
+00:11:51,060 --> 00:11:53,400
+have the reporting verb in the present 
+tense in indirect speech , the tense of 
+the 
+
+197
+00:11:53,400 --> 00:11:56,000
+indirect speech remains unchanged. 
+
+198
+00:11:56,000 --> 00:11:57,800
+However, if the reporting verb is in the 
+
+199
+00:11:57,800 --> 00:11:59,720
+past tense, we apply the 
+
+200
+00:11:59,720 --> 00:12:02,760
+backshift of tenses. This means that 
+
+201
+00:12:02,860 --> 00:12:05,320
+simple present becomes simple past, 
+
+202
+00:12:05,700 --> 00:12:07,700
+present perfect becomes past perfect, 
+
+203
+00:12:08,100 --> 00:12:11,020
+simple past becomes past perfect, past 
+
+204
+00:12:11,020 --> 00:12:14,280
+perfect remains past perfect, be going 
+
+205
+00:12:14,280 --> 00:12:17,280
+to do something becomes was or were 
+
+206
+00:12:17,280 --> 00:12:19,840
+going to do something will under 
+
+207
+00:12:19,840 --> 00:12:21,940
+infinitive becomes would under 
+
+208
+00:12:21,940 --> 00:12:25,520
+infinitive. We also have to make sure 
+
+209
+00:12:25,520 --> 00:12:27,980
+that the 
+
+210
+00:12:27,980 --> 00:12:32,500
+pronouns, whether subject, object 
+
+211
+00:12:32,500 --> 00:12:35,880
+or possessive pronoun, and time and 
+
+212
+00:12:35,880 --> 00:12:40,020
+place specifications change accordingly. 
+And that brings us to 
+
+213
+00:12:40,020 --> 00:12:42,520
+the end of 
+
+214
+00:12:42,520 --> 00:12:44,760
+today's webinar. 
+
+215
+00:12:44,760 --> 00:12:46,620
+Thank you for your attention 
+
+216
+00:12:46,620 --> 00:12:48,680
+and have a nice day. 

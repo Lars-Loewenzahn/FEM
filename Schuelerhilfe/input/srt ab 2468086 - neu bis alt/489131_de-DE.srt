@@ -1,0 +1,764 @@
+1
+00:00:00,720 --> 00:00:03,040
+Hallo zu einem weiteren Lernvideo der
+
+2
+00:00:03,040 --> 00:00:05,300
+Schülerhilfe. Nachdem ich dir im
+
+3
+00:00:05,300 --> 00:00:07,120
+letzten Video erklärt habe, dass es
+
+4
+00:00:07,120 --> 00:00:09,460
+beim Skandieren eines taktylischen
+
+5
+00:00:09,460 --> 00:00:11,120
+Exameters ein paar Besonderheiten
+
+6
+00:00:11,120 --> 00:00:13,220
+gibt, die du beachten musst, will ich
+
+7
+00:00:13,220 --> 00:00:15,520
+dir heute an einem Beispiel
+
+8
+00:00:15,520 --> 00:00:17,700
+vorführen, wie das in der Praxis
+
+9
+00:00:17,700 --> 00:00:20,240
+aussieht. Dazu habe ich dir einen
+
+10
+00:00:20,240 --> 00:00:23,260
+Auszug aus Vergils erster Ekloge
+
+11
+00:00:23,260 --> 00:00:25,760
+mitgebracht. Die Eklogen sind
+
+12
+00:00:25,760 --> 00:00:27,920
+Gedichte von Vergil, die in einer
+
+13
+00:00:27,920 --> 00:00:30,980
+Schäfer-Hirtenwelt spielen und die
+
+14
+00:00:30,980 --> 00:00:35,460
+stehen durchweg im Hexameter. Um das
+
+15
+00:00:35,460 --> 00:00:36,940
+Ganze aber zu vereinfachen, wir
+
+16
+00:00:36,940 --> 00:00:38,160
+wollen uns ja auf die Besonderheiten
+
+17
+00:00:38,160 --> 00:00:40,540
+konzentrieren, habe ich für dich
+
+18
+00:00:40,540 --> 00:00:42,080
+schon einmal den ersten und den
+
+19
+00:00:42,080 --> 00:00:43,980
+dritten Vers vorskandiert.
+
+20
+00:00:46,980 --> 00:00:50,500
+Das siehst du hier. Werfen wir jetzt
+
+21
+00:00:50,500 --> 00:00:52,020
+also gemeinsam einen Blick auf den
+
+22
+00:00:52,020 --> 00:00:57,650
+zweiten Vers. Die erste Silbe eines
+
+23
+00:00:57,650 --> 00:00:59,690
+jeden Hexameters. das ist immer lang,
+
+24
+00:00:59,830 --> 00:01:03,530
+das können wir direkt eintragen, lang
+
+25
+00:01:06,800 --> 00:01:10,200
+und betont. Schauen wir mal, was wir
+
+26
+00:01:10,200 --> 00:01:11,780
+denn für Hilfestellungen allein durch
+
+27
+00:01:11,780 --> 00:01:15,920
+den Vers haben. Diphthonge etwa sind
+
+28
+00:01:15,920 --> 00:01:18,480
+immer lang. Schauen wir einmal nach
+
+29
+00:01:18,480 --> 00:01:23,120
+Diphthonge und dann finden wir Ä. Das
+
+30
+00:01:23,120 --> 00:01:25,360
+heißt, auch dieses Ä ist eine lange
+
+31
+00:01:25,360 --> 00:01:29,840
+Silbe. Und ich mache direkt mal das
+
+32
+00:01:29,840 --> 00:01:32,480
+Längenzeichen. obendrauf. Eine
+
+33
+00:01:32,480 --> 00:01:34,500
+weitere praktische Hilfe sind die
+
+34
+00:01:34,500 --> 00:01:37,740
+Positionslängen. Auf ein Vokal folgen
+
+35
+00:01:37,740 --> 00:01:39,320
+zwei Konsonanten, dann ist dieser
+
+36
+00:01:39,320 --> 00:01:41,700
+Vokal positionslang. Schauen wir auch
+
+37
+00:01:41,700 --> 00:01:44,300
+kurz nach solchen Fällen. Wir haben
+
+38
+00:01:44,300 --> 00:01:46,540
+ja gut LT, aber das U hatten wir
+
+39
+00:01:46,540 --> 00:01:48,320
+schon als lang markiert, hier das LT.
+
+40
+00:01:49,500 --> 00:01:54,160
+Dann haben wir hier hier ein kn, dann
+
+41
+00:01:54,160 --> 00:01:59,620
+haben wir das str, dann haben wir mk
+
+42
+00:01:59,620 --> 00:02:04,920
+und ja, mehr Konsonantenhäufungen
+
+43
+00:02:04,920 --> 00:02:06,880
+haben wir nicht, aber auch damit
+
+44
+00:02:06,880 --> 00:02:07,960
+haben wir schon wieder ein paar lange
+
+45
+00:02:07,960 --> 00:02:09,880
+Silben gefunden, gefunden, die wir
+
+46
+00:02:09,880 --> 00:02:12,940
+auch wieder markieren können. Nämlich
+
+47
+00:02:12,940 --> 00:02:18,740
+das O bei Nostrae, hier vor dem KN
+
+48
+00:02:19,920 --> 00:02:26,400
+und das I vor dem M auf das Quo
+
+49
+00:02:26,400 --> 00:02:29,480
+folgt. Und wenn wir jetzt genau
+
+50
+00:02:29,480 --> 00:02:32,620
+hinschauen, sehen wir, ich habe einen
+
+51
+00:02:32,620 --> 00:02:35,940
+Diphthong übersehen, Selpe. Selpe ist
+
+52
+00:02:35,940 --> 00:02:37,900
+natürlich auch ein Diphthong, den Den
+
+53
+00:02:37,900 --> 00:02:39,680
+können wir mitmarkieren und auch
+
+54
+00:02:39,680 --> 00:02:41,640
+diese Silbe ist dann natürlich
+
+55
+00:02:41,640 --> 00:02:47,620
+entsprechend lang. So, schauen wir
+
+56
+00:02:47,620 --> 00:02:50,520
+weiter. Dann am einfachsten ist es
+
+57
+00:02:50,520 --> 00:02:53,100
+immer, wenn du am Ende anfängst. Denn
+
+58
+00:02:53,100 --> 00:02:55,320
+das Ende eines Exameters besteht ja
+
+59
+00:02:55,320 --> 00:02:57,700
+immer aus einer betonten Silbe,
+
+60
+00:02:57,700 --> 00:02:59,740
+gefolgt von einer Ankeps als letzter
+
+61
+00:02:59,740 --> 00:03:02,560
+Versfuß. Du weißt deswegen, diese
+
+62
+00:03:02,560 --> 00:03:06,260
+Silbe hier ist lang und betont und
+
+63
+00:03:06,260 --> 00:03:09,560
+das ist eine Ankeps. Und der fünfte
+
+64
+00:03:09,560 --> 00:03:12,640
+Versfuß, ein reiner Dactylus, sprich
+
+65
+00:03:12,640 --> 00:03:16,540
+Länge, Doppelkürze, also kurz, kurz,
+
+66
+00:03:16,800 --> 00:03:21,270
+lang. So, jetzt haben wir zwischen
+
+67
+00:03:21,270 --> 00:03:23,950
+Säpe und diesem M noch eine Silbe,
+
+68
+00:03:23,950 --> 00:03:25,890
+die muss lang sein, denn eine
+
+69
+00:03:25,890 --> 00:03:27,830
+einfache Kürze kann in einem
+
+70
+00:03:27,830 --> 00:03:29,030
+Hexameter nicht auftauchen.
+
+71
+00:03:34,790 --> 00:03:36,830
+Gehen wir jetzt nach vorne zum Vers
+
+72
+00:03:36,830 --> 00:03:40,050
+und schauen einmal, Stullus ego, huig
+
+73
+00:03:40,050 --> 00:03:43,150
+nos tre. Was machen wir damit? Und
+
+74
+00:03:43,150 --> 00:03:44,670
+gibt es nicht... noch irgendetwas zu
+
+75
+00:03:44,670 --> 00:03:46,990
+beachten? Schauen wir mal, du hast
+
+76
+00:03:46,990 --> 00:03:48,390
+kennengelernt zwei Vokale, die
+
+77
+00:03:48,390 --> 00:03:50,370
+zusammentrallen. Das darf nicht sein.
+
+78
+00:03:50,530 --> 00:03:52,290
+Dabei wird der erste im Regelfall
+
+79
+00:03:52,290 --> 00:03:56,270
+elidiert. Und scheinbar haben wir
+
+80
+00:03:56,270 --> 00:03:58,030
+hier keinen solchen Fall, dass ein
+
+81
+00:03:58,030 --> 00:04:00,230
+Wort mit Vokal endet, ein weiteres
+
+82
+00:04:00,230 --> 00:04:03,010
+mit Vokal beginnt. Aber ich habe dir
+
+83
+00:04:03,010 --> 00:04:04,570
+auch im letzten Video gesagt, dass
+
+84
+00:04:04,570 --> 00:04:09,470
+ein H, ein H H gilt nicht als echter
+
+85
+00:04:09,470 --> 00:04:12,030
+Buchstabe, sondern nur als Hauch. Und
+
+86
+00:04:12,030 --> 00:04:14,310
+jedes H einfach ignorieren. Tun wir
+
+87
+00:04:14,310 --> 00:04:17,670
+also so, als sei dieses H gar nicht
+
+88
+00:04:17,670 --> 00:04:21,640
+da. Denn dann haben wir tatsächlich
+
+89
+00:04:21,640 --> 00:04:25,710
+zwei Vokale, die aufeinanderprallen.
+
+90
+00:04:26,510 --> 00:04:29,810
+Und das bedeutet für das O, das Ego
+
+91
+00:04:29,810 --> 00:04:32,690
+und Tschö, du musst leider gehen, du
+
+92
+00:04:32,690 --> 00:04:33,350
+wirst elitiert.
+
+93
+00:04:36,880 --> 00:04:38,480
+Weitere Besonderheiten finden wir in
+
+94
+00:04:38,480 --> 00:04:39,720
+diesem Vers jetzt nicht. Wir können
+
+95
+00:04:39,720 --> 00:04:41,200
+also die restlichen Längen und Kürzen
+
+96
+00:04:41,200 --> 00:04:44,060
+eintragen. Wir haben Stultus, die
+
+97
+00:04:44,060 --> 00:04:45,400
+Nominativ-Singular-Endung, O ist
+
+98
+00:04:45,400 --> 00:04:48,220
+kurz. Das E muss dann auch kurz sein,
+
+99
+00:04:48,360 --> 00:04:50,160
+denn eine kurze kommt nie alleine im
+
+100
+00:04:50,160 --> 00:04:55,190
+Exameter. Dann kommt unser Huyg.
+
+101
+00:04:55,950 --> 00:04:57,430
+Eigentlich wird es zweisilbig
+
+102
+00:04:57,430 --> 00:05:00,370
+gesprochen. Huyg. Vergil greift hier
+
+103
+00:05:00,370 --> 00:05:01,730
+zu einem Trick. Er spricht es
+
+104
+00:05:01,730 --> 00:05:03,770
+einsilbig, denn sonst hätte er
+
+105
+00:05:03,770 --> 00:05:07,030
+Probleme mit dem Versmaß. Wir messen
+
+106
+00:05:07,030 --> 00:05:11,790
+also Huyg als eine Silbe lang. Dann
+
+107
+00:05:11,790 --> 00:05:13,810
+kommt eine Länge. Das heißt, hier ist
+
+108
+00:05:13,810 --> 00:05:16,490
+der Fuß zu Ende, Doppellänge, eine
+
+109
+00:05:16,490 --> 00:05:19,010
+betonte Länge. Und jetzt haben wir
+
+110
+00:05:19,010 --> 00:05:26,030
+bereits 1, 2, 3, 4, 5, 6 Betonungen.
+
+111
+00:05:26,130 --> 00:05:28,430
+Mehr Versflüße gibt es nicht. Wir
+
+112
+00:05:28,430 --> 00:05:30,830
+wissen, diese beiden Is müssen kurz
+
+113
+00:05:30,830 --> 00:05:33,570
+sein. Kommen wir zum letzten Vers.
+
+114
+00:05:34,690 --> 00:05:36,650
+Auch hier können wir wieder von
+
+115
+00:05:36,650 --> 00:05:39,490
+direkt zu Beginn eintragen, die
+
+116
+00:05:39,490 --> 00:05:42,370
+Längen, die immer. zu finden sind,
+
+117
+00:05:42,410 --> 00:05:44,730
+nämlich die erste Silbe des Verses
+
+118
+00:05:44,730 --> 00:05:49,270
+und die vorletzte Silbe, auf die eine
+
+119
+00:05:49,270 --> 00:05:52,570
+Silbe ankeppt, folgt und mit dem
+
+120
+00:05:52,570 --> 00:05:54,270
+Wissen der fünfte Versfuß im
+
+121
+00:05:54,270 --> 00:05:57,390
+Regelfall ein reiner Daktilus haben
+
+122
+00:05:57,390 --> 00:06:02,600
+wir also kurz, kurz und lang. Das E
+
+123
+00:06:02,600 --> 00:06:04,520
+hättest du als Länge auch deshalb
+
+124
+00:06:04,520 --> 00:06:06,460
+finden können, weil du hier
+
+125
+00:06:06,460 --> 00:06:09,700
+tatsächlich zwei Konsonanten nach dem
+
+126
+00:06:09,700 --> 00:06:11,840
+E hast, das gleiche gilt für die die
+
+127
+00:06:11,840 --> 00:06:14,440
+Länge von U. Beides sind
+
+128
+00:06:14,440 --> 00:06:17,990
+Positionslängen. Schauen wir also
+
+129
+00:06:17,990 --> 00:06:19,870
+weiter nach solchen Hilfen wie
+
+130
+00:06:19,870 --> 00:06:22,430
+Positionslängen. Schauen wir, wo
+
+131
+00:06:22,430 --> 00:06:25,470
+haben wir Konsonanten, Häufungen. Das
+
+132
+00:06:25,470 --> 00:06:30,730
+haben wir bei hier KT, das haben wir
+
+133
+00:06:30,730 --> 00:06:35,290
+bei Inter, NT und direkt im Folgenden
+
+134
+00:06:35,290 --> 00:06:36,090
+mit RK.
+
+135
+00:06:39,260 --> 00:06:42,240
+Und was ist mit Mit Verum und Heg
+
+136
+00:06:42,240 --> 00:06:44,740
+haben wir hier nicht auch zwei
+
+137
+00:06:44,740 --> 00:06:48,020
+Konsonanten. Achtung, aufgepasst,
+
+138
+00:06:48,020 --> 00:06:50,760
+nein, denn wir hatten gerade das
+
+139
+00:06:50,760 --> 00:06:53,700
+Beispiel Hui gehabt. Ein H darf nicht
+
+140
+00:06:53,700 --> 00:06:56,440
+mitgemessen werden, also tun wir so,
+
+141
+00:06:56,520 --> 00:06:58,620
+als sei es gar nicht hier, streichen
+
+142
+00:06:58,620 --> 00:06:59,040
+es mal weg.
+
+143
+00:07:02,480 --> 00:07:04,240
+Aber wir haben noch eine
+
+144
+00:07:04,240 --> 00:07:07,040
+Konsonantengruppe übersehen, nämlich
+
+145
+00:07:07,040 --> 00:07:11,000
+bei Tantum das NT. T. Auch das sorgt
+
+146
+00:07:11,000 --> 00:07:13,720
+dafür, dass das A positionslang ist.
+
+147
+00:07:15,550 --> 00:07:17,130
+Auch hier trage ich jetzt schon mal
+
+148
+00:07:17,130 --> 00:07:19,630
+die gefundenen Längen ein. Wir haben
+
+149
+00:07:19,630 --> 00:07:22,870
+also das E als Länge, wir haben das I
+
+150
+00:07:22,870 --> 00:07:26,590
+als Länge, wir haben das A als Länge,
+
+151
+00:07:26,650 --> 00:07:31,470
+wir haben hier das Ä als Länge und
+
+152
+00:07:31,470 --> 00:07:33,490
+zusätzlich wäre Ä auch ein Liftung,
+
+153
+00:07:33,610 --> 00:07:38,770
+der von Haus aus lang ist. So, dann
+
+154
+00:07:38,770 --> 00:07:41,990
+haben wir noch dieses um. Was machen
+
+155
+00:07:41,990 --> 00:07:47,920
+wir damit? Auch die Endung um gilt ja
+
+156
+00:07:47,920 --> 00:07:51,660
+als vokalische Endung. Wir haben also
+
+157
+00:07:51,660 --> 00:07:53,420
+jetzt tatsächlich, nachdem wir das h
+
+158
+00:07:53,420 --> 00:07:55,960
+ausgestrichen haben, auch hier einen
+
+159
+00:07:55,960 --> 00:08:00,820
+Fall für Illusion, sprich das um muss
+
+160
+00:08:00,820 --> 00:08:04,500
+leider gehen. Also haben wir VEREG,
+
+161
+00:08:04,620 --> 00:08:09,140
+unseren ersten Versfuß. Dann geht es
+
+162
+00:08:09,140 --> 00:08:13,160
+weiter, TAN. So, und jetzt schauen
+
+163
+00:08:13,160 --> 00:08:17,040
+wir TANTUM ALIAS. Du merkst, auch
+
+164
+00:08:17,040 --> 00:08:22,020
+hier haben wir wieder eine Wort, das
+
+165
+00:08:22,020 --> 00:08:25,700
+mit Vokal anfängt und eine vokalische
+
+166
+00:08:25,700 --> 00:08:27,240
+Endung, auch wenn sie getarnt
+
+167
+00:08:27,240 --> 00:08:30,840
+daherkommt, wegen des M. Was müssen
+
+168
+00:08:30,840 --> 00:08:32,920
+wir also machen? Wir sagen Tschö um,
+
+169
+00:08:33,080 --> 00:08:38,040
+denn es wird elidiert. Gucken wir
+
+170
+00:08:38,040 --> 00:08:39,360
+jetzt noch, dass wir die restlichen
+
+171
+00:08:39,360 --> 00:08:42,040
+Längen und Kürzen finden. Das Wort
+
+172
+00:08:42,040 --> 00:08:44,040
+kaputt, da handelt es sich wirklich
+
+173
+00:08:44,040 --> 00:08:47,280
+um eine Doppelkürze. Kaputt. Das
+
+174
+00:08:47,280 --> 00:08:49,100
+heißt, das E ist eine betonte Länge.
+
+175
+00:08:49,840 --> 00:08:52,320
+Hier fängt einer ins Versfuß an. Und
+
+176
+00:08:52,320 --> 00:08:55,220
+wenn das I lang ist, muss ja auch das
+
+177
+00:08:55,220 --> 00:08:57,520
+A davor lang sein. Ende
+
+178
+00:09:00,490 --> 00:09:03,470
+eines Versfußes. Und Z. Schauen wir
+
+179
+00:09:03,470 --> 00:09:05,130
+mal, wie viele Betonungen haben wir
+
+180
+00:09:05,130 --> 00:09:11,290
+schon? 1, 2, 3, 4, 5 und hier, die
+
+181
+00:09:11,290 --> 00:09:12,090
+habe ich gerade vergessen
+
+182
+00:09:12,090 --> 00:09:17,290
+einzutragen. 1, 2, 3, 4, 5, 6. Nein,
+
+183
+00:09:17,330 --> 00:09:19,830
+es sind alle da. Also wissen wir,
+
+184
+00:09:19,890 --> 00:09:22,010
+dass jetzt die verbliebenen beiden
+
+185
+00:09:22,010 --> 00:09:24,830
+Silben kurz sein müssen. Alle.
+
+186
+00:09:27,620 --> 00:09:30,840
+So. Ich hoffe, dieses Beispiel hat
+
+187
+00:09:30,840 --> 00:09:33,120
+dir ein wenig weitergeholfen. Und
+
+188
+00:09:33,120 --> 00:09:34,680
+keine Angst, man gewünscht... an
+
+189
+00:09:34,680 --> 00:09:36,120
+diese Besonderheiten recht schnell.
+
+190
+00:09:37,180 --> 00:09:40,840
+Und ansonsten sage ich bis bald.
+
+191
+00:09:40,920 --> 00:09:41,380
+Tschüss!
+

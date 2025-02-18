@@ -1,0 +1,524 @@
+1
+00:00:03,950 --> 00:00:06,030
+Hallo, mein Name ist Nick und heute
+
+2
+00:00:06,030 --> 00:00:07,310
+möchte ich dir gerne etwas zu
+
+3
+00:00:07,310 --> 00:00:09,350
+limnischen Ökosystemen bzw. der
+
+4
+00:00:09,350 --> 00:00:10,730
+Änderung von Seen über das Jahr
+
+5
+00:00:10,730 --> 00:00:12,930
+erklären. Weitere Inhalte zu diesen
+
+6
+00:00:12,930 --> 00:00:14,530
+und vielen anderen Themen findest du
+
+7
+00:00:14,530 --> 00:00:15,970
+natürlich auch in unserem Online
+
+8
+00:00:15,970 --> 00:00:18,370
+-Lerncenter. Es gibt verschiedene
+
+9
+00:00:18,370 --> 00:00:20,070
+rote Listen, welche der Naturschutz
+
+10
+00:00:20,070 --> 00:00:21,790
+bei Fragen zur Gefährdung von Arten
+
+11
+00:00:21,790 --> 00:00:24,050
+zu Rate zieht. Die wichtigste Liste
+
+12
+00:00:24,050 --> 00:00:26,030
+dürfte die IOCN Red List darstellen.
+
+13
+00:00:26,030 --> 00:00:27,930
+Diese Liste stellt den
+
+14
+00:00:27,930 --> 00:00:29,770
+Gefährdungsgrad einer Art im globalen
+
+15
+00:00:29,770 --> 00:00:31,330
+Kontext dar. Die Art der
+
+16
+00:00:31,330 --> 00:00:33,110
+Mauereidechse ist z.B. in Deutschland
+
+17
+00:00:33,110 --> 00:00:34,810
+relativ selten und steht somit auf
+
+18
+00:00:34,810 --> 00:00:36,670
+verschiedenen, politisch relevanten
+
+19
+00:00:36,670 --> 00:00:38,810
+roten Listen. Im globalen Kontext
+
+20
+00:00:38,810 --> 00:00:40,230
+tritt diese Art allerdings sehr
+
+21
+00:00:40,230 --> 00:00:42,250
+häufig auf. Daher findet sie sich in
+
+22
+00:00:42,250 --> 00:00:43,950
+der IUCN Red List in keiner
+
+23
+00:00:43,950 --> 00:00:46,830
+Gefährdungskategorie. Arten, welche
+
+24
+00:00:46,830 --> 00:00:48,310
+auf der IUCN Red List als
+
+25
+00:00:48,310 --> 00:00:50,190
+ausgestorben verzeichnet sind, sind
+
+26
+00:00:50,190 --> 00:00:51,850
+somit nicht nur in Deutschland lokal
+
+27
+00:00:51,850 --> 00:00:53,610
+erloschen, sondern auch in keinem
+
+28
+00:00:53,610 --> 00:00:55,490
+anderen Land mehr vorhanden. Laut
+
+29
+00:00:55,490 --> 00:00:57,630
+IUCN Red List sind vier Arten in
+
+30
+00:00:57,630 --> 00:00:59,630
+Deutschland aufgestorben. All diese
+
+31
+00:00:59,630 --> 00:01:01,010
+vier Arten waren Bewohner von
+
+32
+00:01:01,010 --> 00:01:03,330
+Süßgewässern. Es zeigt sich somit,
+
+33
+00:01:03,330 --> 00:01:05,610
+dass ein vom Naturschutz teilweise
+
+34
+00:01:05,610 --> 00:01:06,890
+unterschätztes Thema der
+
+35
+00:01:06,890 --> 00:01:09,070
+Gewässerschutz ist. Im Folgenden
+
+36
+00:01:09,070 --> 00:01:10,830
+gehen wir daher näher auf Gewässer,
+
+37
+00:01:10,830 --> 00:01:12,590
+insbesondere Stehgewässer und deren
+
+38
+00:01:12,590 --> 00:01:14,390
+Veränderungen in Abhängigkeit von der
+
+39
+00:01:14,390 --> 00:01:17,030
+jeweiligen Jahreszeit ein. Bei Seen
+
+40
+00:01:17,030 --> 00:01:18,850
+in unseren Breiten werden vier Phasen
+
+41
+00:01:18,850 --> 00:01:20,650
+unterschieden. Frühling, Sommer,
+
+42
+00:01:20,790 --> 00:01:22,930
+Herbst und Winter. Die Unterscheidung
+
+43
+00:01:22,930 --> 00:01:24,330
+wird anhand der Jahreszeit und den
+
+44
+00:01:24,330 --> 00:01:25,510
+klimatischen Verhältnissen
+
+45
+00:01:25,510 --> 00:01:27,730
+vorgenommen. Zwei dieser Phasen
+
+46
+00:01:27,730 --> 00:01:29,190
+weisen eine vollständige Zirkulation
+
+47
+00:01:29,190 --> 00:01:31,490
+und zwei eine unvollständige oder gar
+
+48
+00:01:31,490 --> 00:01:33,910
+keine Zirkulation auf. Das Wasser
+
+49
+00:01:33,910 --> 00:01:35,790
+zirkuliert im Frühling, Sommer und im
+
+50
+00:01:35,790 --> 00:01:37,850
+Herbst aufgrund der starken Winde. Im
+
+51
+00:01:37,850 --> 00:01:39,230
+Winter findet keine Zirkulation
+
+52
+00:01:39,230 --> 00:01:41,450
+statt. statt. Im Sommer findet keine
+
+53
+00:01:41,450 --> 00:01:42,770
+vollständige, sondern eine
+
+54
+00:01:42,770 --> 00:01:44,350
+unvollständige Zirkulation statt.
+
+55
+00:01:44,550 --> 00:01:46,630
+Dieser Zustand wird Sommerstagnation
+
+56
+00:01:46,630 --> 00:01:48,530
+genannt. In der Sommerstagnation
+
+57
+00:01:48,530 --> 00:01:50,370
+liegen drei Schichten vor, das
+
+58
+00:01:50,370 --> 00:01:52,710
+Epilimnion, das Metalimnion und das
+
+59
+00:01:52,710 --> 00:01:55,030
+Hypolymnion. Das Epilimnion
+
+60
+00:01:55,030 --> 00:01:56,470
+bezeichnet den oberen Teil des
+
+61
+00:01:56,470 --> 00:01:58,850
+Stehgewässers im Sommer. Und nur in
+
+62
+00:01:58,850 --> 00:02:00,490
+diesem oberen Teil findet dann eine
+
+63
+00:02:00,490 --> 00:02:02,870
+Zirkulation statt. Das Metalimnion
+
+64
+00:02:02,870 --> 00:02:04,530
+ist die Mittelschicht, in welcher
+
+65
+00:02:04,530 --> 00:02:06,150
+große Temperaturdifferenzen
+
+66
+00:02:06,150 --> 00:02:08,530
+auftreten. Das Hypolymnion ist das
+
+67
+00:02:08,530 --> 00:02:11,410
+kalte Tiefenwasser. In Abhängigkeit
+
+68
+00:02:11,410 --> 00:02:13,130
+von der Zirkulationshäufigkeit werden
+
+69
+00:02:13,130 --> 00:02:15,030
+Seen zusätzlich in drei Kategorien
+
+70
+00:02:15,030 --> 00:02:16,630
+unterschieden. Monomyktisch,
+
+71
+00:02:16,670 --> 00:02:18,930
+Dimyktisch und Polymyktisch. Von
+
+72
+00:02:18,930 --> 00:02:20,630
+einem monomyktischen See spricht man,
+
+73
+00:02:20,690 --> 00:02:22,370
+wenn im Jahr nur eine Durchmischung
+
+74
+00:02:22,370 --> 00:02:24,390
+auftritt, wird sowohl im Herbst als
+
+75
+00:02:24,390 --> 00:02:25,590
+auch im Winter die gesamte
+
+76
+00:02:25,590 --> 00:02:27,670
+Wassermasse durchmischt, spricht man
+
+77
+00:02:27,670 --> 00:02:29,550
+von dimiktisch, also zwei
+
+78
+00:02:29,550 --> 00:02:31,790
+Durchmischungen. Polymiktisch
+
+79
+00:02:31,790 --> 00:02:33,610
+wiederum bedeutet, dass bei einem See
+
+80
+00:02:33,610 --> 00:02:35,410
+mehrere Vollzirkulationen im Jahr
+
+81
+00:02:35,410 --> 00:02:38,030
+vorliegen. Nachdem wir uns etwas mit
+
+82
+00:02:38,030 --> 00:02:39,530
+den physikalischen Eigenschaften
+
+83
+00:02:39,530 --> 00:02:40,990
+eines Sees auseinandergesetzt haben,
+
+84
+00:02:41,070 --> 00:02:42,410
+schauen wir uns auch einige
+
+85
+00:02:42,410 --> 00:02:45,050
+biologische Faktoren an. Generell
+
+86
+00:02:45,050 --> 00:02:46,190
+werden drei verschiedene
+
+87
+00:02:46,190 --> 00:02:47,890
+Nährstoffverhältnisse unterschieden.
+
+88
+00:02:48,110 --> 00:02:50,770
+Oligotroph, Mesotroph und Eutroph.
+
+89
+00:02:51,590 --> 00:02:53,870
+Oligotroph bedeutet nährstoffarm und
+
+90
+00:02:53,870 --> 00:02:55,290
+entsprechend wenig produktiv.
+
+91
+00:02:55,550 --> 00:02:57,970
+Mesotroph bedeutet massig produktiv
+
+92
+00:02:57,970 --> 00:03:00,210
+und Eutroph bedeutet nährstoffreich
+
+93
+00:03:00,210 --> 00:03:03,050
+und hochproduktiv. Nährstoffe können
+
+94
+00:03:03,050 --> 00:03:04,630
+sich in unterschiedlichen Formen im
+
+95
+00:03:04,630 --> 00:03:06,110
+Wasser befinden. Eine leicht
+
+96
+00:03:06,110 --> 00:03:07,330
+verständliche Darstellung des
+
+97
+00:03:07,330 --> 00:03:09,170
+Nährstoffkreislaufs wird durch die
+
+98
+00:03:09,170 --> 00:03:10,290
+Nahrungskette dargestellt.
+
+99
+00:03:10,570 --> 00:03:12,210
+Nahrungsketten sind vereinfachte
+
+100
+00:03:12,210 --> 00:03:13,690
+Modelle, welche Tiere nach ihrem
+
+101
+00:03:13,690 --> 00:03:15,230
+primären Nahrung hierarchisch
+
+102
+00:03:15,230 --> 00:03:16,970
+sortieren. Ein Beispiel für eine
+
+103
+00:03:16,970 --> 00:03:19,170
+Nahrungskette in einem Süßgewässer
+
+104
+00:03:19,170 --> 00:03:21,470
+ist der Produzent Alge, der
+
+105
+00:03:21,470 --> 00:03:23,570
+Primärkonsument Wasserfloh und der
+
+106
+00:03:23,570 --> 00:03:26,730
+Sekundärkonsument Libellenlarve. Wenn
+
+107
+00:03:26,730 --> 00:03:28,250
+die Nahrungskette gestört ist, kann
+
+108
+00:03:28,250 --> 00:03:29,790
+das in Gewässern sogar sichtbar sein.
+
+109
+00:03:30,190 --> 00:03:31,490
+Trübes Wasser kann verschiedene
+
+110
+00:03:31,490 --> 00:03:33,550
+Ursachen haben. Eine der häufigsten
+
+111
+00:03:33,550 --> 00:03:35,490
+Ursachen ist ein hoher Anteil an
+
+112
+00:03:35,490 --> 00:03:37,610
+Schwebealgen. Diese verursachen eine
+
+113
+00:03:37,610 --> 00:03:39,930
+grüne Trübung des Wassers. Zu Beginn
+
+114
+00:03:39,930 --> 00:03:41,390
+des Jahres beginnen die Algen schnell
+
+115
+00:03:41,390 --> 00:03:43,370
+zu wachsen und das Wasser verwirbt
+
+116
+00:03:43,370 --> 00:03:45,890
+sich als Reaktion trüb. Einige Zeit
+
+117
+00:03:45,890 --> 00:03:47,370
+später beginnen auch die Tiere sich
+
+118
+00:03:47,370 --> 00:03:48,810
+zu vermehren, welche sich von diesen
+
+119
+00:03:48,810 --> 00:03:50,730
+Algen ernähren. Zu diesen Tieren
+
+120
+00:03:50,730 --> 00:03:52,190
+gehört zum Beispiel der Wasserfloh.
+
+121
+00:03:52,410 --> 00:03:55,050
+Im Laufe des Jahres gleicht sich der
+
+122
+00:03:55,050 --> 00:03:56,630
+Anteil der Algen und der Anteil der
+
+123
+00:03:56,630 --> 00:03:58,690
+Algenfresser aus, bis die die meisten
+
+124
+00:03:58,690 --> 00:04:00,390
+Algen gefressen wurden. Zu diesem
+
+125
+00:04:00,390 --> 00:04:01,970
+Zeitpunkt ist das Wasser dann klar.
+
+126
+00:04:02,410 --> 00:04:04,490
+Ich hoffe, dass du nun die Grundlagen
+
+127
+00:04:04,490 --> 00:04:06,210
+des lindischen Ökosystems verstanden
+
+128
+00:04:06,210 --> 00:04:08,190
+hast. Bei weiteren Fragen stehen dir
+
+129
+00:04:08,190 --> 00:04:10,270
+im Online-Learn-Center natürlich noch
+
+130
+00:04:10,270 --> 00:04:12,130
+weitere Inhalte zur Verfügung. Bis
+
+131
+00:04:12,130 --> 00:04:12,770
+zum nächsten Mal.
+

@@ -1,0 +1,1772 @@
+1
+00:00:00,500 --> 00:00:02,380
+Herzlich willkommen zum Webinar
+
+2
+00:00:02,380 --> 00:00:05,460
+Grundrechenarten Subtraktion. Wir
+
+3
+00:00:05,460 --> 00:00:07,480
+werden uns in diesem Webinar mit der
+
+4
+00:00:07,480 --> 00:00:09,380
+Subtraktion befassen. Wir schauen uns
+
+5
+00:00:09,380 --> 00:00:10,840
+erstmal die Subtraktion ganz
+
+6
+00:00:10,840 --> 00:00:12,980
+allgemein an. Was ist das und wie
+
+7
+00:00:12,980 --> 00:00:15,060
+kann man sich das vorstellen? Danach
+
+8
+00:00:15,060 --> 00:00:16,040
+gehen wir zur schriftlichen
+
+9
+00:00:16,040 --> 00:00:17,780
+Subtraktion über und schauen uns in
+
+10
+00:00:17,780 --> 00:00:19,560
+dem Rahmen auch den Zehnerübergang
+
+11
+00:00:19,560 --> 00:00:21,560
+an. Was das genau ist, werde ich an
+
+12
+00:00:21,560 --> 00:00:22,460
+der entsprechenden Stelle nochmal
+
+13
+00:00:22,460 --> 00:00:24,980
+erläutern. und ganz zum Schluss
+
+14
+00:00:24,980 --> 00:00:25,980
+schauen wir uns noch ein paar
+
+15
+00:00:25,980 --> 00:00:29,000
+schwerere Aufgaben zur Subtraktion
+
+16
+00:00:29,000 --> 00:00:30,620
+an, das heißt Subtraktion von
+
+17
+00:00:30,620 --> 00:00:32,540
+mehreren Zahlen und auch eine
+
+18
+00:00:32,540 --> 00:00:33,920
+Subtraktion von einer recht großen
+
+19
+00:00:33,920 --> 00:00:37,060
+Zahl. Und damit fangen wir auch
+
+20
+00:00:37,060 --> 00:00:39,580
+gleich mit den Subtrahieren an. Und
+
+21
+00:00:39,580 --> 00:00:41,480
+zwar, wie kann man sich erstmal ganz
+
+22
+00:00:41,480 --> 00:00:43,360
+allgemein die Rechnung 9-4
+
+23
+00:00:43,360 --> 00:00:46,500
+vorstellen? 9-4 ist ja gleich 5 und
+
+24
+00:00:46,500 --> 00:00:47,540
+wir haben das hier mal mit so ein
+
+25
+00:00:47,540 --> 00:00:49,240
+paar Kugeln oder Kreisen dargestellt.
+
+26
+00:00:49,240 --> 00:00:52,240
+Dargestellt, wir sehen hier links 9
+
+27
+00:00:52,240 --> 00:00:56,420
+blaue Kreise, rechts sehen wir 4
+
+28
+00:00:56,420 --> 00:00:58,840
+grüne Kreise und jetzt rechnen wir 9
+
+29
+00:00:58,840 --> 00:01:01,180
+minus 4. Das heißt also, wir ziehen
+
+30
+00:01:01,180 --> 00:01:07,080
+von diesen 9 Kreisen 4 Kreise ab. Das
+
+31
+00:01:07,080 --> 00:01:08,920
+heißt, wir haben hier 5 und hier 4,
+
+32
+00:01:09,040 --> 00:01:11,360
+das heißt diese 4 fallen weg, 1, 2,
+
+33
+00:01:11,380 --> 00:01:14,600
+3, 4 und übrig bleiben 5 Kreise, so
+
+34
+00:01:14,600 --> 00:01:17,720
+wie es hier steht. Das Ganze kann man
+
+35
+00:01:17,720 --> 00:01:19,100
+sich natürlich... auch anhand eines
+
+36
+00:01:19,100 --> 00:01:21,880
+zahlen strahlt vorstellen wenn wir 9
+
+37
+00:01:21,880 --> 00:01:23,820
+minus 4 rechnen suchen wir uns als
+
+38
+00:01:23,820 --> 00:01:25,700
+erstes mal die zahlen 9 am zahlstrahl
+
+39
+00:01:25,700 --> 00:01:28,060
+raus und jetzt kommt die rechnung
+
+40
+00:01:28,060 --> 00:01:29,880
+rechnen operation das ist bei uns
+
+41
+00:01:29,880 --> 00:01:32,540
+jetzt minus wenn wir minus rechnen
+
+42
+00:01:32,540 --> 00:01:34,020
+gehen wir immer nach links hin zu den
+
+43
+00:01:34,020 --> 00:01:36,560
+kleineren zahlen ja das heißt allein
+
+44
+00:01:36,560 --> 00:01:38,260
+das vorzeichen minus sagt uns in
+
+45
+00:01:38,260 --> 00:01:39,520
+welche richtung wir gehen müssen beim
+
+46
+00:01:39,520 --> 00:01:41,520
+minus gehen wir nach links und wenn
+
+47
+00:01:41,520 --> 00:01:43,620
+wir ein plus hätten gingen wir nach
+
+48
+00:01:43,620 --> 00:01:45,860
+rechts wie Wie gesagt, wir haben in
+
+49
+00:01:45,860 --> 00:01:47,120
+dem Fall ein Minus, deswegen gehen
+
+50
+00:01:47,120 --> 00:01:49,720
+wir nach links. Und die Zahl rechts
+
+51
+00:01:49,720 --> 00:01:51,560
+vom Minus, dritte,
+
+52
+00:01:56,070 --> 00:01:57,350
+den gehen wir vier Schritte nach
+
+53
+00:01:57,350 --> 00:01:59,250
+links. Wir fangen bei der 9 an. Ein
+
+54
+00:01:59,250 --> 00:02:02,090
+Schritt, zwei Schritte, drei Schritte
+
+55
+00:02:02,090 --> 00:02:05,130
+und vier Schritte. Das heißt, wir
+
+56
+00:02:05,130 --> 00:02:07,050
+kommen bei der 5 aus. Deswegen ist 9
+
+57
+00:02:07,050 --> 00:02:10,830
+minus 4 gleich 5. Das sind wie gesagt
+
+58
+00:02:10,830 --> 00:02:12,410
+zwei Darstellungsweisen, wie man sich
+
+59
+00:02:12,410 --> 00:02:14,450
+das vorstellen kann, was da gemacht
+
+60
+00:02:14,450 --> 00:02:17,590
+wird. Kommen wir jetzt ein bisschen
+
+61
+00:02:17,590 --> 00:02:22,070
+zu der TU. Und zwar, wenn wir die
+
+62
+00:02:22,070 --> 00:02:24,490
+Subtraktion, wenn wir subtrahieren,
+
+63
+00:02:24,550 --> 00:02:26,370
+rechnen wir immer der Minuend minus
+
+64
+00:02:26,370 --> 00:02:28,850
+der Subtrahend. Der Minuend ist die
+
+65
+00:02:28,850 --> 00:02:30,590
+Zahl, von der abgezogen wird, also
+
+66
+00:02:30,590 --> 00:02:33,390
+die Zahl links vom Minus. Der
+
+67
+00:02:33,390 --> 00:02:36,110
+Subtrahend ist immer die Zahl rechts
+
+68
+00:02:36,110 --> 00:02:40,010
+vom Minus. Das heißt, Minuend ist
+
+69
+00:02:40,010 --> 00:02:42,370
+immer unsere Zahl, womit wir anfangen
+
+70
+00:02:42,370 --> 00:02:44,730
+und von der abgezogen wird. Und der
+
+71
+00:02:44,730 --> 00:02:46,550
+Subtrahend ist die Zahl, mit der wir
+
+72
+00:02:46,550 --> 00:02:48,890
+abziehen. Das Ergebnis einer
+
+73
+00:02:48,890 --> 00:02:50,250
+Subtraktion ist die sogenannte
+
+74
+00:02:50,250 --> 00:02:53,190
+Differenz. Was bei Subtraktionen ganz
+
+75
+00:02:53,190 --> 00:02:56,270
+wichtig ist, wir dürfen Minuend und
+
+76
+00:02:56,270 --> 00:02:57,790
+Subtrahend nicht vertauschen. Das
+
+77
+00:02:57,790 --> 00:02:59,450
+heißt, wir hatten ja gerade das
+
+78
+00:02:59,450 --> 00:03:01,510
+Beispiel 9 minus 4, das ist gleich 5.
+
+79
+00:03:02,070 --> 00:03:04,010
+Wir dürfen jetzt nicht die 9 und die
+
+80
+00:03:04,010 --> 00:03:06,390
+4 vertauschen. 4 minus 9 ist nicht
+
+81
+00:03:06,390 --> 00:03:08,290
+das gleiche. 4 minus 9 ist nämlich
+
+82
+00:03:08,290 --> 00:03:11,450
+minus 5 und nicht 5. Und das ist ein
+
+83
+00:03:11,450 --> 00:03:13,790
+sehr großer Unterschied. Daher dürfen
+
+84
+00:03:13,790 --> 00:03:16,190
+wir Minuent und Subtrahent nicht
+
+85
+00:03:16,190 --> 00:03:18,470
+vertauschen. Das Ganze kann man auch
+
+86
+00:03:18,470 --> 00:03:20,830
+allgemein schreiben. a minus b ist
+
+87
+00:03:20,830 --> 00:03:22,590
+ungleich. Wir sehen ja hier so ein
+
+88
+00:03:22,590 --> 00:03:23,810
+Gleichzeichen, das durchgestrichen
+
+89
+00:03:23,810 --> 00:03:26,330
+ist. Das bedeutet ungleich b minus a.
+
+90
+00:03:28,750 --> 00:03:31,370
+Und daher dürfen wir die Zahlen nicht
+
+91
+00:03:31,370 --> 00:03:32,450
+vertauschen. Es ist daher immer
+
+92
+00:03:32,450 --> 00:03:33,870
+wichtig zu wissen, was ist unser
+
+93
+00:03:33,870 --> 00:03:36,010
+Minuent, was ist unser Subtrahent.
+
+94
+00:03:38,230 --> 00:03:39,710
+Hier haben wir ein weiteres Beispiel.
+
+95
+00:03:39,710 --> 00:03:43,330
+Und zwar sehen wir 7, minus 2, minus
+
+96
+00:03:43,330 --> 00:03:45,370
+1. Das heißt, die 7 ist unser
+
+97
+00:03:45,370 --> 00:03:48,490
+Minuend, die minus 2 ist unser erster
+
+98
+00:03:48,490 --> 00:03:49,990
+Subtrahend und die minus 1 ist unser
+
+99
+00:03:49,990 --> 00:03:52,050
+zweiter Subtrahend. Also wir sehen
+
+100
+00:03:52,050 --> 00:03:53,750
+hier, wir haben nicht nur einen
+
+101
+00:03:53,750 --> 00:03:58,000
+Subtrahenden, sondern zwei. Wir haben
+
+102
+00:03:58,000 --> 00:04:00,460
+das Ganze auch hier wieder anhand der
+
+103
+00:04:00,460 --> 00:04:02,360
+Kreise dargestellt und hier anhand
+
+104
+00:04:02,360 --> 00:04:06,400
+eines Zahlenstrahls. Wenn wir 7,
+
+105
+00:04:06,500 --> 00:04:08,260
+minus 2, minus 1 rechnen, können wir
+
+106
+00:04:08,260 --> 00:04:09,480
+jetzt auch hier ganz schematisch
+
+107
+00:04:09,480 --> 00:04:11,440
+vorgehen. arbeiten uns einfach von
+
+108
+00:04:11,440 --> 00:04:12,560
+links nach rechts. Das heißt, wir
+
+109
+00:04:12,560 --> 00:04:15,320
+rechnen als erstes 7 minus 2. 7 minus
+
+110
+00:04:15,320 --> 00:04:17,320
+2 würden wir hier zwei Kreise
+
+111
+00:04:17,320 --> 00:04:19,760
+wegstreichen. Übrig blieben dann fünf
+
+112
+00:04:19,760 --> 00:04:21,480
+Stück. Dann müssen wir noch einen
+
+113
+00:04:21,480 --> 00:04:23,180
+abziehen, dann streichen wir auch
+
+114
+00:04:23,180 --> 00:04:24,720
+noch einen dritten weg. Und dann
+
+115
+00:04:24,720 --> 00:04:27,900
+bleiben vier Kreise übrig. Das heißt,
+
+116
+00:04:28,040 --> 00:04:31,540
+7 minus 2 minus 1 ist gleich 4. Das
+
+117
+00:04:31,540 --> 00:04:32,680
+Ganze gibt es selbstverständlich auch
+
+118
+00:04:32,680 --> 00:04:34,900
+am Zahlstrahl. Auch hier, wir fangen
+
+119
+00:04:34,900 --> 00:04:36,920
+wieder bei der 7 an. Dann haben wir
+
+120
+00:04:36,920 --> 00:04:38,800
+minus 2. Das Minus sagt uns wieder,
+
+121
+00:04:38,840 --> 00:04:40,520
+dass wir nach links gehen, hin zu den
+
+122
+00:04:40,520 --> 00:04:42,940
+kleineren Zahlen. Und die 2 sagt uns,
+
+123
+00:04:43,020 --> 00:04:44,360
+dass wir zwei Schritte als erstes
+
+124
+00:04:44,360 --> 00:04:46,800
+gehen. Ein Schritt, zwei Schritte.
+
+125
+00:04:46,840 --> 00:04:48,920
+Das heißt, 7 minus 2 ist schon mal 5.
+
+126
+00:04:49,480 --> 00:04:51,520
+Und dann haben wir noch eine minus 1.
+
+127
+00:04:51,640 --> 00:04:52,880
+Das heißt, wir gehen noch mal einen
+
+128
+00:04:52,880 --> 00:04:54,680
+Schritt weiter nach links. Und dann
+
+129
+00:04:54,680 --> 00:04:56,520
+sind wir bei der 4. Das heißt, 7
+
+130
+00:04:56,520 --> 00:05:01,160
+minus 2 minus 1 ist 4. Das Problem an
+
+131
+00:05:01,160 --> 00:05:04,300
+so einem Zahlenstrahl ist, für kleine
+
+132
+00:05:04,300 --> 00:05:05,620
+Zahlen ist er gut geeignet, um das
+
+133
+00:05:05,620 --> 00:05:07,140
+Ganze darzustellen, damit man sich
+
+134
+00:05:07,140 --> 00:05:09,680
+das gut vorstellen kann. Das Problem
+
+135
+00:05:09,680 --> 00:05:12,080
+ist nur, dass wenn die Zahlen größer
+
+136
+00:05:12,080 --> 00:05:13,600
+werden, dass der Zahlenstrahl zu lang
+
+137
+00:05:13,600 --> 00:05:16,280
+und zu unübersichtlich wird. Und
+
+138
+00:05:16,280 --> 00:05:18,300
+deswegen gibt es auch die Möglichkeit
+
+139
+00:05:18,300 --> 00:05:21,760
+einer schriftlichen Subtraktion. Die
+
+140
+00:05:21,760 --> 00:05:23,940
+werden wir uns gleich anschauen. Wir
+
+141
+00:05:23,940 --> 00:05:25,740
+haben hier erstmal ein Beispiel, wo
+
+142
+00:05:25,740 --> 00:05:27,120
+man den Zahlenstrahl schon nur noch
+
+143
+00:05:27,120 --> 00:05:31,340
+schwer ansehen kann. kann 22 15 der
+
+144
+00:05:31,340 --> 00:05:34,260
+zahlenstrahl wäre einfach zu lang man
+
+145
+00:05:34,260 --> 00:05:35,420
+verliert dort einfach die
+
+146
+00:05:35,420 --> 00:05:37,120
+orientierung und das abzählen wird
+
+147
+00:05:37,120 --> 00:05:39,780
+dann auch schon schwieriger daher
+
+148
+00:05:39,780 --> 00:05:42,080
+kann man das ganze auch vorteilhaft
+
+149
+00:05:42,080 --> 00:05:44,320
+rechnen wir sehen hier wir haben 22
+
+150
+00:05:44,320 --> 00:05:47,980
+15 also 22 unter minuend die 15 unser
+
+151
+00:05:47,980 --> 00:05:49,860
+subtrahend und wir sehen wir können
+
+152
+00:05:49,860 --> 00:05:52,480
+unsere subtrahenden zerlegen die 15
+
+153
+00:05:52,480 --> 00:05:54,180
+können wir in die 10 und die fünf
+
+154
+00:05:54,180 --> 00:05:55,900
+zerlegen wichtig Wichtig ist, dass
+
+155
+00:05:55,900 --> 00:05:58,120
+wir dann minus 10 und minus 5
+
+156
+00:05:58,120 --> 00:06:01,120
+rechnen. Genauso wie, hier haben wir
+
+157
+00:06:01,120 --> 00:06:01,960
+eigentlich das Gegen-, das
+
+158
+00:06:01,960 --> 00:06:05,300
+Umkehrbeispiel, wir haben 7, minus 2,
+
+159
+00:06:05,400 --> 00:06:07,680
+minus 1. Und wir sehen, wir gehen
+
+160
+00:06:07,680 --> 00:06:09,060
+erst 2 in die Richtung und dann
+
+161
+00:06:09,060 --> 00:06:10,680
+nochmal 1. Das heißt, insgesamt sind
+
+162
+00:06:10,680 --> 00:06:12,500
+wir 3 Schritte nach links gegangen.
+
+163
+00:06:14,770 --> 00:06:16,710
+Hier gehen wir jetzt, oder gingen wir
+
+164
+00:06:16,710 --> 00:06:19,530
+insgesamt 15 Schritte nach links. Und
+
+165
+00:06:19,530 --> 00:06:20,890
+diese können wir aufteilen, indem wir
+
+166
+00:06:20,890 --> 00:06:22,870
+erstmal 10 gehen und dann nochmal 5.
+
+167
+00:06:22,870 --> 00:06:26,450
+Der Vorteil dabei ist, immer wenn ihr
+
+168
+00:06:26,450 --> 00:06:29,690
+eine 10er Zahl addiert oder
+
+169
+00:06:29,690 --> 00:06:30,870
+subtrahiert, ist die Rechnung
+
+170
+00:06:30,870 --> 00:06:33,250
+verhältnismäßig einfach. Das heißt,
+
+171
+00:06:33,370 --> 00:06:35,750
+22 minus 10 ist wesentlich einfacher
+
+172
+00:06:35,750 --> 00:06:38,890
+zu berechnen als 22 minus 15. Das
+
+173
+00:06:38,890 --> 00:06:39,950
+geht schon in die Richtung
+
+174
+00:06:39,950 --> 00:06:43,030
+vorteilhaftes Rechnen. 22 minus 10
+
+175
+00:06:43,030 --> 00:06:45,830
+ist nämlich 12, einfach ein 10er
+
+176
+00:06:45,830 --> 00:06:48,510
+weniger. Und jetzt müssen wir nur
+
+177
+00:06:48,510 --> 00:06:51,470
+noch 12 minus 5 berechnen. Das heißt,
+
+178
+00:06:51,550 --> 00:06:52,890
+unsere Zahl ist schon wesentlich
+
+179
+00:06:52,890 --> 00:06:54,510
+kleiner geworden und wir könnten
+
+180
+00:06:54,510 --> 00:06:56,510
+jetzt sogar eher einen Zahlenstrahl
+
+181
+00:06:56,510 --> 00:06:57,850
+nochmal verwenden, wenn wir wirklich
+
+182
+00:06:57,850 --> 00:07:01,710
+Probleme hätten. Wir können das jetzt
+
+183
+00:07:01,710 --> 00:07:03,930
+aber hier so im Kopf, 12 minus 5 sind
+
+184
+00:07:03,930 --> 00:07:08,070
+dann entsprechend 7. Man könnte sich
+
+185
+00:07:08,070 --> 00:07:09,630
+das Ganze natürlich auch wieder mit
+
+186
+00:07:09,630 --> 00:07:11,830
+den Kreisen vorstellen. Wir haben
+
+187
+00:07:11,830 --> 00:07:14,970
+hier links 22 Kreise insgesamt, hier
+
+188
+00:07:14,970 --> 00:07:17,390
+5 mal 4, das wären 20 und die 2 noch
+
+189
+00:07:17,390 --> 00:07:20,470
+dazu, also 22. Hier haben wir 5 mal
+
+190
+00:07:20,470 --> 00:07:23,370
+3, also 15. Und jetzt kann man das
+
+191
+00:07:23,370 --> 00:07:24,590
+Ganze natürlich pickchenweise
+
+192
+00:07:24,590 --> 00:07:26,990
+betrachten. Das heißt, wir haben hier
+
+193
+00:07:26,990 --> 00:07:28,670
+in einer Zeile, also hier oben, immer
+
+194
+00:07:28,670 --> 00:07:30,530
+gleich viele Kreise stehen. Deswegen
+
+195
+00:07:30,530 --> 00:07:33,910
+können wir das wegstreichen, das
+
+196
+00:07:33,910 --> 00:07:35,850
+wegstreichen, das wegstreichen. Und
+
+197
+00:07:35,850 --> 00:07:38,690
+übrig bleiben dann 5 plus 2, also 7.
+
+198
+00:07:39,850 --> 00:07:41,850
+Ja, so kann man sich das auch
+
+199
+00:07:41,850 --> 00:07:45,110
+vorstellen. Das schönere Mittel bei
+
+200
+00:07:45,110 --> 00:07:46,630
+sowas ist natürlich die schriftliche
+
+201
+00:07:46,630 --> 00:07:51,580
+Subtraktion. Ähm, Subtraktionen von
+
+202
+00:07:51,580 --> 00:07:52,920
+kleinen Zahlen, haben wir gerade
+
+203
+00:07:52,920 --> 00:07:54,320
+gesehen, gehen oftmals auch noch im
+
+204
+00:07:54,320 --> 00:07:56,260
+Kopf. Wenn die Zahlen aber größer
+
+205
+00:07:56,260 --> 00:07:57,800
+werden oder man Probleme beim
+
+206
+00:07:57,800 --> 00:07:59,540
+Subtrahieren hat, bietet sich die
+
+207
+00:07:59,540 --> 00:08:01,200
+schriftliche Subtraktion natürlich
+
+208
+00:08:01,200 --> 00:08:05,360
+an. Ähm, sie ist gerade vorteilhaft,
+
+209
+00:08:05,380 --> 00:08:07,100
+wenn man mehr als zwei Subtrahenten
+
+210
+00:08:07,100 --> 00:08:09,500
+hat. Ja, dazu sehen wir gleich auch
+
+211
+00:08:09,500 --> 00:08:11,460
+noch ein Beispiel. Oder halt einfach
+
+212
+00:08:11,460 --> 00:08:13,460
+bei großen Zahlen. Das Schöne ist,
+
+213
+00:08:13,560 --> 00:08:15,740
+die schriftliche Subtraktion wird
+
+214
+00:08:15,740 --> 00:08:17,380
+eigentlich nicht komplizierter mit
+
+215
+00:08:17,380 --> 00:08:19,700
+größer werdenden Zahlen. Man braucht
+
+216
+00:08:19,700 --> 00:08:20,760
+einfach nur länger, weil man mehr
+
+217
+00:08:20,760 --> 00:08:22,420
+Ziffern hat. Das ist ein ganz großer
+
+218
+00:08:22,420 --> 00:08:25,520
+Vorteil. Das heißt, wenn man die
+
+219
+00:08:25,520 --> 00:08:26,820
+schriftliche Subtraktion auch mit
+
+220
+00:08:26,820 --> 00:08:28,780
+kleinen Zahlen gut beherrscht, wird
+
+221
+00:08:28,780 --> 00:08:30,440
+man sich auch bei großen Zahlen nicht
+
+222
+00:08:30,440 --> 00:08:32,840
+schwer tun. Deswegen haben wir auch
+
+223
+00:08:32,840 --> 00:08:34,000
+am Ende dazu noch ein kleines
+
+224
+00:08:34,000 --> 00:08:36,660
+Beispiel. Gut, wir betrachten erstmal
+
+225
+00:08:36,660 --> 00:08:39,700
+das Beispiel 24-13. Das erste, was
+
+226
+00:08:39,700 --> 00:08:40,840
+wir machen, ist, wir schreiben unser
+
+227
+00:08:40,840 --> 00:08:42,840
+Minuenden nach ganz oben und dann
+
+228
+00:08:42,840 --> 00:08:45,940
+unseren Subtrahenden bzw. wenn wir
+
+229
+00:08:45,940 --> 00:08:48,400
+mehrere haben, alle Subtrahenden
+
+230
+00:08:48,400 --> 00:08:50,920
+darunter. Wichtig ist, dass die Einer
+
+231
+00:08:50,920 --> 00:08:52,540
+unter den Einer stehen und die Zehner
+
+232
+00:08:52,540 --> 00:08:55,860
+unter den Zehner. Und dann führen wir
+
+233
+00:08:55,860 --> 00:08:57,180
+die Rechnung einfach immer nur für
+
+234
+00:08:57,180 --> 00:08:58,380
+die Zahlen aus, die übereinander
+
+235
+00:08:58,380 --> 00:09:02,740
+stehen. Das heißt, 4 minus 3 ist 1.
+
+236
+00:09:02,960 --> 00:09:04,300
+Dann schreiben wir unten eine 1 hin.
+
+237
+00:09:04,360 --> 00:09:08,760
+2 minus 1 ist auch eine 1. dann steht
+
+238
+00:09:08,760 --> 00:09:10,040
+hier unten unser Ergebnis, wenn wir
+
+239
+00:09:10,040 --> 00:09:11,300
+das mit allen Ziffern gemacht haben.
+
+240
+00:09:11,380 --> 00:09:13,300
+Das Problem, was natürlich entsteht,
+
+241
+00:09:13,300 --> 00:09:15,520
+wir hatten jetzt hier den Fall, wir
+
+242
+00:09:15,520 --> 00:09:17,360
+hatten immer unten eine kleinere Zahl
+
+243
+00:09:17,360 --> 00:09:18,920
+stehen als hier drüber. Deswegen
+
+244
+00:09:18,920 --> 00:09:20,500
+konnten wir immer ohne Probleme die
+
+245
+00:09:20,500 --> 00:09:21,600
+Differenz bilden, also die
+
+246
+00:09:21,600 --> 00:09:24,540
+Subtraktion ausführen. Anders sieht
+
+247
+00:09:24,540 --> 00:09:27,900
+es aus, wenn wir mal unten eine Zahl
+
+248
+00:09:27,900 --> 00:09:30,360
+stehen haben, die größer ist als die
+
+249
+00:09:30,360 --> 00:09:31,700
+des Minumenten. Also hier haben wir
+
+250
+00:09:31,700 --> 00:09:33,420
+die 3 oben stehen, unten die 5. und
+
+251
+00:09:33,420 --> 00:09:34,700
+jetzt kommen wir nämlich zu einem
+
+252
+00:09:34,700 --> 00:09:37,800
+Problem. 3 minus 5, was ist das? Und
+
+253
+00:09:37,800 --> 00:09:39,040
+jetzt sind wir nämlich bei diesem
+
+254
+00:09:39,040 --> 00:09:41,840
+sogenannten Zehnerübergang. Und immer
+
+255
+00:09:41,840 --> 00:09:42,880
+wenn ihr so einen Zehnerübergang
+
+256
+00:09:42,880 --> 00:09:43,840
+habt, das nehme ich jetzt vorweg,
+
+257
+00:09:43,920 --> 00:09:45,600
+schreibt ihr danach bitte so eine 1
+
+258
+00:09:45,600 --> 00:09:46,580
+unten hin, damit ihr ihn nicht
+
+259
+00:09:46,580 --> 00:09:50,240
+vergesst. Die Frage beim
+
+260
+00:09:50,240 --> 00:09:51,860
+schriftlichen Subtrahieren ist es ja
+
+261
+00:09:51,860 --> 00:09:53,700
+immer, wie weit ist es von der
+
+262
+00:09:53,700 --> 00:09:55,960
+unteren bis zur nächsten oberen Zahl?
+
+263
+00:09:55,960 --> 00:09:58,080
+Das heißt, wie weit ist es von der 5
+
+264
+00:09:58,080 --> 00:10:01,720
+bis zur 3? Das geht ja nicht, weil
+
+265
+00:10:01,720 --> 00:10:05,120
+die 3 ist ja kleiner als die 5. Daher
+
+266
+00:10:05,120 --> 00:10:07,300
+stellen wir uns die Frage, wie weit
+
+267
+00:10:07,300 --> 00:10:10,840
+ist es von der 5 bis zur 13? Wir
+
+268
+00:10:10,840 --> 00:10:14,380
+schreiben also eine 1 daneben. Das
+
+269
+00:10:14,380 --> 00:10:16,820
+heißt, wie weit ist es von der 5 bis
+
+270
+00:10:16,820 --> 00:10:20,100
+zur 13? Das geht. 13 minus 5 können
+
+271
+00:10:20,100 --> 00:10:22,860
+wir berechnen, das ist 8. Das heißt,
+
+272
+00:10:22,900 --> 00:10:24,220
+wir können jetzt das Ergebnis 8 hier
+
+273
+00:10:24,220 --> 00:10:25,460
+drunter schreiben. Wichtig ist, in
+
+274
+00:10:25,460 --> 00:10:27,400
+dem Moment, wo wir hier oben eine 1
+
+275
+00:10:27,400 --> 00:10:30,300
+davor gemacht haben, also 13 minus 5
+
+276
+00:10:30,300 --> 00:10:32,580
+rechnen, müssen wir diese 1 auch
+
+277
+00:10:32,580 --> 00:10:33,880
+wieder hier links bei der
+
+278
+00:10:33,880 --> 00:10:35,560
+nächsthöheren, also in dem Fall bei
+
+279
+00:10:35,560 --> 00:10:38,880
+den Zehnern, mitberechnen. Das ist
+
+280
+00:10:38,880 --> 00:10:41,800
+diese 1 im Sinn. Die wird, wie
+
+281
+00:10:41,800 --> 00:10:44,040
+gesagt, bei der nächsten Ziffer unten
+
+282
+00:10:44,040 --> 00:10:46,040
+im Subtrahenden hinzuaddiert. Das
+
+283
+00:10:46,040 --> 00:10:47,420
+heißt, wir haben jetzt in der
+
+284
+00:10:47,420 --> 00:10:50,020
+nächsten Ziffer 3 minus 1 minus 1
+
+285
+00:10:50,020 --> 00:10:56,820
+oder 3 minus 2. Ja, das 3 minus 1
+
+286
+00:10:56,820 --> 00:10:58,480
+minus 1 kann man auch schreiben als 3
+
+287
+00:10:58,480 --> 00:11:01,480
+minus Klammer auf 1 plus 1. Man kann
+
+288
+00:11:01,480 --> 00:11:03,000
+die Subtrahenden zusammenfassen,
+
+289
+00:11:03,020 --> 00:11:05,780
+indem man sie addiert und dann kann
+
+290
+00:11:05,780 --> 00:11:07,080
+man sie als ein Subtrahend
+
+291
+00:11:07,080 --> 00:11:08,820
+betrachten. Deswegen kann man rechnen
+
+292
+00:11:08,820 --> 00:11:12,500
+3 minus 2 und das ist 1. Folglich
+
+293
+00:11:12,500 --> 00:11:13,700
+steht hier dann eine 1 und das
+
+294
+00:11:13,700 --> 00:11:17,060
+Ergebnis aus 33 minus 15 ist 18. 18.
+
+295
+00:11:17,880 --> 00:11:19,840
+Wichtig ist wie gesagt nur, dass ihr
+
+296
+00:11:19,840 --> 00:11:21,880
+diese 1 im Sinn, diese Überträge,
+
+297
+00:11:21,960 --> 00:11:24,820
+immer dahin schreibt, damit eure
+
+298
+00:11:24,820 --> 00:11:26,380
+Lehrer sehen, was ihr macht und damit
+
+299
+00:11:26,380 --> 00:11:27,160
+ihr auch eine gewisse
+
+300
+00:11:27,160 --> 00:11:28,600
+Übersichtlichkeit habt und euer
+
+301
+00:11:28,600 --> 00:11:29,360
+Ergebnis vielleicht nochmal
+
+302
+00:11:29,360 --> 00:11:30,140
+kontrollieren könnt.
+
+303
+00:11:33,420 --> 00:11:35,300
+Wir sehen hier noch ein Beispiel
+
+304
+00:11:35,300 --> 00:11:40,420
+dazu. Wir haben 152 minus 77. Wichtig
+
+305
+00:11:40,420 --> 00:11:41,700
+hier ist schon mal, wir sehen, wir
+
+306
+00:11:41,700 --> 00:11:43,040
+haben unterschiedlich viele Ziffern.
+
+307
+00:11:43,200 --> 00:11:46,040
+Die 152 hat drei Ziffern, die 77 nur
+
+308
+00:11:46,040 --> 00:11:48,580
+zwei. und wichtig ist, wie schon
+
+309
+00:11:48,580 --> 00:11:50,780
+gesagt, immer wenn ihr schriftlich
+
+310
+00:11:50,780 --> 00:11:52,220
+addiert oder subtrahiert, wir
+
+311
+00:11:52,220 --> 00:11:54,540
+subtrahieren hier aber nur, müssen
+
+312
+00:11:54,540 --> 00:11:56,280
+die Einer unter den Einern, die
+
+313
+00:11:56,280 --> 00:11:57,720
+Zehner unter den Zehnern und die
+
+314
+00:11:57,720 --> 00:11:58,740
+Hunderter unter den Hundertern
+
+315
+00:11:58,740 --> 00:12:00,860
+stehen. Das heißt, wir schreiben
+
+316
+00:12:00,860 --> 00:12:03,540
+jetzt die 2 über die 7, die 5 über
+
+317
+00:12:03,540 --> 00:12:05,460
+die zweite 7 und die 1 steht alleine,
+
+318
+00:12:05,560 --> 00:12:07,280
+darunter steht nichts, weil die 1
+
+319
+00:12:07,280 --> 00:12:09,260
+sind Hunderter und die 77 hat keine
+
+320
+00:12:09,260 --> 00:12:12,260
+Hunderter. So kommen wir zu dieser
+
+321
+00:12:12,260 --> 00:12:13,560
+Rechnung und wir führen jetzt einfach
+
+322
+00:12:13,560 --> 00:12:15,080
+mal aus. Wir würden als erstes
+
+323
+00:12:15,080 --> 00:12:17,960
+rechnen 2 minus 7. Das geht wieder
+
+324
+00:12:17,960 --> 00:12:19,620
+nicht, deswegen brauchen wir eine 1.
+
+325
+00:12:20,000 --> 00:12:24,680
+Dann haben wir 12 minus 7, das sind 5
+
+326
+00:12:24,680 --> 00:12:26,360
+Schritte, beziehungsweise 12 minus 7.
+
+327
+00:12:30,850 --> 00:12:33,430
+Jetzt haben wir 5 minus 7 minus 1,
+
+328
+00:12:33,570 --> 00:12:38,150
+also 5 minus 8. Denn 7 plus 7 plus
+
+329
+00:12:38,150 --> 00:12:39,890
+die 1 sind ja 8, deswegen rechnen wir
+
+330
+00:12:39,890 --> 00:12:42,410
+5 minus 8. Das geht schon wieder
+
+331
+00:12:42,410 --> 00:12:43,870
+nicht. Deswegen müssen wir wieder
+
+332
+00:12:43,870 --> 00:12:47,670
+eine 1 uns holen. Also haben wir 15
+
+333
+00:12:47,670 --> 00:12:52,350
+minus 8. 15 minus 8 ist 7, das heißt
+
+334
+00:12:52,350 --> 00:12:54,330
+die 7 schreiben wir hier hin. Und wir
+
+335
+00:12:54,330 --> 00:12:55,130
+dürfen jetzt auch wieder nicht
+
+336
+00:12:55,130 --> 00:12:56,330
+vergessen, wir müssen wieder unseren
+
+337
+00:12:56,330 --> 00:12:58,150
+Übertrag schaffen. Und jetzt haben
+
+338
+00:12:58,150 --> 00:13:00,690
+wir hier hinten 1 minus 0, wenn wir
+
+339
+00:13:00,690 --> 00:13:03,390
+so wollen, minus 1. Das heißt wir
+
+340
+00:13:03,390 --> 00:13:07,430
+haben 1 minus 1 und das ist 0. Das
+
+341
+00:13:07,430 --> 00:13:11,050
+Ergebnis aus 152 minus 77 ist dann
+
+342
+00:13:11,050 --> 00:13:14,950
+also... So funktioniert das Ganze.
+
+343
+00:13:17,130 --> 00:13:18,790
+Kommen wir zu dem, was ich vorhin
+
+344
+00:13:18,790 --> 00:13:20,130
+gesagt habe, dass wenn wir mit
+
+345
+00:13:20,130 --> 00:13:21,890
+mehreren Zahlen subtrahieren, dass
+
+346
+00:13:21,890 --> 00:13:23,610
+wir die Subtrahenden zusammenziehen
+
+347
+00:13:23,610 --> 00:13:27,150
+können zu einem Subtrahend. Wir haben
+
+348
+00:13:27,150 --> 00:13:30,770
+hier das Beispiel 351 minus 42 minus
+
+349
+00:13:30,770 --> 00:13:34,590
+12 minus 105. Die 351 ist hier unser
+
+350
+00:13:34,590 --> 00:13:36,730
+Minuend. Und das sind hier drei
+
+351
+00:13:36,730 --> 00:13:39,430
+Subtrahenden. Und diese können wir
+
+352
+00:13:39,430 --> 00:13:40,830
+zusammenziehen, indem wir sie alle
+
+353
+00:13:40,830 --> 00:13:43,410
+addieren. Und dann mit dem
+
+354
+00:13:43,410 --> 00:13:45,590
+entstehenden Subtrahenden
+
+355
+00:13:45,590 --> 00:13:47,770
+subtrahieren. Das heißt, wir rechnen
+
+356
+00:13:47,770 --> 00:13:50,990
+als erstes einmal 42 plus 12 plus
+
+357
+00:13:50,990 --> 00:13:52,550
+105. Das sehen wir hier, das machen
+
+358
+00:13:52,550 --> 00:13:54,290
+wir schriftlich. Wiederholen wir
+
+359
+00:13:54,290 --> 00:13:55,150
+nochmal kurz das schriftliche
+
+360
+00:13:55,150 --> 00:13:56,470
+Addieren. Beim schriftlichen Addieren
+
+361
+00:13:56,470 --> 00:13:58,170
+ist auch ganz wichtig, dass die
+
+362
+00:13:58,170 --> 00:13:59,470
+Zehner unter den Zehnern und die
+
+363
+00:13:59,470 --> 00:14:01,230
+Einer unter den Einern stehen, sowie
+
+364
+00:14:01,230 --> 00:14:02,470
+die Hunderter unter den Hundertern.
+
+365
+00:14:02,470 --> 00:14:04,170
+Das heißt, das haben wir einmal
+
+366
+00:14:04,170 --> 00:14:05,650
+gemacht und jetzt addieren wir
+
+367
+00:14:05,650 --> 00:14:06,750
+einfach alle Zahlen, die
+
+368
+00:14:06,750 --> 00:14:08,490
+untereinander stehen. Also 2 plus 2
+
+369
+00:14:08,490 --> 00:14:11,950
+plus 5 ist 9, 4 plus 1 plus 0 ist 5
+
+370
+00:14:11,950 --> 00:14:14,870
+und 0 plus 1 ist eben 1. Das heißt,
+
+371
+00:14:14,950 --> 00:14:17,310
+diese drei Zahlen haben die Summe
+
+372
+00:14:17,310 --> 00:14:22,410
+159. Das heißt, unser Subtrahent, den
+
+373
+00:14:22,410 --> 00:14:26,270
+wir betrachten, ist 159. Wir könnten
+
+374
+00:14:26,270 --> 00:14:28,470
+also alternativ zu dem hier rechnen
+
+375
+00:14:28,470 --> 00:14:35,290
+351 minus 109. Und so können wir die
+
+376
+00:14:35,290 --> 00:14:36,510
+Rechnung etwas übersichtlicher
+
+377
+00:14:36,510 --> 00:14:40,450
+gestalten. Jetzt rechnen wir, führen
+
+378
+00:14:40,450 --> 00:14:41,470
+wir einfach die schriftliche
+
+379
+00:14:41,470 --> 00:14:43,650
+Subtraktion aus, das heißt 1 minus 9.
+
+380
+00:14:44,330 --> 00:14:45,590
+Das geht wieder nicht, deswegen
+
+381
+00:14:45,590 --> 00:14:46,710
+müssen wir uns eine 1 holen, dann
+
+382
+00:14:46,710 --> 00:14:49,210
+haben wir 11 minus 9, das sind 2, den
+
+383
+00:14:49,210 --> 00:14:50,590
+einen Übertrag bitte nicht vergessen.
+
+384
+00:14:50,870 --> 00:14:53,370
+Dann haben wir 5 minus 5 minus 1,
+
+385
+00:14:53,570 --> 00:14:56,510
+also 5 minus 6. Das geht eigentlich
+
+386
+00:14:56,510 --> 00:14:57,410
+schon wieder nicht, deswegen müssen
+
+387
+00:14:57,410 --> 00:14:59,890
+wir uns wieder eine 1 holen. 15 minus
+
+388
+00:14:59,890 --> 00:15:02,650
+6, das funktioniert, das sind nämlich
+
+389
+00:15:02,650 --> 00:15:05,070
+9. Jetzt müssen wir uns wieder einen
+
+390
+00:15:05,070 --> 00:15:07,730
+Übertrag holen. Dann haben wir 3
+
+391
+00:15:07,730 --> 00:15:11,050
+minus 1 minus 1, das ist 3 minus 2
+
+392
+00:15:11,050 --> 00:15:13,650
+und das ist 1. Und so kommen wir zu
+
+393
+00:15:13,650 --> 00:15:18,710
+der 192. Das heißt also, 351 minus 42
+
+394
+00:15:18,710 --> 00:15:22,570
+minus 12 minus 105 ist 192.
+
+395
+00:15:24,210 --> 00:15:26,310
+Wie gesagt, wenn man die Subtra
+
+396
+00:15:26,310 --> 00:15:27,630
+hinten erst so zusammenfasst, zu
+
+397
+00:15:27,630 --> 00:15:29,590
+einem subtrahieren, dann ist das
+
+398
+00:15:29,590 --> 00:15:30,790
+Ganze ein bisschen übersichtlicher.
+
+399
+00:15:33,060 --> 00:15:35,160
+Und dabei wären wir auch schon bei
+
+400
+00:15:35,160 --> 00:15:36,600
+unserem letzten Beispiel. Wir sehen
+
+401
+00:15:36,600 --> 00:15:39,180
+hier unten eine recht große Zahl. Und
+
+402
+00:15:39,180 --> 00:15:41,100
+ich hatte vorhin ja mal gesagt, dass
+
+403
+00:15:41,100 --> 00:15:43,020
+die schriftliche Subtraktion
+
+404
+00:15:43,020 --> 00:15:44,280
+eigentlich nicht schwieriger wird,
+
+405
+00:15:44,360 --> 00:15:46,620
+wenn die Zahlen größer werden. Und
+
+406
+00:15:46,620 --> 00:15:47,760
+das ist ein schönes Beispiel dazu.
+
+407
+00:15:47,840 --> 00:15:49,560
+Wir sehen hier eine Zahl mit sieben
+
+408
+00:15:49,560 --> 00:15:52,300
+Ziffern bzw. mit sechs Ziffern. Das
+
+409
+00:15:52,300 --> 00:15:53,500
+heißt, die obere ist schon im
+
+410
+00:15:53,500 --> 00:15:56,120
+Millionenbereich. und wir
+
+411
+00:15:56,120 --> 00:15:57,460
+subtrahieren die beiden Zahlen jetzt
+
+412
+00:15:57,460 --> 00:15:58,580
+voneinander. Das Schöne dabei ist,
+
+413
+00:15:58,620 --> 00:16:00,540
+wie gesagt, das Prinzip ändert sich
+
+414
+00:16:00,540 --> 00:16:02,620
+nicht. Wir verrechnen immer die
+
+415
+00:16:02,620 --> 00:16:03,600
+Zahlen, die übereinander stehen,
+
+416
+00:16:03,660 --> 00:16:05,100
+beziehungsweise in dem Fall 1 minus
+
+417
+00:16:05,100 --> 00:16:07,860
+7. Das ist mal wieder der Fall. Das
+
+418
+00:16:07,860 --> 00:16:08,960
+geht nicht, deswegen holen wir uns
+
+419
+00:16:08,960 --> 00:16:10,280
+wieder eine 1 hoch. Dann haben wir 11
+
+420
+00:16:10,280 --> 00:16:12,980
+minus 7. Das ist die 4. Den einen
+
+421
+00:16:12,980 --> 00:16:16,000
+Übertrag nicht vergessen. 5 minus 1
+
+422
+00:16:16,000 --> 00:16:19,520
+ist eine 4. 4. Nehmen wir die nächste
+
+423
+00:16:19,520 --> 00:16:22,580
+Ziffer. 6 minus 2, das ist auch eine
+
+424
+00:16:22,580 --> 00:16:26,580
+4. 5 minus 1, das ist auch eine 4. 1
+
+425
+00:16:26,580 --> 00:16:28,020
+minus 2, haben wir wieder das
+
+426
+00:16:28,020 --> 00:16:30,360
+Problem, dass es nicht geht, weil die
+
+427
+00:16:30,360 --> 00:16:31,440
+obere Zahl kleiner ist als die
+
+428
+00:16:31,440 --> 00:16:32,900
+untere. Deswegen holen wir uns die 1
+
+429
+00:16:32,900 --> 00:16:34,580
+wieder rüber. Also haben wir 11 minus
+
+430
+00:16:34,580 --> 00:16:37,240
+2, das ist eine 9. Auch hier bitte
+
+431
+00:16:37,240 --> 00:16:38,620
+den Übertrag nicht vergessen. Dann
+
+432
+00:16:38,620 --> 00:16:41,420
+haben wir 5 minus 4 minus 1, das ist,
+
+433
+00:16:41,500 --> 00:16:43,260
+wie wir gerade gelernt haben, 5 minus
+
+434
+00:16:43,260 --> 00:16:47,540
+5 und das ist 0. Und jetzt haben wir
+
+435
+00:16:47,540 --> 00:16:50,480
+3 minus 0, das ist 3. Das heißt, das
+
+436
+00:16:50,480 --> 00:16:52,980
+hier ist die Differenz aus den beiden
+
+437
+00:16:52,980 --> 00:16:55,580
+Zahlen. Ihr seht also, das Prinzip
+
+438
+00:16:55,580 --> 00:16:57,240
+ändert sich nicht. Achtet bitte nur
+
+439
+00:16:57,240 --> 00:16:59,740
+immer auf die Überträge und dann
+
+440
+00:16:59,740 --> 00:17:01,600
+rechnet ihr einfach wie immer von
+
+441
+00:17:01,600 --> 00:17:06,220
+rechts nach links. Damit wären wir
+
+442
+00:17:06,220 --> 00:17:07,740
+auch schon am Ende des Webinars. Ich
+
+443
+00:17:07,740 --> 00:17:09,640
+bedanke mich für eure Aufmerksamkeit.
+

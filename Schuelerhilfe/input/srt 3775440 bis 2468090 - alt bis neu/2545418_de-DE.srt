@@ -1,0 +1,3340 @@
+1
+00:00:02,580 --> 00:00:04,140
+Hallo und herzlich willkommen. Mein
+
+2
+00:00:04,140 --> 00:00:06,000
+Name ist Elena und ich mache heute
+
+3
+00:00:06,000 --> 00:00:08,400
+das Webinar von der Schülerhilfe der
+
+4
+00:00:08,400 --> 00:00:11,140
+Abiturreihe Deutsch zum Thema Analyse
+
+5
+00:00:11,140 --> 00:00:12,920
+von Gedichten, Sprache, Satzbau,
+
+6
+00:00:12,980 --> 00:00:15,520
+Wortwahl und Bildlichkeit Teil 2. Um
+
+7
+00:00:15,520 --> 00:00:17,420
+19 Uhr gab es schon eins, das war
+
+8
+00:00:17,420 --> 00:00:19,380
+Teil 1, jetzt ist Teil 2 in der
+
+9
+00:00:19,380 --> 00:00:21,100
+Reihe. Ich werde jetzt gleich die
+
+10
+00:00:21,100 --> 00:00:22,660
+Folien vorstellen, was dazu erklären.
+
+11
+00:00:23,720 --> 00:00:25,900
+Genau, wenn ihr Fragen habt, fragt
+
+12
+00:00:25,900 --> 00:00:27,280
+gerne, schreibt gerne hier unten in
+
+13
+00:00:27,280 --> 00:00:30,060
+die Chatbox. Dann sehe ich das, dann
+
+14
+00:00:30,060 --> 00:00:30,760
+kann ich gerne die Fragen
+
+15
+00:00:30,760 --> 00:00:32,040
+beantworten. Ihr könnt zwischendurch
+
+16
+00:00:32,040 --> 00:00:33,660
+Fragen stellen. Ihr könnt aber auch
+
+17
+00:00:33,660 --> 00:00:34,880
+am Ende nochmal Fragen stellen. Dann
+
+18
+00:00:34,880 --> 00:00:35,880
+kann ich auch nochmal ein paar Folien
+
+19
+00:00:35,880 --> 00:00:37,340
+immer zurückgehen. Sagt einfach
+
+20
+00:00:37,340 --> 00:00:39,380
+Bescheid. So, dann lege ich mal los.
+
+21
+00:00:39,500 --> 00:00:40,900
+Wie gesagt, Sprache, Satzbau,
+
+22
+00:00:40,940 --> 00:00:44,400
+Wortwahl und Bildlichkeit Teil 2. So,
+
+23
+00:00:44,460 --> 00:00:45,700
+was werden wir uns heute angucken?
+
+24
+00:00:45,840 --> 00:00:47,900
+Wir werden uns heute den Satzbau,
+
+25
+00:00:48,000 --> 00:00:49,100
+Wortwahl und Bildlichkeit angucken
+
+26
+00:00:49,100 --> 00:00:50,780
+und einmal Regeln zur Analyse von
+
+27
+00:00:50,780 --> 00:00:54,440
+Gedichten. So, Satzbau, Wortwahl und
+
+28
+00:00:54,440 --> 00:00:56,880
+Bildlichkeit. Typische
+
+29
+00:00:56,880 --> 00:00:58,600
+Aufgabenstellungen dazu könnten sein,
+
+30
+00:00:58,740 --> 00:01:00,400
+analysieren Sie die Besonderheiten
+
+31
+00:01:00,400 --> 00:01:02,100
+der Bildwahl und des Satzbaus,
+
+32
+00:01:02,760 --> 00:01:04,320
+interpretieren Sie das Gedicht unter
+
+33
+00:01:04,320 --> 00:01:06,160
+Berücksichtigung der Bildhaftigkeit
+
+34
+00:01:06,160 --> 00:01:08,760
+und analysieren Sie das Gedicht im
+
+35
+00:01:08,760 --> 00:01:10,780
+Hinblick auf seine Epochenmerkmale.
+
+36
+00:01:11,720 --> 00:01:13,760
+Genau, das sind halt mögliche
+
+37
+00:01:13,760 --> 00:01:15,220
+Aufgabenstellungen, auf die ihr
+
+38
+00:01:15,220 --> 00:01:17,460
+treffen könntet in eurer nächsten
+
+39
+00:01:17,460 --> 00:01:18,860
+Klausur. oder im Abitur.
+
+40
+00:01:21,060 --> 00:01:23,320
+Grundlegendes jetzt erstmal. Gedichte
+
+41
+00:01:23,320 --> 00:01:25,100
+enthalten in einem Minimum von Text
+
+42
+00:01:25,100 --> 00:01:27,960
+ein Maximum an Aussage. Ist ein
+
+43
+00:01:27,960 --> 00:01:29,880
+grundlegendes Prinzip von Gedichten
+
+44
+00:01:29,880 --> 00:01:31,700
+generell. Also ganz, ganz wenig Text,
+
+45
+00:01:31,820 --> 00:01:33,740
+aber die haben wirklich viel
+
+46
+00:01:33,740 --> 00:01:36,160
+Bedeutung. Satzbau, Wortwahl und
+
+47
+00:01:36,160 --> 00:01:37,920
+Bildlichkeit führen zu einer hohen
+
+48
+00:01:37,920 --> 00:01:39,820
+Bedeutungskonzentration. Also
+
+49
+00:01:39,820 --> 00:01:41,720
+dadurch, dass halt wenig Text ist,
+
+50
+00:01:41,780 --> 00:01:43,660
+muss diese Konzentration oder diese
+
+51
+00:01:43,660 --> 00:01:45,620
+Bedeutung, und dieses Maximum
+
+52
+00:01:45,620 --> 00:01:47,200
+Aussagen irgendwie anders geschaffen
+
+53
+00:01:47,200 --> 00:01:48,860
+werden. Und das wird dann halt durch
+
+54
+00:01:48,860 --> 00:01:51,720
+den Satzbau, wie die Sätze aufgebaut
+
+55
+00:01:51,720 --> 00:01:52,960
+sind, durch die Wortwahl, welche
+
+56
+00:01:52,960 --> 00:01:54,120
+Wörter man benutzt und durch die
+
+57
+00:01:54,120 --> 00:01:56,040
+Bildlichkeit, ja, ob man zum Beispiel
+
+58
+00:01:56,040 --> 00:01:57,740
+Metaphern benutzt, halt hergestellt.
+
+59
+00:01:59,200 --> 00:02:00,300
+Untersuchung der sprachlichen
+
+60
+00:02:00,300 --> 00:02:01,780
+Gestaltungsmittel als besonderer
+
+61
+00:02:01,780 --> 00:02:02,420
+Schwerpunkt jeder
+
+62
+00:02:02,420 --> 00:02:04,380
+Gedichtsanalyseinterpretation. Also
+
+63
+00:02:04,380 --> 00:02:06,800
+diese, genau, sprachliche Analyse,
+
+64
+00:02:06,800 --> 00:02:09,400
+zum Beispiel Alliteration, Anapha,
+
+65
+00:02:09,680 --> 00:02:12,700
+Metapha, Parallelismus, all das
+
+66
+00:02:12,700 --> 00:02:14,320
+gehört halt dazu zu diesen
+
+67
+00:02:14,320 --> 00:02:16,520
+sprachlichen Gestaltungsmitteln, die
+
+68
+00:02:16,520 --> 00:02:18,400
+halt generell der Schwerpunkt von
+
+69
+00:02:18,400 --> 00:02:21,600
+jeder Gedichtsanalyse ist. Es gibt
+
+70
+00:02:21,600 --> 00:02:23,100
+zwei Ordnungssysteme, Sätze und
+
+71
+00:02:23,100 --> 00:02:24,440
+Verszeile, die in der Kombination
+
+72
+00:02:24,440 --> 00:02:26,060
+verschiedene Wirkungsmöglichkeiten
+
+73
+00:02:26,060 --> 00:02:30,340
+aufweisen. Genau. So, Verszeilen und
+
+74
+00:02:30,340 --> 00:02:33,760
+Sätze, Zeilenstil. Verszeilen stimmen
+
+75
+00:02:33,760 --> 00:02:35,840
+mit dem Satzbau überein, unterstützen
+
+76
+00:02:35,840 --> 00:02:38,200
+die Gliederung der Satzteile. Am Ende
+
+77
+00:02:38,200 --> 00:02:40,220
+des Verses häufig Setzteilchen, am
+
+78
+00:02:40,220 --> 00:02:41,780
+Ende der Strophe ein Punkt.
+
+79
+00:02:42,640 --> 00:02:44,120
+Koordinierter und gleichmäßiger
+
+80
+00:02:44,120 --> 00:02:46,080
+Eindruck, im Normalfall Zeilenstil,
+
+81
+00:02:46,080 --> 00:02:47,840
+der den gedanklichen Aufbau der Sätze
+
+82
+00:02:47,840 --> 00:02:50,160
+unterstützt. Dann gibt es einen
+
+83
+00:02:50,160 --> 00:02:51,840
+Zeilensprung, ein sogenanntes
+
+84
+00:02:51,840 --> 00:02:54,720
+Enjambment. Versgrenze zerschneidet
+
+85
+00:02:54,720 --> 00:02:56,280
+Sinneinheit, indem zusammengehörende
+
+86
+00:02:56,280 --> 00:02:57,840
+Satzteile getrennt werden. Also
+
+87
+00:02:57,840 --> 00:02:58,880
+obwohl ein Satz eigentlich
+
+88
+00:02:58,880 --> 00:03:01,720
+weitergehen müsste, fängt es in der
+
+89
+00:03:01,720 --> 00:03:05,340
+nächsten Zeile erst weiter. Also es
+
+90
+00:03:05,340 --> 00:03:06,540
+müsste halt eigentlich ein langer
+
+91
+00:03:06,540 --> 00:03:08,040
+sein vom Sinn her, aber der wird
+
+92
+00:03:08,040 --> 00:03:08,860
+einmal in der Mitte oder so
+
+93
+00:03:08,860 --> 00:03:10,640
+durchgeschnitten und fängt dann in
+
+94
+00:03:10,640 --> 00:03:12,820
+der nächsten Zeile halt erst an.
+
+95
+00:03:13,580 --> 00:03:15,460
+Lesefluss geht dadurch ins Stocken.
+
+96
+00:03:15,580 --> 00:03:17,700
+Wörter am Versende sowie Versanfang
+
+97
+00:03:17,700 --> 00:03:19,880
+werden hervorgehoben. Steigerung der
+
+98
+00:03:19,880 --> 00:03:21,360
+Wirkung durch Enjambment zwischen
+
+99
+00:03:21,360 --> 00:03:24,340
+zwei. Also das ist halt die Wirkung.
+
+100
+00:03:30,460 --> 00:03:31,920
+Oder alle Verszeilen. in einer
+
+101
+00:03:31,920 --> 00:03:33,460
+Strophe enden mit einem Zeilensprung.
+
+102
+00:03:33,940 --> 00:03:36,420
+Der gesamte Satzbau wird dadurch
+
+103
+00:03:36,420 --> 00:03:38,480
+massiv gestört. Also wenn alle
+
+104
+00:03:38,480 --> 00:03:41,040
+Verszeilen halt wirklich mit einem
+
+105
+00:03:41,040 --> 00:03:43,820
+Zeilensprung enden, das stört halt
+
+106
+00:03:43,820 --> 00:03:47,080
+den Lesefluss total. Dadurch entsteht
+
+107
+00:03:47,080 --> 00:03:48,760
+halt ein unregel, disharmonischer
+
+108
+00:03:48,760 --> 00:03:50,460
+Eindruck. Dies widerspricht der
+
+109
+00:03:50,460 --> 00:03:51,600
+Lesererwartung und die
+
+110
+00:03:51,600 --> 00:03:53,180
+Wirkungsabsicht muss geklärt werden.
+
+111
+00:03:53,320 --> 00:03:54,500
+Also dann denkt man sich so, warum
+
+112
+00:03:54,500 --> 00:03:56,700
+Darum hat der Autor jetzt hier den
+
+113
+00:03:56,700 --> 00:03:57,560
+Hakenstil gewählt.
+
+114
+00:04:00,600 --> 00:04:02,200
+Satzbau. Der Satzbau weicht den
+
+115
+00:04:02,200 --> 00:04:04,160
+Gedichten oft von der Norm ab. Zur
+
+116
+00:04:04,160 --> 00:04:05,880
+Einhaltung des Metrums, Veränderung
+
+117
+00:04:05,880 --> 00:04:07,660
+der Wortfolge. Also damit das Metrum
+
+118
+00:04:07,660 --> 00:04:09,660
+eingehalten werden kann, muss halt
+
+119
+00:04:09,660 --> 00:04:12,880
+die Wortfolge geändert werden. Durch
+
+120
+00:04:12,880 --> 00:04:14,360
+die ungewöhnliche Satzstellung und
+
+121
+00:04:14,360 --> 00:04:16,520
+auffällige Wiederholung entstehen
+
+122
+00:04:16,520 --> 00:04:18,660
+zusätzlich Strukturen. Das Gedicht
+
+123
+00:04:18,660 --> 00:04:20,580
+wird gegliedert. Bedeutungen werden
+
+124
+00:04:20,580 --> 00:04:22,360
+unterstrichen und erweitert und
+
+125
+00:04:22,360 --> 00:04:24,260
+Abweichungen erschweren halt das
+
+126
+00:04:24,260 --> 00:04:28,200
+Textverständnis. Genau. Das ist
+
+127
+00:04:28,200 --> 00:04:31,600
+wichtig zum Satzbau. So, kommen wir
+
+128
+00:04:31,600 --> 00:04:32,800
+einmal zu Satzstellungen. Es gibt
+
+129
+00:04:32,800 --> 00:04:35,080
+einmal die Inversion. Inversion,
+
+130
+00:04:35,220 --> 00:04:37,440
+voranstellen von anderen Satzgliedern
+
+131
+00:04:37,440 --> 00:04:39,360
+statt des Subjekts. Gastfreundlich
+
+132
+00:04:39,360 --> 00:04:41,480
+tönt dem Wanderer im friedlichen
+
+133
+00:04:41,480 --> 00:04:44,380
+Dorfe die Abendglocke. Also, ähm,
+
+134
+00:04:44,380 --> 00:04:48,000
+genau. Genau, andere Satzglieder
+
+135
+00:04:48,000 --> 00:04:50,040
+werden halt vorangestellt anstelle
+
+136
+00:04:50,040 --> 00:04:52,060
+von dem Subjekt. Hier gastfreundlich.
+
+137
+00:04:52,060 --> 00:04:53,160
+Gastfreundlich ist nicht das Subjekt,
+
+138
+00:04:53,200 --> 00:04:55,380
+das ist was anderes. Deswegen, genau,
+
+139
+00:04:55,500 --> 00:04:56,240
+voranstellen von anderen
+
+140
+00:04:56,240 --> 00:04:57,580
+Satzgliedern. Dann einmal nachstellen
+
+141
+00:04:57,580 --> 00:04:59,740
+von Adjektiven. Zu tausend Wüsten,
+
+142
+00:04:59,900 --> 00:05:01,660
+stumm und kalt. Stumm und kalt,
+
+143
+00:05:01,680 --> 00:05:03,900
+Adjektive. Voranstellen von
+
+144
+00:05:03,900 --> 00:05:06,540
+Genitivattributen. Deines Wipfelmeers
+
+145
+00:05:06,540 --> 00:05:09,740
+gewaltig rauschen. und trennen von
+
+146
+00:05:09,740 --> 00:05:11,080
+zusammengehörenden Wörtern durch
+
+147
+00:05:11,080 --> 00:05:13,220
+andere Satzzelle. Da macht ein Hauch
+
+148
+00:05:13,220 --> 00:05:16,420
+mich von Verfall erzittern. Genau.
+
+149
+00:05:16,600 --> 00:05:18,040
+Also das ist hier die Inversion. Das
+
+150
+00:05:18,040 --> 00:05:20,120
+sind vier mögliche Arten von
+
+151
+00:05:20,120 --> 00:05:20,740
+Inversionen.
+
+152
+00:05:23,240 --> 00:05:24,380
+So, dann haben wir einmal die
+
+153
+00:05:24,380 --> 00:05:26,280
+Ellipse. Ellipse ist das Weglassen
+
+154
+00:05:26,280 --> 00:05:27,560
+von Wörtern, die zur Bindung eines
+
+155
+00:05:27,560 --> 00:05:29,080
+grammatisch vollständigen Satzes
+
+156
+00:05:29,080 --> 00:05:31,000
+notwendig sind und leicht aus dem
+
+157
+00:05:31,000 --> 00:05:32,360
+Sinnzusammenhang erschlossen werden
+
+158
+00:05:32,360 --> 00:05:34,520
+können. Zierlich der Kratzer der
+
+159
+00:05:34,520 --> 00:05:36,980
+Lande und der Lippse.
+
+160
+00:05:42,640 --> 00:05:46,060
+Es werden Wörter weggelassen, die den
+
+161
+00:05:46,060 --> 00:05:50,960
+ganzen Satz erst grammatisch
+
+162
+00:05:50,960 --> 00:05:53,200
+vollständig machen würden. Aber die
+
+163
+00:05:53,200 --> 00:05:54,780
+können aus dem Sinnzusammenhang
+
+164
+00:05:54,780 --> 00:05:56,900
+dennoch erschlossen werden. Die
+
+165
+00:05:56,900 --> 00:05:58,440
+Wirkung von der Lippse können
+
+166
+00:05:58,440 --> 00:06:00,000
+Erregungen des Sprechers hervorheben
+
+167
+00:06:00,000 --> 00:06:01,940
+und dient in der modernen Lyrik als
+
+168
+00:06:01,940 --> 00:06:03,480
+Herausforderung des Lesers zur
+
+169
+00:06:03,480 --> 00:06:04,640
+intellektuellen Mitarbeit.
+
+170
+00:06:08,340 --> 00:06:11,840
+Genau, das ist die Wirkung von einer
+
+171
+00:06:11,840 --> 00:06:15,300
+Ellipse. Dann haben wir einmal die
+
+172
+00:06:15,300 --> 00:06:17,500
+Prolipse. Unterbrechung des Satzes.
+
+173
+00:06:17,600 --> 00:06:18,820
+In manchen Gedichten wird der Satz
+
+174
+00:06:18,820 --> 00:06:20,220
+nach einem Nomen abgebrochen und
+
+175
+00:06:20,220 --> 00:06:21,320
+anschließend mit dem passenden
+
+176
+00:06:21,320 --> 00:06:23,020
+Pronomen wieder aufgenommen und zu
+
+177
+00:06:23,020 --> 00:06:24,880
+Ende geführt. Und die Wellen, sie
+
+178
+00:06:24,880 --> 00:06:27,420
+zerschellen. Der Satz wird
+
+179
+00:06:27,420 --> 00:06:29,960
+unterbrochen und die Wellen und dann
+
+180
+00:06:29,960 --> 00:06:31,820
+nachher wird er mit dem passenden
+
+181
+00:06:31,820 --> 00:06:33,800
+Pronomen, sie wieder aufgenommen und
+
+182
+00:06:33,800 --> 00:06:37,340
+zu Ende geführt. Wirkung heben das
+
+183
+00:06:37,340 --> 00:06:38,980
+einleitende Satzglied hervor und
+
+184
+00:06:38,980 --> 00:06:40,520
+dienen der Einhaltung des
+
+185
+00:06:40,520 --> 00:06:42,340
+Versammlungs- oder Verständnisses in
+
+186
+00:06:42,340 --> 00:06:44,040
+unübersichtlichen Sätzen.
+
+187
+00:06:49,370 --> 00:06:52,690
+Die Mitholung bzw. Variationen zur
+
+188
+00:06:52,690 --> 00:06:54,550
+inneren Gliederung von Gedichten
+
+189
+00:06:54,550 --> 00:06:56,850
+schaffen die Einleitigkeit und werden
+
+190
+00:06:56,850 --> 00:06:58,870
+dadurch als harmonisch und abgerundet
+
+191
+00:06:58,870 --> 00:07:01,270
+empfunden. Wichtige Bedeutung haben
+
+192
+00:07:01,270 --> 00:07:02,730
+die in der modernen Lyrik, um den
+
+193
+00:07:02,730 --> 00:07:04,410
+freien Versen einen poetischen
+
+194
+00:07:04,410 --> 00:07:05,990
+Charakter zu verleihen und von der
+
+195
+00:07:05,990 --> 00:07:08,630
+alltäglichen Prosa abzusetzen. Genau,
+
+196
+00:07:08,730 --> 00:07:09,830
+das Zielmitte der Wiederholung, zum
+
+197
+00:07:09,830 --> 00:07:13,450
+Beispiel Parallelismus, ist zum
+
+198
+00:07:13,450 --> 00:07:14,770
+Beispiel Zielmitte der Wiederholung.
+
+199
+00:07:17,020 --> 00:07:20,720
+So, hier sind noch weitere erklärt.
+
+200
+00:07:20,880 --> 00:07:23,740
+So, Schiasmus. Satzglieder werden
+
+201
+00:07:23,740 --> 00:07:25,360
+spiegelbildlich angeordnet, es
+
+202
+00:07:25,360 --> 00:07:26,700
+entsteht eine Überkreuzstellung.
+
+203
+00:07:26,700 --> 00:07:29,180
+Beispiel, die Mühen der Gebirge
+
+204
+00:07:29,180 --> 00:07:31,300
+liegen hinter uns, vor uns liegen die
+
+205
+00:07:31,300 --> 00:07:33,720
+Mühen der Ebene. Also Satz geht event
+
+206
+00:07:33,720 --> 00:07:35,280
+-spiegelig angeordnet, sehen wir
+
+207
+00:07:35,280 --> 00:07:36,540
+hier, die Mühen der Gebirge liegen
+
+208
+00:07:36,540 --> 00:07:38,740
+hinter uns, vor uns liegen, also hier
+
+209
+00:07:38,740 --> 00:07:40,440
+steht hinter uns, liegen hinter uns
+
+210
+00:07:40,440 --> 00:07:41,980
+am Ende und hier steht vor uns
+
+211
+00:07:41,980 --> 00:07:46,020
+liegen. Genau. Akkumulation,
+
+212
+00:07:46,020 --> 00:07:47,120
+Sinnwiederholung, Wörter, auch
+
+213
+00:07:47,120 --> 00:07:48,420
+Satzzeile oder Kurzsätze werden
+
+214
+00:07:48,420 --> 00:07:49,880
+aneinandergereiht. Es werden solche
+
+215
+00:07:49,880 --> 00:07:50,980
+Wörter aneinandergereiht, die
+
+216
+00:07:50,980 --> 00:07:52,520
+gleiches Aussagen oder durch einen
+
+217
+00:07:52,520 --> 00:07:53,880
+Oberbegriff ersetzt werden können.
+
+218
+00:07:54,000 --> 00:07:56,080
+Ist was, das nicht durch Krieg,
+
+219
+00:07:56,080 --> 00:07:57,880
+Schwert, Flamm und Spieß zerstört.
+
+220
+00:07:58,280 --> 00:08:01,920
+Also, genau, hier, es werden Wörter
+
+221
+00:08:01,920 --> 00:08:02,860
+aneinandergereiht, die gleiches
+
+222
+00:08:02,860 --> 00:08:04,960
+Aussagen, Krieg, Schwert, Flamm und
+
+223
+00:08:04,960 --> 00:08:07,820
+Spieß. Das ist die Akkumulation, die
+
+224
+00:08:07,820 --> 00:08:10,040
+Sinnwiederholung. Dann haben wir
+
+225
+00:08:10,040 --> 00:08:12,120
+einmal Klimax. Aufzählung, bei der
+
+226
+00:08:12,120 --> 00:08:13,760
+die Aussage von Ausdruck zu Ausdruck
+
+227
+00:08:13,760 --> 00:08:15,440
+gesteigert wird. Dann eine Pflege,
+
+228
+00:08:15,500 --> 00:08:17,120
+vielleicht eine Maus, dann möglichst
+
+229
+00:08:17,120 --> 00:08:18,300
+viele Menschen. Also es wird immer
+
+230
+00:08:18,300 --> 00:08:21,200
+von klein zu groß. Genau, Pflege,
+
+231
+00:08:21,220 --> 00:08:25,460
+Maus, Elefant, Blauwal. Keine Ahnung,
+
+232
+00:08:25,540 --> 00:08:26,700
+also es wird einfach gesteigert.
+
+233
+00:08:28,360 --> 00:08:29,280
+Leitmotiv, Leitmotiv,
+
+234
+00:08:29,280 --> 00:08:30,980
+Textwiederholung, die sich durch das
+
+235
+00:08:30,980 --> 00:08:32,680
+ganze Gedicht zieht. Ein Leitmotiv
+
+236
+00:08:32,680 --> 00:08:33,900
+kann den Aufbau verdeutlichen, die
+
+237
+00:08:33,900 --> 00:08:35,300
+Spannung steigern und symbolische
+
+238
+00:08:35,300 --> 00:08:37,920
+Bedeutung haben. Das war auch eins
+
+239
+00:08:37,920 --> 00:08:39,800
+der Mitte der Wiederholung. Und dann
+
+240
+00:08:39,800 --> 00:08:40,380
+haben wir natürlich noch
+
+241
+00:08:40,380 --> 00:08:42,140
+Parallelismus. Satzglieder werden auf
+
+242
+00:08:42,140 --> 00:08:43,760
+folgenden Sätzen in der gleichen
+
+243
+00:08:43,760 --> 00:08:45,860
+Reihenfolge angeordnet. Zum Beispiel,
+
+244
+00:08:45,980 --> 00:08:51,440
+Barack Obama hat mal eine Rede
+
+245
+00:08:51,440 --> 00:08:54,620
+gehalten, irgendwie Yes, we can. Oder
+
+246
+00:08:54,620 --> 00:08:59,920
+so, wie war das? Ja, und das hat auch
+
+247
+00:08:59,920 --> 00:09:01,460
+in den aufeinanderfolgenden Sätzen
+
+248
+00:09:01,460 --> 00:09:03,860
+immer dieser eine Satz wiederholt.
+
+249
+00:09:04,340 --> 00:09:04,940
+Genau.
+
+250
+00:09:09,180 --> 00:09:11,600
+So, dann gibt es noch den Pleonasmus.
+
+251
+00:09:12,060 --> 00:09:13,820
+Das ist die wiederholte Wiedergabe
+
+252
+00:09:13,820 --> 00:09:15,540
+von Begriffen durch Singleiche, wenn
+
+253
+00:09:15,540 --> 00:09:17,240
+auch verschiedene Wörter. Das gilt
+
+254
+00:09:17,240 --> 00:09:18,580
+sowohl als Zielmittel als auch als
+
+255
+00:09:18,580 --> 00:09:20,660
+Zielfehler. Schwarzer Rabe, weißer
+
+256
+00:09:20,660 --> 00:09:23,420
+Schimmel. Also, hier, Singleiche,
+
+257
+00:09:23,420 --> 00:09:24,580
+aber auch verschiedene Wörter.
+
+258
+00:09:24,600 --> 00:09:28,360
+Schwarz, weiß. Synonym sind Verwandte
+
+259
+00:09:28,360 --> 00:09:30,400
+bis fast bedeutungsgleiche Wörter von
+
+260
+00:09:30,400 --> 00:09:31,740
+unterschiedlicher ethnologischer
+
+261
+00:09:31,740 --> 00:09:33,700
+Herkunft. Schauen, sehen, wahrnehmen,
+
+262
+00:09:33,760 --> 00:09:36,340
+erkennen. Das sind ungefähr, die
+
+263
+00:09:36,340 --> 00:09:37,660
+haben ungefähr gleiche Begründungen,
+
+264
+00:09:37,720 --> 00:09:40,780
+aber, genau, die haben
+
+265
+00:09:40,780 --> 00:09:42,200
+unterschiedliche ethnologische
+
+266
+00:09:42,200 --> 00:09:45,480
+Herkunft. Tautologie ist eine
+
+267
+00:09:45,480 --> 00:09:47,040
+synonyme Wortwiederholung,
+
+268
+00:09:47,060 --> 00:09:48,820
+Doppelbezeichnung desselben Begriffs,
+
+269
+00:09:48,900 --> 00:09:50,180
+durch gleichbedeutende und
+
+270
+00:09:50,180 --> 00:09:52,020
+wortgleiche Wörter. Immer und ewig,
+
+271
+00:09:52,080 --> 00:09:55,400
+sauber und rein. immer und ewig
+
+272
+00:09:55,400 --> 00:09:57,080
+bedeutet, also ist ja das Gleiche und
+
+273
+00:09:57,080 --> 00:09:58,180
+sauber und rein ist ja auch das
+
+274
+00:09:58,180 --> 00:10:00,480
+Gleiche. Und dann noch einmal die
+
+275
+00:10:00,480 --> 00:10:01,580
+Textwiederholung, das ist die
+
+276
+00:10:01,580 --> 00:10:03,580
+Wiederholung von Einzelwörtern oder
+
+277
+00:10:03,580 --> 00:10:05,880
+Wortgruppen. Genau, wenn generell
+
+278
+00:10:05,880 --> 00:10:06,940
+Wörter, Einzelwörter einfach
+
+279
+00:10:06,940 --> 00:10:08,440
+wiederholt werden oder halt bestimmte
+
+280
+00:10:08,440 --> 00:10:13,220
+Wortgruppen. Genau. So, Wortwahl.
+
+281
+00:10:13,820 --> 00:10:14,880
+Befremdliche Wirkung und
+
+282
+00:10:14,880 --> 00:10:16,460
+Andersartigkeit von Gedichten
+
+283
+00:10:16,460 --> 00:10:18,180
+resultiert oft aus der ungewöhnlichen
+
+284
+00:10:18,180 --> 00:10:19,540
+Wortwahl oder der ungewöhnlichen
+
+285
+00:10:19,540 --> 00:10:22,120
+Kombination von Wörtern. Sprache in
+
+286
+00:10:22,120 --> 00:10:23,680
+Gedichten weicht oft von der
+
+287
+00:10:23,680 --> 00:10:26,500
+Normalsprache ab. Typische Beispiele
+
+288
+00:10:26,500 --> 00:10:28,720
+für ungewöhnliche Wörter, besonders
+
+289
+00:10:28,720 --> 00:10:30,320
+gehobene, seltene oder veraltete
+
+290
+00:10:30,320 --> 00:10:32,420
+Ausdrücke mit entblößtem Angesicht.
+
+291
+00:10:32,540 --> 00:10:35,840
+Entblößtem. Das ist sehr veraltet,
+
+292
+00:10:35,860 --> 00:10:38,400
+das benutzt man ja meistens nicht
+
+293
+00:10:38,400 --> 00:10:40,920
+mehr. Also das benutzt man selten.
+
+294
+00:10:41,700 --> 00:10:43,500
+Genau, das ist jetzt hier ein
+
+295
+00:10:43,500 --> 00:10:45,980
+ungewöhnliches Wort. Oder kunstvolle,
+
+296
+00:10:45,980 --> 00:10:47,240
+bildhafte Umschreibungen statt der
+
+297
+00:10:47,240 --> 00:10:48,620
+direkten Benennung alltäglicher
+
+298
+00:10:48,620 --> 00:10:50,120
+Vorgänge und Dinge. Die Nacht
+
+299
+00:10:50,120 --> 00:10:52,220
+schwingt ihre Fahnen und führt die
+
+300
+00:10:52,220 --> 00:10:54,960
+Sterne auf. Genau, das ist jetzt hier
+
+301
+00:10:54,960 --> 00:10:56,300
+eine kunstvolle, bildhafte
+
+302
+00:10:56,300 --> 00:10:57,400
+Umschreibung, dass es halt dunkel
+
+303
+00:10:57,400 --> 00:10:58,660
+wird und die Sterne halt am Himmel zu
+
+304
+00:10:58,660 --> 00:11:01,120
+sehen sind. Oder nüchterne Wortwahl
+
+305
+00:11:01,120 --> 00:11:03,380
+oder höchst expressive und emotionale
+
+306
+00:11:03,380 --> 00:11:03,860
+Sprache.
+
+307
+00:11:13,920 --> 00:11:15,600
+So, Analyse. Bei der Analyse der
+
+308
+00:11:15,600 --> 00:11:17,380
+Sprache des Gedichts werden beachtet
+
+309
+00:11:17,380 --> 00:11:20,200
+einmal inhaltliche Aspekte, bestimmte
+
+310
+00:11:20,200 --> 00:11:22,060
+Bedeutungsfelder und ihre Beziehung
+
+311
+00:11:22,060 --> 00:11:23,900
+zueinander, formale Aspekte,
+
+312
+00:11:24,000 --> 00:11:25,360
+Vorkommen und Verteilung der
+
+313
+00:11:25,360 --> 00:11:27,400
+einzelnen Wortarten, Wahl der
+
+314
+00:11:27,400 --> 00:11:29,240
+Stilende, Umgangssprache, Dialekt,
+
+315
+00:11:29,300 --> 00:11:31,200
+feierlicher Tonfall, Fachsprache etc.
+
+316
+00:11:32,080 --> 00:11:33,180
+Schlüsselwörter, ob irgendwelche
+
+317
+00:11:33,180 --> 00:11:35,140
+Wörter halt oft vorkommen, ob die
+
+318
+00:11:35,140 --> 00:11:36,500
+halt die Schlüsselaussage so
+
+319
+00:11:36,500 --> 00:11:37,140
+wiedergeben.
+
+320
+00:11:42,960 --> 00:11:45,260
+verursacht werden, zum Beispiel
+
+321
+00:11:45,260 --> 00:11:47,580
+romantisch, also es kann irgendwas
+
+322
+00:11:47,580 --> 00:11:52,320
+romantisch wirken oder böse
+
+323
+00:11:52,320 --> 00:11:55,680
+oder so eine Situation kann, wie
+
+324
+00:11:55,680 --> 00:11:56,980
+gesagt, es kann romantisch sein, es
+
+325
+00:11:56,980 --> 00:11:59,940
+kann ängstlich sein generell. Dann
+
+326
+00:11:59,940 --> 00:12:02,260
+Bewegung durch werbenerzielte Dynamik
+
+327
+00:12:02,260 --> 00:12:05,200
+und die Qualität der Adjektive,
+
+328
+00:12:05,220 --> 00:12:06,980
+werdend oder beschreibende Adjektive.
+
+329
+00:12:07,720 --> 00:12:09,600
+Bei allen Punkten gilt zu beachten,
+
+330
+00:12:09,640 --> 00:12:11,020
+dass sie stets in dem Bezug zur
+
+331
+00:12:11,920 --> 00:12:14,240
+Gesamtaussage gebracht werden. Die
+
+332
+00:12:14,240 --> 00:12:16,380
+müssen immer zu der Gesamtaussage, zu
+
+333
+00:12:16,380 --> 00:12:17,680
+dem, was das Gedicht eigentlich sagen
+
+334
+00:12:17,680 --> 00:12:18,820
+will, die müssen immer in Bezug
+
+335
+00:12:18,820 --> 00:12:20,080
+gebracht werden. So, wie steht das
+
+336
+00:12:20,080 --> 00:12:20,980
+jetzt zueinander? Wie ist das hier
+
+337
+00:12:20,980 --> 00:12:23,200
+verbunden? Viele Wörter haben nicht
+
+338
+00:12:23,200 --> 00:12:24,220
+nur ein klar definierbar
+
+339
+00:12:24,220 --> 00:12:25,800
+begrifflichen Inhalt, denotat,
+
+340
+00:12:25,860 --> 00:12:27,280
+sondern sie sind zusätzlich mit einem
+
+341
+00:12:27,280 --> 00:12:28,220
+darüber hinausgehend
+
+342
+00:12:28,220 --> 00:12:29,460
+Vorstellungsgehalt, Konnotat
+
+343
+00:12:29,460 --> 00:12:31,400
+verbunden. Das Beispiel Rose, Das
+
+344
+00:12:31,400 --> 00:12:33,700
+Denotat hier, also der begriffliche
+
+345
+00:12:33,700 --> 00:12:35,080
+Inhalt, ist eine bestimmte
+
+346
+00:12:35,080 --> 00:12:36,760
+Pflanzengattung mit gefiederten
+
+347
+00:12:36,760 --> 00:12:39,120
+Blättern, fünfteiliger Blüte etc. Das
+
+348
+00:12:39,120 --> 00:12:40,800
+ist das, was uns der Inhalt sagt,
+
+349
+00:12:40,900 --> 00:12:43,060
+wenn wir an Rose denken. Konnotat,
+
+350
+00:12:43,120 --> 00:12:45,000
+also wenn wir an Rose denken, dann
+
+351
+00:12:45,000 --> 00:12:46,940
+steht das zum Beispiel für Schönheit
+
+352
+00:12:46,940 --> 00:12:49,260
+oder Liebe. Also wenn wir an ein Wort
+
+353
+00:12:49,260 --> 00:12:52,100
+denken, dann hat das immer so eine
+
+354
+00:12:52,100 --> 00:12:56,200
+bestimmte
+
+355
+00:12:56,200 --> 00:12:57,960
+Vorstellung. Rose ist halt so ein
+
+356
+00:12:57,960 --> 00:12:59,420
+Bild für die Schönheit, für die
+
+357
+00:12:59,420 --> 00:13:01,220
+Liebe. Daran denken wir, wenn wir an
+
+358
+00:13:01,220 --> 00:13:03,100
+Rose denken. Eigentlich heißt Rose,
+
+359
+00:13:03,260 --> 00:13:04,380
+wie gesagt, eine bestimmte
+
+360
+00:13:04,380 --> 00:13:05,820
+Pflanzengattung, das ist eine Rose,
+
+361
+00:13:05,980 --> 00:13:07,920
+aber im Kopf, die Rose steht für
+
+362
+00:13:07,920 --> 00:13:09,220
+Schönheit, für Liebe.
+
+363
+00:13:13,560 --> 00:13:15,260
+So, assoziative Verknüpfungen.
+
+364
+00:13:19,260 --> 00:13:21,880
+Zum Beispiel, ich überlege gerade,
+
+365
+00:13:25,800 --> 00:13:30,220
+Taube. Eine weiße Taube. Da denkt man
+
+366
+00:13:30,220 --> 00:13:32,520
+ja, weiße Tauben stehen für Frieden.
+
+367
+00:13:33,560 --> 00:13:38,720
+und das Denotat wäre halt ein Vogel,
+
+368
+00:13:38,740 --> 00:13:40,880
+eine Taube ist ein Vogel das Konnotat
+
+369
+00:13:40,880 --> 00:13:42,620
+wäre hier Friede, man denkt an
+
+370
+00:13:42,620 --> 00:13:45,480
+Frieden wenn ich an eine weiße Taube
+
+371
+00:13:45,480 --> 00:13:48,180
+denke dann denke ich an Frieden genau
+
+372
+00:13:49,440 --> 00:13:53,500
+ich weiß nicht es sind halt so
+
+373
+00:13:53,500 --> 00:13:54,160
+bestimmte
+
+374
+00:13:58,310 --> 00:13:58,910
+Begriffe
+
+375
+00:14:11,890 --> 00:14:14,030
+ein Holzkasten, wo Leichen
+
+376
+00:14:14,030 --> 00:14:16,050
+reinkommen, ist nicht allzu schön und
+
+377
+00:14:16,050 --> 00:14:18,730
+das Konnotat wäre jetzt hier tot.
+
+378
+00:14:19,230 --> 00:14:22,410
+Also, genau, das wäre jetzt hier ein
+
+379
+00:14:22,410 --> 00:14:26,030
+Beispiel. Genau. Ich hoffe, ich
+
+380
+00:14:26,030 --> 00:14:26,590
+konnte das ein bisschen
+
+381
+00:14:26,590 --> 00:14:28,450
+veranschaulichen. Gut, also wie
+
+382
+00:14:28,450 --> 00:14:29,390
+gesagt, den Notat ist immer der
+
+383
+00:14:29,390 --> 00:14:30,630
+Inhalt, was sagt das Wort eigentlich
+
+384
+00:14:30,630 --> 00:14:32,190
+aus und das Konnotat ist halt das,
+
+385
+00:14:32,290 --> 00:14:33,550
+woran man dann denkt, wofür das
+
+386
+00:14:33,550 --> 00:14:36,870
+eigentlich steht. Gut, assoziative
+
+387
+00:14:36,870 --> 00:14:38,870
+Verknüpfungen, Konnotationen, sind
+
+388
+00:14:38,870 --> 00:14:40,350
+tragende Wörter mit weiteren
+
+389
+00:14:44,610 --> 00:14:45,910
+wie ich das gerade mit diesem Sarg
+
+390
+00:14:45,910 --> 00:14:47,230
+genannt habe oder mit dieser Taube,
+
+391
+00:14:47,270 --> 00:14:48,370
+die haben halt oft diese emotionale
+
+392
+00:14:48,370 --> 00:14:50,070
+Vorstellung. Und das ist halt ein
+
+393
+00:14:50,070 --> 00:14:51,950
+wichtiges Element generell von der
+
+394
+00:14:51,950 --> 00:14:53,570
+Lyrik von Gedichten. Die haben eine
+
+395
+00:14:53,570 --> 00:14:54,950
+hohe Relevanz von oft sehr
+
+396
+00:14:54,950 --> 00:14:55,790
+unterschiedlichen durch den
+
+397
+00:14:55,790 --> 00:14:56,970
+Textzusammenhang beeinflussten
+
+398
+00:14:56,970 --> 00:14:59,630
+Konnotationen bei Farben. Oft
+
+399
+00:14:59,630 --> 00:15:00,170
+schließen sich
+
+400
+00:15:03,910 --> 00:15:08,050
+dann genau
+
+401
+00:15:08,050 --> 00:15:09,510
+zu so großen Feldern zusammen.
+
+402
+00:15:10,710 --> 00:15:11,930
+Assoziierte Vorstellungen müssen sich
+
+403
+00:15:11,930 --> 00:15:13,550
+in den Gesamtkontext einfügen, um
+
+404
+00:15:13,550 --> 00:15:16,550
+Spekulationen auszuschließen. Wo
+
+405
+00:15:16,550 --> 00:15:17,750
+Konnotationen vorherrschen, vor allem
+
+406
+00:15:17,750 --> 00:15:19,370
+in der Lyrik, in Gedichten, gibt es
+
+407
+00:15:19,370 --> 00:15:21,590
+oft Mehrdeutigkeiten, die Spielräume
+
+408
+00:15:21,590 --> 00:15:22,970
+für unterschiedlich akzentuierte
+
+409
+00:15:22,970 --> 00:15:24,950
+Interpretationen lassen. Also wenn
+
+410
+00:15:24,950 --> 00:15:28,130
+eine Person an Rose denkt und dann
+
+411
+00:15:28,130 --> 00:15:31,250
+generell Liebe, Schönheit sieht, dann
+
+412
+00:15:31,250 --> 00:15:32,330
+kann eine andere Person an was
+
+413
+00:15:32,330 --> 00:15:34,030
+anderes denken. Deswegen, wie gesagt,
+
+414
+00:15:34,270 --> 00:15:35,410
+durch diese Mehrdeutigkeiten
+
+415
+00:15:35,410 --> 00:15:37,210
+entstehen halt unterschiedliche
+
+416
+00:15:37,210 --> 00:15:38,550
+Interpretationen, und
+
+417
+00:15:38,550 --> 00:15:39,990
+unterschiedliche Analysen, so wie man
+
+418
+00:15:39,990 --> 00:15:42,810
+das sieht. Genau. Was für den einen
+
+419
+00:15:42,810 --> 00:15:44,490
+böse wirken kann, kann für den einen
+
+420
+00:15:44,490 --> 00:15:46,630
+ja, schön wirken oder halt irgendwas
+
+421
+00:15:46,630 --> 00:15:48,730
+anderes. Deswegen ist da die
+
+422
+00:15:48,730 --> 00:15:50,510
+Interpretation unter
+
+423
+00:15:57,160 --> 00:15:58,960
+texten eine gewisse Vieldeutigkeit.
+
+424
+00:15:59,820 --> 00:16:01,120
+Interpretation, Erklärung des
+
+425
+00:16:01,120 --> 00:16:02,960
+Zusammenhangs zwischen abweichender
+
+426
+00:16:02,960 --> 00:16:04,720
+Bedeutung und Text in Bezug zur
+
+427
+00:16:04,720 --> 00:16:06,720
+Aussage. Um das zentrale Bild eines
+
+428
+00:16:06,720 --> 00:16:08,660
+Gedichts zu deuten, sind die beiden
+
+429
+00:16:08,660 --> 00:16:11,060
+Grundformen elementar. Einmal das
+
+430
+00:16:11,060 --> 00:16:12,700
+einfache Bild, beispielhaftes
+
+431
+00:16:12,700 --> 00:16:14,580
+Geschehen, typische Situation, meint
+
+432
+00:16:14,580 --> 00:16:16,560
+nicht mehr, als es sagt. Und dann
+
+433
+00:16:16,560 --> 00:16:18,100
+einmal das Sinnbild, meint mehr und
+
+434
+00:16:18,100 --> 00:16:19,100
+anderes, als es sagt,
+
+435
+00:16:19,220 --> 00:16:20,800
+hinterwörtlicher Bedeutung ist eine
+
+436
+00:16:20,800 --> 00:16:22,420
+weitere Aussage. Also wir haben hier
+
+437
+00:16:22,420 --> 00:16:24,140
+das zentrale Bild, dann einmal das
+
+438
+00:16:24,140 --> 00:16:25,820
+einfache Bild, beispielhaftes
+
+439
+00:16:25,820 --> 00:16:27,200
+Geschehen, typische Situation, meint
+
+440
+00:16:27,200 --> 00:16:28,860
+nicht mehr, als es sagt. Und dann
+
+441
+00:16:28,860 --> 00:16:30,300
+einmal das Sinnbild, das meint mehr
+
+442
+00:16:30,300 --> 00:16:33,380
+und anderes, als es sagt,
+
+443
+00:16:33,420 --> 00:16:34,620
+hinterwärtiger Bedeutung, weitere
+
+444
+00:16:34,620 --> 00:16:36,500
+Aussage. So, hier haben wir einmal,
+
+445
+00:16:36,620 --> 00:16:38,300
+bei Sinnbild unterscheiden wir
+
+446
+00:16:38,300 --> 00:16:39,740
+nochmal in zwei, einmal Allegorie,
+
+447
+00:16:39,800 --> 00:16:41,540
+ist die Verbildlichung von abstrakten
+
+448
+00:16:41,540 --> 00:16:42,980
+Begriffen von der allgemeinen Idee
+
+449
+00:16:42,980 --> 00:16:45,060
+zum passenden Bild. Und einmal das
+
+450
+00:16:45,060 --> 00:16:46,780
+Symbol ist ein bildhaftes Zeichen mit
+
+451
+00:16:46,780 --> 00:16:47,880
+abstrakter Bedeutung vom
+
+452
+00:16:47,880 --> 00:16:50,560
+anschaulichen Bild zur allgemeinen
+
+453
+00:16:50,560 --> 00:16:53,500
+Idee. Genau, beim Sinnbild haben
+
+454
+00:16:58,750 --> 00:17:00,770
+wir immer Chiffre, Zeichen einer
+
+455
+00:17:00,770 --> 00:17:02,310
+Geheimschrift, die nur entziffern
+
+456
+00:17:02,310 --> 00:17:05,790
+kann, der den Schlüssel kennt. Stark
+
+457
+00:17:05,790 --> 00:17:07,410
+verschlüsselte, rätselhafte Bilder
+
+458
+00:17:07,410 --> 00:17:08,950
+ohne erkennbaren Bezug zur
+
+459
+00:17:08,950 --> 00:17:11,010
+Wirklichkeit. Das sind das
+
+460
+00:17:11,010 --> 00:17:13,070
+Einsprachbild, das Chiffre. Dann
+
+461
+00:17:13,070 --> 00:17:14,750
+haben wir immer den Vergleich. Zwei
+
+462
+00:17:14,750 --> 00:17:16,070
+Gegenstände oder Bereiche werden
+
+463
+00:17:16,070 --> 00:17:18,030
+miteinander verbunden, um etwas ihnen
+
+464
+00:17:18,030 --> 00:17:22,030
+Gemeinsames auszudrücken. Beide Teile
+
+465
+00:17:22,030 --> 00:17:23,490
+haben mindestens eine gemeinsame
+
+466
+00:17:23,490 --> 00:17:25,970
+Eigenschaft. Zum Beispiel, also beim
+
+467
+00:17:25,970 --> 00:17:29,510
+Vergleich benutzt man häufig als. Das
+
+468
+00:17:29,510 --> 00:17:31,490
+ist halt oft ein Wort, was man halt
+
+469
+00:17:31,490 --> 00:17:32,650
+benutzt, um es zu vergleichen.
+
+470
+00:17:37,160 --> 00:17:41,680
+Ja, ein Vergleich. Metapher,
+
+471
+00:17:41,680 --> 00:17:43,440
+häufigste Bildform. Bildvorstellung
+
+472
+00:17:43,440 --> 00:17:45,100
+wird auf eine andere übertragen. Es
+
+473
+00:17:45,100 --> 00:17:46,240
+entstehen Ausdrücke mit neuer
+
+474
+00:17:46,240 --> 00:17:47,820
+Bedeutung. Ein Beispiel für eine
+
+475
+00:17:47,820 --> 00:17:51,020
+Metapher wäre ein Wüstenschiff. Ein
+
+476
+00:17:51,020 --> 00:17:52,300
+Wüstenschiff ist ein Kamel.
+
+477
+00:17:53,180 --> 00:17:54,780
+Wüstenschiff, ja, Wüste. Ein Kamel
+
+478
+00:17:54,780 --> 00:17:56,840
+lebt in einer Wüste und ein Schiff,
+
+479
+00:17:56,860 --> 00:17:59,380
+ein Kamel ist groß, hat diese Höcker.
+
+480
+00:18:06,050 --> 00:18:09,450
+Genau deswegen, Metapher. Dann haben
+
+481
+00:18:09,450 --> 00:18:10,750
+wir noch weitere Sprachbilder, die
+
+482
+00:18:10,750 --> 00:18:12,790
+Tropen. Wörter oder sprachliche
+
+483
+00:18:12,790 --> 00:18:14,030
+Wendungen, die im übertragenen
+
+484
+00:18:14,030 --> 00:18:16,190
+bildlichen Sinn gebraucht werden. Im
+
+485
+00:18:16,190 --> 00:18:17,470
+Tropus wird ein Unterschied zwischen
+
+486
+00:18:17,470 --> 00:18:19,410
+Gesagtem und Gemeintem deutlich.
+
+487
+00:18:21,130 --> 00:18:22,850
+Personifikation. Nicht-Menschliche
+
+488
+00:18:22,850 --> 00:18:24,530
+Erscheinungen oder abstraue Begriffe
+
+489
+00:18:24,530 --> 00:18:26,130
+werden als menschlich handelnde und
+
+490
+00:18:26,130 --> 00:18:28,350
+fühlende Wesen dargestellt. Gegenteil
+
+491
+00:18:28,350 --> 00:18:30,010
+von Personifikation ist die
+
+492
+00:18:30,010 --> 00:18:31,670
+Verdränglichung. Ein Beispiel für
+
+493
+00:18:31,670 --> 00:18:32,950
+eine Personifikation ist zum
+
+494
+00:18:32,950 --> 00:18:36,190
+Beispiel, die Sonne lacht. Eine Sonne
+
+495
+00:18:36,190 --> 00:18:39,310
+ist ein Objekt, die ist nicht
+
+496
+00:18:39,310 --> 00:18:42,050
+menschlich und lachen kann
+
+497
+00:18:42,050 --> 00:18:44,530
+eigentlich, was nicht menschlich ist,
+
+498
+00:18:44,530 --> 00:18:48,710
+nicht. Oder die Sonne weint oder so.
+
+499
+00:18:48,710 --> 00:18:51,990
+der Himmel weint, wenn es zum
+
+500
+00:18:51,990 --> 00:18:52,710
+Beispiel regnet.
+
+501
+00:18:55,470 --> 00:18:57,610
+Synesthesie, Kopplung der Eindrücke
+
+502
+00:18:57,610 --> 00:18:59,210
+wesensverschiedener Sinne.
+
+503
+00:19:00,090 --> 00:19:01,650
+Großempfindungen mit Eindrücken des
+
+504
+00:19:01,650 --> 00:19:03,530
+Tastens, Klänge mit Farben, als
+
+505
+00:19:03,530 --> 00:19:06,490
+Farben hören, Musik sehen. Also wenn
+
+506
+00:19:06,490 --> 00:19:09,150
+Eindrücke wesensverschiedener Sinne
+
+507
+00:19:09,150 --> 00:19:11,150
+gekoppelt werden, also verbunden
+
+508
+00:19:11,150 --> 00:19:11,350
+werden.
+
+509
+00:19:14,300 --> 00:19:15,880
+Sprachbilder verstehen, wie verstehe
+
+510
+00:19:15,880 --> 00:19:17,020
+ich die eigentlich? Methodik.
+
+511
+00:19:17,600 --> 00:19:19,040
+Sinnbildliche Gedichte können nur
+
+512
+00:19:19,040 --> 00:19:21,020
+verstanden werden, wenn der Autor die
+
+513
+00:19:21,020 --> 00:19:22,860
+Autorhinweise gibt. Das muss
+
+514
+00:19:27,820 --> 00:19:29,980
+ja mit dir verstanden werden können.
+
+515
+00:19:30,300 --> 00:19:31,480
+Solche Hinweise, die können
+
+516
+00:19:31,480 --> 00:19:33,820
+ausdrücklich und deutlich explizit,
+
+517
+00:19:33,820 --> 00:19:35,420
+also wirklich, dass der Leser die
+
+518
+00:19:35,420 --> 00:19:37,320
+wirklich erkennt, explizit
+
+519
+00:19:37,320 --> 00:19:38,520
+dargestellt werden oder
+
+520
+00:19:38,520 --> 00:19:39,980
+unausgesprochen und andeutend
+
+521
+00:19:39,980 --> 00:19:41,820
+implizit sein, so halt versteckt
+
+522
+00:19:41,820 --> 00:19:44,180
+sein. Explizite Hinweise auf die
+
+523
+00:19:44,180 --> 00:19:45,840
+übertragene Bedeutung finden sich oft
+
+524
+00:19:45,840 --> 00:19:48,360
+in allegorischen Gedichten, seltener
+
+525
+00:19:48,360 --> 00:19:51,760
+in symbolischen. am Anfang oder am
+
+526
+00:19:51,760 --> 00:19:54,160
+Ende des Gedichts erläutert. Also
+
+527
+00:19:54,160 --> 00:19:55,720
+explizit ist da, da kriegt der Leser
+
+528
+00:19:55,720 --> 00:19:57,180
+es wirklich mit, was der Autor hier
+
+529
+00:19:57,180 --> 00:19:59,040
+meint. Implizite Hinweise sind
+
+530
+00:19:59,040 --> 00:20:00,740
+schwieriger zu deuten. Signale sind
+
+531
+00:20:00,740 --> 00:20:01,940
+meist Ausdrücke, die auf der
+
+532
+00:20:01,940 --> 00:20:03,640
+wörtlichen Ebene keinen Sinn ergeben,
+
+533
+00:20:03,740 --> 00:20:05,640
+unter Umständen aber auch formale
+
+534
+00:20:05,640 --> 00:20:07,100
+Auffälligkeiten. Also implizite
+
+535
+00:20:07,100 --> 00:20:07,880
+Hinweise sind ein bisschen
+
+536
+00:20:07,880 --> 00:20:09,540
+schwieriger zu finden, aber es ist
+
+537
+00:20:09,540 --> 00:20:11,900
+auch machbar. Also es gibt explizite
+
+538
+00:20:11,900 --> 00:20:15,640
+Hinweise und implizite Hinweise. So,
+
+539
+00:20:15,760 --> 00:20:17,480
+kommen wir zu den Regeln zur
+
+540
+00:20:17,480 --> 00:20:20,940
+Gedichtsanalyse. So, Hinweis. Nicht
+
+541
+00:20:20,940 --> 00:20:22,220
+immer gelingt es, ein Gedicht
+
+542
+00:20:22,220 --> 00:20:24,080
+befriedigend zu deuten. Keine Panik,
+
+543
+00:20:24,080 --> 00:20:25,200
+wenn Sie das Gedicht trotz
+
+544
+00:20:25,200 --> 00:20:26,420
+gründlicher Analyse nicht ganz
+
+545
+00:20:26,420 --> 00:20:28,060
+verstanden haben. Stellen Sie in
+
+546
+00:20:28,060 --> 00:20:29,200
+diesem Fall Ihren eigenen
+
+547
+00:20:29,200 --> 00:20:30,940
+Verständnisvorgang in den Mittelpunkt
+
+548
+00:20:30,940 --> 00:20:32,820
+Ihrer Darstellung. Legen Sie während
+
+549
+00:20:32,820 --> 00:20:34,320
+der Interpretation Ihre
+
+550
+00:20:34,320 --> 00:20:35,420
+Verständnisprobleme dar,
+
+551
+00:20:39,220 --> 00:20:40,880
+Sprichanalyse ist das Fundament ihres
+
+552
+00:20:40,880 --> 00:20:42,920
+Interpretationsaufsatzes, denn so
+
+553
+00:20:42,920 --> 00:20:44,760
+verhindern sie Fehldeutungen und die
+
+554
+00:20:44,760 --> 00:20:47,400
+Niederschrift wird erleichtert. Also
+
+555
+00:20:47,400 --> 00:20:48,960
+es ist nicht schlimm, wenn ihr denkt,
+
+556
+00:20:49,080 --> 00:20:51,680
+das wird nicht reichen, das reicht
+
+557
+00:20:51,680 --> 00:20:52,260
+mir nicht, das ist nicht
+
+558
+00:20:52,260 --> 00:20:54,560
+befriedigend. Keine Panik, ihr
+
+559
+00:20:54,560 --> 00:20:57,060
+eigener Verständnisvorgang, das, was
+
+560
+00:20:57,060 --> 00:20:58,120
+sie verstanden haben, steht im
+
+561
+00:20:58,120 --> 00:20:59,040
+Mittelpunkt. Das müssen sie in den
+
+562
+00:20:59,040 --> 00:21:00,680
+Mittelpunkt stellen, um
+
+563
+00:21:00,680 --> 00:21:02,660
+Verständnisprobleme aus dem Weg zu
+
+564
+00:21:02,660 --> 00:21:03,020
+schaffen.
+
+565
+00:21:08,180 --> 00:21:09,860
+Und das ist wichtig, um halt das
+
+566
+00:21:09,860 --> 00:21:11,600
+Fundament, die Basis halt für ihre
+
+567
+00:21:11,600 --> 00:21:15,640
+Interpretation zu haben. So, Regeln
+
+568
+00:21:15,640 --> 00:21:16,700
+zur Analyse von Gedichten,
+
+569
+00:21:16,760 --> 00:21:18,220
+Vorbereitung. Erstens, erfassende
+
+570
+00:21:18,220 --> 00:21:19,600
+Aufgabenstellung, Klärung der
+
+571
+00:21:19,600 --> 00:21:20,880
+Anforderungen. Also je nachdem, was
+
+572
+00:21:20,880 --> 00:21:22,440
+halt in der Aufgabenstellung steht in
+
+573
+00:21:22,440 --> 00:21:24,120
+der Klausur. Zweitens, die Lektüre.
+
+574
+00:21:24,480 --> 00:21:25,740
+Festhalten der ersten Eindrücke,
+
+575
+00:21:25,760 --> 00:21:27,240
+Notizen bezüglich Gedicht, Form,
+
+576
+00:21:27,360 --> 00:21:29,340
+Thema und Motiv. und Stellung einer
+
+577
+00:21:29,340 --> 00:21:33,860
+vorläufigen Deutungshypothese. Dann
+
+578
+00:21:33,860 --> 00:21:35,940
+drittens die systematische Analyse,
+
+579
+00:21:35,980 --> 00:21:37,380
+Überprüfung des Vorverständnisses,
+
+580
+00:21:37,500 --> 00:21:38,560
+Untersuchung von Aufbau,
+
+581
+00:21:38,640 --> 00:21:39,720
+Formelementen, inhaltlichen
+
+582
+00:21:39,720 --> 00:21:41,600
+Elementen, Bildhaftigkeit und die
+
+583
+00:21:41,600 --> 00:21:43,240
+Einordnung in die Epoche, also zu
+
+584
+00:21:43,240 --> 00:21:44,520
+welcher Epoche das jetzt gehört.
+
+585
+00:21:45,230 --> 00:21:48,620
+Genau. Das ist die Vorbereitung. So,
+
+586
+00:21:48,660 --> 00:21:50,440
+viertens Rückblick, Aufgabenstellung
+
+587
+00:21:50,440 --> 00:21:52,380
+erfüllt, Wo können Kenntnisse aus dem
+
+588
+00:21:52,380 --> 00:21:53,880
+Unterricht eingebaut werden? Wie hat
+
+589
+00:21:53,880 --> 00:21:54,820
+sich die Deutschungshypothese
+
+590
+00:21:54,820 --> 00:21:57,100
+verändert? Und 15. Die Gliederung.
+
+591
+00:21:57,440 --> 00:21:58,700
+Darstellung enthält immer eine
+
+592
+00:21:58,700 --> 00:22:00,960
+Abwertung mit den Grundinformationen,
+
+593
+00:22:00,960 --> 00:22:02,340
+einen gegliederten Hauptteil und eine
+
+594
+00:22:07,750 --> 00:22:09,830
+Abwertung mit Grundinformationen.
+
+595
+00:22:09,830 --> 00:22:11,710
+Dann der gegliederte Hauptteil. Ist
+
+596
+00:22:11,710 --> 00:22:12,770
+das, dann das, dann das, dann das.
+
+597
+00:22:12,850 --> 00:22:14,670
+Mit den Analyseergebnissen, also was
+
+598
+00:22:14,670 --> 00:22:16,370
+ihr durch diese Analyse von zum
+
+599
+00:22:16,370 --> 00:22:17,770
+Beispiel der Sprache rausgefunden
+
+600
+00:22:17,770 --> 00:22:19,990
+habt und dann noch ein abrundener
+
+601
+00:22:19,990 --> 00:22:23,920
+Schluss. So, Regeln zur Analyse,
+
+602
+00:22:24,080 --> 00:22:25,760
+Methodik. Die Ergebnistarstellung
+
+603
+00:22:25,760 --> 00:22:28,480
+kann auf zwei Weisen erfolgen. Einmal
+
+604
+00:22:28,480 --> 00:22:29,760
+das lineare Verfahren. Darstellung
+
+605
+00:22:29,760 --> 00:22:31,520
+orientiert sich an Reihenfolge der
+
+606
+00:22:31,520 --> 00:22:33,140
+Verse und Versgruppen. Also erst
+
+607
+00:22:33,140 --> 00:22:35,520
+macht ihr Vers 1, dann Vers 2, dann
+
+608
+00:22:35,520 --> 00:22:37,840
+Vers 3. Oder das aspektorientierte
+
+609
+00:22:37,840 --> 00:22:38,960
+Verfahren. Darstellung ist nach den
+
+610
+00:22:38,960 --> 00:22:40,140
+einzelnen Gesichtspunkten der
+
+611
+00:22:40,140 --> 00:22:42,940
+Untersuchung gegliedert. Zum Beispiel
+
+612
+00:22:42,940 --> 00:22:46,520
+erst die ganzen sprachlichen Mitte,
+
+613
+00:22:46,600 --> 00:22:47,600
+erst die Metaphern, dann die
+
+614
+00:22:47,600 --> 00:22:49,840
+Personifikation, dann die Annafahr,
+
+615
+00:22:50,000 --> 00:22:54,440
+dann Parallelismus. Genau. Diese zwei
+
+616
+00:22:54,440 --> 00:22:57,400
+Möglichkeiten gibt es, wie ihr das
+
+617
+00:22:57,400 --> 00:22:58,480
+halt darstellen könnt, eure
+
+618
+00:22:58,480 --> 00:23:00,700
+Ergebnisse. Der Aufbau einer linearen
+
+619
+00:23:00,700 --> 00:23:03,720
+Darstellung. Also hier. Erst die
+
+620
+00:23:03,720 --> 00:23:04,760
+Einleitung, Grundinformation,
+
+621
+00:23:05,240 --> 00:23:06,840
+Autortitel, Entstehungszeit, Thema,
+
+622
+00:23:07,040 --> 00:23:08,820
+Vorverständnis, Eindruck, Fragen,
+
+623
+00:23:08,920 --> 00:23:11,100
+Deutung, Hypothese. Hauptteil,
+
+624
+00:23:11,220 --> 00:23:13,020
+Überblick über die Makrostruktur,
+
+625
+00:23:13,040 --> 00:23:15,140
+über die grobe Struktur, Äußerung,
+
+626
+00:23:15,140 --> 00:23:16,960
+Gliederung, Schriftbild, Versgruppen,
+
+627
+00:23:16,960 --> 00:23:19,060
+Rhythmus und Klangcharakter, Sprecher
+
+628
+00:23:19,060 --> 00:23:22,520
+und Hauptinhalt, Detailanalyse der
+
+629
+00:23:22,520 --> 00:23:23,940
+einzelnen Versgruppen, Strophen,
+
+630
+00:23:23,940 --> 00:23:25,220
+abschnittweise Darstellung der
+
+631
+00:23:25,220 --> 00:23:26,820
+wechselseitigen Beziehung von Inhalt,
+
+632
+00:23:26,900 --> 00:23:29,460
+Form, Stil und Bedeutung. Im Schluss
+
+633
+00:23:29,460 --> 00:23:31,240
+Zusammenfassung und abschließende
+
+634
+00:23:31,240 --> 00:23:32,720
+Deutung des gesamten Gedichts im
+
+635
+00:23:32,720 --> 00:23:34,700
+Vergleich mit dem Vorverständnis und
+
+636
+00:23:34,700 --> 00:23:36,080
+Einordnung in Zusammenhänge,
+
+637
+00:23:36,120 --> 00:23:37,660
+historisch, literaturgeschichtlich.
+
+638
+00:23:38,120 --> 00:23:38,600
+So,
+
+639
+00:23:41,500 --> 00:23:43,280
+Tipps. Vermeiden Sie reine
+
+640
+00:23:43,280 --> 00:23:44,720
+Beschreibung ohne Deutung. Also nicht
+
+641
+00:23:44,720 --> 00:23:46,320
+einfach nur beschreiben. Sie müssen
+
+642
+00:23:46,320 --> 00:23:48,600
+schon sagen, was ist das? Was hat das
+
+643
+00:23:48,600 --> 00:23:50,300
+für eine Wirkung? Was heißt das? wo
+
+644
+00:23:50,300 --> 00:23:52,720
+ist da die Deutung? Deutungen müssen
+
+645
+00:23:52,720 --> 00:23:54,020
+begründen werden und nachvollziehbar
+
+646
+00:23:54,020 --> 00:23:56,260
+sein. Die können halt zum Beispiel an
+
+647
+00:23:56,260 --> 00:24:00,060
+Textstellen, also Vers 2 bis 3 oder
+
+648
+00:24:00,060 --> 00:24:01,860
+so, zeigen
+
+649
+00:24:08,820 --> 00:24:10,920
+und dann halt immer zeigen, ja, das
+
+650
+00:24:10,920 --> 00:24:12,500
+kann man da und da finden. Und die
+
+651
+00:24:12,500 --> 00:24:13,500
+müssen halt nachvollziehbar sein.
+
+652
+00:24:13,940 --> 00:24:15,280
+Vermeiden Sie Spekulationen und
+
+653
+00:24:15,280 --> 00:24:17,140
+Textbezug jetzt nicht, ja, man könnte
+
+654
+00:24:17,140 --> 00:24:18,660
+sagen, dass das und das so sein
+
+655
+00:24:18,660 --> 00:24:21,860
+könnte, bla bla. Wenn man keinen
+
+656
+00:24:21,860 --> 00:24:23,840
+Textbezug hat, nicht schreiben, das
+
+657
+00:24:23,840 --> 00:24:26,720
+ist nicht gut. Und also, es sollte
+
+658
+00:24:26,720 --> 00:24:28,960
+vermieden werden. Und einmal
+
+659
+00:24:28,960 --> 00:24:30,660
+vermeiden Sie Wertungen zum Text.
+
+660
+00:24:30,760 --> 00:24:33,060
+Also, ich finde den Text doof, weil
+
+661
+00:24:33,060 --> 00:24:35,340
+bla bla bla. Genau. Das sollte auch
+
+662
+00:24:35,340 --> 00:24:36,740
+vermieden werden. Das gehört auch
+
+663
+00:24:36,740 --> 00:24:38,680
+nicht in der Analyse von einem
+
+664
+00:24:38,680 --> 00:24:42,240
+Gedicht. So, Tipps. Zitate sind
+
+665
+00:24:42,240 --> 00:24:43,820
+Beweisstücke der Analyse. Also, es
+
+666
+00:24:43,820 --> 00:24:44,880
+zeigt dann wirklich auch, dass ihr
+
+667
+00:24:44,880 --> 00:24:46,120
+euch mit dem Text auseinandergesetzt
+
+668
+00:24:46,120 --> 00:24:47,760
+habt und dass es da zu finden ist.
+
+669
+00:24:48,100 --> 00:24:49,860
+Keine ganzen Strophen abschreiben,
+
+670
+00:24:49,880 --> 00:24:50,960
+also bloß nicht die ganze Strophe
+
+671
+00:24:50,960 --> 00:24:52,220
+abschreiben, das kostet auch zu viel
+
+672
+00:24:52,220 --> 00:24:54,060
+Zeit. Zitate ersetzen keine
+
+673
+00:24:54,060 --> 00:24:55,760
+Begründungen. Also obwohl ihr ein
+
+674
+00:24:55,760 --> 00:24:59,760
+Zitat hinschreibt, müsst ihr noch
+
+675
+00:24:59,760 --> 00:25:02,060
+eine Begründung schreiben. Also eine
+
+676
+00:25:02,060 --> 00:25:04,460
+Begründung muss da immer stehen. Zum
+
+677
+00:25:04,460 --> 00:25:07,100
+Beispiel, er hat eine Personifikation
+
+678
+00:25:07,100 --> 00:25:08,780
+benutzt, weil das und das, das deutet
+
+679
+00:25:08,780 --> 00:25:10,220
+auf das und das hin. Man könnte das
+
+680
+00:25:10,220 --> 00:25:12,880
+und das so deuten. Genau, eine
+
+681
+00:25:12,880 --> 00:25:14,880
+Begründung, also Zitate ersetzt keine
+
+682
+00:25:14,880 --> 00:25:16,840
+Begründung. Genau, Zitate muss extra.
+
+683
+00:25:17,280 --> 00:25:18,940
+Zitate müssen sorgfältig ausgewählt
+
+684
+00:25:18,940 --> 00:25:21,600
+sein. Genau, also nicht einfach
+
+685
+00:25:21,600 --> 00:25:23,240
+irgendwas daneben, sondern wirklich
+
+686
+00:25:23,240 --> 00:25:24,520
+schauen, ja, das ist sinnvoll.
+
+687
+00:25:25,240 --> 00:25:26,780
+Sachliche und korrekte Ausdrucksweise
+
+688
+00:25:26,780 --> 00:25:30,160
+auf hohem Abstraktionsniveau ist
+
+689
+00:25:30,160 --> 00:25:31,660
+erforderlich. also sachlich und
+
+690
+00:25:31,660 --> 00:25:33,520
+korrekt bleiben. Verwendung von
+
+691
+00:25:33,520 --> 00:25:35,080
+fachspezifischen Begriffen, also wenn
+
+692
+00:25:35,080 --> 00:25:36,180
+ihr irgendwelche Fachwörter kennt,
+
+693
+00:25:36,360 --> 00:25:38,980
+sehr gut. Gerne einbringen, natürlich
+
+694
+00:25:38,980 --> 00:25:40,620
+nur, wenn sie passen. Kein
+
+695
+00:25:40,620 --> 00:25:42,440
+bezugsloses oder nicht erfordertes
+
+696
+00:25:42,440 --> 00:25:44,220
+Hintergrundwissen einfügen, also wenn
+
+697
+00:25:44,220 --> 00:25:46,080
+da, wenn ihr da irgendwas ganz, ganz
+
+698
+00:25:46,080 --> 00:25:50,220
+toll gelernt habt, aber es generell
+
+699
+00:25:50,220 --> 00:25:51,420
+überhaupt nicht passt, dann bringt
+
+700
+00:25:51,420 --> 00:25:53,380
+das auch nicht ein. Nein. Also das
+
+701
+00:25:53,380 --> 00:25:54,720
+sollte nicht bezugslos sein.
+
+702
+00:26:01,450 --> 00:26:03,070
+Es sollte einen klaren Aufbau haben
+
+703
+00:26:03,070 --> 00:26:04,490
+und eine folgerichtige
+
+704
+00:26:04,490 --> 00:26:06,250
+Gedankenführung. Also dass der Leser
+
+705
+00:26:06,250 --> 00:26:08,350
+halt, der halt eure Analyse liest,
+
+706
+00:26:08,410 --> 00:26:10,110
+auch wirklich nachvollziehen kann, ja
+
+707
+00:26:10,110 --> 00:26:14,390
+das und das und das. Genau. Vielen
+
+708
+00:26:14,390 --> 00:26:16,430
+Dank für eure Aufmerksamkeit. Das war
+
+709
+00:26:16,430 --> 00:26:19,350
+es auch schon von mir. Wenn ihr noch
+
+710
+00:26:19,350 --> 00:26:20,910
+Fragen habt, wenn ich noch Folien
+
+711
+00:26:20,910 --> 00:26:22,350
+zurückgehen soll oder wenn ich noch
+
+712
+00:26:22,350 --> 00:26:23,410
+was anderes erklären soll, Also
+
+713
+00:26:23,410 --> 00:26:24,790
+schreibt einmal gerne bitte in den
+
+714
+00:26:24,790 --> 00:26:26,110
+Chat, dann kann ich das gerne machen.
+
+715
+00:26:26,770 --> 00:26:28,310
+Wenn nicht, wünsche ich euch noch
+
+716
+00:26:28,310 --> 00:26:29,730
+einen schönen Sonntagabend. Ich
+
+717
+00:26:29,730 --> 00:26:31,050
+drücke euch die Daumen, wünsche euch
+
+718
+00:26:31,050 --> 00:26:33,650
+viel Erfolg für eure nächste Klausur.
+
+719
+00:26:36,530 --> 00:26:38,890
+Bei Fragen gerne reinschreiben. Wenn
+
+720
+00:26:38,890 --> 00:26:40,410
+nicht, dann bedanke ich mich, auch im
+
+721
+00:26:40,410 --> 00:26:41,510
+Namen der Schülerhilfe.
+
+722
+00:26:57,240 --> 00:26:58,160
+Können Sie nochmal zu den
+
+723
+00:26:58,160 --> 00:26:58,820
+Wiederholungen.
+
+724
+00:27:13,680 --> 00:27:14,840
+Soll ich das dann nochmal ganz
+
+725
+00:27:14,840 --> 00:27:17,740
+erklären? Oder willst du nur die
+
+726
+00:27:17,740 --> 00:27:18,380
+Folien sehen?
+
+727
+00:27:23,860 --> 00:27:24,300
+da,
+
+728
+00:27:28,270 --> 00:27:29,490
+dann erkläre ich das auch nochmal.
+
+729
+00:27:29,830 --> 00:27:30,790
+Also, es ist die Mitte der
+
+730
+00:27:30,790 --> 00:27:31,910
+Wiederholung, die Mitte der
+
+731
+00:27:31,910 --> 00:27:33,290
+Wiederholung beziehungsweise
+
+732
+00:27:34,110 --> 00:27:35,690
+Variationen zur inneren Gliederung
+
+733
+00:27:35,690 --> 00:27:37,790
+von Gedichten. Also, es ist halt für
+
+734
+00:27:37,790 --> 00:27:39,430
+eine innere Struktur. Die schaffen
+
+735
+00:27:39,430 --> 00:27:41,290
+Einheitlichkeit, also dass alles
+
+736
+00:27:41,290 --> 00:27:42,810
+einheitlich aussieht, werden dadurch
+
+737
+00:27:42,810 --> 00:27:45,530
+als harmonisch und abgerundet
+
+738
+00:27:45,530 --> 00:27:47,350
+empfunden. Wichtige Bedeutungen haben
+
+739
+00:27:47,350 --> 00:27:49,170
+sie halt in der Lyrik, generellen
+
+740
+00:27:49,170 --> 00:27:51,010
+Gedichten, um halt freien Versen
+
+741
+00:27:51,010 --> 00:27:52,230
+einen poetischen Charakter zu
+
+742
+00:27:52,230 --> 00:27:53,590
+verleihen und von der alltäglichen
+
+743
+00:27:53,590 --> 00:27:55,530
+Prose abzusetzen. Also die sind
+
+744
+00:27:55,530 --> 00:27:57,570
+wichtig für die Lyrik, um halt diesen
+
+745
+00:27:57,570 --> 00:27:59,210
+freien Versen halt irgendwas
+
+746
+00:27:59,210 --> 00:28:00,970
+Poetisches und poetischen Charakter
+
+747
+00:28:00,970 --> 00:28:02,350
+zu verleihen. Dafür sind halt
+
+748
+00:28:02,350 --> 00:28:05,150
+Wiederholungen. Genau. Ich hoffe, du
+
+749
+00:28:05,150 --> 00:28:07,170
+hast es verstanden. Weitere Fragen.
+
+750
+00:28:07,450 --> 00:28:08,690
+Soll ich auf irgendwelche Folien
+
+751
+00:28:08,690 --> 00:28:09,730
+nochmal eingehen? Soll ich irgendwas
+
+752
+00:28:09,730 --> 00:28:13,370
+nochmal besser, genauer erklären,
+
+753
+00:28:13,570 --> 00:28:15,010
+deutlicher erklären? Schreibt gerne,
+
+754
+00:28:15,290 --> 00:28:19,130
+dann weiß ich Bescheid. Auch wenn ihr
+
+755
+00:28:19,130 --> 00:28:20,230
+keine Fragen mehr habt, schreibt das
+
+756
+00:28:20,230 --> 00:28:21,650
+einmal gerne, dann weiß ich nämlich
+
+757
+00:28:21,650 --> 00:28:22,270
+Bescheid.
+
+758
+00:28:43,340 --> 00:28:44,960
+Gerne, Adi. Ich
+
+759
+00:28:48,230 --> 00:28:49,410
+hoffe, es hat euch gefallen.
+
+760
+00:28:53,360 --> 00:28:54,840
+Ja, kippst die Folien.
+
+761
+00:29:01,760 --> 00:29:04,540
+Genau. Also, wie gesagt, vermeiden
+
+762
+00:29:04,540 --> 00:29:06,140
+Sie reine Beschreibung ohne Deutung.
+
+763
+00:29:06,200 --> 00:29:07,120
+Also es sollte nicht einfach nur
+
+764
+00:29:07,120 --> 00:29:08,600
+beschrieben werden. Man braucht
+
+765
+00:29:08,600 --> 00:29:10,480
+unbedingt eine Deutung. Also zum
+
+766
+00:29:10,480 --> 00:29:12,020
+Beispiel, ja, diese Metapher könnte
+
+767
+00:29:12,020 --> 00:29:13,720
+das und das sein. Also diese Metapher
+
+768
+00:29:13,720 --> 00:29:17,500
+deutet darauf hin. Deutungen müssen
+
+769
+00:29:17,500 --> 00:29:19,240
+begründet werden. Also warum denken
+
+770
+00:29:19,240 --> 00:29:20,940
+Sie das? Warum ist das so? Und halt
+
+771
+00:29:20,940 --> 00:29:22,880
+nachvollziehbar sein, dass der Leser
+
+772
+00:29:22,880 --> 00:29:23,780
+es auch nachvollziehen kann.
+
+773
+00:29:24,200 --> 00:29:25,460
+Vermeiden Sie Spekulationen ohne
+
+774
+00:29:25,460 --> 00:29:26,900
+Textbezug. Spekulationen ohne
+
+775
+00:29:26,900 --> 00:29:28,220
+Textbezug, zum Beispiel, ja, das
+
+776
+00:29:28,220 --> 00:29:30,080
+könnte so und so sein, weil das und
+
+777
+00:29:30,080 --> 00:29:31,880
+das. Und dann halt kein Textbezug,
+
+778
+00:29:31,880 --> 00:29:33,680
+das passt halt nicht. Und keine
+
+779
+00:29:33,680 --> 00:29:35,660
+Wertung zum Text. Der Text ist blöd,
+
+780
+00:29:35,660 --> 00:29:37,780
+weil es kommen keine Hunde drin vor.
+
+781
+00:29:38,440 --> 00:29:39,880
+Also es ergibt absolut keinen Sinn
+
+782
+00:29:39,880 --> 00:29:43,160
+mit den Hunden, weil keine Hunde drin
+
+783
+00:29:43,160 --> 00:29:45,020
+vorkommen. Das war einfach jetzt
+
+784
+00:29:45,020 --> 00:29:46,620
+gerade so ausgedacht, aber der Text
+
+785
+00:29:46,620 --> 00:29:48,000
+ist blöd. Man kann nicht einfach
+
+786
+00:29:48,000 --> 00:29:49,280
+irgendeinen Text dann werten. Das
+
+787
+00:29:49,280 --> 00:29:49,920
+passt da auch nicht.
+
+788
+00:29:52,760 --> 00:29:54,600
+Zitate sind Beweisstücke der Analyse.
+
+789
+00:29:54,740 --> 00:29:56,400
+Keine ganzen Strophen abschreiben.
+
+790
+00:29:56,500 --> 00:29:57,960
+Ganz wichtig, das kostet jetzt auch
+
+791
+00:29:57,960 --> 00:29:59,640
+zu viel Zeit. Die ersetzen aber auch
+
+792
+00:29:59,640 --> 00:30:01,120
+keine Begründungen. Ihr müsst selber
+
+793
+00:30:01,120 --> 00:30:04,100
+weiter begründen und die Zitate
+
+794
+00:30:04,100 --> 00:30:05,860
+müssen definitiv sorgfältig
+
+795
+00:30:05,860 --> 00:30:07,600
+ausgewählt sein. Nicht einfach
+
+796
+00:30:07,600 --> 00:30:09,040
+irgendein Zitat, Hauptsache man hat
+
+797
+00:30:09,040 --> 00:30:10,620
+eins, sondern sorgfältig auswählen,
+
+798
+00:30:10,640 --> 00:30:12,440
+ein gutes. Sachliche und korrekte
+
+799
+00:30:12,440 --> 00:30:14,740
+Ausdrucksweise ist halt vernünftig,
+
+800
+00:30:14,780 --> 00:30:17,860
+also ist halt angebracht. Wenn ihr
+
+801
+00:30:17,860 --> 00:30:19,080
+Fachwörter kennt, auch gerne
+
+802
+00:30:19,080 --> 00:30:21,920
+benutzen. Kein bezugloses oder nicht
+
+803
+00:30:21,920 --> 00:30:22,940
+erforderliches Hintergrundwissen
+
+804
+00:30:22,940 --> 00:30:24,440
+einfügen, also nicht irgendwie ohne
+
+805
+00:30:24,440 --> 00:30:26,120
+Bezug da irgendwas einfügen,
+
+806
+00:30:26,120 --> 00:30:26,960
+irgendwas gar nicht zum Thema passt.
+
+807
+00:30:27,420 --> 00:30:28,760
+Sollte einen klaren Aufbau haben,
+
+808
+00:30:28,880 --> 00:30:30,300
+eine gute Struktur und eine
+
+809
+00:30:30,300 --> 00:30:31,600
+folgenrichtige Gedankenführung.
+
+810
+00:30:31,800 --> 00:30:33,100
+Genau, dass man euch auch folgen
+
+811
+00:30:33,100 --> 00:30:37,540
+kann. Genau, das war's. Weitere
+
+812
+00:30:37,540 --> 00:30:39,200
+Fragen? Habt ihr noch Fragen?
+
+813
+00:31:23,100 --> 00:31:24,500
+Da kann ich gerade, also zu den
+
+814
+00:31:24,500 --> 00:31:25,560
+Gerichten aus dem Barock kann ich
+
+815
+00:31:25,560 --> 00:31:27,120
+gerade da gar nichts zu sagen. Du
+
+816
+00:31:27,120 --> 00:31:28,160
+findest im Internet aber wirklich
+
+817
+00:31:28,160 --> 00:31:30,240
+viel darüber. Schau dich da doch mal
+
+818
+00:31:30,240 --> 00:31:32,760
+um. So jetzt gerade aus dem Stehgreif
+
+819
+00:31:32,760 --> 00:31:35,940
+kann ich da eigentlich nichts zu
+
+820
+00:31:35,940 --> 00:31:37,780
+sagen. Sorry. Aber schau mal im
+
+821
+00:31:37,780 --> 00:31:38,780
+Internet, da steht viel dazu.
+
+822
+00:31:54,440 --> 00:31:56,540
+Okay. Gut, dann wünsche ich euch
+
+823
+00:31:56,540 --> 00:31:57,980
+beiden noch, ich weiß nicht, Adrian,
+
+824
+00:31:58,100 --> 00:32:00,200
+hast du noch Fragen? Wenn nicht, dann
+
+825
+00:32:00,200 --> 00:32:02,200
+wünsche ich euch beiden einen schönen
+
+826
+00:32:02,200 --> 00:32:04,180
+Sonntag, ganz, ganz viel Erfolg für
+
+827
+00:32:04,180 --> 00:32:05,580
+die nächste Klausur. Vielleicht sieht
+
+828
+00:32:05,580 --> 00:32:07,960
+man sich ja in einem nächsten
+
+829
+00:32:07,960 --> 00:32:10,400
+Webinar, wer weiß. Und genau, ich
+
+830
+00:32:10,400 --> 00:32:14,970
+bedanke mich. Ja, ich warte jetzt
+
+831
+00:32:14,970 --> 00:32:17,210
+noch eure Antworten ab. Ah, danke
+
+832
+00:32:17,210 --> 00:32:17,450
+schön.
+
+833
+00:32:25,160 --> 00:32:27,460
+Okay, das freut mich, Pepe, dass es
+
+834
+00:32:27,460 --> 00:32:29,660
+dir gefallen hat. Also Pepe, Pepe,
+
+835
+00:32:29,760 --> 00:32:34,160
+Pepe. Gut, danke, gerne. Tschüss!
+

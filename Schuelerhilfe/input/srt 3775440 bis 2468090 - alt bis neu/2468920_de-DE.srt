@@ -1,0 +1,3476 @@
+1
+00:00:01,490 --> 00:00:03,190
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,190 --> 00:00:05,210
+Benullikette und Binomialverteilung.
+
+3
+00:00:05,540 --> 00:00:07,790
+Wir werden uns in diesem Webinar mit
+
+4
+00:00:07,790 --> 00:00:09,430
+der Stochastik befassen, also mit der
+
+5
+00:00:09,430 --> 00:00:10,590
+Benullikette und der
+
+6
+00:00:10,590 --> 00:00:12,430
+Binomialverteilung. Wir werden uns
+
+7
+00:00:12,430 --> 00:00:14,870
+auch einige Besonderheiten ansehen
+
+8
+00:00:14,870 --> 00:00:17,070
+und natürlich werden wir uns die
+
+9
+00:00:17,070 --> 00:00:19,030
+Benullikette auch zu Anfang ganz
+
+10
+00:00:19,030 --> 00:00:21,970
+genau ansehen. Das heißt, wir werden
+
+11
+00:00:21,970 --> 00:00:23,810
+erstmal darüber sprechen, was ist
+
+12
+00:00:23,810 --> 00:00:26,550
+eine Binomialverteilung. Dann schauen
+
+13
+00:00:26,550 --> 00:00:27,870
+wir uns die Bedeutung des
+
+14
+00:00:27,870 --> 00:00:29,750
+Binomialkoeffizienten an. Der ist
+
+15
+00:00:29,750 --> 00:00:31,670
+nämlich ganz wichtig und wenn man
+
+16
+00:00:31,670 --> 00:00:32,750
+diese Bedeutung von diesem
+
+17
+00:00:32,750 --> 00:00:34,470
+Binomialkoeffizient verstanden hat,
+
+18
+00:00:34,570 --> 00:00:36,190
+dann erschließt sich einem
+
+19
+00:00:36,190 --> 00:00:37,190
+wahrscheinlich auch die Bernoulli
+
+20
+00:00:37,190 --> 00:00:40,010
+-Kette um einiges besser. Deswegen
+
+21
+00:00:40,010 --> 00:00:41,370
+schauen wir uns dann im Anschluss
+
+22
+00:00:41,370 --> 00:00:44,210
+noch die Bernoulli-Kette an. Danach
+
+23
+00:00:44,210 --> 00:00:45,650
+die Binomialverteilung nochmal im
+
+24
+00:00:45,650 --> 00:00:47,290
+Allgemeinen. Also dann rechnen wir
+
+25
+00:00:47,290 --> 00:00:48,450
+auch noch ein bisschen damit. Und
+
+26
+00:00:48,450 --> 00:00:50,370
+ganz zum Schluss rechnen wir auch
+
+27
+00:00:50,370 --> 00:00:51,950
+nochmal mit der Benullikette bzw.
+
+28
+00:00:52,350 --> 00:00:54,570
+schauen uns Besonderheiten daran an,
+
+29
+00:00:54,610 --> 00:00:56,410
+also besondere Aufgabenstellungen.
+
+30
+00:00:57,650 --> 00:00:59,630
+Gut, dann fangen wir mal mit der
+
+31
+00:00:59,630 --> 00:01:02,050
+Minimalverteilung an. Ganz vorab
+
+32
+00:01:02,050 --> 00:01:03,730
+erstmal, die Minimalverteilung ist
+
+33
+00:01:03,730 --> 00:01:05,650
+eine besondere Art der diskreten
+
+34
+00:01:05,650 --> 00:01:07,550
+Wahrscheinlichkeitsverteilung. Das
+
+35
+00:01:07,550 --> 00:01:10,670
+heißt, eine diskrete
+
+36
+00:01:10,670 --> 00:01:12,790
+Wahrscheinlichkeitsverteilung liegt
+
+37
+00:01:12,790 --> 00:01:16,670
+nur dann vor, wenn sich die
+
+38
+00:01:16,670 --> 00:01:18,750
+Zufallsgröße x, also das Ereignis,
+
+39
+00:01:18,850 --> 00:01:20,730
+auf eine endliche oder absehbare
+
+40
+00:01:20,730 --> 00:01:22,630
+Menge konzentriert. Das heißt, dass
+
+41
+00:01:22,630 --> 00:01:24,410
+unser n definiert ist. Was das n ist,
+
+42
+00:01:24,470 --> 00:01:27,250
+werden wir später noch sehen. Und was
+
+43
+00:01:27,250 --> 00:01:29,030
+bei der BIM-R-Verteilung bei uns auch
+
+44
+00:01:29,030 --> 00:01:30,750
+ganz wichtig ist, es gibt nur zwei
+
+45
+00:01:30,750 --> 00:01:33,370
+mögliche Ergebnisse. Das heißt, wir
+
+46
+00:01:33,370 --> 00:01:35,350
+haben entweder einen Treffer oder
+
+47
+00:01:35,350 --> 00:01:36,730
+einen Niederschlag. beziehungsweise
+
+48
+00:01:36,730 --> 00:01:39,730
+ein erfolg oder ein misserfolg das
+
+49
+00:01:39,730 --> 00:01:41,910
+heißt unser ereignis kann eintreffen
+
+50
+00:01:41,910 --> 00:01:44,410
+oder es kann nicht eintreffen nur
+
+51
+00:01:44,410 --> 00:01:45,890
+diese zwei möglichkeiten gibt es
+
+52
+00:01:45,890 --> 00:01:47,590
+keine dritte wir
+
+53
+00:01:49,830 --> 00:01:51,370
+sehen hier erstmal also wir schauen
+
+54
+00:01:51,370 --> 00:01:52,530
+uns jetzt an wie sich dieser
+
+55
+00:01:52,530 --> 00:01:54,530
+minimalkoeffizient zusammensitzt und
+
+56
+00:01:54,530 --> 00:01:56,650
+was eigentlich bedeutet wir sehen
+
+57
+00:01:56,650 --> 00:01:59,010
+hier drei kugeln unterschiedlicher
+
+58
+00:01:59,010 --> 00:02:03,130
+farbe und wir haben vier plätze die
+
+59
+00:02:03,130 --> 00:02:07,270
+frage ist jetzt Jetzt, wie viele
+
+60
+00:02:07,270 --> 00:02:09,990
+verschiedene Möglichkeiten gibt es,
+
+61
+00:02:10,110 --> 00:02:12,230
+diese drei Kugeln auf vier Plätze zu
+
+62
+00:02:12,230 --> 00:02:14,490
+verteilen? Wir haben das hier erstmal
+
+63
+00:02:14,490 --> 00:02:16,850
+in groben vier geteilt. Und zwar
+
+64
+00:02:16,850 --> 00:02:17,750
+sieht man hier, dass hier immer die
+
+65
+00:02:17,750 --> 00:02:19,030
+Leerstelle verschoben wurde. Hier ist
+
+66
+00:02:19,030 --> 00:02:20,430
+die ganz links. Also hier ist die an
+
+67
+00:02:20,430 --> 00:02:21,390
+der ersten Stelle, hier an der
+
+68
+00:02:21,390 --> 00:02:23,350
+zweiten Stelle, hier an der dritten
+
+69
+00:02:23,350 --> 00:02:24,970
+Stelle und hier unten an der vierten
+
+70
+00:02:24,970 --> 00:02:26,450
+Stelle. Das heißt, man kann als
+
+71
+00:02:26,450 --> 00:02:28,490
+erstes die Leerstelle verschieben und
+
+72
+00:02:28,490 --> 00:02:30,350
+dann kann man noch die Reihenfolge
+
+73
+00:02:30,350 --> 00:02:32,590
+hier variieren. Das heißt, wir sehen
+
+74
+00:02:32,590 --> 00:02:35,410
+hier steht zweimal grün vorne und
+
+75
+00:02:35,410 --> 00:02:36,890
+dann wechseln die beiden anderen
+
+76
+00:02:36,890 --> 00:02:38,750
+Farben und das geht immer so weiter.
+
+77
+00:02:38,930 --> 00:02:40,890
+Das heißt, wir sehen erstmal hier,
+
+78
+00:02:41,010 --> 00:02:43,510
+wir haben vier Möglichkeiten die
+
+79
+00:02:43,510 --> 00:02:46,230
+Leerstelle zu verschieben. Dann haben
+
+80
+00:02:46,230 --> 00:02:48,230
+wir noch drei Möglichkeiten für die
+
+81
+00:02:48,230 --> 00:02:49,390
+Kugelfarbe, mit der das Ganze
+
+82
+00:02:49,390 --> 00:02:52,290
+anfängt. Und dann gibt es nur noch
+
+83
+00:02:52,290 --> 00:02:54,110
+zwei Möglichkeiten für die Variation
+
+84
+00:02:54,110 --> 00:02:56,990
+dahinter. Das heißt, wir kommen so,
+
+85
+00:02:57,130 --> 00:02:58,270
+wenn man das so logisch sich
+
+86
+00:02:58,270 --> 00:03:01,770
+überlegen will, auf eine Zahl von 24.
+
+87
+00:03:01,810 --> 00:03:03,530
+Das heißt, es gibt 24 Möglichkeiten,
+
+88
+00:03:03,730 --> 00:03:05,170
+diese drei Kugeln mit
+
+89
+00:03:05,170 --> 00:03:07,470
+unterschiedlicher Farbe auf vier
+
+90
+00:03:07,470 --> 00:03:10,150
+Plätzen zu verteilen. Das Ganze kann
+
+91
+00:03:10,150 --> 00:03:12,550
+man natürlich auch mit der
+
+92
+00:03:12,550 --> 00:03:14,890
+Kombinatorik beschreiben. Ja, also
+
+93
+00:03:14,890 --> 00:03:16,630
+das wäre hier gewesen die Fakultät
+
+94
+00:03:16,630 --> 00:03:18,870
+von 4 und die wäre auch 24 gewesen.
+
+95
+00:03:21,110 --> 00:03:23,290
+Als nächstes fragen wir uns aber, wir
+
+96
+00:03:23,290 --> 00:03:25,490
+haben jetzt drei Kugeln gleicher
+
+97
+00:03:25,490 --> 00:03:27,790
+Farbe und wollen diese auf vier
+
+98
+00:03:27,790 --> 00:03:29,450
+Plätze verteilen. Also vom Prinzip
+
+99
+00:03:29,450 --> 00:03:31,370
+her genau die gleiche Aufgabe, nur
+
+100
+00:03:31,370 --> 00:03:33,130
+dass wir jetzt drei Kugeln mit der
+
+101
+00:03:33,130 --> 00:03:35,150
+gleichen Farbe haben. Wir stellen uns
+
+102
+00:03:35,150 --> 00:03:36,550
+jetzt also vor, dass hier alle Kugeln
+
+103
+00:03:36,550 --> 00:03:38,170
+die gleiche Farbe haben und wir diese
+
+104
+00:03:38,170 --> 00:03:39,750
+daher natürlich nicht
+
+105
+00:03:39,750 --> 00:03:43,410
+auseinanderhalten können. Ja, das
+
+106
+00:03:43,410 --> 00:03:44,890
+würde heißen, das sind hier alles die
+
+107
+00:03:44,890 --> 00:03:46,650
+gleichen Fälle für uns. Alle drei
+
+108
+00:03:46,650 --> 00:03:47,810
+kommen hintereinander, eine
+
+109
+00:03:47,810 --> 00:03:49,610
+Leerstelle davor. Das heißt, wir
+
+110
+00:03:49,610 --> 00:03:51,010
+können jetzt nur noch diese
+
+111
+00:03:51,010 --> 00:03:53,350
+Leerstelle verschieben. Also gibt es
+
+112
+00:03:53,350 --> 00:03:55,370
+jetzt nur noch vier Möglichkeiten.
+
+113
+00:03:56,250 --> 00:03:58,230
+Und das lässt sich berechnen durch
+
+114
+00:03:58,230 --> 00:04:00,570
+die Fakultät von 4 geteilt durch die
+
+115
+00:04:00,570 --> 00:04:02,990
+Fakultät von 3 mal die Fakultät von
+
+116
+00:04:02,990 --> 00:04:06,410
+1. Und damit haben wir nichts weiter
+
+117
+00:04:06,410 --> 00:04:09,590
+als den Binomialkoeffizienten 4 über
+
+118
+00:04:09,590 --> 00:04:13,570
+3 berechnet. Und der
+
+119
+00:04:13,570 --> 00:04:19,570
+Binomialkoeffizient gibt dabei nur
+
+120
+00:04:19,570 --> 00:04:22,610
+an, wie viele Möglichkeiten es gibt,
+
+121
+00:04:22,730 --> 00:04:26,430
+bei n Versuchen k Treffer zu
+
+122
+00:04:26,430 --> 00:04:30,810
+erreichen. Also wenn man das nochmal
+
+123
+00:04:30,810 --> 00:04:32,770
+als Beispiel heranzieht, wir würden
+
+124
+00:04:32,770 --> 00:04:39,010
+viermal eine Kugel ziehen, wir haben
+
+125
+00:04:39,010 --> 00:04:42,230
+sagen wir mal... Rote Kugeln und
+
+126
+00:04:42,230 --> 00:04:45,210
+weiße Kugeln. Die weißen Kugeln
+
+127
+00:04:45,210 --> 00:04:46,230
+tauchen hier jetzt sagen wir mal als
+
+128
+00:04:46,230 --> 00:04:48,190
+unsichtbar auf. Dann können wir als
+
+129
+00:04:48,190 --> 00:04:50,090
+erstes eine weiße Kugel ziehen, dann
+
+130
+00:04:50,090 --> 00:04:52,010
+drei rote. Oder wir ziehen erst eine
+
+131
+00:04:52,010 --> 00:04:53,650
+rote, dann eine unsichtbare, dann
+
+132
+00:04:53,650 --> 00:04:56,050
+nochmal zwei rote. Oder wir ziehen
+
+133
+00:04:56,050 --> 00:04:58,470
+erst zwei rote, dann die unsichtbare
+
+134
+00:04:58,470 --> 00:05:00,150
+und dann eine rote. Oder wir ziehen
+
+135
+00:05:00,150 --> 00:05:02,010
+erst nacheinander drei rote und dann
+
+136
+00:05:02,010 --> 00:05:06,290
+die unsichtbare Kugel. Das heißt, es
+
+137
+00:05:06,290 --> 00:05:08,190
+gibt insgesamt vier Möglichkeiten,
+
+138
+00:05:08,710 --> 00:05:13,510
+dass wenn man vier Kugeln zieht, drei
+
+139
+00:05:13,510 --> 00:05:15,430
+rote Kugeln und eine weiße zu
+
+140
+00:05:15,430 --> 00:05:18,410
+erhalten. Und das Ganze kann man mit
+
+141
+00:05:18,410 --> 00:05:20,350
+dem Biomia-F-Koeffizient n über k
+
+142
+00:05:20,350 --> 00:05:20,910
+bestimmen.
+
+143
+00:05:23,960 --> 00:05:26,580
+Die Bezeichnung n über k ist
+
+144
+00:05:26,580 --> 00:05:29,300
+wesentlich gebräuchlicher, aber man
+
+145
+00:05:29,300 --> 00:05:32,940
+kann auch k aus n dazu sagen. N ist
+
+146
+00:05:32,940 --> 00:05:34,820
+wie gesagt die Anzahl der Versuche,
+
+147
+00:05:34,840 --> 00:05:36,720
+die wir haben oder wie oft wir das
+
+148
+00:05:36,720 --> 00:05:38,540
+Zufallsexperiment durchführen und K
+
+149
+00:05:38,540 --> 00:05:40,160
+ist die Anzahl der Treffer, die wir
+
+150
+00:05:40,160 --> 00:05:40,640
+haben wollen.
+
+151
+00:05:45,130 --> 00:05:46,550
+Diesen Binarialkoeffizienten kann man
+
+152
+00:05:46,550 --> 00:05:49,630
+auch lösen, indem man angibt, ich
+
+153
+00:05:49,630 --> 00:05:51,430
+schreibe es mal daneben, das
+
+154
+00:05:53,960 --> 00:05:55,880
+ist nichts weiter als die Fakultät
+
+155
+00:05:55,880 --> 00:06:01,820
+von N geteilt durch K-Fakultät mal
+
+156
+00:06:01,820 --> 00:06:03,780
+auf.
+
+157
+00:06:05,720 --> 00:06:08,900
+n minus k und davon auch wieder die
+
+158
+00:06:08,900 --> 00:06:11,340
+Fakultät. So kann man so ein
+
+159
+00:06:11,340 --> 00:06:12,700
+Binärkoeffizienten auch händisch
+
+160
+00:06:12,700 --> 00:06:15,360
+lösen. Man sieht, das wurde ja auch
+
+161
+00:06:15,360 --> 00:06:17,780
+gemacht. Diese 1 setzt sich einfach
+
+162
+00:06:17,780 --> 00:06:19,880
+aus 4 minus 3 zusammen.
+
+163
+00:06:24,960 --> 00:06:27,620
+Gut, kommen wir dann zur Bernoulli
+
+164
+00:06:27,620 --> 00:06:30,300
+-Kette. Und zwar das Wichtigste
+
+165
+00:06:30,300 --> 00:06:32,740
+zuerst. Das Allerwichtigste ist, die
+
+166
+00:06:32,740 --> 00:06:34,600
+Bernoulli-Kette kann nur beim Ziehen
+
+167
+00:06:34,600 --> 00:06:36,040
+mit Zurücklegen angewendet werden.
+
+168
+00:06:36,080 --> 00:06:37,340
+Das heißt, die Wahrscheinlichkeit
+
+169
+00:06:37,340 --> 00:06:38,440
+muss... konstant bleiben,
+
+170
+00:06:38,560 --> 00:06:41,840
+beziehungsweise auch die Menge, die
+
+171
+00:06:41,840 --> 00:06:44,480
+sich zum Beispiel,
+
+172
+00:06:45,820 --> 00:06:47,520
+wenn man ein Urnexperiment hat, die
+
+173
+00:06:47,520 --> 00:06:49,100
+Menge der Kugeln in der Urne muss
+
+174
+00:06:49,100 --> 00:06:50,480
+dabei auch konstant bleiben. Deswegen
+
+175
+00:06:50,480 --> 00:06:52,880
+ziehen mit zurücklegen. Sobald die
+
+176
+00:06:52,880 --> 00:06:54,440
+Kugel, die rausgezogen wurde, nicht
+
+177
+00:06:54,440 --> 00:06:56,260
+wieder zurückgelegt wird, kann man
+
+178
+00:06:56,260 --> 00:06:58,000
+die Benullikette nicht mehr anwenden.
+
+179
+00:06:58,280 --> 00:07:00,080
+Dort muss man eine andere Verteilung
+
+180
+00:07:00,080 --> 00:07:01,240
+anwenden, die schauen wir uns auch
+
+181
+00:07:01,240 --> 00:07:05,140
+später noch an. Des Weiteren gibt es
+
+182
+00:07:05,140 --> 00:07:06,560
+während des Experiments nur zwei
+
+183
+00:07:06,560 --> 00:07:08,040
+Möglichkeiten. Das heißt, wir haben
+
+184
+00:07:08,040 --> 00:07:09,820
+entweder einen Treffer oder keinen
+
+185
+00:07:09,820 --> 00:07:12,340
+Treffer, also eine Niete. Das muss
+
+186
+00:07:12,340 --> 00:07:14,520
+man oftmals ein bisschen noch anders
+
+187
+00:07:14,520 --> 00:07:16,580
+definieren. Das heißt, wenn es zum
+
+188
+00:07:16,580 --> 00:07:18,400
+Beispiel rote, blaue und grüne Kugeln
+
+189
+00:07:18,400 --> 00:07:20,460
+gibt und man möchte die
+
+190
+00:07:20,460 --> 00:07:21,440
+Wahrscheinlichkeit haben für eine
+
+191
+00:07:21,440 --> 00:07:24,580
+rote Kugel, dann ist eine rote Kugel
+
+192
+00:07:24,580 --> 00:07:27,420
+ziehen der Treffer. Und wenn man eine
+
+193
+00:07:27,420 --> 00:07:29,200
+grüne oder eine blaue Kugel zieht,
+
+194
+00:07:29,260 --> 00:07:31,960
+ist beides kein Treffer. Das muss man
+
+195
+00:07:31,960 --> 00:07:33,420
+halt so vereinfachen, damit man die
+
+196
+00:07:33,420 --> 00:07:34,980
+Benullikette entsprechend anwenden
+
+197
+00:07:34,980 --> 00:07:38,080
+kann. Hier sehen wir die
+
+198
+00:07:38,080 --> 00:07:39,400
+Benullikette. Hier haben wir erstmal
+
+199
+00:07:39,400 --> 00:07:41,020
+unseren BMI-Koeffizient, den wir
+
+200
+00:07:41,020 --> 00:07:42,800
+gerade beschrieben haben. Der gibt
+
+201
+00:07:42,800 --> 00:07:44,860
+nun mal an, wie viele Möglichkeiten
+
+202
+00:07:44,860 --> 00:07:47,640
+es gibt, diese Konstellation aus N
+
+203
+00:07:47,640 --> 00:07:50,140
+und K, also aus Versuchen und
+
+204
+00:07:50,140 --> 00:07:53,440
+Treffern, zu erreichen. P ist die
+
+205
+00:07:53,440 --> 00:07:56,500
+Einzelwahrscheinlichkeit
+
+206
+00:07:56,500 --> 00:07:58,180
+des Ereignisses. Also zum Beispiel,
+
+207
+00:07:58,220 --> 00:08:00,620
+wenn wir den Würfelwurf betrachten,
+
+208
+00:08:00,640 --> 00:08:03,640
+dann wäre es einfach 1 Sechstel. K
+
+209
+00:08:03,640 --> 00:08:06,980
+ist die Anzahl der Treffer und N ist
+
+210
+00:08:06,980 --> 00:08:08,800
+die Länge der Kette, also die Länge
+
+211
+00:08:08,800 --> 00:08:10,280
+der Bernoulli-Kette, beziehungsweise
+
+212
+00:08:10,280 --> 00:08:14,580
+die Anzahl der Versuche. Und wie
+
+213
+00:08:14,580 --> 00:08:16,100
+gesagt, dieser Binomialkoeffizient
+
+214
+00:08:16,100 --> 00:08:17,820
+gibt an, wie viele Möglichkeiten für
+
+215
+00:08:17,820 --> 00:08:19,560
+das Auftreten der Trefferanzahl
+
+216
+00:08:19,560 --> 00:08:20,200
+existieren.
+
+217
+00:08:24,820 --> 00:08:28,700
+Was dabei ganz wichtig ist, die
+
+218
+00:08:28,700 --> 00:08:30,280
+Bernoulli-Kette berechnet leider
+
+219
+00:08:30,280 --> 00:08:31,980
+immer nur die Wahrscheinlichkeit für
+
+220
+00:08:31,980 --> 00:08:35,840
+P von X gleich K. Das heißt, die
+
+221
+00:08:35,840 --> 00:08:37,020
+Bernoulli-Kette berechnet die
+
+222
+00:08:37,020 --> 00:08:38,660
+Wahrscheinlichkeit für genau K
+
+223
+00:08:38,660 --> 00:08:43,720
+Treffer. Also, wenn wir für das K an
+
+224
+00:08:43,720 --> 00:08:46,140
+3 einsetzen, ist das Ergebnis die
+
+225
+00:08:46,140 --> 00:08:47,600
+Wahrscheinlichkeit für genau K
+
+226
+00:08:47,600 --> 00:08:51,300
+Treffer. Deswegen muss man bei
+
+227
+00:08:51,300 --> 00:08:54,860
+manchen Aufgaben oftmals öfter die
+
+228
+00:08:54,860 --> 00:08:56,960
+Bernoulli-Formel bzw. die Bernoulli
+
+229
+00:08:56,960 --> 00:09:00,620
+-Kette anwenden. Und zwar, wenn wir
+
+230
+00:09:00,620 --> 00:09:05,220
+sowas haben wie ein oder zwei
+
+231
+00:09:05,220 --> 00:09:06,300
+Treffer, dann müssen wir die
+
+232
+00:09:06,300 --> 00:09:07,760
+Wahrscheinlichkeit für ein Treffer,
+
+233
+00:09:07,800 --> 00:09:09,740
+also für K gleich 1 ausrechnen und
+
+234
+00:09:09,740 --> 00:09:11,200
+die Wahrscheinlichkeit für zwei
+
+235
+00:09:11,200 --> 00:09:14,540
+Treffer, also K gleich 2. Hier sehen
+
+236
+00:09:14,540 --> 00:09:16,180
+wir jetzt ein Beispiel. In einer
+
+237
+00:09:16,180 --> 00:09:18,260
+Kiste befinden sich zehn Nägel. Mit
+
+238
+00:09:18,260 --> 00:09:20,160
+einer Wahrscheinlichkeit von 10% ist
+
+239
+00:09:20,160 --> 00:09:22,040
+der Nagel kaputt. Wie hoch ist die
+
+240
+00:09:22,040 --> 00:09:23,560
+Wahrscheinlichkeit, bei zehn Nägeln
+
+241
+00:09:23,560 --> 00:09:24,640
+zwei kaputte zu finden?
+
+242
+00:09:27,820 --> 00:09:30,460
+Das heißt, wir ziehen 10 Nägel
+
+243
+00:09:30,460 --> 00:09:32,280
+daraus. Das ist einfach die Anzahl
+
+244
+00:09:32,280 --> 00:09:35,240
+unserer Versuche, unser n. Und wir
+
+245
+00:09:35,240 --> 00:09:36,240
+wollen wissen, wie groß die
+
+246
+00:09:36,240 --> 00:09:37,860
+Wahrscheinlichkeit für 2 kaputte
+
+247
+00:09:37,860 --> 00:09:39,280
+Nägel ist. Deswegen ist unser k
+
+248
+00:09:39,280 --> 00:09:43,360
+gleich 2. Unser p, die
+
+249
+00:09:43,360 --> 00:09:44,940
+Wahrscheinlichkeit ist, da steht ja
+
+250
+00:09:44,940 --> 00:09:46,140
+schon Wahrscheinlichkeit von 10%,
+
+251
+00:09:46,140 --> 00:09:48,700
+also 10%, wichtig, das bitte immer
+
+252
+00:09:48,700 --> 00:09:50,180
+nur in Dezimal eingeben, also zum
+
+253
+00:09:50,180 --> 00:09:52,680
+Beispiel 0,1. Und so kommen wir auf
+
+254
+00:09:52,680 --> 00:09:56,740
+10 über 2 mal 0,1 hoch 2. mal 1 minus
+
+255
+00:09:56,740 --> 00:09:59,720
+0,1 hoch 10 minus 2. Also einfach
+
+256
+00:09:59,720 --> 00:10:02,960
+unser k bei eine 2, so kommt hier ein
+
+257
+00:10:02,960 --> 00:10:05,500
+hoch 2 hin. Hier hatten wir n minus
+
+258
+00:10:05,500 --> 00:10:07,500
+k, also 10 minus 2 ist das bei uns.
+
+259
+00:10:07,600 --> 00:10:08,920
+Und das können wir dann so im
+
+260
+00:10:08,920 --> 00:10:11,040
+Taschenrechner eingeben. Wenn der
+
+261
+00:10:11,040 --> 00:10:11,900
+Taschenrechner keine
+
+262
+00:10:11,900 --> 00:10:13,920
+Binomialkoeffizienten ausrechnen
+
+263
+00:10:13,920 --> 00:10:16,000
+kann, muss man die entsprechende
+
+264
+00:10:16,000 --> 00:10:17,480
+Umformung, die ich vorhin gezeigt
+
+265
+00:10:17,480 --> 00:10:18,320
+habe, anwenden.
+
+266
+00:10:21,240 --> 00:10:23,240
+Kommen wir nun zu den Spezialfällen.
+
+267
+00:10:23,240 --> 00:10:26,340
+Und zwar, die Bernoulli-Formel
+
+268
+00:10:26,340 --> 00:10:28,260
+behandelt ja immer nur die
+
+269
+00:10:28,260 --> 00:10:29,720
+Wahrscheinlichkeit für genau K
+
+270
+00:10:29,720 --> 00:10:31,160
+-Treffer. Das habe ich ja soeben
+
+271
+00:10:31,160 --> 00:10:32,380
+schon gesagt. Ich sage es trotzdem
+
+272
+00:10:32,380 --> 00:10:33,560
+nochmal, weil es wirklich wichtig
+
+273
+00:10:33,560 --> 00:10:36,580
+ist. Ganz viele Aufgabenstellungen
+
+274
+00:10:36,580 --> 00:10:38,460
+verlangen aber die Wahrscheinlichkeit
+
+275
+00:10:38,460 --> 00:10:41,760
+für höchstens K-Treffer oder die
+
+276
+00:10:41,760 --> 00:10:43,440
+Wahrscheinlichkeit für mindestens K
+
+277
+00:10:43,440 --> 00:10:45,980
+-Treffer. Und wenn man so eine
+
+278
+00:10:45,980 --> 00:10:48,800
+Aufgabe hat, kann man leider nicht so
+
+279
+00:10:48,800 --> 00:10:51,240
+einfach wie gerade die Benulli-Formel
+
+280
+00:10:51,240 --> 00:10:53,060
+nehmen und einfach n, p und k
+
+281
+00:10:53,060 --> 00:10:55,800
+einsetzen. Dann berechnet man nämlich
+
+282
+00:10:55,800 --> 00:10:56,900
+leider nur die Wahrscheinlichkeit für
+
+283
+00:10:56,900 --> 00:11:00,920
+das Einzelereignis. Und wenn wir die
+
+284
+00:11:00,920 --> 00:11:02,800
+Wahrscheinlichkeit für höchstens k
+
+285
+00:11:02,800 --> 00:11:06,940
+Treffer haben wollen, dann ist dir
+
+286
+00:11:06,940 --> 00:11:08,060
+die Wahrscheinlichkeit dafür
+
+287
+00:11:08,060 --> 00:11:09,500
+gefordert, für alle
+
+288
+00:11:09,500 --> 00:11:12,800
+Treffermöglichkeiten von 0 bis
+
+289
+00:11:12,800 --> 00:11:17,200
+einschließlich K. Das heißt, wenn es
+
+290
+00:11:17,200 --> 00:11:20,460
+heißt, höchstens 3 Treffer, dann ist
+
+291
+00:11:20,460 --> 00:11:21,600
+es die Wahrscheinlichkeit für 0
+
+292
+00:11:21,600 --> 00:11:23,720
+Treffer plus die Wahrscheinlichkeit
+
+293
+00:11:23,720 --> 00:11:25,500
+für 1 Treffer plus die
+
+294
+00:11:25,500 --> 00:11:27,600
+Wahrscheinlichkeit für 2 Treffer plus
+
+295
+00:11:27,600 --> 00:11:29,080
+die Wahrscheinlichkeit für 3 Treffer.
+
+296
+00:11:31,180 --> 00:11:33,600
+Und das ist wie gesagt das, dass man
+
+297
+00:11:33,600 --> 00:11:35,980
+die Wahrscheinlichkeit für genau K
+
+298
+00:11:35,980 --> 00:11:38,440
+-Treffer für jeden ganzzahligen Wert
+
+299
+00:11:38,440 --> 00:11:41,100
+von K, also von 0, 1, 2 und 3 in
+
+300
+00:11:41,100 --> 00:11:42,100
+meinem gerade genannten Beispiel,
+
+301
+00:11:42,400 --> 00:11:44,340
+aufsummiert. Das heißt, man muss
+
+302
+00:11:44,340 --> 00:11:48,800
+viermal die Bernoulli-Kette anwenden
+
+303
+00:11:48,800 --> 00:11:52,020
+oder die Bernoulli-Formel. Die
+
+304
+00:11:52,020 --> 00:11:53,300
+Ergebnisse werden dann einfach
+
+305
+00:11:53,300 --> 00:11:57,860
+aufsummiert. Bei der Bezeichnung bzw.
+
+306
+00:11:58,160 --> 00:12:00,460
+bei dem Wortlaut mindestens K-Treffer
+
+307
+00:12:00,460 --> 00:12:03,480
+sind alle Treffermöglichkeiten von K
+
+308
+00:12:03,480 --> 00:12:06,340
+bis N einbezogen, das heißt bis zum
+
+309
+00:12:06,340 --> 00:12:08,420
+Intervallende. Also wenn man sagt,
+
+310
+00:12:08,520 --> 00:12:12,920
+mindestens 5 Treffer beim 7-maligen
+
+311
+00:12:12,920 --> 00:12:15,360
+Versuch, heißt das, man möchte die
+
+312
+00:12:15,360 --> 00:12:16,780
+Wahrscheinlichkeit haben von 5
+
+313
+00:12:16,780 --> 00:12:18,360
+Treffern plus die Wahrscheinlichkeit
+
+314
+00:12:18,360 --> 00:12:21,040
+von 6 plus die Wahrscheinlichkeit von
+
+315
+00:12:21,040 --> 00:12:25,360
+7. Das heißt, auch hier gilt, wenn
+
+316
+00:12:25,360 --> 00:12:26,580
+man die Bernoulli-Kette nutzen
+
+317
+00:12:26,580 --> 00:12:28,700
+möchte, braucht man die
+
+318
+00:12:28,700 --> 00:12:30,040
+Wahrscheinlichkeit für jeden
+
+319
+00:12:30,040 --> 00:12:32,700
+ganzzahligen Wert von k und summiert
+
+320
+00:12:32,700 --> 00:12:34,780
+am Ende auf. Das hier vorne das
+
+321
+00:12:34,780 --> 00:12:36,160
+Zeichen ist nichts weiter als das
+
+322
+00:12:36,160 --> 00:12:38,460
+Summenzeichen. Und zwar wollen wir
+
+323
+00:12:38,460 --> 00:12:40,580
+einfach haben die Summe von i gleich
+
+324
+00:12:40,580 --> 00:12:44,440
+k bis n von p von x gleich i. Also,
+
+325
+00:12:44,560 --> 00:12:49,620
+um nochmal das Beispiel von gerade
+
+326
+00:12:49,620 --> 00:12:51,680
+anzunehmen. Man möchte mindestens 5
+
+327
+00:12:51,680 --> 00:12:54,980
+Treffer bei n gleich 7, dann ist es
+
+328
+00:12:54,980 --> 00:12:58,900
+die Summe von i gleich 5 bis 7. Dann
+
+329
+00:12:58,900 --> 00:13:01,500
+wäre es p von x gleich 5 plus p von x
+
+330
+00:13:01,500 --> 00:13:04,940
+gleich 6 plus p von x gleich 7. Und
+
+331
+00:13:04,940 --> 00:13:06,740
+diese drei einzelnen Bernoulli
+
+332
+00:13:06,740 --> 00:13:07,980
+-Formeln oder Bernoulli-Ketten
+
+333
+00:13:07,980 --> 00:13:09,000
+müssten dann entsprechend
+
+334
+00:13:09,000 --> 00:13:11,340
+ausgerechnet werden und auch am Ende
+
+335
+00:13:11,340 --> 00:13:13,020
+alle addiert werden. Das gibt dieses
+
+336
+00:13:13,020 --> 00:13:18,080
+Summenzeichen vor. Das ist natürlich
+
+337
+00:13:18,080 --> 00:13:19,180
+recht müßig.
+
+338
+00:13:22,300 --> 00:13:24,240
+Viele von euch kennen wahrscheinlich
+
+339
+00:13:24,240 --> 00:13:25,140
+schon die kumulierte
+
+340
+00:13:25,140 --> 00:13:26,420
+Wahrscheinlichkeit, zu der kommen wir
+
+341
+00:13:26,420 --> 00:13:29,140
+auch gleich. Aber was ganz wichtig
+
+342
+00:13:29,140 --> 00:13:32,300
+ist, ist der Zusammenhang von der
+
+343
+00:13:32,300 --> 00:13:34,360
+Wahrscheinlichkeit und der
+
+344
+00:13:34,360 --> 00:13:35,880
+Gegenwahrscheinlichkeit. Und zwar
+
+345
+00:13:35,880 --> 00:13:39,720
+wissen wir, das gilt, die
+
+346
+00:13:39,720 --> 00:13:41,540
+Wahrscheinlichkeit vom Ereignis plus
+
+347
+00:13:41,540 --> 00:13:43,080
+die Wahrscheinlichkeit von seinem
+
+348
+00:13:43,080 --> 00:13:45,940
+Gegenereignis, also p von x plus p
+
+349
+00:13:45,940 --> 00:13:49,500
+von x², ist immer gleich 1. Das soll
+
+350
+00:13:49,500 --> 00:13:51,140
+heißen, wenn wir den Würfelwurf
+
+351
+00:13:51,140 --> 00:13:52,400
+nochmal nehmen, wir würfeln einmal,
+
+352
+00:13:52,560 --> 00:13:54,500
+sagen wir mal, x ist das Ereignis,
+
+353
+00:13:54,520 --> 00:13:56,520
+dass eine 4 kommt und x² ist dann
+
+354
+00:13:56,520 --> 00:13:57,620
+einfach das Ereignis, dass keine 4
+
+355
+00:13:57,620 --> 00:14:00,080
+kommt. Und ich denke, es ist klar,
+
+356
+00:14:00,120 --> 00:14:02,940
+dass die Wahrscheinlichkeit 100% ist,
+
+357
+00:14:03,040 --> 00:14:05,320
+weil wenn man den Würfel wirft, kommt
+
+358
+00:14:05,320 --> 00:14:07,460
+entweder eine 4 oder keine 4. Was
+
+359
+00:14:07,460 --> 00:14:11,260
+anderes passiert nicht. Und daher
+
+360
+00:14:11,260 --> 00:14:15,040
+kann man auch mindestens K-Treffer zu
+
+361
+00:14:15,040 --> 00:14:18,280
+höchstens K-Treffer umführen. Warum
+
+362
+00:14:18,280 --> 00:14:20,600
+man das tut, sehen wir gleich. Hier
+
+363
+00:14:20,600 --> 00:14:21,560
+sehen wir erstmal, wie das
+
+364
+00:14:21,560 --> 00:14:25,020
+funktioniert. Und zwar, die
+
+365
+00:14:25,020 --> 00:14:26,940
+Bezeichnung mindestens k Treffer
+
+366
+00:14:26,940 --> 00:14:30,080
+schließt ja alle Treffermöglichkeiten
+
+367
+00:14:30,080 --> 00:14:33,500
+von 0 bis k-1 nicht ein. Das heißt,
+
+368
+00:14:33,720 --> 00:14:35,260
+nehmen wir nochmal das Beispiel von
+
+369
+00:14:35,260 --> 00:14:37,000
+gerade, wir wollen mindestens 5
+
+370
+00:14:37,000 --> 00:14:39,580
+Treffer bei n gleich 7. Dann heißt
+
+371
+00:14:39,580 --> 00:14:43,140
+das ja, dass alle Treffer von 0 bis
+
+372
+00:14:43,140 --> 00:14:45,760
+einschließlich 4 nicht da drin
+
+373
+00:14:45,760 --> 00:14:50,180
+liegen. Und wir wissen auch, dass die
+
+374
+00:14:50,180 --> 00:14:52,500
+Summe aus beiden
+
+375
+00:14:52,500 --> 00:14:53,720
+Wahrscheinlichkeiten, also die
+
+376
+00:14:53,720 --> 00:14:57,280
+Wahrscheinlichkeit von höchstens 4
+
+377
+00:14:57,280 --> 00:14:58,960
+Treffern und die Wahrscheinlichkeit
+
+378
+00:14:58,960 --> 00:15:05,420
+von mindestens 5 Treffern, 1 ist. Das
+
+379
+00:15:05,420 --> 00:15:07,360
+kann man dann umformen zu die
+
+380
+00:15:07,360 --> 00:15:12,300
+Wahrscheinlichkeit für mindestens K
+
+381
+00:15:12,300 --> 00:15:14,900
+Treffer, also das i gleich k bis n
+
+382
+00:15:14,900 --> 00:15:16,520
+ist einfach Mindestens K-Treffer ist
+
+383
+00:15:16,520 --> 00:15:19,000
+dann gleich 1 minus die
+
+384
+00:15:19,000 --> 00:15:21,300
+Wahrscheinlichkeit von 0 bis K-1
+
+385
+00:15:21,300 --> 00:15:22,460
+-Treffer. Das ist ganz wichtig. Wenn
+
+386
+00:15:22,460 --> 00:15:23,520
+ihr die Gegenwahrscheinlichkeit
+
+387
+00:15:23,520 --> 00:15:25,800
+bildet, habt ihr immer dieses K-1 da
+
+388
+00:15:25,800 --> 00:15:29,540
+drin. Weil 5 Treffer haben wir ja
+
+389
+00:15:29,540 --> 00:15:31,840
+schon unser Ereignis erfüllt.
+
+390
+00:15:31,900 --> 00:15:35,480
+Deswegen ist die Grenze höchstens 4
+
+391
+00:15:35,480 --> 00:15:36,140
+Treffer für die
+
+392
+00:15:36,140 --> 00:15:38,060
+Gegenwahrscheinlichkeit. Deswegen
+
+393
+00:15:38,060 --> 00:15:42,440
+haben wir hier ein K-1. Und so haben
+
+394
+00:15:42,440 --> 00:15:46,220
+wir jetzt... aus dem Wortlaut
+
+395
+00:15:46,220 --> 00:15:48,160
+mindestens K-Treffer, das so
+
+396
+00:15:48,160 --> 00:15:49,500
+umgeformt, dass wir hier die
+
+397
+00:15:49,500 --> 00:15:51,340
+Wahrscheinlichkeit für höchstens K
+
+398
+00:15:51,340 --> 00:15:52,860
+-Treffer einsetzen, beziehungsweise
+
+399
+00:15:52,860 --> 00:15:55,420
+ausrechnen. Aber dadurch, dass wir
+
+400
+00:15:55,420 --> 00:15:56,860
+die Gegenwahrscheinlichkeit bilden, 1
+
+401
+00:15:56,860 --> 00:15:58,000
+-, haben wir am Ende die
+
+402
+00:15:58,000 --> 00:15:59,400
+Wahrscheinlichkeit mindestens K
+
+403
+00:15:59,400 --> 00:16:01,760
+-Treffer bestimmt. In Worten heißt
+
+404
+00:16:01,760 --> 00:16:03,520
+das einfach, was hier oben steht. Die
+
+405
+00:16:03,520 --> 00:16:05,520
+Wahrscheinlichkeit von mindestens K
+
+406
+00:16:05,520 --> 00:16:07,560
+-Treffern ist gleich 1 minus die
+
+407
+00:16:07,560 --> 00:16:08,980
+Wahrscheinlichkeit von höchstens K
+
+408
+00:16:08,980 --> 00:16:09,820
+-Treffern, das heißt die
+
+409
+00:16:09,820 --> 00:16:12,720
+Gegenwahrscheinlichkeit. Und wir
+
+410
+00:16:12,720 --> 00:16:14,780
+nutzen natürlich hier aus einem ganz
+
+411
+00:16:14,780 --> 00:16:16,040
+bestimmten Grund die
+
+412
+00:16:16,040 --> 00:16:17,880
+Wahrscheinlichkeit höchstens K
+
+413
+00:16:17,880 --> 00:16:20,380
+-Treffer, denn das ist die sogenannte
+
+414
+00:16:20,380 --> 00:16:22,720
+kumulierte Wahrscheinlichkeit.
+
+415
+00:16:24,860 --> 00:16:26,860
+Zu dieser kumulierten
+
+416
+00:16:26,860 --> 00:16:28,440
+Wahrscheinlichkeit gibt es auch
+
+417
+00:16:28,440 --> 00:16:31,760
+Tabellen und das ist auch der Grund,
+
+418
+00:16:31,800 --> 00:16:31,960
+warum wir die K-Treffer
+
+419
+00:16:31,980 --> 00:16:33,140
+warum man das so umformt, weil man
+
+420
+00:16:33,140 --> 00:16:34,760
+dann die Wahrscheinlichkeit aus einer
+
+421
+00:16:34,760 --> 00:16:37,140
+Tabelle auslesen kann und so die
+
+422
+00:16:37,140 --> 00:16:38,640
+Wahrscheinlichkeit mit mindestens
+
+423
+00:16:38,640 --> 00:16:43,360
+ausrechnen kann. Das ist, wie gesagt,
+
+424
+00:16:43,600 --> 00:16:44,600
+eine ganz besondere
+
+425
+00:16:44,600 --> 00:16:45,680
+Wahrscheinlichkeitsfunktion. Das ist
+
+426
+00:16:45,680 --> 00:16:47,620
+die kumulative Wahrscheinlichkeit.
+
+427
+00:16:48,460 --> 00:16:50,100
+Diese ist in den meisten
+
+428
+00:16:50,100 --> 00:16:51,120
+Taschenrechnern hinterlegt,
+
+429
+00:16:51,180 --> 00:16:53,320
+beziehungsweise auch in vielen
+
+430
+00:16:53,320 --> 00:16:55,560
+Mathematikbüchern am Ende des Buches
+
+431
+00:16:55,560 --> 00:16:58,140
+zu finden. Hier haben wir das mal
+
+432
+00:16:58,140 --> 00:17:00,340
+abgebildet. Wir haben hier genau K
+
+433
+00:17:00,340 --> 00:17:01,720
+-Treffer, das heißt, das ist die
+
+434
+00:17:01,720 --> 00:17:03,800
+Einzelwahrscheinlichkeit. Und hier
+
+435
+00:17:03,800 --> 00:17:04,980
+haben wir die kumulative
+
+436
+00:17:04,980 --> 00:17:06,620
+Wahrscheinlichkeit für höchstens K
+
+437
+00:17:06,620 --> 00:17:08,460
+-Treffer. Das Ganze haben wir mal
+
+438
+00:17:08,460 --> 00:17:11,060
+gemacht für ein K von 0 bis 5. Wir
+
+439
+00:17:11,060 --> 00:17:13,140
+sehen, für ein K von 0 beträgt die
+
+440
+00:17:13,140 --> 00:17:17,400
+Einzelwahrscheinlichkeit 59,049%. Die
+
+441
+00:17:17,400 --> 00:17:20,180
+Wahrscheinlichkeit für K gleich 1 ist
+
+442
+00:17:20,180 --> 00:17:23,720
+32,805. Wenn wir uns das Ganze mal
+
+443
+00:17:23,720 --> 00:17:25,400
+bei der kumulativen
+
+444
+00:17:25,400 --> 00:17:27,700
+Wahrscheinlichkeit ansehen, sehen wir
+
+445
+00:17:27,700 --> 00:17:29,220
+erstmal, die Wahrscheinlichkeit von 0
+
+446
+00:17:29,220 --> 00:17:30,820
+ist gleich. Das hängt einfach damit
+
+447
+00:17:30,820 --> 00:17:34,440
+zusammen, dass die Wahrscheinlichkeit
+
+448
+00:17:34,440 --> 00:17:35,720
+von 0, da kann man noch nichts
+
+449
+00:17:35,720 --> 00:17:39,500
+aufaddieren. Aber, also wenn ich
+
+450
+00:17:39,500 --> 00:17:41,080
+sage, ich möchte höchstens 0 Treffer
+
+451
+00:17:41,080 --> 00:17:42,000
+haben, dann gibt es nur eine
+
+452
+00:17:42,000 --> 00:17:44,340
+Möglichkeit, das sind 0. Wenn ich
+
+453
+00:17:44,340 --> 00:17:46,340
+aber sage, ich möchte höchstens einen
+
+454
+00:17:46,340 --> 00:17:48,820
+Treffer haben, dann ist es einfach
+
+455
+00:17:48,820 --> 00:17:51,740
+die Wahrscheinlichkeit für 0 Treffer
+
+456
+00:17:51,740 --> 00:17:53,260
+plus die Wahrscheinlichkeit für einen
+
+457
+00:17:53,260 --> 00:17:54,940
+Treffer. Und deswegen stehen hier
+
+458
+00:17:54,940 --> 00:17:58,820
+auch 91. Das ist nämlich nichts
+
+459
+00:17:58,820 --> 00:18:03,400
+weiter als 59,049 plus 32,805.
+
+460
+00:18:04,640 --> 00:18:06,500
+Genauso geht es dann, wenn man sagt
+
+461
+00:18:06,500 --> 00:18:08,180
+höchstens zwei Treffer. Dann haben
+
+462
+00:18:08,180 --> 00:18:13,280
+wir hier 99,144%. Das ist dann 59,049
+
+463
+00:18:13,280 --> 00:18:19,340
+% plus 32,805% plus 7,290%.
+
+464
+00:18:24,260 --> 00:18:25,680
+Und das geht immer so weiter.
+
+465
+00:18:26,100 --> 00:18:29,820
+Deswegen, wenn wir zum Beispiel, wir
+
+466
+00:18:29,820 --> 00:18:33,120
+haben hier n gleich 5 und wenn wir
+
+467
+00:18:33,120 --> 00:18:35,880
+das k gleich 5 setzen, dann ist die
+
+468
+00:18:35,880 --> 00:18:37,780
+kumulative Wahrscheinlichkeit also
+
+469
+00:18:37,780 --> 00:18:42,700
+natürlich bei 100%. Weil beim 5
+
+470
+00:18:42,700 --> 00:18:43,980
+-maligen Durchgehen eines
+
+471
+00:18:43,980 --> 00:18:46,940
+Versuchsexperiments, das ist die
+
+472
+00:18:46,940 --> 00:18:48,680
+Wahrscheinlichkeit, dass ein Ereignis
+
+473
+00:18:48,680 --> 00:18:52,380
+höchstens 5-mal eintrifft, 100%. Weil
+
+474
+00:18:52,380 --> 00:18:55,720
+höchstens 5 mal bedeutet ja von 0 mal
+
+475
+00:18:55,720 --> 00:18:59,080
+bis 5 mal. Und damit greift man dann,
+
+476
+00:18:59,140 --> 00:19:01,560
+wenn das K also gleich N ist, alle
+
+477
+00:19:01,560 --> 00:19:04,240
+Wahrscheinlichkeiten ab. Und deswegen
+
+478
+00:19:04,240 --> 00:19:07,700
+steht da am Ende 100%. Und mittels
+
+479
+00:19:07,700 --> 00:19:09,000
+solcher Tabellen kann man dann
+
+480
+00:19:09,000 --> 00:19:09,920
+natürlich auch solche
+
+481
+00:19:09,920 --> 00:19:12,140
+Mindestensaufgaben sehr effektiv
+
+482
+00:19:12,140 --> 00:19:12,640
+lösen.
+
+483
+00:19:19,100 --> 00:19:23,160
+Kommen wir zu ein paar Textaufgaben,
+
+484
+00:19:23,240 --> 00:19:25,380
+die auf den ersten Blick sehr
+
+485
+00:19:25,380 --> 00:19:26,940
+schwierig sind. Das sind... solche
+
+486
+00:19:26,940 --> 00:19:29,120
+dreimal mindestens Aufgaben. Das sind
+
+487
+00:19:29,120 --> 00:19:31,680
+ganz beliebte Klausuraufgaben, weil
+
+488
+00:19:31,680 --> 00:19:33,060
+man sie eigentlich recht einfach
+
+489
+00:19:33,060 --> 00:19:37,120
+berechnen kann, aber die Gleichung
+
+490
+00:19:37,120 --> 00:19:39,580
+aufzustellen bzw. den Ansatz zu
+
+491
+00:19:39,580 --> 00:19:42,660
+finden ist sehr schwer. Denn wir
+
+492
+00:19:42,660 --> 00:19:44,000
+haben die Aufgabe, in einer Box
+
+493
+00:19:44,000 --> 00:19:46,140
+befinden sich 100 Kugeln, darunter
+
+494
+00:19:46,140 --> 00:19:49,060
+zwei rote. Wie oft muss man
+
+495
+00:19:49,060 --> 00:19:50,900
+mindestens ziehen, um mit einer
+
+496
+00:19:50,900 --> 00:19:53,220
+Wahrscheinlichkeit von mindestens 99
+
+497
+00:19:53,220 --> 00:19:55,620
+Prozent mindestens ein treffer zu
+
+498
+00:19:55,620 --> 00:19:57,380
+erzielen das ist alles sehr
+
+499
+00:19:57,380 --> 00:19:58,500
+verstrickt und man hat auch gleich
+
+500
+00:19:58,500 --> 00:20:02,660
+dreimal mindestens und immer wenn ihr
+
+501
+00:20:02,660 --> 00:20:04,400
+sowas hat so eine aufgabe wird man
+
+502
+00:20:04,400 --> 00:20:05,860
+nicht beim ersten mal lesen
+
+503
+00:20:05,860 --> 00:20:07,880
+vollständig verstehen und den ansatz
+
+504
+00:20:07,880 --> 00:20:09,560
+auch gleich ausarbeiten können in der
+
+505
+00:20:09,560 --> 00:20:11,460
+regel muss man diese mehrmals lesen
+
+506
+00:20:11,460 --> 00:20:13,660
+und dann läuft es auch ein bisschen
+
+507
+00:20:13,660 --> 00:20:15,580
+besser deswegen wir gehen jetzt
+
+508
+00:20:15,580 --> 00:20:17,360
+erstmal schritt für schritt vor wir
+
+509
+00:20:17,360 --> 00:20:19,460
+überlegen uns erstmal wir haben ja
+
+510
+00:20:19,460 --> 00:20:21,560
+mindestens ein Also wie man nochmal
+
+511
+00:20:21,560 --> 00:20:23,840
+die Formel für mindestens k Treffer.
+
+512
+00:20:24,700 --> 00:20:28,140
+Und zwar konnten wir die ja umformen
+
+513
+00:20:28,140 --> 00:20:31,540
+zu höchstens k Treffer. Wenn wir
+
+514
+00:20:31,540 --> 00:20:33,520
+diese Form mindestens k Treffer
+
+515
+00:20:33,520 --> 00:20:35,860
+umformen zu höchstens k Treffer,
+
+516
+00:20:35,900 --> 00:20:39,060
+haben wir, das ist 1 minus von 0 bis
+
+517
+00:20:39,060 --> 00:20:42,000
+k minus 1 der Funktion p von x gleich
+
+518
+00:20:42,000 --> 00:20:46,160
+i. Und hier hinter steht jetzt
+
+519
+00:20:46,160 --> 00:20:46,880
+natürlich für diese
+
+520
+00:20:46,880 --> 00:20:50,260
+Wahrscheinlichkeit x gleich i. steht
+
+521
+00:20:50,260 --> 00:20:51,720
+einfach unsere Benullikette. So
+
+522
+00:20:51,720 --> 00:20:53,640
+kommen wir einfach 1 minus die Summe
+
+523
+00:20:53,640 --> 00:20:57,380
+von i gleich 0 bis k minus 1 von n
+
+524
+00:20:57,380 --> 00:21:00,720
+über i mal p hoch i mal 1 minus p
+
+525
+00:21:00,720 --> 00:21:02,360
+hoch n minus i. Also überall, wo
+
+526
+00:21:02,360 --> 00:21:03,620
+jetzt ein k eigentlich stünde, steht
+
+527
+00:21:03,620 --> 00:21:05,620
+jetzt ein i, einfach weil wir das als
+
+528
+00:21:05,620 --> 00:21:09,800
+i definiert haben hier unten. Und das
+
+529
+00:21:09,800 --> 00:21:11,160
+wirkt jetzt vielleicht noch recht
+
+530
+00:21:11,160 --> 00:21:14,620
+verstrickt und doch sehr schwer, aber
+
+531
+00:21:14,620 --> 00:21:18,420
+unser k ist ja eigentlich 1. Und Und
+
+532
+00:21:18,420 --> 00:21:21,020
+wenn wir jetzt k minus 1 rechnen,
+
+533
+00:21:21,020 --> 00:21:23,240
+also 1 minus 1, haben wir eine 0.
+
+534
+00:21:24,020 --> 00:21:25,200
+Hier steht es schon, hier wurde das k
+
+535
+00:21:25,200 --> 00:21:26,320
+jetzt endlich eingesetzt. Wir haben
+
+536
+00:21:26,320 --> 00:21:28,960
+hier 1 minus 1 stehen. Das heißt, wir
+
+537
+00:21:28,960 --> 00:21:31,400
+haben die Summe von i gleich 0 bis 0.
+
+538
+00:21:32,760 --> 00:21:34,200
+Und da gibt es nur eine Möglichkeit,
+
+539
+00:21:34,340 --> 00:21:36,720
+eine Ganzzahlige, und das ist 0. Das
+
+540
+00:21:36,720 --> 00:21:37,860
+heißt, wir müssen nur eine
+
+541
+00:21:37,860 --> 00:21:39,860
+Wahrscheinlichkeit betrachten, das
+
+542
+00:21:39,860 --> 00:21:42,180
+ist die für 0. Und so kommen wir auf
+
+543
+00:21:42,180 --> 00:21:47,020
+1 minus n über 0 mal p hoch 0 mal 1.
+
+544
+00:21:47,140 --> 00:21:52,080
+1-p hoch n-0. Also 1-p in Klammern,
+
+545
+00:21:52,120 --> 00:21:55,620
+das Ganze hoch n-0. Und jetzt ist
+
+546
+00:21:55,620 --> 00:21:59,480
+ganz wichtig, n
+
+547
+00:21:59,480 --> 00:22:02,760
+über 0 ist einfach 1.
+
+548
+00:22:06,270 --> 00:22:09,150
+p hoch 0, irgendetwas hoch 0 ist auch
+
+549
+00:22:09,150 --> 00:22:14,870
+1. Und 1-p hoch n-0 ist einfach p
+
+550
+00:22:14,870 --> 00:22:17,030
+hoch n. Und da sieht ihr es schon
+
+551
+00:22:17,030 --> 00:22:19,770
+viel. schöner aus. Das heißt nämlich
+
+552
+00:22:19,770 --> 00:22:21,990
+alles zusammengefasst, 1 mal 1 mal
+
+553
+00:22:21,990 --> 00:22:23,210
+die Klammer, dann können wir einfach
+
+554
+00:22:23,210 --> 00:22:24,630
+die beiden Einsen wegfallen lassen,
+
+555
+00:22:24,770 --> 00:22:26,710
+weil mit 1 multiplizieren ändert
+
+556
+00:22:26,710 --> 00:22:28,510
+nichts, dann steht ja nämlich 1 minus
+
+557
+00:22:28,510 --> 00:22:34,290
+Klammer auf 1 minus p hoch n. Und die
+
+558
+00:22:34,290 --> 00:22:35,310
+Wahrscheinlichkeit für dieses
+
+559
+00:22:35,310 --> 00:22:37,710
+Ereignis kennen wir ja schon, nämlich
+
+560
+00:22:37,710 --> 00:22:43,330
+99%. Unser p und unser n kennen wir
+
+561
+00:22:43,330 --> 00:22:45,170
+auch. Auch. Es hieß ja,
+
+562
+00:22:45,250 --> 00:22:48,650
+Entschuldigung, das n ist ja gesucht,
+
+563
+00:22:48,710 --> 00:22:50,430
+das kennen wir also nicht, aber wir
+
+564
+00:22:50,430 --> 00:22:52,970
+kennen unser p. Das waren ja die 0
+
+565
+00:22:52,970 --> 00:22:56,130
+,02, weil wir wissen ja, p ist 0,02
+
+566
+00:22:56,130 --> 00:22:58,210
+und so kommen wir auf 1 minus,
+
+567
+00:22:58,390 --> 00:23:01,250
+Klammer auf, 1 minus 0,02, Klammer
+
+568
+00:23:01,250 --> 00:23:04,590
+zu, hoch n. Das soll gleich 0,99
+
+569
+00:23:04,590 --> 00:23:07,610
+sein. 1 minus 0,02 steht ja wie
+
+570
+00:23:07,610 --> 00:23:08,670
+gesagt in der Klammer und nur die
+
+571
+00:23:08,670 --> 00:23:10,630
+Klammer wird mit n potenziert, daher
+
+572
+00:23:10,630 --> 00:23:12,390
+können wir diese Rechenoperation ja.
+
+573
+00:23:12,470 --> 00:23:15,750
+ausführen, das sind dann 0,98 hoch n.
+
+574
+00:23:16,230 --> 00:23:18,210
+Und das ist jetzt eine ganz einfache
+
+575
+00:23:18,210 --> 00:23:19,670
+Exponentialgleichung, die wir lösen
+
+576
+00:23:19,670 --> 00:23:21,550
+können. Deswegen rechnen wir im
+
+577
+00:23:21,550 --> 00:23:26,510
+nächsten Schritt einfach plus 0,98
+
+578
+00:23:26,510 --> 00:23:31,610
+hoch n und minus 0,999, also 0,99 und
+
+579
+00:23:31,610 --> 00:23:34,730
+steht dann 0,01 ist gleich 0,98 hoch
+
+580
+00:23:34,730 --> 00:23:37,710
+n. Diese Exponentialgleichung lösen
+
+581
+00:23:37,710 --> 00:23:38,790
+wir jetzt, indem wir den Logarithmus
+
+582
+00:23:38,790 --> 00:23:40,430
+anwenden. Es wird hier der
+
+583
+00:23:40,430 --> 00:23:43,110
+Logarithmus zu basis 0,98 angewendet
+
+584
+00:23:43,110 --> 00:23:45,630
+das basiert einfach auf den
+
+585
+00:23:45,630 --> 00:23:48,750
+logarithmen rechengesetzen dadurch
+
+586
+00:23:48,750 --> 00:23:50,390
+kommen wir nämlich direkt zu endes
+
+587
+00:23:50,390 --> 00:23:52,270
+gleich der logarithmus von 0,98
+
+588
+00:23:53,650 --> 00:23:55,090
+tschuldigung n ist gleich der
+
+589
+00:23:55,090 --> 00:23:59,310
+logarithmus zur basis 0,98 von 0,01
+
+590
+00:23:59,310 --> 00:24:01,590
+und wenn wir das so im taschenrechner
+
+591
+00:24:01,590 --> 00:24:03,370
+eingeben der logarithmus zur basis 0
+
+592
+00:24:03,370 --> 00:24:08,790
+,98 8 von 0,01 erhalten wir 228. Das
+
+593
+00:24:08,790 --> 00:24:11,630
+ist aber auch das gleiche wie der
+
+594
+00:24:12,940 --> 00:24:18,920
+Logarithmus von 0,01 durch der
+
+595
+00:24:18,920 --> 00:24:23,360
+Logarithmus von 0,98. Falls jemand
+
+596
+00:24:23,360 --> 00:24:24,940
+nicht weiß, wie er die Basis ändert,
+
+597
+00:24:24,980 --> 00:24:26,620
+kann man das genauso gut eingeben,
+
+598
+00:24:26,640 --> 00:24:31,340
+kommt auch 228 gerundet raus. Und
+
+599
+00:24:31,340 --> 00:24:32,860
+damit wäre die Aufgabe auch schon
+
+600
+00:24:32,860 --> 00:24:33,560
+erledigt.
+
+601
+00:24:35,930 --> 00:24:37,950
+Kommen wir nun zu dem Fall, den ich
+
+602
+00:24:37,950 --> 00:24:40,090
+anfangs kurz angeschnitten habe, dass
+
+603
+00:24:40,090 --> 00:24:43,270
+wir den Fall haben, dass wir ziehen
+
+604
+00:24:43,270 --> 00:24:45,550
+ohne Zurücklegen. Das heißt, ich
+
+605
+00:24:45,550 --> 00:24:46,710
+hatte ja gesagt, die Benullikette
+
+606
+00:24:46,710 --> 00:24:48,650
+dürfen wir nur beim Ziehen mit
+
+607
+00:24:48,650 --> 00:24:51,270
+Zurücklegen anwenden. Es gibt aber
+
+608
+00:24:51,270 --> 00:24:53,250
+oftmals auch den Fall, dass wir ohne
+
+609
+00:24:53,250 --> 00:24:55,910
+Zurücklegen ziehen. Und die
+
+610
+00:24:55,910 --> 00:24:57,390
+Wahrscheinlichkeitsfunktion, die wir
+
+611
+00:24:57,390 --> 00:24:59,610
+da brauchen, sehen wir jetzt. Das ist
+
+612
+00:24:59,610 --> 00:25:00,570
+nämlich eine sogenannte
+
+613
+00:25:00,570 --> 00:25:03,930
+hypergeometrische Verteilung. Und es
+
+614
+00:25:03,930 --> 00:25:07,150
+ist weiterhin eine... Und das ist nun
+
+615
+00:25:07,150 --> 00:25:08,610
+die Formel hierfür. Diese ganzen
+
+616
+00:25:08,610 --> 00:25:09,790
+Klammern sind auch wieder
+
+617
+00:25:09,790 --> 00:25:12,270
+Binomialkoeffizienten. Man sieht, zu
+
+618
+00:25:12,270 --> 00:25:14,830
+den n und den k ist noch ein großes n
+
+619
+00:25:14,830 --> 00:25:17,350
+und ein r dazu gekommen. Und die
+
+620
+00:25:17,350 --> 00:25:19,250
+Wahrscheinlichkeit p von x gleich k,
+
+621
+00:25:19,350 --> 00:25:20,430
+also es geht auch hier wieder
+
+622
+00:25:20,430 --> 00:25:21,330
+weiterhin um eine
+
+623
+00:25:21,330 --> 00:25:23,830
+Einzelwahrscheinlichkeit, lautet r
+
+624
+00:25:23,830 --> 00:25:27,270
+über k mal n minus r über n minus k.
+
+625
+00:25:27,370 --> 00:25:31,790
+Das Ganze geteilt durch Groß n über
+
+626
+00:25:31,790 --> 00:25:36,530
+n. Dabei ist erstmal, kommen wir
+
+627
+00:25:36,530 --> 00:25:38,450
+erstmal zu n und k, also zu kleinen n
+
+628
+00:25:38,450 --> 00:25:40,490
+und kleinen k. Kleinen n ist
+
+629
+00:25:40,490 --> 00:25:42,130
+weiterhin die Anzahl der Nägel, die
+
+630
+00:25:42,130 --> 00:25:43,450
+einer Box entnommen werden, also wenn
+
+631
+00:25:43,450 --> 00:25:45,170
+man so möchte, der Stichprobenumfang.
+
+632
+00:25:45,790 --> 00:25:48,030
+Das kleine k ist die Anzahl der
+
+633
+00:25:48,030 --> 00:25:49,890
+Treffer im Stichprobenumfang, der
+
+634
+00:25:49,890 --> 00:25:52,210
+größte n. Also n und k ändern sich
+
+635
+00:25:52,210 --> 00:25:53,490
+nicht. k ist weiterhin die
+
+636
+00:25:53,490 --> 00:25:56,210
+Trefferanzahl und n die Kettenlänge
+
+637
+00:25:56,210 --> 00:25:59,250
+bzw. der Stichprobenumfang. Aber Groß
+
+638
+00:25:59,250 --> 00:26:02,130
+N ist die Gesamtzahl aller Nägel in
+
+639
+00:26:02,130 --> 00:26:05,470
+einer Box, also die Gesamtanzahl
+
+640
+00:26:05,470 --> 00:26:06,890
+aller möglichen Ereignisse, wenn man
+
+641
+00:26:06,890 --> 00:26:09,570
+so möchte. Das kleine R ist die
+
+642
+00:26:09,570 --> 00:26:11,030
+Anzahl der kaputten Nägel, die zu
+
+643
+00:26:11,030 --> 00:26:12,610
+einem Treffer führen können, also die
+
+644
+00:26:12,610 --> 00:26:15,570
+Anzahl der Treffermöglichkeiten. Das
+
+645
+00:26:15,570 --> 00:26:17,590
+Ganze haben wir nochmal mit einem
+
+646
+00:26:17,590 --> 00:26:20,190
+Beispiel gefüllt. Und zwar, in einer
+
+647
+00:26:20,190 --> 00:26:22,670
+Box befinden sich 200 Nägel, darunter
+
+648
+00:26:22,670 --> 00:26:25,230
+sind 20 kaputte Nägel. Wie groß ist
+
+649
+00:26:25,230 --> 00:26:26,530
+die Wahrscheinlichkeit, unter 10
+
+650
+00:26:26,530 --> 00:26:28,350
+Nägeln genau 3 kaputte Nägel zu
+
+651
+00:26:28,350 --> 00:26:30,990
+finden? Als erstes sollte man die
+
+652
+00:26:30,990 --> 00:26:32,370
+ganzen Parameter definieren, also
+
+653
+00:26:32,370 --> 00:26:34,850
+Groß N, Kleine N, R und K. Wir hatten
+
+654
+00:26:34,850 --> 00:26:36,770
+gerade schon gesagt, Kleine N ist
+
+655
+00:26:36,770 --> 00:26:38,090
+weiterhin unser Stichprobenunfall
+
+656
+00:26:38,090 --> 00:26:40,210
+bzw. die Anzahl unserer Versuche. Das
+
+657
+00:26:40,210 --> 00:26:43,930
+ist einfach 10 in dem Fall. Wir
+
+658
+00:26:43,930 --> 00:26:45,190
+wollen die Wahrscheinlichkeit für
+
+659
+00:26:45,190 --> 00:26:46,890
+genau 3 kaputte Nägel, also 3
+
+660
+00:26:46,890 --> 00:26:48,670
+Treffer, deswegen ist K 3. Wir
+
+661
+00:26:48,670 --> 00:26:50,390
+wissen, dass sich in der Box
+
+662
+00:26:50,390 --> 00:26:52,550
+insgesamt 200 Nägel befinden, also
+
+663
+00:26:52,550 --> 00:26:55,090
+ist n gleich 200 die Gesamtanzahl.
+
+664
+00:26:55,390 --> 00:26:57,770
+Und wir wissen, dass unter diesen 200
+
+665
+00:26:57,770 --> 00:26:59,890
+Nägeln 20 kaputt sind. Das sind die
+
+666
+00:26:59,890 --> 00:27:03,310
+Anzahl
+
+667
+00:27:03,310 --> 00:27:04,570
+der Nägel, die zu einem Treffer
+
+668
+00:27:04,570 --> 00:27:08,790
+führen könnten, also 20. Und das
+
+669
+00:27:08,790 --> 00:27:10,130
+setzen wir nun einfach in unsere
+
+670
+00:27:10,130 --> 00:27:13,850
+Formel ein. Wir kommen so zu 20 über
+
+671
+00:27:13,850 --> 00:27:18,410
+3 mal 200 minus 20. über 10 minus 3
+
+672
+00:27:18,410 --> 00:27:21,830
+geteilt durch 200 über 10. Das würde
+
+673
+00:27:21,830 --> 00:27:22,650
+ich so nicht im Taschenrechner
+
+674
+00:27:22,650 --> 00:27:24,050
+eingeben. Ich würde diese einfachen
+
+675
+00:27:24,050 --> 00:27:26,170
+Rechenoperationen hier immer zuerst
+
+676
+00:27:26,170 --> 00:27:28,910
+ausführen. So kommen wir auf 20 über
+
+677
+00:27:28,910 --> 00:27:32,850
+3 mal 180 über 7 geteilt durch 200
+
+678
+00:27:32,850 --> 00:27:37,530
+über 10 und das sind dann 5,48%. Und
+
+679
+00:27:37,530 --> 00:27:39,930
+so kann man auch solche Aufgaben, wo
+
+680
+00:27:39,930 --> 00:27:42,130
+mit Zielen ohne Zurücklegen
+
+681
+00:27:42,130 --> 00:27:44,290
+gearbeitet wird, lösen.
+
+682
+00:27:46,270 --> 00:27:47,850
+wir zum Schluss noch zu drei
+
+683
+00:27:47,850 --> 00:27:50,190
+wichtigen Fällen. Die kommen ganz oft
+
+684
+00:27:50,190 --> 00:27:54,730
+vor und sie führen im Allgemeinen
+
+685
+00:27:54,730 --> 00:27:56,770
+erstmal nur zu Irritationen, aber sie
+
+686
+00:27:56,770 --> 00:27:57,950
+sind eigentlich nicht sonderlich
+
+687
+00:27:57,950 --> 00:27:59,290
+schwer, wenn man die Lösung kennt,
+
+688
+00:27:59,410 --> 00:28:00,590
+beziehungsweise die Lösung ist
+
+689
+00:28:00,590 --> 00:28:02,690
+eigentlich leicht nachzuvollziehen.
+
+690
+00:28:02,930 --> 00:28:04,770
+Das ist einerseits, wir wollen die
+
+691
+00:28:04,770 --> 00:28:06,770
+Wahrscheinlichkeit für K-Treffer und
+
+692
+00:28:06,770 --> 00:28:08,590
+wir geben die Positionen vor, also an
+
+693
+00:28:08,590 --> 00:28:11,550
+definierter Position. Dann noch die
+
+694
+00:28:11,550 --> 00:28:13,910
+Wahrscheinlichkeit für Treffer an
+
+695
+00:28:13,910 --> 00:28:15,410
+einer Position zum ersten Mal. Mal.
+
+696
+00:28:15,450 --> 00:28:16,730
+Das heißt, wir sagen, wir geben an,
+
+697
+00:28:16,810 --> 00:28:19,230
+ab dieser Position möchte ich Treffer
+
+698
+00:28:19,230 --> 00:28:22,030
+haben. Und ganz zum Schluss die
+
+699
+00:28:22,030 --> 00:28:23,790
+Wahrscheinlichkeit für K-Treffer bis
+
+700
+00:28:23,790 --> 00:28:25,130
+zu einer bestimmten Position. Also
+
+701
+00:28:25,130 --> 00:28:27,150
+genau das Gegenteil von dem oberen
+
+702
+00:28:27,150 --> 00:28:32,550
+Fall. Gut. Das Ganze veranschaulichen
+
+703
+00:28:32,550 --> 00:28:33,490
+wir auch wieder an einem Beispiel.
+
+704
+00:28:33,650 --> 00:28:35,790
+Und zwar, wir haben eine Box, die aus
+
+705
+00:28:35,790 --> 00:28:38,390
+100 Nägeln besteht und 20 sind darin
+
+706
+00:28:38,390 --> 00:28:43,070
+kaputt. Und wir entnehmen 10 Nägel.
+
+707
+00:28:44,470 --> 00:28:45,930
+Und die Frage, die wir uns... stellen
+
+708
+00:28:45,930 --> 00:28:48,010
+ist wie hoch ist die
+
+709
+00:28:48,010 --> 00:28:49,690
+wahrscheinlichkeit genau drei kaputte
+
+710
+00:28:49,690 --> 00:28:53,090
+nägel zu ziehen wir haben an dieser
+
+711
+00:28:53,090 --> 00:28:54,750
+stelle ja nichts vorgegeben das heißt
+
+712
+00:28:54,750 --> 00:28:56,210
+das ist eine ganz normale benulli
+
+713
+00:28:56,210 --> 00:29:00,230
+kette ja also 10 über 3 mal 0,2 hoch
+
+714
+00:29:00,230 --> 00:29:03,210
+3 mal klammer auf 1 minus 0,2 klammer
+
+715
+00:29:03,210 --> 00:29:05,830
+zu hoch 10 minus 3 das heißt die
+
+716
+00:29:05,830 --> 00:29:07,230
+wahrscheinlichkeit für genau drei
+
+717
+00:29:07,230 --> 00:29:09,290
+kaputte nägel diesem diesem Szenario
+
+718
+00:29:09,290 --> 00:29:13,870
+liegt bei 20,13%. Wir stellen die
+
+719
+00:29:13,870 --> 00:29:15,590
+Frage jetzt mal ein bisschen anders.
+
+720
+00:29:15,830 --> 00:29:17,730
+Und zwar wollen wir jetzt die
+
+721
+00:29:17,730 --> 00:29:19,670
+Wahrscheinlichkeit haben, dass der
+
+722
+00:29:19,670 --> 00:29:21,850
+erste, vierte und sechste Nagel
+
+723
+00:29:21,850 --> 00:29:24,950
+kaputt ist. Und jetzt passiert etwas
+
+724
+00:29:24,950 --> 00:29:26,590
+ganz Interessantes. Und zwar geben
+
+725
+00:29:26,590 --> 00:29:29,190
+wir jetzt die Reihenfolge vor. Und in
+
+726
+00:29:29,190 --> 00:29:31,150
+dem Moment, wo wir die Reihenfolge
+
+727
+00:29:31,150 --> 00:29:32,410
+vorgeben, fällt der
+
+728
+00:29:32,410 --> 00:29:34,810
+Binomialkoeffizient weg, weil es nur
+
+729
+00:29:34,810 --> 00:29:36,570
+eine Variante gibt und das ist diese
+
+730
+00:29:36,570 --> 00:29:41,070
+Reihenfolge. Also wir sagen ganz
+
+731
+00:29:41,070 --> 00:29:42,990
+klar, wir wollen es an erster,
+
+732
+00:29:43,010 --> 00:29:45,270
+vierter und sechster Stelle. Und da
+
+733
+00:29:45,270 --> 00:29:46,070
+gibt es nur eine Möglichkeit,
+
+734
+00:29:46,170 --> 00:29:46,830
+deswegen fällt der
+
+735
+00:29:46,830 --> 00:29:49,170
+Binomialkoeffizient weg. Der Rest
+
+736
+00:29:49,170 --> 00:29:51,430
+bleibt aber erhalten. Also 0,2 hoch 3
+
+737
+00:29:51,430 --> 00:29:54,130
+mal Klammer auf 1 minus 0,2 Klammer
+
+738
+00:29:54,130 --> 00:29:57,630
+zu hoch 10 minus 3. Das sind dann 0
+
+739
+00:29:57,630 --> 00:30:00,050
+,17%. Ihr werdet dort immer sehr
+
+740
+00:30:00,050 --> 00:30:01,350
+kleine Wahrscheinlichkeiten raus
+
+741
+00:30:01,350 --> 00:30:03,770
+haben, die sind aber immer richtig.
+
+742
+00:30:04,030 --> 00:30:05,370
+Also da kommen wirklich nur kleine
+
+743
+00:30:05,370 --> 00:30:07,730
+Wahrscheinlichkeiten raus, denn dass
+
+744
+00:30:07,730 --> 00:30:10,390
+man die Stelle noch voraussagt, ist
+
+745
+00:30:10,390 --> 00:30:13,230
+doch recht unwahrscheinlich, dass es
+
+746
+00:30:13,230 --> 00:30:14,350
+so stimmt.
+
+747
+00:30:16,880 --> 00:30:19,060
+Gut, kommen wir zum nächsten Fall und
+
+748
+00:30:19,060 --> 00:30:21,620
+zwar die Wahrscheinlichkeit, dass an
+
+749
+00:30:21,620 --> 00:30:23,980
+der Position X zum ersten Mal ein
+
+750
+00:30:23,980 --> 00:30:28,300
+Treffer auftritt. Auch hierbei nehmen
+
+751
+00:30:28,300 --> 00:30:29,840
+wir wieder das Beispiel mit unserer
+
+752
+00:30:29,840 --> 00:30:32,120
+Box, die aus 100 Nägeln besteht und
+
+753
+00:30:32,120 --> 00:30:35,560
+20 kaputt sind. Auch hierbei ziehen
+
+754
+00:30:35,560 --> 00:30:37,280
+wir wieder 10 Nägel und die Frage
+
+755
+00:30:37,280 --> 00:30:38,180
+ist, wie hoch ist die
+
+756
+00:30:38,180 --> 00:30:40,140
+Wahrscheinlichkeit, dass zum ersten
+
+757
+00:30:40,140 --> 00:30:42,200
+Mal beim dritten Zug ein kaputter
+
+758
+00:30:42,200 --> 00:30:44,180
+Nagel auftritt. Zum ersten Mal beim
+
+759
+00:30:44,180 --> 00:30:46,980
+dritten Zug bedeutet ja eigentlich,
+
+760
+00:30:47,180 --> 00:30:48,560
+dass die ersten beiden Nägel ganz
+
+761
+00:30:48,560 --> 00:30:50,200
+sind und der dritte Nagel kaputt ist.
+
+762
+00:30:51,540 --> 00:30:53,760
+Und genau das rechnen wir auch. Weil
+
+763
+00:30:53,760 --> 00:30:59,240
+wir schon wieder die Reihenfolge bei
+
+764
+00:30:59,240 --> 00:31:02,680
+den ersten drei Zügen vorgeben, fällt
+
+765
+00:31:02,680 --> 00:31:04,220
+der Binomialkoeffizient weg. Wir
+
+766
+00:31:04,220 --> 00:31:05,700
+sagen, dass zum ersten Mal beim
+
+767
+00:31:05,700 --> 00:31:06,940
+dritten Zug ein kaputter Nagel
+
+768
+00:31:06,940 --> 00:31:08,040
+auftritt. Damit ist die Reihenfolge
+
+769
+00:31:08,040 --> 00:31:10,900
+vorgegeben. Das heißt, der erste und
+
+770
+00:31:10,900 --> 00:31:13,520
+zweite Nagel muss intakt sein und der
+
+771
+00:31:13,520 --> 00:31:15,620
+dritte muss kaputt sein. Alles, was
+
+772
+00:31:15,620 --> 00:31:18,220
+danach kommt, ist egal, weil es wird
+
+773
+00:31:18,220 --> 00:31:19,520
+ja nicht gesagt, wie viele Nägel
+
+774
+00:31:19,520 --> 00:31:21,480
+insgesamt kaputt sein sollen. Wir
+
+775
+00:31:21,480 --> 00:31:23,280
+haben lediglich die Angaben... dass
+
+776
+00:31:23,280 --> 00:31:27,640
+der erste kaputte
+
+777
+00:31:27,640 --> 00:31:29,200
+Nagel beim dritten Ziehen gezogen
+
+778
+00:31:29,200 --> 00:31:31,100
+werden soll. Und daher haben wir
+
+779
+00:31:31,100 --> 00:31:34,000
+einfach 0,2 hoch 1 mal 1 minus 0,2
+
+780
+00:31:34,000 --> 00:31:36,860
+hoch 2. Also das ist für den einen
+
+781
+00:31:36,860 --> 00:31:38,260
+kaputten Nagel beim dritten Mal
+
+782
+00:31:38,260 --> 00:31:39,660
+ziehen und das ist einfach für die
+
+783
+00:31:39,660 --> 00:31:43,860
+zwei intakten Nägel. Und so kommen
+
+784
+00:31:43,860 --> 00:31:45,880
+wir auf 12,8%.
+
+785
+00:31:49,480 --> 00:31:52,480
+Der dritte Fall ist, dass wir die
+
+786
+00:31:52,480 --> 00:31:53,880
+Wahrscheinlichkeit berechnen sollen,
+
+787
+00:31:53,880 --> 00:31:56,180
+dass wir K-Treffer bis zu einer
+
+788
+00:31:56,180 --> 00:31:58,680
+bestimmten Position X haben. Und das
+
+789
+00:31:58,680 --> 00:32:00,920
+ist eigentlich eine sehr einfache
+
+790
+00:32:00,920 --> 00:32:02,720
+Aufgabe, wenn man sich über 1 klar
+
+791
+00:32:02,720 --> 00:32:04,780
+wird. Und zwar haben wir auch
+
+792
+00:32:04,780 --> 00:32:06,180
+weiterhin das gleiche Beispiel mit
+
+793
+00:32:06,180 --> 00:32:08,200
+den 100 Nägeln, wovon 20 kaputt sind.
+
+794
+00:32:08,340 --> 00:32:10,880
+Wir ziehen weiterhin 10 Nägel, aber
+
+795
+00:32:10,880 --> 00:32:12,800
+wir wollen jetzt genau 3 kaputte
+
+796
+00:32:12,800 --> 00:32:14,440
+Nägel unter den ersten 5 versuchen.
+
+797
+00:32:15,260 --> 00:32:16,720
+Und das Einzige, was wir jetzt
+
+798
+00:32:16,720 --> 00:32:20,840
+machen, wir kürzen unsere Länge. also
+
+799
+00:32:20,840 --> 00:32:22,140
+wir kürzen die länge der benulli
+
+800
+00:32:22,140 --> 00:32:26,940
+kette auf die 5 das heißt wir rechnen
+
+801
+00:32:26,940 --> 00:32:29,480
+nicht mehr mit n gleich 10 sondern
+
+802
+00:32:29,480 --> 00:32:32,160
+nur noch mit n gleich 5 wenn man so
+
+803
+00:32:32,160 --> 00:32:34,200
+möchte man nennt diese ketten länge
+
+804
+00:32:34,200 --> 00:32:35,480
+dann aber auch m das ist nämlich die
+
+805
+00:32:35,480 --> 00:32:37,860
+verkürzte ketten länge weil wir sagen
+
+806
+00:32:37,860 --> 00:32:39,780
+einfach wir ziehen jetzt nur fünf
+
+807
+00:32:39,780 --> 00:32:42,100
+nägel und wollen drei kaputte haben
+
+808
+00:32:42,100 --> 00:32:44,540
+deswegen kommen wir auf 5 über 3 mal
+
+809
+00:32:44,540 --> 00:32:47,660
+0,2 hoch 3 mal 1 minus 0,2 hoch 5
+
+810
+00:32:47,660 --> 00:32:49,040
+minus 3. Ganz wichtig, dass auch hier
+
+811
+00:32:49,040 --> 00:32:51,480
+die 5 eingesetzt wird. Das sind dann
+
+812
+00:32:51,480 --> 00:32:54,800
+5,12%. Die Wahrscheinlichkeit ist
+
+813
+00:32:54,800 --> 00:32:56,480
+natürlich entsprechend kleiner als
+
+814
+00:32:56,480 --> 00:32:57,940
+bei n gleich 10, weil einfach der
+
+815
+00:32:57,940 --> 00:32:59,780
+Stichprobenumfang kleiner ist,
+
+816
+00:32:59,840 --> 00:33:01,100
+beziehungsweise in dem Fall nur noch
+
+817
+00:33:01,100 --> 00:33:02,640
+halb so groß ist.
+
+818
+00:33:05,670 --> 00:33:07,290
+Fassen wir die Formel noch einmal
+
+819
+00:33:07,290 --> 00:33:09,710
+schnell zusammen. Und zwar, die
+
+820
+00:33:09,710 --> 00:33:11,470
+Wahrscheinlichkeit dafür, dass man K
+
+821
+00:33:11,470 --> 00:33:12,770
+-Treffer an An einer definierten
+
+822
+00:33:12,770 --> 00:33:16,150
+Position berechnet man einfach über p
+
+823
+00:33:16,150 --> 00:33:18,770
+hoch k mal 1 minus p hoch n minus k.
+
+824
+00:33:19,490 --> 00:33:20,810
+Wichtig ist einfach nur, dass die
+
+825
+00:33:20,810 --> 00:33:23,190
+Positionen vorgegeben sind und dass
+
+826
+00:33:23,190 --> 00:33:24,710
+man die Anzahl der Treffer dann zählt
+
+827
+00:33:24,710 --> 00:33:26,330
+und die Anzahl der Versuche. Also k
+
+828
+00:33:26,330 --> 00:33:27,790
+ist weiterhin die Anzahl der Treffer.
+
+829
+00:33:27,850 --> 00:33:30,370
+Wir hatten in unserem Beispiel 3 und
+
+830
+00:33:30,370 --> 00:33:32,250
+n waren einfach wie gesagt 10
+
+831
+00:33:32,250 --> 00:33:34,190
+Versuche. Und das kann man dann so
+
+832
+00:33:34,190 --> 00:33:36,590
+berechnen. Der Binomialkoeffizient
+
+833
+00:33:36,590 --> 00:33:38,430
+fällt wie gesagt hier weg, weil die
+
+834
+00:33:38,430 --> 00:33:40,450
+Reihenfolge klar ist. Es gibt nur
+
+835
+00:33:40,450 --> 00:33:46,170
+eine Möglichkeit. Das zweite Beispiel
+
+836
+00:33:46,170 --> 00:33:49,050
+war zum Thema Treffer an der Position
+
+837
+00:33:49,050 --> 00:33:52,770
+X zum ersten Mal. Das heißt, auch
+
+838
+00:33:52,770 --> 00:33:55,310
+hier wird wieder indirekt eine
+
+839
+00:33:55,310 --> 00:33:57,510
+Reihenfolge vorgegeben. Ganz wichtig,
+
+840
+00:33:57,770 --> 00:34:01,210
+unser
+
+841
+00:34:01,210 --> 00:34:05,070
+N ist jetzt hier die Position X. Das
+
+842
+00:34:05,070 --> 00:34:06,410
+heißt, wir hatten ja das Beispiel,
+
+843
+00:34:06,570 --> 00:34:07,930
+dass man an der dritten Position
+
+844
+00:34:07,930 --> 00:34:08,950
+zuerst ein Kapazitätstest macht.
+
+845
+00:34:08,970 --> 00:34:11,890
+nagel hat deswegen hatten wir als k11
+
+846
+00:34:11,890 --> 00:34:15,310
+und als n eine 3 so kamen wir auf p
+
+847
+00:34:15,310 --> 00:34:18,970
+hoch 1 mal 1 minus p hoch 2 die
+
+848
+00:34:20,760 --> 00:34:23,340
+dritte variante war die dass man k
+
+849
+00:34:23,340 --> 00:34:25,400
+treffer bis zu der bestimmten
+
+850
+00:34:25,400 --> 00:34:28,760
+position x hat dort hat man einfach
+
+851
+00:34:28,760 --> 00:34:31,320
+jetzt das verkürzte intervall m
+
+852
+00:34:31,320 --> 00:34:34,000
+genannt dann einfach nur damit man
+
+853
+00:34:34,000 --> 00:34:35,200
+mit den kleinen endlich durcheinander
+
+854
+00:34:35,200 --> 00:34:38,380
+kommt, nutzt man hier ein m und die
+
+855
+00:34:38,380 --> 00:34:39,900
+Formel dafür lautet dann einfach m
+
+856
+00:34:39,900 --> 00:34:42,500
+über k mal p hoch k mal 1 minus p
+
+857
+00:34:42,500 --> 00:34:45,320
+hoch m minus k. Wie gesagt, m ist
+
+858
+00:34:45,320 --> 00:34:46,860
+dann einfach die Position x, also wir
+
+859
+00:34:46,860 --> 00:34:47,980
+hatten gerade bis zur fünften
+
+860
+00:34:47,980 --> 00:34:50,660
+Position, deswegen war bei uns m 5
+
+861
+00:34:50,660 --> 00:34:52,900
+und k ist weiterhin die Anzahl der
+
+862
+00:34:52,900 --> 00:34:55,440
+Treffer und p die Wahrscheinlichkeit
+
+863
+00:34:55,440 --> 00:34:57,180
+für das Einzelereignis. Ganz wichtig,
+
+864
+00:34:57,220 --> 00:34:59,280
+dass auch hier das m eingesetzt wird.
+
+865
+00:35:01,420 --> 00:35:03,160
+Gut, wir wären jetzt am Ende des
+
+866
+00:35:03,160 --> 00:35:05,120
+Webinars. Ich hoffe, ihr hattet...
+
+867
+00:35:05,140 --> 00:35:07,160
+Spaß am Webinar und ich bedanke mich
+
+868
+00:35:07,160 --> 00:35:08,260
+recht herzlich für eure
+
+869
+00:35:08,260 --> 00:35:09,040
+Aufmerksamkeit.
+

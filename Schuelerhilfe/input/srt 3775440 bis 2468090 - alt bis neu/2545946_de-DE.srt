@@ -1,0 +1,2100 @@
+1
+00:00:01,940 --> 00:00:03,800
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,800 --> 00:00:06,400
+analytische Geometrie Lagebeziehung
+
+3
+00:00:06,400 --> 00:00:08,900
+Teil 1. Wir werden uns in diesem
+
+4
+00:00:08,900 --> 00:00:10,540
+Webinar mit der Lagebeziehung von
+
+5
+00:00:10,540 --> 00:00:12,460
+einem Punkt zu einer Graden sowie die
+
+6
+00:00:12,460 --> 00:00:14,060
+Lagebeziehung zwischen zwei Graden
+
+7
+00:00:14,060 --> 00:00:16,920
+anschauen. Zuerst fangen wir mit der
+
+8
+00:00:16,920 --> 00:00:18,300
+Lagebeziehung zwischen einem Punkt
+
+9
+00:00:18,300 --> 00:00:22,480
+und einer Graden an. Für die
+
+10
+00:00:22,480 --> 00:00:23,640
+Lagebeziehung zwischen einem Punkt
+
+11
+00:00:23,640 --> 00:00:25,160
+und einer Graden gibt es genau zwei
+
+12
+00:00:25,160 --> 00:00:27,080
+Fälle. Der eine Fall ist, dass der
+
+13
+00:00:27,080 --> 00:00:28,520
+Punkt Teil der Graden ist, das heißt
+
+14
+00:00:28,520 --> 00:00:31,000
+der Punkt liegt auf der Graden. Und
+
+15
+00:00:31,000 --> 00:00:32,260
+der zweite Fall ist, dass der Punkt
+
+16
+00:00:32,260 --> 00:00:33,760
+nicht Teil der Geraden ist. Das
+
+17
+00:00:33,760 --> 00:00:35,920
+heißt, der Punkt liegt nicht auf der
+
+18
+00:00:35,920 --> 00:00:37,300
+Geraden und ist außerhalb und hat
+
+19
+00:00:37,300 --> 00:00:39,240
+einen gewissen Abstand. Den kann man
+
+20
+00:00:39,240 --> 00:00:41,080
+auch noch berechnen, das machen wir
+
+21
+00:00:41,080 --> 00:00:45,340
+aber nicht in diesem Webinar. Das
+
+22
+00:00:45,340 --> 00:00:47,260
+Lösungsverfahren bzw. das Herangehen
+
+23
+00:00:47,260 --> 00:00:49,300
+an so ein Problem ist, dass wir eine
+
+24
+00:00:49,300 --> 00:00:52,460
+Punktprobe ausführen. Das heißt, wir
+
+25
+00:00:52,460 --> 00:00:54,820
+setzen den Ortsvektor des Punktes,
+
+26
+00:00:54,820 --> 00:00:56,640
+also einfach den Punkt als Vektor
+
+27
+00:00:56,640 --> 00:00:58,580
+geschrieben, mit der Parameterform
+
+28
+00:00:58,580 --> 00:01:00,440
+der geraden Gleichung gleich und
+
+29
+00:01:00,440 --> 00:01:02,260
+lösen das entstandene
+
+30
+00:01:02,260 --> 00:01:05,420
+Gleichungssystem. Das kleine Problem,
+
+31
+00:01:05,500 --> 00:01:06,740
+was dabei entsteht, ist, wir haben
+
+32
+00:01:06,740 --> 00:01:08,780
+ein Gleichungssystem mit drei
+
+33
+00:01:08,780 --> 00:01:10,300
+Gleichungen, aber nur eine Variable,
+
+34
+00:01:10,360 --> 00:01:12,640
+das heißt, es ist überbestimmt. Und
+
+35
+00:01:12,640 --> 00:01:14,960
+daher müssen wir einmal alle drei
+
+36
+00:01:14,960 --> 00:01:16,760
+Gleichungen, die Lösungen bestimmen,
+
+37
+00:01:16,800 --> 00:01:18,320
+oder aus allen drei Gleichungen die
+
+38
+00:01:18,320 --> 00:01:20,140
+Lösungen bestimmen und am Ende
+
+39
+00:01:20,140 --> 00:01:21,620
+schauen, ob wir eine einheitliche
+
+40
+00:01:21,620 --> 00:01:23,520
+Lösung haben. Ja, das heißt, unsere
+
+41
+00:01:23,520 --> 00:01:26,760
+Variable muss für jede Gleichung den
+
+42
+00:01:26,760 --> 00:01:28,140
+gleichen Wert haben. Das sehen wir
+
+43
+00:01:28,140 --> 00:01:29,020
+auch noch gleich. Wir haben hier
+
+44
+00:01:29,020 --> 00:01:30,120
+nachher nämlich ein Beispiel zu
+
+45
+00:01:30,120 --> 00:01:32,400
+beiden Fällen. Das heißt, wenn der
+
+46
+00:01:32,400 --> 00:01:33,580
+Punkt auf der Geraden liegt, haben
+
+47
+00:01:33,580 --> 00:01:36,100
+wir eine eindeutige Lösung. Also aus
+
+48
+00:01:36,100 --> 00:01:38,020
+allen drei Gleichungen kommt die
+
+49
+00:01:38,020 --> 00:01:40,400
+gleiche Lösung. Der andere Fall ist,
+
+50
+00:01:40,500 --> 00:01:42,200
+dass wir keine eindeutige Lösung
+
+51
+00:01:42,200 --> 00:01:43,200
+haben. Das heißt, wir haben
+
+52
+00:01:43,200 --> 00:01:44,640
+verschiedene Lösungen. Also aus der
+
+53
+00:01:44,640 --> 00:01:46,720
+einen Gleichung kommt raus, Lambda
+
+54
+00:01:46,720 --> 00:01:48,240
+ist gleich 2. 2 aus der anderen kommt
+
+55
+00:01:48,240 --> 00:01:50,520
+raus, Lambda ist gleich 3. Und das
+
+56
+00:01:50,520 --> 00:01:53,120
+ist dann ganz klar, der Punkt liegt
+
+57
+00:01:53,120 --> 00:01:57,410
+nicht auf der Graben. Dazu haben wir
+
+58
+00:01:57,410 --> 00:01:58,290
+jetzt hier auch ein Beispiel, wie
+
+59
+00:01:58,290 --> 00:01:59,810
+gerade schon erwähnt. Links sehen wir
+
+60
+00:01:59,810 --> 00:02:01,330
+den Fall, dass der Punkt Teil der
+
+61
+00:02:01,330 --> 00:02:03,330
+Geraden ist. Rechts sehen wir den
+
+62
+00:02:03,330 --> 00:02:04,710
+Fall, dass der Punkt nicht Teil der
+
+63
+00:02:04,710 --> 00:02:06,730
+Geraden ist. Wir haben hier oben den
+
+64
+00:02:06,730 --> 00:02:10,390
+Punkt P angegeben. Und diesen Punkt P
+
+65
+00:02:10,390 --> 00:02:12,350
+setzen wir mit der Geradengleichung G
+
+66
+00:02:12,350 --> 00:02:14,890
+gleich. die geraden gleichung g
+
+67
+00:02:14,890 --> 00:02:17,990
+lautet in dem fall 0 31 plus thema 1
+
+68
+00:02:17,990 --> 00:02:21,510
+minus 2 minus 1 das heißt wir setzen
+
+69
+00:02:21,510 --> 00:02:23,990
+jetzt wie vorhin schon gesagt den
+
+70
+00:02:23,990 --> 00:02:25,610
+punkt in vector formel der geraden
+
+71
+00:02:25,610 --> 00:02:28,270
+gleichung gleich also 112 ist gleich
+
+72
+00:02:28,270 --> 00:02:34,090
+0 31 plus thema 1 2 1 und daraus form
+
+73
+00:02:34,090 --> 00:02:38,970
+wird ein lgs das heißt wir sehen das
+
+74
+00:02:38,970 --> 00:02:41,070
+einfach einfach zeilenweise, also 1
+
+75
+00:02:41,070 --> 00:02:43,630
+ist gleich 0 plus 1t, 1 ist gleich 3
+
+76
+00:02:43,630 --> 00:02:46,110
+minus 2t und 2 ist gleich 1 plus t.
+
+77
+00:02:47,170 --> 00:02:49,750
+Und jetzt berechnen wir für jede
+
+78
+00:02:49,750 --> 00:02:51,670
+dieser drei Gleichungen die Lösung
+
+79
+00:02:51,670 --> 00:02:52,950
+für t. Das machen wir hier, wie
+
+80
+00:02:52,950 --> 00:02:54,530
+gesagt, weil wir nur eine Unbekannte
+
+81
+00:02:54,530 --> 00:02:56,750
+haben, deswegen kommt aus jeder
+
+82
+00:02:56,750 --> 00:02:59,450
+Gleichung eine Lösung raus. Und wir
+
+83
+00:02:59,450 --> 00:03:01,150
+stellen in dem Fall fest, bei allen
+
+84
+00:03:01,150 --> 00:03:03,230
+drei Gleichungen lautet die Lösung t
+
+85
+00:03:03,230 --> 00:03:04,950
+gleich 1. Das heißt, wir haben eine
+
+86
+00:03:04,950 --> 00:03:07,550
+einheitliche Lösung. folglich liegt
+
+87
+00:03:07,550 --> 00:03:09,250
+der Punkt auf der Geraden, also er
+
+88
+00:03:09,250 --> 00:03:12,370
+ist Teil der Geraden. Hier rechts
+
+89
+00:03:12,370 --> 00:03:13,470
+sehen wir einen anderen Fall, hier
+
+90
+00:03:13,470 --> 00:03:14,750
+ist schon ein bisschen ausgearbeitet
+
+91
+00:03:14,750 --> 00:03:16,590
+worden, das bedeutet wir haben hier
+
+92
+00:03:16,590 --> 00:03:18,790
+einen Punkt mit der gleichen
+
+93
+00:03:18,790 --> 00:03:20,090
+Geradengleichung gleichgesetzt, also
+
+94
+00:03:20,090 --> 00:03:24,310
+das ist jetzt der Punkt 2-1-0 und den
+
+95
+00:03:24,310 --> 00:03:26,130
+haben wir schon gleichgesetzt und
+
+96
+00:03:26,130 --> 00:03:28,010
+daraus direkt das Gleichungssystem
+
+97
+00:03:28,010 --> 00:03:30,850
+geformt, Also 2 minus 1, 0 ist gleich
+
+98
+00:03:30,850 --> 00:03:34,050
+0, 3, 1 plus t mal 1 minus 2, 1.
+
+99
+00:03:34,650 --> 00:03:36,330
+Daraus kommt das Gleichungssystem 2
+
+100
+00:03:36,330 --> 00:03:39,010
+ist gleich 0 plus t oder 0 plus 1t
+
+101
+00:03:39,010 --> 00:03:42,970
+und minus 1 ist gleich 3 minus 2t, 0
+
+102
+00:03:42,970 --> 00:03:46,430
+ist gleich 1 plus 1t. Wenn wir das
+
+103
+00:03:46,430 --> 00:03:47,970
+jetzt hier nach t umformen, geht aus
+
+104
+00:03:47,970 --> 00:03:49,310
+der ersten Gleichung heraus t ist
+
+105
+00:03:49,310 --> 00:03:51,990
+gleich 2. Aus der zweiten Gleichung
+
+106
+00:03:51,990 --> 00:03:54,010
+kommt auch t ist gleich 2, aber aus
+
+107
+00:03:54,010 --> 00:03:55,430
+der dritten Gleichung kommt t ist
+
+108
+00:03:55,430 --> 00:03:57,550
+gleich minus 1. Und jetzt haben wir
+
+109
+00:03:57,550 --> 00:03:58,930
+zwar zweimal die Zweihalslösung, aber
+
+110
+00:03:58,930 --> 00:04:01,210
+einmal leider die Minus 1. Folglich
+
+111
+00:04:01,210 --> 00:04:02,930
+liegt der Punkt nicht auf der
+
+112
+00:04:02,930 --> 00:04:05,450
+Geraden. Und damit ist die
+
+113
+00:04:05,450 --> 00:04:07,110
+Aufgabenstellung schon gelöst.
+
+114
+00:04:09,500 --> 00:04:11,960
+Damit wären wir jetzt auch bei der
+
+115
+00:04:11,960 --> 00:04:13,680
+Lagebeziehung zwischen zwei Geraden.
+
+116
+00:04:14,300 --> 00:04:16,000
+Bei der Lagebeziehung zwischen zwei
+
+117
+00:04:16,000 --> 00:04:17,780
+Geraden gibt es insgesamt vier
+
+118
+00:04:17,780 --> 00:04:21,560
+Möglichkeiten. Wir reden jetzt
+
+119
+00:04:21,560 --> 00:04:22,180
+wirklich nur über das
+
+120
+00:04:22,180 --> 00:04:23,560
+Dreidimensionale. Wenn man sich im
+
+121
+00:04:23,560 --> 00:04:25,520
+Zweidimensionalen befindet, gibt es
+
+122
+00:04:25,520 --> 00:04:26,840
+die vierte Möglichkeit, Windschienen.
+
+123
+00:04:26,860 --> 00:04:28,900
+nicht. Vektorrechnung findet
+
+124
+00:04:28,900 --> 00:04:30,400
+eigentlich ausschließlich im
+
+125
+00:04:30,400 --> 00:04:32,700
+Dreidimensionalen statt. Daher gibt
+
+126
+00:04:32,700 --> 00:04:34,540
+es hier die vier Möglichkeiten. Die
+
+127
+00:04:34,540 --> 00:04:35,660
+erste ist, die kennen wir alle,
+
+128
+00:04:35,720 --> 00:04:38,060
+parallel. Die zweite ist identisch.
+
+129
+00:04:38,060 --> 00:04:39,320
+Der Unterschied zwischen parallel und
+
+130
+00:04:39,320 --> 00:04:41,780
+identisch ist, wenn zwei parallele
+
+131
+00:04:41,780 --> 00:04:43,080
+Graden, die haben die gleiche
+
+132
+00:04:43,080 --> 00:04:44,200
+Orientierung, also die gleiche
+
+133
+00:04:44,200 --> 00:04:46,760
+Richtung. Zwei identische Graden
+
+134
+00:04:46,760 --> 00:04:48,600
+haben auch die gleiche Richtung, sie
+
+135
+00:04:48,600 --> 00:04:50,240
+liegen aber wirklich ineinander. Das
+
+136
+00:04:50,240 --> 00:04:51,560
+heißt, sie haben haben unendlich
+
+137
+00:04:51,560 --> 00:04:53,980
+viele gemeinsame Punkte, während
+
+138
+00:04:53,980 --> 00:04:56,880
+parallele Graden keine gemeinsamen
+
+139
+00:04:56,880 --> 00:04:59,840
+Punkte haben. Dann gibt es noch den
+
+140
+00:04:59,840 --> 00:05:01,240
+klassischen Schnittpunkt, das heißt,
+
+141
+00:05:01,260 --> 00:05:02,920
+die haben wirklich einen Schnittpunkt
+
+142
+00:05:02,920 --> 00:05:05,380
+und dann gibt es den Fall, den es wie
+
+143
+00:05:05,380 --> 00:05:06,700
+gesagt nur im Dreidimensionalen gibt,
+
+144
+00:05:06,840 --> 00:05:08,340
+dass die Graden windschief sind.
+
+145
+00:05:08,600 --> 00:05:10,560
+Windschief bedeutet, sie sind nicht
+
+146
+00:05:10,560 --> 00:05:11,880
+parallel, haben aber auch keinen
+
+147
+00:05:11,880 --> 00:05:14,980
+Schnittpunkt, weil sie sich nicht
+
+148
+00:05:14,980 --> 00:05:16,300
+schneiden. Das geht wie gesagt nur im
+
+149
+00:05:16,300 --> 00:05:18,260
+Dreidimensionalen, da braucht man
+
+150
+00:05:18,260 --> 00:05:21,440
+nämlich die dritte Dimension für. Man
+
+151
+00:05:21,440 --> 00:05:22,880
+kann sich das vom Prinzip her so
+
+152
+00:05:22,880 --> 00:05:24,800
+vorstellen, man spannt auf der Decke
+
+153
+00:05:24,800 --> 00:05:27,120
+einen Faden und auf dem Boden. Diese
+
+154
+00:05:27,120 --> 00:05:28,760
+sind nicht parallel zueinander, wenn
+
+155
+00:05:28,760 --> 00:05:30,700
+man sie richtig spannt, aber sie
+
+156
+00:05:30,700 --> 00:05:31,860
+werden sich niemals schneiden.
+
+157
+00:05:35,120 --> 00:05:37,200
+Gut, wie kann man das Ganze prüfen?
+
+158
+00:05:38,820 --> 00:05:40,340
+Wenn man die Lagerbeziehung zwischen
+
+159
+00:05:40,340 --> 00:05:42,020
+zwei Geraden untersucht, hat man
+
+160
+00:05:42,020 --> 00:05:44,100
+immer zwei Schritte. Der erste
+
+161
+00:05:44,100 --> 00:05:45,100
+Schritt ist immer, die
+
+162
+00:05:45,100 --> 00:05:46,920
+Richtungsvektoren zu prüfen. Das
+
+163
+00:05:46,920 --> 00:05:47,800
+heißt, man schaut, ob die
+
+164
+00:05:47,800 --> 00:05:49,460
+Richtungsvektoren linear abhängig
+
+165
+00:05:49,460 --> 00:05:51,020
+sind. Das bedeutet, ob sie vielfache
+
+166
+00:05:51,020 --> 00:05:53,020
+voneinander sind. Damit wird nämlich
+
+167
+00:05:53,020 --> 00:05:55,200
+geklärt, ob die beiden Graden die
+
+168
+00:05:55,200 --> 00:05:57,540
+gleiche Richtung haben. Und es ist
+
+169
+00:05:57,540 --> 00:05:59,480
+wahrscheinlich auffällig, parallele
+
+170
+00:05:59,480 --> 00:06:01,600
+und identische Graden haben die
+
+171
+00:06:01,600 --> 00:06:04,340
+gleiche Richtung. Wenn die Graden
+
+172
+00:06:04,340 --> 00:06:05,300
+einen Schnittpunkt haben oder
+
+173
+00:06:05,300 --> 00:06:06,860
+windschief sind, haben sie dies
+
+174
+00:06:06,860 --> 00:06:12,740
+nicht. Das heißt, wenn wir unseren
+
+175
+00:06:12,740 --> 00:06:13,940
+Richtungsvektor oder unsere
+
+176
+00:06:13,940 --> 00:06:16,180
+Richtungsvektoren auf lineare
+
+177
+00:06:16,180 --> 00:06:17,960
+Abhängigkeit geprüft haben und dies
+
+178
+00:06:17,960 --> 00:06:20,600
+positiv ist, dann haben wir entweder
+
+179
+00:06:20,600 --> 00:06:23,200
+zwei parallele Geraden oder zwei
+
+180
+00:06:23,200 --> 00:06:26,080
+identische Geraden. Um dann
+
+181
+00:06:26,080 --> 00:06:27,940
+weiterzumachen, als nächsten Schritt
+
+182
+00:06:27,940 --> 00:06:29,440
+machen wir die Punktprobe. Das heißt,
+
+183
+00:06:29,460 --> 00:06:32,080
+wir gucken, ob der Stützvektor der
+
+184
+00:06:32,080 --> 00:06:34,800
+einen Geraden Teil der anderen
+
+185
+00:06:34,800 --> 00:06:36,720
+Geraden ist. Wenn das der Fall ist,
+
+186
+00:06:36,800 --> 00:06:39,940
+sind sie identisch. Also wenn die
+
+187
+00:06:39,940 --> 00:06:41,120
+Punktprobe erfolgreich ist, sind die
+
+188
+00:06:41,120 --> 00:06:42,800
+Geraden identisch. Wenn die
+
+189
+00:06:42,800 --> 00:06:44,960
+Punktprobe nicht erfolgreich ist,
+
+190
+00:06:45,080 --> 00:06:48,910
+sind sie parallel. Falls die
+
+191
+00:06:48,910 --> 00:06:50,510
+Richtungsvektoren nicht linear
+
+192
+00:06:50,510 --> 00:06:51,730
+abhängig sind, dann sind wir hier,
+
+193
+00:06:51,810 --> 00:06:53,630
+dann haben wir einen Schnittpunkt
+
+194
+00:06:53,630 --> 00:06:57,090
+oder zwei windschiefe Geraden. Als
+
+195
+00:06:57,090 --> 00:06:58,850
+nächstes geht man dann hin und prüft
+
+196
+00:06:58,850 --> 00:06:59,950
+auf einen Schnittpunkt. Also man
+
+197
+00:06:59,950 --> 00:07:02,050
+setzt die beiden Geraden G1 und G2
+
+198
+00:07:02,050 --> 00:07:06,040
+gleich. Gleich. Wir erhalten dann ein
+
+199
+00:07:06,040 --> 00:07:08,980
+lineares Gleichungssystem und wenn
+
+200
+00:07:08,980 --> 00:07:11,660
+dies eine eindeutige Lösung hat, dann
+
+201
+00:07:11,660 --> 00:07:12,980
+haben wir einen Schnittpunkt. Dann
+
+202
+00:07:12,980 --> 00:07:13,860
+kann man den Schnittpunkt auch noch
+
+203
+00:07:13,860 --> 00:07:15,440
+bestimmen. Das machen wir auch gleich
+
+204
+00:07:15,440 --> 00:07:18,520
+einmal. Falls dieses lineare
+
+205
+00:07:18,520 --> 00:07:20,760
+Gleichungssystem keine Lösung hat,
+
+206
+00:07:20,880 --> 00:07:22,920
+sind die Geraden windschief und dann
+
+207
+00:07:22,920 --> 00:07:24,160
+haben sie entsprechend keinen
+
+208
+00:07:24,160 --> 00:07:25,160
+Schnittpunkt.
+
+209
+00:07:27,970 --> 00:07:29,730
+Wie gerade schon angedeutet, haben
+
+210
+00:07:29,730 --> 00:07:30,870
+wir jetzt hierzu auch ein paar
+
+211
+00:07:30,870 --> 00:07:32,470
+Übungsaufgaben, beziehungsweise um
+
+212
+00:07:32,470 --> 00:07:33,590
+das Ganze mal zu veranschaulichen.
+
+213
+00:07:33,590 --> 00:07:35,490
+Wir haben als erstes hier den Fall,
+
+214
+00:07:35,630 --> 00:07:37,370
+also links und rechts sind zwei
+
+215
+00:07:37,370 --> 00:07:38,350
+verschiedene Rechnungen. Hier unten
+
+216
+00:07:38,350 --> 00:07:40,070
+steht es, links ist der Fall, dass
+
+217
+00:07:40,070 --> 00:07:41,750
+die Geraden identisch sind und rechts
+
+218
+00:07:41,750 --> 00:07:45,210
+parallel. Wir betrachten natürlich
+
+219
+00:07:45,210 --> 00:07:46,590
+auch verschiedene Geraden. Also
+
+220
+00:07:46,590 --> 00:07:49,070
+fangen wir mit der linken Seite an.
+
+221
+00:07:49,270 --> 00:07:51,490
+Hier haben wir g1 ist gleich x-Vektor
+
+222
+00:07:51,490 --> 00:07:54,130
+ist gleich 0, 1, 2 plus r mal 1, 2,
+
+223
+00:07:54,150 --> 00:07:55,990
+minus 3. und die zweite
+
+224
+00:07:55,990 --> 00:07:58,310
+Geradengleichung lautet 2,5, minus 4
+
+225
+00:07:58,310 --> 00:08:01,810
+plus t mal minus 2, minus 4, 6 und
+
+226
+00:08:01,810 --> 00:08:03,910
+als erstes prüfen wir natürlich, ob
+
+227
+00:08:03,910 --> 00:08:05,570
+die beiden Richtungsvektoren linear
+
+228
+00:08:05,570 --> 00:08:06,630
+abhängig sind. Das heißt, wir gucken,
+
+229
+00:08:06,670 --> 00:08:08,090
+ob sie vielfach voneinander sind.
+
+230
+00:08:08,730 --> 00:08:11,250
+Dann gucken wir einfach, 1 und minus
+
+231
+00:08:11,250 --> 00:08:13,950
+2 ist der Faktor minus 2, 2 und minus
+
+232
+00:08:13,950 --> 00:08:18,290
+4 ist der Faktor minus 3 und 6, auch
+
+233
+00:08:18,290 --> 00:08:21,390
+dort ist der Faktor minus 2. Das
+
+234
+00:08:21,390 --> 00:08:23,630
+heißt, sie sind linear abhängig.
+
+235
+00:08:23,650 --> 00:08:25,230
+beziehungsweise die Richtungsvektoren
+
+236
+00:08:25,230 --> 00:08:27,870
+sind vielfache voneinander. Folglich
+
+237
+00:08:27,870 --> 00:08:29,710
+sind die beiden Graden entweder
+
+238
+00:08:29,710 --> 00:08:33,270
+parallel oder identisch. Deswegen ist
+
+239
+00:08:33,270 --> 00:08:35,370
+der nächste Schritt nun, den
+
+240
+00:08:35,370 --> 00:08:36,990
+Stützvektor der anderen Graden zu
+
+241
+00:08:36,990 --> 00:08:40,070
+prüfen, ob der Teil der Graden ist.
+
+242
+00:08:40,150 --> 00:08:41,770
+Deswegen nehmen wir jetzt den
+
+243
+00:08:41,770 --> 00:08:45,270
+Stützvektor von G2 und machen mit
+
+244
+00:08:45,270 --> 00:08:49,090
+diesem die Punktprobe bei G1. Also
+
+245
+00:08:49,090 --> 00:08:50,250
+nehmen wir hier von dem Stützvektor
+
+246
+00:08:50,250 --> 00:08:51,670
+und und gucken, ob der auf dieser
+
+247
+00:08:51,670 --> 00:08:54,130
+Geradengleichung liegt. So kommen wir
+
+248
+00:08:54,130 --> 00:08:56,030
+zu der Gleichung 2, 5, minus 4 ist
+
+249
+00:08:56,030 --> 00:08:58,710
+gleich 0, 1, 2 plus R mal 1, 2, minus
+
+250
+00:08:58,710 --> 00:09:00,850
+3. Das ist jetzt wie gesagt eine ganz
+
+251
+00:09:00,850 --> 00:09:02,210
+einfache Punktprobe, wie wir sie
+
+252
+00:09:02,210 --> 00:09:04,490
+vorhin schon vorgeführt haben. Man
+
+253
+00:09:04,490 --> 00:09:06,510
+wird hier feststellen, dass in allen
+
+254
+00:09:06,510 --> 00:09:08,190
+drei Gleichungen das R gleich 2 ist.
+
+255
+00:09:08,250 --> 00:09:09,850
+Also wir haben eine einheitliche
+
+256
+00:09:09,850 --> 00:09:14,230
+Lösung. Folglich ist der Punkt Teil
+
+257
+00:09:14,230 --> 00:09:17,150
+der Geraden und daher sind die
+
+258
+00:09:17,150 --> 00:09:20,990
+Geraden identisch. Hier rechts haben
+
+259
+00:09:20,990 --> 00:09:22,570
+wir, wie gesagt, das andere Beispiel
+
+260
+00:09:22,570 --> 00:09:24,090
+dazu. Wir haben auch zwei
+
+261
+00:09:24,090 --> 00:09:26,270
+Geradengleichungen. Also die eine
+
+262
+00:09:26,270 --> 00:09:28,990
+lautet 0, 1, 2 plus R mal 1, 1, 3.
+
+263
+00:09:29,510 --> 00:09:32,970
+Und die zweite lautet 4, 0, 0 plus T
+
+264
+00:09:32,970 --> 00:09:36,530
+mal 3, 3, 9. Auch hier prüfen wir als
+
+265
+00:09:36,530 --> 00:09:37,430
+erstes einmal, ob die
+
+266
+00:09:37,430 --> 00:09:38,930
+Richtungsvektoren linear abhängig
+
+267
+00:09:38,930 --> 00:09:42,710
+sind. 1 und 3 ist der Faktor 3. 1 und
+
+268
+00:09:42,710 --> 00:09:45,030
+3 ist wieder der Faktor 3. 3 und 9,
+
+269
+00:09:45,070 --> 00:09:46,790
+das wäre der Faktor 3 dazwischen. Das
+
+270
+00:09:46,790 --> 00:09:49,230
+heißt, ja, die Richtungsvektoren sind
+
+271
+00:09:49,230 --> 00:09:50,970
+definitiv linear abhängig
+
+272
+00:09:50,970 --> 00:09:53,130
+voneinander, also vielfache. Folglich
+
+273
+00:09:53,130 --> 00:09:56,630
+sind die Geraden auch hier parallel
+
+274
+00:09:56,630 --> 00:10:00,550
+oder identisch. Deswegen ist die
+
+275
+00:10:00,550 --> 00:10:02,190
+Herangehensweise nun auch wieder
+
+276
+00:10:02,190 --> 00:10:03,530
+äquivalent zu dem, was wir links
+
+277
+00:10:03,530 --> 00:10:05,650
+gemacht haben. Das heißt, wir setzen
+
+278
+00:10:05,650 --> 00:10:07,830
+jetzt wieder den Stützvektor mit der
+
+279
+00:10:07,830 --> 00:10:09,250
+anderen Geraden gleich und gleich und
+
+280
+00:10:09,250 --> 00:10:12,010
+prüfen, ob er Teil der Geraden ist.
+
+281
+00:10:12,010 --> 00:10:13,890
+Deswegen nehmen wir den Stützvektor
+
+282
+00:10:13,890 --> 00:10:16,710
+von G2, 4, 0, 0 und gucken, ob er
+
+283
+00:10:16,710 --> 00:10:19,210
+Teil der Geraden G1 ist. So kommen
+
+284
+00:10:19,210 --> 00:10:21,370
+wir zu der Gleichung 4, 0, 0 ist
+
+285
+00:10:21,370 --> 00:10:24,610
+gleich 0, 1, 2 plus R mal 1, 1, 3.
+
+286
+00:10:26,270 --> 00:10:28,150
+Wenn wir, das ist ja auch wieder eine
+
+287
+00:10:28,150 --> 00:10:29,570
+Punktprobe, wenn wir diese Punktprobe
+
+288
+00:10:29,570 --> 00:10:31,830
+ausführen, werden wir feststellen,
+
+289
+00:10:31,830 --> 00:10:33,150
+dass wir verschiedene Werte für R
+
+290
+00:10:33,150 --> 00:10:34,850
+herausbekommen. Also aus der ersten
+
+291
+00:10:34,850 --> 00:10:36,330
+Gleichung geht heraus, R ist gleich
+
+292
+00:10:36,330 --> 00:10:38,430
+4. Aus der zweiten Gleichung geht
+
+293
+00:10:38,430 --> 00:10:40,790
+heraus, R ist gleich minus 1. Und aus
+
+294
+00:10:40,790 --> 00:10:42,410
+der dritten Gleichung geht heraus, R
+
+295
+00:10:42,410 --> 00:10:45,830
+ist gleich minus 2 Drittel. Und das
+
+296
+00:10:45,830 --> 00:10:47,210
+ist keine einheitliche Lösung.
+
+297
+00:10:49,130 --> 00:10:53,350
+Folglich liegt der Punkt nicht auf
+
+298
+00:10:53,350 --> 00:10:55,150
+der Geraden und daher sind die
+
+299
+00:10:55,150 --> 00:10:58,730
+Geraden lediglich parallel. Und damit
+
+300
+00:10:58,730 --> 00:11:00,250
+ist die Lagebeziehung von diesen
+
+301
+00:11:00,250 --> 00:11:01,730
+beiden Geraden auch schon bestimmt.
+
+302
+00:11:04,110 --> 00:11:06,150
+Kommen wir zu den etwas, ich sage es
+
+303
+00:11:06,150 --> 00:11:08,010
+mal, aufwendigeren Fällen. Das heißt,
+
+304
+00:11:08,090 --> 00:11:09,530
+dass die Geraden entweder windschief
+
+305
+00:11:09,530 --> 00:11:10,750
+sind oder einen Schnittpunkt haben.
+
+306
+00:11:11,110 --> 00:11:13,070
+Auch hier sehen wir oben links als
+
+307
+00:11:13,070 --> 00:11:15,450
+erstes wieder unsere beiden Geraden.
+
+308
+00:11:15,730 --> 00:11:18,870
+Einmal ist unsere erste Gerade G1 0,1
+
+309
+00:11:18,870 --> 00:11:21,250
+,2 plus R mal 1,1,2. Und unsere
+
+310
+00:11:21,250 --> 00:11:23,830
+Geraden gleich um 2, 3, 0,0 plus T
+
+311
+00:11:23,830 --> 00:11:27,830
+mal minus 1, 1,2. Auch hier als
+
+312
+00:11:27,830 --> 00:11:29,710
+ersten Schritt wieder die lineare
+
+313
+00:11:29,710 --> 00:11:34,630
+Abhängigkeit prüfen. Also wie komme
+
+314
+00:11:34,630 --> 00:11:36,150
+ich von der 1 zu minus 1? 1 ist mal
+
+315
+00:11:36,150 --> 00:11:38,990
+minus 1. Hier von der 1 zu 1, das
+
+316
+00:11:38,990 --> 00:11:40,290
+wäre eigentlich eine 1. Und da sieht
+
+317
+00:11:40,290 --> 00:11:41,390
+man schon, dass da nicht der gleiche
+
+318
+00:11:41,390 --> 00:11:43,970
+Faktor besteht. Folglich, wir merken
+
+319
+00:11:43,970 --> 00:11:46,270
+beim Überprüfen der linearen
+
+320
+00:11:46,270 --> 00:11:48,070
+Abhängigkeit, dass die beiden
+
+321
+00:11:48,070 --> 00:11:49,690
+Richtungsvektoren nicht linear
+
+322
+00:11:49,690 --> 00:11:51,330
+abhängig sind, also keine Vielfachen
+
+323
+00:11:51,330 --> 00:11:53,870
+sind. Und daher prüfen wir direkt auf
+
+324
+00:11:53,870 --> 00:11:56,330
+einen Schnittpunkt. Beim Prüfen auf
+
+325
+00:11:56,330 --> 00:11:58,170
+einen Schnittpunkt setzen wir, wie
+
+326
+00:11:58,170 --> 00:11:59,470
+gesagt, die kompletten Geraden gleich
+
+327
+00:11:59,470 --> 00:12:02,610
+und gleich. Das heißt, G1 ist gleich
+
+328
+00:12:02,610 --> 00:12:05,990
+G2. So kommen wir zu 012 plus R mal
+
+329
+00:12:05,990 --> 00:12:10,290
+112. Das ist gleich 300 plus T mal
+
+330
+00:12:10,290 --> 00:12:11,250
+minus 112.
+
+331
+00:12:13,830 --> 00:12:15,310
+Dieses Gleichungssystem müssen wir
+
+332
+00:12:15,310 --> 00:12:17,090
+nun lösen. Man stellt aber fest,
+
+333
+00:12:17,210 --> 00:12:19,090
+beziehungsweise, wenn man den
+
+334
+00:12:19,090 --> 00:12:20,290
+Schnittpunkt von zwei Geraden
+
+335
+00:12:20,290 --> 00:12:21,710
+untersucht, ist es immer so, man hat
+
+336
+00:12:21,710 --> 00:12:22,990
+drei Gleichungen, zwei Unbekannte.
+
+337
+00:12:22,990 --> 00:12:24,550
+Das heißt, es ist immer noch ein
+
+338
+00:12:24,550 --> 00:12:27,370
+überbestimmtes Gleichungssystem.
+
+339
+00:12:28,850 --> 00:12:31,330
+nehmen wir erstmal nur, wie es hier
+
+340
+00:12:31,330 --> 00:12:32,710
+entsteht, zwei Gleichungen und lösen
+
+341
+00:12:32,710 --> 00:12:34,610
+es damit. Es ist aber trotzdem
+
+342
+00:12:34,610 --> 00:12:36,170
+alledem ratsam, das erstmal komplett
+
+343
+00:12:36,170 --> 00:12:37,910
+so umzustellen, dass man die beiden
+
+344
+00:12:37,910 --> 00:12:39,550
+Variablen, also die beiden Parameter
+
+345
+00:12:39,550 --> 00:12:41,150
+auf einer Seite hat und der
+
+346
+00:12:41,150 --> 00:12:42,710
+dazugehörige Vektor. Deswegen rechnen
+
+347
+00:12:42,710 --> 00:12:45,850
+wir im ersten Schritt minus 0, 1, 2,
+
+348
+00:12:45,970 --> 00:12:48,150
+damit der Stützvektor hier wegkommt
+
+349
+00:12:48,150 --> 00:12:52,350
+und minus t mal minus 1, 1, 2, damit
+
+350
+00:12:52,350 --> 00:12:53,790
+der Richtungsvektor t auf die Seite
+
+351
+00:12:53,790 --> 00:12:55,070
+kommt. Dann haben wir unsere beiden
+
+352
+00:12:55,070 --> 00:12:58,090
+Parameter r und t links und unseren
+
+353
+00:12:58,090 --> 00:13:00,530
+Vektor rechts. So kommen wir auf r
+
+354
+00:13:00,530 --> 00:13:04,950
+mal 1, 1, 2 minus t mal minus 1, 1, 2
+
+355
+00:13:04,950 --> 00:13:07,570
+und das ist gleich 3, 0, 0 minus 0,
+
+356
+00:13:07,690 --> 00:13:10,550
+1, 2. Ganz wichtig, passt hier bitte
+
+357
+00:13:10,550 --> 00:13:11,690
+mit den Vorzeichen auf, wenn ihr das
+
+358
+00:13:11,690 --> 00:13:14,330
+ausklammert. Wir kommen so auf r mal
+
+359
+00:13:14,330 --> 00:13:17,250
+1, also ein r, minus t mal minus 1,
+
+360
+00:13:17,330 --> 00:13:21,490
+das ist minus minus plus t. 3 minus 0
+
+361
+00:13:21,490 --> 00:13:24,190
+ist eine 3. zweiten Zeile, r mal 1
+
+362
+00:13:24,190 --> 00:13:26,790
+minus t mal 1, das ist einfach 1r
+
+363
+00:13:26,790 --> 00:13:29,090
+minus 1t und das ist gleich 0 minus
+
+364
+00:13:29,090 --> 00:13:33,590
+1, also minus 1. Die letzte Zeile, r
+
+365
+00:13:33,590 --> 00:13:36,330
+mal 2 minus t mal 2, das sind 2r
+
+366
+00:13:36,330 --> 00:13:39,230
+minus 2t und 0 minus 2 ist auch ein
+
+367
+00:13:39,230 --> 00:13:42,250
+einfache minus 2. Und damit haben wir
+
+368
+00:13:42,250 --> 00:13:43,710
+nun schon unser Gleichungssystem und
+
+369
+00:13:43,710 --> 00:13:45,810
+wir nehmen uns jetzt einfach hier
+
+370
+00:13:45,810 --> 00:13:48,010
+zwei der drei Gleichungen heraus, um
+
+371
+00:13:48,010 --> 00:13:49,610
+das Gleichungssystem zu lösen.
+
+372
+00:13:52,090 --> 00:13:53,610
+Also wir lösen das Ganze als 2x2
+
+373
+00:13:53,610 --> 00:13:54,770
+Gleichungssystem. Wir haben uns hier
+
+374
+00:13:54,770 --> 00:13:57,030
+für die ersten beiden Gleichungen
+
+375
+00:13:57,030 --> 00:13:58,730
+entschieden und kamen so auf die
+
+376
+00:13:58,730 --> 00:14:00,810
+Lösung R gleich 1 und T gleich 2.
+
+377
+00:14:02,860 --> 00:14:05,060
+Wenn ihr an der Stelle seid und die
+
+378
+00:14:05,060 --> 00:14:06,840
+Werte der beiden Parameter bestimmt
+
+379
+00:14:06,840 --> 00:14:08,240
+habt, seid ihr noch lange nicht am
+
+380
+00:14:08,240 --> 00:14:11,860
+Ziel. Ihr müsst unbedingt die Probe
+
+381
+00:14:11,860 --> 00:14:14,280
+mit der übrigen Gleichung machen. Das
+
+382
+00:14:14,280 --> 00:14:15,160
+heißt, ihr nehmt die dritte
+
+383
+00:14:15,160 --> 00:14:16,160
+Gleichung, mit der ihr noch nicht
+
+384
+00:14:16,160 --> 00:14:18,360
+gearbeitet habt und macht die Probe.
+
+385
+00:14:18,360 --> 00:14:19,680
+Das heißt, ihr setzt euer R und euer
+
+386
+00:14:19,680 --> 00:14:21,220
+T ein. Bei uns ist das die Gleichung
+
+387
+00:14:21,220 --> 00:14:23,720
+3. Mit Gleichung 1 und 2, den beiden
+
+388
+00:14:23,720 --> 00:14:24,800
+hier oben, haben wir das
+
+389
+00:14:24,800 --> 00:14:26,920
+Gleichungssystem gelöst. Und die
+
+390
+00:14:26,920 --> 00:14:28,200
+Gleichung 3 hier unten ist dann die
+
+391
+00:14:28,200 --> 00:14:29,900
+übrige Gleichung, mit der wir am Ende
+
+392
+00:14:29,900 --> 00:14:31,660
+die Probe machen. Denn dort
+
+393
+00:14:31,660 --> 00:14:33,180
+entscheidet sich letztendlich erst,
+
+394
+00:14:33,420 --> 00:14:36,380
+ob die Geraden windschief sind oder
+
+395
+00:14:36,380 --> 00:14:39,920
+einen Schnittpunkt haben. Und zwar 2r
+
+396
+00:14:39,920 --> 00:14:42,040
+-2t ist gleich minus 2, wir wissen r
+
+397
+00:14:42,040 --> 00:14:43,880
+ist gleich 1 und t ist gleich 2, also
+
+398
+00:14:43,880 --> 00:14:46,780
+2 mal 1 minus 2 mal 2 ist gleich
+
+399
+00:14:46,780 --> 00:14:50,660
+minus 2. 2 mal 1 ist 2, minus 2 mal 2
+
+400
+00:14:50,660 --> 00:14:53,340
+ist minus 4 und 2 minus 4 ist minus
+
+401
+00:14:53,340 --> 00:14:55,300
+2. Das ist also eine wahre Aussage,
+
+402
+00:14:55,300 --> 00:14:57,220
+die hier unten entsteht. Folglich
+
+403
+00:14:57,220 --> 00:14:58,860
+haben die Geraden wirklich einen
+
+404
+00:14:58,860 --> 00:15:01,240
+Schnittpunkt. Und immer wenn ihr
+
+405
+00:15:01,240 --> 00:15:02,720
+einen Schnittpunkt habt, berechnet
+
+406
+00:15:02,720 --> 00:15:04,600
+ihr diesen natürlich auch. Das heißt,
+
+407
+00:15:04,700 --> 00:15:06,320
+wir müssen jetzt das r in die
+
+408
+00:15:06,320 --> 00:15:08,640
+Geradengleichung 1 einsetzen oder das
+
+409
+00:15:08,640 --> 00:15:11,220
+t in die Geradengleichung 2. Welche
+
+410
+00:15:11,220 --> 00:15:12,740
+der beiden Parameter ihr einsetzt,
+
+411
+00:15:12,760 --> 00:15:14,420
+ist egal. Wichtig ist nur, setzt die
+
+412
+00:15:14,420 --> 00:15:15,560
+Parameter immer in die richtige
+
+413
+00:15:15,560 --> 00:15:18,380
+Geradengleichung ein. Also r in g1 in
+
+414
+00:15:18,380 --> 00:15:21,220
+dem Fall oder t in g2. Wir haben uns
+
+415
+00:15:21,220 --> 00:15:23,100
+dazu entschieden, r in g1
+
+416
+00:15:23,100 --> 00:15:25,460
+einzusetzen. Deswegen rechnen wir
+
+417
+00:15:25,460 --> 00:15:28,680
+einmal 0, 1, 2 plus einmal 1, 1, 2.
+
+418
+00:15:28,680 --> 00:15:30,160
+2, also die 1 ist einfach hier, weil
+
+419
+00:15:30,160 --> 00:15:32,040
+r gleich 1 ist. Das haben wir
+
+420
+00:15:32,040 --> 00:15:33,920
+eingesetzt. Und wir bestimmen so den
+
+421
+00:15:33,920 --> 00:15:36,140
+Schnittpunkt. Also 0 plus 1 mal 1 ist
+
+422
+00:15:36,140 --> 00:15:38,640
+1. 1 plus 1 mal 1 ist 1 plus 1,
+
+423
+00:15:38,760 --> 00:15:42,220
+beziehungsweise 2. Und 2 plus 1 mal 2
+
+424
+00:15:42,220 --> 00:15:45,000
+ist 2 plus 2, also 4. Der
+
+425
+00:15:45,000 --> 00:15:48,140
+Schnittpunkt lautet dann 1, 2, 4. Und
+
+426
+00:15:48,140 --> 00:15:50,100
+damit ist die Aufgabe dann auch
+
+427
+00:15:50,100 --> 00:15:53,420
+gelöst. Damit kommen wir dann auch
+
+428
+00:15:53,420 --> 00:15:55,040
+zum letzten Fall. und das ist, wenn
+
+429
+00:15:55,040 --> 00:15:56,580
+man aufgepasst hat, der windschiefe
+
+430
+00:15:56,580 --> 00:15:59,840
+Fall. Auch hier mal wieder, wir haben
+
+431
+00:15:59,840 --> 00:16:01,480
+zwei Gradengleichungen, wie man sie
+
+432
+00:16:01,480 --> 00:16:03,760
+dafür auch braucht. Die erste
+
+433
+00:16:03,760 --> 00:16:06,380
+Gradengleichung lautet 012 plus r mal
+
+434
+00:16:06,380 --> 00:16:08,600
+112. Die zweite Gradengleichung
+
+435
+00:16:08,600 --> 00:16:13,380
+lautet 611 plus t mal minus 112. Das
+
+436
+00:16:13,380 --> 00:16:14,680
+sind unsere beiden Gradengleichungen
+
+437
+00:16:14,680 --> 00:16:16,320
+und wir fangen natürlich ganz vorne
+
+438
+00:16:16,320 --> 00:16:18,120
+an. Das bedeutet, wir prüfen als
+
+439
+00:16:18,120 --> 00:16:19,040
+erstes, ob die beiden
+
+440
+00:16:19,040 --> 00:16:21,240
+richtungsvektoren linear abhängig
+
+441
+00:16:21,240 --> 00:16:23,160
+sind das heißt die beiden
+
+442
+00:16:23,160 --> 00:16:24,520
+richtungsvektoren einmal raussuchen
+
+443
+00:16:24,520 --> 00:16:27,480
+und gucken ob sie vielfache sind um
+
+444
+00:16:27,480 --> 00:16:29,160
+von der 1 minus 1 zu kommen müssen
+
+445
+00:16:29,160 --> 00:16:31,360
+wir wieder mit mal minus 1
+
+446
+00:16:31,360 --> 00:16:33,400
+multiplizieren und von der 1 zu 1 zu
+
+447
+00:16:33,400 --> 00:16:35,460
+kommen das müssen wir die 1 nehmen da
+
+448
+00:16:35,460 --> 00:16:37,920
+sieht man schon minus 1 und 1 hier
+
+449
+00:16:37,920 --> 00:16:39,200
+unten haben wir auch wieder die 1 als
+
+450
+00:16:39,200 --> 00:16:42,440
+faktor es ist also kein konstanter
+
+451
+00:16:42,440 --> 00:16:45,120
+faktor der ist von element zu element
+
+452
+00:16:45,120 --> 00:16:47,140
+anders folglich sind die
+
+453
+00:16:47,140 --> 00:16:48,260
+richtungsvektoren Und keine
+
+454
+00:16:48,260 --> 00:16:49,920
+Vielfachen also, wir prüfen jetzt
+
+455
+00:16:49,920 --> 00:16:52,140
+wieder auf einen Schnittpunkt. Denn
+
+456
+00:16:52,140 --> 00:16:53,680
+wir haben entweder einen Schnittpunkt
+
+457
+00:16:53,680 --> 00:16:55,040
+vorliegen oder die Geraden sind
+
+458
+00:16:55,040 --> 00:16:55,940
+windschief.
+
+459
+00:16:58,080 --> 00:16:59,280
+Beim Schnittpunktprüfen machen wir
+
+460
+00:16:59,280 --> 00:17:00,420
+das, was wir gerade gemacht haben,
+
+461
+00:17:00,480 --> 00:17:02,700
+den Ansatz. Also G1 gleich G2, so
+
+462
+00:17:02,700 --> 00:17:06,180
+kommen wir auf 012 plus R mal 112 ist
+
+463
+00:17:06,180 --> 00:17:11,760
+gleich 611 plus T mal minus 112. Auch
+
+464
+00:17:11,760 --> 00:17:12,800
+hier wieder, wir wollen unsere
+
+465
+00:17:12,800 --> 00:17:14,220
+Parameter auf links sammeln und
+
+466
+00:17:14,220 --> 00:17:15,360
+unseren Vektor auf der rechten Seite.
+
+467
+00:17:15,360 --> 00:17:17,400
+Deswegen rechnen wir minus 0,12,
+
+468
+00:17:17,560 --> 00:17:19,740
+damit der Vektor rüberkommt und minus
+
+469
+00:17:19,740 --> 00:17:23,940
+t mal minus 1,12, damit der t-Vektor
+
+470
+00:17:23,940 --> 00:17:27,660
+rüberkommt. Wir kommen so auf r mal 1
+
+471
+00:17:27,660 --> 00:17:32,260
+,12 minus t mal minus 1,12. Das ist
+
+472
+00:17:32,260 --> 00:17:35,580
+gleich 6,1,1 minus 0,12.
+
+473
+00:17:38,280 --> 00:17:40,320
+Und daraus formen wir jetzt unsere
+
+474
+00:17:40,320 --> 00:17:41,460
+Gleichungssysteme. Auch hier bitte
+
+475
+00:17:41,460 --> 00:17:44,060
+wieder aufpassen, es ist minus t. Das
+
+476
+00:17:44,060 --> 00:17:45,520
+heißt, wenn wir die erste Zeile
+
+477
+00:17:45,520 --> 00:17:47,900
+bestimmen, haben wir r mal 1 minus t
+
+478
+00:17:47,900 --> 00:17:50,960
+mal minus 1, das ist plus t, also 1r
+
+479
+00:17:50,960 --> 00:17:54,180
+plus 1t ist gleich 6 minus 0, also 6.
+
+480
+00:17:54,320 --> 00:17:56,640
+Die zweite Zeile r mal 1 minus t mal
+
+481
+00:17:56,640 --> 00:17:59,960
+1, das ist 1r minus 1t und das ist
+
+482
+00:17:59,960 --> 00:18:02,120
+gleich 1 minus 1 beziehungsweise 0.
+
+483
+00:18:03,720 --> 00:18:06,680
+Die letzte Zeile r mal 2 minus t mal
+
+484
+00:18:06,680 --> 00:18:10,400
+2 ist gleich 1 minus 2, so kommen wir
+
+485
+00:18:10,400 --> 00:18:15,580
+zu 2r minus 2t. gleich minus 1. Wenn
+
+486
+00:18:15,580 --> 00:18:16,880
+wir dieses Gleichungssystem lösen,
+
+487
+00:18:16,940 --> 00:18:18,880
+also wir gehen auch hier wieder hin
+
+488
+00:18:18,880 --> 00:18:21,300
+und nehmen uns zwei der drei
+
+489
+00:18:21,300 --> 00:18:23,900
+Gleichungen raus und lösen mit diesen
+
+490
+00:18:23,900 --> 00:18:24,660
+beiden Gleichungen das
+
+491
+00:18:24,660 --> 00:18:25,900
+Gleichungssystem, einfach aus dem
+
+492
+00:18:25,900 --> 00:18:27,920
+gleichen Grund wie vorhin. Wir haben
+
+493
+00:18:27,920 --> 00:18:29,080
+drei Gleichungen, aber nur zwei
+
+494
+00:18:29,080 --> 00:18:31,140
+unbekannte, folglich ist das
+
+495
+00:18:31,140 --> 00:18:33,300
+Gleichungssystem überbestimmt und
+
+496
+00:18:33,300 --> 00:18:35,500
+deswegen nehmen wir uns erstmal nur
+
+497
+00:18:35,500 --> 00:18:37,040
+so viele Gleichungen, wie wir sie
+
+498
+00:18:37,040 --> 00:18:39,460
+brauchen, damit es bestimmt ist. Ein
+
+499
+00:18:39,460 --> 00:18:40,600
+Gleichungssystem ist ja immer dann
+
+500
+00:18:40,600 --> 00:18:42,020
+bestimmt, wenn man genauso viele
+
+501
+00:18:42,020 --> 00:18:44,620
+Unbekannte wie Gleichungen hat.
+
+502
+00:18:45,420 --> 00:18:46,540
+Deswegen haben wir uns hier die
+
+503
+00:18:46,540 --> 00:18:47,880
+beiden oberen Gleichungen genommen,
+
+504
+00:18:48,380 --> 00:18:49,880
+haben unser r und unser t
+
+505
+00:18:49,880 --> 00:18:51,340
+ausgerechnet, in dem Fall ist r
+
+506
+00:18:51,340 --> 00:18:53,740
+gleich 3 und t gleich 3 und machen
+
+507
+00:18:53,740 --> 00:18:55,560
+mit der letzten Gleichung, also in
+
+508
+00:18:55,560 --> 00:18:56,880
+dem Fall die Gleichung 3 hier unten,
+
+509
+00:18:56,880 --> 00:19:00,100
+die Probe. Also 2r ist gleich, äh
+
+510
+00:19:00,100 --> 00:19:01,680
+Entschuldigung, 2r minus 2t ist
+
+511
+00:19:01,680 --> 00:19:02,900
+gleich minus 1, das ist die
+
+512
+00:19:02,900 --> 00:19:05,040
+Gleichung. Wir setzen dort unser R
+
+513
+00:19:05,040 --> 00:19:06,640
+und T ein, kommen so auf 2 mal 3
+
+514
+00:19:06,640 --> 00:19:08,960
+minus 2 mal 3 und das ist leider
+
+515
+00:19:08,960 --> 00:19:10,900
+gleich 0 und nicht gleich minus 2.
+
+516
+00:19:11,200 --> 00:19:14,000
+Folglich entsteht eine nicht wahre
+
+517
+00:19:14,000 --> 00:19:15,780
+Aussage, also eine falsche Aussage
+
+518
+00:19:15,780 --> 00:19:17,380
+und daher sind die Geraden
+
+519
+00:19:17,380 --> 00:19:18,600
+windschief. Also immer wenn bei der
+
+520
+00:19:18,600 --> 00:19:20,240
+Probe am Ende eine falsche Aussage
+
+521
+00:19:20,240 --> 00:19:21,640
+entsteht, sind die Geraden dann
+
+522
+00:19:21,640 --> 00:19:24,980
+windschief. Damit wären wir auch
+
+523
+00:19:24,980 --> 00:19:26,400
+schon am Ende des Webinars. Ich
+
+524
+00:19:26,400 --> 00:19:27,960
+bedanke mich recht herzlich für eure
+
+525
+00:19:27,960 --> 00:19:28,720
+Aufmerksamkeit.
+

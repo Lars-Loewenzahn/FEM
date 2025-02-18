@@ -1,0 +1,3524 @@
+﻿1
+00:00:01,550 --> 00:00:03,390
+Hello and welcome to the 
+
+2
+00:00:03,390 --> 00:00:05,670
+Schülerhilfe webinar. 
+
+3
+00:00:05,670 --> 00:00:07,470
+Today we want to 
+
+4
+00:00:07,470 --> 00:00:09,810
+look at the German sentence. This means 
+that we will 
+
+5
+00:00:09,810 --> 00:00:12,510
+first look at the types of sentences, 
+
+6
+00:00:12,550 --> 00:00:14,810
+then we will look at which 
+
+7
+00:00:14,810 --> 00:00:16,990
+sentences there are and which 
+sub-sentences 
+
+8
+00:00:16,990 --> 00:00:19,870
+we can structure, which 
+
+9
+00:00:19,870 --> 00:00:22,110
+sentence elements the sentences consist of 
+and 
+
+10
+00:00:22,110 --> 00:00:23,930
+how we 
+
+11
+00:00:23,930 --> 00:00:25,650
+
+12
+00:00:25,650 --> 00:00:28,530
+can recognize the individual sentence 
+elements with the help of the Umstellprobe 
+. Let's move on to the types of sentences. 
+
+13
+00:00:28,530 --> 00:00:30,890
+Sentence types are primarily 
+
+14
+00:00:30,890 --> 00:00:34,110
+different ways 
+
+15
+00:00:34,110 --> 00:00:36,790
+of expressing something. We can see five 
+
+16
+00:00:36,790 --> 00:00:39,390
+examples here : the declarative sentence, 
+
+17
+00:00:39,530 --> 00:00:42,410
+the interrogative sentence, the request 
+sentence, 
+
+18
+00:00:42,550 --> 00:00:45,250
+the exclamatory sentence and the request 
+sentence. 
+
+19
+00:00:45,710 --> 00:00:48,310
+We can see that in addition to the 
+
+20
+00:00:48,310 --> 00:00:50,370
+punctuation, i.e. the 
+
+21
+00:00:50,370 --> 00:00:52,670
+end of the sentence, 
+
+22
+00:00:52,670 --> 00:00:55,410
+the verb and the general 
+
+23
+00:00:55,410 --> 00:00:57,370
+order of the clauses also change. This 
+means the 
+
+24
+00:00:57,370 --> 00:00:59,530
+position of the individual elements in the 
+
+25
+00:00:59,530 --> 00:01:02,230
+sentence. In the declarative sentence, 
+
+26
+00:01:02,310 --> 00:01:05,010
+we 
+
+27
+00:01:05,010 --> 00:01:07,230
+have Jana likes to eat chocolate. This 
+means 
+
+28
+00:01:07,230 --> 00:01:09,430
+that we have our subject, then our 
+predicate, 
+
+29
+00:01:09,750 --> 00:01:11,510
+then an adverb and then our 
+
+30
+00:01:11,510 --> 00:01:13,930
+object. The 
+
+31
+00:01:13,930 --> 00:01:17,130
+verb, here inflected, i.e. the predicate, 
+is in the 
+
+32
+00:01:17,130 --> 00:01:18,950
+normal indicative. 
+
+33
+00:01:19,610 --> 00:01:22,150
+Indicative means meaningful. So 
+
+34
+00:01:22,150 --> 00:01:24,990
+here we have a declarative sentence. So 
+here we have 
+
+35
+00:01:24,990 --> 00:01:26,710
+a predicate that is made. 
+
+36
+00:01:27,010 --> 00:01:29,710
+Unlike in the interrogative sentence. Here 
+
+37
+00:01:29,710 --> 00:01:32,110
+the verb, i.e. the inflected verb, 
+
+38
+00:01:32,170 --> 00:01:34,510
+is called the predicate, the predicate 
+moves to the 
+
+39
+00:01:34,510 --> 00:01:36,590
+beginning and we have a question mark 
+
+40
+00:01:36,590 --> 00:01:38,610
+instead of a period. The sentence 
+
+41
+00:01:38,610 --> 00:01:40,830
+changes slightly. Does Jana like 
+
+42
+00:01:40,830 --> 00:01:43,010
+chocolate? So we also raise 
+
+43
+00:01:43,010 --> 00:01:45,110
+our voice. We make it clear 
+
+44
+00:01:45,210 --> 00:01:46,750
+that this is an interrogative sentence 
+
+45
+00:01:46,750 --> 00:01:49,090
+. In other words, we don't know 
+
+46
+00:01:49,130 --> 00:01:51,890
+whether she likes chocolate. In other 
+words, we're 
+
+47
+00:01:51,890 --> 00:01:54,670
+asking. This is such an... 
+
+48
+00:01:55,550 --> 00:01:57,190
+interrogative sentence. The 
+
+49
+00:01:57,190 --> 00:01:59,110
+request sentence is 
+
+50
+00:01:59,110 --> 00:02:01,150
+different again. 
+
+51
+00:02:01,150 --> 00:02:04,650
+The verb clearly changes its mode. 
+
+52
+00:02:04,650 --> 00:02:07,350
+That is, it is 
+
+53
+00:02:07,350 --> 00:02:09,730
+
+54
+00:02:09,730 --> 00:02:13,190
+turned from the indicative, as in these 
+two initial examples, into the imperative. 
+That is, 
+
+55
+00:02:13,210 --> 00:02:16,290
+into the imperative form. Jana, is your 
+
+56
+00:02:16,290 --> 00:02:18,550
+chocolate a request, an 
+
+57
+00:02:18,550 --> 00:02:20,830
+appeal, a command and an order. 
+
+58
+00:02:21,050 --> 00:02:23,490
+Then we have the exclamatory sentence A. 
+
+59
+00:02:23,690 --> 00:02:26,290
+So Jana likes chocolate. Here 
+
+60
+00:02:26,290 --> 00:02:27,950
+we want to make an emphatic 
+
+61
+00:02:27,950 --> 00:02:30,290
+statement. So unlike 
+
+62
+00:02:30,290 --> 00:02:32,710
+in the declarative sentence, where we 
+
+63
+00:02:32,710 --> 00:02:35,530
+
+64
+00:02:35,530 --> 00:02:40,330
+
+65
+00:02:40,330 --> 00:02:42,730
+make a statement soberly without any 
+evaluation, without any kind of intention 
+, here we already have 
+
+66
+00:02:42,730 --> 00:02:44,510
+an intention 
+
+67
+00:02:44,510 --> 00:02:45,910
+characterized by the fact that we 
+
+68
+00:02:45,910 --> 00:02:48,130
+have an interjection like A and an 
+
+69
+00:02:48,130 --> 00:02:51,730
+exclamation mark at the end of the 
+sentence. 
+
+70
+00:02:51,730 --> 00:02:53,530
+So here we are making a 
+
+71
+00:02:53,530 --> 00:02:55,490
+statement with astonishment and 
+
+72
+00:02:55,490 --> 00:02:58,210
+realization. In the wishful sentence, 
+
+73
+00:02:58,290 --> 00:03:02,870
+in addition to an if, we 
+
+74
+00:03:02,870 --> 00:03:05,390
+also 
+
+75
+00:03:05,390 --> 00:03:07,710
+find the verb in the subjunctive . This 
+means 
+
+76
+00:03:07,710 --> 00:03:11,530
+that the entire sentence construction 
+changes here, 
+
+77
+00:03:11,530 --> 00:03:14,050
+as we 
+
+78
+00:03:14,050 --> 00:03:16,030
+have already seen above. So if Jana likes 
+to 
+
+79
+00:03:16,030 --> 00:03:18,430
+eat chocolate, we 
+
+80
+00:03:18,430 --> 00:03:20,830
+always have the chocolate at the end of 
+the sentence. Here, 
+
+81
+00:03:20,830 --> 00:03:23,530
+however, 
+
+82
+00:03:23,530 --> 00:03:26,450
+
+83
+00:03:26,450 --> 00:03:28,250
+
+84
+00:03:28,250 --> 00:03:30,450
+we find the S next to, or rather after, 
+the actual chocolate, i.e. the object of 
+the sentence. 
+
+85
+00:03:30,670 --> 00:03:33,870
+This is because we 
+
+86
+00:03:33,870 --> 00:03:35,590
+have an if-phrase here , which means that 
+we are 
+
+87
+00:03:35,590 --> 00:03:37,930
+expressing a possibility, i.e. 
+
+88
+00:03:37,930 --> 00:03:40,070
+a wish-phrase. This means that a 
+
+89
+00:03:40,070 --> 00:03:42,530
+wish is ultimately just the 
+
+90
+00:03:42,530 --> 00:03:44,550
+expression of a possibility and the 
+
+91
+00:03:44,550 --> 00:03:46,130
+wish says that one of the 
+
+92
+00:03:46,130 --> 00:03:48,410
+existing possibilities 
+
+93
+00:03:48,410 --> 00:03:50,630
+should come true . In other words, that 
+you 
+
+94
+00:03:50,630 --> 00:03:52,570
+have a certain preference. 
+
+95
+00:03:52,750 --> 00:03:55,850
+If Jana likes chocolate, 
+
+96
+00:03:56,010 --> 00:03:57,850
+then she would probably like this 
+
+97
+00:03:57,850 --> 00:04:00,710
+chocolate cake. In other words 
+
+98
+00:04:00,710 --> 00:04:02,810
+, you are setting a condition, a 
+
+99
+00:04:02,810 --> 00:04:05,750
+wish, a possibility. 
+
+100
+00:04:05,750 --> 00:04:07,690
+So we can see that, in addition to the 
+
+101
+00:04:07,690 --> 00:04:09,730
+different punctuation marks, 
+
+102
+00:04:09,730 --> 00:04:11,670
+the verb also changes and the 
+
+103
+00:04:11,670 --> 00:04:15,550
+individual sentence elements also 
+
+104
+00:04:15,550 --> 00:04:17,750
+move around a little in the sentence, 
+although we 
+
+105
+00:04:17,750 --> 00:04:19,770
+can see that in 
+
+106
+00:04:19,770 --> 00:04:22,410
+most cases the predicate 
+
+107
+00:04:22,410 --> 00:04:26,690
+is at the beginning , except for the wish 
+sentence, and that 
+
+108
+00:04:26,690 --> 00:04:29,610
+the chocolate, as in all sentences 
+
+109
+00:04:29,770 --> 00:04:31,750
+, i.e. the object, 
+
+110
+00:04:31,750 --> 00:04:34,030
+is always at the end of the sentence. Now 
+let's move on to the 
+
+111
+00:04:34,030 --> 00:04:35,810
+different types of sentences and then 
+
+112
+00:04:35,810 --> 00:04:37,990
+we will also realize why we 
+
+113
+00:04:37,990 --> 00:04:39,030
+
+114
+00:04:39,030 --> 00:04:41,030
+have this different sentence order here. 
+
+115
+00:04:41,030 --> 00:04:42,450
+In German, we 
+
+116
+00:04:42,450 --> 00:04:45,370
+distinguish between a main clause and a 
+subordinate clause. 
+
+117
+00:04:45,850 --> 00:04:47,610
+A main clause 
+
+118
+00:04:47,610 --> 00:04:49,830
+can stand alone, it is sovereign 
+
+119
+00:04:49,830 --> 00:04:51,750
+and independent. We can see this in the 
+
+120
+00:04:51,750 --> 00:04:53,710
+example, Maria goes to her 
+
+121
+00:04:53,710 --> 00:04:55,550
+bedroom. We could even 
+
+122
+00:04:55,550 --> 00:04:58,510
+say Maria goes. Maria bakes, these 
+
+123
+00:04:58,510 --> 00:05:00,450
+are simple sentences, and 
+
+124
+00:05:00,450 --> 00:05:02,490
+we don't even need an object or 
+
+125
+00:05:02,490 --> 00:05:06,930
+, as here, an adverbial in the sense of 
+
+126
+00:05:06,930 --> 00:05:09,530
+a direction. We can 
+
+127
+00:05:09,530 --> 00:05:11,170
+say, okay, we have a 
+
+128
+00:05:11,170 --> 00:05:12,910
+prepositional object here , because we are 
+saying 
+
+129
+00:05:13,010 --> 00:05:15,270
+going into something. But we can 
+
+130
+00:05:15,270 --> 00:05:17,230
+also 
+
+131
+00:05:17,230 --> 00:05:19,350
+
+132
+00:05:19,410 --> 00:05:20,650
+declare the whole thing as an adverbial 
+determination, where is she going. In 
+other words, we 
+
+133
+00:05:20,650 --> 00:05:22,510
+have an accusative of direction in 
+
+134
+00:05:22,510 --> 00:05:23,690
+conjunction with a verb of 
+
+135
+00:05:23,690 --> 00:05:25,110
+movement. 
+
+136
+00:05:25,110 --> 00:05:26,990
+However, we don't want to dwell on that 
+now , because 
+
+137
+00:05:26,990 --> 00:05:28,470
+we want to 
+
+138
+00:05:28,470 --> 00:05:30,270
+concentrate on something else. Namely on 
+the 
+
+139
+00:05:30,270 --> 00:05:31,610
+difference between the main 
+
+140
+00:05:31,610 --> 00:05:32,950
+clause and the subordinate clause. We have 
+
+141
+00:05:32,950 --> 00:05:34,510
+established that the main clause 
+
+142
+00:05:34,510 --> 00:05:36,650
+can stand alone and the subordinate clause 
+
+143
+00:05:36,650 --> 00:05:38,410
+cannot. Why can't it 
+
+144
+00:05:38,410 --> 00:05:40,670
+stand alone? Because it 
+
+145
+00:05:40,670 --> 00:05:42,570
+
+146
+00:05:42,570 --> 00:05:44,450
+
+147
+00:05:44,450 --> 00:05:47,010
+
+148
+00:05:47,010 --> 00:05:50,550
+is subordinated by a so-called 
+conjunction, also called a subjunction, 
+which is a subordination or a conjunction 
+is a connective word. 
+
+149
+00:05:50,630 --> 00:05:51,730
+In other words, Maria goes to her 
+
+150
+00:05:51,730 --> 00:05:54,210
+bedroom because she is tired. The 
+
+151
+00:05:54,290 --> 00:05:56,330
+because she is tired indicates the reason 
+
+152
+00:05:56,330 --> 00:05:58,970
+why she goes. In other words, 
+
+153
+00:05:59,030 --> 00:06:00,410
+we can see that 
+
+154
+00:06:00,410 --> 00:06:02,210
+this is an adverbial clause, 
+
+155
+00:06:02,250 --> 00:06:04,030
+the because, which 
+
+156
+00:06:04,030 --> 00:06:07,270
+refers to the going. However, 
+
+157
+00:06:07,270 --> 00:06:10,150
+we cannot say this sentence on its own, 
+
+158
+00:06:10,150 --> 00:06:12,910
+as we always need the reference to 
+
+159
+00:06:12,910 --> 00:06:15,070
+our main predicate. So 
+
+160
+00:06:15,070 --> 00:06:17,130
+we need the reference to the Geh. 
+
+161
+00:06:17,130 --> 00:06:18,410
+In other words, we cannot say, because 
+
+162
+00:06:18,410 --> 00:06:20,230
+she is tired, because we 
+
+163
+00:06:20,230 --> 00:06:23,070
+have no origin at all. We can say 
+
+164
+00:06:23,070 --> 00:06:25,130
+that Mary walks because she is tired. 
+
+165
+00:06:25,190 --> 00:06:27,370
+We can say that. But here, if 
+
+166
+00:06:27,370 --> 00:06:29,930
+we have not named the predicate 
+
+167
+00:06:30,110 --> 00:06:32,830
+, we have no reference in our 
+
+168
+00:06:32,830 --> 00:06:35,010
+subordinate clause. 
+
+169
+00:06:35,010 --> 00:06:36,270
+In this case, it is an 
+
+170
+00:06:36,270 --> 00:06:38,490
+adverbial clause, or there are 
+
+171
+00:06:38,490 --> 00:06:40,590
+different types of subordinate clauses, 
+for 
+
+172
+00:06:40,590 --> 00:06:42,350
+example relative clauses, where 
+
+173
+00:06:42,350 --> 00:06:44,730
+the subordinate clause does not refer to 
+the 
+
+174
+00:06:44,730 --> 00:06:46,390
+predicate of the sentence, but for 
+
+175
+00:06:46,390 --> 00:06:49,030
+example to a noun such as 
+
+176
+00:06:49,030 --> 00:06:51,090
+bedroom, so Maria goes to the 
+
+177
+00:06:51,090 --> 00:06:54,310
+bedroom, which is cold, or 
+
+178
+00:06:54,310 --> 00:06:57,510
+which is cold, the room, so we have 
+
+179
+00:06:57,510 --> 00:06:59,870
+a connection to the 
+
+180
+00:06:59,870 --> 00:07:01,750
+bedroom here, but even that could 
+
+181
+00:07:01,750 --> 00:07:03,410
+not stand alone without us 
+
+182
+00:07:03,410 --> 00:07:06,790
+knowing that this is a 
+
+183
+00:07:06,790 --> 00:07:10,070
+bedroom. This means that 
+
+184
+00:07:10,150 --> 00:07:12,690
+Maria goes to her bedroom, which 
+
+185
+00:07:12,690 --> 00:07:14,570
+is cold, or Maria goes to her 
+
+186
+00:07:14,570 --> 00:07:16,150
+bedroom because she is tired, 
+
+187
+00:07:16,290 --> 00:07:21,150
+
+188
+00:07:21,150 --> 00:07:22,990
+
+189
+00:07:22,990 --> 00:07:25,210
+always needs a main clause , regardless of 
+what is said in the subordinate clause . 
+
+190
+00:07:25,210 --> 00:07:27,190
+So we have learned that the subordinate 
+clause 
+
+191
+00:07:27,190 --> 00:07:28,770
+can never stand alone because it is 
+
+192
+00:07:28,770 --> 00:07:30,670
+dependent on... words from the 
+
+193
+00:07:30,670 --> 00:07:32,310
+main clause and the main clause can 
+
+194
+00:07:32,310 --> 00:07:33,770
+stand alone because it is not 
+
+195
+00:07:33,770 --> 00:07:36,590
+dependent on other clauses. 
+
+196
+00:07:37,030 --> 00:07:39,150
+We differentiate 
+
+197
+00:07:39,150 --> 00:07:42,370
+between further sentence structures and 
+sentence series, 
+
+198
+00:07:42,370 --> 00:07:45,230
+i.e. sentence arrangements in the big 
+picture 
+
+199
+00:07:45,230 --> 00:07:48,130
+
+200
+00:07:48,130 --> 00:07:49,530
+. Between the sentence series and the 
+
+201
+00:07:49,530 --> 00:07:51,770
+sentence structure, we find that we 
+
+202
+00:07:51,770 --> 00:07:53,150
+
+203
+00:07:53,150 --> 00:07:54,910
+have connected two main clauses with each 
+other on the one hand and 
+
+204
+00:07:54,910 --> 00:07:57,170
+
+205
+00:07:57,170 --> 00:07:58,890
+connected a main clause with a subordinate 
+clause in the sentence structure. Now 
+
+206
+00:07:58,890 --> 00:08:00,510
+we have just established that 
+
+207
+00:08:00,510 --> 00:08:03,350
+a main clause is independent. 
+
+208
+00:08:03,350 --> 00:08:06,130
+This means that the series of sentences 
+
+209
+00:08:06,130 --> 00:08:09,470
+only connects two independent main clauses 
+
+210
+00:08:09,470 --> 00:08:12,250
+. We can see this here in 
+
+211
+00:08:12,250 --> 00:08:13,750
+the example of Maria going into the 
+
+212
+00:08:13,750 --> 00:08:15,890
+bedroom and reading a book. 
+
+213
+00:08:15,890 --> 00:08:17,930
+So we can say 
+
+214
+00:08:18,090 --> 00:08:19,690
+that Maria goes into the bedroom and 
+
+215
+00:08:19,690 --> 00:08:21,350
+we can say that she reads a book. 
+
+216
+00:08:21,490 --> 00:08:23,010
+Or we can say Maria is reading 
+
+217
+00:08:23,010 --> 00:08:25,750
+a book. Of course, in order to avoid 
+always 
+
+218
+00:08:25,750 --> 00:08:27,410
+and constantly 
+
+219
+00:08:27,410 --> 00:08:29,390
+repeating the subject, in this case Maria, 
+
+220
+00:08:29,390 --> 00:08:31,250
+or always 
+
+221
+00:08:31,250 --> 00:08:33,230
+finding a different meaning for it , Maria 
+goes into the 
+
+222
+00:08:33,230 --> 00:08:35,330
+bedroom, the woman reads a 
+
+223
+00:08:35,330 --> 00:08:37,310
+book or the girl reads a book 
+
+224
+00:08:37,310 --> 00:08:39,670
+or the little girl, the boy reads a 
+
+225
+00:08:39,670 --> 00:08:41,430
+book, i.e. always 
+
+226
+00:08:41,430 --> 00:08:43,610
+finding a different word for our subject, 
+
+227
+00:08:43,770 --> 00:08:45,750
+we have the option of using 
+
+228
+00:08:45,750 --> 00:08:47,270
+a link here, the 
+
+229
+00:08:47,270 --> 00:08:50,830
+conjunction and 
+
+230
+00:08:50,830 --> 00:08:52,370
+to change these two main clauses with each 
+other. 
+
+231
+00:08:52,390 --> 00:08:56,510
+link and thus the second time, 
+
+232
+00:08:56,550 --> 00:08:59,650
+i.e. the mention of the subject for the 
+
+233
+00:08:59,650 --> 00:09:04,050
+second time, i.e. again, in order to avoid 
+
+234
+00:09:04,050 --> 00:09:06,330
+
+235
+00:09:06,330 --> 00:09:08,230
+mentioning the subject a second time. In 
+other words, we 
+
+236
+00:09:08,230 --> 00:09:09,730
+can say Maria goes into the 
+
+237
+00:09:09,730 --> 00:09:11,570
+bedroom and reads a book. We 
+
+238
+00:09:11,570 --> 00:09:13,230
+don't have to mention again that 
+
+239
+00:09:13,230 --> 00:09:15,030
+this is Maria. In this way, 
+
+240
+00:09:15,030 --> 00:09:18,110
+we can combine several main clauses that 
+
+241
+00:09:18,110 --> 00:09:21,610
+have the same subject or 
+
+242
+00:09:21,610 --> 00:09:25,190
+that basically 
+
+243
+00:09:25,190 --> 00:09:28,190
+have the same reference word in the 
+sentence, as in this case 
+
+244
+00:09:28,190 --> 00:09:30,170
+the subject, we have 
+
+245
+00:09:30,170 --> 00:09:32,770
+the option of using the AND 
+
+246
+00:09:32,770 --> 00:09:35,290
+to connect these two main clauses 
+
+247
+00:09:35,290 --> 00:09:36,850
+and do not have to 
+
+248
+00:09:36,850 --> 00:09:39,930
+mention the subject again. Other 
+subordinating 
+
+249
+00:09:39,930 --> 00:09:42,570
+conjunctions are aber, oder, sowie, 
+
+250
+00:09:42,910 --> 00:09:48,570
+auch noch und liest auch noch ein 
+
+251
+00:09:48,570 --> 00:09:52,230
+Buch, you could say. So 
+
+252
+00:09:52,230 --> 00:09:56,670
+here we have and as the most important and 
+
+253
+00:09:56,670 --> 00:10:00,110
+as the best-known link. 
+
+254
+00:10:00,110 --> 00:10:01,990
+It's different in the sentence structure. 
+There we have 
+
+255
+00:10:01,990 --> 00:10:03,310
+Maria goes to the bedroom 
+
+256
+00:10:03,370 --> 00:10:04,950
+because she is tired. Here we have 
+
+257
+00:10:04,950 --> 00:10:06,850
+a subordinating conjunction, 
+
+258
+00:10:06,850 --> 00:10:09,490
+a so-called subjunction. 
+
+259
+00:10:09,490 --> 00:10:13,630
+We have da, also da, weil, sodass, 
+
+260
+00:10:13,650 --> 00:10:19,250
+obwohl, jedoch and so on. Yes, 
+
+261
+00:10:19,410 --> 00:10:22,930
+but also works. So we have 
+
+262
+00:10:22,930 --> 00:10:25,650
+a dependency here. The subordinate clause 
+is 
+
+263
+00:10:25,650 --> 00:10:27,590
+dependent and the main clause is 
+
+264
+00:10:27,590 --> 00:10:30,590
+independent. However, we can 
+
+265
+00:10:30,590 --> 00:10:32,430
+construct a sentence structure by 
+
+266
+00:10:32,430 --> 00:10:33,790
+
+267
+00:10:33,790 --> 00:10:35,430
+naming a main clause with a subordinate 
+clause. We can 
+
+268
+00:10:35,430 --> 00:10:37,110
+also add several 
+
+269
+00:10:37,110 --> 00:10:39,830
+subordinate clauses. So we can 
+
+270
+00:10:39,830 --> 00:10:41,010
+
+271
+00:10:41,010 --> 00:10:43,710
+combine several subordinate clauses in a 
+sentence structure , just as we can 
+
+272
+00:10:43,710 --> 00:10:45,410
+
+273
+00:10:45,410 --> 00:10:47,890
+combine several main clauses in a sentence 
+series. In other words, 
+
+274
+00:10:47,890 --> 00:10:49,730
+it is 
+
+275
+00:10:49,730 --> 00:10:51,590
+important for us to understand that 
+
+276
+00:10:51,590 --> 00:10:54,490
+a series of sentences consists of several 
+
+277
+00:10:54,490 --> 00:10:55,890
+main clauses and a 
+
+278
+00:10:55,890 --> 00:10:58,070
+sentence structure consists of a main 
+clause and 
+
+279
+00:10:58,070 --> 00:10:59,810
+subordinate clauses or a 
+
+280
+00:10:59,810 --> 00:11:01,990
+subordinate clause. We must 
+
+281
+00:11:01,990 --> 00:11:04,450
+always pay attention to the conjunction. 
+
+282
+00:11:04,490 --> 00:11:05,830
+We differentiate 
+
+283
+00:11:05,830 --> 00:11:07,830
+between subordinating 
+
+284
+00:11:07,830 --> 00:11:10,050
+
+285
+00:11:10,050 --> 00:11:13,710
+conjunctions and subordinating 
+conjunctions. Now let's move on to the 
+
+286
+00:11:13,710 --> 00:11:15,870
+clauses. We have already 
+
+287
+00:11:15,870 --> 00:11:17,350
+talked about this at the beginning and 
+have 
+
+288
+00:11:17,350 --> 00:11:19,370
+already 
+
+289
+00:11:19,370 --> 00:11:21,210
+analyzed the individual sentence elements 
+and there we 
+
+290
+00:11:21,210 --> 00:11:23,610
+came across a few technical terms, namely 
+
+291
+00:11:23,610 --> 00:11:28,810
+predicate, subject, We see them 
+
+292
+00:11:28,810 --> 00:11:32,110
+arranged here in this way because they 
+
+293
+00:11:32,110 --> 00:11:34,050
+are in the general sentence order. 
+
+294
+00:11:34,050 --> 00:11:35,790
+The general sentence order of the German 
+
+295
+00:11:35,790 --> 00:11:38,410
+sentence is subject, predicate, 
+
+296
+00:11:38,570 --> 00:11:40,650
+object and adverbial clause. 
+
+297
+00:11:40,830 --> 00:11:42,970
+We need to know that the 
+
+298
+00:11:42,970 --> 00:11:45,690
+adverbial clause can also follow 
+
+299
+00:11:45,690 --> 00:11:47,770
+the predicate and the object 
+
+300
+00:11:47,770 --> 00:11:49,730
+can come at the end of the sentence. What 
+
+301
+00:11:49,730 --> 00:11:51,810
+is important for us, however, is 
+
+302
+00:11:51,810 --> 00:11:54,230
+this core. That means subject, 
+
+303
+00:11:54,250 --> 00:11:58,110
+predicate, object. We have 
+
+304
+00:11:58,110 --> 00:12:00,470
+learned that the dependencies of 
+
+305
+00:12:00,470 --> 00:12:02,830
+subordinate clauses 
+
+306
+00:12:02,830 --> 00:12:04,570
+
+307
+00:12:04,570 --> 00:12:06,210
+are either with the subject or object, as 
+in relative clauses, for example, or 
+
+308
+00:12:06,210 --> 00:12:10,050
+with the predicate , as in adverbial 
+clauses. 
+
+309
+00:12:10,130 --> 00:12:11,370
+This means that this is where 
+
+310
+00:12:11,370 --> 00:12:13,890
+subordinate clauses are linked. 
+
+311
+00:12:14,070 --> 00:12:15,930
+The subject is the 
+
+312
+00:12:15,930 --> 00:12:18,590
+subject of the sentence, i.e. the doer in 
+the 
+
+313
+00:12:18,590 --> 00:12:20,730
+sentence. This is always 
+
+314
+00:12:20,730 --> 00:12:23,350
+stated in the nominative case . means who 
+or what. The 
+
+315
+00:12:23,350 --> 00:12:26,150
+predicate is the sentence statement or the 
+
+316
+00:12:26,150 --> 00:12:28,650
+action, comes from the part of speech, 
+
+317
+00:12:28,830 --> 00:12:31,110
+so it is a 
+
+318
+00:12:31,110 --> 00:12:33,010
+verb . I have already said that. 
+
+319
+00:12:33,090 --> 00:12:35,250
+We have learned that a 
+
+320
+00:12:35,250 --> 00:12:37,410
+predicate 
+
+321
+00:12:37,410 --> 00:12:40,150
+
+322
+00:12:40,150 --> 00:12:42,570
+
+323
+00:12:42,570 --> 00:12:46,550
+is an inflected verb, i.e. a verb that is 
+adapted to a subject and a sentence. So, 
+an object is a 
+
+324
+00:12:46,550 --> 00:12:48,510
+so-called sentence complement. That is, 
+
+325
+00:12:48,650 --> 00:12:53,330
+so, if we like, either a 
+
+326
+00:12:53,330 --> 00:12:55,910
+sentence complement or an acted upon, 
+
+327
+00:12:55,970 --> 00:12:58,690
+an originator and an addressee. That 
+
+328
+00:12:58,690 --> 00:13:00,310
+is, someone to whom the action applies. 
+
+329
+00:13:00,530 --> 00:13:04,830
+For example, if I say, I'll help 
+
+330
+00:13:04,830 --> 00:13:07,130
+you, then the addressee is the 
+
+331
+00:13:07,130 --> 00:13:09,290
+dative object, in this case 
+
+332
+00:13:09,290 --> 00:13:11,430
+you. This means that we have 
+
+333
+00:13:11,430 --> 00:13:13,510
+an addressee here. Or we have a 
+
+334
+00:13:13,510 --> 00:13:14,910
+traded object, for example, if I 
+
+335
+00:13:14,910 --> 00:13:17,070
+say I bake a cake, then 
+
+336
+00:13:17,070 --> 00:13:18,810
+the cake is the one 
+
+337
+00:13:18,810 --> 00:13:21,070
+being baked . So we have different 
+
+338
+00:13:21,070 --> 00:13:23,290
+types of object, and we differentiate 
+
+339
+00:13:23,290 --> 00:13:25,890
+between the genitive, the dative, the 
+
+340
+00:13:25,890 --> 00:13:27,770
+accusative object and the 
+
+341
+00:13:27,770 --> 00:13:29,910
+prepositional object in combination with 
+
+342
+00:13:29,910 --> 00:13:32,090
+a preposition. We remember 
+
+343
+00:13:32,090 --> 00:13:33,470
+the example of 
+
+344
+00:13:33,470 --> 00:13:37,070
+going into the bedroom. We have 
+
+345
+00:13:37,070 --> 00:13:39,310
+different and here we need to 
+
+346
+00:13:39,310 --> 00:13:41,350
+briefly mention that these 
+
+347
+00:13:41,350 --> 00:13:44,430
+objects result from the predicate. 
+
+348
+00:13:44,430 --> 00:13:46,010
+This means that in most cases 
+
+349
+00:13:46,010 --> 00:13:47,790
+it is an accusative. We have 
+
+350
+00:13:47,790 --> 00:13:49,990
+just 
+
+351
+00:13:49,990 --> 00:13:52,150
+seen an example with, for example, helfen 
+with the dative case. 
+
+352
+00:13:52,150 --> 00:13:53,950
+However, we can also use a 
+
+353
+00:13:53,950 --> 00:13:55,790
+genitive object, such 
+
+354
+00:13:55,790 --> 00:13:58,690
+as ich erinnere mich der 
+
+355
+00:13:58,690 --> 00:14:01,950
+schönen Zeit. Or I am enjoying 
+
+356
+00:14:01,950 --> 00:14:04,290
+the best of health. Here we need 
+
+357
+00:14:04,290 --> 00:14:06,850
+a genitive object. An adverbial 
+
+358
+00:14:06,850 --> 00:14:08,130
+clause is a 
+
+359
+00:14:08,130 --> 00:14:10,390
+description of circumstances. This means 
+that it 
+
+360
+00:14:10,390 --> 00:14:13,950
+adds further things. 
+
+361
+00:14:13,950 --> 00:14:15,730
+We'll take a closer look at this in a 
+moment 
+
+362
+00:14:15,730 --> 00:14:17,430
+. So far, we'll 
+
+363
+00:14:17,430 --> 00:14:20,290
+just leave it as a description of 
+circumstances 
+
+364
+00:14:20,290 --> 00:14:23,250
+and note that 
+
+365
+00:14:23,250 --> 00:14:24,970
+
+366
+00:14:24,970 --> 00:14:27,070
+the adverbial clause 
+
+367
+00:14:27,070 --> 00:14:29,230
+
+368
+00:14:29,230 --> 00:14:32,230
+can also be mentioned as an independent 
+sentence structure alongside the subject, 
+the predicate and the object. However, it 
+should be 
+
+369
+00:14:32,230 --> 00:14:34,010
+noted that the adverbial clause 
+
+370
+00:14:34,010 --> 00:14:36,150
+is an addition. This means that it is 
+
+371
+00:14:36,150 --> 00:14:39,030
+not necessary in the sentence. While 
+
+372
+00:14:39,030 --> 00:14:41,190
+the subject, predicate and object 
+
+373
+00:14:41,190 --> 00:14:43,450
+
+374
+00:14:43,450 --> 00:14:44,690
+
+375
+00:14:44,690 --> 00:14:47,210
+
+376
+00:14:47,210 --> 00:14:50,190
+are necessary for the sentence, depending 
+on whether the verb needs an object , 
+which is called transitivity . Here is an 
+
+377
+00:14:50,190 --> 00:14:52,310
+example sentence. Subject, predicate, 
+
+378
+00:14:52,390 --> 00:14:54,990
+object, then prepositional, genitive, 
+
+379
+00:14:54,990 --> 00:14:57,130
+dative, accusative, object. In the first 
+
+380
+00:14:57,130 --> 00:14:58,170
+example, we find a 
+
+381
+00:14:58,170 --> 00:15:00,390
+prepositional object. The 
+
+382
+00:15:00,390 --> 00:15:02,790
+neighbor 's son is waiting for the 
+messenger. Here 
+
+383
+00:15:02,790 --> 00:15:04,770
+we have the neighbor's son. Here 
+
+384
+00:15:04,770 --> 00:15:06,770
+we come to why we 
+
+385
+00:15:06,770 --> 00:15:08,810
+
+386
+00:15:08,810 --> 00:15:10,250
+have only talked about these four sentence 
+clues . Of course we have 
+
+387
+00:15:10,250 --> 00:15:12,090
+the neighbor here. This is a 
+
+388
+00:15:12,090 --> 00:15:13,610
+so-called genitive object. 
+
+389
+00:15:13,990 --> 00:15:15,210
+Sorry, it's a 
+
+390
+00:15:15,210 --> 00:15:17,630
+so-called genitive attribute. But 
+
+391
+00:15:17,630 --> 00:15:19,730
+this genitive attribute, because 
+
+392
+00:15:19,730 --> 00:15:21,070
+it's an attribute 
+
+393
+00:15:23,870 --> 00:15:25,850
+, it counts or becomes part of the 
+
+394
+00:15:25,850 --> 00:15:27,870
+subject. In other words, we note 
+
+395
+00:15:27,910 --> 00:15:29,030
+that a subject 
+
+396
+00:15:29,030 --> 00:15:31,270
+
+397
+00:15:31,270 --> 00:15:33,150
+
+398
+00:15:33,150 --> 00:15:35,650
+
+399
+00:15:35,650 --> 00:15:37,450
+can not only necessarily consist of a noun 
+and an article or a pronoun or a 
+possessive pronoun , but that it can also 
+
+400
+00:15:37,450 --> 00:15:39,410
+be enriched with attributes. 
+
+401
+00:15:39,410 --> 00:15:41,450
+So here we have the 
+
+402
+00:15:41,450 --> 00:15:44,030
+neighbor 's son as the object, waits as 
+the 
+
+403
+00:15:44,030 --> 00:15:46,510
+predicate, for the letter carrier as the 
+
+404
+00:15:46,510 --> 00:15:50,130
+prepositional object. Then we 
+
+405
+00:15:50,130 --> 00:15:53,050
+now have an accusative object. Er möchte, 
+
+406
+00:15:53,190 --> 00:15:55,890
+yes here subject, first part of the 
+
+407
+00:15:55,890 --> 00:15:58,470
+predicate, so here primarily 
+
+408
+00:15:58,470 --> 00:16:01,210
+a modality, like, er möchte 
+
+409
+00:16:01,210 --> 00:16:03,270
+ihm ein Weihnachtsgeschenk 
+
+410
+00:16:03,270 --> 00:16:06,110
+überreichen. In other words, we have 
+
+411
+00:16:06,110 --> 00:16:09,190
+ihm as a dative object here. This 
+
+412
+00:16:09,190 --> 00:16:11,890
+is also called an indirect object, because 
+we 
+
+413
+00:16:11,890 --> 00:16:13,330
+could also say he would like to 
+
+414
+00:16:13,330 --> 00:16:15,250
+give him a Christmas present, but 
+
+415
+00:16:15,250 --> 00:16:17,310
+
+416
+00:16:17,310 --> 00:16:18,910
+we couldn 't say he would like to give him 
+a present. This means that we 
+
+417
+00:16:18,910 --> 00:16:21,030
+also have to 
+
+418
+00:16:21,030 --> 00:16:22,870
+differentiate between indirect and direct 
+objects. 
+
+419
+00:16:22,990 --> 00:16:24,710
+We simply 
+
+420
+00:16:24,710 --> 00:16:27,970
+determine which of these two objects 
+
+421
+00:16:27,970 --> 00:16:30,150
+is necessary and which is not. The 
+
+422
+00:16:30,150 --> 00:16:32,130
+indirect object is not necessary, the 
+
+423
+00:16:32,130 --> 00:16:34,030
+direct object is necessary. 
+
+424
+00:16:34,030 --> 00:16:35,010
+So we realize that a 
+
+425
+00:16:35,010 --> 00:16:36,810
+Christmas present is 
+
+426
+00:16:36,810 --> 00:16:40,610
+necessary as an accusative and that is in 
+
+427
+00:16:40,610 --> 00:16:43,490
+second place if we 
+
+428
+00:16:43,490 --> 00:16:45,310
+have two objects , such as the indirect 
+and 
+
+429
+00:16:45,310 --> 00:16:47,050
+direct object here , i.e. dative and 
+
+430
+00:16:47,050 --> 00:16:48,850
+accusative. As a 
+
+431
+00:16:48,850 --> 00:16:50,850
+rule of thumb , we can also remember that 
+in 
+
+432
+00:16:50,850 --> 00:16:52,970
+most cases, when we have a dative 
+
+433
+00:16:52,970 --> 00:16:54,650
+and an accusative, it 
+
+434
+00:16:54,650 --> 00:16:56,370
+always depends on how 
+
+435
+00:16:56,370 --> 00:16:58,090
+the transitivity, I 
+
+436
+00:16:58,090 --> 00:16:59,430
+just explained that 
+
+437
+00:16:59,430 --> 00:17:01,730
+transitivity is about 
+
+438
+00:17:01,730 --> 00:17:05,210
+which case, i.e. which object 
+
+439
+00:17:05,210 --> 00:17:08,910
+the individual verb stands with . The 
+
+440
+00:17:08,910 --> 00:17:10,730
+accusative object, the direct 
+
+441
+00:17:11,530 --> 00:17:13,170
+object and the indirect object 
+
+442
+00:17:13,170 --> 00:17:15,450
+are usually the dative case. Now let's 
+
+443
+00:17:15,450 --> 00:17:17,650
+take a look at a genitive object. Here 
+
+444
+00:17:17,650 --> 00:17:18,730
+we already had the example 
+
+445
+00:17:18,790 --> 00:17:20,370
+I just gave. 
+
+446
+00:17:20,370 --> 00:17:22,290
+The letter carrier is in good 
+
+447
+00:17:22,290 --> 00:17:24,790
+health. So we can see 
+
+448
+00:17:24,970 --> 00:17:27,490
+that sentence elements 
+
+449
+00:17:27,490 --> 00:17:28,970
+can be combined in different ways , i.e. 
+they 
+
+450
+00:17:28,970 --> 00:17:30,530
+can be linked together. 
+
+451
+00:17:30,670 --> 00:17:32,310
+We have also 
+
+452
+00:17:32,310 --> 00:17:34,150
+learned something new, and that is that we 
+have 
+
+453
+00:17:34,150 --> 00:17:36,430
+discovered that 
+
+454
+00:17:36,430 --> 00:17:38,210
+the neighbor, which we will come to 
+
+455
+00:17:38,210 --> 00:17:39,630
+in a moment, 
+
+456
+00:17:39,630 --> 00:17:41,690
+is an attribute, which I just wanted to 
+
+457
+00:17:41,690 --> 00:17:43,170
+clarify here in the example, 
+
+458
+00:17:43,350 --> 00:17:45,310
+that this attribute, namely the 
+
+459
+00:17:45,310 --> 00:17:48,650
+genitive attribute, 
+
+460
+00:17:48,650 --> 00:17:49,930
+becomes part of the subject in this case 
+because it 
+
+461
+00:17:49,930 --> 00:17:53,030
+is attached to the subject. 
+
+462
+00:17:55,440 --> 00:17:56,720
+This means that we also have to 
+
+463
+00:17:56,720 --> 00:17:57,860
+differentiate 
+
+464
+00:17:57,860 --> 00:18:00,500
+between there are attributes on the one 
+hand and 
+
+465
+00:18:00,500 --> 00:18:02,480
+objects on the other. This means that the 
+
+466
+00:18:02,480 --> 00:18:04,360
+genitive can be both. 
+
+467
+00:18:04,600 --> 00:18:07,600
+Now let's move on to the adverbial 
+
+468
+00:18:07,600 --> 00:18:08,780
+clauses that we have just discussed 
+
+469
+00:18:08,780 --> 00:18:10,340
+. Adverbial 
+
+470
+00:18:10,340 --> 00:18:11,640
+determinations, as we 
+
+471
+00:18:11,640 --> 00:18:14,260
+have seen , are several descriptions 
+
+472
+00:18:14,260 --> 00:18:16,460
+of the verb, i.e. the action. This 
+
+473
+00:18:16,460 --> 00:18:18,360
+means that we have a reference to 
+
+474
+00:18:18,360 --> 00:18:21,020
+our predicate. 
+
+475
+00:18:21,020 --> 00:18:23,760
+We distinguish between four categories of 
+adverbial 
+
+476
+00:18:23,760 --> 00:18:25,860
+determination of time, place, 
+
+477
+00:18:25,860 --> 00:18:28,200
+manner and reason. That 
+
+478
+00:18:28,200 --> 00:18:29,680
+is, here we are talking about 
+
+479
+00:18:29,680 --> 00:18:34,740
+temporal, local, modal and causal. 
+
+480
+00:18:35,220 --> 00:18:37,600
+So, we have individual signal words. 
+
+481
+00:18:37,600 --> 00:18:39,160
+For example, we see time. These 
+
+482
+00:18:39,160 --> 00:18:41,280
+can be things like today, last 
+
+483
+00:18:41,280 --> 00:18:44,280
+night, at 10 o'clock in the morning, in 
+the morning. 
+
+484
+00:18:44,280 --> 00:18:50,600
+That is, in 2014, which means that 
+
+485
+00:18:50,620 --> 00:18:51,800
+we have different 
+
+486
+00:18:51,800 --> 00:18:53,460
+time specifications here. These are 
+
+487
+00:18:53,460 --> 00:18:55,500
+adverbial determiners. We can 
+
+488
+00:18:55,500 --> 00:18:57,760
+form sentences by 
+
+489
+00:18:57,760 --> 00:18:59,420
+omitting these time specifications. 
+
+490
+00:18:59,460 --> 00:19:00,980
+However, we can 
+
+491
+00:19:00,980 --> 00:19:04,120
+also add time specifications . 
+
+492
+00:19:04,120 --> 00:19:07,520
+On the one hand, they can, but to 
+
+493
+00:19:07,540 --> 00:19:09,420
+put it simply , they 
+
+494
+00:19:09,420 --> 00:19:11,520
+are usually 
+
+495
+00:19:11,520 --> 00:19:12,880
+
+496
+00:19:12,880 --> 00:19:15,660
+
+497
+00:19:15,660 --> 00:19:17,960
+formed, as we see here with the adverbial 
+determination of time , with an article 
+and a noun, yes, or 
+
+498
+00:19:17,960 --> 00:19:20,240
+also with a preposition as here, 
+
+499
+00:19:20,320 --> 00:19:22,840
+i.e. preposition, article and 
+
+500
+00:19:22,840 --> 00:19:24,100
+noun. Here we 
+
+501
+00:19:24,100 --> 00:19:26,060
+also have an adjective, i.e. a 
+
+502
+00:19:26,060 --> 00:19:29,500
+worse attribute. In addition to the time, 
+
+503
+00:19:29,500 --> 00:19:31,420
+there is also the place, the manner and 
+
+504
+00:19:31,420 --> 00:19:33,000
+the reason. Here is 
+
+505
+00:19:33,000 --> 00:19:34,580
+an example of the reason. 
+
+506
+00:19:34,800 --> 00:19:37,420
+I was 
+
+507
+00:19:37,420 --> 00:19:40,240
+grounded for a week because of the bad 
+grade. We 
+
+508
+00:19:40,240 --> 00:19:41,660
+reduce the sentence to the 
+
+509
+00:19:41,660 --> 00:19:45,240
+essential sentence elements. I was 
+
+510
+00:19:45,240 --> 00:19:47,720
+grounded. We realize that 
+
+511
+00:19:47,720 --> 00:19:49,680
+adverbial determination changes 
+
+512
+00:19:49,680 --> 00:19:50,980
+the sentence structure. While we 
+
+513
+00:19:50,980 --> 00:19:52,520
+normally 
+
+514
+00:19:52,580 --> 00:19:54,280
+have subject, predicate and object, we can 
+
+515
+00:19:54,280 --> 00:19:57,180
+
+516
+00:19:57,180 --> 00:19:59,640
+
+517
+00:19:59,640 --> 00:20:01,620
+put the adverbial clause at the beginning 
+, the predicate is always in 
+
+518
+00:20:01,620 --> 00:20:03,560
+second place, if we 
+
+519
+00:20:03,560 --> 00:20:05,660
+reverse this , then the subject must be in 
+
+520
+00:20:05,660 --> 00:20:07,520
+third place and then there is 
+
+521
+00:20:07,520 --> 00:20:11,180
+another adverbial clause 
+
+522
+00:20:11,180 --> 00:20:13,260
+and then at the end, who or 
+
+523
+00:20:13,260 --> 00:20:16,160
+what was I 
+
+524
+00:20:16,160 --> 00:20:17,520
+grounded, that is, 
+
+525
+00:20:17,520 --> 00:20:19,360
+the accusative object, that is, the 
+
+526
+00:20:19,360 --> 00:20:21,980
+direct object is usually always 
+
+527
+00:20:21,980 --> 00:20:26,560
+at the end of the sentence. So, 
+
+528
+00:20:26,560 --> 00:20:28,400
+of course , we can also say, 
+
+529
+00:20:28,400 --> 00:20:30,200
+I was 
+
+530
+00:20:30,200 --> 00:20:31,980
+grounded for a week because of the bad 
+grade, but 
+
+531
+00:20:31,980 --> 00:20:35,000
+then we 
+
+532
+00:20:35,000 --> 00:20:36,620
+go by linguistic feeling. 
+
+533
+00:20:36,620 --> 00:20:38,820
+However, we can remember that 
+
+534
+00:20:38,820 --> 00:20:41,480
+, as a rule , we first 
+
+535
+00:20:41,660 --> 00:20:46,880
+
+536
+00:20:46,880 --> 00:20:49,800
+have the time, then the reason, then the 
+manner and then the place. If 
+
+537
+00:20:49,800 --> 00:20:51,620
+we 
+
+538
+00:20:51,620 --> 00:20:53,360
+want to string together a lot of adverbial 
+clauses 
+
+539
+00:20:53,360 --> 00:20:56,120
+, we can memorize them in this 
+
+540
+00:20:56,120 --> 00:20:58,500
+order. Now let's move on to 
+
+541
+00:20:58,500 --> 00:21:00,040
+the attributes. We have just 
+
+542
+00:21:00,040 --> 00:21:01,700
+learned about one, 
+
+543
+00:21:01,700 --> 00:21:04,020
+the genitive attribute, and we have 
+
+544
+00:21:04,020 --> 00:21:06,220
+just 
+
+545
+00:21:06,220 --> 00:21:08,340
+learned about an adjective , which is also 
+an 
+
+546
+00:21:08,340 --> 00:21:10,240
+attribute. An attribute 
+
+547
+00:21:10,240 --> 00:21:12,340
+is a more detailed description and 
+
+548
+00:21:12,340 --> 00:21:14,020
+we have just learned that 
+
+549
+00:21:14,020 --> 00:21:16,460
+it becomes part of the clause. Let's 
+
+550
+00:21:16,460 --> 00:21:17,560
+look at two 
+
+551
+00:21:17,560 --> 00:21:19,820
+clarifying examples again . The 
+
+552
+00:21:19,820 --> 00:21:22,140
+chirping bird is sitting in the tree 
+
+553
+00:21:22,140 --> 00:21:24,320
+or my neighbor's dog 
+
+554
+00:21:24,320 --> 00:21:26,580
+is always barking loudly. Here it is the 
+case that 
+
+555
+00:21:26,580 --> 00:21:29,520
+Zwitschern consists of Vogel, which 
+
+556
+00:21:29,520 --> 00:21:31,480
+means that here we have the subject der 
+
+557
+00:21:31,480 --> 00:21:34,380
+zwitschernde Vogel and here we have 
+
+558
+00:21:34,380 --> 00:21:38,240
+a genitive object on Hund. 
+
+559
+00:21:38,240 --> 00:21:39,820
+So let's see what the 
+
+560
+00:21:39,820 --> 00:21:42,260
+difference is. Attributes can We 
+
+561
+00:21:42,260 --> 00:21:43,560
+can 
+
+562
+00:21:43,560 --> 00:21:45,700
+consist of adjectives on the one hand. 
+Adjectives are separate 
+
+563
+00:21:45,700 --> 00:21:48,360
+word types that 
+
+564
+00:21:48,360 --> 00:21:50,420
+add properties to nouns. Or we 
+
+565
+00:21:50,420 --> 00:21:52,280
+can use the genitive case, 
+
+566
+00:21:52,280 --> 00:21:53,980
+mostly here for example, so like 
+
+567
+00:21:53,980 --> 00:21:55,120
+here, for example, through a 
+
+568
+00:21:55,120 --> 00:21:58,420
+possessive pronoun. or we could 
+
+569
+00:21:58,420 --> 00:22:00,160
+also say the neighbor's dog, 
+
+570
+00:22:00,180 --> 00:22:02,240
+so through an article in the genitive case 
+
+571
+00:22:02,240 --> 00:22:04,520
+and then another noun, 
+
+572
+00:22:04,520 --> 00:22:07,120
+attributes, 
+
+573
+00:22:11,660 --> 00:22:17,620
+either adjectives as 
+
+574
+00:22:17,620 --> 00:22:20,400
+well as whole nouns and articles or 
+
+575
+00:22:20,400 --> 00:22:21,920
+possessive pronouns. We can also 
+
+576
+00:22:21,920 --> 00:22:23,860
+form whole relative clauses, as we 
+
+577
+00:22:23,860 --> 00:22:26,020
+have just seen in the introduction 
+
+578
+00:22:26,020 --> 00:22:27,480
+. Strictly 
+
+579
+00:22:27,480 --> 00:22:29,760
+speaking, of course, these are all 
+attributes. They 
+
+580
+00:22:29,760 --> 00:22:31,840
+are subordinate clauses, of course, but 
+
+581
+00:22:31,840 --> 00:22:34,220
+these subordinate clauses 
+
+582
+00:22:34,220 --> 00:22:36,280
+are to be treated as attributes because 
+they are attached to 
+
+583
+00:22:36,280 --> 00:22:38,060
+a noun. We can 
+
+584
+00:22:38,060 --> 00:22:39,740
+say, the dog that 
+
+585
+00:22:39,740 --> 00:22:41,820
+belongs to my neighbor always barks 
+loudly. 
+
+586
+00:22:41,960 --> 00:22:43,520
+That means that my neighbor's dog is 
+
+587
+00:22:43,520 --> 00:22:46,020
+an attributive dependent clause, 
+
+588
+00:22:46,100 --> 00:22:48,040
+i.e. a relative clause, and refers 
+
+589
+00:22:48,040 --> 00:22:49,960
+to dog here. I think that's 
+
+590
+00:22:49,960 --> 00:22:53,100
+clear so far. Now let's move on to 
+
+591
+00:22:53,300 --> 00:22:55,240
+how we can find out which 
+
+592
+00:22:55,240 --> 00:22:56,860
+clause it is. 
+
+593
+00:22:56,860 --> 00:22:59,280
+Let's take a look at different 
+
+594
+00:22:59,280 --> 00:23:00,880
+methods. Let's start with the 
+
+595
+00:23:00,880 --> 00:23:03,400
+interrogative test. With the interrogative 
+test 
+
+596
+00:23:03,400 --> 00:23:05,680
+, we 
+
+597
+00:23:05,680 --> 00:23:08,040
+
+598
+00:23:08,040 --> 00:23:10,740
+can basically ask about all sentence 
+elements and all individual functions. 
+After the 
+
+599
+00:23:10,740 --> 00:23:12,660
+subject, we usually ask who or 
+
+600
+00:23:12,660 --> 00:23:16,900
+what. We ask about the predicate 
+
+601
+00:23:17,020 --> 00:23:19,300
+, i.e. the verb was, was, was tun Sie, 
+
+602
+00:23:19,440 --> 00:23:22,200
+was. geschieht, was wird getan. After 
+
+603
+00:23:22,200 --> 00:23:25,060
+the dative we always ask whom. 
+
+604
+00:23:25,060 --> 00:23:27,200
+For example, here for the birthday we ask 
+
+605
+00:23:27,200 --> 00:23:29,300
+with wozu. That means we ask 
+
+606
+00:23:29,300 --> 00:23:30,340
+for the purpose. 
+
+607
+00:23:34,720 --> 00:23:37,140
+So the accusative after whom or what. 
+
+608
+00:23:37,220 --> 00:23:41,320
+So we can ask who or what is 
+
+609
+00:23:41,320 --> 00:23:49,500
+doing something, to whom, what for, whom 
+or what. 
+
+610
+00:23:49,640 --> 00:23:51,380
+Of course, that doesn't even 
+
+611
+00:23:51,380 --> 00:23:52,580
+make sense. That's why we have to 
+
+612
+00:23:52,580 --> 00:23:54,560
+ask individual questions and 
+
+613
+00:23:54,560 --> 00:23:57,180
+pick up the remaining parts of the 
+sentence. In other words, who 
+
+614
+00:23:57,180 --> 00:24:02,440
+or what gave her 
+
+615
+00:24:02,440 --> 00:24:04,540
+a huge bouquet of flowers for her birthday 
+? Her 
+
+616
+00:24:04,540 --> 00:24:06,380
+colleagues gave her a 
+
+617
+00:24:06,380 --> 00:24:08,660
+huge bouquet of flowers for her birthday . 
+Who 
+
+618
+00:24:08,660 --> 00:24:11,320
+did her colleagues give her 
+
+619
+00:24:11,320 --> 00:24:12,920
+a huge 
+
+620
+00:24:12,920 --> 00:24:15,320
+bouquet of flowers for her birthday ? Why 
+did her colleagues give her 
+
+621
+00:24:15,320 --> 00:24:17,620
+a huge bouquet of flowers 
+
+622
+00:24:17,620 --> 00:24:22,480
+for her birthday? Who did her colleagues 
+give 
+
+623
+00:24:22,480 --> 00:24:24,760
+
+624
+00:24:24,760 --> 00:24:27,140
+her a huge bouquet of flowers for her ? In 
+other words, we see 
+
+625
+00:24:27,360 --> 00:24:29,940
+that we 
+
+626
+00:24:29,940 --> 00:24:31,740
+
+627
+00:24:31,740 --> 00:24:33,600
+can use the interrogative test to ask 
+about the individual sentence elements. We 
+can also 
+
+628
+00:24:33,600 --> 00:24:35,520
+
+629
+00:24:35,520 --> 00:24:37,840
+use the transposition test. In doing so, 
+we swap the 
+
+630
+00:24:37,840 --> 00:24:39,500
+individual sentence elements and we 
+
+631
+00:24:39,500 --> 00:24:42,580
+realize how we 
+
+632
+00:24:42,580 --> 00:24:44,940
+have to construct the sentence and where 
+the individual 
+
+633
+00:24:44,940 --> 00:24:47,500
+sentence elements are located. In doing 
+so, we have 
+
+634
+00:24:47,500 --> 00:24:48,900
+established or always 
+
+635
+00:24:48,900 --> 00:24:50,900
+establish that the predicate always 
+
+636
+00:24:50,900 --> 00:24:53,120
+comes second. That is very 
+
+637
+00:24:53,120 --> 00:24:56,420
+important. And that, for 
+
+638
+00:24:56,420 --> 00:24:59,700
+example , when we start with, here we have 
+
+639
+00:24:59,700 --> 00:25:01,620
+the subject, here we have the 
+
+640
+00:25:01,620 --> 00:25:03,220
+object and here we have the 
+
+641
+00:25:03,220 --> 00:25:06,600
+adverbial clause. In other words, we 
+
+642
+00:25:06,600 --> 00:25:08,900
+realize that if we 
+
+643
+00:25:08,900 --> 00:25:11,540
+have the subject here , the general 
+
+644
+00:25:11,540 --> 00:25:13,420
+sentence order follows. In other words, 
+
+645
+00:25:13,420 --> 00:25:15,320
+we have the object here, then we have 
+
+646
+00:25:15,320 --> 00:25:18,200
+an adverbial clause here and 
+
+647
+00:25:18,200 --> 00:25:19,240
+then we have an 
+
+648
+00:25:19,240 --> 00:25:20,740
+object here again. We have already 
+
+649
+00:25:20,740 --> 00:25:22,240
+established that there is an 
+
+650
+00:25:22,240 --> 00:25:24,140
+indirect object and a 
+
+651
+00:25:24,140 --> 00:25:26,060
+direct object. We have already 
+
+652
+00:25:26,060 --> 00:25:27,640
+explained how this works. I 
+
+653
+00:25:27,640 --> 00:25:29,200
+hope that is also clear. 
+
+654
+00:25:29,200 --> 00:25:30,260
+So if the subject 
+
+655
+00:25:34,000 --> 00:25:41,040
+follows, that doesn't sound good. That's 
+
+656
+00:25:41,040 --> 00:25:43,060
+because we 
+
+657
+00:25:43,060 --> 00:25:46,020
+have an indirect object. So who can we put 
+at 
+
+658
+00:25:46,020 --> 00:25:48,060
+the beginning? Subjects, direct 
+
+659
+00:25:48,060 --> 00:25:49,760
+objects and alphabale determination. 
+
+660
+00:25:49,900 --> 00:25:51,620
+This changes in such a way that 
+
+661
+00:25:51,620 --> 00:25:54,360
+the subject follows the predicate if the 
+subject 
+
+662
+00:25:54,360 --> 00:25:55,900
+is not at the beginning 
+
+663
+00:25:55,900 --> 00:26:01,120
+. and otherwise, as we would have to 
+
+664
+00:26:01,120 --> 00:26:03,580
+put it here, 
+
+665
+00:26:03,580 --> 00:26:05,180
+send your colleagues to 
+
+666
+00:26:05,180 --> 00:26:06,580
+Blumenstraß for their birthday , here we 
+find 
+
+667
+00:26:06,680 --> 00:26:08,260
+that the special feature is that the 
+
+668
+00:26:08,260 --> 00:26:10,520
+subject has moved to the end 
+
+669
+00:26:10,520 --> 00:26:12,080
+and that we 
+
+670
+00:26:12,080 --> 00:26:14,640
+have the indirect object here and then 
+
+671
+00:26:14,640 --> 00:26:17,300
+have the direct object here , that is, we 
+
+672
+00:26:17,300 --> 00:26:18,440
+have found that 
+
+673
+00:26:18,440 --> 00:26:20,640
+the sentence structure is basically such 
+
+674
+00:26:20,640 --> 00:26:22,160
+that we 
+
+675
+00:26:22,160 --> 00:26:24,940
+have the subject at the beginning or it 
+moves directly after the 
+
+676
+00:26:24,940 --> 00:26:31,860
+predicate. 
+
+677
+00:26:31,860 --> 00:26:33,780
+We 
+
+678
+00:26:33,780 --> 00:26:35,280
+have 
+
+679
+00:26:35,280 --> 00:26:37,720
+
+680
+00:26:37,720 --> 00:26:39,800
+it after the predicate or if we have it 
+like in this context, for her birthday, 
+her colleagues give her a bouquet of 
+flowers, that we have it in such a way 
+
+681
+00:26:39,920 --> 00:26:42,300
+that we 
+
+682
+00:26:42,300 --> 00:26:45,160
+bundle the main clause elements at the end 
+to emphasize that we 
+
+683
+00:26:45,160 --> 00:26:46,760
+have the adverbial clause here, 
+
+684
+00:26:46,920 --> 00:26:49,620
+then the indirect object and then 
+
+685
+00:26:49,620 --> 00:26:52,320
+the subject and the object. 
+
+686
+00:26:52,320 --> 00:26:55,300
+So we basically have it like this and can 
+
+687
+00:26:55,300 --> 00:26:57,020
+remember 
+
+688
+00:26:57,040 --> 00:26:59,440
+that we actually have the most important 
+sentence elements 
+
+689
+00:26:59,440 --> 00:27:00,880
+at the beginning. 
+
+690
+00:27:00,880 --> 00:27:02,360
+However, if we want to swap it around, 
+
+691
+00:27:02,360 --> 00:27:03,580
+we can also put the most important 
+
+692
+00:27:03,580 --> 00:27:05,280
+sentence elements at the end. 
+
+693
+00:27:05,300 --> 00:27:07,160
+However, we should remember that 
+
+694
+00:27:07,160 --> 00:27:08,900
+the predicate always comes second 
+
+695
+00:27:08,900 --> 00:27:11,300
+. Okay, we can do this with 
+
+696
+00:27:11,300 --> 00:27:13,500
+the help of the transposition test. The 
+
+697
+00:27:13,500 --> 00:27:16,140
+general replacement test shows us 
+
+698
+00:27:16,280 --> 00:27:17,920
+that we 
+
+699
+00:27:17,920 --> 00:27:20,560
+can exchange individual sentence elements 
+
+700
+00:27:20,560 --> 00:27:23,040
+and thus also shows us 
+
+701
+00:27:23,040 --> 00:27:25,100
+which of the individual sentence elements 
+we are dealing 
+
+702
+00:27:25,100 --> 00:27:26,380
+with here. Let 
+
+703
+00:27:26,380 --> 00:27:29,420
+'s take an example. Your colleagues 
+
+704
+00:27:29,420 --> 00:27:30,500
+are now giving you a huge 
+
+705
+00:27:30,500 --> 00:27:31,900
+bouquet of flowers. We can 
+
+706
+00:27:31,900 --> 00:27:33,820
+exchange the subject and the predicate. 
+
+707
+00:27:34,020 --> 00:27:37,080
+They gave her. They gave. Then we have 
+
+708
+00:27:37,080 --> 00:27:39,540
+the dative object here. 
+
+709
+00:27:41,180 --> 00:27:43,140
+Gave her a huge bunch of flowers for her 
+birthday 
+
+710
+00:27:43,140 --> 00:27:45,180
+. Her colleagues gave 
+
+711
+00:27:45,180 --> 00:27:46,740
+her a huge 
+
+712
+00:27:46,740 --> 00:27:49,560
+bunch of flowers for her birthday . We 
+could say that her colleagues 
+
+713
+00:27:49,560 --> 00:27:51,360
+gave Maria a 
+
+714
+00:27:51,360 --> 00:27:52,520
+huge 
+
+715
+00:27:52,520 --> 00:27:54,600
+bunch of flowers for her birthday . Her 
+colleagues gave 
+
+716
+00:27:54,600 --> 00:27:56,160
+her a huge 
+
+717
+00:27:56,160 --> 00:27:58,040
+bouquet of flowers for her birthday . Or 
+we could say that 
+
+718
+00:27:58,200 --> 00:28:00,780
+her colleagues gave someone a 
+
+719
+00:28:00,780 --> 00:28:03,220
+birthday present . That's another 
+
+720
+00:28:03,220 --> 00:28:04,880
+very good clue here , because here 
+
+721
+00:28:04,880 --> 00:28:07,900
+we have, we could even 
+
+722
+00:28:07,900 --> 00:28:10,560
+say , if we wanted to, that someone gave 
+
+723
+00:28:10,560 --> 00:28:15,640
+someone something for their birthday. 
+
+724
+00:28:15,640 --> 00:28:17,400
+In other words, we have made it clear here 
+
+725
+00:28:17,400 --> 00:28:20,040
+that we 
+
+726
+00:28:20,040 --> 00:28:22,360
+
+727
+00:28:22,360 --> 00:28:25,240
+
+728
+00:28:25,240 --> 00:28:28,260
+can also generalize the general, i.e. the 
+direct sentence songs. We can remember 
+
+729
+00:28:28,360 --> 00:28:30,900
+that you can either 
+
+730
+00:28:30,900 --> 00:28:33,840
+say someone or something here. With the 
+dative 
+
+731
+00:28:33,840 --> 00:28:35,840
+we say someone and with the 
+
+732
+00:28:35,840 --> 00:28:39,460
+nominative we say somebody. This helps 
+
+733
+00:28:39,460 --> 00:28:41,560
+us to determine the individual sentence 
+elements 
+
+734
+00:28:41,560 --> 00:28:43,480
+and also helps us to 
+
+735
+00:28:43,480 --> 00:28:45,880
+better recognize the sentence in the 
+formulation 
+
+736
+00:28:45,880 --> 00:28:47,440
+. So today we have 
+
+737
+00:28:47,440 --> 00:28:49,500
+learned that there are different 
+
+738
+00:28:49,500 --> 00:28:51,180
+types of sentences. We have 
+
+739
+00:28:51,180 --> 00:28:54,320
+discovered that there are sentence types 
+
+740
+00:28:54,320 --> 00:28:56,500
+with different intentions 
+
+741
+00:28:56,600 --> 00:29:00,240
+, i.e. with different 
+
+742
+00:29:02,000 --> 00:29:02,440
+purposes. 
+
+743
+00:29:05,680 --> 00:29:07,900
+The statement and 
+
+744
+00:29:07,900 --> 00:29:10,140
+the interrogative sentence are the most 
+popular and 
+
+745
+00:29:10,140 --> 00:29:11,200
+most common. 
+
+746
+00:29:11,200 --> 00:29:12,900
+The request sentence expresses a request 
+
+747
+00:29:12,900 --> 00:29:15,340
+. The exclamatory sentence states 
+something 
+
+748
+00:29:15,340 --> 00:29:17,720
+with astonishment and 
+
+749
+00:29:17,720 --> 00:29:20,240
+realization. And the request sentence 
+
+750
+00:29:20,240 --> 00:29:23,780
+formulates something in the subjunctive 
+
+751
+00:29:23,780 --> 00:29:25,460
+, i.e. in the possible form. 
+
+752
+00:29:25,460 --> 00:29:26,960
+This means that something is wished for. 
+
+753
+00:29:28,400 --> 00:29:29,880
+We then established 
+
+754
+00:29:29,960 --> 00:29:32,200
+that there are different types of 
+sentences 
+
+755
+00:29:32,200 --> 00:29:34,420
+. We differentiate 
+
+756
+00:29:34,420 --> 00:29:35,660
+between the main clause and the 
+
+757
+00:29:35,660 --> 00:29:37,460
+subordinate clause. We can therefore see 
+
+758
+00:29:37,580 --> 00:29:39,680
+that the main clause 
+
+759
+00:29:39,680 --> 00:29:41,980
+can stand alone , as it contains the 
+subject, predicate and object 
+
+760
+00:29:41,980 --> 00:29:43,900
+, and that the subordinate clause 
+
+761
+00:29:43,900 --> 00:29:45,900
+usually refers to a sentence element of 
+the 
+
+762
+00:29:45,900 --> 00:29:48,060
+main clause. This means that it 
+
+763
+00:29:48,060 --> 00:29:49,940
+cannot stand alone. We have 
+
+764
+00:29:49,940 --> 00:29:52,400
+the option of 
+
+765
+00:29:52,400 --> 00:29:54,400
+combining several main clauses in a series 
+of sentences . To do this, 
+
+766
+00:29:54,400 --> 00:29:57,440
+we use so-called conjunctions 
+
+767
+00:29:57,440 --> 00:30:01,300
+such as UNS, SOWI or AUCH. In 
+
+768
+00:30:01,300 --> 00:30:02,780
+sentence structures, we 
+
+769
+00:30:02,780 --> 00:30:04,620
+have a main clause and 
+
+770
+00:30:04,620 --> 00:30:06,200
+can add subordinate clauses . This means 
+that a 
+
+771
+00:30:06,200 --> 00:30:07,540
+sentence structure consists of a 
+
+772
+00:30:07,540 --> 00:30:09,200
+main clause and at least one 
+
+773
+00:30:09,200 --> 00:30:12,360
+subordinate clause. The main clause and 
+
+774
+00:30:12,360 --> 00:30:13,900
+subordinate clause are linked by a 
+
+775
+00:30:13,900 --> 00:30:15,640
+subordinating conjunction. That is, 
+
+776
+00:30:15,720 --> 00:30:17,680
+a subordinating conjunction, 
+
+777
+00:30:17,680 --> 00:30:20,700
+such as because, since, although or 
+
+778
+00:30:20,700 --> 00:30:23,380
+nevertheless. We have looked at the 
+
+779
+00:30:23,380 --> 00:30:25,380
+different parts of the sentence 
+
+780
+00:30:25,380 --> 00:30:26,900
+and have established 
+
+781
+00:30:26,900 --> 00:30:28,740
+that the subject 
+
+782
+00:30:28,740 --> 00:30:30,860
+is the doer in the sentence and is 
+expressed in the nominative case 
+
+783
+00:30:30,860 --> 00:30:33,280
+, the predicate is the verb in the 
+sentence 
+
+784
+00:30:33,280 --> 00:30:35,600
+, which is inflected and which 
+
+785
+00:30:35,600 --> 00:30:37,480
+usually also tells us 
+
+786
+00:30:37,480 --> 00:30:41,060
+which object we need. 
+
+787
+00:30:41,220 --> 00:30:42,580
+For example, we have 
+
+788
+00:30:42,580 --> 00:30:45,080
+established that helfen 
+
+789
+00:30:45,080 --> 00:30:47,060
+needs a dative and write an accusative 
+
+790
+00:30:47,060 --> 00:30:49,480
+or, for example, gehen a 
+
+791
+00:30:49,480 --> 00:30:51,860
+prepositional. object or for 
+
+792
+00:30:51,860 --> 00:30:54,340
+example erinnern a genitive object. 
+
+793
+00:30:54,900 --> 00:30:57,140
+So we also talked about the 
+
+794
+00:30:57,140 --> 00:30:58,980
+objects that 
+
+795
+00:30:58,980 --> 00:31:01,360
+are inevitably indicated by the predicate. 
+
+796
+00:31:01,500 --> 00:31:02,800
+This means that when we say write 
+something 
+
+797
+00:31:02,800 --> 00:31:04,500
+, we know that something, 
+
+798
+00:31:04,600 --> 00:31:06,200
+which we have 
+
+799
+00:31:06,200 --> 00:31:09,220
+
+800
+00:31:09,220 --> 00:31:10,900
+learned here in the conversion test or in 
+the replacement test. When I say write 
+something 
+
+801
+00:31:10,900 --> 00:31:12,460
+, I mean an 
+
+802
+00:31:12,460 --> 00:31:14,380
+accusative. This means that I can 
+
+803
+00:31:14,380 --> 00:31:16,820
+use an accusative for something. 
+
+804
+00:31:17,860 --> 00:31:19,580
+We then looked at the 
+
+805
+00:31:19,580 --> 00:31:22,220
+two subordinate clauses 
+
+806
+00:31:22,220 --> 00:31:23,580
+, namely the adverbials and the 
+
+807
+00:31:23,580 --> 00:31:25,240
+attributes. We 
+
+808
+00:31:25,240 --> 00:31:26,620
+discovered that the difference 
+
+809
+00:31:26,620 --> 00:31:28,140
+between the two is 
+
+810
+00:31:28,340 --> 00:31:30,800
+that adverbial clauses 
+
+811
+00:31:30,800 --> 00:31:32,880
+are independent clauses and that 
+attributes 
+
+812
+00:31:32,880 --> 00:31:35,180
+are attached to other clauses. 
+
+813
+00:31:35,340 --> 00:31:37,260
+The adverbial 
+
+814
+00:31:37,260 --> 00:31:39,900
+clause 
+
+815
+00:31:39,900 --> 00:31:41,860
+always 
+
+816
+00:31:41,860 --> 00:31:43,220
+refers to the predicate in terms of its 
+origin. We also saw this in 
+
+817
+00:31:43,220 --> 00:31:45,720
+the example of adverbial clauses. 
+
+818
+00:31:45,820 --> 00:31:48,760
+This means that because 
+
+819
+00:31:48,760 --> 00:31:52,060
+she is tired refers to walking. And we 
+
+820
+00:31:52,060 --> 00:31:52,700
+have established 
+
+821
+00:31:56,670 --> 00:31:58,370
+that an adverb beautiful or 
+
+822
+00:31:58,370 --> 00:32:03,670
+chirping or my neighbor 
+
+823
+00:32:03,670 --> 00:32:05,830
+
+824
+00:32:05,830 --> 00:32:06,990
+refers to the subject in this case. 
+However, we have also 
+
+825
+00:32:06,990 --> 00:32:08,490
+discovered that it does not 
+
+826
+00:32:08,490 --> 00:32:10,510
+necessarily have to be the case that an 
+attribute 
+
+827
+00:32:10,510 --> 00:32:12,810
+only 
+
+828
+00:32:12,810 --> 00:32:15,130
+refers to a subject. We have also learned 
+
+829
+00:32:15,190 --> 00:32:18,350
+that relative clauses are attributes. 
+
+830
+00:32:18,630 --> 00:32:20,630
+These are also 
+
+831
+00:32:20,630 --> 00:32:22,310
+subordinate clauses, but they 
+
+832
+00:32:22,310 --> 00:32:24,230
+can also be connected to objects or 
+
+833
+00:32:24,230 --> 00:32:25,970
+subjects. This means that they 
+
+834
+00:32:25,970 --> 00:32:29,770
+define the individual sentence elements, 
+
+835
+00:32:29,810 --> 00:32:33,290
+i.e. subject or object, in more detail. 
+
+836
+00:32:33,290 --> 00:32:34,810
+Finally, we looked at the 
+
+837
+00:32:34,810 --> 00:32:39,330
+three circumstances and three methods 
+
+838
+00:32:39,330 --> 00:32:42,370
+that make it clear to us 
+
+839
+00:32:42,370 --> 00:32:44,130
+which clause it is and 
+
+840
+00:32:44,130 --> 00:32:45,490
+how we 
+
+841
+00:32:45,490 --> 00:32:47,350
+can find out the individual clauses . 
+
+842
+00:32:47,350 --> 00:32:49,090
+We asked the interrogative test with the 
+individual 
+
+843
+00:32:49,090 --> 00:32:50,710
+questions about the corresponding 
+
+844
+00:32:50,710 --> 00:32:52,710
+sentence elements. We did the 
+
+845
+00:32:52,710 --> 00:32:53,990
+changeover test and 
+
+846
+00:32:53,990 --> 00:32:56,010
+found that the sentence order 
+
+847
+00:32:56,010 --> 00:32:57,690
+can change, but that it 
+
+848
+00:32:57,690 --> 00:33:00,550
+is already such that the predicate always 
+
+849
+00:33:00,550 --> 00:33:02,350
+comes second. And we 
+
+850
+00:33:02,350 --> 00:33:03,870
+have found that we 
+
+851
+00:33:03,870 --> 00:33:05,450
+
+852
+00:33:05,450 --> 00:33:07,850
+can also find other words for the 
+different parts of the sentence. I would 
+like to 
+
+853
+00:33:07,850 --> 00:33:09,610
+thank you for your attention 
+
+854
+00:33:09,610 --> 00:33:10,570
+and take my leave. 

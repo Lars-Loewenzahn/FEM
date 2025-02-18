@@ -1,0 +1,2009 @@
+﻿1
+00:00:01,650 --> 00:00:03,550
+Welcome to the 
+
+2
+00:00:03,550 --> 00:00:06,610
+Exponential Function webinar . 
+
+3
+00:00:06,610 --> 00:00:07,790
+In this webinar , we will be 
+
+4
+00:00:07,790 --> 00:00:09,410
+looking at exponential functions. 
+
+5
+00:00:09,410 --> 00:00:10,910
+At the very beginning, we will 
+
+6
+00:00:10,910 --> 00:00:13,110
+look at the basics again , followed by the 
+
+7
+00:00:13,110 --> 00:00:15,030
+application to compound interest. 
+
+8
+00:00:15,070 --> 00:00:16,970
+This is also the largest 
+
+9
+00:00:16,970 --> 00:00:17,930
+area of application of the 
+
+10
+00:00:17,930 --> 00:00:20,650
+exponential function. We will then look 
+
+11
+00:00:20,650 --> 00:00:22,730
+at two special 
+
+12
+00:00:22,730 --> 00:00:24,090
+types of growth: 
+
+13
+00:00:24,090 --> 00:00:25,670
+limited 
+
+14
+00:00:25,670 --> 00:00:28,210
+growth and logistic growth. And finally, 
+we will 
+
+15
+00:00:28,210 --> 00:00:28,990
+
+16
+00:00:28,990 --> 00:00:31,090
+look at the laws of logarithmic calculus 
+and 
+
+17
+00:00:31,090 --> 00:00:32,270
+apply them to 
+
+18
+00:00:32,270 --> 00:00:33,690
+exponential equations . In other words 
+
+19
+00:00:33,710 --> 00:00:34,410
+, we will solve a few 
+
+20
+00:00:34,410 --> 00:00:36,730
+exponential equations. This is 
+
+21
+00:00:36,730 --> 00:00:38,850
+really important because if 
+
+22
+00:00:38,850 --> 00:00:41,410
+you 
+
+23
+00:00:41,410 --> 00:00:42,590
+work with exponential functions , for 
+example with 
+
+24
+00:00:42,590 --> 00:00:44,650
+compound interest, then you also need to 
+
+25
+00:00:44,650 --> 00:00:47,110
+be able to solve these exponential 
+equations. 
+
+26
+00:00:47,810 --> 00:00:50,010
+
+27
+00:00:50,010 --> 00:00:51,850
+
+28
+00:00:51,850 --> 00:00:54,410
+
+29
+00:00:54,410 --> 00:00:56,130
+We will also see what kind of question you 
+have to or should solve an exponential 
+equation for in 
+
+30
+00:00:56,130 --> 00:00:58,710
+a small example. Let's 
+
+31
+00:00:58,710 --> 00:01:01,070
+start with the basics first. 
+
+32
+00:01:01,070 --> 00:01:02,510
+We first see the 
+
+33
+00:01:02,510 --> 00:01:04,270
+exponential function with the form a 
+
+34
+00:01:04,270 --> 00:01:06,310
+to the power of x. As already mentioned, a 
+is the base 
+
+35
+00:01:06,310 --> 00:01:08,790
+and we see our variable x is 
+
+36
+00:01:08,790 --> 00:01:11,830
+in the exponent. And what we also 
+
+37
+00:01:11,830 --> 00:01:15,430
+see, no matter what base we 
+
+38
+00:01:15,430 --> 00:01:18,470
+take, all exponential functions 
+
+39
+00:01:18,470 --> 00:01:21,450
+with the format a to the power of x 
+intersect the 
+
+40
+00:01:21,450 --> 00:01:23,070
+y-axes at the point. This is 
+
+41
+00:01:23,070 --> 00:01:25,490
+simply because of this. No matter which 
+
+42
+00:01:25,490 --> 00:01:27,330
+numbers you raise to the power of 0, 
+
+43
+00:01:27,330 --> 00:01:29,870
+i.e. 5 to the power of 0 or 10 to the 
+power of 0 or 
+
+44
+00:01:29,870 --> 00:01:33,270
+1000 to the power of 0, it is always 1. 
+Therefore, 
+
+45
+00:01:33,270 --> 00:01:35,570
+all exponential functions 
+
+46
+00:01:35,570 --> 00:01:37,930
+with this structure intersect the y-axis 
+
+47
+00:01:37,930 --> 00:01:40,850
+at the point 1. You can also see that 
+
+48
+00:01:40,850 --> 00:01:42,370
+the 
+
+49
+00:01:42,370 --> 00:01:44,410
+exponential functions become steeper as 
+the base increases. 
+
+50
+00:01:47,140 --> 00:01:48,980
+If you now go to the 
+
+51
+00:01:48,980 --> 00:01:51,460
+exponent with a negative 
+
+52
+00:01:51,460 --> 00:01:53,000
+sign, which is the red 
+
+53
+00:01:53,000 --> 00:01:56,040
+curve here , then you can see that 
+
+54
+00:01:56,040 --> 00:01:57,980
+the curve no longer rises and it falls. 
+
+55
+00:01:58,380 --> 00:02:01,600
+So you have 
+
+56
+00:02:01,600 --> 00:02:05,360
+mirrored the function on the y-axis, like 
+this. If you 
+
+57
+00:02:05,360 --> 00:02:09,300
+give the base a negative 
+
+58
+00:02:09,300 --> 00:02:10,880
+sign, for example 
+
+59
+00:02:10,880 --> 00:02:13,600
+the green curve here, f of x is 
+
+60
+00:02:13,600 --> 00:02:16,700
+equal to minus 2 to the power of x, then 
+you have 
+
+61
+00:02:16,700 --> 00:02:18,700
+
+62
+00:02:18,700 --> 00:02:21,540
+mirrored the function along the x-axis . 
+So minus 2 to the power of x is 
+
+63
+00:02:21,540 --> 00:02:24,780
+along the x-axis, mirrored to 2 
+
+64
+00:02:24,780 --> 00:02:25,180
+to the power of x . 
+
+65
+00:02:28,880 --> 00:02:31,000
+Here you can also see again that if 
+
+66
+00:02:31,000 --> 00:02:34,520
+the factor is less than 0, 
+
+67
+00:02:34,520 --> 00:02:37,760
+the curve falls. 
+
+68
+00:02:37,760 --> 00:02:39,660
+This is called a decay 
+
+69
+00:02:39,660 --> 00:02:42,260
+. A classic example of this 
+
+70
+00:02:42,260 --> 00:02:44,080
+is radioactive 
+
+71
+00:02:44,080 --> 00:02:45,640
+decay, which you will 
+
+72
+00:02:45,640 --> 00:02:48,600
+always encounter in this context, and 
+
+73
+00:02:48,600 --> 00:02:51,020
+here we see a red f of x equal to 0.3 
+
+74
+00:02:51,020 --> 00:02:54,400
+to the power of x. This graph falls much 
+
+75
+00:02:54,400 --> 00:02:57,200
+faster, while the graph f of x 
+
+76
+00:02:57,200 --> 00:02:59,140
+equals 0.7 to the power of x 
+
+77
+00:02:59,140 --> 00:03:02,120
+falls much slower. This is very 
+
+78
+00:03:02,120 --> 00:03:03,900
+important, so the smaller the a 
+
+79
+00:03:03,900 --> 00:03:08,040
+becomes, the faster it falls or 
+
+80
+00:03:08,240 --> 00:03:09,940
+the flatter it becomes down here. 
+
+81
+00:03:15,090 --> 00:03:18,010
+Now we come to the exponential function 
+
+82
+00:03:18,010 --> 00:03:21,450
+with the form a times b to the power of x. 
+This is 
+
+83
+00:03:21,450 --> 00:03:23,010
+also the exponential function 
+
+84
+00:03:23,150 --> 00:03:24,990
+according to which the compound interest 
+principle 
+
+85
+00:03:24,990 --> 00:03:28,330
+works. And this a is then 
+
+86
+00:03:28,330 --> 00:03:29,950
+the point of intersection with the y-axis. 
+This 
+
+87
+00:03:29,950 --> 00:03:31,790
+is simply related to what I 
+
+88
+00:03:31,790 --> 00:03:32,890
+explained earlier. 
+
+89
+00:03:33,350 --> 00:03:35,330
+No matter what base we 
+
+90
+00:03:35,330 --> 00:03:39,310
+use here for b, if we use a 0 for x 
+
+91
+00:03:39,310 --> 00:03:41,150
+, it is always 1. There is 
+
+92
+00:03:41,150 --> 00:03:42,970
+always a times 1. And therefore 
+
+93
+00:03:42,970 --> 00:03:44,790
+we always intersect the y-axis 
+
+94
+00:03:44,790 --> 00:03:47,310
+at the point 1. We see here once 
+
+95
+00:03:47,310 --> 00:03:50,270
+the function f of x equals 3 times 2 
+
+96
+00:03:50,270 --> 00:03:52,810
+to the power of x and once f of x equals 2 
+
+97
+00:03:52,810 --> 00:03:56,810
+to the power of x. And you can see here 
+very 
+
+98
+00:03:56,810 --> 00:03:59,870
+clearly that the gradient is actually 
+
+99
+00:03:59,870 --> 00:04:02,570
+always approximately the same, except that 
+it 
+
+100
+00:04:02,570 --> 00:04:05,730
+is higher here by a factor of 3. And we 
+
+101
+00:04:05,730 --> 00:04:08,490
+see that the function f of x equals 3 
+
+102
+00:04:08,490 --> 00:04:11,650
+times 2 to the power of x intersects the 
+y-axis 
+
+103
+00:04:11,650 --> 00:04:13,650
+at point 3, the function f of x 
+
+104
+00:04:13,650 --> 00:04:16,390
+equals 2 to the power of x at point 1. 
+
+105
+00:04:19,520 --> 00:04:21,780
+That's all we 
+
+106
+00:04:21,780 --> 00:04:23,960
+can say . Now let's move on to 
+
+107
+00:04:23,960 --> 00:04:26,100
+the application of compound interest. 
+
+108
+00:04:26,460 --> 00:04:28,720
+In the compound interest calculation, we 
+
+109
+00:04:28,720 --> 00:04:31,300
+always use this approach Kn is equal to K0 
+
+110
+00:04:31,300 --> 00:04:34,560
+times Q to the power of N. Kn is the 
+capital after 
+
+111
+00:04:34,560 --> 00:04:37,860
+N years. K0 is the initial capital, 
+
+112
+00:04:37,860 --> 00:04:39,200
+i.e. the capital that 
+
+113
+00:04:39,200 --> 00:04:42,160
+was invested at some point. And this to 
+the power of N is 
+
+114
+00:04:42,160 --> 00:04:44,680
+the time in years. 
+
+115
+00:04:44,680 --> 00:04:46,220
+When calculating interest, the time at the 
+top 
+
+116
+00:04:46,220 --> 00:04:47,480
+of the exponent is always in years 
+
+117
+00:04:47,480 --> 00:04:50,420
+. This Q is our 
+
+118
+00:04:50,420 --> 00:04:52,400
+growth factor. And 
+
+119
+00:04:52,400 --> 00:04:53,940
+we always have to 
+
+120
+00:04:53,940 --> 00:04:56,680
+calculate this growth factor depending on 
+the task. This 
+
+121
+00:04:56,680 --> 00:04:59,580
+is calculated as Q equals 1 plus 
+
+122
+00:04:59,580 --> 00:05:01,700
+P divided by 100, where P is the 
+
+123
+00:05:01,700 --> 00:05:03,780
+interest rate. Please remember that 
+
+124
+00:05:03,780 --> 00:05:06,320
+the interest rate P in this formula 
+
+125
+00:05:06,320 --> 00:05:08,400
+is really a percentage. 
+
+126
+00:05:08,400 --> 00:05:10,860
+In other words, if you 
+
+127
+00:05:10,860 --> 00:05:12,860
+have an interest rate of 5%, then enter 
+
+128
+00:05:12,860 --> 00:05:16,620
+1 plus 5 divided by 100 in this formula 
+and 
+
+129
+00:05:16,620 --> 00:05:18,440
+you can then 
+
+130
+00:05:18,440 --> 00:05:19,620
+calculate your growth factor Q. 
+
+131
+00:05:21,710 --> 00:05:23,030
+We also have a small 
+
+132
+00:05:23,030 --> 00:05:25,550
+example here. Mr. Hansen invests 
+
+133
+00:05:25,550 --> 00:05:27,390
+30,000 euros in the bank at an 
+
+134
+00:05:27,390 --> 00:05:30,350
+interest rate of 7.8%, enters the 
+
+135
+00:05:30,350 --> 00:05:31,910
+functional equation of this process 
+
+136
+00:05:31,910 --> 00:05:33,950
+and calculates the capital after 6 
+
+137
+00:05:33,950 --> 00:05:37,470
+years. We know that Mr. Hansen 
+
+138
+00:05:37,470 --> 00:05:39,510
+has invested 30,000 euros in the bank or 
+is 
+
+139
+00:05:39,510 --> 00:05:41,070
+investing 30,000 euros in the bank. This 
+
+140
+00:05:41,070 --> 00:05:45,510
+means that our K0 is 30,000 and we have 
+
+141
+00:05:45,510 --> 00:05:49,130
+an interest rate of 7.8%. This means 
+
+142
+00:05:49,230 --> 00:05:53,370
+that the Q is calculated as 1 plus 7.8 
+
+143
+00:05:53,370 --> 00:05:59,070
+divided by 100, which is 1.078. And 
+
+144
+00:05:59,070 --> 00:06:00,710
+we put all of this into our calculation 
+
+145
+00:06:00,710 --> 00:06:04,170
+and came up with KN. 30,000 
+
+146
+00:06:04,170 --> 00:06:09,510
+times 1.078 to the power of N. And now 
+
+147
+00:06:09,510 --> 00:06:11,230
+we are asked for the capital after 6 
+
+148
+00:06:11,230 --> 00:06:13,630
+years. This means that we 
+
+149
+00:06:13,630 --> 00:06:16,310
+simply enter the time for the N, i.e. 6, 
+
+150
+00:06:16,490 --> 00:06:18,950
+because we are supposed to 
+
+151
+00:06:18,950 --> 00:06:21,970
+calculate it after 6 years and arrive at 
+30,000 times 
+
+152
+00:06:21,970 --> 00:06:26,130
+1.078 to the power of 6. And then we get 
+
+153
+00:06:26,130 --> 00:06:31,350
+47,079.71 euros. That is the capital 
+
+154
+00:06:31,350 --> 00:06:33,950
+of Mr. Hansen after six years. 
+
+155
+00:06:37,200 --> 00:06:39,540
+Now we come to the limited and 
+
+156
+00:06:39,540 --> 00:06:42,640
+logistical growth. First, 
+
+157
+00:06:42,640 --> 00:06:43,540
+let's take a look at 
+
+158
+00:06:43,540 --> 00:06:46,080
+limited growth. The general 
+
+159
+00:06:46,080 --> 00:06:47,860
+equation of restricted growth 
+
+160
+00:06:47,860 --> 00:06:50,460
+is b of t plus 1 equals b 
+
+161
+00:06:50,460 --> 00:06:54,240
+of t plus k times the bracket on s minus 
+
+162
+00:06:54,240 --> 00:06:56,400
+b of t. It is very important 
+
+163
+00:06:56,460 --> 00:06:57,700
+to remember 
+
+164
+00:06:57,800 --> 00:06:59,600
+what b of t means, what does this b 
+
+165
+00:06:59,600 --> 00:07:02,000
+of t plus 1 mean , what is the K and what 
+
+166
+00:07:02,000 --> 00:07:05,160
+is the S? Let's start with the simple 
+
+167
+00:07:05,160 --> 00:07:07,140
+things. K is a growth factor, 
+
+168
+00:07:07,160 --> 00:07:09,080
+which is constant. And 
+
+169
+00:07:09,080 --> 00:07:12,100
+this S is the limitation. The T 
+
+170
+00:07:12,100 --> 00:07:13,520
+is still our time 
+
+171
+00:07:13,520 --> 00:07:16,220
+variable. And very importantly, B 
+
+172
+00:07:16,220 --> 00:07:18,520
+of T is the stock at the time 
+
+173
+00:07:18,520 --> 00:07:21,840
+of measurement. B of T plus 1 is the 
+
+174
+00:07:21,840 --> 00:07:23,840
+stock after one time step. 
+
+175
+00:07:23,840 --> 00:07:26,280
+This means that if you 
+
+176
+00:07:26,280 --> 00:07:28,660
+want to calculate B of 3, then B... 
+
+177
+00:07:29,440 --> 00:07:31,160
+of 2 must be written here. This is very 
+important. 
+
+178
+00:07:32,620 --> 00:07:34,220
+Of course, we have also 
+
+179
+00:07:34,220 --> 00:07:36,100
+decorated the whole thing with an example 
+task 
+
+180
+00:07:36,100 --> 00:07:38,900
+, which is that 
+
+181
+00:07:38,900 --> 00:07:41,240
+
+182
+00:07:41,240 --> 00:07:43,220
+algae grow on a pond with an area of 50 
+square meters. In the first month, the 
+
+183
+00:07:43,220 --> 00:07:44,540
+area covered by algae is one 
+
+184
+00:07:44,540 --> 00:07:46,960
+square meter and in the second month 
+
+185
+00:07:46,960 --> 00:07:49,780
+three square meters. Determine K and the 
+
+186
+00:07:49,780 --> 00:07:51,480
+area of the covered surface in the 
+
+187
+00:07:51,480 --> 00:07:55,810
+third month. For now, we know 
+
+188
+00:07:55,810 --> 00:08:00,190
+that the pond 
+
+189
+00:08:00,190 --> 00:08:03,750
+has a size of 50 square meters. This means 
+that our 
+
+190
+00:08:03,750 --> 00:08:05,730
+restriction will be 50 square meters 
+
+191
+00:08:05,730 --> 00:08:07,750
+, because if the pond only 
+
+192
+00:08:07,750 --> 00:08:10,410
+has an area of 50 square meters, only 
+
+193
+00:08:10,410 --> 00:08:12,170
+a maximum of 50 square meters can 
+
+194
+00:08:12,170 --> 00:08:15,810
+be covered by Allgäu . That is why it is 
+50. 
+
+195
+00:08:15,810 --> 00:08:19,430
+Furthermore, we know b from 1, which is 
+
+196
+00:08:19,430 --> 00:08:21,650
+1 square meter. This means 
+
+197
+00:08:21,650 --> 00:08:23,850
+that at the time of observation 1 is 1 
+
+198
+00:08:23,850 --> 00:08:31,170
+square meter So our b of 1 
+
+199
+00:08:31,170 --> 00:08:37,450
+is 1 and we know that in the 
+
+200
+00:08:37,450 --> 00:08:43,450
+second month 3 square meters are covered. 
+This 
+
+201
+00:08:43,450 --> 00:08:48,790
+means that b of 2 is 3 and 
+
+202
+00:08:48,790 --> 00:08:51,110
+we now use this to 
+
+203
+00:08:51,110 --> 00:08:55,030
+calculate the variable k. So we arrive at 
+3 
+
+204
+00:08:55,030 --> 00:09:00,790
+equals 1. 1 is, as I said, the b of 
+
+205
+00:09:00,790 --> 00:09:04,830
+t or b of 1. And the k is 
+
+206
+00:09:04,830 --> 00:09:06,810
+still a variable. And that times 50 minus 
+
+207
+00:09:06,810 --> 00:09:09,710
+1. Now we just blow there, 
+
+208
+00:09:09,710 --> 00:09:11,210
+reshape it to k. So the way to calculate 
+
+209
+00:09:11,210 --> 00:09:14,170
+this would be 3 minus 1. And 
+
+210
+00:09:14,170 --> 00:09:15,970
+then divide the whole thing by 49. We 
+
+211
+00:09:15,970 --> 00:09:19,830
+then arrive at a k of 0.0408 
+
+212
+00:09:22,510 --> 00:09:24,050
+. We can then 
+
+213
+00:09:24,050 --> 00:09:26,090
+
+214
+00:09:26,090 --> 00:09:30,090
+write down our function equation in full. 
+We are still looking for the 
+
+215
+00:09:30,090 --> 00:09:33,050
+area in the third month. 
+
+216
+00:09:33,050 --> 00:09:35,510
+This means that the third month is b of 
+
+217
+00:09:35,510 --> 00:09:40,310
+2 plus 1. And I think you can 
+
+218
+00:09:40,310 --> 00:09:42,670
+already see that we now have to enter b 
+
+219
+00:09:42,670 --> 00:09:46,070
+of 2 for b of t. Plus our 
+
+220
+00:09:46,070 --> 00:09:47,650
+k, which we have calculated here, 
+
+221
+00:09:47,730 --> 00:09:51,810
+times 50 minus b of 2. and b of 2 
+
+222
+00:09:51,810 --> 00:09:53,990
+so the area covered after two 
+
+223
+00:09:53,990 --> 00:09:57,210
+months was 3, which is why there is now 
+
+224
+00:09:57,210 --> 00:09:59,890
+a 3 everywhere and so we know b 
+
+225
+00:09:59,890 --> 00:10:04,850
+of 3 is equal to 3 plus 0.0408 times 50 
+
+226
+00:10:04,850 --> 00:10:08,790
+minus 3 and that is then 4.92, which 
+
+227
+00:10:08,790 --> 00:10:11,910
+means that after three months 4.92 
+
+228
+00:10:11,910 --> 00:10:14,970
+square meters are covered with algae, 
+which 
+
+229
+00:10:17,720 --> 00:10:19,640
+The other special type of growth is 
+
+230
+00:10:19,640 --> 00:10:21,980
+logistic growth. Here, too, 
+
+231
+00:10:21,980 --> 00:10:24,920
+we have B of T plus 1, B of T, K 
+
+232
+00:10:24,920 --> 00:10:27,420
+and the S. The meaning here is the 
+
+233
+00:10:27,420 --> 00:10:29,980
+same. That is, B of T plus 1 
+
+234
+00:10:29,980 --> 00:10:31,020
+is the stock after one 
+
+235
+00:10:31,020 --> 00:10:34,420
+time step. B of T is the stock 
+
+236
+00:10:34,420 --> 00:10:37,860
+at a point in time. K is the 
+
+237
+00:10:37,860 --> 00:10:40,420
+growth factor and S is again the 
+
+238
+00:10:40,420 --> 00:10:43,600
+restriction. We also have 
+
+239
+00:10:43,600 --> 00:10:46,180
+a small example of this. 
+
+240
+00:10:46,180 --> 00:10:47,740
+A company launches a new product on 
+
+241
+00:10:47,740 --> 00:10:50,000
+the market in a city with 
+
+242
+00:10:50,000 --> 00:10:53,480
+20,000 households. The customers 
+
+243
+00:10:53,480 --> 00:10:55,380
+naturally buy the item in line with the 
+
+244
+00:10:55,380 --> 00:10:57,860
+logistical growth and 
+
+245
+00:10:57,860 --> 00:11:01,120
+500 items are sold in the first year. in 
+the . In the 
+
+246
+00:11:01,120 --> 00:11:04,460
+second year, 1,400. First, 
+
+247
+00:11:04,460 --> 00:11:06,020
+of course, we should calculate the K again 
+
+248
+00:11:06,020 --> 00:11:08,700
+and then the number in the 
+
+249
+00:11:08,700 --> 00:11:11,680
+third year. Yes, and 
+
+250
+00:11:11,680 --> 00:11:14,920
+we calculate the K again by 
+
+251
+00:11:14,920 --> 00:11:17,300
+inserting everything. We know B of T, 
+
+252
+00:11:17,460 --> 00:11:20,760
+i.e. the number of 
+
+253
+00:11:20,760 --> 00:11:22,320
+products sold in the first year, which was 
+
+254
+00:11:22,320 --> 00:11:25,220
+500. This means that B of T 
+
+255
+00:11:25,220 --> 00:11:28,440
+is 500 for us . Our threshold S is 20 
+
+256
+00:11:28,440 --> 00:11:33,200
+,000, because 
+
+257
+00:11:33,200 --> 00:11:34,420
+there won't be more than two of 
+
+258
+00:11:34,420 --> 00:11:36,520
+these products in a household. That's the 
+
+259
+00:11:36,520 --> 00:11:39,140
+assumption we make, and we 
+
+260
+00:11:39,140 --> 00:11:41,440
+also know that 
+
+261
+00:11:41,440 --> 00:11:44,720
+1400 will be sold in the second year. So 
+1400 
+
+262
+00:11:44,720 --> 00:11:49,280
+equals 500 plus K times 500 times 20,000 
+
+263
+00:11:49,280 --> 00:11:52,260
+minus 500. We solve this equation 
+
+264
+00:11:52,260 --> 00:11:53,720
+again. Please make sure that you 
+
+265
+00:11:53,720 --> 00:11:55,440
+calculate minus 500 first. Then it says 
+
+266
+00:11:55,440 --> 00:11:59,180
+900 is equal to K times 500 times brackets 
+
+267
+00:11:59,180 --> 00:12:02,080
+on 20,000 minus 500 and when we 
+
+268
+00:12:02,080 --> 00:12:03,600
+then calculate the K, we arrive at 
+
+269
+00:12:03,600 --> 00:12:05,880
+a very small K. so 
+
+270
+00:12:05,880 --> 00:12:07,580
+please 
+
+271
+00:12:07,580 --> 00:12:09,700
+include enough decimal places at this 
+point our k 
+
+272
+00:12:09,700 --> 00:12:14,400
+here is 0.0000923 
+
+273
+00:12:14,400 --> 00:12:18,180
+as an example that would only be three 
+
+274
+00:12:18,180 --> 00:12:19,760
+meaningful decimal places 
+
+275
+00:12:19,760 --> 00:12:22,320
+so it really has to 
+
+276
+00:12:22,320 --> 00:12:24,660
+be given with such a long number 
+
+277
+00:12:26,100 --> 00:12:28,580
+next we have to 
+
+278
+00:12:28,580 --> 00:12:30,500
+calculate the products sold in the third 
+year 
+
+279
+00:12:30,500 --> 00:12:32,020
+that is b of 3. 
+
+280
+00:12:33,180 --> 00:12:35,000
+therefore, because we now 
+
+281
+00:12:35,000 --> 00:12:37,300
+have b of 3 here , we now use b 
+
+282
+00:12:37,300 --> 00:12:43,040
+of 2 for the b of t. that is . And that is 
+1400 
+
+283
+00:12:43,040 --> 00:12:45,540
+, which is very important. We have 
+
+284
+00:12:45,540 --> 00:12:48,000
+just calculated the k. This means that we 
+
+285
+00:12:48,000 --> 00:12:51,340
+have b of 3 is equal to 1400 plus 0 
+
+286
+00:12:51,340 --> 00:12:58,300
+.0000923 times 1400 times 20,000 minus 
+
+287
+00:12:58,300 --> 00:13:01,840
+1400 
+
+288
+00:13:01,840 --> 00:13:03,680
+. If we enter this into the 
+
+289
+00:13:03,680 --> 00:13:05,020
+calculator 
+
+290
+00:13:05,020 --> 00:13:08,560
+, we arrive at 3,803. This means 
+
+291
+00:13:08,560 --> 00:13:11,760
+that 3,803 of the products are sold in the 
+third year. 
+
+292
+00:13:14,040 --> 00:13:15,860
+That's it for the two 
+
+293
+00:13:15,860 --> 00:13:17,640
+special types of growth. 
+
+294
+00:13:18,400 --> 00:13:19,620
+Now let's move on to the 
+
+295
+00:13:19,620 --> 00:13:21,560
+logarithmic arithmetic laws and 
+immediately 
+
+296
+00:13:21,560 --> 00:13:23,680
+afterwards to solving 
+
+297
+00:13:23,680 --> 00:13:26,460
+exponential equations. Let's start 
+
+298
+00:13:26,460 --> 00:13:28,380
+with the first logarithm calculation 
+
+299
+00:13:28,380 --> 00:13:31,240
+law: the logarithm of the base c 
+
+300
+00:13:31,240 --> 00:13:33,080
+of a times b is equal to the 
+
+301
+00:13:33,080 --> 00:13:35,220
+logarithm of the base c of a plus 
+
+302
+00:13:35,220 --> 00:13:37,560
+the logarithm of the base c of b 
+
+303
+00:13:37,560 --> 00:13:40,440
+. So you see, if you 
+
+304
+00:13:40,440 --> 00:13:41,620
+
+305
+00:13:41,620 --> 00:13:43,300
+have a product inside the logarithm , you 
+can solve this 
+
+306
+00:13:43,300 --> 00:13:45,220
+product by adding the two 
+
+307
+00:13:45,220 --> 00:13:49,660
+logarithms of the factors 
+
+308
+00:13:49,660 --> 00:13:54,120
+it is important that they both 
+
+309
+00:13:54,120 --> 00:13:56,600
+have the same base as both in this case 
+
+310
+00:13:56,600 --> 00:13:58,660
+the base 10 we also have 
+
+311
+00:13:58,660 --> 00:14:01,480
+an example of this the logarithm to the 
+
+312
+00:14:01,480 --> 00:14:04,240
+base 10 is equal to the logarithm 
+
+313
+00:14:04,240 --> 00:14:07,060
+to the base 10 of 4 times 10 is equal 
+
+314
+00:14:07,060 --> 00:14:09,380
+to the logarithm to the base of 4 plus 
+
+315
+00:14:09,380 --> 00:14:11,780
+the logarithm to the base 10 of 10 
+
+316
+00:14:11,780 --> 00:14:14,140
+and that is 
+
+317
+00:14:14,140 --> 00:14:21,700
+approximately 1 when you work it out ,602 
+
+318
+00:14:21,700 --> 00:14:23,920
+So, if you 
+
+319
+00:14:23,920 --> 00:14:24,920
+have a multiplication in there , it is 
+simply the 
+
+320
+00:14:24,920 --> 00:14:27,080
+addition of the individual 
+
+321
+00:14:27,080 --> 00:14:29,900
+logarithms. Important, same 
+
+322
+00:14:29,900 --> 00:14:32,880
+base. The second logarithmic 
+
+323
+00:14:32,880 --> 00:14:34,380
+law is the logarithm to the 
+
+324
+00:14:34,380 --> 00:14:36,560
+base C of A divided by B, so in 
+
+325
+00:14:36,560 --> 00:14:38,260
+principle it just says divided, 
+
+326
+00:14:38,940 --> 00:14:40,800
+equals the logarithm to the base 
+
+327
+00:14:40,800 --> 00:14:43,400
+C of A minus the logarithm to the 
+
+328
+00:14:43,400 --> 00:14:45,420
+base C of B. So you see, if 
+
+329
+00:14:45,420 --> 00:14:47,400
+you divide within the logarithm, 
+
+330
+00:14:47,520 --> 00:14:51,560
+you can simply 
+
+331
+00:14:51,560 --> 00:14:53,960
+form the two individual logarithms and 
+
+332
+00:14:53,960 --> 00:14:56,840
+subtract them . 
+
+333
+00:14:56,840 --> 00:14:57,980
+Of course, we also have an example of 
+this. 
+
+334
+00:14:57,980 --> 00:15:01,380
+The logarithm to the base 10 of 5, i.e. 
+
+335
+00:15:01,380 --> 00:15:04,120
+5 divided by 12, is equal to the 
+
+336
+00:15:04,120 --> 00:15:06,440
+logarithm to the base 10 of 5 minus 
+
+337
+00:15:06,440 --> 00:15:08,400
+the logarithm to the base 10 of 12. 
+
+338
+00:15:08,600 --> 00:15:11,860
+That is approximately minus 0.38. 
+
+339
+00:15:15,710 --> 00:15:17,510
+The third logarithm calculation law 
+
+340
+00:15:17,510 --> 00:15:19,190
+is the logarithm calculation law, which 
+
+341
+00:15:19,190 --> 00:15:20,990
+is usually needed. We will 
+
+342
+00:15:20,990 --> 00:15:23,610
+also need this in a moment when we 
+
+343
+00:15:23,610 --> 00:15:25,170
+calculate with exponential equations. 
+
+344
+00:15:25,170 --> 00:15:26,790
+Let me put it this way. You can 
+
+345
+00:15:26,790 --> 00:15:29,210
+'t solve an exponential equation without 
+
+346
+00:15:29,210 --> 00:15:31,070
+the third law of logarithmic arithmetic. 
+
+347
+00:15:31,210 --> 00:15:33,290
+And this simply states that 
+
+348
+00:15:33,290 --> 00:15:35,750
+the logarithm to the base c of a 
+
+349
+00:15:35,750 --> 00:15:39,050
+to the power of b is equal to b times the 
+logarithm 
+
+350
+00:15:39,050 --> 00:15:41,010
+to the base c of a. This means that you 
+
+351
+00:15:41,010 --> 00:15:43,890
+can simply 
+
+352
+00:15:43,890 --> 00:15:45,190
+write the exponent in front of it and 
+
+353
+00:15:45,190 --> 00:15:47,030
+multiply the logarithm by this exponent. 
+
+354
+00:15:47,030 --> 00:15:48,110
+We'll do that in a moment. 
+
+355
+00:15:48,950 --> 00:15:50,210
+Nevertheless, we have a small 
+
+356
+00:15:50,210 --> 00:15:52,450
+example here. The logarithm to the base 
+
+357
+00:15:52,450 --> 00:15:55,910
+20 of 5 to the power of 3 is nothing more 
+than 
+
+358
+00:15:55,910 --> 00:15:57,830
+3 times the logarithm to the base 20 
+
+359
+00:15:57,830 --> 00:15:59,870
+of 5. Make sure that you always 
+
+360
+00:15:59,870 --> 00:16:03,690
+have the same base. And 
+
+361
+00:16:03,690 --> 00:16:05,130
+now we have 
+
+362
+00:16:05,130 --> 00:16:06,410
+learned all the tools we need to 
+
+363
+00:16:06,410 --> 00:16:09,890
+solve exponential equations. 
+
+364
+00:16:09,890 --> 00:16:11,710
+Here we see an exponential equation. 
+
+365
+00:16:11,770 --> 00:16:14,130
+An exponential equation 
+
+366
+00:16:14,130 --> 00:16:16,810
+is characterized as such by 
+
+367
+00:16:16,810 --> 00:16:19,030
+having the variable in the exponent. So 
+
+368
+00:16:19,030 --> 00:16:20,790
+the x here is in the exponent 
+
+369
+00:16:20,790 --> 00:16:23,650
+, which is actually not usual, which is 
+why 
+
+370
+00:16:23,650 --> 00:16:26,510
+it is an exponential equation. And to 
+
+371
+00:16:26,510 --> 00:16:27,590
+solve the equation 
+
+372
+00:16:27,630 --> 00:16:30,430
+, or to 
+
+373
+00:16:30,430 --> 00:16:32,850
+get our variable out of the exponent 
+
+374
+00:16:32,910 --> 00:16:35,390
+, we take the logarithm and use 
+
+375
+00:16:35,390 --> 00:16:37,530
+the third logarithm arithmetic law. 
+
+376
+00:16:38,490 --> 00:16:41,230
+Because 3 to the power of x is equal to 
+729 
+
+377
+00:16:41,230 --> 00:16:42,470
+, we now 
+
+378
+00:16:42,470 --> 00:16:43,910
+apply our logarithm to it. It says that 
+the 
+
+379
+00:16:43,910 --> 00:16:45,570
+logarithm of 3 to the power of x is equal 
+
+380
+00:16:45,570 --> 00:16:48,530
+to the logarithm of 729. Please 
+
+381
+00:16:48,530 --> 00:16:50,090
+always apply the logarithm to both sides 
+
+382
+00:16:50,090 --> 00:16:52,570
+, otherwise you will unfortunately 
+
+383
+00:16:52,570 --> 00:16:54,510
+make a mistake. Therefore, as 
+
+384
+00:16:54,510 --> 00:16:55,770
+usual with equations, always 
+
+385
+00:16:55,770 --> 00:16:57,250
+do the same on both sides. This 
+
+386
+00:16:57,250 --> 00:16:58,430
+also applies when 
+
+387
+00:16:58,430 --> 00:17:02,390
+using the logarithm . Now we use the third 
+
+388
+00:17:02,390 --> 00:17:05,150
+law of logarithmic arithmetic. 
+
+389
+00:17:05,490 --> 00:17:07,410
+This means that the logarithm of 3 to the 
+power of 
+
+390
+00:17:07,410 --> 00:17:09,570
+x is the same as x times the 
+
+391
+00:17:09,570 --> 00:17:12,010
+logarithm of 3. And that is equal 
+
+392
+00:17:12,010 --> 00:17:15,190
+to the logarithm of 729. And now 
+
+393
+00:17:15,190 --> 00:17:17,010
+we have 
+
+394
+00:17:17,010 --> 00:17:19,290
+already rearranged our exponential 
+equation so that we no 
+
+395
+00:17:19,290 --> 00:17:20,710
+longer have an exponential equation. This 
+
+396
+00:17:20,710 --> 00:17:23,070
+is a completely normal equation. The 
+
+397
+00:17:23,070 --> 00:17:25,490
+logarithm of 3 is a number that 
+
+398
+00:17:25,490 --> 00:17:26,630
+the particle calculator can calculate, 
+
+399
+00:17:26,650 --> 00:17:29,770
+just like the logarithm of 729. 
+
+400
+00:17:30,950 --> 00:17:32,850
+So all we have to do now is 
+
+401
+00:17:32,850 --> 00:17:34,390
+divide by the logarithm of 3. Then 
+
+402
+00:17:34,390 --> 00:17:36,130
+it says x is equal to the logarithm 
+
+403
+00:17:36,130 --> 00:17:39,110
+of 729 divided by the logarithm of 3. 
+
+404
+00:17:39,610 --> 00:17:40,710
+And if you enter this into the 
+
+405
+00:17:40,710 --> 00:17:42,270
+calculator, it says x 
+
+406
+00:17:42,270 --> 00:17:44,750
+is equal to 6. And that solves this 
+
+407
+00:17:44,750 --> 00:17:46,270
+exponential equation. 
+
+408
+00:17:51,190 --> 00:17:54,230
+There are, of course, other 
+
+409
+00:17:54,230 --> 00:17:57,710
+cases. You can convert the 
+
+410
+00:17:57,710 --> 00:17:59,510
+exponential 
+
+411
+00:17:59,510 --> 00:18:01,550
+equation into a logarithmic equation. This 
+
+412
+00:18:01,550 --> 00:18:03,050
+simply works in the same way as we 
+
+413
+00:18:03,050 --> 00:18:05,170
+have just done. a to the power of x is 
+
+414
+00:18:05,170 --> 00:18:08,510
+equal to b, or, if we 
+
+415
+00:18:08,510 --> 00:18:09,490
+now 
+
+416
+00:18:09,490 --> 00:18:10,770
+let go of the logarithm , we can now see 
+here in the 
+
+417
+00:18:10,770 --> 00:18:12,110
+next line that x is equal to the 
+
+418
+00:18:12,110 --> 00:18:14,970
+logarithm of the base a of b. 
+
+419
+00:18:14,970 --> 00:18:18,550
+In other words, if you 
+
+420
+00:18:18,550 --> 00:18:20,270
+want to save yourself this fraction here, 
+where the 
+
+421
+00:18:20,270 --> 00:18:22,230
+logarithm appears twice, 
+
+422
+00:18:22,230 --> 00:18:24,730
+simply take the logarithm and take the 
+
+423
+00:18:24,730 --> 00:18:27,330
+base of the logarithm in the same way as 
+the 
+
+424
+00:18:27,330 --> 00:18:30,590
+base of your exponential function 
+
+425
+00:18:30,590 --> 00:18:33,070
+. We have the base A here and 
+
+426
+00:18:33,070 --> 00:18:34,830
+therefore the logarithm also has 
+
+427
+00:18:34,830 --> 00:18:37,610
+the base A. Therefore, it 
+
+428
+00:18:37,610 --> 00:18:39,350
+no longer appears on the left-hand side, 
+
+429
+00:18:39,430 --> 00:18:41,790
+but only on the right-hand side . 
+
+430
+00:18:41,790 --> 00:18:42,850
+We can see this again here in the 
+
+431
+00:18:42,850 --> 00:18:45,450
+example just shown 3 to the power of x 
+
+432
+00:18:45,450 --> 00:18:48,530
+is equal to 729 And now we let 
+
+433
+00:18:48,530 --> 00:18:50,810
+the logarithm to base 3 go on it 
+
+434
+00:18:50,810 --> 00:18:53,230
+Then it says directly x is equal to the 
+
+435
+00:18:53,230 --> 00:18:56,350
+logarithm to base 3 of 729 The 
+
+436
+00:18:56,350 --> 00:18:57,990
+small number at the end of this log 
+
+437
+00:18:57,990 --> 00:18:59,970
+always indicates the base If there 
+
+438
+00:18:59,970 --> 00:19:01,790
+is nothing there , the logarithm has the 
+
+439
+00:19:01,790 --> 00:19:05,130
+base 10 And if we now also 
+
+440
+00:19:05,130 --> 00:19:07,090
+
+441
+00:19:07,090 --> 00:19:08,990
+form the logarithm to base 3 of 729 , this 
+is also 
+
+442
+00:19:08,990 --> 00:19:09,430
+6. 
+
+443
+00:19:12,000 --> 00:19:13,680
+Let's move on to an 
+
+444
+00:19:13,680 --> 00:19:15,200
+example task, a 
+
+445
+00:19:15,200 --> 00:19:16,580
+factual task, where we will also 
+
+446
+00:19:16,580 --> 00:19:17,920
+solve an exponential equation. 
+
+447
+00:19:18,180 --> 00:19:20,800
+Mrs. Huber invests 20,000 euros in 
+
+448
+00:19:20,800 --> 00:19:22,680
+securities at an interest rate of 3 
+
+449
+00:19:22,680 --> 00:19:25,500
+.6%. She would now like to know 
+
+450
+00:19:25,580 --> 00:19:27,140
+when she 
+
+451
+00:19:27,140 --> 00:19:28,680
+has doubled her investment. First, we 
+should 
+
+452
+00:19:28,680 --> 00:19:31,560
+set up the functional equation. We 
+
+453
+00:19:31,560 --> 00:19:33,500
+know that Mrs. Huber invests 20,000 
+
+454
+00:19:33,500 --> 00:19:36,020
+euros, i.e. the K0 is 20,000 
+
+455
+00:19:36,020 --> 00:19:37,900
+and she receives an interest rate of 
+
+456
+00:19:37,900 --> 00:19:40,660
+3.6 percent. This means that the 
+
+457
+00:19:40,660 --> 00:19:43,740
+growth factor is 1 plus 3.6 divided by 
+
+458
+00:19:43,740 --> 00:19:47,340
+100, which equals 1.036. The 
+
+459
+00:19:47,340 --> 00:19:49,240
+functional equation then 
+
+460
+00:19:49,240 --> 00:19:53,260
+ends up as KN equals 20,000 times 1.036 
+
+461
+00:19:53,260 --> 00:19:56,600
+to the power of N. And Mrs. Huber would 
+
+462
+00:19:56,600 --> 00:19:58,360
+now like to know when her capital 
+
+463
+00:19:58,360 --> 00:20:01,080
+has doubled. So we set the 
+
+464
+00:20:01,080 --> 00:20:03,020
+functional equation equal to twice 
+
+465
+00:20:03,020 --> 00:20:05,340
+the starting capital. This means that 
+
+466
+00:20:05,460 --> 00:20:09,100
+40,000 is equal to 20,000 times 1.036 
+
+467
+00:20:09,100 --> 00:20:11,840
+to the power of n. 
+
+468
+00:20:11,840 --> 00:20:13,860
+We now want to solve this exponential 
+equation . First 
+
+469
+00:20:13,860 --> 00:20:16,660
+you should always 
+
+470
+00:20:16,660 --> 00:20:19,160
+isolate the exponential part , so we 
+divide by 
+
+471
+00:20:19,160 --> 00:20:25,900
+20,000. 40,000 divided by 20,000 is then 
+
+472
+00:20:25,900 --> 00:20:29,520
+2 and that is equal to 1.036 to the power 
+of 
+
+473
+00:20:29,520 --> 00:20:32,100
+n. Now we let 
+
+474
+00:20:32,100 --> 00:20:33,900
+go of the logarithm again , in this case 
+
+475
+00:20:33,900 --> 00:20:37,080
+the logarithm to the base 1.036 
+
+476
+00:20:37,080 --> 00:20:38,660
+and then it says n is equal to the 
+
+477
+00:20:38,660 --> 00:20:41,860
+logarithm to the base 1.036 of 2. 
+
+478
+00:20:42,660 --> 00:20:43,760
+You then enter this into the 
+
+479
+00:20:43,760 --> 00:20:45,120
+calculator. It is then 
+
+480
+00:20:45,120 --> 00:20:47,000
+really important to 
+
+481
+00:20:47,000 --> 00:20:49,620
+adjust the base logarithm and then the 
+result is n 
+
+482
+00:20:49,620 --> 00:20:52,040
+is about 20, which means that 
+
+483
+00:20:52,040 --> 00:20:53,640
+Mrs. Huber's capital has 
+
+484
+00:20:53,640 --> 00:20:55,520
+doubled after about 20 years. 
+
+485
+00:21:00,730 --> 00:21:02,830
+We are now at the end of the webinar. 
+
+486
+00:21:02,850 --> 00:21:05,290
+Thank you very much for 
+
+487
+00:21:05,290 --> 00:21:07,250
+your attention and I hope that 
+
+488
+00:21:07,250 --> 00:21:08,890
+you 
+
+489
+00:21:08,890 --> 00:21:09,270
+were able to take something away from the 
+webinar . 

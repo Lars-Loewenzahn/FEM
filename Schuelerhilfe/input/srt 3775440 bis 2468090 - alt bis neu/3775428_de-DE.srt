@@ -1,0 +1,440 @@
+1
+00:00:04,050 --> 00:00:06,650
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,650 --> 00:00:07,790
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,790 --> 00:00:09,790
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,790 --> 00:00:11,030
+etwas über Neutralisation,
+
+5
+00:00:11,390 --> 00:00:13,030
+Säurebasetitration und
+
+6
+00:00:13,030 --> 00:00:15,650
+Stoffmengenkonzentration erklären. In
+
+7
+00:00:15,650 --> 00:00:17,310
+unserem Online-Lerncenter steht dir
+
+8
+00:00:17,310 --> 00:00:18,850
+zu diesem Thema natürlich auch noch
+
+9
+00:00:18,850 --> 00:00:20,490
+ein Wiki zur Verfügung, in dem dir
+
+10
+00:00:20,490 --> 00:00:21,810
+die grundlegenden und wichtigen
+
+11
+00:00:21,810 --> 00:00:24,490
+Begriffe genauer erklärt werden. Zu
+
+12
+00:00:24,490 --> 00:00:25,430
+den Grundlagen von
+
+13
+00:00:25,430 --> 00:00:27,310
+Säurebasereaktionen haben wir in
+
+14
+00:00:27,310 --> 00:00:29,330
+unserem Online-Lerncenter ein eigenes
+
+15
+00:00:29,330 --> 00:00:31,310
+Video für dich. Schau dir dieses
+
+16
+00:00:31,310 --> 00:00:34,250
+Video am besten zuerst an. Die
+
+17
+00:00:34,250 --> 00:00:36,210
+Neutralisation ist eine Reaktion
+
+18
+00:00:36,210 --> 00:00:38,510
+zwischen Säuren und Basen, wobei die
+
+19
+00:00:38,510 --> 00:00:40,610
+für Säuren und Basen typische Ionen
+
+20
+00:00:40,610 --> 00:00:44,030
+H3O+, und OH- miteinander zu Wasser
+
+21
+00:00:44,030 --> 00:00:46,830
+reagieren. Ihre zersetzende bzw.
+
+22
+00:00:47,290 --> 00:00:49,030
+ätzende Wirkung geht dabei verloren.
+
+23
+00:00:49,770 --> 00:00:51,690
+Die Lösung enthält danach nur noch
+
+24
+00:00:51,690 --> 00:00:53,970
+die gelösten Restionen der Säure und
+
+25
+00:00:53,970 --> 00:00:55,910
+der Base, welche ein Salz bilden.
+
+26
+00:00:56,130 --> 00:00:59,110
+Schauen wir uns ein Beispiel an. Wir
+
+27
+00:00:59,110 --> 00:01:01,970
+neutralisieren Salzsäure, HCl, mit
+
+28
+00:01:01,970 --> 00:01:05,310
+Natronlauge, NaOH. Es entsteht Wasser
+
+29
+00:01:05,310 --> 00:01:07,170
+und die Lösung enthält außerdem die
+
+30
+00:01:07,170 --> 00:01:10,990
+Restionen Cl-, von der Salzsäure und
+
+31
+00:01:10,990 --> 00:01:13,730
+Na+, von der Natronlauge. Zusammen
+
+32
+00:01:13,730 --> 00:01:15,670
+ergibt dies eine pH-neutrale
+
+33
+00:01:15,670 --> 00:01:18,650
+Natriumchloridlösung. Natriumchlorid
+
+34
+00:01:18,650 --> 00:01:20,710
+ist Hauptbestandteil von Kochsalz,
+
+35
+00:01:20,730 --> 00:01:22,390
+wie man es in jeder Küche findet.
+
+36
+00:01:22,870 --> 00:01:24,110
+Kommen wir zurück zur
+
+37
+00:01:24,110 --> 00:01:26,210
+Reaktionsgleichung. Aus ihr geht
+
+38
+00:01:26,210 --> 00:01:27,790
+hervor, dass Natronlauge und
+
+39
+00:01:27,790 --> 00:01:29,810
+Salzsäure im Verhältnis 1 zu 1
+
+40
+00:01:29,810 --> 00:01:33,150
+reagieren. Das Verhältnis, von dem
+
+41
+00:01:33,150 --> 00:01:34,650
+wir hier reden, ist allerdings keine
+
+42
+00:01:34,650 --> 00:01:36,530
+Masse- oder Volumenverhältnis,
+
+43
+00:01:36,730 --> 00:01:39,150
+sondern das Verhältnis der Stoffmenge
+
+44
+00:01:39,150 --> 00:01:41,890
+in Mol. Ein Mol eines Stoffes ist die
+
+45
+00:01:41,890 --> 00:01:43,630
+immer gleiche Anzahl von Teilchen
+
+46
+00:01:43,630 --> 00:01:45,830
+eines Stoffes. Wenn du mehr darüber
+
+47
+00:01:45,830 --> 00:01:47,390
+wissen möchtest, schau dir einfach
+
+48
+00:01:47,390 --> 00:01:50,170
+das Video Stoffmenge, Avogadro
+
+49
+00:01:50,170 --> 00:01:52,870
+-Konstante, molare Masse und molares
+
+50
+00:01:52,870 --> 00:01:55,350
+Volumen an. Für uns genügt es zu
+
+51
+00:01:55,350 --> 00:01:57,890
+wissen, dass 1-Mol-Salzsäure genauso
+
+52
+00:01:57,890 --> 00:02:01,170
+viele Oxonium-Ionen enthält wie
+
+53
+00:02:01,170 --> 00:02:03,150
+Hydroxid-Ionen in 1-Mol
+
+54
+00:02:03,150 --> 00:02:06,370
+-Nadriumhydroxid sind. Betrachten wir
+
+55
+00:02:06,370 --> 00:02:09,070
+ein weiteres Beispiel. Phosphorsäure
+
+56
+00:02:09,070 --> 00:02:11,550
+H3PO4 wird mit Calciumhydroxid
+
+57
+00:02:11,550 --> 00:02:13,590
+Calciumhydroxid, Ca in Klammern OH
+
+58
+00:02:13,590 --> 00:02:16,990
+hoch 2 neutralisiert. Es entsteht wie
+
+59
+00:02:16,990 --> 00:02:18,770
+bei jeder Neutralisation Wasser und
+
+60
+00:02:18,770 --> 00:02:22,610
+das Salz Calciumphosphat Ca3, PO4, 2.
+
+61
+00:02:23,430 --> 00:02:25,210
+In diesem Fall reagieren
+
+62
+00:02:25,210 --> 00:02:27,550
+Phosphorsäure und Calciumhydroxid im
+
+63
+00:02:27,550 --> 00:02:29,510
+Verhältnis 2 zu 3 miteinander.
+
+64
+00:02:31,090 --> 00:02:32,510
+Calciumphosphat kommt in der Natur
+
+65
+00:02:32,510 --> 00:02:35,390
+als Mineralapatit vor. Es ist aber
+
+66
+00:02:35,390 --> 00:02:37,330
+auch Hauptbestandteil der Knochen und
+
+67
+00:02:37,330 --> 00:02:40,130
+Zähne. In der der Praxis liegen die
+
+68
+00:02:40,130 --> 00:02:42,290
+Säuren und Basen nicht als Reinstoffe
+
+69
+00:02:42,290 --> 00:02:43,830
+vor, sondern meist als wässrige
+
+70
+00:02:43,830 --> 00:02:46,150
+Lösung. Die Anzahl der Teilchen,
+
+71
+00:02:46,210 --> 00:02:47,490
+welche in einer wässrigen Lösung
+
+72
+00:02:47,490 --> 00:02:49,110
+gelöst sind, wird durch die
+
+73
+00:02:49,110 --> 00:02:50,950
+Stoffmengenkonzentration beschrieben.
+
+74
+00:02:52,570 --> 00:02:53,370
+Abgekürzt wird die
+
+75
+00:02:53,370 --> 00:02:55,030
+Stoffmengenkonzentration mit einem
+
+76
+00:02:55,030 --> 00:02:57,210
+kleinen c, die Einheit ist Mol pro
+
+77
+00:02:57,210 --> 00:02:58,770
+Liter. Berechnet wird die
+
+78
+00:02:58,770 --> 00:03:00,390
+Stoffmengenkonzentration aus der
+
+79
+00:03:00,390 --> 00:03:02,130
+Stoffmenge der gelösten Teilchen
+
+80
+00:03:02,130 --> 00:03:04,130
+geteilt durch das Volumen der Lösung.
+
+81
+00:03:04,810 --> 00:03:07,090
+Zum Beispiel enthält eine 1-Molare
+
+82
+00:03:07,090 --> 00:03:09,810
+-Salzsäure-Lösung 1 Mol Salzsäure in
+
+83
+00:03:09,810 --> 00:03:11,770
+einem Liter der Lösung. Die
+
+84
+00:03:11,770 --> 00:03:14,650
+Stoffmengenkonzentration ist also C
+
+85
+00:03:14,650 --> 00:03:19,030
+von HCl gleich 1 Mol pro Liter. Eine
+
+86
+00:03:19,030 --> 00:03:21,510
+0,1-Molare-Natronlauge dagegen
+
+87
+00:03:21,510 --> 00:03:24,530
+enthält 0,1 Mol Natriumhydroxid in
+
+88
+00:03:24,530 --> 00:03:26,670
+einem Liter Lösung, hat also eine
+
+89
+00:03:26,670 --> 00:03:30,130
+Konzentration C ist gleich 0,1 Mol
+
+90
+00:03:30,130 --> 00:03:33,090
+pro Liter. Es ist nun verständlich,
+
+91
+00:03:33,090 --> 00:03:34,490
+dass man diese beiden Lösungen zum
+
+92
+00:03:34,490 --> 00:03:35,790
+Neutralisieren nicht im
+
+93
+00:03:35,790 --> 00:03:38,270
+Volumenverhältnis 1 zu 1 mischen
+
+94
+00:03:38,270 --> 00:03:41,530
+kann. Um 1 Liter unserer Salzsäure
+
+95
+00:03:41,530 --> 00:03:43,890
+mit einer Konzentration von 1 Mol pro
+
+96
+00:03:43,890 --> 00:03:45,850
+Liter mit der Natronlauge mit einer
+
+97
+00:03:45,850 --> 00:03:48,430
+Konzentration von nur 0,1 Mol pro
+
+98
+00:03:48,430 --> 00:03:50,630
+Liter zu neutralisieren, werden also
+
+99
+00:03:50,630 --> 00:03:54,630
+10 Liter Natronlauge benötigt. hoffe,
+
+100
+00:03:54,690 --> 00:03:56,110
+dass ich dir dabei helfen konnte, das
+
+101
+00:03:56,110 --> 00:03:57,890
+Thema Neutralisation besser zu
+
+102
+00:03:57,890 --> 00:04:00,150
+verstehen. Aufbauend auf diesem Thema
+
+103
+00:04:00,150 --> 00:04:01,970
+gibt es in unserem Online-Lerncenter
+
+104
+00:04:01,970 --> 00:04:03,870
+ein weiteres Video, das dir noch eine
+
+105
+00:04:03,870 --> 00:04:04,970
+andere Anwendung der
+
+106
+00:04:04,970 --> 00:04:07,190
+Stoffmengenkonzentration, nämlich die
+
+107
+00:04:07,190 --> 00:04:09,570
+Titration, näher bringt. Schau es dir
+
+108
+00:04:09,570 --> 00:04:11,310
+doch einmal an oder nutze unsere
+
+109
+00:04:11,310 --> 00:04:12,870
+weiteren Angebote des Online
+
+110
+00:04:12,870 --> 00:04:14,870
+-Lerncenters. Bis zum nächsten Mal!
+

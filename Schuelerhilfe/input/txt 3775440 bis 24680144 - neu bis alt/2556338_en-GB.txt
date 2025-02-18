@@ -1,0 +1,941 @@
+﻿1
+00:00:02,740 --> 00:00:04,300
+In this video I would like to briefly 
+
+2
+00:00:04,300 --> 00:00:05,780
+
+3
+00:00:05,780 --> 00:00:08,140
+explain the working time documentation 
+during short-time work. 
+
+4
+00:00:08,140 --> 00:00:09,820
+The following list is provided 
+
+5
+00:00:09,820 --> 00:00:12,700
+and used by you. 
+
+6
+00:00:12,700 --> 00:00:14,540
+It contains the month, surname and 
+
+7
+00:00:14,540 --> 00:00:16,520
+first name, client number and 
+
+8
+00:00:16,520 --> 00:00:18,840
+personnel number. This will be 
+
+9
+00:00:18,840 --> 00:00:22,000
+filled in for you beforehand . And it is 
+important to 
+
+10
+00:00:22,000 --> 00:00:23,860
+know how many working days 
+
+11
+00:00:23,860 --> 00:00:25,060
+I 
+
+12
+00:00:25,060 --> 00:00:26,840
+had per week before the short-time work 
+and how many during the 
+
+13
+00:00:26,840 --> 00:00:29,260
+short-time work. You also need to 
+
+14
+00:00:29,260 --> 00:00:31,600
+enter how much overtime 
+
+15
+00:00:31,600 --> 00:00:32,320
+you still have in your 
+
+16
+00:00:32,320 --> 00:00:34,560
+account with the note that this 
+
+17
+00:00:34,560 --> 00:00:36,280
+
+18
+00:00:36,280 --> 00:00:38,220
+
+19
+00:00:38,220 --> 00:00:39,800
+must be zero in the first month of 
+short-time working , in this case in June. 
+We have 
+
+20
+00:00:39,800 --> 00:00:42,100
+included a checkbox here for this purpose 
+, which 
+
+21
+00:00:42,100 --> 00:00:43,540
+turns green as soon as it 
+
+22
+00:00:43,540 --> 00:00:46,000
+reaches zero. As an 
+
+23
+00:00:46,000 --> 00:00:47,280
+example, we now have a 
+
+24
+00:00:47,280 --> 00:00:49,300
+full-time employee who 
+
+25
+00:00:49,300 --> 00:00:50,900
+
+26
+00:00:50,900 --> 00:00:53,160
+will reduce his working hours from five to 
+four days a week , with Monday being the 
+
+27
+00:00:53,160 --> 00:00:55,980
+short-time working day. First, 
+
+28
+00:00:55,980 --> 00:00:57,900
+you have to go there as a 
+
+29
+00:00:57,900 --> 00:01:00,040
+full-time employee working 40 hours per 
+week and 
+
+30
+00:01:00,040 --> 00:01:01,780
+
+31
+00:01:01,780 --> 00:01:02,960
+enter your planned working hours every 
+day. For a 
+
+32
+00:01:02,960 --> 00:01:05,020
+full-time employee , this is 8 
+
+33
+00:01:05,020 --> 00:01:07,100
+hours a day , 8 times 5 equals 40 hours. 
+
+34
+00:01:07,920 --> 00:01:10,360
+And then it is your task to 
+
+35
+00:01:10,360 --> 00:01:12,520
+
+36
+00:01:12,520 --> 00:01:13,980
+
+37
+00:01:13,980 --> 00:01:16,600
+distribute these target hours to these 
+different fields on each day of short-time 
+work , so that 
+
+38
+00:01:16,600 --> 00:01:20,080
+the total comes back to 8 and the 
+
+39
+00:01:20,080 --> 00:01:22,460
+control field here turns green. 
+
+40
+00:01:23,480 --> 00:01:24,520
+Well, let's just do this 
+
+41
+00:01:24,520 --> 00:01:26,180
+as an example. In this case, Monday, 
+
+42
+00:01:26,180 --> 00:01:27,760
+June 1, is a public holiday. 
+
+43
+00:01:27,760 --> 00:01:29,660
+So we enter an 8 for public holiday. 
+
+44
+00:01:30,020 --> 00:01:31,820
+The hours are scheduled, the field 
+
+45
+00:01:31,820 --> 00:01:33,820
+turns green. Now we have 
+
+46
+00:01:33,820 --> 00:01:36,300
+already said that the short-time working 
+day 
+
+47
+00:01:36,300 --> 00:01:40,360
+this week is Monday. This means that 
+
+48
+00:01:40,360 --> 00:01:42,660
+
+49
+00:01:42,760 --> 00:01:45,300
+we will work normally on Tuesday, 
+Wednesday, Thursday and Friday. You 
+
+50
+00:01:45,300 --> 00:01:47,480
+enter the 8, the control field 
+
+51
+00:01:47,480 --> 00:01:48,860
+turns green. The week has been 
+
+52
+00:01:48,860 --> 00:01:51,540
+entered correctly. In the next 
+
+53
+00:01:51,540 --> 00:01:54,800
+week, the short-time working day is 
+
+54
+00:01:54,800 --> 00:01:56,020
+Monday again. You enter the eight 
+
+55
+00:01:56,020 --> 00:01:58,520
+hours for short-time working. The day 
+
+56
+00:01:58,520 --> 00:02:00,860
+is entered correctly. 
+
+57
+00:02:00,860 --> 00:02:03,260
+You work on Tuesday , 
+
+58
+00:02:03,260 --> 00:02:05,540
+you work on Wednesday and there is 
+
+59
+00:02:05,540 --> 00:02:08,300
+a public holiday on Thursday in this 
+example week. 
+
+60
+00:02:08,300 --> 00:02:09,640
+You enter the public holiday hours again 
+
+61
+00:02:09,640 --> 00:02:12,020
+and you work on Friday. That 
+
+62
+00:02:12,020 --> 00:02:13,620
+would be the second week. Now 
+
+63
+00:02:13,620 --> 00:02:16,700
+we come to special cases. The next 
+
+64
+00:02:16,700 --> 00:02:19,260
+week you are on sick leave. 
+
+65
+00:02:19,520 --> 00:02:21,780
+The whole week. You enter the 
+
+66
+00:02:21,780 --> 00:02:23,180
+eight hours every day. Here too, the 
+
+67
+00:02:23,180 --> 00:02:26,160
+list turns green. Then the next week you 
+are 
+
+68
+00:02:26,160 --> 00:02:28,940
+on vacation. The same topic. You 
+
+69
+00:02:28,940 --> 00:02:30,900
+enter eight hours on each vacation day 
+
+70
+00:02:30,900 --> 00:02:32,960
+. Your target hours from 
+
+71
+00:02:32,960 --> 00:02:37,260
+the beginning. You are at zero. On Monday 
+
+72
+00:02:37,260 --> 00:02:38,960
+, another short-time working day is 
+
+73
+00:02:38,960 --> 00:02:42,240
+scheduled. And on Tuesday we do 
+
+74
+00:02:42,240 --> 00:02:44,200
+another variation. 
+
+75
+00:02:44,200 --> 00:02:46,080
+We'll say, okay, you'll only 
+
+76
+00:02:46,080 --> 00:02:48,280
+work four hours and 
+
+77
+00:02:48,280 --> 00:02:50,760
+reduce your workload by four hours. So now 
+
+78
+00:02:50,760 --> 00:02:51,960
+we wouldn't have 
+
+79
+00:02:51,960 --> 00:02:54,220
+paid much attention this month , because 
+there's 
+
+80
+00:02:54,220 --> 00:02:55,300
+still 20 
+
+81
+00:02:55,300 --> 00:02:59,000
+hours of overtime left up there. In other 
+words, 
+
+82
+00:02:59,000 --> 00:03:00,040
+we should have 
+
+83
+00:03:00,040 --> 00:03:01,180
+done things differently in the current 
+month. We're 
+
+84
+00:03:01,180 --> 00:03:02,980
+just making an example here. What could we 
+have 
+
+85
+00:03:02,980 --> 00:03:04,480
+done, for example? You could 
+
+86
+00:03:04,480 --> 00:03:09,400
+say, I'm simply 
+
+87
+00:03:09,400 --> 00:03:12,120
+not going to take any vacation hours here, 
+but 
+
+88
+00:03:12,120 --> 00:03:14,920
+I'll... here more hours then 
+
+89
+00:03:14,920 --> 00:03:19,580
+of course here no more but now 
+
+90
+00:03:19,580 --> 00:03:21,380
+here my goal achieved I have 
+
+91
+00:03:21,380 --> 00:03:23,960
+
+92
+00:03:23,960 --> 00:03:26,140
+reduced my 24 more hours in the current 
+month the control field is green 
+
+93
+00:03:26,140 --> 00:03:28,920
+and I see at the end of the month how 
+
+94
+00:03:28,920 --> 00:03:29,740
+many hours I have really 
+
+95
+00:03:29,740 --> 00:03:31,180
+worked how many hours have 
+
+96
+00:03:31,180 --> 00:03:33,440
+been lost due to short-time work how many 
+
+97
+00:03:33,440 --> 00:03:34,860
+hours I was sick how many 
+
+98
+00:03:34,860 --> 00:03:36,240
+hours I have on vacation 
+
+99
+00:03:36,240 --> 00:03:38,540
+holiday hours reduction overtime 
+
+100
+00:03:38,540 --> 00:03:41,000
+and thus this month would be finished 
+
+101
+00:03:41,000 --> 00:03:43,260
+the list is sent on the first 
+
+102
+00:03:43,260 --> 00:03:44,720
+working day of the following month to 
+
+103
+00:03:44,720 --> 00:03:47,600
+time recording.schülerhilfe.de or 
+
+104
+00:03:47,600 --> 00:03:49,540
+if you already know that you will be 
+
+105
+00:03:49,540 --> 00:03:51,560
+on vacation at the end of the month, 
+
+106
+00:03:51,560 --> 00:03:52,880
+you can of course 
+
+107
+00:03:52,880 --> 00:03:54,760
+fill in the list in advance and send it to 
+us 
+
+108
+00:03:54,760 --> 00:03:56,420
+earlier. 
+
+109
+00:03:56,420 --> 00:03:57,900
+However, it is important that we receive 
+it before 
+
+110
+00:03:57,900 --> 00:04:01,060
+you go on vacation. Now 
+
+111
+00:04:01,060 --> 00:04:02,500
+let's take a look at the example 
+
+112
+00:04:02,500 --> 00:04:04,100
+of a part-time employee. 
+
+113
+00:04:04,660 --> 00:04:05,920
+Here we now have an 
+
+114
+00:04:05,920 --> 00:04:09,420
+employee who 
+
+115
+00:04:09,420 --> 00:04:11,160
+works 25 hours per week. That's the total 
+of these 
+
+116
+00:04:11,160 --> 00:04:15,300
+hours. And he comes in 
+
+117
+00:04:15,300 --> 00:04:17,740
+three days instead of four. Without 
+short-time working 
+
+118
+00:04:17,740 --> 00:04:19,780
+, he would have worked Monday, 
+
+119
+00:04:19,780 --> 00:04:22,680
+Tuesday, Wednesday and Friday. On 
+
+120
+00:04:22,680 --> 00:04:24,060
+the three days during short-time working 
+
+121
+00:04:24,060 --> 00:04:25,540
+, he only comes in on Monday, Tuesday 
+
+122
+00:04:25,540 --> 00:04:26,880
+and Wednesday and Friday is 
+
+123
+00:04:26,880 --> 00:04:30,240
+short-time working. So, Monday 
+
+124
+00:04:30,240 --> 00:04:31,660
+is a working day, but here it is also 
+
+125
+00:04:31,660 --> 00:04:33,640
+a public holiday, so he 
+
+126
+00:04:33,640 --> 00:04:36,040
+enters a 6 , his planned hours. 
+
+127
+00:04:36,040 --> 00:04:37,120
+Of course, he has to 
+
+128
+00:04:37,120 --> 00:04:39,200
+maintain this beforehand as well. How many 
+planned hours do 
+
+129
+00:04:39,200 --> 00:04:40,760
+I actually have on which day? This 
+
+130
+00:04:40,760 --> 00:04:42,620
+employee always comes in for 6 hours and 
+
+131
+00:04:42,620 --> 00:04:44,800
+one hour longer on Tuesday. 
+
+132
+00:04:44,800 --> 00:04:46,480
+You will 
+
+133
+00:04:46,480 --> 00:04:47,540
+know their target hours individually and 
+can 
+
+134
+00:04:47,540 --> 00:04:50,800
+enter them here. So, on Tuesday he should 
+
+135
+00:04:50,800 --> 00:04:54,040
+continue to come, enter a 7. 
+
+136
+00:04:54,080 --> 00:04:55,140
+On Wednesday he should continue to 
+
+137
+00:04:55,140 --> 00:04:58,560
+come in, enter a 6. And on 
+
+138
+00:04:58,560 --> 00:05:00,860
+Friday is the 
+
+139
+00:05:00,860 --> 00:05:03,300
+employee 's short-time working day , he 
+enters a 6 here 
+
+140
+00:05:03,300 --> 00:05:06,080
+. So it's basically the same as 
+
+141
+00:05:06,080 --> 00:05:07,180
+we've just seen with full-time 
+
+142
+00:05:07,180 --> 00:05:10,420
+. So, the next week, he 
+
+143
+00:05:10,420 --> 00:05:12,360
+might 
+
+144
+00:05:12,360 --> 00:05:14,120
+not come in on Monday either because he's 
+cutting back more hours. 
+
+145
+00:05:15,900 --> 00:05:18,460
+They work on Tuesday, they work on 
+
+146
+00:05:18,460 --> 00:05:21,360
+Wednesday. Now 
+
+147
+00:05:21,360 --> 00:05:22,840
+we have a public holiday here on Thursday. 
+
+148
+00:05:22,900 --> 00:05:24,280
+But this employee 
+
+149
+00:05:24,280 --> 00:05:25,680
+has never worked on Thursday 
+
+150
+00:05:25,680 --> 00:05:27,240
+. As a result, he has 
+
+151
+00:05:27,240 --> 00:05:29,540
+zero planned hours on Thursday and 
+
+152
+00:05:29,540 --> 00:05:32,340
+does not enter anything in this column 
+either. So, 
+
+153
+00:05:32,460 --> 00:05:33,500
+Friday is the 
+
+154
+00:05:33,500 --> 00:05:35,040
+short-time working day again. Short-time 
+work is 
+
+155
+00:05:35,040 --> 00:05:37,480
+recorded. If the employee 
+
+156
+00:05:37,480 --> 00:05:40,120
+is now on vacation, he naturally 
+
+157
+00:05:40,120 --> 00:05:43,440
+only enters vacation where he 
+
+158
+00:05:43,440 --> 00:05:46,020
+has planned hours. This means that 
+
+159
+00:05:46,020 --> 00:05:47,340
+the number of 
+
+160
+00:05:47,340 --> 00:05:48,740
+vacation days taken per week 
+
+161
+00:05:48,740 --> 00:05:51,020
+does not change despite short-time 
+working. The employee with 
+
+162
+00:05:51,020 --> 00:05:53,820
+four working days 
+
+163
+00:05:53,820 --> 00:05:56,460
+continues to take four vacation days for 
+the 
+
+164
+00:05:56,460 --> 00:05:58,520
+week. And the 
+
+165
+00:05:58,520 --> 00:06:00,940
+full-time employee continues to take five 
+
+166
+00:06:00,940 --> 00:06:02,920
+working days for the week. In other words, 
+exactly 
+
+167
+00:06:02,920 --> 00:06:04,800
+as if there had been no short-time working 
+
+168
+00:06:04,800 --> 00:06:07,780
+. So now we can 
+
+169
+00:06:07,780 --> 00:06:09,200
+say here again, oh, I've only 
+
+170
+00:06:09,200 --> 00:06:12,040
+taken six more hours off. 
+
+171
+00:06:12,040 --> 00:06:14,160
+I still have six more hours to go. Then 
+
+172
+00:06:14,160 --> 00:06:15,840
+he stays at 
+
+173
+00:06:15,840 --> 00:06:18,760
+home again on Monday , reduces more hours, 
+works 
+
+174
+00:06:18,760 --> 00:06:21,380
+on Tuesday, works on Wednesday, 
+
+175
+00:06:21,480 --> 00:06:26,440
+goes into short-time working on Friday. 
+And 
+
+176
+00:06:26,440 --> 00:06:28,500
+here he 
+
+177
+00:06:28,500 --> 00:06:32,220
+works regular hours again on Monday and 
+Tuesday. So 
+
+178
+00:06:32,220 --> 00:06:33,740
+this week is also completely taken care of 
+here. 
+
+179
+00:06:33,980 --> 00:06:35,720
+Now we have another 
+
+180
+00:06:35,720 --> 00:06:39,000
+special case. It is possible 
+
+181
+00:06:39,140 --> 00:06:41,500
+that the employee may 
+
+182
+00:06:41,500 --> 00:06:42,900
+not 
+
+183
+00:06:42,900 --> 00:06:44,360
+work seven hours on Tuesday, but eight 
+
+184
+00:06:44,360 --> 00:06:47,420
+hours. Then, of course, 
+
+185
+00:06:47,420 --> 00:06:49,100
+the control field here turns red and 
+
+186
+00:06:49,100 --> 00:06:50,840
+doesn't match . On the one hand, of 
+course, I 
+
+187
+00:06:50,840 --> 00:06:52,720
+then have to say that I have 
+
+188
+00:06:52,720 --> 00:06:55,060
+worked eight hours , so should and must 
+
+189
+00:06:55,060 --> 00:06:57,000
+match again and now 
+
+190
+00:06:57,000 --> 00:06:58,440
+the weekly total no longer matches . 
+
+191
+00:06:58,520 --> 00:06:59,800
+Now I no longer had 25 hours 
+
+192
+00:06:59,800 --> 00:07:02,160
+, but 26. It is important 
+
+193
+00:07:02,320 --> 00:07:06,900
+that this working time 
+
+194
+00:07:06,900 --> 00:07:08,680
+is made up again in the monthly balance , 
+i.e. that 
+
+195
+00:07:08,680 --> 00:07:10,280
+less 
+
+196
+00:07:10,280 --> 00:07:13,540
+is worked on another day . 
+
+197
+00:07:13,540 --> 00:07:17,860
+No new overtime may 
+
+198
+00:07:17,860 --> 00:07:20,360
+be built up during short-time working. 
+
+199
+00:07:20,360 --> 00:07:22,660
+They are flexible within the month. At the 
+end of the month, 
+
+200
+00:07:22,660 --> 00:07:24,480
+no new overtime hours may 
+
+201
+00:07:24,480 --> 00:07:26,940
+be accrued. And 
+
+202
+00:07:26,940 --> 00:07:28,940
+, as I said, existing hours must 
+
+203
+00:07:28,940 --> 00:07:32,660
+be reduced in the first month of 
+short-time working. These 
+
+204
+00:07:32,660 --> 00:07:35,100
+were the brief examples on the subject of 
+
+205
+00:07:35,200 --> 00:07:36,500
+how I document my 
+
+206
+00:07:36,500 --> 00:07:38,140
+working hours during short-time working. 
+
+207
+00:07:38,140 --> 00:07:40,140
+As I said, once this has been done, 
+
+208
+00:07:40,160 --> 00:07:42,120
+please send this list as an Excel file to 
+
+209
+00:07:42,120 --> 00:07:43,860
+zeiterfassung 
+
+210
+00:07:43,860 --> 00:07:46,660
+
+211
+00:07:46,700 --> 00:07:49,180
+
+212
+00:07:49,180 --> 00:07:50,320
+
+213
+00:07:50,320 --> 00:07:53,260
+
+214
+00:07:53,260 --> 00:07:54,920
+.schülerhilfe .de , print it out, sign it, 
+present it to the respective manager for 
+signature and also send it scanned to 
+zeiterfassung.schülerhilfe.de 
+
+215
+00:07:54,920 --> 00:07:57,780
+so that we 
+
+216
+00:07:57,780 --> 00:07:58,760
+
+217
+00:07:58,760 --> 00:08:00,100
+
+218
+00:08:00,100 --> 00:08:01,960
+can file it properly here in the HR 
+department in Gelsenkirchen . If you have 
+any questions about the 
+
+219
+00:08:01,960 --> 00:08:03,460
+working time documentation on this 
+
+220
+00:08:03,460 --> 00:08:05,400
+list, please 
+
+221
+00:08:05,400 --> 00:08:07,020
+contact your line manager in the first 
+step, 
+
+222
+00:08:07,020 --> 00:08:09,060
+who will also be familiar with it, and in 
+the second 
+
+223
+00:08:09,060 --> 00:08:10,060
+step you can of course 
+
+224
+00:08:10,060 --> 00:08:11,880
+also contact us in the HR department 
+
+225
+00:08:11,880 --> 00:08:13,400
+. Thank you for your 
+
+226
+00:08:13,400 --> 00:08:15,520
+attention and have a 
+
+227
+00:08:15,520 --> 00:08:15,880
+nice day. 

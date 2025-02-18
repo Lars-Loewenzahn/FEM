@@ -1,0 +1,1416 @@
+1
+00:00:01,420 --> 00:00:03,320
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,320 --> 00:00:05,700
+Trigonometrische Funktionen. Wir
+
+3
+00:00:05,700 --> 00:00:07,580
+befassen uns in diesem Webinar mit
+
+4
+00:00:07,580 --> 00:00:09,040
+trigonometrischen Funktionen. Wir
+
+5
+00:00:09,040 --> 00:00:11,120
+schauen uns als erstes die Sinus- und
+
+6
+00:00:11,120 --> 00:00:13,520
+Kosinusfunktionen an. Danach schauen
+
+7
+00:00:13,520 --> 00:00:14,820
+wir uns einmal die Tangentsfunktionen
+
+8
+00:00:14,820 --> 00:00:17,520
+am Einheitskreis an. Und wir werden
+
+9
+00:00:17,520 --> 00:00:19,320
+am Ende des Webinars, und das ist
+
+10
+00:00:19,320 --> 00:00:20,920
+auch so die Kernaussage des Webinars,
+
+11
+00:00:22,320 --> 00:00:23,320
+Sinus- beziehungsweise
+
+12
+00:00:23,320 --> 00:00:25,680
+Kosinusfunktionen verändern. Das
+
+13
+00:00:25,680 --> 00:00:27,360
+heißt, wir schauen uns die allgemeine
+
+14
+00:00:27,360 --> 00:00:30,040
+Funktionsgleichung mit einer Sinus-
+
+15
+00:00:30,040 --> 00:00:32,120
+oder einer Cosinus-Funktion an und
+
+16
+00:00:32,120 --> 00:00:34,160
+erklären die einzelnen Parameter,
+
+17
+00:00:34,280 --> 00:00:37,100
+sodass man dort ein gutes Grundwissen
+
+18
+00:00:37,100 --> 00:00:40,580
+zu hat. Kommen wir erstmal zur Sinus-
+
+19
+00:00:40,580 --> 00:00:42,440
+und zur Cosinus-Funktion. Und zwar
+
+20
+00:00:42,440 --> 00:00:44,360
+sehen wir hier links die Sinus
+
+21
+00:00:44,360 --> 00:00:45,660
+-Funktion und hier die Cosinus
+
+22
+00:00:45,660 --> 00:00:47,880
+-Funktion. Man sieht recht gut, dass
+
+23
+00:00:47,880 --> 00:00:49,720
+die Sinus- sowie die Cosinus-Funktion
+
+24
+00:00:49,720 --> 00:00:52,300
+eine Auslenkung von 1 hat. Das heißt,
+
+25
+00:00:52,380 --> 00:00:53,920
+die schwankt immer zwischen minus 1
+
+26
+00:00:53,920 --> 00:00:58,060
+und 1. Auch ist auffällig, die
+
+27
+00:00:58,060 --> 00:00:59,920
+Sinusfunktion beginnt im
+
+28
+00:00:59,920 --> 00:01:01,580
+Koordinatenursprung, während die
+
+29
+00:01:01,580 --> 00:01:03,360
+Cosinusfunktion bei 1 beginnt und
+
+30
+00:01:03,360 --> 00:01:05,380
+fällt. Die Sinusfunktion steigt dann.
+
+31
+00:01:08,160 --> 00:01:09,500
+Wenn man es weiß, ist es
+
+32
+00:01:09,500 --> 00:01:10,880
+wahrscheinlich logisch, die
+
+33
+00:01:10,880 --> 00:01:13,880
+Sinusfunktion ist damit einfach nur
+
+34
+00:01:13,880 --> 00:01:16,560
+um Pi halbe in Richtung x verschoben.
+
+35
+00:01:16,700 --> 00:01:19,280
+Das heißt, wenn man jetzt die y-Achse
+
+36
+00:01:19,280 --> 00:01:20,860
+hier reinsetzen würde, hätte man die
+
+37
+00:01:20,860 --> 00:01:24,560
+Cosinus-Funktion. Die Periodenlänge
+
+38
+00:01:24,560 --> 00:01:27,080
+beider Funktionen beträgt 2 Pi. Das
+
+39
+00:01:27,080 --> 00:01:30,080
+heißt, Periodenlänge bedeutet, bis
+
+40
+00:01:30,080 --> 00:01:31,500
+einmal alles abgeschlossen ist und
+
+41
+00:01:31,500 --> 00:01:33,620
+wieder von vorne anfängt. Wir sehen
+
+42
+00:01:33,620 --> 00:01:35,340
+hier, sie steigt, erreicht ihr
+
+43
+00:01:35,340 --> 00:01:37,620
+Maximum, fällt, erreicht ihr
+
+44
+00:01:37,620 --> 00:01:39,200
+Wendepunkt, erreicht ihr Tiefpunkt,
+
+45
+00:01:39,360 --> 00:01:41,760
+steigt uns wieder bei 0 und hier nach
+
+46
+00:01:41,760 --> 00:01:44,100
+passiert das gleiche wie hier. Das
+
+47
+00:01:44,100 --> 00:01:47,240
+Das sind 2 Pi, also ungefähr 6,3, wie
+
+48
+00:01:47,240 --> 00:01:49,860
+man so möchte. Gleiches gilt für die
+
+49
+00:01:49,860 --> 00:01:52,220
+Cosinus-Funktion. Die fällt, erreicht
+
+50
+00:01:52,220 --> 00:01:53,720
+den Tiefpunkt und geht wieder hoch
+
+51
+00:01:53,720 --> 00:01:56,000
+und ist dann wieder am Ausgangspunkt.
+
+52
+00:01:57,500 --> 00:01:59,480
+Beide Formen sind damit, wenn man sie
+
+53
+00:01:59,480 --> 00:02:01,960
+ganz lange zeichnet, wellenförmig und
+
+54
+00:02:01,960 --> 00:02:04,420
+haben, wie gesagt, die Periodenlänge
+
+55
+00:02:04,420 --> 00:02:05,680
+Pi gleich 2 Pi.
+
+56
+00:02:08,800 --> 00:02:11,040
+Kommen wir zu der Tangens-Funktion am
+
+57
+00:02:11,040 --> 00:02:12,580
+Einheitskreis, beziehungsweise
+
+58
+00:02:12,580 --> 00:02:15,340
+erstmal zur Tangens-Funktion. Anders
+
+59
+00:02:15,340 --> 00:02:17,040
+als die Sinus- und die Cosinus
+
+60
+00:02:17,040 --> 00:02:18,920
+-Funktion hat die Tangens-Funktion
+
+61
+00:02:18,920 --> 00:02:20,980
+nur eine Periodenlänge von p gleich
+
+62
+00:02:20,980 --> 00:02:24,020
+pi. Und sie ist keine
+
+63
+00:02:24,020 --> 00:02:26,800
+zusammenhängende Funktion. Die Sinus-
+
+64
+00:02:26,800 --> 00:02:28,040
+und die Cosinus-Funktion, das war ja
+
+65
+00:02:28,040 --> 00:02:29,480
+so eine Wellenfunktion, die hatte
+
+66
+00:02:29,480 --> 00:02:31,740
+auch keine Definitionslücken. Und
+
+67
+00:02:31,740 --> 00:02:33,220
+anders ist dies bei der Tangens
+
+68
+00:02:33,220 --> 00:02:34,520
+-Funktion. Man sieht, das hier ist
+
+69
+00:02:34,520 --> 00:02:35,860
+eine Tangens-Funktion, das ist die
+
+70
+00:02:35,860 --> 00:02:37,260
+nächste und dazwischen sind immer
+
+71
+00:02:37,260 --> 00:02:40,540
+Definitionslücken zu finden. Die
+
+72
+00:02:40,540 --> 00:02:43,240
+Periodenlänge Pi bezieht sich von der
+
+73
+00:02:43,240 --> 00:02:46,400
+x-Koordinate bis zu dieser hier, also
+
+74
+00:02:46,400 --> 00:02:48,340
+ungefähr von 7
+
+75
+00:02:51,000 --> 00:02:54,140
+,5, minus 7,5 oder was hier unten
+
+76
+00:02:54,140 --> 00:02:55,560
+auch immer ist. Das führt natürlich
+
+77
+00:02:55,560 --> 00:02:58,540
+nicht bis ganz unten, bis
+
+78
+00:02:58,540 --> 00:03:01,160
+wahrscheinlich 4,3 oder sowas und
+
+79
+00:03:01,160 --> 00:03:03,220
+dann kommen wir halt auf Pi, also
+
+80
+00:03:03,220 --> 00:03:08,160
+minus 4,3. Das ist ganz wichtig und
+
+81
+00:03:08,160 --> 00:03:10,800
+man sieht die Tangensfunktion ist
+
+82
+00:03:10,800 --> 00:03:12,900
+eine sehr steile, sie verläuft also
+
+83
+00:03:12,900 --> 00:03:14,740
+schon fast eher senkrecht als
+
+84
+00:03:14,740 --> 00:03:15,380
+waagerecht.
+
+85
+00:03:18,180 --> 00:03:20,280
+Kommen wir zum Einheitskreis. Der
+
+86
+00:03:20,280 --> 00:03:21,820
+Einheitskreis hat erstmal die
+
+87
+00:03:21,820 --> 00:03:24,860
+Eigenschaft, dass er den Radius 1 hat
+
+88
+00:03:24,860 --> 00:03:27,220
+und wenn man jetzt hier im Kreis
+
+89
+00:03:27,220 --> 00:03:28,760
+Mittelpunkt einen Winkel anschlägt
+
+90
+00:03:28,760 --> 00:03:30,640
+mit einem rechtwinkligen Dreieck
+
+91
+00:03:30,640 --> 00:03:34,480
+drum, dann hat dieses Dreieck immer
+
+92
+00:03:34,480 --> 00:03:38,340
+eine Schenkellänge, die 1 ist. Und es
+
+93
+00:03:38,340 --> 00:03:40,820
+gilt auch, der Tangens von phi ist
+
+94
+00:03:40,820 --> 00:03:42,740
+gleich der Sinus von phi durch der
+
+95
+00:03:42,740 --> 00:03:48,570
+Kosinus von phi. Hier ist ja unser
+
+96
+00:03:48,570 --> 00:03:50,450
+Winkel phi, hier ist unser rechter
+
+97
+00:03:50,450 --> 00:03:52,890
+Winkel. Das heißt, das ist die Länge
+
+98
+00:03:52,890 --> 00:03:56,230
+Tangens von phi dann. Wenn unter der
+
+99
+00:03:56,230 --> 00:03:58,910
+anderen Mutter das hier die Länge 1
+
+100
+00:03:58,910 --> 00:04:04,230
+ist. Das wurde schon umgestellt. Was
+
+101
+00:04:04,230 --> 00:04:05,870
+ganz wichtig ist, wenn man mit
+
+102
+00:04:05,870 --> 00:04:06,570
+trigonometrischen
+
+103
+00:04:06,570 --> 00:04:09,090
+Funktionsgleichungen rechnet, ist die
+
+104
+00:04:09,090 --> 00:04:13,150
+Einheit des Winkels.
+
+105
+00:04:13,270 --> 00:04:15,930
+Denn man kann im Grad und im Bogenmaß
+
+106
+00:04:15,930 --> 00:04:18,810
+rechnen. Das Bogenmaß gibt vom
+
+107
+00:04:18,810 --> 00:04:23,250
+Prinzip her einfach nur die Länge des
+
+108
+00:04:23,250 --> 00:04:26,370
+Kreisumfangs
+
+109
+00:04:26,370 --> 00:04:28,350
+hier an beim Einheitskreis. ganz
+
+110
+00:04:28,350 --> 00:04:31,670
+wichtig deswegen hat dem bogenmaß ein
+
+111
+00:04:31,670 --> 00:04:33,510
+kompletter winkel 2p
+
+112
+00:04:37,750 --> 00:04:40,310
+deswegen kann den bogenmaß gerechnet
+
+113
+00:04:40,310 --> 00:04:43,190
+werden da hat ein vollkreis 2p oder
+
+114
+00:04:43,190 --> 00:04:46,010
+in grad dann haben wir 360 grad wenn
+
+115
+00:04:46,010 --> 00:04:47,430
+man wie gesagt mit geometrische
+
+116
+00:04:47,430 --> 00:04:50,450
+funktion rechnet muss immer mit dem
+
+117
+00:04:50,450 --> 00:04:53,230
+bogenmaß gerechnet werden das stellt
+
+118
+00:04:53,230 --> 00:04:54,590
+man sicher indem man den
+
+119
+00:04:54,590 --> 00:04:57,010
+taschenrechner umstellt das bogenmaß
+
+120
+00:04:57,010 --> 00:04:58,370
+Die meisten Tascherechnungen zeigen
+
+121
+00:04:58,370 --> 00:05:00,410
+so ein RAD, also für Rad, für
+
+122
+00:05:00,410 --> 00:05:02,930
+Radialmaß an. Und das ist dieses
+
+123
+00:05:02,930 --> 00:05:07,430
+Bogenmaß, welches wir brauchen. Wie
+
+124
+00:05:07,430 --> 00:05:09,090
+gesagt, Phi ist das ganz normale
+
+125
+00:05:09,090 --> 00:05:11,150
+Winkelmaß, was wir kennen, wo der im
+
+126
+00:05:11,150 --> 00:05:13,170
+Vollkreis 360° hat. B ist das
+
+127
+00:05:13,170 --> 00:05:15,990
+Bogenmaß, wo ein Vollkreis 2Pi hat.
+
+128
+00:05:16,750 --> 00:05:18,250
+Die Umrechnung zwischen beiden
+
+129
+00:05:18,250 --> 00:05:21,070
+erfolgt aus dieser Gleichung. B durch
+
+130
+00:05:21,070 --> 00:05:23,270
+2Pi ist gleich Phi durch 360. 360,
+
+131
+00:05:23,590 --> 00:05:25,630
+das kann man jetzt nach b umformen,
+
+132
+00:05:25,650 --> 00:05:26,670
+dann kommt man auf, also man
+
+133
+00:05:26,670 --> 00:05:28,070
+multipliziert mit 2pi, dann hat man
+
+134
+00:05:28,070 --> 00:05:29,730
+es nach b umgeformt, dann steht da b
+
+135
+00:05:29,730 --> 00:05:32,450
+ist gleich phi durch 360 mal 2pi.
+
+136
+00:05:32,770 --> 00:05:34,730
+Oder man formt diese Gleichung nach
+
+137
+00:05:34,730 --> 00:05:37,230
+phi um, dann multipliziert man mit
+
+138
+00:05:37,230 --> 00:05:39,130
+360 und dann steht da phi ist gleich
+
+139
+00:05:39,130 --> 00:05:43,690
+b durch 2pi mal 360 Grad. Man wird
+
+140
+00:05:43,690 --> 00:05:45,890
+auch in vielen Lektüren die Angabe
+
+141
+00:05:45,890 --> 00:05:51,210
+finden, phi ist gleich b durch pi mal
+
+142
+00:05:51,210 --> 00:05:54,830
+180. Grad. Das gibt es auch, dann
+
+143
+00:05:54,830 --> 00:05:59,190
+wird die 2 mit der 360 gekürzt. Gut,
+
+144
+00:05:59,310 --> 00:06:02,250
+das wäre erstmal ganz wichtig. Wie
+
+145
+00:06:02,250 --> 00:06:04,030
+gesagt, im Folgenden betrachten wir
+
+146
+00:06:04,030 --> 00:06:06,830
+immer, oder werden wir immer mit dem
+
+147
+00:06:06,830 --> 00:06:08,970
+Bogenmaß arbeiten. Das heißt, ein
+
+148
+00:06:08,970 --> 00:06:11,610
+voller Kreis hat 2 Pi. Das ist
+
+149
+00:06:11,610 --> 00:06:14,090
+nämlich dann die Periodenlänge des
+
+150
+00:06:14,090 --> 00:06:17,950
+Sinus bzw. des Kosinus. Die
+
+151
+00:06:17,950 --> 00:06:20,970
+allgemeine trigonometrische Funktion
+
+152
+00:06:20,970 --> 00:06:23,910
+lautet A. mal der Sinus, hier kann
+
+153
+00:06:23,910 --> 00:06:25,130
+genauso gut der Cosinus stehen, das
+
+154
+00:06:25,130 --> 00:06:26,590
+ändert sich eigentlich nichts, außer
+
+155
+00:06:26,590 --> 00:06:29,370
+dass es natürlich automatisch, wenn
+
+156
+00:06:29,370 --> 00:06:30,790
+man den Sinus durch den Cosinus
+
+157
+00:06:30,790 --> 00:06:33,290
+ersetzt, um Pi halbe verschoben wird.
+
+158
+00:06:33,970 --> 00:06:35,750
+Also wir bleiben jetzt erstmal beim
+
+159
+00:06:35,750 --> 00:06:37,470
+Sinus, da kommen wir zu f von x ist
+
+160
+00:06:37,470 --> 00:06:39,730
+gleich a, mal der Sinus von b, mal
+
+161
+00:06:39,730 --> 00:06:41,610
+Klammer auf x minus c, Klammer zu,
+
+162
+00:06:41,690 --> 00:06:44,650
+Klammer zu, plus d. Dieses x minus c
+
+163
+00:06:44,650 --> 00:06:47,310
+hier, durch dieses c kann man die
+
+164
+00:06:47,310 --> 00:06:52,290
+ganze Trig... die ganze Funktion nach
+
+165
+00:06:52,290 --> 00:06:53,870
+rechts und nach links verschieben.
+
+166
+00:06:56,150 --> 00:06:58,490
+Das heißt, bei so einer Funktion
+
+167
+00:06:58,490 --> 00:07:00,270
+sieht man es am ehesten an den
+
+168
+00:07:00,270 --> 00:07:01,190
+Amplituden, also an den
+
+169
+00:07:01,190 --> 00:07:04,370
+Extremstellen. Und diese werden dann
+
+170
+00:07:04,370 --> 00:07:07,930
+mal verschoben. Es ist vom Prinzip
+
+171
+00:07:07,930 --> 00:07:09,170
+her der gleiche Gedankengang dabei
+
+172
+00:07:09,170 --> 00:07:12,470
+wie bei quadratischen Funktionen mit
+
+173
+00:07:12,470 --> 00:07:14,590
+der Scheitelpunktform durch einen
+
+174
+00:07:14,590 --> 00:07:16,690
+negativen Faktor hier drin. Also wenn
+
+175
+00:07:16,690 --> 00:07:18,610
+ihr sowas stündet, Wie x minus 5
+
+176
+00:07:18,610 --> 00:07:21,990
+wurde die Funktion um 5 Einheiten
+
+177
+00:07:21,990 --> 00:07:24,330
+nach rechts verschoben. Es ist also
+
+178
+00:07:24,330 --> 00:07:25,670
+immer entgegen des Vorzeichens
+
+179
+00:07:25,670 --> 00:07:30,650
+verschoben. Das b wird dazu genutzt,
+
+180
+00:07:30,650 --> 00:07:33,130
+um die Periodenlänge zu verändern.
+
+181
+00:07:33,190 --> 00:07:34,730
+Das heißt, man kann die Funktion in x
+
+182
+00:07:34,730 --> 00:07:35,850
+-Richtung strecken oder eben
+
+183
+00:07:35,850 --> 00:07:36,430
+stauchen.
+
+184
+00:07:39,150 --> 00:07:41,910
+Das b berechnet sich, indem man...
+
+185
+00:07:42,400 --> 00:07:44,390
+Also b ist gleich 2pi durch p soll
+
+186
+00:07:44,390 --> 00:07:47,090
+heißen, Wenn man eine Periodenlänge
+
+187
+00:07:47,090 --> 00:07:49,070
+hat oder vorgegeben hat, kann man
+
+188
+00:07:49,070 --> 00:07:51,170
+mittels dieser Formel hier das b
+
+189
+00:07:51,170 --> 00:07:54,450
+berechnen. Also 2pi durch die
+
+190
+00:07:54,450 --> 00:07:55,910
+Periodenlänge ist dann der
+
+191
+00:07:55,910 --> 00:07:57,450
+entsprechende Wert für b, welcher
+
+192
+00:07:57,450 --> 00:08:02,490
+einzusetzen ist. Ein größeres b sorgt
+
+193
+00:08:02,490 --> 00:08:06,230
+dafür, dass die Funktion gestaucht
+
+194
+00:08:07,480 --> 00:08:10,060
+wird, das heißt die extremen Erfolge
+
+195
+00:08:10,060 --> 00:08:11,440
+näher aufeinander, das sehen wir auch
+
+196
+00:08:11,440 --> 00:08:12,500
+gleich in einem weiteren Schaubild.
+
+197
+00:08:12,500 --> 00:08:15,380
+und ein kleines b sorgt dafür, dass
+
+198
+00:08:15,380 --> 00:08:16,820
+die Extrema, also die Amplituden,
+
+199
+00:08:16,820 --> 00:08:19,740
+weiter auseinandergezogen werden. Das
+
+200
+00:08:19,740 --> 00:08:22,180
+d ist einfach nur eine Verschiebung
+
+201
+00:08:22,180 --> 00:08:23,760
+von der ganzen Funktion, also man
+
+202
+00:08:23,760 --> 00:08:24,900
+verschiebt die Mittellage der
+
+203
+00:08:24,900 --> 00:08:26,620
+Funktion nach oben oder nach unten.
+
+204
+00:08:26,660 --> 00:08:28,820
+Zum Beispiel bei einer plus 1 wird
+
+205
+00:08:28,820 --> 00:08:30,540
+man die Mittellage der Funktion um 1
+
+206
+00:08:30,540 --> 00:08:33,860
+nach oben verschieben und bei minus 1
+
+207
+00:08:33,860 --> 00:08:37,660
+halt um 1 nach unten. Das a ist der
+
+208
+00:08:37,660 --> 00:08:40,640
+Faktor, der die Funktion auch
+
+209
+00:08:40,640 --> 00:08:42,960
+strecken und stauchen kann aber in y
+
+210
+00:08:42,960 --> 00:08:45,620
+richtung das heißt man kann damit die
+
+211
+00:08:45,620 --> 00:08:49,400
+höhe der amplituden verändern das
+
+212
+00:08:49,400 --> 00:08:51,200
+alles sehen wir auch hier und zwar
+
+213
+00:08:51,200 --> 00:08:53,080
+wir fangen mit den mit dem faktor an
+
+214
+00:08:53,080 --> 00:08:55,060
+also mit den amplituden man sieht
+
+215
+00:08:55,060 --> 00:08:56,960
+hier die unterste funktion hat eine
+
+216
+00:08:56,960 --> 00:09:00,900
+amplitude von 1 heißt hier war der
+
+217
+00:09:00,900 --> 00:09:04,860
+faktor a1 die darauf die nächste
+
+218
+00:09:04,860 --> 00:09:07,840
+höhere funktion hat ein a von 2 weil
+
+219
+00:09:07,840 --> 00:09:09,420
+dort haben wir eine Amplitudenhöhe
+
+220
+00:09:09,420 --> 00:09:11,340
+von 2 und die darauf kann man gar
+
+221
+00:09:11,340 --> 00:09:12,300
+nicht mehr sehen. Man sieht immer,
+
+222
+00:09:12,360 --> 00:09:13,540
+sie werden immer steiler und die
+
+223
+00:09:13,540 --> 00:09:15,380
+Amplituden werden immer höher. Das
+
+224
+00:09:15,380 --> 00:09:17,380
+heißt, desto größer das A, desto
+
+225
+00:09:17,380 --> 00:09:21,350
+höher die Amplitude. Bei der
+
+226
+00:09:21,350 --> 00:09:23,390
+Periodenlänge P ist dies ein bisschen
+
+227
+00:09:23,390 --> 00:09:24,510
+schwieriger. Ich hatte ja gerade
+
+228
+00:09:24,510 --> 00:09:29,050
+schon gesagt, wenn man ein großes B
+
+229
+00:09:29,050 --> 00:09:32,910
+hat, dann ist die Periodenlänge sehr
+
+230
+00:09:32,910 --> 00:09:35,190
+klein. Das heißt, wir sehen hier,
+
+231
+00:09:35,270 --> 00:09:38,230
+dass die Amplituden sehr nah auf...
+
+232
+00:09:38,250 --> 00:09:39,450
+verneinander folgen das heißt wir
+
+233
+00:09:39,450 --> 00:09:40,970
+haben eine sehr kleine periodenlänge
+
+234
+00:09:40,970 --> 00:09:43,330
+das ist also ein kleines b und zwar
+
+235
+00:09:43,330 --> 00:09:45,830
+sieht man hier wir gehen von minus pi
+
+236
+00:09:45,830 --> 00:09:48,930
+halbe bis die halbe dauert nur eine
+
+237
+00:09:48,930 --> 00:09:50,970
+periode das heißt wir haben eine
+
+238
+00:09:50,970 --> 00:09:53,830
+periodenlänge von pi also war das b
+
+239
+00:09:53,830 --> 00:09:58,210
+vor 2 könnte man hier mit ausreden b
+
+240
+00:09:58,210 --> 00:09:59,950
+ist gleich 2p durch p wir haben
+
+241
+00:09:59,950 --> 00:10:01,430
+gerade eine periodenlänge von p
+
+242
+00:10:01,430 --> 00:10:03,230
+gleich pi abgelesen dann steht da 2
+
+243
+00:10:03,230 --> 00:10:09,290
+Pi durch Pi, das ist 2. Wenn man das
+
+244
+00:10:09,290 --> 00:10:10,750
+B dann natürlich kleiner werden
+
+245
+00:10:10,750 --> 00:10:12,250
+lässt, dann wird die ganze Funktion
+
+246
+00:10:12,250 --> 00:10:15,610
+entlang der x-Achse gestreckt. Das
+
+247
+00:10:15,610 --> 00:10:16,970
+heißt, man sieht es hier recht gut,
+
+248
+00:10:17,090 --> 00:10:19,630
+da kommen wir gar nicht mehr bis zur
+
+249
+00:10:19,630 --> 00:10:21,150
+Amplitude, sie sind sehr weit
+
+250
+00:10:21,150 --> 00:10:24,050
+auseinander. Man hat dann jetzt
+
+251
+00:10:24,050 --> 00:10:25,630
+einfach zwei Möglichkeiten. Entweder
+
+252
+00:10:25,630 --> 00:10:27,230
+man hat ein B vorgegeben und kann so
+
+253
+00:10:27,230 --> 00:10:31,230
+die Periodenlänge ausrechnen oder man
+
+254
+00:10:31,230 --> 00:10:32,910
+Man hat die Periodenlänge vorgegeben
+
+255
+00:10:32,910 --> 00:10:34,710
+und kann so das B ausrechnen. Die
+
+256
+00:10:34,710 --> 00:10:36,830
+zwei Möglichkeiten gibt es. Es reicht
+
+257
+00:10:36,830 --> 00:10:37,950
+eigentlich, wenn man eine der beiden
+
+258
+00:10:37,950 --> 00:10:39,850
+Formeln auswendig kann, weil durch
+
+259
+00:10:39,850 --> 00:10:41,310
+Umstellen kann man die andere
+
+260
+00:10:41,310 --> 00:10:44,130
+erstellen. Also wenn man die obere
+
+261
+00:10:44,130 --> 00:10:45,590
+Formel beispielsweise mit P
+
+262
+00:10:45,590 --> 00:10:48,050
+multipliziert, dann steht B mal P ist
+
+263
+00:10:48,050 --> 00:10:50,470
+gleich 2P. Dann teilt man einfach
+
+264
+00:10:50,470 --> 00:10:52,210
+durch B und dann steht da P ist
+
+265
+00:10:52,210 --> 00:10:53,710
+gleich 2P durch B.
+
+266
+00:10:56,870 --> 00:10:59,650
+Gut, kommen wir zu dem C. Ich habe ja
+
+267
+00:10:59,650 --> 00:11:01,270
+gerade schon gesagt, dass die
+
+268
+00:11:01,270 --> 00:11:03,770
+Verschiebung immer vorzeichenverkehrt
+
+269
+00:11:03,770 --> 00:11:07,010
+stattfindet. Das heißt, wir haben
+
+270
+00:11:07,010 --> 00:11:08,590
+hier automatisch ein Minus drin
+
+271
+00:11:08,590 --> 00:11:10,890
+stehen. Und wenn wir jetzt für C
+
+272
+00:11:10,890 --> 00:11:12,790
+einen positiven Wert annehmen, wird
+
+273
+00:11:12,790 --> 00:11:14,170
+die Funktion nach rechts verschoben.
+
+274
+00:11:14,290 --> 00:11:15,210
+Sagen wir mal, wir wollen diese drei
+
+275
+00:11:15,210 --> 00:11:17,330
+Einheiten nach rechts verschieben,
+
+276
+00:11:17,390 --> 00:11:19,530
+tragen wir den 3 ein. In der Klammer
+
+277
+00:11:19,530 --> 00:11:20,970
+steht dann aber eine minus 3
+
+278
+00:11:20,970 --> 00:11:22,350
+automatisch. Das Minus steht ja schon
+
+279
+00:11:22,350 --> 00:11:26,670
+davor. Und wenn wir ein negatives C
+
+280
+00:11:26,670 --> 00:11:28,690
+eintragen, zum Beispiel eine minus 5,
+
+281
+00:11:28,830 --> 00:11:30,050
+weil wir wollen sie um 5 Einheiten
+
+282
+00:11:30,050 --> 00:11:32,290
+nach links verschieben, dann steht in
+
+283
+00:11:32,290 --> 00:11:35,750
+der Klammer x minus minus 5 und das
+
+284
+00:11:35,750 --> 00:11:37,510
+wird dann zusammengefasst zu x plus
+
+285
+00:11:37,510 --> 00:11:41,960
+5. Das ist wie gesagt ganz wichtig,
+
+286
+00:11:42,000 --> 00:11:43,340
+daher drehen sich die Vorzeichen
+
+287
+00:11:43,340 --> 00:11:45,960
+einmal. Und die Verschiebung findet
+
+288
+00:11:45,960 --> 00:11:50,360
+immer entgegengesetzt statt. Der
+
+289
+00:11:50,360 --> 00:11:52,160
+letzte Faktor ist wie gesagt das d.
+
+290
+00:11:52,380 --> 00:11:54,380
+Vor dem d steht immer ein positives
+
+291
+00:11:54,380 --> 00:11:57,240
+Vorzeichen und es verschiebt die
+
+292
+00:11:57,240 --> 00:12:00,000
+Mittellager der Funktion. sieht sehr
+
+293
+00:12:00,000 --> 00:12:02,540
+gut das hier ist hier die mittellage
+
+294
+00:12:02,540 --> 00:12:05,560
+also bei 1 hier ist die mittellage
+
+295
+00:12:05,560 --> 00:12:06,800
+bei 0 das heißt die wurde gar nicht
+
+296
+00:12:06,800 --> 00:12:08,520
+verschoben und hier ist die
+
+297
+00:12:08,520 --> 00:12:10,280
+mittellage bei minus 1 das heißt die
+
+298
+00:12:10,280 --> 00:12:11,640
+wurde um eine einheit nach unten
+
+299
+00:12:11,640 --> 00:12:13,680
+verschoben also bei der untersten
+
+300
+00:12:13,680 --> 00:12:16,720
+funktion ist das d-1 bei der hier ist
+
+301
+00:12:16,720 --> 00:12:20,540
+das d0 bei der hier ist das d1 kommen
+
+302
+00:12:22,460 --> 00:12:24,580
+wir zu einer kleinen beispiel aufgabe
+
+303
+00:12:24,580 --> 00:12:26,540
+und zwar haben haben wir eine
+
+304
+00:12:26,540 --> 00:12:28,600
+Funktion f von x gleich 2 mal der
+
+305
+00:12:28,600 --> 00:12:31,860
+Sinus von 3 halbe mal x plus 3 minus
+
+306
+00:12:31,860 --> 00:12:34,420
+1. Und wir sollen jetzt sagen, wie
+
+307
+00:12:34,420 --> 00:12:37,260
+diese Funktion aus der Funktion g von
+
+308
+00:12:37,260 --> 00:12:39,520
+x entstanden ist, beziehungsweise wie
+
+309
+00:12:39,520 --> 00:12:41,500
+sie zu dieser Funktion verschoben
+
+310
+00:12:41,500 --> 00:12:43,840
+ist. Und dazu schauen wir uns einfach
+
+311
+00:12:43,840 --> 00:12:46,440
+diese Faktoren hier an. Und zwar
+
+312
+00:12:46,440 --> 00:12:48,820
+haben wir vor unserem Sinus eine 2
+
+313
+00:12:48,820 --> 00:12:50,920
+stehen, das heißt unser a ist 2. Sie
+
+314
+00:12:50,920 --> 00:12:53,800
+wurde also um zwei Einheiten in
+
+315
+00:12:53,800 --> 00:12:56,060
+Richtung der y. und Achse gestreckt.
+
+316
+00:12:56,060 --> 00:12:57,600
+Das sieht man auch hier. Die ist
+
+317
+00:12:57,600 --> 00:12:59,640
+deutlich steiler. Sie wurde einfach
+
+318
+00:12:59,640 --> 00:13:02,940
+gestreckt. Des Weiteren haben wir ein
+
+319
+00:13:02,940 --> 00:13:07,020
+b von 3 halbe. Also es wurde auch die
+
+320
+00:13:07,020 --> 00:13:09,080
+Periodenlänge verändert. Die
+
+321
+00:13:09,080 --> 00:13:12,240
+Periodenlänge ist jetzt einfach im
+
+322
+00:13:12,240 --> 00:13:15,880
+Faktor 1,5 kürzer. Das heißt wir
+
+323
+00:13:15,880 --> 00:13:17,600
+haben nur noch die periodenlänge p
+
+324
+00:13:17,600 --> 00:13:21,360
+gleich vier drittel sieht man
+
+325
+00:13:23,320 --> 00:13:26,120
+auch hier das wir haben
+
+326
+00:13:27,490 --> 00:13:31,830
+die periode endet schon bei 4,1 und
+
+327
+00:13:31,830 --> 00:13:33,490
+das sind dann vier drittel p ungefähr
+
+328
+00:13:33,490 --> 00:13:38,540
+des weiteren stellt man auch fest die
+
+329
+00:13:38,540 --> 00:13:41,540
+mittellage der funktion schneidet
+
+330
+00:13:41,540 --> 00:13:45,060
+nicht mehr die y-achse oder die lage
+
+331
+00:13:45,060 --> 00:13:47,700
+der amplituden ist auch verschoben
+
+332
+00:13:47,700 --> 00:13:51,460
+die war hier ja bei 1,5 ungefähr, wie
+
+333
+00:13:51,460 --> 00:13:52,920
+gesagt ungefähr, das sind natürlich
+
+334
+00:13:52,920 --> 00:13:57,200
+Pi halbe, aber das sind 1,5, 1,55 und
+
+335
+00:13:57,200 --> 00:13:59,400
+hier sieht man, dass auf einmal die
+
+336
+00:13:59,400 --> 00:14:04,480
+Amplitude bei knapp über 2 ist und an
+
+337
+00:14:04,480 --> 00:14:07,580
+dieser Plus 3 sehen wir, dass die
+
+338
+00:14:07,580 --> 00:14:10,660
+Funktion um drei Einheiten nach links
+
+339
+00:14:10,660 --> 00:14:12,580
+verschoben wurde. Wie gesagt, die
+
+340
+00:14:12,580 --> 00:14:13,420
+Verschiebung ist immer
+
+341
+00:14:13,420 --> 00:14:15,180
+vorzeigenverkehrt, Plus 3 heißt um
+
+342
+00:14:15,180 --> 00:14:16,560
+drei Einheiten nach links.
+
+343
+00:14:16,700 --> 00:14:18,800
+verschieben, weil eigentlich steht da
+
+344
+00:14:18,800 --> 00:14:20,400
+eine minus 3 dran. Minus und minus
+
+345
+00:14:20,400 --> 00:14:25,100
+ist plus. Und die minus 1 teilt uns
+
+346
+00:14:25,100 --> 00:14:26,820
+mit, dass die Funktion auch noch um
+
+347
+00:14:26,820 --> 00:14:28,420
+minus 1 nach unten verschoben wurde.
+
+348
+00:14:28,560 --> 00:14:30,840
+Man sieht, die Mittellage ist nicht
+
+349
+00:14:30,840 --> 00:14:31,760
+mehr auf der x-Achse.
+
+350
+00:14:34,410 --> 00:14:36,270
+Gut, das wäre es jetzt zu
+
+351
+00:14:36,270 --> 00:14:37,870
+trigonometrischen Funktionen. Ich
+
+352
+00:14:37,870 --> 00:14:39,590
+bedanke mich für eure Aufmerksamkeit
+
+353
+00:14:39,590 --> 00:14:41,110
+und wünsche euch noch einen schönen
+
+354
+00:14:41,110 --> 00:14:41,290
+Tag.
+

@@ -1,0 +1,880 @@
+1
+00:00:04,050 --> 00:00:06,350
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,350 --> 00:00:07,430
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,430 --> 00:00:09,910
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,910 --> 00:00:11,090
+etwas über die physikalischen
+
+5
+00:00:11,090 --> 00:00:12,650
+Eigenschaften von Metallen erklären.
+
+6
+00:00:13,150 --> 00:00:15,270
+In unserem Online-Lerncenter steht
+
+7
+00:00:15,270 --> 00:00:16,830
+dir zu diesem Thema natürlich auch
+
+8
+00:00:16,830 --> 00:00:18,730
+noch ein Wiki zur Verfügung, in dem
+
+9
+00:00:18,730 --> 00:00:20,210
+dir die grundlegenden und wichtigen
+
+10
+00:00:20,210 --> 00:00:24,190
+Begriffe genauer erklärt werden. Im
+
+11
+00:00:24,190 --> 00:00:25,430
+Gegensatz zu den chemischen
+
+12
+00:00:25,430 --> 00:00:27,050
+Eigenschaften, die das Verhalten der
+
+13
+00:00:27,050 --> 00:00:28,610
+Metalle in chemischen Reaktionen
+
+14
+00:00:28,610 --> 00:00:30,250
+beschreiben, beschreiben die
+
+15
+00:00:30,250 --> 00:00:32,090
+physikalischen Eigenschaften das
+
+16
+00:00:32,090 --> 00:00:33,890
+Verhalten von Metallen außerhalb der
+
+17
+00:00:33,890 --> 00:00:36,370
+chemischen Vorgänge. Aber was sind
+
+18
+00:00:36,370 --> 00:00:37,370
+eigentlich physikalische
+
+19
+00:00:37,370 --> 00:00:39,990
+Eigenschaften? Die physikalischen
+
+20
+00:00:39,990 --> 00:00:41,150
+Eigenschaften werden in die
+
+21
+00:00:41,150 --> 00:00:42,910
+Teilgebiete der Physik unterteilt.
+
+22
+00:00:43,430 --> 00:00:46,490
+Diese sind Thermodynamik, Mechanik,
+
+23
+00:00:46,510 --> 00:00:51,090
+Elektrodynamik und Optik. Zu jedem
+
+24
+00:00:51,090 --> 00:00:52,690
+Themengebiet gibt es eine Vielzahl
+
+25
+00:00:52,690 --> 00:00:55,090
+von Messgrößen. Hier einmal ein paar
+
+26
+00:00:55,090 --> 00:00:57,050
+Beispiele für die vier Themengebiete.
+
+27
+00:00:58,230 --> 00:01:00,090
+Thermodynamik findest du Messgrößen
+
+28
+00:01:00,090 --> 00:01:03,170
+wie den Aggregatszustand, die Dichte,
+
+29
+00:01:03,310 --> 00:01:06,050
+den Schmelzpunkt, den Siedepunkt und
+
+30
+00:01:06,050 --> 00:01:08,570
+die Wärmeleitfähigkeit. In der
+
+31
+00:01:08,570 --> 00:01:10,390
+Mechanik sind folgende Messgrößen
+
+32
+00:01:10,390 --> 00:01:13,150
+wichtig. Die Festigkeit, die
+
+33
+00:01:13,150 --> 00:01:15,550
+Duktilität, also die Verformbarkeit
+
+34
+00:01:15,550 --> 00:01:19,090
+und die Elastizität. Im Bereich der
+
+35
+00:01:19,090 --> 00:01:20,750
+Elektrodynamik ist für uns die
+
+36
+00:01:20,750 --> 00:01:22,810
+elektrische Leitfähigkeit, die
+
+37
+00:01:22,810 --> 00:01:25,230
+magnetische Leitfähigkeit sowie die
+
+38
+00:01:25,230 --> 00:01:28,490
+Magnetisierbarkeit sehr wichtig. Im
+
+39
+00:01:28,490 --> 00:01:30,490
+Teilgebiet Optik beschränken wir uns
+
+40
+00:01:30,490 --> 00:01:33,670
+auf Farbe und Reflexion, auch Glanz
+
+41
+00:01:33,670 --> 00:01:36,310
+genannt. Hier einmal Allgemeines zu
+
+42
+00:01:36,310 --> 00:01:37,990
+physikalischen Eigenschaften.
+
+43
+00:01:38,350 --> 00:01:41,170
+Erstens, die Struktur, also der
+
+44
+00:01:41,170 --> 00:01:42,990
+Aufbau, bestimmt die Eigenschaften,
+
+45
+00:01:42,990 --> 00:01:44,370
+nicht nur die physikalischen
+
+46
+00:01:44,370 --> 00:01:45,970
+Eigenschaften, sondern auch die
+
+47
+00:01:45,970 --> 00:01:48,710
+chemischen. Zweitens, die
+
+48
+00:01:48,710 --> 00:01:50,270
+physikalischen Eigenschaften sind
+
+49
+00:01:50,270 --> 00:01:52,690
+temperaturabhängig. Tabellenwerte
+
+50
+00:01:52,690 --> 00:01:54,030
+beziehen sich da meist auf eine
+
+51
+00:01:54,030 --> 00:01:56,730
+bestimmte Temperatur, zum Beispiel 25
+
+52
+00:01:56,730 --> 00:02:00,210
+Grad Celsius. Drittens, viele
+
+53
+00:02:00,210 --> 00:02:01,830
+Eigenschaften der Metalle lassen sich
+
+54
+00:02:01,830 --> 00:02:02,970
+direkt auf die typische
+
+55
+00:02:02,970 --> 00:02:05,030
+Metallstruktur aus Metallionengitter
+
+56
+00:02:05,030 --> 00:02:06,530
+mit den frei beweglichen
+
+57
+00:02:06,530 --> 00:02:09,650
+Elektronengasen zurückführen. Zuerst
+
+58
+00:02:09,650 --> 00:02:11,590
+betrachten wir die thermodynamischen
+
+59
+00:02:11,590 --> 00:02:14,590
+Eigenschaften. Alle Metalle befinden
+
+60
+00:02:14,590 --> 00:02:16,550
+sich bei Raumtemperatur im festen
+
+61
+00:02:16,550 --> 00:02:18,670
+Aggregatszustand. Hier gibt es nur
+
+62
+00:02:18,670 --> 00:02:20,550
+eine Einheit einzige Ausnahme und das
+
+63
+00:02:20,550 --> 00:02:24,070
+ist Quecksilber. Schauen wir uns nun
+
+64
+00:02:24,070 --> 00:02:26,190
+die Dichte an. Diese wird in einer
+
+65
+00:02:26,190 --> 00:02:27,790
+Formel als Rho bezeichnet und
+
+66
+00:02:27,790 --> 00:02:29,750
+berechnet sich aus der Masse m und
+
+67
+00:02:29,750 --> 00:02:31,870
+dem Volumen V des Stoffs nach dieser
+
+68
+00:02:31,870 --> 00:02:35,190
+Formel. Rho ist gleich m geteilt
+
+69
+00:02:35,190 --> 00:02:37,910
+durch V. Als Faustregel kannst du dir
+
+70
+00:02:37,910 --> 00:02:39,930
+merken, dass steigende Ordnungszahlen
+
+71
+00:02:39,930 --> 00:02:41,650
+von Elementen auch zu steigenden
+
+72
+00:02:41,650 --> 00:02:43,850
+Atommassen führen und steigende
+
+73
+00:02:43,850 --> 00:02:46,010
+Atommassen eine höhere Dichte zur
+
+74
+00:02:46,010 --> 00:02:48,930
+Folge haben. Dichteunterschiede
+
+75
+00:02:48,930 --> 00:02:50,530
+kannst du leicht feststellen, wenn du
+
+76
+00:02:50,530 --> 00:02:52,290
+Gegenstände gleicher Größe in deine
+
+77
+00:02:52,290 --> 00:02:54,230
+Hände nimmst, zum Beispiel eine
+
+78
+00:02:54,230 --> 00:02:56,310
+Plastikgabel und eine Gabel aus
+
+79
+00:02:56,310 --> 00:02:58,670
+Metall. Die Plastikgabel hat eine
+
+80
+00:02:58,670 --> 00:03:00,530
+viel kleinere Dichte als die Gabel
+
+81
+00:03:00,530 --> 00:03:02,450
+aus Metall. Sie ist also viel
+
+82
+00:03:02,450 --> 00:03:04,290
+leichter, obwohl die beiden Gabeln
+
+83
+00:03:04,290 --> 00:03:05,670
+gleich groß sind und somit ein
+
+84
+00:03:05,670 --> 00:03:08,410
+gleiches Volumen haben. Weiter geht
+
+85
+00:03:08,410 --> 00:03:09,670
+es mit den Schmelz- und
+
+86
+00:03:09,670 --> 00:03:12,210
+Siedetemperaturen der Metalle. Diese
+
+87
+00:03:12,210 --> 00:03:14,170
+sind in den meisten Fällen viel höher
+
+88
+00:03:14,170 --> 00:03:16,050
+als bei Nichtmetallen. Die
+
+89
+00:03:16,050 --> 00:03:18,110
+Metallbindung ist eine sehr starke
+
+90
+00:03:18,110 --> 00:03:20,170
+Bindung, es wird also viel Energie in
+
+91
+00:03:20,170 --> 00:03:21,930
+Form von Wärme benötigt, um die
+
+92
+00:03:21,930 --> 00:03:24,390
+Bindung zu lösen. Dies ist jedoch
+
+93
+00:03:24,390 --> 00:03:26,290
+eine Voraussetzung für den Übergang
+
+94
+00:03:26,290 --> 00:03:28,090
+in den flüssigen oder gasförmigen
+
+95
+00:03:28,090 --> 00:03:30,470
+Zustand. Zwischen den verschiedenen
+
+96
+00:03:30,470 --> 00:03:32,070
+Metallen bestehen allerdings
+
+97
+00:03:32,070 --> 00:03:35,050
+Unterschiede. Eine allgemeingültige
+
+98
+00:03:35,050 --> 00:03:37,290
+Regel ist demnach nicht feststellbar.
+
+99
+00:03:37,290 --> 00:03:39,530
+Allerdings haben Elemente mit
+
+100
+00:03:39,530 --> 00:03:41,990
+ähnlichem Atomaufbau, d.h. gleicher
+
+101
+00:03:41,990 --> 00:03:43,850
+Haupt- bzw. Nebengruppe im
+
+102
+00:03:43,850 --> 00:03:46,510
+Periodensystem, auch ähnliche Schmelz
+
+103
+00:03:46,510 --> 00:03:49,030
+- und Siedetemperaturen. Für die
+
+104
+00:03:49,030 --> 00:03:50,870
+Wärmeleitfähigkeit erkläre ich dir
+
+105
+00:03:50,870 --> 00:03:53,010
+als erstes, was Wärme eigentlich ist.
+
+106
+00:03:53,610 --> 00:03:55,290
+Wärme ist kurz gesagt die
+
+107
+00:03:55,290 --> 00:03:58,090
+Bewegungsenergie der Teilchen. Je
+
+108
+00:03:58,090 --> 00:03:59,350
+stärker die Teilchen im
+
+109
+00:03:59,350 --> 00:04:01,670
+Kristallgitter schwingen, desto höher
+
+110
+00:04:01,670 --> 00:04:03,790
+ist die Temperatur. Also schwingen
+
+111
+00:04:03,790 --> 00:04:05,250
+die Teilchen in einem Kristallgitter
+
+112
+00:04:05,250 --> 00:04:07,350
+stärker, je stärker man den Stoff
+
+113
+00:04:07,350 --> 00:04:09,910
+erwärmt. Die Teilchen schwingen dabei
+
+114
+00:04:09,910 --> 00:04:12,470
+gemeinsam als ein Ganzes. Die
+
+115
+00:04:12,470 --> 00:04:14,130
+Bewegungsenergie wird nämlich immer
+
+116
+00:04:14,130 --> 00:04:15,570
+auf die benachbarten Teilchen
+
+117
+00:04:15,570 --> 00:04:18,010
+übertragen. Auf diese Weise wird die
+
+118
+00:04:18,010 --> 00:04:19,410
+Wärme durch das Kristallgitter
+
+119
+00:04:19,410 --> 00:04:22,130
+transportiert. Bezogen auf die
+
+120
+00:04:22,130 --> 00:04:23,910
+Metalle können wir aus der Struktur
+
+121
+00:04:23,910 --> 00:04:25,150
+herleiten, wie sich die
+
+122
+00:04:25,150 --> 00:04:27,470
+Wärmeleitfähigkeit verhält. Hier
+
+123
+00:04:27,470 --> 00:04:29,250
+kommt wieder der typische Aufbau der
+
+124
+00:04:29,250 --> 00:04:31,590
+Metalle zum Tragen. Die frei
+
+125
+00:04:31,590 --> 00:04:33,210
+beweglichen Elektronen können die
+
+126
+00:04:33,210 --> 00:04:35,210
+Wärme, also die Bewegungsenergie,
+
+127
+00:04:35,250 --> 00:04:37,350
+schnell weiter transportieren. Die
+
+128
+00:04:37,350 --> 00:04:39,170
+Wärmeleitfähigkeit der Metalle ist
+
+129
+00:04:39,170 --> 00:04:42,250
+also sehr gut. Auch im Bereich der
+
+130
+00:04:42,250 --> 00:04:44,190
+Mechanik kann man viele Eigenschaften
+
+131
+00:04:44,190 --> 00:04:45,610
+der Metalle auf die Metallbindung
+
+132
+00:04:45,610 --> 00:04:48,010
+zurückführen. Die Anziehungskräfte
+
+133
+00:04:48,010 --> 00:04:49,590
+zwischen Metalliongitter und
+
+134
+00:04:49,590 --> 00:04:52,450
+Elektronengas sind sehr hoch. Es wird
+
+135
+00:04:52,450 --> 00:04:54,490
+also eine große Kraft benötigt, um
+
+136
+00:04:54,490 --> 00:04:56,810
+die Metalle kaputt zu machen. Das ist
+
+137
+00:04:56,810 --> 00:04:58,150
+mit dem Begriff mechanische
+
+138
+00:04:58,150 --> 00:05:01,570
+Festigkeit gemeint. Aber beginnen wir
+
+139
+00:05:01,570 --> 00:05:04,250
+am Anfang. Wirkt auf einen
+
+140
+00:05:04,250 --> 00:05:05,970
+metallischen Gegenstand eine Kraft,
+
+141
+00:05:06,130 --> 00:05:08,090
+verformt er sich zuerst elastisch.
+
+142
+00:05:08,490 --> 00:05:10,410
+Man kann sich das so vorstellen wie
+
+143
+00:05:10,410 --> 00:05:12,290
+bei einem Gummiband, nur dass die
+
+144
+00:05:12,290 --> 00:05:13,990
+Verlängerung beim Metall nicht so
+
+145
+00:05:13,990 --> 00:05:15,750
+groß ist wie bei einem Gummiband.
+
+146
+00:05:16,690 --> 00:05:18,030
+Verschwindet die Kraft, geht das
+
+147
+00:05:18,030 --> 00:05:19,970
+Metall genau wie das Gummiband in die
+
+148
+00:05:19,970 --> 00:05:22,790
+vorherige Form zurück. Wie groß die
+
+149
+00:05:22,790 --> 00:05:24,450
+Verlängerung in Abhängigkeit der
+
+150
+00:05:24,450 --> 00:05:26,310
+Kraft ist, wird durch die Elastizität
+
+151
+00:05:26,310 --> 00:05:28,530
+beschrieben. Sie ist für jedes Metall
+
+152
+00:05:28,530 --> 00:05:31,450
+anders. Außerdem ist auch das Ende
+
+153
+00:05:31,450 --> 00:05:33,110
+der elastischen Verformung für jedes
+
+154
+00:05:33,110 --> 00:05:35,870
+Metall unterschiedlich. Irgendwann
+
+155
+00:05:35,870 --> 00:05:37,390
+wird die Kraft zu groß und das Metall
+
+156
+00:05:37,390 --> 00:05:39,810
+fängt an, sich zu verformen. Diesmal
+
+157
+00:05:39,810 --> 00:05:41,930
+aber so, dass bei Nachlassen der
+
+158
+00:05:41,930 --> 00:05:43,690
+Kraft die Verformung bestehen bleibt.
+
+159
+00:05:44,750 --> 00:05:45,910
+Diese Eigenschaft nennt sich
+
+160
+00:05:45,910 --> 00:05:48,130
+Duktilität und ist auch direkt auf
+
+161
+00:05:48,130 --> 00:05:52,450
+die Metallbindung zurückzuführen. Das
+
+162
+00:05:52,450 --> 00:05:53,970
+Elektronengas sorgt dafür, dass sich
+
+163
+00:05:53,970 --> 00:05:55,690
+verschiedene Ebenen des Kristalls
+
+164
+00:05:55,690 --> 00:05:56,790
+verschieben können, ohne
+
+165
+00:05:56,790 --> 00:05:59,510
+auseinanderzubrechen. Das macht die
+
+166
+00:05:59,510 --> 00:06:02,830
+Metalle duktil, also verformbar. Wird
+
+167
+00:06:02,830 --> 00:06:04,270
+die Kraft auf das Metall nun noch
+
+168
+00:06:04,270 --> 00:06:06,190
+weiter erhöht, ist irgendwann die
+
+169
+00:06:06,190 --> 00:06:08,710
+letzte Grenze erreicht und das Metall
+
+170
+00:06:08,710 --> 00:06:11,330
+bricht. Diese Kraft wird Festigkeit
+
+171
+00:06:11,330 --> 00:06:13,110
+genannt. Wie die anderen
+
+172
+00:06:13,110 --> 00:06:14,410
+Eigenschaften ist auch die
+
+173
+00:06:14,410 --> 00:06:16,270
+elektrische Leitfähigkeit direkt auf
+
+174
+00:06:16,270 --> 00:06:17,970
+das Elektrongas im Metallgitter
+
+175
+00:06:17,970 --> 00:06:20,210
+zurückzuführen. Elektrische
+
+176
+00:06:20,210 --> 00:06:22,310
+Leitfähigkeit setzt voraus, dass frei
+
+177
+00:06:22,310 --> 00:06:24,250
+bewegliche Ladungsträger, also
+
+178
+00:06:24,250 --> 00:06:26,330
+geladene Teilchen, bei Metallen das
+
+179
+00:06:26,330 --> 00:06:30,290
+Elektrongas vorhanden sind. Die beste
+
+180
+00:06:30,290 --> 00:06:32,650
+Leitfähigkeit haben Silber, Kupfer
+
+181
+00:06:32,650 --> 00:06:35,810
+und Gold. Einige Metalle besitzen
+
+182
+00:06:35,810 --> 00:06:38,190
+auch magnetische Eigenschaften. Diese
+
+183
+00:06:38,190 --> 00:06:40,090
+Metalle sind Eisen, Kobalt und
+
+184
+00:06:40,090 --> 00:06:42,630
+Nickel. Sie haben in ihren Strukturen
+
+185
+00:06:42,630 --> 00:06:44,810
+mikroskopisch kleine magnetische
+
+186
+00:06:44,810 --> 00:06:46,830
+Bereiche, die Weißsche Bezirke
+
+187
+00:06:46,830 --> 00:06:49,110
+genannt werden. Anfangs sind sie
+
+188
+00:06:49,110 --> 00:06:51,030
+ungeordnet und ihre Magnetfelder
+
+189
+00:06:51,030 --> 00:06:52,550
+zeigen in verschiedene Richtungen,
+
+190
+00:06:52,590 --> 00:06:54,070
+sodass sie nach außen hin nicht
+
+191
+00:06:54,070 --> 00:06:56,130
+magnetisch erscheinen. Bringt man
+
+192
+00:06:56,130 --> 00:06:58,070
+allerdings einen Magnet in die Nähe,
+
+193
+00:06:58,070 --> 00:06:59,510
+dann richten sich einige der
+
+194
+00:06:59,510 --> 00:07:01,150
+Magnetfelder in die gleiche Richtung
+
+195
+00:07:01,150 --> 00:07:03,570
+aus. Dadurch kann der Magnet dann am
+
+196
+00:07:03,570 --> 00:07:05,710
+Metall haften. Bleibt das Metall
+
+197
+00:07:05,710 --> 00:07:07,910
+länger im Magnetfeld oder wenn man
+
+198
+00:07:07,910 --> 00:07:09,910
+das Magnetfeld verstärkt, richten
+
+199
+00:07:09,910 --> 00:07:11,650
+sich alle weißen Bezirke im
+
+200
+00:07:11,650 --> 00:07:13,250
+Magnetfeld in die gleiche Richtung
+
+201
+00:07:13,250 --> 00:07:15,470
+aus. Das Metall wurde dann
+
+202
+00:07:15,470 --> 00:07:18,250
+magnetisiert. Auch bei den optischen
+
+203
+00:07:18,250 --> 00:07:19,330
+Eigenschaften spielt das
+
+204
+00:07:19,330 --> 00:07:20,930
+Elektronengas eine entscheidende
+
+205
+00:07:20,930 --> 00:07:23,110
+Rolle. Es reflektiert das Licht
+
+206
+00:07:23,110 --> 00:07:25,650
+nahezu vollständig, was bedeutet,
+
+207
+00:07:25,850 --> 00:07:27,370
+dass das Licht an der Oberfläche
+
+208
+00:07:27,370 --> 00:07:29,690
+gespiegelt wird. Wir nehmen dies als
+
+209
+00:07:29,690 --> 00:07:32,590
+metallischen Glanz wahr. Die geringen
+
+210
+00:07:32,590 --> 00:07:34,510
+Anteile des Lichts, die absorbiert,
+
+211
+00:07:34,530 --> 00:07:37,030
+also verschluckt werden, verursachen
+
+212
+00:07:37,030 --> 00:07:38,790
+die verschiedenen Farben der Metalle.
+
+213
+00:07:39,770 --> 00:07:41,590
+Ich hoffe, dass du nun mehr über die
+
+214
+00:07:41,590 --> 00:07:42,930
+physikalischen Eigenschaften der
+
+215
+00:07:42,930 --> 00:07:45,050
+Metalle weißt. Wenn du noch Fragen zu
+
+216
+00:07:45,050 --> 00:07:46,570
+diesen oder anderen Themen hast,
+
+217
+00:07:46,750 --> 00:07:48,170
+nutze gerne unsere weiteren
+
+218
+00:07:48,170 --> 00:07:50,330
+Lerninhalte im Online-Lerncenter oder
+
+219
+00:07:50,330 --> 00:07:51,910
+wende dich an deine Schülerhilfe vor
+
+220
+00:07:51,910 --> 00:07:53,410
+Ort. Bis zum nächsten Mal!
+

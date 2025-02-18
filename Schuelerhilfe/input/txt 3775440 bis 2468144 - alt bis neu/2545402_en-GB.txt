@@ -1,0 +1,454 @@
+﻿1
+00:00:04,400 --> 00:00:07,100
+Hello, my name is Joshua and I 
+
+2
+00:00:07,100 --> 00:00:08,160
+am a tutor 
+
+3
+00:00:08,160 --> 00:00:09,980
+at Schülerhilfe. Today I would like to 
+explain to you 
+
+4
+00:00:09,980 --> 00:00:11,660
+what 
+
+5
+00:00:11,660 --> 00:00:14,020
+proteins are all about in biology . As a 
+basis for 
+
+6
+00:00:14,020 --> 00:00:15,500
+this topic, you will 
+
+7
+00:00:15,500 --> 00:00:17,540
+of course also find a 
+
+8
+00:00:17,540 --> 00:00:21,040
+wiki in our online learning center. 
+Proteins 
+
+9
+00:00:21,040 --> 00:00:23,040
+
+10
+00:00:23,040 --> 00:00:24,760
+are a main component of our 
+
+11
+00:00:24,760 --> 00:00:26,940
+diet alongside fats, carbohydrates and 
+sugars . Protein-rich 
+
+12
+00:00:26,940 --> 00:00:28,180
+foods include 
+
+13
+00:00:28,180 --> 00:00:31,360
+meat, lentils and nuts. 
+
+14
+00:00:31,360 --> 00:00:32,640
+Based on this list alone, we 
+
+15
+00:00:32,640 --> 00:00:33,740
+can conclude that there are 
+
+16
+00:00:33,740 --> 00:00:35,220
+different types of proteins 
+
+17
+00:00:35,220 --> 00:00:37,180
+. In fact, 
+
+18
+00:00:37,180 --> 00:00:38,300
+in addition to their function as a 
+
+19
+00:00:38,300 --> 00:00:40,080
+source of nutrients , proteins also 
+fulfill these 
+
+20
+00:00:40,080 --> 00:00:43,620
+tasks. 1. as catalysts in 
+
+21
+00:00:43,620 --> 00:00:45,540
+chemical reactions in the form of 
+
+22
+00:00:45,540 --> 00:00:48,580
+enzymes. 2. they enable our 
+
+23
+00:00:48,580 --> 00:00:49,820
+movement due to 
+
+24
+00:00:49,820 --> 00:00:52,460
+muscle filaments. 3. as a 
+
+25
+00:00:52,460 --> 00:00:56,440
+scaffolding substance, e.g. for hair. 4. 
+as a 
+
+26
+00:00:56,440 --> 00:00:59,220
+transport molecule such as haemoglobin. 
+And 
+
+27
+00:00:59,220 --> 00:01:01,400
+fifthly, as part of our 
+
+28
+00:01:01,400 --> 00:01:03,600
+immune system in the form of antibodies. 
+
+29
+00:01:04,040 --> 00:01:05,540
+But what are proteins anyway? 
+
+30
+00:01:06,580 --> 00:01:08,580
+Proteins are macromolecules 
+
+31
+00:01:08,580 --> 00:01:11,280
+made up of amino acids. This is 
+
+32
+00:01:11,280 --> 00:01:12,900
+the general structural formula 
+
+33
+00:01:12,900 --> 00:01:15,100
+of an amino acid. There is the 
+
+34
+00:01:15,100 --> 00:01:18,180
+central C atom, which is joined by an H 
+atom, 
+
+35
+00:01:18,240 --> 00:01:21,540
+an amino group, a carboxyl group 
+
+36
+00:01:21,540 --> 00:01:23,480
+and an organic residue in this 
+
+37
+00:01:23,480 --> 00:01:27,140
+constellation. Now 
+
+38
+00:01:27,140 --> 00:01:28,580
+you know the basic building blocks of a 
+
+39
+00:01:28,580 --> 00:01:30,480
+protein, but 
+
+40
+00:01:30,480 --> 00:01:32,320
+we are still a long way from the actual 
+macromolecule 
+
+41
+00:01:32,320 --> 00:01:34,800
+. This is 
+
+42
+00:01:34,800 --> 00:01:36,540
+only the case when at least 
+
+43
+00:01:36,540 --> 00:01:38,440
+100 amino acids 
+
+44
+00:01:38,440 --> 00:01:41,620
+have been linked together. The linking 
+
+45
+00:01:41,620 --> 00:01:43,480
+of two amino acids takes place via the 
+
+46
+00:01:43,480 --> 00:01:46,100
+so-called peptide bonds. Here, 
+
+47
+00:01:46,100 --> 00:01:48,540
+an H atom of the amino group 
+
+48
+00:01:48,540 --> 00:01:50,380
+of one amino acid reacts with the OH 
+
+49
+00:01:50,380 --> 00:01:52,440
+ group of the other amino acid to form 
+
+50
+00:01:52,440 --> 00:01:55,000
+water and a direct 
+
+51
+00:01:55,000 --> 00:01:57,700
+bond is formed between the N and C atoms 
+of 
+
+52
+00:01:57,700 --> 00:01:59,940
+the two groups. The newly 
+
+53
+00:01:59,940 --> 00:02:01,860
+formed molecule is called a di 
+
+54
+00:02:01,860 --> 00:02:04,180
+-peptide. This process 
+
+55
+00:02:04,180 --> 00:02:05,760
+can be repeated as often as required 
+
+56
+00:02:05,760 --> 00:02:07,340
+until a polypeptide is finally 
+
+57
+00:02:07,340 --> 00:02:09,920
+formed . In a protein, 
+
+58
+00:02:09,920 --> 00:02:11,560
+the polypeptide chain forms the 
+
+59
+00:02:11,560 --> 00:02:13,400
+primary structure, whereby the sequence of 
+the 
+
+60
+00:02:13,400 --> 00:02:15,080
+individual amino acids 
+
+61
+00:02:15,080 --> 00:02:17,380
+is decisive . The chain arranges 
+
+62
+00:02:17,380 --> 00:02:19,020
+
+63
+00:02:19,020 --> 00:02:21,200
+itself locally into three-dimensional 
+structures due to hydrogen bonds 
+
+64
+00:02:21,200 --> 00:02:23,480
+. The best-known forms include 
+
+65
+00:02:23,480 --> 00:02:25,120
+the alpha-helix and the 
+
+66
+00:02:25,120 --> 00:02:27,420
+ beta-pleated sheet. Together with 
+
+67
+00:02:27,420 --> 00:02:28,320
+other forms , they form the 
+
+68
+00:02:28,320 --> 00:02:30,100
+secondary structures. The 
+
+69
+00:02:30,100 --> 00:02:31,960
+tertiary structure is formed by an 
+
+70
+00:02:31,960 --> 00:02:33,820
+asymmetrical arrangement of 
+
+71
+00:02:33,820 --> 00:02:35,900
+ alpha-helixes and beta-pleated sheets 
+
+72
+00:02:35,900 --> 00:02:38,580
+within a polypeptide chain. This is 
+
+73
+00:02:38,580 --> 00:02:39,120
+achieved by 
+
+74
+00:02:39,120 --> 00:02:40,980
+hydrogen bonding, Van der 
+
+75
+00:02:40,980 --> 00:02:42,120
+Waals bonding and 
+
+76
+00:02:42,120 --> 00:02:44,200
+electron pair bonding. Some 
+
+77
+00:02:44,200 --> 00:02:46,320
+proteins are already complete. 
+
+78
+00:02:46,340 --> 00:02:48,620
+In the quaternary structure, 
+
+79
+00:02:48,620 --> 00:02:50,560
+several polypeptide chains arrange 
+themselves into a 
+
+80
+00:02:50,560 --> 00:02:52,580
+common protein complex. 
+
+81
+00:02:52,880 --> 00:02:55,000
+The protein shown here 
+
+82
+00:02:55,000 --> 00:02:58,320
+is haemoglobin. To conclude, here 
+
+83
+00:02:58,320 --> 00:02:59,520
+are the most important 
+
+84
+00:02:59,520 --> 00:03:02,360
+points about proteins. They have 
+
+85
+00:03:02,360 --> 00:03:04,260
+a variety of functions and consist 
+
+86
+00:03:04,260 --> 00:03:06,200
+of several hundred amino acids. 
+
+87
+00:03:06,400 --> 00:03:07,600
+They have different 
+
+88
+00:03:07,600 --> 00:03:09,560
+structural levels, which 
+
+89
+00:03:09,560 --> 00:03:11,320
+have the following hierarchical 
+arrangement. 
+
+90
+00:03:11,940 --> 00:03:14,640
+Primary structure, the polypeptide chain, 
+
+91
+00:03:14,740 --> 00:03:18,200
+secondary structures, local, spatial 
+
+92
+00:03:18,200 --> 00:03:19,440
+structures within the 
+
+93
+00:03:19,440 --> 00:03:21,800
+polypeptide chain such as alpha-helix and 
+
+94
+00:03:21,800 --> 00:03:24,640
+beta-pleated sheet, the tertiary 
+structure, 
+
+95
+00:03:24,640 --> 00:03:26,840
+i.e. the spatial arrangement of the 
+
+96
+00:03:26,840 --> 00:03:29,120
+entire polypeptide chain, already 
+
+97
+00:03:29,120 --> 00:03:30,860
+sufficient to obtain a 
+
+98
+00:03:30,860 --> 00:03:33,400
+single-chain protein and the 
+
+99
+00:03:33,400 --> 00:03:35,260
+quaternary structure, i.e. the spatial 
+
+100
+00:03:35,260 --> 00:03:36,460
+combination of several 
+
+101
+00:03:36,460 --> 00:03:38,360
+polypeptide groups to form a 
+
+102
+00:03:38,360 --> 00:03:40,920
+protein complex. I hope that I 
+
+103
+00:03:40,920 --> 00:03:42,640
+have been able to help you understand the 
+topic of proteins 
+
+104
+00:03:42,640 --> 00:03:44,640
+. In order to 
+
+105
+00:03:44,640 --> 00:03:46,260
+deepen the content even further, 
+
+106
+00:03:46,260 --> 00:03:47,880
+there are of course 
+
+107
+00:03:47,880 --> 00:03:49,740
+other learning opportunities available to 
+you in the online learning center, 
+
+108
+00:03:49,900 --> 00:03:51,160
+such as interactive 
+
+109
+00:03:51,160 --> 00:03:53,380
+tasks, worksheets or 
+
+110
+00:03:53,380 --> 00:03:54,080
+webinars. 

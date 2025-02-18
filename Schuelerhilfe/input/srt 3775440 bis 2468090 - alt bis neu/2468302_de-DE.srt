@@ -1,0 +1,2292 @@
+1
+00:00:01,390 --> 00:00:03,150
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,150 --> 00:00:06,510
+Prozent- und Zinsesrechnung. Wir
+
+3
+00:00:06,510 --> 00:00:08,150
+werden in diesem Webinar zuerst
+
+4
+00:00:08,150 --> 00:00:09,430
+einmal die Prozentrechnung
+
+5
+00:00:09,430 --> 00:00:12,070
+aufgreifen. Wir werden sie anhand von
+
+6
+00:00:12,070 --> 00:00:13,450
+Beispielaufgaben mit dem Dreisatz
+
+7
+00:00:13,450 --> 00:00:15,710
+lösen und auch die Formeln für die
+
+8
+00:00:15,710 --> 00:00:17,110
+Prozentrechnung einmal vorführen.
+
+9
+00:00:17,830 --> 00:00:19,410
+Danach werden wir uns anschließend
+
+10
+00:00:19,410 --> 00:00:20,890
+der Zinsrechnung widmen. Die
+
+11
+00:00:20,890 --> 00:00:22,250
+Zinsrechnung ist eigentlich nur eine
+
+12
+00:00:22,250 --> 00:00:23,250
+abgewandelte Form der
+
+13
+00:00:23,250 --> 00:00:25,310
+Prozentrechnung. Wir werden uns die
+
+14
+00:00:25,310 --> 00:00:27,310
+Jahreszinsen, die Monatszinsen, die
+
+15
+00:00:27,310 --> 00:00:29,190
+Tageszinsen und zum Schluss auch noch
+
+16
+00:00:29,190 --> 00:00:32,090
+die Zinseszinsen anschauen. Und wir
+
+17
+00:00:32,090 --> 00:00:33,350
+werden dann auch die Parallelen
+
+18
+00:00:33,350 --> 00:00:34,970
+zwischen der Prozentrechnung und der
+
+19
+00:00:34,970 --> 00:00:37,950
+Zinsrechnung sehen. Alles werden wir
+
+20
+00:00:37,950 --> 00:00:39,290
+anhand eines kleinen Beispiels
+
+21
+00:00:39,290 --> 00:00:41,390
+behandeln. Das werdet ihr dann gleich
+
+22
+00:00:41,390 --> 00:00:43,890
+sehen. Fangen wir an mit den
+
+23
+00:00:43,890 --> 00:00:46,310
+Grundbegriffen der Prozentrechnung.
+
+24
+00:00:47,430 --> 00:00:49,390
+In einer Klasse befinden sich 30
+
+25
+00:00:49,390 --> 00:00:52,030
+Schüler. Von diesen kommen 6 mit dem
+
+26
+00:00:52,030 --> 00:00:53,610
+Fahrrad zur Schule. Das entspricht
+
+27
+00:00:53,610 --> 00:00:55,830
+20%. Wir haben erstmal drei Angaben.
+
+28
+00:00:56,550 --> 00:00:58,670
+Und diese drei Angaben gibt es auch
+
+29
+00:00:58,670 --> 00:00:59,670
+in der Prozentrechnung. Das ist
+
+30
+00:00:59,670 --> 00:01:01,610
+einerseits der Grundwert, der
+
+31
+00:01:01,610 --> 00:01:03,930
+Prozentwert und der Prozentsatz. Der
+
+32
+00:01:03,930 --> 00:01:09,390
+Grundwert hat den Buchstaben G, der
+
+33
+00:01:09,390 --> 00:01:13,530
+Prozentwert W und der Prozentsatz P%.
+
+34
+00:01:16,360 --> 00:01:19,520
+Jetzt geht es darum, diese drei
+
+35
+00:01:19,520 --> 00:01:23,640
+Informationen G, W und P% aus diesem
+
+36
+00:01:23,640 --> 00:01:26,560
+Text zu finden. Der Grundwert ist
+
+37
+00:01:26,560 --> 00:01:28,600
+immer das Ganze, also alles zusammen.
+
+38
+00:01:29,380 --> 00:01:31,620
+Das heißt bei uns die Anzahl der in
+
+39
+00:01:31,620 --> 00:01:33,880
+der Klasse befindlichen Schüler. Das
+
+40
+00:01:33,880 --> 00:01:36,220
+sind bei uns 30, heißt unser G ist 30
+
+41
+00:01:36,220 --> 00:01:39,700
+Schüler. Der Prozentwert ist der
+
+42
+00:01:39,700 --> 00:01:42,300
+Anteil, der Anteil vom Ganzen, aber
+
+43
+00:01:42,300 --> 00:01:46,420
+nicht im Prozent, sondern als Zahl.
+
+44
+00:01:47,660 --> 00:01:50,420
+Das heißt bei uns kommen sechs
+
+45
+00:01:50,420 --> 00:01:54,160
+Schüler mit dem Fahrrad. Und das ist
+
+46
+00:01:54,160 --> 00:01:56,580
+der Anteil von den 30. Das heißt,
+
+47
+00:01:56,680 --> 00:02:00,940
+unser 6 ist der Prozentwert. Der
+
+48
+00:02:00,940 --> 00:02:03,540
+Prozentsatz ist das Verhältnis. Es
+
+49
+00:02:03,540 --> 00:02:04,820
+ist auch immer das mit dem Prozent
+
+50
+00:02:04,820 --> 00:02:07,120
+dran. Kann man sich vielleicht so
+
+51
+00:02:07,120 --> 00:02:09,260
+merken und wird einem immer gut
+
+52
+00:02:09,260 --> 00:02:13,600
+helfen. Und das sind bei uns 20%.
+
+53
+00:02:15,680 --> 00:02:17,460
+Normalerweise werden einem nur zwei
+
+54
+00:02:17,460 --> 00:02:19,660
+von diesen drei Werten gegeben. Der
+
+55
+00:02:19,660 --> 00:02:21,820
+dritte ist immer zu bestimmen. Und
+
+56
+00:02:21,820 --> 00:02:24,120
+zwar... kann man G-, W- und P-Prozent
+
+57
+00:02:24,120 --> 00:02:25,940
+rechnerisch bestimmen. Dazu gibt es
+
+58
+00:02:25,940 --> 00:02:27,480
+einerseits, wie anfangs gesagt, die
+
+59
+00:02:27,480 --> 00:02:29,340
+Formeln und andererseits kann man
+
+60
+00:02:29,340 --> 00:02:30,840
+dies auch über den Dreisatz lösen.
+
+61
+00:02:31,120 --> 00:02:33,840
+Wir zeigen es im Folgenden, also hier
+
+62
+00:02:33,840 --> 00:02:35,480
+jetzt erstmal mit dem Dreisatz und
+
+63
+00:02:35,480 --> 00:02:37,000
+danach führen wir einmal die Formeln
+
+64
+00:02:37,000 --> 00:02:39,440
+vor. Bitte beachten, wir haben jetzt
+
+65
+00:02:39,440 --> 00:02:40,660
+hier einen anderen Sachverhalt. Und
+
+66
+00:02:40,660 --> 00:02:44,860
+zwar von 250 Schülern wählen 44% das
+
+67
+00:02:44,860 --> 00:02:46,820
+Gericht A von der Speisekarte ihrer
+
+68
+00:02:46,820 --> 00:02:49,140
+Kantine. Das heißt, wir müssen jetzt
+
+69
+00:02:49,140 --> 00:02:51,200
+erstmal überlegen, was sind die 250
+
+70
+00:02:51,200 --> 00:02:55,340
+und was sind die 44%? 250 Schüler,
+
+71
+00:02:55,500 --> 00:02:57,580
+das ist die Gesamtzahl, das heißt, es
+
+72
+00:02:57,580 --> 00:03:01,580
+ist unser G. Und 44% ist der
+
+73
+00:03:01,580 --> 00:03:03,220
+prozentuale Anteil, das heißt, es ist
+
+74
+00:03:03,220 --> 00:03:06,860
+unser P%. Was uns fehlt, ist dann der
+
+75
+00:03:06,860 --> 00:03:10,340
+Prozentwert W. Also wie viele Schüler
+
+76
+00:03:10,340 --> 00:03:11,880
+letztendlich das Gericht wird. Wir
+
+77
+00:03:11,880 --> 00:03:13,940
+wissen, 44% der Schüler. Die Frage
+
+78
+00:03:13,940 --> 00:03:15,820
+ist nun, wie viele Schüler sind das
+
+79
+00:03:15,820 --> 00:03:18,320
+jetzt? und das können wir mit so
+
+80
+00:03:18,320 --> 00:03:20,800
+einem Dreisatz lösen. Wir wissen, 100
+
+81
+00:03:20,800 --> 00:03:24,080
+% der Schüler entsprechen 250. Als
+
+82
+00:03:24,080 --> 00:03:27,440
+erstes gehen wir dann auf 1% runter,
+
+83
+00:03:27,600 --> 00:03:30,340
+das heißt wir teilen durch 100. Das
+
+84
+00:03:30,340 --> 00:03:31,680
+machen wir auf beiden Seiten, wie es
+
+85
+00:03:31,680 --> 00:03:33,820
+als üblich ist. Das ist eine quasi
+
+86
+00:03:33,820 --> 00:03:37,040
+-proportionale Zuordnung. Das heißt,
+
+87
+00:03:37,080 --> 00:03:38,260
+wir teilen auf beiden Seiten durch
+
+88
+00:03:38,260 --> 00:03:41,340
+100. 1% sind dann 2,5 Schüler und wir
+
+89
+00:03:41,340 --> 00:03:42,900
+wissen, wir haben 44, deswegen
+
+90
+00:03:42,900 --> 00:03:45,260
+multiplizieren wir mit 44 um auf...
+
+91
+00:03:45,280 --> 00:03:47,980
+44 Prozent zu kommen. Wir wissen nun,
+
+92
+00:03:48,060 --> 00:03:50,560
+dass 110 Schüler 44 Prozent
+
+93
+00:03:50,560 --> 00:03:53,340
+entsprechen, also wählen 110 Schüler
+
+94
+00:03:53,340 --> 00:03:54,480
+das Gericht A.
+
+95
+00:03:57,580 --> 00:03:59,040
+Natürlich kann man die Frage jetzt
+
+96
+00:03:59,040 --> 00:04:01,740
+auch andersrum stellen. 44 Prozent
+
+97
+00:04:01,740 --> 00:04:03,440
+aller Schüler essen das Gericht A von
+
+98
+00:04:03,440 --> 00:04:05,240
+der Speisekarte ihrer Kantine. Das
+
+99
+00:04:05,240 --> 00:04:08,920
+sind insgesamt 110 Schüler. In diesem
+
+100
+00:04:08,920 --> 00:04:11,220
+Fall haben wir unseren Prozentwert P
+
+101
+00:04:11,220 --> 00:04:14,320
+Prozent gegeben, 44 Prozent aller Und
+
+102
+00:04:14,320 --> 00:04:16,860
+jetzt heißt es, das sind insgesamt
+
+103
+00:04:16,860 --> 00:04:19,600
+110. Das heißt, 110 Schüler
+
+104
+00:04:19,600 --> 00:04:21,860
+entsprechen 44%. Das ist nicht die
+
+105
+00:04:21,860 --> 00:04:26,020
+Gesamtheit. Daher sind die 110 unser
+
+106
+00:04:26,020 --> 00:04:29,180
+Prozent wert. Gesucht ist unser
+
+107
+00:04:29,180 --> 00:04:32,140
+Grundwert. Daher müssen wir den
+
+108
+00:04:32,140 --> 00:04:33,620
+Dreisatz jetzt auch anders
+
+109
+00:04:33,620 --> 00:04:37,600
+aufstellen. Wir wissen, 44% sind 110.
+
+110
+00:04:38,240 --> 00:04:40,100
+Zuerst gehen wir, wie fast immer beim
+
+111
+00:04:40,100 --> 00:04:42,540
+Dreisatz, auf 1 runter, also auf 1%.
+
+112
+00:04:42,700 --> 00:04:45,020
+in dem Fall. Wir teilen also beides
+
+113
+00:04:45,020 --> 00:04:48,800
+durch 44. Dann wissen wir, 1% sind 2
+
+114
+00:04:48,800 --> 00:04:52,180
+,5. Nun möchten wir ja wissen, wie
+
+115
+00:04:52,180 --> 00:04:54,140
+viele Schüler die Schule insgesamt
+
+116
+00:04:54,140 --> 00:04:56,820
+hat. Also wir wollen 100% bestimmen.
+
+117
+00:04:56,820 --> 00:04:58,320
+Deswegen gehen wir wieder auf 100.
+
+118
+00:04:59,540 --> 00:05:00,860
+Multiplizieren also mit 100, kommen
+
+119
+00:05:00,860 --> 00:05:03,760
+so zu 100%. Wir multiplizieren
+
+120
+00:05:03,760 --> 00:05:05,240
+selbstbestimmt auf beiden Seiten mit
+
+121
+00:05:05,240 --> 00:05:07,480
+100 und kommen dann zu dem Ergebnis,
+
+122
+00:05:07,580 --> 00:05:11,600
+100% sind 250. Folglich wissen wir,
+
+123
+00:05:11,700 --> 00:05:14,420
+Die Schule hat insgesamt 250 Schüler.
+
+124
+00:05:15,000 --> 00:05:17,060
+Das wäre die Antwort auf diese Frage.
+
+125
+00:05:19,480 --> 00:05:20,940
+Zu guter Letzt können wir natürlich
+
+126
+00:05:20,940 --> 00:05:23,860
+noch unser P-Prozent berechnen. Eine
+
+127
+00:05:23,860 --> 00:05:25,380
+Aufgabenstellung dazu könnte sein,
+
+128
+00:05:25,480 --> 00:05:29,000
+110 von den gesamten 250 Schülern
+
+129
+00:05:29,000 --> 00:05:31,420
+wählen in der Kantine das Gericht A.
+
+130
+00:05:31,720 --> 00:05:34,800
+Man sieht sofort, 110 von den
+
+131
+00:05:34,800 --> 00:05:37,400
+gesamten 250 Schülern. Das heißt, es
+
+132
+00:05:37,400 --> 00:05:40,260
+wird uns der Prozentwert gegeben und
+
+133
+00:05:40,260 --> 00:05:44,920
+der Grundwert. jedoch fehlt, ist der
+
+134
+00:05:44,920 --> 00:05:47,880
+prozentuale Anteil, unser p-Prozent.
+
+135
+00:05:48,900 --> 00:05:50,580
+Dieses müssen wir nun im Folgenden
+
+136
+00:05:50,580 --> 00:05:54,520
+berechnen. Wir wissen natürlich, die
+
+137
+00:05:54,520 --> 00:05:57,020
+Schule hat insgesamt 250 Schüler. Das
+
+138
+00:05:57,020 --> 00:06:01,000
+heißt, 100 Prozent sind 250. Wir
+
+139
+00:06:01,000 --> 00:06:02,080
+orientieren uns jetzt aber hier an
+
+140
+00:06:02,080 --> 00:06:04,840
+der rechten Spalte, denn wir wollen
+
+141
+00:06:04,840 --> 00:06:06,580
+am Ende auf 110 Schüler hochgehen.
+
+142
+00:06:06,700 --> 00:06:08,280
+Das heißt, wir rechnen erstmal aus,
+
+143
+00:06:08,340 --> 00:06:09,460
+wie viel Wie viel Prozent ist denn
+
+144
+00:06:09,460 --> 00:06:11,720
+ein Schüler? Also teilen wir durch
+
+145
+00:06:11,720 --> 00:06:13,880
+250 und wir wissen, ein Schüler sind
+
+146
+00:06:13,880 --> 00:06:17,780
+0,4 Prozent. Danach multiplizieren
+
+147
+00:06:17,780 --> 00:06:19,280
+wir mit 110, damit wir auf 110
+
+148
+00:06:19,280 --> 00:06:22,480
+Schüler kommen. Und 110 sind 44
+
+149
+00:06:22,480 --> 00:06:26,780
+Prozent. Folglich wissen wir, dass 44
+
+150
+00:06:26,780 --> 00:06:29,320
+Prozent aller Schüler das Gericht A
+
+151
+00:06:29,320 --> 00:06:32,080
+wählen. Und das ist dann auch schon
+
+152
+00:06:32,080 --> 00:06:33,880
+die Antwort auf die Frage. Man sieht
+
+153
+00:06:33,880 --> 00:06:36,140
+also, wenn man zwei Angaben kennt,
+
+154
+00:06:36,300 --> 00:06:37,600
+kann man die dritte jeweils immer...
+
+155
+00:06:37,660 --> 00:06:40,440
+berechnen und es gibt drei Wege, die
+
+156
+00:06:40,440 --> 00:06:42,360
+man gehen kann. Also entweder W ist
+
+157
+00:06:42,360 --> 00:06:44,400
+unbekannt oder G ist unbekannt oder P
+
+158
+00:06:44,400 --> 00:06:45,860
+% ist unbekannt. Das sind die drei
+
+159
+00:06:45,860 --> 00:06:48,080
+Möglichkeiten, die man hat und das
+
+160
+00:06:48,080 --> 00:06:49,540
+kann man einerseits über den Dreisatz
+
+161
+00:06:49,540 --> 00:06:50,840
+lösen, wie wir es hier vorgeführt
+
+162
+00:06:50,840 --> 00:06:53,220
+haben und die andere Möglichkeit ist
+
+163
+00:06:53,220 --> 00:06:56,360
+es mittels der Formeln zu lösen. Für
+
+164
+00:06:56,360 --> 00:06:58,220
+jeden dieser einzelnen drei Fälle
+
+165
+00:06:58,220 --> 00:07:00,140
+gibt es natürlich eine Formel. Einmal
+
+166
+00:07:00,140 --> 00:07:01,900
+für den Grundwert, wenn der
+
+167
+00:07:01,900 --> 00:07:03,340
+Prozentwert W gesucht wird, die
+
+168
+00:07:03,340 --> 00:07:04,920
+Formel. Einmal, wenn der Grundwert G
+
+169
+00:07:04,920 --> 00:07:06,900
+gesucht wird und die Formel für den
+
+170
+00:07:06,900 --> 00:07:08,800
+Prozentwert. Wir haben hier hinten
+
+171
+00:07:08,800 --> 00:07:11,560
+immer einmal die Daten von den
+
+172
+00:07:11,560 --> 00:07:14,500
+Übungsaufgaben eingetragen. Das
+
+173
+00:07:14,500 --> 00:07:17,080
+bedeutet, wenn wir den Prozentwert W
+
+174
+00:07:17,080 --> 00:07:19,240
+suchen, ist es einfach der Grundwert
+
+175
+00:07:19,240 --> 00:07:22,720
+mal unser p% durch 100. Wir hatten
+
+176
+00:07:22,720 --> 00:07:24,440
+bei der ersten, Wir hatten ja in den
+
+177
+00:07:24,440 --> 00:07:26,340
+Aufgaben vorhin den Sachverhalt, wir
+
+178
+00:07:26,340 --> 00:07:29,500
+haben 250 Schüler und 44% wählen das
+
+179
+00:07:29,500 --> 00:07:32,280
+Gericht A. Wenn wir jetzt ausrechnen
+
+180
+00:07:32,280 --> 00:07:34,200
+wollten, wie viele das sind, dann
+
+181
+00:07:34,200 --> 00:07:37,260
+würden wir rechnen 250 mal 44 durch
+
+182
+00:07:37,260 --> 00:07:40,360
+100. Das ist 110, genau das Ergebnis,
+
+183
+00:07:40,560 --> 00:07:42,460
+was wir auch vorhin mittels der
+
+184
+00:07:42,460 --> 00:07:45,280
+Tabelle errechnet haben. Wenn wir den
+
+185
+00:07:45,280 --> 00:07:47,820
+Grundwert G suchen, G ist gleich W
+
+186
+00:07:47,820 --> 00:07:53,060
+mal 100 durch P%. Wenn wir den
+
+187
+00:07:53,060 --> 00:07:54,940
+Grundwert berechnen wollen, ist es
+
+188
+00:07:54,940 --> 00:07:57,320
+gleich unser Prozentwert mal 100
+
+189
+00:07:57,320 --> 00:08:00,800
+geteilt durch unser Prozentsatz. Also
+
+190
+00:08:00,800 --> 00:08:03,680
+bei uns gerade, wir hatten 110
+
+191
+00:08:03,680 --> 00:08:05,540
+Schüler neben Gericht A, das waren
+
+192
+00:08:05,540 --> 00:08:08,320
+44%. Das heißt, unser 110 war unser
+
+193
+00:08:08,320 --> 00:08:11,860
+Prozentwert und 44 unser Prozentsatz.
+
+194
+00:08:11,940 --> 00:08:15,120
+Und so kommen wir zu 110 mal 100
+
+195
+00:08:15,120 --> 00:08:19,540
+durch 44 und das sind 250 wieder. Das
+
+196
+00:08:19,540 --> 00:08:20,940
+heißt, wir wüssten dann, die
+
+197
+00:08:20,940 --> 00:08:25,480
+Schüler... insgesamt 250 Schüler. Zu
+
+198
+00:08:25,480 --> 00:08:26,520
+guter Letzt hatten wir den
+
+199
+00:08:26,520 --> 00:08:29,160
+Prozentwert p% berechnet. Dieser
+
+200
+00:08:29,160 --> 00:08:32,480
+berechnet sich einfach durch 100 mal
+
+201
+00:08:32,480 --> 00:08:35,460
+Prozentwert geteilt durch Grundwert.
+
+202
+00:08:35,680 --> 00:08:37,580
+Also wir hatten zuletzt ja die Frage
+
+203
+00:08:37,580 --> 00:08:41,140
+110 von 52 Schülern neben Gericht A.
+
+204
+00:08:41,220 --> 00:08:43,480
+Wie viel Prozent sind das? 110 war ja
+
+205
+00:08:43,480 --> 00:08:44,540
+unser Unser Prozentwert, unser
+
+206
+00:08:44,540 --> 00:08:47,060
+Grundwert war 250 und so kommen wir
+
+207
+00:08:47,060 --> 00:08:50,920
+auf 100 mal 110 durch 250 und das
+
+208
+00:08:50,920 --> 00:08:53,920
+sind 44 Prozent. Hier sieht man
+
+209
+00:08:53,920 --> 00:08:56,040
+nochmal, man muss immer zwei Größen
+
+210
+00:08:56,040 --> 00:08:57,500
+einsetzen, um die dritte zu
+
+211
+00:08:57,500 --> 00:08:59,640
+berechnen. Und für jeden Fall gibt es
+
+212
+00:08:59,640 --> 00:09:02,640
+eine passend umgestellte Form. Man
+
+213
+00:09:02,640 --> 00:09:03,960
+kann natürlich sich einfach nur eine
+
+214
+00:09:03,960 --> 00:09:05,160
+merken und die Formel dann immer
+
+215
+00:09:05,160 --> 00:09:06,380
+entsprechend umstellen. Das ist
+
+216
+00:09:06,380 --> 00:09:07,840
+natürlich ein bisschen mehr
+
+217
+00:09:07,840 --> 00:09:09,460
+Rechenarbeit, aber auch durchaus
+
+218
+00:09:09,460 --> 00:09:13,900
+möglich. Damit kommen wir nun auch
+
+219
+00:09:13,900 --> 00:09:14,980
+zur Zählung. Zinsrechnung,
+
+220
+00:09:15,000 --> 00:09:17,020
+beziehungsweise den Grundbegriffen
+
+221
+00:09:17,020 --> 00:09:20,660
+zur Zinsrechnung. Die Zinsrechnung
+
+222
+00:09:20,660 --> 00:09:22,060
+ist im Grunde genommen nichts weiter
+
+223
+00:09:22,060 --> 00:09:24,540
+als die Anwendung der Prozentrechnung
+
+224
+00:09:24,540 --> 00:09:27,420
+mit Geld. Wenn man zum Beispiel Geld
+
+225
+00:09:27,420 --> 00:09:29,180
+auf einem Sparkonto deponiert, also
+
+226
+00:09:29,180 --> 00:09:31,980
+ich Geld anlege, dann erhalte ich
+
+227
+00:09:31,980 --> 00:09:34,220
+Geld von der Bank dafür, dass ich das
+
+228
+00:09:34,220 --> 00:09:36,420
+Geld bei denen lagere. Das Geld, was
+
+229
+00:09:36,420 --> 00:09:39,240
+ich von denen zusätzlich kriege,
+
+230
+00:09:39,260 --> 00:09:43,400
+nennt man Zinsen. und die Höhe dieser
+
+231
+00:09:43,400 --> 00:09:46,340
+Zinsen, also wie viel Geld ich
+
+232
+00:09:46,340 --> 00:09:47,460
+letztendlich dafür kriege, ist
+
+233
+00:09:47,460 --> 00:09:49,020
+abhängig, wie lange ich das Geld da
+
+234
+00:09:49,020 --> 00:09:53,720
+lasse. Das ist ganz wichtig. Diese
+
+235
+00:09:53,720 --> 00:09:56,140
+Zinsen werden immer prozentual
+
+236
+00:09:56,140 --> 00:09:57,400
+berechnet, das heißt, ich kriege
+
+237
+00:09:57,400 --> 00:09:59,080
+einen gewissen Prozentsatz pro Jahr
+
+238
+00:09:59,080 --> 00:10:00,480
+für mein Geld, was ich bei denen
+
+239
+00:10:00,480 --> 00:10:02,460
+lagere. Das heißt natürlich, wenn ich
+
+240
+00:10:02,460 --> 00:10:04,220
+mein Geld länger bei denen deponiere,
+
+241
+00:10:04,360 --> 00:10:06,300
+kriege ich entsprechend mehr, weil
+
+242
+00:10:06,300 --> 00:10:07,560
+ich es über mehrere Jahre hinweg
+
+243
+00:10:07,560 --> 00:10:11,700
+mache. Und es gibt natürlich auch das
+
+244
+00:10:11,700 --> 00:10:14,520
+Gegenbeispiel. Also ich kann nicht
+
+245
+00:10:14,520 --> 00:10:16,160
+nur Geld bei der Bank anlegen, ich
+
+246
+00:10:16,160 --> 00:10:19,020
+kann mir auch Geld leihen. Und das
+
+247
+00:10:19,020 --> 00:10:20,340
+ist genau dann das umgekehrte
+
+248
+00:10:20,340 --> 00:10:21,660
+Beispiel. Wenn ich mir Geld von der
+
+249
+00:10:21,660 --> 00:10:23,700
+Bank leihe, muss ich dafür Geld
+
+250
+00:10:23,700 --> 00:10:26,440
+zahlen, weil ich ja quasi eine
+
+251
+00:10:26,440 --> 00:10:29,520
+Dienstleistung in Anspruch nehme. Das
+
+252
+00:10:29,520 --> 00:10:33,860
+heißt also, ich bekomme dann keine
+
+253
+00:10:33,860 --> 00:10:35,780
+Zinsen, sondern ich muss Zinsen
+
+254
+00:10:35,780 --> 00:10:38,140
+zahlen. Ja, da muss man aufpassen.
+
+255
+00:10:38,500 --> 00:10:39,900
+Wenn ich mir Geld leihe, also einen
+
+256
+00:10:39,900 --> 00:10:41,460
+Kredit aufnehme, heißt das, was ich
+
+257
+00:10:41,460 --> 00:10:43,860
+zu zahlen habe, auch Zinsen. Zinsen
+
+258
+00:10:43,860 --> 00:10:45,400
+kann bedeuten, dass ich etwas zahlen
+
+259
+00:10:45,400 --> 00:10:49,040
+muss oder dass ich etwas bekomme. Da
+
+260
+00:10:49,040 --> 00:10:50,260
+muss man immer auf den
+
+261
+00:10:50,260 --> 00:10:52,820
+Sachzusammenhang achten. Das wäre
+
+262
+00:10:52,820 --> 00:10:54,160
+erstmal das Wichtigste zur
+
+263
+00:10:54,160 --> 00:10:56,860
+Zinsrechnung. Wir sehen hier jetzt
+
+264
+00:10:56,860 --> 00:10:58,940
+erstmal die drei Formeln und die drei
+
+265
+00:10:58,940 --> 00:11:01,080
+Sachen, die es da gibt. Es gibt
+
+266
+00:11:01,080 --> 00:11:03,760
+einmal das Kapital K, es gibt die
+
+267
+00:11:03,760 --> 00:11:06,780
+Zinsen Z und den Zinssatz P% wieder.
+
+268
+00:11:06,840 --> 00:11:10,580
+Es ist im Grunde genommen dieselben
+
+269
+00:11:10,580 --> 00:11:13,380
+Formeln, wir haben nur andere
+
+270
+00:11:13,380 --> 00:11:16,480
+Bezeichnungen. Der Grundwert, wie er
+
+271
+00:11:16,480 --> 00:11:17,780
+früher hieß, ist hier auf einmal das
+
+272
+00:11:17,780 --> 00:11:20,240
+Kapital. Das ist das, was ich habe.
+
+273
+00:11:21,800 --> 00:11:25,020
+Die Zinsen, also der Prozentwert,
+
+274
+00:11:25,320 --> 00:11:28,820
+sitzt hier Z. Also was vorher der
+
+275
+00:11:28,820 --> 00:11:30,320
+Prozentwert war. sind hier die
+
+276
+00:11:30,320 --> 00:11:33,040
+Zinsen. Und was vorher der
+
+277
+00:11:33,040 --> 00:11:34,480
+prozentuale Anteil war, ist hier der
+
+278
+00:11:34,480 --> 00:11:35,120
+Zinssatz.
+
+279
+00:11:38,480 --> 00:11:40,040
+Die drei Formeln sieht man auch hier.
+
+280
+00:11:40,080 --> 00:11:41,740
+Wenn ich die Zinsen Z berechnen
+
+281
+00:11:41,740 --> 00:11:43,000
+möchte, habe ich, das ist gleich mein
+
+282
+00:11:43,000 --> 00:11:45,280
+Kapital mal p% durch 100, also die
+
+283
+00:11:45,280 --> 00:11:47,120
+gleiche Formel, wie wir sie für den
+
+284
+00:11:47,120 --> 00:11:49,320
+Prozentwert haben. Wenn ich mein
+
+285
+00:11:49,320 --> 00:11:51,680
+Kapital berechnen möchte, ist das K
+
+286
+00:11:51,680 --> 00:11:55,180
+ist gleich Z und also meine Zinsen
+
+287
+00:11:55,180 --> 00:11:57,700
+mal 100 durch p%, also durch meinen
+
+288
+00:11:57,700 --> 00:11:59,960
+Zinssatz. Das ist quasi die gleiche
+
+289
+00:11:59,960 --> 00:12:01,640
+wie die Berechnung des Prozentwerts.
+
+290
+00:12:02,060 --> 00:12:06,180
+Und p% ist gleich 100 mal z durch k,
+
+291
+00:12:06,340 --> 00:12:07,980
+also meine Zinsen geteilt durch mein
+
+292
+00:12:07,980 --> 00:12:11,060
+Kapital. Es sind wie gesagt die
+
+293
+00:12:11,060 --> 00:12:13,040
+gleichen Formeln, nur mit anderen
+
+294
+00:12:13,040 --> 00:12:16,640
+Bezeichnungen. Und diese werden wir
+
+295
+00:12:16,640 --> 00:12:20,240
+uns im Folgenden mal anschauen. Und
+
+296
+00:12:20,240 --> 00:12:22,920
+zwar, Johannes hat zu Beginn des
+
+297
+00:12:22,920 --> 00:12:24,740
+Jahres 5000 Euro bei einer Bank
+
+298
+00:12:24,740 --> 00:12:27,060
+angelegt. Der Zinssatz beträgt 3,5.
+
+299
+00:12:27,180 --> 00:12:29,460
+Prozent. Wie viele Zinsen erhält er
+
+300
+00:12:29,460 --> 00:12:31,020
+am Ende des Jahres? Also Zinsen
+
+301
+00:12:31,020 --> 00:12:32,520
+werden immer pro Jahr ausgeschüttet
+
+302
+00:12:32,520 --> 00:12:35,460
+oder angegeben und der Johannes hat
+
+303
+00:12:35,460 --> 00:12:38,020
+ja 5.000 Euro angelegt zu 3,5 Prozent
+
+304
+00:12:38,020 --> 00:12:40,480
+Zinsen. Und die Frage ist jetzt, wie
+
+305
+00:12:40,480 --> 00:12:42,340
+viele Zinsen er am Ende des Jahres
+
+306
+00:12:42,340 --> 00:12:44,500
+erhält. Also die Zinsen sind gesucht.
+
+307
+00:12:46,180 --> 00:12:48,580
+Unser Kapital und unser Zinssatz sind
+
+308
+00:12:48,580 --> 00:12:50,860
+uns gegeben. Das heißt, unser Kapital
+
+309
+00:12:50,860 --> 00:12:54,060
+K ist 5.000 und unser zinssatz p
+
+310
+00:12:54,060 --> 00:12:58,940
+prozent ist 3,5 und das können wir
+
+311
+00:12:58,940 --> 00:13:00,220
+jetzt einfach in die passende formel
+
+312
+00:13:00,220 --> 00:13:02,400
+für die zinsen einsetzen die war ja z
+
+313
+00:13:02,400 --> 00:13:04,700
+ist gleich k mal p prozent durch 100
+
+314
+00:13:04,700 --> 00:13:06,940
+also unser kapital mal unser
+
+315
+00:13:06,940 --> 00:13:09,860
+prozentsatz durch 100 heißt bei uns
+
+316
+00:13:09,860 --> 00:13:13,180
+5000 mal 3,5 durch 100 und das sind
+
+317
+00:13:13,180 --> 00:13:15,200
+175 euro das heißt der johannes
+
+318
+00:13:15,200 --> 00:13:17,540
+bekommt am ende des jahres 175 euro
+
+319
+00:13:17,540 --> 00:13:22,020
+beziehungsweise hat 5175 euro
+
+320
+00:13:22,280 --> 00:13:26,080
+Bankkonto nach dieser Zeit. Ein
+
+321
+00:13:26,080 --> 00:13:28,120
+weiteres Beispiel. Maya hat zu Beginn
+
+322
+00:13:28,120 --> 00:13:30,360
+des Jahres 2000 Euro bei einer Bank
+
+323
+00:13:30,360 --> 00:13:32,400
+angelegt. Nach einem Jahr hat sie
+
+324
+00:13:32,400 --> 00:13:35,160
+insgesamt 2200 Euro auf ihrem Konto.
+
+325
+00:13:35,400 --> 00:13:37,080
+Wie hoch war der ursprüngliche
+
+326
+00:13:37,080 --> 00:13:38,680
+Zinssatz? Hier sieht man das, was ich
+
+327
+00:13:38,680 --> 00:13:39,640
+gerade auch einmal schnell gemacht
+
+328
+00:13:39,640 --> 00:13:41,940
+habe. Ich hatte vorhin beim Johannes
+
+329
+00:13:41,940 --> 00:13:43,420
+auch gesagt, er hat nach einem Jahr
+
+330
+00:13:43,420 --> 00:13:46,040
+5175 Euro auf dem Konto, also das Das
+
+331
+00:13:46,040 --> 00:13:47,800
+Geld, was er schon eher auf dem Konto
+
+332
+00:13:47,800 --> 00:13:50,400
+hatte, plus seine Zinsen. Bei der
+
+333
+00:13:50,400 --> 00:13:52,200
+Maya ist es genauso. Sie hat nach
+
+334
+00:13:52,200 --> 00:13:54,640
+einem Jahr 2.200 Euro auf dem Konto.
+
+335
+00:13:55,060 --> 00:13:57,780
+Sie hatte 2.000 Euro angelegt. Das
+
+336
+00:13:57,780 --> 00:14:01,900
+heißt, ihre Zinsen sind 200 Euro.
+
+337
+00:14:04,710 --> 00:14:06,590
+Da muss man drauf aufpassen. Man hat
+
+338
+00:14:06,590 --> 00:14:08,090
+hier nicht die Zinsen angegeben,
+
+339
+00:14:08,130 --> 00:14:09,910
+sondern einfach nur den Kontostand
+
+340
+00:14:09,910 --> 00:14:12,430
+nach einem Jahr. Und der Kontostand
+
+341
+00:14:12,430 --> 00:14:14,470
+nach einem Jahr minus der
+
+342
+00:14:14,470 --> 00:14:16,370
+ursprüngliche Kontostand ist dann
+
+343
+00:14:16,370 --> 00:14:18,790
+halt... Die Zinsen, das sind bei der
+
+344
+00:14:18,790 --> 00:14:22,650
+Maya dann 200 Euro. Und wir wollen
+
+345
+00:14:22,650 --> 00:14:24,350
+den Zinssatz der Maya berechnen. Wir
+
+346
+00:14:24,350 --> 00:14:26,510
+kennen ihre Zinsen und wir kennen ihr
+
+347
+00:14:26,510 --> 00:14:28,510
+Kapital. Also Zinsen waren 200 Euro,
+
+348
+00:14:28,590 --> 00:14:31,730
+Kapital waren 2000 Euro. Und damit
+
+349
+00:14:31,730 --> 00:14:33,630
+können wir jetzt nun die Formel des
+
+350
+00:14:33,630 --> 00:14:36,550
+Zinssatzes P% bemühen. Der berechnet
+
+351
+00:14:36,550 --> 00:14:39,190
+sich zu 100 mal die Zinsen durch das
+
+352
+00:14:39,190 --> 00:14:42,830
+Kapital. Das ist bei uns 100 mal 200
+
+353
+00:14:42,830 --> 00:14:47,190
+durch 2000 und das sind 10%. Folglich
+
+354
+00:14:47,190 --> 00:14:49,970
+erhält Maya 10% Zinsen pro Jahr.
+
+355
+00:14:52,580 --> 00:14:54,280
+Natürlich muss man sein Geld nicht
+
+356
+00:14:54,280 --> 00:14:58,240
+immer ein Jahr anlegen. Man kann es
+
+357
+00:14:58,240 --> 00:14:59,800
+auch vorher wieder auszahlen lassen.
+
+358
+00:14:59,900 --> 00:15:01,820
+Daher werden die Zinsen dann
+
+359
+00:15:01,820 --> 00:15:05,080
+anteilmäßig berechnet. Hier sehen wir
+
+360
+00:15:05,080 --> 00:15:07,560
+die Formel für die Monatszinsen. Also
+
+361
+00:15:07,560 --> 00:15:10,440
+die Formel, die man nutzen kann, wenn
+
+362
+00:15:10,440 --> 00:15:11,860
+man sein Geld beispielsweise nach
+
+363
+00:15:11,860 --> 00:15:16,800
+drei Monaten sich auszahlen lässt. Am
+
+364
+00:15:16,800 --> 00:15:18,800
+1. Januar befinden sich 1.000 Euro
+
+365
+00:15:18,800 --> 00:15:21,540
+auf dem Konto. Der Zinssatz beträgt
+
+366
+00:15:21,540 --> 00:15:24,940
+2%. Nach drei Monaten erhältst du 5
+
+367
+00:15:24,940 --> 00:15:26,900
+Euro Zinsen. Das ist erstmal die
+
+368
+00:15:26,900 --> 00:15:28,700
+Formel für die Zinsen. Z ist gleich K
+
+369
+00:15:28,700 --> 00:15:31,480
+mal P Prozent durch 100 mal M durch
+
+370
+00:15:31,480 --> 00:15:34,240
+12. Das heißt, die Zinsen, wenn ich
+
+371
+00:15:34,240 --> 00:15:37,360
+das Geld nicht nach einem Jahr vom
+
+372
+00:15:37,360 --> 00:15:38,580
+Konto nehme, sondern schon vorher,
+
+373
+00:15:38,680 --> 00:15:40,840
+berechnen sich anteilmäßig. Das Jahr
+
+374
+00:15:40,840 --> 00:15:42,280
+hat ja bekanntermaßen zwölf Monate.
+
+375
+00:15:42,280 --> 00:15:44,880
+Das heißt, es wird hier anteilmäßig
+
+376
+00:15:44,880 --> 00:15:47,940
+berechnet. Hier in dem Fall wird es
+
+377
+00:15:47,940 --> 00:15:50,800
+nach drei Monaten vom Konto genommen.
+
+378
+00:15:51,000 --> 00:15:54,180
+Das heißt, unser M ist 3, wir
+
+379
+00:15:54,180 --> 00:15:56,360
+bekommen 2% Zinsen, das heißt unser P
+
+380
+00:15:56,360 --> 00:16:00,180
+% ist 2 und wir haben ein Kapital K
+
+381
+00:16:00,180 --> 00:16:01,840
+von 1000 Euro angelegt. Das ist unser
+
+382
+00:16:01,840 --> 00:16:07,140
+K 1000 Euro. Mit diesen Informationen
+
+383
+00:16:07,140 --> 00:16:09,120
+könnten wir jetzt die Zinsen
+
+384
+00:16:09,120 --> 00:16:11,760
+berechnen. Das sind dann 5. Euro.
+
+385
+00:16:15,110 --> 00:16:17,910
+Kommen wir zu einer Frage. Arne legt
+
+386
+00:16:17,910 --> 00:16:20,390
+am 1. Januar ein Startkapital in Höhe
+
+387
+00:16:20,390 --> 00:16:23,550
+von 6.000 Euro bei einer Bank an. Der
+
+388
+00:16:23,550 --> 00:16:26,170
+Zinssatz beträgt 4% pro Jahr. Also
+
+389
+00:16:26,170 --> 00:16:28,950
+das P.A. heißt pro Jahr. Oder steht
+
+390
+00:16:28,950 --> 00:16:30,470
+für pro Jahr. A steht für das Jahr.
+
+391
+00:16:30,750 --> 00:16:34,150
+Die erste Zinsauszahlung erfolgt im
+
+392
+00:16:34,150 --> 00:16:37,110
+ersten Quartal. Wie hoch ist zu dem
+
+393
+00:16:37,110 --> 00:16:42,840
+Zeitpunkt sein Konto statt? Das erste
+
+394
+00:16:42,840 --> 00:16:45,280
+Quartal, man kann das Jahr in vier
+
+395
+00:16:45,280 --> 00:16:48,120
+Quartale unterteilen, das heißt ein
+
+396
+00:16:48,120 --> 00:16:50,980
+Viertel vom Jahr. Ein Quartal ist
+
+397
+00:16:50,980 --> 00:16:54,300
+daher drei Monate lang. Das heißt,
+
+398
+00:16:54,440 --> 00:16:57,260
+der Arne bekommt nach drei Monaten
+
+399
+00:16:57,260 --> 00:16:59,960
+seine Zinsen auf sein Konto, also die
+
+400
+00:16:59,960 --> 00:17:04,440
+Anteil. Das heißt, er hat ein Kapital
+
+401
+00:17:04,440 --> 00:17:07,120
+von 6.000 Euro angelegt, bekommt
+
+402
+00:17:07,120 --> 00:17:10,320
+darauf 4% Zinsen. Und das Geld wurde
+
+403
+00:17:10,320 --> 00:17:12,100
+sozusagen automatisch drei Monate
+
+404
+00:17:12,100 --> 00:17:14,440
+angelegt und dann werden Ihnen die
+
+405
+00:17:14,440 --> 00:17:16,740
+Zinsen für die drei Monate aufs Konto
+
+406
+00:17:16,740 --> 00:17:21,300
+überwiesen. Das heißt also, unser
+
+407
+00:17:21,300 --> 00:17:23,240
+Kapital ist 6.000 Euro, unser
+
+408
+00:17:23,240 --> 00:17:26,960
+Prozentsatz P% ist 4% und unsere
+
+409
+00:17:26,960 --> 00:17:30,780
+Laufzeit M ist 3. Wie gesagt, ein
+
+410
+00:17:30,780 --> 00:17:33,640
+Quartal hat drei Monate, daher kommen
+
+411
+00:17:33,640 --> 00:17:36,980
+wir auf 6.000 mal 4% durch 100 mal 3
+
+412
+00:17:36,980 --> 00:17:39,640
+Zwölftel. 60 Euro Zinsen bekommt er.
+
+413
+00:17:39,760 --> 00:17:42,360
+Die Frage ist aber, wie hoch ist sein
+
+414
+00:17:42,360 --> 00:17:45,320
+Kontostand? Das heißt, er kriegt ja
+
+415
+00:17:45,320 --> 00:17:49,140
+60 Euro, hatte aber schon 6.000. Das
+
+416
+00:17:49,140 --> 00:17:51,020
+heißt, wir müssen die 60 Euro zu den
+
+417
+00:17:51,020 --> 00:17:53,860
+6.000 addieren und kommen so auf 6
+
+418
+00:17:53,860 --> 00:17:57,280
+.060 Euro. Und das ist der neue
+
+419
+00:17:57,280 --> 00:17:58,560
+Kontostand vom Arne.
+
+420
+00:18:02,480 --> 00:18:04,920
+Natürlich gibt es auch Tageszinsen.
+
+421
+00:18:04,920 --> 00:18:06,600
+Das heißt, man kann das Geld auch
+
+422
+00:18:06,600 --> 00:18:10,900
+kürzer anlegen bzw. man könnte es ja
+
+423
+00:18:10,900 --> 00:18:12,120
+theoretisch jeden Tag abheben.
+
+424
+00:18:12,160 --> 00:18:12,900
+Deswegen braucht man auch
+
+425
+00:18:12,900 --> 00:18:15,620
+Tageszinsen. Ein Beispiel hierfür. Am
+
+426
+00:18:15,620 --> 00:18:17,560
+1. Januar befinden sich 1000 Euro auf
+
+427
+00:18:17,560 --> 00:18:19,380
+dem Konto. Der Zinssatz beträgt 2%.
+
+428
+00:18:19,380 --> 00:18:23,080
+Nach 45 Tagen erhält man 2,50 Euro
+
+429
+00:18:23,080 --> 00:18:23,720
+Zinsen.
+
+430
+00:18:26,160 --> 00:18:29,840
+Hier ist T, die Zeit, wichtig. T ist
+
+431
+00:18:29,840 --> 00:18:31,360
+hier in Tagen. Das sieht man auch an
+
+432
+00:18:31,360 --> 00:18:32,800
+den 360. Hier sieht man, das Jahr
+
+433
+00:18:32,800 --> 00:18:37,120
+wird mit 360 Tagen angenommen. Und
+
+434
+00:18:37,120 --> 00:18:38,680
+daher wird es auch hier anteilig
+
+435
+00:18:38,680 --> 00:18:42,060
+angegeben einfach nur. Die 1000 Euro
+
+436
+00:18:42,060 --> 00:18:43,780
+ist wieder unser Kapital. Unser
+
+437
+00:18:43,780 --> 00:18:46,820
+Zinssatz P% sind die 2% und unsere
+
+438
+00:18:46,820 --> 00:18:50,780
+Laufzeit ist 45. Damit können wir
+
+439
+00:18:50,780 --> 00:18:52,480
+dann die Zinsen, die ausgezahlt
+
+440
+00:18:52,480 --> 00:18:56,640
+würden, berechnen. Also 1000 mal 2
+
+441
+00:18:56,640 --> 00:19:01,120
+durch 100 mal 45 durch 360. Das sind
+
+442
+00:19:01,120 --> 00:19:06,230
+dann in dem Fall wohl 2,50 Euro. Und
+
+443
+00:19:06,230 --> 00:19:09,390
+der Arne, der legt wieder etwas an
+
+444
+00:19:09,390 --> 00:19:11,710
+der Bank an. Und zwar, er legt ein
+
+445
+00:19:11,710 --> 00:19:14,270
+Startkapital in Höhe von 2500 Euro
+
+446
+00:19:14,270 --> 00:19:17,010
+bei der Bank an. Der Zinssatz beträgt
+
+447
+00:19:17,010 --> 00:19:19,590
+10%. Die erste Zinsauszahlung erfolgt
+
+448
+00:19:19,590 --> 00:19:22,370
+nach 100 Tagen. Wie hoch sind diese
+
+449
+00:19:22,370 --> 00:19:24,690
+Zinsen zu dem Zeitpunkt? Das heißt,
+
+450
+00:19:24,930 --> 00:19:27,690
+der Arne legt wieder Geld an der Bank
+
+451
+00:19:27,690 --> 00:19:29,670
+an und in dem Fall bekommt er die
+
+452
+00:19:29,670 --> 00:19:31,710
+ersten Zinsen nach 100 Tagen
+
+453
+00:19:31,710 --> 00:19:33,730
+ausgezahlt. Die Frage ist nun, wie
+
+454
+00:19:33,730 --> 00:19:34,870
+viele Zinsen kriegt er denn
+
+455
+00:19:34,870 --> 00:19:37,950
+ausgezahlt? 2500 Euro ist hier wieder
+
+456
+00:19:37,950 --> 00:19:39,490
+sein Kapital, was er anlegt, unser K.
+
+457
+00:19:40,290 --> 00:19:42,890
+Der Zinssatz beträgt 10%, das ist
+
+458
+00:19:42,890 --> 00:19:46,610
+unser P%. und die Zeit T, nach der es
+
+459
+00:19:46,610 --> 00:19:50,690
+ausgezahlt wird, beträgt 100. So
+
+460
+00:19:50,690 --> 00:19:53,730
+kommen wir auf 2500 Euro mal 10%
+
+461
+00:19:53,730 --> 00:19:57,530
+durch 100 mal 100 durch 360. Das
+
+462
+00:19:57,530 --> 00:19:59,990
+heißt, in diesem Fall ist auch nur
+
+463
+00:19:59,990 --> 00:20:02,110
+nach der Höhe der Zinsen gefragt,
+
+464
+00:20:02,270 --> 00:20:05,130
+nicht nach seinem Kontostand. Daher
+
+465
+00:20:05,130 --> 00:20:06,750
+reicht es, die Zinsen zu berechnen
+
+466
+00:20:06,750 --> 00:20:09,870
+und diese sind in diesem Fall 69,44
+
+467
+00:20:09,870 --> 00:20:14,210
+Euro. Und das ist dann das Geld, was
+
+468
+00:20:14,210 --> 00:20:16,910
+der Werteahner auf seinem Konto hat
+
+469
+00:20:16,910 --> 00:20:17,470
+nach 100 Tagen.
+
+470
+00:20:21,480 --> 00:20:24,680
+Kommen wir nun zu Zinseszinsen. Ich
+
+471
+00:20:24,680 --> 00:20:26,080
+hatte ja vorhin gesagt, dass die
+
+472
+00:20:26,080 --> 00:20:27,420
+Zinsen sich immer auf das Jahr
+
+473
+00:20:27,420 --> 00:20:29,280
+beziehen und für gewöhnlich am Ende
+
+474
+00:20:29,280 --> 00:20:30,860
+eines Jahres ausgezahlt werden,
+
+475
+00:20:30,960 --> 00:20:32,180
+beziehungsweise auf dem Konto sind.
+
+476
+00:20:32,380 --> 00:20:35,260
+Das heißt, ich habe nach jedem Jahr
+
+477
+00:20:35,260 --> 00:20:39,420
+ein anderes Kapital. Und wenn ich
+
+478
+00:20:39,420 --> 00:20:40,940
+jetzt wissen möchte, wie viel Geld
+
+479
+00:20:40,940 --> 00:20:42,580
+ich zum Beispiel nach 5 Jahren auf
+
+480
+00:20:42,580 --> 00:20:43,900
+meinem Konto habe, aber wird das sehr
+
+481
+00:20:43,900 --> 00:20:45,720
+mühselig mit den Rechnungen vorhin.
+
+482
+00:20:46,280 --> 00:20:47,960
+Daher gibt es diese Formel für den
+
+483
+00:20:47,960 --> 00:20:50,500
+Zinseszins, denn ich bekomme ja auf
+
+484
+00:20:50,500 --> 00:20:52,140
+die Zinsen des vorherigen Jahres
+
+485
+00:20:52,140 --> 00:20:55,080
+nochmal Zinsen. Also es geht deswegen
+
+486
+00:20:55,080 --> 00:20:56,140
+nur um Jahreszinsen. Bei
+
+487
+00:20:56,140 --> 00:20:57,200
+Monatszinsen, die werden nicht
+
+488
+00:20:57,200 --> 00:21:01,100
+nochmal verzinst. Und es ist jetzt
+
+489
+00:21:01,100 --> 00:21:03,220
+hier so, das ist die Formel für den
+
+490
+00:21:03,220 --> 00:21:05,620
+Zinseszins. Wir haben KT, also das
+
+491
+00:21:05,620 --> 00:21:08,420
+Kapital nach T Jahren. Das ist gleich
+
+492
+00:21:08,420 --> 00:21:10,600
+unser Anfangskapital, K0, also das
+
+493
+00:21:10,600 --> 00:21:13,300
+Geld, was wir wirklich anlegen, mal,
+
+494
+00:21:13,300 --> 00:21:15,860
+Klammer auf, 1 plus P-Prozent durch
+
+495
+00:21:15,860 --> 00:21:17,420
+100. Dieses P-Prozent ist hierbei
+
+496
+00:21:17,420 --> 00:21:19,700
+wieder unser Zinssatz und hoch T, das
+
+497
+00:21:19,700 --> 00:21:21,320
+sind die Jahre, wie lange ich das
+
+498
+00:21:21,320 --> 00:21:25,180
+Geld anlege. Das heißt, ein Beispiel,
+
+499
+00:21:25,300 --> 00:21:27,360
+am 1. Januar befinden sich 1000 Euro
+
+500
+00:21:27,360 --> 00:21:29,280
+auf dem Konto, der Zinssatz beträgt
+
+501
+00:21:29,280 --> 00:21:32,100
+2%, nach 3 Jahren lautet der Verzins
+
+502
+00:21:32,100 --> 00:21:37,340
+der Kontostand 1061,21 Euro. Cent.
+
+503
+00:21:37,340 --> 00:21:41,260
+Das heißt, man hat auf die 1.000 Euro
+
+504
+00:21:41,260 --> 00:21:42,660
+schon wieder Zinseszinsen bekommen.
+
+505
+00:21:42,760 --> 00:21:43,860
+Man hat sich über die drei Jahre
+
+506
+00:21:43,860 --> 00:21:47,700
+angelegt. Das heißt, das Geld, was
+
+507
+00:21:47,700 --> 00:21:49,340
+man für das erste Jahr bekommen hat,
+
+508
+00:21:49,340 --> 00:21:50,360
+die Zinsen, wurden schon wieder
+
+509
+00:21:50,360 --> 00:21:53,080
+zweimal verzinst. Das nennt sich dann
+
+510
+00:21:53,080 --> 00:21:58,640
+Zinseszins. Und es ist exponentiell.
+
+511
+00:21:58,680 --> 00:22:00,200
+Das werden wir auch jeden gleich
+
+512
+00:22:00,200 --> 00:22:02,400
+sehen. Also, desto mehr Mehr Geld man
+
+513
+00:22:02,400 --> 00:22:03,460
+ja auf der Bank hat, das ist ja immer
+
+514
+00:22:03,460 --> 00:22:04,860
+prozentual, desto mehr Geld kriegt
+
+515
+00:22:04,860 --> 00:22:08,820
+man auch als Zinsen. Daher ist es
+
+516
+00:22:08,820 --> 00:22:10,880
+nicht linear. Die Zinsen werden vom
+
+517
+00:22:10,880 --> 00:22:12,300
+Jahr zu Jahr mehr, weil ich auch
+
+518
+00:22:12,300 --> 00:22:13,660
+immer mehr Geld auf der Bank habe.
+
+519
+00:22:13,980 --> 00:22:15,900
+Vorausgesetzt, man hebt kein Geld ab.
+
+520
+00:22:16,740 --> 00:22:19,460
+Gut, kommen wir zur Frage. Zu Beginn
+
+521
+00:22:19,460 --> 00:22:21,260
+werden 2000 Euro bei einer Bank
+
+522
+00:22:21,260 --> 00:22:23,460
+angelegt. Der Prozentsatz lautet 10%.
+
+523
+00:22:23,460 --> 00:22:26,260
+Nach zwei Jahren lauten also die
+
+524
+00:22:26,260 --> 00:22:29,880
+Zinsen 420 Euro. Arne Heinz behauptet
+
+525
+00:22:29,880 --> 00:22:31,360
+nun, verdoppel ich die Jahre,
+
+526
+00:22:31,420 --> 00:22:33,160
+verdoppelt sich die Zinsen. Hat er
+
+527
+00:22:33,160 --> 00:22:39,400
+recht. Wir wissen, für zwei Jahre
+
+528
+00:22:39,400 --> 00:22:42,960
+wurden 420 Euro Zinsen bekommen. Und
+
+529
+00:22:42,960 --> 00:22:45,280
+wir prüfen das jetzt einfach und
+
+530
+00:22:45,280 --> 00:22:46,980
+berechnen einmal, wie viel Geld er
+
+531
+00:22:46,980 --> 00:22:49,180
+denn nach vier Jahren hat. Die 2000
+
+532
+00:22:49,180 --> 00:22:52,180
+ist natürlich unser Kapital. also die
+
+533
+00:22:52,180 --> 00:22:56,100
+setzen wir für unser K0 ein die 10%
+
+534
+00:22:56,100 --> 00:22:59,260
+ist unser P% und wir gehen jetzt
+
+535
+00:22:59,260 --> 00:23:01,180
+einfach berechnen K4 das heißt das
+
+536
+00:23:01,180 --> 00:23:02,520
+Kapital wie gesagt nach 4 Jahren
+
+537
+00:23:02,520 --> 00:23:04,820
+deswegen ist unser T auch eine 4 also
+
+538
+00:23:04,820 --> 00:23:07,140
+der Indiz der hier unten steht steht
+
+539
+00:23:07,140 --> 00:23:09,180
+auch immer hier oben im Exponenten
+
+540
+00:23:09,900 --> 00:23:12,660
+das heißt wir kommen so zu 2000 mal
+
+541
+00:23:12,660 --> 00:23:15,060
+Klammer auf 1 plus 10% durch 100
+
+542
+00:23:15,060 --> 00:23:18,600
+Klammer zu hoch 4 dann wissen wir
+
+543
+00:23:18,600 --> 00:23:23,080
+nach 4 Jahren sind 2.928,20 Euro auf
+
+544
+00:23:23,080 --> 00:23:24,860
+dem Konto. Wichtig ist, bei den
+
+545
+00:23:24,860 --> 00:23:26,420
+Zinseszinsen bekommt man immer das
+
+546
+00:23:26,420 --> 00:23:28,820
+Geld raus, was am Ende da ist. Das
+
+547
+00:23:28,820 --> 00:23:29,940
+ist wirklich das Gesamte. Das sind
+
+548
+00:23:29,940 --> 00:23:31,760
+nicht nur die Zinsen, das ist das
+
+549
+00:23:31,760 --> 00:23:34,320
+Kapital, was auf dem Konto ist. Das
+
+550
+00:23:34,320 --> 00:23:40,260
+heißt, es wurden 928,20 Euro an
+
+551
+00:23:40,260 --> 00:23:42,820
+Zinsen ausgeschüttet, weil es wurden
+
+552
+00:23:42,820 --> 00:23:44,900
+ja zu Anfang 2.000 Euro angelegt.
+
+553
+00:23:45,040 --> 00:23:46,300
+Diese müssen wir natürlich von dem
+
+554
+00:23:46,300 --> 00:23:47,120
+Wert hier abziehen.
+
+555
+00:23:51,120 --> 00:23:54,680
+Und wenn der Arne jetzt recht hätte,
+
+556
+00:23:54,840 --> 00:23:57,800
+dann müssten wir jetzt ja nur die 928
+
+557
+00:23:57,800 --> 00:24:01,280
+durch 2 teilen. Und dann müssten wir
+
+558
+00:24:01,280 --> 00:24:03,700
+ja die gleichen Zinsen bekommen wie
+
+559
+00:24:03,700 --> 00:24:05,700
+für die 2 Jahre. Weil 4 geteilt durch
+
+560
+00:24:05,700 --> 00:24:07,560
+2 sind ja auch 2 Jahre. Und deswegen
+
+561
+00:24:07,560 --> 00:24:09,980
+machen wir das einfach mal. Und wir
+
+562
+00:24:09,980 --> 00:24:13,900
+kommen auf 464,10 Euro. Das ist
+
+563
+00:24:13,900 --> 00:24:15,520
+wesentlich mehr, als er für 2 Jahre
+
+564
+00:24:15,520 --> 00:24:18,220
+bekommen hat. Und damit hat Arne
+
+565
+00:24:18,220 --> 00:24:20,880
+Heinz Unrecht. Das liegt wie gesagt
+
+566
+00:24:20,880 --> 00:24:22,740
+daran, es ist ein exponentielles
+
+567
+00:24:22,740 --> 00:24:26,120
+Wachstum und desto mehr Geld man auf
+
+568
+00:24:26,120 --> 00:24:28,240
+dem Konto hat, desto mehr Geld man
+
+569
+00:24:28,240 --> 00:24:30,260
+anlegt, desto mehr Zinsen erhält man
+
+570
+00:24:30,260 --> 00:24:33,960
+auch. Gut, damit wären wir auch schon
+
+571
+00:24:33,960 --> 00:24:35,840
+am Ende des Webinars. Ich bedanke
+
+572
+00:24:35,840 --> 00:24:37,000
+mich recht herzlich für eure
+
+573
+00:24:37,000 --> 00:24:37,700
+Aufmerksamkeit.
+

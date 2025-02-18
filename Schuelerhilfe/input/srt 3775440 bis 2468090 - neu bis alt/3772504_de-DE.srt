@@ -1,0 +1,724 @@
+1
+00:00:04,110 --> 00:00:06,710
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,710 --> 00:00:07,830
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,830 --> 00:00:09,950
+Schülerhilfe. Ich freue mich, dir
+
+4
+00:00:09,950 --> 00:00:11,690
+heute etwas zur Evolutionstheorie
+
+5
+00:00:11,690 --> 00:00:14,010
+erklären zu dürfen. Ergänzend zu
+
+6
+00:00:14,010 --> 00:00:15,310
+diesem Video steht dir in unserem
+
+7
+00:00:15,310 --> 00:00:17,130
+Online-Lerncenter natürlich auch ein
+
+8
+00:00:17,130 --> 00:00:18,610
+Wiki zu diesem Thema zur Verfügung,
+
+9
+00:00:18,850 --> 00:00:20,230
+in dem dir die wichtigsten Begriffe
+
+10
+00:00:20,230 --> 00:00:22,850
+und Grundlagen erklärt werden. Die
+
+11
+00:00:22,850 --> 00:00:24,470
+Frage nach dem Ursprung des Lebens
+
+12
+00:00:24,470 --> 00:00:25,870
+und damit nach dem Ursprung des
+
+13
+00:00:25,870 --> 00:00:27,710
+Menschen hat fast alle Kulturen
+
+14
+00:00:27,710 --> 00:00:30,790
+bewegt. Diese Frage wurde meist in
+
+15
+00:00:30,790 --> 00:00:32,090
+religiösen Schöpfungsmythen
+
+16
+00:00:32,090 --> 00:00:34,010
+verarbeitet. Bereits im 6.
+
+17
+00:00:34,230 --> 00:00:35,930
+Jahrhundert behauptete Thales von
+
+18
+00:00:35,930 --> 00:00:37,830
+Milet, dass das Wasser der Ursprung
+
+19
+00:00:37,830 --> 00:00:40,690
+allen Lebens sei. Auch wenn das von
+
+20
+00:00:40,690 --> 00:00:42,290
+seinen Schülern weiter ausgebaute
+
+21
+00:00:42,290 --> 00:00:44,150
+Konzept der Urzeugung seine Schwächen
+
+22
+00:00:44,150 --> 00:00:46,450
+hat. Die Sache mit dem Wasser ist
+
+23
+00:00:46,450 --> 00:00:49,730
+nicht von der Hand zu weisen. 1859
+
+24
+00:00:49,730 --> 00:00:52,230
+hat Charles Darwin sein Buch Die
+
+25
+00:00:52,230 --> 00:00:53,990
+Entstehung der Arten durch natürliche
+
+26
+00:00:53,990 --> 00:00:56,490
+Zuchtwahl oder oder die Erhaltung der
+
+27
+00:00:56,490 --> 00:00:58,290
+begünstigten Rassen im Kampf ums
+
+28
+00:00:58,290 --> 00:01:00,230
+Dasein veröffentlicht. Die
+
+29
+00:01:00,230 --> 00:01:02,070
+Erkenntnisse Darwins, wie Evolution
+
+30
+00:01:02,070 --> 00:01:03,890
+funktioniert, sind immer noch
+
+31
+00:01:03,890 --> 00:01:05,750
+wichtige Grundlagen für die heutige
+
+32
+00:01:05,750 --> 00:01:07,570
+Evolutionsforschung, auch wenn sie
+
+33
+00:01:07,570 --> 00:01:08,870
+inzwischen natürlich um neue
+
+34
+00:01:08,870 --> 00:01:12,550
+Erkenntnisse ergänzt wurden. Aber was
+
+35
+00:01:12,550 --> 00:01:14,130
+verstehen wir heute unter Evolution?
+
+36
+00:01:14,710 --> 00:01:16,810
+Unter Evolution verstehen wir die
+
+37
+00:01:16,810 --> 00:01:18,830
+Veränderung von vererbbaren Merkmalen
+
+38
+00:01:18,830 --> 00:01:21,490
+von Generation zu Generation. Heute
+
+39
+00:01:21,490 --> 00:01:23,230
+ist Darwins Theorie allgemein
+
+40
+00:01:23,230 --> 00:01:25,190
+anerkannter Standard. doch auch vor
+
+41
+00:01:25,190 --> 00:01:26,970
+ihm haben sich Menschen Gedanken über
+
+42
+00:01:26,970 --> 00:01:28,490
+mögliche Mechanismen der Evolution
+
+43
+00:01:28,490 --> 00:01:30,270
+gemacht und eigene Theorien
+
+44
+00:01:30,270 --> 00:01:32,470
+aufgestellt. Die bekannteste
+
+45
+00:01:32,470 --> 00:01:34,750
+alternative Evolutionstheorie dürfte
+
+46
+00:01:34,750 --> 00:01:37,030
+die Theorie Lamarcks darstellen, die
+
+47
+00:01:37,030 --> 00:01:38,830
+dieser einige Jahrzehnte vor Darwin
+
+48
+00:01:38,830 --> 00:01:41,470
+aufstellte. Darwin erkannte also
+
+49
+00:01:41,470 --> 00:01:43,390
+seine Theorie und verbesserte sie an
+
+50
+00:01:43,390 --> 00:01:46,510
+einigen Stellen. Im Folgenden werden
+
+51
+00:01:46,510 --> 00:01:48,130
+die Grundgedanken beider Theorien
+
+52
+00:01:48,130 --> 00:01:50,690
+kurz verglichen. Lamarcks Theorie
+
+53
+00:01:50,690 --> 00:01:52,670
+basiert auf drei Grundgedanken.
+
+54
+00:01:55,090 --> 00:01:57,030
+1. Vervollkommnungstheorie Je
+
+55
+00:01:57,030 --> 00:01:58,690
+vollkommener eine Art ist, desto
+
+56
+00:01:58,690 --> 00:02:00,430
+länger muss ihre Evolution gedauert
+
+57
+00:02:00,430 --> 00:02:03,130
+haben und umso älter ist sie. Alle
+
+58
+00:02:03,130 --> 00:02:05,350
+Arten, auch neu dazugekommene, sind
+
+59
+00:02:05,350 --> 00:02:07,190
+durch die sogenannten Urzeugen durch
+
+60
+00:02:07,190 --> 00:02:08,990
+Gott aus dem Nichts entstanden und
+
+61
+00:02:08,990 --> 00:02:11,090
+können nicht aussterben. Weil die
+
+62
+00:02:11,090 --> 00:02:12,810
+Arten feststehen, können sie auch
+
+63
+00:02:12,810 --> 00:02:14,130
+nicht zu anderen Arten
+
+64
+00:02:14,130 --> 00:02:16,390
+weiterentwickeln, sondern nur als
+
+65
+00:02:16,390 --> 00:02:19,330
+neue Merkmale ausbilden. 2.
+
+66
+00:02:20,370 --> 00:02:22,990
+Mechanismus des Artwandels Vererbung
+
+67
+00:02:22,990 --> 00:02:24,510
+der erworbenen Eigenschaften.
+
+68
+00:02:24,990 --> 00:02:26,110
+Organismen haben einen
+
+69
+00:02:26,110 --> 00:02:28,470
+Vervollkommnungstrieb, der sie dazu
+
+70
+00:02:28,470 --> 00:02:30,230
+antreibt, ihren Körper entsprechend
+
+71
+00:02:30,230 --> 00:02:32,150
+ihrer Umgebung zu optimieren.
+
+72
+00:02:32,730 --> 00:02:35,650
+Drittens. Gebrauch und Nichtgebrauch
+
+73
+00:02:35,650 --> 00:02:37,390
+von Organen führt zur Rück- oder
+
+74
+00:02:37,390 --> 00:02:39,450
+Ausbildung und damit zur Anpassung an
+
+75
+00:02:39,450 --> 00:02:41,530
+die Erfordernisse der Umwelt. Zum
+
+76
+00:02:41,530 --> 00:02:43,310
+Beispiel geht Lamarck davon aus, dass
+
+77
+00:02:43,310 --> 00:02:44,610
+Giraffen ihre langen Hälse
+
+78
+00:02:44,610 --> 00:02:46,590
+ausgebildet haben, weil sie sie immer
+
+79
+00:02:46,590 --> 00:02:48,050
+nach hochwachsenden Blättern
+
+80
+00:02:48,050 --> 00:02:50,370
+ausgestreckt haben. haben. Indem
+
+81
+00:02:50,370 --> 00:02:51,910
+solche Eigenschaften, welche
+
+82
+00:02:51,910 --> 00:02:53,470
+Individuen im Laufe ihres Lebens
+
+83
+00:02:53,470 --> 00:02:56,050
+durch Vervollkommnung erworben haben,
+
+84
+00:02:56,190 --> 00:02:58,410
+vererbt werden, verändert sich die
+
+85
+00:02:58,410 --> 00:03:01,610
+Art entsprechend. Darwins Vorstellung
+
+86
+00:03:01,610 --> 00:03:03,050
+hingegen basiert auf zwei
+
+87
+00:03:03,050 --> 00:03:05,510
+Grundgedanken. Zum einen auf der
+
+88
+00:03:05,510 --> 00:03:08,250
+Abstammungstheorie, also alle
+
+89
+00:03:08,250 --> 00:03:09,610
+Lebewesen stammen von einem
+
+90
+00:03:09,610 --> 00:03:11,950
+gemeinsamen Vorfahren ab. Aus diesem
+
+91
+00:03:11,950 --> 00:03:13,270
+haben sich die verschiedenen Arten
+
+92
+00:03:13,270 --> 00:03:15,550
+entwickelt. Im Gegensatz zu Lamarck's
+
+93
+00:03:15,550 --> 00:03:17,130
+Theorie ist es hier also möglich,
+
+94
+00:03:17,310 --> 00:03:18,970
+dass sich aus einer Art eine andere
+
+95
+00:03:18,970 --> 00:03:22,230
+entwickelt. Und zum anderen auf der
+
+96
+00:03:22,230 --> 00:03:24,850
+Selektionstheorie. Ursache für die
+
+97
+00:03:24,850 --> 00:03:26,330
+Veränderung ist, dass nur die
+
+98
+00:03:26,330 --> 00:03:28,170
+bestangepassteten Individuen
+
+99
+00:03:28,170 --> 00:03:30,030
+überleben und ihre Merkmale weiter
+
+100
+00:03:30,030 --> 00:03:32,410
+vererben. Im Gegensatz zu Lamarck
+
+101
+00:03:32,410 --> 00:03:34,170
+besagt Darwins Theorie, dass neue
+
+102
+00:03:34,170 --> 00:03:35,750
+Eigenschaften zufällig durch
+
+103
+00:03:35,750 --> 00:03:38,130
+genetische Mutationen entstehen, also
+
+104
+00:03:38,130 --> 00:03:40,130
+schon angeboren sind und sich nicht
+
+105
+00:03:40,130 --> 00:03:42,190
+im Laufe des des Lebens ausbilden,
+
+106
+00:03:42,210 --> 00:03:43,990
+und wenn sie einen Überlebensvorteil
+
+107
+00:03:43,990 --> 00:03:46,130
+bieten, pflanzt sich dieses Tier mit
+
+108
+00:03:46,130 --> 00:03:47,730
+diesen Eigenschaften öfter fort,
+
+109
+00:03:47,910 --> 00:03:49,850
+wodurch die Eigenschaften in der Art
+
+110
+00:03:49,850 --> 00:03:52,550
+immer häufiger werden. Die Basis von
+
+111
+00:03:52,550 --> 00:03:54,150
+Darwins Theorie ist, dass manche
+
+112
+00:03:54,150 --> 00:03:56,630
+besser angepassten Individuen mehr
+
+113
+00:03:56,630 --> 00:03:58,710
+Nachkommen zeugen als schlechter
+
+114
+00:03:58,710 --> 00:04:01,270
+angepasste. Selektion bedeutet, dass
+
+115
+00:04:01,270 --> 00:04:02,590
+es einen Mechanismus gibt, der
+
+116
+00:04:02,590 --> 00:04:04,190
+entscheidet, welche Individuen viele
+
+117
+00:04:04,190 --> 00:04:06,150
+Nachkommen bekommen und welche nicht.
+
+118
+00:04:06,150 --> 00:04:08,950
+Es werden drei Formen von Selektionen
+
+119
+00:04:08,950 --> 00:04:10,530
+unterschieden, die natürliche
+
+120
+00:04:10,530 --> 00:04:12,930
+Selektion, die sexuelle Selektion und
+
+121
+00:04:12,930 --> 00:04:16,050
+die künstliche Selektion. Unter
+
+122
+00:04:16,050 --> 00:04:17,870
+natürlicher Selektion verstehen wir,
+
+123
+00:04:17,990 --> 00:04:19,950
+dass Individuen, welche besser an
+
+124
+00:04:19,950 --> 00:04:22,130
+ihre Umgebung angepasst sind, länger
+
+125
+00:04:22,130 --> 00:04:24,150
+überleben und sich dadurch auch öfter
+
+126
+00:04:24,150 --> 00:04:26,150
+fortpflanzen als solche, die
+
+127
+00:04:26,150 --> 00:04:28,330
+schlechter angepasst sind. Dadurch
+
+128
+00:04:28,330 --> 00:04:30,230
+werden immer mehr Jungtiere gezeugt,
+
+129
+00:04:30,230 --> 00:04:31,450
+die die Eigenschaften der besser
+
+130
+00:04:31,450 --> 00:04:33,550
+angepassten Tiere besitzen, bis sich
+
+131
+00:04:33,550 --> 00:04:34,790
+diese Eigenschaften schließlich
+
+132
+00:04:34,790 --> 00:04:37,150
+durchsetzen. durchsetzen. Sexuelle
+
+133
+00:04:37,150 --> 00:04:38,950
+Selektion bedeutet, dass bestimmte
+
+134
+00:04:38,950 --> 00:04:40,690
+Eigenschaften bei der Partnerwahl
+
+135
+00:04:40,690 --> 00:04:42,090
+bevorzugt werden, weil sie zum
+
+136
+00:04:42,090 --> 00:04:44,010
+Beispiel besonders imposant aussehen.
+
+137
+00:04:44,430 --> 00:04:45,950
+Dadurch, dass Träger dieser
+
+138
+00:04:45,950 --> 00:04:47,010
+Eigenschaften also mehr
+
+139
+00:04:47,010 --> 00:04:49,170
+Fortpflanzungspartner finden, werden
+
+140
+00:04:49,170 --> 00:04:50,830
+diese Eigenschaften auch verstärkt an
+
+141
+00:04:50,830 --> 00:04:53,570
+Jungtiere weitergegeben. Arten können
+
+142
+00:04:53,570 --> 00:04:55,150
+auch durch den Menschen gezielt
+
+143
+00:04:55,150 --> 00:04:56,510
+gezüchtet und für menschliche
+
+144
+00:04:56,510 --> 00:04:59,190
+Bedürfnisse optimiert werden. Dieser
+
+145
+00:04:59,190 --> 00:05:00,830
+Vorgang wird künstliche Selektion
+
+146
+00:05:00,830 --> 00:05:03,130
+genannt. Als Als Resultat sind zum
+
+147
+00:05:03,130 --> 00:05:05,330
+Beispiel Haustiere, Nutztiere,
+
+148
+00:05:05,750 --> 00:05:08,530
+Kulturpflanzen entstanden. Da
+
+149
+00:05:08,530 --> 00:05:10,570
+Individuen in Bezug auf Eigenschaften
+
+150
+00:05:10,570 --> 00:05:12,190
+selektiert werden, verändern sich
+
+151
+00:05:12,190 --> 00:05:13,810
+Arten oft im Laufe der Evolution.
+
+152
+00:05:14,370 --> 00:05:16,050
+Dabei können laut Darwin nur
+
+153
+00:05:16,050 --> 00:05:17,770
+Eigenschaften vererbt werden, welche
+
+154
+00:05:17,770 --> 00:05:19,530
+sich bereits bei der Geburt in einem
+
+155
+00:05:19,530 --> 00:05:20,950
+der Elternteile befunden haben.
+
+156
+00:05:21,690 --> 00:05:23,790
+Sicher ist dir schon oft aufgefallen,
+
+157
+00:05:23,830 --> 00:05:25,490
+dass sich manche Arten sehr ähnlich
+
+158
+00:05:25,490 --> 00:05:27,330
+sehen. Das kann sich auch auf den
+
+159
+00:05:27,330 --> 00:05:29,310
+ganzen Körper beziehen oder nur auf
+
+160
+00:05:29,310 --> 00:05:32,370
+einige wenige Körperteile. So haben
+
+161
+00:05:32,370 --> 00:05:34,330
+alle Vögel aufgrund einer gemeinsamen
+
+162
+00:05:34,330 --> 00:05:36,790
+Abstammung einen Schnabel. Solche
+
+163
+00:05:36,790 --> 00:05:38,050
+Eigenschaften, die aufgrund einer
+
+164
+00:05:38,050 --> 00:05:39,710
+gemeinsamen Evolution entstanden
+
+165
+00:05:39,710 --> 00:05:41,250
+sind, werden als Homologien
+
+166
+00:05:41,250 --> 00:05:43,970
+bezeichnet. Allerdings finden sich
+
+167
+00:05:43,970 --> 00:05:45,690
+auch Gemeinsamkeiten zwischen allen
+
+168
+00:05:45,690 --> 00:05:48,010
+Arten, die nicht auf Basis einer
+
+169
+00:05:48,010 --> 00:05:49,630
+gemeinsamen Evolution entstanden
+
+170
+00:05:49,630 --> 00:05:51,970
+sind. Ein Beispiel wären die
+
+171
+00:05:51,970 --> 00:05:54,070
+Grabwerkzeuge eines Maulwurfs und die
+
+172
+00:05:54,070 --> 00:05:55,990
+Grabwerkzeuge einer Maulwurfsgrille.
+
+173
+00:05:57,010 --> 00:05:58,270
+Eigenschaften, die unabhängig
+
+174
+00:05:58,270 --> 00:05:59,850
+voneinander entstanden sind, werden
+
+175
+00:05:59,850 --> 00:06:01,990
+Analogien genannt. Ich hoffe, dass
+
+176
+00:06:01,990 --> 00:06:03,410
+ich dir helfen konnte, dieses Thema
+
+177
+00:06:03,410 --> 00:06:05,450
+zu verstehen. Wenn du weitere Fragen
+
+178
+00:06:05,450 --> 00:06:07,450
+zu diesem Thema oder anderen hast,
+
+179
+00:06:07,670 --> 00:06:09,210
+stehen wir bei der Schülerhilfe dir
+
+180
+00:06:09,210 --> 00:06:10,830
+natürlich immer gerne zur Verfügung.
+
+181
+00:06:11,070 --> 00:06:12,730
+Bis zum nächsten Mal. Tschüss!
+

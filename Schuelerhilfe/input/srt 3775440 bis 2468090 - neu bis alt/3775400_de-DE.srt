@@ -1,0 +1,332 @@
+1
+00:00:04,660 --> 00:00:07,220
+Hallo, mein Name ist Sabrina und ich
+
+2
+00:00:07,220 --> 00:00:08,760
+bin Nachhilfelehrerin bei der
+
+3
+00:00:08,760 --> 00:00:11,080
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:11,080 --> 00:00:13,080
+erklären, was es in der Chemie mit
+
+5
+00:00:13,080 --> 00:00:15,780
+der Elektrolyse auf sich hat. In
+
+6
+00:00:15,780 --> 00:00:17,620
+unserem Online-Lerncenter steht dir
+
+7
+00:00:17,620 --> 00:00:19,500
+zu diesem Thema natürlich auch ein
+
+8
+00:00:19,500 --> 00:00:21,240
+Wiki zur Verfügung, in dem dir die
+
+9
+00:00:21,240 --> 00:00:22,580
+wichtigsten Begriffe noch einmal
+
+10
+00:00:22,580 --> 00:00:25,660
+erklärt werden. Bleiakkumulatoren,
+
+11
+00:00:25,780 --> 00:00:28,300
+auch Starterbatterie genannt, sind
+
+12
+00:00:28,300 --> 00:00:29,900
+auch heute noch in vielen Autos
+
+13
+00:00:29,900 --> 00:00:32,460
+eingebaut. Beim Entladen geben sie
+
+14
+00:00:32,460 --> 00:00:34,300
+Strom ab. Aber um sie wieder
+
+15
+00:00:34,300 --> 00:00:36,620
+aufzuladen, benötigt man Strom und
+
+16
+00:00:36,620 --> 00:00:38,120
+damit führt man auch gleichzeitig
+
+17
+00:00:38,120 --> 00:00:41,640
+eine Elektrolyse durch. Generell
+
+18
+00:00:41,640 --> 00:00:43,020
+lässt sich eine Elektrolyse
+
+19
+00:00:43,020 --> 00:00:45,960
+folgendermaßen definieren. Eine
+
+20
+00:00:45,960 --> 00:00:48,980
+Redoxreaktion, bei der Oxidation und
+
+21
+00:00:48,980 --> 00:00:51,080
+Reduktion räumlich getrennt ablaufen
+
+22
+00:00:51,080 --> 00:00:52,960
+und die durch die Zufuhr von
+
+23
+00:00:52,960 --> 00:00:54,760
+elektrischer Energie erzwungen wird.
+
+24
+00:00:54,760 --> 00:00:57,880
+Zur Durchführung einer Elektrolyse
+
+25
+00:00:57,880 --> 00:01:00,940
+braucht man also einen Reaktionsraum,
+
+26
+00:01:01,160 --> 00:01:04,560
+eine Stromquelle, zwei Elektroden,
+
+27
+00:01:04,580 --> 00:01:08,260
+Anode und Kathode, ein Elektrolyt und
+
+28
+00:01:08,260 --> 00:01:11,460
+die Reaktanten. Hierbei ist zu
+
+29
+00:01:11,460 --> 00:01:13,520
+beachten, dass sowohl die Elektroden
+
+30
+00:01:13,520 --> 00:01:15,800
+als auch das Elektrolyt oft als
+
+31
+00:01:15,800 --> 00:01:19,260
+Reaktanten fungieren. Wenn wir beim
+
+32
+00:01:19,260 --> 00:01:21,260
+Bleiakku bleiben, dann sieht der
+
+33
+00:01:21,260 --> 00:01:23,960
+Aufbau so aus. Unser Reaktionsraum
+
+34
+00:01:23,960 --> 00:01:26,000
+ist mit verdünnter Schwefelsäure, dem
+
+35
+00:01:26,000 --> 00:01:28,640
+Elektrolyt, gefüllt. Die Elektroden,
+
+36
+00:01:28,720 --> 00:01:31,100
+hier aus Bleisulfat bestehend, werden
+
+37
+00:01:31,100 --> 00:01:32,940
+eingetaucht und über die Stromquelle
+
+38
+00:01:32,940 --> 00:01:35,760
+miteinander verbunden. Dabei ist der
+
+39
+00:01:35,760 --> 00:01:38,180
+Minuspol die Kathode und der Pluspol
+
+40
+00:01:38,180 --> 00:01:41,320
+die Anode. Wenn man den Strom jetzt
+
+41
+00:01:41,320 --> 00:01:43,400
+anschaltet, dann werden zwei
+
+42
+00:01:43,400 --> 00:01:45,560
+Elektronen von der Anode zu der
+
+43
+00:01:45,560 --> 00:01:48,440
+Kathode transportiert. Die Anode gibt
+
+44
+00:01:48,440 --> 00:01:50,560
+also Elektronen ab, weshalb hier die
+
+45
+00:01:50,560 --> 00:01:52,620
+Oxidation stattfindet, und die
+
+46
+00:01:52,620 --> 00:01:54,580
+Kathode nimmt die Elektronen auf,
+
+47
+00:01:54,760 --> 00:01:56,380
+weshalb hier die Reduktion
+
+48
+00:01:56,380 --> 00:01:59,260
+stattfindet. Stellen wir jetzt also
+
+49
+00:01:59,260 --> 00:02:01,780
+die Reaktionsgleichung auf. Zuerst
+
+50
+00:02:01,780 --> 00:02:04,140
+die Teilreaktion, beginnend mit der
+
+51
+00:02:04,140 --> 00:02:06,920
+Reduktion. Das feste Bleisulfat
+
+52
+00:02:06,920 --> 00:02:09,460
+bekommt zwei Elektronen und reagiert
+
+53
+00:02:09,460 --> 00:02:11,840
+zu Blei und einem gelösten Sulfation.
+
+54
+00:02:12,140 --> 00:02:14,360
+Bei der Oxidation reagiert das
+
+55
+00:02:14,360 --> 00:02:16,880
+Bleisulfat mit Wasser. Es bilden sich
+
+56
+00:02:16,880 --> 00:02:19,880
+Bleioxid, gelöste Sulfationen und
+
+57
+00:02:19,880 --> 00:02:22,800
+Protonen sowie zwei Elektronen. Die
+
+58
+00:02:22,800 --> 00:02:24,480
+Gesamtgleichung lautet demnach,
+
+59
+00:02:24,520 --> 00:02:30,300
+2PbSO4 und 2H2O reagieren zu PbO2,
+
+60
+00:02:30,600 --> 00:02:37,280
+Pb, 2SO4-2 und 4H+. Dabei ergeben die
+
+61
+00:02:37,280 --> 00:02:39,520
+gelösten Sulfationen und Protonen
+
+62
+00:02:39,520 --> 00:02:42,420
+zusammen Schwefelsäure, also unser
+
+63
+00:02:42,420 --> 00:02:45,820
+Elektrolyt. Die Zusammenfassung. 1.
+
+64
+00:02:46,080 --> 00:02:48,500
+Die Elektrolyse beschreibt eine
+
+65
+00:02:48,500 --> 00:02:50,980
+erzwungene Redoxreaktion, weshalb man
+
+66
+00:02:50,980 --> 00:02:52,780
+eine elektrische Energiequelle
+
+67
+00:02:52,780 --> 00:02:56,460
+benötigt. 2. Die Redoxreaktionen
+
+68
+00:02:56,460 --> 00:02:58,400
+laufen räumlich getrennt an den
+
+69
+00:02:58,400 --> 00:03:01,920
+Elektroden ab. 3. Der Minuspol
+
+70
+00:03:01,920 --> 00:03:04,500
+entspricht der Kathode, an der die
+
+71
+00:03:04,500 --> 00:03:08,520
+Reduktion stattfindet. 4. Der Pluspol
+
+72
+00:03:08,520 --> 00:03:10,560
+entspricht der Anode, an der die
+
+73
+00:03:10,560 --> 00:03:13,360
+Oxidation stattfindet. Und fünftens,
+
+74
+00:03:13,360 --> 00:03:15,920
+die Elektroden und das Elektrolyt
+
+75
+00:03:15,920 --> 00:03:19,660
+dienen oftmals als Reaktanten. Ich
+
+76
+00:03:19,660 --> 00:03:21,300
+hoffe, dieses Video konnte dir zu
+
+77
+00:03:21,300 --> 00:03:23,080
+einem besseren Verständnis des Themas
+
+78
+00:03:23,080 --> 00:03:25,300
+Elektrolyse verhelfen. Wenn du noch
+
+79
+00:03:25,300 --> 00:03:26,900
+Fragen zu diesem oder anderen Themen
+
+80
+00:03:26,900 --> 00:03:28,860
+hast, nutze gerne unsere weiteren
+
+81
+00:03:28,860 --> 00:03:31,160
+Inhalte im Online-Lerncenter oder
+
+82
+00:03:31,160 --> 00:03:32,920
+wende dich an deine Schülerhilfe vor
+
+83
+00:03:32,920 --> 00:03:34,700
+Ort. Bis zum nächsten Mal!
+

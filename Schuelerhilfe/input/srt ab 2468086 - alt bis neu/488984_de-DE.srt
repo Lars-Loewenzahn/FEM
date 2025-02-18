@@ -1,0 +1,768 @@
+1
+00:00:00,880 --> 00:00:02,940
+Hallo und herzlich willkommen zu den
+
+2
+00:00:02,940 --> 00:00:05,480
+Lernvideos der Schülerhilfe. In
+
+3
+00:00:05,480 --> 00:00:06,720
+diesem Modul geht es um die
+
+4
+00:00:06,720 --> 00:00:07,740
+Einleitung in einer
+
+5
+00:00:07,740 --> 00:00:09,000
+wissenschaftlichen Arbeit.
+
+6
+00:00:11,830 --> 00:00:13,710
+Wir beginnen mit allgemeinen
+
+7
+00:00:13,710 --> 00:00:15,790
+Informationen und schauen uns danach
+
+8
+00:00:15,790 --> 00:00:18,990
+den Aufbau und den Inhalt an. Hier
+
+9
+00:00:18,990 --> 00:00:21,790
+behandeln wir die Unterthemen, die
+
+10
+00:00:21,790 --> 00:00:24,890
+Vorstellung des Themas, das Ziel der
+
+11
+00:00:24,890 --> 00:00:29,450
+Arbeit, Quellen, Methoden, einen
+
+12
+00:00:29,450 --> 00:00:31,410
+Überblick über den Aufbau der Arbeit
+
+13
+00:00:31,410 --> 00:00:34,330
+und was du nicht behandeln wirst.
+
+14
+00:00:35,490 --> 00:00:37,210
+Abschließend gibt es ein Fazit.
+
+15
+00:00:40,160 --> 00:00:41,120
+Allgemeine Informationen
+
+16
+00:00:45,160 --> 00:00:47,400
+Was ist der Zweck einer Einleitung?
+
+17
+00:00:48,400 --> 00:00:50,120
+Zunächst soll sie einen kompakten
+
+18
+00:00:50,120 --> 00:00:52,840
+Eindruck des Themas vermitteln. Sie
+
+19
+00:00:52,840 --> 00:00:54,780
+soll deutlich machen, was den Leser
+
+20
+00:00:54,780 --> 00:00:56,240
+auf den nächsten Seiten erwartet.
+
+21
+00:00:57,060 --> 00:00:59,140
+Außerdem soll sie Neugierde beim
+
+22
+00:00:59,140 --> 00:01:02,640
+Leser wecken. Der Umfang richtet sich
+
+23
+00:01:02,640 --> 00:01:03,680
+nach der Zeit. nach dem Gesamtumfang
+
+24
+00:01:03,680 --> 00:01:06,480
+der wissenschaftlichen Arbeit. Die
+
+25
+00:01:06,480 --> 00:01:09,340
+Einleitung sollte etwa 10% des
+
+26
+00:01:09,340 --> 00:01:13,480
+Gesamttextes ausmachen. Es macht
+
+27
+00:01:13,480 --> 00:01:14,940
+Sinn, die Einleitung erst zu
+
+28
+00:01:14,940 --> 00:01:16,880
+verfassen, wenn bereits der komplette
+
+29
+00:01:16,880 --> 00:01:18,040
+Aufbau bekannt ist.
+
+30
+00:01:20,960 --> 00:01:22,440
+Aufbau und Inhalt.
+
+31
+00:01:25,150 --> 00:01:26,750
+Gehen wir zunächst auf die
+
+32
+00:01:26,750 --> 00:01:29,650
+Vorstellung des Themas ein. Das Thema
+
+33
+00:01:29,650 --> 00:01:31,330
+ist in einem größeren Zusammenhang
+
+34
+00:01:31,330 --> 00:01:34,290
+einzuordnen. Gebe Hinweise auf die
+
+35
+00:01:34,290 --> 00:01:35,830
+übergeordnete Bedeutung oder
+
+36
+00:01:35,830 --> 00:01:39,290
+Aktualität des Themas. Wenn das Thema
+
+37
+00:01:39,290 --> 00:01:41,290
+nicht vorgegeben war, sondern du dich
+
+38
+00:01:41,290 --> 00:01:42,510
+selber für das Thema entschieden
+
+39
+00:01:42,510 --> 00:01:44,710
+hast, dann begründe, warum du dich
+
+40
+00:01:44,710 --> 00:01:46,110
+gerade dafür entschieden hast.
+
+41
+00:01:47,310 --> 00:01:49,130
+Beantworte auch die Frage, warum die
+
+42
+00:01:49,130 --> 00:01:50,610
+Behandlung des Themas eigentlich
+
+43
+00:01:50,610 --> 00:01:51,370
+wichtig ist.
+
+44
+00:01:55,080 --> 00:01:56,860
+Hier zwei Beispiele für einen
+
+45
+00:01:56,860 --> 00:01:58,480
+langweiligen und einen packenden
+
+46
+00:01:58,480 --> 00:02:01,600
+Einstieg. Ein langweiliger Einstieg
+
+47
+00:02:01,600 --> 00:02:04,240
+wäre, diese Arbeit befasst sich mit
+
+48
+00:02:04,240 --> 00:02:07,040
+der Architektur des Kölner Doms. Ein
+
+49
+00:02:07,040 --> 00:02:10,100
+packender Einstieg wäre, der Kölner
+
+50
+00:02:10,100 --> 00:02:11,640
+Dom gehört zu den größten und
+
+51
+00:02:11,640 --> 00:02:13,180
+bedeutendsten Kathedralen im
+
+52
+00:02:13,180 --> 00:02:14,160
+gotischen Baustil.
+
+53
+00:02:16,650 --> 00:02:18,730
+Gehen wir nun auf das Ziel der Arbeit
+
+54
+00:02:18,730 --> 00:02:21,150
+ein. Was willst du auf den nächsten
+
+55
+00:02:21,150 --> 00:02:23,490
+Seiten erreichen? Was willst du
+
+56
+00:02:23,490 --> 00:02:26,470
+beweisen? Welche Positionen bzw.
+
+57
+00:02:26,970 --> 00:02:29,050
+Thesen in der Fachliteratur willst du
+
+58
+00:02:29,050 --> 00:02:31,970
+kritisch hinterfragen? Entwerfe
+
+59
+00:02:31,970 --> 00:02:33,950
+anhand deines Ziels eine oder mehrere
+
+60
+00:02:33,950 --> 00:02:36,050
+Leitfragen, die du in dem Hauptteil
+
+61
+00:02:36,050 --> 00:02:40,170
+beantworten wirst. Achtung! Achte
+
+62
+00:02:40,170 --> 00:02:41,970
+darauf, dass deine Leitfragen im
+
+63
+00:02:41,970 --> 00:02:43,590
+Rahmen deiner Arbeit beantwortet
+
+64
+00:02:43,590 --> 00:02:46,150
+werden können. Das Thema sollte nicht
+
+65
+00:02:46,150 --> 00:02:47,830
+zu weit, aber auch nicht zu eng
+
+66
+00:02:47,830 --> 00:02:48,470
+gefasst sein.
+
+67
+00:02:51,680 --> 00:02:52,860
+Hier siehst du einige
+
+68
+00:02:53,520 --> 00:02:54,360
+Beispielformulierungen, die du
+
+69
+00:02:54,360 --> 00:02:56,320
+benutzen kannst, wenn es um das Ziel
+
+70
+00:02:56,320 --> 00:02:59,900
+der Arbeit geht. Die Arbeit verfolgt
+
+71
+00:02:59,900 --> 00:03:02,900
+folgende Ziele. Das Hauptziel der
+
+72
+00:03:02,900 --> 00:03:05,900
+Arbeit ist. Die Arbeit verdeutlicht.
+
+73
+00:03:06,540 --> 00:03:08,360
+In der der Arbeit soll dargelegt
+
+74
+00:03:08,360 --> 00:03:11,280
+werden wie? Diese Arbeit soll zum
+
+75
+00:03:11,280 --> 00:03:13,540
+Ausdruck bringen, dass... Als
+
+76
+00:03:16,710 --> 00:03:18,430
+nächstes einige Hinweise zur
+
+77
+00:03:18,430 --> 00:03:20,010
+Erwähnung von Quellen in der
+
+78
+00:03:20,010 --> 00:03:23,090
+Einleitung. Gib einen Einblick über
+
+79
+00:03:23,090 --> 00:03:24,570
+die wichtigste Literatur, die du
+
+80
+00:03:24,570 --> 00:03:27,110
+verwendest. Zähle hierbei nicht
+
+81
+00:03:27,110 --> 00:03:28,590
+einfach die einzelnen Bücher und
+
+82
+00:03:28,590 --> 00:03:30,570
+Artikel auf, sondern nehme Bezug auf
+
+83
+00:03:30,570 --> 00:03:33,590
+sie. Zitiere bei Bedarf für dein
+
+84
+00:03:33,590 --> 00:03:37,190
+Thema zentrale Autorenaussagen. Was
+
+85
+00:03:37,190 --> 00:03:38,890
+was leisten die jeweiligen Inhalte.
+
+86
+00:03:40,130 --> 00:03:42,030
+Inwiefern haben sich Autoren bisher
+
+87
+00:03:42,030 --> 00:03:44,810
+mit dem Thema beschäftigt? Die
+
+88
+00:03:44,810 --> 00:03:46,350
+Erwähnung von Quellen hilft dabei,
+
+89
+00:03:46,470 --> 00:03:47,870
+den aktuellen Forschungsstand
+
+90
+00:03:47,870 --> 00:03:48,630
+darzulegen.
+
+91
+00:03:50,880 --> 00:03:52,260
+Hier siehst du einige
+
+92
+00:03:52,260 --> 00:03:54,280
+Beispielformulierungen, damit klar
+
+93
+00:03:54,280 --> 00:03:55,820
+wird, wie man Quellen in einer
+
+94
+00:03:55,820 --> 00:03:59,620
+Einleitung erwähnen kann. Mit der
+
+95
+00:03:59,620 --> 00:04:03,380
+Frage wie … hat sich zuletzt Caroline
+
+96
+00:04:03,380 --> 00:04:06,160
+Meyer umfassend befasst. In ihrem
+
+97
+00:04:06,160 --> 00:04:08,640
+2008 erschienenen Buch zeigt sie das.
+
+98
+00:04:09,260 --> 00:04:14,360
+Meier 2008 Die Standardliteratur zum
+
+99
+00:04:14,360 --> 00:04:17,280
+Thema ... ist nach wie vor das Buch
+
+100
+00:04:17,280 --> 00:04:19,960
+von Gustav Schmidt, in dem der Autor
+
+101
+00:04:19,960 --> 00:04:21,740
+erstmals nachgewiesen hat, dass ...
+
+102
+00:04:22,420 --> 00:04:26,980
+Schmidt 1985 Zu den Meier
+
+103
+00:04:26,980 --> 00:04:28,480
+-Innensteilen der Forschung zählt
+
+104
+00:04:28,480 --> 00:04:31,080
+sicherlich der 1993 erschienene
+
+105
+00:04:31,080 --> 00:04:33,600
+Artikel von Annalena Baulmann, in dem
+
+106
+00:04:33,600 --> 00:04:36,500
+die Autorin ... Baulmann, 1993.
+
+107
+00:04:39,380 --> 00:04:41,640
+Die Forschungsmethoden hängen stark
+
+108
+00:04:41,640 --> 00:04:43,220
+von dem Fach ab, in dem die Arbeit
+
+109
+00:04:43,220 --> 00:04:45,860
+geschrieben wird. In der Schule
+
+110
+00:04:45,860 --> 00:04:47,660
+werden häufig Literaturstudien
+
+111
+00:04:47,660 --> 00:04:50,540
+durchgeführt. Literaturstudien
+
+112
+00:04:50,540 --> 00:04:52,020
+beschäftigen sich kritisch mit einem
+
+113
+00:04:52,020 --> 00:04:54,020
+Thema, wobei nur veröffentlichte
+
+114
+00:04:54,020 --> 00:04:56,200
+Quellen herangezogen werden und keine
+
+115
+00:04:56,200 --> 00:04:57,760
+eigenen Daten erhoben werden.
+
+116
+00:04:59,040 --> 00:05:00,360
+Grundsätzlich solltest du die
+
+117
+00:05:00,360 --> 00:05:02,380
+Methodik in der Einleitung erläutern.
+
+118
+00:05:03,440 --> 00:05:05,500
+Mögliche empirische Methoden sind zum
+
+119
+00:05:05,500 --> 00:05:08,820
+Beispiel Experimente, Beobachtungen,
+
+120
+00:05:08,980 --> 00:05:12,940
+Interviews oder Studien. Mögliche
+
+121
+00:05:12,940 --> 00:05:14,380
+theoretische Methoden sind zum
+
+122
+00:05:14,380 --> 00:05:16,920
+Beispiel der Vergleich mehrerer
+
+123
+00:05:16,920 --> 00:05:19,140
+Forschungsansätze oder eine
+
+124
+00:05:19,140 --> 00:05:23,910
+Dekonstruktion von Gedanken. Ein
+
+125
+00:05:23,910 --> 00:05:25,430
+weiterer wichtiger Punkt in der
+
+126
+00:05:25,430 --> 00:05:27,230
+Einleitung ist der Überblick über den
+
+127
+00:05:27,230 --> 00:05:30,910
+Aufbau der Arbeit. Lege dar, wie du
+
+128
+00:05:30,910 --> 00:05:33,630
+deine Arbeit strukturierst. Gib einen
+
+129
+00:05:33,630 --> 00:05:35,370
+groben Überblick über den Aufbau
+
+130
+00:05:35,370 --> 00:05:38,490
+deiner Argumentation. Zeige dem Leser
+
+131
+00:05:38,490 --> 00:05:40,290
+den roten Phasen, der sich durch
+
+132
+00:05:40,290 --> 00:05:43,230
+deine Ausarbeitung zieht. Du kannst
+
+133
+00:05:43,230 --> 00:05:45,010
+hierbei Bezug auf deine Gliederung
+
+134
+00:05:45,010 --> 00:05:47,150
+bzw. dein Inhaltsverzeichnis nehmen.
+
+135
+00:05:48,070 --> 00:05:50,130
+Die Darlegung des Aufbaus ist
+
+136
+00:05:50,130 --> 00:05:52,250
+wichtig, damit der Leser bereits zu
+
+137
+00:05:52,250 --> 00:05:53,910
+Beginn weiß, was ihn erwartet.
+
+138
+00:05:57,940 --> 00:05:59,760
+Hier ein paar Beispielformulierungen,
+
+139
+00:05:59,780 --> 00:06:01,340
+um den Aufbau einer Arbeit zu
+
+140
+00:06:01,340 --> 00:06:05,260
+erläutern. Zunächst wird geschildert
+
+141
+00:06:05,260 --> 00:06:10,740
+wie, danach, schließlich. Im ersten
+
+142
+00:06:10,740 --> 00:06:14,000
+Abschnitt der Arbeit darauf aufbauend
+
+143
+00:06:14,000 --> 00:06:16,420
+wird im zweiten Abschnitt zum
+
+144
+00:06:16,420 --> 00:06:19,840
+Schluss. Die vorliegende Arbeit
+
+145
+00:06:19,840 --> 00:06:21,720
+gliedert sich in so und so viele
+
+146
+00:06:21,720 --> 00:06:24,800
+große Kapitel. Im ersten Kapitel wird
+
+147
+00:06:24,800 --> 00:06:27,520
+erläutert, wie das zweite Kapitel
+
+148
+00:06:27,520 --> 00:06:31,800
+thematisiert. Hier wird vor allem es
+
+149
+00:06:34,070 --> 00:06:35,710
+macht Sinn, bereits in der Einleitung
+
+150
+00:06:35,710 --> 00:06:37,450
+abzugrenzen, was in der Arbeit
+
+151
+00:06:37,450 --> 00:06:40,550
+behandelt wird und was nicht. Du
+
+152
+00:06:40,550 --> 00:06:42,230
+kannst auch erklären, was du nicht
+
+153
+00:06:42,230 --> 00:06:45,310
+thematisierst. Umfangreiche und
+
+154
+00:06:45,310 --> 00:06:46,650
+komplexe Themen können nicht
+
+155
+00:06:46,650 --> 00:06:48,530
+vollständig in einer Arbeit behandelt
+
+156
+00:06:48,530 --> 00:06:51,650
+werden. Grenze daher dein Thema ein.
+
+157
+00:06:51,970 --> 00:06:53,690
+So erwächst du beim Leser keine
+
+158
+00:06:53,690 --> 00:06:56,690
+falschen Erwartungen. Grundsätzlich
+
+159
+00:06:56,690 --> 00:06:59,330
+gilt, je enger du dein Thema fasst,
+
+160
+00:06:59,330 --> 00:07:00,690
+desto leichter wird dir die
+
+161
+00:07:00,690 --> 00:07:01,490
+Bearbeitung fallen.
+
+162
+00:07:04,840 --> 00:07:05,640
+Hier noch einige
+
+163
+00:07:05,640 --> 00:07:07,680
+Beispielformulierungen zur Abgrenzung
+
+164
+00:07:07,680 --> 00:07:10,540
+des Themenbereichs. Die Arbeit
+
+165
+00:07:10,540 --> 00:07:11,260
+konzentriert sich auf die Themen.
+
+166
+00:07:11,280 --> 00:07:15,240
+sich auf. Die Frage, wie wird nicht
+
+167
+00:07:15,240 --> 00:07:19,180
+behandelt? Auf gehe ich im Folgenden
+
+168
+00:07:19,180 --> 00:07:22,560
+nicht ein. Eine umfassende Behandlung
+
+169
+00:07:22,560 --> 00:07:24,380
+dieses Themas würde den Rahmen der
+
+170
+00:07:24,380 --> 00:07:28,000
+vorliegenden Arbeit sprengen. Nun
+
+171
+00:07:28,000 --> 00:07:29,240
+hast du alle wichtigen Punkte
+
+172
+00:07:29,240 --> 00:07:31,340
+kennengelernt, die eine Einleitung in
+
+173
+00:07:31,340 --> 00:07:32,540
+einer wissenschaftlichen Arbeit
+
+174
+00:07:32,540 --> 00:07:35,220
+enthalten sollte. Die Reihenfolge der
+
+175
+00:07:35,220 --> 00:07:37,340
+Punkte 1 bis 6 kann jedoch variiert
+
+176
+00:07:37,340 --> 00:07:37,600
+werden.
+
+177
+00:07:40,680 --> 00:07:45,600
+Fazit. In der Einleitung machst du
+
+178
+00:07:45,600 --> 00:07:47,200
+den Leser neugierig auf das Thema,
+
+179
+00:07:47,380 --> 00:07:49,840
+führst du in das Thema der Arbeit
+
+180
+00:07:49,840 --> 00:07:52,820
+ein, definierst du das Ziel deiner
+
+181
+00:07:52,820 --> 00:07:55,480
+Arbeit, gibst du einen knappen
+
+182
+00:07:55,480 --> 00:07:56,740
+Einblick über die wichtigste
+
+183
+00:07:56,740 --> 00:07:58,680
+Literatur, die du verwendest und über
+
+184
+00:07:58,680 --> 00:08:00,160
+den aktuellen Forschungsstand,
+
+185
+00:08:00,600 --> 00:08:03,220
+erklärst du die Methoden, die du
+
+186
+00:08:03,220 --> 00:08:04,680
+nutzt, um dein Ziel zu erreichen,
+
+187
+00:08:04,960 --> 00:08:07,600
+stellst du den Aufbau deiner Arbeit
+
+188
+00:08:07,600 --> 00:08:09,980
+vor und schilderst gegebenenfalls,
+
+189
+00:08:09,980 --> 00:08:11,440
+was du nicht thematisierst.
+
+190
+00:08:13,650 --> 00:08:15,570
+Vielen Dank für deine Aufmerksamkeit!
+
+191
+00:08:15,650 --> 00:08:17,550
+und viel Erfolg beim Verfassen der
+
+192
+00:08:17,550 --> 00:08:18,090
+Einleitung.
+

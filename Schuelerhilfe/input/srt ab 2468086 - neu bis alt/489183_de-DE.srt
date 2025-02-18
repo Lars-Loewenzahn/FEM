@@ -1,0 +1,444 @@
+1
+00:00:00,430 --> 00:00:01,730
+Hallo, ich freue mich, dass du heute
+
+2
+00:00:01,730 --> 00:00:03,410
+wieder mit dabei bist. Ich möchte dir
+
+3
+00:00:03,410 --> 00:00:05,290
+gerne in diesem Video ein Muster
+
+4
+00:00:05,290 --> 00:00:06,990
+vorstellen, mit dem man die gängigen
+
+5
+00:00:06,990 --> 00:00:09,270
+Lottoaufgaben lösen kann. Und wie das
+
+6
+00:00:09,270 --> 00:00:10,570
+Ganze funktioniert, möchte ich dir
+
+7
+00:00:10,570 --> 00:00:11,770
+gerne anhand von einem Beispiel
+
+8
+00:00:11,770 --> 00:00:14,570
+demonstrieren. Wir werden heute das
+
+9
+00:00:14,570 --> 00:00:16,410
+Ganze am Lotto aus Deutschland
+
+10
+00:00:16,410 --> 00:00:18,550
+erklären. Dort geht es nämlich darum,
+
+11
+00:00:18,750 --> 00:00:22,090
+sechs richtige von 49 zu markieren.
+
+12
+00:00:22,110 --> 00:00:23,930
+Wir haben also einen Lottoschein mit
+
+13
+00:00:23,930 --> 00:00:26,590
+49 Zahlen drauf und setzen dort sechs
+
+14
+00:00:26,590 --> 00:00:28,970
+Kreuze. Dabei ist es nicht wichtig,
+
+15
+00:00:29,070 --> 00:00:30,510
+in welcher Reihenfolge die Kreuze
+
+16
+00:00:30,510 --> 00:00:33,810
+markiert sind. Ein klassisches
+
+17
+00:00:33,810 --> 00:00:35,330
+Beispiel ist die Frage nach der
+
+18
+00:00:35,330 --> 00:00:38,570
+Wahrscheinlichkeit für 6 Richtige. Um
+
+19
+00:00:38,570 --> 00:00:39,950
+die Wahrscheinlichkeit auszurechnen,
+
+20
+00:00:39,970 --> 00:00:42,010
+überlegen wir uns als erstes, wie
+
+21
+00:00:42,010 --> 00:00:43,610
+viele Möglichkeiten es gibt, 6
+
+22
+00:00:43,610 --> 00:00:46,250
+Richtige zu platzieren. Das Ganze
+
+23
+00:00:46,250 --> 00:00:47,410
+machen wir mit den
+
+24
+00:00:47,410 --> 00:00:49,810
+Binomialkoeffizienten und die
+
+25
+00:00:49,810 --> 00:00:55,190
+Rechnung dazu heißt 49 über 6. Falls
+
+26
+00:00:55,190 --> 00:00:56,130
+du dir mit dieser Rechnung...
+
+27
+00:00:56,150 --> 00:00:57,610
+Rechnerart nicht mehr so sicher bist,
+
+28
+00:00:57,710 --> 00:00:58,910
+kannst du dir dazu auch nochmal das
+
+29
+00:00:58,910 --> 00:01:03,010
+Video anschauen. Das Ergebnis ist 13
+
+30
+00:01:03,010 --> 00:01:06,350
+.983
+
+31
+00:01:06,350 --> 00:01:09,090
+.816.
+
+32
+00:01:09,610 --> 00:01:12,590
+Es gibt also ungefähr 14 Millionen
+
+33
+00:01:12,590 --> 00:01:15,450
+Möglichkeiten, 6 richtige 49 Zahlen
+
+34
+00:01:15,450 --> 00:01:17,710
+zu platzieren. Die Wahrscheinlichkeit
+
+35
+00:01:17,710 --> 00:01:19,250
+daraus, also wie hoch ist die
+
+36
+00:01:19,250 --> 00:01:20,670
+Wahrscheinlichkeit, 6 richtige zu
+
+37
+00:01:20,670 --> 00:01:23,010
+tippen, ist 1 zu ungefähr 14
+
+38
+00:01:23,010 --> 00:01:26,550
+Millionen. Etwas schwieriger wird es,
+
+39
+00:01:26,630 --> 00:01:29,610
+wenn gefragt ist nach 4 von 6
+
+40
+00:01:29,610 --> 00:01:31,890
+Richtigen. Also wir setzen 6 Kreuze
+
+41
+00:01:31,890 --> 00:01:35,110
+und davon sind 4 richtig. Auch hier
+
+42
+00:01:35,110 --> 00:01:37,170
+werfen wir zuerst einen Blick auf die
+
+43
+00:01:37,170 --> 00:01:40,370
+Möglichkeiten. Wir haben hier erstmal
+
+44
+00:01:40,370 --> 00:01:42,070
+ausgerechnet, wie viel Möglichkeit
+
+45
+00:01:42,070 --> 00:01:45,250
+gibt es, unsere 4 richtigen Kreuze in
+
+46
+00:01:45,250 --> 00:01:47,630
+den 6 richtigen zu platzieren und auf
+
+47
+00:01:47,630 --> 00:01:49,430
+der anderen Seite haben wir die
+
+48
+00:01:49,430 --> 00:01:51,790
+Möglichkeiten, unsere 2 nicht
+
+49
+00:01:51,790 --> 00:01:54,330
+richtigen unter den übrigen 43. sich
+
+50
+00:01:54,330 --> 00:01:56,550
+nicht Richtige zu platzieren. Dieses
+
+51
+00:01:56,550 --> 00:01:59,810
+Produkt teilen wir durch alle
+
+52
+00:01:59,810 --> 00:02:01,490
+Möglichkeiten, sechs Richtige zu
+
+53
+00:02:01,490 --> 00:02:05,030
+haben. Die Rechnung sieht wie folgt
+
+54
+00:02:05,030 --> 00:02:08,810
+aus. Als erstes multiplizieren wir
+
+55
+00:02:08,810 --> 00:02:14,610
+die Möglichkeiten 15 mal 903 und
+
+56
+00:02:14,610 --> 00:02:20,510
+teilen das Ganze durch unsere 13.983
+
+57
+00:02:20,510 --> 00:02:24,490
+.816. und erhalten die
+
+58
+00:02:24,490 --> 00:02:25,550
+Wahrscheinlichkeit für dieses
+
+59
+00:02:25,550 --> 00:02:28,170
+Ereignis. Die Wahrscheinlichkeit ist
+
+60
+00:02:28,170 --> 00:02:32,310
+ungefähr 0,097%,
+
+61
+00:02:32,310 --> 00:02:36,350
+also sehr, sehr wenig. Ein weiterer
+
+62
+00:02:36,350 --> 00:02:38,450
+Aufgabentyp ist die Frage nach der
+
+63
+00:02:38,450 --> 00:02:40,550
+Superzahl. Dafür habe ich auch ein
+
+64
+00:02:40,550 --> 00:02:43,110
+Beispiel, nämlich wir möchten gerne
+
+65
+00:02:43,110 --> 00:02:44,610
+wissen, wie hoch ist die
+
+66
+00:02:44,610 --> 00:02:47,450
+Wahrscheinlichkeit für drei Richtige
+
+67
+00:02:47,450 --> 00:02:50,150
+aus sechs und noch mit getroffener
+
+68
+00:02:50,150 --> 00:02:52,150
+Superzahl. Wichtig ist zu wissen, es
+
+69
+00:02:52,150 --> 00:02:54,290
+gibt zehn Zahlen und davon müssen wir
+
+70
+00:02:54,290 --> 00:02:56,210
+eine treffen bei der Superzahl. Die
+
+71
+00:02:56,210 --> 00:02:57,690
+Wahrscheinlichkeit, diese zu treffen,
+
+72
+00:02:57,790 --> 00:03:00,530
+liegt also bei einem Zehntel. Wir
+
+73
+00:03:00,530 --> 00:03:02,150
+gehen genauso vor wie dem Beispiel
+
+74
+00:03:02,150 --> 00:03:05,030
+davor und erstellen uns das
+
+75
+00:03:05,030 --> 00:03:08,750
+Lottomodell. Als erstes überlegen wir
+
+76
+00:03:08,750 --> 00:03:11,030
+uns, wie viel von den sechs richtigen
+
+77
+00:03:11,030 --> 00:03:13,050
+haben wir getroffen, nämlich drei,
+
+78
+00:03:14,010 --> 00:03:17,070
+und multiplizieren das mit dem
+
+79
+00:03:17,070 --> 00:03:18,850
+zweiten Binomialkoeffizienten.
+
+80
+00:03:21,160 --> 00:03:24,820
+43 über 3, denn über den 43 übrigen
+
+81
+00:03:24,820 --> 00:03:26,820
+Zahlen haben wir auch 3 unserer
+
+82
+00:03:26,820 --> 00:03:32,040
+Kreuze. Und teilen das Ganze durch 49
+
+83
+00:03:32,040 --> 00:03:36,820
+über 6. Jetzt kommt die Superzahl
+
+84
+00:03:36,820 --> 00:03:39,560
+hinzu. Wir müssen unsere Lösung
+
+85
+00:03:39,560 --> 00:03:42,140
+nochmal ein Zehntel nehmen, da die
+
+86
+00:03:42,140 --> 00:03:43,480
+Wahrscheinlichkeit, die Superzahl zu
+
+87
+00:03:43,480 --> 00:03:45,960
+treffen, ein Zehntel ist. Wenn ihr
+
+88
+00:03:45,960 --> 00:03:47,880
+die Superzahl nicht trefft, würde an
+
+89
+00:03:47,880 --> 00:03:50,580
+dieser Stelle 9 Zehntel stehen, also
+
+90
+00:03:50,580 --> 00:03:53,700
+die Gegenwahrscheinlichkeit. Fassen
+
+91
+00:03:53,700 --> 00:03:55,460
+wir noch einmal zusammen. Möchtet ihr
+
+92
+00:03:55,460 --> 00:03:57,500
+eine Aufgabe in dieser Art lösen,
+
+93
+00:03:57,520 --> 00:03:58,920
+könnt ihr euch dem Lottomodell
+
+94
+00:03:58,920 --> 00:04:01,380
+bedienen. Dabei steht auf dieser
+
+95
+00:04:01,380 --> 00:04:04,580
+Seite, wie viel der richtigen 6 ihr
+
+96
+00:04:04,580 --> 00:04:08,020
+getroffen habt. Hier die
+
+97
+00:04:08,020 --> 00:04:10,100
+Möglichkeiten, wie ihr die restlichen
+
+98
+00:04:10,100 --> 00:04:11,680
+Kreuze unter den nicht richtigen
+
+99
+00:04:11,680 --> 00:04:13,880
+verteilt habt und teilt das Ganze
+
+100
+00:04:13,880 --> 00:04:16,900
+durch 49 über 6, also alle
+
+101
+00:04:16,900 --> 00:04:19,380
+Möglichkeiten 6 richtige in 49 zu
+
+102
+00:04:19,380 --> 00:04:21,060
+markieren. Wenn ihr euch nicht ganz
+
+103
+00:04:21,060 --> 00:04:25,400
+sicher seid, achtet darauf, dass die
+
+104
+00:04:25,400 --> 00:04:28,460
+beiden oberen Zahlen zusammen addiert
+
+105
+00:04:28,460 --> 00:04:31,280
+immer die 49 ergeben müssen. Dasselbe
+
+106
+00:04:31,280 --> 00:04:32,900
+gilt auch für die Zahlen darunter.
+
+107
+00:04:33,240 --> 00:04:36,320
+Die 3 und die 3 müssen zusammen 6
+
+108
+00:04:36,320 --> 00:04:39,460
+ergeben. Wenn ihr das so habt, dann
+
+109
+00:04:39,460 --> 00:04:40,520
+habt ihr die Formel richtig
+
+110
+00:04:40,520 --> 00:04:44,320
+aufgestellt. Vielen Dank und bis zum
+
+111
+00:04:44,320 --> 00:04:44,820
+nächsten Mal.
+

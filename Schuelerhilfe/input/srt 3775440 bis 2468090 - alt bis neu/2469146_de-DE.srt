@@ -1,0 +1,2908 @@
+1
+00:00:03,220 --> 00:00:05,920
+herzlich willkommen zum webinar daten
+
+2
+00:00:05,920 --> 00:00:08,160
+und zufall ich hoffe dass ihr mich
+
+3
+00:00:08,160 --> 00:00:10,180
+hören könnt wenn dem so ist schreibt
+
+4
+00:00:10,180 --> 00:00:11,840
+bitte einmal ein kurzes ja oder ok
+
+5
+00:00:11,840 --> 00:00:14,400
+unten rechts in den chat rein einfach
+
+6
+00:00:14,400 --> 00:00:15,580
+nur damit ich weiß dass ihr mich
+
+7
+00:00:15,580 --> 00:00:17,220
+hören könnt und wir mit dem webinar
+
+8
+00:00:17,220 --> 00:00:21,880
+beginnen können ok ihr könnt mich
+
+9
+00:00:21,880 --> 00:00:25,500
+hören wunderbar falls ihr gleich
+
+10
+00:00:25,500 --> 00:00:27,600
+irgendwo zu fragen habt stellt die
+
+11
+00:00:27,600 --> 00:00:29,060
+fragen bitte in den chat rein ich
+
+12
+00:00:29,060 --> 00:00:30,540
+kann dann direkt darauf zurückkommen
+
+13
+00:00:30,540 --> 00:00:33,140
+und sie auch beantworten. Ich denke
+
+14
+00:00:33,140 --> 00:00:34,400
+aber auch, dass wir am Ende des
+
+15
+00:00:34,400 --> 00:00:35,880
+Webinars noch Zeit haben für eine
+
+16
+00:00:35,880 --> 00:00:37,300
+kleine Fragerunde. Das heißt, wenn es
+
+17
+00:00:37,300 --> 00:00:39,560
+noch größere Fragen gibt, kann ich
+
+18
+00:00:39,560 --> 00:00:42,780
+die dann auch gerne beantworten. Wir
+
+19
+00:00:42,780 --> 00:00:44,180
+sehen hier jetzt eine kleine
+
+20
+00:00:44,180 --> 00:00:45,560
+Übersicht über die Themen, die wir
+
+21
+00:00:45,560 --> 00:00:48,840
+heute abhandeln werden. Erstmal, wie
+
+22
+00:00:48,840 --> 00:00:50,720
+können wir Daten erheben und ordnen?
+
+23
+00:00:52,060 --> 00:00:53,440
+Danach Häufigkeiten und
+
+24
+00:00:53,440 --> 00:00:54,680
+Häufigkeitsverteilung.
+
+25
+00:00:56,620 --> 00:00:58,140
+Und anschließend werden wir uns mit
+
+26
+00:00:58,140 --> 00:00:59,000
+dem Aufbereiten von
+
+27
+00:01:07,440 --> 00:01:09,340
+Gut, fangen wir mit dem Datenerheben
+
+28
+00:01:09,340 --> 00:01:13,260
+und Ordnen an. Es ist ganz wichtig,
+
+29
+00:01:13,340 --> 00:01:14,860
+wenn man irgendein Zufallsexperiment
+
+30
+00:01:14,860 --> 00:01:16,200
+machen möchte oder irgendwas
+
+31
+00:01:16,200 --> 00:01:17,560
+auswerten möchte, dass man Daten
+
+32
+00:01:17,560 --> 00:01:20,040
+erhebt. Datenerheben ist das Sammeln
+
+33
+00:01:20,040 --> 00:01:22,820
+von Daten, also etwas, was man
+
+34
+00:01:22,820 --> 00:01:24,320
+beobachtet hat und das dann notiert
+
+35
+00:01:24,320 --> 00:01:26,580
+hat. Das ist bei Experimenten und
+
+36
+00:01:26,580 --> 00:01:28,500
+Untersuchungen natürlich gang und
+
+37
+00:01:28,500 --> 00:01:31,420
+gäbe. Darauf basiert alles. ist. Ich
+
+38
+00:01:31,420 --> 00:01:32,760
+denke, jeder kennt Wahlergebnisse.
+
+39
+00:01:33,360 --> 00:01:34,660
+Notenspiegel ist auch nichts weiter
+
+40
+00:01:34,660 --> 00:01:37,040
+als das Ordnen von Daten und
+
+41
+00:01:37,040 --> 00:01:41,100
+Umfrageergebnisse. Man kann die Daten
+
+42
+00:01:41,100 --> 00:01:42,920
+in unterschiedlichsten Weisen ordnen,
+
+43
+00:01:43,000 --> 00:01:44,720
+in Tabellen, in Schaubilden oder in
+
+44
+00:01:44,720 --> 00:01:47,240
+Diagrammen. Zum Beispiel der
+
+45
+00:01:47,240 --> 00:01:49,040
+Notenspiegel ist eine klassische
+
+46
+00:01:49,040 --> 00:01:51,040
+Tabelle. Das könnte man auch noch als
+
+47
+00:01:51,040 --> 00:01:52,660
+Balken- oder Säulendiagramm machen.
+
+48
+00:01:52,780 --> 00:01:54,000
+Das werden wir auch noch später sehen
+
+49
+00:01:54,000 --> 00:02:00,200
+oder in Form eines Graphen. Gut. Hier
+
+50
+00:02:00,200 --> 00:02:01,920
+sehen wir so ziemlich eine der
+
+51
+00:02:01,920 --> 00:02:04,500
+einfachsten Varianten Daten zu
+
+52
+00:02:04,500 --> 00:02:06,260
+sammeln und zwar, wir sehen hier so
+
+53
+00:02:06,260 --> 00:02:08,000
+eine kleine Strichliste. Wir sehen
+
+54
+00:02:08,000 --> 00:02:09,940
+hier erstmal die Anzahl der Jungen,
+
+55
+00:02:09,980 --> 00:02:11,340
+die in dieser Zeile und die Anzahl
+
+56
+00:02:11,340 --> 00:02:12,720
+der Mädchen in der Zeile darunter.
+
+57
+00:02:13,100 --> 00:02:14,840
+Die einzelnen Spalten sind für die
+
+58
+00:02:14,840 --> 00:02:16,840
+unterschiedlichen Klassen, also A, B
+
+59
+00:02:16,840 --> 00:02:20,060
+und C. Und der Vorteil hierbei ist
+
+60
+00:02:20,060 --> 00:02:22,600
+einfach, diese Strichliste ist wie
+
+61
+00:02:22,600 --> 00:02:25,020
+jede Strichliste aufgebaut. Man macht
+
+62
+00:02:25,020 --> 00:02:27,560
+vier senkrechte Striche und den
+
+63
+00:02:27,560 --> 00:02:28,880
+fünften Strich macht man diagonal
+
+64
+00:02:28,880 --> 00:02:30,400
+durch. Man heißt, man hat hier immer
+
+65
+00:02:30,400 --> 00:02:32,120
+Fünferpäckchen. Deswegen kann man das
+
+66
+00:02:32,120 --> 00:02:34,280
+recht schnell durchzählen. Fünf, zehn
+
+67
+00:02:34,280 --> 00:02:37,380
+und zwei, also zwölf Jungen hat die
+
+68
+00:02:37,380 --> 00:02:40,160
+Klasse 6a. Die Klasse 6b hat fünf und
+
+69
+00:02:40,160 --> 00:02:42,520
+zehn, also nur zehn Jungen. Die
+
+70
+00:02:42,520 --> 00:02:45,580
+Klasse 6c hat fünf, zehn, 15 Jungen.
+
+71
+00:02:46,580 --> 00:02:48,380
+Deswegen ist es ganz wichtig, immer
+
+72
+00:02:48,380 --> 00:02:49,920
+wenn man so ein Fünferpäckchen macht,
+
+73
+00:02:52,960 --> 00:02:55,000
+durch und dann das nächste päckchen
+
+74
+00:02:55,000 --> 00:02:58,770
+anfangen bei den mädchen unten
+
+75
+00:02:58,770 --> 00:03:00,870
+funktioniert das genauso 15 und zwei
+
+76
+00:03:00,870 --> 00:03:04,050
+weiter heißt zwölf mädchen 15 15 also
+
+77
+00:03:04,050 --> 00:03:07,550
+die klasse 6b hat 15 mädchen und 9
+
+78
+00:03:07,550 --> 00:03:11,670
+mädchen in der klasse 6c so kann man
+
+79
+00:03:11,670 --> 00:03:14,390
+ganz einfach daten tabelle sammeln
+
+80
+00:03:14,390 --> 00:03:15,350
+fangen
+
+81
+00:03:18,680 --> 00:03:21,040
+wir dann an mit den häufigkeiten und
+
+82
+00:03:21,040 --> 00:03:22,000
+ihrer Verteilung.
+
+83
+00:03:24,420 --> 00:03:26,500
+Man muss ganz klar unterscheiden
+
+84
+00:03:26,500 --> 00:03:30,320
+zwischen absoluter Häufigkeit und
+
+85
+00:03:30,320 --> 00:03:32,120
+relativer Häufigkeit. Die relative
+
+86
+00:03:32,120 --> 00:03:34,040
+Häufigkeit schauen wir uns gleich an.
+
+87
+00:03:34,160 --> 00:03:36,680
+Die absolute Häufigkeit gibt einfach
+
+88
+00:03:36,680 --> 00:03:39,800
+nur an, wie oft das Ereignis eintraf.
+
+89
+00:03:41,040 --> 00:03:42,960
+Das heißt, wir haben noch immer das
+
+90
+00:03:42,960 --> 00:03:44,840
+Beispiel von Grad. Hier haben wir
+
+91
+00:03:44,840 --> 00:03:47,760
+erstmal in der Klasse durchgezählt.
+
+92
+00:03:47,780 --> 00:03:49,080
+Deswegen macht man das so, weil das
+
+93
+00:03:49,080 --> 00:03:51,320
+kann man dann für jeden Schüler oder
+
+94
+00:03:51,320 --> 00:03:53,460
+für jede Schülerin einen Strich
+
+95
+00:03:53,460 --> 00:03:54,560
+machen. Und wenn das Bäckchen voll
+
+96
+00:03:54,560 --> 00:03:56,560
+ist, den Diagonalstrich. Und ganz am
+
+97
+00:03:56,560 --> 00:03:57,880
+Ende, wenn man fertig ist, kann man
+
+98
+00:03:57,880 --> 00:04:00,460
+durchzählen. Dann erhält man diese
+
+99
+00:04:00,460 --> 00:04:04,500
+absolute Verteilung. Also wir haben
+
+100
+00:04:04,500 --> 00:04:06,620
+zwölf Jungen, zwölf Mädchen, hier
+
+101
+00:04:06,620 --> 00:04:09,140
+zehn Jungen, 15 Mädchen und hier 15
+
+102
+00:04:09,140 --> 00:04:12,320
+Jungen und neun Mädchen. Das ist die
+
+103
+00:04:12,320 --> 00:04:14,380
+absolute Verteilung. Die absolute
+
+104
+00:04:14,380 --> 00:04:15,880
+Verteilung gibt wirklich nur an, wie
+
+105
+00:04:15,880 --> 00:04:17,980
+viele Jungen bzw. Mädchen sind in der
+
+106
+00:04:17,980 --> 00:04:23,380
+Klasse. Das hat noch nichts mit der
+
+107
+00:04:23,380 --> 00:04:25,180
+prozentualen Häufigkeit, die viel
+
+108
+00:04:25,180 --> 00:04:28,760
+gängiger ist, zu tun. Diese schauen
+
+109
+00:04:28,760 --> 00:04:30,800
+wir uns nämlich jetzt an. Das ist die
+
+110
+00:04:30,800 --> 00:04:35,080
+relative Häufigkeit. Und die relative
+
+111
+00:04:35,080 --> 00:04:37,580
+Häufigkeit ist die Anzahl eines
+
+112
+00:04:37,580 --> 00:04:40,000
+Ereignisses im Verhältnis zur
+
+113
+00:04:40,000 --> 00:04:42,200
+Gesamtanzahl. Aber die absolute
+
+114
+00:04:42,200 --> 00:04:43,680
+Häufigkeit, die wir uns vorhin
+
+115
+00:04:43,680 --> 00:04:45,820
+angeschaut haben, war nicht im
+
+116
+00:04:45,820 --> 00:04:47,600
+Verhältnis. Das ist der gravierende
+
+117
+00:04:47,600 --> 00:04:51,360
+Unterschied. Die relative Häufigkeit
+
+118
+00:04:51,360 --> 00:04:54,180
+setzt die Anzahl des Ereignisses ins
+
+119
+00:04:54,180 --> 00:04:58,060
+Verhältnis zur Gesamtanzahl. Denn wir
+
+120
+00:04:58,060 --> 00:05:00,340
+können ja nicht sagen, wenn wir bei
+
+121
+00:05:00,340 --> 00:05:01,760
+dieser Verteilung hier sind, bei der
+
+122
+00:05:01,760 --> 00:05:05,180
+absoluten, zwölf Jungen, ist das viel
+
+123
+00:05:05,180 --> 00:05:09,300
+oder ist das wenig? Das wäre, wenn es
+
+124
+00:05:09,300 --> 00:05:11,140
+nur 20 Schüler gibt, ein
+
+125
+00:05:11,140 --> 00:05:13,500
+Durchschnitt. Wenn es aber, wenn die
+
+126
+00:05:13,500 --> 00:05:15,220
+Klasse aus 100 Schülerinnen und
+
+127
+00:05:15,220 --> 00:05:18,060
+Schülern besteht, wäre 12 Junge sehr
+
+128
+00:05:18,060 --> 00:05:21,020
+wenig. Das heißt, an der absoluten
+
+129
+00:05:21,020 --> 00:05:22,200
+Häufigkeit kann man noch nicht
+
+130
+00:05:22,200 --> 00:05:23,660
+wirklich sagen, ob das viel oder
+
+131
+00:05:23,660 --> 00:05:25,640
+wenig ist. Und dafür gibt es nämlich
+
+132
+00:05:25,640 --> 00:05:27,280
+die relative Häufigkeit, weil die
+
+133
+00:05:27,280 --> 00:05:30,460
+einfach das Ereignis ins Verhältnis
+
+134
+00:05:30,460 --> 00:05:32,640
+mit der Gesamtanzahl setzt. Denn
+
+135
+00:05:32,640 --> 00:05:33,880
+jetzt würden hier stehen, wie es hier
+
+136
+00:05:33,880 --> 00:05:38,800
+steht, 12 von... 24. Die relative
+
+137
+00:05:38,800 --> 00:05:40,720
+Häufigkeit erhaltet ihr einfach,
+
+138
+00:05:41,160 --> 00:05:43,080
+indem ihr die absolute Häufigkeit
+
+139
+00:05:43,080 --> 00:05:48,160
+durch die Gesamtanzahl teilt. Wir
+
+140
+00:05:48,160 --> 00:05:49,900
+hatten ja hier vorhin einfach nur die
+
+141
+00:05:49,900 --> 00:05:52,360
+12 und die relative Häufigkeit ist
+
+142
+00:05:52,360 --> 00:05:54,040
+einfach die 12 geteilt durch die 24.
+
+143
+00:05:54,830 --> 00:05:56,820
+Hier unten auch 12 durch 24, immer
+
+144
+00:05:56,820 --> 00:05:59,800
+durch die Anzahl. Hier haben wir 10
+
+145
+00:05:59,800 --> 00:06:02,180
+durch 25, denn die Klasse 6b besteht
+
+146
+00:06:02,180 --> 00:06:03,920
+ja aus 25 Schülerinnen und Schülern.
+
+147
+00:06:04,020 --> 00:06:06,860
+Woher wissen wir das? 10 plus 15 ist
+
+148
+00:06:06,860 --> 00:06:11,000
+25. Die Klasse 6c besteht auch wieder
+
+149
+00:06:11,000 --> 00:06:13,020
+aus 24 Schülerinnen und Schülern.
+
+150
+00:06:13,440 --> 00:06:17,960
+Denn 15 plus 9 ist 24. Das heißt, wir
+
+151
+00:06:17,960 --> 00:06:19,800
+teilen immer durch die Gesamtanzahl
+
+152
+00:06:19,800 --> 00:06:22,400
+und erhalten so die relative
+
+153
+00:06:22,400 --> 00:06:26,500
+Häufigkeit. Habt ihr hierzu Fragen?
+
+154
+00:06:27,560 --> 00:06:29,260
+Schreibt sie uns bitte gerne in den
+
+155
+00:06:29,260 --> 00:06:29,700
+Chat rein.
+
+156
+00:06:35,660 --> 00:06:37,240
+Keine Fragen, aber
+
+157
+00:06:43,260 --> 00:06:43,980
+ihr könnt mich doch hören.
+
+158
+00:07:00,120 --> 00:07:01,120
+Wie gesagt, falls ihr mich noch hören
+
+159
+00:07:01,120 --> 00:07:02,500
+könnt, schreibt mal bitte kurz was in
+
+160
+00:07:02,500 --> 00:07:02,960
+den Chat rein.
+
+161
+00:07:22,960 --> 00:07:25,840
+Okay. Gut, ich hatte nur gerade ein
+
+162
+00:07:25,840 --> 00:07:26,720
+bisschen Sorge, dass ihr mich gar
+
+163
+00:07:26,720 --> 00:07:28,920
+nicht mehr hören könnt. Anscheinend
+
+164
+00:07:28,920 --> 00:07:30,420
+habt ihr keine Fragen, dann mache ich
+
+165
+00:07:30,420 --> 00:07:32,620
+jetzt einfach mal weiter. Wie gesagt,
+
+166
+00:07:32,760 --> 00:07:36,020
+wenn ihr Fragen habt, schreibt sie
+
+167
+00:07:36,020 --> 00:07:38,400
+gerne in den Chat rein. Die relative
+
+168
+00:07:38,400 --> 00:07:40,920
+Häufigkeit wird auch meistens in
+
+169
+00:07:40,920 --> 00:07:44,620
+Prozent angegeben. In Prozent heißt
+
+170
+00:07:44,620 --> 00:07:48,440
+einfach, dass man die Prozentzahl...
+
+171
+00:07:48,580 --> 00:07:50,500
+bildet. Wir sehen hier, jetzt haben
+
+172
+00:07:50,500 --> 00:07:52,260
+wir eine 0,5. Das ist wirklich nur
+
+173
+00:07:52,260 --> 00:07:54,680
+das Ergebnis aus dem Bruch. 12 durch
+
+174
+00:07:54,680 --> 00:07:59,080
+24 ist die 0,5. 10 durch 25 ist dann
+
+175
+00:07:59,080 --> 00:08:03,080
+die 0,4 immer. Also ihr rechnet erst
+
+176
+00:08:03,080 --> 00:08:05,560
+den Bruch aus und dann macht ihr aus
+
+177
+00:08:05,560 --> 00:08:07,980
+dieser Dezimalzahl die Prozentzahl.
+
+178
+00:08:08,000 --> 00:08:09,420
+Das macht ihr einfach, indem ihr das
+
+179
+00:08:10,000 --> 00:08:11,500
+Komma um zwei Stellen nach rechts
+
+180
+00:08:11,500 --> 00:08:14,420
+verschiebt. So wird aus 0,5 50
+
+181
+00:08:14,420 --> 00:08:17,440
+Prozent, aus 0,4 40 Prozent, aus 0,6
+
+182
+00:08:17,580 --> 00:08:25,600
+60% und aus 0,625 62,5% aus 0,375
+
+183
+00:08:25,600 --> 00:08:30,660
+wird 37,5%. Und jetzt können wir
+
+184
+00:08:30,660 --> 00:08:31,700
+sagen, das ist wie gesagt die
+
+185
+00:08:31,700 --> 00:08:36,840
+relative Häufigkeit, 40% der Schüler
+
+186
+00:08:36,840 --> 00:08:42,400
+der Klasse 6b sind Jungen, 60% sind
+
+187
+00:08:42,400 --> 00:08:45,620
+Mädchen. Das ist die relative
+
+188
+00:08:45,620 --> 00:08:49,200
+Häufigkeit. Und das ist auch so das
+
+189
+00:08:49,200 --> 00:08:50,040
+gängige, was man kennt.
+
+190
+00:08:54,260 --> 00:08:56,120
+Das Ganze festigen wir jetzt mal an
+
+191
+00:08:56,120 --> 00:08:58,980
+einem kleinen Beispiel. Und zwar, es
+
+192
+00:08:58,980 --> 00:09:00,260
+geht, wie in der Aufgabe steht, um
+
+193
+00:09:00,260 --> 00:09:01,640
+die Notenverteilung in einer
+
+194
+00:09:01,640 --> 00:09:03,280
+Klassenarbeit und wir sollen die
+
+195
+00:09:03,280 --> 00:09:05,040
+relative und absolute Häufigkeit
+
+196
+00:09:05,040 --> 00:09:06,120
+einer Tabelle darstellen.
+
+197
+00:09:09,640 --> 00:09:11,840
+Als erstes würde man, wenn man so
+
+198
+00:09:11,840 --> 00:09:13,180
+einen Notenspiegel aufstellt, als
+
+199
+00:09:13,180 --> 00:09:15,300
+Lehrkraft hingehen und sich so eine
+
+200
+00:09:15,300 --> 00:09:16,320
+kurze Tabelle machen und die
+
+201
+00:09:16,320 --> 00:09:17,520
+Strichlisten. machen. Das heißt, man
+
+202
+00:09:17,520 --> 00:09:19,560
+nimmt sich nochmal alle Arbeiten vor
+
+203
+00:09:19,560 --> 00:09:21,340
+und guckt, was da für eine Note
+
+204
+00:09:21,340 --> 00:09:23,140
+steht. Dann steht da eine 1. Dann
+
+205
+00:09:23,140 --> 00:09:24,360
+macht man einen Strich bei der 1,
+
+206
+00:09:24,500 --> 00:09:26,240
+legt die Arbeit zur Seite, holt sich
+
+207
+00:09:26,240 --> 00:09:27,920
+die nächste. Dann steht bei der
+
+208
+00:09:27,920 --> 00:09:29,720
+nächsten Arbeit eine 3, dann macht
+
+209
+00:09:29,720 --> 00:09:31,460
+man einen Strich bei der 3 und nimmt
+
+210
+00:09:31,460 --> 00:09:32,640
+wieder die nächste Arbeit und so
+
+211
+00:09:32,640 --> 00:09:33,760
+weiter. Das heißt, man führt als
+
+212
+00:09:33,760 --> 00:09:36,320
+erstes so eine Strichliste, um die
+
+213
+00:09:36,320 --> 00:09:39,940
+Daten aufzuschreiben. Wenn man das
+
+214
+00:09:39,940 --> 00:09:43,320
+getan hat, dann würde man sich so
+
+215
+00:09:43,320 --> 00:09:45,140
+eine kleine Tabelle machen, wo die
+
+216
+00:09:45,140 --> 00:09:47,520
+Anzahl drin steht. Also wir haben 4
+
+217
+00:09:47,520 --> 00:09:50,740
+mal die 1, 7 mal die 2, 10 mal die 3,
+
+218
+00:09:51,280 --> 00:09:55,160
+4 mal die 4 und
+
+219
+00:09:55,160 --> 00:10:00,420
+2 mal die 5 und 0 mal die 6. Um jetzt
+
+220
+00:10:00,420 --> 00:10:03,560
+die relative Häufigkeit zu bilden,
+
+221
+00:10:03,580 --> 00:10:07,120
+müssen wir ja den jeweiligen... Wert
+
+222
+00:10:07,120 --> 00:10:09,560
+durch die Gesamtzahl zu teilen. Das
+
+223
+00:10:09,560 --> 00:10:10,480
+heißt, wir müssen dann erstmal
+
+224
+00:10:10,480 --> 00:10:12,940
+überlegen, wie viele Noten wurden
+
+225
+00:10:12,940 --> 00:10:14,900
+erteilt, beziehungsweise wie viele
+
+226
+00:10:14,900 --> 00:10:16,560
+Schülerinnen und Schüler haben die
+
+227
+00:10:16,560 --> 00:10:18,920
+Arbeit mitgeschrieben. Das heißt, wir
+
+228
+00:10:18,920 --> 00:10:24,540
+rechnen 4 plus 7 plus 10 plus 5 plus
+
+229
+00:10:24,540 --> 00:10:30,560
+2. Das sind dann 28. Um nun die
+
+230
+00:10:30,560 --> 00:10:32,180
+relative Häufigkeit zu bestimmen,
+
+231
+00:10:32,240 --> 00:10:34,260
+teilen wir einfach die 4 durch die
+
+232
+00:10:34,260 --> 00:10:37,540
+28, die 7 durch die 28, die 10 durch
+
+233
+00:10:37,540 --> 00:10:41,100
+die 28, die 5 durch die 28 und die 2
+
+234
+00:10:41,100 --> 00:10:44,420
+durch die 28. Bei der 6, da haben wir
+
+235
+00:10:44,420 --> 00:10:46,020
+eine 0, da kann man die 0 auch durch
+
+236
+00:10:46,020 --> 00:10:48,960
+die 28 teilen, es bleibt aber 0 und
+
+237
+00:10:48,960 --> 00:10:51,520
+das rechnet man als nächstes dann
+
+238
+00:10:51,520 --> 00:10:55,800
+aus. Wie gesagt, aus dem Bruch 4,28
+
+239
+00:10:55,800 --> 00:10:57,120
+würde man jetzt wieder die
+
+240
+00:10:57,120 --> 00:10:59,700
+Dezimalzahl bilden und dann die
+
+241
+00:10:59,700 --> 00:11:00,840
+Prozentzahl nochmal drunter
+
+242
+00:11:00,840 --> 00:11:02,540
+schreiben, wenn man das möchte. Aber
+
+243
+00:11:02,540 --> 00:11:04,440
+das ist schon die relative
+
+244
+00:11:04,440 --> 00:11:07,500
+Häufigkeit. Achtet bitte darauf, wenn
+
+245
+00:11:07,500 --> 00:11:09,280
+ihr so eine Tabelle erstellen sollt,
+
+246
+00:11:09,280 --> 00:11:14,380
+dass es vielleicht gefordert sein
+
+247
+00:11:14,380 --> 00:11:16,660
+kann, dass die relative Häufigkeit in
+
+248
+00:11:16,660 --> 00:11:19,040
+Prozent angegeben werden soll. Also
+
+249
+00:11:19,040 --> 00:11:20,580
+wenn hier oben in der Aufgabe stünde,
+
+250
+00:11:20,660 --> 00:11:22,780
+die relative Häufigkeit in Prozent
+
+251
+00:11:22,780 --> 00:11:24,740
+anzugeben, müssten wir das jetzt hier
+
+252
+00:11:24,740 --> 00:11:28,260
+auch noch tun. Das ist ganz wichtig.
+
+253
+00:11:30,780 --> 00:11:34,940
+Gut, soviel dann dazu. Wenn es keine
+
+254
+00:11:34,940 --> 00:11:37,360
+Fragen dazu gibt, Würde ich jetzt mit
+
+255
+00:11:37,360 --> 00:11:38,540
+Häufigkeitsverteilung und
+
+256
+00:11:38,540 --> 00:11:41,400
+Schwerpunkten weitermachen? Ich warte
+
+257
+00:11:41,400 --> 00:11:43,280
+aber nur ganz kurz, falls noch was
+
+258
+00:11:43,280 --> 00:11:44,040
+geschrieben wird.
+
+259
+00:11:50,390 --> 00:11:54,250
+Okay, wie gesagt, bei Fragen einfach
+
+260
+00:11:54,250 --> 00:11:56,790
+in den Chat. Wir machen dann jetzt
+
+261
+00:11:56,790 --> 00:11:58,810
+weiter mit der Häufigkeitsverteilung
+
+262
+00:11:58,810 --> 00:12:02,670
+und Schwerpunkten. Und zwar, wie bei
+
+263
+00:12:02,670 --> 00:12:04,550
+jeder Klassenarbeit gibt es ja einen
+
+264
+00:12:04,550 --> 00:12:08,530
+Durchschnitt. Und dieser Durchschnitt
+
+265
+00:12:08,530 --> 00:12:10,370
+ist eigentlich das arithmetische
+
+266
+00:12:10,370 --> 00:12:13,270
+Mittel. Und das arithmetische Mittel
+
+267
+00:12:13,270 --> 00:12:15,370
+beschreibt eigentlich nur das, was in
+
+268
+00:12:15,370 --> 00:12:19,490
+der Mitte liegen sollte. Wie man das
+
+269
+00:12:19,490 --> 00:12:21,490
+berechnet, ist recht einfach. Wir
+
+270
+00:12:21,490 --> 00:12:22,310
+haben hier nochmal die
+
+271
+00:12:22,310 --> 00:12:25,490
+Notenverteilung von vorhin. Und um
+
+272
+00:12:25,490 --> 00:12:27,290
+den Notendurchschnitt, also das
+
+273
+00:12:27,290 --> 00:12:28,870
+arithmetische Mittel zu bestimmen,
+
+274
+00:12:29,010 --> 00:12:31,890
+addieren wir alle Noten auf. Aber die
+
+275
+00:12:31,890 --> 00:12:34,230
+Werte, ja. Wir haben 4 mal die 1, das
+
+276
+00:12:34,230 --> 00:12:37,190
+heißt 1 plus 1 plus 1 plus 1. Wir
+
+277
+00:12:37,190 --> 00:12:39,230
+haben 7 mal die 2, also 2 plus 2 plus
+
+278
+00:12:39,230 --> 00:12:43,450
+2 plus 2. Und dann 10 mal die 3 plus
+
+279
+00:12:43,450 --> 00:12:46,910
+5 mal die 4 plus 2 mal die 5 und 0
+
+280
+00:12:46,910 --> 00:12:50,090
+mal die 6. Ihr seht, das ist ein
+
+281
+00:12:50,090 --> 00:12:53,310
+enorm langer Term. Das kann man aber
+
+282
+00:12:53,310 --> 00:12:54,850
+deutlich kürzer schreiben. Das haben
+
+283
+00:12:54,850 --> 00:12:58,290
+wir hier unten. Und zwar 4 mal 1,
+
+284
+00:12:58,370 --> 00:13:01,190
+also die Anzahl mal die Note plus die
+
+285
+00:13:01,190 --> 00:13:03,910
+Anzahl mal die nächste Note plus die
+
+286
+00:13:03,910 --> 00:13:05,550
+Anzahl mal die nächste Note und so
+
+287
+00:13:05,550 --> 00:13:09,650
+weiter. Also 4 mal 1 plus 7 mal. 2
+
+288
+00:13:09,650 --> 00:13:14,730
+plus 10 mal 3 plus 5 mal 4 plus 2 mal
+
+289
+00:13:14,730 --> 00:13:17,990
+5 und wenn man möchte plus 0 mal 6.
+
+290
+00:13:19,170 --> 00:13:20,650
+Das kann man so wesentlich schneller
+
+291
+00:13:20,650 --> 00:13:21,970
+im Taschenrechner eingeben oder auch
+
+292
+00:13:21,970 --> 00:13:22,970
+wesentlich schneller per Hand
+
+293
+00:13:22,970 --> 00:13:25,770
+ausrechnen. Das sind insgesamt 78.
+
+294
+00:13:26,290 --> 00:13:30,130
+Das heißt, es wurden 78 Noten
+
+295
+00:13:30,130 --> 00:13:33,330
+vergeben. Und jetzt teilen wir wieder
+
+296
+00:13:33,330 --> 00:13:37,050
+durch die Anzahl. Also 78 durch die
+
+297
+00:13:37,050 --> 00:13:39,910
+28. Ich wiederhole nochmal, wie man
+
+298
+00:13:39,910 --> 00:13:42,430
+auf die Anzahl kommt. Die gesamte
+
+299
+00:13:42,430 --> 00:13:44,470
+Anzahl ist einfach die Addition aus
+
+300
+00:13:44,470 --> 00:13:46,650
+all den Komponenten, also 4 plus 7
+
+301
+00:13:46,650 --> 00:13:50,650
+plus 10 plus 5 plus 2. Wir sind 28,
+
+302
+00:13:51,170 --> 00:13:54,350
+das heißt wir teilen dann die 78
+
+303
+00:13:54,350 --> 00:13:58,650
+durch die 28 und kommen dann auf 2,8.
+
+304
+00:13:58,710 --> 00:13:59,950
+Und dann könnten wir jetzt
+
+305
+00:13:59,950 --> 00:14:01,530
+abschließend sagen, der
+
+306
+00:14:01,530 --> 00:14:02,450
+Notendurchschnitt dieser
+
+307
+00:14:02,450 --> 00:14:06,950
+Klassenarbeit liegt bei 2,8. Und das
+
+308
+00:14:06,950 --> 00:14:08,210
+ist ein... gar nicht mal so schlecht.
+
+309
+00:14:10,090 --> 00:14:17,370
+Gut, es gibt natürlich mehrere Art
+
+310
+00:14:17,370 --> 00:14:20,710
+von Zentralwerten, mit der man die
+
+311
+00:14:20,710 --> 00:14:22,970
+Verteilung beschreiben kann. Der
+
+312
+00:14:22,970 --> 00:14:27,350
+nächste ist der Modus. Der Modus ist
+
+313
+00:14:27,350 --> 00:14:31,030
+nichts weiter als die am häufigsten
+
+314
+00:14:31,030 --> 00:14:35,130
+auftretende Zahl. Das heißt, wir
+
+315
+00:14:35,130 --> 00:14:38,970
+würden einfach gucken, welche Note
+
+316
+00:14:38,970 --> 00:14:41,690
+wurde am häufigsten vergeben. Also wo
+
+317
+00:14:41,690 --> 00:14:43,190
+ist die Anzahl hier unten am größten?
+
+318
+00:14:43,290 --> 00:14:47,050
+Das ist bei der 3. Die 3 wurde 10 mal
+
+319
+00:14:47,050 --> 00:14:49,170
+vergeben. Das heißt, das wäre unser
+
+320
+00:14:49,170 --> 00:14:50,050
+Modus.
+
+321
+00:14:53,030 --> 00:14:54,550
+Ist es soweit verständlich, wie man
+
+322
+00:14:54,550 --> 00:14:57,250
+den Modus bestimmt? Also für den
+
+323
+00:14:57,250 --> 00:14:58,270
+Modus braucht man eigentlich gar
+
+324
+00:14:58,270 --> 00:14:59,370
+nichts rechnen. Man muss wirklich...
+
+325
+00:14:59,390 --> 00:15:02,210
+nur die daten geordnet aufschreiben
+
+326
+00:15:02,210 --> 00:15:04,430
+so dass man weiß welche note in dem
+
+327
+00:15:04,430 --> 00:15:05,870
+fall am häufigsten vergeben wurde
+
+328
+00:15:05,870 --> 00:15:09,720
+beim arithmetischen mittel vorhin
+
+329
+00:15:09,720 --> 00:15:10,940
+also beim noten durchschnitt mussten
+
+330
+00:15:10,940 --> 00:15:12,200
+wir auch wie man hier unschwer
+
+331
+00:15:12,200 --> 00:15:14,260
+erkennen kann rechnen gut
+
+332
+00:15:17,850 --> 00:15:23,510
+kommen wir dann zum der median diesen
+
+333
+00:15:23,510 --> 00:15:25,430
+solltet ihr eigentlich vom boxplot
+
+334
+00:15:25,430 --> 00:15:28,910
+kennen und zwar der median ist die
+
+335
+00:15:28,910 --> 00:15:32,770
+zahl die in der auflistung in der
+
+336
+00:15:32,770 --> 00:15:34,170
+mitte steht wichtig ist diese
+
+337
+00:15:34,170 --> 00:15:35,750
+auflistung ist in aufsteigender
+
+338
+00:15:35,750 --> 00:15:40,530
+reihenfolge das heißt ihr schreibt
+
+339
+00:15:40,530 --> 00:15:42,570
+diese noten in aufsteigender
+
+340
+00:15:42,570 --> 00:15:43,810
+reihenfolge an das heißt ihr fangt
+
+341
+00:15:43,810 --> 00:15:45,150
+mit der 1 an ihr schreibt vier mal
+
+342
+00:15:45,150 --> 00:15:48,930
+die 1 7 mal die 2 auf zehn mal die 3
+
+343
+00:15:48,930 --> 00:15:52,230
+5 mal die 4 und zweimal die 5 ganz
+
+344
+00:15:52,230 --> 00:15:53,650
+wichtig ist diesmal müsst ihr es
+
+345
+00:15:53,650 --> 00:15:54,590
+wirklich so wie es hier steht
+
+346
+00:15:54,590 --> 00:15:57,970
+aufschreiben und dann müsst ihr den
+
+347
+00:15:57,970 --> 00:15:59,130
+wert der der in der Mitte steht,
+
+348
+00:15:59,170 --> 00:16:02,330
+bestimmen. Das heißt, wir müssen
+
+349
+00:16:02,330 --> 00:16:04,190
+gucken, wie viele Zahlen haben wir
+
+350
+00:16:04,190 --> 00:16:05,750
+und dann in die Mitte gehen. Wir
+
+351
+00:16:05,750 --> 00:16:09,610
+wissen, wir haben 28. Und dann
+
+352
+00:16:09,610 --> 00:16:11,190
+brauchen wir jetzt die 14.
+
+353
+00:16:12,450 --> 00:16:14,450
+Beziehungsweise die 28 ist ja eine
+
+354
+00:16:14,450 --> 00:16:16,170
+gerade Zahl. Es gibt keine Mitte. Das
+
+355
+00:16:16,170 --> 00:16:18,130
+heißt, wir nehmen die 14. und die 15.
+
+356
+00:16:18,330 --> 00:16:23,150
+Also 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+
+357
+00:16:23,170 --> 00:16:27,710
+11, 12, 13, 14 und 15. Zwischen
+
+358
+00:16:27,710 --> 00:16:30,090
+diesen beiden Zahlen ist dann der
+
+359
+00:16:30,090 --> 00:16:34,250
+Median. Und wir haben in dem Fall
+
+360
+00:16:34,250 --> 00:16:36,670
+beides mal 3. Das heißt, der Median
+
+361
+00:16:36,670 --> 00:16:39,250
+ist dann 3. Wenn wir jetzt den Fall
+
+362
+00:16:39,250 --> 00:16:40,590
+hätten und hier zwei verschiedene
+
+363
+00:16:40,590 --> 00:16:42,270
+Zahlen hätten, dann würde man genau
+
+364
+00:16:42,270 --> 00:16:44,150
+die Mitte nehmen. Also angenommen,
+
+365
+00:16:44,230 --> 00:16:46,650
+wir hätten jetzt die 3 und die 4,
+
+366
+00:16:46,790 --> 00:16:51,190
+dann wäre der Median bei 3,5. So ist
+
+367
+00:16:51,190 --> 00:16:53,990
+das. Also, nochmal zusammengefasst,
+
+368
+00:16:54,030 --> 00:16:57,450
+bei dem Median. Schreibt ihr alle
+
+369
+00:16:57,450 --> 00:16:59,970
+Zahlen in geordneter Reihenfolge,
+
+370
+00:16:59,990 --> 00:17:01,710
+also in aufsteigender Reihenfolge auf
+
+371
+00:17:01,710 --> 00:17:04,650
+und bestimmt einfach nur die Zahl,
+
+372
+00:17:04,690 --> 00:17:07,750
+die in der Mitte steht. Achtet dabei
+
+373
+00:17:07,750 --> 00:17:09,790
+drauf, dass man bei geraden Zahlen
+
+374
+00:17:09,790 --> 00:17:14,130
+keine Zahl in der Mitte hat. Da muss
+
+375
+00:17:14,130 --> 00:17:16,050
+man immer die beiden Zahlen, die die
+
+376
+00:17:16,050 --> 00:17:19,290
+Mitte bilden, nehmen und davon die
+
+377
+00:17:19,290 --> 00:17:23,110
+Zahl in der Mitte wählen. Oder eben
+
+378
+00:17:23,110 --> 00:17:24,170
+nicht, wie man hier sieht, wenn man
+
+379
+00:17:24,170 --> 00:17:26,990
+zweimal die gleiche... zahl hat dann
+
+380
+00:17:26,990 --> 00:17:28,430
+bleibt das also die mitte zwischen
+
+381
+00:17:28,430 --> 00:17:30,950
+drei und drei ist eben drei gibt
+
+382
+00:17:32,960 --> 00:17:36,100
+es hierzu eine frage ich denke das
+
+383
+00:17:36,100 --> 00:17:38,020
+ist alles vielleicht nicht ganz so
+
+384
+00:17:38,020 --> 00:17:39,340
+leicht zu verstehen weil es doch
+
+385
+00:17:39,340 --> 00:17:42,600
+recht eine fülle von schwerpunkten
+
+386
+00:17:42,600 --> 00:17:46,300
+gibt das ist ja schon der dritte
+
+387
+00:17:46,300 --> 00:17:47,940
+werden ja mit dem durchschnitt
+
+388
+00:17:47,940 --> 00:17:50,520
+angefangen haben uns über den modus
+
+389
+00:17:50,520 --> 00:17:52,440
+gearbeitet jetzt hin zum medialen
+
+390
+00:17:52,440 --> 00:17:56,470
+aber es scheint keine Fragen zu
+
+391
+00:17:56,470 --> 00:17:57,470
+geben. Dann mache ich einfach weiter.
+
+392
+00:17:59,660 --> 00:18:02,640
+Gut, kommen wir dann zu Daten
+
+393
+00:18:02,640 --> 00:18:06,380
+aufbereiten und darstellen. Es gibt
+
+394
+00:18:06,380 --> 00:18:08,620
+viele Arten Daten darzustellen.
+
+395
+00:18:09,060 --> 00:18:11,060
+Einmal haben wir das Säulendiagramm,
+
+396
+00:18:11,060 --> 00:18:12,660
+ein Balkendiagramm, ein
+
+397
+00:18:12,660 --> 00:18:14,860
+Liniendiagramm und ein Kreisdiagramm.
+
+398
+00:18:15,180 --> 00:18:19,280
+All diese vier Diagrammtypen werden
+
+399
+00:18:19,280 --> 00:18:21,320
+wir uns im Folgenden anschauen.
+
+400
+00:18:22,500 --> 00:18:24,660
+Wichtig ist, passt bitte auf, dass
+
+401
+00:18:24,660 --> 00:18:26,760
+ihr Säulendiagramm und Balkendiagramm
+
+402
+00:18:26,760 --> 00:18:29,240
+auseinanderhaltet. Die sehen nämlich
+
+403
+00:18:29,240 --> 00:18:31,160
+sehr ähnlich aus. Das werden wir
+
+404
+00:18:31,160 --> 00:18:33,260
+gleich noch sehen. Man kann sich das
+
+405
+00:18:33,260 --> 00:18:35,480
+aber eigentlich recht einfach merken,
+
+406
+00:18:35,560 --> 00:18:36,720
+wenn man sich das mal vor Augen
+
+407
+00:18:36,720 --> 00:18:38,960
+führt, wie die Benennung vonstatten
+
+408
+00:18:38,960 --> 00:18:41,940
+ging. Und zwar das Säulendiagramm.
+
+409
+00:18:43,960 --> 00:18:45,660
+Das Säulendiagramm, dabei haben wir
+
+410
+00:18:45,660 --> 00:18:47,980
+Säulen. Säulen gehen immer nach oben.
+
+411
+00:18:49,060 --> 00:18:50,860
+Das heißt, das ist das
+
+412
+00:18:50,860 --> 00:18:53,860
+Säulendiagramm. Das ist das
+
+413
+00:18:53,860 --> 00:18:56,260
+Balkendiagramm. Ihr seht, hier laufen
+
+414
+00:18:56,260 --> 00:18:58,660
+die waagerecht. Deswegen ist das das
+
+415
+00:18:58,660 --> 00:19:00,080
+Balkendiagramm. Und beim
+
+416
+00:19:00,080 --> 00:19:02,580
+Säulendiagramm laufen sie hoch. Das
+
+417
+00:19:02,580 --> 00:19:03,820
+wird leider sehr gerne falsch
+
+418
+00:19:03,820 --> 00:19:05,460
+gemacht, deswegen erwähne ich das
+
+419
+00:19:05,460 --> 00:19:07,060
+jetzt so explizit. Achtet bitte
+
+420
+00:19:07,060 --> 00:19:09,320
+darauf. Eine Säule, zum Beispiel eine
+
+421
+00:19:09,320 --> 00:19:10,980
+Litfaßsäule, die zu Werbezwingen
+
+422
+00:19:10,980 --> 00:19:12,340
+oftmals am Straßenrand steht, steht
+
+423
+00:19:12,340 --> 00:19:15,140
+immer senkrecht. Säulen stehen
+
+424
+00:19:15,140 --> 00:19:15,960
+senkrecht.
+
+425
+00:19:18,960 --> 00:19:20,700
+Gut, kommen wir dazu, wie man das
+
+426
+00:19:20,700 --> 00:19:22,300
+erstellt und wie man Daten abliest
+
+427
+00:19:22,300 --> 00:19:25,980
+davon. Die Höhe dieser Säule gibt die
+
+428
+00:19:25,980 --> 00:19:27,400
+Anzahl der Ereignisse an. Also zum
+
+429
+00:19:27,400 --> 00:19:29,560
+Beispiel, wir sehen, es geht wieder
+
+430
+00:19:29,560 --> 00:19:32,460
+um Anzahlen und um Noten. Wir haben
+
+431
+00:19:32,460 --> 00:19:33,920
+hier unten die Noten aufgetragen, 1,
+
+432
+00:19:34,020 --> 00:19:37,180
+2, 3, 4, 5 und 6. Und hier natürlich
+
+433
+00:19:37,180 --> 00:19:40,480
+die Anzahl. Bei der Note 1 haben wir
+
+434
+00:19:40,480 --> 00:19:42,720
+die Anzahl 4. Das heißt, es gab 4 mal
+
+435
+00:19:42,720 --> 00:19:46,820
+die 1. Bei der Note 2 haben wir 7 mal
+
+436
+00:19:46,820 --> 00:19:50,960
+die Note 2 gehabt. Das heißt die Note
+
+437
+00:19:50,960 --> 00:19:54,040
+2 wurde 7 mal erteilt. Bei der Note 3
+
+438
+00:19:54,040 --> 00:19:56,220
+lesen wir die 10 ab. Das heißt es
+
+439
+00:19:56,220 --> 00:20:01,420
+wurde 10 mal die Note 3 vergeben. Bei
+
+440
+00:20:01,420 --> 00:20:03,360
+der Note 4 lesen wir eine 5 ab. Das
+
+441
+00:20:03,360 --> 00:20:05,500
+heißt es wurde 5 mal die Note 4
+
+442
+00:20:05,500 --> 00:20:10,080
+vergeben. Die Note 5, da lesen wir 2
+
+443
+00:20:10,080 --> 00:20:11,980
+ab. Das Das heißt, es wurde zweimal
+
+444
+00:20:11,980 --> 00:20:14,640
+die Note 5 vergeben. Die Note 6 muss
+
+445
+00:20:14,640 --> 00:20:15,680
+natürlich auch mit aufgenommen
+
+446
+00:20:15,680 --> 00:20:17,840
+werden, hat aber keine Säule, weil
+
+447
+00:20:17,840 --> 00:20:20,460
+sie wurde nullmal vergeben, wie wir
+
+448
+00:20:20,460 --> 00:20:23,460
+ja auch daran erinnern können. Und so
+
+449
+00:20:23,460 --> 00:20:25,060
+macht man das eben. Das heißt also,
+
+450
+00:20:25,260 --> 00:20:27,860
+wenn ihr mal so ein Säulendiagramm
+
+451
+00:20:27,860 --> 00:20:29,500
+zeichnen sollt, zum Beispiel für
+
+452
+00:20:29,500 --> 00:20:32,020
+einen Notenspiegel, hier unten steht
+
+453
+00:20:32,020 --> 00:20:34,160
+immer das Ereignis, also die Note
+
+454
+00:20:34,160 --> 00:20:40,380
+oder die Farbe vom T-Shirt. Weiß Gott
+
+455
+00:20:40,380 --> 00:20:43,700
+was. Oder bei der Klassensprecherwahl
+
+456
+00:20:43,700 --> 00:20:46,560
+die Kandidaten. Und hier in der
+
+457
+00:20:46,560 --> 00:20:48,580
+Achse, die senkrecht steht, steht
+
+458
+00:20:48,580 --> 00:20:51,840
+immer die Anzahl. Und hier tut dann
+
+459
+00:20:51,840 --> 00:20:53,100
+nichts weiter, als ich schreibe hier
+
+460
+00:20:53,100 --> 00:20:54,640
+unten das Ereignis hin, also Note 1.
+
+461
+00:20:55,140 --> 00:20:56,980
+Und mache den Balken, die Säule dann
+
+462
+00:20:56,980 --> 00:20:59,240
+so hoch, bis die bei der
+
+463
+00:20:59,240 --> 00:21:01,560
+entsprechenden Anzahl steht. Also
+
+464
+00:21:01,560 --> 00:21:03,560
+wenn es viermal die Note 1 gab, muss
+
+465
+00:21:03,560 --> 00:21:05,120
+die Säule so hoch sein, bis die bei
+
+466
+00:21:05,120 --> 00:21:07,820
+der 4 endet. Das geht bei kariertem
+
+467
+00:21:07,820 --> 00:21:11,820
+Papier aber eigentlich recht gut. Die
+
+468
+00:21:11,820 --> 00:21:13,380
+Breite von so einer Säule ist
+
+469
+00:21:13,380 --> 00:21:15,580
+eigentlich immer ein Zentimeter oder
+
+470
+00:21:15,580 --> 00:21:19,460
+eine Einheit. Das ist aber nicht ganz
+
+471
+00:21:19,460 --> 00:21:20,840
+so wichtig. Ganz wichtig ist wie
+
+472
+00:21:20,840 --> 00:21:23,360
+gesagt nur, dass ihr hier unten immer
+
+473
+00:21:23,360 --> 00:21:25,920
+das Ereignis hinschreibt und hierhin
+
+474
+00:21:25,920 --> 00:21:32,820
+die Anzahl. Gut, so viel dann zum
+
+475
+00:21:32,820 --> 00:21:34,740
+Säulendiagramm. Wie gesagt, wenn ihr
+
+476
+00:21:34,740 --> 00:21:36,220
+zu den einzelnen Diagrammtypen eine
+
+477
+00:21:36,220 --> 00:21:37,720
+Frage habt, schreibt sie bitte in den
+
+478
+00:21:37,720 --> 00:21:42,320
+Chat rein. das ist ein balken
+
+479
+00:21:42,320 --> 00:21:45,660
+diagramm ihr seht das balken diagramm
+
+480
+00:21:45,660 --> 00:21:46,980
+ähnelt eigentlich sehr stark den
+
+481
+00:21:46,980 --> 00:21:49,300
+sollen diagramm aber das balken
+
+482
+00:21:49,300 --> 00:21:50,420
+diagramm verläuft wie gesagt
+
+483
+00:21:50,420 --> 00:21:55,280
+waagerecht vom prinzip von der
+
+484
+00:21:55,280 --> 00:21:58,300
+aufmachung nicht viel anders wir
+
+485
+00:21:58,300 --> 00:22:01,480
+haben jetzt aber hier unten die
+
+486
+00:22:01,480 --> 00:22:05,160
+anzahl und jetzt hier senkrecht das
+
+487
+00:22:05,160 --> 00:22:07,500
+ereignis Das ist wie gesagt der
+
+488
+00:22:07,500 --> 00:22:09,060
+Unterschied vom Balkendiagramm zum
+
+489
+00:22:09,060 --> 00:22:12,540
+Säulendiagramm. Das Säulendiagramm
+
+490
+00:22:12,540 --> 00:22:13,860
+baut eher in die Breite,
+
+491
+00:22:13,900 --> 00:22:16,000
+Entschuldigung, das Balkendiagramm
+
+492
+00:22:16,000 --> 00:22:17,900
+baut eher in die Breite, das
+
+493
+00:22:17,900 --> 00:22:19,580
+Säulendiagramm eher in die Höhe.
+
+494
+00:22:23,470 --> 00:22:25,190
+Hier ist es auch wieder so, wie
+
+495
+00:22:25,190 --> 00:22:26,630
+gesagt, ich wiederhole das noch
+
+496
+00:22:26,630 --> 00:22:28,610
+einmal ganz kurz. Hier haben wir das
+
+497
+00:22:28,610 --> 00:22:30,130
+Ereignis, hier die Anzahl, das heißt
+
+498
+00:22:30,130 --> 00:22:32,690
+die Note 1 wurde viermal verteilt.
+
+499
+00:22:32,910 --> 00:22:35,950
+Die Note 2 wurde siebenmal verteilt.
+
+500
+00:22:36,210 --> 00:22:39,210
+Die Note 3 wurde kleinmal verteilt
+
+501
+00:22:39,210 --> 00:22:42,670
+und so weiter. So lest ihr das hier
+
+502
+00:22:42,670 --> 00:22:45,530
+ab. Nur achtet bitte darauf, das ist
+
+503
+00:22:45,530 --> 00:22:48,190
+ein Balkendiagramm, das hier ist ein
+
+504
+00:22:48,190 --> 00:22:51,070
+Säulendiagramm. Die anderen
+
+505
+00:22:51,070 --> 00:22:54,030
+Diagrammtypen kann man dafür recht
+
+506
+00:22:54,030 --> 00:22:57,590
+einfach unterscheiden. Erstmal
+
+507
+00:22:57,590 --> 00:22:58,910
+nochmal die Frage, habt ihr Fragen
+
+508
+00:22:58,910 --> 00:23:00,390
+zum Balkendiagramm?
+
+509
+00:23:05,150 --> 00:23:07,630
+Keine Fragen, ok. Dann machen wir
+
+510
+00:23:07,630 --> 00:23:09,970
+jetzt mit dem Liniendiagramm. weiter.
+
+511
+00:23:10,850 --> 00:23:12,810
+Das Liniendiagramm zeichnet sich
+
+512
+00:23:12,810 --> 00:23:14,490
+dadurch aus, dass wir, wie ihr sehen
+
+513
+00:23:14,490 --> 00:23:18,030
+könnt, Linien habt. Wir haben, fast
+
+514
+00:23:18,030 --> 00:23:20,190
+wie beim Säulendiagramm, hier unten
+
+515
+00:23:20,190 --> 00:23:22,270
+die Noten stehen, also das Ereignis
+
+516
+00:23:22,270 --> 00:23:27,850
+und hier die Anzahl. Jetzt werden
+
+517
+00:23:27,850 --> 00:23:29,550
+aber nur Punkte gemacht. Das heißt,
+
+518
+00:23:29,710 --> 00:23:31,650
+wir gehen einfach hin. Wir wissen,
+
+519
+00:23:31,710 --> 00:23:33,810
+die Note 1 wurde viermal verteilt.
+
+520
+00:23:34,110 --> 00:23:35,890
+Heißt, wir machen über der 1 bei der
+
+521
+00:23:35,890 --> 00:23:39,530
+vier ein kreuzchen bei der 2 geben
+
+522
+00:23:39,530 --> 00:23:40,850
+wir auch hoch wir wissen sie wurde
+
+523
+00:23:40,850 --> 00:23:42,490
+sieben mal verteilt und machen dann
+
+524
+00:23:42,490 --> 00:23:45,350
+hier oben bei der 7 ein kreuzchen die
+
+525
+00:23:45,350 --> 00:23:46,970
+drei wohl zehn mal verteilt dann
+
+526
+00:23:46,970 --> 00:23:48,690
+gehen wir hoch bis zu zehn machen da
+
+527
+00:23:48,690 --> 00:23:50,830
+ein kreuzchen und das macht mir für
+
+528
+00:23:50,830 --> 00:23:52,870
+alle sechs noten bitte auch hier die
+
+529
+00:23:52,870 --> 00:23:54,990
+note 6 dies null mal gab eintragen
+
+530
+00:23:54,990 --> 00:23:56,830
+das ist dann entsprechend juten auf
+
+531
+00:23:56,830 --> 00:23:59,130
+der achse Und dann verbinden wir
+
+532
+00:23:59,130 --> 00:24:00,690
+diese Punkte geradlinig.
+
+533
+00:24:04,210 --> 00:24:07,450
+Diese Linien sind aber nicht immer
+
+534
+00:24:07,450 --> 00:24:10,030
+sinnvoll.
+
+535
+00:24:10,950 --> 00:24:15,080
+Aber oftmals sind sie gefordert. Also
+
+536
+00:24:15,080 --> 00:24:17,160
+bei Noten ist es eigentlich nicht
+
+537
+00:24:17,160 --> 00:24:21,200
+sonderlich gut, aber es soll
+
+538
+00:24:21,200 --> 00:24:25,160
+theoretisch vorhanden sein. Gibt es
+
+539
+00:24:25,160 --> 00:24:26,440
+hierzu eine Frage?
+
+540
+00:24:33,280 --> 00:24:34,040
+Okay.
+
+541
+00:24:36,760 --> 00:24:38,160
+Machen wir jetzt mit dem letzten
+
+542
+00:24:38,160 --> 00:24:40,120
+Diagrammtyp, dem Kreisdiagramm,
+
+543
+00:24:40,140 --> 00:24:43,940
+weiter. Und zwar, für das
+
+544
+00:24:43,940 --> 00:24:45,700
+Kreisdiagramm müsst ihr erstmal einen
+
+545
+00:24:45,700 --> 00:24:47,660
+Kreis zeichnen. Also das ist ein
+
+546
+00:24:47,660 --> 00:24:49,180
+dreidimensionaler Kreis, den braucht
+
+547
+00:24:49,180 --> 00:24:50,040
+ihr so nicht zeichnen. Ihr müsst
+
+548
+00:24:50,040 --> 00:24:52,040
+einfach einen normalen Kreis zeichnen
+
+549
+00:24:52,040 --> 00:24:57,860
+und dann die einzelnen relativen
+
+550
+00:24:57,860 --> 00:25:02,100
+Häufigkeiten einzeichnen. Das geht
+
+551
+00:25:02,100 --> 00:25:04,880
+wie folgt. Als erstes müssen wir die
+
+552
+00:25:04,880 --> 00:25:06,320
+relative Häufigkeit bilden, das ist
+
+553
+00:25:06,320 --> 00:25:09,680
+ganz wichtig Und dann müssen wir die
+
+554
+00:25:09,680 --> 00:25:13,420
+relative Häufigkeit mit 360°
+
+555
+00:25:13,420 --> 00:25:18,960
+multiplizieren Denn der Kreis hat ja
+
+556
+00:25:18,960 --> 00:25:21,140
+360° Denn wir müssen ja überlegen,
+
+557
+00:25:21,160 --> 00:25:23,120
+wir zeichnen jetzt hier Winkel ein
+
+558
+00:25:23,120 --> 00:25:25,340
+immer Wenn ihr ein Kreisdiagramm
+
+559
+00:25:25,340 --> 00:25:26,760
+zeichnen wollt, müsst ihr immer
+
+560
+00:25:26,760 --> 00:25:30,300
+Winkel einzeichnen Also müsst ihr für
+
+561
+00:25:30,300 --> 00:25:32,460
+jede Note den entsprechenden Winkel
+
+562
+00:25:32,460 --> 00:25:34,480
+berechnen Und das macht ihr, indem
+
+563
+00:25:34,480 --> 00:25:37,140
+ihr die relative Häufigkeit mit 360°
+
+564
+00:25:37,140 --> 00:25:40,540
+multipliziert. Wie wir die relative
+
+565
+00:25:40,540 --> 00:25:41,800
+Häufigkeit berechnen, haben wir ja
+
+566
+00:25:41,800 --> 00:25:44,620
+gerade gesehen. Diese setzen wir dann
+
+567
+00:25:44,620 --> 00:25:47,780
+hier ein und rechnen mal 360. Dann
+
+568
+00:25:47,780 --> 00:25:50,200
+kommt zum Beispiel für Note 1 der
+
+569
+00:25:50,200 --> 00:25:53,260
+Winkel 51°. Und man wird dann einfach
+
+570
+00:25:53,260 --> 00:25:55,600
+so anfangen. Man macht erstmal vom
+
+571
+00:25:55,600 --> 00:25:56,920
+Kreismittelpunkt nach oben einen
+
+572
+00:25:56,920 --> 00:25:59,320
+Strich und trägt dann den Winkel 51°
+
+573
+00:25:59,320 --> 00:26:04,340
+ab. So. Dann... Machen wir mit der
+
+574
+00:26:04,340 --> 00:26:05,640
+Note 2 weiter. Also dann machen wir
+
+575
+00:26:05,640 --> 00:26:07,140
+auch hier so einen Strich, dass wir
+
+576
+00:26:07,140 --> 00:26:10,440
+hier sozusagen ein kleines Pizzastück
+
+577
+00:26:10,440 --> 00:26:13,580
+abgetrennt haben. Danach rechnen wir
+
+578
+00:26:13,580 --> 00:26:15,080
+den Winkel für Note 2 aus. Das geht
+
+579
+00:26:15,080 --> 00:26:17,200
+wie gesagt genauso. Relative
+
+580
+00:26:17,200 --> 00:26:19,360
+Häufigkeiten mal 360°, in dem Fall
+
+581
+00:26:19,360 --> 00:26:22,800
+90°. Dann messen wir von diesem
+
+582
+00:26:22,800 --> 00:26:25,520
+Strich hier 90° ab. Das ist dann der
+
+583
+00:26:25,520 --> 00:26:29,400
+hier. hier ja dann ziehen wir auch in
+
+584
+00:26:29,400 --> 00:26:31,100
+den strich und messen von diesem
+
+585
+00:26:31,100 --> 00:26:32,460
+strich dann wieder den winkel für den
+
+586
+00:26:32,460 --> 00:26:36,280
+für den nächsten kreis ausschnitt das
+
+587
+00:26:36,280 --> 00:26:38,540
+ist für die note 3 ja das macht ihr
+
+588
+00:26:38,540 --> 00:26:41,720
+immer so weiter beim letzten braucht
+
+589
+00:26:41,720 --> 00:26:43,060
+es natürlich nicht machen denn dann
+
+590
+00:26:43,060 --> 00:26:45,200
+wird man wieder hier auskommen und
+
+591
+00:26:47,350 --> 00:26:49,050
+damit ist das kreis diagramm auch
+
+592
+00:26:49,050 --> 00:26:53,300
+schon fertig gibt es dazu eine frage
+
+593
+00:26:53,300 --> 00:26:54,020
+keine
+
+594
+00:27:00,420 --> 00:27:02,000
+fragen okay
+
+595
+00:27:09,200 --> 00:27:10,960
+Eigentlich ist es egal, was für einen
+
+596
+00:27:10,960 --> 00:27:12,480
+Durchmesser der Kreis des
+
+597
+00:27:12,480 --> 00:27:14,540
+Kreisdiagramms hat. Oftmals steht
+
+598
+00:27:14,540 --> 00:27:16,240
+aber in der Aufgabe ein Kreisdiagramm
+
+599
+00:27:16,240 --> 00:27:17,940
+mit dem Durchmesser 10 cm. Das heißt,
+
+600
+00:27:17,980 --> 00:27:20,380
+der Kreisdurchmesser soll dann 10 cm
+
+601
+00:27:20,380 --> 00:27:22,520
+betragen. Lasst euch davon bitte
+
+602
+00:27:22,520 --> 00:27:23,800
+nicht irritieren. Macht dann einfach
+
+603
+00:27:23,800 --> 00:27:25,020
+einen Kreis mit einem Durchmesser von
+
+604
+00:27:25,020 --> 00:27:27,140
+10 cm und fertig.
+
+605
+00:27:30,720 --> 00:27:33,160
+Gut, dann machen wir jetzt weiter mit
+
+606
+00:27:33,160 --> 00:27:34,640
+den Zufallsversuchen und
+
+607
+00:27:34,640 --> 00:27:35,920
+Wahrscheinlichkeit.
+
+608
+00:27:37,920 --> 00:27:40,060
+Es gibt ja jede Menge zufällige
+
+609
+00:27:40,060 --> 00:27:43,380
+Vorgänge, also Würfeln, Münzenwurf,
+
+610
+00:27:43,500 --> 00:27:45,060
+Glücksrad und viele andere Sachen,
+
+611
+00:27:45,140 --> 00:27:46,480
+vielleicht sogar aus dem alltäglichen
+
+612
+00:27:46,480 --> 00:27:49,040
+Leben. Und diese haben alle
+
+613
+00:27:49,040 --> 00:27:51,000
+gemeinsam, dass ihr Ereignis nicht
+
+614
+00:27:51,000 --> 00:27:52,800
+vorhersehbar ist. Wenn wir eine Münze
+
+615
+00:27:52,800 --> 00:27:54,560
+hochwerfen, wissen wir nicht, ob Kopf
+
+616
+00:27:54,560 --> 00:27:56,100
+oder Zahl kommt. Wenn wir einen
+
+617
+00:27:56,100 --> 00:27:57,660
+Würfel werfen, wissen wir nicht,
+
+618
+00:27:57,700 --> 00:28:00,740
+welche Augenzahl erscheint. Das
+
+619
+00:28:00,740 --> 00:28:03,060
+einzige, was wir kennen oder was man
+
+620
+00:28:03,060 --> 00:28:06,020
+abschätzen kann, ist die Menge der
+
+621
+00:28:06,020 --> 00:28:07,800
+möglichen Ergebnisse. Also der
+
+622
+00:28:07,800 --> 00:28:10,320
+Ergebnisraum Groß-Omega nennt sich
+
+623
+00:28:10,320 --> 00:28:12,040
+das. Also dieses blaue Zeichen hier
+
+624
+00:28:12,040 --> 00:28:14,380
+ist ein großes Omega. Das ist wie
+
+625
+00:28:14,380 --> 00:28:15,500
+gesagt das Formelzeichen für den
+
+626
+00:28:15,500 --> 00:28:17,020
+Ergebnisraum. Dazu kommen wir aber
+
+627
+00:28:17,020 --> 00:28:17,440
+gleich noch.
+
+628
+00:28:21,140 --> 00:28:23,200
+Unser Ereignis oder unser Ergebnis
+
+629
+00:28:23,200 --> 00:28:26,840
+ist dann Teil dieses Ergebnisraums.
+
+630
+00:28:30,760 --> 00:28:32,340
+Es gibt dann auch so etwas wie
+
+631
+00:28:32,340 --> 00:28:34,680
+sichere Ereignisse oder unmögliche
+
+632
+00:28:34,680 --> 00:28:38,320
+Ereignisse. Sichere Ereignisse ist
+
+633
+00:28:38,320 --> 00:28:40,680
+zum Beispiel, wenn ihr eine Münze
+
+634
+00:28:40,680 --> 00:28:44,020
+hochwerft, ist sicher, dass Kopf oder
+
+635
+00:28:44,020 --> 00:28:48,480
+Zahl kommt. Ein unmögliches Ereignis
+
+636
+00:28:48,480 --> 00:28:49,840
+ist aber zum Beispiel, dass wenn ihr
+
+637
+00:28:49,840 --> 00:28:52,560
+die Münze einmal hochwerft, das Kopf
+
+638
+00:28:52,560 --> 00:28:55,060
+und Zahl gleichzeitig erscheinen. Das
+
+639
+00:28:55,060 --> 00:28:55,800
+geht wiederum nicht.
+
+640
+00:29:00,290 --> 00:29:02,070
+Gut, schauen wir uns diese ganzen
+
+641
+00:29:02,070 --> 00:29:04,950
+Sachen an. Mal anhand eines Würfels
+
+642
+00:29:04,950 --> 00:29:08,870
+an. Ein ganz normaler Spielwürfel,
+
+643
+00:29:08,890 --> 00:29:10,570
+wie man ihn kennt, hat erstmal sechs
+
+644
+00:29:10,570 --> 00:29:12,150
+Seiten. Das heißt, er hat die Zahlen
+
+645
+00:29:12,150 --> 00:29:16,590
+1 bis 6. Der Ergebnisraum, Groß
+
+646
+00:29:16,590 --> 00:29:21,130
+Omega, ist dann 1, 2, 3, 4, 5 und 6.
+
+647
+00:29:21,670 --> 00:29:23,670
+Das sind diese sechs möglichen
+
+648
+00:29:23,670 --> 00:29:25,730
+Ereignisse oder Ergebnisse, die wir
+
+649
+00:29:25,730 --> 00:29:26,270
+kriegen können.
+
+650
+00:29:29,290 --> 00:29:31,070
+Jetzt müsst ihr natürlich euer
+
+651
+00:29:31,070 --> 00:29:33,290
+gewünschtes Ereignis definieren. Das
+
+652
+00:29:33,290 --> 00:29:35,350
+heißt beispielsweise, wenn ihr beim
+
+653
+00:29:35,350 --> 00:29:36,690
+Mensch-Ere-Dich nicht ansetzen wollt,
+
+654
+00:29:36,790 --> 00:29:38,830
+braucht ihr eine 6. Dann ist euer
+
+655
+00:29:38,830 --> 00:29:40,650
+gewünschtes Ereignis eine 6 zu
+
+656
+00:29:40,650 --> 00:29:43,450
+würfeln. Das große E ist das
+
+657
+00:29:43,450 --> 00:29:45,470
+Formelzeichen für das Ereignis und
+
+658
+00:29:45,470 --> 00:29:47,950
+das ist dann bei euch eine große 6,
+
+659
+00:29:48,070 --> 00:29:49,790
+damit ihr aus eurem Pot rauskommt.
+
+660
+00:29:49,790 --> 00:29:54,640
+Und die Wahrscheinlichkeit, dass
+
+661
+00:29:54,640 --> 00:29:57,760
+dieses Ereignis eintrifft, berechnet
+
+662
+00:29:57,760 --> 00:30:00,760
+man mit dieser Formel. P ist wie
+
+663
+00:30:00,760 --> 00:30:02,740
+gesagt die Wahrscheinlichkeit, E ist
+
+664
+00:30:02,740 --> 00:30:05,640
+euer Ereignis bzw. eure
+
+665
+00:30:05,640 --> 00:30:09,060
+Ereignismenge. Und das große Sigma
+
+666
+00:30:09,060 --> 00:30:11,060
+war wie gesagt euer Ereignisraum oder
+
+667
+00:30:11,060 --> 00:30:15,580
+die Menge der Ereignisse. Das gibt
+
+668
+00:30:15,580 --> 00:30:17,900
+man in der Regel in Prozent an. Das
+
+669
+00:30:17,900 --> 00:30:19,240
+heißt, dass man das dann mit 100
+
+670
+00:30:19,240 --> 00:30:20,660
+multipliziert. Denn hier ist das hier
+
+671
+00:30:20,660 --> 00:30:21,800
+wie ein ganz normaler Bruch, das
+
+672
+00:30:21,800 --> 00:30:24,380
+sehen wir hier unten gleich. Und dann
+
+673
+00:30:24,380 --> 00:30:26,180
+würde wieder eine Dezimalzahl
+
+674
+00:30:26,180 --> 00:30:29,280
+rauskommen mit 0, und dann zwei
+
+675
+00:30:29,280 --> 00:30:31,740
+Zahlen dahinter. Ihr wisst es aber,
+
+676
+00:30:31,840 --> 00:30:32,740
+man sagt immer mit einer
+
+677
+00:30:32,740 --> 00:30:34,880
+Wahrscheinlichkeit von, in dem Fall
+
+678
+00:30:34,880 --> 00:30:36,940
+hier unten, 16,7%. Das heißt, man
+
+679
+00:30:36,940 --> 00:30:37,660
+nutzt immer diese
+
+680
+00:30:37,660 --> 00:30:40,480
+Prozentschreibweise. Daher sollte man
+
+681
+00:30:40,480 --> 00:30:41,980
+auch, wenn es in der Mathematik um
+
+682
+00:30:41,980 --> 00:30:43,500
+Wahrscheinlichkeiten geht, die
+
+683
+00:30:43,500 --> 00:30:45,340
+Wahrscheinlichkeit in Prozent am Ende
+
+684
+00:30:45,340 --> 00:30:49,050
+angeben. Gut, kommen wir zu unserem
+
+685
+00:30:49,050 --> 00:30:50,430
+Beispiel. Ihr wollt aus eurem Pod
+
+686
+00:30:50,430 --> 00:30:53,070
+raus und wir überlegen, wie groß ist
+
+687
+00:30:53,070 --> 00:30:54,690
+die Wahrscheinlichkeit, eine 6 zu
+
+688
+00:30:54,690 --> 00:30:56,630
+würfeln. Wir fangen nochmal ganz von
+
+689
+00:30:56,630 --> 00:30:58,970
+vorne an. Unser Würfel hat ja 6
+
+690
+00:30:58,970 --> 00:31:00,810
+Seiten, das heißt, wir haben ja im
+
+691
+00:31:00,810 --> 00:31:03,710
+Ereignisraum alle ganzen Zahlen von 1
+
+692
+00:31:03,710 --> 00:31:06,070
+bis 6. Also haben wir die
+
+693
+00:31:06,070 --> 00:31:10,250
+Ereignismenge 6. 1, 2, 3, 4, 5, 6
+
+694
+00:31:10,250 --> 00:31:16,030
+Zahlen. Wir brauchen aber nur eine 6.
+
+695
+00:31:16,050 --> 00:31:18,490
+6. Das heißt, wie viele Möglichkeiten
+
+696
+00:31:18,490 --> 00:31:23,330
+haben wir? Eine. Nur die 6. Und jetzt
+
+697
+00:31:23,330 --> 00:31:24,690
+setzen wir das ganz einfach nur in
+
+698
+00:31:24,690 --> 00:31:28,350
+diese Formel hier ein. E ist 1 und
+
+699
+00:31:28,350 --> 00:31:33,310
+das Großomega ist 6. Beziehungsweise
+
+700
+00:31:33,310 --> 00:31:34,890
+der Betrag von Großomega ist 6 und
+
+701
+00:31:34,890 --> 00:31:39,090
+der Betrag von dem Ereignis E ist 1.
+
+702
+00:31:39,310 --> 00:31:41,430
+Und so kommen wir auf p, also die
+
+703
+00:31:41,430 --> 00:31:42,910
+Wahrscheinlichkeit ist gleich ein
+
+704
+00:31:42,910 --> 00:31:47,950
+Sechstel. Das sind 16,7%. Das heißt,
+
+705
+00:31:48,030 --> 00:31:50,710
+mit einer Wahrscheinlichkeit von 16,7
+
+706
+00:31:50,710 --> 00:31:54,190
+% könnt ihr eine 6 erzielen und
+
+707
+00:31:54,190 --> 00:31:54,830
+ansetzen.
+
+708
+00:31:57,530 --> 00:31:59,790
+War das soweit verständlich und gibt
+
+709
+00:31:59,790 --> 00:32:00,430
+es hierzu Fragen?
+
+710
+00:32:08,100 --> 00:32:08,840
+Keine Fragen?
+
+711
+00:32:13,780 --> 00:32:15,880
+Okay, wenn es keine Fragen gibt, dann
+
+712
+00:32:15,880 --> 00:32:17,260
+wären wir jetzt auch schon am Ende
+
+713
+00:32:17,260 --> 00:32:18,980
+des Webinars. Ich bedanke mich
+
+714
+00:32:18,980 --> 00:32:21,140
+erstmal für eure Aufmerksamkeit und
+
+715
+00:32:21,140 --> 00:32:22,800
+hoffe, dass die Inhalte verständlich
+
+716
+00:32:22,800 --> 00:32:24,700
+rüber... gekommen sind. Falls ihr
+
+717
+00:32:24,700 --> 00:32:25,800
+noch Fragen habt, könnt ihr die sehr
+
+718
+00:32:25,800 --> 00:32:28,360
+gerne stellen. Wir haben noch Zeit
+
+719
+00:32:28,360 --> 00:32:31,380
+für eine gute Fragerunde. Das heißt,
+
+720
+00:32:31,520 --> 00:32:32,960
+ich werde noch ein bisschen im Raum
+
+721
+00:32:32,960 --> 00:32:34,500
+bleiben und auf eure Fragen warten.
+
+722
+00:32:34,940 --> 00:32:36,900
+Wenn ihr keine Fragen habt, könnt ihr
+
+723
+00:32:36,900 --> 00:32:38,480
+den Raum wie gesagt gerne verlassen.
+
+724
+00:32:38,740 --> 00:32:40,160
+Ich bedanke mich dann jetzt schon mal
+
+725
+00:32:40,160 --> 00:32:42,160
+für eure Aufmerksamkeit nochmal und
+
+726
+00:32:42,160 --> 00:32:43,720
+wünsche euch noch einen schönen
+
+727
+00:32:43,720 --> 00:32:44,220
+Sonntag.
+

@@ -1,0 +1,2452 @@
+1
+00:00:04,400 --> 00:00:06,280
+Herzlich willkommen zum Webinar
+
+2
+00:00:06,280 --> 00:00:08,040
+Trigonometrie. Wir werden uns in
+
+3
+00:00:08,040 --> 00:00:09,640
+diesem Webinar mit trigonometrischen
+
+4
+00:00:09,640 --> 00:00:11,520
+Funktionen sowie den Sinus- und den
+
+5
+00:00:11,520 --> 00:00:14,300
+Kosinussatz beschäftigen. Dabei
+
+6
+00:00:14,300 --> 00:00:15,900
+werden wir auch darauf eingehen, wann
+
+7
+00:00:15,900 --> 00:00:19,560
+etwas verwendet wird und warum wir
+
+8
+00:00:19,560 --> 00:00:21,020
+den Sinus- und den Kosinussatz
+
+9
+00:00:21,020 --> 00:00:22,880
+brauchen. Diese Erkenntnisse werden
+
+10
+00:00:22,880 --> 00:00:25,160
+wir auch an diesen drei Beispielen
+
+11
+00:00:25,160 --> 00:00:26,040
+vermitteln, die wir dann natürlich
+
+12
+00:00:26,040 --> 00:00:29,760
+zusammen erarbeiten und das bereits
+
+13
+00:00:29,760 --> 00:00:31,180
+vorher Gelehrte dort nochmal
+
+14
+00:00:31,180 --> 00:00:32,740
+angewendet und entsprechend nochmal
+
+15
+00:00:32,740 --> 00:00:35,300
+erklärt. wird. Fangen wir zunächst
+
+16
+00:00:35,300 --> 00:00:37,060
+mit den drei in der Schule
+
+17
+00:00:37,060 --> 00:00:38,580
+gebräuchlichen trigonometrischen
+
+18
+00:00:38,580 --> 00:00:42,020
+Funktionen an. Bevor wir das aber
+
+19
+00:00:42,020 --> 00:00:43,980
+tun, schauen wir uns erstmal an, was
+
+20
+00:00:43,980 --> 00:00:45,900
+sind trigonometrische Funktionen. Und
+
+21
+00:00:45,900 --> 00:00:47,240
+zwar, trigonometrische Funktionen
+
+22
+00:00:47,240 --> 00:00:48,360
+sind eigentlich eine sehr praktische
+
+23
+00:00:48,360 --> 00:00:50,860
+Sache, denn sie stellen Zusammenhänge
+
+24
+00:00:50,860 --> 00:00:52,700
+in einem rechtwinkligen Dreieck dar
+
+25
+00:00:52,700 --> 00:00:55,520
+oder auf. Ganz wichtig ist, das gilt
+
+26
+00:00:55,520 --> 00:00:57,200
+nur in einem rechtwinkligen Dreieck.
+
+27
+00:00:57,260 --> 00:00:58,800
+Wir dürfen diese also ausschließlich
+
+28
+00:00:58,800 --> 00:01:00,120
+in in rechtwinkligen Dreiecken
+
+29
+00:01:00,120 --> 00:01:02,320
+verwenden. Das heißt also, wenn kein
+
+30
+00:01:02,320 --> 00:01:04,060
+rechtwinkliges Dreieck vorliegt,
+
+31
+00:01:04,460 --> 00:01:05,480
+können wir sie leider nicht
+
+32
+00:01:05,480 --> 00:01:09,400
+verwenden. Ein rechterer Winkel in
+
+33
+00:01:09,400 --> 00:01:10,780
+einem Dreieck wird immer durch so
+
+34
+00:01:10,780 --> 00:01:11,780
+einen Punkt gekennzeichnet, das
+
+35
+00:01:11,780 --> 00:01:13,420
+heißt, es ist ein 90-Grad-Winkel, das
+
+36
+00:01:13,420 --> 00:01:14,780
+heißt, ein rechter Winkel liegt vor
+
+37
+00:01:14,780 --> 00:01:17,300
+und dann können wir entsprechend auch
+
+38
+00:01:17,300 --> 00:01:18,720
+die trigonometrischen Funktionen
+
+39
+00:01:18,720 --> 00:01:22,360
+anwenden. Und wenn wir mit dem, ich
+
+40
+00:01:22,360 --> 00:01:23,700
+nehme es jetzt mal vorweg, Sinus,
+
+41
+00:01:23,700 --> 00:01:25,400
+Kosinus oder Tangens, das sind die
+
+42
+00:01:25,400 --> 00:01:27,500
+drei in der Schule verwendeten
+
+43
+00:01:27,500 --> 00:01:28,760
+trigonometrischen Funktionen,
+
+44
+00:01:28,760 --> 00:01:31,880
+arbeiten, dann sprechen wir auch von
+
+45
+00:01:31,880 --> 00:01:34,180
+Katheten und Hypotenusen oder genauer
+
+46
+00:01:34,180 --> 00:01:37,180
+gesagt von Ankathete und Gegenkathete
+
+47
+00:01:37,180 --> 00:01:40,200
+und einer Hypotenuse. Ich würde immer
+
+48
+00:01:40,200 --> 00:01:41,820
+raten, dass man zuerst nach der
+
+49
+00:01:41,820 --> 00:01:44,560
+Hypotenuse schaut, denn von dort an
+
+50
+00:01:44,560 --> 00:01:46,000
+kann man immer eine gute Übersicht
+
+51
+00:01:46,000 --> 00:01:48,600
+schaffen. Ganz wichtig dabei. Die
+
+52
+00:01:48,600 --> 00:01:51,920
+Hypotenuse ist wirklich immer die
+
+53
+00:01:51,920 --> 00:01:54,320
+längste Seite im Dreieck und sie
+
+54
+00:01:54,320 --> 00:01:55,740
+liegt dem rechten Winkel gegenüber.
+
+55
+00:01:56,080 --> 00:01:57,720
+Das heißt, wenn das hier unser
+
+56
+00:01:57,720 --> 00:01:59,420
+rechter Winkel ist, dann ist das hier
+
+57
+00:01:59,420 --> 00:02:00,780
+die Hypotenuse. Ich denke, man sieht
+
+58
+00:02:00,780 --> 00:02:04,100
+es auch, die Seite C ist in diesem
+
+59
+00:02:04,100 --> 00:02:06,380
+Dreieck die längste Seite und sie ist
+
+60
+00:02:06,380 --> 00:02:10,180
+auch die Hypotenuse. Bei Ankatheter
+
+61
+00:02:10,180 --> 00:02:11,500
+und Gegenkatheter wird es leider
+
+62
+00:02:11,500 --> 00:02:12,960
+etwas komplexer. Also wenn das hier
+
+63
+00:02:12,960 --> 00:02:14,860
+die Hypotenuse ist, sind A und B
+
+64
+00:02:14,860 --> 00:02:16,780
+Katheten. welche von beiden die An-
+
+65
+00:02:16,780 --> 00:02:17,680
+und welche von den beiden die
+
+66
+00:02:17,680 --> 00:02:19,420
+Gegenkathete ist, muss dann
+
+67
+00:02:19,420 --> 00:02:21,120
+entsprechend geklärt werden mittels
+
+68
+00:02:21,120 --> 00:02:23,640
+des Winkels. Und das schauen wir uns
+
+69
+00:02:23,640 --> 00:02:26,520
+jetzt an. Denn die Ankathete ist
+
+70
+00:02:26,520 --> 00:02:28,440
+immer die Kathete, die am Winkel dran
+
+71
+00:02:28,440 --> 00:02:30,940
+ist. Wir haben noch immer das Dreieck
+
+72
+00:02:30,940 --> 00:02:33,020
+von vorhin, das heißt C ist weiterhin
+
+73
+00:02:33,020 --> 00:02:35,780
+unsere Hypotenuse. Und hier haben wir
+
+74
+00:02:35,780 --> 00:02:38,040
+im Landwinkel Beta. Und das ist ja
+
+75
+00:02:38,040 --> 00:02:39,600
+hier eine Kathete, also A und B ist
+
+76
+00:02:39,600 --> 00:02:42,820
+ja auch eine Kathete. Und für Beta
+
+77
+00:02:42,820 --> 00:02:45,300
+gilt, dass A die Ankathete ist, weil
+
+78
+00:02:45,300 --> 00:02:47,120
+das ist die Kathete, die am Winkel
+
+79
+00:02:47,120 --> 00:02:49,680
+dran ist. Und B ist dann entsprechend
+
+80
+00:02:49,680 --> 00:02:51,860
+die Gegenkathete, also die Kathete,
+
+81
+00:02:51,940 --> 00:02:55,240
+die gegenüber vom Winkel ist. Das
+
+82
+00:02:55,240 --> 00:02:57,920
+Ganze ändert sich natürlich, sobald
+
+83
+00:02:57,920 --> 00:03:00,680
+wir den Winkel Alpha betrachten. Wenn
+
+84
+00:03:00,680 --> 00:03:02,280
+wir den Winkel Alpha betrachten, ist
+
+85
+00:03:02,280 --> 00:03:04,200
+C natürlich weiterhin die Hypotenuse.
+
+86
+00:03:04,200 --> 00:03:07,080
+Nur ist dann die Seite B, die An
+
+87
+00:03:07,080 --> 00:03:10,260
+-Kathete, und die Seite A, die Gegen
+
+88
+00:03:10,260 --> 00:03:15,020
+-Kathete. Das ist ganz wichtig. Also
+
+89
+00:03:15,020 --> 00:03:17,080
+An-Kathete ist immer die Kathete, die
+
+90
+00:03:17,080 --> 00:03:19,660
+am Winkel ist, und Gegen-Kathete ist
+
+91
+00:03:19,660 --> 00:03:22,040
+die Kathete, die gegenüber vom Winkel
+
+92
+00:03:22,040 --> 00:03:25,100
+ist. Bitte jedes Mal, wenn man einen
+
+93
+00:03:25,100 --> 00:03:27,000
+anderen Winkel bekommt, das einmal
+
+94
+00:03:27,000 --> 00:03:29,360
+genau kontrollieren, weil wenn man
+
+95
+00:03:29,360 --> 00:03:30,340
+jetzt so ein Dreieck alles daran
+
+96
+00:03:30,340 --> 00:03:31,940
+berechnen soll, dann rechnet man
+
+97
+00:03:31,940 --> 00:03:33,300
+manchmal mit dem Winkel Beta. Und
+
+98
+00:03:33,300 --> 00:03:35,160
+manchmal mit dem Winkel Alpha. Und
+
+99
+00:03:35,160 --> 00:03:36,820
+dann ändern sich natürlich auch die
+
+100
+00:03:36,820 --> 00:03:39,100
+Anker- und Gegenkatheten. Weil, wie
+
+101
+00:03:39,100 --> 00:03:42,140
+gesagt, B ist Anker-Kathete von Alpha
+
+102
+00:03:42,140 --> 00:03:44,740
+und A ist die Anker-Kathete von Beta.
+
+103
+00:03:45,760 --> 00:03:49,640
+Also da bitte aufpassen. Gut, dann
+
+104
+00:03:49,640 --> 00:03:51,340
+kommen wir jetzt dazu, was das
+
+105
+00:03:51,340 --> 00:03:53,720
+überhaupt angeht. Also, wir sehen,
+
+106
+00:03:53,820 --> 00:03:55,980
+der Sinus von einem Winkel ist immer
+
+107
+00:03:55,980 --> 00:03:59,860
+ein Bruch. Also der Sinus zum
+
+108
+00:03:59,860 --> 00:04:01,880
+Beispiel ist die Gegenkathete
+
+109
+00:04:01,880 --> 00:04:03,640
+geteilt. durch die hypotenuse das
+
+110
+00:04:03,640 --> 00:04:05,240
+heißt wenn wir den winkel alpha
+
+111
+00:04:05,240 --> 00:04:08,080
+betrachten gegen kathete hier ist
+
+112
+00:04:08,080 --> 00:04:09,780
+alpha das ist ja unsere hypotenuse
+
+113
+00:04:09,780 --> 00:04:11,340
+weil hier ist der rechte winkel das
+
+114
+00:04:11,340 --> 00:04:13,680
+heißt das ist die ankathete und a ist
+
+115
+00:04:13,680 --> 00:04:14,820
+dann entsprechend die gegen kathete
+
+116
+00:04:14,820 --> 00:04:17,500
+das heißt in diesem dreieck gilt der
+
+117
+00:04:17,500 --> 00:04:21,620
+sinus von alpha ist a durch c wie wir
+
+118
+00:04:21,620 --> 00:04:23,200
+sehen haben wir eine gleichung mit
+
+119
+00:04:23,200 --> 00:04:26,200
+drei parametern das heißt wenn wir
+
+120
+00:04:26,200 --> 00:04:28,220
+jetzt zwei einsetzen können wir den
+
+121
+00:04:28,220 --> 00:04:31,100
+dritten als variable bestimmen ja
+
+122
+00:04:31,100 --> 00:04:33,320
+also wenn wir hier zwei größen kennen
+
+123
+00:04:33,320 --> 00:04:35,340
+entweder ein winkel oder eine länge
+
+124
+00:04:35,340 --> 00:04:37,160
+oder bei der länge können wir die
+
+125
+00:04:37,160 --> 00:04:40,620
+dritte größe bestimmen die sinus
+
+126
+00:04:40,620 --> 00:04:41,920
+funktion ist im taschenrechner
+
+127
+00:04:41,920 --> 00:04:43,140
+einprogrammiert das ist die gute
+
+128
+00:04:43,140 --> 00:04:45,000
+nachricht und befindet sich unter
+
+129
+00:04:45,000 --> 00:04:47,360
+einer sinus taste ganz wichtig ist
+
+130
+00:04:47,360 --> 00:04:50,080
+die taschenrechner bzw mathematik
+
+131
+00:04:50,080 --> 00:04:51,180
+rechnet man auch oft mit dem
+
+132
+00:04:51,180 --> 00:04:54,980
+radialmaß wir Wir rechnen aber hier
+
+133
+00:04:54,980 --> 00:04:56,640
+in der Geometrie immer mit dem Degree
+
+134
+00:04:56,640 --> 00:04:59,020
+Mode. Das heißt, dass wir die Winkel
+
+135
+00:04:59,020 --> 00:05:01,840
+in Grad angeben. Und das heißt, es
+
+136
+00:05:01,840 --> 00:05:02,960
+ist ganz wichtig, dass die
+
+137
+00:05:02,960 --> 00:05:04,400
+Taschenrechner auch auf diesem Degree
+
+138
+00:05:04,400 --> 00:05:07,380
+Mode stehen. Sonst wird das Richtige
+
+139
+00:05:07,380 --> 00:05:09,160
+eingegeben und es kommt ein komisches
+
+140
+00:05:09,160 --> 00:05:12,140
+Ergebnis raus. Das kommt dann nämlich
+
+141
+00:05:12,140 --> 00:05:13,600
+leider im Bogenmaß raus und wir
+
+142
+00:05:13,600 --> 00:05:17,520
+wollen es in Grad haben. So ähnlich
+
+143
+00:05:17,520 --> 00:05:19,000
+sieht es auch für den Cosinus und den
+
+144
+00:05:19,000 --> 00:05:21,720
+Tangens aus. Der Cosinus von einem
+
+145
+00:05:21,720 --> 00:05:23,180
+Winkel ist die Ankathete geteilt
+
+146
+00:05:23,180 --> 00:05:25,800
+durch die Hypotenuse. Wir haben noch
+
+147
+00:05:25,800 --> 00:05:27,240
+immer das gleiche Dreieck wie vorhin.
+
+148
+00:05:27,400 --> 00:05:30,140
+Hier oben ist der rechte Winkel. Das
+
+149
+00:05:30,140 --> 00:05:31,660
+heißt C ist weiterhin unsere
+
+150
+00:05:31,660 --> 00:05:34,780
+Hypotenuse und unser Winkel Alpha ist
+
+151
+00:05:34,780 --> 00:05:37,520
+weiterhin unten links. Das heißt B
+
+152
+00:05:37,520 --> 00:05:39,920
+ist die Ankathete und deswegen gilt
+
+153
+00:05:39,920 --> 00:05:43,060
+der Cosinus von Alpha ist B durch C.
+
+154
+00:05:45,030 --> 00:05:47,610
+Der Tangens ist die trigonometrische
+
+155
+00:05:47,610 --> 00:05:49,510
+Funktion bei der man keine Hypotenuse
+
+156
+00:05:49,510 --> 00:05:50,770
+braucht. Das heißt, wir brauchen nur
+
+157
+00:05:50,770 --> 00:05:52,990
+Gegenkathete und Ankathete, denn wie
+
+158
+00:05:52,990 --> 00:05:54,510
+ihr schon seht, der Tangens vom
+
+159
+00:05:54,510 --> 00:05:55,750
+Winkel Alpha ist gleich die
+
+160
+00:05:55,750 --> 00:05:57,570
+Gegenkathete durch die Ankathete.
+
+161
+00:05:57,890 --> 00:05:59,610
+Auch hier selbiges Dreieck wie
+
+162
+00:05:59,610 --> 00:06:01,310
+vorhin, das heißt, hier ist der
+
+163
+00:06:01,310 --> 00:06:02,750
+rechte Winkel, das wäre unsere
+
+164
+00:06:02,750 --> 00:06:04,450
+Hypotenuse, die wir beim Tangens ja,
+
+165
+00:06:04,510 --> 00:06:07,050
+wie gesagt, nicht brauchen. B ist
+
+166
+00:06:07,050 --> 00:06:08,950
+entsprechend die Ankathete und A
+
+167
+00:06:08,950 --> 00:06:11,770
+entsprechend die Gegenkathete. Und
+
+168
+00:06:11,770 --> 00:06:14,010
+damit könnten wir nun einen Winkel
+
+169
+00:06:14,010 --> 00:06:17,670
+berechnen. Soviel dazu.
+
+170
+00:06:20,490 --> 00:06:21,430
+Funktionen müssen auch in der
+
+171
+00:06:21,430 --> 00:06:22,670
+Formelsammlung stehen. Es ist aber
+
+172
+00:06:22,670 --> 00:06:24,470
+durchaus vorteilhaft, wenn man diese
+
+173
+00:06:24,470 --> 00:06:26,670
+auswendig kennt. Dann ist das Wissen
+
+174
+00:06:26,670 --> 00:06:28,170
+nämlich immer abrufbereit und man ist
+
+175
+00:06:28,170 --> 00:06:32,270
+entsprechend produktiver. Wir haben
+
+176
+00:06:32,270 --> 00:06:35,610
+bis jetzt ja nur Winkel eingesetzt,
+
+177
+00:06:35,630 --> 00:06:36,490
+beziehungsweise ich habe
+
+178
+00:06:41,710 --> 00:06:43,790
+wie fast immer gibt es natürlich auch
+
+179
+00:06:43,790 --> 00:06:45,690
+eine Umkehrfunktion. Diese
+
+180
+00:06:45,690 --> 00:06:47,470
+Umkehrfunktion wird gebraucht, wenn
+
+181
+00:06:47,470 --> 00:06:49,330
+wir einen Winkel ausrechnen wollen.
+
+182
+00:06:49,330 --> 00:06:51,410
+Wenn wir zwei Seitenlängen einsetzen
+
+183
+00:06:51,410 --> 00:06:52,770
+und einen Winkel ausrechnen wollen,
+
+184
+00:06:52,930 --> 00:06:54,950
+müssen wir den Winkel Alpha aus
+
+185
+00:06:54,950 --> 00:06:56,230
+dieser Sinusfunktion hier
+
+186
+00:06:56,230 --> 00:06:58,010
+rauskriegen. Und dafür brauchen wir
+
+187
+00:06:58,010 --> 00:07:00,050
+die Umkehrfunktion. Und die
+
+188
+00:07:00,050 --> 00:07:01,910
+Umkehrfunktion von Sinus ist der
+
+189
+00:07:01,910 --> 00:07:05,170
+Sinus hoch minus 1. Die
+
+190
+00:07:05,170 --> 00:07:06,570
+Umkehrfunktion von Cosinus, dann
+
+191
+00:07:06,570 --> 00:07:08,330
+sprechen wir Cosinus hoch minus 1 und
+
+192
+00:07:08,330 --> 00:07:10,030
+vom Tangens der Tangens hoch minus 1.
+
+193
+00:07:11,370 --> 00:07:13,410
+Richtig müsste es heißen, anstatt
+
+194
+00:07:13,410 --> 00:07:17,030
+Sinus hoch minus 1 Arcus Sinus. Es
+
+195
+00:07:17,030 --> 00:07:18,670
+wird aber auf allen Taschenrechnern,
+
+196
+00:07:18,690 --> 00:07:19,950
+die in der Schule benutzt werden,
+
+197
+00:07:20,310 --> 00:07:22,890
+Sinus hoch minus 1 genutzt Und das
+
+198
+00:07:22,890 --> 00:07:24,650
+ist dann im schulischen Rahmen auch
+
+199
+00:07:24,650 --> 00:07:29,030
+durchaus akzeptiert Gut, wie gesagt,
+
+200
+00:07:29,250 --> 00:07:30,710
+diese Taste befindet sich auch auf
+
+201
+00:07:30,710 --> 00:07:32,310
+dem Taschenrechner Und damit nutzt
+
+202
+00:07:32,310 --> 00:07:33,950
+man die Sinus hoch minus 1 Funktion,
+
+203
+00:07:34,090 --> 00:07:36,130
+das ist die Umkehrfunktion Und dann
+
+204
+00:07:36,130 --> 00:07:37,270
+kann man das entsprechend, wie man
+
+205
+00:07:37,270 --> 00:07:39,190
+hier sieht, umstellen Wichtig ist,
+
+206
+00:07:39,250 --> 00:07:41,310
+der Sinus hoch minus 1 hebt natürlich
+
+207
+00:07:41,310 --> 00:07:43,910
+den Sinus auf, das heißt, es bleibt
+
+208
+00:07:43,910 --> 00:07:45,890
+nur Alpha stehen und wenn man vorher
+
+209
+00:07:45,890 --> 00:07:47,130
+nichts stehen hatte, dann nimmt man
+
+210
+00:07:47,130 --> 00:07:49,450
+den Sinus hoch minus 1 von A durch C
+
+211
+00:07:49,450 --> 00:07:52,050
+und kann so den Winkel bestimmen.
+
+212
+00:07:55,020 --> 00:07:57,080
+Die drei trinometrischen Funktionen,
+
+213
+00:07:57,080 --> 00:07:59,180
+Sinus, Kosinus und Tangens, die
+
+214
+00:07:59,180 --> 00:08:01,260
+gerade vorgestellt wurden, sind, wie
+
+215
+00:08:01,260 --> 00:08:02,940
+anfangs hoffentlich eindringlich
+
+216
+00:08:02,940 --> 00:08:05,780
+erwähnt, ausschließlich im
+
+217
+00:08:05,780 --> 00:08:08,420
+rechtwinkligen Dreieck anzuwenden.
+
+218
+00:08:08,420 --> 00:08:10,840
+Wenn man jetzt leider ein Dreieck
+
+219
+00:08:10,840 --> 00:08:12,460
+vorliegen hat, welches nicht
+
+220
+00:08:12,460 --> 00:08:13,900
+rechtwinklig ist, kann man sie
+
+221
+00:08:13,900 --> 00:08:16,820
+entsprechend nicht nutzen. Das heißt,
+
+222
+00:08:17,000 --> 00:08:20,340
+man muss das Dreieck erst so
+
+223
+00:08:20,340 --> 00:08:21,680
+zerteilen, dass man ein
+
+224
+00:08:21,680 --> 00:08:23,460
+rechtwinkliges Dreieck erhält. Das
+
+225
+00:08:23,460 --> 00:08:24,780
+ist leider auch nicht immer möglich.
+
+226
+00:08:25,480 --> 00:08:27,420
+Und wenn dies leider nicht möglich
+
+227
+00:08:27,420 --> 00:08:29,220
+ist, muss man sich mit anderen
+
+228
+00:08:29,220 --> 00:08:31,520
+Mitteln helfen. Das ist dann der
+
+229
+00:08:31,520 --> 00:08:33,300
+Sinus- und der Kosinussatz. Diese
+
+230
+00:08:33,300 --> 00:08:35,240
+darf man nämlich auch im nicht
+
+231
+00:08:35,240 --> 00:08:37,900
+rechtwinkligen Dreieck verwenden. Und
+
+232
+00:08:37,900 --> 00:08:39,920
+man sieht hier schon, der Sinussatz
+
+233
+00:08:39,920 --> 00:08:41,600
+ist A durch den Sinus von Alpha ist
+
+234
+00:08:41,600 --> 00:08:43,280
+gleich B durch den Sinus von Beta und
+
+235
+00:08:43,280 --> 00:08:44,800
+das ist gleich C durch den Sinus von
+
+236
+00:08:44,800 --> 00:08:48,420
+Gamma. Man sieht, es geht einfach
+
+237
+00:08:48,420 --> 00:08:50,960
+nach dem Alphabet ABC Alpha Beta
+
+238
+00:08:50,960 --> 00:08:54,700
+Gamma. Und das heißt im Umkehrschluss
+
+239
+00:08:54,700 --> 00:08:57,780
+nichts weiter als der Winkel, die
+
+240
+00:08:57,780 --> 00:08:59,420
+Seite geteilt durch den Sinus vom
+
+241
+00:08:59,420 --> 00:09:01,440
+gegenüberliegenden Winkel. Wenn man
+
+242
+00:09:01,440 --> 00:09:02,820
+sich das mal im Dreieck anschaut,
+
+243
+00:09:02,860 --> 00:09:06,520
+wird man das entsprechend sehen. Das
+
+244
+00:09:06,520 --> 00:09:08,240
+kann man also, wie man hier sieht,
+
+245
+00:09:08,340 --> 00:09:11,700
+sehr gut dafür nutzen, um eine Seite
+
+246
+00:09:11,700 --> 00:09:13,760
+oder einen Winkel auszurechnen, wenn
+
+247
+00:09:13,760 --> 00:09:16,760
+zwei Winkel und eine Seite oder zwei
+
+248
+00:09:16,760 --> 00:09:18,240
+Seiten und ein Winkel gegeben sind.
+
+249
+00:09:18,880 --> 00:09:20,740
+Das heißt, wenn man drei Größen hat,
+
+250
+00:09:20,800 --> 00:09:22,700
+kann man die vierte errechnen. Das
+
+251
+00:09:22,700 --> 00:09:24,340
+ist sehr praktisch und das gilt
+
+252
+00:09:24,340 --> 00:09:25,400
+natürlich auch, wie jetzt gerade
+
+253
+00:09:25,400 --> 00:09:26,480
+schon erwähnt, im nicht
+
+254
+00:09:26,480 --> 00:09:29,160
+rechtwinkligen Dreieck. Hier sieht
+
+255
+00:09:29,160 --> 00:09:30,420
+man das, wenn wir jetzt zum Beispiel
+
+256
+00:09:30,420 --> 00:09:33,380
+Alpha, B und Beta kennen. Da müssen
+
+257
+00:09:33,380 --> 00:09:35,700
+wir nur nach A umstellen. Fall recht
+
+258
+00:09:35,700 --> 00:09:37,720
+simpel, indem wir mit Sinus von Alpha
+
+259
+00:09:37,720 --> 00:09:40,040
+multiplizieren. Dann entsteht der A
+
+260
+00:09:40,040 --> 00:09:42,100
+ist gleich B durch der Sinus von Beta
+
+261
+00:09:42,100 --> 00:09:44,960
+mal der Sinus von Alpha. Durch das
+
+262
+00:09:44,960 --> 00:09:46,620
+Einsetzen von B, Beta und Alpha
+
+263
+00:09:46,620 --> 00:09:47,980
+könnten wir dann jetzt die
+
+264
+00:09:47,980 --> 00:09:52,480
+Seitenlänge A ermitteln. Die zweite
+
+265
+00:09:52,480 --> 00:09:54,820
+Möglichkeit ist der Cosinussatz.
+
+266
+00:09:54,940 --> 00:09:56,260
+Deswegen heißt es ja auch Sinus und
+
+267
+00:09:56,260 --> 00:09:58,800
+Cosinussatz. Der Cosinussatz ist
+
+268
+00:09:58,800 --> 00:10:00,220
+meiner Meinung nach ein wenig
+
+269
+00:10:00,220 --> 00:10:03,100
+komplexer. Um den Cosinussatz zu
+
+270
+00:10:03,100 --> 00:10:05,060
+nutzen, braucht man man immer zwei
+
+271
+00:10:05,060 --> 00:10:06,960
+Seiten und die von den zwei Seiten
+
+272
+00:10:06,960 --> 00:10:09,920
+eingeschlossenen Winkel. Mit diesen
+
+273
+00:10:09,920 --> 00:10:13,460
+Angaben kann man dann die dem Winkel
+
+274
+00:10:13,460 --> 00:10:15,180
+gegenüberliegende Seite, in dem Fall
+
+275
+00:10:15,180 --> 00:10:18,700
+c, ermitteln. Den braucht man auch
+
+276
+00:10:18,700 --> 00:10:22,160
+recht oft und der Cosinussatz lautet
+
+277
+00:10:22,160 --> 00:10:24,860
+einfach c² ist gleich a² plus b²
+
+278
+00:10:24,860 --> 00:10:27,680
+minus 2ab mal der Cosinus von phi.
+
+279
+00:10:28,040 --> 00:10:29,920
+Wenn man jetzt natürlich direkt c
+
+280
+00:10:29,920 --> 00:10:31,240
+errechnen möchte, zieht sieht man
+
+281
+00:10:31,240 --> 00:10:33,600
+gleich die Wurzel. Das heißt, man
+
+282
+00:10:33,600 --> 00:10:36,060
+kann dann auch hingehen, sagen, c ist
+
+283
+00:10:36,060 --> 00:10:39,020
+gleich die Wurzel aus dem Ganzen.
+
+284
+00:10:39,480 --> 00:10:41,300
+Geht ein bisschen schneller dann, hat
+
+285
+00:10:41,300 --> 00:10:42,500
+man sich einen Rechenschritt gespart,
+
+286
+00:10:44,980 --> 00:10:46,740
+ist aber auch ansonsten absolut
+
+287
+00:10:46,740 --> 00:10:50,880
+richtig, so wie es da stand. Gut,
+
+288
+00:10:50,880 --> 00:10:52,160
+dann kommen wir jetzt zu unseren
+
+289
+00:10:52,160 --> 00:10:53,780
+Beispielaufgaben. Wir werden gleich
+
+290
+00:10:53,780 --> 00:10:55,400
+am Ende, ich nehme es mal vorweg, in
+
+291
+00:10:55,400 --> 00:10:57,520
+Beispielaufgabe 3 den Cosinussatz
+
+292
+00:10:57,520 --> 00:10:58,760
+auch noch brauchen und dann werden
+
+293
+00:10:58,760 --> 00:11:00,160
+wir darauf noch näher eingehen. Die
+
+294
+00:11:00,160 --> 00:11:02,740
+Beispielaufgaben 1 und 2 sind mit den
+
+295
+00:11:02,740 --> 00:11:04,500
+normalen drei trigonometrischen
+
+296
+00:11:04,500 --> 00:11:05,740
+Funktionen, wie ich sie zu Anfang
+
+297
+00:11:05,740 --> 00:11:08,300
+vorgestellt habe, zu lösen und das
+
+298
+00:11:08,300 --> 00:11:09,380
+schauen wir uns jetzt mal etwas
+
+299
+00:11:09,380 --> 00:11:12,160
+genauer an. Hier sehen wir
+
+300
+00:11:12,160 --> 00:11:14,620
+Beispielaufgabe 1. Wir sehen, wir
+
+301
+00:11:14,620 --> 00:11:15,780
+haben erstmal ein rechtwinkliges
+
+302
+00:11:15,780 --> 00:11:16,980
+Dreieck, das heißt wir können mit
+
+303
+00:11:16,980 --> 00:11:18,600
+Sinus, Cosinus oder Tangens arbeiten.
+
+304
+00:11:18,680 --> 00:11:21,060
+Wir brauchen also keinen Sinus- oder
+
+305
+00:11:21,060 --> 00:11:22,380
+Cosinus-Satz. Das ist schon mal sehr
+
+306
+00:11:22,380 --> 00:11:23,460
+gut, das geht dann nämlich ein
+
+307
+00:11:23,460 --> 00:11:25,500
+bisschen schneller. Wir sehen auch,
+
+308
+00:11:25,620 --> 00:11:27,400
+wir haben zwei Seitenlängen gegeben.
+
+309
+00:11:27,980 --> 00:11:32,280
+Und unsere Aufgabe ist
+
+310
+00:11:32,280 --> 00:11:34,120
+es jetzt, die fehlenden Winkel und
+
+311
+00:11:34,120 --> 00:11:36,800
+Längen zu berechnen. Wir sehen, es
+
+312
+00:11:36,800 --> 00:11:38,380
+fehlt eine Länge aktuell, das ist die
+
+313
+00:11:38,380 --> 00:11:41,780
+Länge B und zwei Winkel. Man kann
+
+314
+00:11:41,780 --> 00:11:42,920
+jetzt auch mit mehreren Möglichkeiten
+
+315
+00:11:42,920 --> 00:11:44,860
+hingehen. Wir könnten uns jetzt zum
+
+316
+00:11:44,860 --> 00:11:46,180
+Beispiel mit dem Satz des Pythagoras
+
+317
+00:11:46,180 --> 00:11:48,360
+helfen und damit die Länge B
+
+318
+00:11:48,360 --> 00:11:52,380
+berechnen. Wir machen jetzt aber erst
+
+319
+00:11:52,380 --> 00:11:55,040
+mal mit dem Winkel Alpha weiter oder
+
+320
+00:11:55,040 --> 00:11:57,400
+fangen damit an. Um den Winkel Alpha
+
+321
+00:11:57,400 --> 00:11:59,220
+zu berechnen, schauen wir uns das mal
+
+322
+00:11:59,220 --> 00:12:01,500
+eben an. Hier ist der rechte Winkel,
+
+323
+00:12:01,500 --> 00:12:03,740
+das heißt diese Seite mit den 7 cm
+
+324
+00:12:03,740 --> 00:12:05,720
+ist unsere Hypotenuse, denn sie ist
+
+325
+00:12:05,720 --> 00:12:07,580
+gegenüber vom rechten Winkel und auch
+
+326
+00:12:07,580 --> 00:12:10,780
+die längste Seite. Wenn wir hier den
+
+327
+00:12:10,780 --> 00:12:12,840
+Winkel Alpha betrachten, ist dann B
+
+328
+00:12:12,840 --> 00:12:15,220
+die Ankathete, weil sie am Winkel ist
+
+329
+00:12:15,220 --> 00:12:17,860
+und die 5 cm ist die Gegenkathete,
+
+330
+00:12:17,940 --> 00:12:19,460
+weil sie gegenüber vom Winkel ist.
+
+331
+00:12:19,780 --> 00:12:21,600
+Das heißt, wir kennen Gegenkathete
+
+332
+00:12:21,600 --> 00:12:24,160
+und Hypotenuse. Das heißt, wir wählen
+
+333
+00:12:24,160 --> 00:12:25,620
+die trigonometrische Funktion, die
+
+334
+00:12:25,620 --> 00:12:29,120
+diese beiden Komponenten enthält. Und
+
+335
+00:12:29,120 --> 00:12:31,120
+das ist der Sinus. Der Sinus lautet
+
+336
+00:12:31,120 --> 00:12:33,000
+ja, der Sinus von Alpha ist gleich
+
+337
+00:12:33,000 --> 00:12:36,500
+Gegenkathete durch Hypotenuse. Also
+
+338
+00:12:36,500 --> 00:12:40,060
+in unserem Fall 5 cm durch 7 cm. Weil
+
+339
+00:12:40,060 --> 00:12:41,580
+wir in diesem Fall einen Winkel
+
+340
+00:12:41,580 --> 00:12:43,660
+ausrechnen wollen, müssen wir
+
+341
+00:12:43,660 --> 00:12:44,920
+natürlich mit der Umkehrfunktion,
+
+342
+00:12:49,840 --> 00:12:53,680
+1 von 5 durch 7 cm. Und dann kommen
+
+343
+00:12:53,680 --> 00:12:57,920
+wir auf einen Winkel von 45,6°. Und
+
+344
+00:12:57,920 --> 00:13:00,720
+damit haben wir dann schon unseren
+
+345
+00:13:00,720 --> 00:13:05,260
+Winkel Alpha berechnet. Nun machen
+
+346
+00:13:05,260 --> 00:13:07,340
+wir mit der Seite B weiter. Wir
+
+347
+00:13:07,340 --> 00:13:08,900
+können uns jetzt, wie gesagt, mit dem
+
+348
+00:13:08,900 --> 00:13:10,000
+Pythagoras hätten wir uns helfen
+
+349
+00:13:10,000 --> 00:13:12,220
+können. Wir können uns aber auch an
+
+350
+00:13:12,220 --> 00:13:14,340
+der Stelle, wenn wir den Winkel Alpha
+
+351
+00:13:14,340 --> 00:13:16,960
+kennen, berechnen über den Kosinus.
+
+352
+00:13:17,060 --> 00:13:19,560
+Wir nehmen dann den Winkel und die 7
+
+353
+00:13:19,560 --> 00:13:22,000
+cm, weil wir kennen ja, dass... ist
+
+354
+00:13:22,000 --> 00:13:23,220
+die Hypotenuse, das ist ja die
+
+355
+00:13:23,220 --> 00:13:25,520
+Ankathete. Hypotenuse und Ankathete,
+
+356
+00:13:25,660 --> 00:13:27,520
+dann nimmt man den Kosinus. Wir
+
+357
+00:13:27,520 --> 00:13:28,880
+hätten natürlich auch den Tangens
+
+358
+00:13:28,880 --> 00:13:30,520
+nehmen können. Das ist dann ja,
+
+359
+00:13:30,540 --> 00:13:31,900
+braucht man die Gegenkathete und die
+
+360
+00:13:31,900 --> 00:13:33,120
+Ankathete, das wäre auch eine
+
+361
+00:13:33,120 --> 00:13:35,360
+Möglichkeit gewesen. Wie ihr seht,
+
+362
+00:13:35,420 --> 00:13:36,520
+wir haben uns hier für den Kosinus
+
+363
+00:13:36,520 --> 00:13:37,520
+entschieden und den dafür mal
+
+364
+00:13:37,520 --> 00:13:39,300
+aufgestellt. Der Kosinus von Alpha
+
+365
+00:13:39,300 --> 00:13:44,440
+ist gleich B durch C. Das heißt, das
+
+366
+00:13:44,440 --> 00:13:47,660
+ist Das ist Ankathete, also B geteilt
+
+367
+00:13:47,660 --> 00:13:49,520
+durch Hypotenuse C, das ist die 7 cm.
+
+368
+00:13:50,720 --> 00:13:52,780
+Und B ist entsprechend gesucht, heißt
+
+369
+00:13:52,780 --> 00:13:54,040
+wir müssen das C rüber
+
+370
+00:13:54,040 --> 00:13:56,000
+multiplizieren. So kommen wir auf der
+
+371
+00:13:56,000 --> 00:13:58,960
+Cosinus von Alpha mal C ist gleich B.
+
+372
+00:13:59,980 --> 00:14:01,060
+Praktischerweise sehen wir, wir
+
+373
+00:14:01,060 --> 00:14:02,400
+brauchen nicht die Umkehrfunktion von
+
+374
+00:14:02,400 --> 00:14:04,060
+Cosinus, wir können direkt einsetzen
+
+375
+00:14:04,060 --> 00:14:06,520
+und dann funktioniert das. Wir haben
+
+376
+00:14:06,520 --> 00:14:07,760
+jetzt also nichts weiter getan als
+
+377
+00:14:07,760 --> 00:14:09,920
+hier Alpha und C eingesetzt. alpha
+
+378
+00:14:09,920 --> 00:14:11,280
+haben wir natürlich aus der
+
+379
+00:14:11,280 --> 00:14:14,260
+vorherigen rechnung entnommen und so
+
+380
+00:14:14,260 --> 00:14:16,100
+kommen wir auf b ist gleich der
+
+381
+00:14:16,100 --> 00:14:20,400
+cosinus von 45,6 grad mal 7 cm also
+
+382
+00:14:20,400 --> 00:14:25,980
+49 cm nun kennen wir alle drei seiten
+
+383
+00:14:25,980 --> 00:14:28,080
+und einen winkel bzw wir wissen dass
+
+384
+00:14:28,080 --> 00:14:29,660
+wir ein rechtwinkliges dreieck haben
+
+385
+00:14:29,660 --> 00:14:32,480
+und den letzten winkel könnten wir
+
+386
+00:14:32,480 --> 00:14:33,220
+jetzt natürlich auch wieder
+
+387
+00:14:33,220 --> 00:14:34,560
+übertrieben meterische funktionen
+
+388
+00:14:34,560 --> 00:14:36,620
+ausrechnen es geht aber wesentlich
+
+389
+00:14:36,620 --> 00:14:37,940
+schneller über den Innenwinkelsatz.
+
+390
+00:14:38,080 --> 00:14:39,460
+Der Innenwinkelsatz besagt nichts
+
+391
+00:14:39,460 --> 00:14:42,360
+weiter, als dass die Winkelsumme oder
+
+392
+00:14:42,360 --> 00:14:44,780
+die Innenwinkelsumme eines Dreiecks
+
+393
+00:14:44,780 --> 00:14:48,060
+immer 180° betragen muss. Wir haben
+
+394
+00:14:48,060 --> 00:14:49,880
+hier ein rechtwinkliges Dreieck, das
+
+395
+00:14:49,880 --> 00:14:51,900
+heißt hier haben wir einen 90° Winkel
+
+396
+00:14:51,900 --> 00:14:53,840
+und der Winkel hier, Alpha, den haben
+
+397
+00:14:53,840 --> 00:14:55,880
+wir ja schon bestimmt, der hat einen
+
+398
+00:14:55,880 --> 00:15:00,000
+Winkel von 45,6°. Und so können wir
+
+399
+00:15:00,000 --> 00:15:02,440
+den Winkel Beta, der uns fehlt, ganz
+
+400
+00:15:02,440 --> 00:15:08,060
+einfach berechnen. 180°, minus 45,6°,
+
+401
+00:15:08,220 --> 00:15:14,500
+minus 90°, also macht das 44,4°. Und
+
+402
+00:15:14,500 --> 00:15:16,020
+damit haben wir die drei fehlenden
+
+403
+00:15:16,020 --> 00:15:16,960
+Größen bestimmt.
+
+404
+00:15:19,920 --> 00:15:21,860
+Machen wir dann mit Aufgabe 2 weiter.
+
+405
+00:15:22,060 --> 00:15:23,920
+Wie ihr jetzt wahrscheinlich schon
+
+406
+00:15:23,920 --> 00:15:26,020
+seht, ist Aufgabe 2 eine Textaufgabe.
+
+407
+00:15:26,120 --> 00:15:27,900
+Immer wenn ihr so eine Textaufgabe
+
+408
+00:15:27,900 --> 00:15:30,240
+bekommt oder eine Sachaufgabe, dann
+
+409
+00:15:30,240 --> 00:15:32,460
+solltet ihr zuerst überlegen, wenn
+
+410
+00:15:32,460 --> 00:15:33,760
+ihr in der Trigonometrie seid, wo
+
+411
+00:15:33,760 --> 00:15:35,240
+kriege ich meinen Winkel oder mein
+
+412
+00:15:35,240 --> 00:15:37,740
+Dreieck her. Das ist wie gesagt ganz
+
+413
+00:15:37,740 --> 00:15:40,780
+wichtig, denn wir müssen hier
+
+414
+00:15:40,780 --> 00:15:42,020
+irgendwie ein rechtwinkliges Dreieck
+
+415
+00:15:42,020 --> 00:15:43,620
+reinbekommen, sonst können wir nicht
+
+416
+00:15:43,620 --> 00:15:48,140
+arbeiten. Gut, ein Schornstein, der
+
+417
+00:15:48,140 --> 00:15:50,340
+75 Meter hoch ist, wirft einen 70
+
+418
+00:15:50,340 --> 00:15:52,380
+Meter langen Schatten. Bestimme die
+
+419
+00:15:52,380 --> 00:15:54,000
+Weite des Winkels, unter dem die
+
+420
+00:15:54,000 --> 00:15:55,700
+Sonnenstrahlen auf dem ebenen Boden
+
+421
+00:15:55,700 --> 00:16:00,240
+treffen. Also wir sollen den Winkel
+
+422
+00:16:00,240 --> 00:16:01,800
+bestimmen, der sich hier zwischen den
+
+423
+00:16:01,800 --> 00:16:03,500
+Sonnenstrahlen und dem Boden
+
+424
+00:16:03,500 --> 00:16:05,700
+einschließt. einschließt. Wir haben
+
+425
+00:16:05,700 --> 00:16:07,120
+hier also einen Schornstein und der
+
+426
+00:16:07,120 --> 00:16:10,080
+Schornstein steht, so wurde er
+
+427
+00:16:10,080 --> 00:16:12,120
+gebaut, senkrecht auf dem Boden. Das
+
+428
+00:16:12,120 --> 00:16:13,080
+wird dann einfach in der Mathematik
+
+429
+00:16:13,080 --> 00:16:13,800
+angenommen, dass er wirklich
+
+430
+00:16:13,800 --> 00:16:15,760
+senkrecht steht. In der Realität
+
+431
+00:16:15,760 --> 00:16:16,860
+weicht es vielleicht ein bisschen ab,
+
+432
+00:16:16,960 --> 00:16:18,440
+aber wir sind in der Mathematik immer
+
+433
+00:16:18,440 --> 00:16:20,720
+ideal unterwegs, also steht dieser
+
+434
+00:16:20,720 --> 00:16:23,100
+Schornstein senkrecht. Folglich haben
+
+435
+00:16:23,100 --> 00:16:26,640
+wir hier einen rechten Winkel. Und
+
+436
+00:16:26,640 --> 00:16:27,840
+nun sieht man, glaube ich, auch
+
+437
+00:16:27,840 --> 00:16:29,120
+schon, worauf das Ganze hinausläuft.
+
+438
+00:16:29,120 --> 00:16:30,560
+Wir haben hier einen rechten Winkel,
+
+439
+00:16:30,580 --> 00:16:32,760
+das heißt, das ist die Hypotenuse.
+
+440
+00:16:33,720 --> 00:16:35,820
+Wir suchen diesen Winkel jetzt mal
+
+441
+00:16:35,820 --> 00:16:39,620
+Alpha. Das heißt, wir haben gegeben
+
+442
+00:16:39,620 --> 00:16:42,420
+die Gegenkathete und die Ankathete.
+
+443
+00:16:43,500 --> 00:16:45,460
+Und wenn wir Gegenkathete und
+
+444
+00:16:45,460 --> 00:16:47,060
+Ankathete kennen, dann gibt es
+
+445
+00:16:47,060 --> 00:16:48,340
+natürlich nur eine trigonometrische
+
+446
+00:16:48,340 --> 00:16:50,400
+Funktion, die in Frage kommt. Das ist
+
+447
+00:16:50,400 --> 00:16:52,760
+der Tangens. Das hängt einfach damit
+
+448
+00:16:52,760 --> 00:16:54,160
+zusammen, wir haben Gegenkathete und
+
+449
+00:16:54,160 --> 00:16:56,080
+Ankathete und das hat nur der
+
+450
+00:16:56,080 --> 00:16:58,560
+Tangens. wollen natürlich
+
+451
+00:16:58,560 --> 00:16:59,780
+entsprechend für den Winkel
+
+452
+00:16:59,780 --> 00:17:04,560
+berechnen. Das heißt, wir nutzen den
+
+453
+00:17:04,560 --> 00:17:05,980
+Tangens von Alpha ist gleich
+
+454
+00:17:05,980 --> 00:17:08,200
+Gegenkatheter durch Ankatheter, also
+
+455
+00:17:08,200 --> 00:17:10,420
+75 durch 70. Wir wollen aber wissen,
+
+456
+00:17:10,480 --> 00:17:11,740
+was der Winkel Alpha ist, deswegen
+
+457
+00:17:11,740 --> 00:17:14,300
+brauchen wir die Umkehrfunktion. Das
+
+458
+00:17:14,300 --> 00:17:16,740
+ist der Tangens hoch minus 1. Und so
+
+459
+00:17:16,740 --> 00:17:18,240
+rechnen wir Alpha ist gleich der
+
+460
+00:17:18,240 --> 00:17:22,340
+Tangens hoch minus 1 von 75 durch 70.
+
+461
+00:17:23,040 --> 00:17:24,760
+Und da wird der Taschenrechner uns
+
+462
+00:17:24,760 --> 00:17:28,760
+einen Winkel von 46,98 Grad ausgeben.
+
+463
+00:17:28,940 --> 00:17:30,580
+Wir wissen dann also, die
+
+464
+00:17:30,580 --> 00:17:32,340
+Sonnenstrahlen treffen mit einem
+
+465
+00:17:32,340 --> 00:17:37,980
+Winkel von 45,98 Grad auf dem Boden
+
+466
+00:17:37,980 --> 00:17:38,200
+auf.
+
+467
+00:17:42,930 --> 00:17:44,550
+Kommen wir dann nun zur
+
+468
+00:17:44,550 --> 00:17:47,850
+wahrscheinlich schwersten
+
+469
+00:17:47,850 --> 00:17:50,310
+Beispielaufgabe. Das ist hier ein
+
+470
+00:17:50,310 --> 00:17:52,530
+Dreieck und ich denke, wir sehen alle
+
+471
+00:17:52,530 --> 00:17:54,510
+direkt, ist es nicht rechtwinklig.
+
+472
+00:17:55,790 --> 00:17:57,330
+Folglich können wir natürlich nicht
+
+473
+00:17:57,330 --> 00:17:58,730
+den Sinus, den Cosinus und den
+
+474
+00:17:58,730 --> 00:18:01,450
+Tangens anwenden. Immer wenn ihr
+
+475
+00:18:01,450 --> 00:18:02,790
+solche Aufgaben habt, würde ich euch
+
+476
+00:18:02,790 --> 00:18:04,990
+raten, die bekannten Größen
+
+477
+00:18:05,490 --> 00:18:07,530
+einzutragen. Also in unserem Fall,
+
+478
+00:18:07,610 --> 00:18:10,770
+dass das hier 4,5 sind, dass das hier
+
+479
+00:18:10,770 --> 00:18:13,430
+3 sind und dass das hier 60 Grad
+
+480
+00:18:13,430 --> 00:18:16,610
+sind. Und ich denke, man sieht recht
+
+481
+00:18:16,610 --> 00:18:20,310
+schnell, dass die Seite A und die
+
+482
+00:18:20,310 --> 00:18:23,150
+Seite B den bekannten Winkel
+
+483
+00:18:23,150 --> 00:18:25,650
+einschließen. Und das ist dann ja
+
+484
+00:18:25,650 --> 00:18:27,930
+schon was, was quasi nach dem
+
+485
+00:18:27,930 --> 00:18:30,710
+Cosinussatz schreit. Wir kennen zwei
+
+486
+00:18:30,710 --> 00:18:32,490
+Seitenlängen und diese schließen den
+
+487
+00:18:32,490 --> 00:18:35,230
+Winkel ein. Und deswegen nutzen wir
+
+488
+00:18:35,230 --> 00:18:36,730
+natürlich sofort den Cosinussatz. Sie
+
+489
+00:18:36,730 --> 00:18:39,530
+sagt ja, c² ist gleich a² plus b²
+
+490
+00:18:39,530 --> 00:18:42,170
+minus 2ab mal der Cosinus von Phi.
+
+491
+00:18:42,850 --> 00:18:44,170
+Ich hatte ja vorhin schon direkt
+
+492
+00:18:44,170 --> 00:18:45,250
+gesagt, wir wollen jetzt hier
+
+493
+00:18:45,250 --> 00:18:46,430
+ermitteln, deswegen schreiben wir
+
+494
+00:18:46,430 --> 00:18:47,470
+direkt die Wurzel hin. Das ist
+
+495
+00:18:47,470 --> 00:18:48,450
+natürlich auch hier der erste
+
+496
+00:18:48,450 --> 00:18:51,050
+Schritt. Also C ist gleich die Wurzel
+
+497
+00:18:51,050 --> 00:18:54,850
+von a² plus b² minus 2ab mal der
+
+498
+00:18:54,850 --> 00:18:59,130
+Cosinus von Phi. Das Einzige, was wir
+
+499
+00:18:59,130 --> 00:19:00,870
+jetzt noch tun müssen, ist a, b und
+
+500
+00:19:00,870 --> 00:19:03,330
+phi einzusetzen. a hatten wir ja
+
+501
+00:19:03,330 --> 00:19:04,970
+gerade schon aufgeschrieben, war 4,5
+
+502
+00:19:04,970 --> 00:19:08,750
+cm und b war 3 cm. So kommen wir auf
+
+503
+00:19:08,750 --> 00:19:11,930
+c ist gleich die Wurzel von 4,5 cm²
+
+504
+00:19:11,930 --> 00:19:17,530
+plus 3 cm² minus 2 mal 4,5 cm mal 3
+
+505
+00:19:17,530 --> 00:19:19,830
+cm. Wenn man so möchte, kann man ja
+
+506
+00:19:19,830 --> 00:19:20,890
+auch noch einen Malpunkt eintragen,
+
+507
+00:19:20,950 --> 00:19:25,990
+mal der Cosinus von 60°. Das geben
+
+508
+00:19:25,990 --> 00:19:27,110
+wir so komplett in unseren
+
+509
+00:19:27,110 --> 00:19:28,270
+Taschenrechner ein. Das würde ich
+
+510
+00:19:28,270 --> 00:19:29,610
+euch auch raten, dass ihr direkt das
+
+511
+00:19:29,610 --> 00:19:31,070
+mit der Wurzel eingibt und nicht erst
+
+512
+00:19:31,070 --> 00:19:32,750
+den Term unter der Wurzel berechnet.
+
+513
+00:19:32,750 --> 00:19:35,010
+und der Taschenrechner gibt uns dann
+
+514
+00:19:35,010 --> 00:19:40,690
+eine Länge von 3,97 cm aus. Und das
+
+515
+00:19:40,690 --> 00:19:42,030
+ist dann auch schon die Länge der
+
+516
+00:19:42,030 --> 00:19:42,770
+Seite B.
+
+517
+00:19:48,530 --> 00:19:50,150
+Worauf ihr bitte achten solltet, das
+
+518
+00:19:50,150 --> 00:19:52,730
+ist eigentlich egal, was für Aufgaben
+
+519
+00:19:52,730 --> 00:19:53,750
+ihr in der Geometrie oder
+
+520
+00:19:53,750 --> 00:19:55,790
+Trigonometrie bearbeitet. Achtet
+
+521
+00:19:55,790 --> 00:19:57,290
+bitte immer auf die Einheiten. Es ist
+
+522
+00:19:57,290 --> 00:19:59,810
+nicht gesagt, dass die Längen euch
+
+523
+00:19:59,810 --> 00:20:01,090
+immer in der gleichen Einheit
+
+524
+00:20:01,090 --> 00:20:02,410
+angegeben werden. Es kann gut sein,
+
+525
+00:20:02,510 --> 00:20:03,970
+dass eure Lehrkräfte euch mal eine
+
+526
+00:20:03,970 --> 00:20:05,650
+Seite in Z... und eine Seite in
+
+527
+00:20:05,650 --> 00:20:07,930
+Metern eingeben. Und bevor ihr
+
+528
+00:20:07,930 --> 00:20:09,050
+anfangt zu rechnen, müsst ihr
+
+529
+00:20:09,050 --> 00:20:11,930
+natürlich die Seitenlängen auf die
+
+530
+00:20:11,930 --> 00:20:13,290
+gleiche Einheit bringen, sonst könnt
+
+531
+00:20:13,290 --> 00:20:14,410
+ihr nicht mit dem Rechnen beginnen.
+
+532
+00:20:14,650 --> 00:20:15,430
+Das ist ganz wichtig.
+
+533
+00:20:18,590 --> 00:20:21,630
+Gut, wir haben jetzt die Seite C
+
+534
+00:20:21,630 --> 00:20:25,590
+berechnet und wir können dann jetzt
+
+535
+00:20:25,590 --> 00:20:26,690
+natürlich weitermachen. Wir sollen
+
+536
+00:20:26,690 --> 00:20:27,950
+auch hier wieder alles berechnen, das
+
+537
+00:20:27,950 --> 00:20:29,670
+heißt wir müssen Beta und Alpha auch
+
+538
+00:20:29,670 --> 00:20:31,990
+berechnen. und wir können jetzt durch
+
+539
+00:20:31,990 --> 00:20:34,510
+den Cosinussatz auch den Winkel Alpha
+
+540
+00:20:34,510 --> 00:20:37,990
+noch bestimmen. Und zwar über a² ist
+
+541
+00:20:37,990 --> 00:20:41,130
+gleich b² plus c² minus 2bc mal der
+
+542
+00:20:41,130 --> 00:20:42,350
+Cosinus von Alpha.
+
+543
+00:20:44,930 --> 00:20:46,930
+Das müssen wir natürlich umstellen,
+
+544
+00:20:47,050 --> 00:20:49,590
+weil wir wollen in dem Fall, wir
+
+545
+00:20:49,590 --> 00:20:50,730
+kennen ja die drei Längen jetzt
+
+546
+00:20:50,730 --> 00:20:52,910
+schon, und wir wollen in diesem Fall
+
+547
+00:20:52,910 --> 00:20:55,990
+jetzt den Winkel Alpha bestimmen. Das
+
+548
+00:20:55,990 --> 00:20:58,510
+heißt, wir müssen diesen ganzen Term
+
+549
+00:20:58,510 --> 00:21:00,190
+zum... Cosinus von Alpha erstmal
+
+550
+00:21:00,190 --> 00:21:02,670
+umformen. Das geht eigentlich recht
+
+551
+00:21:02,670 --> 00:21:05,290
+zügig. Wir rechnen erstmal minus b²
+
+552
+00:21:05,290 --> 00:21:07,310
+minus c² und dann kommen wir auf a²
+
+553
+00:21:07,310 --> 00:21:09,370
+minus b² minus c² ist gleich minus
+
+554
+00:21:09,370 --> 00:21:12,950
+2bc mal der Cosinus von Alpha. Der
+
+555
+00:21:12,950 --> 00:21:15,030
+nächste Schritt ist natürlich durch
+
+556
+00:21:15,030 --> 00:21:16,770
+den Faktor vor der trigonometrischen
+
+557
+00:21:16,770 --> 00:21:18,570
+Funktion zu teilen, also in dem Fall
+
+558
+00:21:18,570 --> 00:21:21,910
+geteilt durch minus 2bc. Dann kommen
+
+559
+00:21:21,910 --> 00:21:23,650
+wir auf der Cosinus von Alpha ist
+
+560
+00:21:23,650 --> 00:21:27,190
+gleich a² minus b² minus c² geteilt
+
+561
+00:21:27,190 --> 00:21:31,530
+durch minus 2 BC und der nächste
+
+562
+00:21:31,530 --> 00:21:32,670
+Schritt ist, denke ich, schon klar.
+
+563
+00:21:33,030 --> 00:21:34,430
+Wir müssen jetzt wieder die
+
+564
+00:21:34,430 --> 00:21:36,790
+Umkehrfunktion wählen, das heißt,
+
+565
+00:21:36,950 --> 00:21:38,030
+hier gibt es, glaube ich, gerade ein
+
+566
+00:21:38,030 --> 00:21:39,150
+kleines Darstellungsproblem, wir
+
+567
+00:21:39,150 --> 00:21:43,830
+bilden den Cosinus hoch minus 1 von
+
+568
+00:21:43,830 --> 00:21:45,810
+diesen schönen Klammern.
+
+569
+00:21:48,790 --> 00:21:50,730
+Und wie gesagt, das geben wir so
+
+570
+00:21:50,730 --> 00:21:51,890
+komplett in unseren Taschenrechner
+
+571
+00:21:51,890 --> 00:21:54,270
+ein, setzen die länge a b und c ein
+
+572
+00:21:54,270 --> 00:21:57,030
+und der taschenrechner wird uns dann
+
+573
+00:21:57,030 --> 00:21:59,930
+entsprechend eine länge ein winkel
+
+574
+00:21:59,930 --> 00:22:04,570
+von einem von 79 grad ausgeben das
+
+575
+00:22:04,570 --> 00:22:06,010
+fehlt ihr leider ist auf der letzten
+
+576
+00:22:06,010 --> 00:22:11,710
+seite aber alpha ist 79 grad dann und
+
+577
+00:22:11,710 --> 00:22:13,690
+den dann noch fehlenden winkel betta
+
+578
+00:22:13,690 --> 00:22:15,890
+können wir dann wieder über den in
+
+579
+00:22:15,890 --> 00:22:17,930
+winkelsatz berechnen deswegen auch
+
+580
+00:22:17,930 --> 00:22:19,450
+wenn es immer viele möglichkeiten
+
+581
+00:22:19,450 --> 00:22:20,650
+gibt das zu rechnen nimmt immer immer
+
+582
+00:22:20,650 --> 00:22:22,490
+die einfachste überlegt erst kurz und
+
+583
+00:22:22,490 --> 00:22:24,910
+nehmt die einfachste. Wenn ihr bis
+
+584
+00:22:24,910 --> 00:22:26,710
+auf einen Innenwinkel alle kennt,
+
+585
+00:22:26,910 --> 00:22:29,590
+dann könnt ihr immer den
+
+586
+00:22:29,590 --> 00:22:31,370
+Innenwinkelsatz verwenden beim
+
+587
+00:22:31,370 --> 00:22:33,270
+Dreieck. Wirklich immer. Es gibt auch
+
+588
+00:22:33,270 --> 00:22:35,230
+einen für ein Viereck, aber wir sind
+
+589
+00:22:35,230 --> 00:22:36,270
+eigentlich hier nur bei Dreiecken.
+
+590
+00:22:36,310 --> 00:22:38,370
+Das heißt, dort ist ja immer 180
+
+591
+00:22:38,370 --> 00:22:41,270
+Grad. Wenn ihr ein rechtwinkliges
+
+592
+00:22:41,270 --> 00:22:42,530
+Dreieck habt und ihr kennt zwei
+
+593
+00:22:42,530 --> 00:22:45,910
+Seitenlängen, dann könnt ihr die
+
+594
+00:22:45,910 --> 00:22:47,810
+dritte auch über Pythagoras Das geht
+
+595
+00:22:47,810 --> 00:22:49,010
+hier natürlich nicht, weil wir haben
+
+596
+00:22:49,010 --> 00:22:51,070
+ja kein rechtwinkliges Dreieck, aber
+
+597
+00:22:51,070 --> 00:22:52,490
+der Innenwinkelsatz gilt hier
+
+598
+00:22:52,490 --> 00:22:54,170
+trotzdem, der gilt nämlich für jedes
+
+599
+00:22:54,170 --> 00:22:57,430
+Dreieck. Das heißt, auch hier haben
+
+600
+00:22:57,430 --> 00:23:00,130
+wir eine Innenwinkelsumme von 180°.
+
+601
+00:23:00,250 --> 00:23:03,030
+Wir kennen ja Gamma und Alpha, das
+
+602
+00:23:03,030 --> 00:23:04,610
+heißt, wir rechnen Beta ist gleich
+
+603
+00:23:04,610 --> 00:23:08,590
+180°, minus 79°, minus 60° und dann
+
+604
+00:23:08,590 --> 00:23:10,950
+wissen wir, der Winkel Beta ist 41°
+
+605
+00:23:10,950 --> 00:23:13,670
+groß. Und damit haben wir dann auch
+
+606
+00:23:13,670 --> 00:23:15,610
+schon die drei fehlenden Größen
+
+607
+00:23:15,610 --> 00:23:19,600
+berechnet. Damit wären wir auch schon
+
+608
+00:23:19,600 --> 00:23:21,360
+am Ende des Webinars. Ich hoffe, ihr
+
+609
+00:23:21,360 --> 00:23:23,680
+habt Gefallen am Webinar gefunden und
+
+610
+00:23:23,680 --> 00:23:25,680
+konntet etwas mitnehmen. Ich bedanke
+
+611
+00:23:25,680 --> 00:23:26,780
+mich auf jeden Fall für eure
+
+612
+00:23:26,780 --> 00:23:28,760
+Aufmerksamkeit, wünsche euch noch
+
+613
+00:23:28,760 --> 00:23:29,620
+einen schönen Abend.
+

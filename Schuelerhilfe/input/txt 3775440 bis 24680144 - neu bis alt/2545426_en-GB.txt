@@ -1,0 +1,1017 @@
+﻿1
+00:00:02,350 --> 00:00:04,350
+Welcome to the 
+
+2
+00:00:04,350 --> 00:00:06,870
+root equation webinar . In 
+
+3
+00:00:06,870 --> 00:00:08,430
+this webinar , we will be looking at root 
+equations 
+
+4
+00:00:08,430 --> 00:00:10,430
+. First, let's take a look 
+
+5
+00:00:10,430 --> 00:00:12,270
+at what a 
+
+6
+00:00:12,270 --> 00:00:15,390
+root function actually is , because root 
+functions are 
+
+7
+00:00:15,390 --> 00:00:17,050
+usually the most common 
+
+8
+00:00:17,050 --> 00:00:19,690
+root equation. And then we will 
+
+9
+00:00:19,690 --> 00:00:21,070
+also solve root equations 
+
+10
+00:00:21,090 --> 00:00:22,590
+, or rather we will 
+
+11
+00:00:22,590 --> 00:00:24,550
+demonstrate a solution method for them. 
+
+12
+00:00:25,950 --> 00:00:27,430
+Well, let's start with the 
+
+13
+00:00:27,430 --> 00:00:28,470
+root functions. 
+
+14
+00:00:31,350 --> 00:00:32,370
+For root functions, it is 
+
+15
+00:00:32,370 --> 00:00:33,870
+fundamentally very important to 
+
+16
+00:00:33,870 --> 00:00:35,030
+
+17
+00:00:35,030 --> 00:00:36,590
+know the domain of definition in the range 
+of values. The 
+
+18
+00:00:36,590 --> 00:00:37,910
+domain of definition for a 
+
+19
+00:00:37,910 --> 00:00:39,830
+general root function, i.e. the 
+
+20
+00:00:39,830 --> 00:00:43,630
+inverse function of x², is that you 
+
+21
+00:00:43,630 --> 00:00:45,610
+
+22
+00:00:45,610 --> 00:00:48,110
+can use all positive real numbers and the 
+root function 
+
+23
+00:00:48,110 --> 00:00:49,490
+then also has the range of values for 
+
+24
+00:00:49,490 --> 00:00:53,590
+all positive real numbers. If 
+
+25
+00:00:53,590 --> 00:00:55,430
+you have such a root function 
+
+26
+00:00:55,530 --> 00:00:56,570
+or 
+
+27
+00:00:56,570 --> 00:00:57,750
+want to calculate something with it , it 
+is always very 
+
+28
+00:00:57,750 --> 00:00:58,810
+important to determine the 
+
+29
+00:00:58,810 --> 00:01:00,810
+domain first. 
+
+30
+00:01:00,810 --> 00:01:02,090
+We will see this in a moment. This 
+
+31
+00:01:02,090 --> 00:01:03,490
+is always different. As 
+
+32
+00:01:03,490 --> 00:01:04,710
+I said , this is just for the 
+
+33
+00:01:04,710 --> 00:01:07,270
+general root function. So f of 
+
+34
+00:01:07,270 --> 00:01:09,750
+x is equal to the square root of x. 
+
+35
+00:01:11,270 --> 00:01:12,910
+This starts at the origin. That goes 
+
+36
+00:01:12,910 --> 00:01:14,710
+together with it. The square root of 0 
+
+37
+00:01:14,710 --> 00:01:15,690
+can still be determined. That is the 
+
+38
+00:01:15,690 --> 00:01:17,650
+limiting case. And that is then simply 
+
+39
+00:01:17,650 --> 00:01:21,070
+0. And the square root of infinity is 
+
+40
+00:01:21,070 --> 00:01:21,870
+then also infinite, i.e. the 
+
+41
+00:01:21,870 --> 00:01:24,730
+function starts at a 
+
+42
+00:01:24,730 --> 00:01:26,830
+coordinate origin and tends to 
+
+43
+00:01:26,830 --> 00:01:31,770
+infinity. As I said, it returns 
+
+44
+00:01:31,770 --> 00:01:36,210
+all positive numbers. The 
+
+45
+00:01:36,210 --> 00:01:37,790
+value table for the general 
+
+46
+00:01:37,790 --> 00:01:39,090
+root function would now 
+
+47
+00:01:39,090 --> 00:01:41,910
+only look like this: if we insert an x 
+
+48
+00:01:41,910 --> 00:01:43,310
+with 0, the 
+
+49
+00:01:43,310 --> 00:01:45,150
+function value 0 would also come out, with 
+1 
+
+50
+00:01:45,150 --> 00:01:47,930
+the function value 1 would also come out. 
+
+51
+00:01:47,930 --> 00:01:50,550
+With a 4, the function value 2 would come 
+out 
+
+52
+00:01:50,550 --> 00:01:51,490
+and so on. This means that the 
+
+53
+00:01:51,490 --> 00:01:52,730
+root function always increases 
+
+54
+00:01:52,730 --> 00:01:56,750
+more slowly. And that brings us 
+
+55
+00:01:56,750 --> 00:01:58,450
+to the root equation. 
+
+56
+00:01:59,730 --> 00:02:00,970
+Root equations are 
+
+57
+00:02:00,970 --> 00:02:02,950
+characterized by the fact that our 
+variable 
+
+58
+00:02:02,950 --> 00:02:04,210
+is under the root. This is very 
+
+59
+00:02:04,210 --> 00:02:06,050
+important. Our variable must be under 
+
+60
+00:02:06,050 --> 00:02:07,750
+the root. If our 
+
+61
+00:02:07,750 --> 00:02:09,310
+variable 
+
+62
+00:02:09,310 --> 00:02:11,190
+is not under the root , we do not have a 
+
+63
+00:02:11,190 --> 00:02:12,390
+root equation. 
+
+64
+00:02:18,580 --> 00:02:20,240
+Basic calculation rules 
+
+65
+00:02:20,240 --> 00:02:22,260
+
+66
+00:02:22,260 --> 00:02:24,900
+do not change for completely rational 
+functions. They are also completely normal 
+
+67
+00:02:24,900 --> 00:02:26,120
+equations, as we 
+
+68
+00:02:26,120 --> 00:02:29,200
+know them from completely rational 
+functions. 
+
+69
+00:02:29,200 --> 00:02:31,180
+There are just one or two things to 
+
+70
+00:02:31,180 --> 00:02:34,360
+bear in mind here. And then we start 
+
+71
+00:02:34,360 --> 00:02:37,000
+directly with solving such a 
+
+72
+00:02:37,000 --> 00:02:38,920
+root equation. As you can see, 
+
+73
+00:02:38,920 --> 00:02:40,340
+there are basically four steps 
+
+74
+00:02:40,360 --> 00:02:42,880
+to follow. First of all, 
+
+75
+00:02:42,880 --> 00:02:43,980
+as already mentioned, we need to know the 
+
+76
+00:02:43,980 --> 00:02:45,400
+definition set of the root. 
+
+77
+00:02:45,400 --> 00:02:47,520
+We should determine this first. 
+
+78
+00:02:47,820 --> 00:02:49,660
+Then we try to 
+
+79
+00:02:49,660 --> 00:02:51,860
+isolate the root in the second step in 
+order to 
+
+80
+00:02:51,860 --> 00:02:53,880
+
+81
+00:02:53,880 --> 00:02:55,620
+square the equation in the third step , 
+i.e. 
+
+82
+00:02:55,620 --> 00:02:58,000
+square the square root and thus 
+
+83
+00:02:58,000 --> 00:03:02,240
+eliminate the root. So in the 
+
+84
+00:03:02,240 --> 00:03:04,780
+third step, we try to 
+
+85
+00:03:04,780 --> 00:03:06,740
+eliminate our root and 
+
+86
+00:03:06,740 --> 00:03:09,480
+then solve the whole thing in order to 
+finally 
+
+87
+00:03:09,480 --> 00:03:11,380
+check at 4 whether our 
+
+88
+00:03:11,380 --> 00:03:13,580
+result lies in the domain of definition 
+
+89
+00:03:13,580 --> 00:03:16,380
+and do the test again. But 
+
+90
+00:03:16,380 --> 00:03:18,140
+let's start with point 1, the 
+
+91
+00:03:18,140 --> 00:03:20,980
+domain. We 
+
+92
+00:03:20,980 --> 00:03:22,460
+absolutely have to know the domain of the 
+root 
+
+93
+00:03:22,460 --> 00:03:24,140
+because otherwise we don't know 
+
+94
+00:03:24,380 --> 00:03:25,980
+what numbers we can use 
+
+95
+00:03:25,980 --> 00:03:28,380
+and whether the solution that we 
+
+96
+00:03:28,380 --> 00:03:30,280
+have calculated at the end is even... 
+
+97
+00:03:30,280 --> 00:03:31,640
+lies in our definition set. It 
+
+98
+00:03:31,640 --> 00:03:32,560
+happens very often with 
+
+99
+00:03:32,560 --> 00:03:33,880
+root equations that you get a 
+
+100
+00:03:33,880 --> 00:03:35,140
+result that 
+
+101
+00:03:35,140 --> 00:03:37,060
+lies outside the domain. Simply 
+
+102
+00:03:37,060 --> 00:03:38,880
+because of this squaring. It is therefore 
+
+103
+00:03:38,880 --> 00:03:40,580
+essential to determine the 
+
+104
+00:03:40,580 --> 00:03:44,840
+domain first. We 
+
+105
+00:03:44,840 --> 00:03:46,700
+demonstrate this root equation or the 
+
+106
+00:03:46,700 --> 00:03:48,400
+solving of this root equation using 
+
+107
+00:03:48,400 --> 00:03:49,900
+the example of 2 times bracket to 
+
+108
+00:03:49,900 --> 00:03:52,840
+root of x plus 4 minus 2 bracket 
+
+109
+00:03:52,840 --> 00:03:56,420
+to equal 14. and the 
+
+110
+00:03:56,420 --> 00:03:58,060
+definition set of a root 
+
+111
+00:03:58,060 --> 00:04:00,620
+is always calculated by the 
+
+112
+00:04:00,620 --> 00:04:02,520
+conditions that you have. In 
+
+113
+00:04:02,520 --> 00:04:04,660
+the case of the square root , this is 
+simply that 
+
+114
+00:04:04,660 --> 00:04:07,140
+
+115
+00:04:07,140 --> 00:04:11,980
+there must always be a value greater than 
+or equal to 0 under the root , because 
+
+116
+00:04:11,980 --> 00:04:14,300
+
+117
+00:04:14,300 --> 00:04:16,420
+we cannot 
+
+118
+00:04:16,420 --> 00:04:19,920
+take roots from negative numbers with our 
+number range. Therefore, x plus 4 
+
+119
+00:04:19,920 --> 00:04:21,920
+is greater than or equal to 0. That would 
+be the 
+
+120
+00:04:21,920 --> 00:04:25,720
+equation for it. and 
+
+121
+00:04:25,740 --> 00:04:27,020
+if we solve this inequality , we will then 
+
+122
+00:04:27,040 --> 00:04:30,000
+find that x 
+
+123
+00:04:30,000 --> 00:04:34,300
+is greater than or equal to minus 4. This 
+means that for all x that 
+
+124
+00:04:34,300 --> 00:04:36,440
+is greater than or equal to minus 4, 
+
+125
+00:04:36,440 --> 00:04:38,720
+our root equation is defined, 
+
+126
+00:04:38,740 --> 00:04:39,660
+or our 
+
+127
+00:04:39,660 --> 00:04:41,480
+root function, if you like. 
+
+128
+00:04:42,480 --> 00:04:44,240
+This 
+
+129
+00:04:44,240 --> 00:04:46,840
+completes step 1. We have our 
+
+130
+00:04:46,840 --> 00:04:48,380
+domain of definition, our 
+
+131
+00:04:48,380 --> 00:04:50,580
+set of definitions, and can therefore 
+
+132
+00:04:50,580 --> 00:04:53,480
+begin step 2. 
+
+133
+00:04:53,480 --> 00:04:56,500
+Isolating the root means that we 
+
+134
+00:04:56,500 --> 00:04:58,480
+
+135
+00:04:58,480 --> 00:05:01,160
+have the root of x plus 4 standing alone 
+at the end. This means that we 
+
+136
+00:05:01,160 --> 00:05:04,440
+start now and first 
+
+137
+00:05:04,440 --> 00:05:06,560
+remove the 2 in front of the bracket. We 
+have 
+
+138
+00:05:06,560 --> 00:05:08,640
+the bracket twice, so 
+
+139
+00:05:08,640 --> 00:05:10,820
+we divide everything by 2 so that the 2 in 
+front of it 
+
+140
+00:05:10,820 --> 00:05:13,060
+disappears. This means that we also have 
+to 
+
+141
+00:05:13,060 --> 00:05:15,500
+divide the 14 by 2. That's why there's 
+
+142
+00:05:15,500 --> 00:05:17,180
+only a 7 here, so we get 
+
+143
+00:05:17,180 --> 00:05:19,960
+the root of x plus 4 minus 2 
+
+144
+00:05:19,960 --> 00:05:23,340
+equals 7. The minus 2 must then 
+
+145
+00:05:23,340 --> 00:05:25,260
+necessarily disappear. I would 
+
+146
+00:05:25,260 --> 00:05:28,160
+always advise, even if it is a lot of work 
+
+147
+00:05:28,160 --> 00:05:29,040
+and sometimes 
+
+148
+00:05:29,040 --> 00:05:31,380
+seems a bit unnecessary, to 
+
+149
+00:05:31,380 --> 00:05:32,360
+rearrange and 
+
+150
+00:05:32,360 --> 00:05:33,700
+simplify until the root really does 
+
+151
+00:05:33,700 --> 00:05:36,060
+stand alone. Otherwise 
+
+152
+00:05:36,060 --> 00:05:38,920
+you almost always need binomial formulas. 
+
+153
+00:05:39,480 --> 00:05:41,520
+And that's not so nice. You make 
+
+154
+00:05:41,520 --> 00:05:42,540
+things more complicated than they 
+
+155
+00:05:42,540 --> 00:05:44,860
+actually are. That's why you should always 
+
+156
+00:05:44,860 --> 00:05:47,080
+add the 2. We do this 
+
+157
+00:05:47,080 --> 00:05:49,280
+with a plus 2, so we can 
+
+158
+00:05:49,280 --> 00:05:51,400
+get rid of the minus 2. Then we have the 
+
+159
+00:05:51,400 --> 00:05:53,660
+root of x plus 4 is equal to 7 plus 
+
+160
+00:05:53,660 --> 00:05:56,180
+2, i.e. 9. And now you can see that 
+
+161
+00:05:56,320 --> 00:05:58,300
+the root stands alone and 
+
+162
+00:05:58,300 --> 00:05:59,680
+there is only one 9 on the right-hand 
+side. 
+
+163
+00:06:00,500 --> 00:06:02,280
+This means that if there 
+
+164
+00:06:05,220 --> 00:06:06,860
+
+165
+00:06:06,860 --> 00:06:09,720
+is no addition or subtraction here , then 
+we don't need any 
+
+166
+00:06:09,720 --> 00:06:11,700
+binomial formulas, which is very nice 
+
+167
+00:06:11,700 --> 00:06:14,220
+for the task, so 
+
+168
+00:06:14,220 --> 00:06:16,200
+step 2 is complete, our root 
+
+169
+00:06:16,200 --> 00:06:18,200
+stands alone and we can 
+
+170
+00:06:18,200 --> 00:06:20,840
+start with step 3, i.e. we 
+
+171
+00:06:20,840 --> 00:06:24,640
+square 
+
+172
+00:06:27,160 --> 00:06:28,660
+it again here is the hint if 
+
+173
+00:06:28,660 --> 00:06:30,420
+there were a sum on the right or 
+
+174
+00:06:30,420 --> 00:06:31,620
+maybe even on the left, then 
+
+175
+00:06:31,620 --> 00:06:33,260
+we would inevitably need the binomial 
+
+176
+00:06:33,260 --> 00:06:35,560
+formula formulas when squaring because 
+
+177
+00:06:35,560 --> 00:06:37,100
+we are now squaring the whole thing and 
+
+178
+00:06:37,100 --> 00:06:39,040
+then we have the square of the 
+
+179
+00:06:39,040 --> 00:06:41,660
+root of x plus 4 is equal to the 9 
+
+180
+00:06:41,660 --> 00:06:43,100
+squared, i.e. the whole side 
+
+181
+00:06:43,100 --> 00:06:45,760
+always. Square and root 
+
+182
+00:06:45,760 --> 00:06:47,080
+cancel each other out, which is why we 
+square them 
+
+183
+00:06:47,080 --> 00:06:48,940
+. That's why x 
+
+184
+00:06:48,940 --> 00:06:51,240
+plus 4 is now on the left and 9 
+
+185
+00:06:51,240 --> 00:06:54,620
+squared on the right , i.e. 81. And if we 
+
+186
+00:06:54,620 --> 00:06:56,040
+had had 9 
+
+187
+00:06:56,040 --> 00:06:59,120
+plus x on the right , we 
+
+188
+00:06:59,120 --> 00:07:01,680
+would have had to square this term 9 plus 
+x. And 
+
+189
+00:07:01,680 --> 00:07:02,620
+we would have 
+
+190
+00:07:02,620 --> 00:07:05,830
+needed the binomial formula for this. 
+
+191
+00:07:05,870 --> 00:07:07,310
+However, as we have said several times , 
+we don't need it now . And 
+
+192
+00:07:07,310 --> 00:07:08,910
+we now have x plus 4 equals 
+
+193
+00:07:08,910 --> 00:07:10,970
+81 and so, as 
+
+194
+00:07:10,970 --> 00:07:12,050
+we said at the beginning, we are now 
+
+195
+00:07:12,050 --> 00:07:14,270
+rid of our root equation. This is now 
+
+196
+00:07:14,270 --> 00:07:16,350
+a very simple linear equation 
+
+197
+00:07:16,390 --> 00:07:18,250
+, which we can now solve. We 
+
+198
+00:07:18,250 --> 00:07:20,870
+now calculate minus 4, then we have 
+
+199
+00:07:20,870 --> 00:07:24,450
+x equals 81 minus 4, 77. That's 
+
+200
+00:07:24,450 --> 00:07:25,830
+the solution to our 
+
+201
+00:07:25,830 --> 00:07:27,870
+equation for now. However, we shouldn 
+
+202
+00:07:27,870 --> 00:07:30,090
+'t give the solution yet, 
+
+203
+00:07:30,130 --> 00:07:32,970
+because we don't even know whether the 
+
+204
+00:07:32,970 --> 00:07:35,290
+solution is possible. This means that we 
+
+205
+00:07:35,290 --> 00:07:36,770
+now have to 
+
+206
+00:07:36,770 --> 00:07:39,010
+carry out step 4 , which is the test, and 
+
+207
+00:07:39,010 --> 00:07:41,290
+the first thing we have to do is check 
+whether the 
+
+208
+00:07:41,290 --> 00:07:43,410
+solution even 
+
+209
+00:07:43,410 --> 00:07:45,150
+lies in our definition set. 
+
+210
+00:07:45,150 --> 00:07:47,770
+First, in step 1, 
+
+211
+00:07:47,770 --> 00:07:49,830
+we determined the definition set and came 
+to 
+
+212
+00:07:49,830 --> 00:07:51,990
+the conclusion that the 
+
+213
+00:07:51,990 --> 00:07:55,530
+equation 
+
+214
+00:07:55,530 --> 00:07:58,010
+
+215
+00:07:58,010 --> 00:08:00,790
+is defined for all x's or the root for all 
+x's that are greater than or equal to 
+minus 4 . We now have 
+
+216
+00:08:00,790 --> 00:08:02,710
+77 as the solution, which is definitely 
+
+217
+00:08:02,930 --> 00:08:06,310
+greater than minus 4, so 
+
+218
+00:08:06,310 --> 00:08:07,270
+our root is already 
+
+219
+00:08:07,270 --> 00:08:09,130
+defined for it and the result 
+
+220
+00:08:09,130 --> 00:08:10,550
+also seems to be correct 
+
+221
+00:08:10,550 --> 00:08:11,690
+we can now 
+
+222
+00:08:11,690 --> 00:08:14,490
+prove the whole thing by means of the test 
+, i.e. we simply put 
+
+223
+00:08:14,490 --> 00:08:18,610
+in our solution for our x our 
+
+224
+00:08:18,610 --> 00:08:20,950
+initial equation was twice 
+
+225
+00:08:20,950 --> 00:08:22,930
+brackets open the root of x plus 4 
+
+226
+00:08:22,930 --> 00:08:26,070
+minus 2 brackets closed is equal to 14 and 
+
+227
+00:08:26,070 --> 00:08:27,250
+for this x we now put 
+
+228
+00:08:27,250 --> 00:08:29,610
+in 77, so we get 2 times, 
+
+229
+00:08:29,670 --> 00:08:32,610
+brackets open, the root of 77 plus 4 
+
+230
+00:08:32,610 --> 00:08:34,550
+minus 2, brackets closed, is equal to 14. 
+
+231
+00:08:36,550 --> 00:08:38,710
+77 plus 4, that's what we work out, 
+
+232
+00:08:38,710 --> 00:08:40,130
+don't 
+
+233
+00:08:40,130 --> 00:08:42,750
+take the roots individually now , because 
+that won't work. And 
+
+234
+00:08:42,750 --> 00:08:45,410
+77 plus 4 is then 81, 
+
+235
+00:08:45,410 --> 00:08:47,290
+we can take the root of 81, which is 
+
+236
+00:08:47,290 --> 00:08:49,410
+9. That's why in the next 
+
+237
+00:08:49,410 --> 00:08:51,630
+step there are only 2 times parentheses 
+
+238
+00:08:51,630 --> 00:08:53,590
+open 9 minus 2 parentheses closed is equal 
+to 
+
+239
+00:08:53,590 --> 00:08:56,150
+14. Now we work out what's 
+
+240
+00:08:56,150 --> 00:08:57,630
+inside the parentheses. This means that 
+
+241
+00:08:57,630 --> 00:09:01,430
+9 minus 2 is 7 and 2 times 7 is 14, 
+
+242
+00:09:01,530 --> 00:09:03,670
+which means that everything is correct. 
+
+243
+00:09:03,670 --> 00:09:05,770
+The solution to the equation is really 77, 
+
+244
+00:09:06,970 --> 00:09:09,030
+and that's the 
+
+245
+00:09:09,030 --> 00:09:09,830
+end of the problem. 
+
+246
+00:09:12,480 --> 00:09:14,480
+That brings us to the end 
+
+247
+00:09:14,480 --> 00:09:16,720
+of the webinar. Thank you 
+
+248
+00:09:16,720 --> 00:09:18,080
+very much for your attention. 

@@ -1,0 +1,2160 @@
+1
+00:00:20,910 --> 00:00:23,050
+So, also dann legen wir mal los. Ich
+
+2
+00:00:23,050 --> 00:00:25,990
+bin die Serena. Wenn ihr Fragen habt,
+
+3
+00:00:26,090 --> 00:00:27,150
+dann könnt ihr das natürlich gerne
+
+4
+00:00:27,150 --> 00:00:29,030
+während dem Webinar machen oder auch
+
+5
+00:00:29,030 --> 00:00:33,050
+am Ende. Bitte alles fragen, was ihr
+
+6
+00:00:33,050 --> 00:00:36,450
+fragen könnt, wo ihr vielleicht dran
+
+7
+00:00:36,450 --> 00:00:37,350
+zweifelt, wo ihr nicht ganz
+
+8
+00:00:37,350 --> 00:00:39,110
+verstanden habt. Es ist mir ganz
+
+9
+00:00:39,110 --> 00:00:40,430
+wichtig, dass wir am Ende hier
+
+10
+00:00:40,430 --> 00:00:41,870
+rausgehen und ihr das Thema
+
+11
+00:00:41,870 --> 00:00:44,130
+verstanden habt. Und genau, das
+
+12
+00:00:44,130 --> 00:00:45,710
+fangen wir jetzt mal an. Heute geht
+
+13
+00:00:45,710 --> 00:00:47,590
+es nämlich, wie gesagt, über Körper.
+
+14
+00:00:48,490 --> 00:00:50,410
+Und dann legen wir mal los. Als
+
+15
+00:00:50,410 --> 00:00:53,230
+allererstes besprechen wir die
+
+16
+00:00:53,230 --> 00:00:57,470
+Einheiten der Körperberechnung, dann
+
+17
+00:00:57,470 --> 00:01:00,510
+die Würfel, Quader, allgemeines
+
+18
+00:01:00,510 --> 00:01:03,070
+Prisma, Zylinder und zu guter Letzt
+
+19
+00:01:03,070 --> 00:01:03,730
+gibt es dann auch die
+
+20
+00:01:03,730 --> 00:01:04,830
+Beispielaufgaben.
+
+21
+00:01:08,020 --> 00:01:10,620
+So, als allererstes Thema besprechen
+
+22
+00:01:10,620 --> 00:01:12,080
+wir eben die Einheiten der
+
+23
+00:01:12,080 --> 00:01:13,220
+Körperberechnung.
+
+24
+00:01:15,640 --> 00:01:18,600
+So, Längen von Kanten haben einfache
+
+25
+00:01:18,600 --> 00:01:20,180
+Längeneinheiten, also zum Beispiel
+
+26
+00:01:20,180 --> 00:01:22,060
+Zentimeter oder auch Meter. Also da
+
+27
+00:01:22,060 --> 00:01:24,300
+ist kein Quadrat, also kein Hoch 2,
+
+28
+00:01:24,520 --> 00:01:25,880
+kein Hoch 3 oder sonst irgendwas.
+
+29
+00:01:27,160 --> 00:01:30,520
+Genau, dann, wenn es um Flächen geht,
+
+30
+00:01:30,740 --> 00:01:34,800
+die berechnet man ja aus einem
+
+31
+00:01:34,800 --> 00:01:36,880
+Produkt, zwei Längen. Also das heißt,
+
+32
+00:01:36,940 --> 00:01:39,780
+man hat einmal eine Länge hier und
+
+33
+00:01:39,780 --> 00:01:42,620
+dann eine Länge hier noch und dann
+
+34
+00:01:42,620 --> 00:01:44,780
+wird das dann eben zur Fläche. Das
+
+35
+00:01:44,780 --> 00:01:47,340
+heißt, dass es dann eben eine
+
+36
+00:01:47,340 --> 00:01:50,580
+Quadritelänge gibt, also Meter hoch 2
+
+37
+00:01:50,580 --> 00:01:53,480
+oder auch Zentimeter hoch 2, weil man
+
+38
+00:01:53,480 --> 00:01:55,520
+multipliziert dann eben Meter mit
+
+39
+00:01:55,520 --> 00:01:57,700
+Meter und dann wird es dann eben zu
+
+40
+00:01:57,700 --> 00:02:00,500
+Meter hoch 2 oder auch Zentimeter mal
+
+41
+00:02:00,500 --> 00:02:02,040
+Zentimeter und das wird dann auch
+
+42
+00:02:02,040 --> 00:02:04,660
+Zentimeter hoch 2. Ganz, ganz
+
+43
+00:02:04,660 --> 00:02:08,500
+wichtig. Also bei normalen Längen ist
+
+44
+00:02:08,500 --> 00:02:11,580
+das Zentimeter ganz normal ohne eine
+
+45
+00:02:11,580 --> 00:02:13,820
+Hochzahl und bei Flächen ist es dann
+
+46
+00:02:13,820 --> 00:02:17,020
+hoch 2. So, dann geht es auch noch um
+
+47
+00:02:17,020 --> 00:02:20,320
+das Volumen. Volumina berechnen sich
+
+48
+00:02:20,320 --> 00:02:22,340
+aus dem Produkt Dreierlängen und
+
+49
+00:02:22,340 --> 00:02:24,820
+haben Längeinheiten hoch 3. Also
+
+50
+00:02:24,820 --> 00:02:26,240
+jetzt haben wir nicht mehr eine oder
+
+51
+00:02:26,240 --> 00:02:27,460
+auch nur zwei Längen, sondern wir
+
+52
+00:02:27,460 --> 00:02:31,520
+haben drei Längen. Einmal die Breite,
+
+53
+00:02:31,580 --> 00:02:33,980
+einmal die Länge und einmal die Höhe.
+
+54
+00:02:34,300 --> 00:02:35,820
+Das heißt, es wird dann quasi zu
+
+55
+00:02:35,820 --> 00:02:39,460
+einem Raum und da ist es dann, weil
+
+56
+00:02:39,460 --> 00:02:41,620
+wir ja Zentimeter mal Zentimeter mal
+
+57
+00:02:41,620 --> 00:02:43,240
+Zentimeter, also dreimal
+
+58
+00:02:43,240 --> 00:02:46,060
+multiplizieren, wird es dann hoch 3,
+
+59
+00:02:46,180 --> 00:02:48,220
+also Zentimeter hoch 3 oder auch
+
+60
+00:02:48,220 --> 00:02:50,340
+Meter hoch 3. Wir wiederholen
+
+61
+00:02:50,340 --> 00:02:53,140
+nochmal. Eine Länge, eine ganz
+
+62
+00:02:53,140 --> 00:02:56,100
+normale Länge, hat keine Hochzahl,
+
+63
+00:02:56,120 --> 00:02:57,620
+also einfach nur Zentimeter. Eine
+
+64
+00:02:57,620 --> 00:03:01,260
+Fläche, die sich aus zwei Längen
+
+65
+00:03:01,260 --> 00:03:04,040
+ergibt, das ist hoch 2, also zum
+
+66
+00:03:04,040 --> 00:03:05,580
+Beispiel Quadratmeter oder
+
+67
+00:03:05,580 --> 00:03:09,180
+Quadratzentimeter. und dann noch ein
+
+68
+00:03:09,180 --> 00:03:12,560
+Volumen,
+
+69
+00:03:12,660 --> 00:03:15,420
+das ergibt sich aus drei Längen, das
+
+70
+00:03:15,420 --> 00:03:18,940
+wird dann zu Kubikzentimeter heißt
+
+71
+00:03:18,940 --> 00:03:22,300
+das oder auch Kubikmeter. So, dann
+
+72
+00:03:22,300 --> 00:03:25,420
+gehen wir mal weiter. So, genau,
+
+73
+00:03:25,560 --> 00:03:27,700
+jetzt reden wir über die Würfel. Die
+
+74
+00:03:27,700 --> 00:03:29,320
+Eigenschaften eines Würfels sind,
+
+75
+00:03:29,520 --> 00:03:31,600
+dass wir sechs Begrenzungsflächen
+
+76
+00:03:31,600 --> 00:03:35,820
+haben. Da ist es der Fall, dass alle
+
+77
+00:03:35,820 --> 00:03:38,260
+Quadrate die gleichen Kantenlängen
+
+78
+00:03:38,260 --> 00:03:42,000
+haben. Genau. Und was auch ganz
+
+79
+00:03:42,000 --> 00:03:44,340
+wichtig ist, dass alle Ecken des
+
+80
+00:03:44,340 --> 00:03:48,300
+Würfels rechte Winkel sind. Das
+
+81
+00:03:48,300 --> 00:03:50,280
+heißt, ich kann es hier mal kurz
+
+82
+00:03:50,280 --> 00:03:54,100
+einzeichnen, dass wir hier natürlich
+
+83
+00:03:54,100 --> 00:03:59,400
+überall einen rechten Winkel haben.
+
+84
+00:03:59,400 --> 00:04:00,040
+Das
+
+85
+00:04:04,360 --> 00:04:05,460
+ist ganz wichtig,
+
+86
+00:04:08,730 --> 00:04:13,290
+weil dadurch, dass eben alle Längen
+
+87
+00:04:13,290 --> 00:04:16,410
+gleich sind, hat man dann eben auch
+
+88
+00:04:16,410 --> 00:04:21,170
+überall 90 Grad Winkel. Genau. So.
+
+89
+00:04:22,450 --> 00:04:24,290
+Genau. Das haben wir jetzt hier schon
+
+90
+00:04:24,290 --> 00:04:26,870
+mal. Also zum Beispiel, wenn man den
+
+91
+00:04:26,870 --> 00:04:29,870
+Flächenteil berechnen möchte, dann
+
+92
+00:04:29,870 --> 00:04:32,290
+würde man jetzt hier machen a hoch 2
+
+93
+00:04:32,290 --> 00:04:34,410
+plus a hoch 2 plus a hoch 2 plus a
+
+94
+00:04:34,410 --> 00:04:36,390
+hoch 2 plus a hoch 2. Plus a hoch 2,
+
+95
+00:04:36,570 --> 00:04:40,130
+also 6 mal a hoch 2 und das ist dann
+
+96
+00:04:40,130 --> 00:04:44,690
+6a hoch 2 am Ende. So, jetzt den
+
+97
+00:04:44,690 --> 00:04:48,010
+Oberflächeninhalt eines Würfels. Da
+
+98
+00:04:48,010 --> 00:04:49,870
+handelt es sich um drei Quadrate, die
+
+99
+00:04:49,870 --> 00:04:51,410
+alle den gleichen Flächeninhalt
+
+100
+00:04:51,410 --> 00:04:57,180
+haben. Ist ja klar, weil die sind ja
+
+101
+00:04:57,180 --> 00:04:59,580
+alle gleich groß, sie haben alle die
+
+102
+00:04:59,580 --> 00:05:02,380
+gleichen Kantenlänge und haben auch
+
+103
+00:05:02,380 --> 00:05:06,560
+alle die gleichen Winkel. in dem Fall
+
+104
+00:05:06,560 --> 00:05:09,820
+rechte Winkel und dadurch ist dann
+
+105
+00:05:09,820 --> 00:05:10,980
+natürlich auch klar, dass der
+
+106
+00:05:10,980 --> 00:05:14,280
+obenflächige Inhalt, also der
+
+107
+00:05:14,280 --> 00:05:16,800
+Flächeninhalt der sechs Quartate,
+
+108
+00:05:16,800 --> 00:05:19,800
+Entschuldigung, den gleichen Wert
+
+109
+00:05:19,800 --> 00:05:25,130
+haben. Und dann gibt es natürlich
+
+110
+00:05:25,130 --> 00:05:27,670
+noch das Volumen des Würfels, weil es
+
+111
+00:05:27,670 --> 00:05:29,830
+ja ein Körper ist, das heißt, es geht
+
+112
+00:05:29,830 --> 00:05:33,890
+quasi in jede Ebene rein, hat also
+
+113
+00:05:33,890 --> 00:05:36,950
+eine Breite, eine Länge und auch eine
+
+114
+00:05:36,950 --> 00:05:42,330
+Höhe und dadurch berechnet man dann
+
+115
+00:05:42,330 --> 00:05:44,390
+eben das Volumen. Das ist nämlich das
+
+116
+00:05:44,390 --> 00:05:47,750
+Produkt aus allen Seitenlängen. Also
+
+117
+00:05:47,750 --> 00:05:52,690
+zum Beispiel ist hier A
+
+118
+00:05:52,690 --> 00:05:56,790
+mal A mal A sind gleich A hoch 3 und
+
+119
+00:05:56,790 --> 00:05:58,950
+das ist dann unser Volumen. Das
+
+120
+00:05:58,950 --> 00:06:03,030
+heißt, wir berechnen einmal, nehmen
+
+121
+00:06:04,660 --> 00:06:09,180
+wir dieses a, dieses a und dieses a
+
+122
+00:06:09,180 --> 00:06:11,300
+und multiplizieren die miteinander,
+
+123
+00:06:11,520 --> 00:06:16,020
+also 3 mal a und das ergibt dann,
+
+124
+00:06:16,080 --> 00:06:20,280
+also a mal a mal a, das ergibt dann a
+
+125
+00:06:20,280 --> 00:06:24,240
+hoch 3. Ganz wichtig, hier sehen wir
+
+126
+00:06:24,240 --> 00:06:27,200
+jetzt auch, dass beim Volumen man
+
+127
+00:06:27,200 --> 00:06:28,240
+natürlich dann die Hochzahl 3
+
+128
+00:06:28,240 --> 00:06:30,560
+benutzt. und das dann zum Beispiel
+
+129
+00:06:30,560 --> 00:06:31,520
+jetzt irgendeine Einheit
+
+130
+00:06:31,520 --> 00:06:34,400
+Kubikzentimeter oder auch Kubikmeter
+
+131
+00:06:34,400 --> 00:06:38,540
+werden. Genau. So, jetzt geht's
+
+132
+00:06:38,540 --> 00:06:42,420
+weiter. Jetzt reden wir über den
+
+133
+00:06:42,420 --> 00:06:45,620
+Quader. Der Quader ist wieder ein
+
+134
+00:06:45,620 --> 00:06:47,640
+anderer Körper. Dabei sind seine
+
+135
+00:06:47,640 --> 00:06:49,820
+Eigenschaften, dass die
+
+136
+00:06:49,820 --> 00:06:51,160
+Sechsrechtliche als
+
+137
+00:06:51,160 --> 00:06:54,700
+Begrenzungsflächen gelten, von denen
+
+138
+00:06:54,700 --> 00:06:58,420
+dann jeweils zwei gleich sind. Alle
+
+139
+00:06:58,420 --> 00:07:02,100
+Ecken des Quaders sind rechte Winkel,
+
+140
+00:07:02,100 --> 00:07:04,960
+auch ganz wichtig. Also nochmal, wir
+
+141
+00:07:04,960 --> 00:07:06,720
+haben sechs Rechtecke als
+
+142
+00:07:06,720 --> 00:07:09,480
+Begrenzungsflächen und von denen sind
+
+143
+00:07:09,480 --> 00:07:12,020
+dann jeweils zwei gleich und alle
+
+144
+00:07:12,020 --> 00:07:14,800
+Ecken des Quaders sind rechte Winkel.
+
+145
+00:07:16,400 --> 00:07:18,960
+So, dann der Oberflächeninhalt des
+
+146
+00:07:18,960 --> 00:07:20,840
+Quaders. Das ist ganz wichtig zu
+
+147
+00:07:20,840 --> 00:07:23,600
+erwähnen, dass wir eben sechs
+
+148
+00:07:23,600 --> 00:07:25,860
+Rechtecke haben und von denen sind
+
+149
+00:07:25,860 --> 00:07:28,800
+dann jeweils zwei, haben dann den
+
+150
+00:07:28,800 --> 00:07:31,280
+gleichen Flächeninhalt. Also zum
+
+151
+00:07:31,280 --> 00:07:32,560
+Beispiel jetzt hier sieht man auch
+
+152
+00:07:32,560 --> 00:07:33,680
+das Beispiel, wie man das jetzt
+
+153
+00:07:33,680 --> 00:07:36,860
+berechnen würde. Also A, Groß A, das
+
+154
+00:07:36,860 --> 00:07:38,600
+heißt, dass der Flächeninhalt ist
+
+155
+00:07:38,600 --> 00:07:43,040
+gleich A mal B plus A mal C plus B
+
+156
+00:07:43,040 --> 00:07:47,300
+mal A plus B mal C plus C mal A plus
+
+157
+00:07:47,300 --> 00:07:51,780
+C mal B. gleich 2ab plus 2ac plus
+
+158
+00:07:51,780 --> 00:07:58,980
+2bc. Also wir berechnen einfach die
+
+159
+00:07:58,980 --> 00:08:01,460
+verschiedenen Flächen, also die
+
+160
+00:08:01,460 --> 00:08:05,840
+verschiedenen Längen
+
+161
+00:08:05,840 --> 00:08:08,500
+miteinander. Also zum Beispiel, wir
+
+162
+00:08:08,500 --> 00:08:11,820
+haben jetzt hier 6 Rechtecke, also
+
+163
+00:08:11,820 --> 00:08:15,700
+zum Beispiel jetzt hier. Einmal haben
+
+164
+00:08:15,700 --> 00:08:17,220
+wir hier 9.
+
+165
+00:08:22,410 --> 00:08:27,130
+Machen wir es gerade nochmal. Haben
+
+166
+00:08:27,130 --> 00:08:29,170
+wir hier ein Rechteck zum Beispiel.
+
+167
+00:08:30,160 --> 00:08:31,710
+Hier ein Rechteck.
+
+168
+00:08:35,600 --> 00:08:36,260
+Hier.
+
+169
+00:08:39,900 --> 00:08:41,420
+Also wir haben sechs Rechtecke
+
+170
+00:08:41,420 --> 00:08:44,100
+insgesamt. Und davon nehmen wir dann,
+
+171
+00:08:44,160 --> 00:08:47,740
+also wir multiplizieren alle Seiten
+
+172
+00:08:47,740 --> 00:08:50,180
+mit allen anderen Seiten. Also zum
+
+173
+00:08:50,180 --> 00:08:54,000
+Beispiel hier sieht man A mal B mal
+
+174
+00:08:55,280 --> 00:09:00,320
+C. Und dann hier B mal A. B mal C. C
+
+175
+00:09:00,320 --> 00:09:03,820
+mal A. c mal b.
+
+176
+00:09:05,900 --> 00:09:09,500
+So. Also man kann sehen, dass man
+
+177
+00:09:09,500 --> 00:09:11,380
+einfach zum Beispiel immer mit a
+
+178
+00:09:11,380 --> 00:09:13,180
+anfängt, dann da alles miteinander
+
+179
+00:09:13,180 --> 00:09:15,620
+multipliziert, dann mit b anfängt und
+
+180
+00:09:15,620 --> 00:09:17,140
+dann mit c anfängt. Das ist ganz
+
+181
+00:09:17,140 --> 00:09:18,560
+wichtig. Und dann kommen wir jetzt
+
+182
+00:09:18,560 --> 00:09:21,460
+hier eben zu dem Ergebnis 2ab plus
+
+183
+00:09:21,460 --> 00:09:26,920
+2ac plus 2bc. So, das Volumen des
+
+184
+00:09:26,920 --> 00:09:30,520
+Quaders. Genau, also. Das Volumen des
+
+185
+00:09:30,520 --> 00:09:31,760
+Quaders. Quaders, wie wir auch schon
+
+186
+00:09:31,760 --> 00:09:33,840
+vorhin besprochen haben, ist das
+
+187
+00:09:33,840 --> 00:09:35,500
+Produkt aus allen Seitenlängen. Also
+
+188
+00:09:35,500 --> 00:09:37,020
+einmal die Breite, einmal die Höhe
+
+189
+00:09:37,020 --> 00:09:39,440
+und einmal die Länge. Also in diesem
+
+190
+00:09:39,440 --> 00:09:42,500
+Fall würden wir dann einfach A mal B
+
+191
+00:09:42,500 --> 00:09:45,180
+mal C berechnen und dadurch erhalten
+
+192
+00:09:45,180 --> 00:09:50,480
+wir dann das Volumen des Quaders.
+
+193
+00:09:51,360 --> 00:09:53,660
+Also zum Beispiel, wir könnten jetzt
+
+194
+00:09:53,660 --> 00:09:57,340
+hier V gleich, jetzt haben wir
+
+195
+00:09:57,340 --> 00:09:59,200
+verschiedene Längen, Zum Beispiel ist
+
+196
+00:09:59,200 --> 00:10:04,440
+jetzt A ist gleich 2, B ist gleich 3
+
+197
+00:10:04,440 --> 00:10:11,390
+und C ist gleich 4. Also dann würden
+
+198
+00:10:11,390 --> 00:10:13,710
+wir jetzt erstmal 2 mal 3 berechnen,
+
+199
+00:10:13,710 --> 00:10:15,790
+das ist natürlich 6 und dann nochmal
+
+200
+00:10:15,790 --> 00:10:19,790
+4 ist dann 24. Also wissen wir, dass
+
+201
+00:10:19,790 --> 00:10:26,790
+unser Volumen 24 beträgt und dann
+
+202
+00:10:26,790 --> 00:10:29,930
+wäre es natürlich 24 Kubik. oder 24
+
+203
+00:10:29,930 --> 00:10:35,910
+Kubikmeter. Genau, so. Dann gehen wir
+
+204
+00:10:35,910 --> 00:10:38,070
+mal zu dem nächsten über, das ist das
+
+205
+00:10:38,070 --> 00:10:40,250
+Prisma. Das Prisma hat die
+
+206
+00:10:40,250 --> 00:10:45,070
+Eigenschaften, dass der Körper eben
+
+207
+00:10:45,070 --> 00:10:46,490
+die gleiche Grund- und Deckfläche
+
+208
+00:10:46,490 --> 00:10:48,830
+hat, also es ist ein Körper mit
+
+209
+00:10:48,830 --> 00:10:52,990
+gleicher Grund- und Deckfläche. Dann
+
+210
+00:10:52,990 --> 00:10:54,910
+werden die
+
+211
+00:10:59,040 --> 00:11:03,080
+Mantelverbunden, die Höhe H finden
+
+212
+00:11:03,080 --> 00:11:08,840
+wir hier. Das ist unsere Höhe. Also
+
+213
+00:11:08,840 --> 00:11:12,220
+unsere Grundfläche ist das hier unten
+
+214
+00:11:12,220 --> 00:11:14,660
+und unsere Deckfläche ist das hier.
+
+215
+00:11:14,740 --> 00:11:16,060
+Also ihr könnt euch vorstellen, als
+
+216
+00:11:16,060 --> 00:11:17,580
+hätten wir einen Boden und dann
+
+217
+00:11:17,580 --> 00:11:18,360
+einfach nochmal einen Deckel
+
+218
+00:11:18,360 --> 00:11:21,020
+obendrauf. Und die Mantelfläche, was
+
+219
+00:11:21,020 --> 00:11:23,700
+das Ganze ummantelt, ist dann eben
+
+220
+00:11:23,700 --> 00:11:29,380
+das hier. und das hier und auch eben,
+
+221
+00:11:29,440 --> 00:11:31,780
+was wir hier vorne sehen. Also das
+
+222
+00:11:31,780 --> 00:11:35,160
+vorne dran. Genau, also der hat jetzt
+
+223
+00:11:35,160 --> 00:11:40,600
+hier drei Flächen und das Ganze ist
+
+224
+00:11:40,600 --> 00:11:42,640
+dann immer die Mantelfläche. Also
+
+225
+00:11:42,640 --> 00:11:45,700
+wenn man das so zusammen sieht, was
+
+226
+00:11:45,700 --> 00:11:47,740
+es so ummantelt. Deswegen heißt es
+
+227
+00:11:47,740 --> 00:11:51,600
+auch Mantelfläche. Und durch die Höhe
+
+228
+00:11:53,820 --> 00:11:56,380
+der Mantelfläche werden die beiden,
+
+229
+00:11:56,500 --> 00:11:58,000
+einmal die Grund- und einmal die
+
+230
+00:11:58,000 --> 00:12:00,260
+Deckfläche miteinander verbunden. So,
+
+231
+00:12:00,300 --> 00:12:02,480
+der Oberflächeninhalt des Prismas,
+
+232
+00:12:02,520 --> 00:12:06,200
+der setzt sich zusammen, also die
+
+233
+00:12:06,200 --> 00:12:07,600
+Gesamtfläche setzt sich zusammen aus
+
+234
+00:12:07,600 --> 00:12:10,140
+Grund-, Deck- und Mantelfläche, also
+
+235
+00:12:10,140 --> 00:12:11,520
+aus allen drei verschiedenen.
+
+236
+00:12:14,180 --> 00:12:16,460
+Und es hängt davon ab, ob es eben die
+
+237
+00:12:16,460 --> 00:12:17,960
+Grund- oder die Deckfläche ist. Da
+
+238
+00:12:17,960 --> 00:12:18,980
+werden dann nämlich verschiedene
+
+239
+00:12:18,980 --> 00:12:22,760
+Formeln benutzt, um diese dann eben
+
+240
+00:12:22,760 --> 00:12:26,920
+zu berechnen. Also zum Beispiel, hier
+
+241
+00:12:26,920 --> 00:12:28,780
+haben wir jetzt eben die Formel für
+
+242
+00:12:28,780 --> 00:12:33,340
+unseren Oberflächeninhalt.
+
+243
+00:12:33,640 --> 00:12:37,140
+Also A von O ist gleich A von der
+
+244
+00:12:37,140 --> 00:12:39,220
+Grundfläche plus A von der Deckfläche
+
+245
+00:12:39,220 --> 00:12:42,680
+plus A von der Mantelfläche. Also 2AG
+
+246
+00:12:42,680 --> 00:12:45,980
+plus AM. So, jetzt nicht wundern,
+
+247
+00:12:45,980 --> 00:12:47,160
+wieso jetzt plötzlich die Deckfläche
+
+248
+00:12:47,160 --> 00:12:48,360
+weg ist und da jetzt einfach eine 2
+
+249
+00:12:48,360 --> 00:12:50,660
+vorne dran steht. Wir wissen ja, dass
+
+250
+00:12:50,660 --> 00:12:53,240
+die Deck- und die Grundfläche die
+
+251
+00:12:53,240 --> 00:12:56,900
+gleichen Flächen haben, weil die ja
+
+252
+00:12:56,900 --> 00:12:58,720
+quasi einmal den Boden und einmal die
+
+253
+00:12:58,720 --> 00:13:00,160
+Decke haben. Und die Decke kann ja
+
+254
+00:13:00,160 --> 00:13:01,580
+nicht kleiner sein als der Boden und
+
+255
+00:13:01,580 --> 00:13:02,540
+der Boden auch nicht kleiner als die
+
+256
+00:13:02,540 --> 00:13:02,860
+Decke.
+
+257
+00:13:05,980 --> 00:13:07,300
+Deswegen hat man es dann einfach
+
+258
+00:13:07,300 --> 00:13:08,540
+gesagt, okay, dann schreibt man da
+
+259
+00:13:08,540 --> 00:13:10,420
+jetzt AG hin, weil es ja sowieso das
+
+260
+00:13:10,420 --> 00:13:11,760
+gleiche ist und das ist dann mal 2.
+
+261
+00:13:12,040 --> 00:13:14,200
+Also einmal für die Grundfläche und
+
+262
+00:13:14,200 --> 00:13:18,120
+einmal für die Deckfläche. Genau. Das
+
+263
+00:13:18,120 --> 00:13:20,620
+Volumen des Prismas, das ist dann
+
+264
+00:13:20,620 --> 00:13:23,520
+auch das Produkt der Grundfläche und
+
+265
+00:13:23,520 --> 00:13:27,920
+der Höhe des Prismas. Also hier, wir
+
+266
+00:13:27,920 --> 00:13:29,380
+haben jetzt hier eben unsere
+
+267
+00:13:29,380 --> 00:13:33,460
+Grundfläche und dann eben unsere Höhe
+
+268
+00:13:33,460 --> 00:13:36,680
+h. So, warum sagen wir jetzt einfach
+
+269
+00:13:36,680 --> 00:13:37,800
+die Grundfläche und die Höhe des
+
+270
+00:13:37,800 --> 00:13:43,200
+Prismas? Weil wir ja immer bei einem
+
+271
+00:13:43,200 --> 00:13:45,020
+Volumen brauchen wir immer einmal
+
+272
+00:13:45,020 --> 00:13:46,740
+eine Fläche und dann eben noch eine
+
+273
+00:13:46,740 --> 00:13:48,660
+Höhe. und dadurch wird es dann
+
+274
+00:13:48,660 --> 00:13:51,480
+nämlich dreidimensional, also hoch 3.
+
+275
+00:13:51,940 --> 00:13:54,140
+So, in diesem Fall ist es dann unsere
+
+276
+00:13:54,140 --> 00:13:58,100
+Formel Volumen gleich A von G, also A
+
+277
+00:13:58,100 --> 00:14:00,840
+von der Grundfläche, mal H, mal der
+
+278
+00:14:00,840 --> 00:14:05,480
+Höhe der Mantelflüchen. Gut, gehen
+
+279
+00:14:05,480 --> 00:14:07,160
+wir weiter. So, jetzt der Zylinder.
+
+280
+00:14:07,260 --> 00:14:11,640
+Der Zylinder, dabei hat er die
+
+281
+00:14:11,640 --> 00:14:15,000
+Eigenschaften, dass ein Prisma, also
+
+282
+00:14:15,000 --> 00:14:16,680
+es ist ein Prisma mit Kreis als Grund
+
+283
+00:14:16,680 --> 00:14:18,440
+- und Deckfläche. Also sieht man
+
+284
+00:14:18,440 --> 00:14:21,900
+hier, auch wieder haben wir hier und
+
+285
+00:14:21,900 --> 00:14:24,000
+hier unsere Grund- und Deckfläche und
+
+286
+00:14:24,000 --> 00:14:26,480
+das ist dann wieder unsere Höhe und
+
+287
+00:14:26,480 --> 00:14:27,680
+das Ausmaß ist dann natürlich auch
+
+288
+00:14:27,680 --> 00:14:29,520
+wieder die Mantelfläche, also das
+
+289
+00:14:29,520 --> 00:14:29,780
+hier.
+
+290
+00:14:32,730 --> 00:14:37,250
+So, also der Oberflächeninhalt des
+
+291
+00:14:37,250 --> 00:14:41,570
+Zylinders berechnet man, indem man
+
+292
+00:14:41,570 --> 00:14:42,910
+eben diese Formel hier benutzt, aber
+
+293
+00:14:42,910 --> 00:14:43,970
+natürlich muss man zuerst auch noch
+
+294
+00:14:43,970 --> 00:14:47,650
+erwähnen, dass der Oberflächeninhalt
+
+295
+00:14:47,650 --> 00:14:51,630
+die Gesamtfläche des ganzen Zylinders
+
+296
+00:14:51,630 --> 00:14:54,690
+ist und die setzt sich zusammen aus
+
+297
+00:14:54,690 --> 00:14:56,370
+einmal der Grundfläche, der
+
+298
+00:14:56,370 --> 00:15:00,890
+Deckfläche und der Mantelfläche. So,
+
+299
+00:15:00,890 --> 00:15:02,510
+die Grund- und die Deckfläche sind
+
+300
+00:15:02,510 --> 00:15:04,470
+natürlich gleich wieder, auch wie
+
+301
+00:15:04,470 --> 00:15:07,730
+beim Prisma, in diesem Fall sind es
+
+302
+00:15:07,730 --> 00:15:09,530
+eben zwei Kreise und die haben dann
+
+303
+00:15:09,530 --> 00:15:12,630
+auch die gleichen Radius R. Dadurch
+
+304
+00:15:12,630 --> 00:15:14,210
+kriegen wir dann eben die Formel AG
+
+305
+00:15:14,210 --> 00:15:18,310
+gleich Pi mal R hoch 2. Das ist dann
+
+306
+00:15:18,310 --> 00:15:24,270
+unsere, unser, genau. Dadurch haben
+
+307
+00:15:24,270 --> 00:15:27,070
+wir dann eben unsere, unsere, also
+
+308
+00:15:27,070 --> 00:15:28,770
+den Flächeninhalt unserer
+
+309
+00:15:30,310 --> 00:15:31,730
+Grundfläche. Dann haben wir eben
+
+310
+00:15:31,730 --> 00:15:33,110
+schon mal das hier. Ich zähle das
+
+311
+00:15:33,110 --> 00:15:37,620
+gerade wieder ein. Genau. Und dann
+
+312
+00:15:37,620 --> 00:15:39,240
+wollen wir natürlich dann auch noch
+
+313
+00:15:39,240 --> 00:15:41,300
+unsere Mantelfläche berechnen. Das
+
+314
+00:15:41,300 --> 00:15:44,180
+ist ein Rechteck mit den Seiten 2 mal
+
+315
+00:15:44,180 --> 00:15:47,520
+P mal R und H. Also die Mantelfläche
+
+316
+00:15:47,520 --> 00:15:51,120
+berechnet man eben so, 2 mal P mal R
+
+317
+00:15:51,120 --> 00:15:54,120
+mal H, weil wenn man es aufklappt
+
+318
+00:15:54,120 --> 00:15:58,320
+quasi, den ganzen Zylindern, sieht
+
+319
+00:15:58,320 --> 00:16:00,080
+man, dass die Mantelfläche rechteckig
+
+320
+00:16:00,080 --> 00:16:04,260
+ist. So, um das Ganze zu berechnen,
+
+321
+00:16:04,320 --> 00:16:04,820
+also den ganzen ganzen
+
+322
+00:16:04,820 --> 00:16:07,360
+Oberflächeninhalt, muss man also als
+
+323
+00:16:07,360 --> 00:16:11,040
+erstes unsere Grundfläche, was wir
+
+324
+00:16:11,040 --> 00:16:13,220
+hier oben schon berechnet haben, mal
+
+325
+00:16:13,220 --> 00:16:14,700
+2 multiplizieren, weil wir haben ja
+
+326
+00:16:14,700 --> 00:16:15,680
+nicht nur eine Grundfläche, sondern
+
+327
+00:16:15,680 --> 00:16:16,980
+auch eine Deckfläche, nur die beiden
+
+328
+00:16:16,980 --> 00:16:18,220
+sind eben von der Größe her
+
+329
+00:16:18,220 --> 00:16:20,380
+identisch. Deswegen multiplizieren
+
+330
+00:16:20,380 --> 00:16:23,020
+wir das mal 2 und dann plus die
+
+331
+00:16:23,020 --> 00:16:26,260
+Mantelfläche hier. Die haben wir hier
+
+332
+00:16:26,260 --> 00:16:31,660
+auch schon berechnet. So, das ergibt
+
+333
+00:16:31,660 --> 00:16:34,400
+dann 2 mal Pi mal R hoch 2. 2 plus 2
+
+334
+00:16:34,400 --> 00:16:38,260
+mal Pi mal R mal H. Genau, und dann
+
+335
+00:16:38,260 --> 00:16:39,200
+haben wir auch schon den
+
+336
+00:16:39,200 --> 00:16:41,340
+Oberflächeninhalt eines Zylinders.
+
+337
+00:16:42,740 --> 00:16:44,540
+So, das Volumen eines Zylinders
+
+338
+00:16:44,540 --> 00:16:49,260
+berechnet man, indem man die Formel V
+
+339
+00:16:49,260 --> 00:16:53,240
+gleich A mal G mal H verwendet. Die
+
+340
+00:16:53,240 --> 00:16:54,960
+hatten wir auch schon davor bei
+
+341
+00:16:54,960 --> 00:16:57,120
+unserem Prisma. Das ist nämlich die
+
+342
+00:16:57,120 --> 00:17:00,060
+allgemeine Formel eben für Prismen.
+
+343
+00:17:01,220 --> 00:17:05,640
+und dann haben wir dann aber
+
+344
+00:17:05,640 --> 00:17:08,880
+natürlich einen Kreis, also unsere
+
+345
+00:17:08,880 --> 00:17:10,640
+Grundfläche, also lautet unsere
+
+346
+00:17:10,640 --> 00:17:14,040
+Rechnung dann V gleich A mal G mal H
+
+347
+00:17:14,040 --> 00:17:18,720
+gleich Pi mal R hoch 2 mal H. Das ist
+
+348
+00:17:18,720 --> 00:17:21,540
+dann unsere Formel für unser Volumen
+
+349
+00:17:21,540 --> 00:17:23,140
+des Zylinders.
+
+350
+00:17:25,640 --> 00:17:26,840
+So, jetzt haben wir hier noch eine
+
+351
+00:17:26,840 --> 00:17:30,520
+Beispielaufgabe. Genau. Ein Sylo, das
+
+352
+00:17:30,520 --> 00:17:32,200
+die Form eines Zylinders hat, soll
+
+353
+00:17:32,200 --> 00:17:34,020
+komplett mit Getreide gefüllt werden.
+
+354
+00:17:35,100 --> 00:17:37,420
+Wie viel Getreide fasst das Sylo?
+
+355
+00:17:37,500 --> 00:17:38,800
+Also, Sylo ist einfach so ein
+
+356
+00:17:38,800 --> 00:17:42,680
+Behälter. Genau. Das Sylo soll von
+
+357
+00:17:42,680 --> 00:17:45,620
+außen gestrichen werden. Wie viel
+
+358
+00:17:45,620 --> 00:17:48,440
+Quadratmeter wird für den Anstrich
+
+359
+00:17:48,440 --> 00:17:52,820
+mit Farbe bedeckt? So. Wir wissen auf
+
+360
+00:17:52,820 --> 00:17:56,020
+jeden Fall, dass unser Durchmesser 5
+
+361
+00:17:56,020 --> 00:17:58,840
+Meter beträgt. Und unserer Höhe 7
+
+362
+00:17:58,840 --> 00:18:02,140
+Meter. Das sind die Angaben, die wir
+
+363
+00:18:02,140 --> 00:18:06,600
+haben. Also, das Fassungsvermögen
+
+364
+00:18:06,600 --> 00:18:10,300
+entspricht dem Volumen, weil das
+
+365
+00:18:10,300 --> 00:18:11,940
+Volumen ist ja 3-Dimensional, also
+
+366
+00:18:11,940 --> 00:18:13,840
+quasi wie viel in was reinpasst und
+
+367
+00:18:13,840 --> 00:18:14,980
+das ist dann eben auch das
+
+368
+00:18:14,980 --> 00:18:18,320
+Fassungsvermögen. Also, unsere Formel
+
+369
+00:18:18,320 --> 00:18:19,820
+natürlich für unser Volumen, hatten
+
+370
+00:18:19,820 --> 00:18:21,680
+wir auch vorhin schon besprochen, ist
+
+371
+00:18:21,680 --> 00:18:24,680
+V gleich A mal G mal H gleich Pi mal
+
+372
+00:18:24,680 --> 00:18:27,600
+R hoch 2 mal H. So, jetzt müssen wir
+
+373
+00:18:27,600 --> 00:18:29,480
+aber aufpassen, weil der Durchmesser
+
+374
+00:18:29,480 --> 00:18:31,820
+gegeben ist. Der Durchmesser ist,
+
+375
+00:18:32,040 --> 00:18:33,820
+dass wenn man von dem einen Ende zum
+
+376
+00:18:33,820 --> 00:18:35,400
+Kreis zum anderen Ende läuft. Und
+
+377
+00:18:35,400 --> 00:18:37,480
+diese Strecke, die man da dann läuft,
+
+378
+00:18:37,560 --> 00:18:39,580
+ist dann unser Durchmesser. Unser
+
+379
+00:18:39,580 --> 00:18:41,540
+Radius aber ist quasi die Hälfte von
+
+380
+00:18:41,540 --> 00:18:43,340
+dem Durchmesser. Also wenn man von
+
+381
+00:18:43,340 --> 00:18:45,960
+der Mitte bis zu einem Ende läuft,
+
+382
+00:18:46,040 --> 00:18:48,140
+also bis zu der Kante. Also müssen
+
+383
+00:18:48,140 --> 00:18:49,960
+wir den Durchmesser durch 2 teilen,
+
+384
+00:18:50,000 --> 00:18:51,020
+sodass wir dann den Radius erhalten.
+
+385
+00:18:51,020 --> 00:18:52,460
+halten. In diesem Fall ist unser
+
+386
+00:18:52,460 --> 00:18:54,620
+Durchmesser 5 Meter, das teilen wir
+
+387
+00:18:54,620 --> 00:18:56,700
+dann durch 2 und dann sind das 2,5
+
+388
+00:18:56,700 --> 00:19:00,400
+Meter. Also unsere Antwort dann
+
+389
+00:19:00,400 --> 00:19:02,300
+dadurch, weil jetzt haben wir eben
+
+390
+00:19:02,300 --> 00:19:05,140
+die Höhe schon, das war 7 Meter, dann
+
+391
+00:19:05,140 --> 00:19:06,760
+haben wir den Durchmesser und dann
+
+392
+00:19:06,760 --> 00:19:07,680
+haben wir Pi haben wir natürlich
+
+393
+00:19:07,680 --> 00:19:09,580
+immer, das tippen wir dann alles in
+
+394
+00:19:09,580 --> 00:19:10,960
+den Taschrechner ein oder rechnen das
+
+395
+00:19:10,960 --> 00:19:15,560
+auch per Hand und dann kommen wir zu
+
+396
+00:19:15,560 --> 00:19:20,440
+dem Ergebnis, dass das Sylo circa 137
+
+397
+00:19:20,440 --> 00:19:23,700
+,44 Kubikmeter Getreide fassen kann.
+
+398
+00:19:23,840 --> 00:19:26,480
+Also so viel Getreide passt da rein.
+
+399
+00:19:26,860 --> 00:19:28,640
+Weil, wir sehen jetzt ja hier auch,
+
+400
+00:19:28,880 --> 00:19:32,340
+das wurde ja damals eingesetzt, für
+
+401
+00:19:32,340 --> 00:19:35,580
+zum Beispiel den Radius 2,5 Meter,
+
+402
+00:19:35,660 --> 00:19:36,360
+weil wir das ja vorhin schon
+
+403
+00:19:36,360 --> 00:19:38,580
+berechnet haben, und für die Höhe 7
+
+404
+00:19:38,580 --> 00:19:39,820
+Meter, das war ja davor auch schon
+
+405
+00:19:39,820 --> 00:19:44,340
+gegeben, mal Pi. Und dann kommen wir
+
+406
+00:19:44,340 --> 00:19:46,040
+zu dem Entschluss, das war es, das
+
+407
+00:19:46,040 --> 00:19:49,420
+Volumen. 137,44 Kubikmeter sind.
+
+408
+00:19:50,540 --> 00:19:53,900
+Genau. So, jetzt wollen wir aber auch
+
+409
+00:19:53,900 --> 00:19:56,840
+noch den Anstrich der Oberfläche
+
+410
+00:19:56,840 --> 00:20:01,300
+rausfinden. Der Boden wird nicht
+
+411
+00:20:01,300 --> 00:20:05,500
+gestrichen, also können wir, also das
+
+412
+00:20:05,500 --> 00:20:07,120
+heißt, dass wir den Boden weglassen.
+
+413
+00:20:07,240 --> 00:20:08,480
+Den müssen wir dann nicht in der
+
+414
+00:20:08,480 --> 00:20:10,720
+Rechnung mit einbeziehen. Das heißt
+
+415
+00:20:10,720 --> 00:20:12,780
+also, dass der Oberflächeninhalt des
+
+416
+00:20:12,780 --> 00:20:15,780
+Ganzen ist dann Pi mal R hoch 2 plus
+
+417
+00:20:15,780 --> 00:20:19,880
+2 mal P mal R mal H, weil wir
+
+418
+00:20:19,880 --> 00:20:24,540
+berechnen jetzt eben einmal hier
+
+419
+00:20:24,540 --> 00:20:27,540
+unseren Deckel und einmal die
+
+420
+00:20:27,540 --> 00:20:30,140
+Mantelfläche. Normalerweise wäre hier
+
+421
+00:20:30,140 --> 00:20:33,500
+vorne dran noch ein, nein, zwei, aber
+
+422
+00:20:35,100 --> 00:20:41,020
+dadurch, dass wir ja kein Deckel,
+
+423
+00:20:41,900 --> 00:20:43,420
+keinen Grund, also keinen Boden
+
+424
+00:20:44,800 --> 00:20:46,220
+brauchen, weil der nicht gestrichen
+
+425
+00:20:46,220 --> 00:20:48,400
+wird, dann lassen wir eben die 2 weg,
+
+426
+00:20:48,880 --> 00:20:50,280
+weil wir ja nur einen Deckel haben
+
+427
+00:20:50,280 --> 00:20:53,300
+und keinen 2, einmal Boden, einmal
+
+428
+00:20:53,300 --> 00:20:55,240
+Deckel. So, dann setzen wir natürlich
+
+429
+00:20:55,240 --> 00:20:56,560
+wieder die Werte ein, so wie auch
+
+430
+00:20:56,560 --> 00:20:58,320
+davor, dafür nutzen wir dann eben
+
+431
+00:20:58,320 --> 00:20:59,620
+die, die wir herausgefunden haben,
+
+432
+00:20:59,720 --> 00:21:01,520
+zum Beispiel hier eben den Radius
+
+433
+00:21:03,700 --> 00:21:05,420
+und hier auch und setzen dann auch
+
+434
+00:21:05,420 --> 00:21:07,140
+noch die 7 Meter ein, das hatten wir
+
+435
+00:21:07,140 --> 00:21:10,560
+auch schon gegeben, Also Pi mal 2,5
+
+436
+00:21:10,560 --> 00:21:15,940
+hoch 2 plus 2 mal Pi mal 2,5 mal 7
+
+437
+00:21:15,940 --> 00:21:21,520
+gleich 129,6 Quadratmeter. Ganz
+
+438
+00:21:21,520 --> 00:21:23,020
+wichtig, jetzt handelt es sich
+
+439
+00:21:23,020 --> 00:21:24,520
+nämlich hier um einen Flächenhalt,
+
+440
+00:21:24,580 --> 00:21:26,640
+also um eine Fläche. Und deswegen
+
+441
+00:21:26,640 --> 00:21:29,780
+müssen wir dann eben Quadratmeter
+
+442
+00:21:29,780 --> 00:21:31,640
+benutzen anstatt Kubikmeter, wie im
+
+443
+00:21:31,640 --> 00:21:33,140
+vorigen Beispiel, weil es jetzt nicht
+
+444
+00:21:33,140 --> 00:21:34,280
+mehr hier um ein Volumen geht,
+
+445
+00:21:34,360 --> 00:21:36,740
+sondern um eine Fläche. Und das ist
+
+446
+00:21:36,740 --> 00:21:38,940
+eben quadriert, also hoch 2, nicht
+
+447
+00:21:38,940 --> 00:21:42,280
+hoch 3. So, also unsere Antwort ist
+
+448
+00:21:42,280 --> 00:21:48,040
+dann eben, dass ungefähr 129,6
+
+449
+00:21:48,040 --> 00:21:51,020
+Quadratmeter mit Farbe bedeckt werden
+
+450
+00:21:51,020 --> 00:21:51,540
+müssen.
+
+451
+00:21:54,570 --> 00:21:55,540
+So, jetzt haben wir noch eine
+
+452
+00:21:55,540 --> 00:21:59,180
+Beispielaufgabe. Da müssen wir jetzt
+
+453
+00:21:59,180 --> 00:22:00,760
+eben den Oberflächeninhalt eines
+
+454
+00:22:00,760 --> 00:22:02,560
+Prismas mit einem rechtlichen Dreieck
+
+455
+00:22:02,560 --> 00:22:05,000
+als Grundfläche berechnen. Wir haben
+
+456
+00:22:05,000 --> 00:22:08,300
+die Werte gegeben. Einmal die erste
+
+457
+00:22:08,300 --> 00:22:11,060
+Kathete des Dreiecks, das ist dann A
+
+458
+00:22:11,060 --> 00:22:13,480
+ist gleich 3 cm, die zweite Kathete
+
+459
+00:22:13,480 --> 00:22:15,040
+hatten wir auch gegeben, das ist 4
+
+460
+00:22:15,040 --> 00:22:17,980
+cm, B gleich 4 und die Hypotenose des
+
+461
+00:22:17,980 --> 00:22:23,340
+Dreiecks C gleich 5 cm. Und natürlich
+
+462
+00:22:23,340 --> 00:22:25,440
+dann auch am Ende einmal die Höhe des
+
+463
+00:22:25,440 --> 00:22:29,720
+Prismas, die beträgt 6,5 cm. So,
+
+464
+00:22:29,780 --> 00:22:30,640
+jetzt haben wir das hier auch alles
+
+465
+00:22:30,640 --> 00:22:33,720
+eingegeben und wir sehen, dass wir
+
+466
+00:22:33,720 --> 00:22:35,280
+natürlich auch hier einen rechten
+
+467
+00:22:35,280 --> 00:22:39,540
+Wink. haben. Okay, jetzt gehen wir
+
+468
+00:22:39,540 --> 00:22:41,740
+mal weiter. Also, um den
+
+469
+00:22:41,740 --> 00:22:43,820
+Oberflächeninhalt eines Prismas zu
+
+470
+00:22:43,820 --> 00:22:46,320
+berechnen, brauchen wir diese Formel
+
+471
+00:22:46,320 --> 00:22:50,300
+hier. a von o gleich 2 mal ag plus
+
+472
+00:22:50,300 --> 00:22:54,720
+am. ag ist eben, also g steht für die
+
+473
+00:22:54,720 --> 00:22:55,960
+Grundfläche und für die Deckfläche,
+
+474
+00:22:56,020 --> 00:22:57,420
+deswegen wird es mal 2 berechnet,
+
+475
+00:22:57,480 --> 00:22:59,760
+plus die Mantelfläche, also den den
+
+476
+00:22:59,760 --> 00:23:03,520
+Flächen der Mantelflächen. Genau, so,
+
+477
+00:23:03,660 --> 00:23:06,560
+wir sehen jetzt hier eben das Prisma
+
+478
+00:23:06,560 --> 00:23:10,440
+aufgeklappt und sehen dann, dass es
+
+479
+00:23:10,440 --> 00:23:12,960
+dann eben verschiedene Formen dann
+
+480
+00:23:12,960 --> 00:23:15,740
+eben auch hat. Dadurch können wir
+
+481
+00:23:15,740 --> 00:23:18,340
+sehen, dass die Oberfläche aus drei
+
+482
+00:23:18,340 --> 00:23:19,680
+Rechtecken besteht, also die
+
+483
+00:23:19,680 --> 00:23:22,000
+Mantelfläche und die zwei gleichen,
+
+484
+00:23:22,000 --> 00:23:24,140
+zwei gleichen Rechtecken in den
+
+485
+00:23:24,140 --> 00:23:25,280
+Dreiecken, das ist dann nämlich die
+
+486
+00:23:25,280 --> 00:23:26,560
+Grund- und die Deckfläche.
+
+487
+00:23:29,080 --> 00:23:30,320
+Also, was wir dann hier machen,
+
+488
+00:23:30,440 --> 00:23:33,200
+müssen, ist einmal die Grund- oder
+
+489
+00:23:33,200 --> 00:23:34,480
+die Deckfläche berechnen, das ist
+
+490
+00:23:34,480 --> 00:23:38,180
+eben das rechtwinklige Dreieck. Hier
+
+491
+00:23:38,180 --> 00:23:39,340
+sehen wir auch den rechten Winkel.
+
+492
+00:23:39,500 --> 00:23:43,220
+Also a von g gleich a mal b durch 2
+
+493
+00:23:43,220 --> 00:23:44,940
+gleich, dann setzen wir die ganzen
+
+494
+00:23:44,940 --> 00:23:48,740
+Werte ein, die uns gegeben wurden, 3
+
+495
+00:23:48,740 --> 00:23:52,860
+mal 4 cm durch 2 und das sind dann 6
+
+496
+00:23:52,860 --> 00:23:55,420
+Quadratzentimeter. Also wissen wir,
+
+497
+00:23:55,420 --> 00:23:59,120
+dass die Fläche unserer Grund- und
+
+498
+00:23:59,120 --> 00:24:06,340
+Deckfläche, genau, dass die 6 cm²
+
+499
+00:24:06,340 --> 00:24:09,120
+beträgt. Und dann sehen wir auch noch
+
+500
+00:24:09,120 --> 00:24:12,800
+die Mantelfläche. Da sind eben die
+
+501
+00:24:12,800 --> 00:24:15,320
+drei Seiten mit A, B und C und die
+
+502
+00:24:15,320 --> 00:24:18,820
+Höhe H. Also berechnen wir das A von
+
+503
+00:24:18,820 --> 00:24:22,660
+M gleich A mal H plus B mal H plus C
+
+504
+00:24:22,660 --> 00:24:24,740
+mal H. Also setzen wir die ganzen
+
+505
+00:24:24,740 --> 00:24:27,300
+Werte wieder ein. Das ist dann 3 cm
+
+506
+00:24:27,300 --> 00:24:35,480
+mal 6,5 cm mal 4 cm mal 6,5 cm plus
+
+507
+00:24:35,480 --> 00:24:43,620
+4 cm mal 6,5 cm plus 5 cm mal 6,5 cm.
+
+508
+00:24:43,620 --> 00:24:47,000
+Und dann kommen wir zu dem Wert 78
+
+509
+00:24:47,000 --> 00:24:51,380
+cm². Also unsere Mantelfläche beträgt
+
+510
+00:24:51,380 --> 00:24:56,440
+78 cm². So, die Gesamtoberfläche von
+
+511
+00:24:56,440 --> 00:24:59,420
+Grunddeckfläche und auch Mantelfläche
+
+512
+00:24:59,420 --> 00:25:03,740
+ist dann 90 cm². Hier berechnen wir
+
+513
+00:25:03,740 --> 00:25:07,340
+dann eben 2 mal a von g plus a von m,
+
+514
+00:25:07,480 --> 00:25:13,040
+also 2 mal 6 cm² plus 68 cm². 78
+
+515
+00:25:13,040 --> 00:25:15,220
+Quadratzentimeter sind dann 90
+
+516
+00:25:15,220 --> 00:25:18,040
+Quadratzentimeter. Also unsere
+
+517
+00:25:18,040 --> 00:25:20,660
+Antwort ist, dass das Prisma, das wir
+
+518
+00:25:20,660 --> 00:25:22,800
+gerade eben gesehen haben, eine
+
+519
+00:25:22,800 --> 00:25:24,500
+Gesamtoberfläche von 90
+
+520
+00:25:24,500 --> 00:25:29,760
+Quadratzentimeter hat. So, das war es
+
+521
+00:25:29,760 --> 00:25:31,140
+dann auch schon. Ich hoffe, ihr habt
+
+522
+00:25:31,140 --> 00:25:32,640
+alles verstanden. Solltet ihr noch
+
+523
+00:25:32,640 --> 00:25:33,880
+irgendwelche Fragen haben, könnt ihr
+
+524
+00:25:33,880 --> 00:25:35,240
+mir natürlich jetzt gerne noch diese
+
+525
+00:25:35,240 --> 00:25:37,700
+stellen. Wenn ihr noch gerne das
+
+526
+00:25:37,700 --> 00:25:40,280
+Thema ein bisschen vertiefen wollen
+
+527
+00:25:40,280 --> 00:25:43,900
+würdet oder auch einfach noch ein
+
+528
+00:25:43,900 --> 00:25:44,980
+paar Übungsaufgaben dazu machen
+
+529
+00:25:44,980 --> 00:25:47,020
+wollt, dann könnt ihr natürlich gerne
+
+530
+00:25:47,020 --> 00:25:48,660
+im Online-Lernzettel vorbeischauen.
+
+531
+00:25:48,760 --> 00:25:50,500
+Da gibt es dann immer ein paar
+
+532
+00:25:50,500 --> 00:25:52,120
+Aufgaben und natürlich auch die
+
+533
+00:25:52,120 --> 00:25:55,280
+dazugehörigen Lösungen. Ich hoffe, es
+
+534
+00:25:55,280 --> 00:25:56,300
+hat euch Spaß gemacht und ihr habt
+
+535
+00:25:56,300 --> 00:25:58,100
+alles gut verstanden und vielleicht
+
+536
+00:25:58,100 --> 00:25:58,940
+sehen wir uns ja bald bei einem
+
+537
+00:25:58,940 --> 00:26:00,640
+nächsten Webinar der Schülerhilfe.
+
+538
+00:26:01,320 --> 00:26:03,340
+Ich bin die Serena und ich hoffe, ihr
+
+539
+00:26:03,340 --> 00:26:05,340
+habt noch einen schönen Tag. Tschüss.
+
+540
+00:26:05,340 --> 00:26:05,860
+Macht's gut.
+

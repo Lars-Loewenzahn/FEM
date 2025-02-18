@@ -1,0 +1,1084 @@
+﻿1
+00:00:02,000 --> 00:00:04,000
+Welcome to the webinar 
+
+2
+00:00:04,000 --> 00:00:06,380
+Rounding. In this webinar, we will be 
+looking at 
+
+3
+00:00:06,380 --> 00:00:07,900
+rounding. 
+
+4
+00:00:07,940 --> 00:00:09,420
+We will first 
+
+5
+00:00:09,420 --> 00:00:11,060
+look at rounding to tens, then rounding 
+
+6
+00:00:11,060 --> 00:00:12,340
+to hundreds and rounding to 
+
+7
+00:00:12,340 --> 00:00:14,480
+thousands. At the very end, we will 
+
+8
+00:00:14,480 --> 00:00:16,020
+
+9
+00:00:16,020 --> 00:00:18,040
+demonstrate rounding again using a 
+slightly larger number. 
+
+10
+00:00:18,140 --> 00:00:19,680
+This means mixed, i.e. we round 
+
+11
+00:00:19,680 --> 00:00:20,960
+once to tens, hundreds and 
+
+12
+00:00:20,960 --> 00:00:23,540
+thousands in the example. And 
+
+13
+00:00:23,540 --> 00:00:27,160
+thus show the differences. Let's start 
+with 
+
+14
+00:00:27,160 --> 00:00:28,700
+something general about rounding 
+
+15
+00:00:28,700 --> 00:00:31,040
+. Rounding is needed to 
+
+16
+00:00:31,040 --> 00:00:32,680
+
+17
+00:00:32,680 --> 00:00:34,700
+achieve a simple representation of 
+numbers. This means that 
+
+18
+00:00:34,700 --> 00:00:36,320
+, especially with large numbers, you 
+
+19
+00:00:36,320 --> 00:00:37,320
+might 
+
+20
+00:00:37,320 --> 00:00:39,180
+limit yourself to the essentials and do 
+without an exact 
+
+21
+00:00:39,180 --> 00:00:40,840
+result. This means that 
+
+22
+00:00:40,840 --> 00:00:42,340
+you may 
+
+23
+00:00:42,340 --> 00:00:44,980
+round some digits that are far behind, so 
+that 
+
+24
+00:00:44,980 --> 00:00:47,200
+you can process the number better, 
+
+25
+00:00:47,240 --> 00:00:48,200
+perhaps also remember it better 
+
+26
+00:00:48,200 --> 00:00:50,560
+or 
+
+27
+00:00:50,560 --> 00:00:54,000
+carry out a rough calculation with it. is 
+
+28
+00:00:54,000 --> 00:00:55,480
+rounded . Rounding 
+
+29
+00:00:55,480 --> 00:00:57,200
+is not that difficult in itself. You 
+
+30
+00:00:57,200 --> 00:00:59,580
+just have to follow two important rules. 
+The 
+
+31
+00:00:59,580 --> 00:01:01,800
+first is that you always look at the 
+
+32
+00:01:01,800 --> 00:01:04,360
+number after the 
+
+33
+00:01:04,360 --> 00:01:06,740
+digit you 
+
+34
+00:01:06,740 --> 00:01:09,240
+want to round up to. This means that if we 
+want to 
+
+35
+00:01:09,240 --> 00:01:10,660
+round to tens, we look 
+
+36
+00:01:10,660 --> 00:01:12,100
+at the digit to the right of it, the 
+
+37
+00:01:12,100 --> 00:01:14,380
+ones. If we 
+
+38
+00:01:14,380 --> 00:01:15,760
+want to round to hundreds, we look 
+
+39
+00:01:15,760 --> 00:01:17,320
+at the digit to the right, the tens. 
+
+40
+00:01:17,700 --> 00:01:19,360
+If we want to round to thousands, 
+
+41
+00:01:19,480 --> 00:01:20,820
+we also look at the 
+
+42
+00:01:20,820 --> 00:01:22,540
+place to the right of it 
+
+43
+00:01:22,540 --> 00:01:26,220
+, the hundreds. It is important to note 
+
+44
+00:01:26,320 --> 00:01:28,340
+that only the one digit to the right of 
+
+45
+00:01:28,340 --> 00:01:30,060
+it applies and it is only 
+
+46
+00:01:30,060 --> 00:01:31,560
+rounded once. I will 
+
+47
+00:01:31,560 --> 00:01:33,320
+
+48
+00:01:33,320 --> 00:01:34,440
+show this again in a moment with the 
+rounds to hundreds and rounds to thousands 
+and 
+
+49
+00:01:34,440 --> 00:01:36,060
+mention what I mean by this. 
+
+50
+00:01:36,060 --> 00:01:37,540
+Rounding is only ever done once and 
+
+51
+00:01:37,540 --> 00:01:38,940
+you only ever look at the 
+
+52
+00:01:38,940 --> 00:01:41,440
+digit to the right of the digit that 
+
+53
+00:01:41,440 --> 00:01:44,200
+is to be rounded. The second 
+
+54
+00:01:44,200 --> 00:01:46,120
+important rule is the rule on how 
+
+55
+00:01:46,120 --> 00:01:48,120
+to round. All numbers, 
+
+56
+00:01:48,260 --> 00:01:51,180
+either from 0, 1, 2, 3 up to 
+
+57
+00:01:51,180 --> 00:01:53,320
+and including 4, are rounded down. 
+
+58
+00:01:53,560 --> 00:01:55,160
+This also means that all 
+
+59
+00:01:55,160 --> 00:01:56,640
+numbers smaller than 5 are 
+
+60
+00:01:56,760 --> 00:01:59,020
+rounded down. Or then they are 
+
+61
+00:01:59,020 --> 00:02:01,900
+rounded down. If the number is a 5, 6, 
+
+62
+00:02:02,020 --> 00:02:03,960
+7, 8 or 9, it is 
+
+63
+00:02:03,960 --> 00:02:07,380
+rounded up. In other words, if the number 
+
+64
+00:02:07,380 --> 00:02:09,040
+is less than a 5, it is rounded down; 
+
+65
+00:02:09,040 --> 00:02:10,400
+if it is greater than a 5, it is 
+
+66
+00:02:10,400 --> 00:02:11,820
+rounded up. It is important to note that 
+we are 
+
+67
+00:02:11,820 --> 00:02:13,240
+always talking about the number 
+
+68
+00:02:13,240 --> 00:02:15,020
+to the right of the digit to be rounded 
+
+69
+00:02:15,020 --> 00:02:18,720
+. Let's start with rounding to 
+
+70
+00:02:18,720 --> 00:02:21,380
+tens. As I said, here 
+
+71
+00:02:21,380 --> 00:02:22,760
+again is the rule for rounding 
+
+72
+00:02:22,760 --> 00:02:24,520
+. If the one digit 
+
+73
+00:02:24,520 --> 00:02:27,500
+is less than 5, it is rounded down. If 
+
+74
+00:02:27,500 --> 00:02:29,780
+one digit is equal to or greater than 5 
+
+75
+00:02:29,780 --> 00:02:31,520
+, it is rounded up. As I said, 
+
+76
+00:02:31,640 --> 00:02:33,900
+because we are rounding to 10s, let's look 
+
+77
+00:02:33,900 --> 00:02:35,920
+at the 1s. These are the 
+
+78
+00:02:35,920 --> 00:02:37,280
+1s here , we want to round to the 10s 
+
+79
+00:02:37,280 --> 00:02:38,900
+. As we have already 
+
+80
+00:02:38,900 --> 00:02:40,780
+said several times, the 1s are the digit 
+to the right 
+
+81
+00:02:40,780 --> 00:02:44,100
+of the 10s. Well, the 1s in 
+
+82
+00:02:44,100 --> 00:02:47,860
+the 723 are a 3. The 3 is smaller than 
+
+83
+00:02:47,860 --> 00:02:50,160
+the 5, so it is rounded down and 
+
+84
+00:02:50,160 --> 00:02:51,680
+we get a 720. 
+
+85
+00:02:54,270 --> 00:02:56,010
+The next number we have is the 48. 
+
+86
+00:02:57,010 --> 00:02:58,650
+This means that we are looking at 
+
+87
+00:02:58,650 --> 00:02:59,910
+the 1s again, which in this case are 
+
+88
+00:02:59,910 --> 00:03:02,930
+an 8. The 8 is larger than the 5, 
+
+89
+00:03:03,090 --> 00:03:05,050
+so it is rounded up. So we go 
+
+90
+00:03:05,050 --> 00:03:07,730
+to the next larger 10 and 
+
+91
+00:03:07,730 --> 00:03:12,160
+that is the 50. Next we 
+
+92
+00:03:12,160 --> 00:03:15,780
+have the 574. The 1 here is 
+
+93
+00:03:15,780 --> 00:03:17,840
+a 4. The 4 is smaller than the 5, 
+
+94
+00:03:18,000 --> 00:03:20,820
+so we round down to 570. 
+
+95
+00:03:23,170 --> 00:03:24,910
+Here we have an example that 
+
+96
+00:03:24,910 --> 00:03:26,270
+often causes problems. We have 
+
+97
+00:03:26,270 --> 00:03:29,730
+the 96. The 6 is greater than the 5, so it 
+is 
+
+98
+00:03:29,870 --> 00:03:31,830
+rounded up. 
+
+99
+00:03:31,830 --> 00:03:32,990
+We already know this so far. The only 
+
+100
+00:03:32,990 --> 00:03:35,890
+problem is that we can 
+
+101
+00:03:35,890 --> 00:03:37,930
+no longer increase the 10s because we 
+
+102
+00:03:37,930 --> 00:03:41,210
+already have the 9. That's why we have to 
+
+103
+00:03:41,210 --> 00:03:44,570
+open up the next 100s. And 96 is 
+
+104
+00:03:44,570 --> 00:03:45,970
+therefore 100 rounded up. 
+
+105
+00:03:48,750 --> 00:03:52,250
+Next we have the 455. Here 
+
+106
+00:03:52,250 --> 00:03:54,110
+we look at the right-hand 5, i.e. the 
+
+107
+00:03:54,110 --> 00:03:57,650
+1s. And 5, as we have just 
+
+108
+00:03:57,650 --> 00:04:00,210
+learned, is rounded up from 5... and 
+
+109
+00:04:00,210 --> 00:04:02,230
+we have a 5 there, so 
+
+110
+00:04:02,230 --> 00:04:04,770
+we round up the 455 and get the 
+
+111
+00:04:04,770 --> 00:04:06,190
+460. 
+
+112
+00:04:08,730 --> 00:04:10,930
+And that brings us to the 
+
+113
+00:04:10,930 --> 00:04:12,550
+rounds to hundreds. Rounding to 
+
+114
+00:04:12,550 --> 00:04:14,370
+hundreds actually works 
+
+115
+00:04:14,370 --> 00:04:16,110
+in exactly the same way. The only 
+important thing now is that when 
+
+116
+00:04:16,110 --> 00:04:18,170
+we round to hundreds, we look 
+
+117
+00:04:18,170 --> 00:04:19,670
+at the tens digit. 
+
+118
+00:04:19,670 --> 00:04:21,610
+If the tens digit is less than 5, 
+
+119
+00:04:21,650 --> 00:04:23,370
+we round down and if the tens 
+
+120
+00:04:23,370 --> 00:04:25,910
+digit is greater than or equal to 5, we 
+
+121
+00:04:25,910 --> 00:04:28,670
+round up. It is important to remember what 
+
+122
+00:04:28,670 --> 00:04:30,110
+I said at the beginning: 
+
+123
+00:04:30,230 --> 00:04:31,990
+the 1 digit is not 
+
+124
+00:04:31,990 --> 00:04:33,330
+important, we 
+
+125
+00:04:33,330 --> 00:04:35,710
+don't look at it at all. This means that 
+we now want to 
+
+126
+00:04:35,710 --> 00:04:38,550
+round the 723 to 100, so 
+
+127
+00:04:38,550 --> 00:04:41,890
+we only look at the 2. It 
+
+128
+00:04:41,890 --> 00:04:43,890
+doesn't matter what the digit is here. 
+
+129
+00:04:44,610 --> 00:04:48,470
+We have the 723, we are 
+
+130
+00:04:48,470 --> 00:04:51,510
+only looking at the 10, because we want to 
+
+131
+00:04:51,510 --> 00:04:53,650
+round to 100. This is the second 
+
+132
+00:04:53,650 --> 00:04:55,070
+digit from the right, the tens always. 
+
+133
+00:04:55,550 --> 00:04:57,630
+And in this case we have 2. 2 
+
+134
+00:04:57,630 --> 00:04:59,290
+is smaller than 5, so we 
+
+135
+00:04:59,290 --> 00:05:01,330
+round down and we get 700. 
+
+136
+00:05:02,490 --> 00:05:04,050
+So if we round to hundreds, 
+
+137
+00:05:04,110 --> 00:05:05,930
+then there is 
+
+138
+00:05:05,930 --> 00:05:08,370
+only 0 after the hundreds digit . That's 
+always the case. 
+
+139
+00:05:09,170 --> 00:05:11,030
+Just like when we just rounded to tens 
+
+140
+00:05:11,030 --> 00:05:12,610
+, 
+
+141
+00:05:12,610 --> 00:05:13,790
+there was only a 0 after the tens digit 
+
+142
+00:05:16,860 --> 00:05:20,100
+. Next we have 248. This 
+
+143
+00:05:20,100 --> 00:05:21,240
+is an example of what I 
+
+144
+00:05:21,240 --> 00:05:23,820
+meant earlier. 
+
+145
+00:05:23,820 --> 00:05:25,280
+If we were to round twice now , we would 
+
+146
+00:05:25,280 --> 00:05:26,820
+round up the 8 , i.e. first 
+
+147
+00:05:26,820 --> 00:05:27,940
+round to the 10 , we would have a 5 here. 
+
+148
+00:05:28,060 --> 00:05:29,240
+And if we then 
+
+149
+00:05:29,240 --> 00:05:30,560
+rounded to the 100s , we would round up. 
+
+150
+00:05:31,200 --> 00:05:32,660
+We don't do that. 
+
+151
+00:05:32,660 --> 00:05:33,940
+We only ever round once and 
+
+152
+00:05:33,940 --> 00:05:36,380
+therefore only ever consider the 
+
+153
+00:05:36,380 --> 00:05:39,180
+digit to the right of the digit that 
+
+154
+00:05:39,180 --> 00:05:40,820
+is to be rounded. So if 
+
+155
+00:05:40,820 --> 00:05:42,360
+you want to round to 100, the 10 
+
+156
+00:05:42,360 --> 00:05:44,600
+digit . This is a 4 here 
+
+157
+00:05:44,600 --> 00:05:45,860
+, so it doesn't matter that there is 
+
+158
+00:05:45,860 --> 00:05:48,260
+an 8 here. This is a 4. The 4 
+
+159
+00:05:48,260 --> 00:05:49,960
+is smaller than the 5, so 
+
+160
+00:05:49,960 --> 00:05:54,400
+we have to round down to 200. Next 
+
+161
+00:05:54,400 --> 00:05:57,360
+we have the 574. Here we have the 
+
+162
+00:05:57,360 --> 00:06:00,280
+10's 7 and the 7 is greater than the 
+
+163
+00:06:00,280 --> 00:06:04,620
+5, so we simply round up. 
+
+164
+00:06:04,620 --> 00:06:05,920
+Next, we have another 
+
+165
+00:06:05,920 --> 00:06:07,000
+example that often 
+
+166
+00:06:07,000 --> 00:06:10,860
+causes problems , the 996. Here, too, 
+
+167
+00:06:10,860 --> 00:06:12,720
+we look at the 10s, i.e. the 9 
+
+168
+00:06:12,720 --> 00:06:15,160
+and the 9 is greater than the 5, so we 
+
+169
+00:06:15,160 --> 00:06:16,920
+round up. This means we 
+
+170
+00:06:16,920 --> 00:06:19,700
+want to increase the 100s by 1. 
+
+171
+00:06:19,700 --> 00:06:20,740
+But we can't do that because we 
+
+172
+00:06:20,740 --> 00:06:23,540
+already have a 9 there , so 996 is 
+
+173
+00:06:23,540 --> 00:06:27,220
+rounded up to 1000. Then we just have to 
+
+174
+00:06:27,220 --> 00:06:30,720
+increase the 1000s by 1. 
+
+175
+00:06:30,720 --> 00:06:31,800
+can no longer increase the 100s because 
+there 
+
+176
+00:06:31,800 --> 00:06:36,820
+is already a 9 there. In this case, 
+
+177
+00:06:36,820 --> 00:06:39,940
+we have a 5 in the 10s 
+
+178
+00:06:39,940 --> 00:06:43,280
+. Therefore 5 equals 5 and we 
+
+179
+00:06:43,280 --> 00:06:44,920
+have learned when to 
+
+180
+00:06:44,920 --> 00:06:47,540
+round up. Therefore, the 455 is 
+
+181
+00:06:47,540 --> 00:06:52,820
+rounded to 500, which brings us to 
+rounding 
+
+182
+00:06:52,820 --> 00:06:54,900
+to thousands. 
+
+183
+00:06:55,760 --> 00:06:57,360
+When rounding to thousands 
+
+184
+00:06:57,360 --> 00:06:58,460
+, we also look at the digit 
+
+185
+00:06:58,460 --> 00:06:59,980
+to the right of it, which is the 
+
+186
+00:06:59,980 --> 00:07:01,760
+100 digit . If this is less than 
+
+187
+00:07:01,760 --> 00:07:04,560
+5, it is rounded down and if it 
+
+188
+00:07:04,560 --> 00:07:06,500
+is equal to or greater than 5, it is 
+
+189
+00:07:06,500 --> 00:07:08,920
+rounded up. 
+
+190
+00:07:08,920 --> 00:07:10,480
+As I said, we are only interested in 
+
+191
+00:07:10,480 --> 00:07:12,480
+the 100s, not the 10s 
+
+192
+00:07:12,480 --> 00:07:14,840
+or the 1s. 
+
+193
+00:07:14,840 --> 00:07:19,740
+Here we have 3423. 100 is 
+
+194
+00:07:19,740 --> 00:07:22,200
+always the third digit from the right. 
+
+195
+00:07:23,320 --> 00:07:24,920
+The third digit from the right is the 
+
+196
+00:07:24,920 --> 00:07:26,300
+first, second and third. 
+
+197
+00:07:26,300 --> 00:07:28,440
+In this case it is the 4, which 
+
+198
+00:07:28,440 --> 00:07:31,040
+is our hundreds. The 4 is 
+
+199
+00:07:31,040 --> 00:07:33,020
+smaller than the 5, so it is 
+
+200
+00:07:33,020 --> 00:07:36,580
+rounded down and 3423 is rounded down 
+
+201
+00:07:36,580 --> 00:07:40,760
+to 3000. Next we have the 
+
+202
+00:07:40,760 --> 00:07:44,240
+6758. The 7 is our 
+
+203
+00:07:44,240 --> 00:07:48,380
+hundreds digit and the 7 is larger 
+
+204
+00:07:48,380 --> 00:07:50,920
+than the 5, so in 
+
+205
+00:07:50,920 --> 00:07:52,540
+this case it is rounded up to the next 
+largest 
+
+206
+00:07:52,540 --> 00:07:57,340
+thousand. That would be 7000 
+
+207
+00:07:57,340 --> 00:08:03,040
+. 7455 gives us 4 hundreds. The 4 
+
+208
+00:08:03,040 --> 00:08:04,740
+is smaller than the 5, so it is 
+
+209
+00:08:04,740 --> 00:08:06,840
+rounded down to 7000 
+
+210
+00:08:09,270 --> 00:08:10,850
+. Next we have 
+
+211
+00:08:10,850 --> 00:08:14,070
+the 9612 again . We have 
+
+212
+00:08:14,070 --> 00:08:15,890
+a 6 in the hundreds, which means it is 
+
+213
+00:08:15,890 --> 00:08:17,870
+rounded up to the next largest 
+
+214
+00:08:17,870 --> 00:08:19,310
+thousand. But we already have 
+
+215
+00:08:19,310 --> 00:08:22,290
+the 9, which means we now have to round up 
+to the 
+
+216
+00:08:22,290 --> 00:08:24,890
+next highest ten thousand. And that 
+
+217
+00:08:24,890 --> 00:08:28,770
+number is 10,000. So 9612 
+
+218
+00:08:28,770 --> 00:08:31,950
+rounded up to thousands gives us 10 
+
+219
+00:08:31,950 --> 00:08:32,810
+,000. 
+
+220
+00:08:35,370 --> 00:08:36,970
+Next we have the number 
+
+221
+00:08:36,970 --> 00:08:41,610
+1574. Here we have 500s and we 
+
+222
+00:08:41,610 --> 00:08:43,050
+have learned to 
+
+223
+00:08:43,050 --> 00:08:44,790
+round up at 5 and so we get 
+
+224
+00:08:44,790 --> 00:08:46,250
+2000 rounded up. 
+
+225
+00:08:48,870 --> 00:08:50,630
+That brings us to 
+
+226
+00:08:50,630 --> 00:08:52,850
+mixed rounding. 
+
+227
+00:08:52,850 --> 00:08:55,450
+Here we see the same number 3 times. It's 
+
+228
+00:08:55,450 --> 00:08:59,750
+467,372 and we want to find the... 
+
+229
+00:08:59,770 --> 00:09:00,910
+round it to tens, 
+
+230
+00:09:00,990 --> 00:09:04,070
+hundreds and thousands. And 
+
+231
+00:09:04,070 --> 00:09:05,090
+we have learned that when we round to 
+
+232
+00:09:05,090 --> 00:09:07,110
+tens, we 
+
+233
+00:09:07,110 --> 00:09:08,310
+just look at the units. As 
+
+234
+00:09:08,310 --> 00:09:09,670
+I said , this is the first digit from the 
+right, 
+
+235
+00:09:09,710 --> 00:09:13,030
+i.e. the two. The two is smaller 
+
+236
+00:09:13,030 --> 00:09:14,330
+than the five. So we have to 
+
+237
+00:09:14,330 --> 00:09:20,590
+round down to 467,370. And I think 
+
+238
+00:09:20,590 --> 00:09:23,110
+you can see that the more we 
+
+239
+00:09:23,110 --> 00:09:25,670
+round, the more compact the number becomes 
+
+240
+00:09:25,670 --> 00:09:26,610
+and the easier it is to 
+
+241
+00:09:26,610 --> 00:09:28,790
+remember . That's also a 
+
+242
+00:09:28,790 --> 00:09:31,130
+big factor. Right, next 
+
+243
+00:09:31,130 --> 00:09:32,110
+we want to round to hundreds 
+
+244
+00:09:32,110 --> 00:09:36,030
+, so let's round the 467,372 to 
+
+245
+00:09:36,030 --> 00:09:38,250
+hundreds. To do this, let's take a look 
+
+246
+00:09:38,250 --> 00:09:39,750
+at the 10s. 
+
+247
+00:09:39,750 --> 00:09:41,410
+As mentioned, the 10s are the second digit 
+from the right, 
+
+248
+00:09:41,470 --> 00:09:44,330
+in this case the 7. The 7 is 
+
+249
+00:09:44,330 --> 00:09:48,210
+greater than the 5, so let's 
+
+250
+00:09:48,210 --> 00:09:49,890
+first round up to greater than and 
+hundredths 
+
+251
+00:09:49,890 --> 00:09:53,430
+, i.e. the 3 becomes a 4 and 
+
+252
+00:09:53,430 --> 00:09:59,250
+we arrive at 467,400. Finally 
+
+253
+00:09:59,250 --> 00:10:00,650
+, we round again to the 
+
+254
+00:10:00,650 --> 00:10:03,790
+thousands, i.e. we look 
+
+255
+00:10:03,790 --> 00:10:05,290
+at the hundreds digit in this case, 
+
+256
+00:10:05,430 --> 00:10:06,670
+which is 
+
+257
+00:10:06,670 --> 00:10:08,110
+the third digit from the right, as we said 
+earlier , i.e. 
+
+258
+00:10:08,110 --> 00:10:12,390
+the 3, and we realize that we have 
+
+259
+00:10:12,390 --> 00:10:14,370
+a 3, the 3 is smaller than the 
+
+260
+00:10:14,370 --> 00:10:17,090
+five, so we round down 
+
+261
+00:10:17,090 --> 00:10:22,050
+to 467,000 and that is 
+
+262
+00:10:22,050 --> 00:10:23,270
+a number that is easy to remember 
+
+263
+00:10:23,270 --> 00:10:25,250
+and still accurate 
+
+264
+00:10:25,250 --> 00:10:29,350
+enough, which brings us to the end of the 
+
+265
+00:10:29,350 --> 00:10:31,630
+webinar thank you for your 
+
+266
+00:10:31,630 --> 00:10:32,290
+attention 

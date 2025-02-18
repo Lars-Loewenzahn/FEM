@@ -1,0 +1,1940 @@
+1
+00:00:04,270 --> 00:00:08,110
+So, moin nochmal. Falls ihr mich
+
+2
+00:00:08,110 --> 00:00:10,810
+hören könnt, auch hier nochmal das
+
+3
+00:00:10,810 --> 00:00:12,430
+gleiche Spiel wie vorhin. Ich glaube,
+
+4
+00:00:12,470 --> 00:00:15,450
+die meisten von eben waren von jetzt
+
+5
+00:00:15,450 --> 00:00:18,050
+sind auch vorne auch schon da in dem
+
+6
+00:00:18,050 --> 00:00:21,270
+Webinar. Schreibt einfach nur mal
+
+7
+00:00:21,270 --> 00:00:24,450
+kurz rein, ob ihr mich hören könnt.
+
+8
+00:00:24,670 --> 00:00:25,150
+Das
+
+9
+00:00:32,060 --> 00:00:33,660
+sieht doch schon mal gut aus.
+
+10
+00:00:39,430 --> 00:00:42,390
+So, also für diejenigen, die jetzt
+
+11
+00:00:42,390 --> 00:00:43,930
+neu dazugekommen sind, auch nochmal.
+
+12
+00:00:45,270 --> 00:00:47,050
+Hallo von mir, ich bin Yannick und
+
+13
+00:00:47,050 --> 00:00:49,950
+ich werde das Webinar jetzt zu den
+
+14
+00:00:49,950 --> 00:00:51,150
+Quadratwurzeln halten.
+
+15
+00:00:54,510 --> 00:00:56,230
+Tatsächlich, also für diejenigen, die
+
+16
+00:00:56,230 --> 00:00:57,970
+eben gerade schon bei den Wurzeln,
+
+17
+00:00:57,970 --> 00:00:59,850
+bei den Potenzgesetzen dabei waren,
+
+18
+00:01:00,930 --> 00:01:04,090
+kommt jetzt nochmal wahrscheinlich in
+
+19
+00:01:04,090 --> 00:01:05,690
+gewissem Maße nochmal der gleiche
+
+20
+00:01:05,690 --> 00:01:07,510
+Input. Klar haben wir auch nochmal
+
+21
+00:01:07,510 --> 00:01:09,750
+hier etwas andere Themen oder schauen
+
+22
+00:01:09,750 --> 00:01:11,710
+nochmal näher bei manchen Sachen
+
+23
+00:01:11,710 --> 00:01:16,350
+rein, aber auf jeden Fall habt ihr
+
+24
+00:01:16,350 --> 00:01:17,430
+eben gerade nochmal die Basics
+
+25
+00:01:17,430 --> 00:01:20,670
+mitbekommen und könnt euch jetzt auf
+
+26
+00:01:20,670 --> 00:01:24,030
+jeden Fall nochmal auf etwas
+
+27
+00:01:24,030 --> 00:01:25,710
+detailliertere Infos zu den
+
+28
+00:01:25,710 --> 00:01:28,730
+Quadratwurzeln vorbereiten.
+
+29
+00:01:30,430 --> 00:01:31,730
+Genau, was machen wir eigentlich
+
+30
+00:01:31,730 --> 00:01:33,110
+jetzt in dem Webinar? Also wir
+
+31
+00:01:33,110 --> 00:01:34,670
+schauen uns nochmal das Quadrieren
+
+32
+00:01:34,670 --> 00:01:37,710
+und Wurzelziehen an, also was meinen
+
+33
+00:01:37,710 --> 00:01:40,410
+eigentlich die beiden Begriffe. Wir
+
+34
+00:01:40,410 --> 00:01:42,650
+werden uns dann das näherungsweise
+
+35
+00:01:42,650 --> 00:01:45,170
+Wurzel ziehen anschauen, also wie ich
+
+36
+00:01:45,170 --> 00:01:48,390
+über das Probieren herausfinden kann,
+
+37
+00:01:48,510 --> 00:01:51,630
+wo der Wert einer Wurzel liegt, die
+
+38
+00:01:51,630 --> 00:01:54,230
+eben nicht so einfach zu ziehen ist.
+
+39
+00:01:55,390 --> 00:01:57,490
+Wir gucken uns dann nochmal
+
+40
+00:01:57,490 --> 00:02:01,150
+Wurzelgleichungen an und dann bekommt
+
+41
+00:02:01,150 --> 00:02:02,750
+ihr nochmal einen kleinen Input über
+
+42
+00:02:02,750 --> 00:02:05,630
+den reellen Zahlenbereich und was der
+
+43
+00:02:05,630 --> 00:02:08,210
+reelle Zahlenbereich darstellt und
+
+44
+00:02:08,210 --> 00:02:10,670
+was zum Beispiel irrationale Zahlen
+
+45
+00:02:10,670 --> 00:02:15,570
+dann sind. Und zum Abschluss gucken
+
+46
+00:02:15,570 --> 00:02:17,130
+wir uns nochmal Potenzdarstellungen
+
+47
+00:02:17,130 --> 00:02:19,630
+von Wurzeln an. Das Webinar jetzt
+
+48
+00:02:19,630 --> 00:02:21,330
+wird auf jeden Fall ein kleines
+
+49
+00:02:21,330 --> 00:02:22,750
+bisschen kürzer sein, also es wird
+
+50
+00:02:22,750 --> 00:02:24,610
+nicht so lange dauern wie das Webinar
+
+51
+00:02:24,610 --> 00:02:28,410
+eben gerade. Da wir jetzt auch ein
+
+52
+00:02:28,410 --> 00:02:31,210
+paar Teilnehmer mehr sind hier in der
+
+53
+00:02:31,210 --> 00:02:32,690
+Runde, würde ich einfach vorschlagen,
+
+54
+00:02:32,810 --> 00:02:34,530
+dass wenn ihr eine Frage habt zu
+
+55
+00:02:34,530 --> 00:02:37,490
+einem gewissen Thema, notiert sie
+
+56
+00:02:37,490 --> 00:02:39,070
+euch, merkt euch, was ihr fragen
+
+57
+00:02:39,070 --> 00:02:42,710
+wolltet und stellt die Frage am Ende
+
+58
+00:02:42,710 --> 00:02:44,770
+des Webinars. Dann können wir da
+
+59
+00:02:44,770 --> 00:02:47,150
+nochmal in Ruhe drüber quatschen und
+
+60
+00:02:47,150 --> 00:02:48,650
+die, die aus dem Webinar dann schon
+
+61
+00:02:48,650 --> 00:02:51,090
+rausgehen wollen, die können einfach
+
+62
+00:02:51,090 --> 00:02:55,310
+dann schon rausgehen. Genau. Also
+
+63
+00:02:55,310 --> 00:03:00,130
+starten wir mit dem Quadrieren und
+
+64
+00:03:00,130 --> 00:03:00,950
+Wurzelziehen.
+
+65
+00:03:03,570 --> 00:03:05,030
+Also, Quadrieren und Wurzelziehen
+
+66
+00:03:05,030 --> 00:03:08,050
+sind an sich gegensätzliche Aktionen
+
+67
+00:03:08,050 --> 00:03:11,070
+wie Plus- und Minusrechnen. Also wir
+
+68
+00:03:11,070 --> 00:03:14,410
+haben beispielsweise 5 hoch 2 dort
+
+69
+00:03:14,410 --> 00:03:16,990
+stehen. 5 ist hier nochmal die Basis.
+
+70
+00:03:17,390 --> 00:03:20,630
+2 hoch 2 ist der Exponent. Und 5 hoch
+
+71
+00:03:20,630 --> 00:03:23,910
+2 ist nichts anderes als die Rechnung
+
+72
+00:03:23,910 --> 00:03:27,570
+5 mal 5, was 25 ergibt. Möchte ich
+
+73
+00:03:27,570 --> 00:03:29,310
+jetzt die Wurzel aus 25 ziehen,
+
+74
+00:03:29,430 --> 00:03:33,630
+erhalte ich 5. Die Wurzel 25 ist eine
+
+75
+00:03:33,630 --> 00:03:36,690
+Quadratwurzel, also dort wird schon
+
+76
+00:03:36,690 --> 00:03:40,870
+die zweite Wurzel aus 25 gezogen. Der
+
+77
+00:03:40,870 --> 00:03:41,930
+Wurzelexponent ist bei einer
+
+78
+00:03:41,930 --> 00:03:43,330
+Quadratwurzel nur nicht eben
+
+79
+00:03:43,330 --> 00:03:45,730
+dargestellt, weil immer davon
+
+80
+00:03:45,730 --> 00:03:46,930
+ausgegangen wird, dass es dann eine
+
+81
+00:03:46,930 --> 00:03:49,210
+Quadratwurzel ist. Ist es eine andere
+
+82
+00:03:49,210 --> 00:03:50,990
+Wurzel, also wird zum Beispiel die
+
+83
+00:03:50,990 --> 00:03:52,770
+dritte oder vierte Wurzel dort aus
+
+84
+00:03:52,770 --> 00:03:55,490
+einer Zahl oder aus dem Radikanten
+
+85
+00:03:55,490 --> 00:03:58,270
+gezogen, dann muss auch eben
+
+86
+00:03:58,270 --> 00:04:00,310
+dementsprechend der Wurzelexponent
+
+87
+00:04:00,310 --> 00:04:02,690
+auf der Wurzel hinten am Füßchen
+
+88
+00:04:02,690 --> 00:04:07,310
+dargestellt werden. Also, wenn man
+
+89
+00:04:07,310 --> 00:04:08,810
+mit Wurzeln rechnet und das
+
+90
+00:04:08,810 --> 00:04:11,050
+Endergebnis sucht, dann muss man
+
+91
+00:04:11,050 --> 00:04:13,510
+dementsprechend quadrieren. Wenn man
+
+92
+00:04:13,510 --> 00:04:15,210
+aber den Ursprung einer Quadratzahl
+
+93
+00:04:15,210 --> 00:04:17,250
+sucht, dann muss man die Wurzel
+
+94
+00:04:17,250 --> 00:04:21,830
+ziehen. Wenn wir die Wurzel ziehen,
+
+95
+00:04:22,050 --> 00:04:23,250
+dann erhalten wir immer zwei
+
+96
+00:04:23,250 --> 00:04:25,730
+Ergebnisse, und zwar einmal eine
+
+97
+00:04:25,730 --> 00:04:28,010
+positive, und einmal eine negative
+
+98
+00:04:28,010 --> 00:04:30,390
+Zahl. Das werdet ihr wahrscheinlich
+
+99
+00:04:30,390 --> 00:04:33,910
+auch schon damit bekommen haben, wenn
+
+100
+00:04:33,910 --> 00:04:37,670
+ihr zum Beispiel mit der pq-Formel
+
+101
+00:04:37,670 --> 00:04:40,170
+rechnet und eine Gleichung auflöst
+
+102
+00:04:40,170 --> 00:04:43,230
+und nach x-Stellen oder nach 0
+
+103
+00:04:43,230 --> 00:04:45,510
+-Stellen sucht, dann werdet ihr auch
+
+104
+00:04:45,510 --> 00:04:47,450
+immer mit zwei Zahlen dann
+
+105
+00:04:47,450 --> 00:04:49,410
+konfrontiert am Ende und zwar mit dem
+
+106
+00:04:49,410 --> 00:04:52,930
+sogenannten x1 und x2 und das sind
+
+107
+00:04:52,930 --> 00:04:54,670
+dann eben wiederum die positive und
+
+108
+00:04:54,670 --> 00:04:56,170
+die negative. Zahl, die ihr dann
+
+109
+00:04:56,170 --> 00:04:57,710
+erhaltet für euer x².
+
+110
+00:05:01,490 --> 00:05:06,310
+So, genug mit der Wiederholung. Gehen
+
+111
+00:05:06,310 --> 00:05:07,930
+wir jetzt einmal zum näherungsweisen
+
+112
+00:05:07,930 --> 00:05:11,130
+Wurzelziehen. Also, was beim
+
+113
+00:05:13,390 --> 00:05:14,590
+annäherungsweisen Wurzelziehen
+
+114
+00:05:14,590 --> 00:05:16,570
+gemacht wird, ist, dass wir nichts
+
+115
+00:05:16,570 --> 00:05:18,950
+anderes tun, als dass wir versuchen,
+
+116
+00:05:21,130 --> 00:05:23,750
+für eine schwierige Zahl, wo wir
+
+117
+00:05:23,750 --> 00:05:25,950
+einfach nicht ganz genau wissen, wo
+
+118
+00:05:25,950 --> 00:05:28,710
+jetzt genau der der Wert der Zahl
+
+119
+00:05:28,710 --> 00:05:32,330
+liegt, überprobieren, diesen Wert
+
+120
+00:05:32,330 --> 00:05:35,170
+herauszufinden. Also wir gucken uns
+
+121
+00:05:35,170 --> 00:05:38,450
+dazu einmal die Zahl 11 an. Also ich
+
+122
+00:05:38,450 --> 00:05:39,690
+glaube nicht, dass irgendeiner von
+
+123
+00:05:39,690 --> 00:05:41,710
+euch hier aus dem Steg die Wurzel aus
+
+124
+00:05:41,710 --> 00:05:43,290
+11 eben ziehen kann, ohne
+
+125
+00:05:43,290 --> 00:05:46,290
+Taschenrechner. Und wenn ihr jetzt
+
+126
+00:05:46,290 --> 00:05:47,750
+keinen Taschenrechner zur Verfügung
+
+127
+00:05:47,750 --> 00:05:50,990
+habt, beziehungsweise in der Klausur,
+
+128
+00:05:51,050 --> 00:05:53,890
+das wie auch immer probieren sollt
+
+129
+00:05:53,890 --> 00:05:55,370
+oder im Unterricht einfach nur
+
+130
+00:05:55,370 --> 00:05:58,030
+ausprobieren sollt, dann ist das
+
+131
+00:05:58,030 --> 00:06:01,310
+eine, sagen wir mal, sicherere
+
+132
+00:06:01,310 --> 00:06:03,270
+Methode, als einfach nur grob zu
+
+133
+00:06:03,270 --> 00:06:05,490
+schätzen. Beziehungsweise, was wir
+
+134
+00:06:05,490 --> 00:06:06,550
+hier machen, ist eigentlich auch eine
+
+135
+00:06:06,550 --> 00:06:08,970
+grobe Schätzung, aber wir versuchen
+
+136
+00:06:08,970 --> 00:06:10,390
+es einfach ein bisschen detaillierter
+
+137
+00:06:10,390 --> 00:06:14,470
+und sinnvoller zu machen. Also, wir
+
+138
+00:06:14,470 --> 00:06:16,510
+wissen, dass die Zahl 11 zwischen 9
+
+139
+00:06:16,510 --> 00:06:19,470
+und 16 liegt. Warum jetzt genau 9 und
+
+140
+00:06:19,470 --> 00:06:23,470
+16? Also, wir wissen, dass 3
+
+141
+00:06:23,470 --> 00:06:28,510
+quadriert 9... und das 4 quadriert 16
+
+142
+00:06:28,510 --> 00:06:30,630
+ergibt. Also wir haben hier schon mal
+
+143
+00:06:30,630 --> 00:06:34,430
+die Quadratzahlen von 9 und 16 zur
+
+144
+00:06:34,430 --> 00:06:37,930
+Verfügung. Das heißt, der Wert oder
+
+145
+00:06:37,930 --> 00:06:41,330
+die Wurzel aus 11 sollte sich
+
+146
+00:06:41,330 --> 00:06:43,650
+irgendwo zwischen 3 und 4 befinden.
+
+147
+00:06:45,390 --> 00:06:47,070
+Was wir jetzt eben machen können,
+
+148
+00:06:47,190 --> 00:06:49,470
+ist, dass wir es ausprobieren und
+
+149
+00:06:49,470 --> 00:06:51,910
+herausfinden, okay, wo liegt jetzt
+
+150
+00:06:51,910 --> 00:06:54,290
+ganz genau nämlich der Wert zwischen
+
+151
+00:06:54,290 --> 00:06:56,510
+3 und 4? Also wir wollen jetzt
+
+152
+00:06:56,510 --> 00:06:58,230
+letzten Endes die Nachkommastellen
+
+153
+00:06:58,230 --> 00:06:59,110
+herausfinden.
+
+154
+00:07:01,750 --> 00:07:06,050
+Und wir sehen also, okay, wenn ich
+
+155
+00:07:06,050 --> 00:07:08,450
+jetzt eine 3,1 oder eine 3,2 nehme,
+
+156
+00:07:08,570 --> 00:07:09,810
+dann komme ich immer noch nicht in
+
+157
+00:07:09,810 --> 00:07:12,310
+die Richtung von der 11. Aber
+
+158
+00:07:12,310 --> 00:07:15,710
+zwischen 3,3 und 3,4 wirkt es
+
+159
+00:07:15,710 --> 00:07:16,950
+anscheinend, als ob sich dort
+
+160
+00:07:16,950 --> 00:07:20,050
+irgendwas einpendelt. Das heißt, was
+
+161
+00:07:20,050 --> 00:07:21,670
+ich jetzt mache, ich gucke... jetzt
+
+162
+00:07:21,670 --> 00:07:24,370
+nicht mehr in den 10er Bereich der
+
+163
+00:07:24,370 --> 00:07:26,090
+Nachkommastellen, sondern ich gehe
+
+164
+00:07:26,090 --> 00:07:29,950
+jetzt in den 10er und dann könnte ich
+
+165
+00:07:29,950 --> 00:07:31,790
+immer weiter in den 100er und 1000er
+
+166
+00:07:31,790 --> 00:07:33,290
+Bereich der Nachkommastellen gehen,
+
+167
+00:07:33,490 --> 00:07:36,310
+um das genaue Ergebnis jetzt
+
+168
+00:07:36,310 --> 00:07:39,350
+herauszufinden. Also wenn ich jetzt 3
+
+169
+00:07:39,350 --> 00:07:43,230
+,3 rechne, also 3,3 quadriere und 3,4
+
+170
+00:07:43,230 --> 00:07:46,370
+quadriere, dann bekomme ich 10,89 und
+
+171
+00:07:46,370 --> 00:07:49,930
+11,56 raus. Das ist für die 3,3 zum
+
+172
+00:07:49,930 --> 00:07:52,070
+Beispiel schon mal sehr gut. Für die
+
+173
+00:07:52,070 --> 00:07:56,590
+3,4 sind wir noch ein bisschen weiter
+
+174
+00:07:56,590 --> 00:07:58,310
+davon entfernt, aber wir haben jetzt
+
+175
+00:07:58,310 --> 00:07:59,890
+schon mal wiederum einen größeren
+
+176
+00:07:59,890 --> 00:08:02,250
+Rahmen geschaffen, wo wir uns auf
+
+177
+00:08:02,250 --> 00:08:04,830
+jeden Fall bewegen. Wir sehen aber,
+
+178
+00:08:04,870 --> 00:08:07,550
+dass der Unterschied zwischen 3,3 und
+
+179
+00:08:07,550 --> 00:08:11,030
+3,4 darin liegt, dass wir um 0,11 bei
+
+180
+00:08:11,030 --> 00:08:14,210
+der 3,3 von der 11 entfernt sind. Bei
+
+181
+00:08:14,210 --> 00:08:17,850
+der 3,4 sind wir wiederum um 0,56
+
+182
+00:08:17,850 --> 00:08:22,670
+drüber. als bei der 3,3. Deshalb
+
+183
+00:08:22,670 --> 00:08:24,370
+wissen wir jetzt, okay, wir versuchen
+
+184
+00:08:24,370 --> 00:08:28,230
+uns jetzt zwischen der 3,31 und der 3
+
+185
+00:08:28,230 --> 00:08:32,590
+,32 einzupendeln, weil wir jetzt eben
+
+186
+00:08:32,590 --> 00:08:35,130
+genau sehen, okay, bei 3,31 komme ich
+
+187
+00:08:35,130 --> 00:08:39,110
+auf 10,96 ungefähr und bei der 3,32
+
+188
+00:08:39,110 --> 00:08:42,550
+komme ich zu 11,02. Das heißt, da
+
+189
+00:08:42,550 --> 00:08:44,370
+sind wir nur noch um einen ganz
+
+190
+00:08:44,370 --> 00:08:46,510
+minimalen Wert drüber und wir
+
+191
+00:08:46,510 --> 00:08:48,490
+versuchen also jetzt noch nochmal den
+
+192
+00:08:48,490 --> 00:08:50,230
+Rahmen zu verkleinern, indem wir
+
+193
+00:08:50,230 --> 00:08:52,230
+jetzt nicht mehr zwischen 3,31 und 3
+
+194
+00:08:52,230 --> 00:08:57,010
+,32 suchen, sondern zwischen 3,315
+
+195
+00:08:57,010 --> 00:09:04,410
+beispielsweise und 3,319 oder 7 in
+
+196
+00:09:04,410 --> 00:09:07,550
+diesem Fall. Und da sehen wir dann
+
+197
+00:09:07,550 --> 00:09:09,910
+eben, okay, wir tendieren immer mehr
+
+198
+00:09:09,910 --> 00:09:13,730
+dazu, dass wir in Richtung 3,3 gehen.
+
+199
+00:09:13,870 --> 00:09:15,090
+Also wir haben auf jeden Fall schon
+
+200
+00:09:15,090 --> 00:09:17,150
+mal die erste Nachkommastelle. sicher
+
+201
+00:09:17,150 --> 00:09:19,370
+ist. Was wir jetzt eben nur noch
+
+202
+00:09:19,370 --> 00:09:22,010
+machen müssen, ist die 100er Stelle
+
+203
+00:09:22,010 --> 00:09:23,670
+oder die 1000er Stelle genau zu
+
+204
+00:09:23,670 --> 00:09:27,910
+definieren und das können wir jetzt
+
+205
+00:09:27,910 --> 00:09:29,630
+eben durch dieses Nährungsweise
+
+206
+00:09:31,390 --> 00:09:34,910
+annähern versuchen und da können wir
+
+207
+00:09:34,910 --> 00:09:37,450
+im Prinzip schon mal ganz grob sagen,
+
+208
+00:09:37,710 --> 00:09:41,670
+okay, wenn wir bei 3,32 aufgerundet
+
+209
+00:09:41,670 --> 00:09:43,530
+diesen Wert nehmen, können wir sagen,
+
+210
+00:09:43,750 --> 00:09:45,970
+okay, die Wurzel aus 11 liegt bei 3
+
+211
+00:09:45,970 --> 00:09:46,710
+,32.
+
+212
+00:09:49,200 --> 00:09:51,620
+Das ist eine Möglichkeit, um
+
+213
+00:09:51,620 --> 00:09:54,460
+näherungsweise die Wurzel zu ziehen.
+
+214
+00:09:55,420 --> 00:09:58,600
+Wie gesagt, es ist eine kleine
+
+215
+00:09:58,600 --> 00:10:00,220
+Friemelarbeit. Man muss auch ziemlich
+
+216
+00:10:00,220 --> 00:10:01,580
+viel drüber nachdenken und
+
+217
+00:10:01,580 --> 00:10:04,960
+ausprobieren in dem Sinne. Aber es
+
+218
+00:10:04,960 --> 00:10:06,200
+gibt auf jeden Fall schon mal einen
+
+219
+00:10:06,200 --> 00:10:08,380
+groben Wert, wo wir uns jetzt
+
+220
+00:10:08,380 --> 00:10:12,400
+ungefähr befinden, um eine Wurzel
+
+221
+00:10:12,400 --> 00:10:13,120
+eben zu ziehen.
+
+222
+00:10:16,140 --> 00:10:17,500
+Kommen wir zu den Wurzelgleichungen.
+
+223
+00:10:18,500 --> 00:10:20,460
+Also bei Wurzelgleichung steht eine
+
+224
+00:10:20,460 --> 00:10:23,620
+Variable unter der Wurzel, das heißt
+
+225
+00:10:23,620 --> 00:10:28,160
+wir haben eine Unbekannte und das
+
+226
+00:10:28,160 --> 00:10:29,860
+Ganze lösen wir, indem wir die Wurzel
+
+227
+00:10:29,860 --> 00:10:32,300
+isolieren und die gesamte Gleichung
+
+228
+00:10:32,300 --> 00:10:35,340
+einmal quadrieren. Also das wäre
+
+229
+00:10:35,340 --> 00:10:37,820
+jetzt hier in diesem Fall, wenn wir
+
+230
+00:10:37,820 --> 00:10:42,100
+die Wurzel aus x-2 ist gleich x-14
+
+231
+00:10:42,100 --> 00:10:44,300
+haben. Wenn wir jetzt die Gleichung
+
+232
+00:10:44,300 --> 00:10:47,180
+quadrieren, dann haben wir die Wurzel
+
+233
+00:10:47,180 --> 00:10:48,340
+auf der linken Seite des
+
+234
+00:10:48,340 --> 00:10:50,040
+Gleichheitszeichens beseitigt.
+
+235
+00:10:50,580 --> 00:10:55,060
+Deshalb steht dort nur noch x-2. Und
+
+236
+00:10:55,060 --> 00:10:57,600
+wenn wir jetzt die Gleichung
+
+237
+00:10:57,600 --> 00:10:59,660
+quadriert haben, dann steht dort in
+
+238
+00:10:59,660 --> 00:11:04,860
+Klammern x-14 hoch 2. Also haben wir
+
+239
+00:11:04,860 --> 00:11:05,740
+auf der rechten Seite des
+
+240
+00:11:05,740 --> 00:11:08,100
+Gleichheitszeichens eine quadratische
+
+241
+00:11:08,100 --> 00:11:11,640
+Funktion gleichstehen, die der
+
+242
+00:11:11,640 --> 00:11:12,960
+zweiten binomischen Funktion. Formel
+
+243
+00:11:12,960 --> 00:11:16,320
+dann am ähnlichsten ist oder die
+
+244
+00:11:16,320 --> 00:11:19,940
+zweite binomische Formel ist. Was wir
+
+245
+00:11:19,940 --> 00:11:23,960
+jetzt noch machen müssen, wir müssen
+
+246
+00:11:23,960 --> 00:11:25,700
+jetzt noch eine Definitionsmenge
+
+247
+00:11:25,700 --> 00:11:29,160
+bestimmen, um zu schauen, welche
+
+248
+00:11:29,160 --> 00:11:30,620
+Zahlen überhaupt eingesetzt werden
+
+249
+00:11:30,620 --> 00:11:33,260
+dürfen und was ganz wichtig ist,
+
+250
+00:11:33,320 --> 00:11:35,140
+unter der Wurzel darf kein negativer
+
+251
+00:11:35,140 --> 00:11:36,440
+Ausdruck stehen, weil wir nicht aus
+
+252
+00:11:36,440 --> 00:11:37,960
+einer negativen Zahl die die Wurzel
+
+253
+00:11:37,960 --> 00:11:40,600
+ziehen können. Deshalb sagen wir in
+
+254
+00:11:40,600 --> 00:11:43,200
+unserer Definitionsmenge d, dass die
+
+255
+00:11:43,200 --> 00:11:45,760
+Zahl, die wir für das x einsetzen,
+
+256
+00:11:45,860 --> 00:11:48,680
+auf jeden Fall größer gleich 2 sein
+
+257
+00:11:48,680 --> 00:11:54,430
+muss. Also, wenn wir jetzt die
+
+258
+00:11:54,430 --> 00:11:55,750
+Gleichung einmal dort stehen haben,
+
+259
+00:11:55,930 --> 00:11:57,990
+also x minus 2 ist gleich in Klammern
+
+260
+00:11:57,990 --> 00:12:01,950
+x minus 14 hoch 2, lösen wir die
+
+261
+00:12:01,950 --> 00:12:03,630
+Formel oder die Gleichung auf der
+
+262
+00:12:03,630 --> 00:12:05,410
+rechten Seite des Gleichheitszeichen
+
+263
+00:12:05,410 --> 00:12:10,390
+auf und haben dann dort x²-28x plus
+
+264
+00:12:10,390 --> 00:12:14,110
+196 stehen. Jetzt müssen wir, um die
+
+265
+00:12:14,110 --> 00:12:15,970
+Nullstellen davon zu berechnen, also
+
+266
+00:12:15,970 --> 00:12:20,750
+um unser x herauszufinden, müssen wir
+
+267
+00:12:20,750 --> 00:12:23,130
+jetzt nur noch die linke Seite des
+
+268
+00:12:23,130 --> 00:12:24,910
+Gleichheitszeichens einmal auf 0
+
+269
+00:12:24,910 --> 00:12:27,390
+setzen. Das Ganze machen wir, indem
+
+270
+00:12:27,390 --> 00:12:31,550
+wir plus 2 rechnen und minus x und
+
+271
+00:12:31,550 --> 00:12:33,330
+dadurch erhalten wir dann die
+
+272
+00:12:33,330 --> 00:12:35,870
+endgültige Gleichung 0 ist gleich x²
+
+273
+00:12:35,870 --> 00:12:38,590
+minus 29x plus 198.
+
+274
+00:12:40,950 --> 00:12:42,630
+Was wir jetzt nur noch letzten Endes
+
+275
+00:12:42,630 --> 00:12:44,590
+machen müssen, diesen Schritt
+
+276
+00:12:44,590 --> 00:12:46,990
+überspringen wir jetzt einfach mal
+
+277
+00:12:46,990 --> 00:12:49,210
+und wir gehen schon mal ganz weit
+
+278
+00:12:49,210 --> 00:12:52,430
+nach vorne. Wir nehmen jetzt hier die
+
+279
+00:12:52,430 --> 00:12:55,750
+pq-Formel zur Gleichung, also minus p
+
+280
+00:12:55,750 --> 00:12:58,150
+halbe plus minus die Wurzel aus p
+
+281
+00:12:58,150 --> 00:13:00,130
+halbe Klammern zum Quadrat minus. q
+
+282
+00:13:00,130 --> 00:13:04,310
+und versuchen dann jetzt einfach nur
+
+283
+00:13:04,310 --> 00:13:06,050
+noch die x-Stern rauszubekommen und
+
+284
+00:13:06,050 --> 00:13:08,990
+wir erhalten dann x ist gleich, äh x1
+
+285
+00:13:08,990 --> 00:13:09,890
+und x2.
+
+286
+00:13:12,540 --> 00:13:16,860
+So, jetzt müssen wir das Ganze nur
+
+287
+00:13:16,860 --> 00:13:20,260
+nochmal probieren und versuchen dann
+
+288
+00:13:20,260 --> 00:13:22,320
+eben unsere x-Werte, die wir
+
+289
+00:13:22,320 --> 00:13:23,960
+herausbekommen haben, in die
+
+290
+00:13:23,960 --> 00:13:28,660
+Gleichung einzusetzen, also in, ähm,
+
+291
+00:13:28,660 --> 00:13:29,840
+äh
+
+292
+00:13:35,280 --> 00:13:37,220
+genau, in unsere Anfangsgleichung.
+
+293
+00:13:39,410 --> 00:13:43,750
+Und zwar war die ja die Wurzel aus x
+
+294
+00:13:43,750 --> 00:13:50,750
+minus 2 ist gleich x minus 14. Und da
+
+295
+00:13:50,750 --> 00:13:55,110
+sehen wir jetzt, wenn wir die
+
+296
+00:13:55,110 --> 00:13:57,450
+Gleichung einmal auflösen, dass wir
+
+297
+00:13:57,450 --> 00:14:00,110
+dann dort zwei unterschiedliche
+
+298
+00:14:00,110 --> 00:14:02,470
+Ergebnisse herausbekommen. Also wir
+
+299
+00:14:02,470 --> 00:14:04,990
+haben auf der einen Seite, wenn wir
+
+300
+00:14:04,990 --> 00:14:07,290
+uns die Probe für die 11 anschauen,
+
+301
+00:14:07,310 --> 00:14:11,430
+sehen wir, wir, dass wir auf der
+
+302
+00:14:11,430 --> 00:14:13,630
+einen Seite eine 3 und auf der
+
+303
+00:14:13,630 --> 00:14:15,250
+anderen Seite eine minus 3 erhalten
+
+304
+00:14:15,250 --> 00:14:17,250
+für die Rechnung. Also wenn ich die
+
+305
+00:14:17,250 --> 00:14:19,190
+Wurzel aus 9 ziehe, bekomme ich da
+
+306
+00:14:19,190 --> 00:14:21,750
+eine 3 heraus. Wenn ich jetzt aber 11
+
+307
+00:14:21,750 --> 00:14:24,230
+minus 14 rechne, bei meiner anderen
+
+308
+00:14:24,230 --> 00:14:25,850
+Gleichung, die ich habe, bekomme ich
+
+309
+00:14:25,850 --> 00:14:27,310
+eine minus 3 und das ist ein
+
+310
+00:14:27,310 --> 00:14:31,370
+Ungleich. Das heißt, dass wir eben
+
+311
+00:14:31,370 --> 00:14:34,310
+für das x1, also also an der Stelle
+
+312
+00:14:34,310 --> 00:14:38,070
+11, keine wahre Aussage treffen
+
+313
+00:14:38,070 --> 00:14:40,350
+können. Also ist das eine falsche
+
+314
+00:14:40,350 --> 00:14:43,290
+Aussage. Wenn ich mir jetzt aber die
+
+315
+00:14:43,290 --> 00:14:46,490
+Probe mit meinem x2, also 18,
+
+316
+00:14:46,550 --> 00:14:49,390
+anschaue, dann sehe ich, unter der
+
+317
+00:14:49,390 --> 00:14:51,910
+Wurzel bekomme ich dann eine 16
+
+318
+00:14:51,910 --> 00:14:54,670
+heraus, die Wurzel aus 16 ist 4. Wenn
+
+319
+00:14:54,670 --> 00:14:57,110
+ich 18 minus 14 rechne, erhalte ich
+
+320
+00:14:57,110 --> 00:15:00,790
+4. Das heißt, nur für x ist gleich 18
+
+321
+00:15:00,790 --> 00:15:02,450
+haben wir eine Lösung dergleichen.
+
+322
+00:15:03,390 --> 00:15:06,410
+Deshalb ganz wichtig, auch wenn ihr
+
+323
+00:15:06,410 --> 00:15:08,310
+dann euer x1 und euer x2
+
+324
+00:15:08,310 --> 00:15:10,510
+herausbekommen habt, denkt immer
+
+325
+00:15:10,510 --> 00:15:13,990
+daran, auch eine Proberechnung zu
+
+326
+00:15:13,990 --> 00:15:16,550
+machen, weil ihr so nämlich auch
+
+327
+00:15:16,550 --> 00:15:18,230
+letzten Endes dann nur eine wahre
+
+328
+00:15:18,230 --> 00:15:20,450
+oder eine falsche Aussage über eure
+
+329
+00:15:20,450 --> 00:15:22,070
+Gleichungen dann treffen könnt.
+
+330
+00:15:26,340 --> 00:15:28,300
+Kommen wir zum realen Zahlenbereich.
+
+331
+00:15:28,480 --> 00:15:32,120
+Das Ganze ist jetzt wirklich nur eine
+
+332
+00:15:32,120 --> 00:15:35,780
+kleine Info für euch. habt ihr
+
+333
+00:15:35,780 --> 00:15:36,940
+wahrscheinlich alle auch schon mal so
+
+334
+00:15:36,940 --> 00:15:39,480
+in der 7. und 8. Klasse gehört, oder
+
+335
+00:15:39,480 --> 00:15:42,460
+in der 6. und 7. Klasse, was jetzt
+
+336
+00:15:42,460 --> 00:15:44,940
+überhaupt reelle, reale Zahlen sind
+
+337
+00:15:44,940 --> 00:15:47,300
+und wo wir genau diese Zahlen finden.
+
+338
+00:15:48,440 --> 00:15:50,360
+Also zu den reellen Zahlen gehören
+
+339
+00:15:50,360 --> 00:15:51,620
+alle Zahlen, die auf der
+
+340
+00:15:51,620 --> 00:15:53,660
+Zahlengeraden liegen, also alle
+
+341
+00:15:53,660 --> 00:15:55,460
+Zahlen, die sich auch als Bruch
+
+342
+00:15:55,460 --> 00:15:57,340
+darstellen lassen und alle Zahlen,
+
+343
+00:15:57,380 --> 00:15:59,000
+die sich nicht als Bruch darstellen
+
+344
+00:15:59,000 --> 00:16:01,300
+lassen. Also zusätzlich zu den
+
+345
+00:16:01,300 --> 00:16:03,140
+rationalen Zahlen beinhalten die
+
+346
+00:16:03,140 --> 00:16:06,060
+reellen Zahlen auch die irrationalen
+
+347
+00:16:06,060 --> 00:16:11,000
+Zahlen. Und zwar ist eine rationale
+
+348
+00:16:11,000 --> 00:16:15,740
+Zahl eben eine 4, 3,5, 1 Drittel oder
+
+349
+00:16:15,740 --> 00:16:18,280
+auch 7 Fünftel, was ja zum Beispiel
+
+350
+00:16:18,280 --> 00:16:23,700
+nichts anderes ist als 1,4. Auf der
+
+351
+00:16:23,700 --> 00:16:24,860
+anderen Seite haben wir aber auch
+
+352
+00:16:24,860 --> 00:16:27,180
+genauso irrationale Zahlen. Eine
+
+353
+00:16:27,180 --> 00:16:29,400
+irrationale Zahl ist zum Beispiel Pi,
+
+354
+00:16:29,540 --> 00:16:33,100
+also 3,1415 und das geht ja bis...
+
+355
+00:16:33,120 --> 00:16:35,580
+ins Unendliche weiter. Oder die
+
+356
+00:16:35,580 --> 00:16:37,940
+Euler'sche Zahl e oder auch die
+
+357
+00:16:37,940 --> 00:16:40,940
+Wurzel aus 2, die auch unendlich ist.
+
+358
+00:16:42,180 --> 00:16:43,700
+Jetzt haben wir dafür natürlich auch
+
+359
+00:16:43,700 --> 00:16:45,540
+noch ein ganz schickes Symbol oder
+
+360
+00:16:45,540 --> 00:16:47,380
+ein Zeichen, wie wir es immer in der
+
+361
+00:16:47,380 --> 00:16:49,200
+Mathematik finden und das ist ein r
+
+362
+00:16:49,200 --> 00:16:52,600
+und dieses r hat zwei senkrechte
+
+363
+00:16:52,600 --> 00:16:56,200
+Striche hinten. Das ist im Prinzip
+
+364
+00:16:56,200 --> 00:16:59,160
+der Definitionsrahmen oder r gibt
+
+365
+00:16:59,160 --> 00:17:00,480
+dann auch einen gewissen
+
+366
+00:17:00,480 --> 00:17:02,460
+Definitionsrahmen an. bei einer
+
+367
+00:17:02,460 --> 00:17:02,900
+Rechnung.
+
+368
+00:17:05,870 --> 00:17:10,130
+Genau. Kommen wir zum letzten Punkt
+
+369
+00:17:10,130 --> 00:17:12,410
+des Verbinars, und zwar zur
+
+370
+00:17:12,410 --> 00:17:15,550
+Potenzdarstellung von Wurzeln. Und
+
+371
+00:17:15,550 --> 00:17:17,350
+diejenigen, die eben gerade dabei
+
+372
+00:17:17,350 --> 00:17:21,170
+waren, haben das auf jeden Fall eben
+
+373
+00:17:21,170 --> 00:17:23,510
+gerade gesehen. Wenn nicht, habt ihr
+
+374
+00:17:23,510 --> 00:17:25,870
+auf jeden Fall gepennt. Oder nicht
+
+375
+00:17:25,870 --> 00:17:30,150
+aufgepasst. Und zwar ist es so, dass
+
+376
+00:17:30,150 --> 00:17:31,830
+wir jetzt hier, wenn wir eine Wurzel
+
+377
+00:17:31,830 --> 00:17:34,010
+haben, das Ganze auch auch mit einem
+
+378
+00:17:34,010 --> 00:17:36,110
+sogenannten rationalen Exponenten
+
+379
+00:17:36,110 --> 00:17:38,890
+darstellen können. Also wir haben
+
+380
+00:17:38,890 --> 00:17:41,330
+eine Wurzel, zum Beispiel die Wurzel
+
+381
+00:17:41,330 --> 00:17:45,050
+aus x³. Und wir haben hier in diesem
+
+382
+00:17:45,050 --> 00:17:48,750
+Fall eine Quadratwurzel. Was wir
+
+383
+00:17:48,750 --> 00:17:50,650
+jetzt nur machen, ist einfach die
+
+384
+00:17:50,650 --> 00:17:53,350
+Wurzel, so wie sie dort steht, als
+
+385
+00:17:53,350 --> 00:17:59,070
+eine Zahl mit einem Exponenten zu
+
+386
+00:17:59,070 --> 00:18:01,570
+schreiben. und wir nehmen dazu
+
+387
+00:18:01,570 --> 00:18:04,210
+einfach nur für den Zähler die Zahl
+
+388
+00:18:04,210 --> 00:18:06,690
+oder den Exponenten, der bei den
+
+389
+00:18:06,690 --> 00:18:11,690
+Kanten steht und der Wurzelexponent,
+
+390
+00:18:11,990 --> 00:18:14,210
+also die 2 hinten auf dem Füßchen von
+
+391
+00:18:14,210 --> 00:18:16,390
+der Wurzel, die wird zum Nenner des
+
+392
+00:18:16,390 --> 00:18:20,090
+Exponenten. Also die Quadratwurzel
+
+393
+00:18:20,090 --> 00:18:23,210
+aus x³ ist nichts anderes im
+
+394
+00:18:23,210 --> 00:18:26,070
+Endeffekt als x³½.
+
+395
+00:18:27,430 --> 00:18:29,050
+Natürlich kann man jetzt auch noch
+
+396
+00:18:29,050 --> 00:18:32,970
+mal etliche andere Potenzgesetze auch
+
+397
+00:18:32,970 --> 00:18:35,390
+hier noch mal dazu anwenden und dazu
+
+398
+00:18:35,390 --> 00:18:37,730
+können wir uns einmal das Beispiel
+
+399
+00:18:37,730 --> 00:18:41,170
+die dritte Wurzel aus in Klammern a
+
+400
+00:18:41,170 --> 00:18:44,650
+hoch x, äh, a mal x hoch 5 angucken.
+
+401
+00:18:45,770 --> 00:18:48,010
+Dazu könnten wir jetzt dann das Ganze
+
+402
+00:18:48,010 --> 00:18:49,790
+so umformulieren, dass wir sagen,
+
+403
+00:18:49,930 --> 00:18:51,410
+okay, wir haben jetzt in Klammern den
+
+404
+00:18:51,410 --> 00:18:55,110
+Ausdruck a mal x stehen und mein
+
+405
+00:18:55,110 --> 00:18:57,210
+rationaler Exponent würde bei 5
+
+406
+00:18:57,210 --> 00:19:00,230
+Dritteln liegen. Und jetzt haben wir
+
+407
+00:19:00,230 --> 00:19:03,210
+hier im Prinzip zwei Variablen, die
+
+408
+00:19:03,210 --> 00:19:05,550
+eine unterschiedliche Basis besitzen,
+
+409
+00:19:05,670 --> 00:19:08,430
+die aber wiederum den gleichen
+
+410
+00:19:08,430 --> 00:19:10,830
+Exponenten haben. Und deshalb kann
+
+411
+00:19:10,830 --> 00:19:13,870
+man a mal x in Klammern hoch 5
+
+412
+00:19:13,870 --> 00:19:18,050
+Drittel als a hoch 5 Drittel mal x
+
+413
+00:19:18,050 --> 00:19:21,210
+hoch 5 Drittel schreiben. Das Ganze
+
+414
+00:19:21,210 --> 00:19:22,950
+geht aber auch nochmal genau
+
+415
+00:19:22,950 --> 00:19:25,290
+andersrum, also so dass die Basen
+
+416
+00:19:25,290 --> 00:19:28,810
+dieselbe sind, aber der Exponent
+
+417
+00:19:28,810 --> 00:19:31,550
+unterschiedlich ist. Und dazu gucken
+
+418
+00:19:31,550 --> 00:19:33,370
+wir uns einmal das Beispiel ganz
+
+419
+00:19:33,370 --> 00:19:36,190
+unten auf der Folie an, und zwar die
+
+420
+00:19:36,190 --> 00:19:39,210
+dritte Wurzel aus x² mal die vierte
+
+421
+00:19:39,210 --> 00:19:42,390
+Wurzel aus x³. Wir stellen jetzt auch
+
+422
+00:19:42,390 --> 00:19:45,010
+auch erst einmal die beiden Wurzeln
+
+423
+00:19:45,010 --> 00:19:49,290
+als radikale Exponenten dar. Also
+
+424
+00:19:49,290 --> 00:19:52,590
+bekommen wir x hoch 2 Drittel mal x
+
+425
+00:19:52,590 --> 00:19:55,610
+hoch 3 Viertel heraus. Was ich jetzt
+
+426
+00:19:55,610 --> 00:19:57,630
+eben gerade gesagt habe, die Basen
+
+427
+00:19:57,630 --> 00:20:00,650
+sind gleich, also x und x haben wir
+
+428
+00:20:00,650 --> 00:20:04,250
+bei jeder Zahl einmal vorhanden. Was
+
+429
+00:20:04,250 --> 00:20:06,390
+wir jetzt nur finden oder vorfinden,
+
+430
+00:20:06,390 --> 00:20:08,590
+sind unterschiedliche Exponenten.
+
+431
+00:20:09,140 --> 00:20:10,250
+Jetzt dürfen wir laut dem
+
+432
+00:20:10,250 --> 00:20:12,370
+Potenzgesetz die Exponenten aber
+
+433
+00:20:12,370 --> 00:20:14,010
+zusammenführen, weil die Basen die
+
+434
+00:20:14,010 --> 00:20:16,370
+gleichen sind und erhalten dann in
+
+435
+00:20:16,370 --> 00:20:18,690
+einem Zwischenstritt die Rechnung x
+
+436
+00:20:18,690 --> 00:20:22,810
+hoch 2 Drittel plus 3 Viertel. Jetzt
+
+437
+00:20:22,810 --> 00:20:24,130
+haben wir aber unterschiedliche
+
+438
+00:20:24,130 --> 00:20:26,590
+Nenner bei den Exponenten, das ist
+
+439
+00:20:26,590 --> 00:20:28,730
+aber insofern nicht schlimm. Wir
+
+440
+00:20:28,730 --> 00:20:29,970
+können jetzt nämlich hier die ganz
+
+441
+00:20:29,970 --> 00:20:31,850
+normalen Bruchrechnungen anwenden.
+
+442
+00:20:39,890 --> 00:20:41,570
+Und zwar addieren wir jetzt hier
+
+443
+00:20:41,570 --> 00:20:43,130
+einfach zwei Brüche und wenn wir zwei
+
+444
+00:20:43,130 --> 00:20:44,990
+Brüche addieren, die unterschiedliche
+
+445
+00:20:44,990 --> 00:20:46,770
+Nenner haben, müssen wir diese
+
+446
+00:20:46,770 --> 00:20:49,550
+erweitern. Das heißt, der größte
+
+447
+00:20:49,550 --> 00:20:53,250
+gemeinsame Nenner von zwei Drittel
+
+448
+00:20:53,250 --> 00:20:55,490
+und drei Viertel wäre in dem Fall
+
+449
+00:20:55,490 --> 00:20:59,570
+zwölftel als Nenner. Das heißt, wir
+
+450
+00:20:59,570 --> 00:21:01,670
+rechnen einfach nur zwei Drittel und
+
+451
+00:21:01,670 --> 00:21:03,970
+drei Viertel, sodass wir auf acht
+
+452
+00:21:03,970 --> 00:21:05,490
+Zwölftel und neun Zwölftel kommen.
+
+453
+00:21:05,490 --> 00:21:08,910
+Die beiden Brüche müssen wir jetzt
+
+454
+00:21:08,910 --> 00:21:11,370
+also nur noch addieren und erhalten x
+
+455
+00:21:11,370 --> 00:21:15,050
+sind gleich 17 zwölftel. Und das
+
+456
+00:21:15,050 --> 00:21:16,510
+Ganze können wir dann auch wiederum
+
+457
+00:21:16,510 --> 00:21:19,870
+als ganz schicke Wurzel darstellen,
+
+458
+00:21:20,030 --> 00:21:22,310
+indem wir die zwölfte Wurzel aus x
+
+459
+00:21:22,310 --> 00:21:26,270
+hoch 17 dann ziehen. Und das wäre
+
+460
+00:21:26,270 --> 00:21:28,270
+nochmal, wie gesagt, eine weitere
+
+461
+00:21:28,270 --> 00:21:32,190
+Potenzdarstellung von Wurzeln, was
+
+462
+00:21:32,190 --> 00:21:32,970
+man machen könnte.
+
+463
+00:21:39,070 --> 00:21:43,750
+So. Das wäre es jetzt so von meiner
+
+464
+00:21:43,750 --> 00:21:46,030
+Seite erstmal. Also vielen Dank
+
+465
+00:21:46,030 --> 00:21:47,990
+erstmal, dass ihr zugehört habt, dass
+
+466
+00:21:47,990 --> 00:21:51,290
+ihr euch hingesetzt habt und meiner
+
+467
+00:21:51,290 --> 00:21:53,150
+Stimme gelauscht habt, wie ich ganz
+
+468
+00:21:53,150 --> 00:21:54,790
+entspannt über Quadratwurzeln
+
+469
+00:21:54,790 --> 00:21:59,650
+erzähle. Habt ihr erst einmal
+
+470
+00:21:59,650 --> 00:22:02,470
+irgendeine Frage noch zu irgendeinem
+
+471
+00:22:02,470 --> 00:22:08,010
+vorgetragenen Thema? Oder seid ihr
+
+472
+00:22:08,010 --> 00:22:09,810
+erst einmal gut bedient?
+
+473
+00:22:31,070 --> 00:22:32,490
+freut mich auf jeden Fall schon mal.
+
+474
+00:22:34,250 --> 00:22:37,290
+Dann gehe ich mal schwer davon aus,
+
+475
+00:22:37,350 --> 00:22:39,230
+dass wir uns in einer halben Stunde
+
+476
+00:22:41,090 --> 00:22:42,790
+wiedersehen oder wiederhören werden
+
+477
+00:22:42,790 --> 00:22:45,870
+beim Webinar zu ich muss gerade
+
+478
+00:22:45,870 --> 00:22:48,650
+nachgucken Längen, Flächen und Raum
+
+479
+00:22:48,650 --> 00:22:52,830
+enthalten. Ja, dann wünsche ich euch
+
+480
+00:22:52,830 --> 00:22:54,130
+auf jeden Fall ansonsten, falls wir
+
+481
+00:22:54,130 --> 00:22:56,670
+uns nicht hören sollten, wünsche ich
+
+482
+00:22:56,670 --> 00:22:58,610
+euch auf jeden Fall viel Spaß noch
+
+483
+00:22:58,610 --> 00:23:01,650
+weiterhin beim Mathe lernen. und
+
+484
+00:23:01,650 --> 00:23:04,150
+genau, ansonsten bis irgendwann mal
+
+485
+00:23:04,150 --> 00:23:05,010
+oder bis später dann
+

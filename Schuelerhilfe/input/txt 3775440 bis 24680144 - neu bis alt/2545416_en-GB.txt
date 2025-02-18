@@ -1,0 +1,2378 @@
+﻿1
+00:00:01,390 --> 00:00:03,150
+Welcome to the webinar 
+
+2
+00:00:03,150 --> 00:00:06,510
+on calculating percentages and interest. 
+
+3
+00:00:06,510 --> 00:00:08,150
+In this webinar, we will first 
+
+4
+00:00:08,150 --> 00:00:09,430
+
+5
+00:00:09,430 --> 00:00:12,070
+take a look at calculating percentages . 
+We will solve it using 
+
+6
+00:00:12,070 --> 00:00:13,450
+example problems with the rule of three 
+
+7
+00:00:13,450 --> 00:00:15,710
+and also 
+
+8
+00:00:15,710 --> 00:00:17,110
+demonstrate the formulas for calculating 
+percentages. 
+
+9
+00:00:17,830 --> 00:00:19,410
+We will then 
+
+10
+00:00:19,410 --> 00:00:20,890
+move on to the calculation of interest. 
+
+11
+00:00:20,890 --> 00:00:22,250
+Interest calculation is actually just a 
+
+12
+00:00:22,250 --> 00:00:23,250
+modified form of 
+
+13
+00:00:23,250 --> 00:00:25,310
+percentage calculation. We will 
+
+14
+00:00:25,310 --> 00:00:27,310
+
+15
+00:00:27,310 --> 00:00:29,190
+
+16
+00:00:29,190 --> 00:00:32,090
+look at annual interest, monthly interest, 
+daily interest and finally compound 
+interest. And we 
+
+17
+00:00:32,090 --> 00:00:33,350
+will also 
+
+18
+00:00:33,350 --> 00:00:34,970
+
+19
+00:00:34,970 --> 00:00:37,950
+see the parallels between the percentage 
+calculation and the interest calculation. 
+We will 
+
+20
+00:00:37,950 --> 00:00:39,290
+
+21
+00:00:39,290 --> 00:00:41,390
+deal with everything using a small 
+example. You'll 
+
+22
+00:00:41,390 --> 00:00:43,890
+see that in a moment. Let's start with the 
+
+23
+00:00:43,890 --> 00:00:46,310
+basic concepts of percentages. 
+
+24
+00:00:47,430 --> 00:00:49,390
+There are 30 
+
+25
+00:00:49,390 --> 00:00:52,030
+pupils in a class. Of these, 6 come 
+
+26
+00:00:52,030 --> 00:00:53,610
+to school by bike. That corresponds to 
+
+27
+00:00:53,610 --> 00:00:55,830
+20%. We have three figures to start with. 
+
+28
+00:00:56,550 --> 00:00:58,670
+And these three values also exist 
+
+29
+00:00:58,670 --> 00:00:59,670
+in percentage calculation. These are 
+
+30
+00:00:59,670 --> 00:01:01,610
+the basic value, the 
+
+31
+00:01:01,610 --> 00:01:03,930
+percentage value and the percentage rate. 
+The 
+
+32
+00:01:03,930 --> 00:01:09,390
+basic value has the letter G, the 
+
+33
+00:01:09,390 --> 00:01:13,530
+percentage value W and the percentage P%. 
+
+34
+00:01:16,360 --> 00:01:19,520
+The task now is to find these three 
+
+35
+00:01:19,520 --> 00:01:23,640
+pieces of information G, W and P% from 
+this 
+
+36
+00:01:23,640 --> 00:01:26,560
+text. The basic value is 
+
+37
+00:01:26,560 --> 00:01:28,600
+always the whole, i.e. everything 
+together. 
+
+38
+00:01:29,380 --> 00:01:31,620
+In our case, this means the number of 
+
+39
+00:01:31,620 --> 00:01:33,880
+pupils in the class. 
+
+40
+00:01:33,880 --> 00:01:36,220
+For us, this is 30, which means our G is 
+30 
+
+41
+00:01:36,220 --> 00:01:39,700
+pupils. The percentage value is the 
+
+42
+00:01:39,700 --> 00:01:42,300
+share, the share of the whole, but 
+
+43
+00:01:42,300 --> 00:01:46,420
+not as a percentage, but as a number. 
+
+44
+00:01:47,660 --> 00:01:50,420
+This means that six of our 
+
+45
+00:01:50,420 --> 00:01:54,160
+pupils come by bike. And that is 
+
+46
+00:01:54,160 --> 00:01:56,580
+the proportion of the 30, i.e. 
+
+47
+00:01:56,680 --> 00:02:00,940
+our 6 is the percentage. The 
+
+48
+00:02:00,940 --> 00:02:03,540
+percentage is the ratio. It 
+
+49
+00:02:03,540 --> 00:02:04,820
+'s always the one with the percentage 
+
+50
+00:02:04,820 --> 00:02:07,120
+. Maybe you can remember it like that 
+
+51
+00:02:07,120 --> 00:02:09,260
+and it will always 
+
+52
+00:02:09,260 --> 00:02:13,600
+help you. And that's 20% for us. 
+
+53
+00:02:15,680 --> 00:02:17,460
+Normally you are only given two 
+
+54
+00:02:17,460 --> 00:02:19,660
+of these three values. The 
+
+55
+00:02:19,660 --> 00:02:21,820
+third must always be determined. And 
+
+56
+00:02:21,820 --> 00:02:24,120
+that is... you can 
+
+57
+00:02:24,120 --> 00:02:25,940
+calculate the G, W and P percentages . 
+
+58
+00:02:25,940 --> 00:02:27,480
+On the one hand, as mentioned at the 
+beginning, there are 
+
+59
+00:02:27,480 --> 00:02:29,340
+formulas for this and, on the other hand, 
+
+60
+00:02:29,340 --> 00:02:30,840
+this can also be solved using the rule of 
+three. 
+
+61
+00:02:31,120 --> 00:02:33,840
+We will show you how to do this below, 
+
+62
+00:02:33,840 --> 00:02:35,480
+first using the rule of three and 
+
+63
+00:02:35,480 --> 00:02:37,000
+then demonstrating the formulas 
+
+64
+00:02:37,000 --> 00:02:39,440
+. Please note that we now have 
+
+65
+00:02:39,440 --> 00:02:40,660
+a different situation here. 
+
+66
+00:02:40,660 --> 00:02:44,860
+Out of 250 students, 44% 
+
+67
+00:02:44,860 --> 00:02:46,820
+choose dish A from the menu in their 
+
+68
+00:02:46,820 --> 00:02:49,140
+canteen. This means that we 
+
+69
+00:02:49,140 --> 00:02:51,200
+first have to consider what the 250 are 
+
+70
+00:02:51,200 --> 00:02:55,340
+and what the 44% are. 250 pupils 
+
+71
+00:02:55,500 --> 00:02:57,580
+is the total number, i.e. it 
+
+72
+00:02:57,580 --> 00:03:01,580
+is our G. And 44% is the 
+
+73
+00:03:01,580 --> 00:03:03,220
+percentage, i.e. it is 
+
+74
+00:03:03,220 --> 00:03:06,860
+our P%. What we are missing is the 
+
+75
+00:03:06,860 --> 00:03:10,340
+percentage value W. So how many pupils 
+
+76
+00:03:10,340 --> 00:03:11,880
+will ultimately make up the court. We 
+
+77
+00:03:11,880 --> 00:03:13,940
+know 44% of the pupils. The question 
+
+78
+00:03:13,940 --> 00:03:15,820
+now is, how many pupils are there 
+
+79
+00:03:15,820 --> 00:03:18,320
+now? and we can solve this with 
+
+80
+00:03:18,320 --> 00:03:20,800
+a rule of three. We know that 
+
+81
+00:03:20,800 --> 00:03:24,080
+ 100% of the pupils correspond to 250. 
+
+82
+00:03:24,080 --> 00:03:27,440
+First we go down to 1%, 
+
+83
+00:03:27,600 --> 00:03:30,340
+i.e. we divide by 100. 
+
+84
+00:03:30,340 --> 00:03:31,680
+We do this on both sides, as is 
+
+85
+00:03:31,680 --> 00:03:33,820
+usual. This is a 
+
+86
+00:03:33,820 --> 00:03:37,040
+quasi-proportional allocation. In other 
+words 
+
+87
+00:03:37,080 --> 00:03:38,260
+, we divide by 
+
+88
+00:03:38,260 --> 00:03:41,340
+100 on both sides . 1% is then 2.5 pupils 
+and we 
+
+89
+00:03:41,340 --> 00:03:42,900
+know we have 44, so 
+
+90
+00:03:42,900 --> 00:03:45,260
+we multiply by 44 to get... 
+
+91
+00:03:45,280 --> 00:03:47,980
+44 percent. We now know 
+
+92
+00:03:48,060 --> 00:03:50,560
+that 110 pupils 
+
+93
+00:03:50,560 --> 00:03:53,340
+correspond to 44 percent , so 110 pupils 
+choose 
+
+94
+00:03:53,340 --> 00:03:54,480
+dish A. 
+
+95
+00:03:57,580 --> 00:03:59,040
+Of course, you can 
+
+96
+00:03:59,040 --> 00:04:01,740
+also ask the question the other way 
+around. 44 percent 
+
+97
+00:04:01,740 --> 00:04:03,440
+of all pupils eat dish A from 
+
+98
+00:04:03,440 --> 00:04:05,240
+the menu in their canteen. That 
+
+99
+00:04:05,240 --> 00:04:08,920
+is a total of 110 pupils. In this 
+
+100
+00:04:08,920 --> 00:04:11,220
+case, we have 
+
+101
+00:04:11,220 --> 00:04:14,320
+given our percentage value P percent, 44 
+percent of all And 
+
+102
+00:04:14,320 --> 00:04:16,860
+now it says that this is a total of 
+
+103
+00:04:16,860 --> 00:04:19,600
+110. This means that 110 pupils 
+
+104
+00:04:19,600 --> 00:04:21,860
+correspond to 44%. That is not the 
+
+105
+00:04:21,860 --> 00:04:26,020
+total. Therefore, the 110 are 
+
+106
+00:04:26,020 --> 00:04:29,180
+worth our percent. We are looking for our 
+
+107
+00:04:29,180 --> 00:04:32,140
+basic value. Therefore, we 
+
+108
+00:04:32,140 --> 00:04:33,620
+now have to 
+
+109
+00:04:33,620 --> 00:04:37,600
+set up the rule of three differently. We 
+know that 44% is 110. 
+
+110
+00:04:38,240 --> 00:04:40,100
+First, as is almost always the case with 
+the rule 
+
+111
+00:04:40,100 --> 00:04:42,540
+of three , we go down to 1, i.e. 1% 
+
+112
+00:04:42,700 --> 00:04:45,020
+in this case . So we divide both 
+
+113
+00:04:45,020 --> 00:04:48,800
+by 44. Then we know that 1% is 2 
+
+114
+00:04:48,800 --> 00:04:52,180
+.5. Now we want to know how 
+
+115
+00:04:52,180 --> 00:04:54,140
+many pupils the school 
+
+116
+00:04:54,140 --> 00:04:56,820
+has in total. So we want to determine 
+100%. 
+
+117
+00:04:56,820 --> 00:04:58,320
+So we go back to 100 
+
+118
+00:04:59,540 --> 00:05:00,860
+and multiply by 100 to get 
+
+119
+00:05:00,860 --> 00:05:03,760
+100%. We multiply 
+
+120
+00:05:03,760 --> 00:05:05,240
+by 
+
+121
+00:05:05,240 --> 00:05:07,480
+100 on both sides and then arrive at the 
+result, 
+
+122
+00:05:07,580 --> 00:05:11,600
+100% is 250. Consequently, we know that 
+
+123
+00:05:11,700 --> 00:05:14,420
+the school has a total of 250 pupils. 
+
+124
+00:05:15,000 --> 00:05:17,060
+That would be the answer to this question. 
+
+125
+00:05:19,480 --> 00:05:20,940
+Last but not least, we can of course 
+
+126
+00:05:20,940 --> 00:05:23,860
+calculate our P-percent. One way of 
+
+127
+00:05:23,860 --> 00:05:25,380
+doing this could be to ask 
+
+128
+00:05:25,480 --> 00:05:29,000
+110 of the total 250 pupils 
+
+129
+00:05:29,000 --> 00:05:31,420
+to choose meal A in the canteen 
+
+130
+00:05:31,720 --> 00:05:34,800
+. You can see immediately that 110 of the 
+
+131
+00:05:34,800 --> 00:05:37,400
+total 250 pupils have chosen this meal . 
+This means 
+
+132
+00:05:37,400 --> 00:05:40,260
+that we are given the percentage value and 
+
+133
+00:05:40,260 --> 00:05:44,920
+the basic value, but what is missing is 
+the 
+
+134
+00:05:44,920 --> 00:05:47,880
+percentage share, our p-percentage. 
+
+135
+00:05:48,900 --> 00:05:50,580
+We now have to 
+
+136
+00:05:50,580 --> 00:05:54,520
+calculate this below. Of course, we know 
+that the 
+
+137
+00:05:54,520 --> 00:05:57,020
+school has a total of 250 pupils. 
+
+138
+00:05:57,020 --> 00:06:01,000
+This means that 100 percent is 250, 
+
+139
+00:06:01,000 --> 00:06:02,080
+but we are now using 
+
+140
+00:06:02,080 --> 00:06:04,840
+the right-hand column as a guide , because 
+we want to 
+
+141
+00:06:04,840 --> 00:06:06,580
+end up with 110 pupils. 
+
+142
+00:06:06,700 --> 00:06:08,280
+This means that we first calculate 
+
+143
+00:06:08,340 --> 00:06:09,460
+how many What percentage is 
+
+144
+00:06:09,460 --> 00:06:11,720
+a pupil? So we divide by 
+
+145
+00:06:11,720 --> 00:06:13,880
+250 and we know that one pupil is 
+
+146
+00:06:13,880 --> 00:06:17,780
+0.4 percent. Then 
+
+147
+00:06:17,780 --> 00:06:19,280
+we multiply by 110 to get 110 
+
+148
+00:06:19,280 --> 00:06:22,480
+pupils. And 110 is 44 
+
+149
+00:06:22,480 --> 00:06:26,780
+percent. So we know that 44 
+
+150
+00:06:26,780 --> 00:06:29,320
+percent of all pupils 
+
+151
+00:06:29,320 --> 00:06:32,080
+choose dish A. And that is 
+
+152
+00:06:32,080 --> 00:06:33,880
+the answer to the question. 
+
+153
+00:06:33,880 --> 00:06:36,140
+So you can see that if you know two 
+figures, 
+
+154
+00:06:36,300 --> 00:06:37,600
+you can always calculate the third... 
+
+155
+00:06:37,660 --> 00:06:40,440
+and there are three ways 
+
+156
+00:06:40,440 --> 00:06:42,360
+you can go. So either W is 
+
+157
+00:06:42,360 --> 00:06:44,400
+unknown or G is unknown or P 
+
+158
+00:06:44,400 --> 00:06:45,860
+% is unknown. These are the three 
+
+159
+00:06:45,860 --> 00:06:48,080
+possibilities that you have and you can 
+
+160
+00:06:48,080 --> 00:06:49,540
+
+161
+00:06:49,540 --> 00:06:50,840
+solve this on the one hand using the rule 
+of three , as we 
+
+162
+00:06:50,840 --> 00:06:53,220
+have demonstrated here , and the other 
+possibility is 
+
+163
+00:06:53,220 --> 00:06:56,360
+to solve it using the formulas. 
+
+164
+00:06:56,360 --> 00:06:58,220
+
+165
+00:06:58,220 --> 00:07:00,140
+There is of course a formula for each of 
+these three individual cases. Once 
+
+166
+00:07:00,140 --> 00:07:01,900
+for the basic value, if the 
+
+167
+00:07:01,900 --> 00:07:03,340
+percentage value W is sought, the 
+
+168
+00:07:03,340 --> 00:07:04,920
+formula. Once when the basic value G 
+
+169
+00:07:04,920 --> 00:07:06,900
+is searched for and the formula for the 
+
+170
+00:07:06,900 --> 00:07:08,800
+percentage value. We have 
+
+171
+00:07:08,800 --> 00:07:11,560
+always 
+
+172
+00:07:11,560 --> 00:07:14,500
+entered the data from the exercises at the 
+back here. This 
+
+173
+00:07:14,500 --> 00:07:17,080
+means that if we are 
+
+174
+00:07:17,080 --> 00:07:19,240
+looking for the percentage value W , it is 
+simply the basic value 
+
+175
+00:07:19,240 --> 00:07:22,720
+multiplied by our p% by 100. 
+
+176
+00:07:22,720 --> 00:07:24,440
+In the first exercise, we had 
+
+177
+00:07:24,440 --> 00:07:26,340
+the situation where we 
+
+178
+00:07:26,340 --> 00:07:29,500
+had 250 pupils and 44% chose 
+
+179
+00:07:29,500 --> 00:07:32,280
+court A. If we now 
+
+180
+00:07:32,280 --> 00:07:34,200
+wanted to calculate how many these are, 
+then 
+
+181
+00:07:34,200 --> 00:07:37,260
+we would calculate 250 times 44 by 
+
+182
+00:07:37,260 --> 00:07:40,360
+100. That is 110, exactly the result 
+
+183
+00:07:40,560 --> 00:07:42,460
+that we 
+
+184
+00:07:42,460 --> 00:07:45,280
+calculated earlier using the table. If we 
+are 
+
+185
+00:07:45,280 --> 00:07:47,820
+looking for the basic value G, G is equal 
+to W 
+
+186
+00:07:47,820 --> 00:07:53,060
+times 100 by P%. If we 
+
+187
+00:07:53,060 --> 00:07:54,940
+want to calculate the basic value, it is 
+
+188
+00:07:54,940 --> 00:07:57,320
+equal to our percentage value times 100 
+
+189
+00:07:57,320 --> 00:08:00,800
+divided by our percentage. So 
+
+190
+00:08:00,800 --> 00:08:03,680
+for us right now, we had 110 
+
+191
+00:08:03,680 --> 00:08:05,540
+students next to Court A, which was 
+
+192
+00:08:05,540 --> 00:08:08,320
+44%. That means our 110 was our 
+
+193
+00:08:08,320 --> 00:08:11,860
+percentage value and 44 was our 
+percentage. 
+
+194
+00:08:11,940 --> 00:08:15,120
+And so we get 110 times 100 
+
+195
+00:08:15,120 --> 00:08:19,540
+divided by 44 and that's 250 again. That 
+
+196
+00:08:19,540 --> 00:08:20,940
+means we would then know the 
+
+197
+00:08:20,940 --> 00:08:25,480
+students... a total of 250 students. 
+
+198
+00:08:25,480 --> 00:08:26,520
+Last but not least, we 
+
+199
+00:08:26,520 --> 00:08:29,160
+calculated the percentage p%. This 
+
+200
+00:08:29,160 --> 00:08:32,480
+is simply calculated by 100 times the 
+
+201
+00:08:32,480 --> 00:08:35,460
+percentage value divided by the basic 
+value. 
+
+202
+00:08:35,680 --> 00:08:37,580
+So the last question we had was 
+
+203
+00:08:37,580 --> 00:08:41,140
+110 out of 52 students next to court A. 
+
+204
+00:08:41,220 --> 00:08:43,480
+What percentage is that? 110 was 
+
+205
+00:08:43,480 --> 00:08:44,540
+our percentage value, our 
+
+206
+00:08:44,540 --> 00:08:47,060
+basic value was 250 and so we 
+
+207
+00:08:47,060 --> 00:08:50,920
+arrive at 100 times 110 divided by 250 and 
+that 
+
+208
+00:08:50,920 --> 00:08:53,920
+is 44 percent. Here you can see 
+
+209
+00:08:53,920 --> 00:08:56,040
+again that you always have to 
+
+210
+00:08:56,040 --> 00:08:57,500
+use two values to 
+
+211
+00:08:57,500 --> 00:08:59,640
+calculate the third. And for each case 
+there is 
+
+212
+00:08:59,640 --> 00:09:02,640
+a suitably rearranged form. 
+
+213
+00:09:02,640 --> 00:09:03,960
+Of course, you can just memorize one 
+
+214
+00:09:03,960 --> 00:09:05,160
+and then always rearrange the formula 
+
+215
+00:09:05,160 --> 00:09:06,380
+accordingly. 
+
+216
+00:09:06,380 --> 00:09:07,840
+Of course, this is a bit more 
+
+217
+00:09:07,840 --> 00:09:09,460
+arithmetic work, but it is also 
+
+218
+00:09:09,460 --> 00:09:13,900
+possible. This brings us to 
+
+219
+00:09:13,900 --> 00:09:14,980
+counting. Interest calculation 
+
+220
+00:09:15,000 --> 00:09:17,020
+, or rather the basic concepts 
+
+221
+00:09:17,020 --> 00:09:20,660
+of interest calculation. Interest 
+calculation 
+
+222
+00:09:20,660 --> 00:09:22,060
+is basically nothing more 
+
+223
+00:09:22,060 --> 00:09:24,540
+than the application of percentage 
+calculation 
+
+224
+00:09:24,540 --> 00:09:27,420
+with money. For example, if you deposit 
+money 
+
+225
+00:09:27,420 --> 00:09:29,180
+in a savings account, i.e. 
+
+226
+00:09:29,180 --> 00:09:31,980
+I invest money, then I receive 
+
+227
+00:09:31,980 --> 00:09:34,220
+money from the bank for 
+
+228
+00:09:34,220 --> 00:09:36,420
+storing the money with them. The 
+
+229
+00:09:36,420 --> 00:09:39,240
+additional money I get from them is 
+
+230
+00:09:39,260 --> 00:09:43,400
+called interest. And the amount of this 
+
+231
+00:09:43,400 --> 00:09:46,340
+interest, i.e. how much money I 
+
+232
+00:09:46,340 --> 00:09:47,460
+ultimately get for it, depends 
+
+233
+00:09:47,460 --> 00:09:49,020
+on how long I 
+
+234
+00:09:49,020 --> 00:09:53,720
+leave the money there. That is very 
+important. This 
+
+235
+00:09:53,720 --> 00:09:56,140
+interest is always 
+
+236
+00:09:56,140 --> 00:09:57,400
+calculated as a percentage , which means 
+that I get 
+
+237
+00:09:57,400 --> 00:09:59,080
+a certain percentage per year 
+
+238
+00:09:59,080 --> 00:10:00,480
+for the money I 
+
+239
+00:10:00,480 --> 00:10:02,460
+store with them. Of course, this means 
+that if I 
+
+240
+00:10:02,460 --> 00:10:04,220
+leave my money with them for longer, 
+
+241
+00:10:04,360 --> 00:10:06,300
+I get more because 
+
+242
+00:10:06,300 --> 00:10:07,560
+I 
+
+243
+00:10:07,560 --> 00:10:11,700
+do it over several years. And of course 
+there is also the 
+
+244
+00:10:11,700 --> 00:10:14,520
+counter-example. So I can not 
+
+245
+00:10:14,520 --> 00:10:16,160
+only invest money at the bank, I 
+
+246
+00:10:16,160 --> 00:10:19,020
+can also borrow money. And that 
+
+247
+00:10:19,020 --> 00:10:20,340
+'s exactly the opposite 
+
+248
+00:10:20,340 --> 00:10:21,660
+example. If I borrow money from the 
+
+249
+00:10:21,660 --> 00:10:23,700
+bank, I have to pay money for it 
+
+250
+00:10:23,700 --> 00:10:26,440
+because I'm using a 
+
+251
+00:10:26,440 --> 00:10:29,520
+service , so to speak. 
+
+252
+00:10:29,520 --> 00:10:33,860
+So that means I don't get any 
+
+253
+00:10:33,860 --> 00:10:35,780
+interest, but I have to 
+
+254
+00:10:35,780 --> 00:10:38,140
+pay interest. Yes, you have to be careful. 
+
+255
+00:10:38,500 --> 00:10:39,900
+If I borrow money, i.e. 
+
+256
+00:10:39,900 --> 00:10:41,460
+take out a loan, what I 
+
+257
+00:10:41,460 --> 00:10:43,860
+have to pay is also called interest. 
+Interest 
+
+258
+00:10:43,860 --> 00:10:45,400
+can mean that I 
+
+259
+00:10:45,400 --> 00:10:49,040
+have to pay something or that I receive 
+something. 
+
+260
+00:10:49,040 --> 00:10:50,260
+You always have to 
+
+261
+00:10:50,260 --> 00:10:52,820
+pay attention to the context. That's 
+
+262
+00:10:52,820 --> 00:10:54,160
+the most important thing about 
+
+263
+00:10:54,160 --> 00:10:56,860
+calculating interest. 
+
+264
+00:10:56,860 --> 00:10:58,940
+Let's take a look at the three formulas 
+and the three 
+
+265
+00:10:58,940 --> 00:11:01,080
+things involved. 
+
+266
+00:11:01,080 --> 00:11:03,760
+There is the capital K, the 
+
+267
+00:11:03,760 --> 00:11:06,780
+interest Z and the interest rate P%. 
+
+268
+00:11:06,840 --> 00:11:10,580
+It's basically the same 
+
+269
+00:11:10,580 --> 00:11:13,380
+formulas, we just have different 
+
+270
+00:11:13,380 --> 00:11:16,480
+names. The basic value, as it 
+
+271
+00:11:16,480 --> 00:11:17,780
+used to be called, is now the 
+
+272
+00:11:17,780 --> 00:11:20,240
+capital. That's what I have. 
+
+273
+00:11:21,800 --> 00:11:25,020
+The interest, i.e. the percentage value, 
+
+274
+00:11:25,320 --> 00:11:28,820
+is Z here. So what was previously the 
+
+275
+00:11:28,820 --> 00:11:30,320
+percentage value is now the 
+
+276
+00:11:30,320 --> 00:11:33,040
+interest . And what was previously the 
+
+277
+00:11:33,040 --> 00:11:34,480
+percentage is now the 
+
+278
+00:11:34,480 --> 00:11:35,120
+interest rate. 
+
+279
+00:11:38,480 --> 00:11:40,040
+You can also see the three formulas here. 
+
+280
+00:11:40,080 --> 00:11:41,740
+If I want to calculate the interest Z 
+
+281
+00:11:41,740 --> 00:11:43,000
+, I have my 
+
+282
+00:11:43,000 --> 00:11:45,280
+capital multiplied by p% by 100, i.e. the 
+
+283
+00:11:45,280 --> 00:11:47,120
+same formula as we 
+
+284
+00:11:47,120 --> 00:11:49,320
+have for the percentage value. 
+
+285
+00:11:49,320 --> 00:11:51,680
+If I want to calculate my capital, the K 
+
+286
+00:11:51,680 --> 00:11:55,180
+is equal to Z and therefore my interest 
+
+287
+00:11:55,180 --> 00:11:57,700
+times 100 by p%, i.e. by my 
+
+288
+00:11:57,700 --> 00:11:59,960
+interest rate. This is more or less the 
+same 
+
+289
+00:11:59,960 --> 00:12:01,640
+as calculating the percentage value. 
+
+290
+00:12:02,060 --> 00:12:06,180
+And p% is equal to 100 times z divided by 
+k, i 
+
+291
+00:12:06,340 --> 00:12:07,980
+.e. my interest divided by my 
+
+292
+00:12:07,980 --> 00:12:11,060
+capital. As I said, these are the 
+
+293
+00:12:11,060 --> 00:12:13,040
+same formulas, just with different 
+
+294
+00:12:13,040 --> 00:12:16,640
+names. And we will take a look at these 
+
+295
+00:12:16,640 --> 00:12:20,240
+below. 
+
+296
+00:12:20,240 --> 00:12:22,920
+At the beginning of the year, Johannes 
+
+297
+00:12:22,920 --> 00:12:24,740
+invested 5000 euros with a bank 
+
+298
+00:12:24,740 --> 00:12:27,060
+. The interest rate is 3.5 
+
+299
+00:12:27,180 --> 00:12:29,460
+percent. How much interest will he receive 
+
+300
+00:12:29,460 --> 00:12:31,020
+at the end of the year? Interest 
+
+301
+00:12:31,020 --> 00:12:32,520
+is always paid out 
+
+302
+00:12:32,520 --> 00:12:35,460
+or stated per year and Johannes has 
+
+303
+00:12:35,460 --> 00:12:38,020
+invested 5,000 euros at 3.5 percent 
+
+304
+00:12:38,020 --> 00:12:40,480
+interest. And the question now is how 
+
+305
+00:12:40,480 --> 00:12:42,340
+much interest he will 
+
+306
+00:12:42,340 --> 00:12:44,500
+receive at the end of the year. So we are 
+looking for interest. 
+
+307
+00:12:46,180 --> 00:12:48,580
+Our capital and our interest rate are 
+
+308
+00:12:48,580 --> 00:12:50,860
+given to us. This means that our capital 
+
+309
+00:12:50,860 --> 00:12:54,060
+K is 5,000 and our interest rate p 
+
+310
+00:12:54,060 --> 00:12:58,940
+percent is 3.5 and we can 
+
+311
+00:12:58,940 --> 00:13:00,220
+now simply insert this into the 
+appropriate formula 
+
+312
+00:13:00,220 --> 00:13:02,400
+for the interest, which was z 
+
+313
+00:13:02,400 --> 00:13:04,700
+is equal to k times p percent by 100 
+
+314
+00:13:04,700 --> 00:13:06,940
+, so our capital times our 
+
+315
+00:13:06,940 --> 00:13:09,860
+percentage rate by 100 means 
+
+316
+00:13:09,860 --> 00:13:13,180
+5000 times 3.5 by 100 and that is 
+
+317
+00:13:13,180 --> 00:13:15,200
+175 euros, which means that johannes 
+
+318
+00:13:15,200 --> 00:13:17,540
+will receive 175 euros at the end of the 
+year 
+
+319
+00:13:17,540 --> 00:13:22,020
+or has 5175 euros in his 
+
+320
+00:13:22,280 --> 00:13:26,080
+bank account after this time. 
+
+321
+00:13:26,080 --> 00:13:28,120
+Another example. Maya 
+
+322
+00:13:28,120 --> 00:13:30,360
+
+323
+00:13:30,360 --> 00:13:32,400
+invested 2000 euros at a bank at the 
+beginning of the year. After one year, she 
+has 
+
+324
+00:13:32,400 --> 00:13:35,160
+a total of 2200 euros in her account. 
+
+325
+00:13:35,400 --> 00:13:37,080
+What was the original 
+
+326
+00:13:37,080 --> 00:13:38,680
+interest rate? Here you can see what I 
+
+327
+00:13:38,680 --> 00:13:39,640
+just did quickly 
+
+328
+00:13:39,640 --> 00:13:41,940
+. I 
+
+329
+00:13:41,940 --> 00:13:43,420
+also said earlier with Johannes that he 
+had 
+
+330
+00:13:43,420 --> 00:13:46,040
+5175 euros in his account after one year , 
+i.e. the 
+
+331
+00:13:46,040 --> 00:13:47,800
+money he had in his account earlier 
+
+332
+00:13:47,800 --> 00:13:50,400
+, plus his interest. 
+
+333
+00:13:50,400 --> 00:13:52,200
+It's the same with Maya. After one year, 
+she has 
+
+334
+00:13:52,200 --> 00:13:54,640
+2,200 euros in her account. 
+
+335
+00:13:55,060 --> 00:13:57,780
+She had invested 2,000 euros. That 
+
+336
+00:13:57,780 --> 00:14:01,900
+means her interest is 200 euros. 
+
+337
+00:14:04,710 --> 00:14:06,590
+You have to be careful. You haven 
+
+338
+00:14:06,590 --> 00:14:08,090
+'t indicated the interest here, 
+
+339
+00:14:08,130 --> 00:14:09,910
+but simply the account balance 
+
+340
+00:14:09,910 --> 00:14:12,430
+after one year. And the account balance 
+
+341
+00:14:12,430 --> 00:14:14,470
+after one year minus the 
+
+342
+00:14:14,470 --> 00:14:16,370
+original account balance is then 
+
+343
+00:14:16,370 --> 00:14:18,790
+just... The interest, that's 
+
+344
+00:14:18,790 --> 00:14:22,650
+200 euros for Maya. And we want to 
+
+345
+00:14:22,650 --> 00:14:24,350
+calculate Maya's interest rate. We 
+
+346
+00:14:24,350 --> 00:14:26,510
+know her interest and we know her 
+
+347
+00:14:26,510 --> 00:14:28,510
+capital. So interest was 200 euros, 
+
+348
+00:14:28,590 --> 00:14:31,730
+capital was 2000 euros. And 
+
+349
+00:14:31,730 --> 00:14:33,630
+now we can use the formula for the 
+
+350
+00:14:33,630 --> 00:14:36,550
+interest rate P%. This is calculated 
+
+351
+00:14:36,550 --> 00:14:39,190
+as 100 times the interest divided by the 
+
+352
+00:14:39,190 --> 00:14:42,830
+capital. In our case, this is 100 times 
+200 
+
+353
+00:14:42,830 --> 00:14:47,190
+times 2000 and that is 10%. Consequently, 
+
+354
+00:14:47,190 --> 00:14:49,970
+Maya receives 10% interest per year. 
+
+355
+00:14:52,580 --> 00:14:54,280
+Of course, you don't 
+
+356
+00:14:54,280 --> 00:14:58,240
+always have to invest your money for a 
+year. You can 
+
+357
+00:14:58,240 --> 00:14:59,800
+also have it paid out before then. 
+
+358
+00:14:59,900 --> 00:15:01,820
+The interest is therefore 
+
+359
+00:15:01,820 --> 00:15:05,080
+calculated on a pro rata basis. Here we 
+see 
+
+360
+00:15:05,080 --> 00:15:07,560
+the formula for the monthly interest. In 
+other words, 
+
+361
+00:15:07,560 --> 00:15:10,440
+the formula that you can use if you 
+
+362
+00:15:10,440 --> 00:15:11,860
+
+363
+00:15:11,860 --> 00:15:16,800
+withdraw your money after three months , 
+for example. 
+
+364
+00:15:16,800 --> 00:15:18,800
+On January 1, you have 1,000 euros 
+
+365
+00:15:18,800 --> 00:15:21,540
+in your account. The interest rate is 
+
+366
+00:15:21,540 --> 00:15:24,940
+2%. After three months, you will receive 5 
+
+367
+00:15:24,940 --> 00:15:26,900
+euros in interest. This is the 
+
+368
+00:15:26,900 --> 00:15:28,700
+formula for the interest. Z is equal to K 
+
+369
+00:15:28,700 --> 00:15:31,480
+times P percent by 100 times M by 
+
+370
+00:15:31,480 --> 00:15:34,240
+12. This means that if I 
+
+371
+00:15:34,240 --> 00:15:37,360
+don't 
+
+372
+00:15:37,360 --> 00:15:38,580
+take the money out of the account after a 
+year , but before, the interest 
+
+373
+00:15:38,680 --> 00:15:40,840
+is calculated proportionally. 
+
+374
+00:15:40,840 --> 00:15:42,280
+As you know, the year has twelve months. 
+
+375
+00:15:42,280 --> 00:15:44,880
+This means that it is 
+
+376
+00:15:44,880 --> 00:15:47,940
+calculated proportionally. In this case, 
+it is 
+
+377
+00:15:47,940 --> 00:15:50,800
+taken from the account after three months. 
+
+378
+00:15:51,000 --> 00:15:54,180
+That means our M is 3, we 
+
+379
+00:15:54,180 --> 00:15:56,360
+get 2% interest, which means our P 
+
+380
+00:15:56,360 --> 00:16:00,180
+% is 2 and we have 
+
+381
+00:16:00,180 --> 00:16:01,840
+invested a capital K of 1000 euros. That 
+is our 
+
+382
+00:16:01,840 --> 00:16:07,140
+K 1000 euros. With this information, 
+
+383
+00:16:07,140 --> 00:16:09,120
+we could now 
+
+384
+00:16:09,120 --> 00:16:11,760
+calculate the interest. That would be 5 
+euros. 
+
+385
+00:16:15,110 --> 00:16:17,910
+Now we come to a question. Arne 
+
+386
+00:16:17,910 --> 00:16:20,390
+
+387
+00:16:20,390 --> 00:16:23,550
+invests a starting capital of 6,000 euros 
+at a bank on January 1. The 
+
+388
+00:16:23,550 --> 00:16:26,170
+interest rate is 4% per year. So 
+
+389
+00:16:26,170 --> 00:16:28,950
+the P.A. means per year. Or stands 
+
+390
+00:16:28,950 --> 00:16:30,470
+for per year. A stands for the year. 
+
+391
+00:16:30,750 --> 00:16:34,150
+The first interest payment is made in the 
+
+392
+00:16:34,150 --> 00:16:37,110
+first quarter. How high is 
+
+393
+00:16:37,110 --> 00:16:42,840
+his account at that time? The first 
+
+394
+00:16:42,840 --> 00:16:45,280
+quarter, you can 
+
+395
+00:16:45,280 --> 00:16:48,120
+divide the year into four quarters, i.e. a 
+
+396
+00:16:48,120 --> 00:16:50,980
+quarter of the year. A quarter is 
+
+397
+00:16:50,980 --> 00:16:54,300
+therefore three months long. This means 
+that 
+
+398
+00:16:54,440 --> 00:16:57,260
+after three months, Arne 
+
+399
+00:16:57,260 --> 00:16:59,960
+receives his interest on his account, i.e. 
+his 
+
+400
+00:16:59,960 --> 00:17:04,440
+share. In other words, he has invested a 
+capital 
+
+401
+00:17:04,440 --> 00:17:07,120
+of 6,000 euros and receives 
+
+402
+00:17:07,120 --> 00:17:10,320
+4% interest on it. And the money was 
+
+403
+00:17:10,320 --> 00:17:12,100
+automatically 
+
+404
+00:17:12,100 --> 00:17:14,440
+invested for three months, so to speak, 
+and then the 
+
+405
+00:17:14,440 --> 00:17:16,740
+interest for the three months is 
+
+406
+00:17:16,740 --> 00:17:21,300
+transferred to your account. So that means 
+our 
+
+407
+00:17:21,300 --> 00:17:23,240
+capital is 6,000 euros, our 
+
+408
+00:17:23,240 --> 00:17:26,960
+percentage rate P% is 4% and our 
+
+409
+00:17:26,960 --> 00:17:30,780
+term M is 3. As I said, a 
+
+410
+00:17:30,780 --> 00:17:33,640
+quarter has three months, so 
+
+411
+00:17:33,640 --> 00:17:36,980
+we arrive at 6,000 times 4% divided by 100 
+times 3 
+
+412
+00:17:36,980 --> 00:17:39,640
+twelfths. He receives 60 euros in 
+interest. 
+
+413
+00:17:39,760 --> 00:17:42,360
+But the question is, what is his 
+
+414
+00:17:42,360 --> 00:17:45,320
+account balance? In other words, he gets 
+
+415
+00:17:45,320 --> 00:17:49,140
+60 euros, but he already had 6,000, which 
+
+416
+00:17:49,140 --> 00:17:51,020
+means we have to add the 60 euros to the 
+
+417
+00:17:51,020 --> 00:17:53,860
+6,000 and arrive at 6 
+
+418
+00:17:53,860 --> 00:17:57,280
+,060 euros. And that's 
+
+419
+00:17:57,280 --> 00:17:58,560
+Arne's  new account balance. 
+
+420
+00:18:02,480 --> 00:18:04,920
+Of course, there is also daily interest. 
+
+421
+00:18:04,920 --> 00:18:06,600
+This means that you can 
+
+422
+00:18:06,600 --> 00:18:10,900
+invest the money for a shorter period of 
+time or you could 
+
+423
+00:18:10,900 --> 00:18:12,120
+theoretically withdraw it every day. 
+
+424
+00:18:12,160 --> 00:18:12,900
+That's why you also need 
+
+425
+00:18:12,900 --> 00:18:15,620
+daily interest. An example of this. On 
+
+426
+00:18:15,620 --> 00:18:17,560
+January 1, you have 1000 euros in 
+
+427
+00:18:17,560 --> 00:18:19,380
+your account. The interest rate is 2%. 
+
+428
+00:18:19,380 --> 00:18:23,080
+After 45 days you receive 2.50 euros 
+
+429
+00:18:23,080 --> 00:18:23,720
+interest. 
+
+430
+00:18:26,160 --> 00:18:29,840
+T, the time, is important here. T 
+
+431
+00:18:29,840 --> 00:18:31,360
+here is in days. This can also be seen 
+from 
+
+432
+00:18:31,360 --> 00:18:32,800
+the 360. Here you can see that the year 
+
+433
+00:18:32,800 --> 00:18:37,120
+is assumed to have 360 days. And 
+
+434
+00:18:37,120 --> 00:18:38,680
+that's why it's also 
+
+435
+00:18:38,680 --> 00:18:42,060
+shown here on a pro rata basis. The 1000 
+euros 
+
+436
+00:18:42,060 --> 00:18:43,780
+is again our capital. Our 
+
+437
+00:18:43,780 --> 00:18:46,820
+interest rate P% is 2% and our 
+
+438
+00:18:46,820 --> 00:18:50,780
+term is 45. We can 
+
+439
+00:18:50,780 --> 00:18:52,480
+then use this to 
+
+440
+00:18:52,480 --> 00:18:56,640
+calculate the interest that would be paid 
+out. So 1000 times 2 
+
+441
+00:18:56,640 --> 00:19:01,120
+by 100 times 45 by 360, which 
+
+442
+00:19:01,120 --> 00:19:06,230
+in this case is probably 2.50 euros. And 
+
+443
+00:19:06,230 --> 00:19:09,390
+Arne invests something in 
+
+444
+00:19:09,390 --> 00:19:11,710
+the bank again. He invests a 
+
+445
+00:19:11,710 --> 00:19:14,270
+starting capital of 2500 euros at 
+
+446
+00:19:14,270 --> 00:19:17,010
+the bank. The interest rate is 
+
+447
+00:19:17,010 --> 00:19:19,590
+10%. The first interest payment is made 
+
+448
+00:19:19,590 --> 00:19:22,370
+after 100 days. How high is this 
+
+449
+00:19:22,370 --> 00:19:24,690
+interest at that time? This means 
+
+450
+00:19:24,930 --> 00:19:27,690
+that Arne invests money in the bank again 
+
+451
+00:19:27,690 --> 00:19:29,670
+and in this case he receives the 
+
+452
+00:19:29,670 --> 00:19:31,710
+first interest payment after 100 days 
+
+453
+00:19:31,710 --> 00:19:33,730
+. The question now is, how 
+
+454
+00:19:33,730 --> 00:19:34,870
+much interest will he receive 
+
+455
+00:19:34,870 --> 00:19:37,950
+? In this case, 2500 euros is again 
+
+456
+00:19:37,950 --> 00:19:39,490
+his capital, which he invests, our K. 
+
+457
+00:19:40,290 --> 00:19:42,890
+The interest rate is 10%, which is 
+
+458
+00:19:42,890 --> 00:19:46,610
+our P%, and the time T after which it 
+
+459
+00:19:46,610 --> 00:19:50,690
+is paid out is 100. So 
+
+460
+00:19:50,690 --> 00:19:53,730
+we arrive at 2500 euros times 10% 
+
+461
+00:19:53,730 --> 00:19:57,530
+by 100 times 100 by 360. This 
+
+462
+00:19:57,530 --> 00:19:59,990
+means that in this case we are only 
+
+463
+00:19:59,990 --> 00:20:02,110
+asking about the amount of interest, 
+
+464
+00:20:02,270 --> 00:20:05,130
+not about his account balance. 
+
+465
+00:20:05,130 --> 00:20:06,750
+It is therefore sufficient to calculate 
+the interest 
+
+466
+00:20:06,750 --> 00:20:09,870
+, which in this case is 69.44 
+
+467
+00:20:09,870 --> 00:20:14,210
+euros. And that is the money that 
+
+468
+00:20:14,210 --> 00:20:16,910
+the value owner has in his account 
+
+469
+00:20:16,910 --> 00:20:17,470
+after 100 days. 
+
+470
+00:20:21,480 --> 00:20:24,680
+Now we come to compound interest. 
+
+471
+00:20:24,680 --> 00:20:26,080
+I said earlier that the 
+
+472
+00:20:26,080 --> 00:20:27,420
+interest always relates to the year 
+
+473
+00:20:27,420 --> 00:20:29,280
+and is usually 
+
+474
+00:20:29,280 --> 00:20:30,860
+paid out at the end of the year 
+
+475
+00:20:30,960 --> 00:20:32,180
+, or is in the account. 
+
+476
+00:20:32,380 --> 00:20:35,260
+This means that I have 
+
+477
+00:20:35,260 --> 00:20:39,420
+a different capital after each year. And 
+if I 
+
+478
+00:20:39,420 --> 00:20:40,940
+now want to know how much money 
+
+479
+00:20:40,940 --> 00:20:42,580
+
+480
+00:20:42,580 --> 00:20:43,900
+I have in my account after 5 years, for 
+example , it becomes very 
+
+481
+00:20:43,900 --> 00:20:45,720
+laborious with the calculations I made 
+earlier. 
+
+482
+00:20:46,280 --> 00:20:47,960
+That's why there's this formula for 
+
+483
+00:20:47,960 --> 00:20:50,500
+compound interest, because I get 
+
+484
+00:20:50,500 --> 00:20:52,140
+
+485
+00:20:52,140 --> 00:20:55,080
+interest again on the interest from the 
+previous year. So it's 
+
+486
+00:20:55,080 --> 00:20:56,140
+only about annual interest. 
+
+487
+00:20:56,140 --> 00:20:57,200
+Monthly interest does not 
+
+488
+00:20:57,200 --> 00:21:01,100
+earn interest again. And 
+
+489
+00:21:01,100 --> 00:21:03,220
+this is the formula for 
+
+490
+00:21:03,220 --> 00:21:05,620
+compound interest. We have KT, i.e. the 
+
+491
+00:21:05,620 --> 00:21:08,420
+capital after T years. This is equal to 
+
+492
+00:21:08,420 --> 00:21:10,600
+our initial capital, K0, i.e. the 
+
+493
+00:21:10,600 --> 00:21:13,300
+money we actually invest, times, 
+
+494
+00:21:13,300 --> 00:21:15,860
+brackets open, 1 plus P-percent divided by 
+
+495
+00:21:15,860 --> 00:21:17,420
+100. This P-percent is 
+
+496
+00:21:17,420 --> 00:21:19,700
+again our interest rate and to the power 
+of T, these 
+
+497
+00:21:19,700 --> 00:21:21,320
+are the years, how long I 
+
+498
+00:21:21,320 --> 00:21:25,180
+invest the money. In other words, for 
+example, 
+
+499
+00:21:25,300 --> 00:21:27,360
+on January 1st there is 1000 euros 
+
+500
+00:21:27,360 --> 00:21:29,280
+in the account, the interest rate is 
+
+501
+00:21:29,280 --> 00:21:32,100
+2%, after 3 years the interest rate 
+
+502
+00:21:32,100 --> 00:21:37,340
+on the account balance is 1061.21 euros. 
+cents. 
+
+503
+00:21:37,340 --> 00:21:41,260
+This means that you have 
+
+504
+00:21:41,260 --> 00:21:42,660
+already earned compound interest on the 
+1,000 euros. 
+
+505
+00:21:42,760 --> 00:21:43,860
+You have 
+
+506
+00:21:43,860 --> 00:21:47,700
+invested over the three years. This means 
+that the money 
+
+507
+00:21:47,700 --> 00:21:49,340
+you received for the first year, 
+
+508
+00:21:49,340 --> 00:21:50,360
+the interest, has already 
+
+509
+00:21:50,360 --> 00:21:53,080
+earned interest twice again. This is 
+called 
+
+510
+00:21:53,080 --> 00:21:58,640
+compound interest. And it's exponential. 
+
+511
+00:21:58,680 --> 00:22:00,200
+We'll 
+
+512
+00:22:00,200 --> 00:22:02,400
+see that in a moment. So the more money 
+you 
+
+513
+00:22:02,400 --> 00:22:03,460
+have in the bank, which is always 
+
+514
+00:22:03,460 --> 00:22:04,860
+a percentage, the more money 
+
+515
+00:22:04,860 --> 00:22:08,820
+you get as interest. So it's 
+
+516
+00:22:08,820 --> 00:22:10,880
+not linear. The interest 
+
+517
+00:22:10,880 --> 00:22:12,300
+increases from year to year because I also 
+
+518
+00:22:12,300 --> 00:22:13,660
+have more and more money in the bank. 
+
+519
+00:22:13,980 --> 00:22:15,900
+Provided you don't withdraw any money. 
+
+520
+00:22:16,740 --> 00:22:19,460
+Well, let's get to the question. At the 
+beginning, 
+
+521
+00:22:19,460 --> 00:22:21,260
+2000 euros are 
+
+522
+00:22:21,260 --> 00:22:23,460
+invested at a bank. The percentage rate is 
+10%. 
+
+523
+00:22:23,460 --> 00:22:26,260
+So after two years, the 
+
+524
+00:22:26,260 --> 00:22:29,880
+interest is 420 euros. Arne Heinz 
+
+525
+00:22:29,880 --> 00:22:31,360
+now claims that if I double the years, 
+
+526
+00:22:31,420 --> 00:22:33,160
+the interest doubles. Is he 
+
+527
+00:22:33,160 --> 00:22:39,400
+right? We know that 
+
+528
+00:22:39,400 --> 00:22:42,960
+we have received 420 euros in interest for 
+two years. And 
+
+529
+00:22:42,960 --> 00:22:45,280
+now we simply check this and 
+
+530
+00:22:45,280 --> 00:22:46,980
+calculate how much money he 
+
+531
+00:22:46,980 --> 00:22:49,180
+has after four years. The 2000 
+
+532
+00:22:49,180 --> 00:22:52,180
+is of course our capital. So 
+
+533
+00:22:52,180 --> 00:22:56,100
+we use it for our K0, the 10% 
+
+534
+00:22:56,100 --> 00:22:59,260
+is our P% and we now 
+
+535
+00:22:59,260 --> 00:23:01,180
+simply calculate K4, which means the 
+
+536
+00:23:01,180 --> 00:23:02,520
+capital after 4 years, as I said, 
+
+537
+00:23:02,520 --> 00:23:04,820
+so our T is also a 4, i.e. 
+
+538
+00:23:04,820 --> 00:23:07,140
+the index that is below here is 
+
+539
+00:23:07,140 --> 00:23:09,180
+always above here in the exponent 
+
+540
+00:23:09,900 --> 00:23:12,660
+, which means we come to 2000 times 
+
+541
+00:23:12,660 --> 00:23:15,060
+brackets on 1 plus 10% by 100 
+
+542
+00:23:15,060 --> 00:23:18,600
+brackets to the power of 4 then we know 
+
+543
+00:23:18,600 --> 00:23:23,080
+after 4 years there are 2,928.20 euros in 
+
+544
+00:23:23,080 --> 00:23:24,860
+the account. It is important to note that 
+with 
+
+545
+00:23:24,860 --> 00:23:26,420
+compound interest you always get the 
+
+546
+00:23:26,420 --> 00:23:28,820
+money that is there at the end. That 
+
+547
+00:23:28,820 --> 00:23:29,940
+really is the total. 
+
+548
+00:23:29,940 --> 00:23:31,760
+It's not just the interest, it's the 
+
+549
+00:23:31,760 --> 00:23:34,320
+capital that's in the account. 
+
+550
+00:23:34,320 --> 00:23:40,260
+This means that 928.20 euros were 
+
+551
+00:23:40,260 --> 00:23:42,820
+paid out in interest, because 
+
+552
+00:23:42,820 --> 00:23:44,900
+2,000 euros were invested at the 
+beginning. 
+
+553
+00:23:45,040 --> 00:23:46,300
+Of course, we have to 
+
+554
+00:23:46,300 --> 00:23:47,120
+deduct this from the value here. 
+
+555
+00:23:51,120 --> 00:23:54,680
+And if Arne were right, 
+
+556
+00:23:54,840 --> 00:23:57,800
+then we would only have to 
+
+557
+00:23:57,800 --> 00:24:01,280
+divide the 928 by 2. And then we would 
+have to 
+
+558
+00:24:01,280 --> 00:24:03,700
+get the same interest as 
+
+559
+00:24:03,700 --> 00:24:05,700
+for the 2 years. Because 4 divided by 
+
+560
+00:24:05,700 --> 00:24:07,560
+2 is also 2 years. So 
+
+561
+00:24:07,560 --> 00:24:09,980
+let's just do that. And we 
+
+562
+00:24:09,980 --> 00:24:13,900
+come up with 464.10 euros. That's 
+
+563
+00:24:13,900 --> 00:24:15,520
+considerably more than he 
+
+564
+00:24:15,520 --> 00:24:18,220
+got for 2 years. And Arne 
+
+565
+00:24:18,220 --> 00:24:20,880
+Heinz is wrong about that. As I said, 
+that's 
+
+566
+00:24:20,880 --> 00:24:22,740
+because it's exponential 
+
+567
+00:24:22,740 --> 00:24:26,120
+growth and the more money you 
+
+568
+00:24:26,120 --> 00:24:28,240
+have in your account, the more money you 
+
+569
+00:24:28,240 --> 00:24:30,260
+invest, the more interest you get 
+
+570
+00:24:30,260 --> 00:24:33,960
+. Well, that brings us to 
+
+571
+00:24:33,960 --> 00:24:35,840
+the end of the webinar. Thank you 
+
+572
+00:24:35,840 --> 00:24:37,000
+very much for your 
+
+573
+00:24:37,000 --> 00:24:37,700
+attention. 

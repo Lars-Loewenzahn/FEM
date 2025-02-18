@@ -1,0 +1,404 @@
+1
+00:00:00,430 --> 00:00:02,430
+Hallo und herzlich willkommen zu den
+
+2
+00:00:02,430 --> 00:00:05,490
+Lernvideos der Schülerhilfe. Heute
+
+3
+00:00:05,490 --> 00:00:06,950
+lernst du, wie du ein passendes
+
+4
+00:00:06,950 --> 00:00:08,910
+Handout zu deiner Präsentation
+
+5
+00:00:08,910 --> 00:00:09,530
+erstellst.
+
+6
+00:00:13,700 --> 00:00:16,920
+In Modul 2 und 3 hast du deine eigene
+
+7
+00:00:16,920 --> 00:00:18,720
+PowerPoint-Präsentation erstellt.
+
+8
+00:00:19,880 --> 00:00:22,040
+Heute lernst du, wie du zu deiner
+
+9
+00:00:22,040 --> 00:00:23,840
+Präsentation ein gutes Handout
+
+10
+00:00:23,840 --> 00:00:27,320
+erstellst. Du lernst mehr über den
+
+11
+00:00:27,320 --> 00:00:30,120
+Aufbau eines Handouts, das Layout,
+
+12
+00:00:30,180 --> 00:00:32,720
+sowie über Tipps für die Gestaltung
+
+13
+00:00:32,720 --> 00:00:34,720
+mit Wörtern. Beginnen
+
+14
+00:00:36,870 --> 00:00:38,470
+wir mit dem Aufbau eines Handouts.
+
+15
+00:00:39,370 --> 00:00:41,770
+Jedes Handout sollte folgendermaßen
+
+16
+00:00:41,770 --> 00:00:44,870
+gegliedert sein. Ganz oben befindet
+
+17
+00:00:44,870 --> 00:00:46,770
+sich eine Kopfzeile mit allgemeinen
+
+18
+00:00:46,770 --> 00:00:50,030
+Informationen. Danach folgt das Thema
+
+19
+00:00:50,030 --> 00:00:53,530
+und eine Themeneinführung. Der
+
+20
+00:00:53,530 --> 00:00:55,390
+Hauptteil nimmt den Großteil des
+
+21
+00:00:55,390 --> 00:00:57,910
+Handouts ein. Er wird durch ein
+
+22
+00:00:57,910 --> 00:00:59,250
+zusammenfassendes Fazit
+
+23
+00:00:59,250 --> 00:01:02,530
+abgeschlossen. Außerdem müssen noch
+
+24
+00:01:02,530 --> 00:01:04,290
+die obligatorischen Quellenangaben
+
+25
+00:01:04,290 --> 00:01:06,190
+eingefügt werden. Um
+
+26
+00:01:10,990 --> 00:01:12,830
+eine Kopfzeile in dein Word-Dokument
+
+27
+00:01:12,830 --> 00:01:15,630
+einzufügen, suche im Menüband den
+
+28
+00:01:15,630 --> 00:01:19,110
+Punkt Einfügen und klicke zunächst
+
+29
+00:01:19,110 --> 00:01:22,470
+auf Kopfzeile und dann auf Lehr.
+
+30
+00:01:26,960 --> 00:01:29,100
+Schreibe in deine Kopfzeile folgende
+
+31
+00:01:29,100 --> 00:01:33,400
+Angaben. Den Namen der Schule, den
+
+32
+00:01:33,400 --> 00:01:35,300
+Namen des Lehrers oder der Lehrerin,
+
+33
+00:01:35,460 --> 00:01:41,020
+deinen eigenen Namen, die Klasse, das
+
+34
+00:01:41,020 --> 00:01:43,440
+Fach sowie das Datum der
+
+35
+00:01:43,440 --> 00:01:46,740
+Präsentation. Wenn du die Kopfzeile
+
+36
+00:01:46,740 --> 00:01:48,960
+später bearbeiten willst, klicke
+
+37
+00:01:48,960 --> 00:01:51,900
+wieder auf Kopfzeile und anschließend
+
+38
+00:01:51,900 --> 00:01:54,060
+weiter unten auf Kopfzeile
+
+39
+00:01:54,060 --> 00:01:55,780
+bearbeiten. Hier
+
+40
+00:02:00,100 --> 00:02:01,500
+siehst du ein Beispiel für die
+
+41
+00:02:01,500 --> 00:02:04,080
+Kopfzeile. Alle Angaben sind
+
+42
+00:02:04,080 --> 00:02:05,160
+vollständig enthalten.
+
+43
+00:02:11,840 --> 00:02:13,740
+Beginne nach der Kopfzeile mit dem
+
+44
+00:02:13,740 --> 00:02:15,880
+Thema und gegebenenfalls einem
+
+45
+00:02:15,880 --> 00:02:19,540
+einleitenden Satz oder Slogan. Hier
+
+46
+00:02:19,540 --> 00:02:20,920
+siehst du wieder ein Beispiel zum
+
+47
+00:02:20,920 --> 00:02:22,600
+Thema Honig, Herstellung,
+
+48
+00:02:22,720 --> 00:02:24,340
+Inhaltsstoffe und Verwendung.
+
+49
+00:02:26,850 --> 00:02:28,810
+Verwende für das Thema eine größere
+
+50
+00:02:28,810 --> 00:02:30,410
+Schriftart als für den Rest des
+
+51
+00:02:30,410 --> 00:02:32,590
+Handouts und markiere es fett.
+
+52
+00:02:37,540 --> 00:02:38,980
+Kommen wir zum Hauptteil.
+
+53
+00:02:40,740 --> 00:02:42,300
+Untergliedere den Hauptteil mit Hilfe
+
+54
+00:02:42,300 --> 00:02:43,700
+von und Zwischenüberschriften.
+
+55
+00:02:45,040 --> 00:02:46,780
+Orientiere dich an deinem Vortrag,
+
+56
+00:02:46,800 --> 00:02:48,600
+sodass ein roter Faden zu erkennen
+
+57
+00:02:48,600 --> 00:02:52,280
+ist. Auch hier gilt wieder, weniger
+
+58
+00:02:52,280 --> 00:02:54,480
+ist mehr. Schreibe nur die
+
+59
+00:02:54,480 --> 00:02:56,080
+wesentlichen Punkte in das Handout
+
+60
+00:02:56,080 --> 00:02:57,840
+und gehe nicht zu sehr ins Detail.
+
+61
+00:02:59,060 --> 00:03:00,940
+Benutze Abkürzungen und auch
+
+62
+00:03:00,940 --> 00:03:05,980
+Stichpunkte statt ganze Sätze. Hier
+
+63
+00:03:05,980 --> 00:03:07,360
+siehst du ein Beispiel für den
+
+64
+00:03:07,360 --> 00:03:09,640
+Hauptteil. Mache durch
+
+65
+00:03:09,640 --> 00:03:11,800
+Unterstreichungen oder fette Schrift
+
+66
+00:03:11,800 --> 00:03:14,380
+deutlich, was deine Überschriften und
+
+67
+00:03:14,380 --> 00:03:15,600
+Zwischenüberschriften sind.
+
+68
+00:03:20,440 --> 00:03:22,460
+Schreibe nach dem Hauptteil eine
+
+69
+00:03:22,460 --> 00:03:24,760
+kurze Zusammenfassung oder ein Fazit.
+
+70
+00:03:25,260 --> 00:03:28,800
+Hier gilt, halte dich kurz, nicht
+
+71
+00:03:28,800 --> 00:03:31,900
+mehr als ein bis zwei Sätze. Schreibe
+
+72
+00:03:31,900 --> 00:03:33,860
+außerdem keine komplizierten Sätze.
+
+73
+00:03:34,840 --> 00:03:37,180
+Nur das Wichtigste sollte verwendet
+
+74
+00:03:37,180 --> 00:03:40,200
+werden. Solltest du noch Platz auf
+
+75
+00:03:40,200 --> 00:03:42,020
+deinem Handout haben, kannst du einen
+
+76
+00:03:42,020 --> 00:03:43,680
+Notizbereich für den Zuhörer
+
+77
+00:03:43,680 --> 00:03:44,140
+erstellen.
+
+78
+00:03:49,000 --> 00:03:51,480
+Am Ende des Sendouts solltest du
+
+79
+00:03:51,480 --> 00:03:53,120
+deine verwendeten Quellen angeben.
+
+80
+00:03:54,260 --> 00:03:56,720
+Verwende dazu die Fußzeile im
+
+81
+00:03:56,720 --> 00:03:58,120
+Untermenü Einfügen.
+
+82
+00:04:03,480 --> 00:04:05,880
+Füge eine leere Fußzeile ein und
+
+83
+00:04:05,880 --> 00:04:06,900
+erstelle darin dein
+
+84
+00:04:06,900 --> 00:04:10,180
+Literaturverzeichnis. Achte dabei auf
+
+85
+00:04:10,180 --> 00:04:12,720
+richtiges Zitieren. Dies hast du ja
+
+86
+00:04:12,720 --> 00:04:15,280
+bereits im Modul 1 gelernt. Hier
+
+87
+00:04:18,740 --> 00:04:20,560
+siehst du noch ein Beispiel für deine
+
+88
+00:04:20,560 --> 00:04:21,460
+Quellenangaben.
+
+89
+00:04:26,950 --> 00:04:29,730
+Dein fertiges Sendout sollte dann in
+
+90
+00:04:29,730 --> 00:04:30,710
+etwa so aussehen.
+
+91
+00:04:35,550 --> 00:04:37,310
+Du hast heute gelernt, wie man ein
+
+92
+00:04:37,310 --> 00:04:40,650
+gutes Handout erstellt. Im Modul 5
+
+93
+00:04:40,650 --> 00:04:42,390
+erhältst du Tipps, die dir beim
+
+94
+00:04:42,390 --> 00:04:45,030
+Vortrag helfen können. Wie
+
+95
+00:04:45,030 --> 00:04:47,630
+präsentiere ich richtig? Wie nutze
+
+96
+00:04:47,630 --> 00:04:50,130
+ich die Kommentarfunktion? Wie
+
+97
+00:04:50,130 --> 00:04:51,290
+schreibe ich mir hilfreiche
+
+98
+00:04:51,290 --> 00:04:55,800
+Karteikarten? Ich bedanke mich für
+
+99
+00:04:55,800 --> 00:04:57,940
+deine Aufmerksamkeit und wünsche dir
+
+100
+00:04:57,940 --> 00:04:59,680
+viel Erfolg beim Erstellen deines
+
+101
+00:04:59,680 --> 00:05:00,100
+Handouts.
+

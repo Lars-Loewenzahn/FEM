@@ -1,0 +1,664 @@
+1
+00:00:03,950 --> 00:00:06,090
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,090 --> 00:00:07,210
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,210 --> 00:00:09,150
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,150 --> 00:00:10,950
+gerne etwas zum Thema Ernährung und
+
+5
+00:00:10,950 --> 00:00:13,250
+Enzyme erklären. In unserem Körper
+
+6
+00:00:13,250 --> 00:00:15,270
+laufen zu jedem Zeitpunkt unzählig
+
+7
+00:00:15,270 --> 00:00:16,750
+viele verschiedene biochemische
+
+8
+00:00:16,750 --> 00:00:18,770
+Prozesse ab. Die meisten dieser
+
+9
+00:00:18,770 --> 00:00:20,230
+Prozesse befassen sich mit dem
+
+10
+00:00:20,230 --> 00:00:22,070
+Umwandeln eines Moleküls in ein
+
+11
+00:00:22,070 --> 00:00:24,090
+anderes. Ein prominentes Beispiel
+
+12
+00:00:24,090 --> 00:00:25,790
+dafür ist der Magen. Eine
+
+13
+00:00:25,790 --> 00:00:27,090
+Kernkomponente dieser
+
+14
+00:00:27,090 --> 00:00:29,190
+Umwandlungsprozesse sind Enzyme.
+
+15
+00:00:29,190 --> 00:00:31,470
+Enzyme sind Proteine und damit
+
+16
+00:00:31,470 --> 00:00:34,170
+organische Makromoleküle. Ihr Name
+
+17
+00:00:34,170 --> 00:00:36,750
+endet meistens auf die Silbe "-ase",
+
+18
+00:00:36,750 --> 00:00:41,170
+zum Beispiel in Transferase. Enzyme
+
+19
+00:00:41,170 --> 00:00:43,290
+besitzen ein sogenanntes aktives
+
+20
+00:00:43,290 --> 00:00:45,370
+Zentrum, an welchem das Substrat,
+
+21
+00:00:45,390 --> 00:00:47,210
+also der umzuwandelnde Stoff,
+
+22
+00:00:47,230 --> 00:00:50,030
+gebunden wird. Wichtig zu wissen ist,
+
+23
+00:00:50,150 --> 00:00:52,610
+dass Enzyme sehr spezifische, also
+
+24
+00:00:52,610 --> 00:00:55,970
+substratspezifisch, sind. sind. Das
+
+25
+00:00:55,970 --> 00:00:58,170
+heißt, sie binden nur ein bestimmtes
+
+26
+00:00:58,170 --> 00:01:00,810
+Substrat an ihr aktives Zentrum. Dies
+
+27
+00:01:00,810 --> 00:01:02,270
+funktioniert nach dem Schlüssel
+
+28
+00:01:02,270 --> 00:01:04,250
+-Schloss-Prinzip. Nur bestimmte
+
+29
+00:01:04,250 --> 00:01:05,790
+Stoffe passen in ein bestimmtes
+
+30
+00:01:05,790 --> 00:01:08,610
+Protein und umgekehrt. Die Funktion
+
+31
+00:01:08,610 --> 00:01:10,630
+von Enzymen ist vielfältig und
+
+32
+00:01:10,630 --> 00:01:12,630
+abhängig von dem Prozess, in den sie
+
+33
+00:01:12,630 --> 00:01:15,010
+involviert sind. Als Beispiel
+
+34
+00:01:15,010 --> 00:01:16,390
+betrachten wir die Funktion der
+
+35
+00:01:16,390 --> 00:01:19,330
+Enzyme im Magen, Blut und Speichel
+
+36
+00:01:19,330 --> 00:01:21,590
+näher. Im Magen finden sich
+
+37
+00:01:21,590 --> 00:01:25,230
+hauptsächlich das Enzym Pepsin. Die
+
+38
+00:01:25,230 --> 00:01:27,130
+Vorstufe Pepsinogen wird von der
+
+39
+00:01:27,130 --> 00:01:29,250
+Magenschleimhaut produziert. Beim
+
+40
+00:01:29,250 --> 00:01:31,410
+Kontakt mit dem geringen pH-Wert der
+
+41
+00:01:31,410 --> 00:01:33,470
+Magensäure wird das Pepsinogen in
+
+42
+00:01:33,470 --> 00:01:36,290
+Pepsin umgewandelt. Dadurch wird
+
+43
+00:01:36,290 --> 00:01:37,770
+verhindert, dass das Pepsin bereits
+
+44
+00:01:37,770 --> 00:01:39,570
+im Körper aktiv wird und
+
+45
+00:01:39,570 --> 00:01:41,590
+unkontrolliert eigene Zellen verdaut.
+
+46
+00:01:42,390 --> 00:01:44,270
+Pepsin spaltet Proteine in
+
+47
+00:01:44,270 --> 00:01:46,510
+Aminosäuren. Dabei benötigt es
+
+48
+00:01:46,510 --> 00:01:48,630
+Chlorid als Kofaktor. Das heißt,
+
+49
+00:01:48,710 --> 00:01:50,670
+beide Stoffe, Pepsin und Chlorid,
+
+50
+00:01:50,670 --> 00:01:52,350
+müssen vorhanden sein, damit die
+
+51
+00:01:52,350 --> 00:01:55,030
+Reaktion ablaufen kann. Schauen wir
+
+52
+00:01:55,030 --> 00:01:57,090
+uns als nächstes Enzyme im Blut an.
+
+53
+00:01:57,450 --> 00:01:59,070
+Enzyme können sich aus zwei
+
+54
+00:01:59,070 --> 00:02:00,490
+verschiedenen Gründen im Blut
+
+55
+00:02:00,490 --> 00:02:02,730
+befinden. Zum einen werden viele
+
+56
+00:02:02,730 --> 00:02:04,750
+Enzyme durch das Blut transportiert
+
+57
+00:02:04,750 --> 00:02:06,730
+und zum anderen arbeiten einige
+
+58
+00:02:06,730 --> 00:02:09,750
+Enzyme im Blut. Die im Blut aktiven
+
+59
+00:02:09,750 --> 00:02:11,790
+Enzyme sind an der Blutgerinnung und
+
+60
+00:02:11,790 --> 00:02:13,710
+am Fett- und Cholesterinstoffwechsel
+
+61
+00:02:13,710 --> 00:02:17,530
+beteiligt. Weiter zum Mund. Täglich
+
+62
+00:02:17,530 --> 00:02:20,510
+werden ca. 1 bis 1,5 Liter Speichel
+
+63
+00:02:20,510 --> 00:02:22,790
+vom Körper produziert. Speichel
+
+64
+00:02:22,790 --> 00:02:25,610
+enthält das Enzym Amylase. Dieses
+
+65
+00:02:25,610 --> 00:02:27,410
+zersetzt Mehrfachzucker in
+
+66
+00:02:27,410 --> 00:02:30,410
+Einfachzuckermoleküle, also Glucose.
+
+67
+00:02:31,270 --> 00:02:33,110
+Somit findet der erste Schritt der
+
+68
+00:02:33,110 --> 00:02:34,550
+Verdauung bereits im Mund statt.
+
+69
+00:02:34,550 --> 00:02:37,010
+statt. Wir sehen, dass Enzyme
+
+70
+00:02:37,010 --> 00:02:38,470
+verschiedene Funktionen erfüllen
+
+71
+00:02:38,470 --> 00:02:40,090
+können. Über die bereits
+
+72
+00:02:40,090 --> 00:02:42,230
+beschriebenen hinaus können Enzyme
+
+73
+00:02:42,230 --> 00:02:44,970
+als Biokatalysatoren fungieren, d.h.
+
+74
+00:02:45,150 --> 00:02:46,850
+sie beschleunigen eine bestimmte
+
+75
+00:02:46,850 --> 00:02:49,310
+chemische Reaktion im Körper, indem
+
+76
+00:02:49,310 --> 00:02:51,110
+sie die Aktivierungsenergie eines
+
+77
+00:02:51,110 --> 00:02:52,790
+bestimmten chemischen Prozesses
+
+78
+00:02:52,790 --> 00:02:55,310
+verringern. Das Besondere bei den
+
+79
+00:02:55,310 --> 00:02:57,150
+Enzymen ist, dass sie aus der
+
+80
+00:02:57,150 --> 00:02:59,270
+katalysierten Reaktionen unverändert
+
+81
+00:02:59,270 --> 00:03:00,890
+hervorgehen und direkt wieder
+
+82
+00:03:00,890 --> 00:03:03,810
+einsatzbereit sind. Enzyme werden je
+
+83
+00:03:03,810 --> 00:03:05,270
+nach Funktion unterschiedlich
+
+84
+00:03:05,270 --> 00:03:07,010
+genannt. Die funktionellen
+
+85
+00:03:07,010 --> 00:03:10,230
+Hauptgruppen sind Oxido-Reduktasen,
+
+86
+00:03:10,330 --> 00:03:13,750
+Transferasen, Hydrolasen, Lyasen,
+
+87
+00:03:13,890 --> 00:03:17,850
+Isomerasen und Ligasen. Nachdem wir
+
+88
+00:03:17,850 --> 00:03:19,550
+uns einige Funktionen von Enzymen
+
+89
+00:03:19,550 --> 00:03:21,430
+näher angeschaut haben, betrachten
+
+90
+00:03:21,430 --> 00:03:22,550
+wir im nächsten Schritt die
+
+91
+00:03:22,550 --> 00:03:24,230
+verschiedenen Arten von Enzymen.
+
+92
+00:03:24,230 --> 00:03:26,890
+Bereits bei Pepsin haben wir gelernt,
+
+93
+00:03:26,990 --> 00:03:29,070
+dass es Enzyme gibt, welche nur unter
+
+94
+00:03:29,070 --> 00:03:30,830
+Anwesenheit eines Kofaktors
+
+95
+00:03:30,830 --> 00:03:33,030
+funktionieren. Dagegen gibt es auch
+
+96
+00:03:33,030 --> 00:03:35,670
+Enzyme, welche ohne einen Kofaktor
+
+97
+00:03:35,670 --> 00:03:37,450
+arbeiten. Diese Enzyme werden
+
+98
+00:03:37,450 --> 00:03:40,290
+Proteinenzyme genannt. Neben der
+
+99
+00:03:40,290 --> 00:03:42,310
+Anwesenheit eines Koenzyms gibt es
+
+100
+00:03:42,310 --> 00:03:43,970
+noch weitere Faktoren, welche die
+
+101
+00:03:43,970 --> 00:03:46,670
+Enzymaktivität beeinflussen. Zu
+
+102
+00:03:46,670 --> 00:03:48,910
+diesen gehören die Temperatur, die
+
+103
+00:03:48,910 --> 00:03:51,410
+Substratkonzentration, also wie viel
+
+104
+00:03:51,410 --> 00:03:53,490
+von dem umzusetzenden Stoff vorhanden
+
+105
+00:03:53,490 --> 00:03:56,590
+ist, der pH-Wert und die Anwesenheit
+
+106
+00:03:56,590 --> 00:03:59,410
+von Giftstoffen. Zudem ist die RGT
+
+107
+00:03:59,410 --> 00:04:00,950
+-Regel, also die
+
+108
+00:04:00,950 --> 00:04:02,310
+Reaktionsgeschwindigkeit
+
+109
+00:04:02,310 --> 00:04:04,710
+-Temperaturregel, von Bedeutung.
+
+110
+00:04:04,790 --> 00:04:07,190
+Demnach verdoppelt bis verdreifacht
+
+111
+00:04:07,190 --> 00:04:08,990
+sich die Reaktionsgeschwindigkeit bei
+
+112
+00:04:08,990 --> 00:04:11,230
+einer Temperaturerhöhung um 10 Grad.
+
+113
+00:04:11,230 --> 00:04:13,850
+Weitere Einflussfaktoren auf die
+
+114
+00:04:13,850 --> 00:04:16,010
+Enzymaktivität stellt die kompetitive
+
+115
+00:04:16,010 --> 00:04:19,590
+und allosterische Hemmung dar. Bei
+
+116
+00:04:19,590 --> 00:04:21,410
+der allosterischen Hemmung bindet der
+
+117
+00:04:21,410 --> 00:04:23,170
+Hemmstoff an das allosterische
+
+118
+00:04:23,170 --> 00:04:25,650
+Zentrum des Enzyms. Dadurch wird die
+
+119
+00:04:25,650 --> 00:04:27,550
+Effizienz des Enzyms vermindert.
+
+120
+00:04:28,090 --> 00:04:29,730
+Übrigens gibt es neben der
+
+121
+00:04:29,730 --> 00:04:31,330
+allosterischen Hemmung auch eine
+
+122
+00:04:31,330 --> 00:04:33,650
+kompetitive Hemmung. Dabei wird durch
+
+123
+00:04:33,650 --> 00:04:35,690
+einen, dem Zielsubstrat chemisch
+
+124
+00:04:35,690 --> 00:04:37,850
+ähnlichen Stoff, das aktive Zentrum
+
+125
+00:04:37,850 --> 00:04:40,210
+blockiert. Dabei entsteht ein
+
+126
+00:04:40,210 --> 00:04:42,550
+Enzymhemmstoffkomplex im Gegensatz
+
+127
+00:04:42,550 --> 00:04:45,750
+zum Enzymsubstratkomplex. Dadurch
+
+128
+00:04:45,750 --> 00:04:47,550
+verändert das Enzym seine Struktur.
+
+129
+00:04:48,070 --> 00:04:50,010
+Genauer gesagt, es ist eine
+
+130
+00:04:50,010 --> 00:04:51,750
+Veränderung der dreidimensionalen
+
+131
+00:04:51,750 --> 00:04:54,450
+Struktur des Enzyms. Dadurch passt
+
+132
+00:04:54,450 --> 00:04:56,370
+das Substrat nicht mehr an das aktive
+
+133
+00:04:56,370 --> 00:04:58,290
+Zentrum des Enzyms und kann deshalb
+
+134
+00:04:58,290 --> 00:05:00,770
+nicht umgesetzt werden. Je nach
+
+135
+00:05:00,770 --> 00:05:02,710
+Mengenverhältnis kann der Umsatz des
+
+136
+00:05:02,710 --> 00:05:04,570
+eigentlichen Zielsubstrats dadurch
+
+137
+00:05:04,570 --> 00:05:06,430
+verlangsamt bis verhindert werden.
+
+138
+00:05:06,750 --> 00:05:08,890
+Aber durch eine Erhöhung der
+
+139
+00:05:08,890 --> 00:05:10,610
+Substratkonzentration kann die
+
+140
+00:05:10,610 --> 00:05:12,390
+kompetitive Hemmung aufgehoben
+
+141
+00:05:12,390 --> 00:05:14,070
+werden, da das Enzym wahrscheinlich
+
+142
+00:05:14,070 --> 00:05:17,330
+eher ein Substratmolekül trifft als
+
+143
+00:05:17,330 --> 00:05:19,330
+ein Inhibitor, also Hemmstoff.
+
+144
+00:05:19,990 --> 00:05:21,790
+Zusätzlich können gebundene
+
+145
+00:05:21,790 --> 00:05:23,850
+Inhibitoren wieder aus dem aktiven
+
+146
+00:05:23,850 --> 00:05:26,230
+Zentrum verdrängt werden, damit ist
+
+147
+00:05:26,230 --> 00:05:27,690
+die kompetitive Hemmung eine
+
+148
+00:05:27,690 --> 00:05:30,110
+reversible Hemmung. Hemmung. Wir
+
+149
+00:05:30,110 --> 00:05:32,530
+halten fest, die Funktion von Enzymen
+
+150
+00:05:32,530 --> 00:05:33,370
+ist für uns Menschen
+
+151
+00:05:33,370 --> 00:05:35,050
+überlebenswichtig und sie übernehmen
+
+152
+00:05:35,050 --> 00:05:37,390
+viele wichtige Aufgaben im Organismus
+
+153
+00:05:37,390 --> 00:05:39,710
+des Menschen. Das Problem ist aber,
+
+154
+00:05:39,810 --> 00:05:41,450
+Enzyme sind nur begrenzt
+
+155
+00:05:41,450 --> 00:05:43,750
+hitzebeständig, bei über 40 Grad
+
+156
+00:05:43,750 --> 00:05:46,890
+zerfallen, also denaturieren sie. Das
+
+157
+00:05:46,890 --> 00:05:48,830
+ist auch eine der Ursachen, warum wir
+
+158
+00:05:48,830 --> 00:05:50,730
+an sehr hohem Fieber sterben können.
+
+159
+00:05:51,010 --> 00:05:53,290
+Ich hoffe, dass du nun mehr über die
+
+160
+00:05:53,290 --> 00:05:55,210
+Enzyme weißt. Falls du aber noch
+
+161
+00:05:55,210 --> 00:05:56,310
+weitere Fragen Wenn du Fragen hast,
+
+162
+00:05:56,450 --> 00:05:58,450
+kannst du dich gerne bei unserem
+
+163
+00:05:58,450 --> 00:06:00,730
+Online-Lerncenter anmelden oder auch
+
+164
+00:06:00,730 --> 00:06:02,790
+direkt in einer Schülerhilfe vor Ort
+
+165
+00:06:02,790 --> 00:06:05,010
+die Informationen holen. Bis zum
+
+166
+00:06:05,010 --> 00:06:05,530
+nächsten Mal.
+

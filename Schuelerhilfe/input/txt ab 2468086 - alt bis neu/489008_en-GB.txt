@@ -1,0 +1,867 @@
+﻿1
+00:00:00,270 --> 00:00:02,430
+Welcome to the 
+
+2
+00:00:02,430 --> 00:00:04,890
+Schülerhilfe learning videos. In this 
+module, 
+
+3
+00:00:04,890 --> 00:00:06,670
+we will look at how to 
+
+4
+00:00:06,670 --> 00:00:08,770
+work with information and create a 
+
+5
+00:00:08,770 --> 00:00:10,410
+scientific text. 
+
+6
+00:00:11,750 --> 00:00:13,910
+We will deal with the following 
+
+7
+00:00:13,910 --> 00:00:17,490
+points. Language, form and 
+
+8
+00:00:17,490 --> 00:00:19,190
+structure of a scientific 
+
+9
+00:00:19,190 --> 00:00:23,170
+text. The page layout. The 
+
+10
+00:00:23,170 --> 00:00:26,790
+citation style and citation forms. 
+
+11
+00:00:26,790 --> 00:00:30,490
+Sources and footnotes. 
+
+12
+00:00:32,830 --> 00:00:34,890
+Let's get started. How do I write a 
+
+13
+00:00:34,890 --> 00:00:35,870
+scientific text? 
+
+14
+00:00:39,460 --> 00:00:41,140
+Writing scientifically 
+
+15
+00:00:41,140 --> 00:00:45,200
+means writing factually. No feelings, 
+
+16
+00:00:45,200 --> 00:00:48,440
+opinions or evaluations. No 
+
+17
+00:00:48,440 --> 00:00:50,160
+inner actions, i.e. thoughts 
+
+18
+00:00:50,160 --> 00:00:53,660
+or monologues. Use of 
+
+19
+00:00:53,660 --> 00:00:55,460
+indirect rather than literal speech. 
+
+20
+00:00:57,060 --> 00:00:59,340
+A concise but precise description 
+
+21
+00:00:59,340 --> 00:01:03,320
+of things. An objective point of view. 
+
+22
+00:01:03,980 --> 00:01:05,840
+Therefore, you should not 
+
+23
+00:01:05,840 --> 00:01:06,360
+use the first person. 
+
+24
+00:01:10,000 --> 00:01:13,300
+Example Suddenly there was a 
+
+25
+00:01:13,300 --> 00:01:15,960
+loud clatter . Lauri was startled and saw 
+
+26
+00:01:15,960 --> 00:01:17,480
+a 
+
+27
+00:01:17,480 --> 00:01:19,320
+shadow moving slowly towards her in the 
+darkness of the living room 
+
+28
+00:01:19,320 --> 00:01:22,540
+. This sentence belongs in a 
+
+29
+00:01:22,540 --> 00:01:23,160
+narrative. 
+
+30
+00:01:26,110 --> 00:01:28,230
+If you want to give a factual account of 
+this event 
+
+31
+00:01:28,230 --> 00:01:30,210
+, it should read something like 
+
+32
+00:01:30,850 --> 00:01:32,490
+After Lauri heard 
+
+33
+00:01:32,490 --> 00:01:34,850
+the burglar break the window, 
+
+34
+00:01:34,850 --> 00:01:36,630
+she saw him enter the 
+
+35
+00:01:36,630 --> 00:01:37,610
+apartment through the living room. 
+
+36
+00:01:40,130 --> 00:01:42,670
+Form and structure The 
+
+37
+00:01:45,140 --> 00:01:47,000
+
+38
+00:01:47,000 --> 00:01:50,020
+structure of longer academic papers is as 
+follows. The 
+
+39
+00:01:50,020 --> 00:01:52,980
+cover page first contains the topic, first 
+
+40
+00:01:52,980 --> 00:01:55,640
+ and last name of the author, the 
+
+41
+00:01:55,640 --> 00:02:00,860
+date of submission and other information. 
+This is followed by 
+
+42
+00:02:00,860 --> 00:02:02,360
+the obligatory 
+
+43
+00:02:02,360 --> 00:02:05,620
+table of contents. This is usually 
+followed by 
+
+44
+00:02:05,620 --> 00:02:07,340
+further lists such as 
+
+45
+00:02:07,340 --> 00:02:09,300
+
+46
+00:02:09,300 --> 00:02:12,920
+lists of abbreviations, figures or tables. 
+Next 
+
+47
+00:02:12,920 --> 00:02:14,700
+comes the text, i.e. the 
+
+48
+00:02:14,700 --> 00:02:16,040
+main part of the academic 
+
+49
+00:02:16,040 --> 00:02:18,940
+paper. This is followed by the 
+
+50
+00:02:18,940 --> 00:02:21,600
+appendix, the bibliography with 
+
+51
+00:02:21,600 --> 00:02:24,000
+all references and a 
+
+52
+00:02:24,000 --> 00:02:25,900
+declaration in lieu of an oath that the 
+
+53
+00:02:25,900 --> 00:02:27,760
+work was written independently. 
+
+54
+00:02:29,880 --> 00:02:31,980
+In academic texts, there are 
+
+55
+00:02:31,980 --> 00:02:33,780
+generally three sections: 
+
+56
+00:02:33,780 --> 00:02:37,860
+introduction, main body and conclusion 
+with 
+
+57
+00:02:37,860 --> 00:02:41,490
+references. In the 
+
+58
+00:02:41,490 --> 00:02:43,350
+introduction, the approach to 
+
+59
+00:02:43,350 --> 00:02:44,770
+the work and the 
+
+60
+00:02:44,770 --> 00:02:48,150
+problem are explained. The 
+
+61
+00:02:48,150 --> 00:02:49,530
+main part deals with the 
+
+62
+00:02:49,530 --> 00:02:52,750
+presentation of various points. In the 
+
+63
+00:02:52,750 --> 00:02:54,110
+conclusion, 
+
+64
+00:02:54,110 --> 00:02:55,970
+a summary is used to 
+
+65
+00:02:55,970 --> 00:02:57,290
+
+66
+00:02:57,290 --> 00:03:00,090
+draw a mental arc to the problem. There is 
+also space here 
+
+67
+00:03:00,090 --> 00:03:02,270
+for an outlook or a 
+
+68
+00:03:02,270 --> 00:03:06,440
+reflection. Let's take a look at some 
+
+69
+00:03:06,440 --> 00:03:11,390
+tips on page layout. For the 
+
+70
+00:03:11,390 --> 00:03:13,790
+margins, 
+
+71
+00:03:13,790 --> 00:03:18,990
+
+72
+00:03:18,990 --> 00:03:21,710
+leave 3 cm at the top and bottom , 4 cm on 
+the left and 2 cm on the right. Choose a 
+common 
+
+73
+00:03:21,710 --> 00:03:23,930
+font, such as Times 
+
+74
+00:03:23,930 --> 00:03:27,770
+New Roman or Arial. Choose 
+
+75
+00:03:27,770 --> 00:03:29,650
+font size 12, although the 
+
+76
+00:03:29,650 --> 00:03:31,430
+headings 
+
+77
+00:03:31,430 --> 00:03:34,590
+can of course be larger. Format the text 
+in 
+
+78
+00:03:34,590 --> 00:03:36,130
+justified text and use 
+
+79
+00:03:36,130 --> 00:03:39,630
+automatic hyphenation. Choose 1 
+
+80
+00:03:39,630 --> 00:03:43,190
+.5 line spacing. All pages 
+
+81
+00:03:43,190 --> 00:03:45,370
+should be numbered, except for the 
+
+82
+00:03:45,370 --> 00:03:47,890
+cover page. 
+
+83
+00:03:47,890 --> 00:03:49,450
+The cover page should be numbered from 
+page 1. 
+
+84
+00:03:52,320 --> 00:03:53,960
+For longer academic 
+
+85
+00:03:53,960 --> 00:03:56,500
+papers, the cover page should be 
+
+86
+00:03:56,500 --> 00:03:59,640
+numbered without page numbering. The table 
+of contents, 
+
+87
+00:03:59,640 --> 00:04:02,120
+
+88
+00:04:02,120 --> 00:04:04,400
+list of abbreviations, list of figures, 
+appendix and bibliography are numbered 
+using 
+
+89
+00:04:04,400 --> 00:04:07,360
+Roman numerals. The 
+
+90
+00:04:07,360 --> 00:04:09,320
+text and the appendix are 
+
+91
+00:04:09,320 --> 00:04:10,780
+numbered with Arabic numerals. 
+
+92
+00:04:12,240 --> 00:04:15,540
+Citation and citation forms All 
+
+93
+00:04:16,790 --> 00:04:19,810
+thoughts by or references to 
+
+94
+00:04:19,810 --> 00:04:21,130
+other authors must 
+
+95
+00:04:21,130 --> 00:04:23,390
+be identified, i.e. cited. 
+
+96
+00:04:24,710 --> 00:04:26,870
+This serves the verifiability of the 
+
+97
+00:04:26,870 --> 00:04:30,230
+statements made in the text. The 
+
+98
+00:04:30,230 --> 00:04:31,550
+principles of citation 
+
+99
+00:04:32,710 --> 00:04:35,610
+Directness Quotations should always 
+
+100
+00:04:35,610 --> 00:04:36,310
+
+101
+00:04:36,310 --> 00:04:37,450
+be based on the originality of the 
+statements. Be taken from. 
+
+102
+00:04:39,150 --> 00:04:41,550
+Appropriateness. Quotations should only 
+
+103
+00:04:41,550 --> 00:04:43,290
+contain what the author 
+
+104
+00:04:43,290 --> 00:04:47,250
+wishes to substantiate. Accuracy. 
+
+105
+00:04:47,250 --> 00:04:49,190
+References should be sufficient 
+
+106
+00:04:49,190 --> 00:04:51,050
+and clearly identified 
+
+107
+00:04:51,050 --> 00:04:51,270
+. 
+
+108
+00:04:54,120 --> 00:04:56,460
+A bibliography at the end of the 
+
+109
+00:04:56,460 --> 00:04:59,960
+text is obligatory. Short references 
+
+110
+00:04:59,960 --> 00:05:02,680
+in the text or in a footnote should 
+
+111
+00:05:02,680 --> 00:05:04,540
+be written in font size 10 and 
+
+112
+00:05:04,720 --> 00:05:07,960
+should include the author's name, the 
+
+113
+00:05:07,960 --> 00:05:09,940
+year of publication and the page number 
+
+114
+00:05:09,940 --> 00:05:13,360
+. Each short reference must 
+
+115
+00:05:13,360 --> 00:05:15,260
+
+116
+00:05:15,260 --> 00:05:18,680
+appear as a full reference in the 
+bibliography . The references belong 
+directly 
+
+117
+00:05:18,680 --> 00:05:21,260
+after the citation or at the end of the 
+
+118
+00:05:21,260 --> 00:05:24,520
+sentence. And the first time 
+
+119
+00:05:24,520 --> 00:05:26,020
+a source is cited , the complete 
+
+120
+00:05:26,020 --> 00:05:27,940
+source information must be given. 
+
+121
+00:05:28,360 --> 00:05:30,940
+The 
+
+122
+00:05:30,940 --> 00:05:35,290
+abbreviated reference may only be used for 
+subsequent citations . In a 
+
+123
+00:05:35,290 --> 00:05:38,070
+literal or direct quotation 
+
+124
+00:05:38,070 --> 00:05:40,610
+, sentences, parts of sentences, terms 
+
+125
+00:05:40,610 --> 00:05:43,050
+or definitions are taken over in their 
+wording 
+
+126
+00:05:43,050 --> 00:05:45,230
+. It must 
+
+127
+00:05:45,230 --> 00:05:47,950
+be placed in quotation marks. And 
+
+128
+00:05:47,950 --> 00:05:49,390
+it must 
+
+129
+00:05:49,390 --> 00:05:52,790
+correspond to the original text. Omissions 
+from quotations 
+
+130
+00:05:52,790 --> 00:05:54,490
+
+131
+00:05:54,490 --> 00:05:56,510
+are indicated by square brackets and three 
+dots. 
+
+132
+00:05:57,810 --> 00:05:59,250
+Breaks in quotations are indicated by 
+three 
+
+133
+00:05:59,250 --> 00:06:02,830
+dots. Quotation extensions can be placed 
+in 
+
+134
+00:06:02,830 --> 00:06:05,090
+brackets and marked with an 
+
+135
+00:06:05,090 --> 00:06:06,910
+author's note. 
+
+136
+00:06:08,110 --> 00:06:10,710
+
+137
+00:06:10,710 --> 00:06:12,750
+Single quotation marks are used for 
+quotation within quotations 
+
+138
+00:06:12,750 --> 00:06:13,330
+. 
+
+139
+00:06:15,900 --> 00:06:18,320
+An indirect quotation 
+
+140
+00:06:18,320 --> 00:06:20,800
+is an adoption of ideas or 
+
+141
+00:06:20,800 --> 00:06:24,500
+a reference to other authors. It is 
+
+142
+00:06:24,500 --> 00:06:26,580
+indicated by the addition of comparisons 
+
+143
+00:06:26,580 --> 00:06:29,500
+. 
+
+144
+00:06:29,500 --> 00:06:30,960
+Care must be taken to ensure that the 
+scope of the 
+
+145
+00:06:30,960 --> 00:06:33,060
+analogous adoption is clear. 
+
+146
+00:06:35,620 --> 00:06:40,450
+References The bibliography 
+
+147
+00:06:41,230 --> 00:06:42,370
+is a 
+
+148
+00:06:42,370 --> 00:06:44,350
+list of all 
+
+149
+00:06:44,350 --> 00:06:47,070
+sources cited in the text. It is 
+irrelevant whether the 
+
+150
+00:06:47,070 --> 00:06:48,950
+sources 
+
+151
+00:06:48,950 --> 00:06:51,450
+were cited directly or indirectly. The 
+bibliography 
+
+152
+00:06:52,150 --> 00:06:53,930
+belongs at the end of 
+
+153
+00:06:53,930 --> 00:06:57,510
+the text or paper. 
+
+154
+00:06:57,510 --> 00:06:59,590
+They are sorted alphabetically according 
+
+155
+00:06:59,590 --> 00:07:03,030
+to the author's surname. If you 
+
+156
+00:07:03,030 --> 00:07:04,670
+
+157
+00:07:04,670 --> 00:07:07,490
+use sources without constitutional 
+references , use the abbreviation O. 
+
+158
+00:07:12,410 --> 00:07:14,790
+For internet sources, first state 
+
+159
+00:07:14,790 --> 00:07:16,550
+the 
+
+160
+00:07:16,550 --> 00:07:18,930
+author 's surname and first name or the 
+publishing 
+
+161
+00:07:18,930 --> 00:07:22,190
+organization. A colon 
+
+162
+00:07:22,190 --> 00:07:23,570
+is followed by the title and the 
+
+163
+00:07:23,570 --> 00:07:25,570
+subtitle, including the spelling. 
+
+164
+00:07:26,550 --> 00:07:28,950
+This is followed by the year of 
+publication 
+
+165
+00:07:28,950 --> 00:07:30,750
+and the address of the website, 
+
+166
+00:07:30,790 --> 00:07:34,070
+i.e. the URL. Finally 
+
+167
+00:07:34,070 --> 00:07:35,750
+, it is important to 
+
+168
+00:07:35,750 --> 00:07:39,370
+state the date of publication. If no 
+author 
+
+169
+00:07:39,370 --> 00:07:41,550
+can be specified , use the address of the 
+
+170
+00:07:41,550 --> 00:07:43,950
+website and the query date, as shown 
+
+171
+00:07:43,970 --> 00:07:45,790
+in this example. 
+
+172
+00:07:49,670 --> 00:07:51,510
+A monograph, i.e. a 
+
+173
+00:07:51,510 --> 00:07:53,250
+scientific treatise, 
+
+174
+00:07:53,250 --> 00:07:56,910
+is cited as follows. Author's surname and 
+
+175
+00:07:56,910 --> 00:08:01,070
+first name Title and subtitle 
+
+176
+00:08:01,070 --> 00:08:04,350
+, including typeface If applicable, the 
+
+177
+00:08:04,350 --> 00:08:09,090
+edition The place of publication, the 
+publisher 
+
+178
+00:08:09,090 --> 00:08:11,250
+and the year of publication. 
+
+179
+00:08:15,330 --> 00:08:16,890
+Journals are 
+
+180
+00:08:16,890 --> 00:08:20,470
+cited slightly differently. Author's name 
+and 
+
+181
+00:08:20,470 --> 00:08:23,850
+first name, colon, title of the 
+
+182
+00:08:23,850 --> 00:08:26,150
+article and subtitle in inclusive 
+
+183
+00:08:26,150 --> 00:08:29,330
+font, in colon, 
+
+184
+00:08:29,390 --> 00:08:33,490
+journal title, issue 
+
+185
+00:08:33,490 --> 00:08:36,650
+- year of publication and the 
+
+186
+00:08:36,650 --> 00:08:38,390
+page number. 
+
+187
+00:08:43,000 --> 00:08:44,640
+Finally, a few brief notes 
+
+188
+00:08:44,640 --> 00:08:49,770
+on the subject of lectures. Footnotes 
+
+189
+00:08:49,770 --> 00:08:52,210
+can be used well for short references and 
+
+190
+00:08:52,210 --> 00:08:54,410
+for additional information or 
+
+191
+00:08:55,190 --> 00:08:56,770
+marginal notes by the author. 
+
+192
+00:08:58,470 --> 00:08:59,670
+Footnotes help with 
+
+193
+00:08:59,670 --> 00:09:02,110
+clarity. 
+
+194
+00:09:02,110 --> 00:09:04,190
+They begin with a capital letter and end 
+
+195
+00:09:04,190 --> 00:09:07,210
+with a period. 
+
+196
+00:09:07,210 --> 00:09:09,110
+They are written in font size 10 and are 
+
+197
+00:09:09,110 --> 00:09:11,730
+
+198
+00:09:11,730 --> 00:09:15,410
+separated from the rest of the text by a 
+horizontal line. It is best to use the 
+
+199
+00:09:15,410 --> 00:09:16,950
+functions in your text farewell. 
+
+200
+00:09:16,970 --> 00:09:17,730
+administration program. 
+
+201
+00:09:20,470 --> 00:09:22,870
+Here are some examples of 
+
+202
+00:09:22,870 --> 00:09:26,350
+footnotes. The superscripts 
+
+203
+00:09:26,450 --> 00:09:28,450
+indicate that a footnote 
+
+204
+00:09:28,450 --> 00:09:33,100
+exists for this quotation . Below the body 
+text, 
+
+205
+00:09:33,100 --> 00:09:34,840
+the corresponding footnotes are indicated 
+as 
+
+206
+00:09:34,840 --> 00:09:37,140
+short references and 
+
+207
+00:09:37,140 --> 00:09:39,600
+separated from the text by a horizontal 
+line. 
+
+208
+00:09:39,820 --> 00:09:43,740
+Thank you for your attention 
+
+209
+00:09:43,740 --> 00:09:45,740
+and good luck working with 
+
+210
+00:09:45,740 --> 00:09:46,160
+information. 

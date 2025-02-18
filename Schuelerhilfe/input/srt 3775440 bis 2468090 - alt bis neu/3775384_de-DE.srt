@@ -1,0 +1,436 @@
+1
+00:00:04,080 --> 00:00:06,540
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,540 --> 00:00:07,580
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,580 --> 00:00:09,500
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,500 --> 00:00:11,300
+etwas über den pH-Wert und dessen
+
+5
+00:00:11,300 --> 00:00:13,440
+Indikatoren erklären. In unserem
+
+6
+00:00:13,440 --> 00:00:15,120
+Online-Lerncenter steht dir zu diesem
+
+7
+00:00:15,120 --> 00:00:16,840
+Thema natürlich auch ein Wiki zur
+
+8
+00:00:16,840 --> 00:00:18,000
+Verfügung, in dem dir die
+
+9
+00:00:18,000 --> 00:00:19,680
+grundlegenden und wichtigen Begriffe
+
+10
+00:00:19,680 --> 00:00:22,300
+genauer erklärt werden. Auch im
+
+11
+00:00:22,300 --> 00:00:24,700
+Alltag begegnet dir der pH-Wert. Er
+
+12
+00:00:24,700 --> 00:00:26,360
+ist beispielsweise überlebenswichtig
+
+13
+00:00:26,360 --> 00:00:28,240
+für Aquariumsbewohner und Pflanzen.
+
+14
+00:00:28,880 --> 00:00:30,820
+Anfangen möchte ich mit der pH-Skala.
+
+15
+00:00:31,000 --> 00:00:33,660
+Sie beginnt beim Wert 0 und endet mit
+
+16
+00:00:33,660 --> 00:00:36,360
+dem Wert 14. Sie wird oft mit einem
+
+17
+00:00:36,360 --> 00:00:40,440
+Farbschema wie diesem kombiniert. Die
+
+18
+00:00:40,440 --> 00:00:42,200
+Skala unterteilt sich in den sauren
+
+19
+00:00:42,200 --> 00:00:45,040
+Bereich, dieser geht von pH 0 bis pH
+
+20
+00:00:45,040 --> 00:00:49,760
+6, den neutralen Bereich bei pH 7 und
+
+21
+00:00:49,760 --> 00:00:52,280
+den alkalischen Bereich, der von pH 8
+
+22
+00:00:52,280 --> 00:00:54,920
+bis pH 14 reicht. Der alkalische
+
+23
+00:00:54,920 --> 00:00:56,640
+Bereich wird auch als basischer
+
+24
+00:00:56,640 --> 00:00:59,120
+Bereich besetzt. bezeichnet. Doch auf
+
+25
+00:00:59,120 --> 00:01:01,120
+welcher Grundlage wird der pH-Wert
+
+26
+00:01:01,120 --> 00:01:03,720
+denn bestimmt? Wenn Stoffe sich in
+
+27
+00:01:03,720 --> 00:01:05,840
+Wasser lösen, entstehen entweder H3O
+
+28
+00:01:05,840 --> 00:01:10,260
+-Ionen oder OH-Ionen. Der pH-Wert
+
+29
+00:01:10,260 --> 00:01:12,380
+basiert auf der Konzentration der H3O
+
+30
+00:01:12,380 --> 00:01:15,320
+-Ionen. Um handhabbare Zahlenwerte
+
+31
+00:01:15,320 --> 00:01:17,100
+für die Konzentration der Protonen zu
+
+32
+00:01:17,100 --> 00:01:19,280
+erhalten, wurde der pH-Wert als
+
+33
+00:01:19,280 --> 00:01:21,620
+negativer dekadischer Logarithmus der
+
+34
+00:01:21,620 --> 00:01:23,780
+Konzentration der Protonen definiert.
+
+35
+00:01:25,460 --> 00:01:27,320
+Mathematisch wird damit der hier
+
+36
+00:01:27,320 --> 00:01:30,140
+abgebildeten Formel pH ist gleich
+
+37
+00:01:30,140 --> 00:01:34,120
+negativer Logarithmus C aus H3O
+
+38
+00:01:34,120 --> 00:01:38,180
+positiv berechnet. Er ist demnach der
+
+39
+00:01:38,180 --> 00:01:40,440
+negative dekadische Logarithmus der
+
+40
+00:01:40,440 --> 00:01:44,460
+Konzentration der H3O plus Ion. Dabei
+
+41
+00:01:44,460 --> 00:01:45,740
+ist zu beachten, dass die
+
+42
+00:01:45,740 --> 00:01:47,580
+Konzentration auf 1 Mol je Liter
+
+43
+00:01:47,580 --> 00:01:51,280
+normiert, also festgelegt wird. Was
+
+44
+00:01:51,280 --> 00:01:53,880
+bedeutet das für unsere Skala? Im
+
+45
+00:01:53,880 --> 00:01:56,520
+sauren Bereich herrschen höhere H3O
+
+46
+00:01:56,520 --> 00:01:58,940
+-Plus-Konzentrationen vor. Je kleiner
+
+47
+00:01:58,940 --> 00:02:00,840
+der pH-Wert, desto höher die
+
+48
+00:02:00,840 --> 00:02:03,380
+Konzentration. Je weiter man sich in
+
+49
+00:02:03,380 --> 00:02:05,720
+den alkalischen Bereich begibt, desto
+
+50
+00:02:05,720 --> 00:02:08,360
+mehr sinkt die Konzentration. Jetzt
+
+51
+00:02:08,360 --> 00:02:10,140
+weißt du sowohl, was es mit dem pH
+
+52
+00:02:10,140 --> 00:02:12,320
+-Wert als auch mit der pH-Skala auf
+
+53
+00:02:12,320 --> 00:02:15,060
+sich hat. Doch wie kannst du den den
+
+54
+00:02:15,060 --> 00:02:17,420
+pH-Wert einfach bestimmen? Die
+
+55
+00:02:17,420 --> 00:02:20,940
+Antwort Indikatoren. Indikatoren sind
+
+56
+00:02:20,940 --> 00:02:22,480
+Hilfsmittel in der Chemie, die
+
+57
+00:02:22,480 --> 00:02:25,320
+entweder bestimmte pH-Werte oder pH
+
+58
+00:02:25,320 --> 00:02:27,100
+-Bereiche durch einen Farbumschlag
+
+59
+00:02:27,100 --> 00:02:29,540
+anzeigen. Ich möchte dir im Folgenden
+
+60
+00:02:29,540 --> 00:02:32,440
+zwei Indikatoren vorstellen. Als
+
+61
+00:02:32,440 --> 00:02:35,120
+erstes Phenolphthalein und als
+
+62
+00:02:35,120 --> 00:02:37,400
+zweites den Universalindikator.
+
+63
+00:02:38,220 --> 00:02:40,240
+Indikatoren werden auch dazu genutzt,
+
+64
+00:02:40,260 --> 00:02:42,400
+pH-Erwartungs- oder Sollwerte zu
+
+65
+00:02:42,400 --> 00:02:44,580
+überprüfen. Starten wir mit dem
+
+66
+00:02:44,580 --> 00:02:47,180
+Indikator Phenulphthalein. Hier
+
+67
+00:02:47,180 --> 00:02:48,420
+siehst du ein Gefäß mit einer
+
+68
+00:02:48,420 --> 00:02:50,880
+unbekannten Flüssigkeit. Wir geben
+
+69
+00:02:50,880 --> 00:02:52,420
+den Indikator, also das
+
+70
+00:02:52,420 --> 00:02:55,000
+Phenulphthalein, dazu und entweder
+
+71
+00:02:55,000 --> 00:02:57,280
+kommt es zu einem Farbumschlag oder
+
+72
+00:02:57,280 --> 00:02:59,980
+nicht. Tritt der Farbumschlag ein,
+
+73
+00:03:00,100 --> 00:03:01,820
+färbt sich die Flüssigkeit dank des
+
+74
+00:03:01,820 --> 00:03:03,320
+Phenolphthaleins rosa.
+
+75
+00:03:04,660 --> 00:03:06,320
+Phenolphthalein schlägt in einem pH
+
+76
+00:03:06,320 --> 00:03:09,660
+-Bereich von 8,2 bis 12 an. Bei
+
+77
+00:03:09,660 --> 00:03:11,520
+unseren Flüssigkeiten handelt es sich
+
+78
+00:03:11,520 --> 00:03:13,700
+also um eine Base, da sich der Wert
+
+79
+00:03:13,700 --> 00:03:15,300
+im alkalischen Bereich befindet.
+
+80
+00:03:15,900 --> 00:03:18,300
+Kommt es zu keinem Farbumschlag, dann
+
+81
+00:03:18,300 --> 00:03:20,340
+ist der pH-Wert entweder größer als
+
+82
+00:03:20,340 --> 00:03:24,240
+12 oder kleiner als 8,2. Zur genauen
+
+83
+00:03:24,240 --> 00:03:25,820
+Bestimmung wären weitere Tests
+
+84
+00:03:25,820 --> 00:03:28,420
+notwendig. Der Universalindikator
+
+85
+00:03:28,420 --> 00:03:30,020
+hingegen wird meist in Form eines
+
+86
+00:03:30,020 --> 00:03:32,280
+Testpapiers verwendet. Man reißt
+
+87
+00:03:32,280 --> 00:03:34,480
+einfach ein Stück ab, hält es in die
+
+88
+00:03:34,480 --> 00:03:36,280
+unbekannte Flüssigkeit und vergleicht
+
+89
+00:03:36,280 --> 00:03:37,900
+im Anschluss die Farbe des Streifens
+
+90
+00:03:37,900 --> 00:03:39,680
+mit dem Farbschema auf der Verpackung
+
+91
+00:03:39,680 --> 00:03:42,160
+und schon kann man den unangfähren pH
+
+92
+00:03:42,160 --> 00:03:44,820
+-Wert ablesen. Fassen wir das
+
+93
+00:03:44,820 --> 00:03:46,260
+Gelernte noch einmal kurz zusammen.
+
+94
+00:03:46,700 --> 00:03:49,400
+Der pH-Wert gibt aufgrund der H3O CO
+
+95
+00:03:49,400 --> 00:03:51,600
+-Plus-Konzentration an, wie sauer
+
+96
+00:03:51,600 --> 00:03:53,500
+oder alkalisch eine Flüssigkeit ist.
+
+97
+00:03:53,800 --> 00:03:56,780
+Die pH-Skala reicht von 0 bis 14 und
+
+98
+00:03:56,780 --> 00:03:58,800
+legt damit den Wertebereich des pH
+
+99
+00:03:58,800 --> 00:04:01,600
+-Wertes fest. Ein Indikator ist ein
+
+100
+00:04:01,600 --> 00:04:03,460
+Hilfsmittel, mit dem man den pH-Wert
+
+101
+00:04:03,460 --> 00:04:05,080
+einer Flüssigkeit bestimmen bzw.
+
+102
+00:04:05,440 --> 00:04:08,640
+überprüfen kann. Ich hoffe, dass du
+
+103
+00:04:08,640 --> 00:04:10,860
+nun mehr über pH-Wert und Indikatoren
+
+104
+00:04:10,860 --> 00:04:12,980
+weißt. Wenn du noch Fragen zu diesem
+
+105
+00:04:12,980 --> 00:04:14,860
+oder anderen Themen hast, nutze gerne
+
+106
+00:04:14,860 --> 00:04:16,820
+unsere weiteren Lerninhalte im Online
+
+107
+00:04:16,820 --> 00:04:18,860
+-Lerncenter oder wende dich an deine
+
+108
+00:04:18,860 --> 00:04:20,560
+Schülerhilfe vor Ort. Bis zum
+
+109
+00:04:20,560 --> 00:04:21,120
+nächsten Mal!
+

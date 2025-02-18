@@ -1,0 +1,844 @@
+﻿1
+00:00:00,430 --> 00:00:02,450
+Hello and welcome to the 
+
+2
+00:00:02,450 --> 00:00:05,630
+Schülerhilfe learning videos. In 
+
+3
+00:00:05,630 --> 00:00:07,470
+this module, we look at 
+
+4
+00:00:07,470 --> 00:00:10,450
+the question of how to recognize good and 
+
+5
+00:00:10,450 --> 00:00:13,430
+better sources. And, are there 
+
+6
+00:00:13,430 --> 00:00:14,910
+any bad sources with 
+
+7
+00:00:14,910 --> 00:00:15,750
+false information? 
+
+8
+00:00:19,420 --> 00:00:21,280
+We will therefore first look at 
+
+9
+00:00:21,380 --> 00:00:22,960
+how you 
+
+10
+00:00:22,960 --> 00:00:25,900
+can recognize trustworthy sources . We 
+will then look 
+
+11
+00:00:25,900 --> 00:00:27,920
+at how to evaluate sources 
+
+12
+00:00:27,920 --> 00:00:30,240
+using Wikipedia and 
+
+13
+00:00:30,240 --> 00:00:34,240
+forum posts as examples. Finally, we 
+
+14
+00:00:34,240 --> 00:00:35,780
+take a closer look at bad sources 
+
+15
+00:00:35,780 --> 00:00:38,320
+. We'll compare good and 
+
+16
+00:00:38,320 --> 00:00:40,420
+bad sources and look at 
+
+17
+00:00:40,420 --> 00:00:41,520
+examples. 
+
+18
+00:00:44,740 --> 00:00:46,180
+Let's start with how you 
+
+19
+00:00:46,180 --> 00:00:47,860
+
+20
+00:00:47,860 --> 00:00:51,980
+can recognize trustworthy sources . In 
+Module 3, you have already 
+
+21
+00:00:51,980 --> 00:00:54,080
+learned what characteristics a 
+
+22
+00:00:54,080 --> 00:00:55,920
+trustworthy source 
+
+23
+00:00:55,920 --> 00:00:58,880
+should have. There should be no 
+
+24
+00:00:58,880 --> 00:01:01,660
+spelling mistakes. 
+
+25
+00:01:01,660 --> 00:01:04,180
+
+26
+00:01:04,180 --> 00:01:05,920
+There should be reputable and high-quality 
+images 
+
+27
+00:01:05,920 --> 00:01:09,040
+. In addition, the structure should be 
+
+28
+00:01:09,040 --> 00:01:11,040
+clear and the link list 
+
+29
+00:01:11,040 --> 00:01:14,440
+well maintained. Beware of sites 
+
+30
+00:01:14,460 --> 00:01:17,780
+that do not have an imprint. 
+
+31
+00:01:17,780 --> 00:01:19,540
+The up-to-dateness of the page can also be 
+
+32
+00:01:19,540 --> 00:01:21,480
+an indicator of seriousness. 
+
+33
+00:01:23,160 --> 00:01:25,020
+Factual and neutral explanations 
+
+34
+00:01:25,020 --> 00:01:26,980
+as well as well-founded evaluations speak 
+
+35
+00:01:26,980 --> 00:01:28,660
+for a trustworthy source. 
+
+36
+00:01:30,220 --> 00:01:33,400
+First check what the aim of the 
+
+37
+00:01:33,400 --> 00:01:36,140
+website is . Is it a 
+
+38
+00:01:36,140 --> 00:01:38,440
+commercial site, i.e. is something being 
+
+39
+00:01:38,440 --> 00:01:42,260
+sold or advertised? Is it a 
+
+40
+00:01:42,260 --> 00:01:45,420
+purely informative site? Or is 
+
+41
+00:01:45,420 --> 00:01:49,040
+the aim of the site different? Who is 
+
+42
+00:01:49,040 --> 00:01:51,460
+the operator of the site? 
+
+43
+00:01:51,460 --> 00:01:53,260
+Is it a person, an 
+
+44
+00:01:53,260 --> 00:01:55,380
+organization or an association? 
+
+45
+00:01:57,140 --> 00:01:58,760
+Does the site 
+
+46
+00:01:58,760 --> 00:02:00,800
+cover current events, for example 
+
+47
+00:02:00,800 --> 00:02:02,540
+, or does it present a product? 
+
+48
+00:02:04,720 --> 00:02:07,200
+In any case, check the author and the 
+
+49
+00:02:07,200 --> 00:02:09,960
+imprint. What is the 
+
+50
+00:02:09,960 --> 00:02:12,720
+author 's name ? Is it an 
+
+51
+00:02:12,720 --> 00:02:16,000
+organization? What 
+
+52
+00:02:16,000 --> 00:02:19,620
+information does the imprint provide? If 
+the 
+
+53
+00:02:19,620 --> 00:02:20,940
+operator of the site is a 
+
+54
+00:02:20,940 --> 00:02:23,160
+scientific institute, a 
+
+55
+00:02:23,160 --> 00:02:25,240
+public institution or a 
+
+56
+00:02:25,240 --> 00:02:27,580
+well-known expert, 
+
+57
+00:02:27,580 --> 00:02:29,040
+this indicates a trustworthy 
+
+58
+00:02:29,040 --> 00:02:29,540
+source. 
+
+59
+00:02:32,890 --> 00:02:34,650
+Let's take a closer look at the 
+
+60
+00:02:34,650 --> 00:02:36,350
+evaluation of sources. 
+
+61
+00:02:39,720 --> 00:02:42,380
+Wikipedia entries or forum posts 
+
+62
+00:02:42,380 --> 00:02:44,580
+should always be critically scrutinized 
+
+63
+00:02:44,700 --> 00:02:47,000
+, as the articles are mainly 
+
+64
+00:02:47,000 --> 00:02:48,800
+written and 
+
+65
+00:02:48,800 --> 00:02:51,740
+reviewed by private individuals. The 
+content can therefore 
+
+66
+00:02:51,740 --> 00:02:55,800
+be incorrect. 
+
+67
+00:02:55,800 --> 00:02:58,860
+You should therefore 
+
+68
+00:02:58,860 --> 00:03:00,320
+not rely exclusively on Wikipedia for your 
+research 
+
+69
+00:03:00,720 --> 00:03:02,920
+, but rather use it to get an 
+
+70
+00:03:02,920 --> 00:03:04,960
+overview and 
+
+71
+00:03:04,960 --> 00:03:08,260
+find other sources. 
+
+72
+00:03:08,260 --> 00:03:10,280
+
+73
+00:03:10,280 --> 00:03:12,820
+Cite the sources found in the Wikipedia 
+article as primary sources, but not the 
+
+74
+00:03:12,820 --> 00:03:14,120
+Wikipedia article itself. 
+
+75
+00:03:17,160 --> 00:03:19,300
+You need to be even more careful if 
+
+76
+00:03:19,300 --> 00:03:20,760
+
+77
+00:03:20,760 --> 00:03:23,480
+you want to use information from forum 
+posts. Because 
+
+78
+00:03:23,480 --> 00:03:25,380
+nothing is checked here. 
+
+79
+00:03:27,270 --> 00:03:30,030
+Therefore, 
+
+80
+00:03:30,030 --> 00:03:32,510
+always check information from Wikipedia or 
+forums by 
+
+81
+00:03:32,510 --> 00:03:34,510
+
+82
+00:03:34,510 --> 00:03:36,450
+
+83
+00:03:36,450 --> 00:03:38,050
+comparing it with other sources such as 
+books, magazines and websites. 
+
+84
+00:03:41,050 --> 00:03:42,750
+How can you recognize a good 
+
+85
+00:03:42,750 --> 00:03:46,230
+Wikiatge? It should have a neutral and 
+
+86
+00:03:46,230 --> 00:03:48,170
+objective choice of words and 
+
+87
+00:03:48,170 --> 00:03:49,890
+
+88
+00:03:49,890 --> 00:03:52,490
+deal with different points of view on the 
+topic. It should 
+
+89
+00:03:52,490 --> 00:03:54,370
+
+90
+00:03:54,370 --> 00:03:57,130
+offer the reader the opportunity to form 
+an opinion. The sources should 
+
+91
+00:03:57,130 --> 00:03:58,730
+be carefully cited. 
+
+92
+00:03:59,750 --> 00:04:01,910
+Furthermore, there should be no 
+contradictions 
+
+93
+00:04:01,910 --> 00:04:05,150
+. Let's 
+
+94
+00:04:05,150 --> 00:04:06,730
+now look at bad sources and 
+
+95
+00:04:06,730 --> 00:04:08,470
+how they compare to good 
+
+96
+00:04:08,470 --> 00:04:12,770
+sources. The first 
+
+97
+00:04:12,770 --> 00:04:14,530
+question is how to 
+
+98
+00:04:14,530 --> 00:04:16,750
+distinguish between relevant and 
+irrelevant websites 
+
+99
+00:04:16,750 --> 00:04:19,870
+. Let's look at 
+
+100
+00:04:19,870 --> 00:04:24,150
+the example of the website 
+
+101
+00:04:24,150 --> 00:04:27,190
+www.bee-info.de. The following links on 
+the 
+
+102
+00:04:27,190 --> 00:04:29,850
+subject of bees are displayed there. 
+
+103
+00:04:33,720 --> 00:04:35,300
+In the left-hand column, we see 
+
+104
+00:04:35,300 --> 00:04:37,140
+websites from official 
+
+105
+00:04:37,140 --> 00:04:40,020
+bodies such as universities, offices 
+
+106
+00:04:40,020 --> 00:04:43,220
+or institutions. In the right-hand 
+
+107
+00:04:43,220 --> 00:04:44,900
+column, the operators are either 
+
+108
+00:04:44,900 --> 00:04:48,580
+private or unclear. Websites 
+
+109
+00:04:48,580 --> 00:04:50,400
+from official bodies are always 
+
+110
+00:04:50,400 --> 00:04:52,180
+more reliable than those from private 
+
+111
+00:04:52,180 --> 00:04:53,700
+operators. Who 
+
+112
+00:04:58,310 --> 00:05:00,030
+operates the website and 
+
+113
+00:05:00,030 --> 00:05:02,570
+for what purpose? Look for a 
+
+114
+00:05:02,570 --> 00:05:04,330
+menu item that 
+
+115
+00:05:04,330 --> 00:05:07,390
+gives you information about this. You will 
+often find something like 
+
+116
+00:05:07,390 --> 00:05:12,130
+about this site, about us, who 
+
+117
+00:05:12,130 --> 00:05:15,870
+we are or similar. Every 
+
+118
+00:05:15,870 --> 00:05:17,770
+website must contain 
+
+119
+00:05:17,770 --> 00:05:19,710
+a link to the so-called imprint on the 
+main page 
+
+120
+00:05:19,710 --> 00:05:22,330
+. The official 
+
+121
+00:05:22,330 --> 00:05:23,950
+operator of the site is named there. 
+
+122
+00:05:28,760 --> 00:05:30,500
+Let's take the 
+
+123
+00:05:30,500 --> 00:05:35,380
+search engine fragfin.de as an example. If 
+you 
+
+124
+00:05:35,380 --> 00:05:37,020
+scroll to the bottom of the page, you will 
+
+125
+00:05:37,060 --> 00:05:39,760
+find the links to FIN, 
+
+126
+00:05:39,960 --> 00:05:44,260
+Data protection and Imprint. This is 
+
+127
+00:05:44,260 --> 00:05:45,680
+a first indication of 
+
+128
+00:05:45,680 --> 00:05:49,420
+seriousness. 
+
+129
+00:05:49,420 --> 00:05:51,600
+However, take a closer look at these links 
+
+130
+00:05:51,600 --> 00:05:52,780
+to be able to assess the seriousness . 
+
+131
+00:05:56,000 --> 00:05:57,760
+Next, let's look at an 
+
+132
+00:05:57,760 --> 00:05:59,980
+example from Wikipedia of how to 
+
+133
+00:05:59,980 --> 00:06:01,360
+
+134
+00:06:01,360 --> 00:06:04,880
+find out the type and purpose of a 
+website. 
+
+135
+00:06:04,880 --> 00:06:07,000
+At the bottom of the Wikipedia homepage 
+you will 
+
+136
+00:06:07,000 --> 00:06:09,080
+find the following information. 
+
+137
+00:06:10,840 --> 00:06:12,800
+Under the link about Wikipedia 
+
+138
+00:06:12,800 --> 00:06:15,680
+you will find information about the 
+
+139
+00:06:15,680 --> 00:06:17,260
+type and purpose of this page. 
+
+140
+00:06:21,390 --> 00:06:23,530
+At the bottom of 
+
+141
+00:06:23,530 --> 00:06:26,910
+the page on Google you will also find the 
+item about Google. 
+
+142
+00:06:26,910 --> 00:06:28,830
+On the following page you will find 
+
+143
+00:06:28,830 --> 00:06:33,380
+the imprint. As an example, you can see 
+
+144
+00:06:33,380 --> 00:06:35,780
+the Google legal notice here. 
+
+145
+00:06:38,850 --> 00:06:40,690
+Once we 
+
+146
+00:06:40,690 --> 00:06:43,290
+have checked the website in general for 
+seriousness, 
+
+147
+00:06:43,290 --> 00:06:45,730
+we turn to the content or the article 
+
+148
+00:06:45,730 --> 00:06:49,050
+in particular. Are there any details 
+
+149
+00:06:49,050 --> 00:06:50,950
+or references to the basis on which 
+
+150
+00:06:50,950 --> 00:06:54,430
+an article was created? 
+
+151
+00:06:54,430 --> 00:06:56,390
+Look for footnotes, 
+
+152
+00:06:56,390 --> 00:06:59,090
+sources or references at the end of the 
+article. 
+
+153
+00:07:00,470 --> 00:07:03,410
+Embedded links in the 
+
+154
+00:07:03,410 --> 00:07:07,220
+article can also help. In Wikipedia 
+
+155
+00:07:07,220 --> 00:07:08,580
+ articles, you will find 
+
+156
+00:07:08,580 --> 00:07:10,660
+the subsections 
+
+157
+00:07:10,660 --> 00:07:14,660
+Underlying literature, Web links 
+
+158
+00:07:14,660 --> 00:07:16,640
+and Individual references in the table of 
+contents. 
+
+159
+00:07:20,810 --> 00:07:22,890
+Check whether the content is correct. 
+
+160
+00:07:24,090 --> 00:07:25,810
+Compare the information 
+
+161
+00:07:25,810 --> 00:07:27,730
+on Wikipedia with other 
+
+162
+00:07:27,730 --> 00:07:30,630
+websites and, if possible, with 
+
+163
+00:07:30,630 --> 00:07:32,430
+a printed encyclopaedia or 
+
+164
+00:07:32,430 --> 00:07:33,290
+specialist literature. 
+
+165
+00:07:35,730 --> 00:07:38,910
+At the beginning or end of an article 
+
+166
+00:07:38,910 --> 00:07:40,890
+you will find various icons 
+
+167
+00:07:40,930 --> 00:07:42,970
+that can help you to 
+
+168
+00:07:42,970 --> 00:07:44,930
+better assess the quality of an article. 
+
+169
+00:07:46,110 --> 00:07:48,450
+There is a red icon with an L, 
+
+170
+00:07:48,630 --> 00:07:52,230
+a blue icon with an L and a 
+
+171
+00:07:52,230 --> 00:07:53,830
+green icon with a star. 
+
+172
+00:07:57,470 --> 00:07:59,790
+The red icon with an L means 
+
+173
+00:08:00,210 --> 00:08:02,130
+that the article 
+
+174
+00:08:02,130 --> 00:08:04,250
+needs to be revised and 
+
+175
+00:08:04,250 --> 00:08:07,490
+is therefore not a reliable source. The 
+blue icon with an 
+
+176
+00:08:07,490 --> 00:08:09,350
+L means that the article is on a 
+
+177
+00:08:09,350 --> 00:08:11,390
+list of articles worth reading 
+
+178
+00:08:11,390 --> 00:08:13,650
+but does not yet meet the strict 
+
+179
+00:08:13,650 --> 00:08:16,330
+criteria. Nevertheless, 
+
+180
+00:08:16,330 --> 00:08:18,110
+the article has been 
+
+181
+00:08:18,110 --> 00:08:22,560
+edited to an above-average standard . The 
+green icon with a 
+
+182
+00:08:22,560 --> 00:08:24,520
+star means that the article 
+
+183
+00:08:24,520 --> 00:08:26,220
+
+184
+00:08:26,220 --> 00:08:28,440
+has been included in the list of excellent 
+articles. It meets 
+
+185
+00:08:28,440 --> 00:08:30,560
+strict criteria and usually contains 
+
+186
+00:08:30,560 --> 00:08:31,860
+reliable information. 
+
+187
+00:08:35,730 --> 00:08:36,850
+Here you can see 
+
+188
+00:08:36,850 --> 00:08:38,790
+what such an icon 
+
+189
+00:08:38,790 --> 00:08:39,310
+looks like in an example article. 
+
+190
+00:08:48,090 --> 00:08:50,170
+Nevertheless, these 
+
+191
+00:08:50,170 --> 00:08:51,510
+awards should not be 
+
+192
+00:08:51,510 --> 00:08:53,970
+trusted blindly , as they are based on the 
+
+193
+00:08:53,970 --> 00:08:57,150
+ratings of other authors. This means that 
+
+194
+00:08:57,150 --> 00:08:58,690
+there is no absolute certainty 
+
+195
+00:08:58,690 --> 00:09:00,510
+that the content of the 
+
+196
+00:09:00,510 --> 00:09:03,670
+article is all correct. 
+
+197
+00:09:03,670 --> 00:09:05,030
+
+198
+00:09:05,030 --> 00:09:07,450
+You can find out exactly how the rating of 
+Wikipedia articles works 
+
+199
+00:09:07,450 --> 00:09:08,290
+at this link. 
+
+200
+00:09:13,350 --> 00:09:16,030
+In conclusion, it can be said that 
+
+201
+00:09:16,030 --> 00:09:17,950
+the hurdle is high for a source to be 
+
+202
+00:09:17,950 --> 00:09:20,270
+considered reputable and of high quality 
+
+203
+00:09:20,270 --> 00:09:22,410
+. So 
+
+204
+00:09:22,410 --> 00:09:25,610
+, yes, there are sources with 
+
+205
+00:09:25,610 --> 00:09:29,940
+false information. 
+
+206
+00:09:29,940 --> 00:09:31,660
+Thank you for your attention and good 
+
+207
+00:09:31,660 --> 00:09:33,620
+luck with evaluating sources. 

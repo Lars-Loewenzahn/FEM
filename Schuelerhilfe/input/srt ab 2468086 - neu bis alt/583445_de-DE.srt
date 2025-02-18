@@ -1,0 +1,788 @@
+1
+00:00:00,750 --> 00:00:02,690
+Hallo und herzlich willkommen zu den
+
+2
+00:00:02,690 --> 00:00:05,650
+Lernvideos der Schülerhilfe. Heute
+
+3
+00:00:05,650 --> 00:00:07,230
+lernst du etwas über die weiteren
+
+4
+00:00:07,230 --> 00:00:10,250
+Funktionen von PowerPoint und über
+
+5
+00:00:10,250 --> 00:00:11,730
+die mediale Gestaltung von
+
+6
+00:00:11,730 --> 00:00:12,750
+Präsentationen.
+
+7
+00:00:15,980 --> 00:00:17,860
+Im Modul 2 hast du bereits die
+
+8
+00:00:17,860 --> 00:00:19,220
+grundlegenden Funktionen von
+
+9
+00:00:19,220 --> 00:00:22,060
+PowerPoint kennengelernt. Heute
+
+10
+00:00:22,060 --> 00:00:24,040
+lernst du etwas über das Ändern der
+
+11
+00:00:24,040 --> 00:00:26,940
+Schrift, das Einfügen von Bildern,
+
+12
+00:00:27,440 --> 00:00:29,320
+das Platzieren von Texten und
+
+13
+00:00:29,320 --> 00:00:31,960
+Bildern, über die Farbgestaltung der
+
+14
+00:00:31,960 --> 00:00:34,760
+Folien, und über das Einfügen von
+
+15
+00:00:34,760 --> 00:00:36,440
+Animationen. Du
+
+16
+00:00:39,960 --> 00:00:41,820
+hast schon gelernt, die Größe und Art
+
+17
+00:00:41,820 --> 00:00:44,640
+der Schrift zu ändern. Darüber hinaus
+
+18
+00:00:44,640 --> 00:00:46,320
+gibt es bei PowerPoint weitere
+
+19
+00:00:46,320 --> 00:00:49,240
+Änderungsfunktionen, zum Beispiel die
+
+20
+00:00:49,240 --> 00:00:53,060
+Farbe und die Bündigkeit. Diese
+
+21
+00:00:53,060 --> 00:00:55,100
+findest du, indem du im Menüband auf
+
+22
+00:00:55,100 --> 00:00:57,600
+Start klickst und die entsprechenden
+
+23
+00:00:57,600 --> 00:01:01,520
+Icons benutzt. Du kannst außerdem den
+
+24
+00:01:01,520 --> 00:01:04,160
+Text auf Fett, Kursiv oder unter
+
+25
+00:01:04,160 --> 00:01:05,800
+Strichen stellen. Du
+
+26
+00:01:09,350 --> 00:01:11,310
+kannst in deine Präsentation außerdem
+
+27
+00:01:11,310 --> 00:01:14,210
+verschiedene Formen einfügen, wie zum
+
+28
+00:01:14,210 --> 00:01:16,170
+Beispiel Rechtecke, Striche,
+
+29
+00:01:16,390 --> 00:01:19,690
+verschiedenartige Pfeile, Ellipsen
+
+30
+00:01:19,690 --> 00:01:23,030
+oder Klammern und vieles, vieles
+
+31
+00:01:23,030 --> 00:01:25,890
+mehr. Du kannst auch die Farbe der
+
+32
+00:01:25,890 --> 00:01:28,850
+Kontur und der Füllung sowie die
+
+33
+00:01:28,850 --> 00:01:31,290
+Stärke der Kontur beliebig ändern. Um
+
+34
+00:01:35,420 --> 00:01:38,640
+eine Form einzufügen, suche im
+
+35
+00:01:38,640 --> 00:01:42,220
+Menüband Einfügen und klicke auf
+
+36
+00:01:42,220 --> 00:01:43,020
+Formen.
+
+37
+00:01:47,580 --> 00:01:49,540
+Wähle in dem darunter erscheinenden
+
+38
+00:01:49,540 --> 00:01:51,700
+Fenster die gewünschte Form aus.
+
+39
+00:01:53,100 --> 00:01:55,220
+Klicke auf die Stelle in der Folie,
+
+40
+00:01:55,220 --> 00:01:57,140
+an der die Form eingefügt werden soll
+
+41
+00:01:57,140 --> 00:01:59,320
+und halte dabei die Maustaste fest.
+
+42
+00:02:00,570 --> 00:02:02,440
+Durch Ziehen der Maus kannst du die
+
+43
+00:02:02,440 --> 00:02:05,240
+Größe festlegen. Lasse dann die
+
+44
+00:02:05,240 --> 00:02:06,760
+Maustaste los. Wenn
+
+45
+00:02:11,440 --> 00:02:13,460
+du die Form anklickst, erscheint
+
+46
+00:02:13,460 --> 00:02:15,760
+automatisch unter dem Punkt Format
+
+47
+00:02:15,760 --> 00:02:17,720
+ein Menüband, in dem du die Form
+
+48
+00:02:17,720 --> 00:02:21,300
+verändern kannst. Hier kannst du die
+
+49
+00:02:21,300 --> 00:02:24,000
+Farbe der Füllung und Kontur sowie
+
+50
+00:02:24,000 --> 00:02:26,200
+die Art und Stärke der Kontur ändern.
+
+51
+00:02:27,810 --> 00:02:29,460
+Auch die Größe der Form ist
+
+52
+00:02:29,460 --> 00:02:30,160
+einstellbar.
+
+53
+00:02:34,150 --> 00:02:36,010
+Es gibt verschiedene Möglichkeiten
+
+54
+00:02:36,010 --> 00:02:37,350
+Bilder einzufügen.
+
+55
+00:02:39,920 --> 00:02:42,600
+Klicke auf Bilder. Nun kannst du
+
+56
+00:02:42,600 --> 00:02:44,240
+Bilder, die auf deinem Computer oder
+
+57
+00:02:44,240 --> 00:02:45,360
+USB-Stick gespeichert sind,
+
+58
+00:02:45,360 --> 00:02:47,480
+einstellen. sind direkt einfügen.
+
+59
+00:02:50,160 --> 00:02:53,400
+Klicke auf online Grafiken. In dem
+
+60
+00:02:53,400 --> 00:02:55,640
+sich öffnenden Fenster kannst du mit
+
+61
+00:02:55,640 --> 00:02:57,800
+der Suchmaschine Bing Bilder suchen
+
+62
+00:02:57,800 --> 00:02:59,540
+und direkt in deine Präsentation
+
+63
+00:02:59,540 --> 00:03:00,280
+einfügen.
+
+64
+00:03:04,030 --> 00:03:05,870
+Wenn du auf dein Bild doppelklickst,
+
+65
+00:03:05,890 --> 00:03:09,710
+kannst du es bearbeiten. Du kannst
+
+66
+00:03:09,710 --> 00:03:11,290
+dann zum Beispiel die Farbe oder den
+
+67
+00:03:11,290 --> 00:03:14,130
+Kontrast verändern, dein Bild einen
+
+68
+00:03:14,130 --> 00:03:16,070
+Bildrahmen oder einen Bildeffekt
+
+69
+00:03:16,070 --> 00:03:18,890
+zuordnen oder die Ausrichtung ändern,
+
+70
+00:03:19,210 --> 00:03:21,590
+du kannst das Bild zuschneiden und
+
+71
+00:03:21,590 --> 00:03:22,790
+die Größe verändern.
+
+72
+00:03:26,490 --> 00:03:28,930
+Bei der visuellen Gestaltung gilt der
+
+73
+00:03:28,930 --> 00:03:32,350
+Leitsatz weniger ist mehr. Denn zu
+
+74
+00:03:32,350 --> 00:03:34,810
+viel ist oft unübersichtlich, kann
+
+75
+00:03:34,810 --> 00:03:37,610
+den Zuhörer überfordern und lenkt den
+
+76
+00:03:37,610 --> 00:03:40,770
+Zuhörer unnötig ab. Darum gebe ich
+
+77
+00:03:40,770 --> 00:03:44,070
+dir noch drei Tipps. Füge nicht zu
+
+78
+00:03:44,070 --> 00:03:46,610
+viele Bilder auf eine Folie ein. Ein
+
+79
+00:03:46,610 --> 00:03:48,650
+bis zwei aussagekräftige Bilder oder
+
+80
+00:03:48,650 --> 00:03:50,390
+Diagramme reichen in der Regel aus.
+
+81
+00:03:51,470 --> 00:03:53,110
+Schreibe nur die wichtigsten Punkte
+
+82
+00:03:53,110 --> 00:03:54,890
+auf die Folie und erkläre weitere
+
+83
+00:03:54,890 --> 00:03:57,610
+Aspekte mündlich. Und verwende
+
+84
+00:03:57,610 --> 00:03:59,690
+Stichpunkte anstatt ausformulierter
+
+85
+00:03:59,690 --> 00:04:00,110
+Sätze.
+
+86
+00:04:03,430 --> 00:04:05,690
+Hier einmal ein Negativbeispiel.
+
+87
+00:04:08,120 --> 00:04:10,060
+Auf der Folie ist zu viel Text
+
+88
+00:04:10,060 --> 00:04:12,940
+enthalten. Generell enthält diese
+
+89
+00:04:12,940 --> 00:04:15,780
+Folie zu viel die Informationen. Man
+
+90
+00:04:15,780 --> 00:04:17,680
+hätte die Informationen gut auf zwei
+
+91
+00:04:17,680 --> 00:04:20,380
+Folien aufteilen können. Außerdem
+
+92
+00:04:20,380 --> 00:04:22,780
+sind die Diagramme zu klein, um sie
+
+93
+00:04:22,780 --> 00:04:24,740
+gut lesen zu können. Hier
+
+94
+00:04:27,780 --> 00:04:28,880
+siehst du ein positives
+
+95
+00:04:28,880 --> 00:04:32,220
+Gegenbeispiel. Das Diagramm ist
+
+96
+00:04:32,220 --> 00:04:34,900
+ausreichend gut dimensioniert, um es
+
+97
+00:04:34,900 --> 00:04:37,940
+vernünftig lesen zu können. Außerdem
+
+98
+00:04:37,940 --> 00:04:39,700
+hätten noch einige Stichpunkte auf
+
+99
+00:04:39,700 --> 00:04:40,940
+der Folie Platz gefunden.
+
+100
+00:04:44,890 --> 00:04:47,150
+Auch bei der Farbgestaltung gilt der
+
+101
+00:04:47,150 --> 00:04:51,150
+Leitsatz, bloß nicht zu viel. Setze
+
+102
+00:04:51,150 --> 00:04:53,150
+Farben generell sparsam und bewusst
+
+103
+00:04:53,150 --> 00:04:56,150
+ein. Benutze Farben, um das
+
+104
+00:04:56,150 --> 00:04:59,350
+Wichtigste hervorzuheben. Verwende
+
+105
+00:04:59,350 --> 00:05:01,330
+als Schriftfarben nur Farben, die auf
+
+106
+00:05:01,330 --> 00:05:03,010
+dem Hintergrund gut zu erkennen sind.
+
+107
+00:05:03,450 --> 00:05:06,210
+Also z.B. nicht hellgelbe Schrift auf
+
+108
+00:05:06,210 --> 00:05:08,610
+weißem Hintergrund oder dunkelgraue
+
+109
+00:05:08,610 --> 00:05:11,770
+Schrift auf schwarzem Hintergrund. Zu
+
+110
+00:05:11,770 --> 00:05:13,650
+viele Farben machen die Folie
+
+111
+00:05:13,650 --> 00:05:15,470
+unübersichtlich und lenken den
+
+112
+00:05:15,470 --> 00:05:20,380
+Zuhörer unnötig ab. Schauen wir uns
+
+113
+00:05:20,380 --> 00:05:22,040
+noch einmal ein Negativbeispiel an.
+
+114
+00:05:22,040 --> 00:05:23,000
+Auf
+
+115
+00:05:25,180 --> 00:05:26,740
+dieser Folie gibt es zu viele
+
+116
+00:05:26,740 --> 00:05:29,440
+verschiedene Schriftfarben. Die gelbe
+
+117
+00:05:29,440 --> 00:05:31,160
+Schrift auf weißem Hintergrund kann
+
+118
+00:05:31,160 --> 00:05:33,700
+man nicht gut lesen. Außerdem
+
+119
+00:05:33,700 --> 00:05:35,380
+verwirren die farbigen Rechtecke.
+
+120
+00:05:39,900 --> 00:05:41,280
+Hier siehst du ein positives
+
+121
+00:05:41,280 --> 00:05:44,140
+Gegenbeispiel. Die Folie wird
+
+122
+00:05:44,140 --> 00:05:46,420
+generell aufgeräumt und die Farbe
+
+123
+00:05:46,420 --> 00:05:48,340
+wird benutzt, um ein wichtiges Wort
+
+124
+00:05:48,340 --> 00:05:49,080
+zu betonen.
+
+125
+00:05:54,780 --> 00:05:56,440
+Unter Entwurf kannst du den
+
+126
+00:05:56,440 --> 00:05:58,200
+Hintergrund deiner Folie verändern.
+
+127
+00:06:03,390 --> 00:06:05,250
+Du kannst außerdem ein Layout
+
+128
+00:06:05,250 --> 00:06:09,010
+auswählen. Die Foliengröße einstellen
+
+129
+00:06:09,010 --> 00:06:12,990
+und Farben und ähnliches verändern.
+
+130
+00:06:19,960 --> 00:06:21,540
+Klickst du auf Hintergrund
+
+131
+00:06:21,540 --> 00:06:23,960
+formatieren, öffnet sich rechts eine
+
+132
+00:06:23,960 --> 00:06:24,480
+Leiste.
+
+133
+00:06:27,680 --> 00:06:30,600
+Folgendes kannst du hier ändern. Die
+
+134
+00:06:30,600 --> 00:06:33,600
+Art der Füllung, die Farbe und die
+
+135
+00:06:33,600 --> 00:06:34,340
+Transparenz.
+
+136
+00:06:37,850 --> 00:06:39,450
+Verwende nur in Ausnahmefällen
+
+137
+00:06:39,450 --> 00:06:42,070
+farbige Hintergründe, denn sie können
+
+138
+00:06:42,070 --> 00:06:44,770
+ablenken und knallige oder gar
+
+139
+00:06:44,770 --> 00:06:47,070
+neonfarbige Hintergründe überfordern
+
+140
+00:06:47,070 --> 00:06:50,670
+das Auge. Verwende besser neutrale
+
+141
+00:06:50,670 --> 00:06:52,730
+bis pastellfarbene Hintergründe, die
+
+142
+00:06:52,730 --> 00:06:55,590
+nicht ablenkend wirken. Gleiches gilt
+
+143
+00:06:55,590 --> 00:06:57,030
+allgemein auch für das Layout.
+
+144
+00:07:00,310 --> 00:07:02,090
+Hier siehst du ein negatives Beispiel
+
+145
+00:07:02,090 --> 00:07:04,130
+für die Auswahl des Hintergrundes.
+
+146
+00:07:04,410 --> 00:07:06,490
+Das grelle Blau wirkt äußerst
+
+147
+00:07:06,490 --> 00:07:07,830
+anstrengend für das Auge.
+
+148
+00:07:11,130 --> 00:07:12,910
+Besser ist z.B. ein neutraler
+
+149
+00:07:12,910 --> 00:07:15,550
+Hintergrund oder ein pastellfarbener
+
+150
+00:07:15,550 --> 00:07:16,950
+Hintergrund. Du
+
+151
+00:07:21,650 --> 00:07:24,090
+kannst mehrere Felder, also Texte,
+
+152
+00:07:24,090 --> 00:07:26,990
+Formen oder Bilder gruppieren. sodass
+
+153
+00:07:26,990 --> 00:07:28,590
+sie zusammen ein gemeinsames Feld
+
+154
+00:07:28,590 --> 00:07:31,970
+ergeben. Klicke nacheinander die
+
+155
+00:07:31,970 --> 00:07:33,910
+gewünschten Felder an, während du die
+
+156
+00:07:33,910 --> 00:07:35,450
+Steuerungstaste gedrückt hältst.
+
+157
+00:07:36,830 --> 00:07:39,070
+Klicke dann auf die rechte Maustaste
+
+158
+00:07:39,070 --> 00:07:41,090
+und klicke auf Gruppieren.
+
+159
+00:07:45,820 --> 00:07:48,280
+Wenn du deine Folie erstellst, kannst
+
+160
+00:07:48,280 --> 00:07:50,540
+du sogenannte Animationen einbauen.
+
+161
+00:07:51,340 --> 00:07:53,880
+Damit kannst du Textfelder, Formen
+
+162
+00:07:53,880 --> 00:07:55,760
+oder Bilder beim Weiterschalten
+
+163
+00:07:55,760 --> 00:07:57,900
+erscheinen lassen, verschwinden
+
+164
+00:07:57,900 --> 00:08:00,500
+lassen oder verändern. Um
+
+165
+00:08:03,020 --> 00:08:05,560
+eine Animation einzufügen, klicke
+
+166
+00:08:05,560 --> 00:08:08,020
+dein Feld an und klicke anschließend
+
+167
+00:08:08,020 --> 00:08:09,660
+oben auf Animationen.
+
+168
+00:08:16,740 --> 00:08:19,220
+Wähle dann eine Animation aus, zum
+
+169
+00:08:19,220 --> 00:08:21,160
+Beispiel Erscheinen oder Verblassen.
+
+170
+00:08:21,320 --> 00:08:22,020
+Du
+
+171
+00:08:26,820 --> 00:08:28,680
+kannst auch mehrere Animationen
+
+172
+00:08:28,680 --> 00:08:32,760
+einfügen. Klicke dazu auf Animation
+
+173
+00:08:32,760 --> 00:08:35,240
+hinzufügen und wähle die gewünschte
+
+174
+00:08:35,240 --> 00:08:38,960
+Animation aus. Auf der rechten Seite
+
+175
+00:08:38,960 --> 00:08:41,080
+kannst du festlegen, wann die neue
+
+176
+00:08:41,080 --> 00:08:44,380
+Animation starten soll. Außerdem
+
+177
+00:08:44,380 --> 00:08:45,820
+kannst du die Reihenfolge der
+
+178
+00:08:45,820 --> 00:08:48,100
+Animationen hier ändern, wenn du in
+
+179
+00:08:48,100 --> 00:08:50,000
+der Folie auf die kleine Zahl der
+
+180
+00:08:50,000 --> 00:08:53,320
+Animationen doppelklickst. Ein Tipp
+
+181
+00:08:53,320 --> 00:08:55,660
+noch, nutze am besten die Gruppieren
+
+182
+00:08:55,660 --> 00:08:58,240
+-Funktion. So brauchst du nicht für
+
+183
+00:08:58,240 --> 00:09:00,100
+jedes Feld eine einzelne Animation
+
+184
+00:09:00,100 --> 00:09:01,000
+einfügen.
+
+185
+00:09:06,750 --> 00:09:09,010
+Beim Bearbeiten der Animationen
+
+186
+00:09:09,010 --> 00:09:11,030
+sollte dein Bildschirm in etwa so
+
+187
+00:09:11,030 --> 00:09:11,510
+aussehen.
+
+188
+00:09:18,620 --> 00:09:19,900
+So sieht es bei der
+
+189
+00:09:19,900 --> 00:09:22,520
+Bildschirmpräsentation aus. Wenn du
+
+190
+00:09:22,520 --> 00:09:24,580
+das auch sehen möchtest, klicke in
+
+191
+00:09:24,580 --> 00:09:25,960
+PowerPoint auf F5.
+
+192
+00:09:41,920 --> 00:09:43,700
+Jetzt kennst du PowerPoint schon
+
+193
+00:09:43,700 --> 00:09:46,860
+ziemlich gut. Im Modul 4 lernst du,
+
+194
+00:09:46,920 --> 00:09:49,280
+wie man ein Handout erstellt. Ich
+
+195
+00:09:50,940 --> 00:09:52,580
+bedanke mich für deine Aufmerksamkeit
+
+196
+00:09:52,580 --> 00:09:54,400
+und wünsche dir viel Erfolg beim
+
+197
+00:09:54,400 --> 00:09:55,900
+Erstellen deiner Präsentation.
+

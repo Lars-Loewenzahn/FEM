@@ -1,0 +1,1600 @@
+1
+00:00:00,500 --> 00:00:02,380
+Herzlich willkommen zum Webinar
+
+2
+00:00:02,380 --> 00:00:04,660
+Vektoren, Grundlagen und Begriffe.
+
+3
+00:00:04,780 --> 00:00:06,320
+Wir werden uns in diesem Webinar mit
+
+4
+00:00:06,320 --> 00:00:07,900
+den Grundlagen der Vektorrechnung und
+
+5
+00:00:07,900 --> 00:00:10,040
+der Vektoren befassen. Das heißt, wir
+
+6
+00:00:10,040 --> 00:00:11,480
+schauen uns zuallererst an, was ist
+
+7
+00:00:11,480 --> 00:00:13,200
+ein Vektor, was sind seine
+
+8
+00:00:13,200 --> 00:00:15,020
+Eigenschaften und wie kann man mit
+
+9
+00:00:15,020 --> 00:00:16,540
+diesen rechnen. Das heißt, wir
+
+10
+00:00:16,540 --> 00:00:17,640
+schauen uns die Addition, die
+
+11
+00:00:17,640 --> 00:00:19,680
+Subtraktion, die skalare
+
+12
+00:00:19,680 --> 00:00:23,720
+Multiplikation und den Betrag bzw.
+
+13
+00:00:23,780 --> 00:00:25,920
+die Länge eines Vektors an. und zum
+
+14
+00:00:25,920 --> 00:00:27,740
+guten schluss noch das skala produkt
+
+15
+00:00:27,740 --> 00:00:29,480
+bezüglich bezug auf die winkel
+
+16
+00:00:32,400 --> 00:00:34,520
+wichtig hierbei ist wir werden das
+
+17
+00:00:34,520 --> 00:00:37,200
+nicht nur stumpf einmal ausrechnen
+
+18
+00:00:37,200 --> 00:00:39,720
+wir werden auch hingehen und die das
+
+19
+00:00:39,720 --> 00:00:41,460
+geometrisch einmal beziehungsweise
+
+20
+00:00:41,460 --> 00:00:42,900
+das grafisch aber die bedeutung
+
+21
+00:00:42,900 --> 00:00:45,360
+veranschaulichen so guter letzt
+
+22
+00:00:45,360 --> 00:00:46,660
+schauen wir uns noch was zum orts
+
+23
+00:00:46,660 --> 00:00:47,860
+weckt und den verbindungs vektoren
+
+24
+00:00:47,860 --> 00:00:49,420
+also den unterschied von beiden und
+
+25
+00:00:49,420 --> 00:00:50,440
+wie man beides errechnet
+
+26
+00:00:50,440 --> 00:00:53,240
+beziehungsweise was die beiden sachen
+
+27
+00:00:55,100 --> 00:00:56,420
+kennzeichnet. Kommen wir erstmal
+
+28
+00:00:56,420 --> 00:00:59,340
+dazu, was ist ein Vektor? In der
+
+29
+00:00:59,340 --> 00:01:01,160
+Schulmatik ist es meistens einfach
+
+30
+00:01:01,160 --> 00:01:03,560
+nur ein Zahngewusel, man hat meistens
+
+31
+00:01:03,560 --> 00:01:04,740
+zwei oder drei Zahlen, die
+
+32
+00:01:04,740 --> 00:01:07,880
+übereinander angeordnet sind. Ein
+
+33
+00:01:07,880 --> 00:01:09,440
+Vektor wird immer mit einem kleinen
+
+34
+00:01:09,440 --> 00:01:10,540
+Buchstaben und einem darüber
+
+35
+00:01:10,540 --> 00:01:12,560
+befindlichen Pfeil gekennzeichnet.
+
+36
+00:01:13,900 --> 00:01:15,320
+Also immer wenn ihr sowas habt, ihr
+
+37
+00:01:15,320 --> 00:01:17,520
+habt hier einen Buchstaben und dann
+
+38
+00:01:17,520 --> 00:01:18,780
+so ein Pfeil darüber, dann ist das
+
+39
+00:01:18,780 --> 00:01:20,900
+ein Vektor. Und Vektoren werden wie
+
+40
+00:01:20,900 --> 00:01:21,960
+gesagt auch immer untereinander
+
+41
+00:01:21,960 --> 00:01:24,000
+geschrieben. In der analytischen
+
+42
+00:01:24,000 --> 00:01:25,900
+Geometrie, also in der
+
+43
+00:01:25,900 --> 00:01:26,980
+Vektorrechnung, die man in der Schule
+
+44
+00:01:26,980 --> 00:01:29,300
+betreibt, kann ein Vektor eine
+
+45
+00:01:29,300 --> 00:01:30,560
+Richtung, eine Verschiebung oder
+
+46
+00:01:30,560 --> 00:01:31,960
+einen Ort angeben. Das heißt, immer
+
+47
+00:01:31,960 --> 00:01:33,260
+wenn ihr euch im dreidimensionalen
+
+48
+00:01:33,260 --> 00:01:35,100
+Raum befindet, habt ihr einen dieser
+
+49
+00:01:35,100 --> 00:01:36,480
+drei Fälle. Also entweder gibt ihr
+
+50
+00:01:36,480 --> 00:01:38,640
+eine Richtung an, eine Verschiebung
+
+51
+00:01:38,640 --> 00:01:41,880
+oder einen Ort. Vektoren können
+
+52
+00:01:41,880 --> 00:01:43,080
+natürlich auch in den linearen
+
+53
+00:01:43,080 --> 00:01:45,040
+Algebra angewendet werden. Dort
+
+54
+00:01:45,040 --> 00:01:46,340
+können sie einen Bestand oder eine
+
+55
+00:01:46,340 --> 00:01:48,200
+Verteilung angeben oder können auch
+
+56
+00:01:48,200 --> 00:01:50,180
+eine Lösung eines Gleichungssystems
+
+57
+00:01:50,180 --> 00:01:51,760
+darstellen. Manche grafische
+
+58
+00:01:51,760 --> 00:01:53,340
+Taschenrechner tun dies zum Beispiel.
+
+59
+00:01:53,820 --> 00:01:56,060
+Wir werden uns in diesem Webinar aber
+
+60
+00:01:56,060 --> 00:01:57,340
+hauptsächlich auf diese drei Fälle
+
+61
+00:01:57,340 --> 00:01:59,120
+beziehen, also eigentlich nur auf die
+
+62
+00:01:59,120 --> 00:02:01,100
+analytische Geometrie, weil dort
+
+63
+00:02:01,100 --> 00:02:03,740
+werdet ihr auch die Vektoren am
+
+64
+00:02:03,740 --> 00:02:06,840
+häufigsten antreffen. Kommen wir
+
+65
+00:02:06,840 --> 00:02:08,880
+damit zuerst zu den Eigenschaften.
+
+66
+00:02:09,520 --> 00:02:12,440
+Jeder Vektor hat eine Länge und eine
+
+67
+00:02:12,440 --> 00:02:16,300
+Richtung. Und zwar, wir sehen jetzt
+
+68
+00:02:16,300 --> 00:02:17,740
+hier immer zwei Vektoren und wir
+
+69
+00:02:17,740 --> 00:02:18,420
+haben jetzt hier einmal die
+
+70
+00:02:18,420 --> 00:02:19,600
+Unterschiede von beiden Vektoren
+
+71
+00:02:19,600 --> 00:02:21,540
+hervorgehoben. Wenn wir uns diese
+
+72
+00:02:21,540 --> 00:02:23,360
+beiden Vektoren mal anschauen, also
+
+73
+00:02:23,360 --> 00:02:25,900
+das ist unser x1, x2, x3, unsere drei
+
+74
+00:02:25,900 --> 00:02:28,500
+Richtungen oder Freiheitsgrad, die
+
+75
+00:02:28,500 --> 00:02:31,520
+wir haben. Und wir sehen hier, das
+
+76
+00:02:31,520 --> 00:02:33,060
+ist immer der Faktor 2 voneinander.
+
+77
+00:02:33,100 --> 00:02:34,760
+Es ist immer bei allen der gleiche
+
+78
+00:02:34,760 --> 00:02:38,200
+Faktor, mal 2, mal 2, mal 2. Und wenn
+
+79
+00:02:38,200 --> 00:02:40,280
+dem so ist, dass die Einträge immer
+
+80
+00:02:40,280 --> 00:02:44,740
+nur um einen bestimmten Faktor, wenn
+
+81
+00:02:44,740 --> 00:02:45,660
+der Vektor mit einem bestimmten
+
+82
+00:02:45,660 --> 00:02:48,160
+Faktor multipliziert wurde, dann wird
+
+83
+00:02:48,160 --> 00:02:49,980
+lediglich die Länge des Vektors
+
+84
+00:02:49,980 --> 00:02:53,320
+verändert. Man verändert nicht seine
+
+85
+00:02:53,320 --> 00:02:55,180
+Richtung. Wenn ihr einen den ganzen
+
+86
+00:02:55,180 --> 00:02:57,120
+Vektor mit mal 2 multipliziert, zeigt
+
+87
+00:02:57,120 --> 00:02:58,580
+der Vektor weiterhin in die gleiche
+
+88
+00:02:58,580 --> 00:02:59,720
+Richtung, er hat nur eine andere
+
+89
+00:02:59,720 --> 00:03:03,800
+Länge. Anders sieht es aus, wenn man
+
+90
+00:03:03,800 --> 00:03:06,760
+Vektoren hat, wo die Einträge keine
+
+91
+00:03:06,760 --> 00:03:08,380
+Vielfachen voneinander sind. Das ist
+
+92
+00:03:08,380 --> 00:03:10,120
+hier der Fall. Hier haben wir mal 3,
+
+93
+00:03:10,300 --> 00:03:13,080
+0 mal irgendwas. Von der 0 kommt man
+
+94
+00:03:13,080 --> 00:03:14,460
+nicht zu 1 durch Multiplikation. Das
+
+95
+00:03:14,460 --> 00:03:16,400
+heißt, es sind auf keinen Fall alle
+
+96
+00:03:16,400 --> 00:03:18,720
+Einträge ein Vielfaches voneinander.
+
+97
+00:03:19,400 --> 00:03:21,000
+Folglich haben die eine völlig
+
+98
+00:03:21,000 --> 00:03:25,160
+verschiedene Richtung. Also die
+
+99
+00:03:25,160 --> 00:03:27,420
+Richtung der Vektoren ist völlig
+
+100
+00:03:27,420 --> 00:03:28,400
+unterschiedlich. Das wurde auch hier
+
+101
+00:03:28,400 --> 00:03:30,660
+kennzeichnet. die haben nichts
+
+102
+00:03:30,660 --> 00:03:34,300
+gemeinsam. Ein Spezialfall ist das,
+
+103
+00:03:34,320 --> 00:03:35,540
+wenn man den sogenannten Gegenvektor
+
+104
+00:03:35,540 --> 00:03:37,560
+hat, das heißt die Zahlen genau
+
+105
+00:03:37,560 --> 00:03:39,180
+vorzeitig verkehrt sind. Dann zeigt
+
+106
+00:03:39,180 --> 00:03:40,480
+er einfach nur genau in die andere
+
+107
+00:03:40,480 --> 00:03:42,440
+Richtung. Der ist um 180 Grad
+
+108
+00:03:42,440 --> 00:03:44,220
+verdreht, das ist eigentlich in der
+
+109
+00:03:44,220 --> 00:03:45,460
+Regel nicht so schlimm, außer bei
+
+110
+00:03:45,460 --> 00:03:46,620
+manchen Sachaufgaben stellt es
+
+111
+00:03:46,620 --> 00:03:48,780
+durchaus ein Problem dar. Es ist aber
+
+112
+00:03:48,780 --> 00:03:50,080
+unschön, deswegen sollte man sich
+
+113
+00:03:50,080 --> 00:03:51,740
+immer bewusst sein, in welche
+
+114
+00:03:51,740 --> 00:03:53,100
+Richtung der Vektor gerade zeigt.
+
+115
+00:03:54,740 --> 00:03:57,040
+eine vermischung aus diesen beiden
+
+116
+00:03:57,040 --> 00:03:58,360
+ist durchaus möglich das heißt dass
+
+117
+00:03:58,360 --> 00:03:59,440
+man beispielsweise mit einem
+
+118
+00:03:59,440 --> 00:04:01,580
+negativen faktor multipliziert dann
+
+119
+00:04:01,580 --> 00:04:03,620
+ist er hat der weg doch einerseits
+
+120
+00:04:03,620 --> 00:04:05,440
+eine andere länge und andererseits
+
+121
+00:04:05,440 --> 00:04:08,300
+hat er eine andere orientierung das
+
+122
+00:04:08,300 --> 00:04:10,660
+ist aber auch kein problem das ist
+
+123
+00:04:10,660 --> 00:04:12,100
+halt ein fall den man ganz oft bei
+
+124
+00:04:12,100 --> 00:04:15,730
+der lage beziehung hat und damit
+
+125
+00:04:15,730 --> 00:04:17,590
+kommen wir auch schon zu den rechten
+
+126
+00:04:17,590 --> 00:04:20,270
+Rechenoperation. Wir sehen hier
+
+127
+00:04:20,270 --> 00:04:22,890
+einmal die Addition, der A-Vektor
+
+128
+00:04:22,890 --> 00:04:24,610
+plus der B-Vektor ergibt einen neuen
+
+129
+00:04:24,610 --> 00:04:28,590
+C-Vektor. Vektoren werden erstmal
+
+130
+00:04:28,590 --> 00:04:29,830
+addiert, indem man die
+
+131
+00:04:29,830 --> 00:04:31,130
+Rechenoperation innerhalb der
+
+132
+00:04:31,130 --> 00:04:32,410
+einzelnen Komponenten ausführt, das
+
+133
+00:04:32,410 --> 00:04:35,750
+heißt 1 plus 2, 2 plus minus 1 und 4
+
+134
+00:04:35,750 --> 00:04:39,730
+plus 3. Das heißt 1 plus 2 ist 3, 2
+
+135
+00:04:39,730 --> 00:04:43,390
+plus minus 1 ist 2 minus 1, also 1, 4
+
+136
+00:04:43,390 --> 00:04:45,710
+plus 3 ist 7. Das heißt, das ist der
+
+137
+00:04:45,710 --> 00:04:46,570
+resultierende Rechenoperation.
+
+138
+00:04:46,590 --> 00:04:48,750
+Vektor. Grafisch kann man sich das
+
+139
+00:04:48,750 --> 00:04:50,210
+vorstellen, wenn wir A plus B haben.
+
+140
+00:04:50,350 --> 00:04:51,350
+Das heißt, wir haben einen Vektor,
+
+141
+00:04:51,370 --> 00:04:54,310
+der zeigt so, einen der zeigt so. Wir
+
+142
+00:04:54,310 --> 00:04:56,190
+laufen erst den A-Vektor ab und dann
+
+143
+00:04:56,190 --> 00:04:57,650
+zusätzlich noch den B-Vektor. Dann
+
+144
+00:04:57,650 --> 00:04:59,890
+sind wir hier hinten und der C-Vektor
+
+145
+00:04:59,890 --> 00:05:02,490
+ist dann der Vektor, der von diesem
+
+146
+00:05:02,490 --> 00:05:06,470
+Punkt, der von dem Anfangspunkt zu
+
+147
+00:05:06,470 --> 00:05:08,250
+diesem Punkt entsteht, also das gegen
+
+148
+00:05:08,250 --> 00:05:08,670
+eine
+
+149
+00:05:13,500 --> 00:05:16,880
+Verschiebung. Das Ganze gibt es
+
+150
+00:05:16,880 --> 00:05:18,260
+natürlich auch mit der Subtraktion. A
+
+151
+00:05:18,260 --> 00:05:20,180
+-Vektor minus B-Vektor ist gleich C
+
+152
+00:05:20,180 --> 00:05:23,580
+-Vektor. Also 4, 2, 5, minus 1, 3,
+
+153
+00:05:23,600 --> 00:05:25,260
+minus 2. Auch hier wird wieder
+
+154
+00:05:25,260 --> 00:05:26,380
+innerhalb der Komponenten nur
+
+155
+00:05:26,380 --> 00:05:29,620
+gerechnet. 4, minus 1, 2, minus 3, 5,
+
+156
+00:05:29,880 --> 00:05:32,000
+minus, minus 2. Aufpassen bei sowas
+
+157
+00:05:32,000 --> 00:05:32,960
+immer, Minus und Minus, da gibt es
+
+158
+00:05:32,960 --> 00:05:33,880
+Plus. Plus die
+
+159
+00:05:38,260 --> 00:05:39,860
+Dichtung 5, minus minus 2, da haben
+
+160
+00:05:39,860 --> 00:05:41,660
+wir es nämlich schon, ist das gleiche
+
+161
+00:05:41,660 --> 00:05:45,690
+wie 5 plus 2 und das ist die 7. Das
+
+162
+00:05:45,690 --> 00:05:46,910
+kann man sich geometrisch wieder wie
+
+163
+00:05:46,910 --> 00:05:48,170
+folgt vorstellen. Wir haben hier so
+
+164
+00:05:48,170 --> 00:05:49,670
+unseren A-Vektor und hier unseren B
+
+165
+00:05:49,670 --> 00:05:51,450
+-Vektor. Als erstes gehen wir unseren
+
+166
+00:05:51,450 --> 00:05:53,770
+A-Vektor entlang. Jetzt gehen wir
+
+167
+00:05:53,770 --> 00:05:55,730
+aber nicht unseren B-Vektor in die
+
+168
+00:05:55,730 --> 00:05:56,950
+Richtung entlang, sondern wir haben
+
+169
+00:05:56,950 --> 00:05:58,750
+hier minus B. Das heißt, wir nehmen
+
+170
+00:05:58,750 --> 00:06:01,130
+den Gegenvektor. der gegenvektor ist
+
+171
+00:06:01,130 --> 00:06:02,710
+wie gesagt einfach nur der vektor mit
+
+172
+00:06:02,710 --> 00:06:04,710
+gleicher länge und gleicher richtung
+
+173
+00:06:04,710 --> 00:06:06,610
+nur um 180 grad verdreht deswegen
+
+174
+00:06:06,610 --> 00:06:10,630
+gehen wir nicht so weg sondern so und
+
+175
+00:06:10,630 --> 00:06:11,510
+dann kommen wir auch wieder an dem
+
+176
+00:06:11,510 --> 00:06:14,750
+punkt an und der entstehende c vektor
+
+177
+00:06:14,750 --> 00:06:16,230
+ist dann der punkt der von dem
+
+178
+00:06:16,230 --> 00:06:18,290
+stundpunkt der beiden zu diesem neuen
+
+179
+00:06:18,290 --> 00:06:20,150
+punkt geht also auch hier wieder grün
+
+180
+00:06:20,150 --> 00:06:21,850
+gekennzeichnet die
+
+181
+00:06:25,560 --> 00:06:27,700
+skalare multiplikation mit einem
+
+182
+00:06:27,700 --> 00:06:30,060
+Faktor dient eigentlich nur den
+
+183
+00:06:30,060 --> 00:06:32,760
+Kürzen oder dem Verlängern von einem
+
+184
+00:06:32,760 --> 00:06:35,700
+Vektor. Wir sehen hier r mal a Vektor
+
+185
+00:06:35,700 --> 00:06:37,440
+ist gleich b Vektor, also zum
+
+186
+00:06:37,440 --> 00:06:40,260
+Beispiel 3 mal 1 minus 2 3. Das
+
+187
+00:06:40,260 --> 00:06:41,840
+bedeutet, dass wir alle Komponenten
+
+188
+00:06:41,840 --> 00:06:43,820
+innerhalb des Vektors mit dem Faktor
+
+189
+00:06:43,820 --> 00:06:45,260
+multiplizieren, also in dem Fall 3.
+
+190
+00:06:45,840 --> 00:06:48,900
+Wir rechnen also 3 mal 1, 3 mal minus
+
+191
+00:06:48,900 --> 00:06:52,460
+2 und 3 mal 3. 3 mal 1 ist ist 3, 3
+
+192
+00:06:52,460 --> 00:06:55,280
+mal minus 2 ist minus 6 und 3 mal 3
+
+193
+00:06:55,280 --> 00:06:57,880
+ist 9. Wir sehen, wir haben so einen
+
+194
+00:06:57,880 --> 00:07:00,020
+Vektor erstellt, der ein Vielfaches
+
+195
+00:07:00,020 --> 00:07:02,700
+von dem Vektor a ist, nämlich ein
+
+196
+00:07:02,700 --> 00:07:05,480
+Vielfaches mit dem Faktor 3 und damit
+
+197
+00:07:05,480 --> 00:07:07,020
+haben wir, wie wir zu Anfang des
+
+198
+00:07:07,020 --> 00:07:09,140
+Webinars gelernt haben, lediglich die
+
+199
+00:07:09,140 --> 00:07:12,600
+Länge verändert. Wenn wir mit einem
+
+200
+00:07:12,600 --> 00:07:14,060
+negativen Faktor, wie zum Beispiel
+
+201
+00:07:14,060 --> 00:07:16,840
+minus 1, multiplizieren, berechnen
+
+202
+00:07:16,840 --> 00:07:17,500
+Nehmen wir den sogenannten
+
+203
+00:07:17,500 --> 00:07:19,420
+Gegenvektor. Das ist der Vektor, der
+
+204
+00:07:19,420 --> 00:07:22,740
+im 180 Grad dem entgegensteht. Und
+
+205
+00:07:22,740 --> 00:07:24,200
+der kann natürlich auch eine andere
+
+206
+00:07:24,200 --> 00:07:25,540
+Länge haben. Die Richtung ist aber
+
+207
+00:07:25,540 --> 00:07:26,940
+gleich. Es ist einfach nur die
+
+208
+00:07:26,940 --> 00:07:29,240
+Orientierung, die geändert wurde.
+
+209
+00:07:30,640 --> 00:07:31,920
+Also man kann es auch so erklären,
+
+210
+00:07:32,060 --> 00:07:33,200
+dass man die Spitze einfach ans
+
+211
+00:07:33,200 --> 00:07:34,020
+andere Ende zeichnet.
+
+212
+00:07:37,260 --> 00:07:39,600
+Gut, damit wären wir auch schon bei
+
+213
+00:07:39,600 --> 00:07:42,180
+der Länge. Jeder Vektor hat eine
+
+214
+00:07:42,180 --> 00:07:46,020
+Länge. Wenn man die Länge eines
+
+215
+00:07:46,020 --> 00:07:48,920
+Vektors ändert, haben wir ja gerade
+
+216
+00:07:48,920 --> 00:07:51,160
+gesehen, hier sehen wir jetzt noch,
+
+217
+00:07:51,200 --> 00:07:52,500
+wie wir die Länge eines Vektors dann
+
+218
+00:07:52,500 --> 00:07:54,680
+berechnen können. Es ist einfach die
+
+219
+00:07:54,680 --> 00:07:56,920
+Wurzel aus den einzelnen Komponenten
+
+220
+00:07:56,920 --> 00:07:58,920
+zum Quadrat, also 1 zum Quadrat plus
+
+221
+00:07:58,920 --> 00:08:01,900
+2 zum Quadrat plus 2 zum Quadrat, das
+
+222
+00:08:01,900 --> 00:08:03,220
+ist in dem Fall die Wurzel aus 9,
+
+223
+00:08:03,280 --> 00:08:05,880
+also 3. Dieser Ansatz basiert auf dem
+
+224
+00:08:05,880 --> 00:08:07,160
+Satz des Pythagoras für die
+
+225
+00:08:07,160 --> 00:08:13,180
+Raumdiagonale. Und wie gesagt, das
+
+226
+00:08:13,180 --> 00:08:14,840
+wäre der erste Schritt. Hier haben
+
+227
+00:08:14,840 --> 00:08:15,880
+wir die einzelnen Komponenten. Das
+
+228
+00:08:15,880 --> 00:08:18,960
+ist die resultierende. Das V ist dann
+
+229
+00:08:18,960 --> 00:08:20,980
+die Wurzel aus V1 zum Quadrat plus V2
+
+230
+00:08:20,980 --> 00:08:22,800
+zum Quadrat. Vorausgesetzt hier steht
+
+231
+00:08:22,800 --> 00:08:25,100
+ein rechter Winkel. Aber diese drei
+
+232
+00:08:25,100 --> 00:08:28,760
+Richtungen stehen alle senkrecht
+
+233
+00:08:28,760 --> 00:08:31,620
+aufeinander. Das ist immer so. Und
+
+234
+00:08:31,620 --> 00:08:33,880
+daher kann hier dieser Ansatz vom
+
+235
+00:08:33,880 --> 00:08:35,900
+Pythagoras genutzt werden. Also wie
+
+236
+00:08:35,900 --> 00:08:37,600
+gesagt, das ist die Formel, mit der
+
+237
+00:08:37,600 --> 00:08:39,660
+immer die Länge eines Vektors oder
+
+238
+00:08:39,660 --> 00:08:42,880
+auch später der Abstand zwischen zwei
+
+239
+00:08:42,880 --> 00:08:44,520
+Punkten berechnet wird, wenn man hier
+
+240
+00:08:44,520 --> 00:08:46,100
+den Verbindungsvektor einsetzt. Was
+
+241
+00:08:46,100 --> 00:08:47,880
+ein Verbindungsvektor ist, sehen wir
+
+242
+00:08:47,880 --> 00:08:48,840
+gleich auch noch.
+
+243
+00:08:52,410 --> 00:08:55,110
+Kommen wir nun zum Skalarprodukt aus
+
+244
+00:08:55,110 --> 00:08:57,850
+zwei Vektoren. Also wir
+
+245
+00:08:57,850 --> 00:08:59,570
+multiplizieren zwei Vektoren
+
+246
+00:08:59,570 --> 00:09:00,950
+miteinander. Also A-Vektor mal B
+
+247
+00:09:00,950 --> 00:09:03,850
+-Vektor ergibt gibt einen Wert r.
+
+248
+00:09:05,050 --> 00:09:06,670
+Wichtig dabei ist, das ist eine ganz
+
+249
+00:09:06,670 --> 00:09:09,330
+beliebte Frage, wenn das Ergebnis aus
+
+250
+00:09:09,330 --> 00:09:11,450
+dieser Skalarmultiplikation, also das
+
+251
+00:09:11,450 --> 00:09:14,510
+Skalarprodukt, 0 ist, stehen beide
+
+252
+00:09:14,510 --> 00:09:16,630
+Vektoren senkrecht aufeinander. Das
+
+253
+00:09:16,630 --> 00:09:17,810
+ist immer so. Also immer wenn die
+
+254
+00:09:17,810 --> 00:09:21,810
+Aufgabenstellung lautet, zeigen Sie,
+
+255
+00:09:21,870 --> 00:09:23,130
+dass die beiden Vektoren senkrecht
+
+256
+00:09:23,130 --> 00:09:24,470
+aufeinander stehen, ist die Lösung,
+
+257
+00:09:24,550 --> 00:09:26,890
+das Skalarprodukt zu bilden. und
+
+258
+00:09:26,890 --> 00:09:28,590
+dieses muss dann 0 betragen, dann ist
+
+259
+00:09:28,590 --> 00:09:30,190
+das der Beweis, dass die beiden
+
+260
+00:09:30,190 --> 00:09:31,970
+Vektoren senkrecht aufeinander
+
+261
+00:09:31,970 --> 00:09:34,490
+stehen. Wie man das Skalarprodukt
+
+262
+00:09:34,490 --> 00:09:35,990
+bildet, zeigen wir einmal hier. Also
+
+263
+00:09:35,990 --> 00:09:38,850
+wir haben 2, 2, 4 mal 1, minus 3, 1.
+
+264
+00:09:39,430 --> 00:09:41,310
+Wir führen die Multiplikation
+
+265
+00:09:41,310 --> 00:09:43,150
+innerhalb der Zeile aus, wenn man so
+
+266
+00:09:43,150 --> 00:09:44,590
+möchte. Wir könnten das ja auch so
+
+267
+00:09:44,590 --> 00:09:46,150
+einteilen, erste Zeile, zweite Zeile,
+
+268
+00:09:46,150 --> 00:09:48,350
+dritte Zeile, wenn man so möchte. Man
+
+269
+00:09:48,350 --> 00:09:51,270
+spricht aber eher von Elementen. Das
+
+270
+00:09:51,270 --> 00:09:54,110
+heißt, wir haben hier 2 mal 1 plus 2
+
+271
+00:09:54,110 --> 00:09:56,630
+mal minus 3 plus 4 mal 1. Also
+
+272
+00:09:56,630 --> 00:10:02,230
+innerhalb der Elemente multiplizieren
+
+273
+00:10:02,230 --> 00:10:05,050
+und dann die Zeilen jeweils addieren.
+
+274
+00:10:05,410 --> 00:10:08,730
+Wir kommen so auf 2 mal 1 plus 2 mal
+
+275
+00:10:08,730 --> 00:10:12,450
+minus 3 plus 4 mal 1 und das ist 0. 2
+
+276
+00:10:12,450 --> 00:10:16,510
+mal 1 ist 2, 2 mal minus 3 ist minus
+
+277
+00:10:16,510 --> 00:10:18,450
+6 und 4 mal 1 ist 4. Das heißt, wir
+
+278
+00:10:18,450 --> 00:10:21,750
+haben 2 minus 6 plus 4. 2 plus 4 sind
+
+279
+00:10:21,750 --> 00:10:24,910
+auch 6 und 6 minus 6 sind dann 0. Das
+
+280
+00:10:24,910 --> 00:10:26,350
+heißt, diese beiden Vektoren stehen
+
+281
+00:10:26,350 --> 00:10:30,270
+durchaus senkrecht aufeinander. Hier
+
+282
+00:10:30,270 --> 00:10:32,530
+haben wir ein Gegenbeispiel. 1, 0, 2
+
+283
+00:10:32,530 --> 00:10:36,130
+mal 3, 1, 4. 1 mal 3 plus 0 mal 1
+
+284
+00:10:36,130 --> 00:10:39,270
+plus 2 mal 4. 1 mal 3 sind 3. 0 mal 1
+
+285
+00:10:39,270 --> 00:10:41,470
+ist 0. Und 2 mal 4 ist 8. Wir haben
+
+286
+00:10:41,470 --> 00:10:43,570
+also 3 plus 8. Das sind 11. Diese
+
+287
+00:10:43,570 --> 00:10:44,970
+beiden Vektoren stehen zum Beispiel
+
+288
+00:10:44,970 --> 00:10:46,270
+nicht senkrecht aufeinander.
+
+289
+00:10:49,270 --> 00:10:51,070
+Natürlich kann man nicht nur
+
+290
+00:10:51,070 --> 00:10:52,930
+unterscheiden zwischen Vektoren
+
+291
+00:10:52,930 --> 00:10:54,110
+stehen senkrecht aufeinander und
+
+292
+00:10:54,110 --> 00:10:55,330
+stehen nicht senkrecht aufeinander.
+
+293
+00:10:55,330 --> 00:10:57,310
+Man kann auch den Winkel, der
+
+294
+00:10:57,310 --> 00:10:58,790
+zwischen diesen Vektoren entsteht,
+
+295
+00:10:58,790 --> 00:11:00,910
+berechnen. Und das hier rechts ist
+
+296
+00:11:00,910 --> 00:11:02,850
+die Formel dazu. Mit dieser Formel
+
+297
+00:11:02,850 --> 00:11:04,930
+wird der Winkel berechnet, der
+
+298
+00:11:04,930 --> 00:11:08,210
+zwischen zwei Vektoren besteht. Oder
+
+299
+00:11:08,210 --> 00:11:09,510
+der von zwei Vektoren eingeschlossen
+
+300
+00:11:09,510 --> 00:11:12,710
+wird. Das hier oben, A mal B Vektor,
+
+301
+00:11:12,730 --> 00:11:14,710
+ist einfach nur das Skalarprodukt.
+
+302
+00:11:15,670 --> 00:11:16,850
+Diese Betragsstriche ist der
+
+303
+00:11:16,850 --> 00:11:19,870
+Vektorbetrag, also die Länge. Wichtig
+
+304
+00:11:19,870 --> 00:11:21,450
+ist, wir multiplizieren die
+
+305
+00:11:21,450 --> 00:11:23,550
+Vektorlänge A mal die Vektorlänge B.
+
+306
+00:11:24,450 --> 00:11:28,090
+Ja, das ist ganz wichtig. Und hier
+
+307
+00:11:28,090 --> 00:11:30,510
+oben einfach Skalarprodukt. Wir haben
+
+308
+00:11:30,510 --> 00:11:32,310
+das Ganze mal für zwei Vektoren
+
+309
+00:11:32,310 --> 00:11:34,890
+gemacht, also 2, 0, 0 mal 1, 2, 2,
+
+310
+00:11:34,890 --> 00:11:38,510
+geteilt durch der betrag von 200 mal
+
+311
+00:11:38,510 --> 00:11:41,370
+der betrag von 122 ist gleich der
+
+312
+00:11:41,370 --> 00:11:45,870
+cosinus von alpha als erstes lösen
+
+313
+00:11:45,870 --> 00:11:47,190
+wir oben die skalare multiplikation
+
+314
+00:11:47,190 --> 00:11:50,890
+auf 2 mal 1 plus 0 mal 2 plus 0 mal 2
+
+315
+00:11:50,890 --> 00:11:55,310
+ist 2 hier unten haben wir die wurzel
+
+316
+00:11:55,310 --> 00:11:57,670
+aus 2 zum quadrat plus 0 zum quadrat
+
+317
+00:11:57,670 --> 00:12:00,750
+plus 0 zum quadrat die wurzel aus aus
+
+318
+00:12:00,750 --> 00:12:04,170
+2 zum Quadrat ist 2, dann geht es
+
+319
+00:12:04,170 --> 00:12:05,690
+hier rechts weiter, die Wurzel aus 1
+
+320
+00:12:05,690 --> 00:12:08,570
+zum Quadrat plus 2 zum Quadrat plus 2
+
+321
+00:12:08,570 --> 00:12:11,830
+zum Quadrat, das ist dann die Wurzel
+
+322
+00:12:11,830 --> 00:12:13,690
+aus 9 insgesamt, also 1 zum Quadrat
+
+323
+00:12:13,690 --> 00:12:15,430
+plus 2 zum Quadrat plus 2 zum Quadrat
+
+324
+00:12:15,430 --> 00:12:18,590
+ist 9 und die Wurzel aus 9 ist die 3,
+
+325
+00:12:18,730 --> 00:12:20,290
+so kommen wir hier auf die 3 und so
+
+326
+00:12:20,290 --> 00:12:23,150
+entsteht dieser schöne Bruch, das
+
+327
+00:12:23,150 --> 00:12:26,550
+heißt 2 durch 2 2 mal 3 ist gleich
+
+328
+00:12:26,550 --> 00:12:28,110
+wie 2 Sechstel. Man könnte es auch
+
+329
+00:12:28,110 --> 00:12:29,190
+kürzen, das ist aber nicht so
+
+330
+00:12:29,190 --> 00:12:31,110
+wichtig. Wir wissen dann also, der
+
+331
+00:12:31,110 --> 00:12:33,030
+Kosinus von Alpha ist gleich 2
+
+332
+00:12:33,030 --> 00:12:35,090
+Sechstel. Wir wollen natürlich nicht
+
+333
+00:12:35,090 --> 00:12:36,270
+wissen, was der Kosinus von Alpha
+
+334
+00:12:36,270 --> 00:12:37,410
+ist, sondern wir wollen wissen, was
+
+335
+00:12:37,410 --> 00:12:38,830
+Alpha ist. Deswegen brauchen wir noch
+
+336
+00:12:38,830 --> 00:12:40,590
+die Umkehroperation vom Kosinus. Das
+
+337
+00:12:40,590 --> 00:12:41,910
+ist der Cosinus hoch minus 1,
+
+338
+00:12:42,150 --> 00:12:43,890
+beziehungsweise manchmal auch der,
+
+339
+00:12:43,970 --> 00:12:45,910
+oder fachlich richtig, der Argus
+
+340
+00:12:45,910 --> 00:12:48,510
+-Cosinus. In der Schule spricht man
+
+341
+00:12:48,510 --> 00:12:49,910
+aber eher von Cosinus hoch minus 1.
+
+342
+00:12:50,970 --> 00:12:52,670
+Gut, wir wissen dann, Alpha ist
+
+343
+00:12:52,670 --> 00:12:54,850
+gleich der Cosinus hoch minus 1 von 2
+
+344
+00:12:54,850 --> 00:12:56,290
+Sechstel. Und das sind dann laut
+
+345
+00:12:56,290 --> 00:12:58,330
+unserem Taschenrechner ungefähr 70,5
+
+346
+00:12:58,330 --> 00:13:00,450
+Grad. Und das ist der Winkel, den die
+
+347
+00:13:00,450 --> 00:13:02,790
+beiden Vektoren einschließen. Und
+
+348
+00:13:05,510 --> 00:13:07,310
+damit wären wir auch schon beim
+
+349
+00:13:07,310 --> 00:13:09,210
+letzten Punkt unseres Webinars, das
+
+350
+00:13:09,210 --> 00:13:10,950
+ist der Ortsvektor und der
+
+351
+00:13:10,950 --> 00:13:14,570
+Verbindungsvektor. Ein Ortsvektor
+
+352
+00:13:14,570 --> 00:13:16,870
+zeigt immer vom Koordinatenursprung
+
+353
+00:13:16,870 --> 00:13:18,030
+zu einem Punkt, das heißt wir haben
+
+354
+00:13:18,030 --> 00:13:19,670
+irgendeinen Punkt und der Vektor
+
+355
+00:13:19,670 --> 00:13:21,410
+zeigt vom Ursprung zu diesem Punkt.
+
+356
+00:13:22,470 --> 00:13:25,810
+Es ist vom Prinzip her einfach die
+
+357
+00:13:25,810 --> 00:13:28,370
+Koordinaten als Vektor beschrieben.
+
+358
+00:13:28,370 --> 00:13:33,170
+Wenn ihr die Punkte eines Punkts als
+
+359
+00:13:33,170 --> 00:13:35,010
+Vektor umschreibt, erhaltet ihr
+
+360
+00:13:35,010 --> 00:13:39,350
+automatisch den Ortsvektor. Der wird
+
+361
+00:13:39,350 --> 00:13:40,990
+dann mit OP gekennzeichnet oder
+
+362
+00:13:40,990 --> 00:13:43,630
+einfach nur mit P. Das hängt davon
+
+363
+00:13:43,630 --> 00:13:44,910
+ab, was man gerade machen möchte.
+
+364
+00:13:45,910 --> 00:13:46,890
+Dann gibt es noch den
+
+365
+00:13:46,890 --> 00:13:49,070
+Verbindungsvektor. Wie der Name schon
+
+366
+00:13:49,070 --> 00:13:51,470
+sagt, verbindet der Verbindungsvektor
+
+367
+00:13:51,470 --> 00:13:52,930
+zwei Punkte miteinander. Das heißt,
+
+368
+00:13:53,010 --> 00:13:55,730
+er gibt eine Verschiebung an. Und so
+
+369
+00:13:55,730 --> 00:13:56,910
+ein Verbindungsvektor wird immer
+
+370
+00:13:56,910 --> 00:13:58,370
+genutzt. zum Aufstellen von Geraden
+
+371
+00:13:58,370 --> 00:14:00,790
+und Ebenengleichungen, wenn man von
+
+372
+00:14:00,790 --> 00:14:01,910
+einem Punkt zum anderen kommen
+
+373
+00:14:01,910 --> 00:14:03,430
+möchte. Beispiel bei uns jetzt Punkt
+
+374
+00:14:03,430 --> 00:14:07,950
+A und Punkt B. Also Punkt A und Punkt
+
+375
+00:14:07,950 --> 00:14:11,290
+B sind jeweils mit einem Ortsvektor
+
+376
+00:14:11,290 --> 00:14:12,990
+angegeben, das heißt vom Ursprung aus
+
+377
+00:14:12,990 --> 00:14:15,870
+bezogen und also hier blau und orange
+
+378
+00:14:15,870 --> 00:14:18,610
+kennzeichnet. Und wir wollen jetzt
+
+379
+00:14:18,610 --> 00:14:21,450
+diesen grünen Vektor hier bestimmen,
+
+380
+00:14:21,450 --> 00:14:24,970
+den Verbindungsvektor. Das machen wir
+
+381
+00:14:24,970 --> 00:14:27,590
+einfach, indem wir Zielpunkt minus
+
+382
+00:14:27,590 --> 00:14:29,390
+Startpunkt rechnen oder auch als
+
+383
+00:14:29,390 --> 00:14:32,570
+Spitze minus Fuß berechnet. Also in
+
+384
+00:14:32,570 --> 00:14:34,730
+unserem Beispiel B-Vektor minus A
+
+385
+00:14:34,730 --> 00:14:37,110
+-Vektor. Also der Verbindungsvektor
+
+386
+00:14:37,110 --> 00:14:40,170
+AB ist dann unser B-Vektor minus
+
+387
+00:14:40,170 --> 00:14:42,850
+unser A-Vektor. Also Bx minus Ax, By
+
+388
+00:14:42,850 --> 00:14:46,270
+minus Ay, Bz minus Az. Also 4 minus
+
+389
+00:14:46,270 --> 00:14:49,690
+2, minus 1, minus 3 und 3 minus 1. 4
+
+390
+00:14:49,690 --> 00:14:53,270
+minus 2 ist 2. Minus 1 minus 3 ist
+
+391
+00:14:53,270 --> 00:14:58,050
+minus 4 und 3 minus 1 ist 2. Und das
+
+392
+00:14:58,050 --> 00:14:59,250
+ist letztendlich dann unser
+
+393
+00:14:59,250 --> 00:15:00,570
+Verbindungsvektor vom Punkt.
+
+394
+00:15:05,200 --> 00:15:08,300
+Also minus 2, 4, minus 2 würde der
+
+395
+00:15:08,300 --> 00:15:11,980
+Vektor von B nach A zeigen. Also der
+
+396
+00:15:11,980 --> 00:15:13,720
+Pfeil wäre genau umgekehrt. Das wäre
+
+397
+00:15:13,720 --> 00:15:15,620
+dann der sogenannte Gegenvektor.
+
+398
+00:15:17,920 --> 00:15:19,820
+Damit wären wir auch schon am Ende
+
+399
+00:15:19,820 --> 00:15:21,680
+des Webinars. Ich bedanke mich recht
+
+400
+00:15:21,680 --> 00:15:23,120
+herzlich für eure Aufmerksamkeit.
+

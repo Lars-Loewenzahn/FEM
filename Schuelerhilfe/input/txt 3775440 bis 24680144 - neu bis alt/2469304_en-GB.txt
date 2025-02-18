@@ -1,0 +1,1055 @@
+﻿1
+00:00:28,340 --> 00:00:29,980
+Good evening and welcome 
+
+2
+00:00:29,980 --> 00:00:34,000
+to the webinar on geometry. I 
+
+3
+00:00:34,000 --> 00:00:36,300
+hope you can all hear me and that 
+
+4
+00:00:36,300 --> 00:00:41,760
+the picture and sound are OK. Here 
+
+5
+00:00:41,760 --> 00:00:43,980
+is a brief overview 
+
+6
+00:00:43,980 --> 00:00:45,360
+of what you 
+
+7
+00:00:45,360 --> 00:00:48,060
+can expect in the webinar. We'll 
+
+8
+00:00:48,060 --> 00:00:49,600
+start by looking at 
+
+9
+00:00:49,600 --> 00:00:52,880
+lines, then figures and then 
+
+10
+00:00:52,880 --> 00:00:55,380
+we'll take another look at figures 
+
+11
+00:00:55,460 --> 00:00:57,200
+that can be mirrored. 
+
+12
+00:00:59,840 --> 00:01:00,900
+Basically, 
+
+13
+00:01:00,900 --> 00:01:02,780
+there are different lines in mathematics. 
+
+14
+00:01:02,780 --> 00:01:05,460
+On the one hand, there are lines. They 
+have 
+
+15
+00:01:05,460 --> 00:01:10,560
+a beginning and an end. Here we have 
+
+16
+00:01:10,560 --> 00:01:11,800
+a beginning, here we have an 
+
+17
+00:01:11,800 --> 00:01:13,180
+end. We know there is a 
+
+18
+00:01:13,180 --> 00:01:17,000
+point. Then there are also half-lines, 
+
+19
+00:01:17,000 --> 00:01:19,000
+also known as rays. They 
+
+20
+00:01:19,000 --> 00:01:21,440
+always have a starting point, but no 
+
+21
+00:01:21,440 --> 00:01:24,120
+end point. This means that they run 
+
+22
+00:01:24,120 --> 00:01:29,080
+to infinity. Then there are also 
+
+23
+00:01:29,080 --> 00:01:35,380
+straight lines. These have no beginning 
+
+24
+00:01:35,380 --> 00:01:40,780
+and no end. In other words, they run. 
+
+25
+00:01:44,590 --> 00:01:47,570
+Yes, they are ultimately infinitely 
+
+26
+00:01:47,570 --> 00:01:50,650
+long. This 
+
+27
+00:01:50,650 --> 00:01:53,030
+is illustrated quite well here again to 
+show that we 
+
+28
+00:01:53,030 --> 00:01:55,970
+don't know where they end and where this 
+
+29
+00:01:55,970 --> 00:01:59,770
+straight line ends and where it ends. 
+where 
+
+30
+00:01:59,770 --> 00:02:02,070
+it ends and where it begins. So, 
+
+31
+00:02:03,810 --> 00:02:04,570
+let's 
+
+32
+00:02:04,570 --> 00:02:07,130
+take a look at the properties of lines. 
+Two 
+
+33
+00:02:07,130 --> 00:02:09,370
+lines are parallel if they 
+
+34
+00:02:09,370 --> 00:02:11,870
+run in the same direction. Regardless of 
+whether 
+
+35
+00:02:11,870 --> 00:02:13,590
+it is a distance, a ray 
+
+36
+00:02:13,590 --> 00:02:16,290
+or a straight line. The blue and 
+
+37
+00:02:16,290 --> 00:02:18,230
+red lines are parallel to one another. 
+
+38
+00:02:18,290 --> 00:02:19,350
+This means that they have the 
+
+39
+00:02:19,350 --> 00:02:21,190
+same distance everywhere. The green and 
+
+40
+00:02:21,190 --> 00:02:23,050
+violet straight lines, on the other hand, 
+are not 
+
+41
+00:02:23,050 --> 00:02:25,310
+parallel because the distance is much 
+
+42
+00:02:25,310 --> 00:02:29,110
+greater here than here. Lines 
+
+43
+00:02:29,110 --> 00:02:31,570
+that are not parallel intersect 
+
+44
+00:02:31,570 --> 00:02:32,510
+somewhere at a point, 
+
+45
+00:02:32,590 --> 00:02:34,510
+probably somewhere 
+
+46
+00:02:34,510 --> 00:02:35,330
+around here. 
+
+47
+00:02:38,140 --> 00:02:41,380
+A right angle is formed when 
+
+48
+00:02:41,380 --> 00:02:43,100
+two lines 
+
+49
+00:02:43,100 --> 00:02:44,320
+are perpendicular to each other . In other 
+words, we have a 
+
+50
+00:02:44,320 --> 00:02:46,660
+line here and we have a line here. 
+
+51
+00:02:47,300 --> 00:02:49,680
+In higher grades, we learn 
+
+52
+00:02:49,680 --> 00:02:52,780
+about the concept of angles. 
+
+53
+00:02:52,780 --> 00:02:53,720
+In fact, it is basically the 
+
+54
+00:02:53,720 --> 00:02:57,400
+right angle. This is 90 degrees. 
+
+55
+00:02:58,680 --> 00:03:00,540
+You can find a right angle almost 
+
+56
+00:03:00,540 --> 00:03:03,660
+everywhere. On windows, doors, 
+
+57
+00:03:03,820 --> 00:03:06,540
+shoe boxes, but also on a 
+
+58
+00:03:06,540 --> 00:03:11,360
+sheet of paper. So much for the lines. 
+
+59
+00:03:11,380 --> 00:03:13,800
+Let's move on to the figures. Figures 
+
+60
+00:03:13,800 --> 00:03:15,540
+are created when several points in the 
+
+61
+00:03:15,540 --> 00:03:17,620
+plane are connected one after the other. 
+
+62
+00:03:19,280 --> 00:03:22,360
+Here we have a triangle, 
+
+63
+00:03:22,440 --> 00:03:24,840
+here we have a quadrilateral with four 
+
+64
+00:03:24,840 --> 00:03:26,960
+corners, here we have a pentagon with 
+
+65
+00:03:26,960 --> 00:03:29,940
+five corners, here we have an octagon 
+
+66
+00:03:29,940 --> 00:03:31,700
+with eight corners, if we count them. 1, 
+
+67
+00:03:31,740 --> 00:03:34,960
+2, 3, 4, 5, 6, 7, 8. And here we have 
+
+68
+00:03:34,960 --> 00:03:39,000
+a circle with no corners. 
+
+69
+00:03:39,000 --> 00:03:41,140
+In other words, these are the shapes 
+
+70
+00:03:41,160 --> 00:03:44,580
+we have listed here that 
+
+71
+00:03:44,580 --> 00:03:46,160
+you 
+
+72
+00:03:46,160 --> 00:03:49,460
+are familiar with from school. Let's start 
+by looking at a 
+
+73
+00:03:49,460 --> 00:03:50,940
+quadrilateral. Basically 
+
+74
+00:03:50,940 --> 00:03:52,460
+, this is actually a 
+
+75
+00:03:52,460 --> 00:03:55,820
+square. All sides, i.e. 
+
+76
+00:03:55,820 --> 00:03:58,940
+sides C, B, A and D are the same length 
+and 
+
+77
+00:03:58,940 --> 00:04:01,400
+the opposite sides are 
+
+78
+00:04:01,400 --> 00:04:03,120
+even parallel. They have 
+
+79
+00:04:03,120 --> 00:04:05,900
+the same distance everywhere and all 
+angles 
+
+80
+00:04:05,900 --> 00:04:10,190
+have a right angle. So here there 
+
+81
+00:04:10,190 --> 00:04:11,970
+is a right angle, here there is 
+
+82
+00:04:11,970 --> 00:04:13,670
+a right angle, here there is 
+
+83
+00:04:13,670 --> 00:04:15,410
+a right angle and here there 
+
+84
+00:04:15,410 --> 00:04:17,330
+is a right angle. Because 
+
+85
+00:04:17,330 --> 00:04:19,910
+the side and the side are 
+
+86
+00:04:19,910 --> 00:04:21,550
+perpendicular to each other, but also the 
+
+87
+00:04:21,550 --> 00:04:23,990
+side and the side and also the 
+
+88
+00:04:23,990 --> 00:04:27,090
+side B and A and so on. Then 
+
+89
+00:04:27,090 --> 00:04:30,070
+there are also rectangles. In the case of 
+
+90
+00:04:30,070 --> 00:04:31,310
+rectangles, the 
+
+91
+00:04:31,310 --> 00:04:33,530
+opposite sides, i.e. C 
+
+92
+00:04:33,530 --> 00:04:37,210
+and A, but also D and B 
+
+93
+00:04:37,210 --> 00:04:41,130
+, are the same length and they are 
+parallel. But the 
+
+94
+00:04:41,130 --> 00:04:43,190
+sides A and B, for example, are 
+
+95
+00:04:43,190 --> 00:04:45,070
+not the same length. 
+
+96
+00:04:45,070 --> 00:04:48,330
+Again, we have right angles in the 
+
+97
+00:04:48,330 --> 00:04:50,570
+corners, as they are perpendicular 
+
+98
+00:04:50,570 --> 00:04:53,890
+to each other, the sides. Then 
+
+99
+00:04:53,890 --> 00:04:55,550
+we have a parallelogram here. 
+
+100
+00:04:57,170 --> 00:04:59,110
+The opposite sides are 
+
+101
+00:04:59,110 --> 00:05:00,350
+again the same length, except that they 
+
+102
+00:05:00,350 --> 00:05:04,010
+are slightly offset. And they are 
+
+103
+00:05:04,010 --> 00:05:06,390
+also parallel again. We can 
+
+104
+00:05:06,390 --> 00:05:08,650
+also see that quite nicely. They're all 
+
+105
+00:05:08,650 --> 00:05:10,650
+about the same distance apart. 
+
+106
+00:05:14,080 --> 00:05:17,060
+Then we come to the trapezoid. And with 
+
+107
+00:05:17,060 --> 00:05:18,660
+the trapezoid, the two 
+
+108
+00:05:18,660 --> 00:05:19,920
+opposite sides 
+
+109
+00:05:19,920 --> 00:05:24,460
+are parallel to each other. 
+
+110
+00:05:24,460 --> 00:05:26,060
+
+111
+00:05:26,060 --> 00:05:29,760
+However, the other two opposite sides are 
+not parallel and there 
+
+112
+00:05:29,760 --> 00:05:31,220
+is no right angle. 
+
+113
+00:05:32,850 --> 00:05:34,390
+Then we also have an 
+
+114
+00:05:34,390 --> 00:05:38,230
+irregular quadrilateral here. We see that 
+the 
+
+115
+00:05:38,230 --> 00:05:41,790
+opposite sides are 
+
+116
+00:05:41,790 --> 00:05:45,650
+neither parallel nor do they have 
+
+117
+00:05:47,730 --> 00:05:50,610
+the same length everywhere. 
+
+118
+00:05:51,970 --> 00:05:53,730
+And there is no right angle either 
+
+119
+00:05:53,730 --> 00:05:53,930
+. 
+
+120
+00:05:58,150 --> 00:06:02,050
+So, we just had a square. 
+
+121
+00:06:03,710 --> 00:06:05,770
+Then we have a rhombus. With 
+
+122
+00:06:05,770 --> 00:06:08,410
+the rhombus, all sides are the 
+
+123
+00:06:08,410 --> 00:06:10,950
+same length again. And the 
+
+124
+00:06:10,950 --> 00:06:12,590
+opposite sides are also 
+
+125
+00:06:12,590 --> 00:06:16,950
+parallel again. The only difference is 
+that the sides 
+
+126
+00:06:16,950 --> 00:06:18,990
+are slightly offset, but are still 
+
+127
+00:06:18,990 --> 00:06:21,630
+parallel to each other and the same 
+
+128
+00:06:21,630 --> 00:06:26,030
+length. 
+
+129
+00:06:26,030 --> 00:06:28,210
+We also just had the parallelogram , but 
+
+130
+00:06:28,210 --> 00:06:29,510
+we didn't have a kite quadrilateral yet. 
+
+131
+00:06:29,590 --> 00:06:31,250
+Here, the adjacent 
+
+132
+00:06:31,250 --> 00:06:35,630
+sides are the same length, sides C and 
+
+133
+00:06:35,630 --> 00:06:38,090
+D, but sides A and B are also 
+
+134
+00:06:38,090 --> 00:06:41,610
+the same length. However, sides A and D 
+
+135
+00:06:41,610 --> 00:06:43,830
+or sides B and C are 
+
+136
+00:06:43,830 --> 00:06:47,690
+not the same length. Here we have 
+
+137
+00:06:47,690 --> 00:06:49,430
+again 
+
+138
+00:06:49,430 --> 00:06:50,950
+illustrated a hierarchy of quadrilaterals 
+, which are the 
+
+139
+00:06:50,950 --> 00:06:52,830
+most common quadrilaterals 
+
+140
+00:06:52,830 --> 00:06:55,330
+that are discussed at school . We 
+
+141
+00:06:55,330 --> 00:06:57,170
+start with the square, then we 
+
+142
+00:06:57,170 --> 00:06:58,470
+usually 
+
+143
+00:06:58,470 --> 00:07:01,590
+look at the rhombus and the rectangle. 
+Then 
+
+144
+00:07:01,590 --> 00:07:03,490
+we look at the parallelogram 
+
+145
+00:07:03,490 --> 00:07:06,010
+. And last but not least, we look 
+
+146
+00:07:06,010 --> 00:07:09,950
+at the kite, any 
+
+147
+00:07:09,950 --> 00:07:13,210
+quadrilaterals and the trapezoid. 
+
+148
+00:07:16,900 --> 00:07:19,020
+Finally, we look at 
+
+149
+00:07:19,020 --> 00:07:22,800
+reflection. 
+
+150
+00:07:22,800 --> 00:07:25,360
+
+151
+00:07:25,360 --> 00:07:28,560
+
+152
+00:07:28,560 --> 00:07:30,700
+We can see this here in the examples 
+
+153
+00:07:30,700 --> 00:07:33,960
+of our axis and we want to 
+
+154
+00:07:33,960 --> 00:07:36,880
+mirror this half here so that 
+
+155
+00:07:36,880 --> 00:07:39,500
+the letter a is created often 
+
+156
+00:07:39,500 --> 00:07:41,360
+a mirror is 
+
+157
+00:07:41,360 --> 00:07:44,320
+taken at school and 
+
+158
+00:07:44,320 --> 00:07:47,400
+held up to the mirror axis so that you can 
+see what 
+
+159
+00:07:47,400 --> 00:07:51,160
+the complete figure looks like yes, 
+
+160
+00:07:51,160 --> 00:07:53,240
+if you look at another figure here is 
+
+161
+00:07:53,240 --> 00:07:57,500
+a trapezoid. 
+
+162
+00:07:57,500 --> 00:07:59,380
+You can also use the mirror axis to 
+
+163
+00:07:59,380 --> 00:08:03,300
+mirror each point individually. Here is 
+
+164
+00:08:03,300 --> 00:08:04,580
+our mirror axis and if I 
+
+165
+00:08:04,580 --> 00:08:06,700
+now want to mirror this point, 
+
+166
+00:08:07,920 --> 00:08:09,220
+it lies exactly on the 
+
+167
+00:08:09,220 --> 00:08:10,580
+opposite side of the 
+
+168
+00:08:10,580 --> 00:08:15,130
+mirror axis. Then there is also 
+
+169
+00:08:15,130 --> 00:08:17,950
+the reflection in a point. So 
+
+170
+00:08:17,950 --> 00:08:19,150
+here is our point. 
+
+171
+00:08:19,150 --> 00:08:20,630
+This is also known as point symmetry. 
+
+172
+00:08:20,650 --> 00:08:22,170
+Assuming I want to mirror this point 
+
+173
+00:08:22,170 --> 00:08:24,770
+here. Then I mirror 
+
+174
+00:08:24,770 --> 00:08:28,150
+a point symmetry and the point 
+
+175
+00:08:28,150 --> 00:08:30,490
+is then on the opposite 
+
+176
+00:08:30,490 --> 00:08:33,150
+side. Of course, I can also mirror this 
+
+177
+00:08:33,150 --> 00:08:36,270
+point here. At this point 
+
+178
+00:08:36,270 --> 00:08:38,310
+here, the point is mirrored 
+
+179
+00:08:38,310 --> 00:08:39,030
+on the 
+
+180
+00:08:39,030 --> 00:08:41,050
+opposite side . And if 
+
+181
+00:08:41,050 --> 00:08:42,930
+I mirror the point here, then 
+
+182
+00:08:42,930 --> 00:08:44,810
+I use the point again. 
+
+183
+00:08:46,330 --> 00:08:48,270
+And when it is mirrored, it lies 
+
+184
+00:08:48,270 --> 00:08:50,930
+on the other side, namely here. 
+
+185
+00:08:50,930 --> 00:08:51,750
+Here 
+
+186
+00:08:55,880 --> 00:09:02,110
+we have another rhombus and a 
+
+187
+00:09:02,110 --> 00:09:04,070
+few dots and a 
+
+188
+00:09:04,070 --> 00:09:07,190
+star that is not yet finished. So, here 
+
+189
+00:09:07,190 --> 00:09:08,730
+we have our mirror axis again. 
+
+190
+00:09:08,890 --> 00:09:10,690
+If I 
+
+191
+00:09:10,690 --> 00:09:12,650
+want to mirror this point here , I look at 
+the mirror axis again 
+
+192
+00:09:12,650 --> 00:09:14,670
+and it's on the 
+
+193
+00:09:14,670 --> 00:09:16,590
+opposite side. 
+
+194
+00:09:20,560 --> 00:09:21,880
+I can do the same with the 
+
+195
+00:09:21,880 --> 00:09:23,900
+other two points. 
+
+196
+00:09:23,900 --> 00:09:27,440
+But I can also mirror a figure by 
+
+197
+00:09:27,440 --> 00:09:29,700
+mirroring each point individually. 
+
+198
+00:09:29,820 --> 00:09:31,940
+Namely the point here, the point 
+
+199
+00:09:31,940 --> 00:09:33,920
+here, then it lies here. If I 
+
+200
+00:09:33,920 --> 00:09:35,520
+mirror this point, it is here. 
+
+201
+00:09:35,640 --> 00:09:36,740
+And if I mirror this point here 
+
+202
+00:09:36,740 --> 00:09:38,700
+, it is here. And if I 
+
+203
+00:09:38,700 --> 00:09:40,420
+mirror the point, it's here. 
+
+204
+00:09:40,440 --> 00:09:41,700
+And now I just have to connect the dots 
+
+205
+00:09:41,700 --> 00:09:44,600
+. And then 
+
+206
+00:09:44,600 --> 00:09:47,000
+a rhombus is created on the other side. 
+
+207
+00:09:48,340 --> 00:09:50,200
+I do the same with the star. 
+
+208
+00:09:50,400 --> 00:09:51,440
+Here I also have to mirror each point 
+
+209
+00:09:51,440 --> 00:09:53,080
+individually. 
+
+210
+00:09:53,080 --> 00:09:54,320
+I can 't mirror this point because it 
+
+211
+00:09:54,320 --> 00:09:58,120
+lies directly on the mirror axis. If I 
+
+212
+00:09:58,120 --> 00:09:59,500
+mirror this point, I end up here. 
+
+213
+00:09:59,620 --> 00:10:01,100
+If I mirror this point here, 
+
+214
+00:10:01,160 --> 00:10:02,780
+I end up here. If I 
+
+215
+00:10:02,780 --> 00:10:04,280
+mirror the point, I end up somewhere 
+around 
+
+216
+00:10:04,280 --> 00:10:06,420
+here. And the point 
+
+217
+00:10:06,420 --> 00:10:07,900
+doesn't need to be mirrored again because 
+it 
+
+218
+00:10:07,900 --> 00:10:09,160
+lies on the mirror axis. 
+
+219
+00:10:09,160 --> 00:10:10,060
+In other words, all I have to do now is 
+
+220
+00:10:10,060 --> 00:10:11,840
+connect these points. 
+
+221
+00:10:12,420 --> 00:10:14,060
+And then a complete 
+
+222
+00:10:14,060 --> 00:10:15,300
+star would be created. 
+
+223
+00:10:17,570 --> 00:10:18,560
+Here are some more 
+
+224
+00:10:18,560 --> 00:10:21,560
+examples of point symmetry. 
+
+225
+00:10:21,560 --> 00:10:22,880
+We've already talked about this example 
+
+226
+00:10:22,880 --> 00:10:25,640
+. Here we have 
+
+227
+00:10:25,640 --> 00:10:27,900
+points again. Here is our point again, 
+
+228
+00:10:28,200 --> 00:10:29,620
+the red point. 
+
+229
+00:10:33,180 --> 00:10:35,180
+Yes, we should 
+
+230
+00:10:35,180 --> 00:10:36,440
+ultimately 
+
+231
+00:10:36,440 --> 00:10:37,860
+mirror the blue points on this red point , 
+i.e. our 
+
+232
+00:10:37,860 --> 00:10:39,960
+point symmetry. And if we 
+
+233
+00:10:39,960 --> 00:10:41,360
+do that , if I 
+
+234
+00:10:41,360 --> 00:10:42,720
+look at this point here and 
+
+235
+00:10:42,720 --> 00:10:45,800
+mirror it on this point here , I end up 
+here. If I 
+
+236
+00:10:45,800 --> 00:10:47,380
+look at this point here and 
+
+237
+00:10:47,380 --> 00:10:49,300
+mirror it on this point here, I end up 
+
+238
+00:10:49,300 --> 00:10:51,360
+here. If I 
+
+239
+00:10:51,360 --> 00:10:53,200
+mirror the point here and mirror it again 
+from the point here 
+
+240
+00:10:53,200 --> 00:10:57,740
+, 
+
+241
+00:10:57,760 --> 00:10:58,520
+then I end up here. 
+
+242
+00:11:01,940 --> 00:11:05,380
+Yes, and here, in order to 
+
+243
+00:11:05,380 --> 00:11:09,520
+mirror this figure , I ultimately have to 
+
+244
+00:11:09,520 --> 00:11:11,780
+
+245
+00:11:11,780 --> 00:11:15,620
+mark the point symmetry, i.e. the point at 
+this point here. 
+
+246
+00:11:19,840 --> 00:11:23,280
+Of course, I could also 
+
+247
+00:11:24,940 --> 00:11:27,580
+place a mirror axis at this point, 
+
+248
+00:11:27,640 --> 00:11:29,020
+I just realized, then I would 
+
+249
+00:11:29,020 --> 00:11:32,060
+mirror the point again. 
+
+250
+00:11:33,840 --> 00:11:36,380
+As you can see, there are figures where 
+
+251
+00:11:36,380 --> 00:11:39,560
+you can use both point symmetry 
+
+252
+00:11:39,560 --> 00:11:43,860
+and axis symmetry. 
+
+253
+00:11:43,920 --> 00:11:45,060
+This is really such an 
+
+254
+00:11:45,060 --> 00:11:45,660
+exception here. 
+
+255
+00:11:48,350 --> 00:11:49,910
+Yes, thank you very much for your 
+
+256
+00:11:49,910 --> 00:11:51,750
+attention. Thank you 
+
+257
+00:11:51,750 --> 00:11:53,290
+very much and I wish 
+
+258
+00:11:53,290 --> 00:11:55,110
+you all a good evening. 
+
+259
+00:11:56,350 --> 00:11:56,910
+Bye! 

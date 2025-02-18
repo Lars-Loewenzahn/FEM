@@ -1,0 +1,603 @@
+﻿1
+00:00:00,000 --> 00:00:01,760
+Hello and welcome to the 
+
+2
+00:00:01,760 --> 00:00:04,120
+Schülerhilfe learning videos. 
+
+3
+00:00:04,120 --> 00:00:05,400
+This video is about 
+
+4
+00:00:05,400 --> 00:00:09,340
+adverbial clauses. Adverbial clauses are 
+
+5
+00:00:09,340 --> 00:00:12,960
+subordinate clauses 
+
+6
+00:00:12,960 --> 00:00:16,020
+that take on the syntactic function of an 
+adverbial. 
+
+7
+00:00:16,950 --> 00:00:18,660
+An adverbial clause can 
+
+8
+00:00:18,660 --> 00:00:20,300
+
+9
+00:00:20,300 --> 00:00:23,760
+have different senses , such as causal or 
+
+10
+00:00:23,760 --> 00:00:24,240
+temporal. 
+
+11
+00:00:29,220 --> 00:00:30,980
+Adverbial clauses 
+
+12
+00:00:30,980 --> 00:00:34,380
+are introduced by subjunctions, which 
+indicate the 
+
+13
+00:00:34,380 --> 00:00:36,540
+sense of the respective 
+
+14
+00:00:36,540 --> 00:00:39,940
+subordinate clause. For example, 
+
+15
+00:00:39,940 --> 00:00:44,700
+cum, ut, quod or stupid. 
+
+16
+00:00:44,700 --> 00:00:46,540
+There are other subjunctions, which I 
+
+17
+00:00:46,540 --> 00:00:48,120
+will discuss in more detail below. 
+
+18
+00:00:53,300 --> 00:00:54,620
+There are many different 
+
+19
+00:00:54,620 --> 00:00:57,460
+adverbial clauses. 
+
+20
+00:00:57,460 --> 00:00:59,240
+First , let's look at the temporal 
+clauses. 
+
+21
+00:01:00,540 --> 00:01:02,520
+Temporal clauses answer the question 
+
+22
+00:01:02,520 --> 00:01:03,000
+when. 
+
+23
+00:01:06,170 --> 00:01:08,450
+They therefore represent a time 
+relationship 
+
+24
+00:01:08,450 --> 00:01:12,690
+. Subjunctions for temporal clauses 
+
+25
+00:01:12,690 --> 00:01:15,290
+would be, for example, postquam for 
+
+26
+00:01:15,290 --> 00:01:19,230
+after or cum for as, after 
+
+27
+00:01:19,230 --> 00:01:22,230
+or while. Cum 
+
+28
+00:01:22,230 --> 00:01:25,430
+is often used with the subjunctive at this 
+point. 
+
+29
+00:01:25,430 --> 00:01:26,950
+I have 
+
+30
+00:01:26,950 --> 00:01:29,730
+brought you an example of temporal clauses 
+. Postquam te 
+
+31
+00:01:29,730 --> 00:01:33,890
+vidi, donum reverti. 
+
+32
+00:01:33,890 --> 00:01:36,270
+After I had seen you, I went back 
+
+33
+00:01:36,270 --> 00:01:41,590
+home. Here you can see the 
+
+34
+00:01:41,590 --> 00:01:44,570
+subjunctive. Now let's take a 
+
+35
+00:01:44,570 --> 00:01:47,870
+closer look at causal clauses. A causal 
+sentence 
+
+36
+00:01:47,870 --> 00:01:50,110
+always answers the question why. 
+
+37
+00:01:50,670 --> 00:01:52,430
+It therefore gives a reason. 
+
+38
+00:01:53,950 --> 00:01:56,130
+Subjunctions for causal clauses would be 
+
+39
+00:01:56,790 --> 00:02:01,270
+quia for da or weil, quoniam for 
+
+40
+00:02:01,270 --> 00:02:05,810
+weil ja and others. 
+
+41
+00:02:05,810 --> 00:02:06,990
+I have also 
+
+42
+00:02:07,010 --> 00:02:11,710
+brought you an example sentence for this . 
+Quoniam ad est tu solos 
+
+43
+00:02:11,710 --> 00:02:15,610
+non sum. Because you are there, I am 
+
+44
+00:02:15,610 --> 00:02:18,010
+not alone. Here you can see the 
+
+45
+00:02:18,010 --> 00:02:19,730
+subjunction quoniam. 
+
+46
+00:02:24,540 --> 00:02:26,120
+Now let's move on to the 
+
+47
+00:02:26,120 --> 00:02:29,140
+concessive clauses. Concessive clauses 
+
+48
+00:02:29,140 --> 00:02:31,360
+always express a restriction. 
+
+49
+00:02:32,000 --> 00:02:34,240
+An example of a subjunction 
+
+50
+00:02:34,240 --> 00:02:39,340
+would be quam quam for although. 
+
+51
+00:02:39,340 --> 00:02:40,880
+I have also 
+
+52
+00:02:40,880 --> 00:02:44,300
+prepared an example sentence for this. 
+Quam quam, agento 
+
+53
+00:02:44,300 --> 00:02:48,580
+, cario, contentus, sum. Although I 
+
+54
+00:02:48,580 --> 00:02:50,620
+have no money, I am content. 
+
+55
+00:02:51,480 --> 00:02:54,440
+Here the subjunction, quam quam. 
+
+56
+00:02:59,370 --> 00:03:01,170
+Now we come to the modal sentences. 
+
+57
+00:03:02,230 --> 00:03:04,110
+Modal clauses answer the question 
+
+58
+00:03:04,110 --> 00:03:07,110
+how and thus 
+
+59
+00:03:07,110 --> 00:03:10,090
+express a manner. An example of a 
+
+60
+00:03:10,090 --> 00:03:12,190
+subjunction of modal sentences would be 
+
+61
+00:03:17,030 --> 00:03:19,410
+I 
+
+62
+00:03:19,410 --> 00:03:20,050
+brought an example sentence. 
+
+63
+00:03:26,010 --> 00:03:28,390
+By praising the pupil 
+
+64
+00:03:28,450 --> 00:03:31,190
+, the teacher is making him happy. Here 
+you can see the 
+
+65
+00:03:31,190 --> 00:03:32,610
+subjunction cum. 
+
+66
+00:03:39,600 --> 00:03:41,400
+Conditional sentences answer 
+
+67
+00:03:41,400 --> 00:03:43,600
+the question under which condition 
+something 
+
+68
+00:03:43,600 --> 00:03:46,820
+happens. An example of a 
+
+69
+00:03:46,820 --> 00:03:49,280
+subjunction of conditional clauses would 
+be 
+
+70
+00:03:49,280 --> 00:03:54,340
+sie with the translation wenn. 
+
+71
+00:03:54,340 --> 00:03:56,280
+At this point, you should note 
+
+72
+00:03:56,320 --> 00:04:01,400
+that the subjunctive in sie setzen 
+
+73
+00:04:01,400 --> 00:04:05,300
+is translated as in the main clause. 
+
+74
+00:04:05,300 --> 00:04:07,080
+I have also 
+
+75
+00:04:07,080 --> 00:04:07,760
+provided you with an example sentence for 
+this. 
+
+76
+00:04:13,280 --> 00:04:15,280
+If you go away, I will 
+
+77
+00:04:15,280 --> 00:04:17,960
+be very sad. Here you can see the sie. 
+
+78
+00:04:19,660 --> 00:04:21,680
+Let's take a look at the final clauses 
+
+79
+00:04:21,680 --> 00:04:25,440
+. Final clauses are always in the 
+
+80
+00:04:25,440 --> 00:04:28,200
+subjunctive mood and 
+
+81
+00:04:28,200 --> 00:04:31,160
+express a purpose. They answer the 
+question of 
+
+82
+00:04:31,160 --> 00:04:34,320
+the purpose for which something happens. A 
+
+83
+00:04:34,320 --> 00:04:36,600
+subjunctive for final clauses 
+
+84
+00:04:36,600 --> 00:04:39,320
+is, for example, ut. For the translation 
+
+85
+00:04:39,320 --> 00:04:41,440
+damit or um zu. 
+
+86
+00:04:46,840 --> 00:04:50,860
+You have to eat to get full. In 
+
+87
+00:04:50,860 --> 00:04:52,220
+this example, you can see the 
+
+88
+00:04:52,220 --> 00:04:55,660
+subjunction ut. Now let's move on to 
+
+89
+00:04:55,660 --> 00:04:58,820
+consecutive clauses. Consecutive clauses 
+
+90
+00:04:58,820 --> 00:05:01,700
+always express a sequence. They 
+
+91
+00:05:01,700 --> 00:05:03,620
+answer the question as to the 
+
+92
+00:05:03,620 --> 00:05:07,060
+sequence with which something happens. An 
+example 
+
+93
+00:05:07,060 --> 00:05:08,640
+of a subjunctive of 
+
+94
+00:05:08,640 --> 00:05:10,580
+consecutive clauses is ut. 
+
+95
+00:05:16,080 --> 00:05:18,280
+I have also 
+
+96
+00:05:18,280 --> 00:05:19,640
+prepared an example sentence for this. 
+
+97
+00:05:24,260 --> 00:05:26,780
+I hide so that 
+
+98
+00:05:26,780 --> 00:05:29,480
+nobody sees me. Here is the 
+
+99
+00:05:29,480 --> 00:05:30,880
+subjunctive ut. 
+
+100
+00:05:36,630 --> 00:05:37,770
+Let's move on to the 
+
+101
+00:05:37,770 --> 00:05:41,190
+adversative clauses. Adversative clauses 
+
+102
+00:05:41,190 --> 00:05:43,290
+always indicate a juxtaposition 
+
+103
+00:05:43,290 --> 00:05:47,310
+. An example of a subjunctive 
+
+104
+00:05:47,310 --> 00:05:51,490
+would be KUM. With the translation WÄHREND 
+
+105
+00:05:51,490 --> 00:05:56,710
+or WOHINGEGEN. KUM MATER LIBERAS 
+
+106
+00:05:56,710 --> 00:06:01,230
+EDUKET PATER LABORAT While the 
+
+107
+00:06:01,230 --> 00:06:03,230
+mother raises the children, 
+
+108
+00:06:03,230 --> 00:06:05,710
+the father works. Here you can see the 
+
+109
+00:06:05,710 --> 00:06:09,510
+subjunction KUM. With the translation 
+
+110
+00:06:09,510 --> 00:06:10,210
+WÄHREND. 
+
+111
+00:06:16,920 --> 00:06:19,680
+Comparative clauses 
+
+112
+00:06:19,680 --> 00:06:23,840
+indicate a comparison. An example of a 
+subjunctive 
+
+113
+00:06:23,840 --> 00:06:28,800
+would be ITER-UT with the translation SO 
+
+114
+00:06:28,800 --> 00:06:32,940
+-WIE. The subjunctive here is 
+
+115
+00:06:32,940 --> 00:06:37,660
+either IREALES or POTENTIALES. 
+
+116
+00:06:38,880 --> 00:06:41,180
+I have also 
+
+117
+00:06:41,180 --> 00:06:42,000
+prepared an example sentence for this. 
+
+118
+00:06:46,600 --> 00:06:49,860
+As you make your bed, so you sleep. 
+
+119
+00:06:50,420 --> 00:06:52,340
+In this example sentence, you can see 
+
+120
+00:06:52,380 --> 00:06:57,000
+that O and I can also 
+
+121
+00:06:57,000 --> 00:07:00,980
+be put the other way around. Let me 
+
+122
+00:07:00,980 --> 00:07:02,600
+summarize once again what 
+
+123
+00:07:02,600 --> 00:07:06,300
+this video was about. I have 
+
+124
+00:07:06,300 --> 00:07:08,320
+made it clear to you that adverbial 
+clauses 
+
+125
+00:07:08,320 --> 00:07:11,160
+are subordinate clauses 
+
+126
+00:07:11,160 --> 00:07:13,280
+
+127
+00:07:13,280 --> 00:07:15,160
+that can take on the syntactic function of 
+an adverbial. 
+
+128
+00:07:17,300 --> 00:07:19,480
+Adverbial clauses are always introduced by 
+
+129
+00:07:19,480 --> 00:07:22,520
+subjunctions. 
+
+130
+00:07:22,520 --> 00:07:24,880
+You should always 
+
+131
+00:07:24,880 --> 00:07:27,580
+pay attention to the mode. This is because 
+it makes a 
+
+132
+00:07:27,580 --> 00:07:30,060
+difference whether a subjunction 
+
+133
+00:07:30,060 --> 00:07:33,160
+is in the indicative or the subjunctive 
+mood 
+
+134
+00:07:33,160 --> 00:07:35,220
+. It can lead to a 
+
+135
+00:07:35,220 --> 00:07:37,680
+change in meaning. I 
+
+136
+00:07:42,040 --> 00:07:45,140
+have written down another tip for you. In 
+the 
+
+137
+00:07:45,140 --> 00:07:48,420
+main clause, you will often find words 
+
+138
+00:07:48,540 --> 00:07:50,660
+that indicate the direction of meaning 
+
+139
+00:07:50,660 --> 00:07:53,660
+. 
+
+140
+00:07:53,660 --> 00:07:56,440
+There is also a concluding remark for this 
+video. In 
+
+141
+00:07:56,440 --> 00:07:58,400
+Latin, 
+
+142
+00:07:58,400 --> 00:08:01,420
+
+143
+00:08:01,420 --> 00:08:04,700
+sentence-final constructions with 
+
+144
+00:08:04,700 --> 00:08:08,640
+infinite verb forms are often used instead 
+of adverbial clauses . 
+
+145
+00:08:10,240 --> 00:08:12,600
+Thank you for your attention 
+
+146
+00:08:12,600 --> 00:08:13,780
+and see you next time. mal 

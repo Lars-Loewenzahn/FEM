@@ -1,0 +1,448 @@
+1
+00:00:03,950 --> 00:00:06,510
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,510 --> 00:00:07,570
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,570 --> 00:00:09,430
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,430 --> 00:00:11,210
+die Grundlagen von Orbitalen in der
+
+5
+00:00:11,210 --> 00:00:13,390
+Chemie erklären. In unserem Online
+
+6
+00:00:13,390 --> 00:00:15,170
+-Lerncenter steht dir zu diesem Thema
+
+7
+00:00:15,170 --> 00:00:16,470
+natürlich auch noch ein Wiki zur
+
+8
+00:00:16,470 --> 00:00:17,670
+Verfügung, in dem dir die
+
+9
+00:00:17,670 --> 00:00:19,350
+grundlegenden und wichtigen Begriffe
+
+10
+00:00:19,350 --> 00:00:22,410
+genauer erklärt werden. Vielleicht
+
+11
+00:00:22,410 --> 00:00:23,950
+hast du ja aus anderen Bereichen
+
+12
+00:00:23,950 --> 00:00:26,410
+bereits den Begriff Orbit gehört. Er
+
+13
+00:00:26,410 --> 00:00:27,470
+beschreibt die elliptische
+
+14
+00:00:27,470 --> 00:00:29,130
+Umlaufbahn, zum Beispiel eines
+
+15
+00:00:29,130 --> 00:00:31,730
+Satelliten, um die Erde. Erde. Beide
+
+16
+00:00:31,730 --> 00:00:33,210
+Wörter stammen von dem lateinischen
+
+17
+00:00:33,210 --> 00:00:35,650
+Wort orbis ab, das unter anderem
+
+18
+00:00:35,650 --> 00:00:38,790
+Kreis, Rundung oder das Rund bedeuten
+
+19
+00:00:38,790 --> 00:00:41,050
+kann. Auch in der Chemie geben
+
+20
+00:00:41,050 --> 00:00:43,230
+Orbitale an, wo sich ein Elektron im
+
+21
+00:00:43,230 --> 00:00:46,010
+Verhältnis zum Atomkern befindet. Im
+
+22
+00:00:46,010 --> 00:00:47,810
+Gegensatz zum Satelliten, die eine
+
+23
+00:00:47,810 --> 00:00:49,970
+feste mathematische, eindeutig
+
+24
+00:00:49,970 --> 00:00:51,790
+beschreibbare Umlaufbahn besitzen,
+
+25
+00:00:51,850 --> 00:00:54,110
+ist dabei jedoch zu beachten, dass
+
+26
+00:00:54,110 --> 00:00:55,850
+sich dies mit unseren heutigen
+
+27
+00:00:55,850 --> 00:00:57,790
+Mitteln nicht eindeutig feststellen
+
+28
+00:00:57,790 --> 00:00:59,950
+lässt, weshalb das Orbital einen Raum
+
+29
+00:00:59,950 --> 00:01:01,590
+beschreibt, in dem sich das Elektron
+
+30
+00:01:01,590 --> 00:01:03,450
+mit einer Wahrscheinlichkeit von 90%
+
+31
+00:01:03,450 --> 00:01:06,210
+aufhält. Es gibt verschiedene Arten
+
+32
+00:01:06,210 --> 00:01:08,310
+von Orbitalen. Man unterscheidet
+
+33
+00:01:08,310 --> 00:01:11,930
+gewöhnlich zwischen S-, P- und D
+
+34
+00:01:11,930 --> 00:01:14,930
+-Orbitalen. Ab einer bestimmten
+
+35
+00:01:14,930 --> 00:01:16,830
+Anzahl von Elektronen können auch F
+
+36
+00:01:16,830 --> 00:01:19,390
+-Orbitale, G-Orbitale S-Orbitale und
+
+37
+00:01:19,390 --> 00:01:23,030
+H-Orbitale auftreten. Bei G- und H
+
+38
+00:01:23,030 --> 00:01:25,070
+-Orbitalen ist zu beachten, dass sie
+
+39
+00:01:25,070 --> 00:01:26,710
+gewöhnlich nur auftreten, wenn die
+
+40
+00:01:26,710 --> 00:01:28,970
+Elektronen angeregt werden. Diese
+
+41
+00:01:28,970 --> 00:01:30,830
+Orbitale behandeln wir heute jedoch
+
+42
+00:01:30,830 --> 00:01:33,150
+nicht. Kommen wir nun zum Aussehen,
+
+43
+00:01:33,210 --> 00:01:35,290
+ihrer Anordnung um den Atomkern und
+
+44
+00:01:35,290 --> 00:01:37,210
+der Elektronenanzahl innerhalb der
+
+45
+00:01:37,210 --> 00:01:40,470
+Orbitale. S-Orbitale sind kugelförmig
+
+46
+00:01:40,470 --> 00:01:42,370
+und können bis zu zwei Elektronen
+
+47
+00:01:42,370 --> 00:01:44,290
+beherbergen. Da die gleiche
+
+48
+00:01:44,290 --> 00:01:46,250
+Orbitalform mehrfach auftaucht,
+
+49
+00:01:46,290 --> 00:01:47,930
+werden sie anhand von vorgestellten
+
+50
+00:01:47,930 --> 00:01:50,170
+Zahlen, den Hauptquantenzahlen,
+
+51
+00:01:50,250 --> 00:01:52,910
+unterschieden. So werden zuerst die
+
+52
+00:01:52,910 --> 00:01:55,770
+1s- und 2s-Orbitale besetzt, bevor
+
+53
+00:01:55,770 --> 00:01:58,610
+sich p-Orbitale bilden. Sie ähneln in
+
+54
+00:01:58,610 --> 00:02:00,470
+ihrem Aussehen einer Hantel, wobei
+
+55
+00:02:00,470 --> 00:02:02,030
+auch hier zwei Elektronen Platz
+
+56
+00:02:02,030 --> 00:02:03,530
+haben. Ab der zweiten
+
+57
+00:02:03,530 --> 00:02:05,370
+Hauptquantenzahl können sich jeweils
+
+58
+00:02:05,370 --> 00:02:07,770
+bis zu drei p-Orbitale ausbilden, die
+
+59
+00:02:07,770 --> 00:02:10,530
+im Modell entlang der x-, y- und z
+
+60
+00:02:10,530 --> 00:02:13,670
+-Achsen ausgerichtet werden. Ab 20
+
+61
+00:02:13,670 --> 00:02:15,950
+Elektronen können d-Orbitale
+
+62
+00:02:15,950 --> 00:02:17,910
+auftreten. Es gibt fünf von ihnen.
+
+63
+00:02:18,310 --> 00:02:20,410
+Vier sehen aus wie eine Doppelhantel.
+
+64
+00:02:20,590 --> 00:02:23,490
+Das fünfte d-Orbital ist eine Hantel
+
+65
+00:02:23,490 --> 00:02:26,130
+mit Mittelring. Jedes d-Orbital kann
+
+66
+00:02:26,130 --> 00:02:27,930
+bis zu zwei Elektronen beinhalten.
+
+67
+00:02:27,930 --> 00:02:30,030
+Schauen wir uns einmal das an einem
+
+68
+00:02:30,030 --> 00:02:32,650
+Beispiel an. Hierfür betrachten wir
+
+69
+00:02:32,650 --> 00:02:35,150
+Bohr. Bohr hat die Ordnungszahl 5.
+
+70
+00:02:35,490 --> 00:02:37,850
+Das bedeutet, im Atomkern befinden
+
+71
+00:02:37,850 --> 00:02:39,810
+sich 5 Protonen und somit hat es auch
+
+72
+00:02:39,810 --> 00:02:42,450
+5 Elektronen. Der Atomkern wird vom
+
+73
+00:02:42,450 --> 00:02:45,250
+ersten s-Orbital umgeben. Es enthält
+
+74
+00:02:45,250 --> 00:02:47,790
+2 Elektronen. Damit ist das erste s
+
+75
+00:02:47,790 --> 00:02:50,170
+-Orbital auch schon voll besetzt. Es
+
+76
+00:02:50,170 --> 00:02:52,230
+folgt das zweite s-Orbital mit der
+
+77
+00:02:52,230 --> 00:02:53,390
+Hauptquantenzahl 2.
+
+78
+00:02:56,930 --> 00:02:58,670
+Schluss kommt das p-Orbital, welches
+
+79
+00:02:58,670 --> 00:03:00,870
+ebenfalls die Hauptquantenzahl 2 hat.
+
+80
+00:03:01,050 --> 00:03:03,810
+Es enthält das letzte Elektron. Das
+
+81
+00:03:03,810 --> 00:03:04,910
+Ganze lässt sich ebenfalls
+
+82
+00:03:04,910 --> 00:03:07,670
+schriftlich darstellen. Das erste s
+
+83
+00:03:07,670 --> 00:03:10,010
+-Orbital enthält zwei Elektronen, das
+
+84
+00:03:10,010 --> 00:03:12,270
+zweite auch. Das der zweiten
+
+85
+00:03:12,270 --> 00:03:14,490
+Hauptquantenzahl zugeordnete p
+
+86
+00:03:14,490 --> 00:03:17,590
+-Orbital enthält ein Elektron. Dies
+
+87
+00:03:17,590 --> 00:03:19,090
+ist eine Darstellungsweise der
+
+88
+00:03:19,090 --> 00:03:21,970
+Elektronenkonfiguration. Fassen wir
+
+89
+00:03:21,970 --> 00:03:24,290
+dies einmal mal kurz zusammen. 1.
+
+90
+00:03:24,890 --> 00:03:26,930
+Orbitale geben an, wo sich ein
+
+91
+00:03:26,930 --> 00:03:28,790
+Elektron mit 90%iger
+
+92
+00:03:28,790 --> 00:03:32,250
+Wahrscheinlichkeit auffällt. 2. Es
+
+93
+00:03:32,250 --> 00:03:34,690
+gibt 6 verschiedene Orbitale verteilt
+
+94
+00:03:34,690 --> 00:03:35,630
+auf unterschiedliche
+
+95
+00:03:35,630 --> 00:03:38,310
+Hauptquantenzahlen, wobei S-, P- und
+
+96
+00:03:38,310 --> 00:03:40,730
+D-Orbitale die zumeist genutzten
+
+97
+00:03:40,730 --> 00:03:44,390
+Orbitalformen sind. 3. Jedes dieser
+
+98
+00:03:44,390 --> 00:03:45,990
+genannten Orbitale beinhaltet
+
+99
+00:03:45,990 --> 00:03:50,270
+höchstens 2 Elektronen. 4. Schreibt
+
+100
+00:03:50,270 --> 00:03:51,430
+man alle belegte Orbitale in die
+
+101
+00:03:51,430 --> 00:03:53,070
+Orbitale aus, so erhält man die
+
+102
+00:03:53,070 --> 00:03:55,750
+Elektronenkonfiguration. Ich hoffe,
+
+103
+00:03:55,790 --> 00:03:57,030
+dass ich dir helfen konnte, die
+
+104
+00:03:57,030 --> 00:03:58,450
+Grundlagen von Orbitalen zu
+
+105
+00:03:58,450 --> 00:04:00,590
+verstehen. Weiterführende Beispiele
+
+106
+00:04:00,590 --> 00:04:02,390
+zu komplexeren Atomen kannst du im
+
+107
+00:04:02,390 --> 00:04:04,230
+zweiten Video zum Thema Orbitale
+
+108
+00:04:04,230 --> 00:04:06,270
+finden. Dieses findest du neben
+
+109
+00:04:06,270 --> 00:04:08,190
+weiteren Inhalten wie Arbeitsblättern
+
+110
+00:04:08,190 --> 00:04:10,230
+und interaktiven Aufgaben auch hier
+
+111
+00:04:10,230 --> 00:04:12,450
+bei uns im Online-Lerncenter. Bis zum
+
+112
+00:04:12,450 --> 00:04:12,990
+nächsten Mal!
+

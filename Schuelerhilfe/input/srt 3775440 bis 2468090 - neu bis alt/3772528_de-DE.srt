@@ -1,0 +1,668 @@
+1
+00:00:03,920 --> 00:00:06,180
+Hallo, mein Name ist Nick und ich bin
+
+2
+00:00:06,180 --> 00:00:07,700
+Nachhilfelehrer bei der Schülerhilfe.
+
+3
+00:00:07,740 --> 00:00:09,940
+Heute möchte ich dir gerne etwas zu
+
+4
+00:00:09,940 --> 00:00:11,880
+stoffkreisläufenden Ökosystemen mit
+
+5
+00:00:11,880 --> 00:00:13,300
+Fokus auf der Nahrungskette erklären.
+
+6
+00:00:13,940 --> 00:00:15,560
+Wenn es um Nachhaltigkeit und
+
+7
+00:00:15,560 --> 00:00:17,240
+Umweltschutz geht, spielt vor allem
+
+8
+00:00:17,240 --> 00:00:18,680
+unsere Ernährung eine wichtige Rolle.
+
+9
+00:00:19,160 --> 00:00:21,080
+Viel Fleisch zu essen kann nicht nur
+
+10
+00:00:21,080 --> 00:00:23,040
+gesund sein, es ist zudem auch aus
+
+11
+00:00:23,040 --> 00:00:24,040
+landwirtschaftlicher Sicht
+
+12
+00:00:24,040 --> 00:00:25,960
+problematisch, da es energetisch
+
+13
+00:00:25,960 --> 00:00:27,900
+aufwendiger ist, tierische Produkte
+
+14
+00:00:27,900 --> 00:00:30,220
+herzustellen als pflanzliche. Das
+
+15
+00:00:30,220 --> 00:00:31,860
+heißt, man bedürft mehr Fläche,
+
+16
+00:00:31,900 --> 00:00:34,060
+Wasser etc. für die gleichen
+
+17
+00:00:34,060 --> 00:00:36,340
+Nährstoffmengen. Auch neben
+
+18
+00:00:36,340 --> 00:00:38,240
+Deutschland gibt es viele weitere
+
+19
+00:00:38,240 --> 00:00:39,600
+Länder, welche im Rahmen der
+
+20
+00:00:39,600 --> 00:00:41,100
+Globalisierung einen gewissen
+
+21
+00:00:41,100 --> 00:00:43,020
+Wohlstand erhalten haben und in denen
+
+22
+00:00:43,020 --> 00:00:44,520
+die Ernährung der wohlhabenden
+
+23
+00:00:44,520 --> 00:00:45,980
+Bevölkerungsschichten immer
+
+24
+00:00:45,980 --> 00:00:48,020
+fleischhaltiger wird. Warum dieser
+
+25
+00:00:48,020 --> 00:00:49,320
+Wandel aus ökologischer Sicht
+
+26
+00:00:49,320 --> 00:00:51,200
+kritisch sein kann, wird vor allem
+
+27
+00:00:51,200 --> 00:00:52,380
+bei näherer Betrachtung von
+
+28
+00:00:52,380 --> 00:00:54,940
+Nahrungsketten ersichtlich. Den Weg
+
+29
+00:00:54,940 --> 00:00:56,540
+von Nährstoffen aus Futterpflanzen
+
+30
+00:00:56,540 --> 00:00:58,640
+über Tiere bis hin zu Menschen kann
+
+31
+00:00:58,640 --> 00:01:00,220
+man in Nahrungspyramiden darstellen.
+
+32
+00:01:01,060 --> 00:01:03,060
+Die vier Ebenen der Nahrungspyramiden
+
+33
+00:01:03,060 --> 00:01:04,800
+sind Erzeuger-Produzenten,
+
+34
+00:01:04,800 --> 00:01:07,560
+Erstverbraucher, Zweitverbraucher und
+
+35
+00:01:07,560 --> 00:01:09,880
+Endkonsumenten. Die einzelnen Stufen
+
+36
+00:01:09,880 --> 00:01:11,180
+der Nahrungspyramiden bauen
+
+37
+00:01:11,180 --> 00:01:13,320
+aufeinander auf. Die unterste Stufe
+
+38
+00:01:13,320 --> 00:01:15,600
+wird von Primärproduzenten gebildet,
+
+39
+00:01:15,620 --> 00:01:17,540
+also meist Pflanzen. Es folgen die
+
+40
+00:01:17,540 --> 00:01:18,980
+Primärkonsumenten, also
+
+41
+00:01:18,980 --> 00:01:20,380
+Pflanzenfresser, die
+
+42
+00:01:20,380 --> 00:01:22,380
+Sekundärkonsumenten und zuletzt die
+
+43
+00:01:22,380 --> 00:01:24,280
+Endkonsumenten, beide Fleischfresser.
+
+44
+00:01:24,520 --> 00:01:26,800
+Stoffe können durch diese Pyramiden
+
+45
+00:01:26,800 --> 00:01:28,960
+nach oben wandern. Dabei verändern
+
+46
+00:01:28,960 --> 00:01:30,780
+sich die Biomasse, also die Menge der
+
+47
+00:01:30,780 --> 00:01:32,300
+Nahrung in Form von Pflanzen oder
+
+48
+00:01:32,300 --> 00:01:34,380
+Tieren, die Energie, die die Nahrung
+
+49
+00:01:34,380 --> 00:01:36,600
+enthält und die Individuenzahl. Die
+
+50
+00:01:36,600 --> 00:01:38,420
+Biomasse und Individuenzahl werden
+
+51
+00:01:38,420 --> 00:01:40,180
+immer geringer, je höher man in der
+
+52
+00:01:40,180 --> 00:01:42,320
+Pyramide aufsteigt. So gibt es viel
+
+53
+00:01:42,320 --> 00:01:44,040
+mehr Pflanzen als Pflanzenfresser und
+
+54
+00:01:44,040 --> 00:01:45,360
+viel mehr Pflanzenfresser als
+
+55
+00:01:45,360 --> 00:01:47,400
+Fleischfresser. Auch diese Energie
+
+56
+00:01:47,400 --> 00:01:49,360
+nimmt für jede überschrittene Stufe
+
+57
+00:01:49,360 --> 00:01:52,220
+um bis zu 90% ab. Denn ein Rind zum
+
+58
+00:01:52,220 --> 00:01:53,460
+Beispiel braucht einen Großteil der
+
+59
+00:01:53,460 --> 00:01:54,900
+Energie aus seinem Futter für den
+
+60
+00:01:54,900 --> 00:01:57,960
+eigenen Stoffwechsel. Nur 10-35% der
+
+61
+00:01:57,960 --> 00:01:59,540
+Energie aus dem Futtermittel wandern
+
+62
+00:01:59,540 --> 00:02:00,980
+in das Fleisch, das wir essen können.
+
+63
+00:02:00,980 --> 00:02:02,780
+Würden wir Menschen also das
+
+64
+00:02:02,780 --> 00:02:04,060
+pflanzliche Futter konsumieren,
+
+65
+00:02:04,140 --> 00:02:05,560
+könnten folglich auch mehr Menschen
+
+66
+00:02:05,560 --> 00:02:07,780
+damit versorgt werden. Eine besondere
+
+67
+00:02:07,780 --> 00:02:09,540
+Ebene der Nahrungskette, welche vor
+
+68
+00:02:09,540 --> 00:02:10,940
+allem aufgrund der Größe der Tiere
+
+69
+00:02:10,940 --> 00:02:12,420
+übersehen wird, wird von den
+
+70
+00:02:12,420 --> 00:02:14,520
+Destruenten gebildet. Destruenten
+
+71
+00:02:14,520 --> 00:02:15,940
+sind Lebewesen, welche organische
+
+72
+00:02:15,940 --> 00:02:17,320
+Verbindungen in anorganische
+
+73
+00:02:17,320 --> 00:02:19,240
+Verbindungen umwandeln. Beispiele
+
+74
+00:02:19,240 --> 00:02:21,440
+hierfür sind Asseln, Fliegen,
+
+75
+00:02:21,500 --> 00:02:24,080
+Regenwürmer, Auskäfer, Bakterien oder
+
+76
+00:02:24,080 --> 00:02:25,960
+Pilze. Der Name Destruenten bedeutet
+
+77
+00:02:25,960 --> 00:02:28,580
+Zerstörer oder Zersetzer, da sie
+
+78
+00:02:28,580 --> 00:02:30,360
+organische, also für andere Lebewesen
+
+79
+00:02:30,360 --> 00:02:31,660
+gut verwertbare Stoffe, in
+
+80
+00:02:31,660 --> 00:02:33,500
+anorganische Stoffe umwandeln, also
+
+81
+00:02:33,500 --> 00:02:35,500
+Stoffe, die anderen Lebewesen kaum
+
+82
+00:02:35,500 --> 00:02:37,520
+noch als Nahrung nützen. Das Konzept
+
+83
+00:02:37,520 --> 00:02:39,080
+der Nahrungsketten hört sich soweit
+
+84
+00:02:39,080 --> 00:02:41,640
+also erstmal einfach an. Die Realität
+
+85
+00:02:41,640 --> 00:02:43,040
+stellt sich allerdings ungleich
+
+86
+00:02:43,040 --> 00:02:45,500
+komplexer dar. Nahrungsketten sind
+
+87
+00:02:45,500 --> 00:02:47,280
+linear. Sie gehen davon aus, dass
+
+88
+00:02:47,280 --> 00:02:49,240
+jede Art eine Position in der
+
+89
+00:02:49,240 --> 00:02:51,200
+Nahrungskette einnimmt. Betrachtet
+
+90
+00:02:51,200 --> 00:02:52,780
+man vor allem Fleischfresser genauer,
+
+91
+00:02:52,780 --> 00:02:54,720
+zeigt sich allerdings, dass eine
+
+92
+00:02:54,720 --> 00:02:56,760
+solche Einordnung die Realität nur
+
+93
+00:02:56,760 --> 00:02:58,760
+begrenzt beschreiben kann. So fressen
+
+94
+00:02:58,760 --> 00:03:00,660
+Krokodile sowohl Pflanzenfresser als
+
+95
+00:03:00,660 --> 00:03:02,500
+auch Fleischfresser. Um eine
+
+96
+00:03:02,500 --> 00:03:04,100
+realitätsgetreue Darstellung von
+
+97
+00:03:04,100 --> 00:03:05,660
+Energiekreisläufen zu erhalten, wird
+
+98
+00:03:05,660 --> 00:03:07,600
+somit ein Nahrungsnetz erstellt, bei
+
+99
+00:03:07,600 --> 00:03:09,580
+welchem eine Art auch Teil mehrerer
+
+100
+00:03:09,580 --> 00:03:11,160
+Nahrungsketten sein kann und mehrere
+
+101
+00:03:11,160 --> 00:03:12,720
+Nahrungsketten Teil eines großen
+
+102
+00:03:12,720 --> 00:03:15,380
+Nahrungsnetzes sind. Gerade diese
+
+103
+00:03:15,380 --> 00:03:17,080
+Komplexität bedeutet, dass das
+
+104
+00:03:17,080 --> 00:03:19,100
+Wegfallen einer Art aus einer der
+
+105
+00:03:19,100 --> 00:03:20,560
+Ebenen zu unvorhersehbaren
+
+106
+00:03:20,560 --> 00:03:22,380
+Konsequenzen führen kann. In
+
+107
+00:03:22,380 --> 00:03:23,780
+folgenden sollen beispielhaft
+
+108
+00:03:23,780 --> 00:03:25,400
+beschrieben werden, wie sich das
+
+109
+00:03:25,400 --> 00:03:27,080
+Wegfallen einer Art auf das das
+
+110
+00:03:27,080 --> 00:03:28,800
+gesamte Ökosystem auswirken kann.
+
+111
+00:03:29,480 --> 00:03:31,220
+Pflanzenfresser bilden die Basis der
+
+112
+00:03:31,220 --> 00:03:33,440
+Nahrungskette. Dabei sind oft einige
+
+113
+00:03:33,440 --> 00:03:35,660
+wenige Arten häufig, andere selten.
+
+114
+00:03:36,000 --> 00:03:38,240
+Stirbt eine der häufigen Arten, sind
+
+115
+00:03:38,240 --> 00:03:39,820
+also keine Ressourcen mehr für die
+
+116
+00:03:39,820 --> 00:03:41,720
+Fleischfresser vorhanden. Zusätzlich
+
+117
+00:03:41,720 --> 00:03:43,160
+besteht die Möglichkeit, dass die
+
+118
+00:03:43,160 --> 00:03:44,260
+Fleischfresser daraufhin auch
+
+119
+00:03:44,260 --> 00:03:46,160
+seltenere Pflanzenfresser jagen und
+
+120
+00:03:46,160 --> 00:03:47,520
+somit deren Arten ausrotten.
+
+121
+00:03:48,480 --> 00:03:49,980
+Fleischfresser nehmen eine wichtige
+
+122
+00:03:49,980 --> 00:03:51,520
+Funktion in der Regulation von
+
+123
+00:03:51,520 --> 00:03:52,220
+Pflanzenfressern
+
+124
+00:03:56,060 --> 00:03:57,320
+Bären mehr gab, vermehrten sich
+
+125
+00:03:57,320 --> 00:03:59,220
+Wildschweine und Rehe so stark, dass
+
+126
+00:03:59,220 --> 00:04:00,800
+diese nun von uns Menschen gejagt
+
+127
+00:04:00,800 --> 00:04:02,660
+werden müssen. Verschwindet ein
+
+128
+00:04:02,660 --> 00:04:04,760
+Destruent, werden biologische Stoffe
+
+129
+00:04:04,760 --> 00:04:06,660
+nicht mehr abgebaut. Solltest du den
+
+130
+00:04:06,660 --> 00:04:08,880
+Inselberg Uluru in Australien
+
+131
+00:04:08,880 --> 00:04:10,780
+besuchen, wirst du die Auswirkungen
+
+132
+00:04:10,780 --> 00:04:12,920
+dessen bemerken können. In Australien
+
+133
+00:04:12,920 --> 00:04:14,500
+gibt es keine Mistkäfer, welche die
+
+134
+00:04:14,500 --> 00:04:16,080
+Überreste von Kühen und Schafen
+
+135
+00:04:16,080 --> 00:04:18,700
+zersetzen könnten. Als Resultat wird
+
+136
+00:04:18,700 --> 00:04:20,120
+man also auf jeden Schritt
+
+137
+00:04:25,060 --> 00:04:26,920
+bauen kann. Warum also ist es
+
+138
+00:04:26,920 --> 00:04:28,660
+biologisch bedenklich, wenn immer
+
+139
+00:04:28,660 --> 00:04:30,020
+mehr Menschen sich oben in der
+
+140
+00:04:30,020 --> 00:04:32,540
+Nahrungskette befinden? Der
+
+141
+00:04:32,540 --> 00:04:34,560
+Energiegehalt und die Biomasse sinken
+
+142
+00:04:34,560 --> 00:04:37,300
+von Stufe zu Stufe um bis zu 90%. In
+
+143
+00:04:37,300 --> 00:04:39,100
+der Praxis bedeutet das, dass man für
+
+144
+00:04:39,100 --> 00:04:40,980
+10 kg Fleisch bis zu 100 kg
+
+145
+00:04:40,980 --> 00:04:43,100
+Pflanzenmaterial benötigt. In der
+
+146
+00:04:43,100 --> 00:04:44,840
+Realität ist der Ressourcenaufwand
+
+147
+00:04:44,840 --> 00:04:46,360
+zur Fleischproduktion deutlich höher.
+
+148
+00:04:46,840 --> 00:04:48,440
+So werden neben Pflanzen auch
+
+149
+00:04:48,440 --> 00:04:50,000
+sauberes Wasser, Platz und
+
+150
+00:04:50,000 --> 00:04:51,360
+Medikamente zur Aufzucht von
+
+151
+00:04:51,360 --> 00:04:53,020
+Schlachtvieh benötigt. Je mehr
+
+152
+00:04:53,020 --> 00:04:54,540
+Menschen sich fleischhaltig ernähren,
+
+153
+00:04:54,580 --> 00:04:57,360
+desto mehr Anbaufläche wird für die
+
+154
+00:04:57,360 --> 00:04:59,220
+Futtermittel benötigt. So werden
+
+155
+00:04:59,220 --> 00:05:01,440
+Wälder gerotet und Ökosysteme
+
+156
+00:05:01,440 --> 00:05:03,320
+zerstört. Das Problem ist aber nicht
+
+157
+00:05:03,320 --> 00:05:05,220
+der Fleischkonsum an sich, sondern
+
+158
+00:05:05,220 --> 00:05:06,500
+dass die Zahl der Menschen auf der
+
+159
+00:05:06,500 --> 00:05:08,560
+Welt in den letzten Jahrhunderten so
+
+160
+00:05:08,560 --> 00:05:09,960
+sehr angestiegen ist, dass wir die
+
+161
+00:05:09,960 --> 00:05:12,280
+natürlichen Ressourcen wie Nahrung
+
+162
+00:05:12,280 --> 00:05:13,760
+und Wasser intelligenter aufteilen
+
+163
+00:05:13,760 --> 00:05:13,980
+müssen,
+
+164
+00:05:19,640 --> 00:05:20,820
+Ökosystem und insbesondere
+
+165
+00:05:20,820 --> 00:05:22,820
+Nahrungsketten hast. Schön, dass du
+
+166
+00:05:22,820 --> 00:05:24,340
+mit dabei warst und bis zum nächsten
+
+167
+00:05:24,340 --> 00:05:24,560
+Mal.
+

@@ -1,0 +1,1290 @@
+﻿1
+00:00:02,290 --> 00:00:04,370
+Welcome to the 
+
+2
+00:00:04,370 --> 00:00:07,850
+statistics webinar . In this 
+
+3
+00:00:07,850 --> 00:00:09,510
+webinar, we will be looking at the 
+statistics of 
+
+4
+00:00:09,510 --> 00:00:11,470
+stochastics. This means that we 
+
+5
+00:00:11,470 --> 00:00:13,270
+will first 
+
+6
+00:00:13,270 --> 00:00:14,670
+do a short review of the average, 
+
+7
+00:00:14,710 --> 00:00:16,770
+how to calculate it and I will 
+
+8
+00:00:16,770 --> 00:00:17,750
+also briefly anticipate that we 
+
+9
+00:00:17,750 --> 00:00:19,690
+will 
+
+10
+00:00:19,690 --> 00:00:21,610
+need it at some point during the webinar. 
+
+11
+00:00:22,650 --> 00:00:24,550
+Then we'll look at the importance 
+
+12
+00:00:24,550 --> 00:00:26,070
+of the expected value and how to 
+
+13
+00:00:26,070 --> 00:00:28,170
+calculate it. Then we'll move 
+
+14
+00:00:28,170 --> 00:00:30,270
+on to the variance and standard deviation. 
+
+15
+00:00:30,870 --> 00:00:32,370
+We'll do an 
+
+16
+00:00:32,370 --> 00:00:34,590
+example of this right away and 
+
+17
+00:00:34,590 --> 00:00:36,130
+we'll also look at the sigma rule at the 
+very end 
+
+18
+00:00:36,130 --> 00:00:39,940
+. At the very end, there is 
+
+19
+00:00:39,940 --> 00:00:41,840
+a brief overview of the 
+
+20
+00:00:41,840 --> 00:00:43,320
+parameters for different 
+
+21
+00:00:43,320 --> 00:00:44,580
+distributions. This is a small 
+
+22
+00:00:44,580 --> 00:00:45,840
+table, 
+
+23
+00:00:45,840 --> 00:00:47,780
+you could say it' s like a little memo 
+sheet , and I'll go into that 
+
+24
+00:00:47,780 --> 00:00:49,240
+again briefly. 
+
+25
+00:00:50,340 --> 00:00:52,280
+Well, let's start with the average 
+
+26
+00:00:52,280 --> 00:00:55,480
+. The average is what you 
+
+27
+00:00:55,480 --> 00:00:56,640
+actually calculate the climate, so 
+
+28
+00:00:56,640 --> 00:00:57,700
+for example with the grade point average, 
+
+29
+00:00:57,800 --> 00:01:00,720
+you also divide the sum of all grades 
+
+30
+00:01:00,720 --> 00:01:02,900
+by the number of 
+
+31
+00:01:02,900 --> 00:01:05,300
+grades distributed. This means that you 
+
+32
+00:01:05,300 --> 00:01:08,480
+first add up everything, i.e. x1 plus x2 
+
+33
+00:01:08,480 --> 00:01:10,480
+plus x3 and so on until xn, 
+
+34
+00:01:10,480 --> 00:01:12,300
+i.e. until you 
+
+35
+00:01:12,300 --> 00:01:14,780
+have added up all the values and divide by 
+the total number. 
+
+36
+00:01:15,520 --> 00:01:19,820
+The advantage of this is that you get 
+
+37
+00:01:19,820 --> 00:01:21,800
+a very good overview of the 
+
+38
+00:01:21,800 --> 00:01:24,480
+values and can average them. 
+
+39
+00:01:24,480 --> 00:01:25,700
+In other words, you can say what 
+
+40
+00:01:25,700 --> 00:01:30,320
+the average grades are when it comes to 
+
+41
+00:01:30,320 --> 00:01:31,420
+grades, what the average 
+
+42
+00:01:31,420 --> 00:01:35,660
+performance was. The 
+
+43
+00:01:35,660 --> 00:01:39,140
+expected value is a value that 
+
+44
+00:01:39,140 --> 00:01:41,260
+, if you 
+
+45
+00:01:41,260 --> 00:01:44,060
+carry out a random experiment very often, 
+
+46
+00:01:44,060 --> 00:01:47,120
+should then be achieved in the long term 
+and the 
+
+47
+00:01:47,120 --> 00:01:48,780
+expected value then becomes equal 
+
+48
+00:01:48,780 --> 00:01:51,000
+to the average. To achieve this, 
+
+49
+00:01:51,000 --> 00:01:52,560
+however, you really have to carry out the 
+random experiment 
+
+50
+00:01:52,560 --> 00:01:54,200
+a corresponding number of times. That is 
+
+51
+00:01:54,200 --> 00:01:57,280
+very important. The expected value has 
+
+52
+00:01:57,280 --> 00:01:59,600
+this µ as a formula symbol and 
+
+53
+00:01:59,600 --> 00:02:05,080
+x1 times p of x1 applies. In other words, 
+x1 
+
+54
+00:02:05,080 --> 00:02:07,420
+is the event and then it says 
+
+55
+00:02:07,480 --> 00:02:08,880
+what this event can do. We 
+
+56
+00:02:08,880 --> 00:02:10,440
+also have an exercise on this in a moment 
+
+57
+00:02:10,440 --> 00:02:11,720
+and I think that will make it very 
+
+58
+00:02:11,720 --> 00:02:15,300
+clear . So you always multiply 
+
+59
+00:02:15,300 --> 00:02:17,820
+the event by its 
+
+60
+00:02:17,820 --> 00:02:20,040
+probability. And you do this 
+
+61
+00:02:20,040 --> 00:02:20,980
+until 
+
+62
+00:02:20,980 --> 00:02:22,940
+you have no more events. Of course, all 
+
+63
+00:02:22,940 --> 00:02:24,160
+probabilities together must add up 
+
+64
+00:02:24,160 --> 00:02:26,020
+to 100%, otherwise 
+
+65
+00:02:26,020 --> 00:02:28,980
+there is an error. We have 
+
+66
+00:02:28,980 --> 00:02:30,860
+
+67
+00:02:30,860 --> 00:02:34,280
+explained this using a small street game. 
+It's about 
+
+68
+00:02:34,280 --> 00:02:37,900
+tossing a coin. And 
+
+69
+00:02:37,900 --> 00:02:38,880
+of course there are only two 
+possibilities. 
+
+70
+00:02:39,100 --> 00:02:41,280
+Either you have heads or tails. The fact 
+that 
+
+71
+00:02:41,280 --> 00:02:42,680
+the coin somehow 
+
+72
+00:02:42,680 --> 00:02:43,660
+remains on the edge 
+
+73
+00:02:43,660 --> 00:02:45,220
+is ruled out here. 
+
+74
+00:02:45,220 --> 00:02:47,920
+It doesn't actually correspond to reality 
+either. In other words 
+
+75
+00:02:48,080 --> 00:02:49,660
+, we now know that we have 
+
+76
+00:02:49,660 --> 00:02:51,380
+defined X1 as winning 1 euro 
+
+77
+00:02:51,380 --> 00:02:54,680
+and X2 as losing 2 euros. 
+
+78
+00:02:55,440 --> 00:02:57,200
+The probability of a coin toss 
+
+79
+00:02:57,200 --> 00:02:58,560
+is that both sides are equally 
+
+80
+00:02:58,560 --> 00:03:01,400
+justified, i.e. 50% or 0 
+
+81
+00:03:01,400 --> 00:03:05,700
+.5. And so we arrive at X1 times P of 
+
+82
+00:03:05,700 --> 00:03:09,080
+X1 plus X2 times P of X equals 2. That 
+
+83
+00:03:09,080 --> 00:03:10,040
+is the approach for the 
+
+84
+00:03:10,040 --> 00:03:12,760
+expected value. And our X1 is now 
+
+85
+00:03:12,900 --> 00:03:14,900
+that we win 1 euro. That is, 
+
+86
+00:03:15,000 --> 00:03:16,860
+1 euro... times the probability, 
+
+87
+00:03:16,860 --> 00:03:19,680
+i.e. 0.5, plus the probability 
+
+88
+00:03:19,680 --> 00:03:21,500
+x2, which is that we 
+
+89
+00:03:21,500 --> 00:03:25,380
+lose 2 euros , therefore minus 2 euros, 
+has 
+
+90
+00:03:30,050 --> 00:03:33,670
+0.5 minus 1 and that is then minus 0 
+
+91
+00:03:33,670 --> 00:03:35,430
+.5. This means that if we play the game 
+
+92
+00:03:35,430 --> 00:03:38,170
+for a very long time, we will 
+
+93
+00:03:38,170 --> 00:03:41,450
+
+94
+00:03:41,450 --> 00:03:43,030
+have lost an average of 0.5 euros per 
+round in the end. 
+
+95
+00:03:46,140 --> 00:03:48,720
+Next we come to the variance. 
+
+96
+00:03:48,800 --> 00:03:50,720
+Calculating the variance 
+
+97
+00:03:50,720 --> 00:03:53,120
+is much more difficult. In order to 
+
+98
+00:03:53,120 --> 00:03:54,860
+calculate the variance first, 
+
+99
+00:03:54,880 --> 00:03:56,280
+we need the average. 
+
+100
+00:03:56,340 --> 00:03:59,540
+This x across is the average. 
+
+101
+00:04:00,820 --> 00:04:07,520
+x1 to xn are values 
+
+102
+00:04:07,580 --> 00:04:09,540
+that we have. So, for 
+
+103
+00:04:09,540 --> 00:04:10,360
+example, if we 
+
+104
+00:04:10,360 --> 00:04:12,120
+are given a set of data and we are 
+supposed to 
+
+105
+00:04:12,120 --> 00:04:13,500
+
+106
+00:04:13,500 --> 00:04:16,260
+calculate the variance of this set of data 
+, x1 to xn is the 
+
+107
+00:04:16,260 --> 00:04:18,540
+corresponding data. And you go 
+
+108
+00:04:18,540 --> 00:04:21,900
+ahead, calculate the difference from the 
+
+109
+00:04:21,900 --> 00:04:25,440
+first value to the average, 
+
+110
+00:04:25,520 --> 00:04:28,220
+
+111
+00:04:28,220 --> 00:04:30,120
+
+112
+00:04:30,120 --> 00:04:31,780
+square that and add the difference from 
+the second value to the average to the 
+square and so 
+
+113
+00:04:31,780 --> 00:04:34,140
+on. It always works like this. 
+
+114
+00:04:34,420 --> 00:04:37,480
+At the end, you also divide this by N, 
+
+115
+00:04:37,820 --> 00:04:39,320
+i.e. by the number of all 
+
+116
+00:04:39,320 --> 00:04:40,660
+values we have. This means that if 
+
+117
+00:04:40,660 --> 00:04:42,600
+we use five values here above, 
+
+118
+00:04:42,660 --> 00:04:43,980
+we have to divide by five at the end. 
+
+119
+00:04:43,980 --> 00:04:47,460
+The variance indicates the mean 
+
+120
+00:04:47,460 --> 00:04:51,160
+squared deviation at the end , i.e. from 
+the 
+
+121
+00:04:51,160 --> 00:04:54,460
+mean value. Alternatively, if you 
+
+122
+00:04:54,460 --> 00:04:57,060
+know the expected value, you can 
+
+123
+00:04:57,060 --> 00:04:59,040
+also calculate that the variance of x is 
+
+124
+00:04:59,040 --> 00:05:00,760
+equal to the expected value of x minus 
+
+125
+00:05:00,760 --> 00:05:04,080
+µ squared. This is simply based 
+
+126
+00:05:04,080 --> 00:05:08,180
+on the assumption that the 
+
+127
+00:05:08,180 --> 00:05:09,160
+expected value will 
+
+128
+00:05:09,160 --> 00:05:11,520
+
+129
+00:05:11,520 --> 00:05:13,560
+approach the mean if it is carried out 
+sufficiently often. The 
+
+130
+00:05:16,240 --> 00:05:18,820
+standard deviation is nothing more 
+
+131
+00:05:18,820 --> 00:05:22,420
+than the square root of the variance. 
+Therefore, 
+
+132
+00:05:22,420 --> 00:05:25,160
+the standard deviation, in 
+
+133
+00:05:25,160 --> 00:05:27,960
+contrast to the variance , also indicates 
+the dispersion around 
+
+134
+00:05:27,960 --> 00:05:29,640
+the mean value. The variance 
+
+135
+00:05:29,640 --> 00:05:32,460
+simply indicates the squared deviation. 
+
+136
+00:05:32,580 --> 00:05:34,500
+And because we now take the square root, 
+
+137
+00:05:34,560 --> 00:05:35,800
+we only have the dispersion around 
+
+138
+00:05:35,800 --> 00:05:40,040
+the mean. This is why 
+
+139
+00:05:40,040 --> 00:05:42,060
+the standard deviation is used much more 
+often 
+
+140
+00:05:42,060 --> 00:05:44,920
+than the variance. You may have already 
+
+141
+00:05:44,920 --> 00:05:45,760
+seen that we are about to 
+
+142
+00:05:45,760 --> 00:05:47,680
+look at the sigma rule and the sigma 
+
+143
+00:05:47,680 --> 00:05:49,040
+ rule is also based on the 
+
+144
+00:05:49,040 --> 00:05:53,060
+standard deviation. Well, let's move 
+
+145
+00:05:53,060 --> 00:05:54,380
+on to the application. That was 
+
+146
+00:05:54,380 --> 00:05:56,180
+perhaps quite a lot of theory, which 
+
+147
+00:05:56,180 --> 00:05:57,540
+
+148
+00:05:57,540 --> 00:05:59,420
+is not always so clear due to the 
+abundance of variables. 
+
+149
+00:06:01,240 --> 00:06:03,720
+Let's take the example of 
+
+150
+00:06:03,720 --> 00:06:05,620
+Paula observing 
+
+151
+00:06:05,620 --> 00:06:08,680
+how long it takes her to get to school in 
+the morning for five days. On the 
+
+152
+00:06:08,680 --> 00:06:11,060
+first day she records 37 minutes, on the 
+
+153
+00:06:11,060 --> 00:06:13,520
+second day 30 minutes, on the third day 
+
+154
+00:06:13,520 --> 00:06:17,360
+45 minutes , on the fourth day 26 minutes 
+and on the fifth 
+
+155
+00:06:17,360 --> 00:06:19,720
+day 40 minutes, i.e. we have five 
+
+156
+00:06:19,720 --> 00:06:23,180
+measured values. the first thing we do is 
+calculate the 
+
+157
+00:06:23,180 --> 00:06:26,300
+average, i.e. we add 
+
+158
+00:06:26,300 --> 00:06:29,320
+up all the times, which means we 
+
+159
+00:06:29,320 --> 00:06:31,060
+consider how long she 
+
+160
+00:06:31,060 --> 00:06:34,180
+walked in these five days together, i.e. 
+37 
+
+161
+00:06:34,180 --> 00:06:39,540
+to 30 45 26 plus plus 40. the whole thing 
+is 
+
+162
+00:06:39,540 --> 00:06:41,000
+divided by 5, because we 
+
+163
+00:06:41,000 --> 00:06:42,560
+have 5 measured values, i.e. because 
+
+164
+00:06:42,560 --> 00:06:45,040
+she walked to school on 5 days 
+
+165
+00:06:45,040 --> 00:06:47,200
+. We then arrive at an 
+
+166
+00:06:47,200 --> 00:06:49,780
+average duration of 35.6 
+
+167
+00:06:49,780 --> 00:06:51,920
+minutes. Here you can also see the 
+
+168
+00:06:51,920 --> 00:06:54,280
+formula symbol, the x² is the 
+
+169
+00:06:54,280 --> 00:06:58,700
+average time. 
+
+170
+00:06:58,700 --> 00:07:00,340
+We need this average in a moment, 
+
+171
+00:07:00,340 --> 00:07:03,340
+as I said, it is important. Because 
+
+172
+00:07:03,340 --> 00:07:04,960
+next we want to 
+
+173
+00:07:04,960 --> 00:07:09,680
+determine the variance . We now have 5 
+values. 
+
+174
+00:07:09,700 --> 00:07:14,660
+
+175
+00:07:15,160 --> 00:07:18,060
+Our x1 is then 37, x2 
+
+176
+00:07:18,060 --> 00:07:22,880
+is 30, x3 is 45, x4 is 26 
+
+177
+00:07:22,880 --> 00:07:27,080
+and x5 is 40. And so we 
+
+178
+00:07:27,080 --> 00:07:31,220
+arrive at 37 minus 35.6 squared plus 30 
+
+179
+00:07:31,220 --> 00:07:33,520
+minus 35.6 squared. 
+
+180
+00:07:33,580 --> 00:07:34,880
+So please always square it, 
+
+181
+00:07:35,020 --> 00:07:36,260
+because you have to square this difference 
+here 
+
+182
+00:07:36,260 --> 00:07:38,620
+. Otherwise only the 35... 
+
+183
+00:07:38,700 --> 00:07:43,100
+35.6 is squared. 
+
+184
+00:07:43,100 --> 00:07:46,100
+It took her 45 minutes on the third day , 
+so 45 
+
+185
+00:07:46,100 --> 00:07:49,400
+minus 35.6 squared. On the fourth day, 
+
+186
+00:07:49,400 --> 00:07:51,500
+she needed 26 minutes, 
+
+187
+00:07:51,560 --> 00:07:55,000
+therefore 26 minus 35.6 squared. 
+
+188
+00:07:56,100 --> 00:07:57,960
+On the last day she needed 40 minutes, 
+
+189
+00:07:57,960 --> 00:08:00,980
+therefore 40 minus 35.6 
+
+190
+00:08:00,980 --> 00:08:03,480
+squared. Again, this is divided by n, 
+
+191
+00:08:03,580 --> 00:08:05,560
+i.e. divided by 5, the number 
+
+192
+00:08:05,560 --> 00:08:09,140
+of our measured values and you can enter 
+this 
+
+193
+00:08:09,140 --> 00:08:10,220
+directly into the calculator 
+
+194
+00:08:10,220 --> 00:08:11,740
+or you can work 
+
+195
+00:08:11,740 --> 00:08:13,000
+out the values in brackets first , which 
+you can choose 
+
+196
+00:08:13,000 --> 00:08:15,800
+. Just make sure that 
+
+197
+00:08:15,900 --> 00:08:16,880
+if you 
+
+198
+00:08:17,540 --> 00:08:19,960
+calculate the values in brackets first , 
+the minus must 
+
+199
+00:08:19,960 --> 00:08:21,420
+be squared at the end , there is 
+
+200
+00:08:21,420 --> 00:08:23,260
+always a plus in between. Because 
+
+201
+00:08:23,260 --> 00:08:25,900
+we have minus 5.6 squared 
+
+202
+00:08:25,900 --> 00:08:27,760
+and the minus is then squared away 
+
+203
+00:08:27,760 --> 00:08:29,720
+or something positive comes out. 
+
+204
+00:08:32,300 --> 00:08:34,300
+We then end up with a 
+
+205
+00:08:34,300 --> 00:08:37,520
+variance of 46.64. 
+
+206
+00:08:40,140 --> 00:08:42,180
+As I have just said, 
+
+207
+00:08:42,180 --> 00:08:45,320
+the variance is not quite so common, 
+
+208
+00:08:45,320 --> 00:08:47,120
+so it is always calculated, but it 
+
+209
+00:08:47,120 --> 00:08:48,960
+is much better to work with the 
+
+210
+00:08:48,960 --> 00:08:50,660
+standard deviation. Therefore, the 
+
+211
+00:08:50,660 --> 00:08:52,520
+standard deviation was the square root 
+
+212
+00:08:52,520 --> 00:08:54,320
+of the variance. Consequently, 
+
+213
+00:08:54,320 --> 00:08:57,640
+we now take the square root of 46.64 to 
+
+214
+00:08:57,640 --> 00:08:58,820
+
+215
+00:08:58,820 --> 00:09:01,820
+obtain the standard deviation . This is 
+then 6.83. 
+
+216
+00:09:02,040 --> 00:09:04,540
+This means that 
+
+217
+00:09:04,540 --> 00:09:05,940
+
+218
+00:09:05,940 --> 00:09:08,620
+if you want to determine the standard 
+deviation , you can either 
+
+219
+00:09:08,620 --> 00:09:10,640
+
+220
+00:09:10,640 --> 00:09:12,020
+enter the square root directly using the 
+formula for the variance, which is 
+
+221
+00:09:12,020 --> 00:09:14,540
+also available, or you can first calculate 
+the 
+
+222
+00:09:14,540 --> 00:09:16,700
+variance and then take 
+
+223
+00:09:16,700 --> 00:09:17,900
+the square root. 
+
+224
+00:09:20,720 --> 00:09:22,400
+
+225
+00:09:22,400 --> 00:09:23,960
+If it is a binomial distribution and you 
+
+226
+00:09:23,960 --> 00:09:26,400
+have no measured values, you can 
+
+227
+00:09:26,400 --> 00:09:27,600
+also 
+
+228
+00:09:27,600 --> 00:09:30,060
+calculate the standard deviation using 
+this formula. 
+
+229
+00:09:30,060 --> 00:09:31,540
+Of course, this is much more convenient 
+
+230
+00:09:31,620 --> 00:09:33,760
+because you only have to 
+
+231
+00:09:33,760 --> 00:09:37,160
+enter n and p here. Where n is the 
+
+232
+00:09:37,160 --> 00:09:39,380
+total number and p is the 
+
+233
+00:09:39,380 --> 00:09:43,320
+probability. In other words, n 
+
+234
+00:09:43,320 --> 00:09:44,700
+indicates how often you 
+
+235
+00:09:44,700 --> 00:09:47,300
+carry out the experiment and p is the 
+
+236
+00:09:47,300 --> 00:09:48,640
+probability of a single 
+
+237
+00:09:48,980 --> 00:09:52,880
+hit . 
+
+238
+00:09:53,040 --> 00:09:57,380
+If this standard deviation, which 
+
+239
+00:09:57,380 --> 00:09:59,000
+is calculated here, 
+
+240
+00:09:59,000 --> 00:10:01,620
+is greater than 3 , this binomial 
+distribution can 
+
+241
+00:10:01,620 --> 00:10:03,220
+also 
+
+242
+00:10:03,220 --> 00:10:04,300
+be approximated to the normal 
+distribution. However, as already 
+mentioned, this is only possible 
+
+243
+00:10:04,420 --> 00:10:06,280
+if the standard deviation is greater 
+
+244
+00:10:06,280 --> 00:10:07,440
+than 3. 
+
+245
+00:10:10,430 --> 00:10:14,270
+Now we come to the sigma rule. The sigma 
+
+246
+00:10:14,270 --> 00:10:16,450
+ rule has the advantage that you can 
+
+247
+00:10:16,450 --> 00:10:18,550
+start with an interval right away, 
+
+248
+00:10:18,550 --> 00:10:22,050
+i.e. you 
+
+249
+00:10:22,050 --> 00:10:23,990
+first calculate the expected value and 
+then 
+
+250
+00:10:23,990 --> 00:10:26,010
+the standard deviation. And then 
+
+251
+00:10:26,010 --> 00:10:29,330
+you calculate minus sigma once and 
+
+252
+00:10:29,330 --> 00:10:31,230
+plus sigma once. The interval 
+
+253
+00:10:31,230 --> 00:10:33,010
+that is spanned by this is then 
+
+254
+00:10:33,010 --> 00:10:35,850
+the so-called 1 sigma interval. And 
+
+255
+00:10:35,850 --> 00:10:41,650
+the 1 sigma interval has a 
+
+256
+00:10:41,650 --> 00:10:45,850
+probability of 68%. 
+
+257
+00:10:45,850 --> 00:10:47,050
+This means that if you carry out this 
+experiment... 
+
+258
+00:10:47,550 --> 00:10:48,830
+moment, you will 
+
+259
+00:10:48,830 --> 00:10:50,930
+
+260
+00:10:50,930 --> 00:10:54,900
+end up in this interval with a probability 
+of 68% . 
+
+261
+00:10:54,900 --> 00:10:56,020
+Of course, you can also 
+
+262
+00:10:56,020 --> 00:10:57,500
+increase the interval accordingly. If the 
+interval 
+
+263
+00:10:57,500 --> 00:10:59,120
+becomes larger, it is of course the 
+
+264
+00:10:59,120 --> 00:11:00,440
+logical consequence that the 
+
+265
+00:11:00,440 --> 00:11:01,740
+probability of 
+
+266
+00:11:01,740 --> 00:11:03,620
+landing in this interval also increases 
+
+267
+00:11:03,620 --> 00:11:05,740
+. For example, the 2 sigma 
+
+268
+00:11:05,740 --> 00:11:06,840
+interval, where the 
+
+269
+00:11:06,840 --> 00:11:09,300
+expected value µ minus 2 sigma is 
+
+270
+00:11:09,300 --> 00:11:11,460
+calculated and the other, the upper 
+
+271
+00:11:11,460 --> 00:11:12,980
+interval limit is then the 
+
+272
+00:11:12,980 --> 00:11:13,860
+expected value 
+
+273
+00:11:18,280 --> 00:11:21,180
+with a probability of 95.5%. 
+
+274
+00:11:21,180 --> 00:11:26,980
+Very characteristic values, 1.96 sigma 
+
+275
+00:11:26,980 --> 00:11:29,360
+interval are for example 95% 
+
+276
+00:11:29,360 --> 00:11:32,500
+and the 3 sigma interval here is 
+
+277
+00:11:32,500 --> 00:11:36,280
+almost never used, has even 99.7%. 
+
+278
+00:11:36,280 --> 00:11:40,980
+Now we come to the brief overview. 
+
+279
+00:11:41,300 --> 00:11:44,700
+We first see here with the 
+
+280
+00:11:44,700 --> 00:11:45,960
+Bernoulli distribution how to 
+
+281
+00:11:45,960 --> 00:11:48,200
+determine the variance, i.e. p times 1 
+minus 
+
+282
+00:11:48,200 --> 00:11:50,820
+p. or the standard deviation, which 
+
+283
+00:11:50,820 --> 00:11:52,140
+is the square root of the variance, 
+
+284
+00:11:52,200 --> 00:11:53,620
+i.e. we simply take 
+
+285
+00:11:53,620 --> 00:11:56,400
+the square root here , which is then sigma 
+is 
+
+286
+00:11:56,400 --> 00:11:58,320
+equal to the square root of P times 
+bracket 
+
+287
+00:11:58,320 --> 00:12:03,160
+on 1 minus P bracket off. 
+
+288
+00:12:03,160 --> 00:12:06,760
+This is actually 
+
+289
+00:12:06,760 --> 00:12:11,280
+the same for the expected value , i.e. µ 
+is n times P, which 
+
+290
+00:12:11,280 --> 00:12:14,640
+is easy to calculate and 
+
+291
+00:12:14,640 --> 00:12:16,800
+very important for hypergeometric 
+
+292
+00:12:16,800 --> 00:12:18,000
+distributions or 
+
+293
+00:12:18,000 --> 00:12:20,740
+hypergeometric distributions in general , 
+which are 
+
+294
+00:12:20,740 --> 00:12:22,380
+completely different from 
+
+295
+00:12:22,380 --> 00:12:25,320
+binomial distributions. With 
+
+296
+00:12:25,320 --> 00:12:27,280
+hypergeometric distributions 
+
+297
+00:12:27,280 --> 00:12:28,820
+, the probability p or 
+
+298
+00:12:29,020 --> 00:12:31,500
+the number of elements is not 
+
+299
+00:12:31,500 --> 00:12:34,560
+constant. This is why 
+
+300
+00:12:34,560 --> 00:12:38,440
+the formulas are so complex. 
+
+301
+00:12:38,540 --> 00:12:40,240
+In the binomial distribution, 
+
+302
+00:12:40,240 --> 00:12:43,500
+as already mentioned, we have n times p 
+
+303
+00:12:43,500 --> 00:12:46,720
+times 1 minus p for the variance and 
+
+304
+00:12:46,720 --> 00:12:48,300
+7 times is equal to n 
+
+305
+00:12:48,300 --> 00:12:52,740
+times p for the standard deviation . p 
+times 1 minus p. This formula 
+
+306
+00:12:52,740 --> 00:12:53,600
+here is the one that 
+
+307
+00:12:53,600 --> 00:12:54,980
+is used most often in the 
+
+308
+00:12:54,980 --> 00:12:57,620
+epidemic distribution. That brings us to 
+
+309
+00:12:57,620 --> 00:12:58,960
+the end of the webinar. I 
+
+310
+00:12:58,960 --> 00:13:00,280
+hope you enjoyed the 
+
+311
+00:13:00,280 --> 00:13:02,620
+webinar. 
+
+312
+00:13:02,620 --> 00:13:03,580
+In any case, thank you very much for your 
+
+313
+00:13:03,580 --> 00:13:04,260
+attention. 

@@ -1,0 +1,492 @@
+1
+00:00:04,500 --> 00:00:06,740
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,740 --> 00:00:07,800
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,800 --> 00:00:09,600
+Schülerhilfe. Ich freue mich, dir
+
+4
+00:00:09,600 --> 00:00:11,140
+heute zu erklären, wie man in der
+
+5
+00:00:11,140 --> 00:00:12,900
+Chemie Reaktionsgleichungen erstellt.
+
+6
+00:00:13,540 --> 00:00:15,080
+Ergänzend zu diesem Video steht dir
+
+7
+00:00:15,080 --> 00:00:16,400
+in unserem Online-Lerncenter
+
+8
+00:00:16,400 --> 00:00:17,860
+natürlich auch ein Wiki zu diesem
+
+9
+00:00:17,860 --> 00:00:19,640
+Thema zur Verfügung, in dem dir die
+
+10
+00:00:19,640 --> 00:00:21,260
+wichtigsten Begriffe und Grundlagen
+
+11
+00:00:21,260 --> 00:00:23,640
+erklärt werden. Eine
+
+12
+00:00:23,640 --> 00:00:24,680
+Reaktionsgleichung enthält sozusagen
+
+13
+00:00:24,680 --> 00:00:27,320
+die Rezepte der Chemie. Sie geben an,
+
+14
+00:00:27,400 --> 00:00:28,840
+wie viele Stoffe in welchem
+
+15
+00:00:28,840 --> 00:00:30,780
+Verhältnis miteinander reagieren und
+
+16
+00:00:30,780 --> 00:00:33,180
+was bei der Reaktion entsteht. Beim
+
+17
+00:00:33,180 --> 00:00:34,640
+Backen hat man zum Beispiel die
+
+18
+00:00:34,640 --> 00:00:36,200
+verschiedenen Zutaten wie Eier,
+
+19
+00:00:36,340 --> 00:00:39,540
+Milch, Salz und Mehl und nutzt dann
+
+20
+00:00:39,540 --> 00:00:41,220
+die Mengenangaben, um das richtige
+
+21
+00:00:41,220 --> 00:00:43,640
+Mischverhältnis zu erhalten. Wenn der
+
+22
+00:00:43,640 --> 00:00:46,500
+Teig angerührt ist, backt man ihn aus
+
+23
+00:00:46,500 --> 00:00:49,540
+und erhält zum Beispiel Pfannkuchen.
+
+24
+00:00:49,680 --> 00:00:53,340
+Es entstehen aber auch Abfälle wie
+
+25
+00:00:53,340 --> 00:00:55,240
+Eierschalen oder leere Verpackungen.
+
+26
+00:00:55,260 --> 00:00:58,040
+Fast genauso läuft die Erstellung
+
+27
+00:00:58,040 --> 00:01:00,140
+einer Reaktionsgleichung ab. Wir
+
+28
+00:01:00,140 --> 00:01:03,460
+haben unsere Ausgangsstoffe, Edukte
+
+29
+00:01:03,460 --> 00:01:05,840
+oder Reaktanten genannt und erhalten
+
+30
+00:01:05,840 --> 00:01:07,660
+nach Vollzug der Reaktion unsere
+
+31
+00:01:07,660 --> 00:01:10,380
+Produkte. Hier unterscheidet man noch
+
+32
+00:01:10,380 --> 00:01:13,060
+zwischen Hauptprodukten, in unserem
+
+33
+00:01:13,060 --> 00:01:14,920
+Beispiel wären das die Pfannkuchen,
+
+34
+00:01:14,920 --> 00:01:18,280
+und Nebenprodukten. Den Abfällen,
+
+35
+00:01:18,400 --> 00:01:20,520
+Edukte und Produkte sind immer durch
+
+36
+00:01:20,520 --> 00:01:24,200
+den Reaktionspfeil getrennt. Bei
+
+37
+00:01:24,200 --> 00:01:25,900
+einer Reaktionsgleichung werden die
+
+38
+00:01:25,900 --> 00:01:27,400
+Stoffe in der Symbolschreibweise
+
+39
+00:01:27,400 --> 00:01:29,640
+dargestellt. Die Mengenangaben werden
+
+40
+00:01:29,640 --> 00:01:31,540
+durch das stöchiometrische Verhältnis
+
+41
+00:01:31,540 --> 00:01:33,340
+ersetzt, welches sich immer im
+
+42
+00:01:33,340 --> 00:01:35,320
+Gleichgewicht befinden muss. Das
+
+43
+00:01:35,320 --> 00:01:37,320
+heißt, dass die Anzahl der Atome
+
+44
+00:01:37,320 --> 00:01:39,260
+eines Elements auf beiden Seiten des
+
+45
+00:01:39,260 --> 00:01:41,220
+Reaktionspfeiles identisch ist.
+
+46
+00:01:41,840 --> 00:01:43,500
+Schauen wir uns das doch einmal in
+
+47
+00:01:43,500 --> 00:01:44,800
+einem Beispiel an. Zwei
+
+48
+00:01:44,800 --> 00:01:46,500
+Wasserstoffmoleküle reagieren mit
+
+49
+00:01:46,500 --> 00:01:48,400
+einem Sauerstoffmolekül zu zwei
+
+50
+00:01:48,400 --> 00:01:50,680
+Wassermolekülen. Hier stimmt das
+
+51
+00:01:50,680 --> 00:01:52,540
+stoichiometrische Verhältnis, da es
+
+52
+00:01:52,540 --> 00:01:54,080
+bei beiden Eduken vier
+
+53
+00:01:54,080 --> 00:01:56,300
+Wasserstoffatome gibt und bei den
+
+54
+00:01:56,300 --> 00:01:58,380
+Produkten auch. Die Anzahl der
+
+55
+00:01:58,380 --> 00:01:59,880
+Sauerstoffatome ist ebenfalls
+
+56
+00:01:59,880 --> 00:02:02,400
+identisch, aber wie bestimmt man
+
+57
+00:02:02,400 --> 00:02:04,020
+diese Multiplikatoren, auch
+
+58
+00:02:04,020 --> 00:02:05,940
+Reaktionsstoichiometriezahlen
+
+59
+00:02:05,940 --> 00:02:08,920
+genannt, richtig? Das werde ich dir
+
+60
+00:02:08,920 --> 00:02:10,080
+im Folgenden anhand dieser
+
+61
+00:02:10,080 --> 00:02:11,540
+Beispielaufgabe erklären. erklären.
+
+62
+00:02:12,400 --> 00:02:14,160
+Zuerst wird die Reaktionsgleichung
+
+63
+00:02:14,160 --> 00:02:16,880
+grob formuliert. Dazu werden erst die
+
+64
+00:02:16,880 --> 00:02:19,320
+Edukte, also Kohlenstoffdioxid und
+
+65
+00:02:19,320 --> 00:02:21,780
+Wasserstoff notiert. Danach die
+
+66
+00:02:21,780 --> 00:02:25,280
+Produkte, hier nur Methan. Jetzt wird
+
+67
+00:02:25,280 --> 00:02:26,900
+überprüft, ob alle Elemente der
+
+68
+00:02:26,900 --> 00:02:28,640
+Edukte auch bei den Produkten
+
+69
+00:02:28,640 --> 00:02:31,080
+vorhanden sind. Der Kohlenstoff ist
+
+70
+00:02:31,080 --> 00:02:33,320
+beidseitig da, der Wasserstoff auch.
+
+71
+00:02:33,660 --> 00:02:35,540
+Aber der Sauerstoff existiert
+
+72
+00:02:35,540 --> 00:02:38,160
+momentan nur bei den Edukten. Neben
+
+73
+00:02:38,160 --> 00:02:40,340
+dem Hauptprodukt Methan muss also
+
+74
+00:02:40,340 --> 00:02:43,200
+noch ein Nebenprodukt entstehen. Hier
+
+75
+00:02:43,200 --> 00:02:45,900
+ist es Wasser. Die vollständige
+
+76
+00:02:45,900 --> 00:02:47,320
+Gleichung lautet demnach,
+
+77
+00:02:47,380 --> 00:02:49,320
+Kohlenstoffdioxid reagiert mit
+
+78
+00:02:49,320 --> 00:02:51,260
+Wasserstoff zu Methan und Wasser.
+
+79
+00:02:51,940 --> 00:02:54,080
+Jetzt werden die einzelnen Atome der
+
+80
+00:02:54,080 --> 00:02:56,300
+verschiedenen Stoffe gezählt. Sowohl
+
+81
+00:02:56,300 --> 00:02:57,820
+bei den Edukten als auch bei den
+
+82
+00:02:57,820 --> 00:03:00,700
+Produkten gibt es ein C-Atom. Für den
+
+83
+00:03:00,700 --> 00:03:02,160
+Sauerstoff geht die Rechnung jedoch
+
+84
+00:03:02,160 --> 00:03:04,740
+nicht auf. Hier gibt es bei den
+
+85
+00:03:04,740 --> 00:03:06,620
+Edukten zwei Sauerstoffatome. Atome
+
+86
+00:03:06,620 --> 00:03:09,460
+und bei den Produkten nur eines. Bei
+
+87
+00:03:09,460 --> 00:03:10,800
+den Produkten wird mit der
+
+88
+00:03:10,800 --> 00:03:12,720
+Reaktionsstöchiometriezahl 2
+
+89
+00:03:12,720 --> 00:03:15,340
+ausgeglichen, sodass beidseitig zwei
+
+90
+00:03:15,340 --> 00:03:17,980
+Sauerstoffatome vorhanden sind. Nun
+
+91
+00:03:17,980 --> 00:03:18,720
+stimmen aber die
+
+92
+00:03:18,720 --> 00:03:20,640
+Reaktionsstöchiometriezahlen des
+
+93
+00:03:20,640 --> 00:03:23,000
+Wasserstoffes nicht mehr, auch wenn
+
+94
+00:03:23,000 --> 00:03:24,580
+diesmal mehr Atome bei den Produkten
+
+95
+00:03:24,580 --> 00:03:27,600
+vorhanden sind. Das kann mit einer 4
+
+96
+00:03:27,600 --> 00:03:29,480
+vor dem Wasserstoffmolekül behoben
+
+97
+00:03:29,480 --> 00:03:31,860
+werden. Die korrekte Endgleichung
+
+98
+00:03:31,860 --> 00:03:33,260
+lautet demnach, ein
+
+99
+00:03:33,260 --> 00:03:35,980
+Kohlenstoffdioxidmolekül reagiert mit
+
+100
+00:03:35,980 --> 00:03:39,020
+vier Wasserstoffmolekülen zu einem
+
+101
+00:03:39,020 --> 00:03:41,020
+Methanmolekül und zwei
+
+102
+00:03:41,020 --> 00:03:44,200
+Wassermolekülen. Eine kurze
+
+103
+00:03:44,200 --> 00:03:45,940
+Kontrollrechnung und schon ist die
+
+104
+00:03:45,940 --> 00:03:47,640
+Aufgabe erfolgreich abgeschlossen.
+
+105
+00:03:47,860 --> 00:03:50,180
+Hier noch einmal der Lösungsweg als
+
+106
+00:03:50,180 --> 00:03:56,660
+Übersicht. 1. Edukte aufschreiben. 2.
+
+107
+00:03:57,520 --> 00:04:00,160
+Haupt- und Nebenprodukte notieren.
+
+108
+00:04:00,860 --> 00:04:03,900
+Drittens, Atome aller Elemente zählen
+
+109
+00:04:03,900 --> 00:04:05,620
+und falls nötig. Viertens,
+
+110
+00:04:05,740 --> 00:04:07,800
+Reaktionsstöchiometriezahlen
+
+111
+00:04:07,800 --> 00:04:10,680
+ergänzen. Fünftens,
+
+112
+00:04:10,680 --> 00:04:14,380
+Reaktionsgleichung überprüfen. Ich
+
+113
+00:04:14,380 --> 00:04:15,900
+hoffe, dass ich dir helfen konnte,
+
+114
+00:04:16,060 --> 00:04:16,840
+das Aufstellen von
+
+115
+00:04:16,840 --> 00:04:19,720
+Reaktionsgleichungen zu verstehen. Um
+
+116
+00:04:19,720 --> 00:04:21,620
+die Inhalte noch besser zu vertiefen,
+
+117
+00:04:21,620 --> 00:04:23,120
+stehen dir im Online-Lerncenter
+
+118
+00:04:23,120 --> 00:04:25,040
+natürlich noch weitere Lernangebote
+
+119
+00:04:25,040 --> 00:04:26,740
+zur Verfügung, wie zum Beispiel
+
+120
+00:04:26,740 --> 00:04:29,400
+interaktive Aufgaben, Arbeitsblätter
+
+121
+00:04:29,400 --> 00:04:31,340
+oder Webinare, in denen unsere
+
+122
+00:04:31,340 --> 00:04:33,080
+Nachhilfelehrer verschiedene Themen
+
+123
+00:04:33,080 --> 00:04:34,460
+noch einmal detailliert erklären.
+

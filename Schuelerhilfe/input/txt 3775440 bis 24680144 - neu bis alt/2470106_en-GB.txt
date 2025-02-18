@@ -1,0 +1,3554 @@
+﻿1
+00:00:01,490 --> 00:00:03,190
+Welcome to the 
+
+2
+00:00:03,190 --> 00:00:05,210
+Benullikette and Binomial Distribution 
+webinar . 
+
+3
+00:00:05,540 --> 00:00:07,790
+In this webinar, we will be looking at 
+
+4
+00:00:07,790 --> 00:00:09,430
+stochastics, i.e. the 
+
+5
+00:00:09,430 --> 00:00:10,590
+Benullic chain and the 
+
+6
+00:00:10,590 --> 00:00:12,430
+binomial distribution. We will 
+
+7
+00:00:12,430 --> 00:00:14,870
+also look at some special features 
+
+8
+00:00:14,870 --> 00:00:17,070
+and of course we will 
+
+9
+00:00:17,070 --> 00:00:19,030
+also take a very 
+
+10
+00:00:19,030 --> 00:00:21,970
+close look at the Benullic chain at the 
+beginning. In other words, we will 
+
+11
+00:00:21,970 --> 00:00:23,810
+first talk about what 
+
+12
+00:00:23,810 --> 00:00:26,550
+a binomial distribution is. Then 
+
+13
+00:00:26,550 --> 00:00:27,870
+we will look at the meaning of the 
+
+14
+00:00:27,870 --> 00:00:29,750
+binomial coefficient. This is 
+
+15
+00:00:29,750 --> 00:00:31,670
+very important and once you 
+
+16
+00:00:31,670 --> 00:00:32,750
+
+17
+00:00:32,750 --> 00:00:34,470
+have understood the meaning of this 
+binomial coefficient 
+
+18
+00:00:34,570 --> 00:00:36,190
+, you 
+
+19
+00:00:36,190 --> 00:00:37,190
+will probably be able to understand the 
+Bernoulli 
+
+20
+00:00:37,190 --> 00:00:40,010
+ chain a lot better. That's why 
+
+21
+00:00:40,010 --> 00:00:41,370
+we'll take a look 
+
+22
+00:00:41,370 --> 00:00:44,210
+at the Bernoulli chain afterwards. Then 
+we'll look 
+
+23
+00:00:44,210 --> 00:00:45,650
+at the binomial distribution in 
+
+24
+00:00:45,650 --> 00:00:47,290
+general. So then we'll 
+
+25
+00:00:47,290 --> 00:00:48,450
+also do a bit of math with it. And 
+
+26
+00:00:48,450 --> 00:00:50,370
+at the very end, we'll also calculate 
+
+27
+00:00:50,370 --> 00:00:51,950
+with the Benulli chain again or 
+
+28
+00:00:52,350 --> 00:00:54,570
+look at special features of it, 
+
+29
+00:00:54,610 --> 00:00:56,410
+i.e. special problems. 
+
+30
+00:00:57,650 --> 00:00:59,630
+Well, let's start with the 
+
+31
+00:00:59,630 --> 00:01:02,050
+minimum distribution. First of all 
+
+32
+00:01:02,050 --> 00:01:03,730
+, the minimum distribution is 
+
+33
+00:01:03,730 --> 00:01:05,650
+a special type of discrete 
+
+34
+00:01:05,650 --> 00:01:07,550
+probability distribution. 
+
+35
+00:01:07,550 --> 00:01:10,670
+This means that a discrete 
+
+36
+00:01:10,670 --> 00:01:12,790
+probability distribution 
+
+37
+00:01:12,790 --> 00:01:16,670
+only exists if the 
+
+38
+00:01:16,670 --> 00:01:18,750
+random variable x, i.e. the event, 
+
+39
+00:01:18,850 --> 00:01:20,730
+
+40
+00:01:20,730 --> 00:01:22,630
+is concentrated on a finite or foreseeable 
+quantity. This means that 
+
+41
+00:01:22,630 --> 00:01:24,410
+our n is defined. 
+
+42
+00:01:24,470 --> 00:01:27,250
+We will see later what n is. And what is 
+
+43
+00:01:27,250 --> 00:01:29,030
+also 
+
+44
+00:01:29,030 --> 00:01:30,750
+very important for us with the BIM-R 
+distribution is that there are only two 
+
+45
+00:01:30,750 --> 00:01:33,370
+possible outcomes. In other words, we 
+
+46
+00:01:33,370 --> 00:01:35,350
+either have a hit or 
+
+47
+00:01:35,350 --> 00:01:36,730
+a precipitation. or 
+
+48
+00:01:36,730 --> 00:01:39,730
+a success or a failure, which 
+
+49
+00:01:39,730 --> 00:01:41,910
+means that our event can occur 
+
+50
+00:01:41,910 --> 00:01:44,410
+or it can fail to occur. there are only 
+
+51
+00:01:44,410 --> 00:01:45,890
+these two possibilities, there is 
+
+52
+00:01:45,890 --> 00:01:47,590
+no third possibility. 
+
+53
+00:01:49,830 --> 00:01:51,370
+so let's take a look 
+
+54
+00:01:51,370 --> 00:01:52,530
+at how this 
+
+55
+00:01:52,530 --> 00:01:54,530
+minimum coefficient sits together and 
+
+56
+00:01:54,530 --> 00:01:56,650
+what that actually means. we see 
+
+57
+00:01:56,650 --> 00:01:59,010
+three balls of different 
+
+58
+00:01:59,010 --> 00:02:03,130
+colors here and we have four places. the 
+
+59
+00:02:03,130 --> 00:02:07,270
+question now is, how many 
+
+60
+00:02:07,270 --> 00:02:09,990
+different ways are there to 
+
+61
+00:02:10,110 --> 00:02:12,230
+
+62
+00:02:12,230 --> 00:02:14,490
+distribute these three balls over four 
+places ? We have 
+
+63
+00:02:14,490 --> 00:02:16,850
+divided this into roughly four. 
+
+64
+00:02:16,850 --> 00:02:17,750
+You can see here that the 
+
+65
+00:02:17,750 --> 00:02:19,030
+empty space has always been moved. Here 
+
+66
+00:02:19,030 --> 00:02:20,430
+it's on the far left. So here it's in 
+
+67
+00:02:20,430 --> 00:02:21,390
+the first place, here in the 
+
+68
+00:02:21,390 --> 00:02:23,350
+second place, here in the third 
+
+69
+00:02:23,350 --> 00:02:24,970
+place and down here in the fourth 
+
+70
+00:02:24,970 --> 00:02:26,450
+place. This means that you can 
+
+71
+00:02:26,450 --> 00:02:28,490
+move the space first and 
+
+72
+00:02:28,490 --> 00:02:30,350
+then you can 
+
+73
+00:02:30,350 --> 00:02:32,590
+vary the order here. In other words, we 
+see 
+
+74
+00:02:32,590 --> 00:02:35,410
+that green is in front twice and 
+
+75
+00:02:35,410 --> 00:02:36,890
+then the other two 
+
+76
+00:02:36,890 --> 00:02:38,750
+colors change and it goes on like this. 
+
+77
+00:02:38,930 --> 00:02:40,890
+In other words, we can see here that 
+
+78
+00:02:41,010 --> 00:02:43,510
+we have four options for moving the 
+
+79
+00:02:43,510 --> 00:02:46,230
+blank space. Then 
+
+80
+00:02:46,230 --> 00:02:48,230
+we have three more options for the 
+
+81
+00:02:48,230 --> 00:02:49,390
+color of the sphere with which the whole 
+thing 
+
+82
+00:02:49,390 --> 00:02:52,290
+begins. And then there are only 
+
+83
+00:02:52,290 --> 00:02:54,110
+two options for the variation 
+
+84
+00:02:54,110 --> 00:02:56,990
+behind it. 
+
+85
+00:02:57,130 --> 00:02:58,270
+In other words , if we think about it 
+logically 
+
+86
+00:02:58,270 --> 00:03:01,770
+, we end up with a number of 24, which 
+means 
+
+87
+00:03:01,810 --> 00:03:03,530
+that there are 24 ways to 
+
+88
+00:03:03,730 --> 00:03:05,170
+
+89
+00:03:05,170 --> 00:03:07,470
+
+90
+00:03:07,470 --> 00:03:10,150
+distribute these three balls with 
+different colors over four spaces. 
+
+91
+00:03:10,150 --> 00:03:12,550
+Of course, the whole thing can also be 
+
+92
+00:03:12,550 --> 00:03:14,890
+described using combinatorics. Yes, 
+
+93
+00:03:14,890 --> 00:03:16,630
+that would have been the factorial 
+
+94
+00:03:16,630 --> 00:03:18,870
+of 4 here and that would also have been 
+24. 
+
+95
+00:03:21,110 --> 00:03:23,290
+But next we ask ourselves, we 
+
+96
+00:03:23,290 --> 00:03:25,490
+now have three balls of the same 
+
+97
+00:03:25,490 --> 00:03:27,790
+color and want to distribute them over 
+four 
+
+98
+00:03:27,790 --> 00:03:29,450
+places. In principle, 
+
+99
+00:03:29,450 --> 00:03:31,370
+this is exactly the same task, except 
+
+100
+00:03:31,370 --> 00:03:33,130
+that we now have three balls of the 
+
+101
+00:03:33,130 --> 00:03:35,150
+same color. 
+
+102
+00:03:35,150 --> 00:03:36,550
+Let's imagine that all the balls here 
+
+103
+00:03:36,550 --> 00:03:38,170
+are the same color and that we 
+
+104
+00:03:38,170 --> 00:03:39,750
+
+105
+00:03:39,750 --> 00:03:43,410
+can 't tell them apart. Yes, that 
+
+106
+00:03:43,410 --> 00:03:44,890
+would mean that these are all the 
+
+107
+00:03:44,890 --> 00:03:46,650
+same cases for us. All three 
+
+108
+00:03:46,650 --> 00:03:47,810
+come one after the other, with a 
+
+109
+00:03:47,810 --> 00:03:49,610
+space in front of them. This means that we 
+
+110
+00:03:49,610 --> 00:03:51,010
+can now only move this 
+
+111
+00:03:51,010 --> 00:03:53,350
+blank space. So there are 
+
+112
+00:03:53,350 --> 00:03:55,370
+now only four possibilities. 
+
+113
+00:03:56,250 --> 00:03:58,230
+And this can be calculated by 
+
+114
+00:03:58,230 --> 00:04:00,570
+dividing the factorial of 4 by the 
+
+115
+00:04:00,570 --> 00:04:02,990
+factorial of 3 times the factorial of 
+
+116
+00:04:02,990 --> 00:04:06,410
+1. And so we have 
+
+117
+00:04:06,410 --> 00:04:09,590
+
+118
+00:04:09,590 --> 00:04:13,570
+calculated nothing more than the binomial 
+coefficient 4 over 3. And the 
+
+119
+00:04:13,570 --> 00:04:19,570
+binomial coefficient only 
+
+120
+00:04:19,570 --> 00:04:22,610
+indicates how many possibilities there are 
+to 
+
+121
+00:04:22,730 --> 00:04:26,430
+
+122
+00:04:26,430 --> 00:04:30,810
+achieve k hits in n attempts. So if we use 
+this again 
+
+123
+00:04:30,810 --> 00:04:32,770
+as an example, we would 
+
+124
+00:04:32,770 --> 00:04:39,010
+draw a ball four times, we have 
+
+125
+00:04:39,010 --> 00:04:42,230
+, let's say... Red balls and 
+
+126
+00:04:42,230 --> 00:04:45,210
+white balls. The white balls 
+
+127
+00:04:45,210 --> 00:04:46,230
+now appear here, let's say, as 
+
+128
+00:04:46,230 --> 00:04:48,190
+invisible. Then we can 
+
+129
+00:04:48,190 --> 00:04:50,090
+draw a white ball first, then 
+
+130
+00:04:50,090 --> 00:04:52,010
+three red balls. Or we first draw a 
+
+131
+00:04:52,010 --> 00:04:53,650
+red one, then an invisible one, then 
+
+132
+00:04:53,650 --> 00:04:56,050
+two more red ones. Or we draw 
+
+133
+00:04:56,050 --> 00:04:58,470
+two red ones first, then the invisible 
+
+134
+00:04:58,470 --> 00:05:00,150
+one and then a red one. Or we 
+
+135
+00:05:00,150 --> 00:05:02,010
+first draw three red balls and then 
+
+136
+00:05:02,010 --> 00:05:06,290
+the invisible one. 
+
+137
+00:05:06,290 --> 00:05:08,190
+In other words, there are a total of four 
+ways to 
+
+138
+00:05:08,710 --> 00:05:13,510
+
+139
+00:05:13,510 --> 00:05:15,430
+
+140
+00:05:15,430 --> 00:05:18,410
+get three red balls and one white ball 
+when you draw four balls. And the whole 
+thing can be 
+
+141
+00:05:18,410 --> 00:05:20,350
+
+142
+00:05:20,350 --> 00:05:20,910
+determined using the Biomia F coefficient 
+n over k. 
+
+143
+00:05:23,960 --> 00:05:26,580
+The term n over k is 
+
+144
+00:05:26,580 --> 00:05:29,300
+much more common, but you 
+
+145
+00:05:29,300 --> 00:05:32,940
+can also say k out of n. 
+
+146
+00:05:32,940 --> 00:05:34,820
+As I said, N is the number of trials 
+
+147
+00:05:34,840 --> 00:05:36,720
+we have or how often we 
+
+148
+00:05:36,720 --> 00:05:38,540
+perform the random experiment and K 
+
+149
+00:05:38,540 --> 00:05:40,160
+is the number of hits we 
+
+150
+00:05:40,160 --> 00:05:40,640
+want to have. 
+
+151
+00:05:45,130 --> 00:05:46,550
+This binary coefficient can 
+
+152
+00:05:46,550 --> 00:05:49,630
+also be solved by specifying, I'll 
+
+153
+00:05:49,630 --> 00:05:51,430
+write it next to it, that 
+
+154
+00:05:53,960 --> 00:05:55,880
+is nothing more than the factorial 
+
+155
+00:05:55,880 --> 00:06:01,820
+of N divided by K-factorial times 
+
+156
+00:06:01,820 --> 00:06:03,780
+
+157
+00:06:05,720 --> 00:06:08,900
+n minus k and the 
+
+158
+00:06:08,900 --> 00:06:11,340
+factorial of that again. You can 
+
+159
+00:06:11,340 --> 00:06:12,700
+also 
+
+160
+00:06:12,700 --> 00:06:15,360
+solve such a binary coefficient manually. 
+As you can see, this was also 
+
+161
+00:06:15,360 --> 00:06:17,780
+done. This 1 is simply made 
+
+162
+00:06:17,780 --> 00:06:19,880
+up of 4 minus 3. 
+
+163
+00:06:24,960 --> 00:06:27,620
+Now let's move on to the Bernoulli 
+
+164
+00:06:27,620 --> 00:06:30,300
+ chain. 
+
+165
+00:06:30,300 --> 00:06:32,740
+First things first. The most important 
+thing is that 
+
+166
+00:06:32,740 --> 00:06:34,600
+Bernoulli's chain can only be used when 
+drawing 
+
+167
+00:06:34,600 --> 00:06:36,040
+with a backward placement. 
+
+168
+00:06:36,080 --> 00:06:37,340
+This means that the probability 
+
+169
+00:06:37,340 --> 00:06:38,440
+must... remain constant, 
+
+170
+00:06:38,560 --> 00:06:41,840
+or the number of 
+
+171
+00:06:41,840 --> 00:06:44,480
+
+172
+00:06:45,820 --> 00:06:47,520
+
+173
+00:06:47,520 --> 00:06:49,100
+balls in the urn must 
+
+174
+00:06:49,100 --> 00:06:50,480
+also remain constant, for example, if you 
+have an urn experiment. That's why 
+
+175
+00:06:50,480 --> 00:06:52,880
+pulling with putting back. As soon as the 
+
+176
+00:06:52,880 --> 00:06:54,440
+ball that was pulled out is not 
+
+177
+00:06:54,440 --> 00:06:56,260
+put back, you can 
+
+178
+00:06:56,260 --> 00:06:58,000
+no longer use the Benulli chain. 
+
+179
+00:06:58,280 --> 00:07:00,080
+You have to 
+
+180
+00:07:00,080 --> 00:07:01,240
+use a different distribution , which we 
+will look 
+
+181
+00:07:01,240 --> 00:07:05,140
+at later. Furthermore, there are 
+
+182
+00:07:05,140 --> 00:07:06,560
+only two 
+
+183
+00:07:06,560 --> 00:07:08,040
+possibilities during the experiment. This 
+means that we 
+
+184
+00:07:08,040 --> 00:07:09,820
+either have a hit or no 
+
+185
+00:07:09,820 --> 00:07:12,340
+hit, i.e. a blank. 
+
+186
+00:07:12,340 --> 00:07:14,520
+You often have to 
+
+187
+00:07:14,520 --> 00:07:16,580
+define this a little differently . 
+
+188
+00:07:16,580 --> 00:07:18,400
+For example, if there are red, blue and 
+green balls 
+
+189
+00:07:18,400 --> 00:07:20,460
+and you want to know the 
+
+190
+00:07:20,460 --> 00:07:21,440
+probability of a 
+
+191
+00:07:21,440 --> 00:07:24,580
+red ball, then a red ball is 
+
+192
+00:07:24,580 --> 00:07:27,420
+a hit. And if you 
+
+193
+00:07:27,420 --> 00:07:29,200
+draw a green or a blue ball, 
+
+194
+00:07:29,260 --> 00:07:31,960
+neither is a hit. You 
+
+195
+00:07:31,960 --> 00:07:33,420
+just have to simplify this so 
+
+196
+00:07:33,420 --> 00:07:34,980
+
+197
+00:07:34,980 --> 00:07:38,080
+that you can apply the Benulli chain 
+accordingly. Here we see the 
+
+198
+00:07:38,080 --> 00:07:39,400
+Benulli chain. Here we have 
+
+199
+00:07:39,400 --> 00:07:41,020
+our BMI coefficient, which we 
+
+200
+00:07:41,020 --> 00:07:42,800
+have just described. This 
+
+201
+00:07:42,800 --> 00:07:44,860
+indicates how many possibilities 
+
+202
+00:07:44,860 --> 00:07:47,640
+there are to 
+
+203
+00:07:47,640 --> 00:07:50,140
+
+204
+00:07:50,140 --> 00:07:53,440
+achieve this constellation of N and K, 
+i.e. of attempts and hits. P is the 
+
+205
+00:07:53,440 --> 00:07:56,500
+individual probability 
+
+206
+00:07:56,500 --> 00:07:58,180
+of the event. So, for example, 
+
+207
+00:07:58,220 --> 00:08:00,620
+if we look at the throw of the dice 
+
+208
+00:08:00,640 --> 00:08:03,640
+, it would simply be 1 sixth. K 
+
+209
+00:08:03,640 --> 00:08:06,980
+is the number of hits and N is 
+
+210
+00:08:06,980 --> 00:08:08,800
+the length of the chain, i.e. the length 
+
+211
+00:08:08,800 --> 00:08:10,280
+of the Bernoulli chain, or 
+
+212
+00:08:10,280 --> 00:08:14,580
+the number of attempts. And as 
+
+213
+00:08:14,580 --> 00:08:16,100
+I said, this binomial coefficient 
+
+214
+00:08:16,100 --> 00:08:17,820
+indicates how many possibilities 
+
+215
+00:08:17,820 --> 00:08:19,560
+
+216
+00:08:19,560 --> 00:08:20,200
+there are for the number of hits to occur. 
+
+217
+00:08:24,820 --> 00:08:28,700
+What is very important here is that the 
+
+218
+00:08:28,700 --> 00:08:30,280
+Bernoulli chain unfortunately 
+
+219
+00:08:30,280 --> 00:08:31,980
+only ever calculates the probability for 
+
+220
+00:08:31,980 --> 00:08:35,840
+P of X equals K. In other words, the 
+
+221
+00:08:35,840 --> 00:08:37,020
+Bernoulli chain calculates the 
+
+222
+00:08:37,020 --> 00:08:38,660
+probability for exactly K 
+
+223
+00:08:38,660 --> 00:08:43,720
+hits. So, if we 
+
+224
+00:08:43,720 --> 00:08:46,140
+use 3 for K , the result is the 
+
+225
+00:08:46,140 --> 00:08:47,600
+probability of exactly K 
+
+226
+00:08:47,600 --> 00:08:51,300
+hits. This is why we often have to use 
+
+227
+00:08:51,300 --> 00:08:54,860
+
+228
+00:08:54,860 --> 00:08:56,960
+Bernoulli's formula or Bernoulli's 
+
+229
+00:08:56,960 --> 00:09:00,620
+ chain more often in some tasks.  If we 
+
+230
+00:09:00,620 --> 00:09:05,220
+have something like one or two 
+
+231
+00:09:05,220 --> 00:09:06,300
+hits, then we have to 
+
+232
+00:09:06,300 --> 00:09:07,760
+
+233
+00:09:07,800 --> 00:09:09,740
+calculate the probability of one hit, i.e. 
+K equals 1, and 
+
+234
+00:09:09,740 --> 00:09:11,200
+the probability of two 
+
+235
+00:09:11,200 --> 00:09:14,540
+hits, i.e. K equals 2. Here is 
+
+236
+00:09:14,540 --> 00:09:16,180
+an example. 
+
+237
+00:09:16,180 --> 00:09:18,260
+There are ten nails in a box. 
+
+238
+00:09:18,260 --> 00:09:20,160
+
+239
+00:09:20,160 --> 00:09:22,040
+The nail is broken with a probability of 
+10%. What is the 
+
+240
+00:09:22,040 --> 00:09:23,560
+probability of 
+
+241
+00:09:23,560 --> 00:09:24,640
+finding two broken nails out of ten? 
+
+242
+00:09:27,820 --> 00:09:30,460
+That is, we pull 10 nails 
+
+243
+00:09:30,460 --> 00:09:32,280
+out of it. That is simply the number 
+
+244
+00:09:32,280 --> 00:09:35,240
+of our attempts, our n. And we 
+
+245
+00:09:35,240 --> 00:09:36,240
+want to know the 
+
+246
+00:09:36,240 --> 00:09:37,860
+probability of 2 broken 
+
+247
+00:09:37,860 --> 00:09:39,280
+nails. That's why our k is 
+
+248
+00:09:39,280 --> 00:09:43,360
+equal to 2. Our p, the 
+
+249
+00:09:43,360 --> 00:09:44,940
+probability, is, it 
+
+250
+00:09:44,940 --> 00:09:46,140
+already says probability of 10%, 
+
+251
+00:09:46,140 --> 00:09:48,700
+so 10%, important, please always 
+
+252
+00:09:48,700 --> 00:09:50,180
+enter this in decimal, for 
+
+253
+00:09:50,180 --> 00:09:52,680
+example 0.1. And so we get 
+
+254
+00:09:52,680 --> 00:09:56,740
+10 over 2 times 0.1 to the power of 2. 
+times 1 minus 
+
+255
+00:09:56,740 --> 00:09:59,720
+0.1 to the power of 10 minus 2. So simply 
+
+256
+00:09:59,720 --> 00:10:02,960
+our k at a 2, so we get a 
+
+257
+00:10:02,960 --> 00:10:05,500
+power of 2 here. Here we had n minus 
+
+258
+00:10:05,500 --> 00:10:07,500
+k, so that's 10 minus 2 for us. 
+
+259
+00:10:07,600 --> 00:10:08,920
+And we can then enter this in the 
+
+260
+00:10:08,920 --> 00:10:11,040
+calculator . If the 
+
+261
+00:10:11,040 --> 00:10:11,900
+calculator cannot 
+
+262
+00:10:11,900 --> 00:10:13,920
+calculate binomial coefficients 
+
+263
+00:10:13,920 --> 00:10:16,000
+, you have to 
+
+264
+00:10:16,000 --> 00:10:17,480
+
+265
+00:10:17,480 --> 00:10:18,320
+use the corresponding transformation that 
+I showed earlier. 
+
+266
+00:10:21,240 --> 00:10:23,240
+Now we come to the special cases. 
+
+267
+00:10:23,240 --> 00:10:26,340
+The Bernoulli formula 
+
+268
+00:10:26,340 --> 00:10:28,260
+only ever deals with the 
+
+269
+00:10:28,260 --> 00:10:29,720
+probability of exactly K 
+
+270
+00:10:29,720 --> 00:10:31,160
+ hits. I 
+
+271
+00:10:31,160 --> 00:10:32,380
+have already said  that. I'll say it 
+
+272
+00:10:32,380 --> 00:10:33,560
+again anyway because it' 
+
+273
+00:10:33,560 --> 00:10:36,580
+s really important. 
+
+274
+00:10:36,580 --> 00:10:38,460
+However, many problems require the 
+probability 
+
+275
+00:10:38,460 --> 00:10:41,760
+of at most K hits or the 
+
+276
+00:10:41,760 --> 00:10:43,440
+probability of at least K 
+
+277
+00:10:43,440 --> 00:10:45,980
+ hits. And if you 
+
+278
+00:10:45,980 --> 00:10:48,800
+have a task like this , unfortunately you 
+can't 
+
+279
+00:10:48,800 --> 00:10:51,240
+just use the Benulli formula 
+
+280
+00:10:51,240 --> 00:10:53,060
+and simply enter n, p and k. 
+Unfortunately, you can only 
+
+281
+00:10:53,060 --> 00:10:55,800
+of . 
+
+282
+00:10:55,800 --> 00:10:56,900
+Unfortunately, you can then only calculate 
+the probability for 
+
+283
+00:10:56,900 --> 00:11:00,920
+the individual event. And if we 
+
+284
+00:11:00,920 --> 00:11:02,800
+
+285
+00:11:02,800 --> 00:11:06,940
+want the probability for a maximum of k 
+hits, then you 
+
+286
+00:11:06,940 --> 00:11:08,060
+
+287
+00:11:08,060 --> 00:11:09,500
+need the probability for all 
+
+288
+00:11:09,500 --> 00:11:12,800
+possible hits from 0 up to 
+
+289
+00:11:12,800 --> 00:11:17,200
+and including K. In other words, if it 
+
+290
+00:11:17,200 --> 00:11:20,460
+says a maximum of 3 hits, then 
+
+291
+00:11:20,460 --> 00:11:21,600
+it is the probability for 0 
+
+292
+00:11:21,600 --> 00:11:23,720
+hits plus the probability 
+
+293
+00:11:23,720 --> 00:11:25,500
+for 1 hit plus the 
+
+294
+00:11:25,500 --> 00:11:27,600
+probability for 2 hits plus 
+
+295
+00:11:27,600 --> 00:11:29,080
+the probability for 3 hits. 
+
+296
+00:11:31,180 --> 00:11:33,600
+And that is, as I said, that you 
+
+297
+00:11:33,600 --> 00:11:35,980
+
+298
+00:11:35,980 --> 00:11:38,440
+
+299
+00:11:38,440 --> 00:11:41,100
+
+300
+00:11:41,100 --> 00:11:42,100
+
+301
+00:11:42,400 --> 00:11:44,340
+add up the probability of exactly K hits 
+for each integer value of K, i.e. 0, 1, 2 
+and 3 in the example I just gave. This 
+means that you have to 
+
+302
+00:11:44,340 --> 00:11:48,800
+apply the Bernoulli chain four times 
+
+303
+00:11:48,800 --> 00:11:52,020
+or the Bernoulli formula. The 
+
+304
+00:11:52,020 --> 00:11:53,300
+results are then simply 
+
+305
+00:11:53,300 --> 00:11:57,860
+added up. The term or 
+
+306
+00:11:58,160 --> 00:12:00,460
+the wording at least K hits 
+
+307
+00:12:00,460 --> 00:12:03,480
+includes all possible hits from K 
+
+308
+00:12:03,480 --> 00:12:06,340
+to N, i.e. up to the 
+
+309
+00:12:06,340 --> 00:12:08,420
+end of the interval. So if you say 
+
+310
+00:12:08,520 --> 00:12:12,920
+at least 5 hits on 7 
+
+311
+00:12:12,920 --> 00:12:15,360
+attempts, this means that you want the 
+
+312
+00:12:15,360 --> 00:12:16,780
+probability of 5 
+
+313
+00:12:16,780 --> 00:12:18,360
+hits plus the probability 
+
+314
+00:12:18,360 --> 00:12:21,040
+of 6 plus the probability of 
+
+315
+00:12:21,040 --> 00:12:25,360
+7. This means that if 
+
+316
+00:12:25,360 --> 00:12:26,580
+you 
+
+317
+00:12:26,580 --> 00:12:28,700
+want to use the Bernoulli chain, you need 
+the 
+
+318
+00:12:28,700 --> 00:12:30,040
+probability for each 
+
+319
+00:12:30,040 --> 00:12:32,700
+integer value of k and add it 
+
+320
+00:12:32,700 --> 00:12:34,780
+up at the end. The 
+
+321
+00:12:34,780 --> 00:12:36,160
+sign in front here is nothing more than 
+the 
+
+322
+00:12:36,160 --> 00:12:38,460
+summation sign. We 
+
+323
+00:12:38,460 --> 00:12:40,580
+simply want to have the sum of i equals 
+
+324
+00:12:40,580 --> 00:12:44,440
+k to n of p of x equals i. So, 
+
+325
+00:12:44,560 --> 00:12:49,620
+to 
+
+326
+00:12:49,620 --> 00:12:51,680
+use the example from just now. You want at 
+least 5 
+
+327
+00:12:51,680 --> 00:12:54,980
+hits with n equal to 7, then it is 
+
+328
+00:12:54,980 --> 00:12:58,900
+the sum of i equal to 5 to 7. Then 
+
+329
+00:12:58,900 --> 00:13:01,500
+it would be p of x equal to 5 plus p of x 
+
+330
+00:13:01,500 --> 00:13:04,940
+equal to 6 plus p of x equal to 7. And 
+
+331
+00:13:04,940 --> 00:13:06,740
+these three individual Bernoulli 
+
+332
+00:13:06,740 --> 00:13:07,980
+ formulas or Bernoulli chains 
+
+333
+00:13:07,980 --> 00:13:09,000
+would then have to 
+
+334
+00:13:09,000 --> 00:13:11,340
+be calculated accordingly and also 
+
+335
+00:13:11,340 --> 00:13:13,020
+all added together at the end . This is 
+what this 
+
+336
+00:13:13,020 --> 00:13:18,080
+summation sign specifies. This is, of 
+course, 
+
+337
+00:13:18,080 --> 00:13:19,180
+rather pointless. 
+
+338
+00:13:22,300 --> 00:13:24,240
+Many of you are probably 
+
+339
+00:13:24,240 --> 00:13:25,140
+already familiar with the cumulative 
+
+340
+00:13:25,140 --> 00:13:26,420
+probability, which we will come to 
+
+341
+00:13:26,420 --> 00:13:29,140
+in a moment. But what is very important 
+
+342
+00:13:29,140 --> 00:13:32,300
+is the relationship between 
+
+343
+00:13:32,300 --> 00:13:34,360
+probability and 
+
+344
+00:13:34,360 --> 00:13:35,880
+counter-probability. 
+
+345
+00:13:35,880 --> 00:13:39,720
+We know that the 
+
+346
+00:13:39,720 --> 00:13:41,540
+probability of the event plus 
+
+347
+00:13:41,540 --> 00:13:43,080
+the probability of its 
+
+348
+00:13:43,080 --> 00:13:45,940
+counter-event, i.e. p of x plus p 
+
+349
+00:13:45,940 --> 00:13:49,500
+of x², is always equal to 1. This means 
+that 
+
+350
+00:13:49,500 --> 00:13:51,140
+if we 
+
+351
+00:13:51,140 --> 00:13:52,400
+take the dice roll again, we roll the dice 
+once, 
+
+352
+00:13:52,560 --> 00:13:54,500
+let's say x is the event 
+
+353
+00:13:54,520 --> 00:13:56,520
+that a 4 comes up and x² 
+
+354
+00:13:56,520 --> 00:13:57,620
+is simply the event that no 4 
+
+355
+00:13:57,620 --> 00:14:00,080
+comes up. And I think it's clear 
+
+356
+00:14:00,120 --> 00:14:02,940
+that the probability is 100%, 
+
+357
+00:14:03,040 --> 00:14:05,320
+because when you roll the dice, 
+
+358
+00:14:05,320 --> 00:14:07,460
+either a 4 or no 4 comes up. 
+
+359
+00:14:07,460 --> 00:14:11,260
+Nothing else happens. And that's why 
+
+360
+00:14:11,260 --> 00:14:15,040
+you can 
+
+361
+00:14:15,040 --> 00:14:18,280
+convert at least K hits to at most K hits. 
+
+362
+00:14:18,280 --> 00:14:20,600
+We'll see why in a moment. 
+
+363
+00:14:20,600 --> 00:14:21,560
+First, let's see how it 
+
+364
+00:14:21,560 --> 00:14:25,020
+works . The 
+
+365
+00:14:25,020 --> 00:14:26,940
+term at least k hits 
+
+366
+00:14:26,940 --> 00:14:30,080
+
+367
+00:14:30,080 --> 00:14:33,500
+does not include all possible hits from 0 
+to k-1. In other words, 
+
+368
+00:14:33,720 --> 00:14:35,260
+let's take the example from 
+
+369
+00:14:35,260 --> 00:14:37,000
+just now again , we want at least 5 
+
+370
+00:14:37,000 --> 00:14:39,580
+hits with n equal to 7. This means 
+
+371
+00:14:39,580 --> 00:14:43,140
+that all hits from 0 to 
+
+372
+00:14:43,140 --> 00:14:45,760
+4 inclusive 
+
+373
+00:14:45,760 --> 00:14:50,180
+are not included. And we also know that 
+the 
+
+374
+00:14:50,180 --> 00:14:52,500
+sum of both 
+
+375
+00:14:52,500 --> 00:14:53,720
+probabilities, i.e. the 
+
+376
+00:14:53,720 --> 00:14:57,280
+probability of at most 4 
+
+377
+00:14:57,280 --> 00:14:58,960
+hits and the probability 
+
+378
+00:14:58,960 --> 00:15:05,420
+of at least 5 hits, is 1. This 
+
+379
+00:15:05,420 --> 00:15:07,360
+can then be transformed into the 
+
+380
+00:15:07,360 --> 00:15:12,300
+probability of at least K 
+
+381
+00:15:12,300 --> 00:15:14,900
+hits, i.e. i equals k to n. 
+
+382
+00:15:14,900 --> 00:15:16,520
+At least K hits is 
+
+383
+00:15:16,520 --> 00:15:19,000
+then equal to 1 minus the 
+
+384
+00:15:19,000 --> 00:15:21,300
+probability of 0 to K-1 
+
+385
+00:15:21,300 --> 00:15:22,460
+ hits. This is very important. If 
+
+386
+00:15:22,460 --> 00:15:23,520
+you 
+
+387
+00:15:23,520 --> 00:15:25,800
+form the counter probability , you always 
+have this K-1 
+
+388
+00:15:25,800 --> 00:15:29,540
+in there. Because we have 
+
+389
+00:15:29,540 --> 00:15:31,840
+already fulfilled our event with 5 hits. 
+
+390
+00:15:31,900 --> 00:15:35,480
+That's why the maximum limit 
+
+391
+00:15:35,480 --> 00:15:36,140
+for the 
+
+392
+00:15:36,140 --> 00:15:38,060
+counter probability is 4 hits. That's why 
+
+393
+00:15:38,060 --> 00:15:42,440
+we have a K-1 here. And so 
+
+394
+00:15:42,440 --> 00:15:46,220
+we now have ... from the wording 
+
+395
+00:15:46,220 --> 00:15:48,160
+at least K hits, which is 
+
+396
+00:15:48,160 --> 00:15:49,500
+transformed in such a way that we 
+
+397
+00:15:49,500 --> 00:15:51,340
+
+398
+00:15:51,340 --> 00:15:52,860
+ insert or 
+
+399
+00:15:52,860 --> 00:15:55,420
+calculate the probability for at most K 
+hits here. But by 
+
+400
+00:15:55,420 --> 00:15:56,860
+forming the counter probability, 1 
+
+401
+00:15:56,860 --> 00:15:58,000
+-, we have finally 
+
+402
+00:15:58,000 --> 00:15:59,400
+
+403
+00:15:59,400 --> 00:16:01,760
+determined the probability of at least K 
+hits. In words, 
+
+404
+00:16:01,760 --> 00:16:03,520
+this simply means what is written above. 
+The 
+
+405
+00:16:03,520 --> 00:16:05,520
+probability of at least K 
+
+406
+00:16:05,520 --> 00:16:07,560
+ hits is equal to 1 minus the 
+
+407
+00:16:07,560 --> 00:16:08,980
+probability of at most K 
+
+408
+00:16:08,980 --> 00:16:09,820
+ hits, i.e. the 
+
+409
+00:16:09,820 --> 00:16:12,720
+counter probability. And we 
+
+410
+00:16:12,720 --> 00:16:14,780
+are of course using 
+
+411
+00:16:14,780 --> 00:16:16,040
+the 
+
+412
+00:16:16,040 --> 00:16:17,880
+probability of at most K 
+
+413
+00:16:17,880 --> 00:16:20,380
+hits here for a very specific reason , 
+because this is the so-called 
+
+414
+00:16:20,380 --> 00:16:22,720
+cumulative probability. 
+
+415
+00:16:24,860 --> 00:16:26,860
+
+416
+00:16:26,860 --> 00:16:28,440
+There are also 
+
+417
+00:16:28,440 --> 00:16:31,760
+tables for this cumulative probability and 
+that is also the reason 
+
+418
+00:16:31,800 --> 00:16:31,960
+why we use the K hits 
+
+419
+00:16:31,980 --> 00:16:33,140
+, because we 
+
+420
+00:16:33,140 --> 00:16:34,760
+
+421
+00:16:34,760 --> 00:16:37,140
+can then read the probability from a table 
+and 
+
+422
+00:16:37,140 --> 00:16:38,640
+
+423
+00:16:38,640 --> 00:16:43,360
+calculate the probability with at least. 
+As I said, this is 
+
+424
+00:16:43,600 --> 00:16:44,600
+a very special 
+
+425
+00:16:44,600 --> 00:16:45,680
+probability function. This is 
+
+426
+00:16:45,680 --> 00:16:47,620
+the cumulative probability. 
+
+427
+00:16:48,460 --> 00:16:50,100
+This is 
+
+428
+00:16:50,100 --> 00:16:51,120
+stored in most calculators 
+
+429
+00:16:51,180 --> 00:16:53,320
+and 
+
+430
+00:16:53,320 --> 00:16:55,560
+
+431
+00:16:55,560 --> 00:16:58,140
+can also be found in many math books at 
+the end of the book. We have 
+
+432
+00:16:58,140 --> 00:17:00,340
+illustrated it here. We have exactly K 
+
+433
+00:17:00,340 --> 00:17:01,720
+ hits here , i.e. this is the 
+
+434
+00:17:01,720 --> 00:17:03,800
+individual probability. And here we 
+
+435
+00:17:03,800 --> 00:17:04,980
+have the cumulative 
+
+436
+00:17:04,980 --> 00:17:06,620
+probability for a maximum of K 
+
+437
+00:17:06,620 --> 00:17:08,460
+ hits. We have 
+
+438
+00:17:08,460 --> 00:17:11,060
+done the whole thing for a K of 0 to 5. We 
+
+439
+00:17:11,060 --> 00:17:13,140
+can see that for a K of 0, the individual 
+probability is 
+
+440
+00:17:13,140 --> 00:17:17,400
+59.049%. The 
+
+441
+00:17:17,400 --> 00:17:20,180
+probability for K equal to 1 is 
+
+442
+00:17:20,180 --> 00:17:23,720
+32.805. If we look at 
+
+443
+00:17:23,720 --> 00:17:25,400
+the cumulative 
+
+444
+00:17:25,400 --> 00:17:27,700
+probability, we 
+
+445
+00:17:27,700 --> 00:17:29,220
+first see that the probability of 0 
+
+446
+00:17:29,220 --> 00:17:30,820
+is the same. This is simply due to 
+
+447
+00:17:30,820 --> 00:17:34,440
+the fact that the probability 
+
+448
+00:17:34,440 --> 00:17:35,720
+of 0, you can't 
+
+449
+00:17:35,720 --> 00:17:39,500
+add anything up yet. But if I 
+
+450
+00:17:39,500 --> 00:17:41,080
+say I want to 
+
+451
+00:17:41,080 --> 00:17:42,000
+have at most 0 hits , then there is only 
+one 
+
+452
+00:17:42,000 --> 00:17:44,340
+possibility, that is 0. 
+
+453
+00:17:44,340 --> 00:17:46,340
+But if I say I want to 
+
+454
+00:17:46,340 --> 00:17:48,820
+have at most one hit, then it is simply 
+
+455
+00:17:48,820 --> 00:17:51,740
+the probability of 0 hits 
+
+456
+00:17:51,740 --> 00:17:53,260
+plus the probability of one 
+
+457
+00:17:53,260 --> 00:17:54,940
+hit. And that's why it says 
+
+458
+00:17:54,940 --> 00:17:58,820
+91, which is nothing 
+
+459
+00:17:58,820 --> 00:18:03,400
+more than 59.049 plus 32.805 
+
+460
+00:18:04,640 --> 00:18:06,500
+. It's the same if you say 
+
+461
+00:18:06,500 --> 00:18:08,180
+at most two hits. Then we have 
+
+462
+00:18:08,180 --> 00:18:13,280
+99.144% here. That is then 59. 
+
+463
+00:18:13,280 --> 00:18:19,340
+049% plus 32.805% plus 7.290%. 
+
+464
+00:18:24,260 --> 00:18:25,680
+And that goes on and on. 
+
+465
+00:18:26,100 --> 00:18:29,820
+Therefore, if, for example, we 
+
+466
+00:18:29,820 --> 00:18:33,120
+have n equal to 5 and if we 
+
+467
+00:18:33,120 --> 00:18:35,880
+set k equal to 5, then the 
+
+468
+00:18:35,880 --> 00:18:37,780
+cumulative probability 
+
+469
+00:18:37,780 --> 00:18:42,700
+is of course 100%. Because if we 
+
+470
+00:18:42,700 --> 00:18:43,980
+ run a 
+
+471
+00:18:43,980 --> 00:18:46,940
+test experiment 5  times 
+
+472
+00:18:46,940 --> 00:18:48,680
+, the probability that an event will 
+
+473
+00:18:48,680 --> 00:18:52,380
+occur at most 5 times is 100%. Because 
+
+474
+00:18:52,380 --> 00:18:55,720
+at most 5 times means from 0 times 
+
+475
+00:18:55,720 --> 00:18:59,080
+to 5 times. And this means that 
+
+476
+00:18:59,140 --> 00:19:01,560
+if the K is equal to N, all 
+
+477
+00:19:01,560 --> 00:19:04,240
+probabilities are taken into account . And 
+that's why 
+
+478
+00:19:04,240 --> 00:19:07,700
+you end up with 100%. And using 
+
+479
+00:19:07,700 --> 00:19:09,000
+such tables, you can 
+
+480
+00:19:09,000 --> 00:19:09,920
+of course also 
+
+481
+00:19:09,920 --> 00:19:12,140
+
+482
+00:19:12,140 --> 00:19:12,640
+solve such minimum tasks very effectively. 
+
+483
+00:19:19,100 --> 00:19:23,160
+Let's move on to a few text problems that 
+
+484
+00:19:23,240 --> 00:19:25,380
+
+485
+00:19:25,380 --> 00:19:26,940
+are very difficult at first glance. These 
+are... such 
+
+486
+00:19:26,940 --> 00:19:29,120
+three times minimum tasks. These are 
+
+487
+00:19:29,120 --> 00:19:31,680
+very popular exam problems because 
+
+488
+00:19:31,680 --> 00:19:33,060
+they are actually quite easy 
+
+489
+00:19:33,060 --> 00:19:37,120
+to calculate, but it 
+
+490
+00:19:37,120 --> 00:19:39,580
+
+491
+00:19:39,580 --> 00:19:42,660
+is very difficult to set up the equation 
+or find the approach. Because we 
+
+492
+00:19:42,660 --> 00:19:44,000
+have the task, there 
+
+493
+00:19:44,000 --> 00:19:46,140
+are 100 balls in a box , including 
+
+494
+00:19:46,140 --> 00:19:49,060
+two red ones. How often do you have to 
+
+495
+00:19:49,060 --> 00:19:50,900
+draw at least 
+
+496
+00:19:50,900 --> 00:19:53,220
+
+497
+00:19:53,220 --> 00:19:55,620
+one ball in order to 
+
+498
+00:19:55,620 --> 00:19:57,380
+achieve at least one hit with a 
+probability of at least 99 percent ? it's 
+all very 
+
+499
+00:19:57,380 --> 00:19:58,500
+complicated and you have 
+
+500
+00:19:58,500 --> 00:20:02,660
+at least three times and whenever you 
+
+501
+00:20:02,660 --> 00:20:04,400
+have a task like this, you won 
+
+502
+00:20:04,400 --> 00:20:05,860
+'t be 
+
+503
+00:20:05,860 --> 00:20:07,880
+
+504
+00:20:07,880 --> 00:20:09,560
+able to fully understand it the first time 
+you read it and work out the approach 
+straight away. as a 
+
+505
+00:20:09,560 --> 00:20:11,460
+rule, you have to read it several times 
+
+506
+00:20:11,460 --> 00:20:13,660
+and then it works a bit 
+
+507
+00:20:13,660 --> 00:20:15,580
+better. that's why we're going to go 
+
+508
+00:20:15,580 --> 00:20:17,360
+step by step for now. 
+
+509
+00:20:17,360 --> 00:20:19,460
+first of all, we'll think about 
+
+510
+00:20:19,460 --> 00:20:21,560
+at least one So how to find 
+
+511
+00:20:21,560 --> 00:20:23,840
+the formula for at least k hits again . 
+
+512
+00:20:24,700 --> 00:20:28,140
+And we could transform it 
+
+513
+00:20:28,140 --> 00:20:31,540
+into at most k hits. If we 
+
+514
+00:20:31,540 --> 00:20:33,520
+transform this form at least k hits 
+
+515
+00:20:33,520 --> 00:20:35,860
+to at most k hits, 
+
+516
+00:20:35,900 --> 00:20:39,060
+we have, that is 1 minus from 0 to 
+
+517
+00:20:39,060 --> 00:20:42,000
+k minus 1 of the function p of x equals 
+
+518
+00:20:42,000 --> 00:20:46,160
+i. And behind this is now 
+
+519
+00:20:46,160 --> 00:20:46,880
+of course for this 
+
+520
+00:20:46,880 --> 00:20:50,260
+probability x equals i. is 
+
+521
+00:20:50,260 --> 00:20:51,720
+simply our Benullikette. So 
+
+522
+00:20:51,720 --> 00:20:53,640
+we simply get 1 minus the sum of 
+
+523
+00:20:53,640 --> 00:20:57,380
+i equals 0 to k minus 1 of n 
+
+524
+00:20:57,380 --> 00:21:00,720
+over i times p to the power of i times 1 
+minus p 
+
+525
+00:21:00,720 --> 00:21:02,360
+to the power of n minus i. So everywhere 
+where 
+
+526
+00:21:02,360 --> 00:21:03,620
+a k would actually be now, there is 
+
+527
+00:21:03,620 --> 00:21:05,620
+now an i, simply because we 
+
+528
+00:21:05,620 --> 00:21:09,800
+have defined it as i down here. And that 
+
+529
+00:21:09,800 --> 00:21:11,160
+may still seem quite 
+
+530
+00:21:11,160 --> 00:21:14,620
+tangled and very difficult, but 
+
+531
+00:21:14,620 --> 00:21:18,420
+our k is actually 1. And 
+
+532
+00:21:18,420 --> 00:21:21,020
+if we now calculate k minus 1, 
+
+533
+00:21:21,020 --> 00:21:23,240
+i.e. 1 minus 1, we have a 0. 
+
+534
+00:21:24,020 --> 00:21:25,200
+It's already there, the k has 
+
+535
+00:21:25,200 --> 00:21:26,320
+finally been inserted here. 
+
+536
+00:21:26,320 --> 00:21:28,960
+We have 1 minus 1 here. This means 
+
+537
+00:21:28,960 --> 00:21:31,400
+that we have the sum of i equals 0 to 0. 
+
+538
+00:21:32,760 --> 00:21:34,200
+And there is only one possibility, 
+
+539
+00:21:34,340 --> 00:21:36,720
+an integer, and that is 0. This 
+
+540
+00:21:36,720 --> 00:21:37,860
+means that we only have to 
+
+541
+00:21:37,860 --> 00:21:39,860
+consider one probability, that 
+
+542
+00:21:39,860 --> 00:21:42,180
+is the probability for 0. And so we arrive 
+at 
+
+543
+00:21:42,180 --> 00:21:47,020
+1 minus n over 0 times p to the power of 0 
+times 1. 
+
+544
+00:21:47,140 --> 00:21:52,080
+1-p to the power of n-0. So 1-p in 
+brackets, 
+
+545
+00:21:52,120 --> 00:21:55,620
+the whole thing to the power of n-0. And 
+now it is 
+
+546
+00:21:55,620 --> 00:21:59,480
+very important that n 
+
+547
+00:21:59,480 --> 00:22:02,760
+over 0 is simply 1. 
+
+548
+00:22:06,270 --> 00:22:09,150
+p to the power of 0, something to the 
+power of 0 is also 
+
+549
+00:22:09,150 --> 00:22:14,870
+1. And 1-p to the power of n-0 is simply p 
+
+550
+00:22:14,870 --> 00:22:17,030
+to the power of n. And that makes it look 
+
+551
+00:22:17,030 --> 00:22:19,770
+much nicer. That means 
+
+552
+00:22:19,770 --> 00:22:21,990
+everything summarized, 1 times 1 times 
+
+553
+00:22:21,990 --> 00:22:23,210
+the parenthesis, then we can simply 
+
+554
+00:22:23,210 --> 00:22:24,630
+drop the two ones, 
+
+555
+00:22:24,770 --> 00:22:26,710
+because multiplying by 1 
+
+556
+00:22:26,710 --> 00:22:28,510
+doesn't change anything, because then 1 
+minus 
+
+557
+00:22:28,510 --> 00:22:34,290
+the parenthesis is 1 minus p to the power 
+of n. And 
+
+558
+00:22:34,290 --> 00:22:35,310
+
+559
+00:22:35,310 --> 00:22:37,710
+we already know the probability of this 
+event, namely 
+
+560
+00:22:37,710 --> 00:22:43,330
+99%. We 
+
+561
+00:22:43,330 --> 00:22:45,170
+also know our p and our n. Also. 
+
+562
+00:22:45,250 --> 00:22:48,650
+Sorry, the n is wanted, 
+
+563
+00:22:48,710 --> 00:22:50,430
+so we don't know that, but we do 
+
+564
+00:22:50,430 --> 00:22:52,970
+know our p. That was the 0 
+
+565
+00:22:52,970 --> 00:22:56,130
+.02, because we know that p is 0.02 
+
+566
+00:22:56,130 --> 00:22:58,210
+and so we get 1 minus, 
+
+567
+00:22:58,390 --> 00:23:01,250
+brackets open, 1 minus 0.02, brackets 
+
+568
+00:23:01,250 --> 00:23:04,590
+closed, to the power of n. That should 
+equal 0.99 
+
+569
+00:23:04,590 --> 00:23:07,610
+. As 
+
+570
+00:23:07,610 --> 00:23:08,670
+I said, 1 minus 0.02 is in the parenthesis 
+and only the 
+
+571
+00:23:08,670 --> 00:23:10,630
+parenthesis is raised to the power of n, 
+so 
+
+572
+00:23:10,630 --> 00:23:12,390
+we can 
+
+573
+00:23:12,470 --> 00:23:15,750
+carry out this arithmetic operation, which 
+is then 0.98 to the power of n. 
+
+574
+00:23:16,230 --> 00:23:18,210
+And this is now a very simple 
+
+575
+00:23:18,210 --> 00:23:19,670
+exponential equation that we 
+
+576
+00:23:19,670 --> 00:23:21,550
+can solve . Therefore, in the 
+
+577
+00:23:21,550 --> 00:23:26,510
+next step , we simply calculate plus 0.98 
+
+578
+00:23:26,510 --> 00:23:31,610
+to the power of n and minus 0.999, i.e. 
+0.99 and 
+
+579
+00:23:31,610 --> 00:23:34,730
+then 0.01 is equal to 0.98 to the power of 
+
+580
+00:23:34,730 --> 00:23:37,710
+n. 
+
+581
+00:23:37,710 --> 00:23:38,790
+We now solve this exponential equation 
+
+582
+00:23:38,790 --> 00:23:40,430
+by applying the logarithm . The 
+
+583
+00:23:40,430 --> 00:23:43,110
+logarithm to the base 0.98 is used here 
+
+584
+00:23:43,110 --> 00:23:45,630
+, which is simply based on the 
+
+585
+00:23:45,630 --> 00:23:48,750
+logarithmic laws of arithmetic, so 
+
+586
+00:23:48,750 --> 00:23:50,390
+we end up with 
+
+587
+00:23:50,390 --> 00:23:52,270
+the logarithm of 0.98 
+
+588
+00:23:53,650 --> 00:23:55,090
+, sorry n is equal to the 
+
+589
+00:23:55,090 --> 00:23:59,310
+logarithm to the base 0.98 of 0.01 
+
+590
+00:23:59,310 --> 00:24:01,590
+and if we enter this in the calculator 
+
+591
+00:24:01,590 --> 00:24:03,370
+, the logarithm to the base 0 
+
+592
+00:24:03,370 --> 00:24:08,790
+.98 8 of 0.01, we get 228. 
+
+593
+00:24:08,790 --> 00:24:11,630
+But  this is also the same as the 
+
+594
+00:24:12,940 --> 00:24:18,920
+logarithm of 0.01 by the 
+
+595
+00:24:18,920 --> 00:24:23,360
+logarithm of 0.98. If someone 
+
+596
+00:24:23,360 --> 00:24:24,940
+doesn't know how to change the base, 
+
+597
+00:24:24,980 --> 00:24:26,620
+you can enter it just as well, 
+
+598
+00:24:26,640 --> 00:24:31,340
+the result will also be 228 rounded. And 
+
+599
+00:24:31,340 --> 00:24:32,860
+that completes the task 
+
+600
+00:24:32,860 --> 00:24:33,560
+. 
+
+601
+00:24:35,930 --> 00:24:37,950
+Now let's move on to the case that I 
+
+602
+00:24:37,950 --> 00:24:40,090
+briefly touched on at the beginning, that 
+
+603
+00:24:40,090 --> 00:24:43,270
+we have the case that we draw 
+
+604
+00:24:43,270 --> 00:24:45,550
+without putting back. In other words, I 
+
+605
+00:24:45,550 --> 00:24:46,710
+said that 
+
+606
+00:24:46,710 --> 00:24:48,650
+we can only use the Benulli chain when 
+drawing with 
+
+607
+00:24:48,650 --> 00:24:51,270
+putting back. However, there is 
+
+608
+00:24:51,270 --> 00:24:53,250
+often also the case that we draw without 
+
+609
+00:24:53,250 --> 00:24:55,910
+putting back. And 
+
+610
+00:24:55,910 --> 00:24:57,390
+
+611
+00:24:57,390 --> 00:24:59,610
+we can now see the probability function 
+that we need here. This is 
+
+612
+00:24:59,610 --> 00:25:00,570
+a so-called 
+
+613
+00:25:00,570 --> 00:25:03,930
+hypergeometric distribution. And it 
+
+614
+00:25:03,930 --> 00:25:07,150
+is still a... And this is 
+
+615
+00:25:07,150 --> 00:25:08,610
+the formula for it. All these 
+
+616
+00:25:08,610 --> 00:25:09,790
+brackets are also 
+
+617
+00:25:09,790 --> 00:25:12,270
+binomial coefficients. You can see that 
+
+618
+00:25:12,270 --> 00:25:14,830
+a large n 
+
+619
+00:25:14,830 --> 00:25:17,350
+and an r have been added to the n and the 
+k. And the 
+
+620
+00:25:17,350 --> 00:25:19,250
+probability p of x equals k, 
+
+621
+00:25:19,350 --> 00:25:20,430
+i.e. this is 
+
+622
+00:25:20,430 --> 00:25:21,330
+still a 
+
+623
+00:25:21,330 --> 00:25:23,830
+single probability, is r 
+
+624
+00:25:23,830 --> 00:25:27,270
+over k times n minus r over n minus k. 
+
+625
+00:25:27,370 --> 00:25:31,790
+The whole thing divided by large n over 
+
+626
+00:25:31,790 --> 00:25:36,530
+n. Let's start with 
+
+627
+00:25:36,530 --> 00:25:38,450
+n and k, i.e. small n 
+
+628
+00:25:38,450 --> 00:25:40,490
+and small k. Small n is 
+
+629
+00:25:40,490 --> 00:25:42,130
+also the number of nails 
+
+630
+00:25:42,130 --> 00:25:43,450
+taken from a box, i.e. 
+
+631
+00:25:43,450 --> 00:25:45,170
+the sample size if you like. 
+
+632
+00:25:45,790 --> 00:25:48,030
+The small k is the number of 
+
+633
+00:25:48,030 --> 00:25:49,890
+hits in the sample size, the 
+
+634
+00:25:49,890 --> 00:25:52,210
+largest n. So n and k 
+
+635
+00:25:52,210 --> 00:25:53,490
+do not change. k is still the 
+
+636
+00:25:53,490 --> 00:25:56,210
+number of hits and n is the chain length 
+
+637
+00:25:56,210 --> 00:25:59,250
+or sample size. But large 
+
+638
+00:25:59,250 --> 00:26:02,130
+N is the total number of all nails in 
+
+639
+00:26:02,130 --> 00:26:05,470
+a box, i.e. the total number 
+
+640
+00:26:05,470 --> 00:26:06,890
+of all possible events, if you 
+
+641
+00:26:06,890 --> 00:26:09,570
+like. The small R is the 
+
+642
+00:26:09,570 --> 00:26:11,030
+number of broken nails 
+
+643
+00:26:11,030 --> 00:26:12,610
+that can lead to a hit, i.e. the 
+
+644
+00:26:12,610 --> 00:26:15,570
+number of possible hits. 
+
+645
+00:26:15,570 --> 00:26:17,590
+We have 
+
+646
+00:26:17,590 --> 00:26:20,190
+filled in the whole thing again with an 
+example. 
+
+647
+00:26:20,190 --> 00:26:22,670
+There are 200 nails in a box, including 
+
+648
+00:26:22,670 --> 00:26:25,230
+20 broken nails. What is 
+
+649
+00:26:25,230 --> 00:26:26,530
+the probability of 
+
+650
+00:26:26,530 --> 00:26:28,350
+
+651
+00:26:28,350 --> 00:26:30,990
+finding exactly 3 broken nails among 10 
+nails ? The first thing to do is to 
+
+652
+00:26:30,990 --> 00:26:32,370
+define all the parameters, i.e. 
+
+653
+00:26:32,370 --> 00:26:34,850
+large N, small N, R and K. We have 
+
+654
+00:26:34,850 --> 00:26:36,770
+just said that small N is 
+
+655
+00:26:36,770 --> 00:26:38,090
+still our sampling accident 
+
+656
+00:26:38,090 --> 00:26:40,210
+or the number of our trials. This 
+
+657
+00:26:40,210 --> 00:26:43,930
+is simply 10 in this case. We 
+
+658
+00:26:43,930 --> 00:26:45,190
+want the probability of 
+
+659
+00:26:45,190 --> 00:26:46,890
+exactly 3 broken nails, i.e. 3 
+
+660
+00:26:46,890 --> 00:26:48,670
+hits, so K is 3. We 
+
+661
+00:26:48,670 --> 00:26:50,390
+know that there 
+
+662
+00:26:50,390 --> 00:26:52,550
+are 200 nails in the box , so 
+
+663
+00:26:52,550 --> 00:26:55,090
+n equals 200, the total number. 
+
+664
+00:26:55,390 --> 00:26:57,770
+And we know that 
+
+665
+00:26:57,770 --> 00:26:59,890
+20 of these 200 nails are broken. This is 
+the 
+
+666
+00:26:59,890 --> 00:27:03,310
+number 
+
+667
+00:27:03,310 --> 00:27:04,570
+of nails 
+
+668
+00:27:04,570 --> 00:27:08,790
+that could lead to a hit , i.e. 20. And 
+
+669
+00:27:08,790 --> 00:27:10,130
+we simply enter this into our 
+
+670
+00:27:10,130 --> 00:27:13,850
+formula. We arrive at 20 over 
+
+671
+00:27:13,850 --> 00:27:18,410
+3 times 200 minus 20. over 10 minus 3 
+
+672
+00:27:18,410 --> 00:27:21,830
+divided by 200 over 10. 
+
+673
+00:27:21,830 --> 00:27:22,650
+I wouldn 't 
+
+674
+00:27:22,650 --> 00:27:24,050
+enter that in the calculator. I would 
+
+675
+00:27:24,050 --> 00:27:26,170
+always 
+
+676
+00:27:26,170 --> 00:27:28,910
+carry out these simple arithmetic 
+operations here first. So we arrive at 20 
+over 
+
+677
+00:27:28,910 --> 00:27:32,850
+3 times 180 over 7 divided by 200 
+
+678
+00:27:32,850 --> 00:27:37,530
+over 10 and that is 5.48%. And 
+
+679
+00:27:37,530 --> 00:27:39,930
+
+680
+00:27:39,930 --> 00:27:42,130
+
+681
+00:27:42,130 --> 00:27:44,290
+
+682
+00:27:46,270 --> 00:27:47,850
+in this way, you can also solve such 
+problems where you are working with 
+targets without setting back 
+
+683
+00:27:47,850 --> 00:27:50,190
+. These 
+
+684
+00:27:50,190 --> 00:27:54,730
+occur quite often and generally 
+
+685
+00:27:54,730 --> 00:27:56,770
+only lead to confusion at first, but they 
+
+686
+00:27:56,770 --> 00:27:57,950
+are actually not particularly 
+
+687
+00:27:57,950 --> 00:27:59,290
+difficult if you know the solution, 
+
+688
+00:27:59,410 --> 00:28:00,590
+or the solution is 
+
+689
+00:28:00,590 --> 00:28:02,690
+actually easy to understand. 
+
+690
+00:28:02,930 --> 00:28:04,770
+On the one hand, we want the 
+
+691
+00:28:04,770 --> 00:28:06,770
+probability of K hits and 
+
+692
+00:28:06,770 --> 00:28:08,590
+we specify the positions, i.e. at 
+
+693
+00:28:08,590 --> 00:28:11,550
+a defined position. Then the 
+
+694
+00:28:11,550 --> 00:28:13,910
+probability for hits at 
+
+695
+00:28:13,910 --> 00:28:15,410
+a position for the first time. times. 
+
+696
+00:28:15,450 --> 00:28:16,730
+In other words, we say we 
+
+697
+00:28:16,810 --> 00:28:19,230
+want to 
+
+698
+00:28:19,230 --> 00:28:22,030
+have hits from this position. And finally, 
+the 
+
+699
+00:28:22,030 --> 00:28:23,790
+probability of K hits up to 
+
+700
+00:28:23,790 --> 00:28:25,130
+a certain position. So 
+
+701
+00:28:25,130 --> 00:28:27,150
+exactly the opposite of the 
+
+702
+00:28:27,150 --> 00:28:32,550
+case above. Good. 
+
+703
+00:28:32,550 --> 00:28:33,490
+Let's illustrate the whole thing with 
+another example. 
+
+704
+00:28:33,650 --> 00:28:35,790
+We have a box that consists of 
+
+705
+00:28:35,790 --> 00:28:38,390
+100 nails and 20 of them are 
+
+706
+00:28:38,390 --> 00:28:43,070
+broken. And we remove 10 nails. 
+
+707
+00:28:44,470 --> 00:28:45,930
+And the question we ask ourselves... 
+
+708
+00:28:45,930 --> 00:28:48,010
+is how high is the 
+
+709
+00:28:48,010 --> 00:28:49,690
+probability 
+
+710
+00:28:49,690 --> 00:28:53,090
+of drawing exactly three broken nails we 
+have 
+
+711
+00:28:53,090 --> 00:28:54,750
+not specified anything at this point , 
+i.e. 
+
+712
+00:28:54,750 --> 00:28:56,210
+this is a completely normal benulli 
+
+713
+00:28:56,210 --> 00:29:00,230
+chain, i.e. 10 over 3 times 0.2 to the 
+power of 
+
+714
+00:29:00,230 --> 00:29:03,210
+3 times bracket to 1 minus 0.2 bracket 
+
+715
+00:29:03,210 --> 00:29:05,830
+to the power of 10 minus 3, i.e. the 
+
+716
+00:29:05,830 --> 00:29:07,230
+probability of exactly three 
+
+717
+00:29:07,230 --> 00:29:09,290
+broken nails in this scenario 
+
+718
+00:29:09,290 --> 00:29:13,870
+is 20.13%. 
+
+719
+00:29:13,870 --> 00:29:15,590
+Now let's ask the question a little 
+differently. 
+
+720
+00:29:15,830 --> 00:29:17,730
+We now want to know the 
+
+721
+00:29:17,730 --> 00:29:19,670
+probability that the 
+
+722
+00:29:19,670 --> 00:29:21,850
+first, fourth and sixth nail 
+
+723
+00:29:21,850 --> 00:29:24,950
+is broken. And now something 
+
+724
+00:29:24,950 --> 00:29:26,590
+very interesting happens . 
+
+725
+00:29:26,590 --> 00:29:29,190
+We now specify the order. And 
+
+726
+00:29:29,190 --> 00:29:31,150
+the moment we specify the order 
+
+727
+00:29:31,150 --> 00:29:32,410
+, the 
+
+728
+00:29:32,410 --> 00:29:34,810
+binomial coefficient is no longer 
+applicable because there is only 
+
+729
+00:29:34,810 --> 00:29:36,570
+one variant and that is this 
+
+730
+00:29:36,570 --> 00:29:41,070
+order. So we say quite 
+
+731
+00:29:41,070 --> 00:29:42,990
+clearly that we want it in first, 
+
+732
+00:29:43,010 --> 00:29:45,270
+fourth and sixth place. And there 
+
+733
+00:29:45,270 --> 00:29:46,070
+is only one possibility, 
+
+734
+00:29:46,170 --> 00:29:46,830
+so the 
+
+735
+00:29:46,830 --> 00:29:49,170
+binomial coefficient is dropped. 
+
+736
+00:29:49,170 --> 00:29:51,430
+But the rest remains the same. So 0.2 to 
+the power of 3 
+
+737
+00:29:51,430 --> 00:29:54,130
+times brackets to 
+
+738
+00:29:54,130 --> 00:29:57,630
+the power of 1 minus 0.2 brackets to the 
+power of 10 minus 3. That's 0 
+
+739
+00:29:57,630 --> 00:30:00,050
+.17%. You will always 
+
+740
+00:30:00,050 --> 00:30:01,350
+
+741
+00:30:01,350 --> 00:30:03,770
+have very small probabilities , but they 
+are always correct. 
+
+742
+00:30:04,030 --> 00:30:05,370
+So you really only get small 
+
+743
+00:30:05,370 --> 00:30:07,730
+probabilities, because it is 
+
+744
+00:30:07,730 --> 00:30:10,390
+
+745
+00:30:10,390 --> 00:30:13,230
+quite unlikely that you will predict the 
+position 
+
+746
+00:30:13,230 --> 00:30:14,350
+. 
+
+747
+00:30:16,880 --> 00:30:19,060
+Let's move on to the next case, 
+
+748
+00:30:19,060 --> 00:30:21,620
+namely the probability that 
+
+749
+00:30:21,620 --> 00:30:23,980
+a 
+
+750
+00:30:23,980 --> 00:30:28,300
+hit will occur for the first time at 
+position X. 
+
+751
+00:30:28,300 --> 00:30:29,840
+Again, let's take the example of our 
+
+752
+00:30:29,840 --> 00:30:32,120
+box, which consists of 100 nails and 
+
+753
+00:30:32,120 --> 00:30:35,560
+20 are broken. 
+
+754
+00:30:35,560 --> 00:30:37,280
+Again, we draw 10 nails and the question 
+
+755
+00:30:37,280 --> 00:30:38,180
+is, what is the 
+
+756
+00:30:38,180 --> 00:30:40,140
+probability that 
+
+757
+00:30:40,140 --> 00:30:42,200
+a broken 
+
+758
+00:30:42,200 --> 00:30:44,180
+nail will occur for the first time on the 
+third move ? The first time on the 
+
+759
+00:30:44,180 --> 00:30:46,980
+third pull actually means 
+
+760
+00:30:47,180 --> 00:30:48,560
+that the first two nails 
+
+761
+00:30:48,560 --> 00:30:50,200
+are whole and the third nail is broken. 
+
+762
+00:30:51,540 --> 00:30:53,760
+And that's exactly what we calculate. 
+Because 
+
+763
+00:30:53,760 --> 00:30:59,240
+we are already 
+
+764
+00:30:59,240 --> 00:31:02,680
+specifying the order of the first three 
+moves, 
+
+765
+00:31:02,680 --> 00:31:04,220
+the binomial coefficient is no longer 
+required. We 
+
+766
+00:31:04,220 --> 00:31:05,700
+say that 
+
+767
+00:31:05,700 --> 00:31:06,940
+a broken nail occurs for the first time on 
+the third move 
+
+768
+00:31:06,940 --> 00:31:08,040
+. This 
+
+769
+00:31:08,040 --> 00:31:10,900
+determines the sequence. This means that 
+the first and 
+
+770
+00:31:10,900 --> 00:31:13,520
+second nails must be intact and the 
+
+771
+00:31:13,520 --> 00:31:15,620
+third must be broken. Everything that 
+
+772
+00:31:15,620 --> 00:31:18,220
+comes after that doesn't matter, because 
+it 
+
+773
+00:31:18,220 --> 00:31:19,520
+doesn't say how many nails 
+
+774
+00:31:19,520 --> 00:31:21,480
+should be broken in total. We 
+
+775
+00:31:21,480 --> 00:31:23,280
+only have the information... that 
+
+776
+00:31:23,280 --> 00:31:27,640
+the first broken 
+
+777
+00:31:27,640 --> 00:31:29,200
+nail 
+
+778
+00:31:29,200 --> 00:31:31,100
+should be pulled on the third pull. And so 
+we 
+
+779
+00:31:31,100 --> 00:31:34,000
+simply have 0.2 to the power of 1 times 1 
+minus 0.2 
+
+780
+00:31:34,000 --> 00:31:36,860
+to the power of 2. So that's for the one 
+
+781
+00:31:36,860 --> 00:31:38,260
+broken nail on the third 
+
+782
+00:31:38,260 --> 00:31:39,660
+pull and that's simply for the 
+
+783
+00:31:39,660 --> 00:31:43,860
+two intact nails. And that brings 
+
+784
+00:31:43,860 --> 00:31:45,880
+us to 12.8%. 
+
+785
+00:31:49,480 --> 00:31:52,480
+The third case is that we 
+
+786
+00:31:52,480 --> 00:31:53,880
+have to calculate the probability 
+
+787
+00:31:53,880 --> 00:31:56,180
+that we 
+
+788
+00:31:56,180 --> 00:31:58,680
+have K hits up to a certain position X. 
+And this 
+
+789
+00:31:58,680 --> 00:32:00,920
+is actually a very simple 
+
+790
+00:32:00,920 --> 00:32:02,720
+task if you are clear about 1 
+
+791
+00:32:02,720 --> 00:32:04,780
+. We 
+
+792
+00:32:04,780 --> 00:32:06,180
+still have the same example with 
+
+793
+00:32:06,180 --> 00:32:08,200
+the 100 nails, 20 of which are broken. 
+
+794
+00:32:08,340 --> 00:32:10,880
+We continue to draw 10 nails, but 
+
+795
+00:32:10,880 --> 00:32:12,800
+we now want to 
+
+796
+00:32:12,800 --> 00:32:14,440
+try to get exactly 3 broken nails out of 
+the first 5. 
+
+797
+00:32:15,260 --> 00:32:16,720
+And the only thing we 
+
+798
+00:32:16,720 --> 00:32:20,840
+do now is shorten our length. so 
+
+799
+00:32:20,840 --> 00:32:22,140
+we shorten the length of the benulli 
+
+800
+00:32:22,140 --> 00:32:26,940
+chain to 5, which means we 
+
+801
+00:32:26,940 --> 00:32:29,480
+no longer calculate with n equal to 10 but 
+
+802
+00:32:29,480 --> 00:32:32,160
+only with n equal to 5 if you 
+
+803
+00:32:32,160 --> 00:32:34,200
+like. this chain length is 
+
+804
+00:32:34,200 --> 00:32:35,480
+then also called m, which is the 
+
+805
+00:32:35,480 --> 00:32:37,860
+shortened chain length because we 
+
+806
+00:32:37,860 --> 00:32:39,780
+simply say we now only draw five 
+
+807
+00:32:39,780 --> 00:32:42,100
+nails and want to have three broken ones 
+
+808
+00:32:42,100 --> 00:32:44,540
+, so we come to 5 over 3 times 
+
+809
+00:32:44,540 --> 00:32:47,660
+0.2 to the power of 3 times 1 minus 0.2 to 
+the power of 5 
+
+810
+00:32:47,660 --> 00:32:49,040
+minus 3. it is very important that 
+
+811
+00:32:49,040 --> 00:32:51,480
+the 5 is also used here. That is then 
+
+812
+00:32:51,480 --> 00:32:54,800
+5.12%. The probability is 
+
+813
+00:32:54,800 --> 00:32:56,480
+of course correspondingly lower than 
+
+814
+00:32:56,480 --> 00:32:57,940
+with n equal to 10, simply because the 
+
+815
+00:32:57,940 --> 00:32:59,780
+sample size is smaller, 
+
+816
+00:32:59,840 --> 00:33:01,100
+or in this case only 
+
+817
+00:33:01,100 --> 00:33:02,640
+half as large. 
+
+818
+00:33:05,670 --> 00:33:07,290
+Let's 
+
+819
+00:33:07,290 --> 00:33:09,710
+quickly summarize the formula again. The 
+
+820
+00:33:09,710 --> 00:33:11,470
+probability of getting K 
+
+821
+00:33:11,470 --> 00:33:12,770
+ hits at a defined 
+
+822
+00:33:12,770 --> 00:33:16,150
+position is simply calculated by 
+
+823
+00:33:16,150 --> 00:33:18,770
+multiplying p to the power of k by 1 minus 
+p to the power of n minus k. 
+
+824
+00:33:19,490 --> 00:33:20,810
+The only important thing is that the 
+
+825
+00:33:20,810 --> 00:33:23,190
+positions are predefined and that 
+
+826
+00:33:23,190 --> 00:33:24,710
+you then count the number of hits 
+
+827
+00:33:24,710 --> 00:33:26,330
+and the number of attempts. So k 
+
+828
+00:33:26,330 --> 00:33:27,790
+is still the number of hits. 
+
+829
+00:33:27,850 --> 00:33:30,370
+In our example, we had 3 and 
+
+830
+00:33:30,370 --> 00:33:32,250
+n was simply 10 
+
+831
+00:33:32,250 --> 00:33:34,190
+attempts . And you can 
+
+832
+00:33:34,190 --> 00:33:36,590
+calculate it like this. 
+
+833
+00:33:36,590 --> 00:33:38,430
+As I said, the binomial coefficient is 
+omitted here because the 
+
+834
+00:33:38,430 --> 00:33:40,450
+sequence is clear. There is only 
+
+835
+00:33:40,450 --> 00:33:46,170
+one possibility. The second example 
+
+836
+00:33:46,170 --> 00:33:49,050
+was about hitting at position 
+
+837
+00:33:49,050 --> 00:33:52,770
+X for the first time. This means 
+
+838
+00:33:52,770 --> 00:33:55,310
+that an 
+
+839
+00:33:55,310 --> 00:33:57,510
+order is also indirectly specified here. 
+Very importantly, 
+
+840
+00:33:57,770 --> 00:34:01,210
+our 
+
+841
+00:34:01,210 --> 00:34:05,070
+N is now position X. 
+
+842
+00:34:05,070 --> 00:34:06,410
+In other words, we had the example of 
+
+843
+00:34:06,570 --> 00:34:07,930
+
+844
+00:34:07,930 --> 00:34:08,950
+first carrying out a capacity test at the 
+third position . 
+
+845
+00:34:08,970 --> 00:34:11,890
+that's why we had k11 as k11 
+
+846
+00:34:11,890 --> 00:34:15,310
+and n as 3, so we ended up with p 
+
+847
+00:34:15,310 --> 00:34:18,970
+to the power of 1 times 1 minus p to the 
+power of 2. the 
+
+848
+00:34:20,760 --> 00:34:23,340
+third variant was that you 
+
+849
+00:34:23,340 --> 00:34:25,400
+
+850
+00:34:25,400 --> 00:34:28,760
+have k hits up to the specific position x. 
+Here you simply 
+
+851
+00:34:28,760 --> 00:34:31,320
+
+852
+00:34:31,320 --> 00:34:34,000
+call the shortened interval m , just so 
+that you 
+
+853
+00:34:34,000 --> 00:34:35,200
+finally 
+
+854
+00:34:35,200 --> 00:34:38,380
+get confused with the small ones , you use 
+an m here and the 
+
+855
+00:34:38,380 --> 00:34:39,900
+formula for this is then simply m 
+
+856
+00:34:39,900 --> 00:34:42,500
+over k times p to the power of k times 1 
+minus p 
+
+857
+00:34:42,500 --> 00:34:45,320
+to the power of m minus k. As I said, m is 
+
+858
+00:34:45,320 --> 00:34:46,860
+then simply the position x, so we 
+
+859
+00:34:46,860 --> 00:34:47,980
+just had up to the fifth 
+
+860
+00:34:47,980 --> 00:34:50,660
+position, which is why m was 5 for us 
+
+861
+00:34:50,660 --> 00:34:52,900
+and k is still the number of 
+
+862
+00:34:52,900 --> 00:34:55,440
+hits and p the probability 
+
+863
+00:34:55,440 --> 00:34:57,180
+for the individual event. It is very 
+important 
+
+864
+00:34:57,220 --> 00:34:59,280
+that m is also used here. 
+
+865
+00:35:01,420 --> 00:35:03,160
+Well, we have now reached the end of the 
+
+866
+00:35:03,160 --> 00:35:05,120
+webinar. I hope you have... 
+
+867
+00:35:05,140 --> 00:35:07,160
+enjoyed the webinar and thank you 
+
+868
+00:35:07,160 --> 00:35:08,260
+very much for your 
+
+869
+00:35:08,260 --> 00:35:09,040
+attention. 

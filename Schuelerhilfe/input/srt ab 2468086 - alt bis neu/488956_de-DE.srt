@@ -1,0 +1,372 @@
+1
+00:00:00,270 --> 00:00:04,210
+Wie angenehm und leicht wäre es, wenn
+
+2
+00:00:04,210 --> 00:00:06,210
+wir aus dem Kursgeschehen heraus
+
+3
+00:00:06,210 --> 00:00:08,210
+Teilnehmer verschieben könnten, dass
+
+4
+00:00:08,210 --> 00:00:10,030
+nicht nur innerhalb eines Tages,
+
+5
+00:00:10,090 --> 00:00:13,290
+sondern über Tage hinweg auch in
+
+6
+00:00:13,290 --> 00:00:15,410
+Fächerveränderungen vornehmen könnten
+
+7
+00:00:15,410 --> 00:00:17,050
+und das alles unter der
+
+8
+00:00:17,050 --> 00:00:19,790
+Berücksichtigung der Kursauslastung
+
+9
+00:00:19,790 --> 00:00:20,610
+oder aber auch der
+
+10
+00:00:20,610 --> 00:00:24,010
+Kurszusammensetzung. Wir hätten ganz
+
+11
+00:00:24,010 --> 00:00:26,090
+viele Gewinner dadurch. Wir haben auf
+
+12
+00:00:26,090 --> 00:00:28,430
+der einen Seite die Schüler als
+
+13
+00:00:28,430 --> 00:00:30,310
+Gewinner, die ihren passenden Kurs
+
+14
+00:00:30,310 --> 00:00:32,190
+haben. Wir haben aber auch die Lehrer
+
+15
+00:00:32,190 --> 00:00:34,550
+als Gewinner dadurch, weil sie halt
+
+16
+00:00:34,550 --> 00:00:36,910
+auch wieder einen passenden Kurs
+
+17
+00:00:36,910 --> 00:00:40,230
+haben. Und zu guter Letzt haben wir
+
+18
+00:00:40,230 --> 00:00:41,470
+als Schülerhilfeleitung natürlich
+
+19
+00:00:41,470 --> 00:00:43,790
+auch sehr, sehr viel dadurch
+
+20
+00:00:43,790 --> 00:00:46,670
+gewonnen, indem wir Zeit sparen und
+
+21
+00:00:46,670 --> 00:00:49,890
+innerhalb weniger Klicks das Ergebnis
+
+22
+00:00:49,890 --> 00:00:52,970
+vorzeigen können. Das alles schaffen
+
+23
+00:00:52,970 --> 00:00:55,290
+Sie mit dieser kleinen Funktion, die
+
+24
+00:00:55,290 --> 00:00:56,910
+ist hier viel zu klein abgebildet,
+
+25
+00:00:56,950 --> 00:00:59,170
+Verschiebe-Modus. Wenn ich diese
+
+26
+00:00:59,170 --> 00:01:01,810
+Funktion aktiviere, so streichen sich
+
+27
+00:01:01,810 --> 00:01:03,550
+diese beiden Pfeile durch und aus
+
+28
+00:01:03,550 --> 00:01:05,750
+diesen drei kleinen Punkten werden
+
+29
+00:01:05,750 --> 00:01:07,630
+jetzt Zielscheiben. Einmal
+
+30
+00:01:07,630 --> 00:01:10,530
+aufgepasst. Durchgestrichen, hier
+
+31
+00:01:10,530 --> 00:01:12,750
+haben wir die Zielscheiben. Ich habe,
+
+32
+00:01:12,970 --> 00:01:14,830
+um die Funktion besser darstellen zu
+
+33
+00:01:14,830 --> 00:01:16,230
+können, schon eine Einschränkung
+
+34
+00:01:16,230 --> 00:01:19,130
+vorgenommen. Und zwar geht es hier um
+
+35
+00:01:19,130 --> 00:01:20,770
+Christina. Christina kann nicht mehr
+
+36
+00:01:20,770 --> 00:01:22,030
+am Mittwoch zum Unterricht kommen,
+
+37
+00:01:22,190 --> 00:01:23,570
+sondern möchte in dieser Woche
+
+38
+00:01:23,570 --> 00:01:25,590
+Samstag den Unterricht wahrnehmen.
+
+39
+00:01:25,710 --> 00:01:27,870
+Und das geht hier um Mathematik. Und
+
+40
+00:01:27,870 --> 00:01:28,910
+deswegen habe ich das Fach
+
+41
+00:01:28,910 --> 00:01:30,610
+entsprechend auch schon eingegrenzt.
+
+42
+00:01:31,990 --> 00:01:33,370
+Diesen Verschiebemodus habe ich
+
+43
+00:01:33,370 --> 00:01:35,130
+aktiviert. Nun gehe ich auf die
+
+44
+00:01:35,130 --> 00:01:38,850
+Schülerin, klicke die Bezugszeile der
+
+45
+00:01:38,850 --> 00:01:40,750
+Schülerin einmal an und sie färbt
+
+46
+00:01:40,750 --> 00:01:43,350
+sich orange. Im weiteren Verlauf
+
+47
+00:01:43,350 --> 00:01:45,370
+schaue ich mir den Kurs an, den
+
+48
+00:01:45,370 --> 00:01:47,690
+Christina künftig besuchen möchte.
+
+49
+00:01:47,810 --> 00:01:50,410
+Für diesen Samstag, für den 9.9.
+
+50
+00:01:50,670 --> 00:01:53,250
+möchte sie gern um 10.30 Uhr zum
+
+51
+00:01:53,250 --> 00:01:54,930
+Unterricht kommen. Das heißt, meine
+
+52
+00:01:54,930 --> 00:01:57,190
+Maus ist nicht gezogen, nichts
+
+53
+00:01:57,190 --> 00:01:58,930
+festgehalten. Ich gehe auf die
+
+54
+00:01:58,930 --> 00:02:01,250
+Zielscheibe, klicke die einmal kurz
+
+55
+00:02:01,250 --> 00:02:03,870
+an und das System interpretiert mir
+
+56
+00:02:03,870 --> 00:02:06,070
+jetzt meine Handlung. Ich möchte gern
+
+57
+00:02:06,070 --> 00:02:08,830
+einen Teilnehmer verschieben. Diese
+
+58
+00:02:08,830 --> 00:02:12,010
+Verschiebung erfolgt vom Mittwochkurs
+
+59
+00:02:12,010 --> 00:02:14,710
+bei dem Lehrer. Der Teilnehmer wird
+
+60
+00:02:14,710 --> 00:02:16,650
+benannt. In den neuen Kurs, die
+
+61
+00:02:16,650 --> 00:02:19,770
+Änderung greift zum 9.9. Die erste
+
+62
+00:02:19,770 --> 00:02:22,610
+Frage, die ich gestellt bekomme, ist
+
+63
+00:02:22,610 --> 00:02:24,690
+es eine Änderung, die nur einmalig
+
+64
+00:02:24,690 --> 00:02:26,510
+ist, das heißt eine Änderung von
+
+65
+00:02:26,510 --> 00:02:29,350
+Mittwoch auf den Samstag im Fach
+
+66
+00:02:29,350 --> 00:02:32,770
+Mathematik oder wird es künftig eine
+
+67
+00:02:32,770 --> 00:02:34,430
+gänzliche Änderung sein. Ich
+
+68
+00:02:34,430 --> 00:02:36,250
+entscheide mich für eine einmalige
+
+69
+00:02:36,250 --> 00:02:39,210
+Änderung, speichere den Vorgang ab
+
+70
+00:02:39,210 --> 00:02:41,930
+und sehe jetzt, dass Christina hier
+
+71
+00:02:41,930 --> 00:02:43,870
+entschuldigt ist und hier hat sie die
+
+72
+00:02:43,870 --> 00:02:46,950
+Nachhineinstunde. Ein zweites
+
+73
+00:02:46,950 --> 00:02:48,850
+Beispiel möchte ich gerne aufmachen,
+
+74
+00:02:48,970 --> 00:02:52,130
+in dem Robin künftig gar nicht mehr
+
+75
+00:02:52,130 --> 00:02:54,390
+mittwochs zum Unterricht kommen kann,
+
+76
+00:02:54,470 --> 00:02:56,390
+aufgrund der Stundenplanveränderung,
+
+77
+00:02:56,430 --> 00:02:59,230
+sondern jetzt am Samstag um 12 Uhr
+
+78
+00:02:59,230 --> 00:03:01,610
+den Unterricht wahrnehmen wird. Auch
+
+79
+00:03:01,610 --> 00:03:03,970
+hier habe ich wieder den
+
+80
+00:03:03,970 --> 00:03:06,510
+Verschiebemodus aktiviert. Ich gehe
+
+81
+00:03:06,510 --> 00:03:08,430
+in die Zeile des Schülers, klicke die
+
+82
+00:03:08,430 --> 00:03:10,910
+einmal an, sie verfärbt sich, gehe
+
+83
+00:03:10,910 --> 00:03:13,650
+nun in die Zielscheibe und wähle
+
+84
+00:03:13,650 --> 00:03:16,030
+jetzt als zweite Option aus die
+
+85
+00:03:16,030 --> 00:03:18,470
+Teilnahme. Wird ab sofort immer
+
+86
+00:03:18,470 --> 00:03:20,950
+Samstag stattfinden. Bis zur nächsten
+
+87
+00:03:20,950 --> 00:03:25,140
+Änderung. Speichern. Sie sehen hier,
+
+88
+00:03:25,320 --> 00:03:28,140
+die Teilnahme ist hier beendet und
+
+89
+00:03:28,140 --> 00:03:30,420
+Robin ist hier Großteilnehmer.
+
+90
+00:03:31,380 --> 00:03:35,970
+passenden Kurs. Ich lade Sie ein, das
+
+91
+00:03:35,970 --> 00:03:37,870
+einmal auszuprobieren, viel Spaß
+
+92
+00:03:37,870 --> 00:03:41,430
+dabei zu haben und wünsche Ihnen viel
+
+93
+00:03:41,430 --> 00:03:41,990
+Erfolg dabei.
+

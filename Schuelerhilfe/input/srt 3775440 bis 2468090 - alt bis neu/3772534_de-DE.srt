@@ -1,0 +1,588 @@
+1
+00:00:04,080 --> 00:00:06,620
+Hallo, mein Name ist Nick und ich bin
+
+2
+00:00:06,620 --> 00:00:08,120
+Nachhilfelehrer bei der Schülerhilfe.
+
+3
+00:00:08,200 --> 00:00:10,000
+Ich freue mich, dir heute etwas über
+
+4
+00:00:10,000 --> 00:00:11,300
+das menschliche Auge erklären zu
+
+5
+00:00:11,300 --> 00:00:13,080
+dürfen. Ergänzend zu diesem Video
+
+6
+00:00:13,080 --> 00:00:14,540
+steht dir in unserem Online-Learn
+
+7
+00:00:14,540 --> 00:00:16,260
+-Center natürlich auch ein Wiki zu
+
+8
+00:00:16,260 --> 00:00:18,320
+diesem Thema zur Verfügung, in dem
+
+9
+00:00:18,320 --> 00:00:19,560
+dir die wichtigsten Begriffe und
+
+10
+00:00:19,560 --> 00:00:21,420
+Grundlagen erklärt werden. Wir
+
+11
+00:00:21,420 --> 00:00:23,180
+Menschen haben erstaunlich gut
+
+12
+00:00:23,180 --> 00:00:25,180
+ausgebildete Augen, sogar verglichen
+
+13
+00:00:25,180 --> 00:00:26,760
+mit Primaten. In unserer
+
+14
+00:00:26,760 --> 00:00:28,180
+Vergangenheit war die Fähigkeit,
+
+15
+00:00:28,260 --> 00:00:30,020
+Schlangen und andere Feinde schon auf
+
+16
+00:00:30,020 --> 00:00:32,140
+große Distanz zu erspähen oder Reifes
+
+17
+00:00:32,140 --> 00:00:33,620
+von unreifem Obst zu unterscheiden,
+
+18
+00:00:33,700 --> 00:00:36,260
+essentiell für unser Überleben. Um in
+
+19
+00:00:36,260 --> 00:00:37,520
+der Dunkelheit zu sehen, können wir
+
+20
+00:00:37,520 --> 00:00:39,220
+sogar unsere Pupille erweitern, um
+
+21
+00:00:39,220 --> 00:00:41,380
+mehr Licht einfallen zu lassen. Eine
+
+22
+00:00:41,380 --> 00:00:43,020
+gute Methode, um sich gegen die
+
+23
+00:00:43,020 --> 00:00:44,600
+vielen Gefahren der Dämmerung und des
+
+24
+00:00:44,600 --> 00:00:46,420
+Morgens zu wappnen. Aber wie
+
+25
+00:00:46,420 --> 00:00:48,400
+funktioniert das Auge eigentlich? Und
+
+26
+00:00:48,400 --> 00:00:49,840
+wie können wir damit überhaupt sehen?
+
+27
+00:00:51,040 --> 00:00:52,700
+Gegenstände reflektieren Licht. Zu
+
+28
+00:00:52,700 --> 00:00:54,380
+sehen bedeutet, die zurückgeworfenen
+
+29
+00:00:54,380 --> 00:00:55,940
+Lichtstrahlen im Auge zu verarbeiten.
+
+30
+00:00:56,180 --> 00:00:57,500
+Dabei müssen die Lichtstrahlen durch
+
+31
+00:00:57,500 --> 00:00:59,360
+die kristallklare Hornhaut, in der
+
+32
+00:00:59,360 --> 00:01:01,220
+das Licht gebrochen wird, und durch
+
+33
+00:01:01,220 --> 00:01:02,760
+die Pupille, ein Loch in der Iris,
+
+34
+00:01:02,920 --> 00:01:04,340
+welches je nach Helligkeit entweder
+
+35
+00:01:04,340 --> 00:01:06,320
+größer, wenn es dunkel, oder kleiner,
+
+36
+00:01:06,440 --> 00:01:08,600
+wenn es hell wird. Auf ihrem weiten
+
+37
+00:01:08,600 --> 00:01:09,940
+Weg durch die Linse werden die
+
+38
+00:01:09,940 --> 00:01:11,460
+Lichtstrahlen weiter gebündelt und
+
+39
+00:01:11,460 --> 00:01:13,600
+kreuzen sich. Deshalb wird das Bild
+
+40
+00:01:13,600 --> 00:01:14,940
+auf der Netzhaut verkehrt herum
+
+41
+00:01:14,940 --> 00:01:17,700
+abgebildet. An einem Punkt über dem
+
+42
+00:01:17,700 --> 00:01:19,660
+Sehnerv werden Informationen an das
+
+43
+00:01:19,660 --> 00:01:21,640
+Gehirn weitergeleitet und dort wieder
+
+44
+00:01:21,640 --> 00:01:22,560
+zu einem richtigen Bild
+
+45
+00:01:22,560 --> 00:01:24,620
+zusammengesetzt. Damit dieser Prozess
+
+46
+00:01:24,620 --> 00:01:26,160
+richtig funktioniert, benötigen wir
+
+47
+00:01:26,160 --> 00:01:28,080
+mehr oder weniger gesunde Augen. Und
+
+48
+00:01:28,080 --> 00:01:29,320
+wie diese genau aufgebaut sind,
+
+49
+00:01:29,380 --> 00:01:31,400
+schauen schauen wir uns jetzt an. Die
+
+50
+00:01:31,400 --> 00:01:32,700
+wichtigsten Bestandteile des
+
+51
+00:01:32,700 --> 00:01:35,140
+menschlichen Auges sind die Hornhaut,
+
+52
+00:01:35,180 --> 00:01:37,900
+die Pupille, die Iris- oder auch
+
+53
+00:01:37,900 --> 00:01:39,540
+Regenbogenhaut genannt, der
+
+54
+00:01:39,540 --> 00:01:42,100
+Cilarismuskel, die Linse, der
+
+55
+00:01:42,100 --> 00:01:44,420
+Glaskörper, die Lederhaut, die
+
+56
+00:01:44,420 --> 00:01:46,700
+Aderhaut, die Netzhaut und der
+
+57
+00:01:46,700 --> 00:01:49,080
+Sehnerv. Viele dieser Strukturen sind
+
+58
+00:01:49,080 --> 00:01:50,600
+äußerst empfindlich. Da ein gutes
+
+59
+00:01:50,600 --> 00:01:52,340
+Sehvermögen für unsere Vorfahren noch
+
+60
+00:01:52,340 --> 00:01:54,060
+überlebensnotwendiger war, als es für
+
+61
+00:01:54,060 --> 00:01:55,640
+uns der Fall ist, haben wir Menschen
+
+62
+00:01:55,640 --> 00:01:57,420
+verschiedene Mechanismen und Organe
+
+63
+00:01:57,420 --> 00:01:58,820
+entwickelt, die unsere Augen schützen
+
+64
+00:01:58,820 --> 00:02:00,480
+sollen. Die wichtigsten dieser
+
+65
+00:02:00,480 --> 00:02:02,680
+Organe, die Augenbrauen, die Wimpern,
+
+66
+00:02:02,680 --> 00:02:04,260
+die Tränenflüssigkeit und die
+
+67
+00:02:04,260 --> 00:02:05,680
+Augenlider, erkläre ich dir nun
+
+68
+00:02:05,680 --> 00:02:07,980
+genauer. Die Augenbrauen dienen dazu,
+
+69
+00:02:08,080 --> 00:02:10,020
+die Augen vor Schweiß, Nässe, Staub
+
+70
+00:02:10,020 --> 00:02:11,480
+und anderen fremdkörpern zu schützen
+
+71
+00:02:11,480 --> 00:02:12,880
+und unterstützen somit die funktion
+
+72
+00:02:12,880 --> 00:02:15,300
+der wimpern die wimpern die in dem
+
+73
+00:02:15,300 --> 00:02:17,120
+schutz der augen durch das abfangen
+
+74
+00:02:17,120 --> 00:02:18,680
+von kleineren schmutz partikeln oder
+
+75
+00:02:18,680 --> 00:02:21,080
+fremdkörper die tränenflüssigkeit
+
+76
+00:02:21,080 --> 00:02:23,160
+dient entfernt von fremdkörpern durch
+
+77
+00:02:23,160 --> 00:02:24,680
+ausspielen oder der gleichmäßigen
+
+78
+00:02:24,680 --> 00:02:26,620
+befeuchtung der hornhaut sie bildet
+
+79
+00:02:26,620 --> 00:02:27,660
+einen schmierstoff für das dass
+
+80
+00:02:27,660 --> 00:02:29,200
+reibungsarme Gleiten der Augenlider
+
+81
+00:02:29,200 --> 00:02:30,880
+über dem Auge und hilft bei der
+
+82
+00:02:30,880 --> 00:02:32,820
+Abwehr von Erregern. Das Augenlid ist
+
+83
+00:02:32,820 --> 00:02:34,020
+die muskulär bewegliche
+
+84
+00:02:34,020 --> 00:02:35,780
+Weichteilfalte, die den Augapfel von
+
+85
+00:02:35,780 --> 00:02:37,580
+vorne schützend bedecken kann. Es
+
+86
+00:02:37,580 --> 00:02:39,060
+verhindert vor allem die Austrocknung
+
+87
+00:02:39,060 --> 00:02:40,660
+des Augapfels und schützt vor
+
+88
+00:02:40,660 --> 00:02:42,400
+mechanischen Einwirkungen von außen.
+
+89
+00:02:42,960 --> 00:02:44,440
+Allerdings funktioniert das Sehen
+
+90
+00:02:44,440 --> 00:02:45,880
+nicht für alle Menschen gleich gut.
+
+91
+00:02:46,200 --> 00:02:48,000
+Viele Menschen leiden unter Kurz-
+
+92
+00:02:48,000 --> 00:02:49,940
+oder Weitsichtigkeit. Die Ursache
+
+93
+00:02:49,940 --> 00:02:51,640
+dieser Sehfehler können vielfältig
+
+94
+00:02:51,640 --> 00:02:53,100
+sein. Zum Beispiel kann die Ursache
+
+95
+00:02:53,100 --> 00:02:55,440
+von Kurzsichtigkeit ein zu länglicher
+
+96
+00:02:55,440 --> 00:02:57,480
+Augapfel sein. Schauen wir uns die
+
+97
+00:02:57,480 --> 00:02:58,620
+beiden Gruppen Kurz- und
+
+98
+00:02:58,620 --> 00:03:00,540
+Weitsichtigkeit näher an. Die
+
+99
+00:03:00,540 --> 00:03:02,360
+Kurzsichtigkeit ist eine angeborene
+
+100
+00:03:02,360 --> 00:03:04,180
+oder erworbene Fehlsichtigkeit des
+
+101
+00:03:04,180 --> 00:03:06,020
+Auges. Wer kurzsichtig ist, kann
+
+102
+00:03:06,020 --> 00:03:07,640
+meistens in der Nähe noch gut sehen,
+
+103
+00:03:07,740 --> 00:03:09,540
+während Gegenstände in der Ferne
+
+104
+00:03:09,540 --> 00:03:11,140
+verschwommen erscheinen. Bei
+
+105
+00:03:11,140 --> 00:03:12,780
+Weitsichtigen ist es genau andersrum.
+
+106
+00:03:13,260 --> 00:03:15,440
+Ein kurzsichtiger Mensch sieht also
+
+107
+00:03:15,440 --> 00:03:16,940
+nicht generell schlechter, im
+
+108
+00:03:16,940 --> 00:03:17,900
+Nahbereich kann er einem
+
+109
+00:03:17,900 --> 00:03:19,640
+Normalsichtigen sogar überlegen sein.
+
+110
+00:03:20,140 --> 00:03:22,240
+Als weitsichtig gelten Menschen, die
+
+111
+00:03:22,240 --> 00:03:23,740
+nahe Gegenstände nicht scharf sehen
+
+112
+00:03:23,740 --> 00:03:25,840
+können. Meist liegt das an einem zu
+
+113
+00:03:25,840 --> 00:03:29,120
+kurzen Augapfel. Damit Augenärzte und
+
+114
+00:03:29,120 --> 00:03:30,440
+damit verbundene Ingenieure
+
+115
+00:03:30,440 --> 00:03:32,700
+Sehkorrekturen bzw. Brillen bauen
+
+116
+00:03:32,700 --> 00:03:34,160
+können, ist es notwendig, den
+
+117
+00:03:34,160 --> 00:03:36,940
+Sehfehler genau zu bestimmen. Die
+
+118
+00:03:36,940 --> 00:03:38,540
+wichtigste Einheit, um die Stärke
+
+119
+00:03:38,540 --> 00:03:40,420
+einer Weit- oder Kurzsichtigkeit zu
+
+120
+00:03:40,420 --> 00:03:42,100
+beschreiben, wird Dioptrien genannt.
+
+121
+00:03:42,260 --> 00:03:44,400
+Die Maßeinheit Dioptrie wird in der
+
+122
+00:03:44,400 --> 00:03:45,700
+Augenoptik verwendet, um zu
+
+123
+00:03:45,700 --> 00:03:46,780
+beschreiben, wie stark ein
+
+124
+00:03:46,780 --> 00:03:48,220
+Brillenglas das Licht brechen muss,
+
+125
+00:03:48,320 --> 00:03:50,120
+damit eine Fehlsichtigkeit korrigiert
+
+126
+00:03:50,120 --> 00:03:52,080
+wird. Oder vereinfacht gesagt, die
+
+127
+00:03:52,080 --> 00:03:53,760
+Stärke der Brillengläser wird in
+
+128
+00:03:53,760 --> 00:03:56,080
+Dioptrien angegeben. Aber auch
+
+129
+00:03:56,080 --> 00:03:57,820
+Menschen, die komplett blind sind und
+
+130
+00:03:57,820 --> 00:03:59,380
+für die Brillen somit keinen Nutzen
+
+131
+00:03:59,380 --> 00:04:00,440
+haben, können auf verschiedene
+
+132
+00:04:00,440 --> 00:04:02,080
+Hilfsmittel zurückgreifen. Zu den
+
+133
+00:04:02,080 --> 00:04:03,580
+bekanntesten Hilfsmitteln gehören
+
+134
+00:04:03,580 --> 00:04:05,320
+dabei Blindenhunde, Blindenstöcke
+
+135
+00:04:05,320 --> 00:04:07,600
+oder sogar eine Echo-Ortung. Dabei
+
+136
+00:04:07,600 --> 00:04:09,300
+gibt die blinde Person ein Geräusch
+
+137
+00:04:09,300 --> 00:04:10,940
+von sich und kann anhand des
+
+138
+00:04:10,940 --> 00:04:12,480
+Widerhalts erkennen, wie weit ein
+
+139
+00:04:12,480 --> 00:04:14,080
+potenzielles Hindernis entfernt ist.
+
+140
+00:04:14,600 --> 00:04:16,480
+Ich hoffe, du weißt nun mehr über die
+
+141
+00:04:16,480 --> 00:04:17,780
+Funktionsweise des menschlichen
+
+142
+00:04:17,780 --> 00:04:20,040
+Auges. Wenn du noch weitere Fragen zu
+
+143
+00:04:20,040 --> 00:04:21,360
+diesem oder anderen Themen hast,
+
+144
+00:04:21,480 --> 00:04:23,060
+wende dich gerne an deine
+
+145
+00:04:23,060 --> 00:04:24,640
+Schülerhilfe vor Ort oder schau dich
+
+146
+00:04:24,640 --> 00:04:26,740
+in unserem Online-Lerncenter um. Bis
+
+147
+00:04:26,740 --> 00:04:27,380
+zum nächsten Mal!
+

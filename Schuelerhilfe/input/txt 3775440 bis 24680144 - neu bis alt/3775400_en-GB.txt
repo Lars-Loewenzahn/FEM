@@ -1,0 +1,498 @@
+﻿1
+00:00:04,020 --> 00:00:06,320
+Hello, my name is Nick and I am a 
+
+2
+00:00:06,320 --> 00:00:08,360
+tutor at Schülerhilfe. 
+
+3
+00:00:08,360 --> 00:00:09,880
+Today I would like to give you an insight 
+into 
+
+4
+00:00:09,880 --> 00:00:11,840
+the topic of atoms, molecules and ions 
+
+5
+00:00:11,840 --> 00:00:14,080
+. 
+
+6
+00:00:14,080 --> 00:00:15,740
+
+7
+00:00:15,740 --> 00:00:16,960
+Of course, you can also find more content 
+on these and many other topics in our 
+online 
+
+8
+00:00:16,960 --> 00:00:19,820
+ learning center. Atoms are in principle 
+
+9
+00:00:19,820 --> 00:00:21,320
+the smallest unit of matter, 
+
+10
+00:00:21,360 --> 00:00:23,240
+but consist of subatomic, i.e. 
+
+11
+00:00:23,240 --> 00:00:25,320
+even smaller particles. The 
+
+12
+00:00:25,320 --> 00:00:27,480
+nucleus-shell model describes the atomic 
+nucleus and 
+
+13
+00:00:27,480 --> 00:00:30,100
+shell. The atomic nucleus consists of an 
+
+14
+00:00:30,100 --> 00:00:32,080
+equal number of positively charged 
+
+15
+00:00:32,080 --> 00:00:34,020
+protons and neutrally charged 
+
+16
+00:00:34,020 --> 00:00:36,360
+neutrons. The shell, on the other hand, 
+
+17
+00:00:36,360 --> 00:00:38,780
+consists of negatively charged electrons. 
+The 
+
+18
+00:00:38,780 --> 00:00:40,280
+nucleus and the shell neutralize 
+
+19
+00:00:40,280 --> 00:00:42,600
+each other. The helium atom, 
+
+20
+00:00:42,600 --> 00:00:44,120
+for example, consists of two 
+
+21
+00:00:44,120 --> 00:00:46,220
+protons and two neutrons in the nucleus 
+and 
+
+22
+00:00:46,220 --> 00:00:48,900
+two electrons in the shell. Did 
+
+23
+00:00:48,900 --> 00:00:50,680
+you know that the word atom comes from the 
+
+24
+00:00:50,680 --> 00:00:52,800
+ancient Greek atomos and 
+
+25
+00:00:52,800 --> 00:00:54,920
+means indivisible? Elements, the 
+
+26
+00:00:54,920 --> 00:00:56,400
+building blocks of all matter, are 
+
+27
+00:00:56,400 --> 00:00:58,340
+either atomic and consist of only 
+
+28
+00:00:58,340 --> 00:01:00,640
+one particle, such as sodium, or 
+
+29
+00:01:00,640 --> 00:01:02,280
+molecular and consist of two 
+
+30
+00:01:02,280 --> 00:01:04,580
+particles, such as oxygen. 
+
+31
+00:01:04,580 --> 00:01:06,380
+Atoms 
+
+32
+00:01:06,380 --> 00:01:07,880
+of different elements can also be combined 
+to form molecules . 
+
+33
+00:01:07,980 --> 00:01:09,680
+One of the best-known molecules 
+
+34
+00:01:09,680 --> 00:01:12,080
+is H2O, which we know as water. 
+
+35
+00:01:12,080 --> 00:01:13,760
+It is a compound of one 
+
+36
+00:01:13,760 --> 00:01:14,680
+oxygen and two 
+
+37
+00:01:14,680 --> 00:01:16,740
+hydrogen atoms. Atoms 
+
+38
+00:01:16,740 --> 00:01:18,360
+combine to form molecules by 
+
+39
+00:01:18,360 --> 00:01:20,180
+
+40
+00:01:20,180 --> 00:01:21,500
+
+41
+00:01:21,500 --> 00:01:23,120
+
+42
+00:01:23,120 --> 00:01:25,200
+sharing their outer electrons in a 
+so-called electron bond, also known as an 
+atomic bond. Molecules are generally 
+
+43
+00:01:25,200 --> 00:01:27,320
+more energetically favorable, which is why 
+all 
+
+44
+00:01:27,320 --> 00:01:29,560
+elements except noble gases 
+
+45
+00:01:29,560 --> 00:01:31,860
+strive to form compounds. Ions are 
+
+46
+00:01:31,860 --> 00:01:33,280
+charged atoms. By 
+
+47
+00:01:33,280 --> 00:01:35,340
+donating electrons they either become 
+
+48
+00:01:35,340 --> 00:01:36,760
+positively charged and are called 
+
+49
+00:01:36,760 --> 00:01:39,440
+cations or by accepting electrons 
+
+50
+00:01:39,440 --> 00:01:41,160
+they become negatively charged and 
+
+51
+00:01:41,160 --> 00:01:43,680
+are called anions. Sodium chloride 
+
+52
+00:01:43,680 --> 00:01:45,260
+, or common salt as you probably know it, 
+
+53
+00:01:45,260 --> 00:01:47,020
+consists of a sodium cation and 
+
+54
+00:01:47,020 --> 00:01:49,080
+a chloride anion. The positive 
+
+55
+00:01:49,080 --> 00:01:50,980
+charge of the sodium cation and the 
+
+56
+00:01:50,980 --> 00:01:52,540
+negative charge of the chloride anion 
+
+57
+00:01:52,540 --> 00:01:54,440
+attract each other like magnets and 
+
+58
+00:01:54,440 --> 00:01:56,440
+form a salt crystal. This type 
+
+59
+00:01:56,440 --> 00:01:58,020
+of bond is called an ionic bond. 
+
+60
+00:01:58,400 --> 00:01:59,920
+In contrast to 
+
+61
+00:01:59,920 --> 00:02:01,380
+electron pair bonds, which share 
+
+62
+00:02:01,380 --> 00:02:02,440
+their electrons, ionic bonds 
+
+63
+00:02:02,520 --> 00:02:04,960
+work by one partner 
+
+64
+00:02:04,960 --> 00:02:06,560
+
+65
+00:02:06,560 --> 00:02:08,820
+attracting the electrons of the other 
+partner . What both types of bond 
+
+66
+00:02:08,820 --> 00:02:10,560
+have in common, however, is the 
+
+67
+00:02:10,560 --> 00:02:12,260
+desire to fulfill the octet rule, 
+
+68
+00:02:12,280 --> 00:02:13,880
+i.e. the desire for 8 
+
+69
+00:02:13,880 --> 00:02:15,880
+outer electrons in order to be stable. 
+
+70
+00:02:15,880 --> 00:02:17,600
+You know that mineral water 
+
+71
+00:02:17,600 --> 00:02:19,160
+tastes different to still water. This is 
+due 
+
+72
+00:02:19,160 --> 00:02:20,860
+to the 
+
+73
+00:02:20,860 --> 00:02:22,600
+ions dissolved in the water. They not 
+
+74
+00:02:22,600 --> 00:02:24,300
+only make the water more conductive for 
+electricity because 
+
+75
+00:02:24,300 --> 00:02:25,640
+charged particles float in it, 
+
+76
+00:02:25,700 --> 00:02:27,220
+but also change the taste. 
+
+77
+00:02:27,600 --> 00:02:29,420
+Distilled water, i.e. water 
+
+78
+00:02:29,420 --> 00:02:31,480
+without ions, therefore 
+
+79
+00:02:31,480 --> 00:02:33,120
+does not conduct electricity. Whether 
+
+80
+00:02:33,120 --> 00:02:34,540
+the combination of particles of different 
+
+81
+00:02:34,540 --> 00:02:36,500
+elements is an atomic or 
+
+82
+00:02:36,500 --> 00:02:38,440
+ionic bond can also be 
+
+83
+00:02:38,440 --> 00:02:39,720
+
+84
+00:02:39,720 --> 00:02:42,140
+recognized by the difference in their 
+electronegativity. 
+
+85
+00:02:42,140 --> 00:02:44,260
+Electronegativity is a relative 
+
+86
+00:02:44,260 --> 00:02:46,780
+measure of the ability of an atom to 
+
+87
+00:02:46,780 --> 00:02:48,680
+attract electron pairs in a bond 
+
+88
+00:02:48,680 --> 00:02:50,600
+. It depends on the 
+
+89
+00:02:50,600 --> 00:02:52,940
+nuclear charge and the atomic radius as 
+well as 
+
+90
+00:02:52,940 --> 00:02:54,660
+the number of outer electrons. 
+
+91
+00:02:55,000 --> 00:02:56,800
+Halogens have a very high 
+
+92
+00:02:56,800 --> 00:02:58,940
+electronegativity, metals 
+
+93
+00:02:58,940 --> 00:03:00,480
+relatively low. The 
+
+94
+00:03:00,480 --> 00:03:02,700
+electronegativity of an element 
+
+95
+00:03:02,700 --> 00:03:04,240
+can be 
+
+96
+00:03:04,240 --> 00:03:06,540
+found in the periodic table. A high 
+difference, usually 
+
+97
+00:03:06,540 --> 00:03:08,580
+over 1.7, results in an 
+
+98
+00:03:08,580 --> 00:03:09,740
+ionic bond in which the 
+
+99
+00:03:09,740 --> 00:03:11,360
+more electronegative particle 
+
+100
+00:03:11,360 --> 00:03:13,480
+
+101
+00:03:13,480 --> 00:03:15,220
+rips out the outer electron(s) of the 
+other , as is the case with sodium 
+chloride 
+
+102
+00:03:15,220 --> 00:03:17,820
+. If the difference is 
+
+103
+00:03:17,820 --> 00:03:19,900
+relatively small, however, 
+
+104
+00:03:19,900 --> 00:03:21,880
+the atoms share their outer electrons and 
+it is 
+
+105
+00:03:21,880 --> 00:03:22,660
+
+106
+00:03:22,660 --> 00:03:25,300
+an electron pair bond, i.e. a 
+
+107
+00:03:25,300 --> 00:03:27,560
+molecule like water. 
+
+108
+00:03:27,560 --> 00:03:28,860
+The bond between metals and 
+
+109
+00:03:28,860 --> 00:03:30,440
+non-metals is often 
+
+110
+00:03:30,440 --> 00:03:33,260
+an ionic bond. The resulting 
+
+111
+00:03:33,260 --> 00:03:34,820
+structure is usually a 
+
+112
+00:03:34,820 --> 00:03:36,220
+salt crystal with its typical 
+
+113
+00:03:36,220 --> 00:03:38,560
+properties. The reason for the 
+
+114
+00:03:38,560 --> 00:03:40,420
+bonding of molecules or ions from 
+
+115
+00:03:40,420 --> 00:03:42,720
+atoms is the striving of all elements 
+
+116
+00:03:42,720 --> 00:03:44,600
+for a full outer shell, the 
+
+117
+00:03:44,600 --> 00:03:46,140
+so-called noble gas configuration. 
+
+118
+00:03:46,760 --> 00:03:48,500
+Thank you for your attention. 
+
+119
+00:03:48,540 --> 00:03:49,900
+I hope this video has helped you to 
+
+120
+00:03:49,900 --> 00:03:51,440
+better understand the topic of 
+
+121
+00:03:51,440 --> 00:03:53,380
+atoms, molecules and ions. 
+
+122
+00:03:53,620 --> 00:03:54,680
+See you next time. 

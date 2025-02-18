@@ -1,0 +1,380 @@
+1
+00:00:03,890 --> 00:00:06,150
+Hallo, mein Name ist Nick und ich bin
+
+2
+00:00:06,150 --> 00:00:07,670
+Nachhilfelehrer bei der Schülerhilfe.
+
+3
+00:00:07,730 --> 00:00:09,330
+Heute möchte ich dir gerne die
+
+4
+00:00:09,330 --> 00:00:10,910
+Grundlagen der Photosynthese näher
+
+5
+00:00:10,910 --> 00:00:12,910
+bringen. Weitere Lerninhalte, wie zum
+
+6
+00:00:12,910 --> 00:00:14,710
+Beispiel Wikis, interaktive Aufgaben
+
+7
+00:00:14,710 --> 00:00:16,190
+oder Arbeitsblätter, kannst du in
+
+8
+00:00:16,190 --> 00:00:19,070
+unserem Online-Lerncenter finden. Die
+
+9
+00:00:19,070 --> 00:00:20,490
+Photosynthese ist der grundlegende
+
+10
+00:00:20,490 --> 00:00:22,390
+Prozess, der einen Großteil des
+
+11
+00:00:22,390 --> 00:00:24,390
+Lebens auf diesem Planeten erlaubt.
+
+12
+00:00:24,390 --> 00:00:26,510
+Erst durch die Photosynthese gelangte
+
+13
+00:00:26,510 --> 00:00:28,170
+genug Sauerstoff in die Atmosphäre,
+
+14
+00:00:28,190 --> 00:00:29,230
+um sie atembar zu machen.
+
+15
+00:00:30,110 --> 00:00:31,230
+Gleichzeitig erlaubt die
+
+16
+00:00:31,230 --> 00:00:32,530
+Photosynthese aber auch die
+
+17
+00:00:32,530 --> 00:00:34,250
+Produktion pflanzlicher Biomasse.
+
+18
+00:00:34,610 --> 00:00:36,630
+Pflanzen wiederum bilden die unterste
+
+19
+00:00:36,630 --> 00:00:38,390
+Ebene der Nahrungskette und sind
+
+20
+00:00:38,390 --> 00:00:40,210
+somit essentiell für die Existenz von
+
+21
+00:00:40,210 --> 00:00:41,950
+Pflanzen und auch Fleischfressern.
+
+22
+00:00:41,950 --> 00:00:44,010
+Die Photosynthese ist ein derart
+
+23
+00:00:44,010 --> 00:00:45,570
+wichtiger und relevanter Prozess,
+
+24
+00:00:45,670 --> 00:00:47,430
+dass die Menschheit seit langer Zeit
+
+25
+00:00:47,430 --> 00:00:49,590
+versucht, diesen zu kopieren. Die
+
+26
+00:00:49,590 --> 00:00:51,510
+Photovoltaik kann als den Prozess
+
+27
+00:00:51,510 --> 00:00:53,290
+gesehen werden, mit dem wir der
+
+28
+00:00:53,290 --> 00:00:54,790
+Photosynthese bisher am nächsten
+
+29
+00:00:54,790 --> 00:00:56,670
+gekommen sind. Die Gemeinsamkeit der
+
+30
+00:00:56,670 --> 00:00:58,330
+Photosynthese und der Photovoltaik
+
+31
+00:00:58,330 --> 00:01:00,590
+ist, dass beide Prozesse ihre Energie
+
+32
+00:01:00,590 --> 00:01:02,870
+aus dem Sonnenlicht beziehen. In der
+
+33
+00:01:02,870 --> 00:01:04,590
+Regel sind Pflanzen meist grün.
+
+34
+00:01:04,590 --> 00:01:07,170
+Ursache hierfür ist ein für die
+
+35
+00:01:07,170 --> 00:01:08,950
+Pflanzen überlebensnotwendiger Stoff,
+
+36
+00:01:08,990 --> 00:01:11,190
+das Chlorophyll. Die wichtigste
+
+37
+00:01:11,190 --> 00:01:12,770
+Aufgabe von Chlorophyll ist die
+
+38
+00:01:12,770 --> 00:01:15,090
+Absorption und Weitergabe der aus dem
+
+39
+00:01:15,090 --> 00:01:17,150
+Licht gewonnenen Energie. Pflanzen
+
+40
+00:01:17,150 --> 00:01:19,230
+absorbieren Licht im roten und blauen
+
+41
+00:01:19,230 --> 00:01:21,150
+Bereich. Licht im grünen Bereich wird
+
+42
+00:01:21,150 --> 00:01:23,210
+reflektiert. Und genau deshalb sind
+
+43
+00:01:23,210 --> 00:01:25,090
+Pflanzen meist grün. Die
+
+44
+00:01:25,090 --> 00:01:26,870
+Photosynthese findet hauptsächlich in
+
+45
+00:01:26,870 --> 00:01:28,770
+den Chloroplasten statt. Tieren und
+
+46
+00:01:28,770 --> 00:01:30,370
+Menschen haben keine Chloroplasten.
+
+47
+00:01:30,550 --> 00:01:32,050
+Wir gewinnen unsere Energie
+
+48
+00:01:32,050 --> 00:01:34,370
+stattdessen in Mitochondrien, welche
+
+49
+00:01:34,370 --> 00:01:35,870
+den Chloroplasten allerdings sehr
+
+50
+00:01:35,870 --> 00:01:37,730
+ähnlich sind. Eine weitere
+
+51
+00:01:37,730 --> 00:01:39,530
+Voraussetzung für die Photosynthese
+
+52
+00:01:39,530 --> 00:01:41,130
+ist die ständige Verbindung mit den
+
+53
+00:01:41,130 --> 00:01:43,210
+Gasen der Umwelt. Spaltöffnungen sind
+
+54
+00:01:43,210 --> 00:01:44,770
+Zellen auf der Oberfläche von
+
+55
+00:01:44,770 --> 00:01:46,490
+Blättern. Diese Zellen haben eine
+
+56
+00:01:46,490 --> 00:01:47,750
+Lücke und verbinden somit die
+
+57
+00:01:47,750 --> 00:01:49,150
+Atmosphäre mit dem Inneren des
+
+58
+00:01:49,150 --> 00:01:50,730
+Blatts. Sie sind für die
+
+59
+00:01:50,730 --> 00:01:52,810
+Transpiration, den Wasser- und den
+
+60
+00:01:52,810 --> 00:01:55,130
+Gasaustausch zuständig. Nachdem wir
+
+61
+00:01:55,130 --> 00:01:56,930
+uns nun vor allen Dingen mit den
+
+62
+00:01:56,930 --> 00:01:58,350
+allgemeinen Informationen zur
+
+63
+00:01:58,350 --> 00:01:59,690
+Photosynthese auseinandergesetzt
+
+64
+00:01:59,690 --> 00:02:01,390
+haben, schauen wir uns diesen
+
+65
+00:02:01,390 --> 00:02:03,670
+biochemischen Prozess im Detail an.
+
+66
+00:02:04,090 --> 00:02:06,050
+Im Rahmen der Lichtreaktion wird
+
+67
+00:02:06,050 --> 00:02:08,150
+Wasser mithilfe der aus dem Licht
+
+68
+00:02:08,150 --> 00:02:10,090
+gewonnenen Energie gespalten. Die
+
+69
+00:02:10,090 --> 00:02:11,730
+daraus entstehenden Moleküle, das
+
+70
+00:02:11,730 --> 00:02:13,270
+sind Kohlenwasserstoffe, werden
+
+71
+00:02:13,270 --> 00:02:14,870
+wiederum in für die Pflanzen direkt
+
+72
+00:02:14,870 --> 00:02:16,970
+nutzbare Energie umgewandelt. Die
+
+73
+00:02:16,970 --> 00:02:19,390
+Dunkelreaktion findet, wie der Name
+
+74
+00:02:19,390 --> 00:02:21,630
+schon sagt, im Dunkeln statt. Daher
+
+75
+00:02:21,630 --> 00:02:23,130
+kann die Pflanze in dieser Reaktion
+
+76
+00:02:23,130 --> 00:02:24,510
+nicht direkt auf Lichtenergie
+
+77
+00:02:24,510 --> 00:02:26,690
+zugreifen. Stattdessen werden die in
+
+78
+00:02:26,690 --> 00:02:28,170
+der Lichtreaktion genutzten
+
+79
+00:02:28,170 --> 00:02:30,530
+Biomoleküle genutzt, um die für den
+
+80
+00:02:30,530 --> 00:02:32,310
+Aufbau der Pflanze relevanten Stoffe
+
+81
+00:02:32,310 --> 00:02:34,350
+herzustellen. Alle grünen Pflanzen,
+
+82
+00:02:34,450 --> 00:02:36,630
+Cyanobakterien und auch einige andere
+
+83
+00:02:36,630 --> 00:02:37,810
+Andere Bakterien betreiben
+
+84
+00:02:37,810 --> 00:02:40,070
+Photosynthese. Vor wenigen Jahren
+
+85
+00:02:40,070 --> 00:02:41,670
+wurde sogar ein Tier, eine
+
+86
+00:02:41,670 --> 00:02:43,270
+Seeschnecke, gefunden, welche
+
+87
+00:02:43,270 --> 00:02:45,310
+Photosynthese betreiben kann. In der
+
+88
+00:02:45,310 --> 00:02:46,910
+Regel ist diese Fähigkeit jedoch den
+
+89
+00:02:46,910 --> 00:02:49,810
+Pflanzen vorbehalten. Ich hoffe, dass
+
+90
+00:02:49,810 --> 00:02:50,890
+du nun die Grundlagen der
+
+91
+00:02:50,890 --> 00:02:52,730
+Photosynthese verstanden hast. Bei
+
+92
+00:02:52,730 --> 00:02:54,350
+weiteren Fragen stehen dir im Online
+
+93
+00:02:54,350 --> 00:02:55,770
+-Lerncenter natürlich noch weitere
+
+94
+00:02:55,770 --> 00:02:57,630
+Inhalte zur Verfügung. Bis zum
+
+95
+00:02:57,630 --> 00:02:58,070
+nächsten Mal.
+

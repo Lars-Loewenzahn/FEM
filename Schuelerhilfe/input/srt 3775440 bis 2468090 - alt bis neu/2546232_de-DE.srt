@@ -1,0 +1,2420 @@
+1
+00:00:01,970 --> 00:00:03,870
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,870 --> 00:00:06,150
+analytische Geometrie Lagebeziehungen
+
+3
+00:00:06,150 --> 00:00:08,770
+Teil 2. In diesem Webinar werden wir
+
+4
+00:00:08,770 --> 00:00:10,030
+uns mit der Lagebeziehung von einer
+
+5
+00:00:10,030 --> 00:00:11,650
+Geraden und einer Ebene befassen.
+
+6
+00:00:11,850 --> 00:00:14,390
+Dabei schauen wir uns auch an, wie
+
+7
+00:00:14,390 --> 00:00:15,550
+die Rechnungen aussehen, wenn die
+
+8
+00:00:15,550 --> 00:00:16,890
+Ebene in Parameterform und
+
+9
+00:00:16,890 --> 00:00:18,210
+Koordinatenform gegeben ist.
+
+10
+00:00:19,730 --> 00:00:21,050
+Zusätzlich schauen wir uns noch die
+
+11
+00:00:21,050 --> 00:00:23,590
+Lagebeziehung von zwei Ebenen an und
+
+12
+00:00:23,590 --> 00:00:27,090
+wie man dies dann berechnet. Wichtig
+
+13
+00:00:27,090 --> 00:00:28,950
+dabei ist, dass immer eine Ebene in
+
+14
+00:00:28,950 --> 00:00:30,390
+Koordinatenform und eine andere...
+
+15
+00:00:30,970 --> 00:00:32,890
+Ebene in Parameterform gegeben ist.
+
+16
+00:00:33,750 --> 00:00:35,270
+Wie das die Rechnung dann dabei
+
+17
+00:00:35,270 --> 00:00:36,870
+aussieht, werden wir an der Stelle
+
+18
+00:00:36,870 --> 00:00:40,050
+dann sehen. Kommen wir nun zu dem
+
+19
+00:00:40,050 --> 00:00:44,070
+Fall Gerade-Ebene. Bei der
+
+20
+00:00:44,070 --> 00:00:45,550
+Lagebeziehung zwischen einer Gerade
+
+21
+00:00:45,550 --> 00:00:46,950
+und einer Ebene gibt es drei Fälle.
+
+22
+00:00:47,170 --> 00:00:48,970
+Der erste Fall ist, dass die Gerade
+
+23
+00:00:48,970 --> 00:00:50,730
+parallel zur Ebene ist. Der zweite
+
+24
+00:00:50,730 --> 00:00:52,330
+Fall ist, dass die Gerade in der
+
+25
+00:00:52,330 --> 00:00:54,230
+Ebene liegt. Und der dritte Fall ist,
+
+26
+00:00:54,330 --> 00:00:55,930
+dass die Gerade einen Schnittpunkt
+
+27
+00:00:55,930 --> 00:00:57,330
+mit der Ebene hat. Es gibt hier wie
+
+28
+00:00:57,330 --> 00:00:59,570
+gesagt nur diese drei Fälle, anders
+
+29
+00:00:59,570 --> 00:01:01,090
+als bei der Lagerbeziehung zwischen
+
+30
+00:01:01,090 --> 00:01:02,850
+zwei Graden gibt es nicht die
+
+31
+00:01:02,850 --> 00:01:04,690
+Möglichkeit, dass es windschief ist.
+
+32
+00:01:06,410 --> 00:01:08,590
+Um die Lage zwischen der Gerade und
+
+33
+00:01:08,590 --> 00:01:10,250
+der Ebene zu berechnen, schauen wir
+
+34
+00:01:10,250 --> 00:01:11,830
+uns als erstes die Richtungsvektoren
+
+35
+00:01:11,830 --> 00:01:14,430
+an. Und zwar prüfen wir, ob die
+
+36
+00:01:14,430 --> 00:01:16,970
+Richtungsvektoren der Ebene linear
+
+37
+00:01:16,970 --> 00:01:18,850
+abhängig sind vom Richtungsvektor der
+
+38
+00:01:18,850 --> 00:01:21,050
+Graden. Das heißt, wir schauen
+
+39
+00:01:21,050 --> 00:01:22,290
+ähnlich wie wir es bei der
+
+40
+00:01:22,290 --> 00:01:23,730
+Lagerbeziehung zwischen zwei Graden
+
+41
+00:01:23,730 --> 00:01:25,630
+machen, die Richtungsvektoren an und
+
+42
+00:01:25,630 --> 00:01:27,730
+gucken, ob wir den Richtungsvektor
+
+43
+00:01:27,730 --> 00:01:29,550
+der Graden durch die beiden
+
+44
+00:01:29,550 --> 00:01:31,050
+Richtungsvektoren der Ebene
+
+45
+00:01:31,050 --> 00:01:33,430
+darstellen können. Wenn dies der Fall
+
+46
+00:01:33,430 --> 00:01:35,830
+ist, ist die Gerade entweder parallel
+
+47
+00:01:35,830 --> 00:01:39,470
+zur Ebene oder liegt in der Ebene. Um
+
+48
+00:01:39,470 --> 00:01:40,770
+diese zwei Fälle dann noch
+
+49
+00:01:40,770 --> 00:01:42,050
+voneinander zu unterscheiden zu
+
+50
+00:01:42,050 --> 00:01:43,770
+können, wird die Punktprobe
+
+51
+00:01:43,770 --> 00:01:46,630
+durchgeführt. Bei der Punktprobe wird
+
+52
+00:01:46,630 --> 00:01:49,010
+dann der Stützvektor der Graden mit
+
+53
+00:01:49,010 --> 00:01:51,510
+der Ebene gleichgesetzt und man
+
+54
+00:01:51,510 --> 00:01:53,910
+schaut dann, ob der Punkt Teil der
+
+55
+00:01:53,910 --> 00:01:55,590
+Ebene ist oder eben nicht. Das heißt,
+
+56
+00:01:55,650 --> 00:01:57,290
+wenn die Punktprobe erfolgreich ist
+
+57
+00:01:57,290 --> 00:02:00,950
+und der Stützvektor in der Ebene
+
+58
+00:02:00,950 --> 00:02:02,690
+liegt, liegt folglich auch die
+
+59
+00:02:02,690 --> 00:02:04,710
+gesamte Gerade in der Ebene. Wenn die
+
+60
+00:02:04,710 --> 00:02:06,310
+Punktprobe nicht erfolgreich ist,
+
+61
+00:02:06,410 --> 00:02:08,850
+also der Stützvektor nicht auf der
+
+62
+00:02:08,850 --> 00:02:10,230
+Ebene liegt, ist die Gerade einfach
+
+63
+00:02:10,230 --> 00:02:14,310
+nur parallel. Anders ist es, wenn wir
+
+64
+00:02:14,310 --> 00:02:16,430
+einen Schnittpunkt vermuten, dann ist
+
+65
+00:02:16,430 --> 00:02:17,930
+es nämlich so dass der
+
+66
+00:02:17,930 --> 00:02:19,490
+richtungsvektor der graden linear
+
+67
+00:02:19,490 --> 00:02:22,370
+unabhängig von den richtungsvektoren
+
+68
+00:02:22,370 --> 00:02:24,790
+ebene ist das heißt beim ersten
+
+69
+00:02:24,790 --> 00:02:26,470
+prüfen richtungsvektoren würden wir
+
+70
+00:02:26,470 --> 00:02:28,590
+herausfinden dass sie unabhängig sind
+
+71
+00:02:28,590 --> 00:02:30,910
+und anschließend direkt auf einen
+
+72
+00:02:30,910 --> 00:02:32,930
+schnittpunkt prüfen denn dann muss es
+
+73
+00:02:32,930 --> 00:02:35,050
+einen schnittpunkt geben das heißt
+
+74
+00:02:35,050 --> 00:02:37,090
+wir setzen dann die graden die gerade
+
+75
+00:02:37,090 --> 00:02:42,790
+g mit der ebene gleich gut fangen wir
+
+76
+00:02:42,790 --> 00:02:44,390
+dann mit dem Beispiel der Ebene in
+
+77
+00:02:44,390 --> 00:02:46,950
+Parameterform an. Zuerst sehen wir
+
+78
+00:02:46,950 --> 00:02:48,430
+hier, die Parameterform einer Ebene
+
+79
+00:02:48,430 --> 00:02:50,330
+ist dadurch gekennzeichnet, dass sie
+
+80
+00:02:50,330 --> 00:02:52,830
+zwei Richtungsvektoren enthält. Das
+
+81
+00:02:52,830 --> 00:02:54,290
+heißt, das hier ist unsere Ebene in
+
+82
+00:02:54,290 --> 00:02:55,930
+Parameterform und das ist unsere
+
+83
+00:02:55,930 --> 00:02:57,450
+Geradengleichung ebenfalls in
+
+84
+00:02:57,450 --> 00:03:00,970
+Parameterform. Als erstes überprüfen
+
+85
+00:03:00,970 --> 00:03:02,330
+wir die lineare Abhängigkeit. Das
+
+86
+00:03:02,330 --> 00:03:03,750
+heißt, wir gucken, ob wir den
+
+87
+00:03:03,750 --> 00:03:05,670
+Richtungsvektor der E, Entschlung,
+
+88
+00:03:05,770 --> 00:03:07,290
+den Richtungsvektor der Geraden, also
+
+89
+00:03:07,290 --> 00:03:09,090
+diesen hier, durch die beiden
+
+90
+00:03:09,090 --> 00:03:10,830
+Richtungsvektoren der Ebene
+
+91
+00:03:10,830 --> 00:03:11,710
+darstellen können. Das sind die
+
+92
+00:03:11,710 --> 00:03:14,610
+beiden Ebenen. Das heißt, wir prüfen
+
+93
+00:03:14,610 --> 00:03:15,890
+das und wir stellen in diesem Fall
+
+94
+00:03:15,890 --> 00:03:18,830
+fest, man kann den Richtungsvektor
+
+95
+00:03:18,830 --> 00:03:20,110
+der Geraden durch die beiden
+
+96
+00:03:20,110 --> 00:03:21,390
+Richtungsvektoren der Ebene
+
+97
+00:03:21,390 --> 00:03:23,770
+darstellen. Der Faktor wäre 1 bzw. 1
+
+98
+00:03:23,770 --> 00:03:27,610
+,5. Denn 1 ist gleich 1,5 mal 1 plus
+
+99
+00:03:27,610 --> 00:03:31,430
+0,5 mal 0, also 1 ist gleich 1. Das
+
+100
+00:03:31,430 --> 00:03:34,490
+passt. 1 ist gleich 1 mal 1 plus 1
+
+101
+00:03:34,490 --> 00:03:36,530
+halb mal 0, also 1 ist gleich 1, das
+
+102
+00:03:36,530 --> 00:03:39,210
+passt auch. Und 1 ist gleich 1 mal 0
+
+103
+00:03:39,210 --> 00:03:42,290
+plus 1 halb mal 2, also am Ende 1 ist
+
+104
+00:03:42,290 --> 00:03:44,690
+gleich 1. Also sie sind linear
+
+105
+00:03:44,690 --> 00:03:47,790
+abhängig. Folglich vermuten wir, dass
+
+106
+00:03:47,790 --> 00:03:50,470
+die Gerade parallel zur Ebene ist
+
+107
+00:03:50,470 --> 00:03:52,750
+oder eben Teil der Ebene. Daher
+
+108
+00:03:52,750 --> 00:03:55,410
+prüfen wir nun den Stützvektor der
+
+109
+00:03:55,410 --> 00:03:57,350
+Geraden g und machen mit diesem eine
+
+110
+00:03:57,350 --> 00:04:00,990
+Punktprobe mit der Ebene. Das heißt,
+
+111
+00:04:01,110 --> 00:04:03,770
+wir setzen den Stützvektor mit der
+
+112
+00:04:03,770 --> 00:04:08,010
+Ebene gleich. Wir sehen hier, 1,02
+
+113
+00:04:08,010 --> 00:04:11,670
+ist der Stützvektor der Geraden und
+
+114
+00:04:11,670 --> 00:04:15,870
+das hier rechts ist entsprechend die
+
+115
+00:04:15,870 --> 00:04:18,090
+Ebenengleichung. Und diese lautet
+
+116
+00:04:18,090 --> 00:04:21,670
+dann 3,23 plus S mal 1,10 plus T mal
+
+117
+00:04:21,670 --> 00:04:23,830
+0,02 und das ist gleich unser
+
+118
+00:04:23,830 --> 00:04:27,070
+Stützvektor 1,02. Als erstes ist
+
+119
+00:04:27,070 --> 00:04:28,330
+hierbei die Rechentechnik, unsere
+
+120
+00:04:28,330 --> 00:04:29,630
+Parameter auf einer Seite zu sehen.
+
+121
+00:04:29,650 --> 00:04:30,690
+zusammen, beziehungsweise unsere
+
+122
+00:04:30,690 --> 00:04:32,230
+Richtungsvektoren inklusive der
+
+123
+00:04:32,230 --> 00:04:33,910
+zugehörigen Parameter auf einer Seite
+
+124
+00:04:33,910 --> 00:04:36,070
+zusammen und auf der anderen Seite
+
+125
+00:04:36,070 --> 00:04:39,230
+die Vektoren. Das heißt, der
+
+126
+00:04:39,230 --> 00:04:41,510
+Stützvektor hier, der 3, 2, 3, der
+
+127
+00:04:41,510 --> 00:04:42,730
+soll rüber, deswegen rechnen wir
+
+128
+00:04:42,730 --> 00:04:45,610
+minus den Vektor 3, 2, 3. Wir kommen
+
+129
+00:04:45,610 --> 00:04:47,850
+so auf den Vektor minus 2, minus 2,
+
+130
+00:04:47,870 --> 00:04:50,730
+minus 1 ist gleich S mal 1, 1, 0 plus
+
+131
+00:04:50,730 --> 00:04:56,710
+T mal 0, 0, 2. Und Und damit können
+
+132
+00:04:56,710 --> 00:04:57,710
+wir dann auch gleich das
+
+133
+00:04:57,710 --> 00:04:59,770
+Gleichungssystem aufstellen. Das
+
+134
+00:04:59,770 --> 00:05:01,710
+lautet einfach minus 2 ist gleich s
+
+135
+00:05:01,710 --> 00:05:04,190
+mal 1 plus 0 mal t. Minus 2 ist
+
+136
+00:05:04,190 --> 00:05:06,470
+gleich s mal 1 plus 0 mal t. Und
+
+137
+00:05:06,470 --> 00:05:09,030
+minus 1 ist gleich s mal 0 plus t mal
+
+138
+00:05:09,030 --> 00:05:10,790
+2. Damit haben wir dieses
+
+139
+00:05:10,790 --> 00:05:13,010
+Gleichungssystem aufgestellt. Das ist
+
+140
+00:05:13,010 --> 00:05:14,430
+in diesem Fall doch ein sehr
+
+141
+00:05:14,430 --> 00:05:18,070
+einfaches. Es ist dabei zu erwähnen,
+
+142
+00:05:18,130 --> 00:05:20,010
+dass diese nicht immer so einfach
+
+143
+00:05:20,010 --> 00:05:21,650
+sind. Und wenn man auch mehr rechnen
+
+144
+00:05:21,650 --> 00:05:25,430
+muss. Wir haben hier drei Gleichungen
+
+145
+00:05:25,430 --> 00:05:27,030
+und zwei Unbekannte, das heißt wir
+
+146
+00:05:27,030 --> 00:05:28,170
+haben ein überbestimmtes
+
+147
+00:05:28,170 --> 00:05:32,430
+Gleichungssystem. Daher geht man hin
+
+148
+00:05:32,430 --> 00:05:34,910
+und nutzt lediglich zwei der drei
+
+149
+00:05:34,910 --> 00:05:36,390
+Gleichungen, um die beiden
+
+150
+00:05:36,390 --> 00:05:37,850
+Unbekannten zu bestimmen und macht
+
+151
+00:05:37,850 --> 00:05:39,210
+anschließend mit der noch nicht
+
+152
+00:05:39,210 --> 00:05:42,650
+verwendeten Gleichung die Probe. Das
+
+153
+00:05:42,650 --> 00:05:43,790
+ist bei uns hier nicht unbedingt
+
+154
+00:05:43,790 --> 00:05:45,070
+notwendig, bei den Bornen steht
+
+155
+00:05:45,070 --> 00:05:47,110
+direkt minus 2 ist gleich S, minus 2
+
+156
+00:05:47,110 --> 00:05:49,050
+ist gleich S, das passt schon mal und
+
+157
+00:05:49,050 --> 00:05:51,670
+minus 1 ist gleich 2T. Also das ist
+
+158
+00:05:51,670 --> 00:05:52,970
+bei uns gelöst und wir sehen, wir
+
+159
+00:05:52,970 --> 00:05:54,330
+haben hier eine einheitliche Lösung
+
+160
+00:05:54,330 --> 00:05:57,410
+und daher ist die Gerade Teil der
+
+161
+00:05:57,410 --> 00:06:01,350
+Ebene. Und die Gerade liegt damit
+
+162
+00:06:01,350 --> 00:06:03,050
+also wirklich in der Ebene drin und
+
+163
+00:06:03,050 --> 00:06:05,350
+damit ist die Lagerbeziehung geklärt.
+
+164
+00:06:07,540 --> 00:06:09,560
+Hier haben wir noch ein Beispiel zu
+
+165
+00:06:09,560 --> 00:06:11,860
+einem weiteren Fall. Auch hier haben
+
+166
+00:06:11,860 --> 00:06:13,440
+wir wieder eine Gerade G und eine
+
+167
+00:06:13,440 --> 00:06:15,500
+Ebene E in Parameterform gegeben
+
+168
+00:06:15,500 --> 00:06:17,920
+beides. Und wir prüfen natürlich auch
+
+169
+00:06:17,920 --> 00:06:19,380
+hier wieder als erstes auf die
+
+170
+00:06:19,380 --> 00:06:21,940
+lineare Abhängigkeit. Auch hier
+
+171
+00:06:21,940 --> 00:06:23,120
+stellen wir wieder fest, dass der
+
+172
+00:06:23,120 --> 00:06:25,120
+Richtungsvektor der Geraden, also der
+
+173
+00:06:25,120 --> 00:06:27,120
+hier, linear abhängig ist zu den
+
+174
+00:06:27,120 --> 00:06:28,780
+beiden Richtungsvektoren der Ebene.
+
+175
+00:06:29,860 --> 00:06:31,440
+Die Faktoren sind hier die gleichen,
+
+176
+00:06:31,580 --> 00:06:34,280
+das heißt auch hier linear abhängig
+
+177
+00:06:34,280 --> 00:06:35,840
+und deswegen prüfen wir hier
+
+178
+00:06:35,840 --> 00:06:38,000
+natürlich auch als erstes, ob der
+
+179
+00:06:38,000 --> 00:06:39,900
+Stützvektor Teil der Ebene ist. Das
+
+180
+00:06:39,900 --> 00:06:40,880
+heißt, wir machen die Punktprobe.
+
+181
+00:06:43,900 --> 00:06:45,280
+Also wir setzen wieder den
+
+182
+00:06:45,280 --> 00:06:47,420
+Stützvektor, in dem Fall 2, 5, 3 mit
+
+183
+00:06:47,420 --> 00:06:49,900
+der Ebene E gleich. So kommen wir zu
+
+184
+00:06:49,900 --> 00:06:52,780
+2, 5, 3 ist gleich 3, 2, 3 plus S mal
+
+185
+00:06:52,780 --> 00:06:58,840
+1, 1, 0 plus T mal 0, 0, 2. Und auch
+
+186
+00:06:58,840 --> 00:07:00,120
+hier gehen wir jetzt wieder dahin,
+
+187
+00:07:00,120 --> 00:07:01,080
+wollen unsere beiden
+
+188
+00:07:01,080 --> 00:07:03,160
+Richtungsvektoren mit den Parametern
+
+189
+00:07:03,160 --> 00:07:05,040
+auf der rechten Seite sammeln und den
+
+190
+00:07:05,040 --> 00:07:06,900
+anderen Vektor auf der linken Seite.
+
+191
+00:07:07,000 --> 00:07:08,640
+Deswegen rechnen soll dieser Vektor
+
+192
+00:07:08,640 --> 00:07:10,940
+3, 2, 3 hier weg und wir rechnen
+
+193
+00:07:10,940 --> 00:07:13,800
+minus 3, 2, 3. Kommen wir auf 2,
+
+194
+00:07:13,960 --> 00:07:17,300
+minus 3 ist die minus 1, 5 minus 2
+
+195
+00:07:17,300 --> 00:07:21,120
+ist die 3, 3 minus 3 ist die 0. So
+
+196
+00:07:21,120 --> 00:07:22,340
+kommen wir zu der Gleichung,
+
+197
+00:07:22,360 --> 00:07:24,540
+beziehungsweise jedoch der Gleichung
+
+198
+00:07:24,540 --> 00:07:27,380
+minus 1, 3, 0 ist gleich S mal 1, 1,
+
+199
+00:07:27,400 --> 00:07:32,140
+0 plus T mal 0, 0, 2. Aus dieser
+
+200
+00:07:32,140 --> 00:07:33,260
+Gleichung machen wir ein
+
+201
+00:07:33,260 --> 00:07:35,920
+Gleichungssystem. Auch hier wieder
+
+202
+00:07:35,920 --> 00:07:37,360
+der Hinweis, das ist ein einfacher
+
+203
+00:07:37,360 --> 00:07:40,080
+Fall. wenn die gleichung bzw
+
+204
+00:07:40,080 --> 00:07:41,940
+gleichungssystem etwas komplexer ist
+
+205
+00:07:41,940 --> 00:07:43,800
+nehmt euch zwei gleichungen raus
+
+206
+00:07:43,800 --> 00:07:45,300
+damit die euro zwei unbekannten
+
+207
+00:07:45,300 --> 00:07:47,920
+bestimmen könnt und macht am ende mit
+
+208
+00:07:47,920 --> 00:07:48,980
+der dritten gleichung die probe
+
+209
+00:07:48,980 --> 00:07:51,020
+achtet bitte darauf ihr müsst
+
+210
+00:07:51,020 --> 00:07:52,780
+zwangsläufig die probe dann machen
+
+211
+00:07:52,780 --> 00:07:55,120
+denn wenn ihr die lösung aus den zwei
+
+212
+00:07:55,120 --> 00:07:56,660
+gleichungen ermittelt habt heißt es
+
+213
+00:07:56,660 --> 00:07:57,820
+nicht dass bei der dritten gleichung
+
+214
+00:07:57,820 --> 00:08:00,000
+eine wahre lösung eine wahre aussage
+
+215
+00:08:00,000 --> 00:08:02,600
+entsteht und die wirklich eine lösung
+
+216
+00:08:02,600 --> 00:08:05,600
+errechnet habt hier sehen wir es Hier
+
+217
+00:08:05,600 --> 00:08:09,060
+steht, minus 1 ist gleich 1s, 3 ist
+
+218
+00:08:09,060 --> 00:08:11,520
+gleich s und 0 ist gleich 2t. Hier
+
+219
+00:08:11,520 --> 00:08:13,920
+haben wir es schon. Zwei Gleichungen.
+
+220
+00:08:14,220 --> 00:08:15,260
+Angenommen, wir hätten nur zwei.
+
+221
+00:08:15,320 --> 00:08:16,840
+Hätten wir minus 1 ist gleich s und 0
+
+222
+00:08:16,840 --> 00:08:18,440
+ist gleich 2t. Okay, hört sich gut
+
+223
+00:08:18,440 --> 00:08:20,120
+an. Die dritte Gleichung sagt aber
+
+224
+00:08:20,120 --> 00:08:22,100
+leider aus, 3 ist gleich s. Und das
+
+225
+00:08:22,100 --> 00:08:24,340
+ist keine eindeutige Lösung. Wir
+
+226
+00:08:24,340 --> 00:08:25,520
+haben hier nämlich zwei verschiedene
+
+227
+00:08:25,520 --> 00:08:28,860
+Lösungen für s. daher ist das
+
+228
+00:08:28,860 --> 00:08:32,440
+gleichungssystem nicht lösbar bzw die
+
+229
+00:08:32,440 --> 00:08:34,680
+gerade liegt damit parallel zu eben
+
+230
+00:08:34,680 --> 00:08:36,360
+also die punktprobe ist gescheitert
+
+231
+00:08:36,360 --> 00:08:38,280
+die gerade und die ebene haben keinen
+
+232
+00:08:38,280 --> 00:08:40,160
+gemeinsamen punkt folglich liegt die
+
+233
+00:08:40,160 --> 00:08:44,930
+gerade parallel zur ebene damit
+
+234
+00:08:44,930 --> 00:08:46,510
+kommen wir auch schon zum letzten
+
+235
+00:08:46,510 --> 00:08:49,530
+fall wir hatten jetzt ja schon gerade
+
+236
+00:08:49,530 --> 00:08:50,970
+liegt in der ebene und gerade ist
+
+237
+00:08:50,970 --> 00:08:52,510
+parallel zur ebene deswegen ist der
+
+238
+00:08:52,510 --> 00:08:54,930
+letzte fall jetzt ein schnittpunkt
+
+239
+00:08:54,930 --> 00:08:57,670
+auch hier haben wir wieder die gerade
+
+240
+00:08:57,670 --> 00:08:59,130
+in parameter form und die ebenen
+
+241
+00:08:59,130 --> 00:09:01,030
+parameter form gegeben auch hier
+
+242
+00:09:01,030 --> 00:09:02,610
+prüfen wir als erstes die lineare
+
+243
+00:09:02,610 --> 00:09:03,890
+abhängigkeit und wir stellen
+
+244
+00:09:03,890 --> 00:09:06,850
+natürlich hierbei jetzt fest dass der
+
+245
+00:09:06,850 --> 00:09:08,790
+richtungsvektor der graden linear
+
+246
+00:09:08,790 --> 00:09:10,390
+unabhängig von den beiden
+
+247
+00:09:10,390 --> 00:09:13,010
+richtungsvektoren der ebene ist das
+
+248
+00:09:13,010 --> 00:09:15,670
+bedeutet also die gerade ist auf
+
+249
+00:09:15,670 --> 00:09:17,690
+keinen fall parallel oder identisch
+
+250
+00:09:17,690 --> 00:09:21,130
+auf keinen fall parallel oder liegt
+
+251
+00:09:21,130 --> 00:09:23,410
+auf keinen fall in der ebene sie hat
+
+252
+00:09:23,410 --> 00:09:24,950
+definitiv ein schnittpunkt und daher
+
+253
+00:09:24,950 --> 00:09:26,170
+prüfen wir auch auf diesen
+
+254
+00:09:26,170 --> 00:09:30,010
+schnittpunkt das heißt wir setzen
+
+255
+00:09:30,010 --> 00:09:31,790
+jetzt die gerade mit der ebene gleich
+
+256
+00:09:31,790 --> 00:09:33,230
+wir sehen hier links die
+
+257
+00:09:33,230 --> 00:09:36,090
+gradengleichung hier rechts die ebene
+
+258
+00:09:36,090 --> 00:09:37,250
+gleichung ist wie gesagt einfach
+
+259
+00:09:37,250 --> 00:09:40,530
+gleich gesetzt g ist gleich und nun
+
+260
+00:09:40,530 --> 00:09:43,090
+lösen wir diese gleichung auch
+
+261
+00:09:43,090 --> 00:09:44,430
+hierbei ist die herangehensweise man
+
+262
+00:09:44,430 --> 00:09:45,970
+möchte die richtungsvektoren
+
+263
+00:09:45,970 --> 00:09:47,470
+inklusive der parameter auf der
+
+264
+00:09:47,470 --> 00:09:49,490
+rechten seite sammeln kannst du hier
+
+265
+00:09:49,490 --> 00:09:51,430
+auf der linken seite machen und auf
+
+266
+00:09:51,430 --> 00:09:53,430
+der entsprechend anderen seite dann
+
+267
+00:09:53,430 --> 00:09:57,370
+immer den Vektor. Deswegen rechnen
+
+268
+00:09:57,370 --> 00:10:00,590
+wir hier minus r mal 0, 1, 0, damit
+
+269
+00:10:00,590 --> 00:10:03,690
+dieser Vektor hier rüber geht und wir
+
+270
+00:10:03,690 --> 00:10:06,070
+rechnen minus, minus 1, 0, minus 3,
+
+271
+00:10:06,110 --> 00:10:07,370
+damit der Vektor auch hier rüber
+
+272
+00:10:07,370 --> 00:10:10,190
+geht. 2, minus, minus 1,
+
+273
+00:10:10,290 --> 00:10:12,370
+Entschuldigung, 1, minus, minus 1 ist
+
+274
+00:10:12,370 --> 00:10:15,710
+dann 2, 1, minus 0 ist die 1, 1,
+
+275
+00:10:15,910 --> 00:10:18,150
+minus, minus 3, also 1 plus 3 ist die
+
+276
+00:10:18,150 --> 00:10:18,490
+4.
+
+277
+00:10:21,460 --> 00:10:22,800
+Jetzt geht es auf der anderen Seite
+
+278
+00:10:22,800 --> 00:10:25,080
+weiter die beiden vektoren bleiben so
+
+279
+00:10:25,080 --> 00:10:28,920
+also es mal 110 plus thema 002 minus
+
+280
+00:10:28,920 --> 00:10:32,520
+r mal 0 1 0 achtete darauf dass sie
+
+281
+00:10:32,520 --> 00:10:34,200
+noch ein minus steht das ist jetzt
+
+282
+00:10:34,200 --> 00:10:36,120
+wichtig wenn wir aus dem aus der
+
+283
+00:10:36,120 --> 00:10:37,860
+gleichung ein gleichungssystem machen
+
+284
+00:10:37,860 --> 00:10:40,180
+dann erhalten wir nämlich zwei ist
+
+285
+00:10:40,180 --> 00:10:42,720
+gleich es mal 1 plus thema 0 minus
+
+286
+00:10:42,720 --> 00:10:46,700
+einmal 0 also zwei ist es und 1 ist
+
+287
+00:10:46,700 --> 00:10:49,820
+gleich es mal 1 plus thema 0 minus
+
+288
+00:10:49,820 --> 00:10:52,840
+einmal 1 also 1 ist gleich s minus r
+
+289
+00:10:52,840 --> 00:10:58,040
+und 4 ist gleich 0 mal s plus t mal 2
+
+290
+00:10:58,040 --> 00:11:00,920
+minus r mal 0, also 4 ist gleich 2t.
+
+291
+00:11:01,500 --> 00:11:03,140
+In dem Fall haben wir hier ein
+
+292
+00:11:03,140 --> 00:11:05,080
+Gleichungssystem mit drei Unbekannten
+
+293
+00:11:05,080 --> 00:11:06,320
+und drei Gleichungen. Das heißt,
+
+294
+00:11:06,380 --> 00:11:08,100
+dieses Gleichungssystem ist nicht
+
+295
+00:11:08,100 --> 00:11:09,880
+überbestimmt anders zu denen, die wir
+
+296
+00:11:09,880 --> 00:11:13,000
+vorhin behandelt haben. Daher braucht
+
+297
+00:11:13,000 --> 00:11:14,080
+ihr hier alle Gleichungen des
+
+298
+00:11:14,080 --> 00:11:15,600
+Gleichungssystems zu lösen und ihr
+
+299
+00:11:15,600 --> 00:11:16,920
+müsst am Ende auch keine Probe
+
+300
+00:11:16,920 --> 00:11:19,360
+machen. Aus unserem Gleichungssystem
+
+301
+00:11:19,360 --> 00:11:21,120
+gehen die Lösungen... gleich 2, r
+
+302
+00:11:21,120 --> 00:11:23,940
+gleich 1 und t gleich 2 hervor. Um
+
+303
+00:11:23,940 --> 00:11:25,940
+nun den Schnittpunkt noch anzugeben
+
+304
+00:11:25,940 --> 00:11:27,960
+als Punkt, müssen wir den noch
+
+305
+00:11:27,960 --> 00:11:29,620
+berechnen. Wir kennen die Parameter,
+
+306
+00:11:29,660 --> 00:11:31,060
+bei denen der Schnittpunkt vorliegt
+
+307
+00:11:31,060 --> 00:11:33,280
+und müssen jetzt, wie gesagt, die
+
+308
+00:11:33,280 --> 00:11:35,880
+Parameter in die Ebenengleichung oder
+
+309
+00:11:35,880 --> 00:11:36,980
+in die Geradengleichung einsetzen.
+
+310
+00:11:37,240 --> 00:11:40,640
+Wir können also s und t in die
+
+311
+00:11:40,640 --> 00:11:43,360
+Ebenengleichung einsetzen oder wir
+
+312
+00:11:43,360 --> 00:11:46,060
+Wir setzen R gleich 1 in die
+
+313
+00:11:46,060 --> 00:11:47,460
+Geradengleichung ein. In der Regel
+
+314
+00:11:47,460 --> 00:11:49,120
+setzt man immer den Parameter in die
+
+315
+00:11:49,120 --> 00:11:50,940
+Geradengleichung ein, einfach weil es
+
+316
+00:11:50,940 --> 00:11:55,780
+schneller geht. Egal ob ihr S und T
+
+317
+00:11:55,780 --> 00:11:57,960
+oder R einsetzt, ihr müsst auf den
+
+318
+00:11:57,960 --> 00:11:59,800
+gleichen Punkt kommen, sonst liegt
+
+319
+00:11:59,800 --> 00:12:00,580
+ein Rechenfehler vor.
+
+320
+00:12:04,480 --> 00:12:06,580
+Daher nutzt man meistens den Weg, den
+
+321
+00:12:06,580 --> 00:12:09,220
+einfachen und setzt den Parameter in
+
+322
+00:12:09,220 --> 00:12:10,560
+die Geradengleichung ein. Also R
+
+323
+00:12:10,560 --> 00:12:11,860
+gleich 1, das machen wir jetzt auch
+
+324
+00:12:11,860 --> 00:12:13,820
+in Folge. und kommen so zu der
+
+325
+00:12:13,820 --> 00:12:16,760
+Gleichung 1, 1, 1 plus 1 mal 0, 1, 0
+
+326
+00:12:16,760 --> 00:12:19,980
+und das ist gleich 1 plus 1 mal 0 ist
+
+327
+00:12:19,980 --> 00:12:23,540
+1, 1 plus 1 mal 1 ist 2, 1 plus 1 mal
+
+328
+00:12:23,540 --> 00:12:25,820
+0 ist wieder die 1. Folglich lautet
+
+329
+00:12:25,820 --> 00:12:29,800
+unser Schnittpunkt 1, 2, 1 und damit
+
+330
+00:12:29,800 --> 00:12:31,340
+haben wir auch den Schnittpunkt
+
+331
+00:12:31,340 --> 00:12:34,900
+berechnet. Als nächstes schauen wir
+
+332
+00:12:34,900 --> 00:12:36,620
+uns die Rechentechnik an, wenn die
+
+333
+00:12:36,620 --> 00:12:38,400
+eben in Koordinatenform gegeben ist.
+
+334
+00:12:40,140 --> 00:12:41,780
+Die Koordinatenform sehen wir erstmal
+
+335
+00:12:41,780 --> 00:12:44,740
+hier. Die Koordinatenform enthält die
+
+336
+00:12:44,740 --> 00:12:46,100
+Elemente x, y und z.
+
+337
+00:12:49,140 --> 00:12:51,460
+Und um es mal kurz zu fassen, wenn
+
+338
+00:12:51,460 --> 00:12:53,140
+ihr es mit der Koordinatenform
+
+339
+00:12:53,140 --> 00:12:55,220
+berechnet, seid ihr deutlich besser
+
+340
+00:12:55,220 --> 00:12:57,580
+dabei, denn es ist wesentlich
+
+341
+00:12:57,580 --> 00:12:58,800
+einfacher und schneller. Ihr seht
+
+342
+00:12:58,800 --> 00:12:59,900
+hier die Rechnung, die wir gerade
+
+343
+00:12:59,900 --> 00:13:02,440
+gemacht haben, ist deutlich kürzer
+
+344
+00:13:02,440 --> 00:13:03,300
+und man braucht auch kein
+
+345
+00:13:03,300 --> 00:13:04,760
+Gleichungssystem. Das ist der Vorteil
+
+346
+00:13:04,760 --> 00:13:07,000
+von der Koordinatenform. Also wir
+
+347
+00:13:07,000 --> 00:13:08,100
+sehen hier, unsere ebene in
+
+348
+00:13:08,100 --> 00:13:10,780
+koordinatenform 2x minus 1y plus 3z
+
+349
+00:13:10,780 --> 00:13:14,300
+gleich 19 das x oder für das x setzen
+
+350
+00:13:14,300 --> 00:13:16,180
+wir gleich hier das ist die x zeile
+
+351
+00:13:16,180 --> 00:13:18,520
+ein für das y hier die y zeile und
+
+352
+00:13:18,520 --> 00:13:21,220
+für das z hier die z zeile ja also
+
+353
+00:13:21,220 --> 00:13:23,020
+das ist damit gemeint die gerade g in
+
+354
+00:13:23,020 --> 00:13:25,660
+e einsetzen wir setzen jetzt also für
+
+355
+00:13:25,660 --> 00:13:29,540
+das x 1 plus 1r ein für das y 2 plus
+
+356
+00:13:29,540 --> 00:13:33,800
+0 mal r für das z 3 plus r mal 1 das
+
+357
+00:13:33,800 --> 00:13:35,580
+haben wir hier gemacht und nun sehen
+
+358
+00:13:35,580 --> 00:13:36,840
+wir haben wir hier eine Gleichung,
+
+359
+00:13:36,860 --> 00:13:39,740
+die nur R als Unbekannte hat. Und
+
+360
+00:13:39,740 --> 00:13:42,480
+diese können wir nun lösen. Also wir
+
+361
+00:13:42,480 --> 00:13:44,240
+können das Ganze nach R umstellen.
+
+362
+00:13:44,680 --> 00:13:46,640
+Und deswegen lösen wir als erstes mal
+
+363
+00:13:46,640 --> 00:13:48,420
+die Klammern auf. 2 mal 1 ist die 2,
+
+364
+00:13:48,640 --> 00:13:51,960
+2 mal 1R sind die 2R, minus 1 mal 2
+
+365
+00:13:51,960 --> 00:13:54,960
+ist die minus 2, minus 1 mal 0R ist
+
+366
+00:13:54,960 --> 00:13:57,500
+einfach 0, deswegen fällt es raus. 3
+
+367
+00:13:57,500 --> 00:14:00,400
+mal 3 ist die 9 und 3 mal 1R sind die
+
+368
+00:14:00,400 --> 00:14:03,780
+3R und die 19 bleibt erstmal. Als
+
+369
+00:14:03,780 --> 00:14:04,940
+nächstes versuchen wir das mal ein
+
+370
+00:14:04,940 --> 00:14:07,400
+bisschen zu sehen. zu bündeln 2 r 3 r
+
+371
+00:14:07,400 --> 00:14:09,480
+5 also wir fassen alles zusammen was
+
+372
+00:14:09,480 --> 00:14:13,600
+geht 2 minus 2 ist 0 plus 9 sei
+
+373
+00:14:13,600 --> 00:14:16,060
+einfach die 9 das heißt wir wissen 5
+
+374
+00:14:16,060 --> 00:14:21,000
+r plus 9 ist gleich 19 das ist wie
+
+375
+00:14:21,000 --> 00:14:22,260
+gesagt eine ganz normale gleichung
+
+376
+00:14:22,260 --> 00:14:23,420
+wie wir sie aus der unterstufe schon
+
+377
+00:14:23,420 --> 00:14:25,620
+kennen daher als einfach nach er
+
+378
+00:14:25,620 --> 00:14:27,820
+umformen also minus 9 steht da 5 r
+
+379
+00:14:27,820 --> 00:14:29,760
+ist gleich 10 und zu guter letzt noch
+
+380
+00:14:29,760 --> 00:14:31,600
+geteilt durch 5 und Und dann kommen
+
+381
+00:14:31,600 --> 00:14:34,060
+wir auf R ist gleich 2. Das heißt,
+
+382
+00:14:34,200 --> 00:14:36,900
+dieses Ergebnis, was hier unten
+
+383
+00:14:36,900 --> 00:14:38,620
+steht, muss immer gedeutet werden.
+
+384
+00:14:38,780 --> 00:14:41,020
+Das R ist in unserem Fall 2. Das
+
+385
+00:14:41,020 --> 00:14:42,720
+heißt, wir haben eine eindeutige
+
+386
+00:14:42,720 --> 00:14:46,840
+Lösung. Und das bedeutet, dass es
+
+387
+00:14:46,840 --> 00:14:48,280
+einen Schnittpunkt gibt. Diesen
+
+388
+00:14:48,280 --> 00:14:49,700
+Schnittpunkt berechnen wir jetzt
+
+389
+00:14:49,700 --> 00:14:51,500
+einfach, indem wir das R hier oben in
+
+390
+00:14:51,500 --> 00:14:53,780
+die Geradengleichung einsetzen. Also
+
+391
+00:14:53,780 --> 00:14:55,700
+R ist gleich 2. sitzen wir ein und
+
+392
+00:14:55,700 --> 00:14:58,480
+kommen so auf 123 plus 2 mal 1 plus
+
+393
+00:14:58,480 --> 00:15:05,780
+123 plus 2 mal 101. 1 plus 2 mal 1
+
+394
+00:15:05,780 --> 00:15:09,360
+ist 3, 2 plus 2 mal 0 ist 2, 3 plus 2
+
+395
+00:15:09,360 --> 00:15:11,820
+mal 1 ist 5. Das heißt, der
+
+396
+00:15:11,820 --> 00:15:14,280
+Stückpunkt liegt bei dem Vektor 3, 2,
+
+397
+00:15:14,300 --> 00:15:16,820
+5 beziehungsweise beim Punkt 3, 2, 5,
+
+398
+00:15:16,880 --> 00:15:18,020
+wenn man es nebeneinander schreibt.
+
+399
+00:15:19,760 --> 00:15:21,120
+Die beiden anderen Möglichkeiten,
+
+400
+00:15:21,680 --> 00:15:23,960
+gerade ist Teil der Ebene und gerade
+
+401
+00:15:23,960 --> 00:15:26,120
+liegt parallel zur Ebene, äußern sich
+
+402
+00:15:26,120 --> 00:15:28,120
+wie folgt, wenn ihr hier am Ende eine
+
+403
+00:15:28,120 --> 00:15:30,700
+wahre Aussage erhaltet, aber euer
+
+404
+00:15:30,700 --> 00:15:32,200
+Parameter weggefallen ist, das heißt
+
+405
+00:15:32,200 --> 00:15:33,660
+hier am Ende steht sowas wie 0 ist
+
+406
+00:15:33,660 --> 00:15:37,080
+gleich 0 oder 5 ist gleich 5 oder 10
+
+407
+00:15:37,080 --> 00:15:39,300
+ist gleich 10, jedenfalls eine wahre
+
+408
+00:15:39,300 --> 00:15:42,820
+Aussage, dann gibt es unendlich viele
+
+409
+00:15:42,820 --> 00:15:44,640
+gemeinsame Punkte, das heißt also die
+
+410
+00:15:44,640 --> 00:15:46,620
+Gerade liegt in der Ebene oder ist
+
+411
+00:15:46,620 --> 00:15:51,100
+Teil der Ebene. ist dass sie eine
+
+412
+00:15:51,100 --> 00:15:53,880
+nicht wahre aussage an erhaltet also
+
+413
+00:15:53,880 --> 00:15:55,860
+was sie null ist gleich 95 gleich
+
+414
+00:15:55,860 --> 00:15:59,000
+eins oder drei ist gleich minus drei
+
+415
+00:15:59,000 --> 00:16:04,920
+dann habt ihr keine lösung ja also
+
+416
+00:16:04,920 --> 00:16:07,060
+die gerade liegt dann parallel zur
+
+417
+00:16:07,060 --> 00:16:09,560
+ebene und es gibt keine gemeinsamen
+
+418
+00:16:09,560 --> 00:16:14,080
+punkte so ist das zu deuten und so
+
+419
+00:16:14,080 --> 00:16:16,500
+kann man hier mit einer rechnung doch
+
+420
+00:16:16,500 --> 00:16:20,240
+recht schnell ein Ergebnis erzielen.
+
+421
+00:16:20,340 --> 00:16:21,360
+Man muss nur wissen, wie man dieses
+
+422
+00:16:21,360 --> 00:16:25,100
+deutet. Das ist ganz wichtig. Gut,
+
+423
+00:16:25,100 --> 00:16:26,300
+kommen wir zum Schluss zu der
+
+424
+00:16:26,300 --> 00:16:27,720
+Lagebeziehung zwischen zwei Ebenen.
+
+425
+00:16:27,920 --> 00:16:29,200
+Zwischen zwei Ebenen gibt es auch
+
+426
+00:16:29,200 --> 00:16:32,240
+wieder drei Lagemöglichkeiten. Einmal
+
+427
+00:16:32,240 --> 00:16:34,200
+parallel, identisch und dass die sich
+
+428
+00:16:34,200 --> 00:16:36,780
+schneiden. Wichtig ist, zwei Ebenen
+
+429
+00:16:36,780 --> 00:16:37,580
+haben miteinander keinen
+
+430
+00:16:37,580 --> 00:16:38,480
+Schnittpunkt, sondern eine
+
+431
+00:16:38,480 --> 00:16:40,260
+Schnittgerade. Wenn man zwei Ebenen
+
+432
+00:16:40,260 --> 00:16:41,280
+schneiden lässt, sieht man hier
+
+433
+00:16:41,280 --> 00:16:42,960
+unten, entsteht eine Schnittgerade.
+
+434
+00:16:42,960 --> 00:16:44,900
+Und diese Schnittgerade möchte man
+
+435
+00:16:44,900 --> 00:16:46,240
+berechnen und auch angeben können.
+
+436
+00:16:47,740 --> 00:16:49,200
+Daher werden wir das gleich mal
+
+437
+00:16:49,200 --> 00:16:50,460
+machen. Also das sind wie gesagt die
+
+438
+00:16:50,460 --> 00:16:51,600
+drei Möglichkeiten, parallel,
+
+439
+00:16:51,740 --> 00:16:54,580
+identisch oder Schnittgerade. Wir
+
+440
+00:16:54,580 --> 00:16:56,120
+behandeln jetzt gleich den Fall, dass
+
+441
+00:16:56,120 --> 00:16:58,080
+man eine Ebene in der Koordinatenform
+
+442
+00:16:58,080 --> 00:16:59,520
+und eine in der Parameterform gegeben
+
+443
+00:16:59,520 --> 00:17:02,200
+bekommt. Das ist so die schönste
+
+444
+00:17:02,200 --> 00:17:04,460
+Variante, um die Lagebeziehung zu
+
+445
+00:17:04,460 --> 00:17:06,400
+berechnen, einfach weil es mit der
+
+446
+00:17:06,400 --> 00:17:07,700
+Koordinatenform am einfachsten geht.
+
+447
+00:17:10,640 --> 00:17:12,140
+Gut, wir sehen hier oben... Oben
+
+448
+00:17:12,140 --> 00:17:14,180
+erstmal eine Ebenengleichung in
+
+449
+00:17:14,180 --> 00:17:15,640
+Parameterform und hier eine
+
+450
+00:17:15,640 --> 00:17:17,520
+Ebenengleichung in Koordinatenform.
+
+451
+00:17:18,080 --> 00:17:20,500
+Wir setzen nun einfach die Ebene, die
+
+452
+00:17:20,500 --> 00:17:23,980
+uns in der Parameterform gegeben ist,
+
+453
+00:17:23,980 --> 00:17:25,640
+in die Koordinatenform ein. Bei uns
+
+454
+00:17:25,640 --> 00:17:27,960
+ist das also, wir setzen E1 in E2
+
+455
+00:17:27,960 --> 00:17:30,140
+ein. Einfach nur E1 ist in
+
+456
+00:17:30,140 --> 00:17:32,560
+Parameterform gegeben und wir setzen
+
+457
+00:17:32,560 --> 00:17:34,720
+die Ebene, die in Parameterform
+
+458
+00:17:34,720 --> 00:17:36,740
+gegeben ist, immer in die Ebene ein,
+
+459
+00:17:36,800 --> 00:17:38,340
+die in Koordinatenform gegeben ist.
+
+460
+00:17:38,340 --> 00:17:40,480
+Auch hierbei gilt, dass hier oben ist
+
+461
+00:17:40,480 --> 00:17:43,220
+die x-Seile, das hier ist die y-Seile
+
+462
+00:17:43,220 --> 00:17:46,980
+und das ist die z-Seile. So kommen
+
+463
+00:17:46,980 --> 00:17:51,000
+wir auf 2 mal 1 plus r minus 1 mal 8r
+
+464
+00:17:51,000 --> 00:17:54,620
+plus 2s plus 3 mal 1 plus s und das
+
+465
+00:17:54,620 --> 00:17:57,560
+ist gleich 5. Und ihr seht jetzt
+
+466
+00:17:57,560 --> 00:17:59,020
+schon, wir haben hier zwei unbekannte
+
+467
+00:17:59,020 --> 00:18:01,500
+r und s und das Problem ist, wir
+
+468
+00:18:01,500 --> 00:18:02,660
+haben hier nur eine Gleichung. Das
+
+469
+00:18:02,660 --> 00:18:03,780
+heißt, eigentlich könnten wir es gar
+
+470
+00:18:03,780 --> 00:18:05,920
+nicht lösen. Wir lösen es jetzt in
+
+471
+00:18:05,920 --> 00:18:07,880
+Abhängigkeit von einer... der beiden
+
+472
+00:18:07,880 --> 00:18:09,980
+Variablen. Entweder wir stellen es
+
+473
+00:18:09,980 --> 00:18:12,260
+also nach R um oder nach S um. Das
+
+474
+00:18:12,260 --> 00:18:13,440
+ist völlig egal, wie wir es machen.
+
+475
+00:18:13,860 --> 00:18:15,300
+Wir haben uns hier dafür entschieden,
+
+476
+00:18:15,420 --> 00:18:17,980
+dass wir es nach S umstellen. Wie
+
+477
+00:18:17,980 --> 00:18:19,000
+gesagt, wir hätten es aber genauso
+
+478
+00:18:19,000 --> 00:18:22,620
+gut nach R machen können. Gut, dann
+
+479
+00:18:22,620 --> 00:18:24,000
+machen wir es jetzt wie gerade und
+
+480
+00:18:24,000 --> 00:18:25,940
+klammern als erstes aus. Also 2 mal 1
+
+481
+00:18:25,940 --> 00:18:29,620
+ist 2, 2 mal R ist 2R, minus 1 mal 8R
+
+482
+00:18:29,620 --> 00:18:32,700
+ist minus 8R, minus 1 mal S ist minus
+
+483
+00:18:32,700 --> 00:18:37,280
+S, 3 mal 1 ist 3, 3 mal S. sind 3s.
+
+484
+00:18:37,580 --> 00:18:41,040
+Wir sehen hier also 2r minus 8r sind
+
+485
+00:18:41,040 --> 00:18:46,840
+minus 6r, minus s plus 3s sind 2s und
+
+486
+00:18:46,840 --> 00:18:49,780
+2 plus 3 sind 5. Das ist gleich 5.
+
+487
+00:18:51,280 --> 00:18:53,240
+Wir wollen als erstes die 5 weghaben,
+
+488
+00:18:53,240 --> 00:18:55,160
+rechnen daher minus 5 und dann bleibt
+
+489
+00:18:55,160 --> 00:18:57,540
+nur noch übrig minus 6r plus 2s ist
+
+490
+00:18:57,540 --> 00:18:59,960
+gleich 0. Deswegen stellen wir es
+
+491
+00:18:59,960 --> 00:19:01,560
+gleich um und holen die 6r rüber.
+
+492
+00:19:01,800 --> 00:19:03,300
+Deswegen rechnen wir auch gleich plus
+
+493
+00:19:03,300 --> 00:19:09,400
+6r. erhalten wir 2s ist gleich 6r und
+
+494
+00:19:09,400 --> 00:19:11,140
+jetzt müssen wir nur noch durch zwei
+
+495
+00:19:11,140 --> 00:19:13,840
+teilen um s zu erhalten und dann
+
+496
+00:19:13,840 --> 00:19:16,760
+kommen wir auf s ist gleich 3r das
+
+497
+00:19:18,200 --> 00:19:20,100
+ist jetzt unser ergebnis und ich
+
+498
+00:19:20,100 --> 00:19:22,100
+hatte ja gerade schon gesagt wir
+
+499
+00:19:22,100 --> 00:19:23,720
+haben eine schnittgerade
+
+500
+00:19:23,720 --> 00:19:26,120
+höchstwahrscheinlich wir wissen jetzt
+
+501
+00:19:26,120 --> 00:19:27,060
+auf jeden fall dass wir eine
+
+502
+00:19:27,060 --> 00:19:28,500
+schnittgerade haben bei dem ergebnis
+
+503
+00:19:28,500 --> 00:19:29,920
+ja also immer wenn ihr sowas bekommt
+
+504
+00:19:29,920 --> 00:19:33,300
+kommt S ist gleich 3R, dann habt ihr
+
+505
+00:19:33,300 --> 00:19:36,480
+eine Schnittgerade und wir setzen nun
+
+506
+00:19:36,480 --> 00:19:39,340
+für das S 3R ein. Wir haben ja hier
+
+507
+00:19:39,340 --> 00:19:42,300
+unseren Parameter S und für diesen
+
+508
+00:19:42,300 --> 00:19:44,400
+Parameter S setzen wir jetzt 3R ein,
+
+509
+00:19:44,460 --> 00:19:46,240
+denn wir wissen ja, S ist gleich 3R
+
+510
+00:19:46,240 --> 00:19:49,320
+und so kommen wir von hier nach hier.
+
+511
+00:19:50,160 --> 00:19:54,560
+Also 1 0 1 plus R mal 1 8 0 plus 3
+
+512
+00:19:54,560 --> 00:20:00,080
+mal R mal 0 1 1. Und wir möchten
+
+513
+00:20:00,080 --> 00:20:03,420
+jetzt versuchen, aus diesen zwei
+
+514
+00:20:03,420 --> 00:20:07,120
+Vektoren einen zu machen. Damit wir
+
+515
+00:20:07,120 --> 00:20:09,300
+das machen können, müssen wir als
+
+516
+00:20:09,300 --> 00:20:11,680
+erstes mal bei beiden nur den
+
+517
+00:20:11,680 --> 00:20:13,860
+Parameter davor stehen, also bei uns
+
+518
+00:20:13,860 --> 00:20:15,960
+R. Aktuell steht hier rechts ja noch
+
+519
+00:20:15,960 --> 00:20:18,280
+3R. Daher ziehen wir die 3 in den
+
+520
+00:20:18,280 --> 00:20:19,920
+Vektor rein. Das heißt, wir müssen
+
+521
+00:20:19,920 --> 00:20:21,780
+alle Elemente im Vektor mit dem
+
+522
+00:20:21,780 --> 00:20:23,880
+Faktor 3 multiplizieren. Also 3 mal 0
+
+523
+00:20:23,880 --> 00:20:26,980
+ist 0, 3 mal 1 ist 3 und 3 mal 1 ist
+
+524
+00:20:26,980 --> 00:20:29,180
+auch hier 3. kommen wir hier unten
+
+525
+00:20:29,180 --> 00:20:31,800
+hin und wir sehen jetzt wir haben 101
+
+526
+00:20:31,800 --> 00:20:36,720
+plus r mal 180 plus r mal 033 wir
+
+527
+00:20:36,720 --> 00:20:38,280
+multiplizieren diesen vektor und
+
+528
+00:20:38,280 --> 00:20:40,240
+diesen vektor mit r also dem gleichen
+
+529
+00:20:40,240 --> 00:20:42,700
+faktor daher können wir die beiden
+
+530
+00:20:42,700 --> 00:20:45,940
+vektoren addieren also 1 plus 0 ist 1
+
+531
+00:20:45,940 --> 00:20:49,020
+8 plus 3 ist 11 und 0 plus 3 ist 3
+
+532
+00:20:49,020 --> 00:20:52,200
+und so kommen wir zu 101 plus r mal
+
+533
+00:20:52,200 --> 00:20:55,720
+113 und das ist dann auch schon
+
+534
+00:20:55,720 --> 00:20:58,700
+unsere schnittkarte So bestimmt man
+
+535
+00:20:58,700 --> 00:21:03,180
+eine Schnittgerade. Also immer wenn
+
+536
+00:21:03,180 --> 00:21:05,180
+aus der Rechnung hier ein Ergebnis
+
+537
+00:21:05,180 --> 00:21:07,080
+folgt, so was wie S ist gleich 3R
+
+538
+00:21:07,080 --> 00:21:10,840
+oder auch S ist gleich 0, habt ihr
+
+539
+00:21:10,840 --> 00:21:13,740
+eine Schnittgerade. Also die Ebenen
+
+540
+00:21:13,740 --> 00:21:17,220
+schneiden sich. Die anderen
+
+541
+00:21:17,220 --> 00:21:18,700
+Möglichkeiten sind, dass auch hier
+
+542
+00:21:18,700 --> 00:21:20,700
+wieder alle beide Parameter wegfallen
+
+543
+00:21:20,700 --> 00:21:23,940
+und eine wahre Aussage entsteht. Dann
+
+544
+00:21:23,940 --> 00:21:25,820
+sind die beiden Ebenen identisch.
+
+545
+00:21:27,500 --> 00:21:29,860
+Falls ihr eine nicht wahre Aussage
+
+546
+00:21:29,860 --> 00:21:32,080
+erhaltet oder keine Lösung, dann sind
+
+547
+00:21:32,080 --> 00:21:34,700
+die Ebenen einfach nur parallel. So
+
+548
+00:21:34,700 --> 00:21:35,960
+ist das zu deuten. Wir sehen hier
+
+549
+00:21:35,960 --> 00:21:37,640
+nochmal zwei Beispiele dazu, wie man
+
+550
+00:21:37,640 --> 00:21:40,800
+aus der Lösung die Schnittgrade
+
+551
+00:21:40,800 --> 00:21:42,720
+errechnet. Das ist nämlich oftmals
+
+552
+00:21:42,720 --> 00:21:44,220
+ein kleiner Knackpunkt. Deswegen
+
+553
+00:21:44,220 --> 00:21:45,560
+behandeln wir das nochmal hier. Wir
+
+554
+00:21:45,560 --> 00:21:47,080
+sehen jetzt hier den Fall, dass S
+
+555
+00:21:47,080 --> 00:21:49,300
+gleich 0 ist. Das heißt, wir setzen
+
+556
+00:21:49,300 --> 00:21:50,780
+hier für das S eine 0 ein und so
+
+557
+00:21:50,780 --> 00:21:52,920
+steht, wird aus aus 1, 0, 1 plus r
+
+558
+00:21:52,920 --> 00:21:56,940
+mal 1, 4, 0 plus 0 mal, das S haben
+
+559
+00:21:56,940 --> 00:21:58,080
+wir jetzt, wissen wir, S ist gleich
+
+560
+00:21:58,080 --> 00:22:00,560
+0, deswegen steht da 0 mal 0, 1, 1.
+
+561
+00:22:00,920 --> 00:22:02,680
+Das ist ein ganz einfacher Fall, dann
+
+562
+00:22:02,680 --> 00:22:04,280
+fällt das hier komplett weg, denn 0
+
+563
+00:22:04,280 --> 00:22:07,660
+mal der Vektor ist 0, deswegen lautet
+
+564
+00:22:07,660 --> 00:22:10,560
+dann die Schnittgerade 1, 0, 1 plus r
+
+565
+00:22:10,560 --> 00:22:14,260
+mal 1, 4, 0. Der Fall, der der
+
+566
+00:22:14,260 --> 00:22:15,220
+schwierigste ist, sehen wir
+
+567
+00:22:15,220 --> 00:22:16,660
+eigentlich hier rechts, in dem Fall
+
+568
+00:22:16,660 --> 00:22:20,840
+ist jetzt S gleich 2 plus r. Und das
+
+569
+00:22:20,840 --> 00:22:22,940
+setzen wir natürlich erstmal für S
+
+570
+00:22:22,940 --> 00:22:25,900
+ein und dann wird es in der Hinsicht
+
+571
+00:22:25,900 --> 00:22:27,000
+schwieriger, dass man das
+
+572
+00:22:27,000 --> 00:22:28,780
+auseinanderziehen muss. Also wir
+
+573
+00:22:28,780 --> 00:22:32,340
+haben 1, 0, 1 plus R mal 1, 4, 0 plus
+
+574
+00:22:32,340 --> 00:22:34,700
+Klammer auf 2 plus R Klammer zu mal
+
+575
+00:22:34,700 --> 00:22:39,620
+0, 1, 1. Um das Ganze, um diese
+
+576
+00:22:39,620 --> 00:22:41,440
+Klammer hier aufzulösen, müssen wir
+
+577
+00:22:41,440 --> 00:22:43,180
+den Vektor hier einmal mit 2
+
+578
+00:22:43,180 --> 00:22:44,660
+multiplizieren und einmal mit R
+
+579
+00:22:44,660 --> 00:22:47,160
+multiplizieren. Der Vektor hier mit 2
+
+580
+00:22:47,160 --> 00:22:50,140
+multipliziert ist 2 mal 0, 0, 2 mal
+
+581
+00:22:50,140 --> 00:22:54,800
+1, 2 und 2 mal 1, 2 Das hier ist der
+
+582
+00:22:54,800 --> 00:22:57,200
+Vektor hier mit der 2 multipliziert
+
+583
+00:22:57,900 --> 00:23:00,140
+Und natürlich noch der Vektor mal R
+
+584
+00:23:00,140 --> 00:23:02,480
+und so entsteht da plus R mal der
+
+585
+00:23:02,480 --> 00:23:05,000
+Vektor Sie kommen so auf, 1, 0, 1
+
+586
+00:23:05,000 --> 00:23:09,300
+plus R mal 1, 4, 0 plus 0, 2, 2 Wie
+
+587
+00:23:09,300 --> 00:23:10,680
+gesagt, das entstand dadurch, dass
+
+588
+00:23:10,680 --> 00:23:12,020
+wir mit der 2 multipliziert haben
+
+589
+00:23:12,020 --> 00:23:14,560
+Plus R mal 0, 1, 1, das durch 2 das
+
+590
+00:23:14,560 --> 00:23:17,060
+er diesen vektor hier können wir
+
+591
+00:23:17,060 --> 00:23:18,540
+jetzt direkt mit dem stützvektor
+
+592
+00:23:18,540 --> 00:23:23,140
+verrechnen also 1 plus 0 1 0 plus 2 2
+
+593
+00:23:23,140 --> 00:23:27,740
+1 plus 23 und wie wir es vorhin auch
+
+594
+00:23:27,740 --> 00:23:30,000
+gemacht haben die beiden vektoren
+
+595
+00:23:30,000 --> 00:23:32,140
+hier werden beide mit r multipliziert
+
+596
+00:23:32,140 --> 00:23:33,680
+deswegen können wir die vektoren
+
+597
+00:23:33,680 --> 00:23:38,140
+addieren also 1 plus 0 14 plus plus 1
+
+598
+00:23:38,140 --> 00:23:42,460
+ist 5 und 0 plus 1 ist 1. Folglich
+
+599
+00:23:42,460 --> 00:23:43,600
+lautet in diesem Fall die
+
+600
+00:23:43,600 --> 00:23:46,480
+Schnittgerade 1, 2, 3 plus r mal 1,
+
+601
+00:23:46,520 --> 00:23:50,120
+5, 1. Und das sind eigentlich alle
+
+602
+00:23:50,120 --> 00:23:54,540
+Fälle, die es gibt. Damit wären wir
+
+603
+00:23:54,540 --> 00:23:56,260
+auch schon am Ende des Webinars. Ich
+
+604
+00:23:56,260 --> 00:23:58,020
+bedanke mich recht herzlich für eure
+
+605
+00:23:58,020 --> 00:23:58,820
+Aufmerksamkeit.
+

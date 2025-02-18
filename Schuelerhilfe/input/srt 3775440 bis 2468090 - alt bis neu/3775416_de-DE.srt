@@ -1,0 +1,632 @@
+1
+00:00:04,460 --> 00:00:06,600
+Hallo, mein Name ist Sabrina und ich
+
+2
+00:00:06,600 --> 00:00:08,020
+bin Nachhilfelehrerin bei der
+
+3
+00:00:08,020 --> 00:00:10,320
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:10,320 --> 00:00:11,720
+einen Einblick in das Thema
+
+5
+00:00:11,720 --> 00:00:14,220
+Elektronenpaarbindung geben. In
+
+6
+00:00:14,220 --> 00:00:16,060
+unserem Online-Lerncenter steht dir
+
+7
+00:00:16,060 --> 00:00:17,860
+zu diesem Thema natürlich auch ein
+
+8
+00:00:17,860 --> 00:00:19,860
+Wiki zur Verfügung, in dem dir die
+
+9
+00:00:19,860 --> 00:00:21,260
+wichtigsten Begriffe noch einmal
+
+10
+00:00:21,260 --> 00:00:23,340
+erklärt werden. Bei einer
+
+11
+00:00:23,340 --> 00:00:25,260
+Elektronenpaarbindung nähern sich
+
+12
+00:00:25,260 --> 00:00:27,500
+Atome so weit an, dass ihre Schalen
+
+13
+00:00:27,500 --> 00:00:29,480
+leicht überlappen, sodass sie sich
+
+14
+00:00:29,480 --> 00:00:31,740
+ein Elektronenpaar, sprich zwei
+
+15
+00:00:31,740 --> 00:00:34,180
+Elektronen, teilen können. Zwischen
+
+16
+00:00:34,180 --> 00:00:36,340
+diesen beiden Atomen besteht nun eine
+
+17
+00:00:36,340 --> 00:00:39,000
+Elektronenpaar- bzw. Atombindung,
+
+18
+00:00:39,140 --> 00:00:41,280
+welche sie zu einem Molekül macht.
+
+19
+00:00:41,600 --> 00:00:43,720
+Die Atome sind fest verbunden und
+
+20
+00:00:43,720 --> 00:00:44,840
+können nur unter großer
+
+21
+00:00:44,840 --> 00:00:46,480
+Energieaufwendung wieder getrennt
+
+22
+00:00:46,480 --> 00:00:49,540
+werden. Der Grund für die Entstehung
+
+23
+00:00:49,540 --> 00:00:51,580
+einer Elektronenpaarbindung ist das
+
+24
+00:00:51,580 --> 00:00:53,160
+Streben der Elemente nach einer
+
+25
+00:00:53,160 --> 00:00:55,500
+komplett gefüllten Außenschale, wie
+
+26
+00:00:55,500 --> 00:00:57,780
+sie die Edelgase, die Elemente der
+
+27
+00:00:57,780 --> 00:01:00,580
+achten Hauptgruppe, aufweisen. Dieses
+
+28
+00:01:00,580 --> 00:01:03,220
+Streben treibt die Atome dazu, sich
+
+29
+00:01:03,220 --> 00:01:05,600
+mit anderen zu verbinden. Mit einer
+
+30
+00:01:05,600 --> 00:01:07,360
+vollen Außenschale sind die Teilchen
+
+31
+00:01:07,360 --> 00:01:10,020
+energetisch sehr stabil, weshalb sie
+
+32
+00:01:10,020 --> 00:01:11,560
+Verbindungen eingehen, um diesen
+
+33
+00:01:11,560 --> 00:01:14,060
+Zustand zu erreichen. Die einzigen
+
+34
+00:01:14,060 --> 00:01:16,120
+Elemente, die nicht nach Verbindungen
+
+35
+00:01:16,120 --> 00:01:17,820
+streben und deshalb extrem
+
+36
+00:01:17,820 --> 00:01:20,100
+reaktionsträge sind, sind die
+
+37
+00:01:20,100 --> 00:01:22,560
+Edelgase selbst. Sie haben von Natur
+
+38
+00:01:22,560 --> 00:01:25,380
+aus die volle Außenschale. Wenn du
+
+39
+00:01:25,380 --> 00:01:27,520
+mit der Edelgaskonfiguration nicht
+
+40
+00:01:27,520 --> 00:01:29,580
+vertraut sein solltest, haben wir
+
+41
+00:01:29,580 --> 00:01:32,500
+dazu auch ein erklärendes Video. Wie
+
+42
+00:01:32,500 --> 00:01:34,740
+viele Außenelektronen ein Atom trägt
+
+43
+00:01:34,740 --> 00:01:36,400
+und wie viele Elektronen diesen zur
+
+44
+00:01:36,400 --> 00:01:38,520
+vollen Außenschale fehlen, kann man
+
+45
+00:01:38,520 --> 00:01:42,000
+im Periodensystem, kurz PSE, ablesen.
+
+46
+00:01:42,400 --> 00:01:44,520
+Die Hauptgruppennummer entspricht der
+
+47
+00:01:44,520 --> 00:01:47,080
+Außenelektronenanzahl mit Ausnahme
+
+48
+00:01:47,080 --> 00:01:50,120
+von Helium, das nicht 8, sondern 2
+
+49
+00:01:50,120 --> 00:01:52,800
+Elektronen trägt. Die Hauptgruppen
+
+50
+00:01:52,800 --> 00:01:55,280
+sind die Spalten des PSE, die auch
+
+51
+00:01:55,280 --> 00:01:57,980
+bereits von 1 bis 8 durchnummeriert
+
+52
+00:01:57,980 --> 00:02:00,780
+sind. Befindet sich ein Element in
+
+53
+00:02:00,780 --> 00:02:03,280
+der 5. Hauptgruppe, so hat es 5
+
+54
+00:02:03,280 --> 00:02:05,480
+Außenelektronen und es fehlen ihm
+
+55
+00:02:05,480 --> 00:02:07,280
+weitere 3 Elektronen zur
+
+56
+00:02:07,280 --> 00:02:10,180
+Edelgaskonfiguration. Sehen wir uns
+
+57
+00:02:10,180 --> 00:02:12,380
+dazu das einfachste Beispiel, ein
+
+58
+00:02:12,380 --> 00:02:15,000
+Wasserstoffmolekül, an, welches aus 2
+
+59
+00:02:15,000 --> 00:02:17,100
+zwei Wasserstoffatomen aufgebaut ist,
+
+60
+00:02:17,260 --> 00:02:19,480
+die sich ein Elektronenpaar teilen.
+
+61
+00:02:19,640 --> 00:02:21,360
+So erreicht Wasserstoff die
+
+62
+00:02:21,360 --> 00:02:23,560
+Elektronenkonfiguration des Edelgases
+
+63
+00:02:23,560 --> 00:02:25,040
+Helium. Um die
+
+64
+00:02:25,040 --> 00:02:27,400
+Elektronenpaarbindungen darzustellen,
+
+65
+00:02:27,460 --> 00:02:29,280
+nutzen wir hier die Lewis- bzw.
+
+66
+00:02:29,920 --> 00:02:32,440
+Valenz-Strichschreibweise. Auch zu
+
+67
+00:02:32,440 --> 00:02:33,960
+dieser Schreibweise gibt es ein
+
+68
+00:02:33,960 --> 00:02:36,220
+separates kurzes Video, das diese
+
+69
+00:02:36,220 --> 00:02:38,620
+erläutert. Will nun ein
+
+70
+00:02:38,620 --> 00:02:39,680
+Sauerstoffatom die
+
+71
+00:02:39,680 --> 00:02:41,280
+Edelgaskonfiguration erreichen,
+
+72
+00:02:41,280 --> 00:02:42,720
+reichen, indem es sich mit einem
+
+73
+00:02:42,720 --> 00:02:44,340
+anderen Atom seines Elementes
+
+74
+00:02:44,340 --> 00:02:46,700
+verbindet, so muss es zu diesen zwei
+
+75
+00:02:46,700 --> 00:02:49,140
+Elektronenpaarbindungen aufbauen, um
+
+76
+00:02:49,140 --> 00:02:50,680
+die Konfiguration von Neon zu
+
+77
+00:02:50,680 --> 00:02:52,380
+erhalten. Diese beiden
+
+78
+00:02:52,380 --> 00:02:54,260
+Elektronenpaarbindungen zwischen zwei
+
+79
+00:02:54,260 --> 00:02:56,020
+Atomen werden Doppelbindungen
+
+80
+00:02:56,020 --> 00:02:58,100
+genannt. Aber auch sogenannte
+
+81
+00:02:58,100 --> 00:02:59,760
+Dreifachbindungen sind zwischen zwei
+
+82
+00:02:59,760 --> 00:03:01,840
+Atomen möglich, wie man am Beispiel
+
+83
+00:03:01,840 --> 00:03:04,660
+des Stickstoffmoleküls erkennt. An
+
+84
+00:03:04,660 --> 00:03:06,860
+jedem Stickstoffatom fehlen drei
+
+85
+00:03:06,860 --> 00:03:08,180
+Elektronen zur zur vollen
+
+86
+00:03:08,180 --> 00:03:10,400
+Außenschale, weswegen dieses mit dem
+
+87
+00:03:10,400 --> 00:03:12,420
+jeweils anderen Stickstoffatom drei
+
+88
+00:03:12,420 --> 00:03:14,100
+Elektronenpaarbindungen aufbaut.
+
+89
+00:03:14,300 --> 00:03:16,580
+Beide erreichen die Konfiguration von
+
+90
+00:03:16,580 --> 00:03:19,660
+Neon. Es lässt sich erkennen, dass
+
+91
+00:03:19,660 --> 00:03:21,640
+zwischen zwei Atomen des gleichen
+
+92
+00:03:21,640 --> 00:03:22,980
+Elements so viele
+
+93
+00:03:22,980 --> 00:03:24,620
+Elektronenpaarbindungen aufgebaut
+
+94
+00:03:24,620 --> 00:03:27,460
+werden, wie jedem Atom Elektronen zur
+
+95
+00:03:27,460 --> 00:03:29,420
+Erreichung der Edelgaskonfiguration
+
+96
+00:03:29,420 --> 00:03:32,040
+fehlen. Mehr als eine Dreifachbindung
+
+97
+00:03:32,040 --> 00:03:33,580
+kann jedoch nicht zwischen zwei
+
+98
+00:03:33,580 --> 00:03:35,540
+Atomen aufgebaut werden, was
+
+99
+00:03:35,540 --> 00:03:37,700
+bedeutet, dass Atome, denen mehr als
+
+100
+00:03:37,700 --> 00:03:38,740
+drei Elektronen zur
+
+101
+00:03:38,740 --> 00:03:40,660
+Edelgaskonfiguration fehlen,
+
+102
+00:03:41,700 --> 00:03:43,360
+Elektronenpaarbindungen mit mehr als
+
+103
+00:03:43,360 --> 00:03:45,540
+einem weiteren Atom eingehen müssen.
+
+104
+00:03:45,980 --> 00:03:48,160
+Dies können wir uns am Beispiel des
+
+105
+00:03:48,160 --> 00:03:50,520
+Kohlenstoffs ansehen. Kohlenstoff
+
+106
+00:03:50,520 --> 00:03:52,380
+muss vier Elektronenpaarbindungen
+
+107
+00:03:52,380 --> 00:03:54,220
+eingehen. Dies können vier
+
+108
+00:03:54,220 --> 00:03:55,680
+Einfachbindungen, zwei
+
+109
+00:03:55,680 --> 00:03:57,860
+Doppelbindungen oder auch eine
+
+110
+00:03:57,860 --> 00:03:59,640
+Einfach- und eine Dreifachbindung
+
+111
+00:03:59,640 --> 00:04:01,860
+sein. sein. Mithilfe von
+
+112
+00:04:01,860 --> 00:04:03,780
+Elektronenpaarbindungen können auch
+
+113
+00:04:03,780 --> 00:04:06,240
+langkettige oder komplexe Moleküle
+
+114
+00:04:06,240 --> 00:04:08,740
+aufgebaut werden. Zu beachten ist
+
+115
+00:04:08,740 --> 00:04:10,120
+stets die Erreichung der
+
+116
+00:04:10,120 --> 00:04:12,960
+Edelgaskonfiguration. Meist wird hier
+
+117
+00:04:12,960 --> 00:04:15,140
+die Oktettregel angebracht, die
+
+118
+00:04:15,140 --> 00:04:17,480
+ausdrückt, dass ein Atom nach 8
+
+119
+00:04:17,480 --> 00:04:19,700
+Außenelektronen verlangt. Natürlich
+
+120
+00:04:19,700 --> 00:04:21,560
+mit Ausnahme von Wasserstoff und
+
+121
+00:04:21,560 --> 00:04:24,420
+Helium, die maximal 2 Außenelektronen
+
+122
+00:04:24,420 --> 00:04:27,080
+tragen können. Wenn man nun die
+
+123
+00:04:27,080 --> 00:04:29,040
+Elemente der ersten drei Hauptgruppen
+
+124
+00:04:29,040 --> 00:04:30,320
+mit Ausnahme von Wasserstoff
+
+125
+00:04:30,320 --> 00:04:32,500
+betrachtet, wird einem klar, dass
+
+126
+00:04:32,500 --> 00:04:34,620
+diese durch Elektronenpaarbindungen
+
+127
+00:04:34,620 --> 00:04:36,760
+die Edelgaskonfiguration nicht
+
+128
+00:04:36,760 --> 00:04:39,140
+erreichen können, da ein Teilchen zum
+
+129
+00:04:39,140 --> 00:04:40,180
+Aufbau von vier
+
+130
+00:04:40,180 --> 00:04:41,780
+Elektronenpaarbindungen bzw.
+
+131
+00:04:42,920 --> 00:04:44,460
+Elektronenpaaren auch selbst
+
+132
+00:04:44,460 --> 00:04:46,560
+mindestens vier Außenelektronen
+
+133
+00:04:46,560 --> 00:04:48,700
+tragen muss. Dies trifft auf die
+
+134
+00:04:48,700 --> 00:04:50,660
+Elemente der ersten drei Hauptgruppen
+
+135
+00:04:50,660 --> 00:04:52,700
+nicht zu, weswegen die Atome dieser
+
+136
+00:04:52,700 --> 00:04:54,200
+Elemente selten
+
+137
+00:04:54,200 --> 00:04:56,420
+Elektronenpaarbindungen eingehen und
+
+138
+00:04:56,420 --> 00:04:58,600
+stattdessen Ionenbindungen aufbauen.
+
+139
+00:04:58,880 --> 00:05:00,860
+Bei diesen Bindungen fungieren die
+
+140
+00:05:00,860 --> 00:05:03,560
+außenelektronenarmen Atome als
+
+141
+00:05:03,560 --> 00:05:06,320
+Elektronendonatoren und geben alle
+
+142
+00:05:06,320 --> 00:05:09,540
+ihre Außenelektronen, 1 bis 3, an
+
+143
+00:05:09,540 --> 00:05:11,620
+Akzeptoren ab, sodass sie die
+
+144
+00:05:11,620 --> 00:05:14,160
+Edelgaskonfiguration des Edelgases
+
+145
+00:05:14,160 --> 00:05:16,340
+der nächstkleineren Periode
+
+146
+00:05:16,340 --> 00:05:18,700
+erreichen. erreichen. Im PSE sind die
+
+147
+00:05:18,700 --> 00:05:21,100
+Perioden die Zeilen, hier nummeriert
+
+148
+00:05:21,100 --> 00:05:24,480
+von 1 bis 7. Zum Thema Ionen und
+
+149
+00:05:24,480 --> 00:05:26,220
+Ionenbindung findest du auch noch
+
+150
+00:05:26,220 --> 00:05:28,000
+weitere Videos in unserem Online
+
+151
+00:05:28,000 --> 00:05:30,820
+-Lerncenter. Ich hoffe, ich konnte
+
+152
+00:05:30,820 --> 00:05:32,200
+dir näher bringen, was
+
+153
+00:05:32,200 --> 00:05:34,080
+Elektronenpaarbindungen sind und
+
+154
+00:05:34,080 --> 00:05:36,020
+welchem Zweck sie dienen. Wenn du
+
+155
+00:05:36,020 --> 00:05:37,580
+noch Fragen zu diesem oder anderen
+
+156
+00:05:37,580 --> 00:05:39,580
+Themen hast, wende dich gerne an
+
+157
+00:05:39,580 --> 00:05:41,680
+deine Schülerhilfe vor Ort. Bis zum
+
+158
+00:05:41,680 --> 00:05:42,240
+nächsten Mal!
+

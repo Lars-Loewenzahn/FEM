@@ -1,0 +1,519 @@
+﻿1
+00:00:00,500 --> 00:00:01,920
+Hello and welcome to the 
+
+2
+00:00:01,920 --> 00:00:03,980
+Schülerhilfe learning video. This video is 
+
+3
+00:00:03,980 --> 00:00:05,160
+about the so-called 
+
+4
+00:00:05,160 --> 00:00:06,900
+combinatorial counting methods 
+
+5
+00:00:06,900 --> 00:00:08,520
+. In particular, the 
+
+6
+00:00:08,520 --> 00:00:10,900
+unordered random sample. There is also 
+
+7
+00:00:10,900 --> 00:00:12,120
+a video on ordered 
+
+8
+00:00:12,120 --> 00:00:14,260
+random sampling. What is an 
+
+9
+00:00:14,260 --> 00:00:16,740
+unordered sample anyway ? It means 
+
+10
+00:00:16,880 --> 00:00:18,660
+that the order 
+
+11
+00:00:18,660 --> 00:00:20,800
+is not important. In other words, 
+unordered sampling 
+
+12
+00:00:20,800 --> 00:00:23,400
+is the same as disregarding the 
+
+13
+00:00:23,400 --> 00:00:25,680
+order. But there are also 
+
+14
+00:00:25,680 --> 00:00:28,440
+two sub-points. 
+
+15
+00:00:28,440 --> 00:00:31,260
+One can be 
+
+16
+00:00:31,260 --> 00:00:33,100
+seen as drawing with putting back, the 
+other as 
+
+17
+00:00:33,100 --> 00:00:35,940
+drawing without putting back. 
+
+18
+00:00:35,940 --> 00:00:37,160
+This is a so-called 
+
+19
+00:00:37,160 --> 00:00:39,200
+Ohnen model. And drawing with 
+
+20
+00:00:39,200 --> 00:00:41,200
+putting back means that the number 
+
+21
+00:00:41,200 --> 00:00:42,880
+of choices always 
+
+22
+00:00:42,880 --> 00:00:43,840
+remains the same and therefore the 
+
+23
+00:00:43,840 --> 00:00:45,940
+probabilities also remain the same. And 
+when drawing 
+
+24
+00:00:45,940 --> 00:00:48,320
+without putting back, the balls remain 
+
+25
+00:00:48,320 --> 00:00:50,000
+outside and so 
+
+26
+00:00:50,000 --> 00:00:51,860
+the number of 
+
+27
+00:00:51,860 --> 00:00:53,560
+choices changes with every move, and 
+therefore also 
+
+28
+00:00:53,560 --> 00:00:56,220
+the probabilities . Drawing 
+
+29
+00:00:56,220 --> 00:00:57,480
+without putting the ball back with an 
+
+30
+00:00:57,480 --> 00:00:59,460
+unordered random sample is 
+
+31
+00:00:59,460 --> 00:01:01,720
+also known as the lottery model. 
+
+32
+00:01:01,720 --> 00:01:03,660
+However, there is also a separate 
+
+33
+00:01:03,660 --> 00:01:06,180
+video on this. In this video, we want to 
+look 
+
+34
+00:01:06,180 --> 00:01:09,000
+at drawing with a reserve for 
+
+35
+00:01:09,000 --> 00:01:10,140
+unordered samples 
+
+36
+00:01:10,140 --> 00:01:12,140
+. Let's start with an 
+
+37
+00:01:12,140 --> 00:01:14,440
+example. Let's imagine the following 
+
+38
+00:01:14,440 --> 00:01:16,440
+question. How many 
+
+39
+00:01:16,440 --> 00:01:18,380
+ways are there to 
+
+40
+00:01:18,380 --> 00:01:20,640
+
+41
+00:01:20,640 --> 00:01:22,580
+put together five pieces of cake from 
+three types? Here we see 
+
+42
+00:01:22,580 --> 00:01:24,260
+three different flavors, chocolate, 
+
+43
+00:01:24,440 --> 00:01:27,620
+lemon and strawberry. Now 
+
+44
+00:01:27,620 --> 00:01:29,040
+we want to take five pieces of cake from 
+them. 
+
+45
+00:01:29,660 --> 00:01:31,600
+Let's imagine, for example, that 
+
+46
+00:01:31,620 --> 00:01:33,060
+we take two chocolate, 
+
+47
+00:01:33,280 --> 00:01:36,360
+two lemon and one strawberry. 
+
+48
+00:01:37,440 --> 00:01:39,120
+Now we can also start from the right 
+
+49
+00:01:39,120 --> 00:01:41,180
+and say, one strawberry, 
+
+50
+00:01:41,220 --> 00:01:43,660
+two lemons and two 
+
+51
+00:01:43,660 --> 00:01:47,040
+chocolates. We immediately see that 
+
+52
+00:01:47,040 --> 00:01:48,640
+this is exactly the same selection, 
+
+53
+00:01:48,720 --> 00:01:49,920
+even though we 
+
+54
+00:01:49,920 --> 00:01:51,820
+have set it up differently . This means 
+that 
+
+55
+00:01:51,900 --> 00:01:53,820
+they have the same meaning and so 
+
+56
+00:01:53,820 --> 00:01:56,620
+we know that it 
+
+57
+00:01:56,620 --> 00:01:58,120
+is the same without having to consider the 
+order, as it is 
+
+58
+00:01:58,120 --> 00:02:02,250
+the same twice. 
+
+59
+00:02:02,250 --> 00:02:03,710
+But now we can also say again why it 
+
+60
+00:02:03,710 --> 00:02:05,550
+is pulling with putting back. We 
+
+61
+00:02:05,550 --> 00:02:06,790
+can also imagine that I 
+
+62
+00:02:06,790 --> 00:02:09,510
+could also 
+
+63
+00:02:09,510 --> 00:02:12,190
+take five chocolates . In other words, 
+there are so many 
+
+64
+00:02:12,190 --> 00:02:14,710
+pieces of chocolate that it can be 
+
+65
+00:02:14,710 --> 00:02:16,170
+
+66
+00:02:16,170 --> 00:02:17,510
+made up entirely of chocolate. 
+
+67
+00:02:17,510 --> 00:02:18,990
+That means I always have so many 
+
+68
+00:02:18,990 --> 00:02:20,870
+pieces of cake, I can always 
+
+69
+00:02:20,870 --> 00:02:22,890
+choose all the pieces. That's why 
+
+70
+00:02:22,890 --> 00:02:24,610
+the drag and drop works. 
+
+71
+00:02:24,610 --> 00:02:25,870
+The number of 
+
+72
+00:02:25,870 --> 00:02:27,590
+choices does not change, so I can 
+
+73
+00:02:27,590 --> 00:02:30,970
+choose as many as I like. To 
+
+74
+00:02:30,970 --> 00:02:33,570
+calculate this task, there is a 
+
+75
+00:02:33,570 --> 00:02:36,070
+term, which you can see here. n plus k 
+
+76
+00:02:36,070 --> 00:02:38,870
+minus 1 over k. This is the 
+
+77
+00:02:38,870 --> 00:02:41,630
+so-called binomial coefficient. 
+
+78
+00:02:41,630 --> 00:02:43,790
+There is also another video about this. 
+
+79
+00:02:43,790 --> 00:02:45,670
+But now we first have to be clear 
+
+80
+00:02:45,670 --> 00:02:47,010
+about what n is and what 
+
+81
+00:02:47,010 --> 00:02:49,650
+k is . n is the number of 
+
+82
+00:02:49,650 --> 00:02:51,810
+possible choices. 
+
+83
+00:02:51,810 --> 00:02:54,450
+We have three different types of these. So 
+
+84
+00:02:54,450 --> 00:02:55,070
+n is 3. 
+
+85
+00:02:57,930 --> 00:03:01,190
+k is the number of moves or 
+
+86
+00:03:01,190 --> 00:03:03,850
+draws. And we want to 
+
+87
+00:03:03,850 --> 00:03:06,870
+draw 5 pieces of cake. So k is 
+
+88
+00:03:06,870 --> 00:03:10,110
+5. If we put that in, 
+
+89
+00:03:10,230 --> 00:03:17,450
+we get 3 plus 5 minus 1 
+
+90
+00:03:17,450 --> 00:03:24,010
+and the whole thing over 5. If we 
+
+91
+00:03:24,010 --> 00:03:28,290
+work it out, 3 plus 5 is 8, minus 1 
+
+92
+00:03:28,290 --> 00:03:29,790
+is 7, then we get the 
+
+93
+00:03:29,790 --> 00:03:34,650
+binomial coefficient 7 over 5. 
+
+94
+00:03:34,650 --> 00:03:35,530
+I have already 
+
+95
+00:03:35,530 --> 00:03:38,230
+prepared this for you here . and here 
+above 
+
+96
+00:03:38,230 --> 00:03:40,190
+again as a reminder, n over k is 
+
+97
+00:03:40,190 --> 00:03:42,130
+n factorial divided by k factorial 
+
+98
+00:03:42,130 --> 00:03:43,910
+times the difference of the two and 
+
+99
+00:03:43,910 --> 00:03:46,810
+from this the factorial. That is, 
+
+100
+00:03:46,810 --> 00:03:48,790
+7 factorial at the top and the product of 
+
+101
+00:03:48,790 --> 00:03:51,830
+2 factorial times 5 factorial at the 
+bottom. If you 
+
+102
+00:03:51,830 --> 00:03:53,410
+have written this out, you can 
+
+103
+00:03:53,410 --> 00:03:56,710
+immediately see that you 
+
+104
+00:03:56,710 --> 00:03:59,150
+can shorten a lot of digits at the top and 
+bottom. 
+
+105
+00:03:59,150 --> 00:04:01,410
+Here I shorten the 2 with the 
+
+106
+00:04:01,410 --> 00:04:07,250
+6 again and I get the solution 7 times 3, 
+
+107
+00:04:07,430 --> 00:04:13,290
+i.e. 21 possibilities. Let's 
+
+108
+00:04:13,290 --> 00:04:15,510
+briefly summarize the whole thing again. 
+
+109
+00:04:15,510 --> 00:04:16,550
+This video was about the 
+
+110
+00:04:16,550 --> 00:04:18,350
+so-called unordered random sample. 
+
+111
+00:04:18,780 --> 00:04:20,510
+This means that the order 
+
+112
+00:04:20,510 --> 00:04:23,270
+is not important. 
+
+113
+00:04:23,270 --> 00:04:25,250
+There are two sub-items, one is drawing 
+
+114
+00:04:25,250 --> 00:04:27,670
+with putting back and the other is drawing 
+
+115
+00:04:27,670 --> 00:04:30,270
+without putting back. 
+
+116
+00:04:30,270 --> 00:04:32,590
+We can calculate the draw with a reserve 
+with this 
+
+117
+00:04:32,590 --> 00:04:37,110
+term n plus k minus 1 over k, where n 
+
+118
+00:04:37,110 --> 00:04:39,170
+is the number of choices 
+
+119
+00:04:39,170 --> 00:04:41,250
+and k is the number of moves or 
+
+120
+00:04:41,370 --> 00:04:43,550
+draws. The draw without 
+
+121
+00:04:43,550 --> 00:04:45,590
+putting back is calculated with the 
+
+122
+00:04:45,590 --> 00:04:47,970
+binomial coefficient n over k and 
+
+123
+00:04:47,970 --> 00:04:49,730
+this is the so-called lotto model 
+
+124
+00:04:50,510 --> 00:04:52,350
+. 
+
+125
+00:04:54,110 --> 00:04:55,030
+Thank you for your 
+
+126
+00:04:55,030 --> 00:04:56,570
+attention and I look forward to the 
+
+127
+00:04:56,570 --> 00:04:56,850
+next time. 

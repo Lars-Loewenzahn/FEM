@@ -1,0 +1,864 @@
+1
+00:00:00,500 --> 00:00:03,060
+Herzlich willkommen zum Webinar der
+
+2
+00:00:03,060 --> 00:00:05,520
+Schülerhilfe mit dem Thema Reported
+
+3
+00:00:05,520 --> 00:00:10,320
+Speech. Wir werden heute einmal
+
+4
+00:00:10,320 --> 00:00:12,800
+durchgehen, wie wir die indirekte
+
+5
+00:00:12,800 --> 00:00:16,840
+Rede im Englischen anwenden, wie sie
+
+6
+00:00:16,840 --> 00:00:20,560
+gebildet wird, wie wir damit umgehen,
+
+7
+00:00:20,700 --> 00:00:23,880
+wenn das Reporting Verb im Präsent
+
+8
+00:00:23,880 --> 00:00:27,420
+und in der Vergangenheit genutzt
+
+9
+00:00:27,420 --> 00:00:29,960
+wird. Dazu schauen wir uns dann auch
+
+10
+00:00:29,960 --> 00:00:32,380
+einmal den sogenannten Backshift of
+
+11
+00:00:32,380 --> 00:00:35,980
+Tenses an. Und zuletzt betrachten wir
+
+12
+00:00:35,980 --> 00:00:39,400
+einmal, wie sich Pronomen, Ort und
+
+13
+00:00:39,400 --> 00:00:43,700
+Zeitangaben verändern in der Reported
+
+14
+00:00:43,700 --> 00:00:46,540
+Speech. Beginnen wollen wir aber mit
+
+15
+00:00:46,540 --> 00:00:50,340
+der Anwendung. Was ist Reported
+
+16
+00:00:50,340 --> 00:00:54,780
+Speech? Es geht darum, dass das, was
+
+17
+00:00:54,780 --> 00:00:56,400
+jemand anderes gesagt hat,
+
+18
+00:00:56,680 --> 00:00:58,440
+wiedergegeben wird. Wir sehen das
+
+19
+00:00:58,440 --> 00:01:01,520
+hier gut in einem Beispiel. Wir haben
+
+20
+00:01:01,520 --> 00:01:03,800
+zwei Personen, ein Junge und ein
+
+21
+00:01:03,800 --> 00:01:05,400
+Mädchen, die miteinander sprechen.
+
+22
+00:01:05,620 --> 00:01:08,800
+Das Mädchen sagt, ich habe Julia
+
+23
+00:01:08,800 --> 00:01:12,220
+gestern gesehen und am nächsten Tag
+
+24
+00:01:12,220 --> 00:01:15,180
+erzählt der Junge einem anderen
+
+25
+00:01:15,180 --> 00:01:19,040
+Mädchen, dass das Das Mädchen sagt,
+
+26
+00:01:19,400 --> 00:01:23,980
+sie hat Julia gestern gesehen. Und
+
+27
+00:01:23,980 --> 00:01:28,000
+dieses Mädchen sagt, sie hat Julia
+
+28
+00:01:28,000 --> 00:01:30,680
+gestern gesehen. Hierbei sprechen wir
+
+29
+00:01:30,680 --> 00:01:32,460
+von indirekter Rede oder im
+
+30
+00:01:32,460 --> 00:01:36,800
+Englischen von reported speech. So,
+
+31
+00:01:36,820 --> 00:01:38,480
+wie wird die reported speech im
+
+32
+00:01:38,480 --> 00:01:41,160
+Englischen gebildet? Sie wird immer
+
+33
+00:01:41,160 --> 00:01:44,480
+eingeleitet durch einen Begleitsatz
+
+34
+00:01:44,480 --> 00:01:47,600
+mit einem reporting verb. und einer
+
+35
+00:01:47,600 --> 00:01:50,760
+Conjunction. In einem Aussagesatz
+
+36
+00:01:50,760 --> 00:01:54,020
+wäre das beispielsweise Mark says
+
+37
+00:01:54,020 --> 00:01:57,300
+that he had a dog when he was little.
+
+38
+00:01:58,130 --> 00:02:01,080
+Unser Reporting Verb ist in dem Fall
+
+39
+00:02:01,080 --> 00:02:03,780
+says. Dadurch wird die Reported
+
+40
+00:02:03,780 --> 00:02:06,140
+Speech eingeleitet. Unsere
+
+41
+00:02:06,140 --> 00:02:10,480
+Conjunction ist that. Hierbei müssen
+
+42
+00:02:10,480 --> 00:02:13,840
+wir beachten, that als Conjunction
+
+43
+00:02:13,840 --> 00:02:16,060
+kann auch weggelassen werden. In
+
+44
+00:02:16,060 --> 00:02:17,480
+diesem Fall hätten wir nur das
+
+45
+00:02:17,480 --> 00:02:18,320
+Reporting Verb.
+
+46
+00:02:21,690 --> 00:02:25,410
+Wenn wir Fragesätze ohne Fragewort in
+
+47
+00:02:25,410 --> 00:02:27,070
+der indirekten Rede darstellen
+
+48
+00:02:27,070 --> 00:02:29,210
+wollen, benutzen wir dazu
+
+49
+00:02:29,210 --> 00:02:33,950
+beispielsweise asked, also fragte als
+
+50
+00:02:33,950 --> 00:02:36,770
+Reporting Verb und als Conjunction
+
+51
+00:02:36,770 --> 00:02:42,970
+if. Also Jane asked if I wanted to go
+
+52
+00:02:42,970 --> 00:02:47,120
+to the cinema with her. Wenn wir
+
+53
+00:02:47,120 --> 00:02:49,820
+Fragesätze mit Fragewort haben,
+
+54
+00:02:50,000 --> 00:02:53,700
+nehmen wir als Conjunction das
+
+55
+00:02:53,700 --> 00:02:56,240
+Fragewort. Also zum Beispiel what.
+
+56
+00:02:56,480 --> 00:02:59,660
+Wie in unserem Beispiel Steve wanted
+
+57
+00:02:59,660 --> 00:03:03,020
+to know what we had planned for New
+
+58
+00:03:03,020 --> 00:03:03,860
+Year's Eve.
+
+59
+00:03:06,760 --> 00:03:09,420
+Das Reported Verb ist in dem Fall
+
+60
+00:03:09,420 --> 00:03:12,080
+wanted to know, könnte aber natürlich
+
+61
+00:03:12,080 --> 00:03:15,400
+zum Beispiel auch asked sein. Also
+
+62
+00:03:15,400 --> 00:03:18,860
+Steve asked what. Wenn
+
+63
+00:03:24,270 --> 00:03:29,030
+das Reporting Verb im Präsens steht,
+
+64
+00:03:29,290 --> 00:03:31,930
+bleibt die Zeit der wörtlichen Rede
+
+65
+00:03:31,930 --> 00:03:35,050
+in der indirekten Rede unverändert.
+
+66
+00:03:35,250 --> 00:03:40,870
+Also als Beispiel, Julia, I am
+
+67
+00:03:40,870 --> 00:03:45,690
+hungry. Unser Verb ist am im Präsens.
+
+68
+00:03:45,690 --> 00:03:49,030
+In der indirekten Rede sieht es dann
+
+69
+00:03:49,030 --> 00:03:53,270
+so aus. Julia says, unser Reporting
+
+70
+00:03:53,270 --> 00:03:55,970
+-Verb ist also im Präsens, that she
+
+71
+00:03:55,970 --> 00:04:00,130
+is hungry. Da das Reporting-Verb im
+
+72
+00:04:00,130 --> 00:04:03,130
+Präsens steht, bleibt die Zeit der
+
+73
+00:04:03,130 --> 00:04:05,550
+wörtlichen Rede unverändert. Es
+
+74
+00:04:05,550 --> 00:04:07,530
+bleibt also beides im Simple Present.
+
+75
+00:04:08,550 --> 00:04:11,170
+Genau das gleiche gilt auch, wenn in
+
+76
+00:04:11,170 --> 00:04:13,570
+der wörtlichen Rede das Simple Past
+
+77
+00:04:13,570 --> 00:04:20,830
+verwendet wird. Mario says
+
+78
+00:04:22,330 --> 00:04:27,010
+he ordered pizza last night. Says ist
+
+79
+00:04:27,010 --> 00:04:29,230
+im Präsens, also das Reporting Verb
+
+80
+00:04:29,230 --> 00:04:33,710
+ist im Präsens. Das heißt, das Verb
+
+81
+00:04:33,710 --> 00:04:35,750
+der wörtlichen Rede bleibt in der
+
+82
+00:04:35,750 --> 00:04:38,830
+indirekten Rede unverändert. Wie
+
+83
+00:04:41,230 --> 00:04:43,750
+sieht es nun aus, wenn das Reporting
+
+84
+00:04:43,750 --> 00:04:46,870
+Verb in der Vergangenheit steht? Dann
+
+85
+00:04:46,870 --> 00:04:48,850
+verwenden wir den sogenannten
+
+86
+00:04:48,850 --> 00:04:52,190
+Backshift of Tenses. Wenn das
+
+87
+00:04:52,190 --> 00:04:54,250
+Reporting Verb in der Vergangenheit
+
+88
+00:04:54,250 --> 00:04:56,670
+steht, also zum Beispiel im Simple
+
+89
+00:04:56,670 --> 00:04:59,830
+Past oder im Past Perfect, verändern
+
+90
+00:04:59,830 --> 00:05:02,870
+sich die Zeiten der Verben von der
+
+91
+00:05:02,870 --> 00:05:06,810
+direkten in die indirekte Rede. Dann
+
+92
+00:05:06,810 --> 00:05:10,570
+wird aus Simple Present, Simple Past,
+
+93
+00:05:10,730 --> 00:05:13,250
+aus Present Perfect wird Past
+
+94
+00:05:13,250 --> 00:05:15,730
+Perfect, aus Simple simple past wird
+
+95
+00:05:15,730 --> 00:05:18,410
+ebenfalls past perfect und past
+
+96
+00:05:18,410 --> 00:05:22,830
+perfect bleibt past perfect. Aus be
+
+97
+00:05:22,830 --> 00:05:27,450
+going to und dem Infinitiv wird was
+
+98
+00:05:27,450 --> 00:05:31,390
+oder were going to und dem Infinitiv
+
+99
+00:05:31,390 --> 00:05:35,370
+und aus will mit Infinitiv wird would
+
+100
+00:05:35,370 --> 00:05:39,810
+mit Infinitiv. Wir haben dafür einmal
+
+101
+00:05:39,810 --> 00:05:41,750
+einige Beispiele vorbereitet.
+
+102
+00:05:41,750 --> 00:05:44,990
+Zunächst der Backshift von Simple
+
+103
+00:05:44,990 --> 00:05:49,170
+Present to Simple Past. Wir haben die
+
+104
+00:05:49,170 --> 00:05:53,330
+Aussage Jake, I like Basketball. Also
+
+105
+00:05:53,330 --> 00:05:57,070
+like im Simple Present. In der
+
+106
+00:05:57,070 --> 00:05:59,390
+indirekten Rede oder Reported Speech
+
+107
+00:05:59,390 --> 00:06:03,170
+heißt es dann Jake said he liked
+
+108
+00:06:03,170 --> 00:06:06,610
+Basketball. Said ist das Reporting
+
+109
+00:06:06,610 --> 00:06:09,650
+Verb, befindet sich im Simple Past.
+
+110
+00:06:09,650 --> 00:06:11,250
+Das heißt, hier wenden wir den
+
+111
+00:06:11,250 --> 00:06:14,810
+Backshift an und machen aus Like,
+
+112
+00:06:14,870 --> 00:06:19,630
+Liked. Also, Jake said he liked
+
+113
+00:06:19,630 --> 00:06:21,990
+basketball. Und hier sieht man auch
+
+114
+00:06:21,990 --> 00:06:24,430
+schön, dass das That weggelassen
+
+115
+00:06:24,430 --> 00:06:24,910
+werden kann.
+
+116
+00:06:30,890 --> 00:06:33,720
+Aus Present Perfect wird Past
+
+117
+00:06:33,720 --> 00:06:38,780
+Perfect, also John. Janice has hurt
+
+118
+00:06:38,780 --> 00:06:41,520
+her foot, has hurt im Present
+
+119
+00:06:41,520 --> 00:06:45,220
+Perfect. Daraus wird John said,
+
+120
+00:06:45,460 --> 00:06:50,040
+Janice had hurt her foot. Also Past
+
+121
+00:06:50,040 --> 00:06:54,920
+Perfect in der indirekten Rede. Genau
+
+122
+00:06:54,920 --> 00:06:58,620
+das gleiche gilt im Simple Past. Auch
+
+123
+00:06:58,620 --> 00:07:01,240
+hier wird es zum Past Perfect. Also
+
+124
+00:07:01,240 --> 00:07:05,020
+Mike, did Alex send you a message
+
+125
+00:07:05,020 --> 00:07:11,320
+last night? Mike asked if Alex had
+
+126
+00:07:11,320 --> 00:07:15,600
+sent you a message last night. Wir
+
+127
+00:07:15,600 --> 00:07:19,480
+haben also die Vergangenheitsform,
+
+128
+00:07:19,560 --> 00:07:22,680
+das Simple Past von send als Frage,
+
+129
+00:07:22,780 --> 00:07:26,920
+deshalb ist es do als Hilfsverb der
+
+130
+00:07:26,920 --> 00:07:32,140
+Frage im Simple Past und haben unsere
+
+131
+00:07:32,140 --> 00:07:34,660
+Frage in der indirekten Rede, unser
+
+132
+00:07:34,660 --> 00:07:38,340
+Reporting Verb im Simple Past, die
+
+133
+00:07:38,340 --> 00:07:40,940
+Conjunction und damit durch den
+
+134
+00:07:40,940 --> 00:07:44,200
+Backshift of Tenses. Send im Past
+
+135
+00:07:44,200 --> 00:07:46,760
+Perfect, also had sent.
+
+136
+00:07:51,400 --> 00:07:55,580
+Der will mit dem Infinitiv wird zu
+
+137
+00:07:55,580 --> 00:07:58,580
+would mit dem Infinitiv. Also zum
+
+138
+00:07:58,580 --> 00:08:02,380
+Beispiel George. Anna will call you
+
+139
+00:08:02,380 --> 00:08:06,480
+later. Und in der Reported Speech.
+
+140
+00:08:07,420 --> 00:08:11,720
+George said that Anna would call you
+
+141
+00:08:11,720 --> 00:08:12,080
+later.
+
+142
+00:08:14,940 --> 00:08:17,900
+Wie verändern sich Pronomen in der...
+
+143
+00:08:17,920 --> 00:08:21,040
+indirekten Rede. Zunächst betrachten
+
+144
+00:08:21,040 --> 00:08:25,680
+wir die Subjektpronomen. I oder you
+
+145
+00:08:25,680 --> 00:08:32,420
+wird zu he oder she, je nachdem wer
+
+146
+00:08:32,420 --> 00:08:37,320
+spricht. We oder you wird zu they.
+
+147
+00:08:37,540 --> 00:08:40,520
+Hier müssen wir darauf achten, von
+
+148
+00:08:40,520 --> 00:08:43,880
+wem, äh, wer spricht. Ist you eine
+
+149
+00:08:43,880 --> 00:08:47,680
+einzelne Person oder ist you mehrere
+
+150
+00:08:47,680 --> 00:08:49,720
+Personen, die das Subjekt bilden.
+
+151
+00:08:50,720 --> 00:08:52,280
+Dementsprechend wird es dann zu he
+
+152
+00:08:52,280 --> 00:08:56,600
+oder she oder zu they. Als Beispiel
+
+153
+00:08:56,600 --> 00:09:03,670
+Paul, we went to the cinema. Paul
+
+154
+00:09:03,670 --> 00:09:06,730
+said they had gone to the cinema.
+
+155
+00:09:07,830 --> 00:09:10,350
+Also aus we wird they.
+
+156
+00:09:15,420 --> 00:09:19,520
+Objekt wechselt me oder you
+
+157
+00:09:19,520 --> 00:09:25,160
+entsprechend zu him oder her und us
+
+158
+00:09:25,160 --> 00:09:29,220
+oder you wechselt zu them. Auch hier
+
+159
+00:09:29,220 --> 00:09:30,820
+müssen wir bei you, genau wie beim
+
+160
+00:09:30,820 --> 00:09:33,280
+Subjektpronomen, darauf achten, ob es
+
+161
+00:09:33,280 --> 00:09:36,140
+um ein Singular- oder Pluralobjekt
+
+162
+00:09:36,140 --> 00:09:41,020
+geht. Als Beispiel haben wir Mike.
+
+163
+00:09:41,380 --> 00:09:44,640
+Mr. Miller doesn't like me. Das
+
+164
+00:09:45,880 --> 00:09:47,760
+heißt, in der indirekten Rede wissen
+
+165
+00:09:47,760 --> 00:09:52,080
+wir, me wechselt zu him oder her als
+
+166
+00:09:52,080 --> 00:09:56,460
+Objekt. So, Mike said that Mr. Miller
+
+167
+00:09:56,460 --> 00:10:00,360
+didn't like him, weil es um Mike
+
+168
+00:10:00,360 --> 00:10:03,680
+geht, also him, nicht her.
+
+169
+00:10:08,060 --> 00:10:11,560
+Possessivpronomen wechseln my oder
+
+170
+00:10:11,560 --> 00:10:15,880
+your zu his oder her entsprechend.
+
+171
+00:10:16,020 --> 00:10:20,700
+Und und our oder your zu their. Zum
+
+172
+00:10:20,700 --> 00:10:26,800
+Beispiel, My car broke on my way to
+
+173
+00:10:26,800 --> 00:10:30,280
+the game. Wechselt also in der
+
+174
+00:10:30,280 --> 00:10:34,440
+indirekten Rede zu Vince said his car
+
+175
+00:10:34,440 --> 00:10:37,580
+had broken on his way to the game.
+
+176
+00:10:42,230 --> 00:10:44,410
+Wie verändern sich Ort- und
+
+177
+00:10:44,410 --> 00:10:47,370
+Zeitangaben beim Wechsel von der
+
+178
+00:10:47,370 --> 00:10:51,820
+direkten zur indirekten Rede? Wir
+
+179
+00:10:51,820 --> 00:10:54,660
+verwenden unterschiedliches Vokabular
+
+180
+00:10:54,660 --> 00:10:56,640
+für die direkte und indirekte Rede.
+
+181
+00:10:56,880 --> 00:11:00,780
+Das heißt, aus dem direkten Now wird
+
+182
+00:11:00,780 --> 00:11:04,000
+in der indirekten Rede Then oder At
+
+183
+00:11:04,000 --> 00:11:08,260
+that moment. Aus Today wird That day.
+
+184
+00:11:08,960 --> 00:11:13,540
+Aus Tonight wird That night. Aus
+
+185
+00:11:13,540 --> 00:11:17,580
+Yesterday wird The day before. Aus
+
+186
+00:11:17,580 --> 00:11:21,000
+Tomorrow wird The next. Oder the
+
+187
+00:11:21,000 --> 00:11:25,020
+following day. Aus this wird that.
+
+188
+00:11:25,400 --> 00:11:31,040
+Und aus here wird there. Das sieht
+
+189
+00:11:31,040 --> 00:11:32,700
+jetzt erstmal nach vielen Sachen aus,
+
+190
+00:11:32,780 --> 00:11:34,920
+die sich verändern. Wenn man einmal
+
+191
+00:11:34,920 --> 00:11:37,540
+drin ist und sich diese Worte einfach
+
+192
+00:11:37,540 --> 00:11:39,880
+nochmal in Ruhe anschaut, hat man die
+
+193
+00:11:39,880 --> 00:11:43,920
+aber schnell drin. So, fassen wir
+
+194
+00:11:43,920 --> 00:11:48,040
+zusammen. Wenn wir in der indirekten
+
+195
+00:11:48,040 --> 00:11:51,060
+Rede das Reporting-Verb im Präsens
+
+196
+00:11:51,060 --> 00:11:53,400
+stehen haben, bleibt die Zeit der
+
+197
+00:11:53,400 --> 00:11:56,000
+indirekten Rede unverändert. Wenn das
+
+198
+00:11:56,000 --> 00:11:57,800
+Reporting Verb allerdings in der
+
+199
+00:11:57,800 --> 00:11:59,720
+Vergangenheit steht, wenden wir den
+
+200
+00:11:59,720 --> 00:12:02,760
+Backshift of Tenses an. Das heißt,
+
+201
+00:12:02,860 --> 00:12:05,320
+simple present wird zu simple past,
+
+202
+00:12:05,700 --> 00:12:07,700
+present perfect zu past perfect,
+
+203
+00:12:08,100 --> 00:12:11,020
+simple past zu past perfect, past
+
+204
+00:12:11,020 --> 00:12:14,280
+perfect bleibt past perfect, be going
+
+205
+00:12:14,280 --> 00:12:17,280
+to do something wird zu was or were
+
+206
+00:12:17,280 --> 00:12:19,840
+going to do something will unter
+
+207
+00:12:19,840 --> 00:12:21,940
+Infinitiv wird zu would unter
+
+208
+00:12:21,940 --> 00:12:25,520
+Infinitiv. Außerdem müssen wir darauf
+
+209
+00:12:25,520 --> 00:12:27,980
+achten, dass sich entsprechend die
+
+210
+00:12:27,980 --> 00:12:32,500
+Pronomen, egal ob Subjekt, Objekt
+
+211
+00:12:32,500 --> 00:12:35,880
+oder Possessivpronomen, und Zeit- und
+
+212
+00:12:35,880 --> 00:12:40,020
+Ortsangaben verändern. Und damit
+
+213
+00:12:40,020 --> 00:12:42,520
+wären wir auch schon am Ende unseres
+
+214
+00:12:42,520 --> 00:12:44,760
+heutigen Webinars angelangt. Ich
+
+215
+00:12:44,760 --> 00:12:46,620
+bedanke mich für die Aufmerksamkeit
+
+216
+00:12:46,620 --> 00:12:48,680
+und wünsche noch einen schönen Tag.
+

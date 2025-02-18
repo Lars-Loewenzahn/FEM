@@ -1,0 +1,280 @@
+1
+00:00:04,590 --> 00:00:06,050
+Hallo und herzlich willkommen zur
+
+2
+00:00:06,050 --> 00:00:08,890
+Einführung in das Programm Zoom. Wir
+
+3
+00:00:08,890 --> 00:00:09,890
+werden uns heute kurz damit
+
+4
+00:00:09,890 --> 00:00:11,970
+beschäftigen, wie wir einem Meeting
+
+5
+00:00:11,970 --> 00:00:13,950
+beitreten können und wie ein Meeting
+
+6
+00:00:13,950 --> 00:00:16,450
+ideativ abläuft. Zunächst einmal
+
+7
+00:00:16,450 --> 00:00:18,490
+gehen wir auf Meetings, wo wir auch
+
+8
+00:00:18,490 --> 00:00:20,290
+alle angelegten Meetings für uns
+
+9
+00:00:20,290 --> 00:00:24,550
+sehen. Es ist 12.56 Uhr, das heißt in
+
+10
+00:00:24,550 --> 00:00:26,730
+vier Minuten startet mein Meeting. Um
+
+11
+00:00:26,730 --> 00:00:28,230
+dieses zu starten, drücke ich kurz
+
+12
+00:00:28,230 --> 00:00:30,910
+den Button Start und werde dann in
+
+13
+00:00:30,910 --> 00:00:32,750
+die Oberfläche des Programms
+
+14
+00:00:32,750 --> 00:00:34,450
+weitergeleitet. wo ich nur noch per
+
+15
+00:00:34,450 --> 00:00:36,190
+Computer dem Audio beitreten muss.
+
+16
+00:00:36,870 --> 00:00:39,550
+Das Ganze mache ich groß. Um die
+
+17
+00:00:39,550 --> 00:00:41,510
+Schülerin jetzt ins Meeting zu holen,
+
+18
+00:00:41,510 --> 00:00:43,410
+klicke ich auf Teilnehmer verwalten.
+
+19
+00:00:44,190 --> 00:00:46,350
+Und in der Teilnehmerliste sehe ich
+
+20
+00:00:46,350 --> 00:00:48,570
+jetzt meine Schülerin, die sich noch
+
+21
+00:00:48,570 --> 00:00:50,550
+im Baderaum befindet. Und dann klicke
+
+22
+00:00:50,550 --> 00:00:54,820
+ich auf Eintreten lassen. Hi Kathi,
+
+23
+00:00:54,840 --> 00:00:56,420
+schön, dass du heute zur Nachhilfe
+
+24
+00:00:56,420 --> 00:00:57,900
+auf Zoom gekommen bist. Hallo, hat
+
+25
+00:00:57,900 --> 00:00:59,680
+alles funktioniert bisher? Wunderbar,
+
+26
+00:00:59,680 --> 00:01:01,060
+das hört man gerne. Ich habe eine
+
+27
+00:01:01,060 --> 00:01:03,280
+Aufgabe aus dem ULC bereits für meine
+
+28
+00:01:03,280 --> 00:01:05,800
+Schülerin rausgesucht und will diese
+
+29
+00:01:05,800 --> 00:01:07,700
+ihr jetzt zeigen. Dafür gehe ich hier
+
+30
+00:01:07,700 --> 00:01:09,760
+unten auf Bildschirm freigeben und
+
+31
+00:01:09,760 --> 00:01:11,080
+gebe meinen Bildschirm als
+
+32
+00:01:11,080 --> 00:01:13,140
+Screenshine frei und rufe jetzt die
+
+33
+00:01:13,140 --> 00:01:15,000
+Aufgabe auf. Sie kann jetzt alles
+
+34
+00:01:15,000 --> 00:01:16,420
+sehen, was ich auf dem Desktop
+
+35
+00:01:16,420 --> 00:01:19,040
+aussehe. Mit der Whiteboard-Funktion
+
+36
+00:01:19,040 --> 00:01:20,280
+können wir jetzt das Arbeitsblatt
+
+37
+00:01:20,280 --> 00:01:22,720
+gemeinsam erahnen. Dazu gehe ich
+
+38
+00:01:22,720 --> 00:01:24,300
+wieder auf Bildschirm freigeben und
+
+39
+00:01:24,300 --> 00:01:26,700
+wechsle nun auf das Whiteboard. Ich
+
+40
+00:01:26,700 --> 00:01:27,640
+habe jetzt schon mal die erste
+
+41
+00:01:27,640 --> 00:01:29,380
+Aufgabe hingeschrieben. Jetzt ist
+
+42
+00:01:29,380 --> 00:01:30,860
+aber die Schülerin dran, denn dort
+
+43
+00:01:30,860 --> 00:01:31,800
+hat sich ein kleiner Fehler
+
+44
+00:01:31,800 --> 00:01:33,600
+eingeschlichen. Könntest du den bitte
+
+45
+00:01:33,600 --> 00:01:35,820
+mal markieren? Ja, ich drücke auf den
+
+46
+00:01:35,820 --> 00:01:38,060
+Stift und markiere den Fehler in rot.
+
+47
+00:01:38,520 --> 00:01:39,780
+Klasse, das Prinzip hast du jetzt
+
+48
+00:01:39,780 --> 00:01:41,720
+schon super verstanden. Wenn die
+
+49
+00:01:41,720 --> 00:01:43,160
+Schülerin jetzt eine Aufgabe macht,
+
+50
+00:01:43,280 --> 00:01:45,080
+die sie mir persönlich hochladen
+
+51
+00:01:45,080 --> 00:01:47,060
+will, kann sie das machen? Könntest
+
+52
+00:01:47,060 --> 00:01:48,520
+du das jetzt gerade eben machen? Ja,
+
+53
+00:01:48,520 --> 00:01:50,300
+klar. Dazu drücke ich unten auf
+
+54
+00:01:50,300 --> 00:01:53,300
+teile, wähle Foto aus und lade ein
+
+55
+00:01:53,300 --> 00:01:55,300
+Arbeitsblatt aus dem OSC hier hoch.
+
+56
+00:01:55,480 --> 00:01:57,740
+So, klasse. Jetzt hat die SchülerIn
+
+57
+00:01:57,740 --> 00:01:59,300
+die Aufgabe hochgeladen. Jetzt können
+
+58
+00:01:59,300 --> 00:02:00,560
+wir sie sehen und auch gemeinsam
+
+59
+00:02:00,560 --> 00:02:02,080
+bearbeiten. Super, ich habe jetzt
+
+60
+00:02:02,080 --> 00:02:03,900
+keinen Fehler mehr gefunden. Hast du
+
+61
+00:02:03,900 --> 00:02:05,140
+denn noch Fragen? Nein, ich habe
+
+62
+00:02:05,140 --> 00:02:07,120
+alles verstanden. Wunderbar. Dann
+
+63
+00:02:07,120 --> 00:02:08,160
+wünsche ich dir noch einen
+
+64
+00:02:08,160 --> 00:02:11,080
+wunderschönen Tag und noch ein gutes
+
+65
+00:02:11,080 --> 00:02:12,580
+Gesundbleiben. Danke dir Dir auch.
+
+66
+00:02:12,640 --> 00:02:14,680
+Tschüss. Dankeschön. Was ich jetzt
+
+67
+00:02:14,680 --> 00:02:16,500
+mache, ist als Nachhilfelehrer das
+
+68
+00:02:16,500 --> 00:02:18,300
+Meeting beenden. Dazu gehe ich unten
+
+69
+00:02:18,300 --> 00:02:20,420
+auf den Button Meeting beenden und
+
+70
+00:02:20,420 --> 00:02:22,000
+beende das Meeting für alle.
+

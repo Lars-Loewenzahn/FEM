@@ -1,0 +1,2164 @@
+1
+00:00:02,060 --> 00:00:03,860
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,860 --> 00:00:06,440
+Gleichung lösen Teil 2. Wir werden
+
+3
+00:00:06,440 --> 00:00:07,820
+uns in diesem Webinar mit der
+
+4
+00:00:07,820 --> 00:00:08,760
+Wurzelgleichung, der
+
+5
+00:00:08,760 --> 00:00:09,920
+Exponentialgleichung und der
+
+6
+00:00:09,920 --> 00:00:11,340
+Logarithmusgleichung beschäftigen.
+
+7
+00:00:11,960 --> 00:00:13,880
+Wir schauen uns jeweils zuerst an,
+
+8
+00:00:13,980 --> 00:00:15,320
+woran man den jeweiligen
+
+9
+00:00:15,320 --> 00:00:17,480
+Gleichungstyp erkennt und danach
+
+10
+00:00:17,480 --> 00:00:19,820
+natürlich, wie man diesen löst. Das
+
+11
+00:00:19,820 --> 00:00:21,720
+Lösungsverfahren präsentieren wir
+
+12
+00:00:21,720 --> 00:00:22,880
+dann auch noch anhand einer kleinen
+
+13
+00:00:22,880 --> 00:00:26,020
+Beispielaufgabe. Beginnen wir mit der
+
+14
+00:00:26,020 --> 00:00:28,320
+Wurzelgleichung. Eine Wurzelgleichung
+
+15
+00:00:28,320 --> 00:00:30,720
+erkennt man immer daran, dass die
+
+16
+00:00:30,720 --> 00:00:32,100
+Variable unter der Wurzel steht.
+
+17
+00:00:32,560 --> 00:00:35,320
+Wichtig dabei ist, dass die Variable
+
+18
+00:00:35,320 --> 00:00:36,780
+so unter der Wurzel steht, dass man
+
+19
+00:00:36,780 --> 00:00:38,020
+die Wurzel nicht einfach ziehen kann.
+
+20
+00:00:38,140 --> 00:00:39,220
+Hier haben wir ein Beispiel. Wir
+
+21
+00:00:39,220 --> 00:00:41,180
+haben hier links eine ganz normale
+
+22
+00:00:41,180 --> 00:00:42,420
+Gleichung. Das ist nicht eine,
+
+23
+00:00:42,600 --> 00:00:44,160
+sondern verschiedene Beispiele für
+
+24
+00:00:44,160 --> 00:00:46,220
+normale Gleichungen. Hier rechts
+
+25
+00:00:46,220 --> 00:00:47,140
+haben wir Beispiele für
+
+26
+00:00:47,140 --> 00:00:50,360
+Wurzelgleichungen. und wir haben
+
+27
+00:00:50,360 --> 00:00:52,260
+jetzt hier 7 ist gleich die Wurzel
+
+28
+00:00:52,260 --> 00:00:55,620
+aus 4x hoch 2 minus 2. Wir haben hier
+
+29
+00:00:55,620 --> 00:00:56,700
+unter der Wurzel nur ein Produkt
+
+30
+00:00:56,700 --> 00:01:00,160
+stehen, 4 mal x². Folglich können wir
+
+31
+00:01:00,160 --> 00:01:02,440
+die Wurzel aus der 4 ziehen und aus
+
+32
+00:01:02,440 --> 00:01:04,700
+x² und können das Ganze umformen zu
+
+33
+00:01:04,700 --> 00:01:08,300
+2x. Das heißt, wir können aus dieser
+
+34
+00:01:08,300 --> 00:01:10,560
+Gleichung eine ganz normale Gleichung
+
+35
+00:01:10,560 --> 00:01:11,780
+machen, daher ist dies keine
+
+36
+00:01:11,780 --> 00:01:14,700
+Wurzelgleichung. Eine Wurzelgleichung
+
+37
+00:01:14,700 --> 00:01:16,520
+zeichnet sich wie gesagt dadurch aus,
+
+38
+00:01:17,000 --> 00:01:18,980
+dass das x unter der Wurzel steht,
+
+39
+00:01:19,180 --> 00:01:20,600
+also hier hinten sehen wir das zum
+
+40
+00:01:20,600 --> 00:01:22,340
+Beispiel, Wurzel aus x, das können
+
+41
+00:01:22,340 --> 00:01:23,660
+wir nicht weiter vereinfachen, daher
+
+42
+00:01:23,660 --> 00:01:26,420
+ist es eine Wurzelgleichung. Wurzel
+
+43
+00:01:26,420 --> 00:01:29,680
+aus 3 mal d, in dem Fall steht das d
+
+44
+00:01:29,680 --> 00:01:32,020
+auch alleine, das heißt aus dem d
+
+45
+00:01:32,020 --> 00:01:33,060
+können wir jetzt auch nicht wirklich
+
+46
+00:01:33,060 --> 00:01:34,540
+die Wurzel ziehen, wenn es ein d²
+
+47
+00:01:34,540 --> 00:01:36,780
+wäre, wäre es der gleiche Fall wie
+
+48
+00:01:36,780 --> 00:01:39,280
+hier. Hier könnten wir Wurzel 3 mal d
+
+49
+00:01:39,280 --> 00:01:41,100
+als Vereinfachung, haben wir in dem
+
+50
+00:01:41,100 --> 00:01:42,640
+Fall aber nicht. Daher ist es eine
+
+51
+00:01:42,640 --> 00:01:44,740
+Wurzelgleichung. Hier unten haben wir
+
+52
+00:01:44,740 --> 00:01:46,000
+noch ein Beispiel. Das sieht ja auf
+
+53
+00:01:46,000 --> 00:01:47,300
+den ersten Blick ähnlich aus zu
+
+54
+00:01:47,300 --> 00:01:48,560
+diesem hier. Der Unterschied ist nur
+
+55
+00:01:48,560 --> 00:01:50,700
+folgender. Wir haben hier unter der
+
+56
+00:01:50,700 --> 00:01:53,660
+Wurzel eine Addition und wir können
+
+57
+00:01:53,660 --> 00:01:55,540
+aus diesem Term nicht die Wurzel
+
+58
+00:01:55,540 --> 00:01:57,960
+ziehen. Deswegen ist es eine
+
+59
+00:01:57,960 --> 00:01:59,120
+Wurzelgleichung und wir müssen die
+
+60
+00:01:59,120 --> 00:02:01,500
+Wurzel auf anderen Wegen auflösen.
+
+61
+00:02:03,230 --> 00:02:05,190
+Wenn eine normale Zahl, so was wie
+
+62
+00:02:05,190 --> 00:02:06,710
+eine 2 oder eine 3 unter einer Wurzel
+
+63
+00:02:06,710 --> 00:02:08,030
+steht, ist es trotzdem eine ganz
+
+64
+00:02:08,030 --> 00:02:10,130
+normale Gleichung, weil die Wurzel
+
+65
+00:02:10,130 --> 00:02:11,690
+aus 2 oder auch die Wurzel aus 3
+
+66
+00:02:11,690 --> 00:02:13,670
+berechnet uns der Taschenrechner ganz
+
+67
+00:02:13,670 --> 00:02:17,390
+sorgenfrei. Gut, kommen wir dazu, wie
+
+68
+00:02:17,390 --> 00:02:19,970
+löst man Wurzelgleichungen? Als
+
+69
+00:02:19,970 --> 00:02:21,770
+erstes möchten wir das Ganze so
+
+70
+00:02:21,770 --> 00:02:23,190
+umformen, dass die Wurzel alleine auf
+
+71
+00:02:23,190 --> 00:02:24,590
+einer Seite steht und alles andere
+
+72
+00:02:24,590 --> 00:02:27,990
+auf der anderen Seite. Das heißt, wir
+
+73
+00:02:27,990 --> 00:02:29,970
+versuchen die Wurzel als erstes zu
+
+74
+00:02:29,970 --> 00:02:32,770
+isolieren. Wenn wir die Wurzel
+
+75
+00:02:32,770 --> 00:02:34,450
+isoliert haben, quadrieren wir die
+
+76
+00:02:34,450 --> 00:02:36,350
+Gleichung. Dabei müssen wir Klammern
+
+77
+00:02:36,350 --> 00:02:38,930
+setzen und wir brauchen dann auch,
+
+78
+00:02:38,990 --> 00:02:40,350
+wenn wir es quadriert haben, haben
+
+79
+00:02:40,350 --> 00:02:42,310
+wir einen Term in der Klammer, der
+
+80
+00:02:42,310 --> 00:02:44,810
+wird quadriert. Deswegen, um diesen
+
+81
+00:02:44,810 --> 00:02:47,050
+Term aufzulösen, brauchen wir dann
+
+82
+00:02:47,050 --> 00:02:49,130
+die binomische Formel oder eine der
+
+83
+00:02:49,130 --> 00:02:52,970
+binomischen Formeln. Wenn wir
+
+84
+00:02:52,970 --> 00:02:57,190
+quadriert haben, entfällt die Wurzel.
+
+85
+00:02:57,250 --> 00:02:58,770
+Das ist auch der Sinn dahinter, warum
+
+86
+00:02:58,770 --> 00:03:01,350
+wir quadrieren. und ab diesem Punkt
+
+87
+00:03:01,350 --> 00:03:02,730
+haben wir keine Wurzelgleichung mehr,
+
+88
+00:03:02,790 --> 00:03:03,890
+sondern nur noch eine ganz normale
+
+89
+00:03:03,890 --> 00:03:07,330
+Gleichung. Also meistens kommt eine
+
+90
+00:03:07,330 --> 00:03:09,050
+quadratische Gleichung bei raus, es
+
+91
+00:03:09,050 --> 00:03:10,170
+können aber auch Gleichungen höheren
+
+92
+00:03:10,170 --> 00:03:11,690
+Grades sein oder eben vielleicht
+
+93
+00:03:11,690 --> 00:03:12,630
+sogar nur Lineare.
+
+94
+00:03:15,490 --> 00:03:17,830
+Gut, wie gesagt, diese Gleichung
+
+95
+00:03:17,830 --> 00:03:19,890
+müssen wir dann lösen. Dafür müssen
+
+96
+00:03:19,890 --> 00:03:21,230
+wir als erstes die binomische Formel
+
+97
+00:03:21,230 --> 00:03:22,770
+dann meistens anwenden und
+
+98
+00:03:22,770 --> 00:03:24,770
+anschließend die Lösung für x
+
+99
+00:03:24,770 --> 00:03:26,350
+bestimmen. Das Bestimmen der Lösung
+
+100
+00:03:26,350 --> 00:03:28,610
+für x erfolgt dann je nach... Grad
+
+101
+00:03:28,610 --> 00:03:31,970
+der Gleichung. Das Ganze behandeln
+
+102
+00:03:31,970 --> 00:03:34,230
+wir anhand der Gleichung 5 plus x ist
+
+103
+00:03:34,230 --> 00:03:37,130
+gleich 9 plus die Wurzel aus x. Wir
+
+104
+00:03:37,130 --> 00:03:40,690
+formen im ersten Schritt das so um,
+
+105
+00:03:40,770 --> 00:03:42,230
+dass die Wurzel aus x alleine steht.
+
+106
+00:03:42,450 --> 00:03:44,050
+Das ist mit isolierende Wurzel
+
+107
+00:03:44,050 --> 00:03:46,090
+gemeint. Das heißt, die 9 muss rüber,
+
+108
+00:03:46,150 --> 00:03:47,930
+deswegen rechnen wir minus 9. Dann
+
+109
+00:03:47,930 --> 00:03:50,810
+steht da 5 plus x minus 9 ist gleich
+
+110
+00:03:50,810 --> 00:03:52,790
+die Wurzel aus x. Bevor wir jetzt
+
+111
+00:03:52,790 --> 00:03:54,430
+hingehen das quadrieren vereinfachen
+
+112
+00:03:54,430 --> 00:03:55,310
+wir das alles noch so weit wie
+
+113
+00:03:55,310 --> 00:03:56,970
+möglich 5-9 können wir rechnen das
+
+114
+00:03:56,970 --> 00:03:59,550
+ist minus 4 so kommen wir auf minus 4
+
+115
+00:03:59,550 --> 00:04:01,610
+plus x das ist gleich die Wurzel aus
+
+116
+00:04:01,610 --> 00:04:04,930
+x und jetzt können wir es nicht
+
+117
+00:04:04,930 --> 00:04:07,590
+weiter vereinfachen daher gehen wir
+
+118
+00:04:07,590 --> 00:04:10,030
+nun zum zweiten Schritt über und
+
+119
+00:04:10,030 --> 00:04:11,870
+quadrieren das heißt es ist eine
+
+120
+00:04:11,870 --> 00:04:12,950
+Gleichung deswegen müssen wir auf
+
+121
+00:04:12,950 --> 00:04:13,930
+beiden Seiten immer das gleiche
+
+122
+00:04:13,930 --> 00:04:15,870
+machen wir quadrieren minus 4 plus x
+
+123
+00:04:15,870 --> 00:04:17,610
+deswegen schreiben Da haben wir minus
+
+124
+00:04:17,610 --> 00:04:19,890
+4 plus x in Klammern und quadrieren
+
+125
+00:04:19,890 --> 00:04:22,230
+das. Und wir quadrieren die Wurzel
+
+126
+00:04:22,230 --> 00:04:27,410
+aus x. Das ist Schritt 2. Und jetzt
+
+127
+00:04:27,410 --> 00:04:29,290
+beginnen wir mit Schritt 3 und sind
+
+128
+00:04:29,290 --> 00:04:32,250
+auch unsere Wurzelgleichung los. Denn
+
+129
+00:04:32,250 --> 00:04:35,410
+die Wurzel aus x hoch 2, Wurzel und
+
+130
+00:04:35,410 --> 00:04:36,850
+hoch 2 gleicht sich aus, ist einfach
+
+131
+00:04:36,850 --> 00:04:40,430
+x. Das heißt, wir haben jetzt minus 4
+
+132
+00:04:40,430 --> 00:04:42,610
+plus x hoch 2. Das ist ja eine
+
+133
+00:04:42,610 --> 00:04:43,850
+Addition hier drin, das können wir
+
+134
+00:04:43,850 --> 00:04:45,390
+deswegen einfach tauschen zu x minus
+
+135
+00:04:45,390 --> 00:04:50,170
+4 hoch 2. und so kommen wir zu dieser
+
+136
+00:04:50,170 --> 00:04:53,190
+Gleichung. Das ist eine Gleichung
+
+137
+00:04:53,190 --> 00:04:55,270
+zweiten Grades, also x-4 hoch 2 ist
+
+138
+00:04:55,270 --> 00:04:58,290
+gleich x und diese Gleichung müssen
+
+139
+00:04:58,290 --> 00:05:01,910
+wir nun lösen. Das heißt, im nächsten
+
+140
+00:05:01,910 --> 00:05:04,530
+Schritt gehen wir hin und lösen das
+
+141
+00:05:04,530 --> 00:05:05,890
+Binom hier auf. Dafür brauchen wir
+
+142
+00:05:05,890 --> 00:05:07,250
+die binomische Formel, in diesem Fall
+
+143
+00:05:07,250 --> 00:05:08,570
+die zweite, weil wir hier ein Minus
+
+144
+00:05:08,570 --> 00:05:10,630
+stehen haben. Die zweite binomische
+
+145
+00:05:10,630 --> 00:05:13,050
+Formel lautet a-b, das Ganze hoch 2
+
+146
+00:05:13,050 --> 00:05:17,170
+ist gleich a²-2ab. plus b². Aus x
+
+147
+00:05:17,170 --> 00:05:19,430
+minus 4 zum Quadrat wird daher x²
+
+148
+00:05:19,430 --> 00:05:22,730
+minus 2 mal 4x plus 4 zum Quadrat.
+
+149
+00:05:23,730 --> 00:05:27,450
+Minus 2 mal 4x sind minus 8x, plus 4
+
+150
+00:05:27,450 --> 00:05:29,430
+zum Quadrat ist eine plus 16, das x²
+
+151
+00:05:29,430 --> 00:05:34,490
+bleibt dann so und das ist gleich x.
+
+152
+00:05:36,280 --> 00:05:38,380
+Wir haben jetzt eine einfache
+
+153
+00:05:38,380 --> 00:05:40,540
+quadratische Gleichung. Diese müssen
+
+154
+00:05:40,540 --> 00:05:42,280
+wir lösen wie wir das halt immer
+
+155
+00:05:42,280 --> 00:05:44,620
+machen das heißt es kann einerseits
+
+156
+00:05:44,620 --> 00:05:46,080
+sein wir haben ja hier ein
+
+157
+00:05:46,080 --> 00:05:47,880
+quadratisches ein lineares und ein
+
+158
+00:05:47,880 --> 00:05:50,240
+absolutes glied das heißt die pq
+
+159
+00:05:50,240 --> 00:05:51,740
+formel oder mitternachtsformel kommen
+
+160
+00:05:51,740 --> 00:05:53,520
+in frage damit wir diese anwenden
+
+161
+00:05:53,520 --> 00:05:54,780
+können müssen wir das ganze natürlich
+
+162
+00:05:54,780 --> 00:05:57,260
+nach null umstellen deswegen muss das
+
+163
+00:05:57,260 --> 00:05:58,720
+x hier weg deswegen rechnen wir minus
+
+164
+00:05:58,720 --> 00:06:01,000
+x dann kommen wir zu x quadrat minus
+
+165
+00:06:01,000 --> 00:06:05,720
+9x plus 16 ist gleich null falls wir
+
+166
+00:06:05,720 --> 00:06:08,720
+bzw wenn wir die pq formel nutzen
+
+167
+00:06:08,720 --> 00:06:10,580
+müssen wir aber noch eine weitere
+
+168
+00:06:10,580 --> 00:06:12,080
+Sache machen. Die entfällt bei uns,
+
+169
+00:06:12,100 --> 00:06:13,600
+weil bei uns steht das x² schon
+
+170
+00:06:13,600 --> 00:06:15,880
+alleine. Wenn dies nicht der Fall
+
+171
+00:06:15,880 --> 00:06:21,420
+ist, muss unbedingt durch den Faktor
+
+172
+00:06:21,420 --> 00:06:24,200
+vor dem x² geteilt werden. Das heißt,
+
+173
+00:06:24,260 --> 00:06:25,760
+wenn hier eine 2 steht oder eine
+
+174
+00:06:25,760 --> 00:06:28,500
+minus 1, dann müssen wir erst durch
+
+175
+00:06:28,500 --> 00:06:30,160
+den Faktor teilen, damit das x²
+
+176
+00:06:30,160 --> 00:06:32,080
+alleine steht. Erst wenn das x²
+
+177
+00:06:32,080 --> 00:06:33,600
+alleine steht, dürfen wir das p und
+
+178
+00:06:33,600 --> 00:06:35,800
+das q ablesen, so wie wir es von der
+
+179
+00:06:35,800 --> 00:06:38,820
+pq-Formel kennen. Wichtig dabei ist,
+
+180
+00:06:38,820 --> 00:06:40,300
+dass ist auch, p und q immer mit
+
+181
+00:06:40,300 --> 00:06:41,980
+Vorzeichen ablesen, deswegen ist p
+
+182
+00:06:41,980 --> 00:06:45,260
+minus 9 und das q plus 16. Der Ansatz
+
+183
+00:06:45,260 --> 00:06:46,780
+für die pq-Formel ist hier nochmal zu
+
+184
+00:06:46,780 --> 00:06:49,180
+sehen, x1,2 ist gleich minus p halbe
+
+185
+00:06:49,180 --> 00:06:51,020
+plus minus die Wurzel aus p halbe zum
+
+186
+00:06:51,020 --> 00:06:54,020
+Quadrat minus q. Wenn wir für p minus
+
+187
+00:06:54,020 --> 00:06:56,260
+9 und für q 16 einsetzen, kommen wir
+
+188
+00:06:56,260 --> 00:06:58,660
+hier drauf, also x1,2 ist minus minus
+
+189
+00:06:58,660 --> 00:07:02,240
+9 halbe und das minus minus 9 halbe
+
+190
+00:07:02,240 --> 00:07:04,340
+plus minus die Wurzel aus minus 9
+
+191
+00:07:04,340 --> 00:07:08,560
+halbe zum Quadrat minus 16. Minus
+
+192
+00:07:08,560 --> 00:07:10,760
+minus 9 halbe sind plus 4,5, also
+
+193
+00:07:10,760 --> 00:07:12,260
+minus und minus ist erstmal plus und
+
+194
+00:07:12,260 --> 00:07:17,320
+9 halbe sind 4,5. Das hier unter der
+
+195
+00:07:17,320 --> 00:07:20,600
+Wurzel ist zusammen 4,25. Das heißt,
+
+196
+00:07:20,660 --> 00:07:23,080
+wir kommen für x1 auf die Lösung 4,5
+
+197
+00:07:23,080 --> 00:07:26,740
+plus die Wurzel aus 4,25. Das sind
+
+198
+00:07:26,740 --> 00:07:31,300
+ungefähr 6,56. 6. Für x2 kommen wir
+
+199
+00:07:31,300 --> 00:07:34,260
+auf 4,5 minus die Wurzel aus 4,25.
+
+200
+00:07:34,380 --> 00:07:37,280
+Das sind ungefähr 2,44. Und das sind
+
+201
+00:07:37,280 --> 00:07:38,480
+jetzt auch schon die Lösungen für
+
+202
+00:07:38,480 --> 00:07:41,000
+unsere Wurzelgleichung. Und damit ist
+
+203
+00:07:41,000 --> 00:07:44,560
+die Wurzelgleichung gelöst. Damit
+
+204
+00:07:44,560 --> 00:07:45,940
+wären wir nun auch schon bei den
+
+205
+00:07:45,940 --> 00:07:47,020
+Exponentialgleichungen.
+
+206
+00:07:49,760 --> 00:07:50,880
+Exponentialgleichungen sind
+
+207
+00:07:50,880 --> 00:07:53,100
+Gleichungen, wo unsere Variable im
+
+208
+00:07:53,100 --> 00:07:55,820
+Exponenten steht. Ganz wichtig im
+
+209
+00:07:55,820 --> 00:07:57,700
+Exponenten, das hier sind wieder
+
+210
+00:07:57,700 --> 00:07:58,160
+ganz... Das sind normale
+
+211
+00:07:58,160 --> 00:07:59,240
+Polynomgleichungen, die wir schon
+
+212
+00:07:59,240 --> 00:07:59,960
+kennen. Das sind
+
+213
+00:07:59,960 --> 00:08:02,400
+Exponentialgleichungen. Auch bei
+
+214
+00:08:02,400 --> 00:08:03,400
+großen Exponenten, bei
+
+215
+00:08:03,400 --> 00:08:05,540
+Polynomgleichungen, sind es weiterhin
+
+216
+00:08:05,540 --> 00:08:07,940
+Polynomgleichungen. Sobald wir eine
+
+217
+00:08:07,940 --> 00:08:09,360
+Variable aber im Exponenten stehen
+
+218
+00:08:09,360 --> 00:08:12,200
+haben, wie hier 3 hoch x, ist es eine
+
+219
+00:08:12,200 --> 00:08:13,960
+Exponentialgleichung. Auch hier 13
+
+220
+00:08:13,960 --> 00:08:15,120
+hoch 2x.
+
+221
+00:08:17,360 --> 00:08:18,660
+Eine Exponentialgleichung muss aber
+
+222
+00:08:18,660 --> 00:08:23,860
+nur an einer Stelle die Variable im
+
+223
+00:08:23,860 --> 00:08:25,820
+Exponenten stehen haben. Das heißt,
+
+224
+00:08:25,920 --> 00:08:28,680
+wir haben hier 11x minus x hoch 53.
+
+225
+00:08:29,200 --> 00:08:31,060
+Das wäre erstmal was ganz Normales
+
+226
+00:08:31,060 --> 00:08:32,140
+von der Polynomengleichung, aber dann
+
+227
+00:08:32,140 --> 00:08:33,320
+steht auf der anderen Seite, dass es
+
+228
+00:08:33,320 --> 00:08:39,440
+gleich 13 hoch 2x plus x hoch 4. Das
+
+229
+00:08:39,440 --> 00:08:40,900
+hier ist der Teil, der die Gleichung
+
+230
+00:08:40,900 --> 00:08:41,680
+letztendlich zu einer
+
+231
+00:08:41,680 --> 00:08:44,420
+Exponentialgleichung macht. Und wie
+
+232
+00:08:44,420 --> 00:08:46,000
+wir diese lösen, damit beschäftigen
+
+233
+00:08:46,000 --> 00:08:49,220
+wir uns jetzt. Zuallererst formen wir
+
+234
+00:08:49,220 --> 00:08:51,240
+die Gleichung wieder um. Und zwar
+
+235
+00:08:51,240 --> 00:08:52,680
+formen wir die Gleichung so um, dass
+
+236
+00:08:52,680 --> 00:08:54,100
+unsere Potenz allein... einer auf
+
+237
+00:08:54,100 --> 00:08:55,560
+einer Seite steht und auf der anderen
+
+238
+00:08:55,560 --> 00:08:58,800
+Seite der Rest. Wir isolieren also
+
+239
+00:08:58,800 --> 00:09:01,360
+die Potenz. Das ist immer so. Egal,
+
+240
+00:09:01,360 --> 00:09:02,720
+ob wir eine Wurzelgleichung haben,
+
+241
+00:09:02,860 --> 00:09:05,220
+eine Exponentialgleichung oder gleich
+
+242
+00:09:05,220 --> 00:09:07,400
+eine Logarithmusgleichung. Als erstes
+
+243
+00:09:07,400 --> 00:09:09,640
+isolieren wir immer. Also die Wurzel,
+
+244
+00:09:09,760 --> 00:09:11,860
+die Potenz oder den Logarithmus. In
+
+245
+00:09:11,860 --> 00:09:13,400
+dem Fall natürlich die Potenz. Wir
+
+246
+00:09:13,400 --> 00:09:15,780
+isolieren unsere Potenz. Alles andere
+
+247
+00:09:15,780 --> 00:09:16,720
+wollen wir auf der anderen Seite
+
+248
+00:09:16,720 --> 00:09:20,960
+haben. und dann fangen wir an die
+
+249
+00:09:20,960 --> 00:09:23,100
+gleichung zu bearbeiten wenn wir eine
+
+250
+00:09:23,100 --> 00:09:24,380
+exponentielle gleichung haben
+
+251
+00:09:24,380 --> 00:09:26,860
+arbeiten wir mit den logarithmus und
+
+252
+00:09:26,860 --> 00:09:28,960
+zwar kann der logarithmus unsere
+
+253
+00:09:28,960 --> 00:09:31,320
+variable aus dem exponenten holen das
+
+254
+00:09:31,320 --> 00:09:33,160
+sehen wir auch gleich das heißt wir
+
+255
+00:09:33,160 --> 00:09:34,880
+lösen mit den logarithmus unserer
+
+256
+00:09:34,880 --> 00:09:37,240
+exponentielle gleichung auf das ist
+
+257
+00:09:37,240 --> 00:09:38,920
+schritt 2 und haben dann in schritt 3
+
+258
+00:09:38,920 --> 00:09:41,140
+eine ganz normale gleichung das ganze
+
+259
+00:09:41,140 --> 00:09:43,720
+sehen wir auch hier unsere gleichung
+
+260
+00:09:43,720 --> 00:09:46,640
+ist in dem fall 43 ist gleich 7 plus
+
+261
+00:09:46,640 --> 00:09:48,340
+3 hoch x. Der erste Schritt ist, wie
+
+262
+00:09:48,340 --> 00:09:50,300
+gesagt, die Potenz isolieren. Das
+
+263
+00:09:50,300 --> 00:09:52,100
+heißt, wir müssen die 7 wegmachen,
+
+264
+00:09:52,180 --> 00:09:53,720
+das 3 hoch x soll alleine stehen.
+
+265
+00:09:53,820 --> 00:09:56,540
+Deswegen rechnen wir minus 7, 43,
+
+266
+00:09:56,900 --> 00:09:59,580
+minus 7 ist 36 und 36 ist dann gleich
+
+267
+00:09:59,580 --> 00:10:01,480
+3 hoch x. Damit ist Schritt 1 schon
+
+268
+00:10:01,480 --> 00:10:05,820
+abgehakt und wir können mit Schritt 2
+
+269
+00:10:05,820 --> 00:10:07,160
+beginnen und den Logarithmus
+
+270
+00:10:07,160 --> 00:10:10,540
+anwenden. Das heißt, wir wenden nun
+
+271
+00:10:10,540 --> 00:10:11,840
+den Logarithmus an, Wichtig auf
+
+272
+00:10:11,840 --> 00:10:14,960
+beiden Seiten. Es gibt verschiedene
+
+273
+00:10:14,960 --> 00:10:17,280
+Logarithmen. Es gibt den Logarithmus
+
+274
+00:10:17,280 --> 00:10:19,020
+zur Basis 10, das ist der LG bzw.
+
+275
+00:10:19,440 --> 00:10:20,680
+LOG, das sind beides mal die
+
+276
+00:10:20,680 --> 00:10:24,080
+Abkürzungen dafür. Und es gibt den
+
+277
+00:10:24,080 --> 00:10:26,400
+LN, den Logarithmus Naturalis. Dieser
+
+278
+00:10:26,400 --> 00:10:28,720
+hat die Basis E, also die Euler'sche
+
+279
+00:10:28,720 --> 00:10:31,320
+Zahl E. Es wird immer der ln
+
+280
+00:10:31,320 --> 00:10:33,340
+verwendet, wenn man hier als Basis
+
+281
+00:10:33,340 --> 00:10:38,580
+die Euler'sche Zahl e hat. Wenn man
+
+282
+00:10:38,580 --> 00:10:41,600
+andere Basen hat, also wie bei uns
+
+283
+00:10:41,600 --> 00:10:42,620
+jetzt die 3, dann nimmt man einfach
+
+284
+00:10:42,620 --> 00:10:44,860
+den normalen Logarithmus lg oder log
+
+285
+00:10:44,860 --> 00:10:47,620
+und arbeitet mit diesem. Der
+
+286
+00:10:47,620 --> 00:10:48,820
+Unterschied zwischen den beiden
+
+287
+00:10:48,820 --> 00:10:50,520
+Logarithmen ist wie gesagt die Basis.
+
+288
+00:10:52,180 --> 00:10:53,960
+An den Rechengesetzen und der
+
+289
+00:10:53,960 --> 00:10:55,080
+Anwendung ändert sich aber nichts.
+
+290
+00:10:57,620 --> 00:10:59,320
+Gut. Wir wenden jetzt den Logarithmus
+
+291
+00:10:59,320 --> 00:11:01,740
+an, also der Logarithmus von 36 ist
+
+292
+00:11:01,740 --> 00:11:03,900
+gleich der Logarithmus von 3 hoch x.
+
+293
+00:11:04,640 --> 00:11:06,520
+Und jetzt kommt das, warum wir
+
+294
+00:11:06,520 --> 00:11:08,000
+eigentlich den Logarithmus anwenden,
+
+295
+00:11:08,140 --> 00:11:09,560
+denn es gibt
+
+296
+00:11:09,560 --> 00:11:11,880
+Logarithmenrechengesetze. Diese
+
+297
+00:11:11,880 --> 00:11:13,660
+brauchen wir und zwar gilt der
+
+298
+00:11:13,660 --> 00:11:16,540
+Logarithmus von a hoch b ist gleich b
+
+299
+00:11:16,540 --> 00:11:18,720
+mal unserer Logarithmus von a. Das
+
+300
+00:11:18,720 --> 00:11:21,720
+heißt, das Logarithmenrechengesetz
+
+301
+00:11:21,720 --> 00:11:29,400
+ermöglicht es uns, unseren Exponenten
+
+302
+00:11:29,400 --> 00:11:31,480
+da oben wegzuholen und davor zu
+
+303
+00:11:31,480 --> 00:11:32,940
+ziehen. Das heißt, wir können unsere
+
+304
+00:11:32,940 --> 00:11:34,700
+Variable aus den Exponenten holen.
+
+305
+00:11:35,240 --> 00:11:37,620
+Und so wird aus dem Logarithmus von 3
+
+306
+00:11:37,620 --> 00:11:39,880
+hoch x, x mal der Logarithmus von 3.
+
+307
+00:11:40,740 --> 00:11:42,300
+Und wir sehen, das hier ist jetzt
+
+308
+00:11:42,300 --> 00:11:43,700
+wieder eine ganz einfache Gleichung,
+
+309
+00:11:43,720 --> 00:11:45,960
+denn der Logarithmus von 36 ist die
+
+310
+00:11:45,960 --> 00:11:46,840
+Zahl, die kann erzaschen.
+
+311
+00:11:46,920 --> 00:11:48,280
+rechnungsbestimmen und der
+
+312
+00:11:48,280 --> 00:11:49,660
+logarithmus von 3 ist ebenfalls eine
+
+313
+00:11:49,660 --> 00:11:50,520
+zahl die der taschenrechner
+
+314
+00:11:50,520 --> 00:11:53,200
+ausbestimmen kann folglich steht hier
+
+315
+00:11:53,200 --> 00:11:56,380
+nur die zahl ist gleich x mal die
+
+316
+00:11:56,380 --> 00:11:58,380
+zahl das heißt wir teilen jetzt
+
+317
+00:11:58,380 --> 00:11:59,280
+einfach nur noch durch den
+
+318
+00:11:59,280 --> 00:12:01,520
+logarithmus von 3 da steht der
+
+319
+00:12:01,520 --> 00:12:03,300
+logarithmus von 36 geteilt
+
+320
+00:12:03,300 --> 00:12:07,020
+logarithmus von 3 ist gleich x das
+
+321
+00:12:07,020 --> 00:12:07,800
+heißt das geben wir uns im
+
+322
+00:12:07,800 --> 00:12:10,720
+taschenrechner ein 3,61 ist dann x
+
+323
+00:12:10,720 --> 00:12:12,840
+ich würde euch auch raten dass hier
+
+324
+00:12:12,840 --> 00:12:14,320
+hinten nicht sofort so Runde. Ich
+
+325
+00:12:14,320 --> 00:12:15,820
+würde das einmal so gesamt in den
+
+326
+00:12:15,820 --> 00:12:17,500
+Taschenrechner eingeben und dann am
+
+327
+00:12:17,500 --> 00:12:18,740
+Ende das Ergebnis aufschreiben. Das
+
+328
+00:12:18,740 --> 00:12:22,620
+ist wesentlich genauer. Und damit
+
+329
+00:12:22,620 --> 00:12:24,540
+haben wir unsere Exponentialgleichung
+
+330
+00:12:24,540 --> 00:12:26,740
+nun auch schon gelöst. Unser x ist
+
+331
+00:12:26,740 --> 00:12:28,540
+dann 3,61.
+
+332
+00:12:30,720 --> 00:12:33,020
+Und damit wären wir auch schon bei
+
+333
+00:12:33,020 --> 00:12:34,660
+unserem letzten Gleichungstyp, das
+
+334
+00:12:34,660 --> 00:12:36,800
+ist die Logarithmusgleichung bzw. die
+
+335
+00:12:36,800 --> 00:12:39,260
+Logarithmusgleichungen. Eine
+
+336
+00:12:39,260 --> 00:12:40,980
+Logarithmusgleichung erkennt man erst
+
+337
+00:12:40,980 --> 00:12:43,380
+mal dadurch, dass die Variable in dem
+
+338
+00:12:43,380 --> 00:12:45,020
+Logarithmus steht. Welchen
+
+339
+00:12:45,020 --> 00:12:46,400
+Logarithmus man hat, das heißt ln
+
+340
+00:12:46,400 --> 00:12:49,520
+oder log ist erst mal egal. Wichtig
+
+341
+00:12:49,520 --> 00:12:51,780
+dabei ist nur, dass die Variable
+
+342
+00:12:51,780 --> 00:12:53,640
+nicht dem Exponenten im Logarithmus
+
+343
+00:12:53,640 --> 00:12:56,660
+vorkommt, hier wie hier 3 hoch x. Das
+
+344
+00:12:56,660 --> 00:12:58,080
+ist ja der Fall, den wir gerade
+
+345
+00:12:58,080 --> 00:12:59,440
+hatten, denn das
+
+346
+00:12:59,440 --> 00:13:00,980
+Logarithmenrechengesetz erlaubt uns
+
+347
+00:13:00,980 --> 00:13:02,480
+ja daraus zu machen x mal der
+
+348
+00:13:02,480 --> 00:13:05,060
+Logarithmus von 3 und dann ist es
+
+349
+00:13:05,060 --> 00:13:06,700
+keine logarithmus gleichung mehr ja
+
+350
+00:13:06,700 --> 00:13:09,600
+also die variable muss der basis wenn
+
+351
+00:13:09,600 --> 00:13:11,180
+schon vorkommt so was wie logarithmus
+
+352
+00:13:11,180 --> 00:13:12,860
+x hoch 3 wir können die drei zwar
+
+353
+00:13:12,860 --> 00:13:14,300
+auch davor ziehen haben wir drei mal
+
+354
+00:13:14,300 --> 00:13:16,860
+den logarithmus von x aber unsere
+
+355
+00:13:16,860 --> 00:13:18,680
+variabel x ist schlussendlich immer
+
+356
+00:13:18,680 --> 00:13:21,960
+noch im logarithmus daher ist es eine
+
+357
+00:13:21,960 --> 00:13:25,260
+logarithmus gleichung ja also bei
+
+358
+00:13:25,260 --> 00:13:26,820
+logarithmus gleichungen steht unsere
+
+359
+00:13:26,820 --> 00:13:28,520
+funktions variable oder unsere
+
+360
+00:13:28,520 --> 00:13:30,740
+variable im logarithmus und die die
+
+361
+00:13:30,740 --> 00:13:31,740
+kriegen wir auch nicht durch ein
+
+362
+00:13:31,740 --> 00:13:35,700
+Logarithmenrechengesetz daraus. Die
+
+363
+00:13:35,700 --> 00:13:37,160
+Theorie, wie man das umformt, ist,
+
+364
+00:13:37,280 --> 00:13:40,180
+man versucht, dass der Logarithmus
+
+365
+00:13:40,180 --> 00:13:42,120
+auf einer Seite steht und auf der
+
+366
+00:13:42,120 --> 00:13:44,800
+anderen Seite der Rest. Das heißt,
+
+367
+00:13:44,840 --> 00:13:46,080
+man möchte erstmal den Logarithmus
+
+368
+00:13:46,080 --> 00:13:48,260
+isolieren. Das, was ich vorhin schon
+
+369
+00:13:48,260 --> 00:13:50,020
+mal gesagt habe, das ist immer unser
+
+370
+00:13:50,020 --> 00:13:52,120
+erster Schritt. Anschließend
+
+371
+00:13:52,120 --> 00:13:53,740
+versuchen wir oder wollen wir den
+
+372
+00:13:53,740 --> 00:13:56,900
+Logarithmus auflösen. Das machen wir
+
+373
+00:13:56,900 --> 00:13:58,720
+durch das Exponieren mit der Basis.
+
+374
+00:13:59,460 --> 00:14:01,960
+Das ist ganz wichtig, Exponieren mit
+
+375
+00:14:01,960 --> 00:14:03,940
+der Basis. Das heißt, ich hatte ja
+
+376
+00:14:03,940 --> 00:14:05,100
+gerade schon mal gesagt, der normale
+
+377
+00:14:05,100 --> 00:14:07,000
+Logarithmus, der log oder lg
+
+378
+00:14:07,000 --> 00:14:09,400
+abgekürzt wird, hat die Basis 10. Das
+
+379
+00:14:09,400 --> 00:14:11,680
+sehen wir auch gleich. Der
+
+380
+00:14:11,680 --> 00:14:14,620
+Logarithmus Naturalis ln, der auch
+
+381
+00:14:14,620 --> 00:14:16,660
+oft vorkommt, hat die Basis e, also
+
+382
+00:14:16,660 --> 00:14:19,080
+die Eulersche Zahl e. Wenn wir den
+
+383
+00:14:19,080 --> 00:14:21,460
+Logarithmus Naturalis ln in einer
+
+384
+00:14:21,460 --> 00:14:23,180
+Gleichung haben, exponieren wir mit
+
+385
+00:14:23,180 --> 00:14:25,680
+der Eulerschen Zahl. E. Das ist ganz
+
+386
+00:14:25,680 --> 00:14:29,040
+wichtig, nicht mit der 10. Aber das
+
+387
+00:14:29,040 --> 00:14:32,600
+sehen wir auch gleich. Drittens, wenn
+
+388
+00:14:32,600 --> 00:14:35,220
+wir exponiert haben, haben wir wieder
+
+389
+00:14:35,220 --> 00:14:38,040
+eine normale Gleichung, das sehen wir
+
+390
+00:14:38,040 --> 00:14:41,880
+auch gleich, und diese können wir
+
+391
+00:14:41,880 --> 00:14:44,540
+einfach ausrechnen. Wir brauchen
+
+392
+00:14:44,540 --> 00:14:46,300
+vielleicht manchmal an manchen
+
+393
+00:14:46,300 --> 00:14:46,820
+Stellen noch ein paar
+
+394
+00:14:46,820 --> 00:14:49,140
+Logarithmenrechenregeln, aber die
+
+395
+00:14:49,140 --> 00:14:50,800
+müssen wir ja eh schon für die
+
+396
+00:14:50,800 --> 00:14:53,680
+Exponentialgleichung kennen. Damit
+
+397
+00:14:53,680 --> 00:14:55,200
+sind wir auch schon bei unserem
+
+398
+00:14:55,200 --> 00:14:57,620
+Beispiel. Wir haben einmal hier der
+
+399
+00:14:57,620 --> 00:15:00,040
+Logarithmus von 5 minus x Klammer zu
+
+400
+00:15:00,040 --> 00:15:02,440
+ist gleich minus 22 minus der
+
+401
+00:15:02,440 --> 00:15:05,400
+Logarithmus von x. Wie gerade schon
+
+402
+00:15:05,400 --> 00:15:08,380
+gesagt, isolieren wir erstmal unseren
+
+403
+00:15:08,380 --> 00:15:10,880
+Logarithmus. Das Problem ist
+
+404
+00:15:10,880 --> 00:15:12,120
+natürlich hierbei, wir haben zwei
+
+405
+00:15:12,120 --> 00:15:15,960
+Logarithmen und diese fassen wir erst
+
+406
+00:15:15,960 --> 00:15:18,960
+zusammen und dafür brauchen wir die
+
+407
+00:15:18,960 --> 00:15:22,480
+Logarithmusrechengesetze. Als erstes
+
+408
+00:15:22,480 --> 00:15:23,520
+müssen wir die aber auf eine Seite
+
+409
+00:15:23,520 --> 00:15:25,400
+kriegen. Das machen wir, indem wir
+
+410
+00:15:25,400 --> 00:15:27,620
+den Logarithmus von x auf die andere
+
+411
+00:15:27,620 --> 00:15:28,960
+Seite holen. Hier steht minus der
+
+412
+00:15:28,960 --> 00:15:30,860
+Logarithmus von x. Folglich rechnen
+
+413
+00:15:30,860 --> 00:15:32,680
+wir plus dem Logarithmus von x. Und
+
+414
+00:15:32,680 --> 00:15:34,980
+dann steht da der Logarithmus von 5
+
+415
+00:15:34,980 --> 00:15:37,680
+minus x plus der Logarithmus von x
+
+416
+00:15:37,680 --> 00:15:42,760
+ist gleich minus 22. Und nun müssen
+
+417
+00:15:42,760 --> 00:15:44,600
+wir aus diesen beiden Logarithmen
+
+418
+00:15:44,600 --> 00:15:47,800
+einen Logarithmus machen. Das machen
+
+419
+00:15:47,800 --> 00:15:49,980
+wir, indem wir das
+
+420
+00:15:49,980 --> 00:15:51,520
+Logarithmenrechengesetz anwenden. Und
+
+421
+00:15:51,520 --> 00:15:55,680
+zwar, wenn zwei Logarithmen addiert
+
+422
+00:15:55,680 --> 00:15:58,720
+werden, können wir auch die Werte
+
+423
+00:15:58,720 --> 00:16:00,640
+hier drin multiplizieren innerhalb
+
+424
+00:16:00,640 --> 00:16:03,660
+eines Logarithmes. Das heißt, aus dem
+
+425
+00:16:03,660 --> 00:16:05,720
+Logarithmus von 5 minus x plus dem
+
+426
+00:16:05,720 --> 00:16:07,060
+Logarithmus von x können wir machen
+
+427
+00:16:07,060 --> 00:16:10,640
+den Logarithmus von 5 minus x mal x.
+
+428
+00:16:11,340 --> 00:16:13,120
+Also wir können die Werte, die hier
+
+429
+00:16:13,120 --> 00:16:14,860
+im Logarithmus stehen, miteinander
+
+430
+00:16:14,860 --> 00:16:15,980
+multiplizieren. multiplizieren und
+
+431
+00:16:15,980 --> 00:16:18,120
+dann in einen Logarithmus schreiben.
+
+432
+00:16:18,460 --> 00:16:20,240
+Jetzt haben wir nämlich den
+
+433
+00:16:20,240 --> 00:16:22,220
+Logarithmus isoliert. Der Logarithmus
+
+434
+00:16:22,220 --> 00:16:26,900
+von dem Term ist gleich minus 22. Als
+
+435
+00:16:26,900 --> 00:16:28,600
+nächstes kommt jetzt Schritt 2.
+
+436
+00:16:29,480 --> 00:16:31,380
+Nämlich, wir wollen den Logarithmus
+
+437
+00:16:31,380 --> 00:16:33,100
+loswerden, deswegen exponieren wir
+
+438
+00:16:33,100 --> 00:16:36,820
+mit der Basis. Wir haben hier den LG,
+
+439
+00:16:37,040 --> 00:16:38,820
+das heißt, der hat die Basis 10,
+
+440
+00:16:39,020 --> 00:16:41,580
+daher exponieren wir mit 10. So
+
+441
+00:16:41,580 --> 00:16:43,420
+kommen wir auf. Auf 10 hoch der
+
+442
+00:16:43,420 --> 00:16:46,720
+Logarithmus von 5 minus x mal x ist
+
+443
+00:16:46,720 --> 00:16:49,320
+gleich 10 hoch minus 22. Also alles,
+
+444
+00:16:49,380 --> 00:16:50,660
+was hier auf der linken Seite steht,
+
+445
+00:16:50,760 --> 00:16:53,220
+steht am Ende im Exponenten von der
+
+446
+00:16:53,220 --> 00:16:55,040
+10. Alles, was hier auf der rechten
+
+447
+00:16:55,040 --> 00:16:56,460
+Seite steht, steht später im
+
+448
+00:16:56,460 --> 00:16:58,700
+Exponenten von der 10, nur auf der
+
+449
+00:16:58,700 --> 00:17:01,360
+rechten Seite hat. Warum wir das
+
+450
+00:17:01,360 --> 00:17:03,620
+alles machen, ist, 10 hoch der
+
+451
+00:17:03,620 --> 00:17:05,400
+Logarithmus von dem Term hier drin,
+
+452
+00:17:05,460 --> 00:17:07,260
+ist einfach nur der Term, der hier
+
+453
+00:17:07,260 --> 00:17:10,040
+drin steht. Das Exponieren mit 10
+
+454
+00:17:10,040 --> 00:17:11,800
+löst den Logarithmus. löst den
+
+455
+00:17:11,800 --> 00:17:14,840
+Logarithmus auf. So kommen wir auf 5
+
+456
+00:17:14,840 --> 00:17:17,140
+minus x mal x ist gleich 10 hoch
+
+457
+00:17:17,140 --> 00:17:20,100
+minus 22. Da sehen wir jetzt schon,
+
+458
+00:17:20,200 --> 00:17:27,140
+das ist eine ganz einfache ähm ganz
+
+459
+00:17:27,140 --> 00:17:29,960
+einfache quadratische Gleichung. Ich
+
+460
+00:17:29,960 --> 00:17:30,680
+komme gleich mit gleichem zweiten
+
+461
+00:17:30,680 --> 00:17:32,540
+Grades rauf. Und wie gesagt, hier
+
+462
+00:17:32,540 --> 00:17:33,420
+nochmal der Hinweis, Achtung
+
+463
+00:17:33,420 --> 00:17:35,140
+Logarithmenregeln, die brauchen wir
+
+464
+00:17:35,140 --> 00:17:38,420
+auf jeden Fall da oben. wo wir die
+
+465
+00:17:38,420 --> 00:17:41,980
+logarithmen addiert haben und damit
+
+466
+00:17:41,980 --> 00:17:44,540
+sind wir jetzt schon bei dem teil der
+
+467
+00:17:44,540 --> 00:17:46,500
+eigentlich normal funktioniert 5
+
+468
+00:17:46,500 --> 00:17:49,480
+minus x mal x gleich 10 hoch minus 22
+
+469
+00:17:49,480 --> 00:17:53,080
+wir multiplizieren das auch so dass
+
+470
+00:17:53,080 --> 00:17:54,240
+wir wieder unsere pq formel nutzen
+
+471
+00:17:54,240 --> 00:17:59,880
+können also 5 mal x sind 5x minus x
+
+472
+00:17:59,880 --> 00:18:02,080
+mal x sind minus x quadrat und das
+
+473
+00:18:02,080 --> 00:18:04,380
+ist gleich 10 hoch minus 22. Das
+
+474
+00:18:04,380 --> 00:18:06,540
+stellen wir jetzt erstmal oben nach
+
+475
+00:18:06,540 --> 00:18:08,860
+0. Dann steht da 5, also rechne minus
+
+476
+00:18:08,860 --> 00:18:12,400
+10 hoch minus 22. Das ist dann 5x
+
+477
+00:18:12,400 --> 00:18:15,180
+minus x² minus 10 hoch minus 22.
+
+478
+00:18:16,200 --> 00:18:17,260
+Jetzt haben wir den gerade
+
+479
+00:18:17,260 --> 00:18:20,220
+angesprochenen Fall. Unser x² hat
+
+480
+00:18:20,220 --> 00:18:22,740
+eine Minus. Deswegen, bevor wir die
+
+481
+00:18:22,740 --> 00:18:25,300
+PQ-Formel anwenden dürfen, müssen wir
+
+482
+00:18:25,300 --> 00:18:26,840
+mit malen minus 1 multiplizieren,
+
+483
+00:18:26,920 --> 00:18:30,080
+beziehungsweise geteilt durch minus 1
+
+484
+00:18:30,080 --> 00:18:31,700
+rechnen. Das heißt, die Vorzeichen
+
+485
+00:18:31,700 --> 00:18:34,040
+müssen sich drehen. Wir kommen dann,
+
+486
+00:18:34,160 --> 00:18:36,140
+wir müssen ja alles mit malen minus 1
+
+487
+00:18:36,140 --> 00:18:38,480
+multiplizieren, das heißt die 5x, die
+
+488
+00:18:38,480 --> 00:18:40,480
+minus x² und die minus 10 hoch minus
+
+489
+00:18:40,480 --> 00:18:42,940
+22. Wir kommen dann auf minus 5x plus
+
+490
+00:18:42,940 --> 00:18:45,460
+x² plus 10 hoch minus 22 ist gleich
+
+491
+00:18:45,460 --> 00:18:48,020
+0. Der Exponent wird dabei nie
+
+492
+00:18:48,020 --> 00:18:51,060
+geändert. Also auch wenn ihr mit
+
+493
+00:18:51,060 --> 00:18:53,120
+malen minus 2 rechnet, der Exponent
+
+494
+00:18:53,120 --> 00:18:54,360
+oben bleibt immer gleich. Das
+
+495
+00:18:54,360 --> 00:18:55,360
+Vorzeichen wird nicht verändert.
+
+496
+00:18:55,360 --> 00:18:57,860
+Jetzt ordnen wir das noch einmal kurz
+
+497
+00:18:57,860 --> 00:19:00,560
+und kommen zu x². Minus 5x plus 10
+
+498
+00:19:00,560 --> 00:19:03,420
+hoch minus 22 ist gleich 0. Unser p
+
+499
+00:19:03,420 --> 00:19:06,540
+ist daher minus 5, unser q ist 10
+
+500
+00:19:06,540 --> 00:19:09,940
+hoch minus 22. Hier sehen wir noch
+
+501
+00:19:09,940 --> 00:19:10,900
+mal einen Ansatz für unsere pq
+
+502
+00:19:10,900 --> 00:19:11,880
+-Formel. Das ist das gleiche
+
+503
+00:19:11,880 --> 00:19:13,800
+Verfahren wie vorhin. Wir setzen das
+
+504
+00:19:13,800 --> 00:19:15,380
+alles ein und kommen so auf minus,
+
+505
+00:19:15,560 --> 00:19:17,840
+minus 5 halbe, plus minus, die Wurzel
+
+506
+00:19:17,840 --> 00:19:20,200
+aus minus 5 halbe zu Quadrat, minus
+
+507
+00:19:20,200 --> 00:19:24,340
+10 hoch minus 22. 10 hoch minus 22.
+
+508
+00:19:25,020 --> 00:19:27,040
+Das ist so eine kleine Zahl, dass die
+
+509
+00:19:27,040 --> 00:19:30,240
+in der Rundung untergeht. Deswegen
+
+510
+00:19:30,240 --> 00:19:31,600
+ist das, was hier drunter steht,
+
+511
+00:19:31,640 --> 00:19:33,160
+jetzt einfach die Wurzel aus 6,25
+
+512
+00:19:33,160 --> 00:19:35,340
+beziehungsweise 2,5 zum Quadrat.
+
+513
+00:19:36,640 --> 00:19:39,000
+Deswegen x1,2 ist dann gleich 2,5
+
+514
+00:19:39,000 --> 00:19:41,700
+plus minus die Wurzel aus 6,25. Das
+
+515
+00:19:41,700 --> 00:19:46,360
+heißt x1 ist 5 und x2 ist dann 2,5
+
+516
+00:19:46,360 --> 00:19:50,240
+minus 2,5, also 0. Das Ganze hätte
+
+517
+00:19:50,240 --> 00:19:52,420
+man auch schon hier oben abschätzen
+
+518
+00:19:52,420 --> 00:19:53,560
+können, weil das... Das ist eine
+
+519
+00:19:53,560 --> 00:19:54,940
+Zahl, die schon sehr nah an der 0
+
+520
+00:19:54,940 --> 00:19:56,380
+ist. Und wenn man dann mal
+
+521
+00:19:56,380 --> 00:20:00,040
+überschlägig rechnet, das als 0
+
+522
+00:20:00,040 --> 00:20:01,560
+betrachtet und den Satz von 0 Produkt
+
+523
+00:20:01,560 --> 00:20:03,860
+nimmt, hätte man x1 gleich 0 und x2
+
+524
+00:20:03,860 --> 00:20:06,140
+gleich 5 gehabt und man hätte gleich
+
+525
+00:20:06,140 --> 00:20:08,160
+die Ergebnisse gehabt. Das ist ein
+
+526
+00:20:08,160 --> 00:20:09,320
+Trick, der funktioniert immer, wenn
+
+527
+00:20:09,320 --> 00:20:13,560
+man so eine Gleichung hat, wo man
+
+528
+00:20:13,560 --> 00:20:14,860
+hier ein Produkt stehen hat und das
+
+529
+00:20:14,860 --> 00:20:18,060
+ungefähr 0 ist. Das ist dann so eine
+
+530
+00:20:18,060 --> 00:20:19,500
+Überschlagsrechnung und in dem
+
+531
+00:20:19,500 --> 00:20:20,580
+Bereich, was man hier ausrechnet,
+
+532
+00:20:20,640 --> 00:20:21,920
+muss man letztendlich auch landen.
+
+533
+00:20:23,320 --> 00:20:24,860
+Das ist natürlich die Rechnung, die
+
+534
+00:20:24,860 --> 00:20:26,020
+auf jeden Fall durchzuführen ist.
+
+535
+00:20:26,080 --> 00:20:27,240
+Das, was ich gerade gesagt habe, ist
+
+536
+00:20:27,240 --> 00:20:28,860
+eher optional zum Kontrollieren,
+
+537
+00:20:28,880 --> 00:20:31,140
+beziehungsweise um das Ganze auf
+
+538
+00:20:31,140 --> 00:20:34,820
+Plausibilität zu prüfen. Damit wären
+
+539
+00:20:34,820 --> 00:20:36,300
+wir auch schon am Ende des Webinars.
+
+540
+00:20:36,400 --> 00:20:38,340
+Ich bedanke mich recht herzlich für
+
+541
+00:20:38,340 --> 00:20:39,400
+eure Aufmerksamkeit.
+

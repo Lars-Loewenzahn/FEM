@@ -1,0 +1,655 @@
+﻿1
+00:00:04,080 --> 00:00:06,460
+Hello, my name is Joshua and I 
+
+2
+00:00:06,460 --> 00:00:07,560
+am a tutor at 
+
+3
+00:00:07,560 --> 00:00:09,580
+Schülerhilfe. Today I would like to give 
+you 
+
+4
+00:00:09,580 --> 00:00:10,620
+an insight into the topic of 
+
+5
+00:00:10,620 --> 00:00:12,820
+homology and nomenclature. 
+
+6
+00:00:13,540 --> 00:00:15,520
+In 
+
+7
+00:00:15,520 --> 00:00:17,220
+chemistry , nomenclature refers to the 
+systematic and 
+
+8
+00:00:17,220 --> 00:00:18,700
+internationally standardized 
+
+9
+00:00:18,700 --> 00:00:21,440
+naming of chemical substances. 
+
+10
+00:00:21,440 --> 00:00:23,300
+
+11
+00:00:23,300 --> 00:00:26,180
+IUPAC, the International Union 
+
+12
+00:00:26,180 --> 00:00:28,020
+of Pure and Applied Chemistry, was 
+
+13
+00:00:28,040 --> 00:00:30,660
+founded over 100 years ago for this 
+purpose. The 
+
+14
+00:00:30,660 --> 00:00:32,340
+global chemical nomenclature follows its 
+rules. 
+
+15
+00:00:32,560 --> 00:00:34,260
+For this purpose, let us 
+
+16
+00:00:34,260 --> 00:00:36,540
+first look at the series of unbranched 
+
+17
+00:00:36,540 --> 00:00:39,400
+N-alkanes. Alkanes are the simplest 
+
+18
+00:00:39,400 --> 00:00:40,920
+hydrocarbons and have the 
+
+19
+00:00:40,920 --> 00:00:44,120
+general molecular formula CnH2n plus 2 
+
+20
+00:00:44,840 --> 00:00:46,580
+
+21
+00:00:46,580 --> 00:00:49,560
+. The first and smallest 
+
+22
+00:00:49,560 --> 00:00:51,960
+alkane is methane with the molecular 
+formula 
+
+23
+00:00:51,960 --> 00:00:54,920
+CH4 and the following structural formula, 
+
+24
+00:00:54,940 --> 00:00:58,780
+followed by ethane with C2H6, propane 
+
+25
+00:00:58,780 --> 00:01:01,820
+with C3H8 and butane with an 
+
+26
+00:01:01,820 --> 00:01:04,780
+additional CH2 group. Each 
+
+27
+00:01:04,780 --> 00:01:06,500
+further member of the series contains a 
+
+28
+00:01:06,500 --> 00:01:09,440
+further CH2 group. The names of the 
+
+29
+00:01:09,440 --> 00:01:11,580
+first ten alkanes have to be memorized 
+
+30
+00:01:11,580 --> 00:01:13,280
+, but this is 
+
+31
+00:01:13,280 --> 00:01:14,620
+made easier by the fact that from the 
+
+32
+00:01:14,620 --> 00:01:16,640
+fifth alkane onwards , the names are 
+
+33
+00:01:16,640 --> 00:01:18,400
+derived from the Greek counting words. 
+
+34
+00:01:18,800 --> 00:01:21,240
+Most people are probably familiar with the 
+
+35
+00:01:21,240 --> 00:01:23,600
+pentagon with its pentagons or the 
+hexagonal 
+
+36
+00:01:23,600 --> 00:01:25,720
+structure of honeycombs, i.e. 
+
+37
+00:01:25,720 --> 00:01:28,380
+hexagonal . Hepta 
+
+38
+00:01:28,380 --> 00:01:31,200
+stands for 7, octa is already 
+
+39
+00:01:31,200 --> 00:01:34,780
+known from the octet rule for 8, nona for 
+9 
+
+40
+00:01:34,780 --> 00:01:37,880
+and deca is used for the decade of a 
+
+41
+00:01:37,880 --> 00:01:40,760
+decade, i.e. for 10. The 
+
+42
+00:01:40,760 --> 00:01:42,400
+rest of the naming follows the system 
+
+43
+00:01:42,400 --> 00:01:44,340
+of naming one digit followed 
+
+44
+00:01:44,340 --> 00:01:47,080
+by the 10th digit. So Undekan 
+
+45
+00:01:47,080 --> 00:01:51,020
+for 11, Dodekan for 12, Tridekan for 13, 
+
+46
+00:01:51,260 --> 00:01:53,860
+followed by Tetra- and Pentadekan. 
+
+47
+00:01:53,860 --> 00:01:56,720
+The 20 bears the name Eikosan 
+
+48
+00:01:56,860 --> 00:01:59,580
+, followed by Heneikosan and Dokosan. 
+
+49
+00:01:59,760 --> 00:02:01,620
+
+50
+00:02:01,620 --> 00:02:03,640
+However, the system of further naming from 
+Trikosan onwards remains the 
+
+51
+00:02:03,640 --> 00:02:06,280
+same. The C30 alkane is called 
+
+52
+00:02:06,280 --> 00:02:10,040
+tricontane, the C40 alkane tetracontane 
+
+53
+00:02:10,040 --> 00:02:14,620
+and the C50 alkane pentacontane. 
+
+54
+00:02:14,620 --> 00:02:16,780
+
+55
+00:02:16,780 --> 00:02:18,660
+The 
+
+56
+00:02:18,660 --> 00:02:20,700
+homologous series of unbranched N 
+
+57
+00:02:20,700 --> 00:02:22,780
+-alkenes is analogous to the homologous 
+series of alkanes and their nomenclature . 
+Alkenes are 
+
+58
+00:02:22,780 --> 00:02:24,060
+hydrocarbons with a 
+
+59
+00:02:24,060 --> 00:02:25,720
+double bond and the general 
+
+60
+00:02:25,720 --> 00:02:29,420
+formula CnH2n. The smallest alkane with 
+
+61
+00:02:29,420 --> 00:02:32,740
+n equal to 2 is ethene, followed by 
+
+62
+00:02:32,740 --> 00:02:35,540
+propene and butene. The naming of 
+
+63
+00:02:35,540 --> 00:02:37,120
+alkenes differs from that of 
+
+64
+00:02:37,120 --> 00:02:39,720
+alkanes in the ending, in which an A 
+
+65
+00:02:39,720 --> 00:02:42,600
+is replaced by an E. The 1 before 
+
+66
+00:02:42,600 --> 00:02:44,940
+the ending indicates on which 
+
+67
+00:02:44,940 --> 00:02:47,000
+carbon atom, i.e. on which C 
+
+68
+00:02:47,000 --> 00:02:48,680
+ atom, the double bond is 
+
+69
+00:02:48,680 --> 00:02:51,180
+located and the Cs 
+
+70
+00:02:51,180 --> 00:02:52,940
+are named from the side on which the 
+
+71
+00:02:52,940 --> 00:02:54,840
+double bond is located so that the 
+
+72
+00:02:54,840 --> 00:02:57,820
+number is as small as possible. Although 
+the 
+
+73
+00:02:57,820 --> 00:02:59,580
+Cs of propene 
+
+74
+00:02:59,580 --> 00:03:03,780
+could be named prop2ene or prop3ene 
+
+75
+00:03:03,780 --> 00:03:06,340
+, all three 
+
+76
+00:03:06,340 --> 00:03:09,620
+molecule names refer to the same molecule. 
+The 
+
+77
+00:03:09,620 --> 00:03:11,500
+correct name applying the rules 
+
+78
+00:03:11,500 --> 00:03:14,980
+is prop1ene or simply propene. 
+
+79
+00:03:15,640 --> 00:03:17,820
+From butene onwards, the number before the 
+
+80
+00:03:17,820 --> 00:03:19,460
+ending becomes relevant for the structure, 
+
+81
+00:03:19,500 --> 00:03:20,840
+because here the 
+
+82
+00:03:20,840 --> 00:03:22,380
+double bond could also be 
+
+83
+00:03:22,380 --> 00:03:25,580
+located between the two middle Cs. But2ene 
+
+84
+00:03:25,580 --> 00:03:28,080
+would be a structural isomer of the 
+
+85
+00:03:28,080 --> 00:03:31,840
+but1ene shown here. Structural isomers 
+
+86
+00:03:31,840 --> 00:03:34,020
+have 
+
+87
+00:03:34,020 --> 00:03:36,440
+different structures despite an identical 
+summation formula. In the case of alkenes 
+
+88
+00:03:36,440 --> 00:03:37,860
+, this means that the 
+
+89
+00:03:37,860 --> 00:03:39,380
+double bonds are in a different 
+
+90
+00:03:39,380 --> 00:03:41,280
+position. 
+
+91
+00:03:41,280 --> 00:03:43,040
+The homologous series of 
+
+92
+00:03:43,040 --> 00:03:44,900
+alkenes shown here always has the double 
+bond 
+
+93
+00:03:44,900 --> 00:03:48,060
+at a terminal C. 
+
+94
+00:03:48,060 --> 00:03:49,740
+The hydrocarbons also include 
+
+95
+00:03:49,740 --> 00:03:51,660
+alkenes, which 
+
+96
+00:03:51,660 --> 00:03:53,780
+have a triple bond and the general 
+molecular formula 
+
+97
+00:03:53,780 --> 00:04:00,280
+C2H2N-2. They have the ending 
+
+98
+00:04:00,280 --> 00:04:02,180
+and the number of the C to which the 
+
+99
+00:04:02,180 --> 00:04:04,060
+triple bond is attached, just like 
+
+100
+00:04:04,060 --> 00:04:06,340
+the alkenes. Otherwise 
+
+101
+00:04:06,340 --> 00:04:08,080
+, the naming system of the 
+
+102
+00:04:08,080 --> 00:04:09,780
+members of this homologous series remains 
+unchanged. 
+
+103
+00:04:10,380 --> 00:04:12,400
+Apart from hydrocarbons 
+
+104
+00:04:12,400 --> 00:04:14,300
+, there are also other homologous series 
+
+105
+00:04:14,300 --> 00:04:15,840
+of organic compounds that 
+
+106
+00:04:15,840 --> 00:04:17,460
+
+107
+00:04:17,460 --> 00:04:19,160
+
+108
+00:04:19,160 --> 00:04:21,060
+
+109
+00:04:21,060 --> 00:04:23,180
+are made up of other elements in addition 
+to carbon and hydrogen . These include the 
+
+110
+00:04:23,180 --> 00:04:25,420
+oxygen-containing alcohols 
+
+111
+00:04:25,420 --> 00:04:28,320
+with the general molecular formula CnH2n 
+
+112
+00:04:28,320 --> 00:04:33,120
+plus 2O or CnH2n plus 1OH. 
+
+113
+00:04:34,180 --> 00:04:36,480
+Alcohols have the suffix "-ol", 
+
+114
+00:04:36,480 --> 00:04:38,660
+which 
+
+115
+00:04:38,660 --> 00:04:41,420
+stands for the hydroxyl group, i.e. the OH 
+group. The simplest 
+
+116
+00:04:41,420 --> 00:04:43,620
+alcohol is methanol and is toxic to 
+
+117
+00:04:43,620 --> 00:04:46,600
+humans. The C2 alcohol ethanol 
+
+118
+00:04:46,600 --> 00:04:48,340
+is the 
+
+119
+00:04:48,340 --> 00:04:49,900
+common alcohol we are familiar with from 
+everyday life and is 
+
+120
+00:04:49,900 --> 00:04:51,500
+contained in alcoholic beverages 
+
+121
+00:04:51,500 --> 00:04:54,280
+. It is followed by 
+
+122
+00:04:54,280 --> 00:04:57,600
+propanol, butanol and pentanol in the 
+homologous series. Again 
+
+123
+00:04:57,600 --> 00:04:58,760
+, only those alcohols 
+
+124
+00:04:58,760 --> 00:04:59,820
+are shown which 
+
+125
+00:04:59,820 --> 00:05:01,820
+
+126
+00:05:01,820 --> 00:05:04,340
+have the hydroxyl group on a terminal C. 
+Another group of 
+
+127
+00:05:04,340 --> 00:05:05,760
+organic compounds that 
+
+128
+00:05:05,760 --> 00:05:07,240
+
+129
+00:05:07,240 --> 00:05:09,200
+can be represented in a homologous series 
+are the alkanoic acids 
+
+130
+00:05:09,200 --> 00:05:12,140
+or carboxylic acids with the general 
+
+131
+00:05:12,140 --> 00:05:17,220
+molecular formula CnH2n plus 1COOH. These 
+
+132
+00:05:17,220 --> 00:05:19,220
+consist of a carboxyl group, 
+
+133
+00:05:19,220 --> 00:05:22,040
+i.e. the COOH group, and an 
+
+134
+00:05:22,040 --> 00:05:24,320
+alkyl radical or, in the case of 
+
+135
+00:05:24,320 --> 00:05:27,060
+methanoic acid, only one hydrogen. 
+
+136
+00:05:27,060 --> 00:05:28,540
+In the general molecular formula of 
+
+137
+00:05:28,540 --> 00:05:30,860
+carboxylic acids, we can use the 
+
+138
+00:05:30,860 --> 00:05:33,120
+natural numbers from 0 for n. 
+
+139
+00:05:33,320 --> 00:05:35,920
+The simplest carboxylic acid is therefore 
+
+140
+00:05:35,920 --> 00:05:38,980
+methanoic acid with the formula HCOOH and 
+the 
+
+141
+00:05:38,980 --> 00:05:42,970
+following structural formula. 
+
+142
+00:05:42,970 --> 00:05:44,770
+The next representatives of this 
+homologous 
+
+143
+00:05:44,770 --> 00:05:46,870
+series are ethanoic acid, also 
+
+144
+00:05:46,870 --> 00:05:48,230
+known as acetic acid, 
+
+145
+00:05:48,730 --> 00:05:52,190
+propanoic acid and butanoic acid. In this 
+
+146
+00:05:52,190 --> 00:05:53,770
+homologous series, the 
+
+147
+00:05:53,770 --> 00:05:55,350
+functional group is again located at the 
+
+148
+00:05:55,350 --> 00:05:57,350
+terminal C, recognizable by the 
+
+149
+00:05:57,350 --> 00:05:59,450
+letter N in front of the molecule name. 
+
+150
+00:06:00,850 --> 00:06:03,090
+The N indicates that it is an 
+
+151
+00:06:03,090 --> 00:06:04,890
+unbranched alkyl radical. 
+
+152
+00:06:04,890 --> 00:06:07,110
+Branched alkyl radicals have the 
+
+153
+00:06:07,110 --> 00:06:10,670
+prefix ISO or the number of the C at which 
+there 
+
+154
+00:06:10,670 --> 00:06:12,390
+is another alkyl group 
+
+155
+00:06:12,390 --> 00:06:14,410
+. Thank you for your 
+
+156
+00:06:14,410 --> 00:06:16,190
+attention. I hope this 
+
+157
+00:06:16,190 --> 00:06:17,790
+video has given you a better 
+
+158
+00:06:17,790 --> 00:06:19,670
+understanding of homologation 
+
+159
+00:06:19,670 --> 00:06:22,150
+and nomenclature. See you 
+
+160
+00:06:22,150 --> 00:06:22,690
+next time! 

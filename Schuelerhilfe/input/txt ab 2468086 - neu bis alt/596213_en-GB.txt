@@ -1,0 +1,568 @@
+﻿1
+00:00:00,980 --> 00:00:03,020
+Hello and welcome to the 
+
+2
+00:00:03,020 --> 00:00:05,560
+Schülerhilfe learning videos. 
+
+3
+00:00:05,560 --> 00:00:07,540
+This module is about citations and 
+
+4
+00:00:07,540 --> 00:00:10,080
+bibliographies. How to 
+
+5
+00:00:10,080 --> 00:00:11,480
+cite sources correctly. 
+
+6
+00:00:14,140 --> 00:00:16,420
+In this module, we will look 
+
+7
+00:00:16,420 --> 00:00:18,400
+at why you actually 
+
+8
+00:00:18,400 --> 00:00:21,660
+have to cite sources , how to cite 
+correctly 
+
+9
+00:00:21,660 --> 00:00:23,700
+and what is important in a 
+
+10
+00:00:23,700 --> 00:00:25,280
+bibliography. 
+
+11
+00:00:28,870 --> 00:00:30,690
+Citing sources. Why actually? 
+
+12
+00:00:31,170 --> 00:00:31,890
+All 
+
+13
+00:00:35,250 --> 00:00:37,510
+thoughts from or references to 
+
+14
+00:00:37,510 --> 00:00:38,690
+other constitutions must 
+
+15
+00:00:38,690 --> 00:00:41,090
+be identified, i.e. cited . 
+
+16
+00:00:41,590 --> 00:00:43,550
+This serves the purpose of verifiability. 
+
+17
+00:00:44,950 --> 00:00:46,650
+The principles of citation are 
+
+18
+00:00:46,650 --> 00:00:50,410
+directness. Quotations must be taken from 
+the 
+
+19
+00:00:50,410 --> 00:00:51,830
+original source. 
+
+20
+00:00:53,270 --> 00:00:55,990
+Appropriateness. Use quotations that only 
+
+21
+00:00:55,990 --> 00:00:57,570
+contain what the author 
+
+22
+00:00:57,570 --> 00:01:00,010
+wishes to substantiate. Accuracy. 
+
+23
+00:01:01,390 --> 00:01:02,990
+Sources should be sufficiently and 
+
+24
+00:01:02,990 --> 00:01:04,430
+clearly identified. 
+
+25
+00:01:07,980 --> 00:01:11,140
+Citation. How to do it right. 
+
+26
+00:01:13,420 --> 00:01:15,740
+There are different ways of citing. 
+
+27
+00:01:15,740 --> 00:01:18,560
+Please note that citations must always be 
+cited 
+
+28
+00:01:18,560 --> 00:01:19,980
+consistently. 
+
+29
+00:01:20,420 --> 00:01:22,080
+So only ever use one 
+
+30
+00:01:22,080 --> 00:01:25,020
+citation style. The 
+
+31
+00:01:25,020 --> 00:01:26,780
+citation forms presented here are 
+suggestions from the 
+
+32
+00:01:26,780 --> 00:01:29,460
+student help service. It is possible that 
+
+33
+00:01:29,460 --> 00:01:31,180
+your teacher 
+
+34
+00:01:31,180 --> 00:01:33,280
+
+35
+00:01:33,280 --> 00:01:33,720
+may want different guidelines for citing . 
+
+36
+00:01:36,790 --> 00:01:38,690
+When and how should citations be made? 
+
+37
+00:01:39,750 --> 00:01:42,270
+In a literal quotation, sentences, 
+
+38
+00:01:42,370 --> 00:01:45,130
+parts of sentences, terms and definitions 
+
+39
+00:01:45,130 --> 00:01:47,830
+are used verbatim. The literal 
+
+40
+00:01:47,830 --> 00:01:49,710
+quotation must be placed in quotation 
+marks 
+
+41
+00:01:49,710 --> 00:01:52,070
+and must 
+
+42
+00:01:52,070 --> 00:01:54,790
+correspond to the original text. The 
+grammar 
+
+43
+00:01:54,790 --> 00:01:57,350
+must not be changed either. 
+
+44
+00:01:57,350 --> 00:01:59,750
+An indirect or analogous quotation 
+
+45
+00:01:59,750 --> 00:02:02,070
+is a reproduction of the content in 
+
+46
+00:02:02,070 --> 00:02:04,670
+your own words. It is 
+
+47
+00:02:04,670 --> 00:02:07,070
+identified by the addition "compare". 
+
+48
+00:02:07,770 --> 00:02:09,990
+The scope of the 
+
+49
+00:02:09,990 --> 00:02:13,590
+quotation must be made clear. 
+
+50
+00:02:13,590 --> 00:02:15,430
+References merely refer to 
+
+51
+00:02:15,430 --> 00:02:18,070
+another text. References 
+
+52
+00:02:18,070 --> 00:02:19,810
+are mainly used when you 
+
+53
+00:02:19,810 --> 00:02:21,510
+do not 
+
+54
+00:02:21,510 --> 00:02:21,770
+want to go into more detail about the 
+text. 
+
+55
+00:02:24,550 --> 00:02:26,530
+Citations must be identified in two ways 
+
+56
+00:02:26,530 --> 00:02:29,410
+. Firstly, as a 
+
+57
+00:02:29,410 --> 00:02:32,390
+short reference in the text. The 
+
+58
+00:02:32,390 --> 00:02:34,270
+reference is placed in 
+
+59
+00:02:34,270 --> 00:02:37,130
+brackets directly after the quotation and 
+secondly as a 
+
+60
+00:02:37,130 --> 00:02:39,230
+full reference in the bibliography. 
+
+61
+00:02:41,440 --> 00:02:44,540
+The bibliography. The 
+
+62
+00:02:47,550 --> 00:02:49,170
+bibliography is a 
+
+63
+00:02:49,170 --> 00:02:51,150
+list of all 
+
+64
+00:02:51,150 --> 00:02:53,870
+sources cited in the text. Direct and 
+
+65
+00:02:53,870 --> 00:02:55,910
+indirect citations must be included. 
+
+66
+00:02:57,150 --> 00:02:59,230
+A bibliography 
+
+67
+00:02:59,230 --> 00:03:01,030
+is part of every academic 
+
+68
+00:03:01,030 --> 00:03:04,170
+paper. It is 
+
+69
+00:03:04,170 --> 00:03:07,030
+inserted at the end of the paper on a new 
+page. When 
+
+70
+00:03:10,740 --> 00:03:11,480
+creating a 
+
+71
+00:03:11,480 --> 00:03:13,280
+bibliography 
+
+72
+00:03:13,280 --> 00:03:16,720
+, the following must be observed. The 
+references are to be 
+
+73
+00:03:16,720 --> 00:03:18,760
+
+74
+00:03:18,760 --> 00:03:20,700
+
+75
+00:03:20,700 --> 00:03:24,060
+sorted in alphabetical order according to 
+the surnames of the first authors. Works 
+
+76
+00:03:24,060 --> 00:03:25,940
+written by the first author alone are 
+
+77
+00:03:25,940 --> 00:03:27,980
+
+78
+00:03:27,980 --> 00:03:31,040
+listed before works with other authors 
+listed after them. Works by a 
+
+79
+00:03:31,040 --> 00:03:33,080
+first author with different co-authors 
+
+80
+00:03:33,080 --> 00:03:35,340
+ are 
+
+81
+00:03:35,340 --> 00:03:38,000
+
+82
+00:03:38,000 --> 00:03:40,800
+to be sorted alphabetically according to 
+the surnames of the second or further 
+co-authors. In the case of 
+
+83
+00:03:43,750 --> 00:03:45,890
+works by one author or several 
+
+84
+00:03:45,890 --> 00:03:48,130
+authors from different years 
+
+85
+00:03:48,130 --> 00:03:49,850
+, the sources should be 
+
+86
+00:03:49,850 --> 00:03:52,610
+sorted chronologically according to the 
+year of publication. The 
+
+87
+00:03:52,610 --> 00:03:54,410
+oldest publication therefore comes 
+
+88
+00:03:54,410 --> 00:03:58,190
+first. For works by the same author 
+
+89
+00:03:58,190 --> 00:04:00,390
+from the same year, the sources should be 
+
+90
+00:04:00,390 --> 00:04:02,550
+
+91
+00:04:02,550 --> 00:04:04,890
+sorted according to the first letter of 
+the title of the article. The 
+
+92
+00:04:04,890 --> 00:04:06,670
+sources should then be 
+
+93
+00:04:06,670 --> 00:04:07,910
+numbered with lower case letters , which 
+
+94
+00:04:07,910 --> 00:04:09,030
+
+95
+00:04:09,030 --> 00:04:11,150
+
+96
+00:04:11,150 --> 00:04:11,450
+are placed in brackets immediately after 
+the year of publication . 
+
+97
+00:04:16,060 --> 00:04:17,520
+Internet sources are listed according to 
+the 
+
+98
+00:04:17,520 --> 00:04:21,980
+following pattern. Surname, 
+
+99
+00:04:21,980 --> 00:04:24,480
+abbreviated first name or institution 
+
+100
+00:04:24,480 --> 00:04:27,760
+of the website, the year in brackets, 
+
+101
+00:04:27,780 --> 00:04:30,900
+colon, title, period, 
+
+102
+00:04:31,160 --> 00:04:35,360
+subtitle, period, the URL, i.e. the 
+
+103
+00:04:35,360 --> 00:04:38,220
+Internet address in brackets, and 
+
+104
+00:04:38,220 --> 00:04:40,180
+the date of the last access in 
+
+105
+00:04:40,180 --> 00:04:43,900
+brackets. Here using the example of the 
+
+106
+00:04:43,900 --> 00:04:46,140
+Secretariat of the Standing Conference 
+
+107
+00:04:46,140 --> 00:04:48,740
+of the Ministers of Education and Cultural 
+Affairs of the Länder from 
+
+108
+00:04:48,740 --> 00:04:51,800
+2004. Standards for 
+
+109
+00:04:51,800 --> 00:04:52,360
+teacher training. 
+
+110
+00:04:53,320 --> 00:04:55,580
+Educational sciences. Last 
+
+111
+00:04:55,580 --> 00:04:57,960
+accessed on November 9, 2016. 
+
+112
+00:05:01,190 --> 00:05:03,130
+References for a book with 
+
+113
+00:05:03,130 --> 00:05:05,450
+an author are 
+
+114
+00:05:05,450 --> 00:05:09,210
+structured as follows. Surname, 
+abbreviated 
+
+115
+00:05:09,210 --> 00:05:12,210
+first name, period. The year of 
+publication 
+
+116
+00:05:12,210 --> 00:05:17,370
+in brackets, title, subtitle, 
+
+117
+00:05:17,370 --> 00:05:19,970
+edition in 
+
+118
+00:05:19,970 --> 00:05:27,010
+brackets if applicable , place of 
+publication, publisher. Here, using the 
+
+119
+00:05:27,010 --> 00:05:29,710
+example of B. Hoffmann from 
+
+120
+00:05:29,710 --> 00:05:34,030
+1998, Methodenmix, published by 
+
+121
+00:05:34,030 --> 00:05:37,470
+Winklers Verlag in Braunschweig. If there 
+are 
+
+122
+00:05:39,010 --> 00:05:41,130
+several authors, their names are 
+
+123
+00:05:41,130 --> 00:05:43,530
+listed one after the other. In the case of 
+
+124
+00:05:46,600 --> 00:05:48,560
+journals, the source is indicated 
+
+125
+00:05:48,560 --> 00:05:52,500
+as follows. Surname, 
+
+126
+00:05:52,500 --> 00:05:55,860
+abbreviated first name, year of 
+publication 
+
+127
+00:05:55,860 --> 00:05:58,820
+in brackets, colon, title of the 
+
+128
+00:05:58,820 --> 00:06:01,380
+article, period, title of the 
+
+129
+00:06:01,380 --> 00:06:05,600
+journal, volume, page numbers 
+
+130
+00:06:05,640 --> 00:06:09,400
+, period. Here using the example of L. 
+Haag 
+
+131
+00:06:09,400 --> 00:06:10,740
+from 1910. year 2015. 
+
+132
+00:06:12,000 --> 00:06:14,740
+tutoring. A boom in the market. No 
+
+133
+00:06:14,740 --> 00:06:17,080
+end in sight. From the journal 
+
+134
+00:06:17,080 --> 00:06:20,080
+Lehren und Lernen. Volume 41, 
+
+135
+00:06:20,080 --> 00:06:21,480
+pages 13 to 15. 
+
+136
+00:06:25,790 --> 00:06:27,950
+Thank you for your attention 
+
+137
+00:06:27,950 --> 00:06:29,770
+and good luck with citing 
+
+138
+00:06:29,770 --> 00:06:30,910
+your sources correctly. 

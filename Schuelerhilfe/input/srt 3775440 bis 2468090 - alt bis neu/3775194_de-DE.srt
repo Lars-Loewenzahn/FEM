@@ -1,0 +1,480 @@
+1
+00:00:03,920 --> 00:00:06,280
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,280 --> 00:00:07,340
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,340 --> 00:00:09,360
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,360 --> 00:00:11,260
+etwas über die Protein-Biosynthese
+
+5
+00:00:11,260 --> 00:00:13,140
+erklären. In unserem Online
+
+6
+00:00:13,140 --> 00:00:14,940
+-Lerncenter steht dir zu diesem Thema
+
+7
+00:00:14,940 --> 00:00:16,300
+natürlich auch noch ein Wiki zur
+
+8
+00:00:16,300 --> 00:00:17,500
+Verfügung, in dem dir die
+
+9
+00:00:17,500 --> 00:00:19,400
+grundlegenden und wichtigen Begriffe
+
+10
+00:00:19,400 --> 00:00:22,280
+genauer erklärt werden. Als Protein
+
+11
+00:00:22,280 --> 00:00:23,880
+-Biosynthese wird der Vorgang
+
+12
+00:00:23,880 --> 00:00:25,280
+bezeichnet, bei dem Proteine
+
+13
+00:00:25,280 --> 00:00:27,420
+hergestellt bzw. synthetisiert
+
+14
+00:00:27,420 --> 00:00:30,040
+werden. Die Proteinbiosynthese
+
+15
+00:00:30,040 --> 00:00:32,080
+besteht aus zwei fundamentalen
+
+16
+00:00:32,080 --> 00:00:34,580
+Bestandteilen, der Transkription und
+
+17
+00:00:34,580 --> 00:00:37,420
+der Translation. Die Transkription
+
+18
+00:00:37,420 --> 00:00:39,040
+beschreibt den Vorgang, bei dem eine
+
+19
+00:00:39,040 --> 00:00:42,220
+mRNA aus einer DNA gebildet wird. Sie
+
+20
+00:00:42,220 --> 00:00:44,300
+findet im Zellkern statt. Dieser
+
+21
+00:00:44,300 --> 00:00:46,400
+Prozess kann grob in drei Teile
+
+22
+00:00:46,400 --> 00:00:48,220
+unterteilt werden. Die
+
+23
+00:00:48,220 --> 00:00:50,740
+Transkriptionsinitialisierung, also
+
+24
+00:00:50,740 --> 00:00:52,940
+ihr Beginn, die Verlängerungsphase
+
+25
+00:00:52,940 --> 00:00:56,100
+oder Elongation und das Ende der
+
+26
+00:00:56,100 --> 00:00:57,720
+Transkription. beziehungsweise den
+
+27
+00:00:57,720 --> 00:01:00,340
+Terminator. Die Transkription
+
+28
+00:01:00,340 --> 00:01:02,900
+beginnt, nachdem die RNA-Polymerase
+
+29
+00:01:02,900 --> 00:01:05,380
+ein Enzym, welches RNA synthetisieren
+
+30
+00:01:05,380 --> 00:01:07,980
+kann, an den Promotor, einen
+
+31
+00:01:07,980 --> 00:01:09,400
+speziellen Abschnitt der DNA,
+
+32
+00:01:09,580 --> 00:01:13,160
+gebunden hat. Durch ein Enzym namens
+
+33
+00:01:13,160 --> 00:01:15,240
+Helikase werden die Doppelstränge der
+
+34
+00:01:15,240 --> 00:01:17,740
+DNA in zwei Einzelstränge aufgeteilt.
+
+35
+00:01:17,840 --> 00:01:20,000
+Da nun die Stränge freiliegen, können
+
+36
+00:01:20,000 --> 00:01:21,660
+sich an dem Matrizenstrang neue,
+
+37
+00:01:21,660 --> 00:01:24,660
+komplementäre Basen anlagern. Durch
+
+38
+00:01:24,660 --> 00:01:26,680
+deren Anlagerung entstehen im Laufe
+
+39
+00:01:26,680 --> 00:01:29,020
+der Elongation aus einem Strang zwei
+
+40
+00:01:29,020 --> 00:01:31,780
+neue Stränge. Auf dem Matrizenstrang
+
+41
+00:01:31,780 --> 00:01:34,500
+verläuft die Verlängerung von 3' zu
+
+42
+00:01:34,500 --> 00:01:37,580
+5' Richtung. Auf dem anderen Strang
+
+43
+00:01:37,580 --> 00:01:40,180
+verläuft die Verlängerung von 5' in
+
+44
+00:01:40,180 --> 00:01:43,260
+3' Richtung. Die Transkription wird
+
+45
+00:01:43,260 --> 00:01:45,300
+am Terminator, einem bestimmten
+
+46
+00:01:45,300 --> 00:01:48,540
+Sequenz auf der DNA, beendet. Bei
+
+47
+00:01:48,540 --> 00:01:49,740
+einzelnen Bei mehrzelligen Organismen
+
+48
+00:01:49,740 --> 00:01:52,000
+gelangt die mRNA daraufhin direkt zu
+
+49
+00:01:52,000 --> 00:01:54,140
+den Ribosomen. Bei mehrzelligen
+
+50
+00:01:54,140 --> 00:01:56,040
+Organismen wie uns Menschen wird die
+
+51
+00:01:56,040 --> 00:01:57,900
+mRNA, bevor sie den Zellkern
+
+52
+00:01:57,900 --> 00:02:00,320
+verlässt, noch bearbeitet. Dieser
+
+53
+00:02:00,320 --> 00:02:02,440
+Vorgang wird Spleißen genannt und
+
+54
+00:02:02,440 --> 00:02:04,240
+kann die Information auf der mRNA
+
+55
+00:02:04,240 --> 00:02:06,920
+weitgehend verändern. Im nächsten
+
+56
+00:02:06,920 --> 00:02:08,720
+Schritt verlässt die mRNA dann den
+
+57
+00:02:08,720 --> 00:02:10,160
+Zellkern und gelangt in das
+
+58
+00:02:10,160 --> 00:02:12,780
+Zytoplasma. Für die Translation wird
+
+59
+00:02:12,780 --> 00:02:15,260
+ein Organell namens Ribosom benötigt.
+
+60
+00:02:18,040 --> 00:02:19,280
+in denen die Proteine hergestellt
+
+61
+00:02:19,280 --> 00:02:21,300
+werden. Vergleicht man die Protein
+
+62
+00:02:21,300 --> 00:02:23,480
+-Biosynthese mit einem Lego-Bausatz,
+
+63
+00:02:23,600 --> 00:02:24,980
+könnt ihr euch vorstellen, dass im
+
+64
+00:02:24,980 --> 00:02:26,280
+Schritt der Transkription die
+
+65
+00:02:26,280 --> 00:02:28,820
+Anleitung erstellt bzw. abgeschrieben
+
+66
+00:02:28,820 --> 00:02:31,320
+wird. Die Ribosome stellen den
+
+67
+00:02:31,320 --> 00:02:33,340
+jeweiligen Bauer dar. Die nötigen
+
+68
+00:02:33,340 --> 00:02:35,980
+Teile, tRNAs, befinden sich im
+
+69
+00:02:35,980 --> 00:02:39,500
+Zytoplasma. Aber wie genau kann diese
+
+70
+00:02:39,500 --> 00:02:42,700
+Anleitung gelesen werden? Die DNA
+
+71
+00:02:42,700 --> 00:02:45,940
+bzw. mRNA ist in sogenannten Kodons
+
+72
+00:02:45,940 --> 00:02:48,020
+kodiert. Das bedeutet, dass immer
+
+73
+00:02:48,020 --> 00:02:50,100
+drei Basenpaare einer Aminosäure
+
+74
+00:02:50,100 --> 00:02:52,100
+entsprechen. So entspricht die
+
+75
+00:02:52,100 --> 00:02:54,860
+Reihenfolge Guanin, Zytosin und
+
+76
+00:02:54,860 --> 00:02:58,680
+Urazil der Aminosäure Alanin. Hier
+
+77
+00:02:58,680 --> 00:03:00,100
+nochmal ein Überblick über die
+
+78
+00:03:00,100 --> 00:03:01,940
+wichtigsten Aspekte des genetischen
+
+79
+00:03:01,940 --> 00:03:04,760
+Codes. Der genetische Code ist
+
+80
+00:03:04,760 --> 00:03:07,020
+Kommafrei. Es gibt keine Trennzeichen
+
+81
+00:03:07,020 --> 00:03:09,560
+zwischen Kodons. Kodons überlappen
+
+82
+00:03:09,560 --> 00:03:11,860
+sich gegenseitig nicht. Der
+
+83
+00:03:11,860 --> 00:03:13,800
+genetische Kot ist degeneriert,
+
+84
+00:03:13,900 --> 00:03:15,900
+mehrere Kodons können die gleiche
+
+85
+00:03:15,900 --> 00:03:18,400
+Aminosäure kodieren. Außerdem ist der
+
+86
+00:03:18,400 --> 00:03:20,440
+genetische Kot universell, also bei
+
+87
+00:03:20,440 --> 00:03:23,180
+fast allen Lebewesen identisch. Zur
+
+88
+00:03:23,180 --> 00:03:25,020
+Synthese eines Proteins wird nicht
+
+89
+00:03:25,020 --> 00:03:27,360
+die DNA abgelesen, sondern die mRNA.
+
+90
+00:03:27,860 --> 00:03:30,880
+Es gibt zwei RNA-Bindestellen auf dem
+
+91
+00:03:30,880 --> 00:03:33,520
+Ribosom. Auf der P-Stelle lagert sich
+
+92
+00:03:33,520 --> 00:03:36,280
+die mRNA an. Auf der A-Stelle finden
+
+93
+00:03:36,280 --> 00:03:38,740
+sich nun die tRNA mit dem passenden
+
+94
+00:03:38,740 --> 00:03:42,160
+Code ein. Die tRNA transportiert auf
+
+95
+00:03:42,160 --> 00:03:44,560
+einer Seite eine bestimmte Aminosäure
+
+96
+00:03:44,560 --> 00:03:46,640
+und auf der anderen Seite findet sich
+
+97
+00:03:46,640 --> 00:03:50,200
+der zu mRNA komplementäre Code. Wenn
+
+98
+00:03:50,200 --> 00:03:52,860
+der Code der tRNA mit dem der mRNA
+
+99
+00:03:52,860 --> 00:03:55,160
+kompatibel ist, wird an die
+
+100
+00:03:55,160 --> 00:03:56,880
+Aminosäurekette die jeweilige
+
+101
+00:03:56,880 --> 00:04:01,160
+Aminosäure angehängt. Dies wiederholt
+
+102
+00:04:01,160 --> 00:04:03,420
+sich bis das Ribosom auf einen Stopp
+
+103
+00:04:03,420 --> 00:04:05,440
+kommt. Codon, das Stoppsignal,
+
+104
+00:04:05,440 --> 00:04:07,660
+trifft. Hier endet die Translation
+
+105
+00:04:07,660 --> 00:04:09,720
+und die Aminosäurekette löst sich.
+
+106
+00:04:09,940 --> 00:04:12,260
+Als Resultat der Translation entsteht
+
+107
+00:04:12,260 --> 00:04:14,260
+somit ein Strang aus Aminosäuren.
+
+108
+00:04:14,420 --> 00:04:16,700
+Dieser Strang verändert und faltet
+
+109
+00:04:16,700 --> 00:04:19,000
+sich zu einem Protein zusammen. Es
+
+110
+00:04:19,000 --> 00:04:20,260
+werden dabei drei verschiedene
+
+111
+00:04:20,260 --> 00:04:22,760
+Proteinformen unterschieden. Die
+
+112
+00:04:22,760 --> 00:04:25,140
+Alpha, die Beta und die Gamma
+
+113
+00:04:25,140 --> 00:04:27,640
+-Struktur. Ich hoffe, dass du nun
+
+114
+00:04:27,640 --> 00:04:29,320
+mehr über die Proteinbiosynthese
+
+115
+00:04:29,320 --> 00:04:31,300
+weißt. Wenn du noch Fragen zu diesen
+
+116
+00:04:31,300 --> 00:04:33,260
+oder anderen Themen hast, Nutze gerne
+
+117
+00:04:33,260 --> 00:04:35,380
+unsere weiteren Lerninhalte im Online
+
+118
+00:04:35,380 --> 00:04:37,400
+-Lerncenter oder wende dich an deine
+
+119
+00:04:37,400 --> 00:04:39,020
+Schülerhilfe vor Ort. Bis zum
+
+120
+00:04:39,020 --> 00:04:39,600
+nächsten Mal!
+

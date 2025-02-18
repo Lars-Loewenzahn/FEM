@@ -1,0 +1,436 @@
+1
+00:00:04,020 --> 00:00:06,280
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,280 --> 00:00:07,440
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,440 --> 00:00:09,360
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,360 --> 00:00:10,660
+etwas über die Einteilung des
+
+5
+00:00:10,660 --> 00:00:12,280
+Periodensystems der Elemente
+
+6
+00:00:12,280 --> 00:00:14,080
+erklären. In unserem Online
+
+7
+00:00:14,080 --> 00:00:15,840
+-Lerncenter steht dir zu diesem Thema
+
+8
+00:00:15,840 --> 00:00:17,180
+natürlich auch noch ein Wiki zur
+
+9
+00:00:17,180 --> 00:00:18,400
+Verfügung, in dem dir die
+
+10
+00:00:18,400 --> 00:00:19,920
+grundlegenden und wichtigen Begriffe
+
+11
+00:00:19,920 --> 00:00:22,040
+genau erklärt werden. Man
+
+12
+00:00:22,040 --> 00:00:23,860
+unterscheidet zwischen Metallen und
+
+13
+00:00:23,860 --> 00:00:26,480
+Nichtmetallen und Halbmetallen. Die
+
+14
+00:00:26,480 --> 00:00:27,660
+Metalle befinden sich im
+
+15
+00:00:27,660 --> 00:00:29,760
+Periodensystem links und die
+
+16
+00:00:29,760 --> 00:00:32,360
+Nichtmetalle rechts. Die Halbmetalle
+
+17
+00:00:32,360 --> 00:00:33,760
+bilden eine kleine Gruppe zwischen
+
+18
+00:00:33,760 --> 00:00:35,320
+den Metallen und Nichtmetallen.
+
+19
+00:00:35,640 --> 00:00:37,560
+Metalle erkennt man an den folgenden
+
+20
+00:00:37,560 --> 00:00:40,560
+Eigenschaften. Ihre Atome bilden ein
+
+21
+00:00:40,560 --> 00:00:42,220
+Gitter aus Metallionen, in dessen
+
+22
+00:00:42,220 --> 00:00:43,320
+Zwischenräume sich die
+
+23
+00:00:43,320 --> 00:00:45,220
+Außenelektronen als das sogenannte
+
+24
+00:00:45,220 --> 00:00:48,280
+Elektronengas befinden. Daraus
+
+25
+00:00:48,280 --> 00:00:49,280
+ergeben sich die anderen
+
+26
+00:00:49,280 --> 00:00:51,620
+Eigenschaften wie der für die Metalle
+
+27
+00:00:51,620 --> 00:00:53,400
+typische Glanz, die gute
+
+28
+00:00:53,400 --> 00:00:55,300
+Leitfähigkeit bei Wärme und Strom,
+
+29
+00:00:55,300 --> 00:00:58,120
+ihre Schmelz- und Siedetemperaturen
+
+30
+00:00:58,120 --> 00:00:59,280
+sind im Vergleich zu anderen
+
+31
+00:00:59,280 --> 00:01:02,120
+Elementen sehr hoch und sie sind
+
+32
+00:01:02,120 --> 00:01:04,000
+duktil, das heißt sie lassen sich
+
+33
+00:01:04,000 --> 00:01:06,780
+verformen. Den Nichtmetallen dagegen
+
+34
+00:01:06,780 --> 00:01:09,640
+fehlen alle diese Eigenschaften. So
+
+35
+00:01:09,640 --> 00:01:11,340
+zählen unter anderem die gasförmigen
+
+36
+00:01:11,340 --> 00:01:13,520
+Elemente zu den Nichtmetallen. Man
+
+37
+00:01:13,520 --> 00:01:15,580
+unterscheidet dabei einatomige Gase
+
+38
+00:01:15,580 --> 00:01:18,620
+und mehratomige Gase. Die einatomigen
+
+39
+00:01:18,620 --> 00:01:20,640
+Gase sind in der achten Hauptgruppe.
+
+40
+00:01:20,640 --> 00:01:23,740
+Die Edelgase Helium, Neon, Argon,
+
+41
+00:01:23,860 --> 00:01:27,900
+Krypton, Xenon und Radon, sie kommen
+
+42
+00:01:27,900 --> 00:01:30,680
+in Spuren der Luft vor. Die
+
+43
+00:01:30,680 --> 00:01:32,760
+mehratomigen Gase bestehen aus zwei
+
+44
+00:01:32,760 --> 00:01:35,300
+oder mehr Atomen. Hauptbestandteil
+
+45
+00:01:35,300 --> 00:01:37,300
+unserer Atemluft ist das zweiatomige
+
+46
+00:01:37,300 --> 00:01:40,920
+Gas Stickstoff N2. Das massenmäßig
+
+47
+00:01:40,920 --> 00:01:43,040
+häufigste Element auf der Erde der
+
+48
+00:01:43,040 --> 00:01:45,720
+Sauerstoff kann also zweiatomiges Gas
+
+49
+00:01:45,720 --> 00:01:49,240
+O2 in der Luft oder als 3-atomiges
+
+50
+00:01:49,240 --> 00:01:52,000
+Gas O3, auch Ozon genannt, in der
+
+51
+00:01:52,000 --> 00:01:54,400
+Ozonschicht der Atmosphäre vorkommen.
+
+52
+00:01:55,120 --> 00:01:57,120
+Ozon kann auch hier unten auf der
+
+53
+00:01:57,120 --> 00:01:59,120
+Erdoberfläche vorkommen, vor allem an
+
+54
+00:01:59,120 --> 00:02:01,220
+heißen Tagen. Dann ist es allerdings
+
+55
+00:02:01,220 --> 00:02:03,400
+ein Zeichen für Luftverschmutzung. Es
+
+56
+00:02:03,400 --> 00:02:05,000
+kann bei Menschen und Tieren Schaden
+
+57
+00:02:05,000 --> 00:02:07,340
+verursachen. Andere Nichtmetalle sind
+
+58
+00:02:07,340 --> 00:02:09,400
+Feststoffe, welche Kristallstrukturen
+
+59
+00:02:09,400 --> 00:02:11,960
+bilden, wie Schwefel, Kohlenstoff und
+
+60
+00:02:11,960 --> 00:02:14,420
+Phosphor. Diese Kristalle sind aus
+
+61
+00:02:14,420 --> 00:02:16,140
+Atomen aufgebaut und haben kein
+
+62
+00:02:16,140 --> 00:02:19,620
+Elektronengas wie die Metalle. Daher
+
+63
+00:02:19,620 --> 00:02:20,840
+haben sie auch nicht die typischen
+
+64
+00:02:20,840 --> 00:02:22,840
+Eigenschaften. Sie haben keinen
+
+65
+00:02:22,840 --> 00:02:25,140
+metallischen Glanz, eine niedrige
+
+66
+00:02:25,140 --> 00:02:27,000
+Schmelz- und Siedeltemperatur und
+
+67
+00:02:27,000 --> 00:02:28,940
+schlechte elektrische und thermische
+
+68
+00:02:28,940 --> 00:02:31,500
+Leitfähigkeit. Die Halbmetalle haben,
+
+69
+00:02:31,720 --> 00:02:33,200
+wie der Name schon erahnen lässt,
+
+70
+00:02:33,360 --> 00:02:35,020
+einige Eigenschaften der Metalle,
+
+71
+00:02:35,080 --> 00:02:37,740
+aber nicht alle. Der wichtigste
+
+72
+00:02:37,740 --> 00:02:39,120
+Vertreter dieser Gruppe ist das
+
+73
+00:02:39,120 --> 00:02:41,540
+Silizium. Nach Sauerstoff ist es das
+
+74
+00:02:41,540 --> 00:02:43,540
+häufigste Element in der Erdkruste,
+
+75
+00:02:43,540 --> 00:02:45,460
+wo es allerdings nur in Verbindungen
+
+76
+00:02:45,460 --> 00:02:47,560
+vorkommt, nicht als Element selbst.
+
+77
+00:02:48,390 --> 00:02:50,500
+Als Element ist Silizium und auch
+
+78
+00:02:50,500 --> 00:02:53,120
+Germanium, Arsen und Antimon in der
+
+79
+00:02:53,120 --> 00:02:55,260
+Elektronik unverzichtbar und auch
+
+80
+00:02:55,260 --> 00:02:57,120
+Solarzellen bestehen hauptsächlich
+
+81
+00:02:57,120 --> 00:03:00,220
+aus Silizium. Entscheidend für die
+
+82
+00:03:00,220 --> 00:03:01,780
+Verwendung von Silizium in der
+
+83
+00:03:01,780 --> 00:03:04,460
+Elektronik und in Solarzellen sind
+
+84
+00:03:04,460 --> 00:03:05,700
+seine Halbleitereigenschaften.
+
+85
+00:03:05,700 --> 00:03:07,520
+Eigenschaften. Wie der Name schon
+
+86
+00:03:07,520 --> 00:03:09,040
+sagt, leiten die Halbleiter den
+
+87
+00:03:09,040 --> 00:03:12,360
+Strom, aber eben nicht immer. Einige
+
+88
+00:03:12,360 --> 00:03:14,500
+Halbleiter werden in Halbleiterdioden
+
+89
+00:03:14,500 --> 00:03:15,960
+verwendet, welche in vielen
+
+90
+00:03:15,960 --> 00:03:17,780
+Netzteilen und elektronischen Geräten
+
+91
+00:03:17,780 --> 00:03:20,460
+verbaut sind. Sie leiten den Strom in
+
+92
+00:03:20,460 --> 00:03:22,540
+eine Richtung wie Metalle. Vertauscht
+
+93
+00:03:22,540 --> 00:03:24,200
+man allerdings Plus- und Minuspol,
+
+94
+00:03:24,400 --> 00:03:27,520
+sperren die Dioden den Stromfluss. In
+
+95
+00:03:27,520 --> 00:03:29,460
+Solarzellen leitet das Silizium erst
+
+96
+00:03:29,460 --> 00:03:31,000
+den Strom, wenn die Sonne darauf
+
+97
+00:03:31,000 --> 00:03:33,280
+scheint. Erst durch die Sonnenenergie
+
+98
+00:03:33,280 --> 00:03:35,140
+können sich die Valenzelektronen aus
+
+99
+00:03:35,140 --> 00:03:36,860
+der Atomhülle lösen und den Strom
+
+100
+00:03:36,860 --> 00:03:40,280
+leiten. Wie bei Metallen. Ich hoffe,
+
+101
+00:03:40,320 --> 00:03:41,520
+dass ich dir helfen konnte, den
+
+102
+00:03:41,520 --> 00:03:43,000
+Unterschied zwischen Metallen und
+
+103
+00:03:43,000 --> 00:03:44,980
+Nichtmetallen zu verstehen. Wenn du
+
+104
+00:03:44,980 --> 00:03:46,560
+noch Fragen zu diesen Themen oder
+
+105
+00:03:46,560 --> 00:03:48,820
+anderen hast, nutze gerne unsere
+
+106
+00:03:48,820 --> 00:03:50,360
+weiteren Lerninhalte im Online
+
+107
+00:03:50,360 --> 00:03:52,000
+-Lerncenter oder wende dich an deine
+
+108
+00:03:52,000 --> 00:03:53,800
+Schülerhilfe vor Ort. Bis zum
+
+109
+00:03:53,800 --> 00:03:54,380
+nächsten Mal!
+

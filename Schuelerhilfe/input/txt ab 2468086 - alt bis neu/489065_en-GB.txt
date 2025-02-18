@@ -1,0 +1,441 @@
+﻿1
+00:00:00,340 --> 00:00:02,020
+Hello and welcome to 
+
+2
+00:00:02,020 --> 00:00:03,940
+a learning video from Schülerhilfe. 
+
+3
+00:00:03,940 --> 00:00:07,840
+Today I'm going to explain the NCI. NCI 
+
+4
+00:00:07,840 --> 00:00:12,200
+is the abbreviation for Nominativos com 
+
+5
+00:00:12,200 --> 00:00:14,340
+Infinitivo. 
+
+6
+00:00:15,520 --> 00:00:17,180
+This name may 
+
+7
+00:00:17,180 --> 00:00:19,580
+sound strange at first. But 
+
+8
+00:00:19,580 --> 00:00:21,340
+if we translate this sentence into Latin, 
+
+9
+00:00:21,340 --> 00:00:24,240
+we get an NCI straight away. The sentence 
+
+10
+00:00:24,240 --> 00:00:27,580
+would read Nomen primo alienum esse 
+
+11
+00:00:27,580 --> 00:00:32,240
+videtur. An NCI 
+
+12
+00:00:32,240 --> 00:00:38,160
+is made up of a subject, here Nomen, as 
+
+13
+00:00:38,160 --> 00:00:41,160
+in ACI, an infinitive, here 
+
+14
+00:00:41,160 --> 00:00:47,030
+Esse, and a predicate. The predicate 
+
+15
+00:00:47,030 --> 00:00:52,450
+is in the passive voice here. An NCI 
+
+16
+00:00:52,450 --> 00:00:54,130
+is therefore basically 
+
+17
+00:00:54,130 --> 00:00:56,570
+just an 
+
+18
+00:00:56,570 --> 00:00:59,410
+ACI in the passive voice. The only 
+difference is 
+
+19
+00:00:59,510 --> 00:01:01,470
+that we don't know who 
+
+20
+00:01:01,470 --> 00:01:04,390
+hears, says, sees or anything else. 
+
+21
+00:01:07,990 --> 00:01:10,650
+There is one thing you need to bear in 
+mind. 
+
+22
+00:01:10,650 --> 00:01:12,530
+Not all verbs 
+
+23
+00:01:12,530 --> 00:01:15,310
+that can have an ACI can also have an NCI 
+
+24
+00:01:15,310 --> 00:01:17,810
+. We then have to ask ourselves, 
+
+25
+00:01:17,930 --> 00:01:20,610
+which verbs have an NCI? 
+
+26
+00:01:20,610 --> 00:01:24,400
+Let's take a look at that. First of all, 
+
+27
+00:01:24,400 --> 00:01:27,540
+there are verbs of command and 
+
+28
+00:01:27,540 --> 00:01:31,290
+prohibition. The person 
+
+29
+00:01:31,290 --> 00:01:33,250
+speaking a prohibition is not 
+
+30
+00:01:33,250 --> 00:01:34,870
+named or should not 
+
+31
+00:01:34,870 --> 00:01:36,950
+be named or sometimes may 
+
+32
+00:01:36,950 --> 00:01:39,430
+not be named. An example 
+
+33
+00:01:39,430 --> 00:01:42,310
+of this is Milites pugnare 
+
+34
+00:01:42,310 --> 00:01:45,410
+juventur. First of all, we see that we 
+
+35
+00:01:45,410 --> 00:01:49,350
+have a subject again at the beginning. 
+
+36
+00:01:49,410 --> 00:01:53,190
+Then we have the infinitive and at the 
+
+37
+00:01:53,190 --> 00:01:55,890
+end juventur, a predicate in the 
+
+38
+00:01:55,890 --> 00:01:59,370
+passive voice. Juubere means to command. 
+
+39
+00:01:59,370 --> 00:02:01,270
+So we have a verb of command. 
+
+40
+00:02:01,710 --> 00:02:04,730
+And we translate, one commands the 
+
+41
+00:02:04,730 --> 00:02:06,110
+soldiers to fight. 
+
+42
+00:02:11,100 --> 00:02:13,600
+Then there is a nci next to the verb 
+
+43
+00:02:13,600 --> 00:02:16,740
+videre when it is in the passive voice. It 
+
+44
+00:02:16,740 --> 00:02:19,080
+then means to shine. 
+
+45
+00:02:23,430 --> 00:02:24,590
+Let's take a look at another example 
+
+46
+00:02:24,590 --> 00:02:30,190
+. Mons altissimus esse videtur. We 
+
+47
+00:02:30,190 --> 00:02:31,630
+see that we again have a subject 
+
+48
+00:02:31,630 --> 00:02:35,870
+in the nominative case, an infinitive and, 
+at the 
+
+49
+00:02:35,870 --> 00:02:39,010
+end, our predicate in the passive voice. 
+And 
+
+50
+00:02:39,010 --> 00:02:41,550
+we first translate literally, it 
+
+51
+00:02:41,550 --> 00:02:43,710
+seems that the mountain is very high. 
+
+52
+00:02:44,330 --> 00:02:45,970
+We now also have other 
+
+53
+00:02:45,970 --> 00:02:47,950
+ways of expressing this. 
+
+54
+00:02:47,950 --> 00:02:49,430
+Another possible translation is 
+
+55
+00:02:49,430 --> 00:02:51,510
+, the mountain seems to 
+
+56
+00:02:51,510 --> 00:02:53,490
+be high. Or the last possibility, 
+
+57
+00:02:53,850 --> 00:02:55,790
+apparently the mountain is high. 
+
+58
+00:02:59,260 --> 00:03:01,200
+Finally, the NCEI is also found in 
+
+59
+00:03:01,200 --> 00:03:03,700
+verbs of saying and verbs of 
+
+60
+00:03:03,700 --> 00:03:07,960
+thinking. as well as audiere or dickere. 
+
+61
+00:03:08,840 --> 00:03:10,400
+In German, we cannot express this 
+
+62
+00:03:10,400 --> 00:03:12,540
+literally. So we have to 
+
+63
+00:03:12,540 --> 00:03:13,940
+come up with alternative formulations 
+
+64
+00:03:13,940 --> 00:03:15,660
+. 
+
+65
+00:03:15,660 --> 00:03:16,800
+Let's take another look at what this means 
+using an 
+
+66
+00:03:16,800 --> 00:03:20,240
+example. Markus, Piga, Esse, 
+
+67
+00:03:20,400 --> 00:03:22,460
+Dickitur. Again, we have a 
+
+68
+00:03:22,460 --> 00:03:26,280
+subject, Markus, in the nominative case. 
+Then 
+
+69
+00:03:26,280 --> 00:03:28,980
+we have an infinitive, Esse, and at the 
+
+70
+00:03:28,980 --> 00:03:30,640
+end of the sentence a predicate in the 
+
+71
+00:03:30,640 --> 00:03:33,200
+passive voice. Let's try 
+
+72
+00:03:33,200 --> 00:03:34,440
+the literal 
+
+73
+00:03:34,440 --> 00:03:37,960
+version first . This reads, Markus is 
+
+74
+00:03:37,960 --> 00:03:41,160
+said to be lazy. That 
+
+75
+00:03:41,160 --> 00:03:43,580
+doesn't sound nice. We can therefore 
+replace it 
+
+76
+00:03:43,580 --> 00:03:45,680
+with other formulations. 
+
+77
+00:03:45,960 --> 00:03:49,020
+One idea would be, Mark is said to be 
+
+78
+00:03:49,020 --> 00:03:51,640
+lazy. That sounds 
+
+79
+00:03:51,640 --> 00:03:54,480
+better. You could also say that 
+
+80
+00:03:54,480 --> 00:03:58,020
+Mark is said to be lazy. Another 
+
+81
+00:03:58,020 --> 00:04:01,640
+idea would be to say that Mark is lazy or 
+
+82
+00:04:01,640 --> 00:04:04,180
+, finally, that Mark is supposedly lazy 
+
+83
+00:04:04,180 --> 00:04:05,960
+or that Mark is said to be lazy. 
+
+84
+00:04:09,920 --> 00:04:11,660
+Here you can see some more verbs 
+
+85
+00:04:11,660 --> 00:04:13,960
+with NCI. For example, 
+
+86
+00:04:13,960 --> 00:04:19,020
+dikor, one says that I, then 
+
+87
+00:04:19,020 --> 00:04:21,720
+nuntior would be an introduction for an 
+
+88
+00:04:21,720 --> 00:04:25,860
+NCI, one reports that. Then there is 
+
+89
+00:04:25,860 --> 00:04:27,960
+putor or credor, 
+
+90
+00:04:27,960 --> 00:04:32,600
+which both mean you believe. And finally 
+vertor 
+
+91
+00:04:32,600 --> 00:04:37,460
+or veruntor, one reports. Or 
+
+92
+00:04:37,460 --> 00:04:40,620
+traditur, traduntur, one transmits. 
+
+93
+00:04:41,000 --> 00:04:43,160
+You have to be careful, the last 
+
+94
+00:04:43,160 --> 00:04:45,040
+two verbs only 
+
+95
+00:04:45,040 --> 00:04:49,300
+occur in the third person. And that brings 
+us 
+
+96
+00:04:49,300 --> 00:04:50,440
+to the summary 
+
+97
+00:04:50,440 --> 00:04:53,140
+. You have seen what 
+
+98
+00:04:53,140 --> 00:04:55,640
+an NCI is made up of. Nomen 
+
+99
+00:04:55,640 --> 00:04:59,220
+primo alienum esse videtur. You have 
+
+100
+00:04:59,220 --> 00:05:02,780
+a subject, you have an infinitive 
+
+101
+00:05:02,780 --> 00:05:07,320
+and a predicate in the passive voice. The 
+NCI 
+
+102
+00:05:07,320 --> 00:05:09,720
+is also used with verbs of commanding 
+
+103
+00:05:09,720 --> 00:05:15,270
+and forbidding, behind video, in the 
+
+104
+00:05:15,270 --> 00:05:17,770
+sense of seeming in the passive voice and 
+
+105
+00:05:17,770 --> 00:05:20,370
+finally with verbs of saying and 
+
+106
+00:05:20,370 --> 00:05:24,490
+thinking. Thank you for your 
+
+107
+00:05:24,490 --> 00:05:26,230
+attention and see you next 
+
+108
+00:05:26,230 --> 00:05:26,590
+time. 

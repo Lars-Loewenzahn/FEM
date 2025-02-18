@@ -1,0 +1,632 @@
+1
+00:00:03,950 --> 00:00:05,870
+Hallo, mein Name ist Paula und ich
+
+2
+00:00:05,870 --> 00:00:07,290
+bin Nachhilfelehrerin bei der
+
+3
+00:00:07,290 --> 00:00:09,930
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,930 --> 00:00:11,690
+gerne etwas zum Thema Stoffmenge,
+
+5
+00:00:11,750 --> 00:00:14,290
+Avogadro-Konstante, molare Masse und
+
+6
+00:00:14,290 --> 00:00:16,790
+molares Volumen erklären. In unserem
+
+7
+00:00:16,790 --> 00:00:18,690
+Online-Lerncenter steht dir zu diesem
+
+8
+00:00:18,690 --> 00:00:20,430
+Thema natürlich auch ein Wiki zur
+
+9
+00:00:20,430 --> 00:00:21,970
+Verfügung, in dem dir die
+
+10
+00:00:21,970 --> 00:00:23,530
+grundlegenden und wichtigen Begriffe
+
+11
+00:00:23,530 --> 00:00:26,650
+genauer erklärt werden. Wie du
+
+12
+00:00:26,650 --> 00:00:28,310
+vielleicht weißt, handelt es sich bei
+
+13
+00:00:28,310 --> 00:00:30,650
+Atomen und Molekülen um extrem kleine
+
+14
+00:00:30,650 --> 00:00:32,630
+Teilchen mit kleiner Masse, aus denen
+
+15
+00:00:32,630 --> 00:00:35,470
+Materie besteht. Um Berechnungen
+
+16
+00:00:35,470 --> 00:00:37,370
+durchführen zu können und Edukte im
+
+17
+00:00:37,370 --> 00:00:38,750
+richtigen Verhältnis zu einer
+
+18
+00:00:38,750 --> 00:00:41,310
+Reaktion einzusetzen, bedient man
+
+19
+00:00:41,310 --> 00:00:42,670
+sich einiger Größen und einer
+
+20
+00:00:42,670 --> 00:00:44,490
+Konstante, auf die ich im Folgenden
+
+21
+00:00:44,490 --> 00:00:48,210
+eingehen möchte. Die Stoffmenge mit
+
+22
+00:00:48,210 --> 00:00:50,530
+dem Formelzeichen n gibt indirekt die
+
+23
+00:00:50,530 --> 00:00:52,330
+Teilchenzahl einer Stoffportion an.
+
+24
+00:00:52,510 --> 00:00:54,270
+Bei einem Teilchen kann es sich
+
+25
+00:00:54,270 --> 00:00:56,870
+sowohl um Atome und Ionen als auch um
+
+26
+00:00:56,870 --> 00:00:59,370
+Moleküle handeln. der Stoffmenge ist
+
+27
+00:00:59,370 --> 00:01:02,090
+Mol. Eine Stoffmenge von einem Mol
+
+28
+00:01:02,090 --> 00:01:06,230
+enthält immer 6,022 mal 10 hoch 23
+
+29
+00:01:06,230 --> 00:01:08,810
+Teilchen. Diese Anzahl der in einem
+
+30
+00:01:08,810 --> 00:01:10,650
+Mol enthaltenen Teilchen ist die
+
+31
+00:01:10,650 --> 00:01:12,730
+sogenannte Avogadro-Konstante,
+
+32
+00:01:12,850 --> 00:01:14,430
+benannt nach dem italienischen
+
+33
+00:01:14,430 --> 00:01:17,410
+Physiker Amedeo Avogadro. Die
+
+34
+00:01:17,410 --> 00:01:19,010
+Avogadro-Konstante ist eine
+
+35
+00:01:19,010 --> 00:01:21,210
+einheitslose Zahl und wird mit einem
+
+36
+00:01:21,210 --> 00:01:23,310
+großen N und einem tiefgestellten
+
+37
+00:01:23,310 --> 00:01:24,930
+großen A als Formelzeichen
+
+38
+00:01:24,930 --> 00:01:27,370
+dargestellt. Diese Definition der
+
+39
+00:01:27,370 --> 00:01:28,950
+Stoffmenge und die Kenntnis ihrer
+
+40
+00:01:28,950 --> 00:01:31,090
+exakten Teilchenanzahl lässt
+
+41
+00:01:31,090 --> 00:01:32,810
+Einführungen weiterer Größen zu,
+
+42
+00:01:32,970 --> 00:01:34,810
+welche das Rechnen mit Stoffmengen
+
+43
+00:01:34,810 --> 00:01:36,590
+erleichtert. So lässt sich die
+
+44
+00:01:36,590 --> 00:01:38,290
+Stoffmenge in einer Stoffportion
+
+45
+00:01:38,290 --> 00:01:40,210
+erreichen, indem man die Masse einer
+
+46
+00:01:40,210 --> 00:01:42,490
+Stoffportion durch die molare Masse
+
+47
+00:01:42,490 --> 00:01:44,930
+des Stoffes teilt. Die molare Masse
+
+48
+00:01:44,930 --> 00:01:47,710
+trägt das Formelzeichen M mit der
+
+49
+00:01:47,710 --> 00:01:50,210
+Einheit Gramm pro Mol. Die molare
+
+50
+00:01:50,210 --> 00:01:51,870
+Masse von einem Gramm pro Mol
+
+51
+00:01:51,870 --> 00:01:53,910
+entspricht der atomaren Masseeinheit,
+
+52
+00:01:54,010 --> 00:01:57,290
+also einem Unit bzw. Dorten. Somit
+
+53
+00:01:57,290 --> 00:01:58,830
+lässt sich die molare Masse von
+
+54
+00:01:58,830 --> 00:02:01,070
+Elementen dem Periodensystem, kurz
+
+55
+00:02:01,070 --> 00:02:03,510
+PSE, entnehmen, in welchem jedem
+
+56
+00:02:03,510 --> 00:02:05,610
+Element seine mittlere Atommasse
+
+57
+00:02:05,610 --> 00:02:08,070
+zugeordnet wird. Die molare Masse von
+
+58
+00:02:08,070 --> 00:02:09,570
+Verbindungen lässt sich durch
+
+59
+00:02:09,570 --> 00:02:12,270
+Addition der molaren Massen der in
+
+60
+00:02:12,270 --> 00:02:13,850
+der Verbindung vorliegenden Atome
+
+61
+00:02:13,850 --> 00:02:16,930
+berechnen. Wasser mit der Formel H2O
+
+62
+00:02:16,930 --> 00:02:19,390
+enthält zwei Wasserstoffatome mit
+
+63
+00:02:19,390 --> 00:02:21,870
+jeweils einem Gramm pro Mol und einen
+
+64
+00:02:21,870 --> 00:02:24,190
+Sauerstoffatom mit 16 Gramm pro Mol.
+
+65
+00:02:24,330 --> 00:02:26,810
+Damit hat die Verbindung H2O eine
+
+66
+00:02:26,810 --> 00:02:28,930
+molare Masse von 18 Gramm pro Mol.
+
+67
+00:02:29,250 --> 00:02:31,490
+Kochsalz, chemisch Natriumchlorid,
+
+68
+00:02:31,710 --> 00:02:34,150
+hat nach Summieren der Atommasse die
+
+69
+00:02:34,150 --> 00:02:38,210
+molare Masse 58,5 Gramm pro Mol. Die
+
+70
+00:02:38,210 --> 00:02:40,150
+molare Masse ist hilfreich, wenn man
+
+71
+00:02:40,150 --> 00:02:41,730
+mit Feststoffen oder Flüssigkeiten
+
+72
+00:02:41,730 --> 00:02:43,890
+arbeitet, weil man diese abwiegen
+
+73
+00:02:43,890 --> 00:02:45,510
+kann und so die vorliegenden
+
+74
+00:02:45,510 --> 00:02:47,050
+Stoffmengen berechnen oder eine
+
+75
+00:02:47,050 --> 00:02:48,870
+gewünschte Stoffmenge einsetzen kann.
+
+76
+00:02:49,630 --> 00:02:51,750
+Arbeitet man jedoch mit gasförmigen
+
+77
+00:02:51,750 --> 00:02:53,370
+Stoffen, bedient man sich einer
+
+78
+00:02:53,370 --> 00:02:55,570
+weiteren Größe, des molaren Volumens.
+
+79
+00:02:55,810 --> 00:02:57,910
+Das molare Volumen beschreibt das
+
+80
+00:02:57,910 --> 00:02:59,550
+Volumen, das ein Mol eines eines
+
+81
+00:02:59,550 --> 00:03:02,490
+Stoffes einnimmt. Bei Gasen hängt das
+
+82
+00:03:02,490 --> 00:03:04,310
+molare Volumen nicht von der Art des
+
+83
+00:03:04,310 --> 00:03:06,990
+Stoffes ab. Es ist eine sogenannte
+
+84
+00:03:06,990 --> 00:03:09,570
+intensive Größe, eine Zustandsgröße,
+
+85
+00:03:09,670 --> 00:03:11,930
+die sich bei Veränderung der Größe
+
+86
+00:03:11,930 --> 00:03:14,330
+des Systems nicht ändert. Ein Mol
+
+87
+00:03:14,330 --> 00:03:16,810
+eines idealen Gases, unabhängig
+
+88
+00:03:16,810 --> 00:03:18,330
+davon, um welches Gas es sich
+
+89
+00:03:18,330 --> 00:03:19,650
+handelt, nimmt bei
+
+90
+00:03:19,650 --> 00:03:21,510
+Standardbedingungen, also bei
+
+91
+00:03:21,510 --> 00:03:23,450
+atmosphärischem Druck und einer
+
+92
+00:03:23,450 --> 00:03:25,990
+Temperatur von 0°C Celsius immer ein
+
+93
+00:03:25,990 --> 00:03:29,010
+Volumen von 22,4 Liter ein. Die
+
+94
+00:03:29,010 --> 00:03:30,850
+Einheit des molaren Volumens ist
+
+95
+00:03:30,850 --> 00:03:33,670
+somit Liter pro Mol. Da jetzt alle
+
+96
+00:03:33,670 --> 00:03:35,610
+Größen bekannt sind, können wir auf
+
+97
+00:03:35,610 --> 00:03:38,210
+die Formeln eingehen. Die Stoffmenge
+
+98
+00:03:38,210 --> 00:03:40,030
+lässt sich sowohl als Quotient aus
+
+99
+00:03:40,030 --> 00:03:42,710
+Masse, Formelzeichen klein m, und
+
+100
+00:03:42,710 --> 00:03:44,950
+molare Masse auch als Quotient aus
+
+101
+00:03:44,950 --> 00:03:46,450
+Volumen und molarem Volumen
+
+102
+00:03:46,450 --> 00:03:48,450
+ausdrücken. Bei der Arbeit in
+
+103
+00:03:48,450 --> 00:03:50,370
+Flüssigkeiten und Festkörpern wird
+
+104
+00:03:50,370 --> 00:03:52,150
+meist die erste Formel benutzt.
+
+105
+00:03:52,550 --> 00:03:54,410
+Dennoch ist hier auch die Rechnung
+
+106
+00:03:54,410 --> 00:03:56,830
+mit dem molaren Volumen möglich. Bei
+
+107
+00:03:56,830 --> 00:03:58,790
+Feststoffen und Flüssigkeiten ergibt
+
+108
+00:03:58,790 --> 00:04:01,050
+sich das molare Volumen als Quotient
+
+109
+00:04:01,050 --> 00:04:03,110
+aus molarer Masse und der Dichte des
+
+110
+00:04:03,110 --> 00:04:05,030
+Stoffes. Die Dichte hat als
+
+111
+00:04:05,030 --> 00:04:06,390
+Formelzeichen den griechischen
+
+112
+00:04:06,390 --> 00:04:09,270
+Buchstaben Rho und die Einheit Gramm
+
+113
+00:04:09,270 --> 00:04:11,570
+pro Liter. Die Formeln sind von
+
+114
+00:04:11,570 --> 00:04:13,790
+Nutzen, wenn man Edukte im korrekten
+
+115
+00:04:13,790 --> 00:04:15,290
+stichiometrischen Verhältnis
+
+116
+00:04:15,290 --> 00:04:17,730
+einsetzen möchte. Die Stichiometrie
+
+117
+00:04:17,730 --> 00:04:19,490
+an sich ist die Lehre von der
+
+118
+00:04:19,490 --> 00:04:21,050
+mengenmäßigen Zusammensetzung
+
+119
+00:04:21,050 --> 00:04:23,190
+chemischer Verbindungen und der
+
+120
+00:04:23,190 --> 00:04:24,870
+mathematischen Berechnung chemischer
+
+121
+00:04:24,870 --> 00:04:27,450
+Umsetzungen. Betrachten wir dazu die
+
+122
+00:04:27,450 --> 00:04:29,750
+Reaktion von Lithium und Wasser zu
+
+123
+00:04:29,750 --> 00:04:31,730
+Wasserstoff und Lithiumhydroxid.
+
+124
+00:04:31,850 --> 00:04:34,590
+Dabei reagieren zwei Lithiumatome mit
+
+125
+00:04:34,590 --> 00:04:36,390
+zwei Wasserteilchen zu einem
+
+126
+00:04:36,390 --> 00:04:38,610
+Wasserstoffmolekül und zwei Teilchen
+
+127
+00:04:38,610 --> 00:04:41,630
+Lithiumhydroxid. Aufgrund der
+
+128
+00:04:41,630 --> 00:04:43,270
+Berechnung der der molaren Masse
+
+129
+00:04:43,270 --> 00:04:45,910
+erfährt man, dass bei Einsatz von 14
+
+130
+00:04:45,910 --> 00:04:48,530
+g Lithium 2 g Wasserstoff entstehen.
+
+131
+00:04:48,990 --> 00:04:50,610
+Stellt man sich nun beispielsweise
+
+132
+00:04:50,610 --> 00:04:53,370
+die Frage, wie viel CO2 bei der
+
+133
+00:04:53,370 --> 00:04:55,190
+Verbrennung von einem Kilogramm
+
+134
+00:04:55,190 --> 00:04:57,290
+Metall entstehen, lässt sich das
+
+135
+00:04:57,290 --> 00:04:58,890
+ebenfalls mit der dazugehörigen
+
+136
+00:04:58,890 --> 00:05:01,970
+Reaktionsgleichung bestimmen. Aus
+
+137
+00:05:01,970 --> 00:05:04,530
+einem Mol Methan mit 16 g entsteht
+
+138
+00:05:04,530 --> 00:05:06,890
+ein Mol Kohlenstoffdioxid mit 44 g.
+
+139
+00:05:07,470 --> 00:05:10,310
+Die Masse eines Mols CO2 entspricht
+
+140
+00:05:10,310 --> 00:05:13,090
+den 2,75-fachen eines Mols Methan.
+
+141
+00:05:13,150 --> 00:05:15,790
+Werden nun statt 16 Gramm Methan 1
+
+142
+00:05:15,790 --> 00:05:17,710
+Kilogramm umgesetzt, entstehen
+
+143
+00:05:17,710 --> 00:05:20,930
+dementsprechend 2,75 Kilogramm CO2.
+
+144
+00:05:21,350 --> 00:05:23,610
+Analog entstehen aus einem Kilogramm
+
+145
+00:05:23,610 --> 00:05:26,990
+Methan 2,25 Kilogramm Wasser. Diese
+
+146
+00:05:26,990 --> 00:05:29,110
+stereometrischen Berechnungen lassen
+
+147
+00:05:29,110 --> 00:05:31,250
+sich auch nutzen, um Edukte im
+
+148
+00:05:31,250 --> 00:05:33,050
+exakten Reaktionsverhältnis
+
+149
+00:05:33,050 --> 00:05:35,410
+einzusetzen. So setzt man für die
+
+150
+00:05:35,410 --> 00:05:37,310
+Verbrennung von Methan, Methan und
+
+151
+00:05:37,310 --> 00:05:39,650
+Sauerstoff im Massoverhältnis 1 zu 4
+
+152
+00:05:39,650 --> 00:05:42,710
+bzw. im Volumenverhältnis, beide
+
+153
+00:05:42,710 --> 00:05:45,350
+Edukte sind gasförmig, 1 zu 2 ein.
+
+154
+00:05:45,510 --> 00:05:47,270
+Schön, dass du wieder dabei warst.
+
+155
+00:05:47,270 --> 00:05:48,850
+Wenn du noch Fragen zu diesem oder
+
+156
+00:05:48,850 --> 00:05:50,610
+anderen Themen hast, nutze gerne
+
+157
+00:05:50,610 --> 00:05:53,050
+unsere weiteren Lerninhalte im Online
+
+158
+00:05:53,050 --> 00:05:55,070
+-Lerncenter. Bis zum nächsten Mal.
+

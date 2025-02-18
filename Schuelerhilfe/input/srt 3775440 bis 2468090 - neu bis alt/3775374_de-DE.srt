@@ -1,0 +1,636 @@
+1
+00:00:04,210 --> 00:00:06,750
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,750 --> 00:00:07,930
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,930 --> 00:00:10,050
+Schülerhilfe. Ich freue mich, dir
+
+4
+00:00:10,050 --> 00:00:12,070
+heute das Thema Valenzstrichformeln,
+
+5
+00:00:12,130 --> 00:00:14,230
+Einfach- und Mehrfachbindungen zu
+
+6
+00:00:14,230 --> 00:00:16,570
+erklären. Ergänzend zu diesem Video
+
+7
+00:00:16,570 --> 00:00:17,710
+steht dir in unserem Online
+
+8
+00:00:17,710 --> 00:00:19,390
+-Lerncenter natürlich auch ein Wiki
+
+9
+00:00:19,390 --> 00:00:21,230
+zu diesem Thema zur Verfügung, in dem
+
+10
+00:00:21,230 --> 00:00:22,490
+dir die wichtigsten Begriffe und
+
+11
+00:00:22,490 --> 00:00:25,410
+Grundlagen erklärt werden. Zur
+
+12
+00:00:25,410 --> 00:00:27,470
+Erinnerung, Valenzelektronen sind die
+
+13
+00:00:27,470 --> 00:00:29,430
+Außenelektronen eines Atoms, die sich
+
+14
+00:00:29,430 --> 00:00:31,410
+in der äußersten Schale aufhalten und
+
+15
+00:00:31,410 --> 00:00:32,770
+an Bindungen zwischen Atomen
+
+16
+00:00:32,770 --> 00:00:34,410
+beteiligt sind. Bei den
+
+17
+00:00:34,410 --> 00:00:36,070
+Hauptgruppenelementen entspricht die
+
+18
+00:00:36,070 --> 00:00:37,910
+Hauptgruppennummer, das sind die
+
+19
+00:00:37,910 --> 00:00:40,970
+Spalten von 1 bis 8, der Anzahl der
+
+20
+00:00:40,970 --> 00:00:42,850
+Valenzelektronen. Diese
+
+21
+00:00:42,850 --> 00:00:44,470
+Valenzelektronen können mittels
+
+22
+00:00:44,470 --> 00:00:46,530
+Valenz-Strich-Streibweise einfach
+
+23
+00:00:46,530 --> 00:00:48,490
+dargestellt werden. Dabei
+
+24
+00:00:48,490 --> 00:00:50,470
+symbolisiert ein Punkt ein Elektron
+
+25
+00:00:50,470 --> 00:00:53,190
+und ein Strich zwei Elektronen, die
+
+26
+00:00:53,190 --> 00:00:54,850
+als Elektronenpaar anzusehen sind.
+
+27
+00:00:54,850 --> 00:00:57,830
+Nun streben alle Atome nach einer
+
+28
+00:00:57,830 --> 00:01:00,210
+komplett gefüllten Außenschale, der
+
+29
+00:01:00,210 --> 00:01:03,230
+sogenannten Edelgaskonfiguration. Um
+
+30
+00:01:03,230 --> 00:01:04,870
+dieses Ziel zu erreichen, können
+
+31
+00:01:04,870 --> 00:01:06,310
+neben Ionenbildung auch
+
+32
+00:01:06,310 --> 00:01:08,130
+Elektronenpaarbindungen zwischen den
+
+33
+00:01:08,130 --> 00:01:09,770
+Bindungspartnern aufgebaut werden.
+
+34
+00:01:10,590 --> 00:01:12,210
+Bei einer Elektronenpaarbindung
+
+35
+00:01:12,210 --> 00:01:13,770
+teilen sich die Bindungspartner
+
+36
+00:01:13,770 --> 00:01:15,770
+Elektronenpaare, um in der
+
+37
+00:01:15,770 --> 00:01:17,010
+Außenschale die volle
+
+38
+00:01:17,010 --> 00:01:19,410
+Elektronenanzahl, also in der Regel
+
+39
+00:01:19,410 --> 00:01:22,870
+8, zu tragen. Fragen. Verbinden sich
+
+40
+00:01:22,870 --> 00:01:25,190
+Atome desselben Elements, bauen diese
+
+41
+00:01:25,190 --> 00:01:26,910
+so viele Elektronenpaarbindungen
+
+42
+00:01:26,910 --> 00:01:29,310
+zwischeneinander auf, wie jedem Atom
+
+43
+00:01:29,310 --> 00:01:31,390
+Valenzelektronen zur Erreichung der
+
+44
+00:01:31,390 --> 00:01:34,750
+Edelgaskonfiguration fehlen. Zwischen
+
+45
+00:01:34,750 --> 00:01:37,550
+den Chloratomen des Biatomaren, also
+
+46
+00:01:37,550 --> 00:01:39,670
+aus zwei Atomen bestehenden
+
+47
+00:01:39,670 --> 00:01:41,430
+Chlormoleküls, besteht eine
+
+48
+00:01:41,430 --> 00:01:43,610
+Einzelbindung. Dies wird in der
+
+49
+00:01:43,610 --> 00:01:45,550
+Valenzstrichschreibweise durch einen
+
+50
+00:01:45,550 --> 00:01:46,630
+Strich, der für die
+
+51
+00:01:46,630 --> 00:01:47,990
+Elektronenpaarbindung steht,
+
+52
+00:01:48,310 --> 00:01:51,210
+dargestellt. Durch die Verbindung
+
+53
+00:01:51,210 --> 00:01:52,730
+erreichen beide Atome die
+
+54
+00:01:52,730 --> 00:01:54,830
+Edelgaskonfiguration, hier die
+
+55
+00:01:54,830 --> 00:01:56,970
+Elektronenkonfiguration von Argon.
+
+56
+00:01:57,810 --> 00:02:00,310
+Zwischen den Sauerstoffatomen des O2
+
+57
+00:02:00,310 --> 00:02:02,250
+-Moleküls besteht eine sogenannte
+
+58
+00:02:02,250 --> 00:02:04,290
+Doppelbindung. Damit erreicht
+
+59
+00:02:04,290 --> 00:02:05,130
+Sauerstoff die
+
+60
+00:02:05,130 --> 00:02:07,270
+Elektronenkonfiguration von Neon,
+
+61
+00:02:07,310 --> 00:02:09,550
+genauso wie Stickstoff, bei dem
+
+62
+00:02:09,550 --> 00:02:11,750
+zwischen den Stickstoffatomen des N2
+
+63
+00:02:11,750 --> 00:02:13,550
+-Moleküls eine Dreifachbindung
+
+64
+00:02:13,550 --> 00:02:15,570
+entsteht. Mehr als eine
+
+65
+00:02:15,570 --> 00:02:17,250
+Dreifachbindung ist zwischen zwei
+
+66
+00:02:17,250 --> 00:02:20,130
+Atomen jedoch nicht möglich. Auch bei
+
+67
+00:02:20,130 --> 00:02:21,470
+Verbindung zwischen Atomen
+
+68
+00:02:21,470 --> 00:02:23,030
+verschiedener Elemente lassen sich
+
+69
+00:02:23,030 --> 00:02:23,750
+aufgrund ihrer
+
+70
+00:02:23,750 --> 00:02:25,570
+Elektronenkonfiguration einfach
+
+71
+00:02:25,570 --> 00:02:28,710
+Valenzstrichformeln aufstellen. Bei
+
+72
+00:02:28,710 --> 00:02:30,270
+der Verbindung von Wasserstoff und
+
+73
+00:02:30,270 --> 00:02:32,690
+Sauerstoff entsteht H2O, denn
+
+74
+00:02:32,690 --> 00:02:33,890
+Sauerstoff braucht zwei
+
+75
+00:02:33,890 --> 00:02:35,790
+Elektronenpaarbindungen, um auf 8
+
+76
+00:02:35,790 --> 00:02:38,450
+Außenelektronen aufzufüllen. Ein
+
+77
+00:02:38,450 --> 00:02:40,030
+Wasserstoffatom kann nur eine
+
+78
+00:02:40,030 --> 00:02:41,910
+Elektronenverbindung eingehen, da
+
+79
+00:02:41,910 --> 00:02:43,990
+jedes Atom nur ein Elektron besitzt.
+
+80
+00:02:44,310 --> 00:02:46,090
+Aus diesem Grund bindet ein
+
+81
+00:02:46,090 --> 00:02:48,530
+Sauerstoffatom zwei Wasserstoffatome.
+
+82
+00:02:49,090 --> 00:02:50,890
+Sauerstoff erreicht die Konfiguration
+
+83
+00:02:50,890 --> 00:02:53,210
+von Neon und Wasserstoff die von
+
+84
+00:02:53,210 --> 00:02:56,970
+Helium. Verbindet man Kohlenstoff und
+
+85
+00:02:56,970 --> 00:03:00,010
+Sauerstoff zu CO2, sehen wir, dass
+
+86
+00:03:00,010 --> 00:03:01,650
+das dass Kohlenstoffatomen jeweils
+
+87
+00:03:01,650 --> 00:03:03,150
+zwei Doppelbindungen zu den
+
+88
+00:03:03,150 --> 00:03:05,790
+Sauerstoffatomen aufbauen muss. Bei
+
+89
+00:03:05,790 --> 00:03:07,950
+Kohlenstoff, der als Atom in der
+
+90
+00:03:07,950 --> 00:03:10,050
+Valenzstrichschreibweise einen Strich
+
+91
+00:03:10,050 --> 00:03:12,330
+und zwei Punkte aufwies, verwandelt
+
+92
+00:03:12,330 --> 00:03:14,130
+man den Strich zur Bindung in zwei
+
+93
+00:03:14,130 --> 00:03:16,690
+Punkte, da Kohlenstoff vierbindig
+
+94
+00:03:16,690 --> 00:03:17,730
+sein muss, um die
+
+95
+00:03:17,730 --> 00:03:19,810
+Edelgaskonfiguration erreichen zu
+
+96
+00:03:19,810 --> 00:03:22,330
+können. Das heißt, Kohlenstoffatome
+
+97
+00:03:22,330 --> 00:03:24,510
+können zwischen zwei und vier Atomen
+
+98
+00:03:24,510 --> 00:03:26,870
+binden, Je nachdem, welche Bindung,
+
+99
+00:03:26,930 --> 00:03:29,010
+einfach oder mehrfach, Sie zu den
+
+100
+00:03:29,010 --> 00:03:31,570
+Bindungspartnern eingehen. Bei
+
+101
+00:03:31,570 --> 00:03:33,410
+gegebener Summenformel verhilft einem
+
+102
+00:03:33,410 --> 00:03:35,190
+die Valenzstrichschreibweise unter
+
+103
+00:03:35,190 --> 00:03:36,950
+Beachtung der Oktettregel zum
+
+104
+00:03:36,950 --> 00:03:39,210
+Aufstellen der Strukturformel. Die
+
+105
+00:03:39,210 --> 00:03:41,410
+Oktettregel besagt, dass die Atome
+
+106
+00:03:41,410 --> 00:03:43,170
+aller Elemente mit Ausnahme von
+
+107
+00:03:43,170 --> 00:03:46,170
+Wasserstoff und Helium nach 8, das
+
+108
+00:03:46,170 --> 00:03:47,910
+lateinische Wort ist dafür Octo,
+
+109
+00:03:47,970 --> 00:03:50,010
+Elektronen in ihrer Außenschale
+
+110
+00:03:50,010 --> 00:03:53,030
+streben. Wir wollen uns das anhand
+
+111
+00:03:53,030 --> 00:03:56,810
+einiger Beispiele ansehen. Ethan mit
+
+112
+00:03:56,810 --> 00:03:59,610
+der Summformel C2H6 kann nur wie
+
+113
+00:03:59,610 --> 00:04:02,090
+folgt aufgebaut sein. Von jedem
+
+114
+00:04:02,090 --> 00:04:03,670
+Kohlenstoffatom gehen vier
+
+115
+00:04:03,670 --> 00:04:05,910
+Einzelbindungen aus. Es hängen vier
+
+116
+00:04:05,910 --> 00:04:08,670
+Striche an jedem C. Sechs dieser
+
+117
+00:04:08,670 --> 00:04:10,050
+Einzelbindungen gehen zu den
+
+118
+00:04:10,050 --> 00:04:13,050
+Wasserstoffatomen. Bei Ethen mit der
+
+119
+00:04:13,050 --> 00:04:15,670
+Formel C2H4 liegt zwischen den
+
+120
+00:04:15,670 --> 00:04:17,410
+Kohlenstoffatomen eine Doppelbindung
+
+121
+00:04:17,410 --> 00:04:18,950
+vor, damit diese die
+
+122
+00:04:18,950 --> 00:04:21,890
+Edelgaskonfiguration erreichen. Bei
+
+123
+00:04:21,890 --> 00:04:24,930
+Ethin mit C2H2 ist es sogar eine
+
+124
+00:04:24,930 --> 00:04:26,450
+Dreifachbindung zwischen den
+
+125
+00:04:26,450 --> 00:04:29,510
+Kohlenstoffatomen. Ameisensäure mit
+
+126
+00:04:29,510 --> 00:04:34,310
+der Summenformel CH2O2 bzw. CHOOH
+
+127
+00:04:34,310 --> 00:04:37,910
+sieht wie folgt aus. Der vierbindige
+
+128
+00:04:37,910 --> 00:04:39,530
+Kohlenstoff hat Einzelbindung zu
+
+129
+00:04:39,530 --> 00:04:40,870
+einem Wasserstoff und einem
+
+130
+00:04:40,870 --> 00:04:42,630
+Sauerstoff, der eine zweite
+
+131
+00:04:42,630 --> 00:04:44,450
+Elektronenpaarbindung mit dem zweiten
+
+132
+00:04:44,450 --> 00:04:46,930
+Wasserstoffatom teilt, sowie eine
+
+133
+00:04:46,930 --> 00:04:48,590
+Doppelbindung zum zweiten
+
+134
+00:04:48,590 --> 00:04:51,430
+Sauerstoffatom. So erreichen alle
+
+135
+00:04:51,430 --> 00:04:54,570
+Atome die Edelgaskonfiguration. Bei
+
+136
+00:04:54,570 --> 00:04:58,050
+Formaldehyd mit der Formel CH2O baut
+
+137
+00:04:58,050 --> 00:04:59,850
+das Kohlenstoffatom Einzelbindungen
+
+138
+00:04:59,850 --> 00:05:01,830
+zu den beiden Wasserstoffatomen aus
+
+139
+00:05:01,830 --> 00:05:03,750
+sowie eine Doppelbindung zu
+
+140
+00:05:03,750 --> 00:05:07,130
+Sauerstoff. Acetonitril mit der
+
+141
+00:05:07,130 --> 00:05:09,610
+Summformel CH3CN zeigt eine
+
+142
+00:05:09,610 --> 00:05:11,270
+Dreifachbindung zwischen Stickstoff
+
+143
+00:05:11,270 --> 00:05:13,970
+und einem Kohlenstoffatom. Das andere
+
+144
+00:05:13,970 --> 00:05:15,910
+Kohlenstoffatom verfügt über vier
+
+145
+00:05:15,910 --> 00:05:17,710
+Einfachbindungen, drei zu den
+
+146
+00:05:17,710 --> 00:05:20,050
+Wasserstoffatomen und eine zur CN
+
+147
+00:05:20,050 --> 00:05:22,850
+-Gruppe. Vielen Dank für deine
+
+148
+00:05:22,850 --> 00:05:24,710
+Aufmerksamkeit. Ich hoffe, dieses
+
+149
+00:05:24,710 --> 00:05:26,350
+Video konnte zu deinem Verständnis
+
+150
+00:05:26,350 --> 00:05:28,090
+des Themas Valenzstrichformeln
+
+151
+00:05:28,090 --> 00:05:30,130
+beitragen. Um die Inhalte noch besser
+
+152
+00:05:30,130 --> 00:05:32,010
+zu vertiefen, stehen dir im Online
+
+153
+00:05:32,010 --> 00:05:33,590
+-Lerncenter natürlich noch weitere
+
+154
+00:05:33,590 --> 00:05:36,250
+Angebote zur Verfügung. Zum Beispiel
+
+155
+00:05:36,250 --> 00:05:37,930
+haben wir interaktive Aufgaben,
+
+156
+00:05:37,950 --> 00:05:39,770
+Arbeitsblätter oder Webinare, in
+
+157
+00:05:39,770 --> 00:05:41,210
+denen unsere Nachhilfelehrer
+
+158
+00:05:41,210 --> 00:05:42,350
+verschiedene Themen noch einmal
+
+159
+00:05:42,350 --> 00:05:43,350
+detailliert erklären.
+

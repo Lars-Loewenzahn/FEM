@@ -1,0 +1,2776 @@
+1
+00:00:00,820 --> 00:00:02,820
+Herzlich willkommen zum Webinar
+
+2
+00:00:02,820 --> 00:00:05,100
+Kurvendiskussion. Wir werden uns in
+
+3
+00:00:05,100 --> 00:00:05,960
+diesem Webinar mit der
+
+4
+00:00:05,960 --> 00:00:07,740
+Kurvendiskussion befassen. Zuerst
+
+5
+00:00:07,740 --> 00:00:09,120
+schauen wir uns an, wofür wir diese
+
+6
+00:00:09,120 --> 00:00:11,060
+brauchen. Danach werde ich einmal
+
+7
+00:00:11,060 --> 00:00:12,100
+ganz kurz die Nullstellen,
+
+8
+00:00:12,260 --> 00:00:13,320
+Extremstellen und Wendestellen
+
+9
+00:00:13,320 --> 00:00:14,600
+vorstellen. Das heißt, ich werde sie
+
+10
+00:00:14,600 --> 00:00:16,580
+erklären und auch noch einmal kurz
+
+11
+00:00:16,580 --> 00:00:18,060
+erläutern, woher die Bedingungen
+
+12
+00:00:18,060 --> 00:00:20,540
+kommen. Danach werden wir diese drei
+
+13
+00:00:20,540 --> 00:00:22,580
+Punkte, also Nullstellen,
+
+14
+00:00:22,760 --> 00:00:23,800
+Extremstellen und Wendestellen, und
+
+15
+00:00:23,800 --> 00:00:25,160
+anhand einer Beispielaufgabe
+
+16
+00:00:25,160 --> 00:00:26,880
+errechnen und so das gezeigt noch
+
+17
+00:00:26,880 --> 00:00:28,920
+einmal verdeutlichen. Ganz zum
+
+18
+00:00:28,920 --> 00:00:29,800
+Schluss haben wir noch eine kleine
+
+19
+00:00:29,800 --> 00:00:31,560
+Folie, wo nochmal die notwendigen und
+
+20
+00:00:31,560 --> 00:00:33,420
+hinreichenden Bedingungen für die
+
+21
+00:00:33,420 --> 00:00:35,180
+drei Stellen zusammengefasst werden.
+
+22
+00:00:36,140 --> 00:00:37,580
+Aber wofür brauchen wir überhaupt
+
+23
+00:00:37,580 --> 00:00:38,760
+eine Kurvendiskussion? Eine
+
+24
+00:00:38,760 --> 00:00:40,400
+Kurvendiskussion ist wichtig, weil
+
+25
+00:00:40,400 --> 00:00:41,640
+man anhand einer Kurvendiskussion die
+
+26
+00:00:41,640 --> 00:00:43,120
+markanten Punkte eines Graphen
+
+27
+00:00:43,120 --> 00:00:45,880
+berechnet. Mittels dieser markanten
+
+28
+00:00:45,880 --> 00:00:48,020
+Punkte kann man den Grafen sehr gut
+
+29
+00:00:48,020 --> 00:00:50,120
+zeichnen und skizzieren bzw. Aussagen
+
+30
+00:00:50,120 --> 00:00:52,520
+über ihn treffen. Und daher ist dies
+
+31
+00:00:52,520 --> 00:00:54,600
+wichtig. Man könnte natürlich auch
+
+32
+00:00:54,600 --> 00:00:56,420
+hingehen und so was mit einer
+
+33
+00:00:56,420 --> 00:00:57,860
+Wertetabelle machen. Das heißt, man
+
+34
+00:00:57,860 --> 00:01:00,400
+macht sich, fertigt eine Wertetabelle
+
+35
+00:01:00,400 --> 00:01:02,220
+an und guckt, wie der Graf sich
+
+36
+00:01:02,220 --> 00:01:04,840
+verhält. Das geht natürlich. Das ist
+
+37
+00:01:04,840 --> 00:01:07,700
+aber auch nicht allzu schnell
+
+38
+00:01:07,700 --> 00:01:09,240
+gemacht. Das heißt, es bedarf auch
+
+39
+00:01:09,240 --> 00:01:10,900
+einen gewissen Aufwand. Und eine
+
+40
+00:01:10,900 --> 00:01:12,120
+Wertetabelle hat natürlich immer das
+
+41
+00:01:12,120 --> 00:01:13,360
+Problem, dass sie eine gewisse
+
+42
+00:01:13,360 --> 00:01:16,500
+Schrittweite immer hat. Und es ist ja
+
+43
+00:01:16,500 --> 00:01:17,360
+nicht gesagt, dass unsere
+
+44
+00:01:17,360 --> 00:01:18,620
+Nullstellen, Extrempunkte und
+
+45
+00:01:18,620 --> 00:01:21,140
+Wendepunkte immer genau auf unseren
+
+46
+00:01:21,140 --> 00:01:22,580
+Schrittweiten liegen. Die können ja
+
+47
+00:01:22,580 --> 00:01:23,920
+auch mal dazwischen liegen. Und wenn
+
+48
+00:01:23,920 --> 00:01:26,200
+sie dies beispielsweise tun, kommen
+
+49
+00:01:26,200 --> 00:01:27,480
+sie in der Wertstabelle nicht vor.
+
+50
+00:01:27,620 --> 00:01:29,700
+Das heißt, man könnte lokale
+
+51
+00:01:29,700 --> 00:01:32,040
+Extrempunkte nicht wirklich
+
+52
+00:01:32,040 --> 00:01:34,740
+definieren. Oder es ist nie gesagt,
+
+53
+00:01:34,880 --> 00:01:35,980
+dass man auch wirklich den richtigen
+
+54
+00:01:35,980 --> 00:01:37,340
+Punkt erwischt hat und dass zwischen
+
+55
+00:01:37,340 --> 00:01:39,780
+den beiden Punkten in der
+
+56
+00:01:39,780 --> 00:01:41,520
+Wertstabelle nicht der eigentliche
+
+57
+00:01:41,520 --> 00:01:43,480
+Hochpunkt liegt. Daher berechnet man
+
+58
+00:01:43,480 --> 00:01:45,380
+so etwas lieber. Das dauert auch
+
+59
+00:01:45,380 --> 00:01:48,360
+nicht allzu lange und das werden wir
+
+60
+00:01:48,360 --> 00:01:51,240
+jetzt im Folgenden mal tun. Als
+
+61
+00:01:51,240 --> 00:01:52,500
+erstes stelle ich das jetzt wie schon
+
+62
+00:01:52,500 --> 00:01:54,620
+gesagt einmal kurz vor. Erst die
+
+63
+00:01:54,620 --> 00:01:55,780
+Nullstellen, dann die Extremstellen
+
+64
+00:01:55,780 --> 00:01:57,940
+und dann die Wendestellen. Und wir
+
+65
+00:01:57,940 --> 00:01:59,480
+sehen hier unseren Funktionsgraf und
+
+66
+00:01:59,480 --> 00:02:00,780
+das ist auch wirklich der Graph, den
+
+67
+00:02:00,780 --> 00:02:03,120
+wir später behandeln werden. Und
+
+68
+00:02:03,120 --> 00:02:05,820
+Nullstellen sind die Punkte, wo der
+
+69
+00:02:05,820 --> 00:02:07,400
+Graph die x-Achse schneidet. Es sind
+
+70
+00:02:07,400 --> 00:02:09,400
+also Punkte, die der Graph mit der x
+
+71
+00:02:09,400 --> 00:02:13,280
+-Achse gemeinsam hat. Der Graph oder
+
+72
+00:02:13,280 --> 00:02:15,920
+unsere Funktion kann die x-Achse
+
+73
+00:02:15,920 --> 00:02:17,580
+schneiden, also wir sehen hier drei
+
+74
+00:02:17,580 --> 00:02:19,580
+Schnittpunkte, oder berühren.
+
+75
+00:02:19,660 --> 00:02:21,820
+Berühren heißt, der Graph berührt nur
+
+76
+00:02:21,820 --> 00:02:23,360
+einmal ganz kurz die x-Achse,
+
+77
+00:02:23,380 --> 00:02:24,900
+wechselt aber nicht den Quadranten.
+
+78
+00:02:25,860 --> 00:02:28,620
+Das ist die Definition von berühren.
+
+79
+00:02:29,260 --> 00:02:31,580
+Wir sehen, bei den Nullstellen sind
+
+80
+00:02:31,580 --> 00:02:33,100
+wir immer auf Auf der x-Achse und auf
+
+81
+00:02:33,100 --> 00:02:35,320
+der x-Achse ist die y-Koordinate ja
+
+82
+00:02:35,320 --> 00:02:38,600
+immer 0. Der Funktionswert f von x
+
+83
+00:02:38,600 --> 00:02:40,600
+ist ja nichts weiter als unsere y
+
+84
+00:02:40,600 --> 00:02:42,580
+-Koordinate. Daher wissen wir
+
+85
+00:02:42,580 --> 00:02:45,100
+natürlich, dass wenn wir Nullstellen
+
+86
+00:02:45,100 --> 00:02:46,800
+vorliegen haben, dass der
+
+87
+00:02:46,800 --> 00:02:48,680
+Funktionswert f von x 0 sein muss.
+
+88
+00:02:48,760 --> 00:02:50,480
+Anders kommen wir nicht auf die x
+
+89
+00:02:50,480 --> 00:02:51,760
+-Achse. Das gilt wie gesagt immer
+
+90
+00:02:51,760 --> 00:02:53,420
+wenn wir auf der x-Achse sind, gilt f
+
+91
+00:02:53,420 --> 00:02:56,140
+von x ist 0. und daher ist dies auch
+
+92
+00:02:56,140 --> 00:02:57,720
+die notwendige bedingung für eine
+
+93
+00:02:57,720 --> 00:03:03,120
+nullstelle extremstellen sind stellen
+
+94
+00:03:03,120 --> 00:03:04,940
+wo die steigung eines grafen 0 ist
+
+95
+00:03:04,940 --> 00:03:07,420
+das ist auch gleich schon die
+
+96
+00:03:07,420 --> 00:03:09,640
+notwendige bedingung das basiert
+
+97
+00:03:09,640 --> 00:03:11,360
+darauf wir sehen ja hier der graf
+
+98
+00:03:11,360 --> 00:03:15,280
+steigt und hier fällt er er steigt
+
+99
+00:03:15,280 --> 00:03:16,900
+hier und ihr seht die steigung flacht
+
+100
+00:03:16,900 --> 00:03:20,780
+ab zum hochpunkt hin er steigt hier
+
+101
+00:03:20,780 --> 00:03:22,640
+noch ganz leicht und immer weniger
+
+102
+00:03:22,640 --> 00:03:23,940
+wird die steigung und hier auf einmal
+
+103
+00:03:23,940 --> 00:03:25,500
+fällt er wieder ab, also er sinkt
+
+104
+00:03:25,500 --> 00:03:29,080
+oder er fällt. Irgendwo dazwischen,
+
+105
+00:03:29,080 --> 00:03:30,580
+zwischen diesem Steigen und Fallen,
+
+106
+00:03:30,600 --> 00:03:32,100
+muss es dann ja einen Punkt geben
+
+107
+00:03:32,100 --> 00:03:34,800
+oder eine Stelle, an dem die Steigung
+
+108
+00:03:34,800 --> 00:03:37,700
+0 ist. Dieser Punkt ist dann
+
+109
+00:03:37,700 --> 00:03:39,620
+natürlich auch gleichzeitig lokal der
+
+110
+00:03:39,620 --> 00:03:42,460
+höchste, weil wir steigen hier und
+
+111
+00:03:42,460 --> 00:03:44,240
+irgendwann, wenn wir nicht mehr
+
+112
+00:03:44,240 --> 00:03:45,660
+steigen, ist die Steigung 0. Dann
+
+113
+00:03:45,660 --> 00:03:47,280
+haben wir unser Maximum erreicht und
+
+114
+00:03:47,280 --> 00:03:51,340
+danach fallen wir wieder. Daher
+
+115
+00:03:51,340 --> 00:03:53,580
+lautet die 0. Bedingung für einen
+
+116
+00:03:53,580 --> 00:03:55,180
+Extrempunkt, die Steigung muss 0
+
+117
+00:03:55,180 --> 00:03:59,020
+sein. Heißt in der Mathematik f' von
+
+118
+00:03:59,020 --> 00:04:01,700
+x ist gleich 0. Die erste Ableitung
+
+119
+00:04:01,700 --> 00:04:03,720
+f' von x gibt ja nichts weiter an,
+
+120
+00:04:03,800 --> 00:04:05,980
+als die Steigung an der Stelle x der
+
+121
+00:04:05,980 --> 00:04:08,540
+Ausgangsfunktion f von x. Das heißt,
+
+122
+00:04:08,640 --> 00:04:10,860
+hier steht nur, die Steigung muss 0
+
+123
+00:04:10,860 --> 00:04:12,700
+sein. Wir untersuchen also die erste
+
+124
+00:04:12,700 --> 00:04:14,140
+Ableitung auf 0 Stellen,
+
+125
+00:04:14,320 --> 00:04:15,480
+beziehungsweise setzen die erste
+
+126
+00:04:15,480 --> 00:04:17,460
+Ableitung mit 0 gleich und und
+
+127
+00:04:17,460 --> 00:04:18,980
+ermitteln so die potenziellen
+
+128
+00:04:18,980 --> 00:04:21,640
+Extremstellen. Die Stellen, die wir
+
+129
+00:04:21,640 --> 00:04:22,900
+hier bei der notwendigen Bedingung
+
+130
+00:04:22,900 --> 00:04:24,380
+ermitteln, sind einfach nur Stellen,
+
+131
+00:04:24,500 --> 00:04:26,480
+wo wir eine waagerechte Tangente bzw.
+
+132
+00:04:26,840 --> 00:04:29,640
+die Steigung 0 haben. Es ist nicht
+
+133
+00:04:29,640 --> 00:04:31,280
+gesagt, ob wir einen Hochpunkt haben
+
+134
+00:04:31,280 --> 00:04:32,920
+oder einen Tiefpunkt, denn das, was
+
+135
+00:04:32,920 --> 00:04:34,160
+ich gerade gesagt habe, gilt auch für
+
+136
+00:04:34,160 --> 00:04:36,300
+den Tiefpunkt. Hier fallen wir und
+
+137
+00:04:36,300 --> 00:04:37,300
+dann steigen wir hier auf einmal.
+
+138
+00:04:37,420 --> 00:04:38,680
+Folglich ist der tiefste Punkt
+
+139
+00:04:38,680 --> 00:04:40,260
+natürlich der Punkt, wo wir nicht
+
+140
+00:04:40,260 --> 00:04:42,320
+mehr fallen, fallen, aber auch noch
+
+141
+00:04:42,320 --> 00:04:46,220
+nicht steigen. Und des Weiteren gibt
+
+142
+00:04:46,220 --> 00:04:47,680
+es auch noch einen Sattelpunkt. Das
+
+143
+00:04:47,680 --> 00:04:49,780
+ist ein Punkt, sagen wir mal, der
+
+144
+00:04:49,780 --> 00:04:51,380
+Graph steigt, die Steigung wird
+
+145
+00:04:51,380 --> 00:04:52,780
+einmal ganz kurz 0 und dann steigt er
+
+146
+00:04:52,780 --> 00:04:55,000
+weiter. Das ist ein Sattelpunkt.
+
+147
+00:04:55,580 --> 00:04:56,840
+Diesen Sattelpunkt würden wir aber
+
+148
+00:04:56,840 --> 00:04:58,080
+auch über die notwendigen Bedingungen
+
+149
+00:04:58,080 --> 00:05:01,220
+errechnen. Folglich, wenn wir die
+
+150
+00:05:01,220 --> 00:05:02,420
+notwendigen Bedingungen ausgeführt
+
+151
+00:05:02,420 --> 00:05:03,560
+haben, können wir nicht sagen, was
+
+152
+00:05:03,560 --> 00:05:04,640
+wir haben. Haben wir eine
+
+153
+00:05:04,640 --> 00:05:05,820
+Extremstelle, also Hoch- oder Oder
+
+154
+00:05:05,820 --> 00:05:06,740
+Tiefpunkt haben wir einen
+
+155
+00:05:06,740 --> 00:05:11,800
+Sattelpunkt. Und deswegen muss man
+
+156
+00:05:11,800 --> 00:05:13,560
+zwangsläufig noch die hinreichende
+
+157
+00:05:13,560 --> 00:05:15,860
+Bedingung ausführen. Es ist immer
+
+158
+00:05:15,860 --> 00:05:17,480
+notwendig, die hinreichende Bedingung
+
+159
+00:05:17,480 --> 00:05:19,700
+auszuführen. Sonst kann man nicht
+
+160
+00:05:19,700 --> 00:05:20,560
+sagen, ob es wirklich eine
+
+161
+00:05:20,560 --> 00:05:23,000
+Extremstelle ist. Bei der
+
+162
+00:05:23,000 --> 00:05:24,360
+hinreichenden Bedingung nutzt man
+
+163
+00:05:24,360 --> 00:05:26,120
+einfach die zweite Ableitung und
+
+164
+00:05:26,120 --> 00:05:28,500
+setzt die Ergebnisse, die man bei der
+
+165
+00:05:28,500 --> 00:05:30,140
+notwendigen Bedingung errechnet hat,
+
+166
+00:05:30,180 --> 00:05:33,220
+ein. Dabei ist es eigentlich nur
+
+167
+00:05:33,220 --> 00:05:34,760
+interessant, ob das Ergebnis kleiner
+
+168
+00:05:34,760 --> 00:05:36,640
+0 oder größer 0 ist oder gleich 0.
+
+169
+00:05:37,940 --> 00:05:39,420
+Wenn das Ergebnis der zweiten
+
+170
+00:05:39,420 --> 00:05:42,320
+Ableitung kleiner 0 ist, haben wir
+
+171
+00:05:42,320 --> 00:05:43,540
+ein Maximum vorliegen, also einen
+
+172
+00:05:43,540 --> 00:05:46,520
+Hochpunkt. Wenn es größer 0 ist,
+
+173
+00:05:46,540 --> 00:05:47,780
+haben wir ein Minimum, also einen
+
+174
+00:05:47,780 --> 00:05:49,100
+Tiefpunkt vorliegen und wenn es
+
+175
+00:05:49,100 --> 00:05:50,260
+gleich 0 ist, dann haben wir ein
+
+176
+00:05:50,260 --> 00:05:52,560
+Problem. Es liegt dann die Vermutung
+
+177
+00:05:52,560 --> 00:05:53,780
+nahe, dass es ein Sattelpunkt ist.
+
+178
+00:05:54,420 --> 00:05:56,260
+Das muss dann aber mittels des
+
+179
+00:05:56,260 --> 00:05:57,760
+Vorzeichenwechselkriteriums bewiesen
+
+180
+00:05:57,760 --> 00:06:00,320
+werden. eine Aussage treffen und
+
+181
+00:06:00,320 --> 00:06:01,480
+müssen mit den
+
+182
+00:06:01,480 --> 00:06:02,700
+Vorzeigepflichtwechselkriterien
+
+183
+00:06:02,700 --> 00:06:06,750
+weitermachen. Zu guter Letzt müssen
+
+184
+00:06:06,750 --> 00:06:09,450
+wir noch die y-Koordinate bestimmen.
+
+185
+00:06:09,690 --> 00:06:11,870
+Wenn die Frage nach dem Extrempunkt
+
+186
+00:06:11,870 --> 00:06:13,530
+ist, das ist ganz klar definiert in
+
+187
+00:06:13,530 --> 00:06:15,090
+der Mathematik, wenn nach einem Punkt
+
+188
+00:06:15,090 --> 00:06:17,590
+gefragt wird, muss immer das x und
+
+189
+00:06:17,590 --> 00:06:21,150
+das y angegeben werden. Wenn nur nach
+
+190
+00:06:21,150 --> 00:06:23,230
+einer Stelle gefragt ist, dann reicht
+
+191
+00:06:23,230 --> 00:06:26,390
+die x-Koordinate. Das heißt, wenn ihr
+
+192
+00:06:26,390 --> 00:06:27,850
+nach einem Extrempunkt gefragt
+
+193
+00:06:27,850 --> 00:06:29,410
+werdet, müsst ihr auf jeden Fall die
+
+194
+00:06:29,410 --> 00:06:31,090
+y-Koordinate mitbestimmen. Wenn nur
+
+195
+00:06:31,090 --> 00:06:33,650
+die Extremstelle gefragt ist, Stelle
+
+196
+00:06:33,650 --> 00:06:35,570
+ist immer x-Koordinate, reicht auch
+
+197
+00:06:35,570 --> 00:06:37,910
+die x-Koordinate. Es ist aber fast
+
+198
+00:06:37,910 --> 00:06:39,010
+immer der Fall, dass nach dem
+
+199
+00:06:39,010 --> 00:06:40,670
+Extrempunkt gefragt wird und daher
+
+200
+00:06:40,670 --> 00:06:42,550
+die y-Koordinate bestimmt werden
+
+201
+00:06:42,550 --> 00:06:45,310
+muss. Zum Bestimmen der y-Koordinate
+
+202
+00:06:45,310 --> 00:06:48,570
+setzen wir einfach das, oder man hat
+
+203
+00:06:48,570 --> 00:06:49,770
+ja oftmals mehrere Lösungen, in dem
+
+204
+00:06:49,770 --> 00:06:50,970
+Fall hätten wir ja zwei Lösungen,
+
+205
+00:06:50,990 --> 00:06:52,090
+eine für den Hochpunkt, eine für den
+
+206
+00:06:52,090 --> 00:06:54,370
+Tiefpunkt. Man setzt die Lösung in
+
+207
+00:06:54,370 --> 00:06:56,050
+die Ausgangsfunktion f von x ein und
+
+208
+00:06:56,050 --> 00:06:58,990
+berechnet die entsprechenden y
+
+209
+00:06:58,990 --> 00:06:59,610
+-Koordinaten.
+
+210
+00:07:02,730 --> 00:07:04,790
+Wendestellen sind Stellen, an denen
+
+211
+00:07:04,790 --> 00:07:05,950
+sich das Krümmungsverhalten des
+
+212
+00:07:05,950 --> 00:07:08,590
+Graphen ändert. Wenn wir uns über
+
+213
+00:07:08,590 --> 00:07:10,530
+Wendestellen unterhalten, müssen wir
+
+214
+00:07:10,530 --> 00:07:11,550
+uns erstmal über eine Sache klar
+
+215
+00:07:11,550 --> 00:07:13,150
+werden. Wir lesen den Graphen immer
+
+216
+00:07:13,150 --> 00:07:16,510
+von links nach rechts. Das heißt, wir
+
+217
+00:07:16,510 --> 00:07:17,730
+fangen jetzt hier links an und
+
+218
+00:07:17,730 --> 00:07:19,490
+verfolgen mal den Graphen. Wir sehen,
+
+219
+00:07:19,550 --> 00:07:22,810
+dass wir hier eine Rechtskurve
+
+220
+00:07:22,810 --> 00:07:25,030
+machen. Das ist das Rechtsgekrümmte.
+
+221
+00:07:25,750 --> 00:07:27,890
+Wenn wir vorstellen, wir laufen auf
+
+222
+00:07:27,890 --> 00:07:29,330
+dem Graphen oder wir stellen uns das
+
+223
+00:07:29,330 --> 00:07:30,690
+als Straße vor und wir kommen von
+
+224
+00:07:30,690 --> 00:07:32,770
+hier, fahren wir eine Rechtskurve.
+
+225
+00:07:33,670 --> 00:07:35,150
+Deswegen ist der Graph hier
+
+226
+00:07:35,150 --> 00:07:38,670
+rechtsgekrümmt. Wenn wir den Graphen
+
+227
+00:07:38,670 --> 00:07:39,890
+mal weiter verfolgen, stellen wir auf
+
+228
+00:07:39,890 --> 00:07:41,450
+einmal fest, dass er links gekrümmt
+
+229
+00:07:41,450 --> 00:07:42,570
+wird. Also es ist hier schon zu
+
+230
+00:07:42,570 --> 00:07:43,710
+erahnen, dass er eine Linkskrümmung
+
+231
+00:07:43,710 --> 00:07:44,910
+hat und hier unten sieht man es, er
+
+232
+00:07:44,910 --> 00:07:47,050
+ist definitiv links gekrümmt. Also
+
+233
+00:07:47,050 --> 00:07:48,930
+irgendwo hier, hier ist er rechts
+
+234
+00:07:48,930 --> 00:07:51,070
+gekrümmt, hier ist er links gekrümmt.
+
+235
+00:07:51,790 --> 00:07:53,370
+Irgendwo dazwischen muss es dann ja
+
+236
+00:07:53,370 --> 00:07:56,410
+einen Punkt geben, an dem sich das
+
+237
+00:07:56,410 --> 00:07:58,730
+Krümmungsverhalten von rechts zu
+
+238
+00:07:58,730 --> 00:08:01,230
+links ändert. Und genau das ist der
+
+239
+00:08:01,230 --> 00:08:03,270
+Wendepunkt. Im Wendepunkt ändert sich
+
+240
+00:08:03,270 --> 00:08:04,990
+das Krümmungsverhalten. Das bedeutet,
+
+241
+00:08:05,310 --> 00:08:07,590
+es ändert sich von rechts gekrümmt zu
+
+242
+00:08:07,590 --> 00:08:09,890
+links gekrümmt oder eben von links zu
+
+243
+00:08:09,890 --> 00:08:12,950
+rechts gekrümmt. Des Weiteren ist
+
+244
+00:08:12,950 --> 00:08:14,230
+sehr auffällig, wir haben hier die
+
+245
+00:08:14,230 --> 00:08:15,530
+Steigung 0, weil es ja der Hochpunkt
+
+246
+00:08:15,530 --> 00:08:16,290
+ist. Und hier haben wir natürlich
+
+247
+00:08:16,290 --> 00:08:17,410
+auch die Steigung 0, weil es der
+
+248
+00:08:17,410 --> 00:08:19,370
+Tiefpunkt ist. Haben wir ja gerade
+
+249
+00:08:19,370 --> 00:08:20,870
+bei den Extrempunkten thematisiert.
+
+250
+00:08:20,870 --> 00:08:23,410
+Wir sehen hier auch, der Graph steigt
+
+251
+00:08:23,410 --> 00:08:26,090
+immer stärker und hier wird er auf
+
+252
+00:08:26,090 --> 00:08:28,590
+einmal immer flacher. Er fällt immer
+
+253
+00:08:28,590 --> 00:08:30,730
+stärker hier und hier wird er immer
+
+254
+00:08:30,730 --> 00:08:32,650
+flacher. Das heißt, das Gefälle
+
+255
+00:08:32,650 --> 00:08:35,410
+flacht ab. Irgendwo hier zwischen
+
+256
+00:08:35,410 --> 00:08:38,090
+muss es dann ja auch einen Punkt
+
+257
+00:08:38,090 --> 00:08:39,990
+geben, wo die Steigung oder das
+
+258
+00:08:39,990 --> 00:08:42,750
+Gefälle in dem Fall maximal ist. Und
+
+259
+00:08:42,750 --> 00:08:44,290
+das ist auch beim Wendepunkt der
+
+260
+00:08:44,290 --> 00:08:46,250
+Fall. In dem Moment, wo der Graph
+
+261
+00:08:46,250 --> 00:08:47,450
+nicht mehr rechts gekrümmt ist.
+
+262
+00:08:47,490 --> 00:08:49,010
+Rechts gekrümmt heißt, er fällt immer
+
+263
+00:08:49,010 --> 00:08:51,610
+stärker. In dem Moment, wo die
+
+264
+00:08:51,610 --> 00:08:53,690
+Rechtskrümmung endet und die
+
+265
+00:08:53,690 --> 00:08:55,370
+Linkskrümmung, wo es halt wieder
+
+266
+00:08:55,370 --> 00:08:57,010
+abflacht, noch nicht begonnen hat,
+
+267
+00:08:57,110 --> 00:08:59,250
+ist die Steigung zwischen diesen
+
+268
+00:08:59,250 --> 00:09:03,490
+beiden Extremstellen am größten. Das
+
+269
+00:09:03,490 --> 00:09:05,550
+heißt, wir haben hier im Wendepunkt
+
+270
+00:09:05,550 --> 00:09:08,130
+die lokal größte Steigung,
+
+271
+00:09:08,190 --> 00:09:10,030
+beziehungsweise in diesem Fall das
+
+272
+00:09:10,030 --> 00:09:11,750
+lokal größte Gefälle.
+
+273
+00:09:14,780 --> 00:09:16,820
+Wendestellen sind daher eigentlich
+
+274
+00:09:16,820 --> 00:09:18,500
+nichts weiter als Extremstellen der
+
+275
+00:09:18,500 --> 00:09:20,100
+ersten Ableitung. Die erste Ableitung
+
+276
+00:09:20,100 --> 00:09:21,420
+beschreibt ja die Steigung einer
+
+277
+00:09:21,420 --> 00:09:25,680
+Funktion und in dem Fall ist es ja
+
+278
+00:09:25,680 --> 00:09:27,900
+so, dass wenn sich das
+
+279
+00:09:27,900 --> 00:09:29,820
+Krümmungsverhalten ändert, die erste
+
+280
+00:09:29,820 --> 00:09:33,100
+Ableitung ihr Maximum bzw. Minimum
+
+281
+00:09:33,100 --> 00:09:35,340
+erreicht. Folglich lautet auch die
+
+282
+00:09:35,340 --> 00:09:36,740
+notwendige Bedingung für eine
+
+283
+00:09:36,740 --> 00:09:39,000
+Wendestelle f' von x ist gleich 0.
+
+284
+00:09:39,460 --> 00:09:41,260
+Wir untersuchen also lediglich die
+
+285
+00:09:41,260 --> 00:09:42,340
+erste Ableitung auf ihrer
+
+286
+00:09:42,340 --> 00:09:45,240
+Extremstelle. Und deswegen ist auch
+
+287
+00:09:45,240 --> 00:09:47,000
+der Wendepunkt der Punkt mit der
+
+288
+00:09:47,000 --> 00:09:48,300
+höchsten Steigung bzw. Das ist das
+
+289
+00:09:48,300 --> 00:09:51,990
+größte Gefälle. Auch bei den
+
+290
+00:09:51,990 --> 00:09:53,290
+Wendepunkten berechnen wir bei der
+
+291
+00:09:53,290 --> 00:09:54,470
+notwendigen Bedingung erstmal einen
+
+292
+00:09:54,470 --> 00:09:57,110
+potenziellen Wendepunkt aus. Das
+
+293
+00:09:57,110 --> 00:10:00,630
+heißt, wir berechnen unser x. Wir
+
+294
+00:10:00,630 --> 00:10:01,970
+können aber noch nicht sagen, dass an
+
+295
+00:10:01,970 --> 00:10:02,890
+der Stelle auf jeden Fall ein
+
+296
+00:10:02,890 --> 00:10:04,610
+Wendepunkt vorliegt. Das müssen wir
+
+297
+00:10:04,610 --> 00:10:05,910
+erst mit der hinreichenden Bedingung
+
+298
+00:10:05,910 --> 00:10:08,130
+prüfen. Und mittels dieser können wir
+
+299
+00:10:08,130 --> 00:10:08,990
+den Wendepunkt dann auch
+
+300
+00:10:08,990 --> 00:10:11,110
+klassifizieren. Wie gerade schon
+
+301
+00:10:11,110 --> 00:10:13,710
+gesagt, man unterscheidet zwischen
+
+302
+00:10:13,710 --> 00:10:15,710
+Links-Rechts- und Rechts-Links
+
+303
+00:10:15,710 --> 00:10:19,290
+-Wendepunkt. Natürlich kann bei der
+
+304
+00:10:19,290 --> 00:10:21,070
+hinreichenden Bedingung auch der Fall
+
+305
+00:10:21,070 --> 00:10:22,310
+auftreten, dass wir keine Aussage
+
+306
+00:10:22,310 --> 00:10:23,990
+treffen. Also bei der hinreichenden
+
+307
+00:10:23,990 --> 00:10:25,150
+Bedingung gehen wir wie bei den
+
+308
+00:10:25,150 --> 00:10:26,890
+Extremstellen hin, nur hier haben wir
+
+309
+00:10:26,890 --> 00:10:30,550
+die dritte Ableitung. Setzen die in
+
+310
+00:10:30,550 --> 00:10:32,070
+der notwendigen Bedingung errechneten
+
+311
+00:10:32,070 --> 00:10:34,290
+x ein und berechnen den Funktionswert
+
+312
+00:10:34,290 --> 00:10:36,430
+der dritten Ableitung. Ganz wichtig.
+
+313
+00:10:37,010 --> 00:10:39,110
+Wenn dieser Funktionswert kleiner 0
+
+314
+00:10:39,110 --> 00:10:40,410
+ist, liegt ein Links-Rechts
+
+315
+00:10:40,410 --> 00:10:42,590
+-Wendepunkt vor. Wenn dieser größer 0
+
+316
+00:10:42,590 --> 00:10:43,950
+ist, liegt ein Rechts-Links
+
+317
+00:10:43,950 --> 00:10:45,970
+-Wendepunkt vor. Und auch hier wieder
+
+318
+00:10:45,970 --> 00:10:47,430
+der Fall, wenn der Funktionswert
+
+319
+00:10:47,430 --> 00:10:48,570
+gleich 0 ist, können wir keine
+
+320
+00:10:48,570 --> 00:10:50,130
+Aussage treffen und es muss das
+
+321
+00:10:50,130 --> 00:10:51,550
+Vorzeichenwechselkriterium
+
+322
+00:10:51,550 --> 00:10:55,170
+herangezogen werden. Auch hier gibt
+
+323
+00:10:55,170 --> 00:10:57,010
+es das Problem mit dem Punkt und der
+
+324
+00:10:57,010 --> 00:10:58,390
+Stelle. Wenn nach einem Wendepunkt
+
+325
+00:10:58,390 --> 00:10:59,910
+gefragt ist, müssen wir auch hier auf
+
+326
+00:10:59,910 --> 00:11:02,770
+jeden Fall die y-Koordinate berechnen
+
+327
+00:11:02,770 --> 00:11:06,290
+und auch angeben am Ende. Wenn
+
+328
+00:11:06,290 --> 00:11:07,790
+lediglich nach der Wendestelle
+
+329
+00:11:07,790 --> 00:11:10,510
+gefragt ist, reicht es die x
+
+330
+00:11:10,510 --> 00:11:12,070
+-Koordinate anzugeben. Aber auch hier
+
+331
+00:11:12,070 --> 00:11:13,570
+gilt, es ist meistens nach dem Punkt
+
+332
+00:11:13,570 --> 00:11:15,050
+gefragt, das heißt das Bestimmen der
+
+333
+00:11:15,050 --> 00:11:18,650
+y-Koordinate ist unausweichlich. Und
+
+334
+00:11:18,650 --> 00:11:20,030
+damit sind wir auch schon gleich bei
+
+335
+00:11:20,030 --> 00:11:22,110
+unserer Beispielaufgabe um die drei
+
+336
+00:11:24,170 --> 00:11:25,770
+drei beschriebenen Fälle uns einmal
+
+337
+00:11:25,770 --> 00:11:28,210
+anzuschauen. Und zwar, wir haben die
+
+338
+00:11:28,210 --> 00:11:30,050
+Funktionsgleichung f von x ist gleich
+
+339
+00:11:30,050 --> 00:11:32,350
+1 Achtel x hoch 3 minus 3 halbe x.
+
+340
+00:11:32,690 --> 00:11:34,410
+Von dieser Funktionsgleichung sollen
+
+341
+00:11:34,410 --> 00:11:37,390
+wir Nullstellen, Extrempunkte und
+
+342
+00:11:37,390 --> 00:11:39,730
+Wendepunkte bestimmen und sollen die
+
+343
+00:11:39,730 --> 00:11:41,070
+Extremen und Wendepunkte auch näher
+
+344
+00:11:41,070 --> 00:11:42,350
+klassifizieren. Das heißt, bei den
+
+345
+00:11:42,350 --> 00:11:46,910
+Extrempunkten
+
+346
+00:11:46,910 --> 00:11:48,590
+sollen wir unterscheiden zwischen
+
+347
+00:11:48,590 --> 00:11:50,910
+Hoch- und Tiefpunkt und beim
+
+348
+00:11:50,910 --> 00:11:52,290
+Wendepunkt sollen wir sagen, was das
+
+349
+00:11:52,290 --> 00:11:53,430
+für einer ist, also Rechts, Links
+
+350
+00:11:53,430 --> 00:11:57,530
+oder Links, Rechts Wendepunkt. Wir
+
+351
+00:11:57,530 --> 00:11:59,990
+fangen an mit den Nullstellen. Die
+
+352
+00:11:59,990 --> 00:12:01,130
+notwendige Bedingung für die
+
+353
+00:12:01,130 --> 00:12:03,170
+Nullstellen war ja f von x ist gleich
+
+354
+00:12:03,170 --> 00:12:05,030
+0. Das heißt, wir setzen unsere
+
+355
+00:12:05,030 --> 00:12:07,150
+Funktionsgleichung mit 0 gleich. 0
+
+356
+00:12:07,150 --> 00:12:08,970
+ist dann gleich 1 Achtel x hoch 3
+
+357
+00:12:08,970 --> 00:12:12,630
+minus 3 halbe x. Die Nullstellen
+
+358
+00:12:12,630 --> 00:12:14,130
+haben die Eigenschaft, dass die
+
+359
+00:12:14,130 --> 00:12:16,590
+Gleichung immer ein bisschen
+
+360
+00:12:16,590 --> 00:12:20,830
+komplizierter ist. Und die Gleichung
+
+361
+00:12:20,830 --> 00:12:22,210
+bei den Extremen und Wendepunkten ist
+
+362
+00:12:22,210 --> 00:12:23,270
+immer ein bisschen einfacher dadurch,
+
+363
+00:12:23,390 --> 00:12:24,610
+dass wir ableiten und sich dadurch
+
+364
+00:12:24,610 --> 00:12:26,650
+der Grad der Funktion reduziert.
+
+365
+00:12:28,960 --> 00:12:30,680
+Wir haben hier eine Gleichung dritten
+
+366
+00:12:30,680 --> 00:12:33,480
+Grades. So eine Gleichung kann man
+
+367
+00:12:33,480 --> 00:12:35,260
+durch die Polynom-Division lösen, mit
+
+368
+00:12:35,260 --> 00:12:36,980
+dem Taschenrechner oder durch andere
+
+369
+00:12:36,980 --> 00:12:38,860
+Rechentricks. Wir sehen hier zum
+
+370
+00:12:38,860 --> 00:12:42,300
+Beispiel, dass ein Achtel x hoch 3
+
+371
+00:12:42,300 --> 00:12:44,340
+minus 3 halbe x alles hat ein x. Das
+
+372
+00:12:44,340 --> 00:12:45,280
+heißt, wir können auch ein x
+
+373
+00:12:45,280 --> 00:12:47,380
+ausklammern. Wir können nämlich immer
+
+374
+00:12:47,380 --> 00:12:49,000
+die kleinste Potenz ausklammern, das
+
+375
+00:12:49,000 --> 00:12:51,440
+ist in dem Fall x hoch 1 bzw. x und
+
+376
+00:12:51,440 --> 00:12:53,480
+das machen wir. So kommen wir auf 0
+
+377
+00:12:53,480 --> 00:12:55,660
+ist gleich x mal, Klammer auf, 1
+
+378
+00:12:55,660 --> 00:13:00,880
+Achtel x Quadrat minus 3 Halbe. Der
+
+379
+00:13:00,880 --> 00:13:02,160
+Term, der hier in der Klammer steht,
+
+380
+00:13:02,300 --> 00:13:04,800
+entsteht dadurch, dass wir das x
+
+381
+00:13:04,800 --> 00:13:05,760
+ausgeklammert haben, wie gerade
+
+382
+00:13:05,760 --> 00:13:07,360
+gesagt Und man kann ihn auch nochmal
+
+383
+00:13:07,360 --> 00:13:09,620
+gut kontrollieren Wenn wir jetzt den
+
+384
+00:13:09,620 --> 00:13:11,440
+Term hier oben durch x teilen, muss
+
+385
+00:13:11,440 --> 00:13:13,200
+das rauskommen, was hier steht 1,8x
+
+386
+00:13:13,200 --> 00:13:15,460
+hoch 3 geteilt durch x ist 1,8x²
+
+387
+00:13:16,720 --> 00:13:18,520
+Minus 3 halbe x geteilt durch x ist
+
+388
+00:13:18,520 --> 00:13:20,820
+minus 3 halbe Andersrum heißt es
+
+389
+00:13:20,820 --> 00:13:21,980
+natürlich auch, wenn wir wieder
+
+390
+00:13:21,980 --> 00:13:23,320
+ausklammern würden, müssten wir auf
+
+391
+00:13:23,320 --> 00:13:26,380
+den Term kommen Wir haben dort jetzt
+
+392
+00:13:26,380 --> 00:13:28,040
+ein Produkt stehen und dieses Produkt
+
+393
+00:13:28,040 --> 00:13:29,440
+ergibt gleich 0, das ist ganz
+
+394
+00:13:29,440 --> 00:13:33,020
+wichtig. Und an der Stelle können wir
+
+395
+00:13:33,020 --> 00:13:34,880
+uns den Satz vom Nullprodukt zunutze
+
+396
+00:13:34,880 --> 00:13:37,620
+machen. Dieser besagt, dass ein
+
+397
+00:13:37,620 --> 00:13:40,080
+Produkt immer dann zu 0 wird, wenn
+
+398
+00:13:40,080 --> 00:13:42,720
+einer der beiden Faktoren 0 ist. Das
+
+399
+00:13:42,720 --> 00:13:46,560
+heißt, entweder das x-tex oder 1,8x²
+
+400
+00:13:46,560 --> 00:13:49,960
+-3,5 ist 0. Unsere erste Lösung ist
+
+401
+00:13:49,960 --> 00:13:52,420
+natürlich, ok, x1 ist gleich 0. Die
+
+402
+00:13:52,420 --> 00:13:53,620
+zweite Lösung ist 0. ist dann 1
+
+403
+00:13:53,620 --> 00:13:56,560
+Achtel x² minus 3 halbe gleich 0. Und
+
+404
+00:13:56,560 --> 00:13:57,960
+wir sehen, wir haben hier nur noch
+
+405
+00:13:57,960 --> 00:13:59,600
+eine Gleichung zweiten Grades,
+
+406
+00:13:59,640 --> 00:14:00,940
+beziehungsweise ist in dem Fall sogar
+
+407
+00:14:00,940 --> 00:14:02,480
+eine rein quadratische Gleichung,
+
+408
+00:14:02,520 --> 00:14:04,860
+weil wir nur x² haben. Deswegen
+
+409
+00:14:04,860 --> 00:14:06,420
+brauchen wir hierfür nichtmals die PQ
+
+410
+00:14:06,420 --> 00:14:07,800
+-Formel. Wenn wir hier noch ein
+
+411
+00:14:07,800 --> 00:14:09,140
+lineares Glied an x drin hätten,
+
+412
+00:14:09,240 --> 00:14:11,360
+bräuchten wir die PQ-Formel. Das wäre
+
+413
+00:14:11,360 --> 00:14:13,640
+aber auch kein Problem. Wie gerade
+
+414
+00:14:13,640 --> 00:14:14,820
+schon gesagt, haben wir in dem Fall
+
+415
+00:14:14,820 --> 00:14:15,920
+nicht, deswegen stellen wir einfach
+
+416
+00:14:15,920 --> 00:14:18,400
+um, rechnen plus 3 halbe. Steht da 3
+
+417
+00:14:18,400 --> 00:14:21,440
+halbe, ist gleich 1 Achtel x². Als
+
+418
+00:14:21,440 --> 00:14:23,840
+nächstes rechnen wir noch mal 8,
+
+419
+00:14:24,020 --> 00:14:25,240
+beziehungsweise geteilt durch 1
+
+420
+00:14:25,240 --> 00:14:28,180
+Achtel und kommen so zu 12 ist gleich
+
+421
+00:14:28,180 --> 00:14:30,560
+x². Wir müssen jetzt nur noch die
+
+422
+00:14:30,560 --> 00:14:32,260
+Wurzel ziehen und kommen darauf, dass
+
+423
+00:14:32,260 --> 00:14:34,440
+auf das Ergebnis plus minus Wurzel
+
+424
+00:14:34,440 --> 00:14:36,680
+12. Wir haben also insgesamt drei
+
+425
+00:14:36,680 --> 00:14:38,440
+Lösungen. Einmal x1 ist gleich 0,
+
+426
+00:14:38,560 --> 00:14:40,520
+einmal x2 ist gleich minus Wurzel 12
+
+427
+00:14:40,520 --> 00:14:43,160
+und x3 ist gleich plus Wurzel 12.
+
+428
+00:14:44,840 --> 00:14:46,860
+Noch eine kleine Sache zum Gleichung
+
+429
+00:14:46,860 --> 00:14:49,500
+lösen. Der Grad der Gleichung gibt
+
+430
+00:14:49,500 --> 00:14:51,400
+auch die maximale Anzahl an Lösungen
+
+431
+00:14:51,400 --> 00:14:53,060
+an. Das heißt, wir haben hier eine
+
+432
+00:14:53,060 --> 00:14:54,620
+Gleichung dritten Grades und mehr als
+
+433
+00:14:54,620 --> 00:14:56,000
+drei Lösungen gibt es natürlich
+
+434
+00:14:56,000 --> 00:15:00,380
+nicht. Und damit haben wir auch schon
+
+435
+00:15:00,380 --> 00:15:02,020
+die Nullstellen bestimmt und
+
+436
+00:15:02,020 --> 00:15:03,060
+bestimmen als nächstes die
+
+437
+00:15:03,060 --> 00:15:06,360
+Extrempunkte. Ganz wichtig. Das
+
+438
+00:15:06,360 --> 00:15:07,800
+heißt, wir müssen auf jeden Fall auch
+
+439
+00:15:07,800 --> 00:15:10,620
+die y-Koordinate bestimmen. In
+
+440
+00:15:10,620 --> 00:15:11,860
+unserer Funktionsgleichung sehen wir
+
+441
+00:15:11,860 --> 00:15:13,460
+hier oben nochmal f von x ist gleich
+
+442
+00:15:13,460 --> 00:15:17,120
+1,8 x hoch 3 minus 3,5 x. Die
+
+443
+00:15:17,120 --> 00:15:18,400
+notwendige Bedingung für die
+
+444
+00:15:18,400 --> 00:15:20,120
+Extrempunkte oder Extremstellen
+
+445
+00:15:20,120 --> 00:15:22,140
+lautet ja f' von x ist gleich 0. Das
+
+446
+00:15:22,140 --> 00:15:23,300
+heißt, wir fangen immer mit der
+
+447
+00:15:23,300 --> 00:15:25,660
+notwendigen Bedingung an. Wir setzen
+
+448
+00:15:25,660 --> 00:15:27,300
+also die erste Ableitung mit 0
+
+449
+00:15:27,300 --> 00:15:28,740
+gleich. Dafür müssen wir natürlich
+
+450
+00:15:28,740 --> 00:15:29,580
+erstmal die erste Ableitung
+
+451
+00:15:29,580 --> 00:15:32,760
+bestimmen. 1,8x hoch 3 minus 3,5x ist
+
+452
+00:15:32,760 --> 00:15:36,740
+abgeleitet 3,8x² minus 3,5 und das
+
+453
+00:15:36,740 --> 00:15:38,620
+setzen wir jetzt mit 0 gleich und wir
+
+454
+00:15:38,620 --> 00:15:40,200
+sehen, wir haben wieder nur eine rein
+
+455
+00:15:40,200 --> 00:15:42,380
+quadratische Gleichung. Das ist ganz
+
+456
+00:15:42,380 --> 00:15:43,640
+schön, die kann man nämlich sehr
+
+457
+00:15:43,640 --> 00:15:45,040
+schnell lösen. Ihr seht aber auch,
+
+458
+00:15:45,180 --> 00:15:46,880
+wir haben jetzt einmal abgeleitet und
+
+459
+00:15:46,880 --> 00:15:47,820
+wir haben gleich nur noch eine
+
+460
+00:15:47,820 --> 00:15:50,080
+Gleichung 2. Grades rausbekommen,
+
+461
+00:15:50,120 --> 00:15:51,260
+während die Nullstellen eine
+
+462
+00:15:51,260 --> 00:15:53,340
+Gleichung 3. Grades waren. Und das
+
+463
+00:15:53,340 --> 00:15:55,080
+ist immer so, dass der Grad halt bei
+
+464
+00:15:55,080 --> 00:15:57,440
+den Extremstellen um 1 geringer ist.
+
+465
+00:15:58,580 --> 00:16:01,720
+Und wie gesagt, rein quadratische
+
+466
+00:16:01,720 --> 00:16:04,660
+Gleichung wie vorhin. Deswegen direkt
+
+467
+00:16:04,660 --> 00:16:06,500
+plus 3 halbe, dann steht da 3 halbe
+
+468
+00:16:06,500 --> 00:16:08,860
+ist gleich 3 Achtel x². Wir teilen
+
+469
+00:16:08,860 --> 00:16:11,080
+nur noch durch 3 Achtel. Durch einen
+
+470
+00:16:11,080 --> 00:16:12,760
+Bruch wird dividiert, indem man mit
+
+471
+00:16:12,760 --> 00:16:14,200
+seinem Kehrbein multipliziert, lautet
+
+472
+00:16:14,200 --> 00:16:16,380
+hier der Merksatz. Das heißt, wenn
+
+473
+00:16:16,380 --> 00:16:18,100
+wir durch 3 Achtel teilen, können wir
+
+474
+00:16:18,100 --> 00:16:19,660
+auch mit 8 Drittel multiplizieren.
+
+475
+00:16:19,780 --> 00:16:21,140
+Und dann sehen wir auch, wir haben 3
+
+476
+00:16:21,140 --> 00:16:22,820
+Halbe mal 8 Drittel. Die 3 können wir
+
+477
+00:16:22,820 --> 00:16:25,980
+rauskürzen. Wir haben dann 8 Halbe
+
+478
+00:16:25,980 --> 00:16:28,260
+und das ist 4. Also hier steht 4 ist
+
+479
+00:16:28,260 --> 00:16:31,600
+gleich x². Davon ziehen wir jetzt nur
+
+480
+00:16:31,600 --> 00:16:32,660
+noch die Wurzel. Dann wissen wir,
+
+481
+00:16:32,740 --> 00:16:34,840
+eine Lösung lautet 2 und die zweite
+
+482
+00:16:34,840 --> 00:16:37,740
+Lösung lautet minus 2. Wichtig ist
+
+483
+00:16:37,740 --> 00:16:39,280
+jetzt, wir können noch nicht sagen,
+
+484
+00:16:39,380 --> 00:16:40,560
+dass das unsere Extremstellen sind.
+
+485
+00:16:40,580 --> 00:16:41,520
+Das wissen wir nicht. Wir wissen
+
+486
+00:16:41,520 --> 00:16:43,200
+lediglich, dass an der Stelle x1
+
+487
+00:16:43,200 --> 00:16:45,500
+gleich 2 und an der Stelle x2 gleich
+
+488
+00:16:45,500 --> 00:16:49,340
+minus 2 die Steigung 0 ist. Um jetzt
+
+489
+00:16:49,340 --> 00:16:51,220
+zu sagen, ob es und auch was für eine
+
+490
+00:16:51,220 --> 00:16:52,900
+Extremstelle es ist, müssen wir nun
+
+491
+00:16:52,900 --> 00:16:55,240
+diese beiden Stellen in die
+
+492
+00:16:55,240 --> 00:16:57,620
+hinreichende Bedingung bzw. in die
+
+493
+00:16:57,620 --> 00:16:59,780
+zweite Ableitung einsetzen. Das sehen
+
+494
+00:16:59,780 --> 00:17:01,860
+wir hier. Das heißt, als nächstes
+
+495
+00:17:01,860 --> 00:17:03,080
+bestimmen wir erstmal unsere zweite
+
+496
+00:17:03,080 --> 00:17:06,840
+Ableitung. 2,8x² minus 3,5 ist
+
+497
+00:17:06,840 --> 00:17:09,260
+abgeleitet 6,8x. Das minus 3,5 fällt
+
+498
+00:17:09,260 --> 00:17:11,480
+einfach raus, weil es kein x mehr
+
+499
+00:17:11,480 --> 00:17:15,300
+hat. Und wie gesagt, wir erhalten so
+
+500
+00:17:15,300 --> 00:17:17,840
+6,8x. Das kann man auch noch kürzen
+
+501
+00:17:17,840 --> 00:17:19,460
+zu 3,4x, das ist aber nicht so
+
+502
+00:17:19,460 --> 00:17:22,460
+wichtig. In diese zweite Ableitung
+
+503
+00:17:22,460 --> 00:17:24,060
+setzen wir nun die gerade errechneten
+
+504
+00:17:24,060 --> 00:17:26,700
+Stellen 2 und minus 2 ein und
+
+505
+00:17:26,700 --> 00:17:28,560
+berechnen dann den Wert der zweiten
+
+506
+00:17:28,560 --> 00:17:31,460
+Ableitung. Also 6,8 mal 2 ist 1,5.
+
+507
+00:17:31,980 --> 00:17:34,500
+Das ist größer als 0. Folglich liegt
+
+508
+00:17:34,500 --> 00:17:36,760
+an der Stelle 2 ein Tiefpunkt vor.
+
+509
+00:17:38,380 --> 00:17:40,320
+Dann berechnen wir noch die zweite
+
+510
+00:17:40,320 --> 00:17:41,600
+Ableitung von unserer zweiten Lösung,
+
+511
+00:17:41,720 --> 00:17:44,060
+also f' von minus 2. Das ist dann
+
+512
+00:17:44,060 --> 00:17:46,860
+gleich 6 Achtel mal minus 2. Das ist
+
+513
+00:17:46,860 --> 00:17:50,120
+minus 1,5. Das ist kleiner als 0.
+
+514
+00:17:50,320 --> 00:17:52,220
+Folglich liegt an der Stelle minus 2
+
+515
+00:17:52,220 --> 00:17:53,960
+ein Hochpunkt vor. Das können wir
+
+516
+00:17:53,960 --> 00:17:57,520
+jetzt ganz klar sagen. Und damit ist
+
+517
+00:17:57,520 --> 00:17:59,960
+bestimmt, was für Extremstellen wir
+
+518
+00:17:59,960 --> 00:18:01,100
+haben. Wir haben einmal einen
+
+519
+00:18:01,100 --> 00:18:02,680
+Tiefpunkt bei x gleich 2 und einmal
+
+520
+00:18:02,680 --> 00:18:04,400
+einen Hochpunkt bei x gleich minus 2.
+
+521
+00:18:04,820 --> 00:18:06,320
+Das, was jetzt nur noch fehlt, ist
+
+522
+00:18:06,320 --> 00:18:09,120
+der Punkt. Also wir müssen zu unserem
+
+523
+00:18:09,120 --> 00:18:11,180
+x noch die y-Koordinate bestimmen.
+
+524
+00:18:11,660 --> 00:18:13,640
+Das machen wir, indem wir unsere
+
+525
+00:18:13,640 --> 00:18:14,700
+beiden Lösungen in die
+
+526
+00:18:14,700 --> 00:18:16,420
+Ausgangsfunktion f von x einsetzen.
+
+527
+00:18:17,040 --> 00:18:19,640
+Das heißt, wir bestimmen einmal f von
+
+528
+00:18:19,640 --> 00:18:21,520
+minus 2 für unseren Hochpunkt und f
+
+529
+00:18:21,520 --> 00:18:24,460
+von 2 für unseren Tiefpunkt. f von
+
+530
+00:18:24,460 --> 00:18:27,220
+minus 2 ist 2. Wir haben dann also
+
+531
+00:18:27,220 --> 00:18:30,700
+den Hochpunkt minus 2, 2 und f von 2
+
+532
+00:18:30,700 --> 00:18:32,440
+ist gleich minus 2 und so kommen wir
+
+533
+00:18:32,440 --> 00:18:38,240
+auf den Tiefpunkt 2, minus 2. Und
+
+534
+00:18:38,240 --> 00:18:40,740
+damit haben wir unsere Extrempunkte
+
+535
+00:18:40,740 --> 00:18:41,420
+auch schon bestimmt.
+
+536
+00:18:44,450 --> 00:18:46,150
+Kommen wir nun zu den Wendepunkten.
+
+537
+00:18:46,170 --> 00:18:47,670
+Das Verfahren bei den Wendepunkten
+
+538
+00:18:47,670 --> 00:18:48,930
+ist sehr ähnlich, nur dass wir jetzt
+
+539
+00:18:48,930 --> 00:18:50,650
+die zweite Ableitung gleich 0 bei der
+
+540
+00:18:50,650 --> 00:18:52,530
+notwendigen Bedingung haben und
+
+541
+00:18:52,530 --> 00:18:53,590
+gleich bei der hinreichenden
+
+542
+00:18:53,590 --> 00:18:55,030
+Bedingung die dritte Ableitung
+
+543
+00:18:55,030 --> 00:18:57,210
+brauchen. Der Ansatz ist hier
+
+544
+00:18:57,210 --> 00:18:58,510
+natürlich die notwendige Bedingung
+
+545
+00:18:58,510 --> 00:19:00,690
+für einen Wendepunkt, also f' von x
+
+546
+00:19:00,690 --> 00:19:02,410
+gleich 0. Die zweite Ableitung haben
+
+547
+00:19:02,410 --> 00:19:03,810
+wir ja schon mal vorhin gehabt bei
+
+548
+00:19:03,810 --> 00:19:04,830
+der hinreichenden Bedingung, die
+
+549
+00:19:04,830 --> 00:19:08,070
+lautete 6,8x. Und diese setzen wir
+
+550
+00:19:08,070 --> 00:19:09,470
+einfach mit 0 gleich. Ihr seht, das
+
+551
+00:19:09,470 --> 00:19:11,870
+ist nur noch eine Gleichung ersten
+
+552
+00:19:11,870 --> 00:19:13,290
+Grades, also ein ganz lineares
+
+553
+00:19:13,290 --> 00:19:15,710
+Problem, das geht immer flott. 0 ist
+
+554
+00:19:15,710 --> 00:19:17,930
+dann gleich 6 Achtel x. Teilen wir
+
+555
+00:19:17,930 --> 00:19:19,830
+durch 6 Achtel, dann steht da 0
+
+556
+00:19:19,830 --> 00:19:21,290
+geteilt durch 6 Achtel ist halt 0.
+
+557
+00:19:21,690 --> 00:19:23,570
+Und so kommen wir gleich zu unserer
+
+558
+00:19:23,570 --> 00:19:26,110
+Lösung x ist gleich 0. Auch hierbei
+
+559
+00:19:26,110 --> 00:19:27,830
+gilt, wir können hier noch nicht
+
+560
+00:19:27,830 --> 00:19:29,950
+sagen, dass an der Stelle x gleich 0
+
+561
+00:19:29,950 --> 00:19:32,770
+eine Wendestelle vorliegt. Das müssen
+
+562
+00:19:32,770 --> 00:19:34,070
+wir jetzt erst mittels der
+
+563
+00:19:34,070 --> 00:19:34,990
+hinreichenden Bedingungen auch
+
+564
+00:19:34,990 --> 00:19:37,610
+wirklich bestätigen. Und das machen
+
+565
+00:19:37,610 --> 00:19:40,530
+wir dann auch direkt. Wir setzen die
+
+566
+00:19:40,530 --> 00:19:42,830
+Lösung x gleich 0 in die hinreichende
+
+567
+00:19:42,830 --> 00:19:45,930
+Bedingung ein. Das war einfach, wir
+
+568
+00:19:45,930 --> 00:19:47,290
+setzen die Stelle in die dritte
+
+569
+00:19:47,290 --> 00:19:49,750
+Ableitung ein. Wenn diese kleiner als
+
+570
+00:19:49,750 --> 00:19:51,330
+0 ist, haben wir einen Links-Rechts
+
+571
+00:19:51,330 --> 00:19:53,610
+-Wendepunkt. Wenn diese größer als 0
+
+572
+00:19:53,610 --> 00:19:55,090
+ist, haben wir einen Rechts-Links
+
+573
+00:19:55,090 --> 00:19:57,430
+-Wendepunkt. Und wenn die dritte
+
+574
+00:19:57,430 --> 00:19:58,750
+Ableitung davon gleich 0 ist, dann
+
+575
+00:19:58,750 --> 00:20:01,970
+können wir keine Aussage treffen. Wir
+
+576
+00:20:01,970 --> 00:20:02,870
+haben hier nochmal unsere zweite
+
+577
+00:20:02,870 --> 00:20:04,910
+Ableitung aufgeschrieben. f' von x
+
+578
+00:20:04,910 --> 00:20:06,750
+ist gleich 3 Viertel x. Wie gesagt, 6
+
+579
+00:20:06,750 --> 00:20:08,350
+Achtel x kann man zu 3 Viertel x
+
+580
+00:20:08,350 --> 00:20:11,730
+kürzen und leiten das erneut ab. Und
+
+581
+00:20:11,730 --> 00:20:14,090
+wir kommen so zu f' von x ist gleich
+
+582
+00:20:14,090 --> 00:20:17,310
+3 Viertel. Unabhängig davon, dass das
+
+583
+00:20:17,310 --> 00:20:18,430
+jetzt die dritte Ableitung ist, wenn
+
+584
+00:20:18,430 --> 00:20:19,770
+wir eine Funktionsgleichung sehen,
+
+585
+00:20:19,930 --> 00:20:22,010
+die nur ein absolutes Glied ist, also
+
+586
+00:20:22,010 --> 00:20:24,110
+in dem Fall 3 Viertel, also 0,75, 5,
+
+587
+00:20:24,330 --> 00:20:26,390
+dann ist das nichts weiter als eine
+
+588
+00:20:26,390 --> 00:20:28,270
+Parallele zu x-Achse. Das heißt, egal
+
+589
+00:20:28,270 --> 00:20:29,790
+an welcher Stelle wir gucken, der
+
+590
+00:20:29,790 --> 00:20:32,470
+Funktionswert ist 3 Viertel. Wenn wir
+
+591
+00:20:32,470 --> 00:20:35,850
+jetzt also in f' von x gleich 3
+
+592
+00:20:35,850 --> 00:20:38,210
+Viertel die 0 einsetzen, steht da f'
+
+593
+00:20:38,350 --> 00:20:40,190
+von 0 ist gleich 3 Viertel, weil wir
+
+594
+00:20:40,190 --> 00:20:42,150
+können nichts einsetzen. Egal was wir
+
+595
+00:20:42,150 --> 00:20:43,910
+hier für eine Zahl eintragen, das
+
+596
+00:20:43,910 --> 00:20:48,980
+Ergebnis ist 3 Viertel. Und 3 Viertel
+
+597
+00:20:48,980 --> 00:20:51,560
+ist größer als 0. Folglich ist es ein
+
+598
+00:20:51,560 --> 00:20:53,220
+Rechts-Links-Wendepunkt. Also wir
+
+599
+00:20:53,220 --> 00:20:55,160
+können definitiv sagen, es gibt einen
+
+600
+00:20:55,160 --> 00:20:58,280
+Wendepunkt bei x gleich 0. Für den
+
+601
+00:20:58,280 --> 00:21:00,240
+Punkt fehlt natürlich noch wieder
+
+602
+00:21:00,240 --> 00:21:02,280
+unsere y-Koordinate. Diese berechnen
+
+603
+00:21:02,280 --> 00:21:04,320
+wir jetzt auch wieder. Das heißt, wir
+
+604
+00:21:04,320 --> 00:21:06,620
+bilden wir setzen die 0 in unsere
+
+605
+00:21:06,620 --> 00:21:08,360
+Ausgangsfunktion f von x wieder ein.
+
+606
+00:21:08,980 --> 00:21:11,020
+Also f von 0 ist gleich 1 Achtel mal
+
+607
+00:21:11,020 --> 00:21:12,920
+0 hoch 3 minus 3 halbe mal 0.
+
+608
+00:21:12,920 --> 00:21:14,880
+Folglich haben wir den Wendepunkt .
+
+609
+00:21:14,880 --> 00:21:18,520
+Und wir stellen fest, wir hatten auch
+
+610
+00:21:18,520 --> 00:21:19,940
+die Nullstelle bei Null. Das heißt,
+
+611
+00:21:20,020 --> 00:21:21,840
+unser Wendepunkt liegt in unserer
+
+612
+00:21:21,840 --> 00:21:25,260
+Nullstelle. Und damit haben wir auch
+
+613
+00:21:25,260 --> 00:21:26,780
+den Wendepunkt vollständig
+
+614
+00:21:26,780 --> 00:21:30,760
+klassifiziert. Kommen wir nun zu der
+
+615
+00:21:30,760 --> 00:21:33,300
+Zusammenfassung. Wir sehen hier
+
+616
+00:21:33,300 --> 00:21:35,500
+nochmal die Art des Punktes, also
+
+617
+00:21:35,500 --> 00:21:37,000
+Nullstelle, Extrempunkt oder
+
+618
+00:21:37,000 --> 00:21:38,960
+Wendepunkt. man spricht eigentlich
+
+619
+00:21:38,960 --> 00:21:40,200
+immer von Nullstelle und nicht
+
+620
+00:21:40,200 --> 00:21:43,340
+Nullpunkt, weil der Funktionswert,
+
+621
+00:21:43,380 --> 00:21:44,500
+also die y-Koordinate an der
+
+622
+00:21:44,500 --> 00:21:45,960
+Nullstelle ist natürlich Null, das
+
+623
+00:21:45,960 --> 00:21:47,140
+ist ja unsere notwendige Bedingung.
+
+624
+00:21:48,500 --> 00:21:49,940
+Deswegen spricht man eher von der
+
+625
+00:21:49,940 --> 00:21:51,740
+Nullstelle, weil es klar ist, dass
+
+626
+00:21:51,740 --> 00:21:53,100
+der Funktionswert an der Nullstelle
+
+627
+00:21:53,100 --> 00:21:55,720
+Null ist. Die notwendige Bedingung
+
+628
+00:21:55,720 --> 00:21:57,200
+für diese ist dann f von x mit
+
+629
+00:21:57,200 --> 00:21:58,660
+Nullgleichsetzen und es gibt keine
+
+630
+00:21:58,660 --> 00:22:00,940
+hinreichende Bedingung mehr. Ja, also
+
+631
+00:22:00,940 --> 00:22:03,480
+die Nullstellen sind die Art von
+
+632
+00:22:03,480 --> 00:22:05,180
+Punkten, wo ihr nur eine notwendige
+
+633
+00:22:05,180 --> 00:22:06,980
+Bedingung habt. Bei Extrempunkten und
+
+634
+00:22:06,980 --> 00:22:08,460
+Wendepunkten müsst ihr immer zwei
+
+635
+00:22:08,460 --> 00:22:10,680
+Bedingungen ausführen. Bei
+
+636
+00:22:10,680 --> 00:22:12,040
+Extrempunkten lautet die notwendige
+
+637
+00:22:12,040 --> 00:22:14,800
+Bedingung f' von x ist gleich 0. Das
+
+638
+00:22:14,800 --> 00:22:16,320
+heißt, die Steigung im Hochpunkt muss
+
+639
+00:22:16,320 --> 00:22:19,480
+0 sein. Die Stellen, wo die Steigung
+
+640
+00:22:19,480 --> 00:22:20,700
+dann 0 ist, werden dann mittels der
+
+641
+00:22:20,700 --> 00:22:21,560
+notwendigen Bedingung erstmal
+
+642
+00:22:21,560 --> 00:22:25,000
+bestimmt. und in der hinreichenden
+
+643
+00:22:25,000 --> 00:22:26,460
+Bedingung oder mit der hinreichenden
+
+644
+00:22:26,460 --> 00:22:27,920
+Bedingung werden diese Stellen dann
+
+645
+00:22:27,920 --> 00:22:30,880
+geprüft. Also ob an der Stelle ein
+
+646
+00:22:30,880 --> 00:22:33,160
+Hochpunkt vorliegt oder ein Tiefpunkt
+
+647
+00:22:33,160 --> 00:22:35,220
+oder es ist vielleicht ein
+
+648
+00:22:35,220 --> 00:22:36,160
+Sattelpunkt oder etwas nicht
+
+649
+00:22:36,160 --> 00:22:39,580
+identifizierbares. Also nochmal zur
+
+650
+00:22:39,580 --> 00:22:40,920
+Zusammenfassung, wenn die zweite
+
+651
+00:22:40,920 --> 00:22:42,800
+Ableitung von der Stelle kleiner als
+
+652
+00:22:42,800 --> 00:22:43,980
+0 ist, können wir direkt sagen, es
+
+653
+00:22:43,980 --> 00:22:46,020
+ist ein Hochpunkt. Wenn die zweite
+
+654
+00:22:46,020 --> 00:22:46,900
+Wenn die zweite Ableitung der Stelle
+
+655
+00:22:46,900 --> 00:22:48,500
+größer als 0 ist, können wir sagen,
+
+656
+00:22:48,520 --> 00:22:49,620
+es ist ein Tiefpunkt, also ein
+
+657
+00:22:49,620 --> 00:22:50,900
+Minimum und wenn es gleich 0 ist,
+
+658
+00:22:50,960 --> 00:22:51,880
+dann können wir keine Aussage
+
+659
+00:22:51,880 --> 00:22:53,960
+treffen. Es liegt aber die Vermutung
+
+660
+00:22:53,960 --> 00:22:55,300
+nahe, dass es ein Sattelpunkt ist.
+
+661
+00:22:55,500 --> 00:22:56,600
+Das kann man dann über das
+
+662
+00:22:56,600 --> 00:22:58,420
+Vorzeichenwechselkriterium beweisen.
+
+663
+00:22:59,600 --> 00:23:01,420
+Bei den Wendepunkten sieht es ähnlich
+
+664
+00:23:01,420 --> 00:23:02,960
+aus. Notwendige Bedingungen für einen
+
+665
+00:23:02,960 --> 00:23:05,120
+Wendepunkt f' von x ist gleich 0.
+
+666
+00:23:05,760 --> 00:23:07,360
+Damit berechnen wir auch erstmal
+
+667
+00:23:07,360 --> 00:23:09,720
+unsere Stellen, also die potenziellen
+
+668
+00:23:09,720 --> 00:23:11,260
+Stellen und prüfen diese in der
+
+669
+00:23:11,260 --> 00:23:13,400
+hinreichenden Bedingung. Diese lautet
+
+670
+00:23:13,400 --> 00:23:17,080
+bei den Wendepunkten f' von x ist
+
+671
+00:23:17,080 --> 00:23:19,180
+ungleich 0 bzw. wenn die dritte
+
+672
+00:23:19,180 --> 00:23:21,120
+Ableitung von der Stelle kleiner als
+
+673
+00:23:21,120 --> 00:23:23,040
+0 ist, liegt ein Links-Rechts
+
+674
+00:23:23,040 --> 00:23:24,420
+-Wendepunkt vor. wenn die dritte
+
+675
+00:23:24,420 --> 00:23:25,940
+Ableitung an der Stelle größer als 0
+
+676
+00:23:25,940 --> 00:23:27,560
+ist, liegt ein Rechts-Links
+
+677
+00:23:27,560 --> 00:23:29,680
+-Wendepunkt vor. Wenn die dritte
+
+678
+00:23:29,680 --> 00:23:30,920
+Ableitung gleich 0 ist, haben wir
+
+679
+00:23:30,920 --> 00:23:31,840
+wieder das Problem, dass wir keine
+
+680
+00:23:31,840 --> 00:23:34,140
+Aussage treffen können und müssen da
+
+681
+00:23:34,140 --> 00:23:34,900
+auch wieder mit dem
+
+682
+00:23:34,900 --> 00:23:36,340
+Vorzeichenwechselkriterium ein.
+
+683
+00:23:38,160 --> 00:23:39,120
+Vorzeichenwechselkriterium heißt bei
+
+684
+00:23:39,120 --> 00:23:41,240
+Extrempunkten beispielsweise, man
+
+685
+00:23:41,240 --> 00:23:42,520
+berechnet den Wert der ersten
+
+686
+00:23:42,520 --> 00:23:43,780
+Ableitung einmal rechts und einmal
+
+687
+00:23:43,780 --> 00:23:46,200
+links von der Stelle. Beim Wendepunkt
+
+688
+00:23:46,200 --> 00:23:47,540
+bedeutet das, wir berechnen den Wert
+
+689
+00:23:47,540 --> 00:23:48,960
+der zweiten Ableitung einmal rechts
+
+690
+00:23:48,960 --> 00:23:51,800
+und einmal links von der Stelle. Und
+
+691
+00:23:51,800 --> 00:23:53,020
+das Vorzeichen muss sich dann
+
+692
+00:23:53,020 --> 00:23:56,580
+entsprechend ändern. Damit wären wir
+
+693
+00:23:56,580 --> 00:23:58,240
+auch schon am Ende des Webinars. Ich
+
+694
+00:23:58,240 --> 00:24:00,020
+bedanke mich für eure Aufmerksamkeit.
+

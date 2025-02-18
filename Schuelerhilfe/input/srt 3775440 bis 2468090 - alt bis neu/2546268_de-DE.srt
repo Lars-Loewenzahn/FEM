@@ -1,0 +1,556 @@
+1
+00:00:00,240 --> 00:00:01,820
+Herzlich willkommen zu unserem
+
+2
+00:00:01,820 --> 00:00:06,200
+Webinar zum Thema If-Clause. Wir
+
+3
+00:00:06,200 --> 00:00:07,920
+werden uns heute die drei
+
+4
+00:00:07,920 --> 00:00:10,320
+verschiedenen Typen der If-Clause
+
+5
+00:00:10,320 --> 00:00:12,480
+anschauen. Im Anschluss gebe ich
+
+6
+00:00:12,480 --> 00:00:14,720
+nochmal einen Gesamtüberblick über
+
+7
+00:00:14,720 --> 00:00:17,700
+alle drei Typen. Dann schauen wir uns
+
+8
+00:00:17,700 --> 00:00:19,780
+an, welche weiteren Formen von
+
+9
+00:00:19,780 --> 00:00:22,640
+Bedingungssätzen es noch gibt und
+
+10
+00:00:22,640 --> 00:00:25,960
+schauen einmal, wie die Kommasetzung
+
+11
+00:00:25,960 --> 00:00:29,240
+in If-Clause aussieht. Wir beginnen
+
+12
+00:00:29,240 --> 00:00:31,860
+mit Typ 1. Typ
+
+13
+00:00:35,670 --> 00:00:41,970
+1 wird gebildet, indem wir im If-Satz
+
+14
+00:00:41,970 --> 00:00:45,530
+das Verb im Simple Present benutzen
+
+15
+00:00:45,530 --> 00:00:49,130
+und im Hauptsatz das Will Future.
+
+16
+00:00:49,130 --> 00:00:53,070
+Also zum Beispiel, if she earns that
+
+17
+00:00:53,070 --> 00:00:54,690
+dress, she wins,
+
+18
+00:00:59,470 --> 00:01:02,750
+verwenden wir, wenn die Bedingung im
+
+19
+00:01:02,750 --> 00:01:05,350
+If-Satz erfüllbar oder wahrscheinlich
+
+20
+00:01:05,350 --> 00:01:08,510
+ist. Das heißt, wenn es eine
+
+21
+00:01:08,510 --> 00:01:10,230
+wahrscheinliche Bedingung ist,
+
+22
+00:01:10,330 --> 00:01:13,430
+benutzen wir Typ 1. Der
+
+23
+00:01:16,700 --> 00:01:22,280
+Typ 2-Iffsatz wird mit dem Verb im
+
+24
+00:01:22,280 --> 00:01:26,200
+Simple Past im If-Satz und im
+
+25
+00:01:26,200 --> 00:01:29,020
+Hauptsatz mit dem Verb im Conditional
+
+26
+00:01:29,020 --> 00:01:33,900
+1, also would und das Verb, gebildet.
+
+27
+00:01:34,500 --> 00:01:37,960
+In unserem Beispiel If it rained, you
+
+28
+00:01:37,960 --> 00:01:41,220
+would not water the flowers. Wenn es
+
+29
+00:01:41,220 --> 00:01:44,520
+regnen würde, würdest du nicht die
+
+30
+00:01:44,520 --> 00:01:48,700
+Pflanzen gießen. Auch hier können wir
+
+31
+00:01:48,700 --> 00:01:53,560
+uns merken, den Typ 2-Ipsatz benutzen
+
+32
+00:01:53,560 --> 00:01:56,420
+wir, wenn die Bedingung im Ipsatz
+
+33
+00:01:56,420 --> 00:01:58,960
+nicht erfüllbar oder nicht
+
+34
+00:01:58,960 --> 00:02:01,400
+wahrscheinlich ist. Wenn wir das
+
+35
+00:02:01,400 --> 00:02:03,860
+einmal aufs Beispiel beziehen, würden
+
+36
+00:02:03,860 --> 00:02:06,380
+wir jemandem, der gerade die Blumen
+
+37
+00:02:06,380 --> 00:02:08,700
+gießt, sagen, wenn es regnen würde,
+
+38
+00:02:08,840 --> 00:02:10,460
+würdest du jetzt nicht. die Blumen
+
+39
+00:02:10,460 --> 00:02:13,120
+gießen. Das ist aber wohl nicht sehr
+
+40
+00:02:13,120 --> 00:02:14,940
+wahrscheinlich, dass es regnen würde,
+
+41
+00:02:15,000 --> 00:02:17,240
+denn sonst wäre die Person nicht
+
+42
+00:02:17,240 --> 00:02:18,640
+schon dabei, die Blumen zu gießen.
+
+43
+00:02:22,260 --> 00:02:25,800
+Der Typ 3-Ipsatz wird mit dem Past
+
+44
+00:02:25,800 --> 00:02:29,480
+Perfect im Ipsatz und dem Conditional
+
+45
+00:02:29,480 --> 00:02:33,460
+2 im Hauptsatz, also Would und dann
+
+46
+00:02:33,460 --> 00:02:36,140
+Have und das Past Participle
+
+47
+00:02:36,140 --> 00:02:40,120
+gebildet. In unserem Beispiel wäre
+
+48
+00:02:40,120 --> 00:02:44,840
+das If She. If she had met Mr. Right,
+
+49
+00:02:45,040 --> 00:02:47,900
+she would not have been so unhappy.
+
+50
+00:02:49,420 --> 00:02:52,840
+Hier können wir uns merken, den Typ 3
+
+51
+00:02:52,840 --> 00:02:55,380
+verwenden wir, wenn die Bedingung im
+
+52
+00:02:55,380 --> 00:02:58,160
+11-Satz nicht mehr erfüllbar ist. Das
+
+53
+00:02:58,160 --> 00:03:00,440
+heißt, sie ist unmöglich, weil sie
+
+54
+00:03:00,440 --> 00:03:02,160
+sich auf ein vergangenes Ereignis
+
+55
+00:03:02,160 --> 00:03:05,160
+bezieht. Auf unser Beispiel bezogen,
+
+56
+00:03:05,200 --> 00:03:08,920
+if she had met Mr. Right, dieser Fall
+
+57
+00:03:08,920 --> 00:03:11,440
+ist nicht eingetreten, sie hat... Mr.
+
+58
+00:03:11,660 --> 00:03:14,640
+Right nicht kennengelernt. Das heißt,
+
+59
+00:03:14,680 --> 00:03:16,040
+diese Bedingung kann nicht mehr
+
+60
+00:03:16,040 --> 00:03:18,800
+eintreten. Also Typ 3.
+
+61
+00:03:22,630 --> 00:03:25,590
+So, noch einmal eine Zusammenfassung
+
+62
+00:03:25,590 --> 00:03:29,410
+von dem Ganzen. Für Typ 1 verwenden
+
+63
+00:03:29,410 --> 00:03:32,570
+wir das Simple Present im If-Satz und
+
+64
+00:03:32,570 --> 00:03:36,090
+das Will Future im Hauptsatz. Für den
+
+65
+00:03:36,090 --> 00:03:40,510
+Typ 2 das Simple Past im If-Satz und
+
+66
+00:03:40,510 --> 00:03:44,230
+das Conditional 1 im Hauptsatz. und
+
+67
+00:03:44,230 --> 00:03:47,950
+für den Typ 3 das Past Perfect im If
+
+68
+00:03:47,950 --> 00:03:52,190
+-Satz und Conditional 2 im Hauptsatz.
+
+69
+00:03:54,780 --> 00:03:56,680
+Wir haben allerdings noch weitere
+
+70
+00:03:56,680 --> 00:03:59,200
+Formen von Bedingungssätzen. Zum
+
+71
+00:03:59,200 --> 00:04:01,500
+Beispiel gibt es allgemeingültige
+
+72
+00:04:01,500 --> 00:04:03,460
+Aussagen. Wenn wir eine
+
+73
+00:04:03,460 --> 00:04:05,280
+allgemeingültige Aussage treffen
+
+74
+00:04:05,280 --> 00:04:07,660
+wollen, verwenden wir das Simple
+
+75
+00:04:07,660 --> 00:04:10,040
+Present im If-Satz, genauso wie im
+
+76
+00:04:10,040 --> 00:04:12,660
+Typ 1. Im Hauptsatz allerdings
+
+77
+00:04:12,660 --> 00:04:15,140
+benutzen wir ebenfalls das Simple
+
+78
+00:04:15,140 --> 00:04:18,160
+Present. Ein Beispiel dafür wäre, if
+
+79
+00:04:18,160 --> 00:04:22,140
+it rains, there are floods. Das ist
+
+80
+00:04:22,140 --> 00:04:24,320
+im Allgemeinen so gültig. Wenn es
+
+81
+00:04:24,320 --> 00:04:26,580
+regnet, vor allem wenn es stark
+
+82
+00:04:26,580 --> 00:04:30,380
+regnet, kommt es zu Fluten. Dann
+
+83
+00:04:30,380 --> 00:04:32,320
+haben wir die denkbare Möglichkeit.
+
+84
+00:04:33,760 --> 00:04:35,980
+Einen Satz zur denkbaren Möglichkeit
+
+85
+00:04:35,980 --> 00:04:40,000
+bilden wir mit dem Conditional 1 im
+
+86
+00:04:40,000 --> 00:04:43,440
+If-Satz. und dem Will Future im
+
+87
+00:04:43,440 --> 00:04:46,260
+Hauptsatz. Also zum Beispiel, if I
+
+88
+00:04:46,260 --> 00:04:49,660
+should sell my car, sollte ich mein
+
+89
+00:04:49,660 --> 00:04:52,260
+Auto verkaufen, I will let you know.
+
+90
+00:04:53,190 --> 00:04:55,940
+Also es ist möglich, dass ich mich
+
+91
+00:04:55,940 --> 00:04:57,600
+dazu entscheide, mein Auto zu
+
+92
+00:04:57,600 --> 00:04:59,660
+verkaufen und dann informiere ich
+
+93
+00:04:59,660 --> 00:05:04,340
+dich. Dafür benutzen wir den
+
+94
+00:05:04,340 --> 00:05:06,160
+Bedingungssatz denkbaren Möglichkeit.
+
+95
+00:05:09,760 --> 00:05:12,020
+Zuletzt benutzen wir if-Clause, wenn
+
+96
+00:05:12,020 --> 00:05:18,670
+die Folge noch wirksam ist. Diesen
+
+97
+00:05:18,670 --> 00:05:21,030
+Satz bilden wir, indem wir im if-Satz
+
+98
+00:05:21,030 --> 00:05:24,250
+das Past Perfect, also wie im Typ 3,
+
+99
+00:05:24,450 --> 00:05:28,550
+verwenden und im Hauptsatz das
+
+100
+00:05:28,550 --> 00:05:33,130
+Conditional 1. Ein Beispiel dafür
+
+101
+00:05:33,130 --> 00:05:37,750
+wäre, if she had had the change, she
+
+102
+00:05:37,750 --> 00:05:40,790
+would now be a successful Also
+
+103
+00:05:40,790 --> 00:05:44,950
+übersetzt bedeutet das, wenn sie die
+
+104
+00:05:44,950 --> 00:05:48,470
+Veränderung gehabt hätte, wäre sie
+
+105
+00:05:48,470 --> 00:05:50,390
+jetzt eine erfolgreiche Sängerin.
+
+106
+00:05:51,730 --> 00:05:54,630
+Folge noch wirksam heißt in dem Fall,
+
+107
+00:05:54,790 --> 00:05:58,070
+sie wäre auch jetzt noch eine
+
+108
+00:05:58,070 --> 00:06:01,610
+erfolgreiche Sängerin. Und das ganze
+
+109
+00:06:01,610 --> 00:06:03,170
+Ereignis wäre noch nicht
+
+110
+00:06:03,170 --> 00:06:06,410
+abgeschlossen. Das heißt hier, past
+
+111
+00:06:06,410 --> 00:06:09,310
+perfect und conditional. Wenn
+
+112
+00:06:12,900 --> 00:06:16,740
+wir if-Clause bilden, haben wir zwei
+
+113
+00:06:16,740 --> 00:06:20,160
+Möglichkeiten. Entweder wir schreiben
+
+114
+00:06:20,160 --> 00:06:23,780
+die if-Clause, also den if-Satz an
+
+115
+00:06:23,780 --> 00:06:26,720
+den Anfang und enden mit dem
+
+116
+00:06:26,720 --> 00:06:29,020
+Hauptsatz. Wir können aber auch
+
+117
+00:06:29,020 --> 00:06:32,140
+zunächst den Hauptsatz und dann die
+
+118
+00:06:32,140 --> 00:06:34,200
+if-Clause schreiben. Das heißt, die
+
+119
+00:06:34,200 --> 00:06:36,720
+Reihenfolge ist dabei beliebig. Das
+
+120
+00:06:36,720 --> 00:06:39,800
+gilt, wie ihr im zweiten und im
+
+121
+00:06:39,800 --> 00:06:42,140
+dritten Beispiel seht. sieht, auch
+
+122
+00:06:42,140 --> 00:06:46,520
+für alle drei Typen. Und hier sehen
+
+123
+00:06:46,520 --> 00:06:49,060
+wir auch schon, worauf wir jetzt bei
+
+124
+00:06:49,060 --> 00:06:51,300
+der Kommasetzung hinaus wollen.
+
+125
+00:06:51,740 --> 00:06:54,000
+Kommasetzung bei if-Clause ist sehr
+
+126
+00:06:54,000 --> 00:06:57,940
+einfach, denn wenn der Bedingungssatz
+
+127
+00:06:57,940 --> 00:07:00,700
+mit if beginnt, wird der if-Satz vom
+
+128
+00:07:00,700 --> 00:07:02,400
+Hauptsatz durch ein Komma getrennt.
+
+129
+00:07:02,500 --> 00:07:07,480
+Also if-Satz, Hauptsatz, Komma. Wenn
+
+130
+00:07:07,480 --> 00:07:09,180
+der Bedingungssatz mit dem Hauptsatz
+
+131
+00:07:09,180 --> 00:07:11,680
+beginnt, entfällt dieses Komma. Also
+
+132
+00:07:11,680 --> 00:07:15,900
+Hauptsatz, If-Satz, kein Komma. Und
+
+133
+00:07:15,900 --> 00:07:18,080
+das sind auch schon alle Regeln, die
+
+134
+00:07:18,080 --> 00:07:19,960
+ihr zur Kommasetzung in If-Crosses
+
+135
+00:07:19,960 --> 00:07:25,070
+wissen müsst. So, und damit wären wir
+
+136
+00:07:25,070 --> 00:07:27,390
+auch schon am Ende von unserem
+
+137
+00:07:27,390 --> 00:07:29,730
+heutigen Webinar angelangt. Ich
+
+138
+00:07:29,730 --> 00:07:31,690
+bedanke mich für die Aufmerksamkeit
+
+139
+00:07:31,690 --> 00:07:33,590
+und wünsche noch einen schönen Tag.
+

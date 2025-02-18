@@ -1,0 +1,342 @@
+﻿1
+00:00:04,660 --> 00:00:07,220
+Hello, my name is Sabrina and I 
+
+2
+00:00:07,220 --> 00:00:08,760
+am a tutor 
+
+3
+00:00:08,760 --> 00:00:11,080
+at Schülerhilfe. Today I would like to 
+explain to you 
+
+4
+00:00:11,080 --> 00:00:13,080
+
+5
+00:00:13,080 --> 00:00:15,780
+what electrolysis is all about in 
+chemistry. 
+
+6
+00:00:15,780 --> 00:00:17,620
+In our online learning center, you can 
+
+7
+00:00:17,620 --> 00:00:19,500
+of course also find a 
+
+8
+00:00:19,500 --> 00:00:21,240
+wiki on this topic, where the 
+
+9
+00:00:21,240 --> 00:00:22,580
+most important terms 
+
+10
+00:00:22,580 --> 00:00:25,660
+are explained to you once again . 
+Lead-acid batteries, 
+
+11
+00:00:25,780 --> 00:00:28,300
+also known as starter batteries, are 
+
+12
+00:00:28,300 --> 00:00:29,900
+still installed in many cars today 
+
+13
+00:00:29,900 --> 00:00:32,460
+. They 
+
+14
+00:00:32,460 --> 00:00:34,300
+give off electricity when discharged . 
+However, 
+
+15
+00:00:34,300 --> 00:00:36,620
+electricity is needed to recharge them 
+
+16
+00:00:36,620 --> 00:00:38,120
+, which also involves 
+
+17
+00:00:38,120 --> 00:00:41,640
+electrolysis. In general, 
+
+18
+00:00:41,640 --> 00:00:43,020
+electrolysis 
+
+19
+00:00:43,020 --> 00:00:45,960
+can be defined as follows. A 
+
+20
+00:00:45,960 --> 00:00:48,980
+redox reaction in which oxidation and 
+
+21
+00:00:48,980 --> 00:00:51,080
+reduction take place spatially separated 
+
+22
+00:00:51,080 --> 00:00:52,960
+and which 
+
+23
+00:00:52,960 --> 00:00:54,760
+is forced by the supply of electrical 
+energy. 
+
+24
+00:00:54,760 --> 00:00:57,880
+To carry out an electrolysis 
+
+25
+00:00:57,880 --> 00:01:00,940
+, you therefore need a reaction chamber, 
+
+26
+00:01:01,160 --> 00:01:04,560
+a power source, two electrodes, 
+
+27
+00:01:04,580 --> 00:01:08,260
+an anode and a cathode, an electrolyte and 
+
+28
+00:01:08,260 --> 00:01:11,460
+the reactants. 
+
+29
+00:01:11,460 --> 00:01:13,520
+It should be noted that both the 
+electrodes 
+
+30
+00:01:13,520 --> 00:01:15,800
+and the electrolyte often act as 
+
+31
+00:01:15,800 --> 00:01:19,260
+reactants. If we 
+
+32
+00:01:19,260 --> 00:01:21,260
+stay with the lead-acid battery, the 
+
+33
+00:01:21,260 --> 00:01:23,960
+structure looks like this. Our reaction 
+chamber is 
+
+34
+00:01:23,960 --> 00:01:26,000
+
+35
+00:01:26,000 --> 00:01:28,640
+filled with diluted sulphuric acid, the 
+electrolyte. The electrodes, 
+
+36
+00:01:28,720 --> 00:01:31,100
+in this case consisting of lead sulphate 
+
+37
+00:01:31,100 --> 00:01:32,940
+, are immersed and connected 
+
+38
+00:01:32,940 --> 00:01:35,760
+to each other via the current source. 
+
+39
+00:01:35,760 --> 00:01:38,180
+The negative pole is the cathode and the 
+positive pole 
+
+40
+00:01:38,180 --> 00:01:41,320
+is the anode. When the current is now 
+
+41
+00:01:41,320 --> 00:01:43,400
+switched on, two 
+
+42
+00:01:43,400 --> 00:01:45,560
+electrons are 
+
+43
+00:01:45,560 --> 00:01:48,440
+transported from the anode to the cathode. 
+The anode 
+
+44
+00:01:48,440 --> 00:01:50,560
+releases electrons, which is why 
+
+45
+00:01:50,560 --> 00:01:52,620
+oxidation takes place here , and the 
+
+46
+00:01:52,620 --> 00:01:54,580
+cathode absorbs the electrons 
+
+47
+00:01:54,760 --> 00:01:56,380
+, which is why reduction 
+
+48
+00:01:56,380 --> 00:01:59,260
+takes place here. Let us now 
+
+49
+00:01:59,260 --> 00:02:01,780
+set up the reaction equation. First 
+
+50
+00:02:01,780 --> 00:02:04,140
+the partial reaction, starting with the 
+
+51
+00:02:04,140 --> 00:02:06,920
+reduction. The solid lead sulphate 
+
+52
+00:02:06,920 --> 00:02:09,460
+receives two electrons and reacts 
+
+53
+00:02:09,460 --> 00:02:11,840
+to form lead and a dissolved sulphate ion. 
+
+54
+00:02:12,140 --> 00:02:14,360
+During oxidation, the 
+
+55
+00:02:14,360 --> 00:02:16,880
+lead sulphate reacts with water. 
+
+56
+00:02:16,880 --> 00:02:19,880
+Lead oxide, dissolved sulphate ions and 
+
+57
+00:02:19,880 --> 00:02:22,800
+protons as well as two electrons are 
+formed . The 
+
+58
+00:02:22,800 --> 00:02:24,480
+overall equation is therefore: 
+
+59
+00:02:24,520 --> 00:02:30,300
+2PbSO4 and 2H2O react to form PbO2, 
+
+60
+00:02:30,600 --> 00:02:37,280
+Pb, 2SO4-2 and 4H+. The 
+
+61
+00:02:37,280 --> 00:02:39,520
+dissolved sulphate ions and protons 
+
+62
+00:02:39,520 --> 00:02:42,420
+together produce sulphuric acid, i.e. our 
+
+63
+00:02:42,420 --> 00:02:45,820
+electrolyte. The summary. 1. 
+
+64
+00:02:46,080 --> 00:02:48,500
+electrolysis describes a 
+
+65
+00:02:48,500 --> 00:02:50,980
+forced redox reaction, which is why 
+
+66
+00:02:50,980 --> 00:02:52,780
+an electrical energy source 
+
+67
+00:02:52,780 --> 00:02:56,460
+is required. 2. the redox reactions 
+
+68
+00:02:56,460 --> 00:02:58,400
+take place spatially separated at the 
+
+69
+00:02:58,400 --> 00:03:01,920
+electrodes. 3 The negative pole 
+
+70
+00:03:01,920 --> 00:03:04,500
+corresponds to the cathode, where the 
+
+71
+00:03:04,500 --> 00:03:08,520
+reduction takes place. 4. the positive 
+pole 
+
+72
+00:03:08,520 --> 00:03:10,560
+corresponds to the anode, where 
+
+73
+00:03:10,560 --> 00:03:13,360
+oxidation takes place. And fifthly, 
+
+74
+00:03:13,360 --> 00:03:15,920
+the electrodes and the electrolyte 
+
+75
+00:03:15,920 --> 00:03:19,660
+often serve as reactants. I 
+
+76
+00:03:19,660 --> 00:03:21,300
+hope this video has helped you to 
+
+77
+00:03:21,300 --> 00:03:23,080
+better understand the topic of 
+
+78
+00:03:23,080 --> 00:03:25,300
+electrolysis. If you have any further 
+
+79
+00:03:25,300 --> 00:03:26,900
+questions on this or other topics 
+
+80
+00:03:26,900 --> 00:03:28,860
+, please feel free to use our other 
+
+81
+00:03:28,860 --> 00:03:31,160
+content in the online learning center or 
+
+82
+00:03:31,160 --> 00:03:32,920
+contact your 
+
+83
+00:03:32,920 --> 00:03:34,700
+local student help center. See you next 
+time! 

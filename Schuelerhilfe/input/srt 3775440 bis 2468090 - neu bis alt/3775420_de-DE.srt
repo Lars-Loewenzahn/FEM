@@ -1,0 +1,648 @@
+1
+00:00:04,020 --> 00:00:06,480
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,480 --> 00:00:07,600
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,600 --> 00:00:09,460
+Schülerhilfe. Ich freue mich, dir
+
+4
+00:00:09,460 --> 00:00:11,200
+heute das Thema Oxidation und
+
+5
+00:00:11,200 --> 00:00:13,820
+Reduktion zu erklären. Ergänzend zu
+
+6
+00:00:13,820 --> 00:00:15,300
+diesem Video steht dir in unserem
+
+7
+00:00:15,300 --> 00:00:17,240
+Online-Lerncenter natürlich auch ein
+
+8
+00:00:17,240 --> 00:00:18,780
+Wiki zu diesem Thema zur Verfügung,
+
+9
+00:00:19,020 --> 00:00:20,740
+in dem dir die wichtigsten Begriffe
+
+10
+00:00:20,740 --> 00:00:22,960
+und Grundlagen erklärt werden. Die
+
+11
+00:00:22,960 --> 00:00:24,960
+Prozesse Oxidation und Reduktion
+
+12
+00:00:24,960 --> 00:00:27,120
+begegnen uns täglich, zum Beispiel in
+
+13
+00:00:27,120 --> 00:00:29,060
+Form von Verbrennungsreaktionen oder
+
+14
+00:00:29,060 --> 00:00:31,520
+dem Rosten von Metallen. Diese beiden
+
+15
+00:00:31,520 --> 00:00:33,140
+optisch und kinetisch sehr
+
+16
+00:00:33,140 --> 00:00:35,060
+unterschiedliche Vorgänge beruhen auf
+
+17
+00:00:35,060 --> 00:00:36,600
+der Reaktion mit Sauerstoff.
+
+18
+00:00:37,320 --> 00:00:39,640
+Oxidation und Reduktion sind immer
+
+19
+00:00:39,640 --> 00:00:41,040
+mit einem Elektronentransfer
+
+20
+00:00:41,040 --> 00:00:43,580
+verbunden. Bei einer Reduktion werden
+
+21
+00:00:43,580 --> 00:00:46,080
+Elektronen von einem Atom, Ion oder
+
+22
+00:00:46,080 --> 00:00:48,260
+Molekül aufgenommen und die
+
+23
+00:00:48,260 --> 00:00:51,540
+Oxidationszahl, Oz, desselbigen wird
+
+24
+00:00:51,540 --> 00:00:53,820
+dabei reduziert. Mit der Reduktion
+
+25
+00:00:53,820 --> 00:00:55,160
+einher geht stets auch eine
+
+26
+00:00:55,160 --> 00:00:56,820
+Oxidation, bei der Elektronen
+
+27
+00:00:56,820 --> 00:00:59,120
+abgegeben werden. Und dadurch steigt
+
+28
+00:00:59,120 --> 00:01:01,220
+die Oxidationszahl. Der Begriff
+
+29
+00:01:01,220 --> 00:01:03,160
+Oxidation wurde gewählt, weil es sich
+
+30
+00:01:03,160 --> 00:01:04,680
+dabei oft um eine Reaktion mit
+
+31
+00:01:04,680 --> 00:01:05,760
+Sauerstoff handelt und
+
+32
+00:01:05,760 --> 00:01:07,540
+Sauerstoffverbindungen als Oxide
+
+33
+00:01:07,540 --> 00:01:10,160
+bezeichnet werden. Oxidation und
+
+34
+00:01:10,160 --> 00:01:11,560
+Reduktion sind grundsätzlich
+
+35
+00:01:11,560 --> 00:01:13,960
+gekoppelt. Das heißt, das eine kann
+
+36
+00:01:13,960 --> 00:01:15,760
+nicht ohne das andere stattfinden.
+
+37
+00:01:15,760 --> 00:01:18,800
+Sie gehören zusammen wie ein Nordpol
+
+38
+00:01:18,800 --> 00:01:20,740
+und Südpol des Magneten.
+
+39
+00:01:21,020 --> 00:01:22,620
+Entsprechende Reaktionen werden
+
+40
+00:01:22,620 --> 00:01:25,340
+Redoxreaktionen genannt. Im Folgenden
+
+41
+00:01:25,340 --> 00:01:26,640
+möchte ich erklärend auf eine
+
+42
+00:01:26,640 --> 00:01:28,660
+Redoxreaktion eingehen, die vielen
+
+43
+00:01:28,660 --> 00:01:30,980
+bereits bekannt sein dürfte. Es
+
+44
+00:01:30,980 --> 00:01:32,900
+handelt sich um die Knallgasreaktion,
+
+45
+00:01:32,900 --> 00:01:34,360
+bei welcher Wasserstoff mit
+
+46
+00:01:34,360 --> 00:01:37,260
+Sauerstoff zu Wasser reagiert. Die
+
+47
+00:01:37,260 --> 00:01:38,800
+Edukte dieser Reaktion sind
+
+48
+00:01:38,800 --> 00:01:40,260
+elementarer Sauerstoff und
+
+49
+00:01:40,260 --> 00:01:42,900
+Wasserstoff, welche beide biatomar, –
+
+50
+00:01:42,900 --> 00:01:44,520
+das heißt aus zwei Atomen
+
+51
+00:01:44,520 --> 00:01:46,960
+zusammengesetzt – vorliegen und genau
+
+52
+00:01:46,960 --> 00:01:48,860
+wie alle elementaren Verbindungen die
+
+53
+00:01:48,860 --> 00:01:51,800
+Oxidationszahlen 0 aufweisen. Die
+
+54
+00:01:51,800 --> 00:01:53,620
+Oxidationszahlen schreibt man in
+
+55
+00:01:53,620 --> 00:01:55,560
+römischen Zahlen über die Elemente,
+
+56
+00:01:55,560 --> 00:01:57,080
+wie du hier in der Abbildung sehen
+
+57
+00:01:57,080 --> 00:01:59,720
+kannst. Beim Sauerstoff handelt es
+
+58
+00:01:59,720 --> 00:02:01,680
+sich um das Oxidationsmittel, welches
+
+59
+00:02:01,680 --> 00:02:03,620
+selbst reduziert wird, denn jedes
+
+60
+00:02:03,620 --> 00:02:05,900
+Sauerstoffatom nimmt bei der Reaktion
+
+61
+00:02:05,900 --> 00:02:07,900
+zu Wasser zwei Elektronen auf,
+
+62
+00:02:08,060 --> 00:02:10,440
+wodurch seine Oxidationszahl von 0
+
+63
+00:02:10,440 --> 00:02:12,660
+auf auf minus 2 reduziert wird.
+
+64
+00:02:13,220 --> 00:02:14,700
+Gleichzeitig wird Wasserstoff
+
+65
+00:02:14,700 --> 00:02:17,340
+oxidiert. Jedes Wasserstoffatom gibt
+
+66
+00:02:17,340 --> 00:02:19,200
+dabei ein Elektron ab, womit die
+
+67
+00:02:19,200 --> 00:02:21,980
+Oxidationszahl von 0 auf plus 1
+
+68
+00:02:21,980 --> 00:02:24,740
+steigt. Insgesamt werden bei dieser
+
+69
+00:02:24,740 --> 00:02:26,980
+Reaktion bei der zwei Teilchen Wasser
+
+70
+00:02:26,980 --> 00:02:29,340
+entstehen, also vier Elektronen
+
+71
+00:02:29,340 --> 00:02:32,880
+transferiert. Die Teilvorgänge
+
+72
+00:02:32,880 --> 00:02:34,880
+Oxidation und Reduktion lassen sich
+
+73
+00:02:34,880 --> 00:02:36,980
+auch einzeln darstellen. Dazu
+
+74
+00:02:36,980 --> 00:02:39,260
+Reduktionen eines Moleküls Sauerstoff
+
+75
+00:02:39,260 --> 00:02:41,740
+4 Elektronen von Nöten sind, müssen
+
+76
+00:02:41,740 --> 00:02:43,900
+für die Oxidation zwei Moleküle
+
+77
+00:02:43,900 --> 00:02:46,220
+Wasserstoff eingesetzt werden. Diese
+
+78
+00:02:46,220 --> 00:02:49,220
+beiden H2-Teilchen geben 4 Elektronen
+
+79
+00:02:49,220 --> 00:02:51,600
+ab. Um die Reaktionsgleichung einer
+
+80
+00:02:51,600 --> 00:02:53,800
+Redoxreaktion korrekt aufzuschreiben,
+
+81
+00:02:53,880 --> 00:02:55,820
+ist es wichtig zu beachten, dass die
+
+82
+00:02:55,820 --> 00:02:57,180
+Anzahl der in der Oxidation
+
+83
+00:02:57,180 --> 00:02:59,040
+aufgenommenen Elektronen mit der
+
+84
+00:02:59,040 --> 00:03:00,420
+Anzahl der der in der Reduktion
+
+85
+00:03:00,420 --> 00:03:02,600
+abgegebenen Elektronen übereinstimmt.
+
+86
+00:03:03,220 --> 00:03:05,040
+Zur Bestimmung der Oxidationszahl
+
+87
+00:03:05,040 --> 00:03:06,540
+eines Elements in einer nicht
+
+88
+00:03:06,540 --> 00:03:08,320
+-elementaren Verbindung, also zum
+
+89
+00:03:08,320 --> 00:03:09,660
+Beispiel des Sauerstoffs im
+
+90
+00:03:09,660 --> 00:03:11,820
+Wassermolekül, genügt meist ein Blick
+
+91
+00:03:11,820 --> 00:03:14,380
+ins Periodensystem. Elemente der
+
+92
+00:03:14,380 --> 00:03:15,840
+ersten Hauptgruppe neigen in
+
+93
+00:03:15,840 --> 00:03:17,680
+Verbindungen dazu, ein Elektron
+
+94
+00:03:17,680 --> 00:03:19,560
+abzugeben und haben daher meist die
+
+95
+00:03:19,560 --> 00:03:22,720
+Oxidationszahl plus 1. Elemente der
+
+96
+00:03:22,720 --> 00:03:24,240
+zweiten Hauptgruppe haben in
+
+97
+00:03:24,240 --> 00:03:26,340
+Verbindungen meist die Oxidationszahl
+
+98
+00:03:26,340 --> 00:03:29,860
+plus 2. Dritten Hauptgruppe plus 3.
+
+99
+00:03:30,710 --> 00:03:32,120
+Höhere Hauptgruppen weisen eine
+
+100
+00:03:32,120 --> 00:03:34,260
+höhere Elektronegativität auf und
+
+101
+00:03:34,260 --> 00:03:36,300
+neigen dazu, Elektronen aufzunehmen,
+
+102
+00:03:36,300 --> 00:03:38,100
+um die Edelgaskonfiguration zu
+
+103
+00:03:38,100 --> 00:03:40,960
+erreichen. So haben Halogene, welche
+
+104
+00:03:40,960 --> 00:03:42,400
+sich in der siebten Hauptgruppe
+
+105
+00:03:42,400 --> 00:03:44,520
+befinden, zumeist die Oxidationszahl
+
+106
+00:03:44,520 --> 00:03:46,980
+minus 1, Elemente der sechsten
+
+107
+00:03:46,980 --> 00:03:48,840
+Hauptgruppe die Oxidationszahl minus
+
+108
+00:03:48,840 --> 00:03:51,820
+2, jene der fünften Hauptgruppe minus
+
+109
+00:03:51,820 --> 00:03:54,400
+3. Kohlenstoff und die übrigen
+
+110
+00:03:54,400 --> 00:03:56,020
+Elemente der vierten Hauptgruppe
+
+111
+00:03:56,020 --> 00:03:58,240
+zeigen in Verbindungen sehr variable
+
+112
+00:03:58,240 --> 00:04:00,720
+Oxidationszahlen, abhängig vom
+
+113
+00:04:00,720 --> 00:04:03,720
+Reaktionspartner. Die Kenntnisse von
+
+114
+00:04:03,720 --> 00:04:05,760
+den Oxidationszahlen hilft einem auch
+
+115
+00:04:05,760 --> 00:04:07,500
+beim Formulieren der Summenformel für
+
+116
+00:04:07,500 --> 00:04:09,460
+eine Verbindung. So kann Wasser,
+
+117
+00:04:09,580 --> 00:04:11,360
+welches nach außen hin elektrisch
+
+118
+00:04:11,360 --> 00:04:13,660
+neutral ist, nur die Summenformel H2O
+
+119
+00:04:13,660 --> 00:04:15,000
+haben, da Wasserstoff die
+
+120
+00:04:15,000 --> 00:04:17,260
+Oxidationszahl plus 1 aufweist und
+
+121
+00:04:17,260 --> 00:04:19,260
+Sauerstoff die Oxidationszahl minus
+
+122
+00:04:19,260 --> 00:04:24,660
+2. Also 2 mal plus 1 plus 1 mal minus
+
+123
+00:04:24,660 --> 00:04:28,820
+2 ist gleich 0. Mit diesem Wissen
+
+124
+00:04:28,820 --> 00:04:29,980
+schauen wir uns eine weitere
+
+125
+00:04:29,980 --> 00:04:32,140
+Redoxreaktion an, die Entstehung von
+
+126
+00:04:32,140 --> 00:04:34,740
+Kochsalz, chemisch Natriumchlorid,
+
+127
+00:04:34,740 --> 00:04:37,240
+aus den Elementen. Die Elemente haben
+
+128
+00:04:37,240 --> 00:04:39,760
+wie immer die Oxidationszahl 0. Chlor
+
+129
+00:04:39,760 --> 00:04:41,840
+liegt wie alle Halogene bimolekular
+
+130
+00:04:41,840 --> 00:04:43,940
+vor. Da Chlor sich in der siebten
+
+131
+00:04:43,940 --> 00:04:45,520
+Hauptgruppe befindet, nimmt es in der
+
+132
+00:04:45,520 --> 00:04:47,720
+Verbindung die Oxidationszahl minus 1
+
+133
+00:04:47,720 --> 00:04:50,660
+an. wird also reduziert. Natrium aus
+
+134
+00:04:50,660 --> 00:04:52,280
+der ersten Hauptgruppe gibt jeweils
+
+135
+00:04:52,280 --> 00:04:54,340
+ein Elektron ab, wird also oxidiert.
+
+136
+00:04:54,500 --> 00:04:56,740
+Aus einem Chlormolekül können zwei
+
+137
+00:04:56,740 --> 00:04:59,440
+NaCl-Teilchen entstehen, weshalb zwei
+
+138
+00:04:59,440 --> 00:05:01,180
+Natriumatome eingesetzt werden
+
+139
+00:05:01,180 --> 00:05:03,560
+müssen. Insgesamt werden nur zwei
+
+140
+00:05:03,560 --> 00:05:05,760
+Elektronen übertragen. Beim Produkt
+
+141
+00:05:05,760 --> 00:05:07,940
+Natriumchlorid handelt es sich nicht
+
+142
+00:05:07,940 --> 00:05:10,720
+um ein Molekül, sondern um Ionen, die
+
+143
+00:05:10,720 --> 00:05:11,680
+einander aufgrund der
+
+144
+00:05:11,680 --> 00:05:13,800
+verschiedennamigen Ladungen anziehen.
+
+145
+00:05:14,080 --> 00:05:16,620
+Ob bei einer Redoxreaktion ein Salz
+
+146
+00:05:16,620 --> 00:05:18,640
+entsteht oder kovalente Verbindungen
+
+147
+00:05:18,640 --> 00:05:20,980
+aufgebaut werden, spielt keine Rolle
+
+148
+00:05:20,980 --> 00:05:22,500
+für die Vorgehensweise beim
+
+149
+00:05:22,500 --> 00:05:24,280
+Aufstellen der Reaktionsgleichung.
+
+150
+00:05:24,440 --> 00:05:26,900
+Unter Beachtung der Oxidationszahlen
+
+151
+00:05:26,900 --> 00:05:28,440
+und der Anzahl der übertragenen
+
+152
+00:05:28,440 --> 00:05:30,320
+Elektronen kann man Reduktion und
+
+153
+00:05:30,320 --> 00:05:32,540
+Oxidation erkennen, sowie die
+
+154
+00:05:32,540 --> 00:05:34,740
+dazugehörigen Reaktionsgleichungen
+
+155
+00:05:34,740 --> 00:05:37,480
+aufstellen. Ich hoffe, dieses Video
+
+156
+00:05:37,480 --> 00:05:39,160
+hat zu deinem Verständnis des Themas
+
+157
+00:05:39,160 --> 00:05:41,360
+Oxidation beigetragen und ermöglicht
+
+158
+00:05:41,360 --> 00:05:42,280
+dir das Aufstellen von
+
+159
+00:05:42,280 --> 00:05:43,700
+Reaktionsgleichungen und
+
+160
+00:05:43,700 --> 00:05:46,120
+Summenformeln. Weitere Inhalte zu
+
+161
+00:05:46,120 --> 00:05:47,840
+diesem Thema findest du natürlich wie
+
+162
+00:05:47,840 --> 00:05:49,760
+gewohnt in unserem Online-Lerncenter.
+

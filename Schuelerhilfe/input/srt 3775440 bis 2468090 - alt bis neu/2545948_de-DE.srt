@@ -1,0 +1,2572 @@
+1
+00:00:01,620 --> 00:00:03,520
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,520 --> 00:00:05,700
+Potenzfunktionen und ganz rationale
+
+3
+00:00:05,700 --> 00:00:08,100
+Funktionen. Wir werden uns in diesem
+
+4
+00:00:08,100 --> 00:00:10,000
+Webinar mit diesen Funktionen
+
+5
+00:00:10,000 --> 00:00:11,000
+beschäftigen und auf die
+
+6
+00:00:11,000 --> 00:00:13,260
+Besonderheiten von denen eingehen und
+
+7
+00:00:13,260 --> 00:00:15,040
+auch einige Rechnungen durchführen.
+
+8
+00:00:15,620 --> 00:00:17,160
+Bevor wir aber mit dem eigentlichen
+
+9
+00:00:17,160 --> 00:00:18,680
+Webinar beginnen, wäre es ganz schön,
+
+10
+00:00:18,740 --> 00:00:20,880
+wenn du ein kurzes Ja oder Ok unten
+
+11
+00:00:20,880 --> 00:00:21,920
+rechts in den Chat schreiben
+
+12
+00:00:21,920 --> 00:00:24,040
+könntest. Einfach nur damit ich weiß,
+
+13
+00:00:24,160 --> 00:00:25,280
+dass du mich hören kannst und dass
+
+14
+00:00:25,280 --> 00:00:27,480
+wir wie gewohnt mit dem Webinar
+
+15
+00:00:27,480 --> 00:00:32,000
+beginnen können. Ok. Dann fangen wir
+
+16
+00:00:32,000 --> 00:00:33,620
+jetzt an. Wir haben hier einen kurzen
+
+17
+00:00:33,620 --> 00:00:35,520
+Themenüberblick als erstes. Das
+
+18
+00:00:35,520 --> 00:00:37,740
+heißt, wir befassen uns zuerst mit
+
+19
+00:00:37,740 --> 00:00:40,680
+dem Aussehen, also der Form so einer
+
+20
+00:00:40,680 --> 00:00:43,800
+ganz rationalen Funktion und gucken
+
+21
+00:00:43,800 --> 00:00:45,840
+mal, ob wir da einen Zusammenhang
+
+22
+00:00:45,840 --> 00:00:48,240
+finden, ob der Exponent gerade oder
+
+23
+00:00:48,240 --> 00:00:50,500
+ungerade ist. Danach werden wir uns
+
+24
+00:00:50,500 --> 00:00:51,920
+noch mit der Symmetrie befassen. Ich
+
+25
+00:00:51,920 --> 00:00:53,400
+nehme mal vorweg, das hängt alles
+
+26
+00:00:53,400 --> 00:00:55,340
+miteinander zusammen. Also wenn man
+
+27
+00:00:55,340 --> 00:00:56,840
+einen Graphen sieht, kann man anhand
+
+28
+00:00:56,840 --> 00:00:58,340
+seines Aussehens schon sagen, ob der
+
+29
+00:00:58,340 --> 00:01:00,260
+Exponent gerade oder ungerade ist.
+
+30
+00:01:02,240 --> 00:01:04,180
+Und danach werden wir uns anschauen,
+
+31
+00:01:04,260 --> 00:01:06,940
+wie man Funktionen verändern kann,
+
+32
+00:01:07,000 --> 00:01:08,280
+also wie man sie strecken oder
+
+33
+00:01:08,280 --> 00:01:12,020
+verschieben kann. Danach schauen wir
+
+34
+00:01:12,020 --> 00:01:13,540
+uns nur noch das Globalverhalten an,
+
+35
+00:01:13,600 --> 00:01:14,680
+das ist nichts weiter als das
+
+36
+00:01:14,680 --> 00:01:16,920
+Verhalten im Unendlichen. Und ganz
+
+37
+00:01:16,920 --> 00:01:18,120
+zum Schluss machen wir das, was
+
+38
+00:01:18,120 --> 00:01:19,680
+eigentlich nie fehlen darf, das ist
+
+39
+00:01:19,680 --> 00:01:22,440
+die Nullstellenberechnung. Also, wenn
+
+40
+00:01:22,440 --> 00:01:24,740
+du zu einem dieser Themen oder dieser
+
+41
+00:01:24,740 --> 00:01:26,700
+Punkte eine Frage hast, schreib die
+
+42
+00:01:26,700 --> 00:01:27,960
+Frage bitte einfach direkt in den
+
+43
+00:01:27,960 --> 00:01:30,440
+Chat rein, wenn ich das erkläre. Dann
+
+44
+00:01:30,440 --> 00:01:31,580
+kann ich direkt auf die Frage
+
+45
+00:01:31,580 --> 00:01:32,600
+zurückkommen und sie auch
+
+46
+00:01:32,600 --> 00:01:36,240
+entsprechend beantworten. Gut,
+
+47
+00:01:36,240 --> 00:01:38,300
+schauen wir uns erstmal so ein
+
+48
+00:01:38,300 --> 00:01:40,560
+Sammelsurium an Eigenschaften von
+
+49
+00:01:40,560 --> 00:01:42,640
+Potenzfunktionen an. Also wie gesagt,
+
+50
+00:01:42,800 --> 00:01:44,360
+das sind hier alles Eigenschaften,
+
+51
+00:01:44,360 --> 00:01:46,000
+die eine Potenzfunktion haben kann.
+
+52
+00:01:47,980 --> 00:01:50,680
+erst mal das aussehen hängt von der
+
+53
+00:01:50,680 --> 00:01:53,660
+funktion ab danach haben wir auch ein
+
+54
+00:01:53,660 --> 00:01:56,180
+definitionsbereich und dieser geht
+
+55
+00:01:56,180 --> 00:01:58,000
+meistens von minus und endlich bis
+
+56
+00:01:58,000 --> 00:01:59,300
+plus und endlich das heißt alle
+
+57
+00:01:59,300 --> 00:02:03,500
+reellen zahlen mögliche eigenschaften
+
+58
+00:02:03,500 --> 00:02:04,360
+sind das zum beispiel der
+
+59
+00:02:04,360 --> 00:02:06,260
+schnittpunkt mit y-achse bei x gleich
+
+60
+00:02:06,260 --> 00:02:09,280
+null ist oder die schnittpunkte mit
+
+61
+00:02:09,280 --> 00:02:11,400
+der x-achse also y-achse sie nach
+
+62
+00:02:11,400 --> 00:02:14,080
+oben zeigt und x-achse die die Achse,
+
+63
+00:02:14,080 --> 00:02:17,540
+die waagerecht verläuft. Der
+
+64
+00:02:17,540 --> 00:02:20,120
+Schnittpunkt mit der x-Achse kann bei
+
+65
+00:02:20,120 --> 00:02:22,300
+f von x gleich 0, also 0 sein. Das
+
+66
+00:02:22,300 --> 00:02:23,900
+ist dann eine Funktionsgleichung,
+
+67
+00:02:23,980 --> 00:02:24,340
+die...
+
+68
+00:02:27,040 --> 00:02:29,080
+Entschuldigung. Die Schnittpunkte mit
+
+69
+00:02:29,080 --> 00:02:31,340
+der y-Achse, dort wird einfach ein 0
+
+70
+00:02:31,340 --> 00:02:34,240
+für das x eingesetzt und bei den
+
+71
+00:02:34,240 --> 00:02:37,800
+Schnittpunkten mit der x-Achse wird
+
+72
+00:02:37,800 --> 00:02:39,860
+die Funktionsgleichung f von x mit 0
+
+73
+00:02:39,860 --> 00:02:42,060
+gleichgesetzt. Schnittpunkte mit der
+
+74
+00:02:42,060 --> 00:02:43,660
+x-Achse, also Nullstellen, berechnen
+
+75
+00:02:43,660 --> 00:02:44,820
+wir, wie vorhin gesagt, schon ganz
+
+76
+00:02:44,820 --> 00:02:46,480
+zum Schluss. Und dort werden wir dann
+
+77
+00:02:46,480 --> 00:02:47,880
+auf die Verfahren eingehen, die man
+
+78
+00:02:47,880 --> 00:02:49,520
+dafür braucht, um diese entstehende
+
+79
+00:02:49,520 --> 00:02:53,420
+Gleichung zu lösen. Wir schauen uns
+
+80
+00:02:53,420 --> 00:02:54,880
+auch noch Extrem- und Wendepunkte an.
+
+81
+00:02:55,460 --> 00:02:56,900
+Hier stehen die notwendigen
+
+82
+00:02:56,900 --> 00:02:58,340
+Bedingungen. Wir werden diese aber
+
+83
+00:02:58,340 --> 00:03:00,660
+nicht berechnen. Ja, also wir sehen
+
+84
+00:03:00,660 --> 00:03:02,240
+hier bei Extrempunkten ist die
+
+85
+00:03:02,240 --> 00:03:04,120
+Notwendigbewegung f' von x gleich 0,
+
+86
+00:03:04,220 --> 00:03:07,240
+bei Wendepunkten f' von x gleich 0.
+
+87
+00:03:09,520 --> 00:03:11,040
+Dann kann man auch noch das
+
+88
+00:03:11,040 --> 00:03:12,580
+Globalverhalten definieren, also das
+
+89
+00:03:12,580 --> 00:03:15,480
+Verhalten im Unendlichen, also für
+
+90
+00:03:15,480 --> 00:03:17,980
+sehr große oder für sehr kleine x.
+
+91
+00:03:18,580 --> 00:03:20,680
+Und das Verhalten hängt eigentlich
+
+92
+00:03:20,680 --> 00:03:23,620
+nur oder es hängt nur vom Exponenten
+
+93
+00:03:23,620 --> 00:03:23,760
+ab.
+
+94
+00:03:28,240 --> 00:03:29,820
+Dann basierend auf diesem
+
+95
+00:03:29,820 --> 00:03:32,600
+Globalverhalten. kann man dann auch
+
+96
+00:03:32,600 --> 00:03:36,480
+den Wertebereich definieren, wenn man
+
+97
+00:03:36,480 --> 00:03:38,440
+Funktionen hat mit einem ungeraden
+
+98
+00:03:38,440 --> 00:03:39,980
+Exponenten, also zum Beispiel eine
+
+99
+00:03:39,980 --> 00:03:42,660
+ganz rationale Funktion dritten
+
+100
+00:03:42,660 --> 00:03:45,720
+Grades, also x hoch 3, dann ist der
+
+101
+00:03:45,720 --> 00:03:47,160
+Wertebereich immer von minus
+
+102
+00:03:47,160 --> 00:03:48,440
+unendlich bis plus unendlich, das
+
+103
+00:03:48,440 --> 00:03:51,260
+geht gar nicht anders. Man hat immer
+
+104
+00:03:51,260 --> 00:03:55,100
+bei ungeraden Exponenten den
+
+105
+00:03:55,100 --> 00:03:56,800
+Wertebereich minus bis plus
+
+106
+00:03:56,800 --> 00:04:00,360
+unendlich. Bei Potenzfunktionen mit
+
+107
+00:04:00,360 --> 00:04:02,160
+geraden Exponenten, zum Beispiel x²
+
+108
+00:04:02,160 --> 00:04:05,860
+oder x⁴, hat man diesen Wechsel
+
+109
+00:04:05,860 --> 00:04:07,260
+nicht. Das heißt, entweder ist der
+
+110
+00:04:07,260 --> 00:04:12,280
+Definitionsbereich nur von einer Zahl
+
+111
+00:04:12,280 --> 00:04:14,300
+bis unendlich oder von einer Zahl bis
+
+112
+00:04:14,300 --> 00:04:17,720
+minus unendlich. Also es ist nicht so
+
+113
+00:04:17,720 --> 00:04:20,020
+wie bei den ungeraden Exponenten,
+
+114
+00:04:20,020 --> 00:04:21,160
+dass man immer von minus unendlich
+
+115
+00:04:21,160 --> 00:04:23,260
+bis unendlich das hat. Das ist wie
+
+116
+00:04:23,260 --> 00:04:26,480
+gesagt bei Potenzfunktionen. funktion
+
+117
+00:04:26,480 --> 00:04:28,440
+mit grad exponenten abhängig von dem
+
+118
+00:04:28,440 --> 00:04:32,940
+vorzeichen der extrempunkte das heißt
+
+119
+00:04:32,940 --> 00:04:35,440
+es ist immer am besten wenn man eine
+
+120
+00:04:35,440 --> 00:04:37,440
+kurven diskussion durch wird denn
+
+121
+00:04:37,440 --> 00:04:39,300
+dann kann man all diese fragen die
+
+122
+00:04:39,300 --> 00:04:42,000
+sich ergeben haben klären bzw alles
+
+123
+00:04:42,000 --> 00:04:47,540
+auch berechnen und als nächstes sehen
+
+124
+00:04:47,540 --> 00:04:50,380
+wir hier drei funktionen ganz links
+
+125
+00:04:50,380 --> 00:04:52,000
+eine funktion ersten gratis in der
+
+126
+00:04:52,000 --> 00:04:53,780
+mitte eine funktion zweiten Und ganz
+
+127
+00:04:53,780 --> 00:04:55,320
+rechts eine Funktion dritten Grades.
+
+128
+00:04:56,400 --> 00:04:58,460
+Man sieht hier sehr schön, die
+
+129
+00:04:58,460 --> 00:05:00,120
+Funktion ersten Grades hat genau eine
+
+130
+00:05:00,120 --> 00:05:02,680
+Nullstelle. Die Funktion zweiten
+
+131
+00:05:02,680 --> 00:05:04,340
+Grades hat genau zwei Nullstellen.
+
+132
+00:05:05,580 --> 00:05:07,420
+Und die Funktion dritten Grades hat
+
+133
+00:05:07,420 --> 00:05:10,480
+sogar drei Nullstellen. Das heißt, es
+
+134
+00:05:10,480 --> 00:05:11,940
+gibt anscheinend einen Zusammenhang
+
+135
+00:05:11,940 --> 00:05:13,440
+zwischen der Anzahl der Nullstellen
+
+136
+00:05:13,440 --> 00:05:16,200
+und dem Grad der Funktionsgleichung.
+
+137
+00:05:16,620 --> 00:05:18,220
+Und der Zusammenhang ist wie folgt.
+
+138
+00:05:18,660 --> 00:05:20,720
+Der Grad der Funktionsgleichung
+
+139
+00:05:20,720 --> 00:05:23,120
+entspricht der... maximalen Anzahl
+
+140
+00:05:23,120 --> 00:05:24,220
+der Nullstellen, ganz wichtig, der
+
+141
+00:05:24,220 --> 00:05:26,660
+maximalen Anzahl. Also man kann
+
+142
+00:05:26,660 --> 00:05:28,180
+durchaus eine Funktion dritten Grades
+
+143
+00:05:28,180 --> 00:05:32,000
+haben, die keine Nullstellen hat. Des
+
+144
+00:05:32,000 --> 00:05:33,440
+Weiteren sieht man auch, dass
+
+145
+00:05:33,440 --> 00:05:36,840
+Funktionen, die den Grad 2 oder höher
+
+146
+00:05:36,840 --> 00:05:38,580
+haben, Extremstellen ausweisen
+
+147
+00:05:38,580 --> 00:05:40,820
+können. Also eine Extremstelle bei
+
+148
+00:05:40,820 --> 00:05:41,880
+einer normalen Parabel ist der
+
+149
+00:05:41,880 --> 00:05:43,220
+sogenannte Scheitelpunkt. Das ist
+
+150
+00:05:43,220 --> 00:05:44,520
+halt der tiefste Punkt hier,
+
+151
+00:05:44,560 --> 00:05:46,620
+beziehungsweise wenn die Parabel zur
+
+152
+00:05:46,620 --> 00:05:47,800
+anderen Seite geöffnet wäre, der
+
+153
+00:05:47,800 --> 00:05:52,380
+höchste Punkt. einen Punkt, wo ganz
+
+154
+00:05:52,380 --> 00:05:54,340
+kurz der Graph waagerecht verläuft.
+
+155
+00:05:54,740 --> 00:05:57,060
+Also das ist ein Extrempunkt, das
+
+156
+00:05:57,060 --> 00:05:59,200
+hier ist ein Extrempunkt, das auch.
+
+157
+00:05:59,320 --> 00:06:01,600
+Man sieht, die Gerade ganz links,
+
+158
+00:06:01,620 --> 00:06:03,180
+also die Funktion ersten Grades, hat
+
+159
+00:06:03,180 --> 00:06:09,020
+keine Extrempunkte, weil sie hat eine
+
+160
+00:06:09,020 --> 00:06:09,800
+einheitliche Steigung.
+
+161
+00:06:12,550 --> 00:06:14,650
+Hier sehen wir, das nochmal
+
+162
+00:06:14,650 --> 00:06:17,610
+zusammengefasst, die Nullstellen. Die
+
+163
+00:06:17,610 --> 00:06:19,190
+maximale Anzahl der Nullstellen ist
+
+164
+00:06:19,190 --> 00:06:22,890
+der Funktionsgrad minus 1. Bei den
+
+165
+00:06:22,890 --> 00:06:25,770
+Extrempunkten ist es so ähnlich. Die
+
+166
+00:06:25,770 --> 00:06:28,170
+maximale Anzahl der Extrempunkte ist
+
+167
+00:06:28,170 --> 00:06:32,830
+der Grad der Funktion minus 1. Das
+
+168
+00:06:32,830 --> 00:06:34,130
+heißt zum Beispiel eine Funktion
+
+169
+00:06:34,130 --> 00:06:36,130
+dritten Grades, also x hoch 3, kann
+
+170
+00:06:36,130 --> 00:06:38,710
+maximal zwei Extrempunkte haben. Das
+
+171
+00:06:38,710 --> 00:06:41,070
+sehen wir auch hier. Die hat auch in
+
+172
+00:06:41,070 --> 00:06:42,750
+dem Fall wirklich zwei Extrempunkte.
+
+173
+00:06:43,890 --> 00:06:46,650
+Dann gibt es noch den Wendepunkt. und
+
+174
+00:06:46,650 --> 00:06:48,250
+auch die maximale Anzahl der
+
+175
+00:06:48,250 --> 00:06:50,490
+Wendepunkte kann über den Grad der
+
+176
+00:06:50,490 --> 00:06:52,470
+Funktion bestimmt werden und das ist
+
+177
+00:06:52,470 --> 00:06:54,050
+einfach dann der Grad minus 2, das
+
+178
+00:06:54,050 --> 00:06:55,690
+heißt eine Funktion dritten Grades
+
+179
+00:06:55,690 --> 00:06:57,330
+kann bis zu einen Wendepunkt haben.
+
+180
+00:06:57,470 --> 00:07:01,290
+Ein Wendepunkt befindet sich immer
+
+181
+00:07:01,290 --> 00:07:03,570
+zwischen zwei Extremstellen und immer
+
+182
+00:07:03,570 --> 00:07:05,310
+bei einem Krümmungswechsel.
+
+183
+00:07:08,150 --> 00:07:10,110
+Die notwendige Bedienung dafür war ja
+
+184
+00:07:10,110 --> 00:07:11,670
+die zweite Ableitung gleich 0 setzen
+
+185
+00:07:11,670 --> 00:07:14,170
+und entsprechend nach x umformen Und
+
+186
+00:07:14,170 --> 00:07:16,910
+man erhält dann, wie gesagt, maximal
+
+187
+00:07:16,910 --> 00:07:19,550
+den Grad minus 2 Lösungen.
+
+188
+00:07:23,100 --> 00:07:24,940
+Gut, kommen wir dann zum
+
+189
+00:07:24,940 --> 00:07:29,120
+Symmetrieverhalten. Es gibt nur drei
+
+190
+00:07:29,120 --> 00:07:30,740
+einfache Arten von Symmetrie.
+
+191
+00:07:31,160 --> 00:07:32,860
+Entweder man hat die Achsensymmetrie
+
+192
+00:07:32,860 --> 00:07:35,260
+oder man hat die Punktsymmetrie. Wenn
+
+193
+00:07:35,260 --> 00:07:36,640
+man keines von beiden hat, hat man
+
+194
+00:07:36,640 --> 00:07:39,420
+keine Symmetrie und weiter
+
+195
+00:07:39,420 --> 00:07:40,620
+unterscheidet man in der Schule
+
+196
+00:07:40,620 --> 00:07:44,900
+nicht. Bei der Achsensymmetrie ist es
+
+197
+00:07:44,900 --> 00:07:47,820
+so, dass alle Exponenten in der
+
+198
+00:07:47,820 --> 00:07:50,640
+Funktionsgleichung gerade sind. Das
+
+199
+00:07:50,640 --> 00:07:52,880
+heißt, man hat sowas wie x hoch 4, x
+
+200
+00:07:52,880 --> 00:07:55,140
+hoch 2 oder auch ein absolutes Glied,
+
+201
+00:07:55,160 --> 00:07:57,600
+sowas wie eine plus 5. Die dürfen wir
+
+202
+00:07:57,600 --> 00:07:58,880
+auch bei der Achsensymmetrie haben.
+
+203
+00:07:59,300 --> 00:08:01,200
+Bei der Punktsymmetrie ist dies genau
+
+204
+00:08:01,200 --> 00:08:03,340
+andersrum. Wir dürfen eine ungerade
+
+205
+00:08:03,340 --> 00:08:05,100
+Exponenten haben, sowas wie x hoch 5,
+
+206
+00:08:05,280 --> 00:08:08,580
+x hoch 3, x und kein absolutes Glied.
+
+207
+00:08:08,580 --> 00:08:10,280
+Sobald da ein absolutes Glied steht,
+
+208
+00:08:10,400 --> 00:08:14,120
+das heißt eine Zahl ohne x, dann kann
+
+209
+00:08:14,120 --> 00:08:15,220
+die Funktion nicht mehr
+
+210
+00:08:15,220 --> 00:08:21,700
+punktsymmetrisch sein. Und wenn eines
+
+211
+00:08:21,700 --> 00:08:24,560
+dieser Kriterien nicht zutrifft, wo
+
+212
+00:08:24,560 --> 00:08:26,080
+man zum Beispiel gemischte Exponenten
+
+213
+00:08:26,080 --> 00:08:29,520
+hat, dann liegt automatisch keine
+
+214
+00:08:29,520 --> 00:08:31,460
+Symmetrie vor. Das heißt, man
+
+215
+00:08:31,460 --> 00:08:32,800
+untersucht eigentlich immer nur die
+
+216
+00:08:32,800 --> 00:08:34,800
+Exponenten und guckt, ob ein
+
+217
+00:08:34,800 --> 00:08:40,660
+absolutes Glied vorliegt. Gut. Hast
+
+218
+00:08:40,660 --> 00:08:42,240
+du eine Frage bis hierhin, dann würde
+
+219
+00:08:42,240 --> 00:08:43,700
+ich die dir natürlich erstmal ganz
+
+220
+00:08:43,700 --> 00:08:45,740
+gerne beantworten.
+
+221
+00:08:48,110 --> 00:08:49,590
+Okay, wie gesagt, wenn du eine Frage
+
+222
+00:08:49,590 --> 00:08:51,890
+hast, schreib die Frage gerne in den
+
+223
+00:08:51,890 --> 00:08:52,930
+Chat rein, dann kann ich darauf
+
+224
+00:08:52,930 --> 00:08:55,950
+zurückkommen. Kommen wir zur
+
+225
+00:08:55,950 --> 00:08:59,410
+Streckung und Verschiebung. Man kann
+
+226
+00:08:59,410 --> 00:09:01,690
+so eine Funktion verändern. Es gibt
+
+227
+00:09:01,690 --> 00:09:02,810
+da, wie du siehst, vier
+
+228
+00:09:02,810 --> 00:09:04,690
+Möglichkeiten. Wir können sie
+
+229
+00:09:04,690 --> 00:09:06,530
+entweder in y-Richtung strecken mit
+
+230
+00:09:06,530 --> 00:09:07,830
+dem Faktor a, das heißt die ganze
+
+231
+00:09:07,830 --> 00:09:09,670
+Funktionsgleichung f von x wird mit
+
+232
+00:09:09,670 --> 00:09:11,990
+einem Faktor a gestreckt.
+
+233
+00:09:13,840 --> 00:09:15,560
+Man kann natürlich nicht nur in y
+
+234
+00:09:15,560 --> 00:09:17,100
+-Richtung strecken, sondern auch in
+
+235
+00:09:17,100 --> 00:09:19,840
+die x-Richtung. Dort wird dann das x,
+
+236
+00:09:19,980 --> 00:09:22,760
+also jede Stelle, also in der
+
+237
+00:09:22,760 --> 00:09:23,920
+Funktionsgleichung wird an jeder
+
+238
+00:09:23,920 --> 00:09:25,980
+Stelle, wo ein x steht, das x
+
+239
+00:09:25,980 --> 00:09:27,600
+zusätzlich mit einem Faktor b
+
+240
+00:09:27,600 --> 00:09:31,040
+multipliziert. die streckung in die
+
+241
+00:09:31,040 --> 00:09:33,180
+richtung ist hat dann den faktor 1
+
+242
+00:09:33,180 --> 00:09:37,880
+durch b ja wir haben auch gleich noch
+
+243
+00:09:37,880 --> 00:09:39,160
+kurz beispiel wo eine funktion
+
+244
+00:09:39,160 --> 00:09:40,820
+verändert wird und wir sagen sollen
+
+245
+00:09:40,820 --> 00:09:45,220
+wie das geschehen ist wir sehen hier
+
+246
+00:09:45,220 --> 00:09:47,360
+bei g von x die verschiebung in die
+
+247
+00:09:47,360 --> 00:09:49,780
+richtung als x- das ist ganz wichtig
+
+248
+00:09:49,780 --> 00:09:53,160
+wenn wir x minus drei zum beispiel
+
+249
+00:09:53,160 --> 00:09:54,440
+haben dann heißt das dass die
+
+250
+00:09:54,440 --> 00:09:56,520
+funktion um drei einheiten nach
+
+251
+00:09:57,600 --> 00:09:59,120
+verschoben wurde. Das ist wie bei der
+
+252
+00:09:59,120 --> 00:10:01,220
+Scheitelpunktform bei quadratischen
+
+253
+00:10:01,220 --> 00:10:03,060
+Funktionen. Es ist immer genau
+
+254
+00:10:03,060 --> 00:10:05,900
+entgegengesetzt des Vorzeichens. Wenn
+
+255
+00:10:05,900 --> 00:10:11,820
+dort steht x plus 2, heißt das, dass
+
+256
+00:10:11,820 --> 00:10:13,700
+die Funktion um zwei Einheiten nach
+
+257
+00:10:13,700 --> 00:10:18,480
+links verschoben wurde. Und zum
+
+258
+00:10:18,480 --> 00:10:21,000
+Beispiel bei g von x, hier unten beim
+
+259
+00:10:21,000 --> 00:10:22,380
+letzten Fall haben wir f von x plus
+
+260
+00:10:22,380 --> 00:10:24,520
+d, Das ist der einfachste Fall. Das
+
+261
+00:10:24,520 --> 00:10:25,660
+ist der Fall, dass man die ganze
+
+262
+00:10:25,660 --> 00:10:29,000
+Funktion um d Einheiten nach oben
+
+263
+00:10:29,000 --> 00:10:32,600
+verschiebt, also in y-Richtung. Hier
+
+264
+00:10:32,600 --> 00:10:33,700
+sehen wir jetzt das genannte
+
+265
+00:10:33,700 --> 00:10:35,520
+Beispiel. Wir sehen einmal links die
+
+266
+00:10:35,520 --> 00:10:37,020
+Abbildung a, einmal rechts die
+
+267
+00:10:37,020 --> 00:10:40,820
+Abbildung b. Und aus der Abbildung a
+
+268
+00:10:40,820 --> 00:10:42,060
+ist irgendwie die Abbildung b
+
+269
+00:10:42,060 --> 00:10:44,640
+entstanden, bzw. die Funktion f von x
+
+270
+00:10:44,640 --> 00:10:47,220
+gleich x hoch 3 minus 2x minus 2
+
+271
+00:10:47,220 --> 00:10:49,380
+wurde so verändert, dass die
+
+272
+00:10:49,380 --> 00:10:52,840
+Abbildung b entsteht. Und dazu gucken
+
+273
+00:10:52,840 --> 00:10:55,040
+wir uns am besten erstmal an, ob sich
+
+274
+00:10:55,040 --> 00:10:56,880
+die Position der Extremstellen
+
+275
+00:10:56,880 --> 00:10:59,340
+verändert hat. Wir sehen, die
+
+276
+00:10:59,340 --> 00:11:01,380
+Positionen sind immer noch bei minus
+
+277
+00:11:01,380 --> 00:11:05,360
+1 und 1. Folglich wurde die Funktion
+
+278
+00:11:05,360 --> 00:11:10,020
+nicht entlang der x-Achse gestreckt
+
+279
+00:11:10,020 --> 00:11:11,220
+oder gestaucht. Also sie wurde nicht
+
+280
+00:11:11,220 --> 00:11:12,180
+auseinandergezogen oder
+
+281
+00:11:12,180 --> 00:11:14,240
+zusammengeschoben. Weil der Abstand
+
+282
+00:11:14,240 --> 00:11:16,000
+zwischen den beiden Extremstellen ist
+
+283
+00:11:16,000 --> 00:11:18,500
+noch immer gleich. Und was noch dazu
+
+284
+00:11:18,500 --> 00:11:20,520
+kommt, die x-Koordinaten sind auch...
+
+285
+00:11:20,540 --> 00:11:22,720
+noch gleich. Das heißt, sie wurde
+
+286
+00:11:22,720 --> 00:11:24,200
+auch nicht entlang der x-Achse
+
+287
+00:11:24,200 --> 00:11:26,280
+verschoben. Das Einzige, was
+
+288
+00:11:26,280 --> 00:11:29,380
+auffällt, dass aus dem Hochpunkt ein
+
+289
+00:11:29,380 --> 00:11:32,580
+Tiefpunkt wurde und aus dem Tiefpunkt
+
+290
+00:11:32,580 --> 00:11:34,160
+ein Hochpunkt. Das heißt, wir wissen
+
+291
+00:11:34,160 --> 00:11:36,380
+jetzt schon mal direkt, es wurde mit
+
+292
+00:11:36,380 --> 00:11:38,360
+einem negativen Faktor multipliziert.
+
+293
+00:11:38,860 --> 00:11:40,420
+Sonst käme es nicht zu diesem
+
+294
+00:11:40,420 --> 00:11:40,800
+Wechsel.
+
+295
+00:11:43,540 --> 00:11:45,680
+Als letztes schauen wir uns dann
+
+296
+00:11:45,680 --> 00:11:46,260
+jetzt noch an,
+
+297
+00:11:49,000 --> 00:11:50,820
+mit welchem Faktor das wohl gemacht
+
+298
+00:11:50,820 --> 00:11:53,060
+worden sein könnte. Wir sehen
+
+299
+00:11:53,060 --> 00:11:55,180
+erstmal, an der Stelle minus 1 ist
+
+300
+00:11:55,180 --> 00:11:56,940
+die y-Koordinate konstant geblieben.
+
+301
+00:11:56,980 --> 00:11:58,960
+Das heißt, die Funktion wurde
+
+302
+00:11:58,960 --> 00:12:00,700
+wirklich gestreckt entlang der y
+
+303
+00:12:00,700 --> 00:12:02,900
+-Achse. Sie wurde nicht verschoben
+
+304
+00:12:02,900 --> 00:12:04,980
+durch dieses plus d. Sie wurde ganz
+
+305
+00:12:04,980 --> 00:12:08,440
+klassisch gestreckt bzw. gestaucht.
+
+306
+00:12:09,240 --> 00:12:11,480
+Man sieht hier, dass der Tiefpunkt
+
+307
+00:12:11,480 --> 00:12:14,920
+die Koordinate minus 4 hatte. Wenn
+
+308
+00:12:14,920 --> 00:12:16,900
+wir jetzt einfach mit minus 1 das
+
+309
+00:12:16,900 --> 00:12:18,940
+Ding entstrecken würden, hätte unser
+
+310
+00:12:18,940 --> 00:12:22,300
+Hochpunkt die Koordinate 4. Das hat
+
+311
+00:12:22,300 --> 00:12:23,720
+er aber nicht, er hat nämlich nur die
+
+312
+00:12:23,720 --> 00:12:26,960
+2. Folglich können wir sagen, dass
+
+313
+00:12:26,960 --> 00:12:29,360
+die Funktionsgleichung um den Faktor
+
+314
+00:12:29,360 --> 00:12:32,600
+a gleich minus 0,5 gestreckt wurde.
+
+315
+00:12:33,720 --> 00:12:35,460
+Und die Funktionsgleichung lautet
+
+316
+00:12:35,460 --> 00:12:37,340
+dann einfach nur minus 0,5 mal
+
+317
+00:12:37,340 --> 00:12:40,800
+Klammer auf x hoch 3 minus 3x minus 2
+
+318
+00:12:40,800 --> 00:12:44,710
+Klammer zu. Und damit ist die Frage
+
+319
+00:12:44,710 --> 00:12:45,810
+auch schon beantwortet.
+
+320
+00:12:48,980 --> 00:12:50,240
+Kommen wir dann nun zu dem
+
+321
+00:12:50,240 --> 00:12:52,880
+Globalverhalten bzw. dem Verhalten im
+
+322
+00:12:52,880 --> 00:12:55,140
+Unendlichen. Wenn wir uns das
+
+323
+00:12:55,140 --> 00:12:56,820
+Verhalten im Unendlichen anschauen,
+
+324
+00:12:56,860 --> 00:12:58,900
+müssen wir uns als erstes überlegen,
+
+325
+00:12:58,920 --> 00:13:02,820
+ob der Grad der Funktion gerade ist
+
+326
+00:13:02,820 --> 00:13:05,760
+oder ungerade. Das heißt, wir suchen
+
+327
+00:13:05,760 --> 00:13:07,360
+uns immer den größten Exponenten raus
+
+328
+00:13:07,360 --> 00:13:09,560
+und gucken, ob dieser gerade oder
+
+329
+00:13:09,560 --> 00:13:12,780
+ungerade ist. Wenn wir einen geraden
+
+330
+00:13:12,780 --> 00:13:16,680
+Exponenten haben, dann hat man immer
+
+331
+00:13:16,680 --> 00:13:18,860
+diese Parabelform, wenn man so
+
+332
+00:13:18,860 --> 00:13:22,880
+möchte. Das heißt, wenn die Funktion
+
+333
+00:13:22,880 --> 00:13:28,640
+für x' gegen minusunendlich, also die
+
+334
+00:13:28,640 --> 00:13:29,760
+geht wieder in die gleiche Richtung,
+
+335
+00:13:29,820 --> 00:13:32,400
+wo sie herkam. Wenn sie aus unendlich
+
+336
+00:13:32,400 --> 00:13:34,020
+kommt, dann geht sie auch wieder nach
+
+337
+00:13:34,020 --> 00:13:35,640
+unendlich. Wenn sie aus
+
+338
+00:13:35,640 --> 00:13:37,360
+minusunendlich kommt, geht sie auch
+
+339
+00:13:37,360 --> 00:13:39,600
+wieder nach minusunendlich. Und das
+
+340
+00:13:39,600 --> 00:13:41,800
+ist genau der große Unterschied zu
+
+341
+00:13:41,800 --> 00:13:43,800
+einem ungeraden Exponenten. Dort hat
+
+342
+00:13:43,800 --> 00:13:44,980
+man immer den Wechsel, wenn die
+
+343
+00:13:44,980 --> 00:13:47,100
+Funktion aus minusunendlich kommt,
+
+344
+00:13:47,360 --> 00:13:50,540
+dann strebt sie gegen unendlich. Wenn
+
+345
+00:13:50,540 --> 00:13:51,820
+die Funktion aus unendlich kommt,
+
+346
+00:13:51,980 --> 00:13:53,680
+strebt sie gegen minusunendlich.
+
+347
+00:13:54,640 --> 00:13:56,420
+Diesen Wechsel hat man entsprechend
+
+348
+00:13:56,420 --> 00:13:59,560
+bei einem
+
+349
+00:14:01,130 --> 00:14:05,210
+geraden Exponenten nicht. Um jetzt
+
+350
+00:14:05,210 --> 00:14:07,030
+diese beiden Fälle zu unterscheiden,
+
+351
+00:14:07,030 --> 00:14:09,230
+muss man sich immer den Faktor davor
+
+352
+00:14:09,230 --> 00:14:12,530
+anschauen. Also den Faktor a vor dem
+
+353
+00:14:12,530 --> 00:14:14,170
+x hoch 4, wenn man so will. möchte.
+
+354
+00:14:14,530 --> 00:14:16,610
+Wenn dieses a größer 0 ist, also
+
+355
+00:14:16,610 --> 00:14:19,390
+positiv ist, dann hat man den Fall,
+
+356
+00:14:19,430 --> 00:14:22,490
+die Funktion kommt von unendlich und
+
+357
+00:14:22,490 --> 00:14:24,770
+geht auch wieder nach unendlich. Wenn
+
+358
+00:14:24,770 --> 00:14:26,430
+dieser Faktor kleiner 0 ist, zum
+
+359
+00:14:26,430 --> 00:14:29,250
+Beispiel eine minus 1, dann kommt die
+
+360
+00:14:29,250 --> 00:14:32,190
+Funktion aus minus unendlich und geht
+
+361
+00:14:32,190 --> 00:14:34,210
+auch wieder nach minus unendlich. Das
+
+362
+00:14:35,810 --> 00:14:37,610
+gleiche kann man natürlich dann auch
+
+363
+00:14:37,610 --> 00:14:39,930
+wieder für die Ungeraden machen. Hier
+
+364
+00:14:39,930 --> 00:14:43,350
+haben wir den Fall, dass der Faktor a
+
+365
+00:14:43,350 --> 00:14:45,130
+auch hier wieder größer als 0 ist,
+
+366
+00:14:45,130 --> 00:14:47,670
+als zum Beispiel eine 1. Dann kommt
+
+367
+00:14:47,670 --> 00:14:49,530
+die Funktion aus minus unendlich und
+
+368
+00:14:49,530 --> 00:14:52,590
+geht nach unendlich. Falls der Faktor
+
+369
+00:14:52,590 --> 00:14:54,230
+a kleiner als 0 ist, also auch
+
+370
+00:14:54,230 --> 00:14:55,710
+beispielsweise hier eine minus 1,
+
+371
+00:14:55,890 --> 00:14:57,790
+dann ändert sich das alles. Die
+
+372
+00:14:57,790 --> 00:15:00,450
+Funktion kommt aus unendlich und geht
+
+373
+00:15:00,450 --> 00:15:04,210
+nach minus unendlich. Um das Ganze zu
+
+374
+00:15:04,210 --> 00:15:05,790
+veranschaulichen, haben wir hier auch
+
+375
+00:15:05,790 --> 00:15:07,970
+mal zwei Beispielfunktionen. Wir
+
+376
+00:15:07,970 --> 00:15:09,310
+haben hier einmal die Funktion f von
+
+377
+00:15:09,310 --> 00:15:10,910
+x und einmal die Funktion g von x.
+
+378
+00:15:10,950 --> 00:15:12,670
+Ganz wichtig ist, dass du bei jeder
+
+379
+00:15:12,670 --> 00:15:14,290
+Funktionsgleichung als erstes den
+
+380
+00:15:14,290 --> 00:15:17,450
+größten Exponenten raussuchst. Das
+
+381
+00:15:17,450 --> 00:15:19,230
+heißt, der größte Exponent, der muss
+
+382
+00:15:19,230 --> 00:15:20,490
+nicht immer vorne stehen, der kann
+
+383
+00:15:20,490 --> 00:15:23,030
+auch wie bei der Funktion f von x
+
+384
+00:15:23,030 --> 00:15:24,670
+hinten stehen. Der ist nämlich der
+
+385
+00:15:24,670 --> 00:15:28,430
+minus 3 mal x hoch 8. Bei der
+
+386
+00:15:28,430 --> 00:15:30,790
+Funktion g von x ist er einfach 2x
+
+387
+00:15:30,790 --> 00:15:34,470
+hoch 3. Und wir gehen jetzt einfach
+
+388
+00:15:34,470 --> 00:15:36,650
+hin und bestimmen. unseren
+
+389
+00:15:36,650 --> 00:15:38,310
+Exponenten, der ist bei f von x
+
+390
+00:15:38,310 --> 00:15:41,570
+einfach 8 und den Faktor davor, das
+
+391
+00:15:41,570 --> 00:15:44,890
+an. Wir haben einen geraden
+
+392
+00:15:44,890 --> 00:15:48,110
+Exponenten, 8 und unser an ist minus
+
+393
+00:15:48,110 --> 00:15:52,250
+3. Daher wissen wir direkt, dass egal
+
+394
+00:15:52,250 --> 00:15:53,970
+ob unser x gegen plus oder gegen
+
+395
+00:15:53,970 --> 00:15:56,390
+minus unendlich strebt, die Funktion
+
+396
+00:15:56,390 --> 00:15:58,270
+gegen minus unendlich strebt. Das ist
+
+397
+00:15:58,270 --> 00:16:01,670
+einfach nur, wir sehen an ist minus 3
+
+398
+00:16:01,670 --> 00:16:03,730
+und n ist 8, das heißt n ist gerade.
+
+399
+00:16:03,730 --> 00:16:06,950
+Wir sind also genau bei dem Fall
+
+400
+00:16:06,950 --> 00:16:08,030
+hier. Bei
+
+401
+00:16:11,900 --> 00:16:15,220
+g von x ist es so, unser a n ist 2
+
+402
+00:16:15,220 --> 00:16:18,200
+und unser n ist 3. Das heißt, wir
+
+403
+00:16:18,200 --> 00:16:19,360
+haben diesmal einen ungeraden
+
+404
+00:16:19,360 --> 00:16:23,480
+Exponenten. Folglich strebt die
+
+405
+00:16:23,480 --> 00:16:26,300
+Funktion für x gegen unendlich, kommt
+
+406
+00:16:26,300 --> 00:16:27,680
+auch der Funktionswert unendlich
+
+407
+00:16:27,680 --> 00:16:29,560
+raus. Wenn unser x aber gegen minus
+
+408
+00:16:29,560 --> 00:16:31,400
+unendlich strebt, strebt die
+
+409
+00:16:31,400 --> 00:16:33,300
+Funktionsgleichung auch gegen minus
+
+410
+00:16:33,300 --> 00:16:36,480
+unendlich. Das heißt, wir haben
+
+411
+00:16:36,480 --> 00:16:39,440
+diesen Fall. Die Funktion kommt von
+
+412
+00:16:39,440 --> 00:16:44,020
+unten und geht nach unendlich. Gibt
+
+413
+00:16:44,020 --> 00:16:45,260
+es hierzu eine Frage?
+
+414
+00:16:50,930 --> 00:16:54,910
+Okay. Dann machen wir jetzt weiter
+
+415
+00:16:54,910 --> 00:16:56,390
+mit dem letzten Thema, das ist die
+
+416
+00:16:56,390 --> 00:16:59,310
+Nullstellenberechnung. Bei der
+
+417
+00:16:59,310 --> 00:17:01,870
+Nullstellenberechnung ist es so, dass
+
+418
+00:17:01,870 --> 00:17:04,610
+wir die ganze Funktionsgleichung mit
+
+419
+00:17:04,610 --> 00:17:07,650
+0 gleichsetzen. Und der Grad der
+
+420
+00:17:07,650 --> 00:17:09,310
+Funktion gibt, wie vorhin schon
+
+421
+00:17:09,310 --> 00:17:11,150
+gesagt, die maximale Anzahl an
+
+422
+00:17:11,150 --> 00:17:12,790
+Nullstellen, also die maximale
+
+423
+00:17:12,790 --> 00:17:17,190
+Anzahl, die möglich ist. Je nach
+
+424
+00:17:17,190 --> 00:17:19,670
+Gleichung, die entsteht, braucht man
+
+425
+00:17:19,670 --> 00:17:23,050
+verschiedene Lösungsverfahren. Und
+
+426
+00:17:23,050 --> 00:17:25,210
+wenn eine Funktion einen ungeraden
+
+427
+00:17:25,210 --> 00:17:26,510
+Exponenten hat, dann hat sie...
+
+428
+00:17:26,530 --> 00:17:28,150
+mindestens eine Nullstelle. Das
+
+429
+00:17:28,150 --> 00:17:31,470
+beruht darauf, dass alle Funktionen
+
+430
+00:17:31,470 --> 00:17:33,030
+mit umgeraden Exponenten
+
+431
+00:17:35,730 --> 00:17:37,550
+aus Minusunendlich kommen und nach
+
+432
+00:17:37,550 --> 00:17:38,930
+Unendlich gehen oder halt aus
+
+433
+00:17:38,930 --> 00:17:39,910
+Unendlich kommen und nach
+
+434
+00:17:39,910 --> 00:17:41,310
+Minusunendlich gehen. Daher haben sie
+
+435
+00:17:41,310 --> 00:17:42,430
+immer den Nulldurchgang.
+
+436
+00:17:45,450 --> 00:17:47,170
+Und wir haben hier einfach mal ein
+
+437
+00:17:47,170 --> 00:17:50,330
+paar Beispiele und zwar sehen wir
+
+438
+00:17:50,330 --> 00:17:52,250
+jetzt hier 1, 2, 3, 4 Beispiele
+
+439
+00:17:52,250 --> 00:17:54,630
+insgesamt. Wir haben hier oben ganz
+
+440
+00:17:54,630 --> 00:17:56,250
+zu Anfang eine... rein quadratische
+
+441
+00:17:56,250 --> 00:17:58,110
+Gleichung. Das heißt, wir haben nur
+
+442
+00:17:58,110 --> 00:18:00,610
+ein x² und ein absolutes Glied. Das
+
+443
+00:18:00,610 --> 00:18:01,430
+kann man jetzt ganz einfach
+
+444
+00:18:01,430 --> 00:18:03,050
+umstellen, durch eine plus 4 dann die
+
+445
+00:18:03,050 --> 00:18:05,710
+Wurzel ziehen. Dann kommt man auf 2
+
+446
+00:18:05,710 --> 00:18:07,450
+bzw. minus 2.
+
+447
+00:18:11,800 --> 00:18:17,480
+Bei Funktionen zweiten Grades, die
+
+448
+00:18:17,480 --> 00:18:20,160
+ein quadratisches Glied, ein lineares
+
+449
+00:18:20,160 --> 00:18:21,560
+und ein absolutes Glied haben,
+
+450
+00:18:21,700 --> 00:18:24,160
+braucht man die PQ-Formel. Passt
+
+451
+00:18:24,160 --> 00:18:27,580
+bitte auf, da steht 0. ist gleich x²
+
+452
+00:18:27,580 --> 00:18:34,620
+minus 3, nicht 0x². Und bei diesem
+
+453
+00:18:34,620 --> 00:18:37,040
+muss man dann die PQ-Formel anwenden,
+
+454
+00:18:37,580 --> 00:18:39,320
+um die beiden Lösungen zu bestimmen.
+
+455
+00:18:39,320 --> 00:18:42,880
+Die wären hier 3 und minus 1. Eine
+
+456
+00:18:42,880 --> 00:18:44,840
+sehr elegante Möglichkeit, um
+
+457
+00:18:44,840 --> 00:18:46,280
+Nullstellen zu bestimmen oder
+
+458
+00:18:46,280 --> 00:18:48,400
+generell Gleichungen zu lösen, ist
+
+459
+00:18:48,400 --> 00:18:50,380
+der Satz vom Nullprodukt. Das heißt,
+
+460
+00:18:50,480 --> 00:18:53,920
+man klammert ein x aus. Das geht
+
+461
+00:18:53,920 --> 00:18:58,740
+natürlich nur, wenn alle Elemente
+
+462
+00:18:58,740 --> 00:19:00,720
+hier ein x haben. Wir sehen, wir
+
+463
+00:19:00,720 --> 00:19:02,700
+haben x hoch 3, wir haben minus 7x²
+
+464
+00:19:02,700 --> 00:19:04,500
+und dann haben wir plus 10x. Das
+
+465
+00:19:04,500 --> 00:19:06,960
+heißt, es haben wirklich eine 1x und
+
+466
+00:19:06,960 --> 00:19:08,480
+man kann dann immer die kleinste
+
+467
+00:19:08,480 --> 00:19:10,900
+Potenz ausklammern. Das ist das x.
+
+468
+00:19:11,600 --> 00:19:13,820
+Und so kommen wir auf 0 ist gleich x
+
+469
+00:19:13,820 --> 00:19:16,380
+mal, Klammer auf, x² minus 7x plus
+
+470
+00:19:16,380 --> 00:19:19,620
+10, Klammer zu. Jetzt haben wir ja
+
+471
+00:19:19,620 --> 00:19:21,060
+ein Produkt und wir wenden jetzt den
+
+472
+00:19:21,060 --> 00:19:22,580
+Satz vom Nullprodukt an. Das heißt,
+
+473
+00:19:22,620 --> 00:19:26,580
+wir sagen entweder, dass x ist 0 oder
+
+474
+00:19:26,580 --> 00:19:28,400
+das, was hier in der Klammer steht,
+
+475
+00:19:28,440 --> 00:19:32,290
+ist 0. Das heißt, wir müssen jetzt
+
+476
+00:19:32,290 --> 00:19:34,670
+nur noch diese Gleichung lösen. Und
+
+477
+00:19:34,670 --> 00:19:36,030
+das ist wieder eine quadratische
+
+478
+00:19:36,030 --> 00:19:37,630
+Gleichung, die wir mittels der pq
+
+479
+00:19:37,630 --> 00:19:40,150
+-Formel lösen können. Das heißt, wir
+
+480
+00:19:40,150 --> 00:19:41,790
+haben eine Gleichung dritten Grades
+
+481
+00:19:41,790 --> 00:19:46,830
+händisch
+
+482
+00:19:46,830 --> 00:19:48,790
+gelöst. Und das geht nicht anders.
+
+483
+00:19:51,700 --> 00:19:53,120
+Welche Möglichkeit es auch noch gibt,
+
+484
+00:19:53,220 --> 00:19:55,560
+ist bei biquadratischen Gleichungen,
+
+485
+00:19:55,640 --> 00:19:57,680
+das heißt man hat x hoch 4 und x².
+
+486
+00:19:58,440 --> 00:19:59,900
+Dort arbeitet man mit der
+
+487
+00:19:59,900 --> 00:20:01,700
+Substitution, etwas substituieren
+
+488
+00:20:01,700 --> 00:20:04,640
+bedeutet etwas ersetzen. Man geht
+
+489
+00:20:04,640 --> 00:20:07,740
+also hin und ersetzt das x² mit u.
+
+490
+00:20:09,020 --> 00:20:11,380
+Folglich wird aus dem x hoch 4 ein u²
+
+491
+00:20:11,380 --> 00:20:19,580
+und aus dem x ein u. So kommen wir zu
+
+492
+00:20:19,580 --> 00:20:24,560
+0 ist gleich. 2u² minus 5u plus 3.
+
+493
+00:20:26,060 --> 00:20:27,660
+Diese Gleichung können wir dann
+
+494
+00:20:27,660 --> 00:20:29,260
+wieder mittels der PQ-Formel lösen
+
+495
+00:20:29,260 --> 00:20:32,940
+und anschließend die Resubstitution
+
+496
+00:20:32,940 --> 00:20:34,760
+durchführen. Das sind die
+
+497
+00:20:34,760 --> 00:20:35,840
+Lösungsverfahren, die man dafür
+
+498
+00:20:35,840 --> 00:20:38,240
+nutzen kann. Es gibt natürlich heute
+
+499
+00:20:38,240 --> 00:20:39,780
+auch noch die Möglichkeit, das alles
+
+500
+00:20:39,780 --> 00:20:40,880
+mit dem Taschenrechner zu machen,
+
+501
+00:20:41,480 --> 00:20:47,400
+sofern dies erlaubt ist. Die letzte
+
+502
+00:20:47,400 --> 00:20:49,900
+Möglichkeit ist die Polynom-Division.
+
+503
+00:20:49,900 --> 00:20:52,600
+Das Problem bei der Polynom-Division
+
+504
+00:20:52,600 --> 00:20:56,500
+ist, dass man, bevor man sie anwenden
+
+505
+00:20:56,500 --> 00:20:57,940
+kann, erst eine Nullstelle raten
+
+506
+00:20:57,940 --> 00:20:59,200
+muss, beziehungsweise eine kennen
+
+507
+00:20:59,200 --> 00:21:03,640
+muss. Und es ist normalerweise so,
+
+508
+00:21:03,800 --> 00:21:07,000
+dass man ab Gleichung dritten Grades
+
+509
+00:21:07,000 --> 00:21:10,700
+die Polynom-Division braucht, wenn
+
+510
+00:21:10,700 --> 00:21:12,680
+keines der vorher gezeigten Mittel
+
+511
+00:21:12,680 --> 00:21:17,460
+funktioniert. Und das haben wir jetzt
+
+512
+00:21:17,460 --> 00:21:19,160
+hier mal vorgemacht. Und zwar sehen
+
+513
+00:21:19,160 --> 00:21:20,960
+wir hier einmal, wir haben die
+
+514
+00:21:20,960 --> 00:21:24,520
+Funktion f von x gleich x hoch 3
+
+515
+00:21:24,520 --> 00:21:29,660
+minus 2x Quadrat minus 5x plus 6. Und
+
+516
+00:21:29,660 --> 00:21:31,200
+wir haben eine Nullstelle bei x
+
+517
+00:21:31,200 --> 00:21:33,880
+gleich 1. Das heißt, bei der
+
+518
+00:21:33,880 --> 00:21:35,680
+Polynomendivision teilen wir immer
+
+519
+00:21:35,680 --> 00:21:39,000
+durch einen Term. Und dieser Term ist
+
+520
+00:21:39,000 --> 00:21:41,020
+immer x minus die Nullstelle.
+
+521
+00:21:41,080 --> 00:21:42,700
+Deswegen kommen wir hier auf x minus
+
+522
+00:21:42,700 --> 00:21:45,960
+1. Und man geht dann jetzt wie folgt
+
+523
+00:21:45,960 --> 00:21:48,660
+vor. Hier steht erstmal immer eine
+
+524
+00:21:48,660 --> 00:21:51,620
+Minuszahl vor. Und dann überlegt man
+
+525
+00:21:51,620 --> 00:21:53,440
+sich, womit muss ich diese Klammer
+
+526
+00:21:53,440 --> 00:21:55,720
+multiplizieren, damit ich mindestens
+
+527
+00:21:55,720 --> 00:21:58,720
+x hoch 3 erhalte. Die Antwort ist x²,
+
+528
+00:21:58,980 --> 00:22:03,020
+denn x mal x² ist x hoch 3. Man muss
+
+529
+00:22:03,020 --> 00:22:04,560
+natürlich auch noch die minus 1 mit
+
+530
+00:22:04,560 --> 00:22:07,280
+x² multiplizieren. Und so kommt man
+
+531
+00:22:07,280 --> 00:22:09,440
+auch noch zu minus 1 mal x² ist das
+
+532
+00:22:09,440 --> 00:22:12,620
+minus x² hier drin. Und jetzt führt
+
+533
+00:22:12,620 --> 00:22:13,940
+man wirklich nur die schriftliche
+
+534
+00:22:13,940 --> 00:22:16,980
+Division durch. Das heißt, wir
+
+535
+00:22:16,980 --> 00:22:19,680
+rechnen jetzt x³ minus x³ fällt weg.
+
+536
+00:22:20,220 --> 00:22:25,220
+Minus 2x² minus minus x². Das ist
+
+537
+00:22:25,220 --> 00:22:29,800
+minus 2x² plus x², also minus x² nur
+
+538
+00:22:29,800 --> 00:22:32,380
+noch. Dann holen wir uns die minus 5x
+
+539
+00:22:32,380 --> 00:22:34,960
+runter. Und jetzt überlegen wir uns
+
+540
+00:22:34,960 --> 00:22:38,340
+von vorne. Womit müssen wir die
+
+541
+00:22:38,340 --> 00:22:39,840
+Klammer hier multiplizieren, damit
+
+542
+00:22:39,840 --> 00:22:43,220
+wir ein x² kriegen? Die Antwort
+
+543
+00:22:43,220 --> 00:22:46,880
+ist... mal minus x. Das Minus
+
+544
+00:22:46,880 --> 00:22:48,640
+entsteht dadurch, dass wir hier Minus
+
+545
+00:22:48,640 --> 00:22:50,740
+und Minus kriegen und das ist Plus,
+
+546
+00:22:50,900 --> 00:22:54,080
+denn minus x² plus x² fällt raus.
+
+547
+00:22:55,680 --> 00:22:57,060
+Auch hier müssen wir das Ganze
+
+548
+00:22:57,060 --> 00:22:57,940
+natürlich auch mit der minus 1
+
+549
+00:22:57,940 --> 00:23:00,260
+machen, das heißt minus 1 mal minus x
+
+550
+00:23:00,260 --> 00:23:03,000
+ist plus x und so kommen wir auf
+
+551
+00:23:03,000 --> 00:23:07,340
+minus 5x minus x, das ist minus 6x
+
+552
+00:23:07,340 --> 00:23:09,000
+dann. Zu guter Letzt holen wir uns
+
+553
+00:23:09,000 --> 00:23:11,540
+die plus 6 runter und überlegen uns
+
+554
+00:23:11,540 --> 00:23:13,000
+auch wieder hierbei, wie oft brauchen
+
+555
+00:23:13,000 --> 00:23:16,020
+wir die Klammer, um die minus 6x zu
+
+556
+00:23:16,020 --> 00:23:17,280
+eliminieren. Die Antwort ist auch
+
+557
+00:23:17,280 --> 00:23:21,040
+hier minus 6 mal, einfach nur das
+
+558
+00:23:21,040 --> 00:23:23,180
+Minus wieder, damit man hier minus
+
+559
+00:23:23,180 --> 00:23:25,720
+minus 6x stehen hat und so die minus
+
+560
+00:23:25,720 --> 00:23:29,000
+6x ausgeglichen werden. Als Rest
+
+561
+00:23:29,000 --> 00:23:32,260
+erhält man hier 0. Folglich ist das
+
+562
+00:23:32,260 --> 00:23:33,520
+jetzt die, ich sage jetzt mal,
+
+563
+00:23:33,540 --> 00:23:36,280
+Lösung. Von diesem Term muss man
+
+564
+00:23:36,280 --> 00:23:37,600
+jetzt nur noch die Nullstellen
+
+565
+00:23:37,600 --> 00:23:40,340
+bestimmen. Der Sinn der Polynom
+
+566
+00:23:40,340 --> 00:23:41,880
+-Division ist natürlich, wir haben
+
+567
+00:23:41,880 --> 00:23:43,320
+mit einer Funktion dritten Grades
+
+568
+00:23:43,320 --> 00:23:44,700
+angefangen und haben jetzt nur noch
+
+569
+00:23:44,700 --> 00:23:45,860
+eine Funktion zweiten Grades.
+
+570
+00:23:49,300 --> 00:23:51,760
+Folglich wurde der Grad der Funktion
+
+571
+00:23:51,760 --> 00:23:54,340
+um 1 gesenkt und wir könnten diesen
+
+572
+00:23:54,340 --> 00:23:56,880
+Term jetzt mit der pq-Formel lösen.
+
+573
+00:23:59,170 --> 00:24:00,470
+Wir haben jetzt hier noch ein kleines
+
+574
+00:24:00,470 --> 00:24:02,190
+Beispiel dazu. Und zwar haben wir
+
+575
+00:24:02,190 --> 00:24:04,810
+hier die Gleichung 0 ist gleich x
+
+576
+00:24:04,810 --> 00:24:08,190
+hoch 3 plus 2x² minus 17x plus 6. und
+
+577
+00:24:08,190 --> 00:24:10,290
+wir müssen natürlich als erstes eine
+
+578
+00:24:10,290 --> 00:24:12,770
+Nullstelle raten. Und immer wenn du
+
+579
+00:24:12,770 --> 00:24:14,010
+so eine Nullstelle raten musst, würde
+
+580
+00:24:14,010 --> 00:24:15,370
+ich dir raten, nimm alle ganzen
+
+581
+00:24:15,370 --> 00:24:18,530
+Zahlen von minus 5 bis 5, da wirst du
+
+582
+00:24:18,530 --> 00:24:21,010
+irgendwo was treffen. Das hätte auch
+
+583
+00:24:21,010 --> 00:24:22,590
+hier funktioniert und zwar bei der 3
+
+584
+00:24:22,590 --> 00:24:24,610
+hätten wir unsere Nullstelle erraten.
+
+585
+00:24:26,950 --> 00:24:28,790
+Folglich lautet unser Term, durch den
+
+586
+00:24:28,790 --> 00:24:31,790
+wir teilen, x minus 3. Das ist ja
+
+587
+00:24:31,790 --> 00:24:33,590
+immer x minus unsere Nullstelle. Die
+
+588
+00:24:33,590 --> 00:24:35,030
+Nullstelle bei uns ist 3, also kommen
+
+589
+00:24:35,030 --> 00:24:39,650
+wir auf x-3. Und jetzt führen wir die
+
+590
+00:24:39,650 --> 00:24:41,170
+Polynomendivision wieder aus. Das
+
+591
+00:24:41,170 --> 00:24:42,730
+heißt, als erstes wird das hoch 3
+
+592
+00:24:42,730 --> 00:24:44,870
+ausgelöscht. Dann überlegen wir uns,
+
+593
+00:24:44,930 --> 00:24:46,770
+womit müssen wir den Term
+
+594
+00:24:46,770 --> 00:24:48,550
+multiplizieren, damit wir auch auf x
+
+595
+00:24:48,550 --> 00:24:50,750
+hoch 3 kommen. Die Antwort ist mit
+
+596
+00:24:50,750 --> 00:24:53,450
+x². Und dann kommen wir auf minus x
+
+597
+00:24:53,450 --> 00:24:58,190
+hoch 3 minus 3x². x³ minus x³ ist 0,
+
+598
+00:24:58,270 --> 00:25:03,430
+fällt also raus. 2x² minus minus 3x²
+
+599
+00:25:03,430 --> 00:25:08,090
+ist das gleiche wie 2x² plus 3x². Das
+
+600
+00:25:08,090 --> 00:25:12,140
+sind dann 5x². Holen wir uns als
+
+601
+00:25:12,140 --> 00:25:15,520
+nächstes unsere minus 17x runter. Und
+
+602
+00:25:15,520 --> 00:25:17,480
+überlegen wieder, womit müssen wir
+
+603
+00:25:17,480 --> 00:25:20,200
+diesen Term multiplizieren, damit wir
+
+604
+00:25:20,200 --> 00:25:24,520
+die 5x² auslöschen. Die Antwort ist
+
+605
+00:25:24,520 --> 00:25:27,060
+mit plus 5x². Dann kommen wir nämlich
+
+606
+00:25:27,060 --> 00:25:34,080
+auf 5x² minus 15x. 5x² minus 5x² ist
+
+607
+00:25:34,080 --> 00:25:39,080
+0. Und minus 17x minus minus 15x.
+
+608
+00:25:39,600 --> 00:25:45,800
+Also minus 17x plus 15x
+
+609
+00:25:45,800 --> 00:25:49,600
+ist minus 2x. Bedenke bitte, das
+
+610
+00:25:49,600 --> 00:25:50,840
+Minus vor der Klammer hast du hier
+
+611
+00:25:50,840 --> 00:25:55,260
+immer stehen. So bleiben minus 2x
+
+612
+00:25:55,260 --> 00:25:58,180
+übrig. holen uns die 6 runter und
+
+613
+00:25:58,180 --> 00:26:00,860
+überlegen wieder, wie oft oder womit
+
+614
+00:26:00,860 --> 00:26:01,940
+müssen wir diesen Term
+
+615
+00:26:01,940 --> 00:26:03,860
+multiplizieren, damit die minus 2x
+
+616
+00:26:03,860 --> 00:26:06,020
+sich auslöschen. Die Antwort ist mit
+
+617
+00:26:06,020 --> 00:26:07,820
+minus 2, so kommen wir auf minus,
+
+618
+00:26:07,920 --> 00:26:11,320
+Klammer auf, minus 2x plus 6 und
+
+619
+00:26:11,320 --> 00:26:14,840
+minus 2x minus minus 2x ist minus 2x
+
+620
+00:26:14,840 --> 00:26:19,600
+plus 2x, das ist 0 und 6 minus 6 ist
+
+621
+00:26:19,600 --> 00:26:21,940
+ebenfalls 0. Folglich ist dann das
+
+622
+00:26:21,940 --> 00:26:24,200
+unsere Lösung davon, um die
+
+623
+00:26:24,200 --> 00:26:27,360
+weiteren... zu bestimmen, müssten wir
+
+624
+00:26:27,360 --> 00:26:29,240
+dann natürlich noch die PQ-Formel
+
+625
+00:26:29,240 --> 00:26:32,000
+anwenden und könnten dann so auf die
+
+626
+00:26:32,000 --> 00:26:33,900
+zwei weiteren Lösungen, wenn es
+
+627
+00:26:33,900 --> 00:26:38,500
+welche gibt, kommen. Gut, wir wären
+
+628
+00:26:38,500 --> 00:26:39,820
+dann schon auch am Ende des Webinars.
+
+629
+00:26:40,280 --> 00:26:42,080
+Ich hoffe, du hattest es gefallen am
+
+630
+00:26:42,080 --> 00:26:44,700
+Webinar. Wir haben aber noch Zeit für
+
+631
+00:26:44,700 --> 00:26:46,980
+eine kleine Fragerunde. Das heißt,
+
+632
+00:26:47,020 --> 00:26:48,120
+wenn du ein paar Fragen hast zu dem,
+
+633
+00:26:48,160 --> 00:26:49,880
+was ich erklärt habe, irgendwas
+
+634
+00:26:49,880 --> 00:26:52,780
+unklar war oder noch Fragen bestehen,
+
+635
+00:26:52,820 --> 00:26:54,500
+kannst du die jetzt gerne... stellen
+
+636
+00:26:54,500 --> 00:26:57,640
+und ich werde die dann beantworten.
+
+637
+00:27:05,340 --> 00:27:07,220
+Okay, wenn du keine Fragen hast, dann
+
+638
+00:27:07,220 --> 00:27:08,480
+bedanke ich mich recht herzlich für
+
+639
+00:27:08,480 --> 00:27:10,640
+deine Aufmerksamkeit und wünsche dir
+
+640
+00:27:10,640 --> 00:27:11,940
+noch einen schönen Abend. Du kannst
+
+641
+00:27:11,940 --> 00:27:13,140
+den Raum dann einfach verlassen,
+
+642
+00:27:13,140 --> 00:27:14,600
+einfach das Fenster schließen.
+
+643
+00:27:19,890 --> 00:27:20,290
+Danke!
+

@@ -1,0 +1,1540 @@
+1
+00:00:00,690 --> 00:00:02,870
+Hallo und herzlich willkommen zu dem
+
+2
+00:00:02,870 --> 00:00:05,310
+Webinar der Schülerhilfe. Ich bin die
+
+3
+00:00:05,310 --> 00:00:07,750
+Serena und heute sprechen wir über
+
+4
+00:00:07,750 --> 00:00:11,510
+Körper. Als allererstes würde ich
+
+5
+00:00:11,510 --> 00:00:13,530
+euch gerne fragen, in was für einer
+
+6
+00:00:13,530 --> 00:00:14,790
+Jagenstufe ihr seid.
+
+7
+00:00:18,810 --> 00:00:22,910
+Genau. Okay, also ganz, ganz wichtig
+
+8
+00:00:22,910 --> 00:00:25,230
+vorab. Mir ist es wichtig, dass ihr
+
+9
+00:00:25,230 --> 00:00:28,850
+aus dem Webinar rausgeht und etwas
+
+10
+00:00:28,850 --> 00:00:31,350
+dabei gelernt habt und auch alles
+
+11
+00:00:31,350 --> 00:00:33,110
+vollkommen verstanden habt. Das
+
+12
+00:00:33,110 --> 00:00:35,490
+heißt, dass ihr zu jedem Zeitpunkt
+
+13
+00:00:35,490 --> 00:00:38,470
+gerne Fragen stellen könnt oder auch,
+
+14
+00:00:38,490 --> 00:00:40,470
+wenn ihr irgendwie wollt, dass ich
+
+15
+00:00:40,470 --> 00:00:42,210
+etwas wiederhole oder wir nochmal
+
+16
+00:00:42,210 --> 00:00:44,590
+eine Aufgabe dazu machen, dann sagt
+
+17
+00:00:44,590 --> 00:00:46,490
+bitte einfach Bescheid. Ich bin für
+
+18
+00:00:46,490 --> 00:00:49,910
+alles offen. Genau, dann würde ich
+
+19
+00:00:49,910 --> 00:00:53,650
+sagen, wir legen los. Wie gesagt, ich
+
+20
+00:00:53,650 --> 00:00:55,950
+bin die Serena. Ich bin seit Juni bei
+
+21
+00:00:55,950 --> 00:00:59,070
+der Schülerhilfe und studiere
+
+22
+00:00:59,070 --> 00:01:00,870
+nebenbei noch Jura und
+
+23
+00:01:00,870 --> 00:01:04,590
+Politikwissenschaften. Also dann geht
+
+24
+00:01:04,590 --> 00:01:06,510
+es heute mit den Körpern los. Als
+
+25
+00:01:06,510 --> 00:01:08,270
+allererstes besprechen wir da den
+
+26
+00:01:08,270 --> 00:01:11,310
+Kegel, dann die Kugel und dann die
+
+27
+00:01:11,310 --> 00:01:12,370
+Pyramide.
+
+28
+00:01:14,880 --> 00:01:17,480
+So, unser erster Körper, der Kegel.
+
+29
+00:01:18,860 --> 00:01:21,180
+Bei dem Kegel ist es so, dass der
+
+30
+00:01:21,180 --> 00:01:25,260
+Kreis als unsere Grundfläche genutzt
+
+31
+00:01:25,260 --> 00:01:27,980
+wird. Dabei liegt die Spitze zentral
+
+32
+00:01:27,980 --> 00:01:30,080
+über dem Kreismittelpunkt und die
+
+33
+00:01:30,080 --> 00:01:31,880
+Mantelfläche verbindet eben die
+
+34
+00:01:31,880 --> 00:01:35,460
+Spitze und die Grundfläche. Das
+
+35
+00:01:35,460 --> 00:01:38,160
+Volumen des Kegels, das beträgt ein
+
+36
+00:01:38,160 --> 00:01:40,100
+Drittel des Volumens eines Zylinders
+
+37
+00:01:40,100 --> 00:01:42,960
+und so sieht dann eben unsere Formel
+
+38
+00:01:42,960 --> 00:01:45,400
+dementsprechend aus. Also V gleich
+
+39
+00:01:45,400 --> 00:01:50,180
+ein Drittel Pi mal R hoch 2 mal H. Da
+
+40
+00:01:50,180 --> 00:01:52,640
+wir eben nur ein Drittel des Volumens
+
+41
+00:01:52,640 --> 00:01:56,700
+des Zylinders für den Kegel wollen,
+
+42
+00:01:57,320 --> 00:01:59,700
+quasi, müssen wir hier ein Drittel
+
+43
+00:01:59,700 --> 00:02:03,160
+davor einsetzen. So, dann die
+
+44
+00:02:03,160 --> 00:02:04,880
+Oberfläche des Kegels. Diese besteht
+
+45
+00:02:04,880 --> 00:02:09,140
+aus einem Kreis als Grundfläche und
+
+46
+00:02:09,140 --> 00:02:11,360
+der Mantelfläche. Also einmal hier,
+
+47
+00:02:11,520 --> 00:02:14,020
+das ist unsere Grundfläche und das
+
+48
+00:02:14,020 --> 00:02:16,580
+hier ist unsere Mantelfläche. Die
+
+49
+00:02:16,580 --> 00:02:18,360
+Mantelfläche ist dabei ein
+
+50
+00:02:18,360 --> 00:02:21,180
+Kreisausschnitt, wie ihr hier seht.
+
+51
+00:02:21,280 --> 00:02:22,880
+Also ihr seht jetzt hier die
+
+52
+00:02:22,880 --> 00:02:25,440
+Mantelfläche aufgeklappt und das ist
+
+53
+00:02:25,440 --> 00:02:27,600
+eben nur ein Kreisausschnitt, denn
+
+54
+00:02:27,600 --> 00:02:28,900
+ein Kreis würde eigentlich noch hier
+
+55
+00:02:28,900 --> 00:02:32,680
+weitergehen. Genau. So, bei der
+
+56
+00:02:32,680 --> 00:02:34,100
+Grundfläche, die wird so berechnet,
+
+57
+00:02:34,240 --> 00:02:37,060
+indem wir Pi mal R hoch 2 berechnen.
+
+58
+00:02:37,220 --> 00:02:39,200
+Die Mantelfläche, da sieht die Formel
+
+59
+00:02:39,200 --> 00:02:42,540
+so aus, Pi mal R mal S. Und die
+
+60
+00:02:42,540 --> 00:02:44,220
+Gesamtfläche, dabei addieren wir dann
+
+61
+00:02:44,220 --> 00:02:45,640
+eben die beiden Flächen, die wir
+
+62
+00:02:45,640 --> 00:02:48,140
+gerade eben ausgerechnet haben. Also,
+
+63
+00:02:48,180 --> 00:02:50,080
+da kommt dann die Formel daraus. aus
+
+64
+00:02:50,080 --> 00:02:54,200
+Pi mal R hoch 2 plus Pi mal R mal S.
+
+65
+00:02:55,060 --> 00:02:57,800
+Also S ist eben hier die
+
+66
+00:02:57,800 --> 00:03:03,680
+Mantelfläche, also die Länge der
+
+67
+00:03:03,680 --> 00:03:06,420
+Mantelfläche, H ist die Höhe und R
+
+68
+00:03:06,420 --> 00:03:10,560
+ist der Radius der Grundfläche, also
+
+69
+00:03:10,560 --> 00:03:14,520
+des Kreises eben. So, bei der Kugel.
+
+70
+00:03:15,400 --> 00:03:17,580
+Die Eigenschaften der Kugel ist so,
+
+71
+00:03:17,660 --> 00:03:20,600
+dass eine Kugel eben erzeugt wird,
+
+72
+00:03:20,660 --> 00:03:22,460
+indem ein Kreis um seinen eigenen
+
+73
+00:03:22,460 --> 00:03:25,160
+Mittelpunkt rotiert wird. Dabei sind
+
+74
+00:03:25,160 --> 00:03:27,420
+die einzigen notwendigen Größen
+
+75
+00:03:27,420 --> 00:03:31,100
+nämlich der Radius. Weil der Radius
+
+76
+00:03:31,100 --> 00:03:33,100
+ist ja hier das gleiche und hier das
+
+77
+00:03:33,100 --> 00:03:35,780
+gleiche, hier oder auch hier. Also
+
+78
+00:03:35,780 --> 00:03:36,700
+das ist immer gleich, deswegen
+
+79
+00:03:36,700 --> 00:03:42,460
+brauchen wir einfach nur die Größe r.
+
+80
+00:03:43,360 --> 00:03:45,300
+So, wie berechnen wir den
+
+81
+00:03:45,300 --> 00:03:47,840
+Obenflächeninhalt einer Kugel? Wir
+
+82
+00:03:47,840 --> 00:03:51,180
+berechnen diesen, indem wir 4 mal Pi
+
+83
+00:03:51,180 --> 00:03:54,420
+mal r hoch 2 rechnen. Das Volumen
+
+84
+00:03:54,420 --> 00:03:57,560
+hingegen, dabei trippeln wir das
+
+85
+00:03:57,560 --> 00:04:00,160
+Ganze, hatten wir ja vorhin auch
+
+86
+00:04:00,160 --> 00:04:04,180
+schon, bei dem Volumen von einem
+
+87
+00:04:04,180 --> 00:04:07,080
+Kegel. Und das wird dann so aus 4
+
+88
+00:04:07,080 --> 00:04:09,580
+Drittel mal Pi mal R hoch 3. Ganz
+
+89
+00:04:09,580 --> 00:04:12,480
+wichtig, warum hoch 3? Weil wir
+
+90
+00:04:12,480 --> 00:04:15,060
+einmal hier hochgehen müssen, da zur
+
+91
+00:04:15,060 --> 00:04:18,780
+Seite und einmal runter. Weil ja das
+
+92
+00:04:18,780 --> 00:04:22,360
+Volumen eben, dabei werden dann 3
+
+93
+00:04:22,360 --> 00:04:23,860
+Seitenlängen miteinander
+
+94
+00:04:23,860 --> 00:04:27,360
+multipliziert und so wird das Ganze
+
+95
+00:04:27,360 --> 00:04:30,040
+dann zu Kubik. Kubikzentimetern oder
+
+96
+00:04:30,040 --> 00:04:34,260
+auch Kubikzentimetern. So, dann die
+
+97
+00:04:34,260 --> 00:04:36,980
+Pyramide. Bei der Pyramide sieht es
+
+98
+00:04:36,980 --> 00:04:39,840
+so aus, dass die Grundfläche die Form
+
+99
+00:04:39,840 --> 00:04:43,600
+eines Vierecks einnimmt. Einen
+
+100
+00:04:43,600 --> 00:04:45,100
+Moment, ich schreibe mir da kurz auf,
+
+101
+00:04:45,140 --> 00:04:46,620
+weil das ein Fehler ist. Es soll
+
+102
+00:04:46,620 --> 00:04:48,200
+nicht Viereck, sondern Viereck
+
+103
+00:04:48,200 --> 00:04:52,400
+heißen. Einen Moment. Auf der Folie
+
+104
+00:04:52,400 --> 00:04:52,600
+9.
+
+105
+00:04:56,030 --> 00:04:59,330
+Okay, gut. Dann ist es auch ganz
+
+106
+00:04:59,330 --> 00:05:00,850
+wichtig zu betonen, dass die
+
+107
+00:05:00,850 --> 00:05:02,870
+Mantelfläche dieser... setzt sich aus
+
+108
+00:05:02,870 --> 00:05:05,450
+Dreiecken zusammen. Also hier haben
+
+109
+00:05:05,450 --> 00:05:07,450
+wir eben die Mantelfläche und die
+
+110
+00:05:07,450 --> 00:05:08,550
+setzt sich dann aus diesen
+
+111
+00:05:08,550 --> 00:05:11,130
+verschiedenen Dreiecken zusammen.
+
+112
+00:05:13,130 --> 00:05:15,270
+Dann haben wir hier einmal die Spitze
+
+113
+00:05:15,270 --> 00:05:17,670
+und da treffen sich dann die ganzen
+
+114
+00:05:17,670 --> 00:05:19,330
+Mantelflächen, also die ganzen
+
+115
+00:05:19,330 --> 00:05:22,650
+Dreiecke, die enden dann quasi hier
+
+116
+00:05:22,650 --> 00:05:25,750
+oben an der Spitze. So, wie berechnet
+
+117
+00:05:25,750 --> 00:05:27,130
+man das Volumen der Pyramide? Das
+
+118
+00:05:27,130 --> 00:05:29,450
+Volumen beträgt ein Drittel des
+
+119
+00:05:29,450 --> 00:05:32,010
+Volumens eines Prismas. weil es ja
+
+120
+00:05:32,010 --> 00:05:33,270
+die gleiche Grundfläche noch hat.
+
+121
+00:05:33,770 --> 00:05:35,510
+Also müssen je nach Grundfläche
+
+122
+00:05:35,510 --> 00:05:37,310
+verschiedene Formeln benutzt werden,
+
+123
+00:05:37,470 --> 00:05:39,990
+um dann eben das Volumen der Pyramide
+
+124
+00:05:39,990 --> 00:05:42,110
+zu berechnen. Hier haben wir die
+
+125
+00:05:42,110 --> 00:05:45,190
+Formel dafür, 1 Drittel mal a von g
+
+126
+00:05:45,190 --> 00:05:49,450
+mal h. h ist hier unsere Höhe, das
+
+127
+00:05:49,450 --> 00:05:51,410
+heißt nämlich von der Grundfläche aus
+
+128
+00:05:51,410 --> 00:05:52,970
+im rechten Winkel hoch bis zur
+
+129
+00:05:52,970 --> 00:05:57,420
+Spitze. So, dann der obenrechte
+
+130
+00:05:57,420 --> 00:05:59,040
+Inhalt der Pyramide. Wie berechnen
+
+131
+00:05:59,040 --> 00:06:01,240
+wir den? Ganz wichtig vorab zu
+
+132
+00:06:01,240 --> 00:06:04,200
+erwähnen, dass je nach Grundfläche
+
+133
+00:06:04,200 --> 00:06:05,740
+ergeben sich nämlich verschiedene
+
+134
+00:06:05,740 --> 00:06:08,200
+viele Dreiecke als Mantelsnische.
+
+135
+00:06:09,180 --> 00:06:11,920
+Also wir können nämlich einmal hier
+
+136
+00:06:11,920 --> 00:06:16,420
+eben ein Quadrat haben, also ein
+
+137
+00:06:16,420 --> 00:06:19,520
+Viereck und haben dann hier zum
+
+138
+00:06:19,520 --> 00:06:22,240
+Beispiel eben vier Dreiecke. Man kann
+
+139
+00:06:22,240 --> 00:06:24,200
+aber auch eben nur drei Dreiecke
+
+140
+00:06:24,200 --> 00:06:28,960
+haben oder auch mehr. Das heißt also,
+
+141
+00:06:29,200 --> 00:06:30,860
+bei einer Quadratenpyramide, eben
+
+142
+00:06:30,860 --> 00:06:34,040
+hier, wären es dann vier konkurrente
+
+143
+00:06:34,040 --> 00:06:35,480
+Gleichschenklee-Dreiecke.
+
+144
+00:06:36,500 --> 00:06:38,320
+Gleichschenklee heißt einfach, dass
+
+145
+00:06:38,320 --> 00:06:39,840
+die beiden Seitenlänge gleich sind.
+
+146
+00:06:40,700 --> 00:06:44,820
+So, dann, um den Flächeninhalt des
+
+147
+00:06:44,820 --> 00:06:47,380
+einzelnen Dreiecks zu berechnen, muss
+
+148
+00:06:47,380 --> 00:06:50,040
+man dann h von a mal a durch 2
+
+149
+00:06:50,040 --> 00:06:51,920
+berechnen.
+
+150
+00:06:54,900 --> 00:06:57,360
+Also, ein ist dieser Dreieck. jetzt
+
+151
+00:06:57,360 --> 00:07:00,320
+berechnen. Dann die Mantelfläche aus
+
+152
+00:07:00,320 --> 00:07:01,560
+vier Dreiecken. Wie machen wir das
+
+153
+00:07:01,560 --> 00:07:04,560
+Ganze? Wir multiplizieren das einfach
+
+154
+00:07:04,560 --> 00:07:06,360
+einmal vier, weil wir eben vier
+
+155
+00:07:06,360 --> 00:07:08,000
+Dreiecke in diesem Fall haben.
+
+156
+00:07:08,920 --> 00:07:10,600
+Dadurch aber, dass wir hier unten
+
+157
+00:07:10,600 --> 00:07:12,400
+auch noch zwei haben, kürzt sich das
+
+158
+00:07:12,400 --> 00:07:13,480
+eben weg und dann bleibt nur noch
+
+159
+00:07:13,480 --> 00:07:15,800
+eine zwei übrig. Also leitet unsere
+
+160
+00:07:15,800 --> 00:07:19,900
+Formel 2 mal h von a mal Also die
+
+161
+00:07:19,900 --> 00:07:26,040
+Höhe von a und eben die Länge a. So,
+
+162
+00:07:26,140 --> 00:07:27,780
+dann wie berechnen wir die
+
+163
+00:07:27,780 --> 00:07:30,040
+Grundfläche? Dabei müssen wir einmal
+
+164
+00:07:30,040 --> 00:07:32,200
+einfach a mal a multiplizieren. Also
+
+165
+00:07:32,200 --> 00:07:33,960
+a mal a, weil das ja einfach ein
+
+166
+00:07:33,960 --> 00:07:35,980
+Quadrat ist und dabei müssen wir
+
+167
+00:07:35,980 --> 00:07:37,660
+einfach nur die zwei Seitenlängen
+
+168
+00:07:37,660 --> 00:07:39,520
+miteinander multiplizieren. Und
+
+169
+00:07:39,520 --> 00:07:41,740
+kommen dann zu dem Ergebnis a hoch 2.
+
+170
+00:07:42,260 --> 00:07:44,220
+Bei der Gesamtfläche sieht es so aus,
+
+171
+00:07:44,360 --> 00:07:47,200
+dass es die Summe aus der
+
+172
+00:07:47,200 --> 00:07:48,680
+Grundlänge... Mantelfläche ist. Also
+
+173
+00:07:48,680 --> 00:07:50,860
+einmal aus diesem Quadrat hier und
+
+174
+00:07:50,860 --> 00:07:54,700
+aus diesen vier Dreiecken. Und das
+
+175
+00:07:54,700 --> 00:07:56,180
+Ganze sieht dann so aus. Also wir
+
+176
+00:07:56,180 --> 00:07:59,220
+addieren die beiden Sachen quasi und
+
+177
+00:07:59,220 --> 00:08:02,460
+erhalten dann a hoch 2 plus 2 mal h
+
+178
+00:08:02,460 --> 00:08:07,150
+von a mal a. So, jetzt haben wir hier
+
+179
+00:08:07,150 --> 00:08:10,490
+eine Beispielaufgabe dafür. Auf einem
+
+180
+00:08:10,490 --> 00:08:12,110
+zylinderförmigen Turm mit einem
+
+181
+00:08:12,110 --> 00:08:14,170
+Umfang von 25 Metern soll ein
+
+182
+00:08:14,170 --> 00:08:16,490
+kegelförmiges Dach mit einer Höhe von
+
+183
+00:08:16,490 --> 00:08:19,690
+3 Metern gesetzt werden. Jetzt wollen
+
+184
+00:08:19,690 --> 00:08:21,410
+wir das Volumen des Dachraumes und
+
+185
+00:08:21,410 --> 00:08:23,430
+die Fläche des Daches berechnen, von
+
+186
+00:08:23,430 --> 00:08:28,100
+welchem es außen zu sehen ist. Also
+
+187
+00:08:28,100 --> 00:08:29,760
+wir haben hier einmal eben gegeben,
+
+188
+00:08:30,000 --> 00:08:35,540
+der Umfang 25 Meter und die Höhe 3
+
+189
+00:08:35,540 --> 00:08:39,680
+Meter. Was müssen wir machen? Also
+
+190
+00:08:39,680 --> 00:08:40,940
+wir müssen jetzt zuerst mal den
+
+191
+00:08:40,940 --> 00:08:43,440
+Radius des Kegels berechnen. Das
+
+192
+00:08:43,440 --> 00:08:49,080
+machen wir, indem wir eben die Formel
+
+193
+00:08:49,080 --> 00:08:51,320
+für den Umfang benutzen. und die dann
+
+194
+00:08:51,320 --> 00:08:53,140
+einfach umformen. Das sieht dann
+
+195
+00:08:53,140 --> 00:08:55,620
+nämlich so aus, r gleich u durch 2pi.
+
+196
+00:08:55,920 --> 00:08:58,360
+Dann setzen wir die ganzen bekannten
+
+197
+00:08:58,360 --> 00:09:00,740
+Größen ein, also hier 25 Meter in
+
+198
+00:09:00,740 --> 00:09:02,400
+diesem Fall. Wir wissen ja nämlich,
+
+199
+00:09:02,520 --> 00:09:04,740
+dass der Umfang so groß ist und
+
+200
+00:09:04,740 --> 00:09:06,520
+teilen das dann durch 2pi und
+
+201
+00:09:06,520 --> 00:09:11,040
+erhalten dann 3,98 Meter. So, dann
+
+202
+00:09:11,040 --> 00:09:14,520
+berechnen wollen wir das Volumen
+
+203
+00:09:14,520 --> 00:09:16,620
+berechnen, da wir jetzt den Radius
+
+204
+00:09:16,620 --> 00:09:18,980
+haben. haben. Die Formel für das
+
+205
+00:09:18,980 --> 00:09:22,520
+Volumen lautet 1 Drittel mal Pi mal R
+
+206
+00:09:22,520 --> 00:09:26,420
+hoch 2 mal H und da setzen wir dann
+
+207
+00:09:26,420 --> 00:09:30,040
+eben unsere neu bekannte Größe ein,
+
+208
+00:09:30,080 --> 00:09:31,520
+nämlich der Radius, oh
+
+209
+00:09:31,520 --> 00:09:32,820
+Entschuldigung, bin gerade eins
+
+210
+00:09:32,820 --> 00:09:36,420
+zurück und eben auch unsere andere
+
+211
+00:09:36,420 --> 00:09:39,720
+bekannte Größe, nämlich die Höhe und
+
+212
+00:09:39,720 --> 00:09:42,940
+erhalten dann als Volumen 49,76
+
+213
+00:09:42,940 --> 00:09:47,220
+Kubikmeter. Das heißt also, dass
+
+214
+00:09:47,220 --> 00:09:50,000
+unser Volumen des Dachraumes ca. 49
+
+215
+00:09:50,000 --> 00:09:55,280
+,76 m³ trägt. Jetzt haben wir also
+
+216
+00:09:55,280 --> 00:09:56,680
+einmal hier den Radius berechnet und
+
+217
+00:09:56,680 --> 00:10:00,500
+einmal das Volumen. So, jetzt wollen
+
+218
+00:10:00,500 --> 00:10:03,300
+wir aber auch noch die Fläche
+
+219
+00:10:03,300 --> 00:10:05,500
+berechnen. Dafür fehlt uns aber die
+
+220
+00:10:05,500 --> 00:10:10,140
+Dachschräge S. Dadurch aber, dass ein
+
+221
+00:10:10,140 --> 00:10:12,060
+rechtsextremiges Dreieck im Kegel
+
+222
+00:10:12,060 --> 00:10:14,300
+vorhanden ist, können wir dann die
+
+223
+00:10:14,300 --> 00:10:17,480
+Seitenlänge, also die Dachschräge S,
+
+224
+00:10:17,980 --> 00:10:20,840
+mit Hilfe des Satzes Pythagoras
+
+225
+00:10:20,840 --> 00:10:22,000
+berechnen. Also wir haben nämlich
+
+226
+00:10:22,000 --> 00:10:23,840
+hier einmal die Höhe und einmal den
+
+227
+00:10:23,840 --> 00:10:26,680
+Radius und können dann so ganz
+
+228
+00:10:26,680 --> 00:10:29,400
+einfach unsere Länge S berechnen. Das
+
+229
+00:10:29,400 --> 00:10:31,040
+machen wir, indem wir eben S hoch 2
+
+230
+00:10:31,040 --> 00:10:34,040
+gleich H hoch 2 plus R hoch 2, also
+
+231
+00:10:34,040 --> 00:10:35,700
+der typische Satz des Pythagoras,
+
+232
+00:10:36,420 --> 00:10:41,780
+rechnen, dann machen wir hier eine
+
+233
+00:10:41,780 --> 00:10:43,220
+Wurzel drüber, damit wir eben das
+
+234
+00:10:43,220 --> 00:10:45,880
+hoch 2 wegbekommen, setzen dann
+
+235
+00:10:45,880 --> 00:10:47,600
+unsere bekannten Größen hierfür ein,
+
+236
+00:10:47,660 --> 00:10:50,260
+einmal h und einmal r und erhalten
+
+237
+00:10:50,260 --> 00:10:54,560
+dann für S 4,98 Meter. Also haben wir
+
+238
+00:10:54,560 --> 00:10:56,540
+so, mit Hilfe des Satzes Pythagoras,
+
+239
+00:10:56,720 --> 00:11:01,750
+unsere Dachschräge S berechnet. So,
+
+240
+00:11:01,790 --> 00:11:03,830
+jetzt wollen wir also noch die
+
+241
+00:11:03,830 --> 00:11:05,910
+Mantelfläche berechnen. Die Fläche,
+
+242
+00:11:05,930 --> 00:11:07,710
+die also nur von außen gesehen wird.
+
+243
+00:11:08,910 --> 00:11:11,510
+Dabei lautet unsere Formel Pi mal R
+
+244
+00:11:11,510 --> 00:11:15,210
+mal S. Und da setzen wir jetzt auch
+
+245
+00:11:15,210 --> 00:11:18,810
+wieder einfach die bekannten Größen
+
+246
+00:11:18,810 --> 00:11:20,730
+ein. Einmal eben der Radius und
+
+247
+00:11:20,730 --> 00:11:23,650
+einmal die Dachschräge S. Die haben
+
+248
+00:11:23,650 --> 00:11:25,250
+wir jetzt eben gerade eben berechnet.
+
+249
+00:11:25,250 --> 00:11:28,110
+Und dann kommen wir zu dem Ergebnis
+
+250
+00:11:28,110 --> 00:11:34,030
+von 62,27 Quadratmeter. Das heißt
+
+251
+00:11:34,030 --> 00:11:35,630
+also, dass die von außen sichtbare
+
+252
+00:11:35,630 --> 00:11:40,650
+Fläche ca. 62,27 m² beträgt. Also das
+
+253
+00:11:40,650 --> 00:11:41,930
+hier ist unsere Mantelfläche.
+
+254
+00:11:44,250 --> 00:11:45,530
+So, jetzt haben wir noch eine
+
+255
+00:11:45,530 --> 00:11:47,330
+Beispielaufgabe. Bei dieser wollen
+
+256
+00:11:47,330 --> 00:11:49,190
+wir die Oberfläche und das Volumen
+
+257
+00:11:49,190 --> 00:11:52,450
+einer 20 m hohen quadratischen
+
+258
+00:11:52,450 --> 00:11:55,390
+Pyramide berechnen. Dabei beträgt die
+
+259
+00:11:55,390 --> 00:11:59,830
+Seitenlänge der Grundfläche 6 m, also
+
+260
+00:11:59,830 --> 00:12:03,230
+hier a gleich 6 m. Und dadurch, dass
+
+261
+00:12:03,230 --> 00:12:05,570
+die Pyramide quadratisch ist, so wie
+
+262
+00:12:05,570 --> 00:12:09,230
+es in der Aufgabe sagt, wissen wir
+
+263
+00:12:09,230 --> 00:12:12,310
+eben, dass alle Seiten gleich lang
+
+264
+00:12:12,310 --> 00:12:14,970
+sind, also alle Seiten jeweils 6 m
+
+265
+00:12:14,970 --> 00:12:20,810
+betragen. So, die Höhe beträgt 20 m,
+
+266
+00:12:21,350 --> 00:12:23,710
+also von der Grundfläche einmal im
+
+267
+00:12:23,710 --> 00:12:25,510
+rechten Winkel hoch bis zur Spitze
+
+268
+00:12:25,510 --> 00:12:28,370
+sind es 20 m. Was müssen wir jetzt
+
+269
+00:12:28,370 --> 00:12:30,590
+machen? Unser erster Schritt ist,
+
+270
+00:12:30,850 --> 00:12:35,190
+dass wir das Volumen berechnen. Dabei
+
+271
+00:12:35,190 --> 00:12:37,270
+wissen wir, dass die Grundfläche eben
+
+272
+00:12:37,270 --> 00:12:40,570
+ein Quadrat ist. Dadurch müssen wir
+
+273
+00:12:40,570 --> 00:12:42,890
+jetzt einfach nur a hoch 2 rechnen,
+
+274
+00:12:42,890 --> 00:12:47,550
+also 6 m hoch 2 sind dann 36 m². Das
+
+275
+00:12:47,550 --> 00:12:49,370
+heißt also, dass unsere Grundfläche
+
+276
+00:12:49,370 --> 00:12:54,730
+36 m² beträgt. So, unsere Formel für
+
+277
+00:12:54,730 --> 00:12:59,090
+das Volumen einer Pyramide ist ein
+
+278
+00:12:59,090 --> 00:13:02,150
+Drittel mal a von g mal h. Jetzt
+
+279
+00:13:02,150 --> 00:13:03,630
+setzen wir eben unsere bekannten
+
+280
+00:13:03,630 --> 00:13:05,210
+Größen ein, nämlich a mal die
+
+281
+00:13:05,210 --> 00:13:08,390
+Grundfläche, das sind 36
+
+282
+00:13:08,390 --> 00:13:10,810
+Quadratmeter, und a mal die 20 Meter
+
+283
+00:13:10,810 --> 00:13:12,630
+Höhe, die wir ja schon von vorhin
+
+284
+00:13:12,630 --> 00:13:16,310
+wissen. Und das Ganze ergibt dann 240
+
+285
+00:13:16,310 --> 00:13:19,650
+Kubikmeter. Das heißt also, dass das
+
+286
+00:13:19,650 --> 00:13:23,230
+Volumen der Pyramide 240 m³ beträgt.
+
+287
+00:13:24,590 --> 00:13:28,110
+So, dann wissen wir auch, dass der
+
+288
+00:13:28,110 --> 00:13:30,070
+Oberflächeninhalt sich einmal aus der
+
+289
+00:13:30,070 --> 00:13:31,670
+Grundfläche, also aus dem Quadrat
+
+290
+00:13:31,670 --> 00:13:35,190
+unten, dem Boden, zusammensetzt und
+
+291
+00:13:35,190 --> 00:13:37,070
+der Mantelfläche eben, also das
+
+292
+00:13:37,070 --> 00:13:39,190
+Außenrum, den Dreiecken.
+
+293
+00:13:41,670 --> 00:13:43,230
+Dabei berechnen wir jetzt eben auch,
+
+294
+00:13:43,310 --> 00:13:45,390
+wie die Grundfläche dadurch sehr,
+
+295
+00:13:45,390 --> 00:13:47,510
+sehr quadratisch ist. indem wir
+
+296
+00:13:47,510 --> 00:13:50,250
+einfach die Länge hoch 2 nehmen. Die
+
+297
+00:13:50,250 --> 00:13:52,150
+ist ja in diesen Voltexmeter und das
+
+298
+00:13:52,150 --> 00:13:57,530
+sind dann 36 Quadratmeter. Die
+
+299
+00:13:57,530 --> 00:13:59,170
+Mantelfläche setze ich aus den 4
+
+300
+00:13:59,170 --> 00:14:01,130
+gleichschichtigen Dreiecken zusammen.
+
+301
+00:14:02,970 --> 00:14:06,050
+Dabei brauchen wir jetzt eben die
+
+302
+00:14:06,050 --> 00:14:08,150
+Höhe von A, also von diesen
+
+303
+00:14:08,150 --> 00:14:12,410
+Dreiecken. Wie machen wir das? Das
+
+304
+00:14:12,410 --> 00:14:15,630
+machen wir, indem wir hier eben ein
+
+305
+00:14:15,630 --> 00:14:17,490
+rechtwägliches Dreieck innerhalb der
+
+306
+00:14:17,490 --> 00:14:19,830
+Pyramide bilden, also das hier. Weil
+
+307
+00:14:19,830 --> 00:14:22,610
+wir wollen ja diese Seite, wir haben
+
+308
+00:14:22,610 --> 00:14:25,050
+aber schon diese und diese, weil das
+
+309
+00:14:25,050 --> 00:14:27,430
+ist einmal die Höhe und diese Seite
+
+310
+00:14:27,430 --> 00:14:31,030
+ist einfach die Hälfte von einer
+
+311
+00:14:31,030 --> 00:14:34,050
+unserer Seiten der Grundfläche. Das
+
+312
+00:14:34,050 --> 00:14:36,610
+ist quasi wie der Radius. Also einmal
+
+313
+00:14:36,610 --> 00:14:39,110
+von hier bis zur Mitte. Und das sind
+
+314
+00:14:39,110 --> 00:14:43,010
+dann logischerweise 3 Meter. Das hier
+
+315
+00:14:43,010 --> 00:14:46,590
+ist unsere Formel dafür. Wir benutzen
+
+316
+00:14:46,590 --> 00:14:47,950
+jetzt nämlich einfach wieder den Satz
+
+317
+00:14:47,950 --> 00:14:50,970
+des Pythagoras, um eben diese Länge
+
+318
+00:14:50,970 --> 00:14:56,510
+hier zu berechnen. Also h von a hoch
+
+319
+00:14:56,510 --> 00:15:00,270
+2 gleich 0,5 a hoch 2 plus h hoch 2.
+
+320
+00:15:00,810 --> 00:15:02,230
+Dann setzen wir eben die
+
+321
+00:15:02,230 --> 00:15:04,050
+verschiedenen Größen wieder ein und
+
+322
+00:15:04,050 --> 00:15:05,950
+erhalten dann für diese Länge hier,
+
+323
+00:15:05,990 --> 00:15:10,370
+also h von a 20,22 Meter.
+
+324
+00:15:13,410 --> 00:15:16,640
+So, mit dieser Größe können wir dann
+
+325
+00:15:16,640 --> 00:15:19,620
+die Fläche des Dreiecks, also eines
+
+326
+00:15:19,620 --> 00:15:21,100
+Dreiecks der Mantelfläche berechnen.
+
+327
+00:15:21,460 --> 00:15:25,120
+Also, um das Dreieck zu berechnen,
+
+328
+00:15:25,140 --> 00:15:26,120
+setzen wir dann auch wieder die
+
+329
+00:15:26,120 --> 00:15:29,560
+ganzen Größen ein in diese Formel a
+
+330
+00:15:29,560 --> 00:15:32,420
+mal h von a durch 2, das ist unsere
+
+331
+00:15:32,420 --> 00:15:34,380
+Formel für die Berechnung des
+
+332
+00:15:34,380 --> 00:15:38,240
+Dreiecks und erhalten dann 20,22
+
+333
+00:15:38,240 --> 00:15:42,160
+Meter. 6,6 Quadratmeter. Jetzt wollen
+
+334
+00:15:42,160 --> 00:15:44,260
+wir die Mantelfläche und die gesamte
+
+335
+00:15:44,260 --> 00:15:47,460
+Oberflächeninhalte
+
+336
+00:15:47,460 --> 00:15:50,280
+berechnen. Wie machen wir das? Wir
+
+337
+00:15:50,280 --> 00:15:53,140
+machen einmal eben die Mantelfläche.
+
+338
+00:15:53,160 --> 00:15:55,000
+Die Mantelfläche müssen wir nämlich
+
+339
+00:15:55,000 --> 00:15:56,820
+dadurch, dass wir einmal jetzt ein
+
+340
+00:15:56,820 --> 00:15:59,840
+Dreieck schon berechnet haben, nehmen
+
+341
+00:15:59,840 --> 00:16:01,740
+wir das einfach mal 4, weil es ja 4
+
+342
+00:16:01,740 --> 00:16:04,080
+Dreiecke sind und kommen dann zum
+
+343
+00:16:04,080 --> 00:16:09,260
+Ergebnis von 242,64 Quadratmeter und
+
+344
+00:16:09,260 --> 00:16:11,540
+das ist dann nämlich unsere
+
+345
+00:16:11,540 --> 00:16:16,600
+Mantelfläche der Pyramide. So, jetzt
+
+346
+00:16:16,600 --> 00:16:17,960
+wollen wir aber den gesamten
+
+347
+00:16:17,960 --> 00:16:20,140
+Oberflächeninhalt berechnen. Also wir
+
+348
+00:16:20,140 --> 00:16:21,320
+haben jetzt einmal die Mantelfläche,
+
+349
+00:16:21,340 --> 00:16:22,960
+jetzt fehlt uns noch die Grundfläche.
+
+350
+00:16:23,040 --> 00:16:24,580
+Die hatten wir auch schon davor
+
+351
+00:16:24,580 --> 00:16:26,720
+berechnen und somit müssen wir das
+
+352
+00:16:26,720 --> 00:16:28,840
+Ganze einfach nur addieren. Also
+
+353
+00:16:28,840 --> 00:16:31,160
+einmal die Mantelfläche, also den
+
+354
+00:16:31,160 --> 00:16:33,800
+Flächeninhalt der Mantelfläche plus
+
+355
+00:16:33,800 --> 00:16:36,100
+den Flächeninhalt der Grundfläche.
+
+356
+00:16:36,260 --> 00:16:38,480
+Und dann kommen wir zum Ergebnis von
+
+357
+00:16:38,480 --> 00:16:43,640
+278,64 Quadratmeter. Das heißt also,
+
+358
+00:16:43,720 --> 00:16:45,400
+dass unser Oberflächeninhalt der
+
+359
+00:16:45,400 --> 00:16:50,180
+gesamten Pyramide 278,64 Quadratmeter
+
+360
+00:16:50,180 --> 00:16:54,230
+beträgt. So, das war es dann schon
+
+361
+00:16:54,230 --> 00:16:56,010
+auch für heute. Es hat mich sehr
+
+362
+00:16:56,010 --> 00:16:57,890
+gefreut, dass ihr dabei wart bei dem
+
+363
+00:16:57,890 --> 00:17:00,110
+Webinar der Schülerhilfe. Habt ihr da
+
+364
+00:17:00,110 --> 00:17:01,270
+noch irgendeine Frage?
+
+365
+00:17:06,910 --> 00:17:08,990
+Okay, solltet ihr keine Fragen mehr
+
+366
+00:17:08,990 --> 00:17:10,870
+haben, dann verabschiede ich mich.
+
+367
+00:17:10,890 --> 00:17:13,230
+ich hoffe, heute, aber nicht, bevor
+
+368
+00:17:13,230 --> 00:17:14,470
+ich euch noch auf das Online
+
+369
+00:17:14,470 --> 00:17:16,950
+-Lerncenter verweise. Dort könnt ihr
+
+370
+00:17:16,950 --> 00:17:18,930
+sehr gerne zu diesem Thema, aber auch
+
+371
+00:17:18,930 --> 00:17:22,050
+zu anderen Themen, Übungen machen und
+
+372
+00:17:22,050 --> 00:17:23,670
+dann euch auch selber kontrollieren,
+
+373
+00:17:23,810 --> 00:17:25,310
+denn es sind die dazugehörigen
+
+374
+00:17:25,310 --> 00:17:29,510
+Lösungen dabei. Es gibt da eben unter
+
+375
+00:17:29,510 --> 00:17:31,610
+anderem die Fächer Mathe, wie auch
+
+376
+00:17:31,610 --> 00:17:33,770
+Englisch oder auch Deutsch. Also
+
+377
+00:17:33,770 --> 00:17:34,730
+könnt ihr gerne einfach mal
+
+378
+00:17:34,730 --> 00:17:36,950
+vorbeischauen und dann dort ein paar
+
+379
+00:17:36,950 --> 00:17:39,290
+Arbeitsblätter bearbeiten. Vielen
+
+380
+00:17:39,290 --> 00:17:40,890
+Dank für... eure Aufmerksamkeit und
+
+381
+00:17:40,890 --> 00:17:43,870
+dass ihr eben da wart. Das waren drei
+
+382
+00:17:43,870 --> 00:17:46,430
+verschiedene Körper für euch. Ich
+
+383
+00:17:46,430 --> 00:17:47,890
+wünsche euch einen schönen Abend und
+
+384
+00:17:47,890 --> 00:17:49,250
+ich verabschiede mich für heute.
+
+385
+00:17:49,730 --> 00:17:50,470
+Macht's gut!
+

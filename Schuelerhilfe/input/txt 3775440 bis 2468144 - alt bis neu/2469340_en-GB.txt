@@ -1,0 +1,643 @@
+﻿1
+00:00:04,210 --> 00:00:06,750
+Hello, my name is Joshua and I 
+
+2
+00:00:06,750 --> 00:00:07,930
+am a tutor 
+
+3
+00:00:07,930 --> 00:00:10,050
+at Schülerhilfe. 
+
+4
+00:00:10,050 --> 00:00:12,070
+Today I 'm happy to 
+
+5
+00:00:12,130 --> 00:00:14,230
+
+6
+00:00:14,230 --> 00:00:16,570
+explain the topic of valence line 
+formulas, single and multiple bonds to 
+you. In addition to this video, 
+
+7
+00:00:16,570 --> 00:00:17,710
+you can also 
+
+8
+00:00:17,710 --> 00:00:19,390
+ find a wiki 
+
+9
+00:00:19,390 --> 00:00:21,230
+on this topic in our online learning 
+center, where 
+
+10
+00:00:21,230 --> 00:00:22,490
+the most important terms and 
+
+11
+00:00:22,490 --> 00:00:25,410
+basics are explained. As a 
+
+12
+00:00:25,410 --> 00:00:27,470
+reminder, valence electrons are the 
+
+13
+00:00:27,470 --> 00:00:29,430
+outer electrons of an atom, which are 
+
+14
+00:00:29,430 --> 00:00:31,410
+located in the outermost shell and 
+
+15
+00:00:31,410 --> 00:00:32,770
+
+16
+00:00:32,770 --> 00:00:34,410
+are involved in bonds between atoms . In 
+the 
+
+17
+00:00:34,410 --> 00:00:36,070
+main group elements, the 
+
+18
+00:00:36,070 --> 00:00:37,910
+main group number, i.e. the 
+
+19
+00:00:37,910 --> 00:00:40,970
+columns from 1 to 8, corresponds to the 
+number of 
+
+20
+00:00:40,970 --> 00:00:42,850
+valence electrons. These 
+
+21
+00:00:42,850 --> 00:00:44,470
+valence electrons can be 
+
+22
+00:00:44,470 --> 00:00:46,530
+easily 
+
+23
+00:00:46,530 --> 00:00:48,490
+represented using the valence-dash line 
+notation . 
+
+24
+00:00:48,490 --> 00:00:50,470
+A dot symbolizes one electron 
+
+25
+00:00:50,470 --> 00:00:53,190
+and a dash two electrons, which are 
+
+26
+00:00:53,190 --> 00:00:54,850
+to be regarded as an electron pair. 
+
+27
+00:00:54,850 --> 00:00:57,830
+Now all atoms strive for a 
+
+28
+00:00:57,830 --> 00:01:00,210
+completely filled outer shell, the 
+
+29
+00:01:00,210 --> 00:01:03,230
+so-called noble gas configuration. To 
+
+30
+00:01:03,230 --> 00:01:04,870
+achieve this goal, 
+
+31
+00:01:04,870 --> 00:01:06,310
+
+32
+00:01:06,310 --> 00:01:08,130
+electron pair bonds can be 
+
+33
+00:01:08,130 --> 00:01:09,770
+formed between the bonding partners in 
+addition to ion formation. 
+
+34
+00:01:10,590 --> 00:01:12,210
+In an electron pair bond, 
+
+35
+00:01:12,210 --> 00:01:13,770
+the bonding partners 
+
+36
+00:01:13,770 --> 00:01:15,770
+share electron pairs in order to 
+
+37
+00:01:15,770 --> 00:01:17,010
+
+38
+00:01:17,010 --> 00:01:19,410
+
+39
+00:01:19,410 --> 00:01:22,870
+carry the full number of electrons in the 
+outer shell , i.e. usually 8. Questions. 
+
+40
+00:01:22,870 --> 00:01:25,190
+When atoms of the same element join 
+together , they form 
+
+41
+00:01:25,190 --> 00:01:26,910
+as many electron pair bonds 
+
+42
+00:01:26,910 --> 00:01:29,310
+between each other as each atom 
+
+43
+00:01:29,310 --> 00:01:31,390
+
+44
+00:01:31,390 --> 00:01:34,750
+lacks valence electrons to achieve the 
+noble gas configuration. 
+
+45
+00:01:34,750 --> 00:01:37,550
+
+46
+00:01:37,550 --> 00:01:39,670
+
+47
+00:01:39,670 --> 00:01:41,430
+There is a 
+
+48
+00:01:41,430 --> 00:01:43,610
+single bond between the chlorine atoms of 
+the biatomic molecule , i.e. a chlorine 
+molecule consisting of two atoms . This is 
+
+49
+00:01:43,610 --> 00:01:45,550
+
+50
+00:01:45,550 --> 00:01:46,630
+
+51
+00:01:46,630 --> 00:01:47,990
+
+52
+00:01:48,310 --> 00:01:51,210
+represented in the valence line notation 
+by a line, which stands for the electron 
+pair bond. Through the bond, 
+
+53
+00:01:51,210 --> 00:01:52,730
+both atoms reach the 
+
+54
+00:01:52,730 --> 00:01:54,830
+noble gas configuration, in this case the 
+
+55
+00:01:54,830 --> 00:01:56,970
+electron configuration of argon. 
+
+56
+00:01:57,810 --> 00:02:00,310
+
+57
+00:02:00,310 --> 00:02:02,250
+ There is a so-called 
+
+58
+00:02:02,250 --> 00:02:04,290
+double bond between the oxygen atoms of 
+the O2 molecule . This gives 
+
+59
+00:02:04,290 --> 00:02:05,130
+oxygen the 
+
+60
+00:02:05,130 --> 00:02:07,270
+electron configuration of neon 
+
+61
+00:02:07,310 --> 00:02:09,550
+, just like nitrogen, where 
+
+62
+00:02:09,550 --> 00:02:11,750
+
+63
+00:02:11,750 --> 00:02:13,550
+ a triple bond 
+
+64
+00:02:13,550 --> 00:02:15,570
+is formed between the nitrogen atoms of 
+the N2 molecule . 
+
+65
+00:02:15,570 --> 00:02:17,250
+
+66
+00:02:17,250 --> 00:02:20,130
+However, more than a triple bond is not 
+possible between two atoms. 
+
+67
+00:02:20,130 --> 00:02:21,470
+
+68
+00:02:21,470 --> 00:02:23,030
+
+69
+00:02:23,030 --> 00:02:23,750
+
+70
+00:02:23,750 --> 00:02:25,570
+
+71
+00:02:25,570 --> 00:02:28,710
+Valence line formulas can also be easily 
+established for bonds between atoms of 
+different elements due to their electron 
+configuration . 
+
+72
+00:02:28,710 --> 00:02:30,270
+When hydrogen and 
+
+73
+00:02:30,270 --> 00:02:32,690
+oxygen are combined , H2O is formed 
+because 
+
+74
+00:02:32,690 --> 00:02:33,890
+oxygen needs two 
+
+75
+00:02:33,890 --> 00:02:35,790
+electron pair bonds to 
+
+76
+00:02:35,790 --> 00:02:38,450
+fill up to 8 outer electrons. A 
+
+77
+00:02:38,450 --> 00:02:40,030
+hydrogen atom can only 
+
+78
+00:02:40,030 --> 00:02:41,910
+form one electron bond, as 
+
+79
+00:02:41,910 --> 00:02:43,990
+each atom only has one electron. 
+
+80
+00:02:44,310 --> 00:02:46,090
+For this reason, an 
+
+81
+00:02:46,090 --> 00:02:48,530
+oxygen atom binds two hydrogen atoms. 
+
+82
+00:02:49,090 --> 00:02:50,890
+Oxygen reaches the configuration 
+
+83
+00:02:50,890 --> 00:02:53,210
+of neon and hydrogen that of 
+
+84
+00:02:53,210 --> 00:02:56,970
+helium. If we combine carbon and 
+
+85
+00:02:56,970 --> 00:03:00,010
+oxygen to form CO2, we see that 
+
+86
+00:03:00,010 --> 00:03:01,650
+the carbon atoms 
+
+87
+00:03:01,650 --> 00:03:03,150
+
+88
+00:03:03,150 --> 00:03:05,790
+must each form two double bonds with the 
+oxygen atoms. In the case of 
+
+89
+00:03:05,790 --> 00:03:07,950
+carbon, which as an atom 
+
+90
+00:03:07,950 --> 00:03:10,050
+
+91
+00:03:10,050 --> 00:03:12,330
+had one bar and two dots in the valence 
+bar notation 
+
+92
+00:03:12,330 --> 00:03:14,130
+, the bar is transformed into two 
+
+93
+00:03:14,130 --> 00:03:16,690
+dots for bonding , as carbon 
+
+94
+00:03:16,690 --> 00:03:17,730
+must have four bonds in order 
+
+95
+00:03:17,730 --> 00:03:19,810
+to achieve the noble gas configuration 
+
+96
+00:03:19,810 --> 00:03:22,330
+. This means that carbon atoms 
+
+97
+00:03:22,330 --> 00:03:24,510
+can 
+
+98
+00:03:24,510 --> 00:03:26,870
+bind between two and four atoms , 
+depending on which bond, 
+
+99
+00:03:26,930 --> 00:03:29,010
+single or multiple, you 
+
+100
+00:03:29,010 --> 00:03:31,570
+form with the bonding partners. For 
+
+101
+00:03:31,570 --> 00:03:33,410
+a given molecular formula, 
+
+102
+00:03:33,410 --> 00:03:35,190
+the valence bar notation helps to 
+
+103
+00:03:35,190 --> 00:03:36,950
+
+104
+00:03:36,950 --> 00:03:39,210
+establish the structural formula , taking 
+into account the octet rule . The 
+
+105
+00:03:39,210 --> 00:03:41,410
+octet rule states that the atoms of 
+
+106
+00:03:41,410 --> 00:03:43,170
+all elements with the exception of 
+
+107
+00:03:43,170 --> 00:03:46,170
+hydrogen and helium 
+
+108
+00:03:46,170 --> 00:03:47,910
+
+109
+00:03:47,970 --> 00:03:50,010
+
+110
+00:03:50,010 --> 00:03:53,030
+strive for 8 electrons in their outer 
+shell , the Latin word for this is octo . 
+Let's take a look at this using 
+
+111
+00:03:53,030 --> 00:03:56,810
+a few examples. Ethane with 
+
+112
+00:03:56,810 --> 00:03:59,610
+the molecular formula C2H6 can only 
+
+113
+00:03:59,610 --> 00:04:02,090
+have the following structure. 
+
+114
+00:04:02,090 --> 00:04:03,670
+Four 
+
+115
+00:04:03,670 --> 00:04:05,910
+single bonds emanate from each carbon atom 
+. There are four 
+
+116
+00:04:05,910 --> 00:04:08,670
+lines attached to each C. Six of these 
+
+117
+00:04:08,670 --> 00:04:10,050
+single bonds go to the 
+
+118
+00:04:10,050 --> 00:04:13,050
+hydrogen atoms. In ethene with the 
+
+119
+00:04:13,050 --> 00:04:15,670
+formula C2H4 
+
+120
+00:04:15,670 --> 00:04:17,410
+, there is a double bond between the 
+carbon atoms 
+
+121
+00:04:17,410 --> 00:04:18,950
+so that they 
+
+122
+00:04:18,950 --> 00:04:21,890
+reach the noble gas configuration. 
+
+123
+00:04:21,890 --> 00:04:24,930
+Ethyne with C2H2 even has a 
+
+124
+00:04:24,930 --> 00:04:26,450
+triple bond between the 
+
+125
+00:04:26,450 --> 00:04:29,510
+carbon atoms. Formic acid with 
+
+126
+00:04:29,510 --> 00:04:34,310
+the molecular formula CH2O2 or CHOOH 
+
+127
+00:04:34,310 --> 00:04:37,910
+looks like this. The four-bond 
+
+128
+00:04:37,910 --> 00:04:39,530
+carbon has a single bond to 
+
+129
+00:04:39,530 --> 00:04:40,870
+one hydrogen and one 
+
+130
+00:04:40,870 --> 00:04:42,630
+oxygen, which 
+
+131
+00:04:42,630 --> 00:04:44,450
+
+132
+00:04:44,450 --> 00:04:46,930
+shares a second electron pair bond with 
+the second hydrogen atom, as well as a 
+
+133
+00:04:46,930 --> 00:04:48,590
+double bond to the second 
+
+134
+00:04:48,590 --> 00:04:51,430
+oxygen atom. In this way, all 
+
+135
+00:04:51,430 --> 00:04:54,570
+atoms achieve the noble gas configuration. 
+In 
+
+136
+00:04:54,570 --> 00:04:58,050
+formaldehyde with the formula CH2O 
+
+137
+00:04:58,050 --> 00:04:59,850
+, the carbon atom forms single bonds 
+
+138
+00:04:59,850 --> 00:05:01,830
+to the two hydrogen atoms 
+
+139
+00:05:01,830 --> 00:05:03,750
+and a double bond to 
+
+140
+00:05:03,750 --> 00:05:07,130
+oxygen. Acetonitrile with the 
+
+141
+00:05:07,130 --> 00:05:09,610
+sum formula CH3CN shows a 
+
+142
+00:05:09,610 --> 00:05:11,270
+triple bond between nitrogen 
+
+143
+00:05:11,270 --> 00:05:13,970
+and one carbon atom. The other 
+
+144
+00:05:13,970 --> 00:05:15,910
+carbon atom has four 
+
+145
+00:05:15,910 --> 00:05:17,710
+single bonds, three to the 
+
+146
+00:05:17,710 --> 00:05:20,050
+hydrogen atoms and one to the CN 
+
+147
+00:05:20,050 --> 00:05:22,850
+ group. Thank you for your 
+
+148
+00:05:22,850 --> 00:05:24,710
+attention. I hope this 
+
+149
+00:05:24,710 --> 00:05:26,350
+video has 
+
+150
+00:05:26,350 --> 00:05:28,090
+
+151
+00:05:28,090 --> 00:05:30,130
+contributed to your understanding of the 
+topic of valence bond formulas . In order 
+to 
+
+152
+00:05:30,130 --> 00:05:32,010
+deepen the content even more, 
+
+153
+00:05:32,010 --> 00:05:33,590
+ there are of course other 
+
+154
+00:05:33,590 --> 00:05:36,250
+offers available to you in the Online 
+Learning Center. For example, 
+
+155
+00:05:36,250 --> 00:05:37,930
+we have interactive tasks, 
+
+156
+00:05:37,950 --> 00:05:39,770
+worksheets and webinars in which 
+
+157
+00:05:39,770 --> 00:05:41,210
+our tutors 
+
+158
+00:05:41,210 --> 00:05:42,350
+
+159
+00:05:42,350 --> 00:05:43,350
+explain various topics in more detail. 

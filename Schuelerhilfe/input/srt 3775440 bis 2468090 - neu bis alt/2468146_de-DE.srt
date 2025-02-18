@@ -1,0 +1,2080 @@
+1
+00:00:00,530 --> 00:00:02,390
+Hallo und herzlich willkommen zum
+
+2
+00:00:02,390 --> 00:00:04,690
+Webinar der Schülerhilfe. Heute
+
+3
+00:00:04,690 --> 00:00:06,710
+beschäftigen wir uns mit der Analyse
+
+4
+00:00:06,710 --> 00:00:08,990
+einer politischen Rede. Dazu schauen
+
+5
+00:00:08,990 --> 00:00:10,690
+wir uns an, was die politische Rede
+
+6
+00:00:10,690 --> 00:00:13,870
+ist, was grundsätzliches bei Analyse
+
+7
+00:00:13,870 --> 00:00:19,950
+von Sachtexten und Reden zu sagen
+
+8
+00:00:19,950 --> 00:00:22,390
+ist, wie die Methodik und
+
+9
+00:00:22,390 --> 00:00:24,590
+Vorbereitung einer schriftlichen
+
+10
+00:00:24,590 --> 00:00:26,710
+Analyse anzufertigen ist, also welche
+
+11
+00:00:26,710 --> 00:00:30,970
+Methodik dabei ratsam ist, wie die
+
+12
+00:00:30,970 --> 00:00:33,130
+Aufbauanalyse gestaltet sein sollte
+
+13
+00:00:33,130 --> 00:00:35,570
+und was wir zur Sprache und den
+
+14
+00:00:35,570 --> 00:00:36,970
+rhetorischen Mitteln wissen müssen,
+
+15
+00:00:37,110 --> 00:00:39,170
+um eine gute Analyse anfertigen zu
+
+16
+00:00:39,170 --> 00:00:41,630
+können. Die politische Rede wendet
+
+17
+00:00:41,630 --> 00:00:43,230
+sich zu einem bestimmten Anlass mit
+
+18
+00:00:43,230 --> 00:00:45,150
+einer bestimmten Absicht an einen
+
+19
+00:00:45,150 --> 00:00:47,430
+bestimmten Adressaten. Das heißt, in
+
+20
+00:00:47,430 --> 00:00:49,650
+den meisten Fällen ist es ein Anlass,
+
+21
+00:00:49,670 --> 00:00:51,930
+eine Debatte, ein Amtsantritt, eine
+
+22
+00:00:51,930 --> 00:00:53,130
+Amtseinführung, Amtseinführung, eine
+
+23
+00:00:53,130 --> 00:00:56,310
+Amtsenthebung, eine politische
+
+24
+00:00:56,310 --> 00:01:00,670
+Diskussion oder auch ein Anlass zu
+
+25
+00:01:00,670 --> 00:01:03,390
+einem aktuellen Ereignis, wie zum
+
+26
+00:01:03,390 --> 00:01:05,650
+Beispiel Kriegsbeginn oder
+
+27
+00:01:05,650 --> 00:01:08,430
+Terroranschlag oder einer Krise.
+
+28
+00:01:08,750 --> 00:01:10,430
+Grundsätzlich ist der Text zum
+
+29
+00:01:10,430 --> 00:01:12,970
+mündlichen Gebrauch zu verwenden. Er
+
+30
+00:01:12,970 --> 00:01:14,330
+basiert in erster Linie nicht auf
+
+31
+00:01:14,330 --> 00:01:15,890
+Fakten, Informationen und
+
+32
+00:01:15,890 --> 00:01:19,430
+Sachargumenten, sondern er stellt vor
+
+33
+00:01:19,430 --> 00:01:20,930
+allen Dingen die Beeinflussung des
+
+34
+00:01:20,930 --> 00:01:22,490
+Zugehörigen, in den Vordergrund.
+
+35
+00:01:24,290 --> 00:01:26,850
+Grundsätzlich lebt eine Rede auch von
+
+36
+00:01:26,850 --> 00:01:28,750
+der Reaktion des Adressaten. Das
+
+37
+00:01:28,750 --> 00:01:32,910
+heißt, die Rückmeldung über das
+
+38
+00:01:32,910 --> 00:01:35,010
+Gesagte erfolgt unmittelbar. Das
+
+39
+00:01:35,010 --> 00:01:36,970
+heißt, über Zurufe zwischen Fragen
+
+40
+00:01:36,970 --> 00:01:40,690
+oder über nonverbale Äußerungen, die
+
+41
+00:01:40,690 --> 00:01:43,670
+sich in Mimikgestik äußern, wie zum
+
+42
+00:01:43,670 --> 00:01:45,570
+Beispiel Gehen oder eine allgemeine
+
+43
+00:01:45,570 --> 00:01:49,590
+Unruhe. Das Ziel einer politischen
+
+44
+00:01:49,590 --> 00:01:50,970
+Rede ist die Zustimmung und
+
+45
+00:01:50,970 --> 00:01:53,330
+Überzeugung der Hörer von den eigenen
+
+46
+00:01:53,330 --> 00:01:57,660
+Absichten. Es gibt drei Bereiche, die
+
+47
+00:01:57,660 --> 00:02:00,920
+gemäß der antiken Rhetorik vom Redner
+
+48
+00:02:00,920 --> 00:02:02,460
+berücksichtigt werden müssen. Und
+
+49
+00:02:02,460 --> 00:02:04,860
+zwar ist es so, der Redner soll
+
+50
+00:02:04,860 --> 00:02:07,820
+belehren und beweisen, dokere und
+
+51
+00:02:07,820 --> 00:02:10,020
+probare, gewinnen und erfreuen,
+
+52
+00:02:10,060 --> 00:02:12,780
+conciliare e delectare, bewegen und
+
+53
+00:02:12,780 --> 00:02:14,840
+aufschachteln, morvere e concitare.
+
+54
+00:02:16,000 --> 00:02:18,520
+Allgemein ist es so, die heutige
+
+55
+00:02:18,520 --> 00:02:21,960
+Rhetorik fußt auf der Spracherziehung
+
+56
+00:02:21,960 --> 00:02:23,780
+und der Vortragskunst. Die antike
+
+57
+00:02:23,780 --> 00:02:27,040
+Rhetorik umfasst den gesamten Prozess
+
+58
+00:02:27,040 --> 00:02:28,400
+der Wissensvermittlung, der
+
+59
+00:02:28,400 --> 00:02:29,800
+Wissensverarbeitung und der
+
+60
+00:02:29,800 --> 00:02:34,460
+Wissensweitergabe. Es gibt viele
+
+61
+00:02:34,460 --> 00:02:36,300
+berühmte Reden, dazu gehören zum
+
+62
+00:02:36,300 --> 00:02:39,260
+Beispiel Blutschweiß und Tränen, die
+
+63
+00:02:39,260 --> 00:02:44,980
+Winston Churchill als Aufruf des das
+
+64
+00:02:44,980 --> 00:02:50,420
+sich an das britische Volk gewendet
+
+65
+00:02:50,420 --> 00:02:55,200
+hat, um
+
+66
+00:02:55,200 --> 00:02:57,880
+zum Widerstand gegen den
+
+67
+00:02:57,880 --> 00:03:01,020
+Nationalsozialismus in Deutschland
+
+68
+00:03:01,020 --> 00:03:04,840
+aufzurufen. Drei Jahre später hat
+
+69
+00:03:04,840 --> 00:03:07,760
+Josef Goebbels, wollte den totalen
+
+70
+00:03:07,760 --> 00:03:09,880
+Krieg gehalten. Das ist der Aufruf
+
+71
+00:03:09,880 --> 00:03:11,120
+und die Mobilisierung aller
+
+72
+00:03:11,120 --> 00:03:13,880
+Deutschen. um in den Krieg zu ziehen
+
+73
+00:03:13,880 --> 00:03:16,760
+für Deutschland. John F. Kennedy's
+
+74
+00:03:16,760 --> 00:03:19,800
+Ich bin ein Berliner Rede war ein
+
+75
+00:03:19,800 --> 00:03:23,220
+großer Beitrag zur Solidarisierung
+
+76
+00:03:23,220 --> 00:03:27,120
+zwischen Europa und Westdeutschland.
+
+77
+00:03:27,240 --> 00:03:29,000
+Im Grunde genommen einer der
+
+78
+00:03:29,000 --> 00:03:30,940
+Schlüsselpunkte der deutsch
+
+79
+00:03:30,940 --> 00:03:33,260
+-amerikanischen Freundschaft. Zudem
+
+80
+00:03:33,260 --> 00:03:36,420
+haben wir Martin Luther King. In
+
+81
+00:03:36,420 --> 00:03:38,760
+seiner I Have a Dream-Rede wendet er
+
+82
+00:03:38,760 --> 00:03:42,920
+sich gegen den Rassismus in Amerika.
+
+83
+00:03:43,120 --> 00:03:46,480
+Dieser Mann wurde erschossen. Barack
+
+84
+00:03:46,480 --> 00:03:48,440
+Obama als erster amerikanischer
+
+85
+00:03:48,440 --> 00:03:51,420
+Präsident mit schwarzer Hautfarbe,
+
+86
+00:03:51,420 --> 00:03:54,720
+der mobilisiert für einen Aufbruch in
+
+87
+00:03:54,720 --> 00:03:57,640
+ein modernes Amerika und Lady
+
+88
+00:03:57,640 --> 00:04:02,500
+Thatchers Aufruf zur Macht der Frau.
+
+89
+00:04:02,700 --> 00:04:04,720
+Politische Reden erfolgen. Sie
+
+90
+00:04:04,720 --> 00:04:06,140
+fordern ein hohes Maß an
+
+91
+00:04:06,140 --> 00:04:08,040
+geschichtlichem und kontextuellem
+
+92
+00:04:08,040 --> 00:04:10,240
+Wissen, um die Intention, die
+
+93
+00:04:10,240 --> 00:04:11,280
+Adressaten und die
+
+94
+00:04:11,280 --> 00:04:12,840
+gesellschaftlichen, politischen und
+
+95
+00:04:12,840 --> 00:04:15,980
+historischen Kontext einzuordnen und
+
+96
+00:04:15,980 --> 00:04:19,360
+die Redner eloquent überzeugen zu
+
+97
+00:04:19,360 --> 00:04:22,460
+können. Demnach ist eine Analyse der
+
+98
+00:04:22,460 --> 00:04:24,960
+Rede sehr wichtig, denn sie fußt
+
+99
+00:04:24,960 --> 00:04:27,160
+nicht ausschließlich auf formalen und
+
+100
+00:04:27,160 --> 00:04:29,400
+inhaltlichen Kriterien, sondern
+
+101
+00:04:29,400 --> 00:04:33,200
+ebenso sehr auf der Kontextualität.
+
+102
+00:04:33,720 --> 00:04:36,620
+der Rede. Schauen wir uns die
+
+103
+00:04:36,620 --> 00:04:39,920
+Grundlagen einer Analyse zu
+
+104
+00:04:39,920 --> 00:04:41,500
+Sachtexten an oder zu einer
+
+105
+00:04:41,500 --> 00:04:43,880
+politischen Rede. Typische
+
+106
+00:04:43,880 --> 00:04:47,320
+Aufgabenstellungen sind, untersuchen
+
+107
+00:04:47,320 --> 00:04:49,040
+Sie die vorliegende Rede im Hinblick
+
+108
+00:04:49,040 --> 00:04:50,780
+auf die Situation und den Aufbau,
+
+109
+00:04:50,960 --> 00:04:53,060
+erarbeiten Sie die Argumentation des
+
+110
+00:04:53,060 --> 00:04:54,920
+Redners, untersuchen Sie die Rede im
+
+111
+00:04:54,920 --> 00:04:56,460
+Hinblick auf Argumentation und
+
+112
+00:04:56,460 --> 00:04:58,340
+rhetorische Mittel, erläutern Sie
+
+113
+00:04:58,340 --> 00:05:00,280
+ihre Wirkung. Wichtig ist ist bei
+
+114
+00:05:00,280 --> 00:05:01,280
+allen Dingen, dass es
+
+115
+00:05:01,280 --> 00:05:02,820
+unterschiedliche Schwerpunkte gibt.
+
+116
+00:05:02,960 --> 00:05:04,280
+Bei dem einen ist es wichtig, die
+
+117
+00:05:04,280 --> 00:05:06,320
+Argumentation zu analysieren. Bei der
+
+118
+00:05:06,320 --> 00:05:08,620
+anderen ist es wichtig, die Sprache
+
+119
+00:05:08,620 --> 00:05:09,900
+zu analysieren, das heißt die
+
+120
+00:05:09,900 --> 00:05:11,100
+rhetorischen Mittel und deren
+
+121
+00:05:11,100 --> 00:05:13,880
+Verwendung in Anknüpfung an deren
+
+122
+00:05:13,880 --> 00:05:14,560
+Absichten.
+
+123
+00:05:17,420 --> 00:05:19,640
+Und bei der ersten Aufgabe ist es
+
+124
+00:05:19,640 --> 00:05:21,280
+sehr wichtig, dass man die Anordnung
+
+125
+00:05:21,280 --> 00:05:23,820
+und die Gewichtung der Argumente
+
+126
+00:05:23,820 --> 00:05:26,220
+analysiert, genau analysiert. Das
+
+127
+00:05:26,220 --> 00:05:27,700
+bedeutet nicht, dass die einzelnen
+
+128
+00:05:27,700 --> 00:05:29,300
+Aspekte, die ich gerade aufzeigte,
+
+129
+00:05:29,320 --> 00:05:31,020
+nicht beachtet werden sollen. Man
+
+130
+00:05:31,020 --> 00:05:32,460
+sollte dann nur unterschiedliche
+
+131
+00:05:32,460 --> 00:05:35,580
+Schwerpunkte setzen, die in der
+
+132
+00:05:35,580 --> 00:05:37,380
+Aufgabenstellung dann enthalten sind.
+
+133
+00:05:37,960 --> 00:05:40,820
+Was ist grundsätzlich eine
+
+134
+00:05:40,820 --> 00:05:43,980
+Sachtextanalyse? Eine Analyse ist aus
+
+135
+00:05:43,980 --> 00:05:45,440
+dem Griechischen abgeleitet,
+
+136
+00:05:45,500 --> 00:05:48,320
+Analysis, und bedeutet Auflösung. Das
+
+137
+00:05:48,320 --> 00:05:49,900
+heißt, das Auseinandernehmen eines
+
+138
+00:05:49,900 --> 00:05:52,100
+Textes in seine Bestandteile, da
+
+139
+00:05:52,100 --> 00:05:53,980
+beachtet man auf Funktion, Inhalt,
+
+140
+00:05:54,040 --> 00:05:57,900
+Sprachstil, Absicht und Erfolg des
+
+141
+00:05:57,900 --> 00:06:00,680
+Ganzen. Als kurzer Hinweis ist zu
+
+142
+00:06:00,680 --> 00:06:02,700
+sagen, dass die Sachtextanalyse
+
+143
+00:06:02,700 --> 00:06:05,660
+ebenso eine Form des Sachtextes ist.
+
+144
+00:06:05,780 --> 00:06:07,960
+Das heißt, sie verzichtet auf
+
+145
+00:06:07,960 --> 00:06:09,640
+Ausschmückungen, fantastische,
+
+146
+00:06:09,640 --> 00:06:11,860
+spannende oder lustige Elemente,
+
+147
+00:06:11,860 --> 00:06:15,520
+Subjektivität, Meinung damit gemeint.
+
+148
+00:06:15,520 --> 00:06:17,740
+Der Sprachstil ist sehr präzise,
+
+149
+00:06:17,820 --> 00:06:20,940
+neutral und fachlich konsequent.
+
+150
+00:06:23,360 --> 00:06:25,860
+Die Analyse der politischen Rede ist
+
+151
+00:06:25,860 --> 00:06:28,780
+grundsätzlich so, dass wir zusätzlich
+
+152
+00:06:28,780 --> 00:06:31,500
+zu den Elementen, die wir gerade
+
+153
+00:06:31,500 --> 00:06:33,340
+beleuchtet haben, auch die
+
+154
+00:06:33,340 --> 00:06:37,220
+Redesituation untersuchen sollten.
+
+155
+00:06:38,040 --> 00:06:39,600
+Wir schauen dabei auf die
+
+156
+00:06:39,600 --> 00:06:41,380
+Eigenschaften des Redners, wie ist
+
+157
+00:06:41,380 --> 00:06:43,240
+die äußere Erscheinung, wie ist die
+
+158
+00:06:43,240 --> 00:06:44,740
+Funktion, die Position, die
+
+159
+00:06:44,740 --> 00:06:46,100
+Wertevorstellung, wie ist die
+
+160
+00:06:46,100 --> 00:06:47,820
+Präsenz. Präsentation auf der Bühne.
+
+161
+00:06:48,160 --> 00:06:50,620
+Wer oder was ist der Redeanlass? Wo
+
+162
+00:06:50,620 --> 00:06:52,680
+und wann wird es gehalten? Wie ist
+
+163
+00:06:52,680 --> 00:06:56,160
+die Raumgestaltung? An wen richtet
+
+164
+00:06:56,160 --> 00:06:58,360
+sich die Rede? An ein ganzes Volk? An
+
+165
+00:06:58,360 --> 00:07:00,520
+eine Wählerschaft? An Anhänger oder
+
+166
+00:07:00,520 --> 00:07:02,180
+die Weltbevölkerung oder eine
+
+167
+00:07:02,180 --> 00:07:04,940
+öffentliche Mehrheit? Welche Medien
+
+168
+00:07:04,940 --> 00:07:07,080
+werden eingesetzt und welche sind
+
+169
+00:07:07,080 --> 00:07:09,720
+vertreten? und wir müssen den Inhalt
+
+170
+00:07:09,720 --> 00:07:11,400
+und das Thema der Rede auch ebenfalls
+
+171
+00:07:11,400 --> 00:07:13,400
+genau beleuchten. Dabei müssen wir
+
+172
+00:07:13,400 --> 00:07:15,980
+den Sachverhalt erläutern und die
+
+173
+00:07:15,980 --> 00:07:18,040
+Benennung der Kernaussagen und Thesen
+
+174
+00:07:18,040 --> 00:07:20,920
+vollziehen, sodass wir diese an die
+
+175
+00:07:20,920 --> 00:07:22,980
+Argumente und an die Rhetorik knüpfen
+
+176
+00:07:22,980 --> 00:07:25,780
+können. Die Redeabsicht ist
+
+177
+00:07:25,780 --> 00:07:27,840
+letztendlich die Beschreibung der vom
+
+178
+00:07:27,840 --> 00:07:29,180
+Redner erwünschten Wirkung.
+
+179
+00:07:32,480 --> 00:07:34,240
+Die Sprache und die rhetorischen
+
+180
+00:07:34,240 --> 00:07:35,480
+Mittel dann nehmen wir später zu
+
+181
+00:07:35,480 --> 00:07:37,920
+Bezug. Die Redeweise ist die
+
+182
+00:07:37,920 --> 00:07:40,580
+Untersuchung der Stimme, der Betonung
+
+183
+00:07:40,580 --> 00:07:42,620
+und der Art und Weise, wie gesprochen
+
+184
+00:07:42,620 --> 00:07:47,480
+wird. Dabei untersucht man zusätzlich
+
+185
+00:07:47,480 --> 00:07:49,240
+auch noch die Gestik und Mimik, das
+
+186
+00:07:49,240 --> 00:07:51,700
+heißt der gesichtliche und der
+
+187
+00:07:51,700 --> 00:07:53,280
+körperliche Ausdruck des Redens.
+
+188
+00:07:54,520 --> 00:07:56,480
+Abschließend ist eine Zusammenfassung
+
+189
+00:07:56,480 --> 00:07:58,040
+grundsätzlich immer in einer
+
+190
+00:07:58,040 --> 00:08:00,160
+analytischen Arbeit. Wir erinnern uns
+
+191
+00:08:00,160 --> 00:08:02,300
+daran, dass analytische Trippel
+
+192
+00:08:02,300 --> 00:08:04,360
+beginnt mit einer Einleitung, geht
+
+193
+00:08:04,360 --> 00:08:05,700
+dann zum Hauptteil, in der die
+
+194
+00:08:05,700 --> 00:08:07,460
+eigentliche Analyse vollzogen wird
+
+195
+00:08:07,460 --> 00:08:09,420
+und der Schluss ist dann die
+
+196
+00:08:09,420 --> 00:08:11,420
+abschließende Zusammenfassung, in der
+
+197
+00:08:11,420 --> 00:08:12,640
+dann die Darstellung der
+
+198
+00:08:12,640 --> 00:08:14,380
+Gesamtwirkung auf den Hörer oder den
+
+199
+00:08:14,380 --> 00:08:18,100
+Leser erfolgt. Wenn eine Rede nur
+
+200
+00:08:18,100 --> 00:08:19,840
+schriftlich vorliegt, können einige
+
+201
+00:08:19,840 --> 00:08:21,100
+Punkte dementsprechend nicht
+
+202
+00:08:21,100 --> 00:08:23,220
+analysiert werden. Allerdings ist es
+
+203
+00:08:23,220 --> 00:08:25,100
+so, dass es manche Abschriften gibt,
+
+204
+00:08:25,300 --> 00:08:27,400
+in der beschrieben wird, wie die
+
+205
+00:08:27,400 --> 00:08:29,400
+Reaktion des Publikus war in einem
+
+206
+00:08:29,400 --> 00:08:32,160
+Nebentext, zum Beispiel Klatschen
+
+207
+00:08:32,160 --> 00:08:36,300
+oder Bo-Rufe. Die
+
+208
+00:08:36,300 --> 00:08:37,780
+Argumentationsstruktur ist letztlich
+
+209
+00:08:37,780 --> 00:08:40,780
+so, dass wir uns vier Punkten
+
+210
+00:08:40,780 --> 00:08:42,240
+unterordnen müssen. Wir müssen uns
+
+211
+00:08:42,240 --> 00:08:43,780
+der Frage der Anordnung, der
+
+212
+00:08:43,780 --> 00:08:45,660
+Veranschaulichung, der Gestaltung und
+
+213
+00:08:45,660 --> 00:08:47,460
+der Wirkung der Argumente widmen.
+
+214
+00:08:49,080 --> 00:08:51,160
+widmen, das heißt bei den Argumenten,
+
+215
+00:08:51,160 --> 00:08:52,520
+bei der Anordnung schauen wir, ist
+
+216
+00:08:52,520 --> 00:08:54,560
+sie lineal ausgerichtet, vom
+
+217
+00:08:54,560 --> 00:08:56,600
+Unwichtigen zum Wichtigen oder
+
+218
+00:08:56,600 --> 00:08:58,480
+umgekehrt und fragen uns, warum das
+
+219
+00:08:58,480 --> 00:09:01,160
+so ist. Die Veranschaulichung der
+
+220
+00:09:01,160 --> 00:09:03,640
+Argumente müssen wir bewerten, indem
+
+221
+00:09:03,640 --> 00:09:05,880
+wir Beispiele und Belege bewerten,
+
+222
+00:09:05,960 --> 00:09:08,060
+werden persönliche Meinungen
+
+223
+00:09:08,060 --> 00:09:09,660
+hinzugezogen, also persönliche
+
+224
+00:09:09,660 --> 00:09:11,720
+Erfahrungen oder beruft sich der
+
+225
+00:09:11,720 --> 00:09:13,240
+Redner auf Studien, Umfragen und
+
+226
+00:09:13,240 --> 00:09:15,580
+Statistiken, die untersuchen, ob
+
+227
+00:09:15,580 --> 00:09:17,240
+diese Beispiele... eben treffend und
+
+228
+00:09:17,240 --> 00:09:20,060
+passend sind oder, und das ist auch
+
+229
+00:09:20,060 --> 00:09:22,260
+noch wichtig zu beleuchten, woher die
+
+230
+00:09:22,260 --> 00:09:23,960
+Studien und Umfragen stammen. Wer
+
+231
+00:09:23,960 --> 00:09:25,440
+also zitiert, wird es auch
+
+232
+00:09:25,440 --> 00:09:28,140
+grundsätzlich zu analysieren. Dabei
+
+233
+00:09:28,140 --> 00:09:29,760
+müsste man dann auch noch zusätzlich
+
+234
+00:09:29,760 --> 00:09:30,880
+auf die Gestaltung der
+
+235
+00:09:30,880 --> 00:09:33,140
+Gedankenführung schauen. Das heißt,
+
+236
+00:09:33,240 --> 00:09:35,880
+gibt es eine logische oder
+
+237
+00:09:35,880 --> 00:09:39,080
+assoziative Gedankenführung, dabei
+
+238
+00:09:39,080 --> 00:09:40,640
+schaut man dann, ist sie logisch im
+
+239
+00:09:40,640 --> 00:09:43,160
+Sinne von folgerichtig, Wichtig,
+
+240
+00:09:43,160 --> 00:09:44,720
+werden die Argumente nacheinander
+
+241
+00:09:44,720 --> 00:09:46,840
+nachvollziehbar angereiht oder
+
+242
+00:09:46,840 --> 00:09:50,020
+verfolgen sie einem anderen Ziel?
+
+243
+00:09:50,120 --> 00:09:57,660
+Wenn sie zum Beispiel Ätze
+
+244
+00:09:57,660 --> 00:09:59,440
+aufreiben sollen, dann werden immer
+
+245
+00:09:59,440 --> 00:10:02,940
+drastischere Maßnahmen angeführt und
+
+246
+00:10:02,940 --> 00:10:04,800
+immer weiter, immer weiter, sodass im
+
+247
+00:10:04,800 --> 00:10:06,520
+Grunde genommen die ganze Dramatik
+
+248
+00:10:06,520 --> 00:10:07,440
+sich zuspitzt.
+
+249
+00:10:10,280 --> 00:10:12,860
+oder schweift der Redner ab, verletzt
+
+250
+00:10:12,860 --> 00:10:15,440
+er sich im Detail. Wie ist die
+
+251
+00:10:15,440 --> 00:10:16,560
+allgemeine Entwicklung des
+
+252
+00:10:16,560 --> 00:10:18,380
+Gedankenganges? Folgt immer eine
+
+253
+00:10:18,380 --> 00:10:19,920
+Anbindung an ein Beispiel oder an
+
+254
+00:10:19,920 --> 00:10:21,600
+einen Beleg? Wird zu etwas Bezug
+
+255
+00:10:21,600 --> 00:10:23,000
+genommen oder nicht? Ist das Ganze
+
+256
+00:10:23,000 --> 00:10:25,260
+schlüssig und nachvollziehbar? Wie
+
+257
+00:10:25,260 --> 00:10:26,760
+ist die Wirkung der Argumente? Das
+
+258
+00:10:26,760 --> 00:10:27,680
+heißt, die allgemeine
+
+259
+00:10:27,680 --> 00:10:31,360
+Argumentationsstruktur erzielt
+
+260
+00:10:31,360 --> 00:10:32,820
+entweder die Wirkung dadurch, dass
+
+261
+00:10:32,820 --> 00:10:35,600
+sie mit der Intention des Redners
+
+262
+00:10:35,600 --> 00:10:37,860
+funktioniert, oder man entschließt
+
+263
+00:10:37,860 --> 00:10:39,420
+sich und sagt, die Argumente sind
+
+264
+00:10:39,420 --> 00:10:41,080
+dadurch, dass diese und diese
+
+265
+00:10:41,080 --> 00:10:42,820
+Kriterien nicht erfüllt sind,
+
+266
+00:10:42,860 --> 00:10:45,380
+wirkungslos. Also stellt man sich
+
+267
+00:10:45,380 --> 00:10:46,760
+hier die Frage nach der allgemeinen
+
+268
+00:10:46,760 --> 00:10:50,120
+Wirkung nicht. Die Vorbereitung einer
+
+269
+00:10:50,120 --> 00:10:53,300
+Analyse ist so, dass man sich zuerst
+
+270
+00:10:53,300 --> 00:10:55,020
+mit dem Thema beschäftigt. Man stellt
+
+271
+00:10:55,020 --> 00:10:58,200
+die Frage, was wird verlangt? Dabei
+
+272
+00:10:58,200 --> 00:11:00,320
+ist es immer wichtig, die Aufgaben
+
+273
+00:11:00,320 --> 00:11:02,120
+schon zu beachten. Ich erwähnte
+
+274
+00:11:02,120 --> 00:11:04,140
+gerade, dass es unterschiedliche
+
+275
+00:11:04,140 --> 00:11:05,680
+Schwerpunkte gibt. Die sind natürlich
+
+276
+00:11:05,680 --> 00:11:09,880
+dann herauszufiltern. Eine Analyse
+
+277
+00:11:09,880 --> 00:11:12,220
+des gesamten Textes oder eine Analyse
+
+278
+00:11:12,220 --> 00:11:14,280
+von Teilaspekten ist entweder
+
+279
+00:11:14,280 --> 00:11:18,280
+gefordert oder auch nicht. Das heißt,
+
+280
+00:11:18,360 --> 00:11:20,020
+bei der Analyse von Teilaspekten
+
+281
+00:11:20,020 --> 00:11:20,960
+sollten Sie dennoch eine
+
+282
+00:11:20,960 --> 00:11:23,820
+Inhaltsangabe und den groben Anriss
+
+283
+00:11:23,820 --> 00:11:26,020
+der Gesamtargumentationsstruktur
+
+284
+00:11:26,020 --> 00:11:27,400
+geben, um die Teilaspekte im
+
+285
+00:11:27,400 --> 00:11:29,180
+Gesamtkontext einordnen zu können.
+
+286
+00:11:29,180 --> 00:11:31,100
+Natürlich ist es nicht gut, einzelne
+
+287
+00:11:31,100 --> 00:11:33,380
+Aspekte herauszugreifen, ohne dass
+
+288
+00:11:33,380 --> 00:11:35,660
+man überhaupt einen allgemeinen
+
+289
+00:11:35,660 --> 00:11:38,360
+Grundriss gezeichnet hat. Typische
+
+290
+00:11:38,360 --> 00:11:39,800
+Aufgabestellungen, die wir gerade
+
+291
+00:11:39,800 --> 00:11:44,400
+diskutierten. Das gründliche Lesen
+
+292
+00:11:44,400 --> 00:11:46,380
+des Textes ist sehr wichtig, denn
+
+293
+00:11:46,380 --> 00:11:49,880
+durch mehrere Lesedurchgänge können
+
+294
+00:11:49,880 --> 00:11:51,760
+verschiedene Aspekte beleuchtet und
+
+295
+00:11:51,760 --> 00:11:54,100
+klar werden. Unbekannte Wörter
+
+296
+00:11:54,100 --> 00:11:55,860
+sollten nachgeschlagen werden, da sie
+
+297
+00:11:55,860 --> 00:11:59,320
+in einer Rede mit Absicht verwendet
+
+298
+00:11:59,320 --> 00:12:02,200
+werden. Also diesen Generalverdacht
+
+299
+00:12:02,200 --> 00:12:06,140
+darf man anstellen, denn all das, was
+
+300
+00:12:06,140 --> 00:12:07,720
+in einer Rede gesagt wird, will
+
+301
+00:12:07,720 --> 00:12:09,740
+gesagt werden. Schlüsselbegriffe
+
+302
+00:12:09,740 --> 00:12:11,660
+ebenso sind zu unterstreichen, denn
+
+303
+00:12:11,660 --> 00:12:13,740
+sie sind ja letztendlich dann
+
+304
+00:12:13,740 --> 00:12:15,740
+zielführend. Randzeichen,
+
+305
+00:12:15,740 --> 00:12:17,420
+Fallbegriffe, Markierungen sollten
+
+306
+00:12:17,420 --> 00:12:19,380
+immer in einer Analyse verwendet
+
+307
+00:12:19,380 --> 00:12:21,480
+werden, nicht in der Analyse. im
+
+308
+00:12:21,480 --> 00:12:23,360
+Analyse-Text, aber innerhalb der
+
+309
+00:12:23,360 --> 00:12:25,960
+Rede, sodass man die Rede ein wenig
+
+310
+00:12:25,960 --> 00:12:29,580
+zerarbeitet und erarbeitet. Die
+
+311
+00:12:29,580 --> 00:12:31,000
+Gliederungen, Sinnabschnitte und
+
+312
+00:12:31,000 --> 00:12:32,240
+einzelne Themenbereiche
+
+313
+00:12:32,240 --> 00:12:34,640
+gegebenenfalls auch mit Überschriften
+
+314
+00:12:34,640 --> 00:12:37,340
+versehen. Der Leser im Hinblick auf
+
+315
+00:12:37,340 --> 00:12:39,160
+sprachliche Besonderheiten sollte,
+
+316
+00:12:39,280 --> 00:12:41,200
+das Lesen auf sprachliche
+
+317
+00:12:41,200 --> 00:12:44,700
+Besonderheiten sollte also nochmal
+
+318
+00:12:44,700 --> 00:12:47,100
+gesondert stattfinden, wobei man sich
+
+319
+00:12:47,100 --> 00:12:48,760
+dann ausschließlich auf den Satzbau,
+
+320
+00:12:48,820 --> 00:12:50,080
+die Wortwahl und die rhetorischen
+
+321
+00:12:50,380 --> 00:12:53,080
+Figuren konzentriert, das heißt, das
+
+322
+00:12:53,080 --> 00:12:55,500
+Inhaltliche beiseite schiebt und dann
+
+323
+00:12:55,500 --> 00:12:58,840
+schon auf die allgemeine Struktur
+
+324
+00:12:58,840 --> 00:13:01,960
+staut, also die sogenannte, auf den
+
+325
+00:13:01,960 --> 00:13:06,440
+Syntax der Rede. Notizen sollten
+
+326
+00:13:06,440 --> 00:13:09,020
+ebenfalls festgehalten werden auf
+
+327
+00:13:09,020 --> 00:13:13,960
+einem Notizzettel oder die Rede an
+
+328
+00:13:13,960 --> 00:13:17,020
+sich in einer Aufbauskizze, also
+
+329
+00:13:17,020 --> 00:13:20,620
+Skizze. werden, sodass eine
+
+330
+00:13:20,620 --> 00:13:24,460
+allgemeine Übersicht erlangt werden
+
+331
+00:13:24,460 --> 00:13:29,010
+kann. Der Aufbau einer Redeanalyse
+
+332
+00:13:29,010 --> 00:13:30,810
+ist grundsätzlich so, ich sprach
+
+333
+00:13:30,810 --> 00:13:32,350
+gerade schon von dem analytischen
+
+334
+00:13:32,350 --> 00:13:34,910
+Triplet, das werde ich jetzt einmal
+
+335
+00:13:34,910 --> 00:13:37,650
+genauer erklären und zwar der erste
+
+336
+00:13:37,650 --> 00:13:39,830
+Teil des Triplets ist die Einleitung,
+
+337
+00:13:39,850 --> 00:13:41,610
+darin wird der Redner genannt, der
+
+338
+00:13:41,610 --> 00:13:43,370
+Titel der Rede genannt. In den
+
+339
+00:13:43,370 --> 00:13:45,310
+meisten Fällen ist es so, dass die
+
+340
+00:13:45,310 --> 00:13:47,350
+Rede an sich keinen Titel hat, aber
+
+341
+00:13:47,350 --> 00:13:52,990
+die Kernaussage der Rede kann dann
+
+342
+00:13:52,990 --> 00:13:54,950
+verwendet werden, wie zum Beispiel I
+
+343
+00:13:54,950 --> 00:13:58,530
+have a dream or yes we can oder wollt
+
+344
+00:13:58,530 --> 00:14:00,190
+ihr den totalen Krieg? Das sind
+
+345
+00:14:00,190 --> 00:14:02,450
+Schlüsselbegriffe der einzelnen
+
+346
+00:14:02,450 --> 00:14:04,170
+Reden, die dann letztendlich auch den
+
+347
+00:14:04,170 --> 00:14:06,290
+Titel formen. Das Thema sollte
+
+348
+00:14:06,290 --> 00:14:08,190
+benannt werden, der Ort und die Zeit
+
+349
+00:14:08,190 --> 00:14:09,850
+sollte benannt werden, sowie der
+
+350
+00:14:09,850 --> 00:14:12,210
+Anlass und die Zuhörer. Und die
+
+351
+00:14:12,210 --> 00:14:13,650
+Adressaten sollten auch benannt
+
+352
+00:14:13,650 --> 00:14:15,650
+werden, wie zum Beispiel Sportpalast
+
+353
+00:14:15,650 --> 00:14:17,650
+1943.
+
+354
+00:14:18,770 --> 00:14:21,390
+Ja, zum Anlass der Mobilisierung
+
+355
+00:14:21,390 --> 00:14:23,950
+aller Deutschen aufgrund der
+
+356
+00:14:23,950 --> 00:14:25,730
+misslichen Kriegslage in Deutschland,
+
+357
+00:14:25,970 --> 00:14:28,230
+also der Deutschen in der Welt. Gut,
+
+358
+00:14:28,390 --> 00:14:31,670
+der zweite Teil des Triplets und vor
+
+359
+00:14:31,670 --> 00:14:33,610
+allen Dingen der wichtigste ist der
+
+360
+00:14:33,610 --> 00:14:37,690
+Hauptteil. In dem Hauptteil findet
+
+361
+00:14:37,690 --> 00:14:39,190
+die Einschätzung der Rednerrolle
+
+362
+00:14:39,190 --> 00:14:41,610
+statt. Das heißt, wir stellen uns die
+
+363
+00:14:41,610 --> 00:14:43,930
+Frage, wie der Redner versucht, die
+
+364
+00:14:43,930 --> 00:14:46,350
+Zuhörer zu überzeugen. Dabei beachten
+
+365
+00:14:46,350 --> 00:14:47,450
+wir die Schlüssigkeit, die
+
+366
+00:14:47,450 --> 00:14:48,510
+Übersichtlichkeit und die
+
+367
+00:14:48,510 --> 00:14:52,510
+Anschaulichkeit der Rednerrolle und
+
+368
+00:14:52,510 --> 00:14:54,110
+fertigen eine sorgfältige
+
+369
+00:14:54,110 --> 00:14:56,710
+Sprachanalyse an und folgen der
+
+370
+00:14:56,710 --> 00:14:59,810
+Strategie des Redners, indem wir uns
+
+371
+00:14:59,810 --> 00:15:03,150
+fragen, wie die Aufwertung der
+
+372
+00:15:03,150 --> 00:15:04,890
+eigenen Seite vollzogen wird, genauso
+
+373
+00:15:04,890 --> 00:15:06,950
+wie die Abwertung des Gegners. Werden
+
+374
+00:15:06,950 --> 00:15:09,450
+Beschwichtigungen oder starke
+
+375
+00:15:09,450 --> 00:15:11,590
+Emotionen verwendet? Wie werden die
+
+376
+00:15:11,590 --> 00:15:15,550
+beschworen? Gibt es Dinge, die
+
+377
+00:15:15,550 --> 00:15:17,070
+verschwiegen werden oder verwischt,
+
+378
+00:15:17,070 --> 00:15:19,410
+verzerrt werden, sodass wir einen
+
+379
+00:15:19,410 --> 00:15:23,090
+allgemeinen Überblick über die Taktik
+
+380
+00:15:23,090 --> 00:15:26,230
+des Redners erhalten? Im Schluss
+
+381
+00:15:26,230 --> 00:15:28,670
+nehmen wir Stellung zur Wirkung der
+
+382
+00:15:28,670 --> 00:15:30,550
+Analyse, nachdem wir eingängig
+
+383
+00:15:30,550 --> 00:15:32,990
+thematisiert haben und analysiert
+
+384
+00:15:32,990 --> 00:15:36,690
+haben, was passiert ist und was
+
+385
+00:15:36,690 --> 00:15:40,050
+vorkommt, wie etwas vorgetragen wurde
+
+386
+00:15:40,050 --> 00:15:42,310
+und befassen uns dann letztendlich
+
+387
+00:15:42,310 --> 00:15:43,970
+mit der Wirkung, ist es überzeugend
+
+388
+00:15:43,970 --> 00:15:45,990
+oder nicht. Dabei nehmen wir Bezug
+
+389
+00:15:45,990 --> 00:15:47,490
+auf die Intention des Redners. Ist
+
+390
+00:15:47,490 --> 00:15:50,130
+sie erfüllt worden oder nicht? Also
+
+391
+00:15:50,130 --> 00:15:52,730
+ist die schlüssig oder nicht? Kann
+
+392
+00:15:52,730 --> 00:15:55,830
+man dem Ganzen stattgeben oder nicht?
+
+393
+00:15:55,910 --> 00:15:57,710
+Wie ist die eigene Beurteilung der
+
+394
+00:15:57,710 --> 00:16:01,110
+Rede und des Redners, indem wir uns
+
+395
+00:16:01,110 --> 00:16:03,170
+vorstellen, dass wir uns diese Rede
+
+396
+00:16:03,170 --> 00:16:04,770
+angehört hätten und uns im Grunde
+
+397
+00:16:04,770 --> 00:16:05,610
+genommen in die Situation
+
+398
+00:16:05,610 --> 00:16:09,350
+hineinversetzen? Kommen wir nun zu
+
+399
+00:16:09,350 --> 00:16:11,670
+ein paar Formen von Ernährungshilfen.
+
+400
+00:16:12,130 --> 00:16:13,970
+Grundsätzlich ist es gut, eine
+
+401
+00:16:13,970 --> 00:16:17,170
+Sachtextanalyse
+
+402
+00:16:17,170 --> 00:16:19,830
+oder eine Redenanalyse einzuleiten
+
+403
+00:16:19,830 --> 00:16:21,330
+mit einem einleitenden Satz. Den
+
+404
+00:16:21,330 --> 00:16:23,090
+beginnt man am besten mit, aus Anlass
+
+405
+00:16:23,090 --> 00:16:26,530
+des... ...hielt Josef Goebbels am,
+
+406
+00:16:26,670 --> 00:16:31,810
+ich weiß nicht, März 1943 im
+
+407
+00:16:31,810 --> 00:16:34,210
+Sportpalast eine Rede, die zur
+
+408
+00:16:34,210 --> 00:16:35,970
+Mobilisierung der deutschen Truppen,
+
+409
+00:16:35,990 --> 00:16:41,310
+die Mobilisierung der Deutschen zur
+
+410
+00:16:41,310 --> 00:16:43,050
+Stärkung der Wehrmacht zum Thema
+
+411
+00:16:43,050 --> 00:16:44,890
+hatte. Im Hauptteil ist es gut,
+
+412
+00:16:44,970 --> 00:16:46,570
+einleiten nimmt der Schluss, er
+
+413
+00:16:46,570 --> 00:16:49,130
+motiviert. Im Hauptteil beschreibt
+
+414
+00:16:49,130 --> 00:16:51,170
+er, im zweiten Abschnitt untersucht
+
+415
+00:16:51,170 --> 00:16:54,310
+er, darauf folgt, es folgt der
+
+416
+00:16:54,310 --> 00:16:58,310
+Entwurf oder er hält sich
+
+417
+00:16:58,310 --> 00:17:01,230
+anschließend entgegen. Er beendet
+
+418
+00:17:01,230 --> 00:17:02,850
+seine Ausführungen, der
+
+419
+00:17:02,850 --> 00:17:04,690
+Argumentationsgang wird bestimmt
+
+420
+00:17:04,690 --> 00:17:07,850
+durch, dominiert durch, er entkräftet
+
+421
+00:17:07,850 --> 00:17:09,610
+etwas, er stellt sich auf die Seite,
+
+422
+00:17:09,810 --> 00:17:11,590
+er distanziert sich. All solche
+
+423
+00:17:11,590 --> 00:17:14,070
+Formulierungshilfen sind gut, um den
+
+424
+00:17:14,070 --> 00:17:15,890
+Hauptteil miteinander, also die
+
+425
+00:17:15,890 --> 00:17:17,390
+einzelnen Passagen des Hauptteils
+
+426
+00:17:17,390 --> 00:17:18,870
+miteinander zu verknüpfen. Das ist
+
+427
+00:17:18,870 --> 00:17:21,090
+immer sehr wichtig, einen roten Faden
+
+428
+00:17:21,090 --> 00:17:24,070
+zu kreieren. Im Schluss ist es
+
+429
+00:17:24,070 --> 00:17:26,650
+wichtig, nochmal die Wirkung, wie wir
+
+430
+00:17:26,650 --> 00:17:28,210
+das jetzt schon gerade sagten, das
+
+431
+00:17:28,210 --> 00:17:30,550
+kann man gut machen, indem man sagt,
+
+432
+00:17:30,590 --> 00:17:32,490
+die gesellschaftliche Position von
+
+433
+00:17:32,490 --> 00:17:34,990
+der Ort und einer Zuhörerschaft, die
+
+434
+00:17:34,990 --> 00:17:37,590
+überwiegend aus, um nochmal Bezug zum
+
+435
+00:17:37,590 --> 00:17:41,270
+Anlass und der Zuhörerschaft zu
+
+436
+00:17:41,270 --> 00:17:43,450
+nehmen, Bestand verleiht der Feier
+
+437
+00:17:43,450 --> 00:17:48,190
+oder der Rede einen Rahmen, Baut
+
+438
+00:17:48,190 --> 00:17:49,510
+seine Rede im Wesentlichen
+
+439
+00:17:49,510 --> 00:17:51,170
+folgerichtig übersichtlich auf.
+
+440
+00:17:51,270 --> 00:17:52,450
+Darauf sollte man dann nochmal
+
+441
+00:17:52,450 --> 00:17:54,250
+Stellung nehmen und sagen, aufgrund
+
+442
+00:17:54,250 --> 00:17:56,730
+der und der Tatsache, ist die Rede
+
+443
+00:17:56,730 --> 00:17:59,210
+überzeugend oder ist sie nicht. Indem
+
+444
+00:17:59,210 --> 00:18:02,330
+man das auf Rhetorik, Richtigkeit und
+
+445
+00:18:02,330 --> 00:18:04,290
+die ganzen Kriterien, die im
+
+446
+00:18:04,290 --> 00:18:07,270
+Hauptteil eingängig analysiert
+
+447
+00:18:07,270 --> 00:18:11,650
+wurden, festlegt. Wichtig ist, dass
+
+448
+00:18:11,650 --> 00:18:15,070
+die Analyse und auch die allgemeine
+
+449
+00:18:15,070 --> 00:18:19,450
+Position zur Rede nicht subjektiv
+
+450
+00:18:19,450 --> 00:18:21,690
+ist, sondern objektiv und nach
+
+451
+00:18:21,690 --> 00:18:22,850
+Abwägung der einzelnen
+
+452
+00:18:22,850 --> 00:18:28,170
+Analyseergebnisse zu einem Schluss
+
+453
+00:18:28,170 --> 00:18:30,230
+kommt. Das heißt, auch wenn man jetzt
+
+454
+00:18:30,230 --> 00:18:33,630
+zum Beispiel gegen Krieg ist und
+
+455
+00:18:33,630 --> 00:18:35,690
+gegen den Nationalsozialismus ist,
+
+456
+00:18:35,750 --> 00:18:37,890
+muss man sagen, dass die Rede von
+
+457
+00:18:37,890 --> 00:18:39,970
+Josef Goebbels rhetorisch gesehen
+
+458
+00:18:39,970 --> 00:18:41,790
+aufgrund der und der Tatsachen
+
+459
+00:18:41,790 --> 00:18:44,150
+folgerichtig ist und die
+
+460
+00:18:44,150 --> 00:18:46,370
+Zuhörerschaft mobilisiert hat. Und
+
+461
+00:18:46,370 --> 00:18:47,930
+dann geht man da ganz nochmal drauf
+
+462
+00:18:47,930 --> 00:18:51,750
+ein. Die sprachlichen Mittel sind
+
+463
+00:18:51,750 --> 00:18:52,910
+auch zu untersuchen.
+
+464
+00:19:17,250 --> 00:19:19,330
+Keine komplizierten Sätze, sondern
+
+465
+00:19:19,330 --> 00:19:21,090
+einfache, simple Sätze oder der
+
+466
+00:19:21,090 --> 00:19:22,970
+Hypothese dem Gegenteil mit
+
+467
+00:19:22,970 --> 00:19:24,950
+Satzgefügen, Haupt- und Nebensätzen.
+
+468
+00:19:26,190 --> 00:19:28,770
+Welche Satzarten sind eben die
+
+469
+00:19:28,770 --> 00:19:31,530
+dominierenden, das heißt die
+
+470
+00:19:31,530 --> 00:19:33,750
+Verwendung bzw. die auffällig häufige
+
+471
+00:19:33,750 --> 00:19:37,910
+Verwendung von bestimmten Satzarten
+
+472
+00:19:37,910 --> 00:19:39,630
+und den allgemeinen rhetorischen
+
+473
+00:19:39,630 --> 00:19:41,610
+Fragen, wie zum Beispiel der
+
+474
+00:19:41,610 --> 00:19:43,930
+berühmtesten, wollt ihr den totalen
+
+475
+00:19:43,930 --> 00:19:47,510
+Krieg? Sprachebene ist grundsätzlich
+
+476
+00:19:47,510 --> 00:19:49,490
+zu bewerten, ist das Niveau der
+
+477
+00:19:49,490 --> 00:19:51,550
+Sprache hoch oder ist es eher
+
+478
+00:19:51,550 --> 00:19:53,750
+niedrig, wird Umgangssprache
+
+479
+00:19:53,750 --> 00:19:56,230
+verwendet, gibt es dialektische
+
+480
+00:19:56,230 --> 00:19:59,470
+Einwürfe, die können manchmal mit
+
+481
+00:19:59,470 --> 00:20:02,450
+Absicht verwendet werden, um eine
+
+482
+00:20:02,450 --> 00:20:04,010
+gewisse Nähe zum Volk zu umfassen
+
+483
+00:20:04,010 --> 00:20:07,070
+oder zu einer gewissen Region. Gibt
+
+484
+00:20:07,070 --> 00:20:09,390
+es Fachbegriffe? Gibt es Fremdwörter?
+
+485
+00:20:10,570 --> 00:20:12,210
+Schlagwörter? Welches sind die
+
+486
+00:20:12,210 --> 00:20:16,270
+Schlagwörter? Gibt es Modewörter? Wie
+
+487
+00:20:16,270 --> 00:20:17,830
+sind die allgemeinen rhetorischen
+
+488
+00:20:17,830 --> 00:20:20,490
+Figuren, die Alliterationen oder
+
+489
+00:20:20,490 --> 00:20:24,110
+Metaphern? Welche davon sind die
+
+490
+00:20:24,110 --> 00:20:26,070
+wichtigsten und warum sind sie die
+
+491
+00:20:26,070 --> 00:20:28,650
+wichtigsten? Im Allgemeinen ist das
+
+492
+00:20:28,650 --> 00:20:31,650
+sehr wichtig. Ich habe jetzt einen
+
+493
+00:20:31,650 --> 00:20:33,890
+vorgeblättert. Grundsätzlich ist es
+
+494
+00:20:33,890 --> 00:20:38,070
+so, dass es bei der Rhetorik nicht
+
+495
+00:20:38,070 --> 00:20:41,490
+darum geht, möglichst viele Dinge zu
+
+496
+00:20:41,490 --> 00:20:42,490
+finden. Also das ist eine
+
+497
+00:20:42,490 --> 00:20:43,890
+Alliteration, Parallelismus,
+
+498
+00:20:44,130 --> 00:20:49,210
+Oxymoron, Alliteration oder Naffa,
+
+499
+00:20:49,290 --> 00:20:51,090
+sondern man sollte sie immer in den
+
+500
+00:20:51,090 --> 00:20:53,130
+Kontext der Analyse setzen und im
+
+501
+00:20:53,130 --> 00:20:55,230
+Grunde genommen die rhetorischen
+
+502
+00:20:55,230 --> 00:20:58,050
+Figuren, als Beleg für eine Aussage
+
+503
+00:20:58,050 --> 00:21:00,710
+und für eine These setzen. Was noch
+
+504
+00:21:00,710 --> 00:21:02,970
+zu ergänzen ist, dass eine allgemeine
+
+505
+00:21:02,970 --> 00:21:05,230
+Analyse, dieses analytische Trippet
+
+506
+00:21:05,230 --> 00:21:08,430
+zwischen dem einleitenden Satz, der
+
+507
+00:21:08,430 --> 00:21:11,230
+Einleitung, der Inhaltsangabe und dem
+
+508
+00:21:11,230 --> 00:21:12,970
+Hauptteil meist auch eine
+
+509
+00:21:12,970 --> 00:21:15,050
+Deutungshypothese haben kann. Diese
+
+510
+00:21:15,050 --> 00:21:17,710
+Deutungshypothese dient dazu, einen
+
+511
+00:21:17,710 --> 00:21:20,790
+Eindruck oder einen Generalverdacht
+
+512
+00:21:20,790 --> 00:21:23,030
+zu schildern, den man dann die ganze
+
+513
+00:21:23,030 --> 00:21:25,830
+Analyse fordert. Die sollte man, wenn
+
+514
+00:21:25,830 --> 00:21:27,490
+man es kann, vorher machen, also
+
+515
+00:21:27,490 --> 00:21:28,710
+nachdem man den Text rundlich
+
+516
+00:21:28,710 --> 00:21:31,530
+untersucht hat und darauf die Analyse
+
+517
+00:21:31,530 --> 00:21:33,350
+bauen. Oder man baut die Analyse und
+
+518
+00:21:33,350 --> 00:21:34,590
+kreiert daraus dann die
+
+519
+00:21:34,590 --> 00:21:37,190
+Deutungshypothese. Vielen lieben
+
+520
+00:21:37,190 --> 00:21:38,550
+Dank. Bis bald.
+

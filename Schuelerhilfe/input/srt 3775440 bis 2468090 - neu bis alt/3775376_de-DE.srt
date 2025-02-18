@@ -1,0 +1,584 @@
+1
+00:00:03,890 --> 00:00:05,850
+Willkommen zu einem neuen Lernvideo.
+
+2
+00:00:06,090 --> 00:00:07,830
+Mein Name ist Joshua und ich bin
+
+3
+00:00:07,830 --> 00:00:09,510
+Nachhilfelehrer bei der Schülerhilfe.
+
+4
+00:00:09,690 --> 00:00:11,590
+Ich freue mich, dir heute das Thema
+
+5
+00:00:11,590 --> 00:00:14,210
+Katalyse zu erklären. Ergänzend zu
+
+6
+00:00:14,210 --> 00:00:15,630
+diesem Video steht dir in unserem
+
+7
+00:00:15,630 --> 00:00:17,590
+Online-Lerncenter natürlich auch ein
+
+8
+00:00:17,590 --> 00:00:19,190
+Wiki zu diesem Thema zur Verfügung,
+
+9
+00:00:19,490 --> 00:00:20,990
+in dem dir die wichtigsten Begriffe
+
+10
+00:00:20,990 --> 00:00:24,130
+und Grundlagen erklärt werden. Der
+
+11
+00:00:24,130 --> 00:00:25,650
+Begriff Katalysator wird dir
+
+12
+00:00:25,650 --> 00:00:27,130
+vielleicht schon im Zusammenhang mit
+
+13
+00:00:27,130 --> 00:00:28,110
+Fahrzeugen und ihrer
+
+14
+00:00:28,110 --> 00:00:29,870
+Schadstoffemissionen zu Ohren
+
+15
+00:00:29,870 --> 00:00:32,150
+gekommen sein. Dieser sorgt für eine
+
+16
+00:00:32,150 --> 00:00:34,150
+schnelle Umwandlung von Schadstoffen
+
+17
+00:00:34,150 --> 00:00:36,530
+in ungiftige Stoffe, die anschließend
+
+18
+00:00:36,530 --> 00:00:38,230
+durch den Auspuff abgegeben werden.
+
+19
+00:00:38,950 --> 00:00:41,230
+Was genau die Katalyse ist und wie
+
+20
+00:00:41,230 --> 00:00:42,710
+sie vonstatten geht, wird im
+
+21
+00:00:42,710 --> 00:00:45,390
+Folgenden erklärt. Bei Reaktionen
+
+22
+00:00:45,390 --> 00:00:47,230
+spielt die Reaktionsenergie eine
+
+23
+00:00:47,230 --> 00:00:49,550
+wichtige Rolle. Die Reaktionsenergie
+
+24
+00:00:49,550 --> 00:00:51,250
+ist die Energie, die bei Stattfinden
+
+25
+00:00:51,250 --> 00:00:53,050
+einer Reaktion aufgewendet oder
+
+26
+00:00:53,050 --> 00:00:55,010
+freigesetzt wird. Wird Energie
+
+27
+00:00:55,010 --> 00:00:57,330
+während einer Reaktion frei, liegt
+
+28
+00:00:57,330 --> 00:00:58,770
+das daran, dass die Produkte der
+
+29
+00:00:58,770 --> 00:01:01,050
+Reaktion eine niedrigere Energie als
+
+30
+00:01:01,050 --> 00:01:03,330
+die Edukte besitzen. Die Differenz
+
+31
+00:01:03,330 --> 00:01:04,810
+zwischen ihren Energien, die
+
+32
+00:01:04,810 --> 00:01:06,630
+Reaktionsenergie, wird zum Beispiel
+
+33
+00:01:06,630 --> 00:01:08,450
+in Form von Wärme und Licht an die
+
+34
+00:01:08,450 --> 00:01:10,990
+Umgebung abgegeben. Die Reaktion ist
+
+35
+00:01:10,990 --> 00:01:13,530
+exotherm. Eine energieaufwendende
+
+36
+00:01:13,530 --> 00:01:15,450
+Reaktion wird endotherm genannt.
+
+37
+00:01:16,130 --> 00:01:17,490
+Betrachten wir nun die im
+
+38
+00:01:17,490 --> 00:01:19,110
+Chemieunterricht gern gezeigte
+
+39
+00:01:19,110 --> 00:01:20,790
+Verbrennung von Magnesium zu
+
+40
+00:01:20,790 --> 00:01:23,830
+Magnesiumoxid. Der Magnesiumstreifen
+
+41
+00:01:23,830 --> 00:01:25,750
+wird in die Flamme des Bunsenbrenners
+
+42
+00:01:25,750 --> 00:01:27,850
+gehalten und fängt an, unter einer
+
+43
+00:01:27,850 --> 00:01:29,530
+grellen Flamme zum Produkt zu
+
+44
+00:01:29,530 --> 00:01:33,190
+oxidieren, exotherme Reaktion. Doch
+
+45
+00:01:33,190 --> 00:01:34,650
+wenn das Produkt energetisch
+
+46
+00:01:34,650 --> 00:01:36,430
+günstiger als die Edukte, die
+
+47
+00:01:36,430 --> 00:01:38,770
+Ausgangsstoffe der Reaktion Magnesium
+
+48
+00:01:38,770 --> 00:01:40,550
+und Sauerstoff ist, ist? Wieso
+
+49
+00:01:40,550 --> 00:01:42,010
+reagiert der Streifen nicht ohne
+
+50
+00:01:42,010 --> 00:01:45,250
+unser Zutun bereits zum Produkt? Dies
+
+51
+00:01:45,250 --> 00:01:46,410
+liegt an der notwendigen
+
+52
+00:01:46,410 --> 00:01:48,230
+Aktivierungsenergie, welche zuerst
+
+53
+00:01:48,230 --> 00:01:49,970
+aufgewendet werden muss, damit die
+
+54
+00:01:49,970 --> 00:01:52,350
+Reaktion in Gang kommt. Diese Energie
+
+55
+00:01:52,350 --> 00:01:54,410
+liefert der Bunsenbrenner in Form von
+
+56
+00:01:54,410 --> 00:01:56,450
+Wärme. Sie ist recht hoch und
+
+57
+00:01:56,450 --> 00:01:58,270
+verhindert eine spontane Oxidation
+
+58
+00:01:58,270 --> 00:02:00,750
+des Streifens. Für viele biologische
+
+59
+00:02:00,750 --> 00:02:02,790
+Vorgänge und auch für uns Lebewesen
+
+60
+00:02:02,790 --> 00:02:04,470
+wäre das Überwinden einer derart
+
+61
+00:02:04,470 --> 00:02:05,890
+hohen Aktivierungsenergie
+
+62
+00:02:05,890 --> 00:02:08,110
+problematisch, da wir ebenfalls auf
+
+63
+00:02:08,110 --> 00:02:09,930
+das Verbrennen von Zuckern und Fetten
+
+64
+00:02:09,930 --> 00:02:11,930
+zur Energiegewinnung angewiesen sind.
+
+65
+00:02:12,590 --> 00:02:14,490
+Hier kommt die Katalyse ins Spiel.
+
+66
+00:02:14,670 --> 00:02:16,510
+Sie senkt die Aktivierungsenergie
+
+67
+00:02:16,510 --> 00:02:18,290
+stark ab und beschleunigt so die
+
+68
+00:02:18,290 --> 00:02:20,370
+Reaktion. Bewerkstelligt wird die
+
+69
+00:02:20,370 --> 00:02:21,610
+Katalyse durch sogenannte
+
+70
+00:02:21,610 --> 00:02:23,830
+Katalysatoren, chemische Stoffe, die
+
+71
+00:02:23,830 --> 00:02:25,490
+an der Reaktion beteiligt sind, aber
+
+72
+00:02:25,490 --> 00:02:27,990
+unverändert aus ihr hervorgehen. Die
+
+73
+00:02:27,990 --> 00:02:29,670
+Wirkungsweise von Katalysatoren
+
+74
+00:02:29,670 --> 00:02:31,070
+beruht auf der Bildung einer
+
+75
+00:02:31,070 --> 00:02:33,070
+energetisch stabilen Zwischenstufe
+
+76
+00:02:33,070 --> 00:02:34,610
+und ihrer Abreaktion zu dem
+
+77
+00:02:34,610 --> 00:02:37,410
+Endprodukt. In der Darstellung könnt
+
+78
+00:02:37,410 --> 00:02:38,990
+ihr die Reaktion der hypothetischen
+
+79
+00:02:38,990 --> 00:02:41,490
+Edukte A und B zum Produkt AB
+
+80
+00:02:41,490 --> 00:02:43,950
+erkennen. Ohne einen Katalysator
+
+81
+00:02:43,950 --> 00:02:45,690
+verläuft diese Reaktion über einen
+
+82
+00:02:45,690 --> 00:02:47,010
+energetisch ungünstigen
+
+83
+00:02:47,010 --> 00:02:49,650
+Zwischenzustand. Den zu erreichen, es
+
+84
+00:02:49,650 --> 00:02:51,270
+einer hohen Aktivierungsenergie
+
+85
+00:02:51,270 --> 00:02:53,370
+bedarf. Setzt man jedoch einen
+
+86
+00:02:53,370 --> 00:02:55,290
+Katalysator ein, bildet dieser mit
+
+87
+00:02:55,290 --> 00:02:57,310
+Edukt A die relativ stabile
+
+88
+00:02:57,310 --> 00:02:59,730
+Zwischenstufe AK, welche aufgrund
+
+89
+00:02:59,730 --> 00:03:01,550
+veränderter Eigenschaften schnell mit
+
+90
+00:03:01,550 --> 00:03:04,150
+B zum Endprodukt abreagiert, während
+
+91
+00:03:04,150 --> 00:03:06,410
+der Katalysator K unverändert die
+
+92
+00:03:06,410 --> 00:03:08,970
+Reaktion verlässt. Zu beachten ist,
+
+93
+00:03:09,090 --> 00:03:10,730
+dass Katalysatoren das chemische
+
+94
+00:03:10,730 --> 00:03:12,410
+Gleichgewicht nicht verändern, sie
+
+95
+00:03:12,410 --> 00:03:14,530
+greifen lediglich in die Kinetik ein,
+
+96
+00:03:14,610 --> 00:03:17,290
+beschleunigen also die Reaktion. Die
+
+97
+00:03:17,290 --> 00:03:18,690
+Thermodynamik bleibt von den
+
+98
+00:03:18,690 --> 00:03:22,070
+Katalysatoren unberührt. Bekannte
+
+99
+00:03:22,070 --> 00:03:23,850
+technische Katalysatoren sind die
+
+100
+00:03:23,850 --> 00:03:26,530
+Edelmetalle Platin, Rhodium und
+
+101
+00:03:26,530 --> 00:03:28,350
+Palladium, welche unter anderem
+
+102
+00:03:28,350 --> 00:03:30,450
+Verbrennungen beschleunigen. In über
+
+103
+00:03:30,450 --> 00:03:32,630
+80% der chemisch-industriellen
+
+104
+00:03:32,630 --> 00:03:34,630
+Prozesse kommen Katalysatoren zum
+
+105
+00:03:34,630 --> 00:03:37,070
+Einsatz. Neben positiven
+
+106
+00:03:37,070 --> 00:03:38,490
+Katalysatoren, welche die
+
+107
+00:03:38,490 --> 00:03:40,550
+Aktivierungsenergie herabsetzen und
+
+108
+00:03:40,550 --> 00:03:42,170
+die Reaktion beschleunigen, gibt es
+
+109
+00:03:42,170 --> 00:03:44,270
+auch negative Katalysatoren, welche
+
+110
+00:03:44,270 --> 00:03:46,450
+die Aktivierungsenergie erhöhen und
+
+111
+00:03:46,450 --> 00:03:49,010
+so die Reaktion verlangsamen. Diese
+
+112
+00:03:49,010 --> 00:03:51,130
+negativen Katalysatoren kommen in der
+
+113
+00:03:51,130 --> 00:03:53,550
+Industrie ebenfalls zum Einsatz, zum
+
+114
+00:03:53,550 --> 00:03:54,730
+Beispiel wenn von Natur aus
+
+115
+00:03:54,730 --> 00:03:56,930
+explosionsartig ablaufende Reaktionen
+
+116
+00:03:56,930 --> 00:03:59,230
+kontrollierbar verlaufen sollen. Eine
+
+117
+00:03:59,230 --> 00:04:01,130
+für uns noch größere Relevanz haben
+
+118
+00:04:01,130 --> 00:04:03,530
+biologische Katalysatoren. Diese
+
+119
+00:04:03,530 --> 00:04:05,690
+Biokatalysatoren werden Enzyme
+
+120
+00:04:05,690 --> 00:04:07,510
+genannt. Sie kommen in den Zellen
+
+121
+00:04:07,510 --> 00:04:09,650
+aller Lebewesen vor, denn fast alle
+
+122
+00:04:09,650 --> 00:04:10,970
+lebensnotwendigen chemischen
+
+123
+00:04:10,970 --> 00:04:12,890
+Reaktionen laufen katalysiert ab.
+
+124
+00:04:13,110 --> 00:04:15,270
+Enzyme spielen eine fundamentale
+
+125
+00:04:15,270 --> 00:04:17,270
+Rolle im Stoffwechsel von Verdauung
+
+126
+00:04:17,270 --> 00:04:19,130
+bis Reproduktion und Transkription
+
+127
+00:04:19,130 --> 00:04:21,610
+der Gene. Die Enzyme sind meist
+
+128
+00:04:21,610 --> 00:04:23,970
+komplexe Proteine, die spezifisch an
+
+129
+00:04:23,970 --> 00:04:25,970
+die Edukte binden, diese in
+
+130
+00:04:25,970 --> 00:04:27,630
+räumlicher Nähe zueinander bringen
+
+131
+00:04:27,630 --> 00:04:29,370
+und durch intermolekulare
+
+132
+00:04:29,370 --> 00:04:30,790
+Wechselwirkungen potenziell
+
+133
+00:04:30,790 --> 00:04:32,190
+ungünstige Zwischenstufen
+
+134
+00:04:32,190 --> 00:04:35,830
+stabilisieren. Wirkungsweise von
+
+135
+00:04:35,830 --> 00:04:37,930
+Enzymen erlaubt erst die Entstehung
+
+136
+00:04:37,930 --> 00:04:40,010
+von komplexen Leben, wie wir es heute
+
+137
+00:04:40,010 --> 00:04:42,190
+kennen. Vielen Dank für deine
+
+138
+00:04:42,190 --> 00:04:44,090
+Aufmerksamkeit. Ich hoffe, das Video
+
+139
+00:04:44,090 --> 00:04:45,330
+konnte dir zu einem besseren
+
+140
+00:04:45,330 --> 00:04:46,490
+Verständnis des Themas
+
+141
+00:04:46,490 --> 00:04:48,130
+Reaktionsenergie und Katalyse
+
+142
+00:04:48,130 --> 00:04:50,410
+verhelfen. Um die Inhalte noch besser
+
+143
+00:04:50,410 --> 00:04:51,990
+zu vertiefen, stehen dir im Online
+
+144
+00:04:51,990 --> 00:04:53,670
+-Lerncenter natürlich noch weitere
+
+145
+00:04:53,670 --> 00:04:56,150
+Lernangebote zur Verfügung. Bis zum
+
+146
+00:04:56,150 --> 00:04:56,690
+nächsten Mal!
+

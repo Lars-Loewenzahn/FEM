@@ -1,0 +1,358 @@
+﻿1
+00:00:00,500 --> 00:00:02,280
+Hello and welcome to the 
+
+2
+00:00:02,280 --> 00:00:03,920
+learning videos at Schülerhilfe. 
+
+3
+00:00:04,020 --> 00:00:05,840
+Today's topic is the 
+
+4
+00:00:05,840 --> 00:00:08,680
+dative object. Just like in German 
+
+5
+00:00:08,680 --> 00:00:10,640
+, we also ask about 
+
+6
+00:00:10,640 --> 00:00:12,440
+the dative object with whom in Latin. 
+
+7
+00:00:19,550 --> 00:00:21,650
+First of all, the dative object is used to 
+
+8
+00:00:21,650 --> 00:00:24,130
+complement transitive verbs 
+
+9
+00:00:24,130 --> 00:00:25,850
+that already have an accusative object 
+
+10
+00:00:25,850 --> 00:00:27,650
+. To repeat, transitive 
+
+11
+00:00:27,650 --> 00:00:29,070
+verbs always have an 
+
+12
+00:00:29,070 --> 00:00:31,830
+accusative object. And then they are used 
+
+13
+00:00:31,830 --> 00:00:34,390
+to describe the recipient of a 
+
+14
+00:00:34,390 --> 00:00:37,730
+thing or a message. 
+
+15
+00:00:45,930 --> 00:00:47,960
+Here is a 
+
+16
+00:00:47,960 --> 00:00:51,160
+first example to illustrate this . Librum 
+amico dono. 
+
+17
+00:00:51,180 --> 00:00:54,800
+I give the book to my friend. We 
+
+18
+00:00:54,800 --> 00:00:59,240
+ask, who am I giving the book to? And 
+
+19
+00:00:59,240 --> 00:01:03,100
+our answer is, to my friend. 
+
+20
+00:01:13,500 --> 00:01:14,980
+
+21
+00:01:14,980 --> 00:01:16,680
+In second place come the intransitive 
+verbs, which 
+
+22
+00:01:16,680 --> 00:01:19,300
+are followed by a dative. They then denote 
+
+23
+00:01:19,300 --> 00:01:23,720
+either a benefit or a 
+
+24
+00:01:23,720 --> 00:01:24,440
+harm. 
+
+25
+00:01:27,060 --> 00:01:32,680
+Our example here would be Der Krieg 
+
+26
+00:01:32,680 --> 00:01:35,300
+schadete dem Staat. We ask 
+
+27
+00:01:35,300 --> 00:01:39,300
+again, who did the war harm? And 
+
+28
+00:01:39,300 --> 00:01:41,520
+our answer is the state. 
+
+29
+00:01:44,070 --> 00:01:46,010
+The third point 
+
+30
+00:01:46,010 --> 00:01:47,150
+to remember is the 
+
+31
+00:01:47,150 --> 00:01:48,770
+impersonal verbs with a 
+
+32
+00:01:48,770 --> 00:01:50,810
+dative object. Here, 
+
+33
+00:01:50,810 --> 00:01:55,820
+for example, we have mihi kontiget, the 
+dative 
+
+34
+00:01:55,820 --> 00:02:00,340
+mihi, es gelingt mir. 
+
+35
+00:02:00,340 --> 00:02:01,840
+The dative object is in brackets here, 
+
+36
+00:02:01,900 --> 00:02:03,260
+as the expression 
+
+37
+00:02:03,260 --> 00:02:04,820
+can also stand for itself. This means that 
+you could also 
+
+38
+00:02:04,820 --> 00:02:06,940
+simply say kontiget, es gelingt 
+
+39
+00:02:06,940 --> 00:02:08,620
+and, in combination with the 
+
+40
+00:02:08,620 --> 00:02:11,300
+dative object, mihi kontiget, es 
+
+41
+00:02:11,300 --> 00:02:14,720
+gelingt mir. Our second example 
+
+42
+00:02:14,720 --> 00:02:20,380
+would then be tibi akidit it happens to 
+
+43
+00:02:20,380 --> 00:02:24,560
+you. This is followed by nobis libet, 
+
+44
+00:02:27,980 --> 00:02:32,040
+we like it or we like it. 
+
+45
+00:02:32,180 --> 00:02:33,320
+That would be the second 
+
+46
+00:02:33,320 --> 00:02:35,040
+possible translation at this 
+
+47
+00:02:35,040 --> 00:02:35,420
+point . 
+
+48
+00:02:42,540 --> 00:02:44,340
+Here again is a small 
+
+49
+00:02:44,340 --> 00:02:47,040
+example sentence tibi plakit aves 
+
+50
+00:02:47,040 --> 00:02:51,900
+observare. Tibi would be our dative case 
+here 
+
+51
+00:02:51,900 --> 00:02:53,660
+and in German we would have 
+
+52
+00:02:53,660 --> 00:02:57,640
+Es gefällt dir, die 
+
+53
+00:02:57,640 --> 00:02:58,960
+Vögel zu beobachten. 
+
+54
+00:03:09,120 --> 00:03:11,040
+Finally, here are the 
+
+55
+00:03:11,040 --> 00:03:13,200
+Latin verbs which, 
+
+56
+00:03:13,200 --> 00:03:15,500
+unlike German verbs, 
+
+57
+00:03:15,500 --> 00:03:19,740
+require a dative object. Our first example 
+at 
+
+58
+00:03:19,740 --> 00:03:22,220
+this point would be Novice rebus 
+
+59
+00:03:22,220 --> 00:03:24,880
+studere, a coup or 
+
+60
+00:03:24,880 --> 00:03:28,280
+overthrow plan. And in Latin 
+
+61
+00:03:28,280 --> 00:03:32,570
+we have the dative case here, which we 
+
+62
+00:03:32,570 --> 00:03:34,570
+recognize by the ending "-is and "-bus. 
+
+63
+00:03:34,830 --> 00:03:36,670
+In German, however, we ask 
+
+64
+00:03:36,670 --> 00:03:41,750
+with whom or what a coup or 
+
+65
+00:03:41,750 --> 00:03:44,830
+overthrow and accordingly for 
+
+66
+00:03:44,830 --> 00:03:46,410
+an accusative object. 
+
+67
+00:03:56,640 --> 00:03:58,080
+Here is a 
+
+68
+00:03:58,080 --> 00:04:00,580
+second example to illustrate the whole 
+thing 
+
+69
+00:04:00,580 --> 00:04:02,520
+even more clearly. 
+
+70
+00:04:02,520 --> 00:04:06,340
+We would have feminis pacere, die Frauen 
+
+71
+00:04:06,340 --> 00:04:10,080
+verschonen, the ending is, in 
+
+72
+00:04:10,080 --> 00:04:12,200
+Latin for the dative case 
+
+73
+00:04:12,200 --> 00:04:13,580
+, but in German we ask again 
+
+74
+00:04:13,580 --> 00:04:17,500
+with wen or was and accordingly 
+
+75
+00:04:17,500 --> 00:04:19,580
+for an accusative object. 
+
+76
+00:04:21,120 --> 00:04:23,200
+At this point, we have reached our 
+
+77
+00:04:23,200 --> 00:04:25,140
+summary. The 
+
+78
+00:04:25,140 --> 00:04:28,520
+dative object is asked for with whom and 
+
+79
+00:04:28,520 --> 00:04:30,020
+in German, instead of the 
+
+80
+00:04:30,020 --> 00:04:31,500
+dative object, the dative object can be 
+asked for with whom. 
+
+81
+00:04:31,520 --> 00:04:33,320
+what in Latin also 
+
+82
+00:04:33,320 --> 00:04:35,380
+stands for another object. You 
+
+83
+00:04:35,380 --> 00:04:36,560
+
+84
+00:04:36,560 --> 00:04:38,000
+learned about this in the last two 
+examples. There we had 
+
+85
+00:04:38,000 --> 00:04:38,920
+the 
+
+86
+00:04:38,920 --> 00:04:41,420
+accusative object in German. Thank you for 
+
+87
+00:04:41,420 --> 00:04:43,380
+your attention and see you soon for 
+
+88
+00:04:43,380 --> 00:04:44,760
+a video from Schülerhilfe. 

@@ -1,0 +1,546 @@
+﻿1
+00:00:00,530 --> 00:00:02,590
+Welcome to the 
+
+2
+00:00:02,590 --> 00:00:04,110
+Schülerhilfe webinar on 
+
+3
+00:00:04,110 --> 00:00:08,410
+basic addition. 
+
+4
+00:00:08,410 --> 00:00:10,690
+Today we want to take a look at how we 
+
+5
+00:00:10,690 --> 00:00:13,930
+add numbers together, then how 
+
+6
+00:00:13,930 --> 00:00:16,010
+we 
+
+7
+00:00:16,010 --> 00:00:19,030
+carry out written addition , what the tens 
+transition 
+
+8
+00:00:19,030 --> 00:00:22,390
+is and how we 
+
+9
+00:00:22,390 --> 00:00:25,930
+add large numbers. Let's start with 
+
+10
+00:00:25,930 --> 00:00:28,470
+addition itself. How can you 
+
+11
+00:00:28,470 --> 00:00:31,330
+
+12
+00:00:31,330 --> 00:00:36,570
+even imagine the calculation 4 plus 5 
+equals 9 ? Well, we have 
+
+13
+00:00:36,570 --> 00:00:40,810
+a number line. And on the 
+
+14
+00:00:40,810 --> 00:00:42,710
+number line we mark the 
+
+15
+00:00:42,710 --> 00:00:46,790
+first number, 4. If we now 
+
+16
+00:00:46,790 --> 00:00:48,930
+add 5 , we go 
+
+17
+00:00:48,930 --> 00:00:52,130
+5 steps further to 
+
+18
+00:00:52,130 --> 00:00:54,610
+the right on the number line and end up 
+with 9. 
+
+19
+00:00:56,170 --> 00:00:58,910
+We have now added 4 and 5. 
+
+20
+00:01:02,120 --> 00:01:04,280
+When adding, we always add 
+
+21
+00:01:04,280 --> 00:01:06,820
+two addends. This is what we call the 
+
+22
+00:01:06,820 --> 00:01:10,560
+numbers we want to add. 
+
+23
+00:01:10,560 --> 00:01:13,580
+We call the result of the addition the 
+
+24
+00:01:13,580 --> 00:01:17,300
+sum. The order of the addends 
+
+25
+00:01:17,300 --> 00:01:19,320
+has no effect on the 
+
+26
+00:01:19,320 --> 00:01:22,140
+sum. In other words, it doesn't matter 
+whether we 
+
+27
+00:01:22,140 --> 00:01:26,040
+add 4 plus 5 or 5 plus 4. The 
+
+28
+00:01:26,040 --> 00:01:29,440
+result is the same. In general, 
+
+29
+00:01:29,440 --> 00:01:34,500
+we also say that a plus b is b plus a. 
+
+30
+00:01:36,500 --> 00:01:38,640
+We can 
+
+31
+00:01:38,640 --> 00:01:40,880
+use any numbers for a and b. 
+
+32
+00:01:43,760 --> 00:01:46,080
+Another example is the task 
+
+33
+00:01:46,080 --> 00:01:50,800
+3 plus 7 plus 1, i.e. with more than 
+
+34
+00:01:50,800 --> 00:01:56,820
+two summands. We have 3, go 7 
+
+35
+00:01:56,820 --> 00:02:00,860
+steps to the right and then 
+
+36
+00:02:00,860 --> 00:02:02,880
+another step to the right 
+
+37
+00:02:02,880 --> 00:02:07,300
+and end up with 11. Alternatively 
+
+38
+00:02:07,300 --> 00:02:10,260
+, we can also imagine the numbers as dots 
+
+39
+00:02:10,260 --> 00:02:13,720
+. So 3 would be 3 dots, 7 
+
+40
+00:02:13,720 --> 00:02:18,320
+would be 7 dots, 1 would be 1 dot. Then 
+
+41
+00:02:18,320 --> 00:02:20,560
+we simply put the dots 
+
+42
+00:02:20,560 --> 00:02:26,560
+together in blocks of five. So 5, 5 and 
+
+43
+00:02:26,560 --> 00:02:30,900
+1, which means we have 5, 10, 11 as 
+
+44
+00:02:30,900 --> 00:02:31,260
+the result. 
+
+45
+00:02:34,140 --> 00:02:38,120
+Another example is 22 plus 15 
+
+46
+00:02:38,120 --> 00:02:41,700
+plus 4, where the number line is 
+
+47
+00:02:41,700 --> 00:02:43,780
+very long and no longer 
+
+48
+00:02:43,780 --> 00:02:45,280
+clear. This means 
+
+49
+00:02:45,280 --> 00:02:48,740
+we don't use it here. 
+
+50
+00:02:48,740 --> 00:02:50,220
+However, we can do the whole thing 
+
+51
+00:02:50,220 --> 00:02:52,460
+with dots again . But here, too, 
+
+52
+00:02:52,460 --> 00:02:55,020
+we realize that we have to 
+
+53
+00:02:55,020 --> 00:02:59,960
+write down 22 dots for 22. 15 for 15. 4 
+
+54
+00:02:59,960 --> 00:03:03,120
+for 4 and would then 
+
+55
+00:03:03,120 --> 00:03:05,900
+write them down in blocks of 5. 
+
+56
+00:03:05,900 --> 00:03:08,260
+However, we can also use written 
+
+57
+00:03:08,260 --> 00:03:12,300
+addition instead . With 
+
+58
+00:03:12,300 --> 00:03:15,500
+written addition, we write down 
+
+59
+00:03:15,500 --> 00:03:20,280
+2 or more addends 
+
+60
+00:03:20,280 --> 00:03:24,140
+one below the other. This is particularly 
+
+61
+00:03:24,140 --> 00:03:26,860
+useful for larger numbers. 
+
+62
+00:03:26,860 --> 00:03:29,580
+Let's take 12 plus 4 as an example. 
+
+63
+00:03:29,660 --> 00:03:32,620
+We write the two numbers 
+
+64
+00:03:32,620 --> 00:03:36,260
+one below the other and then add the 
+
+65
+00:03:36,260 --> 00:03:40,020
+1s together, i.e. 2 plus 4 is 6 
+
+66
+00:03:40,020 --> 00:03:43,700
+and the 10s together, i.e. 1 plus 
+
+67
+00:03:43,700 --> 00:03:47,080
+2 is 3. Then we 
+
+68
+00:03:47,080 --> 00:03:48,720
+just add the two numbers together. The 
+
+69
+00:03:48,720 --> 00:03:50,620
+result is therefore 36. 
+
+70
+00:03:53,300 --> 00:04:00,050
+3 10s and 6 1s. Now what 
+
+71
+00:04:00,170 --> 00:04:04,270
+if we 
+
+72
+00:04:04,270 --> 00:04:09,150
+have an example like 17 plus 25 ? We add 
+the one, 7 plus 
+
+73
+00:04:09,150 --> 00:04:12,930
+5 equals 12, which means that 
+
+74
+00:04:12,930 --> 00:04:14,750
+we can no longer 
+
+75
+00:04:14,750 --> 00:04:17,570
+simply add our numbers together. If we 
+were to 
+
+76
+00:04:17,570 --> 00:04:19,930
+do this, we would 
+
+77
+00:04:19,930 --> 00:04:23,210
+calculate 1 plus 2 for the 10s , which 
+would be 3, and 
+
+78
+00:04:23,210 --> 00:04:24,350
+add the numbers together, then our 
+
+79
+00:04:24,350 --> 00:04:27,730
+result would be 312. Of course, that 
+makes... 
+
+80
+00:04:27,750 --> 00:04:30,750
+no sense. Instead, when we 
+
+81
+00:04:30,750 --> 00:04:33,470
+add the 1 and get above 10, 
+
+82
+00:04:33,630 --> 00:04:36,950
+we remember the 2 for the 1s 
+
+83
+00:04:36,950 --> 00:04:40,490
+and write a 
+
+84
+00:04:40,490 --> 00:04:44,110
+small 1 for the 1 under the 10s. 
+
+85
+00:04:44,310 --> 00:04:47,210
+Then we know that we 
+
+86
+00:04:47,210 --> 00:04:48,770
+also have to add them. We 
+
+87
+00:04:48,770 --> 00:04:53,070
+then calculate 1 plus 2 plus 1 for the 
+
+88
+00:04:53,070 --> 00:04:56,510
+10s, i.e. 4. This means that our 
+
+89
+00:04:56,510 --> 00:05:01,570
+result is 42. We remember that 
+
+90
+00:05:01,650 --> 00:05:04,770
+if the intermediate result is greater than 
+
+91
+00:05:04,770 --> 00:05:08,070
+10, 
+
+92
+00:05:08,070 --> 00:05:11,410
+a 1 must be added to the next digit. So, 1 
+
+93
+00:05:11,410 --> 00:05:14,370
+together is greater than 10, which means 
+we 
+
+94
+00:05:14,370 --> 00:05:16,590
+add a 1 to the tens. 
+
+95
+00:05:20,450 --> 00:05:22,250
+Let's look at the whole thing again for 
+
+96
+00:05:22,250 --> 00:05:25,510
+a larger task. Then 177 
+
+97
+00:05:25,510 --> 00:05:32,010
+plus 94 plus 53. We start with the 
+
+98
+00:05:32,010 --> 00:05:39,230
+ones. 7 plus 4 plus 3 equals 14, which 
+
+99
+00:05:39,230 --> 00:05:42,170
+means we write the 4 as a 
+
+100
+00:05:42,170 --> 00:05:45,650
+number of ones. And write the 1 
+
+101
+00:05:45,650 --> 00:05:49,550
+in lower case under the tens. Then 
+
+102
+00:05:49,550 --> 00:05:52,870
+we continue with the tens. 7 plus 9, 
+
+103
+00:05:53,470 --> 00:06:00,730
+plus 5 plus 1 equals 22. We write the 2 
+
+104
+00:06:00,730 --> 00:06:04,430
+as a number of 10 and 
+
+105
+00:06:04,430 --> 00:06:10,610
+transfer the 2 from the 20 under the 
+
+106
+00:06:10,610 --> 00:06:13,730
+100s. Here we calculate 
+
+107
+00:06:13,730 --> 00:06:17,310
+the 100s . 1 plus 2 
+
+108
+00:06:17,310 --> 00:06:22,230
+equals 3. We write down 3 as a number of 
+100 
+
+109
+00:06:22,230 --> 00:06:24,810
+. Our result is therefore 
+
+110
+00:06:24,810 --> 00:06:25,950
+324 
+
+111
+00:06:29,920 --> 00:06:33,120
+. With this calculation technique, even 
+
+112
+00:06:33,120 --> 00:06:35,900
+large numbers are no longer a problem. For 
+
+113
+00:06:35,900 --> 00:06:43,880
+example, 45,642 plus 101,569. We 
+
+114
+00:06:43,880 --> 00:06:45,160
+simply write the two numbers 
+
+115
+00:06:45,160 --> 00:06:48,020
+one below the other and go 
+
+116
+00:06:48,020 --> 00:06:50,840
+
+117
+00:06:50,840 --> 00:06:54,980
+through the individual sums digit by 
+digit. So 2 plus 9 is 11, and 
+
+118
+00:06:54,980 --> 00:06:57,820
+we write down the 1. 
+
+119
+00:06:57,820 --> 00:07:00,980
+We write the 10s 1 under the 10s. 4 plus 
+
+120
+00:07:00,980 --> 00:07:04,160
+6 plus 1 is 11 again. We write 
+
+121
+00:07:04,160 --> 00:07:08,860
+down the 1 and transfer the 1 as a 
+
+122
+00:07:08,860 --> 00:07:14,240
+10. 6 plus 5 plus 1 is 12. 
+
+123
+00:07:14,240 --> 00:07:16,380
+We write down the 2. The 1 is transferred 
+again 
+
+124
+00:07:16,380 --> 00:07:21,080
+. 5 plus 1 plus 1 is 7. 
+
+125
+00:07:21,320 --> 00:07:22,800
+We don't need to 
+
+126
+00:07:22,800 --> 00:07:28,700
+transfer anything here. 4 plus 0 is 4 and 
+1 plus 
+
+127
+00:07:28,700 --> 00:07:33,040
+0 remains 1. This means that our result 
+
+128
+00:07:33,040 --> 00:07:36,740
+for these two large numbers is 
+
+129
+00:07:36,740 --> 00:07:40,060
+147,211. 
+
+130
+00:07:42,560 --> 00:07:45,440
+This brings us to the end of 
+
+131
+00:07:45,440 --> 00:07:47,380
+today's webinar. 
+
+132
+00:07:47,380 --> 00:07:49,020
+Thank you 
+
+133
+00:07:49,020 --> 00:07:50,780
+for your attention and have a 
+
+134
+00:07:50,780 --> 00:07:51,500
+nice day. 

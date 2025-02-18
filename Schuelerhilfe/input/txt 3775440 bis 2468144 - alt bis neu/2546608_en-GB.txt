@@ -1,0 +1,2145 @@
+﻿1
+00:00:02,800 --> 00:00:04,560
+Hello and welcome to the 
+
+2
+00:00:04,560 --> 00:00:06,600
+Schülerhilfe webinar. 
+
+3
+00:00:06,600 --> 00:00:08,240
+Today we will be looking at the topic of 
+
+4
+00:00:08,240 --> 00:00:10,260
+dictionaries. In other words, we will look 
+
+5
+00:00:10,260 --> 00:00:12,140
+at what the term 
+
+6
+00:00:12,140 --> 00:00:14,020
+dictionary means, 
+
+7
+00:00:14,020 --> 00:00:16,460
+then we will ask ourselves what 
+
+8
+00:00:16,460 --> 00:00:18,440
+a dictionary is used for, 
+
+9
+00:00:18,440 --> 00:00:20,960
+then we will 
+
+10
+00:00:20,960 --> 00:00:23,360
+look at how to 
+
+11
+00:00:23,360 --> 00:00:26,940
+use a dictionary , then we will look 
+
+12
+00:00:26,940 --> 00:00:29,360
+at the signs of special 
+
+13
+00:00:29,360 --> 00:00:30,720
+meaning in a dictionary 
+
+14
+00:00:30,720 --> 00:00:32,920
+and finally we will look at how to 
+
+15
+00:00:32,920 --> 00:00:36,400
+
+16
+00:00:36,400 --> 00:00:37,980
+find the right meaning for a word . In 
+other words, we will 
+
+17
+00:00:37,980 --> 00:00:40,080
+look at the method of 
+
+18
+00:00:40,080 --> 00:00:42,220
+finding a suitable 
+
+19
+00:00:42,220 --> 00:00:44,280
+meaning for a word quickly and easily. 
+
+20
+00:00:44,640 --> 00:00:46,320
+Let's start with the general 
+
+21
+00:00:46,320 --> 00:00:48,820
+concept of a dictionary. 
+
+22
+00:00:48,820 --> 00:00:50,660
+First and foremost, a dictionary is 
+
+23
+00:00:50,660 --> 00:00:52,680
+a reference work. This means that it is 
+
+24
+00:00:52,680 --> 00:00:54,340
+an information overview of 
+
+25
+00:00:54,340 --> 00:00:57,560
+words that 
+
+26
+00:00:57,560 --> 00:01:00,100
+contains an alphabetically sorted list. 
+
+27
+00:01:00,100 --> 00:01:01,820
+In other words, this information overview 
+
+28
+00:01:01,820 --> 00:01:03,200
+consists of an alphabetically 
+
+29
+00:01:03,200 --> 00:01:04,940
+sorted list. This is called 
+
+30
+00:01:04,940 --> 00:01:07,060
+a dictionary. In addition to this 
+
+31
+00:01:07,060 --> 00:01:08,940
+list of words, a 
+
+32
+00:01:08,940 --> 00:01:11,120
+dictionary also contains external texts. 
+
+33
+00:01:11,120 --> 00:01:12,340
+This means user notes, 
+
+34
+00:01:12,520 --> 00:01:14,240
+lists of abbreviations and 
+
+35
+00:01:14,240 --> 00:01:16,720
+inflection tables. A inflection 
+
+36
+00:01:16,720 --> 00:01:18,300
+is ultimately the inflection of a 
+
+37
+00:01:18,300 --> 00:01:20,200
+word. This means that with nouns 
+
+38
+00:01:20,200 --> 00:01:22,160
+and adjectives we 
+
+39
+00:01:22,160 --> 00:01:24,320
+
+40
+00:01:24,320 --> 00:01:25,860
+are dealing with declension classes and 
+declensions and with verbs with 
+
+41
+00:01:25,860 --> 00:01:27,340
+conjugation classes and 
+
+42
+00:01:27,340 --> 00:01:30,680
+conjugation sequences. In addition to 
+these 
+
+43
+00:01:30,680 --> 00:01:33,340
+three, there 
+
+44
+00:01:33,360 --> 00:01:35,100
+are of course others, such 
+
+45
+00:01:35,200 --> 00:01:37,780
+as an appendix with 
+
+46
+00:01:37,780 --> 00:01:41,200
+idioms . We know Al-Jalak das 
+
+47
+00:01:41,200 --> 00:01:44,280
+Est as an excellent example 
+
+48
+00:01:44,280 --> 00:01:49,320
+of what Latin 
+
+49
+00:01:49,320 --> 00:01:51,120
+idioms are, for example, or Carpe Diem, 
+
+50
+00:01:51,120 --> 00:01:52,480
+who said it, in what 
+
+51
+00:01:52,480 --> 00:01:55,060
+context it is connected. This gives 
+
+52
+00:01:55,060 --> 00:01:56,600
+us additional 
+
+53
+00:01:56,600 --> 00:01:58,980
+information. In other words, external 
+texts 
+
+54
+00:01:58,980 --> 00:02:00,420
+provide us with further 
+
+55
+00:02:00,420 --> 00:02:04,100
+information in addition to the actual 
+
+56
+00:02:04,100 --> 00:02:05,180
+core of the book, namely the 
+
+57
+00:02:05,180 --> 00:02:07,300
+dictionary. In addition to the 
+
+58
+00:02:07,300 --> 00:02:08,940
+general paperbacks and 
+
+59
+00:02:08,940 --> 00:02:11,260
+reference works in print, i.e. 
+
+60
+00:02:11,260 --> 00:02:12,900
+the printed version, there 
+
+61
+00:02:12,900 --> 00:02:15,220
+are also online dictionaries. 
+
+62
+00:02:15,220 --> 00:02:17,740
+Let us now ask ourselves what 
+
+63
+00:02:17,740 --> 00:02:20,200
+this 
+
+64
+00:02:20,200 --> 00:02:23,100
+information actually means . Well, it is 
+
+65
+00:02:23,100 --> 00:02:25,860
+information about the language, 
+
+66
+00:02:25,860 --> 00:02:28,320
+which means that a language dictionary is 
+a 
+
+67
+00:02:28,320 --> 00:02:29,860
+dictionary. This means that we can 
+
+68
+00:02:29,860 --> 00:02:30,880
+
+69
+00:02:30,880 --> 00:02:34,220
+find out linguistic information , 
+information such as 
+
+70
+00:02:34,220 --> 00:02:37,620
+spelling, 
+
+71
+00:02:37,620 --> 00:02:39,280
+pronunciation or 
+
+72
+00:02:39,280 --> 00:02:41,060
+grammatical properties, such as 
+
+73
+00:02:41,060 --> 00:02:43,400
+word type and genus. 
+
+74
+00:02:43,400 --> 00:02:44,780
+We have already talked about the term 
+deflection 
+
+75
+00:02:44,780 --> 00:02:46,700
+and have also 
+
+76
+00:02:46,700 --> 00:02:49,500
+briefly mentioned why it is important to 
+
+77
+00:02:49,580 --> 00:02:50,900
+
+78
+00:02:50,900 --> 00:02:52,680
+know the origin and meaning of a word. In 
+other words, we 
+
+79
+00:02:52,680 --> 00:02:54,540
+need to look at where it comes from, when 
+
+80
+00:02:54,540 --> 00:02:56,280
+it is used and this 
+
+81
+00:02:56,280 --> 00:02:57,060
+ultimately leads us to 
+
+82
+00:02:57,060 --> 00:02:58,600
+the usage background and the 
+
+83
+00:02:58,600 --> 00:03:00,760
+translation possibilities . Because as 
+
+84
+00:03:00,760 --> 00:03:02,920
+most people know, 
+
+85
+00:03:02,920 --> 00:03:05,020
+Italian, sorry, 
+
+86
+00:03:05,020 --> 00:03:07,360
+Latin words usually have several 
+
+87
+00:03:07,360 --> 00:03:09,780
+possible translations into 
+
+88
+00:03:09,780 --> 00:03:12,300
+German and we therefore always have to 
+
+89
+00:03:12,300 --> 00:03:13,940
+check which is the correct 
+
+90
+00:03:13,940 --> 00:03:16,020
+translation and when we 
+
+91
+00:03:16,020 --> 00:03:19,140
+have to use which translation. 
+
+92
+00:03:19,220 --> 00:03:20,880
+This means that it is highly advisable to 
+
+93
+00:03:20,880 --> 00:03:22,160
+
+94
+00:03:22,160 --> 00:03:24,160
+
+95
+00:03:24,160 --> 00:03:26,220
+look up and understand the usage notes and 
+the translation options as well . 
+
+96
+00:03:27,060 --> 00:03:29,220
+Now we come to the question of why 
+
+97
+00:03:29,220 --> 00:03:31,120
+we use a dictionary. 
+
+98
+00:03:31,120 --> 00:03:32,500
+First and foremost , we want to 
+
+99
+00:03:32,500 --> 00:03:33,900
+
+100
+00:03:33,900 --> 00:03:34,880
+find out the meaning of a word , i.e. 
+
+101
+00:03:34,880 --> 00:03:36,540
+find out possible translations. 
+
+102
+00:03:37,120 --> 00:03:39,060
+In addition to this, we can 
+
+103
+00:03:39,060 --> 00:03:41,380
+
+104
+00:03:41,380 --> 00:03:43,180
+
+105
+00:03:43,180 --> 00:03:45,480
+find out about the spelling, pronunciation 
+and, as mentioned, the idiom and also 
+
+106
+00:03:45,480 --> 00:03:47,340
+
+107
+00:03:47,340 --> 00:03:49,260
+
+108
+00:03:49,260 --> 00:03:50,760
+find certain example situations for the 
+use and occurrence of the word, as well as 
+how it is used. 
+
+109
+00:03:52,340 --> 00:03:54,200
+When we look at 
+
+110
+00:03:54,200 --> 00:03:55,840
+dictionary use, 
+
+111
+00:03:55,880 --> 00:03:57,440
+we started by asking ourselves, 
+
+112
+00:03:57,580 --> 00:03:59,520
+how do I use my dictionary? 
+
+113
+00:03:59,520 --> 00:04:01,000
+In other words, my aim is to 
+
+114
+00:04:01,000 --> 00:04:03,580
+look up information quickly 
+
+115
+00:04:03,580 --> 00:04:05,740
+and find it specifically. 
+
+116
+00:04:05,740 --> 00:04:07,780
+In other words, I have to remind myself, 
+
+117
+00:04:07,780 --> 00:04:09,240
+once again, that we 
+
+118
+00:04:09,240 --> 00:04:11,080
+have a dictionary here , i.e. 
+
+119
+00:04:11,080 --> 00:04:12,820
+an alphabetically sorted list, 
+
+120
+00:04:12,820 --> 00:04:14,840
+as we have already established, which 
+
+121
+00:04:14,840 --> 00:04:16,680
+we just want to use. How do we use 
+
+122
+00:04:16,680 --> 00:04:18,700
+it best? We use it so 
+
+123
+00:04:18,780 --> 00:04:20,280
+that if we 
+
+124
+00:04:20,280 --> 00:04:23,260
+want to search for the word vowels, for 
+example, we don't 
+
+125
+00:04:23,260 --> 00:04:25,660
+start at A, but we limit 
+
+126
+00:04:25,660 --> 00:04:28,060
+our search radius as much as possible 
+
+127
+00:04:28,060 --> 00:04:30,420
+. In other words, we don't look at 
+
+128
+00:04:30,420 --> 00:04:32,760
+A, but at V. Now 
+
+129
+00:04:32,760 --> 00:04:35,180
+we don't start 
+
+130
+00:04:35,180 --> 00:04:37,400
+looking at the words with VA, but at the 
+
+131
+00:04:37,400 --> 00:04:40,800
+words with VO. In addition, 
+
+132
+00:04:40,800 --> 00:04:42,640
+we narrow down the word even further 
+
+133
+00:04:42,700 --> 00:04:44,320
+by saying that we are only looking for 
+
+134
+00:04:44,320 --> 00:04:47,320
+words with VOK. And we soon arrive 
+
+135
+00:04:47,320 --> 00:04:50,720
+at the word we are looking for, 
+
+136
+00:04:50,720 --> 00:04:53,220
+namely the verb Vokare, which we 
+
+137
+00:04:53,220 --> 00:04:55,780
+find there under VOKO. More on 
+
+138
+00:04:55,840 --> 00:04:57,180
+why it doesn't say Vokare 
+
+139
+00:04:57,340 --> 00:05:00,360
+but VOKO later. And we have all the 
+
+140
+00:05:00,360 --> 00:05:01,860
+important information we 
+
+141
+00:05:01,860 --> 00:05:03,560
+need there. In addition, of course, we 
+have 
+
+142
+00:05:03,560 --> 00:05:05,420
+
+143
+00:05:05,420 --> 00:05:07,300
+to pay attention to keywords and key words 
+, for all those who 
+
+144
+00:05:07,300 --> 00:05:09,220
+have searched for ag in the dictionary, 
+
+145
+00:05:09,400 --> 00:05:11,840
+we are redirected to the word 
+
+146
+00:05:11,840 --> 00:05:14,820
+adque and everything about the 
+
+147
+00:05:14,820 --> 00:05:17,420
+two words is explained there. 
+
+148
+00:05:18,860 --> 00:05:20,600
+In addition, we must also pay attention to 
+
+149
+00:05:20,600 --> 00:05:24,980
+words that are compound 
+
+150
+00:05:25,100 --> 00:05:28,200
+, because 
+
+151
+00:05:28,200 --> 00:05:30,380
+if we are careful, we will 
+
+152
+00:05:30,380 --> 00:05:32,160
+notice that we will 
+
+153
+00:05:32,160 --> 00:05:34,660
+
+154
+00:05:34,660 --> 00:05:36,540
+never 
+
+155
+00:05:36,540 --> 00:05:38,920
+find the verb Transmittere under the, 
+under the alphabet, in the alphabet under 
+T, 
+
+156
+00:05:39,120 --> 00:05:40,580
+but we will always 
+
+157
+00:05:40,580 --> 00:05:44,400
+find it under Mittere, because it is a 
+trans-, 
+
+158
+00:05:44,400 --> 00:05:45,840
+so the trans-, a so-called 
+
+159
+00:05:45,840 --> 00:05:47,800
+suffix, i.e. a prefix, i.e. a, 
+
+160
+00:05:49,040 --> 00:05:52,300
+sorry, because trans- 
+
+161
+00:05:52,300 --> 00:05:54,600
+is a prefix , i.e. a prefix, 
+
+162
+00:05:54,600 --> 00:05:57,300
+which means that with words that 
+
+163
+00:05:57,300 --> 00:05:59,280
+have a suffix or prefix, i.e. a prefix 
+
+164
+00:05:59,280 --> 00:06:01,140
+ or suffix, we 
+
+165
+00:06:01,140 --> 00:06:03,540
+always have to concentrate on the core of 
+the word 
+
+166
+00:06:03,540 --> 00:06:06,180
+and look it up. So 
+
+167
+00:06:06,180 --> 00:06:07,620
+, as I said, we find 
+
+168
+00:06:07,620 --> 00:06:12,340
+the word 
+
+169
+00:06:12,340 --> 00:06:14,680
+Transmittere with mittere and not with T. 
+This is because not all 
+
+170
+00:06:14,680 --> 00:06:16,360
+word forms can be found in the dictionary 
+
+171
+00:06:16,360 --> 00:06:17,960
+. Sometimes we just find 
+
+172
+00:06:17,960 --> 00:06:20,380
+the word mittere 
+
+173
+00:06:20,380 --> 00:06:22,340
+and then find it in brackets 
+
+174
+00:06:22,340 --> 00:06:25,700
+, more on this later. Also the 
+
+175
+00:06:25,700 --> 00:06:30,160
+prefix. When we 
+
+176
+00:06:30,160 --> 00:06:32,180
+search for words, we should 
+
+177
+00:06:32,320 --> 00:06:33,920
+sometimes also 
+
+178
+00:06:33,920 --> 00:06:36,580
+search for keywords. This helps us to 
+
+179
+00:06:36,580 --> 00:06:38,980
+identify individual things. For example, 
+if we 
+
+180
+00:06:38,980 --> 00:06:40,500
+have different conjunctions 
+
+181
+00:06:40,500 --> 00:06:42,360
+and we have a 
+
+182
+00:06:42,360 --> 00:06:44,100
+collection of conjunctions in the outside 
+texts , it is 
+
+183
+00:06:44,100 --> 00:06:45,660
+sometimes easier to 
+
+184
+00:06:45,660 --> 00:06:47,260
+search in the table of conjunctions 
+
+185
+00:06:47,400 --> 00:06:49,100
+rather than in the large 
+
+186
+00:06:49,100 --> 00:06:53,980
+list of words. So if we 
+
+187
+00:06:53,980 --> 00:06:55,800
+want to go into how to 
+
+188
+00:06:55,800 --> 00:06:58,340
+search for forms quickly, we need to 
+
+189
+00:06:58,340 --> 00:07:00,540
+take a few things into account. We must 
+
+190
+00:07:00,540 --> 00:07:02,680
+always 
+
+191
+00:07:02,680 --> 00:07:05,200
+enter forms that are difficult to derive 
+under extra entries. 
+
+192
+00:07:05,200 --> 00:07:07,740
+This means that if we 
+
+193
+00:07:07,740 --> 00:07:09,360
+have more difficult forms or 
+
+194
+00:07:09,360 --> 00:07:10,940
+are not satisfied with our search, we have 
+to 
+
+195
+00:07:10,940 --> 00:07:13,400
+ look for extra  entries. And we must be 
+
+196
+00:07:13,400 --> 00:07:15,460
+aware that different 
+
+197
+00:07:15,460 --> 00:07:17,300
+word types also 
+
+198
+00:07:17,300 --> 00:07:19,740
+have different search methods. we 
+
+199
+00:07:19,740 --> 00:07:21,880
+always find nouns in the nominative case 
+and 
+
+200
+00:07:21,880 --> 00:07:24,140
+the genitive singular ending as well as 
+
+201
+00:07:24,140 --> 00:07:26,280
+the indication of the gender. This means 
+that if we 
+
+202
+00:07:26,280 --> 00:07:28,580
+take the example of amica, we would find 
+
+203
+00:07:28,580 --> 00:07:31,260
+amica, amica, F-dot for 
+
+204
+00:07:31,260 --> 00:07:33,460
+feminine and could deduce from this 
+
+205
+00:07:33,500 --> 00:07:35,640
+that it belongs to the A declension. This 
+
+206
+00:07:35,640 --> 00:07:37,020
+is 
+
+207
+00:07:37,020 --> 00:07:39,400
+necessary for us in the later translation, 
+because there are 
+
+208
+00:07:39,400 --> 00:07:41,320
+many forms - I'll 
+
+209
+00:07:41,320 --> 00:07:42,840
+refer you to our webinar 
+
+210
+00:07:42,840 --> 00:07:45,840
+on the declension of nouns that 
+
+211
+00:07:45,840 --> 00:07:47,760
+have endings of the same form. This means 
+that 
+
+212
+00:07:47,760 --> 00:07:49,720
+it is not always clear 
+
+213
+00:07:49,720 --> 00:07:51,940
+which case we are dealing with here. 
+
+214
+00:07:51,980 --> 00:07:53,860
+And so we can't 
+
+215
+00:07:53,860 --> 00:07:55,200
+find out exactly which 
+
+216
+00:07:55,200 --> 00:07:57,160
+declension class it is. In other words, 
+
+217
+00:07:57,180 --> 00:07:58,620
+which declension we have 
+
+218
+00:07:58,620 --> 00:08:01,000
+, i.e. which case we have. To avoid this 
+
+219
+00:08:01,000 --> 00:08:02,860
+, all 
+
+220
+00:08:02,860 --> 00:08:05,100
+nouns are always given in the most 
+important 
+
+221
+00:08:05,100 --> 00:08:06,920
+forms, i.e. in the nominative and 
+
+222
+00:08:06,920 --> 00:08:09,300
+genitive singular with their 
+
+223
+00:08:09,300 --> 00:08:11,940
+genus. It is similar with adjectives. 
+
+224
+00:08:12,320 --> 00:08:14,900
+Adjectives are only given in the 
+nominative case 
+
+225
+00:08:14,900 --> 00:08:16,880
+. However, 
+
+226
+00:08:16,880 --> 00:08:19,580
+all forms are given, 
+
+227
+00:08:19,580 --> 00:08:21,540
+such as in the case of three-ending 
+adjectives 
+
+228
+00:08:21,540 --> 00:08:23,720
+bonus, bonar, bonum. Not 
+
+229
+00:08:23,720 --> 00:08:25,860
+only masculine is indicated, but also 
+
+230
+00:08:25,860 --> 00:08:29,040
+feminine and neuter. In the case of 
+adjectives 
+
+231
+00:08:29,060 --> 00:08:30,820
+with two or one endings 
+
+232
+00:08:30,840 --> 00:08:33,920
+, we ultimately only find the 
+
+233
+00:08:33,920 --> 00:08:35,880
+fourth stem, which is 
+
+234
+00:08:35,880 --> 00:08:37,500
+usually expressed in masculine . 
+
+235
+00:08:38,440 --> 00:08:40,360
+Three NDA adjectives are 
+
+236
+00:08:40,360 --> 00:08:41,980
+declined in the A and O declension 
+
+237
+00:08:41,980 --> 00:08:42,980
+, we can learn this conclusively from the 
+
+238
+00:08:42,980 --> 00:08:45,620
+fact that we have Bonus 3, that 
+
+239
+00:08:45,620 --> 00:08:47,460
+is, we can know, aha, it 
+
+240
+00:08:47,460 --> 00:08:49,800
+is called Bonus Bonabonum, that is, in the 
+
+241
+00:08:49,800 --> 00:08:51,440
+actual entry we only find 
+
+242
+00:08:51,440 --> 00:08:53,120
+the nominative singular masculine, 
+
+243
+00:08:53,720 --> 00:08:56,200
+Bonus, yes, US ending masculine and 
+
+244
+00:08:56,200 --> 00:08:57,720
+then a 3 and know, aha, Aha, 
+
+245
+00:08:57,780 --> 00:09:00,440
+feminine and neuter are formed according 
+to the 
+
+246
+00:09:00,440 --> 00:09:02,200
+out-o-declension 
+
+247
+00:09:02,200 --> 00:09:05,400
+, for example, whereas the two-finders 
+
+248
+00:09:05,400 --> 00:09:06,860
+are formed in the consonantal 
+
+249
+00:09:06,860 --> 00:09:09,640
+for example. Verbs have a very 
+
+250
+00:09:09,640 --> 00:09:11,380
+special form and, as 
+
+251
+00:09:11,380 --> 00:09:12,860
+I have just briefly mentioned , verbs 
+
+252
+00:09:13,000 --> 00:09:15,340
+are either in the infinitive or in 
+
+253
+00:09:15,340 --> 00:09:17,020
+the first person singular indicative 
+
+254
+00:09:17,020 --> 00:09:19,420
+present active. This means that 
+
+255
+00:09:19,600 --> 00:09:23,960
+we don't usually find vowels in the 
+
+256
+00:09:23,960 --> 00:09:25,840
+infinitive, but rather under Voko. 
+
+257
+00:09:25,840 --> 00:09:29,160
+This means that Voco and in green in 1. 1 
+
+258
+00:09:29,160 --> 00:09:31,260
+means A conjugation or we 
+
+259
+00:09:31,260 --> 00:09:33,240
+can 
+
+260
+00:09:33,240 --> 00:09:35,260
+
+261
+00:09:35,260 --> 00:09:36,940
+deduce from the first person singular, 
+indicative, present active that it is the 
+A conjugation 
+
+262
+00:09:36,940 --> 00:09:43,840
+. For example, if we were looking for 
+audire 
+
+263
+00:09:44,000 --> 00:09:46,120
+, we would have specified audio and 
+
+264
+00:09:46,120 --> 00:09:47,860
+would know that it belongs to the I 
+declension 
+
+265
+00:09:48,080 --> 00:09:51,020
+because we have the I as a binding. 
+
+266
+00:09:51,020 --> 00:09:53,180
+With Capere , it would be 
+
+267
+00:09:53,180 --> 00:09:55,280
+Capere Capio and we would know that it 
+
+268
+00:09:55,280 --> 00:09:58,340
+
+269
+00:09:58,340 --> 00:09:59,880
+
+270
+00:09:59,880 --> 00:10:02,160
+belongs to the mixed conjugation with an 
+I-extension . With Agere Ago, that means 
+
+271
+00:10:02,180 --> 00:10:03,980
+we would know, aha, it is the 
+
+272
+00:10:03,980 --> 00:10:07,160
+mixed conjugation. 
+
+273
+00:10:07,160 --> 00:10:08,960
+It is always important 
+
+274
+00:10:08,960 --> 00:10:10,860
+to read all entries to the end and to 
+
+275
+00:10:10,860 --> 00:10:12,160
+study them thoroughly so that we 
+
+276
+00:10:12,160 --> 00:10:14,040
+
+277
+00:10:14,040 --> 00:10:16,220
+
+278
+00:10:16,400 --> 00:10:17,880
+can apply and know all the information 
+that could be helpful later in our 
+translation. 
+
+279
+00:10:18,580 --> 00:10:19,860
+Now we come to the signs of 
+
+280
+00:10:19,860 --> 00:10:22,080
+particular importance that we 
+
+281
+00:10:22,080 --> 00:10:24,620
+can use in the dictionary. 
+
+282
+00:10:24,620 --> 00:10:27,240
+On the one hand, this is the stress, 
+
+283
+00:10:27,240 --> 00:10:29,000
+namely the dot and the dash 
+
+284
+00:10:29,000 --> 00:10:31,500
+below a word is either an 
+
+285
+00:10:31,500 --> 00:10:33,640
+emphasized shortness, if it is a dot, 
+
+286
+00:10:33,700 --> 00:10:36,300
+like Abiturient, or a dash 
+
+287
+00:10:36,300 --> 00:10:38,920
+below a vowel for an 
+
+288
+00:10:38,920 --> 00:10:40,640
+emphasized length. 
+
+289
+00:10:40,640 --> 00:10:43,220
+For example, we now have Abitur. This is 
+
+290
+00:10:43,220 --> 00:10:45,040
+important insofar as we have these 
+
+291
+00:10:45,040 --> 00:10:46,940
+dashes, depending on 
+
+292
+00:10:46,940 --> 00:10:48,840
+which dictionary we use. 
+
+293
+00:10:49,040 --> 00:10:51,140
+Some dictionaries also write 
+
+294
+00:10:51,140 --> 00:10:53,720
+a 
+
+295
+00:10:53,720 --> 00:10:59,000
+length mark or an emphasized 
+
+296
+00:10:59,000 --> 00:11:00,860
+shortness point above the vowels . This 
+allows us to 
+
+297
+00:11:00,860 --> 00:11:02,940
+find out, for example, that Kasus, 
+
+298
+00:11:02,940 --> 00:11:05,000
+Kasus comes from the U declension 
+
+299
+00:11:05,140 --> 00:11:07,060
+because it has the elongated U. 
+
+300
+00:11:07,160 --> 00:11:10,240
+Or it has the emphasized, stressed long U. 
+
+301
+00:11:10,740 --> 00:11:15,540
+Square brackets, i.e. the content of the 
+
+302
+00:11:15,540 --> 00:11:17,880
+square brackets describes the 
+
+303
+00:11:17,880 --> 00:11:19,500
+pronunciation, i.e. it 
+
+304
+00:11:19,500 --> 00:11:21,100
+tells us how 
+
+305
+00:11:21,100 --> 00:11:22,820
+to pronounce the word , which means 
+
+306
+00:11:22,820 --> 00:11:25,220
+we need to know the phonetic 
+transcription. 
+
+307
+00:11:25,220 --> 00:11:27,100
+Round brackets give us explanatory 
+
+308
+00:11:27,100 --> 00:11:28,680
+additions, for example, if we 
+
+309
+00:11:28,680 --> 00:11:31,120
+
+310
+00:11:31,120 --> 00:11:33,340
+want to go back to the example from before 
+, mittere 
+
+311
+00:11:33,340 --> 00:11:36,180
+, we would then have trans as a prefix and 
+
+312
+00:11:36,180 --> 00:11:38,080
+would know, aha, so that is an 
+
+313
+00:11:38,080 --> 00:11:39,600
+addition that we 
+
+314
+00:11:39,600 --> 00:11:42,500
+
+315
+00:11:42,500 --> 00:11:44,280
+could add to the word , i.e. we 
+
+316
+00:11:44,280 --> 00:11:46,720
+could append it to the word . Equals signs 
+mean 
+
+317
+00:11:46,780 --> 00:11:48,360
+that the word has the same meaning, 
+
+318
+00:11:48,440 --> 00:11:51,880
+just like a slash says that 
+
+319
+00:11:51,980 --> 00:11:53,540
+both are possible. So on the one hand 
+
+320
+00:11:53,540 --> 00:11:55,580
+it has the same meaning, on the other hand 
+
+321
+00:11:55,580 --> 00:11:57,140
+you can say that both are possible. 
+
+322
+00:11:57,260 --> 00:11:59,140
+Of course, it depends on 
+
+323
+00:11:59,140 --> 00:12:01,280
+the translation and the sentence, 
+
+324
+00:12:01,280 --> 00:12:03,880
+on the contextual connection. 
+
+325
+00:12:04,260 --> 00:12:07,200
+Vertical lines mark the 
+
+326
+00:12:07,200 --> 00:12:08,580
+hyphenation of words. 
+
+327
+00:12:10,240 --> 00:12:12,580
+Abbreviations are also very 
+
+328
+00:12:12,580 --> 00:12:13,780
+important, as there is a 
+
+329
+00:12:13,780 --> 00:12:15,640
+lot 
+
+330
+00:12:15,640 --> 00:12:17,760
+of information in a dictionary 
+
+331
+00:12:17,760 --> 00:12:21,380
+and abbreviations are usually used 
+
+332
+00:12:21,380 --> 00:12:22,980
+to save as much space as possible. 
+
+333
+00:12:23,080 --> 00:12:25,540
+There are important abbreviations 
+
+334
+00:12:25,540 --> 00:12:28,240
+such as adjective, i.e. adjectival, 
+
+335
+00:12:28,280 --> 00:12:31,980
+abbreviated, aliquid, dative, feminine, 
+
+336
+00:12:32,000 --> 00:12:33,660
+common, contrast, 
+
+337
+00:12:33,780 --> 00:12:36,260
+interjection, intransitive, masculine 
+
+338
+00:12:36,320 --> 00:12:38,540
+, neuter, post-classical, secondary form, 
+
+339
+00:12:38,640 --> 00:12:40,400
+poetic. Adjective, reflexive, 
+
+340
+00:12:40,520 --> 00:12:42,380
+substantive, transitive 
+
+341
+00:12:42,400 --> 00:12:44,180
+, original, pre-classical, for 
+
+342
+00:12:44,180 --> 00:12:46,040
+example, context or simultaneous. 
+
+343
+00:12:46,220 --> 00:12:47,640
+We need to know that 
+
+344
+00:12:47,640 --> 00:12:49,840
+adjectival, as the name suggests 
+
+345
+00:12:49,840 --> 00:12:53,360
+, is to be seen as abbreviated, or 
+
+346
+00:12:53,360 --> 00:12:55,980
+aliquid or the dative 
+
+347
+00:12:55,980 --> 00:12:59,640
+is to be seen as dative . Feminine 
+
+348
+00:12:59,640 --> 00:13:01,160
+, of course, means that it is feminine 
+
+349
+00:13:01,200 --> 00:13:02,680
+, just as masculine and neuter 
+
+350
+00:13:02,680 --> 00:13:04,240
+are abbreviated as such, because 
+
+351
+00:13:04,240 --> 00:13:06,260
+this is the translation that is commonly 
+used. 
+
+352
+00:13:06,260 --> 00:13:07,980
+In contrast, 
+
+353
+00:13:08,000 --> 00:13:09,780
+interjection is an exclamation . 
+
+354
+00:13:10,300 --> 00:13:11,800
+Intransitive means that the verb does not 
+need an 
+
+355
+00:13:11,800 --> 00:13:14,620
+object. Secondary forms are 
+
+356
+00:13:14,620 --> 00:13:16,620
+things, other forms that we 
+
+357
+00:13:16,620 --> 00:13:19,560
+
+358
+00:13:19,560 --> 00:13:21,200
+can use in addition to this verb or this 
+word. 
+
+359
+00:13:21,440 --> 00:13:23,280
+Poetically, it can be translated like 
+this. 
+
+360
+00:13:23,920 --> 00:13:25,940
+Reflexive means that it 
+
+361
+00:13:25,940 --> 00:13:28,520
+refers back to the subject in question. 
+
+362
+00:13:29,220 --> 00:13:30,940
+Substantive means something 
+
+363
+00:13:30,940 --> 00:13:32,860
+that 
+
+364
+00:13:32,860 --> 00:13:35,280
+is translated more like a noun . 
+Transitive 
+
+365
+00:13:35,280 --> 00:13:36,860
+means the reverse of intransitive 
+
+366
+00:13:36,860 --> 00:13:38,560
+, namely that an object is used. 
+
+367
+00:13:39,240 --> 00:13:40,860
+Originally it is to be used like this, 
+
+368
+00:13:40,940 --> 00:13:43,580
+pre-classically it is translated like 
+this. For 
+
+369
+00:13:43,580 --> 00:13:45,520
+example, you can use it in this way 
+
+370
+00:13:45,520 --> 00:13:47,860
+to see in context or at the same time 
+
+371
+00:13:47,860 --> 00:13:49,500
+you can understand it in this way. So 
+
+372
+00:13:49,500 --> 00:13:51,360
+here we see the enlargement, which 
+
+373
+00:13:51,360 --> 00:13:52,800
+basically 
+
+374
+00:13:52,800 --> 00:13:56,260
+
+375
+00:13:56,260 --> 00:13:59,060
+provides us with individual operators or 
+individual additional information. Now we 
+come 
+
+376
+00:13:59,060 --> 00:14:01,620
+to the synonyms. Synonyms are 
+
+377
+00:14:01,620 --> 00:14:02,900
+words with the same or very 
+
+378
+00:14:02,900 --> 00:14:04,880
+similar meanings. 
+
+379
+00:14:04,880 --> 00:14:06,580
+
+380
+00:14:06,580 --> 00:14:08,260
+They have the same meaning, sense or 
+usage, similarity 
+
+381
+00:14:08,260 --> 00:14:10,020
+or relationship. 
+
+382
+00:14:10,020 --> 00:14:11,880
+We can see this here with the verb fly. 
+
+383
+00:14:11,980 --> 00:14:13,600
+We can connote flying, 
+
+384
+00:14:13,600 --> 00:14:17,380
+i.e. associate it with the following 
+things. 
+
+385
+00:14:17,680 --> 00:14:19,380
+Hover, glide, sail, buzz. 
+
+386
+00:14:19,420 --> 00:14:20,880
+Here we are talking about things 
+
+387
+00:14:20,880 --> 00:14:24,000
+that move above the earth. Then 
+
+388
+00:14:24,000 --> 00:14:25,620
+jet, roar, run, sprint, 
+
+389
+00:14:25,640 --> 00:14:27,680
+race, hurry. In other words, 
+
+390
+00:14:27,680 --> 00:14:29,600
+moving on the earth. Falling, flying, 
+
+391
+00:14:29,600 --> 00:14:31,520
+tumbling. That is, the movement from 
+
+392
+00:14:31,520 --> 00:14:34,820
+the straight to the horizontal. 
+
+393
+00:14:34,820 --> 00:14:36,620
+That is, falling to the earth, 
+
+394
+00:14:36,620 --> 00:14:38,620
+falling or flying to the earth, 
+
+395
+00:14:38,640 --> 00:14:41,720
+to the ground, then 
+
+396
+00:14:41,720 --> 00:14:43,620
+figuratively 
+
+397
+00:14:43,620 --> 00:14:44,860
+being dismissed , being fired, that 
+
+398
+00:14:44,860 --> 00:14:46,680
+is, losing one's job 
+
+399
+00:14:46,680 --> 00:14:49,200
+or metaphorically 
+
+400
+00:14:49,200 --> 00:14:51,080
+falling in love, falling out of love or 
+
+401
+00:14:51,080 --> 00:14:52,780
+being crazy about. In other words, we 
+
+402
+00:14:52,780 --> 00:14:54,760
+realize that flying 
+
+403
+00:14:54,760 --> 00:14:56,580
+can have different meanings and so 
+
+404
+00:14:56,580 --> 00:14:59,220
+we 
+
+405
+00:14:59,220 --> 00:15:02,320
+have individual verbs or especially verbs 
+
+406
+00:15:02,320 --> 00:15:04,460
+
+407
+00:15:04,460 --> 00:15:06,180
+that can be translated in a very, very 
+large number. 
+
+408
+00:15:06,180 --> 00:15:08,160
+This means that we always have to 
+
+409
+00:15:08,160 --> 00:15:14,420
+consider all possible synonyms 
+
+410
+00:15:14,420 --> 00:15:17,640
+and then 
+
+411
+00:15:17,640 --> 00:15:20,380
+
+412
+00:15:20,380 --> 00:15:22,480
+check them against the context and the 
+meaning of the sentence and choose the 
+
+413
+00:15:22,480 --> 00:15:24,760
+right one. In addition to 
+
+414
+00:15:24,760 --> 00:15:26,880
+synonyms, we must also distinguish between 
+homonyms 
+
+415
+00:15:26,880 --> 00:15:28,400
+and antonyms. 
+
+416
+00:15:28,400 --> 00:15:31,220
+Homonyms are words with several 
+
+417
+00:15:31,220 --> 00:15:34,240
+possible meanings. 
+
+418
+00:15:35,000 --> 00:15:36,720
+This means that they 
+
+419
+00:15:36,720 --> 00:15:39,920
+depend on the intention of the statement 
+
+420
+00:15:39,920 --> 00:15:44,060
+. 
+
+421
+00:15:44,060 --> 00:15:47,520
+For example, homonyms could be light and 
+bright. This 
+
+422
+00:15:47,520 --> 00:15:49,260
+refers to the same thing, but 
+
+423
+00:15:49,260 --> 00:15:51,240
+of course it has different 
+
+424
+00:15:51,240 --> 00:15:54,260
+meanings. In other words, they 
+
+425
+00:15:54,260 --> 00:15:57,980
+ultimately mean the same thing, but 
+
+426
+00:15:57,980 --> 00:15:59,720
+the possible interpretations are 
+different. 
+
+427
+00:15:59,800 --> 00:16:00,980
+In other words, we have to take the 
+
+428
+00:16:00,980 --> 00:16:02,540
+intended meaning into account here. 
+
+429
+00:16:02,540 --> 00:16:04,220
+Antonyms are words with 
+
+430
+00:16:04,220 --> 00:16:05,940
+opposite meanings, such as light 
+
+431
+00:16:05,940 --> 00:16:09,020
+and dark. Now we come to the 
+
+432
+00:16:09,020 --> 00:16:12,000
+method of finding the right meaning for 
+
+433
+00:16:12,000 --> 00:16:13,320
+a word. We have 
+
+434
+00:16:13,320 --> 00:16:14,600
+already talked about the 
+
+435
+00:16:14,600 --> 00:16:16,360
+fact that we 
+
+436
+00:16:16,360 --> 00:16:18,540
+have to pay attention to many factors. And 
+we see 
+
+437
+00:16:18,540 --> 00:16:20,180
+here, for example, the entry for 
+
+438
+00:16:20,180 --> 00:16:23,160
+their. So we can 
+
+439
+00:16:23,160 --> 00:16:25,360
+
+440
+00:16:25,360 --> 00:16:27,720
+
+441
+00:16:27,720 --> 00:16:30,040
+
+442
+00:16:32,100 --> 00:16:34,060
+see their poetically, militarily or also 
+legally in a different context, i.e. with 
+a different summonym, i.e. different 
+connotations. That is, their ad kellum, 
+
+443
+00:16:34,720 --> 00:16:36,500
+subsidiary, we can 
+
+444
+00:16:36,500 --> 00:16:37,820
+fly to heaven or come to the rescue, 
+
+445
+00:16:37,880 --> 00:16:39,700
+overlook. That is, poetically, that is 
+
+446
+00:16:39,700 --> 00:16:41,620
+, figuratively. In 
+
+447
+00:16:41,620 --> 00:16:43,440
+a military context, that is, 
+
+448
+00:16:43,460 --> 00:16:45,420
+if we are now talking about war, 
+
+449
+00:16:45,420 --> 00:16:47,460
+then belloere means 
+
+450
+00:16:47,460 --> 00:16:49,100
+to go to war, not to go to war 
+
+451
+00:16:49,100 --> 00:16:51,780
+. Or going through war. 
+
+452
+00:16:51,940 --> 00:16:54,740
+It has the fixed meaning of 
+
+453
+00:16:54,740 --> 00:16:56,900
+going to war. In legal terms, their 
+
+454
+00:16:56,900 --> 00:16:58,900
+Injus, means to go to court or 
+
+455
+00:16:58,900 --> 00:17:01,800
+sangus naribus, it blotstromt from the 
+
+456
+00:17:01,800 --> 00:17:04,040
+nose. That is, legally 
+
+457
+00:17:04,040 --> 00:17:06,920
+we have to see it like this. The 
+
+458
+00:17:06,920 --> 00:17:08,660
+ poetic-military-legal are 
+
+459
+00:17:08,660 --> 00:17:11,540
+of course the adjectives 
+
+460
+00:17:11,540 --> 00:17:12,920
+to be assigned to the text. In other 
+words, we 
+
+461
+00:17:12,920 --> 00:17:15,420
+have to use the translated text 
+
+462
+00:17:15,420 --> 00:17:17,120
+and also the introductory text to 
+
+463
+00:17:17,120 --> 00:17:19,120
+decide which situation we 
+
+464
+00:17:19,120 --> 00:17:20,820
+are dealing with here. 
+
+465
+00:17:20,820 --> 00:17:22,240
+The grammatical context is also 
+
+466
+00:17:22,240 --> 00:17:24,040
+important. We have to pay attention to the 
+
+467
+00:17:24,040 --> 00:17:25,820
+prepositions with different 
+
+468
+00:17:25,820 --> 00:17:28,580
+case reactions. In Villa or 
+
+469
+00:17:28,580 --> 00:17:30,140
+in Willam, on the one hand, there is 
+
+470
+00:17:30,140 --> 00:17:32,140
+a content preposition with an applicative 
+or 
+
+471
+00:17:32,140 --> 00:17:35,320
+an accusative case. This means that we 
+have 
+
+472
+00:17:35,320 --> 00:17:37,100
+, let's take the last 
+
+473
+00:17:37,100 --> 00:17:38,860
+example, in Willam their a verb of 
+
+474
+00:17:38,860 --> 00:17:40,180
+movement. In other words, here it is 
+
+475
+00:17:40,180 --> 00:17:41,920
+presumably an accusative of 
+
+476
+00:17:41,920 --> 00:17:43,320
+direction. This means that we have to 
+
+477
+00:17:43,320 --> 00:17:45,560
+translate it as go into the house or in 
+
+478
+00:17:45,560 --> 00:17:47,060
+Willam mal closer means 
+
+479
+00:17:47,060 --> 00:17:48,500
+stay in the house , because we have mal 
+closer, 
+
+480
+00:17:48,660 --> 00:17:50,880
+we have to 
+
+481
+00:17:50,880 --> 00:17:53,100
+use the applativus loci here. This means 
+
+482
+00:17:53,100 --> 00:17:55,320
+that we always have to pay attention to 
+
+483
+00:17:55,320 --> 00:17:57,300
+which cases are used for prepositions 
+
+484
+00:17:57,300 --> 00:17:59,020
+and then check them. 
+
+485
+00:17:59,100 --> 00:18:00,780
+So here we don't have 
+
+486
+00:18:00,780 --> 00:18:02,860
+a nominative case for villa, but an 
+
+487
+00:18:02,860 --> 00:18:06,300
+applicative case, and for villa we 
+
+488
+00:18:06,300 --> 00:18:08,640
+clearly have an accusative case and have 
+to 
+
+489
+00:18:08,640 --> 00:18:12,740
+translate it with a direction. The 
+
+490
+00:18:12,740 --> 00:18:14,720
+appropriate meaning can also be found 
+
+491
+00:18:14,720 --> 00:18:16,400
+in the epochs. This means 
+
+492
+00:18:16,400 --> 00:18:19,380
+that if we 
+
+493
+00:18:19,380 --> 00:18:21,900
+are dealing with classical poets and we 
+have 
+
+494
+00:18:21,900 --> 00:18:23,180
+individual formulations that 
+
+495
+00:18:23,180 --> 00:18:24,440
+
+496
+00:18:24,440 --> 00:18:26,280
+mean something different in post-classical 
+terms , we know this by 
+
+497
+00:18:26,360 --> 00:18:28,340
+
+498
+00:18:28,340 --> 00:18:29,900
+combining the translation with 
+post-classical, 
+
+499
+00:18:29,900 --> 00:18:32,980
+such as whiteness or 
+
+500
+00:18:32,980 --> 00:18:35,520
+seeing the poetic usages as we 
+
+501
+00:18:35,520 --> 00:18:37,280
+have just understood them. 
+
+502
+00:18:37,280 --> 00:18:38,940
+In addition, there is the 
+
+503
+00:18:38,940 --> 00:18:41,680
+author's peculiarity, which means that 
+
+504
+00:18:41,680 --> 00:18:43,840
+an author 
+
+505
+00:18:43,840 --> 00:18:45,760
+translates it in a particular way , so we 
+usually have 
+
+506
+00:18:45,760 --> 00:18:47,300
+the brevity, we see that here with 
+
+507
+00:18:47,300 --> 00:18:51,680
+Caesar, yes, and Caesar stands for it, 
+
+508
+00:18:51,760 --> 00:18:53,040
+for example, when we 
+
+509
+00:18:53,040 --> 00:18:54,780
+
+510
+00:18:54,780 --> 00:18:56,540
+read reports from the Bellochivili, i.e. 
+from the civil wars 
+
+511
+00:18:56,540 --> 00:18:59,620
+, it always says that Caesar 
+
+512
+00:18:59,620 --> 00:19:01,820
+
+513
+00:19:01,820 --> 00:19:04,080
+translates it this way, i.e. Caesar 
+translates it this way . or reading own 
+
+514
+00:19:04,080 --> 00:19:05,760
+phrases, authors' typical 
+
+515
+00:19:05,760 --> 00:19:08,600
+meanings, such as how 
+
+516
+00:19:08,600 --> 00:19:12,400
+Detour in Zizor 
+
+517
+00:19:12,400 --> 00:19:14,880
+is always to be translated as It seems. Or 
+
+518
+00:19:14,880 --> 00:19:16,140
+
+519
+00:19:16,140 --> 00:19:17,700
+phrases to be excluded from other authors. 
+In other words, we realize 
+
+520
+00:19:17,700 --> 00:19:19,740
+that a dictionary gives us 
+
+521
+00:19:19,740 --> 00:19:22,340
+different information and 
+
+522
+00:19:22,340 --> 00:19:23,840
+basically provides us with the 
+
+523
+00:19:23,840 --> 00:19:25,420
+entire craft of 
+
+524
+00:19:25,420 --> 00:19:27,620
+translating texts correctly. 
+
+525
+00:19:27,620 --> 00:19:29,580
+Thank you for your attention. See 
+
+526
+00:19:29,580 --> 00:19:29,820
+you soon. 

@@ -1,0 +1,3352 @@
+1
+00:00:05,940 --> 00:00:07,360
+Hallo und willkommen zu unserem
+
+2
+00:00:07,360 --> 00:00:09,820
+Webinar zum Thema Abbildungen in der
+
+3
+00:00:09,820 --> 00:00:12,860
+Ebene. Bevor es aber richtig losgeht,
+
+4
+00:00:12,980 --> 00:00:15,300
+ist der Ton laut, klar und deutlich
+
+5
+00:00:15,300 --> 00:00:17,040
+und ist auch das Bild zu sehen? Wenn
+
+6
+00:00:17,040 --> 00:00:18,440
+ja, dann bitte bestätigen wir das
+
+7
+00:00:18,440 --> 00:00:20,480
+einmal ganz kurz im Chat mit einem OK
+
+8
+00:00:20,480 --> 00:00:22,660
+oder sowas und dann geht's auch
+
+9
+00:00:22,660 --> 00:00:23,120
+sofort los.
+
+10
+00:00:27,100 --> 00:00:29,980
+Alles klar, dankeschön. Ja, wir
+
+11
+00:00:29,980 --> 00:00:31,020
+schauen uns heute verschiedene
+
+12
+00:00:31,020 --> 00:00:32,900
+Abbildungen in der Ebene an. Damit
+
+13
+00:00:32,900 --> 00:00:35,180
+meinen wir also, wie wir eine Figur,
+
+14
+00:00:35,220 --> 00:00:36,720
+zum Beispiel ein Dreieck oder ein
+
+15
+00:00:36,720 --> 00:00:37,880
+Kreis oder irgendeine andere
+
+16
+00:00:37,880 --> 00:00:40,660
+beliebige Grafik oder Figur eben in
+
+17
+00:00:40,660 --> 00:00:42,200
+der Ebene verändern können durch
+
+18
+00:00:42,200 --> 00:00:43,740
+Spiegelungen, durch Verschiebungen,
+
+19
+00:00:43,780 --> 00:00:45,300
+durch Drehungen. Und wir beginnen
+
+20
+00:00:45,300 --> 00:00:46,680
+eben auch mit den Spiegelungen, mit
+
+21
+00:00:46,680 --> 00:00:48,060
+den zwei Arten der Spiegelung,
+
+22
+00:00:48,120 --> 00:00:49,700
+nämlich Achsen- und Punktspiegelung.
+
+23
+00:00:50,700 --> 00:00:51,780
+Daraus können wir dann auch nochmal
+
+24
+00:00:51,780 --> 00:00:53,360
+generell über die Begriffe Achsen-
+
+25
+00:00:53,360 --> 00:00:54,880
+und Punktsymmetrie reden. Dann
+
+26
+00:00:54,880 --> 00:00:55,820
+schauen wir uns an, wie eine
+
+27
+00:00:55,820 --> 00:00:57,180
+Verschiebung funktioniert, wie eine
+
+28
+00:00:57,180 --> 00:00:59,020
+Drehung funktioniert und fassen dann
+
+29
+00:00:59,020 --> 00:01:00,600
+nochmal generell zusammen, was also
+
+30
+00:01:00,600 --> 00:01:02,320
+eine solche Abbildung in der Ebene,
+
+31
+00:01:02,340 --> 00:01:03,900
+also eine grafische Abbildung in der
+
+32
+00:01:03,900 --> 00:01:06,560
+Hinsicht eigentlich ausmacht, was sie
+
+33
+00:01:06,560 --> 00:01:09,460
+für Eigenschaften hat. Wir beginnen
+
+34
+00:01:09,460 --> 00:01:11,300
+eben mit der Achsenspiegelung. Das
+
+35
+00:01:11,300 --> 00:01:12,860
+ist ja eine Art der Spiegelung, die
+
+36
+00:01:12,860 --> 00:01:14,900
+man schon relativ früh kennenlernt in
+
+37
+00:01:14,900 --> 00:01:17,980
+der Geometrie. Bei der haben wir eine
+
+38
+00:01:17,980 --> 00:01:20,300
+Achse, also eine gerade Linie oder
+
+39
+00:01:20,300 --> 00:01:21,460
+beziehungsweise einfach eine Gerade,
+
+40
+00:01:21,680 --> 00:01:24,180
+an der wir eine Figur spiegeln
+
+41
+00:01:24,180 --> 00:01:26,780
+wollen. Und dabei kann man sich
+
+42
+00:01:26,780 --> 00:01:27,760
+praktisch vorstellen, dass wir eben
+
+43
+00:01:27,760 --> 00:01:29,280
+die eine Seite der Spiegelachse haben
+
+44
+00:01:29,280 --> 00:01:30,280
+und die andere Seite der
+
+45
+00:01:30,280 --> 00:01:32,280
+Spiegelachse. und etwas, was, wenn
+
+46
+00:01:32,280 --> 00:01:33,320
+wir jetzt sagen, dass die
+
+47
+00:01:33,320 --> 00:01:35,420
+Spiegelachse so ist, dass wir eine
+
+48
+00:01:35,420 --> 00:01:36,740
+linke und eine rechte Seite haben,
+
+49
+00:01:36,940 --> 00:01:39,100
+dann würden Sachen auf der linken
+
+50
+00:01:39,100 --> 00:01:40,420
+Seite nach der Spiegelung auf der
+
+51
+00:01:40,420 --> 00:01:42,480
+rechten Seite landen und umgekehrt.
+
+52
+00:01:43,680 --> 00:01:45,600
+Dabei ist eben ganz wichtig, dass
+
+53
+00:01:45,600 --> 00:01:47,680
+alle Punkte, Strecken, Geraden und so
+
+54
+00:01:47,680 --> 00:01:49,020
+weiter eben von der einen Seite auf
+
+55
+00:01:49,020 --> 00:01:50,880
+die andere senkrecht und mit dem
+
+56
+00:01:50,880 --> 00:01:53,140
+gleichen Abstand abgebildet werden.
+
+57
+00:01:53,140 --> 00:01:54,720
+Und das ist eben das Wichtige, nicht
+
+58
+00:01:54,720 --> 00:01:55,640
+nur, dass sie einfach auf der anderen
+
+59
+00:01:55,640 --> 00:01:57,100
+Seite landen, sondern dass auch
+
+60
+00:01:57,100 --> 00:01:58,840
+gewisse Abstände dabei beibehalten
+
+61
+00:01:58,840 --> 00:02:01,240
+werden. Und wir werden jetzt anhand
+
+62
+00:02:01,240 --> 00:02:03,340
+einer Achsenspiegelung zeigen, wie
+
+63
+00:02:03,340 --> 00:02:04,820
+man eben dieses Dreieck und diesen
+
+64
+00:02:04,820 --> 00:02:06,700
+Halbkreis jeweils spiegeln würde.
+
+65
+00:02:07,360 --> 00:02:08,600
+Also zuerst brauchen wir natürlich
+
+66
+00:02:08,600 --> 00:02:10,560
+eine Spiegelachse, die zeichnen wir
+
+67
+00:02:10,560 --> 00:02:12,300
+jetzt einfach einmal ein. Das ist die
+
+68
+00:02:12,300 --> 00:02:14,440
+Spiegelachse, diese senkrechte Linie
+
+69
+00:02:14,440 --> 00:02:15,880
+und wir möchten dieses Dreieck dann
+
+70
+00:02:15,880 --> 00:02:17,120
+sozusagen auf die rechte Seite
+
+71
+00:02:17,120 --> 00:02:21,540
+rüberspiegeln. Ja und bei einem
+
+72
+00:02:21,540 --> 00:02:22,800
+Dreieck genügt es ja, wenn wir
+
+73
+00:02:22,800 --> 00:02:24,060
+einfach wissen, wo die drei Punkte
+
+74
+00:02:24,060 --> 00:02:25,680
+liegen, die dieses Dreieck ausmachen.
+
+75
+00:02:25,860 --> 00:02:27,360
+Deswegen reicht es bei einem Dreieck
+
+76
+00:02:27,360 --> 00:02:29,080
+auch aus, ganz einfach diese drei
+
+77
+00:02:29,080 --> 00:02:31,020
+Punkte einzeln zu spiegeln und die
+
+78
+00:02:31,020 --> 00:02:32,820
+danach wieder zu verbinden. Das
+
+79
+00:02:32,820 --> 00:02:34,580
+bedeutet also, wir haben unsere drei
+
+80
+00:02:34,580 --> 00:02:37,480
+Punkte A, B und C. und jetzt nehmen
+
+81
+00:02:37,480 --> 00:02:38,860
+wir uns mal den Punkt A und den Punkt
+
+82
+00:02:38,860 --> 00:02:41,620
+B und den Punkt C und schauen uns an,
+
+83
+00:02:41,700 --> 00:02:44,060
+welchen Abstand die jeweils zu der
+
+84
+00:02:44,060 --> 00:02:45,800
+Spiegelachse haben. Dabei ist es ganz
+
+85
+00:02:45,800 --> 00:02:47,600
+wichtig, dass wir den Abstand auch so
+
+86
+00:02:47,600 --> 00:02:50,140
+messen, dass wir hier wirklich eine
+
+87
+00:02:50,140 --> 00:02:51,920
+senkrechte Verbindung haben. Und mit
+
+88
+00:02:51,920 --> 00:02:53,220
+senkrecht ist eben gemeint, dass hier
+
+89
+00:02:53,220 --> 00:02:54,840
+ein rechter Winkel liegt. Wenn ich
+
+90
+00:02:54,840 --> 00:02:55,660
+jetzt gleich die nächsten
+
+91
+00:02:55,660 --> 00:02:57,260
+Spiegellinien einzeichne, sieht man
+
+92
+00:02:57,260 --> 00:02:58,620
+auch, Hier ist eben ein rechter
+
+93
+00:02:58,620 --> 00:03:00,000
+Winkel, aber so viel wollte ich jetzt
+
+94
+00:03:00,000 --> 00:03:02,020
+noch nicht auf einmal zeigen. Wir
+
+95
+00:03:02,020 --> 00:03:03,860
+messen also den Abstand zwischen den
+
+96
+00:03:03,860 --> 00:03:06,200
+Punkten und dieser Spiegelachse. Und
+
+97
+00:03:06,200 --> 00:03:07,780
+dabei ist es ganz wichtig, dass wir
+
+98
+00:03:07,780 --> 00:03:09,000
+nicht irgendwie hier schräg messen,
+
+99
+00:03:09,020 --> 00:03:10,360
+sondern wir nehmen letztendlich mal
+
+100
+00:03:10,360 --> 00:03:12,440
+die kürzeste Distanz zwischen dem
+
+101
+00:03:12,440 --> 00:03:15,820
+Punkt und dieser Spiegelachse. Ja,
+
+102
+00:03:15,860 --> 00:03:17,520
+das schauen wir uns sozusagen an für
+
+103
+00:03:17,520 --> 00:03:19,320
+alle drei Punkte. Und die Idee ist
+
+104
+00:03:19,320 --> 00:03:20,960
+jetzt letztendlich, wir gehen zum
+
+105
+00:03:20,960 --> 00:03:22,320
+Beispiel jetzt bei dem Punkt A, A,
+
+106
+00:03:22,340 --> 00:03:24,560
+wir gehen von hier aus zu der
+
+107
+00:03:24,560 --> 00:03:26,200
+Spiegelachse hin, dabei laufen wir
+
+108
+00:03:26,200 --> 00:03:27,840
+genau diese Länge ab. Und wenn wir
+
+109
+00:03:27,840 --> 00:03:28,860
+dort angekommen sind auf der
+
+110
+00:03:28,860 --> 00:03:30,160
+Spiegelachse, laufen wir diese
+
+111
+00:03:30,160 --> 00:03:32,200
+gleiche Länge nochmal weiter in die
+
+112
+00:03:32,200 --> 00:03:34,320
+Richtung. Das würde dann also so
+
+113
+00:03:34,320 --> 00:03:37,960
+aussehen. Wir gehen diese Länge ab
+
+114
+00:03:37,960 --> 00:03:39,480
+bis zur Spiegelachse und gehen dann
+
+115
+00:03:39,480 --> 00:03:40,740
+nochmal genau die gleiche Länge
+
+116
+00:03:40,740 --> 00:03:42,300
+weiter in die gleiche Richtung. Wir
+
+117
+00:03:42,300 --> 00:03:43,800
+machen also keine Kurve oder keinen
+
+118
+00:03:43,800 --> 00:03:46,020
+Knick mittendrin. Und dort landet
+
+119
+00:03:46,020 --> 00:03:47,880
+dann eben unser Punkt A'. Strich.
+
+120
+00:03:47,880 --> 00:03:48,860
+Meistens nennt man dann die
+
+121
+00:03:48,860 --> 00:03:51,380
+abgebildeten Punkte genauso, aber
+
+122
+00:03:51,380 --> 00:03:55,570
+setzt so einen Strich oben dran. Und
+
+123
+00:03:55,570 --> 00:03:56,970
+hier auch nochmal der Hinweis, diese
+
+124
+00:03:56,970 --> 00:03:59,410
+Verbindungslinie, die muss eben im
+
+125
+00:03:59,410 --> 00:04:00,850
+rechten Winkel zu der Spiegelachse
+
+126
+00:04:00,850 --> 00:04:02,790
+liegen. Und jetzt können wir genau
+
+127
+00:04:02,790 --> 00:04:03,970
+das gleiche mit dem Punkt B machen.
+
+128
+00:04:04,090 --> 00:04:05,250
+Der läuft natürlich ein kleines
+
+129
+00:04:05,250 --> 00:04:06,770
+Stückchen weiter, weil die Distanz
+
+130
+00:04:06,770 --> 00:04:08,310
+von der Spiegelachse auch größer ist.
+
+131
+00:04:09,030 --> 00:04:10,810
+Und der Punkt C, der liegt wieder ein
+
+132
+00:04:10,810 --> 00:04:11,690
+kleines bisschen näher an der
+
+133
+00:04:11,690 --> 00:04:13,650
+Spiegelachse dran, aber letztendlich
+
+134
+00:04:13,650 --> 00:04:14,930
+die Verbindungslinien werden immer
+
+135
+00:04:14,930 --> 00:04:15,870
+auf die gleiche Art und Weise
+
+136
+00:04:15,870 --> 00:04:18,010
+konstruiert. Und jetzt haben wir die
+
+137
+00:04:18,010 --> 00:04:20,210
+drei gespiegelten Punkte, A', B' und
+
+138
+00:04:20,210 --> 00:04:22,050
+C', und wenn wir die wieder
+
+139
+00:04:22,050 --> 00:04:23,850
+verbinden, dann haben wir unser
+
+140
+00:04:23,850 --> 00:04:25,450
+Dreieck gespiegelt. Man sieht auch,
+
+141
+00:04:25,470 --> 00:04:26,270
+denke ich, direkt auf den ersten
+
+142
+00:04:26,270 --> 00:04:28,110
+Blick, ja, diese Dreiecke, die sind
+
+143
+00:04:28,110 --> 00:04:31,350
+praktisch identisch, bis auf den
+
+144
+00:04:31,350 --> 00:04:32,750
+Fakt, dass sie halt gespiegelt sind.
+
+145
+00:04:33,710 --> 00:04:36,410
+Aber die Längen, die Seitenlängen,
+
+146
+00:04:36,510 --> 00:04:37,750
+die Winkel, die sind alle gleich
+
+147
+00:04:37,750 --> 00:04:39,930
+groß. Nur praktisch die ganze Sache
+
+148
+00:04:39,930 --> 00:04:40,770
+ist eben gespiegelt worden.
+
+149
+00:04:44,260 --> 00:04:45,540
+Jetzt kann man die Zeichnung noch ein
+
+150
+00:04:45,540 --> 00:04:46,740
+bisschen aufräumen. In der Praxis
+
+151
+00:04:46,740 --> 00:04:47,660
+würde man jetzt diese ganzen
+
+152
+00:04:47,660 --> 00:04:48,940
+geschweiften Klammern mit den Längen
+
+153
+00:04:48,940 --> 00:04:50,700
+natürlich nicht brauchen, sondern man
+
+154
+00:04:50,700 --> 00:04:51,720
+würde es wahrscheinlich eher so
+
+155
+00:04:51,720 --> 00:04:52,920
+einzeichnen, so wie es jetzt hier
+
+156
+00:04:52,920 --> 00:04:53,880
+auch zu sehen ist.
+
+157
+00:04:59,000 --> 00:05:00,040
+Dann schauen wir uns an, wie wir
+
+158
+00:05:00,040 --> 00:05:01,900
+diesen Halbkreis spiegeln könnten.
+
+159
+00:05:02,500 --> 00:05:04,200
+Also wir zeichnen unsere Spiegelachse
+
+160
+00:05:04,200 --> 00:05:05,580
+ein. Die soll jetzt in diesem Fall so
+
+161
+00:05:05,580 --> 00:05:07,080
+liegen, dass sie genau hier anliegt.
+
+162
+00:05:07,400 --> 00:05:08,660
+Also man kann sich schon denken, was
+
+163
+00:05:08,660 --> 00:05:10,460
+wir jetzt rüber spiegeln ist, ja oder
+
+164
+00:05:10,460 --> 00:05:11,480
+wenn wir jetzt den Halbkreis rüber
+
+165
+00:05:11,480 --> 00:05:12,580
+spiegeln, entsteht dabei natürlich
+
+166
+00:05:12,580 --> 00:05:14,780
+ein ganzer Kreis. Und jetzt ist es
+
+167
+00:05:14,780 --> 00:05:16,020
+natürlich so, bei einem Kreis, da
+
+168
+00:05:16,020 --> 00:05:17,060
+haben wir jetzt nicht einfach nur
+
+169
+00:05:17,060 --> 00:05:18,880
+drei Punkte oder vier Punkte, die
+
+170
+00:05:18,880 --> 00:05:20,980
+genügen. An sich, was man jetzt
+
+171
+00:05:20,980 --> 00:05:21,980
+machen müsste, ist, man müsste
+
+172
+00:05:21,980 --> 00:05:24,320
+praktisch ganz, ganz fein diesen
+
+173
+00:05:24,320 --> 00:05:26,140
+Halbkreis unterteilen und für jeden
+
+174
+00:05:26,140 --> 00:05:27,440
+kleinen Punkt, für jeden kleinen
+
+175
+00:05:27,440 --> 00:05:28,840
+Schritt sozusagen das Ganze
+
+176
+00:05:28,840 --> 00:05:31,940
+rüberspiegeln, bis wir am Ende genug
+
+177
+00:05:31,940 --> 00:05:33,680
+Punkte haben, um das Ganze wieder
+
+178
+00:05:33,680 --> 00:05:35,000
+glatt miteinander verbinden zu
+
+179
+00:05:35,000 --> 00:05:37,300
+können. In der Praxis werdet ihr
+
+180
+00:05:37,300 --> 00:05:39,500
+vermutlich keine Kreise spiegeln
+
+181
+00:05:39,500 --> 00:05:41,160
+müssen. Und wenn es noch der Fall
+
+182
+00:05:41,160 --> 00:05:42,720
+ist, dann kann man das natürlich auch
+
+183
+00:05:42,720 --> 00:05:44,160
+mit dem Zirkel machen, weil man in
+
+184
+00:05:44,160 --> 00:05:45,520
+diesem Fall merken würde, ja gut, da
+
+185
+00:05:45,520 --> 00:05:46,740
+kommt ein ganzer Kreis raus, ich
+
+186
+00:05:46,740 --> 00:05:47,700
+würde es dann einfach mit einem
+
+187
+00:05:47,700 --> 00:05:49,620
+Zirkel vervollständigen, den ich hier
+
+188
+00:05:49,620 --> 00:05:51,520
+in den Mittelpunkt eben reinsteche,
+
+189
+00:05:51,560 --> 00:05:53,540
+dann auf den Radius einstelle und
+
+190
+00:05:53,540 --> 00:05:55,540
+vervollständige, aber um das einfach
+
+191
+00:05:55,540 --> 00:05:57,580
+nur einmal zu zeigen, dass generell
+
+192
+00:05:57,580 --> 00:05:59,520
+dieses Prinzip des Spiegelns an einer
+
+193
+00:05:59,520 --> 00:06:00,940
+Spiegelachse für jede Figur
+
+194
+00:06:00,940 --> 00:06:03,140
+funktioniert, ja nun bei einem Kreis
+
+195
+00:06:03,140 --> 00:06:04,260
+müsste man eben sehr, sehr fein
+
+196
+00:06:04,260 --> 00:06:05,780
+arbeiten und sehr, sehr viele Punkte
+
+197
+00:06:05,780 --> 00:06:08,480
+einzeln drüber spiegeln, damit eben
+
+198
+00:06:08,480 --> 00:06:10,120
+das Sp Spiegelbild auch wirklich ganz
+
+199
+00:06:10,120 --> 00:06:13,460
+genau entsteht. Ansonsten hättet ihr
+
+200
+00:06:13,460 --> 00:06:15,340
+den Fall, dass die linke Hälfte eben
+
+201
+00:06:15,340 --> 00:06:16,600
+ein glatter Halbkreis ist und die
+
+202
+00:06:16,600 --> 00:06:18,380
+rechte Hälfte dann so ein, weiß ich
+
+203
+00:06:18,380 --> 00:06:20,120
+nicht, so ein 16-Eck oder sowas ist,
+
+204
+00:06:20,160 --> 00:06:21,540
+wenn man nur 16 Punkte gespiegelt
+
+205
+00:06:21,540 --> 00:06:24,280
+hat. Aber durch die Spiegelung
+
+206
+00:06:24,280 --> 00:06:25,880
+erhalten wir, wie erwartet, einen
+
+207
+00:06:25,880 --> 00:06:26,660
+vollen Kreis.
+
+208
+00:06:29,330 --> 00:06:31,170
+Die nächste Abbildung ist die
+
+209
+00:06:31,170 --> 00:06:33,690
+Punktspiegelung und das Prinzip ist
+
+210
+00:06:33,690 --> 00:06:35,370
+relativ ähnlich. Der einzige
+
+211
+00:06:35,370 --> 00:06:37,110
+Unterschied, statt einer Spiegelachse
+
+212
+00:06:37,110 --> 00:06:38,930
+haben wir diesmal einen Punkt, an dem
+
+213
+00:06:38,930 --> 00:06:42,850
+wir spiegeln. Und an sich werden
+
+214
+00:06:42,850 --> 00:06:44,490
+dabei wieder die gleichen
+
+215
+00:06:44,490 --> 00:06:45,870
+Eigenschaften beibehalten, die ganzen
+
+216
+00:06:45,870 --> 00:06:49,810
+Abstände, die praktisch, wenn wir das
+
+217
+00:06:49,810 --> 00:06:50,730
+jetzt rüberspiegeln, werden wir
+
+218
+00:06:50,730 --> 00:06:51,830
+gleich sehen, dass auch das Dreieck,
+
+219
+00:06:51,870 --> 00:06:53,370
+was wir gleich rüberspiegeln, auch
+
+220
+00:06:53,370 --> 00:06:54,970
+wieder vergleichbar ist mit dem
+
+221
+00:06:54,970 --> 00:06:56,770
+originalen Dreieck. Aber die
+
+222
+00:06:56,770 --> 00:06:57,850
+Spiegelung funktioniert eben ein
+
+223
+00:06:57,850 --> 00:06:59,950
+kleines bisschen anders. Und zwar
+
+224
+00:06:59,950 --> 00:07:01,450
+zeichnen wir jetzt erstmal hier
+
+225
+00:07:01,450 --> 00:07:03,250
+unseren Spiegelpunkt ein. Wie gesagt,
+
+226
+00:07:03,350 --> 00:07:04,870
+keine Gerade mehr, keine Achse,
+
+227
+00:07:04,870 --> 00:07:06,790
+sondern einen Punkt. Und die Idee ist
+
+228
+00:07:06,790 --> 00:07:09,090
+jetzt, wir verbinden sozusagen jeden
+
+229
+00:07:09,090 --> 00:07:11,130
+der Punkte von diesem Dreieck mit
+
+230
+00:07:11,130 --> 00:07:14,330
+diesem Spiegelpunkt. Da haben wir
+
+231
+00:07:14,330 --> 00:07:15,790
+wieder A, B und C. Wir verbinden
+
+232
+00:07:15,790 --> 00:07:17,590
+jeden einzelnen von denen mit diesem
+
+233
+00:07:17,590 --> 00:07:19,150
+Spiegelpunkt. Statt also auf dieser
+
+234
+00:07:19,150 --> 00:07:21,230
+Achse diesen kürzesten Abstand zu
+
+235
+00:07:21,230 --> 00:07:22,330
+suchen, das immer alles in einem
+
+236
+00:07:22,330 --> 00:07:24,070
+rechten Winkel zu spiegeln, gehen wir
+
+237
+00:07:24,070 --> 00:07:26,330
+immer durch diesen Punkt. Das
+
+238
+00:07:26,330 --> 00:07:27,850
+bedeutet, von A aus zeichnen wir
+
+239
+00:07:27,850 --> 00:07:30,010
+jetzt die Verbindungslinie von A zu Z
+
+240
+00:07:30,010 --> 00:07:32,130
+und gehen dann auf der anderen Seite
+
+241
+00:07:32,130 --> 00:07:34,030
+sozusagen weiter um die gleiche
+
+242
+00:07:34,030 --> 00:07:36,190
+Länge. B wandert natürlich auch durch
+
+243
+00:07:36,190 --> 00:07:37,730
+den Punkt Z, einen etwas größeren
+
+244
+00:07:37,730 --> 00:07:39,530
+Schritt. C wandert auch durch den
+
+245
+00:07:39,530 --> 00:07:42,410
+Punkt Z. Und hier sieht man eben, wie
+
+246
+00:07:42,410 --> 00:07:45,070
+praktisch vom Punkt Z aus sozusagen
+
+247
+00:07:45,070 --> 00:07:47,350
+in alle Richtungen die Punkte jeweils
+
+248
+00:07:47,350 --> 00:07:48,870
+miteinander verbunden werden, die
+
+249
+00:07:48,870 --> 00:07:50,470
+Punkte mit ihren jeweiligen
+
+250
+00:07:50,470 --> 00:07:52,770
+Spiegelpunkten. und jetzt haben wir
+
+251
+00:07:52,770 --> 00:07:56,230
+wieder die drei Punkte A', B' und C',
+
+252
+00:07:56,230 --> 00:07:57,310
+wenn wir die wieder miteinander
+
+253
+00:07:57,310 --> 00:07:59,270
+verbinden, dann erhalten wir wieder,
+
+254
+00:07:59,370 --> 00:08:01,930
+hallo, dann erhalten wir wieder ein
+
+255
+00:08:01,930 --> 00:08:03,930
+Dreieck, ja, und hier sieht man eben,
+
+256
+00:08:04,030 --> 00:08:05,430
+diese Dreiecke, die sind jetzt durch
+
+257
+00:08:05,430 --> 00:08:07,150
+diesen Spiegelpunkt Z gespiegelt
+
+258
+00:08:07,150 --> 00:08:08,830
+worden und auch hier könnte man
+
+259
+00:08:08,830 --> 00:08:10,790
+wieder die Seitenlängen messen, man
+
+260
+00:08:10,790 --> 00:08:12,070
+könnte wieder die Winkel messen und
+
+261
+00:08:12,070 --> 00:08:13,690
+würde feststellen, die Winkel und die
+
+262
+00:08:13,690 --> 00:08:14,890
+Seitenlängen, die sind immer noch die
+
+263
+00:08:14,890 --> 00:08:16,670
+gleichen wie hier, nur die sind jetzt
+
+264
+00:08:16,670 --> 00:08:17,610
+natürlich ein bisschen verschoben
+
+265
+00:08:17,610 --> 00:08:19,970
+worden, weil zum Beispiel der Punkt A
+
+266
+00:08:19,970 --> 00:08:21,910
+vorher hier oben lag und jetzt der
+
+267
+00:08:21,910 --> 00:08:23,910
+gespiegelte Punkt A' hingegen hier
+
+268
+00:08:23,910 --> 00:08:25,530
+unten liegt. Also wenn das hier
+
+269
+00:08:25,530 --> 00:08:26,890
+entsprechend der Winkel Alpha wäre,
+
+270
+00:08:27,070 --> 00:08:28,550
+ist das hier unten der Winkel Alpha.
+
+271
+00:08:29,010 --> 00:08:30,690
+Aber man spricht eben auch davon,
+
+272
+00:08:30,790 --> 00:08:32,950
+dass diese Dreiecke kongruent sind,
+
+273
+00:08:33,070 --> 00:08:34,050
+weil die eben die gleichen
+
+274
+00:08:34,050 --> 00:08:35,150
+Seitenlängen und die gleichen
+
+275
+00:08:35,150 --> 00:08:39,660
+Winkelgrößen haben. Ja, den
+
+276
+00:08:39,660 --> 00:08:40,700
+Halbkreis, den können wir natürlich
+
+277
+00:08:40,700 --> 00:08:42,400
+auch durch einen Punkt spiegeln,
+
+278
+00:08:42,420 --> 00:08:44,140
+sinnvollerweise der Mittelpunkt,
+
+279
+00:08:44,220 --> 00:08:46,440
+damit da auch wieder ein ganzer Kreis
+
+280
+00:08:46,440 --> 00:08:48,100
+draus entsteht. Und da gehen wir
+
+281
+00:08:48,100 --> 00:08:49,300
+natürlich genauso vor. Wir müssten
+
+282
+00:08:49,300 --> 00:08:50,920
+jetzt wieder eine ganz, ganz feine
+
+283
+00:08:50,920 --> 00:08:52,400
+Unterteilung von diesem Halbkreis
+
+284
+00:08:52,400 --> 00:08:55,360
+machen und jeweils die Punkte durch
+
+285
+00:08:55,360 --> 00:08:58,060
+diesen Punkt Z spiegeln. Das ist eben
+
+286
+00:08:58,060 --> 00:08:59,360
+der Unterschied zu der Spiegelachse.
+
+287
+00:08:59,460 --> 00:09:00,400
+Bei der Achse müssen wir immer
+
+288
+00:09:00,400 --> 00:09:02,680
+schauen, sozusagen jeder Punkt wird
+
+289
+00:09:02,680 --> 00:09:04,240
+an einer anderen Stelle der Achse
+
+290
+00:09:04,240 --> 00:09:05,960
+gespiegelt. Hier geht aber alles
+
+291
+00:09:05,960 --> 00:09:07,940
+durch diesen Punkt Z. Man sieht
+
+292
+00:09:07,940 --> 00:09:09,180
+schon, wenn man so nach und nach alle
+
+293
+00:09:09,180 --> 00:09:11,220
+einzelnen Abschnitte und alle
+
+294
+00:09:11,220 --> 00:09:13,180
+einzelnen Punkte von diesem Halbkreis
+
+295
+00:09:13,180 --> 00:09:14,820
+spiegelt, dann entsteht auf der
+
+296
+00:09:14,820 --> 00:09:16,020
+rechten Seite entsprechend das
+
+297
+00:09:16,020 --> 00:09:18,780
+Spiegelbild von diesem Halbkreis. und
+
+298
+00:09:18,780 --> 00:09:20,220
+wir sehen, letztendlich kommt wieder
+
+299
+00:09:20,220 --> 00:09:22,880
+genau das gleiche raus wie vorhin bei
+
+300
+00:09:22,880 --> 00:09:25,160
+der Achsenspiegelung. In diesem ganz
+
+301
+00:09:25,160 --> 00:09:26,640
+besonderen Fall, bei diesem Kreis,
+
+302
+00:09:26,660 --> 00:09:28,540
+haben wir auch durch die
+
+303
+00:09:28,540 --> 00:09:30,700
+Punktspiegelung einen vollen Kreis
+
+304
+00:09:30,700 --> 00:09:31,260
+erzeugt.
+
+305
+00:09:37,220 --> 00:09:39,020
+Also sprechen wir kurz über Achsen-
+
+306
+00:09:39,020 --> 00:09:41,040
+und Punktsymmetrie im Allgemeinen.
+
+307
+00:09:42,540 --> 00:09:44,620
+Eine Achsensymmetrie bzw. eine Figur
+
+308
+00:09:44,620 --> 00:09:47,120
+ist achsensymmetrisch, wenn man eben
+
+309
+00:09:47,120 --> 00:09:48,760
+einen Spiegel an die Figur anlegen
+
+310
+00:09:48,760 --> 00:09:50,660
+kann, sodass wenn man in den Spiegel
+
+311
+00:09:50,660 --> 00:09:52,840
+guckt, letztendlich die Figur wieder
+
+312
+00:09:52,840 --> 00:09:54,480
+vervollständigt wird. Also wenn ihr
+
+313
+00:09:54,480 --> 00:09:56,180
+eine Figur habt, auf eurem Papier,
+
+314
+00:09:56,180 --> 00:09:57,920
+ausgedruckt oder selbst gezeichnet,
+
+315
+00:09:58,440 --> 00:10:00,360
+und ihr vermutet, die ist glaube ich
+
+316
+00:10:00,360 --> 00:10:01,680
+achsensymmetrisch, da gibt es eine
+
+317
+00:10:01,680 --> 00:10:04,120
+Symmetrieachse, wenn ihr die habt und
+
+318
+00:10:04,120 --> 00:10:05,660
+ihr legt dort einen Spiegel an, dann
+
+319
+00:10:05,660 --> 00:10:06,920
+könnt ihr in den Spiegel schauen oder
+
+320
+00:10:06,920 --> 00:10:08,740
+auch den Spiegel wegnehmen, es würde
+
+321
+00:10:08,740 --> 00:10:10,120
+beides mal das gleiche herauskommen.
+
+322
+00:10:10,240 --> 00:10:11,780
+Sie würde im Spiegelbild auch den
+
+323
+00:10:11,780 --> 00:10:13,620
+Rest der Figur ganz normal erkennen
+
+324
+00:10:13,620 --> 00:10:16,940
+können. Oder anders ausgedrückt, eine
+
+325
+00:10:16,940 --> 00:10:18,500
+Figur ist achsensymmetrisch, wenn ich
+
+326
+00:10:18,500 --> 00:10:20,620
+eben eine Achse, sozusagen eine
+
+327
+00:10:20,620 --> 00:10:22,500
+Spiegelachse, da durchlegen kann. Und
+
+328
+00:10:22,500 --> 00:10:23,660
+dann, wenn ich jeden Punkt auf der
+
+329
+00:10:23,660 --> 00:10:24,800
+einen Seite spiegel, kommt einfach
+
+330
+00:10:24,800 --> 00:10:25,880
+der entsprechende Punkt auf der
+
+331
+00:10:25,880 --> 00:10:27,580
+anderen Seite, wie erwartet, raus.
+
+332
+00:10:27,580 --> 00:10:29,640
+Ja, hier nochmal kurz zusammengefasst
+
+333
+00:10:29,640 --> 00:10:31,120
+in dieser kleinen Figur. Wir haben
+
+334
+00:10:31,120 --> 00:10:33,400
+hier eine Achsensymmetrie. Wir
+
+335
+00:10:33,400 --> 00:10:35,580
+könnten hier einen Spiegel anlegen
+
+336
+00:10:35,580 --> 00:10:37,040
+auf unserer Zeichnung und wenn wir in
+
+337
+00:10:37,040 --> 00:10:38,080
+den Spiegel schauen, dann sehen wir
+
+338
+00:10:38,080 --> 00:10:39,560
+genau dieses Dreieck auch in dem
+
+339
+00:10:39,560 --> 00:10:40,040
+Spiegelbild.
+
+340
+00:10:43,380 --> 00:10:45,340
+Bei der Punktsymmetrie, da wird, wie
+
+341
+00:10:45,340 --> 00:10:46,540
+der Name eben schon sagt, durch einen
+
+342
+00:10:46,540 --> 00:10:48,920
+Punkt gespiegelt. Dadurch kann die
+
+343
+00:10:48,920 --> 00:10:50,060
+Figur sich eben auch noch ein
+
+344
+00:10:50,060 --> 00:10:51,480
+bisschen anders umorientieren. Wie
+
+345
+00:10:51,480 --> 00:10:52,460
+wir vorhin gesehen haben, dieser
+
+346
+00:10:52,460 --> 00:10:53,980
+Punkt A, der hier oben liegt, der
+
+347
+00:10:53,980 --> 00:10:56,880
+liegt dann nachher hier unten. Aber
+
+348
+00:10:56,880 --> 00:10:59,120
+auch hier gilt wieder, die Dreiecke
+
+349
+00:10:59,120 --> 00:11:00,160
+sind kongruent, die haben die
+
+350
+00:11:00,160 --> 00:11:01,380
+gleichen Seitenlängen, die haben die
+
+351
+00:11:01,380 --> 00:11:04,120
+gleichen Winkelgrößen. Aber man kann
+
+352
+00:11:04,120 --> 00:11:05,680
+jetzt hier leider nicht so einfach
+
+353
+00:11:05,680 --> 00:11:08,160
+einen Spiegel anlegen, weil ein
+
+354
+00:11:08,160 --> 00:11:09,300
+Spiegel nun mal immer eine
+
+355
+00:11:09,300 --> 00:11:11,800
+Achsensymmetrie produziert. Das ist
+
+356
+00:11:11,800 --> 00:11:12,900
+jetzt in der Realität dann ein
+
+357
+00:11:12,900 --> 00:11:13,500
+bisschen schwieriger
+
+358
+00:11:13,500 --> 00:11:16,120
+nachzuvollziehen, weil man eben nicht
+
+359
+00:11:16,120 --> 00:11:17,280
+einfach so durch einen Punkt spiegeln
+
+360
+00:11:17,280 --> 00:11:18,420
+kann. Aber wenn man eben diese
+
+361
+00:11:18,420 --> 00:11:20,660
+Verbindungslinien zieht und die sich
+
+362
+00:11:20,660 --> 00:11:22,120
+alle in einem Punkt treffen, dann ist
+
+363
+00:11:22,120 --> 00:11:23,440
+klar, das hier ist der Spiegelpunkt
+
+364
+00:11:23,440 --> 00:11:23,720
+gewesen.
+
+365
+00:11:27,600 --> 00:11:28,760
+Jetzt zeigen wir uns nochmal kurz an
+
+366
+00:11:28,760 --> 00:11:30,320
+dem Beispiel von dem Kreis. Das haben
+
+367
+00:11:30,320 --> 00:11:31,360
+wir vorhin auch gesehen, wir spiegeln
+
+368
+00:11:31,360 --> 00:11:33,000
+alle Punkte rüber, das sollte man
+
+369
+00:11:33,000 --> 00:11:34,000
+natürlich ein kleines bisschen feiner
+
+370
+00:11:34,000 --> 00:11:35,660
+machen, das kann man aber auch durch
+
+371
+00:11:35,660 --> 00:11:37,500
+den Punkt machen und daher sehen wir,
+
+372
+00:11:37,520 --> 00:11:39,600
+es gibt gewisse Figuren, bei denen
+
+373
+00:11:39,600 --> 00:11:41,800
+gibt es eine Symmetrieachse, aber es
+
+374
+00:11:41,800 --> 00:11:44,580
+gibt auch eine Punktsymmetrie, also
+
+375
+00:11:44,580 --> 00:11:48,120
+einen Spiegelpunkt. Also man kann das
+
+376
+00:11:48,120 --> 00:11:49,820
+nicht unbedingt immer eindeutig
+
+377
+00:11:49,820 --> 00:11:51,420
+zuordnen, denn es gibt manchmal
+
+378
+00:11:51,420 --> 00:11:53,320
+Figuren, bei denen beides möglich
+
+379
+00:11:53,320 --> 00:11:53,680
+ist.
+
+380
+00:11:57,100 --> 00:11:58,680
+Es geht sogar noch ein bisschen
+
+381
+00:11:58,680 --> 00:12:00,780
+weiter und zwar kann es bei einer
+
+382
+00:12:00,780 --> 00:12:02,240
+achsensymmetrischen Figur sein, dass
+
+383
+00:12:02,240 --> 00:12:04,400
+sie sogar mehrere Symmetrieachsen hat
+
+384
+00:12:04,400 --> 00:12:05,960
+und wir zeigen das am Beispiel eines
+
+385
+00:12:05,960 --> 00:12:08,320
+Sterns. Und hier gibt es mehrere
+
+386
+00:12:08,320 --> 00:12:09,760
+Möglichkeiten eine Symmetrieachse
+
+387
+00:12:09,760 --> 00:12:11,040
+durchzulegen. Wir können zum Beispiel
+
+388
+00:12:11,040 --> 00:12:14,040
+so durchlegen, einfach senkrecht. Wir
+
+389
+00:12:14,040 --> 00:12:15,080
+könnten die aber auch so diagonal
+
+390
+00:12:15,080 --> 00:12:16,880
+legen und auch hier würde eine
+
+391
+00:12:16,880 --> 00:12:19,360
+Symmetrieachse genau die Spiegelung
+
+392
+00:12:19,360 --> 00:12:21,100
+hervorrufen. Also es gibt da mehrere
+
+393
+00:12:21,100 --> 00:12:24,000
+Möglichkeiten, das zu machen. Und
+
+394
+00:12:24,000 --> 00:12:25,200
+darauf muss man natürlich auch
+
+395
+00:12:25,200 --> 00:12:26,520
+achten. Manchmal heißt eure Aufgabe,
+
+396
+00:12:26,640 --> 00:12:27,640
+ihr sollt alle Symmetrieachsen
+
+397
+00:12:27,640 --> 00:12:30,140
+finden. Manchmal geht es nur darum,
+
+398
+00:12:30,220 --> 00:12:31,320
+dass ihr nur eine findet. Also hier
+
+399
+00:12:31,320 --> 00:12:32,640
+haben wir eben ganz viele Beispiele
+
+400
+00:12:32,640 --> 00:12:34,660
+eingezeichnet, wie dieser Stern
+
+401
+00:12:34,660 --> 00:12:36,940
+jeweils ja eigentlich als symmetrisch
+
+402
+00:12:36,940 --> 00:12:38,000
+aufgefasst werden kann.
+
+403
+00:12:41,780 --> 00:12:43,820
+Aber bei der Punktsymmetrie ist es
+
+404
+00:12:43,820 --> 00:12:45,340
+so, dass es dann immer nur einen
+
+405
+00:12:45,340 --> 00:12:47,240
+Punkt gibt, zu dem es symmetrisch
+
+406
+00:12:47,240 --> 00:12:49,960
+ist. Also dieser Punkt Z, an dem hier
+
+407
+00:12:49,960 --> 00:12:51,220
+offensichtlich gespiegelt wurde,
+
+408
+00:12:51,360 --> 00:12:53,200
+damit die Figur insgesamt vollständig
+
+409
+00:12:53,200 --> 00:12:54,900
+wird, der kann nicht verschoben
+
+410
+00:12:54,900 --> 00:12:55,920
+werden, der kann nicht einfach
+
+411
+00:12:55,920 --> 00:12:57,540
+irgendwo anders liegen. Bei einer
+
+412
+00:12:57,540 --> 00:12:58,840
+Punktsymmetrie gibt es immer nur
+
+413
+00:12:58,840 --> 00:13:00,220
+einen Symmetriepunkt, bei einer
+
+414
+00:13:00,220 --> 00:13:02,100
+Achsensymmetrie hingegen, da könnte
+
+415
+00:13:02,100 --> 00:13:03,680
+es mehrere verschiedene Achsen geben,
+
+416
+00:13:03,860 --> 00:13:05,360
+die aber letztendlich wieder die
+
+417
+00:13:05,360 --> 00:13:07,120
+gleiche Figur erzeugen.
+
+418
+00:13:12,590 --> 00:13:13,850
+Hier noch ein weiteres Beispiel,
+
+419
+00:13:14,110 --> 00:13:16,350
+praktisch ein Achteck, das was man so
+
+420
+00:13:16,350 --> 00:13:17,470
+von einem Stoppschild kennt. Hier
+
+421
+00:13:17,470 --> 00:13:18,270
+sieht man auch mehrere
+
+422
+00:13:18,270 --> 00:13:20,030
+Symmetrieachsen, die hier nach und
+
+423
+00:13:20,030 --> 00:13:21,410
+nach ausprobiert werden und die sind
+
+424
+00:13:21,410 --> 00:13:22,610
+auch alle gültig. Das sind alles
+
+425
+00:13:22,610 --> 00:13:25,050
+Möglichkeiten, um hier bei diesem
+
+426
+00:13:25,050 --> 00:13:26,610
+Achteck eben Symmetrieachsen zu
+
+427
+00:13:26,610 --> 00:13:30,390
+finden. Und hier nochmal alle
+
+428
+00:13:30,390 --> 00:13:31,490
+zusammen, da sieht man schon, das
+
+429
+00:13:31,490 --> 00:13:32,510
+wird natürlich sehr schnell
+
+430
+00:13:32,510 --> 00:13:34,890
+chaotisch. letztendlich kann man
+
+431
+00:13:34,890 --> 00:13:36,450
+diese Symmetrieachse beliebig um
+
+432
+00:13:36,450 --> 00:13:37,870
+diesen Mittelpunkt drehen und damit
+
+433
+00:13:37,870 --> 00:13:39,730
+immer eine Spiegelung erzeugen.
+
+434
+00:13:43,170 --> 00:13:45,090
+Was aber auch wichtig ist, wie vorhin
+
+435
+00:13:45,090 --> 00:13:47,370
+schon gemerkt bei diesem Kreis oder
+
+436
+00:13:47,370 --> 00:13:48,710
+bei dem Halbkreis, der zu einem
+
+437
+00:13:48,710 --> 00:13:50,630
+ganzen Kreis wurde, wenn wir eine
+
+438
+00:13:50,630 --> 00:13:52,030
+Achsensymmetrie gefunden haben, heißt
+
+439
+00:13:52,030 --> 00:13:53,590
+das nicht, dass es nicht auch noch
+
+440
+00:13:53,590 --> 00:13:55,190
+eine Punktsymmetrie geben kann oder
+
+441
+00:13:55,190 --> 00:13:57,130
+umgekehrt. Denn auch dieses Achteck
+
+442
+00:13:57,130 --> 00:13:57,910
+ist auch gleichzeitig
+
+443
+00:13:57,910 --> 00:13:59,770
+punktsymmetrisch und zwar zu dem
+
+444
+00:13:59,770 --> 00:14:01,850
+jeweiligen Mittelpunkt. Und oft ist
+
+445
+00:14:01,850 --> 00:14:04,090
+es so, dass wenn man eben diesen
+
+446
+00:14:04,090 --> 00:14:06,470
+Mittelpunkt gefunden hat, also zuerst
+
+447
+00:14:06,470 --> 00:14:07,390
+feststellt, oh, das ist eine
+
+448
+00:14:07,390 --> 00:14:08,910
+Punktsymmetrie, dann kann man
+
+449
+00:14:08,910 --> 00:14:10,650
+versuchen, eine Achsensymmetrie zu
+
+450
+00:14:10,650 --> 00:14:12,230
+finden. Wichtig ist, diese
+
+451
+00:14:12,230 --> 00:14:14,650
+Achsensymmetrie beinhaltet dann in
+
+452
+00:14:14,650 --> 00:14:15,910
+der Regel auch diesen Punkt. Man
+
+453
+00:14:15,910 --> 00:14:17,390
+sieht ja hier, alle Achsen treffen
+
+454
+00:14:17,390 --> 00:14:19,010
+sich in diesem Mittelpunkt hier und
+
+455
+00:14:19,010 --> 00:14:20,250
+das ist auch genau der Spiegelpunkt.
+
+456
+00:14:21,470 --> 00:14:23,230
+Umgekehrt, wenn ihr bei einer Figur
+
+457
+00:14:23,230 --> 00:14:24,750
+alle möglichen Achsensymmetrien
+
+458
+00:14:24,750 --> 00:14:26,570
+ausprobiert und feststellt, alle
+
+459
+00:14:26,570 --> 00:14:28,550
+Symmetrieachsen gehen durch einen und
+
+460
+00:14:28,550 --> 00:14:30,570
+denselben Punkt, dann ist es sehr
+
+461
+00:14:30,570 --> 00:14:32,070
+wahrscheinlich, dass es eben auch
+
+462
+00:14:32,070 --> 00:14:33,410
+eine Punktsymmetrie an dieser Stelle
+
+463
+00:14:33,410 --> 00:14:35,370
+gibt. Also da auf jeden Fall darauf
+
+464
+00:14:35,370 --> 00:14:36,890
+achten, das eine schließt das andere
+
+465
+00:14:36,890 --> 00:14:37,390
+nicht aus.
+
+466
+00:14:45,600 --> 00:14:46,980
+So das sind die beiden Arten der
+
+467
+00:14:46,980 --> 00:14:48,180
+Spiegelung und die die Symmetrien,
+
+468
+00:14:48,200 --> 00:14:50,320
+die daraus entstehen. Eine weitere
+
+469
+00:14:50,320 --> 00:14:51,880
+Art der Abbildung ist eine relativ
+
+470
+00:14:51,880 --> 00:14:53,520
+simple Art der Abbildung, nämlich die
+
+471
+00:14:53,520 --> 00:14:55,020
+Verschiebung. Dabei verschieben wir
+
+472
+00:14:55,020 --> 00:14:56,640
+einfach alle Punkte einer Figur und
+
+473
+00:14:56,640 --> 00:15:01,880
+damit die Figur als Ganzes. Die Idee
+
+474
+00:15:01,880 --> 00:15:03,720
+ist, wir geben eine bestimmte
+
+475
+00:15:03,720 --> 00:15:06,100
+Richtung und einen festen Abstand vor
+
+476
+00:15:06,100 --> 00:15:08,660
+und jeder Punkt oder eben jeder
+
+477
+00:15:08,660 --> 00:15:12,720
+markante Punkt wird eben von seinem
+
+478
+00:15:12,720 --> 00:15:14,140
+Ursprungsort dementsprechend
+
+479
+00:15:14,140 --> 00:15:16,880
+verschoben. Nehmen wir wieder unsere
+
+480
+00:15:16,880 --> 00:15:19,200
+Figuren von eben, dieses Dreieck und
+
+481
+00:15:19,200 --> 00:15:20,740
+unsere Idee ist jetzt, wir möchten
+
+482
+00:15:20,740 --> 00:15:22,980
+diese drei Punkte jeweils um die
+
+483
+00:15:22,980 --> 00:15:25,220
+gleiche Richtung, um den gleichen
+
+484
+00:15:25,220 --> 00:15:27,480
+Abstand verschieben. Wir würden das
+
+485
+00:15:27,480 --> 00:15:29,660
+dann zum Beispiel vorgeben, dass es
+
+486
+00:15:29,660 --> 00:15:30,960
+zum Beispiel in der Aufgabe heißt,
+
+487
+00:15:31,140 --> 00:15:33,100
+zeichne dieses Dreieck, damit das so
+
+488
+00:15:33,100 --> 00:15:35,800
+auf eurem Raster in eurem karierten
+
+489
+00:15:35,800 --> 00:15:38,180
+Matheheft oder eben auf dem karierten
+
+490
+00:15:38,180 --> 00:15:40,540
+Blatt Papier ist und verschiebe jetzt
+
+491
+00:15:40,540 --> 00:15:42,720
+jeden Punkt um zwei Kästchen nach
+
+492
+00:15:42,720 --> 00:15:44,340
+rechts und ein Kästchen nach oben,
+
+493
+00:15:44,400 --> 00:15:45,720
+als Beispiel. Beispiel. Ja, dann kann
+
+494
+00:15:45,720 --> 00:15:47,340
+man sich eben an jeder Stelle, an
+
+495
+00:15:47,340 --> 00:15:49,080
+jedem Punkt diesen Pfeil einzeichnen,
+
+496
+00:15:49,120 --> 00:15:50,500
+der eben zwei Kästchen nach rechts
+
+497
+00:15:50,500 --> 00:15:52,200
+und einen nach oben geht, also sagen
+
+498
+00:15:52,200 --> 00:15:54,520
+wir ein bisschen diagonal. Und wenn
+
+499
+00:15:54,520 --> 00:15:55,880
+ihr das mit jedem Punkt macht und
+
+500
+00:15:55,880 --> 00:15:56,960
+dann hinterher die verschobenen
+
+501
+00:15:56,960 --> 00:15:58,660
+Punkte wieder verbindet, naja, dann
+
+502
+00:15:58,660 --> 00:16:01,900
+hat man wie erwartet auch
+
+503
+00:16:01,900 --> 00:16:03,340
+entsprechend wieder das gleiche
+
+504
+00:16:03,340 --> 00:16:04,480
+Dreieck bekommen. Es liegt jetzt
+
+505
+00:16:04,480 --> 00:16:05,560
+einfach nur an einer anderen Stelle.
+
+506
+00:16:05,700 --> 00:16:06,980
+Ja, eine Verschiebung ändert
+
+507
+00:16:06,980 --> 00:16:08,140
+sozusagen nichts wirklich an der
+
+508
+00:16:08,140 --> 00:16:09,560
+Figur selbst. Da wird nichts
+
+509
+00:16:09,560 --> 00:16:11,360
+gespiegelt, nichts gedreht, sondern
+
+510
+00:16:11,360 --> 00:16:12,880
+sondern diese Figur liegt dann
+
+511
+00:16:12,880 --> 00:16:16,520
+einfach an einem anderen Ort. Wichtig
+
+512
+00:16:16,520 --> 00:16:18,320
+ist natürlich, dass ihr diese
+
+513
+00:16:18,320 --> 00:16:19,980
+Verbindung hier immer in der gleichen
+
+514
+00:16:19,980 --> 00:16:20,980
+Richtung mit der gleichen Länge
+
+515
+00:16:20,980 --> 00:16:22,740
+macht. Das heißt, ihr würdet sehen,
+
+516
+00:16:22,800 --> 00:16:24,440
+dass diese Verschiebungspfeile hier,
+
+517
+00:16:24,520 --> 00:16:26,540
+die sind alle parallel und die sind
+
+518
+00:16:26,540 --> 00:16:30,110
+auch alle gleich lang. Das können wir
+
+519
+00:16:30,110 --> 00:16:31,770
+auch mit diesem Halbkreis machen. Wir
+
+520
+00:16:31,770 --> 00:16:33,050
+nehmen uns auch wieder hier ganz
+
+521
+00:16:33,050 --> 00:16:34,570
+viele Punkte. In der Praxis würde man
+
+522
+00:16:34,570 --> 00:16:35,610
+natürlich noch ein paar mehr nehmen
+
+523
+00:16:35,610 --> 00:16:38,290
+als nur diese fünf. und verschiebt
+
+524
+00:16:38,290 --> 00:16:39,730
+die entsprechend alle und damit haben
+
+525
+00:16:39,730 --> 00:16:43,820
+wir dann den Halbkreis verschoben. In
+
+526
+00:16:43,820 --> 00:16:45,980
+der Oberstufe in der Mathematik, wenn
+
+527
+00:16:45,980 --> 00:16:47,560
+es so gegen Abitur zum Beispiel geht
+
+528
+00:16:47,560 --> 00:16:50,000
+und man hinterher in der analytischen
+
+529
+00:16:50,000 --> 00:16:51,540
+Geometrie ist, da rechnet man mit
+
+530
+00:16:51,540 --> 00:16:53,640
+Vektoren und so und da macht man
+
+531
+00:16:53,640 --> 00:16:56,380
+sowas auch sehr häufig. Also da müsst
+
+532
+00:16:56,380 --> 00:16:58,160
+ihr jetzt noch nichts von kennen. Ich
+
+533
+00:16:58,160 --> 00:16:59,440
+erwarte jetzt nicht von euch, dass
+
+534
+00:16:59,440 --> 00:17:01,160
+ihr mit analytischer Geometrie zu tun
+
+535
+00:17:01,160 --> 00:17:02,640
+habt, Aber das nur als Hinweis. Das
+
+536
+00:17:02,640 --> 00:17:03,640
+sind Sachen, die man auch hinterher
+
+537
+00:17:03,640 --> 00:17:05,560
+in der Oberstufe dann nochmal wieder
+
+538
+00:17:05,560 --> 00:17:07,480
+besucht und das dann auf eine etwas
+
+539
+00:17:07,480 --> 00:17:08,880
+andere Art und Weise ausdrückt, ein
+
+540
+00:17:08,880 --> 00:17:09,660
+bisschen rechnerisch macht.
+
+541
+00:17:13,140 --> 00:17:14,620
+Dann haben wir noch die Abbildung
+
+542
+00:17:14,620 --> 00:17:18,220
+durch Drehung. Hier ist es wieder so,
+
+543
+00:17:18,300 --> 00:17:19,800
+dass wir einen vorgegebenen Punkt
+
+544
+00:17:19,800 --> 00:17:22,260
+haben und um diesen Punkt möchten wir
+
+545
+00:17:22,260 --> 00:17:24,240
+drehen. Damit wir drehen können,
+
+546
+00:17:24,380 --> 00:17:25,580
+müssen wir aber auch wissen, wie weit
+
+547
+00:17:25,580 --> 00:17:26,960
+wir drehen und das geben wir in der
+
+548
+00:17:26,960 --> 00:17:28,820
+Regel in der Form eines Winkels an.
+
+549
+00:17:28,880 --> 00:17:30,240
+Dass wir also sagen, dreh die
+
+550
+00:17:30,240 --> 00:17:33,240
+komplette Figur um diesen Punkt um 90
+
+551
+00:17:33,240 --> 00:17:36,340
+Grad. Das kann man in der Praxis zum
+
+552
+00:17:36,340 --> 00:17:38,960
+Beispiel folgendermaßen üben. Ihr
+
+553
+00:17:38,960 --> 00:17:42,160
+habt eine Figur, wir nehmen mal kurz
+
+554
+00:17:42,160 --> 00:17:45,020
+wieder dieses Dreieck hier. Ja, und
+
+555
+00:17:45,020 --> 00:17:46,260
+wir stellen uns jetzt vor, wir haben
+
+556
+00:17:46,260 --> 00:17:49,520
+unseren Drehungspunkt Z hier. Was ihr
+
+557
+00:17:49,520 --> 00:17:50,860
+dann zum Beispiel machen könntet,
+
+558
+00:17:50,860 --> 00:17:52,880
+wäre, wäre, ihr schneidet dieses
+
+559
+00:17:52,880 --> 00:17:54,680
+Blatt Papier aus, sodass das Dreieck
+
+560
+00:17:54,680 --> 00:17:56,260
+und auch der Punkt Z drauf ist, also
+
+561
+00:17:56,260 --> 00:17:58,780
+ungefähr so ein Kreis hier praktisch
+
+562
+00:17:58,780 --> 00:18:01,620
+drumherum ausschneidet. Dann könnt
+
+563
+00:18:01,620 --> 00:18:02,680
+ihr zum Beispiel mit einem sehr
+
+564
+00:18:02,680 --> 00:18:04,660
+spitzen Stift einmal in Z sozusagen
+
+565
+00:18:04,660 --> 00:18:07,240
+da reinstechen oder mit dem Zirkel
+
+566
+00:18:07,240 --> 00:18:10,040
+und dann könnt ihr dementsprechend an
+
+567
+00:18:10,040 --> 00:18:12,220
+diesem Punkt Z das Ganze drehen. Ja,
+
+568
+00:18:12,240 --> 00:18:13,000
+dann könnt könnt ihr wirklich diesen
+
+569
+00:18:13,000 --> 00:18:13,880
+kleinen Schnipsel, den ihr
+
+570
+00:18:13,880 --> 00:18:15,080
+ausgeschnitten habt, hin und her
+
+571
+00:18:15,080 --> 00:18:17,060
+drehen und dieses Dreieck
+
+572
+00:18:17,060 --> 00:18:18,200
+dementsprechend an einer anderen
+
+573
+00:18:18,200 --> 00:18:19,500
+Stelle platzieren, weil ihr es da
+
+574
+00:18:19,500 --> 00:18:21,200
+hindreht. Jetzt möchten wir das
+
+575
+00:18:21,200 --> 00:18:22,340
+natürlich nicht genau so machen,
+
+576
+00:18:22,440 --> 00:18:23,820
+immer ausschneiden und wirklich
+
+577
+00:18:23,820 --> 00:18:25,000
+drehen, sondern wir möchten das
+
+578
+00:18:25,000 --> 00:18:27,600
+zeichnerisch lösen. Ja, dazu
+
+579
+00:18:27,600 --> 00:18:29,540
+verbinden wir wieder die einzelnen
+
+580
+00:18:29,540 --> 00:18:31,220
+Punkte mit diesem Punkt Z. Wir
+
+581
+00:18:31,220 --> 00:18:33,940
+beginnen erstmal nur mit einem, mit
+
+582
+00:18:33,940 --> 00:18:36,300
+dem Punkt A. den verbinden wir mit
+
+583
+00:18:36,300 --> 00:18:38,300
+dem Punkt Z und dadurch entsteht eben
+
+584
+00:18:38,300 --> 00:18:39,580
+diese erste Linie, die
+
+585
+00:18:39,580 --> 00:18:41,140
+Verbindungslinie zwischen A und Z.
+
+586
+00:18:41,620 --> 00:18:42,800
+Jetzt bekommen wir einen
+
+587
+00:18:42,800 --> 00:18:44,520
+Drehungswinkel angegeben. In dieser
+
+588
+00:18:44,520 --> 00:18:46,100
+Aufgabe heißt es, wir sollen um 80
+
+589
+00:18:46,100 --> 00:18:48,460
+Grad drehen. Das bedeutet, wir legen
+
+590
+00:18:48,460 --> 00:18:51,020
+dann hier das Geodreieck an, messen
+
+591
+00:18:51,020 --> 00:18:54,100
+einen Winkel von 80 Grad. Man geht
+
+592
+00:18:54,100 --> 00:18:55,280
+auch generell immer davon aus, dass
+
+593
+00:18:55,280 --> 00:18:57,100
+wir gegen den Uhrzeigersinn drehen,
+
+594
+00:18:57,120 --> 00:18:58,060
+also in diesem Fall nach links
+
+595
+00:18:58,060 --> 00:19:00,420
+drehen, nicht nach rechts. Wir messen
+
+596
+00:19:00,420 --> 00:19:03,080
+also 80 Grad ab als Winkel, zeichnen
+
+597
+00:19:03,080 --> 00:19:04,620
+dort dementsprechend den Schenkel
+
+598
+00:19:04,620 --> 00:19:08,800
+ein. Und der neue Punkt A' der liegt
+
+599
+00:19:08,800 --> 00:19:10,280
+dann irgendwo auf diesem Schenkel.
+
+600
+00:19:10,380 --> 00:19:12,300
+Aber nicht irgendwo wirklich, sondern
+
+601
+00:19:12,300 --> 00:19:13,600
+wir müssen wieder die gleiche Länge
+
+602
+00:19:13,600 --> 00:19:15,020
+abmessen. Wenn wir zum Beispiel sagen
+
+603
+00:19:15,020 --> 00:19:17,120
+hier der Abstand zwischen A und Z,
+
+604
+00:19:17,260 --> 00:19:18,680
+hätten wir jetzt gemessen, das sind 5
+
+605
+00:19:18,680 --> 00:19:20,560
+cm, dann müssen das natürlich auch
+
+606
+00:19:20,560 --> 00:19:23,040
+wieder 5 cm auf dem linken Schenkel
+
+607
+00:19:23,040 --> 00:19:24,720
+sein. Und dann haben wir unseren
+
+608
+00:19:24,720 --> 00:19:27,580
+Punkt A' erhalten. Und jetzt machen
+
+609
+00:19:27,580 --> 00:19:29,140
+wir das gleiche mit dem Punkt B. Wir
+
+610
+00:19:29,140 --> 00:19:32,280
+verbinden den Punkt B mit Z, zeichnen
+
+611
+00:19:32,280 --> 00:19:34,180
+dann hier den 80°-Winkel ein und ihr
+
+612
+00:19:34,180 --> 00:19:35,820
+seht, der ist ein bisschen verdreht
+
+613
+00:19:35,820 --> 00:19:36,820
+oder ein bisschen verschoben zu dem
+
+614
+00:19:36,820 --> 00:19:38,300
+anderen, weil ja auch der Punkt B
+
+615
+00:19:38,300 --> 00:19:40,900
+woanders lag. Also, wir zeichnen auch
+
+616
+00:19:40,900 --> 00:19:42,240
+hier wieder den 80°-Winkel an,
+
+617
+00:19:42,440 --> 00:19:44,080
+markieren den Punkt B wieder im
+
+618
+00:19:44,080 --> 00:19:46,580
+gleichen Abstand zu unserem Drehpunkt
+
+619
+00:19:46,580 --> 00:19:48,900
+und dann haben wir unseren gedrehten
+
+620
+00:19:48,900 --> 00:19:51,500
+Punkt B'. Dann machen wir das
+
+621
+00:19:51,500 --> 00:19:53,040
+natürlich nochmal mit C. Auch hier
+
+622
+00:19:53,040 --> 00:19:56,840
+verbinden wir C mit Z, zeichnen den
+
+623
+00:19:56,840 --> 00:19:59,460
+Winkel ein, messen den Abstand ab und
+
+624
+00:19:59,460 --> 00:20:01,200
+jetzt hat die Grafik das hier schon
+
+625
+00:20:01,200 --> 00:20:02,640
+vervollständigt. Ja, wenn wir dann
+
+626
+00:20:02,640 --> 00:20:03,680
+natürlich wieder alle drei Punkte
+
+627
+00:20:03,680 --> 00:20:05,920
+haben, dann ist dieses Dreieck
+
+628
+00:20:05,920 --> 00:20:09,000
+gedreht. Ja, und genau das wäre eben
+
+629
+00:20:09,000 --> 00:20:10,580
+auch passiert, wenn man das eben
+
+630
+00:20:10,580 --> 00:20:11,960
+ausgeschnitten hätte und wirklich an
+
+631
+00:20:11,960 --> 00:20:13,760
+dem Punkt Z in Wirklichkeit gedreht
+
+632
+00:20:13,760 --> 00:20:13,900
+hätte.
+
+633
+00:20:21,240 --> 00:20:22,160
+Jetzt haben wir hier noch ein
+
+634
+00:20:22,160 --> 00:20:25,360
+Beispiel, wo wir einmal um 60°...
+
+635
+00:20:25,380 --> 00:20:26,900
+drehen. Der Drehwinkel selbst, der
+
+636
+00:20:26,900 --> 00:20:27,680
+macht eigentlich keinen großen
+
+637
+00:20:27,680 --> 00:20:29,200
+Unterschied an dem ganzen Prozess.
+
+638
+00:20:29,380 --> 00:20:31,060
+Der entscheidet einfach nur, wie groß
+
+639
+00:20:31,060 --> 00:20:32,040
+ist der Winkel, den er am Ende
+
+640
+00:20:32,040 --> 00:20:34,020
+zeichnet. Aber wir zeigen hier
+
+641
+00:20:34,020 --> 00:20:35,260
+nochmal, was passiert, wenn der
+
+642
+00:20:35,260 --> 00:20:38,180
+Drehpunkt Z innerhalb der Figur
+
+643
+00:20:38,180 --> 00:20:39,380
+liegt. Denn hier in diesem linken
+
+644
+00:20:39,380 --> 00:20:41,020
+Fall liegt er außerhalb. Das heißt,
+
+645
+00:20:41,040 --> 00:20:42,560
+die Figur wird ja sozusagen nicht nur
+
+646
+00:20:42,560 --> 00:20:43,860
+einfach gedreht, sondern die wird um
+
+647
+00:20:43,860 --> 00:20:46,140
+einen Punkt gedreht und gewissermaßen
+
+648
+00:20:46,140 --> 00:20:48,760
+verschiebt sich damit ja auch. Wenn
+
+649
+00:20:48,760 --> 00:20:51,500
+jetzt aber der Drehpunkt genau in der
+
+650
+00:20:51,500 --> 00:20:52,580
+Mitte liegt, also wirklich im
+
+651
+00:20:52,580 --> 00:20:53,800
+Mittelpunkt der Figur, dann passiert
+
+652
+00:20:53,800 --> 00:20:56,240
+auch was ganz interessantes. Und zwar
+
+653
+00:20:56,240 --> 00:20:57,980
+drehen wir diesmal um 60 Grad. Wir
+
+654
+00:20:57,980 --> 00:20:59,120
+machen wieder genau den gleichen
+
+655
+00:20:59,120 --> 00:21:00,640
+Prozess von eben. Wir verbinden jeden
+
+656
+00:21:00,640 --> 00:21:02,640
+Punkt mit Z, zeichnen den Winkel ein
+
+657
+00:21:02,640 --> 00:21:04,320
+und messen dann wieder die
+
+658
+00:21:04,320 --> 00:21:05,960
+entsprechende Länge ab, damit der
+
+659
+00:21:05,960 --> 00:21:07,260
+Punkt wieder gleich weit entfernt
+
+660
+00:21:07,260 --> 00:21:09,880
+ist. Das machen wir auch mit B und
+
+661
+00:21:09,880 --> 00:21:11,040
+das machen wir dann auch nochmal mit
+
+662
+00:21:11,040 --> 00:21:15,270
+C. und was wir getan haben, wir haben
+
+663
+00:21:15,270 --> 00:21:16,490
+letztendlich das Dreieck auf der
+
+664
+00:21:16,490 --> 00:21:18,050
+Stelle gedreht. Weil wir um den
+
+665
+00:21:18,050 --> 00:21:19,370
+Mittelpunkt des Dreiecks gedreht
+
+666
+00:21:19,370 --> 00:21:20,870
+haben, haben wir es auch wirklich auf
+
+667
+00:21:20,870 --> 00:21:22,270
+der Stelle gedreht. Es ist so gesehen
+
+668
+00:21:22,270 --> 00:21:23,630
+dadurch keine Verschiebung wirklich
+
+669
+00:21:23,630 --> 00:21:25,070
+passiert, so wie es in dem linken
+
+670
+00:21:25,070 --> 00:21:26,670
+Fall auch ist. Das Dreieck liegt ja
+
+671
+00:21:26,670 --> 00:21:28,270
+praktisch auch woanders, sondern hier
+
+672
+00:21:28,270 --> 00:21:29,190
+liegt es immer noch auf der gleichen
+
+673
+00:21:29,190 --> 00:21:30,890
+Stelle, aber es wurde eben gedreht.
+
+674
+00:21:32,530 --> 00:21:33,710
+Der Prozess, wie ihr gesehen habt,
+
+675
+00:21:33,770 --> 00:21:35,110
+ist genau der gleiche. Also ob jetzt
+
+676
+00:21:35,110 --> 00:21:37,890
+der Drehpunkt innerhalb oder
+
+677
+00:21:37,890 --> 00:21:39,610
+außerhalb der Figur liegt, das ändert
+
+678
+00:21:39,610 --> 00:21:40,730
+überhaupt nichts an dem Verfahren,
+
+679
+00:21:40,810 --> 00:21:41,890
+was ihr durchführt und wie ihr das
+
+680
+00:21:41,890 --> 00:21:43,490
+zeichnet. Nur eben das Ergebnis ist
+
+681
+00:21:43,490 --> 00:21:44,410
+ein kleines bisschen anders.
+
+682
+00:21:47,180 --> 00:21:48,060
+Machen wir das auch nochmal in
+
+683
+00:21:48,060 --> 00:21:49,820
+unserem Halbkreis. Und in diesem Fall
+
+684
+00:21:49,820 --> 00:21:51,580
+möchten wir gerne um 90 Grad drehen.
+
+685
+00:21:52,960 --> 00:21:54,520
+Der Punkt, an dem wir drehen, der
+
+686
+00:21:54,520 --> 00:21:56,380
+Punkt Z, der liegt diesmal wieder
+
+687
+00:21:56,380 --> 00:21:57,740
+außerhalb oder zumindest ein bisschen
+
+688
+00:21:57,740 --> 00:22:00,780
+weiter weg von dem Halbkreis. Und was
+
+689
+00:22:00,780 --> 00:22:02,040
+man jetzt eben auch machen würde,
+
+690
+00:22:02,440 --> 00:22:03,960
+oder was man machen könnte, man nimmt
+
+691
+00:22:03,960 --> 00:22:05,520
+wieder jeden einzelnen Punkt ganz
+
+692
+00:22:05,520 --> 00:22:07,200
+fein unterteilt auf diesem Halbkreis
+
+693
+00:22:07,200 --> 00:22:08,600
+und spiegelt den nach dem gleichen
+
+694
+00:22:08,600 --> 00:22:11,580
+Prozess. In diesem Fall, um es ein
+
+695
+00:22:11,580 --> 00:22:12,680
+kleines bisschen übersichtlicher zu
+
+696
+00:22:12,680 --> 00:22:14,000
+halten, haben wir nur den ersten und
+
+697
+00:22:14,000 --> 00:22:14,880
+den letzten Punkt sozusagen
+
+698
+00:22:14,880 --> 00:22:16,980
+gespiegelt und einmal den aus der
+
+699
+00:22:16,980 --> 00:22:18,880
+Mitte genommen. Und dann haben wir
+
+700
+00:22:18,880 --> 00:22:19,680
+anscheinend doch noch ein paar mehr
+
+701
+00:22:19,680 --> 00:22:19,980
+genommen.
+
+702
+00:22:26,000 --> 00:22:27,640
+wahrscheinlich keine Kreise spiegeln
+
+703
+00:22:27,640 --> 00:22:28,780
+in der Art und Weise. Das hier soll
+
+704
+00:22:28,780 --> 00:22:31,600
+nur eben ein Beispiel sein. Wenn ich
+
+705
+00:22:31,600 --> 00:22:33,160
+den Halbkreis hier spiegeln müsste,
+
+706
+00:22:33,280 --> 00:22:34,320
+dann würde ich wahrscheinlich einfach
+
+707
+00:22:34,320 --> 00:22:36,000
+den Mittelpunkt, der ungefähr hier
+
+708
+00:22:36,000 --> 00:22:37,480
+liegt, von diesem Halbkreis, den
+
+709
+00:22:37,480 --> 00:22:39,360
+würde ich hier rüber spiegeln und von
+
+710
+00:22:39,360 --> 00:22:41,060
+da aus dann nur den ersten und den
+
+711
+00:22:41,060 --> 00:22:42,580
+letzten Punkt nehmen und das Ganze
+
+712
+00:22:42,580 --> 00:22:43,960
+dann mit dem Zirkel vervollständigen.
+
+713
+00:22:44,360 --> 00:22:45,920
+Das wäre auch eine Strategie.
+
+714
+00:22:48,700 --> 00:22:49,560
+Aber jetzt möchten wir das auch
+
+715
+00:22:49,560 --> 00:22:51,080
+nochmal zu einem vollen Kreis
+
+716
+00:22:51,080 --> 00:22:52,480
+vervollständigen. Wir nehmen unseren
+
+717
+00:22:52,480 --> 00:22:54,620
+Drehpunkt genau in der Mitte, genau
+
+718
+00:22:54,620 --> 00:22:56,880
+in dem Mittelpunkt und drehen um 180
+
+719
+00:22:56,880 --> 00:22:58,460
+Grad. Da kann man wahrscheinlich
+
+720
+00:22:58,460 --> 00:22:59,900
+schon ahnen, was dabei herauskommt.
+
+721
+00:23:00,180 --> 00:23:02,120
+Wir drehen immer um einen solchen
+
+722
+00:23:02,120 --> 00:23:07,580
+Winkel, der um 180 Grad ist. Und
+
+723
+00:23:07,580 --> 00:23:08,740
+letztendlich entsteht dabei wieder
+
+724
+00:23:08,740 --> 00:23:10,640
+der komplette Kreis. Weil jeder Punkt
+
+725
+00:23:10,640 --> 00:23:11,620
+sozusagen einfach auf die andere
+
+726
+00:23:11,620 --> 00:23:13,800
+Seite des Kreises rüber gedreht wird.
+
+727
+00:23:13,800 --> 00:23:17,440
+und letztendlich ungefähr das gleiche
+
+728
+00:23:17,440 --> 00:23:18,660
+passiert wie bei einer Spiegelung.
+
+729
+00:23:24,980 --> 00:23:26,260
+Ja genau, da machen wir mal den
+
+730
+00:23:26,260 --> 00:23:27,620
+Vergleich. Ja, da passiert praktisch
+
+731
+00:23:27,620 --> 00:23:28,520
+fast das gleiche.
+
+732
+00:23:31,220 --> 00:23:32,300
+Beziehungsweise es passiert sogar
+
+733
+00:23:32,300 --> 00:23:33,520
+wirklich das gleiche, wenn man jetzt
+
+734
+00:23:33,520 --> 00:23:35,440
+die einzelnen Punkte auf dem
+
+735
+00:23:35,440 --> 00:23:36,720
+Halbkreis noch nicht unterscheiden
+
+736
+00:23:36,720 --> 00:23:38,100
+würde, wenn man denen zum Beispiel
+
+737
+00:23:38,100 --> 00:23:40,020
+verschiedene Farben geben würde, dann
+
+738
+00:23:40,020 --> 00:23:41,320
+ist der Punkt, der zum Beispiel hier
+
+739
+00:23:41,320 --> 00:23:43,360
+liegt, der würde dann hier oben rüber
+
+740
+00:23:43,360 --> 00:23:45,240
+gedreht werden Und genauso ist es
+
+741
+00:23:45,240 --> 00:23:46,340
+auch bei der Spiegelung. Der Punkt,
+
+742
+00:23:46,360 --> 00:23:47,780
+der hier unten liegt, wird hier oben
+
+743
+00:23:47,780 --> 00:23:49,840
+drüber gespiegelt. Also die
+
+744
+00:23:49,840 --> 00:23:51,900
+Punktspiegelung und die Drehung um
+
+745
+00:23:51,900 --> 00:23:54,380
+180 Grad ist in diesem Beispiel, in
+
+746
+00:23:54,380 --> 00:23:56,020
+dieser Figur mit diesem Drehpunkt
+
+747
+00:23:56,020 --> 00:23:56,940
+auch genau das gleiche.
+
+748
+00:24:03,500 --> 00:24:05,060
+Ja, zum Abschluss schauen wir uns
+
+749
+00:24:05,060 --> 00:24:06,340
+noch eben an, was haben denn
+
+750
+00:24:06,340 --> 00:24:07,600
+Abbildungen generell eben für
+
+751
+00:24:07,600 --> 00:24:09,880
+Eigenschaften. Was erfüllen die,
+
+752
+00:24:09,940 --> 00:24:11,420
+womit können wir immer rechnen? Und
+
+753
+00:24:11,420 --> 00:24:12,480
+das sind auch Sachen, die wir
+
+754
+00:24:12,480 --> 00:24:14,480
+benutzen können, um zu überprüfen, ob
+
+755
+00:24:14,480 --> 00:24:16,360
+unsere Spiegelung oder Drehung oder
+
+756
+00:24:16,360 --> 00:24:18,160
+Verschiebung auch wirklich ordentlich
+
+757
+00:24:18,160 --> 00:24:19,900
+durchgeführt wurde. Also sozusagen so
+
+758
+00:24:19,900 --> 00:24:21,140
+eine Art Probe, die ihr machen könnt.
+
+759
+00:24:21,920 --> 00:24:23,700
+Denn Abbildungen erfüllen immer diese
+
+760
+00:24:23,700 --> 00:24:26,480
+folgenden drei Eigenschaften. Einmal
+
+761
+00:24:26,480 --> 00:24:28,520
+die Längentreue. Alle Längen einer
+
+762
+00:24:28,520 --> 00:24:30,380
+abgebildeten Figur sind identisch mit
+
+763
+00:24:30,380 --> 00:24:31,960
+den Längen der ursprünglichen Figur.
+
+764
+00:24:32,220 --> 00:24:33,840
+Heißt, im Beispiel unseres Dreiecks,
+
+765
+00:24:34,020 --> 00:24:35,920
+wenn ihr die Seitenlängen von dem
+
+766
+00:24:35,920 --> 00:24:37,780
+originalen Dreieck messt und wenn ihr
+
+767
+00:24:37,780 --> 00:24:38,900
+die von dem gespiegelten Dreieck
+
+768
+00:24:38,900 --> 00:24:40,020
+messt, dann müssen wieder genau die
+
+769
+00:24:40,020 --> 00:24:41,320
+gleichen Seitenlängen herauskommen.
+
+770
+00:24:41,320 --> 00:24:43,120
+Das gilt immer und das gilt auch
+
+771
+00:24:43,120 --> 00:24:44,360
+generell für jede Figur. Wenn ihr
+
+772
+00:24:44,360 --> 00:24:45,660
+dort eine Länge messen könnt, muss
+
+773
+00:24:45,660 --> 00:24:46,780
+das nach der Abbildung immer noch
+
+774
+00:24:46,780 --> 00:24:49,600
+genau die gleiche Länge sein. Das
+
+775
+00:24:49,600 --> 00:24:51,140
+gleiche gilt für Winkel. Wenn ihr in
+
+776
+00:24:51,140 --> 00:24:52,440
+eurer Figur einen Winkel messen
+
+777
+00:24:52,440 --> 00:24:53,460
+könnt, dann muss der nach der
+
+778
+00:24:53,460 --> 00:24:55,180
+Spiegelung, Drehung oder Verschiebung
+
+779
+00:24:55,180 --> 00:24:57,760
+immer noch der gleich große Winkel
+
+780
+00:24:57,760 --> 00:24:59,940
+sein. Der Winkel, der liegt dann
+
+781
+00:24:59,940 --> 00:25:00,840
+vielleicht irgendwo an einer anderen
+
+782
+00:25:00,840 --> 00:25:01,980
+Stelle in der Figur, weil man es
+
+783
+00:25:01,980 --> 00:25:03,840
+gespiegelt hat oder gedreht hat. aber
+
+784
+00:25:03,840 --> 00:25:05,280
+wenn man den nochmal misst, dann muss
+
+785
+00:25:05,280 --> 00:25:06,120
+wieder die gleiche Größe
+
+786
+00:25:06,120 --> 00:25:08,660
+herauskommen. Und sozusagen eine
+
+787
+00:25:08,660 --> 00:25:10,080
+Konsequenz von dem Ganzen ist die
+
+788
+00:25:10,080 --> 00:25:11,960
+Flächentreue. Flächentreue heißt,
+
+789
+00:25:12,080 --> 00:25:13,720
+wenn ihr den Flächeninhalt der Figur
+
+790
+00:25:13,720 --> 00:25:16,420
+entweder messt oder berechnet oder in
+
+791
+00:25:16,420 --> 00:25:17,620
+irgendeiner anderen Form bestimmt,
+
+792
+00:25:17,960 --> 00:25:19,560
+dann muss es danach immer noch das
+
+793
+00:25:19,560 --> 00:25:21,580
+Gleiche sein. Denn ihr vergrößert
+
+794
+00:25:21,580 --> 00:25:23,020
+oder verkleinert die Figur ja nicht.
+
+795
+00:25:23,180 --> 00:25:25,020
+Ihr platziert die ja letztendlich
+
+796
+00:25:25,020 --> 00:25:26,080
+einfach nur in einer etwas anderen
+
+797
+00:25:26,080 --> 00:25:29,320
+Art und Weise. Und generell kann man
+
+798
+00:25:29,320 --> 00:25:30,500
+eben sagen, dass all diese
+
+799
+00:25:30,500 --> 00:25:32,060
+Abbildungen auch dadurch eben
+
+800
+00:25:32,060 --> 00:25:34,460
+hergestellt werden können in der
+
+801
+00:25:34,460 --> 00:25:36,820
+Praxis, wenn ihr eure Figur aus eurem
+
+802
+00:25:36,820 --> 00:25:38,900
+Heft ganz genau ausschneidet und dann
+
+803
+00:25:38,900 --> 00:25:40,760
+diesen Schnipsel einfach woanders hin
+
+804
+00:25:40,760 --> 00:25:43,300
+verschiebt, etwas dreht oder einfach
+
+805
+00:25:43,300 --> 00:25:45,060
+umklappt, dass das dann gespiegelt
+
+806
+00:25:45,060 --> 00:25:46,520
+wurde. Das sind letztendlich alles
+
+807
+00:25:46,520 --> 00:25:47,680
+Sachen, die ihr damit machen könnt.
+
+808
+00:25:47,800 --> 00:25:49,060
+Also diese Abbildungen sind alles
+
+809
+00:25:49,060 --> 00:25:51,040
+Sachen, die ihr auch mit einem
+
+810
+00:25:51,040 --> 00:25:52,880
+Schnipsel Papier, auf dem eure Figur
+
+811
+00:25:52,880 --> 00:25:54,680
+drauf ist, machen könnt. und dann
+
+812
+00:25:54,680 --> 00:25:55,820
+ist, denke ich, klar, ihr habt ja die
+
+813
+00:25:55,820 --> 00:25:57,200
+Figur selbst nicht verändert. Ihr
+
+814
+00:25:57,200 --> 00:25:58,360
+könnt auf dem Schnitzel immer noch
+
+815
+00:25:58,360 --> 00:25:59,460
+die gleiche Länge, die gleichen
+
+816
+00:25:59,460 --> 00:26:00,900
+Winkel und den gleichen Flächeninhalt
+
+817
+00:26:00,900 --> 00:26:03,180
+messen. Ihr habt eben nur die Figur
+
+818
+00:26:03,180 --> 00:26:04,900
+an einer anderen Stelle verfrachtet
+
+819
+00:26:04,900 --> 00:26:07,020
+und dabei eventuell gedreht oder
+
+820
+00:26:07,020 --> 00:26:07,620
+gespiegelt.
+
+821
+00:26:12,700 --> 00:26:15,280
+Das war unser Webinar zum Thema
+
+822
+00:26:15,280 --> 00:26:17,340
+Abbildungen in der Ebene. Ich hoffe,
+
+823
+00:26:17,380 --> 00:26:18,940
+das hat euch geholfen. Falls ihr noch
+
+824
+00:26:18,940 --> 00:26:20,720
+Fragen habt oder ich nochmal eine der
+
+825
+00:26:20,720 --> 00:26:21,060
+Folien,
+
+826
+00:26:27,400 --> 00:26:29,120
+ein Lerncenter haben und probiert das
+
+827
+00:26:29,120 --> 00:26:30,460
+Ganze einfach einmal aus, selbst mit
+
+828
+00:26:30,460 --> 00:26:31,660
+den Spiegelungen, Drehungen und
+
+829
+00:26:31,660 --> 00:26:33,460
+Verschiebungen zu arbeiten. Falls ihr
+
+830
+00:26:33,460 --> 00:26:34,260
+euch dann doch nochmal unsicher
+
+831
+00:26:34,260 --> 00:26:35,980
+fühlt, dann könnt ihr euch natürlich
+
+832
+00:26:35,980 --> 00:26:36,960
+auch nochmal unsere Lernvideos
+
+833
+00:26:36,960 --> 00:26:38,320
+anschauen oder unsere Wikis.
+
+834
+00:26:44,320 --> 00:26:47,540
+Dankeschön. Falls das ist, weil meine
+
+835
+00:26:47,540 --> 00:26:48,700
+Nase ein bisschen zu ist, das sind
+
+836
+00:26:48,700 --> 00:26:50,720
+ganz normale Allergien, die einfach
+
+837
+00:26:50,720 --> 00:26:52,120
+um die Uhrzeit gerne anschlagen. Bis
+
+838
+00:26:52,120 --> 00:26:53,920
+dann. Bisher alles gesund soweit.
+

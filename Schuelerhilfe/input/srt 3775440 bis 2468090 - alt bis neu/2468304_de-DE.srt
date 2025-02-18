@@ -1,0 +1,3200 @@
+1
+00:00:01,300 --> 00:00:03,280
+Herzlich Willkommen zum Webinar
+
+2
+00:00:03,280 --> 00:00:06,160
+Lineare Gleichungssysteme 1. Ich
+
+3
+00:00:06,160 --> 00:00:07,140
+hoffe erstmal, dass du mich hören
+
+4
+00:00:07,140 --> 00:00:08,840
+kannst. Falls dem so ist, schreib
+
+5
+00:00:08,840 --> 00:00:10,640
+bitte ein kurzes Ja oder Okay unten
+
+6
+00:00:10,640 --> 00:00:12,780
+rechts einfach in den Chat rein, nur
+
+7
+00:00:12,780 --> 00:00:13,980
+damit ich weiß, dass du mich hören
+
+8
+00:00:13,980 --> 00:00:15,880
+kannst und dass wir wie gewohnt mit
+
+9
+00:00:15,880 --> 00:00:17,320
+dem Webinar beginnen können.
+
+10
+00:00:22,560 --> 00:00:24,080
+Okay, du kannst mich hören, das ist
+
+11
+00:00:24,080 --> 00:00:26,120
+wunderbar. Wir fangen jetzt gleich
+
+12
+00:00:26,120 --> 00:00:27,400
+mit dem Webinar an. Wenn du
+
+13
+00:00:27,400 --> 00:00:28,980
+irgendwozu eine Frage hast, stell die
+
+14
+00:00:28,980 --> 00:00:30,620
+Frage einfach direkt unten rechts in
+
+15
+00:00:30,620 --> 00:00:31,860
+den Chat, den du gerade benutzt hast
+
+16
+00:00:31,860 --> 00:00:33,800
+und ich werde dann entsprechend auf
+
+17
+00:00:33,800 --> 00:00:35,980
+die Frage sofort zurückkommen. Ich
+
+18
+00:00:35,980 --> 00:00:38,040
+denke aber, dass wir auch am Ende des
+
+19
+00:00:38,040 --> 00:00:39,700
+Webinars noch genug Zeit für eine
+
+20
+00:00:39,700 --> 00:00:42,000
+kleine Fragerunde haben. Das heißt,
+
+21
+00:00:42,120 --> 00:00:43,660
+dass dort dann auch nochmal Fragen
+
+22
+00:00:43,660 --> 00:00:46,080
+geklärt werden können, wenn noch
+
+23
+00:00:46,080 --> 00:00:48,940
+welche offen sind. Gut, hier sehen
+
+24
+00:00:48,940 --> 00:00:50,020
+wir erstmal eine ganz kurze
+
+25
+00:00:50,020 --> 00:00:52,500
+Gliederung des heutigen Webinars. Du
+
+26
+00:00:52,500 --> 00:00:55,260
+siehst schon, wir werden uns erstmal
+
+27
+00:00:55,260 --> 00:00:56,940
+nur mit drei Lösungsverfahren
+
+28
+00:00:56,940 --> 00:00:58,420
+befassen. Das sind diese drei, das
+
+29
+00:00:58,420 --> 00:00:59,640
+Einsetzungsverfahren, das
+
+30
+00:00:59,640 --> 00:01:00,900
+Gleichsetzungsverfahren und das
+
+31
+00:01:00,900 --> 00:01:03,420
+Additionsverfahren. Natürlich werden
+
+32
+00:01:03,420 --> 00:01:05,160
+wir uns zuerst noch ein gewisses
+
+33
+00:01:05,160 --> 00:01:08,340
+Grundwissen aneignen, damit wir uns
+
+34
+00:01:08,340 --> 00:01:09,620
+verstehen. Und uns erstmal anschauen,
+
+35
+00:01:09,680 --> 00:01:10,860
+was ist überhaupt ein lineares
+
+36
+00:01:10,860 --> 00:01:12,200
+Gleichungssystem und was ist
+
+37
+00:01:12,200 --> 00:01:13,440
+überhaupt der Unterschied zu einer
+
+38
+00:01:13,440 --> 00:01:15,200
+ganz normalen linearen Gleichung oder
+
+39
+00:01:15,200 --> 00:01:18,100
+zu einer Gleichung hat. hat. Ganz am
+
+40
+00:01:18,100 --> 00:01:19,680
+Ende gehen wir noch ganz kurz auf
+
+41
+00:01:19,680 --> 00:01:20,980
+Sachaufgaben ein, die wir auch
+
+42
+00:01:20,980 --> 00:01:23,020
+durchrechnen werden und die grafische
+
+43
+00:01:23,020 --> 00:01:24,940
+Bedeutung, wie man sich das grafisch
+
+44
+00:01:24,940 --> 00:01:29,760
+vorstellt. Gut, und damit würde ich
+
+45
+00:01:29,760 --> 00:01:31,020
+dann jetzt auch direkt mit den
+
+46
+00:01:31,020 --> 00:01:33,540
+Eigenschaften anfangen. Was ist
+
+47
+00:01:33,540 --> 00:01:34,600
+überhaupt ein lineares
+
+48
+00:01:34,600 --> 00:01:37,200
+Gleichungssystem? Jedes
+
+49
+00:01:37,200 --> 00:01:39,200
+Gleichungssystem besteht erstmal aus
+
+50
+00:01:39,200 --> 00:01:41,120
+mehr als einer Variable. oder in dem
+
+51
+00:01:41,120 --> 00:01:42,660
+Fall sind es genau zwei, wie du
+
+52
+00:01:42,660 --> 00:01:46,080
+siehst. Diese Variablen sollten
+
+53
+00:01:46,080 --> 00:01:49,120
+natürlich unterschiedliche Buchstaben
+
+54
+00:01:49,120 --> 00:01:51,420
+haben. Also in unserem Fall ist das X
+
+55
+00:01:51,420 --> 00:01:55,700
+das Y. Und unser Gleichungssystem hat
+
+56
+00:01:55,700 --> 00:01:57,360
+immer so senkrechte Striche rechts
+
+57
+00:01:57,360 --> 00:02:00,760
+und links. Das wird einfach nur dafür
+
+58
+00:02:00,760 --> 00:02:03,540
+gemacht, dass man genau weiß, wo
+
+59
+00:02:03,540 --> 00:02:05,420
+beginnt das Gleichungssystem und wo
+
+60
+00:02:05,420 --> 00:02:07,920
+endet es. Denn du wirst im Folgenden
+
+61
+00:02:07,920 --> 00:02:09,820
+noch sehen, dass wir natürlich... das
+
+62
+00:02:09,820 --> 00:02:11,440
+Gleichungssystem in irgendeiner Form
+
+63
+00:02:11,440 --> 00:02:13,260
+bearbeiten müssen, um es zu lösen.
+
+64
+00:02:13,680 --> 00:02:15,320
+Und wir werden es also öfter
+
+65
+00:02:15,320 --> 00:02:16,620
+aufschreiben und damit immer ganz
+
+66
+00:02:16,620 --> 00:02:18,400
+klar ist, wo beginnt das einzelne
+
+67
+00:02:18,400 --> 00:02:19,860
+Gleichungssystem und wo endet es,
+
+68
+00:02:19,940 --> 00:02:21,760
+werden senkrechte Striche gezogen.
+
+69
+00:02:24,620 --> 00:02:26,860
+Was bei Gleichungssystemen noch ganz
+
+70
+00:02:26,860 --> 00:02:28,760
+wichtig ist, ist folgende Sache.
+
+71
+00:02:28,880 --> 00:02:30,780
+Damit man ein Gleichungssystem
+
+72
+00:02:30,780 --> 00:02:32,740
+eindeutig, das ist ganz wichtig,
+
+73
+00:02:32,920 --> 00:02:36,520
+eindeutig lösen kann, werden genauso
+
+74
+00:02:36,520 --> 00:02:38,240
+viele Gleichungen wie Variablen.
+
+75
+00:02:40,500 --> 00:02:43,840
+vorausgesetzt. Heißt konkret, wir
+
+76
+00:02:43,840 --> 00:02:45,800
+haben bei uns zwei Variablen, x und
+
+77
+00:02:45,800 --> 00:02:49,040
+y. Und um das Gleichungssystem nun
+
+78
+00:02:49,040 --> 00:02:52,040
+eindeutig zu lösen, müssen wir auch
+
+79
+00:02:52,040 --> 00:02:56,780
+zwei Gleichungen haben. Und du siehst
+
+80
+00:02:56,780 --> 00:02:58,160
+schon, das haben wir, heißt dieses
+
+81
+00:02:58,160 --> 00:02:59,740
+uns vorliegende Gleichungssystem
+
+82
+00:02:59,740 --> 00:03:03,540
+können wir lösen. Und das machen wir
+
+83
+00:03:03,540 --> 00:03:04,860
+auch. Das, was du gerade gesehen
+
+84
+00:03:04,860 --> 00:03:06,160
+hast, ist das Gleichungssystem,
+
+85
+00:03:06,400 --> 00:03:08,460
+welches wir für für das erste
+
+86
+00:03:08,460 --> 00:03:09,980
+Lösungsverfahren verwenden werden,
+
+87
+00:03:10,080 --> 00:03:13,040
+das ist das Einsetzungsverfahren. Der
+
+88
+00:03:13,040 --> 00:03:14,620
+Name sagt eigentlich schon alles über
+
+89
+00:03:14,620 --> 00:03:16,480
+das Verfahren aus, das wirst du jetzt
+
+90
+00:03:16,480 --> 00:03:21,360
+gleich noch sehen. Denn das Ziel des
+
+91
+00:03:21,360 --> 00:03:23,500
+Einsetzungsverfahrens ist eigentlich
+
+92
+00:03:23,500 --> 00:03:26,000
+nur, dass wir eine der beiden
+
+93
+00:03:26,000 --> 00:03:27,540
+Gleichungen, es ist egal, ob wir die
+
+94
+00:03:27,540 --> 00:03:29,160
+obere oder die untere so umstellen,
+
+95
+00:03:29,360 --> 00:03:32,060
+dass wir sie zu einer Variablen
+
+96
+00:03:32,060 --> 00:03:34,440
+umstellen und dann in die andere
+
+97
+00:03:34,440 --> 00:03:38,040
+Gleichung einsetzen. Praktischerweise
+
+98
+00:03:38,040 --> 00:03:39,780
+haben wir schon hier die zweite
+
+99
+00:03:39,780 --> 00:03:41,940
+Gleichung, die heißt ja y ist gleich,
+
+100
+00:03:42,080 --> 00:03:43,580
+das heißt sie ist schon zu einer der
+
+101
+00:03:43,580 --> 00:03:45,200
+beiden Variablen umgestellt, in dem
+
+102
+00:03:45,200 --> 00:03:47,860
+Fall y. Das heißt wir brauchen nicht
+
+103
+00:03:47,860 --> 00:03:49,840
+weiter umstellen, wir können jetzt
+
+104
+00:03:49,840 --> 00:03:51,060
+gleich einfach, das wirst du noch
+
+105
+00:03:51,060 --> 00:03:54,600
+sehen, diese Gleichung nehmen und 3x
+
+106
+00:03:54,600 --> 00:03:58,400
+-11 für das y einsetzen. Und das ist
+
+107
+00:03:58,400 --> 00:04:00,500
+dieser Schritt des Einsetzens, warum
+
+108
+00:04:00,500 --> 00:04:02,520
+das Einsetzungsverfahren heißt, wie
+
+109
+00:04:02,520 --> 00:04:06,980
+es heißt. Gut, machen wir das Ganze
+
+110
+00:04:06,980 --> 00:04:10,060
+doch mal Schritt für Schritt. Wie
+
+111
+00:04:10,060 --> 00:04:11,540
+gerade schon gesagt, wir haben den
+
+112
+00:04:11,540 --> 00:04:13,260
+Vorteil, dass eine Gleichung bereits
+
+113
+00:04:13,260 --> 00:04:14,940
+nach y umgestellt ist. Das ist die
+
+114
+00:04:14,940 --> 00:04:19,060
+untere. Das heißt, wir sparen uns den
+
+115
+00:04:19,060 --> 00:04:20,840
+sozusagen ersten Schritt. Der wäre,
+
+116
+00:04:21,020 --> 00:04:22,860
+dass wir eine der beiden Gleichungen
+
+117
+00:04:22,860 --> 00:04:25,380
+nach y umstellen. Haben wir. Wir
+
+118
+00:04:25,380 --> 00:04:29,440
+wissen, y entspricht 3x-11. 11 und
+
+119
+00:04:29,440 --> 00:04:33,260
+diese 3x minus 11 setzen wir jetzt
+
+120
+00:04:33,260 --> 00:04:35,380
+für das y in der anderen gleichung
+
+121
+00:04:35,380 --> 00:04:39,400
+ein das heißt dafür ja das ist ja da
+
+122
+00:04:39,400 --> 00:04:41,480
+wo hier ein y steht steht hier 3x
+
+123
+00:04:41,480 --> 00:04:43,920
+minus 11 was ich dir dabei nur
+
+124
+00:04:43,920 --> 00:04:46,280
+unbedingt raten kann ist setzte
+
+125
+00:04:46,280 --> 00:04:48,620
+diesen term immer erst in klammern
+
+126
+00:04:48,620 --> 00:04:50,560
+sonst hat man ganz schnell ein
+
+127
+00:04:50,560 --> 00:04:52,680
+vorzeichenfehler das werden wir jetzt
+
+128
+00:04:52,680 --> 00:04:54,660
+gleich noch sehen im nächsten schritt
+
+129
+00:04:54,660 --> 00:04:56,880
+du siehst klammern wir ja aus das
+
+130
+00:04:56,880 --> 00:04:58,480
+heißt Das heißt, wir haben 9x minus
+
+131
+00:04:58,480 --> 00:05:01,880
+3x, das heißt 9x minus 3x und 9x
+
+132
+00:05:01,880 --> 00:05:05,420
+minus minus 11. Das sind dann nämlich
+
+133
+00:05:05,420 --> 00:05:10,100
+plus 11. Und das ist ganz wichtig. Da
+
+134
+00:05:10,100 --> 00:05:11,680
+muss man aufpassen und wie gesagt,
+
+135
+00:05:11,900 --> 00:05:13,720
+ich würde immer dafür plädieren, dass
+
+136
+00:05:13,720 --> 00:05:15,060
+man eine Klammer als erstes setzt,
+
+137
+00:05:15,200 --> 00:05:16,520
+auch wenn man einen Schritt mehr
+
+138
+00:05:16,520 --> 00:05:20,400
+machen muss. Wie du schon siehst, an
+
+139
+00:05:20,400 --> 00:05:21,900
+der unteren Gleichung machen wir
+
+140
+00:05:21,900 --> 00:05:23,120
+jetzt gar nichts mehr. Wir rechnen
+
+141
+00:05:23,120 --> 00:05:24,840
+jetzt erstmal nach dem Einsetzen nur
+
+142
+00:05:24,840 --> 00:05:27,480
+noch in der oberen. Und du siehst
+
+143
+00:05:27,480 --> 00:05:29,360
+jetzt auch schon, nach dem Einsetzen
+
+144
+00:05:29,360 --> 00:05:31,660
+haben wir nur noch eine Gleichung,
+
+145
+00:05:31,680 --> 00:05:32,980
+die von x abhängig ist,
+
+146
+00:05:33,020 --> 00:05:35,000
+beziehungsweise von einer Variable.
+
+147
+00:05:35,820 --> 00:05:39,380
+Und das ist der Trick hinter diesem
+
+148
+00:05:39,380 --> 00:05:41,240
+Einsetzungsverfahren. Durch das
+
+149
+00:05:41,240 --> 00:05:43,640
+Einsetzen haben wir eine ganz normale
+
+150
+00:05:43,640 --> 00:05:46,900
+Gleichung erhalten, die wir mit den
+
+151
+00:05:46,900 --> 00:05:48,480
+uns bekannten Mitteln ganz einfach
+
+152
+00:05:48,480 --> 00:05:51,900
+lösen können. 9x minus 3x plus 11 ist
+
+153
+00:05:51,900 --> 00:05:55,700
+gleich 41. Das lösen wir einfach. 9x
+
+154
+00:05:55,700 --> 00:05:58,560
+minus 3x ist 6x und wir wissen jetzt
+
+155
+00:05:58,560 --> 00:06:01,540
+6x plus 11 ist gleich 41. Dann holen
+
+156
+00:06:01,540 --> 00:06:02,680
+wir die 11 rüber, das heißt wir
+
+157
+00:06:02,680 --> 00:06:04,760
+rechnen minus 11. Dann kommen wir auf
+
+158
+00:06:04,760 --> 00:06:08,180
+6x ist gleich 30. Jetzt kommt nur
+
+159
+00:06:08,180 --> 00:06:10,060
+noch der altbekannte letzte Schritt.
+
+160
+00:06:10,120 --> 00:06:11,800
+Wir teilen durch den Faktor vor der
+
+161
+00:06:11,800 --> 00:06:13,220
+Variablen, das ist in dem Fall eine
+
+162
+00:06:13,220 --> 00:06:16,760
+6. Das heißt wir teilen 30 durch 6,
+
+163
+00:06:16,880 --> 00:06:19,420
+das ist 5. Und nun wissen wir, dass x
+
+164
+00:06:19,420 --> 00:06:20,940
+gleich 5 ist. Hier gibt es gerade ein
+
+165
+00:06:20,940 --> 00:06:22,340
+kleines Formatierungsproblem. Hier
+
+166
+00:06:22,340 --> 00:06:24,160
+sollte natürlich auch ein senkrechter
+
+167
+00:06:24,160 --> 00:06:27,000
+schwarzer Strich stehen. Diese
+
+168
+00:06:27,000 --> 00:06:28,200
+senkrechten Striche, die wir gerade
+
+169
+00:06:28,200 --> 00:06:31,920
+zu Anfang gesehen haben. Und damit
+
+170
+00:06:31,920 --> 00:06:34,260
+hast du jetzt eigentlich schon die
+
+171
+00:06:34,260 --> 00:06:36,920
+ganze Arbeit gemacht. Denn was jetzt
+
+172
+00:06:36,920 --> 00:06:38,400
+nur noch kommt, ist ein recht simpler
+
+173
+00:06:38,400 --> 00:06:41,080
+Schritt. Wir wissen jetzt ja den Wert
+
+174
+00:06:41,080 --> 00:06:43,500
+für das x und wir müssen natürlich
+
+175
+00:06:43,500 --> 00:06:45,480
+auch die Lösungsmenge angeben, also
+
+176
+00:06:45,480 --> 00:06:49,080
+den Wert für das y. und den berechnen
+
+177
+00:06:49,080 --> 00:06:49,960
+wir ganz einfach beim
+
+178
+00:06:49,960 --> 00:06:53,100
+Einsetzungsverfahren, indem wir den
+
+179
+00:06:53,100 --> 00:06:54,960
+Wert für das x einsetzen. Wir wissen
+
+180
+00:06:54,960 --> 00:06:58,520
+ja, y ist gleich 3x-11, heißt in
+
+181
+00:06:58,520 --> 00:07:02,340
+unserem Fall y ist gleich 3 mal 5
+
+182
+00:07:02,340 --> 00:07:06,500
+minus 11. 3 mal 5 ist 15 und 15 minus
+
+183
+00:07:06,500 --> 00:07:10,380
+11 sind dann 4. Und das ist dann der
+
+184
+00:07:10,380 --> 00:07:12,560
+letzte Schritt. Wir sagen x ist
+
+185
+00:07:12,560 --> 00:07:14,120
+gleich 5, das kennen wir ja schon, y
+
+186
+00:07:14,120 --> 00:07:16,200
+ist gleich 4. und geben das Ganze
+
+187
+00:07:16,200 --> 00:07:19,320
+noch als Lösungsmenge an, und dann
+
+188
+00:07:19,320 --> 00:07:24,220
+ist dieses Gleichungssystem gelöst.
+
+189
+00:07:25,580 --> 00:07:27,400
+Hast du bis hierhin eine Frage? War
+
+190
+00:07:27,400 --> 00:07:28,420
+das alles verständlich?
+
+191
+00:07:48,670 --> 00:07:51,970
+Okay, wunderbar. Gut, wie gesagt, das
+
+192
+00:07:51,970 --> 00:07:52,870
+war jetzt einmal das
+
+193
+00:07:52,870 --> 00:07:53,910
+Ansetzungsverfahren komplett
+
+194
+00:07:53,910 --> 00:07:56,590
+angewendet. Das folgt jedes Mal
+
+195
+00:07:56,590 --> 00:07:57,310
+diesem Schema.
+
+196
+00:07:59,890 --> 00:08:02,290
+Wie das Webinar schon heißt, wir sind
+
+197
+00:08:02,290 --> 00:08:03,750
+ja bei linearen Gleichungssystemen.
+
+198
+00:08:03,770 --> 00:08:05,050
+Das heißt, es gibt ja immer zwei
+
+199
+00:08:05,050 --> 00:08:07,030
+Gleichungen. Dort ist das
+
+200
+00:08:07,030 --> 00:08:08,570
+Einsetzungsverfahren so das
+
+201
+00:08:08,570 --> 00:08:10,230
+Verfahren, was am meisten praktiziert
+
+202
+00:08:10,230 --> 00:08:12,710
+wird. Das geht eigentlich sehr
+
+203
+00:08:12,710 --> 00:08:15,690
+schnell von der Hand und es ist nicht
+
+204
+00:08:15,690 --> 00:08:19,290
+ganz so komplex wie die anderen
+
+205
+00:08:19,290 --> 00:08:20,550
+vielleicht. Also das
+
+206
+00:08:20,550 --> 00:08:21,570
+Einsetzungsverfahren ist eine
+
+207
+00:08:21,570 --> 00:08:23,510
+Methode, womit man ganz schnell eine
+
+208
+00:08:23,510 --> 00:08:25,370
+Lösung erzielen kann. Natürlich
+
+209
+00:08:27,320 --> 00:08:29,000
+schauen wir uns auch noch die beiden
+
+210
+00:08:29,000 --> 00:08:31,180
+anderen an. Das ist jetzt einmal das
+
+211
+00:08:31,180 --> 00:08:32,480
+Gleichsetzungsverfahren. Das
+
+212
+00:08:32,480 --> 00:08:35,520
+Gleichsetzungsverfahren kann man wie
+
+213
+00:08:35,520 --> 00:08:37,220
+das Einsetzungsverfahren nur bei
+
+214
+00:08:37,220 --> 00:08:40,840
+linearen Gleichungen anwenden. Und
+
+215
+00:08:40,840 --> 00:08:42,900
+das schauen wir uns an. Kurz
+
+216
+00:08:42,900 --> 00:08:44,980
+vorweggenommen noch, als drittes
+
+217
+00:08:44,980 --> 00:08:46,740
+werden wir uns das Additionsverfahren
+
+218
+00:08:46,740 --> 00:08:48,980
+anschauen. Dieses kann auch bei
+
+219
+00:08:48,980 --> 00:08:52,160
+Gleichungssystemen mit drei oder mehr
+
+220
+00:08:52,160 --> 00:08:55,580
+Gleichungen verwendet werden. Und wir
+
+221
+00:08:55,580 --> 00:08:57,880
+werden aber dann mit drei oder mehr
+
+222
+00:08:57,880 --> 00:08:59,340
+Gleichungen im nächsten Webinar
+
+223
+00:08:59,340 --> 00:09:01,820
+besprechen. Gut, zurück zum
+
+224
+00:09:01,820 --> 00:09:03,900
+Gleichsetzungsverfahren. Wir haben
+
+225
+00:09:03,900 --> 00:09:05,420
+erstmal die gleiche Ausgangssituation
+
+226
+00:09:05,420 --> 00:09:07,220
+wie vorher. Du siehst, wir haben ein
+
+227
+00:09:07,220 --> 00:09:08,820
+anderes Gleichungssystem, aber das
+
+228
+00:09:08,820 --> 00:09:12,460
+tut der Sache keinen Abbruch. Ziel
+
+229
+00:09:12,460 --> 00:09:14,740
+des Gleichsetzungsverfahrens ist es
+
+230
+00:09:14,740 --> 00:09:18,060
+nur, beide Gleichungen, das ist ganz
+
+231
+00:09:18,060 --> 00:09:20,180
+wichtig, beide Gleichungen, also die
+
+232
+00:09:20,180 --> 00:09:21,760
+obere sowie die untere, zu der
+
+233
+00:09:21,760 --> 00:09:24,900
+gleichen Variable umzusetzen. also
+
+234
+00:09:24,900 --> 00:09:26,880
+entweder nach x oder nach y umstellen
+
+235
+00:09:26,880 --> 00:09:30,060
+und dann anschließend die beiden
+
+236
+00:09:30,060 --> 00:09:33,000
+Gleichungen gleichzusetzen. Das
+
+237
+00:09:33,000 --> 00:09:34,220
+schauen wir uns jetzt gleich noch an
+
+238
+00:09:34,220 --> 00:09:38,340
+und dann die neu entstandene
+
+239
+00:09:38,340 --> 00:09:41,700
+Gleichung zu lösen. Das heißt, der
+
+240
+00:09:41,700 --> 00:09:43,960
+erste Schritt ist natürlich, wir
+
+241
+00:09:43,960 --> 00:09:45,560
+müssen die beiden Gleichungen zu der
+
+242
+00:09:45,560 --> 00:09:48,220
+gleichen Variablen umstellen, also x
+
+243
+00:09:48,220 --> 00:09:50,000
+oder y. Wie du siehst, wir haben uns
+
+244
+00:09:50,000 --> 00:09:51,480
+hier an der Stelle für y entschieden
+
+245
+00:09:51,480 --> 00:09:55,340
+und deswegen rechnen wir hier oben
+
+246
+00:09:55,340 --> 00:09:56,460
+bei der ersten Gleichung erst mal
+
+247
+00:09:56,460 --> 00:09:58,800
+minus 2x, damit die 3y alleine stehen
+
+248
+00:09:58,800 --> 00:10:01,640
+und bei der unteren Gleichung minus
+
+249
+00:10:01,640 --> 00:10:06,640
+x, damit die 4y alleine stehen. Wir
+
+250
+00:10:06,640 --> 00:10:10,220
+kommen dann auf 3y ist gleich minus 1
+
+251
+00:10:10,220 --> 00:10:13,500
+minus 2x und 4y ist gleich minus 2
+
+252
+00:10:13,500 --> 00:10:17,340
+und minus x. Nun wollen wir natürlich
+
+253
+00:10:17,340 --> 00:10:21,540
+nicht 3y und 4y... haben, sondern nur
+
+254
+00:10:21,540 --> 00:10:24,360
+y. Das ist ganz wichtig. Da muss bei
+
+255
+00:10:24,360 --> 00:10:25,800
+beiden genau das gleiche stehen. Da
+
+256
+00:10:25,800 --> 00:10:27,040
+kann jetzt natürlich auch bei beiden
+
+257
+00:10:27,040 --> 00:10:30,700
+10y stehen. Das ginge auch. Aber man
+
+258
+00:10:30,700 --> 00:10:32,380
+ist immer auf die sichere Weite, wenn
+
+259
+00:10:32,380 --> 00:10:35,900
+man die Variable ohne Faktor da
+
+260
+00:10:35,900 --> 00:10:37,400
+stehen hat. Das heißt, deswegen
+
+261
+00:10:37,400 --> 00:10:39,080
+teilen wir die obere Gleichung, die
+
+262
+00:10:39,080 --> 00:10:41,500
+erste durch 3 und die untere durch 4.
+
+263
+00:10:41,880 --> 00:10:43,480
+Das führt natürlich dazu, dass wir
+
+264
+00:10:43,480 --> 00:10:45,400
+hier ein paar Brüche erhalten. Wir
+
+265
+00:10:45,400 --> 00:10:47,620
+wissen dann y ist gleich minus ein
+
+266
+00:10:47,620 --> 00:10:50,400
+Drittel minus zwei Drittel x oder y
+
+267
+00:10:50,400 --> 00:10:53,380
+ist gleich minus ein Halb minus ein
+
+268
+00:10:53,380 --> 00:10:56,420
+Viertel x. Und jetzt kommt ein
+
+269
+00:10:56,420 --> 00:10:59,300
+Schritt, den muss man verstehen. Und
+
+270
+00:10:59,300 --> 00:11:02,880
+zwar, unsere Variable y hat ja einen
+
+271
+00:11:02,880 --> 00:11:06,660
+gewissen Wert. Dieser Wert ist
+
+272
+00:11:06,660 --> 00:11:10,060
+natürlich bei beiden gleich das heißt
+
+273
+00:11:10,060 --> 00:11:13,060
+dann ja im umkehrschluss dass dieser
+
+274
+00:11:13,060 --> 00:11:15,360
+term hier und dieser term hier den
+
+275
+00:11:15,360 --> 00:11:17,060
+gleichen wert haben einfach weil sie
+
+276
+00:11:17,060 --> 00:11:20,620
+beide das gleiche y beschreiben und
+
+277
+00:11:20,620 --> 00:11:22,260
+das machen wir uns einfach zunutze
+
+278
+00:11:22,260 --> 00:11:25,040
+und setzen dabei diese beiden termen
+
+279
+00:11:25,040 --> 00:11:30,820
+hier gleich ja wir sagen einfach y
+
+280
+00:11:30,820 --> 00:11:34,900
+ist gleich y y, das heißt, minus 1
+
+281
+00:11:34,900 --> 00:11:36,920
+Drittel minus 2 Drittel x ist gleich
+
+282
+00:11:36,920 --> 00:11:40,220
+minus 1 Halb minus 1 Viertel x. Und
+
+283
+00:11:40,220 --> 00:11:42,280
+du siehst auch hier wieder, wir sind
+
+284
+00:11:42,280 --> 00:11:45,900
+unser lineares Gleichungssystem los
+
+285
+00:11:45,900 --> 00:11:48,560
+sozusagen. Wir haben nur noch eine
+
+286
+00:11:48,560 --> 00:11:50,840
+ganz normale lineare Gleichung, also
+
+287
+00:11:50,840 --> 00:11:53,280
+wir haben nur noch x als Variable und
+
+288
+00:11:53,280 --> 00:11:55,760
+das können wir jetzt ausrechnen. Das
+
+289
+00:11:55,760 --> 00:11:56,620
+ist natürlich jetzt ein bisschen
+
+290
+00:11:56,620 --> 00:11:58,400
+unschöner wegen den Brüchen, aber das
+
+291
+00:11:58,400 --> 00:11:59,780
+sollte der Sache keinen Abbruch tun.
+
+292
+00:12:01,300 --> 00:12:03,120
+Gut, als erstes wollen wir diese
+
+293
+00:12:03,120 --> 00:12:04,420
+minus 1 Drittel da weg haben. Das
+
+294
+00:12:04,420 --> 00:12:05,580
+machen wir natürlich ganz einfach
+
+295
+00:12:05,580 --> 00:12:08,260
+durch eine plus 1 Drittel. Dann kommt
+
+296
+00:12:08,260 --> 00:12:08,960
+jetzt natürlich ein bisschen
+
+297
+00:12:08,960 --> 00:12:11,260
+Bruchrechnung dazu. Minus 1,5 plus 1
+
+298
+00:12:11,260 --> 00:12:14,780
+Drittel ist minus 1 Sechstel. Denkt
+
+299
+00:12:14,780 --> 00:12:15,880
+daran, bevor du die addierst,
+
+300
+00:12:15,900 --> 00:12:17,660
+entweder mit dem Taschenrechner oder
+
+301
+00:12:17,660 --> 00:12:19,160
+halt erst auf einen Nenner bringen.
+
+302
+00:12:19,340 --> 00:12:21,300
+Das heißt, das wären dann minus 3
+
+303
+00:12:21,300 --> 00:12:25,800
+Sechstel plus 1 Drittel. Also ein
+
+304
+00:12:25,800 --> 00:12:27,000
+Drittel sind ja 2 Sechstel, dann
+
+305
+00:12:27,000 --> 00:12:29,920
+haben wir minus 3 Sechstel plus 2
+
+306
+00:12:29,920 --> 00:12:32,080
+Sechstel ist dann minus 1 Sechstel.
+
+307
+00:12:34,380 --> 00:12:36,420
+Gut, wir haben natürlich hier rechts
+
+308
+00:12:36,420 --> 00:12:39,180
+auch noch was mit x, also wir sammeln
+
+309
+00:12:39,180 --> 00:12:40,660
+wohl anscheinend die x auf der linken
+
+310
+00:12:40,660 --> 00:12:42,680
+Seite, deswegen rechnen wir plus 1
+
+311
+00:12:42,680 --> 00:12:50,280
+Viertel x und kommen so zu minus 5
+
+312
+00:12:50,280 --> 00:12:52,220
+Zwölftel x ist gleich minus 1
+
+313
+00:12:52,220 --> 00:12:53,640
+Sechstel. Also es wurden jetzt nur
+
+314
+00:12:53,640 --> 00:12:54,860
+die minus 1 Viertel x. x
+
+315
+00:12:54,860 --> 00:12:56,540
+rübergezogen. Mehr wurde nicht
+
+316
+00:12:56,540 --> 00:12:58,620
+gemacht. Und du siehst, wir haben
+
+317
+00:12:58,620 --> 00:13:00,640
+alle unsere x auf der linken Seite
+
+318
+00:13:00,640 --> 00:13:02,720
+und alle absoluten Glieder auf der
+
+319
+00:13:02,720 --> 00:13:06,280
+rechten Seite. Das heißt dann für uns
+
+320
+00:13:06,280 --> 00:13:07,840
+jetzt, wir sind im letzten Schritt,
+
+321
+00:13:07,960 --> 00:13:09,520
+wir teilen jetzt wieder durch den
+
+322
+00:13:09,520 --> 00:13:11,020
+Faktor vor dem x, das sind in dem
+
+323
+00:13:11,020 --> 00:13:13,740
+Fall minus 5 zwölftel. Also wir
+
+324
+00:13:13,740 --> 00:13:15,420
+rechnen minus 1 sechstel geteilt
+
+325
+00:13:15,420 --> 00:13:18,660
+durch minus 5 zwölftel und kommen
+
+326
+00:13:18,660 --> 00:13:21,120
+dann auf ein Ergebnis von x ist
+
+327
+00:13:21,120 --> 00:13:22,960
+gleich 2 fünftel.
+
+328
+00:13:25,540 --> 00:13:27,720
+Und damit hat man das
+
+329
+00:13:27,720 --> 00:13:30,000
+Gleichsetzungsverfahren eigentlich
+
+330
+00:13:30,000 --> 00:13:32,840
+schon vollzogen. Wir kennen jetzt den
+
+331
+00:13:32,840 --> 00:13:36,140
+Wert für unser x. Es fehlt natürlich
+
+332
+00:13:36,140 --> 00:13:38,620
+auch noch der Wert für unser y. Das
+
+333
+00:13:38,620 --> 00:13:40,780
+machen wir dann wieder genauso wie
+
+334
+00:13:40,780 --> 00:13:42,820
+beim Einsetzungsverfahren am Ende.
+
+335
+00:13:43,220 --> 00:13:45,280
+Wir setzen einfach den Wert für unser
+
+336
+00:13:45,280 --> 00:13:48,300
+x in die andere Gleichung ein. Die
+
+337
+00:13:48,300 --> 00:13:49,800
+lautet ja minus ein Drittel minus
+
+338
+00:13:49,800 --> 00:13:52,140
+zwei Drittel x. Für das x setzen wir
+
+339
+00:13:52,140 --> 00:13:53,180
+jetzt die zwei Verteilungen ein. Ein
+
+340
+00:13:53,180 --> 00:13:56,440
+kommen so auf y ist gleich minus ein
+
+341
+00:13:56,440 --> 00:13:58,420
+Drittel minus zwei Drittel mal zwei
+
+342
+00:13:58,420 --> 00:14:02,180
+Fünftel und das sind dann minus drei
+
+343
+00:14:02,180 --> 00:14:05,720
+Fünftel. Das Ganze geben wir nochmal
+
+344
+00:14:05,720 --> 00:14:08,180
+als Lösungsmenge an und dann haben
+
+345
+00:14:08,180 --> 00:14:10,440
+wir auch dieses Gleichungssystem
+
+346
+00:14:10,440 --> 00:14:11,280
+gelöst.
+
+347
+00:14:14,420 --> 00:14:16,140
+Du siehst, das
+
+348
+00:14:16,140 --> 00:14:20,440
+Gleichsetzungsverfahren ist an für
+
+349
+00:14:20,440 --> 00:14:23,080
+sich nicht viel schwieriger als das
+
+350
+00:14:23,080 --> 00:14:26,160
+Einsetzungsverfahren. Der Mehraufwand
+
+351
+00:14:26,160 --> 00:14:27,460
+beim Gleichsetzungsverfahren ist
+
+352
+00:14:27,460 --> 00:14:29,480
+einfach nur oftmals, dass man beide
+
+353
+00:14:29,480 --> 00:14:30,980
+Gleichungen zu einer Variablen
+
+354
+00:14:30,980 --> 00:14:33,060
+umstellen muss. Wenn man natürlich
+
+355
+00:14:33,060 --> 00:14:35,520
+das schon so gegeben hat, dann bietet
+
+356
+00:14:35,520 --> 00:14:36,780
+sich das Gleichsetzungsverfahren
+
+357
+00:14:36,780 --> 00:14:40,560
+natürlich an. Hast du hierzu eine
+
+358
+00:14:40,560 --> 00:14:41,840
+Frage? Keine
+
+359
+00:14:50,320 --> 00:14:50,520
+Frage?
+
+360
+00:15:00,990 --> 00:15:04,030
+Gut. Dann als abschließenden Satz
+
+361
+00:15:04,030 --> 00:15:05,610
+nochmal kurz zur Erinnerung. Das
+
+362
+00:15:05,610 --> 00:15:07,090
+Gleichsetzungsverfahren kannst du wie
+
+363
+00:15:07,090 --> 00:15:09,990
+das Einsetzungsverfahren nur bei
+
+364
+00:15:09,990 --> 00:15:12,290
+linearen Gleichungssystemen, also bei
+
+365
+00:15:12,290 --> 00:15:13,710
+Gleichungssystemen mit zwei
+
+366
+00:15:13,710 --> 00:15:16,030
+Gleichungen anwenden. Das ist der
+
+367
+00:15:16,030 --> 00:15:16,990
+große Unterschied zum
+
+368
+00:15:16,990 --> 00:15:18,630
+Additionsverfahren. Das
+
+369
+00:15:18,630 --> 00:15:20,370
+Additionsverfahren kann bei
+
+370
+00:15:20,370 --> 00:15:22,070
+Gleichungssystemen mit beliebig
+
+371
+00:15:22,070 --> 00:15:23,670
+vielen Gleichungen angewendet werden.
+
+372
+00:15:23,850 --> 00:15:27,210
+Das Additionsverfahren ist dabei aber
+
+373
+00:15:27,210 --> 00:15:29,550
+dann auch das schwierigere Verfahren,
+
+374
+00:15:29,630 --> 00:15:31,090
+was den meisten Schülerinnen und
+
+375
+00:15:31,090 --> 00:15:34,590
+Schülern mehr Probleme bereitet. Und
+
+376
+00:15:34,590 --> 00:15:36,610
+ich würde sagen, wir schauen es uns
+
+377
+00:15:36,610 --> 00:15:38,850
+einfach mal an. Das
+
+378
+00:15:38,850 --> 00:15:40,650
+Additionsverfahren wird auf jeden
+
+379
+00:15:40,650 --> 00:15:43,470
+Fall im zweiten Webinar noch zu
+
+380
+00:15:43,470 --> 00:15:46,070
+genügen. behandelt weil es ist
+
+381
+00:15:46,070 --> 00:15:48,850
+einfach die basis von den lösungs
+
+382
+00:15:48,850 --> 00:15:52,530
+vorging dort gut wir sehen auch hier
+
+383
+00:15:52,530 --> 00:15:53,610
+wieder wieder ein neues
+
+384
+00:15:53,610 --> 00:15:57,670
+gleichungssystem und diesmal ist das
+
+385
+00:15:57,670 --> 00:16:00,810
+ziel doch ein ganz anderes und zwar
+
+386
+00:16:00,810 --> 00:16:03,890
+das additionsverfahren das heißt so
+
+387
+00:16:03,890 --> 00:16:05,490
+weil wir später hingehen werden
+
+388
+00:16:05,490 --> 00:16:08,170
+gleichungen addieren oder
+
+389
+00:16:08,170 --> 00:16:10,290
+subtrahieren Das heißt, wir rechnen
+
+390
+00:16:10,290 --> 00:16:13,450
+sie Plus oder Minus. Und das Ziel ist
+
+391
+00:16:13,450 --> 00:16:16,490
+dabei, dass wir sie so geschickt
+
+392
+00:16:16,490 --> 00:16:18,670
+addieren oder subtrahieren, dass
+
+393
+00:16:18,670 --> 00:16:22,530
+dabei Variablen rausfallen. Das
+
+394
+00:16:22,530 --> 00:16:25,110
+heißt, dass wenn wir zwei Gleichungen
+
+395
+00:16:25,110 --> 00:16:27,830
+addieren, wir dabei dann eine
+
+396
+00:16:27,830 --> 00:16:30,110
+Variable verlieren. Also heißt, wenn
+
+397
+00:16:30,110 --> 00:16:31,310
+wir jetzt die beiden addieren würden,
+
+398
+00:16:31,490 --> 00:16:34,990
+dann würde sich dort eine Variable,
+
+399
+00:16:35,010 --> 00:16:36,350
+also entweder das x oder das y,
+
+400
+00:16:36,590 --> 00:16:39,430
+auslöschen. Dafür ist es natürlich
+
+401
+00:16:39,430 --> 00:16:42,610
+nötig, dass man eine bestimmte
+
+402
+00:16:42,610 --> 00:16:44,990
+Ausgangssituation hat. Das heißt beim
+
+403
+00:16:44,990 --> 00:16:47,990
+Addieren, dass man die gleiche Anzahl
+
+404
+00:16:47,990 --> 00:16:50,330
+an x oder y hat, nur vorzeichnend
+
+405
+00:16:50,330 --> 00:16:53,090
+verkehrt. Um jetzt mal die Lösung
+
+406
+00:16:53,090 --> 00:16:54,390
+nicht wegzunehmen, wenn wir uns das
+
+407
+00:16:54,390 --> 00:16:55,590
+mal anschauen hier. Wir haben hier
+
+408
+00:16:55,590 --> 00:16:58,770
+einmal 3x plus y und einmal x minus
+
+409
+00:16:58,770 --> 00:17:01,950
+y. Wenn wir diese beiden Gleichungen
+
+410
+00:17:01,950 --> 00:17:03,550
+jetzt addieren, dann haben wir 3x
+
+411
+00:17:03,550 --> 00:17:08,330
+plus y plus x minus y. Heißt, wir
+
+412
+00:17:08,330 --> 00:17:10,090
+haben einmal plus y und einmal minus
+
+413
+00:17:10,090 --> 00:17:13,450
+y. Das fällt raus. Das heißt, es
+
+414
+00:17:13,450 --> 00:17:16,510
+würde nur übrig bleiben 3x plus x.
+
+415
+00:17:17,650 --> 00:17:18,950
+Natürlich müssen wir da auch immer
+
+416
+00:17:18,950 --> 00:17:20,470
+wieder die beiden anderen Seiten,
+
+417
+00:17:20,550 --> 00:17:23,430
+also in dem Fall 36 plus 0, addieren.
+
+418
+00:17:25,640 --> 00:17:27,460
+Und das Ganze schauen wir uns jetzt
+
+419
+00:17:27,460 --> 00:17:31,520
+mal hier an. Um das Ganze nicht ganz
+
+420
+00:17:31,520 --> 00:17:33,060
+so einfach zu machen, haben wir uns
+
+421
+00:17:33,060 --> 00:17:35,080
+hier entschieden, nicht wie ich
+
+422
+00:17:35,080 --> 00:17:36,240
+gerade in dem kleinen mündlichen
+
+423
+00:17:36,240 --> 00:17:37,760
+Beispiel das y auswählen kann,
+
+424
+00:17:37,780 --> 00:17:40,160
+sondern hier wird, wie du vielleicht
+
+425
+00:17:40,160 --> 00:17:41,760
+schon gesehen hast, das X
+
+426
+00:17:41,760 --> 00:17:46,160
+ausgelöscht. Und wir sehen schon mal
+
+427
+00:17:46,160 --> 00:17:47,880
+hier, wir haben nicht die gleiche
+
+428
+00:17:47,880 --> 00:17:51,360
+Anzahl an X. Wir haben oben 3X und
+
+429
+00:17:51,360 --> 00:17:54,140
+unten einfach nur 1X. Und es sind
+
+430
+00:17:54,140 --> 00:17:56,580
+aktuell beide positiv. Und ich hatte
+
+431
+00:17:56,580 --> 00:17:57,280
+ja gerade schon mal zwei
+
+432
+00:17:57,280 --> 00:17:59,120
+Voraussetzungen genannt. Das war
+
+433
+00:17:59,120 --> 00:18:01,400
+einfach, die erste Voraussetzung ist,
+
+434
+00:18:01,520 --> 00:18:03,820
+dass es betragsmäßig gleich auf
+
+435
+00:18:03,820 --> 00:18:06,080
+Vorkommen, das heißt beides dreimal
+
+436
+00:18:06,080 --> 00:18:10,000
+hat. Haben wir schon mal nicht. Und
+
+437
+00:18:10,000 --> 00:18:11,540
+dann muss es natürlich auch noch
+
+438
+00:18:11,540 --> 00:18:13,660
+vorzeichenverkehrt sein. Das haben
+
+439
+00:18:13,660 --> 00:18:14,300
+wir auch nicht.
+
+440
+00:18:17,660 --> 00:18:19,340
+Daher multiplizieren wir mit minus 3.
+
+441
+00:18:19,440 --> 00:18:21,100
+Mit minus ganz einfach aus dem Grund,
+
+442
+00:18:21,140 --> 00:18:23,280
+damit es vorzeichenverkehrt wird. Und
+
+443
+00:18:23,280 --> 00:18:26,260
+mit 3 einfach, weil 3 mal 1 3 ist.
+
+444
+00:18:26,340 --> 00:18:28,280
+Dann haben wir es genauso oft wie in
+
+445
+00:18:28,280 --> 00:18:31,140
+der ersten Gleichung. Ganz wichtig
+
+446
+00:18:31,140 --> 00:18:32,300
+dabei ist, es wird natürlich die
+
+447
+00:18:32,300 --> 00:18:33,680
+ganze Gleichung mit diesem Faktor
+
+448
+00:18:33,680 --> 00:18:35,880
+multipliziert. Das heißt, wir rechnen
+
+449
+00:18:35,880 --> 00:18:39,240
+x mal minus 3 und minus y mal minus
+
+450
+00:18:39,240 --> 00:18:43,080
+3. So kommen wir auf minus 3x plus 3y
+
+451
+00:18:43,080 --> 00:18:48,060
+und 0 mal minus 3 ist 0. Das ist ganz
+
+452
+00:18:48,060 --> 00:18:50,300
+wichtig. Bitte vergesst niemals die
+
+453
+00:18:50,300 --> 00:18:51,780
+rechte Seite zu multiplizieren. Das
+
+454
+00:18:51,780 --> 00:18:57,400
+passiert leider sehr oft. und nachdem
+
+455
+00:18:57,400 --> 00:18:59,400
+wir das getan haben, kann man sich
+
+456
+00:18:59,400 --> 00:19:00,340
+das dann nochmal hier anschauen,
+
+457
+00:19:00,400 --> 00:19:01,960
+sehen wir, wir haben es
+
+458
+00:19:01,960 --> 00:19:03,740
+vorzeigenverkehrt betragsmäßig
+
+459
+00:19:03,740 --> 00:19:06,340
+gleich. Deswegen gehen wir nun hin
+
+460
+00:19:06,340 --> 00:19:08,160
+und addieren die beiden Gleichungen.
+
+461
+00:19:09,380 --> 00:19:12,740
+Das heißt, wir gehen hin, rechnen 3x
+
+462
+00:19:12,740 --> 00:19:18,040
+plus y minus 3x plus 3y und das sind
+
+463
+00:19:18,040 --> 00:19:23,900
+4y. Auf der rechten Seite 36 plus 0
+
+464
+00:19:23,900 --> 00:19:28,080
+ist 36. Und du siehst, wir haben hier
+
+465
+00:19:28,080 --> 00:19:31,360
+in der oberen Gleichung nur noch eine
+
+466
+00:19:31,360 --> 00:19:35,540
+ganz einfache lineare Gleichung. Also
+
+467
+00:19:35,540 --> 00:19:37,620
+4y ist gleich 36.
+
+468
+00:19:40,000 --> 00:19:41,800
+Das einzige, was wir jetzt noch tun
+
+469
+00:19:41,800 --> 00:19:43,760
+müssen, ist durch den Faktor vor dem
+
+470
+00:19:43,760 --> 00:19:47,560
+y teilen. Das sind 4. Das heißt, wir
+
+471
+00:19:47,560 --> 00:19:49,500
+rechnen an 36 geteilt durch 4. Das
+
+472
+00:19:49,500 --> 00:19:52,060
+ist 9 und nun wissen wir schon mal, y
+
+473
+00:19:52,060 --> 00:19:56,280
+ist gleich 9. Um die zweite Variable
+
+474
+00:19:56,280 --> 00:19:57,600
+dann zu bestimmen, also in dem Fall
+
+475
+00:19:57,600 --> 00:19:59,780
+das x, nehmen wir die nächste
+
+476
+00:19:59,780 --> 00:20:02,740
+Gleichung, also die hier. Du siehst,
+
+477
+00:20:02,800 --> 00:20:04,640
+das ist diesmal ein bisschen
+
+478
+00:20:04,640 --> 00:20:06,420
+komplizierter als bei den vorherigen
+
+479
+00:20:06,420 --> 00:20:09,400
+Lösungsverfahren. Wir setzen auch
+
+480
+00:20:09,400 --> 00:20:11,920
+hier wieder unser y für das y ein.
+
+481
+00:20:12,000 --> 00:20:14,800
+Das heißt, wir wissen ja, minus 3x
+
+482
+00:20:14,800 --> 00:20:17,420
+plus 3y ist gleich 0. und wir setzen
+
+483
+00:20:17,420 --> 00:20:19,820
+jetzt unser y ist gleich 9 hier für
+
+484
+00:20:19,820 --> 00:20:23,960
+das y ein. So kommen wir auf minus 3x
+
+485
+00:20:23,960 --> 00:20:28,040
+plus 3 mal 9 ist 0. Also minus 3x
+
+486
+00:20:28,040 --> 00:20:30,860
+plus 27 ist gleich 0. Wir wollen
+
+487
+00:20:30,860 --> 00:20:32,600
+unser x natürlich alleine auf der
+
+488
+00:20:32,600 --> 00:20:34,580
+Seite stehen haben, deswegen rechnen
+
+489
+00:20:34,580 --> 00:20:37,600
+wir mit minus 27 und kommen so auf
+
+490
+00:20:37,600 --> 00:20:42,220
+minus 3x ist gleich minus 27. Als
+
+491
+00:20:42,220 --> 00:20:43,560
+nächstes teilen wir nur noch durch
+
+492
+00:20:43,560 --> 00:20:45,400
+den Faktor für unsere Variable. Das
+
+493
+00:20:45,400 --> 00:20:48,420
+ist die minus 3 in dem Fall und minus
+
+494
+00:20:48,420 --> 00:20:51,980
+27 geteilt durch minus 3 ist 9. Das
+
+495
+00:20:51,980 --> 00:20:54,420
+heißt, unsere Lösungsmenge y ist
+
+496
+00:20:54,420 --> 00:20:57,660
+gleich 9 und x ist auch gleich 9. Und
+
+497
+00:20:57,660 --> 00:21:00,900
+damit ist das Additionsverfahren auch
+
+498
+00:21:00,900 --> 00:21:05,980
+schon fertig. Dass man mit nur einer
+
+499
+00:21:05,980 --> 00:21:09,360
+Addition auskommt, also den Schritt
+
+500
+00:21:09,360 --> 00:21:10,480
+hier, dass wir nur einmal zwei
+
+501
+00:21:10,480 --> 00:21:11,780
+Gleichungen mit einer addiert haben,
+
+502
+00:21:11,780 --> 00:21:14,420
+liegt hier dran dass wir nur zwei
+
+503
+00:21:14,420 --> 00:21:18,200
+gleichungen haben ja wenn wir drei
+
+504
+00:21:18,200 --> 00:21:19,760
+gleichungen haben dann muss man das
+
+505
+00:21:19,760 --> 00:21:23,340
+ganze oftmals dreimal machen und wenn
+
+506
+00:21:23,340 --> 00:21:25,580
+man halt vier hat entsprechend öfters
+
+507
+00:21:25,580 --> 00:21:28,020
+ja das ist ganz wichtig nicht dass du
+
+508
+00:21:28,020 --> 00:21:29,420
+jetzt denkst dass man immer nur mit
+
+509
+00:21:29,420 --> 00:21:31,060
+einer edition dadurch kommt das wäre
+
+510
+00:21:31,060 --> 00:21:35,640
+zu schön gut hast du hierzu eine
+
+511
+00:21:35,640 --> 00:21:37,040
+frage wie
+
+512
+00:21:40,210 --> 00:21:41,790
+gesagt du kannst gerne fragen stellen
+
+513
+00:21:41,790 --> 00:21:42,770
+also
+
+514
+00:22:00,560 --> 00:22:01,780
+ich das verfahren noch einmal
+
+515
+00:22:01,780 --> 00:22:04,080
+erklären oder gibt es einen
+
+516
+00:22:04,080 --> 00:22:06,200
+bestimmten punkt wo es nicht ganz
+
+517
+00:22:06,200 --> 00:22:07,600
+funktioniert hat die
+
+518
+00:22:26,930 --> 00:22:28,350
+folie dass ich mir ganz kurz weg war
+
+519
+00:22:28,350 --> 00:22:30,750
+ich glaube das verwirrt ich ja um
+
+520
+00:22:30,750 --> 00:22:32,470
+jetzt das additionsverfahren
+
+521
+00:22:32,470 --> 00:22:35,150
+durchzuführen durchzuführen müssen
+
+522
+00:22:35,150 --> 00:22:39,090
+sie als erstes betragsmäßig
+
+523
+00:22:39,090 --> 00:22:40,370
+betragsmäßig heißt da steht die
+
+524
+00:22:40,370 --> 00:22:42,290
+gleiche zahl vor also beides mal drei
+
+525
+00:22:42,290 --> 00:22:44,110
+und das vorzeichen wird nicht
+
+526
+00:22:44,110 --> 00:22:45,930
+beachtet ja das heißt wir müssen
+
+527
+00:22:45,930 --> 00:22:48,050
+erstmal betragsmäßig gleich viele x
+
+528
+00:22:48,050 --> 00:22:52,790
+oder y haben. Also beides mal 3 haben
+
+529
+00:22:52,790 --> 00:22:54,990
+wir schon mal jetzt hier. Und dann
+
+530
+00:22:54,990 --> 00:22:57,030
+muss das Vorzeichen verkehrt sein.
+
+531
+00:22:57,090 --> 00:22:58,510
+Das heißt, hier haben wir ein Plus
+
+532
+00:22:58,510 --> 00:23:01,490
+und hier ein Minus. Das muss erstmal
+
+533
+00:23:01,490 --> 00:23:04,010
+gegeben sein, bevor wir was addieren
+
+534
+00:23:04,010 --> 00:23:06,630
+können. Das heißt, wenn du das
+
+535
+00:23:06,630 --> 00:23:08,630
+Additionsverfahren nutzen möchtest,
+
+536
+00:23:08,630 --> 00:23:13,350
+ist der erste Schritt immer, dass du
+
+537
+00:23:13,350 --> 00:23:15,470
+diesen Ausgangszustand herstellst.
+
+538
+00:23:15,530 --> 00:23:16,670
+Das heißt, wir müssen Wir müssen in
+
+539
+00:23:16,670 --> 00:23:19,310
+beiden Gleichungen betragsmäßig
+
+540
+00:23:19,310 --> 00:23:21,770
+gleich viele x oder y haben, aber
+
+541
+00:23:21,770 --> 00:23:25,550
+vorzeichenverkehrt. Das heißt, wir
+
+542
+00:23:25,550 --> 00:23:26,930
+schauen uns das hier oben an, sehen,
+
+543
+00:23:27,090 --> 00:23:30,150
+okay, wir haben oben 3x und in der
+
+544
+00:23:30,150 --> 00:23:31,570
+zweiten Gleichung haben wir nur x.
+
+545
+00:23:31,910 --> 00:23:34,470
+Das heißt, wir müssen die zweite
+
+546
+00:23:34,470 --> 00:23:38,350
+Gleichung so multiplizieren, dass wir
+
+547
+00:23:38,350 --> 00:23:42,210
+auf minus 3x kommen. Und deswegen
+
+548
+00:23:42,210 --> 00:23:44,610
+multiplizieren wir mit mal minus 3.
+
+549
+00:23:51,030 --> 00:23:52,990
+Und dann sind wir schon hier unten.
+
+550
+00:23:53,070 --> 00:23:54,510
+Dabei ist aber ganz wichtig, wenn du
+
+551
+00:23:54,510 --> 00:23:57,090
+mit mal minus 3 multiplizierst, dass
+
+552
+00:23:57,090 --> 00:23:59,750
+du x mal minus 3 rechnest. Das sind
+
+553
+00:23:59,750 --> 00:24:02,770
+dann minus 3x und minus y mal minus
+
+554
+00:24:02,770 --> 00:24:06,290
+3. Das sind dann plus 3y. Genauso die
+
+555
+00:24:06,290 --> 00:24:08,150
+rechte Seite vom Gleichzeichen muss
+
+556
+00:24:08,150 --> 00:24:10,410
+auch mit minus 3 multipliziert
+
+557
+00:24:10,410 --> 00:24:13,710
+werden. Aber 0 mal minus 3 bleibt 0.
+
+558
+00:24:14,550 --> 00:24:16,870
+Dann hast du diesen Ausgangszustand
+
+559
+00:24:16,870 --> 00:24:18,750
+hergestellt. Und dann siehst du, hier
+
+560
+00:24:18,750 --> 00:24:19,890
+haben wir... haben wir 3x und hier
+
+561
+00:24:19,890 --> 00:24:21,670
+haben wir minus 3x. Also genau das
+
+562
+00:24:21,670 --> 00:24:25,110
+gleiche, nur Vorzeichen verkehrt. Und
+
+563
+00:24:25,110 --> 00:24:27,310
+jetzt können wir mit dem Addieren
+
+564
+00:24:27,310 --> 00:24:32,330
+anfangen. Ja. Das ist, wie gesagt,
+
+565
+00:24:32,450 --> 00:24:34,850
+der wichtigste Schritt dabei. Vorher
+
+566
+00:24:34,850 --> 00:24:38,510
+bitte nichts addieren. Hast du hierzu
+
+567
+00:24:38,510 --> 00:24:39,170
+eine Frage?
+
+568
+00:24:51,640 --> 00:24:52,740
+Beziehungsweise hast du das soweit
+
+569
+00:24:52,740 --> 00:24:53,140
+verstanden?
+
+570
+00:24:58,840 --> 00:25:01,060
+Okay. Wie gesagt, das ist das
+
+571
+00:25:01,060 --> 00:25:02,360
+Wichtigste. Und wenn du das gegeben
+
+572
+00:25:02,360 --> 00:25:04,220
+hast, dann siehst du jetzt schon an
+
+573
+00:25:04,220 --> 00:25:05,580
+der Stelle, wenn du jetzt beide
+
+574
+00:25:05,580 --> 00:25:07,920
+Gleichungen addierst, wird das x
+
+575
+00:25:07,920 --> 00:25:10,680
+rausfallen. Und zwar aus folgendem
+
+576
+00:25:10,680 --> 00:25:14,140
+Grund. Wir rechnen jetzt. Ich
+
+577
+00:25:14,140 --> 00:25:18,630
+schreibe da mal ganz kurz was zu. Und
+
+578
+00:25:18,630 --> 00:25:22,870
+zwar die 4y ist nichts weiter als 3x
+
+579
+00:25:22,870 --> 00:25:27,490
+plus y minus diesen
+
+580
+00:25:29,020 --> 00:25:33,520
+Term, also minus 3x, Entschuldigung,
+
+581
+00:25:34,540 --> 00:25:38,340
+minus 3x plus 3y.
+
+582
+00:25:39,920 --> 00:25:44,040
+Jetzt haben wir 3x minus 3x. Das
+
+583
+00:25:44,040 --> 00:25:46,220
+fällt raus. Das war ja gerade das,
+
+584
+00:25:46,280 --> 00:25:48,900
+warum wir so auf dem betragsmäßig
+
+585
+00:25:48,900 --> 00:25:53,460
+Gleichen herumgeritten sind. Und
+
+586
+00:25:53,460 --> 00:25:55,700
+jetzt haben wir y plus 3y. Das sind
+
+587
+00:25:55,700 --> 00:25:59,880
+die 4y. Und damit hast du das
+
+588
+00:25:59,880 --> 00:26:02,140
+Additionsverfahren an für sich auch
+
+589
+00:26:02,140 --> 00:26:03,600
+schon abgehoben. Du hast die beiden
+
+590
+00:26:03,600 --> 00:26:05,840
+Gleichungen addiert und jetzt geht es
+
+591
+00:26:05,840 --> 00:26:09,280
+nur noch darum, diese neue Gleichung
+
+592
+00:26:09,280 --> 00:26:11,320
+zu lösen und anschließend in die
+
+593
+00:26:11,320 --> 00:26:12,300
+andere Gleichung die Lösung
+
+594
+00:26:12,300 --> 00:26:15,460
+einzusetzen. Hast du denn diesen
+
+595
+00:26:15,460 --> 00:26:16,360
+Schritt hier verstanden?
+
+596
+00:26:46,150 --> 00:26:51,770
+Okay, du gehst nur hin und addierst
+
+597
+00:26:51,770 --> 00:26:54,790
+diese beiden Gleichungen. Denk dir
+
+598
+00:26:54,790 --> 00:26:58,210
+einfach ein Plus dazwischen. 3x plus
+
+599
+00:26:58,210 --> 00:27:01,570
+y plus minus 3x. Plus und Minus macht
+
+600
+00:27:01,570 --> 00:27:05,430
+ja Minus, also minus 3x plus 3y. Mehr
+
+601
+00:27:05,430 --> 00:27:08,230
+haben wir nicht getan. Auf der
+
+602
+00:27:08,230 --> 00:27:09,270
+anderen Seite machen wir natürlich
+
+603
+00:27:09,270 --> 00:27:09,930
+das Gleiche.
+
+604
+00:27:18,710 --> 00:27:20,590
+Verstehst du nicht, warum wir das
+
+605
+00:27:20,590 --> 00:27:22,810
+machen oder verstehst du nicht, wie
+
+606
+00:27:22,810 --> 00:27:24,050
+wir das machen? Das
+
+607
+00:27:37,680 --> 00:27:39,640
+Wie ist ganz einfach. Du nimmst dir
+
+608
+00:27:39,640 --> 00:27:41,780
+die zwei Gleichungen und dann
+
+609
+00:27:41,780 --> 00:27:43,060
+schreibst du sie eigentlich direkt
+
+610
+00:27:43,060 --> 00:27:45,100
+hintereinander hin. Also 3x plus y
+
+611
+00:27:45,100 --> 00:27:48,180
+minus 3x plus 3y. Ist ja genau das,
+
+612
+00:27:48,240 --> 00:27:49,260
+was ich hier geschrieben habe. 3x
+
+613
+00:27:49,260 --> 00:27:51,260
+plus y minus 3x plus 3y.
+
+614
+00:27:54,490 --> 00:27:58,730
+Ja? Und du weißt eigentlich schon,
+
+615
+00:27:58,770 --> 00:28:00,390
+dass der Schritt richtig ist, wenn
+
+616
+00:28:00,390 --> 00:28:02,470
+auf einmal eine Variable rausfällt.
+
+617
+00:28:02,570 --> 00:28:05,910
+Wir sind dann nur noch hingegangen
+
+618
+00:28:05,910 --> 00:28:08,070
+und haben das hier vereinfacht. Und
+
+619
+00:28:08,070 --> 00:28:09,390
+da kam halt 4y raus.
+
+620
+00:28:20,400 --> 00:28:22,240
+Verstanden? Oder soll
+
+621
+00:28:26,080 --> 00:28:27,860
+ich nochmal drauf eingehen?
+
+622
+00:28:44,200 --> 00:28:47,820
+Gut. Wie gesagt, dieser Schritt ist
+
+623
+00:28:47,820 --> 00:28:49,760
+eigentlich immer richtig, wenn am
+
+624
+00:28:49,760 --> 00:28:51,820
+Ende eine Variable davon rausfällt.
+
+625
+00:28:52,520 --> 00:28:55,260
+Du hast dann immer den Fall, dass du
+
+626
+00:28:55,260 --> 00:28:58,120
+sowas hast wie 3x plus y minus 3x
+
+627
+00:28:58,120 --> 00:29:01,340
+plus 3y, also genau einmal Vorzeichen
+
+628
+00:29:01,340 --> 00:29:05,080
+verkehrt und fällt raus. Deswegen
+
+629
+00:29:05,080 --> 00:29:07,080
+wird das auch sofort vereinfacht
+
+630
+00:29:07,080 --> 00:29:10,400
+immer, wie es hier gemacht wurde. Und
+
+631
+00:29:10,400 --> 00:29:12,760
+wir haben halt dann nur noch y plus
+
+632
+00:29:12,760 --> 00:29:17,200
+3y, also 4y. Alles was danach kommt,
+
+633
+00:29:17,240 --> 00:29:20,380
+halt mit den Additionsverfahren, ist
+
+634
+00:29:20,380 --> 00:29:21,340
+nicht mehr der wesentliche
+
+635
+00:29:21,340 --> 00:29:22,120
+Bestandteil. Standteil drücken wir es
+
+636
+00:29:22,120 --> 00:29:24,200
+mal so aus. Jetzt kommt wirklich nur
+
+637
+00:29:24,200 --> 00:29:26,480
+noch das Mittel zum Zweck, also die
+
+638
+00:29:26,480 --> 00:29:28,960
+neue Gleichung nach y umstellen, also
+
+639
+00:29:28,960 --> 00:29:31,000
+durch 4 rechnen, dann wissen wir y
+
+640
+00:29:31,000 --> 00:29:34,820
+ist gleich 9 und y gleich 9 in die
+
+641
+00:29:34,820 --> 00:29:37,500
+untere Gleichung einsetzen, damit wir
+
+642
+00:29:37,500 --> 00:29:40,360
+das x bestimmen können. Das war ja
+
+643
+00:29:40,360 --> 00:29:42,780
+auch 9. Und damit ist das
+
+644
+00:29:42,780 --> 00:29:44,020
+Additionsverfahren dann auch wie
+
+645
+00:29:44,020 --> 00:29:46,180
+gesagt abgeschlossen. Also der
+
+646
+00:29:46,180 --> 00:29:47,660
+eigentliche Trick oder das
+
+647
+00:29:47,660 --> 00:29:48,620
+eigentliche Problem im
+
+648
+00:29:48,620 --> 00:29:49,920
+Additionsverfahren ist immer wieder
+
+649
+00:29:49,920 --> 00:29:51,580
+dieser Schritt. Und dieser Schritt
+
+650
+00:29:51,580 --> 00:29:53,260
+ist nicht ganz so einfach zu
+
+651
+00:29:53,260 --> 00:29:56,100
+verstehen und auch das erstmal diese
+
+652
+00:29:56,100 --> 00:29:57,660
+Ausgangssituation zu schaffen, dass
+
+653
+00:29:57,660 --> 00:29:59,240
+es betragsmäßig gleich ist, aber
+
+654
+00:29:59,240 --> 00:30:01,780
+vorzeichenverkehrt, ist auch nicht
+
+655
+00:30:01,780 --> 00:30:04,140
+unbedingt einfach. Das bedarf einfach
+
+656
+00:30:04,140 --> 00:30:05,900
+einer gewissen Übung, aber da kann
+
+657
+00:30:05,900 --> 00:30:07,260
+ich dich beruhigen, das kommt mit der
+
+658
+00:30:07,260 --> 00:30:07,540
+Zeit.
+
+659
+00:30:12,100 --> 00:30:14,300
+Das wären dann auch schon unsere drei
+
+660
+00:30:14,300 --> 00:30:16,300
+Lösungsverfahren Schauen wir uns noch
+
+661
+00:30:16,300 --> 00:30:17,460
+einmal ganz kurz die grafische
+
+662
+00:30:17,460 --> 00:30:22,020
+Bedeutung von Lösungen an Wir sehen
+
+663
+00:30:22,020 --> 00:30:24,020
+hier drei Fälle und es gibt auch nur
+
+664
+00:30:24,020 --> 00:30:26,200
+drei Fälle Wenn es genau eine Lösung
+
+665
+00:30:26,200 --> 00:30:28,240
+gibt, dann haben die zwei Geraden
+
+666
+00:30:28,240 --> 00:30:31,300
+einen Schnittpunkt Wenn es keine
+
+667
+00:30:31,300 --> 00:30:32,960
+Lösung gibt, beziehungsweise eine
+
+668
+00:30:32,960 --> 00:30:36,400
+falsche Aussage Sowas wie 6 ist
+
+669
+00:30:36,400 --> 00:30:38,460
+gleich 0 Dann laufen die beiden
+
+670
+00:30:38,460 --> 00:30:40,060
+Geraden parallel zu zueinander und an
+
+671
+00:30:40,060 --> 00:30:42,420
+keinen Punkt gibt es dann diesen
+
+672
+00:30:42,420 --> 00:30:44,220
+Schnittpunkt. Also man muss sich das
+
+673
+00:30:44,220 --> 00:30:45,560
+mal so vorstellen, wenn die zwei
+
+674
+00:30:45,560 --> 00:30:47,560
+Geraden sich schneiden, hat man eine
+
+675
+00:30:47,560 --> 00:30:50,100
+eindeutige Lösung. Du siehst, hier
+
+676
+00:30:50,100 --> 00:30:51,520
+schneiden die sich niemals. Das
+
+677
+00:30:51,520 --> 00:30:52,820
+heißt, es gibt keine eindeutige
+
+678
+00:30:52,820 --> 00:30:55,760
+Lösung. Die dritte Möglichkeit ist,
+
+679
+00:30:55,860 --> 00:30:57,280
+dass wir unendlich viele Lösungen
+
+680
+00:30:57,280 --> 00:30:58,880
+haben. Das heißt, die Geraden liegen
+
+681
+00:30:58,880 --> 00:31:02,660
+ineinander. Das merkt man dann beim
+
+682
+00:31:02,660 --> 00:31:03,880
+Rechnen, es entsteht eine wahre
+
+683
+00:31:03,880 --> 00:31:05,580
+Aussage, sowas wie 0 ist gleich 0
+
+684
+00:31:05,580 --> 00:31:10,300
+oder 5 ist gleich 5. Das sind die
+
+685
+00:31:10,300 --> 00:31:11,460
+drei Möglichkeiten.
+
+686
+00:31:13,980 --> 00:31:15,760
+Kommen wir dann noch ganz kurz zu den
+
+687
+00:31:15,760 --> 00:31:17,920
+Sachaufgaben. Wir haben einmal ein
+
+688
+00:31:17,920 --> 00:31:20,040
+kleines Zahlenrätsel hier und zwar
+
+689
+00:31:20,040 --> 00:31:22,300
+gesucht sind zwei Zahlen. Die erste
+
+690
+00:31:22,300 --> 00:31:24,620
+Zahl ist um 15 größer als die zweite
+
+691
+00:31:24,620 --> 00:31:26,500
+Zahl. Das Doppelte der ersten Zahl
+
+692
+00:31:26,500 --> 00:31:28,620
+ist viermal so groß wie das Doppelte
+
+693
+00:31:28,620 --> 00:31:31,560
+der zweiten Zahl. Okay, definieren
+
+694
+00:31:31,560 --> 00:31:34,020
+wir erstmal zwei Zahlen. Wir sagen, x
+
+695
+00:31:34,020 --> 00:31:36,680
+ist die erste Zahl und y die zweite
+
+696
+00:31:36,680 --> 00:31:40,000
+Zahl. Und wir wissen, die erste Zahl
+
+697
+00:31:40,000 --> 00:31:43,180
+ist um 15 größer als die zweite Zahl.
+
+698
+00:31:43,940 --> 00:31:47,880
+Das heißt, x ist gleich y plus 15.
+
+699
+00:31:50,600 --> 00:31:53,160
+Und wir wissen auch, das Doppelte der
+
+700
+00:31:53,160 --> 00:31:56,600
+ersten Zahl ist viermal so groß wie
+
+701
+00:31:56,600 --> 00:32:01,520
+das Doppelte der zweiten Zahl. Also,
+
+702
+00:32:01,520 --> 00:32:03,780
+das Doppelte der ersten Zahl ist ja
+
+703
+00:32:03,780 --> 00:32:07,660
+2x. Und jetzt kommt das Schwierige. 4
+
+704
+00:32:07,660 --> 00:32:11,500
+mal so groß, also 4 mal, wie das
+
+705
+00:32:11,500 --> 00:32:13,840
+Doppelte der zweiten Zahl. Also 4 mal
+
+706
+00:32:13,840 --> 00:32:17,800
+2 mal die zweite Zahl, also y. So
+
+707
+00:32:17,800 --> 00:32:20,080
+kommt dieses 4 mal 2 zustande. 4 mal
+
+708
+00:32:20,080 --> 00:32:22,860
+so groß wie das Doppelte. Das
+
+709
+00:32:22,860 --> 00:32:24,340
+Doppelte ist ja schon mal 2 immer.
+
+710
+00:32:25,120 --> 00:32:26,640
+Und das ist dann unsere zweite
+
+711
+00:32:26,640 --> 00:32:28,340
+Gleichung. Also die erste Gleichung
+
+712
+00:32:28,340 --> 00:32:31,680
+lautet x. ist gleich y plus 15 und
+
+713
+00:32:31,680 --> 00:32:33,980
+die zweite Gleichung lautet 2x ist
+
+714
+00:32:33,980 --> 00:32:38,380
+gleich 4 mal 2y. Hast du hierzu eine
+
+715
+00:32:38,380 --> 00:32:39,840
+Frage? Wir
+
+716
+00:32:48,610 --> 00:32:49,830
+werden das Gleichungssystem gleich
+
+717
+00:32:49,830 --> 00:32:50,850
+natürlich auch noch lösen.
+
+718
+00:33:07,270 --> 00:33:08,650
+Bevor du so ein Zahlenrätsel
+
+719
+00:33:08,650 --> 00:33:10,510
+anfängst, ist es ganz wichtig, dass
+
+720
+00:33:10,510 --> 00:33:12,550
+du den Zahlen erstmal variabel
+
+721
+00:33:12,550 --> 00:33:14,370
+hinzuweist. Wir haben jetzt einfach
+
+722
+00:33:14,370 --> 00:33:16,550
+gesagt, x ist die erste Zahl, y die
+
+723
+00:33:16,550 --> 00:33:18,270
+zweite Zahl. Und es steht da, die
+
+724
+00:33:18,270 --> 00:33:20,410
+erste Zahl ist um 15 größer als die
+
+725
+00:33:20,410 --> 00:33:23,070
+zweite Zahl. Das heißt, x ist gleich
+
+726
+00:33:23,070 --> 00:33:27,430
+y plus 15, weil x ist ja 15 größer
+
+727
+00:33:27,430 --> 00:33:30,510
+als y. Das heißt, y plus 15 ist x.
+
+728
+00:33:32,510 --> 00:33:33,730
+Das zweite ist ein bisschen
+
+729
+00:33:33,730 --> 00:33:35,970
+komplizierter. Das Doppelte, also
+
+730
+00:33:35,970 --> 00:33:37,310
+immer wenn es heißt das Doppelte,
+
+731
+00:33:37,350 --> 00:33:40,010
+dann ist es mal 2. 2. Das Doppelte
+
+732
+00:33:40,010 --> 00:33:46,530
+von x, also 2x ist gleich 4 mal so
+
+733
+00:33:46,530 --> 00:33:50,230
+groß, also 4 mal, wie das Doppelte
+
+734
+00:33:51,210 --> 00:33:55,230
+der zweiten Zahl, also 4 mal 2 mal
+
+735
+00:33:55,230 --> 00:33:57,870
+die zweite Zahl y. So musst du das
+
+736
+00:33:57,870 --> 00:33:58,250
+lesen.
+
+737
+00:34:02,300 --> 00:34:04,180
+Auch hierbei kann ich dir raten, mit
+
+738
+00:34:04,180 --> 00:34:05,600
+der Zeit kommt da ein bisschen Übung
+
+739
+00:34:05,600 --> 00:34:07,780
+rein, damit man sowas schneller lösen
+
+740
+00:34:07,780 --> 00:34:10,320
+kann. und wie das bei Textaufgaben
+
+741
+00:34:10,320 --> 00:34:11,640
+auch so ist. Und man muss sie
+
+742
+00:34:11,640 --> 00:34:12,780
+mehrmals lesen.
+
+743
+00:34:15,520 --> 00:34:17,560
+Und das sind wie gesagt unsere beiden
+
+744
+00:34:17,560 --> 00:34:18,520
+Gleichungen. Wir haben ja auch nur
+
+745
+00:34:18,520 --> 00:34:22,180
+zwei Variablen. Und dann packt man
+
+746
+00:34:22,180 --> 00:34:23,260
+die einfach in ein lineares
+
+747
+00:34:23,260 --> 00:34:27,340
+Gleichungssystem. Und wie du siehst,
+
+748
+00:34:27,360 --> 00:34:28,360
+wir haben uns hier nochmal für das
+
+749
+00:34:28,360 --> 00:34:29,620
+Gleichsetzungsverfahren entschieden.
+
+750
+00:34:31,360 --> 00:34:34,400
+Das heißt, wir müssen natürlich als
+
+751
+00:34:34,400 --> 00:34:36,580
+erstes zu der gleichen Variablen
+
+752
+00:34:36,580 --> 00:34:38,560
+umformen. Wir haben uns hier für x
+
+753
+00:34:38,560 --> 00:34:40,100
+entschieden. Du siehst, die obere
+
+754
+00:34:40,100 --> 00:34:41,200
+Gleichung ist gleich nach x
+
+755
+00:34:41,200 --> 00:34:43,400
+umgeformt. Die untere hat da noch
+
+756
+00:34:43,400 --> 00:34:45,920
+eine 2. Deswegen teilen wir noch
+
+757
+00:34:45,920 --> 00:34:47,340
+durch 2, damit auch dort das x
+
+758
+00:34:47,340 --> 00:34:49,760
+alleine steht. Bitte teile beides,
+
+759
+00:34:49,860 --> 00:34:51,760
+also die linke und die rechte Seite.
+
+760
+00:34:52,620 --> 00:34:56,120
+2x geteilt durch 2 ist x und 4 mal 2y
+
+761
+00:34:56,120 --> 00:34:59,900
+geteilt durch 2 ist einfach 4y. Also
+
+762
+00:34:59,900 --> 00:35:03,120
+4 mal 2y sind ja 8y und 8 geteilt
+
+763
+00:35:03,120 --> 00:35:07,040
+durch 2 ist dann wieder 4y. Und nun
+
+764
+00:35:07,040 --> 00:35:08,540
+haben wir ja beide Gleichungen nach y
+
+765
+00:35:08,540 --> 00:35:11,060
+umgestellt und können sie jetzt
+
+766
+00:35:11,060 --> 00:35:15,420
+gleichsetzen. Wir kommen so auf 4y
+
+767
+00:35:15,420 --> 00:35:19,700
+ist gleich y plus 15. Wir wollen
+
+768
+00:35:19,700 --> 00:35:21,480
+unsere ys auf der linken Seite
+
+769
+00:35:21,480 --> 00:35:23,100
+sammeln, deswegen rechnen wir minus
+
+770
+00:35:23,100 --> 00:35:27,240
+y. Kommen dann auf 3y ist gleich 15.
+
+771
+00:35:28,720 --> 00:35:30,760
+Jetzt müssen wir noch durch 3 teilen
+
+772
+00:35:30,760 --> 00:35:35,060
+und kommen so auf y ist gleich 5. und
+
+773
+00:35:35,060 --> 00:35:36,980
+jetzt wollen wir natürlich unser x
+
+774
+00:35:36,980 --> 00:35:38,780
+bestimmen. Wir wissen, x ist gleich 4
+
+775
+00:35:38,780 --> 00:35:41,540
+mal y oder anders gesagt, x ist
+
+776
+00:35:41,540 --> 00:35:45,540
+gleich 4 mal 5. Das sind 20. Das
+
+777
+00:35:45,540 --> 00:35:47,480
+heißt, wir wissen jetzt, die erste
+
+778
+00:35:47,480 --> 00:35:50,180
+Zahl ist 20 und die zweite Zahl ist
+
+779
+00:35:50,180 --> 00:35:53,140
+5. Und damit ist die Aufgabe auch
+
+780
+00:35:53,140 --> 00:35:54,000
+schon erledigt.
+
+781
+00:35:56,490 --> 00:35:58,410
+War das jetzt soweit verständlich?
+
+782
+00:36:17,990 --> 00:36:20,790
+Okay, wunderbar. Dann sind wir auch
+
+783
+00:36:20,790 --> 00:36:22,750
+schon am Ende des Webinars. Ich
+
+784
+00:36:22,750 --> 00:36:23,830
+hoffe, es hat dir Spaß gemacht.
+
+785
+00:36:24,050 --> 00:36:26,570
+konntest du was mitnehmen und wir
+
+786
+00:36:26,570 --> 00:36:28,170
+haben noch 5 Minütchen Zeit für eine
+
+787
+00:36:28,170 --> 00:36:30,190
+kleine Fragerunde. Das heißt, wenn du
+
+788
+00:36:30,190 --> 00:36:31,470
+noch Fragen hast, kannst du sie sehr
+
+789
+00:36:31,470 --> 00:36:33,570
+gerne in den Chat stellen. Wenn du
+
+790
+00:36:33,570 --> 00:36:35,650
+keine Fragen mehr hast, dann kann ich
+
+791
+00:36:35,650 --> 00:36:36,730
+dir nur noch einen schönen
+
+792
+00:36:36,730 --> 00:36:38,570
+Montagabend wünschen und mich
+
+793
+00:36:38,570 --> 00:36:39,990
+natürlich für deine Aufmerksamkeit
+
+794
+00:36:39,990 --> 00:36:40,530
+bedanken.
+
+795
+00:36:52,960 --> 00:36:54,120
+Dann wünsche ich dir noch einen
+
+796
+00:36:54,120 --> 00:36:55,400
+schönen Abend. Du
+
+797
+00:36:59,150 --> 00:37:00,370
+kannst den Raum einfach verlassen,
+
+798
+00:37:00,370 --> 00:37:01,870
+einfach das Fenster oder den Tab
+
+799
+00:37:01,870 --> 00:37:02,210
+schließen.
+
+800
+00:37:11,620 --> 00:37:13,520
+Danke dir auch. Tschüss.
+

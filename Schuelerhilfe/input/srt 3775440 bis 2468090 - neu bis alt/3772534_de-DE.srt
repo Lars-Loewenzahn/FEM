@@ -1,0 +1,408 @@
+1
+00:00:03,950 --> 00:00:06,150
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,150 --> 00:00:07,270
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,270 --> 00:00:09,290
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,290 --> 00:00:11,850
+etwas über DNA erklären. In unserem
+
+5
+00:00:11,850 --> 00:00:13,650
+Online-Lerncenter steht dir zu diesem
+
+6
+00:00:13,650 --> 00:00:15,150
+Thema natürlich auch noch ein Wiki
+
+7
+00:00:15,150 --> 00:00:16,550
+zur Verfügung, in dem dir die
+
+8
+00:00:16,550 --> 00:00:18,250
+grundlegenden und wichtigen Begriffe
+
+9
+00:00:18,250 --> 00:00:21,150
+genauer erklärt werden. Hast du dich
+
+10
+00:00:21,150 --> 00:00:22,850
+auch schon mal gefragt, woraus wir
+
+11
+00:00:22,850 --> 00:00:24,270
+Menschen eigentlich aufgebaut sind?
+
+12
+00:00:25,070 --> 00:00:26,790
+Diese Frage werden wir in diesem
+
+13
+00:00:26,790 --> 00:00:29,690
+Video beantworten. Unser
+
+14
+00:00:29,690 --> 00:00:32,350
+Grundbaustein ist unsere DNA. Auf ihr
+
+15
+00:00:32,350 --> 00:00:34,290
+werden sämtliche Erbinformationen
+
+16
+00:00:34,290 --> 00:00:36,450
+gespeichert. Sie ist quasi eine
+
+17
+00:00:36,450 --> 00:00:38,490
+Anleitung über unseren individuellen
+
+18
+00:00:38,490 --> 00:00:40,290
+Aufbau. Diese Informationen
+
+19
+00:00:40,290 --> 00:00:42,030
+entscheiden über unsere Entwicklung,
+
+20
+00:00:42,290 --> 00:00:44,010
+also beispielsweise wie wir später
+
+21
+00:00:44,010 --> 00:00:46,990
+aussehen. Aber wofür steht die
+
+22
+00:00:46,990 --> 00:00:49,770
+Abkürzung DNA denn eigentlich? DNA
+
+23
+00:00:49,770 --> 00:00:53,950
+steht für Deoxyribonucleic Acid oder
+
+24
+00:00:53,950 --> 00:00:56,590
+im Deutschen Desoxyribonucleinsäure
+
+25
+00:00:56,590 --> 00:00:59,430
+oder DNS. ZNES. Zur internationalen
+
+26
+00:00:59,430 --> 00:01:00,690
+Vereinfachung wird jedoch die
+
+27
+00:01:00,690 --> 00:01:02,850
+englische Abkürzung DNA verwendet.
+
+28
+00:01:03,660 --> 00:01:06,210
+Bei Eukaryoten, also Zellen mit einem
+
+29
+00:01:06,210 --> 00:01:07,970
+Zellkern, wie beispielsweise bei
+
+30
+00:01:07,970 --> 00:01:09,550
+Tieren, befinden sich die DNA
+
+31
+00:01:09,550 --> 00:01:11,730
+hauptsächlich in den Chromosomen im
+
+32
+00:01:11,730 --> 00:01:15,410
+Zellkern. Bei Prokaryoten, Zellen
+
+33
+00:01:15,410 --> 00:01:16,950
+ohne Zellkern, beispielsweise
+
+34
+00:01:16,950 --> 00:01:19,450
+Bakterien, schwimmt diese im
+
+35
+00:01:19,450 --> 00:01:22,290
+Zytoplasma. Aber wo genau befindet
+
+36
+00:01:22,290 --> 00:01:23,930
+sich denn eigentlich unsere DNA? DNA.
+
+37
+00:01:24,350 --> 00:01:26,050
+Sie befindet sich in unseren
+
+38
+00:01:26,050 --> 00:01:28,350
+Chromosomen. Dort ist sie um die
+
+39
+00:01:28,350 --> 00:01:31,550
+Histone, ein Protein, gewickelt. Die
+
+40
+00:01:31,550 --> 00:01:33,930
+Einheit aus DNA und Proteinen wird
+
+41
+00:01:33,930 --> 00:01:36,950
+als Chromatin bezeichnet. Nachdem du
+
+42
+00:01:36,950 --> 00:01:38,630
+nun gelernt hast, was die Abkürzung
+
+43
+00:01:38,630 --> 00:01:40,770
+DNA überhaupt bedeutet und wo sie
+
+44
+00:01:40,770 --> 00:01:42,630
+sich befindet, schauen wir uns an,
+
+45
+00:01:42,770 --> 00:01:45,890
+wie die DNA aufgebaut ist. Unsere DNA
+
+46
+00:01:45,890 --> 00:01:48,710
+besteht aus Zucker, der Desoxyribose,
+
+47
+00:01:48,710 --> 00:01:51,210
+Phosphat und den vier organischen
+
+48
+00:01:51,210 --> 00:01:54,930
+Basen Adenin, Thymin, Cytosin und
+
+49
+00:01:54,930 --> 00:01:58,050
+Guanin. Die vier Basen werden jeweils
+
+50
+00:01:58,050 --> 00:01:59,390
+mit ihrem ersten Buchstaben
+
+51
+00:01:59,390 --> 00:02:01,650
+abgekürzt. Vereinfacht könnte man
+
+52
+00:02:01,650 --> 00:02:03,870
+sagen, unsere DNA ist aufgebaut wie
+
+53
+00:02:03,870 --> 00:02:06,350
+eine Strickleiter. Die Base Adenin
+
+54
+00:02:06,350 --> 00:02:08,230
+verbindet sich mit der Base Thymin
+
+55
+00:02:08,230 --> 00:02:11,030
+und die Base Cytosin verbindet sich
+
+56
+00:02:11,030 --> 00:02:14,190
+mit der Base Guanin. Nur diese beiden
+
+57
+00:02:14,190 --> 00:02:16,270
+Kombinationen sind möglich. Hier
+
+58
+00:02:16,270 --> 00:02:17,630
+siehst du eine vereinfachte
+
+59
+00:02:17,630 --> 00:02:21,270
+Darstellung einer DNA. Diese Reihe
+
+60
+00:02:21,270 --> 00:02:23,970
+lässt sich beliebig lang fortführen.
+
+61
+00:02:24,330 --> 00:02:28,530
+Z steht für Zucker, P für Phosphat, A
+
+62
+00:02:28,530 --> 00:02:31,830
+für Adenin, T für Thymin, C für
+
+63
+00:02:31,830 --> 00:02:35,470
+Zytosin und G für Guanin. Der Zucker
+
+64
+00:02:35,470 --> 00:02:37,410
+wird als Fünfeck dargestellt, das
+
+65
+00:02:37,410 --> 00:02:40,330
+Phosphat meist als Kreis. Die Basen
+
+66
+00:02:40,330 --> 00:02:41,330
+erhalten zur besseren
+
+67
+00:02:41,330 --> 00:02:43,330
+Veranschaulichung an einem Ende eine
+
+68
+00:02:43,330 --> 00:02:44,610
+Form, sodass sich leichter...
+
+69
+00:02:44,630 --> 00:02:46,670
+erkennen lässt, welche beiden Basen
+
+70
+00:02:46,670 --> 00:02:49,230
+zueinander passen. Die Verbindung von
+
+71
+00:02:49,230 --> 00:02:51,930
+Base, Zucker und Phosphat nennt sich
+
+72
+00:02:51,930 --> 00:02:54,710
+Nukleotid. Nun kennen wir den
+
+73
+00:02:54,710 --> 00:02:57,730
+vereinfachten Aufbau unserer DNA. Wir
+
+74
+00:02:57,730 --> 00:02:59,830
+schauen uns nun den etwas komplexeren
+
+75
+00:02:59,830 --> 00:03:02,670
+Aufbau an. Unsere DNA ist wie eine
+
+76
+00:03:02,670 --> 00:03:05,370
+Spirale aufgebaut. Diese Form nennt
+
+77
+00:03:05,370 --> 00:03:08,150
+sich Helix. Das Wort Helix beschreibt
+
+78
+00:03:08,150 --> 00:03:10,810
+die schraubenartige Form. Unsere DNA
+
+79
+00:03:10,810 --> 00:03:13,430
+liegt in einer Doppelhelix vor. Die
+
+80
+00:03:13,430 --> 00:03:15,350
+Einzelstränge unserer DNA werden
+
+81
+00:03:15,350 --> 00:03:16,930
+durch Wasserstoff- brückenbindung
+
+82
+00:03:16,930 --> 00:03:19,010
+verbunden. Wasserstoff-
+
+83
+00:03:19,010 --> 00:03:20,790
+brückenbinderung kennst du vielleicht
+
+84
+00:03:20,790 --> 00:03:23,350
+schon aus dem Chemieunterricht. Wie
+
+85
+00:03:23,350 --> 00:03:24,890
+bereits am Anfang erwähnt, kann
+
+86
+00:03:24,890 --> 00:03:26,870
+unsere DNA gelesen werden durch die
+
+87
+00:03:26,870 --> 00:03:29,650
+RNA-Polymerase. Diese trennt die
+
+88
+00:03:29,650 --> 00:03:31,650
+Doppelstränge der DNA auf und
+
+89
+00:03:31,650 --> 00:03:33,690
+vervielfältigt sie in einem Molekül,
+
+90
+00:03:33,690 --> 00:03:36,150
+welches RNA heißt. Bei diesem Diesen
+
+91
+00:03:36,150 --> 00:03:39,310
+Vorgang wird aus Thymin Uracil. Alle
+
+92
+00:03:39,310 --> 00:03:42,790
+anderen Basen bleiben gleich. Bei der
+
+93
+00:03:42,790 --> 00:03:45,070
+Zellwachstum und Fortpflanzung wird
+
+94
+00:03:45,070 --> 00:03:47,290
+durch die DNA-Polymerase die DNA
+
+95
+00:03:47,290 --> 00:03:49,510
+vervielfältigt und an die neue Zelle
+
+96
+00:03:49,510 --> 00:03:52,450
+weitergegeben. Ich hoffe, dass du nun
+
+97
+00:03:52,450 --> 00:03:54,710
+mehr über die DNA weißt. Wenn du noch
+
+98
+00:03:54,710 --> 00:03:56,550
+Fragen zu diesen oder anderen Themen
+
+99
+00:03:56,550 --> 00:03:58,410
+hast, nutze gerne unsere weiteren
+
+100
+00:03:58,410 --> 00:04:00,770
+Lerninhalte im Online-Lerncenter oder
+
+101
+00:04:00,770 --> 00:04:02,390
+wende dich an deine Schülerhilfe vor
+
+102
+00:04:02,390 --> 00:04:04,130
+Ort. Bis zum nächsten Mal.
+

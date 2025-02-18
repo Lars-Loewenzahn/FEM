@@ -1,0 +1,863 @@
+﻿1
+00:00:00,000 --> 00:00:02,120
+Hello and welcome to the 
+
+2
+00:00:02,120 --> 00:00:04,880
+Schülerhilfe learning videos. 
+
+3
+00:00:04,880 --> 00:00:06,380
+In this video, you will learn more about 
+
+4
+00:00:06,380 --> 00:00:08,580
+the functions of the Impress program and 
+
+5
+00:00:08,580 --> 00:00:10,640
+the media design of 
+
+6
+00:00:10,640 --> 00:00:11,780
+presentations. 
+
+7
+00:00:16,420 --> 00:00:18,560
+In Module 2, you have already 
+
+8
+00:00:18,560 --> 00:00:20,620
+
+9
+00:00:20,620 --> 00:00:23,660
+learned about the basic functions of 
+Impress. Today you will learn 
+
+10
+00:00:23,660 --> 00:00:26,080
+about changing the font, 
+
+11
+00:00:26,080 --> 00:00:29,120
+inserting images, placing 
+
+12
+00:00:29,120 --> 00:00:31,720
+text and images, the 
+
+13
+00:00:31,720 --> 00:00:32,880
+color design of presentations, 
+
+14
+00:00:32,900 --> 00:00:35,620
+presentations and inserting 
+
+15
+00:00:35,620 --> 00:00:36,900
+animations. 
+
+16
+00:00:40,960 --> 00:00:43,140
+You have already learned how to change the 
+size and 
+
+17
+00:00:43,140 --> 00:00:45,340
+type of font in the Format sub-item 
+
+18
+00:00:45,340 --> 00:00:49,140
+. 
+
+19
+00:00:49,140 --> 00:00:51,100
+However, there are many other 
+
+20
+00:00:51,100 --> 00:00:54,380
+change functions in Impress . For example 
+
+21
+00:00:54,380 --> 00:00:56,260
+, you can change the alignment of the text 
+
+22
+00:00:56,260 --> 00:00:58,940
+
+23
+00:00:58,940 --> 00:01:03,380
+by clicking on Align in the Format 
+sub-item . You then have 
+
+24
+00:01:03,380 --> 00:01:05,300
+the choice between left-aligned, 
+
+25
+00:01:05,300 --> 00:01:07,920
+centered, right-aligned or 
+
+26
+00:01:07,920 --> 00:01:08,480
+justified. 
+
+27
+00:01:13,160 --> 00:01:15,780
+If you 
+
+28
+00:01:15,780 --> 00:01:18,000
+click on Format in the ribbon and then on 
+Character, you can 
+
+29
+00:01:18,000 --> 00:01:20,300
+set the text to bold, italic or 
+
+30
+00:01:20,300 --> 00:01:22,620
+underline. Under 
+
+31
+00:01:22,620 --> 00:01:24,500
+Font effects, you can change the color 
+
+32
+00:01:24,500 --> 00:01:27,020
+of the font. You will also 
+
+33
+00:01:27,020 --> 00:01:30,120
+find further settings here. 
+
+34
+00:01:30,120 --> 00:01:31,660
+For example, you can give the text a 
+
+35
+00:01:31,660 --> 00:01:33,740
+shadow or 
+
+36
+00:01:33,740 --> 00:01:34,800
+cross out individual words. 
+
+37
+00:01:38,420 --> 00:01:40,460
+Now we know how to change the 
+
+38
+00:01:40,460 --> 00:01:42,480
+font. Let's move on to 
+
+39
+00:01:42,480 --> 00:01:44,480
+the next point, inserting 
+
+40
+00:01:44,480 --> 00:01:47,620
+shapes. You can insert 
+
+41
+00:01:47,620 --> 00:01:49,400
+various shapes into your presentation 
+
+42
+00:01:49,400 --> 00:01:52,800
+, such as rectangles, 
+
+43
+00:01:52,920 --> 00:01:55,800
+lines, 
+
+44
+00:01:55,800 --> 00:01:59,440
+arrows of different shapes , ellipses, 
+brackets and many, 
+
+45
+00:01:59,500 --> 00:02:03,020
+many more. You can also change the 
+
+46
+00:02:03,020 --> 00:02:05,060
+color of the outline and fill 
+
+47
+00:02:05,060 --> 00:02:07,340
+as well as the thickness of the outline 
+
+48
+00:02:07,340 --> 00:02:07,560
+. 
+
+49
+00:02:12,550 --> 00:02:14,210
+If you 
+
+50
+00:02:14,210 --> 00:02:16,610
+want to insert a shape into your 
+presentation, 
+
+51
+00:02:16,610 --> 00:02:18,390
+look for the 
+
+52
+00:02:18,390 --> 00:02:20,410
+Insert item in the ribbon and click on the 
+
+53
+00:02:20,410 --> 00:02:22,570
+Shape sub-item. 
+
+54
+00:02:27,370 --> 00:02:28,670
+Here you can choose between lines, 
+
+55
+00:02:28,750 --> 00:02:30,570
+standard shapes and symbols 
+
+56
+00:02:30,570 --> 00:02:33,490
+. Under standard shapes, for 
+
+57
+00:02:33,490 --> 00:02:35,210
+example, you will find circles, 
+
+58
+00:02:35,250 --> 00:02:36,950
+rectangles and triangles. 
+
+59
+00:02:39,440 --> 00:02:41,060
+Then click on the point in the 
+
+60
+00:02:41,060 --> 00:02:43,060
+slide where you 
+
+61
+00:02:43,060 --> 00:02:45,400
+want to insert the shape 
+
+62
+00:02:45,400 --> 00:02:48,780
+and hold down the mouse button. 
+
+63
+00:02:48,780 --> 00:02:50,420
+You can 
+
+64
+00:02:50,420 --> 00:02:53,600
+set the size of the shape by dragging the 
+mouse. When the shape is the right 
+
+65
+00:02:53,600 --> 00:02:55,720
+size, 
+
+66
+00:02:55,720 --> 00:02:55,940
+release the mouse button. 
+
+67
+00:03:00,780 --> 00:03:02,420
+If you click on the shape with the right 
+
+68
+00:03:02,420 --> 00:03:04,360
+mouse button, a 
+
+69
+00:03:04,360 --> 00:03:08,280
+submenu will open . Under Line and area, 
+
+70
+00:03:08,280 --> 00:03:10,900
+you can 
+
+71
+00:03:10,900 --> 00:03:14,000
+change the outline and fill of the shape. 
+You will also 
+
+72
+00:03:14,000 --> 00:03:14,620
+find further 
+
+73
+00:03:14,620 --> 00:03:17,740
+setting options here. 
+
+74
+00:03:17,740 --> 00:03:19,920
+For example, you can automatically 
+
+75
+00:03:19,920 --> 00:03:22,720
+align the shape on the slide or 
+
+76
+00:03:22,720 --> 00:03:24,240
+change the arrangement of the shapes. 
+
+77
+00:03:27,710 --> 00:03:30,090
+Inserting images works in 
+
+78
+00:03:30,090 --> 00:03:34,610
+the same way. Click on the 
+
+79
+00:03:34,610 --> 00:03:37,430
+Image sub-item under Insert. You can now 
+
+80
+00:03:37,430 --> 00:03:39,690
+
+81
+00:03:39,690 --> 00:03:41,430
+
+82
+00:03:41,510 --> 00:03:42,730
+directly insert images that you have saved 
+on your computer or USB stick. 
+
+83
+00:03:46,470 --> 00:03:48,170
+If you click on your image with the right 
+
+84
+00:03:48,170 --> 00:03:50,170
+mouse button, you can 
+
+85
+00:03:50,170 --> 00:03:52,190
+edit it. 
+
+86
+00:03:52,190 --> 00:03:55,150
+The typical submenu will then open again. 
+
+87
+00:03:55,150 --> 00:03:56,330
+For example, you can replace the image 
+here 
+
+88
+00:03:56,330 --> 00:03:58,770
+, 
+
+89
+00:03:58,770 --> 00:04:01,230
+crop the image or 
+
+90
+00:04:01,230 --> 00:04:02,090
+change the position and size. 
+
+91
+00:04:07,030 --> 00:04:08,710
+Now let's move on to the visual 
+
+92
+00:04:08,710 --> 00:04:12,490
+design . The most important thing is that 
+
+93
+00:04:12,570 --> 00:04:16,030
+less is more. Because too much is 
+
+94
+00:04:16,030 --> 00:04:17,650
+often confusing, too much overwhelms 
+
+95
+00:04:17,650 --> 00:04:19,970
+the audience and 
+
+96
+00:04:19,970 --> 00:04:24,360
+also distracts them unnecessarily. Hence 
+three 
+
+97
+00:04:24,360 --> 00:04:27,020
+rules. Don't put too many pictures 
+
+98
+00:04:27,020 --> 00:04:29,360
+on one slide. One or two 
+
+99
+00:04:29,360 --> 00:04:31,480
+meaningful pictures or diagrams 
+
+100
+00:04:31,480 --> 00:04:35,420
+are usually enough. 
+
+101
+00:04:35,420 --> 00:04:36,860
+Only write the most important points on 
+the 
+
+102
+00:04:36,860 --> 00:04:38,780
+slide and explain other aspects 
+
+103
+00:04:38,780 --> 00:04:41,620
+verbally. Also, use 
+
+104
+00:04:41,620 --> 00:04:43,720
+bullet points instead of formulated 
+
+105
+00:04:43,720 --> 00:04:45,240
+sentences. 
+
+106
+00:04:48,060 --> 00:04:50,060
+Let's take a look at a negative example. 
+
+107
+00:04:51,760 --> 00:04:53,920
+This slide contains too much text. 
+
+108
+00:04:55,540 --> 00:04:57,380
+There is also too much information 
+
+109
+00:04:57,380 --> 00:05:00,220
+on the slide. 
+
+110
+00:05:00,220 --> 00:05:01,940
+It would be better to 
+
+111
+00:05:01,940 --> 00:05:05,200
+divide the information into two slides. 
+The diagrams 
+
+112
+00:05:05,200 --> 00:05:07,260
+shown here are unfortunately 
+
+113
+00:05:07,260 --> 00:05:09,060
+too small to 
+
+114
+00:05:09,060 --> 00:05:11,520
+be read properly. One diagram would 
+
+115
+00:05:11,520 --> 00:05:12,520
+certainly have sufficed here. 
+
+116
+00:05:17,400 --> 00:05:20,980
+This slide is better. The diagram 
+
+117
+00:05:20,980 --> 00:05:22,740
+is large enough to 
+
+118
+00:05:22,740 --> 00:05:25,180
+read. 
+
+119
+00:05:25,180 --> 00:05:27,020
+
+120
+00:05:27,020 --> 00:05:28,280
+There would also have been room for a few 
+key points on this slide. 
+
+121
+00:05:32,410 --> 00:05:34,710
+
+122
+00:05:34,710 --> 00:05:37,590
+There is one thing to say about the color 
+scheme. Just not too much. 
+
+123
+00:05:39,410 --> 00:05:41,470
+Generally use colors sparingly and 
+
+124
+00:05:41,470 --> 00:05:44,770
+consciously. Use colors to highlight the 
+
+125
+00:05:44,770 --> 00:05:47,930
+most important things. 
+
+126
+00:05:47,930 --> 00:05:49,850
+Only use font colors that 
+
+127
+00:05:49,850 --> 00:05:51,610
+are clearly visible on the background, for 
+
+128
+00:05:51,770 --> 00:05:53,190
+example, not 
+
+129
+00:05:53,190 --> 00:05:56,570
+light yellow on white or dark gray on 
+
+130
+00:05:56,570 --> 00:05:59,370
+black in the background. Too many 
+
+131
+00:05:59,370 --> 00:06:00,570
+colors make your slide 
+
+132
+00:06:00,570 --> 00:06:02,270
+confusing and 
+
+133
+00:06:02,270 --> 00:06:04,410
+unnecessarily distract the listener from 
+what is being said. 
+
+134
+00:06:07,760 --> 00:06:09,040
+Let's take a look at a 
+
+135
+00:06:09,040 --> 00:06:12,300
+negative example. This slide 
+
+136
+00:06:12,300 --> 00:06:14,260
+contains far too many font colors. 
+
+137
+00:06:15,390 --> 00:06:16,940
+The yellow font on a white 
+
+138
+00:06:16,940 --> 00:06:18,700
+background is difficult to read. 
+
+139
+00:06:19,460 --> 00:06:21,560
+There are also too many confusing 
+
+140
+00:06:21,560 --> 00:06:22,500
+colored rectangles. 
+
+141
+00:06:25,380 --> 00:06:27,820
+This 
+
+142
+00:06:27,820 --> 00:06:30,820
+slide would be a positive example. It 
+looks very tidy and 
+
+143
+00:06:30,820 --> 00:06:32,620
+colors are only 
+
+144
+00:06:32,620 --> 00:06:33,880
+used selectively for support. 
+
+145
+00:06:36,760 --> 00:06:38,320
+Now let's 
+
+146
+00:06:38,320 --> 00:06:40,480
+think about the background of the slides. 
+
+147
+00:06:40,640 --> 00:06:43,840
+You can 
+
+148
+00:06:43,840 --> 00:06:46,060
+change the background of your slide by 
+clicking on Slide 
+
+149
+00:06:46,060 --> 00:06:47,760
+properties or 
+
+150
+00:06:47,760 --> 00:06:49,540
+Set background under Slide. 
+
+151
+00:06:54,900 --> 00:06:57,120
+As a general rule, only use 
+
+152
+00:06:57,120 --> 00:06:59,060
+colored backgrounds in exceptional cases, 
+
+153
+00:06:59,180 --> 00:07:02,220
+as they can be distracting and bright 
+
+154
+00:07:02,220 --> 00:07:04,380
+or even neon-colored backgrounds 
+
+155
+00:07:04,380 --> 00:07:07,900
+overwhelm the eye. 
+
+156
+00:07:07,900 --> 00:07:09,140
+Instead, use neutral to 
+
+157
+00:07:09,140 --> 00:07:10,740
+pastel-colored backgrounds 
+
+158
+00:07:10,740 --> 00:07:13,580
+that are not distracting. 
+
+159
+00:07:13,580 --> 00:07:17,220
+The same applies to the layout in general. 
+Here 
+
+160
+00:07:17,220 --> 00:07:20,040
+you can see a negative example. The 
+
+161
+00:07:20,040 --> 00:07:21,860
+bright blue background is 
+
+162
+00:07:21,860 --> 00:07:23,100
+tiring for the eye in the long run. 
+
+163
+00:07:26,380 --> 00:07:28,380
+A neutral 
+
+164
+00:07:28,380 --> 00:07:31,180
+background or a pastel-colored 
+
+165
+00:07:31,180 --> 00:07:32,600
+background , for example, is better. You 
+
+166
+00:07:38,360 --> 00:07:40,380
+can 
+
+167
+00:07:40,380 --> 00:07:42,520
+
+168
+00:07:42,520 --> 00:07:44,920
+group several fields, for example texts, 
+shapes or images, so that they form a 
+
+169
+00:07:44,920 --> 00:07:48,380
+single field. To do this, click 
+
+170
+00:07:48,380 --> 00:07:50,240
+on the desired fields one after the other 
+
+171
+00:07:50,240 --> 00:07:52,200
+while 
+
+172
+00:07:52,200 --> 00:07:53,000
+holding down the control key. 
+
+173
+00:07:55,820 --> 00:07:57,580
+Then click on the right mouse button 
+
+174
+00:07:57,580 --> 00:08:00,580
+and click on Group. The 
+
+175
+00:08:00,580 --> 00:08:01,840
+different fields are now 
+
+176
+00:08:01,840 --> 00:08:02,700
+connected. 
+
+177
+00:08:05,810 --> 00:08:07,870
+With Impress, you can also 
+
+178
+00:08:07,870 --> 00:08:11,050
+add so-called animations. You can use them 
+to 
+
+179
+00:08:11,050 --> 00:08:13,070
+
+180
+00:08:13,070 --> 00:08:14,770
+make text fields, shapes or images appear, 
+
+181
+00:08:14,890 --> 00:08:17,170
+disappear or change when you move on. 
+
+182
+00:08:19,720 --> 00:08:22,960
+To insert an animation, click on 
+
+183
+00:08:22,960 --> 00:08:25,460
+your field, i.e. your image, text 
+
+184
+00:08:25,460 --> 00:08:27,680
+or shape, and 
+
+185
+00:08:27,680 --> 00:08:29,840
+then click on 
+
+186
+00:08:29,840 --> 00:08:33,640
+Custom animations under Slide. 
+
+187
+00:08:33,640 --> 00:08:36,160
+Then select an animation and click 
+
+188
+00:08:36,160 --> 00:08:38,040
+on the green plus on the right-hand 
+
+189
+00:08:38,040 --> 00:08:39,240
+side. You 
+
+190
+00:08:44,680 --> 00:08:45,960
+can of course also 
+
+191
+00:08:45,960 --> 00:08:49,960
+insert several animations. To do this, 
+
+192
+00:08:49,960 --> 00:08:52,800
+click on the next field and then again on 
+
+193
+00:08:52,800 --> 00:08:54,360
+the green plus on the right-hand side 
+
+194
+00:08:54,360 --> 00:08:56,120
+and select the desired animation 
+
+195
+00:08:56,120 --> 00:08:56,680
+. 
+
+196
+00:09:00,970 --> 00:09:02,570
+You can 
+
+197
+00:09:02,570 --> 00:09:04,710
+also change the order of the animations 
+here by 
+
+198
+00:09:04,710 --> 00:09:07,810
+first selecting an animation at the top 
+
+199
+00:09:07,810 --> 00:09:10,590
+and then 
+
+200
+00:09:10,590 --> 00:09:14,680
+clicking on one of the arrows at the 
+bottom. The best way to do this is to use 
+the 
+
+201
+00:09:14,680 --> 00:09:16,680
+group function. Here 
+
+202
+00:09:18,950 --> 00:09:20,350
+you can see an 
+
+203
+00:09:20,350 --> 00:09:22,470
+example of what your screen 
+
+204
+00:09:22,470 --> 00:09:24,950
+looks like if you 
+
+205
+00:09:24,950 --> 00:09:27,510
+have grouped several fields and 
+
+206
+00:09:27,510 --> 00:09:29,770
+added an animation to this grouping . 
+
+207
+00:09:33,880 --> 00:09:35,640
+You already know Impress 
+
+208
+00:09:35,640 --> 00:09:38,640
+pretty well. In module 4, you will learn 
+
+209
+00:09:38,720 --> 00:09:42,280
+how to create a handout. 
+
+210
+00:09:42,280 --> 00:09:44,080
+Thank you for your attention 
+
+211
+00:09:44,080 --> 00:09:45,980
+and I wish you every success in 
+
+212
+00:09:45,980 --> 00:09:47,440
+creating your presentation. 

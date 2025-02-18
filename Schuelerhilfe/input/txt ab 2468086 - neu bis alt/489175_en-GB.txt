@@ -1,0 +1,458 @@
+﻿1
+00:00:00,430 --> 00:00:01,730
+Hello, I'm delighted that you've 
+
+2
+00:00:01,730 --> 00:00:03,410
+joined me again today. 
+
+3
+00:00:03,410 --> 00:00:05,290
+In this video, I would like to 
+
+4
+00:00:05,290 --> 00:00:06,990
+introduce you to a pattern that can be 
+used to solve common 
+
+5
+00:00:06,990 --> 00:00:09,270
+lottery problems. And 
+
+6
+00:00:09,270 --> 00:00:10,570
+I'd like to 
+
+7
+00:00:10,570 --> 00:00:11,770
+
+8
+00:00:11,770 --> 00:00:14,570
+show you how it works using an example. 
+Today we're going to 
+
+9
+00:00:14,570 --> 00:00:16,410
+
+10
+00:00:16,410 --> 00:00:18,550
+explain the whole thing using the German 
+lottery . The aim there is to 
+
+11
+00:00:18,750 --> 00:00:22,090
+mark six correct out of 49. 
+
+12
+00:00:22,110 --> 00:00:23,930
+So we have a lottery ticket with 
+
+13
+00:00:23,930 --> 00:00:26,590
+49 numbers on it and put six 
+
+14
+00:00:26,590 --> 00:00:28,970
+crosses on it. It is not important 
+
+15
+00:00:29,070 --> 00:00:30,510
+in which order the crosses 
+
+16
+00:00:30,510 --> 00:00:33,810
+are marked. A classic 
+
+17
+00:00:33,810 --> 00:00:35,330
+example is the question of the 
+
+18
+00:00:35,330 --> 00:00:38,570
+probability of getting 6 correct numbers. 
+To 
+
+19
+00:00:38,570 --> 00:00:39,950
+work out the probability, 
+
+20
+00:00:39,970 --> 00:00:42,010
+we first consider how 
+
+21
+00:00:42,010 --> 00:00:43,610
+many possibilities there are to 
+
+22
+00:00:43,610 --> 00:00:46,250
+place 6 correct numbers. 
+
+23
+00:00:46,250 --> 00:00:47,410
+We do this using the 
+
+24
+00:00:47,410 --> 00:00:49,810
+binomial coefficients and the 
+
+25
+00:00:49,810 --> 00:00:55,190
+
+26
+00:00:55,190 --> 00:00:56,130
+calculation is called 49 over 6. 
+
+27
+00:00:56,150 --> 00:00:57,610
+calculator 
+
+28
+00:00:57,710 --> 00:00:58,910
+, you can also watch the 
+
+29
+00:00:58,910 --> 00:01:03,010
+video again. The result is 13 
+
+30
+00:01:03,010 --> 00:01:06,350
+.983 
+
+31
+00:01:06,350 --> 00:01:09,090
+.816 
+
+32
+00:01:09,610 --> 00:01:12,590
+, so there are about 14 million 
+
+33
+00:01:12,590 --> 00:01:15,450
+ways to 
+
+34
+00:01:15,450 --> 00:01:17,710
+place 6 correct 49 numbers. The 
+probability 
+
+35
+00:01:17,710 --> 00:01:19,250
+of this, i.e. how high is the 
+
+36
+00:01:19,250 --> 00:01:20,670
+probability of 
+
+37
+00:01:20,670 --> 00:01:23,010
+guessing 6 correct numbers , is 1 in about 
+14 
+
+38
+00:01:23,010 --> 00:01:26,550
+million. It gets a little more difficult 
+when you 
+
+39
+00:01:26,630 --> 00:01:29,610
+are asked for 4 out of 6 
+
+40
+00:01:29,610 --> 00:01:31,890
+correct numbers. So we put 6 crosses 
+
+41
+00:01:31,890 --> 00:01:35,110
+and 4 of them are correct. Here, too, 
+
+42
+00:01:35,110 --> 00:01:37,170
+we first take a look at the 
+
+43
+00:01:37,170 --> 00:01:40,370
+possibilities. We have first 
+
+44
+00:01:40,370 --> 00:01:42,070
+calculated how many possibilities 
+
+45
+00:01:42,070 --> 00:01:45,250
+there are to 
+
+46
+00:01:45,250 --> 00:01:47,630
+place our 4 correct crosses in the 6 
+correct ones and on the 
+
+47
+00:01:47,630 --> 00:01:49,430
+other hand we have the 
+
+48
+00:01:49,430 --> 00:01:51,790
+possibilities to 
+
+49
+00:01:51,790 --> 00:01:54,330
+
+50
+00:01:54,330 --> 00:01:56,550
+place our 2 incorrect ones among the 
+remaining 43 incorrect ones. 
+
+51
+00:01:56,550 --> 00:01:59,810
+We divide this product by all the 
+
+52
+00:01:59,810 --> 00:02:01,490
+possibilities of 
+
+53
+00:02:01,490 --> 00:02:05,030
+having six correct numbers. The 
+calculation is as follows 
+
+54
+00:02:05,030 --> 00:02:08,810
+. First we multiply 
+
+55
+00:02:08,810 --> 00:02:14,610
+the possibilities 15 times 903 and 
+
+56
+00:02:14,610 --> 00:02:20,510
+divide the whole by our 13,983 
+
+57
+00:02:20,510 --> 00:02:24,490
+.816. and get the 
+
+58
+00:02:24,490 --> 00:02:25,550
+probability for this 
+
+59
+00:02:25,550 --> 00:02:28,170
+event. The probability is 
+
+60
+00:02:28,170 --> 00:02:32,310
+about 0.097% 
+
+61
+00:02:32,310 --> 00:02:36,350
+, which is very, very low. Another 
+
+62
+00:02:36,350 --> 00:02:38,450
+type of task is the question about the 
+
+63
+00:02:38,450 --> 00:02:40,550
+super number. I also have an 
+
+64
+00:02:40,550 --> 00:02:43,110
+example for this , namely we would like to 
+
+65
+00:02:43,110 --> 00:02:44,610
+know what the 
+
+66
+00:02:44,610 --> 00:02:47,450
+probability is of getting three correct 
+numbers 
+
+67
+00:02:47,450 --> 00:02:50,150
+out of six and still hitting 
+
+68
+00:02:50,150 --> 00:02:52,150
+a super number. It is important to know 
+that there 
+
+69
+00:02:52,150 --> 00:02:54,290
+are ten numbers and we have to 
+
+70
+00:02:54,290 --> 00:02:56,210
+match one of them for the super number. 
+The 
+
+71
+00:02:56,210 --> 00:02:57,690
+probability of hitting this number 
+
+72
+00:02:57,790 --> 00:03:00,530
+is therefore one tenth. We 
+
+73
+00:03:00,530 --> 00:03:02,150
+proceed in the same way as the 
+
+74
+00:03:02,150 --> 00:03:05,030
+previous example and create the 
+
+75
+00:03:05,030 --> 00:03:08,750
+lottery model. First, we consider 
+
+76
+00:03:08,750 --> 00:03:11,030
+how many of the six correct numbers 
+
+77
+00:03:11,030 --> 00:03:13,050
+we have matched, namely three, 
+
+78
+00:03:14,010 --> 00:03:17,070
+and multiply this by the 
+
+79
+00:03:17,070 --> 00:03:18,850
+second binomial coefficient. 
+
+80
+00:03:21,160 --> 00:03:24,820
+43 over 3, because 
+
+81
+00:03:24,820 --> 00:03:26,820
+we also have 3 of our 
+
+82
+00:03:26,820 --> 00:03:32,040
+crosses over the 43 remaining numbers. And 
+divide the whole thing by 49 
+
+83
+00:03:32,040 --> 00:03:36,820
+over 6. Now we 
+
+84
+00:03:36,820 --> 00:03:39,560
+add the super number. We have to 
+
+85
+00:03:39,560 --> 00:03:42,140
+take our solution by another tenth, 
+because the 
+
+86
+00:03:42,140 --> 00:03:43,480
+probability of hitting the super number 
+
+87
+00:03:43,480 --> 00:03:45,960
+is one tenth. If you 
+
+88
+00:03:45,960 --> 00:03:47,880
+don't hit the super number, 
+
+89
+00:03:47,880 --> 00:03:50,580
+there would be 9 tenths at this point, 
+i.e. 
+
+90
+00:03:50,580 --> 00:03:53,700
+the counter probability. 
+
+91
+00:03:53,700 --> 00:03:55,460
+Let's summarize once again. If you want to 
+
+92
+00:03:55,460 --> 00:03:57,500
+solve a task like this, 
+
+93
+00:03:57,520 --> 00:03:58,920
+you can use the lottery model 
+
+94
+00:03:58,920 --> 00:04:01,380
+. This 
+
+95
+00:04:01,380 --> 00:04:04,580
+page shows how many of the correct 6 you 
+
+96
+00:04:04,580 --> 00:04:08,020
+have hit. Here are the 
+
+97
+00:04:08,020 --> 00:04:10,100
+ways in which you 
+
+98
+00:04:10,100 --> 00:04:11,680
+
+99
+00:04:11,680 --> 00:04:13,880
+have distributed the remaining crosses 
+among the incorrect ones and divide the 
+total 
+
+100
+00:04:13,880 --> 00:04:16,900
+by 49 over 6, i.e. all the 
+
+101
+00:04:16,900 --> 00:04:19,380
+ways of 
+
+102
+00:04:19,380 --> 00:04:21,060
+marking 6 correct in 49 . If you are not 
+quite 
+
+103
+00:04:21,060 --> 00:04:25,400
+sure, make sure that the 
+
+104
+00:04:25,400 --> 00:04:28,460
+two top numbers 
+
+105
+00:04:28,460 --> 00:04:31,280
+always add up to 49. The same applies 
+
+106
+00:04:31,280 --> 00:04:32,900
+to the numbers below. 
+
+107
+00:04:33,240 --> 00:04:36,320
+The 3 and the 3 must add up to 6 
+
+108
+00:04:36,320 --> 00:04:39,460
+. If you have this, then 
+
+109
+00:04:39,460 --> 00:04:40,520
+you have 
+
+110
+00:04:40,520 --> 00:04:44,320
+set up the formula correctly. Thank you 
+very much and see you 
+
+111
+00:04:44,320 --> 00:04:44,820
+next time. 

@@ -1,0 +1,541 @@
+﻿1
+00:00:03,980 --> 00:00:06,300
+Hello, my name is Joshua and I 
+
+2
+00:00:06,300 --> 00:00:07,380
+am a tutor at 
+
+3
+00:00:07,380 --> 00:00:09,400
+Schülerhilfe. Today I would like to 
+
+4
+00:00:09,400 --> 00:00:12,120
+explain acid-base titration to you. 
+
+5
+00:00:12,120 --> 00:00:13,900
+In our online learning center, you can 
+
+6
+00:00:13,900 --> 00:00:15,320
+of course also 
+
+7
+00:00:15,320 --> 00:00:17,000
+find a wiki on this topic, where 
+
+8
+00:00:17,000 --> 00:00:18,280
+the basic and important 
+
+9
+00:00:18,280 --> 00:00:19,840
+terms are explained in more detail. 
+
+10
+00:00:20,600 --> 00:00:22,700
+This video builds on the content of the 
+
+11
+00:00:22,700 --> 00:00:25,980
+Neutralization video, which is why 
+
+12
+00:00:25,980 --> 00:00:27,680
+it is best to 
+
+13
+00:00:27,680 --> 00:00:30,440
+watch this video first. Another possible 
+
+14
+00:00:30,440 --> 00:00:31,320
+application of the 
+
+15
+00:00:31,320 --> 00:00:33,200
+concentration of substances in addition to 
+
+16
+00:00:33,200 --> 00:00:35,040
+neutralization is 
+
+17
+00:00:35,040 --> 00:00:37,680
+titration. This also involves 
+
+18
+00:00:37,680 --> 00:00:39,060
+
+19
+00:00:39,060 --> 00:00:41,380
+neutralizing an acid with a base . In this 
+case, the 
+
+20
+00:00:41,380 --> 00:00:42,620
+concentration of one of the 
+
+21
+00:00:42,620 --> 00:00:44,700
+reactants is unknown and needs to 
+
+22
+00:00:44,700 --> 00:00:46,940
+be determined. To do this, the 
+
+23
+00:00:46,940 --> 00:00:49,340
+solution of unknown concentration is 
+
+24
+00:00:49,340 --> 00:00:51,360
+
+25
+00:00:51,360 --> 00:00:54,720
+titrated with a solution of known 
+concentration . The experiment is set up 
+
+26
+00:00:54,720 --> 00:00:58,780
+as follows. 
+
+27
+00:00:58,780 --> 00:01:00,400
+There is a known volume of 
+
+28
+00:01:00,400 --> 00:01:02,060
+an acid in a beaker 
+
+29
+00:01:02,060 --> 00:01:04,460
+, but its concentration is unknown. This 
+is 
+
+30
+00:01:04,460 --> 00:01:07,500
+mixed with an indicator. 
+
+31
+00:01:07,500 --> 00:01:09,620
+A burette containing the 
+
+32
+00:01:09,620 --> 00:01:11,680
+so-called titrant, also 
+
+33
+00:01:11,680 --> 00:01:14,000
+known as a standard solution, which 
+
+34
+00:01:14,000 --> 00:01:17,180
+is a base of known concentration, is 
+placed on top . 
+
+35
+00:01:17,180 --> 00:01:19,400
+The titrant solution is now added to the 
+acid drop by drop 
+
+36
+00:01:19,400 --> 00:01:21,040
+until the indicator 
+
+37
+00:01:21,040 --> 00:01:23,160
+changes colour to show that the acid 
+
+38
+00:01:23,160 --> 00:01:26,000
+has been neutralized. We make a note 
+
+39
+00:01:26,000 --> 00:01:27,660
+of the volume of our standard 
+
+40
+00:01:27,660 --> 00:01:30,260
+solution used. 
+
+41
+00:01:30,260 --> 00:01:32,720
+The concentration of the acid must now 
+
+42
+00:01:32,720 --> 00:01:35,040
+be calculated in the evaluation of the 
+experiment. We will go 
+
+43
+00:01:35,040 --> 00:01:36,920
+through this together and 
+
+44
+00:01:36,920 --> 00:01:38,760
+you will also learn how an experimental 
+protocol 
+
+45
+00:01:38,760 --> 00:01:42,480
+is structured. First comes the 
+
+46
+00:01:42,480 --> 00:01:44,980
+task. 20 milliliters 
+
+47
+00:01:44,980 --> 00:01:47,100
+of nitric acid are 
+
+48
+00:01:47,100 --> 00:01:50,140
+
+49
+00:01:50,280 --> 00:01:52,580
+titrated with sodium hydroxide solution, C 
+is equal to 0.1 mol per liter. Calculate 
+the 
+
+50
+00:01:52,580 --> 00:01:54,520
+concentration of the acid. 
+
+51
+00:01:56,700 --> 00:01:59,040
+Secondly, set up the experiment. As 
+already 
+
+52
+00:01:59,040 --> 00:02:00,500
+described, we need a 
+
+53
+00:02:00,500 --> 00:02:03,040
+burette with the sodium hydroxide solution 
+with 0.1 
+
+54
+00:02:03,040 --> 00:02:05,320
+mol per liter and a beaker with 
+
+55
+00:02:05,320 --> 00:02:07,520
+20 ml nitric acid, the 
+
+56
+00:02:07,520 --> 00:02:09,660
+concentration of which we are to 
+determine. 
+
+57
+00:02:11,440 --> 00:02:13,860
+Thirdly, implementation. 
+
+58
+00:02:13,860 --> 00:02:16,200
+The measurement results are documented 
+here. 
+
+59
+00:02:16,200 --> 00:02:17,920
+The filling level of the burette before 
+
+60
+00:02:17,920 --> 00:02:20,080
+and after the experiment is read and 
+
+61
+00:02:20,080 --> 00:02:22,200
+written down. The difference between the 
+
+62
+00:02:22,200 --> 00:02:23,960
+two values is our used 
+
+63
+00:02:23,960 --> 00:02:26,120
+volume. By the time the 
+
+64
+00:02:26,120 --> 00:02:29,360
+indicator turns over , 12.5 ml of 
+measuring solution has been 
+
+65
+00:02:29,360 --> 00:02:32,700
+used. Now, fourthly, comes the 
+
+66
+00:02:32,700 --> 00:02:35,340
+evaluation. Now we 
+
+67
+00:02:35,340 --> 00:02:35,940
+calculate the 
+
+68
+00:02:35,940 --> 00:02:37,360
+concentration of 
+
+69
+00:02:37,360 --> 00:02:39,820
+nitric acid. First, we set 
+
+70
+00:02:39,820 --> 00:02:41,500
+up the reaction equation again. 
+
+71
+00:02:41,500 --> 00:02:47,640
+HNO3 plus NaOH becomes H2O plus 
+
+72
+00:02:47,640 --> 00:02:52,020
+NaNO3. Nitric acid reacts with 
+
+73
+00:02:52,020 --> 00:02:53,860
+caustic soda to form water and 
+
+74
+00:02:53,860 --> 00:02:57,260
+sodium nitrate. What luck! 
+
+75
+00:02:57,260 --> 00:02:58,440
+In this case, we don't have to 
+
+76
+00:02:58,440 --> 00:03:00,860
+balance anything. Nitric acid and 
+
+77
+00:03:00,860 --> 00:03:02,340
+caustic soda react in a 
+
+78
+00:03:02,340 --> 00:03:06,360
+mass ratio of 1 to 1. In the 
+
+79
+00:03:06,360 --> 00:03:07,800
+next step, it makes sense to 
+
+80
+00:03:07,860 --> 00:03:09,980
+
+81
+00:03:09,980 --> 00:03:13,040
+include all known and unknown quantities. 
+Firstly, we know the 
+
+82
+00:03:13,040 --> 00:03:16,780
+volume of nitric acid, i.e. V of 
+
+83
+00:03:16,780 --> 00:03:20,840
+HNO3 equals 20 ml. Secondly, the 
+
+84
+00:03:20,840 --> 00:03:23,500
+volume of the sodium hydroxide solution, 
+i.e. V of 
+
+85
+00:03:23,500 --> 00:03:28,620
+NaOH is equal to 12.5 ml. And finally 
+
+86
+00:03:28,620 --> 00:03:30,000
+, the concentration of the 
+
+87
+00:03:30,000 --> 00:03:33,760
+sodium hydroxide solution, i.e. C of NaOH 
+equals 0 
+
+88
+00:03:33,760 --> 00:03:36,640
+.1 mol per liter. The concentration 
+
+89
+00:03:36,640 --> 00:03:39,840
+of nitric acid, i.e. C of HNO3, 
+
+90
+00:03:40,060 --> 00:03:42,620
+is unknown. But how do we recognize 
+
+91
+00:03:42,620 --> 00:03:45,460
+it? The concentration of 
+
+92
+00:03:45,460 --> 00:03:47,140
+nitric acid is 
+
+93
+00:03:47,140 --> 00:03:48,720
+
+94
+00:03:48,720 --> 00:03:50,480
+calculated by dividing the amount of 
+nitric acid by the volume of the solution. 
+
+95
+00:03:51,300 --> 00:03:55,920
+So C of HNO3 is equal to N of HNO3 
+
+96
+00:03:55,920 --> 00:04:00,080
+divided by V of HNO3. 
+
+97
+00:04:00,080 --> 00:04:01,900
+We know the volume of the solution. We 
+
+98
+00:04:01,900 --> 00:04:03,520
+only need the amount of 
+
+99
+00:04:03,520 --> 00:04:06,500
+nitric acid. We already know from 
+
+100
+00:04:06,500 --> 00:04:08,060
+the reaction equation that the 
+
+101
+00:04:08,060 --> 00:04:09,980
+amounts of sodium hydroxide and 
+
+102
+00:04:09,980 --> 00:04:11,740
+nitric acid must be equal, 
+
+103
+00:04:11,940 --> 00:04:14,020
+i.e. in a ratio of 1 to 1 
+
+104
+00:04:14,020 --> 00:04:16,280
+. The amount of 
+
+105
+00:04:16,280 --> 00:04:17,780
+sodium hydroxide can 
+
+106
+00:04:17,780 --> 00:04:19,620
+
+107
+00:04:19,620 --> 00:04:21,140
+
+108
+00:04:21,140 --> 00:04:25,100
+be calculated from the measured volume and 
+the given concentration using the 
+following equation. n of NaOH is 
+
+109
+00:04:25,100 --> 00:04:31,160
+equal to c of NaOH times v of NaOH. n 
+
+110
+00:04:31,160 --> 00:04:34,180
+of NaOH is equal to 0.1 moles 
+
+111
+00:04:34,180 --> 00:04:38,980
+per liter times 0.0125 liters. And 
+
+112
+00:04:38,980 --> 00:04:41,560
+note, the volume must always 
+
+113
+00:04:41,560 --> 00:04:45,320
+be converted to liters. n of NaOH 
+
+114
+00:04:45,320 --> 00:04:49,340
+is equal to n of HNO3, is equal to 0 
+
+115
+00:04:49,340 --> 00:04:53,500
+.00125 moles. Now we have everything 
+
+116
+00:04:53,700 --> 00:04:54,800
+we need to 
+
+117
+00:04:54,800 --> 00:04:56,680
+
+118
+00:04:56,680 --> 00:04:58,960
+calculate the concentration of nitric 
+acid. So we put everything into 
+
+119
+00:04:58,960 --> 00:05:02,960
+the equation. C of HNO3 
+
+120
+00:05:02,960 --> 00:05:07,820
+is equal to 0.00125 mol per 0.02 
+
+121
+00:05:07,820 --> 00:05:11,220
+liter. The volume again in liters. 
+
+122
+00:05:11,840 --> 00:05:13,680
+
+123
+00:05:13,680 --> 00:05:19,220
+So for the concentration, C of HNO3 is 
+equal to 0.0625 moles 
+
+124
+00:05:19,220 --> 00:05:21,840
+per liter. I hope that you now 
+
+125
+00:05:21,840 --> 00:05:23,860
+
+126
+00:05:23,860 --> 00:05:26,360
+know more about acid base titration and 
+the concentration of substances. If 
+
+127
+00:05:26,360 --> 00:05:28,140
+you still have questions about this or 
+other 
+
+128
+00:05:28,140 --> 00:05:29,860
+topics, please feel free to use our 
+
+129
+00:05:29,860 --> 00:05:31,580
+other learning content in the online 
+
+130
+00:05:31,580 --> 00:05:33,660
+ learning center or contact your 
+
+131
+00:05:33,660 --> 00:05:35,540
+local student help center. See you 
+
+132
+00:05:35,540 --> 00:05:36,180
+next time! 

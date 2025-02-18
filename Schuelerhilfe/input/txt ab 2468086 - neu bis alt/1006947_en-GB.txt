@@ -1,0 +1,561 @@
+﻿1
+00:00:08,880 --> 00:00:10,320
+Once the parents and the student 
+
+2
+00:00:10,320 --> 00:00:11,500
+
+3
+00:00:11,500 --> 00:00:13,240
+have decided to register , the student can 
+be 
+
+4
+00:00:13,240 --> 00:00:15,220
+created in ICAS 7 and the initial 
+diagnosis can 
+
+5
+00:00:15,220 --> 00:00:17,800
+be initiated. 
+
+6
+00:00:17,800 --> 00:00:19,480
+It is important for the initial 
+diagnostics that 
+
+7
+00:00:19,480 --> 00:00:20,960
+a 
+
+8
+00:00:20,960 --> 00:00:22,760
+valid e-mail address 
+
+9
+00:00:22,760 --> 00:00:24,320
+is entered in the student's master data. 
+In order for the dispatch to 
+
+10
+00:00:24,320 --> 00:00:25,900
+work successfully, it must be ensured 
+
+11
+00:00:25,900 --> 00:00:27,740
+that this e-mail address is only 
+
+12
+00:00:27,740 --> 00:00:29,920
+stored once in the system and 
+
+13
+00:00:29,920 --> 00:00:31,860
+
+14
+00:00:31,860 --> 00:00:33,600
+has been uniquely assigned to a student . 
+If necessary, 
+
+15
+00:00:33,600 --> 00:00:35,420
+you must also check whether the e-mail 
+address 
+
+16
+00:00:35,420 --> 00:00:37,080
+is already 
+
+17
+00:00:37,080 --> 00:00:39,060
+being used by a sibling or an inactive 
+account 
+
+18
+00:00:39,060 --> 00:00:41,040
+. The initial diagnostics 
+
+19
+00:00:41,040 --> 00:00:42,740
+can be found under the Extras tab in 
+
+20
+00:00:42,740 --> 00:00:44,600
+the student's profile. To 
+
+21
+00:00:44,600 --> 00:00:46,360
+initiate a new test, 
+
+22
+00:00:46,360 --> 00:00:48,220
+
+23
+00:00:48,220 --> 00:00:50,420
+click on the plus sign in the top 
+right-hand corner of the Incoming 
+diagnostics field . Without having 
+
+24
+00:00:50,420 --> 00:00:51,860
+to use the filters, 
+
+25
+00:00:51,860 --> 00:00:53,720
+the learning checks are displayed at the 
+top. 
+
+26
+00:00:53,880 --> 00:00:55,700
+The learning check is 
+
+27
+00:00:55,700 --> 00:00:57,420
+then selected based on the class level. 
+
+28
+00:00:57,420 --> 00:00:59,080
+A 
+
+29
+00:00:59,080 --> 00:01:00,680
+tick is placed next to the appropriate 
+learning check. The franchise 
+
+30
+00:01:00,680 --> 00:01:02,080
+ partners can then choose whether 
+
+31
+00:01:02,080 --> 00:01:03,500
+
+32
+00:01:03,500 --> 00:01:04,740
+or not the evaluation of the learning 
+check is sent to the student. 
+
+33
+00:01:12,800 --> 00:01:15,840
+of the learning check. 
+
+34
+00:01:15,840 --> 00:01:17,260
+A suitable subject check is then selected 
+for the 
+
+35
+00:01:17,260 --> 00:01:19,040
+student. To do this, 
+
+36
+00:01:19,040 --> 00:01:20,720
+click on Add test again, 
+
+37
+00:01:20,740 --> 00:01:22,360
+then 
+
+38
+00:01:22,360 --> 00:01:23,960
+use the filter function at the top to 
+
+39
+00:01:23,960 --> 00:01:26,340
+search by subject and grade level or 
+learning year. 
+
+40
+00:01:26,640 --> 00:01:28,820
+In Latin and French, there are 
+
+41
+00:01:28,820 --> 00:01:30,940
+subject checks for learning years 1 to 4, 
+
+42
+00:01:31,060 --> 00:01:32,220
+as the foreign languages 
+
+43
+00:01:32,220 --> 00:01:33,480
+
+44
+00:01:33,480 --> 00:01:35,440
+can start at different grade levels. The 
+subject checks for 
+
+45
+00:01:35,440 --> 00:01:37,040
+the main subjects of mathematics, German 
+
+46
+00:01:37,040 --> 00:01:38,440
+and English can best 
+
+47
+00:01:38,440 --> 00:01:39,680
+
+48
+00:01:39,680 --> 00:01:41,540
+be selected using the filter function. 
+After selecting 
+
+49
+00:01:41,540 --> 00:01:42,740
+the subject and the 
+
+50
+00:01:42,740 --> 00:01:44,680
+Standardized subject check category , 
+
+51
+00:01:44,680 --> 00:01:46,160
+a distinction can then 
+
+52
+00:01:46,160 --> 00:01:47,660
+be made between class levels , whereby two 
+
+53
+00:01:47,660 --> 00:01:49,340
+class levels have been combined in each 
+case in 
+
+54
+00:01:49,500 --> 00:01:51,020
+order to also 
+
+55
+00:01:51,020 --> 00:01:53,080
+test the pupils ' previous knowledge . In 
+the area of math, 
+
+56
+00:01:53,080 --> 00:01:54,080
+
+57
+00:01:54,080 --> 00:01:56,340
+two additional versions are 
+
+58
+00:01:56,340 --> 00:01:58,300
+offered for grades 7 and 8 , as the 
+subject matter here is very 
+
+59
+00:01:58,300 --> 00:02:00,160
+extensive. 
+
+60
+00:02:00,160 --> 00:02:01,640
+The 
+
+61
+00:02:01,640 --> 00:02:03,560
+next school-leaving qualification 
+
+62
+00:02:03,560 --> 00:02:05,120
+the pupil is aiming for is shown in 
+brackets after each subject check. The 
+
+63
+00:02:05,120 --> 00:02:06,620
+subject check can therefore be selected 
+
+64
+00:02:06,620 --> 00:02:08,100
+based on the grade level, 
+
+65
+00:02:08,100 --> 00:02:09,680
+personal assessment and 
+
+66
+00:02:09,680 --> 00:02:11,640
+type of school. If 
+
+67
+00:02:11,640 --> 00:02:12,880
+you are unsure 
+
+68
+00:02:12,900 --> 00:02:14,360
+which subject check is the right one, you 
+
+69
+00:02:14,480 --> 00:02:15,940
+can also 
+
+70
+00:02:15,940 --> 00:02:17,880
+initiate several tests. Here too, 
+
+71
+00:02:17,880 --> 00:02:19,500
+franchise partners can 
+
+72
+00:02:19,560 --> 00:02:21,040
+choose whether the evaluation of the 
+subject check 
+
+73
+00:02:21,040 --> 00:02:22,780
+
+74
+00:02:22,780 --> 00:02:24,680
+should be sent automatically to the 
+student. 
+
+75
+00:02:24,680 --> 00:02:26,060
+The subject check is then sent to the 
+
+76
+00:02:26,060 --> 00:02:28,680
+student by clicking on Save. Once the 
+tests 
+
+77
+00:02:28,680 --> 00:02:30,360
+have been initiated, they appear 
+
+78
+00:02:30,360 --> 00:02:32,400
+under the Incoming diagnostics tab. 
+
+79
+00:02:32,400 --> 00:02:33,860
+
+80
+00:02:33,860 --> 00:02:35,620
+
+81
+00:02:35,620 --> 00:02:37,040
+The status of the test 
+
+82
+00:02:37,040 --> 00:02:38,840
+, i.e. whether the student 
+
+83
+00:02:38,840 --> 00:02:41,220
+has started working on it, can be viewed 
+using the three overlapping dots on the 
+far right. 
+
+84
+00:02:41,220 --> 00:02:42,800
+The test can also be deleted 
+
+85
+00:02:42,800 --> 00:02:44,780
+or resent there if necessary. 
+
+86
+00:02:45,280 --> 00:02:46,740
+If the test is resent 
+
+87
+00:02:46,740 --> 00:02:48,380
+
+88
+00:02:48,380 --> 00:02:50,720
+, the timestamp is automatically updated. 
+If 
+
+89
+00:02:50,720 --> 00:02:52,140
+the mouse 
+
+90
+00:02:52,140 --> 00:02:53,900
+is moved over the timestamp , a 
+
+91
+00:02:53,900 --> 00:02:55,940
+tooltip opens. This gray 
+
+92
+00:02:55,940 --> 00:02:57,240
+box shows the dispatch history 
+
+93
+00:02:57,240 --> 00:02:59,620
+, when the test was sent for the first 
+time 
+
+94
+00:02:59,620 --> 00:03:02,560
+and when it was sent again. 
+
+95
+00:03:02,560 --> 00:03:04,180
+After initiating the tests, the 
+
+96
+00:03:04,180 --> 00:03:06,040
+student receives two separate emails 
+
+97
+00:03:06,040 --> 00:03:07,720
+, each with a link that takes them to the 
+
+98
+00:03:07,720 --> 00:03:09,320
+processing page for the learning and 
+
+99
+00:03:09,320 --> 00:03:10,920
+subject check. The tests can be completed 
+
+100
+00:03:10,920 --> 00:03:12,700
+from home. 
+
+101
+00:03:12,700 --> 00:03:14,380
+Completing the learning check 
+
+102
+00:03:14,380 --> 00:03:16,940
+takes a maximum of 15 to 20 minutes. 
+
+103
+00:03:16,940 --> 00:03:18,440
+
+104
+00:03:18,440 --> 00:03:20,740
+A maximum of 60 minutes is 
+
+105
+00:03:20,740 --> 00:03:25,020
+available to complete the subject check. 
+
+106
+00:03:25,020 --> 00:03:26,760
+An evaluation is automatically 
+
+107
+00:03:26,760 --> 00:03:28,580
+generated after each learning or subject 
+check. This is sent by e-mail to 
+
+108
+00:03:28,580 --> 00:03:29,320
+the student and the 
+
+109
+00:03:29,320 --> 00:03:31,160
+head teacher. In the case of 
+
+110
+00:03:31,160 --> 00:03:32,560
+franchise partners, it is 
+
+111
+00:03:32,560 --> 00:03:34,080
+only sent to the student if 
+
+112
+00:03:34,080 --> 00:03:35,980
+they have been selected beforehand. In 
+
+113
+00:03:35,980 --> 00:03:37,760
+ICAS, the results can be 
+
+114
+00:03:37,760 --> 00:03:39,600
+
+115
+00:03:39,600 --> 00:03:40,980
+viewed by both the tutor and the tutor 
+
+116
+00:03:40,980 --> 00:03:43,080
+. This can also be done again in the 
+
+117
+00:03:43,080 --> 00:03:44,800
+student's profile under the 
+
+118
+00:03:44,800 --> 00:03:46,260
+Extras tab in the 
+
+119
+00:03:46,260 --> 00:03:48,100
+Incoming Diagnostics tile under the 
+
+120
+00:03:48,100 --> 00:03:50,360
+paper clip symbol. In the evaluation 
+
+121
+00:03:50,360 --> 00:03:51,800
+of the learning checks, the results are 
+
+122
+00:03:51,800 --> 00:03:53,440
+displayed in a bar chart. 
+
+123
+00:03:53,700 --> 00:03:55,160
+If the student 
+
+124
+00:03:55,160 --> 00:03:57,140
+does not 
+
+125
+00:03:57,140 --> 00:03:59,100
+perform well or less well in individual 
+learning areas, 
+
+126
+00:03:59,100 --> 00:04:00,980
+support options are automatically 
+suggested. 
+
+127
+00:04:00,980 --> 00:04:02,620
+In the evaluation of the subject check 
+
+128
+00:04:02,620 --> 00:04:04,500
+, incorrectly answered questions are 
+marked in red 
+
+129
+00:04:04,500 --> 00:04:06,280
+so that they can 
+
+130
+00:04:06,280 --> 00:04:08,160
+be recognized at a glance. 
+
+131
+00:04:08,160 --> 00:04:10,000
+The correct 
+
+132
+00:04:10,000 --> 00:04:11,740
+answer is shown in blue brackets . Correct 
+answers are 
+
+133
+00:04:11,740 --> 00:04:13,460
+marked in green. The 
+
+134
+00:04:13,460 --> 00:04:15,320
+tutor can pick up on this and 
+
+135
+00:04:15,320 --> 00:04:16,820
+
+136
+00:04:16,820 --> 00:04:17,920
+discuss the results in the first lesson. 

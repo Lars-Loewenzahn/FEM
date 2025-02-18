@@ -1,0 +1,2232 @@
+﻿1
+00:00:01,260 --> 00:00:03,160
+Welcome to the 
+
+2
+00:00:03,160 --> 00:00:05,440
+Growth and Decay Processes webinar . 
+
+3
+00:00:05,440 --> 00:00:06,920
+In this webinar we will deal with 
+
+4
+00:00:06,920 --> 00:00:08,580
+growth and decay processes 
+
+5
+00:00:08,580 --> 00:00:10,580
+. First, we will take a look at 
+
+6
+00:00:10,580 --> 00:00:12,520
+the growth function n of t 
+
+7
+00:00:12,520 --> 00:00:14,000
+. Then we will look at a 
+
+8
+00:00:14,000 --> 00:00:15,460
+small example task on 
+
+9
+00:00:15,460 --> 00:00:17,940
+bacterial culture. This is an 
+
+10
+00:00:17,940 --> 00:00:19,840
+example of exponential 
+
+11
+00:00:19,840 --> 00:00:22,640
+growth. We will then move on to 
+
+12
+00:00:22,640 --> 00:00:26,060
+exponential decay. 
+
+13
+00:00:26,060 --> 00:00:27,060
+In other words, we look 
+
+14
+00:00:27,060 --> 00:00:29,280
+at exponential decay 
+
+15
+00:00:29,280 --> 00:00:30,900
+using the example of a radioactive 
+
+16
+00:00:34,680 --> 00:00:37,240
+decay generator of limited 
+
+17
+00:00:37,240 --> 00:00:39,380
+decay. We will also do this using 
+
+18
+00:00:39,380 --> 00:00:40,820
+an example. The example 
+
+19
+00:00:40,820 --> 00:00:43,700
+is thermal cooling. And 
+
+20
+00:00:43,700 --> 00:00:44,800
+finally, we'll take a look at 
+
+21
+00:00:44,800 --> 00:00:46,520
+geologistic growth, using 
+
+22
+00:00:46,520 --> 00:00:48,160
+
+23
+00:00:48,160 --> 00:00:52,010
+the rumor mill as an example. We will now 
+start 
+
+24
+00:00:52,010 --> 00:00:54,430
+with the growth function N of T. 
+
+25
+00:00:54,430 --> 00:00:57,250
+In the case of exponential 
+
+26
+00:00:57,250 --> 00:00:58,910
+growth, the following approach is taken 
+
+27
+00:00:58,910 --> 00:01:00,850
+. The growth rate is 
+
+28
+00:01:00,850 --> 00:01:03,430
+proportional to the stock. This is 
+
+29
+00:01:03,430 --> 00:01:05,910
+always the case with growth functions. 
+
+30
+00:01:05,910 --> 00:01:07,190
+This means that if the stock is twice as 
+
+31
+00:01:07,190 --> 00:01:09,370
+large, growth is also 
+
+32
+00:01:09,370 --> 00:01:10,610
+twice as large. This is also related to 
+
+33
+00:01:10,610 --> 00:01:13,550
+this growth factor, i.e. 
+
+34
+00:01:13,550 --> 00:01:15,510
+if the population is twice as large, 
+
+35
+00:01:15,610 --> 00:01:17,770
+growth 
+
+36
+00:01:17,770 --> 00:01:20,770
+is inevitably twice as large. 
+
+37
+00:01:22,070 --> 00:01:23,510
+Classic examples of this are 
+
+38
+00:01:23,510 --> 00:01:25,250
+bacterial cultures, for example, which 
+
+39
+00:01:25,250 --> 00:01:28,070
+always double in size. Or when 
+
+40
+00:01:28,070 --> 00:01:30,050
+it comes to decay, atomic 
+
+41
+00:01:30,050 --> 00:01:31,550
+decay. If there is more, 
+
+42
+00:01:31,570 --> 00:01:33,090
+it decays faster than if 
+
+43
+00:01:33,090 --> 00:01:37,930
+there is less. And based on 
+
+44
+00:01:37,930 --> 00:01:40,270
+this knowledge, we now derive 
+
+45
+00:01:40,270 --> 00:01:42,070
+our... growth function n 
+
+46
+00:01:42,070 --> 00:01:44,910
+from t. Based on the 
+
+47
+00:01:44,910 --> 00:01:46,390
+proportionality factor, we can 
+
+48
+00:01:46,390 --> 00:01:48,510
+say that k times n of t is equal to n' 
+
+49
+00:01:48,670 --> 00:01:52,010
+of t. So n of t is the stock, 
+
+50
+00:01:52,090 --> 00:01:55,210
+n' of t is the rate of change 
+
+51
+00:01:55,210 --> 00:01:57,610
+or growth, and 
+
+52
+00:01:57,610 --> 00:01:58,710
+we've just said that this 
+
+53
+00:01:58,710 --> 00:02:01,770
+is proportional. And we 
+
+54
+00:02:01,770 --> 00:02:03,850
+now rewrite the differential n' of t to 
+
+55
+00:02:03,850 --> 00:02:06,930
+dn by dt and 
+
+56
+00:02:06,930 --> 00:02:08,850
+rearrange the whole thing so that the dt 
+
+57
+00:02:08,850 --> 00:02:11,270
+is on the left-hand side and the n of t is 
+down here in the 
+
+58
+00:02:11,270 --> 00:02:13,850
+denominator and thus arrive at k times dt 
+
+59
+00:02:13,850 --> 00:02:18,990
+equals 1 by n of t dn. We 
+
+60
+00:02:18,990 --> 00:02:21,790
+now want to integrate this equation. 
+
+61
+00:02:22,690 --> 00:02:24,630
+We integrate in the limits 0 to 
+
+62
+00:02:24,630 --> 00:02:27,770
+t or 0 to n. This gives us the 
+
+63
+00:02:27,770 --> 00:02:32,070
+integral 0 to t of k dt is equal 
+
+64
+00:02:32,070 --> 00:02:37,210
+to 0 to n of 1 by n of t dn. The 
+
+65
+00:02:37,210 --> 00:02:41,450
+integral 0 to t of k times dt is 
+
+66
+00:02:41,450 --> 00:02:43,990
+simply solved by k times t, i.e. 
+
+67
+00:02:43,990 --> 00:02:50,010
+kt. And the integral 0 to n of 1 
+
+68
+00:02:50,010 --> 00:02:52,430
+by n of t is solved by the 
+
+69
+00:02:52,430 --> 00:02:55,270
+logarithm of n of t. 
+
+70
+00:02:55,270 --> 00:02:57,530
+Of course, we ultimately want n of t to 
+
+71
+00:02:57,530 --> 00:03:00,910
+stand alone on one side. 
+
+72
+00:03:01,750 --> 00:03:03,750
+Therefore, we now go and 
+
+73
+00:03:03,750 --> 00:03:05,210
+exponentiate with the E-combination. 
+
+74
+00:03:05,230 --> 00:03:07,530
+function. This means we have e to the 
+power of 
+
+75
+00:03:07,530 --> 00:03:09,750
+k times t is equal to n of t. 
+
+76
+00:03:09,750 --> 00:03:12,270
+By exponentiating with the e-function 
+
+77
+00:03:12,270 --> 00:03:14,150
+, we solve the logarithm. That is the 
+
+78
+00:03:14,150 --> 00:03:16,390
+approach. In addition to this approach, 
+there is 
+
+79
+00:03:16,390 --> 00:03:17,730
+of course the boundary condition 
+
+80
+00:03:17,790 --> 00:03:22,130
+that n of 0 is equal to n 0 and so 
+
+81
+00:03:22,130 --> 00:03:24,630
+the general 
+
+82
+00:03:24,630 --> 00:03:25,570
+functional equation of a 
+
+83
+00:03:25,570 --> 00:03:27,350
+growth function is n of t is equal to 
+
+84
+00:03:27,350 --> 00:03:31,510
+n 0 times e to the power of k t. As 
+
+85
+00:03:31,510 --> 00:03:33,590
+already mentioned , n 0 is our initial 
+value and k is our 
+
+86
+00:03:33,590 --> 00:03:35,250
+growth value. The function factor t is 
+
+87
+00:03:35,250 --> 00:03:37,390
+the variable, i.e. the time as a 
+
+88
+00:03:37,390 --> 00:03:41,250
+rule. And that's where we 
+
+89
+00:03:41,250 --> 00:03:42,450
+start . We have a 
+
+90
+00:03:42,450 --> 00:03:43,710
+small example task. A 
+
+91
+00:03:43,710 --> 00:03:45,210
+bacterial culture 
+
+92
+00:03:45,210 --> 00:03:47,190
+consists of 600 units at the start of the 
+measurement. After 4 
+
+93
+00:03:47,190 --> 00:03:51,150
+hours, 3256 units have already been 
+
+94
+00:03:51,150 --> 00:03:53,190
+counted. The first thing we have to do is 
+
+95
+00:03:53,190 --> 00:03:54,750
+set up the functional equation. 
+
+96
+00:03:54,750 --> 00:03:55,690
+
+97
+00:03:55,690 --> 00:03:57,510
+Once we have established the functional 
+equation, we have to 
+
+98
+00:03:57,510 --> 00:03:59,650
+
+99
+00:03:59,650 --> 00:04:01,950
+determine the population after 3, 5 and 10 
+hours. Finally, we have to 
+
+100
+00:04:01,950 --> 00:04:03,570
+specify the doubling time. 
+
+101
+00:04:04,130 --> 00:04:06,310
+In other words, as 
+
+102
+00:04:06,310 --> 00:04:07,910
+specified in the task , we start by 
+
+103
+00:04:07,910 --> 00:04:09,590
+determining the functional equations 
+
+104
+00:04:09,590 --> 00:04:14,090
+. Such information, where a stock 
+
+105
+00:04:14,090 --> 00:04:15,410
+at the start of the measurement or a stock 
+at 
+
+106
+00:04:15,410 --> 00:04:19,510
+time 0 is given, is very 
+
+107
+00:04:19,510 --> 00:04:21,730
+valuable, because you should always 
+
+108
+00:04:21,730 --> 00:04:24,290
+start with this. Yes, that's why we start 
+
+109
+00:04:24,290 --> 00:04:26,910
+with 600 is equal to N0 times E to the 
+power of K 
+
+110
+00:04:26,910 --> 00:04:30,870
+times 0. The advantage here is that we 
+
+111
+00:04:30,870 --> 00:04:35,470
+have e to the power of k times 0 is e to 
+the power of 0 and 
+
+112
+00:04:35,470 --> 00:04:38,070
+something to the power of 0 is always 1. 
+This means that 
+
+113
+00:04:38,070 --> 00:04:40,510
+it says 600 is equal to 
+
+114
+00:04:40,510 --> 00:04:43,450
+n0 times 1 and therefore we 
+
+115
+00:04:43,450 --> 00:04:48,810
+immediately know n0 is equal to 600. And 
+
+116
+00:04:48,810 --> 00:04:50,010
+we can then 
+
+117
+00:04:50,010 --> 00:04:53,030
+use the second condition directly. After 4 
+hours 
+
+118
+00:04:53,030 --> 00:04:55,930
+, 3256 units are already 
+
+119
+00:04:55,930 --> 00:04:59,150
+counted, which means 3200... 3256 is 
+
+120
+00:04:59,150 --> 00:05:02,310
+equal to N0 times E to the power of K 
+times 4. 4 
+
+121
+00:05:02,310 --> 00:05:03,550
+here because it 
+
+122
+00:05:03,550 --> 00:05:06,110
+is after 4 hours. We know the N0. That's 
+
+123
+00:05:06,110 --> 00:05:07,550
+the 600 from before. We 
+
+124
+00:05:07,550 --> 00:05:08,830
+therefore use it directly and arrive at 
+
+125
+00:05:08,830 --> 00:05:12,460
+this equation. We can now see 
+
+126
+00:05:12,460 --> 00:05:13,820
+directly that we only have our K 
+
+127
+00:05:13,820 --> 00:05:16,480
+as an unknown. So we 
+
+128
+00:05:16,480 --> 00:05:18,580
+simply change to this one. First, 
+
+129
+00:05:18,580 --> 00:05:20,200
+of course, we try to 
+
+130
+00:05:20,200 --> 00:05:21,640
+isolate our power. That means we divide 
+
+131
+00:05:21,640 --> 00:05:25,120
+by 600. 3,256 divided by 600 
+
+132
+00:05:25,120 --> 00:05:28,900
+is then 5.427 and that is then 
+
+133
+00:05:28,900 --> 00:05:31,880
+equal to e to the power of k times 4. We 
+realize 
+
+134
+00:05:31,880 --> 00:05:33,040
+that we cannot 
+
+135
+00:05:33,040 --> 00:05:34,580
+summarize or simplify it any further 
+
+136
+00:05:34,580 --> 00:05:36,720
+, so the e-function must now 
+
+137
+00:05:36,720 --> 00:05:38,140
+give way. We do this with the ln 
+
+138
+00:05:38,320 --> 00:05:41,340
+, so whenever you 
+
+139
+00:05:41,340 --> 00:05:44,800
+have an e-function or e as the base, take 
+the ln, 
+
+140
+00:05:44,920 --> 00:05:46,580
+the logarithm of Naturale, 
+
+141
+00:05:46,580 --> 00:05:48,960
+because this also has the base E and 
+therefore 
+
+142
+00:05:48,960 --> 00:05:54,240
+we can now 
+
+143
+00:05:54,240 --> 00:05:56,560
+take the logarithm directly from the 5.427 
+. That is 1.7 
+
+144
+00:05:56,560 --> 00:05:58,440
+approximately and on the right-hand side 
+
+145
+00:05:58,440 --> 00:06:00,920
+we get none, because the ln of 
+
+146
+00:06:00,920 --> 00:06:03,800
+E is 1. That is why there is 
+
+147
+00:06:03,800 --> 00:06:07,180
+only 4 times k on the right-hand side. To 
+
+148
+00:06:07,180 --> 00:06:08,260
+determine k now , we just have to 
+
+149
+00:06:08,260 --> 00:06:09,740
+divide by 4, then it says k is 
+
+150
+00:06:09,740 --> 00:06:13,760
+equal to 0.42. And 
+
+151
+00:06:13,760 --> 00:06:15,200
+now we have our growth. 
+
+152
+00:06:15,220 --> 00:06:16,120
+power function completely 
+
+153
+00:06:16,120 --> 00:06:20,430
+. Next, we should 
+
+154
+00:06:20,430 --> 00:06:22,530
+determine the stock after 3, 5 and 10 
+hours 
+
+155
+00:06:22,530 --> 00:06:24,390
+. To do this, we simply 
+
+156
+00:06:24,390 --> 00:06:26,970
+enter 3, 5 and 10 for our variable. 
+
+157
+00:06:27,070 --> 00:06:28,890
+This means that we now know that after 3 
+
+158
+00:06:28,890 --> 00:06:33,310
+hours there were 2115 units, after 
+
+159
+00:06:33,310 --> 00:06:37,030
+5 hours there were 4899 and after 10 hours 
+
+160
+00:06:37,030 --> 00:06:39,310
+there were 40,011 
+
+161
+00:06:39,310 --> 00:06:40,490
+units. 
+
+162
+00:06:43,530 --> 00:06:45,090
+Finally, we should 
+
+163
+00:06:45,090 --> 00:06:46,350
+calculate the doubling time. The 
+
+164
+00:06:46,350 --> 00:06:49,710
+doubling time is exactly the time 
+
+165
+00:06:49,730 --> 00:06:51,330
+it takes for the stock to 
+
+166
+00:06:51,330 --> 00:06:56,730
+double. In other words, when 
+
+167
+00:06:56,730 --> 00:06:59,470
+the number of units 
+
+168
+00:06:59,470 --> 00:07:00,910
+has doubled since the start of 
+measurement. 
+
+169
+00:07:00,910 --> 00:07:02,290
+In other words, we had 600 
+
+170
+00:07:02,290 --> 00:07:05,790
+units at the beginning , so we need to 
+know after 
+
+171
+00:07:05,790 --> 00:07:07,510
+how many hours there were 1200 
+
+172
+00:07:07,510 --> 00:07:10,570
+units. Therefore, we 
+
+173
+00:07:10,570 --> 00:07:12,510
+
+174
+00:07:12,510 --> 00:07:14,730
+equate our already determined functional 
+equation with 1200 and solve the 
+
+175
+00:07:14,730 --> 00:07:18,590
+resulting equation. So 1200 is 
+
+176
+00:07:18,590 --> 00:07:23,010
+equal to 600 times e to the power of 
+0.42t. Same 
+
+177
+00:07:23,010 --> 00:07:24,690
+technique here, first 
+
+178
+00:07:24,690 --> 00:07:25,930
+divide by 600 to 
+
+179
+00:07:25,930 --> 00:07:27,930
+isolate our power. Then it says 2 equals 
+
+180
+00:07:27,930 --> 00:07:32,410
+e to the power of 0.42t. Now we 
+
+181
+00:07:32,410 --> 00:07:33,550
+apply a logarithm here , also 
+
+182
+00:07:33,550 --> 00:07:36,170
+logarithm naturales, i.e. ln, because 
+
+183
+00:07:36,170 --> 00:07:38,050
+we have an e-function here. Then 
+
+184
+00:07:38,050 --> 00:07:40,250
+it says that the ln of 2 is equal to 0 
+
+185
+00:07:40,250 --> 00:07:42,830
+.42 times t. Now we just have to 
+
+186
+00:07:42,830 --> 00:07:45,070
+divide by 0.42. And then it says 
+
+187
+00:07:45,070 --> 00:07:47,630
+the ln of 2 divided by 0.42 is 
+
+188
+00:07:47,630 --> 00:07:50,230
+equal to t, so in our case 1.65. 
+
+189
+00:07:50,630 --> 00:07:54,450
+This means that after 1.65 hours the 
+
+190
+00:07:54,450 --> 00:07:56,790
+stock has doubled. In other 
+
+191
+00:07:56,790 --> 00:07:59,470
+words, 
+
+192
+00:07:59,470 --> 00:08:00,050
+the stock doubles every 1.65 hours. 
+
+193
+00:08:03,160 --> 00:08:05,400
+Here we see the general formula 
+
+194
+00:08:05,400 --> 00:08:08,460
+for determining the doubling time. 
+
+195
+00:08:08,540 --> 00:08:10,240
+It is always the ln of 2 divided 
+
+196
+00:08:10,240 --> 00:08:11,660
+by k. As I said, the k is 
+
+197
+00:08:11,660 --> 00:08:13,140
+
+198
+00:08:13,140 --> 00:08:15,700
+always the factor for our variables here . 
+and with this formula 
+
+199
+00:08:15,700 --> 00:08:17,880
+we can always 
+
+200
+00:08:17,880 --> 00:08:20,700
+
+201
+00:08:20,700 --> 00:08:23,340
+determine the doubling time straight away 
+without this calculation here. As I said, 
+this can 
+
+202
+00:08:23,340 --> 00:08:25,140
+be used. With the calculation here, 
+
+203
+00:08:25,140 --> 00:08:26,840
+however, you do exactly what 
+
+204
+00:08:26,840 --> 00:08:30,860
+is actually written down here. This 
+
+205
+00:08:30,860 --> 00:08:33,040
+also brings us to the opposite 
+
+206
+00:08:33,040 --> 00:08:34,020
+. This is the 
+
+207
+00:08:34,020 --> 00:08:36,020
+exponential decrease. We 
+
+208
+00:08:36,020 --> 00:08:38,300
+have just had exponential 
+
+209
+00:08:38,300 --> 00:08:39,700
+growth here. The bacteria have 
+
+210
+00:08:39,700 --> 00:08:41,520
+multiplied. Now we have the 
+
+211
+00:08:41,520 --> 00:08:43,180
+opposite example: an exponential 
+
+212
+00:08:43,180 --> 00:08:45,200
+decrease . The classic example 
+
+213
+00:08:45,200 --> 00:08:47,080
+of an exponential decrease is always 
+
+214
+00:08:47,080 --> 00:08:50,800
+a radioactive decay and the fact that it 
+
+215
+00:08:50,800 --> 00:08:52,560
+is a decrease is immediately 
+
+216
+00:08:52,560 --> 00:08:54,940
+clear from the fact that 
+
+217
+00:08:54,940 --> 00:08:57,200
+the exponent is negative 
+
+218
+00:08:57,200 --> 00:08:59,160
+. Therefore, the approach is 
+
+219
+00:08:59,160 --> 00:09:02,420
+always N0 times e to the power of minus k 
+times 
+
+220
+00:09:02,420 --> 00:09:07,330
+t. 
+
+221
+00:09:07,330 --> 00:09:09,310
+This is also called the half-life . The 
+half-life is the 
+
+222
+00:09:09,310 --> 00:09:11,050
+point in time when only half 
+
+223
+00:09:11,050 --> 00:09:13,090
+of the initial value is still present. 
+
+224
+00:09:13,090 --> 00:09:14,890
+There is also a ready-made 
+
+225
+00:09:14,890 --> 00:09:16,550
+formula for this , which we will now 
+
+226
+00:09:16,550 --> 00:09:19,250
+derive. As just mentioned, the 
+
+227
+00:09:19,250 --> 00:09:21,150
+half-life is the stock that 
+
+228
+00:09:21,150 --> 00:09:23,230
+
+229
+00:09:23,230 --> 00:09:24,730
+corresponds to only half of the original 
+stock, 
+
+230
+00:09:24,790 --> 00:09:27,910
+i.e. N0 half. And to 
+
+231
+00:09:27,910 --> 00:09:29,530
+calculate the time, we 
+
+232
+00:09:29,530 --> 00:09:30,870
+also equate our functional equation 
+
+233
+00:09:30,870 --> 00:09:32,310
+with this stock. So 
+
+234
+00:09:32,310 --> 00:09:34,150
+we arrive at this nice equation 
+
+235
+00:09:34,150 --> 00:09:36,530
+here. N0 half is equal to N0 times e 
+
+236
+00:09:36,530 --> 00:09:39,870
+to the power of minus kt. First, we divide 
+
+237
+00:09:39,870 --> 00:09:42,450
+by N0. N0 half divided by N0 
+
+238
+00:09:42,450 --> 00:09:46,690
+is 1 half or 0.5. And that's 
+
+239
+00:09:46,690 --> 00:09:48,910
+equal to E raised minus K times T. Again 
+
+240
+00:09:48,910 --> 00:09:50,450
+, we apply the logarithm. 
+
+241
+00:09:50,510 --> 00:09:51,910
+This is how we arrive at the logarithm. 
+
+242
+00:09:51,950 --> 00:09:53,870
+So here again, the logarithm 
+
+243
+00:09:53,870 --> 00:09:56,830
+natural Ln of 1 half is equal to 
+
+244
+00:09:56,830 --> 00:09:59,150
+minus K times T. We now just divide 
+
+245
+00:09:59,150 --> 00:10:01,150
+by minus K. And then 
+
+246
+00:10:01,150 --> 00:10:05,530
+the Ln of 1 half by minus K is 
+
+247
+00:10:05,530 --> 00:10:08,570
+equal to T one half. This C½ here 
+
+248
+00:10:08,570 --> 00:10:10,470
+with the subscript C½ is simply the 
+
+249
+00:10:10,470 --> 00:10:13,470
+sign for the half-life. 
+
+250
+00:10:13,470 --> 00:10:15,450
+In other words, we can use this formula to 
+
+251
+00:10:15,450 --> 00:10:16,890
+determine the half-life. 
+
+252
+00:10:19,620 --> 00:10:20,560
+Here we already have 
+
+253
+00:10:20,560 --> 00:10:21,660
+our example. A 
+
+254
+00:10:21,660 --> 00:10:23,440
+radioactive element has a 
+
+255
+00:10:23,440 --> 00:10:26,640
+half-life of 653 days. After 
+
+256
+00:10:26,640 --> 00:10:28,680
+four years, around 1000 grams of the 
+
+257
+00:10:28,680 --> 00:10:30,900
+initial quantity have not decayed. That 
+
+258
+00:10:30,900 --> 00:10:33,040
+means it is the stock. How large 
+
+259
+00:10:33,040 --> 00:10:34,960
+was the initial quantity? What 
+
+260
+00:10:34,960 --> 00:10:37,360
+is common here is that 
+
+261
+00:10:37,360 --> 00:10:38,920
+the time is sometimes given in years and 
+
+262
+00:10:38,920 --> 00:10:40,820
+sometimes in days. 
+
+263
+00:10:40,820 --> 00:10:42,340
+Of course, you have to agree on a unit 
+
+264
+00:10:42,340 --> 00:10:44,080
+. We have now agreed on 
+
+265
+00:10:44,080 --> 00:10:49,380
+days. That means we know that 
+
+266
+00:10:49,380 --> 00:10:54,340
+after four years, i.e. four times 365 
+
+267
+00:10:54,340 --> 00:10:56,380
+days, 
+
+268
+00:10:56,380 --> 00:10:59,700
+there will only be 1000 grams left. And we 
+know that the 
+
+269
+00:10:59,700 --> 00:11:02,300
+half-life is 653 days. This 
+
+270
+00:11:02,300 --> 00:11:04,440
+means that N0 half. is equal to N0 times E 
+
+271
+00:11:04,440 --> 00:11:09,700
+to the power of minus K times 653. These 
+are the 
+
+272
+00:11:09,700 --> 00:11:11,200
+two equations we 
+
+273
+00:11:11,200 --> 00:11:15,300
+start with. The nice thing about the 
+
+274
+00:11:15,300 --> 00:11:16,740
+half-life here is that we can 
+
+275
+00:11:16,740 --> 00:11:18,660
+now divide it by N0, then 
+
+276
+00:11:18,660 --> 00:11:20,600
+it drops out and we only have 
+
+277
+00:11:20,600 --> 00:11:22,780
+our growth factor K, in this 
+
+278
+00:11:22,780 --> 00:11:24,920
+case decay factor K, as 
+
+279
+00:11:24,920 --> 00:11:27,740
+an unknown. In other words, 
+
+280
+00:11:27,740 --> 00:11:30,340
+we convert to this and determine it in 
+this way. 
+
+281
+00:11:30,340 --> 00:11:32,200
+So the first step is divided 
+
+282
+00:11:32,200 --> 00:11:34,600
+by N0. Now it says 1.5 equals e 
+
+283
+00:11:34,600 --> 00:11:37,840
+to the power of minus k times 653, from 
+which 
+
+284
+00:11:37,840 --> 00:11:39,440
+we form the logarithm. Now 
+
+285
+00:11:39,440 --> 00:11:41,160
+the logarithm of 1.5 equals minus 
+
+286
+00:11:41,160 --> 00:11:44,740
+k times 653. Now we divide 
+
+287
+00:11:44,740 --> 00:11:47,260
+by minus 653 simply because 
+
+288
+00:11:47,260 --> 00:11:48,480
+we want the k to 
+
+289
+00:11:48,480 --> 00:11:50,620
+stand alone. That's why the 
+
+290
+00:11:50,620 --> 00:11:52,980
+sign must be removed immediately. And 
+that's why 
+
+291
+00:11:52,980 --> 00:11:54,560
+we divide by the 
+
+292
+00:11:54,560 --> 00:11:57,860
+sign and the 653. We 
+
+293
+00:11:57,860 --> 00:12:01,400
+then arrive at a K of 0.001061 
+
+294
+00:12:02,500 --> 00:12:03,980
+. Please 
+
+295
+00:12:03,980 --> 00:12:06,300
+always take enough 
+
+296
+00:12:06,300 --> 00:12:08,000
+decimal places with such small numbers . 
+Two 
+
+297
+00:12:08,000 --> 00:12:09,240
+decimal places would be 
+
+298
+00:12:09,240 --> 00:12:10,240
+useless here , because that would be 
+
+299
+00:12:10,240 --> 00:12:12,060
+0 and the task would be invalid 
+
+300
+00:12:12,060 --> 00:12:16,400
+. OK, so that's our K 
+
+301
+00:12:16,400 --> 00:12:18,260
+now and we can now insert it 
+
+302
+00:12:18,260 --> 00:12:19,220
+into our function equation 
+
+303
+00:12:19,220 --> 00:12:21,440
+. We have 
+
+304
+00:12:21,440 --> 00:12:23,620
+done the same here and we now know that 
+
+305
+00:12:23,720 --> 00:12:28,580
+after 4 years or 1460 days, 
+
+306
+00:12:28,580 --> 00:12:30,120
+there will only be 1000 grams left. 
+
+307
+00:12:30,120 --> 00:12:33,100
+That means 1000 is equal to N0 times E to 
+the power of 
+
+308
+00:12:33,100 --> 00:12:39,240
+minus 0.001061 times 1460. The nice thing 
+
+309
+00:12:39,240 --> 00:12:41,300
+is that here, I can 
+
+310
+00:12:41,300 --> 00:12:42,100
+'t calculate the calculator, this 
+
+311
+00:12:42,100 --> 00:12:43,480
+is a number. We have to 
+
+312
+00:12:43,480 --> 00:12:44,980
+enter the calculator, the result is 0 
+
+313
+00:12:44,980 --> 00:12:48,320
+.212. That means 
+
+314
+00:12:48,320 --> 00:12:49,400
+we get  this equation and it looks 
+
+315
+00:12:49,400 --> 00:12:51,200
+much nicer. 1000 is 
+
+316
+00:12:51,200 --> 00:12:54,680
+equal to N0 times 0.212. Now we 
+
+317
+00:12:54,680 --> 00:12:56,680
+just divide by 0.212 and 
+
+318
+00:12:56,680 --> 00:13:01,680
+it says N0 is equal to 4710.33. This means 
+that 
+
+319
+00:13:01,760 --> 00:13:04,260
+our answer is that 
+
+320
+00:13:04,260 --> 00:13:08,180
+4.7103 kg of the material was 
+
+321
+00:13:08,180 --> 00:13:10,300
+present at the start of the measurement. 
+This also solves the problem 
+
+322
+00:13:10,300 --> 00:13:14,610
+. Now we come to the 
+
+323
+00:13:14,610 --> 00:13:17,050
+limited growth or limited 
+
+324
+00:13:17,050 --> 00:13:19,250
+decrease. The approach for this is N of T 
+
+325
+00:13:19,250 --> 00:13:22,050
+is equal to E plus or minus. Whether we 
+
+326
+00:13:22,050 --> 00:13:23,050
+have a plus or minus 
+
+327
+00:13:23,150 --> 00:13:24,550
+depends on whether we 
+
+328
+00:13:24,550 --> 00:13:28,290
+
+329
+00:13:28,290 --> 00:13:32,270
+have a limited decrease or a limited 
+increase. We have a plus for 
+
+330
+00:13:32,270 --> 00:13:34,570
+a limited decrease and a 
+
+331
+00:13:34,570 --> 00:13:36,430
+minus for a limited increase. 
+
+332
+00:13:36,750 --> 00:13:39,570
+So E plus minus A times E to the power of 
+minus 
+
+333
+00:13:39,570 --> 00:13:42,390
+KT. It is important to know that E 
+
+334
+00:13:42,390 --> 00:13:44,890
+is the upper or lower limit, 
+
+335
+00:13:44,890 --> 00:13:47,450
+depending on what you have. And E plus 
+
+336
+00:13:47,450 --> 00:13:52,090
+or minus A is the starting value. This 
+
+337
+00:13:52,090 --> 00:13:54,230
+is very important, because 
+
+338
+00:13:54,230 --> 00:13:55,510
+we now need it for our task. 
+
+339
+00:13:55,750 --> 00:13:58,390
+Namely, a warm drink cools down in 
+
+340
+00:13:58,390 --> 00:13:59,430
+a container. The 
+
+341
+00:13:59,430 --> 00:14:01,590
+ambient temperature is 21 degrees 
+
+342
+00:14:01,590 --> 00:14:04,010
+Celsius. The drink is initially 60 
+
+343
+00:14:04,010 --> 00:14:06,570
+degrees Celsius. After 5 minutes, 
+
+344
+00:14:06,570 --> 00:14:08,710
+the temperature is only 55 
+
+345
+00:14:08,710 --> 00:14:13,570
+degrees Celsius. First of all, we 
+
+346
+00:14:13,570 --> 00:14:15,090
+should always use the boundary conditions. 
+
+347
+00:14:15,170 --> 00:14:16,750
+This means an ambient temperature of 21 
+
+348
+00:14:16,750 --> 00:14:19,090
+degrees and an initial temperature of 60 
+degrees. 
+
+349
+00:14:19,250 --> 00:14:21,510
+The drink can of course only 
+
+350
+00:14:21,510 --> 00:14:23,290
+cool down to the ambient temperature, 
+
+351
+00:14:23,290 --> 00:14:26,070
+i.e. 21 degrees. That is our 
+
+352
+00:14:26,070 --> 00:14:29,450
+final temperature and therefore our E. E 
+
+353
+00:14:29,450 --> 00:14:33,390
+equals 21 degrees. And we know that 
+
+354
+00:14:33,470 --> 00:14:36,210
+the drink is 60 degrees 
+
+355
+00:14:36,210 --> 00:14:40,330
+at the start. That means E plus A equals 
+
+356
+00:14:40,330 --> 00:14:42,990
+60. We already know E and so 
+
+357
+00:14:42,990 --> 00:14:43,790
+we come up with this little 
+
+358
+00:14:43,790 --> 00:14:46,670
+equation. 21 plus A equals 60 
+
+359
+00:14:46,670 --> 00:14:48,230
+and then we know that A equals 20. 
+
+360
+00:14:48,250 --> 00:14:51,310
+39. We have thus 
+
+361
+00:14:51,310 --> 00:14:53,390
+determined two of our three variables. 
+
+362
+00:14:54,130 --> 00:14:56,490
+Our E and our A. What is still missing 
+
+363
+00:14:56,490 --> 00:14:58,830
+is our K. We can determine this using 
+
+364
+00:14:58,830 --> 00:15:00,530
+the last condition. We 
+
+365
+00:15:00,530 --> 00:15:01,890
+know that after five minutes 
+
+366
+00:15:01,890 --> 00:15:03,970
+the temperature will only be 55 
+
+367
+00:15:03,970 --> 00:15:06,590
+degrees Celsius. And that' 
+
+368
+00:15:06,590 --> 00:15:08,290
+s what we' re going to do now. So that's 
+
+369
+00:15:08,290 --> 00:15:11,530
+our current approach. And now we use 
+
+370
+00:15:11,530 --> 00:15:13,210
+the third condition and there 
+
+371
+00:15:13,210 --> 00:15:17,370
+we come across an equation 
+
+372
+00:15:17,370 --> 00:15:19,970
+we can 't get around, so 55 is 
+
+373
+00:15:19,970 --> 00:15:23,090
+equal to 21 plus 39 times e to the power 
+of minus k 
+
+374
+00:15:23,090 --> 00:15:27,630
+times 5, so the 55 for 55 degrees and the 
+
+375
+00:15:27,630 --> 00:15:31,150
+54 because the temperature 
+
+376
+00:15:31,150 --> 00:15:33,550
+is 55 degrees after five minutes 
+
+377
+00:15:33,550 --> 00:15:35,450
+
+378
+00:15:35,450 --> 00:15:36,950
+. 
+
+379
+00:15:36,950 --> 00:15:38,570
+In other words, if you 
+
+380
+00:15:38,570 --> 00:15:42,070
+want to get rid of the 21 here , you 
+calculate minus 21. 55 minus 
+
+381
+00:15:42,070 --> 00:15:45,330
+21 is 34. Then it says 34 is 
+
+382
+00:15:45,330 --> 00:15:48,170
+equal to 39 times e raised minus k times 
+5. 
+
+383
+00:15:49,290 --> 00:15:51,170
+Next, we try to 
+
+384
+00:15:51,170 --> 00:15:52,270
+isolate the power again. In other words, 
+we 
+
+385
+00:15:52,270 --> 00:15:55,330
+divide by 39. Then we get 34 
+
+386
+00:15:55,330 --> 00:15:58,170
+divided by 39 equals e raised to the power 
+of minus k 
+
+387
+00:15:58,170 --> 00:16:00,110
+times 5. This 
+
+388
+00:16:04,430 --> 00:16:05,690
+now goes back to the logarithm. 
+
+389
+00:16:07,810 --> 00:16:10,150
+Then we get the logarithm of 
+
+390
+00:16:10,150 --> 00:16:14,350
+34.39 is equal to minus k times 5. 
+
+391
+00:16:14,590 --> 00:16:16,710
+Therefore, we divide by minus 5 and 
+
+392
+00:16:16,710 --> 00:16:20,130
+arrive at a k of 0.027. 
+
+393
+00:16:23,960 --> 00:16:25,320
+We have 
+
+394
+00:16:25,320 --> 00:16:26,460
+already 
+
+395
+00:16:26,460 --> 00:16:29,220
+determined our functional equation . The 
+temperature 
+
+396
+00:16:29,220 --> 00:16:31,100
+as a function of side t is equal to 
+
+397
+00:16:31,100 --> 00:16:36,580
+21 plus 39 times e to the power of minus 
+0.027 T. 
+
+398
+00:16:37,560 --> 00:16:39,700
+The next question is, when is the 
+
+399
+00:16:39,700 --> 00:16:42,160
+drink only 20% warmer than the 
+
+400
+00:16:42,160 --> 00:16:44,940
+ambient temperature? First, 
+
+401
+00:16:44,940 --> 00:16:45,940
+of course, we have to determine the 
+
+402
+00:16:45,940 --> 00:16:48,400
+temperature we are looking for. 20% warmer 
+
+403
+00:16:48,400 --> 00:16:51,640
+than the ambient temperature is 21 times 
+
+404
+00:16:51,640 --> 00:16:57,180
+1.2, i.e. 25.2 degrees. Next, 
+
+405
+00:16:57,180 --> 00:16:58,860
+we equate our functional equation 
+
+406
+00:16:58,860 --> 00:17:01,480
+with the temperature. So 25.2 
+
+407
+00:17:01,480 --> 00:17:05,040
+is equal to 21 plus 39 times e to the 
+power of 
+
+408
+00:17:05,040 --> 00:17:10,060
+minus 0.027t. The time t is 
+
+409
+00:17:10,060 --> 00:17:11,140
+of course wanted and therefore 
+
+410
+00:17:11,140 --> 00:17:13,600
+unknown. Consequently, we try to 
+
+411
+00:17:13,600 --> 00:17:15,680
+rearrange the equation according to t. We 
+
+412
+00:17:15,680 --> 00:17:17,700
+start by 
+
+413
+00:17:17,700 --> 00:17:20,040
+dragging the 21 back over with a minus. 
+This gives us 
+
+414
+00:17:20,040 --> 00:17:23,840
+4.2, which is equal to 39 times e raised 
+to the power of minus 0 
+
+415
+00:17:23,840 --> 00:17:27,620
+.027t. Next, we divide 
+
+416
+00:17:27,620 --> 00:17:29,340
+by 39  again to 
+
+417
+00:17:29,340 --> 00:17:31,760
+isolate our potential. Then we arrive at 
+4.29 
+
+418
+00:17:31,760 --> 00:17:35,740
+equals e to the power minus 0.027t. 
+
+419
+00:17:36,580 --> 00:17:40,580
+Next again, our variable is 
+
+420
+00:17:40,580 --> 00:17:42,540
+once again in the exponent, so 
+
+421
+00:17:42,540 --> 00:17:43,740
+we need the logarithm again. 
+
+422
+00:17:44,080 --> 00:17:45,280
+Here we have an e-function 
+
+423
+00:17:45,360 --> 00:17:46,560
+, so we take the 
+
+424
+00:17:46,560 --> 00:17:49,000
+logarithm of Naturales again and then 
+
+425
+00:17:49,000 --> 00:17:51,920
+the ln of 4.2 divided by 39 is equal to 
+
+426
+00:17:51,920 --> 00:17:56,400
+minus 0.027 times t. We just divide it 
+
+427
+00:17:56,400 --> 00:17:58,860
+by minus 0.027 and then 
+
+428
+00:17:58,860 --> 00:18:01,600
+we get T is equal to 8.25. This 
+
+429
+00:18:01,600 --> 00:18:04,040
+means we can say that after 8.25 
+
+430
+00:18:04,040 --> 00:18:06,480
+minutes or 8 minutes and 15 
+
+431
+00:18:06,480 --> 00:18:09,380
+seconds, the temperature is only 
+
+432
+00:18:09,380 --> 00:18:10,900
+20% above the 
+
+433
+00:18:10,900 --> 00:18:11,800
+ambient temperature. 
+
+434
+00:18:14,510 --> 00:18:16,440
+And that brings us to 
+
+435
+00:18:16,440 --> 00:18:18,180
+our last type of growth, which is 
+
+436
+00:18:18,180 --> 00:18:22,100
+logistic growth. 
+
+437
+00:18:22,100 --> 00:18:23,640
+Logistic growth is always 
+
+438
+00:18:23,640 --> 00:18:25,320
+used when growth 
+
+439
+00:18:25,320 --> 00:18:27,180
+begins exponentially and 
+
+440
+00:18:27,180 --> 00:18:31,080
+ends in a limited way. 
+
+441
+00:18:31,300 --> 00:18:34,660
+The growth factor therefore 
+
+442
+00:18:34,660 --> 00:18:36,480
+not only describes the constant form of 
+
+443
+00:18:36,480 --> 00:18:38,260
+decrease and increase, but also 
+
+444
+00:18:38,260 --> 00:18:39,920
+changes as the value 
+
+445
+00:18:39,920 --> 00:18:42,440
+of n increases . In other words, our 
+
+446
+00:18:42,440 --> 00:18:44,360
+growth factor, as we can see here, 
+
+447
+00:18:44,460 --> 00:18:46,660
+n' of t is not constant, but 
+
+448
+00:18:46,660 --> 00:18:50,460
+k-dn times n and that is the big 
+
+449
+00:18:50,460 --> 00:18:51,840
+difference between the normal 
+
+450
+00:18:51,840 --> 00:18:53,960
+growth we had earlier. And 
+
+451
+00:18:53,960 --> 00:18:55,640
+that's why we now have a 
+
+452
+00:18:55,640 --> 00:18:57,900
+growth function that 
+
+453
+00:18:57,900 --> 00:19:00,620
+is a little more complex. N of T is equal 
+to N0 
+
+454
+00:19:00,620 --> 00:19:04,120
+times E to the power of KT by 1 minus D by 
+K 
+
+455
+00:19:04,120 --> 00:19:09,760
+times N0 times E to the power of KT minus 
+1. It is important to 
+
+456
+00:19:09,760 --> 00:19:13,140
+note that K is still our 
+
+457
+00:19:13,140 --> 00:19:16,160
+growth coefficient and D is our 
+
+458
+00:19:16,160 --> 00:19:18,900
+depression coefficient. The 
+
+459
+00:19:18,900 --> 00:19:22,280
+final stock that results is D 
+
+460
+00:19:22,280 --> 00:19:24,100
+divided by K. This is a very important 
+
+461
+00:19:24,100 --> 00:19:26,180
+relationship that we need in order to 
+
+462
+00:19:26,180 --> 00:19:27,380
+include the functional equation. 
+
+463
+00:19:28,120 --> 00:19:30,560
+Because, of course, we have a small 
+
+464
+00:19:30,560 --> 00:19:30,980
+example. 
+
+465
+00:19:56,400 --> 00:19:57,820
+Student spreads the rumor, this 
+
+466
+00:19:57,820 --> 00:20:02,200
+student is 0.001 of the student body, 
+
+467
+00:20:02,240 --> 00:20:06,180
+i.e. 0.1% of the student body. And the 
+
+468
+00:20:06,180 --> 00:20:08,560
+7 students who know at 8 o'clock, 
+
+469
+00:20:08,660 --> 00:20:09,700
+excuse me, one hour 
+
+470
+00:20:09,700 --> 00:20:11,460
+later, are 
+
+471
+00:20:11,460 --> 00:20:14,880
+accordingly 0.007, i.e. 0.7%. 
+
+472
+00:20:14,880 --> 00:20:17,680
+It follows, of course, that 
+
+473
+00:20:17,680 --> 00:20:19,340
+if all pupils know 
+
+474
+00:20:19,480 --> 00:20:23,000
+, that is 1, so D divided by K 
+
+475
+00:20:23,000 --> 00:20:26,080
+equals 1. This is very important 
+
+476
+00:20:26,080 --> 00:20:30,660
+for our approach, because it looks like 
+this 
+
+477
+00:20:30,660 --> 00:20:35,280
+. 0.001 times e to the power of kt divided 
+by 1 
+
+478
+00:20:35,280 --> 00:20:38,820
+minus 0.001 times e to the power of kt 
+minus 1. 
+
+479
+00:20:39,060 --> 00:20:42,740
+This is simply the initial value, 
+
+480
+00:20:42,780 --> 00:20:45,320
+one pupil at 8 o'clock. This is 
+
+481
+00:20:45,320 --> 00:20:50,380
+our final value and that's where we 
+
+482
+00:20:50,380 --> 00:20:53,500
+start. The important thing is that we 
+
+483
+00:20:53,500 --> 00:20:58,280
+have to determine the k. That's why 
+
+484
+00:20:58,280 --> 00:20:59,240
+
+485
+00:21:04,640 --> 00:21:07,460
+up to seven students know. 0.007 
+
+486
+00:21:07,460 --> 00:21:10,800
+is equal to 0.001 times e to the power of 
+k by 1 
+
+487
+00:21:10,800 --> 00:21:17,540
+plus 0.001 times e to the power of k minus 
+1. 
+
+488
+00:21:17,540 --> 00:21:19,220
+First, we now multiply by 
+
+489
+00:21:19,220 --> 00:21:21,040
+the complete denominator so that the e 
+
+490
+00:21:21,040 --> 00:21:22,280
+ function comes to the other side 
+
+491
+00:21:22,280 --> 00:21:25,700
+and comes out of the denominator. 
+
+492
+00:21:25,700 --> 00:21:31,560
+This results in 0.007 times parenthesis to 
+1 plus 0 
+
+493
+00:21:31,560 --> 00:21:35,140
+.001 times parenthesis to e to the power 
+of k minus 1 
+
+494
+00:21:35,140 --> 00:21:38,640
+parenthesis to parenthesis. This is equal 
+to 
+
+495
+00:21:38,640 --> 00:21:44,620
+0.001 times e to the power of k and next 
+
+496
+00:21:44,620 --> 00:21:45,840
+we 
+
+497
+00:21:45,840 --> 00:21:50,420
+resolve these two brackets here. In other 
+words, we multiply 
+
+498
+00:21:50,420 --> 00:21:53,680
+them both out, i.e. 0.007 times 0.007 
+
+499
+00:21:53,680 --> 00:21:56,860
+times 1, which is 0.007 here. Then 
+
+500
+00:21:56,860 --> 00:22:01,240
+we continue with 0.007 times 0.001 
+
+501
+00:22:01,240 --> 00:22:04,000
+times e to the power of k, which is 7 
+times 10 
+
+502
+00:22:04,000 --> 00:22:09,580
+to the power of minus 6 e to the power of 
+k. Then 0.007 times 
+
+503
+00:22:09,580 --> 00:22:12,980
+0.001 times minus 1, which is minus 7 
+
+504
+00:22:12,980 --> 00:22:16,300
+times 10 to the power of minus 6. This is 
+equal to 0 
+
+505
+00:22:16,300 --> 00:22:19,380
+.001 times e to the power of k. We 
+
+506
+00:22:21,780 --> 00:22:26,980
+now continue to try to 
+
+507
+00:22:26,980 --> 00:22:28,720
+isolate our E or to 
+
+508
+00:22:28,720 --> 00:22:30,800
+isolate our E to the power of K. We now 
+want to 
+
+509
+00:22:30,800 --> 00:22:32,940
+summarize this on the right-hand side and 
+
+510
+00:22:32,940 --> 00:22:35,240
+that's why we move it 
+
+511
+00:22:35,240 --> 00:22:36,100
+over first. 
+
+512
+00:22:38,940 --> 00:22:41,020
+So we calculate minus 7 times 10 to the 
+power of 
+
+513
+00:22:41,020 --> 00:22:43,560
+minus 6 E to the power of K so that the 
+part appears on 
+
+514
+00:22:43,560 --> 00:22:45,780
+the other side. We 
+
+515
+00:22:45,780 --> 00:22:50,740
+get 0.007-7-10-6 is equal to 0 
+
+516
+00:22:50,740 --> 00:22:57,900
+.001-7-10-6 times e to the power of k. So 
+we 
+
+517
+00:22:57,900 --> 00:22:58,920
+'ve already summarized that right away 
+
+518
+00:22:58,920 --> 00:23:03,320
+and only have 
+
+519
+00:23:03,320 --> 00:23:06,760
+e to the power of k there. And the 
+
+520
+00:23:06,760 --> 00:23:08,180
+only thing we have to do now 
+
+521
+00:23:08,180 --> 00:23:10,260
+to isolate our e to the power of k is to 
+
+522
+00:23:10,260 --> 00:23:12,000
+divide by the brackets here again. 
+
+523
+00:23:13,620 --> 00:23:17,060
+If we divide by 0.001 minus 7 times 10 
+
+524
+00:23:17,060 --> 00:23:19,600
+to the power of minus 6, we get 
+
+525
+00:23:19,600 --> 00:23:21,440
+this nice fraction and see that our 
+
+526
+00:23:21,440 --> 00:23:24,440
+e to the power of k stands alone. And now 
+
+527
+00:23:24,440 --> 00:23:26,980
+comes a well-known calculation technique. 
+
+528
+00:23:27,240 --> 00:23:29,580
+We use the logarithm 
+
+529
+00:23:29,580 --> 00:23:33,300
+
+530
+00:23:33,300 --> 00:23:34,840
+to get the k out of our exponent . So we 
+now form 
+
+531
+00:23:34,840 --> 00:23:38,080
+the logarithm of 0.007 minus 7 times 
+
+532
+00:23:38,080 --> 00:23:42,460
+10 to the power of minus 6 by 0.001 minus 
+7 
+
+533
+00:23:42,620 --> 00:23:46,320
+times 10 to the power of minus 6. And that 
+is then 
+
+534
+00:23:46,320 --> 00:23:48,300
+equal to our k and if we 
+
+535
+00:23:48,300 --> 00:23:49,820
+enter this term here in the calculator, 
+
+536
+00:23:49,840 --> 00:23:52,680
+the logarithm, we get 1.952 
+
+537
+00:23:53,900 --> 00:23:55,780
+. Consequently, our 
+
+538
+00:23:55,780 --> 00:23:59,460
+growth function n of t is 0.001 times e 
+
+539
+00:23:59,460 --> 00:24:05,600
+to the power of 1.952t by 1 minus 0.001 
+times E 
+
+540
+00:24:05,600 --> 00:24:12,220
+to the power of 1.952t minus 1. The task 
+is then 
+
+541
+00:24:12,220 --> 00:24:16,120
+already solved. 
+
+542
+00:24:16,120 --> 00:24:17,220
+Thank you for your attention. 

@@ -1,0 +1,674 @@
+﻿1
+00:00:00,530 --> 00:00:02,210
+Hello and welcome to the 
+
+2
+00:00:02,210 --> 00:00:04,090
+Schülerhilfe learning videos. 
+
+3
+00:00:04,090 --> 00:00:05,350
+This video is about the 
+
+4
+00:00:05,350 --> 00:00:07,470
+underlining method. The 
+
+5
+00:00:07,470 --> 00:00:08,930
+underlining method 
+
+6
+00:00:08,930 --> 00:00:10,410
+is particularly helpful when translating 
+
+7
+00:00:10,410 --> 00:00:12,690
+longer texts in order to 
+
+8
+00:00:12,690 --> 00:00:14,490
+illustrate the text. With the 
+
+9
+00:00:14,490 --> 00:00:16,410
+underlining method 
+
+10
+00:00:16,410 --> 00:00:19,370
+, the first thing we do is look for all 
+verbal information 
+
+11
+00:00:19,370 --> 00:00:21,650
+in the text. This means that we 
+
+12
+00:00:21,650 --> 00:00:24,310
+mark all predicates, i.e. 
+
+13
+00:00:24,310 --> 00:00:27,690
+all finite verb forms. 
+
+14
+00:00:27,690 --> 00:00:29,030
+We also mark the 
+
+15
+00:00:29,030 --> 00:00:31,790
+introductory words of subordinate clauses 
+and 
+
+16
+00:00:31,790 --> 00:00:34,750
+the non-finite verb forms, which then 
+
+17
+00:00:34,750 --> 00:00:37,130
+indicate sentence-value constructions. 
+
+18
+00:00:37,250 --> 00:00:39,570
+To 
+
+19
+00:00:39,570 --> 00:00:41,270
+continue the underlining method , I have 
+
+20
+00:00:41,270 --> 00:00:43,870
+brought you the following example, which 
+
+21
+00:00:43,870 --> 00:00:45,350
+comes from Caesar's Debello Gallico. 
+
+22
+00:01:06,050 --> 00:01:11,150
+To 
+
+23
+00:01:11,150 --> 00:01:13,550
+translate this somewhat convoluted, longer 
+passage of text, 
+
+24
+00:01:13,590 --> 00:01:15,590
+let's first look at the 
+
+25
+00:01:15,590 --> 00:01:17,370
+finite verbs. form, i.e. the 
+
+26
+00:01:17,370 --> 00:01:19,550
+predicates. You can see these 
+
+27
+00:01:19,550 --> 00:01:22,370
+marked in orange here in the text. It's 
+important to note 
+
+28
+00:01:22,370 --> 00:01:24,170
+that the indicator at the back 
+
+29
+00:01:24,170 --> 00:01:26,490
+is the personal ending so that you 
+
+30
+00:01:26,490 --> 00:01:29,550
+can find the predicates. 
+
+31
+00:01:29,550 --> 00:01:31,270
+Next, let's take a look 
+
+32
+00:01:31,270 --> 00:01:34,790
+at the corresponding subjects. These 
+
+33
+00:01:34,790 --> 00:01:36,990
+can also 
+
+34
+00:01:36,990 --> 00:01:39,010
+be contained in the personal endings , 
+otherwise the 
+
+35
+00:01:39,010 --> 00:01:42,150
+subjects in the case are nominative. 
+
+36
+00:01:42,150 --> 00:01:45,010
+In this case, we can see that Helvetii is 
+
+37
+00:01:45,010 --> 00:01:48,050
+a subject and Ipsi too, with 
+
+38
+00:01:48,050 --> 00:01:53,430
+Ipsi referring to Helvetii. In the first 
+
+39
+00:01:53,430 --> 00:01:54,890
+step, we also mark all the 
+
+40
+00:01:54,890 --> 00:01:57,250
+introductory words of subordinate clauses, 
+
+41
+00:01:57,510 --> 00:02:00,630
+here Cum, Quod and Ut, which 
+
+42
+00:02:00,630 --> 00:02:02,550
+indicate that a 
+
+43
+00:02:02,550 --> 00:02:05,830
+subordinate clause follows. Then we can 
+also 
+
+44
+00:02:05,830 --> 00:02:08,190
+mark all subordinate clauses separately, 
+for 
+
+45
+00:02:08,190 --> 00:02:10,790
+example with square brackets. Then 
+
+46
+00:02:10,790 --> 00:02:12,890
+we can see when a clause begins 
+
+47
+00:02:12,890 --> 00:02:16,370
+and where it ends. Here you can see the 
+
+48
+00:02:16,370 --> 00:02:19,070
+quad as a relative pronoun, which refers 
+
+49
+00:02:19,070 --> 00:02:20,970
+to it, it could also be a 
+
+50
+00:02:20,970 --> 00:02:22,730
+factual quad, in which case it would 
+
+51
+00:02:22,730 --> 00:02:23,870
+be translated differently. 
+
+52
+00:02:27,650 --> 00:02:29,550
+Next, in the second step, 
+
+53
+00:02:29,630 --> 00:02:31,010
+we look at all 
+
+54
+00:02:31,010 --> 00:02:33,610
+non-finite verb forms, for example 
+
+55
+00:02:33,610 --> 00:02:37,850
+here comotia. This shows us that 
+
+56
+00:02:37,850 --> 00:02:40,950
+we have a partikipium conjunctum, or 
+
+57
+00:02:40,950 --> 00:02:44,370
+PC for short. It is important that there 
+
+58
+00:02:44,370 --> 00:02:46,630
+
+59
+00:02:47,030 --> 00:02:49,350
+
+60
+00:02:49,390 --> 00:02:51,490
+is always a reference word in such a 
+sentential construction or in such a 
+conjunctive participle . 
+
+61
+00:02:51,850 --> 00:02:55,010
+This is then in KNG congruence with 
+
+62
+00:02:55,010 --> 00:02:58,170
+Komotii and we see that it is 
+
+63
+00:02:58,170 --> 00:03:01,210
+Helvetii, we 
+
+64
+00:03:01,210 --> 00:03:04,250
+then also mark the reference with an 
+arrow. Since these 
+
+65
+00:03:04,250 --> 00:03:07,210
+two Helvetii and Komoti 
+
+66
+00:03:07,210 --> 00:03:09,870
+form a frame position and the rest 
+
+67
+00:03:09,870 --> 00:03:12,250
+of this sentential construction 
+
+68
+00:03:12,250 --> 00:03:14,110
+is in the middle, we can 
+
+69
+00:03:14,110 --> 00:03:16,410
+also 
+
+70
+00:03:16,410 --> 00:03:18,930
+put square brackets around it 
+
+71
+00:03:18,930 --> 00:03:20,830
+to 
+
+72
+00:03:20,830 --> 00:03:25,370
+separate the conjunctive particle from the 
+rest. Next, we see 
+
+73
+00:03:25,370 --> 00:03:26,610
+that there is also 
+
+74
+00:03:26,610 --> 00:03:28,490
+another non-finite verb form. 
+
+75
+00:03:28,690 --> 00:03:31,650
+Below here is the fekisse, which is an 
+
+76
+00:03:31,650 --> 00:03:34,210
+infinitive, and because we then 
+
+77
+00:03:34,210 --> 00:03:37,050
+see the inteleggerent, which 
+
+78
+00:03:37,050 --> 00:03:39,510
+is an ACI trigger verb, understand that 
+
+79
+00:03:39,510 --> 00:03:41,930
+means, for example, we 
+
+80
+00:03:41,930 --> 00:03:43,250
+then recognize that 
+
+81
+00:03:43,250 --> 00:03:45,730
+there is also an ACI below here. We have 
+marked this 
+
+82
+00:03:45,730 --> 00:03:48,190
+in green here. There is also 
+
+83
+00:03:48,190 --> 00:03:51,090
+a reference word for this , the 
+
+84
+00:03:51,090 --> 00:03:54,990
+subject accusative "-ilum", which we 
+
+85
+00:03:54,990 --> 00:03:56,650
+then also mark in green and 
+
+86
+00:03:56,650 --> 00:03:58,210
+
+87
+00:03:58,210 --> 00:04:01,910
+illustrate the reference again with an 
+arrow . Now you can already see 
+
+88
+00:04:01,990 --> 00:04:03,690
+that an 
+
+89
+00:04:03,690 --> 00:04:06,570
+object is missing at the same level. In 
+
+90
+00:04:06,570 --> 00:04:08,950
+this case , the object is "-it", which 
+
+91
+00:04:11,380 --> 00:04:13,740
+is at the top here, and 
+
+92
+00:04:13,740 --> 00:04:16,360
+we can see from this that the first 
+subordinate clause 
+
+93
+00:04:16,360 --> 00:04:19,220
+"-cum it" above 
+
+94
+00:04:19,320 --> 00:04:22,020
+is on the same level as Illum uno de 
+verkisse 
+
+95
+00:04:22,020 --> 00:04:24,700
+intelegger and that these two 
+
+96
+00:04:24,700 --> 00:04:27,500
+parts belong together. Cum it 
+
+97
+00:04:27,500 --> 00:04:29,140
+lacks a predicate anyway, 
+
+98
+00:04:29,300 --> 00:04:30,740
+so it is not a complete 
+
+99
+00:04:30,740 --> 00:04:35,140
+subordinate clause. We can now 
+
+100
+00:04:35,140 --> 00:04:37,760
+mark the ACI with 
+
+101
+00:04:37,760 --> 00:04:40,080
+square brackets again so 
+
+102
+00:04:40,080 --> 00:04:41,700
+that we know that it is present here. 
+
+103
+00:04:44,430 --> 00:04:46,070
+Next, let's move on to the 
+
+104
+00:04:46,070 --> 00:04:47,630
+translation. You can 
+
+105
+00:04:47,630 --> 00:04:49,170
+already see it displayed here in full and 
+I'll 
+
+106
+00:04:49,170 --> 00:04:51,610
+read it out once. The Helvetii 
+
+107
+00:04:51,610 --> 00:04:53,510
+were 
+
+108
+00:04:53,510 --> 00:04:56,250
+very moved by his sudden arrival , because 
+when they realized 
+
+109
+00:04:56,330 --> 00:04:59,010
+that he, Caesar, 
+
+110
+00:04:59,010 --> 00:05:01,030
+
+111
+00:05:01,030 --> 00:05:03,250
+
+112
+00:05:03,250 --> 00:05:05,550
+
+113
+00:05:05,550 --> 00:05:07,650
+
+114
+00:05:07,650 --> 00:05:09,610
+had done in a single day what they 
+themselves had only accomplished with 
+extreme difficulty in 20 days , namely to 
+cross the river or that they had crossed 
+the river, they 
+
+115
+00:05:09,610 --> 00:05:12,410
+sent envoys to him. 
+
+116
+00:05:12,410 --> 00:05:14,050
+Now this is a big flood 
+
+117
+00:05:14,050 --> 00:05:15,510
+of translation. You would 
+
+118
+00:05:15,510 --> 00:05:16,970
+
+119
+00:05:16,970 --> 00:05:19,270
+proceed step by step in your translation. 
+It is easiest if 
+
+120
+00:05:19,270 --> 00:05:21,330
+you first translate the predicates 
+
+121
+00:05:21,330 --> 00:05:23,710
+and then the introductory words of 
+
+122
+00:05:23,710 --> 00:05:25,490
+the subordinate clauses, just as we did 
+
+123
+00:05:25,490 --> 00:05:27,070
+in the first step. 
+
+124
+00:05:27,350 --> 00:05:28,510
+Let's take 
+
+125
+00:05:28,510 --> 00:05:30,290
+a closer look at these introductory words. 
+
+126
+00:05:34,370 --> 00:05:37,350
+First you see the cum was 
+
+127
+00:05:37,350 --> 00:05:39,690
+translated because or as. 
+
+128
+00:05:42,690 --> 00:05:46,890
+Then comes the quod, which 
+
+129
+00:05:46,890 --> 00:05:48,330
+is translated as was. 
+
+130
+00:05:51,420 --> 00:05:54,480
+And the O-phrase, which in this case is 
+
+131
+00:05:54,480 --> 00:05:58,420
+
+132
+00:05:58,420 --> 00:06:00,740
+translated with. with nämlich and zu, i.e. 
+with an infinitive, or 
+
+133
+00:06:00,740 --> 00:06:02,720
+with the possibility in brackets, where 
+
+134
+00:06:02,720 --> 00:06:04,800
+it is translated more literally and is 
+
+135
+00:06:04,800 --> 00:06:07,360
+then introduced with das. Once you 
+
+136
+00:06:07,360 --> 00:06:09,680
+have translated all the predicates and 
+
+137
+00:06:09,680 --> 00:06:11,780
+have already 
+
+138
+00:06:11,780 --> 00:06:13,240
+written down and 
+
+139
+00:06:13,240 --> 00:06:15,040
+formulated the introductory words of the 
+subordinate clauses , 
+
+140
+00:06:15,040 --> 00:06:16,760
+simply fill in the rest of your 
+translation with 
+
+141
+00:06:16,760 --> 00:06:19,680
+the text. It is also important to note 
+
+142
+00:06:19,760 --> 00:06:21,760
+how I 
+
+143
+00:06:21,760 --> 00:06:23,700
+have translated the conjunctive participle 
+. In this case, I have 
+
+144
+00:06:23,700 --> 00:06:26,060
+translated it as an order. 
+
+145
+00:06:26,060 --> 00:06:28,880
+You can see that below. And, 
+
+146
+00:06:28,880 --> 00:06:32,580
+therefore or and thereby. That was 
+
+147
+00:06:32,580 --> 00:06:34,340
+
+148
+00:06:34,340 --> 00:06:36,520
+chosen here as the order for the 
+conjunctive participle. 
+
+149
+00:06:36,520 --> 00:06:38,880
+So there are two main clauses. 
+
+150
+00:06:38,880 --> 00:06:40,160
+Of course, you can 
+
+151
+00:06:40,160 --> 00:06:42,060
+choose how you 
+
+152
+00:06:42,060 --> 00:06:43,640
+want to translate it and how it 
+
+153
+00:06:43,640 --> 00:06:45,900
+sounds best . It is also important to note 
+that 
+
+154
+00:06:45,900 --> 00:06:47,020
+different senses 
+
+155
+00:06:47,020 --> 00:06:49,040
+can be chosen here. Therefore, 
+
+156
+00:06:49,040 --> 00:06:51,100
+for example, causal, you could also 
+
+157
+00:06:51,100 --> 00:06:54,440
+choose temporal. 
+
+158
+00:06:54,440 --> 00:06:55,560
+It is also important that you don't use 
+the 
+
+159
+00:06:55,560 --> 00:06:56,620
+interlacing 
+
+160
+00:06:56,620 --> 00:06:58,320
+found in the original text in the 
+
+161
+00:06:58,320 --> 00:07:01,560
+German translation. 
+
+162
+00:07:01,560 --> 00:07:02,380
+Thank you for your 
+
+163
+00:07:02,380 --> 00:07:04,460
+attention. Bye, see you 
+
+164
+00:07:04,460 --> 00:07:04,960
+next time. 

@@ -1,0 +1,516 @@
+1
+00:00:03,890 --> 00:00:05,530
+Mein Name ist Joshua und ich bin
+
+2
+00:00:05,530 --> 00:00:07,210
+Nachhilfelehrer bei der Schülerhilfe.
+
+3
+00:00:07,510 --> 00:00:09,370
+Willkommen zum zweiten Video zum
+
+4
+00:00:09,370 --> 00:00:11,990
+Thema Orbitale. Falls du das Video zu
+
+5
+00:00:11,990 --> 00:00:13,450
+den Grundlagen von Orbitalen noch
+
+6
+00:00:13,450 --> 00:00:14,810
+nicht gesehen hast, schaust dir doch
+
+7
+00:00:14,810 --> 00:00:16,230
+gerne einmal in unserem Online
+
+8
+00:00:16,230 --> 00:00:18,770
+-Lerncenter an. Wiederholen wir
+
+9
+00:00:18,770 --> 00:00:20,210
+einmal kurz die Grundlagen zu
+
+10
+00:00:20,210 --> 00:00:23,530
+Orbitalen. Erstens, Orbitale geben
+
+11
+00:00:23,530 --> 00:00:26,190
+an, wo sich ein Elektron mit 90%iger
+
+12
+00:00:26,190 --> 00:00:29,030
+Wahrscheinlichkeit auffällt. 2. Es
+
+13
+00:00:29,030 --> 00:00:31,110
+gibt sechs verschiedene Orbitale,
+
+14
+00:00:31,150 --> 00:00:32,670
+verteilt auf unterschiedliche
+
+15
+00:00:32,670 --> 00:00:35,390
+Hauptquantenzahlen, wobei S-, P- und
+
+16
+00:00:35,390 --> 00:00:37,550
+D-Orbitale die zumeist genutzten
+
+17
+00:00:37,550 --> 00:00:40,850
+Orbitalformen sind. 3. Jedes dieser
+
+18
+00:00:40,850 --> 00:00:42,410
+genannten Orbitale beinhalten
+
+19
+00:00:42,410 --> 00:00:44,870
+höchstens zwei Elektronen. 4.
+
+20
+00:00:45,550 --> 00:00:47,790
+Schreibt man alle belegten Orbitale
+
+21
+00:00:47,790 --> 00:00:48,930
+aus, so erhält man die
+
+22
+00:00:48,930 --> 00:00:51,570
+Elektronenkonfiguration. Das erste
+
+23
+00:00:51,570 --> 00:00:53,390
+Beispiel, dem wir uns heute widmen,
+
+24
+00:00:53,490 --> 00:00:55,730
+ist das Element Schwefel. Schwefel
+
+25
+00:00:55,730 --> 00:00:57,710
+besitzt 16 Elektronen, die sich auf
+
+26
+00:00:57,710 --> 00:00:59,070
+verschiedene Orbitale in
+
+27
+00:00:59,070 --> 00:01:00,390
+verschiedenen Hauptquantenzahlen
+
+28
+00:01:00,390 --> 00:01:03,010
+verteilen. Um herauszufinden, wie
+
+29
+00:01:03,010 --> 00:01:04,610
+diese Verteilung aussieht, ist es
+
+30
+00:01:04,610 --> 00:01:06,170
+hilfreich, nach dem folgenden Schema
+
+31
+00:01:06,170 --> 00:01:09,910
+vorzugehen. 1. Notieren der einzelnen
+
+32
+00:01:09,910 --> 00:01:11,330
+Hauptquantenzahlen und der dort
+
+33
+00:01:11,330 --> 00:01:15,270
+vorhandenen Orbitale. 2. Nun ordnet
+
+34
+00:01:15,270 --> 00:01:17,070
+man den orbitalen Elektronen zu.
+
+35
+00:01:17,210 --> 00:01:19,250
+Immer wenn ein Orbital voll besetzt
+
+36
+00:01:19,250 --> 00:01:20,690
+ist, geht man zum nächsten über.
+
+37
+00:01:20,690 --> 00:01:24,790
+Demnach gilt, 1s erhält 2 Elektronen,
+
+38
+00:01:24,790 --> 00:01:28,910
+2s auch, alle 3p-Orbitale werden mit
+
+39
+00:01:28,910 --> 00:01:32,090
+je 2 Elektronen besetzt, 3s bekommt 2
+
+40
+00:01:32,090 --> 00:01:34,970
+Elektronen, bei 3p kommt jetzt eine
+
+41
+00:01:34,970 --> 00:01:37,150
+Besonderheit zum Vorschein. Es sind
+
+42
+00:01:37,150 --> 00:01:39,270
+noch 4 Elektronen zu verteilen, doch
+
+43
+00:01:39,270 --> 00:01:41,630
+statt 2p-Orbitalen vollständig zu
+
+44
+00:01:41,630 --> 00:01:43,850
+besetzen, werden alle 3 ausgebildet,
+
+45
+00:01:43,870 --> 00:01:46,190
+sodass es 2p-Orbitale mit jeweils
+
+46
+00:01:46,190 --> 00:01:47,770
+einem Elektronen gibt und ein p
+
+47
+00:01:47,770 --> 00:01:50,410
+-Orbital mit 2. Nun kann man die
+
+48
+00:01:50,410 --> 00:01:52,090
+Elektronenkonfiguration aufstellen.
+
+49
+00:01:52,270 --> 00:01:55,530
+Für Schwefel lautet sie 1s mit der
+
+50
+00:01:55,530 --> 00:01:58,570
+hochgestellten 2, 2s ebenfalls mit
+
+51
+00:01:58,570 --> 00:02:01,350
+der hochgestellten 2, 2p mit einer
+
+52
+00:02:01,350 --> 00:02:04,850
+hochgestellten 6, 3s wieder mit einer
+
+53
+00:02:04,850 --> 00:02:07,850
+hochgestellten 2 und 3p, Achtung,
+
+54
+00:02:07,850 --> 00:02:09,450
+diesmal mit einer hochgestellten 4.
+
+55
+00:02:10,590 --> 00:02:12,790
+Doch wieso werden die 3p-Orbitale so
+
+56
+00:02:12,790 --> 00:02:15,350
+besetzt? Als die Elektronen in der
+
+57
+00:02:15,350 --> 00:02:17,190
+äußersten Schale werden sie genutzt,
+
+58
+00:02:17,190 --> 00:02:18,810
+um Verbindungen mit anderen Atomen
+
+59
+00:02:18,810 --> 00:02:21,190
+einzugehen. Das geht aber nur, wenn
+
+60
+00:02:21,190 --> 00:02:23,050
+die Orbitale nicht voll besetzt sind.
+
+61
+00:02:23,470 --> 00:02:25,230
+Hierfür gibt es auch eine hilfreiche
+
+62
+00:02:25,230 --> 00:02:26,790
+Schreibweise, und zwar das
+
+63
+00:02:26,790 --> 00:02:29,510
+Energieniveau-Schema. Das niedrigste
+
+64
+00:02:29,510 --> 00:02:32,730
+Energieniveau besitzt das 1s-Orbital.
+
+65
+00:02:32,890 --> 00:02:34,790
+Die beiden Pfeile innerhalb des
+
+66
+00:02:34,790 --> 00:02:37,070
+Orbitalkastens stellen die Elektronen
+
+67
+00:02:37,070 --> 00:02:40,670
+dar. Es folgt das 2s-Orbital. Danach
+
+68
+00:02:40,670 --> 00:02:42,610
+die ebenfalls vollbesetzten 2p
+
+69
+00:02:42,610 --> 00:02:44,990
+-Orbitale, von denen es drei Stück
+
+70
+00:02:44,990 --> 00:02:48,050
+gibt. Dann das 3s-Orbital und zum
+
+71
+00:02:48,050 --> 00:02:50,590
+Schluss die 3p-Orbitale, von denen es
+
+72
+00:02:50,590 --> 00:02:52,710
+eines vollbesetzt ist und zwei
+
+73
+00:02:52,710 --> 00:02:55,390
+einfach besetzt sind. Beim Mangan
+
+74
+00:02:55,390 --> 00:02:57,110
+kann man noch eine Besonderheit
+
+75
+00:02:57,110 --> 00:02:59,010
+bemerken. Hier lautet die
+
+76
+00:02:59,010 --> 00:03:02,350
+Elektronenkonfiguration 1s mit der
+
+77
+00:03:02,350 --> 00:03:05,030
+hochgestellten 2, 2s mit der
+
+78
+00:03:05,030 --> 00:03:07,830
+hochgestellten 2 2p mit der
+
+79
+00:03:07,830 --> 00:03:10,290
+hochgestellten 6, 3s mit der
+
+80
+00:03:10,290 --> 00:03:13,730
+hochgestellten 2, 3p wieder mit einer
+
+81
+00:03:13,730 --> 00:03:16,230
+hochgestellten 6, 4s mit der
+
+82
+00:03:16,230 --> 00:03:19,190
+hochgestellten 2 und 3d mit der
+
+83
+00:03:19,190 --> 00:03:22,390
+hochgestellten 5. Doch wieso steht
+
+84
+00:03:22,390 --> 00:03:25,610
+das 4.s-Orbital vor dem 3.d-Orbital?
+
+85
+00:03:26,370 --> 00:03:28,650
+Das kommt daher, dass man in
+
+86
+00:03:28,650 --> 00:03:31,070
+Hauptquantenzahl-Orbitalschema nicht
+
+87
+00:03:31,070 --> 00:03:33,230
+die Reihen abarbeitet, sondern nach
+
+88
+00:03:33,230 --> 00:03:34,630
+den von den Pfeilen markierten
+
+89
+00:03:34,630 --> 00:03:37,530
+Diagonalen vorgeht. Alternativ gibt
+
+90
+00:03:37,530 --> 00:03:39,610
+es das Schachbrett-Vorgehen. Es
+
+91
+00:03:39,610 --> 00:03:40,570
+orientiert sich am
+
+92
+00:03:40,570 --> 00:03:42,650
+Energieniveauschema. Es wird
+
+93
+00:03:42,650 --> 00:03:44,750
+zeilenweise von unten nach oben und
+
+94
+00:03:44,750 --> 00:03:47,730
+von links nach rechts gelesen. Am
+
+95
+00:03:47,730 --> 00:03:49,430
+Beispiel von Mangan möchte ich dir
+
+96
+00:03:49,430 --> 00:03:50,710
+auch einmal die Kurzschreibweise
+
+97
+00:03:50,710 --> 00:03:52,570
+zeigen. Bei ihr bezieht man sich
+
+98
+00:03:52,570 --> 00:03:54,790
+immer auf das vorherige Edelgas, da
+
+99
+00:03:54,790 --> 00:03:56,270
+es bei ihnen nur vollbesetzte
+
+100
+00:03:56,270 --> 00:03:58,450
+Orbitale gibt und fügt nur die
+
+101
+00:03:58,450 --> 00:04:01,030
+zusätzlichen Orbitale hinzu. Hier
+
+102
+00:04:01,030 --> 00:04:02,650
+siehst du die Elektronenkonfiguration
+
+103
+00:04:02,650 --> 00:04:05,550
+von Mangan. Das vorherige Edelgas ist
+
+104
+00:04:05,550 --> 00:04:08,250
+Argon, das diese Orbitale abdeckt.
+
+105
+00:04:08,350 --> 00:04:10,290
+Die gekürzte Elektronenkonfiguration
+
+106
+00:04:10,290 --> 00:04:14,490
+lautet also AR4S2
+
+107
+00:04:14,490 --> 00:04:19,510
+und 3D5. Fassen wir abschließend noch
+
+108
+00:04:19,510 --> 00:04:22,490
+einmal zusammen. Erstens, bei der
+
+109
+00:04:22,490 --> 00:04:23,930
+Belegung der Orbitale ist zu
+
+110
+00:04:23,930 --> 00:04:25,930
+beachten, dass zuerst alle Orbitale
+
+111
+00:04:25,930 --> 00:04:27,830
+eines Typs ausgebildet werden, bevor
+
+112
+00:04:27,830 --> 00:04:29,590
+sie doppelt belegt werden und dass
+
+113
+00:04:29,590 --> 00:04:30,690
+man nicht streng nach nach
+
+114
+00:04:30,690 --> 00:04:33,850
+Hauptquantenzahlen vorgeht. Zweitens,
+
+115
+00:04:33,850 --> 00:04:35,770
+hierbei helfen das Energieniveau
+
+116
+00:04:35,770 --> 00:04:37,690
+sowie das Hauptquantenzahl
+
+117
+00:04:37,690 --> 00:04:39,610
+-Orbitalschema und das Schachbrett
+
+118
+00:04:39,610 --> 00:04:42,110
+vorgehen. Drittens, für die
+
+119
+00:04:42,110 --> 00:04:44,130
+Elektronenkonfiguration gibt es eine
+
+120
+00:04:44,130 --> 00:04:45,830
+Kurzschreibweise, bei der ein Teil
+
+121
+00:04:45,830 --> 00:04:47,310
+durch das Elementsymbol des
+
+122
+00:04:47,310 --> 00:04:49,370
+vorherigen Edelgases ersetzt wird.
+
+123
+00:04:49,910 --> 00:04:52,030
+Ich hoffe, dass du das Thema Orbitale
+
+124
+00:04:52,030 --> 00:04:53,930
+nun besser verstehst. Wenn du noch
+
+125
+00:04:53,930 --> 00:04:55,690
+Fragen zu diesen oder anderen Themen
+
+126
+00:04:55,690 --> 00:04:57,350
+hast, Nutze gerne unsere weiteren
+
+127
+00:04:57,350 --> 00:04:59,990
+Lerninhalte im Online-Lerncenter oder
+
+128
+00:04:59,990 --> 00:05:01,710
+wende dich an deine Schülerhilfe vor
+
+129
+00:05:01,710 --> 00:05:03,270
+Ort. Bis zum nächsten Mal!
+

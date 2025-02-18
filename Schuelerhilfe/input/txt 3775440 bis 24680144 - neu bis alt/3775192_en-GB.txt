@@ -1,0 +1,598 @@
+﻿1
+00:00:03,890 --> 00:00:05,850
+Welcome to a new learning video. 
+
+2
+00:00:06,090 --> 00:00:07,830
+My name is Joshua and I am a 
+
+3
+00:00:07,830 --> 00:00:09,510
+tutor at Schülerhilfe. 
+
+4
+00:00:09,690 --> 00:00:11,590
+I'm pleased to explain the topic of 
+
+5
+00:00:11,590 --> 00:00:14,210
+catalysis to you today. In addition to 
+
+6
+00:00:14,210 --> 00:00:15,630
+this video, you can 
+
+7
+00:00:15,630 --> 00:00:17,590
+also find a 
+
+8
+00:00:17,590 --> 00:00:19,190
+wiki on this topic in our online learning 
+center, 
+
+9
+00:00:19,490 --> 00:00:20,990
+where the most important terms 
+
+10
+00:00:20,990 --> 00:00:24,130
+and basics are explained. 
+
+11
+00:00:24,130 --> 00:00:25,650
+You 
+
+12
+00:00:25,650 --> 00:00:27,130
+may have already heard the term catalytic 
+converter in connection with 
+
+13
+00:00:27,130 --> 00:00:28,110
+vehicles and their 
+
+14
+00:00:28,110 --> 00:00:29,870
+pollutant emissions 
+
+15
+00:00:29,870 --> 00:00:32,150
+. This ensures that 
+
+16
+00:00:32,150 --> 00:00:34,150
+pollutants are quickly converted 
+
+17
+00:00:34,150 --> 00:00:36,530
+into non-toxic substances, which are then 
+
+18
+00:00:36,530 --> 00:00:38,230
+released through the exhaust. 
+
+19
+00:00:38,950 --> 00:00:41,230
+What exactly catalysis is and how 
+
+20
+00:00:41,230 --> 00:00:42,710
+it works is 
+
+21
+00:00:42,710 --> 00:00:45,390
+explained below. 
+
+22
+00:00:45,390 --> 00:00:47,230
+Reaction energy plays an 
+
+23
+00:00:47,230 --> 00:00:49,550
+important role in reactions. Reaction 
+energy 
+
+24
+00:00:49,550 --> 00:00:51,250
+is the energy that 
+
+25
+00:00:51,250 --> 00:00:53,050
+
+26
+00:00:53,050 --> 00:00:55,010
+is expended or released when a reaction 
+takes place. If energy is 
+
+27
+00:00:55,010 --> 00:00:57,330
+released during a reaction, 
+
+28
+00:00:57,330 --> 00:00:58,770
+this is because the products of the 
+
+29
+00:00:58,770 --> 00:01:01,050
+reaction have a lower energy than 
+
+30
+00:01:01,050 --> 00:01:03,330
+the reactants. The difference 
+
+31
+00:01:03,330 --> 00:01:04,810
+between their energies, the 
+
+32
+00:01:04,810 --> 00:01:06,630
+reaction energy, is 
+
+33
+00:01:06,630 --> 00:01:08,450
+
+34
+00:01:08,450 --> 00:01:10,990
+released into the environment in the form 
+of heat and light, for example. The 
+reaction is 
+
+35
+00:01:10,990 --> 00:01:13,530
+exothermic. An energy-consuming 
+
+36
+00:01:13,530 --> 00:01:15,450
+reaction is called endothermic. 
+
+37
+00:01:16,130 --> 00:01:17,490
+Let us now look at the 
+
+38
+00:01:17,490 --> 00:01:19,110
+
+39
+00:01:19,110 --> 00:01:20,790
+combustion of magnesium to 
+
+40
+00:01:20,790 --> 00:01:23,830
+magnesium oxide that is often shown in 
+chemistry lessons. The magnesium strip is 
+
+41
+00:01:23,830 --> 00:01:25,750
+
+42
+00:01:25,750 --> 00:01:27,850
+held in the flame of the Bunsen burner and 
+begins to 
+
+43
+00:01:27,850 --> 00:01:29,530
+
+44
+00:01:29,530 --> 00:01:33,190
+oxidize to the product under a bright 
+flame , exothermic reaction. But what 
+
+45
+00:01:33,190 --> 00:01:34,650
+if the product is energetically 
+
+46
+00:01:34,650 --> 00:01:36,430
+more favorable than the reactants, the 
+
+47
+00:01:36,430 --> 00:01:38,770
+starting materials of the reaction, 
+magnesium 
+
+48
+00:01:38,770 --> 00:01:40,550
+and oxygen? Why 
+
+49
+00:01:40,550 --> 00:01:42,010
+doesn't the strip 
+
+50
+00:01:42,010 --> 00:01:45,250
+already react to form the product without 
+our intervention? This is due 
+
+51
+00:01:45,250 --> 00:01:46,410
+to the 
+
+52
+00:01:46,410 --> 00:01:48,230
+activation energy required to 
+
+53
+00:01:48,230 --> 00:01:49,970
+
+54
+00:01:49,970 --> 00:01:52,350
+get the reaction going . 
+
+55
+00:01:52,350 --> 00:01:54,410
+The Bunsen burner supplies this energy in 
+the form of 
+
+56
+00:01:54,410 --> 00:01:56,450
+heat. It is quite high and 
+
+57
+00:01:56,450 --> 00:01:58,270
+prevents spontaneous oxidation 
+
+58
+00:01:58,270 --> 00:02:00,750
+of the strip. For many biological 
+
+59
+00:02:00,750 --> 00:02:02,790
+processes and also for us living beings 
+
+60
+00:02:02,790 --> 00:02:04,470
+, overcoming such a 
+
+61
+00:02:04,470 --> 00:02:05,890
+high activation energy would be 
+
+62
+00:02:05,890 --> 00:02:08,110
+problematic, as we 
+
+63
+00:02:08,110 --> 00:02:09,930
+
+64
+00:02:09,930 --> 00:02:11,930
+are also dependent on burning sugars and 
+fats to generate energy. 
+
+65
+00:02:12,590 --> 00:02:14,490
+This is where catalysis comes into play. 
+
+66
+00:02:14,670 --> 00:02:16,510
+It 
+
+67
+00:02:16,510 --> 00:02:18,290
+greatly reduces the activation energy and 
+thus accelerates the 
+
+68
+00:02:18,290 --> 00:02:20,370
+reaction. 
+
+69
+00:02:20,370 --> 00:02:21,610
+Catalysis is achieved by so-called 
+
+70
+00:02:21,610 --> 00:02:23,830
+catalysts, chemical substances that 
+
+71
+00:02:23,830 --> 00:02:25,490
+are involved in the reaction but 
+
+72
+00:02:25,490 --> 00:02:27,990
+emerge from it unchanged. 
+
+73
+00:02:27,990 --> 00:02:29,670
+The mode of action of catalysts 
+
+74
+00:02:29,670 --> 00:02:31,070
+is based on the formation of an 
+
+75
+00:02:31,070 --> 00:02:33,070
+energetically stable intermediate stage 
+
+76
+00:02:33,070 --> 00:02:34,610
+and its reaction to the 
+
+77
+00:02:34,610 --> 00:02:37,410
+end product. In the diagram 
+
+78
+00:02:37,410 --> 00:02:38,990
+you can see the reaction of the 
+hypothetical 
+
+79
+00:02:38,990 --> 00:02:41,490
+reactants A and B to the product AB 
+
+80
+00:02:41,490 --> 00:02:43,950
+. Without a catalyst 
+
+81
+00:02:43,950 --> 00:02:45,690
+, this reaction proceeds via an 
+
+82
+00:02:45,690 --> 00:02:47,010
+energetically unfavorable 
+
+83
+00:02:47,010 --> 00:02:49,650
+intermediate state. To achieve this, 
+
+84
+00:02:49,650 --> 00:02:51,270
+a high activation energy is 
+
+85
+00:02:51,270 --> 00:02:53,370
+required . However, if a 
+
+86
+00:02:53,370 --> 00:02:55,290
+catalyst is used, it forms 
+
+87
+00:02:55,290 --> 00:02:57,310
+the relatively stable 
+
+88
+00:02:57,310 --> 00:02:59,730
+intermediate AK with reactant A , which 
+
+89
+00:02:59,730 --> 00:03:01,550
+quickly 
+
+90
+00:03:01,550 --> 00:03:04,150
+reacts with B to form the end product due 
+to its changed properties , while 
+
+91
+00:03:04,150 --> 00:03:06,410
+the catalyst K 
+
+92
+00:03:06,410 --> 00:03:08,970
+leaves the reaction unchanged. It should 
+be noted 
+
+93
+00:03:09,090 --> 00:03:10,730
+that catalysts 
+
+94
+00:03:10,730 --> 00:03:12,410
+do not change the chemical equilibrium, 
+they 
+
+95
+00:03:12,410 --> 00:03:14,530
+merely intervene in the kinetics, 
+
+96
+00:03:14,610 --> 00:03:17,290
+i.e. accelerate the reaction. The 
+
+97
+00:03:17,290 --> 00:03:18,690
+thermodynamics remain 
+
+98
+00:03:18,690 --> 00:03:22,070
+unaffected by the catalysts. Well-known 
+
+99
+00:03:22,070 --> 00:03:23,850
+technical catalysts are the 
+
+100
+00:03:23,850 --> 00:03:26,530
+precious metals platinum, rhodium and 
+
+101
+00:03:26,530 --> 00:03:28,350
+palladium, which 
+
+102
+00:03:28,350 --> 00:03:30,450
+accelerate combustion, among other things. 
+
+103
+00:03:30,450 --> 00:03:32,630
+
+104
+00:03:32,630 --> 00:03:34,630
+Catalysts are 
+
+105
+00:03:34,630 --> 00:03:37,070
+used in over 80% of chemical-industrial 
+processes. In addition to positive 
+
+106
+00:03:37,070 --> 00:03:38,490
+catalysts, 
+
+107
+00:03:38,490 --> 00:03:40,550
+which reduce the activation energy and 
+
+108
+00:03:40,550 --> 00:03:42,170
+accelerate the reaction, there are 
+
+109
+00:03:42,170 --> 00:03:44,270
+also negative catalysts, 
+
+110
+00:03:44,270 --> 00:03:46,450
+which increase the activation energy and 
+
+111
+00:03:46,450 --> 00:03:49,010
+thus slow down the reaction. These 
+
+112
+00:03:49,010 --> 00:03:51,130
+negative catalysts 
+
+113
+00:03:51,130 --> 00:03:53,550
+are also used in industry, for 
+
+114
+00:03:53,550 --> 00:03:54,730
+example when naturally 
+
+115
+00:03:54,730 --> 00:03:56,930
+explosive reactions 
+
+116
+00:03:56,930 --> 00:03:59,230
+need to be controlled. 
+
+117
+00:03:59,230 --> 00:04:01,130
+
+118
+00:04:01,130 --> 00:04:03,530
+Biological catalysts are even more 
+relevant for us. These 
+
+119
+00:04:03,530 --> 00:04:05,690
+biocatalysts 
+
+120
+00:04:05,690 --> 00:04:07,510
+are called enzymes . They are found in the 
+cells of 
+
+121
+00:04:07,510 --> 00:04:09,650
+all living organisms, as almost all 
+
+122
+00:04:09,650 --> 00:04:10,970
+vital chemical 
+
+123
+00:04:10,970 --> 00:04:12,890
+reactions are catalyzed. 
+
+124
+00:04:13,110 --> 00:04:15,270
+Enzymes play a fundamental 
+
+125
+00:04:15,270 --> 00:04:17,270
+role in metabolism, from digestion 
+
+126
+00:04:17,270 --> 00:04:19,130
+to reproduction and 
+
+127
+00:04:19,130 --> 00:04:21,610
+gene transcription . Enzymes are usually 
+
+128
+00:04:21,610 --> 00:04:23,970
+complex proteins that 
+
+129
+00:04:23,970 --> 00:04:25,970
+bind specifically to the reactants, bring 
+them into 
+
+130
+00:04:25,970 --> 00:04:27,630
+close proximity to each other 
+
+131
+00:04:27,630 --> 00:04:29,370
+and 
+
+132
+00:04:29,370 --> 00:04:30,790
+
+133
+00:04:30,790 --> 00:04:32,190
+
+134
+00:04:32,190 --> 00:04:35,830
+stabilize potentially unfavourable 
+intermediates through intermolecular 
+interactions . 
+
+135
+00:04:35,830 --> 00:04:37,930
+It is the mode of action of enzymes that 
+allows the emergence 
+
+136
+00:04:37,930 --> 00:04:40,010
+of complex life as we 
+
+137
+00:04:40,010 --> 00:04:42,190
+know it today. Thank you for your 
+
+138
+00:04:42,190 --> 00:04:44,090
+attention. I hope the video 
+
+139
+00:04:44,090 --> 00:04:45,330
+has helped you to better 
+
+140
+00:04:45,330 --> 00:04:46,490
+understand the topic of 
+
+141
+00:04:46,490 --> 00:04:48,130
+reaction energy and catalysis 
+
+142
+00:04:48,130 --> 00:04:50,410
+. 
+
+143
+00:04:50,410 --> 00:04:51,990
+To deepen the content even more , you can 
+
+144
+00:04:51,990 --> 00:04:53,670
+ of course find further 
+
+145
+00:04:53,670 --> 00:04:56,150
+learning opportunities in the online 
+learning center. See you 
+
+146
+00:04:56,150 --> 00:04:56,690
+next time! 

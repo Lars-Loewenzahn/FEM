@@ -1,0 +1,525 @@
+﻿1
+00:00:03,950 --> 00:00:06,210
+Hello, my name is Joshua and I 
+
+2
+00:00:06,210 --> 00:00:07,290
+am a tutor 
+
+3
+00:00:07,290 --> 00:00:09,410
+at Schülerhilfe. Today I would like to 
+give you 
+
+4
+00:00:09,410 --> 00:00:11,270
+an insight into the topic of polar 
+
+5
+00:00:11,270 --> 00:00:13,730
+atomic bonding, electronegativity and 
+
+6
+00:00:13,730 --> 00:00:16,250
+dipole molecules. This video 
+
+7
+00:00:16,250 --> 00:00:18,170
+assumes that you are already 
+
+8
+00:00:18,170 --> 00:00:20,190
+
+9
+00:00:20,190 --> 00:00:22,650
+familiar with the topic of electron pair 
+bonds and the orbital model. Take a look 
+at 
+
+10
+00:00:22,650 --> 00:00:24,210
+the videos in 
+
+11
+00:00:24,210 --> 00:00:26,570
+our online learning center. An 
+
+12
+00:00:26,570 --> 00:00:27,650
+atomic bond is an 
+
+13
+00:00:27,650 --> 00:00:29,950
+electron pair bond. This bond 
+
+14
+00:00:29,950 --> 00:00:31,790
+can be polar or non-polar, 
+
+15
+00:00:31,930 --> 00:00:34,070
+depending on the electronegativity 
+
+16
+00:00:34,070 --> 00:00:36,230
+of the atoms involved in the bond. 
+
+17
+00:00:36,510 --> 00:00:40,590
+Electronegativity, or EN for short, is 
+
+18
+00:00:40,590 --> 00:00:42,650
+the relative measure of the ability 
+
+19
+00:00:42,650 --> 00:00:44,210
+of an atom 
+
+20
+00:00:44,210 --> 00:00:45,970
+to attract electrons to itself. The higher 
+the 
+
+21
+00:00:45,970 --> 00:00:48,150
+electronegativity, the stronger 
+
+22
+00:00:48,150 --> 00:00:49,730
+the respective atom attracts the 
+
+23
+00:00:49,730 --> 00:00:51,690
+electrons of the bond. The 
+
+24
+00:00:51,690 --> 00:00:53,570
+electronegativity of an element 
+
+25
+00:00:53,570 --> 00:00:55,690
+
+26
+00:00:55,690 --> 00:00:58,670
+can be read off the PSE, i.e. the periodic 
+table. Within 
+
+27
+00:00:58,670 --> 00:01:00,470
+the main groups of the PSE, the 
+
+28
+00:01:00,470 --> 00:01:02,430
+electronegativity increases from left to 
+
+29
+00:01:02,430 --> 00:01:04,450
+right from the first to the seventh 
+
+30
+00:01:04,450 --> 00:01:06,650
+main group. As 
+
+31
+00:01:06,650 --> 00:01:08,750
+the period increases , i.e. from top to 
+bottom, 
+
+32
+00:01:08,890 --> 00:01:11,750
+the EN decreases. The electron density is 
+
+33
+00:01:11,750 --> 00:01:13,210
+
+34
+00:01:13,210 --> 00:01:15,550
+higher on the thick side of the wedge. 
+
+35
+00:01:15,550 --> 00:01:18,430
+This is a so-called dipole molecule. The 
+
+36
+00:01:18,430 --> 00:01:20,570
+polarity of a molecule 
+
+37
+00:01:20,570 --> 00:01:22,670
+has a significant effect on its properties 
+
+38
+00:01:22,670 --> 00:01:25,090
+. For example, dissolved 
+
+39
+00:01:25,090 --> 00:01:27,590
+hydrogen chloride is an acid. When 
+
+40
+00:01:27,590 --> 00:01:29,590
+dissolved in water, it forms hydrochloric 
+acid. 
+
+41
+00:01:29,770 --> 00:01:32,130
+Due to the high En difference, 
+
+42
+00:01:32,130 --> 00:01:33,990
+hydrogen chloride dissolved in water 
+
+43
+00:01:33,990 --> 00:01:36,690
+releases protons. 
+
+44
+00:01:36,690 --> 00:01:40,110
+Chloride anions are therefore also formed. 
+Water itself is 
+
+45
+00:01:40,110 --> 00:01:42,330
+a polar solvent. 
+
+46
+00:01:42,330 --> 00:01:44,190
+Only polar or 
+
+47
+00:01:44,190 --> 00:01:47,650
+charged particles dissolve in it. In the 
+H2O molecule 
+
+48
+00:01:47,650 --> 00:01:48,850
+, the electron density on the 
+
+49
+00:01:48,850 --> 00:01:51,010
+oxygen atom is significantly higher than 
+on 
+
+50
+00:01:51,010 --> 00:01:53,690
+the hydrogen atoms. This 
+
+51
+00:01:53,690 --> 00:01:55,830
+results in a partially negative and 
+
+52
+00:01:55,830 --> 00:01:58,330
+a partially positive side. However, 
+
+53
+00:01:58,330 --> 00:02:00,110
+not every molecule with a polar 
+
+54
+00:02:00,110 --> 00:02:01,590
+atomic bond is a 
+
+55
+00:02:01,590 --> 00:02:04,290
+dipole molecule. The dipole character 
+
+56
+00:02:04,290 --> 00:02:06,210
+only comes into play if the 
+
+57
+00:02:06,210 --> 00:02:08,030
+electron density is asymmetrically 
+
+58
+00:02:08,030 --> 00:02:10,630
+redistributed. For example, the CO2 
+
+59
+00:02:10,630 --> 00:02:12,830
+ molecule is not a dipole because the 
+
+60
+00:02:12,830 --> 00:02:14,090
+oxygens, where the 
+
+61
+00:02:14,090 --> 00:02:16,090
+electron density 
+
+62
+00:02:16,090 --> 00:02:18,530
+is greater due to the higher En, are in 
+
+63
+00:02:18,530 --> 00:02:20,530
+
+64
+00:02:20,530 --> 00:02:23,250
+line with the carbon atoms in the middle. 
+The molecule does not have 
+
+65
+00:02:23,250 --> 00:02:25,430
+a more positive and a more negative 
+
+66
+00:02:25,430 --> 00:02:28,210
+side, so it is not a dipole molecule. 
+
+67
+00:02:28,670 --> 00:02:30,430
+For this reason, it is also important to 
+
+68
+00:02:30,590 --> 00:02:32,810
+draw the H2O molecule at an angle 
+
+69
+00:02:32,810 --> 00:02:35,270
+so that its dipole character can 
+
+70
+00:02:35,270 --> 00:02:37,850
+be recognized. Let's take a look 
+
+71
+00:02:37,850 --> 00:02:39,550
+at the compound ammonia 
+
+72
+00:02:39,550 --> 00:02:42,670
+with the molecular formula NH3 and 
+boa-tri-fluoride 
+
+73
+00:02:42,670 --> 00:02:45,170
+with BF3. You can see from the 
+
+74
+00:02:45,170 --> 00:02:46,650
+structural formula that 
+
+75
+00:02:46,650 --> 00:02:48,610
+the three hydrogen atoms in ammonia 
+
+76
+00:02:48,610 --> 00:02:50,550
+are on one side, which 
+
+77
+00:02:50,550 --> 00:02:52,510
+is therefore partially positively charged, 
+
+78
+00:02:52,630 --> 00:02:54,610
+while the other side 
+
+79
+00:02:54,610 --> 00:02:56,650
+
+80
+00:02:56,650 --> 00:02:59,290
+is partially negatively charged with the 
+free electron pair of nitrogen . 
+
+81
+00:02:59,290 --> 00:03:01,150
+Ammonia is therefore a 
+
+82
+00:03:01,150 --> 00:03:04,250
+dipole molecule. The Bohr tri-fluoride 
+
+83
+00:03:04,250 --> 00:03:06,850
+molecule, on the other hand, is planar. 
+All 
+
+84
+00:03:06,850 --> 00:03:09,710
+four atoms lie in one plane. The 
+
+85
+00:03:09,710 --> 00:03:12,070
+positive partial charge is centered on the 
+
+86
+00:03:12,070 --> 00:03:14,170
+Bohr atom, while the negative 
+
+87
+00:03:14,170 --> 00:03:16,150
+partial charges 
+
+88
+00:03:16,150 --> 00:03:18,570
+surround the central atom symmetrically. 
+
+89
+00:03:18,570 --> 00:03:20,030
+For these reasons, it is not a 
+
+90
+00:03:20,030 --> 00:03:22,630
+dipole molecule. The reason for the 
+
+91
+00:03:22,630 --> 00:03:24,410
+planar structure of the Bohr 
+
+92
+00:03:24,410 --> 00:03:25,470
+ tri-fluoride is the 
+
+93
+00:03:25,470 --> 00:03:27,590
+electron configuration of the Bohr. 
+
+94
+00:03:28,230 --> 00:03:30,630
+This has only three valence electrons 
+
+95
+00:03:30,630 --> 00:03:32,510
+, which 
+
+96
+00:03:32,510 --> 00:03:35,010
+
+97
+00:03:35,010 --> 00:03:37,950
+form electron pair bonds with a maximum 
+spacing angle of 120° . In ammonia, on the 
+other hand, 
+
+98
+00:03:37,950 --> 00:03:40,090
+in addition to the 
+
+99
+00:03:40,090 --> 00:03:42,170
+three valence electrons that 
+
+100
+00:03:42,170 --> 00:03:43,790
+
+101
+00:03:43,790 --> 00:03:45,530
+form the bond with the hydrogen atoms , 
+the central nitrogen atom also has a free 
+
+102
+00:03:45,530 --> 00:03:47,150
+electron pair, which also 
+
+103
+00:03:47,150 --> 00:03:49,210
+requires space and the greatest possible 
+
+104
+00:03:49,210 --> 00:03:50,110
+distance to the 
+
+105
+00:03:50,110 --> 00:03:52,470
+electron pair bonds. 
+
+106
+00:03:52,470 --> 00:03:54,150
+A distinction is therefore made not only 
+between 
+
+107
+00:03:54,150 --> 00:03:56,790
+polar and non-polar atomic bonds, 
+
+108
+00:03:56,870 --> 00:03:58,730
+but 
+
+109
+00:03:58,730 --> 00:04:00,710
+also between dipole 
+
+110
+00:04:00,710 --> 00:04:04,130
+and non-dipole molecules due to the 
+structure of the compound. Dipoles 
+
+111
+00:04:04,130 --> 00:04:06,090
+are not to be confused with ions. 
+
+112
+00:04:06,340 --> 00:04:08,450
+In dipole molecules, the atoms are 
+
+113
+00:04:08,450 --> 00:04:09,190
+still linked via 
+
+114
+00:04:09,190 --> 00:04:11,030
+electron pair bonds. 
+
+115
+00:04:11,030 --> 00:04:13,410
+The partial charges result from 
+
+116
+00:04:13,410 --> 00:04:14,730
+the unequal distribution of the 
+
+117
+00:04:14,730 --> 00:04:16,550
+bonding electrons within the 
+
+118
+00:04:16,550 --> 00:04:18,850
+molecule. Nevertheless, a 
+
+119
+00:04:18,850 --> 00:04:21,390
+dipole molecule as a unit is 
+
+120
+00:04:21,390 --> 00:04:24,090
+electrically neutral to the outside. 
+
+121
+00:04:24,090 --> 00:04:26,210
+Thank you for your attention. I hope 
+
+122
+00:04:26,230 --> 00:04:28,050
+this video has helped you to understand 
+the 
+
+123
+00:04:28,050 --> 00:04:29,750
+topic of polar atomic bonds 
+
+124
+00:04:29,750 --> 00:04:31,890
+. 
+
+125
+00:04:31,890 --> 00:04:34,230
+
+126
+00:04:34,230 --> 00:04:36,390
+You can of course also find further 
+content such as interactive tasks, 
+worksheets or wikis 
+
+127
+00:04:36,390 --> 00:04:38,570
+in our online learning center. See you 
+
+128
+00:04:38,570 --> 00:04:39,190
+next time! 

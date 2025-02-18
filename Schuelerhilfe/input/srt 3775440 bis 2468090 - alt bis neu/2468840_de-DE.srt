@@ -1,0 +1,1852 @@
+1
+00:00:01,140 --> 00:00:03,040
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,040 --> 00:00:05,240
+Stochastik. Wir befassen uns in
+
+3
+00:00:05,240 --> 00:00:07,820
+diesem Webinar mit den Grundlagen der
+
+4
+00:00:07,820 --> 00:00:09,440
+Stochastik. Das heißt, wir fangen mit
+
+5
+00:00:09,440 --> 00:00:11,340
+einigen Grundbegriffen an, schauen
+
+6
+00:00:11,340 --> 00:00:12,880
+uns den Unterschied zwischen der
+
+7
+00:00:12,880 --> 00:00:14,240
+absoluten und der relativen
+
+8
+00:00:14,240 --> 00:00:16,220
+Häufigkeit an und werden auch
+
+9
+00:00:16,220 --> 00:00:18,980
+erklären, wie man diese bestimmt. In
+
+10
+00:00:18,980 --> 00:00:20,600
+der Stochastik, beziehungsweise wenn
+
+11
+00:00:20,600 --> 00:00:21,740
+man mit Wahrscheinlichkeiten rechnet,
+
+12
+00:00:21,840 --> 00:00:23,160
+braucht man aber eigentlich immer die
+
+13
+00:00:23,160 --> 00:00:25,640
+relative Häufigkeit. Dazu wird an der
+
+14
+00:00:25,640 --> 00:00:27,340
+Stelle aber auch noch mehr gesagt.
+
+15
+00:00:27,340 --> 00:00:29,640
+sagt. Anschließend schauen wir uns
+
+16
+00:00:29,640 --> 00:00:31,280
+den Zusammenhang zwischen Ereignis
+
+17
+00:00:31,280 --> 00:00:33,380
+und Gegenereignis an. In diesem Zuge
+
+18
+00:00:33,380 --> 00:00:36,040
+wird dann auch erklärt, was das
+
+19
+00:00:36,040 --> 00:00:39,920
+Gegenereignis ist. Ganz zum Schluss
+
+20
+00:00:39,920 --> 00:00:41,860
+schauen wir uns zwei Beispiele an.
+
+21
+00:00:41,920 --> 00:00:42,840
+Wir haben einmal ein kleines
+
+22
+00:00:42,840 --> 00:00:44,300
+Anwendungsbeispiel zum Thema
+
+23
+00:00:44,300 --> 00:00:47,040
+Uhrenmodell und dann schauen wir uns
+
+24
+00:00:47,040 --> 00:00:48,280
+als letztes noch die bedingte
+
+25
+00:00:48,280 --> 00:00:50,600
+Wahrscheinlichkeit an und dazu bzw.
+
+26
+00:00:50,660 --> 00:00:52,360
+die bedingte Wahrscheinlichkeit wird
+
+27
+00:00:52,360 --> 00:00:54,000
+auch an einem kleinen Beispiel
+
+28
+00:00:54,000 --> 00:00:54,760
+erklärt.
+
+29
+00:01:03,150 --> 00:01:05,330
+treffen oder kann nicht zutreffen. Es
+
+30
+00:01:05,330 --> 00:01:06,530
+wird wirklich nur entschieden
+
+31
+00:01:06,530 --> 00:01:08,730
+zwischen trifft zu und trifft nicht
+
+32
+00:01:08,730 --> 00:01:10,270
+zu. Dazwischen gibt es nichts. Es
+
+33
+00:01:10,270 --> 00:01:12,910
+gibt nur diese zwei Möglichkeiten. P
+
+34
+00:01:12,910 --> 00:01:15,310
+von diesem Ereignis X ist dann
+
+35
+00:01:15,310 --> 00:01:15,790
+einfach die
+
+36
+00:01:15,790 --> 00:01:17,370
+Auftrittswahrscheinlichkeit für das
+
+37
+00:01:17,370 --> 00:01:19,530
+Ereignis X. Dazu haben wir hier ein
+
+38
+00:01:19,530 --> 00:01:21,010
+kleines Beispiel. Wir sehen, wir
+
+39
+00:01:21,010 --> 00:01:22,830
+haben ein Gefäß. In diesem befinden
+
+40
+00:01:22,830 --> 00:01:25,270
+sich zwei rote und eine graue Kugel.
+
+41
+00:01:25,690 --> 00:01:28,350
+Und jetzt können wir hingehen. Und
+
+42
+00:01:28,350 --> 00:01:30,130
+die Wahrscheinlichkeit für also die
+
+43
+00:01:30,130 --> 00:01:31,490
+Wahrscheinlichkeit für das Ziehen
+
+44
+00:01:31,490 --> 00:01:34,050
+einer grauen bzw. für das Ziehen
+
+45
+00:01:34,050 --> 00:01:37,150
+einer roten Kugel berechnen. Wenn wir
+
+46
+00:01:37,150 --> 00:01:38,970
+die rote Kugel betrachten, würden wir
+
+47
+00:01:38,970 --> 00:01:41,210
+schreiben für P von X ist gleich R.
+
+48
+00:01:41,310 --> 00:01:43,190
+Das heißt, wir wollen das Ereignis X
+
+49
+00:01:43,190 --> 00:01:47,150
+haben, eine rote Kugel. Und wie man
+
+50
+00:01:47,150 --> 00:01:49,150
+genau auf diesen Bruch kommt, wird
+
+51
+00:01:49,150 --> 00:01:50,610
+gleich nochmal ausführlich erklärt.
+
+52
+00:01:50,770 --> 00:01:52,050
+Ich mache es jetzt einmal in der
+
+53
+00:01:52,050 --> 00:01:55,890
+Kurzform. Aber im Zähler oben steht
+
+54
+00:01:55,890 --> 00:01:58,790
+immer, wie viele Kugeln wir haben,
+
+55
+00:01:58,870 --> 00:01:59,690
+beziehungsweise wie viele
+
+56
+00:01:59,690 --> 00:02:01,890
+Möglichkeiten haben wir, dass das
+
+57
+00:02:01,890 --> 00:02:03,830
+Ereignis X, also eine rote Kugel,
+
+58
+00:02:03,830 --> 00:02:06,130
+eintrifft. Wir haben zwei Kugeln, die
+
+59
+00:02:06,130 --> 00:02:07,690
+wir ziehen können, deswegen steht da
+
+60
+00:02:07,690 --> 00:02:10,790
+eine 2. Unten im Nenner steht immer
+
+61
+00:02:10,790 --> 00:02:12,450
+die Gesamtzahl aller möglichen
+
+62
+00:02:12,450 --> 00:02:14,990
+Ereignisse. Das heißt, dort steht
+
+63
+00:02:14,990 --> 00:02:16,670
+dann immer, wie viele Kugeln sind
+
+64
+00:02:16,670 --> 00:02:19,730
+generell in der Urne oder im Gefäß,
+
+65
+00:02:19,750 --> 00:02:21,490
+also wie viele verschiedene Kugeln.
+
+66
+00:02:21,510 --> 00:02:24,710
+kugeln könnten wir ziehen das 3 und
+
+67
+00:02:24,710 --> 00:02:27,070
+so kommen wir für die
+
+68
+00:02:27,070 --> 00:02:29,490
+wahrscheinlichkeit eine rote kugel zu
+
+69
+00:02:29,490 --> 00:02:31,570
+ziehen auf zwei drittel das sind
+
+70
+00:02:31,570 --> 00:02:35,310
+grundet 66,7 prozent man
+
+71
+00:02:37,460 --> 00:02:39,940
+kann natürlich auch eine graue kugel
+
+72
+00:02:39,940 --> 00:02:42,180
+ziehen also es ist jetzt b von x
+
+73
+00:02:42,180 --> 00:02:47,200
+gleich b das hier grau darstellte
+
+74
+00:02:47,200 --> 00:02:51,500
+soll wohl blau sein und dort ist ist
+
+75
+00:02:51,500 --> 00:02:53,180
+es dann so, der Bruch oder die
+
+76
+00:02:53,180 --> 00:02:54,520
+Wahrscheinlichkeit wird nach dem
+
+77
+00:02:54,520 --> 00:02:55,960
+selben Prinzip wie bei den Roten
+
+78
+00:02:55,960 --> 00:02:57,120
+gebildet. Man schaut erst im
+
+79
+00:02:57,120 --> 00:02:59,140
+Erzähler, wie viele Möglichkeiten
+
+80
+00:02:59,140 --> 00:03:01,100
+habe ich, mein Ereignis zu erreichen.
+
+81
+00:03:01,460 --> 00:03:03,260
+Das heißt, wie viele blaue Kugeln
+
+82
+00:03:03,260 --> 00:03:04,980
+habe ich in der Urne? In dem Fall nur
+
+83
+00:03:04,980 --> 00:03:07,520
+eine. Und im Nenner ist es dann so,
+
+84
+00:03:07,640 --> 00:03:09,480
+wir gucken, wie viele Kugeln haben
+
+85
+00:03:09,480 --> 00:03:10,860
+wir noch? Drei Stück und so kommen
+
+86
+00:03:10,860 --> 00:03:13,520
+wir auf ein drittel das sind dann 33
+
+87
+00:03:13,520 --> 00:03:16,160
+,4 prozent kommen
+
+88
+00:03:19,770 --> 00:03:23,730
+wir zu einer ganz wichtigen sache wir
+
+89
+00:03:23,730 --> 00:03:24,990
+werden im weiteren verlauf des
+
+90
+00:03:24,990 --> 00:03:27,730
+webinars oftmals dieses x mit diesen
+
+91
+00:03:27,730 --> 00:03:29,210
+waagerechten strich darüber sind das
+
+92
+00:03:29,210 --> 00:03:31,750
+wird x quer gesprochen und dieses x
+
+93
+00:03:31,750 --> 00:03:34,370
+quer ist sie ist das gegen ereignis
+
+94
+00:03:34,370 --> 00:03:37,250
+von x das heißt man hatte gerade
+
+95
+00:03:37,250 --> 00:03:38,470
+schon gesagt es gibt nur zwei
+
+96
+00:03:38,470 --> 00:03:39,870
+möglichkeiten entweder trifft ein
+
+97
+00:03:39,870 --> 00:03:42,870
+oder trifft nicht ein. Und genau
+
+98
+00:03:42,870 --> 00:03:44,590
+dieses Prinzip nutzt man hier. Das
+
+99
+00:03:44,590 --> 00:03:47,450
+heißt, wenn das Ereignis X ist, eine
+
+100
+00:03:47,450 --> 00:03:49,930
+rote Kugel wird gezogen, dann ist das
+
+101
+00:03:49,930 --> 00:03:51,590
+Gegenereignis ganz einfach, es wird
+
+102
+00:03:51,590 --> 00:03:54,710
+keine rote Kugel gezogen. Wenn wir
+
+103
+00:03:54,710 --> 00:03:57,110
+als Ereignis X definieren, ich treffe
+
+104
+00:03:57,110 --> 00:03:59,590
+mindestens dreimal, ist das
+
+105
+00:03:59,590 --> 00:04:01,890
+Gegenereignis, ich treffe höchstens
+
+106
+00:04:01,890 --> 00:04:02,370
+dreimal.
+
+107
+00:04:05,370 --> 00:04:07,210
+Und so funktioniert es auch bei den
+
+108
+00:04:07,210 --> 00:04:09,630
+anderen Beispielen. Ich würfle eine
+
+109
+00:04:09,630 --> 00:04:12,510
+gerade Augenzahl. Oder ich würfel
+
+110
+00:04:12,510 --> 00:04:14,530
+gerade Augenzahlen. Egal, ob das ein
+
+111
+00:04:14,530 --> 00:04:16,350
+Singular oder ein Plural ist. Das
+
+112
+00:04:16,350 --> 00:04:19,010
+Gegeneignis wäre, ich würfle ungerade
+
+113
+00:04:19,010 --> 00:04:19,530
+Augenzahlen.
+
+114
+00:04:22,820 --> 00:04:24,640
+Ganz zuletzt haben wir das Beispiel,
+
+115
+00:04:24,800 --> 00:04:27,100
+das läuft eigentlich auf das Gleiche
+
+116
+00:04:27,100 --> 00:04:29,180
+hinaus wie das Beispiel 2. Ich esse
+
+117
+00:04:29,180 --> 00:04:32,800
+höchstens drei Äpfel. Die
+
+118
+00:04:32,800 --> 00:04:33,540
+Gegenwahrscheinlichkeit ist dann
+
+119
+00:04:33,540 --> 00:04:35,340
+einfach, ich esse mindestens drei
+
+120
+00:04:35,340 --> 00:04:36,740
+Äpfel. Dann wird dieses Höchstens
+
+121
+00:04:36,740 --> 00:04:39,200
+gegen das Mindestens getauscht. bei
+
+122
+00:04:39,200 --> 00:04:40,620
+der Gegenwahrscheinlichkeit, beim
+
+123
+00:04:40,620 --> 00:04:41,360
+Gegenereignis.
+
+124
+00:04:47,640 --> 00:04:49,220
+Gegenereignisse zu kennen und man
+
+125
+00:04:49,220 --> 00:04:53,240
+nutzt diese auch sehr oft. Denn das
+
+126
+00:04:53,240 --> 00:04:54,820
+Gegenereignis steht in einem ganz
+
+127
+00:04:54,820 --> 00:04:57,320
+besonderen Bezug zu dem Ereignis. Das
+
+128
+00:04:57,320 --> 00:05:00,900
+sehen wir auch nochmal gleich. Zuerst
+
+129
+00:05:00,900 --> 00:05:02,540
+erklären wir aber einmal die absolute
+
+130
+00:05:02,540 --> 00:05:03,200
+Häufigkeit.
+
+131
+00:05:05,610 --> 00:05:08,810
+Die absolute Häufigkeit an von e,
+
+132
+00:05:08,910 --> 00:05:11,030
+dieses kleine n ist ein Indiz, das
+
+133
+00:05:11,030 --> 00:05:12,830
+gibt an, wie oft das Experiment
+
+134
+00:05:12,830 --> 00:05:18,010
+durchgeführt wurde. Ja, und das E
+
+135
+00:05:18,010 --> 00:05:20,790
+gibt halt an, was für ein Ereignis
+
+136
+00:05:20,790 --> 00:05:21,990
+das ist. Wir haben hier auch wieder
+
+137
+00:05:21,990 --> 00:05:23,110
+ein Beispiel zu. Und zwar unser
+
+138
+00:05:23,110 --> 00:05:25,070
+Beispiel lautet, ein Würfel wird 500
+
+139
+00:05:25,070 --> 00:05:27,730
+mal gewürfelt. Insgesamt erhältst du
+
+140
+00:05:27,730 --> 00:05:30,650
+85 mal eine 6 als Augenzahl. Wie groß
+
+141
+00:05:30,650 --> 00:05:33,710
+ist die absolute Häufigkeit? Das
+
+142
+00:05:33,710 --> 00:05:35,410
+heißt, wir wissen erstmal, wir haben
+
+143
+00:05:35,410 --> 00:05:37,190
+500 mal gewürfelt. Also haben wir
+
+144
+00:05:37,190 --> 00:05:39,750
+unser Zufallsexperiment 500 mal
+
+145
+00:05:39,750 --> 00:05:42,230
+durchgeführt. Deswegen steht A unter
+
+146
+00:05:42,230 --> 00:05:46,030
+unten im Indiz 5. von E, also unser
+
+147
+00:05:46,030 --> 00:05:48,190
+Ereignis ist gleich, da tragen wir
+
+148
+00:05:48,190 --> 00:05:50,710
+jetzt an, was unser Ereignis war, und
+
+149
+00:05:50,710 --> 00:05:55,430
+das war eine 6-Würfel. Und die
+
+150
+00:05:55,430 --> 00:05:58,290
+absolute Häufigkeit, die gibt
+
+151
+00:05:58,290 --> 00:06:00,770
+wirklich einfach nur an, wie oft
+
+152
+00:06:00,770 --> 00:06:02,170
+letztendlich das Ereignis
+
+153
+00:06:02,170 --> 00:06:04,730
+eingetroffen ist. Das heißt, wie oft
+
+154
+00:06:04,730 --> 00:06:06,370
+haben wir in diesem Fall eine 6
+
+155
+00:06:06,370 --> 00:06:09,790
+gewürfelt, das ist 85 Mal, und daher
+
+156
+00:06:09,790 --> 00:06:13,270
+gilt A in die C500. von E gleich eine
+
+157
+00:06:13,270 --> 00:06:16,710
+Sechswürfel bis gleich 85. Folglich
+
+158
+00:06:16,710 --> 00:06:18,030
+ist unsere absolute Häufigkeit
+
+159
+00:06:18,030 --> 00:06:20,250
+einfach 85. Und so bildet man
+
+160
+00:06:20,250 --> 00:06:22,770
+wirklich die absolute Häufigkeit.
+
+161
+00:06:22,990 --> 00:06:25,210
+Dort gibt man einfach an, wie oft das
+
+162
+00:06:25,210 --> 00:06:29,440
+Ereignis eingetroffen ist. Anders ist
+
+163
+00:06:29,440 --> 00:06:32,980
+es bei der relativen Häufigkeit. Die
+
+164
+00:06:32,980 --> 00:06:35,960
+relative Häufigkeit heißt so, weil
+
+165
+00:06:35,960 --> 00:06:39,740
+dort die Anzahl in Relation gesetzt
+
+166
+00:06:39,740 --> 00:06:41,180
+wird, und zwar zu der...
+
+167
+00:06:44,880 --> 00:06:46,020
+Und man setzt es in Relation dazu,
+
+168
+00:06:46,300 --> 00:06:48,060
+wie oft das Zufallsexperiment
+
+169
+00:06:48,060 --> 00:06:53,080
+durchgeführt wurde. Das heißt, wir
+
+170
+00:06:53,080 --> 00:06:55,680
+führen das Experiment n mal durch.
+
+171
+00:06:55,780 --> 00:06:59,320
+Das ist das kleine n. Und das
+
+172
+00:06:59,320 --> 00:07:01,700
+Ereignis E trifft k mal ein. Das ist
+
+173
+00:07:01,700 --> 00:07:04,600
+das k. Das heißt, wir haben hier auch
+
+174
+00:07:04,600 --> 00:07:06,260
+wieder unser Würfel-Experiment. Wenn
+
+175
+00:07:06,260 --> 00:07:08,380
+wir die relative Häufigkeit
+
+176
+00:07:08,380 --> 00:07:11,400
+bestimmen, teilen wir unsere 85 durch
+
+177
+00:07:11,400 --> 00:07:12,700
+die Anzahl, wie oft wir das
+
+178
+00:07:12,700 --> 00:07:13,860
+Zufallsexperiment durchführen.
+
+179
+00:07:13,880 --> 00:07:15,800
+durchgeführt haben, also durch 500.
+
+180
+00:07:16,800 --> 00:07:20,800
+Und so kommen wir auf 0,17 bzw. 17%.
+
+181
+00:07:20,800 --> 00:07:25,400
+Und diese relative Häufigkeit könnte
+
+182
+00:07:25,400 --> 00:07:26,940
+man auch gleichzeitig als
+
+183
+00:07:26,940 --> 00:07:30,300
+Wahrscheinlichkeit sehen, dass eine
+
+184
+00:07:34,110 --> 00:07:35,650
+Sechs würfelt.
+
+185
+00:07:38,260 --> 00:07:41,260
+Die relative Häufigkeit hat das
+
+186
+00:07:41,260 --> 00:07:43,120
+kleine r und hier steht im Indiz
+
+187
+00:07:43,120 --> 00:07:47,480
+auch, wie wie oft das
+
+188
+00:07:47,480 --> 00:07:49,260
+Zufallsexperiment durchgeführt wurde.
+
+189
+00:07:49,560 --> 00:07:50,820
+Und hier steht auch wieder in
+
+190
+00:07:50,820 --> 00:07:52,360
+Klammern das Ereignis, also E eine
+
+191
+00:07:52,360 --> 00:07:53,920
+Sechswürfel. Das hat sich ja nicht
+
+192
+00:07:53,920 --> 00:07:55,940
+geändert zu dem vorherigen Beispiel.
+
+193
+00:07:56,840 --> 00:07:58,180
+Wichtig ist halt nur, dass man bei
+
+194
+00:07:58,180 --> 00:08:01,620
+der relativen Häufigkeit die Anzahl,
+
+195
+00:08:01,660 --> 00:08:03,120
+wie oft das Ereignis eingetroffen
+
+196
+00:08:03,120 --> 00:08:07,560
+ist, durch die Gesamtzahl
+
+197
+00:08:07,560 --> 00:08:11,080
+der Versuche oder halt der
+
+198
+00:08:11,080 --> 00:08:12,920
+durchgeführten Würfe in dem Fall
+
+199
+00:08:12,920 --> 00:08:14,600
+teilt. kommen
+
+200
+00:08:19,210 --> 00:08:21,290
+zu einem ganz wichtigen Zusammenhang.
+
+201
+00:08:21,370 --> 00:08:22,730
+Und das ist nämlich der Zusammenhang
+
+202
+00:08:22,730 --> 00:08:24,650
+zwischen dem Ereignis und dem
+
+203
+00:08:24,650 --> 00:08:28,770
+Gegenereignis. Und zwar hatte ich ja
+
+204
+00:08:28,770 --> 00:08:29,890
+schon gesagt, es gibt nur zwei
+
+205
+00:08:29,890 --> 00:08:31,470
+Möglichkeiten. Entweder tritt unser
+
+206
+00:08:31,470 --> 00:08:33,750
+Ereignis X ein oder es tritt das
+
+207
+00:08:33,750 --> 00:08:38,310
+Gegenereignis X quer ein. Daher gilt
+
+208
+00:08:38,310 --> 00:08:40,350
+immer, die Wahrscheinlichkeit für
+
+209
+00:08:40,350 --> 00:08:42,790
+unser Ereignis X, also P von X, plus
+
+210
+00:08:42,790 --> 00:08:43,990
+die Wahrscheinlichkeit für das
+
+211
+00:08:43,990 --> 00:08:47,110
+Gegenereignis ist 100%. Soll
+
+212
+00:08:47,110 --> 00:08:48,850
+heißen... Wir nehmen nochmal das
+
+213
+00:08:48,850 --> 00:08:50,230
+Würfelbeispiel. Ich würfel nur einmal
+
+214
+00:08:50,230 --> 00:08:54,010
+und ich sage, mein Ereignis E ist,
+
+215
+00:08:54,110 --> 00:08:59,300
+ich würfel eine 4. Das Gegenereignis
+
+216
+00:08:59,300 --> 00:09:01,460
+ist dann einfach, ich würfel keine 4.
+
+217
+00:09:02,880 --> 00:09:04,660
+Und ich denke, es ist gut
+
+218
+00:09:04,660 --> 00:09:05,860
+vorstellbar, wenn ich jetzt diesen
+
+219
+00:09:05,860 --> 00:09:07,420
+Würfel werfe, habe ich genau zwei
+
+220
+00:09:07,420 --> 00:09:08,560
+Möglichkeiten, was eintrifft.
+
+221
+00:09:08,560 --> 00:09:10,320
+Entweder ich würfel die 4, was mein
+
+222
+00:09:10,320 --> 00:09:13,060
+Ereignis wäre, oder ich würfel keine
+
+223
+00:09:13,060 --> 00:09:15,560
+4, das wäre nicht das Ereignis. Einer
+
+224
+00:09:15,560 --> 00:09:17,920
+dieser beiden Fälle trifft zu 100%
+
+225
+00:09:17,920 --> 00:09:22,160
+zu. Das ist wirklich so. Deswegen
+
+226
+00:09:22,160 --> 00:09:24,560
+gilt diese Gleichung oder diese
+
+227
+00:09:24,560 --> 00:09:25,000
+Formel.
+
+228
+00:09:27,660 --> 00:09:28,860
+Hier sehen wir auch nochmal so ein
+
+229
+00:09:28,860 --> 00:09:32,520
+Beispiel, wenn p von x 0,25 ist und p
+
+230
+00:09:32,520 --> 00:09:37,280
+x² ist dann 0,75. Einfach weil 1
+
+231
+00:09:37,280 --> 00:09:40,460
+minus 0,25 ist 0,75. Es bietet sich
+
+232
+00:09:40,460 --> 00:09:42,160
+nämlich auch sehr oft an, über das
+
+233
+00:09:42,160 --> 00:09:43,340
+Gegenereignis zu rechnen.
+
+234
+00:09:47,100 --> 00:09:48,780
+Hier haben wir jetzt ein kleines
+
+235
+00:09:48,780 --> 00:09:50,980
+Beispiel zum Uhrenmodell. Wir sehen
+
+236
+00:09:50,980 --> 00:09:52,440
+hier auch ein kleines Baumdiagramm.
+
+237
+00:09:52,580 --> 00:09:55,900
+Und wenn ihr so ein mehrstufiges
+
+238
+00:09:55,900 --> 00:09:57,480
+Zufallsexperiment ist, das ihr habt,
+
+239
+00:09:57,680 --> 00:10:00,560
+müsst ihr immer gucken, ob ihr mit
+
+240
+00:10:00,560 --> 00:10:02,160
+oder ohne Zurücklegen habt. Das ist
+
+241
+00:10:02,160 --> 00:10:04,180
+eine ganz wichtige Information. Wenn
+
+242
+00:10:04,180 --> 00:10:05,640
+ihr diese Information nicht findet,
+
+243
+00:10:09,760 --> 00:10:12,360
+ist es wichtig, ohne die Information
+
+244
+00:10:12,360 --> 00:10:13,900
+kann man die Aufgabe nicht richtig
+
+245
+00:10:13,900 --> 00:10:18,140
+lösen. Wir sehen hier nochmal so eine
+
+246
+00:10:18,140 --> 00:10:19,900
+schöne Urne von Anfang. Wir haben
+
+247
+00:10:19,900 --> 00:10:22,260
+eine blaue, die hier grau erscheint
+
+248
+00:10:22,260 --> 00:10:25,800
+und zwei rote. Wir ziehen zweimal,
+
+249
+00:10:25,800 --> 00:10:29,020
+legen aber nicht zurück. Das heißt,
+
+250
+00:10:29,140 --> 00:10:32,080
+wir fertigen jetzt unser Baumdiagramm
+
+251
+00:10:32,080 --> 00:10:32,240
+an.
+
+252
+00:10:37,900 --> 00:10:41,020
+Auf den Strichen hier zu der
+
+253
+00:10:41,020 --> 00:10:43,820
+jeweiligen Farbe steht die
+
+254
+00:10:43,820 --> 00:10:45,960
+Wahrscheinlichkeit dafür. Das heißt,
+
+255
+00:10:46,020 --> 00:10:47,780
+wir starten hier oben und jetzt
+
+256
+00:10:47,780 --> 00:10:49,120
+können wir entweder eine rote ziehen
+
+257
+00:10:49,120 --> 00:10:51,220
+oder eine blaue. Die
+
+258
+00:10:51,220 --> 00:10:52,160
+Wahrscheinlichkeit, dass wir eine
+
+259
+00:10:52,160 --> 00:10:53,860
+blaue Kugel ziehen, ist ein Drittel.
+
+260
+00:10:53,940 --> 00:10:55,500
+Die Wahrscheinlichkeit, dass wir eine
+
+261
+00:10:55,500 --> 00:10:57,060
+rote Kugel ziehen, ist zwei Drittel.
+
+262
+00:10:57,140 --> 00:10:59,220
+Einfach dadurch begründet, wir haben
+
+263
+00:10:59,220 --> 00:11:01,560
+eine blaue Kugel in unserer Urne,
+
+264
+00:11:06,450 --> 00:11:09,610
+rote Kugeln in der Urne und insgesamt
+
+265
+00:11:09,610 --> 00:11:12,430
+drei Striche. Ganz wichtig ist, diese
+
+266
+00:11:12,430 --> 00:11:14,470
+beiden Wahrscheinlichkeiten zusammen
+
+267
+00:11:14,470 --> 00:11:16,310
+addiert müssen immer 1 ergeben und 1
+
+268
+00:11:16,310 --> 00:11:18,190
+Drittel plus 2 Drittel ist wirklich
+
+269
+00:11:18,190 --> 00:11:24,430
+1. Weil wir ohne zurücklegen das
+
+270
+00:11:24,430 --> 00:11:27,390
+Zufallsexperiment durchführen, haben
+
+271
+00:11:27,390 --> 00:11:30,190
+wir, wenn wir jetzt hier bei blau
+
+272
+00:11:30,190 --> 00:11:32,110
+sind, das ist so zu verstehen, wie
+
+273
+00:11:32,110 --> 00:11:33,530
+wir haben gezogen und haben eine
+
+274
+00:11:33,530 --> 00:11:36,330
+blaue Kugel rausgezogen. Und dann
+
+275
+00:11:36,330 --> 00:11:38,830
+müssen wir überlegen, dann gibt es
+
+276
+00:11:38,830 --> 00:11:40,810
+viele. das steht nicht fest, nochmal
+
+277
+00:11:40,810 --> 00:11:42,930
+die Variante blau zu ziehen oder rot
+
+278
+00:11:42,930 --> 00:11:46,090
+zu ziehen. Und wenn wir schon eine
+
+279
+00:11:46,090 --> 00:11:48,230
+blaue Kugel rausgezogen haben und wir
+
+280
+00:11:48,230 --> 00:11:50,970
+sie nicht zurücklegen, überlegen wir
+
+281
+00:11:50,970 --> 00:11:52,610
+uns wie viele blaue Kugeln haben wir
+
+282
+00:11:52,610 --> 00:11:56,570
+noch in der Urne. Das sind 0. Daher
+
+283
+00:11:56,570 --> 00:12:00,070
+steht man hier 0. Wie viele Kugeln
+
+284
+00:12:00,070 --> 00:12:03,070
+haben wir insgesamt? 2. Das heißt das
+
+285
+00:12:03,070 --> 00:12:06,070
+sind 0 halbe und das ist halt 0. Ich
+
+286
+00:12:06,070 --> 00:12:07,010
+denke das kann man sich auch gut
+
+287
+00:12:07,010 --> 00:12:09,370
+vorstellen wenn nur eine blaue kugel
+
+288
+00:12:09,370 --> 00:12:10,970
+in der urne ist kann ich nicht zwei
+
+289
+00:12:10,970 --> 00:12:14,510
+blaue kugeln rausziehen deswegen gibt
+
+290
+00:12:14,510 --> 00:12:17,370
+es hier die wahrscheinlichkeit 0 und
+
+291
+00:12:17,370 --> 00:12:21,110
+zur roten kugel hin läuft das vom
+
+292
+00:12:21,110 --> 00:12:22,830
+prinzip her genau so wir sind hier
+
+293
+00:12:22,830 --> 00:12:24,870
+haben eine blaue kugel rausgezogen
+
+294
+00:12:24,870 --> 00:12:26,310
+und überlegen uns jetzt wie viele
+
+295
+00:12:26,310 --> 00:12:28,830
+rote haben wir noch drin wir haben
+
+296
+00:12:28,830 --> 00:12:30,690
+bis jetzt nur eine blaue rausgezogen
+
+297
+00:12:30,690 --> 00:12:32,450
+daher haben wir noch zwei zwei rote
+
+298
+00:12:32,450 --> 00:12:34,770
+und wir haben insgesamt noch zwei
+
+299
+00:12:34,770 --> 00:12:36,490
+Kugeln. Das ist dann die
+
+300
+00:12:36,490 --> 00:12:38,210
+Wahrscheinlichkeit, zweihalbe und das
+
+301
+00:12:38,210 --> 00:12:38,790
+ist Nummer eins.
+
+302
+00:12:41,940 --> 00:12:43,540
+Wie gesagt, immer wenn ihr so ein
+
+303
+00:12:43,540 --> 00:12:47,160
+Baumdiagramm habt und ihr habt das
+
+304
+00:12:47,160 --> 00:12:49,360
+Beispiel ohne Zurücklegen, dann nimmt
+
+305
+00:12:49,360 --> 00:12:51,340
+der Nenner, sofern ihr nicht kürzt,
+
+306
+00:12:51,380 --> 00:12:55,300
+immer um eins ab, je weiter ihr
+
+307
+00:12:55,300 --> 00:12:59,280
+runter geht. Gleiches wurde hier auf
+
+308
+00:12:59,280 --> 00:13:01,780
+der rechten Seite bei der roten Kugel
+
+309
+00:13:01,780 --> 00:13:06,460
+gemacht. Also man stellt sich jetzt
+
+310
+00:13:06,460 --> 00:13:07,820
+vor, es wurde eine rote Kugel
+
+311
+00:13:07,820 --> 00:13:09,900
+rausgezogen, dann überlegt man sich,
+
+312
+00:13:10,020 --> 00:13:11,500
+wie groß ist die Wahrscheinlichkeit
+
+313
+00:13:11,500 --> 00:13:14,520
+für blau, wie viele blaue Kugeln habe
+
+314
+00:13:14,520 --> 00:13:17,080
+ich noch? Wenn ich hier bin bei rot,
+
+315
+00:13:17,300 --> 00:13:19,540
+habe ich ja nur eine rote
+
+316
+00:13:19,540 --> 00:13:21,360
+rausgezogen, das heißt es ist noch
+
+317
+00:13:21,360 --> 00:13:25,020
+eine blaue in der Urne. Und daher
+
+318
+00:13:25,020 --> 00:13:28,580
+haben wir eins durch und zwei noch,
+
+319
+00:13:28,640 --> 00:13:30,100
+weil wir halt zwei Kugeln haben, also
+
+320
+00:13:30,100 --> 00:13:32,340
+ist die Wahrscheinlichkeit 1,5. Wir
+
+321
+00:13:35,120 --> 00:13:36,880
+können natürlich bzw. wir müssen noch
+
+322
+00:13:36,880 --> 00:13:38,180
+die Wahrscheinlichkeit für eine
+
+323
+00:13:38,180 --> 00:13:41,700
+weitere rote Kugel angeben. Auch hier
+
+324
+00:13:41,700 --> 00:13:43,340
+nochmal, wir haben eine Kugel bereits
+
+325
+00:13:43,340 --> 00:13:45,620
+rausgezogen, eine rote Kugel. Dann
+
+326
+00:13:45,620 --> 00:13:47,420
+haben wir auch nur noch eine rote
+
+327
+00:13:47,420 --> 00:13:49,900
+Kugel und insgesamt zwei und deswegen
+
+328
+00:13:49,900 --> 00:13:53,420
+steht hier auch 1,5. Hier unten gilt
+
+329
+00:13:53,420 --> 00:13:54,180
+auch wieder, dass die
+
+330
+00:13:54,180 --> 00:13:56,200
+Wahrscheinlichkeit plus die 1 ergeben
+
+331
+00:13:56,200 --> 00:14:00,000
+muss. 0 plus 1 ist 1, 1,5 plus 1,5
+
+332
+00:14:00,000 --> 00:14:02,420
+ist ebenfalls 1. Das heißt, hier
+
+333
+00:14:02,420 --> 00:14:03,840
+wurde alles. richtig gerechnet.
+
+334
+00:14:05,820 --> 00:14:08,060
+Kommen wir dann nun zum letzten
+
+335
+00:14:08,060 --> 00:14:09,780
+Thema, und zwar zur bedingten
+
+336
+00:14:09,780 --> 00:14:12,680
+Wahrscheinlichkeit. Grundsätzlich ist
+
+337
+00:14:12,680 --> 00:14:13,440
+es bei der bedingten
+
+338
+00:14:13,440 --> 00:14:15,420
+Wahrscheinlichkeit erstmal so, dass
+
+339
+00:14:15,420 --> 00:14:18,260
+zwei unabhängige Ereignisse
+
+340
+00:14:18,260 --> 00:14:20,960
+miteinander verknüpft werden. Das
+
+341
+00:14:20,960 --> 00:14:22,780
+führt dann auch zu einer besonderen
+
+342
+00:14:22,780 --> 00:14:24,780
+Schreibweise. Diese Schreibweise P
+
+343
+00:14:24,780 --> 00:14:30,880
+auf E' F' zu wird ausgesprochen als
+
+344
+00:14:30,880 --> 00:14:32,840
+die Wahrscheinlichkeit für das
+
+345
+00:14:32,840 --> 00:14:37,060
+Ereignis. unter der bedingung f und
+
+346
+00:14:37,060 --> 00:14:39,060
+wenn man das wirklich als ereignis
+
+347
+00:14:39,060 --> 00:14:40,900
+angeht dann heißt wird dieses f also
+
+348
+00:14:40,900 --> 00:14:43,780
+das was hinter dem streng rechten
+
+349
+00:14:43,780 --> 00:14:45,500
+strich steht auch in den indiz
+
+350
+00:14:45,500 --> 00:14:48,900
+gezogen pf von e und das ist dann
+
+351
+00:14:48,900 --> 00:14:50,940
+gleich die wahrscheinlichkeit für e
+
+352
+00:14:50,940 --> 00:14:52,700
+und f geteilt durch die
+
+353
+00:14:52,700 --> 00:14:56,980
+wahrscheinlichkeit von f dieses
+
+354
+00:14:59,540 --> 00:15:02,280
+p unter der bedingung f ist ist
+
+355
+00:15:02,280 --> 00:15:03,620
+nichts weiter als die
+
+356
+00:15:03,620 --> 00:15:06,300
+Wahrscheinlichkeit für das Ereignis E
+
+357
+00:15:06,300 --> 00:15:07,900
+unter der Bedingung, dass das
+
+358
+00:15:07,900 --> 00:15:10,740
+Ereignis F wirklich eingetreten ist.
+
+359
+00:15:11,620 --> 00:15:14,180
+Solche Aufgaben rechnet man
+
+360
+00:15:14,180 --> 00:15:16,320
+eigentlich immer in der Vierfelder
+
+361
+00:15:16,320 --> 00:15:17,880
+-Tafel. Es geht aber auch mittels
+
+362
+00:15:17,880 --> 00:15:20,260
+eines Baumdiagramms. Wir machen es in
+
+363
+00:15:20,260 --> 00:15:21,780
+folgenden mit der Vierfelder-Tafel.
+
+364
+00:15:22,910 --> 00:15:24,060
+Wir haben hier ein kleines Beispiel.
+
+365
+00:15:25,250 --> 00:15:27,480
+Wir wollen haben die
+
+366
+00:15:27,480 --> 00:15:29,660
+Wahrscheinlichkeit P dafür, dass es
+
+367
+00:15:29,660 --> 00:15:32,040
+ein 1,0er wird. ist unter der
+
+368
+00:15:32,040 --> 00:15:34,960
+Bedingung, dass es ein Junge ist. Das
+
+369
+00:15:34,960 --> 00:15:36,920
+heißt, wir suchen uns die
+
+370
+00:15:36,920 --> 00:15:38,680
+Wahrscheinlichkeit für Jungen mit
+
+371
+00:15:38,680 --> 00:15:41,960
+einem 1-0 Abitur aus und teilen diese
+
+372
+00:15:41,960 --> 00:15:43,100
+Wahrscheinlichkeit durch die
+
+373
+00:15:43,100 --> 00:15:44,460
+Wahrscheinlichkeit für einen Jungen.
+
+374
+00:15:45,180 --> 00:15:47,120
+Wie genau das aussieht, sehen wir
+
+375
+00:15:47,120 --> 00:15:49,160
+gleich. Wir sehen hier erstmal den
+
+376
+00:15:49,160 --> 00:15:54,120
+Aufgabentext dazu. Und bei Vierfelder
+
+377
+00:15:54,120 --> 00:15:55,220
+-Tafeln ist es eigentlich immer so,
+
+378
+00:15:55,260 --> 00:15:56,700
+dass es so einen Aufgabentext gibt
+
+379
+00:15:56,700 --> 00:15:58,760
+und auf Basis dieses Textes die
+
+380
+00:15:58,760 --> 00:16:00,260
+Vierfelder-Tafel erstellt werden
+
+381
+00:16:00,260 --> 00:16:02,700
+soll. Und zwar die
+
+382
+00:16:02,700 --> 00:16:04,540
+Wahrscheinlichkeit, dass von allen
+
+383
+00:16:04,540 --> 00:16:06,580
+Schülern ein Junge einen 1.0
+
+384
+00:16:06,580 --> 00:16:10,160
+Abiturschnitt hat, beträgt PAJ gleich
+
+385
+00:16:10,160 --> 00:16:13,000
+0,005. Das heißt, das ist die
+
+386
+00:16:13,000 --> 00:16:15,120
+Wahrscheinlichkeit, dass es ein 1.0
+
+387
+00:16:15,120 --> 00:16:16,540
+Abiturschnitt ist und es ein Junge
+
+388
+00:16:16,540 --> 00:16:19,040
+ist. Die Schulleitung weiß, dass
+
+389
+00:16:19,040 --> 00:16:21,280
+insgesamt 5% aller Schüler einen 1.0
+
+390
+00:16:21,280 --> 00:16:24,580
+Abiabschluss erreichen werden. 50%
+
+391
+00:16:24,580 --> 00:16:26,460
+von allen Schülern sind Mädchen und
+
+392
+00:16:26,460 --> 00:16:30,040
+haben keinen 1.0 Schnitt. Diese
+
+393
+00:16:30,040 --> 00:16:31,560
+Informationen trägt man in so eine
+
+394
+00:16:31,560 --> 00:16:34,120
+Vierfelder-Tafel ein. J steht erstmal
+
+395
+00:16:34,120 --> 00:16:36,640
+für Jungen, J' sind keine Jungen,
+
+396
+00:16:36,660 --> 00:16:39,280
+also in diesem Fall Mädchen dann. A
+
+397
+00:16:39,280 --> 00:16:43,400
+steht für das 1.0 Abitur, A' für kein
+
+398
+00:16:43,400 --> 00:16:46,060
+1.0 Abitur. Wir hatten ja gerade
+
+399
+00:16:46,060 --> 00:16:49,560
+genannt bekommen, dass 0,005 der
+
+400
+00:16:49,560 --> 00:16:52,780
+Jungen einen 1.0 Abiturschnitt haben,
+
+401
+00:16:52,900 --> 00:16:53,560
+beziehungsweise die
+
+402
+00:16:53,560 --> 00:16:55,620
+Wahrscheinlichkeit, dass ein Junge
+
+403
+00:16:55,620 --> 00:16:57,360
+einen 1.0 Abiturschnitt hat, beträgt
+
+404
+00:16:57,360 --> 00:16:58,200
+0,005.
+
+405
+00:17:01,320 --> 00:17:04,080
+Des Weiteren weiß die Schulleitung,
+
+406
+00:17:04,180 --> 00:17:06,280
+dass insgesamt 5% der Schülerinnen
+
+407
+00:17:06,280 --> 00:17:08,200
+und Schüler einen 1,0 Abiturschnitt
+
+408
+00:17:08,200 --> 00:17:12,500
+haben. Daraus können wir, deswegen
+
+409
+00:17:12,500 --> 00:17:14,360
+können wir diese 0,05 ausrechnen.
+
+410
+00:17:15,100 --> 00:17:18,480
+Denn diese 5
+
+411
+00:17:20,170 --> 00:17:23,270
+% setzen sich ja aus Jungen und Nicht
+
+412
+00:17:23,270 --> 00:17:24,430
+-Jungen, also Mädchen zusammen.
+
+413
+00:17:25,330 --> 00:17:27,710
+Deswegen stehen die hier rechts. Und
+
+414
+00:17:27,710 --> 00:17:28,970
+bei der Vierfelder-Tafel ist es immer
+
+415
+00:17:28,970 --> 00:17:31,250
+so, dass die beiden Ereignisse, also
+
+416
+00:17:31,250 --> 00:17:33,050
+das plus das, muss das ergeben. Das
+
+417
+00:17:33,050 --> 00:17:35,370
+plus das muss das ergeben. Das plus
+
+418
+00:17:35,370 --> 00:17:37,790
+das muss das ergeben. Und unten
+
+419
+00:17:37,790 --> 00:17:39,350
+rechts muss immer eine 1 stehen.
+
+420
+00:17:40,590 --> 00:17:43,290
+Deswegen können wir hier diese 0,045
+
+421
+00:17:43,290 --> 00:17:47,350
+direkt ausrechnen. 0,05 minus 0,005
+
+422
+00:17:47,350 --> 00:17:50,850
+ist 0,045. Das heißt, wir können
+
+423
+00:17:50,850 --> 00:17:52,850
+sagen, dass die Wahrscheinlichkeit
+
+424
+00:17:52,850 --> 00:17:55,150
+für ein Mädchen mit 1,0 Abiturschnitt
+
+425
+00:17:55,150 --> 00:18:02,530
+0,04 5 beträgt. Also 4,5%. Des
+
+426
+00:18:02,530 --> 00:18:07,130
+Weiteren wurde ja genannt, dass 50%
+
+427
+00:18:07,130 --> 00:18:10,410
+der Stufe Mädchen sind, die keinen 1
+
+428
+00:18:10,410 --> 00:18:12,890
+,0 Abiturschnitt haben. Die tauchen
+
+429
+00:18:12,890 --> 00:18:16,010
+dann auch wieder hier auf. Und mit
+
+430
+00:18:16,010 --> 00:18:17,710
+diesen beiden Elementen können wir
+
+431
+00:18:17,710 --> 00:18:19,150
+nun das Element hier unten berechnen.
+
+432
+00:18:19,190 --> 00:18:21,350
+Also das plus das dann das. So kommen
+
+433
+00:18:21,350 --> 00:18:24,250
+wir auf 0,545. Wie gerade schon
+
+434
+00:18:24,250 --> 00:18:26,130
+gesagt, hier unten Unten steht immer
+
+435
+00:18:26,130 --> 00:18:31,270
+die 1, daher können wir die 0,455
+
+436
+00:18:31,270 --> 00:18:35,950
+berechnen. 1 minus 0,545 ist 0,455.
+
+437
+00:18:36,490 --> 00:18:38,310
+Wenn wir diese haben, können wir das
+
+438
+00:18:38,310 --> 00:18:39,850
+vorletzte Element hier oben auch
+
+439
+00:18:39,850 --> 00:18:43,150
+berechnen. Das ist das hier, denn 0
+
+440
+00:18:43,150 --> 00:18:48,730
+,455 minus 0,05 ist 0,45. Und so
+
+441
+00:18:48,730 --> 00:18:49,850
+kommen wir dann, wenn wir die beiden
+
+442
+00:18:49,850 --> 00:18:52,430
+addieren, auf die 0,95. Damit ist
+
+443
+00:18:52,430 --> 00:18:54,550
+unsere Vierfelder-Tafel fertig. Und
+
+444
+00:18:54,550 --> 00:18:56,450
+wir können die Fragen beantworten.
+
+445
+00:18:56,910 --> 00:18:59,090
+Wir haben jetzt hier einmal die
+
+446
+00:18:59,090 --> 00:19:02,010
+Frage, bestimme P, J unter der
+
+447
+00:19:02,010 --> 00:19:03,610
+Bedingung A'. Dort nehmen wir jetzt
+
+448
+00:19:03,610 --> 00:19:06,030
+einfach immer die anfangs gezeigte
+
+449
+00:19:06,030 --> 00:19:09,630
+Formel. Das heißt, P von J und A'
+
+450
+00:19:09,830 --> 00:19:12,530
+durch P von A'. Das ist dann 0,45
+
+451
+00:19:12,530 --> 00:19:17,650
+durch 0,95, also 47,4%. Bestimme P
+
+452
+00:19:17,650 --> 00:19:19,570
+von J, das ist praktisch. P von J
+
+453
+00:19:19,570 --> 00:19:21,410
+können wir direkt ablesen. Das sind
+
+454
+00:19:21,410 --> 00:19:24,190
+45,5% dann. Das ist einfach das hier.
+
+455
+00:19:24,570 --> 00:19:28,830
+Und P von A J'. Das heißt, wir bilden
+
+456
+00:19:28,830 --> 00:19:34,910
+P von A und J und müssen dieses noch
+
+457
+00:19:34,910 --> 00:19:38,510
+durch P von J' teilen. J' ist wie
+
+458
+00:19:38,510 --> 00:19:41,410
+gesagt dieses Element. P von A und J'
+
+459
+00:19:41,630 --> 00:19:44,750
+ist dieses Element. Und kommen so auf
+
+460
+00:19:44,750 --> 00:19:49,730
+8,3%. Wir wären nun am Ende des
+
+461
+00:19:49,730 --> 00:19:51,450
+Webinars. Ich hoffe, ihr hattet
+
+462
+00:19:51,450 --> 00:19:53,610
+gefallen. und ich bedanke mich recht
+
+463
+00:19:53,610 --> 00:19:55,070
+herzlich für eure Aufmerksamkeit.
+

@@ -1,0 +1,488 @@
+1
+00:00:04,020 --> 00:00:06,320
+Hallo, mein Name ist Nick und ich bin
+
+2
+00:00:06,320 --> 00:00:08,360
+Nachhilfelehrer der Schülerhilfe. Ich
+
+3
+00:00:08,360 --> 00:00:09,880
+möchte dir heute einen Einblick in
+
+4
+00:00:09,880 --> 00:00:11,840
+das Thema Atome, Moleküle und Ionen
+
+5
+00:00:11,840 --> 00:00:14,080
+geben. Weitere Inhalte zu diesen und
+
+6
+00:00:14,080 --> 00:00:15,740
+vielen anderen Themen findest du
+
+7
+00:00:15,740 --> 00:00:16,960
+natürlich auch in unserem Online
+
+8
+00:00:16,960 --> 00:00:19,820
+-Lerncenter. Atome sind prinzipiell
+
+9
+00:00:19,820 --> 00:00:21,320
+die kleinste Einheit der Materie,
+
+10
+00:00:21,360 --> 00:00:23,240
+bestehen aber aus subatomaren, also
+
+11
+00:00:23,240 --> 00:00:25,320
+noch kleineren Teilchen. Das Kern
+
+12
+00:00:25,320 --> 00:00:27,480
+-Hülle-Modell bezeichnet Atomkern und
+
+13
+00:00:27,480 --> 00:00:30,100
+Hülle. Der Atomkern besteht aus einer
+
+14
+00:00:30,100 --> 00:00:32,080
+gleichen Anzahl von positiv geladenen
+
+15
+00:00:32,080 --> 00:00:34,020
+Protonen und neutral geladenen
+
+16
+00:00:34,020 --> 00:00:36,360
+Neutronen. Die Hülle hingegen besteht
+
+17
+00:00:36,360 --> 00:00:38,780
+aus negativ geladenen Elektronen. Der
+
+18
+00:00:38,780 --> 00:00:40,280
+Kern und die Hülle neutralisieren
+
+19
+00:00:40,280 --> 00:00:42,600
+sich. Das Heliumatom besteht
+
+20
+00:00:42,600 --> 00:00:44,120
+beispielsweise im Kern aus zwei
+
+21
+00:00:44,120 --> 00:00:46,220
+Protonen und zwei Neutronen und die
+
+22
+00:00:46,220 --> 00:00:48,900
+Hülle aus zwei Elektronen. Wusstest
+
+23
+00:00:48,900 --> 00:00:50,680
+du, dass das Wort Atom vom
+
+24
+00:00:50,680 --> 00:00:52,800
+altgriechischen atomos kommt und
+
+25
+00:00:52,800 --> 00:00:54,920
+unteilbar bedeutet? Elemente, die
+
+26
+00:00:54,920 --> 00:00:56,400
+Bausteine aller Materie, sind
+
+27
+00:00:56,400 --> 00:00:58,340
+entweder atomar und bestehen nur aus
+
+28
+00:00:58,340 --> 00:01:00,640
+einem Teilchen, wie Natrium, oder
+
+29
+00:01:00,640 --> 00:01:02,280
+molekular und bestehen aus zwei
+
+30
+00:01:02,280 --> 00:01:04,580
+Teilchen, wie Sauerstoff. Zu
+
+31
+00:01:04,580 --> 00:01:06,380
+Molekülen lassen sich auch Atome
+
+32
+00:01:06,380 --> 00:01:07,880
+verschiedener Elemente verbinden.
+
+33
+00:01:07,980 --> 00:01:09,680
+Eins der bekanntesten Moleküle ist
+
+34
+00:01:09,680 --> 00:01:12,080
+H2O, das wir als Wasser kennen. Es
+
+35
+00:01:12,080 --> 00:01:13,760
+ist eine Verbindung aus jeweils einem
+
+36
+00:01:13,760 --> 00:01:14,680
+Sauerstoff- und zwei
+
+37
+00:01:14,680 --> 00:01:16,740
+Wasserstoffatomen. Atome verbinden
+
+38
+00:01:16,740 --> 00:01:18,360
+sich zu Molekülen, indem sie ihre
+
+39
+00:01:18,360 --> 00:01:20,180
+Außenelektronen in einer sogenannten
+
+40
+00:01:20,180 --> 00:01:21,500
+Elektronenverbindung, auch
+
+41
+00:01:21,500 --> 00:01:23,120
+Atombindung genannt, untereinander
+
+42
+00:01:23,120 --> 00:01:25,200
+teilen. Moleküle sind in der Regel
+
+43
+00:01:25,200 --> 00:01:27,320
+energetisch günstiger, weswegen alle
+
+44
+00:01:27,320 --> 00:01:29,560
+Elemente außer der Edelgasung nach
+
+45
+00:01:29,560 --> 00:01:31,860
+Verbindungen streben. Ionen sind
+
+46
+00:01:31,860 --> 00:01:33,280
+geladene Atome. Durch
+
+47
+00:01:33,280 --> 00:01:35,340
+Elektronenabgabe werden sie entweder
+
+48
+00:01:35,340 --> 00:01:36,760
+positiv geladen und nennen sich
+
+49
+00:01:36,760 --> 00:01:39,440
+Kationen oder durch Elektronaufnahme
+
+50
+00:01:39,440 --> 00:01:41,160
+werden sie negativ geladen und nennen
+
+51
+00:01:41,160 --> 00:01:43,680
+sich Anionen. Natriumchlorid oder wie
+
+52
+00:01:43,680 --> 00:01:45,260
+du es wahrscheinlich kennst Kochsalz
+
+53
+00:01:45,260 --> 00:01:47,020
+besteht aus einem Natriumkation und
+
+54
+00:01:47,020 --> 00:01:49,080
+einem Chloridanion. Die positive
+
+55
+00:01:49,080 --> 00:01:50,980
+Ladung des Natriumkations und die
+
+56
+00:01:50,980 --> 00:01:52,540
+negative Ladung des Chloridanions
+
+57
+00:01:52,540 --> 00:01:54,440
+ziehen sich wie Magneten an und
+
+58
+00:01:54,440 --> 00:01:56,440
+bilden einen Salzkristall. Diese Art
+
+59
+00:01:56,440 --> 00:01:58,020
+der Bindung nennt sich Ionenbindung.
+
+60
+00:01:58,400 --> 00:01:59,920
+Ionenbindungen im Gegensatz zu
+
+61
+00:01:59,920 --> 00:02:01,380
+Elektronenpaarbindungen, die sich
+
+62
+00:02:01,380 --> 00:02:02,440
+ihre Elektronen teilen,
+
+63
+00:02:02,520 --> 00:02:04,960
+funktionieren, indem ein Partner die
+
+64
+00:02:04,960 --> 00:02:06,560
+Elektronen des anderen Partners an
+
+65
+00:02:06,560 --> 00:02:08,820
+sich reißt. Was beide Bindungsarten
+
+66
+00:02:08,820 --> 00:02:10,560
+allerdings gemeinsam haben, ist der
+
+67
+00:02:10,560 --> 00:02:12,260
+Wunsch der Erfüllung der Oktettregel,
+
+68
+00:02:12,280 --> 00:02:13,880
+also der Wunsch nach 8
+
+69
+00:02:13,880 --> 00:02:15,880
+Außenelektronen, um stabil zu sein.
+
+70
+00:02:15,880 --> 00:02:17,600
+Du weißt doch, dass Mineralwasser
+
+71
+00:02:17,600 --> 00:02:19,160
+anders schmeckt als Stilles. Das
+
+72
+00:02:19,160 --> 00:02:20,860
+liegt an den im Wasser gelösten
+
+73
+00:02:20,860 --> 00:02:22,600
+Ionen. Sie machen das Wasser nicht
+
+74
+00:02:22,600 --> 00:02:24,300
+nur leitfähiger für Strom, weil
+
+75
+00:02:24,300 --> 00:02:25,640
+geladene Teilchen in ihm schwimmen,
+
+76
+00:02:25,700 --> 00:02:27,220
+sondern ändern auch den Geschmack.
+
+77
+00:02:27,600 --> 00:02:29,420
+Destilliertes Wasser, also Wasser
+
+78
+00:02:29,420 --> 00:02:31,480
+ohne Ionen, leitet dementsprechend
+
+79
+00:02:31,480 --> 00:02:33,120
+keinen Strom. Ob es sich bei der
+
+80
+00:02:33,120 --> 00:02:34,540
+Verbindung von Teilchen verschiedener
+
+81
+00:02:34,540 --> 00:02:36,500
+Elemente um eine Atom- oder
+
+82
+00:02:36,500 --> 00:02:38,440
+Ionenbindung handelt, kann man auch
+
+83
+00:02:38,440 --> 00:02:39,720
+an der Differenz ihrer
+
+84
+00:02:39,720 --> 00:02:42,140
+Elektronegativität erkennen. Die
+
+85
+00:02:42,140 --> 00:02:44,260
+Elektronegativität ist ein relatives
+
+86
+00:02:44,260 --> 00:02:46,780
+Maß für die Fähigkeit eines Atoms in
+
+87
+00:02:46,780 --> 00:02:48,680
+einer Bindung Elektronenpaare an sich
+
+88
+00:02:48,680 --> 00:02:50,600
+zu ziehen. Sie ist abhängig von der
+
+89
+00:02:50,600 --> 00:02:52,940
+Kernladung und dem Atomradius sowie
+
+90
+00:02:52,940 --> 00:02:54,660
+von der Anzahl der Außenelektronen.
+
+91
+00:02:55,000 --> 00:02:56,800
+Halogene weisen eine sehr hohe
+
+92
+00:02:56,800 --> 00:02:58,940
+Elektronegativität auf, Metalle
+
+93
+00:02:58,940 --> 00:03:00,480
+relativ niedrige. Die
+
+94
+00:03:00,480 --> 00:03:02,700
+Elektronegativität eines Elements
+
+95
+00:03:02,700 --> 00:03:04,240
+lässt sich dem Periodensystem
+
+96
+00:03:04,240 --> 00:03:06,540
+entnehmen. Eine hohe Differenz, meist
+
+97
+00:03:06,540 --> 00:03:08,580
+über 1,7, resultiert in einer
+
+98
+00:03:08,580 --> 00:03:09,740
+Ionenbindung, bei der das
+
+99
+00:03:09,740 --> 00:03:11,360
+elektronegativere Teilchen dem
+
+100
+00:03:11,360 --> 00:03:13,480
+anderen das oder die Außenelektronen
+
+101
+00:03:13,480 --> 00:03:15,220
+ausreißt, wie es bei Natriumchlorid
+
+102
+00:03:15,220 --> 00:03:17,820
+der Fall ist. Ist die Differenz
+
+103
+00:03:17,820 --> 00:03:19,900
+hingegen relativ gering, teilen sich
+
+104
+00:03:19,900 --> 00:03:21,880
+die Atome ihre Außenelektronen und es
+
+105
+00:03:21,880 --> 00:03:22,660
+handelt sich um eine
+
+106
+00:03:22,660 --> 00:03:25,300
+Elektronenpaarbindung, also um ein
+
+107
+00:03:25,300 --> 00:03:27,560
+Molekül wie Wasser. Bei der
+
+108
+00:03:27,560 --> 00:03:28,860
+Verbindung zwischen Metallen und
+
+109
+00:03:28,860 --> 00:03:30,440
+Nichtmetallen handelt es sich oft um
+
+110
+00:03:30,440 --> 00:03:33,260
+eine Ionbindung. Die resultierende
+
+111
+00:03:33,260 --> 00:03:34,820
+Struktur ist in der Regel ein
+
+112
+00:03:34,820 --> 00:03:36,220
+Salzkristall mit seinen typischen
+
+113
+00:03:36,220 --> 00:03:38,560
+Eigenschaften. Der Grund für die
+
+114
+00:03:38,560 --> 00:03:40,420
+Bindung von Molekülen oder Ionen aus
+
+115
+00:03:40,420 --> 00:03:42,720
+Atomen ist das Streben aller Elemente
+
+116
+00:03:42,720 --> 00:03:44,600
+nach einer vollen Außenschale, der
+
+117
+00:03:44,600 --> 00:03:46,140
+sogenannten Edelgaskonfiguration.
+
+118
+00:03:46,760 --> 00:03:48,500
+Vielen Dank für deine Aufmerksamkeit.
+
+119
+00:03:48,540 --> 00:03:49,900
+Ich hoffe, das Video konnte dir zu
+
+120
+00:03:49,900 --> 00:03:51,440
+einem besseren Verständnis des Themas
+
+121
+00:03:51,440 --> 00:03:53,380
+Atome, Moleküle und Ionen verhelfen.
+
+122
+00:03:53,620 --> 00:03:54,680
+Bis zum nächsten Mal.
+

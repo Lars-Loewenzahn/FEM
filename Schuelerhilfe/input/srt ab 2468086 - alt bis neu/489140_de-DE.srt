@@ -1,0 +1,556 @@
+1
+00:00:00,590 --> 00:00:02,230
+Hallo und herzlich willkommen zu
+
+2
+00:00:02,230 --> 00:00:04,010
+einem Lernvideo bei der Schülerhilfe.
+
+3
+00:00:04,130 --> 00:00:05,870
+Unser heutiges Thema ist das
+
+4
+00:00:05,870 --> 00:00:07,850
+Genitivattribut. In diesem
+
+5
+00:00:07,850 --> 00:00:09,130
+Zusammenhang wollen wir erst einmal
+
+6
+00:00:09,130 --> 00:00:10,390
+klären, was ist überhaupt ein
+
+7
+00:00:10,390 --> 00:00:13,210
+Attribut und was ist der Genitiv. Ein
+
+8
+00:00:13,210 --> 00:00:15,050
+Attribut ist die nähere Bestimmung
+
+9
+00:00:15,050 --> 00:00:17,650
+eines Substantivs und der Genitiv ist
+
+10
+00:00:17,650 --> 00:00:19,730
+der Kasus der Zugehörigkeit oder auch
+
+11
+00:00:19,730 --> 00:00:20,630
+des Bereichs.
+
+12
+00:00:29,860 --> 00:00:31,960
+Dabei wird ein Nomen von einem
+
+13
+00:00:31,960 --> 00:00:34,260
+weiteren Nomen als Attribut abhängig
+
+14
+00:00:34,260 --> 00:00:36,340
+gemacht. Das Ganze kann in vier
+
+15
+00:00:36,340 --> 00:00:38,120
+unterschiedlichen Formen vorliegen,
+
+16
+00:00:38,160 --> 00:00:39,560
+die wir uns im Folgenden genauer
+
+17
+00:00:39,560 --> 00:00:40,300
+anschauen wollen.
+
+18
+00:00:49,500 --> 00:00:51,660
+Zunächst haben wir dort den Genitivus
+
+19
+00:00:51,660 --> 00:00:54,320
+possessivus, also den Genitiv der
+
+20
+00:00:54,320 --> 00:00:57,740
+Zugehörigkeit im engeren Sinne, den
+
+21
+00:00:57,740 --> 00:01:01,040
+wir mit der Frage, wessen, erfragen
+
+22
+00:01:01,040 --> 00:01:05,260
+können. Als Beispiele hätten wir dort
+
+23
+00:01:05,260 --> 00:01:08,920
+Villa Patris, mit Patris unseren
+
+24
+00:01:08,920 --> 00:01:11,120
+Genitiv Singular, Das würden wir
+
+25
+00:01:11,120 --> 00:01:14,560
+übersetzen
+
+26
+00:01:14,560 --> 00:01:17,160
+mit das Landhaus des Vaters.
+
+27
+00:01:20,240 --> 00:01:23,240
+Und als weiteres Beispiel Mata Pueri,
+
+28
+00:01:23,420 --> 00:01:27,280
+wieder unser Genitiv. Und in der
+
+29
+00:01:27,280 --> 00:01:29,080
+Übersetzung würde das folgendermaßen
+
+30
+00:01:29,080 --> 00:01:31,680
+lauten, nämlich die Mutter des
+
+31
+00:01:31,680 --> 00:01:35,940
+Jungen. Die zweite Form, die du gut
+
+32
+00:01:35,940 --> 00:01:37,640
+verinnerlichen solltest, ist der
+
+33
+00:01:37,640 --> 00:01:39,980
+Genitivus Subjektivus und der
+
+34
+00:01:39,980 --> 00:01:42,240
+Genitivus Objektivus. Die
+
+35
+00:01:42,240 --> 00:01:43,740
+Entscheidung, wie man das im
+
+36
+00:01:43,740 --> 00:01:45,400
+Folgenden übersetzt, hängt dabei
+
+37
+00:01:45,400 --> 00:01:47,920
+immer vom Zusammenhang ab. Um das zu
+
+38
+00:01:47,920 --> 00:01:49,260
+veranschaulichen, werden wir im
+
+39
+00:01:49,260 --> 00:01:51,180
+Folgenden ein und dasselbe Beispiel
+
+40
+00:01:51,180 --> 00:01:53,120
+betrachten, aber auf zwei
+
+41
+00:01:53,120 --> 00:01:54,840
+unterschiedliche Arten übersetzen.
+
+42
+00:01:55,300 --> 00:01:57,620
+Zunächst im Genitivus Subjektivus,
+
+43
+00:01:57,720 --> 00:02:00,000
+der uns nämlich die Person angibt,
+
+44
+00:02:00,020 --> 00:02:03,540
+die etwas fühlt oder tut. Wir hätten
+
+45
+00:02:03,540 --> 00:02:07,060
+hier Amor Matris, Matris unseren
+
+46
+00:02:07,060 --> 00:02:12,360
+Genitiv, die Liebe der Mord. Beim
+
+47
+00:02:12,360 --> 00:02:14,500
+Genitivus Objektivus wird nun aber
+
+48
+00:02:14,500 --> 00:02:16,600
+wiederum Bezug auf die Person oder
+
+49
+00:02:16,600 --> 00:02:18,800
+Sache genommen, mit der etwas getan
+
+50
+00:02:18,800 --> 00:02:20,660
+wird oder auf die sich dann ein
+
+51
+00:02:20,660 --> 00:02:22,880
+Gefühl richtet. Wir haben wieder
+
+52
+00:02:22,880 --> 00:02:26,500
+unser Beispiel Amor Matris, unsere
+
+53
+00:02:26,500 --> 00:02:29,480
+typische Genitivendung, und das wäre
+
+54
+00:02:29,480 --> 00:02:33,800
+dann die Liebe zur Mutter. Du hast
+
+55
+00:02:33,800 --> 00:02:35,560
+hier also zwei Möglichkeiten und
+
+56
+00:02:35,560 --> 00:02:37,120
+musst dann je nach dem Kontext
+
+57
+00:02:37,120 --> 00:02:38,360
+entscheiden, welche
+
+58
+00:02:38,360 --> 00:02:39,760
+Übersetzungsmöglichkeit du hast. die
+
+59
+00:02:39,760 --> 00:02:42,560
+geeignetare wäre. Des Weiteren ist an
+
+60
+00:02:42,560 --> 00:02:44,360
+dieser Stelle wichtig, dass ein Nomen
+
+61
+00:02:44,360 --> 00:02:46,160
+von einem weiteren Nomen abhängig
+
+62
+00:02:46,160 --> 00:02:48,180
+gemacht wird, das einen Verbalbegriff
+
+63
+00:02:48,180 --> 00:02:50,340
+beinhaltet, also zum Beispiel eine
+
+64
+00:02:50,340 --> 00:02:53,440
+Handlung oder ein Gefühl. Unsere
+
+65
+00:02:53,440 --> 00:02:55,620
+dritte Unterkategorie bildet der
+
+66
+00:02:55,620 --> 00:02:57,640
+Genitivus Qualitatis, der uns die
+
+67
+00:02:57,640 --> 00:03:01,800
+Beschaffenheit oder die Eigenschaft
+
+68
+00:03:01,800 --> 00:03:05,280
+eines Substantivs angeben kann. Auch
+
+69
+00:03:05,280 --> 00:03:07,060
+hierbei sind wieder ein Substantiv
+
+70
+00:03:07,060 --> 00:03:08,460
+und ein Attribut jetzt aber
+
+71
+00:03:08,460 --> 00:03:09,740
+miteinander verknüpft.
+
+72
+00:03:15,260 --> 00:03:17,420
+Meist bezeichnet der Applativus
+
+73
+00:03:17,420 --> 00:03:20,860
+Qualitatis dabei eine Größe, ein Maß,
+
+74
+00:03:21,300 --> 00:03:25,160
+eine Menge, eine Zahl oder einen
+
+75
+00:03:25,160 --> 00:03:29,180
+Rang. Unser Beispiel wäre res und
+
+76
+00:03:29,180 --> 00:03:32,460
+dann kommt unser Genitiv, eius modi,
+
+77
+00:03:32,480 --> 00:03:37,140
+eine Sache von dieser Art oder als
+
+78
+00:03:37,140 --> 00:03:38,840
+abjektivische Übersetzung einfach
+
+79
+00:03:38,840 --> 00:03:43,400
+eine derartige Sache. Zuletzt schauen
+
+80
+00:03:43,400 --> 00:03:44,880
+wir uns nun noch den Genitivus
+
+81
+00:03:44,880 --> 00:03:46,700
+Partitivus. oder auch Genitivus
+
+82
+00:03:46,700 --> 00:03:49,560
+totius an. Dieser gibt das Verhältnis
+
+83
+00:03:49,560 --> 00:03:51,620
+eines Teils zu einer Gesamtmenge an
+
+84
+00:03:51,620 --> 00:03:53,720
+und ist dabei dann meistens abhängig
+
+85
+00:03:53,720 --> 00:03:55,740
+von einem Mengenbegriff. Diese
+
+86
+00:03:55,740 --> 00:03:57,560
+Mengenbegriffe im ersten Beispiel
+
+87
+00:03:57,560 --> 00:04:02,080
+hätten wir Nemo und unseren Genitiv
+
+88
+00:04:02,080 --> 00:04:04,840
+Vestrum und würden das übersetzen mit
+
+89
+00:04:04,840 --> 00:04:10,750
+keiner von euch. Im zweiten Beispiel
+
+90
+00:04:10,750 --> 00:04:12,550
+hätten wir als Mengenbegriff Pars,
+
+91
+00:04:12,870 --> 00:04:15,870
+also den Teil und als Genitiv
+
+92
+00:04:16,010 --> 00:04:18,850
+Militum. Und das würden wir
+
+93
+00:04:18,850 --> 00:04:22,130
+übersetzen mit ein Teil der Soldaten.
+
+94
+00:04:30,680 --> 00:04:32,520
+Gut merken solltest du dir aber
+
+95
+00:04:32,520 --> 00:04:33,920
+allerdings, dass es auch noch weitere
+
+96
+00:04:33,920 --> 00:04:36,120
+Bezugswörter gibt. Zum Beispiel den
+
+97
+00:04:36,120 --> 00:04:38,020
+Nominativ oder Akkusativ eines
+
+98
+00:04:38,020 --> 00:04:40,600
+Pronoms oder eines Adjektivs im
+
+99
+00:04:40,600 --> 00:04:42,640
+Neutrum. Dort hätten wir zum Beispiel
+
+100
+00:04:42,640 --> 00:04:46,720
+Satis temporis, Dann Genitiv, genug
+
+101
+00:04:46,720 --> 00:04:51,280
+an Zeit oder einfach genug Zeit. Und
+
+102
+00:04:51,280 --> 00:04:54,200
+nihil boni, auch wieder hier die
+
+103
+00:04:54,200 --> 00:04:55,920
+Genitivendung und dann hätten wir
+
+104
+00:04:55,920 --> 00:04:57,720
+nichts Gutes.
+
+105
+00:04:59,540 --> 00:05:01,400
+Oftmals kann auch noch die höchste
+
+106
+00:05:01,400 --> 00:05:03,820
+Steigerungsform, also der Superlativ
+
+107
+00:05:03,820 --> 00:05:06,260
+stehen. Unser Beispiel hier wäre
+
+108
+00:05:06,260 --> 00:05:08,940
+pulcherima, das wäre unser
+
+109
+00:05:08,940 --> 00:05:13,100
+Superlativ, dearum, unser Genitiv.
+
+110
+00:05:13,680 --> 00:05:15,240
+Und wir würden das Ganze übersetzen
+
+111
+00:05:15,240 --> 00:05:19,820
+mit die schönste Göttin. Hier hätten
+
+112
+00:05:19,820 --> 00:05:21,360
+wir den Genitiv dann nicht eins zu
+
+113
+00:05:21,360 --> 00:05:23,600
+eins wiedergegeben. Oder aber dann in
+
+114
+00:05:23,600 --> 00:05:25,220
+der wörtlichen Übersetzung die
+
+115
+00:05:25,220 --> 00:05:31,200
+schönste der Göttinnen. Zum Schluss
+
+116
+00:05:31,200 --> 00:05:32,900
+nur noch eine kurze Zusammenfassung,
+
+117
+00:05:32,940 --> 00:05:34,800
+damit du die Themen noch einmal Revue
+
+118
+00:05:34,800 --> 00:05:37,080
+passieren lassen kannst. Ein Attribut
+
+119
+00:05:37,080 --> 00:05:38,520
+ist die nähere Bestimmung eines
+
+120
+00:05:38,520 --> 00:05:40,740
+Substantivs. Und der Genitiv ist
+
+121
+00:05:40,740 --> 00:05:41,940
+dabei der Kasus der Zugehörigkeit.
+
+122
+00:05:42,680 --> 00:05:45,080
+oder auch des Bereichs. Des
+
+123
+00:05:49,080 --> 00:05:50,580
+Weiteren hast du kennengelernt, dass
+
+124
+00:05:50,580 --> 00:05:52,300
+hierbei ein Nomen von einem anderen
+
+125
+00:05:52,300 --> 00:05:54,200
+Nomen als Attribut abhängig gemacht
+
+126
+00:05:54,200 --> 00:05:56,820
+wird. Die vier Unterkategorien des
+
+127
+00:05:56,820 --> 00:05:58,760
+Genitivattributs sind dann hierbei
+
+128
+00:05:58,760 --> 00:06:01,240
+der Genitivus possessivus, also der
+
+129
+00:06:01,240 --> 00:06:03,400
+Genitiv der Zugehörigkeit im engeren
+
+130
+00:06:03,400 --> 00:06:05,980
+Sinne, dann Genitivus subjektivus und
+
+131
+00:06:05,980 --> 00:06:07,600
+objektivus, die jeweils vom
+
+132
+00:06:07,600 --> 00:06:09,260
+Zusammenhang abhängig sind, wie wir
+
+133
+00:06:09,260 --> 00:06:11,300
+kennengelernt haben, an dritter
+
+134
+00:06:11,300 --> 00:06:14,360
+Stelle der Genitivus Qualitatis und
+
+135
+00:06:14,360 --> 00:06:16,200
+zu guter Letzt noch der Genitivus
+
+136
+00:06:16,200 --> 00:06:18,500
+Partitivus oder auch Totius genannt.
+
+137
+00:06:20,020 --> 00:06:22,120
+Vielen Dank für deine Aufmerksamkeit
+
+138
+00:06:22,120 --> 00:06:23,840
+und bis bald bei einem Video der
+
+139
+00:06:23,840 --> 00:06:24,540
+Schülerhilfe.
+

@@ -1,0 +1,2312 @@
+1
+00:00:00,780 --> 00:00:02,720
+Herzlich willkommen zum Webinar
+
+2
+00:00:02,720 --> 00:00:03,920
+Exponential- und
+
+3
+00:00:03,920 --> 00:00:06,200
+Legarithmusfunktionen. Wir befassen
+
+4
+00:00:06,200 --> 00:00:07,640
+uns in diesem Webinar mit den
+
+5
+00:00:07,640 --> 00:00:09,360
+Grundlagen dieser beiden
+
+6
+00:00:09,360 --> 00:00:12,720
+Funktionsarten. Wir fangen mit den
+
+7
+00:00:12,720 --> 00:00:15,160
+Exponentialfunktionen an, schauen uns
+
+8
+00:00:15,160 --> 00:00:17,740
+erstmal an, was genau ist eine
+
+9
+00:00:17,740 --> 00:00:19,900
+Exponentialfunktion und woran erkenne
+
+10
+00:00:19,900 --> 00:00:22,060
+ich sie? Also was macht eine
+
+11
+00:00:22,060 --> 00:00:24,080
+Exponentialfunktion letzten Endes zu
+
+12
+00:00:24,080 --> 00:00:27,000
+einer Exponentialfunktion? Danach
+
+13
+00:00:27,000 --> 00:00:28,720
+schauen wir uns noch die E-Funktion
+
+14
+00:00:28,720 --> 00:00:31,040
+an. Und wir lösen ein paar
+
+15
+00:00:31,040 --> 00:00:33,620
+Exponentialgleichungen. Bei der
+
+16
+00:00:33,620 --> 00:00:35,080
+Logarithmusfunktion werden wir
+
+17
+00:00:35,080 --> 00:00:36,440
+eigentlich gleich das gleiche Prinzip
+
+18
+00:00:36,440 --> 00:00:38,500
+abfahren. Wir schauen uns erstmal an,
+
+19
+00:00:38,580 --> 00:00:39,800
+woran erkennen wir eine
+
+20
+00:00:39,800 --> 00:00:42,260
+Logarithmusfunktion? Also was macht
+
+21
+00:00:42,260 --> 00:00:43,760
+eine Logarithmusfunktion zu einer
+
+22
+00:00:43,760 --> 00:00:46,920
+Logarithmusfunktion? Und wie kann ich
+
+23
+00:00:46,920 --> 00:00:49,520
+Logarithmusgleichungen lösen? Ganz
+
+24
+00:00:49,520 --> 00:00:51,020
+zum Schluss schauen wir uns noch zwei
+
+25
+00:00:51,020 --> 00:00:53,340
+Anwendungen dazu an, damit man das
+
+26
+00:00:53,340 --> 00:00:54,760
+Ganze mal mit ein bisschen Inhalt
+
+27
+00:00:54,760 --> 00:00:57,680
+füllen kann. Gut, fangen wir mit den
+
+28
+00:00:57,680 --> 00:01:00,280
+Exponentialfunktionen an. Wir sehen
+
+29
+00:01:00,280 --> 00:01:02,120
+hier links andere Funktionen, das
+
+30
+00:01:02,120 --> 00:01:03,060
+heißt, das sind keine
+
+31
+00:01:03,060 --> 00:01:04,780
+Exponentialfunktionen, das sind alles
+
+32
+00:01:04,780 --> 00:01:05,840
+Funktionen, die wir vielleicht schon
+
+33
+00:01:05,840 --> 00:01:07,100
+kennen, also ganz rationale
+
+34
+00:01:07,100 --> 00:01:09,800
+Funktionen. Man sieht, x steht in der
+
+35
+00:01:09,800 --> 00:01:11,640
+Basis, also Basis ist das hier unten,
+
+36
+00:01:11,700 --> 00:01:13,180
+die Zahl, die hier hochgestellt ist,
+
+37
+00:01:13,200 --> 00:01:15,760
+ist der Exponent. Wir sehen, die
+
+38
+00:01:15,760 --> 00:01:17,600
+Variable x steht immer nur in der
+
+39
+00:01:17,600 --> 00:01:19,660
+Basis und nicht im Exponenten und
+
+40
+00:01:19,660 --> 00:01:21,460
+daher handelt es sich um eine ganz
+
+41
+00:01:21,460 --> 00:01:24,780
+rationale Funktion. Bei
+
+42
+00:01:24,780 --> 00:01:25,500
+Exponentialfunktionen ist dies
+
+43
+00:01:25,500 --> 00:01:28,240
+anders. Wir haben unsere Variable x
+
+44
+00:01:28,240 --> 00:01:30,080
+mindestens an einer Stelle im
+
+45
+00:01:30,080 --> 00:01:32,000
+Exponenten stehen. Wir sehen hier 7
+
+46
+00:01:32,000 --> 00:01:34,920
+plus 3 hoch x, das x steht hier im
+
+47
+00:01:34,920 --> 00:01:37,640
+Exponenten, daher ist das ganz klar
+
+48
+00:01:37,640 --> 00:01:40,280
+eine Exponentialfunktion. Bei der
+
+49
+00:01:40,280 --> 00:01:42,760
+zweiten Funktion haben wir 13 hoch 2.
+
+50
+00:01:43,040 --> 00:01:45,520
+x plus x hoch 4. Auch wenn wir hier
+
+51
+00:01:45,520 --> 00:01:47,000
+hinten das x in der Basis stehen
+
+52
+00:01:47,000 --> 00:01:51,540
+haben, bei der 13 hoch 2x ist das x
+
+53
+00:01:51,540 --> 00:01:54,100
+im Exponenten, wird im Exponenten
+
+54
+00:01:54,100 --> 00:01:55,820
+sogar noch mit einer 2 multipliziert
+
+55
+00:01:55,820 --> 00:01:59,000
+und daher ist es definitiv eine
+
+56
+00:01:59,000 --> 00:02:01,720
+Exponentialfunktion. Also es ist bei
+
+57
+00:02:01,720 --> 00:02:03,720
+Exponentialfunktionen nicht so, dass
+
+58
+00:02:03,720 --> 00:02:06,520
+überall das x im Exponenten vorkommen
+
+59
+00:02:06,520 --> 00:02:08,620
+muss. Sobald das x an einer Stelle im
+
+60
+00:02:08,620 --> 00:02:10,620
+Exponenten vorkommt, handelt es sich
+
+61
+00:02:10,620 --> 00:02:11,960
+um eine Exponentialfunktion.
+
+62
+00:02:14,220 --> 00:02:16,760
+Damit man mit Exponentialfunktionen
+
+63
+00:02:16,760 --> 00:02:18,140
+arbeiten kann und wir auch gleich was
+
+64
+00:02:18,140 --> 00:02:19,540
+rechnen können, müssen wir uns
+
+65
+00:02:19,540 --> 00:02:22,520
+nochmal die Rechenregeln für Potenzen
+
+66
+00:02:22,520 --> 00:02:23,240
+anschauen, das heißt die
+
+67
+00:02:23,240 --> 00:02:26,500
+Potenzgesetze. Hier sieht man, das
+
+68
+00:02:26,500 --> 00:02:28,340
+ist eigentlich ganz wichtig, was man
+
+69
+00:02:28,340 --> 00:02:30,040
+machen kann, wenn man ein negatives
+
+70
+00:02:30,540 --> 00:02:31,340
+Fortzweck hat.
+
+71
+00:02:35,950 --> 00:02:38,590
+7 hoch minus x ist das gleiche wie 1
+
+72
+00:02:38,590 --> 00:02:41,810
+durch 7 hoch x. So kann man zum
+
+73
+00:02:41,810 --> 00:02:43,550
+Beispiel diesen Bruch auflösen und
+
+74
+00:02:43,550 --> 00:02:45,810
+dies in diese Schreibweise
+
+75
+00:02:45,810 --> 00:02:50,370
+überführen. Wenn man eine Potenz
+
+76
+00:02:50,370 --> 00:02:53,890
+potenziert, also 33 hoch 3 hoch x,
+
+77
+00:02:54,010 --> 00:02:56,190
+werden die beiden Potenzen
+
+78
+00:02:56,190 --> 00:02:58,550
+miteinander multipliziert. Das ist
+
+79
+00:02:58,550 --> 00:03:04,620
+dann zusammen 33 hoch 3 mal x. Dann
+
+80
+00:03:04,620 --> 00:03:08,300
+gibt es noch die Möglichkeit, wenn
+
+81
+00:03:08,300 --> 00:03:10,340
+man zwei Potenzen hat mit gleicher
+
+82
+00:03:10,340 --> 00:03:11,780
+Basis, Das ist also hier beides mal
+
+83
+00:03:11,780 --> 00:03:13,320
+die 4, das ist wie gesagt die Basis.
+
+84
+00:03:13,820 --> 00:03:14,740
+Und wir sehen, wir haben
+
+85
+00:03:14,740 --> 00:03:16,740
+unterschiedliche Exponenten, einmal
+
+86
+00:03:16,740 --> 00:03:19,400
+die 3 und einmal das x. Dann kann man
+
+87
+00:03:19,400 --> 00:03:21,500
+diese beiden Potenzen zusammenführen.
+
+88
+00:03:22,180 --> 00:03:24,520
+Wenn es sich um eine gleiche Basis
+
+89
+00:03:24,520 --> 00:03:26,440
+handelt wie hier, werden die beiden
+
+90
+00:03:26,440 --> 00:03:29,380
+Exponenten einfach addiert. So kommen
+
+91
+00:03:29,380 --> 00:03:34,220
+wir zu 4 hoch 3 plus x. Das Ganze
+
+92
+00:03:34,220 --> 00:03:36,000
+gibt es natürlich auch mit einer
+
+93
+00:03:36,000 --> 00:03:38,360
+Subtraktion. Das heißt, wenn wir so
+
+94
+00:03:38,360 --> 00:03:40,940
+etwas haben wie 19 hoch x minus 6,
+
+95
+00:03:41,100 --> 00:03:43,440
+das ist das gleiche wie 19 hoch x
+
+96
+00:03:43,440 --> 00:03:46,000
+geteilt durch 19 hoch 6. Auch hierbei
+
+97
+00:03:46,000 --> 00:03:49,080
+muss es natürlich so sein, dass wir
+
+98
+00:03:49,080 --> 00:03:50,020
+die gleiche Basis haben.
+
+99
+00:03:55,410 --> 00:03:57,950
+Also man kann zum Beispiel aus 19
+
+100
+00:03:57,950 --> 00:04:00,710
+hoch x geteilt durch 19 Sechstel, das
+
+101
+00:04:00,710 --> 00:04:05,270
+ist nichts weiter als so ein Bruch,
+
+102
+00:04:05,330 --> 00:04:08,230
+kann man 19 hoch x minus 6 machen.
+
+103
+00:04:08,230 --> 00:04:09,670
+Ganz wichtig ist nur, wenn hier
+
+104
+00:04:09,670 --> 00:04:11,470
+geteilt wird, steht da oben drin ein
+
+105
+00:04:11,470 --> 00:04:12,910
+Minus und kein Plus.
+
+106
+00:04:15,920 --> 00:04:17,980
+Es gibt natürlich noch die andere
+
+107
+00:04:17,980 --> 00:04:19,980
+Variante. Das waren jetzt alles
+
+108
+00:04:19,980 --> 00:04:22,960
+Varianten für die gleiche Basis. Es
+
+109
+00:04:22,960 --> 00:04:24,100
+kann natürlich auch sein, dass der
+
+110
+00:04:24,100 --> 00:04:25,660
+Exponent gleich ist. Zum Beispiel
+
+111
+00:04:25,660 --> 00:04:28,600
+hier 7 hoch x mal 3 hoch x. Man
+
+112
+00:04:28,600 --> 00:04:30,180
+stellt fest, die beiden Basen sind
+
+113
+00:04:30,180 --> 00:04:31,880
+unterschiedlich, aber wir haben den
+
+114
+00:04:31,880 --> 00:04:34,080
+gleichen Exponenten. Und immer wenn
+
+115
+00:04:34,080 --> 00:04:35,640
+wir das haben, können wir sozusagen
+
+116
+00:04:35,640 --> 00:04:37,900
+eine Klammer eröffnen. also 7 mal 3,
+
+117
+00:04:38,020 --> 00:04:39,300
+Klammer zu, und dann die ganze
+
+118
+00:04:39,300 --> 00:04:42,420
+Klammer mit x potenzieren. Das heißt
+
+119
+00:04:42,420 --> 00:04:45,900
+im Umkehrschluss, es ist uns möglich,
+
+120
+00:04:46,080 --> 00:04:47,920
+die Rechenoperation 7 mal 3
+
+121
+00:04:47,920 --> 00:04:51,660
+auszuführen, das ist 21, und 21 mit x
+
+122
+00:04:51,660 --> 00:04:53,460
+zu potenzieren und so das deutlich
+
+123
+00:04:53,460 --> 00:04:57,100
+kompakter zu gestalten. Selbiges ist
+
+124
+00:04:57,100 --> 00:04:58,520
+uns natürlich auch wieder bei einer
+
+125
+00:04:58,520 --> 00:05:00,040
+Division hier möglich. Wir sehen hier
+
+126
+00:05:00,040 --> 00:05:03,720
+e hoch x geteilt durch 6 hoch x. Auch
+
+127
+00:05:03,720 --> 00:05:05,500
+hier verschiedene Basen, dafür
+
+128
+00:05:05,500 --> 00:05:08,240
+gleich. exponenten und daher können
+
+129
+00:05:08,240 --> 00:05:11,820
+wir hingehen die rechner operation e
+
+130
+00:05:11,820 --> 00:05:13,900
+geteilt durch 6 ausführen und dann
+
+131
+00:05:13,900 --> 00:05:16,080
+alles mit x potenzieren bzw das
+
+132
+00:05:16,080 --> 00:05:17,680
+ergebnis aus dieser rechner operation
+
+133
+00:05:17,680 --> 00:05:21,820
+potenzieren hier sehen wir erstmal
+
+134
+00:05:21,820 --> 00:05:24,940
+die e funktion man sieht ganz gut die
+
+135
+00:05:24,940 --> 00:05:27,460
+e funktion ist eigentlich stets links
+
+136
+00:05:27,460 --> 00:05:29,340
+gekrümmt also geht immer weiter hoch
+
+137
+00:05:29,340 --> 00:05:32,100
+hat den y-achsen abschnitt 1 also f
+
+138
+00:05:32,100 --> 00:05:35,900
+von 0 ist 1 und für Für große x
+
+139
+00:05:35,900 --> 00:05:39,200
+strebt sie gegen unendlich. Was ganz
+
+140
+00:05:39,200 --> 00:05:41,280
+wichtig ist, die E-Funktion an für
+
+141
+00:05:41,280 --> 00:05:43,880
+sich, wie sie hier steht, hat keine
+
+142
+00:05:43,880 --> 00:05:45,280
+Schnittpunkte mit der x-Achse, auch
+
+143
+00:05:45,280 --> 00:05:46,660
+wenn es so aussieht, als ob sie da
+
+144
+00:05:46,660 --> 00:05:48,480
+hinten irgendwann mal die x-Achse
+
+145
+00:05:48,480 --> 00:05:49,840
+schneidet. Dies ist nicht der Fall.
+
+146
+00:05:49,940 --> 00:05:52,260
+Die E-Funktion nähert sich für sehr
+
+147
+00:05:52,260 --> 00:05:54,620
+kleine x nur der x-Achse an,
+
+148
+00:05:54,680 --> 00:05:59,060
+schneidet diese aber nicht. Was noch
+
+149
+00:05:59,060 --> 00:06:00,540
+ganz schön ist bei der E-Funktion.
+
+150
+00:06:01,100 --> 00:06:03,300
+Wenn man die normale E-Funktion E
+
+151
+00:06:03,300 --> 00:06:05,040
+hoch X ableitet, erhält man wieder E
+
+152
+00:06:05,040 --> 00:06:08,860
+hoch X. Folglich gilt das gleiche für
+
+153
+00:06:08,860 --> 00:06:10,520
+die Integration. Wenn man E hoch X
+
+154
+00:06:10,520 --> 00:06:12,360
+integriert, erhält man auch wieder E
+
+155
+00:06:12,360 --> 00:06:12,780
+hoch X.
+
+156
+00:06:15,940 --> 00:06:20,160
+Die E-Funktion E hoch X ist für alle
+
+157
+00:06:20,160 --> 00:06:22,980
+reellen Zahlen definiert. Das ist
+
+158
+00:06:22,980 --> 00:06:24,060
+ganz wichtig. Sie hat einen
+
+159
+00:06:24,060 --> 00:06:26,000
+Definitionsbereich von allen reellen
+
+160
+00:06:26,000 --> 00:06:27,340
+Zahlen. Das heißt, alle Zahlen, die
+
+161
+00:06:27,340 --> 00:06:29,180
+wir kennen, können wir da einsetzen.
+
+162
+00:06:31,040 --> 00:06:32,760
+sie hat auch einen Wertebereich von
+
+163
+00:06:32,760 --> 00:06:36,220
+allen reellen Zahlen. Die
+
+164
+00:06:36,220 --> 00:06:38,880
+Umkehrfunktion ist die
+
+165
+00:06:39,500 --> 00:06:40,880
+Logarithmusfunktion. Deswegen werden
+
+166
+00:06:40,880 --> 00:06:43,320
+wir, wenn wir gleich Gleichungen
+
+167
+00:06:43,320 --> 00:06:46,580
+lösen, wo ein E hoch X Term drin
+
+168
+00:06:46,580 --> 00:06:48,160
+vorkommt, den Logarithmus nehmen.
+
+169
+00:06:48,500 --> 00:06:50,800
+Ganz wichtig, wir nehmen den ln. Das
+
+170
+00:06:50,800 --> 00:06:52,600
+ist der Logarithmus Naturalis. Dieser
+
+171
+00:06:52,600 --> 00:06:55,960
+hat nämlich die Basis E. Daher gilt,
+
+172
+00:06:56,080 --> 00:07:00,320
+der ln von von E ist gleich 1. Und
+
+173
+00:07:00,320 --> 00:07:05,050
+das brauchen wir. Was auch noch
+
+174
+00:07:05,050 --> 00:07:07,470
+wissenswert ist, ist die Tatsache,
+
+175
+00:07:07,470 --> 00:07:10,030
+dass die E-Funktion schneller wächst
+
+176
+00:07:10,030 --> 00:07:14,390
+als alle anderen Funktionen. Gut,
+
+177
+00:07:14,510 --> 00:07:17,330
+kommen wir nun zum Lösen von
+
+178
+00:07:17,330 --> 00:07:20,430
+Exponentialgleichung. Dabei folgt man
+
+179
+00:07:20,430 --> 00:07:22,390
+eigentlich immer einem festen Schema.
+
+180
+00:07:22,450 --> 00:07:24,230
+Das haben wir in einem kleinen Rezept
+
+181
+00:07:24,230 --> 00:07:26,950
+zusammengefasst. Als erstes wird die
+
+182
+00:07:26,950 --> 00:07:29,850
+Gleichung umgeformt. Das heißt, man
+
+183
+00:07:29,850 --> 00:07:31,650
+möchte die Potenz isolieren, sodass
+
+184
+00:07:31,650 --> 00:07:33,290
+sie alleine auf einer Seite vom
+
+185
+00:07:33,290 --> 00:07:35,150
+Gleichzeichen steht und alles andere
+
+186
+00:07:35,150 --> 00:07:37,630
+auf der anderen Seite. Dabei fasst
+
+187
+00:07:37,630 --> 00:07:39,010
+man natürlich auch die andere Seite,
+
+188
+00:07:39,070 --> 00:07:40,390
+wo alles andere steht, so weit wie
+
+189
+00:07:40,390 --> 00:07:42,030
+möglich zusammen. Das sehen wir auch
+
+190
+00:07:42,030 --> 00:07:44,790
+gleich. Danach wird der Logarithmus
+
+191
+00:07:44,790 --> 00:07:45,890
+angewendet, das heißt wir
+
+192
+00:07:45,890 --> 00:07:49,130
+logarithmieren. Wie es bei
+
+193
+00:07:49,130 --> 00:07:50,510
+Gleichungen so üblich ist, müssen wir
+
+194
+00:07:50,510 --> 00:07:51,710
+den Logarithmus natürlich auf beiden
+
+195
+00:07:51,710 --> 00:07:55,390
+Seiten anwenden. Und dort ist es ganz
+
+196
+00:07:55,390 --> 00:07:56,810
+wichtig, dass auf Klammersetzung
+
+197
+00:07:56,810 --> 00:07:58,470
+geachtet wird, weil sonst kann es
+
+198
+00:07:58,470 --> 00:07:59,530
+ganz schnell sein, dass mal ein
+
+199
+00:07:59,530 --> 00:08:02,910
+Logarithmus falsch gesetzt wird. Wenn
+
+200
+00:08:02,910 --> 00:08:05,090
+wir den Logarithmus angewendet haben,
+
+201
+00:08:05,290 --> 00:08:08,450
+dann ist es so, dass wir unsere
+
+202
+00:08:08,450 --> 00:08:10,490
+Exponentialgleichung aufgelöst haben
+
+203
+00:08:10,490 --> 00:08:12,650
+und nur noch eine ganz normale
+
+204
+00:08:12,650 --> 00:08:15,030
+Gleichung haben. Und diese müssen wir
+
+205
+00:08:15,030 --> 00:08:17,150
+dann nach x umstellen und lösen. Dazu
+
+206
+00:08:17,150 --> 00:08:21,030
+nehmen wir schon bekannte Mittel. wir
+
+207
+00:08:21,030 --> 00:08:23,410
+haben hier als beispiel 43 ist gleich
+
+208
+00:08:23,410 --> 00:08:27,110
+7 plus 3 hoch x als erstes wollen wie
+
+209
+00:08:27,110 --> 00:08:28,830
+gesagt die potenz isolieren das heißt
+
+210
+00:08:28,830 --> 00:08:30,910
+wir wollen dass drei hoch x alleine
+
+211
+00:08:30,910 --> 00:08:33,610
+steht deswegen ziehen wir als erstes
+
+212
+00:08:33,610 --> 00:08:35,270
+die 7 hierüber das geht durch eine
+
+213
+00:08:35,270 --> 00:08:40,130
+minus 7 43 minus 7 bis 36 und
+
+214
+00:08:40,130 --> 00:08:42,430
+deswegen steht da 36 ist gleich 3
+
+215
+00:08:42,430 --> 00:08:43,570
+hoch x.
+
+216
+00:08:46,420 --> 00:08:48,620
+Jetzt haben wir schon, das ist eine
+
+217
+00:08:48,620 --> 00:08:49,740
+verhältnismäßig einfache
+
+218
+00:08:49,740 --> 00:08:51,940
+Exponentialgleichung, beide Seiten
+
+219
+00:08:51,940 --> 00:08:53,260
+soweit wie möglich zusammengefasst,
+
+220
+00:08:53,300 --> 00:08:55,080
+unsere Potenz steht alleine, daher
+
+221
+00:08:55,080 --> 00:08:56,420
+können wir jetzt den Logarithmus
+
+222
+00:08:56,420 --> 00:09:00,480
+anwenden. Wenn wir nicht die Euler
+
+223
+00:09:00,480 --> 00:09:03,980
+-Schützzahl e in der Basis stehen
+
+224
+00:09:03,980 --> 00:09:06,780
+haben, können wir den lg oder den log
+
+225
+00:09:06,780 --> 00:09:08,520
+nehmen. Das ist der ganz normale
+
+226
+00:09:08,520 --> 00:09:10,460
+Logarithmus, Dieser hat die Basis 10.
+
+227
+00:09:11,500 --> 00:09:18,240
+Aber sobald da ein E in der Basis
+
+228
+00:09:18,240 --> 00:09:20,500
+steht, muss der ln verwendet werden
+
+229
+00:09:20,500 --> 00:09:22,620
+bzw. sollte der ln verwendet werden,
+
+230
+00:09:22,720 --> 00:09:24,560
+weil dann die Rechnung einfacher
+
+231
+00:09:24,560 --> 00:09:27,280
+wird. Gut, wir haben hier eine 3
+
+232
+00:09:27,280 --> 00:09:28,480
+stehen, das heißt wir können einfach
+
+233
+00:09:28,480 --> 00:09:30,420
+einen Logarithmus zur Basis 10, auch
+
+234
+00:09:30,420 --> 00:09:33,660
+lg oder log genannt, nehmen. Das
+
+235
+00:09:33,660 --> 00:09:35,240
+machen wir jetzt auch. Dann steht da,
+
+236
+00:09:35,260 --> 00:09:38,340
+wir haben den Logarithmus von 36. der
+
+237
+00:09:38,340 --> 00:09:42,060
+Logarithmus von 3 hoch x. Und das ist
+
+238
+00:09:42,060 --> 00:09:45,700
+jetzt der Moment, wo wir ein
+
+239
+00:09:45,700 --> 00:09:48,140
+Logarithm-Rechengesetz brauchen. Und
+
+240
+00:09:48,140 --> 00:09:50,200
+zwar brauchen wir das sogenannte
+
+241
+00:09:50,200 --> 00:09:52,940
+dritte Logarithm-Rechengesetz. Die
+
+242
+00:09:52,940 --> 00:09:54,320
+Logarithm-Rechengesetze werden wir
+
+243
+00:09:54,320 --> 00:09:55,500
+uns gleich auch nochmal anschauen,
+
+244
+00:09:55,520 --> 00:09:56,440
+aber das nehmen wir jetzt nochmal
+
+245
+00:09:56,440 --> 00:09:58,920
+schnell vorweg. Und zwar besagt das
+
+246
+00:09:58,920 --> 00:10:01,040
+dritte Logarithm-Rechengesetz, der
+
+247
+00:10:01,040 --> 00:10:03,840
+Logarithmus von a hoch b ist gleich b
+
+248
+00:10:03,840 --> 00:10:07,660
+mal der logarithmus von a das heißt
+
+249
+00:10:07,660 --> 00:10:10,660
+wir können den exponenten einfach vor
+
+250
+00:10:10,660 --> 00:10:12,340
+den logarithmus ziehen und mit diesem
+
+251
+00:10:12,340 --> 00:10:14,120
+multiplizieren das machen wir auch
+
+252
+00:10:14,120 --> 00:10:16,600
+und so kommen wir auf der logarithmus
+
+253
+00:10:16,600 --> 00:10:19,200
+von 36 gleich der logarithmus von 3x
+
+254
+00:10:19,200 --> 00:10:21,080
+wir ziehen die 3x jetzt einfach vor
+
+255
+00:10:21,080 --> 00:10:23,600
+den logarithmus und kommen so auf der
+
+256
+00:10:23,600 --> 00:10:27,020
+logarithmus von 36 ist gleich x mal
+
+257
+00:10:27,020 --> 00:10:29,100
+der logarithmus von 3 und jetzt sieht
+
+258
+00:10:29,100 --> 00:10:31,040
+man schon Unsere Variable x steht
+
+259
+00:10:31,040 --> 00:10:33,280
+nicht weiter im Exponenten. Wir haben
+
+260
+00:10:33,280 --> 00:10:35,180
+also keine Exponentialgleichung mehr.
+
+261
+00:10:35,280 --> 00:10:36,960
+Das ist eine Gleichung, die wir mit
+
+262
+00:10:36,960 --> 00:10:39,380
+einfachen Mitteln lösen können. Der
+
+263
+00:10:39,380 --> 00:10:41,200
+Logarithmus von 36 ist irgendeine
+
+264
+00:10:41,200 --> 00:10:43,000
+Zahl. Gleiches gilt für den
+
+265
+00:10:43,000 --> 00:10:44,160
+Logarithmus von 3. Das ist auch
+
+266
+00:10:44,160 --> 00:10:45,100
+irgendeine Zahl. Die kann der
+
+267
+00:10:45,100 --> 00:10:46,880
+Taschenrechner uns berechnen. Das
+
+268
+00:10:46,880 --> 00:10:48,380
+heißt, darüber machen wir uns keinen
+
+269
+00:10:48,380 --> 00:10:51,140
+Kopf. Deswegen teilen wir jetzt
+
+270
+00:10:51,140 --> 00:10:52,500
+einfach durch den Logarithmus von 3,
+
+271
+00:10:52,580 --> 00:10:54,780
+damit das x alleine steht. Und dann
+
+272
+00:10:54,780 --> 00:10:56,660
+steht da der Logarithmus von 36
+
+273
+00:10:56,660 --> 00:10:59,120
+geteilt durch den Logarithmus von 3
+
+274
+00:10:59,120 --> 00:11:01,980
+ist x. Und wenn wir das in unseren
+
+275
+00:11:01,980 --> 00:11:03,420
+Taschenrechner eingeben, sagt der
+
+276
+00:11:03,420 --> 00:11:05,140
+Taschenrechner, unser x ist ungefähr
+
+277
+00:11:05,140 --> 00:11:08,580
+3,61. Und das ist dann auch schon die
+
+278
+00:11:08,580 --> 00:11:10,140
+Lösung der Exponentialgleichung.
+
+279
+00:11:13,410 --> 00:11:14,750
+Kommen wir dann nun zur
+
+280
+00:11:14,750 --> 00:11:17,210
+Logarithmusfunktion. Wir sehen jetzt
+
+281
+00:11:17,210 --> 00:11:18,950
+hier erstmal wieder zwei Arten von
+
+282
+00:11:18,950 --> 00:11:20,590
+Funktionen, also andere Funktionen,
+
+283
+00:11:20,590 --> 00:11:22,670
+die keine Logarithmusfunktion sind
+
+284
+00:11:22,670 --> 00:11:26,210
+und Funktionen, die eine
+
+285
+00:11:26,210 --> 00:11:30,530
+Logarithmusfunktion sind. Wir haben
+
+286
+00:11:30,530 --> 00:11:31,830
+hier einmal, beziehungsweise eine
+
+287
+00:11:31,830 --> 00:11:33,970
+Logarithmusfunktion zeichnet sich
+
+288
+00:11:33,970 --> 00:11:35,970
+dadurch aus, dass innerhalb des
+
+289
+00:11:35,970 --> 00:11:38,470
+Logarithmus ein x steht und dass
+
+290
+00:11:38,470 --> 00:11:41,190
+innerhalb des Logarithmus eine
+
+291
+00:11:41,190 --> 00:11:43,190
+Variable steht, unsere Variable steht
+
+292
+00:11:43,190 --> 00:11:45,810
+und diese Variable nicht durch eine
+
+293
+00:11:45,810 --> 00:11:47,590
+einfache Umformung zu eliminieren
+
+294
+00:11:47,590 --> 00:11:49,990
+ist. Das heißt, wir sehen hier steht
+
+295
+00:11:49,990 --> 00:11:51,890
+das x nicht im Logarithmus, wir haben
+
+296
+00:11:51,890 --> 00:11:54,490
+einfach den Logarithmus von 4. Das
+
+297
+00:11:54,490 --> 00:11:55,830
+ist wie vorhin irgendeine Zahl, das
+
+298
+00:11:55,830 --> 00:11:57,710
+ist also kein Problem. Hier haben wir
+
+299
+00:11:57,710 --> 00:11:59,650
+x mal den Logarithmus von 3, also das
+
+300
+00:11:59,650 --> 00:12:03,670
+ist das gleiche wie x mal 5. Weil der
+
+301
+00:12:03,670 --> 00:12:05,130
+Logarithmus von 3 ist auch eine Zahl.
+
+302
+00:12:05,130 --> 00:12:06,570
+und jetzt haben wir was anderes.
+
+303
+00:12:06,690 --> 00:12:09,190
+Jetzt haben wir hier f von x ist
+
+304
+00:12:09,190 --> 00:12:11,350
+gleich 7 minus 2 mal den Logarithmus
+
+305
+00:12:11,350 --> 00:12:14,310
+von 3 hoch x. Augenscheinlich würde
+
+306
+00:12:14,310 --> 00:12:15,930
+man jetzt ja sagen, die Variable
+
+307
+00:12:15,930 --> 00:12:18,070
+steht im Logarithmus. Das ist eine
+
+308
+00:12:18,070 --> 00:12:20,490
+Logarithmusfunktion. Das ist sie aber
+
+309
+00:12:20,490 --> 00:12:22,290
+nicht und zwar aus folgendem Grund.
+
+310
+00:12:22,510 --> 00:12:24,810
+Wir können durch einfaches Anwenden
+
+311
+00:12:24,810 --> 00:12:26,050
+des dritten
+
+312
+00:12:26,050 --> 00:12:27,570
+Logarithmenrechengesetzes, das wir
+
+313
+00:12:27,570 --> 00:12:29,690
+gerade hatten, diesen Exponenten,
+
+314
+00:12:29,690 --> 00:12:31,050
+also genau das, was wir gerade bei
+
+315
+00:12:31,050 --> 00:12:32,270
+der Thermoformel gemacht haben,
+
+316
+00:12:32,590 --> 00:12:34,590
+diesen Exponenten aus dem Logarithmus
+
+317
+00:12:34,590 --> 00:12:38,110
+rausziehen und kommen so auf 2 mal x
+
+318
+00:12:38,110 --> 00:12:40,810
+mal der Logarithmus von 3. Und auf
+
+319
+00:12:40,810 --> 00:12:43,350
+einmal haben wir keine Variable mehr
+
+320
+00:12:43,350 --> 00:12:45,690
+im Logarithmus. Folglich ist das
+
+321
+00:12:45,690 --> 00:12:47,370
+keine Logarithmusfunktion.
+
+322
+00:12:49,150 --> 00:12:50,870
+Hier rechts sehen wir aber
+
+323
+00:12:50,870 --> 00:12:53,450
+Logarithmusfunktionen. Wir haben f
+
+324
+00:12:53,450 --> 00:12:55,050
+von x ist gleich der Logarithmus von
+
+325
+00:12:55,050 --> 00:12:56,890
+x. Das ist die allgemeine
+
+326
+00:12:56,890 --> 00:12:59,970
+Logarithmusfunktion. Da kriegen wir
+
+327
+00:12:59,970 --> 00:13:01,290
+das x aber nicht aus dem Logarithmus
+
+328
+00:13:01,290 --> 00:13:03,690
+raus. Darunter haben wir 3 minus 4
+
+329
+00:13:03,690 --> 00:13:05,950
+mal der Logarithmus von x. Hier kann
+
+330
+00:13:05,950 --> 00:13:08,170
+man auch nichts mehr machen. Hier
+
+331
+00:13:08,170 --> 00:13:10,070
+unten haben wir f von x ist gleich 7
+
+332
+00:13:10,070 --> 00:13:12,370
+minus 2 mal der Logarithmus von x
+
+333
+00:13:12,370 --> 00:13:15,130
+hoch 3. Da kann man jetzt auch nicht
+
+334
+00:13:15,130 --> 00:13:16,130
+mehr sonderlich viel machen. Man
+
+335
+00:13:16,130 --> 00:13:17,490
+könnte die hoch 3 rausholen und
+
+336
+00:13:17,490 --> 00:13:20,750
+könnten dann kommen auf 7 minus 2 mal
+
+337
+00:13:20,750 --> 00:13:22,530
+3.
+
+338
+00:13:24,270 --> 00:13:26,210
+Logarithmus von x, das könnte man
+
+339
+00:13:26,210 --> 00:13:28,470
+daraus machen, das wäre dann 7 minus
+
+340
+00:13:28,470 --> 00:13:30,930
+6 mal der Logarithmus von x, aber ihr
+
+341
+00:13:30,930 --> 00:13:33,410
+seht, dass x, also unsere Variable,
+
+342
+00:13:33,430 --> 00:13:35,730
+steht weiterhin im Logarithmus, daher
+
+343
+00:13:35,730 --> 00:13:36,970
+ist es definitiv eine
+
+344
+00:13:36,970 --> 00:13:37,910
+Logarithmusfunktion.
+
+345
+00:13:40,700 --> 00:13:43,140
+Gut, fangen wir mal ganz kurz mit den
+
+346
+00:13:43,140 --> 00:13:47,440
+Logarithmenrechenregeln an. Der
+
+347
+00:13:47,440 --> 00:13:48,940
+Logarithmus von einer Potenz, das ist
+
+348
+00:13:48,940 --> 00:13:50,540
+das dritte Logarithmenrechengesetz.
+
+349
+00:13:50,740 --> 00:13:52,320
+Also das ist das erste, das zweite
+
+350
+00:13:52,320 --> 00:13:53,820
+und das ist das dritte hier ganz
+
+351
+00:13:53,820 --> 00:13:56,160
+unten. Das dritte haben wir jetzt ja
+
+352
+00:13:56,160 --> 00:13:57,480
+schon zweimal benutzt. Das besagt
+
+353
+00:13:57,480 --> 00:13:59,620
+einfach, dass wir die Potenz aus dem
+
+354
+00:13:59,620 --> 00:14:01,140
+Logarithmus rausziehen können und den
+
+355
+00:14:01,140 --> 00:14:02,680
+ganzen Logarithmus mit der Potenz
+
+356
+00:14:02,680 --> 00:14:04,180
+multiplizieren können. Also der
+
+357
+00:14:04,180 --> 00:14:06,880
+Logarithmus von 6 hoch x ist gleich x
+
+358
+00:14:06,880 --> 00:14:11,320
+mal der Logarithmus von 6. Wenn wir
+
+359
+00:14:11,320 --> 00:14:13,900
+zwei Logarithmen addieren, das heißt
+
+360
+00:14:13,900 --> 00:14:15,060
+plus rechnen, also wir haben sowas
+
+361
+00:14:15,060 --> 00:14:16,660
+wie den Logarithmus von a plus den
+
+362
+00:14:16,660 --> 00:14:19,860
+Logarithmus von 3, dann können wir
+
+363
+00:14:19,860 --> 00:14:22,120
+die zwei Zahlen, die innerhalb des
+
+364
+00:14:22,120 --> 00:14:24,640
+Logarithmus stehen, in einem
+
+365
+00:14:24,640 --> 00:14:25,740
+Logarithmus miteinander
+
+366
+00:14:25,740 --> 00:14:28,220
+multiplizieren und haben das dann so
+
+367
+00:14:28,220 --> 00:14:29,860
+zusammengefasst. So kommen wir auf
+
+368
+00:14:29,860 --> 00:14:34,260
+den Logarithmus von a mal 3. Wenn wir
+
+369
+00:14:34,260 --> 00:14:36,020
+subtrahieren, ist es genau anders.
+
+370
+00:14:36,020 --> 00:14:37,900
+Wenn wir den Logarithmus von 5 minus
+
+371
+00:14:37,900 --> 00:14:39,600
+den Logarithmus von b haben, dann ist
+
+372
+00:14:39,600 --> 00:14:41,440
+das zusammen der Logarithmus von 5
+
+373
+00:14:41,440 --> 00:14:44,140
+geteilt durch b oder eben 5 durch b.
+
+374
+00:14:44,180 --> 00:14:45,540
+Dieser Bruchstrich heißt wie gesagt
+
+375
+00:14:45,540 --> 00:14:50,700
+nichts anderes als geteilt durch. Was
+
+376
+00:14:50,700 --> 00:14:53,360
+bei Logarithmusfunktionen ganz
+
+377
+00:14:53,360 --> 00:14:55,860
+wichtig ist. Logarithmusfunktionen
+
+378
+00:14:55,860 --> 00:14:59,340
+sind nur für alle positiven reellen
+
+379
+00:14:59,340 --> 00:15:01,820
+Zahlen definiert. Das heißt, es muss
+
+380
+00:15:01,820 --> 00:15:03,460
+ein Wert eingesetzt werden, der
+
+381
+00:15:03,460 --> 00:15:06,580
+größer als 0 ist. ist. Das ist ganz
+
+382
+00:15:06,580 --> 00:15:09,660
+wichtig. Der Logarithmus liefert dann
+
+383
+00:15:09,660 --> 00:15:11,720
+einen Wertebereich von allen reellen
+
+384
+00:15:11,720 --> 00:15:12,960
+Zahlen, das heißt alles von
+
+385
+00:15:12,960 --> 00:15:15,840
+minusunendlich bis plusunendlich und
+
+386
+00:15:15,840 --> 00:15:20,520
+das ist dann auch so ein bisschen das
+
+387
+00:15:20,520 --> 00:15:22,380
+Globalverhalten. Also wenn x gegen 0
+
+388
+00:15:22,380 --> 00:15:24,240
+strebt, das heißt hier x strebt gegen
+
+389
+00:15:24,240 --> 00:15:26,420
+0, weil wir können für x keine 0 in
+
+390
+00:15:26,420 --> 00:15:27,820
+den Logarithmus einsetzen, das geht
+
+391
+00:15:27,820 --> 00:15:30,720
+nicht. Dann liefert der Logarithmus,
+
+392
+00:15:30,820 --> 00:15:32,060
+beziehungsweise dann strebt er gegen
+
+393
+00:15:32,060 --> 00:15:35,460
+minusunendlich. x gegen unendlich
+
+394
+00:15:35,460 --> 00:15:36,980
+streben lassen, dann strebt auch der
+
+395
+00:15:36,980 --> 00:15:40,540
+Logarithmus gegen unendlich. Auch
+
+396
+00:15:40,540 --> 00:15:43,520
+beim Logarithmus ist es so, dass wenn
+
+397
+00:15:43,520 --> 00:15:46,200
+wir f bilden, dass das gleich 0 ist,
+
+398
+00:15:47,060 --> 00:15:49,060
+beziehungsweise wenn wir betrachten
+
+399
+00:15:49,060 --> 00:15:50,940
+jetzt den Logarithmus ln, also den
+
+400
+00:15:50,940 --> 00:15:53,220
+Logarithmus Naturalis, und wenn wir
+
+401
+00:15:53,220 --> 00:15:55,740
+dort den ln von der eulischen Zahl e
+
+402
+00:15:55,740 --> 00:15:59,400
+einsetzen, erhalten wir 1. Das ist
+
+403
+00:15:59,400 --> 00:16:02,160
+ganz wichtig. Bei der Ableitung des
+
+404
+00:16:02,160 --> 00:16:04,980
+Logarithmuses, wenn wir einfach nur
+
+405
+00:16:04,980 --> 00:16:07,400
+als Funktion haben f von x ist gleich
+
+406
+00:16:07,400 --> 00:16:09,980
+der ln von x, dann lautet die
+
+407
+00:16:09,980 --> 00:16:12,340
+Ableitung f' von x ist gleich 1 durch
+
+408
+00:16:12,340 --> 00:16:14,440
+x und das haben wir gerade gelernt,
+
+409
+00:16:14,500 --> 00:16:16,500
+können wir umformen zu x hoch minus
+
+410
+00:16:16,500 --> 00:16:21,080
+1. Und die Umkehrfunktion von
+
+411
+00:16:21,080 --> 00:16:22,920
+Logarithmus ist natürlich die e
+
+412
+00:16:22,920 --> 00:16:28,040
+-Funktion wieder. Gut, wie löst man
+
+413
+00:16:28,040 --> 00:16:31,680
+Logarithmusfunktion? zu lösen,
+
+414
+00:16:31,700 --> 00:16:35,980
+funktioniert eigentlich ähnlich wie
+
+415
+00:16:35,980 --> 00:16:39,160
+Exponentialgleichungen zu lösen. Und
+
+416
+00:16:39,160 --> 00:16:40,560
+zwar, wir
+
+417
+00:16:42,600 --> 00:16:45,780
+sehen zu, dass alle unsere
+
+418
+00:16:45,780 --> 00:16:48,620
+Logarithmen auf einer Seite erstmal
+
+419
+00:16:48,620 --> 00:16:51,380
+zusammengefasst werden. Also dass wir
+
+420
+00:16:51,380 --> 00:16:54,400
+unsere Logarithmen alle auf einer
+
+421
+00:16:54,400 --> 00:16:58,220
+Seite sammeln und anschließend diese
+
+422
+00:16:58,220 --> 00:16:59,960
+Logarithmen vereinfachen oder wenn
+
+423
+00:16:59,960 --> 00:17:01,080
+möglich zusammenfassen.
+
+424
+00:17:06,160 --> 00:17:07,780
+Danach potenzieren wir mit den
+
+425
+00:17:07,780 --> 00:17:09,620
+Exponenten des Logarithmus. Das
+
+426
+00:17:09,620 --> 00:17:12,400
+heißt, bei dem ln, dem Logarithmus
+
+427
+00:17:12,400 --> 00:17:16,380
+Naturales, ist das e. Bei dem log,
+
+428
+00:17:16,680 --> 00:17:19,340
+der Logarithmus zur Basis 10, ist das
+
+429
+00:17:19,340 --> 00:17:22,300
+die 10. Und wir müssen natürlich
+
+430
+00:17:22,300 --> 00:17:23,880
+unbedingt darauf achten, dass wir
+
+431
+00:17:23,880 --> 00:17:26,020
+unsere Logarithmenregeln anwenden.
+
+432
+00:17:27,060 --> 00:17:28,840
+Wenn wir das getan haben, dann haben
+
+433
+00:17:28,840 --> 00:17:30,420
+wir keine Logarithmusfunktion mehr,
+
+434
+00:17:30,520 --> 00:17:31,120
+sondern ein Logarithmus. Eine ganz
+
+435
+00:17:31,120 --> 00:17:33,580
+normale, ganz rationale Funktion, die
+
+436
+00:17:33,580 --> 00:17:36,560
+wir nach x umstellen können. Das
+
+437
+00:17:36,560 --> 00:17:37,740
+Ganze schauen wir uns mal hier an dem
+
+438
+00:17:37,740 --> 00:17:39,440
+Beispiel an. Wir haben den
+
+439
+00:17:39,440 --> 00:17:42,020
+Logarithmus von 5 minus x gleich
+
+440
+00:17:42,020 --> 00:17:44,700
+minus 22 minus der Logarithmus von x.
+
+441
+00:17:45,360 --> 00:17:50,280
+Wir gehen als erstes hin und sammeln
+
+442
+00:17:50,280 --> 00:17:52,480
+unsere beiden Logarithmen links vom
+
+443
+00:17:52,480 --> 00:17:54,680
+Gleichzeichen. Das heißt, wir rechnen
+
+444
+00:17:54,680 --> 00:17:56,200
+plus der Logarithmus von x. Dann
+
+445
+00:17:56,200 --> 00:17:58,740
+kommen wir auf der Logarithmus von 5
+
+446
+00:17:58,740 --> 00:18:00,720
+minus x. ist gleich der Logarithmus
+
+447
+00:18:00,720 --> 00:18:04,060
+von x. Und wir sehen, wir addieren
+
+448
+00:18:04,060 --> 00:18:06,000
+hier zwei Logarithmen. Jetzt kommt
+
+449
+00:18:06,000 --> 00:18:10,260
+das erste Logarithmenrechengesetz zum
+
+450
+00:18:10,260 --> 00:18:13,720
+Tragen. Wir können diese beiden
+
+451
+00:18:13,720 --> 00:18:15,920
+Logarithmen zusammenfassen, indem wir
+
+452
+00:18:15,920 --> 00:18:20,400
+5-x mit x innerhalb des Logarithmus
+
+453
+00:18:20,400 --> 00:18:22,620
+multiplizieren. Also der Logarithmus
+
+454
+00:18:22,620 --> 00:18:25,480
+von 5-x plus der Logarithmus von x
+
+455
+00:18:25,480 --> 00:18:28,520
+ist gleich der Logarithmus von 5-x.
+
+456
+00:18:28,900 --> 00:18:30,560
+mal x, bitte achtet darauf, dass ihr
+
+457
+00:18:30,560 --> 00:18:32,940
+die 5 minus x klammert. Wenn das hier
+
+458
+00:18:32,940 --> 00:18:34,280
+nicht geklammert wird, liegt leider
+
+459
+00:18:34,280 --> 00:18:36,800
+ein Fehler vor. Und das ist dann
+
+460
+00:18:36,800 --> 00:18:39,200
+gleich minus 22. Wir sehen, wir haben
+
+461
+00:18:39,200 --> 00:18:41,900
+nun beide Seiten so weit wie möglich
+
+462
+00:18:41,900 --> 00:18:47,020
+zusammengefasst. Und nun lösen wir
+
+463
+00:18:47,020 --> 00:18:49,660
+den Logarithmus auf. Und das machen
+
+464
+00:18:49,660 --> 00:18:52,760
+wir, indem wir mit der Basis
+
+465
+00:18:52,760 --> 00:18:55,600
+exponieren. Das heißt, ich hatte es
+
+466
+00:18:55,600 --> 00:18:57,980
+ja gerade schon gesagt, der log. oder
+
+467
+00:18:57,980 --> 00:19:00,640
+der lg, der normale Logarithmus, hat
+
+468
+00:19:00,640 --> 00:19:06,140
+die Basis 10. Das heißt, wenn wir
+
+469
+00:19:06,140 --> 00:19:09,660
+diesen Logarithmus aufheben wollen,
+
+470
+00:19:09,820 --> 00:19:12,020
+erhalten wir 10 hoch der Logarithmus
+
+471
+00:19:12,020 --> 00:19:15,000
+von 5 minus x mal x. Und das ist
+
+472
+00:19:15,000 --> 00:19:17,940
+gleich 10 hoch minus 22. Also alles,
+
+473
+00:19:18,020 --> 00:19:21,980
+was vorher auf den Seiten der
+
+474
+00:19:21,980 --> 00:19:23,560
+Gleichung stand, steht auf einmal
+
+475
+00:19:23,560 --> 00:19:24,600
+oben im Exponenten.
+
+476
+00:19:27,620 --> 00:19:28,940
+Jetzt kommt natürlich der Trick
+
+477
+00:19:28,940 --> 00:19:30,740
+dabei. 10 und dann hoch der
+
+478
+00:19:30,740 --> 00:19:32,660
+Logarithmus, das gleicht sich aus.
+
+479
+00:19:33,300 --> 00:19:35,780
+Daher fällt das weg und es bleibt nur
+
+480
+00:19:35,780 --> 00:19:38,860
+noch stehen 5 minus x mal x und das
+
+481
+00:19:38,860 --> 00:19:40,920
+ist gleich 10 hoch minus 22. 10 hoch
+
+482
+00:19:40,920 --> 00:19:42,620
+minus 22 ist eine Zahl, das kann der
+
+483
+00:19:42,620 --> 00:19:43,740
+Taschenrechner uns wieder berechnen.
+
+484
+00:19:44,080 --> 00:19:45,920
+Und nun haben wir keine
+
+485
+00:19:46,820 --> 00:19:48,540
+Logarithmusgleichung mehr. Wir müssen
+
+486
+00:19:48,540 --> 00:19:49,620
+jetzt einfach nur noch diese
+
+487
+00:19:49,620 --> 00:19:51,260
+Gleichung lösen. Das folgt nach den
+
+488
+00:19:51,260 --> 00:19:53,260
+normalen Mitteln, die wir ja schon
+
+489
+00:19:53,260 --> 00:19:55,060
+kennen sollten. Wir machen es hier
+
+490
+00:19:55,060 --> 00:19:56,360
+nochmal mal vor. Das heißt, als
+
+491
+00:19:56,360 --> 00:19:57,660
+erstes lösen wir die Klammer auf,
+
+492
+00:19:57,800 --> 00:20:01,120
+also 5 mal x und minus x mal x, das
+
+493
+00:20:01,120 --> 00:20:03,960
+sind 5x minus x², das ist dann gleich
+
+494
+00:20:03,960 --> 00:20:09,780
+10 hoch minus 22. Es bietet sich an,
+
+495
+00:20:09,820 --> 00:20:11,100
+wir haben eine quadratische
+
+496
+00:20:11,100 --> 00:20:13,280
+Gleichung, hier haben wir x², x und
+
+497
+00:20:13,280 --> 00:20:15,200
+10 hoch minus 22, das heißt, wir
+
+498
+00:20:15,200 --> 00:20:16,500
+haben ein quadratisches Glied, ein
+
+499
+00:20:16,500 --> 00:20:18,800
+lineares und ein absolutes. Das
+
+500
+00:20:18,800 --> 00:20:20,600
+schreit schon förmlich nach der pq
+
+501
+00:20:20,600 --> 00:20:22,000
+-Formel, daher werden wir die
+
+502
+00:20:22,000 --> 00:20:24,500
+Gleichung jetzt so umformen, dass wir
+
+503
+00:20:24,500 --> 00:20:26,540
+die pq-Formel anwenden können. Dafür
+
+504
+00:20:26,540 --> 00:20:28,740
+stellen wir sie als erstes nach 0 um,
+
+505
+00:20:28,800 --> 00:20:31,240
+daher rechnen wir minus 10 hoch minus
+
+506
+00:20:31,240 --> 00:20:35,060
+22. Wir kommen so auf 5x minus x²
+
+507
+00:20:35,060 --> 00:20:40,520
+minus 10 hoch minus 22. Damit wir die
+
+508
+00:20:40,520 --> 00:20:42,500
+pq-Formel anwenden können, muss vor
+
+509
+00:20:42,500 --> 00:20:44,660
+dem quadratischen Glied eine 1 stehen
+
+510
+00:20:44,660 --> 00:20:46,020
+und es muss halt auch positiv sein.
+
+511
+00:20:46,500 --> 00:20:48,040
+Aktuell steht da noch ein Minus vor.
+
+512
+00:20:48,520 --> 00:20:49,980
+Deswegen multiplizieren wir mit mal
+
+513
+00:20:49,980 --> 00:20:52,540
+minus 1, damit die Vorzeichen gedreht
+
+514
+00:20:52,540 --> 00:20:54,420
+werden. Und so kommen wir auf minus
+
+515
+00:20:54,420 --> 00:20:58,100
+5x plus x² plus 10 hoch minus 22
+
+516
+00:20:58,100 --> 00:21:00,220
+gleich 0. Das sortieren wir nochmal.
+
+517
+00:21:00,380 --> 00:21:01,680
+Das heißt, erst das quadratische
+
+518
+00:21:01,680 --> 00:21:03,380
+Glied, dann das lineare und dann das
+
+519
+00:21:03,380 --> 00:21:05,420
+absolute. Das würde ich euch immer
+
+520
+00:21:05,420 --> 00:21:07,180
+raten, weil so könnt ihr am
+
+521
+00:21:07,180 --> 00:21:09,260
+einfachsten und sichersten das p und
+
+522
+00:21:09,260 --> 00:21:11,520
+das q für die pq-Formel ablesen.
+
+523
+00:21:14,220 --> 00:21:16,060
+Hier sieht man jetzt nochmal, vor dem
+
+524
+00:21:16,060 --> 00:21:18,360
+x² steht nichts mehr. Kein Faktor,
+
+525
+00:21:18,360 --> 00:21:20,040
+kein Minus, das heißt, wir können
+
+526
+00:21:20,040 --> 00:21:22,020
+jetzt unser p und q ablesen. Unser p
+
+527
+00:21:22,020 --> 00:21:25,440
+ist dann minus 5 und das q plus 10
+
+528
+00:21:25,440 --> 00:21:28,780
+hoch minus 22. Und so kommen wir zu
+
+529
+00:21:28,780 --> 00:21:32,360
+x1, 2 ist gleich minus minus 5 halbe
+
+530
+00:21:32,360 --> 00:21:34,460
+plus minus die Wurzel aus minus 5
+
+531
+00:21:34,460 --> 00:21:37,120
+halbe zum Quadrat minus 10 hoch minus
+
+532
+00:21:37,120 --> 00:21:37,720
+22.
+
+533
+00:21:40,180 --> 00:21:45,920
+Das Ganze vereinfachen
+
+534
+00:21:45,920 --> 00:21:46,960
+wir dann jetzt erstmal. Wir haben
+
+535
+00:21:46,960 --> 00:21:49,000
+erstmal minus, minus, 5 halbe, minus,
+
+536
+00:21:49,020 --> 00:21:50,620
+minus ist schon mal plus und 5
+
+537
+00:21:50,620 --> 00:21:53,060
+geteilt durch 2 ist 2,5. So kommen
+
+538
+00:21:53,060 --> 00:21:55,160
+wir auf x1, 2 ist gleich plus, minus
+
+539
+00:21:55,160 --> 00:22:00,040
+die Wurzel aus 6,25. Also x1 ist 2,5
+
+540
+00:22:00,040 --> 00:22:02,900
+plus die Wurzel aus 6,25 und x2 ist
+
+541
+00:22:02,900 --> 00:22:06,920
+gleich 2,5 minus die Wurzel aus 6,25.
+
+542
+00:22:08,500 --> 00:22:11,620
+Und die Wurzel aus 6,25 ist 2,5,
+
+543
+00:22:11,780 --> 00:22:14,240
+deswegen steht hier 2,5 plus 2,5 ist
+
+544
+00:22:14,240 --> 00:22:17,500
+gleich 5. Und 2,5 minus 2,5 ist
+
+545
+00:22:17,500 --> 00:22:19,940
+gleich 0. Und das sind die beiden
+
+546
+00:22:19,940 --> 00:22:21,520
+Lösungen für die
+
+547
+00:22:21,520 --> 00:22:24,940
+Logarithmusgleichung. Also 5 und 0.
+
+548
+00:22:26,440 --> 00:22:28,440
+Kommen wir nun zu Anwendungen. Wo
+
+549
+00:22:28,440 --> 00:22:31,200
+kann man sowas brauchen? Ganz
+
+550
+00:22:31,200 --> 00:22:32,860
+klassische Beispiele sind die
+
+551
+00:22:32,860 --> 00:22:36,640
+Kapitalrechnung beim Zinseszins. Das
+
+552
+00:22:36,640 --> 00:22:38,520
+Kapital nach N Jahren ist gleich das
+
+553
+00:22:38,520 --> 00:22:41,680
+Anfangskapital K0 mal 1 plus der
+
+554
+00:22:41,680 --> 00:22:44,540
+Zinssatz geteilt durch 100 hoch T. t
+
+555
+00:22:44,540 --> 00:22:46,060
+ist wie gesagt unsere Variable, das
+
+556
+00:22:46,060 --> 00:22:48,060
+ist die Zeit und man sieht, diese
+
+557
+00:22:48,060 --> 00:22:49,720
+steht im Exponenten, das heißt es ist
+
+558
+00:22:49,720 --> 00:22:51,160
+eine Exponentialfunktion.
+
+559
+00:22:53,440 --> 00:22:55,680
+Man kann auch das Wachstum von
+
+560
+00:22:55,680 --> 00:22:57,880
+Bakterien, Stämmen und Keimen sehr
+
+561
+00:22:57,880 --> 00:22:59,380
+gut mit solchen Funktionen
+
+562
+00:22:59,380 --> 00:23:00,300
+darstellen. Wir haben hier ein
+
+563
+00:23:00,300 --> 00:23:01,060
+kleines Beispiel mit einer
+
+564
+00:23:01,060 --> 00:23:03,560
+Logarithmusfunktion und das heißt zum
+
+565
+00:23:03,560 --> 00:23:05,740
+Beispiel ab dem fünften Tag kann man
+
+566
+00:23:05,740 --> 00:23:07,860
+das Keinwachstum durch die folgende
+
+567
+00:23:07,860 --> 00:23:09,820
+Funktionsgleichung beschreiben. 1,5
+
+568
+00:23:09,820 --> 00:23:12,100
+mal der Logarithmus von x plus x².
+
+569
+00:23:12,560 --> 00:23:15,560
+Dort sieht man, die Variable x steht
+
+570
+00:23:15,560 --> 00:23:17,280
+im Logarithmus drin. Wir haben
+
+571
+00:23:17,280 --> 00:23:18,540
+natürlich auch hier ein einfaches
+
+572
+00:23:18,540 --> 00:23:20,560
+quadratisches Glied. Trotz alledem
+
+573
+00:23:20,560 --> 00:23:21,600
+handelt es sich um eine
+
+574
+00:23:21,600 --> 00:23:22,880
+Logarithmusfunktion.
+
+575
+00:23:25,870 --> 00:23:27,890
+Gut, wir wären jetzt am Ende des
+
+576
+00:23:27,890 --> 00:23:29,910
+Webinars. Ich bedanke mich recht
+
+577
+00:23:29,910 --> 00:23:31,570
+herzlich für eure Aufmerksamkeit und
+
+578
+00:23:31,570 --> 00:23:32,970
+wünsche euch noch einen schönen Tag.
+

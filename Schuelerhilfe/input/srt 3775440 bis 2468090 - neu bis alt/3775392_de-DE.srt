@@ -1,0 +1,496 @@
+1
+00:00:04,110 --> 00:00:06,230
+Hallo, mein Name ist Paula und ich
+
+2
+00:00:06,230 --> 00:00:07,450
+bin Nachhilfelehrerin bei der
+
+3
+00:00:07,450 --> 00:00:09,530
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,530 --> 00:00:11,190
+gerne das Thema Redoxreaktion
+
+5
+00:00:11,190 --> 00:00:12,910
+erklären. In unserem Online
+
+6
+00:00:12,910 --> 00:00:14,810
+-Lerncenter steht dir zu diesem Thema
+
+7
+00:00:14,810 --> 00:00:15,970
+natürlich auch ein Wiki zur
+
+8
+00:00:15,970 --> 00:00:17,690
+Verfügung, in dem dir die
+
+9
+00:00:17,690 --> 00:00:19,310
+grundlegenden und wichtigen Begriffe
+
+10
+00:00:19,310 --> 00:00:22,570
+genauer erklärt werden. Die
+
+11
+00:00:22,570 --> 00:00:23,850
+Redoxreaktion ist eine wichtige
+
+12
+00:00:23,850 --> 00:00:26,090
+Reaktion in der Chemie und findet in
+
+13
+00:00:26,090 --> 00:00:27,890
+vielen Nachweisreaktionen Anwendung.
+
+14
+00:00:28,650 --> 00:00:30,890
+Um sie zu verstehen, sollten wir uns
+
+15
+00:00:30,890 --> 00:00:31,970
+zunächst noch einmal die
+
+16
+00:00:31,970 --> 00:00:34,230
+Oxidationszahlen anschauen, denn sie
+
+17
+00:00:34,230 --> 00:00:35,570
+sind die Grundlage, um die
+
+18
+00:00:35,570 --> 00:00:37,490
+Redoxreaktion verstehen und anwenden
+
+19
+00:00:37,490 --> 00:00:39,890
+zu können. Falls du dich noch einmal
+
+20
+00:00:39,890 --> 00:00:41,590
+genau über Oxidationszahlen
+
+21
+00:00:41,590 --> 00:00:43,330
+informieren möchtest, kannst du dir
+
+22
+00:00:43,330 --> 00:00:44,390
+hierzu gerne das Video
+
+23
+00:00:44,390 --> 00:00:47,290
+Oxidationszahlen ansehen. Trotzdem
+
+24
+00:00:47,290 --> 00:00:48,710
+werde ich auch hier noch einmal ganz
+
+25
+00:00:48,710 --> 00:00:50,430
+kurz die wichtigsten Fakten zu
+
+26
+00:00:50,430 --> 00:00:52,730
+Oxidationszahlen nennen. Bei
+
+27
+00:00:52,730 --> 00:00:54,470
+elementar vorkommenden Stoffen ist
+
+28
+00:00:54,470 --> 00:00:57,150
+die Oxidationszahl 0. Elementar
+
+29
+00:00:57,150 --> 00:00:58,870
+bedeutet hierbei, dass sie nicht in
+
+30
+00:00:58,870 --> 00:01:00,790
+einer Verbindung vorkommen. Hierbei
+
+31
+00:01:00,790 --> 00:01:02,610
+ist es wichtig, auf Zusatzhinweise zu
+
+32
+00:01:02,610 --> 00:01:04,770
+achten, beispielsweise ob der
+
+33
+00:01:04,770 --> 00:01:06,690
+elementar vorkommende Stoff negativ
+
+34
+00:01:06,690 --> 00:01:09,110
+oder positiv geladen ist. Ist beides
+
+35
+00:01:09,110 --> 00:01:10,310
+nicht der Fall, beträgt die
+
+36
+00:01:10,310 --> 00:01:12,010
+Oxidationszahl des Stoffes 0.
+
+37
+00:01:12,890 --> 00:01:15,190
+Wasserstoff zum Beispiel hat meistens
+
+38
+00:01:15,190 --> 00:01:17,410
+die Oxidationszahl plus 1 und
+
+39
+00:01:17,410 --> 00:01:20,250
+Sauerstoff minus 2. Wichtig ist, dass
+
+40
+00:01:20,250 --> 00:01:21,930
+die Verbindung mehrerer Elemente
+
+41
+00:01:21,930 --> 00:01:23,950
+immer dann 0 sein muss, wenn sie
+
+42
+00:01:23,950 --> 00:01:25,690
+nicht negativ oder positiv geladen
+
+43
+00:01:25,690 --> 00:01:28,150
+ist. Schauen wir uns das Beispiel der
+
+44
+00:01:28,150 --> 00:01:30,050
+Reaktion von Kupferoxid und
+
+45
+00:01:30,050 --> 00:01:32,130
+Wasserstoff an. Ich werde später noch
+
+46
+00:01:32,130 --> 00:01:34,890
+einmal darauf zurückkommen. Die
+
+47
+00:01:34,890 --> 00:01:36,650
+Oxidationszahl wird über den Stoff
+
+48
+00:01:36,650 --> 00:01:39,410
+mit einem Plus- bzw. Minuszeichen und
+
+49
+00:01:39,410 --> 00:01:40,690
+einer römischen Ziffer geschrieben.
+
+50
+00:01:41,610 --> 00:01:43,950
+Um zu veranschaulichen, ob es sich um
+
+51
+00:01:43,950 --> 00:01:45,450
+eine eine positive oder negative
+
+52
+00:01:45,450 --> 00:01:47,870
+Oxidationszahl handelt, werden häufig
+
+53
+00:01:47,870 --> 00:01:50,150
+auch Farben verwendet. Verwende
+
+54
+00:01:50,150 --> 00:01:52,590
+beispielsweise Grün für 0, Rot für
+
+55
+00:01:52,590 --> 00:01:54,710
+negative Zahlen und Blau für positive
+
+56
+00:01:54,710 --> 00:01:57,090
+Zahlen. So kommen wir nach einer
+
+57
+00:01:57,090 --> 00:01:58,170
+kleinen Wiederholung der
+
+58
+00:01:58,170 --> 00:01:59,810
+Oxidationszahlen nun zur
+
+59
+00:01:59,810 --> 00:02:02,490
+Redoxreaktion. Vielleicht fragst du
+
+60
+00:02:02,490 --> 00:02:04,070
+dich ja schon, wieso heißt das denn
+
+61
+00:02:04,070 --> 00:02:06,370
+eigentlich Redoxreaktion? Ganz
+
+62
+00:02:06,370 --> 00:02:09,070
+einfach. Der Name Redox setzt sich
+
+63
+00:02:09,070 --> 00:02:10,910
+aus den Begriffen Reduktion und
+
+64
+00:02:10,910 --> 00:02:13,770
+Oxidation zusammen. Anfangsbuchstaben
+
+65
+00:02:13,770 --> 00:02:15,690
+beider Vorgänge bilden also den
+
+66
+00:02:15,690 --> 00:02:18,390
+Begriff Redox. Schauen wir uns nun
+
+67
+00:02:18,390 --> 00:02:19,730
+einmal an, was genau eine
+
+68
+00:02:19,730 --> 00:02:22,450
+Redoxreaktion eigentlich ist. Wie wir
+
+69
+00:02:22,450 --> 00:02:23,810
+eben bei der Namensgebung gesehen
+
+70
+00:02:23,810 --> 00:02:26,130
+haben, besteht die Redoxreaktion aus
+
+71
+00:02:26,130 --> 00:02:28,050
+mindestens einer Oxidation und
+
+72
+00:02:28,050 --> 00:02:30,950
+mindestens einer Reduktion. Eine
+
+73
+00:02:30,950 --> 00:02:33,290
+Oxidation liegt vor, wenn die Abgabe
+
+74
+00:02:33,290 --> 00:02:35,790
+von Elektronen stattfindet. Genau
+
+75
+00:02:35,790 --> 00:02:38,150
+umgekehrt ist es bei der Reduktion.
+
+76
+00:02:38,310 --> 00:02:39,950
+Hier werden die Elektronen
+
+77
+00:02:39,950 --> 00:02:42,270
+aufgenommen. Ein Reduktionsmittel
+
+78
+00:02:42,270 --> 00:02:44,030
+wird auch Donator genannt und ist in
+
+79
+00:02:44,030 --> 00:02:45,470
+der Reaktion dafür zuständig,
+
+80
+00:02:45,630 --> 00:02:48,590
+Elektronen abzugeben. Umgekehrt ist
+
+81
+00:02:48,590 --> 00:02:50,370
+es bei dem Oxidationsmittel, auch
+
+82
+00:02:50,370 --> 00:02:52,050
+Akzeptor genannt, es nimmt die
+
+83
+00:02:52,050 --> 00:02:55,210
+Elektronen auf. Kommen wir zurück zu
+
+84
+00:02:55,210 --> 00:02:57,710
+unserem Beispiel. Der Reaktion von
+
+85
+00:02:57,710 --> 00:03:00,030
+Kupferoxid und Wasserstoff zu Wasser
+
+86
+00:03:00,030 --> 00:03:02,490
+und Kupfer. Zunächst stellt man die
+
+87
+00:03:02,490 --> 00:03:04,850
+Reaktionsgleichung auf. Anschließend
+
+88
+00:03:04,850 --> 00:03:06,370
+werden die Oxidationszahlen über
+
+89
+00:03:06,370 --> 00:03:08,450
+jedes Element geschrieben. Nun
+
+90
+00:03:08,450 --> 00:03:10,350
+vergleicht man die Oxidationszahlen
+
+91
+00:03:10,350 --> 00:03:12,270
+der Edukt- und der Produktseite
+
+92
+00:03:12,270 --> 00:03:14,330
+miteinander. Man kann hier erkennen,
+
+93
+00:03:14,470 --> 00:03:17,630
+dass die Oxidationszahl von Cu, also
+
+94
+00:03:17,630 --> 00:03:20,650
+Kupfer, von plus 2 auf der Eduktseite
+
+95
+00:03:20,650 --> 00:03:24,150
+zu 0 auf der Produktseite wird. Hier
+
+96
+00:03:24,150 --> 00:03:26,770
+findet also eine Reduktion statt. Bei
+
+97
+00:03:26,770 --> 00:03:28,430
+Wasserstoff sieht man, dass es auf
+
+98
+00:03:28,430 --> 00:03:30,690
+der Eduktseite die Oxidationszahl 0
+
+99
+00:03:30,690 --> 00:03:33,110
+war und auf der Produktseite plus 1.
+
+100
+00:03:33,770 --> 00:03:35,870
+Hier findet also die Oxidation statt.
+
+101
+00:03:36,690 --> 00:03:38,850
+Da in dieser Reaktion eine Oxidation
+
+102
+00:03:38,850 --> 00:03:41,330
+und eine Reduktion vorliegen, handelt
+
+103
+00:03:41,330 --> 00:03:42,370
+es sich hierbei um eine
+
+104
+00:03:42,370 --> 00:03:45,090
+Redoxreaktion. Hier siehst du noch
+
+105
+00:03:45,090 --> 00:03:46,710
+einmal die wichtigsten Schritte, die
+
+106
+00:03:46,710 --> 00:03:48,410
+du bei der Redoxreaktion beachten
+
+107
+00:03:48,410 --> 00:03:49,710
+musst, kurz übersichtlich
+
+108
+00:03:49,710 --> 00:03:52,150
+zusammengefasst. Erstens
+
+109
+00:03:52,150 --> 00:03:53,610
+Reaktionsgleichung aufstellen.
+
+110
+00:03:54,230 --> 00:03:55,950
+Zweitens Oxidationszahlen
+
+111
+00:03:55,950 --> 00:03:58,610
+aufschreiben. Drittens
+
+112
+00:03:58,610 --> 00:04:00,430
+Oxidationszahlen der Produktseite und
+
+113
+00:04:00,430 --> 00:04:03,210
+Edukseite vergleichen. Viertens, wenn
+
+114
+00:04:03,210 --> 00:04:04,930
+sowohl eine Reduktion als auch eine
+
+115
+00:04:04,930 --> 00:04:07,070
+Oxidation vorliegt, handelt es sich
+
+116
+00:04:07,070 --> 00:04:10,610
+um eine Redoxreaktion. Ich hoffe,
+
+117
+00:04:10,650 --> 00:04:12,330
+dass ich dir helfen konnte, das Thema
+
+118
+00:04:12,330 --> 00:04:14,290
+Redoxreaktion besser zu verstehen.
+
+119
+00:04:14,790 --> 00:04:16,570
+Wenn du noch Fragen zu diesem diesem
+
+120
+00:04:16,570 --> 00:04:18,330
+oder anderen Themen hast, benutze
+
+121
+00:04:18,330 --> 00:04:20,350
+gerne unsere weiteren Lerninhalte im
+
+122
+00:04:20,350 --> 00:04:22,510
+Online-Lerncenter oder wende dich an
+
+123
+00:04:22,510 --> 00:04:24,590
+deine Schülerhilfe vor Ort. Bis zum
+
+124
+00:04:24,590 --> 00:04:25,070
+nächsten Mal!
+

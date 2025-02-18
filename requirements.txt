@@ -1,5 +1,7 @@
+openmm
 numpy
 scipy
 matplotlib
 pandas
 sympy
+pillow

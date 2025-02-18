@@ -1,0 +1,554 @@
+﻿1
+00:00:03,950 --> 00:00:06,750
+Hello, my name is Joshua and I 
+
+2
+00:00:06,750 --> 00:00:07,850
+am a tutor at 
+
+3
+00:00:07,850 --> 00:00:09,870
+Schülerhilfe. Today I would like to 
+
+4
+00:00:09,870 --> 00:00:11,650
+explain something about strength. 
+
+5
+00:00:11,650 --> 00:00:13,370
+In our online learning center, you can 
+
+6
+00:00:13,370 --> 00:00:14,830
+of course also 
+
+7
+00:00:14,830 --> 00:00:16,490
+find a wiki on this topic, 
+
+8
+00:00:16,490 --> 00:00:17,810
+
+9
+00:00:17,810 --> 00:00:19,310
+which explains the basic and important 
+terms in more detail. 
+
+10
+00:00:21,010 --> 00:00:22,770
+You may already be familiar with starch 
+
+11
+00:00:22,770 --> 00:00:24,830
+from recipes or ingredient lists on 
+
+12
+00:00:24,830 --> 00:00:27,070
+packaging. It is 
+
+13
+00:00:27,070 --> 00:00:29,650
+a fine, colorless and odorless 
+
+14
+00:00:29,650 --> 00:00:31,110
+powder that is a 
+
+15
+00:00:31,110 --> 00:00:32,990
+long-chain carbohydrate 
+
+16
+00:00:33,050 --> 00:00:35,530
+, a so-called polysaccharide, with 
+
+17
+00:00:35,530 --> 00:00:39,490
+the general formula C6H10O5. Starch 
+
+18
+00:00:39,490 --> 00:00:40,690
+is one of the most important 
+
+19
+00:00:40,690 --> 00:00:42,090
+storage substances in plant 
+
+20
+00:00:42,090 --> 00:00:44,470
+cells. They consist of many 
+
+21
+00:00:44,470 --> 00:00:45,870
+ alpha-glucose units, which 
+
+22
+00:00:45,870 --> 00:00:47,670
+
+23
+00:00:47,670 --> 00:00:49,450
+are linked together via so-called 
+alpha-glucosidic bonds. 
+
+24
+00:00:49,450 --> 00:00:51,990
+Alpha-glucose 
+
+25
+00:00:51,990 --> 00:00:53,170
+is the molecule in which the 
+
+26
+00:00:53,170 --> 00:00:55,410
+hydroxyl group on C1 
+
+27
+00:00:55,410 --> 00:00:58,050
+points downwards in the Howarth 
+projection. The 
+
+28
+00:00:58,050 --> 00:00:59,670
+glucose molecules are 
+
+29
+00:00:59,670 --> 00:01:01,450
+
+30
+00:01:01,450 --> 00:01:03,930
+linked together by condensation reactions. 
+This condensation 
+
+31
+00:01:03,930 --> 00:01:05,810
+takes place by splitting off water. 
+
+32
+00:01:05,910 --> 00:01:08,890
+The reverse reaction, i.e. the breakdown 
+
+33
+00:01:08,890 --> 00:01:11,290
+of starch to glucose 
+
+34
+00:01:11,290 --> 00:01:12,710
+, takes place using water and is called 
+
+35
+00:01:12,710 --> 00:01:15,490
+hydrolysis or hydrolytic 
+
+36
+00:01:15,490 --> 00:01:17,810
+cleavage. In unbranched 
+
+37
+00:01:17,810 --> 00:01:20,090
+starch molecules, only C1 
+
+38
+00:01:20,090 --> 00:01:21,950
+and C4 are 
+
+39
+00:01:21,950 --> 00:01:24,830
+involved in the bonds. The bond is 
+
+40
+00:01:24,830 --> 00:01:26,990
+ called alpha-1,4 -glycosidic. If 
+
+41
+00:01:26,990 --> 00:01:29,030
+branched starch is present, 
+
+42
+00:01:29,030 --> 00:01:31,410
+the C6 atom is also 
+
+43
+00:01:31,410 --> 00:01:34,230
+involved in the bond at the branching 
+points . 
+
+44
+00:01:34,230 --> 00:01:36,490
+There is also an alpha-1,6 
+
+45
+00:01:36,490 --> 00:01:37,970
+-glycosidic bond. 
+
+46
+00:01:39,350 --> 00:01:41,230
+Accordingly, a distinction is made between 
+two 
+
+47
+00:01:41,230 --> 00:01:44,370
+forms of starch. Amylose consists of 
+approx. 
+
+48
+00:01:44,590 --> 00:01:47,430
+500 to 6000 glycose units, which 
+
+49
+00:01:47,430 --> 00:01:50,090
+
+50
+00:01:50,090 --> 00:01:52,390
+are only linked alpha-1,4-glycosidically . 
+This results in a 
+
+51
+00:01:52,390 --> 00:01:54,630
+linear helical 
+
+52
+00:01:54,630 --> 00:01:57,930
+chain. A helix 
+
+53
+00:01:57,990 --> 00:02:00,110
+, also 
+
+54
+00:02:00,110 --> 00:02:02,270
+known as a helix or cylindrical spiral, is 
+a curve that 
+
+55
+00:02:02,270 --> 00:02:04,050
+
+56
+00:02:04,050 --> 00:02:06,230
+winds around a cylinder with a constant 
+pitch. Due to the 
+
+57
+00:02:06,230 --> 00:02:08,170
+bond angle at the oxygen, 
+
+58
+00:02:08,170 --> 00:02:10,590
+not all glycosemonomers lie in a 
+
+59
+00:02:10,590 --> 00:02:13,230
+straight line, but the chain has 
+
+60
+00:02:13,230 --> 00:02:14,910
+a curvature and a slight 
+
+61
+00:02:14,910 --> 00:02:18,350
+torsion, i.e. twist. This leads to 
+
+62
+00:02:18,350 --> 00:02:20,210
+the helix-like 
+
+63
+00:02:20,210 --> 00:02:22,450
+structure already mentioned. The 
+
+64
+00:02:22,450 --> 00:02:24,730
+hydrophilic hydroxyl groups of the helix 
+
+65
+00:02:24,730 --> 00:02:26,550
+point outwards, which means that 
+
+66
+00:02:26,550 --> 00:02:28,650
+this starch 
+
+67
+00:02:28,650 --> 00:02:32,190
+is soluble in water. Amylopectin, on the 
+other hand, which 
+
+68
+00:02:32,190 --> 00:02:34,150
+consists of hundreds of thousands to 
+millions of 
+
+69
+00:02:34,150 --> 00:02:36,230
+glucose building blocks, is 
+
+70
+00:02:36,230 --> 00:02:38,790
+insoluble in water but swells in 
+
+71
+00:02:38,790 --> 00:02:41,570
+water. Amylopectin is the 
+
+72
+00:02:41,570 --> 00:02:43,670
+so-called branched starch, in which 
+
+73
+00:02:43,670 --> 00:02:45,590
+the C6 atom is also 
+
+74
+00:02:45,590 --> 00:02:48,110
+involved in the bond. There are also 
+
+75
+00:02:48,110 --> 00:02:50,370
+alpha-1,6-glycosidic bonds 
+
+76
+00:02:50,370 --> 00:02:52,990
+. Vegetable 
+
+77
+00:02:52,990 --> 00:02:57,610
+starch usually consists of 20-30% amyllose 
+and 70-80% 
+
+78
+00:02:57,610 --> 00:03:00,310
+amylopectin. Starch 
+
+79
+00:03:00,310 --> 00:03:02,590
+can be detected with the iodine test. 
+
+80
+00:03:02,590 --> 00:03:04,650
+An iodine-containing solution is used for 
+this, 
+
+81
+00:03:04,670 --> 00:03:07,470
+usually an iodine-potassium iodide 
+solution 
+
+82
+00:03:07,470 --> 00:03:10,130
+or a so-called iodine tincture, i.e. 
+
+83
+00:03:10,130 --> 00:03:11,650
+an alcoholic solution of 
+
+84
+00:03:11,650 --> 00:03:13,750
+elemental iodine, which 
+
+85
+00:03:13,750 --> 00:03:16,050
+
+86
+00:03:16,050 --> 00:03:18,530
+is added to the starch-containing solution 
+or sample. The iodine sample 
+
+87
+00:03:18,530 --> 00:03:20,110
+produces a blue-violet to 
+
+88
+00:03:20,110 --> 00:03:21,650
+black coloration due to an 
+
+89
+00:03:21,650 --> 00:03:24,510
+inclusion compound. The 
+
+90
+00:03:24,510 --> 00:03:26,390
+amylose present in starch 
+
+91
+00:03:26,390 --> 00:03:28,270
+has a helical conformation with a 
+
+92
+00:03:28,270 --> 00:03:30,290
+channel-like cavity in the middle. 
+
+93
+00:03:30,550 --> 00:03:32,430
+
+94
+00:03:32,430 --> 00:03:34,890
+Polyodide chains can become embedded in 
+these cavities . This 
+
+95
+00:03:34,890 --> 00:03:36,190
+intercalation leads to a 
+
+96
+00:03:36,190 --> 00:03:38,430
+delocalization of valence electrons 
+
+97
+00:03:38,430 --> 00:03:40,310
+and thus to absorption in higher 
+
+98
+00:03:40,310 --> 00:03:42,590
+wavelength ranges. The solution 
+
+99
+00:03:42,590 --> 00:03:45,030
+appears blue. Plants use 
+
+100
+00:03:45,030 --> 00:03:46,970
+starch to store excess 
+
+101
+00:03:46,970 --> 00:03:48,990
+energy. For this purpose, the 
+
+102
+00:03:48,990 --> 00:03:51,410
+glucose monomers are linked together to 
+form starch 
+
+103
+00:03:51,450 --> 00:03:53,390
+in order to 
+
+104
+00:03:53,390 --> 00:03:55,750
+bind glucose in an insoluble and 
+osmotically ineffective form. 
+
+105
+00:03:56,570 --> 00:03:58,810
+Seeds, 
+
+106
+00:03:58,810 --> 00:04:00,810
+tubers and onions are rich in starch 
+granules . 
+
+107
+00:04:00,810 --> 00:04:02,430
+
+108
+00:04:02,430 --> 00:04:04,930
+We use the processing of these tubers to 
+produce starch. 
+
+109
+00:04:04,930 --> 00:04:06,690
+The majority of global production comes 
+
+110
+00:04:06,690 --> 00:04:09,570
+from maize. Around 5% comes from 
+
+111
+00:04:09,570 --> 00:04:12,010
+potatoes. Starch can be 
+
+112
+00:04:12,050 --> 00:04:13,930
+broken down by enzymes known as amylases 
+
+113
+00:04:13,930 --> 00:04:16,050
+. In addition to 
+
+114
+00:04:16,050 --> 00:04:17,950
+disaccharides , this also produces 
+dextrins 
+
+115
+00:04:17,950 --> 00:04:19,250
+, which are poly- and 
+
+116
+00:04:19,250 --> 00:04:21,830
+oligosaccharides. 
+
+117
+00:04:21,830 --> 00:04:23,730
+When exposed to heat, starch can 
+
+118
+00:04:23,730 --> 00:04:26,770
+bind, swell 
+
+119
+00:04:26,770 --> 00:04:30,050
+and gelatinize a large amount of water. 
+These properties 
+
+120
+00:04:30,050 --> 00:04:31,630
+make starch useful for all 
+
+121
+00:04:31,630 --> 00:04:34,630
+kinds of baked goods and dishes. In 
+addition to 
+
+122
+00:04:34,630 --> 00:04:35,990
+its use in 
+
+123
+00:04:35,990 --> 00:04:37,810
+food production , starch is also used for 
+
+124
+00:04:37,810 --> 00:04:39,970
+sizing paper, mordanting 
+
+125
+00:04:39,970 --> 00:04:42,450
+cotton and dyeing. 
+
+126
+00:04:42,890 --> 00:04:44,990
+So in addition to its nutritional value, 
+it 
+
+127
+00:04:44,990 --> 00:04:47,050
+can also be used in many other ways. 
+
+128
+00:04:47,610 --> 00:04:49,830
+I hope that you now know more about 
+
+129
+00:04:49,830 --> 00:04:51,750
+starch. If you have any further questions 
+on 
+
+130
+00:04:51,750 --> 00:04:53,390
+these or other topics, 
+
+131
+00:04:53,630 --> 00:04:55,190
+please feel free to use our other 
+
+132
+00:04:55,190 --> 00:04:57,330
+learning content in the online learning 
+section or 
+
+133
+00:04:57,330 --> 00:04:59,090
+contact your local Schülerhilfe 
+
+134
+00:04:59,090 --> 00:05:00,510
+. See you next time. 

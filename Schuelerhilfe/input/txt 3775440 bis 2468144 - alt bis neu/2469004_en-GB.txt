@@ -1,0 +1,902 @@
+﻿1
+00:00:04,050 --> 00:00:06,350
+Hello, my name is Joshua and I 
+
+2
+00:00:06,350 --> 00:00:07,430
+am a tutor at 
+
+3
+00:00:07,430 --> 00:00:09,910
+Schülerhilfe. Today I would like to 
+explain 
+
+4
+00:00:09,910 --> 00:00:11,090
+something about the physical 
+
+5
+00:00:11,090 --> 00:00:12,650
+properties of metals. 
+
+6
+00:00:13,150 --> 00:00:15,270
+In our online learning center 
+
+7
+00:00:15,270 --> 00:00:16,830
+you will of course also 
+
+8
+00:00:16,830 --> 00:00:18,730
+find a wiki on this topic , in which 
+
+9
+00:00:18,730 --> 00:00:20,210
+the basic and important 
+
+10
+00:00:20,210 --> 00:00:24,190
+terms are explained in more detail. 
+
+11
+00:00:24,190 --> 00:00:25,430
+In contrast to chemical 
+
+12
+00:00:25,430 --> 00:00:27,050
+properties, which 
+
+13
+00:00:27,050 --> 00:00:28,610
+
+14
+00:00:28,610 --> 00:00:30,250
+describe the behavior of metals in 
+chemical reactions , 
+
+15
+00:00:30,250 --> 00:00:32,090
+physical properties describe the 
+
+16
+00:00:32,090 --> 00:00:33,890
+behavior of metals outside of 
+
+17
+00:00:33,890 --> 00:00:36,370
+chemical processes. But what are 
+
+18
+00:00:36,370 --> 00:00:37,370
+physical 
+
+19
+00:00:37,370 --> 00:00:39,990
+properties? Physical 
+
+20
+00:00:39,990 --> 00:00:41,150
+properties are divided into the 
+
+21
+00:00:41,150 --> 00:00:42,910
+sub-areas of physics. 
+
+22
+00:00:43,430 --> 00:00:46,490
+These are thermodynamics, mechanics, 
+
+23
+00:00:46,510 --> 00:00:51,090
+electrodynamics and optics. 
+
+24
+00:00:51,090 --> 00:00:52,690
+There are a large number 
+
+25
+00:00:52,690 --> 00:00:55,090
+of measured variables for each subject 
+area. Here are a few 
+
+26
+00:00:55,090 --> 00:00:57,050
+examples of the four subject areas. 
+
+27
+00:00:58,230 --> 00:01:00,090
+In thermodynamics, you will find measured 
+variables 
+
+28
+00:01:00,090 --> 00:01:03,170
+such as the state of matter, density, 
+
+29
+00:01:03,310 --> 00:01:06,050
+melting point, boiling point and 
+
+30
+00:01:06,050 --> 00:01:08,570
+thermal conductivity. 
+
+31
+00:01:08,570 --> 00:01:10,390
+In mechanics, the following measured 
+variables are 
+
+32
+00:01:10,390 --> 00:01:13,150
+important. Strength, 
+
+33
+00:01:13,150 --> 00:01:15,550
+ductility, i.e. deformability 
+
+34
+00:01:15,550 --> 00:01:19,090
+and elasticity. In the field of 
+
+35
+00:01:19,090 --> 00:01:20,750
+electrodynamics 
+
+36
+00:01:20,750 --> 00:01:22,810
+, electrical conductivity, 
+
+37
+00:01:22,810 --> 00:01:25,230
+magnetic conductivity and 
+
+38
+00:01:25,230 --> 00:01:28,490
+magnetizability are very important to us. 
+
+39
+00:01:28,490 --> 00:01:30,490
+In the field of optics, we limit ourselves 
+
+40
+00:01:30,490 --> 00:01:33,670
+to color and reflection, also 
+
+41
+00:01:33,670 --> 00:01:36,310
+known as gloss. Here is some general 
+information on 
+
+42
+00:01:36,310 --> 00:01:37,990
+physical properties. 
+
+43
+00:01:38,350 --> 00:01:41,170
+Firstly, the structure 
+
+44
+00:01:41,170 --> 00:01:42,990
+determines the properties, 
+
+45
+00:01:42,990 --> 00:01:44,370
+not only the physical 
+
+46
+00:01:44,370 --> 00:01:45,970
+properties, but also the 
+
+47
+00:01:45,970 --> 00:01:48,710
+chemical properties. Secondly, the 
+
+48
+00:01:48,710 --> 00:01:50,270
+physical properties are 
+
+49
+00:01:50,270 --> 00:01:52,690
+temperature-dependent. Table values 
+
+50
+00:01:52,690 --> 00:01:54,030
+usually refer to a 
+
+51
+00:01:54,030 --> 00:01:56,730
+specific temperature, for example 25 
+
+52
+00:01:56,730 --> 00:02:00,210
+degrees Celsius. Thirdly, many 
+
+53
+00:02:00,210 --> 00:02:01,830
+properties of metals can be 
+
+54
+00:02:01,830 --> 00:02:02,970
+
+55
+00:02:02,970 --> 00:02:05,030
+
+56
+00:02:05,030 --> 00:02:06,530
+
+57
+00:02:06,530 --> 00:02:09,650
+traced back directly to the typical metal 
+structure consisting of a metal ion 
+lattice with freely moving electron gases. 
+First, 
+
+58
+00:02:09,650 --> 00:02:11,590
+let's look at the thermodynamic 
+
+59
+00:02:11,590 --> 00:02:14,590
+properties. All metals are 
+
+60
+00:02:14,590 --> 00:02:16,550
+in a solid 
+
+61
+00:02:16,550 --> 00:02:18,670
+state at room temperature. There is only 
+
+62
+00:02:18,670 --> 00:02:20,550
+one exception and that 
+
+63
+00:02:20,550 --> 00:02:24,070
+is mercury . Now let's look 
+
+64
+00:02:24,070 --> 00:02:26,190
+at the density. This is 
+
+65
+00:02:26,190 --> 00:02:27,790
+called Rho in a formula and is 
+
+66
+00:02:27,790 --> 00:02:29,750
+calculated from the mass m and 
+
+67
+00:02:29,750 --> 00:02:31,870
+the volume V of the substance according to 
+this 
+
+68
+00:02:31,870 --> 00:02:35,190
+formula. Rho is equal to m divided 
+
+69
+00:02:35,190 --> 00:02:37,910
+by V. As a rule of thumb, you can 
+
+70
+00:02:37,910 --> 00:02:39,930
+remember that increasing atomic numbers 
+
+71
+00:02:39,930 --> 00:02:41,650
+of elements also lead to increasing 
+
+72
+00:02:41,650 --> 00:02:43,850
+atomic masses and increasing 
+
+73
+00:02:43,850 --> 00:02:46,010
+atomic masses 
+
+74
+00:02:46,010 --> 00:02:48,930
+result in a higher density. 
+
+75
+00:02:48,930 --> 00:02:50,530
+You can easily determine differences in 
+density if you 
+
+76
+00:02:50,530 --> 00:02:52,290
+
+77
+00:02:52,290 --> 00:02:54,230
+hold objects of the same size in your 
+hands, for example a 
+
+78
+00:02:54,230 --> 00:02:56,310
+plastic fork and a 
+
+79
+00:02:56,310 --> 00:02:58,670
+metal fork . The plastic fork 
+
+80
+00:02:58,670 --> 00:03:00,530
+has a much lower density than the 
+
+81
+00:03:00,530 --> 00:03:02,450
+metal fork . It is therefore much 
+
+82
+00:03:02,450 --> 00:03:04,290
+lighter, even though the two forks 
+
+83
+00:03:04,290 --> 00:03:05,670
+are the same size and therefore 
+
+84
+00:03:05,670 --> 00:03:08,410
+have the same volume. Then there are 
+
+85
+00:03:08,410 --> 00:03:09,670
+the melting and 
+
+86
+00:03:09,670 --> 00:03:12,210
+boiling temperatures of the metals. 
+
+87
+00:03:12,210 --> 00:03:14,170
+In most cases, these are much higher 
+
+88
+00:03:14,170 --> 00:03:16,050
+than for non-metals. The 
+
+89
+00:03:16,050 --> 00:03:18,110
+metal bond is a very strong 
+
+90
+00:03:18,110 --> 00:03:20,170
+bond, so a lot of energy in 
+
+91
+00:03:20,170 --> 00:03:21,930
+the form of heat is required to break the 
+
+92
+00:03:21,930 --> 00:03:24,390
+bond. However, this is 
+
+93
+00:03:24,390 --> 00:03:26,290
+a prerequisite for the transition 
+
+94
+00:03:26,290 --> 00:03:28,090
+to the liquid or gaseous 
+
+95
+00:03:28,090 --> 00:03:30,470
+state. 
+
+96
+00:03:30,470 --> 00:03:32,070
+However, there are differences between the 
+various metals 
+
+97
+00:03:32,070 --> 00:03:35,050
+. 
+
+98
+00:03:35,050 --> 00:03:37,290
+It is therefore not possible to determine 
+a generally valid rule. 
+
+99
+00:03:37,290 --> 00:03:39,530
+However, elements with a 
+
+100
+00:03:39,530 --> 00:03:41,990
+similar atomic structure, i.e. the same 
+
+101
+00:03:41,990 --> 00:03:43,850
+main or secondary group in the 
+
+102
+00:03:43,850 --> 00:03:46,510
+periodic table, also have similar melting 
+
+103
+00:03:46,510 --> 00:03:49,030
+ and boiling temperatures. For the 
+
+104
+00:03:49,030 --> 00:03:50,870
+thermal conductivity, I will 
+
+105
+00:03:50,870 --> 00:03:53,010
+first explain what heat actually is. 
+
+106
+00:03:53,610 --> 00:03:55,290
+In short, heat is the 
+
+107
+00:03:55,290 --> 00:03:58,090
+kinetic energy of the particles. The 
+
+108
+00:03:58,090 --> 00:03:59,350
+more the particles 
+
+109
+00:03:59,350 --> 00:04:01,670
+vibrate in the crystal lattice, the higher 
+
+110
+00:04:01,670 --> 00:04:03,790
+the temperature. So 
+
+111
+00:04:03,790 --> 00:04:05,250
+the particles in a crystal lattice vibrate 
+
+112
+00:04:05,250 --> 00:04:07,350
+more strongly the more the material is 
+
+113
+00:04:07,350 --> 00:04:09,910
+heated. The particles vibrate 
+
+114
+00:04:09,910 --> 00:04:12,470
+together as a whole. The 
+
+115
+00:04:12,470 --> 00:04:14,130
+kinetic energy is always 
+
+116
+00:04:14,130 --> 00:04:15,570
+transferred to the neighboring particles 
+
+117
+00:04:15,570 --> 00:04:18,010
+. In this way, the 
+
+118
+00:04:18,010 --> 00:04:19,410
+heat is 
+
+119
+00:04:19,410 --> 00:04:22,130
+transported through the crystal lattice . 
+With regard to 
+
+120
+00:04:22,130 --> 00:04:23,910
+metals, we can 
+
+121
+00:04:23,910 --> 00:04:25,150
+deduce from the structure how the 
+
+122
+00:04:25,150 --> 00:04:27,470
+thermal conductivity behaves. This is 
+where 
+
+123
+00:04:27,470 --> 00:04:29,250
+the typical structure of 
+
+124
+00:04:29,250 --> 00:04:31,590
+metals comes into play again. The freely 
+
+125
+00:04:31,590 --> 00:04:33,210
+moving electrons can 
+
+126
+00:04:33,210 --> 00:04:35,210
+
+127
+00:04:35,250 --> 00:04:37,350
+transport the heat, i.e. the kinetic 
+energy, quickly. 
+
+128
+00:04:37,350 --> 00:04:39,170
+The thermal conductivity of metals is 
+
+129
+00:04:39,170 --> 00:04:42,250
+therefore very good. In the field of 
+
+130
+00:04:42,250 --> 00:04:44,190
+mechanics , too, many properties 
+
+131
+00:04:44,190 --> 00:04:45,610
+of metals can be 
+
+132
+00:04:45,610 --> 00:04:48,010
+attributed to the metal bond. The forces 
+of attraction 
+
+133
+00:04:48,010 --> 00:04:49,590
+between the metal ion lattice and the 
+
+134
+00:04:49,590 --> 00:04:52,450
+electron gas are very high. 
+
+135
+00:04:52,450 --> 00:04:54,490
+A large force is therefore required to 
+
+136
+00:04:54,490 --> 00:04:56,810
+break the metals. This is what is 
+
+137
+00:04:56,810 --> 00:04:58,150
+meant by the term mechanical 
+
+138
+00:04:58,150 --> 00:05:01,570
+strength. But let's start 
+
+139
+00:05:01,570 --> 00:05:04,250
+at the beginning. 
+
+140
+00:05:04,250 --> 00:05:05,970
+If a force is applied to a metal object, 
+
+141
+00:05:06,130 --> 00:05:08,090
+it first deforms elastically. 
+
+142
+00:05:08,490 --> 00:05:10,410
+You can think of it like 
+
+143
+00:05:10,410 --> 00:05:12,290
+a rubber band, except that the 
+
+144
+00:05:12,290 --> 00:05:13,990
+elongation of the metal is not 
+
+145
+00:05:13,990 --> 00:05:15,750
+as great as that of a rubber band. 
+
+146
+00:05:16,690 --> 00:05:18,030
+When the force disappears, the metal 
+
+147
+00:05:18,030 --> 00:05:19,970
+
+148
+00:05:19,970 --> 00:05:22,790
+returns to its previous shape , just like 
+the rubber band. How great the 
+
+149
+00:05:22,790 --> 00:05:24,450
+elongation 
+
+150
+00:05:24,450 --> 00:05:26,310
+is in relation to the force is 
+
+151
+00:05:26,310 --> 00:05:28,530
+described by the elasticity . It is 
+
+152
+00:05:28,530 --> 00:05:31,450
+different for every metal. In addition, 
+the end of 
+
+153
+00:05:31,450 --> 00:05:33,110
+the elastic deformation is also 
+
+154
+00:05:33,110 --> 00:05:35,870
+different for each metal. At some point, 
+
+155
+00:05:35,870 --> 00:05:37,390
+the force becomes too great and the metal 
+
+156
+00:05:37,390 --> 00:05:39,810
+begins to deform. This time, 
+
+157
+00:05:39,810 --> 00:05:41,930
+however, in such a way that 
+
+158
+00:05:41,930 --> 00:05:43,690
+the deformation remains when the force is 
+released. 
+
+159
+00:05:44,750 --> 00:05:45,910
+This property is called 
+
+160
+00:05:45,910 --> 00:05:48,130
+ductility and is also directly 
+
+161
+00:05:48,130 --> 00:05:52,450
+attributable to the metal bond. The 
+
+162
+00:05:52,450 --> 00:05:53,970
+electron gas ensures that 
+
+163
+00:05:53,970 --> 00:05:55,690
+different levels of the crystal 
+
+164
+00:05:55,690 --> 00:05:56,790
+can move without 
+
+165
+00:05:56,790 --> 00:05:59,510
+breaking apart. This makes the 
+
+166
+00:05:59,510 --> 00:06:02,830
+metals ductile, i.e. malleable. If 
+
+167
+00:06:02,830 --> 00:06:04,270
+the force on the metal is increased even 
+
+168
+00:06:04,270 --> 00:06:06,190
+further, at some point the 
+
+169
+00:06:06,190 --> 00:06:08,710
+final limit is reached and the metal 
+
+170
+00:06:08,710 --> 00:06:11,330
+breaks. This force is 
+
+171
+00:06:11,330 --> 00:06:13,110
+called strength. Like the other 
+
+172
+00:06:13,110 --> 00:06:14,410
+properties, 
+
+173
+00:06:14,410 --> 00:06:16,270
+electrical conductivity is also directly 
+
+174
+00:06:16,270 --> 00:06:17,970
+
+175
+00:06:17,970 --> 00:06:20,210
+attributable to the electrical gas in the 
+metal lattice . Electrical 
+
+176
+00:06:20,210 --> 00:06:22,310
+conductivity presupposes that freely 
+
+177
+00:06:22,310 --> 00:06:24,250
+movable charge carriers, i.e. 
+
+178
+00:06:24,250 --> 00:06:26,330
+charged particles, 
+
+179
+00:06:26,330 --> 00:06:30,290
+are present in metals. 
+
+180
+00:06:30,290 --> 00:06:32,650
+Silver, copper 
+
+181
+00:06:32,650 --> 00:06:35,810
+and gold have the best conductivity . Some 
+metals 
+
+182
+00:06:35,810 --> 00:06:38,190
+also have magnetic properties. These 
+
+183
+00:06:38,190 --> 00:06:40,090
+metals are iron, cobalt and 
+
+184
+00:06:40,090 --> 00:06:42,630
+nickel. They have 
+
+185
+00:06:42,630 --> 00:06:44,810
+microscopically small magnetic areas in 
+their structures 
+
+186
+00:06:44,810 --> 00:06:46,830
+, which 
+
+187
+00:06:46,830 --> 00:06:49,110
+are called Weiß's districts . Initially, 
+they are 
+
+188
+00:06:49,110 --> 00:06:51,030
+disordered and their magnetic fields 
+
+189
+00:06:51,030 --> 00:06:52,550
+point in different directions 
+
+190
+00:06:52,590 --> 00:06:54,070
+so that they do not 
+
+191
+00:06:54,070 --> 00:06:56,130
+appear magnetic to the outside world. 
+
+192
+00:06:56,130 --> 00:06:58,070
+However, if you bring a magnet close to 
+them, 
+
+193
+00:06:58,070 --> 00:06:59,510
+some of the 
+
+194
+00:06:59,510 --> 00:07:01,150
+magnetic fields align in the same 
+direction 
+
+195
+00:07:01,150 --> 00:07:03,570
+. This allows the magnet to adhere to the 
+
+196
+00:07:03,570 --> 00:07:05,710
+metal. If the metal remains 
+
+197
+00:07:05,710 --> 00:07:07,910
+in the magnetic field for longer or if 
+
+198
+00:07:07,910 --> 00:07:09,910
+the magnetic field is strengthened, 
+
+199
+00:07:09,910 --> 00:07:11,650
+all the white areas in the 
+
+200
+00:07:11,650 --> 00:07:13,250
+magnetic field align in the same direction 
+
+201
+00:07:13,250 --> 00:07:15,470
+. The metal has then been 
+
+202
+00:07:15,470 --> 00:07:18,250
+magnetized. 
+
+203
+00:07:18,250 --> 00:07:19,330
+The 
+
+204
+00:07:19,330 --> 00:07:20,930
+electron gas also plays a decisive 
+
+205
+00:07:20,930 --> 00:07:23,110
+role in the optical properties. It 
+reflects the light 
+
+206
+00:07:23,110 --> 00:07:25,650
+almost completely, which means 
+
+207
+00:07:25,850 --> 00:07:27,370
+that the light 
+
+208
+00:07:27,370 --> 00:07:29,690
+is mirrored on the surface. We perceive 
+this as 
+
+209
+00:07:29,690 --> 00:07:32,590
+a metallic shine. The small 
+
+210
+00:07:32,590 --> 00:07:34,510
+amounts of light that 
+
+211
+00:07:34,530 --> 00:07:37,030
+are absorbed, i.e. swallowed, cause 
+
+212
+00:07:37,030 --> 00:07:38,790
+the different colors of the metals. 
+
+213
+00:07:39,770 --> 00:07:41,590
+I hope that you now know more about the 
+
+214
+00:07:41,590 --> 00:07:42,930
+physical properties of 
+
+215
+00:07:42,930 --> 00:07:45,050
+metals. If you still have questions about 
+
+216
+00:07:45,050 --> 00:07:46,570
+these or other topics, 
+
+217
+00:07:46,750 --> 00:07:48,170
+please feel free to use our other 
+
+218
+00:07:48,170 --> 00:07:50,330
+learning content in the online learning 
+center or 
+
+219
+00:07:50,330 --> 00:07:51,910
+contact your 
+
+220
+00:07:51,910 --> 00:07:53,410
+local student help center. See you next 
+time! 

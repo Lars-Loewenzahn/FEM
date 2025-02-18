@@ -1,0 +1,424 @@
+1
+00:00:03,950 --> 00:00:05,790
+Hallo, mein Name ist Paula und ich
+
+2
+00:00:05,790 --> 00:00:07,070
+bin Nachhilfelehrerin bei der
+
+3
+00:00:07,070 --> 00:00:09,270
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,270 --> 00:00:11,110
+gerne etwas zum Thema binäre Salze
+
+5
+00:00:11,110 --> 00:00:13,570
+aus der Chemie erklären. In unserem
+
+6
+00:00:13,570 --> 00:00:15,270
+Online-Lerncenter steht dir zu diesem
+
+7
+00:00:15,270 --> 00:00:16,870
+Thema natürlich auch ein Wiki zur
+
+8
+00:00:16,870 --> 00:00:18,390
+Verfügung, in dem dir die
+
+9
+00:00:18,390 --> 00:00:19,890
+grundlegenden und wichtigen Begriffe
+
+10
+00:00:19,890 --> 00:00:22,830
+genauer erklärt werden. Starten wir
+
+11
+00:00:22,830 --> 00:00:24,330
+direkt mit einem veranschaulichenden
+
+12
+00:00:24,330 --> 00:00:26,710
+Beispiel. Wenn du zwei Primärfarben
+
+13
+00:00:26,710 --> 00:00:28,590
+mischst, zum Beispiel Rot und Blau,
+
+14
+00:00:28,590 --> 00:00:30,510
+dann erhältst du eine sogenannte
+
+15
+00:00:30,510 --> 00:00:32,730
+Sekundärfarbe, in unserem Fall lila.
+
+16
+00:00:33,730 --> 00:00:35,630
+Aufgrund der Farblehre kannst du
+
+17
+00:00:35,630 --> 00:00:37,410
+bereits im Voraus die Sekundärfarbe
+
+18
+00:00:37,410 --> 00:00:40,210
+bestimmen. Bei der Synthese von
+
+19
+00:00:40,210 --> 00:00:42,070
+binären Salzen lassen sich ähnliche
+
+20
+00:00:42,070 --> 00:00:44,470
+Regeln erstellen. Aber was ist
+
+21
+00:00:44,470 --> 00:00:46,550
+binäres Salz überhaupt? Binär
+
+22
+00:00:46,550 --> 00:00:47,830
+bedeutet, dass es aus zwei
+
+23
+00:00:47,830 --> 00:00:50,230
+Komponenten besteht. Und da es sich
+
+24
+00:00:50,230 --> 00:00:51,650
+um ein Salz handelt, müssen diese
+
+25
+00:00:51,650 --> 00:00:53,530
+Komponenten in ihrer Ionenform
+
+26
+00:00:53,530 --> 00:00:56,270
+vorliegen. Zur Bestimmung der zwei
+
+27
+00:00:56,270 --> 00:00:57,930
+Komponenten schauen wir uns einmal
+
+28
+00:00:57,930 --> 00:00:59,950
+die Hauptgruppen des Periodensystems
+
+29
+00:00:59,950 --> 00:01:02,970
+an. Alle hier aufgeführten Elemente
+
+30
+00:01:02,970 --> 00:01:04,150
+lassen sich in drei Gruppen
+
+31
+00:01:04,150 --> 00:01:06,730
+unterteilen. Die Metalle, die
+
+32
+00:01:06,730 --> 00:01:09,990
+Halbmetalle und die Nichtmetalle. Für
+
+33
+00:01:09,990 --> 00:01:11,790
+die Bildung eines Salzes benötigt man
+
+34
+00:01:11,790 --> 00:01:13,730
+eine Komponente, die Elektronen
+
+35
+00:01:13,730 --> 00:01:16,690
+abgibt, den Elektronenspender. Hier
+
+36
+00:01:16,690 --> 00:01:18,710
+Halbmetalle und Nichtmetalle, mit
+
+37
+00:01:18,710 --> 00:01:21,750
+Ausnahme der Edelgase. Aufgrund ihres
+
+38
+00:01:21,750 --> 00:01:23,570
+unterschiedlichen Reaktionsverhaltens
+
+39
+00:01:23,570 --> 00:01:25,170
+werden hier die Halbmetalle nicht
+
+40
+00:01:25,170 --> 00:01:27,290
+weiter behandelt. Und auch die
+
+41
+00:01:27,290 --> 00:01:28,950
+Edelgase scheiden für die Salzbildung
+
+42
+00:01:28,950 --> 00:01:31,910
+aus. Jetzt haben wir unsere möglichen
+
+43
+00:01:31,910 --> 00:01:34,190
+Komponenten bestimmt. Doch wie bilden
+
+44
+00:01:34,190 --> 00:01:35,890
+sich jetzt die Salze? Und welche
+
+45
+00:01:35,890 --> 00:01:37,530
+Reaktionen laufen in diesem Prozess
+
+46
+00:01:37,530 --> 00:01:39,850
+ab? Fangen wir mit den Metallen an.
+
+47
+00:01:39,970 --> 00:01:42,310
+Sie geben eine Anzahl an Elektronen
+
+48
+00:01:42,310 --> 00:01:43,610
+ab, die identisch mit ihrer
+
+49
+00:01:43,610 --> 00:01:46,130
+Hauptgruppe sind. Lithium gibt also
+
+50
+00:01:46,130 --> 00:01:48,390
+einen Elektron ab. ab. Magnesium 2,
+
+51
+00:01:48,710 --> 00:01:51,130
+Aluminium 3 und so weiter. Bei
+
+52
+00:01:51,130 --> 00:01:52,910
+Nichtmetallen kannst du die Anzahl
+
+53
+00:01:52,910 --> 00:01:54,730
+der Elektronen, die sie aufnehmen,
+
+54
+00:01:54,790 --> 00:01:57,250
+dadurch berechnen, dass du von 8 die
+
+55
+00:01:57,250 --> 00:01:59,650
+Hauptgruppe abziehst. Die einzige
+
+56
+00:01:59,650 --> 00:02:01,970
+Ausnahme ist Wasserstoff, der nur ein
+
+57
+00:02:01,970 --> 00:02:03,630
+weiteres Elektron aufnehmen kann.
+
+58
+00:02:04,350 --> 00:02:05,850
+Kommen wir jetzt zur eigentlichen
+
+59
+00:02:05,850 --> 00:02:08,330
+Salzbildung. Dazu suchen wir uns ein
+
+60
+00:02:08,330 --> 00:02:10,010
+Metall und ein Nichtmetall aus.
+
+61
+00:02:10,550 --> 00:02:13,610
+Zuerst Natrium und Chlor. Natrium
+
+62
+00:02:13,610 --> 00:02:15,690
+gibt ein Elektron ab und Chlor nimmt
+
+63
+00:02:15,690 --> 00:02:17,730
+ein Elektron Elektron auf. Es
+
+64
+00:02:17,730 --> 00:02:19,790
+entsteht Natriumchlorid, also
+
+65
+00:02:19,790 --> 00:02:22,390
+gewöhnliches Kochsalz. Wichtig ist,
+
+66
+00:02:22,470 --> 00:02:24,110
+dass die Anzahl der ausgetauschten
+
+67
+00:02:24,110 --> 00:02:27,410
+Elektronen immer identisch ist. Hier
+
+68
+00:02:27,410 --> 00:02:29,430
+war das einfach. Doch was ist, wenn
+
+69
+00:02:29,430 --> 00:02:30,790
+man sich für ein anderes Paar
+
+70
+00:02:30,790 --> 00:02:32,530
+entscheidet? Nehmen wir zum Beispiel
+
+71
+00:02:32,530 --> 00:02:35,110
+Aluminium und Sauerstoff. Aluminium
+
+72
+00:02:35,110 --> 00:02:37,070
+gibt drei Elektronen ab. Ein
+
+73
+00:02:37,070 --> 00:02:39,010
+Sauerstoffatom kann jedoch nur zwei
+
+74
+00:02:39,010 --> 00:02:41,450
+Elektronen aufnehmen. Wir benötigen
+
+75
+00:02:41,450 --> 00:02:43,650
+also mehr Atome. Da die Anzahl der
+
+76
+00:02:43,650 --> 00:02:45,370
+ausgetauschten Elektronen identisch
+
+77
+00:02:45,370 --> 00:02:47,470
+sein muss, multiplizieren wir einfach
+
+78
+00:02:47,470 --> 00:02:50,210
+2 und 3, womit wir 6 als gemeinsame
+
+79
+00:02:50,210 --> 00:02:53,470
+Nenner erhalten. Zwei Aluminiumatome
+
+80
+00:02:53,470 --> 00:02:56,390
+geben 6 Elektronen ab und drei
+
+81
+00:02:56,390 --> 00:02:58,730
+Sauerstoffatome nehmen 6 Elektronen
+
+82
+00:02:58,730 --> 00:03:01,910
+auf. Das erhaltene Salz ist also
+
+83
+00:03:01,910 --> 00:03:06,230
+Al2U3. Diese Indizes werden nur dann
+
+84
+00:03:06,230 --> 00:03:07,890
+notiert, wenn sie sich von einer
+
+85
+00:03:08,010 --> 00:03:10,230
+unterscheiden. So ist die korrekte
+
+86
+00:03:10,230 --> 00:03:13,130
+Schreibweise von Calcium-Sulfid, CAS
+
+87
+00:03:13,130 --> 00:03:17,470
+und nicht CA2S2. Zum Schluss die
+
+88
+00:03:17,470 --> 00:03:20,310
+Zusammenfassung. Erstens, binäre
+
+89
+00:03:20,310 --> 00:03:22,430
+Salze setzen sich aus Metall-Ionen
+
+90
+00:03:22,430 --> 00:03:23,750
+und Nicht-Metall-Ionen zusammen.
+
+91
+00:03:24,370 --> 00:03:26,950
+Zweitens, Metallatome geben
+
+92
+00:03:26,950 --> 00:03:30,170
+Elektronen ab. Drittens, Nicht
+
+93
+00:03:30,170 --> 00:03:32,210
+-Metallatome nehmen Elektronen auf.
+
+94
+00:03:33,350 --> 00:03:35,050
+Viertens, die Anzahl der
+
+95
+00:03:35,050 --> 00:03:37,050
+ausgetauschten Ionen muss identisch
+
+96
+00:03:37,050 --> 00:03:40,890
+sein. Fünftens, unterscheidet sich
+
+97
+00:03:40,890 --> 00:03:43,090
+die Anzahl der jeweiligen Ionen, wird
+
+98
+00:03:43,090 --> 00:03:45,190
+ihre Anzahl durch Indizes angegeben.
+
+99
+00:03:45,830 --> 00:03:47,490
+Ich hoffe, dass du nun besser
+
+100
+00:03:47,490 --> 00:03:49,410
+verstehst, wie binäre Seiten gebildet
+
+101
+00:03:49,410 --> 00:03:51,890
+werden. Wenn du noch Fragen zu diesem
+
+102
+00:03:51,890 --> 00:03:53,890
+oder anderen Themen hast, nutze gerne
+
+103
+00:03:53,890 --> 00:03:56,030
+unsere weiteren Lerninhalte im Online
+
+104
+00:03:56,030 --> 00:03:58,050
+-Lerncenter oder wende dich an deine
+
+105
+00:03:58,050 --> 00:03:59,890
+Schülerhilfe vor Ort. Bis zum
+
+106
+00:03:59,890 --> 00:04:00,350
+nächsten Mal!
+

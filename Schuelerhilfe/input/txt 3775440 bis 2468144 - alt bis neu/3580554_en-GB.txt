@@ -1,0 +1,3480 @@
+﻿1
+00:00:00,530 --> 00:00:02,490
+Welcome to the webinar 
+
+2
+00:00:02,490 --> 00:00:04,950
+Curve Discussion. In this webinar 
+
+3
+00:00:04,950 --> 00:00:06,410
+we will 
+
+4
+00:00:06,410 --> 00:00:08,050
+
+5
+00:00:08,050 --> 00:00:10,350
+talk about the most prominent points of a 
+curve discussion and also look at 
+
+6
+00:00:10,370 --> 00:00:12,890
+what we need them for. In a 
+
+7
+00:00:12,890 --> 00:00:15,470
+curve discussion, you always calculate 
+
+8
+00:00:15,470 --> 00:00:17,770
+salient points. These salient 
+
+9
+00:00:17,770 --> 00:00:20,790
+points characterize a graph 
+
+10
+00:00:20,790 --> 00:00:23,650
+very strongly. This means that if you 
+
+11
+00:00:23,650 --> 00:00:24,970
+know these points, you can 
+
+12
+00:00:24,970 --> 00:00:27,050
+
+13
+00:00:27,050 --> 00:00:29,790
+make a very precise sketch of this graph. 
+We will 
+
+14
+00:00:29,790 --> 00:00:31,230
+now also 
+
+15
+00:00:31,230 --> 00:00:32,850
+
+16
+00:00:32,850 --> 00:00:36,210
+set up the webinar using an example 
+function equation and we will use this to 
+
+17
+00:00:36,210 --> 00:00:37,670
+discuss the curves 
+
+18
+00:00:37,670 --> 00:00:39,650
+and at the end we will look at the 
+
+19
+00:00:39,650 --> 00:00:41,650
+calculated points on the graph 
+
+20
+00:00:41,650 --> 00:00:44,610
+and then you will see that these 
+
+21
+00:00:44,610 --> 00:00:46,550
+points already 
+
+22
+00:00:46,550 --> 00:00:50,010
+describe the course of the graph very 
+well. Of course, 
+
+23
+00:00:50,010 --> 00:00:51,770
+you could also do the whole thing with a 
+
+24
+00:00:51,770 --> 00:00:53,290
+table of values. 
+
+25
+00:00:53,290 --> 00:00:54,850
+However, a table of values has the problem 
+
+26
+00:00:55,090 --> 00:00:57,990
+that there is always a certain distance 
+
+27
+00:00:57,990 --> 00:01:00,290
+between the points and this leads 
+
+28
+00:01:00,290 --> 00:01:03,030
+to inaccuracies, because the 
+
+29
+00:01:03,030 --> 00:01:04,890
+prominent points of a graph, such as 
+
+30
+00:01:04,890 --> 00:01:07,190
+extreme points or inflection points, 
+
+31
+00:01:07,190 --> 00:01:09,750
+unfortunately do not always have to lie on 
+the 
+
+32
+00:01:09,750 --> 00:01:11,470
+step size of the table of values 
+
+33
+00:01:11,470 --> 00:01:13,510
+and can therefore often only 
+
+34
+00:01:13,510 --> 00:01:15,910
+be displayed or 
+
+35
+00:01:16,190 --> 00:01:18,130
+determined inadequately . Therefore, the 
+
+36
+00:01:18,130 --> 00:01:20,570
+calculation is firstly mathematically 
+
+37
+00:01:20,570 --> 00:01:22,110
+more beautiful and secondly much 
+
+38
+00:01:22,110 --> 00:01:25,610
+more accurate. Here are the 
+
+39
+00:01:25,610 --> 00:01:28,590
+three most common points that come to mind 
+when you 
+
+40
+00:01:28,590 --> 00:01:29,550
+hear the word 
+
+41
+00:01:29,550 --> 00:01:30,870
+curve discussion. 
+
+42
+00:01:30,870 --> 00:01:32,630
+First of all, there is the zero. 
+
+43
+00:01:32,630 --> 00:01:34,330
+The zero point is nothing more than a 
+
+44
+00:01:34,330 --> 00:01:35,710
+point of intersection with the x-axis. 
+
+45
+00:01:35,710 --> 00:01:36,910
+We'll take a closer look at this in a 
+moment 
+
+46
+00:01:36,910 --> 00:01:39,650
+. An inflection point. And 
+
+47
+00:01:39,650 --> 00:01:40,930
+inflection points are points at which 
+
+48
+00:01:40,930 --> 00:01:42,730
+the curvature behavior changes. 
+
+49
+00:01:42,870 --> 00:01:45,230
+In other words, it changes from 
+
+50
+00:01:45,230 --> 00:01:46,770
+curved to the left to curved to the right 
+or 
+
+51
+00:01:46,770 --> 00:01:50,270
+vice versa. Extreme points are the 
+
+52
+00:01:50,270 --> 00:01:51,570
+latter. I think that's what 
+
+53
+00:01:51,570 --> 00:01:54,310
+you think of first. These 
+
+54
+00:01:54,310 --> 00:01:56,950
+are high or low points. And they 
+
+55
+00:01:56,950 --> 00:01:58,250
+are simply points where the 
+
+56
+00:01:58,250 --> 00:02:00,010
+gradient is zero. 
+
+57
+00:02:00,010 --> 00:02:03,270
+
+58
+00:02:03,270 --> 00:02:04,610
+We'll 
+
+59
+00:02:04,610 --> 00:02:06,150
+see why this is the case and where this 
+concept of zero gradient comes from when 
+we 
+
+60
+00:02:06,150 --> 00:02:09,050
+calculate the turning points. First of 
+all, 
+
+61
+00:02:09,050 --> 00:02:10,210
+we now see the 
+
+62
+00:02:10,210 --> 00:02:12,150
+equation of the function, which we 
+
+63
+00:02:12,150 --> 00:02:13,610
+will always use in the following. f 
+
+64
+00:02:13,610 --> 00:02:15,890
+of x is equal to 1 half x to the power of 
+3 
+
+65
+00:02:15,890 --> 00:02:21,010
+minus 1 half x² minus 3x. 
+
+66
+00:02:21,090 --> 00:02:23,250
+As I said, we will use this to 
+
+67
+00:02:23,250 --> 00:02:24,770
+carry out the curve discussion in the 
+following and this 
+
+68
+00:02:24,770 --> 00:02:26,190
+is also our task for 
+
+69
+00:02:26,190 --> 00:02:29,510
+this webinar. 
+
+70
+00:02:29,510 --> 00:02:31,610
+As part of the curve discussion, we will 
+also briefly 
+
+71
+00:02:31,610 --> 00:02:33,550
+discuss tools of the trade, how to 
+
+72
+00:02:33,550 --> 00:02:36,410
+solve certain equations or what to 
+
+73
+00:02:36,410 --> 00:02:39,350
+look out for. So we won 
+
+74
+00:02:39,350 --> 00:02:41,290
+'t always 
+
+75
+00:02:41,290 --> 00:02:43,250
+solve the equations completely. We will, 
+as you will 
+
+76
+00:02:43,250 --> 00:02:46,090
+see in a moment, write down the approach 
+
+77
+00:02:46,090 --> 00:02:47,590
+and the result. But then 
+
+78
+00:02:47,590 --> 00:02:48,810
+we will also write or provide 
+
+79
+00:02:48,810 --> 00:02:50,670
+information on the best way 
+
+80
+00:02:50,670 --> 00:02:54,800
+to solve it. First of all, before you 
+
+81
+00:02:54,800 --> 00:02:56,240
+start discussing the curves 
+
+82
+00:02:56,360 --> 00:02:58,300
+, the domain of definition should be 
+clarified 
+
+83
+00:02:58,300 --> 00:03:01,520
+. In many tasks, 
+
+84
+00:03:01,520 --> 00:03:03,060
+this is already given, in which case 
+
+85
+00:03:03,060 --> 00:03:04,680
+you can of course save yourself this step. 
+
+86
+00:03:04,680 --> 00:03:05,940
+However, it should always be 
+
+87
+00:03:05,940 --> 00:03:09,160
+taken into account. So you always have to 
+
+88
+00:03:09,160 --> 00:03:10,820
+consider whether the definition range 
+
+89
+00:03:10,820 --> 00:03:14,740
+is restricted or from where to where 
+
+90
+00:03:14,740 --> 00:03:17,480
+it goes. Basically, however, 
+
+91
+00:03:17,480 --> 00:03:20,020
+the first thing to say is that for 
+completely rational 
+
+92
+00:03:20,020 --> 00:03:22,980
+functions, the domain of definition is 
+
+93
+00:03:22,980 --> 00:03:24,780
+not restricted and the function 
+
+94
+00:03:24,780 --> 00:03:26,000
+is 
+
+95
+00:03:26,000 --> 00:03:28,760
+defined for all real numbers. That's what 
+we see here and that 
+
+96
+00:03:28,760 --> 00:03:30,040
+'s usually the information 
+
+97
+00:03:30,280 --> 00:03:33,060
+you get in the problem text. If 
+
+98
+00:03:33,060 --> 00:03:34,920
+not, however, this should be 
+
+99
+00:03:34,920 --> 00:03:37,780
+stated first. Caution is advised if 
+
+100
+00:03:37,780 --> 00:03:39,640
+it 
+
+101
+00:03:39,640 --> 00:03:41,060
+is not a completely normal, completely 
+rational function, for example if the 
+
+102
+00:03:41,060 --> 00:03:43,540
+function contains fractions, i.e. it is a 
+
+103
+00:03:43,540 --> 00:03:46,160
+fraction function, a 
+
+104
+00:03:46,160 --> 00:03:47,020
+fractional rational 
+
+105
+00:03:47,020 --> 00:03:49,660
+function equation, then you have to 
+
+106
+00:03:49,660 --> 00:03:51,020
+be careful because the denominator must 
+
+107
+00:03:51,020 --> 00:03:54,220
+never become zero. With 
+
+108
+00:03:54,220 --> 00:03:55,080
+root functions you have to be 
+
+109
+00:03:55,080 --> 00:03:58,360
+careful, 
+
+110
+00:03:58,360 --> 00:04:00,020
+there must never be anything negative 
+under the root . The important thing is 
+that 
+
+111
+00:04:00,100 --> 00:04:01,300
+
+112
+00:04:01,300 --> 00:04:04,200
+there can still be a 0 under the root , 
+which is still OK. This is 
+
+113
+00:04:04,200 --> 00:04:05,240
+the big difference to the 
+
+114
+00:04:05,240 --> 00:04:06,840
+logarithm. The logarithm may 
+
+115
+00:04:06,840 --> 00:04:08,640
+only contain values greater than 0. 
+
+116
+00:04:09,580 --> 00:04:11,360
+The 0 is no longer OK there. 
+
+117
+00:04:11,420 --> 00:04:13,460
+This means that the logarithm can only 
+contain values 
+
+118
+00:04:13,460 --> 00:04:17,500
+greater than 0, roots can only contain 
+values greater than or equal to 
+
+119
+00:04:17,500 --> 00:04:20,020
+0. This is very important, these are the 
+
+120
+00:04:20,020 --> 00:04:22,000
+three most common things that are then 
+
+121
+00:04:22,000 --> 00:04:23,680
+dealt with and the 
+
+122
+00:04:23,680 --> 00:04:26,200
+
+123
+00:04:26,200 --> 00:04:27,620
+corresponding definition range is then 
+calculated using this information. 
+
+124
+00:04:30,560 --> 00:04:32,880
+Right, let's start by 
+
+125
+00:04:32,880 --> 00:04:35,380
+calculating the zeros. As we said earlier 
+
+126
+00:04:35,380 --> 00:04:36,540
+, the zeros 
+
+127
+00:04:36,540 --> 00:04:37,700
+of a function equation are the 
+
+128
+00:04:37,700 --> 00:04:41,740
+points of intersection with the x-axis. 
+
+129
+00:04:41,740 --> 00:04:43,780
+These are the 
+
+130
+00:04:43,780 --> 00:04:46,080
+points marked here with green crosses and 
+if you 
+
+131
+00:04:46,080 --> 00:04:47,520
+take a closer look at these points, you 
+will 
+
+132
+00:04:47,520 --> 00:04:49,200
+immediately see that they all have 
+
+133
+00:04:49,200 --> 00:04:52,680
+the function value 
+
+134
+00:04:52,680 --> 00:04:54,700
+or y-coordinate 0 in common. 
+
+135
+00:04:55,840 --> 00:04:57,920
+This is why the condition 
+
+136
+00:04:57,920 --> 00:05:00,100
+for a zero point f of x is 0. 
+
+137
+00:05:00,500 --> 00:05:02,200
+We therefore set our 
+
+138
+00:05:02,200 --> 00:05:04,320
+function equation f of x equal to 0 
+
+139
+00:05:04,320 --> 00:05:06,360
+and then have to solve the equation 
+
+140
+00:05:06,360 --> 00:05:09,180
+. This is how you calculate zeros. 
+
+141
+00:05:10,720 --> 00:05:13,920
+
+142
+00:05:13,920 --> 00:05:16,200
+
+143
+00:05:16,200 --> 00:05:17,600
+In our case, we have a 
+
+144
+00:05:17,600 --> 00:05:18,900
+third-degree function , the degree of a 
+
+145
+00:05:18,900 --> 00:05:21,200
+function is always determined by 
+
+146
+00:05:21,200 --> 00:05:22,780
+the largest exponent, which in 
+
+147
+00:05:22,780 --> 00:05:24,740
+our case is 3, so this is a 
+
+148
+00:05:24,740 --> 00:05:28,640
+third-degree function and to 
+
+149
+00:05:28,640 --> 00:05:30,160
+determine the zero, we set 
+
+150
+00:05:30,160 --> 00:05:32,040
+this function equation, yes, as 
+
+151
+00:05:32,040 --> 00:05:34,200
+just said, equal to 0, 
+
+152
+00:05:34,200 --> 00:05:37,960
+which means we get this equation 1 
+
+153
+00:05:37,960 --> 00:05:41,100
+.5x to the power of 3 minus 1.5x² minus 3x 
+is 
+
+154
+00:05:41,100 --> 00:05:44,360
+equal to 0, which is simply an 
+
+155
+00:05:44,360 --> 00:05:46,340
+equation with the largest power to the 
+power of 
+
+156
+00:05:46,340 --> 00:05:50,400
+3. And we realize that all the 
+
+157
+00:05:50,400 --> 00:05:53,640
+elements in here have an x. This means 
+that our exponent is equal to 0 . This 
+
+158
+00:05:53,640 --> 00:05:56,180
+means that our smallest exponent is x 
+
+159
+00:05:56,180 --> 00:06:00,080
+to the power of 1. And we can always 
+
+160
+00:06:00,080 --> 00:06:01,940
+factor out the smallest exponent. So 
+
+161
+00:06:01,940 --> 00:06:05,000
+we can factor out the x. And to 
+
+162
+00:06:05,000 --> 00:06:05,980
+make the whole thing a little nicer 
+
+163
+00:06:05,980 --> 00:06:07,720
+, we can also 
+
+164
+00:06:07,720 --> 00:06:08,980
+
+165
+00:06:09,040 --> 00:06:12,180
+factor out the 1.5 , because we have the 
+1.5 in here twice. 
+
+166
+00:06:12,180 --> 00:06:14,740
+To do this, we now have to 
+
+167
+00:06:14,740 --> 00:06:17,060
+divide everything by 1 .5x. 1.5x to the 
+power of 3 divided by 
+
+168
+00:06:17,060 --> 00:06:21,520
+1.5x is x². Minus 1.5x² 
+
+169
+00:06:21,520 --> 00:06:24,640
+divided by 1.5x is minus x. And now, 
+
+170
+00:06:24,640 --> 00:06:27,140
+very importantly, minus 3x divided by 
+
+171
+00:06:27,140 --> 00:06:32,100
+1.5x is 
+
+172
+00:06:32,100 --> 00:06:35,840
+minus 6.3 divided by 1.5, i.e. 3 
+
+173
+00:06:35,840 --> 00:06:39,480
+divided by 0.5 is 
+
+174
+00:06:39,480 --> 00:06:41,360
+6 . 
+
+175
+00:06:41,360 --> 00:06:45,080
+And so we 
+
+176
+00:06:45,080 --> 00:06:47,180
+now have a product. The advantage of 
+
+177
+00:06:47,180 --> 00:06:48,840
+this product is that we can apply the 
+
+178
+00:06:48,840 --> 00:06:50,240
+so-called zero product theorem 
+
+179
+00:06:50,240 --> 00:06:51,860
+. The zero product theorem 
+
+180
+00:06:51,860 --> 00:06:54,240
+says that if one of these two terms 
+
+181
+00:06:54,240 --> 00:06:56,840
+becomes 0, the 
+
+182
+00:06:56,840 --> 00:07:00,540
+product is also automatically 0. 
+Therefore, we have 
+
+183
+00:07:00,540 --> 00:07:02,320
+the possibility that 1 half x 
+
+184
+00:07:02,320 --> 00:07:05,000
+becomes 0 , i.e. x1 is 0, or we 
+
+185
+00:07:05,000 --> 00:07:07,860
+have the possibility that x²-x-6 
+
+186
+00:07:07,860 --> 00:07:11,040
+is 0. And that is also 
+
+187
+00:07:11,040 --> 00:07:12,240
+the next step. So 
+
+188
+00:07:12,240 --> 00:07:13,460
+if you 
+
+189
+00:07:13,460 --> 00:07:15,400
+have written it down like this, you can 
+directly conclude that the 
+
+190
+00:07:15,400 --> 00:07:21,160
+first solution x1 is 0 or x²-x-6 is 
+
+191
+00:07:21,160 --> 00:07:23,260
+0. And this then results in 
+
+192
+00:07:23,260 --> 00:07:25,000
+a corresponding equation. 
+
+193
+00:07:25,000 --> 00:07:25,900
+But this is now just a 
+
+194
+00:07:25,900 --> 00:07:27,360
+quadratic equation and that's 
+
+195
+00:07:27,360 --> 00:07:29,620
+the trick. At the 
+
+196
+00:07:29,620 --> 00:07:31,580
+beginning we had a cubic equation, now we 
+
+197
+00:07:31,580 --> 00:07:33,080
+only have a quadratic equation . And 
+
+198
+00:07:33,080 --> 00:07:35,640
+we can 
+
+199
+00:07:35,640 --> 00:07:37,500
+
+200
+00:07:37,500 --> 00:07:40,640
+solve this quadratic equation with the 
+midnight formula or with the pq formula. 
+
+201
+00:07:40,640 --> 00:07:42,260
+We would have 
+
+202
+00:07:42,260 --> 00:07:43,980
+just 
+
+203
+00:07:43,980 --> 00:07:45,640
+had to solve the third-degree functional 
+equation with the polinomial division and 
+that is much 
+
+204
+00:07:45,640 --> 00:07:49,200
+more complicated than this quadratic 
+
+205
+00:07:49,200 --> 00:07:50,680
+equation that we now have to solve, which 
+
+206
+00:07:50,680 --> 00:07:53,020
+is also 
+
+207
+00:07:53,020 --> 00:07:55,460
+worth mentioning. the degree of an 
+
+208
+00:07:55,460 --> 00:07:57,160
+equation also indicates the 
+
+209
+00:07:57,160 --> 00:07:59,080
+maximum number of solutions, which 
+
+210
+00:07:59,080 --> 00:08:00,280
+means we have a 
+
+211
+00:08:00,280 --> 00:08:01,740
+third-degree functional equation here. 
+
+212
+00:08:02,040 --> 00:08:04,960
+This can therefore 
+
+213
+00:08:04,960 --> 00:08:08,060
+produce a maximum of three solutions. 
+
+214
+00:08:10,000 --> 00:08:11,540
+The maximum 
+
+215
+00:08:11,540 --> 00:08:12,960
+number is always important. A third-degree 
+
+216
+00:08:12,960 --> 00:08:16,480
+or second-degree function can also 
+
+217
+00:08:16,480 --> 00:08:22,570
+have no solution. Now let's 
+
+218
+00:08:22,570 --> 00:08:23,970
+take a brief look at the multiplicity 
+
+219
+00:08:23,970 --> 00:08:26,290
+of zeros. It may 
+
+220
+00:08:26,290 --> 00:08:28,290
+well be the case, for 
+
+221
+00:08:28,290 --> 00:08:29,470
+example if 
+
+222
+00:08:29,470 --> 00:08:35,090
+x² rather than x is excluded here , that a 
+
+223
+00:08:35,090 --> 00:08:37,310
+zero occurs several times. For 
+
+224
+00:08:37,310 --> 00:08:38,750
+example, if we now had x² 
+
+225
+00:08:38,810 --> 00:08:41,910
+, we would have the zero twice. And 
+
+226
+00:08:41,910 --> 00:08:43,470
+these digits are then 
+
+227
+00:08:43,470 --> 00:08:45,250
+
+228
+00:08:45,250 --> 00:08:46,910
+called a double zero if it occurs twice, 
+or a 
+
+229
+00:08:46,910 --> 00:08:47,870
+
+230
+00:08:47,870 --> 00:08:50,230
+triple zero if it occurs three times. If 
+it only 
+
+231
+00:08:50,230 --> 00:08:51,590
+occurs once, it is also called 
+
+232
+00:08:51,590 --> 00:08:54,750
+a single zero. 
+
+233
+00:08:54,750 --> 00:08:55,970
+From a graphical point of view, however, 
+this cannot be 
+
+234
+00:08:55,970 --> 00:08:56,690
+interpreted any further. 
+
+235
+00:08:59,770 --> 00:09:01,470
+Next, we have 
+
+236
+00:09:01,470 --> 00:09:02,570
+
+237
+00:09:02,570 --> 00:09:04,570
+written down our function equation again. 
+A slide like this 
+
+238
+00:09:04,570 --> 00:09:06,950
+will appear more often in the following. 
+We 
+
+239
+00:09:06,950 --> 00:09:08,010
+always write 
+
+240
+00:09:08,010 --> 00:09:09,730
+down our results here. 
+
+241
+00:09:09,730 --> 00:09:10,910
+For example, these are the zeros 
+
+242
+00:09:10,990 --> 00:09:12,850
+that we have just calculated. 
+
+243
+00:09:12,850 --> 00:09:14,530
+Of course, we have only 
+
+244
+00:09:14,530 --> 00:09:16,530
+calculated the xth , because the function 
+value at 
+
+245
+00:09:16,530 --> 00:09:17,710
+the zero is always 0. That 
+
+246
+00:09:17,710 --> 00:09:18,870
+is also the necessary condition 
+
+247
+00:09:18,870 --> 00:09:22,790
+for this. And these are the three 
+
+248
+00:09:22,790 --> 00:09:25,750
+zeros. In the following, 
+
+249
+00:09:25,750 --> 00:09:27,450
+extreme points, inflection points and 
+
+250
+00:09:27,450 --> 00:09:29,290
+many other significant points 
+
+251
+00:09:29,290 --> 00:09:33,230
+will be added. Let's move on to the next 
+
+252
+00:09:33,230 --> 00:09:34,890
+intersection point. There are always 
+
+253
+00:09:34,890 --> 00:09:37,590
+two points of intersection with the 
+
+254
+00:09:37,590 --> 00:09:41,210
+axis cross. These are the points of 
+
+255
+00:09:41,210 --> 00:09:42,930
+intersection with the x-axis and 
+
+256
+00:09:42,930 --> 00:09:44,670
+the points of intersection with the y-axis 
+
+257
+00:09:44,670 --> 00:09:46,470
+.  The points of intersection with the 
+
+258
+00:09:46,470 --> 00:09:47,670
+ x-axis are the zero points, which 
+
+259
+00:09:47,670 --> 00:09:49,390
+we have just calculated. And 
+
+260
+00:09:49,390 --> 00:09:51,550
+now we also calculate, this 
+
+261
+00:09:51,550 --> 00:09:53,010
+is not always necessary, but 
+
+262
+00:09:53,010 --> 00:09:55,150
+often required, as I said, 
+
+263
+00:09:55,250 --> 00:09:58,010
+this is always required, if the 
+
+264
+00:09:58,010 --> 00:09:59,910
+points of intersection with the axis cross 
+
+265
+00:09:59,910 --> 00:10:01,210
+are required, then 
+
+266
+00:10:01,210 --> 00:10:04,150
+both are always required and therefore 
+
+267
+00:10:04,150 --> 00:10:05,610
+we now also calculate the points of 
+intersection with 
+
+268
+00:10:05,610 --> 00:10:09,230
+the y-axis. This intersection point 
+
+269
+00:10:09,230 --> 00:10:11,830
+is also called the Y-axis intercept. The 
+
+270
+00:10:11,830 --> 00:10:13,750
+good news here is that it 
+
+271
+00:10:13,750 --> 00:10:15,270
+is not too difficult to calculate, 
+
+272
+00:10:15,970 --> 00:10:18,030
+because to 
+
+273
+00:10:18,030 --> 00:10:20,990
+calculate the y-axis intercept , we simply 
+calculate f 
+
+274
+00:10:20,990 --> 00:10:23,330
+from 0. So we 
+
+275
+00:10:23,330 --> 00:10:24,650
+insert 0 into the function equation and 
+
+276
+00:10:24,650 --> 00:10:25,570
+see what comes out. 
+
+277
+00:10:28,590 --> 00:10:31,110
+A small simplification is that 
+
+278
+00:10:31,150 --> 00:10:32,650
+you always have to 
+
+279
+00:10:32,650 --> 00:10:34,350
+look at the absolute value. Everything 
+that has an x 
+
+280
+00:10:34,350 --> 00:10:36,270
+becomes 0 and only the 
+
+281
+00:10:36,270 --> 00:10:37,990
+absolute term remains. In this case, 
+
+282
+00:10:37,990 --> 00:10:39,690
+we don't have one, so it is a 0 
+
+283
+00:10:39,690 --> 00:10:41,210
+and so the y 
+
+284
+00:10:41,210 --> 00:10:44,150
+-axis intercept is also  0 or the point 
+
+285
+00:10:44,150 --> 00:10:45,570
+P00. 
+
+286
+00:10:47,470 --> 00:10:49,010
+We will now 
+
+287
+00:10:49,010 --> 00:10:50,910
+add this to our results and 
+
+288
+00:10:50,910 --> 00:10:52,930
+this slide will 
+
+289
+00:10:52,930 --> 00:10:56,700
+continue to fill up over the course of the 
+webinar. 
+
+290
+00:10:56,700 --> 00:11:01,060
+Symmetry is actually very important 
+
+291
+00:11:01,060 --> 00:11:03,320
+for a graph, because you can use 
+
+292
+00:11:03,320 --> 00:11:04,720
+symmetry 
+
+293
+00:11:04,720 --> 00:11:06,580
+to compare your results and check their 
+
+294
+00:11:06,580 --> 00:11:09,980
+plausibility, and if you 
+
+295
+00:11:09,980 --> 00:11:11,400
+want to draw it at the end, you need to 
+
+296
+00:11:11,400 --> 00:11:13,720
+know it. There are also only two 
+
+297
+00:11:13,720 --> 00:11:15,940
+simple types of symmetry, i.e. 
+
+298
+00:11:15,940 --> 00:11:17,520
+two types that are covered 
+
+299
+00:11:17,520 --> 00:11:18,920
+at school. One is 
+
+300
+00:11:18,920 --> 00:11:20,140
+axis symmetry and the other is 
+
+301
+00:11:20,140 --> 00:11:23,060
+point symmetry. There is a 
+
+302
+00:11:23,060 --> 00:11:24,460
+third possibility, which is that there is 
+no 
+
+303
+00:11:24,460 --> 00:11:28,680
+symmetry at all. And now we 
+
+304
+00:11:28,680 --> 00:11:30,160
+just have to see which of these three 
+
+305
+00:11:30,160 --> 00:11:33,080
+cases we have. We also 
+
+306
+00:11:33,080 --> 00:11:34,300
+always have the conditions here. 
+
+307
+00:11:34,300 --> 00:11:36,260
+The condition for axis symmetry 
+
+308
+00:11:36,260 --> 00:11:38,300
+is f minus x equals f minus x. 
+
+309
+00:11:38,480 --> 00:11:41,400
+This means that we 
+
+310
+00:11:41,400 --> 00:11:43,820
+
+311
+00:11:43,820 --> 00:11:45,940
+get the 
+
+312
+00:11:45,940 --> 00:11:47,400
+same result regardless of whether we enter 
+our variable as positive or negative. This 
+is 
+
+313
+00:11:47,400 --> 00:11:49,840
+axis symmetry. The point symmetry 
+
+314
+00:11:49,840 --> 00:11:51,860
+is f of minus x is equal to minus 
+
+315
+00:11:51,860 --> 00:11:54,280
+f of x. This means that if we enter our 
+
+316
+00:11:54,280 --> 00:11:57,980
+x in pre-symmetric form 
+
+317
+00:11:58,060 --> 00:11:59,820
+, we also get the function value 
+
+318
+00:11:59,820 --> 00:12:02,300
+in pre-symmetric form. 
+
+319
+00:12:02,300 --> 00:12:04,140
+
+320
+00:12:04,140 --> 00:12:05,980
+You can easily 
+
+321
+00:12:05,980 --> 00:12:08,440
+tell which of these two cases you have by 
+looking at the exponents 
+
+322
+00:12:08,440 --> 00:12:10,460
+: axis symmetry only has 
+
+323
+00:12:10,460 --> 00:12:12,480
+even exponents and 
+
+324
+00:12:12,480 --> 00:12:14,860
+point symmetry only has odd 
+
+325
+00:12:14,860 --> 00:12:17,280
+exponents What is very important is that 
+
+326
+00:12:17,280 --> 00:12:18,880
+axis symmetry can also 
+
+327
+00:12:18,880 --> 00:12:21,440
+have an absolute term, which 
+
+328
+00:12:21,440 --> 00:12:23,380
+point symmetry cannot have 
+
+329
+00:12:24,140 --> 00:12:27,700
+This means that by looking at the 
+
+330
+00:12:27,700 --> 00:12:30,100
+exponents, you can very 
+
+331
+00:12:30,100 --> 00:12:33,860
+quickly decide which 
+
+332
+00:12:33,860 --> 00:12:37,940
+symmetry to check for . 
+
+333
+00:12:37,940 --> 00:12:39,440
+Of course, you only have to check the 
+symmetry 
+
+334
+00:12:39,440 --> 00:12:41,460
+until you have found out 
+
+335
+00:12:41,540 --> 00:12:42,660
+whether there is axisymmetry, 
+
+336
+00:12:42,680 --> 00:12:43,740
+point symmetry or perhaps 
+
+337
+00:12:43,740 --> 00:12:45,500
+no symmetry at all . In other words 
+
+338
+00:12:45,600 --> 00:12:47,180
+, if you see that the function is 
+
+339
+00:12:47,180 --> 00:12:49,740
+axisymmetric, for example, 
+
+340
+00:12:49,760 --> 00:12:51,740
+it is not axisymmetric 
+
+341
+00:12:51,760 --> 00:12:52,360
+, but if you have a function... 
+
+342
+00:12:52,380 --> 00:12:53,580
+action carrier where you think 
+
+343
+00:12:53,620 --> 00:12:55,600
+it is axisymmetric, then 
+
+344
+00:12:55,600 --> 00:12:56,740
+the first thing you do is check for 
+
+345
+00:12:56,740 --> 00:12:58,580
+axisymmetry and usually 
+
+346
+00:12:58,580 --> 00:13:00,540
+your first impression 
+
+347
+00:13:00,540 --> 00:13:02,520
+is not wrong and you only have to 
+
+348
+00:13:02,520 --> 00:13:03,760
+do one calculation and not 
+
+349
+00:13:03,760 --> 00:13:08,220
+two. Well, let's just start 
+
+350
+00:13:08,220 --> 00:13:10,860
+with our calculations. Let's see 
+
+351
+00:13:10,860 --> 00:13:12,940
+, we form f from minus 
+
+352
+00:13:12,940 --> 00:13:15,540
+x here. This means that we 
+
+353
+00:13:15,540 --> 00:13:17,860
+insert a minus x everywhere for x and 
+
+354
+00:13:17,860 --> 00:13:19,140
+it is very important that we always 
+
+355
+00:13:19,140 --> 00:13:20,520
+pay attention to the exponents. If the 
+
+356
+00:13:20,520 --> 00:13:22,780
+exponent is odd, like 3, 
+
+357
+00:13:23,020 --> 00:13:25,980
+the sign remains the same. If 
+
+358
+00:13:25,980 --> 00:13:27,960
+the exponent is even, like 2, 
+
+359
+00:13:28,240 --> 00:13:31,280
+the sign is removed. So 
+
+360
+00:13:31,280 --> 00:13:35,400
+minus x to the power of 3 or 1 half times 
+minus 
+
+361
+00:13:35,400 --> 00:13:37,800
+x to the power of 3 becomes minus 1 half 
+times x to the power of 3. 
+
+362
+00:13:37,900 --> 00:13:39,280
+So the minus was 
+
+363
+00:13:39,280 --> 00:13:42,440
+drawn directly in front of the 1 half, but 
+remains there. 
+
+364
+00:13:42,440 --> 00:13:46,960
+The minus 1 half times minus x square 
+
+365
+00:13:46,960 --> 00:13:48,960
+also becomes minus 1 half times x square. 
+So 
+
+366
+00:13:48,960 --> 00:13:50,940
+here you can see that if the minus had 
+
+367
+00:13:50,940 --> 00:13:52,020
+remained, we would have 
+
+368
+00:13:52,020 --> 00:13:54,120
+had minus minus. But it is to the power of 
+
+369
+00:13:54,120 --> 00:13:56,560
+2, so the minus is omitted and the 
+
+370
+00:13:56,560 --> 00:14:00,080
+minus is also retained here. and 
+
+371
+00:14:00,080 --> 00:14:02,760
+minus 3 times minus x is plus 3x, you 
+
+372
+00:14:02,760 --> 00:14:03,760
+can imagine that 
+
+373
+00:14:03,760 --> 00:14:04,880
+if you don't have an exponent that 
+
+374
+00:14:04,880 --> 00:14:07,320
+it is a 1, then it would also be an 
+
+375
+00:14:07,320 --> 00:14:08,660
+odd exponent and the sign 
+
+376
+00:14:08,660 --> 00:14:12,760
+would be retained. And 
+
+377
+00:14:12,760 --> 00:14:14,320
+now we look to see if we can somehow 
+
+378
+00:14:14,320 --> 00:14:15,700
+
+379
+00:14:15,700 --> 00:14:19,280
+find our functional equation f of x again. 
+
+380
+00:14:19,280 --> 00:14:22,520
+The first thing we're going to do now is 
+to look at f 
+
+381
+00:14:22,520 --> 00:14:23,720
+of x , we had a 1.5 here , so 
+
+382
+00:14:23,720 --> 00:14:25,420
+we'll first try to 
+
+383
+00:14:25,420 --> 00:14:27,740
+bracket it so that we get this 1.5... 
+
+384
+00:14:27,760 --> 00:14:30,380
+x to the power of 3, then we have to 
+
+385
+00:14:30,380 --> 00:14:32,860
+factor out the minus and then, if 
+
+386
+00:14:32,860 --> 00:14:34,220
+we factor out the minus, 
+
+387
+00:14:34,220 --> 00:14:36,100
+the minus 1.5 becomes a plus 1.5 of course 
+
+388
+00:14:36,100 --> 00:14:38,840
+and the plus 3x becomes a minus 
+
+389
+00:14:38,840 --> 00:14:41,180
+3x. And now we have to see whether 
+
+390
+00:14:41,180 --> 00:14:43,200
+this 
+
+391
+00:14:43,200 --> 00:14:44,460
+
+392
+00:14:44,460 --> 00:14:47,180
+corresponds to our functional equation f 
+of x. This is not the case, 
+
+393
+00:14:47,200 --> 00:14:49,840
+because here we have plus 1.5 x² and 
+
+394
+00:14:49,840 --> 00:14:52,980
+here we have minus 1.5 x². 
+
+395
+00:14:52,980 --> 00:14:54,460
+This means that it does not correspond to 
+the 
+
+396
+00:14:54,460 --> 00:14:57,480
+functional equation f of x and 
+
+397
+00:14:57,480 --> 00:14:58,860
+, unfortunately, it also does not 
+correspond to the 
+
+398
+00:14:58,860 --> 00:15:00,380
+functional equation minus f of x. 
+
+399
+00:15:01,700 --> 00:15:03,800
+Therefore, there is no 
+
+400
+00:15:03,800 --> 00:15:06,720
+symmetry in this case. As I said, 
+
+401
+00:15:06,720 --> 00:15:08,240
+you could have guessed the whole thing. 
+
+402
+00:15:08,400 --> 00:15:11,020
+We have even and odd, 
+
+403
+00:15:11,020 --> 00:15:12,980
+as well as even exponents and this is 
+
+404
+00:15:12,980 --> 00:15:14,200
+always a very clear sign 
+
+405
+00:15:14,280 --> 00:15:16,760
+that there is no symmetry. 
+
+406
+00:15:16,760 --> 00:15:17,900
+However, this must still 
+
+407
+00:15:17,900 --> 00:15:19,340
+be proven with this calculation. 
+
+408
+00:15:22,160 --> 00:15:23,620
+Another important point is the 
+
+409
+00:15:23,620 --> 00:15:25,780
+global behavior or the behavior at 
+
+410
+00:15:25,780 --> 00:15:26,200
+infinity. 
+
+411
+00:15:29,340 --> 00:15:31,380
+The advantage of this is that the 
+
+412
+00:15:31,380 --> 00:15:33,340
+behavior at infinity 
+
+413
+00:15:33,340 --> 00:15:35,220
+is quite easy 
+
+414
+00:15:35,220 --> 00:15:37,840
+to determine for completely rational 
+functions . With these, you 
+
+415
+00:15:37,840 --> 00:15:39,200
+only ever have to 
+
+416
+00:15:39,200 --> 00:15:41,220
+look at the highest power, which in our 
+
+417
+00:15:41,220 --> 00:15:43,460
+case is the power to the power of 3, and 
+of course the 
+
+418
+00:15:43,460 --> 00:15:45,320
+factor before the highest power. So 
+
+419
+00:15:45,320 --> 00:15:47,620
+now we only ever have to 
+
+420
+00:15:47,620 --> 00:15:50,520
+look at the term 1 .5 x to the power of 3 
+and think 
+
+421
+00:15:50,520 --> 00:15:52,260
+, if we now 
+
+422
+00:15:52,260 --> 00:15:54,220
+use infinity for the x, we get 1 half 
+times 
+
+423
+00:15:54,220 --> 00:15:57,040
+infinity to the power of 3. And now it is 
+
+424
+00:15:57,040 --> 00:15:58,060
+actually only important to 
+
+425
+00:15:58,060 --> 00:16:00,640
+pay attention to the signs. 
+
+426
+00:16:00,700 --> 00:16:02,380
+We have once plus infinity to the power of 
+
+427
+00:16:02,380 --> 00:16:04,680
+3, which is infinity, and 1 half times 
+
+428
+00:16:04,680 --> 00:16:06,900
+infinity is infinity. In other words, 
+
+429
+00:16:07,020 --> 00:16:08,840
+we know that if the x 
+
+430
+00:16:08,840 --> 00:16:10,500
+tends to infinity, the 
+
+431
+00:16:10,500 --> 00:16:12,660
+function value also tends to infinity. 
+
+432
+00:16:12,660 --> 00:16:14,020
+We now do the same for 
+
+433
+00:16:14,080 --> 00:16:15,940
+the fact that the x tends to minus 
+infinity 
+
+434
+00:16:15,940 --> 00:16:17,460
+. This means that here, too, 
+
+435
+00:16:17,460 --> 00:16:19,740
+we simply consider the factor 
+
+436
+00:16:19,740 --> 00:16:21,780
+with the highest power, i.e. 1.5x³. 
+
+437
+00:16:22,040 --> 00:16:24,600
+In this case, we only 
+
+438
+00:16:24,600 --> 00:16:28,200
+enter minus infinity for the x. And now 
+
+439
+00:16:28,200 --> 00:16:29,780
+we get what I 
+
+440
+00:16:29,780 --> 00:16:31,280
+have just said. We 
+
+441
+00:16:31,280 --> 00:16:32,940
+have 3 to the power of 3, so we have an 
+
+442
+00:16:32,940 --> 00:16:35,100
+odd power. And we have 
+
+443
+00:16:35,100 --> 00:16:37,240
+a minus here. And because we have an odd 
+
+444
+00:16:37,240 --> 00:16:38,860
+power, the minus remains 
+
+445
+00:16:38,860 --> 00:16:42,680
+. So we have 1 half times 
+
+446
+00:16:42,680 --> 00:16:44,960
+minus infinity and that's 
+
+447
+00:16:44,960 --> 00:16:46,080
+minus infinity. 
+
+448
+00:16:48,740 --> 00:16:51,040
+Consequently, if the x 
+
+449
+00:16:51,040 --> 00:16:52,420
+tends to minus infinity, the 
+
+450
+00:16:52,420 --> 00:16:53,920
+function value also tends to minus 
+
+451
+00:16:53,920 --> 00:16:55,880
+infinity. And this 
+
+452
+00:16:55,880 --> 00:16:58,220
+already determines the global behavior. 
+
+453
+00:17:02,830 --> 00:17:05,250
+Now we come to the extreme points. 
+
+454
+00:17:05,250 --> 00:17:07,490
+Extreme points. Extreme points of 
+
+455
+00:17:07,490 --> 00:17:10,110
+functions are simply high or 
+
+456
+00:17:10,110 --> 00:17:12,290
+low points. And here you can 
+
+457
+00:17:12,290 --> 00:17:14,090
+already see that this is exactly the 
+point. The 
+
+458
+00:17:14,090 --> 00:17:16,530
+graph rises here all the time 
+
+459
+00:17:16,530 --> 00:17:18,510
+and falls here. And between 
+
+460
+00:17:18,510 --> 00:17:21,550
+this rise and fall, there must 
+
+461
+00:17:21,550 --> 00:17:22,870
+be a very small point where 
+
+462
+00:17:22,870 --> 00:17:25,850
+the graph runs horizontally. 
+
+463
+00:17:25,850 --> 00:17:28,490
+This is the point shown in yellow. And 
+
+464
+00:17:28,490 --> 00:17:30,070
+this is exactly the point we are looking 
+for. If 
+
+465
+00:17:30,070 --> 00:17:32,950
+the graph neither rises nor 
+
+466
+00:17:32,950 --> 00:17:35,790
+falls, it has 
+
+467
+00:17:35,790 --> 00:17:37,210
+reached its highest or lowest point. 
+
+468
+00:17:37,370 --> 00:17:39,630
+This is the train of thought behind 
+
+469
+00:17:39,630 --> 00:17:41,590
+this condition f' of x equals 0. 
+
+470
+00:17:41,730 --> 00:17:43,790
+The first derivative f' of x 
+
+471
+00:17:43,790 --> 00:17:45,690
+describes nothing more than the 
+
+472
+00:17:45,690 --> 00:17:47,190
+gradient at point x, 
+
+473
+00:17:47,930 --> 00:17:49,030
+or rather it gives nothing more 
+
+474
+00:17:49,030 --> 00:17:50,610
+than the gradient at point x. 
+
+475
+00:17:51,490 --> 00:17:53,970
+And because we are 
+
+476
+00:17:53,970 --> 00:17:55,570
+looking for the points at which the 
+gradient is 0, 
+
+477
+00:17:56,310 --> 00:17:58,510
+this is the necessary condition. 
+
+478
+00:17:58,850 --> 00:18:00,870
+Conditions. It is important to note that 
+for 
+
+479
+00:18:00,870 --> 00:18:03,030
+extreme points and inflection points, 
+
+480
+00:18:03,030 --> 00:18:04,910
+there is a necessary condition and 
+
+481
+00:18:04,910 --> 00:18:06,830
+a sufficient condition and both 
+
+482
+00:18:06,830 --> 00:18:10,290
+must be carried out. 
+
+483
+00:18:10,290 --> 00:18:11,810
+This means that we first calculate 
+
+484
+00:18:11,810 --> 00:18:13,150
+
+485
+00:18:13,150 --> 00:18:17,510
+the potential 
+
+486
+00:18:17,510 --> 00:18:20,130
+extreme 
+
+487
+00:18:20,130 --> 00:18:22,830
+
+488
+00:18:22,830 --> 00:18:25,170
+
+489
+00:18:25,170 --> 00:18:27,110
+
+490
+00:18:27,850 --> 00:18:28,850
+
+491
+00:18:28,850 --> 00:18:30,930
+point using this condition, which is 
+always the same, we do this with the 
+necessary condition and then check this 
+potential extreme 
+
+492
+00:18:30,930 --> 00:18:31,850
+point with the sufficient condition at the 
+end . 
+
+493
+00:18:34,630 --> 00:18:36,830
+And that's what we'll do now. 
+
+494
+00:18:38,610 --> 00:18:41,810
+As I just said, we use 
+
+495
+00:18:41,810 --> 00:18:43,230
+the first derivative. This means 
+
+496
+00:18:43,230 --> 00:18:45,070
+that the first thing we have to do is 
+
+497
+00:18:45,070 --> 00:18:48,520
+determine the first derivative. 
+
+498
+00:18:48,520 --> 00:18:51,280
+We determine the derivative of a function 
+for such 
+
+499
+00:18:51,280 --> 00:18:52,740
+completely rational functions simply by 
+
+500
+00:18:52,940 --> 00:18:55,900
+
+501
+00:18:55,900 --> 00:18:57,740
+multiplying by our exponent and 
+
+502
+00:18:57,740 --> 00:19:00,420
+changing the exponent by 1. decrease. 
+
+503
+00:19:00,420 --> 00:19:01,480
+Now this applies to the function line, 
+there 
+
+504
+00:19:01,540 --> 00:19:02,200
+are many other 
+
+505
+00:19:02,200 --> 00:19:03,820
+derivation rules that you 
+
+506
+00:19:03,820 --> 00:19:06,120
+also have to apply depending on the 
+function. We 
+
+507
+00:19:06,120 --> 00:19:09,300
+arrive at 1.5 times 3 times x², so 
+
+508
+00:19:09,300 --> 00:19:11,740
+the 3 has gone down, the 3 has been 
+
+509
+00:19:11,740 --> 00:19:13,360
+reduced by 1 and we have 
+
+510
+00:19:13,360 --> 00:19:17,740
+obtained the 2. Then minus 1.5 times 2 
+times 
+
+511
+00:19:17,740 --> 00:19:20,380
+x, the 2 simply written in front of it, 
+
+512
+00:19:20,640 --> 00:19:22,980
+the 2 and 1 reduced is a 1 and 
+
+513
+00:19:22,980 --> 00:19:24,140
+we see that here too, 
+
+514
+00:19:24,140 --> 00:19:26,860
+we don't always write the 1. With 
+
+515
+00:19:26,860 --> 00:19:29,580
+the linear element, the minus 3x, 
+
+516
+00:19:29,580 --> 00:19:31,160
+the x is simply dropped and so 
+
+517
+00:19:31,160 --> 00:19:33,620
+a minus 3 appears from minus 3x, 
+
+518
+00:19:33,680 --> 00:19:35,740
+here minus 3. 
+
+519
+00:19:35,740 --> 00:19:36,240
+Of course, you can 
+
+520
+00:19:36,240 --> 00:19:38,560
+simplify the whole thing a little. 1.5 
+times 3 is 3 halves 
+
+521
+00:19:38,560 --> 00:19:42,100
+or 1.5 and minus 1.5 times 2 is 
+
+522
+00:19:42,100 --> 00:19:45,300
+simply minus 2 halves or minus 1. 
+
+523
+00:19:45,700 --> 00:19:47,280
+And that's why the 1 is 
+
+524
+00:19:47,280 --> 00:19:48,580
+dropped again, 
+
+525
+00:19:48,580 --> 00:19:51,520
+leaving only a minus x and the minus 3 
+remains 
+
+526
+00:19:51,520 --> 00:19:55,810
+as it is. We 
+
+527
+00:19:55,810 --> 00:19:57,290
+equate this first derivative to zero and 
+thus obtain 
+
+528
+00:19:57,290 --> 00:20:02,090
+this equation. This is another 
+
+529
+00:20:02,090 --> 00:20:03,590
+quadratic equation 
+
+530
+00:20:03,590 --> 00:20:05,150
+
+531
+00:20:05,150 --> 00:20:07,870
+that can be solved using the PQ formula or 
+the midnight formula. 
+
+532
+00:20:07,870 --> 00:20:09,390
+In this case, the two equations are 
+
+533
+00:20:09,390 --> 00:20:12,190
+root 19 plus 1 third or minus 
+
+534
+00:20:12,190 --> 00:20:15,710
+root 19 minus 1 third. Because 
+
+535
+00:20:15,710 --> 00:20:18,070
+extreme points are required, 
+
+536
+00:20:18,070 --> 00:20:20,310
+the Y-coordinate must also 
+
+537
+00:20:20,310 --> 00:20:21,830
+be calculated. It is very important to 
+
+538
+00:20:21,830 --> 00:20:24,030
+
+539
+00:20:24,030 --> 00:20:25,550
+determine the y-coordinate whenever a 
+point is required. 
+
+540
+00:20:25,650 --> 00:20:26,730
+That is why we have 
+
+541
+00:20:26,730 --> 00:20:31,250
+done this before. This is minus 4.14 or 
+2.03 
+
+542
+00:20:31,250 --> 00:20:34,490
+for the second solution. This is 
+
+543
+00:20:34,490 --> 00:20:36,330
+the necessary condition for now. 
+
+544
+00:20:36,330 --> 00:20:38,170
+But of course, as we 
+
+545
+00:20:38,170 --> 00:20:39,750
+have just said, we still have to 
+
+546
+00:20:39,750 --> 00:20:41,410
+carry out the sufficient condition 
+
+547
+00:20:41,470 --> 00:20:45,010
+in order to determine whether it really is 
+an 
+
+548
+00:20:45,010 --> 00:20:47,710
+extreme point. What kind is 
+
+549
+00:20:47,710 --> 00:20:50,190
+it? High or low point? Or is it 
+
+550
+00:20:50,190 --> 00:20:53,210
+perhaps not one at all? 
+
+551
+00:20:53,210 --> 00:20:55,630
+There are two possibilities. Firstly 
+
+552
+00:20:55,630 --> 00:20:57,110
+, there is the option of 
+
+553
+00:20:57,110 --> 00:20:59,070
+
+554
+00:20:59,070 --> 00:21:01,310
+carrying out the necessary condition via 
+the second derivative. This means that we 
+have to 
+
+555
+00:21:01,310 --> 00:21:04,070
+derive the first derivative again. 
+
+556
+00:21:04,090 --> 00:21:06,730
+We then arrive at 3x-1. Or we can 
+
+557
+00:21:06,730 --> 00:21:07,830
+do the whole thing using a 
+
+558
+00:21:07,830 --> 00:21:09,430
+monotonicity table by means of the 
+
+559
+00:21:09,430 --> 00:21:11,130
+sign change criterion. We 
+
+560
+00:21:11,130 --> 00:21:12,210
+have simply 
+
+561
+00:21:12,210 --> 00:21:16,190
+done both here. 
+
+562
+00:21:16,190 --> 00:21:17,410
+However, it is most common to do this 
+using the second derivative 
+
+563
+00:21:17,410 --> 00:21:18,590
+, because it is quicker 
+
+564
+00:21:18,590 --> 00:21:20,770
+Especially if you also 
+
+565
+00:21:20,770 --> 00:21:22,930
+have to determine the inflection points , 
+you have to 
+
+566
+00:21:22,930 --> 00:21:24,290
+determine the second derivative anyway And 
+
+567
+00:21:24,290 --> 00:21:26,370
+then I would always 
+
+568
+00:21:26,370 --> 00:21:32,170
+choose this method here We simply insert 
+both 
+
+569
+00:21:32,170 --> 00:21:33,930
+solutions into the second derivative 
+
+570
+00:21:33,930 --> 00:21:35,410
+This means that we insert 
+
+571
+00:21:35,410 --> 00:21:37,990
+our solution for x1 once for x 
+
+572
+00:21:37,990 --> 00:21:39,930
+, i.e. root 19 plus 1 third 
+
+573
+00:21:39,930 --> 00:21:42,450
+, and once our x2, which is 
+
+574
+00:21:42,450 --> 00:21:45,210
+then minus root 19 minus 1 third. 
+
+575
+00:21:46,110 --> 00:21:50,230
+And then we calculate the 
+
+576
+00:21:50,230 --> 00:21:53,750
+function values in each case. And what we 
+
+577
+00:21:53,750 --> 00:21:55,570
+are really only interested in is 
+
+578
+00:21:55,570 --> 00:21:59,450
+whether the function value 
+
+579
+00:21:59,450 --> 00:22:02,390
+is greater than 0 or less than 0. If the 
+
+580
+00:22:02,390 --> 00:22:05,270
+function value is greater than 0, we have 
+
+581
+00:22:05,270 --> 00:22:07,270
+a low point. If it is less than 0, 
+
+582
+00:22:07,270 --> 00:22:09,670
+we have a high point. 
+
+583
+00:22:09,670 --> 00:22:11,750
+This means that in this case we have 
+
+584
+00:22:11,750 --> 00:22:13,930
+a low point at x1 because it 
+
+585
+00:22:13,930 --> 00:22:16,130
+is greater than 0 and 
+
+586
+00:22:16,130 --> 00:22:17,970
+a high point at x2 because it is less than 
+0 
+
+587
+00:22:17,970 --> 00:22:21,110
+. If we 
+
+588
+00:22:21,110 --> 00:22:23,990
+
+589
+00:22:23,990 --> 00:22:25,690
+want to use or solve the whole thing with 
+the monotonicity table , we 
+
+590
+00:22:25,690 --> 00:22:28,650
+first write down the two points 
+
+591
+00:22:28,710 --> 00:22:30,110
+that we have calculated. So our 
+
+592
+00:22:30,110 --> 00:22:32,130
+x1 and x2, or that is 
+
+593
+00:22:32,130 --> 00:22:35,370
+our x2, that is our x1. And then 
+
+594
+00:22:35,370 --> 00:22:37,050
+we need one place 
+
+595
+00:22:37,050 --> 00:22:40,330
+to the left and one to the right. we then 
+calculate 
+
+596
+00:22:40,330 --> 00:22:42,090
+
+597
+00:22:42,090 --> 00:22:46,090
+the value of the first derivative 
+
+598
+00:22:46,090 --> 00:22:49,510
+of these two chosen places , i.e. if we 
+
+599
+00:22:49,510 --> 00:22:52,170
+imagine a ray of teeth, we would 
+
+600
+00:22:52,170 --> 00:22:53,590
+
+601
+00:22:53,590 --> 00:22:57,110
+choose a value to the left of it , let's 
+say minus 
+
+602
+00:22:57,110 --> 00:22:59,570
+10, and one right in between 
+
+603
+00:22:59,570 --> 00:23:02,470
+, for example 0. if we 
+
+604
+00:23:02,470 --> 00:23:04,170
+do this for our case here 
+
+605
+00:23:04,170 --> 00:23:06,230
+, we find that 
+
+606
+00:23:06,230 --> 00:23:09,090
+the graph rises to the left of our 
+solution x2 and 
+
+607
+00:23:09,090 --> 00:23:10,670
+falls to the right of our solution. 
+
+608
+00:23:10,670 --> 00:23:11,370
+This means that we have a 
+
+609
+00:23:12,070 --> 00:23:13,550
+change of sign from rising to 
+
+610
+00:23:13,550 --> 00:23:15,770
+falling. Rising is a 
+
+611
+00:23:15,770 --> 00:23:17,930
+positive function value and 
+
+612
+00:23:17,930 --> 00:23:21,090
+falling is a negative one. Hence the 
+
+613
+00:23:21,090 --> 00:23:22,890
+term change of sign criterion. 
+
+614
+00:23:23,470 --> 00:23:25,990
+And the change from rising to 
+
+615
+00:23:25,990 --> 00:23:30,670
+falling is a high point. 
+
+616
+00:23:30,670 --> 00:23:32,310
+We do the same with the first solution 
+
+617
+00:23:32,310 --> 00:23:34,570
+x1. We now need a 
+
+618
+00:23:34,570 --> 00:23:36,450
+value to the right of it, so 
+
+619
+00:23:36,450 --> 00:23:40,490
+let's take a C. And then we have 
+
+620
+00:23:40,490 --> 00:23:43,890
+falling to the left of it and 
+
+621
+00:23:43,890 --> 00:23:45,390
+rising to the right of it. That means it's 
+a 
+
+622
+00:23:45,390 --> 00:23:48,110
+low point. And that corresponds exactly to 
+
+623
+00:23:48,110 --> 00:23:49,470
+what I said here 
+
+624
+00:23:49,470 --> 00:23:51,330
+. So as I said, the monotomy 
+
+625
+00:23:51,330 --> 00:23:53,310
+ table is one solution. 
+
+626
+00:23:53,310 --> 00:23:54,630
+However, it is usually done using the 
+
+627
+00:23:54,630 --> 00:23:56,490
+second derivative, unless this is 
+
+628
+00:23:56,490 --> 00:23:57,430
+very difficult to determine. 
+
+629
+00:24:02,080 --> 00:24:03,920
+Well, of course you can also 
+
+630
+00:24:03,920 --> 00:24:05,600
+use the monotonicity table 
+
+631
+00:24:05,600 --> 00:24:07,320
+if you 
+
+632
+00:24:07,320 --> 00:24:08,760
+have to determine the monotonicity 
+behavior anyway. 
+
+633
+00:24:08,760 --> 00:24:11,740
+But I think that is also quite clear. Now 
+we come 
+
+634
+00:24:11,740 --> 00:24:15,520
+to inflection points. Turning points 
+
+635
+00:24:15,520 --> 00:24:17,600
+are precisely the points at which 
+
+636
+00:24:17,600 --> 00:24:19,600
+the curvature behavior of a curve 
+
+637
+00:24:19,600 --> 00:24:21,660
+changes. Or where the 
+
+638
+00:24:21,660 --> 00:24:22,720
+curvature behavior of the function 
+
+639
+00:24:22,720 --> 00:24:25,400
+changes. It is also important here that we 
+
+640
+00:24:25,400 --> 00:24:27,480
+have inflection points. This means that we 
+
+641
+00:24:27,480 --> 00:24:28,600
+must also determine the 
+
+642
+00:24:28,600 --> 00:24:30,900
+ y-coordinate. We 
+
+643
+00:24:30,900 --> 00:24:31,700
+still  have the same 
+
+644
+00:24:31,700 --> 00:24:34,940
+function equation. And here 
+
+645
+00:24:34,940 --> 00:24:36,140
+we can see this now. This is still 
+
+646
+00:24:36,140 --> 00:24:37,560
+the graph of even. Here was 
+
+647
+00:24:37,560 --> 00:24:38,540
+our high point, here our 
+
+648
+00:24:38,540 --> 00:24:40,840
+low point. And if you imagine that 
+
+649
+00:24:40,840 --> 00:24:43,220
+we 
+
+650
+00:24:43,220 --> 00:24:45,100
+always read a graph like this from left to 
+right, then 
+
+651
+00:24:45,100 --> 00:24:46,880
+the curvature is now to the right. So 
+
+652
+00:24:46,880 --> 00:24:48,300
+if we imagine it as 
+
+653
+00:24:48,300 --> 00:24:49,580
+driving a car, we would 
+
+654
+00:24:49,580 --> 00:24:52,020
+drive a right-hand bend up to a 
+
+655
+00:24:52,020 --> 00:24:53,280
+certain point, then suddenly we drive 
+
+656
+00:24:53,280 --> 00:24:54,600
+a left-hand bend 
+
+657
+00:24:57,380 --> 00:25:00,620
+right-hand bend left-hand bend and 
+somewhere 
+
+658
+00:25:00,620 --> 00:25:02,820
+between this right-hand bend 
+
+659
+00:25:02,820 --> 00:25:04,460
+and left-hand bend there must 
+
+660
+00:25:04,460 --> 00:25:06,280
+be a point where it changes and 
+
+661
+00:25:06,280 --> 00:25:08,880
+that is this change of curvature and 
+
+662
+00:25:08,880 --> 00:25:11,580
+
+663
+00:25:11,580 --> 00:25:14,880
+we calculate this point of the change of 
+curvature using the inflection points, 
+
+664
+00:25:14,880 --> 00:25:18,280
+the necessary condition for this is 
+
+665
+00:25:18,300 --> 00:25:21,680
+f' of x equals 0. 
+
+666
+00:25:21,680 --> 00:25:28,760
+So we calculate the extreme points of the 
+first 
+
+667
+00:25:28,760 --> 00:25:31,000
+derivative . The first derivative 
+
+668
+00:25:31,000 --> 00:25:33,540
+indicates the gradient. And this is 
+
+669
+00:25:33,540 --> 00:25:37,520
+really to be understood as the 
+
+670
+00:25:37,520 --> 00:25:38,880
+graph is curved to the right. 
+
+671
+00:25:38,880 --> 00:25:42,220
+This means that the curvature increases. 
+
+672
+00:25:43,060 --> 00:25:44,480
+At some point, we reach the point 
+
+673
+00:25:44,480 --> 00:25:46,860
+where the curvature 
+
+674
+00:25:46,860 --> 00:25:51,240
+decreases again . yes, it always goes 
+
+675
+00:25:51,240 --> 00:25:53,500
+downwards more steeply , if you like, and 
+
+676
+00:25:53,500 --> 00:25:54,700
+here it becomes 
+
+677
+00:25:54,700 --> 00:25:57,040
+flatter again and again. And the 
+inflection point is the 
+
+678
+00:25:57,040 --> 00:25:58,240
+point with the steepest gradient 
+
+679
+00:25:58,240 --> 00:25:59,500
+between the two extreme points. 
+
+680
+00:26:00,420 --> 00:26:01,940
+This is why we 
+
+681
+00:26:01,940 --> 00:26:04,340
+only calculate extreme points of the first 
+
+682
+00:26:04,340 --> 00:26:06,680
+derivative or extreme points of the 
+
+683
+00:26:06,680 --> 00:26:07,560
+gradient function. 
+
+684
+00:26:09,710 --> 00:26:11,710
+To calculate the 
+
+685
+00:26:11,710 --> 00:26:13,470
+extreme points , we therefore set the 
+second derivative 
+
+686
+00:26:13,470 --> 00:26:15,390
+equal to 0 and calculate these. 
+
+687
+00:26:15,390 --> 00:26:17,010
+As mentioned earlier, is there 
+
+688
+00:26:17,010 --> 00:26:18,790
+also a sufficient condition here 
+
+689
+00:26:18,790 --> 00:26:21,010
+? For the sufficient 
+
+690
+00:26:21,010 --> 00:26:22,930
+condition for inflection points, we 
+
+691
+00:26:22,930 --> 00:26:24,830
+simply use the 
+
+692
+00:26:24,830 --> 00:26:26,210
+result calculated for the necessary 
+condition, the 
+
+693
+00:26:26,210 --> 00:26:28,910
+third derivative. And there is also 
+
+694
+00:26:28,910 --> 00:26:29,630
+the 
+
+695
+00:26:29,630 --> 00:26:30,930
+distinction between left-right 
+
+696
+00:26:30,930 --> 00:26:32,230
+ inflection point, so this would be 
+
+697
+00:26:32,230 --> 00:26:34,290
+a right-left inflection point in the 
+
+698
+00:26:34,290 --> 00:26:36,730
+example, and not an inflection point. 
+
+699
+00:26:38,070 --> 00:26:39,170
+Alternatively, a 
+
+700
+00:26:39,170 --> 00:26:42,570
+curvature table is also possible, which 
+
+701
+00:26:42,570 --> 00:26:46,170
+we will see in a moment. First, 
+
+702
+00:26:46,170 --> 00:26:47,070
+of course, we have to 
+
+703
+00:26:47,070 --> 00:26:48,610
+carry out the necessary conditions, which 
+means, 
+
+704
+00:26:48,690 --> 00:26:50,350
+as already mentioned, we set 
+
+705
+00:26:50,350 --> 00:26:51,990
+the second derivative equal to 0, 
+
+706
+00:26:52,130 --> 00:26:55,410
+i.e. 3x-1 equal to 0 and calculate 
+
+707
+00:26:55,410 --> 00:26:56,990
+our solution. This is a simple 
+
+708
+00:26:56,990 --> 00:26:59,150
+linear function or a linear 
+
+709
+00:26:59,150 --> 00:27:01,430
+equation that we can solve without 
+
+710
+00:27:01,430 --> 00:27:03,330
+any tools. 
+
+711
+00:27:03,850 --> 00:27:05,470
+Simple transformation, we arrive at 
+
+712
+00:27:05,470 --> 00:27:10,850
+e. x is equal to a third and we 
+
+713
+00:27:10,850 --> 00:27:13,510
+now go and characterize the 
+
+714
+00:27:13,510 --> 00:27:14,850
+inflection point using the curvature 
+
+715
+00:27:14,850 --> 00:27:17,230
+table. The 
+
+716
+00:27:17,230 --> 00:27:19,230
+curvature table works in the same way 
+
+717
+00:27:19,230 --> 00:27:22,170
+as the monotonicity table. 
+
+718
+00:27:22,170 --> 00:27:23,530
+Once again, we take the calculated value 
+in the 
+
+719
+00:27:23,530 --> 00:27:25,350
+middle, then a value to the left of it 
+
+720
+00:27:25,350 --> 00:27:27,410
+and then a value to the right of it, 
+
+721
+00:27:27,410 --> 00:27:29,890
+
+722
+00:27:29,890 --> 00:27:31,250
+but this time we insert these two values 
+into the second derivative 
+
+723
+00:27:31,770 --> 00:27:33,250
+, i.e. we always take the 
+
+724
+00:27:33,250 --> 00:27:35,570
+derivative with which we 
+
+725
+00:27:35,570 --> 00:27:37,130
+have also carried out the necessary 
+condition. 
+
+726
+00:27:37,210 --> 00:27:38,410
+For the 
+
+727
+00:27:38,410 --> 00:27:39,450
+monotonicity table, i.e. for 
+
+728
+00:27:39,450 --> 00:27:40,970
+extreme points, this is the first 
+derivative. 
+
+729
+00:27:42,350 --> 00:27:44,210
+For inflection points, it is 
+
+730
+00:27:44,210 --> 00:27:48,750
+the second derivative. And then there will 
+
+731
+00:27:48,750 --> 00:27:49,670
+also be a 
+
+732
+00:27:49,670 --> 00:27:54,370
+change of sign here again 
+
+733
+00:27:54,370 --> 00:27:56,210
+. So we see here that it is 
+
+734
+00:27:56,210 --> 00:27:58,070
+less than 0, so it is probably a 
+
+735
+00:27:58,070 --> 00:28:00,410
+negative number that is here. greater 
+
+736
+00:28:00,410 --> 00:28:02,110
+than a positive number and so 
+
+737
+00:28:02,110 --> 00:28:04,570
+we know 
+
+738
+00:28:04,570 --> 00:28:06,630
+that the 
+
+739
+00:28:06,630 --> 00:28:08,730
+curvature behavior changes from curved to 
+the right to curved to the left. So we 
+have 
+
+740
+00:28:08,730 --> 00:28:10,750
+a change of sign and it is 
+
+741
+00:28:10,750 --> 00:28:12,290
+therefore definitely an inflection point, 
+
+742
+00:28:12,350 --> 00:28:15,050
+namely a right-left inflection point. 
+
+743
+00:28:15,290 --> 00:28:16,790
+Just as we have already 
+
+744
+00:28:16,790 --> 00:28:20,860
+seen in the sketch. We 
+
+745
+00:28:20,860 --> 00:28:22,160
+also enter this here at the top and you 
+can 
+
+746
+00:28:22,160 --> 00:28:23,720
+slowly see that there is more and more 
+here. 
+
+747
+00:28:25,500 --> 00:28:28,560
+Here we can see everything that we 
+
+748
+00:28:28,560 --> 00:28:29,820
+
+749
+00:28:29,820 --> 00:28:30,780
+have calculated in this binary. First of 
+all, we have our 
+
+750
+00:28:30,780 --> 00:28:32,260
+function equation, our 
+
+751
+00:28:32,260 --> 00:28:35,000
+zeros, our y-intercept and 
+
+752
+00:28:35,080 --> 00:28:36,640
+our inflection point. It's important to 
+note that 
+
+753
+00:28:36,760 --> 00:28:38,940
+the inflection point would have been a 
+
+754
+00:28:38,940 --> 00:28:41,740
+third, i.e. 0.33. We've 
+
+755
+00:28:41,740 --> 00:28:42,980
+added the y-coordinate to the whole thing 
+
+756
+00:28:42,980 --> 00:28:44,480
+so that we 
+
+757
+00:28:44,480 --> 00:28:47,840
+get the point. Then we see 
+
+758
+00:28:47,840 --> 00:28:51,040
+the global behavior below and here we see 
+
+759
+00:28:51,040 --> 00:28:53,000
+our extreme points. 
+
+760
+00:28:53,000 --> 00:28:55,960
+Last but not least, we 
+
+761
+00:28:55,960 --> 00:28:58,120
+enter all of this. Using this 
+
+762
+00:28:58,120 --> 00:28:59,380
+information that we 
+
+763
+00:28:59,380 --> 00:29:00,660
+have calculated, we 
+
+764
+00:29:00,660 --> 00:29:02,220
+could have shown that the graph 
+
+765
+00:29:02,220 --> 00:29:04,660
+comes from down here and 
+
+766
+00:29:04,660 --> 00:29:06,820
+goes up here. This is the global behavior. 
+
+767
+00:29:07,200 --> 00:29:09,880
+We know that if x 
+
+768
+00:29:09,880 --> 00:29:11,340
+tends to minus infinity, the graph 
+
+769
+00:29:11,340 --> 00:29:12,660
+also tends to minus infinity. That 
+
+770
+00:29:12,660 --> 00:29:14,380
+means it is somewhere down here. That's 
+where 
+
+771
+00:29:14,380 --> 00:29:17,700
+it starts. And we know that if 
+
+772
+00:29:17,700 --> 00:29:19,400
+our x tends to infinity 
+
+773
+00:29:19,400 --> 00:29:21,160
+, the graph, i.e. the function value, also 
+tends 
+
+774
+00:29:21,160 --> 00:29:22,120
+to infinity. In other words, 
+
+775
+00:29:22,160 --> 00:29:23,040
+we know that it 
+
+776
+00:29:23,040 --> 00:29:26,820
+goes up here. Then we know the 
+
+777
+00:29:26,820 --> 00:29:28,320
+zeros. So at the minus 2, 
+
+778
+00:29:28,540 --> 00:29:31,820
+at the zero and at the 3. Then 
+
+779
+00:29:31,820 --> 00:29:32,960
+we also knew our 
+
+780
+00:29:32,960 --> 00:29:34,720
+extreme points. That was once here 
+
+781
+00:29:34,720 --> 00:29:36,080
+and once here. And if you 
+
+782
+00:29:36,080 --> 00:29:37,960
+plot all these points, you can 
+
+783
+00:29:37,960 --> 00:29:40,080
+visualize this curve very well 
+
+784
+00:29:42,120 --> 00:29:44,720
+and 
+
+785
+00:29:44,720 --> 00:29:48,560
+make a very accurate sketch . Last but not 
+least, let's 
+
+786
+00:29:48,560 --> 00:29:50,000
+briefly 
+
+787
+00:29:50,000 --> 00:29:51,500
+summarize the most important points. That 
+was the 
+
+788
+00:29:51,500 --> 00:29:52,460
+calculation of the zeros, 
+
+789
+00:29:52,640 --> 00:29:56,700
+extremes and inflection points. For 
+
+790
+00:29:56,700 --> 00:29:58,500
+zeros, it is simply a case of 
+
+791
+00:29:58,500 --> 00:29:59,960
+
+792
+00:29:59,960 --> 00:30:01,360
+setting the necessary conditions f of x 
+equal to 0. So we set the 
+
+793
+00:30:01,360 --> 00:30:03,280
+equation of the function equal to 0 and 
+
+794
+00:30:03,280 --> 00:30:04,900
+there is no sufficient condition. 
+
+795
+00:30:06,120 --> 00:30:08,560
+For extreme points, we set the 
+
+796
+00:30:08,560 --> 00:30:11,020
+first derivative f' of x equal to 0 
+
+797
+00:30:11,020 --> 00:30:13,180
+. And as a sufficient 
+
+798
+00:30:13,180 --> 00:30:15,940
+condition, we insert the 
+
+799
+00:30:15,940 --> 00:30:17,980
+x' calculated in the necessary condition 
+
+800
+00:30:18,080 --> 00:30:20,700
+into the second derivative. If the 
+
+801
+00:30:20,700 --> 00:30:22,440
+function value of the second derivative 
+
+802
+00:30:22,440 --> 00:30:24,160
+is less than 0, there is a maximum, 
+
+803
+00:30:24,160 --> 00:30:26,000
+i.e. a high point. If the 
+
+804
+00:30:26,000 --> 00:30:27,460
+function value of the second derivative 
+
+805
+00:30:27,460 --> 00:30:30,000
+is greater than 0, there is a minimum, 
+i.e. 
+
+806
+00:30:30,000 --> 00:30:33,120
+a low point. If it is equal to 0, 
+
+807
+00:30:33,120 --> 00:30:34,480
+there is a good chance 
+
+808
+00:30:34,480 --> 00:30:35,920
+that it is a saddle point. 
+
+809
+00:30:36,060 --> 00:30:37,420
+The whole thing must then be checked again 
+by 
+
+810
+00:30:37,420 --> 00:30:40,200
+
+811
+00:30:40,200 --> 00:30:41,500
+
+812
+00:30:41,500 --> 00:30:43,600
+substituting the solution from the 
+necessary conditions into the third 
+derivative. 
+
+813
+00:30:43,600 --> 00:30:45,500
+The function value must then be unequal to 
+0 
+
+814
+00:30:45,500 --> 00:30:47,200
+for it to be a saddle point. 
+
+815
+00:30:47,880 --> 00:30:49,560
+The alternative here is to 
+
+816
+00:30:49,680 --> 00:30:51,260
+
+817
+00:30:51,260 --> 00:30:54,940
+use a monotonic table, as we have also 
+shown. For the 
+
+818
+00:30:54,940 --> 00:30:56,920
+inflection points, the necessary 
+
+819
+00:30:56,920 --> 00:30:59,280
+condition f' of x is 0 
+
+820
+00:30:59,280 --> 00:31:01,100
+, so we set the second derivative 
+
+821
+00:31:01,100 --> 00:31:04,300
+equal to 0 and calculate the x. 
+
+822
+00:31:04,300 --> 00:31:06,200
+We insert this x into 
+
+823
+00:31:06,200 --> 00:31:08,220
+the third derivative in the sufficient 
+condition 
+
+824
+00:31:08,220 --> 00:31:10,320
+and calculate the function value. 
+
+825
+00:31:12,760 --> 00:31:15,620
+is less than 0, there is a left-right 
+
+826
+00:31:15,620 --> 00:31:18,020
+
+827
+00:31:18,020 --> 00:31:19,360
+inflection point and if it is greater than 
+0 , there is a right-left inflection 
+point. 
+
+828
+00:31:19,500 --> 00:31:20,920
+In general terms, 
+
+829
+00:31:20,920 --> 00:31:23,120
+if the function value 
+
+830
+00:31:23,120 --> 00:31:25,460
+of the third derivative is not equal to 0, 
+
+831
+00:31:25,580 --> 00:31:27,900
+there is an inflection point and if it 
+
+832
+00:31:27,900 --> 00:31:30,020
+is equal to 0, there is no inflection 
+point 
+
+833
+00:31:30,020 --> 00:31:32,620
+. The alternative to this would be the 
+
+834
+00:31:32,620 --> 00:31:33,740
+curvature table as we 
+
+835
+00:31:33,740 --> 00:31:35,720
+have shown it. As I said, the 
+
+836
+00:31:35,840 --> 00:31:36,920
+curvature table and 
+
+837
+00:31:36,920 --> 00:31:38,460
+monotonicity table are always useful 
+
+838
+00:31:38,460 --> 00:31:40,800
+if you do not necessarily 
+
+839
+00:31:40,800 --> 00:31:42,880
+need the next higher derivative and 
+
+840
+00:31:42,880 --> 00:31:45,200
+the next higher derivative 
+
+841
+00:31:45,200 --> 00:31:47,500
+is difficult to determine. Or you have 
+
+842
+00:31:47,500 --> 00:31:49,440
+
+843
+00:31:49,440 --> 00:31:51,200
+
+844
+00:31:51,200 --> 00:31:54,700
+to determine the monotonicity behavior of 
+the graph anyway with the monotonicity 
+table . That brings us to the 
+
+845
+00:31:54,700 --> 00:31:56,580
+end of the webinar. Thank you 
+
+846
+00:31:56,580 --> 00:31:57,500
+very much for your 
+
+847
+00:31:57,500 --> 00:31:58,220
+attention. 

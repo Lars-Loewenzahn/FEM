@@ -1,0 +1,647 @@
+﻿1
+00:00:04,460 --> 00:00:06,600
+Hello, my name is Sabrina and I 
+
+2
+00:00:06,600 --> 00:00:08,020
+am a tutor 
+
+3
+00:00:08,020 --> 00:00:10,320
+at Schülerhilfe. Today I would like to 
+give you 
+
+4
+00:00:10,320 --> 00:00:11,720
+an insight into the topic of 
+
+5
+00:00:11,720 --> 00:00:14,220
+electron pair bonding. 
+
+6
+00:00:14,220 --> 00:00:16,060
+In our online learning center, you will 
+
+7
+00:00:16,060 --> 00:00:17,860
+of course also find a 
+
+8
+00:00:17,860 --> 00:00:19,860
+wiki on this topic , in which the 
+
+9
+00:00:19,860 --> 00:00:21,260
+most important terms 
+
+10
+00:00:21,260 --> 00:00:23,340
+are explained to you once again . In an 
+
+11
+00:00:23,340 --> 00:00:25,260
+electron pair bond 
+
+12
+00:00:25,260 --> 00:00:27,500
+, atoms come so close together that their 
+shells 
+
+13
+00:00:27,500 --> 00:00:29,480
+overlap slightly so that they 
+
+14
+00:00:29,480 --> 00:00:31,740
+
+15
+00:00:31,740 --> 00:00:34,180
+can share an electron pair, i.e. two 
+electrons. 
+
+16
+00:00:34,180 --> 00:00:36,340
+There is now an 
+
+17
+00:00:36,340 --> 00:00:39,000
+electron pair or atomic bond between these 
+two atoms 
+
+18
+00:00:39,140 --> 00:00:41,280
+, which makes them into a molecule. 
+
+19
+00:00:41,600 --> 00:00:43,720
+The atoms are firmly bonded 
+
+20
+00:00:43,720 --> 00:00:44,840
+and can only 
+
+21
+00:00:44,840 --> 00:00:46,480
+
+22
+00:00:46,480 --> 00:00:49,540
+be separated again by expending a great 
+deal of energy. The reason for the 
+formation 
+
+23
+00:00:49,540 --> 00:00:51,580
+of an electron pair bond is the 
+
+24
+00:00:51,580 --> 00:00:53,160
+striving of the elements for a 
+
+25
+00:00:53,160 --> 00:00:55,500
+completely filled outer shell, as is the 
+case with 
+
+26
+00:00:55,500 --> 00:00:57,780
+the noble gases, the elements of the 
+
+27
+00:00:57,780 --> 00:01:00,580
+eighth main group. This 
+
+28
+00:01:00,580 --> 00:01:03,220
+striving drives the atoms to 
+
+29
+00:01:03,220 --> 00:01:05,600
+bond with others. With a 
+
+30
+00:01:05,600 --> 00:01:07,360
+full outer shell, the particles are 
+
+31
+00:01:07,360 --> 00:01:10,020
+energetically very stable, which is why 
+they 
+
+32
+00:01:10,020 --> 00:01:11,560
+form bonds to 
+
+33
+00:01:11,560 --> 00:01:14,060
+achieve this state. The only 
+
+34
+00:01:14,060 --> 00:01:16,120
+elements that do not strive for bonding 
+
+35
+00:01:16,120 --> 00:01:17,820
+and 
+
+36
+00:01:17,820 --> 00:01:20,100
+are therefore extremely inert are the 
+
+37
+00:01:20,100 --> 00:01:22,560
+noble gases themselves. They naturally 
+have 
+
+38
+00:01:22,560 --> 00:01:25,380
+the full outer shell. If you are 
+
+39
+00:01:25,380 --> 00:01:27,520
+not 
+
+40
+00:01:27,520 --> 00:01:29,580
+familiar with the noble gas configuration 
+, we 
+
+41
+00:01:29,580 --> 00:01:32,500
+also have an explanatory video. 
+
+42
+00:01:32,500 --> 00:01:34,740
+
+43
+00:01:34,740 --> 00:01:36,400
+
+44
+00:01:36,400 --> 00:01:38,520
+You can see how many outer electrons an 
+atom has and how many electrons it lacks 
+for the full outer shell 
+
+45
+00:01:38,520 --> 00:01:42,000
+in the periodic table, or PSE for short. 
+
+46
+00:01:42,400 --> 00:01:44,520
+The main group number corresponds to the 
+
+47
+00:01:44,520 --> 00:01:47,080
+number of outer electrons, with the 
+exception 
+
+48
+00:01:47,080 --> 00:01:50,120
+of helium, which has 2 
+
+49
+00:01:50,120 --> 00:01:52,800
+electrons instead of 8. The main groups 
+
+50
+00:01:52,800 --> 00:01:55,280
+are the columns of the PSE, which 
+
+51
+00:01:55,280 --> 00:01:57,980
+
+52
+00:01:57,980 --> 00:02:00,780
+are also numbered from 1 to 8. If an 
+element is in 
+
+53
+00:02:00,780 --> 00:02:03,280
+the 5th main group, it has 5 
+
+54
+00:02:03,280 --> 00:02:05,480
+outer electrons and is missing 
+
+55
+00:02:05,480 --> 00:02:07,280
+a further 3 electrons for the 
+
+56
+00:02:07,280 --> 00:02:10,180
+noble gas configuration. Let's take a look 
+at 
+
+57
+00:02:10,180 --> 00:02:12,380
+the simplest example, a 
+
+58
+00:02:12,380 --> 00:02:15,000
+hydrogen molecule, which is made up of two 
+
+59
+00:02:15,000 --> 00:02:17,100
+hydrogen atoms 
+
+60
+00:02:17,260 --> 00:02:19,480
+that share a pair of electrons. 
+
+61
+00:02:19,640 --> 00:02:21,360
+In this way, hydrogen achieves 
+
+62
+00:02:21,360 --> 00:02:23,560
+the electron configuration of the noble 
+gas 
+
+63
+00:02:23,560 --> 00:02:25,040
+helium. To represent the 
+
+64
+00:02:25,040 --> 00:02:27,400
+electron pair bonds, 
+
+65
+00:02:27,460 --> 00:02:29,280
+we use the Lewis or 
+
+66
+00:02:29,920 --> 00:02:32,440
+valence dash notation here. There is also 
+
+67
+00:02:32,440 --> 00:02:33,960
+
+68
+00:02:33,960 --> 00:02:36,220
+a separate short video 
+
+69
+00:02:36,220 --> 00:02:38,620
+explaining this notation . If an 
+
+70
+00:02:38,620 --> 00:02:39,680
+oxygen atom now wants to 
+
+71
+00:02:39,680 --> 00:02:41,280
+achieve the noble gas configuration, 
+
+72
+00:02:41,280 --> 00:02:42,720
+which it can do by 
+
+73
+00:02:42,720 --> 00:02:44,340
+
+74
+00:02:44,340 --> 00:02:46,700
+bonding with another atom of its element , 
+it must form two electron pair 
+
+75
+00:02:46,700 --> 00:02:49,140
+bonds with these atoms in order 
+
+76
+00:02:49,140 --> 00:02:50,680
+
+77
+00:02:50,680 --> 00:02:52,380
+to obtain the configuration of neon . 
+These two 
+
+78
+00:02:52,380 --> 00:02:54,260
+electron pair bonds between two 
+
+79
+00:02:54,260 --> 00:02:56,020
+atoms are called double bonds 
+
+80
+00:02:56,020 --> 00:02:58,100
+. However, so-called 
+
+81
+00:02:58,100 --> 00:02:59,760
+triple bonds are also 
+
+82
+00:02:59,760 --> 00:03:01,840
+possible between two atoms 
+
+83
+00:03:01,840 --> 00:03:04,660
+, as can be seen in the example of the 
+nitrogen molecule. 
+
+84
+00:03:04,660 --> 00:03:06,860
+Each nitrogen atom is three 
+
+85
+00:03:06,860 --> 00:03:08,180
+electrons short of the full 
+
+86
+00:03:08,180 --> 00:03:10,400
+outer shell, which is why it 
+
+87
+00:03:10,400 --> 00:03:12,420
+
+88
+00:03:12,420 --> 00:03:14,100
+forms three electron pair bonds with the 
+other nitrogen atom. 
+
+89
+00:03:14,300 --> 00:03:16,580
+Both reach the configuration of 
+
+90
+00:03:16,580 --> 00:03:19,660
+neon. It can be seen 
+
+91
+00:03:19,660 --> 00:03:21,640
+
+92
+00:03:21,640 --> 00:03:22,980
+that as many 
+
+93
+00:03:22,980 --> 00:03:24,620
+electron pair bonds 
+
+94
+00:03:24,620 --> 00:03:27,460
+are formed between two atoms of the same 
+element as each atom 
+
+95
+00:03:27,460 --> 00:03:29,420
+
+96
+00:03:29,420 --> 00:03:32,040
+lacks electrons to reach the noble gas 
+configuration . 
+
+97
+00:03:32,040 --> 00:03:33,580
+However, more than one triple bond cannot 
+
+98
+00:03:33,580 --> 00:03:35,540
+be formed between two atoms, which 
+
+99
+00:03:35,540 --> 00:03:37,700
+means that atoms that are missing more 
+than 
+
+100
+00:03:37,700 --> 00:03:38,740
+three electrons for the 
+
+101
+00:03:38,740 --> 00:03:40,660
+noble gas configuration 
+
+102
+00:03:41,700 --> 00:03:43,360
+
+103
+00:03:43,360 --> 00:03:45,540
+must form electron pair bonds with more 
+than one other atom. 
+
+104
+00:03:45,980 --> 00:03:48,160
+We can look at this using 
+
+105
+00:03:48,160 --> 00:03:50,520
+carbon as an example. Carbon 
+
+106
+00:03:50,520 --> 00:03:52,380
+must 
+
+107
+00:03:52,380 --> 00:03:54,220
+form four electron pair bonds. These can 
+be four 
+
+108
+00:03:54,220 --> 00:03:55,680
+single bonds, two 
+
+109
+00:03:55,680 --> 00:03:57,860
+double bonds or one 
+
+110
+00:03:57,860 --> 00:03:59,640
+single and one triple bond 
+
+111
+00:03:59,640 --> 00:04:01,860
+. 
+
+112
+00:04:01,860 --> 00:04:03,780
+Electron pair bonds can also be used 
+
+113
+00:04:03,780 --> 00:04:06,240
+
+114
+00:04:06,240 --> 00:04:08,740
+to build long-chain or complex molecules . 
+
+115
+00:04:08,740 --> 00:04:10,120
+It is always important to ensure that the 
+
+116
+00:04:10,120 --> 00:04:12,960
+noble gas configuration is achieved. 
+
+117
+00:04:12,960 --> 00:04:15,140
+The octet rule is usually applied here , 
+which 
+
+118
+00:04:15,140 --> 00:04:17,480
+states that an atom requires 8 
+
+119
+00:04:17,480 --> 00:04:19,700
+outer electrons. 
+
+120
+00:04:19,700 --> 00:04:21,560
+With the exception of hydrogen and 
+
+121
+00:04:21,560 --> 00:04:24,420
+helium , of course, which 
+
+122
+00:04:24,420 --> 00:04:27,080
+can carry a maximum of 2 outer electrons . 
+If you now 
+
+123
+00:04:27,080 --> 00:04:29,040
+
+124
+00:04:29,040 --> 00:04:30,320
+
+125
+00:04:30,320 --> 00:04:32,500
+look at the elements of the first three 
+main groups, with the exception of 
+hydrogen, it becomes clear that 
+
+126
+00:04:32,500 --> 00:04:34,620
+they 
+
+127
+00:04:34,620 --> 00:04:36,760
+cannot 
+
+128
+00:04:36,760 --> 00:04:39,140
+achieve the noble gas configuration 
+through electron pair bonds , as a 
+particle 
+
+129
+00:04:39,140 --> 00:04:40,180
+
+130
+00:04:40,180 --> 00:04:41,780
+
+131
+00:04:42,920 --> 00:04:44,460
+
+132
+00:04:44,460 --> 00:04:46,560
+
+133
+00:04:46,560 --> 00:04:48,700
+must also carry at least four outer 
+electrons to form four electron pair bonds 
+or electron pairs. This 
+
+134
+00:04:48,700 --> 00:04:50,660
+
+135
+00:04:50,660 --> 00:04:52,700
+does not apply to the elements of the 
+first three main groups , which is why the 
+atoms of these 
+
+136
+00:04:52,700 --> 00:04:54,200
+elements rarely 
+
+137
+00:04:54,200 --> 00:04:56,420
+form electron pair bonds and 
+
+138
+00:04:56,420 --> 00:04:58,600
+instead form ionic bonds. 
+
+139
+00:04:58,880 --> 00:05:00,860
+In these bonds, the 
+
+140
+00:05:00,860 --> 00:05:03,560
+atoms with few electrons act as 
+
+141
+00:05:03,560 --> 00:05:06,320
+electron donors and give up all 
+
+142
+00:05:06,320 --> 00:05:09,540
+their outer electrons, 1 to 3, to 
+
+143
+00:05:09,540 --> 00:05:11,620
+acceptors so that they 
+
+144
+00:05:11,620 --> 00:05:14,160
+
+145
+00:05:14,160 --> 00:05:16,340
+
+146
+00:05:16,340 --> 00:05:18,700
+reach the noble gas configuration of the 
+noble gas of the next smaller period . In 
+the PSE, the 
+
+147
+00:05:18,700 --> 00:05:21,100
+periods are the rows, numbered here 
+
+148
+00:05:21,100 --> 00:05:24,480
+from 1 to 7. 
+
+149
+00:05:24,480 --> 00:05:26,220
+You can also find 
+
+150
+00:05:26,220 --> 00:05:28,000
+more videos on the subject of ions and 
+ionic bonding in our online 
+
+151
+00:05:28,000 --> 00:05:30,820
+ learning center. I hope I was able to 
+
+152
+00:05:30,820 --> 00:05:32,200
+give you a better understanding of what 
+
+153
+00:05:32,200 --> 00:05:34,080
+electron pair bonds are and 
+
+154
+00:05:34,080 --> 00:05:36,020
+what purpose they serve. If you have 
+
+155
+00:05:36,020 --> 00:05:37,580
+any further questions about this or other 
+
+156
+00:05:37,580 --> 00:05:39,580
+topics, please feel free to contact 
+
+157
+00:05:39,580 --> 00:05:41,680
+your local student help center. See you 
+
+158
+00:05:41,680 --> 00:05:42,240
+next time! 

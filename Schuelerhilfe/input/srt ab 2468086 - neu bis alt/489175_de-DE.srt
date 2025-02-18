@@ -1,0 +1,400 @@
+1
+00:00:00,430 --> 00:00:01,710
+Hallo, ich freue mich, dass du heute
+
+2
+00:00:01,710 --> 00:00:03,270
+wieder mit dabei bist. Ich möchte dir
+
+3
+00:00:03,270 --> 00:00:04,950
+gerne in diesem Video erklären, wie
+
+4
+00:00:04,950 --> 00:00:06,790
+man an eine schon bestehende Funktion
+
+5
+00:00:06,790 --> 00:00:09,130
+eine Tangente anlegt und wie man die
+
+6
+00:00:09,130 --> 00:00:10,790
+Funktionsgleichung dieser Tangente
+
+7
+00:00:10,790 --> 00:00:13,050
+errechnet. Dafür habe ich schon mal
+
+8
+00:00:13,050 --> 00:00:15,610
+ein kleines Bild vorbereitet. Wir
+
+9
+00:00:15,610 --> 00:00:19,250
+haben hier die Funktion f gegeben und
+
+10
+00:00:19,250 --> 00:00:22,190
+wollen gerne an diese Funktion f die
+
+11
+00:00:22,190 --> 00:00:25,150
+Tangente t anlegen. Die Tangente
+
+12
+00:00:25,150 --> 00:00:27,050
+berührt die Funktion in einem Punkt
+
+13
+00:00:27,050 --> 00:00:29,770
+und in diesem einen Punkt besitzen
+
+14
+00:00:29,770 --> 00:00:31,970
+Tangente und Funktion denselben
+
+15
+00:00:31,970 --> 00:00:34,650
+Anstieg. Eine mögliche Aufgabe in der
+
+16
+00:00:34,650 --> 00:00:37,570
+Schule könnte lauten, bestimme die
+
+17
+00:00:37,570 --> 00:00:41,450
+Tangente der Funktion fx ist gleich x
+
+18
+00:00:41,450 --> 00:00:45,850
+hoch 3 minus 3x² plus x minus 2 an
+
+19
+00:00:45,850 --> 00:00:48,470
+der Stelle x ist gleich 1. Wichtig
+
+20
+00:00:48,470 --> 00:00:50,710
+ist, bevor wir anfangen, müssen wir
+
+21
+00:00:50,710 --> 00:00:52,830
+aus der Stelle noch einen konkreten
+
+22
+00:00:52,830 --> 00:00:54,390
+Punkt machen. Das heißt, wir
+
+23
+00:00:54,390 --> 00:00:56,170
+benötigen noch einen y-Wert dazu.
+
+24
+00:00:57,430 --> 00:00:59,030
+Dafür nehmen wir uns unsere
+
+25
+00:00:59,030 --> 00:01:01,390
+Funktionsgleichung und setzen unsere
+
+26
+00:01:01,390 --> 00:01:05,190
+Stelle, also x ist gleich 1, an die
+
+27
+00:01:05,190 --> 00:01:06,910
+Stelle, wo in der Funktionsgleichung
+
+28
+00:01:06,910 --> 00:01:11,130
+ein x steht. Das sieht wie folgt aus.
+
+29
+00:01:11,130 --> 00:01:15,690
+Die Funktion mit x ist gleich 1 heißt
+
+30
+00:01:15,690 --> 00:01:19,670
+1 hoch 3 minus 3 mal 1 zum Quadrat
+
+31
+00:01:19,670 --> 00:01:22,390
+plus 1 minus 2.
+
+32
+00:01:25,400 --> 00:01:29,560
+Das Ergebnis ist minus 3. Damit haben
+
+33
+00:01:29,560 --> 00:01:30,680
+wir unseren Punkt komplett
+
+34
+00:01:30,680 --> 00:01:37,660
+aufgeschrieben. Er lautet nämlich p1
+
+35
+00:01:37,660 --> 00:01:43,130
+und der y-Anteil minus 3. Im nächsten
+
+36
+00:01:43,130 --> 00:01:44,550
+Schritt müssen wir uns überlegen, wie
+
+37
+00:01:44,550 --> 00:01:45,750
+die Funktion... Gleichung einer
+
+38
+00:01:45,750 --> 00:01:47,710
+Tangente ist. Bei einer Tangente
+
+39
+00:01:47,710 --> 00:01:49,310
+handelt es sich um eine lineare
+
+40
+00:01:49,310 --> 00:01:52,090
+Funktion und aus diesem Grund können
+
+41
+00:01:52,090 --> 00:01:53,690
+wir auch die Gleichung einer linearen
+
+42
+00:01:53,690 --> 00:01:57,110
+Funktion benutzen, nämlich y ist
+
+43
+00:01:57,110 --> 00:02:00,610
+gleich m mal x plus n. Den ersten
+
+44
+00:02:00,610 --> 00:02:02,230
+Hinweis, den wir hier benutzen, ist,
+
+45
+00:02:02,350 --> 00:02:05,210
+dass wir den Anstieg immer in der
+
+46
+00:02:05,210 --> 00:02:06,830
+ersten Ableitung einer Funktion
+
+47
+00:02:06,830 --> 00:02:08,970
+finden. Da wir wissen, dass die
+
+48
+00:02:08,970 --> 00:02:13,050
+Tangente bei x1 anliegen soll, können
+
+49
+00:02:13,050 --> 00:02:17,330
+wir das hinschreiben. Der Anstieg
+
+50
+00:02:17,330 --> 00:02:20,870
+unserer Tangente finden wir in der
+
+51
+00:02:20,870 --> 00:02:23,650
+ersten Ableitung bei x ist gleich 1
+
+52
+00:02:23,650 --> 00:02:26,950
+und das sieht wie folgt aus. Die
+
+53
+00:02:26,950 --> 00:02:32,010
+erste Ableitung lautet f'x der
+
+54
+00:02:32,010 --> 00:02:39,930
+Funktion ist gleich 3x² minus 6x plus
+
+55
+00:02:39,930 --> 00:02:42,350
+1. Wenn du dir mit den Ableitregeln
+
+56
+00:02:42,350 --> 00:02:43,650
+nicht mehr so sicher bist, kannst du
+
+57
+00:02:43,650 --> 00:02:44,810
+dir dazu auch noch mal das Video
+
+58
+00:02:44,810 --> 00:02:49,180
+anschauen. Was ich jetzt mache ist,
+
+59
+00:02:49,340 --> 00:02:51,620
+ich setze für alle x in der Funktion
+
+60
+00:02:51,620 --> 00:02:53,300
+den Wert 1 ein.
+
+61
+00:02:57,240 --> 00:02:59,480
+Das Ergebnis, was dabei herauskommt,
+
+62
+00:02:59,520 --> 00:03:03,880
+ist minus 2. Das bedeutet, der
+
+63
+00:03:03,880 --> 00:03:06,520
+Anstieg meiner Tangente ist gleich
+
+64
+00:03:06,520 --> 00:03:07,840
+minus 2.
+
+65
+00:03:11,140 --> 00:03:13,480
+Wenn ich mir meine Funktionsgleichung
+
+66
+00:03:13,480 --> 00:03:15,280
+anschaue, also die Funktionsgleichung
+
+67
+00:03:15,280 --> 00:03:17,440
+einer linearen Funktion, habe ich
+
+68
+00:03:17,440 --> 00:03:20,820
+mein m gefunden, die minus 2, kenne
+
+69
+00:03:20,820 --> 00:03:23,220
+ein x und ein y meiner Funktion,
+
+70
+00:03:23,360 --> 00:03:25,820
+nämlich den Punkt und mir fehlt noch
+
+71
+00:03:25,820 --> 00:03:28,500
+das n. Das n kann ich bestimmen,
+
+72
+00:03:28,520 --> 00:03:29,880
+indem ich alle Sachen, die ich bisher
+
+73
+00:03:29,880 --> 00:03:31,060
+herausgefunden habe, in diese
+
+74
+00:03:31,060 --> 00:03:33,060
+Gleichung einsetze und sie dann nach
+
+75
+00:03:33,060 --> 00:03:37,940
+n umstelle. Für y die minus 3 ist
+
+76
+00:03:37,940 --> 00:03:43,020
+gleich minus 2 für meine m mal 1 plus
+
+77
+00:03:43,020 --> 00:03:44,120
+n. Jetzt
+
+78
+00:03:49,140 --> 00:03:51,260
+stelle ich die Gleichung nach n um.
+
+79
+00:03:51,400 --> 00:03:53,720
+Ich rechne auf beiden Seiten plus 2
+
+80
+00:03:53,720 --> 00:03:58,340
+und erhalte für n ist gleich minus 1.
+
+81
+00:03:58,720 --> 00:04:01,720
+Als nächstes setze ich nur mein m und
+
+82
+00:04:01,720 --> 00:04:03,500
+mein n in die Funktionsgleichung ein
+
+83
+00:04:03,500 --> 00:04:07,080
+und erhalte so eine allgemeingültige
+
+84
+00:04:07,080 --> 00:04:12,160
+Gleichung für meine Tangente. y ist
+
+85
+00:04:12,160 --> 00:04:20,130
+gleich minus 2 mal x minus 1. Fassen
+
+86
+00:04:20,130 --> 00:04:21,730
+wir noch einmal zusammen. Möchtest du
+
+87
+00:04:21,730 --> 00:04:23,650
+eine Tangente an eine Funktion
+
+88
+00:04:23,650 --> 00:04:25,430
+anlegen in einer bestimmten Stelle,
+
+89
+00:04:25,610 --> 00:04:27,450
+musst du zuerst aus der Stelle einen
+
+90
+00:04:27,450 --> 00:04:29,390
+konkreten Punkt machen. Das machst
+
+91
+00:04:29,390 --> 00:04:32,070
+du, indem du den x-Wert der Stelle in
+
+92
+00:04:32,070 --> 00:04:34,730
+die Ausgangsfunktion einsetzt. Dann
+
+93
+00:04:34,730 --> 00:04:36,130
+schaust du dir die allgemeine
+
+94
+00:04:36,130 --> 00:04:37,870
+Gleichung einer linearen Funktion an.
+
+95
+00:04:38,190 --> 00:04:40,210
+Das m findest du in der ersten
+
+96
+00:04:40,210 --> 00:04:42,150
+Ableitung der Funktion an der Stelle.
+
+97
+00:04:43,050 --> 00:04:44,730
+Danach löst du die Gleichung nach n
+
+98
+00:04:44,730 --> 00:04:46,790
+auf und erhält so deine komplette
+
+99
+00:04:46,790 --> 00:04:49,610
+lineare Funktionsgleichung. Auf
+
+100
+00:04:49,610 --> 00:04:51,210
+Wiedersehen und bis zum nächsten Mal.
+

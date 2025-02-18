@@ -1,0 +1,358 @@
+﻿1
+00:00:00,500 --> 00:00:02,400
+Hello and welcome to the 
+
+2
+00:00:02,400 --> 00:00:04,100
+learning videos at Schülerhilfe. 
+
+3
+00:00:04,200 --> 00:00:05,980
+Today's topic is 
+
+4
+00:00:05,980 --> 00:00:08,540
+Latin transitive verbs, which 
+
+5
+00:00:08,540 --> 00:00:11,260
+are intransitive in German. First of all, 
+
+6
+00:00:11,260 --> 00:00:12,500
+let me remind you that 
+
+7
+00:00:12,520 --> 00:00:14,740
+transitive verbs always have 
+
+8
+00:00:14,740 --> 00:00:17,460
+an accusative object. So if this is 
+
+9
+00:00:17,460 --> 00:00:19,860
+the case in Latin, it 
+
+10
+00:00:19,860 --> 00:00:21,140
+does not necessarily have to be the case 
+in German, 
+
+11
+00:00:21,200 --> 00:00:22,560
+as we will learn today. 
+
+12
+00:00:29,920 --> 00:00:31,700
+Let's start with some examples of 
+
+13
+00:00:31,700 --> 00:00:34,680
+such verbs. We have adäquare, 
+
+14
+00:00:34,820 --> 00:00:37,500
+gleichkommen, adjuvare, helfen, 
+
+15
+00:00:37,860 --> 00:00:41,580
+defikere, fehlen, sequi, folgen. 
+
+16
+00:00:46,400 --> 00:00:49,480
+As well as effugere, to flee from, 
+
+17
+00:00:49,800 --> 00:00:53,180
+ulkiski, to take revenge on, curare, to 
+
+18
+00:00:53,360 --> 00:00:56,240
+take care of and indignare, to be 
+
+19
+00:00:56,240 --> 00:00:56,900
+annoyed with. 
+
+20
+00:01:01,800 --> 00:01:03,660
+Let's look at 
+
+21
+00:01:03,660 --> 00:01:06,400
+a small example sentence for clarification 
+. Liberi 
+
+22
+00:01:06,400 --> 00:01:09,260
+matrim adjuvant means in German, 
+
+23
+00:01:09,360 --> 00:01:13,200
+the children help. We ask, who are 
+
+24
+00:01:13,200 --> 00:01:15,680
+the children helping? And the answer 
+
+25
+00:01:15,680 --> 00:01:18,140
+is the mother. So we are asking 
+
+26
+00:01:18,140 --> 00:01:20,400
+for a dative object. In 
+
+27
+00:01:20,400 --> 00:01:22,300
+Latin, however, we have the 
+
+28
+00:01:22,300 --> 00:01:24,820
+accusative object, namely 
+
+29
+00:01:24,820 --> 00:01:29,400
+matrem, which is required by adjuvant 
+
+30
+00:01:29,400 --> 00:01:29,680
+. 
+
+31
+00:01:32,900 --> 00:01:34,700
+Impersonal transitive 
+
+32
+00:01:34,700 --> 00:01:37,540
+phrases also exist. There we would have 
+
+33
+00:01:37,540 --> 00:01:40,480
+me fugit, with es entgeht mir, me 
+
+34
+00:01:40,480 --> 00:01:43,140
+fallit, ich weiß nicht, nicht, es 
+
+35
+00:01:43,140 --> 00:01:48,120
+erfreut mich and es ziemt sich für 
+
+36
+00:01:48,120 --> 00:01:49,260
+mich. 
+
+37
+00:01:54,540 --> 00:01:57,700
+Other important phrases are es 
+
+38
+00:01:57,700 --> 00:02:02,540
+reut mich, ich schäme mich and ich 
+
+39
+00:02:02,540 --> 00:02:07,760
+bereue, es ekeligt mich. So you can 
+
+40
+00:02:07,760 --> 00:02:09,100
+also see that these impersonal 
+
+41
+00:02:09,100 --> 00:02:11,040
+expressions 
+
+42
+00:02:11,040 --> 00:02:13,280
+can be rendered personally in German. As 
+with 
+
+43
+00:02:13,280 --> 00:02:17,900
+meh pudet, where we 
+
+44
+00:02:17,900 --> 00:02:20,500
+can turn the meh in German into the 
+nominative 
+
+45
+00:02:20,500 --> 00:02:22,120
+with ich schäme mich. 
+
+46
+00:02:29,640 --> 00:02:31,740
+The person who feels something is in 
+
+47
+00:02:31,740 --> 00:02:33,760
+
+48
+00:02:33,760 --> 00:02:36,160
+the accusative with these verbs of 
+feeling, as 
+
+49
+00:02:36,160 --> 00:02:37,880
+the meh that you 
+
+50
+00:02:37,880 --> 00:02:39,860
+saw in the expressions also made clear. 
+
+51
+00:02:39,860 --> 00:02:41,620
+
+52
+00:02:41,620 --> 00:02:43,500
+However, the thing to which the sensation 
+then refers is in the 
+
+53
+00:02:43,500 --> 00:02:45,760
+genitive case . Let's take a look at a 
+
+54
+00:02:45,760 --> 00:02:47,940
+small example sentence. It 
+
+55
+00:02:52,480 --> 00:02:56,280
+reads stultitie me pudet. I am ashamed 
+
+56
+00:02:56,280 --> 00:02:59,340
+of my stupidity. Who is 
+
+57
+00:02:59,340 --> 00:03:03,820
+ashamed is written here with me and of 
+whom 
+
+58
+00:03:03,820 --> 00:03:07,140
+one is ashamed is written in the genitive. 
+
+59
+00:03:08,760 --> 00:03:10,840
+Finally, some verbs 
+
+60
+00:03:10,840 --> 00:03:12,280
+of mood can be both 
+
+61
+00:03:12,280 --> 00:03:14,980
+intransitive and transitive 
+
+62
+00:03:14,980 --> 00:03:16,720
+, i.e. with an accusative object 
+
+63
+00:03:16,720 --> 00:03:17,040
+. 
+
+64
+00:03:21,700 --> 00:03:23,620
+On the one hand, this applies to 
+
+65
+00:03:23,620 --> 00:03:25,360
+Latin, where we would have 
+
+66
+00:03:25,360 --> 00:03:28,920
+desperare salutem or desperare 
+
+67
+00:03:28,920 --> 00:03:31,820
+desalute, which means to 
+
+68
+00:03:31,820 --> 00:03:34,640
+give up hope of salvation. On the other 
+hand, we can also find 
+
+69
+00:03:34,640 --> 00:03:36,740
+the whole thing in German, 
+
+70
+00:03:40,150 --> 00:03:43,890
+namely sperare salutem, in which case 
+
+71
+00:03:43,890 --> 00:03:45,610
+we can render the whole thing as 
+
+72
+00:03:45,610 --> 00:03:48,090
+Rettung erhoffen or Aufrettung 
+
+73
+00:03:48,090 --> 00:03:50,310
+hoffen. Now we come to our 
+
+74
+00:03:50,310 --> 00:03:52,470
+summary. You have also 
+
+75
+00:03:52,470 --> 00:03:53,890
+learned that verbs 
+
+76
+00:03:53,890 --> 00:03:55,670
+can be transitive in Latin 
+
+77
+00:03:55,670 --> 00:03:58,350
+and are then 
+
+78
+00:03:58,350 --> 00:04:00,670
+rendered intransitively in German. 
+Secondly, 
+
+79
+00:04:00,670 --> 00:04:02,090
+we 
+
+80
+00:04:02,090 --> 00:04:03,710
+
+81
+00:04:03,710 --> 00:04:05,610
+looked at transitive and personal phrases, 
+which you 
+
+82
+00:04:05,610 --> 00:04:07,110
+
+83
+00:04:07,110 --> 00:04:09,730
+can also translate personally in German . 
+Finally, we looked 
+
+84
+00:04:09,730 --> 00:04:11,450
+at some verbs of 
+
+85
+00:04:11,450 --> 00:04:15,190
+mood determination. 
+
+86
+00:04:15,190 --> 00:04:17,190
+Thank you for your attention and see you 
+
+87
+00:04:17,190 --> 00:04:18,730
+soon for a learning video at 
+
+88
+00:04:18,730 --> 00:04:19,470
+Schülerhilfe. 

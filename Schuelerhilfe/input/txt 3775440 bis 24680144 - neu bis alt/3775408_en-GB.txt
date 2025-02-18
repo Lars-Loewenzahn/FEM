@@ -1,0 +1,631 @@
+﻿1
+00:00:03,980 --> 00:00:06,100
+Hello, my name is Joshua and I 
+
+2
+00:00:06,100 --> 00:00:07,160
+am a tutor at 
+
+3
+00:00:07,160 --> 00:00:09,240
+Schülerhilfe. I'm happy to 
+
+4
+00:00:09,240 --> 00:00:11,340
+
+5
+00:00:11,340 --> 00:00:12,880
+
+6
+00:00:12,880 --> 00:00:15,980
+explain the topic of valence electrons and 
+valence line notation to you today. Let's 
+start by looking 
+
+7
+00:00:15,980 --> 00:00:17,640
+at the shell model, which 
+
+8
+00:00:17,640 --> 00:00:18,900
+assumes that the 
+
+9
+00:00:18,900 --> 00:00:20,520
+electrons surround the atomic nucleus in 
+
+10
+00:00:20,520 --> 00:00:23,280
+concentric shells. The 
+
+11
+00:00:23,280 --> 00:00:25,120
+number of electrons 
+
+12
+00:00:25,120 --> 00:00:26,800
+corresponds to the number of protons, i.e. 
+the 
+
+13
+00:00:26,800 --> 00:00:29,440
+atomic number. The shells are 
+
+14
+00:00:29,440 --> 00:00:31,580
+filled from the inside out. One 
+
+15
+00:00:31,580 --> 00:00:33,420
+shell must be full before 
+
+16
+00:00:33,420 --> 00:00:35,220
+electrons 
+
+17
+00:00:35,220 --> 00:00:37,700
+can enter the next one. The first shell 
+holds 
+
+18
+00:00:37,700 --> 00:00:40,540
+a maximum of two electrons. The second 
+
+19
+00:00:40,540 --> 00:00:43,180
+holds a maximum of eight. The third shell 
+
+20
+00:00:43,180 --> 00:00:45,520
+initially also holds eight. The 
+
+21
+00:00:45,520 --> 00:00:47,400
+period in which an element is located 
+
+22
+00:00:47,400 --> 00:00:49,020
+indicates how many 
+
+23
+00:00:49,020 --> 00:00:51,860
+shells it has. Chlorine 
+
+24
+00:00:51,860 --> 00:00:53,700
+, which is in the third period and 
+
+25
+00:00:53,700 --> 00:00:56,080
+has the atomic number 17, has three 
+
+26
+00:00:56,080 --> 00:00:57,480
+shells on which the 
+
+27
+00:00:57,480 --> 00:00:59,820
+electrons are distributed as follows. Two 
+
+28
+00:00:59,820 --> 00:01:02,120
+in the first, eight in the second 
+
+29
+00:01:02,120 --> 00:01:05,400
+and seven in the third shell. 
+
+30
+00:01:05,400 --> 00:01:07,380
+Today we will only focus on the electrons 
+
+31
+00:01:07,380 --> 00:01:09,500
+in the outermost shell. These 
+
+32
+00:01:09,500 --> 00:01:11,680
+outer electrons of an atom are the 
+
+33
+00:01:11,680 --> 00:01:13,680
+valence electrons. They are involved in 
+
+34
+00:01:13,680 --> 00:01:15,740
+bonds between atoms. 
+
+35
+00:01:16,680 --> 00:01:18,400
+In the main group elements, 
+
+36
+00:01:18,400 --> 00:01:20,040
+the main group number corresponds to the 
+
+37
+00:01:20,040 --> 00:01:21,720
+number of valence electrons. 
+
+38
+00:01:22,420 --> 00:01:24,240
+Alkali metals each have one 
+
+39
+00:01:24,240 --> 00:01:27,080
+valence electron, alkaline earth metals 
+
+40
+00:01:27,080 --> 00:01:30,500
+each have two and so on. These 
+
+41
+00:01:30,500 --> 00:01:32,500
+valence electrons can be 
+
+42
+00:01:32,500 --> 00:01:34,800
+
+43
+00:01:34,800 --> 00:01:36,900
+easily represented using the so-called 
+Levis or valence notation 
+
+44
+00:01:36,900 --> 00:01:39,400
+. A dot symbolizes 
+
+45
+00:01:39,400 --> 00:01:41,500
+one electron and a dash two 
+
+46
+00:01:41,500 --> 00:01:43,840
+electrons, which 
+
+47
+00:01:43,840 --> 00:01:46,820
+are to be regarded as a pair of electrons. 
+Now the atoms of 
+
+48
+00:01:46,820 --> 00:01:48,740
+all elements strive to have a completely 
+
+49
+00:01:48,740 --> 00:01:51,280
+filled outer shell, as is the case 
+
+50
+00:01:51,280 --> 00:01:53,260
+with the noble gases, the elements of the 
+
+51
+00:01:53,260 --> 00:01:56,480
+eighth main group. This 
+
+52
+00:01:56,480 --> 00:01:58,120
+is usually 
+
+53
+00:01:58,120 --> 00:02:00,280
+eight electrons according to the octet 
+rule. In order to 
+
+54
+00:02:00,280 --> 00:02:01,900
+achieve this goal, 
+
+55
+00:02:01,900 --> 00:02:03,320
+ions can be formed or 
+
+56
+00:02:03,320 --> 00:02:05,220
+electron pair bonds 
+
+57
+00:02:05,220 --> 00:02:06,960
+
+58
+00:02:06,960 --> 00:02:09,780
+can be established between the bonding 
+partners. While the formation of ions 
+
+59
+00:02:09,780 --> 00:02:11,660
+involves a complete transfer of 
+
+60
+00:02:11,660 --> 00:02:13,740
+electrons from one atom to the 
+
+61
+00:02:13,740 --> 00:02:15,660
+other, in an 
+
+62
+00:02:15,660 --> 00:02:17,060
+electron pair bond the 
+
+63
+00:02:17,060 --> 00:02:19,460
+bonding partners share electron pairs in 
+order to 
+
+64
+00:02:19,460 --> 00:02:20,960
+
+65
+00:02:20,960 --> 00:02:24,140
+carry the full number of electrons in the 
+outer shell . 
+
+66
+00:02:24,140 --> 00:02:26,140
+When atoms of the same 
+
+67
+00:02:26,140 --> 00:02:27,700
+element join together, they form as many 
+
+68
+00:02:27,700 --> 00:02:29,880
+electron pair bonds between them as 
+
+69
+00:02:29,880 --> 00:02:32,100
+each atom lacks valence electrons to 
+
+70
+00:02:32,100 --> 00:02:33,940
+achieve the noble gas configuration 
+
+71
+00:02:33,940 --> 00:02:36,860
+. 
+
+72
+00:02:36,860 --> 00:02:39,440
+
+73
+00:02:39,440 --> 00:02:41,580
+
+74
+00:02:41,580 --> 00:02:43,560
+There is a single bond between the 
+chlorine atoms of the biatomic chlorine 
+molecule consisting of two atoms. 
+
+75
+00:02:43,560 --> 00:02:45,500
+In the valence bond notation 
+
+76
+00:02:45,500 --> 00:02:47,400
+, the electron points of the 
+
+77
+00:02:47,400 --> 00:02:48,820
+two chlorine atoms are connected to form a 
+
+78
+00:02:48,820 --> 00:02:50,760
+horizontal 
+
+79
+00:02:50,760 --> 00:02:53,460
+line between the chlorine atoms, which 
+
+80
+00:02:53,460 --> 00:02:55,300
+represents the electron pair bond 
+
+81
+00:02:55,300 --> 00:02:57,920
+. As the chlorine atoms share 
+
+82
+00:02:57,920 --> 00:02:59,900
+an electron pair, 
+
+83
+00:02:59,900 --> 00:03:02,280
+both atoms achieve the noble gas 
+configuration, 
+
+84
+00:03:02,600 --> 00:03:03,900
+in the case of chlorine the 
+
+85
+00:03:03,900 --> 00:03:06,240
+electron configuration of argon. 
+
+86
+00:03:07,260 --> 00:03:09,560
+
+87
+00:03:09,560 --> 00:03:11,580
+ There is a so-called 
+
+88
+00:03:11,580 --> 00:03:13,100
+double bond between the oxygen atoms of 
+the O2 molecule , so 
+
+89
+00:03:13,100 --> 00:03:14,100
+oxygen achieves the 
+
+90
+00:03:14,100 --> 00:03:16,240
+electron configuration of neon 
+
+91
+00:03:16,280 --> 00:03:18,360
+, as does nitrogen, where 
+
+92
+00:03:18,360 --> 00:03:20,580
+
+93
+00:03:20,580 --> 00:03:22,680
+ a triple bond 
+
+94
+00:03:22,680 --> 00:03:25,060
+is formed between the nitrogen atoms of 
+the N2 molecule . If we now look at 
+
+95
+00:03:25,060 --> 00:03:26,760
+compounds between atoms of 
+
+96
+00:03:26,760 --> 00:03:28,660
+different elements, we can 
+
+97
+00:03:28,660 --> 00:03:29,260
+
+98
+00:03:29,260 --> 00:03:31,640
+easily 
+
+99
+00:03:31,640 --> 00:03:33,460
+
+100
+00:03:33,460 --> 00:03:36,040
+establish the molecular formula and 
+structural formula based on their electron 
+configuration. Let's take a look 
+
+101
+00:03:36,040 --> 00:03:37,720
+at the combination of hydrogen 
+
+102
+00:03:37,720 --> 00:03:40,720
+and oxygen. Oxygen 
+
+103
+00:03:40,720 --> 00:03:42,780
+needs two electron pair bonds to 
+
+104
+00:03:42,780 --> 00:03:45,780
+fill up to eight outer electrons. A 
+
+105
+00:03:45,780 --> 00:03:47,480
+hydrogen atom can only 
+
+106
+00:03:47,480 --> 00:03:49,380
+form one electron pair bond, as 
+
+107
+00:03:49,380 --> 00:03:51,700
+each atom only has one electron. 
+
+108
+00:03:51,800 --> 00:03:53,620
+For this reason, an 
+
+109
+00:03:53,620 --> 00:03:56,200
+oxygen atom binds two hydrogen atoms. 
+
+110
+00:03:56,780 --> 00:03:58,660
+Oxygen reaches the configuration 
+
+111
+00:03:58,660 --> 00:04:00,960
+of neon and hydrogen that of 
+
+112
+00:04:00,960 --> 00:04:03,820
+helium. The H2O molecule 
+
+113
+00:04:03,820 --> 00:04:05,300
+is drawn at an angle because the 
+
+114
+00:04:05,300 --> 00:04:07,620
+electron pairs, both the free 
+
+115
+00:04:07,620 --> 00:04:09,740
+pairs and the bond pairs, 
+
+116
+00:04:09,740 --> 00:04:11,880
+need as much space as possible between 
+them, as 
+
+117
+00:04:11,880 --> 00:04:13,980
+they are negative charges 
+
+118
+00:04:14,040 --> 00:04:16,660
+that repel each other. This maximum 
+
+119
+00:04:16,660 --> 00:04:18,460
+possible solid angle is the 
+
+120
+00:04:18,460 --> 00:04:20,520
+so-called tetrahedral angle and 
+
+121
+00:04:20,520 --> 00:04:24,160
+is 109.5° . It is 
+
+122
+00:04:24,160 --> 00:04:25,800
+
+123
+00:04:25,800 --> 00:04:28,200
+
+124
+00:04:28,200 --> 00:04:31,340
+taken into account in the two-dimensional 
+drawing of the structural formula of the 
+H2O molecule . The bond angle in the 
+
+125
+00:04:31,340 --> 00:04:35,320
+water molecule is 104.45°, as the 
+
+126
+00:04:35,320 --> 00:04:37,160
+free electron pairs take up slightly more 
+
+127
+00:04:37,160 --> 00:04:39,240
+space than the 
+
+128
+00:04:39,240 --> 00:04:42,340
+electron pairs of the bond. 
+
+129
+00:04:42,340 --> 00:04:44,040
+If we now take a look at the combination 
+of 
+
+130
+00:04:44,040 --> 00:04:46,460
+carbon and oxygen to form CO2 
+
+131
+00:04:46,540 --> 00:04:49,100
+, which also has a 2 to 1 ratio 
+
+132
+00:04:49,100 --> 00:04:51,700
+, it is 
+
+133
+00:04:51,700 --> 00:04:54,100
+noticeable when drawing the structural 
+formula of the molecule 
+
+134
+00:04:54,100 --> 00:04:56,820
+that it is now linear. This is 
+
+135
+00:04:56,820 --> 00:04:58,680
+because the carbon atom 
+
+136
+00:04:58,680 --> 00:05:00,660
+
+137
+00:05:00,660 --> 00:05:03,460
+has to form two double bonds to each of 
+the oxygen atoms. The 
+
+138
+00:05:03,460 --> 00:05:05,420
+largest possible distance angle is 
+
+139
+00:05:05,420 --> 00:05:08,580
+therefore 180°. degrees. In the case of 
+
+140
+00:05:08,580 --> 00:05:10,560
+carbon, which as an atom in the 
+
+141
+00:05:10,560 --> 00:05:12,700
+valence line notation 
+
+142
+00:05:12,700 --> 00:05:15,100
+had one line and two points, 
+
+143
+00:05:15,100 --> 00:05:16,880
+the line for bonding is transformed into 
+two 
+
+144
+00:05:16,880 --> 00:05:19,180
+points, because carbon must 
+
+145
+00:05:19,180 --> 00:05:21,140
+have four bonds in order to 
+
+146
+00:05:21,140 --> 00:05:23,140
+achieve the noble gas configuration 
+
+147
+00:05:23,140 --> 00:05:25,940
+. This means that carbon atoms 
+
+148
+00:05:25,940 --> 00:05:28,480
+can 
+
+149
+00:05:28,480 --> 00:05:30,700
+bind between two and four atoms, depending 
+on which bonds, 
+
+150
+00:05:30,740 --> 00:05:32,920
+single or multiple, they 
+
+151
+00:05:32,920 --> 00:05:35,800
+form with the bonding partners. I hope 
+
+152
+00:05:35,900 --> 00:05:37,140
+that I have been able to help you 
+understand the 
+
+153
+00:05:37,140 --> 00:05:38,920
+valence notation better 
+
+154
+00:05:38,920 --> 00:05:40,600
+and thank you for your 
+
+155
+00:05:40,600 --> 00:05:41,480
+attention. 

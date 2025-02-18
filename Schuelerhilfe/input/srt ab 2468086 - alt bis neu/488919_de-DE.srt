@@ -1,0 +1,544 @@
+1
+00:00:08,880 --> 00:00:10,320
+Wenn sich die Eltern und der Schüler
+
+2
+00:00:10,320 --> 00:00:11,500
+für eine Anmeldung entschlossen
+
+3
+00:00:11,500 --> 00:00:13,240
+haben, kann der Schüler in ICAS 7
+
+4
+00:00:13,240 --> 00:00:15,220
+angelegt und die Eingangsdiagnostik
+
+5
+00:00:15,220 --> 00:00:17,800
+angestoßen werden. Hierbei ist es für
+
+6
+00:00:17,800 --> 00:00:19,480
+die Eingangsdiagnostik wichtig, dass
+
+7
+00:00:19,480 --> 00:00:20,960
+bei den Stammdaten des Schülers eine
+
+8
+00:00:20,960 --> 00:00:22,760
+gültige E-Mail-Adresse eingetragen
+
+9
+00:00:22,760 --> 00:00:24,320
+wird. Damit der Versand erfolgreich
+
+10
+00:00:24,320 --> 00:00:25,900
+funktioniert, muss darauf geachtet
+
+11
+00:00:25,900 --> 00:00:27,740
+werden, dass diese E-Mail-Adresse nur
+
+12
+00:00:27,740 --> 00:00:29,920
+einmalig im System hinterlegt ist und
+
+13
+00:00:29,920 --> 00:00:31,860
+eindeutig einem Schüler zugewiesen
+
+14
+00:00:31,860 --> 00:00:33,600
+wurde. Bei Bedarf muss zusätzlich
+
+15
+00:00:33,600 --> 00:00:35,420
+geprüft werden, ob die E-Mail-Adresse
+
+16
+00:00:35,420 --> 00:00:37,080
+schon durch ein Geschwisterkind oder
+
+17
+00:00:37,080 --> 00:00:39,060
+einen inaktiven Account verwendet
+
+18
+00:00:39,060 --> 00:00:41,040
+wird. Die Eingangsdiagnostik findet
+
+19
+00:00:41,040 --> 00:00:42,740
+sich unter dem Reiter Extras im
+
+20
+00:00:42,740 --> 00:00:44,600
+Profil des Schülers. Um einen neuen
+
+21
+00:00:44,600 --> 00:00:46,360
+Test anzustoßen, muss im Feld
+
+22
+00:00:46,360 --> 00:00:48,220
+Eingangsdiagnostik rechts oben auf
+
+23
+00:00:48,220 --> 00:00:50,420
+das Pluszeichen geklickt werden. Ohne
+
+24
+00:00:50,420 --> 00:00:51,860
+die Filter nutzen zu müssen, werden
+
+25
+00:00:51,860 --> 00:00:53,720
+die Lernchecks ganz oben angezeigt.
+
+26
+00:00:53,880 --> 00:00:55,700
+Die Auswahl des Lernchecks erfolgt
+
+27
+00:00:55,700 --> 00:00:57,420
+dann anhand der Klassenstufe. Neben
+
+28
+00:00:57,420 --> 00:00:59,080
+dem passenden Lerncheck wird ein
+
+29
+00:00:59,080 --> 00:01:00,680
+Häkchen gesetzt. Die Franchise
+
+30
+00:01:00,680 --> 00:01:02,080
+-Partner können dann auswählen, ob
+
+31
+00:01:02,080 --> 00:01:03,500
+die Auswertung des Lernchecks an den
+
+32
+00:01:03,500 --> 00:01:04,740
+Schüler verschickt wird oder nicht.
+
+33
+00:01:12,800 --> 00:01:15,840
+des Lernchecks führt. Im Anschluss
+
+34
+00:01:15,840 --> 00:01:17,260
+wird ein passender Fachcheck für den
+
+35
+00:01:17,260 --> 00:01:19,040
+Schüler ausgewählt. Hierzu wird
+
+36
+00:01:19,040 --> 00:01:20,720
+wieder auf Test hinzufügen geklickt,
+
+37
+00:01:20,740 --> 00:01:22,360
+dann kann oben die Filterfunktion
+
+38
+00:01:22,360 --> 00:01:23,960
+genutzt werden, um nach Fach- und
+
+39
+00:01:23,960 --> 00:01:26,340
+Klassenstufe bzw. Lernjahr zu suchen.
+
+40
+00:01:26,640 --> 00:01:28,820
+In Latein und Französisch finden sich
+
+41
+00:01:28,820 --> 00:01:30,940
+Fachchecks für die Lernjahre 1 bis 4,
+
+42
+00:01:31,060 --> 00:01:32,220
+da die Fremdsprachen in
+
+43
+00:01:32,220 --> 00:01:33,480
+unterschiedlichen Klassenstufen
+
+44
+00:01:33,480 --> 00:01:35,440
+starten können. Die Fachchecks für
+
+45
+00:01:35,440 --> 00:01:37,040
+die Hauptfächer Mathematik, Deutsch
+
+46
+00:01:37,040 --> 00:01:38,440
+und Englisch können am besten
+
+47
+00:01:38,440 --> 00:01:39,680
+mithilfe der Filterfunktion
+
+48
+00:01:39,680 --> 00:01:41,540
+ausgewählt werden. Nach der Auswahl
+
+49
+00:01:41,540 --> 00:01:42,740
+des Fachs und der Kategorie
+
+50
+00:01:42,740 --> 00:01:44,680
+Standardisierter Fachcheck kann dann
+
+51
+00:01:44,680 --> 00:01:46,160
+zwischen Klassenstufen unterschieden
+
+52
+00:01:46,160 --> 00:01:47,660
+werden, wobei jeweils zwei
+
+53
+00:01:47,660 --> 00:01:49,340
+Klassenstufen zusammengefasst wurden,
+
+54
+00:01:49,500 --> 00:01:51,020
+um auch das vorherige Wissen der
+
+55
+00:01:51,020 --> 00:01:53,080
+Schüler abzufragen. Im Bereich Mathe
+
+56
+00:01:53,080 --> 00:01:54,080
+werden ergänzend für die
+
+57
+00:01:54,080 --> 00:01:56,340
+Klassenstufen 7 und 8 zwei Versionen
+
+58
+00:01:56,340 --> 00:01:58,300
+angeboten, da hier der Lernstoff sehr
+
+59
+00:01:58,300 --> 00:02:00,160
+umfangreich ist. In Klammern hinter
+
+60
+00:02:00,160 --> 00:02:01,640
+jedem Fachcheck befindet sich der
+
+61
+00:02:01,640 --> 00:02:03,560
+nächste angestrebte Schulabschluss
+
+62
+00:02:03,560 --> 00:02:05,120
+des Schülers. Die Auswahl des
+
+63
+00:02:05,120 --> 00:02:06,620
+Fachchecks kann also grundsätzlich
+
+64
+00:02:06,620 --> 00:02:08,100
+anhand der Klassenstufe, der
+
+65
+00:02:08,100 --> 00:02:09,680
+persönlichen Einschätzung und der
+
+66
+00:02:09,680 --> 00:02:11,640
+Schulform getroffen werden. Sollten
+
+67
+00:02:11,640 --> 00:02:12,880
+Sie sich hier unsicher fühlen,
+
+68
+00:02:12,900 --> 00:02:14,360
+welcher Fachcheck der passende ist,
+
+69
+00:02:14,480 --> 00:02:15,940
+können hier auch mehrere Tests
+
+70
+00:02:15,940 --> 00:02:17,880
+angestoßen werden. Auch hier können
+
+71
+00:02:17,880 --> 00:02:19,500
+dann die Franchise-Partner auswählen,
+
+72
+00:02:19,560 --> 00:02:21,040
+ob die Auswertung des Fachchecks
+
+73
+00:02:21,040 --> 00:02:22,780
+automatisch an den Schüler verschickt
+
+74
+00:02:22,780 --> 00:02:24,680
+werden soll. Mit Klick auf Speichern
+
+75
+00:02:24,680 --> 00:02:26,060
+wird der Fachcheck dann an den
+
+76
+00:02:26,060 --> 00:02:28,680
+Schüler verschickt. Wenn die Tests
+
+77
+00:02:28,680 --> 00:02:30,360
+angestoßen wurden, erscheinen sie
+
+78
+00:02:30,360 --> 00:02:32,400
+unter dem Reiter Eingangsdiagnostik.
+
+79
+00:02:32,400 --> 00:02:33,860
+Mit Hilfe der drei übereinander
+
+80
+00:02:33,860 --> 00:02:35,620
+stehenden Punkte rechts außen kann
+
+81
+00:02:35,620 --> 00:02:37,040
+der Status des Tests eingesehen
+
+82
+00:02:37,040 --> 00:02:38,840
+werden, also ob der Schüler mit der
+
+83
+00:02:38,840 --> 00:02:41,220
+Bearbeitung begonnen hat. Dort kann
+
+84
+00:02:41,220 --> 00:02:42,800
+der Test auch gegebenenfalls gelöscht
+
+85
+00:02:42,800 --> 00:02:44,780
+werden oder erneut versendet werden.
+
+86
+00:02:45,280 --> 00:02:46,740
+Wenn ein erneuter Versand
+
+87
+00:02:46,740 --> 00:02:48,380
+stattfindet, aktualisiert sich
+
+88
+00:02:48,380 --> 00:02:50,720
+automatisch der Zeitstempel. Wenn mit
+
+89
+00:02:50,720 --> 00:02:52,140
+der Maus über den Zeitstempel
+
+90
+00:02:52,140 --> 00:02:53,900
+gefahren wird, dann öffnet sich ein
+
+91
+00:02:53,900 --> 00:02:55,940
+sogenanntes Tooltip. In dieser grauen
+
+92
+00:02:55,940 --> 00:02:57,240
+Box wird die Versandhistorie
+
+93
+00:02:57,240 --> 00:02:59,620
+angezeigt, wann der Test erstmalig
+
+94
+00:02:59,620 --> 00:03:02,560
+und wann erneut versendet wurde. Nach
+
+95
+00:03:02,560 --> 00:03:04,180
+dem Anstoßen der Tests erhält der
+
+96
+00:03:04,180 --> 00:03:06,040
+Schüler zwei separate E-Mails mit
+
+97
+00:03:06,040 --> 00:03:07,720
+jeweils einem Link, der ihn zu der
+
+98
+00:03:07,720 --> 00:03:09,320
+Bearbeitungsseite für Lern- und
+
+99
+00:03:09,320 --> 00:03:10,920
+Fachcheck führt. Die Bearbeitung
+
+100
+00:03:10,920 --> 00:03:12,700
+erfolgt von zu Hause aus. Das
+
+101
+00:03:12,700 --> 00:03:14,380
+Ausfüllen des Lernchecks dauert
+
+102
+00:03:14,380 --> 00:03:16,940
+maximal 15 bis 20 Minuten. Für die
+
+103
+00:03:16,940 --> 00:03:18,440
+Bearbeitung der Fachchecks stehen
+
+104
+00:03:18,440 --> 00:03:20,740
+maximal 60 Minuten Bearbeitungszeit
+
+105
+00:03:20,740 --> 00:03:25,020
+zur Verfügung. Lern- oder Fachchecks
+
+106
+00:03:25,020 --> 00:03:26,760
+wird automatisch eine Auswertung
+
+107
+00:03:26,760 --> 00:03:28,580
+erstellt. Diese wird per E-Mail an
+
+108
+00:03:28,580 --> 00:03:29,320
+die Schüler und die
+
+109
+00:03:29,320 --> 00:03:31,160
+Schülerhilfeleitung versendet. Bei
+
+110
+00:03:31,160 --> 00:03:32,560
+Franchise-Partnern erfolgt der
+
+111
+00:03:32,560 --> 00:03:34,080
+Versand an den Schüler nur, wenn
+
+112
+00:03:34,080 --> 00:03:35,980
+dieser vorher ausgewählt wurde. In
+
+113
+00:03:35,980 --> 00:03:37,760
+ICAS können die Ergebnisse sowohl von
+
+114
+00:03:37,760 --> 00:03:39,600
+der Schülerhilfeleitung als auch von
+
+115
+00:03:39,600 --> 00:03:40,980
+den Nachhilfelehrern eingesehen
+
+116
+00:03:40,980 --> 00:03:43,080
+werden. Dies erfolgt auch wieder im
+
+117
+00:03:43,080 --> 00:03:44,800
+Profil des Schülers unter dem Reiter
+
+118
+00:03:44,800 --> 00:03:46,260
+Extras unter der Kachel
+
+119
+00:03:46,260 --> 00:03:48,100
+Eingangsdiagnostik unter dem
+
+120
+00:03:48,100 --> 00:03:50,360
+Büroklammer-Symbol. In der Auswertung
+
+121
+00:03:50,360 --> 00:03:51,800
+der Lernchecks werden die Ergebnisse
+
+122
+00:03:51,800 --> 00:03:53,440
+in einem Balkendiagramm dargestellt.
+
+123
+00:03:53,700 --> 00:03:55,160
+Wenn der Schüler in einzelnen
+
+124
+00:03:55,160 --> 00:03:57,140
+Lernbereichen nicht gut oder weniger
+
+125
+00:03:57,140 --> 00:03:59,100
+gut abschneidet, werden automatisch
+
+126
+00:03:59,100 --> 00:04:00,980
+Fördermöglichkeiten vorgeschlagen. In
+
+127
+00:04:00,980 --> 00:04:02,620
+der Auswertung des Fachchecks werden
+
+128
+00:04:02,620 --> 00:04:04,500
+die falsch beantworteten Fragen rot
+
+129
+00:04:04,500 --> 00:04:06,280
+markiert, sodass diese auf einen
+
+130
+00:04:06,280 --> 00:04:08,160
+Blick erkennbar sind. In Klammern
+
+131
+00:04:08,160 --> 00:04:10,000
+dahinter steht in blau die korrekte
+
+132
+00:04:10,000 --> 00:04:11,740
+Lösung. Richtige Antworten werden
+
+133
+00:04:11,740 --> 00:04:13,460
+grün markiert. Hier kann der
+
+134
+00:04:13,460 --> 00:04:15,320
+Nachhilfelehrer anknüpfen und in der
+
+135
+00:04:15,320 --> 00:04:16,820
+ersten Unterrichtseinheit die
+
+136
+00:04:16,820 --> 00:04:17,920
+Ergebnisse besprechen.
+

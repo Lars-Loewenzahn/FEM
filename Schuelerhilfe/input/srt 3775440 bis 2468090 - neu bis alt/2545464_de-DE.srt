@@ -1,0 +1,2980 @@
+1
+00:00:01,870 --> 00:00:03,790
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,790 --> 00:00:06,850
+lineare Funktionen. Wir werden uns in
+
+3
+00:00:06,850 --> 00:00:08,090
+diesem Webinar mit linearen
+
+4
+00:00:08,090 --> 00:00:09,950
+Funktionen befassen. Zuallererst
+
+5
+00:00:09,950 --> 00:00:11,590
+schauen wir uns an, was ist überhaupt
+
+6
+00:00:11,590 --> 00:00:13,490
+eine lineare Funktion, wie sieht
+
+7
+00:00:13,490 --> 00:00:16,050
+diese aus und wie lautet die
+
+8
+00:00:16,050 --> 00:00:18,390
+allgemeine Funktionsgleichung. Danach
+
+9
+00:00:18,390 --> 00:00:20,450
+beschäftigen wir uns mit der Steigung
+
+10
+00:00:20,450 --> 00:00:21,990
+und dem Absolutwert von linearen
+
+11
+00:00:21,990 --> 00:00:24,110
+Funktionen und anschließend werden
+
+12
+00:00:24,110 --> 00:00:25,150
+wir die Terme, also die
+
+13
+00:00:25,150 --> 00:00:26,830
+Funktionsgleichung aufstellen. Wir
+
+14
+00:00:26,830 --> 00:00:28,490
+schauen uns an, wie man das macht,
+
+15
+00:00:28,650 --> 00:00:30,770
+welche Möglichkeiten es gibt und was
+
+16
+00:00:30,770 --> 00:00:34,050
+man dabei zu beachten hat. Danach
+
+17
+00:00:34,050 --> 00:00:35,030
+schauen wir uns noch die
+
+18
+00:00:35,030 --> 00:00:36,970
+zeichnerische Lösung von
+
+19
+00:00:36,970 --> 00:00:39,690
+Gleichungssystemen an. Das hängt auch
+
+20
+00:00:39,690 --> 00:00:41,270
+mit linearen Funktionen zusammen, wie
+
+21
+00:00:41,270 --> 00:00:42,570
+genau sehen wir an der Stelle dann.
+
+22
+00:00:42,970 --> 00:00:44,870
+Und ganz zum Schluss schauen wir uns
+
+23
+00:00:44,870 --> 00:00:46,390
+noch ein paar wichtige Aufgaben zu
+
+24
+00:00:46,390 --> 00:00:48,230
+linearen Funktionen an, also das
+
+25
+00:00:48,230 --> 00:00:49,930
+Einsetzen, Gleichsetzen und die
+
+26
+00:00:49,930 --> 00:00:52,650
+Punktprobe. Das hängt jetzt zusammen
+
+27
+00:00:52,650 --> 00:00:53,910
+mit der zeichnerischen Lösung, das
+
+28
+00:00:53,910 --> 00:00:57,050
+werden wir dann aber sehen. Gut, was
+
+29
+00:00:57,050 --> 00:00:58,890
+ist überhaupt eine lineare Funktion?
+
+30
+00:00:59,070 --> 00:01:01,030
+Eine lineare Funktion ist erstmal nur
+
+31
+00:01:01,030 --> 00:01:03,610
+eine Gerade. Diese Gerade schneidet
+
+32
+00:01:03,610 --> 00:01:05,510
+an einer Stelle die x-Achse, das ist
+
+33
+00:01:05,510 --> 00:01:06,850
+die sogenannte Nullstelle, und
+
+34
+00:01:06,850 --> 00:01:08,470
+schneidet an einer Stelle die y
+
+35
+00:01:08,470 --> 00:01:10,030
+-Achse, das ist der sogenannte y
+
+36
+00:01:10,030 --> 00:01:12,550
+-Achsenabschnitt. Dieser y
+
+37
+00:01:12,550 --> 00:01:14,310
+-Achsenabschnitt ist in der
+
+38
+00:01:14,310 --> 00:01:17,190
+allgemeinen Funktionsgleichung als c
+
+39
+00:01:17,190 --> 00:01:17,950
+enthalten.
+
+40
+00:01:20,330 --> 00:01:21,930
+verwendet ich habe es auch schon
+
+41
+00:01:21,930 --> 00:01:24,190
+gesehen dass das b heißt jeden fall
+
+42
+00:01:24,190 --> 00:01:26,730
+plus der parameter der hier steht das
+
+43
+00:01:26,730 --> 00:01:28,470
+ist immer der y-achsen abschnitt egal
+
+44
+00:01:28,470 --> 00:01:30,070
+wie der heißt bei uns ist es im
+
+45
+00:01:30,070 --> 00:01:33,030
+folgenden immer c die allgemeine
+
+46
+00:01:33,030 --> 00:01:35,070
+funktionsgleichung lautet dann im
+
+47
+00:01:35,070 --> 00:01:39,450
+gesamten y ist gleich m x c m ist die
+
+48
+00:01:39,450 --> 00:01:41,150
+steigung der parameter m ist dort
+
+49
+00:01:41,150 --> 00:01:42,870
+wirklich eigentlich immer für
+
+50
+00:01:42,870 --> 00:01:46,330
+verwendet und c ist wie gesagt bei
+
+51
+00:01:46,330 --> 00:01:48,890
+uns der y-Achsenabschnitt. Man sieht
+
+52
+00:01:48,890 --> 00:01:50,530
+hier, man liest so einen Graphen
+
+53
+00:01:50,530 --> 00:01:52,210
+immer von links nach rechts und man
+
+54
+00:01:52,210 --> 00:01:53,710
+sieht, dass wenn man von links nach
+
+55
+00:01:53,710 --> 00:01:55,670
+rechts schaut, die gerade nach oben
+
+56
+00:01:55,670 --> 00:01:58,490
+geht, also sie steigt. Das heißt für
+
+57
+00:01:58,490 --> 00:02:00,470
+uns schon mal, dass wir wohl eine
+
+58
+00:02:00,470 --> 00:02:02,490
+positive Steigung haben. Das werden
+
+59
+00:02:02,490 --> 00:02:03,330
+wir in der Folge auch noch sehen,
+
+60
+00:02:03,430 --> 00:02:05,630
+denn es gibt auch Fälle, da haben die
+
+61
+00:02:05,630 --> 00:02:07,610
+gerade eine negative Steigung, zum
+
+62
+00:02:07,610 --> 00:02:08,890
+Beispiel so aus wie die Minus 2 und
+
+63
+00:02:08,890 --> 00:02:11,250
+dann fallen die, Dann kommen die, von
+
+64
+00:02:11,250 --> 00:02:12,390
+links nach rechts betrachtet, gehen
+
+65
+00:02:12,390 --> 00:02:14,930
+die nach unten. Der hier
+
+66
+00:02:14,930 --> 00:02:17,510
+eingezeichnete Graph hat die
+
+67
+00:02:17,510 --> 00:02:19,930
+Funktionsgleichung y gleich 1 halb x
+
+68
+00:02:19,930 --> 00:02:22,610
+plus 2. Die plus 2 sagt uns ja wie
+
+69
+00:02:22,610 --> 00:02:25,450
+gesagt direkt, dass an der Stelle y
+
+70
+00:02:25,450 --> 00:02:28,910
+gleich 2 die y-Achse geschnitten
+
+71
+00:02:28,910 --> 00:02:32,770
+wird. Und sieht man auch, man geht
+
+72
+00:02:32,770 --> 00:02:36,010
+genau durch die 2 durch. Und die 1
+
+73
+00:02:36,010 --> 00:02:37,730
+halb sagen uns ja schon mal, dass der
+
+74
+00:02:37,730 --> 00:02:40,530
+Graph steigt. Oder die gerade steigt.
+
+75
+00:02:42,860 --> 00:02:44,300
+Wo wir gerade schon mal bei Steigung
+
+76
+00:02:44,300 --> 00:02:48,160
+sind. Es ist nicht immer so, dass es
+
+77
+00:02:48,160 --> 00:02:51,160
+eine wirkliche Steigung gibt. Es gibt
+
+78
+00:02:51,160 --> 00:02:53,880
+auch Fälle, dass es waagerechten oder
+
+79
+00:02:53,880 --> 00:02:56,340
+wie hier zu sehen senkrechten im
+
+80
+00:02:56,340 --> 00:02:58,260
+Koordinatensystem gibt. Wenn wir
+
+81
+00:02:58,260 --> 00:03:00,260
+sowas haben, also es ist eine
+
+82
+00:03:00,260 --> 00:03:02,260
+Funktionsgleichung, nicht irgendeine
+
+83
+00:03:02,260 --> 00:03:03,260
+Stelle. Es ist eine
+
+84
+00:03:03,260 --> 00:03:04,900
+Funktionsgleichung, die lautet x ist
+
+85
+00:03:04,900 --> 00:03:07,840
+gleich minus 3. Dann ist das einfach
+
+86
+00:03:07,840 --> 00:03:10,480
+eine gerade, die senkt. durch das
+
+87
+00:03:10,480 --> 00:03:12,060
+Koordinatensystem, geht einfach von
+
+88
+00:03:12,060 --> 00:03:14,000
+oben nach unten oder von unten nach
+
+89
+00:03:14,000 --> 00:03:16,180
+oben, wie man es möchte. Und die hat
+
+90
+00:03:16,180 --> 00:03:18,780
+immer die x-Koordinate minus 3, die y
+
+91
+00:03:18,780 --> 00:03:22,380
+-Koordinate ist frei wählbar. Also es
+
+92
+00:03:22,380 --> 00:03:24,280
+enthält wirklich alle Punkte mit dem
+
+93
+00:03:24,280 --> 00:03:26,740
+x-Wert minus 3, die y-Werte sind dann
+
+94
+00:03:26,740 --> 00:03:29,820
+variabel. Also die 4 ist möglich, die
+
+95
+00:03:29,820 --> 00:03:31,560
+minus 2 ist möglich, die 5 wäre auch
+
+96
+00:03:31,560 --> 00:03:33,620
+möglich und sowas wie die Wurzel aus
+
+97
+00:03:33,620 --> 00:03:35,100
+3 wäre auch möglich für die y
+
+98
+00:03:35,100 --> 00:03:38,240
+-Koordinate. natürlich gibt es jetzt
+
+99
+00:03:38,240 --> 00:03:39,540
+nicht nur die funktions gleich auf x
+
+100
+00:03:39,540 --> 00:03:41,580
+gleich minus 3 es gibt auch x gleich
+
+101
+00:03:41,580 --> 00:03:43,660
+0 diese gerade läuft dann direkt in
+
+102
+00:03:43,660 --> 00:03:47,780
+der y-achse und x gleich 2 geht auch
+
+103
+00:03:47,780 --> 00:03:49,400
+die läuft dann halt senkrecht zur x
+
+104
+00:03:49,400 --> 00:03:53,180
+-achse auch wieder gleiches gibt es
+
+105
+00:03:53,180 --> 00:03:55,360
+natürlich auch für y das ist aber
+
+106
+00:03:55,360 --> 00:03:57,580
+doch schon wesentlich gängiger als
+
+107
+00:03:57,580 --> 00:04:00,300
+senkrechten das ist eine waagerechte
+
+108
+00:04:00,300 --> 00:04:03,080
+zur x-achse y gleich 1 ist einfach
+
+109
+00:04:03,080 --> 00:04:05,340
+Einfach wie gesagt, die Gerade läuft
+
+110
+00:04:05,340 --> 00:04:07,820
+parallel zur x-Achse. Man sagt auch,
+
+111
+00:04:07,860 --> 00:04:11,180
+diese Gerade hat die Steigung 0. Und
+
+112
+00:04:11,180 --> 00:04:13,560
+egal an welcher Stelle man ist, der
+
+113
+00:04:13,560 --> 00:04:18,140
+Funktionswert ist immer 1. y gleich 0
+
+114
+00:04:18,140 --> 00:04:20,140
+ist einfach auch wieder nicht nur
+
+115
+00:04:20,140 --> 00:04:21,700
+eine Parallele zur x-Achse, das ist
+
+116
+00:04:21,700 --> 00:04:23,400
+eine Gerade, die in der x-Achse
+
+117
+00:04:23,400 --> 00:04:25,300
+läuft. Und auch egal an welcher
+
+118
+00:04:25,300 --> 00:04:26,060
+Stelle man hier guckt, der
+
+119
+00:04:26,060 --> 00:04:28,620
+Funktionswert ist dann 0. Ähnlich
+
+120
+00:04:28,620 --> 00:04:30,440
+sieht es bei der minus 2 aus. Sie
+
+121
+00:04:30,440 --> 00:04:32,520
+läuft auch parallel zur x-Achse und
+
+122
+00:04:32,520 --> 00:04:34,860
+hat an jeder Stelle den Funktionswert
+
+123
+00:04:34,860 --> 00:04:39,880
+minus 2. Das heißt, sie enthält, also
+
+124
+00:04:39,880 --> 00:04:41,660
+y gleich minus 2 enthält, sämtliche
+
+125
+00:04:41,660 --> 00:04:44,060
+Punkte, die als y-Koordinate minus 2
+
+126
+00:04:44,060 --> 00:04:45,920
+haben. Hierbei ist die x-Koordinate
+
+127
+00:04:45,920 --> 00:04:47,400
+beliebig wählbar.
+
+128
+00:04:51,270 --> 00:04:54,550
+Kommen wir zur Steigung. Über den y
+
+129
+00:04:54,550 --> 00:04:56,110
+-Achsenabschnitt, das plus c, hatten
+
+130
+00:04:56,110 --> 00:04:57,450
+wir ja vorhin schon geredet und auch
+
+131
+00:04:57,450 --> 00:04:58,510
+ein ganz klein wenig über die
+
+132
+00:04:58,510 --> 00:05:00,310
+Steigung. Die Steigung hat den
+
+133
+00:05:00,310 --> 00:05:02,830
+Parameter m und die steht immer vor
+
+134
+00:05:02,830 --> 00:05:06,250
+dem x. Und diese Steigung kann man
+
+135
+00:05:06,250 --> 00:05:07,430
+bei Geraden mit einem
+
+136
+00:05:07,430 --> 00:05:09,050
+Steigungsdreieck grafisch ermitteln.
+
+137
+00:05:09,910 --> 00:05:11,870
+Dieses Steigungsdreieck läuft einfach
+
+138
+00:05:11,870 --> 00:05:13,790
+parallel zur x-Achse und dann
+
+139
+00:05:13,790 --> 00:05:16,070
+senkrecht hoch parallel zur y-Achse
+
+140
+00:05:16,070 --> 00:05:19,270
+bis zum Graphen. Und die Steigung ist
+
+141
+00:05:19,270 --> 00:05:21,450
+dann das Längenverhältnis dieses
+
+142
+00:05:21,450 --> 00:05:24,730
+Steigungsdreiecks. Das bedeutet, wir
+
+143
+00:05:24,730 --> 00:05:25,750
+sehen hier, haben wir ein
+
+144
+00:05:25,750 --> 00:05:26,730
+Steigungsdreieck eingezeichnet, das
+
+145
+00:05:26,730 --> 00:05:29,630
+hat die Breite 1 und die Höhe 2.
+
+146
+00:05:29,990 --> 00:05:31,950
+Wichtig ist, das Steigungsdreieck
+
+147
+00:05:31,950 --> 00:05:34,530
+geht hier nach oben. Das heißt, es
+
+148
+00:05:34,530 --> 00:05:38,150
+ist plus 2, eine positive Zahl. Und
+
+149
+00:05:38,150 --> 00:05:39,710
+hier geht es auch nach rechts, das
+
+150
+00:05:39,710 --> 00:05:41,870
+heißt, es ist auch eine plus 1. Und
+
+151
+00:05:41,870 --> 00:05:44,650
+um die Steigung zu ermitteln, teilt
+
+152
+00:05:44,650 --> 00:05:46,470
+man einfach die Höhe des
+
+153
+00:05:46,470 --> 00:05:48,530
+Steigungsdreiecks, die 2, durch seine
+
+154
+00:05:48,530 --> 00:05:50,350
+Breite, also die 1. So kommen wir für
+
+155
+00:05:50,350 --> 00:05:53,090
+die Steigung auf 2 durch 1. Das ist
+
+156
+00:05:53,090 --> 00:05:55,670
+2. Folglich lautet die Steigung
+
+157
+00:05:55,670 --> 00:05:59,950
+dieses Graphen 2. Und auch wenn es
+
+158
+00:05:59,950 --> 00:06:01,210
+jetzt hier nicht auf der Folie steht,
+
+159
+00:06:01,390 --> 00:06:02,970
+wir können hier auch den y
+
+160
+00:06:02,970 --> 00:06:04,510
+-Achsenabschnitt, also unser c,
+
+161
+00:06:04,630 --> 00:06:06,050
+ablesen. Wir sehen hier, der Graph
+
+162
+00:06:06,050 --> 00:06:09,130
+schneidet die y-Achse bei 1. Folglich
+
+163
+00:06:09,130 --> 00:06:10,470
+ist unser c 1.
+
+164
+00:06:13,910 --> 00:06:15,550
+Natürlich kann man Steigungen auch
+
+165
+00:06:15,550 --> 00:06:17,670
+berechnen. Dieses Berechnen ist
+
+166
+00:06:17,670 --> 00:06:19,190
+notwendig, wenn man
+
+167
+00:06:19,190 --> 00:06:23,110
+Funktionsgleichung berechnen soll. Es
+
+168
+00:06:23,110 --> 00:06:24,930
+ist eine ganz klassische Aufgabe,
+
+169
+00:06:25,210 --> 00:06:27,190
+dass man die Funktionsgleichung aus
+
+170
+00:06:27,190 --> 00:06:29,070
+zwei Punkten erstellen soll. Das
+
+171
+00:06:29,070 --> 00:06:31,290
+heißt, man kriegt den Punkt P1 mit X1
+
+172
+00:06:31,290 --> 00:06:33,710
+und Y1 und den Punkt P2 mit X2 und
+
+173
+00:06:33,710 --> 00:06:36,350
+Y2. Wichtig hierbei ist, jeder Punkt
+
+174
+00:06:36,350 --> 00:06:38,310
+enthält zuerst die X-Koordinate, dann
+
+175
+00:06:38,310 --> 00:06:40,590
+die Y-Koordinate. Wenn ihr zwei
+
+176
+00:06:40,590 --> 00:06:42,690
+Punkte habt, welchen ihr als Punkt 1
+
+177
+00:06:42,690 --> 00:06:43,650
+und welchen ihr als Punkt 2
+
+178
+00:06:43,650 --> 00:06:45,610
+definiert, ist egal. Wichtig ist,
+
+179
+00:06:45,750 --> 00:06:49,050
+dass der Punkt 1 x1 und y1 enthält
+
+180
+00:06:49,050 --> 00:06:51,610
+und der Punkt 2 x2 und y2. Also die
+
+181
+00:06:51,610 --> 00:06:53,470
+Indizes 2 stehen immer in einem Punkt
+
+182
+00:06:53,470 --> 00:06:55,330
+und die Indizes 1 stehen auch immer
+
+183
+00:06:55,330 --> 00:06:58,150
+in einem Punkt. Die allgemeine
+
+184
+00:06:58,150 --> 00:07:00,550
+Gleichung für die Steigung m lautet
+
+185
+00:07:00,550 --> 00:07:05,770
+dann y2-y1 durch x2-x1. achtet hier
+
+186
+00:07:05,770 --> 00:07:07,310
+bitte darauf dass hier die indizes
+
+187
+00:07:07,310 --> 00:07:09,650
+auch immer übereinander stehen also 2
+
+188
+00:07:09,650 --> 00:07:11,390
+und 2 steht übereinander und 1 und 1
+
+189
+00:07:11,390 --> 00:07:14,550
+steht auch übereinander und dort
+
+190
+00:07:14,550 --> 00:07:16,390
+setzen wir dann jetzt einfach unser
+
+191
+00:07:16,390 --> 00:07:21,250
+x1 x2 y2 und y1 aus unseren beiden
+
+192
+00:07:21,250 --> 00:07:23,310
+punkten ein wir haben das ganze mal
+
+193
+00:07:23,310 --> 00:07:25,090
+in dem beispiel gemacht bei uns ist
+
+194
+00:07:25,090 --> 00:07:30,170
+p124 p2 ist 3 1 daher ist unsere 2
+
+195
+00:07:30,170 --> 00:07:35,430
+unser x1 die 4 ist unser y1 die 3 ist
+
+196
+00:07:35,430 --> 00:07:39,830
+unser x2 und die 1 ist unser y2 so
+
+197
+00:07:39,830 --> 00:07:43,150
+kommen wir dann auf 1-4 durch 3-2
+
+198
+00:07:43,150 --> 00:07:45,950
+jetzt führen wir als erstes die
+
+199
+00:07:45,950 --> 00:07:48,590
+rechenoperation einmal aus 1-4 ist
+
+200
+00:07:48,590 --> 00:07:52,190
+ein minus 3 3-2 ist eine 1 folglich
+
+201
+00:07:52,190 --> 00:07:54,050
+kommen wir auf eine steigung von m
+
+202
+00:07:54,050 --> 00:07:55,830
+gleich minus 3 und dieses minus 3
+
+203
+00:07:55,830 --> 00:07:58,490
+bedeutet dass der dass die gerade
+
+204
+00:07:58,490 --> 00:08:00,970
+fällt also sie geht von links nach
+
+205
+00:08:00,970 --> 00:08:04,650
+rechts gesehen runter das sind
+
+206
+00:08:04,650 --> 00:08:06,190
+negative steigungen beziehungsweise
+
+207
+00:08:06,190 --> 00:08:08,230
+so sind sie zu deuten wenn ihr eine
+
+208
+00:08:08,230 --> 00:08:10,130
+skizze habt vergleicht am besten euer
+
+209
+00:08:10,130 --> 00:08:11,770
+ergebnis hier immer mit der skizze
+
+210
+00:08:11,770 --> 00:08:14,890
+wenn ihr eine negative steigung raus
+
+211
+00:08:14,890 --> 00:08:16,870
+habt muss der graf auch nach unten
+
+212
+00:08:16,870 --> 00:08:18,610
+fallen sonst liegt wahrscheinlich ein
+
+213
+00:08:18,610 --> 00:08:20,010
+fehler vor mit
+
+214
+00:08:22,540 --> 00:08:24,100
+dem bestimmten der steigung hat man
+
+215
+00:08:24,100 --> 00:08:25,580
+eigentlich schon die hilfe des terms
+
+216
+00:08:25,580 --> 00:08:27,280
+aufgestellt aber es fehlt natürlich
+
+217
+00:08:27,280 --> 00:08:29,620
+noch etwas und darauf Darauf kommen
+
+218
+00:08:29,620 --> 00:08:31,980
+wir jetzt zu sprechen. Wie zu Anfang
+
+219
+00:08:31,980 --> 00:08:33,600
+schon gesagt, lautet die allgemeine
+
+220
+00:08:33,600 --> 00:08:35,380
+Funktionsgleichung ja y ist gleich m
+
+221
+00:08:35,380 --> 00:08:38,460
+mal x plus c. Diese Steigung m kann
+
+222
+00:08:38,460 --> 00:08:39,080
+man mit Hilfe eines
+
+223
+00:08:39,080 --> 00:08:40,340
+Steigungsdreiecks, wie wir es auch
+
+224
+00:08:40,340 --> 00:08:41,660
+schon mal zu Anfang gemacht haben,
+
+225
+00:08:41,680 --> 00:08:43,540
+ermitteln. Oder mittels des
+
+226
+00:08:43,540 --> 00:08:45,400
+Differenzenquotienten, also die
+
+227
+00:08:45,400 --> 00:08:46,660
+Formel für die Steigung, die wir
+
+228
+00:08:46,660 --> 00:08:50,280
+jetzt gerade gesehen haben. Als
+
+229
+00:08:50,280 --> 00:08:52,220
+zweites fehlt dann nur noch unser
+
+230
+00:08:52,220 --> 00:08:54,620
+Parameter c. C. Diesen Parameter C
+
+231
+00:08:54,620 --> 00:08:56,660
+kann man auch bei einem grafischen
+
+232
+00:08:56,660 --> 00:08:58,280
+Verfahren ablesen, also es ist ja
+
+233
+00:08:58,280 --> 00:08:59,220
+nichts weiter als der Schnittpunkt
+
+234
+00:08:59,220 --> 00:09:01,480
+mit der Y-Achse, oder man kann ihn
+
+235
+00:09:01,480 --> 00:09:04,200
+berechnen. Zu dem Steigungsdreieck
+
+236
+00:09:04,200 --> 00:09:06,120
+sah ich noch gesagt, es ist bei einer
+
+237
+00:09:06,120 --> 00:09:08,100
+Geraden egal, wie groß sich das
+
+238
+00:09:08,100 --> 00:09:10,100
+Steigungsdreieck zeichnet. Es kommt
+
+239
+00:09:10,100 --> 00:09:11,740
+ja auch immer nur auf das Verhältnis
+
+240
+00:09:11,740 --> 00:09:15,400
+der beiden Schenkel an. Und dieses
+
+241
+00:09:15,400 --> 00:09:18,200
+Verhältnis ist gleich oder muss
+
+242
+00:09:18,200 --> 00:09:20,000
+gleich sein. Das haben wir hier mal
+
+243
+00:09:20,000 --> 00:09:21,200
+gemacht. Wir haben hier zwei
+
+244
+00:09:21,200 --> 00:09:22,520
+Steigungstreiche eingezeichnet.
+
+245
+00:09:22,540 --> 00:09:24,260
+Einmal 1 mit der Breite 2 und der
+
+246
+00:09:24,260 --> 00:09:26,900
+Höhe 1 und einmal 1 mit der Breite 8
+
+247
+00:09:26,900 --> 00:09:29,240
+und der Höhe 4. Wir sehen erstmal,
+
+248
+00:09:29,360 --> 00:09:32,060
+wir gehen hoch, das heißt es ist eine
+
+249
+00:09:32,060 --> 00:09:34,580
+positive Länge, die 1 und die 4 und
+
+250
+00:09:34,580 --> 00:09:37,120
+die 2 und die 8 sind auch positiv.
+
+251
+00:09:37,120 --> 00:09:39,260
+Und jetzt die Steigung zu berechnen,
+
+252
+00:09:39,280 --> 00:09:43,140
+rechnen wir 4 durch 8 bzw. 1 durch 2.
+
+253
+00:09:43,460 --> 00:09:45,300
+Und hier sieht man schon, 4 Achtel
+
+254
+00:09:45,300 --> 00:09:47,640
+kann man kürzen zu 1 Halb. Das heißt,
+
+255
+00:09:47,760 --> 00:09:49,500
+es ist definitiv die gleiche
+
+256
+00:09:49,500 --> 00:09:51,620
+Steigung. Das heißt, ob ihr dieses
+
+257
+00:09:51,620 --> 00:09:53,020
+Steigungsdreieck gezeichnet hättet
+
+258
+00:09:53,020 --> 00:09:54,820
+oder das große, ist egal. Ihr wärt
+
+259
+00:09:54,820 --> 00:09:55,800
+auf die gleiche Steigung gekommen.
+
+260
+00:09:56,360 --> 00:09:58,240
+Wir wissen also jetzt schon mal, die
+
+261
+00:09:58,240 --> 00:10:00,700
+Steigung ist 1 Halb. Und hier können
+
+262
+00:10:00,700 --> 00:10:03,060
+wir es schon ablesen. Unser c ist 1.
+
+263
+00:10:03,560 --> 00:10:06,280
+Die Funktionsgleichung lautet damit y
+
+264
+00:10:06,280 --> 00:10:09,900
+ist gleich 1 halb x plus 1. Damit
+
+265
+00:10:09,900 --> 00:10:11,620
+haben wir erfolgreich unsere
+
+266
+00:10:11,620 --> 00:10:12,740
+Funktionsgleichung bestimmt.
+
+267
+00:10:15,200 --> 00:10:16,600
+Natürlich kann man das Ganze, wie
+
+268
+00:10:16,600 --> 00:10:18,840
+vorhin schon gesagt, berechnen. Der
+
+269
+00:10:18,840 --> 00:10:20,820
+Ansatz ist bei Geraden immer gleich.
+
+270
+00:10:20,940 --> 00:10:23,720
+y ist gleich m mal x plus c. m ist
+
+271
+00:10:23,720 --> 00:10:25,200
+wie gesagt die Steigung, c der y
+
+272
+00:10:25,200 --> 00:10:26,560
+-Achsenabschnitt. und wenn ihr es
+
+273
+00:10:26,560 --> 00:10:28,060
+berechnen sollt, berechnet ihr
+
+274
+00:10:28,060 --> 00:10:30,960
+zuallererst immer die Steigung. Das
+
+275
+00:10:30,960 --> 00:10:32,760
+geht mit dieser Formel m ist gleich
+
+276
+00:10:32,760 --> 00:10:35,960
+y2 minus y1 durch x2 minus x1. Die
+
+277
+00:10:35,960 --> 00:10:36,760
+hatten wir vorhin ja schon
+
+278
+00:10:36,760 --> 00:10:38,800
+angewendet. Wir machen es gleich aber
+
+279
+00:10:38,800 --> 00:10:41,700
+auch nochmal im Ganzen. Und wenn ihr
+
+280
+00:10:41,700 --> 00:10:45,160
+diese Steigung berechnet habt, setzt
+
+281
+00:10:45,160 --> 00:10:47,700
+ihr einen der beiden Punkte ein und
+
+282
+00:10:47,700 --> 00:10:50,160
+berechnet so den Schnittpunkt mit der
+
+283
+00:10:50,160 --> 00:10:52,560
+y-Achse. Das heißt, wir kennen ja
+
+284
+00:10:52,560 --> 00:10:54,360
+schon die Steigung. die haben wir ja
+
+285
+00:10:54,360 --> 00:10:56,320
+hier zuvor berechnet. Das heißt, wir
+
+286
+00:10:56,320 --> 00:10:57,800
+setzen hier in unseren Ansatz die
+
+287
+00:10:57,800 --> 00:11:00,100
+Steigung m ein, die ist ja bekannt,
+
+288
+00:11:00,400 --> 00:11:02,640
+und einen Punkt. Und aus so einem
+
+289
+00:11:02,640 --> 00:11:04,600
+Punkt bekommen wir ein y und ein x.
+
+290
+00:11:04,940 --> 00:11:06,680
+Das heißt, wir können für y was
+
+291
+00:11:06,680 --> 00:11:08,740
+einsetzen, für x, und das m ist ja
+
+292
+00:11:08,740 --> 00:11:09,880
+auch schon bekannt. Das heißt, es
+
+293
+00:11:09,880 --> 00:11:12,440
+bleibt nur noch das c übrig. Und
+
+294
+00:11:12,440 --> 00:11:14,920
+diese Gleichung stellen wir dann zum
+
+295
+00:11:14,920 --> 00:11:18,060
+c um und haben es anschließend auch
+
+296
+00:11:18,060 --> 00:11:19,580
+dann berechnet, oder berechnen es
+
+297
+00:11:19,580 --> 00:11:22,800
+anschließend. Und wenn wir das c
+
+298
+00:11:22,800 --> 00:11:25,640
+berechnet haben, setzen wir das alles
+
+299
+00:11:25,640 --> 00:11:28,140
+in unseren Ansatz ein und erhalten so
+
+300
+00:11:28,140 --> 00:11:29,800
+die vollständige Funktionsgleichung.
+
+301
+00:11:30,520 --> 00:11:32,180
+Und das Ganze machen wir jetzt mal.
+
+302
+00:11:32,400 --> 00:11:35,000
+Wir haben die beiden Punkte p1, 3, 2
+
+303
+00:11:35,000 --> 00:11:38,120
+und p2, 4, 5. Wie gesagt, das ist
+
+304
+00:11:38,120 --> 00:11:41,180
+jetzt unser x1, unser y1, unser x2
+
+305
+00:11:41,180 --> 00:11:44,700
+und unser y2. Als erstes, wie gesagt,
+
+306
+00:11:44,840 --> 00:11:45,860
+schreiben wir immer unseren Ansatz
+
+307
+00:11:45,860 --> 00:11:48,820
+auf. y ist gleich m mal x plus c. und
+
+308
+00:11:48,820 --> 00:11:50,620
+berechne als nächstes die Steigung.
+
+309
+00:11:51,080 --> 00:11:54,420
+Das war ja y2 minus y1 durch x2 minus
+
+310
+00:11:54,420 --> 00:11:58,520
+x1. Also bei uns 5 minus 2 durch 4
+
+311
+00:11:58,520 --> 00:12:03,080
+minus 3. 5 minus 2 ist 3. 4 minus 3
+
+312
+00:12:03,080 --> 00:12:05,460
+ist 1. Das heißt, wir haben 3 Eintel
+
+313
+00:12:05,460 --> 00:12:08,720
+und das ist 3. Wir wissen also jetzt
+
+314
+00:12:08,720 --> 00:12:13,040
+schon mal, unser m ist 3. Und das
+
+315
+00:12:13,040 --> 00:12:15,160
+nutzen wir auch für den nächsten
+
+316
+00:12:15,160 --> 00:12:18,440
+Schritt. nächsten Schritt setzen wir
+
+317
+00:12:18,440 --> 00:12:20,240
+jetzt einen der beiden Punkte ein, P1
+
+318
+00:12:20,240 --> 00:12:22,360
+oder P2. Welchen von beiden wir
+
+319
+00:12:22,360 --> 00:12:24,600
+einsetzen ist egal. Wir haben uns
+
+320
+00:12:24,600 --> 00:12:26,600
+hier für P2 entschieden, das heißt
+
+321
+00:12:26,600 --> 00:12:29,460
+wir setzen für x die 4 ein und für y
+
+322
+00:12:29,460 --> 00:12:33,220
+die 5. Deswegen kommen wir auf 5 ist
+
+323
+00:12:33,220 --> 00:12:37,100
+gleich 4, unser x, mal unser m, also
+
+324
+00:12:37,100 --> 00:12:40,240
+die 3, plus c. Und es ist eine
+
+325
+00:12:40,240 --> 00:12:41,460
+Gleichung, die nur c als
+
+326
+00:12:41,460 --> 00:12:43,580
+Unbekanntheit hat, daher rechnen wir
+
+327
+00:12:43,580 --> 00:12:45,580
+jetzt das c aus. Als erstes rechnen
+
+328
+00:12:45,580 --> 00:12:47,340
+wir das 4 mal 3 aus, das ist 12, so
+
+329
+00:12:47,340 --> 00:12:49,500
+kommen wir auf 5, ist gleich 12 plus
+
+330
+00:12:49,500 --> 00:12:52,660
+c. Rechnen wir jetzt minus 12 und
+
+331
+00:12:52,660 --> 00:12:54,640
+dann erhalten wir c ist gleich 5
+
+332
+00:12:54,640 --> 00:12:56,840
+minus 12 beziehungsweise c ist gleich
+
+333
+00:12:56,840 --> 00:12:59,940
+minus 7. Wir haben nun unser m
+
+334
+00:12:59,940 --> 00:13:02,780
+bestimmt 3 und unser c minus 7. Das
+
+335
+00:13:02,780 --> 00:13:04,200
+setzen wir jetzt alles an die
+
+336
+00:13:04,200 --> 00:13:06,200
+entsprechenden Stellen in unseren
+
+337
+00:13:06,200 --> 00:13:09,040
+Ansatz ein. Wir kommen so auf y ist
+
+338
+00:13:09,040 --> 00:13:15,000
+gleich 3x minus 7 und damit haben wir
+
+339
+00:13:15,000 --> 00:13:16,020
+die Funktionsgleichung auch schon
+
+340
+00:13:16,020 --> 00:13:16,760
+erfolgreich bestimmt.
+
+341
+00:13:20,000 --> 00:13:21,600
+Wir haben jetzt gerade ja die
+
+342
+00:13:21,600 --> 00:13:22,740
+Funktionsgleichung über Punkte
+
+343
+00:13:22,740 --> 00:13:24,800
+bestimmt. Ganz oft soll man auch
+
+344
+00:13:24,800 --> 00:13:27,060
+mittels Termen Funktionsgleichung
+
+345
+00:13:27,060 --> 00:13:30,000
+aufstellen, also mittels Textaufgaben
+
+346
+00:13:30,000 --> 00:13:32,260
+Funktionsgleichung aufstellen. Das
+
+347
+00:13:32,260 --> 00:13:34,200
+heißt, es gibt in einer Textaufgabe
+
+348
+00:13:34,200 --> 00:13:37,120
+einen gewissen Sachverhalt und eine
+
+349
+00:13:37,120 --> 00:13:39,080
+lineare Funktion soll etwas darin
+
+350
+00:13:39,080 --> 00:13:42,340
+beschreiben. Wichtig hierbei ist, der
+
+351
+00:13:42,340 --> 00:13:43,780
+Ansatz bleibt der gleiche, y ist
+
+352
+00:13:43,780 --> 00:13:48,280
+gleich m mal x plus c. Und es kommt
+
+353
+00:13:48,280 --> 00:13:52,040
+jetzt darauf an, wie man das m
+
+354
+00:13:52,040 --> 00:13:53,900
+definiert oder wie man das m aus der
+
+355
+00:13:53,900 --> 00:13:56,340
+Textaufgabe kriegt und wie man das c
+
+356
+00:13:56,340 --> 00:13:59,360
+aus der Textaufgabe kriegt. Wichtig
+
+357
+00:13:59,360 --> 00:14:00,860
+ist immer, die Steigung ist die
+
+358
+00:14:00,860 --> 00:14:03,600
+Variable Größe. Also die Steigung ist
+
+359
+00:14:03,600 --> 00:14:06,000
+immer der Preis pro Kilometer, die
+
+360
+00:14:06,000 --> 00:14:10,040
+Kosten pro Minute. Oder der Preis pro
+
+361
+00:14:10,040 --> 00:14:12,860
+Person. Immer dieses Wort Pro
+
+362
+00:14:12,860 --> 00:14:14,560
+signalisiert eigentlich, dass es sich
+
+363
+00:14:14,560 --> 00:14:17,680
+um die Steigung handelt. Das C, also
+
+364
+00:14:17,680 --> 00:14:19,160
+der Schnittpunkt mit der Y-Achse, das
+
+365
+00:14:19,160 --> 00:14:20,400
+ist immer die Grundgebühr, die
+
+366
+00:14:20,400 --> 00:14:23,380
+Fixkosten oder das, was unabhängig
+
+367
+00:14:23,380 --> 00:14:26,840
+von der Anzahl anfällt. Was ganz
+
+368
+00:14:26,840 --> 00:14:29,360
+wichtig dabei ist, die beiden
+
+369
+00:14:29,360 --> 00:14:31,240
+Einheiten müssen zueinander passen.
+
+370
+00:14:31,340 --> 00:14:32,780
+Das heißt, wir sehen jetzt hier
+
+371
+00:14:32,780 --> 00:14:35,060
+gerade eine Beispielaufgabe. Wir
+
+372
+00:14:35,060 --> 00:14:36,380
+haben hier einmal was in Euro und
+
+373
+00:14:36,380 --> 00:14:37,660
+einmal was in Cent angegeben. geben.
+
+374
+00:14:38,120 --> 00:14:40,360
+Wir müssen tunlichst auf die
+
+375
+00:14:40,360 --> 00:14:42,520
+Einheiten achten. Wir müssen, wenn
+
+376
+00:14:42,520 --> 00:14:43,640
+wir das in die Funktionsgleichung
+
+377
+00:14:43,640 --> 00:14:45,820
+eintragen, eine Einheit haben und man
+
+378
+00:14:45,820 --> 00:14:47,000
+sollte auch immer im Hinterkopf
+
+379
+00:14:47,000 --> 00:14:48,500
+haben, was für eine Einheit man
+
+380
+00:14:48,500 --> 00:14:50,560
+verwendet hat. Das erkläre ich jetzt
+
+381
+00:14:50,560 --> 00:14:52,180
+am besten an dem Beispiel. Und zwar,
+
+382
+00:14:54,100 --> 00:14:55,260
+ein Mobilfunkanbieter bietet
+
+383
+00:14:55,260 --> 00:14:57,200
+folgenden Vertrag an. Die Grundgebühr
+
+384
+00:14:57,200 --> 00:14:59,440
+beträgt 5 Euro und der Und der Preis
+
+385
+00:14:59,440 --> 00:15:02,220
+pro Minute ist 4 Cent. Stelle die
+
+386
+00:15:02,220 --> 00:15:03,540
+Funktionsgleichung für den Vertrag
+
+387
+00:15:03,540 --> 00:15:05,860
+auf. Und hier haben wir jetzt genau
+
+388
+00:15:05,860 --> 00:15:08,880
+den Wortlaut. Der Preis pro Minute
+
+389
+00:15:08,880 --> 00:15:11,560
+ist 4 Cent. Das ist unsere
+
+390
+00:15:11,560 --> 00:15:13,900
+Steigerung, unser M. Und die
+
+391
+00:15:13,900 --> 00:15:17,340
+Grundgebühr beträgt 5 Euro. Das ist
+
+392
+00:15:17,340 --> 00:15:19,680
+unser Y-Achsenabschnitt. Das sind
+
+393
+00:15:19,680 --> 00:15:21,260
+unsere Fixkosten, die immer anfangen.
+
+394
+00:15:22,200 --> 00:15:24,000
+Was wir jetzt nur sehen, wir haben
+
+395
+00:15:24,000 --> 00:15:25,420
+unser C.
+
+396
+00:15:27,560 --> 00:15:30,080
+in Euro angegeben und unsere Steigung
+
+397
+00:15:30,080 --> 00:15:33,300
+in Cent. Das müssen wir erst noch
+
+398
+00:15:33,300 --> 00:15:35,540
+umstellen. Wenn man mit Geld rechnet,
+
+399
+00:15:35,560 --> 00:15:37,140
+ist es meistens am sinnvollsten, die
+
+400
+00:15:37,140 --> 00:15:39,000
+Einheit Euro zu nehmen. Cent ist
+
+401
+00:15:39,000 --> 00:15:41,500
+meistens ein bisschen klein. Daher
+
+402
+00:15:41,500 --> 00:15:44,120
+rechnen wir die 4 Cent als erstes in
+
+403
+00:15:44,120 --> 00:15:47,620
+Euro um. Und so kommen wir auf 0,04
+
+404
+00:15:47,620 --> 00:15:49,060
+Euro pro Minute und das ist unsere
+
+405
+00:15:49,060 --> 00:15:53,100
+Steigung M. Und gerade hatte ich ja
+
+406
+00:15:53,100 --> 00:15:55,960
+schon gesagt, unser Y-Achsenabschnitt
+
+407
+00:15:55,960 --> 00:15:58,080
+C ist 5 Euro, weil das unser Fix ist.
+
+408
+00:15:58,100 --> 00:16:01,740
+kosten sind und wir kennen jetzt c
+
+409
+00:16:01,740 --> 00:16:03,700
+und m also das was wir vorhin
+
+410
+00:16:03,700 --> 00:16:05,380
+mühevoll ausrechnen mussten wird uns
+
+411
+00:16:05,380 --> 00:16:06,980
+einfach in einem wortlaut gegeben wir
+
+412
+00:16:06,980 --> 00:16:07,820
+mussten es eigentlich ein
+
+413
+00:16:07,820 --> 00:16:10,020
+runterschreiben und können es nun in
+
+414
+00:16:10,020 --> 00:16:11,900
+unseren ansatz einsetzen und so
+
+415
+00:16:11,900 --> 00:16:15,740
+kommen wir zu y ist gleich 0,04 x x
+
+416
+00:16:15,740 --> 00:16:17,760
+plus 5 wie gesagt hier ist es ganz
+
+417
+00:16:17,760 --> 00:16:19,880
+wichtig dass man das in euro
+
+418
+00:16:19,880 --> 00:16:22,820
+umgerechnet hat oder entsprechend
+
+419
+00:16:22,820 --> 00:16:24,880
+Entsprechend die 5 Euro in Cent, das
+
+420
+00:16:24,880 --> 00:16:26,040
+ginge auch, dann werden nur die
+
+421
+00:16:26,040 --> 00:16:31,190
+Preise sehr groß. Und damit wären wir
+
+422
+00:16:31,190 --> 00:16:32,810
+auch schon bei der zeichnerischen
+
+423
+00:16:32,810 --> 00:16:36,370
+Lösung. Und zwar behandeln wir jetzt
+
+424
+00:16:36,370 --> 00:16:40,530
+hier ein Gleichungssystem, also LGS
+
+425
+00:16:40,530 --> 00:16:42,870
+abgekürzt, bestehend aus zwei
+
+426
+00:16:42,870 --> 00:16:45,090
+Gleichungen, also zwei Unbekannten.
+
+427
+00:16:45,150 --> 00:16:47,030
+Und diese können wir als geraden
+
+428
+00:16:47,030 --> 00:16:49,630
+darstellen. Und immer wenn wir das
+
+429
+00:16:49,630 --> 00:16:51,650
+können, können wir das auch
+
+430
+00:16:51,650 --> 00:16:54,630
+zeichnerisch lösen. Das bedeutet, wir
+
+431
+00:16:54,630 --> 00:16:56,730
+gehen hin, stellen unsere Gleichung
+
+432
+00:16:56,730 --> 00:17:00,410
+nach y auf oder lösen sie nach y auf
+
+433
+00:17:00,410 --> 00:17:03,010
+und zeichnen sie damit ins
+
+434
+00:17:03,010 --> 00:17:04,210
+Koordinatensystem. Wenn wir sie nach
+
+435
+00:17:04,210 --> 00:17:06,690
+y aufgelöst haben, haben wir vom
+
+436
+00:17:06,690 --> 00:17:07,990
+Prinzip her eine Geradengleichung.
+
+437
+00:17:08,110 --> 00:17:10,190
+Das werden wir gleich noch sehen. Und
+
+438
+00:17:10,190 --> 00:17:11,490
+diese Gleichung können wir dann in
+
+439
+00:17:11,490 --> 00:17:12,870
+das Koordinatensystem einzeichnen.
+
+440
+00:17:13,250 --> 00:17:16,230
+Die Lösung dieses Gleichungssystems
+
+441
+00:17:16,230 --> 00:17:19,370
+ist dann der Schnittpunkt. Wichtig,
+
+442
+00:17:19,490 --> 00:17:21,170
+der Schnittpunkt. Ein Punkt besteht
+
+443
+00:17:21,170 --> 00:17:26,150
+immer. aus x und y. Das heißt, wir
+
+444
+00:17:26,150 --> 00:17:28,230
+müssen einfach nur die x-Koordinate
+
+445
+00:17:28,230 --> 00:17:29,630
+und die y-Koordinate des
+
+446
+00:17:29,630 --> 00:17:31,070
+Schnittpunkts ablesen und so kennen
+
+447
+00:17:31,070 --> 00:17:33,170
+wir dann die Lösung für unser x und
+
+448
+00:17:33,170 --> 00:17:36,150
+die Lösung für unser y. Das bedeutet,
+
+449
+00:17:36,450 --> 00:17:38,130
+wir haben hier mal unsere
+
+450
+00:17:38,130 --> 00:17:39,270
+Beispielaufgabe, wir haben ein
+
+451
+00:17:39,270 --> 00:17:41,090
+Gleichungssystem mit zwei Gleichungen
+
+452
+00:17:41,090 --> 00:17:42,410
+und zwei Unbekannten, das ist dann
+
+453
+00:17:42,410 --> 00:17:44,190
+auch lösbar. Damit etwas ohne
+
+454
+00:17:44,190 --> 00:17:45,750
+Probleme lösbar ist, muss man immer
+
+455
+00:17:45,750 --> 00:17:47,330
+genauso viele Unbekannte wie
+
+456
+00:17:47,330 --> 00:17:49,330
+Gleichungen haben. Wenn Wenn man mehr
+
+457
+00:17:49,330 --> 00:17:52,030
+Unbekannte als Gleichungen hat, dann
+
+458
+00:17:52,030 --> 00:17:53,310
+ist das Gleichungssystem
+
+459
+00:17:53,310 --> 00:17:55,590
+unterbestimmt und wenn man mehr
+
+460
+00:17:55,590 --> 00:17:57,050
+Gleichungen als Unbekannte hat, ist
+
+461
+00:17:57,050 --> 00:17:59,810
+es überbestimmt. Wir haben hier aber
+
+462
+00:17:59,810 --> 00:18:01,530
+erstmal nur Gleichungssysteme, die
+
+463
+00:18:01,530 --> 00:18:02,990
+genauso viele Gleichungen wie
+
+464
+00:18:02,990 --> 00:18:05,490
+Unbekannte haben. Die erste Gleichung
+
+465
+00:18:05,490 --> 00:18:08,070
+lautet 6 ist gleich minus 6x plus 2y
+
+466
+00:18:08,070 --> 00:18:10,390
+und die zweite Gleichung lautet 3y
+
+467
+00:18:10,390 --> 00:18:14,070
+minus 1,5 ist gleich 6x. Als erstes
+
+468
+00:18:14,070 --> 00:18:15,790
+stellen wir beide Gleichungen nach y
+
+469
+00:18:15,790 --> 00:18:18,950
+um. Bei der oberen müssen wir plus 6x
+
+470
+00:18:18,950 --> 00:18:21,490
+rechnen und dann durch 2 teilen. So
+
+471
+00:18:21,490 --> 00:18:24,510
+kommen wir zu y ist gleich 3x plus 3.
+
+472
+00:18:25,410 --> 00:18:29,830
+Und bei der unteren müssen wir plus 1
+
+473
+00:18:29,830 --> 00:18:33,010
+,5 rechnen und dann durch 3 teilen.
+
+474
+00:18:33,150 --> 00:18:34,630
+So kommen wir dann zu y ist gleich
+
+475
+00:18:34,630 --> 00:18:39,630
+minus 2x plus 0,5. Und das sind jetzt
+
+476
+00:18:39,630 --> 00:18:41,030
+unsere beiden Gleichungen. Und jetzt
+
+477
+00:18:41,030 --> 00:18:42,310
+wird auch deutlich, was ich vorhin
+
+478
+00:18:42,310 --> 00:18:44,490
+gesagt habe. Das hat die Form einer
+
+479
+00:18:44,490 --> 00:18:47,630
+Geraden. 3 ist unsere Steigung, die 3
+
+480
+00:18:47,630 --> 00:18:49,830
+ist unser y-Achsenabschnitt, hier ist
+
+481
+00:18:49,830 --> 00:18:51,850
+die minus 2 unsere Steigung und die 0
+
+482
+00:18:51,850 --> 00:18:55,010
+,5 unser y-Achsenabschnitt. Und hier
+
+483
+00:18:55,010 --> 00:18:56,190
+kann man jetzt auch nochmal schön
+
+484
+00:18:56,190 --> 00:18:57,490
+zeigen, was ich vorhin gesagt hatte.
+
+485
+00:18:57,610 --> 00:18:59,430
+Eine negative Steigung haben wir hier
+
+486
+00:18:59,430 --> 00:19:00,930
+rot dargestellt zum Beispiel, der
+
+487
+00:19:00,930 --> 00:19:03,970
+Graph, die gerade fällt, die geht
+
+488
+00:19:03,970 --> 00:19:05,850
+runter von links nach rechts
+
+489
+00:19:05,850 --> 00:19:10,050
+betrachtet. Und wie vorhin gesagt,
+
+490
+00:19:10,350 --> 00:19:13,650
+die Lösungsmenge ist dann der
+
+491
+00:19:13,650 --> 00:19:15,390
+Schnittpunkt der beiden Geraden. Das
+
+492
+00:19:15,390 --> 00:19:17,810
+ist hier. Das heißt, das ist bei x
+
+493
+00:19:17,810 --> 00:19:23,030
+minus 0,5 und y 1,5. Das heißt, die
+
+494
+00:19:23,030 --> 00:19:26,050
+Lösungsmenge lautet minus 0,5, 1,5.
+
+495
+00:19:26,130 --> 00:19:27,790
+Und damit haben wir es schon grafisch
+
+496
+00:19:27,790 --> 00:19:30,990
+gelöst. Das Ganze, solche
+
+497
+00:19:30,990 --> 00:19:32,390
+Schnittpunkte von Geraden, kann man
+
+498
+00:19:32,390 --> 00:19:33,730
+natürlich auch wirklich berechnen.
+
+499
+00:19:34,290 --> 00:19:35,850
+Das Berechnen eines Schnittpunkts
+
+500
+00:19:35,850 --> 00:19:37,110
+funktioniert immer, indem man die
+
+501
+00:19:37,110 --> 00:19:39,950
+beiden Funktionsgleichungen, also in
+
+502
+00:19:39,950 --> 00:19:40,490
+dem Fall die beiden
+
+503
+00:19:40,490 --> 00:19:43,670
+Geradengleichungen, gleichsetzt. Also
+
+504
+00:19:43,670 --> 00:19:46,430
+wir sagen, 3x plus 3 ist gleich minus
+
+505
+00:19:46,430 --> 00:19:51,650
+2x plus 0,5. Und damit fangen wir
+
+506
+00:19:51,650 --> 00:19:52,930
+dann einfach an. Das ist eine
+
+507
+00:19:52,930 --> 00:19:55,490
+Gleichung, die wir lösen müssen. Wir
+
+508
+00:19:55,490 --> 00:19:57,270
+versuchen erstmal das ein bisschen zu
+
+509
+00:19:57,270 --> 00:19:58,550
+ordnen, dass wir alle x auf einer
+
+510
+00:19:58,550 --> 00:20:00,910
+Seite sammeln und alle absoluten
+
+511
+00:20:00,910 --> 00:20:02,070
+Glieder. Deswegen rechnen wir als
+
+512
+00:20:02,070 --> 00:20:04,070
+erstes minus. 3, dann geht die 3
+
+513
+00:20:04,070 --> 00:20:07,410
+nämlich rüber, dann erhalten wir 0,5
+
+514
+00:20:07,410 --> 00:20:10,530
+minus 3 ist die minus 2,5 und so
+
+515
+00:20:10,530 --> 00:20:12,730
+kommen wir zu 3x ist gleich minus 2x
+
+516
+00:20:12,730 --> 00:20:15,810
+minus 2,5. Als nächstes sollen die 2x
+
+517
+00:20:15,810 --> 00:20:18,010
+rüber, das geht durch plus 2x, dann
+
+518
+00:20:18,010 --> 00:20:20,910
+erhalten wir 5x ist gleich minus 2,5.
+
+519
+00:20:21,530 --> 00:20:23,070
+Im nächsten Schritt müssen wir nur
+
+520
+00:20:23,070 --> 00:20:24,330
+noch durch 5 teilen, dann erhalten
+
+521
+00:20:24,330 --> 00:20:27,650
+wir x ist gleich minus 0,5. Damit
+
+522
+00:20:27,650 --> 00:20:29,230
+haben wir jetzt unser x berechnet.
+
+523
+00:20:29,850 --> 00:20:31,350
+Das ist aber noch nicht der Punkt.
+
+524
+00:20:31,410 --> 00:20:32,450
+Wir brauchen ja auch noch unser y.
+
+525
+00:20:33,050 --> 00:20:35,050
+Wir erhalten den Punkt, indem wir das
+
+526
+00:20:35,050 --> 00:20:37,550
+x von minus 0,5 in eine der beiden
+
+527
+00:20:37,550 --> 00:20:39,630
+Gleichungen einsetzen. In welche wir
+
+528
+00:20:39,630 --> 00:20:41,010
+das einsetzen, ist egal. Es muss
+
+529
+00:20:41,010 --> 00:20:42,670
+beides mal der gleiche y-Wert
+
+530
+00:20:42,670 --> 00:20:44,330
+rauskommen. So kann man auch die
+
+531
+00:20:44,330 --> 00:20:47,430
+Probe machen. Wir haben es einfach
+
+532
+00:20:47,430 --> 00:20:48,710
+hier oben in die erste blaue
+
+533
+00:20:48,710 --> 00:20:50,510
+Gleichung eingesetzt. Also y ist
+
+534
+00:20:50,510 --> 00:20:52,790
+gleich 3x plus 3 mit x ist gleich
+
+535
+00:20:52,790 --> 00:20:55,510
+minus 0,5 erhalten wir. y ist gleich
+
+536
+00:20:55,510 --> 00:20:59,310
+3 mal minus 0,5 plus 3. 3 mal minus 0
+
+537
+00:20:59,310 --> 00:21:02,930
+,5 ist minus 1,5. Minus 1,5 plus 3
+
+538
+00:21:02,930 --> 00:21:05,410
+ist dann 1,5. Das heißt, wir sehen,
+
+539
+00:21:05,510 --> 00:21:07,170
+wir erhalten hier genau den gleichen
+
+540
+00:21:07,170 --> 00:21:08,730
+Schnittpunkt. Und das muss auch so
+
+541
+00:21:08,730 --> 00:21:08,970
+sein.
+
+542
+00:21:12,580 --> 00:21:16,620
+Es gibt mehrere Möglichkeiten,
+
+543
+00:21:16,980 --> 00:21:18,580
+Gleichungssysteme zu lösen. Das
+
+544
+00:21:18,580 --> 00:21:19,300
+gerade war das
+
+545
+00:21:19,300 --> 00:21:21,560
+Gleichsetzungsverfahren. Es gibt aber
+
+546
+00:21:21,560 --> 00:21:22,240
+auch das sogenannte
+
+547
+00:21:22,240 --> 00:21:23,800
+Einsetzungsverfahren. Das
+
+548
+00:21:23,800 --> 00:21:25,720
+Einsetzungsverfahren bedeutet, dass
+
+549
+00:21:25,720 --> 00:21:27,340
+wir eine Variable durch die andere
+
+550
+00:21:27,340 --> 00:21:29,500
+ersetzen. Das kann man hier schön
+
+551
+00:21:29,500 --> 00:21:31,360
+zeigen. Wir haben hier einmal 6 ist
+
+552
+00:21:31,360 --> 00:21:35,860
+gleich minus 6x plus 2y und 3y minus
+
+553
+00:21:35,860 --> 00:21:39,220
+1,5 ist gleich minus 6x. Wir sehen,
+
+554
+00:21:39,240 --> 00:21:41,020
+wir haben hier oben drinstehend minus
+
+555
+00:21:41,020 --> 00:21:42,660
+6x und hier haben wir drinstehend
+
+556
+00:21:42,660 --> 00:21:46,160
+minus 6x ist gleich 3y minus 1,5. Wir
+
+557
+00:21:46,160 --> 00:21:48,980
+können also minus 6x beschreiben
+
+558
+00:21:48,980 --> 00:21:53,220
+durch... 3y minus 1,5. Daher ersetzen
+
+559
+00:21:53,220 --> 00:21:56,680
+wir das minus 6x auch hier oben. Ja,
+
+560
+00:21:56,740 --> 00:21:59,380
+also wo jetzt minus 6x steht, da
+
+561
+00:21:59,380 --> 00:22:02,580
+tragen wir 3y minus 1,5 für ein und
+
+562
+00:22:02,580 --> 00:22:04,880
+so erhalten wir die Gleichung 6 ist
+
+563
+00:22:04,880 --> 00:22:09,560
+gleich 3y minus 1,5 plus 2y. Wir
+
+564
+00:22:09,560 --> 00:22:10,940
+sehen, wir haben hier nur noch eine
+
+565
+00:22:10,940 --> 00:22:12,900
+Gleichung in Abhängigkeit von y.
+
+566
+00:22:14,240 --> 00:22:16,100
+Daher können wir diese Gleichung
+
+567
+00:22:16,100 --> 00:22:18,520
+jetzt lösen. Als erstes Zeichnen wir
+
+568
+00:22:18,520 --> 00:22:20,740
+plus 1,5, damit die minus 1,5 hier
+
+569
+00:22:20,740 --> 00:22:23,720
+rüber geht. Dann haben wir 7,5 ist
+
+570
+00:22:23,720 --> 00:22:26,640
+gleich 5y, also 3y plus 2y sind die
+
+571
+00:22:26,640 --> 00:22:28,900
+5y. Und das sieht schon recht schön
+
+572
+00:22:28,900 --> 00:22:30,280
+aus. Wir müssen nur noch durch 5
+
+573
+00:22:30,280 --> 00:22:33,020
+teilen. Und so kommen wir dann auf y
+
+574
+00:22:33,020 --> 00:22:36,460
+ist gleich 1,5. Damit haben wir
+
+575
+00:22:36,460 --> 00:22:39,660
+unsere Lösung für das y. Wir brauchen
+
+576
+00:22:39,660 --> 00:22:42,020
+natürlich noch das x. Das x erhalten
+
+577
+00:22:42,020 --> 00:22:43,500
+wir, indem wir es in eine der beiden
+
+578
+00:22:43,500 --> 00:22:45,580
+Gleichungen einsetzen. Sinnvoll beim
+
+579
+00:22:45,580 --> 00:22:46,660
+Einsetzungsverfahren ist es
+
+580
+00:22:46,660 --> 00:22:48,640
+natürlich, das in die Gleichung
+
+581
+00:22:48,640 --> 00:22:50,700
+einzusetzen, die man eingesetzt hat.
+
+582
+00:22:50,820 --> 00:22:54,300
+Also bei uns 3y-1,5 gleich minus 6x.
+
+583
+00:22:56,200 --> 00:22:58,980
+Und so kann man dann am schnellsten
+
+584
+00:22:58,980 --> 00:23:02,540
+weitermachen. Wir erhalten so für x
+
+585
+00:23:02,540 --> 00:23:08,180
+gleich minus 0,5. Wir haben hier aber
+
+586
+00:23:08,180 --> 00:23:10,520
+in die obere Gleichung eingesetzt.
+
+587
+00:23:11,060 --> 00:23:12,400
+Man hätte es aber genauso gut in die
+
+588
+00:23:12,400 --> 00:23:14,720
+untere machen können. Wenn wir die
+
+589
+00:23:14,720 --> 00:23:16,300
+obere Einsätze erhalten, dann ist das
+
+590
+00:23:16,300 --> 00:23:19,060
+6 gleich minus 6x plus 2y.
+
+591
+00:23:21,920 --> 00:23:23,940
+Wir haben wie gesagt y ausgerechnet,
+
+592
+00:23:23,960 --> 00:23:25,820
+das war bei uns 1,5. So kommen wir
+
+593
+00:23:25,820 --> 00:23:28,340
+auf 6 ist gleich minus 6x plus 2 mal
+
+594
+00:23:28,340 --> 00:23:31,360
+1,5. 2 mal 1,5 ist 3, deswegen
+
+595
+00:23:31,360 --> 00:23:32,720
+rechnen wir hier minus 3, damit das
+
+596
+00:23:32,720 --> 00:23:35,580
+direkt weg geht oder rüber geht. Dann
+
+597
+00:23:35,580 --> 00:23:38,080
+erhalten wir 3 ist gleich minus 6x.
+
+598
+00:23:38,100 --> 00:23:39,520
+Jetzt teilen wir wieder nur durch den
+
+599
+00:23:39,520 --> 00:23:41,120
+Faktor vor dem x, in dem Fall die
+
+600
+00:23:41,120 --> 00:23:44,120
+minus 6. Und kommen so zu x ist
+
+601
+00:23:44,120 --> 00:23:46,820
+gleich minus 0,5. Das Ganze können
+
+602
+00:23:46,820 --> 00:23:47,640
+wir dann auch in so einem
+
+603
+00:23:47,640 --> 00:23:49,320
+Schnittpunkt eintragen. Bitte daran
+
+604
+00:23:49,320 --> 00:23:50,700
+denken, immer erst die x-Koordinate,
+
+605
+00:23:51,000 --> 00:23:52,660
+dann die y-Koordinate.
+
+606
+00:23:56,140 --> 00:23:58,040
+Und damit wären wir auch schon bei
+
+607
+00:23:58,040 --> 00:23:59,100
+unseren letzten Themen. Das ist
+
+608
+00:23:59,100 --> 00:24:00,480
+einmal der Achsenschnitt, die
+
+609
+00:24:00,480 --> 00:24:01,560
+Achsenschnittpunkte und die
+
+610
+00:24:01,560 --> 00:24:03,600
+Punktprobe. Ich hatte zu Anfang ja
+
+611
+00:24:03,600 --> 00:24:04,400
+schon gesagt, dass eine
+
+612
+00:24:04,400 --> 00:24:05,980
+Geradengleichung zwei
+
+613
+00:24:05,980 --> 00:24:07,700
+Achsenschnittpunkte besitzen kann.
+
+614
+00:24:07,700 --> 00:24:11,800
+Das ist einmal die Nullstelle und
+
+615
+00:24:11,800 --> 00:24:13,500
+einmal der y-Achsenabschnitt.
+
+616
+00:24:14,380 --> 00:24:15,620
+Nullstellen sind wie gesagt die
+
+617
+00:24:15,620 --> 00:24:17,520
+Schnittpunkte mit der x-Achse und der
+
+618
+00:24:17,520 --> 00:24:18,980
+y-Achsenabschnitt ist der
+
+619
+00:24:18,980 --> 00:24:21,740
+Schnittpunkt mit der y-Achse. Wenn
+
+620
+00:24:21,740 --> 00:24:23,140
+man sich das Ganze mal genau anguckt,
+
+621
+00:24:23,200 --> 00:24:25,080
+stellt man fest, dass bei der
+
+622
+00:24:25,080 --> 00:24:27,100
+Nullstelle die y- Koordinate immer 0
+
+623
+00:24:27,100 --> 00:24:28,860
+ist. Das ist auch die Bedingung für
+
+624
+00:24:28,860 --> 00:24:30,620
+die Nullstelle. Die Bedingung für die
+
+625
+00:24:30,620 --> 00:24:32,860
+Nullstelle ist, dass y gleich 0 ist.
+
+626
+00:24:38,330 --> 00:24:44,650
+Das heißt, man
+
+627
+00:24:44,650 --> 00:24:46,050
+kann sich merken, die jeweils andere
+
+628
+00:24:46,050 --> 00:24:50,430
+Koordinate muss 0 sein. Das Berechnen
+
+629
+00:24:50,430 --> 00:24:52,570
+des y-Achsenabschnitts fällt einem
+
+630
+00:24:52,570 --> 00:24:54,230
+aber wesentlich einfacher, weil wir
+
+631
+00:24:54,230 --> 00:24:55,690
+dort für das x einfach eine 0
+
+632
+00:24:55,690 --> 00:24:58,370
+einsetzen, während wir bei der
+
+633
+00:24:58,370 --> 00:24:59,590
+Nullstellenberechnung die
+
+634
+00:24:59,590 --> 00:25:01,930
+Funktionsgleichung mit 0 gleichsetzen
+
+635
+00:25:01,930 --> 00:25:03,550
+müssen. Also wir haben das hier mal
+
+636
+00:25:03,550 --> 00:25:06,050
+für die Geradengleichung 1,5x plus 2
+
+637
+00:25:06,050 --> 00:25:07,330
+gemacht. Wenn wir die Nullstelle
+
+638
+00:25:07,330 --> 00:25:08,730
+berechnen, setzen wir diese Gleichung
+
+639
+00:25:08,730 --> 00:25:11,090
+mit 0 gleich und lösen sie dann auf.
+
+640
+00:25:11,170 --> 00:25:13,210
+Das heißt, wir rechnen minus 2, dann
+
+641
+00:25:13,210 --> 00:25:14,930
+geteilt durch 0,5 und dann kommen wir
+
+642
+00:25:14,930 --> 00:25:17,750
+auf x, das ist gleich minus 4. und
+
+643
+00:25:17,750 --> 00:25:19,410
+wenn wir den y-Achsenabschnitt
+
+644
+00:25:19,410 --> 00:25:21,510
+berechnen wollen, müssen wir einfach
+
+645
+00:25:21,510 --> 00:25:23,730
+nur für das x0 einsetzen. Dann haben
+
+646
+00:25:23,730 --> 00:25:25,770
+wir 1 halb mal 0 plus 2 und das ist
+
+647
+00:25:25,770 --> 00:25:28,670
+halt die 2. Und den y-Achsenabschnitt
+
+648
+00:25:28,670 --> 00:25:29,850
+kann man, wie wir schon gelernt
+
+649
+00:25:29,850 --> 00:25:31,810
+haben, auch einfach direkt ablesen.
+
+650
+00:25:32,550 --> 00:25:34,050
+Man kann es aber auch hiermit noch
+
+651
+00:25:34,050 --> 00:25:34,490
+beweisen.
+
+652
+00:25:37,660 --> 00:25:40,120
+Gut, kommen wir dann zum letzten, das
+
+653
+00:25:40,120 --> 00:25:41,700
+ist die Punktprobe. Punktprobe. Und
+
+654
+00:25:41,700 --> 00:25:44,200
+zwar beliebte Aufgaben sind, ist die
+
+655
+00:25:44,200 --> 00:25:45,800
+Frage danach, ob dein Punkt auf einer
+
+656
+00:25:45,800 --> 00:25:48,580
+Geraden liegt. Und dafür nutzt man
+
+657
+00:25:48,580 --> 00:25:49,980
+einfach die Punktprobe. Jeder Punkt
+
+658
+00:25:49,980 --> 00:25:51,620
+besteht ja aus einer x- und einer y
+
+659
+00:25:51,620 --> 00:25:53,920
+-Koordinate und jede Gleichung
+
+660
+00:25:53,920 --> 00:25:57,420
+enthält ja auch y und x. Daher setzt
+
+661
+00:25:57,420 --> 00:25:58,900
+man einfach den Punkt in die
+
+662
+00:25:58,900 --> 00:26:01,380
+Geradengleichung ein und guckt, ob
+
+663
+00:26:01,380 --> 00:26:02,800
+eine wahre Aussage entsteht. Das
+
+664
+00:26:02,800 --> 00:26:04,920
+heißt, fangen wir mit dem ersten
+
+665
+00:26:04,920 --> 00:26:07,780
+Punkt P14 an. den setzen wir in die
+
+666
+00:26:07,780 --> 00:26:10,440
+gleichung y ist gleich 2x plus 2 ein
+
+667
+00:26:10,440 --> 00:26:13,880
+wie gesagt die 1 ist unser x und die
+
+668
+00:26:13,880 --> 00:26:15,660
+4 ist unser y wir kommen so auf die
+
+669
+00:26:15,660 --> 00:26:18,160
+gleichung 4 ist gleich 2 mal 1 plus 2
+
+670
+00:26:18,160 --> 00:26:21,960
+man muss bei der punktprobe hier auch
+
+671
+00:26:21,960 --> 00:26:23,460
+wirklich nur schauen ob eine wahre
+
+672
+00:26:23,460 --> 00:26:24,580
+aussage entsteht heißt man muss
+
+673
+00:26:24,580 --> 00:26:28,520
+nichts umformen 2 mal 1 ist 2 und 2
+
+674
+00:26:28,520 --> 00:26:30,180
+plus 2 sind 4 das heißt wir haben am
+
+675
+00:26:30,180 --> 00:26:31,600
+ende da stehen 4 ist gleich 4 ist
+
+676
+00:26:31,600 --> 00:26:33,360
+eine wahre Aussage. Folglich liegt
+
+677
+00:26:33,360 --> 00:26:36,220
+der Punkt P auf der Geraden. Als
+
+678
+00:26:36,220 --> 00:26:37,500
+nächstes prüfen wir einfach den Punkt
+
+679
+00:26:37,500 --> 00:26:40,520
+S. Also x ist gleich 2, y ist gleich
+
+680
+00:26:40,520 --> 00:26:43,060
+7. So erhalten wir 7 ist gleich 2 mal
+
+681
+00:26:43,060 --> 00:26:47,800
+2 plus 2. 2 mal 2 sind 4, 4 plus 2
+
+682
+00:26:47,800 --> 00:26:49,520
+sind 6. Und dann steht da 7 ist
+
+683
+00:26:49,520 --> 00:26:52,140
+gleich 6. Und das ist eine falsche
+
+684
+00:26:52,140 --> 00:26:55,280
+Aussage. Folglich liegt der Punkt S
+
+685
+00:26:55,280 --> 00:26:58,300
+nicht auf der Geraden. Das
+
+686
+00:26:58,300 --> 00:26:59,620
+funktioniert bei Geraden, wie gesagt,
+
+687
+00:26:59,680 --> 00:27:01,380
+immer so. auch bei anderen
+
+688
+00:27:01,380 --> 00:27:04,520
+Funktionen. Zu guter Letzt schauen
+
+689
+00:27:04,520 --> 00:27:05,420
+wir uns noch schnell an, wie man den
+
+690
+00:27:05,420 --> 00:27:07,900
+Abstand berechnet. Man kann zwischen
+
+691
+00:27:07,900 --> 00:27:10,340
+zwei Punkten den Abstand berechnen.
+
+692
+00:27:11,480 --> 00:27:12,960
+Den Gradlinienabstand sei dazu
+
+693
+00:27:12,960 --> 00:27:15,920
+gesagt. Die Formel dazu, d ist der
+
+694
+00:27:15,920 --> 00:27:17,580
+Abstand, lautet, es ist die Wurzel
+
+695
+00:27:17,580 --> 00:27:22,880
+aus y2-y1 hoch 2 plus x2-x1 hoch 2.
+
+696
+00:27:24,560 --> 00:27:26,840
+Und diese Formel basiert auf dem Satz
+
+697
+00:27:26,840 --> 00:27:28,060
+des Pythagoras. Das wurde hier mal
+
+698
+00:27:28,060 --> 00:27:30,360
+angezeichnet. Das ist ja ein
+
+699
+00:27:30,360 --> 00:27:31,800
+rechtwinkliges Dreieck, hier ist ja
+
+700
+00:27:31,800 --> 00:27:33,340
+ein rechter Winkel zwischen, denn die
+
+701
+00:27:33,340 --> 00:27:34,380
+Achsen stehen rechtwinklig
+
+702
+00:27:34,380 --> 00:27:36,940
+aufeinander und wir verfahren immer
+
+703
+00:27:36,940 --> 00:27:38,940
+parallel zu den Achsen. Deswegen hier
+
+704
+00:27:38,940 --> 00:27:41,280
+ist ein rechter Winkel. Der Abstand D
+
+705
+00:27:41,280 --> 00:27:44,580
+ist damit die Hypotenuse. x2-x1 ist
+
+706
+00:27:44,580 --> 00:27:47,320
+eine Kathete und y2-y1 ist eine
+
+707
+00:27:47,320 --> 00:27:49,300
+Kathete. Durch diese Rechnungen hier,
+
+708
+00:27:49,320 --> 00:27:51,780
+y2-y1, berechnet man immer die Länge.
+
+709
+00:27:52,500 --> 00:27:55,200
+ja gleiches gilt für x2 minus x1 mit
+
+710
+00:27:55,200 --> 00:27:56,380
+berechnet war auch die länge des
+
+711
+00:27:56,380 --> 00:27:59,760
+schenkels und der platz des
+
+712
+00:27:59,760 --> 00:28:02,740
+pythagoras sagt ja die hypotenuse zum
+
+713
+00:28:02,740 --> 00:28:05,080
+quadrat ist gleich der der summe des
+
+714
+00:28:05,080 --> 00:28:07,740
+katheten quadrats und wenn man das
+
+715
+00:28:07,740 --> 00:28:09,680
+umformt erhält man so die ist gleich
+
+716
+00:28:09,680 --> 00:28:12,320
+die wurzel aus y2 minus y1 zum
+
+717
+00:28:12,320 --> 00:28:14,700
+quadrat plus x2 minus x1 zum Quadrat.
+
+718
+00:28:15,100 --> 00:28:16,680
+Wir haben das Ganze mal mit den
+
+719
+00:28:16,680 --> 00:28:20,740
+Punkten p2,3 und q5,7 gemacht. Das
+
+720
+00:28:20,740 --> 00:28:23,420
+ist ja unsere x1-Koordinate, das ist
+
+721
+00:28:23,420 --> 00:28:25,580
+unsere y1-Koordinate, das ist unsere
+
+722
+00:28:25,580 --> 00:28:28,020
+x2-Koordinate und das ist unsere y2
+
+723
+00:28:28,020 --> 00:28:31,000
+-Koordinate. Wir erhalten so die
+
+724
+00:28:31,000 --> 00:28:33,660
+Wurzel aus 7 minus 3 hoch 2 plus 5
+
+725
+00:28:33,660 --> 00:28:35,420
+minus 2 hoch 2. Ich würde immer
+
+726
+00:28:35,420 --> 00:28:36,580
+empfehlen, erst die Rechnung hier
+
+727
+00:28:36,580 --> 00:28:38,380
+drunter auszuführen. 7 minus 3 sind
+
+728
+00:28:38,380 --> 00:28:40,900
+4. So haben wir 4 zum Quadrat. Das
+
+729
+00:28:40,900 --> 00:28:42,680
+ist 16. Auf keinen Fall die Glieder
+
+730
+00:28:42,680 --> 00:28:45,040
+hier einzeln drin quadrieren. Dafür
+
+731
+00:28:45,040 --> 00:28:46,260
+bräuchte man die binomische Formel.
+
+732
+00:28:46,280 --> 00:28:47,560
+Deswegen erst die Rechnung in den
+
+733
+00:28:47,560 --> 00:28:49,380
+Klammern ausführen, dann quadrieren.
+
+734
+00:28:50,460 --> 00:28:52,560
+Hier rechts haben wir 5 minus 2. Das
+
+735
+00:28:52,560 --> 00:28:54,720
+ist eine 3 und 3 hoch 2 ist 9. Wir
+
+736
+00:28:54,720 --> 00:28:57,160
+kommen also auf die Wurzel von 16
+
+737
+00:28:57,160 --> 00:29:00,720
+plus 9. 16 plus 9 sind 25. auf keinen
+
+738
+00:29:00,720 --> 00:29:02,000
+Fall die Wurzel in Einzelnen ziehen.
+
+739
+00:29:02,640 --> 00:29:04,840
+Und die Wurzel aus der 25 ist dann
+
+740
+00:29:04,840 --> 00:29:06,500
+die 5. Das heißt, wir können sagen,
+
+741
+00:29:06,620 --> 00:29:07,640
+der Abstand zwischen den beiden
+
+742
+00:29:07,640 --> 00:29:10,000
+Punkten beträgt 5 Längeneinheiten.
+
+743
+00:29:10,820 --> 00:29:12,680
+Und damit sind wir dann auch am Ende
+
+744
+00:29:12,680 --> 00:29:14,560
+des Webinars. Ich bedanke mich recht
+
+745
+00:29:14,560 --> 00:29:16,020
+herzlich für eure Aufmerksamkeit.
+

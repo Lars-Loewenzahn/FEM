@@ -1,0 +1,752 @@
+1
+00:00:00,000 --> 00:00:01,900
+Willkommen bei unserem Webinar über
+
+2
+00:00:01,900 --> 00:00:06,440
+das Thema Analyse von Filmen. Bevor
+
+3
+00:00:06,440 --> 00:00:11,240
+wir anfangen, anzusehen, schauen wir
+
+4
+00:00:11,240 --> 00:00:16,620
+uns die Filme an. Wenn man die Filme
+
+5
+00:00:16,620 --> 00:00:18,860
+analysiert, wird man meistens eine
+
+6
+00:00:18,860 --> 00:00:21,920
+Sequenz bekommen. Eine Sequenz zeigt
+
+7
+00:00:21,920 --> 00:00:23,820
+nur ein paar Minuten von einem Film.
+
+8
+00:00:24,680 --> 00:00:27,040
+In dem Fall, besonders wenn man ein
+
+9
+00:00:27,040 --> 00:00:29,380
+Examen über Analysen von Filmen
+
+10
+00:00:29,380 --> 00:00:32,520
+macht, wird man eine Sequenz von zwei
+
+11
+00:00:32,520 --> 00:00:34,900
+Filmen sehen. Diese Sequenzen können
+
+12
+00:00:34,900 --> 00:00:36,940
+mit einem Text über den Film
+
+13
+00:00:36,940 --> 00:00:38,700
+kombiniert werden, zum Beispiel eine
+
+14
+00:00:38,700 --> 00:00:42,740
+Review oder so etwas. Sie werden
+
+15
+00:00:42,740 --> 00:00:46,100
+diese Sequenzen analysieren, oder die
+
+16
+00:00:46,100 --> 00:00:47,860
+Sequenz, abhängig davon, wie viele
+
+17
+00:00:47,860 --> 00:00:50,380
+Sie sehen werden, while taking the
+
+18
+00:00:50,380 --> 00:00:52,120
+additional text into consideration.
+
+19
+00:00:53,500 --> 00:00:55,920
+There will be two leading questions
+
+20
+00:00:55,920 --> 00:00:59,340
+for analyzing a movie. What is
+
+21
+00:00:59,340 --> 00:01:04,260
+happening and how is it shown? So
+
+22
+00:01:04,260 --> 00:01:06,960
+before we can talk about how it is
+
+23
+00:01:06,960 --> 00:01:09,560
+shown, let's talk about some basic
+
+24
+00:01:09,560 --> 00:01:14,200
+terms and movie analyzes. We've got
+
+25
+00:01:14,200 --> 00:01:17,180
+the field size, which means the...
+
+26
+00:01:17,760 --> 00:01:19,840
+Einstellungsgröße. Wir sehen später
+
+27
+00:01:19,840 --> 00:01:22,520
+einige Beispiele dafür. Dann haben
+
+28
+00:01:22,520 --> 00:01:26,260
+wir Position, Bewegung und Angle
+
+29
+00:01:26,260 --> 00:01:31,960
+einer Kamera, also die Perspektive,
+
+30
+00:01:32,080 --> 00:01:34,260
+also wo ist die Kamera positioniert,
+
+31
+00:01:34,260 --> 00:01:39,600
+Wie bewegt sich die Kamera? Und an
+
+32
+00:01:39,600 --> 00:01:45,100
+welchem Anglein? Wie ist der Winkler
+
+33
+00:01:45,100 --> 00:01:49,720
+der Kamera, der die Situation filmt?
+
+34
+00:01:49,860 --> 00:01:53,960
+Am Ende ist die Editing, also der
+
+35
+00:01:53,960 --> 00:01:57,800
+Montage, der Schnitt bedeutet. Also
+
+36
+00:01:57,800 --> 00:02:01,340
+fangen wir mit dem Feld-Size an. Es
+
+37
+00:02:01,340 --> 00:02:04,460
+gibt viele verschiedene Feldzahlen,
+
+38
+00:02:04,600 --> 00:02:06,160
+die man in einer Szene filmen kann.
+
+39
+00:02:07,660 --> 00:02:10,220
+Während ein detaillierter Schuss die
+
+40
+00:02:10,220 --> 00:02:12,580
+Beziehung der Zuschauer zu einem
+
+41
+00:02:12,580 --> 00:02:13,480
+bestimmten Objekt attraktiv macht,
+
+42
+00:02:13,480 --> 00:02:15,800
+zeigt ein langer Schuss auch die
+
+43
+00:02:15,800 --> 00:02:18,940
+Umgebung. Auf den nächsten paar
+
+44
+00:02:18,940 --> 00:02:21,200
+Slides findet man verschiedene
+
+45
+00:02:21,200 --> 00:02:24,100
+Feldzahlen, die man in der Bildung
+
+46
+00:02:24,100 --> 00:02:27,460
+sehen kann. hier. Wir beginnen mit
+
+47
+00:02:27,460 --> 00:02:30,440
+einem extremen Schnellzug, welcher,
+
+48
+00:02:30,460 --> 00:02:32,420
+wie Sie sehen, ein extrem
+
+49
+00:02:32,420 --> 00:02:35,280
+geschlossener Schuss eines einzigen
+
+50
+00:02:35,280 --> 00:02:38,560
+Faces oder eines einzigen Objekts
+
+51
+00:02:38,560 --> 00:02:41,760
+ist. Ein bisschen weiter weg ist der
+
+52
+00:02:41,760 --> 00:02:46,360
+Schnellzug und noch weiter weg ist
+
+53
+00:02:46,360 --> 00:02:49,840
+der geschlossene Schuss. Wir
+
+54
+00:02:49,840 --> 00:02:52,880
+fokussieren uns auf eine Person. In
+
+55
+00:02:54,610 --> 00:02:55,950
+einem normalen Schuss kann man
+
+56
+00:02:55,950 --> 00:02:57,930
+bereits sehen, dass es eine Art
+
+57
+00:02:57,930 --> 00:03:00,910
+Interaktion zwischen Charakteren
+
+58
+00:03:00,910 --> 00:03:03,950
+gibt, was besser in der mittleren
+
+59
+00:03:03,950 --> 00:03:06,900
+Schauung gezeigt wird. Wenn wir
+
+60
+00:03:06,900 --> 00:03:12,180
+weiter weg gehen wollen, benutzen wir
+
+61
+00:03:12,180 --> 00:03:14,900
+einen langen Schuss oder wenn wir die
+
+62
+00:03:14,900 --> 00:03:17,700
+ganze Szene zeigen wollen, einen
+
+63
+00:03:17,700 --> 00:03:20,400
+vollen Schuss, der sich wiederum die
+
+64
+00:03:20,400 --> 00:03:22,660
+ganze Bildung an der Anfangszeit
+
+65
+00:03:22,660 --> 00:03:22,680
+sieht.
+
+66
+00:03:28,250 --> 00:03:31,290
+Schauen wir uns die Kamera an. Wir
+
+67
+00:03:31,290 --> 00:03:33,270
+sprechen über Cinematographie.
+
+68
+00:03:34,810 --> 00:03:37,450
+Cinematographie bringt Bewegung zur
+
+69
+00:03:37,450 --> 00:03:41,870
+Bildung. Wie bewegt sich die Kamera?
+
+70
+00:03:43,610 --> 00:03:45,930
+Ein besonderes Beispiel dafür ist das
+
+71
+00:03:45,930 --> 00:03:48,610
+Tracking Shot. Das bedeutet, dass die
+
+72
+00:03:48,610 --> 00:03:52,090
+Kamera mit einem Objekt bewegt. Das
+
+73
+00:03:52,090 --> 00:03:54,430
+könnte ein Auto sein oder ein Tier,
+
+74
+00:03:54,570 --> 00:03:57,410
+das sich über einen Weg dreht. und es
+
+75
+00:03:57,410 --> 00:04:01,050
+aufschreibt. Um das zu tun, wird die
+
+76
+00:04:01,050 --> 00:04:03,470
+Kamera auf Rädern befestigt und folgt
+
+77
+00:04:03,470 --> 00:04:03,930
+dem Objekt.
+
+78
+00:04:06,640 --> 00:04:09,150
+Vertikale oder horizontal Pans und
+
+79
+00:04:09,150 --> 00:04:11,590
+Crane Shirts beschreiben Techniken,
+
+80
+00:04:11,710 --> 00:04:14,050
+in denen die Kamera flexibel in
+
+81
+00:04:14,050 --> 00:04:16,010
+verschiedene Richtungen gewechselt
+
+82
+00:04:16,010 --> 00:04:17,870
+werden kann. Also nicht nur in einer
+
+83
+00:04:17,870 --> 00:04:20,450
+Richtung wie auf der Räder, sondern
+
+84
+00:04:20,450 --> 00:04:23,150
+auch in verschiedenen Richtungen. Der
+
+85
+00:04:29,170 --> 00:04:32,990
+Kameraangl bedeutet Das bedeutet, die
+
+86
+00:04:32,990 --> 00:04:35,930
+Position der Kamera zu verändern, um
+
+87
+00:04:35,930 --> 00:04:38,430
+die Situation zu filmen. Also, um
+
+88
+00:04:38,430 --> 00:04:39,730
+verschiedene Punkte zu erreichen,
+
+89
+00:04:43,600 --> 00:04:46,120
+die sich auf Details konzentrieren
+
+90
+00:04:46,120 --> 00:04:48,700
+oder die Atmosphäre des Sees
+
+91
+00:04:48,700 --> 00:04:50,480
+verändern. Einige gemeinsame Punkte
+
+92
+00:04:50,480 --> 00:04:52,540
+der Sicht sind der Eingangsschnitt,
+
+93
+00:04:52,780 --> 00:04:55,480
+der die Perspektive des Charakters
+
+94
+00:04:55,480 --> 00:04:57,560
+aus dem Blickwinkel ist. So, du
+
+95
+00:04:57,560 --> 00:05:00,140
+siehst, was ein Charakter sieht, an
+
+96
+00:05:00,140 --> 00:05:03,840
+diesem Moment. Oder die Überhaut, die
+
+97
+00:05:03,840 --> 00:05:06,480
+ist, wenn die Kamera über der Szene
+
+98
+00:05:06,480 --> 00:05:09,520
+ist. Sie ist auch die Auge-Aufgabe
+
+99
+00:05:09,520 --> 00:05:11,520
+der Böse. Weil es eine Aufgabe ist,
+
+100
+00:05:11,520 --> 00:05:13,480
+die ein fliegender Böse hätte, wenn
+
+101
+00:05:13,480 --> 00:05:15,040
+er auf der Szene nach unten geschaut
+
+102
+00:05:18,950 --> 00:05:23,910
+Wenn ein Film fertig ist, wird er
+
+103
+00:05:23,910 --> 00:05:26,770
+gedreht, um um einzelne Fotos oder
+
+104
+00:05:26,770 --> 00:05:29,010
+Fotos in Ordnung zu stellen. Einige
+
+105
+00:05:29,010 --> 00:05:30,390
+gemeinsame Methoden dafür sind
+
+106
+00:05:30,390 --> 00:05:36,450
+Flashbacks, also Szenen, die zeigen,
+
+107
+00:05:36,670 --> 00:05:38,530
+dass ein Zeitpunkt bereits passiert
+
+108
+00:05:38,530 --> 00:05:42,370
+ist. Es gibt Splitt-Screens, die zwei
+
+109
+00:05:42,370 --> 00:05:45,270
+Aktionen auf einmal auf einem Bild
+
+110
+00:05:45,270 --> 00:05:48,250
+zeigen. Es gibt Fade-Ins und Fade
+
+111
+00:05:48,250 --> 00:05:50,550
+-Outs, also eine Szene, die aussehen
+
+112
+00:05:50,550 --> 00:05:54,990
+oder aussehen muss. oder Crossfades,
+
+113
+00:05:55,090 --> 00:05:57,130
+das bedeutet, dass eine Szene
+
+114
+00:05:57,130 --> 00:06:00,090
+verschwindet und in dieser Zeit eine
+
+115
+00:06:00,090 --> 00:06:05,830
+andere erscheint. Es ist also wie ein
+
+116
+00:06:05,830 --> 00:06:09,390
+Ausfall
+
+117
+00:06:09,390 --> 00:06:11,990
+einer Szene mit einer gleichmäßigen
+
+118
+00:06:11,990 --> 00:06:13,790
+Ausfallung einer anderen.
+
+119
+00:06:17,600 --> 00:06:19,960
+Einige der wichtigsten Teile eines
+
+120
+00:06:19,960 --> 00:06:23,000
+Films sind Musik, Sprache und
+
+121
+00:06:23,000 --> 00:06:26,180
+Geräusche. Sie ... naja, sie könnten
+
+122
+00:06:26,180 --> 00:06:27,680
+nicht ... nicht so beeindruckend wie
+
+123
+00:06:27,680 --> 00:06:29,820
+die visuellen Impressionen, sie
+
+124
+00:06:29,820 --> 00:06:32,320
+können Emotionen und Erfahrungen
+
+125
+00:06:32,320 --> 00:06:33,440
+aufmerksam machen. Dafür ist
+
+126
+00:06:33,440 --> 00:06:37,420
+besonders Musik wichtig in Filmen.
+
+127
+00:06:38,040 --> 00:06:43,640
+Wie jeder, der einen Horrorfilm
+
+128
+00:06:43,640 --> 00:06:46,020
+gesehen hat, weiß, dass Musik
+
+129
+00:06:46,020 --> 00:06:50,780
+wirklich die Atmosphäre darin
+
+130
+00:06:50,780 --> 00:06:53,960
+unterliegt. da. Die Anhaltsfälle
+
+131
+00:06:53,960 --> 00:06:56,380
+werden oft mit visualisierenden
+
+132
+00:06:56,380 --> 00:06:58,740
+Impressionen intensifiziert. Nun,
+
+133
+00:07:00,720 --> 00:07:02,860
+lasst uns über einen Film
+
+134
+00:07:02,860 --> 00:07:06,540
+analysieren. Die Struktur eines
+
+135
+00:07:06,540 --> 00:07:10,140
+Filmanalyses ist fast immer gleich.
+
+136
+00:07:11,020 --> 00:07:12,880
+Wir beginnen mit einer Vorstellung,
+
+137
+00:07:13,260 --> 00:07:16,940
+geben einen kurzen Summary of the
+
+138
+00:07:16,940 --> 00:07:20,140
+events in the movie and then
+
+139
+00:07:20,140 --> 00:07:23,740
+characterize the characters that
+
+140
+00:07:23,740 --> 00:07:28,620
+appear in that story. After that you
+
+141
+00:07:28,620 --> 00:07:31,820
+analyze the filming techniques and
+
+142
+00:07:31,820 --> 00:07:34,060
+end it off with the conclusion of
+
+143
+00:07:34,060 --> 00:07:38,380
+your arguments. On analyzing
+
+144
+00:07:38,380 --> 00:07:41,080
+characters it is important to deal
+
+145
+00:07:41,080 --> 00:07:42,980
+with the characters and their
+
+146
+00:07:42,980 --> 00:07:45,900
+relation. You have to pay attention
+
+147
+00:07:45,900 --> 00:07:48,760
+die Außenbeziehungen der Charaktere
+
+148
+00:07:48,760 --> 00:07:51,980
+und wie sie sie ausüben. Welche Art
+
+149
+00:07:51,980 --> 00:07:54,040
+von Ausdruck benutzen sie und ist
+
+150
+00:07:54,040 --> 00:07:56,740
+ihre Sprache wichtig? Benutzen sie
+
+151
+00:07:56,740 --> 00:07:59,340
+einen starken Dialekt oder benutzen
+
+152
+00:07:59,340 --> 00:08:03,520
+sie bestimmte Wörter von Slang? Haben
+
+153
+00:08:03,520 --> 00:08:05,340
+sie vielleicht einen oder mehr
+
+154
+00:08:05,340 --> 00:08:09,940
+Sprachunterschiede? Und wie sind die
+
+155
+00:08:09,940 --> 00:08:13,200
+Charaktere zu sich selbst verbunden?
+
+156
+00:08:13,200 --> 00:08:17,400
+Wie verhalten sie sich in bestimmten
+
+157
+00:08:17,400 --> 00:08:20,680
+Gruppen? Wie behandeln sie andere
+
+158
+00:08:20,680 --> 00:08:25,520
+Charaktere? Es ist wichtig, dass man
+
+159
+00:08:25,520 --> 00:08:28,920
+die Verhältnisse zu anderen
+
+160
+00:08:28,920 --> 00:08:32,580
+Charakteren versteht. Wenn man
+
+161
+00:08:32,580 --> 00:08:35,640
+Filmtechniken analysiert, sollte man
+
+162
+00:08:35,640 --> 00:08:37,800
+nicht nur erkennen, welche
+
+163
+00:08:37,800 --> 00:08:39,760
+Filmtechniken benutzt werden, sondern
+
+164
+00:08:39,760 --> 00:08:41,780
+man muss auch erklären, warum sie
+
+165
+00:08:41,780 --> 00:08:43,500
+benutzt werden, welchen Effekt sie
+
+166
+00:08:43,500 --> 00:08:45,940
+vermitteln. Wir haben hier einige
+
+167
+00:08:45,940 --> 00:08:50,300
+Fragen, um euch zu helfen, welche
+
+168
+00:08:50,300 --> 00:08:53,660
+Effekte sie vermitteln können oder
+
+169
+00:08:53,660 --> 00:08:55,360
+warum sie benutzt werden. Sie können
+
+170
+00:08:55,360 --> 00:08:58,140
+sich fragen, warum eine Person in
+
+171
+00:08:58,140 --> 00:09:00,520
+einer extremen Verbindung in dieser
+
+172
+00:09:00,520 --> 00:09:02,480
+Szene gezeigt wird. Welchen Benutzung
+
+173
+00:09:02,480 --> 00:09:04,920
+könnte das haben? Oder warum sind die
+
+174
+00:09:04,920 --> 00:09:07,280
+Szenen durch Crossfades verbunden?
+
+175
+00:09:07,900 --> 00:09:10,140
+Warum ist genau diese Szene jetzt
+
+176
+00:09:10,140 --> 00:09:12,920
+ausgeschlossen, um Raum für diese
+
+177
+00:09:12,920 --> 00:09:15,440
+Szene zu machen? Welche Atmosphäre
+
+178
+00:09:15,440 --> 00:09:18,840
+gibt die Musik? Warum könnte diese
+
+179
+00:09:18,840 --> 00:09:24,180
+Musik gewählt werden? Und warum
+
+180
+00:09:24,180 --> 00:09:26,480
+benutzt der Stage Director diese
+
+181
+00:09:26,480 --> 00:09:30,220
+exakten Filmmöglichkeiten? Wenn Sie
+
+182
+00:09:30,220 --> 00:09:32,460
+diese Fragen beantworten können,
+
+183
+00:09:32,480 --> 00:09:37,020
+können Sie eine richtige Analyse von
+
+184
+00:09:37,020 --> 00:09:43,240
+Filmtechniken schreiben. So, and with
+
+185
+00:09:43,240 --> 00:09:45,520
+that we are already at the end of our
+
+186
+00:09:45,520 --> 00:09:47,920
+webinar. I want to thank you for your
+
+187
+00:09:47,920 --> 00:09:50,200
+attention and hope you have a nice
+
+188
+00:09:50,200 --> 00:09:50,500
+day.
+

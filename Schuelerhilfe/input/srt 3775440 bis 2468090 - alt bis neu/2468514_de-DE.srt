@@ -1,0 +1,1240 @@
+1
+00:00:01,520 --> 00:00:03,220
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,220 --> 00:00:06,340
+Grundrechenarten Division. Wir werden
+
+3
+00:00:06,340 --> 00:00:07,920
+uns heute mit der Division befassen,
+
+4
+00:00:07,980 --> 00:00:09,880
+das heißt mit dem geteilt rechnen.
+
+5
+00:00:09,960 --> 00:00:11,780
+Wir schauen uns dazu erst ein kleines
+
+6
+00:00:11,780 --> 00:00:13,340
+Beispiel an und schauen uns auch an,
+
+7
+00:00:13,380 --> 00:00:14,940
+was dabei wichtig ist, also was bei
+
+8
+00:00:14,940 --> 00:00:16,700
+der Division wichtig zu beachten ist.
+
+9
+00:00:17,160 --> 00:00:18,700
+Danach schauen wir uns die Division
+
+10
+00:00:18,700 --> 00:00:21,020
+durch eine Zehnerzahl an und
+
+11
+00:00:21,020 --> 00:00:22,620
+anschließend die schriftliche
+
+12
+00:00:22,620 --> 00:00:24,580
+Division. Bei der schriftlichen
+
+13
+00:00:24,580 --> 00:00:26,020
+Division haben wir auch drei
+
+14
+00:00:26,020 --> 00:00:27,560
+Beispiele. Wir werden auch die
+
+15
+00:00:27,560 --> 00:00:29,760
+Division mit Rest behandeln, das
+
+16
+00:00:29,760 --> 00:00:32,100
+heißt wir werden keine Zahlen mit
+
+17
+00:00:32,100 --> 00:00:34,480
+Komma behandeln. Ganz zum Schluss
+
+18
+00:00:34,480 --> 00:00:35,640
+haben wir auch noch eine kleine
+
+19
+00:00:35,640 --> 00:00:39,160
+Umkehraufgabe. Fangen wir mit der
+
+20
+00:00:39,160 --> 00:00:41,840
+Division an. Und zwar, wir haben hier
+
+21
+00:00:41,840 --> 00:00:44,080
+gleich eine Division, 15 geteilt
+
+22
+00:00:44,080 --> 00:00:47,640
+durch 5, das ist 3. Und die Frage ist
+
+23
+00:00:47,640 --> 00:00:49,800
+jetzt, wie stellen wir uns das vor
+
+24
+00:00:49,800 --> 00:00:50,700
+oder wie kann man sich das
+
+25
+00:00:50,700 --> 00:00:54,240
+vorstellen? Als erstes, die 15 werden
+
+26
+00:00:54,240 --> 00:00:56,420
+hier durch 15 Plättchen... und wir
+
+27
+00:00:56,420 --> 00:00:59,840
+versuchen diese 15 Plättchen, weil
+
+28
+00:00:59,840 --> 00:01:02,600
+wir durch 5 teilen, in 5er Gruppen
+
+29
+00:01:02,600 --> 00:01:05,540
+aufzustellen. In dem Fall, die 5
+
+30
+00:01:05,540 --> 00:01:07,680
+passt ja ganz zahlig in die 15
+
+31
+00:01:07,680 --> 00:01:10,160
+Reihen, daher haben wir keinen Rest.
+
+32
+00:01:10,320 --> 00:01:11,820
+Hätten wir jetzt zum Beispiel die 17,
+
+33
+00:01:12,020 --> 00:01:13,440
+dann würden jetzt hier unten noch 2
+
+34
+00:01:13,440 --> 00:01:16,800
+Plättchen abgebildet sein und das
+
+35
+00:01:16,800 --> 00:01:19,240
+wäre entsprechend unser Rest, den wir
+
+36
+00:01:19,240 --> 00:01:21,760
+hätten. Das heißt, wir können 3
+
+37
+00:01:21,760 --> 00:01:23,800
+Reihen mit jeweils 5 Plättchen
+
+38
+00:01:23,800 --> 00:01:27,160
+bilden. Und hätten dann zwei Rest. In
+
+39
+00:01:27,160 --> 00:01:28,740
+dem Fall haben wir die 15. Das heißt,
+
+40
+00:01:28,760 --> 00:01:29,980
+wir haben kein Rest. Wir sehen hier,
+
+41
+00:01:30,060 --> 00:01:33,900
+wir haben in drei Reihen jeweils fünf
+
+42
+00:01:33,900 --> 00:01:36,140
+Blättchen. Das heißt, 15 geteilt
+
+43
+00:01:36,140 --> 00:01:39,980
+durch 5 sind 1, 2, 3. Weil wir drei
+
+44
+00:01:39,980 --> 00:01:42,820
+Reihen haben. Die Antwort auf die
+
+45
+00:01:42,820 --> 00:01:44,560
+Frage, wie oft passt die 5 in die 15,
+
+46
+00:01:44,680 --> 00:01:46,360
+ist dann also 3 mal.
+
+47
+00:01:49,020 --> 00:01:51,960
+Wichtig bei der Division ist, dass
+
+48
+00:01:51,960 --> 00:01:54,340
+man es nicht vertauschen kann. Wir
+
+49
+00:01:54,340 --> 00:01:56,420
+haben links vom Geteilzeichen den
+
+50
+00:01:56,420 --> 00:01:59,500
+Dividend, rechts davon den Divisor.
+
+51
+00:01:59,880 --> 00:02:01,840
+Das Ergebnis einer Division wird
+
+52
+00:02:01,840 --> 00:02:05,620
+immer Quotient genannt. Der Dividend
+
+53
+00:02:05,620 --> 00:02:07,500
+ist daher die Zahl, die geteilt wird
+
+54
+00:02:07,500 --> 00:02:10,040
+und der Divisor ist die Zahl, mit der
+
+55
+00:02:10,040 --> 00:02:12,480
+geteilt wird. Das heißt für unser
+
+56
+00:02:12,480 --> 00:02:14,680
+Beispiel, die 15 wäre der Dividend
+
+57
+00:02:14,680 --> 00:02:18,020
+und der 5 der Divisor, die 3 wäre
+
+58
+00:02:18,020 --> 00:02:20,400
+entsprechend der Quotient aus 15 und
+
+59
+00:02:20,400 --> 00:02:20,620
+5.
+
+60
+00:02:23,430 --> 00:02:25,450
+Wichtig ist, wie gerade schon gesagt,
+
+61
+00:02:25,670 --> 00:02:26,750
+dass man es nicht vertauschen kann.
+
+62
+00:02:26,830 --> 00:02:28,950
+Wir dürfen Dividend und Divisor nicht
+
+63
+00:02:28,950 --> 00:02:30,610
+tauschen. Das ist ein ganz großer
+
+64
+00:02:30,610 --> 00:02:34,170
+Unterschied zur Multiplikation. Dort
+
+65
+00:02:34,170 --> 00:02:36,090
+dürfen wir zwei Faktoren vertauschen.
+
+66
+00:02:36,230 --> 00:02:38,250
+Bei der Division ist dies nicht so.
+
+67
+00:02:38,490 --> 00:02:40,970
+Denn 15 geteilt durch 5 ist 3, wie
+
+68
+00:02:40,970 --> 00:02:43,110
+wir gerade festgestellt haben. Und 5
+
+69
+00:02:43,110 --> 00:02:45,430
+geteilt durch 15, das können wir gar
+
+70
+00:02:45,430 --> 00:02:46,550
+nicht berechnen, weil wir sehen auf
+
+71
+00:02:46,550 --> 00:02:49,430
+einmal, der Dividend ist kleiner als
+
+72
+00:02:49,430 --> 00:02:50,150
+der Divisor.
+
+73
+00:02:53,810 --> 00:02:56,710
+0 rausbekommen, also 0 Komma und das
+
+74
+00:02:56,710 --> 00:02:58,430
+behandelt ihr erst später, also in
+
+75
+00:02:58,430 --> 00:03:00,650
+der 5. oder 6. Klasse. Das kann man
+
+76
+00:03:00,650 --> 00:03:02,610
+natürlich auch berechnen, macht ihr
+
+77
+00:03:02,610 --> 00:03:04,330
+aber später und ist daher für uns
+
+78
+00:03:04,330 --> 00:03:06,290
+erstmal uninteressant. Ich denke
+
+79
+00:03:06,290 --> 00:03:08,090
+aber, man sieht hier sehr gut, dass
+
+80
+00:03:08,090 --> 00:03:09,870
+man es trotzdem nicht vertauschen
+
+81
+00:03:09,870 --> 00:03:13,090
+darf, auf keinen Fall. Das Ganze kann
+
+82
+00:03:13,090 --> 00:03:14,390
+man auch allgemein formulieren, a
+
+83
+00:03:14,390 --> 00:03:16,330
+geteilt durch b ist ungleich b
+
+84
+00:03:16,330 --> 00:03:19,150
+geteilt durch a. Wichtig dabei ist,
+
+85
+00:03:19,190 --> 00:03:20,550
+es gilt natürlich nur, wenn a A und B
+
+86
+00:03:20,550 --> 00:03:22,750
+nicht die gleichen Zahlen sind. Das
+
+87
+00:03:22,750 --> 00:03:24,650
+ist aber fast nie folglich. Merkt
+
+88
+00:03:24,650 --> 00:03:26,390
+euch bitte, vertauscht niemals
+
+89
+00:03:26,390 --> 00:03:30,170
+Dividend und Divisor. Wir haben hier
+
+90
+00:03:30,170 --> 00:03:31,890
+ein weiteres Beispiel, 14 geteilt
+
+91
+00:03:31,890 --> 00:03:35,610
+durch 7. 14 ist wie gesagt der
+
+92
+00:03:35,610 --> 00:03:38,490
+Dividend, 7 der Divisor. Und unsere
+
+93
+00:03:38,490 --> 00:03:40,150
+Technik hierbei ist wieder die 14
+
+94
+00:03:40,150 --> 00:03:42,890
+durch 7er Päckchen darzustellen. Das
+
+95
+00:03:42,890 --> 00:03:45,370
+heißt, wir schreiben oder wir malen
+
+96
+00:03:45,370 --> 00:03:47,290
+immer 7 Plättchen nebeneinander, bis
+
+97
+00:03:47,290 --> 00:03:49,110
+wir alle 14 aufgebraucht haben. Das
+
+98
+00:03:49,110 --> 00:03:51,250
+heißt, das passt hier genau 2 rein.
+
+99
+00:03:52,150 --> 00:03:54,890
+Und so wissen wir, 14 geteilt durch 7
+
+100
+00:03:54,890 --> 00:03:57,890
+ist 2. Das lässt sich dadurch
+
+101
+00:03:57,890 --> 00:03:59,510
+erkennen, dass hier immer 2 Plättchen
+
+102
+00:03:59,510 --> 00:04:00,290
+übereinander stehen.
+
+103
+00:04:04,090 --> 00:04:06,510
+Divisionen durch eine Zehnerzahl. Das
+
+104
+00:04:06,510 --> 00:04:08,390
+Teilen durch eine Zehnerzahl, das
+
+105
+00:04:08,390 --> 00:04:11,250
+heißt durch 10, 100 oder 1000, ist
+
+106
+00:04:11,250 --> 00:04:13,010
+gar nicht schwer bei der Division.
+
+107
+00:04:13,770 --> 00:04:15,790
+Denn wenn wir durch eine Zehnerzahl
+
+108
+00:04:15,790 --> 00:04:18,290
+teilen, also dividieren, müssen wir
+
+109
+00:04:18,290 --> 00:04:20,630
+nichts weiter tun als die Anzahl. der
+
+110
+00:04:20,630 --> 00:04:23,650
+nullen der 10er zahl bei unseren
+
+111
+00:04:23,650 --> 00:04:27,690
+dividenden wegzunehmen das heißt 70
+
+112
+00:04:27,690 --> 00:04:30,010
+geteilt durch 10 wir sehen hier die
+
+113
+00:04:30,010 --> 00:04:31,830
+10 hat eine null daher nehmen wir der
+
+114
+00:04:31,830 --> 00:04:33,650
+70 eine null weg und erhalten so die
+
+115
+00:04:33,650 --> 00:04:40,130
+7 3500 geteilt durch 100 wir sehen
+
+116
+00:04:40,130 --> 00:04:43,850
+die 3500 hat zwei nullen die 100 hat
+
+117
+00:04:43,850 --> 00:04:45,450
+auch zwei nullen und daher nehmen
+
+118
+00:04:45,450 --> 00:04:48,550
+wird der 3500 die zwei nullen weg Wir
+
+119
+00:04:48,550 --> 00:04:49,690
+erhalten dann die 35.
+
+120
+00:04:53,050 --> 00:04:55,370
+451.000. Wir sehen, wir haben drei
+
+121
+00:04:55,370 --> 00:04:58,070
+Nullen und wir teilen das durch 10.
+
+122
+00:04:58,190 --> 00:04:59,970
+Das heißt, wir nehmen eine Null weg
+
+123
+00:04:59,970 --> 00:05:03,630
+und wir erhalten so 45.100. Wir sehen
+
+124
+00:05:03,630 --> 00:05:05,590
+also, wir haben nur noch zwei Nullen.
+
+125
+00:05:05,650 --> 00:05:09,570
+3 minus 1 sind zwei Nullen. 2 minus 2
+
+126
+00:05:09,570 --> 00:05:11,290
+ist null, also gar keine Nullen mehr.
+
+127
+00:05:11,490 --> 00:05:14,190
+Und hier das gleiche. Also immer wenn
+
+128
+00:05:14,190 --> 00:05:16,510
+man durch eine 10er Zahl teilt, wird
+
+129
+00:05:16,510 --> 00:05:19,770
+einfach die Anzahl an Nullen
+
+130
+00:05:19,770 --> 00:05:20,350
+weggenommen.
+
+131
+00:05:22,960 --> 00:05:27,210
+Gut, die Division von kleinen Zahlen
+
+132
+00:05:27,210 --> 00:05:28,790
+lässt sich durch die Umkehrrechnung
+
+133
+00:05:28,790 --> 00:05:32,210
+berechnen. Das heißt, womit muss ich
+
+134
+00:05:32,210 --> 00:05:34,370
+eine Zahl mal nehmen, um eine andere
+
+135
+00:05:34,370 --> 00:05:38,650
+Zahl zu erhalten? Das heißt zum
+
+136
+00:05:38,650 --> 00:05:41,130
+Beispiel, womit muss ich die 5 mal
+
+137
+00:05:41,130 --> 00:05:43,030
+nehmen, um die 35 zu erhalten?
+
+138
+00:05:45,390 --> 00:05:46,890
+einfachsten kann man solche Aufgaben
+
+139
+00:05:46,890 --> 00:05:49,130
+mit dem kleinen 1x1 lösen. Das heißt,
+
+140
+00:05:49,170 --> 00:05:50,510
+wenn man dieses kennt, ist man da
+
+141
+00:05:50,510 --> 00:05:53,410
+schon mal im Vorteil. Mit größer
+
+142
+00:05:53,410 --> 00:05:54,770
+werdenden Zahlen ist natürlich das
+
+143
+00:05:54,770 --> 00:05:56,510
+Problem, das kleine 1x1 hört bei
+
+144
+00:05:56,510 --> 00:05:59,590
+10x10 auf. Und solche Aufgaben kann
+
+145
+00:05:59,590 --> 00:06:01,350
+man natürlich auch mit beliebig
+
+146
+00:06:01,350 --> 00:06:04,210
+großen Zahlen machen. Daher braucht
+
+147
+00:06:04,210 --> 00:06:06,990
+man die schriftliche Division. Die
+
+148
+00:06:06,990 --> 00:06:09,690
+ist bei großen Zahlen von Vorteil.
+
+149
+00:06:09,810 --> 00:06:11,090
+Man muss für die schriftliche
+
+150
+00:06:11,090 --> 00:06:12,670
+Division aber auch das kleine 1x1
+
+151
+00:06:12,670 --> 00:06:15,690
+kennen. Bei der schriftlichen
+
+152
+00:06:15,690 --> 00:06:17,670
+Division gibt es eigentlich zwei
+
+153
+00:06:17,670 --> 00:06:19,210
+Prinzipien. Man kann die schriftliche
+
+154
+00:06:19,210 --> 00:06:21,290
+Division mit Rest ausführen, das
+
+155
+00:06:21,290 --> 00:06:22,990
+machen wir auch im Folgenden. Man
+
+156
+00:06:22,990 --> 00:06:25,030
+kann sie aber auch mit Kommazahlen
+
+157
+00:06:25,030 --> 00:06:26,870
+ausführen, das machen wir hier nicht.
+
+158
+00:06:26,930 --> 00:06:29,050
+Das wird, wie gesagt, später noch
+
+159
+00:06:29,050 --> 00:06:32,070
+behandelt, also in höheren Stufen.
+
+160
+00:06:34,510 --> 00:06:36,110
+Und damit wären wir auch schon bei
+
+161
+00:06:36,110 --> 00:06:37,250
+unserer Beispielaufgabe. Unser
+
+162
+00:06:37,250 --> 00:06:40,490
+Beispiel lautet 424 geteilt durch 4.
+
+163
+00:06:40,690 --> 00:06:43,570
+Bei der schriftlichen Division nehmen
+
+164
+00:06:43,570 --> 00:06:45,170
+wir uns immer die Zahlen von links,
+
+165
+00:06:45,250 --> 00:06:46,410
+das heißt es ist hier die 4 und
+
+166
+00:06:46,410 --> 00:06:47,970
+überlegen, wie oft passt unser
+
+167
+00:06:47,970 --> 00:06:50,270
+Dividend, die auch 4 in dem Fall,
+
+168
+00:06:50,550 --> 00:06:54,830
+passt er da ganz zahlig rein. Wie oft
+
+169
+00:06:54,830 --> 00:06:56,210
+passt die 4 also ganz zahlig in die
+
+170
+00:06:56,210 --> 00:06:58,830
+4? Das ist einmal, deswegen ziehen
+
+171
+00:06:58,830 --> 00:07:02,710
+wir einmal 4 ab, also minus 4. Jetzt
+
+172
+00:07:02,710 --> 00:07:03,650
+haben wir hier eine kleine
+
+173
+00:07:03,650 --> 00:07:05,830
+Subtraktion, 4 minus 4, diese führen
+
+174
+00:07:05,830 --> 00:07:10,110
+wir aus, das ist dann eine 0. Und wir
+
+175
+00:07:10,110 --> 00:07:11,390
+holen uns jetzt die nächste Zahl
+
+176
+00:07:11,390 --> 00:07:14,550
+runter, die 2. Jetzt haben wir da
+
+177
+00:07:14,550 --> 00:07:16,410
+stehen 2. Jetzt überlegen wir, wie
+
+178
+00:07:16,410 --> 00:07:17,990
+oft passt die 4 ganz deutlich in die
+
+179
+00:07:17,990 --> 00:07:21,910
+2. Wir stellen fest, das geht ja gar
+
+180
+00:07:21,910 --> 00:07:24,910
+nicht, denn die 2 ist kleiner als die
+
+181
+00:07:24,910 --> 00:07:27,510
+4. Folglich haben wir hier eine 0
+
+182
+00:07:27,510 --> 00:07:31,500
+stehen. Als nächstes holen wir uns
+
+183
+00:07:31,500 --> 00:07:34,120
+daher die nächste Ziffer runter. Das
+
+184
+00:07:34,120 --> 00:07:36,240
+ist hier die 4 und wir erhalten die
+
+185
+00:07:36,240 --> 00:07:39,340
+24. Und jetzt überlegen wir uns
+
+186
+00:07:39,340 --> 00:07:41,560
+wieder, wie oft passt die 4 in die
+
+187
+00:07:41,560 --> 00:07:45,500
+24? Das sind in dem Fall 6 mal. Das
+
+188
+00:07:45,500 --> 00:07:48,840
+heißt, wir ziehen 24 ab und es bleibt
+
+189
+00:07:48,840 --> 00:07:52,100
+0 übrig. Das Ergebnis ist dann 106.
+
+190
+00:07:54,130 --> 00:07:55,730
+Ich denke, ihr habt gemerkt, dass es
+
+191
+00:07:55,730 --> 00:07:57,730
+wirklich wichtig ist, das kleine 1
+
+192
+00:07:57,730 --> 00:07:59,430
+mal 1 für die schriftliche Division
+
+193
+00:07:59,430 --> 00:08:02,150
+zu beherrschen, damit man einfach auf
+
+194
+00:08:02,150 --> 00:08:06,520
+die Faktoren hier hinten kommt. Wir
+
+195
+00:08:06,520 --> 00:08:07,500
+haben hier noch ein weiteres Beispiel
+
+196
+00:08:07,500 --> 00:08:11,700
+dazu. 938 geteilt durch 7. Als erstes
+
+197
+00:08:11,700 --> 00:08:13,160
+fangen wir wieder an. Wie oft passt
+
+198
+00:08:13,160 --> 00:08:16,840
+die 7 in die 9 ganzzahlig? Einmal.
+
+199
+00:08:17,560 --> 00:08:19,100
+Dann schreiben wir hier eine 1 hin
+
+200
+00:08:19,100 --> 00:08:22,400
+und ziehen 7 ab. 9 minus 7 ist 2.
+
+201
+00:08:23,660 --> 00:08:24,880
+Jetzt holen wir die nächste Zahl
+
+202
+00:08:24,880 --> 00:08:29,020
+unter die 3. Wir erhalten die 23. Wie
+
+203
+00:08:29,020 --> 00:08:31,260
+oft passt die 7 ganzzahlig in die 23?
+
+204
+00:08:32,600 --> 00:08:35,880
+Das ist 3 mal. Wir haben dann minus
+
+205
+00:08:35,880 --> 00:08:40,300
+21, das heißt wir haben 2 übrig. Die
+
+206
+00:08:40,300 --> 00:08:41,900
+nächste Zahl ist die 8. Holen wir uns
+
+207
+00:08:41,900 --> 00:08:44,180
+die 8 runter und überlegen uns, wie
+
+208
+00:08:44,180 --> 00:08:46,680
+oft passt die 7 ganzzahlig in die 28?
+
+209
+00:08:47,580 --> 00:08:48,860
+Viermal, das sind dann nämlich wieder
+
+210
+00:08:48,860 --> 00:08:51,060
+genau 28, deswegen ziehen wir auch 28
+
+211
+00:08:51,060 --> 00:08:54,280
+ab. Und wir haben Rest 0, könnte man
+
+212
+00:08:54,280 --> 00:08:57,100
+sagen. Das heißt, wir können sagen,
+
+213
+00:08:57,240 --> 00:09:01,240
+938 geteilt durch 7 sind 134. 734.
+
+214
+00:09:04,280 --> 00:09:06,180
+Natürlich gibt es oftmals das
+
+215
+00:09:06,180 --> 00:09:08,480
+Problem, dass es nicht genau aufgeht.
+
+216
+00:09:08,520 --> 00:09:10,960
+Wir haben hier so ein Beispiel, 743
+
+217
+00:09:10,960 --> 00:09:14,240
+geteilt durch 3. Das Vorgehen ist
+
+218
+00:09:14,240 --> 00:09:16,960
+genau das gleiche wie gerade, nur am
+
+219
+00:09:16,960 --> 00:09:18,840
+Ende gibt man einen Rest an. Das
+
+220
+00:09:18,840 --> 00:09:20,040
+heißt, wir bearbeiten das jetzt
+
+221
+00:09:20,040 --> 00:09:21,960
+erstmal zusammen und geben am Ende
+
+222
+00:09:21,960 --> 00:09:23,600
+den Rest an und dann habt ihr es
+
+223
+00:09:23,600 --> 00:09:26,780
+wahrscheinlich auch verstanden. 7,
+
+224
+00:09:26,820 --> 00:09:27,840
+also als erstes fangen wir wieder
+
+225
+00:09:27,840 --> 00:09:30,200
+hier an. 7 geteilt durch 3. Wie oft
+
+226
+00:09:30,200 --> 00:09:31,900
+passt die 3 ganzzahlig in die 7? Das
+
+227
+00:09:31,900 --> 00:09:35,240
+ist 2 mal. Also 7 minus 6 rechnen
+
+228
+00:09:35,240 --> 00:09:37,640
+wir. Da haben wir 1. Holen wir uns
+
+229
+00:09:37,640 --> 00:09:39,160
+die nächste Zahl, die 4. Da haben wir
+
+230
+00:09:39,160 --> 00:09:43,300
+eine 14. Die 3 passt 4 mal ganzzahlig
+
+231
+00:09:43,300 --> 00:09:44,760
+in die 14. Das ist dann nämlich 12.
+
+232
+00:09:45,160 --> 00:09:46,420
+Deswegen rechnen wir als nächstes
+
+233
+00:09:46,420 --> 00:09:48,860
+wieder minus 12. Schreiben hier die 4
+
+234
+00:09:48,860 --> 00:09:51,900
+hin. Und rechnen wieder 14 minus 12.
+
+235
+00:09:51,960 --> 00:09:56,540
+Das ist 2. Wie oft passt die 3
+
+236
+00:09:56,540 --> 00:09:58,800
+ganzzahlig in die 23?
+
+237
+00:10:01,780 --> 00:10:03,320
+nur sieben mal das ist dann nämlich
+
+238
+00:10:03,320 --> 00:10:06,300
+die 21 deswegen ziehen wir 21
+
+239
+00:10:06,300 --> 00:10:07,900
+abschreiben die sieben hier und es
+
+240
+00:10:07,900 --> 00:10:10,140
+steht hier eine 2 und wir haben jetzt
+
+241
+00:10:10,140 --> 00:10:11,640
+das problem wir können keine zahlen
+
+242
+00:10:11,640 --> 00:10:12,860
+mehr runterziehen wir sind am ende
+
+243
+00:10:12,860 --> 00:10:16,840
+deswegen hören wir jetzt hier auf und
+
+244
+00:10:16,840 --> 00:10:19,280
+schreiben hin rest 2 also der rest
+
+245
+00:10:19,280 --> 00:10:20,900
+ist immer die zahl die hier unten
+
+246
+00:10:20,900 --> 00:10:22,820
+stehen bleibt wenn ihr keine zahlen
+
+247
+00:10:22,820 --> 00:10:24,820
+mehr runter holen könnt das ist dann
+
+248
+00:10:24,820 --> 00:10:26,620
+euer rest später könnt ihr an der
+
+249
+00:10:26,620 --> 00:10:28,800
+stelle noch weiter rechnen aber für
+
+250
+00:10:28,800 --> 00:10:30,040
+uns ist ist jetzt hier erstmal Ende
+
+251
+00:10:30,040 --> 00:10:33,100
+und wir sagen, 743 geteilt durch 3
+
+252
+00:10:33,100 --> 00:10:38,060
+ist 247 mit dem Rest 2. Und damit ist
+
+253
+00:10:38,060 --> 00:10:39,880
+die Aufgabe dann auch schon beendet.
+
+254
+00:10:41,800 --> 00:10:43,260
+Kommen wir zum Schluss noch zu
+
+255
+00:10:43,260 --> 00:10:46,200
+Umkehraufgaben. Und zwar, man muss
+
+256
+00:10:46,200 --> 00:10:48,440
+immer unterscheiden, was gesucht ist.
+
+257
+00:10:48,480 --> 00:10:50,040
+Entweder ist der Dividend gesucht
+
+258
+00:10:50,040 --> 00:10:52,920
+oder der Divisor. In dem Fall ist der
+
+259
+00:10:52,920 --> 00:10:55,160
+Dividend gesucht, eine Zahl geteilt
+
+260
+00:10:55,160 --> 00:10:58,660
+durch 2 ist 7. Die erste Idee ist
+
+261
+00:10:58,660 --> 00:10:59,680
+natürlich die Idee, die man... immer
+
+262
+00:10:59,680 --> 00:11:01,120
+anführen kann bei solchen Aufgaben.
+
+263
+00:11:01,180 --> 00:11:02,260
+Wir probieren einfach mal ein paar
+
+264
+00:11:02,260 --> 00:11:05,040
+Zahlen aus. Damit kommt man auch zum
+
+265
+00:11:05,040 --> 00:11:06,540
+Ziel. Es dauert halt nur sehr lange
+
+266
+00:11:06,540 --> 00:11:09,640
+und in der Mathematik rechnet man
+
+267
+00:11:09,640 --> 00:11:11,240
+lieber, anstatt was auszuprobieren.
+
+268
+00:11:11,940 --> 00:11:15,300
+Das heißt, gerade bei großen Zahlen
+
+269
+00:11:15,300 --> 00:11:17,720
+ist die Idee 2 deutlich besser. Und
+
+270
+00:11:17,720 --> 00:11:21,300
+zwar, wir führen die Umkehraufgabe
+
+271
+00:11:21,300 --> 00:11:23,720
+durch. Das heißt, wir rechnen mal.
+
+272
+00:11:23,980 --> 00:11:25,980
+Denn eine Zahl geteilt durch 2 ist
+
+273
+00:11:25,980 --> 00:11:27,820
+gleich 7. Dann können wir die zahl
+
+274
+00:11:27,820 --> 00:11:33,820
+berechnen durch 2 x 7 das heißt wenn
+
+275
+00:11:33,820 --> 00:11:35,640
+der dividend gesucht ist können wir
+
+276
+00:11:35,640 --> 00:11:37,740
+einfach den divisor mit dem ergebnis
+
+277
+00:11:37,740 --> 00:11:40,160
+multiplizieren und erhalten so
+
+278
+00:11:40,160 --> 00:11:42,280
+unseren dividenden der ist in dem
+
+279
+00:11:42,280 --> 00:11:45,260
+fall 14 wichtig ist das funktioniert
+
+280
+00:11:45,260 --> 00:11:48,620
+nur wenn der dividend gesucht ist als
+
+281
+00:11:50,030 --> 00:11:51,270
+nächstes haben wir hier natürlich
+
+282
+00:11:51,270 --> 00:11:53,210
+noch den fall dafür dass der divisor
+
+283
+00:11:53,210 --> 00:11:56,390
+gesucht ist auch hier kann man wieder
+
+284
+00:11:56,390 --> 00:11:57,310
+dahin gehen und die zahlen
+
+285
+00:11:57,310 --> 00:11:58,350
+ausprobieren das funktioniert
+
+286
+00:11:58,350 --> 00:11:59,970
+natürlich nur teilweise gerade bei
+
+287
+00:11:59,970 --> 00:12:01,310
+kleinen zahlen funktioniert das bei
+
+288
+00:12:01,310 --> 00:12:02,410
+großen zahlen ist schon wieder
+
+289
+00:12:02,410 --> 00:12:05,430
+schwierig daher rechnen wir das
+
+290
+00:12:05,430 --> 00:12:09,210
+lieber aus also idee 2 und zwar wir
+
+291
+00:12:09,210 --> 00:12:11,750
+teilen unseren dividenden durch
+
+292
+00:12:11,750 --> 00:12:13,270
+unseren prozent also durch unser
+
+293
+00:12:13,270 --> 00:12:15,510
+ergebnis und erhalten so unseren
+
+294
+00:12:15,510 --> 00:12:19,190
+divisor das heißt unser dividend 35
+
+295
+00:12:19,190 --> 00:12:22,290
+geteilt durch 7 ist gleich unser
+
+296
+00:12:22,290 --> 00:12:24,730
+divisor in dem fall 5 könnte man
+
+297
+00:12:24,730 --> 00:12:27,910
+ausprobieren 35 durch 57 das stimmt
+
+298
+00:12:27,910 --> 00:12:31,430
+das heißt immer wenn der divisor
+
+299
+00:12:31,430 --> 00:12:33,850
+gesucht ist teilt ihr euren
+
+300
+00:12:33,850 --> 00:12:38,710
+dividenden durch den quotient und so
+
+301
+00:12:38,710 --> 00:12:40,470
+könnt ihr das auch machen wichtig ist
+
+302
+00:12:40,470 --> 00:12:41,350
+natürlich auch hierbei das
+
+303
+00:12:41,350 --> 00:12:43,010
+funktioniert nur wenn der divisor
+
+304
+00:12:43,010 --> 00:12:45,550
+gesucht ist wenn der dividende
+
+305
+00:12:45,550 --> 00:12:47,090
+gesucht ist habt ihr den fall den wir
+
+306
+00:12:47,090 --> 00:12:48,830
+vor hatten dann könnt ihr
+
+307
+00:12:48,830 --> 00:12:49,430
+multiplizieren
+
+308
+00:12:51,890 --> 00:12:53,290
+Damit wären wir auch schon am Ende
+
+309
+00:12:53,290 --> 00:12:55,230
+des Webinars. Ich bedanke mich für
+
+310
+00:12:55,230 --> 00:12:56,150
+eure Aufmerksamkeit.
+

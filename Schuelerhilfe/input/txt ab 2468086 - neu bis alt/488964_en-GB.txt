@@ -1,0 +1,467 @@
+﻿1
+00:00:00,560 --> 00:00:02,060
+Hello and welcome to 
+
+2
+00:00:02,060 --> 00:00:03,520
+another learning video from 
+
+3
+00:00:03,520 --> 00:00:05,480
+Schülerhilfe . Today I'd like to 
+
+4
+00:00:05,480 --> 00:00:07,500
+
+5
+00:00:07,500 --> 00:00:09,060
+
+6
+00:00:09,060 --> 00:00:11,080
+introduce you to different ways of 
+translating the Latin passive voice , or 
+rather 
+
+7
+00:00:11,080 --> 00:00:13,920
+the first possibility in this video. 
+
+8
+00:00:13,920 --> 00:00:15,860
+Let's take a look at the following 
+
+9
+00:00:15,860 --> 00:00:17,020
+example sentences that I' 
+
+10
+00:00:17,020 --> 00:00:19,860
+ve brought with me. 
+
+11
+00:00:19,860 --> 00:00:25,460
+We have the active sentence Piraten sink 
+
+12
+00:00:25,460 --> 00:00:28,240
+das Schiff. If we put this sentence in the 
+
+13
+00:00:28,240 --> 00:00:31,800
+passive voice, you get navis 
+
+14
+00:00:31,800 --> 00:00:35,540
+apiratis mergitur. 
+
+15
+00:00:35,540 --> 00:00:37,040
+Of course, you can also recognize the 
+
+16
+00:00:37,040 --> 00:00:40,240
+passive verb ending here with mergitur . 
+The ship is 
+
+17
+00:00:40,240 --> 00:00:42,700
+sunk by pirates. 
+
+18
+00:00:46,700 --> 00:00:48,460
+So what happened when we 
+
+19
+00:00:48,460 --> 00:00:50,120
+changed the active sentence into the 
+passive 
+
+20
+00:00:50,120 --> 00:00:52,400
+? You see, we turned the 
+
+21
+00:00:52,400 --> 00:00:56,040
+accusative object navem in the passive 
+sentence 
+
+22
+00:00:56,040 --> 00:01:00,320
+into a subject, navis. 
+
+23
+00:01:00,320 --> 00:01:03,640
+So let's remember the following. An 
+
+24
+00:01:03,640 --> 00:01:06,140
+active sentence always requires an active 
+
+25
+00:01:06,140 --> 00:01:08,640
+subject. In a passive sentence, 
+
+26
+00:01:08,640 --> 00:01:10,980
+on the other hand, you always have a 
+subject 
+
+27
+00:01:11,020 --> 00:01:13,380
+that is acted upon. Here, for example, 
+
+28
+00:01:13,380 --> 00:01:15,080
+the ship that 
+
+29
+00:01:15,080 --> 00:01:15,740
+is sunk by the pirates . 
+
+30
+00:01:19,620 --> 00:01:21,100
+Now let's take a look at 
+
+31
+00:01:21,100 --> 00:01:24,280
+the following example sentence. Titanic 
+navis 
+
+32
+00:01:24,280 --> 00:01:28,380
+mersa est. The ship Titanic or 
+
+33
+00:01:28,380 --> 00:01:32,580
+the Titanic was sunk. Now 
+
+34
+00:01:32,580 --> 00:01:35,380
+you may ask yourself, 
+
+35
+00:01:35,380 --> 00:01:37,080
+didn't the ship. .. just sank when it 
+
+36
+00:01:37,080 --> 00:01:39,920
+hit an iceberg? Yes, 
+
+37
+00:01:40,020 --> 00:01:43,900
+that is indeed what happened. Because the 
+
+38
+00:01:43,900 --> 00:01:45,780
+passive translation would of course 
+
+39
+00:01:45,780 --> 00:01:48,920
+suggest that the Titanic 
+
+40
+00:01:48,920 --> 00:01:51,140
+was sunk by someone. 
+
+41
+00:01:51,200 --> 00:01:53,300
+By whom? Ice pirates 
+
+42
+00:01:53,300 --> 00:01:56,420
+or a wild horde? Pirate 
+
+43
+00:01:56,420 --> 00:01:58,860
+icebergs? We don't know. But in any case 
+
+44
+00:01:58,860 --> 00:02:00,380
+, we realize that the 
+
+45
+00:02:00,380 --> 00:02:02,700
+passive translation doesn't 
+
+46
+00:02:02,700 --> 00:02:04,800
+really make sense here. 
+
+47
+00:02:07,580 --> 00:02:08,760
+However, there are a total of four 
+
+48
+00:02:08,760 --> 00:02:10,440
+ways to 
+
+49
+00:02:10,440 --> 00:02:13,480
+translate a Latin passive, apart from a 
+
+50
+00:02:13,480 --> 00:02:14,620
+regular passive. 
+
+51
+00:02:19,090 --> 00:02:21,890
+Now I would like to look at the 
+
+52
+00:02:21,890 --> 00:02:23,390
+first option with you , the 
+
+53
+00:02:23,390 --> 00:02:25,050
+so-called medial-reflexive 
+
+54
+00:02:25,050 --> 00:02:28,410
+translation. To do this, we'll use 
+
+55
+00:02:28,410 --> 00:02:31,050
+an example sentence, post laborem 
+
+56
+00:02:31,050 --> 00:02:33,750
+labor, and this example sentence 
+
+57
+00:02:33,750 --> 00:02:36,710
+contains the verb lavare, to wash, 
+
+58
+00:02:36,810 --> 00:02:38,410
+which I' 
+
+59
+00:02:38,410 --> 00:02:41,550
+ve also written down for you. So the 
+question is, how do 
+
+60
+00:02:41,550 --> 00:02:43,870
+we translate this sentence? Post 
+
+61
+00:02:43,870 --> 00:02:45,590
+laborem labor. 
+
+62
+00:02:49,980 --> 00:02:51,880
+If we translate it as passive, the 
+
+63
+00:02:51,880 --> 00:02:54,480
+result is, after work, 
+
+64
+00:02:54,580 --> 00:03:01,020
+post laborem labor, I am 
+
+65
+00:03:01,020 --> 00:03:02,880
+washed. 
+
+66
+00:03:04,220 --> 00:03:05,740
+And of course you might 
+
+67
+00:03:05,740 --> 00:03:08,520
+ask yourself , yes, by whom? By whom am I 
+
+68
+00:03:08,520 --> 00:03:09,580
+washed after work? 
+
+69
+00:03:09,800 --> 00:03:12,620
+By myself, of course. And 
+
+70
+00:03:12,620 --> 00:03:14,020
+that's why the better 
+
+71
+00:03:14,020 --> 00:03:17,240
+translation here is , after work 
+
+72
+00:03:17,240 --> 00:03:18,000
+I wash myself. 
+
+73
+00:03:23,320 --> 00:03:24,820
+Here is the 
+
+74
+00:03:24,820 --> 00:03:26,760
+translation we have just found: after 
+
+75
+00:03:26,760 --> 00:03:29,460
+work I wash myself. And here 
+
+76
+00:03:29,460 --> 00:03:31,080
+I pull out the verb, I 
+
+77
+00:03:31,080 --> 00:03:34,480
+wash myself. If we now 
+
+78
+00:03:34,480 --> 00:03:37,180
+look at this sentence, you can see that 
+you 
+
+79
+00:03:37,180 --> 00:03:40,900
+once have I. So I myself am 
+
+80
+00:03:40,900 --> 00:03:43,260
+the subject, i.e. I am the 
+
+81
+00:03:43,260 --> 00:03:47,240
+washer, active. But at the same time, 
+
+82
+00:03:47,280 --> 00:03:53,420
+I am also the one being washed, 
+
+83
+00:03:53,540 --> 00:03:56,800
+passively . That is actually 
+
+84
+00:03:56,800 --> 00:04:00,060
+the special feature of this so-called 
+
+85
+00:04:00,060 --> 00:04:02,540
+reflexive translation: I wash 
+
+86
+00:04:02,540 --> 00:04:05,860
+myself. Reflexivity is therefore 
+
+87
+00:04:05,860 --> 00:04:07,900
+somewhere right in the middle between 
+
+88
+00:04:07,900 --> 00:04:12,340
+active and passive. And that explains 
+
+89
+00:04:12,340 --> 00:04:14,200
+the name 
+
+90
+00:04:14,200 --> 00:04:17,580
+mediator. The Latin word for 
+
+91
+00:04:17,580 --> 00:04:20,580
+middle is medium. I've written it 
+
+92
+00:04:20,580 --> 00:04:23,080
+down for you here, medium, and 
+
+93
+00:04:23,080 --> 00:04:25,860
+that means middle. And hence the 
+
+94
+00:04:25,860 --> 00:04:27,480
+name medialreflexive. 
+
+95
+00:04:32,020 --> 00:04:34,100
+Let's now 
+
+96
+00:04:34,100 --> 00:04:36,440
+ return to our Titanic  problem. We have 
+
+97
+00:04:36,440 --> 00:04:37,600
+established that the passive 
+
+98
+00:04:37,600 --> 00:04:40,060
+translation, the Titanic was 
+
+99
+00:04:40,060 --> 00:04:41,820
+sunk or the ship Titanic 
+
+100
+00:04:41,820 --> 00:04:44,140
+was sunk, makes little sense. 
+
+101
+00:04:44,140 --> 00:04:45,840
+Let's 
+
+102
+00:04:45,840 --> 00:04:49,820
+perhaps just try out our newly 
+
+103
+00:04:49,820 --> 00:04:51,880
+acquired media-reflexive 
+
+104
+00:04:51,880 --> 00:04:55,300
+translation. Then we would have the 
+
+105
+00:04:57,320 --> 00:05:00,900
+Titanic sank 
+
+106
+00:05:02,560 --> 00:05:02,900
+. 
+
+107
+00:05:10,610 --> 00:05:11,790
+Yes, and you've already noticed that the 
+
+108
+00:05:11,790 --> 00:05:14,490
+medial reflexive translation seems 
+
+109
+00:05:14,490 --> 00:05:16,290
+almost a little stranger here 
+
+110
+00:05:16,290 --> 00:05:18,310
+than the passive translation, because 
+
+111
+00:05:18,310 --> 00:05:20,110
+which ship sinks itself? 
+
+112
+00:05:20,710 --> 00:05:23,090
+So 
+
+113
+00:05:23,090 --> 00:05:24,650
+I'll explain how we translate this in the 
+next video. 
+
+114
+00:05:25,150 --> 00:05:26,350
+I hope to see you again then. 
+
+115
+00:05:27,010 --> 00:05:27,590
+See you then! 

@@ -1,0 +1,1559 @@
+﻿1
+00:00:01,580 --> 00:00:03,840
+Welcome to the webinar 
+
+2
+00:00:03,840 --> 00:00:07,420
+Calculating Advantageously. 
+
+3
+00:00:07,420 --> 00:00:08,800
+In this webinar, we 
+
+4
+00:00:08,800 --> 00:00:10,260
+will talk about how to calculate 
+advantageously 
+
+5
+00:00:10,260 --> 00:00:12,600
+. In other words, we'll 
+
+6
+00:00:12,600 --> 00:00:14,300
+start by looking at one or two 
+
+7
+00:00:14,300 --> 00:00:16,220
+calculation rules, including dot 
+
+8
+00:00:16,220 --> 00:00:18,120
+before dash. And then we'll look at 
+
+9
+00:00:18,120 --> 00:00:19,400
+how to make the work of 
+
+10
+00:00:19,400 --> 00:00:21,820
+calculation a little easier 
+
+11
+00:00:21,820 --> 00:00:23,160
+. In other words, we will look at how to 
+
+12
+00:00:23,160 --> 00:00:24,500
+add and 
+
+13
+00:00:24,500 --> 00:00:27,020
+subtract and how to 
+
+14
+00:00:27,020 --> 00:00:29,100
+multiply . At the very end, 
+
+15
+00:00:29,100 --> 00:00:30,480
+we also have another task 
+
+16
+00:00:30,700 --> 00:00:32,540
+where we 
+
+17
+00:00:32,540 --> 00:00:35,420
+
+18
+00:00:35,420 --> 00:00:38,660
+want to apply these techniques once again 
+in a task and teach them in this way. 
+Let's start 
+
+19
+00:00:38,660 --> 00:00:41,520
+with the dot before the dash. I think 
+
+20
+00:00:41,520 --> 00:00:43,200
+everyone has heard the arithmetic rule 
+
+21
+00:00:43,200 --> 00:00:44,300
+, dot before 
+
+22
+00:00:44,300 --> 00:00:46,120
+dash. This means that you have to 
+
+23
+00:00:46,120 --> 00:00:47,880
+
+24
+00:00:47,880 --> 00:00:51,300
+
+25
+00:00:51,300 --> 00:00:54,460
+perform multiplication and division before 
+addition and subtraction . 
+
+26
+00:00:54,540 --> 00:00:56,720
+So multiplication and division must 
+
+27
+00:00:56,720 --> 00:00:58,280
+be carried out before addition and 
+subtraction. 
+
+28
+00:00:58,280 --> 00:00:59,180
+In other words, we have a small 
+
+29
+00:00:59,180 --> 00:01:02,820
+example task here . 2 times 3 plus 4. We 
+
+30
+00:01:02,820 --> 00:01:04,680
+have to carry out the multiplication, i.e. 
+2 times 
+
+31
+00:01:04,680 --> 00:01:07,140
+3, first. 2 times 3 is 6, which means that 
+
+32
+00:01:07,300 --> 00:01:08,620
+the next step is 
+
+33
+00:01:08,620 --> 00:01:11,480
+6 plus 4. Only now that we 
+
+34
+00:01:11,480 --> 00:01:13,140
+have carried out the multiplication 
+
+35
+00:01:13,240 --> 00:01:14,900
+can we carry out the addition. 
+
+36
+00:01:15,260 --> 00:01:18,980
+6 plus 4 is then 10. The only 
+
+37
+00:01:18,980 --> 00:01:21,980
+thing above this rule is 
+
+38
+00:01:21,980 --> 00:01:24,360
+the bracket. If we 
+
+39
+00:01:24,360 --> 00:01:26,340
+have a bracket , we first have to 
+
+40
+00:01:26,340 --> 00:01:29,260
+calculate within the bracket. This means 
+that if we 
+
+41
+00:01:29,260 --> 00:01:31,320
+have the example, 2 times parentheses 
+
+42
+00:01:31,320 --> 00:01:34,940
+open, 3 plus 4 parentheses closed, we must 
+
+43
+00:01:34,940 --> 00:01:36,340
+first 
+
+44
+00:01:36,340 --> 00:01:39,500
+calculate the value in the parentheses , 
+i.e. 3 plus 4. 3 plus 4 
+
+45
+00:01:39,500 --> 00:01:42,200
+is 7, which means that in the 
+
+46
+00:01:42,200 --> 00:01:44,800
+next step we calculate 2 times 7 and that 
+
+47
+00:01:44,800 --> 00:01:48,140
+is 14. So it is very important to always 
+
+48
+00:01:48,140 --> 00:01:50,580
+work on the parentheses first. And if 
+
+49
+00:01:50,580 --> 00:01:52,720
+you have several brackets 
+
+50
+00:01:52,720 --> 00:01:56,620
+, start with the innermost bracket. When 
+
+51
+00:01:56,620 --> 00:01:59,200
+adding advantageously 
+
+52
+00:01:59,200 --> 00:02:00,780
+, it is easiest 
+
+53
+00:02:00,780 --> 00:02:02,500
+to add and subtract numbers that 
+
+54
+00:02:02,500 --> 00:02:04,220
+are even. In other words, they may 
+
+55
+00:02:04,220 --> 00:02:06,820
+have a lot of zeros. Here is 
+
+56
+00:02:06,820 --> 00:02:11,060
+a small example. 4831 plus 1468 
+
+57
+00:02:11,860 --> 00:02:14,040
+is quite difficult, but a 
+
+58
+00:02:14,040 --> 00:02:16,880
+number similar in size to 1468 
+
+59
+00:02:16,880 --> 00:02:21,360
+is 1000, i.e. 4831 plus 1000 is 
+
+60
+00:02:21,360 --> 00:02:23,040
+much easier to calculate 
+
+61
+00:02:23,040 --> 00:02:25,440
+than the former, because the latter is 
+
+62
+00:02:25,440 --> 00:02:29,380
+simply 5831, i.e. it depends 
+
+63
+00:02:29,380 --> 00:02:31,620
+less on the size of the number 
+
+64
+00:02:31,620 --> 00:02:33,400
+and more on the number of 
+
+65
+00:02:33,400 --> 00:02:36,220
+zeros it contains, i.e. the more 
+
+66
+00:02:36,220 --> 00:02:38,220
+zeros a number has, the easier 
+
+67
+00:02:38,220 --> 00:02:40,060
+it is to calculate. this applies not 
+
+68
+00:02:40,060 --> 00:02:41,460
+only to addition, but also 
+
+69
+00:02:41,460 --> 00:02:44,600
+later to multiplication. The 
+
+70
+00:02:44,600 --> 00:02:46,420
+technique behind this is that if 
+
+71
+00:02:46,420 --> 00:02:48,040
+I want to add several numbers, 
+
+72
+00:02:48,200 --> 00:02:50,660
+as here, I try to 
+
+73
+00:02:50,660 --> 00:02:52,440
+pick out numbers that add up to an 
+
+74
+00:02:52,440 --> 00:02:54,880
+even number. For example, 26 
+
+75
+00:02:54,880 --> 00:02:58,940
+plus 13 plus 7 plus 4. If I 
+
+76
+00:02:58,940 --> 00:03:00,600
+
+77
+00:03:00,600 --> 00:03:03,120
+were to simply calculate from left to 
+right , i.e. 26 plus 13, then plus 7, 
+
+78
+00:03:03,140 --> 00:03:06,080
+then plus 4, it would be difficult because 
+
+79
+00:03:06,080 --> 00:03:07,420
+I would never arrive at an even number. 
+
+80
+00:03:08,800 --> 00:03:10,380
+And that's why I try 
+
+81
+00:03:10,380 --> 00:03:11,900
+to group the numbers , because I can also 
+
+82
+00:03:11,900 --> 00:03:15,080
+calculate 26 plus 4 first. And you 
+
+83
+00:03:15,080 --> 00:03:18,320
+can already see that 26 plus 4 equals 30, 
+
+84
+00:03:18,560 --> 00:03:20,600
+which is an even number. That's why 
+
+85
+00:03:20,600 --> 00:03:22,180
+I start by calculating 
+
+86
+00:03:22,180 --> 00:03:24,620
+26 plus 4 first, which equals 30. 
+
+87
+00:03:24,780 --> 00:03:26,600
+And now we continue. Now 
+
+88
+00:03:26,600 --> 00:03:29,540
+we still have 13 plus 7, which means that 
+
+89
+00:03:29,640 --> 00:03:31,100
+instead of 
+
+90
+00:03:31,100 --> 00:03:33,440
+calculating 30 plus 13, I 
+
+91
+00:03:33,440 --> 00:03:35,380
+add the 30 and the 7 together. that's 20 
+together 
+
+92
+00:03:35,380 --> 00:03:38,100
+and then calculate 30 
+
+93
+00:03:38,100 --> 00:03:40,220
+plus 20 quite comfortably . that's two 
+even numbers 
+
+94
+00:03:40,220 --> 00:03:42,100
+and they add up to 
+
+95
+00:03:42,100 --> 00:03:45,080
+50. that means although i 
+
+96
+00:03:45,080 --> 00:03:47,300
+had to add four numbers here , it was 
+
+97
+00:03:47,300 --> 00:03:49,040
+quite comfortable because i 
+
+98
+00:03:49,040 --> 00:03:52,260
+formed even numbers first. 
+
+99
+00:03:52,260 --> 00:03:54,360
+of course that's not always possible, but 
+
+100
+00:03:54,360 --> 00:03:55,960
+here's another 
+
+101
+00:03:55,960 --> 00:03:57,980
+example i can decompose any number like 
+this 
+
+102
+00:03:57,980 --> 00:04:00,100
+or decompose most of them in such a way 
+
+103
+00:04:00,100 --> 00:04:02,920
+that at least part of it is an 
+
+104
+00:04:02,920 --> 00:04:05,060
+even number, for example 75 
+
+105
+00:04:05,060 --> 00:04:10,420
+27 I can 
+
+106
+00:04:10,420 --> 00:04:12,120
+decompose 720 into 20 plus 7 that means I 
+can first 
+
+107
+00:04:12,120 --> 00:04:14,920
+calculate 75 plus 20 and then 
+
+108
+00:04:14,920 --> 00:04:17,120
+plus 7 that makes it a bit 
+
+109
+00:04:17,120 --> 00:04:18,820
+easier because then I 
+
+110
+00:04:18,820 --> 00:04:20,380
+only have a transition of 10 
+
+111
+00:04:20,380 --> 00:04:25,740
+75 plus 20 is 95 and 95 plus 7 is 
+
+112
+00:04:25,740 --> 00:04:28,340
+102. And that's easier 
+
+113
+00:04:28,340 --> 00:04:33,140
+to calculate than 75 plus 27. That's 
+
+114
+00:04:33,140 --> 00:04:35,940
+just the trick. If you 
+
+115
+00:04:35,940 --> 00:04:38,020
+have problems adding or 
+
+116
+00:04:38,020 --> 00:04:40,660
+perhaps subtracting something , then 
+
+117
+00:04:40,660 --> 00:04:41,940
+you first subtract with an 
+
+118
+00:04:41,940 --> 00:04:43,640
+even number or in this case add 
+
+119
+00:04:43,640 --> 00:04:45,480
+with an even number, i.e. with the 
+
+120
+00:04:45,480 --> 00:04:46,040
+tens only. 
+
+121
+00:04:49,840 --> 00:04:51,560
+Smooth numbers are, of course, those 
+
+122
+00:04:51,720 --> 00:04:53,620
+that end in zeros, i.e. 10, 20, 
+
+123
+00:04:53,740 --> 00:04:57,320
+50, 100, 1000, 10,000 and so on. 
+
+124
+00:04:58,280 --> 00:05:00,600
+Numbers that end in 5 are also 
+
+125
+00:05:00,600 --> 00:05:03,520
+often helpful, because then 
+
+126
+00:05:03,520 --> 00:05:04,740
+the 
+
+127
+00:05:04,740 --> 00:05:05,600
+numbers that are easy to 
+
+128
+00:05:05,600 --> 00:05:08,940
+work with expand a little. 
+
+129
+00:05:08,940 --> 00:05:11,560
+For example, 25 plus 25 equals 50 or 75 
+plus 25 
+
+130
+00:05:11,560 --> 00:05:15,740
+equals 100, which is also 
+
+131
+00:05:15,740 --> 00:05:19,520
+a good way of doing maths. 
+
+132
+00:05:19,520 --> 00:05:21,760
+In any case, it is always good to 
+
+133
+00:05:21,760 --> 00:05:23,560
+form pairs of numbers that add up to an 
+even number 
+
+134
+00:05:23,560 --> 00:05:25,360
+. For example, 1 plus 9 equals 
+
+135
+00:05:25,360 --> 00:05:27,560
+10, 2 plus 8 equals 10, 3 plus 7 
+
+136
+00:05:27,560 --> 00:05:29,680
+equals 10, 4 plus 6 equals 10 and 5 
+
+137
+00:05:29,680 --> 00:05:33,760
+plus 5 also equals 10. This is 
+
+138
+00:05:33,760 --> 00:05:35,040
+always good if you 
+
+139
+00:05:35,040 --> 00:05:36,300
+can somehow add them together to 
+
+140
+00:05:36,300 --> 00:05:38,800
+create an even number. 
+
+141
+00:05:38,800 --> 00:05:39,940
+Of course, this also works if, for 
+example, you 
+
+142
+00:05:39,940 --> 00:05:43,960
+add 24 plus 6 here, which is then 30, 
+which 
+
+143
+00:05:43,960 --> 00:05:45,240
+is of course also an even number. 
+
+144
+00:05:48,700 --> 00:05:51,000
+And then we come to 
+
+145
+00:05:51,000 --> 00:05:52,800
+a small example. 
+
+146
+00:05:52,800 --> 00:05:55,800
+
+147
+00:05:55,800 --> 00:05:56,820
+We can of course also 
+
+148
+00:05:56,820 --> 00:05:58,240
+apply these tips to a subtraction, as we 
+have 
+
+149
+00:05:58,240 --> 00:06:00,160
+just mentioned. And here we have 
+
+150
+00:06:00,160 --> 00:06:05,360
+the example of 332 minus 53. First, 
+
+151
+00:06:05,360 --> 00:06:08,160
+we can 
+
+152
+00:06:08,160 --> 00:06:09,820
+write the minus 53 as minus 50 and then 
+minus 3. 
+
+153
+00:06:09,820 --> 00:06:13,680
+This means that we then have 332 minus 50 
+
+154
+00:06:13,680 --> 00:06:15,840
+minus 3. And of course we start 
+
+155
+00:06:15,840 --> 00:06:17,840
+by 
+
+156
+00:06:17,840 --> 00:06:19,240
+doing the calculation with the even 
+number, in this case 
+
+157
+00:06:19,240 --> 00:06:22,640
+the minus 50. 332 
+
+158
+00:06:22,640 --> 00:06:25,660
+minus 50 is then 282 The nice thing 
+
+159
+00:06:25,660 --> 00:06:26,960
+is that we don't calculate in the 
+
+160
+00:06:26,960 --> 00:06:28,220
+ones, we only calculate in the 
+
+161
+00:06:28,220 --> 00:06:30,640
+tens That's why calculating with 
+
+162
+00:06:30,640 --> 00:06:32,940
+even numbers is so easy And now 
+
+163
+00:06:32,940 --> 00:06:34,620
+we only have to calculate minus 3 
+
+164
+00:06:35,420 --> 00:06:40,560
+And 282 minus 3 is 279 That's 
+
+165
+00:06:40,560 --> 00:06:42,620
+much easier to calculate than 
+
+166
+00:06:42,620 --> 00:06:44,700
+if we 
+
+167
+00:06:44,700 --> 00:06:48,320
+had subtracted the 53 at the beginning Of 
+course, this 
+
+168
+00:06:48,320 --> 00:06:51,680
+also works , if you 
+
+169
+00:06:51,680 --> 00:06:55,040
+subtract with several numbers as 214 minus 
+60 the 4-35 
+
+170
+00:06:55,040 --> 00:06:57,600
+similar to 
+
+171
+00:06:57,600 --> 00:06:59,700
+the action , it makes sense to 
+
+172
+00:06:59,700 --> 00:07:02,840
+see which pairs of numbers lead to an 
+
+173
+00:07:02,840 --> 00:07:04,040
+even number or which 
+
+174
+00:07:04,040 --> 00:07:06,000
+calculation we don't have to calculate 
+from 
+
+175
+00:07:06,000 --> 00:07:07,420
+left to right we can 
+
+176
+00:07:07,420 --> 00:07:10,520
+also calculate 214 minus four first 
+
+177
+00:07:10,520 --> 00:07:13,880
+because 214 minus four gives 210 that's 
+
+178
+00:07:13,880 --> 00:07:15,180
+an even number we can 
+
+179
+00:07:15,180 --> 00:07:16,880
+continue to calculate straight away or 
+
+180
+00:07:16,880 --> 00:07:20,060
+calculate more easily we arrive at 210 
+
+181
+00:07:20,060 --> 00:07:23,900
+minus 60 minus 35 next, 
+
+182
+00:07:23,900 --> 00:07:25,320
+of course, we continue with the minus 60 
+
+183
+00:07:25,320 --> 00:07:26,680
+because we have an even number here 
+
+184
+00:07:26,680 --> 00:07:28,860
+and an even number there that's 
+
+185
+00:07:28,860 --> 00:07:30,000
+wonderful so we can 
+
+186
+00:07:30,000 --> 00:07:31,900
+calculate nice and easily that's then 
+
+187
+00:07:31,900 --> 00:07:34,480
+150 and then we now have 150 
+
+188
+00:07:34,480 --> 00:07:38,360
+minus 30 minus 5 we can 
+
+189
+00:07:38,360 --> 00:07:40,120
+also 
+
+190
+00:07:40,120 --> 00:07:42,380
+divide the 35 into minus 30 and minus 5 
+the same as we did 
+
+191
+00:07:42,380 --> 00:07:44,680
+above here 
+
+192
+00:07:44,680 --> 00:07:46,600
+we have also divided the 53 into 50 and 3 
+
+193
+00:07:46,600 --> 00:07:47,760
+we do the same here then we can 
+
+194
+00:07:47,760 --> 00:07:49,500
+
+195
+00:07:49,500 --> 00:07:51,840
+subtract 150 minus 
+
+196
+00:07:51,840 --> 00:07:55,040
+30 120 again with a smooth number and now 
+we 
+
+197
+00:07:55,040 --> 00:07:57,140
+only have to subtract five from the 120 
+this is then 
+
+198
+00:07:57,140 --> 00:08:00,740
+115 with such techniques you can 
+
+199
+00:08:00,740 --> 00:08:04,560
+
+200
+00:08:04,560 --> 00:08:06,900
+
+201
+00:08:06,900 --> 00:08:08,500
+carry out apparently complex calculations 
+very efficiently even without tools this 
+also means that 
+
+202
+00:08:08,500 --> 00:08:10,340
+such multiple subtractions are 
+
+203
+00:08:10,340 --> 00:08:11,700
+then no longer a problem, if you 
+
+204
+00:08:11,700 --> 00:08:14,540
+calculate skillfully. Of course, you can 
+
+205
+00:08:14,540 --> 00:08:16,000
+also do such calculations in writing. 
+
+206
+00:08:18,410 --> 00:08:20,530
+Now let's move on to advantageous 
+
+207
+00:08:20,530 --> 00:08:24,130
+multiplication. Advantageous 
+
+208
+00:08:24,130 --> 00:08:25,650
+multiplication is similar to 
+
+209
+00:08:25,650 --> 00:08:27,070
+advantageous addition. 
+
+210
+00:08:27,070 --> 00:08:28,630
+It's easiest to work with even 
+
+211
+00:08:28,630 --> 00:08:31,550
+numbers, as we see 
+
+212
+00:08:31,550 --> 00:08:35,170
+an example here of 5 times 7 times 2. It' 
+
+213
+00:08:35,170 --> 00:08:36,030
+s always best to look for 
+
+214
+00:08:36,030 --> 00:08:38,690
+pairs of numbers that multiply to an 
+
+215
+00:08:38,690 --> 00:08:39,970
+even number, preferably 
+
+216
+00:08:39,970 --> 00:08:42,530
+10 of course. Because if I were to 
+
+217
+00:08:42,530 --> 00:08:43,610
+start on the left again, 
+
+218
+00:08:43,690 --> 00:08:45,970
+I would calculate 5 times 7 times 2. 
+
+219
+00:08:45,970 --> 00:08:47,970
+But I can also go and 
+
+220
+00:08:47,970 --> 00:08:49,010
+calculate 5 times 2 first , because then I 
+have a 
+
+221
+00:08:49,010 --> 00:08:51,290
+10, which is much easier, and 
+
+222
+00:08:51,290 --> 00:08:53,290
+then it says 10 times 7. Whenever 
+
+223
+00:08:53,290 --> 00:08:55,250
+we 
+
+224
+00:08:55,250 --> 00:08:57,490
+multiply by a power of 10 , we go and 
+
+225
+00:08:57,490 --> 00:08:59,070
+simply 
+
+226
+00:08:59,070 --> 00:09:01,530
+add 0 to the second number , or the number 
+of zeros 
+
+227
+00:09:01,530 --> 00:09:02,830
+that our power of 10 also has. 
+
+228
+00:09:02,830 --> 00:09:04,110
+This means that in this case we have a 
+
+229
+00:09:04,110 --> 00:09:09,200
+zero and 10 times 7 is 70. 
+
+230
+00:09:09,200 --> 00:09:10,460
+Of course, you can also 
+
+231
+00:09:10,460 --> 00:09:12,080
+do it the other way round. If 
+
+232
+00:09:12,080 --> 00:09:13,700
+the numbers get bigger, you can 
+
+233
+00:09:13,700 --> 00:09:15,320
+also break them down into smaller 
+
+234
+00:09:15,320 --> 00:09:18,940
+numbers. This means that 8 times 15 is the 
+
+235
+00:09:18,940 --> 00:09:22,760
+same as 2 times 4 times 3 times 5. 
+
+236
+00:09:23,020 --> 00:09:25,900
+Why? I can break down the 8 into 2 times 4 
+
+237
+00:09:25,900 --> 00:09:28,380
+, because 2 times 4 is 8. And 
+
+238
+00:09:28,380 --> 00:09:30,880
+I can break down the 15 into 3 times 5. 
+
+239
+00:09:30,980 --> 00:09:34,160
+In this case, 3 times 5 is 15, so 
+
+240
+00:09:34,160 --> 00:09:36,380
+I can now 
+
+241
+00:09:36,380 --> 00:09:38,380
+choose pairs of numbers that together 
+
+242
+00:09:38,380 --> 00:09:39,900
+
+243
+00:09:39,900 --> 00:09:41,680
+make an even number or preferably a power 
+of ten. Here, of course, we have 
+
+244
+00:09:41,680 --> 00:09:44,140
+2 times 5, which gives us 10 again. 
+
+245
+00:09:44,480 --> 00:09:46,320
+And then we have 4 times 3, which 
+
+246
+00:09:46,320 --> 00:09:49,240
+gives us 12. And 10 times 12 is again 
+
+247
+00:09:49,240 --> 00:09:50,660
+easy to calculate, because that is 
+
+248
+00:09:50,660 --> 00:09:54,760
+120. So this number 10, when we 
+
+249
+00:09:54,760 --> 00:09:55,900
+multiply by it, has a very 
+
+250
+00:09:55,900 --> 00:09:57,380
+elementary meaning, because it is 
+
+251
+00:09:57,380 --> 00:09:58,800
+extremely advantageous. 
+
+252
+00:10:01,880 --> 00:10:03,360
+Here we have 
+
+253
+00:10:03,360 --> 00:10:06,340
+another example , pairs of numbers that 
+
+254
+00:10:06,340 --> 00:10:07,780
+result in a smooth product, i.e. that 
+
+255
+00:10:07,780 --> 00:10:10,020
+multiplied together 
+
+256
+00:10:10,020 --> 00:10:12,340
+result in a smooth number, 2 times 5 is 
+10, 4 times 5 
+
+257
+00:10:12,340 --> 00:10:15,660
+is 20, 6 times 5 is 30 and 8 times 5 
+
+258
+00:10:15,660 --> 00:10:18,280
+is 40, 10 times 5 is 50. 
+
+259
+00:10:18,280 --> 00:10:19,380
+Of course, you can also break it down 
+again in this way, 
+
+260
+00:10:19,440 --> 00:10:21,380
+we can also represent the 20 
+
+261
+00:10:21,380 --> 00:10:24,940
+using 2 times 10 or the 30 using 3 times 
+
+262
+00:10:24,940 --> 00:10:27,600
+10. And of course you can do the 
+
+263
+00:10:27,600 --> 00:10:30,420
+same with the 40 , 4 times 10 and the 50 5 
+times 10. 
+
+264
+00:10:31,160 --> 00:10:32,700
+So you could 
+
+265
+00:10:32,700 --> 00:10:34,040
+also 
+
+266
+00:10:34,040 --> 00:10:36,540
+create a power of 10 from these even 
+numbers and 
+
+267
+00:10:36,540 --> 00:10:37,640
+make it a bit easier with the zeros . 
+
+268
+00:10:39,440 --> 00:10:40,720
+Of course, it is just as important to 
+
+269
+00:10:40,840 --> 00:10:42,480
+
+270
+00:10:42,480 --> 00:10:43,660
+be able to break numbers down into their 
+factors. We have just 
+
+271
+00:10:43,660 --> 00:10:44,840
+seen that. 
+
+272
+00:10:44,840 --> 00:10:46,460
+For example, we can divide 6 into 3 times 
+2. 
+
+273
+00:10:46,580 --> 00:10:49,080
+We can break down the 8 into 2 times 4 
+
+274
+00:10:49,080 --> 00:10:51,360
+We can also 
+
+275
+00:10:51,360 --> 00:10:53,160
+break down the 12 into 3 times 4 And we 
+can 
+
+276
+00:10:53,160 --> 00:10:56,060
+break down the 4 again into 2 times 2 This 
+means that 
+
+277
+00:10:56,060 --> 00:10:59,580
+12 is the same as 3 times 2 times 2 
+
+278
+00:11:00,780 --> 00:11:03,200
+We can 
+
+279
+00:11:03,200 --> 00:11:05,540
+break down the 36 into 2 times 18 And we 
+can then 
+
+280
+00:11:05,540 --> 00:11:08,440
+break down the 18 again into 2 times 9 
+This means 
+
+281
+00:11:08,440 --> 00:11:11,160
+that we can represent the 36 by 2 
+
+282
+00:11:11,160 --> 00:11:15,220
+times 2 times 9 Or 2 times 2 is 4 
+
+283
+00:11:15,220 --> 00:11:16,480
+so that's also four times 
+
+284
+00:11:16,480 --> 00:11:18,400
+nine or we can also 
+
+285
+00:11:18,400 --> 00:11:21,140
+divide the new one into three so four 
+times 
+
+286
+00:11:21,140 --> 00:11:23,220
+three times three or the two can also 
+
+287
+00:11:23,220 --> 00:11:24,600
+be divided into two so two times two 
+
+288
+00:11:24,600 --> 00:11:26,220
+times three times three so there are 
+
+289
+00:11:26,220 --> 00:11:28,420
+many possibilities yes what you 
+
+290
+00:11:28,420 --> 00:11:29,740
+take from this depends of course depends 
+on 
+
+291
+00:11:29,740 --> 00:11:31,740
+what kind of number we 
+
+292
+00:11:31,740 --> 00:11:34,460
+want to multiply with and with which 
+
+293
+00:11:34,460 --> 00:11:35,460
+numbers I then 
+
+294
+00:11:35,460 --> 00:11:38,960
+come to such an even number it 
+
+295
+00:11:38,960 --> 00:11:42,780
+only depends on that the whole thing we 
+can 
+
+296
+00:11:42,780 --> 00:11:44,080
+now see once here we 
+
+297
+00:11:44,080 --> 00:11:46,360
+now have a small task here 
+
+298
+00:11:46,360 --> 00:11:51,720
+and that is 87 plus 7 plus 33 times two 
+
+299
+00:11:51,720 --> 00:11:53,720
+first of all here is now very important 
+
+300
+00:11:53,720 --> 00:11:57,120
+point before dash we have no 
+
+301
+00:11:57,120 --> 00:11:58,680
+brackets in the first task therefore 
+
+302
+00:11:58,680 --> 00:12:00,220
+here really point before dash 
+
+303
+00:12:00,220 --> 00:12:02,020
+and before we calculate anything 
+
+304
+00:12:02,020 --> 00:12:05,600
+we calculate 33 times two that is 66 
+
+305
+00:12:05,600 --> 00:12:07,840
+now we only have 
+
+306
+00:12:08,900 --> 00:12:12,520
+one addition here or several 
+
+307
+00:12:12,520 --> 00:12:14,620
+additions and therefore we can then 
+
+308
+00:12:14,620 --> 00:12:15,940
+also add. So we now have 
+
+309
+00:12:15,940 --> 00:12:19,720
+87 plus 4 plus 3 plus 66. And now 
+
+310
+00:12:19,720 --> 00:12:21,380
+we can see that the 7 and the 3 
+
+311
+00:12:21,380 --> 00:12:22,660
+give me an even number again. 
+
+312
+00:12:22,800 --> 00:12:25,600
+It is therefore advantageous to add 87 
+plus 3 
+
+313
+00:12:25,600 --> 00:12:28,340
+. And the 4 and the 6 
+
+314
+00:12:28,340 --> 00:12:29,980
+also make an even number. 
+
+315
+00:12:29,980 --> 00:12:33,000
+It is therefore advantageous to 
+
+316
+00:12:33,000 --> 00:12:36,400
+calculate the 4 plus 66 first. 87 plus 3 
+equals 
+
+317
+00:12:36,400 --> 00:12:40,540
+90. 66 plus 4 equals 70. Now we have 
+
+318
+00:12:40,540 --> 00:12:42,460
+90 plus 70. This 
+
+319
+00:12:42,460 --> 00:12:43,780
+means that we are adding two 
+
+320
+00:12:43,780 --> 00:12:45,680
+even numbers again , which is quite 
+
+321
+00:12:45,680 --> 00:12:47,300
+simple. We now only have to 
+
+322
+00:12:47,300 --> 00:12:50,060
+calculate in tens. 90 plus 70 
+
+323
+00:12:50,060 --> 00:12:51,360
+is then 160. 
+
+324
+00:12:54,610 --> 00:12:56,050
+It's similar here with this slightly 
+
+325
+00:12:56,050 --> 00:12:58,210
+more complex task. Here we have 5 
+
+326
+00:12:58,210 --> 00:13:01,350
+plus parenthesis on 4 plus 10 times 21 
+times 
+
+327
+00:13:01,350 --> 00:13:03,410
+parenthesis on 10 minus 8 parenthesis to 
+
+328
+00:13:03,410 --> 00:13:05,450
+parenthesis closed. So, we now have 
+
+329
+00:13:05,450 --> 00:13:06,830
+the example mentioned above, where we 
+
+330
+00:13:06,830 --> 00:13:09,090
+even have two brackets. That's why 
+
+331
+00:13:09,090 --> 00:13:10,610
+we start with the innermost bracket 
+
+332
+00:13:10,610 --> 00:13:12,770
+. Although there is a multiplication here 
+
+333
+00:13:12,770 --> 00:13:15,470
+, we are multiplying with 
+
+334
+00:13:15,470 --> 00:13:16,750
+the parenthesis. And we 
+
+335
+00:13:16,750 --> 00:13:18,970
+learned at the beginning that the 
+parenthesis is 
+
+336
+00:13:18,970 --> 00:13:20,690
+still above the dot before the dash. 
+Therefore, 
+
+337
+00:13:20,690 --> 00:13:22,190
+first 
+
+338
+00:13:22,190 --> 00:13:24,550
+determine the value in the bracket. This 
+is 10 minus 8, i.e. 
+
+339
+00:13:24,550 --> 00:13:28,690
+2. However, we can then 
+
+340
+00:13:28,690 --> 00:13:32,570
+divide 21 into 3 times 7. This 
+
+341
+00:13:32,570 --> 00:13:33,810
+might make multiplication 
+
+342
+00:13:33,810 --> 00:13:35,850
+a little easier. Let's have a look 
+
+343
+00:13:35,850 --> 00:13:39,890
+. And we get from 4 plus 10 
+
+344
+00:13:39,890 --> 00:13:44,910
+times 3 times 7 times 2 to 4 plus 70 times 
+
+345
+00:13:44,910 --> 00:13:48,370
+6. So we first 
+
+346
+00:13:48,370 --> 00:13:49,490
+calculated 10 times 7 , which results in 
+an 
+
+347
+00:13:49,490 --> 00:13:53,770
+even number 70. No matter what we 
+
+348
+00:13:53,770 --> 00:13:55,090
+would have multiplied the 10 by here, it 
+
+349
+00:13:55,090 --> 00:13:56,030
+would always have 
+
+350
+00:13:56,030 --> 00:13:57,290
+resulted in an even number. But 
+
+351
+00:13:57,290 --> 00:13:59,490
+of course we take the largest number to 
+make 
+
+352
+00:13:59,490 --> 00:14:02,770
+it... easier. Because 10 times 7 
+
+353
+00:14:02,770 --> 00:14:05,770
+is 70 and 3 times 2 is only 6. 
+
+354
+00:14:06,410 --> 00:14:09,150
+This means that from the two numbers 
+
+355
+00:14:09,150 --> 00:14:10,830
+that we 
+
+356
+00:14:10,830 --> 00:14:13,170
+can 't make an even number out of, we 
+naturally take the 
+
+357
+00:14:13,170 --> 00:14:14,710
+two smallest and 
+
+358
+00:14:14,710 --> 00:14:16,370
+multiply the largest by 10. 
+
+359
+00:14:16,370 --> 00:14:20,250
+This gives us 70 times 6. So before 
+
+360
+00:14:20,250 --> 00:14:21,390
+we 
+
+361
+00:14:21,390 --> 00:14:24,390
+do anything with the 5 here at the 
+beginning, we just do the maths in the 
+
+362
+00:14:24,390 --> 00:14:26,150
+brackets first. We now have 
+
+363
+00:14:26,150 --> 00:14:29,110
+4 plus 70 times 6 here , so we 
+
+364
+00:14:29,110 --> 00:14:30,350
+still have a multiplication 
+
+365
+00:14:30,350 --> 00:14:32,810
+in there and a dot before a dash, 
+
+366
+00:14:32,810 --> 00:14:34,750
+so we can't 
+
+367
+00:14:34,750 --> 00:14:36,810
+do the addition. First we have to 
+
+368
+00:14:36,810 --> 00:14:40,430
+calculate 70 times 6, that's 420. 
+
+369
+00:14:42,390 --> 00:14:45,010
+And now we have 4 
+
+370
+00:14:45,010 --> 00:14:48,630
+plus 420 in the parenthesis. We 
+
+371
+00:14:48,630 --> 00:14:50,030
+now carry out this addition. Fortunately 
+
+372
+00:14:50,030 --> 00:14:52,950
+, 420 is an even number, which means it' 
+
+373
+00:14:52,950 --> 00:14:54,550
+s quite easy. Then we 
+
+374
+00:14:54,550 --> 00:14:58,190
+come to 424. Now it just says 
+
+375
+00:14:58,190 --> 00:15:04,110
+5 plus 424 and 5 plus 424 is 429 
+
+376
+00:15:04,110 --> 00:15:05,950
+and that's our 
+
+377
+00:15:05,950 --> 00:15:10,130
+result. That brings us to the end of the 
+
+378
+00:15:10,130 --> 00:15:11,850
+webinar. Thank you very much 
+
+379
+00:15:11,850 --> 00:15:13,270
+for your attention. 

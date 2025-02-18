@@ -1,0 +1,367 @@
+﻿1
+00:00:04,270 --> 00:00:06,810
+Hello, my name is Joshua and I 
+
+2
+00:00:06,810 --> 00:00:07,830
+am a tutor at 
+
+3
+00:00:07,830 --> 00:00:09,710
+Schülerhilfe. Today I would like to 
+explain 
+
+4
+00:00:09,710 --> 00:00:10,970
+something about the representation and 
+
+5
+00:00:10,970 --> 00:00:12,470
+properties of non-metals 
+
+6
+00:00:12,470 --> 00:00:14,530
+. In our online 
+
+7
+00:00:14,530 --> 00:00:16,270
+ learning center, you will 
+
+8
+00:00:16,270 --> 00:00:17,650
+of course also find a wiki on this topic 
+
+9
+00:00:17,650 --> 00:00:18,890
+, in which the 
+
+10
+00:00:18,890 --> 00:00:20,610
+basic and important terms 
+
+11
+00:00:20,610 --> 00:00:23,210
+are explained in more detail. First, 
+
+12
+00:00:23,210 --> 00:00:25,110
+let's take a look at how non-metals 
+
+13
+00:00:25,110 --> 00:00:27,010
+are divided into 
+
+14
+00:00:27,010 --> 00:00:28,870
+reactive non-metals, i.e. 
+
+15
+00:00:28,870 --> 00:00:31,630
+non-metals and halogens, and 
+
+16
+00:00:31,630 --> 00:00:33,770
+noble gases. As you may already 
+
+17
+00:00:33,770 --> 00:00:35,910
+know, noble gases are not reactive 
+
+18
+00:00:35,990 --> 00:00:38,190
+because they 
+
+19
+00:00:38,190 --> 00:00:39,810
+have already 
+
+20
+00:00:39,810 --> 00:00:41,550
+reached the optimal state, i.e. the noble 
+gas configuration. 
+
+21
+00:00:41,550 --> 00:00:43,350
+
+22
+00:00:43,350 --> 00:00:45,030
+
+23
+00:00:45,030 --> 00:00:48,910
+A separate video on noble gas 
+configuration is also available in our 
+online learning center. The 
+
+24
+00:00:48,910 --> 00:00:50,490
+noble gas configuration occurs 
+
+25
+00:00:50,610 --> 00:00:52,610
+when an element 
+
+26
+00:00:52,610 --> 00:00:54,450
+has 8 outer electrons , as is the case 
+with noble gases 
+
+27
+00:00:54,450 --> 00:00:57,130
+. All other elements that 
+
+28
+00:00:57,130 --> 00:00:58,710
+do not have this state 
+
+29
+00:00:58,710 --> 00:01:00,730
+from the outset strive for it. 
+
+30
+00:01:01,570 --> 00:01:03,510
+Non-metals can be solid or liquid 
+
+31
+00:01:03,510 --> 00:01:06,910
+, halogens are gaseous. Now 
+
+32
+00:01:06,910 --> 00:01:08,250
+let's take a look at where the non-metals 
+are 
+
+33
+00:01:08,250 --> 00:01:09,730
+
+34
+00:01:09,730 --> 00:01:12,290
+located in the periodic table . A general 
+distinction is made 
+
+35
+00:01:12,290 --> 00:01:13,750
+in the periodic table between 
+
+36
+00:01:13,750 --> 00:01:15,570
+metals, semi-metals and 
+
+37
+00:01:15,570 --> 00:01:17,930
+non-metals. The non-metals 
+
+38
+00:01:17,930 --> 00:01:19,910
+are at the top right, except for 
+
+39
+00:01:19,910 --> 00:01:21,910
+hydrogen, as you 
+
+40
+00:01:21,910 --> 00:01:24,230
+can see from the diagram. In the diagram, 
+
+41
+00:01:24,230 --> 00:01:25,830
+the non-metals are green and the 
+
+42
+00:01:25,830 --> 00:01:27,370
+halogens, which we have just 
+
+43
+00:01:27,370 --> 00:01:29,010
+learned 
+
+44
+00:01:29,010 --> 00:01:31,570
+belong to the non-metals, are yellow. The 
+
+45
+00:01:31,570 --> 00:01:33,310
+noble gases are shown in 
+
+46
+00:01:33,310 --> 00:01:36,690
+dark blue in the diagram . Now 
+
+47
+00:01:36,690 --> 00:01:38,390
+let's take a look at the actual 
+
+48
+00:01:38,390 --> 00:01:39,530
+difference between metals and 
+
+49
+00:01:39,530 --> 00:01:41,630
+non-metals. Metals 
+
+50
+00:01:41,630 --> 00:01:44,090
+have the properties of high conductivity, 
+
+51
+00:01:44,190 --> 00:01:45,950
+high thermal conductivity, 
+
+52
+00:01:46,070 --> 00:01:48,290
+malleability and metallic 
+
+53
+00:01:48,290 --> 00:01:51,310
+luster. 
+
+54
+00:01:51,310 --> 00:01:53,970
+Non-metals lack these properties. 
+Non-metals are very 
+
+55
+00:01:53,970 --> 00:01:55,510
+reactive, they have a high 
+
+56
+00:01:55,510 --> 00:01:58,010
+electronegativity. 
+
+57
+00:01:58,010 --> 00:01:59,730
+They take up electrons very easily, as 
+they are only 
+
+58
+00:01:59,730 --> 00:02:00,990
+one electron short of the 
+
+59
+00:02:00,990 --> 00:02:03,310
+noble gas configuration, as you can see in 
+the 
+
+60
+00:02:03,310 --> 00:02:04,350
+periodic table. condensed diode system 
+
+61
+00:02:04,350 --> 00:02:06,750
+. And as you 
+
+62
+00:02:06,750 --> 00:02:08,250
+may already know, the 
+
+63
+00:02:08,250 --> 00:02:10,370
+noble gas configuration 
+
+64
+00:02:10,370 --> 00:02:12,430
+is regarded as the optimum and is 
+therefore 
+
+65
+00:02:12,430 --> 00:02:14,570
+aimed for by every element. As the 
+
+66
+00:02:14,570 --> 00:02:16,510
+non-metals are therefore close to 
+
+67
+00:02:16,590 --> 00:02:18,370
+achieving this, they make 
+
+68
+00:02:18,370 --> 00:02:20,910
+a special effort by 
+
+69
+00:02:20,910 --> 00:02:23,930
+being very reactive . Non-metals tend to 
+
+70
+00:02:23,930 --> 00:02:27,070
+form anions. Anions are negatively 
+
+71
+00:02:27,070 --> 00:02:29,210
+charged ions. They are formed 
+
+72
+00:02:29,210 --> 00:02:31,410
+when an atom accepts electrons. 
+
+73
+00:02:31,690 --> 00:02:34,030
+During electrolysis, anions migrate 
+
+74
+00:02:34,030 --> 00:02:37,550
+to the anode, i.e. the positive pole. 
+Anions 
+
+75
+00:02:37,550 --> 00:02:39,030
+can 
+
+76
+00:02:39,030 --> 00:02:40,570
+be detected with the help of chemical 
+reactions. 
+
+77
+00:02:41,530 --> 00:02:43,270
+Non-metals form an 
+
+78
+00:02:43,270 --> 00:02:46,430
+acidic solution with water. Non-metals 
+form 
+
+79
+00:02:46,430 --> 00:02:48,630
+salts with metals. If you 
+
+80
+00:02:48,630 --> 00:02:50,250
+would like to find out more about this 
+
+81
+00:02:50,250 --> 00:02:51,690
+, you can 
+
+82
+00:02:51,690 --> 00:02:53,870
+watch a separate video. I hope I 
+
+83
+00:02:53,870 --> 00:02:55,810
+have been able to explain this topic to 
+you. If you have 
+
+84
+00:02:55,810 --> 00:02:56,810
+any questions about this 
+
+85
+00:02:56,810 --> 00:02:58,910
+or other topics, please feel free to use 
+
+86
+00:02:58,910 --> 00:03:01,030
+our other learning content in the online 
+
+87
+00:03:01,030 --> 00:03:02,850
+ learning center or contact your 
+
+88
+00:03:02,850 --> 00:03:04,550
+local Schülerhilfe. See you 
+
+89
+00:03:04,550 --> 00:03:05,130
+next time! 

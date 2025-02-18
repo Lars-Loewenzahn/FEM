@@ -1,0 +1,548 @@
+1
+00:00:04,270 --> 00:00:06,590
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,590 --> 00:00:07,630
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,630 --> 00:00:09,550
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,550 --> 00:00:10,410
+etwas über das Thema
+
+5
+00:00:10,410 --> 00:00:12,390
+Elektronenkonfiguration und Ordnung
+
+6
+00:00:12,390 --> 00:00:13,930
+der Elemente im Periodensystem
+
+7
+00:00:13,930 --> 00:00:16,090
+erklären. In unserem Online
+
+8
+00:00:16,090 --> 00:00:17,850
+-Lerncenter steht dir zu diesem Thema
+
+9
+00:00:17,850 --> 00:00:19,230
+natürlich noch ein Wiki zur
+
+10
+00:00:19,230 --> 00:00:20,450
+Verfügung, in dem dir die
+
+11
+00:00:20,450 --> 00:00:22,110
+grundlegenden und wichtigen Begriffe
+
+12
+00:00:22,110 --> 00:00:25,530
+genau erklärt werden. Heute widmen
+
+13
+00:00:25,530 --> 00:00:27,090
+wir uns dem Periodensystem der
+
+14
+00:00:27,090 --> 00:00:30,850
+Elemente, also kurz PSE, seinem
+
+15
+00:00:30,850 --> 00:00:32,890
+Ordnungssystem und den Prinzipien,
+
+16
+00:00:32,890 --> 00:00:34,670
+die da... dahinterstehen. Das
+
+17
+00:00:34,670 --> 00:00:36,770
+Periodensystem als Ordnungssystem der
+
+18
+00:00:36,770 --> 00:00:39,170
+Elemente wurde in den 1860er Jahren
+
+19
+00:00:39,170 --> 00:00:41,450
+von den Chemikern Mendeleev und Meyer
+
+20
+00:00:41,450 --> 00:00:43,430
+unabhängig voneinander begründet.
+
+21
+00:00:43,750 --> 00:00:45,950
+Beide erkannten das naturgegebene
+
+22
+00:00:45,950 --> 00:00:47,650
+Ordnungssystem und stellten es in
+
+23
+00:00:47,650 --> 00:00:49,390
+Form der uns heute bekannten Tabelle
+
+24
+00:00:49,390 --> 00:00:52,790
+dar. Betrachtet man das PSE, erkennt
+
+25
+00:00:52,790 --> 00:00:54,550
+man, dass die Elemente außer nach
+
+26
+00:00:54,550 --> 00:00:56,250
+steigender Ordnungszahl, welche der
+
+27
+00:00:56,250 --> 00:00:58,610
+Protonenzahl entspricht, ebenfalls in
+
+28
+00:00:58,610 --> 00:01:00,650
+Gruppen und Perioden angeordnet sind.
+
+29
+00:01:01,290 --> 00:01:03,430
+Die Ordnungszahlen gehen von 1 bis
+
+30
+00:01:03,430 --> 00:01:06,470
+118, was die Existenz von 118
+
+31
+00:01:06,470 --> 00:01:09,110
+Elementen zeigt. Als das PSE
+
+32
+00:01:09,110 --> 00:01:11,330
+begründet wurde, waren gut die Hälfte
+
+33
+00:01:11,330 --> 00:01:13,310
+dieser 118 Elemente noch nicht
+
+34
+00:01:13,310 --> 00:01:15,090
+entdeckt worden, jedoch war die
+
+35
+00:01:15,090 --> 00:01:16,930
+Annahme, dass auch die unentdeckten
+
+36
+00:01:16,930 --> 00:01:19,090
+Elemente existieren müssen und es
+
+37
+00:01:19,090 --> 00:01:20,590
+keine Lücken in der Tabelle geben
+
+38
+00:01:20,590 --> 00:01:23,070
+würde. So konnte Meyer die
+
+39
+00:01:23,070 --> 00:01:24,510
+Eigenschaften der bis dahin noch
+
+40
+00:01:24,510 --> 00:01:26,790
+unbekannten Elemente Gallium, damals
+
+41
+00:01:26,790 --> 00:01:29,230
+Eka-Aluminium genannt, Scandium,
+
+42
+00:01:29,410 --> 00:01:32,850
+damals Eka-Bohr und Germanium, damals
+
+43
+00:01:32,850 --> 00:01:35,850
+Eka-Silizium, voraussagen. Die
+
+44
+00:01:35,850 --> 00:01:37,770
+Spalten im Periodensystem sind die
+
+45
+00:01:37,770 --> 00:01:39,470
+Gruppen und die Zeilen heißen
+
+46
+00:01:39,470 --> 00:01:42,410
+Perioden. Das Periodensystem hat acht
+
+47
+00:01:42,410 --> 00:01:44,010
+Hauptgruppen, zwischen denen sich die
+
+48
+00:01:44,010 --> 00:01:46,210
+Nebengruppen befinden. Diese
+
+49
+00:01:46,210 --> 00:01:48,370
+Anordnung in Gruppen und Perioden hat
+
+50
+00:01:48,370 --> 00:01:50,010
+mit der Elektronenkonfiguration zu
+
+51
+00:01:50,010 --> 00:01:51,570
+tun. der Elemente zu tun, welche
+
+52
+00:01:51,570 --> 00:01:53,410
+Auswirkungen auf die Reaktivität der
+
+53
+00:01:53,410 --> 00:01:56,150
+Elemente hat. Die
+
+54
+00:01:56,150 --> 00:01:57,710
+Elektronenkonfiguration kann mithilfe
+
+55
+00:01:57,710 --> 00:01:59,370
+des Schalenmodells der Atomhülle
+
+56
+00:01:59,370 --> 00:02:01,750
+dargestellt werden. Dieses Modell
+
+57
+00:02:01,750 --> 00:02:03,490
+zeigt die Verteilung der Elektronen
+
+58
+00:02:03,490 --> 00:02:05,690
+auf die Schalen. Die Schalen werden
+
+59
+00:02:05,690 --> 00:02:07,390
+mit Buchstaben beginnen mit K
+
+60
+00:02:07,390 --> 00:02:10,610
+benannt. Wie viele Schalen das Atom
+
+61
+00:02:10,610 --> 00:02:12,470
+eines Elements hat, erkennt man an
+
+62
+00:02:12,470 --> 00:02:14,070
+der Periode, in der sich das Element
+
+63
+00:02:14,070 --> 00:02:16,870
+befindet. Elemente der ersten Periode
+
+64
+00:02:16,870 --> 00:02:18,690
+haben nur die erste Schale, K.
+
+65
+00:02:19,470 --> 00:02:21,310
+Elemente der siebten Periode haben
+
+66
+00:02:21,310 --> 00:02:25,690
+die Schalen K bis Q, also 7. Die
+
+67
+00:02:25,690 --> 00:02:27,710
+erste Schale K fasst maximal zwei
+
+68
+00:02:27,710 --> 00:02:29,730
+Elektronen, die zweite Schale L
+
+69
+00:02:29,730 --> 00:02:32,350
+maximal acht, die dritte Schale M
+
+70
+00:02:32,350 --> 00:02:35,830
+erstmal auch acht. Chlor, das sich in
+
+71
+00:02:35,830 --> 00:02:37,530
+der dritten Periode befindet, hat
+
+72
+00:02:37,530 --> 00:02:39,170
+drei Schalen, auf welche sich seine
+
+73
+00:02:39,170 --> 00:02:41,910
+17 Elektronen verteilen. Die
+
+74
+00:02:41,910 --> 00:02:43,490
+Hauptgruppennummer entspricht der
+
+75
+00:02:43,490 --> 00:02:45,550
+Anzahl. an Valenzelektronen, also den
+
+76
+00:02:45,550 --> 00:02:47,190
+Elektronen, die sich in der äußersten
+
+77
+00:02:47,190 --> 00:02:48,910
+Schale befinden und an Bindungen
+
+78
+00:02:48,910 --> 00:02:51,510
+beteiligt sind. Elemente der ersten
+
+79
+00:02:51,510 --> 00:02:53,670
+Hauptgruppe haben ein Valenzelektron,
+
+80
+00:02:53,810 --> 00:02:56,030
+Elemente der zweiten Hauptgruppe
+
+81
+00:02:56,030 --> 00:02:58,310
+haben zwei und so weiter. Die
+
+82
+00:02:58,310 --> 00:03:00,730
+Maximalzahl an Valenzelektronen ist
+
+83
+00:03:00,730 --> 00:03:03,370
+somit 8. Elemente mit der gleichen
+
+84
+00:03:03,370 --> 00:03:05,230
+Anzahl an Valenzelektronen haben
+
+85
+00:03:05,230 --> 00:03:07,070
+ähnliche Eigenschaften, vor allen
+
+86
+00:03:07,070 --> 00:03:08,730
+Dingen in Bezug auf Bindung und
+
+87
+00:03:08,730 --> 00:03:11,710
+Reaktivität. Elemente der achten
+
+88
+00:03:11,710 --> 00:03:13,810
+Hauptgruppe, die Edelgase, sind
+
+89
+00:03:13,810 --> 00:03:15,590
+besonders stabil und haben mit acht
+
+90
+00:03:15,590 --> 00:03:18,150
+Valenzelektronen bzw. Helium mit zwei
+
+91
+00:03:18,150 --> 00:03:20,330
+Außenelektronen eine vollgefüllte
+
+92
+00:03:20,330 --> 00:03:22,870
+Außenschale. Die anderen Elemente
+
+93
+00:03:22,870 --> 00:03:24,530
+streben ebenfalls diese Konfiguration
+
+94
+00:03:24,530 --> 00:03:26,790
+an. Die Elemente der siebten
+
+95
+00:03:26,790 --> 00:03:29,350
+Hauptgruppe, die Halogene, denen nur
+
+96
+00:03:29,350 --> 00:03:31,250
+jeweils ein Außenelektron fehlt, sind
+
+97
+00:03:31,250 --> 00:03:33,550
+entsprechend reaktiv und haben hohe
+
+98
+00:03:33,550 --> 00:03:35,730
+Elektronegativitäten. Die
+
+99
+00:03:35,730 --> 00:03:38,910
+Elektronegativität, also kurz En, ist
+
+100
+00:03:38,910 --> 00:03:40,750
+das relative Maß für die Fähigkeit
+
+101
+00:03:40,750 --> 00:03:42,370
+eines Atoms, Elektronen an sich
+
+102
+00:03:42,370 --> 00:03:44,170
+heranzuziehen. Je höher die
+
+103
+00:03:44,170 --> 00:03:46,390
+Elektronegativität, desto stärker
+
+104
+00:03:46,390 --> 00:03:47,870
+zieht das jeweilige Atom an den
+
+105
+00:03:47,870 --> 00:03:49,850
+Elektronen der Bindung. Die
+
+106
+00:03:49,850 --> 00:03:51,690
+Elektronegativität eines Elements
+
+107
+00:03:51,690 --> 00:03:54,890
+lässt sich im PSE ablesen. Innerhalb
+
+108
+00:03:54,890 --> 00:03:55,930
+der Hauptgruppen nimmt die
+
+109
+00:03:55,930 --> 00:03:57,850
+Elektronegativität von links nach
+
+110
+00:03:57,850 --> 00:04:00,190
+rechts, also von der ersten bis zur
+
+111
+00:04:00,190 --> 00:04:02,350
+siebten Hauptgruppe zu. Mit
+
+112
+00:04:02,350 --> 00:04:04,310
+steigender Periode, also von oben
+
+113
+00:04:04,310 --> 00:04:05,410
+nach unten, nimmt die
+
+114
+00:04:05,410 --> 00:04:08,350
+Elektronegativität ab. Fluor hat mit
+
+115
+00:04:08,350 --> 00:04:11,330
+4 die höchste Elektronegativität. Je
+
+116
+00:04:11,330 --> 00:04:12,970
+weiter links die Hauptgruppe liegt,
+
+117
+00:04:13,050 --> 00:04:14,070
+desto niedriger ist die
+
+118
+00:04:14,070 --> 00:04:16,350
+Elektronegativität. Elemente der
+
+119
+00:04:16,350 --> 00:04:18,090
+ersten bis zur dritten Hauptgruppe
+
+120
+00:04:18,090 --> 00:04:19,230
+neigen mit ihrer niedrigen
+
+121
+00:04:19,230 --> 00:04:21,450
+Elektronegativität dazu, Elektronen
+
+122
+00:04:21,450 --> 00:04:22,450
+abzugeben, um die
+
+123
+00:04:22,450 --> 00:04:24,570
+Elektronenkonfiguration des Edelgases
+
+124
+00:04:24,570 --> 00:04:26,150
+der darunterliegenden Periode zu
+
+125
+00:04:26,150 --> 00:04:28,250
+erreichen. So würde Natrium durch
+
+126
+00:04:28,250 --> 00:04:30,090
+Abgabe seines Valenzelektrons die
+
+127
+00:04:30,090 --> 00:04:31,470
+Edelgaskonfiguration des
+
+128
+00:04:31,470 --> 00:04:33,130
+vorhergehenden Elements Neon
+
+129
+00:04:33,130 --> 00:04:35,550
+erreichen. Auch Magnesium neigt bei
+
+130
+00:04:35,550 --> 00:04:37,190
+Reaktion zur Abgabe von zwei
+
+131
+00:04:37,190 --> 00:04:38,630
+Außenelektronen, um die
+
+132
+00:04:38,630 --> 00:04:40,450
+Elektronenkonfiguration von Neon
+
+133
+00:04:40,450 --> 00:04:42,870
+aufzuweisen. Vielen Dank für deine
+
+134
+00:04:42,870 --> 00:04:44,430
+Aufmerksamkeit. Ich hoffe, dieses
+
+135
+00:04:44,430 --> 00:04:46,170
+Video konnte dir zu einem besseren
+
+136
+00:04:46,170 --> 00:04:48,190
+Verständnis des Themas verhelfen. Bis
+
+137
+00:04:48,190 --> 00:04:48,990
+zum nächsten Mal.
+

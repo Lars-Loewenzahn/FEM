@@ -1,0 +1,1632 @@
+1
+00:00:01,580 --> 00:00:03,080
+Guten Abend und herzlich willkommen
+
+2
+00:00:03,080 --> 00:00:06,380
+zum Webinar Daten und Statistik.
+
+3
+00:00:06,720 --> 00:00:09,360
+Könnt ihr mich hören? So, gebt mir
+
+4
+00:00:09,360 --> 00:00:11,340
+doch bitte ein kurzes Zeichen unten
+
+5
+00:00:11,340 --> 00:00:11,960
+im Chat.
+
+6
+00:00:17,450 --> 00:00:19,230
+Okay, Linus kann mich hören.
+
+7
+00:00:20,130 --> 00:00:21,610
+Heinrich, kannst du mich auch hören?
+
+8
+00:00:26,960 --> 00:00:31,360
+Perfekt. So, Daten und Statistik ist
+
+9
+00:00:31,360 --> 00:00:33,260
+letztendlich ein Oberbegriff. Wir
+
+10
+00:00:33,260 --> 00:00:35,760
+schauen uns mal an, womit
+
+11
+00:00:35,760 --> 00:00:37,800
+beschäftigen wir uns denn heute in
+
+12
+00:00:37,800 --> 00:00:38,620
+dem Webinar.
+
+13
+00:00:41,030 --> 00:00:42,530
+So, unter anderem... anderem gucken
+
+14
+00:00:42,530 --> 00:00:45,650
+wir uns die Grundlagen und Begriffe
+
+15
+00:00:45,650 --> 00:00:50,190
+der Statistik an. Dazu gehört der
+
+16
+00:00:50,190 --> 00:00:54,070
+Median, das arithmetische Mittel, die
+
+17
+00:00:54,070 --> 00:00:56,970
+Spannweite und ein paar weitere
+
+18
+00:00:56,970 --> 00:00:59,230
+Begriffe. Danach schauen wir uns den
+
+19
+00:00:59,230 --> 00:01:01,150
+Unterschied zwischen der absoluten
+
+20
+00:01:01,150 --> 00:01:05,650
+und relativen Häufigkeit an, der euch
+
+21
+00:01:05,650 --> 00:01:09,550
+dann bis in die Oberstufe quasi
+
+22
+00:01:09,550 --> 00:01:13,010
+verfolgt. Und ganz am Ende gucken wir
+
+23
+00:01:13,010 --> 00:01:14,150
+uns nochmal an, wie man
+
+24
+00:01:14,150 --> 00:01:15,410
+Wahrscheinlichkeiten berechnet.
+
+25
+00:01:18,060 --> 00:01:21,880
+So, fangen wir mit dem Begriff Modus
+
+26
+00:01:21,880 --> 00:01:26,360
+oder auch Modalwert genannt an. Der
+
+27
+00:01:26,360 --> 00:01:29,800
+Modus ist derjenige Wert einer Gruppe
+
+28
+00:01:29,800 --> 00:01:32,360
+von Werten, der am häufigsten
+
+29
+00:01:32,360 --> 00:01:34,500
+auftaucht. Wenn wir uns jetzt diese
+
+30
+00:01:34,500 --> 00:01:36,860
+untere Datengruppe anschauen, dann
+
+31
+00:01:36,860 --> 00:01:40,380
+sehen wir, dass die Zahl 6 insgesamt
+
+32
+00:01:40,380 --> 00:01:42,480
+in dieser Datengruppe, Datengruppe am
+
+33
+00:01:42,480 --> 00:01:43,980
+häufigsten auftaucht, nämlich
+
+34
+00:01:43,980 --> 00:01:47,380
+dreimal. Also lautet der Modus, dafür
+
+35
+00:01:47,380 --> 00:01:49,260
+nimmt man die Abkürzung klein m
+
+36
+00:01:49,260 --> 00:01:52,340
+gleich 6. Man kann natürlich auch
+
+37
+00:01:52,340 --> 00:01:53,820
+eine andere Datengruppe haben, es
+
+38
+00:01:53,820 --> 00:01:55,400
+müssen nicht zwangsläufig Zahlen
+
+39
+00:01:55,400 --> 00:01:58,140
+sein, es können auch Farben sein. Und
+
+40
+00:01:58,140 --> 00:02:00,200
+wenn wir uns diese Datengruppe
+
+41
+00:02:00,200 --> 00:02:03,020
+anschauen, dann sehen wir, dass die
+
+42
+00:02:03,020 --> 00:02:05,340
+Farbe grün insgesamt dreimal
+
+43
+00:02:05,340 --> 00:02:08,660
+aufgeführt wird. Das heißt, der Modus
+
+44
+00:02:08,660 --> 00:02:11,820
+m ist in dem Fall gleich grün. Hier
+
+45
+00:02:13,260 --> 00:02:16,260
+haben wir jetzt eine Beispielsaufgabe
+
+46
+00:02:16,260 --> 00:02:17,740
+und zwar haben wir hier wieder eine
+
+47
+00:02:17,740 --> 00:02:20,420
+Datengruppe und wir sollen den Modus
+
+48
+00:02:20,420 --> 00:02:22,020
+aus dieser Datengruppe angeben. Man
+
+49
+00:02:22,020 --> 00:02:23,260
+kann sich das ganz einfach machen,
+
+50
+00:02:23,320 --> 00:02:26,720
+indem man unten eine Strichliste sich
+
+51
+00:02:26,720 --> 00:02:29,400
+macht und schaut, wie häufig die
+
+52
+00:02:29,400 --> 00:02:31,800
+verschiedenen Zahlen auftauchen. Und
+
+53
+00:02:31,800 --> 00:02:34,440
+in dem Fall taucht die Zahl 8 am
+
+54
+00:02:34,440 --> 00:02:36,480
+häufigsten auf, nämlich 4 mal. Also
+
+55
+00:02:36,480 --> 00:02:39,320
+ist der Modus M gleich 8. Ein
+
+56
+00:02:41,180 --> 00:02:43,940
+weiterer wichtiger Begriff aus der
+
+57
+00:02:43,940 --> 00:02:49,840
+Statistik ist das Quartil bzw. der
+
+58
+00:02:49,840 --> 00:02:54,200
+Quartilabstand. In einer Gruppe von
+
+59
+00:02:54,200 --> 00:02:57,140
+Daten, die sich der Größe nach ordnen
+
+60
+00:02:57,140 --> 00:02:59,380
+lassen, sind die Quartile die Werte,
+
+61
+00:02:59,380 --> 00:03:01,280
+die die Gruppe in vier gleich große
+
+62
+00:03:01,280 --> 00:03:05,020
+Gruppen unterteilen. Das erste, was
+
+63
+00:03:05,020 --> 00:03:06,520
+man macht, ist, man guckt sich den
+
+64
+00:03:06,520 --> 00:03:08,320
+Median an. Das ist der mittlere.
+
+65
+00:03:09,500 --> 00:03:15,020
+Quartil. Und das mittlere Quartil in
+
+66
+00:03:15,020 --> 00:03:17,120
+dem Fall, Entschuldigung, ist die
+
+67
+00:03:17,120 --> 00:03:21,600
+Zahl 6. Das ist das, was hier rot
+
+68
+00:03:21,600 --> 00:03:26,410
+umrandet ist. Dann haben wir hier,
+
+69
+00:03:26,550 --> 00:03:30,810
+ja, letztendlich verschiedene
+
+70
+00:03:30,810 --> 00:03:33,010
+Gruppierungen oder Unterteilungen.
+
+71
+00:03:34,230 --> 00:03:37,910
+So, und wisst ihr, wie man das Median
+
+72
+00:03:37,910 --> 00:03:40,730
+bestimmt? und Heinrich.
+
+73
+00:04:13,500 --> 00:04:14,820
+Okay, dann erkläre ich das nochmal.
+
+74
+00:04:15,340 --> 00:04:19,280
+Und zwar ist es ganz einfach. So, am
+
+75
+00:04:19,280 --> 00:04:21,120
+einfachsten ist es, wenn man sich,
+
+76
+00:04:21,380 --> 00:04:25,340
+ja, man guckt sich letztendlich die
+
+77
+00:04:25,340 --> 00:04:27,740
+gesamte Datenreihe an.
+
+78
+00:04:30,380 --> 00:04:31,940
+So, mal gucken, ob ich den Stift
+
+79
+00:04:31,940 --> 00:04:34,780
+jetzt habe. Ja. So, wir haben jetzt
+
+80
+00:04:34,780 --> 00:04:36,240
+hier eine bestimmte Datenreihe. So,
+
+81
+00:04:36,280 --> 00:04:38,600
+dann müssen wir von rechts und links
+
+82
+00:04:38,600 --> 00:04:40,720
+immer zeitgleich, jetzt in dem Fall
+
+83
+00:04:40,720 --> 00:04:43,700
+Zahlen wegstreichen. So, wenn wir
+
+84
+00:04:43,700 --> 00:04:46,800
+hier die Zahl wegstreichen, müssen
+
+85
+00:04:49,610 --> 00:04:51,050
+wir natürlich hinten auch ebenfalls
+
+86
+00:04:51,050 --> 00:04:54,890
+die Zahl wegstreichen. Danach macht
+
+87
+00:04:54,890 --> 00:04:56,270
+man das mit der nächsten Zahl. Dann
+
+88
+00:04:56,270 --> 00:04:57,970
+streichen wir die 4 und die 10-Zeit
+
+89
+00:04:57,970 --> 00:05:00,710
+gleich weg. Dann die nächste 4 und
+
+90
+00:05:00,710 --> 00:05:06,190
+die 8. Dann die 5 und die 8. Dann die
+
+91
+00:05:06,190 --> 00:05:10,210
+5 und die 7. Dann die 6 und die 6.
+
+92
+00:05:10,250 --> 00:05:11,910
+Und dann bleibt nur noch die 6 über.
+
+93
+00:05:11,910 --> 00:05:14,290
+Und die Zahl, die überbleibt, ist
+
+94
+00:05:14,290 --> 00:05:16,850
+dann das Median. Deswegen kommen wir
+
+95
+00:05:16,850 --> 00:05:20,950
+auf die Zahl 6. Das Median ist auch
+
+96
+00:05:20,950 --> 00:05:23,170
+zeitgleich das mittlere Quartil.
+
+97
+00:05:26,080 --> 00:05:30,180
+Und das erste Quartil bzw. das untere
+
+98
+00:05:30,180 --> 00:05:32,860
+Quartil und das dritte Quartil
+
+99
+00:05:32,860 --> 00:05:34,660
+bestimmen wir nach dem gleichen
+
+100
+00:05:34,660 --> 00:05:38,940
+Prinzip. Wir unterteilen jetzt diese
+
+101
+00:05:38,940 --> 00:05:43,540
+Datengruppe in zwei Teile. ja die 6.
+
+102
+00:05:43,920 --> 00:05:46,200
+Dann müssen wir jetzt, ich nehme mal
+
+103
+00:05:46,200 --> 00:05:49,560
+eine andere Farbe, hier hinten, also
+
+104
+00:05:49,560 --> 00:05:51,300
+wir haben hier, wir unterteilen das
+
+105
+00:05:51,300 --> 00:05:55,440
+in zwei gleich große Gruppen und
+
+106
+00:05:55,440 --> 00:05:58,440
+jetzt müssen wir das untere Quartier
+
+107
+00:05:58,440 --> 00:06:00,120
+bestimmen. Das machen wir nach dem
+
+108
+00:06:00,120 --> 00:06:02,140
+gleichen Prinzip wie bei den Medien.
+
+109
+00:06:06,600 --> 00:06:08,720
+Jetzt streichen wir die 4 und die 5
+
+110
+00:06:08,720 --> 00:06:10,700
+weg. Das machen wir auch zeitgleich.
+
+111
+00:06:10,840 --> 00:06:13,260
+Jetzt haben wir die 4 und die 5. Wir
+
+112
+00:06:13,260 --> 00:06:15,340
+können jetzt nicht zeitgleich die 4
+
+113
+00:06:15,340 --> 00:06:19,500
+und die 5 wegstreichen. Und zwar hat
+
+114
+00:06:19,500 --> 00:06:21,180
+man sich jetzt da geeinigt, dass man
+
+115
+00:06:21,180 --> 00:06:24,600
+sagt, man nimmt den Mittelwert aus
+
+116
+00:06:24,600 --> 00:06:26,460
+diesen beiden Zahlen. Und der
+
+117
+00:06:26,460 --> 00:06:28,000
+Mittelwert aus den beiden Zahlen,
+
+118
+00:06:28,000 --> 00:06:32,340
+sprich aus 4 und 5, ist 4,5. Deshalb
+
+119
+00:06:32,340 --> 00:06:34,520
+lautet das erste Quartier, das untere
+
+120
+00:06:34,520 --> 00:06:39,920
+Quartier, gleich 4,5. Das gleiche
+
+121
+00:06:39,920 --> 00:06:42,420
+machen wir mit dem rechten Teil der
+
+122
+00:06:42,420 --> 00:06:44,740
+Daten. Hier streichen wir auch die 6
+
+123
+00:06:44,740 --> 00:06:47,880
+und die 10 zahlt gleich durch, die 7
+
+124
+00:06:47,880 --> 00:06:50,060
+und die 10, dann bleibt nur noch die
+
+125
+00:06:50,060 --> 00:06:53,100
+8. Jeweils die 8 über, das heißt wir
+
+126
+00:06:53,100 --> 00:06:55,680
+haben die Zahl 8 zweimal. Wenn wir
+
+127
+00:06:55,680 --> 00:06:58,120
+die 8 zahlt gleich durch streichen,
+
+128
+00:06:58,260 --> 00:07:01,960
+können wir das obere Quartil bzw. das
+
+129
+00:07:01,960 --> 00:07:04,540
+dritte Quartil nicht angeben. Wir
+
+130
+00:07:04,540 --> 00:07:06,220
+machen das genauso wie bei dem
+
+131
+00:07:06,220 --> 00:07:12,220
+unteren Quartil. Der Mittelwert von 8
+
+132
+00:07:12,220 --> 00:07:14,280
+und 8 ist letztendlich wieder 8. Das
+
+133
+00:07:14,280 --> 00:07:16,780
+heißt, das dritte oder das obere
+
+134
+00:07:16,780 --> 00:07:19,240
+Quartil in dem Fall ist gleich 8.
+
+135
+00:07:23,570 --> 00:07:25,260
+Hier haben wir eine Beispielsaufgabe
+
+136
+00:07:25,260 --> 00:07:27,600
+gegeben. Wir sollen den Median
+
+137
+00:07:27,600 --> 00:07:32,000
+angeben und
+
+138
+00:07:32,000 --> 00:07:37,840
+das obere und das untere Quartil. In
+
+139
+00:07:37,840 --> 00:07:40,340
+dieser gegebenen Datengruppe. So,
+
+140
+00:07:40,420 --> 00:07:41,420
+jetzt nehmen wir wieder unser Stift
+
+141
+00:07:41,420 --> 00:07:42,960
+zur Hand und
+
+142
+00:07:45,740 --> 00:07:49,060
+bestimmen erstmal den Median.
+
+143
+00:07:51,230 --> 00:07:56,690
+So, hier ist der Median 7. Also
+
+144
+00:07:56,690 --> 00:07:58,150
+wichtig ist, wir müssen erstmal diese
+
+145
+00:07:58,150 --> 00:08:03,410
+ganze Datengruppe der Größe nach
+
+146
+00:08:03,410 --> 00:08:07,410
+ordnen. Das wurde jetzt hier unten
+
+147
+00:08:07,410 --> 00:08:12,560
+gemacht. und den Median bestimmt man
+
+148
+00:08:12,560 --> 00:08:14,760
+wieder, indem man rechts und links
+
+149
+00:08:14,760 --> 00:08:17,000
+jeweils die Zahlenzeit gleich wieder
+
+150
+00:08:17,000 --> 00:08:21,040
+weg streicht und die Zahl, die
+
+151
+00:08:21,040 --> 00:08:22,780
+überbleibt, ist dann das Median. In
+
+152
+00:08:22,780 --> 00:08:26,280
+dem Fall ist es die 7. Jetzt sollen
+
+153
+00:08:26,280 --> 00:08:28,120
+wir noch das obere und das untere
+
+154
+00:08:28,120 --> 00:08:32,820
+Quartil angeben. Ja, dann verlegen
+
+155
+00:08:32,820 --> 00:08:36,640
+wir wieder unsere Datengruppe in zwei
+
+156
+00:08:36,640 --> 00:08:40,300
+Teile, nämlich nämlich genau an der
+
+157
+00:08:40,300 --> 00:08:43,540
+Stelle, wo unser Median ist und
+
+158
+00:08:43,540 --> 00:08:46,640
+können dann jeweils rechts und links
+
+159
+00:08:46,640 --> 00:08:51,320
+von der Datengruppe jeweils die
+
+160
+00:08:51,320 --> 00:08:52,440
+Zahlenzeit gleich wieder
+
+161
+00:08:52,440 --> 00:08:55,500
+durchstreichen und die Zahl 6 bleibt
+
+162
+00:08:55,500 --> 00:09:00,320
+über. Das heißt, das untere Quartil
+
+163
+00:09:00,320 --> 00:09:02,760
+ist dann gleich 6 und das obere
+
+164
+00:09:02,760 --> 00:09:06,120
+Quartil ist gleich 8. So,
+
+165
+00:09:15,960 --> 00:09:20,560
+ein wichtiger Begriff der Statistik
+
+166
+00:09:20,560 --> 00:09:22,520
+ist auch der Quartil,
+
+167
+00:09:22,520 --> 00:09:26,720
+Quartilsabstand, auch als Quartil
+
+168
+00:09:26,720 --> 00:09:31,560
+bzw. das obere und das untere Quartil
+
+169
+00:09:31,560 --> 00:09:34,440
+bezeichnet. Ne, jetzt habe ich was
+
+170
+00:09:34,440 --> 00:09:36,720
+falsch gesagt, Entschuldigung. Also,
+
+171
+00:09:36,820 --> 00:09:41,140
+man kann entweder Quartilabstand
+
+172
+00:09:41,140 --> 00:09:44,020
+sagen oder einfach nur Quartil. Der
+
+173
+00:09:44,020 --> 00:09:46,860
+Quartilsabstand ist in dem Fall die
+
+174
+00:09:46,860 --> 00:09:50,020
+Differenz zwischen dem oberen
+
+175
+00:09:50,020 --> 00:09:53,420
+Quartil, hier ist Q, also QO,
+
+176
+00:09:53,460 --> 00:09:56,020
+bezeichnet das obere Quartil, und dem
+
+177
+00:09:56,020 --> 00:09:59,000
+unteren Quartil. Aus unserer
+
+178
+00:09:59,000 --> 00:10:02,100
+Datengruppe haben wir jeweils das
+
+179
+00:10:02,100 --> 00:10:05,240
+untere und das obere Quartil
+
+180
+00:10:05,240 --> 00:10:07,240
+bestimmt. Das heißt, wir müssen jetzt
+
+181
+00:10:07,240 --> 00:10:08,820
+einfach nur die Differenz von beiden
+
+182
+00:10:08,820 --> 00:10:11,860
+nehmen, sprich 8 minus 4,5 ist gleich
+
+183
+00:10:11,860 --> 00:10:14,780
+3,5. und unser Quartilabstand.
+
+184
+00:10:20,330 --> 00:10:21,490
+So, hier ist nochmal eine
+
+185
+00:10:21,490 --> 00:10:24,330
+Beispielsaufgabe. Ganz wichtig bei
+
+186
+00:10:24,330 --> 00:10:26,830
+dieser Datengruppe, müssen wir wieder
+
+187
+00:10:26,830 --> 00:10:28,670
+die Zahlen der Größe nachsortieren.
+
+188
+00:10:29,710 --> 00:10:32,410
+Dann bestimmen wir wieder das Median,
+
+189
+00:10:32,430 --> 00:10:35,030
+das ist in dem Fall die 7. Ausgehend
+
+190
+00:10:35,030 --> 00:10:36,890
+vom Median bestimmen wir das untere
+
+191
+00:10:36,890 --> 00:10:38,950
+Quartil, danach das obere Quartil.
+
+192
+00:10:38,950 --> 00:10:41,850
+Das untere Quartil ist gleich 6, das
+
+193
+00:10:41,850 --> 00:10:43,570
+obere Quartil ist gleich 8. Dann
+
+194
+00:10:43,570 --> 00:10:44,990
+nehmen wir die Differenz von dem.
+
+195
+00:10:46,050 --> 00:10:48,270
+oberen und unteren Quartil und dann
+
+196
+00:10:48,270 --> 00:10:50,110
+kommt als Quartilabstand gleich 2
+
+197
+00:10:50,110 --> 00:10:50,450
+raus.
+
+198
+00:10:53,200 --> 00:10:55,000
+So, gibt es bis hierhin erstmal eine
+
+199
+00:10:55,000 --> 00:10:57,040
+Frage. Wichtig ist, dass ihr
+
+200
+00:10:57,040 --> 00:10:58,700
+verstanden habt, wie man den Median
+
+201
+00:10:58,700 --> 00:11:02,680
+bestimmt und wie man jeweils das
+
+202
+00:11:02,680 --> 00:11:04,120
+untere und das obere Quartil
+
+203
+00:11:04,120 --> 00:11:04,420
+bestimmt.
+
+204
+00:11:14,580 --> 00:11:19,790
+Okay, so, die Spannweite, die gehört
+
+205
+00:11:19,790 --> 00:11:21,830
+auch zu den wichtigen Begriffen der
+
+206
+00:11:21,830 --> 00:11:24,470
+Statistik. Letztendlich stellt die
+
+207
+00:11:24,470 --> 00:11:26,650
+Spannweite die Differenz zwischen dem
+
+208
+00:11:26,650 --> 00:11:30,150
+größten und dem kleinsten Wert einer
+
+209
+00:11:30,150 --> 00:11:34,950
+Datengruppe an. Und die Formel, das
+
+210
+00:11:34,950 --> 00:11:36,870
+ist das, was ich gerade gesagt habe,
+
+211
+00:11:36,930 --> 00:11:40,970
+nur mathematisch dargestellt. Naja,
+
+212
+00:11:41,010 --> 00:11:42,550
+was man jetzt machen muss, ist, man
+
+213
+00:11:42,550 --> 00:11:45,050
+guckt sich die gegebene Datengruppe
+
+214
+00:11:45,050 --> 00:11:48,510
+an und guckt sich an, welche Zahl ist
+
+215
+00:11:48,510 --> 00:11:50,590
+hier die kleinste und welche Zahl ist
+
+216
+00:11:50,590 --> 00:11:51,950
+hier die größte. Die kleinste Zahl
+
+217
+00:11:51,950 --> 00:11:54,130
+ist die 2. größte Zahl ist die 10.
+
+218
+00:11:54,610 --> 00:11:57,030
+Also rechnet man die größte Zahl
+
+219
+00:11:57,030 --> 00:12:00,150
+minus die kleinste Zahl, in dem Fall
+
+220
+00:12:00,150 --> 00:12:02,870
+10 minus 8 und damit haben wir eine
+
+221
+00:12:02,870 --> 00:12:04,270
+Spannweite von 8.
+
+222
+00:12:10,010 --> 00:12:10,690
+Hier ist nochmal eine
+
+223
+00:12:10,690 --> 00:12:13,710
+Beispielsaufgabe. Wir haben hier
+
+224
+00:12:13,710 --> 00:12:14,970
+wieder eine Datengruppe gegeben.
+
+225
+00:12:15,730 --> 00:12:16,870
+Jetzt müssen wir wieder gucken,
+
+226
+00:12:17,030 --> 00:12:19,630
+welche Zahl ist hier die kleinste, in
+
+227
+00:12:19,630 --> 00:12:21,870
+dem Fall ist es ist die 5 und die
+
+228
+00:12:21,870 --> 00:12:24,670
+größte Zahl ist die 10. Und um auf
+
+229
+00:12:24,670 --> 00:12:26,630
+die Spannweite zu kommen, rechnet man
+
+230
+00:12:26,630 --> 00:12:29,570
+einfach 10 minus 5 und das ist gleich
+
+231
+00:12:29,570 --> 00:12:31,510
+5. Das heißt, in dieser Datengruppe
+
+232
+00:12:31,510 --> 00:12:32,930
+haben wir eine Spannweite von 5.
+
+233
+00:12:36,350 --> 00:12:41,130
+So, und ein Begriff, der sehr, sehr
+
+234
+00:12:41,130 --> 00:12:43,110
+häufig in der Statistik vorkommt, ist
+
+235
+00:12:43,110 --> 00:12:45,330
+der Mittelwert. Oder auch als
+
+236
+00:12:45,330 --> 00:12:47,470
+arithmetisches Mittel oder
+
+237
+00:12:47,470 --> 00:12:49,830
+Durchschnitt bezeichnet. Da kommt es
+
+238
+00:12:49,830 --> 00:12:52,750
+halt immer drauf an. welche
+
+239
+00:12:52,750 --> 00:12:54,130
+Bezeichnung die entsprechende
+
+240
+00:12:54,130 --> 00:12:56,530
+Lehrkraft nutzt.
+
+241
+00:12:58,670 --> 00:13:01,830
+Ja, und das arithmetische Mittel ist
+
+242
+00:13:01,830 --> 00:13:03,490
+der Quotient aus der Summe aller
+
+243
+00:13:03,490 --> 00:13:06,050
+Werte, aus der Datenreihe und der
+
+244
+00:13:06,050 --> 00:13:09,690
+Anzahl der Werte. So, hier steht
+
+245
+00:13:09,690 --> 00:13:12,890
+jetzt x quer. Das ist ganz wichtig.
+
+246
+00:13:13,250 --> 00:13:15,510
+Mit diesem Strich hier macht ihr
+
+247
+00:13:15,510 --> 00:13:17,830
+deutlich, dass ihr das arithmetische
+
+248
+00:13:17,830 --> 00:13:21,330
+Mittel berechnet. So, und hier haben
+
+249
+00:13:21,330 --> 00:13:27,730
+wir jetzt 1 durch n ist die Anzahl
+
+250
+00:13:27,730 --> 00:13:31,990
+der Werte und x1 plus x2 bis xn ist
+
+251
+00:13:31,990 --> 00:13:34,330
+die Summe aller Werte aus dieser
+
+252
+00:13:34,330 --> 00:13:35,830
+Datenreihe. Wir gucken uns das mal an
+
+253
+00:13:35,830 --> 00:13:37,130
+einem Beispiel an. Das ist gar nicht
+
+254
+00:13:37,130 --> 00:13:40,690
+so kompliziert, wie es aussieht. Wir
+
+255
+00:13:40,690 --> 00:13:41,890
+haben hier eine Datenreihe gegeben.
+
+256
+00:13:42,350 --> 00:13:44,630
+Wir müssen jetzt diese Werte alle
+
+257
+00:13:44,630 --> 00:13:46,870
+zusammen agieren. Das ist genau das,
+
+258
+00:13:46,950 --> 00:13:49,430
+was hier steht. Dann teilen wir das
+
+259
+00:13:49,430 --> 00:13:51,510
+durch die... Anzahl der Werte. In dem
+
+260
+00:13:51,510 --> 00:13:54,730
+Fall haben wir 1, 2, 3, 4, 5, 6, 7,
+
+261
+00:13:54,770 --> 00:13:57,850
+8, 9, also geteilt durch 9. Und das
+
+262
+00:13:57,850 --> 00:13:59,670
+arithmetische Mittel lautet dann in
+
+263
+00:13:59,670 --> 00:14:03,030
+dem Fall 90,11, beziehungsweise der
+
+264
+00:14:03,030 --> 00:14:03,990
+Durchschnittswert.
+
+265
+00:14:06,510 --> 00:14:08,290
+So, das gleiche machen wir auch hier
+
+266
+00:14:08,290 --> 00:14:12,510
+bei dieser Datenreihe. Wir addieren
+
+267
+00:14:12,510 --> 00:14:17,950
+alle Werte, das ist genau das, was
+
+268
+00:14:17,950 --> 00:14:19,410
+hier steht, und teilen es durch die
+
+269
+00:14:19,410 --> 00:14:21,150
+Anzahl der Daten. Also, wenn wir
+
+270
+00:14:21,150 --> 00:14:23,750
+schon mal zählen, wie viele Daten wir
+
+271
+00:14:23,750 --> 00:14:26,470
+haben, oder wie viele Werte wir haben
+
+272
+00:14:26,470 --> 00:14:31,890
+in dem Fall. 1, 2, 3, 4, 5, 6, 7, 8,
+
+273
+00:14:32,090 --> 00:14:37,090
+9, 10. Also, die Daten alle zusammen
+
+274
+00:14:37,090 --> 00:14:38,990
+addiert, geteilt durch 10. Und das
+
+275
+00:14:38,990 --> 00:14:40,690
+ist gleich 17. Das heißt, das
+
+276
+00:14:40,690 --> 00:14:45,390
+arithmetische Mittel bzw.
+
+277
+00:14:47,380 --> 00:14:49,060
+der Mittelwert lautet in dem Fall,
+
+278
+00:14:49,080 --> 00:14:49,800
+Fall gleich 17.
+
+279
+00:14:54,160 --> 00:14:57,140
+Ja, wir haben jetzt die wichtigsten
+
+280
+00:14:57,140 --> 00:15:00,160
+Begriffe der Statistik besprochen.
+
+281
+00:15:01,160 --> 00:15:02,900
+Die sollten euch eigentlich auch
+
+282
+00:15:02,900 --> 00:15:07,080
+bekannt sein, hoffentlich. Das, was
+
+283
+00:15:07,080 --> 00:15:10,280
+wir uns jetzt angucken, ist die
+
+284
+00:15:10,280 --> 00:15:12,380
+Häufigkeit, nämlich die absolute und
+
+285
+00:15:12,380 --> 00:15:16,890
+die relative Häufigkeit. So, und
+
+286
+00:15:16,890 --> 00:15:18,450
+wichtig ist, dass ihr die
+
+287
+00:15:18,450 --> 00:15:21,570
+Unterscheidung versteht. In einer
+
+288
+00:15:21,570 --> 00:15:24,630
+Stichprobe hat jeder Datenwert eine
+
+289
+00:15:24,630 --> 00:15:27,470
+absolute Häufigkeit. Das heißt in dem
+
+290
+00:15:27,470 --> 00:15:30,430
+Fall, die absolute Häufigkeit gibt
+
+291
+00:15:30,430 --> 00:15:33,850
+letztendlich an, wie oft ein Wert in
+
+292
+00:15:33,850 --> 00:15:38,250
+der Stichprobe vorkommt. Die relative
+
+293
+00:15:38,250 --> 00:15:42,710
+Häufigkeit hingegen ist
+
+294
+00:15:45,110 --> 00:15:48,650
+die absolute Häufigkeit geteilt durch
+
+295
+00:15:48,650 --> 00:15:53,620
+die Gesamtanzahl. Das heißt, die
+
+296
+00:15:53,620 --> 00:15:55,920
+relative Häufigkeit eines Datenwerts
+
+297
+00:15:55,920 --> 00:15:58,460
+ist seine Häufigkeit in Bezug auf die
+
+298
+00:15:58,460 --> 00:16:01,860
+Gesamtzahl der Datenwerte. Dazu
+
+299
+00:16:01,860 --> 00:16:07,180
+benutzt man hier diese Formel. So und
+
+300
+00:16:07,180 --> 00:16:09,720
+wir sollen jetzt einmal die absolute
+
+301
+00:16:09,720 --> 00:16:13,180
+Häufigkeit dieser Datenreihe
+
+302
+00:16:13,180 --> 00:16:13,780
+bestimmen.
+
+303
+00:16:16,930 --> 00:16:19,270
+Also man kann hier ganz gut
+
+304
+00:16:19,270 --> 00:16:21,410
+strategisch vorgehen und zwar kann
+
+305
+00:16:21,410 --> 00:16:24,550
+man hier einmal die Zahlen aufführen.
+
+306
+00:16:25,210 --> 00:16:27,610
+2, 3, 4, 5, 6, 7, 9, das sind die
+
+307
+00:16:27,610 --> 00:16:28,910
+Zahlen, die in dieser Datenreihe
+
+308
+00:16:28,910 --> 00:16:31,250
+vorkommen. Und jetzt sollen wir die
+
+309
+00:16:31,250 --> 00:16:32,850
+absolute Häufigkeit bestimmen. Also
+
+310
+00:16:32,850 --> 00:16:34,790
+wie oft kommen diese Zahlen vor? Wir
+
+311
+00:16:34,790 --> 00:16:36,050
+sehen, in dieser Datenreihe kommt die
+
+312
+00:16:36,050 --> 00:16:38,710
+Zahl 2 einmal vor. Die Zahl 3 kommt
+
+313
+00:16:38,710 --> 00:16:41,150
+zweimal vor. Die Zahl 4 kommt
+
+314
+00:16:41,150 --> 00:16:42,910
+hingegen dreimal vor. Die Zahl 5
+
+315
+00:16:42,910 --> 00:16:44,810
+kommt einmal vor. Die Zahl 7 kommt
+
+316
+00:16:44,810 --> 00:16:47,210
+einmal vor und die Zahl 9 kommt
+
+317
+00:16:47,210 --> 00:16:49,670
+einmal vor. Das ist die absolute
+
+318
+00:16:49,670 --> 00:16:52,190
+Häufigkeit, die wir bestimmt haben.
+
+319
+00:16:52,810 --> 00:16:55,230
+Wenn wir jetzt die relative
+
+320
+00:16:55,230 --> 00:16:58,490
+Häufigkeit bestimmen sollen, dann
+
+321
+00:16:58,490 --> 00:17:00,870
+müssen wir noch durch die
+
+322
+00:17:00,870 --> 00:17:03,950
+Gesamtanzahl der Daten teilen. Also,
+
+323
+00:17:03,950 --> 00:17:06,930
+wir müssen gucken, wie viele Zahlen
+
+324
+00:17:06,930 --> 00:17:08,930
+haben wir in dieser Datenreihe. 1, 2,
+
+325
+00:17:08,990 --> 00:17:12,530
+3, 4, 5, 6, 7, 8. Das heißt, ich
+
+326
+00:17:12,530 --> 00:17:15,890
+rechne jetzt 2 geteilt durch 8, um
+
+327
+00:17:15,890 --> 00:17:19,170
+die relative Häufigkeit anzugeben.
+
+328
+00:17:19,190 --> 00:17:21,350
+Und 2 geteilt durch 8 sind 0,25.
+
+329
+00:17:23,950 --> 00:17:25,790
+Das gleiche mache ich entsprechend
+
+330
+00:17:25,790 --> 00:17:27,710
+auch für die Zahl 4, die einmal
+
+331
+00:17:27,710 --> 00:17:29,150
+vorkommt. Die muss ich jetzt auch
+
+332
+00:17:29,150 --> 00:17:31,410
+durch 8 teilen. Dann habe ich hier
+
+333
+00:17:31,410 --> 00:17:35,170
+eine relative Häufigkeit von 1,8. Und
+
+334
+00:17:35,170 --> 00:17:37,290
+so weiter. Bei der 5, die kommt auch
+
+335
+00:17:37,290 --> 00:17:39,030
+einmal vor, also 1 geteilt durch 8.
+
+336
+00:17:39,810 --> 00:17:41,870
+Dann muss ich noch 3 geteilt durch 8.
+
+337
+00:17:41,890 --> 00:17:43,930
+8 rechnen und 1 geteilt durch 8. Das
+
+338
+00:17:43,930 --> 00:17:45,250
+heißt, das, was ich mache, ist
+
+339
+00:17:45,250 --> 00:17:49,330
+letztendlich die absolute Häufigkeit
+
+340
+00:17:49,330 --> 00:17:53,710
+durch 8 überall rechnen. Und dann
+
+341
+00:17:53,710 --> 00:17:55,650
+kann ich angeben, wie groß die
+
+342
+00:17:55,650 --> 00:17:56,990
+relative Häufigkeit ist.
+
+343
+00:18:00,540 --> 00:18:01,840
+So, gibt es jetzt hier erstmal
+
+344
+00:18:01,840 --> 00:18:02,500
+Fragen?
+
+345
+00:18:15,580 --> 00:18:18,590
+Okay, dann kommen wir zu der
+
+346
+00:18:18,590 --> 00:18:21,150
+Wahrscheinlichkeit. Eine
+
+347
+00:18:21,150 --> 00:18:22,330
+Wahrscheinlichkeit ist letztendlich
+
+348
+00:18:22,330 --> 00:18:25,470
+eine Art Prognose, die ein Urteil
+
+349
+00:18:25,470 --> 00:18:27,130
+über bestimmte Versuche... Versuche
+
+350
+00:18:27,130 --> 00:18:31,090
+oder Experimente liefern kann. Und
+
+351
+00:18:31,090 --> 00:18:34,490
+häufige Beispiele dafür sind der
+
+352
+00:18:34,490 --> 00:18:38,110
+Würfel oder die Münze. Und wenn wir
+
+353
+00:18:38,110 --> 00:18:40,370
+an eine Münze denken und die
+
+354
+00:18:40,370 --> 00:18:42,130
+Wahrscheinlichkeit berechnen, also
+
+355
+00:18:42,130 --> 00:18:43,450
+wenn wir von einer fairen Münze
+
+356
+00:18:43,450 --> 00:18:46,310
+sprechen und nicht von einer
+
+357
+00:18:46,310 --> 00:18:48,150
+gezinkten, dann liegt die
+
+358
+00:18:48,150 --> 00:18:50,670
+Wahrscheinlichkeit bei 50%. Denn die
+
+359
+00:18:50,670 --> 00:18:52,130
+Wahrscheinlichkeit, dass wir Kopf
+
+360
+00:18:52,130 --> 00:18:55,110
+oder Zahl würfeln, ist jeweils 50%.
+
+361
+00:18:55,110 --> 00:18:56,290
+So,
+
+362
+00:18:58,160 --> 00:19:01,800
+und die Wahrscheinlichkeit des
+
+363
+00:19:03,560 --> 00:19:06,180
+Ereignisses, dass wir Kopf würfeln,
+
+364
+00:19:06,240 --> 00:19:08,580
+berechnet man, indem man die
+
+365
+00:19:08,580 --> 00:19:11,600
+Mächtigkeit der Ereignismenge nimmt.
+
+366
+00:19:11,680 --> 00:19:12,820
+Das ist genau das hier. Diese
+
+367
+00:19:12,820 --> 00:19:15,660
+Striche, die hier stehen, stellen die
+
+368
+00:19:15,660 --> 00:19:17,800
+Mächtigkeit der Ereignismenge dar,
+
+369
+00:19:17,860 --> 00:19:22,190
+geteilt durch die Mächtigkeit von
+
+370
+00:19:22,190 --> 00:19:22,990
+Omega.
+
+371
+00:19:27,020 --> 00:19:31,020
+So, und das ist gerade ein Hype.
+
+372
+00:19:33,710 --> 00:19:37,610
+nämlich 50%. Gucken wir uns das Ganze
+
+373
+00:19:37,610 --> 00:19:40,290
+mal an einem anderen Beispiel an,
+
+374
+00:19:40,350 --> 00:19:43,110
+nämlich, was haben wir hier? Wir
+
+375
+00:19:43,110 --> 00:19:46,810
+haben hier einen Würfel. Hier steht,
+
+376
+00:19:46,810 --> 00:19:48,190
+bestimme die Wahrscheinlichkeit, bei
+
+377
+00:19:48,190 --> 00:19:50,670
+einem Würfelwurf eine Zahl zu
+
+378
+00:19:50,670 --> 00:19:52,730
+erhalten, die kleiner als 3 ist.
+
+379
+00:19:53,930 --> 00:19:56,710
+Omega ist in dem Fall, wir wissen,
+
+380
+00:19:56,770 --> 00:19:58,690
+ein Würfel kann die Zahlen 1, 2, 3,
+
+381
+00:19:58,770 --> 00:20:00,230
+4, 5, 6 annehmen, das ist unsere
+
+382
+00:20:00,230 --> 00:20:03,170
+Ereignismenge. Und wir sollen jetzt
+
+383
+00:20:03,170 --> 00:20:04,230
+die Wahrscheinlichkeit bestimmen,
+
+384
+00:20:04,270 --> 00:20:07,190
+dass wir eine Zahl würfeln, die
+
+385
+00:20:07,190 --> 00:20:09,170
+kleiner als 3 ist. In dem Fall bleibt
+
+386
+00:20:09,170 --> 00:20:12,130
+dann nur die 1 und die 2. Das ist das
+
+387
+00:20:12,130 --> 00:20:15,410
+E. Und die Wahrscheinlichkeit, dass
+
+388
+00:20:15,410 --> 00:20:19,170
+wir die Zahl kleiner 3 würfeln, ist
+
+389
+00:20:19,170 --> 00:20:23,710
+letztendlich 2 Sechste. Wie komme ich
+
+390
+00:20:23,710 --> 00:20:25,210
+auf 2 Sechste? Ganz einfach. Wir
+
+391
+00:20:25,210 --> 00:20:27,030
+betrachten ja die Mächtigkeit von E
+
+392
+00:20:27,030 --> 00:20:30,030
+und Omega. So, und wenn wir uns E
+
+393
+00:20:30,030 --> 00:20:32,250
+angucken, haben wir genau 2. Deswegen
+
+394
+00:20:32,250 --> 00:20:34,890
+steht hier eine 2. Wenn wir uns Omega
+
+395
+00:20:34,890 --> 00:20:38,210
+angucken und die Mächtigkeit davon
+
+396
+00:20:38,210 --> 00:20:40,330
+nehmen, haben wir insgesamt 6 Zahlen,
+
+397
+00:20:40,510 --> 00:20:42,790
+also geteilt durch 6. Und das Ganze
+
+398
+00:20:42,790 --> 00:20:45,630
+können wir jetzt kürzen mit der 2.
+
+399
+00:20:45,650 --> 00:20:47,730
+Dann steht da gleich ein Drittel und
+
+400
+00:20:47,730 --> 00:20:52,730
+ein Drittel sind 33,3%. Das heißt,
+
+401
+00:20:52,770 --> 00:20:54,270
+die Wahrscheinlichkeit liegt bei 33
+
+402
+00:20:54,270 --> 00:20:57,630
+,3%, dass die Zahl kleiner als 3 ist.
+
+403
+00:21:00,900 --> 00:21:03,340
+Vielen Dank für eure Aufmerksamkeit.
+
+404
+00:21:03,900 --> 00:21:05,800
+Wenn ihr Fragen habt, könnt ihr gerne
+
+405
+00:21:05,800 --> 00:21:07,500
+jetzt Fragen stellen. Ansonsten
+
+406
+00:21:07,500 --> 00:21:09,060
+wünsche ich euch einen schönen Abend.
+
+407
+00:21:59,480 --> 00:22:01,980
+Okay, dann würde ich sagen, bis
+
+408
+00:22:01,980 --> 00:22:03,880
+demnächst. Tschüss!
+

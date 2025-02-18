@@ -1,0 +1,252 @@
+1
+00:00:00,080 --> 00:00:02,160
+Jeder von uns weiß und kennt die
+
+2
+00:00:02,160 --> 00:00:03,840
+Bedeutsamkeit und auch die
+
+3
+00:00:03,840 --> 00:00:05,880
+Notwendigkeit des Begrüßungsanrufs.
+
+4
+00:00:06,860 --> 00:00:08,780
+Mithilfe des Begrüßungsanrufs
+
+5
+00:00:08,780 --> 00:00:10,640
+verstärke ich die Einladung,
+
+6
+00:00:10,660 --> 00:00:12,980
+bekräftige noch einmal die
+
+7
+00:00:12,980 --> 00:00:14,540
+Möglichkeiten, die die Schülerhilfe
+
+8
+00:00:14,540 --> 00:00:16,500
+bietet und kann mir auch schon ein
+
+9
+00:00:16,500 --> 00:00:18,540
+erstes Bild machen. Ich möchte Ihnen
+
+10
+00:00:18,540 --> 00:00:20,380
+gerne in dieser Sequenz zeigen, wie
+
+11
+00:00:20,380 --> 00:00:22,600
+Sie den Begrüßungsanruf setzen und
+
+12
+00:00:22,600 --> 00:00:24,780
+wie Sie diesen Anruf in Ihrer
+
+13
+00:00:24,780 --> 00:00:27,280
+Terminhistorie auch darstellen
+
+14
+00:00:27,280 --> 00:00:30,060
+können. Zunächst wähle ich den
+
+15
+00:00:30,060 --> 00:00:32,980
+Kontakt aus. Hier geht es in diesem
+
+16
+00:00:32,980 --> 00:00:35,900
+Fall um Kim. Über Status und auch
+
+17
+00:00:35,900 --> 00:00:37,880
+jetzt im Registerblatt Status. Dort
+
+18
+00:00:37,880 --> 00:00:39,640
+stelle ich die Terminhistorie dar.
+
+19
+00:00:40,980 --> 00:00:44,700
+Wähle ich das Datum aus. Und als
+
+20
+00:00:44,700 --> 00:00:46,640
+nächste Aktion den Begrüßungsangriff.
+
+21
+00:00:47,120 --> 00:00:48,720
+Bislang ist im System nichts
+
+22
+00:00:48,720 --> 00:00:49,940
+hinterlegt. Das heißt, der
+
+23
+00:00:49,940 --> 00:00:51,860
+Begrüßungsangriff ist bislang offen.
+
+24
+00:00:52,140 --> 00:00:53,620
+Auch jetzt ist noch nichts weiter
+
+25
+00:00:53,620 --> 00:00:57,500
+passiert. Termin hinzufügen heißt mit
+
+26
+00:00:57,500 --> 00:00:59,480
+dem Abspeichern, ich habe den
+
+27
+00:00:59,480 --> 00:01:01,540
+Begrüßungsanruf versucht, er ist noch
+
+28
+00:01:01,540 --> 00:01:03,620
+nicht abgeschlossen. Speichere ich
+
+29
+00:01:03,620 --> 00:01:06,120
+den Kontakt ab, so sehe ich diesen
+
+30
+00:01:06,120 --> 00:01:07,680
+Begrüßungsanruf auch in der
+
+31
+00:01:07,680 --> 00:01:08,360
+Wiedervorlage.
+
+32
+00:01:12,750 --> 00:01:15,330
+Hier ist der Begrüßungsanruf, bei
+
+33
+00:01:15,330 --> 00:01:18,510
+Niklas Roth ebenfalls. Sie können nun
+
+34
+00:01:18,510 --> 00:01:20,450
+direkt auf diese nächste Aktion gehen
+
+35
+00:01:20,450 --> 00:01:22,190
+und sind dann wieder im Bereich
+
+36
+00:01:22,190 --> 00:01:27,710
+Status der Anfrage des Schülers. Wenn
+
+37
+00:01:27,710 --> 00:01:31,630
+ich jetzt anklicke, hier als Aussage
+
+38
+00:01:31,630 --> 00:01:33,990
+habe ich den Begrüßungsanruf
+
+39
+00:01:33,990 --> 00:01:36,130
+versucht. Ich habe noch niemanden
+
+40
+00:01:36,130 --> 00:01:37,310
+erreicht und noch keine
+
+41
+00:01:37,310 --> 00:01:39,450
+Terminbestätigung hinterlegen können.
+
+42
+00:01:39,870 --> 00:01:41,990
+Erst wenn ich das Häkchen setze,
+
+43
+00:01:42,010 --> 00:01:45,110
+akzeptiert das System, der
+
+44
+00:01:45,110 --> 00:01:47,750
+Begrüßungsanruf ist erledigt. Ich
+
+45
+00:01:47,750 --> 00:01:51,490
+speichere ab. Sie sehen nun, Kim ist
+
+46
+00:01:51,490 --> 00:01:53,710
+aus der Wiedervorlage entfernt worden
+
+47
+00:01:53,710 --> 00:01:57,010
+im Begrüßungsanruf. Und das System
+
+48
+00:01:57,010 --> 00:01:59,010
+macht hinter Versuch quasi ein
+
+49
+00:01:59,010 --> 00:02:01,290
+kleines Häkchen und sagt erledigt.
+
+50
+00:02:02,130 --> 00:02:04,270
+Somit haben Sie den Begrüßungsanruf
+
+51
+00:02:04,270 --> 00:02:08,070
+bei Kim erledigt. Ich möchte das noch
+
+52
+00:02:08,070 --> 00:02:10,190
+einmal wiederholen bei Niklas. Ich
+
+53
+00:02:10,190 --> 00:02:11,950
+gehe auf die nächste Aktion
+
+54
+00:02:11,950 --> 00:02:15,090
+Begrüßungsanruf, setze hier das
+
+55
+00:02:15,090 --> 00:02:17,370
+Häkchen für erledigt, kennzeichne ihn
+
+56
+00:02:17,370 --> 00:02:19,330
+damit erledigt, speichere einmal ab.
+
+57
+00:02:20,570 --> 00:02:22,450
+Der Begrüßungsanruf verschwindet aus
+
+58
+00:02:22,450 --> 00:02:24,670
+meiner Wiedervorlage und
+
+59
+00:02:26,720 --> 00:02:27,920
+ich kann... zur nächsten Aktion
+
+60
+00:02:27,920 --> 00:02:30,580
+gehen. Auch hier lade ich Sie wieder
+
+61
+00:02:30,580 --> 00:02:33,000
+ein, das einmal auszuprobieren und zu
+
+62
+00:02:33,000 --> 00:02:34,480
+schauen, wie Sie damit umgehen können
+
+63
+00:02:34,480 --> 00:02:35,860
+und wünsche Ihnen viel Erfolg dabei.
+

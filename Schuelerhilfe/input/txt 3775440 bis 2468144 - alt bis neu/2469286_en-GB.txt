@@ -1,0 +1,655 @@
+﻿1
+00:00:03,950 --> 00:00:05,870
+Hello, my name is Paula and I 
+
+2
+00:00:05,870 --> 00:00:07,290
+am a tutor 
+
+3
+00:00:07,290 --> 00:00:09,930
+at Schülerhilfe. Today I would like to 
+explain 
+
+4
+00:00:09,930 --> 00:00:11,690
+something about the amount of substance, 
+
+5
+00:00:11,750 --> 00:00:14,290
+Avogadro's constant, molar mass and 
+
+6
+00:00:14,290 --> 00:00:16,790
+molar volume. In our 
+
+7
+00:00:16,790 --> 00:00:18,690
+online learning center, you 
+
+8
+00:00:18,690 --> 00:00:20,430
+can of course also find a wiki on this 
+topic 
+
+9
+00:00:20,430 --> 00:00:21,970
+, in which the 
+
+10
+00:00:21,970 --> 00:00:23,530
+basic and important terms 
+
+11
+00:00:23,530 --> 00:00:26,650
+are explained in more detail. As you 
+
+12
+00:00:26,650 --> 00:00:28,310
+may know, 
+
+13
+00:00:28,310 --> 00:00:30,650
+atoms and molecules are extremely small 
+
+14
+00:00:30,650 --> 00:00:32,630
+particles with a small mass that make up 
+
+15
+00:00:32,630 --> 00:00:35,470
+matter. In order to 
+
+16
+00:00:35,470 --> 00:00:37,370
+be able to carry out calculations and 
+
+17
+00:00:37,370 --> 00:00:38,750
+
+18
+00:00:38,750 --> 00:00:41,310
+use reactants in the correct ratio for a 
+reaction, 
+
+19
+00:00:41,310 --> 00:00:42,670
+a number of quantities and a 
+
+20
+00:00:42,670 --> 00:00:44,490
+constant are used, which I 
+
+21
+00:00:44,490 --> 00:00:48,210
+would like to discuss below. The amount of 
+substance with 
+
+22
+00:00:48,210 --> 00:00:50,530
+the formula symbol n indirectly indicates 
+the 
+
+23
+00:00:50,530 --> 00:00:52,330
+number of particles in a portion of 
+substance. 
+
+24
+00:00:52,510 --> 00:00:54,270
+Particles can 
+
+25
+00:00:54,270 --> 00:00:56,870
+be atoms, ions or 
+
+26
+00:00:56,870 --> 00:00:59,370
+molecules. The quantity of substance is a 
+
+27
+00:00:59,370 --> 00:01:02,090
+mole. A quantity of substance of one mole 
+
+28
+00:01:02,090 --> 00:01:06,230
+always contains 6.022 times 10 to the 
+power of 23 
+
+29
+00:01:06,230 --> 00:01:08,810
+particles. This number of 
+
+30
+00:01:08,810 --> 00:01:10,650
+particles contained in one mole is the 
+
+31
+00:01:10,650 --> 00:01:12,730
+so-called Avogadro constant, 
+
+32
+00:01:12,850 --> 00:01:14,430
+named after the Italian 
+
+33
+00:01:14,430 --> 00:01:17,410
+physicist Amedeo Avogadro. The 
+
+34
+00:01:17,410 --> 00:01:19,010
+Avogadro constant is a 
+
+35
+00:01:19,010 --> 00:01:21,210
+unitless number and is 
+
+36
+00:01:21,210 --> 00:01:23,310
+
+37
+00:01:23,310 --> 00:01:24,930
+
+38
+00:01:24,930 --> 00:01:27,370
+represented with a capital N and a 
+subscript capital A as the formula symbol. 
+This definition of the 
+
+39
+00:01:27,370 --> 00:01:28,950
+amount of substance and the knowledge of 
+its 
+
+40
+00:01:28,950 --> 00:01:31,090
+exact number of particles 
+
+41
+00:01:31,090 --> 00:01:32,810
+allows the introduction of other 
+quantities 
+
+42
+00:01:32,970 --> 00:01:34,810
+that 
+
+43
+00:01:34,810 --> 00:01:36,590
+make it easier to calculate with amounts 
+of substance. For example, the 
+
+44
+00:01:36,590 --> 00:01:38,290
+amount of substance in a portion of 
+substance can 
+
+45
+00:01:38,290 --> 00:01:40,210
+be obtained by 
+
+46
+00:01:40,210 --> 00:01:42,490
+
+47
+00:01:42,490 --> 00:01:44,930
+dividing the mass of a portion of 
+substance by the molar mass of the 
+substance. The molar mass 
+
+48
+00:01:44,930 --> 00:01:47,710
+has the formula symbol M with the 
+
+49
+00:01:47,710 --> 00:01:50,210
+unit gram per mole. The molar 
+
+50
+00:01:50,210 --> 00:01:51,870
+mass of one gram per mole 
+
+51
+00:01:51,870 --> 00:01:53,910
+corresponds to the atomic mass unit, 
+
+52
+00:01:54,010 --> 00:01:57,290
+i.e. one unit or dorten. 
+
+53
+00:01:57,290 --> 00:01:58,830
+The molar mass of 
+
+54
+00:01:58,830 --> 00:02:01,070
+elements can therefore 
+
+55
+00:02:01,070 --> 00:02:03,510
+be taken from the periodic table, or PSE 
+for short , in which each 
+
+56
+00:02:03,510 --> 00:02:05,610
+element is 
+
+57
+00:02:05,610 --> 00:02:08,070
+assigned its average atomic mass. The 
+molar mass of 
+
+58
+00:02:08,070 --> 00:02:09,570
+compounds can be 
+
+59
+00:02:09,570 --> 00:02:12,270
+
+60
+00:02:12,270 --> 00:02:13,850
+
+61
+00:02:13,850 --> 00:02:16,930
+calculated by adding the molar masses of 
+the atoms present in the compound. Water 
+with the formula H2O 
+
+62
+00:02:16,930 --> 00:02:19,390
+contains two hydrogen atoms 
+
+63
+00:02:19,390 --> 00:02:21,870
+, each with one gram per mole, and one 
+
+64
+00:02:21,870 --> 00:02:24,190
+oxygen atom with 16 grams per mole. 
+
+65
+00:02:24,330 --> 00:02:26,810
+This means that the compound H2O has a 
+
+66
+00:02:26,810 --> 00:02:28,930
+molar mass of 18 grams per mole. 
+
+67
+00:02:29,250 --> 00:02:31,490
+Common salt, chemically sodium chloride 
+
+68
+00:02:31,710 --> 00:02:34,150
+, has a 
+
+69
+00:02:34,150 --> 00:02:38,210
+molar mass of 58.5 grams per mole after 
+adding up the atomic mass. The 
+
+70
+00:02:38,210 --> 00:02:40,150
+molar mass is useful when 
+
+71
+00:02:40,150 --> 00:02:41,730
+working with solids or liquids 
+
+72
+00:02:41,730 --> 00:02:43,890
+because you 
+
+73
+00:02:43,890 --> 00:02:45,510
+can weigh them and thus 
+
+74
+00:02:45,510 --> 00:02:47,050
+calculate the quantities of substances 
+present or 
+
+75
+00:02:47,050 --> 00:02:48,870
+use a desired quantity of substance. 
+
+76
+00:02:49,630 --> 00:02:51,750
+However, if you are working with gaseous 
+
+77
+00:02:51,750 --> 00:02:53,370
+substances, you use 
+
+78
+00:02:53,370 --> 00:02:55,570
+another quantity, the molar volume. 
+
+79
+00:02:55,810 --> 00:02:57,910
+The molar volume describes the 
+
+80
+00:02:57,910 --> 00:02:59,550
+volume 
+
+81
+00:02:59,550 --> 00:03:02,490
+occupied by one mole of a substance. In 
+the case of gases, the 
+
+82
+00:03:02,490 --> 00:03:04,310
+molar volume does not depend on the type 
+of 
+
+83
+00:03:04,310 --> 00:03:06,990
+substance. It is a so-called 
+
+84
+00:03:06,990 --> 00:03:09,570
+intensive quantity, a state quantity 
+
+85
+00:03:09,670 --> 00:03:11,930
+that 
+
+86
+00:03:11,930 --> 00:03:14,330
+does not change when the size of the 
+system changes. One mole 
+
+87
+00:03:14,330 --> 00:03:16,810
+of an ideal gas, regardless 
+
+88
+00:03:16,810 --> 00:03:18,330
+of which gas it is, 
+
+89
+00:03:18,330 --> 00:03:19,650
+
+90
+00:03:19,650 --> 00:03:21,510
+
+91
+00:03:21,510 --> 00:03:23,450
+
+92
+00:03:23,450 --> 00:03:25,990
+always occupies a 
+
+93
+00:03:25,990 --> 00:03:29,010
+volume of 22.4 liters under standard 
+conditions, i.e. at atmospheric pressure 
+and a temperature of 0°C Celsius . 
+
+94
+00:03:29,010 --> 00:03:30,850
+The unit of molar volume is 
+
+95
+00:03:30,850 --> 00:03:33,670
+therefore liters per mole. Now that we 
+know all the 
+
+96
+00:03:33,670 --> 00:03:35,610
+quantities, we can 
+
+97
+00:03:35,610 --> 00:03:38,210
+go into the formulas. The amount of 
+substance 
+
+98
+00:03:38,210 --> 00:03:40,030
+can 
+
+99
+00:03:40,030 --> 00:03:42,710
+
+100
+00:03:42,710 --> 00:03:44,950
+
+101
+00:03:44,950 --> 00:03:46,450
+
+102
+00:03:46,450 --> 00:03:48,450
+be expressed both as a quotient of mass, 
+formula symbol small m, and molar mass and 
+also as a quotient of volume and molar 
+volume . When working in 
+
+103
+00:03:48,450 --> 00:03:50,370
+liquids and solids 
+
+104
+00:03:50,370 --> 00:03:52,150
+, the first formula is usually used. 
+
+105
+00:03:52,550 --> 00:03:54,410
+However, the calculation 
+
+106
+00:03:54,410 --> 00:03:56,830
+with the molar volume is also possible 
+here. For 
+
+107
+00:03:56,830 --> 00:03:58,790
+solids and liquids 
+
+108
+00:03:58,790 --> 00:04:01,050
+, the molar volume is the quotient 
+
+109
+00:04:01,050 --> 00:04:03,110
+of the molar mass and the density of the 
+
+110
+00:04:03,110 --> 00:04:05,030
+substance. The density has 
+
+111
+00:04:05,030 --> 00:04:06,390
+the Greek 
+
+112
+00:04:06,390 --> 00:04:09,270
+letter Rho and the unit gram 
+
+113
+00:04:09,270 --> 00:04:11,570
+per liter. The formulas 
+
+114
+00:04:11,570 --> 00:04:13,790
+are useful if you 
+
+115
+00:04:13,790 --> 00:04:15,290
+
+116
+00:04:15,290 --> 00:04:17,730
+want to use reactants in the correct 
+stichiometric ratio. Stichiometry 
+
+117
+00:04:17,730 --> 00:04:19,490
+itself is the study of the 
+
+118
+00:04:19,490 --> 00:04:21,050
+quantitative composition 
+
+119
+00:04:21,050 --> 00:04:23,190
+of chemical compounds and the 
+
+120
+00:04:23,190 --> 00:04:24,870
+mathematical calculation of chemical 
+
+121
+00:04:24,870 --> 00:04:27,450
+reactions. Let us consider the 
+
+122
+00:04:27,450 --> 00:04:29,750
+reaction of lithium and water to form 
+
+123
+00:04:29,750 --> 00:04:31,730
+hydrogen and lithium hydroxide. 
+
+124
+00:04:31,850 --> 00:04:34,590
+Two lithium atoms react with 
+
+125
+00:04:34,590 --> 00:04:36,390
+two water particles to form a 
+
+126
+00:04:36,390 --> 00:04:38,610
+hydrogen molecule and two particles of 
+
+127
+00:04:38,610 --> 00:04:41,630
+lithium hydroxide. Based on the 
+
+128
+00:04:41,630 --> 00:04:43,270
+calculation of the molar mass, 
+
+129
+00:04:43,270 --> 00:04:45,910
+it can be seen that using 14 
+
+130
+00:04:45,910 --> 00:04:48,530
+g of lithium produces 2 g of hydrogen. 
+
+131
+00:04:48,990 --> 00:04:50,610
+If you now 
+
+132
+00:04:50,610 --> 00:04:53,370
+ask yourself, for example, how much CO2 
+
+133
+00:04:53,370 --> 00:04:55,190
+
+134
+00:04:55,190 --> 00:04:57,290
+is produced when one kilogram of metal is 
+burned , this can 
+
+135
+00:04:57,290 --> 00:04:58,890
+also be 
+
+136
+00:04:58,890 --> 00:05:01,970
+determined using the corresponding 
+reaction equation. 
+
+137
+00:05:01,970 --> 00:05:04,530
+One mole of methane with 16 g produces 
+
+138
+00:05:04,530 --> 00:05:06,890
+one mole of carbon dioxide with 44 g. 
+
+139
+00:05:07,470 --> 00:05:10,310
+The mass of one mole of CO2 corresponds to 
+
+140
+00:05:10,310 --> 00:05:13,090
+2.75 times the mass of one mole of 
+methane. 
+
+141
+00:05:13,150 --> 00:05:15,790
+If 1 
+
+142
+00:05:15,790 --> 00:05:17,710
+kilogram of methane is converted instead 
+of 16 grams 
+
+143
+00:05:17,710 --> 00:05:20,930
+, 2.75 kilograms of CO2 are produced. 
+
+144
+00:05:21,350 --> 00:05:23,610
+Similarly 
+
+145
+00:05:23,610 --> 00:05:26,990
+, 2.25 kilograms of water are produced 
+from one kilogram of methane. These 
+
+146
+00:05:26,990 --> 00:05:29,110
+stereometric calculations can 
+
+147
+00:05:29,110 --> 00:05:31,250
+also be used to 
+
+148
+00:05:31,250 --> 00:05:33,050
+
+149
+00:05:33,050 --> 00:05:35,410
+use reactants in the exact reaction ratio. 
+For the 
+
+150
+00:05:35,410 --> 00:05:37,310
+combustion of methane, methane and 
+
+151
+00:05:37,310 --> 00:05:39,650
+oxygen are used in a mass ratio of 1 to 4 
+
+152
+00:05:39,650 --> 00:05:42,710
+or in a volume ratio of 
+
+153
+00:05:42,710 --> 00:05:45,350
+1 to 2 , as both reactants are gaseous. 
+
+154
+00:05:45,510 --> 00:05:47,270
+Nice that you were there again. 
+
+155
+00:05:47,270 --> 00:05:48,850
+If you have any questions about this or 
+
+156
+00:05:48,850 --> 00:05:50,610
+other topics, please feel free to use 
+
+157
+00:05:50,610 --> 00:05:53,050
+our other learning content in the online 
+
+158
+00:05:53,050 --> 00:05:55,070
+ learning center. See you next time. 

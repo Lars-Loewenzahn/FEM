@@ -1,0 +1,1204 @@
+1
+00:00:02,510 --> 00:00:04,230
+Hallo und herzlich willkommen zu
+
+2
+00:00:04,230 --> 00:00:06,210
+unserem heutigen Webinar. Kannst du
+
+3
+00:00:06,210 --> 00:00:07,230
+mich denn gut hören?
+
+4
+00:00:15,720 --> 00:00:17,340
+Hallo, kannst du mich hören?
+
+5
+00:00:27,140 --> 00:00:29,120
+Okay, super. Dann fangen wir dann
+
+6
+00:00:29,120 --> 00:00:31,420
+auch gleich an mit unserem Webinar
+
+7
+00:00:31,420 --> 00:00:34,760
+über die natürlichen Zahlen. Über was
+
+8
+00:00:34,760 --> 00:00:37,260
+werden wir heute sprechen? Über die
+
+9
+00:00:37,260 --> 00:00:39,500
+Darstellung am Zahlenstrahl, über die
+
+10
+00:00:39,500 --> 00:00:41,900
+Darstellung von großen Zahlen, die
+
+11
+00:00:41,900 --> 00:00:44,040
+Sachgrößen übers Runden und
+
+12
+00:00:44,040 --> 00:00:46,420
+Überschlagen und über die römische
+
+13
+00:00:46,420 --> 00:00:49,420
+Zahlen und das Zweihalssystem. Fangen
+
+14
+00:00:49,420 --> 00:00:50,900
+wir doch an. Erstmal, was sind
+
+15
+00:00:50,900 --> 00:00:52,620
+natürliche Zahlen? Die Menge der
+
+16
+00:00:52,620 --> 00:00:54,200
+natürlichen Zahlen wird mit dem
+
+17
+00:00:54,200 --> 00:00:57,400
+Symbol n abgekürzt. n beschreibt alle
+
+18
+00:00:57,400 --> 00:01:00,200
+uns bekannten positiven Zahlen, also
+
+19
+00:01:00,200 --> 00:01:05,140
+zum Beispiel 1, 2, 3, 10, 50 bis
+
+20
+00:01:05,140 --> 00:01:08,360
+unendlich eben, aber nur positiv. Die
+
+21
+00:01:08,360 --> 00:01:10,220
+0 gehört in der Regel nicht zu den
+
+22
+00:01:10,220 --> 00:01:12,480
+natürlichen Zahlen. Soll die 0
+
+23
+00:01:12,480 --> 00:01:14,660
+dennoch Teil der natürlichen Zahlen
+
+24
+00:01:14,660 --> 00:01:16,880
+sein, schreibt man n mit einer
+
+25
+00:01:16,880 --> 00:01:18,640
+kleinen 0. unten drunter und dann
+
+26
+00:01:18,640 --> 00:01:20,160
+fängt es natürlich bei 0 an bis
+
+27
+00:01:20,160 --> 00:01:24,180
+unendlich. Solltest du irgendwelche
+
+28
+00:01:24,180 --> 00:01:26,020
+Fragen haben, schreib bitte im Chat,
+
+29
+00:01:26,160 --> 00:01:29,580
+okay? Dann fangen wir auch schon an
+
+30
+00:01:29,580 --> 00:01:31,640
+mit der Darstellung am Zahlenstrahl.
+
+31
+00:01:32,500 --> 00:01:34,900
+n und n0 lassen sich am Zahlenstrahl
+
+32
+00:01:34,900 --> 00:01:37,400
+folgendermaßen darstellen. Wir malen
+
+33
+00:01:37,400 --> 00:01:39,100
+eben einen Zahlenstrahl und immer bei
+
+34
+00:01:39,100 --> 00:01:40,880
+den positiven Zahlen wissen wir,
+
+35
+00:01:40,900 --> 00:01:43,140
+okay, okay, ab hier ist der n-Bereich
+
+36
+00:01:43,140 --> 00:01:45,380
+entweder ab 1 beginnend oder ab 0
+
+37
+00:01:45,380 --> 00:01:47,180
+beginnend, je nachdem, ob wir n oder
+
+38
+00:01:47,180 --> 00:01:52,440
+n0 haben. Wie stellen wir jetzt große
+
+39
+00:01:52,440 --> 00:01:54,520
+Zahlen dar? Es gibt mehrere
+
+40
+00:01:54,520 --> 00:01:56,120
+Möglichkeiten, große Zahlen
+
+41
+00:01:56,120 --> 00:01:58,220
+vereinfacht darzustellen. Nehme ich
+
+42
+00:01:58,220 --> 00:02:00,640
+zum Beispiel sehr große Zahlen, 1000,
+
+43
+00:02:00,860 --> 00:02:01,640
+dann
+
+44
+00:02:05,990 --> 00:02:10,870
+1000 Millionen sind eine Milliarde,
+
+45
+00:02:10,910 --> 00:02:14,190
+also eine 1 mit 9 Nullen und 100
+
+46
+00:02:14,190 --> 00:02:16,930
+Milliarden sind eine Billion. Also 1
+
+47
+00:02:16,930 --> 00:02:18,110
+mit 12 Nullen.
+
+48
+00:02:22,230 --> 00:02:24,310
+Wenn wir die Zahlen, die hier
+
+49
+00:02:24,310 --> 00:02:26,150
+aufgeschrieben sind, betrachten, dann
+
+50
+00:02:26,150 --> 00:02:27,250
+fragen wir uns natürlich erstmal,
+
+51
+00:02:27,430 --> 00:02:29,330
+welche Zahl ist größer und welche ist
+
+52
+00:02:29,330 --> 00:02:31,610
+kleiner. Um die Frage zu klären,
+
+53
+00:02:31,630 --> 00:02:33,130
+schreiben wir die uns einfach in eine
+
+54
+00:02:33,130 --> 00:02:34,970
+Stellenwert-Tabelle untereinander.
+
+55
+00:02:35,270 --> 00:02:37,490
+Das heißt, wir haben die Einer, die
+
+56
+00:02:37,490 --> 00:02:39,510
+Zehner, die Hunderter, Tausender,
+
+57
+00:02:39,510 --> 00:02:41,510
+Millionen, Milliarden und Billionen.
+
+58
+00:02:42,530 --> 00:02:44,530
+Und tragen dann einfach nach und nach
+
+59
+00:02:44,530 --> 00:02:46,830
+von hinten vorneweg die Nullen und
+
+60
+00:02:46,830 --> 00:02:48,270
+dann die Zahlen ein. und dann sehen
+
+61
+00:02:48,270 --> 00:02:50,070
+wir, dass die Zahl vorne mit der 15
+
+62
+00:02:50,070 --> 00:02:51,410
+größer ist.
+
+63
+00:02:54,450 --> 00:02:55,990
+Hast du soweit Fragen?
+
+64
+00:03:00,660 --> 00:03:02,340
+Okay, dann machen wir weiter mit
+
+65
+00:03:02,340 --> 00:03:05,240
+Sachgrößen. Ah, hier ist noch jemand
+
+66
+00:03:05,240 --> 00:03:08,900
+gekommen. Sehr schön. Dann machen wir
+
+67
+00:03:08,900 --> 00:03:12,240
+weiter mit den Sachgrößen. Was sind
+
+68
+00:03:12,240 --> 00:03:14,340
+Sachgrößen? Sachgrößen sind Größen
+
+69
+00:03:14,340 --> 00:03:16,240
+wie Länge, Gewicht, Geld und Zeit.
+
+70
+00:03:16,620 --> 00:03:19,040
+Die Größen werden immer mit einer
+
+71
+00:03:19,040 --> 00:03:21,200
+Einheit angegeben, also Längen in
+
+72
+00:03:21,200 --> 00:03:23,000
+Kilometer, Meter, Dezimeter.
+
+73
+00:03:23,080 --> 00:03:26,080
+Zentimeter oder Millimeter, Gewicht
+
+74
+00:03:26,080 --> 00:03:27,840
+in Tonnen, Kilogramm, Gramm und
+
+75
+00:03:27,840 --> 00:03:30,120
+Milligramm, Geld in Euro und Cent
+
+76
+00:03:30,120 --> 00:03:32,960
+oder abweichend natürlich darauf
+
+77
+00:03:32,960 --> 00:03:35,440
+ankommend auf die Währung und Zeit
+
+78
+00:03:35,440 --> 00:03:37,560
+wird in Jahr, Monate, Tag, Stunden,
+
+79
+00:03:37,560 --> 00:03:39,840
+Minute und Sekunden angegeben. Die
+
+80
+00:03:39,840 --> 00:03:41,460
+Einheiten werden hierbei als
+
+81
+00:03:41,460 --> 00:03:43,480
+natürliche Zahlen angegeben. Also das
+
+82
+00:03:43,480 --> 00:03:45,280
+heißt einfach, wir können nicht unter
+
+83
+00:03:45,280 --> 00:03:51,360
+1 bzw. unter 0 kommen, denn minus 5
+
+84
+00:03:51,360 --> 00:03:53,460
+Kilometer zu fahren macht keinen
+
+85
+00:03:53,460 --> 00:03:57,490
+Sinn. Also da haben wir die
+
+86
+00:03:57,490 --> 00:03:59,310
+Beispiele, dass eine Schulstunde 45
+
+87
+00:03:59,310 --> 00:04:01,710
+Minuten dauert, nicht minus 45
+
+88
+00:04:01,710 --> 00:04:03,130
+Minuten, das macht ja auch keinen
+
+89
+00:04:03,130 --> 00:04:06,030
+Sinn, deswegen das bleibt schön im
+
+90
+00:04:06,030 --> 00:04:08,610
+positiven Bereich. Dann das 1 Liter
+
+91
+00:04:08,610 --> 00:04:11,210
+Wasser wiegt genau 1 Kilogramm. Der
+
+92
+00:04:11,210 --> 00:04:12,750
+Weg bis zur Schule beträgt 2
+
+93
+00:04:12,750 --> 00:04:15,310
+Kilometer und 450 Meter. Das
+
+94
+00:04:15,310 --> 00:04:17,390
+Mittagessen in unserer Mensa kostet 2
+
+95
+00:04:17,390 --> 00:04:20,150
+,50 Euro. Und ich habe für den 2
+
+96
+00:04:20,150 --> 00:04:22,430
+Kilometer Lauf auf der 400 Meter Bahn
+
+97
+00:04:22,430 --> 00:04:25,850
+13 Minuten und 42 Sekunden gebraucht.
+
+98
+00:04:25,950 --> 00:04:26,950
+Das sind einfach so ein paar
+
+99
+00:04:26,950 --> 00:04:28,530
+Beispiele, wie wir die Sachgrößen
+
+100
+00:04:28,530 --> 00:04:31,790
+benutzen können. Gibt es zu den
+
+101
+00:04:31,790 --> 00:04:32,850
+Sachgrößen Fragen?
+
+102
+00:04:43,130 --> 00:04:45,730
+Okay, glaube nicht. Okay, auch. Gut,
+
+103
+00:04:45,730 --> 00:04:48,030
+dann kümmern wir uns jetzt mal ums
+
+104
+00:04:48,030 --> 00:04:50,870
+Runden und ums Überschlagen. Runden,
+
+105
+00:04:50,870 --> 00:04:53,330
+warum wird überhaupt gerundet und
+
+106
+00:04:53,330 --> 00:04:56,370
+warum wird übergeschlagen? Das heißt
+
+107
+00:04:56,370 --> 00:04:57,830
+einfach, dass wir Zahlen einfacher
+
+108
+00:04:57,830 --> 00:05:00,050
+darstellen und dass wir einfacher
+
+109
+00:05:00,050 --> 00:05:01,790
+damit rechnen können und damit auf
+
+110
+00:05:01,790 --> 00:05:04,130
+das genau exakte Ergebnis verzichten.
+
+111
+00:05:04,350 --> 00:05:07,090
+Wie wird gerundet? Wir betrachten
+
+112
+00:05:07,090 --> 00:05:08,450
+immer die Ziffer hinter der
+
+113
+00:05:08,450 --> 00:05:11,070
+jeweiligen Stelle, bis zu der man
+
+114
+00:05:11,070 --> 00:05:13,630
+runden möchte. Das heißt, wenn wir
+
+115
+00:05:13,630 --> 00:05:15,550
+auf 10er runden, möchten, betrachten
+
+116
+00:05:15,550 --> 00:05:17,850
+wir die Einer. Wenn wir auf Hunderter
+
+117
+00:05:17,850 --> 00:05:19,310
+runden möchten, betrachten wir die
+
+118
+00:05:19,310 --> 00:05:21,390
+Zehner. Und möchten wir auf Tausender
+
+119
+00:05:21,390 --> 00:05:23,110
+runden, betrachten wir die Hunderter.
+
+120
+00:05:24,710 --> 00:05:28,510
+Denn es gibt Regeln, ist die rundende
+
+121
+00:05:28,510 --> 00:05:31,610
+Ziffer eine 0, 1, 2, 3 oder 4, dann
+
+122
+00:05:31,610 --> 00:05:33,490
+wird abgerundet. Und ist die Ziffer
+
+123
+00:05:33,490 --> 00:05:35,730
+eine 5, 6, 7, 8 oder dann wird
+
+124
+00:05:35,730 --> 00:05:38,750
+aufgerundet. Also sagen wir bei
+
+125
+00:05:38,750 --> 00:05:40,770
+Ziffern kleiner als 5 wird
+
+126
+00:05:40,770 --> 00:05:43,230
+abgerundet, bei Ziffern größer oder
+
+127
+00:05:43,230 --> 00:05:47,510
+gleich 5 wird aufgerundet. Schauen
+
+128
+00:05:47,510 --> 00:05:49,710
+wir uns hier mal ein Beispiel an. Die
+
+129
+00:05:49,710 --> 00:05:53,010
+Zahl 4 Millionen, 4.000.000, nee, die
+
+130
+00:05:58,060 --> 00:06:05,720
+Zahl, äh, 6, nee, 4.000.000, nee, 467
+
+131
+00:06:05,720 --> 00:06:09,580
+.372 soll nacheinander auf Zehner,
+
+132
+00:06:09,600 --> 00:06:11,340
+auf Hunderter und dann auf Tausender
+
+133
+00:06:11,340 --> 00:06:13,280
+gehundet werden. Das heißt, wenn wir
+
+134
+00:06:13,280 --> 00:06:15,100
+auf Zehner runden, dann schauen wir
+
+135
+00:06:15,100 --> 00:06:17,380
+uns ja die Einerstelle an, also die
+
+136
+00:06:17,380 --> 00:06:19,940
+2. Die 2 ist kleiner als 5, das
+
+137
+00:06:19,940 --> 00:06:21,980
+heißt, wenn wir abrunden, kommen wir
+
+138
+00:06:21,980 --> 00:06:24,960
+auf 476.370.
+
+139
+00:06:27,040 --> 00:06:29,160
+Wenn wir jetzt auf Hunderter runden,
+
+140
+00:06:29,240 --> 00:06:30,620
+dann schauen wir uns ja die
+
+141
+00:06:30,620 --> 00:06:33,040
+Zehnerstelle an. Die 7 ist größer als
+
+142
+00:06:33,040 --> 00:06:35,560
+die 5, also runden wir auf, auf die
+
+143
+00:06:35,560 --> 00:06:40,680
+476.400. Jetzt schauen wir uns die
+
+144
+00:06:40,680 --> 00:06:42,440
+Tausenderstelle an, das heißt wir
+
+145
+00:06:42,440 --> 00:06:44,620
+schauen auf die Hunderterstelle. Das
+
+146
+00:06:44,620 --> 00:06:46,780
+ist die Zahl 3, die ist kleiner als
+
+147
+00:06:46,780 --> 00:06:48,900
+5, das heißt wir runden ab und kommen
+
+148
+00:06:48,900 --> 00:06:51,560
+damit zu 476.000.
+
+149
+00:06:55,340 --> 00:06:57,860
+Jetzt zum Überschlagen. Beim
+
+150
+00:06:57,860 --> 00:06:59,100
+Überschlagen wird einfach mit
+
+151
+00:06:59,100 --> 00:07:00,780
+gerundeten Zahlen gerechnet, um
+
+152
+00:07:00,780 --> 00:07:02,300
+schnell und einfach auf ein fast
+
+153
+00:07:02,300 --> 00:07:05,020
+korrektes Ergebnis zu kommen. Zum
+
+154
+00:07:05,020 --> 00:07:08,260
+Beispiel, wenn wir 26 und 52 rechnen,
+
+155
+00:07:08,260 --> 00:07:11,080
+das ist ja 78, aber mit unserer Auf-
+
+156
+00:07:11,080 --> 00:07:13,120
+und Abrundregel rechnen wir 30 plus
+
+157
+00:07:13,120 --> 00:07:15,620
+50, das wären 80, das ist ja sehr nah
+
+158
+00:07:15,620 --> 00:07:20,220
+dran. Wenn wir 81 minus 17 rechnen,
+
+159
+00:07:20,220 --> 00:07:23,240
+kommen wir auf 64. Mit unserer Regel
+
+160
+00:07:23,240 --> 00:07:26,360
+rechnen wir 80 minus 20, das heißt
+
+161
+00:07:26,360 --> 00:07:29,760
+wir kommen auf 60. Wenn wir 610 plus
+
+162
+00:07:29,760 --> 00:07:31,820
+370 rechnen, kommen wir eigentlich
+
+163
+00:07:31,820 --> 00:07:36,300
+auf 980 oder wir rechnen 600 plus 400
+
+164
+00:07:36,300 --> 00:07:39,540
+und kommen damit auf 1000. Genau, die
+
+165
+00:07:39,540 --> 00:07:40,980
+anderen Beispiele könnt ihr euch auch
+
+166
+00:07:40,980 --> 00:07:42,540
+anschauen, das Prinzip ist eigentlich
+
+167
+00:07:42,540 --> 00:07:44,600
+immer das gleiche.
+
+168
+00:07:47,340 --> 00:07:49,580
+Das unterste Beispiel, da wird noch
+
+169
+00:07:49,580 --> 00:07:51,320
+unterschiedlich gerundet, einmal auf
+
+170
+00:07:51,320 --> 00:07:53,580
+die 100er Stelle und einmal auf die
+
+171
+00:07:53,580 --> 00:07:57,000
+10er Stelle. Genau,
+
+172
+00:08:00,230 --> 00:08:02,450
+aber die Ergebnisse passen ja immer
+
+173
+00:08:02,450 --> 00:08:02,750
+fast.
+
+174
+00:08:09,420 --> 00:08:11,020
+Gibt es zum Runden und zum
+
+175
+00:08:11,020 --> 00:08:12,400
+Überschlagen eine Frage?
+
+176
+00:08:25,060 --> 00:08:27,130
+Bei welcher Klasse findet man das?
+
+177
+00:08:27,290 --> 00:08:28,690
+Wie meinst du, welche Klasse?
+
+178
+00:08:31,210 --> 00:08:32,250
+In der Schule.
+
+179
+00:08:40,260 --> 00:08:43,250
+Hä? Was meinst du jetzt mit 5,8?
+
+180
+00:08:54,120 --> 00:08:56,980
+Achso, in der Schule. In der Schule
+
+181
+00:08:56,980 --> 00:08:59,340
+wird oft gerundet in der Grundschule,
+
+182
+00:08:59,380 --> 00:09:02,260
+aber auch in den Anfängen der
+
+183
+00:09:02,260 --> 00:09:04,100
+Sekundarschule. Das heißt, fünfte,
+
+184
+00:09:04,140 --> 00:09:05,740
+sechste, siebte wird auch nochmal
+
+185
+00:09:05,740 --> 00:09:07,880
+gerundet und das geübt. Aber
+
+186
+00:09:07,880 --> 00:09:09,700
+allerdings ist Runden immer wichtig,
+
+187
+00:09:10,040 --> 00:09:12,600
+denn wenn ungerade Zahlen reinkommen,
+
+188
+00:09:12,680 --> 00:09:13,740
+dann gibt man immer nur zwei
+
+189
+00:09:13,740 --> 00:09:15,660
+Nachkommastellen an und dann muss man
+
+190
+00:09:15,660 --> 00:09:17,520
+auch runden, auch in den oberen
+
+191
+00:09:17,520 --> 00:09:18,700
+Stufen. Dann
+
+192
+00:09:23,590 --> 00:09:24,810
+machen
+
+193
+00:09:29,450 --> 00:09:30,830
+wir weiter mit den römischen Zahlen
+
+194
+00:09:30,830 --> 00:09:34,450
+und dem Zweiersystem. Die römischen
+
+195
+00:09:34,450 --> 00:09:36,490
+Zahlen sind Zahlensymbole aus der
+
+196
+00:09:36,490 --> 00:09:38,050
+römischen Antike und werden noch
+
+197
+00:09:38,050 --> 00:09:39,870
+heute gern für Nummern und besondere
+
+198
+00:09:39,870 --> 00:09:42,290
+Zwecke verwendet. Hierbei ersetzen
+
+199
+00:09:42,290 --> 00:09:44,190
+die Symbole die natürlichen Zahlen.
+
+200
+00:09:44,650 --> 00:09:46,710
+Also die Symbole stehen der Größe
+
+201
+00:09:46,710 --> 00:09:49,230
+nach geordnet hintereinander. Man
+
+202
+00:09:49,230 --> 00:09:50,910
+beginnt mit dem größten Symbol und
+
+203
+00:09:50,910 --> 00:09:52,790
+beendet die Zahl mit dem kleinsten
+
+204
+00:09:52,790 --> 00:09:55,170
+Symbol. Steht jedoch ein kleineres
+
+205
+00:09:55,170 --> 00:09:58,070
+Symbol vor einem größeren Symbol, so
+
+206
+00:09:58,070 --> 00:09:59,850
+wird das kleinere vom größeren
+
+207
+00:09:59,850 --> 00:10:01,610
+abgezogen. Das sind einfach die
+
+208
+00:10:01,610 --> 00:10:03,530
+generfende Regeln. Schauen wir uns
+
+209
+00:10:03,530 --> 00:10:05,710
+das mal an. Und zwar haben wir für
+
+210
+00:10:05,710 --> 00:10:08,730
+die 1 einfach einen Strich, für die 2
+
+211
+00:10:08,730 --> 00:10:10,990
+zwei Striche, für die 3 drei Striche.
+
+212
+00:10:11,030 --> 00:10:12,970
+Wichtig bei den römischen Zahlen, es
+
+213
+00:10:12,970 --> 00:10:15,430
+dürfen nie mehr als dreimal das
+
+214
+00:10:15,430 --> 00:10:17,210
+gleiche Symbol hintereinander stehen.
+
+215
+00:10:17,510 --> 00:10:19,050
+Das heißt, um die 4 zu machen,
+
+216
+00:10:19,170 --> 00:10:21,730
+schreiben wir eine 1 vor die 5 und
+
+217
+00:10:21,730 --> 00:10:23,910
+rechnen damit 5 minus 1, weil das
+
+218
+00:10:23,910 --> 00:10:25,830
+kleinere Symbol vor dem großen steht.
+
+219
+00:10:26,230 --> 00:10:27,850
+Und das geht dann so weiter. Weiter
+
+220
+00:10:27,850 --> 00:10:29,230
+bei der 9 haben wir dann wieder das
+
+221
+00:10:29,230 --> 00:10:31,270
+gleiche, das x steht für eine 10,
+
+222
+00:10:31,530 --> 00:10:33,870
+deswegen schreiben wir eine 1 vor die
+
+223
+00:10:33,870 --> 00:10:35,830
+10 und rechnen damit 10 minus 1.
+
+224
+00:10:37,510 --> 00:10:40,990
+Genau. Dann gibt es noch ein paar
+
+225
+00:10:40,990 --> 00:10:45,650
+weitere Symbole, zum Beispiel das L
+
+226
+00:10:45,650 --> 00:10:48,370
+steht für die 50, das C für die 100,
+
+227
+00:10:48,670 --> 00:10:52,210
+das D für 500 und das M für 1000. Und
+
+228
+00:10:52,210 --> 00:10:53,790
+wenn wir jetzt zum Beispiel 2018
+
+229
+00:10:53,790 --> 00:10:56,210
+schreiben wollen würden, dann würden
+
+230
+00:10:56,210 --> 00:10:58,210
+wir zweimal die M schreiben, also
+
+231
+00:10:58,210 --> 00:11:02,350
+1000 plus 1000, dann eine 10, das
+
+232
+00:11:02,350 --> 00:11:06,250
+wäre das X, dann die 5 und dann
+
+233
+00:11:06,250 --> 00:11:08,590
+dreimal die 1. Und dann würden wir
+
+234
+00:11:08,590 --> 00:11:11,010
+rechnen, 1000 plus 1000 plus 10 plus
+
+235
+00:11:11,010 --> 00:11:13,650
+5 plus 1 plus 1 plus 1 und würden
+
+236
+00:11:13,650 --> 00:11:15,430
+dann auf 2018 kommen.
+
+237
+00:11:19,280 --> 00:11:21,380
+Jetzt zum Zweiersystem, gibt es
+
+238
+00:11:21,380 --> 00:11:22,840
+soweit Fragen zu den römischen
+
+239
+00:11:22,840 --> 00:11:23,180
+Zahlen?
+
+240
+00:11:30,170 --> 00:11:31,930
+Okay, dann kommen wir zum
+
+241
+00:11:31,930 --> 00:11:34,690
+Zweiersystem. Das zweiersystemische
+
+242
+00:11:34,690 --> 00:11:36,290
+Zahlensystem, das sich bei der
+
+243
+00:11:36,290 --> 00:11:37,890
+Darstellung von natürlichen Zahlen
+
+244
+00:11:37,890 --> 00:11:40,270
+auf nur zwei Ziffern beschränkt und
+
+245
+00:11:40,270 --> 00:11:43,390
+diese Ziffern sind die beiden Zahlen
+
+246
+00:11:43,390 --> 00:11:46,270
+0 und 1. Das Zweiersystem wird
+
+247
+00:11:46,270 --> 00:11:48,430
+außerdem Dualsystem oder Binärsystem
+
+248
+00:11:48,430 --> 00:11:51,150
+genannt und Computer und elektrische
+
+249
+00:11:51,150 --> 00:11:53,350
+Geräte rechnen im Zweiersystem, indem
+
+250
+00:11:53,350 --> 00:11:55,170
+elektrische Signale als Ziffer
+
+251
+00:11:55,170 --> 00:11:58,130
+gedeutet werden 0 aus und 1 heißt an.
+
+252
+00:11:59,490 --> 00:12:00,990
+Schauen wir uns das doch kurz nochmal
+
+253
+00:12:00,990 --> 00:12:03,410
+weiter an, wie das geht. Natürliche
+
+254
+00:12:03,410 --> 00:12:04,370
+Zahlen bestehen aus verschiedenen
+
+255
+00:12:04,370 --> 00:12:06,610
+Stellen. Es gibt Einer, Zehner,
+
+256
+00:12:06,650 --> 00:12:08,490
+Hunderter, Tausender, Zehntausender
+
+257
+00:12:08,490 --> 00:12:11,110
+und so weiter. Und da wir in einem
+
+258
+00:12:11,110 --> 00:12:13,350
+System nur zwei Zahlen haben, gibt es
+
+259
+00:12:13,350 --> 00:12:15,290
+hier andere Stellen. Nämlich die
+
+260
+00:12:15,290 --> 00:12:18,330
+Einer, die Zweier, Vierer, Achter,
+
+261
+00:12:18,450 --> 00:12:20,870
+Sechzehner und Zweintreißiger und so
+
+262
+00:12:20,870 --> 00:12:24,170
+weiter. Es wird also immer bei der 1
+
+263
+00:12:24,170 --> 00:12:26,410
+angefangen und immer mal 2 gerechnet,
+
+264
+00:12:26,450 --> 00:12:29,650
+um auf die nächstgrößere Stelle zu
+
+265
+00:12:29,650 --> 00:12:32,550
+kommen. Schauen wir uns das einmal in
+
+266
+00:12:32,550 --> 00:12:35,490
+der Tabelle an. Da haben wir auch
+
+267
+00:12:35,490 --> 00:12:36,950
+wieder eine Stellenwerttafel im
+
+268
+00:12:36,950 --> 00:12:41,030
+Zweiersystem. Wie ihr seht, wir haben
+
+269
+00:12:41,030 --> 00:12:43,710
+jetzt hier 1er, 2er, 4er, 8er, 16er
+
+270
+00:12:43,710 --> 00:12:47,070
+und 32er. Das heißt, wir würden, um
+
+271
+00:12:47,070 --> 00:12:49,710
+auf die 1 zu kommen, eine 1 rechnen.
+
+272
+00:12:52,310 --> 00:12:54,110
+Ihr könnt euch die einfach mal kurz
+
+273
+00:12:54,110 --> 00:12:56,010
+angucken, ist eigentlich relativ
+
+274
+00:12:56,010 --> 00:12:57,270
+selbsterklärend.
+
+275
+00:13:00,230 --> 00:13:02,150
+Um eine 7 zu schreiben, würde man
+
+276
+00:13:02,150 --> 00:13:04,510
+eine 1, 1, 1 als Dualzahl haben, denn
+
+277
+00:13:04,510 --> 00:13:07,570
+wir würden 4 plus 2 plus 1 rechnen.
+
+278
+00:13:12,830 --> 00:13:16,900
+Genau. Hier haben wir noch weitere
+
+279
+00:13:16,900 --> 00:13:19,620
+Beispiele. Um zum Beispiel auf die 15
+
+280
+00:13:19,620 --> 00:13:22,180
+zu kommen, würden wir 4, 1, nee, 1,
+
+281
+00:13:22,300 --> 00:13:24,760
+2, 3, 4, 1 hintereinander schreiben,
+
+282
+00:13:24,760 --> 00:13:27,360
+denn wir würden die 8 plus 4 plus 2
+
+283
+00:13:27,360 --> 00:13:31,920
+plus 1 rechnen. Genau, und dann seht
+
+284
+00:13:31,920 --> 00:13:33,320
+ihr, da sind ab und zu noch Nuller
+
+285
+00:13:33,320 --> 00:13:34,800
+zwischendrin, zum Beispiel um auf die
+
+286
+00:13:34,800 --> 00:13:37,940
+10 zu kommen, rechnen wir 8 plus 2,
+
+287
+00:13:38,540 --> 00:13:40,120
+aber haben natürlich die 4er und die
+
+288
+00:13:40,120 --> 00:13:42,060
+1er Stelle ausgelassen, deswegen gibt
+
+289
+00:13:42,060 --> 00:13:43,680
+es da eine Null rein, also am Mittag
+
+290
+00:13:43,680 --> 00:13:46,640
+die 10 darzustellen, eine 1 0 1 0.
+
+291
+00:13:48,240 --> 00:13:50,360
+Ist euch das Zweiersystem so ungefähr
+
+292
+00:13:50,360 --> 00:13:52,240
+klar? Habt ihr das verstanden?
+
+293
+00:13:57,020 --> 00:13:59,800
+Ja? Okay, weil dann sind wir hier
+
+294
+00:13:59,800 --> 00:14:01,880
+jetzt auch schon am Ende. Ich danke
+
+295
+00:14:01,880 --> 00:14:03,780
+euch für eure Aufmerksamkeit und wenn
+
+296
+00:14:03,780 --> 00:14:05,200
+ihr jetzt noch irgendwelche Fragen
+
+297
+00:14:05,200 --> 00:14:07,520
+habt, dann gerne her damit und
+
+298
+00:14:07,520 --> 00:14:09,280
+ansonsten dürft ihr dieses Webinar
+
+299
+00:14:09,280 --> 00:14:11,320
+gerne verlassen. Ich wünsche euch ein
+
+300
+00:14:11,320 --> 00:14:15,180
+schönes weiteres Wochenende. Genau.
+
+301
+00:14:20,630 --> 00:14:22,130
+Schönes Wochenende. Tschüss.
+

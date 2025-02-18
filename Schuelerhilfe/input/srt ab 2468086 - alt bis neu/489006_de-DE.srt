@@ -1,0 +1,520 @@
+1
+00:00:00,180 --> 00:00:02,160
+Hallo und herzlich willkommen zu den
+
+2
+00:00:02,160 --> 00:00:04,960
+Lernvideos der Schülerhilfe. In
+
+3
+00:00:04,960 --> 00:00:06,660
+diesem Modul lernst du alles über
+
+4
+00:00:06,660 --> 00:00:08,240
+eine gute Internetrecherche.
+
+5
+00:00:13,770 --> 00:00:16,090
+Wir schauen uns heute an, welche
+
+6
+00:00:16,090 --> 00:00:19,170
+Suchmaschinen es gibt, wie man seine
+
+7
+00:00:19,170 --> 00:00:22,110
+Suchanfrage richtig formuliert und
+
+8
+00:00:22,110 --> 00:00:24,570
+welche Seiten es gibt, die dir einen
+
+9
+00:00:24,570 --> 00:00:26,170
+Überblick zu deinem Thema geben.
+
+10
+00:00:29,040 --> 00:00:30,360
+Schauen wir uns an, welche
+
+11
+00:00:30,360 --> 00:00:31,400
+Suchmaschinen es gibt.
+
+12
+00:00:34,190 --> 00:00:35,850
+Hier siehst du eine Liste mit
+
+13
+00:00:35,850 --> 00:00:38,150
+Suchmaschinen, Die mit Abstand
+
+14
+00:00:38,150 --> 00:00:41,650
+bekannteste ist sicher Google. Es
+
+15
+00:00:41,650 --> 00:00:43,510
+kann sich jedoch lohnen, auf mehreren
+
+16
+00:00:43,510 --> 00:00:44,830
+Suchmaschinen eine Suche
+
+17
+00:00:44,830 --> 00:00:46,970
+durchzuführen, da unterschiedliche
+
+18
+00:00:46,970 --> 00:00:48,910
+Suchmaschinen auch unterschiedliche
+
+19
+00:00:48,910 --> 00:00:53,120
+Ergebnisse liefern. Schauen wir uns
+
+20
+00:00:53,120 --> 00:00:55,020
+nun an, wie man seine Suchanfrage
+
+21
+00:00:55,020 --> 00:00:56,320
+richtig formuliert.
+
+22
+00:01:01,140 --> 00:01:02,100
+Achte auf die richtige
+
+23
+00:01:02,100 --> 00:01:03,820
+Rechtschreibung der Suchbegriffe.
+
+24
+00:01:04,920 --> 00:01:06,820
+Groß- und Kleinschreibung ist dabei
+
+25
+00:01:06,820 --> 00:01:10,200
+jedoch nicht relevant. Verwende keine
+
+26
+00:01:10,200 --> 00:01:12,320
+ganzen Sätze. sondern nur die
+
+27
+00:01:12,320 --> 00:01:15,520
+wichtigen Hauptwörter. Wenn du also
+
+28
+00:01:15,520 --> 00:01:16,960
+zum Beispiel etwas über das Thema
+
+29
+00:01:16,960 --> 00:01:19,180
+Erdöl suchst, kannst du zum Beispiel
+
+30
+00:01:19,180 --> 00:01:22,260
+die Wörter Erdöl, Erdölpreise,
+
+31
+00:01:22,420 --> 00:01:26,760
+Energie aus Erdöl, Ölplattform,
+
+32
+00:01:26,760 --> 00:01:29,240
+Entstehung Erdöl und weitere
+
+33
+00:01:29,240 --> 00:01:29,800
+verwenden.
+
+34
+00:01:34,480 --> 00:01:36,680
+Es macht außerdem Sinn, mehrere
+
+35
+00:01:36,680 --> 00:01:38,660
+passende Suchbegriffe einzugeben.
+
+36
+00:01:40,480 --> 00:01:42,500
+Sortiere dabei die Suchbegriffe nach
+
+37
+00:01:42,500 --> 00:01:45,300
+ihrer Wichtigkeit. Achte auf die
+
+38
+00:01:45,300 --> 00:01:48,340
+Grammatik. Verwende bei Verben nur
+
+39
+00:01:48,340 --> 00:01:51,080
+den Wortstamm, also zum Beispiel Kauf
+
+40
+00:01:51,080 --> 00:01:54,800
+statt Kaufen. Schreibe Nomen in der
+
+41
+00:01:54,800 --> 00:01:58,670
+Einzahl. Du kannst auch Wörter von
+
+42
+00:01:58,670 --> 00:02:00,510
+der Suche ausschließen, indem du ein
+
+43
+00:02:00,510 --> 00:02:02,190
+Minuszeichen voranstellst.
+
+44
+00:02:04,820 --> 00:02:06,060
+Bei der Auswahl deiner
+
+45
+00:02:06,060 --> 00:02:07,980
+Ergebnistreffer solltest du dir
+
+46
+00:02:07,980 --> 00:02:09,540
+zunächst einen Überblick verschaffen.
+
+47
+00:02:10,720 --> 00:02:12,860
+Werden zu viele Treffer eingeblendet?
+
+48
+00:02:13,320 --> 00:02:14,940
+Dann kannst du zum Beispiel die
+
+49
+00:02:14,940 --> 00:02:17,660
+Suchbegriffe fassen und deine Suche
+
+50
+00:02:17,660 --> 00:02:20,920
+neu starten. Werden hingegen zu wenig
+
+51
+00:02:20,920 --> 00:02:23,440
+Treffer angezeigt, dann lass weniger
+
+52
+00:02:23,440 --> 00:02:25,180
+wichtige Suchbegriffe weg und
+
+53
+00:02:25,180 --> 00:02:26,680
+formuliere deine Suchanfrage
+
+54
+00:02:26,680 --> 00:02:30,560
+allgemeiner. Schau dir nicht immer
+
+55
+00:02:30,560 --> 00:02:32,140
+nur die allerersten Suchergebnisse
+
+56
+00:02:32,140 --> 00:02:34,140
+an. Oft finden sich gute
+
+57
+00:02:34,140 --> 00:02:36,660
+Suchergebnisse weiter hinten oder auf
+
+58
+00:02:36,660 --> 00:02:41,100
+der zweiten Seite. Außerdem macht es
+
+59
+00:02:41,100 --> 00:02:42,780
+Sinn, mehrere Suchergebnisse
+
+60
+00:02:42,780 --> 00:02:44,760
+gleichzeitig zu öffnen und
+
+61
+00:02:44,760 --> 00:02:47,960
+querzulesen. Achte jedoch darauf,
+
+62
+00:02:48,140 --> 00:02:49,360
+dass die Anzahl der gleichzeitig
+
+63
+00:02:49,360 --> 00:02:51,720
+geöffneten Suchergebnisse für dich
+
+64
+00:02:51,720 --> 00:02:56,210
+übersichtlich bleibt. Schauen wir uns
+
+65
+00:02:56,210 --> 00:02:58,290
+jetzt einmal das Beispielthema Erdöl
+
+66
+00:02:58,290 --> 00:03:01,410
+an. Wir benutzen die Suchmaschine
+
+67
+00:03:01,410 --> 00:03:03,750
+Google und geben unseren Suchbegriff
+
+68
+00:03:03,750 --> 00:03:05,070
+in das Suchfeld ein.
+
+69
+00:03:07,820 --> 00:03:09,400
+Es erscheinen dann mehrere
+
+70
+00:03:09,400 --> 00:03:12,720
+Suchergebnisse. Unter den Titeln
+
+71
+00:03:12,720 --> 00:03:14,560
+steht dann zunächst der Link zu der
+
+72
+00:03:14,560 --> 00:03:17,280
+entsprechenden Seite und darunter der
+
+73
+00:03:17,280 --> 00:03:18,560
+Anfang des Textes.
+
+74
+00:03:22,600 --> 00:03:24,560
+Schau dir auch weitere Seiten mit
+
+75
+00:03:24,560 --> 00:03:26,500
+Suchergebnissen an, denn häufig
+
+76
+00:03:26,500 --> 00:03:27,800
+finden sich hier noch gute
+
+77
+00:03:27,800 --> 00:03:28,580
+Suchergebnisse.
+
+78
+00:03:31,480 --> 00:03:33,360
+Hier noch zwei Tipps für deinen
+
+79
+00:03:33,360 --> 00:03:36,820
+Umgang mit Suchergebnissen. Klicke
+
+80
+00:03:36,820 --> 00:03:39,000
+nicht jedes Ergebnis an, denn nicht
+
+81
+00:03:39,000 --> 00:03:41,140
+alle Suchergebnisse informieren über
+
+82
+00:03:41,140 --> 00:03:43,140
+die Inhalte, die du wirklich suchst.
+
+83
+00:03:44,440 --> 00:03:46,300
+Lies aufmerksam die Titel und
+
+84
+00:03:46,300 --> 00:03:48,020
+Textanfänge der Ergebnistreffer
+
+85
+00:03:48,020 --> 00:03:50,160
+durch, damit du entscheiden kannst,
+
+86
+00:03:50,180 --> 00:03:52,200
+welche Seiten du genauer anschauen
+
+87
+00:03:52,200 --> 00:03:53,900
+solltest und welche du vielleicht
+
+88
+00:03:53,900 --> 00:03:55,100
+vernachlässigen kannst.
+
+89
+00:03:58,970 --> 00:04:01,270
+Neben den Suchmaschinen kannst du
+
+90
+00:04:01,270 --> 00:04:02,790
+auch in einem Internetlexikon
+
+91
+00:04:02,790 --> 00:04:06,170
+recherchieren. Diese werden allgemein
+
+92
+00:04:06,170 --> 00:04:10,390
+auch Wikis genannt. Da in so einem
+
+93
+00:04:10,390 --> 00:04:12,610
+Internetlexikon alle Nutzer selbst
+
+94
+00:04:12,610 --> 00:04:14,710
+mitschreiben können, solltest du die
+
+95
+00:04:14,710 --> 00:04:16,630
+Beiträge jedoch kritisch hinterfragen
+
+96
+00:04:16,630 --> 00:04:18,910
+und sie mit seriösen Quellen
+
+97
+00:04:18,910 --> 00:04:21,430
+abgleichen. Denn diese Beiträge
+
+98
+00:04:21,430 --> 00:04:22,790
+werden für gewöhnlich nicht
+
+99
+00:04:22,790 --> 00:04:23,690
+nachgeprüft.
+
+100
+00:04:26,160 --> 00:04:28,640
+Das größte und bekannteste Wiki ist
+
+101
+00:04:28,640 --> 00:04:32,080
+Wikipedia, welches du unter de
+
+102
+00:04:32,080 --> 00:04:37,360
+.wikipedia.org findest. Es gibt hier
+
+103
+00:04:37,360 --> 00:04:39,360
+momentan fast zwei Millionen Einträge
+
+104
+00:04:39,360 --> 00:04:42,620
+in deutscher Sprache. Klexikon ist
+
+105
+00:04:42,620 --> 00:04:45,600
+die Wikipedia-Variante für Kinder. Es
+
+106
+00:04:45,600 --> 00:04:47,380
+ist in einfacher, unverständlicher
+
+107
+00:04:47,380 --> 00:04:48,200
+Sprache geschrieben.
+
+108
+00:04:51,440 --> 00:04:53,540
+Bleibt noch die Frage, wie du dir
+
+109
+00:04:53,540 --> 00:04:55,260
+schnell und einfach einen Überblick
+
+110
+00:04:55,260 --> 00:04:56,720
+über dein Thema verschaffen kannst.
+
+111
+00:04:56,720 --> 00:04:57,960
+Hierzu
+
+112
+00:05:00,970 --> 00:05:04,110
+nutzen wir Wikipedia. Gehe zunächst
+
+113
+00:05:04,110 --> 00:05:08,090
+auf www.google.de und gib Wikipedia
+
+114
+00:05:08,090 --> 00:05:12,880
+ein. Gib dann bei Wikipedia deinen
+
+115
+00:05:12,880 --> 00:05:14,940
+Suchbegriff ein und wähle einen
+
+116
+00:05:14,940 --> 00:05:19,540
+passenden Beitrag aus. Wenn du an das
+
+117
+00:05:19,540 --> 00:05:21,400
+Ende des Wikipedia-Eintrages
+
+118
+00:05:21,400 --> 00:05:22,860
+scrollst, findest du
+
+119
+00:05:22,860 --> 00:05:24,620
+Literaturangaben, die im Text
+
+120
+00:05:24,620 --> 00:05:27,820
+verwendet wurden. Hier unten siehst
+
+121
+00:05:27,820 --> 00:05:29,240
+du ein Beispiel, wie solche
+
+122
+00:05:29,240 --> 00:05:32,560
+Literaturangaben aussehen können. Du
+
+123
+00:05:32,560 --> 00:05:34,220
+kannst diese Literaturangaben für
+
+124
+00:05:34,220 --> 00:05:35,940
+deine weiteren Recherchen nutzen.
+
+125
+00:05:40,780 --> 00:05:42,740
+Außerdem findest du im Wikipedia
+
+126
+00:05:42,740 --> 00:05:44,900
+-Einträgen viele nützliche Weblinks,
+
+127
+00:05:44,980 --> 00:05:47,420
+welche dir bei der weiteren Recherche
+
+128
+00:05:47,420 --> 00:05:48,060
+helfen können.
+
+129
+00:05:54,110 --> 00:05:56,330
+Vielen Dank für deine Aufmerksamkeit
+
+130
+00:05:56,330 --> 00:05:58,370
+und viel Erfolg bei deiner Recherche!
+

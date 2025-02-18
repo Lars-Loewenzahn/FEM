@@ -1,0 +1,3464 @@
+1
+00:00:00,850 --> 00:00:02,690
+Herzlich willkommen zum Webinar
+
+2
+00:00:02,690 --> 00:00:04,070
+Abstände und Winkel im
+
+3
+00:00:04,070 --> 00:00:05,950
+dreidimensionalen Raum. Wir werden in
+
+4
+00:00:05,950 --> 00:00:08,090
+diesem Webinar Abstände und Winkel
+
+5
+00:00:08,090 --> 00:00:10,190
+zwischen Ebenen, Geraden und Punkten
+
+6
+00:00:10,190 --> 00:00:12,490
+berechnen. Hier sehen wir einmal die
+
+7
+00:00:12,490 --> 00:00:13,390
+heutigen Rechnungen, die wir
+
+8
+00:00:13,390 --> 00:00:14,610
+durchführen werden. Wir werden als
+
+9
+00:00:14,610 --> 00:00:15,910
+erstes eine kurze Einführung zum
+
+10
+00:00:15,910 --> 00:00:17,750
+Thema Abstand machen. Danach
+
+11
+00:00:17,750 --> 00:00:19,470
+berechnen wir Abstände zwischen Punkt
+
+12
+00:00:19,470 --> 00:00:21,990
+Gerade, Gerade Gerade, Punkt Ebene,
+
+13
+00:00:22,010 --> 00:00:24,990
+Gerade Ebene und Ebene Ebene. und
+
+14
+00:00:24,990 --> 00:00:26,550
+dann ganz zum Schluss noch den
+
+15
+00:00:26,550 --> 00:00:27,890
+Abstand wieder von einer Geraden und
+
+16
+00:00:27,890 --> 00:00:29,270
+einer Geraden. Ihr seht, wir haben
+
+17
+00:00:29,270 --> 00:00:30,790
+zweimal den Abstand von einer Geraden
+
+18
+00:00:30,790 --> 00:00:32,990
+und einer Geraden. Das ist dem
+
+19
+00:00:32,990 --> 00:00:33,890
+geschuldet, dass wir zwei
+
+20
+00:00:33,890 --> 00:00:35,230
+verschiedene Fälle betrachten. Hier
+
+21
+00:00:35,230 --> 00:00:37,230
+betrachten wir zuerst den Abstand
+
+22
+00:00:37,230 --> 00:00:39,590
+zwischen zwei parallelen Geraden und
+
+23
+00:00:39,590 --> 00:00:41,590
+hier betrachten wir zuletzt den
+
+24
+00:00:41,590 --> 00:00:44,050
+Abstand zwischen zwei windschiefen
+
+25
+00:00:44,050 --> 00:00:46,190
+Geraden. Zum Schluss berechnen wir
+
+26
+00:00:46,190 --> 00:00:48,090
+noch den Schnittwinkel oder den
+
+27
+00:00:48,090 --> 00:00:49,330
+Winkel, der entsteht zwischen einer
+
+28
+00:00:49,330 --> 00:00:51,470
+Gerade und einer Ebene oder eben der
+
+29
+00:00:51,470 --> 00:00:55,010
+Winkel zwischen zwei Ergraden. Und
+
+30
+00:00:55,010 --> 00:00:56,230
+dann fangen wir jetzt auch direkt mit
+
+31
+00:00:56,230 --> 00:01:00,610
+einer kleinen Einführung an. Es
+
+32
+00:01:00,610 --> 00:01:02,810
+lassen sich im dreidimensionalen Raum
+
+33
+00:01:02,810 --> 00:01:04,990
+sämtliche Winkel zwischen
+
+34
+00:01:04,990 --> 00:01:09,010
+geometrischen Figuren bestimmen. Und
+
+35
+00:01:09,010 --> 00:01:10,810
+es ist dabei aber, wenn wir über den
+
+36
+00:01:10,810 --> 00:01:12,550
+Abstand sprechen, immer der kürzeste
+
+37
+00:01:12,550 --> 00:01:14,210
+Abstand zwischen zwei Geraden, zwei
+
+38
+00:01:14,210 --> 00:01:17,110
+Ebenen. oder einer Grad und einer
+
+39
+00:01:17,110 --> 00:01:19,030
+Ebene gemeint. Und dieser Abstand ist
+
+40
+00:01:19,030 --> 00:01:23,030
+immer senkrecht. Das ist eine ganz
+
+41
+00:01:23,030 --> 00:01:24,230
+wichtige Bedingung. Und diese
+
+42
+00:01:24,230 --> 00:01:25,610
+Überlegung, dass der Abstand immer
+
+43
+00:01:25,610 --> 00:01:28,330
+senkrecht ist, wird auch bei dem
+
+44
+00:01:28,330 --> 00:01:32,010
+Lösungsverfahren eingebracht. Und wir
+
+45
+00:01:32,010 --> 00:01:33,230
+werden später mit einer
+
+46
+00:01:33,230 --> 00:01:34,670
+Punktabstandsformel arbeiten,
+
+47
+00:01:34,730 --> 00:01:37,010
+beziehungsweise die Grundlage für
+
+48
+00:01:37,010 --> 00:01:39,030
+unsere späteren Punktabstandsformeln
+
+49
+00:01:39,030 --> 00:01:41,570
+ist diese Punktabstandsformel. Mit
+
+50
+00:01:41,570 --> 00:01:43,250
+dieser Punktabstandsformel, die auf
+
+51
+00:01:43,250 --> 00:01:46,350
+dem... basiert können wir den abstand
+
+52
+00:01:46,350 --> 00:01:48,070
+zwischen zwei punkten bestimmt also
+
+53
+00:01:48,070 --> 00:01:49,670
+zwischen den punkt a und b der punkt
+
+54
+00:01:49,670 --> 00:01:52,570
+a enthält die elemente 1 a 2 a 3 und
+
+55
+00:01:52,570 --> 00:01:56,050
+der punkt b b 1 b 2 b 3 der abstand
+
+56
+00:01:56,050 --> 00:01:57,190
+zwischen diesen beiden punkten
+
+57
+00:01:57,190 --> 00:01:58,530
+berechnet sich dann aus der wurzel
+
+58
+00:01:58,530 --> 00:02:02,010
+von b 1 minus a 122 plus b 2 minus a
+
+59
+00:02:02,010 --> 00:02:05,610
+2 hoch 2 plus b 3 minus a 3 hoch 2
+
+60
+00:02:05,610 --> 00:02:10,050
+und damit kann man dann schon den den
+
+61
+00:02:10,050 --> 00:02:12,630
+abstand zwischen den beiden punkten
+
+62
+00:02:12,650 --> 00:02:14,610
+berechnen. Wenn man das mal ein
+
+63
+00:02:14,610 --> 00:02:15,750
+bisschen genau anschaut, sieht man
+
+64
+00:02:15,750 --> 00:02:17,230
+hier drunter wird eigentlich nur der
+
+65
+00:02:17,230 --> 00:02:19,390
+Verbindungsvektor gebildet und dann
+
+66
+00:02:19,390 --> 00:02:20,670
+das Vektorprodukt.
+
+67
+00:02:23,180 --> 00:02:24,560
+Wir haben das ganze auch mal
+
+68
+00:02:24,560 --> 00:02:28,160
+dargestellt und zwar das hatten wir
+
+69
+00:02:28,160 --> 00:02:29,800
+gerade schon mal. Das heißt der
+
+70
+00:02:29,800 --> 00:02:31,440
+Abstand zwischen A und B kann mit
+
+71
+00:02:31,440 --> 00:02:33,320
+dieser langen Wurzel berechnet werden
+
+72
+00:02:33,320 --> 00:02:37,420
+und das ist halt die Herleitung von
+
+73
+00:02:37,420 --> 00:02:39,860
+wenn wir den Punkt A mit dem Punkt B
+
+74
+00:02:39,860 --> 00:02:41,960
+durch einen Verbindungsvektor
+
+75
+00:02:41,960 --> 00:02:43,360
+verbinden. Den Vektor nennen wir
+
+76
+00:02:43,360 --> 00:02:45,200
+jetzt AB, rechnen wir B-Vektor, Minus
+
+77
+00:02:45,200 --> 00:02:47,320
+A-Vektor und der Verbindungsvektor
+
+78
+00:02:47,320 --> 00:02:51,760
+hat dann die Elemente B1-A1, B2-A2
+
+79
+00:02:51,760 --> 00:02:54,700
+und B3-A3 und wir sehen, dass genau
+
+80
+00:02:54,700 --> 00:02:56,540
+das, wenn wir jetzt hiervon den
+
+81
+00:02:56,540 --> 00:02:58,860
+Vektorbetrag bilden würden, was unter
+
+82
+00:02:58,860 --> 00:03:01,820
+der Wurzel steht. Daher kommt das
+
+83
+00:03:01,820 --> 00:03:03,560
+einfach. Man nimmt aber ganz gerne
+
+84
+00:03:03,560 --> 00:03:05,260
+diese Formel, weil man dann nicht
+
+85
+00:03:05,260 --> 00:03:07,420
+extra noch in einer zusätzlichen
+
+86
+00:03:07,420 --> 00:03:08,660
+Rechnung den Verbindungssektor
+
+87
+00:03:08,660 --> 00:03:10,480
+berechnen muss, sondern einfach nur
+
+88
+00:03:10,480 --> 00:03:14,240
+diese Formel einsetzen muss. Kommen
+
+89
+00:03:14,240 --> 00:03:15,640
+wir nun zum ersten Fall, den Abstand
+
+90
+00:03:15,640 --> 00:03:16,740
+zwischen einem Punkt und einer
+
+91
+00:03:16,740 --> 00:03:20,940
+Geraden. Der Abstand zwischen einem
+
+92
+00:03:20,940 --> 00:03:22,140
+Punkt und einer Geraden lässt sich
+
+93
+00:03:22,140 --> 00:03:24,420
+mit einer Hilfsebene errechnen. Man
+
+94
+00:03:24,420 --> 00:03:26,300
+spricht auch von einem Lot-Fußpunkt
+
+95
+00:03:26,300 --> 00:03:29,120
+-Verfahren. Dabei schneidet die
+
+96
+00:03:29,120 --> 00:03:31,440
+Gerade die Hilfsebene senkrecht und
+
+97
+00:03:31,440 --> 00:03:34,840
+der Punkt ist Teil der Ebene. Das
+
+98
+00:03:34,840 --> 00:03:38,200
+heißt, wir spannen eine Ebene auf und
+
+99
+00:03:38,200 --> 00:03:39,880
+diese Ebene wird senkrecht von der
+
+100
+00:03:39,880 --> 00:03:42,440
+Gerade durchstoßen. Und dies ist
+
+101
+00:03:42,440 --> 00:03:44,240
+immer dann der Fall, wenn wir den
+
+102
+00:03:44,240 --> 00:03:46,000
+Richtungsvektor unserer Gerade als
+
+103
+00:03:46,000 --> 00:03:47,780
+normalen Vektor unserer Hilfsebene
+
+104
+00:03:47,780 --> 00:03:49,020
+verwenden. Das heißt, wir werden
+
+105
+00:03:49,020 --> 00:03:50,900
+unsere Ebene gleich in normalen bzw.
+
+106
+00:03:51,280 --> 00:03:53,300
+in Koordinatenform aufspannen.
+
+107
+00:03:55,920 --> 00:03:56,820
+Arbeitsreihenfolge ist daher wie
+
+108
+00:03:56,820 --> 00:03:58,960
+folgt. Als erstes müssen wir eine
+
+109
+00:03:58,960 --> 00:04:02,300
+Hilfsebene konstruieren, die unseren
+
+110
+00:04:02,300 --> 00:04:05,320
+Punkt A enthält und orthogonal zu G
+
+111
+00:04:05,320 --> 00:04:08,160
+verläuft bzw. die orthogonal, also
+
+112
+00:04:08,160 --> 00:04:10,240
+senkrecht von G, durchstoßen wird.
+
+113
+00:04:11,420 --> 00:04:13,280
+Danach bestimmen wir den Schnittpunkt
+
+114
+00:04:13,280 --> 00:04:15,560
+von der Gerade und der Ebene. Wenn
+
+115
+00:04:15,560 --> 00:04:16,840
+wir die Ebenengleichung kennen und
+
+116
+00:04:16,840 --> 00:04:17,880
+die Geradegleichung kennen wir ja eh,
+
+117
+00:04:17,920 --> 00:04:18,680
+können wir den Schnittpunkt
+
+118
+00:04:18,680 --> 00:04:20,600
+berechnen. Das ist dann der Punkt
+
+119
+00:04:20,600 --> 00:04:22,780
+hier, zu dem der kleinste Abstand
+
+120
+00:04:22,780 --> 00:04:25,360
+besteht. Wenn wir diesen Punkt
+
+121
+00:04:25,360 --> 00:04:27,240
+kennen, müssen wir lediglich nur noch
+
+122
+00:04:27,240 --> 00:04:29,480
+den Abstand zwischen A und L mittels
+
+123
+00:04:29,480 --> 00:04:31,240
+der vorhin gezeigten Formel zeigen
+
+124
+00:04:31,240 --> 00:04:33,560
+oder eben den Verbindungsvektor von A
+
+125
+00:04:33,560 --> 00:04:35,960
+und L berechnen und dann die
+
+126
+00:04:35,960 --> 00:04:40,320
+Vektorlänge bestimmen. Aber fangen
+
+127
+00:04:40,320 --> 00:04:41,680
+wir mit dem konstruierenden Hilfseben
+
+128
+00:04:41,680 --> 00:04:43,340
+an. Wir sehen hier unsere
+
+129
+00:04:43,340 --> 00:04:45,660
+Geradengleichung. Unser x-Vektor ist
+
+130
+00:04:45,660 --> 00:04:49,000
+gleich 1-3,1 plus Lambda mal 2,02.
+
+131
+00:04:49,180 --> 00:04:52,540
+Also 2,02 ist in dem Fall unser
+
+132
+00:04:52,540 --> 00:04:54,340
+Richtungsvektor der Geraden und es
+
+133
+00:04:54,340 --> 00:04:56,060
+ist gefragt nach dem Abstand von
+
+134
+00:04:56,060 --> 00:04:59,020
+dieser Geraden zu dem Punkt A03-2.
+
+135
+00:04:59,480 --> 00:05:02,320
+Als erstes konstruieren wir die
+
+136
+00:05:02,320 --> 00:05:04,000
+Hilfsebene. Ich hatte gerade schon
+
+137
+00:05:04,000 --> 00:05:07,280
+gesagt, wir fangen mit der normalen
+
+138
+00:05:07,280 --> 00:05:08,440
+oder der Koordinatenform an. Hier
+
+139
+00:05:08,440 --> 00:05:09,500
+fangen wir sogar direkt mit der
+
+140
+00:05:09,500 --> 00:05:11,900
+Koordinatenform an. Diese lautet
+
+141
+00:05:11,900 --> 00:05:15,100
+dann, wenn wir den Vektor 2, 0, 2 als
+
+142
+00:05:15,100 --> 00:05:18,040
+normalen Vektor nehmen, 2x1 plus 0x2
+
+143
+00:05:18,040 --> 00:05:21,860
+plus 2x3 minus d ist gleich 0. Und
+
+144
+00:05:21,860 --> 00:05:24,060
+dieses d bestimmen wir jetzt, indem
+
+145
+00:05:24,060 --> 00:05:25,840
+wir einmal unseren Punkt a hier
+
+146
+00:05:25,840 --> 00:05:28,940
+reinsetzen, das heißt 2 mal 0 plus 0
+
+147
+00:05:28,940 --> 00:05:33,280
+mal 3 plus 2 mal minus 2 minus d ist
+
+148
+00:05:33,280 --> 00:05:34,940
+gleich 0 und dann kommen wir auf ein
+
+149
+00:05:34,940 --> 00:05:39,060
+d von minus 4. unsere hilfsebene
+
+150
+00:05:39,060 --> 00:05:42,220
+lautet dann 2x1 plus 2x3 plus 4 ist
+
+151
+00:05:42,220 --> 00:05:43,880
+gleich 0 das ist nun unsere
+
+152
+00:05:43,880 --> 00:05:48,620
+hilfsebene und als nächstes bestimmen
+
+153
+00:05:48,620 --> 00:05:50,840
+wird den schnittpunkt unserer graden
+
+154
+00:05:50,840 --> 00:05:54,600
+zu dieser hilfsebene das heißt
+
+155
+00:05:58,340 --> 00:05:59,220
+wir
+
+156
+00:06:03,540 --> 00:06:05,700
+berechnen unsere gradengleichung in
+
+157
+00:06:05,700 --> 00:06:10,700
+unsere ebene ein das heißt dass sie
+
+158
+00:06:10,700 --> 00:06:11,840
+es ist unsere geraden gleich wie wir
+
+159
+00:06:11,840 --> 00:06:14,580
+sie kennen und unsere x1 zeile oder
+
+160
+00:06:14,580 --> 00:06:16,760
+unser x1 ist ein 1 plus lambda mal
+
+161
+00:06:16,760 --> 00:06:19,940
+zwei also 1 plus 2 lambda unsere x2
+
+162
+00:06:19,940 --> 00:06:21,800
+zeile ist dann minus 3 plus lambda
+
+163
+00:06:21,800 --> 00:06:24,480
+mal null also minus 3 und das x3 ist
+
+164
+00:06:24,480 --> 00:06:27,040
+dann 1 plus lambda mal zwei also 1
+
+165
+00:06:27,040 --> 00:06:29,660
+plus 2 lambda das setzen wir für x1
+
+166
+00:06:29,660 --> 00:06:31,820
+x2 und x3 ein und kommen so auf
+
+167
+00:06:31,820 --> 00:06:34,780
+zweimal klammer auf 1 plus 2 lambda
+
+168
+00:06:34,780 --> 00:06:36,960
+klammer zu plus zweimal klammer auf 1
+
+169
+00:06:36,960 --> 00:06:38,360
+plus 2 lambda Lambda, Klammer zu,
+
+170
+00:06:38,500 --> 00:06:41,340
+plus 4 und das ist gleich 0. Wir
+
+171
+00:06:41,340 --> 00:06:42,580
+sehen, wir haben hier eine Gleichung,
+
+172
+00:06:42,640 --> 00:06:44,400
+die nur Lambda als unbekannt enthält.
+
+173
+00:06:44,720 --> 00:06:46,540
+Daher formen wir sie nach Lambda um
+
+174
+00:06:46,540 --> 00:06:48,080
+und bestimmen den Wert. In unserem
+
+175
+00:06:48,080 --> 00:06:51,040
+Fall ist Lambda minus 1. Das setzen
+
+176
+00:06:51,040 --> 00:06:52,060
+wir jetzt einfach wieder in unsere
+
+177
+00:06:52,060 --> 00:06:54,440
+Geradengleichung hier ein und können
+
+178
+00:06:54,440 --> 00:06:55,680
+so einen Schnittpunkt berechnen.
+
+179
+00:06:56,420 --> 00:06:58,220
+Unser Schnittpunkt ist in dem Fall
+
+180
+00:06:58,220 --> 00:07:01,140
+minus 1, minus 3, minus 1. Und das
+
+181
+00:07:01,140 --> 00:07:02,980
+ist der Punkt, zu dem der kürzeste
+
+182
+00:07:02,980 --> 00:07:04,780
+Abstand zwischen dem Punkt und der
+
+183
+00:07:04,780 --> 00:07:07,260
+Geraden besteht. Und das heißt, wir
+
+184
+00:07:07,260 --> 00:07:09,040
+haben mit diesem Punkt L, das ist der
+
+185
+00:07:09,040 --> 00:07:12,980
+Lotfußpunkt, berechnet. Und das, was
+
+186
+00:07:12,980 --> 00:07:14,540
+wir jetzt noch tun müssen, ist nur
+
+187
+00:07:14,540 --> 00:07:16,260
+noch den Abstand zwischen A und L
+
+188
+00:07:16,260 --> 00:07:17,820
+bestimmen. Das machen wir im nächsten
+
+189
+00:07:17,820 --> 00:07:21,160
+Schritt. Wir nehmen hier, wie gesagt,
+
+190
+00:07:21,320 --> 00:07:22,600
+den Weg. Wir nehmen nicht direkt die
+
+191
+00:07:22,600 --> 00:07:24,040
+Formel. Wir bilden erst den
+
+192
+00:07:24,040 --> 00:07:26,100
+Verbindungsvektor. Das heißt, wir
+
+193
+00:07:26,100 --> 00:07:28,460
+berechnen den Vektor a, l. Wir
+
+194
+00:07:28,460 --> 00:07:32,100
+berechnen also l
+
+195
+00:07:32,100 --> 00:07:35,560
+-a und kommen dann auf den Vektor .
+
+196
+00:07:38,840 --> 00:07:42,100
+Und das ist wie gesagt der Vektor,
+
+197
+00:07:42,120 --> 00:07:43,560
+der uns vom Punkt l zum Punkt a
+
+198
+00:07:43,560 --> 00:07:45,960
+bringt. Und wir müssen jetzt
+
+199
+00:07:45,960 --> 00:07:48,180
+lediglich nur noch seine Länge
+
+200
+00:07:48,180 --> 00:07:49,760
+bestimmen, denn die Länge des
+
+201
+00:07:49,760 --> 00:07:51,580
+Verbindungsvektors ist gleichzeitig
+
+202
+00:07:51,580 --> 00:07:54,280
+der gesuchte Abstand. Das heißt, wir
+
+203
+00:07:54,280 --> 00:07:56,500
+bilden einfach den Vektorbetrag. Also
+
+204
+00:07:56,500 --> 00:07:58,220
+unser Vektor lautet hier minus 1,
+
+205
+00:07:58,260 --> 00:08:00,160
+minus 6, 1. Folglich bilden wir die
+
+206
+00:08:00,160 --> 00:08:02,240
+Wurzel aus minus 1 zum Quadrat, plus
+
+207
+00:08:02,240 --> 00:08:04,040
+minus 6 zum Quadrat, plus 1 zum
+
+208
+00:08:04,040 --> 00:08:06,060
+Quadrat. Das ist gleich der Wurzel
+
+209
+00:08:06,060 --> 00:08:08,660
+aus 38. Das sind ungefähr 6,16
+
+210
+00:08:08,660 --> 00:08:11,440
+Längeinheiten. Das heißt, der Abstand
+
+211
+00:08:11,440 --> 00:08:12,860
+zwischen dem angegebenen Punkt und
+
+212
+00:08:12,860 --> 00:08:15,380
+unserer Geraden, bzw. der kleinste
+
+213
+00:08:15,380 --> 00:08:16,760
+Abstand zwischen unserem Punkt und
+
+214
+00:08:16,760 --> 00:08:18,980
+der angegebenen Gerade sind 6,16
+
+215
+00:08:18,980 --> 00:08:19,960
+Längeinheiten.
+
+216
+00:08:22,190 --> 00:08:23,840
+Und damit sind wir auch schon beim
+
+217
+00:08:23,840 --> 00:08:25,800
+nächsten Fall. Der Abstand zwischen
+
+218
+00:08:25,800 --> 00:08:27,640
+zwei Geraden. Wichtig ist, wir
+
+219
+00:08:27,640 --> 00:08:29,040
+betrachten jetzt hier im Folgenden
+
+220
+00:08:29,040 --> 00:08:30,460
+erstmal nur den Abstand zwischen zwei
+
+221
+00:08:30,460 --> 00:08:33,880
+parallelen Geraden. Und der Abstand
+
+222
+00:08:33,880 --> 00:08:35,420
+zwischen zwei parallelen Geraden
+
+223
+00:08:35,420 --> 00:08:37,140
+lässt sich genauso ermitteln wie der
+
+224
+00:08:37,140 --> 00:08:38,700
+Abstand zwischen einem Punkt und
+
+225
+00:08:38,700 --> 00:08:40,340
+einer Gerade. Dies ist einfach dem
+
+226
+00:08:40,340 --> 00:08:42,440
+geschuldet, der Abstand zwischen zwei
+
+227
+00:08:42,440 --> 00:08:44,140
+parallelen Geraden ist konstant. Und
+
+228
+00:08:44,140 --> 00:08:46,480
+daher können wir uns einfach einen
+
+229
+00:08:46,480 --> 00:08:48,360
+Punkt auf der Geraden nehmen und den
+
+230
+00:08:48,360 --> 00:08:50,040
+Abstand von diesem Punkt zu anderen
+
+231
+00:08:50,040 --> 00:08:52,580
+Geraden ermitteln. Ein Punkt, der
+
+232
+00:08:52,580 --> 00:08:54,060
+sich auf der Geraden befindet, ist
+
+233
+00:08:54,060 --> 00:08:57,620
+immer der Stützvektor. Daher nutzt
+
+234
+00:08:57,620 --> 00:08:59,140
+man auch den Stützvektor dann immer.
+
+235
+00:09:00,180 --> 00:09:02,200
+Zuallererst muss natürlich ermittelt
+
+236
+00:09:02,200 --> 00:09:04,940
+werden oder bewiesen werden, dass die
+
+237
+00:09:04,940 --> 00:09:06,220
+beiden Geraden überhaupt parallel
+
+238
+00:09:06,220 --> 00:09:12,000
+sind. Und dann wählen wir den Abstand
+
+239
+00:09:12,000 --> 00:09:13,840
+von Punkt und Gerade. Als Punkt
+
+240
+00:09:13,840 --> 00:09:15,160
+nehmen wir den Stützvektor der
+
+241
+00:09:15,160 --> 00:09:17,540
+Geraden G und beispielsweise
+
+242
+00:09:17,540 --> 00:09:19,380
+berechnen dann den Abstand von dem
+
+243
+00:09:19,380 --> 00:09:21,620
+Stützvektor der Geraden G zur Geraden
+
+244
+00:09:21,620 --> 00:09:26,060
+H. Und das Ganze machen wir einmal.
+
+245
+00:09:26,120 --> 00:09:28,400
+Wir haben hier unsere Gerade G, 10
+
+246
+00:09:28,400 --> 00:09:31,460
+minus 10, 8 plus Lambda mal 6 minus
+
+247
+00:09:31,460 --> 00:09:34,980
+8, 2. Und unsere zweite Gerade H, 2,
+
+248
+00:09:35,120 --> 00:09:38,880
+9, 4 plus µ mal 3 minus 4, 1. Als
+
+249
+00:09:38,880 --> 00:09:40,860
+erstes muss natürlich nachgewiesen
+
+250
+00:09:40,860 --> 00:09:43,760
+werden, dass die beiden Geraden
+
+251
+00:09:43,760 --> 00:09:46,500
+parallel sind. Das bedeutet, wir
+
+252
+00:09:46,500 --> 00:09:48,140
+stellen fest, die Richtungsvektoren
+
+253
+00:09:48,140 --> 00:09:49,940
+sind linear abhängig, also vielfacher
+
+254
+00:09:49,940 --> 00:09:51,840
+voneinander. Es ist also jetzt hier
+
+255
+00:09:51,840 --> 00:09:54,920
+bewiesen, sie sind parallel. Und
+
+256
+00:09:54,920 --> 00:09:59,340
+damit können wir jetzt den Abstand
+
+257
+00:09:59,340 --> 00:10:01,040
+von dem Stützvektor der Geraden g,
+
+258
+00:10:01,140 --> 00:10:04,360
+also 10 minus 10, 8, zu der Geraden h
+
+259
+00:10:04,360 --> 00:10:05,720
+ermitteln nach dem
+
+260
+00:10:05,720 --> 00:10:09,300
+Punktgeradeverfahren. Falls es der
+
+261
+00:10:09,300 --> 00:10:10,960
+Fall sein sollte, dass die Gerade G
+
+262
+00:10:10,960 --> 00:10:14,380
+in der Geraden H liegt, dann wird der
+
+263
+00:10:14,380 --> 00:10:16,300
+Abstand 0 herauskommen. Also das ist
+
+264
+00:10:16,300 --> 00:10:18,220
+durchaus möglich. Wenn der Abstand 0
+
+265
+00:10:18,220 --> 00:10:19,640
+herauskommt, heißt das, die Geraden
+
+266
+00:10:19,640 --> 00:10:20,760
+liegen ineinander, sind also
+
+267
+00:10:20,760 --> 00:10:22,580
+identisch. In der Regel wird dort
+
+268
+00:10:22,580 --> 00:10:26,420
+aber ein Abstand zu errechtern sein,
+
+269
+00:10:26,540 --> 00:10:28,180
+der ungleich 0 ist.
+
+270
+00:10:31,290 --> 00:10:33,210
+Kommen wir dann zu dem Abstand von
+
+271
+00:10:33,210 --> 00:10:37,550
+einem Punkt zu einer Ebene. Der
+
+272
+00:10:37,550 --> 00:10:38,750
+Abstand von einem Punkt zu einer
+
+273
+00:10:38,750 --> 00:10:40,030
+Ebene... Die Ebene lässt sich über
+
+274
+00:10:40,030 --> 00:10:41,250
+die sogenannte Hessische Normalenform
+
+275
+00:10:41,250 --> 00:10:43,310
+berechnen. Die Hessische Normalenform
+
+276
+00:10:43,310 --> 00:10:44,650
+ist eine besondere Form der
+
+277
+00:10:44,650 --> 00:10:46,670
+Koordinatenform, mit der man gleich
+
+278
+00:10:46,670 --> 00:10:48,550
+den Abstand berechnen kann. Das
+
+279
+00:10:48,550 --> 00:10:50,850
+heißt, wir müssen natürlich erstmal
+
+280
+00:10:50,850 --> 00:10:52,730
+eine Ebene in Koordinatenform haben,
+
+281
+00:10:52,930 --> 00:10:54,310
+um die Hessische Normalenform zu
+
+282
+00:10:54,310 --> 00:10:57,330
+bestimmen. Bei der Hessischen
+
+283
+00:10:57,330 --> 00:10:58,910
+Normalenform gibt man die Folgform.
+
+284
+00:10:59,030 --> 00:11:00,870
+Man nutzt die Koordinatenform und
+
+285
+00:11:00,870 --> 00:11:02,950
+teilt die Koordinatenform durch die
+
+286
+00:11:02,950 --> 00:11:05,190
+Länge des normalen Vektors. Das
+
+287
+00:11:05,190 --> 00:11:08,030
+heißt, es guckt ja aus der Ebene so
+
+288
+00:11:08,030 --> 00:11:09,950
+einen normalen Vektor raus und durch
+
+289
+00:11:09,950 --> 00:11:11,330
+das Teilen der Länge des normalen
+
+290
+00:11:11,330 --> 00:11:12,930
+Vektors bekommt dieser Vektor die
+
+291
+00:11:12,930 --> 00:11:16,830
+Länge 1. Und daher können wir dann
+
+292
+00:11:16,830 --> 00:11:19,790
+mit der hessischen normalen Form den
+
+293
+00:11:19,790 --> 00:11:23,010
+Abstand bestimmen. Das heißt, für
+
+294
+00:11:23,010 --> 00:11:24,730
+unseren Fall jetzt. Wir sehen hier
+
+295
+00:11:24,730 --> 00:11:25,530
+erstmal, wir haben unsere
+
+296
+00:11:25,530 --> 00:11:27,050
+Ebenengleichung in Parameterform
+
+297
+00:11:27,050 --> 00:11:30,550
+gegeben und einen Punkt. Unsere Ebene
+
+298
+00:11:30,550 --> 00:11:33,690
+lautet 3-2,4 plus Lambda mal 4. 1
+
+299
+00:11:33,690 --> 00:11:38,310
+minus 1 plus µ mal 2 0 minus 1. Als
+
+300
+00:11:38,310 --> 00:11:39,610
+erstes müssen wir natürlich aus
+
+301
+00:11:39,610 --> 00:11:41,850
+dieser Parameterform dann die
+
+302
+00:11:41,850 --> 00:11:43,550
+Koordinatenform schaffen. Für die
+
+303
+00:11:43,550 --> 00:11:44,690
+Koordinatenform brauchen wir einen
+
+304
+00:11:44,690 --> 00:11:49,210
+normalen Vektor. Diesen bekommen wir
+
+305
+00:11:49,210 --> 00:11:51,210
+am einfachsten über das Kreuzprodukt.
+
+306
+00:11:51,250 --> 00:11:54,970
+Also 4 1 minus 1 Kreuz 2 0 1 ist
+
+307
+00:11:54,970 --> 00:11:57,370
+minus 1 2 minus 2. Das ist wie gesagt
+
+308
+00:11:57,370 --> 00:11:58,570
+der normale Vektor. Dieser normale
+
+309
+00:11:58,570 --> 00:12:00,630
+Vektor hat die Eigenschaft, dass er
+
+310
+00:12:00,630 --> 00:12:02,030
+zu diesen beiden Vektoren
+
+311
+00:12:02,030 --> 00:12:05,550
+rechtlich... Wenn man also den linken
+
+312
+00:12:05,550 --> 00:12:07,350
+Vektor Skalar mit dem normalen Vektor
+
+313
+00:12:07,350 --> 00:12:09,450
+multiplizieren würde, käme man auf
+
+314
+00:12:09,450 --> 00:12:11,330
+das Skalarprodukt 0, gleiches gilt
+
+315
+00:12:11,330 --> 00:12:14,190
+für den rechten Vektor hier. Und das
+
+316
+00:12:14,190 --> 00:12:15,490
+ist auch gleich die notwendige
+
+317
+00:12:15,490 --> 00:12:16,930
+Bedingung für unseren normalen Vektor
+
+318
+00:12:16,930 --> 00:12:19,710
+und so könnt ihr auch eure normalen
+
+319
+00:12:19,710 --> 00:12:22,730
+Vektoren prüfen. In unserem Fall
+
+320
+00:12:22,730 --> 00:12:23,870
+haben wir jetzt den normalen Vektor
+
+321
+00:12:23,870 --> 00:12:26,330
+minus 1, 2, minus 2 und mit dem
+
+322
+00:12:26,330 --> 00:12:27,990
+arbeiten wir jetzt weiter, um die
+
+323
+00:12:27,990 --> 00:12:30,830
+Koordinatenform zu bestimmen. Wir
+
+324
+00:12:30,830 --> 00:12:32,130
+gehen wie gesagt wieder direkt in die
+
+325
+00:12:32,130 --> 00:12:34,230
+Koordinatenform Diese lautet dann
+
+326
+00:12:34,230 --> 00:12:37,490
+minus x1 plus 2x2 minus 2x3 Also
+
+327
+00:12:37,490 --> 00:12:39,630
+minus x1, weil das erste Element
+
+328
+00:12:39,630 --> 00:12:42,250
+minus 1 ist Plus 2, weil das zweite
+
+329
+00:12:42,250 --> 00:12:45,330
+Element eine 2 ist Und minus 2, weil
+
+330
+00:12:45,330 --> 00:12:46,910
+das dritte Element eine minus 2 ist
+
+331
+00:12:46,910 --> 00:12:49,010
+So kommen wir auf dieses minus x1
+
+332
+00:12:49,010 --> 00:12:52,590
+plus 2x2 minus 2x3 Das minus d gleich
+
+333
+00:12:52,590 --> 00:12:54,670
+0 ist immer da Und das minus d müssen
+
+334
+00:12:54,670 --> 00:12:56,890
+wir jetzt als erstes berechnen Das
+
+335
+00:12:56,890 --> 00:12:58,410
+machen wir einfach indem wir einen
+
+336
+00:12:58,410 --> 00:13:00,150
+Punkt einsetzen, der in der Ebene
+
+337
+00:13:00,150 --> 00:13:02,210
+sein soll und das ist natürlich unser
+
+338
+00:13:02,210 --> 00:13:04,730
+Stützvektor hier. Wir setzen jetzt
+
+339
+00:13:04,730 --> 00:13:09,070
+für x1 3, für x2 minus 2 und für x3
+
+340
+00:13:09,070 --> 00:13:11,450
+die 4 ein, also unser Stützvektor und
+
+341
+00:13:11,450 --> 00:13:14,230
+berechnen so unser d. In unserem Fall
+
+342
+00:13:14,230 --> 00:13:15,930
+kommen wir auf ein d von minus 15,
+
+343
+00:13:16,110 --> 00:13:17,730
+achtet bitte darauf, minus minus,
+
+344
+00:13:17,970 --> 00:13:19,970
+deswegen steht hier eine plus 15 und
+
+345
+00:13:19,970 --> 00:13:21,850
+unsere Ebenengleichung lautet dann
+
+346
+00:13:21,850 --> 00:13:25,650
+minus x1 plus 2x2 minus 2x3 plus 15
+
+347
+00:13:25,650 --> 00:13:29,750
+ist gleich 0. und damit haben wir
+
+348
+00:13:29,750 --> 00:13:30,370
+jetzt schon mal unsere
+
+349
+00:13:30,370 --> 00:13:32,190
+Ebenengleichung in Koordinatenform.
+
+350
+00:13:33,190 --> 00:13:34,470
+Das war jetzt sozusagen die
+
+351
+00:13:34,470 --> 00:13:37,170
+Vorarbeit. Wir machen nun aus der
+
+352
+00:13:37,170 --> 00:13:38,450
+Koordinatenform die herstellende
+
+353
+00:13:38,450 --> 00:13:40,010
+Normalenform, indem wir als erstes
+
+354
+00:13:40,010 --> 00:13:41,770
+die Länge des normalen Vektors
+
+355
+00:13:41,770 --> 00:13:45,990
+berechnen. Das heißt, wir berechnen
+
+356
+00:13:45,990 --> 00:13:47,930
+das Vektorprodukt. Unser normaler
+
+357
+00:13:47,930 --> 00:13:49,690
+Vektor lautet hier, ihr könnt es auch
+
+358
+00:13:49,690 --> 00:13:52,630
+nochmal ablesen, minus 1, 2, minus 2.
+
+359
+00:13:52,630 --> 00:13:55,370
+Das heißt, wir berechnen die Wurzel
+
+360
+00:13:55,370 --> 00:13:59,930
+aus minus 1² plus 2² plus 2². Das ist
+
+361
+00:13:59,930 --> 00:14:03,870
+die Wurzel aus 9 bzw. 3. Und wir
+
+362
+00:14:03,870 --> 00:14:05,370
+berechnen die Hessische Normalenform
+
+363
+00:14:05,370 --> 00:14:08,770
+nun, indem wir einfach die komplette
+
+364
+00:14:08,770 --> 00:14:11,130
+Koordinatenform durch 3 teilen. Dann
+
+365
+00:14:11,130 --> 00:14:12,990
+entsteht meistens so ein Bruch. Und
+
+366
+00:14:12,990 --> 00:14:14,650
+unsere Hessische Normalenform lautet
+
+367
+00:14:14,650 --> 00:14:17,690
+nun minus x1 plus 2x2 minus 2x3 plus
+
+368
+00:14:17,690 --> 00:14:18,830
+15 durch 3.
+
+369
+00:14:21,630 --> 00:14:25,250
+Um nun den Abstand zur Ebene zu
+
+370
+00:14:25,250 --> 00:14:27,530
+berechnen, setzen wir unseren Punkt
+
+371
+00:14:27,530 --> 00:14:30,470
+für das x1, x2 und x3 ein. Das heißt,
+
+372
+00:14:30,530 --> 00:14:32,430
+für das x1 setzen wir die 2 ein, für
+
+373
+00:14:32,430 --> 00:14:36,170
+das x2 die minus 4 und für das x3 die
+
+374
+00:14:36,170 --> 00:14:39,790
+7. So kommen wir zu minus 2 plus 2
+
+375
+00:14:39,790 --> 00:14:42,990
+mal minus 4 minus 2 mal 7 plus 15.
+
+376
+00:14:43,710 --> 00:14:46,870
+Das Ganze durch 3. Wir nehmen hier
+
+377
+00:14:46,870 --> 00:14:48,050
+noch die Betragsstriche aus dem
+
+378
+00:14:48,050 --> 00:14:50,490
+Grund, der Abstand ist immer positiv.
+
+379
+00:14:50,630 --> 00:14:52,890
+Wir kommen dann auf den Betrag von
+
+380
+00:14:52,890 --> 00:14:55,790
+minus 3 und der ist dann 3. Folglich
+
+381
+00:14:55,790 --> 00:14:57,730
+können wir sagen, der angegebene
+
+382
+00:14:57,730 --> 00:15:01,110
+Punkt A hat den Abstand 3 zu der
+
+383
+00:15:01,110 --> 00:15:02,470
+angegebenen Ebene E.
+
+384
+00:15:05,560 --> 00:15:07,820
+Kommen wir nun zum nächsten Fall, dem
+
+385
+00:15:07,820 --> 00:15:10,240
+Abstand zwischen einer geraden und
+
+386
+00:15:10,240 --> 00:15:14,430
+einer Ebene. Hierbei ist es auch
+
+387
+00:15:14,430 --> 00:15:16,070
+wieder wichtig, wie liegt die Gerade
+
+388
+00:15:16,070 --> 00:15:18,330
+überhaupt zur Ebene. Da gibt es ja
+
+389
+00:15:18,330 --> 00:15:20,130
+eigentlich nur drei Möglichkeiten
+
+390
+00:15:20,130 --> 00:15:21,690
+zwischen der Lagebeziehung Gerade
+
+391
+00:15:21,690 --> 00:15:24,970
+-Ebene. entweder die Ebene verläuft,
+
+392
+00:15:25,050 --> 00:15:26,750
+die Gerade läuft parallel zur Ebene
+
+393
+00:15:26,750 --> 00:15:28,430
+oder die Gerade läuft in der Ebene.
+
+394
+00:15:28,510 --> 00:15:30,510
+Das sind die zwei Fälle, wo es halt
+
+395
+00:15:30,510 --> 00:15:33,170
+parallel ist. Der dritte Fall ist,
+
+396
+00:15:33,230 --> 00:15:34,370
+dass die Gerade einen Schnittpunkt
+
+397
+00:15:34,370 --> 00:15:36,630
+mit der Ebene hat. Das heißt also,
+
+398
+00:15:36,730 --> 00:15:39,970
+sobald klargestellt ist, dass unsere
+
+399
+00:15:39,970 --> 00:15:41,710
+Gerade parallel zur Ebene ist, das
+
+400
+00:15:41,710 --> 00:15:43,630
+heißt, der Richtungsvektor der
+
+401
+00:15:43,630 --> 00:15:45,310
+Geraden linear abhängig ist zu den
+
+402
+00:15:45,310 --> 00:15:47,450
+Richtungsvektoren der Ebene, können
+
+403
+00:15:47,450 --> 00:15:49,310
+wir einen Abstand berechnen. und
+
+404
+00:15:49,310 --> 00:15:50,850
+diesen Abstand berechnen wir auch
+
+405
+00:15:50,850 --> 00:15:51,750
+wieder mittels der hessischen
+
+406
+00:15:51,750 --> 00:15:54,370
+Normalform. Der Gedankengang ist der
+
+407
+00:15:54,370 --> 00:15:56,110
+gleiche wie vorhin, der Abstand
+
+408
+00:15:56,110 --> 00:15:57,830
+zwischen zwei parallelen Graden, denn
+
+409
+00:15:57,830 --> 00:15:59,910
+der Abstand zwischen der Graden und
+
+410
+00:15:59,910 --> 00:16:01,330
+der Ebene, sind ja beide parallel,
+
+411
+00:16:05,660 --> 00:16:08,140
+ist nicht so. Den Abstand von diesem
+
+412
+00:16:08,140 --> 00:16:10,240
+Punkt zur Ebene ermitteln. Und dort
+
+413
+00:16:10,240 --> 00:16:11,220
+nehmen wir natürlich auch wieder den
+
+414
+00:16:11,220 --> 00:16:11,760
+Stützvektor.
+
+415
+00:16:14,960 --> 00:16:16,700
+Natürlich müssen wir auch hierbei als
+
+416
+00:16:16,700 --> 00:16:20,020
+erstes wieder beweisen, dass die
+
+417
+00:16:20,020 --> 00:16:22,180
+Grade G parallel ist. zur Ebene E
+
+418
+00:16:22,180 --> 00:16:25,820
+ist. Und dann gehen wir natürlich
+
+419
+00:16:25,820 --> 00:16:27,200
+wieder hin. Wir haben dann hier bei
+
+420
+00:16:27,200 --> 00:16:31,000
+dem Fall Abstand, Ebene, Punkt. Und
+
+421
+00:16:31,000 --> 00:16:32,040
+zwar als Punkt nehmen wir den
+
+422
+00:16:32,040 --> 00:16:34,540
+Stützvektor. Deswegen brauchen wir
+
+423
+00:16:34,540 --> 00:16:36,980
+als nächstes die Ebene E in
+
+424
+00:16:36,980 --> 00:16:39,080
+Koordinatenform, damit wir
+
+425
+00:16:39,080 --> 00:16:40,400
+anschließend die herrschende normalen
+
+426
+00:16:40,400 --> 00:16:43,520
+Form erstellen können. Wenn wir die
+
+427
+00:16:43,520 --> 00:16:45,560
+Ebene E, beziehungsweise wenn wir die
+
+428
+00:16:45,560 --> 00:16:47,860
+herrschende normalen Formen vorliegen
+
+429
+00:16:47,860 --> 00:16:50,280
+haben, setzen wir einfach unseren
+
+430
+00:16:50,280 --> 00:16:52,940
+Stützvektor der Geraden ein und
+
+431
+00:16:52,940 --> 00:16:56,140
+berechnen so den Abstand von der
+
+432
+00:16:56,140 --> 00:16:58,560
+Ebene E zu der Geraden G.
+
+433
+00:17:01,260 --> 00:17:03,800
+Falls die Gerade G in der Ebene E
+
+434
+00:17:03,800 --> 00:17:05,160
+liegt, kommt hier natürlich auch
+
+435
+00:17:05,160 --> 00:17:08,780
+wieder der Abstand 0 heraus. Das ist
+
+436
+00:17:08,780 --> 00:17:10,560
+ein klares Zeichen dafür, dass die
+
+437
+00:17:10,560 --> 00:17:14,480
+Gerade in der Ebene liegt. Meistens
+
+438
+00:17:14,480 --> 00:17:16,460
+wird sich dort aber ein Abstand
+
+439
+00:17:16,460 --> 00:17:17,880
+berechnen lassen, der ungleichend
+
+440
+00:17:17,880 --> 00:17:18,000
+ist.
+
+441
+00:17:21,060 --> 00:17:22,800
+Wir haben das mal beispielhaft
+
+442
+00:17:22,800 --> 00:17:25,540
+gezeigt. Und zwar das ist unsere
+
+443
+00:17:25,540 --> 00:17:26,880
+Gerade hier. In dem Fall haben wir
+
+444
+00:17:26,880 --> 00:17:27,900
+unsere Ebene aber direkt in
+
+445
+00:17:27,900 --> 00:17:31,840
+Koordinatenform angegeben. Und als
+
+446
+00:17:31,840 --> 00:17:33,540
+erstes müssen wir natürlich zeigen,
+
+447
+00:17:33,720 --> 00:17:38,420
+dass unsere Gerade parallel zu
+
+448
+00:17:38,420 --> 00:17:40,220
+unserer Ebene ist. Jetzt muss man
+
+449
+00:17:40,220 --> 00:17:41,680
+unterscheiden. Wir Wir haben ja die
+
+450
+00:17:41,680 --> 00:17:42,940
+Koordinatenform gegeben, das heißt,
+
+451
+00:17:42,980 --> 00:17:44,100
+wir können einen normalen Vektor
+
+452
+00:17:44,100 --> 00:17:47,860
+ablesen. Und eine Gerade ist dann
+
+453
+00:17:47,860 --> 00:17:51,000
+parallel zur Ebene, wenn die Gerade
+
+454
+00:17:51,000 --> 00:17:52,960
+senkrecht zum normalen Vektor
+
+455
+00:17:52,960 --> 00:17:57,100
+verläuft. Das ist ganz wichtig. Weil
+
+456
+00:17:57,100 --> 00:17:58,780
+wir hier einen normalen Vektor
+
+457
+00:17:58,780 --> 00:17:59,960
+ablesen können, der halt senkrecht
+
+458
+00:17:59,960 --> 00:18:01,780
+auf der Ebene steht, ist die Gerade
+
+459
+00:18:01,780 --> 00:18:03,560
+parallel zur Ebene, wenn die Gerade
+
+460
+00:18:03,560 --> 00:18:05,480
+senkrecht zum normalen Vektor ist.
+
+461
+00:18:05,820 --> 00:18:07,340
+Deswegen bilden wir das
+
+462
+00:18:07,340 --> 00:18:09,460
+Skalarprodukt. Wenn das Skalarprodukt
+
+463
+00:18:09,460 --> 00:18:11,720
+0 ist, ist die Gerade senkrecht zum
+
+464
+00:18:11,720 --> 00:18:14,440
+normalen Vektor bzw. parallel zur
+
+465
+00:18:14,440 --> 00:18:17,960
+Ebene. Der normale Vektor hier ist 6,
+
+466
+00:18:18,060 --> 00:18:20,640
+0. Sie sehen, wir haben kein x2,
+
+467
+00:18:20,820 --> 00:18:25,060
+deswegen ist die x2-Komponente 0 und
+
+468
+00:18:25,060 --> 00:18:27,200
+dann minus 8. So kommt dieses 6, 0,
+
+469
+00:18:27,240 --> 00:18:29,400
+minus 8 zustande. Der Richtungsvektor
+
+470
+00:18:29,400 --> 00:18:31,400
+der Geraden ist 4, 4, 3. und wir
+
+471
+00:18:31,400 --> 00:18:32,300
+stellen fest, wenn wir ein
+
+472
+00:18:32,300 --> 00:18:33,940
+Skalarprodukt bilden, also 4 mal 6
+
+473
+00:18:33,940 --> 00:18:36,660
+plus 4 mal 0 plus 3 mal minus 8,
+
+474
+00:18:36,760 --> 00:18:39,400
+kommt da 0 raus. Folglich ist die
+
+475
+00:18:39,400 --> 00:18:41,720
+Gerade definitiv parallel zur Ebene.
+
+476
+00:18:42,800 --> 00:18:45,120
+Daher formen wir als nächstes unsere
+
+477
+00:18:45,120 --> 00:18:47,400
+Koordinatenform in die Hessische
+
+478
+00:18:47,400 --> 00:18:49,260
+Normalenform um. Das heißt, wir gehen
+
+479
+00:18:49,260 --> 00:18:51,480
+auch hier wieder nur hin und teilen
+
+480
+00:18:51,480 --> 00:18:55,080
+die Koordinatenform durch die Länge
+
+481
+00:18:55,080 --> 00:18:56,240
+des Normalenvektors. Der
+
+482
+00:18:56,240 --> 00:18:58,680
+Normalenvektor war bei uns ja 6, 0,
+
+483
+00:18:58,740 --> 00:19:00,840
+minus 8. Also wir ziehen die Wurzel
+
+484
+00:19:00,840 --> 00:19:02,520
+aus 6 zum Quadrat, plus 0 zum
+
+485
+00:19:02,520 --> 00:19:04,580
+Quadrat, plus minus 8 zum Quadrat,
+
+486
+00:19:04,600 --> 00:19:07,700
+das ist 10. Folglich lautet unsere
+
+487
+00:19:07,700 --> 00:19:10,060
+Heschel-Normalenform dann 6x1 minus
+
+488
+00:19:10,060 --> 00:19:14,840
+8x3 plus 2 durch 10. Um jetzt
+
+489
+00:19:14,840 --> 00:19:18,780
+letztendlich den Abstand zu Geraden
+
+490
+00:19:18,780 --> 00:19:21,100
+auszurechnen, setzen wir für x1 die 7
+
+491
+00:19:21,100 --> 00:19:23,300
+ein. Wenn wir x2 hätten, würden wir
+
+492
+00:19:23,300 --> 00:19:25,100
+für x2 die 1 einsetzen, haben wir
+
+493
+00:19:25,100 --> 00:19:27,640
+aber nicht. Und für das x3 setzen wir
+
+494
+00:19:27,640 --> 00:19:29,660
+dann die Minus. 7 entsprechend ein.
+
+495
+00:19:30,260 --> 00:19:33,300
+Das sehen wir hier und wir berechnen
+
+496
+00:19:33,300 --> 00:19:34,360
+das dann einfach wieder. Wichtig,
+
+497
+00:19:34,420 --> 00:19:35,720
+auch hier betrachten wir wieder den
+
+498
+00:19:35,720 --> 00:19:37,860
+Betrag, weil es nur positive Abstände
+
+499
+00:19:37,860 --> 00:19:42,220
+gibt. Auch in diesem Fall kommt der
+
+500
+00:19:42,220 --> 00:19:43,780
+Abstand 10 heraus. Das heißt, wir
+
+501
+00:19:43,780 --> 00:19:45,820
+können sagen, die Gerade G läuft
+
+502
+00:19:45,820 --> 00:19:47,920
+parallel zur Ebene E mit einem
+
+503
+00:19:47,920 --> 00:19:51,080
+Abstand von 10 Längeinheiten. Das
+
+504
+00:19:51,080 --> 00:19:52,580
+wäre die Antwort auf die Frage.
+
+505
+00:19:52,580 --> 00:19:53,720
+Kommen
+
+506
+00:19:56,020 --> 00:19:57,660
+wir nun zu dem Abstand von zwei
+
+507
+00:19:57,660 --> 00:20:02,200
+Ebenen. Der Abstand zwischen zwei
+
+508
+00:20:02,200 --> 00:20:03,700
+Ebenen lässt sich ebenfalls über die
+
+509
+00:20:03,700 --> 00:20:04,800
+Hessische Normalenform ermitteln,
+
+510
+00:20:04,880 --> 00:20:06,900
+einfach ausgrund der Tatsache, dass
+
+511
+00:20:06,900 --> 00:20:09,100
+die Ebenen auch parallel sein müssen.
+
+512
+00:20:10,400 --> 00:20:12,600
+Zum Thema Lagebeziehung, Ebene,
+
+513
+00:20:12,600 --> 00:20:14,300
+Ebene, sei noch kurz gesagt, es gibt
+
+514
+00:20:14,300 --> 00:20:16,000
+auch wieder hier drei Fälle, entweder
+
+515
+00:20:16,000 --> 00:20:19,260
+die Ebenen sind
+
+516
+00:20:23,010 --> 00:20:25,350
+identisch oder sie schneiden sich.
+
+517
+00:20:25,630 --> 00:20:28,630
+Daher, wenn sie parallel sind, kann
+
+518
+00:20:28,630 --> 00:20:29,670
+man auf jeden Fall einen Abstand
+
+519
+00:20:29,670 --> 00:20:31,330
+bestimmen. Falls der Abstand null
+
+520
+00:20:31,330 --> 00:20:32,610
+ist, bedeutet dies nur, dass sie
+
+521
+00:20:32,610 --> 00:20:33,970
+ineinander liegen, also identisch
+
+522
+00:20:33,970 --> 00:20:36,890
+sind. Zuallererst muss man natürlich
+
+523
+00:20:36,890 --> 00:20:38,890
+wieder beweisen, dass die beiden
+
+524
+00:20:38,890 --> 00:20:43,210
+Ebenen parallel sind. Ja, das macht
+
+525
+00:20:43,210 --> 00:20:44,370
+man über den normalen Vektor,
+
+526
+00:20:44,450 --> 00:20:46,530
+beziehungsweise hängt davon ab, in
+
+527
+00:20:46,530 --> 00:20:47,990
+welchen Formen die Ebenen gegeben
+
+528
+00:20:47,990 --> 00:20:49,170
+sind. Es gibt ja drei
+
+529
+00:20:49,170 --> 00:20:51,210
+Darstellungsmöglichkeiten. Zwei davon
+
+530
+00:20:51,210 --> 00:20:51,850
+haben wir heute ja schon
+
+531
+00:20:51,850 --> 00:20:52,870
+kennengelernt. Das ist die
+
+532
+00:20:52,870 --> 00:20:53,910
+Parameterform und die
+
+533
+00:20:53,910 --> 00:20:56,350
+Koordinatenform. Und dann muss man
+
+534
+00:20:56,350 --> 00:20:57,910
+das entsprechend beweisen, dass sie
+
+535
+00:20:57,910 --> 00:21:01,770
+parallel sind. Und anschließend
+
+536
+00:21:01,770 --> 00:21:03,450
+wandelt man eine der beiden Ebenen,
+
+537
+00:21:03,490 --> 00:21:05,250
+also es ist eigentlich egal, ob ihr E
+
+538
+00:21:05,250 --> 00:21:09,630
+oder F nehmt, wandelt ihr in die
+
+539
+00:21:09,630 --> 00:21:11,310
+herrsche-normalen-Form um und
+
+540
+00:21:11,310 --> 00:21:13,530
+berechnet den Abstand zwischen der
+
+541
+00:21:13,530 --> 00:21:16,130
+Ebene und einem Punkt auf der anderen
+
+542
+00:21:16,130 --> 00:21:20,370
+Ebene. Das heißt, wenn man die Ebene
+
+543
+00:21:20,370 --> 00:21:22,530
+E, also die untere in dem Fall, in
+
+544
+00:21:22,530 --> 00:21:24,110
+die herrsche-normalen-Form umwandelt,
+
+545
+00:21:24,770 --> 00:21:26,890
+dann sucht man sich einen Punkt aus
+
+546
+00:21:26,890 --> 00:21:30,510
+der Ebene F heraus. Das heißt, wir
+
+547
+00:21:30,510 --> 00:21:31,930
+brauchen irgendeinen Punkt, der auf
+
+548
+00:21:31,930 --> 00:21:34,470
+der Ebene F liegt, und den setzen wir
+
+549
+00:21:34,470 --> 00:21:36,130
+dann wieder in die hnf ein, also in
+
+550
+00:21:36,130 --> 00:21:37,710
+der normalen Form und können so den
+
+551
+00:21:37,710 --> 00:21:39,530
+Abstand berechnen. Auch hier bei
+
+552
+00:21:39,530 --> 00:21:42,410
+parallelen Ebenen gilt natürlich,
+
+553
+00:21:42,550 --> 00:21:45,170
+dass der Abstand überall gleich ist.
+
+554
+00:21:46,090 --> 00:21:47,290
+Das Ganze haben wir natürlich auch
+
+555
+00:21:47,290 --> 00:21:49,370
+mal gemacht. Wir sehen hier, wir
+
+556
+00:21:49,370 --> 00:21:52,970
+haben die Ebene f in Parameterform
+
+557
+00:21:52,970 --> 00:21:54,590
+gegeben und die Ebene e in
+
+558
+00:21:54,590 --> 00:21:55,310
+Koordinatenform.
+
+559
+00:21:58,850 --> 00:22:00,710
+Daher ist es natürlich sinnvoll, die
+
+560
+00:22:00,710 --> 00:22:01,750
+Ebene e außerordentlich zu verändern.
+
+561
+00:22:01,770 --> 00:22:03,430
+aus der Ebene E später die Hessische
+
+562
+00:22:03,430 --> 00:22:04,670
+Normalenform zu machen, einfach weil
+
+563
+00:22:04,670 --> 00:22:05,690
+man sie schon in Koordinatenform
+
+564
+00:22:05,690 --> 00:22:10,150
+gegeben hat. Und man muss jetzt
+
+565
+00:22:10,150 --> 00:22:11,290
+natürlich noch beweisen, dass sie
+
+566
+00:22:11,290 --> 00:22:13,370
+rechtwinklig zueinander stehen. Das
+
+567
+00:22:13,370 --> 00:22:15,790
+macht man einfach, indem man einen
+
+568
+00:22:15,790 --> 00:22:17,750
+der beiden Richtungsvektoren der
+
+569
+00:22:17,750 --> 00:22:19,970
+Ebene in Parameterform nimmt und das
+
+570
+00:22:19,970 --> 00:22:21,810
+Skalarprodukt mit dem normalen Vektor
+
+571
+00:22:21,810 --> 00:22:23,270
+der Ebene in normalen Form bildet.
+
+572
+00:22:23,270 --> 00:22:25,170
+Der normale Vektor unserer Ebene E
+
+573
+00:22:25,170 --> 00:22:30,090
+ist ja 1, minus 1 und 0, weil wir
+
+574
+00:22:30,090 --> 00:22:31,450
+haben keine x3, deswegen ist das nur
+
+575
+00:22:31,450 --> 00:22:34,390
+0. Deswegen gehen wir in diese beiden
+
+576
+00:22:34,390 --> 00:22:35,770
+Richtungsvektoren und bilden das
+
+577
+00:22:35,770 --> 00:22:37,530
+Skalarprodukt. Wir haben uns für den
+
+578
+00:22:37,530 --> 00:22:38,770
+linken Richtungsvektor entschieden,
+
+579
+00:22:39,010 --> 00:22:40,450
+also wir bilden das Skalarprodukt aus
+
+580
+00:22:40,450 --> 00:22:45,410
+2, 2, 1 und 1, minus 1, 0. 2 mal 1
+
+581
+00:22:45,410 --> 00:22:48,630
+plus 2 mal minus 1 plus 1 mal 0, das
+
+582
+00:22:48,630 --> 00:22:50,730
+ist 0 und das ist der Beweis, dass
+
+583
+00:22:50,730 --> 00:22:52,930
+diese parallel sind. Das heißt, sie
+
+584
+00:22:52,930 --> 00:22:54,950
+sind entweder parallel oder identisch
+
+585
+00:22:54,950 --> 00:22:57,130
+und deswegen können wir auf jeden
+
+586
+00:22:57,130 --> 00:23:00,450
+Fall einen Abstand berechnen. Und das
+
+587
+00:23:00,450 --> 00:23:03,310
+machen wir dann jetzt auch mal. Und
+
+588
+00:23:03,310 --> 00:23:05,350
+zwar, wie gesagt, wir haben die Ebene
+
+589
+00:23:05,350 --> 00:23:08,330
+E ja in Koordinatenform, daher formen
+
+590
+00:23:08,330 --> 00:23:10,610
+wir die Ebene E in die HNF um. Also
+
+591
+00:23:10,610 --> 00:23:12,850
+wir teilen wieder durch die Länge des
+
+592
+00:23:12,850 --> 00:23:15,110
+normalen Vektors. Also wir teilen
+
+593
+00:23:15,110 --> 00:23:17,210
+durch die Wurzel aus 1² plus minus
+
+594
+00:23:17,210 --> 00:23:20,370
+1², das ist die Wurzel aus 2. unsere
+
+595
+00:23:20,370 --> 00:23:23,190
+h&f lautet also x1 minus x2 minus 3
+
+596
+00:23:23,190 --> 00:23:27,070
+durch wurzel 2 dort setzen wir nun
+
+597
+00:23:27,070 --> 00:23:28,750
+ein punkt ein der sich auf der ebene
+
+598
+00:23:28,750 --> 00:23:31,390
+f befindet wir haben die ebene f ja
+
+599
+00:23:31,390 --> 00:23:32,870
+wie gesagt in parameter form
+
+600
+00:23:32,870 --> 00:23:34,950
+vorliegen daher können wir jetzt ohne
+
+601
+00:23:34,950 --> 00:23:38,730
+weiteres den stützvektor wieder
+
+602
+00:23:38,730 --> 00:23:40,690
+nutzen als punkt auf der ebene und
+
+603
+00:23:40,690 --> 00:23:42,630
+den abstand zu diesem stützvektor
+
+604
+00:23:42,630 --> 00:23:44,050
+bestimmt deswegen setzen wir den
+
+605
+00:23:44,050 --> 00:23:48,710
+punkt 3 minus 210 ein kommen so auf 3
+
+606
+00:23:48,710 --> 00:23:51,650
+minus minus 2 minus 3 durch die
+
+607
+00:23:51,650 --> 00:23:54,010
+Wurzel aus 2 und das ist dann die
+
+608
+00:23:54,010 --> 00:23:57,210
+Wurzel aus 2. Folglich beträgt der
+
+609
+00:23:57,210 --> 00:23:58,590
+Abstand zwischen den beiden Ebenen
+
+610
+00:23:58,590 --> 00:24:00,730
+Wurzel 2. Man kann also jetzt auch
+
+611
+00:24:00,730 --> 00:24:02,250
+sagen, sie sind definitiv nicht
+
+612
+00:24:02,250 --> 00:24:03,850
+identisch, denn sie liegen nicht
+
+613
+00:24:03,850 --> 00:24:04,550
+ineinander.
+
+614
+00:24:08,010 --> 00:24:09,930
+Damit kommen wir dann zum letzten
+
+615
+00:24:09,930 --> 00:24:11,250
+Abstandsfall. Das ist wieder der
+
+616
+00:24:11,250 --> 00:24:12,630
+Abstand zwischen zwei Graden. In
+
+617
+00:24:12,630 --> 00:24:13,850
+diesem Fall geht es aber um
+
+618
+00:24:13,850 --> 00:24:15,590
+windschiefe Graden. Das ist ganz
+
+619
+00:24:15,590 --> 00:24:16,890
+wichtig, es geht hier um windschiefe
+
+620
+00:24:16,890 --> 00:24:19,010
+Graden und den Abstand von
+
+621
+00:24:19,010 --> 00:24:21,490
+windschiefen Graden, also es geht
+
+622
+00:24:21,490 --> 00:24:22,890
+hierbei auch wieder um den kleinsten
+
+623
+00:24:22,890 --> 00:24:25,330
+Abstand, der lässt sich auch wieder
+
+624
+00:24:25,330 --> 00:24:26,290
+über die hessische Normalform
+
+625
+00:24:26,290 --> 00:24:27,770
+ermitteln. Wichtig ist hierbei
+
+626
+00:24:27,770 --> 00:24:29,390
+natürlich, dass wir als erstes wieder
+
+627
+00:24:29,390 --> 00:24:30,690
+beweisen müssen, dass die beiden
+
+628
+00:24:30,690 --> 00:24:32,110
+Graden windschief zueinander stehen.
+
+629
+00:24:33,110 --> 00:24:34,110
+Windschief zueinander stehen
+
+630
+00:24:34,110 --> 00:24:36,030
+bedeutet, dass die Richtungsvektoren
+
+631
+00:24:36,030 --> 00:24:37,750
+der beiden Graden keine Vielfachen
+
+632
+00:24:37,750 --> 00:24:39,850
+voneinander sind und es kein
+
+633
+00:24:39,850 --> 00:24:41,050
+Schnittpunkt besteht.
+
+634
+00:24:43,950 --> 00:24:45,250
+Dann kann man erst weitermachen.
+
+635
+00:24:46,810 --> 00:24:48,150
+Anschließend brauchen wir einen
+
+636
+00:24:48,150 --> 00:24:50,230
+Vektor, der zu beiden Graden
+
+637
+00:24:50,230 --> 00:24:51,970
+senkrecht ist. Das heißt, wir bilden
+
+638
+00:24:51,970 --> 00:24:53,550
+einen normalen Vektor aus G und H.
+
+639
+00:24:53,790 --> 00:24:54,990
+Das machen wir am besten mit
+
+640
+00:24:54,990 --> 00:24:56,130
+Kreuzprodukt, das sehen wir auch
+
+641
+00:24:56,130 --> 00:25:01,570
+gleich. Und anschließend spannen wir
+
+642
+00:25:01,570 --> 00:25:04,390
+eine Hilfsebene auf. Also wir spannen
+
+643
+00:25:04,390 --> 00:25:08,530
+eine Hilfsebene mit dem normalen
+
+644
+00:25:08,530 --> 00:25:10,810
+Vektor auf, die die Gerade G
+
+645
+00:25:10,810 --> 00:25:14,770
+beinhaltet. und zu H parallel ist.
+
+646
+00:25:15,650 --> 00:25:16,990
+Das ist jetzt ein bisschen schwierig
+
+647
+00:25:16,990 --> 00:25:18,550
+vorzustellen, aber ich denke, wenn
+
+648
+00:25:18,550 --> 00:25:20,310
+man gesehen hat, wie es funktioniert,
+
+649
+00:25:21,010 --> 00:25:22,290
+ist es doch recht einleuchtend.
+
+650
+00:25:24,900 --> 00:25:26,440
+Wie gesagt, diese Hilfsebene
+
+651
+00:25:26,440 --> 00:25:29,220
+beinhaltet G und ist zu H parallel
+
+652
+00:25:29,220 --> 00:25:31,800
+und anschließend können wir dann den
+
+653
+00:25:31,800 --> 00:25:35,140
+Abstand zu H berechnen. Wieder mit
+
+654
+00:25:35,140 --> 00:25:36,960
+der HNF. Also wir formen diese
+
+655
+00:25:36,960 --> 00:25:39,900
+Hilfsebene in die Koordinatenform um
+
+656
+00:25:39,900 --> 00:25:41,560
+und bilden dann von dieser Hilfsebene
+
+657
+00:25:41,560 --> 00:25:44,460
+die HNF, um anschließend dann den
+
+658
+00:25:44,460 --> 00:25:46,300
+Abstand von der Punkt.
+
+659
+00:25:51,180 --> 00:25:52,480
+Dort nehmen wir natürlich auch wieder
+
+660
+00:25:52,480 --> 00:25:54,840
+von h den Stützvektor. Aber fangen
+
+661
+00:25:54,840 --> 00:25:56,860
+wir an. Als erstes vergleichen wir
+
+662
+00:25:56,860 --> 00:25:58,120
+die beiden Richtungsvektoren, das
+
+663
+00:25:58,120 --> 00:25:59,520
+sind wie gesagt unsere beiden Geraden
+
+664
+00:25:59,520 --> 00:26:02,160
+hier und stellen fest, die sind keine
+
+665
+00:26:02,160 --> 00:26:04,400
+Vielfachung voneinander. Folglich
+
+666
+00:26:04,400 --> 00:26:06,060
+sind die beiden Geraden nicht
+
+667
+00:26:06,060 --> 00:26:08,400
+parallel und man müsste natürlich
+
+668
+00:26:08,400 --> 00:26:09,520
+eher noch auf einen Schnittpunkt
+
+669
+00:26:09,520 --> 00:26:12,420
+prüfen. Wenn sie wirklich windschief
+
+670
+00:26:12,420 --> 00:26:14,300
+sind, gibt es keinen Schnittpunkt bei
+
+671
+00:26:14,300 --> 00:26:15,960
+unseren beiden Geraden. ist dies auch
+
+672
+00:26:15,960 --> 00:26:20,120
+wirklich der Fall. Und dann können
+
+673
+00:26:20,120 --> 00:26:22,180
+wir weitermachen. Als nächstes müssen
+
+674
+00:26:22,180 --> 00:26:23,620
+wir einen normalen Vektor berechnen.
+
+675
+00:26:23,800 --> 00:26:25,180
+Das heißt, ich hätte es ja gerade
+
+676
+00:26:25,180 --> 00:26:26,380
+schon mal gesagt, wir bilden das
+
+677
+00:26:26,380 --> 00:26:27,680
+Kreuzprodukt aus den beiden
+
+678
+00:26:27,680 --> 00:26:30,320
+Richtungsvektoren. Das heißt, das ist
+
+679
+00:26:30,320 --> 00:26:31,700
+der Richtungsvektor der Geraden G,
+
+680
+00:26:31,840 --> 00:26:33,240
+das ist der Richtungsvektor der
+
+681
+00:26:33,240 --> 00:26:34,800
+Geraden H. Das heißt, Das heißt, wir
+
+682
+00:26:34,800 --> 00:26:37,980
+rechnen 4, 1, minus 1, Kreuz, 2, 0,
+
+683
+00:26:38,060 --> 00:26:40,820
+minus 1. Der entstehende normalen
+
+684
+00:26:40,820 --> 00:26:43,380
+Vektor ist minus 1, 2, minus 2. Auch
+
+685
+00:26:43,380 --> 00:26:46,220
+hierbei gilt dann wieder, wenn ihr
+
+686
+00:26:46,220 --> 00:26:47,720
+euren Richtungsvektor prüfen wollt,
+
+687
+00:26:49,740 --> 00:26:51,380
+beide Richtungsvektoren aus den
+
+688
+00:26:51,380 --> 00:26:53,440
+Geraden müssen hier jetzt
+
+689
+00:26:53,440 --> 00:26:56,260
+rechtwinklig zu dem normalen Vektor
+
+690
+00:26:56,260 --> 00:26:57,080
+sein, beziehungsweise das
+
+691
+00:26:57,080 --> 00:26:59,180
+Skalarprodukt aus diesem muss 0 sein.
+
+692
+00:26:59,180 --> 00:27:01,940
+Das ist in unserem Fall so, deswegen
+
+693
+00:27:01,940 --> 00:27:04,000
+ist das unser Richtungsvektor mit dem
+
+694
+00:27:04,000 --> 00:27:07,780
+wir weiter arbeiten. Die Ebene E, die
+
+695
+00:27:07,780 --> 00:27:10,280
+wir bestimmen ist dann halt minus x1
+
+696
+00:27:10,280 --> 00:27:12,980
+plus 2x2 minus 2x3 minus t gleich 0,
+
+697
+00:27:13,060 --> 00:27:15,020
+also das ist die Ebenengleichung in
+
+698
+00:27:15,020 --> 00:27:17,240
+Parameterform unserer Hilfsebene und
+
+699
+00:27:17,240 --> 00:27:20,320
+als nächstes wollen wir dieses d
+
+700
+00:27:20,320 --> 00:27:24,640
+berechnen. Das erreichen wir, indem
+
+701
+00:27:24,640 --> 00:27:27,240
+wir den Stützvektor von g einsetzen,
+
+702
+00:27:27,320 --> 00:27:28,780
+also die Wenn wir jetzt den
+
+703
+00:27:28,780 --> 00:27:30,360
+Stützvektor von g hier einsetzen,
+
+704
+00:27:30,440 --> 00:27:34,160
+bedeutet dies, dass unsere Hilfsebene
+
+705
+00:27:34,160 --> 00:27:36,780
+den Punkt g beinhaltet oder die
+
+706
+00:27:36,780 --> 00:27:42,040
+Gerade g beinhaltet. Und so kommen
+
+707
+00:27:42,040 --> 00:27:44,060
+wir dann auf ein d von minus 15. Auch
+
+708
+00:27:44,060 --> 00:27:45,280
+hier wieder der Hinweis, es ist minus
+
+709
+00:27:45,280 --> 00:27:48,520
+15 und minus und minus ist plus. Wir
+
+710
+00:27:48,520 --> 00:27:50,540
+kommen also auf eine Ebenengleichung
+
+711
+00:27:50,540 --> 00:27:53,420
+der Koordinaten von minus x1 plus 2x2
+
+712
+00:27:53,420 --> 00:27:59,640
+minus 2x3 plus 15 ist gleich 0. und
+
+713
+00:27:59,640 --> 00:28:01,360
+daraus machen wir jetzt unsere
+
+714
+00:28:01,360 --> 00:28:05,280
+Hescher-Normalenform, das heißt, wir
+
+715
+00:28:05,280 --> 00:28:07,000
+teilen wieder durch den Betrag des
+
+716
+00:28:07,000 --> 00:28:09,040
+normalen Vektors, der war ja minus 1,
+
+717
+00:28:09,160 --> 00:28:14,660
+2, 2 und um letztendlich jetzt den
+
+718
+00:28:14,660 --> 00:28:17,020
+Abstand oder den kleinsten Abstand zu
+
+719
+00:28:17,020 --> 00:28:19,740
+h zu berechnen, setzen wir jetzt den
+
+720
+00:28:19,740 --> 00:28:23,620
+Stützvektor von h ein. Ja, so kommen
+
+721
+00:28:23,620 --> 00:28:26,120
+wir dann auf minus 2 plus 2 mal...
+
+722
+00:28:26,180 --> 00:28:28,800
+Minus 4 minus 2 mal 7 plus 15, also
+
+723
+00:28:28,800 --> 00:28:31,640
+die 2 kommt hierher. Das heißt, die
+
+724
+00:28:31,640 --> 00:28:32,880
+minus x1, deswegen steht auf einmal
+
+725
+00:28:32,880 --> 00:28:35,400
+minus. Die minus 4 kommt hierher und
+
+726
+00:28:35,400 --> 00:28:39,340
+die 7 kommt daher. Das heißt, wir
+
+727
+00:28:39,340 --> 00:28:40,460
+bilden hiervon jetzt auch wieder den
+
+728
+00:28:40,460 --> 00:28:42,660
+Betrag. Der ist in dem Fall minus 3.
+
+729
+00:28:43,360 --> 00:28:45,500
+Das heißt, der Betrag von minus 3 ist
+
+730
+00:28:45,500 --> 00:28:48,000
+3. Also beträgt der Abstand zwischen
+
+731
+00:28:48,000 --> 00:28:50,460
+den beiden Windschiefengraden drei
+
+732
+00:28:50,460 --> 00:28:51,580
+Längeneinheiten.
+
+733
+00:28:55,890 --> 00:28:57,810
+Das wäre es da jetzt auch gewesen zu
+
+734
+00:28:57,810 --> 00:28:59,790
+Abständen und wir fangen mit Winkeln
+
+735
+00:28:59,790 --> 00:29:02,350
+an. Bei Winkeln gibt es, betrachten
+
+736
+00:29:02,350 --> 00:29:03,770
+wir jetzt zwei Fälle, den Winkel
+
+737
+00:29:03,770 --> 00:29:05,210
+zwischen einer Geraden und einer
+
+738
+00:29:05,210 --> 00:29:07,470
+Ebene. Das heißt, wir haben hier eine
+
+739
+00:29:07,470 --> 00:29:10,250
+Ebene und hier rot dargestellt eine
+
+740
+00:29:10,250 --> 00:29:12,370
+Gerade. Diese Gerade schneidet die
+
+741
+00:29:12,370 --> 00:29:14,950
+Ebene in einen bestimmten Winkel und
+
+742
+00:29:14,950 --> 00:29:17,570
+diesen wollen wir berechnen. Das
+
+743
+00:29:17,570 --> 00:29:19,110
+Berechnen solch eines Stimmwinkels
+
+744
+00:29:19,110 --> 00:29:21,450
+ist nicht allzu schwer. Wichtig ist
+
+745
+00:29:21,450 --> 00:29:22,450
+nur, man muss immer den Fall
+
+746
+00:29:22,450 --> 00:29:25,110
+beachten. ebene hat braucht man den
+
+747
+00:29:25,110 --> 00:29:28,870
+sinus wenn man den fall ebene ebene
+
+748
+00:29:28,870 --> 00:29:29,970
+hat den wir uns gleich anschrauben
+
+749
+00:29:29,970 --> 00:29:31,930
+brauchen wir den cosinus also bitte
+
+750
+00:29:31,930 --> 00:29:33,270
+nicht wundern die formeln sind sehr
+
+751
+00:29:33,270 --> 00:29:35,950
+ähnlich aber den sinus braucht man
+
+752
+00:29:35,950 --> 00:29:38,430
+immer für gerade gerade den cosinus
+
+753
+00:29:38,430 --> 00:29:39,910
+für ebene ebene bitte nicht
+
+754
+00:29:39,910 --> 00:29:44,900
+verwechseln gut um jetzt den winkel
+
+755
+00:29:44,900 --> 00:29:47,880
+zu berechnen bilden wir hier oben das
+
+756
+00:29:47,880 --> 00:29:49,820
+skalarprodukt aus dem normalen vektor
+
+757
+00:29:49,820 --> 00:29:51,880
+der ebene und dem richtungssektor der
+
+758
+00:29:51,880 --> 00:29:55,500
+graden und teilen dies durch die
+
+759
+00:29:55,500 --> 00:29:57,240
+beiden vektor längen das heißt dass
+
+760
+00:29:57,240 --> 00:29:58,580
+hier ist der vektor betrag der
+
+761
+00:29:58,580 --> 00:30:02,440
+normalen des normalen vektors und das
+
+762
+00:30:02,440 --> 00:30:03,740
+hier ist der vektor betrag der
+
+763
+00:30:03,740 --> 00:30:05,840
+gradengleichung bzw des
+
+764
+00:30:05,840 --> 00:30:07,500
+richtungssektors der gradengleichung
+
+765
+00:30:07,500 --> 00:30:09,700
+das ganze haben natürlich auch mal
+
+766
+00:30:09,700 --> 00:30:11,800
+anhand eines beispiels gemacht wir
+
+767
+00:30:11,800 --> 00:30:14,760
+sehen hier unsere gerade angegeben in
+
+768
+00:30:14,760 --> 00:30:16,520
+der parameter form und unsere ebene
+
+769
+00:30:16,520 --> 00:30:18,700
+in der koordinaten form der
+
+770
+00:30:18,700 --> 00:30:21,020
+richtungsvektor der graden lautet 447
+
+771
+00:30:21,020 --> 00:30:23,480
+und der normalen vektor der ebene
+
+772
+00:30:23,480 --> 00:30:27,460
+lautet 6 0 minus 80 wie gesagt weil
+
+773
+00:30:27,460 --> 00:30:31,320
+wir kein x2 hier haben das heißt hier
+
+774
+00:30:31,320 --> 00:30:33,740
+oben im zähler rechnen wir 60 minus 8
+
+775
+00:30:33,740 --> 00:30:36,880
+x 447 das heißt es wird skala
+
+776
+00:30:36,880 --> 00:30:38,900
+multipliziert also sechs mal vier
+
+777
+00:30:38,900 --> 00:30:41,920
+plus null mal vier plus minus acht
+
+778
+00:30:41,920 --> 00:30:47,600
+mal sieben das sind minus 32 32 und
+
+779
+00:30:47,600 --> 00:30:50,580
+unten im nenner wird von beiden
+
+780
+00:30:50,580 --> 00:30:53,340
+vektoren die vektor länge betrachtet
+
+781
+00:30:53,340 --> 00:30:58,020
+das heißt für unseren normalen vektor
+
+782
+00:30:58,020 --> 00:31:01,220
+die wurzel aus sechs zum quadrat plus
+
+783
+00:31:01,220 --> 00:31:03,360
+Plus minus 8 zum Quadrat, das ist die
+
+784
+00:31:03,360 --> 00:31:06,500
+Wurzel aus 100, beziehungsweise das
+
+785
+00:31:06,500 --> 00:31:09,520
+sind dann 10. Bei unserem
+
+786
+00:31:09,520 --> 00:31:11,020
+Richtungsvektor der Geradengleichung
+
+787
+00:31:11,020 --> 00:31:13,360
+4, 4, 7 ist das dann die Wurzel aus 4
+
+788
+00:31:13,360 --> 00:31:15,140
+zum Quadrat, plus 4 zum Quadrat, plus
+
+789
+00:31:15,140 --> 00:31:16,800
+7 zum Quadrat, das ist die Wurzel aus
+
+790
+00:31:16,800 --> 00:31:20,700
+81, also 9. Und 10 mal 9 sind dann
+
+791
+00:31:20,700 --> 00:31:23,700
+90. Wir wissen dann, dass der Sinus
+
+792
+00:31:23,700 --> 00:31:26,480
+vom Phi gleich minus 32 Neunzigstel
+
+793
+00:31:26,480 --> 00:31:30,380
+ist. Und wir wollen... Wir wissen,
+
+794
+00:31:30,480 --> 00:31:31,560
+was der Winkel phi ist, deswegen
+
+795
+00:31:31,560 --> 00:31:35,000
+müssen wir mit dem Sinus hoch minus 1
+
+796
+00:31:35,000 --> 00:31:36,920
+bzw. mit dem Arcus-Sinus arbeiten,
+
+797
+00:31:37,040 --> 00:31:39,480
+also der Umkehroperation. Und kommen
+
+798
+00:31:39,480 --> 00:31:41,320
+so auf phi ist gleich der Sinus hoch
+
+799
+00:31:41,320 --> 00:31:44,440
+minus 1 von minus 32 durch 90. Das
+
+800
+00:31:44,440 --> 00:31:48,140
+ist gleich minus 20,83 Grad. Und
+
+801
+00:31:48,140 --> 00:31:50,060
+damit haben wir unseren Winkel auch
+
+802
+00:31:50,060 --> 00:31:54,130
+schon bestimmt. Kommen wir nun zum
+
+803
+00:31:54,130 --> 00:31:56,110
+letzten Fall, und zwar der
+
+804
+00:31:56,110 --> 00:31:57,750
+Schnittwinkel zwischen zwei Ebenen,
+
+805
+00:31:57,750 --> 00:32:01,590
+wie gerade schon gesagt. berechnet
+
+806
+00:32:01,590 --> 00:32:03,050
+man den Schnittwinkel zwischen zwei
+
+807
+00:32:03,050 --> 00:32:07,510
+Ebenen mittels des Cosinus. Die
+
+808
+00:32:07,510 --> 00:32:09,770
+Formel ist fast die gleiche, aber wir
+
+809
+00:32:09,770 --> 00:32:11,110
+haben hier jetzt den Cosinus stehen.
+
+810
+00:32:11,270 --> 00:32:15,030
+Auch hier bilden wir oben im Zähler
+
+811
+00:32:15,030 --> 00:32:16,290
+das Skalarprodukt der beiden
+
+812
+00:32:16,290 --> 00:32:17,870
+Richtungsvektoren. In dem Fall sind
+
+813
+00:32:17,870 --> 00:32:19,310
+es beides normale Vektoren, wenn wir
+
+814
+00:32:19,310 --> 00:32:20,690
+zwei Ebenen haben. Das heißt, wenn
+
+815
+00:32:20,690 --> 00:32:23,450
+wir den Schnittwinkel zwischen zwei
+
+816
+00:32:23,450 --> 00:32:26,230
+Ebenen berechnen wollen, müssen wir
+
+817
+00:32:26,230 --> 00:32:28,570
+beide ebenen in koordinaten form oder
+
+818
+00:32:28,570 --> 00:32:30,650
+in normalen form vorliegen haben so
+
+819
+00:32:30,650 --> 00:32:32,650
+dass wir auch zwei normalen vektoren
+
+820
+00:32:32,650 --> 00:32:37,990
+haben also zähler skala produkt der
+
+821
+00:32:37,990 --> 00:32:39,730
+normalen vektoren und im nenners
+
+822
+00:32:39,730 --> 00:32:41,730
+bilden wir wieder das produkt aus den
+
+823
+00:32:41,730 --> 00:32:44,630
+vektor längen das heißt wir bilden
+
+824
+00:32:44,630 --> 00:32:46,110
+hier den vektor betrag der beiden
+
+825
+00:32:46,110 --> 00:32:48,670
+normalen vektoren und multiplizieren
+
+826
+00:32:48,670 --> 00:32:52,050
+dieses für unser beispiel haben wir
+
+827
+00:32:52,050 --> 00:32:53,750
+diese beiden ebenen gleichungen
+
+828
+00:32:53,750 --> 00:32:55,710
+angenommen die ebenen gleichung f3 x
+
+829
+00:32:55,710 --> 00:32:58,870
+1 2 x 2 minus 1 x 3 plus 2 gleich 0
+
+830
+00:32:58,870 --> 00:33:01,910
+und die ebenen gleichung e4 x 1 plus
+
+831
+00:33:01,910 --> 00:33:06,570
+3 x 2 x 2 x 3 2 gleich 0 wie gerade
+
+832
+00:33:06,570 --> 00:33:08,570
+schon gesagt im zähler wird skala
+
+833
+00:33:08,570 --> 00:33:10,570
+multipliziert das heißt 3 minus 2
+
+834
+00:33:10,570 --> 00:33:15,430
+minus 1 mal 432 die
+
+835
+00:33:15,430 --> 00:33:16,550
+normalen lektor um wurden wieder
+
+836
+00:33:16,550 --> 00:33:19,610
+abgelesen ja also die können kann man
+
+837
+00:33:19,610 --> 00:33:21,250
+immer aus eine Koordinatenform so
+
+838
+00:33:21,250 --> 00:33:22,650
+ablesen, wie wir es gezeigt haben.
+
+839
+00:33:22,950 --> 00:33:24,890
+Und wir multiplizieren diese jetzt
+
+840
+00:33:24,890 --> 00:33:28,430
+skalar. Also 3 mal 4 plus minus 2 mal
+
+841
+00:33:28,430 --> 00:33:32,550
+3 plus minus 1 mal 2. Das ist 4. Dann
+
+842
+00:33:32,550 --> 00:33:35,290
+geht es unten weiter. Den
+
+843
+00:33:35,290 --> 00:33:36,850
+Vektorbetrag der einzelnen Vektoren,
+
+844
+00:33:36,950 --> 00:33:40,150
+also die Wurzel aus 14, entsteht
+
+845
+00:33:40,150 --> 00:33:42,430
+durch Wurzel aus 3 zum Quadrat plus
+
+846
+00:33:42,430 --> 00:33:44,830
+Wurzel aus minus 2 zum Quadrat plus
+
+847
+00:33:44,830 --> 00:33:46,510
+die Wurzel aus minus 1 zum Quadrat.
+
+848
+00:33:46,510 --> 00:33:49,510
+Das ist dann die Wurzel aus 14. Die
+
+849
+00:33:49,510 --> 00:33:51,490
+Wurzel aus 29 entsteht durch die
+
+850
+00:33:51,490 --> 00:33:54,610
+Wurzel aus 4 hoch 2 plus 3 hoch 2
+
+851
+00:33:54,610 --> 00:33:56,610
+plus 2 hoch 2 und das ist dann die
+
+852
+00:33:56,610 --> 00:33:59,990
+Wurzel aus 29. Die Wurzel aus 14 mal
+
+853
+00:33:59,990 --> 00:34:02,130
+Wurzel aus 29 ist zusammen Wurzel aus
+
+854
+00:34:02,130 --> 00:34:06,230
+406. Und so kommen wir auf 4 durch
+
+855
+00:34:06,230 --> 00:34:08,550
+die Wurzel aus 406. Ist gleich der
+
+856
+00:34:08,550 --> 00:34:11,050
+Kosinus von Phi. auch hierbei müssen
+
+857
+00:34:11,050 --> 00:34:12,170
+wir wieder mit der umkehroperation
+
+858
+00:34:12,170 --> 00:34:13,490
+arbeiten weil wir wollen ja den
+
+859
+00:34:13,490 --> 00:34:15,990
+winkel 4 haben und der berechnet sich
+
+860
+00:34:15,990 --> 00:34:17,690
+dann durch den cosinus hoch minus 1
+
+861
+00:34:17,690 --> 00:34:21,310
+von 4 durch der wurzel aus 406 und
+
+862
+00:34:21,310 --> 00:34:24,990
+das sind dann gleich 78,55 grad und
+
+863
+00:34:24,990 --> 00:34:26,110
+das ist dann gleich auch unser
+
+864
+00:34:26,110 --> 00:34:29,920
+schnittwinkel damit werden wir nun am
+
+865
+00:34:29,920 --> 00:34:31,840
+ende des webinars ich bedanke mich
+
+866
+00:34:31,840 --> 00:34:32,820
+für eure aufmerksamkeit
+

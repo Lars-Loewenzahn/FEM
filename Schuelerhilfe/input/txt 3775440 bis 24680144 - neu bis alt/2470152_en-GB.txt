@@ -1,0 +1,1203 @@
+﻿1
+00:00:04,820 --> 00:00:08,920
+... with the topic of whole numbers. I 
+
+2
+00:00:08,920 --> 00:00:11,660
+hope you can all see and 
+
+3
+00:00:11,660 --> 00:00:13,840
+hear me. Then please send me a quick 
+
+4
+00:00:13,840 --> 00:00:14,740
+message in the chat. 
+
+5
+00:00:26,440 --> 00:00:30,830
+Wonderful. So, as I said, our 
+
+6
+00:00:30,830 --> 00:00:34,650
+topic today is integers. 
+
+7
+00:00:34,650 --> 00:00:36,010
+Let's start by looking at the 
+
+8
+00:00:36,010 --> 00:00:37,470
+basics. How do we represent them 
+
+9
+00:00:37,470 --> 00:00:39,550
+? How do we compare them? How do 
+
+10
+00:00:39,550 --> 00:00:43,270
+we order them? Then we'll look at 
+
+11
+00:00:43,270 --> 00:00:45,810
+how we add and 
+
+12
+00:00:45,810 --> 00:00:47,150
+subtract whole numbers , how we 
+
+13
+00:00:47,150 --> 00:00:50,310
+multiply and divide them and 
+
+14
+00:00:50,310 --> 00:00:52,770
+finally how we 
+
+15
+00:00:52,770 --> 00:00:57,250
+deal with whole numbers in brackets. So, 
+what are integers 
+
+16
+00:00:57,250 --> 00:00:59,650
+anyway? 
+
+17
+00:00:59,650 --> 00:01:01,870
+We abbreviate the set of integers with the 
+
+18
+00:01:01,870 --> 00:01:06,510
+symbol z, i.e. a z with two 
+
+19
+00:01:06,510 --> 00:01:10,630
+dashes. The set z describes all 
+
+20
+00:01:10,630 --> 00:01:14,030
+positive and negative 
+
+21
+00:01:14,030 --> 00:01:18,630
+integers known to us. So the set of all 
+
+22
+00:01:18,630 --> 00:01:20,550
+negative and positive integers 
+
+23
+00:01:20,550 --> 00:01:23,010
+, for example minus 8, minus 
+
+24
+00:01:23,010 --> 00:01:27,710
+7, minus 6, minus 5, 1, 2, 3, 4, 
+
+25
+00:01:27,710 --> 00:01:29,570
+all belong to the set of integers 
+
+26
+00:01:29,570 --> 00:01:32,710
+. The 0 is 
+
+27
+00:01:32,710 --> 00:01:33,610
+always automatically included. 
+
+28
+00:01:37,440 --> 00:01:39,940
+The set of integers 
+
+29
+00:01:39,940 --> 00:01:43,040
+looks like this on the number line. We 
+
+30
+00:01:43,040 --> 00:01:46,900
+have the zero. 
+
+31
+00:01:46,900 --> 00:01:49,220
+The negative 
+
+32
+00:01:49,220 --> 00:01:51,480
+numbers start on the left-hand side . The 
+
+33
+00:01:51,480 --> 00:01:55,800
+positive numbers are on the right-hand 
+side . 
+
+34
+00:01:55,800 --> 00:01:57,380
+We can also 
+
+35
+00:01:57,380 --> 00:02:00,020
+represent the sets of numbers very well as 
+circles . For example, we have 
+
+36
+00:02:00,020 --> 00:02:03,560
+our positive numbers, the set n. 
+
+37
+00:02:04,520 --> 00:02:07,020
+Then the set n with zero. That 
+
+38
+00:02:07,020 --> 00:02:09,080
+includes the zero. Just like 
+
+39
+00:02:09,080 --> 00:02:13,540
+this whole circle. and the integers 
+
+40
+00:02:13,540 --> 00:02:16,240
+, which also include the negative 
+
+41
+00:02:16,240 --> 00:02:18,900
+numbers. 
+
+42
+00:02:18,900 --> 00:02:23,120
+So we see that n and n0 are parts of z. 
+They 
+
+43
+00:02:23,120 --> 00:02:24,220
+are contained in z. 
+
+44
+00:02:27,800 --> 00:02:31,640
+The further to the left a number 
+
+45
+00:02:31,640 --> 00:02:34,440
+is on the number line, the smaller 
+
+46
+00:02:34,440 --> 00:02:36,920
+it is. The further to the right a number 
+
+47
+00:02:36,920 --> 00:02:38,980
+is on the number line, the larger 
+
+48
+00:02:38,980 --> 00:02:42,880
+it is. For example, minus 4 is 
+
+49
+00:02:42,880 --> 00:02:46,800
+further to the left of 1. Minus 4 is 
+therefore 
+
+50
+00:02:46,800 --> 00:02:51,640
+smaller than 1. Minus 4 is here, 1 
+
+51
+00:02:51,640 --> 00:02:53,540
+is here, minus 4 is further to the left. 
+
+52
+00:02:53,740 --> 00:02:56,660
+So we write, minus 4 is 
+
+53
+00:02:56,660 --> 00:02:59,160
+less than, that is the sign for 
+
+54
+00:02:59,160 --> 00:03:03,400
+less than, 1. 3 is further to 
+
+55
+00:03:03,400 --> 00:03:06,500
+the right than 0. 3 is therefore greater 
+than 
+
+56
+00:03:06,500 --> 00:03:13,000
+0. We write 3 is greater than 0. 
+
+57
+00:03:17,580 --> 00:03:20,360
+
+58
+00:03:20,360 --> 00:03:23,340
+We can arrange the numbers, the whole 
+numbers, according to their size. 
+
+59
+00:03:23,340 --> 00:03:25,900
+So we can write minus 6 is 
+
+60
+00:03:25,900 --> 00:03:28,840
+smaller than minus 5, is smaller than 
+
+61
+00:03:28,840 --> 00:03:32,460
+minus 4, is smaller than minus 3 and 
+
+62
+00:03:32,460 --> 00:03:34,860
+so on, is smaller than 4, is 
+
+63
+00:03:34,860 --> 00:03:37,000
+smaller than 5, is smaller than 6. 
+
+64
+00:03:38,040 --> 00:03:42,200
+So, for example, if we 
+
+65
+00:03:43,050 --> 00:03:48,360
+
+66
+00:03:48,360 --> 00:03:51,020
+order 3, 5, 11, minus 11, 0, 7 and minus 8 
+by size , we start with the smallest 
+
+67
+00:03:51,020 --> 00:03:54,700
+number on the left, minus 11, is smaller 
+
+68
+00:03:54,700 --> 00:03:58,580
+than minus 8, is smaller than 0, is 
+
+69
+00:03:58,580 --> 00:04:02,440
+smaller than 3, is smaller than 5. is 
+
+70
+00:04:02,440 --> 00:04:05,620
+smaller than 7 and is smaller than 11. 
+
+71
+00:04:05,840 --> 00:04:08,340
+So 
+
+72
+00:04:08,340 --> 00:04:09,660
+ordered from the smallest to the largest 
+number. 
+
+73
+00:04:14,470 --> 00:04:18,310
+In these example problems, we have to 
+
+74
+00:04:18,310 --> 00:04:21,490
+use the less than, greater than or 
+
+75
+00:04:21,490 --> 00:04:23,350
+equal sign. 
+
+76
+00:04:26,120 --> 00:04:27,620
+Which sign do we use in 
+
+77
+00:04:27,620 --> 00:04:29,040
+the first task? 
+
+78
+00:04:32,620 --> 00:04:34,380
+If you 
+
+79
+00:04:34,380 --> 00:04:36,720
+are looking for the less than and greater 
+than signs on your keyboard, they 
+
+80
+00:04:36,720 --> 00:04:40,520
+are at the bottom left. Right next to the 
+y. 
+
+81
+00:04:41,100 --> 00:04:41,420
+Yes, 
+
+82
+00:04:50,800 --> 00:04:51,980
+exactly. 
+
+83
+00:04:56,740 --> 00:05:00,620
+So, Robin's answer is correct, 
+
+84
+00:05:00,900 --> 00:05:03,220
+Sophie's answer is unfortunately wrong, 
+
+85
+00:05:03,420 --> 00:05:09,060
+because 10 is greater than minus 2. We'll 
+
+86
+00:05:09,060 --> 00:05:10,400
+try again with the 
+
+87
+00:05:10,400 --> 00:05:13,080
+next one. Minus 1 and 5. 
+
+88
+00:05:17,310 --> 00:05:20,030
+Do we need the greater than, the 
+
+89
+00:05:20,030 --> 00:05:21,390
+less than or the 
+
+90
+00:05:21,390 --> 00:05:22,390
+equals sign here ? 
+
+91
+00:05:38,520 --> 00:05:40,180
+No problem. So, 
+
+92
+00:05:49,700 --> 00:05:51,140
+which sign do we need for the 
+
+93
+00:05:51,140 --> 00:05:55,240
+second task? Exactly. And for the 
+
+94
+00:05:55,240 --> 00:05:57,680
+third? Minus 2 and 2, 
+
+95
+00:06:01,940 --> 00:06:05,580
+very nice. For minus 11 and minus 
+
+96
+00:06:05,580 --> 00:06:06,620
+11. For 
+
+97
+00:06:12,320 --> 00:06:14,320
+minus 9 and minus 13. 
+
+98
+00:06:21,670 --> 00:06:26,050
+Exactly. And finally minus 22 and 0. 
+
+99
+00:06:33,970 --> 00:06:37,470
+Very nice. Take a look. Once again in 
+
+100
+00:06:37,470 --> 00:06:40,930
+the solution. 10 is greater than minus 
+
+101
+00:06:40,930 --> 00:06:44,190
+2. 2 minus 1 is less than 5, minus 
+
+102
+00:06:44,190 --> 00:06:47,510
+2 is less than 2, minus 11 is 
+
+103
+00:06:47,510 --> 00:06:50,950
+equal to minus 11, minus 9 is greater 
+
+104
+00:06:50,950 --> 00:06:55,070
+than minus 13 and minus 22 is less 
+
+105
+00:06:55,070 --> 00:06:57,330
+than 0. Very good. 
+
+106
+00:07:00,280 --> 00:07:03,860
+Now let's 
+
+107
+00:07:03,860 --> 00:07:06,740
+add and subtract whole numbers. 
+
+108
+00:07:06,740 --> 00:07:08,360
+When adding and subtracting with whole 
+
+109
+00:07:08,360 --> 00:07:10,520
+numbers, it is important to 
+
+110
+00:07:10,520 --> 00:07:15,120
+pay attention to the signs. Because if 
+
+111
+00:07:15,120 --> 00:07:17,680
+we 
+
+112
+00:07:17,680 --> 00:07:20,760
+add a positive number and a positive 
+number, it remains a 
+
+113
+00:07:20,760 --> 00:07:24,700
+plus. If we 
+
+114
+00:07:27,420 --> 00:07:32,700
+subtract a negative number, it 
+
+115
+00:07:32,700 --> 00:07:37,400
+becomes minus. If we 
+
+116
+00:07:39,290 --> 00:07:42,230
+subtract a positive number, plus becomes 
+
+117
+00:07:42,230 --> 00:07:44,330
+minus and if we 
+
+118
+00:07:44,330 --> 00:07:46,770
+subtract a negative number, it becomes 
+plus. 
+
+119
+00:07:46,970 --> 00:07:48,570
+We'll take a look at this in 
+
+120
+00:07:48,570 --> 00:07:50,630
+tasks in a moment , as it's easier to 
+
+121
+00:07:50,630 --> 00:07:53,190
+understand. Basically 
+
+122
+00:07:53,190 --> 00:07:55,290
+, however, we can remember 
+
+123
+00:07:55,290 --> 00:07:57,590
+that when we have positive numbers, 
+addition and 
+
+124
+00:07:57,590 --> 00:07:59,170
+subtraction remain as we 
+
+125
+00:07:59,170 --> 00:08:02,410
+have learned them. With negative numbers, 
+
+126
+00:08:02,410 --> 00:08:04,250
+addition becomes subtraction and 
+
+127
+00:08:04,250 --> 00:08:08,370
+vice versa. For example. We look 
+
+128
+00:08:08,370 --> 00:08:11,050
+at the signs. When 
+
+129
+00:08:11,050 --> 00:08:13,190
+negative numbers 
+
+130
+00:08:13,190 --> 00:08:15,250
+are added or subtracted, addition 
+
+131
+00:08:15,250 --> 00:08:19,670
+and subtraction are reversed. We have 
+
+132
+00:08:19,670 --> 00:08:24,210
+15 plus plus 30. 
+
+133
+00:08:24,210 --> 00:08:29,110
+Nothing changes here. 15 plus minus 30. 
+Here we have 
+
+134
+00:08:29,110 --> 00:08:31,490
+a negative number. This means 
+
+135
+00:08:31,570 --> 00:08:33,710
+that the addition becomes a subtraction. 
+
+136
+00:08:33,830 --> 00:08:38,410
+So we calculate 15 minus 30. minus 
+
+137
+00:08:39,850 --> 00:08:44,550
+15 plus plus 30. Again, 
+
+138
+00:08:44,550 --> 00:08:46,050
+nothing changes because we have the 
+
+139
+00:08:46,050 --> 00:08:47,930
+positive number. So we calculate 
+
+140
+00:08:47,930 --> 00:08:53,650
+minus 15 plus 30. minus 15 plus minus 
+
+141
+00:08:53,650 --> 00:08:56,930
+30. Here the plus changes back 
+
+142
+00:08:56,930 --> 00:08:59,370
+to a minus, so minus 15 
+
+143
+00:08:59,370 --> 00:09:07,010
+minus 30. 15 minus plus 30, we have 
+
+144
+00:09:07,010 --> 00:09:09,650
+a positive number, which means it 
+
+145
+00:09:09,650 --> 00:09:13,930
+remains a minus. 15 minus minus 30, 
+
+146
+00:09:14,250 --> 00:09:16,970
+the minus becomes a plus, 
+
+147
+00:09:16,970 --> 00:09:22,530
+so 
+
+148
+00:09:22,530 --> 00:09:25,290
+
+149
+00:09:25,290 --> 00:09:29,030
+we calculate 15 plus 30. Minus 15 minus 
+plus 30, nothing changes here, we 
+calculate minus. Minus 15 minus 30 and 
+
+150
+00:09:29,030 --> 00:09:33,510
+minus 15 minus minus 30, here 
+
+151
+00:09:33,510 --> 00:09:36,210
+the minus becomes a plus. So we calculate 
+
+152
+00:09:36,210 --> 00:09:38,550
+minus 15 plus 30. 
+
+153
+00:09:41,350 --> 00:09:42,760
+Here we can see the 
+
+154
+00:09:42,760 --> 00:09:46,880
+change again. The minus before the 
+
+155
+00:09:46,880 --> 00:09:49,720
+30 changes the sign. 
+
+156
+00:09:49,720 --> 00:09:53,500
+So we calculate minus 30, here minus 30. 
+
+157
+00:09:54,270 --> 00:09:55,920
+Here we have minus minus, 
+
+158
+00:09:55,920 --> 00:09:58,040
+so we calculate plus. and here we 
+
+159
+00:09:58,040 --> 00:10:00,160
+also have minus minus and calculate 
+
+160
+00:10:00,160 --> 00:10:02,680
+plus. Now we can 
+
+161
+00:10:02,680 --> 00:10:04,460
+work out the problems as normal. 
+
+162
+00:10:06,700 --> 00:10:11,240
+15 plus 30 is 45, 15 minus 30 is 
+
+163
+00:10:11,240 --> 00:10:15,400
+minus 15, minus 15 plus 30 is 15, 
+
+164
+00:10:15,780 --> 00:10:20,560
+minus 15 minus 30 is minus 45, 15 
+
+165
+00:10:20,560 --> 00:10:25,100
+minus 30 is minus 15, 15 plus 30 is 
+
+166
+00:10:25,100 --> 00:10:30,340
+45, minus 15 minus 30 is minus 45 
+
+167
+00:10:30,340 --> 00:10:35,360
+and minus 15 plus 30 is 15. What 
+
+168
+00:10:38,620 --> 00:10:40,460
+about multiplication and 
+
+169
+00:10:40,460 --> 00:10:45,300
+division? 
+
+170
+00:10:45,300 --> 00:10:47,640
+The following 
+
+171
+00:10:47,640 --> 00:10:50,600
+rules apply to the signs in multiplication 
+. If we 
+
+172
+00:10:50,600 --> 00:10:53,180
+
+173
+00:10:53,180 --> 00:10:56,020
+multiply a negative number by a negative 
+number , we get a 
+
+174
+00:10:56,020 --> 00:11:00,720
+positive number. If 
+
+175
+00:11:00,720 --> 00:11:02,700
+we multiply two positive numbers together, 
+
+176
+00:11:02,780 --> 00:11:05,440
+we also get a positive 
+
+177
+00:11:05,440 --> 00:11:09,460
+number. If we 
+
+178
+00:11:09,460 --> 00:11:11,380
+multiply a negative and a positive number, 
+we get 
+
+179
+00:11:11,500 --> 00:11:13,860
+a negative number. 
+
+180
+00:11:15,480 --> 00:11:18,080
+So, if both factors are the same 
+
+181
+00:11:18,080 --> 00:11:21,420
+, whether positive or negative, 
+
+182
+00:11:21,620 --> 00:11:24,740
+the product is always positive. 
+
+183
+00:11:24,740 --> 00:11:27,360
+If both factors are different, 
+
+184
+00:11:27,360 --> 00:11:31,460
+the product is always negative. 
+
+185
+00:11:31,460 --> 00:11:33,120
+The same rules apply to 
+
+186
+00:11:33,120 --> 00:11:37,620
+division. Negative divided by negative 
+
+187
+00:11:37,620 --> 00:11:40,840
+gives positive. Positive divided by 
+positive 
+
+188
+00:11:40,840 --> 00:11:45,220
+equals positive. Negative divided by 
+positive 
+
+189
+00:11:45,220 --> 00:11:48,920
+equals negative. And positive divided by 
+
+190
+00:11:48,920 --> 00:11:52,120
+negative equals negative. So, if 
+
+191
+00:11:52,120 --> 00:11:54,660
+both... Equal positive, if the 
+
+192
+00:11:54,660 --> 00:11:57,060
+two are different, negative. 
+
+193
+00:11:59,860 --> 00:12:01,960
+Let's look at this again with 
+
+194
+00:12:01,960 --> 00:12:06,500
+example problems. We have 5 times 
+
+195
+00:12:06,500 --> 00:12:09,580
+3, two positive numbers. This means that 
+
+196
+00:12:09,740 --> 00:12:14,440
+our result will be positive. With 
+
+197
+00:12:14,440 --> 00:12:16,460
+5 times minus 3, we have one positive 
+
+198
+00:12:16,460 --> 00:12:18,820
+and one negative number. 
+
+199
+00:12:18,820 --> 00:12:21,860
+So we have a negative result. The same 
+applies 
+
+200
+00:12:21,860 --> 00:12:27,020
+to minus 5 times 3. If we have minus 5 
+times 
+
+201
+00:12:27,020 --> 00:12:29,260
+minus 3, we have two negative 
+
+202
+00:12:29,260 --> 00:12:32,560
+numbers. Our result is therefore 
+
+203
+00:12:32,560 --> 00:12:38,360
+positive. If we divide 20 by 5, we divide 
+
+204
+00:12:38,360 --> 00:12:40,220
+a positive number by another 
+
+205
+00:12:40,220 --> 00:12:42,420
+positive number. Our result will 
+
+206
+00:12:42,420 --> 00:12:45,560
+therefore be positive. If we divide 20 by 
+minus 
+
+207
+00:12:45,560 --> 00:12:48,240
+5, we have a positive number 
+
+208
+00:12:48,240 --> 00:12:50,160
+divided by a negative number 
+
+209
+00:12:50,160 --> 00:12:52,480
+. Therefore, our result is 
+
+210
+00:12:52,480 --> 00:12:55,120
+negative, just like with minus 20 
+
+211
+00:12:55,120 --> 00:12:59,640
+by 5. With minus 20 by minus 5, 
+
+212
+00:12:59,640 --> 00:13:02,100
+we divide a negative number by 
+
+213
+00:13:02,100 --> 00:13:05,300
+another negative number. Therefore, 
+
+214
+00:13:05,300 --> 00:13:09,500
+the result is positive. Here we see 
+
+215
+00:13:09,500 --> 00:13:10,900
+it again. And 
+
+216
+00:13:17,110 --> 00:13:19,550
+we see two positive numbers, our 
+
+217
+00:13:19,550 --> 00:13:23,010
+result is positive. Here in the 
+
+218
+00:13:23,010 --> 00:13:24,990
+tasks, the factors are 
+
+219
+00:13:24,990 --> 00:13:26,470
+different, which means we have 
+
+220
+00:13:26,470 --> 00:13:29,770
+negative results. If we have two 
+
+221
+00:13:29,770 --> 00:13:31,350
+negative numbers, we have a 
+
+222
+00:13:31,350 --> 00:13:34,050
+positive result again and the same applies 
+
+223
+00:13:34,050 --> 00:13:36,270
+to division. 
+
+224
+00:13:40,730 --> 00:13:43,410
+How do we now calculate with whole 
+
+225
+00:13:43,410 --> 00:13:46,610
+numbers in brackets? 
+
+226
+00:13:46,610 --> 00:13:49,930
+
+227
+00:13:49,930 --> 00:13:51,790
+We have to 
+
+228
+00:13:51,790 --> 00:13:55,810
+pay attention to the signs for expressions 
+in brackets, addition and subtraction . If 
+we are dealing with 
+
+229
+00:13:55,810 --> 00:13:58,010
+long parenthesis terms, 
+
+230
+00:13:58,190 --> 00:14:00,490
+it is important that we 
+
+231
+00:14:00,490 --> 00:14:03,450
+resolve the parentheses first. Remember, 
+
+232
+00:14:03,550 --> 00:14:05,970
+if we 
+
+233
+00:14:05,970 --> 00:14:08,150
+have a plus in front of the parenthesis , 
+we can usually 
+
+234
+00:14:08,150 --> 00:14:11,010
+just leave the parentheses out. 
+
+235
+00:14:11,010 --> 00:14:12,750
+However, if we have a minus sign in front 
+of the parenthesis 
+
+236
+00:14:12,750 --> 00:14:15,430
+, we have to reverse all the signs 
+
+237
+00:14:15,430 --> 00:14:17,610
+inside the parenthesis 
+
+238
+00:14:17,650 --> 00:14:19,230
+if we want to dissolve the parenthesis. 
+
+239
+00:14:20,590 --> 00:14:24,830
+For example, 5 plus 3 minus in 
+
+240
+00:14:24,830 --> 00:14:28,990
+brackets 8 plus 2 plus in brackets 4 
+
+241
+00:14:28,990 --> 00:14:33,270
+minus 9. If we now 
+
+242
+00:14:33,270 --> 00:14:36,010
+break up the brackets , we 
+
+243
+00:14:36,010 --> 00:14:38,250
+have a minus sign in front of the bracket. 
+
+244
+00:14:38,530 --> 00:14:40,450
+This means that we have to turn the 
+
+245
+00:14:40,450 --> 00:14:42,510
+sign inside the bracket 
+
+246
+00:14:42,510 --> 00:14:46,590
+from minus to plus. Here we have 
+
+247
+00:14:46,590 --> 00:14:48,290
+a plus in front of the bracket, which 
+means that 
+
+248
+00:14:48,290 --> 00:14:50,750
+the 
+
+249
+00:14:50,750 --> 00:14:53,070
+sign remains as it is for 4 minus 9. 
+
+250
+00:14:53,070 --> 00:14:57,390
+So we write 5 plus 3 minus 8 minus 
+
+251
+00:14:57,390 --> 00:15:04,190
+2 plus 4 minus 9 equals minus 7. 
+
+252
+00:15:10,070 --> 00:15:12,510
+Alternatively, we can also 
+
+253
+00:15:12,510 --> 00:15:15,730
+calculate the contents of the parentheses 
+first. So we 
+
+254
+00:15:15,730 --> 00:15:18,350
+work out the parenthesis, 8 plus 2 is 
+
+255
+00:15:18,350 --> 00:15:21,570
+10. We work out this parenthesis, 4 
+
+256
+00:15:21,570 --> 00:15:24,590
+minus 9 is minus 5 and 
+
+257
+00:15:24,590 --> 00:15:30,350
+then write 5 plus 3 minus 10 plus minus 5. 
+
+258
+00:15:30,650 --> 00:15:34,230
+Here we know that plus minus 5 
+
+259
+00:15:34,230 --> 00:15:38,350
+becomes minus 5, so 5 plus 3 minus 10 
+
+260
+00:15:38,350 --> 00:15:39,010
+minus 
+
+261
+00:15:45,720 --> 00:15:48,100
+For multiplication and division, 
+
+262
+00:15:48,100 --> 00:15:51,260
+we must first 
+
+263
+00:15:51,260 --> 00:15:53,880
+calculate the contents of the parentheses 
+. Then we can 
+
+264
+00:15:53,880 --> 00:15:55,600
+use the rules for multiplication 
+
+265
+00:15:55,600 --> 00:15:57,800
+and division as normal. 
+
+266
+00:15:57,800 --> 00:16:02,300
+For example, we have 4 times 2 minus 7 in 
+
+267
+00:16:02,300 --> 00:16:05,880
+brackets minus 5 minus 3 in brackets 
+
+268
+00:16:05,880 --> 00:16:09,740
+times 6. We calculate the first bracket 
+
+269
+00:16:09,740 --> 00:16:13,800
+, minus 5, the second bracket, 
+
+270
+00:16:13,980 --> 00:16:17,460
+2. Then we calculate the task 
+
+271
+00:16:17,460 --> 00:16:23,040
+again. 4 times minus 5, minus 2 times 
+
+272
+00:16:23,040 --> 00:16:25,320
+6, pay attention to point-before-dash 
+
+273
+00:16:25,320 --> 00:16:28,320
+ calculation. 4 times minus 5 is minus 
+
+274
+00:16:28,320 --> 00:16:33,080
+20, 2 times 6 is 12. So we calculate 
+
+275
+00:16:33,080 --> 00:16:37,860
+minus 20, minus 12. equals minus 32. 
+
+276
+00:16:39,340 --> 00:16:42,960
+The same goes for these brackets. We 
+
+277
+00:16:42,960 --> 00:16:45,680
+have 4 times 6 in brackets through 3 
+
+278
+00:16:46,160 --> 00:16:50,380
+minus 12 through 1 minus 5 in brackets 
+
+279
+00:16:51,380 --> 00:16:53,160
+. We first calculate the brackets 
+
+280
+00:16:53,160 --> 00:16:57,380
+. 4 times 6 is 24, 1 minus 5 is 
+
+281
+00:16:57,380 --> 00:17:02,550
+minus 4, then 
+
+282
+00:17:02,550 --> 00:17:05,290
+carry out the dot-before-dash calculation. 
+24 divided by 3 
+
+283
+00:17:05,290 --> 00:17:09,850
+is 8. 12 divided by minus 4, here 
+
+284
+00:17:09,850 --> 00:17:11,730
+again we have a positive and a 
+
+285
+00:17:11,730 --> 00:17:16,750
+negative number, equals minus 3. And 8 
+
+286
+00:17:16,750 --> 00:17:21,790
+minus minus 3 is the same as 8 plus 
+
+287
+00:17:21,790 --> 00:17:24,810
+3, equals 11. 
+
+288
+00:17:29,610 --> 00:17:31,970
+That brings us to the end of 
+
+289
+00:17:31,970 --> 00:17:34,370
+our webinar. Do you have 
+
+290
+00:17:34,370 --> 00:17:34,730
+any questions? 
+
+291
+00:17:59,020 --> 00:18:02,140
+Very well. Then thank you for 
+
+292
+00:18:02,140 --> 00:18:04,920
+your attention and 
+
+293
+00:18:04,920 --> 00:18:05,820
+have a nice evening. 
+
+294
+00:18:14,590 --> 00:18:15,030
+Thank you very much. 

@@ -1,0 +1,2985 @@
+﻿1
+00:00:02,670 --> 00:00:04,650
+Hello and welcome to the 
+
+2
+00:00:04,650 --> 00:00:06,870
+Schülerhilfe webinar. 
+
+3
+00:00:06,870 --> 00:00:08,610
+Today we will be looking at the topic of 
+
+4
+00:00:08,610 --> 00:00:11,130
+sentence elements in sentence recognition. 
+
+5
+00:00:11,130 --> 00:00:12,790
+So we're going to look at the main 
+
+6
+00:00:12,790 --> 00:00:14,510
+clauses 
+
+7
+00:00:14,510 --> 00:00:16,270
+, the predicate, the 
+
+8
+00:00:16,270 --> 00:00:18,350
+subject and the object, and 
+
+9
+00:00:18,350 --> 00:00:19,730
+then we'll look at the 
+
+10
+00:00:19,730 --> 00:00:21,550
+subordinate clauses 
+
+11
+00:00:21,550 --> 00:00:23,310
+, namely the attributes and the 
+
+12
+00:00:23,310 --> 00:00:25,730
+adverbials. Finally, we will 
+
+13
+00:00:25,730 --> 00:00:27,070
+
+14
+00:00:27,070 --> 00:00:30,390
+look again at the special feature of the 
+predicate. The 
+
+15
+00:00:30,390 --> 00:00:32,330
+predicate is the principal 
+
+16
+00:00:32,330 --> 00:00:34,250
+clause element. This means that the 
+predicate 
+
+17
+00:00:34,250 --> 00:00:36,150
+is a conjugated, i.e. 
+
+18
+00:00:36,150 --> 00:00:39,510
+inflected verb. It therefore 
+
+19
+00:00:39,510 --> 00:00:41,630
+contains all the necessary content for a 
+
+20
+00:00:41,630 --> 00:00:44,030
+sentence. On the one hand, we have the 
+
+21
+00:00:44,030 --> 00:00:45,970
+tense sign, which means we know 
+
+22
+00:00:45,970 --> 00:00:48,170
+which tense the sentence is in, 
+
+23
+00:00:48,310 --> 00:00:50,990
+and we have a personalization, 
+
+24
+00:00:51,070 --> 00:00:53,530
+which means we know which person 
+
+25
+00:00:53,530 --> 00:00:55,670
+and how many of these persons 
+
+26
+00:00:55,670 --> 00:00:58,290
+are doing something. This means that with 
+the help of 
+
+27
+00:00:58,290 --> 00:01:00,250
+the tense marker and the 
+
+28
+00:01:00,250 --> 00:01:02,390
+personal ending, we already have 
+
+29
+00:01:02,390 --> 00:01:04,530
+all the basic, i.e. the 
+
+30
+00:01:04,530 --> 00:01:06,490
+most necessary information about 
+
+31
+00:01:06,490 --> 00:01:09,610
+a sentence. In addition, the 
+
+32
+00:01:09,610 --> 00:01:11,670
+predicate also determines which other 
+
+33
+00:01:11,670 --> 00:01:14,710
+sentence elements can occur in the 
+sentence. 
+
+34
+00:01:14,830 --> 00:01:17,270
+This is called transitivity. 
+
+35
+00:01:17,270 --> 00:01:18,850
+There are some verbs that 
+
+36
+00:01:18,850 --> 00:01:21,650
+automatically need an accusative or they 
+
+37
+00:01:21,650 --> 00:01:23,370
+need a dative or a 
+
+38
+00:01:23,370 --> 00:01:25,530
+genitive. This means that they have a 
+
+39
+00:01:25,530 --> 00:01:27,470
+case reaction. This means that they 
+
+40
+00:01:27,470 --> 00:01:29,930
+govern 
+
+41
+00:01:29,930 --> 00:01:32,050
+together with a certain object. We also 
+know this from 
+
+42
+00:01:32,050 --> 00:01:34,150
+German, for example with the verb 
+
+43
+00:01:34,150 --> 00:01:37,330
+backen. To bake something. This means 
+
+44
+00:01:37,330 --> 00:01:39,350
+
+45
+00:01:39,350 --> 00:01:40,810
+that we also need an 
+
+46
+00:01:40,810 --> 00:01:43,390
+accusative object to be able to construct 
+this sentence completely. I am baking a 
+
+47
+00:01:43,390 --> 00:01:47,450
+cake. In addition, the 
+
+48
+00:01:47,450 --> 00:01:50,710
+predicate or the conjugated verb, 
+
+49
+00:01:50,810 --> 00:01:53,030
+i.e. the adapted verb, which 
+
+50
+00:01:53,030 --> 00:01:54,610
+is called the predicate in the sentence, 
+
+51
+00:01:54,650 --> 00:01:56,710
+contains further content, such 
+
+52
+00:01:56,710 --> 00:01:59,350
+as the fifth element of the 
+
+53
+00:01:59,350 --> 00:02:01,490
+verb, namely the genus verbi, the 
+
+54
+00:02:01,490 --> 00:02:03,230
+gender of the verb. We 
+
+55
+00:02:03,230 --> 00:02:06,130
+only know the gender of nouns and 
+
+56
+00:02:06,130 --> 00:02:07,730
+adjectives by distinguishing between 
+
+57
+00:02:07,730 --> 00:02:09,470
+masculine, feminine and neuter 
+
+58
+00:02:09,470 --> 00:02:11,250
+. The gender of the 
+
+59
+00:02:11,250 --> 00:02:13,010
+verb is not limited to 
+
+60
+00:02:13,010 --> 00:02:15,290
+masculine, feminine or neuter 
+
+61
+00:02:15,350 --> 00:02:16,950
+, but is differentiated, i.e. it 
+
+62
+00:02:17,010 --> 00:02:19,230
+only differs in being active 
+
+63
+00:02:19,230 --> 00:02:21,410
+or passive. This means 
+
+64
+00:02:21,410 --> 00:02:23,550
+that with an active predicate , 
+
+65
+00:02:23,550 --> 00:02:27,110
+the basic sentence order of subject 
+
+66
+00:02:27,110 --> 00:02:29,190
+- object - predicate applies  in Latin. 
+
+67
+00:02:29,190 --> 00:02:30,890
+In German, we have the 
+
+68
+00:02:30,890 --> 00:02:33,170
+ subject-predicate-object clause order. 
+
+69
+00:02:33,170 --> 00:02:36,070
+With the passive predicate 
+
+70
+00:02:36,130 --> 00:02:37,950
+, the sentence order shifts. 
+
+71
+00:02:38,010 --> 00:02:39,870
+This means that the subject, which 
+
+72
+00:02:39,870 --> 00:02:41,430
+was the former 
+
+73
+00:02:41,430 --> 00:02:44,610
+accusative object from the active sentence 
+, goes first and 
+
+74
+00:02:44,610 --> 00:02:47,470
+is carried out by the passive. We will 
+
+75
+00:02:47,470 --> 00:02:49,970
+look at this again later 
+
+76
+00:02:49,970 --> 00:02:54,610
+. In addition to the content of the 
+
+77
+00:02:54,610 --> 00:02:56,210
+genus verbi, we also have the 
+
+78
+00:02:56,210 --> 00:02:58,410
+information of the silent subject. 
+
+79
+00:02:58,550 --> 00:03:00,490
+We have just learned that 
+
+80
+00:03:00,490 --> 00:03:03,770
+the personal ending already tells 
+
+81
+00:03:03,770 --> 00:03:06,570
+us who or what is doing something. 
+
+82
+00:03:06,570 --> 00:03:09,470
+This means that, unless we 
+
+83
+00:03:09,470 --> 00:03:12,170
+want to make it explicit, 
+
+84
+00:03:12,170 --> 00:03:14,330
+it is sufficient if we only 
+
+85
+00:03:14,330 --> 00:03:15,770
+write the predicate and then an object 
+following it, 
+
+86
+00:03:15,890 --> 00:03:19,010
+if this is necessary. In other words, as 
+
+87
+00:03:19,070 --> 00:03:20,350
+we can see from the example here, 
+
+88
+00:03:20,590 --> 00:03:22,710
+the predicate already contains 
+
+89
+00:03:22,710 --> 00:03:24,850
+the subject. We can 
+
+90
+00:03:24,850 --> 00:03:26,550
+translate Rom am It as he is going to 
+Rome. 
+
+91
+00:03:26,670 --> 00:03:29,110
+Of course, this depends on what 
+
+92
+00:03:29,110 --> 00:03:31,970
+
+93
+00:03:31,970 --> 00:03:33,750
+
+94
+00:03:33,750 --> 00:03:35,730
+is written in the context, i.e. in the 
+previous sentence or in the introductory 
+sentence. So that ultimately decides 
+
+95
+00:03:35,730 --> 00:03:37,470
+whether it says he is going 
+
+96
+00:03:37,470 --> 00:03:39,250
+to Rome or she is going to Rome. 
+
+97
+00:03:39,250 --> 00:03:40,890
+In Latin, this 
+
+98
+00:03:40,890 --> 00:03:43,450
+can only be determined by the context, 
+
+99
+00:03:43,450 --> 00:03:45,370
+unless it is explicitly written out. 
+
+100
+00:03:45,370 --> 00:03:48,150
+Because it is the third person, i.e. 
+
+101
+00:03:48,150 --> 00:03:50,190
+he, she or it in the singular. 
+
+102
+00:03:52,090 --> 00:03:53,930
+The predicate also contains 
+
+103
+00:03:53,930 --> 00:03:55,330
+predicate nouns and 
+
+104
+00:03:55,330 --> 00:03:57,610
+predicative nouns. This means 
+
+105
+00:03:57,610 --> 00:03:59,350
+
+106
+00:03:59,350 --> 00:04:01,270
+that we can also do something with these 
+predicative nouns and predicate nouns . 
+
+107
+00:04:01,290 --> 00:04:02,950
+However, we will 
+
+108
+00:04:02,950 --> 00:04:04,210
+
+109
+00:04:04,210 --> 00:04:05,850
+deal with this at the end of this webinar 
+. We will 
+
+110
+00:04:05,850 --> 00:04:08,910
+see that the predicate 
+
+111
+00:04:08,910 --> 00:04:10,350
+
+112
+00:04:10,350 --> 00:04:12,270
+
+113
+00:04:12,270 --> 00:04:14,310
+can also automatically lead us to a 
+predicate noun or predicative . more on 
+this later. 
+
+114
+00:04:14,450 --> 00:04:16,650
+Now let's move on to the subject. The 
+
+115
+00:04:16,650 --> 00:04:19,430
+subject is the primary sentence element, 
+
+116
+00:04:19,470 --> 00:04:21,630
+i.e. it is directly related 
+
+117
+00:04:21,630 --> 00:04:23,510
+to the predicate, precisely because it 
+
+118
+00:04:23,510 --> 00:04:25,790
+is already preformed in the predicate. 
+
+119
+00:04:25,790 --> 00:04:27,710
+This means that the subject provides 
+information about 
+
+120
+00:04:27,710 --> 00:04:30,090
+the actor. He is the one who 
+
+121
+00:04:30,090 --> 00:04:31,990
+
+122
+00:04:31,990 --> 00:04:34,530
+carries out this predicate, i.e. the 
+action. A subject is a 
+
+123
+00:04:34,530 --> 00:04:37,130
+declined noun. This can 
+
+124
+00:04:37,130 --> 00:04:38,750
+also be a noun, i.e. a 
+
+125
+00:04:38,750 --> 00:04:41,170
+name word. The noun means 
+
+126
+00:04:41,170 --> 00:04:43,590
+name in Latin. This means that a 
+
+127
+00:04:43,590 --> 00:04:46,330
+noun is also a noun 
+
+128
+00:04:46,330 --> 00:04:49,610
+because it has a name. A subject 
+
+129
+00:04:49,610 --> 00:04:51,710
+fulfills the following criteria. It is 
+
+130
+00:04:51,710 --> 00:04:53,510
+in competition with the predicate, i.e. 
+
+131
+00:04:53,510 --> 00:04:55,610
+in direct relation. This means that it 
+
+132
+00:04:55,610 --> 00:04:57,310
+basically 
+
+133
+00:04:57,310 --> 00:04:58,990
+takes on all forms. If the predicate is in 
+the singular 
+
+134
+00:04:59,010 --> 00:05:00,870
+, the nominative is also in the singular. 
+
+135
+00:05:01,010 --> 00:05:02,850
+And this becomes interesting later when 
+
+136
+00:05:02,850 --> 00:05:05,050
+we 
+
+137
+00:05:05,050 --> 00:05:07,910
+look at the translation of texts. We will 
+
+138
+00:05:07,910 --> 00:05:09,710
+see from the example in a moment that we 
+can immediately 
+
+139
+00:05:09,710 --> 00:05:11,770
+determine which nominative we 
+
+140
+00:05:11,770 --> 00:05:15,170
+need to look for . In addition, 
+
+141
+00:05:15,230 --> 00:05:17,770
+we know that a subject 
+
+142
+00:05:17,770 --> 00:05:19,990
+
+143
+00:05:19,990 --> 00:05:22,070
+can only and exclusively be declined in 
+the nominative case . This means 
+
+144
+00:05:22,270 --> 00:05:26,070
+that all nouns that we are looking for 
+
+145
+00:05:26,230 --> 00:05:27,450
+can only be found in the 
+
+146
+00:05:27,450 --> 00:05:29,150
+nominative case and 
+
+147
+00:05:29,150 --> 00:05:31,070
+we have to differentiate whether it 
+
+148
+00:05:31,070 --> 00:05:33,990
+is in the singular or plural 
+
+149
+00:05:33,990 --> 00:05:35,630
+and we find this out via the 
+
+150
+00:05:35,710 --> 00:05:38,530
+predicate. The subject is always 
+
+151
+00:05:38,530 --> 00:05:40,890
+
+152
+00:05:40,890 --> 00:05:44,770
+posed with the question who or what, i.e. 
+quiz out quid. So, or 
+
+153
+00:05:44,770 --> 00:05:46,710
+determined. Let's look at the 
+
+154
+00:05:46,710 --> 00:05:49,050
+example. Puer et poella placentam 
+
+155
+00:05:49,050 --> 00:05:52,230
+coquunt, quiz coquit, pur et poella 
+
+156
+00:05:52,230 --> 00:05:54,950
+coquunt. We can see from the coquunt 
+
+157
+00:05:55,090 --> 00:05:57,310
+, i.e. the un-ending, i.e. the 
+
+158
+00:05:57,310 --> 00:05:59,610
+nt-ending, third person plural 
+
+159
+00:05:59,610 --> 00:06:02,250
+, that this 
+
+160
+00:06:02,250 --> 00:06:03,930
+should be a plural subject. Now we have 
+here 
+
+161
+00:06:03,930 --> 00:06:06,310
+both a puer et puerla, both 
+
+162
+00:06:06,310 --> 00:06:07,810
+standing nouns in the ativsingua, 
+
+163
+00:06:07,890 --> 00:06:09,510
+but they are connected by the conjunction 
+
+164
+00:06:09,510 --> 00:06:11,350
+et. This means that we can 
+
+165
+00:06:11,350 --> 00:06:14,890
+conclude that these two 
+
+166
+00:06:14,890 --> 00:06:17,590
+are our performers here. 
+
+167
+00:06:17,590 --> 00:06:20,030
+Namely, they are the bakers 
+
+168
+00:06:20,030 --> 00:06:22,690
+, the ones who bake, that is, the boy and 
+the 
+
+169
+00:06:22,690 --> 00:06:24,870
+girl who bake. So we ask, 
+
+170
+00:06:25,010 --> 00:06:27,650
+quiz, coquit, who bakes, poor Ed 
+
+171
+00:06:27,650 --> 00:06:30,290
+Puella, coquit, who bakes, the boy 
+
+172
+00:06:30,290 --> 00:06:32,010
+and the girl bake. We realize 
+
+173
+00:06:32,010 --> 00:06:34,390
+that the placentum 
+
+174
+00:06:34,390 --> 00:06:36,310
+is outside , because the placentum is the 
+
+175
+00:06:36,310 --> 00:06:38,790
+object. Moreover, we come now. The 
+
+176
+00:06:38,790 --> 00:06:41,030
+object is a secondary clause, 
+
+177
+00:06:41,070 --> 00:06:42,650
+that is, it describes the 
+
+178
+00:06:42,650 --> 00:06:44,950
+person being acted upon. It adds 
+something, 
+
+179
+00:06:44,990 --> 00:06:47,410
+i.e. it is a supplementary 
+
+180
+00:06:47,410 --> 00:06:49,990
+subject of the sentence. The object is 
+also 
+
+181
+00:06:49,990 --> 00:06:54,820
+a declined noun. It is, 
+
+182
+00:06:54,840 --> 00:06:56,740
+as I said, the person being acted upon 
+
+183
+00:06:56,740 --> 00:06:59,400
+, i.e. it is the person who 
+
+184
+00:06:59,400 --> 00:07:02,380
+
+185
+00:07:02,380 --> 00:07:03,900
+is performed by the predicate, i.e. by the 
+action. We 
+
+186
+00:07:03,900 --> 00:07:05,380
+therefore distinguish between the one who 
+
+187
+00:07:05,380 --> 00:07:08,700
+performs the action and the one who 
+
+188
+00:07:08,700 --> 00:07:11,180
+is performed. And the one who is basically 
+
+189
+00:07:11,180 --> 00:07:12,900
+the action. The one who 
+
+190
+00:07:12,900 --> 00:07:14,280
+is the action is the predicate, 
+
+191
+00:07:14,380 --> 00:07:16,200
+the performer is the subject and 
+
+192
+00:07:16,200 --> 00:07:20,440
+the performed is the object. It 
+
+193
+00:07:20,440 --> 00:07:23,260
+therefore 
+
+194
+00:07:23,260 --> 00:07:25,200
+
+195
+00:07:25,200 --> 00:07:27,700
+adds a second noun, at least a second noun 
+, to the sentence. It is the last of the 
+three 
+
+196
+00:07:27,700 --> 00:07:29,260
+most important sentence elements. We 
+
+197
+00:07:29,260 --> 00:07:30,740
+therefore 
+
+198
+00:07:30,740 --> 00:07:33,820
+always proceed in the same order in our 
+translation: 
+
+199
+00:07:33,880 --> 00:07:35,400
+we first look for the predicate, 
+
+200
+00:07:35,400 --> 00:07:36,720
+then 
+
+201
+00:07:36,720 --> 00:07:38,380
+make an inference to the subject and then 
+
+202
+00:07:38,380 --> 00:07:40,380
+look for the object. This 
+
+203
+00:07:40,380 --> 00:07:42,120
+sentence fragment is only needed if the 
+
+204
+00:07:42,120 --> 00:07:43,860
+predicate requires it. We 
+
+205
+00:07:43,860 --> 00:07:45,360
+have already talked about the keyword 
+
+206
+00:07:45,360 --> 00:07:48,040
+transitivity. 
+
+207
+00:07:48,040 --> 00:07:50,740
+To summarize , the object fulfills the 
+following 
+
+208
+00:07:50,740 --> 00:07:52,620
+criteria. An object is 
+
+209
+00:07:52,620 --> 00:07:54,600
+required by the predicate or is 
+
+210
+00:07:54,600 --> 00:07:57,560
+present as a complement in the sentence. 
+
+211
+00:07:57,600 --> 00:07:59,800
+It 
+
+212
+00:07:59,800 --> 00:08:01,800
+can be declined in all other cases except 
+the 
+
+213
+00:08:01,800 --> 00:08:03,860
+nominative, because the nominative 
+
+214
+00:08:03,860 --> 00:08:05,400
+is reserved in the subject. 
+
+215
+00:08:05,400 --> 00:08:07,980
+However, we differentiate 
+
+216
+00:08:07,980 --> 00:08:09,760
+between direct and indirect objects 
+
+217
+00:08:09,760 --> 00:08:13,180
+. We will come to that now. Before 
+
+218
+00:08:13,180 --> 00:08:15,960
+we finally 
+
+219
+00:08:15,960 --> 00:08:17,140
+
+220
+00:08:17,140 --> 00:08:18,760
+deal with the direct and indirect object , 
+we need to 
+
+221
+00:08:18,760 --> 00:08:20,700
+clarify something first. We need to 
+
+222
+00:08:20,700 --> 00:08:22,220
+differentiate, i.e. distinguish 
+
+223
+00:08:22,220 --> 00:08:23,740
+between the 
+
+224
+00:08:23,740 --> 00:08:24,520
+different objects. 
+
+225
+00:08:24,540 --> 00:08:27,160
+Types of object. I 
+
+226
+00:08:27,160 --> 00:08:29,560
+don't mean the indirect and direct 
+
+227
+00:08:29,560 --> 00:08:31,400
+object, but between the 
+
+228
+00:08:31,400 --> 00:08:33,060
+attributes of an object. 
+
+229
+00:08:33,060 --> 00:08:35,660
+We define the accusative, the 
+
+230
+00:08:35,660 --> 00:08:38,080
+dative or the genitive or the 
+
+231
+00:08:38,080 --> 00:08:40,440
+applicative, which, unlike 
+
+232
+00:08:40,440 --> 00:08:42,840
+in German, is the 
+
+233
+00:08:42,840 --> 00:08:45,040
+fifth case in the language. 
+
+234
+00:08:45,800 --> 00:08:47,680
+Let's start with the most important and 
+
+235
+00:08:47,680 --> 00:08:52,020
+most common case, namely the 
+
+236
+00:08:52,020 --> 00:08:53,800
+accusative 
+
+237
+00:08:53,800 --> 00:08:55,940
+object . 
+
+238
+00:08:55,940 --> 00:08:58,500
+The object is in the fourth case 
+
+239
+00:08:58,500 --> 00:09:00,540
+, i.e. the accusative case. It 
+
+240
+00:09:00,540 --> 00:09:04,180
+usually takes on the function of the 
+
+241
+00:09:04,180 --> 00:09:06,220
+direct object. 
+
+242
+00:09:06,220 --> 00:09:08,220
+We will look at why in a moment. It 
+
+243
+00:09:08,220 --> 00:09:10,300
+also competes with the 
+
+244
+00:09:10,300 --> 00:09:12,860
+predicate, because the predicate in the 
+
+245
+00:09:12,860 --> 00:09:14,380
+accusative case 
+
+246
+00:09:14,560 --> 00:09:16,460
+also requires it. All 
+
+247
+00:09:16,460 --> 00:09:18,160
+transitive verbs without any further 
+
+248
+00:09:18,160 --> 00:09:19,620
+Our information require 
+
+249
+00:09:19,620 --> 00:09:21,680
+an accusative object. Otherwise, 
+
+250
+00:09:21,680 --> 00:09:23,760
+our vocabulary and 
+
+251
+00:09:23,760 --> 00:09:25,580
+dictionaries just 
+
+252
+00:09:25,580 --> 00:09:27,800
+add a dative or with a 
+
+253
+00:09:27,800 --> 00:09:30,580
+dative, i.e. m.dat, so that we know 
+
+254
+00:09:30,580 --> 00:09:32,260
+that it is formed with a dative 
+
+255
+00:09:32,260 --> 00:09:33,760
+or with a genitive or the 
+
+256
+00:09:33,760 --> 00:09:37,160
+aplative. Otherwise, we can 
+
+257
+00:09:37,160 --> 00:09:38,780
+generally assume that 
+
+258
+00:09:38,780 --> 00:09:43,740
+the verb is 
+
+259
+00:09:43,740 --> 00:09:47,700
+governed by an accusative . The accusative 
+is asked 
+
+260
+00:09:47,700 --> 00:09:50,480
+with whom or what, so quem ausquit, 
+
+261
+00:09:50,480 --> 00:09:51,900
+we can see it here once in the 
+
+262
+00:09:51,900 --> 00:09:54,780
+example, Pirate, Navim, Capium, 
+
+263
+00:09:54,780 --> 00:09:58,100
+so we can determine Pirate is 
+
+264
+00:09:58,100 --> 00:10:02,280
+our subject, we can recognize that 
+
+265
+00:10:02,280 --> 00:10:04,680
+by the fact that we 
+
+266
+00:10:04,680 --> 00:10:06,340
+have the predicate in the plural here and 
+here in this case 
+
+267
+00:10:06,340 --> 00:10:08,240
+Pirate is our actual and 
+
+268
+00:10:08,240 --> 00:10:10,600
+only plural form and then we have 
+
+269
+00:10:10,600 --> 00:10:12,900
+Navim in the accusative, so we can 
+
+270
+00:10:12,900 --> 00:10:14,860
+ask, Quem ad quid? Pirate, 
+
+271
+00:10:14,880 --> 00:10:18,240
+carpion. Who do the pirates capture? They 
+
+272
+00:10:18,240 --> 00:10:20,220
+capture the ship. This means that the 
+
+273
+00:10:20,220 --> 00:10:21,960
+ship is our accusative object. 
+
+274
+00:10:22,620 --> 00:10:24,560
+Now we come to the dative object. 
+
+275
+00:10:24,600 --> 00:10:27,220
+The dative object is usually placed after 
+
+276
+00:10:27,220 --> 00:10:28,940
+verbs to which an action applies. 
+
+277
+00:10:28,940 --> 00:10:29,960
+This means that here we no longer have 
+
+278
+00:10:29,960 --> 00:10:31,720
+an agent, but an 
+
+279
+00:10:31,720 --> 00:10:34,500
+originator or an addressee. We 
+
+280
+00:10:34,500 --> 00:10:36,400
+can see this in the example of Marcus 
+
+281
+00:10:36,400 --> 00:10:37,900
+Domino Impendit. 
+
+282
+00:10:41,420 --> 00:10:44,120
+This means that we assume that 
+
+283
+00:10:44,120 --> 00:10:46,760
+Marcus is threatening. Marcus threatens. 
+
+284
+00:10:46,760 --> 00:10:48,460
+However, we are not asking who 
+
+285
+00:10:48,460 --> 00:10:50,880
+he is threatening , but who he is 
+threatening. And here 
+
+286
+00:10:50,880 --> 00:10:53,920
+we have a clear differentiation 
+
+287
+00:10:53,920 --> 00:10:56,160
+from the accusative, because here the 
+
+288
+00:10:56,160 --> 00:10:57,840
+threat, i.e. the action, goes to an 
+
+289
+00:10:57,840 --> 00:11:00,380
+addressee. So we either have 
+
+290
+00:11:00,380 --> 00:11:02,100
+an author and an addressee. 
+
+291
+00:11:02,180 --> 00:11:04,160
+In this case, an addressee 
+
+292
+00:11:04,200 --> 00:11:06,300
+, that is, to whom the action is 
+addressed. 
+
+293
+00:11:06,900 --> 00:11:09,460
+The point is to threaten the master of the 
+house. Who is 
+
+294
+00:11:09,460 --> 00:11:12,740
+Mark threatening? He is threatening the 
+master of the house. 
+
+295
+00:11:13,680 --> 00:11:16,360
+If we have the phenomenon that two 
+
+296
+00:11:16,360 --> 00:11:18,780
+objects, one dative and one 
+
+297
+00:11:18,780 --> 00:11:22,740
+accusative, appear together in a sentence, 
+
+298
+00:11:22,780 --> 00:11:24,880
+we automatically have to 
+
+299
+00:11:24,880 --> 00:11:27,100
+
+300
+00:11:27,100 --> 00:11:29,200
+deal with the direct and indirect object. 
+What I would like to mention 
+
+301
+00:11:29,200 --> 00:11:31,200
+here is that the landlord is also a 
+
+302
+00:11:31,200 --> 00:11:33,800
+direct object, because the verb in 
+
+303
+00:11:33,800 --> 00:11:35,800
+empend, in this case 
+
+304
+00:11:35,800 --> 00:11:38,780
+empendit, necessarily has a 
+
+305
+00:11:38,780 --> 00:11:40,760
+dative case, i.e. it reacts 
+
+306
+00:11:40,760 --> 00:11:42,760
+with a dative, which means domino is 
+
+307
+00:11:42,760 --> 00:11:45,320
+the direct object. We will now look 
+
+308
+00:11:45,320 --> 00:11:48,020
+at an example in which both 
+
+309
+00:11:48,020 --> 00:11:50,360
+the one and the other occur 
+
+310
+00:11:50,360 --> 00:11:52,500
+, namely Filia Matri Epistolam 
+
+311
+00:11:52,500 --> 00:11:55,280
+Scribit. So we can ask, 
+
+312
+00:11:55,460 --> 00:11:57,140
+Filia Scribit, so we have 
+
+313
+00:11:57,140 --> 00:11:59,160
+Scribit here , third person singular 
+
+314
+00:11:59,160 --> 00:12:01,120
+, so we have a nominative here. 
+
+315
+00:12:01,140 --> 00:12:02,800
+of Filia, so we know the 
+
+316
+00:12:02,800 --> 00:12:04,820
+daughter is the one who 
+
+317
+00:12:04,820 --> 00:12:06,680
+forms the subject and now we ask ourselves 
+
+318
+00:12:06,680 --> 00:12:08,480
+Matria and Epistulam, two 
+
+319
+00:12:08,480 --> 00:12:10,560
+types of object, one dative, one 
+
+320
+00:12:10,560 --> 00:12:11,960
+accusative and now we have to 
+
+321
+00:12:11,960 --> 00:12:14,080
+determine who is what, who is 
+
+322
+00:12:14,080 --> 00:12:15,880
+direct and who is indirect. 
+
+323
+00:12:15,880 --> 00:12:17,220
+We can determine this by 
+
+324
+00:12:17,220 --> 00:12:19,040
+asking, Quem autquit filia 
+
+325
+00:12:19,040 --> 00:12:22,240
+scribit, Epistulam scribit, cui 
+
+326
+00:12:22,240 --> 00:12:24,140
+epistulam scribit, Matria epistulam 
+
+327
+00:12:24,140 --> 00:12:26,180
+scribit. We can see from 
+
+328
+00:12:26,180 --> 00:12:29,500
+the question alone that on the one hand we 
+only 
+
+329
+00:12:29,500 --> 00:12:30,880
+
+330
+00:12:30,880 --> 00:12:32,980
+have to include the subject in the 
+question , but on the other hand we also 
+
+331
+00:12:32,980 --> 00:12:35,520
+have to include the accusative. 
+
+332
+00:12:35,560 --> 00:12:36,880
+We could also 
+
+333
+00:12:36,880 --> 00:12:38,540
+write it out, but we have learned 
+
+334
+00:12:38,680 --> 00:12:41,660
+that the subject is 
+
+335
+00:12:41,660 --> 00:12:43,880
+also formed within the predicate. 
+
+336
+00:12:43,880 --> 00:12:44,980
+This means that we don't have to 
+
+337
+00:12:44,980 --> 00:12:48,040
+explicitly write it out again here , 
+because 
+
+338
+00:12:48,040 --> 00:12:50,000
+we are thinking here. 
+
+339
+00:12:50,000 --> 00:12:51,220
+However, we can state and 
+
+340
+00:12:51,220 --> 00:12:54,860
+realize that we 
+
+341
+00:12:54,860 --> 00:12:56,040
+still have the filia here. So we could 
+also 
+
+342
+00:12:56,040 --> 00:12:56,340
+say that 
+
+343
+00:13:04,100 --> 00:13:05,880
+we could 
+
+344
+00:13:05,880 --> 00:13:07,260
+leave out the filia and make a quip 
+
+345
+00:13:07,260 --> 00:13:10,840
+out of skribit. Yes, we could 
+
+346
+00:13:10,840 --> 00:13:12,060
+
+347
+00:13:12,060 --> 00:13:13,160
+translate this as sie in German , i.e. 
+with a 
+
+348
+00:13:13,160 --> 00:13:15,040
+personal pronoun. So we see 
+
+349
+00:13:15,040 --> 00:13:17,040
+that the daughter is writing 
+
+350
+00:13:17,040 --> 00:13:19,700
+a letter to her mother. She writes, 
+
+351
+00:13:19,700 --> 00:13:21,980
+we' ve left it out here , a letter. Who is 
+
+352
+00:13:21,980 --> 00:13:23,780
+she writing to? To the mother. 
+
+353
+00:13:23,780 --> 00:13:25,560
+We can do that in German. 
+
+354
+00:13:25,560 --> 00:13:27,520
+But we can't actually say 
+
+355
+00:13:27,600 --> 00:13:29,640
+to whom she is writing or she is writing 
+
+356
+00:13:29,640 --> 00:13:31,240
+to her mother. That's not 
+
+357
+00:13:31,240 --> 00:13:33,040
+enough, because basically 
+
+358
+00:13:33,040 --> 00:13:34,980
+we 
+
+359
+00:13:34,980 --> 00:13:37,220
+project the writing onto something. This 
+
+360
+00:13:37,220 --> 00:13:40,700
+means that if the direct object and 
+
+361
+00:13:40,700 --> 00:13:42,340
+the indirect object 
+
+362
+00:13:42,340 --> 00:13:44,780
+are in the same sentence , we know that 
+the direct 
+
+363
+00:13:44,780 --> 00:13:48,080
+object cannot be omitted 
+
+364
+00:13:48,160 --> 00:13:49,740
+, but the direct object can. 
+
+365
+00:13:49,880 --> 00:13:51,780
+The sentence would work if we 
+
+366
+00:13:51,780 --> 00:13:53,700
+said the mother was writing a 
+
+367
+00:13:53,700 --> 00:13:55,340
+letter, the sentence would not 
+
+368
+00:13:55,340 --> 00:13:56,880
+work if we said the daughter was writing 
+
+369
+00:13:56,880 --> 00:13:58,740
+to her mother. We would automatically 
+
+370
+00:13:58,740 --> 00:14:00,960
+ask who or what. So 
+
+371
+00:14:00,960 --> 00:14:02,640
+the direct object is missing here , in 
+this case 
+
+372
+00:14:02,640 --> 00:14:04,800
+the accusative object. In most 
+
+373
+00:14:04,800 --> 00:14:06,800
+cases, unless the 
+
+374
+00:14:06,800 --> 00:14:09,620
+verb rules with a dative, 
+
+375
+00:14:09,620 --> 00:14:13,640
+the accusative 
+
+376
+00:14:13,640 --> 00:14:16,400
+forms the direct object and then, if 
+present, 
+
+377
+00:14:16,400 --> 00:14:18,960
+the dative forms the indirect object. 
+
+378
+00:14:19,180 --> 00:14:21,120
+Now we come to the two other 
+
+379
+00:14:21,120 --> 00:14:23,460
+forms, namely the genitive and the 
+
+380
+00:14:23,460 --> 00:14:27,180
+applicative. The genitive object is 
+required by 
+
+381
+00:14:27,180 --> 00:14:29,640
+only a few verbs. 
+
+382
+00:14:29,640 --> 00:14:31,340
+In most cases, it is 
+
+383
+00:14:31,340 --> 00:14:33,320
+also 
+
+384
+00:14:33,320 --> 00:14:35,100
+
+385
+00:14:35,100 --> 00:14:37,140
+translated with a different case in German 
+, i.e. with a different case . 
+
+386
+00:14:37,140 --> 00:14:39,180
+In Latin, for example, we mostly have 
+verbs of 
+
+387
+00:14:39,180 --> 00:14:41,960
+remembering and forgetting 
+
+388
+00:14:41,960 --> 00:14:44,260
+that are formed with a genitive object. 
+
+389
+00:14:44,380 --> 00:14:47,080
+Well-known verbs are neminisses, formed as 
+
+390
+00:14:47,080 --> 00:14:49,140
+past infinitives, as 
+
+391
+00:14:49,140 --> 00:14:50,580
+there is no present tense. 
+
+392
+00:14:50,920 --> 00:14:53,200
+Mercator, Pirate, Neminid. The 
+
+393
+00:14:53,200 --> 00:14:55,080
+merchant remembers his 
+
+394
+00:14:55,080 --> 00:14:56,760
+homeland is 
+
+395
+00:14:56,760 --> 00:15:00,300
+translated here in German with a 
+prepositional object. 
+
+396
+00:15:00,340 --> 00:15:03,440
+We could also say in older German 
+
+397
+00:15:03,440 --> 00:15:05,200
+, der Kaufmann erinnerte sich 
+
+398
+00:15:05,200 --> 00:15:07,780
+seiner Heimat, so also 
+
+399
+00:15:07,780 --> 00:15:10,380
+translate with a genitive . With Obliviski 
+it is also the 
+
+400
+00:15:10,380 --> 00:15:13,440
+
+401
+00:15:13,440 --> 00:15:15,140
+case that we have a different case 
+reaction. 
+
+402
+00:15:15,140 --> 00:15:16,300
+In fact, there is no other way here. 
+
+403
+00:15:16,480 --> 00:15:19,420
+Magister Discipulorum eos Obliviski 
+
+404
+00:15:19,420 --> 00:15:21,600
+tur. The master forgets his 
+
+405
+00:15:21,600 --> 00:15:23,580
+disciples. Whom does the master forget 
+
+406
+00:15:23,580 --> 00:15:25,880
+his disciples? German with 
+
+407
+00:15:25,880 --> 00:15:29,140
+accusative in Latin with 
+
+408
+00:15:29,140 --> 00:15:31,960
+genitive object. In addition, there is 
+
+409
+00:15:31,960 --> 00:15:34,820
+also the applicative 
+
+410
+00:15:34,820 --> 00:15:36,400
+, and as we already know, it is 
+
+411
+00:15:36,480 --> 00:15:38,960
+usually 
+
+412
+00:15:38,960 --> 00:15:42,760
+found in the sentence as an applicative, 
+i.e. as an adverbial, and 
+
+413
+00:15:42,760 --> 00:15:44,960
+only the applicativus separativus, we 
+
+414
+00:15:44,960 --> 00:15:47,700
+know that there are several 
+
+415
+00:15:47,700 --> 00:15:50,040
+forms of the applicative , only the 
+applicativus 
+
+416
+00:15:50,040 --> 00:15:52,020
+separativus can also be used as a verb, 
+can 
+
+417
+00:15:52,020 --> 00:15:54,360
+also 
+
+418
+00:15:54,360 --> 00:15:56,720
+be required as the object of a verb. There 
+are some 
+
+419
+00:15:56,720 --> 00:15:59,380
+deponentia, i.e. deponentia are 
+
+420
+00:15:59,380 --> 00:16:01,280
+verbs with a passive stem such as 
+obliviski, 
+
+421
+00:16:01,440 --> 00:16:04,020
+which 
+
+422
+00:16:04,020 --> 00:16:06,080
+are formed with an ablative object. The 
+translation is of course 
+
+423
+00:16:06,080 --> 00:16:08,280
+also with a different case reaction, 
+
+424
+00:16:08,320 --> 00:16:10,480
+as we know that the ablative 
+
+425
+00:16:10,480 --> 00:16:12,720
+
+426
+00:16:12,720 --> 00:16:14,400
+does not exist as a case in German. We can 
+see 
+
+427
+00:16:14,400 --> 00:16:17,160
+several examples here. I'll 
+
+428
+00:16:17,160 --> 00:16:18,720
+pick out one here. 
+
+429
+00:16:19,060 --> 00:16:21,620
+Auxilio egeo. I need help. Who 
+
+430
+00:16:21,620 --> 00:16:23,440
+do I need help from? Is 
+
+431
+00:16:23,440 --> 00:16:28,000
+formed here with the applicative. Just 
+like we 
+
+432
+00:16:28,000 --> 00:16:29,520
+have this example here, or 
+
+433
+00:16:29,520 --> 00:16:31,240
+let's take the first one in Antiqua Roma. 
+
+434
+00:16:33,260 --> 00:16:36,140
+Servi libertate caroerunt. In ancient 
+
+435
+00:16:36,140 --> 00:16:37,380
+Rome, slaves had no 
+
+436
+00:16:37,380 --> 00:16:39,560
+freedom. Who did the slaves 
+
+437
+00:16:39,560 --> 00:16:42,600
+not have ? Freedom. So who did the slaves 
+
+438
+00:16:42,600 --> 00:16:44,920
+not have freedom? We have that 
+
+439
+00:16:44,920 --> 00:16:47,420
+in Antika Roma, in ancient Rome. We have 
+that 
+
+440
+00:16:47,420 --> 00:16:49,920
+here as an applativus loci, 
+
+441
+00:16:50,020 --> 00:16:51,600
+which means it is also in the 
+
+442
+00:16:51,600 --> 00:16:53,680
+applative . But here it is not an 
+
+443
+00:16:53,680 --> 00:16:55,320
+object, but an 
+
+444
+00:16:55,320 --> 00:16:59,040
+adverbial determination of time. We 
+
+445
+00:16:59,040 --> 00:17:00,780
+see more here. Imperator 
+
+446
+00:17:00,780 --> 00:17:03,620
+Castris Potiethor, the general will 
+
+447
+00:17:03,620 --> 00:17:05,280
+take control of the camp. 
+
+448
+00:17:05,460 --> 00:17:06,940
+Whom will he take control of? 
+
+449
+00:17:07,060 --> 00:17:10,040
+The camp. or if we 
+
+450
+00:17:10,040 --> 00:17:13,140
+have a double applicative, then 
+
+451
+00:17:13,140 --> 00:17:16,680
+the verb uti can be used to 
+
+452
+00:17:16,820 --> 00:17:19,240
+translate the whole thing as, as, that is, 
+as. 
+
+453
+00:17:19,360 --> 00:17:21,440
+So Markus has a bear, Urso, 
+
+454
+00:17:21,600 --> 00:17:24,460
+Animali, Domestico as a pet. 
+
+455
+00:17:25,480 --> 00:17:27,240
+Now let's 
+
+456
+00:17:27,240 --> 00:17:29,120
+take a look at the subordinate clauses. I 
+
+457
+00:17:29,120 --> 00:17:30,660
+hope that this is clear so far. 
+
+458
+00:17:30,740 --> 00:17:33,580
+We hope we now want to 
+
+459
+00:17:33,580 --> 00:17:35,240
+talk about the subordinate clauses and 
+
+460
+00:17:35,240 --> 00:17:37,120
+start with the attribute. The attribute 
+
+461
+00:17:37,120 --> 00:17:39,540
+is first and foremost an 
+
+462
+00:17:39,540 --> 00:17:42,020
+addition and an attribute can 
+
+463
+00:17:42,020 --> 00:17:43,700
+be formed from several word types. 
+
+464
+00:17:43,820 --> 00:17:45,560
+It therefore 
+
+465
+00:17:45,560 --> 00:17:49,080
+adds further properties to other sentence 
+elements. Further 
+
+466
+00:17:49,080 --> 00:17:51,240
+sentence elements or other sentence 
+elements, 
+
+467
+00:17:51,280 --> 00:17:53,200
+by which I mean, of course, 
+
+468
+00:17:53,200 --> 00:17:56,180
+the main sentence elements. 
+
+469
+00:17:56,180 --> 00:17:58,320
+We 
+
+470
+00:17:58,320 --> 00:18:00,540
+usually concentrate on the nouns rather 
+
+471
+00:18:00,540 --> 00:18:02,220
+than the verbs, because for 
+
+472
+00:18:02,220 --> 00:18:04,180
+the verbs we have the adverbials 
+
+473
+00:18:04,180 --> 00:18:07,000
+, which we will come to in a moment. It 
+
+474
+00:18:07,000 --> 00:18:08,840
+therefore enriches a person, a thing 
+
+475
+00:18:08,840 --> 00:18:10,160
+or a circumstance with further 
+
+476
+00:18:10,160 --> 00:18:12,000
+information. Here we see the 
+
+477
+00:18:12,000 --> 00:18:14,900
+clear reference to nouns. It 
+
+478
+00:18:14,900 --> 00:18:17,040
+therefore fulfills the following criteria. 
+The 
+
+479
+00:18:17,040 --> 00:18:18,760
+attribute rules 
+
+480
+00:18:18,760 --> 00:18:21,380
+in 
+
+481
+00:18:21,380 --> 00:18:23,120
+competition with the corresponding clause. 
+This means that it 
+
+482
+00:18:23,120 --> 00:18:25,140
+
+483
+00:18:25,140 --> 00:18:28,800
+
+484
+00:18:28,800 --> 00:18:31,260
+takes on the case, the number and, if 
+necessary, the gender of the corresponding 
+clause. Let's look 
+
+485
+00:18:31,260 --> 00:18:32,960
+at the example here. There are different 
+
+486
+00:18:32,960 --> 00:18:37,000
+types of words that 
+
+487
+00:18:37,000 --> 00:18:39,180
+can form an attribute . There are 
+adjectives, i.e. 
+
+488
+00:18:39,180 --> 00:18:41,360
+like-words or nouns themselves, 
+
+489
+00:18:41,560 --> 00:18:43,560
+which 
+
+490
+00:18:43,560 --> 00:18:46,560
+are not an object or subject. Pronouns or 
+relative clauses, 
+
+491
+00:18:47,100 --> 00:18:48,720
+participles or sentential 
+
+492
+00:18:48,720 --> 00:18:50,080
+constructions. In other words, we 
+
+493
+00:18:50,080 --> 00:18:51,860
+learn that whole subordinate clauses can 
+
+494
+00:18:51,860 --> 00:18:53,300
+also 
+
+495
+00:18:53,300 --> 00:18:55,400
+be understood as attributes or number 
+words 
+
+496
+00:18:55,400 --> 00:18:58,220
+or numerals. Let's start 
+
+497
+00:18:58,220 --> 00:19:00,240
+with the example on. Here we have 
+
+498
+00:19:00,240 --> 00:19:03,900
+Phamosus Medicus Poella Curat. Here we 
+have 
+
+499
+00:19:03,900 --> 00:19:05,460
+a famous doctor, a 
+
+500
+00:19:05,460 --> 00:19:07,720
+girl. Here Phamosus becomes part of the 
+
+501
+00:19:07,720 --> 00:19:11,180
+subject. We then have Phamosus 
+
+502
+00:19:11,180 --> 00:19:15,340
+Medicus Filia Mercatoris Curat, a 
+
+503
+00:19:15,340 --> 00:19:16,820
+famous doctor, the 
+
+504
+00:19:16,820 --> 00:19:18,840
+merchant 's daughter. Here, a 
+
+505
+00:19:18,840 --> 00:19:20,920
+noun becomes part of the 
+
+506
+00:19:20,920 --> 00:19:25,340
+accusative object, 
+
+507
+00:19:25,400 --> 00:19:26,200
+which means we have a 
+
+508
+00:19:26,200 --> 00:19:28,640
+genitive attribute. Then we have a 
+
+509
+00:19:28,640 --> 00:19:30,800
+possessive pronoun, i.e. a 
+
+510
+00:19:30,800 --> 00:19:33,480
+pronoun that 
+
+511
+00:19:33,480 --> 00:19:34,940
+becomes part of the subject , or part of 
+the 
+
+512
+00:19:34,940 --> 00:19:36,300
+object in this case. 
+
+513
+00:19:36,720 --> 00:19:39,120
+Medicus, suam, filiam, curate. Here we 
+
+514
+00:19:39,120 --> 00:19:41,620
+have Uam, so Filiam and Suam, 
+
+515
+00:19:41,620 --> 00:19:43,180
+which means Suam is the 
+
+516
+00:19:43,180 --> 00:19:44,840
+possessive pronoun that refers to 
+
+517
+00:19:44,840 --> 00:19:47,560
+doctor. but 
+
+518
+00:19:47,560 --> 00:19:49,200
+agrees with filiam , so we know 
+
+519
+00:19:49,200 --> 00:19:51,220
+who it refers to. Then we have 
+
+520
+00:19:51,220 --> 00:19:53,760
+a subordinate clause which refers to the 
+
+521
+00:19:53,760 --> 00:19:56,620
+poella, i.e. the accusative object 
+
+522
+00:19:56,620 --> 00:19:58,620
+, medicus poellam, coelector 
+
+523
+00:19:58,620 --> 00:20:02,000
+teneto, curat. The doctor is a 
+
+524
+00:20:02,000 --> 00:20:04,300
+girl who keeps the bed. So 
+
+525
+00:20:04,300 --> 00:20:07,300
+here the relative clause describes 
+
+526
+00:20:07,300 --> 00:20:11,460
+the object. Here we have a 
+
+527
+00:20:11,460 --> 00:20:15,780
+participle which is an attribute 
+
+528
+00:20:15,780 --> 00:20:17,740
+of Arminius. 
+
+529
+00:20:17,740 --> 00:20:20,520
+Here we have a participle and an 
+applicative. 
+
+530
+00:20:20,620 --> 00:20:22,180
+We know this as a participle 
+
+531
+00:20:22,180 --> 00:20:24,080
+conjunctum or simply as a PPP. 
+
+532
+00:20:25,060 --> 00:20:27,440
+Arminius Iracaptus Romanus Petivit 
+
+533
+00:20:27,500 --> 00:20:29,420
+, Arminius, seized with rage, 
+
+534
+00:20:29,480 --> 00:20:31,020
+attacked the Romans . So here 
+
+535
+00:20:31,020 --> 00:20:34,100
+Iracaptus, i.e. this participle 
+
+536
+00:20:34,100 --> 00:20:38,380
+conjunctum, becomes part of the subject. 
+Then 
+
+537
+00:20:38,380 --> 00:20:40,600
+we have Rex videt pontem deletus 
+
+538
+00:20:40,600 --> 00:20:45,160
+. Here the participle, i.e. 
+
+539
+00:20:45,160 --> 00:20:49,520
+the PPP with ACI, i.e. sentence-final 
+
+540
+00:20:49,520 --> 00:20:51,400
+construction, becomes part of the 
+
+541
+00:20:51,400 --> 00:20:53,740
+accusative object. The king sees 
+
+542
+00:20:53,840 --> 00:20:55,660
+that the bridge has been destroyed. 
+
+543
+00:20:55,700 --> 00:20:57,080
+We can check this by 
+
+544
+00:20:57,100 --> 00:20:58,980
+asking who 
+
+545
+00:20:58,980 --> 00:21:01,220
+or what the king sees , namely that the 
+
+546
+00:21:01,220 --> 00:21:03,400
+bridge has been destroyed. Then 
+
+547
+00:21:03,400 --> 00:21:05,100
+we have another number word, 
+
+548
+00:21:05,100 --> 00:21:07,780
+expressed here in the applicative, 
+
+549
+00:21:07,780 --> 00:21:10,220
+the oramedicus Romam it, which means 
+
+550
+00:21:10,220 --> 00:21:12,220
+the doctor goes home at the third hour 
+
+551
+00:21:12,220 --> 00:21:13,360
+. In other words, we 
+
+552
+00:21:13,360 --> 00:21:15,860
+have number words with a noun in the 
+
+553
+00:21:15,860 --> 00:21:20,000
+applicative. 
+
+554
+00:21:20,000 --> 00:21:22,460
+Unlike the attributive , the adverbial is 
+a circumstantial word. 
+
+555
+00:21:22,520 --> 00:21:24,300
+This means that it is also 
+
+556
+00:21:24,300 --> 00:21:26,040
+formed from several word types and is made 
+
+557
+00:21:26,040 --> 00:21:27,740
+up of them. However, it is 
+
+558
+00:21:27,740 --> 00:21:29,580
+not part of another part of the sentence, 
+
+559
+00:21:29,680 --> 00:21:31,460
+but is a complete, 
+
+560
+00:21:31,640 --> 00:21:33,720
+independent clause in its own right. The 
+
+561
+00:21:33,720 --> 00:21:35,620
+adverbial is neither subject 
+
+562
+00:21:35,620 --> 00:21:38,300
+, object nor predicate. It 
+
+563
+00:21:38,300 --> 00:21:40,860
+therefore represents an additional 
+circumstance. 
+
+564
+00:21:41,120 --> 00:21:44,940
+The adverbial 
+
+565
+00:21:44,940 --> 00:21:46,820
+is also directly related to the predicate, 
+
+566
+00:21:46,820 --> 00:21:49,240
+just like all other sentence elements, of 
+course, and 
+
+567
+00:21:49,240 --> 00:21:50,620
+the adverbial comes from the 
+
+568
+00:21:50,620 --> 00:21:53,060
+adverbs. Here we also see the 
+
+569
+00:21:53,060 --> 00:21:54,780
+clear reference to the predicate, as 
+
+570
+00:21:54,780 --> 00:21:57,120
+adverbs, i.e. 
+
+571
+00:21:57,120 --> 00:21:59,000
+words belonging to the verb , usually 
+describe the how of the 
+
+572
+00:21:59,000 --> 00:22:01,220
+predicate. This means that, in a 
+
+573
+00:22:01,220 --> 00:22:03,680
+broader sense, adverbials are also 
+
+574
+00:22:03,680 --> 00:22:05,840
+an extension of the predicate. 
+
+575
+00:22:06,980 --> 00:22:08,520
+However, adverbials are not 
+
+576
+00:22:08,520 --> 00:22:10,100
+necessary in the sentence, i.e. in 
+
+577
+00:22:10,100 --> 00:22:11,380
+our translation they should be 
+
+578
+00:22:11,380 --> 00:22:14,240
+translated last. 
+
+579
+00:22:14,240 --> 00:22:15,820
+Adverbials fulfill the following 
+
+580
+00:22:15,820 --> 00:22:17,420
+criteria: they are either in the 
+
+581
+00:22:17,420 --> 00:22:19,120
+applicative, which is the best known, 
+
+582
+00:22:19,260 --> 00:22:22,320
+in the accusative or in the dative. They 
+
+583
+00:22:22,320 --> 00:22:23,540
+can 
+
+584
+00:22:23,540 --> 00:22:25,580
+be introduced by a preposition or the 
+
+585
+00:22:25,580 --> 00:22:27,060
+adverbial can 
+
+586
+00:22:27,060 --> 00:22:28,680
+form an entire subordinate clause. 
+
+587
+00:22:28,680 --> 00:22:30,440
+Let's take a look at this. We can see the 
+
+588
+00:22:30,440 --> 00:22:32,600
+different forms of the applative here. 
+
+589
+00:22:32,640 --> 00:22:34,820
+Let's remember 
+
+590
+00:22:34,820 --> 00:22:37,160
+that the only way 
+
+591
+00:22:37,160 --> 00:22:40,240
+to form the applativus separativus is as 
+an object. We 
+
+592
+00:22:40,240 --> 00:22:42,380
+can see that the adverbial 
+
+593
+00:22:42,380 --> 00:22:44,980
+is often found as an applicative in the 
+sentence. 
+
+594
+00:22:44,980 --> 00:22:46,920
+Its name is used to define the question 
+and 
+
+595
+00:22:46,920 --> 00:22:48,420
+intention of the sentence. This means that 
+
+596
+00:22:48,480 --> 00:22:50,180
+we have the individual 
+
+597
+00:22:50,180 --> 00:22:52,420
+descriptions of the time, the place, 
+
+598
+00:22:52,560 --> 00:22:55,840
+the means or even the reason 
+
+599
+00:22:55,840 --> 00:22:58,560
+or the manner. 
+
+600
+00:22:58,560 --> 00:23:00,180
+So we have different questions that we 
+
+601
+00:23:00,180 --> 00:23:01,840
+can ask and we want to look at 
+
+602
+00:23:01,840 --> 00:23:03,900
+
+603
+00:23:03,900 --> 00:23:06,420
+how we can 
+
+604
+00:23:06,420 --> 00:23:08,040
+enrich the sentence with the help of 
+adverbials in this example sentence 
+
+605
+00:23:08,040 --> 00:23:10,180
+, but realize that these 
+
+606
+00:23:10,180 --> 00:23:13,700
+circumstantial words are not necessary. 
+
+607
+00:23:14,260 --> 00:23:15,600
+In other words, they can also 
+
+608
+00:23:15,600 --> 00:23:17,480
+be omitted. 
+
+609
+00:23:17,480 --> 00:23:20,280
+read the sentence once. Tertia hora in 
+foro romano, 
+
+610
+00:23:20,280 --> 00:23:23,160
+locius cum amicus suo, katana viens 
+
+611
+00:23:23,160 --> 00:23:26,220
+cum gaudio, alies mercatoris salutat. 
+
+612
+00:23:26,320 --> 00:23:28,320
+We translate. At the third hour, 
+
+613
+00:23:28,320 --> 00:23:30,180
+he and his friend from 
+
+614
+00:23:30,180 --> 00:23:32,600
+Katana com locius greet 
+
+615
+00:23:32,600 --> 00:23:34,440
+the other merchants in the Roman Forum 
+with 
+
+616
+00:23:34,440 --> 00:23:36,440
+great joy. So let' 
+
+617
+00:23:36,440 --> 00:23:39,500
+s reduce the sentence to the 
+
+618
+00:23:39,500 --> 00:23:41,200
+necessary sentence elements, that is, 
+
+619
+00:23:41,240 --> 00:23:42,640
+to the main sentence elements, 
+
+620
+00:23:42,640 --> 00:23:45,540
+i.e. we are looking for the predicate, 
+subject and object. 
+
+621
+00:23:45,600 --> 00:23:47,280
+We find that Salutat, third 
+
+622
+00:23:47,280 --> 00:23:49,020
+person singular, is followed by 
+
+623
+00:23:49,020 --> 00:23:51,080
+Locius, which is in the nominative 
+singular 
+
+624
+00:23:51,080 --> 00:23:52,380
+. This means that we have 
+
+625
+00:23:52,380 --> 00:23:53,980
+found our predicate and our subject 
+
+626
+00:23:53,980 --> 00:23:55,840
+and have Salutat 
+
+627
+00:23:55,840 --> 00:23:58,120
+someone great here. So we are looking for 
+
+628
+00:23:58,120 --> 00:23:59,880
+an accusative and have 
+
+629
+00:23:59,880 --> 00:24:02,000
+found the form mercatoris here 
+
+630
+00:24:02,000 --> 00:24:04,260
+and also have aliis here. That means 
+
+631
+00:24:04,260 --> 00:24:07,140
+an attribute, that is an 
+
+632
+00:24:07,140 --> 00:24:09,620
+additional how-word, that is how, 
+
+633
+00:24:09,800 --> 00:24:12,300
+yes, and that is the other merchants, 
+
+634
+00:24:12,300 --> 00:24:13,740
+that is another how-word, that is 
+
+635
+00:24:13,740 --> 00:24:15,960
+an enriching word, so an 
+
+636
+00:24:15,960 --> 00:24:18,560
+additional addition and we 
+
+637
+00:24:18,560 --> 00:24:20,920
+translate, Lokius greets the 
+
+638
+00:24:20,920 --> 00:24:24,200
+other merchants. Now we enrich 
+
+639
+00:24:24,200 --> 00:24:27,380
+the circumstances and add a time 
+
+640
+00:24:27,380 --> 00:24:29,820
+, at the third hour, then a 
+
+641
+00:24:29,820 --> 00:24:32,320
+place on the Forum Romanum. Then 
+
+642
+00:24:32,320 --> 00:24:35,420
+we can add cum gaudio, cum amico 
+
+643
+00:24:35,420 --> 00:24:37,620
+suum, that is, with his friend, 
+
+644
+00:24:37,720 --> 00:24:38,780
+which means we have an 
+
+645
+00:24:38,780 --> 00:24:41,240
+ablativus sociativus here. Then we have 
+
+646
+00:24:41,240 --> 00:24:43,420
+a separativus, katana viens, 
+
+647
+00:24:43,440 --> 00:24:44,740
+so we establish, here 
+
+648
+00:24:44,740 --> 00:24:47,060
+again, a predicate in the form of an 
+
+649
+00:24:47,060 --> 00:24:50,200
+ablativus separativus, that is, 
+
+650
+00:24:50,200 --> 00:24:52,880
+from where. Cum gaudio, then in what 
+
+651
+00:24:52,880 --> 00:24:55,000
+way? That is, cum gaudio in the sense 
+
+652
+00:24:55,000 --> 00:24:58,720
+of modal, how or in what way 
+
+653
+00:24:58,720 --> 00:25:01,000
+does he greet her? In other words, we 
+
+654
+00:25:01,000 --> 00:25:02,940
+realize that we can 
+
+655
+00:25:02,940 --> 00:25:04,800
+then gradually 
+
+656
+00:25:04,800 --> 00:25:06,840
+add the individual circumstantial words in 
+our translation 
+
+657
+00:25:06,840 --> 00:25:08,800
+and thus 
+
+658
+00:25:08,800 --> 00:25:11,020
+construct a good sentence. Let us now turn 
+to the 
+
+659
+00:25:11,020 --> 00:25:12,680
+predicative of the special 
+
+660
+00:25:12,680 --> 00:25:14,900
+adverbial. A predicative is a 
+
+661
+00:25:14,900 --> 00:25:17,460
+special adverbial because it is a 
+
+662
+00:25:17,460 --> 00:25:19,080
+dependent adverbial. We have 
+
+663
+00:25:19,080 --> 00:25:20,580
+just learned that they are independent, 
+
+664
+00:25:20,600 --> 00:25:21,900
+i.e. they form their own 
+
+665
+00:25:21,900 --> 00:25:25,460
+sentence elements. The adverbial, the 
+
+666
+00:25:25,460 --> 00:25:27,760
+predicative, is not, because it depends on 
+
+667
+00:25:27,760 --> 00:25:29,980
+someone. It describes 
+
+668
+00:25:29,980 --> 00:25:31,840
+an equivalent addition with 
+
+669
+00:25:31,840 --> 00:25:33,920
+another nominative. In other words, it 
+
+670
+00:25:33,920 --> 00:25:36,580
+depends on the subject. The 
+
+671
+00:25:36,580 --> 00:25:38,620
+predicative therefore fulfills the 
+following 
+
+672
+00:25:38,620 --> 00:25:41,960
+criteria. The predicative 
+
+673
+00:25:41,960 --> 00:25:44,600
+is another noun in the nominative case. 
+
+674
+00:25:44,600 --> 00:25:46,700
+
+675
+00:25:46,700 --> 00:25:48,540
+
+676
+00:25:48,540 --> 00:25:50,680
+It is formed from a noun or an adjective 
+in competition with the subject , i.e. it 
+
+677
+00:25:50,680 --> 00:25:54,640
+agrees with it in casus numerus and genus. 
+The suffix, 
+
+678
+00:25:54,660 --> 00:25:56,280
+i.e. the predicative, is 
+
+679
+00:25:56,280 --> 00:25:57,840
+translated as als. We see this here as an 
+
+680
+00:25:57,840 --> 00:26:00,060
+example, gladiatoris in Arema primi 
+
+681
+00:26:00,060 --> 00:26:03,300
+intrand. The gladiators 
+
+682
+00:26:03,300 --> 00:26:05,980
+are the first to enter the arena. Caesar 
+dictator 
+
+683
+00:26:05,980 --> 00:26:09,060
+mortus est. Caesar died as dictator 
+
+684
+00:26:09,060 --> 00:26:10,560
+. We note that both 
+
+685
+00:26:10,560 --> 00:26:12,600
+times, here as an adjective and here as a 
+
+686
+00:26:12,600 --> 00:26:15,300
+noun, it competes 
+
+687
+00:26:15,300 --> 00:26:17,340
+with our subject and is 
+
+688
+00:26:17,340 --> 00:26:20,980
+translated as als. So today we have 
+
+689
+00:26:20,980 --> 00:26:22,740
+learned about the main clause kria. 
+
+690
+00:26:22,740 --> 00:26:24,420
+We have learned that they 
+
+691
+00:26:24,420 --> 00:26:26,160
+follow a certain order. 
+
+692
+00:26:26,160 --> 00:26:27,780
+We realized that we should first 
+
+693
+00:26:27,780 --> 00:26:30,100
+
+694
+00:26:30,100 --> 00:26:33,140
+translate the predicate, then the subject, 
+then the object if necessary. 
+
+695
+00:26:33,260 --> 00:26:36,020
+We learned how the sentence clauses 
+
+696
+00:26:36,020 --> 00:26:37,640
+relate to each other. We 
+
+697
+00:26:37,640 --> 00:26:39,080
+have established 
+
+698
+00:26:39,080 --> 00:26:40,860
+that the predicate already 
+
+699
+00:26:40,860 --> 00:26:42,400
+contains a subject , which we 
+
+700
+00:26:42,400 --> 00:26:43,880
+
+701
+00:26:43,880 --> 00:26:45,600
+can infer from the personal ending. We can 
+
+702
+00:26:45,600 --> 00:26:46,960
+infer the subject by 
+
+703
+00:26:46,960 --> 00:26:48,460
+looking at which number the 
+
+704
+00:26:48,460 --> 00:26:50,960
+predicate is in and we can 
+
+705
+00:26:50,960 --> 00:26:53,220
+infer the object by 
+
+706
+00:26:53,220 --> 00:26:57,900
+asking ourselves with which object and 
+whether it 
+
+707
+00:26:57,900 --> 00:27:00,260
+governs with an object at all. 
+
+708
+00:27:00,280 --> 00:27:02,200
+We have clarified this under the 
+
+709
+00:27:02,200 --> 00:27:03,740
+technical term transitivity. 
+
+710
+00:27:03,740 --> 00:27:05,240
+We then 
+
+711
+00:27:05,240 --> 00:27:07,540
+looked at how attributes are 
+
+712
+00:27:07,540 --> 00:27:09,640
+added to other sentence elements. In other 
+words, 
+
+713
+00:27:09,640 --> 00:27:10,640
+they either become part of a 
+
+714
+00:27:10,640 --> 00:27:13,640
+subject or an object. 
+
+715
+00:27:13,640 --> 00:27:17,040
+There are different 
+
+716
+00:27:17,040 --> 00:27:21,840
+types of words that 
+
+717
+00:27:21,840 --> 00:27:23,820
+can form an attribute. We then 
+
+718
+00:27:23,820 --> 00:27:24,980
+saw that 
+
+719
+00:27:24,980 --> 00:27:26,860
+adverbials are circumstantial words that 
+
+720
+00:27:26,860 --> 00:27:29,060
+
+721
+00:27:29,060 --> 00:27:31,260
+construct independent sentence elements 
+and that the 
+
+722
+00:27:31,260 --> 00:27:33,600
+predicative is a special feature 
+
+723
+00:27:33,600 --> 00:27:35,700
+because it combines adverbials and 
+
+724
+00:27:35,700 --> 00:27:37,360
+a dependency. In other words, it is 
+
+725
+00:27:37,360 --> 00:27:39,680
+a mixture of attribute and 
+
+726
+00:27:39,680 --> 00:27:42,440
+adverbial. It is usually in KNG 
+
+727
+00:27:42,440 --> 00:27:44,640
+ congruence with the subject and is then 
+
+728
+00:27:44,640 --> 00:27:47,900
+translated as an addition with als. 
+
+729
+00:27:47,900 --> 00:27:49,280
+Thank you for your attention. 

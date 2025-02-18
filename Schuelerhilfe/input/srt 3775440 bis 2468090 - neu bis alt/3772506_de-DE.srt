@@ -1,0 +1,660 @@
+1
+00:00:04,270 --> 00:00:06,610
+Hallo, mein Name ist Joshua und ich
+
+2
+00:00:06,610 --> 00:00:07,750
+bin Nachhilfelehrer bei der
+
+3
+00:00:07,750 --> 00:00:09,790
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,790 --> 00:00:11,690
+erklären, was es in der Biologie mit
+
+5
+00:00:11,690 --> 00:00:13,390
+der Mendelschen Vererbungsregel auf
+
+6
+00:00:13,390 --> 00:00:15,650
+sich hat. Ergänzend zu diesem Video
+
+7
+00:00:15,650 --> 00:00:16,990
+steht dir in unserem Online
+
+8
+00:00:16,990 --> 00:00:18,470
+-Lerncenter natürlich auch ein Wiki
+
+9
+00:00:18,470 --> 00:00:20,410
+zu diesem Thema zur Verfügung, in dem
+
+10
+00:00:20,410 --> 00:00:21,710
+dir die wichtigsten Begriffe und
+
+11
+00:00:21,710 --> 00:00:25,110
+Grundlagen erklärt werden. Im Alltag
+
+12
+00:00:25,110 --> 00:00:26,610
+kommt man meist nur indirekt mit den
+
+13
+00:00:26,610 --> 00:00:28,110
+Vererbungsregeln in Kontakt. Takt.
+
+14
+00:00:28,210 --> 00:00:30,070
+Bei Tieren und Pflanzen wird von
+
+15
+00:00:30,070 --> 00:00:32,730
+Rassen oder Züchtungen gesprochen und
+
+16
+00:00:32,730 --> 00:00:34,550
+bei uns Menschen wird mit Bemerkungen
+
+17
+00:00:34,550 --> 00:00:36,770
+wie, du bist deiner Mutter ja wie aus
+
+18
+00:00:36,770 --> 00:00:39,090
+dem Gesicht geschnitten oder das hast
+
+19
+00:00:39,090 --> 00:00:41,230
+du von deinem Vater geerbt, mehr oder
+
+20
+00:00:41,230 --> 00:00:42,770
+weniger auf die Mendelsche Regeln
+
+21
+00:00:42,770 --> 00:00:46,590
+angespielt. Bei der Züchtung neuer
+
+22
+00:00:46,590 --> 00:00:48,330
+Tierrassen sind gute Kenntnisse der
+
+23
+00:00:48,330 --> 00:00:50,570
+Mendelsche Regel extrem wichtig, da
+
+24
+00:00:50,570 --> 00:00:52,430
+sie erklären, wie bestimmte Merkmale
+
+25
+00:00:52,430 --> 00:00:55,130
+vererbt werden. Benannt sind die
+
+26
+00:00:55,130 --> 00:00:57,310
+Regeln nach diesem Herrn. Gregor
+
+27
+00:00:57,310 --> 00:01:00,510
+Mendel Mendel war ein Mönch im 19.
+
+28
+00:01:00,710 --> 00:01:02,190
+Jahrhundert und führte ausführliche
+
+29
+00:01:02,190 --> 00:01:04,230
+Experimente zum Vererbungsvorgang von
+
+30
+00:01:04,230 --> 00:01:06,270
+äußeren Merkmalen bei Erbsen durch.
+
+31
+00:01:06,970 --> 00:01:09,070
+Bevor ich jedoch auf die eigentlichen
+
+32
+00:01:09,070 --> 00:01:10,750
+Regeln eingehe, hier noch einige
+
+33
+00:01:10,750 --> 00:01:15,790
+wichtige Begriffe. 1. Gen Das Gen ist
+
+34
+00:01:15,790 --> 00:01:17,550
+die für die Merkmalsausprägung
+
+35
+00:01:17,550 --> 00:01:19,970
+verantwortliche Erbanlage. Bei allen
+
+36
+00:01:19,970 --> 00:01:21,670
+Lebewesen, die über einen doppelten
+
+37
+00:01:21,670 --> 00:01:23,250
+Chromosomsatz verfügen, liegen auch
+
+38
+00:01:23,250 --> 00:01:25,330
+alle Gene in zweifacher Ausführung
+
+39
+00:01:25,330 --> 00:01:28,130
+vor. Alle Gene eines Organismus nennt
+
+40
+00:01:28,130 --> 00:01:32,690
+man Genom. Zweitens, Allee. Dies ist
+
+41
+00:01:32,690 --> 00:01:34,550
+die Genvariante, die die Ausprägung
+
+42
+00:01:34,550 --> 00:01:36,490
+eines Merkmals bestimmt. Ein
+
+43
+00:01:36,490 --> 00:01:38,430
+diploider Organismus hat immer zwei
+
+44
+00:01:38,430 --> 00:01:41,110
+Gene für einen Merkmal. Eines von der
+
+45
+00:01:41,110 --> 00:01:44,310
+Mutter und eines von dem Vater. Die
+
+46
+00:01:44,310 --> 00:01:46,150
+beiden Formen können bezüglich eines
+
+47
+00:01:46,150 --> 00:01:48,390
+Merkmals entweder die gleiche oder
+
+48
+00:01:48,390 --> 00:01:49,850
+aber unterschiedliche Informationen
+
+49
+00:01:49,850 --> 00:01:53,750
+tragen, z.B. schwarze und braune
+
+50
+00:01:53,750 --> 00:01:56,570
+Fellfarbe. Die Information ist dann
+
+51
+00:01:56,570 --> 00:01:58,010
+auf einer bestimmten Stelle des
+
+52
+00:01:58,010 --> 00:02:01,970
+Chromosoms, Genlocus, also der
+
+53
+00:02:01,970 --> 00:02:06,470
+Genort, gespeichert. 3. Homozygot.
+
+54
+00:02:06,910 --> 00:02:09,050
+Dies bedeutet, dass beide Allele des
+
+55
+00:02:09,050 --> 00:02:11,830
+Genotyps gleich sind. Das nennt man
+
+56
+00:02:11,830 --> 00:02:15,370
+auch auch reinerbig. Heterozygot,
+
+57
+00:02:15,570 --> 00:02:18,150
+mischerbig. Die Allele der Genotypen
+
+58
+00:02:18,150 --> 00:02:22,330
+unterscheiden sich. Dominant, das
+
+59
+00:02:22,330 --> 00:02:23,950
+Merkmal dieses Allels setzt sich
+
+60
+00:02:23,950 --> 00:02:25,090
+durch. Es ist also
+
+61
+00:02:25,090 --> 00:02:27,190
+merkmalsbestimmend. Dies wird durch
+
+62
+00:02:27,190 --> 00:02:28,870
+einen Großbuchstaben dargestellt.
+
+63
+00:02:30,010 --> 00:02:32,430
+Rezessiv, das Merkmal dieses Allels
+
+64
+00:02:32,430 --> 00:02:33,970
+kann sich nicht durchsetzen, wenn es
+
+65
+00:02:33,970 --> 00:02:35,850
+gemeinsam mit einem dominanten Allel
+
+66
+00:02:35,850 --> 00:02:37,370
+auftritt. Man nennt es auch
+
+67
+00:02:37,370 --> 00:02:39,810
+merkmalsunterlegen. Dies wird durch
+
+68
+00:02:39,810 --> 00:02:41,510
+einen kleinen Buchstaben dargestellt.
+
+69
+00:02:42,230 --> 00:02:44,390
+Die Elterngeneration oder auch
+
+70
+00:02:44,390 --> 00:02:47,010
+Parentalgeneration trägt das Kürzel
+
+71
+00:02:47,010 --> 00:02:49,870
+P. Dies sind die Ausgangsorganismen.
+
+72
+00:02:50,010 --> 00:02:52,270
+Die Tochtergeneration oder auch
+
+73
+00:02:52,270 --> 00:02:54,710
+Filialgeneration trägt das Kürzel F.
+
+74
+00:02:55,350 --> 00:02:58,190
+Dies sind die Nachkommen. Wichtig ist
+
+75
+00:02:58,190 --> 00:02:59,630
+auch die Unterscheidung zwischen den
+
+76
+00:02:59,630 --> 00:03:01,590
+Begriffen Genotyp und Phänotyp.
+
+77
+00:03:02,650 --> 00:03:04,210
+Genotyp bezeichnet die
+
+78
+00:03:04,210 --> 00:03:06,990
+Allelkombination, Phänotyp die äußere
+
+79
+00:03:06,990 --> 00:03:08,550
+Erscheinungs- Form eines Organismus.
+
+80
+00:03:08,930 --> 00:03:10,690
+Zum Beispiel haben wir dann ein
+
+81
+00:03:10,690 --> 00:03:13,710
+großes A, ein kleines A, das ergibt
+
+82
+00:03:13,710 --> 00:03:16,130
+braune Augen, ein großes A und noch
+
+83
+00:03:16,130 --> 00:03:18,190
+ein großes A, das ergibt auch wieder
+
+84
+00:03:18,190 --> 00:03:20,910
+braune Augen, aber ein kleines A und
+
+85
+00:03:20,910 --> 00:03:22,470
+noch ein kleines A ergibt blaue
+
+86
+00:03:22,470 --> 00:03:24,470
+Augen. Jetzt, da die begrifflichen
+
+87
+00:03:24,470 --> 00:03:26,070
+Grundlagen geklärt sind, kommen wir
+
+88
+00:03:26,070 --> 00:03:28,170
+zur ersten Mendelschen Regel, der
+
+89
+00:03:28,170 --> 00:03:31,030
+Uniformitätsregel. Sie sagt aus, dass
+
+90
+00:03:31,030 --> 00:03:32,750
+bei der Kreuzung zweier Organismen
+
+91
+00:03:32,750 --> 00:03:34,750
+mit unterschiedlich reinerbigen, also
+
+92
+00:03:34,750 --> 00:03:36,570
+homozygoten Merkmalen, alle
+
+93
+00:03:36,570 --> 00:03:37,610
+Organismen der ersten
+
+94
+00:03:37,610 --> 00:03:40,910
+Tochtergeneration F1 gleich, also
+
+95
+00:03:40,910 --> 00:03:43,810
+uniform, aussehen. Auch dann, wenn
+
+96
+00:03:43,810 --> 00:03:46,270
+diese nun mischerbig sind. Zur
+
+97
+00:03:46,270 --> 00:03:47,710
+Verdeutlichung siehst du hier ein
+
+98
+00:03:47,710 --> 00:03:50,190
+Kombinationsquadrat. Ein Elternteil
+
+99
+00:03:50,190 --> 00:03:52,730
+besitzt die Gene großes B, großes B
+
+100
+00:03:52,730 --> 00:03:55,790
+und das andere die Gene kleines G und
+
+101
+00:03:55,790 --> 00:03:58,570
+kleines G. Jeder Elternteil vererbt
+
+102
+00:03:58,570 --> 00:04:00,930
+immer nur ein Gen. Es entsteht also
+
+103
+00:04:00,930 --> 00:04:02,750
+immer die Kombination großes B,
+
+104
+00:04:02,950 --> 00:04:06,050
+kleines G. Hier steht B für Blau und
+
+105
+00:04:06,050 --> 00:04:09,250
+G für Grün. Die blauen Allele sind
+
+106
+00:04:09,250 --> 00:04:11,310
+dominant und die grünen rezessiv.
+
+107
+00:04:11,450 --> 00:04:13,190
+Damit sind alle Organismen der
+
+108
+00:04:13,190 --> 00:04:15,830
+Tochtergeneration blau. Die zweite
+
+109
+00:04:15,830 --> 00:04:18,130
+Mendelsche Regel, die Spaltungsregel,
+
+110
+00:04:18,130 --> 00:04:19,770
+befasst sich damit, was passiert,
+
+111
+00:04:19,810 --> 00:04:21,050
+wenn man Mitglieder der ersten
+
+112
+00:04:21,050 --> 00:04:23,590
+Tochtergeneration, also der F1
+
+113
+00:04:23,590 --> 00:04:25,910
+-Generation, kreuzt. Sie heißt
+
+114
+00:04:25,910 --> 00:04:28,010
+Spaltungsregel, weil nun wieder beide
+
+115
+00:04:28,010 --> 00:04:29,490
+Merkmale der Elterngeneration
+
+116
+00:04:29,490 --> 00:04:33,010
+auftreten können. Transkription. Hier
+
+117
+00:04:33,010 --> 00:04:35,010
+ist wieder ein Kombinationsquadrat.
+
+118
+00:04:35,750 --> 00:04:37,590
+Diesmal wird jeweils entweder ein
+
+119
+00:04:37,590 --> 00:04:40,270
+großes B oder ein kleines G vererbt.
+
+120
+00:04:40,370 --> 00:04:42,150
+Es bilden sich die Kombinationen
+
+121
+00:04:42,150 --> 00:04:46,050
+großes B, großes B, großes B, kleines
+
+122
+00:04:46,050 --> 00:04:50,030
+G und großes B, kleines G sowie
+
+123
+00:04:50,030 --> 00:04:53,650
+kleines G, kleines G. Das optische
+
+124
+00:04:53,650 --> 00:04:55,570
+Resultat zeigt, dass es jetzt sowohl
+
+125
+00:04:55,570 --> 00:04:57,390
+blaue als auch grüne Organismen gibt.
+
+126
+00:04:57,570 --> 00:04:59,810
+Das Verhältnis zwischen blau und grün
+
+127
+00:04:59,810 --> 00:05:02,670
+ist 3 zu 1. Die dritte Mendelsche
+
+128
+00:05:02,670 --> 00:05:04,550
+Regel ist die Unabhängigkeitsregel,
+
+129
+00:05:04,570 --> 00:05:06,670
+auch Neukombinationsregel genannt.
+
+130
+00:05:07,030 --> 00:05:08,610
+Bei dieser Regel werden gleichzeitig
+
+131
+00:05:08,610 --> 00:05:11,170
+zwei voneinander unabhängige Merkmale
+
+132
+00:05:11,170 --> 00:05:13,570
+betrachtet. Die Elterngeneration ist
+
+133
+00:05:13,570 --> 00:05:15,770
+wieder reinerbig. In der zweiten
+
+134
+00:05:15,770 --> 00:05:17,670
+Generation treten dann im Ergebnis
+
+135
+00:05:17,670 --> 00:05:19,190
+jedoch Individuen mit neuen
+
+136
+00:05:19,190 --> 00:05:21,150
+Kombinationen auf. Beim
+
+137
+00:05:21,150 --> 00:05:23,050
+Kombinationsquadrat sieht man, dass
+
+138
+00:05:23,050 --> 00:05:25,810
+jeweils ein großes R bzw. ein kleines
+
+139
+00:05:25,810 --> 00:05:29,030
+Q hinzugefügt wurde. R ist dominant
+
+140
+00:05:29,030 --> 00:05:32,310
+und steht für rund, Q ist rezessiv
+
+141
+00:05:32,310 --> 00:05:35,310
+und steht für quadratisch. Alle
+
+142
+00:05:35,310 --> 00:05:36,370
+Organismen der ersten
+
+143
+00:05:36,370 --> 00:05:38,470
+Tochtergeneration sind sowohl blau
+
+144
+00:05:38,470 --> 00:05:40,230
+als auch rund. Kreuzt man nun
+
+145
+00:05:40,230 --> 00:05:41,970
+Mitglieder dieser Generation, so
+
+146
+00:05:41,970 --> 00:05:44,430
+erhält man folgendes Kombination. Es
+
+147
+00:05:44,430 --> 00:05:46,150
+bilden sich neun verschiedene
+
+148
+00:05:46,150 --> 00:05:48,430
+Kombinationen. Bei der zweiten
+
+149
+00:05:48,430 --> 00:05:50,690
+Tochtergeneration gibt es jetzt vier
+
+150
+00:05:50,690 --> 00:05:54,910
+optische Typen. Blau-rund, Grün-rund,
+
+151
+00:05:54,930 --> 00:05:57,350
+Blau-quadratisch und Grün
+
+152
+00:05:57,350 --> 00:05:59,610
+-quadratisch. Sie treten in den
+
+153
+00:05:59,610 --> 00:06:02,910
+Verhältnissen 9 zu 3 zu 3 zu 1
+
+154
+00:06:02,910 --> 00:06:05,170
+zueinander auf. Dieses Verhältnis
+
+155
+00:06:05,170 --> 00:06:07,030
+gilt für das phänotypische Auftreten.
+
+156
+00:06:07,250 --> 00:06:09,210
+Im Genotyp unterscheidet sich das
+
+157
+00:06:09,210 --> 00:06:10,270
+Verhältnis dann noch einmal
+
+158
+00:06:10,270 --> 00:06:12,550
+grundlegend. Zum Schluss noch einmal.
+
+159
+00:06:12,570 --> 00:06:14,550
+einmal alle drei Regeln im Überblick.
+
+160
+00:06:15,570 --> 00:06:17,870
+Erstens die Uniformitätsregel,
+
+161
+00:06:17,890 --> 00:06:22,050
+zweitens Spaltungsregel und drittens
+
+162
+00:06:22,050 --> 00:06:25,430
+die Unabhängigkeitsregel. Ich hoffe,
+
+163
+00:06:25,510 --> 00:06:26,990
+dass ich dir helfen konnte, die
+
+164
+00:06:26,990 --> 00:06:28,430
+Mendelsche Vererbungsregeln zu
+
+165
+00:06:28,430 --> 00:06:30,210
+verstehen. Bis zum nächsten Mal.
+

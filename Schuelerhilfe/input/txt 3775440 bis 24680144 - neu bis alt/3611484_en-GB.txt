@@ -1,0 +1,370 @@
+﻿1
+00:00:04,300 --> 00:00:06,620
+Hello, my name is Joshua and today 
+
+2
+00:00:06,620 --> 00:00:08,060
+I would like to explain to you what 
+
+3
+00:00:08,060 --> 00:00:09,580
+plant 
+
+4
+00:00:09,580 --> 00:00:11,040
+photosynthesis is all about in biology . 
+
+5
+00:00:11,660 --> 00:00:13,240
+Additional information, for 
+
+6
+00:00:13,240 --> 00:00:14,700
+example a basic wiki 
+
+7
+00:00:14,820 --> 00:00:16,580
+, is of course 
+
+8
+00:00:16,580 --> 00:00:18,120
+
+9
+00:00:18,120 --> 00:00:20,420
+available to you as usual in our online 
+learning center. 
+
+10
+00:00:20,420 --> 00:00:21,660
+We constantly hear terms such as 
+
+11
+00:00:21,660 --> 00:00:24,360
+global warming, climate policy and CO2 
+
+12
+00:00:24,360 --> 00:00:26,220
+ neutrality in the news .  Too much 
+
+13
+00:00:26,220 --> 00:00:28,700
+carbon dioxide, i.e. CO2, is 
+
+14
+00:00:28,700 --> 00:00:30,320
+bad for our climate and therefore 
+
+15
+00:00:30,320 --> 00:00:32,400
+also for us, which is why a lot is 
+currently 
+
+16
+00:00:32,400 --> 00:00:34,800
+being done to 
+
+17
+00:00:34,800 --> 00:00:36,560
+reduce the accumulation in our atmosphere. 
+
+18
+00:00:36,840 --> 00:00:39,060
+One popular option here is to 
+
+19
+00:00:39,060 --> 00:00:41,120
+plant trees, as these 
+
+20
+00:00:41,120 --> 00:00:42,740
+
+21
+00:00:42,740 --> 00:00:45,920
+convert it into other substances in the 
+course of photosynthesis . The term 
+
+22
+00:00:45,920 --> 00:00:47,600
+photosynthesis therefore describes a 
+
+23
+00:00:47,600 --> 00:00:49,140
+biochemical process in which 
+
+24
+00:00:49,140 --> 00:00:51,280
+plants use light to 
+
+25
+00:00:51,280 --> 00:00:53,140
+
+26
+00:00:53,140 --> 00:00:56,260
+produce nutrients by converting carbon 
+dioxide . 
+
+27
+00:00:56,260 --> 00:00:57,880
+This conversion process is carried out in 
+the 
+
+28
+00:00:57,880 --> 00:01:00,100
+chloroplasts. Chloroplasts are 
+
+29
+00:01:00,100 --> 00:01:01,720
+cell organelles that 
+
+30
+00:01:01,720 --> 00:01:03,460
+
+31
+00:01:03,460 --> 00:01:06,320
+look green due to the pigment chlorophyll 
+. Roughly speaking, 
+
+32
+00:01:06,320 --> 00:01:08,340
+the following reaction takes place in the 
+chloroplasts 
+
+33
+00:01:08,340 --> 00:01:11,420
+. Carbon dioxide and water 
+
+34
+00:01:11,420 --> 00:01:14,640
+are 
+
+35
+00:01:14,640 --> 00:01:17,720
+converted to sugar and oxygen with the 
+help of light energy . 
+
+36
+00:01:17,900 --> 00:01:19,700
+
+37
+00:01:19,700 --> 00:01:21,480
+However, the actual process consists of 
+two separate 
+
+38
+00:01:21,480 --> 00:01:24,980
+partial reactions. Firstly, the 
+
+39
+00:01:24,980 --> 00:01:26,840
+light reaction, also 
+
+40
+00:01:27,320 --> 00:01:31,680
+known as the primary or photoreaction, and 
+secondly, 
+
+41
+00:01:31,680 --> 00:01:34,320
+the dark reaction, also 
+
+42
+00:01:34,320 --> 00:01:37,120
+known as the secondary or synthesis 
+reaction. 
+
+43
+00:01:37,240 --> 00:01:38,520
+Let us now look at the 
+
+44
+00:01:38,520 --> 00:01:42,000
+light reaction. Here, water is 
+
+45
+00:01:42,000 --> 00:01:47,140
+
+46
+00:01:47,140 --> 00:01:49,520
+split by light energy into oxygen, protons 
+and electrons. The 
+
+47
+00:01:49,520 --> 00:01:52,620
+oxygen is released and the 
+
+48
+00:01:52,620 --> 00:01:54,340
+resulting protons and electrons 
+
+49
+00:01:54,340 --> 00:01:58,580
+are chemically 
+
+50
+00:01:58,580 --> 00:02:02,310
+bound in the coenzyme NADP plus. The dark 
+reaction 
+
+51
+00:02:02,310 --> 00:02:05,150
+corresponds to the lime. Wind cycle. Here 
+
+52
+00:02:05,150 --> 00:02:06,770
+is a very simplified version. 
+
+53
+00:02:07,470 --> 00:02:12,450
+In addition to CO2 and NADPH-H+ 
+
+54
+00:02:12,450 --> 00:02:14,690
+, ATP is also 
+
+55
+00:02:14,690 --> 00:02:17,290
+required as an energy supplier. 
+
+56
+00:02:17,290 --> 00:02:18,770
+A reaction equation can also be 
+
+57
+00:02:18,770 --> 00:02:24,070
+drawn up for the dark reaction. It is 6CO2 
+plus 24H 
+
+58
+00:02:24,070 --> 00:02:29,450
++, plus 24E-. The protons and 
+
+59
+00:02:29,450 --> 00:02:32,450
+electrons 
+
+60
+00:02:32,450 --> 00:02:36,050
+bound in 12 NaDPH-H plus react to form 
+sugar 
+
+61
+00:02:36,050 --> 00:02:39,330
+and 6 H2O. If both 
+
+62
+00:02:39,330 --> 00:02:41,050
+partial reactions are combined in a common 
+
+63
+00:02:41,050 --> 00:02:42,790
+reaction equation 
+
+64
+00:02:42,790 --> 00:02:46,970
+, then this is 6 CO2 reacts with 12 
+
+65
+00:02:46,970 --> 00:02:50,770
+H2O excited by light energy to form 
+
+66
+00:02:50,770 --> 00:02:55,270
+sugar and 6 H2O. Here is 
+
+67
+00:02:55,270 --> 00:02:56,990
+an overview of the most important points. 
+
+68
+00:02:57,610 --> 00:03:00,510
+1. plant photosynthesis 
+
+69
+00:03:00,510 --> 00:03:02,510
+generates 
+
+70
+00:03:02,510 --> 00:03:04,770
+sugar, i.e. nutrients and 
+
+71
+00:03:04,770 --> 00:03:08,070
+oxygen , from carbon dioxide and water. 2. 
+it takes place in the 
+
+72
+00:03:08,070 --> 00:03:09,830
+chloroplasts and requires 
+
+73
+00:03:09,830 --> 00:03:11,650
+light energy in order 
+
+74
+00:03:11,650 --> 00:03:14,790
+to run. 3. it can be divided into two 
+
+75
+00:03:14,790 --> 00:03:17,510
+sub-reactions. 
+
+76
+00:03:17,510 --> 00:03:19,450
+The light reaction, in which water 
+
+77
+00:03:19,450 --> 00:03:21,330
+
+78
+00:03:21,330 --> 00:03:22,850
+is converted into oxygen, protons and 
+electrons ? The 
+
+79
+00:03:22,850 --> 00:03:24,850
+dark reaction, in which sugar is produced 
+from 
+
+80
+00:03:24,850 --> 00:03:27,330
+CO2 and the protons and 
+
+81
+00:03:27,330 --> 00:03:29,310
+electrons obtained. 
+
+82
+00:03:29,310 --> 00:03:30,990
+Thank you for your attention 
+
+83
+00:03:30,990 --> 00:03:32,230
+and I hope to see you 
+
+84
+00:03:32,230 --> 00:03:34,130
+again next time. If 
+
+85
+00:03:34,130 --> 00:03:35,870
+you have any further questions on this or 
+
+86
+00:03:35,870 --> 00:03:37,830
+other topics, please feel free to use 
+
+87
+00:03:37,830 --> 00:03:39,170
+the content in our online 
+
+88
+00:03:39,170 --> 00:03:40,770
+ learning center or contact your 
+
+89
+00:03:40,770 --> 00:03:42,650
+local student help center. See you 
+
+90
+00:03:42,650 --> 00:03:43,170
+next time! 

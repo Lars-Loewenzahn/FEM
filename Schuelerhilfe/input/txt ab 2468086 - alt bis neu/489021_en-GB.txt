@@ -1,0 +1,256 @@
+﻿1
+00:00:00,660 --> 00:00:01,980
+Hello, I'm delighted that you've 
+
+2
+00:00:01,980 --> 00:00:03,580
+joined me again today. 
+
+3
+00:00:03,580 --> 00:00:04,900
+In this video, I would like to explain to 
+you how 
+
+4
+00:00:04,900 --> 00:00:07,460
+to convert proportions, i.e. fractions, 
+into 
+
+5
+00:00:07,460 --> 00:00:09,780
+percentages. To 
+
+6
+00:00:09,780 --> 00:00:11,120
+explain the whole thing better, I have 
+
+7
+00:00:11,120 --> 00:00:13,540
+brought along a number of examples. I 
+
+8
+00:00:13,540 --> 00:00:14,980
+have a table here with four 
+
+9
+00:00:14,980 --> 00:00:16,980
+different fractions and it' 
+
+10
+00:00:16,980 --> 00:00:19,020
+s best to start with the fraction 1.5. 
+
+11
+00:00:19,800 --> 00:00:22,000
+Step 1 is always the conversion to 
+
+12
+00:00:22,000 --> 00:00:27,020
+a decimal number. 1.5 corresponds to 0.5. 
+
+13
+00:00:27,020 --> 00:00:30,980
+Since percent means 100, 
+
+14
+00:00:30,980 --> 00:00:34,020
+we have to multiply 0.5 by 100 to 
+
+15
+00:00:34,020 --> 00:00:36,300
+get a percentage. 
+
+16
+00:00:36,300 --> 00:00:37,460
+Alternatively, you can 
+
+17
+00:00:37,460 --> 00:00:39,060
+remember to move the decimal point two 
+
+18
+00:00:39,060 --> 00:00:41,500
+places to the right. This 
+
+19
+00:00:41,500 --> 00:00:43,780
+then looks like this. We take 
+
+20
+00:00:43,780 --> 00:00:45,760
+the decimal point and move it one or two 
+
+21
+00:00:45,760 --> 00:00:48,620
+places to the right. The resulting number 
+
+22
+00:00:48,620 --> 00:00:51,620
+is 50 and that is 
+
+23
+00:00:51,620 --> 00:00:54,680
+also our percentage, i.e. 50%. 
+
+24
+00:00:54,680 --> 00:00:57,440
+We 
+
+25
+00:00:57,440 --> 00:01:02,040
+proceed in the same way for a third. One 
+third corresponds to 0.333 
+
+26
+00:01:02,040 --> 00:01:05,420
+periods, whereby the period dash 
+
+27
+00:01:05,420 --> 00:01:07,860
+means that 
+
+28
+00:01:07,860 --> 00:01:09,720
+
+29
+00:01:09,720 --> 00:01:12,520
+there are an infinite number of further 
+threes after the last one. We move our 
+
+30
+00:01:12,520 --> 00:01:15,060
+decimal point two places to the right 
+again , 1, 
+
+31
+00:01:15,200 --> 00:01:18,260
+2, and the resulting number 
+
+32
+00:01:18,260 --> 00:01:23,660
+is 33.3 periods per centimeter. 
+
+33
+00:01:24,740 --> 00:01:27,240
+We 
+
+34
+00:01:27,240 --> 00:01:32,240
+proceed in the same way for the 1 quarter. 
+1 quarter corresponds to 0.25 and 
+
+35
+00:01:32,240 --> 00:01:33,740
+we move the decimal point two 
+
+36
+00:01:33,740 --> 00:01:35,220
+places 
+
+37
+00:01:38,420 --> 00:01:43,420
+to get our percentage of 25%. 
+
+38
+00:01:45,240 --> 00:01:47,340
+
+39
+00:01:47,340 --> 00:01:49,140
+We 
+
+40
+00:01:49,140 --> 00:01:51,880
+proceed in the same way for an eighth, a 
+much smaller fraction . One eighth 
+corresponds to the 
+
+41
+00:01:51,880 --> 00:01:56,880
+decimal number 0.125 and after we 
+
+42
+00:01:56,880 --> 00:01:59,140
+have moved the decimal point, we 
+
+43
+00:01:59,140 --> 00:02:07,060
+get the percentage, namely 12.5%. 
+
+44
+00:02:07,060 --> 00:02:08,860
+A possible task at school could 
+
+45
+00:02:08,860 --> 00:02:12,780
+be to find out how many parts 
+
+46
+00:02:12,780 --> 00:02:15,260
+of the cake are marked as a percentage. 
+
+47
+00:02:15,260 --> 00:02:16,520
+Here we have a cake with eight 
+
+48
+00:02:16,520 --> 00:02:18,600
+pieces, so one piece equals. 1 
+
+49
+00:02:18,600 --> 00:02:20,760
+eighth and now want to know what 
+
+50
+00:02:20,760 --> 00:02:22,800
+percentage of the cake is marked in color 
+
+51
+00:02:22,800 --> 00:02:25,200
+. 
+
+52
+00:02:25,200 --> 00:02:29,000
+A total of three pieces are marked , i.e. 
+3 times 1 
+
+53
+00:02:29,000 --> 00:02:32,560
+eighth. In our table, we have 
+
+54
+00:02:32,560 --> 00:02:36,200
+already calculated that 1 eighth 
+
+55
+00:02:36,200 --> 00:02:41,200
+corresponds to exactly 12.5 percent. We 
+
+56
+00:02:41,200 --> 00:02:47,220
+can therefore also write 3 times 12. 
+
+57
+00:02:47,220 --> 00:02:55,160
+5% and the result is 37.5%. 
+
+58
+00:02:55,160 --> 00:02:56,860
+So by converting 
+
+59
+00:02:56,860 --> 00:02:59,540
+proportions into percentages , we have 
+determined that 
+
+60
+00:02:59,540 --> 00:03:03,960
+exactly 37.5% of our pie 
+
+61
+00:03:03,960 --> 00:03:07,520
+is color-coded . Thank you very much and 
+see 
+
+62
+00:03:07,520 --> 00:03:08,160
+you next time. 

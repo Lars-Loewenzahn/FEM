@@ -1,0 +1,348 @@
+1
+00:00:00,460 --> 00:00:01,720
+Hallo, ich freue mich, dass du heute
+
+2
+00:00:01,720 --> 00:00:03,260
+wieder mit dabei bist. In diesem
+
+3
+00:00:03,260 --> 00:00:04,480
+Video möchte ich dir gerne erklären,
+
+4
+00:00:04,660 --> 00:00:06,980
+wie man die Normale in einem Punkt an
+
+5
+00:00:06,980 --> 00:00:09,280
+einer Funktion erstellt. In dem Video
+
+6
+00:00:09,280 --> 00:00:10,740
+davor habe ich schon erklärt, wie man
+
+7
+00:00:10,740 --> 00:00:12,200
+eine Tangente an einer Funktion
+
+8
+00:00:12,200 --> 00:00:14,100
+erstellt und werde etwas auf die
+
+9
+00:00:14,100 --> 00:00:15,860
+Ergebnisse des vorigen Videos
+
+10
+00:00:15,860 --> 00:00:18,280
+zurückgreifen. Das bedeutet, falls es
+
+11
+00:00:18,280 --> 00:00:19,720
+dir hier etwas zu schnell geht, kann
+
+12
+00:00:19,720 --> 00:00:21,080
+es hilfreich sein, sich das Video
+
+13
+00:00:21,080 --> 00:00:23,100
+davor anzusehen. Um alles etwas
+
+14
+00:00:23,100 --> 00:00:24,740
+besser zu erklären, habe ich schon
+
+15
+00:00:24,740 --> 00:00:26,440
+mein Koordinatensystem vorbereitet.
+
+16
+00:00:26,600 --> 00:00:29,040
+In diesem Koordinatensystem haben wir
+
+17
+00:00:29,040 --> 00:00:31,980
+die Funktion fx gegeben. An diese
+
+18
+00:00:31,980 --> 00:00:34,200
+Funktion haben wir die Tangente t in
+
+19
+00:00:34,200 --> 00:00:36,640
+dem Video davor erstellt, in dem
+
+20
+00:00:36,640 --> 00:00:39,800
+Punkt p. Und auf dieser möchten wir
+
+21
+00:00:39,800 --> 00:00:42,800
+jetzt die normale n erstellen. Die
+
+22
+00:00:42,800 --> 00:00:45,920
+normale steht genau senkrecht auf der
+
+23
+00:00:45,920 --> 00:00:49,580
+Tangente. Was wir aus dem letzten
+
+24
+00:00:49,580 --> 00:00:51,200
+Video an Ergebnissen mit... nehmen.
+
+25
+00:00:51,600 --> 00:00:55,440
+Unsere Funktion hieß x hoch 3 minus
+
+26
+00:00:55,440 --> 00:00:58,520
+3x Quadrat plus x minus 2 und der
+
+27
+00:00:58,520 --> 00:01:00,120
+Punkt, an dem wir die Tangente
+
+28
+00:01:00,120 --> 00:01:04,980
+angelegt haben, hieß p1 und minus 3.
+
+29
+00:01:05,340 --> 00:01:08,080
+Das Ergebnis war im letzten Video der
+
+30
+00:01:08,080 --> 00:01:12,120
+Tangente minus 2x minus 1. Das
+
+31
+00:01:12,120 --> 00:01:13,820
+bedeutet, der Anstieg der Tangente
+
+32
+00:01:13,820 --> 00:01:18,780
+war mt ist gleich minus 2. Dieses
+
+33
+00:01:18,780 --> 00:01:20,240
+Zwischenergebnis ist für das
+
+34
+00:01:20,240 --> 00:01:21,820
+Erstellen der Normalen sehr wichtig.
+
+35
+00:01:24,480 --> 00:01:26,240
+Beginnen wir mit dem Erstellen der
+
+36
+00:01:26,240 --> 00:01:29,100
+normalen Gleichung. Genau wie die
+
+37
+00:01:29,100 --> 00:01:31,620
+Tangente ist die Normale eine lineare
+
+38
+00:01:31,620 --> 00:01:33,680
+Funktion und besitzt die allgemeine
+
+39
+00:01:33,680 --> 00:01:38,140
+Form y ist gleich m mal x plus n. Um
+
+40
+00:01:38,140 --> 00:01:39,880
+das m der Normalen zu bestimmen,
+
+41
+00:01:39,900 --> 00:01:42,580
+können wir diese Formel verwenden. m
+
+42
+00:01:42,580 --> 00:01:45,900
+Normale ist gleich der negative
+
+43
+00:01:45,900 --> 00:01:48,580
+Kehrwert des Anstiegs der Tangente.
+
+44
+00:01:49,160 --> 00:01:53,480
+Wir setzen also für mt das Ergebnis
+
+45
+00:01:53,480 --> 00:01:56,760
+unserer letzten Rechnung ein, also mt
+
+46
+00:01:56,760 --> 00:02:01,340
+ist gleich minus 2. Das Ergebnis ist
+
+47
+00:02:01,340 --> 00:02:03,620
+der Anstieg unserer normalen. Die
+
+48
+00:02:04,900 --> 00:02:09,200
+Rechnung lautet also mn ist gleich
+
+49
+00:02:09,200 --> 00:02:13,180
+minus 1 durch minus 2 und das
+
+50
+00:02:13,180 --> 00:02:19,820
+bedeutet mn ist gleich 1,5 oder auch
+
+51
+00:02:19,820 --> 00:02:24,060
+0,5. Was uns jetzt noch für unsere
+
+52
+00:02:24,060 --> 00:02:26,420
+komplette Gleichung fehlt, ist das n.
+
+53
+00:02:27,120 --> 00:02:28,600
+Dafür habe ich noch mal alle
+
+54
+00:02:28,600 --> 00:02:30,180
+wichtigen Hinweise aufgeschrieben.
+
+55
+00:02:30,340 --> 00:02:33,500
+Das ist zum einen der Punkt, in dem
+
+56
+00:02:33,500 --> 00:02:36,740
+unsere Normale anliegt, der Anstieg
+
+57
+00:02:36,740 --> 00:02:38,920
+unserer Normalen und die allgemeine
+
+58
+00:02:38,920 --> 00:02:40,440
+Funktionsgleichung einer linearen
+
+59
+00:02:40,440 --> 00:02:43,260
+Funktion. Für das m setze ich das
+
+60
+00:02:43,260 --> 00:02:45,760
+Ergebnis ein, für den Anstieg der
+
+61
+00:02:45,760 --> 00:02:50,140
+Normalen und für x und y setze ich
+
+62
+00:02:50,140 --> 00:02:52,440
+die Werte meines Punktes ein. Die
+
+63
+00:02:52,440 --> 00:02:55,600
+Gleichung heißt dann minus 3 ist
+
+64
+00:02:55,600 --> 00:03:01,960
+gleich 0,5 5 mal 1 plus n. Jetzt löse
+
+65
+00:03:01,960 --> 00:03:04,060
+ich die Gleichung nach n auf. Ich
+
+66
+00:03:10,780 --> 00:03:12,920
+rechne auf beiden Seiten minus 0,5
+
+67
+00:03:12,920 --> 00:03:17,300
+und erhalte so minus 3,5 ist gleich
+
+68
+00:03:17,300 --> 00:03:21,680
+n. Jetzt kann ich eine komplette
+
+69
+00:03:21,680 --> 00:03:24,020
+Funktionsgleichung aufstellen, die
+
+70
+00:03:24,020 --> 00:03:25,660
+die Gleichung meiner Tangenten
+
+71
+00:03:25,660 --> 00:03:30,860
+entspricht. Nämlich n für Tangente in
+
+72
+00:03:30,860 --> 00:03:35,980
+Abhängigkeit von x ist gleich 0,5. 5x
+
+73
+00:03:35,980 --> 00:03:40,140
+minus 3,5. Fassen wir also nochmal
+
+74
+00:03:40,140 --> 00:03:42,420
+zusammen. Möchtest du die Normale in
+
+75
+00:03:42,420 --> 00:03:44,740
+einem Punkt erstellen, musst du als
+
+76
+00:03:44,740 --> 00:03:46,320
+erstes den Anstieg der Normalen
+
+77
+00:03:46,320 --> 00:03:48,180
+bestimmen. Der Anstieg ist der
+
+78
+00:03:48,180 --> 00:03:50,660
+negative Kehrwert von dem Anstieg der
+
+79
+00:03:50,660 --> 00:03:53,020
+Funktion. Danach kannst du den Punkt
+
+80
+00:03:53,020 --> 00:03:54,700
+und den Anstieg in die allgemeine
+
+81
+00:03:54,700 --> 00:03:56,280
+Funktionsgleichung einer linearen
+
+82
+00:03:56,280 --> 00:03:58,480
+Funktion einsetzen und nach n
+
+83
+00:03:58,480 --> 00:04:00,660
+auflösen. Setzst du dann beide
+
+84
+00:04:00,660 --> 00:04:02,320
+Ergebnisse in dieses Muster ein,
+
+85
+00:04:02,420 --> 00:04:04,100
+erhältst du die Gleichung deiner
+
+86
+00:04:04,100 --> 00:04:07,560
+normalen. Viel Erfolg und bis zum
+
+87
+00:04:07,560 --> 00:04:08,100
+nächsten Mal.
+

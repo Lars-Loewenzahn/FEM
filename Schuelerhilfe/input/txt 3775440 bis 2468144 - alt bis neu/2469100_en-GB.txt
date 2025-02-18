@@ -1,0 +1,556 @@
+﻿1
+00:00:03,920 --> 00:00:05,800
+Hello, my name is Paula and I 
+
+2
+00:00:05,800 --> 00:00:07,240
+am a tutor 
+
+3
+00:00:07,240 --> 00:00:09,660
+at Schülerhilfe. Today I would like to 
+
+4
+00:00:09,660 --> 00:00:11,640
+explain to you what 
+
+5
+00:00:11,640 --> 00:00:13,920
+proteins are all about in chemistry. In 
+our 
+
+6
+00:00:13,920 --> 00:00:15,720
+online learning center you will 
+
+7
+00:00:15,720 --> 00:00:17,280
+of course also find a wiki on this topic 
+
+8
+00:00:17,280 --> 00:00:18,860
+, in which the 
+
+9
+00:00:18,860 --> 00:00:20,420
+basic and important terms 
+
+10
+00:00:20,420 --> 00:00:23,860
+are explained in more detail. Proteins are 
+
+11
+00:00:23,860 --> 00:00:25,480
+an essential part of our 
+
+12
+00:00:25,480 --> 00:00:27,200
+diet and you are probably 
+
+13
+00:00:27,200 --> 00:00:29,420
+most familiar with proteins in connection 
+
+14
+00:00:29,420 --> 00:00:32,240
+with muscle building. However, 
+
+15
+00:00:32,240 --> 00:00:34,140
+proteins are not only essential for 
+athletes, 
+
+16
+00:00:34,200 --> 00:00:36,860
+but for everyone. 
+
+17
+00:00:36,860 --> 00:00:39,280
+We should 
+
+18
+00:00:39,280 --> 00:00:41,780
+
+19
+00:00:41,780 --> 00:00:44,520
+consume at least 0.8 to 1 g of protein per 
+kg of body weight every day . But what 
+
+20
+00:00:44,520 --> 00:00:46,180
+exactly are proteins and why does 
+
+21
+00:00:46,180 --> 00:00:48,840
+our body need them? Proteins 
+
+22
+00:00:48,840 --> 00:00:50,840
+are made up of amino acids. Amino acids 
+have 
+
+23
+00:00:50,840 --> 00:00:53,160
+a basic structure consisting of an acidic 
+
+24
+00:00:53,160 --> 00:00:55,020
+carboxyl group, a basic 
+
+25
+00:00:55,020 --> 00:00:57,180
+amino group and an H ion. 
+
+26
+00:00:57,520 --> 00:00:59,220
+In addition, a variable C atom is attached 
+to their central 
+
+27
+00:00:59,220 --> 00:01:01,800
+body. C atom is a variable residue R, 
+
+28
+00:01:02,000 --> 00:01:03,920
+which 
+
+29
+00:01:03,920 --> 00:01:07,240
+is specific to the respective amino acid. 
+21 Amino acids are 
+
+30
+00:01:07,240 --> 00:01:09,100
+proteinogenic, i.e. they are the 
+
+31
+00:01:09,100 --> 00:01:11,800
+building blocks of proteins. 
+
+32
+00:01:11,800 --> 00:01:13,420
+The body cannot 
+
+33
+00:01:13,420 --> 00:01:15,260
+produce some amino acids itself, which is 
+why it 
+
+34
+00:01:15,260 --> 00:01:17,640
+is dependent on a daily supply. These are 
+
+35
+00:01:17,640 --> 00:01:19,180
+known as essential 
+
+36
+00:01:19,180 --> 00:01:22,680
+amino acids. Proteins and their 
+
+37
+00:01:22,680 --> 00:01:24,580
+function are largely determined by the 
+
+38
+00:01:24,580 --> 00:01:25,920
+various side groups. 
+
+39
+00:01:26,960 --> 00:01:29,240
+Let's 
+
+40
+00:01:29,240 --> 00:01:31,800
+take a closer look at some possible 
+residues. These can 
+
+41
+00:01:31,800 --> 00:01:33,440
+
+42
+00:01:33,440 --> 00:01:36,140
+have sulphur bound as a side chain. These 
+include the amino acids 
+
+43
+00:01:36,140 --> 00:01:38,680
+cysteine and methionine. 
+
+44
+00:01:38,680 --> 00:01:40,280
+Hydroxyl groups can also 
+
+45
+00:01:40,280 --> 00:01:41,840
+be bound to the central C atom. 
+
+46
+00:01:42,560 --> 00:01:44,320
+Additional amino groups in the 
+
+47
+00:01:44,320 --> 00:01:46,660
+side chain make the amino acid 
+
+48
+00:01:46,660 --> 00:01:47,940
+basic, while additional 
+
+49
+00:01:47,940 --> 00:01:50,400
+carboxyl groups 
+
+50
+00:01:50,400 --> 00:01:52,920
+make the amino acid acidic . The 
+interaction of 
+
+51
+00:01:52,920 --> 00:01:54,480
+different side chains and the 
+
+52
+00:01:54,480 --> 00:01:56,380
+resulting bonds is 
+
+53
+00:01:56,380 --> 00:01:57,820
+decisive for the structure of a 
+
+54
+00:01:57,820 --> 00:02:00,620
+protein. But how do the 
+
+55
+00:02:00,620 --> 00:02:03,040
+amino acids become a protein? The 
+
+56
+00:02:03,040 --> 00:02:05,000
+connection of two amino acids by 
+
+57
+00:02:05,000 --> 00:02:06,900
+splitting off water is called 
+
+58
+00:02:06,900 --> 00:02:09,740
+a peptide bond. The 
+
+59
+00:02:09,740 --> 00:02:11,820
+carboxyl group and amino group react 
+
+60
+00:02:11,820 --> 00:02:14,540
+with each other. This bond is planar 
+
+61
+00:02:14,540 --> 00:02:17,220
+and cannot be freely rotated. The 
+
+62
+00:02:17,220 --> 00:02:18,920
+linking of two amino acids 
+
+63
+00:02:18,920 --> 00:02:21,800
+is referred to as a dipeptide. 
+
+64
+00:02:21,800 --> 00:02:23,920
+Up to 10 linked amino acids form 
+
+65
+00:02:23,920 --> 00:02:26,500
+an oligopeptide and more than 10 are 
+
+66
+00:02:26,500 --> 00:02:29,500
+referred to as polypeptides. These 
+
+67
+00:02:29,500 --> 00:02:31,640
+polypeptides form the basic structure 
+
+68
+00:02:31,640 --> 00:02:34,500
+of proteins. In the formation of 
+
+69
+00:02:34,500 --> 00:02:36,180
+proteins, a distinction is made between 
+
+70
+00:02:36,180 --> 00:02:38,880
+the primary, secondary, tertiary and 
+
+71
+00:02:38,880 --> 00:02:41,120
+quaternary structure. The 
+
+72
+00:02:41,120 --> 00:02:43,080
+primary structure is characterized by 
+
+73
+00:02:43,080 --> 00:02:44,800
+the simple sequence of 
+
+74
+00:02:44,800 --> 00:02:47,620
+amino acids. The secondary structure is 
+
+75
+00:02:47,620 --> 00:02:49,660
+formed by the formation of 
+
+76
+00:02:49,660 --> 00:02:52,240
+hydrogen bonds. 
+
+77
+00:02:52,240 --> 00:02:54,120
+The polypeptide can 
+
+78
+00:02:54,120 --> 00:02:56,320
+attach itself in an alpha-helix structure, 
+which 
+
+79
+00:02:56,320 --> 00:02:58,000
+you may recognize from DNA, 
+
+80
+00:02:58,140 --> 00:03:00,660
+or in a beta-sheet structure. 
+
+81
+00:03:00,960 --> 00:03:02,680
+The tertiary structure is 
+
+82
+00:03:02,680 --> 00:03:04,180
+characterized by the formation of 
+
+83
+00:03:04,180 --> 00:03:06,220
+further bonds, which are mainly 
+
+84
+00:03:06,220 --> 00:03:07,980
+
+85
+00:03:07,980 --> 00:03:10,480
+determined by the variable side chains of 
+the amino acids. 
+
+86
+00:03:10,480 --> 00:03:11,780
+Van der Waals forces, 
+
+87
+00:03:11,980 --> 00:03:13,940
+disulfide bridges or ionic bonds 
+
+88
+00:03:13,940 --> 00:03:16,360
+play a role here. This results in the 
+spatial 
+
+89
+00:03:16,360 --> 00:03:19,440
+arrangement of the structure. If 
+
+90
+00:03:19,440 --> 00:03:21,300
+several such tertiary structures 
+
+91
+00:03:21,300 --> 00:03:23,440
+are specifically arranged together, the 
+
+92
+00:03:23,440 --> 00:03:25,800
+quaternary structure is formed . But what 
+exactly do 
+
+93
+00:03:25,800 --> 00:03:27,380
+we need proteins for ? 
+
+94
+00:03:27,620 --> 00:03:29,680
+They fulfill many tasks in the 
+
+95
+00:03:29,680 --> 00:03:31,520
+organism, so we 
+
+96
+00:03:31,520 --> 00:03:34,100
+can only go into some of them in more 
+detail here. For example, 
+
+97
+00:03:34,100 --> 00:03:35,500
+proteins are involved in numerous 
+
+98
+00:03:35,500 --> 00:03:37,440
+metabolic processes that 
+
+99
+00:03:37,440 --> 00:03:39,280
+also 
+
+100
+00:03:39,280 --> 00:03:41,860
+
+101
+00:03:41,860 --> 00:03:44,760
+produce the energy for our entire body, 
+adenosine trifosphate, or ATP for short. 
+They accelerate 
+
+102
+00:03:44,760 --> 00:03:46,260
+chemical reactions as 
+
+103
+00:03:46,260 --> 00:03:49,160
+biocatalysts. 
+
+104
+00:03:49,160 --> 00:03:51,060
+Proteins can also be used to produce 
+hormones and 
+
+105
+00:03:51,060 --> 00:03:53,260
+signaling substances, which 
+
+106
+00:03:53,260 --> 00:03:54,900
+
+107
+00:03:54,900 --> 00:03:58,620
+are important for controlling the organism 
+. Proteins are essential for 
+
+108
+00:03:58,680 --> 00:04:00,720
+building cellular structures such as 
+
+109
+00:04:00,720 --> 00:04:02,760
+the cell membrane, for immune defense, 
+
+110
+00:04:02,940 --> 00:04:05,220
+for blood clotting and for much 
+
+111
+00:04:05,220 --> 00:04:07,500
+more. One last important point 
+
+112
+00:04:07,580 --> 00:04:09,140
+that we want to discuss today is 
+
+113
+00:04:09,180 --> 00:04:10,860
+that proteins easily 
+
+114
+00:04:10,860 --> 00:04:13,540
+denature when exposed to heat. An altered 
+pH 
+
+115
+00:04:13,540 --> 00:04:15,360
+ value can also 
+
+116
+00:04:15,360 --> 00:04:17,300
+
+117
+00:04:17,300 --> 00:04:19,840
+lead to denaturation and thus to 
+inactivation of the protein. The body 
+therefore tries to 
+
+118
+00:04:20,040 --> 00:04:21,120
+
+119
+00:04:21,120 --> 00:04:23,000
+
+120
+00:04:23,000 --> 00:04:26,240
+keep the pH value and body temperature 
+very constant. Incidentally, this is 
+exactly what happens 
+
+121
+00:04:26,240 --> 00:04:28,380
+when you heat an egg 
+
+122
+00:04:28,380 --> 00:04:30,540
+in a pan. The 
+
+123
+00:04:30,540 --> 00:04:33,020
+protein inside denatures, the 
+
+124
+00:04:33,020 --> 00:04:34,820
+spatial structure changes and 
+
+125
+00:04:34,820 --> 00:04:36,200
+the egg white turns white and solid. 
+
+126
+00:04:37,200 --> 00:04:39,140
+Denaturation can be reversible 
+
+127
+00:04:39,140 --> 00:04:41,960
+or irreversible. I hope 
+
+128
+00:04:41,980 --> 00:04:43,360
+that I have been able to help you 
+
+129
+00:04:43,360 --> 00:04:44,760
+understand this topic better. 
+
+130
+00:04:45,060 --> 00:04:47,000
+If you have any further questions on this 
+or 
+
+131
+00:04:47,000 --> 00:04:48,820
+other topics, please feel free to use 
+
+132
+00:04:48,820 --> 00:04:51,080
+our other learning content in the online 
+
+133
+00:04:51,080 --> 00:04:53,160
+ learning center or contact your 
+
+134
+00:04:53,160 --> 00:04:55,100
+local student help center. See you 
+
+135
+00:04:55,100 --> 00:04:55,600
+next time! 

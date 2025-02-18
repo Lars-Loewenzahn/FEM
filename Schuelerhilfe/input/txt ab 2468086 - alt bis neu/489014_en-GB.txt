@@ -1,0 +1,376 @@
+﻿1
+00:00:00,430 --> 00:00:01,750
+Hello, I'm delighted that you've 
+
+2
+00:00:01,750 --> 00:00:03,370
+joined me again today. 
+
+3
+00:00:03,370 --> 00:00:04,590
+In this video, I would like to explain to 
+you 
+
+4
+00:00:04,910 --> 00:00:07,070
+how to 
+
+5
+00:00:07,070 --> 00:00:09,170
+mirror a point on a plane . Because the 
+whole thing 
+
+6
+00:00:09,170 --> 00:00:10,590
+is always a bit abstract, I've 
+
+7
+00:00:10,590 --> 00:00:12,970
+brought along an example. 
+
+8
+00:00:12,970 --> 00:00:14,610
+In my example, we have 
+
+9
+00:00:14,610 --> 00:00:18,310
+given the plane E and the point P. Our aim 
+
+10
+00:00:18,310 --> 00:00:20,770
+is to 
+
+11
+00:00:20,770 --> 00:00:22,710
+mirror the point P under the plane. I call 
+this point 
+
+12
+00:00:22,710 --> 00:00:26,770
+P'. One way to achieve this goal 
+
+13
+00:00:26,770 --> 00:00:29,650
+is to create an auxiliary line 
+
+14
+00:00:29,650 --> 00:00:33,110
+and for this I need 
+
+15
+00:00:33,110 --> 00:00:35,170
+the normal vector of the plane 
+
+16
+00:00:35,170 --> 00:00:39,390
+and the point P on the one hand. 
+
+17
+00:00:39,390 --> 00:00:41,210
+I'll show you how this works with numbers 
+using 
+
+18
+00:00:41,210 --> 00:00:45,490
+this example. We have given the plane 
+
+19
+00:00:45,490 --> 00:00:48,450
+E and the point P. It is important 
+
+20
+00:00:48,450 --> 00:00:49,850
+that the plane is 
+
+21
+00:00:49,850 --> 00:00:51,510
+given in the so-called coordinate 
+
+22
+00:00:51,510 --> 00:00:54,090
+form, because the 
+
+23
+00:00:54,090 --> 00:00:56,130
+normal vector of the 
+
+24
+00:00:56,130 --> 00:00:59,990
+plane is already contained in the 
+coordinate form. We have 2, 2 and 
+
+25
+00:00:59,990 --> 00:01:03,050
+there is a 1 in front of the Z. This means 
+that the 
+
+26
+00:01:03,050 --> 00:01:08,570
+normal vector of the plane is 2, 2, 
+
+27
+00:01:08,630 --> 00:01:12,810
+1. If I now want to 
+
+28
+00:01:12,810 --> 00:01:16,770
+create an auxiliary straight line , I take 
+the 
+
+29
+00:01:24,160 --> 00:01:26,760
+point P as the position vector, because 
+
+30
+00:01:26,760 --> 00:01:28,840
+my straight line should start from there , 
+plus 
+
+31
+00:01:32,010 --> 00:01:34,570
+S times the direction vector. and 
+
+32
+00:01:34,570 --> 00:01:35,770
+I take the 
+
+33
+00:01:35,770 --> 00:01:37,390
+normal vector of the plane as the 
+direction vector , because it 
+
+34
+00:01:37,390 --> 00:01:39,150
+is very important that the straight line 
+
+35
+00:01:39,150 --> 00:01:44,280
+is perpendicular to the plane. So 2, 
+
+36
+00:01:44,300 --> 00:01:47,600
+2, 1. Now I want to find out 
+
+37
+00:01:47,680 --> 00:01:49,300
+how often I 
+
+38
+00:01:49,300 --> 00:01:51,720
+have to take the direction vector 
+
+39
+00:01:51,720 --> 00:01:52,420
+to arrive exactly at the plane. 
+
+40
+00:01:55,880 --> 00:02:00,040
+To do this, I insert each line 
+individually into 
+
+41
+00:02:00,040 --> 00:02:02,520
+my plane. 
+
+42
+00:02:02,520 --> 00:02:05,460
+I enter the first line for the x, the 
+second 
+
+43
+00:02:05,460 --> 00:02:10,460
+line for the x. and the third line 
+
+44
+00:02:10,460 --> 00:02:17,100
+for the z. So I 
+
+45
+00:02:17,100 --> 00:02:24,440
+now write 2 times the first line 4 plus 2s 
+
+46
+00:02:24,440 --> 00:02:27,640
+plus plus 2 times the second line of the 
+
+47
+00:02:27,640 --> 00:02:35,120
+straight line, 3 plus 2s, plus 1 time the 
+
+48
+00:02:35,120 --> 00:02:38,260
+last line of the straight line, i.e. 1 
+plus 
+
+49
+00:02:38,260 --> 00:02:43,460
+1s, equals 33. 33 still comes 
+
+50
+00:02:43,460 --> 00:02:45,620
+from the plane. Now I resolve the 
+
+51
+00:02:45,620 --> 00:02:50,060
+brackets by 
+
+52
+00:02:50,060 --> 00:02:51,900
+
+53
+00:02:51,900 --> 00:02:56,340
+multiplying each part before the bracket 
+by each part in the bracket. This gives me 
+15 
+
+54
+00:02:58,550 --> 00:03:05,370
+plus 9s equals 33. I calculate 
+
+55
+00:03:05,370 --> 00:03:08,990
+minus 15 on both sides and get 9s 
+
+56
+00:03:08,990 --> 00:03:13,990
+equals 18. I divide everything by 
+
+57
+00:03:13,990 --> 00:03:19,910
+9 and get s equals 2. For 
+
+58
+00:03:19,910 --> 00:03:21,330
+our example, this means the 
+
+59
+00:03:21,330 --> 00:03:24,630
+following. If I 
+
+60
+00:03:24,630 --> 00:03:28,630
+take the direction vector times 2, 
+
+61
+00:03:28,630 --> 00:03:33,070
+my straight line arrives exactly on 
+
+62
+00:03:33,070 --> 00:03:35,350
+my plane. But I 
+
+63
+00:03:35,350 --> 00:03:36,790
+don't want to land exactly on the plane, 
+
+64
+00:03:36,810 --> 00:03:38,670
+I want to travel the same distance 
+
+65
+00:03:38,670 --> 00:03:41,290
+behind the plane. So 
+
+66
+00:03:41,290 --> 00:03:43,810
+I have to 
+
+67
+00:03:43,810 --> 00:03:49,750
+add two more direction vectors . I 
+therefore have to insert 4 into 
+
+68
+00:03:49,750 --> 00:03:51,410
+my equation of the line for S. 
+
+69
+00:03:59,740 --> 00:04:02,480
+My linear equation was 4, 
+
+70
+00:04:11,720 --> 00:04:15,580
+3, 1 for my point plus S and 
+
+71
+00:04:15,580 --> 00:04:19,820
+instead of S I now write 4 times the 
+
+72
+00:04:19,820 --> 00:04:24,620
+normal vector of the plane. The point 
+
+73
+00:04:24,660 --> 00:04:29,760
+I am calculating, i.e. P', is 12, 
+
+74
+00:04:33,860 --> 00:04:37,400
+11 and 5. 5. 
+
+75
+00:04:41,900 --> 00:04:43,540
+If you want to 
+
+76
+00:04:43,540 --> 00:04:45,740
+mirror a point on a plane, you have to 
+
+77
+00:04:45,740 --> 00:04:48,020
+
+78
+00:04:48,020 --> 00:04:50,580
+build an auxiliary line from the point and 
+the normal vector of the plane. 
+
+79
+00:04:50,580 --> 00:04:52,660
+Next, you determine how many 
+
+80
+00:04:52,660 --> 00:04:54,640
+times you have to take the direction 
+vector 
+
+81
+00:04:54,640 --> 00:04:56,840
+to arrive directly at the plane. 
+
+82
+00:04:56,840 --> 00:04:58,340
+However, as we do not 
+
+83
+00:04:58,340 --> 00:05:00,060
+want to arrive at the plane, but 
+
+84
+00:05:00,060 --> 00:05:02,400
+want to pass through it and 
+
+85
+00:05:02,400 --> 00:05:03,960
+cover the same distance as to the plane 
+again 
+
+86
+00:05:03,960 --> 00:05:05,800
+, you have to 
+
+87
+00:05:05,800 --> 00:05:07,760
+take this result times 2 and insert it 
+into the straight line. 
+
+88
+00:05:07,760 --> 00:05:10,080
+The result is a mirrored 
+
+89
+00:05:10,080 --> 00:05:13,100
+point. Good luck and see you 
+
+90
+00:05:13,100 --> 00:05:13,580
+next time! 

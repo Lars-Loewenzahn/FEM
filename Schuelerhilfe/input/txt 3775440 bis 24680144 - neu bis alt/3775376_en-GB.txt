@@ -1,0 +1,534 @@
+﻿1
+00:00:03,890 --> 00:00:05,530
+My name is Joshua and I am a 
+
+2
+00:00:05,530 --> 00:00:07,210
+tutor at Schülerhilfe. 
+
+3
+00:00:07,510 --> 00:00:09,370
+Welcome to the second video 
+
+4
+00:00:09,370 --> 00:00:11,990
+on orbitals. If you 
+
+5
+00:00:11,990 --> 00:00:13,450
+haven 
+
+6
+00:00:13,450 --> 00:00:14,810
+'t seen the video on the basics of 
+orbitals yet , please take 
+
+7
+00:00:14,810 --> 00:00:16,230
+a look at our online 
+
+8
+00:00:16,230 --> 00:00:18,770
+ learning center. Let's 
+
+9
+00:00:18,770 --> 00:00:20,210
+briefly  review the basics of 
+
+10
+00:00:20,210 --> 00:00:23,530
+orbitals. Firstly, orbitals 
+
+11
+00:00:23,530 --> 00:00:26,190
+indicate where an electron is 90% 
+
+12
+00:00:26,190 --> 00:00:29,030
+likely to be located. 2) There 
+
+13
+00:00:29,030 --> 00:00:31,110
+are six different orbitals 
+
+14
+00:00:31,150 --> 00:00:32,670
+, distributed over different 
+
+15
+00:00:32,670 --> 00:00:35,390
+principal quantum numbers, with S, P and 
+
+16
+00:00:35,390 --> 00:00:37,550
+D orbitals being the most commonly used 
+
+17
+00:00:37,550 --> 00:00:40,850
+orbital forms. 3) Each of these 
+
+18
+00:00:40,850 --> 00:00:42,410
+orbitals contains 
+
+19
+00:00:42,410 --> 00:00:44,870
+a maximum of two electrons. 4. 
+
+20
+00:00:45,550 --> 00:00:47,790
+if you 
+
+21
+00:00:47,790 --> 00:00:48,930
+write out all the occupied orbitals , you 
+get the 
+
+22
+00:00:48,930 --> 00:00:51,570
+electron configuration. The first 
+
+23
+00:00:51,570 --> 00:00:53,390
+example we will look at today 
+
+24
+00:00:53,490 --> 00:00:55,730
+is the element sulphur. Sulphur 
+
+25
+00:00:55,730 --> 00:00:57,710
+has 16 electrons, which are 
+
+26
+00:00:57,710 --> 00:00:59,070
+
+27
+00:00:59,070 --> 00:01:00,390
+
+28
+00:01:00,390 --> 00:01:03,010
+distributed over different orbitals with 
+different principal quantum numbers. To 
+find out what 
+
+29
+00:01:03,010 --> 00:01:04,610
+this distribution looks like, it is 
+
+30
+00:01:04,610 --> 00:01:06,170
+helpful to 
+
+31
+00:01:06,170 --> 00:01:09,910
+proceed according to the following scheme. 
+1. note the individual 
+
+32
+00:01:09,910 --> 00:01:11,330
+principal quantum numbers and the 
+
+33
+00:01:11,330 --> 00:01:15,270
+orbitals present there. 2. now 
+
+34
+00:01:15,270 --> 00:01:17,070
+assign the orbital electrons. 
+
+35
+00:01:17,210 --> 00:01:19,250
+Whenever an orbital is fully occupied, 
+
+36
+00:01:19,250 --> 00:01:20,690
+you move on to the next one. 
+
+37
+00:01:20,690 --> 00:01:24,790
+Accordingly, 1s receives 2 electrons, 
+
+38
+00:01:24,790 --> 00:01:28,910
+2s also, all 3p orbitals are occupied with 
+
+39
+00:01:28,910 --> 00:01:32,090
+2 electrons each, 3s receives 2 
+
+40
+00:01:32,090 --> 00:01:34,970
+electrons, with 3p a 
+
+41
+00:01:34,970 --> 00:01:37,150
+special feature now comes to light. 
+
+42
+00:01:37,150 --> 00:01:39,270
+There are still 4 electrons to be 
+distributed, but 
+
+43
+00:01:39,270 --> 00:01:41,630
+instead of 
+
+44
+00:01:41,630 --> 00:01:43,850
+occupying 2p orbitals completely , all 3 
+are formed so that 
+
+45
+00:01:43,870 --> 00:01:46,190
+there are 2p orbitals with 
+
+46
+00:01:46,190 --> 00:01:47,770
+one electron each and a p 
+
+47
+00:01:47,770 --> 00:01:50,410
+ orbital with 2 
+
+48
+00:01:50,410 --> 00:01:52,090
+. 
+
+49
+00:01:52,270 --> 00:01:55,530
+For sulphur it is 1s with a 
+
+50
+00:01:55,530 --> 00:01:58,570
+superscript 2, 2s also with 
+
+51
+00:01:58,570 --> 00:02:01,350
+a superscript 2, 2p with a 
+
+52
+00:02:01,350 --> 00:02:04,850
+superscript 6, 3s again with a 
+
+53
+00:02:04,850 --> 00:02:07,850
+superscript 2 and 3p, attention, 
+
+54
+00:02:07,850 --> 00:02:09,450
+this time with a superscript 4. 
+
+55
+00:02:10,590 --> 00:02:12,790
+But why are the 3p orbitals 
+
+56
+00:02:12,790 --> 00:02:15,350
+occupied in this way ? As the electrons in 
+the 
+
+57
+00:02:15,350 --> 00:02:17,190
+outermost shell, they are used to 
+
+58
+00:02:17,190 --> 00:02:18,810
+
+59
+00:02:18,810 --> 00:02:21,190
+form bonds with other atoms . However, 
+this is only possible if 
+
+60
+00:02:21,190 --> 00:02:23,050
+the orbitals are not fully occupied. 
+
+61
+00:02:23,470 --> 00:02:25,230
+There is also a helpful 
+
+62
+00:02:25,230 --> 00:02:26,790
+notation for this , namely the 
+
+63
+00:02:26,790 --> 00:02:29,510
+energy level scheme. 
+
+64
+00:02:29,510 --> 00:02:32,730
+The 1s orbital has the lowest energy 
+level. 
+
+65
+00:02:32,890 --> 00:02:34,790
+The two arrows within the 
+
+66
+00:02:34,790 --> 00:02:37,070
+orbital box represent the electrons 
+
+67
+00:02:37,070 --> 00:02:40,670
+. This is followed by the 2s orbital. Then 
+
+68
+00:02:40,670 --> 00:02:42,610
+the 2p 
+
+69
+00:02:42,610 --> 00:02:44,990
+orbitals , which are also fully occupied , 
+of which there 
+
+70
+00:02:44,990 --> 00:02:48,050
+are  three. Then the 3s orbital and 
+
+71
+00:02:48,050 --> 00:02:50,590
+finally the 3p orbitals, of which 
+
+72
+00:02:50,590 --> 00:02:52,710
+one is fully occupied and two 
+
+73
+00:02:52,710 --> 00:02:55,390
+are single occupied. 
+
+74
+00:02:55,390 --> 00:02:57,110
+There is another special feature of 
+manganese 
+
+75
+00:02:57,110 --> 00:02:59,010
+. Here the 
+
+76
+00:02:59,010 --> 00:03:02,350
+electron configuration is 1s with the 
+
+77
+00:03:02,350 --> 00:03:05,030
+superscript 2, 2s with the 
+
+78
+00:03:05,030 --> 00:03:07,830
+superscript 2 2p with the superscript 
+
+79
+00:03:07,830 --> 00:03:10,290
+6, 3s with the 
+
+80
+00:03:10,290 --> 00:03:13,730
+superscript 2, 3p again with a 
+
+81
+00:03:13,730 --> 00:03:16,230
+superscript 6, 4s with the 
+
+82
+00:03:16,230 --> 00:03:19,190
+superscript 2 and 3d with the 
+
+83
+00:03:19,190 --> 00:03:22,390
+superscript 5. But why is 
+
+84
+00:03:22,390 --> 00:03:25,610
+the 4th s orbital in front of the 3rd d 
+orbital? 
+
+85
+00:03:26,370 --> 00:03:28,650
+This is because in 
+
+86
+00:03:28,650 --> 00:03:31,070
+the principal quantum number orbital 
+scheme you do not 
+
+87
+00:03:31,070 --> 00:03:33,230
+work through the rows, but 
+
+88
+00:03:33,230 --> 00:03:34,630
+
+89
+00:03:34,630 --> 00:03:37,530
+proceed according to the diagonals marked 
+by the arrows . Alternatively 
+
+90
+00:03:37,530 --> 00:03:39,610
+, there is the checkerboard approach. 
+
+91
+00:03:39,610 --> 00:03:40,570
+It is based on the 
+
+92
+00:03:40,570 --> 00:03:42,650
+energy level scheme. It is 
+
+93
+00:03:42,650 --> 00:03:44,750
+
+94
+00:03:44,750 --> 00:03:47,730
+read row by row from bottom to top and 
+from left to right. Using 
+
+95
+00:03:47,730 --> 00:03:49,430
+manganese as an example, I would 
+
+96
+00:03:49,430 --> 00:03:50,710
+also like to show you the abbreviated 
+notation 
+
+97
+00:03:50,710 --> 00:03:52,570
+. It 
+
+98
+00:03:52,570 --> 00:03:54,790
+always refers to the previous noble gas, 
+as 
+
+99
+00:03:54,790 --> 00:03:56,270
+there are only fully occupied 
+
+100
+00:03:56,270 --> 00:03:58,450
+orbitals and only the 
+
+101
+00:03:58,450 --> 00:04:01,030
+additional orbitals are added. Here 
+
+102
+00:04:01,030 --> 00:04:02,650
+you can see the electron configuration 
+
+103
+00:04:02,650 --> 00:04:05,550
+of manganese. The previous noble gas is 
+
+104
+00:04:05,550 --> 00:04:08,250
+argon, which covers these orbitals. 
+
+105
+00:04:08,350 --> 00:04:10,290
+The abbreviated electron configuration 
+
+106
+00:04:10,290 --> 00:04:14,490
+is therefore AR4S2 
+
+107
+00:04:14,490 --> 00:04:19,510
+and 3D5. In conclusion, let us 
+
+108
+00:04:19,510 --> 00:04:22,490
+summarize once again . Firstly, when 
+
+109
+00:04:22,490 --> 00:04:23,930
+assigning the orbitals 
+
+110
+00:04:23,930 --> 00:04:25,930
+, it should be noted that all orbitals 
+
+111
+00:04:25,930 --> 00:04:27,830
+of one type are formed first before 
+
+112
+00:04:27,830 --> 00:04:29,590
+they are assigned twice and that 
+
+113
+00:04:29,590 --> 00:04:30,690
+one does not 
+
+114
+00:04:30,690 --> 00:04:33,850
+proceed strictly according to principal 
+quantum numbers. Secondly, 
+
+115
+00:04:33,850 --> 00:04:35,770
+the energy level 
+
+116
+00:04:35,770 --> 00:04:37,690
+as well as the principal quantum number 
+
+117
+00:04:37,690 --> 00:04:39,610
+orbital scheme and the checkerboard help 
+here 
+
+118
+00:04:39,610 --> 00:04:42,110
+. Thirdly 
+
+119
+00:04:42,110 --> 00:04:44,130
+, there is a 
+
+120
+00:04:44,130 --> 00:04:45,830
+shorthand notation for the electron 
+configuration in which one part is 
+
+121
+00:04:45,830 --> 00:04:47,310
+replaced by the element symbol of the 
+
+122
+00:04:47,310 --> 00:04:49,370
+previous noble gas. 
+
+123
+00:04:49,910 --> 00:04:52,030
+I hope that you 
+
+124
+00:04:52,030 --> 00:04:53,930
+now have a better understanding of 
+orbitals . If you have any further 
+
+125
+00:04:53,930 --> 00:04:55,690
+questions about these or other topics 
+
+126
+00:04:55,690 --> 00:04:57,350
+, please feel free to use our other 
+
+127
+00:04:57,350 --> 00:04:59,990
+learning content in the online learning 
+center or 
+
+128
+00:04:59,990 --> 00:05:01,710
+contact your 
+
+129
+00:05:01,710 --> 00:05:03,270
+local student help center. See you next 
+time! 

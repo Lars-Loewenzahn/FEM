@@ -1,0 +1,477 @@
+﻿1
+00:00:04,300 --> 00:00:06,420
+Hello, my name is Nick and I am a 
+
+2
+00:00:06,420 --> 00:00:07,820
+tutor at Schülerhilfe. 
+
+3
+00:00:07,860 --> 00:00:09,680
+Today I would like to explain something 
+about 
+
+4
+00:00:09,680 --> 00:00:11,040
+the human immune system. 
+
+5
+00:00:11,440 --> 00:00:13,240
+
+6
+00:00:13,240 --> 00:00:14,500
+
+7
+00:00:14,500 --> 00:00:15,920
+
+8
+00:00:15,920 --> 00:00:17,420
+You can also find more content on this and 
+many other topics, such as wikis, 
+worksheets and interactive tasks, 
+
+9
+00:00:17,420 --> 00:00:18,940
+in our online 
+
+10
+00:00:18,940 --> 00:00:22,580
+ learning center. 
+
+11
+00:00:22,580 --> 00:00:24,060
+There are many different inhabitants in 
+our body. 
+
+12
+00:00:24,220 --> 00:00:26,100
+Some are useful, others are not. 
+
+13
+00:00:26,100 --> 00:00:28,800
+Our immune system has the important 
+
+14
+00:00:28,800 --> 00:00:30,500
+task of differentiating between them 
+
+15
+00:00:30,500 --> 00:00:32,380
+. But what do we 
+
+16
+00:00:32,380 --> 00:00:33,660
+actually mean by the immune system? 
+
+17
+00:00:34,320 --> 00:00:36,260
+The human immune system 
+
+18
+00:00:36,260 --> 00:00:38,040
+is the body's biological defence system 
+
+19
+00:00:38,040 --> 00:00:39,600
+, which 
+
+20
+00:00:39,600 --> 00:00:41,420
+
+21
+00:00:41,420 --> 00:00:43,120
+is made up of specialized cells and 
+organs. Its task is to 
+
+22
+00:00:43,120 --> 00:00:44,520
+combat and eliminate 
+
+23
+00:00:44,520 --> 00:00:45,960
+pathogens that 
+
+24
+00:00:45,960 --> 00:00:47,760
+infiltrate our organism. In addition to 
+
+25
+00:00:47,760 --> 00:00:50,000
+bacteria , these can be viruses, fungi 
+
+26
+00:00:50,000 --> 00:00:52,160
+or parasites. 
+
+27
+00:00:52,160 --> 00:00:53,580
+Many 
+
+28
+00:00:53,580 --> 00:00:55,640
+potential pathogens are found in our blood 
+in particular . Therefore, 
+
+29
+00:00:55,640 --> 00:00:57,040
+a relevant part 
+
+30
+00:00:57,040 --> 00:00:58,920
+of our immune defense is also found in our 
+
+31
+00:00:58,920 --> 00:01:00,740
+blood vessels. The most important 
+
+32
+00:01:00,740 --> 00:01:02,780
+components of this are the white 
+
+33
+00:01:02,780 --> 00:01:05,400
+blood cells. There are two types 
+
+34
+00:01:05,400 --> 00:01:07,520
+of white blood cells, phagocytes 
+
+35
+00:01:07,520 --> 00:01:10,760
+and lymphocytes. Phagocytes 
+
+36
+00:01:10,760 --> 00:01:12,500
+specialize in 
+
+37
+00:01:12,560 --> 00:01:14,600
+
+38
+00:01:14,600 --> 00:01:16,940
+eating up dirt, dangerous bacteria, dying 
+and dead cells. The 
+
+39
+00:01:16,940 --> 00:01:18,580
+lymphocytes enable the body to 
+
+40
+00:01:18,580 --> 00:01:20,120
+
+41
+00:01:20,120 --> 00:01:21,660
+recognize known invaders and thus help the 
+
+42
+00:01:21,660 --> 00:01:23,620
+body to destroy them. The 
+
+43
+00:01:23,620 --> 00:01:25,100
+immune response is divided into 
+
+44
+00:01:25,100 --> 00:01:27,040
+non-specific and specific 
+
+45
+00:01:27,040 --> 00:01:29,380
+defenses. The non-specific 
+
+46
+00:01:29,380 --> 00:01:31,220
+immune defense is innate and consists 
+
+47
+00:01:31,220 --> 00:01:32,600
+of the non-specific 
+
+48
+00:01:32,600 --> 00:01:34,000
+cellular defense and the 
+
+49
+00:01:34,000 --> 00:01:35,980
+non-specific humoral defense 
+
+50
+00:01:35,980 --> 00:01:38,200
+. Both systems 
+
+51
+00:01:38,200 --> 00:01:39,780
+build on each other and complement each 
+other. 
+
+52
+00:01:40,220 --> 00:01:41,660
+The primary responsible 
+
+53
+00:01:41,660 --> 00:01:43,480
+components of the specific defense 
+
+54
+00:01:43,480 --> 00:01:45,300
+are the B lymphocytes of the humoral 
+
+55
+00:01:45,300 --> 00:01:47,480
+immune system and their antibodies and 
+
+56
+00:01:47,480 --> 00:01:49,300
+the T lymphocytes of the cellular 
+
+57
+00:01:49,300 --> 00:01:51,980
+immune system. The B lymphocytes 
+
+58
+00:01:51,980 --> 00:01:54,100
+form the intelligent system that 
+
+59
+00:01:54,100 --> 00:01:56,160
+identifies intruders and 
+
+60
+00:01:56,160 --> 00:01:58,120
+attaches itself to them. In doing so, they 
+inform 
+
+61
+00:01:58,120 --> 00:01:59,920
+the T lymphocytes, which then 
+
+62
+00:01:59,920 --> 00:02:02,680
+destroy them. Furthermore, 
+
+63
+00:02:02,680 --> 00:02:04,360
+antigens and antibodies as well as 
+
+64
+00:02:04,360 --> 00:02:05,880
+plasma cells are part of the 
+
+65
+00:02:05,880 --> 00:02:07,480
+human body's specific immune defense 
+
+66
+00:02:07,480 --> 00:02:09,860
+, which ensure a rapid 
+
+67
+00:02:09,860 --> 00:02:11,880
+immune response 
+
+68
+00:02:11,880 --> 00:02:13,400
+
+69
+00:02:13,400 --> 00:02:15,460
+should the same pathogen attack the system 
+again. It is 
+
+70
+00:02:15,460 --> 00:02:17,280
+a defense mechanism that 
+
+71
+00:02:17,280 --> 00:02:19,380
+acts specifically against known pathogens. 
+This 
+
+72
+00:02:19,380 --> 00:02:20,800
+happens because the cells 
+
+73
+00:02:20,800 --> 00:02:22,200
+of this defense system have already had 
+
+74
+00:02:22,200 --> 00:02:23,580
+contact with these invaders 
+
+75
+00:02:23,580 --> 00:02:25,380
+and 
+
+76
+00:02:25,380 --> 00:02:27,320
+can therefore remember them. This enables 
+the 
+
+77
+00:02:27,320 --> 00:02:29,120
+specific immune system to 
+
+78
+00:02:29,180 --> 00:02:30,720
+
+79
+00:02:30,720 --> 00:02:32,320
+
+80
+00:02:32,320 --> 00:02:34,560
+act quickly and effectively when the same 
+pathogen attacks again. 
+
+81
+00:02:34,560 --> 00:02:36,040
+However, this ability only develops in the 
+
+82
+00:02:36,040 --> 00:02:37,600
+course of growing up and is 
+
+83
+00:02:37,600 --> 00:02:39,180
+therefore still insufficiently 
+
+84
+00:02:39,180 --> 00:02:41,660
+developed in children. It comes into play 
+
+85
+00:02:41,920 --> 00:02:44,060
+when the non-specific defence system 
+
+86
+00:02:44,060 --> 00:02:46,200
+is overwhelmed and cannot 
+
+87
+00:02:46,200 --> 00:02:48,560
+neutralize the pathogens . 
+
+88
+00:02:48,560 --> 00:02:50,020
+In the next step, let's take a closer look 
+at the organs 
+
+89
+00:02:50,020 --> 00:02:51,300
+
+90
+00:02:51,300 --> 00:02:53,480
+involved in the immune response. The 
+immune system includes, 
+
+91
+00:02:53,480 --> 00:02:55,640
+for example, the thymus, the 
+
+92
+00:02:55,640 --> 00:02:57,800
+bone marrow, the spleen, the tonsils 
+
+93
+00:02:57,800 --> 00:03:00,380
+, the lymph nodes and special 
+
+94
+00:03:00,380 --> 00:03:02,480
+blood cells. They are all involved in 
+
+95
+00:03:02,500 --> 00:03:03,820
+neutralizing pathogens. 
+
+96
+00:03:04,740 --> 00:03:06,860
+Other tasks of the immune system 
+
+97
+00:03:06,860 --> 00:03:08,180
+include the 
+
+98
+00:03:08,180 --> 00:03:09,900
+control of endogenous and 
+
+99
+00:03:09,900 --> 00:03:11,480
+harmless microorganisms, 
+
+100
+00:03:11,500 --> 00:03:13,360
+tumor defense and wound healing. 
+
+101
+00:03:13,960 --> 00:03:15,520
+You can also actively 
+
+102
+00:03:15,520 --> 00:03:17,120
+influence the function of your 
+
+103
+00:03:17,120 --> 00:03:19,140
+immune system, both positively and 
+
+104
+00:03:19,140 --> 00:03:21,420
+negatively. The immune system 
+
+105
+00:03:21,420 --> 00:03:23,020
+can be positively 
+
+106
+00:03:23,040 --> 00:03:24,680
+
+107
+00:03:24,680 --> 00:03:26,620
+influenced by nutrition, vitamins and 
+minerals . 
+
+108
+00:03:26,620 --> 00:03:27,620
+The immune system is weakened by 
+
+109
+00:03:27,620 --> 00:03:30,220
+a lack of nutrients, stress, alcohol or 
+
+110
+00:03:30,220 --> 00:03:32,520
+smoking. I'm glad you could join us 
+
+111
+00:03:32,520 --> 00:03:34,600
+. I hope I 
+
+112
+00:03:34,600 --> 00:03:35,940
+was able to give you an understanding of 
+our immune system. 
+
+113
+00:03:36,260 --> 00:03:37,940
+If you have any further questions on these 
+
+114
+00:03:37,940 --> 00:03:39,660
+and other topics, please feel free to use 
+
+115
+00:03:39,660 --> 00:03:41,440
+our other content in the online 
+
+116
+00:03:41,440 --> 00:03:43,180
+ learning center or contact your 
+
+117
+00:03:43,180 --> 00:03:44,740
+local Schülerhilfe. See you 
+
+118
+00:03:44,740 --> 00:03:45,200
+next time. 

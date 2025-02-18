@@ -1,0 +1,444 @@
+1
+00:00:00,110 --> 00:00:01,750
+Hallo und herzlich willkommen zu
+
+2
+00:00:01,750 --> 00:00:03,530
+einem Lernvideo bei der Schülerhilfe.
+
+3
+00:00:03,610 --> 00:00:05,350
+Das heutige Thema ist das
+
+4
+00:00:05,350 --> 00:00:08,210
+Adjektivattribut. Noch einmal, was
+
+5
+00:00:08,210 --> 00:00:10,110
+ist überhaupt ein Attribut? Dieses
+
+6
+00:00:10,110 --> 00:00:11,890
+bezeichnet die nähere Bestimmung
+
+7
+00:00:11,890 --> 00:00:15,230
+eines Noms. Und wir erfragen es mit
+
+8
+00:00:15,230 --> 00:00:19,110
+was für eine oder was für ein und
+
+9
+00:00:19,110 --> 00:00:24,440
+welche welcher welches. Außerdem ist
+
+10
+00:00:24,440 --> 00:00:26,480
+es das einzige nicht selbstständige
+
+11
+00:00:26,480 --> 00:00:28,680
+Satzglied. Mit seinem Bezugswort
+
+12
+00:00:28,680 --> 00:00:31,420
+steht es immer in KNG-Kongruent. Das
+
+13
+00:00:31,420 --> 00:00:34,740
+heißt, in Kasus, Numerus und in Genus
+
+14
+00:00:34,740 --> 00:00:36,600
+stimmt es mit seinem Bezugswort
+
+15
+00:00:36,600 --> 00:00:39,140
+überein. Der Kasus war der Fall,
+
+16
+00:00:39,360 --> 00:00:41,860
+Numerus gab uns an, ob es Einzahl
+
+17
+00:00:41,860 --> 00:00:43,740
+oder Mehrzahl, also Singular oder
+
+18
+00:00:43,740 --> 00:00:46,820
+Plural ist. Und das Genus also
+
+19
+00:00:46,820 --> 00:00:48,920
+entweder Maskulin, Feminin oder
+
+20
+00:00:48,920 --> 00:00:52,900
+Neutrum. Ein kleines Beispiel zur
+
+21
+00:00:52,900 --> 00:00:56,200
+Veranschaulichung. Puella Pulchra, in
+
+22
+00:00:56,200 --> 00:00:57,760
+der deutschen Übersetzung schönes
+
+23
+00:00:57,760 --> 00:01:00,100
+Mädchen. Wir haben in beiden Fällen
+
+24
+00:01:00,100 --> 00:01:06,320
+ein Nominativ Singular Femininum. Bei
+
+25
+00:01:06,320 --> 00:01:07,920
+dem oberen Beispiel hast du gesehen,
+
+26
+00:01:08,040 --> 00:01:10,640
+dass die Endungen von Bezugswort und
+
+27
+00:01:10,640 --> 00:01:13,520
+Attribut gleich waren. Das muss nun
+
+28
+00:01:13,520 --> 00:01:15,120
+aber nicht immer der Fall sein, zum
+
+29
+00:01:15,120 --> 00:01:18,980
+Beispiel bei Mulieres Pulchre.
+
+30
+00:01:21,140 --> 00:01:24,060
+Mulieres wird abgeleitet von Mulier
+
+31
+00:01:24,060 --> 00:01:25,480
+und geht nach der dritten
+
+32
+00:01:25,480 --> 00:01:29,160
+Deklination. Pulchre kommt von Pulch
+
+33
+00:01:29,160 --> 00:01:32,440
+her, Pulchra, Pulchrum und geht nach
+
+34
+00:01:32,440 --> 00:01:35,340
+der A- und O-Deklination. Aber beides
+
+35
+00:01:35,340 --> 00:01:37,940
+ist wieder Nominativ, Plural,
+
+36
+00:01:38,040 --> 00:01:40,640
+Femininum und bedeutet in der
+
+37
+00:01:40,640 --> 00:01:42,720
+deutschen Übersetzung schöne Frauen.
+
+38
+00:01:43,180 --> 00:01:46,020
+Noch ein weiteres Beispiel. Leo
+
+39
+00:01:46,020 --> 00:01:50,120
+Fortis, also der starke Löwe. Beides
+
+40
+00:01:50,120 --> 00:01:52,960
+steht im Nominativ, Singular,
+
+41
+00:01:53,140 --> 00:01:55,560
+Maskulinum, obwohl wir hier auch
+
+42
+00:01:55,560 --> 00:01:56,820
+wieder unter... unterschiedliche
+
+43
+00:01:56,820 --> 00:01:59,580
+Endungen haben. Darauf musst du im
+
+44
+00:01:59,580 --> 00:02:01,100
+Satz also besonders achten, wenn du
+
+45
+00:02:01,100 --> 00:02:03,300
+zusammengehörige Satzteile suchst.
+
+46
+00:02:03,460 --> 00:02:05,760
+Des Weiteren gilt die Regel, dass auf
+
+47
+00:02:05,760 --> 00:02:08,300
+mehrere Substantive bezogene Attribut
+
+48
+00:02:08,300 --> 00:02:10,740
+kongruiert, also stimmt dann überein,
+
+49
+00:02:10,740 --> 00:02:12,900
+mit dem näherstehenden und das in
+
+50
+00:02:12,900 --> 00:02:15,780
+jeder Stellung. Puelle et pueri
+
+51
+00:02:15,780 --> 00:02:18,780
+romani hieße die römischen Mädchen
+
+52
+00:02:18,780 --> 00:02:20,260
+und Jungen oder einfach nur römische
+
+53
+00:02:20,260 --> 00:02:22,720
+Mädchen und Jungen, aber wir sehen,
+
+54
+00:02:22,900 --> 00:02:27,500
+Romani steht nur in KNG-Konkurrenz zu
+
+55
+00:02:27,500 --> 00:02:30,120
+Pueri. Trotzdem können wir es auch
+
+56
+00:02:30,120 --> 00:02:33,900
+noch auf Puelle beziehen. Kommen wir
+
+57
+00:02:33,900 --> 00:02:34,860
+nun zur Stellung der
+
+58
+00:02:34,860 --> 00:02:37,380
+Adjektivattribute. Zunächst können
+
+59
+00:02:37,380 --> 00:02:39,240
+sie einmal hinter dem Bezugswort
+
+60
+00:02:39,240 --> 00:02:41,160
+stehen. Das ist meistens eher bei
+
+61
+00:02:41,160 --> 00:02:43,680
+objektiver Bestimmung der Fall. Vor
+
+62
+00:02:43,680 --> 00:02:46,080
+dem Substantiv stehen sie zuerst,
+
+63
+00:02:46,080 --> 00:02:48,440
+wenn eine Menge angegeben wird, wie
+
+64
+00:02:48,440 --> 00:02:52,000
+bei Multus aum also viel, oder bei
+
+65
+00:02:52,000 --> 00:02:56,860
+einem Maß, wie bei Magnus Aum, das
+
+66
+00:02:56,860 --> 00:02:59,780
+bedeutet groß oder bedeutend, und
+
+67
+00:03:06,020 --> 00:03:07,520
+noch, wenn eine auszeichnende
+
+68
+00:03:07,520 --> 00:03:09,840
+Eigenschaft angegeben wird, zum
+
+69
+00:03:09,840 --> 00:03:12,060
+Beispiel wie bei Divinus, das
+
+70
+00:03:12,060 --> 00:03:13,480
+bedeutet göttlich.
+
+71
+00:03:17,640 --> 00:03:19,920
+Außerdem gilt, hat das Adjektiv mehr
+
+72
+00:03:19,920 --> 00:03:21,900
+Silben als sein Bezugswort, steht es
+
+73
+00:03:21,900 --> 00:03:25,120
+immer nach. Von großer Wichtigkeit
+
+74
+00:03:25,120 --> 00:03:26,560
+ist außerdem noch die sogenannte
+
+75
+00:03:26,560 --> 00:03:28,700
+Sperr- oder Klammerstellung, auch
+
+76
+00:03:28,700 --> 00:03:31,020
+Hyperbaton genannt. Dort sind nämlich
+
+77
+00:03:31,020 --> 00:03:33,100
+Adjektiv und Bezugswort voneinander
+
+78
+00:03:33,100 --> 00:03:36,260
+getrennt. In unserem Beispiel homines
+
+79
+00:03:36,260 --> 00:03:41,120
+divitiarum cupidi gehören homines und
+
+80
+00:03:41,120 --> 00:03:44,560
+cupidi zusammen. Wir sehen wieder,
+
+81
+00:03:44,620 --> 00:03:46,340
+wir haben unterschiedliche Endungen
+
+82
+00:03:46,340 --> 00:03:50,900
+mit es und hier i. Beides Mal haben
+
+83
+00:03:50,900 --> 00:03:52,660
+wir jedoch einen Nominativ Plural
+
+84
+00:03:52,660 --> 00:03:56,320
+Maskulinum. Cupidus, also begierig,
+
+85
+00:03:56,320 --> 00:03:59,120
+steht mit Genitiv. Hier haben wir
+
+86
+00:03:59,120 --> 00:04:01,640
+Divitiarum, das ist zwischen unsere
+
+87
+00:04:01,640 --> 00:04:03,980
+beiden Bezugswörter geschaltet. Das
+
+88
+00:04:03,980 --> 00:04:05,820
+Ganze übersetzen wir dann mit nach
+
+89
+00:04:05,820 --> 00:04:08,220
+Reichtum begierige Menschen. Das
+
+90
+00:04:08,220 --> 00:04:10,860
+heißt, Bezugswort und Adjektiv müssen
+
+91
+00:04:10,860 --> 00:04:12,440
+nicht immer direkt nebeneinander
+
+92
+00:04:12,440 --> 00:04:14,980
+stehen. Zum Schluss noch eine kleine
+
+93
+00:04:14,980 --> 00:04:16,880
+Zusammenfassung. Heute hast hast du
+
+94
+00:04:16,880 --> 00:04:18,920
+kennengelernt, dass Adjektiv und
+
+95
+00:04:18,920 --> 00:04:20,860
+Bezugswort in KNG-Konkurrenz
+
+96
+00:04:20,860 --> 00:04:22,600
+zueinander stehen und damit
+
+97
+00:04:22,600 --> 00:04:26,860
+übereinstimmen in Kasus, Numerus und
+
+98
+00:04:26,860 --> 00:04:30,200
+Genus. Besonders aufpassen musst du
+
+99
+00:04:30,200 --> 00:04:32,240
+dabei, weil Bezugswort und Adjektiv
+
+100
+00:04:32,240 --> 00:04:33,840
+nicht unbedingt die gleiche Endung
+
+101
+00:04:33,840 --> 00:04:36,200
+haben müssen. Des Weiteren musst du
+
+102
+00:04:36,200 --> 00:04:37,520
+die unterschiedliche Stellung
+
+103
+00:04:37,520 --> 00:04:40,080
+beachten, da das Adjektiv einmal zum
+
+104
+00:04:40,080 --> 00:04:41,520
+Beispiel vor oder hinter dem
+
+105
+00:04:41,520 --> 00:04:44,100
+Bezugswort stehen kann. Der letzte
+
+106
+00:04:44,100 --> 00:04:45,740
+wichtige Punkt war dann noch das
+
+107
+00:04:45,740 --> 00:04:48,220
+Hyperbaton, nämlich dass Adjektiv und
+
+108
+00:04:48,220 --> 00:04:49,920
+Bezugswort auch getrennt voneinander
+
+109
+00:04:49,920 --> 00:04:53,340
+stehen können. Vielen Dank für deine
+
+110
+00:04:53,340 --> 00:04:55,260
+Aufmerksamkeit und bis bald zu einem
+
+111
+00:04:55,260 --> 00:04:56,780
+Lernvideo bei der Schülerhilfe.
+

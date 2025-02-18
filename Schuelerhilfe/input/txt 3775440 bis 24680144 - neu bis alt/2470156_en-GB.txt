@@ -1,0 +1,1019 @@
+﻿1
+00:00:01,840 --> 00:00:03,880
+Welcome to the webinar 
+
+2
+00:00:03,880 --> 00:00:05,840
+Triangles. In 
+
+3
+00:00:05,840 --> 00:00:07,900
+this webinar we will talk about triangles. 
+
+4
+00:00:07,900 --> 00:00:09,680
+We will first look at the properties 
+
+5
+00:00:09,680 --> 00:00:11,140
+of a triangle and 
+
+6
+00:00:11,140 --> 00:00:13,500
+then do some calculations, i.e. 
+
+7
+00:00:13,500 --> 00:00:14,780
+we will calculate the perimeter and 
+
+8
+00:00:14,780 --> 00:00:17,300
+area of a triangle. Then 
+
+9
+00:00:17,300 --> 00:00:18,100
+we look at different 
+
+10
+00:00:18,100 --> 00:00:20,620
+types of triangles and theorems of 
+concurrence. 
+
+11
+00:00:21,260 --> 00:00:22,700
+At the very end, there is a small 
+
+12
+00:00:22,700 --> 00:00:24,720
+example task on the second topic, 
+
+13
+00:00:24,800 --> 00:00:26,660
+i.e. perimeter and area, which 
+
+14
+00:00:26,660 --> 00:00:27,940
+we then work on together. 
+
+15
+00:00:30,840 --> 00:00:32,840
+a general triangle . What is immediately 
+
+16
+00:00:32,840 --> 00:00:34,780
+noticeable, I think, is that the 
+
+17
+00:00:34,780 --> 00:00:36,560
+labeling 
+
+18
+00:00:36,560 --> 00:00:39,380
+is counterclockwise. So A, B 
+
+19
+00:00:39,380 --> 00:00:41,780
+and C. The labeling of the vertices 
+
+20
+00:00:41,780 --> 00:00:44,600
+is counterclockwise. 
+
+21
+00:00:45,200 --> 00:00:48,920
+The sides always have the small 
+
+22
+00:00:48,920 --> 00:00:50,780
+letter from the opposite 
+
+23
+00:00:50,780 --> 00:00:52,240
+corner. This is why we have the 
+
+24
+00:00:52,240 --> 00:00:54,520
+corner point A here and the opposite 
+
+25
+00:00:54,520 --> 00:00:57,640
+side is small A. Here is corner point B 
+and 
+
+26
+00:00:57,640 --> 00:00:59,600
+the opposite side is small B. 
+
+27
+00:01:00,460 --> 00:01:02,440
+The angles are always 
+
+28
+00:01:02,440 --> 00:01:03,840
+sorted according to the Greek alphabet, 
+
+29
+00:01:03,900 --> 00:01:08,380
+alpha, beta, gamma and 
+
+30
+00:01:08,380 --> 00:01:10,380
+counterclockwise accordingly 
+
+31
+00:01:10,380 --> 00:01:14,280
+For every triangle, the sum of the 
+
+32
+00:01:14,280 --> 00:01:16,620
+interior angles is 180° Therefore, 
+
+33
+00:01:16,620 --> 00:01:18,500
+alpha plus beta plus 
+
+34
+00:01:18,500 --> 00:01:22,980
+gamma really always equals 180° This is 
+
+35
+00:01:22,980 --> 00:01:25,480
+always the case and so you can 
+
+36
+00:01:25,480 --> 00:01:26,940
+quickly check things or 
+
+37
+00:01:26,940 --> 00:01:28,640
+
+38
+00:01:28,640 --> 00:01:29,320
+calculate the third angle if you have two 
+angles . 
+
+39
+00:01:31,860 --> 00:01:33,760
+Let's move on to perimeter and 
+
+40
+00:01:33,760 --> 00:01:36,720
+area. The perimeter of a 
+
+41
+00:01:36,720 --> 00:01:38,620
+triangle is simply the distance 
+
+42
+00:01:38,620 --> 00:01:39,940
+you cover when you 
+
+43
+00:01:39,940 --> 00:01:42,940
+go all the way around. So U is equal to A 
+plus B 
+
+44
+00:01:42,940 --> 00:01:45,600
+plus C. Simply the sum of the 
+
+45
+00:01:45,600 --> 00:01:47,340
+edge lengths. 
+
+46
+00:01:48,860 --> 00:01:50,680
+The area is a little 
+
+47
+00:01:50,680 --> 00:01:53,420
+more complicated. Basically 
+
+48
+00:01:53,420 --> 00:01:57,020
+, the triangle is length times height 
+divided 
+
+49
+00:01:57,020 --> 00:01:59,200
+by 2. Very importantly, we 
+
+50
+00:01:59,200 --> 00:02:00,420
+now see three different formulas here, 
+
+51
+00:02:00,500 --> 00:02:03,780
+A times HA half A is then the 
+
+52
+00:02:03,780 --> 00:02:05,820
+base side and HA is the height that 
+
+53
+00:02:05,820 --> 00:02:07,860
+is on A, which would then be 
+
+54
+00:02:07,860 --> 00:02:08,740
+applied here. 
+
+55
+00:02:12,760 --> 00:02:15,880
+B times HB is then, so A is equal to 
+
+56
+00:02:15,880 --> 00:02:18,260
+B times HB half, which means that we 
+
+57
+00:02:18,260 --> 00:02:20,680
+take B as the base side and 
+
+58
+00:02:20,680 --> 00:02:23,400
+then have the height above B, or 
+
+59
+00:02:23,400 --> 00:02:25,320
+from B, which would then be approximately 
+
+60
+00:02:25,320 --> 00:02:29,100
+as long here. And last but not least, A is 
+
+61
+00:02:29,100 --> 00:02:32,700
+equal to C times hc half. This is 
+
+62
+00:02:32,700 --> 00:02:33,720
+the case we see below. 
+
+63
+00:02:33,840 --> 00:02:34,800
+The triangle stands on its 
+
+64
+00:02:34,800 --> 00:02:37,220
+base side C and the height hc is 
+
+65
+00:02:37,220 --> 00:02:38,880
+drawn in. The heights are always 
+
+66
+00:02:38,880 --> 00:02:42,640
+perpendicular to the base side. So you 
+
+67
+00:02:42,640 --> 00:02:43,660
+can always draw a right 
+
+68
+00:02:43,660 --> 00:02:46,700
+angle here. And you can 
+
+69
+00:02:46,700 --> 00:02:48,760
+then 
+
+70
+00:02:48,760 --> 00:02:51,420
+calculate the area accordingly. The 
+perimeter 
+
+71
+00:02:51,420 --> 00:02:52,440
+is, of course, 
+
+72
+00:02:52,440 --> 00:02:53,940
+much easier to 
+
+73
+00:02:53,940 --> 00:02:54,360
+determine , as we have already seen. 
+
+74
+00:02:57,750 --> 00:02:59,950
+Now let's take a look at the 
+
+75
+00:02:59,950 --> 00:03:03,030
+most important types of triangle. 
+
+76
+00:03:03,030 --> 00:03:05,150
+There is the equilateral triangle. 
+
+77
+00:03:05,150 --> 00:03:07,170
+As the 
+
+78
+00:03:07,170 --> 00:03:08,450
+name suggests, all 
+
+79
+00:03:08,450 --> 00:03:10,010
+sides of an equilateral triangle are 
+equal. This means that all sides 
+
+80
+00:03:10,010 --> 00:03:12,090
+are the same length and therefore 
+
+81
+00:03:12,090 --> 00:03:13,890
+all angles are the same size, namely 
+
+82
+00:03:13,890 --> 00:03:15,310
+60 degrees. 
+
+83
+00:03:17,670 --> 00:03:19,570
+You should know that this is a 
+
+84
+00:03:19,570 --> 00:03:22,230
+very important triangle and is 
+
+85
+00:03:22,230 --> 00:03:23,510
+
+86
+00:03:23,510 --> 00:03:26,370
+actually one of the simplest cases. There 
+is also 
+
+87
+00:03:26,370 --> 00:03:29,070
+the isosceles triangle. In an isosceles 
+triangle, 
+
+88
+00:03:29,070 --> 00:03:30,750
+only 
+
+89
+00:03:30,750 --> 00:03:32,590
+two sides are the same length. These are 
+the 
+
+90
+00:03:32,590 --> 00:03:35,270
+so-called legs, in this case B and A. 
+
+91
+00:03:35,650 --> 00:03:38,510
+They are the same length and the angle 
+
+92
+00:03:38,510 --> 00:03:41,290
+to the base side, alpha and beta, is 
+
+93
+00:03:41,290 --> 00:03:44,450
+also the same. These are 
+
+94
+00:03:44,450 --> 00:03:46,790
+the two most important triangle shapes. 
+
+95
+00:03:48,470 --> 00:03:50,210
+However, isosceles triangles 
+
+96
+00:03:50,210 --> 00:03:52,550
+are more common than equilateral 
+triangles. 
+
+97
+00:03:52,790 --> 00:03:59,520
+Lateral. Concurrence sets are 
+
+98
+00:03:59,520 --> 00:04:01,160
+used to 
+
+99
+00:04:03,960 --> 00:04:07,780
+uniquely determine triangles. 
+
+100
+00:04:07,780 --> 00:04:10,920
+This means that two 
+
+101
+00:04:10,920 --> 00:04:12,400
+triangles are said to be concurrent 
+
+102
+00:04:12,640 --> 00:04:16,300
+, i.e. equal, if certain 
+
+103
+00:04:16,300 --> 00:04:19,180
+concurrence theorems are true. 
+
+104
+00:04:19,260 --> 00:04:20,600
+This is the easiest 
+
+105
+00:04:20,600 --> 00:04:22,520
+way to express it. There are different 
+ones, we 
+
+106
+00:04:22,520 --> 00:04:24,640
+have the competition theorem here. sss 
+
+107
+00:04:24,640 --> 00:04:27,320
+stands for side side side side which 
+
+108
+00:04:27,320 --> 00:04:29,700
+means we have three sides that we 
+
+109
+00:04:29,700 --> 00:04:31,680
+check we simply look to see if all 
+
+110
+00:04:31,680 --> 00:04:33,440
+three side lengths are equal if 
+
+111
+00:04:33,440 --> 00:04:34,680
+that is the case then the 
+
+112
+00:04:34,680 --> 00:04:36,300
+triangles are automatically competitive 
+that 
+
+113
+00:04:36,300 --> 00:04:42,080
+means identical yes there are 
+
+114
+00:04:43,320 --> 00:04:44,660
+of course others for example 
+
+115
+00:04:44,660 --> 00:04:47,360
+here wsw which means angle side 
+
+116
+00:04:47,360 --> 00:04:50,160
+angle this competition theorem 
+
+117
+00:04:50,160 --> 00:04:52,900
+is about 
+
+118
+00:04:52,900 --> 00:04:54,700
+checking two angles and the included side. 
+
+119
+00:04:55,780 --> 00:04:58,040
+So you 
+
+120
+00:04:58,040 --> 00:04:58,220
+pick out the two angles , 
+
+121
+00:05:02,780 --> 00:05:04,580
+measure them - they really have to 
+
+122
+00:05:04,580 --> 00:05:07,560
+be measured - and check and 
+
+123
+00:05:07,560 --> 00:05:09,860
+measure the length of the enclosed 
+
+124
+00:05:09,860 --> 00:05:12,000
+side. This is compared with the 
+
+125
+00:05:12,000 --> 00:05:16,340
+triangle to be compared. This is similar 
+to 
+
+126
+00:05:16,340 --> 00:05:20,220
+sws, i.e. side angle side, i. 
+
+127
+00:05:20,220 --> 00:05:22,180
+e. we have two sides and 
+
+128
+00:05:22,180 --> 00:05:25,100
+an included angle, i.e. 
+
+129
+00:05:25,100 --> 00:05:26,420
+we measure the lengths of the two sides 
+
+130
+00:05:26,420 --> 00:05:28,620
+and the size of the 
+
+131
+00:05:28,620 --> 00:05:30,000
+included angle and 
+
+132
+00:05:30,000 --> 00:05:32,260
+compare this again to the 
+
+133
+00:05:35,100 --> 00:05:37,820
+congruence as sw is side side 
+
+134
+00:05:37,820 --> 00:05:41,260
+angle side angle very important with 
+these, it is 
+
+135
+00:05:41,260 --> 00:05:43,760
+not the included angle that is 
+
+136
+00:05:43,760 --> 00:05:47,040
+measured but the 
+
+137
+00:05:47,040 --> 00:05:49,580
+opposite side angle 
+
+138
+00:05:49,580 --> 00:05:51,880
+, i.e. the 
+
+139
+00:05:51,880 --> 00:05:53,200
+angle opposite the larger side . This is 
+
+140
+00:05:53,200 --> 00:05:54,160
+a bit complicated, 
+
+141
+00:05:54,160 --> 00:05:55,320
+you really have to memorize it. With 
+
+142
+00:05:55,320 --> 00:05:56,420
+the others, I think it was 
+
+143
+00:05:56,420 --> 00:05:58,360
+quite easy to remember. But 
+
+144
+00:05:58,360 --> 00:05:59,740
+here it's really like this: we've 
+
+145
+00:05:59,740 --> 00:06:01,460
+given two side lengths, which we 
+
+146
+00:06:01,460 --> 00:06:03,860
+measure again and also measure 
+
+147
+00:06:03,860 --> 00:06:07,780
+the angle opposite the larger 
+
+148
+00:06:07,780 --> 00:06:12,190
+side. As I said, this is very, 
+
+149
+00:06:12,230 --> 00:06:13,250
+very important. 
+
+150
+00:06:19,490 --> 00:06:22,950
+If an angle 
+
+151
+00:06:22,950 --> 00:06:26,370
+is opposite the smaller side , there is no 
+
+152
+00:06:26,370 --> 00:06:27,950
+competing set. That is very important. 
+
+153
+00:06:30,090 --> 00:06:33,090
+There are then attempts to 
+
+154
+00:06:33,090 --> 00:06:35,070
+
+155
+00:06:35,070 --> 00:06:40,290
+express this special case using lower case 
+letters , by 
+
+156
+00:06:40,290 --> 00:06:41,550
+making the second S lower case or even 
+
+157
+00:06:41,550 --> 00:06:42,530
+making the W lower case, simply to 
+
+158
+00:06:42,530 --> 00:06:45,470
+indicate that you 
+
+159
+00:06:45,470 --> 00:06:47,030
+
+160
+00:06:47,030 --> 00:06:48,890
+have taken the angle opposite the smaller 
+side . I would, however, 
+
+161
+00:06:48,890 --> 00:06:51,550
+always stick to the specified 
+
+162
+00:06:51,550 --> 00:06:52,570
+competing sets. 
+
+163
+00:06:55,740 --> 00:06:58,660
+That would be it for the 
+
+164
+00:06:58,660 --> 00:07:01,640
+competing sets. 
+
+165
+00:07:01,640 --> 00:07:02,580
+On the whole, you can simply 
+
+166
+00:07:02,580 --> 00:07:04,540
+say that you need them 
+
+167
+00:07:04,640 --> 00:07:07,120
+to prove that triangles 
+
+168
+00:07:07,120 --> 00:07:08,720
+are identical or that they compete 
+
+169
+00:07:08,720 --> 00:07:12,460
+with each other. And it is best 
+
+170
+00:07:12,460 --> 00:07:14,400
+to memorize them or know their 
+
+171
+00:07:14,400 --> 00:07:18,220
+meaning. We now come to a 
+
+172
+00:07:18,220 --> 00:07:20,800
+small example task. 
+
+173
+00:07:20,800 --> 00:07:22,620
+To be precise 
+
+174
+00:07:22,620 --> 00:07:24,420
+, it is an isosceles 
+
+175
+00:07:24,420 --> 00:07:25,240
+triangle, which is already clear from the 
+
+176
+00:07:25,240 --> 00:07:27,620
+task. And 
+
+177
+00:07:27,620 --> 00:07:29,160
+we are supposed to 
+
+178
+00:07:29,160 --> 00:07:30,780
+calculate the perimeter and the area. 
+
+179
+00:07:30,780 --> 00:07:32,460
+First of all, we see that we have side A 
+
+180
+00:07:32,460 --> 00:07:35,960
+with 7 cm and the base side C with 1.5 
+
+181
+00:07:35,960 --> 00:07:38,520
+cm, i.e. the C 
+
+182
+00:07:38,520 --> 00:07:39,840
+given here only extends to the 
+
+183
+00:07:39,840 --> 00:07:41,700
+center. In the case of an equilateral 
+triangle 
+
+184
+00:07:41,700 --> 00:07:44,360
+, the apex 
+
+185
+00:07:44,360 --> 00:07:45,800
+
+186
+00:07:45,800 --> 00:07:47,760
+sits exactly in the middle above the base 
+side and side B is of course 
+
+187
+00:07:47,760 --> 00:07:50,000
+just as long as side A. This is of 
+equilateral triangle . This is 
+
+188
+00:07:50,000 --> 00:07:51,140
+the property of an equilateral 
+
+189
+00:07:51,140 --> 00:07:52,300
+triangle, which we 
+
+190
+00:07:52,300 --> 00:07:55,900
+have already learned. To 
+
+191
+00:07:55,900 --> 00:07:58,420
+calculate the area , large A, we 
+
+192
+00:07:58,420 --> 00:08:01,240
+naturally need the height HC. 
+
+193
+00:08:01,240 --> 00:08:03,400
+Fortunately , we have already given this , 
+8 cm. 
+
+194
+00:08:04,420 --> 00:08:06,760
+And that's where we start now 
+
+195
+00:08:06,760 --> 00:08:08,540
+. First, we'll 
+
+196
+00:08:08,540 --> 00:08:10,780
+simply calculate the perimeter. The 
+circumference 
+
+197
+00:08:10,780 --> 00:08:13,420
+was simply A plus B plus C, in 
+
+198
+00:08:13,420 --> 00:08:17,100
+this case C' because C only goes to 
+
+199
+00:08:17,100 --> 00:08:19,580
+the middle and C' is the entire 
+
+200
+00:08:19,580 --> 00:08:21,820
+length. We can simply 
+
+201
+00:08:21,820 --> 00:08:24,320
+calculate C' by 
+
+202
+00:08:24,320 --> 00:08:26,820
+multiplying C by 2 because, if you 
+
+203
+00:08:26,820 --> 00:08:29,360
+like, we have the 
+
+204
+00:08:29,360 --> 00:08:30,300
+length C here again 
+
+205
+00:08:33,480 --> 00:08:36,900
+. So C is 3 cm long. We know 
+
+206
+00:08:36,900 --> 00:08:39,940
+that A is equal to B with 7 cm and so 
+
+207
+00:08:39,940 --> 00:08:41,020
+we get the circumference. The 
+circumference is 
+
+208
+00:08:41,020 --> 00:08:44,060
+7 plus 7 plus 3 centimeters, which 
+
+209
+00:08:44,060 --> 00:08:46,080
+makes 7 centimeters. We can therefore 
+
+210
+00:08:46,080 --> 00:08:48,200
+conclude that the perimeter of this 
+
+211
+00:08:48,200 --> 00:08:50,500
+isosceles triangle is 17 
+
+212
+00:08:50,500 --> 00:08:53,880
+centimetres. 
+
+213
+00:08:53,880 --> 00:08:55,140
+It is actually easier with the 
+
+214
+00:08:55,140 --> 00:08:59,720
+area. We have 
+
+215
+00:08:59,720 --> 00:09:00,900
+ already given the C -line, we 
+
+216
+00:09:00,900 --> 00:09:02,160
+always  need the entire length of the 
+
+217
+00:09:02,160 --> 00:09:04,720
+base side and the HC is also 
+
+218
+00:09:04,720 --> 00:09:06,380
+given. 
+
+219
+00:09:06,380 --> 00:09:07,360
+
+220
+00:09:07,360 --> 00:09:09,620
+This means that we have given everything 
+we need to insert here . so we 
+
+221
+00:09:09,620 --> 00:09:12,040
+simply insert the area of a is 
+
+222
+00:09:12,040 --> 00:09:14,340
+then equal to c line times hc line 
+
+223
+00:09:14,340 --> 00:09:16,460
+the hc line is simply the 
+
+224
+00:09:16,460 --> 00:09:19,240
+height that 
+
+225
+00:09:19,240 --> 00:09:21,720
+is on the base side c line so simply under 
+hc so 
+
+226
+00:09:21,720 --> 00:09:25,180
+we get 3 x 8 cm divided by 2 that makes 12 
+
+227
+00:09:25,180 --> 00:09:28,300
+square centimetres 
+
+228
+00:09:28,300 --> 00:09:30,200
+so we now know that the area of this 
+
+229
+00:09:30,200 --> 00:09:32,440
+triangle is 12 square centimetres 
+
+230
+00:09:32,440 --> 00:09:36,000
+and that would also be 
+
+231
+00:09:36,000 --> 00:09:38,560
+the example task. So as I said, 
+
+232
+00:09:38,700 --> 00:09:40,600
+always pay attention to what kind of 
+
+233
+00:09:40,600 --> 00:09:41,920
+triangle it is 
+
+234
+00:09:41,920 --> 00:09:43,200
+. This is often stated in 
+
+235
+00:09:43,200 --> 00:09:44,320
+the task, as is the 
+
+236
+00:09:44,320 --> 00:09:46,240
+case here. And this is important 
+
+237
+00:09:46,240 --> 00:09:47,680
+information for solving the task 
+
+238
+00:09:47,680 --> 00:09:49,200
+. Otherwise it is often 
+
+239
+00:09:49,200 --> 00:09:51,260
+simply not possible to 
+
+240
+00:09:51,260 --> 00:09:54,180
+solve it. That's why the knowledge we' 
+
+241
+00:09:54,180 --> 00:09:56,520
+ve just looked at is 
+
+242
+00:09:56,520 --> 00:09:57,360
+important. 
+
+243
+00:10:00,940 --> 00:10:03,060
+That 
+
+244
+00:10:03,060 --> 00:10:05,520
+brings us to the end of the webinar. I 
+hope you 
+
+245
+00:10:05,520 --> 00:10:06,720
+enjoyed it and 
+
+246
+00:10:06,720 --> 00:10:07,820
+were able to 
+
+247
+00:10:07,820 --> 00:10:10,020
+take something away from the webinar . 
+
+248
+00:10:10,020 --> 00:10:10,760
+In any case, thank you for your 
+
+249
+00:10:10,760 --> 00:10:13,060
+attention and 
+
+250
+00:10:13,060 --> 00:10:13,680
+have a nice evening. 

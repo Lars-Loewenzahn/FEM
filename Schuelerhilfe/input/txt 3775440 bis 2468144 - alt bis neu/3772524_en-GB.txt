@@ -1,0 +1,3298 @@
+﻿1
+00:00:02,510 --> 00:00:03,850
+Hello and welcome to our 
+
+2
+00:00:03,850 --> 00:00:06,010
+webinar on calculating with 
+
+3
+00:00:06,010 --> 00:00:08,650
+decimals. But before we really 
+
+4
+00:00:08,650 --> 00:00:10,990
+get started, is the sound loud, clear and 
+
+5
+00:00:10,990 --> 00:00:12,470
+distinct and can you see the picture 
+
+6
+00:00:12,470 --> 00:00:14,250
+? If so, please let me 
+
+7
+00:00:14,250 --> 00:00:15,970
+know very briefly in the chat with 
+
+8
+00:00:15,970 --> 00:00:17,770
+an OK or something like that and then 
+
+9
+00:00:17,770 --> 00:00:18,390
+we'll get started right away. 
+
+10
+00:00:22,710 --> 00:00:26,150
+All right, thank you. Yes, today we're 
+talking 
+
+11
+00:00:26,150 --> 00:00:27,830
+about decimal numbers and 
+
+12
+00:00:28,870 --> 00:00:30,410
+we're also using the term 
+
+13
+00:00:30,410 --> 00:00:32,290
+decimal fractions. We'll 
+
+14
+00:00:32,290 --> 00:00:33,590
+see exactly why we're doing this in a 
+moment. 
+
+15
+00:00:34,630 --> 00:00:35,730
+Namely, when we first 
+
+16
+00:00:35,730 --> 00:00:37,270
+answer the question , what are decimal 
+fractions 
+
+17
+00:00:37,270 --> 00:00:39,290
+and then we look at how we 
+
+18
+00:00:39,290 --> 00:00:40,530
+compare these decimal fractions with each 
+other 
+
+19
+00:00:40,530 --> 00:00:42,850
+or convert them into their 
+
+20
+00:00:42,850 --> 00:00:45,390
+two forms of representation. Then how 
+
+21
+00:00:45,390 --> 00:00:46,830
+we add, subtract, 
+
+22
+00:00:46,950 --> 00:00:48,350
+multiply and divide them. So 
+
+23
+00:00:48,350 --> 00:00:49,210
+we go 
+
+24
+00:00:49,210 --> 00:00:51,630
+through the four basic arithmetic 
+operations again. We 
+
+25
+00:00:51,630 --> 00:00:52,790
+now also refer to them as 
+
+26
+00:00:52,790 --> 00:00:54,210
+decimal fractions 
+
+27
+00:00:54,210 --> 00:00:55,910
+, but as we will see in a moment, 
+
+28
+00:00:56,010 --> 00:00:57,970
+this is less about fractions and more 
+
+29
+00:00:57,970 --> 00:00:59,090
+about the fact that we 
+
+30
+00:00:59,090 --> 00:01:00,990
+
+31
+00:01:00,990 --> 00:01:03,230
+can represent these decimal numbers in two 
+different ways . 
+
+32
+00:01:03,470 --> 00:01:05,650
+So, first of all, what are 
+
+33
+00:01:05,650 --> 00:01:09,910
+decimal fractions? 
+
+34
+00:01:09,910 --> 00:01:11,850
+We can 
+
+35
+00:01:11,850 --> 00:01:13,970
+represent these numbers in decimal 
+notation. 
+
+36
+00:01:13,970 --> 00:01:15,310
+We 
+
+37
+00:01:15,310 --> 00:01:17,890
+often simply refer to them as decimal 
+numbers. 
+
+38
+00:01:17,890 --> 00:01:21,710
+For example, we have 0.5, 3.12, 0 
+
+39
+00:01:21,710 --> 00:01:24,970
+, 111111. So we always have a 
+
+40
+00:01:24,970 --> 00:01:27,430
+comma to the left of the decimal point. 
+
+41
+00:01:27,510 --> 00:01:28,830
+These are all the numbers that we 
+
+42
+00:01:28,830 --> 00:01:30,670
+already knew before. The things 
+
+43
+00:01:30,670 --> 00:01:31,870
+we can count on our fingers 
+
+44
+00:01:31,870 --> 00:01:34,230
+and so on. And then we 
+
+45
+00:01:34,230 --> 00:01:35,530
+got these decimal places. 
+
+46
+00:01:36,530 --> 00:01:37,950
+That's one way of 
+
+47
+00:01:37,950 --> 00:01:39,730
+representing decimal numbers using 
+
+48
+00:01:39,730 --> 00:01:42,430
+decimal point notation. The other is in 
+the 
+
+49
+00:01:42,430 --> 00:01:44,370
+form of fractions. And what we are 
+
+50
+00:01:44,370 --> 00:01:45,850
+looking at today is 
+
+51
+00:01:45,850 --> 00:01:48,110
+not all possible fractions, but 
+
+52
+00:01:48,110 --> 00:01:50,010
+we are looking at fractions in particular 
+
+53
+00:01:50,010 --> 00:01:52,870
+by 
+
+54
+00:01:52,870 --> 00:01:55,330
+
+55
+00:01:55,330 --> 00:01:57,250
+finding a power of ten in the denominator, 
+i.e. in the lower number. The power of ten 
+
+56
+00:01:57,250 --> 00:01:59,050
+simply means that we always 
+
+57
+00:01:59,050 --> 00:02:01,530
+have a one and then zeros. So 
+
+58
+00:02:01,530 --> 00:02:02,990
+a ten, a hundred, a 
+
+59
+00:02:02,990 --> 00:02:05,090
+thousand, a ten thousand, always a 
+
+60
+00:02:05,090 --> 00:02:07,210
+one with a certain number of 
+
+61
+00:02:07,210 --> 00:02:08,950
+zeros behind it. Of course, there are 
+
+62
+00:02:08,950 --> 00:02:10,330
+still fractions where this 
+
+63
+00:02:10,330 --> 00:02:12,150
+is not the case. Generally speaking, we 
+
+64
+00:02:12,150 --> 00:02:13,330
+just talk about 
+
+65
+00:02:13,330 --> 00:02:14,850
+fractions. But when we talk about 
+
+66
+00:02:14,850 --> 00:02:16,810
+decimal fractions 
+
+67
+00:02:16,810 --> 00:02:18,730
+, we always mean those where 
+
+68
+00:02:18,730 --> 00:02:20,870
+such a number appears in the denominator. 
+
+69
+00:02:21,230 --> 00:02:22,990
+The reason behind this is that we 
+
+70
+00:02:22,990 --> 00:02:24,890
+
+71
+00:02:24,890 --> 00:02:26,310
+
+72
+00:02:26,310 --> 00:02:28,910
+
+73
+00:02:28,910 --> 00:02:30,390
+
+74
+00:02:30,430 --> 00:02:33,810
+can then do this conversion, the 
+representation between these two types and 
+ways, or the conversion between these two 
+representations, very easily. 
+
+75
+00:02:33,810 --> 00:02:34,930
+we will see that the four 
+
+76
+00:02:34,930 --> 00:02:36,190
+have in common if 
+
+77
+00:02:38,430 --> 00:02:40,470
+we now 
+
+78
+00:02:40,470 --> 00:02:42,550
+want to compare decimal fractions then we 
+must now 
+
+79
+00:02:42,550 --> 00:02:43,890
+generally look at okay how do 
+
+80
+00:02:43,890 --> 00:02:44,970
+we do it in one notation we 
+
+81
+00:02:44,970 --> 00:02:46,050
+do it in the other notation 
+
+82
+00:02:46,050 --> 00:02:48,750
+and by compare we always mean 
+
+83
+00:02:48,750 --> 00:02:50,550
+that we ask which of the two 
+
+84
+00:02:50,550 --> 00:02:52,510
+numbers is larger or smaller or 
+
+85
+00:02:52,510 --> 00:02:53,890
+are they perhaps both the same 
+
+86
+00:02:53,890 --> 00:02:56,890
+in the comma notation we go 
+
+87
+00:02:56,890 --> 00:02:58,890
+from left to right 
+
+88
+00:02:58,890 --> 00:03:00,510
+
+89
+00:03:00,510 --> 00:03:02,810
+through the individual digits of the 
+numbers with each other we 
+
+90
+00:03:02,810 --> 00:03:05,250
+simply compare them from which moment 
+
+91
+00:03:05,250 --> 00:03:07,370
+they are different and if they 
+
+92
+00:03:07,370 --> 00:03:08,710
+are different which is then 
+
+93
+00:03:08,710 --> 00:03:11,330
+larger or which is smaller 
+
+94
+00:03:11,330 --> 00:03:12,550
+so we take these two numbers 
+
+95
+00:03:12,550 --> 00:03:17,250
+here the 0,5 334 and the 0.5 38 and we 
+
+96
+00:03:17,250 --> 00:03:18,530
+want to compare this 
+
+97
+00:03:18,530 --> 00:03:20,090
+box in the middle, which is 
+
+98
+00:03:20,090 --> 00:03:21,830
+just a placeholder 
+
+99
+00:03:21,830 --> 00:03:23,150
+and we would like to 
+
+100
+00:03:23,150 --> 00:03:25,110
+write a sign for one is smaller 
+
+101
+00:03:25,110 --> 00:03:26,870
+than the other or it is larger than 
+
+102
+00:03:26,870 --> 00:03:28,670
+the other or maybe they are 
+
+103
+00:03:28,670 --> 00:03:30,230
+the same. To do this, we have to 
+
+104
+00:03:30,230 --> 00:03:32,570
+compare them. Yes, and we now go 
+
+105
+00:03:32,570 --> 00:03:34,730
+
+106
+00:03:34,730 --> 00:03:36,090
+through the individual digits step by step 
+from left to right. 
+
+107
+00:03:36,470 --> 00:03:38,090
+We actually start with the 
+
+108
+00:03:38,090 --> 00:03:40,190
+0 in front of the decimal point. Yes, 
+
+109
+00:03:40,190 --> 00:03:41,170
+of course we also compare them and 
+
+110
+00:03:41,290 --> 00:03:42,890
+find that they 
+
+111
+00:03:42,890 --> 00:03:44,370
+are the same. Okay, let's move on. Then we 
+have 
+
+112
+00:03:44,370 --> 00:03:45,930
+the decimal point. Then comes the first 
+
+113
+00:03:45,930 --> 00:03:47,470
+number after the decimal point, the first 
+
+114
+00:03:47,470 --> 00:03:49,970
+digit, the 5. 
+
+115
+00:03:49,970 --> 00:03:52,510
+We also have a 5 for the right-hand number 
+. 5 and 5 are 
+
+116
+00:03:52,510 --> 00:03:54,590
+of course the same digit. So 
+
+117
+00:03:54,590 --> 00:03:55,490
+we compare with the next 
+
+118
+00:03:55,490 --> 00:03:58,550
+digit. The 3 and the next digit 
+
+119
+00:03:58,550 --> 00:04:00,430
+here is also a 3. They are also 
+
+120
+00:04:00,430 --> 00:04:01,950
+the same. So we 
+
+121
+00:04:01,950 --> 00:04:04,070
+continue with the next digit. Now 
+
+122
+00:04:04,070 --> 00:04:06,590
+we take this 3. And now we have 
+
+123
+00:04:06,590 --> 00:04:07,790
+a different digit in the 
+
+124
+00:04:07,790 --> 00:04:08,990
+same place on the right , namely no longer 
+
+125
+00:04:08,990 --> 00:04:11,850
+the 3, but the 8. Yes, and 
+
+126
+00:04:11,850 --> 00:04:13,030
+we can then compare the two. 
+
+127
+00:04:13,030 --> 00:04:15,010
+We can say directly that the 3 is 
+
+128
+00:04:15,010 --> 00:04:17,050
+smaller than the 8. We always look 
+
+129
+00:04:17,050 --> 00:04:18,690
+from left to right. The left-hand number 
+
+130
+00:04:18,690 --> 00:04:21,170
+is smaller than the right-hand number. As 
+a 
+
+131
+00:04:21,170 --> 00:04:22,630
+reminder, the sign for smaller 
+
+132
+00:04:22,630 --> 00:04:24,730
+is this, let's call it 
+
+133
+00:04:24,730 --> 00:04:25,910
+an arrow 
+
+134
+00:04:25,910 --> 00:04:27,950
+pointing to the left. As a mnemonic, you 
+can 
+
+135
+00:04:27,950 --> 00:04:29,850
+remember that the tip of this 
+
+136
+00:04:29,850 --> 00:04:31,650
+arrow always points towards the smaller 
+number 
+
+137
+00:04:31,650 --> 00:04:33,730
+. That's why 3 is 
+
+138
+00:04:33,730 --> 00:04:36,490
+smaller than 8. Yes, and because this is 
+true, 
+
+139
+00:04:36,670 --> 00:04:38,650
+it also means that 
+
+140
+00:04:38,650 --> 00:04:41,150
+the left-hand 
+
+141
+00:04:41,150 --> 00:04:43,090
+number is smaller than the right-hand 
+number. Because 
+
+142
+00:04:43,090 --> 00:04:44,770
+we have 
+
+143
+00:04:44,770 --> 00:04:46,650
+compared digit by digit, step by step, 
+until we 
+
+144
+00:04:46,650 --> 00:04:48,130
+have identified a difference in 
+
+145
+00:04:48,130 --> 00:04:50,710
+a digit. And this difference, 
+
+146
+00:04:50,870 --> 00:04:51,930
+if one 
+
+147
+00:04:51,930 --> 00:04:53,550
+is larger and the other smaller, is then 
+transferred 
+
+148
+00:04:53,550 --> 00:04:57,640
+to the whole number. Yes, that 
+
+149
+00:04:57,640 --> 00:04:59,100
+also means that it no 
+
+150
+00:04:59,100 --> 00:05:00,360
+longer matters what comes after it. We 
+
+151
+00:05:00,360 --> 00:05:01,640
+can see that there is another digit here, 
+
+152
+00:05:01,700 --> 00:05:02,840
+there is another 4 for example, 
+
+153
+00:05:02,960 --> 00:05:04,200
+the numbers could 
+
+154
+00:05:04,200 --> 00:05:05,920
+be much longer altogether . The moment 
+
+155
+00:05:05,920 --> 00:05:06,880
+we find a digit that 
+
+156
+00:05:06,880 --> 00:05:08,480
+is different, we can 
+
+157
+00:05:08,480 --> 00:05:10,280
+stop the whole thing and say, okay, if 
+
+158
+00:05:10,280 --> 00:05:11,460
+one digit is smaller than the 
+
+159
+00:05:11,460 --> 00:05:12,920
+other, then that also applies to the 
+
+160
+00:05:12,920 --> 00:05:13,960
+numbers as a whole. 
+
+161
+00:05:20,170 --> 00:05:21,970
+When writing fractions 
+
+162
+00:05:21,970 --> 00:05:23,510
+, basically the same applies as with 
+fractions 
+
+163
+00:05:23,510 --> 00:05:25,630
+in general. So that we 
+
+164
+00:05:25,630 --> 00:05:27,570
+can compare the fractions , we have to 
+
+165
+00:05:27,570 --> 00:05:29,890
+bring them to the same denominator in 
+order to 
+
+166
+00:05:29,890 --> 00:05:31,770
+compare the numerators. So 
+
+167
+00:05:31,770 --> 00:05:33,210
+we have to expand, possibly 
+
+168
+00:05:33,210 --> 00:05:34,590
+shorten, but in most cases 
+
+169
+00:05:34,590 --> 00:05:37,010
+we expand in order to bring the fractions 
+
+170
+00:05:37,010 --> 00:05:38,310
+to the same denominator. So now we're 
+dealing 
+
+171
+00:05:38,310 --> 00:05:39,150
+with these 
+
+172
+00:05:39,150 --> 00:05:41,270
+powers of ten in the denominator, which 
+
+173
+00:05:41,270 --> 00:05:42,350
+
+174
+00:05:42,350 --> 00:05:44,350
+makes the whole thing a little bit easier. 
+Because here we want to 
+
+175
+00:05:44,350 --> 00:05:47,170
+compare the two fractions 3 
+
+176
+00:05:47,170 --> 00:05:52,330
+tenths and 33 hundredths. And we 
+
+177
+00:05:52,330 --> 00:05:53,830
+don't have to search long for 
+
+178
+00:05:53,830 --> 00:05:56,050
+a lowest common denominator 
+
+179
+00:05:56,050 --> 00:05:57,710
+, which is normally 
+
+180
+00:05:57,710 --> 00:05:58,830
+done by 
+
+181
+00:05:58,830 --> 00:06:01,850
+writing down both sets of numbers or 
+
+182
+00:06:01,850 --> 00:06:03,530
+doing other calculations. 
+
+183
+00:06:03,530 --> 00:06:04,690
+It's a bit 
+
+184
+00:06:04,690 --> 00:06:05,990
+easier with powers of ten . We have to 
+consider that 
+
+185
+00:06:06,050 --> 00:06:07,690
+we have a 10 on the left and 
+
+186
+00:06:07,690 --> 00:06:09,110
+a 100 on the right, 
+
+187
+00:06:09,110 --> 00:06:10,410
+which means we want to 
+
+188
+00:06:10,410 --> 00:06:12,730
+add a 0 to the denominator on the left. 
+Then 
+
+189
+00:06:12,730 --> 00:06:14,770
+we have a 100 in the 
+
+190
+00:06:14,770 --> 00:06:16,510
+denominator of both. And that 
+
+191
+00:06:16,510 --> 00:06:18,110
+ultimately means that I have to 
+
+192
+00:06:18,110 --> 00:06:20,470
+add 10 to the left-hand fraction. So, 
+
+193
+00:06:20,470 --> 00:06:22,150
+multiply the numerator by 10 and the 
+denominator 
+
+194
+00:06:22,150 --> 00:06:24,190
+by 10. Because, let's stay with the 
+
+195
+00:06:24,190 --> 00:06:26,410
+denominator, 10 times 10 is 100. We have 
+
+196
+00:06:26,410 --> 00:06:29,330
+added a 0. And in the numerator, 3 
+
+197
+00:06:29,330 --> 00:06:31,310
+times 10 is 30. We've also just 
+
+198
+00:06:31,310 --> 00:06:32,990
+added a 0. And 
+
+199
+00:06:32,990 --> 00:06:34,070
+in the end, that's also what 
+
+200
+00:06:34,070 --> 00:06:35,870
+happens. We just keep adding 
+
+201
+00:06:35,870 --> 00:06:37,230
+zeros to the numerator and denominator 
+
+202
+00:06:37,230 --> 00:06:38,670
+until both denominators are equal. 
+
+203
+00:06:39,470 --> 00:06:40,990
+So you don't have to think about it 
+
+204
+00:06:40,990 --> 00:06:42,370
+with the I have to 
+
+205
+00:06:42,370 --> 00:06:43,390
+take times 10 , but you can 
+
+206
+00:06:43,390 --> 00:06:45,150
+think about it directly , I 
+
+207
+00:06:45,150 --> 00:06:46,590
+add zeros to the numerator and denominator 
+until 
+
+208
+00:06:46,590 --> 00:06:48,610
+both fractions 
+
+209
+00:06:48,610 --> 00:06:51,230
+have the same number of zeros in the 
+denominator. So now we have 
+
+210
+00:06:51,230 --> 00:06:53,630
+established that the left-hand fraction, 3 
+
+211
+00:06:53,630 --> 00:06:55,890
+tenths, is exactly the same as 30 
+
+212
+00:06:55,890 --> 00:06:58,010
+hundredths and we can now 
+
+213
+00:06:58,010 --> 00:07:00,210
+compare them. 30 hundredths and 33 
+
+214
+00:07:00,210 --> 00:07:02,210
+hundredths. 
+
+215
+00:07:02,210 --> 00:07:04,110
+All we have to do is look at the counters. 
+30 
+
+216
+00:07:04,110 --> 00:07:08,070
+is smaller than 33, so 
+
+217
+00:07:08,070 --> 00:07:09,710
+the left-hand number or the left-hand 
+fraction must also 
+
+218
+00:07:09,710 --> 00:07:10,990
+be smaller than the right-hand fraction. 
+
+219
+00:07:11,150 --> 00:07:13,950
+Yes, because 3 tenths and 30 hundredths 
+
+220
+00:07:13,950 --> 00:07:16,770
+are the same. 30 is smaller than 
+
+221
+00:07:16,770 --> 00:07:19,490
+33 and therefore 
+
+222
+00:07:19,490 --> 00:07:21,310
+the left fraction is also smaller than the 
+
+223
+00:07:21,310 --> 00:07:21,830
+right fraction . 
+
+224
+00:07:25,750 --> 00:07:27,430
+So generally everything you 
+
+225
+00:07:27,430 --> 00:07:28,950
+know about fractions also applies to 
+
+226
+00:07:28,950 --> 00:07:30,930
+decimal fractions, except that it is often 
+a 
+
+227
+00:07:30,930 --> 00:07:32,470
+little bit easier because 
+
+228
+00:07:32,470 --> 00:07:33,810
+the denominators 
+
+229
+00:07:33,810 --> 00:07:36,330
+are always these numbers with 10, 100, 
+1000, 10,000 and so 
+
+230
+00:07:36,330 --> 00:07:36,550
+on. 
+
+231
+00:07:42,200 --> 00:07:44,000
+Now we come to the conversion. 
+
+232
+00:07:44,100 --> 00:07:45,760
+How do we get from decimal 
+
+233
+00:07:45,760 --> 00:07:47,120
+ notation to fraction notation 
+
+234
+00:07:47,120 --> 00:07:49,980
+and then vice versa? Let's 
+
+235
+00:07:49,980 --> 00:07:51,060
+take a look at an example 
+
+236
+00:07:51,060 --> 00:07:53,400
+with the number 0.283 
+
+237
+00:07:56,150 --> 00:07:57,650
+. And the first step we 
+
+238
+00:07:57,650 --> 00:07:59,630
+take is to 
+
+239
+00:07:59,630 --> 00:08:01,470
+
+240
+00:08:01,470 --> 00:08:02,930
+
+241
+00:08:02,930 --> 00:08:04,890
+
+242
+00:08:04,890 --> 00:08:06,470
+count the number of 
+
+243
+00:08:06,470 --> 00:08:08,150
+digits after the decimal point or the 
+number of digits after the decimal point, 
+i.e. to the right of the decimal point. 
+Two, the eight and the three 
+
+244
+00:08:08,150 --> 00:08:09,910
+are a total of three digits after the 
+decimal 
+
+245
+00:08:09,910 --> 00:08:11,050
+point. This will be 
+
+246
+00:08:11,050 --> 00:08:11,330
+important again later. 
+
+247
+00:08:14,310 --> 00:08:16,610
+We want to 
+
+248
+00:08:16,610 --> 00:08:18,790
+put together a fraction that 
+
+249
+00:08:18,790 --> 00:08:21,550
+has the same value as 0.283 and 
+
+250
+00:08:21,550 --> 00:08:22,970
+we already know that the denominator 
+
+251
+00:08:22,970 --> 00:08:24,110
+of this fraction will contain this 
+
+252
+00:08:24,110 --> 00:08:25,990
+power of ten. A 10, a 
+
+253
+00:08:25,990 --> 00:08:28,530
+100, a 1000 and so on. We 
+
+254
+00:08:28,530 --> 00:08:29,690
+have to find out what the 
+
+255
+00:08:29,690 --> 00:08:31,730
+power of ten is and for this 
+
+256
+00:08:31,730 --> 00:08:33,690
+we have 
+
+257
+00:08:33,690 --> 00:08:36,170
+counted these three digits . Because we 
+write exactly as 
+
+258
+00:08:36,170 --> 00:08:38,630
+many zeros after the 1 as we 
+
+259
+00:08:38,630 --> 00:08:40,170
+have counted digits. In 
+
+260
+00:08:40,170 --> 00:08:42,190
+our case, this means that the decimal 
+fraction 
+
+261
+00:08:42,190 --> 00:08:44,250
+that we form has a 
+
+262
+00:08:44,250 --> 00:08:46,210
+number in the denominator that starts with 
+a 1 and 
+
+263
+00:08:46,210 --> 00:08:48,390
+then has three zeros. So we need 
+
+264
+00:08:48,390 --> 00:08:50,110
+a 1000 in the denominator. 
+
+265
+00:08:56,110 --> 00:08:57,730
+
+266
+00:08:57,830 --> 00:09:00,110
+
+267
+00:09:00,110 --> 00:09:01,730
+The digits 
+
+268
+00:09:01,730 --> 00:09:03,910
+we have counted here are simply the digits 
+on the fraction , i.e. in the numerator . 
+We've just 
+
+269
+00:09:03,910 --> 00:09:05,230
+counted, but we're 
+
+270
+00:09:05,230 --> 00:09:06,190
+not writing in the 3, we're 
+
+271
+00:09:06,190 --> 00:09:07,450
+actually writing in these digits. 
+
+272
+00:09:07,510 --> 00:09:10,270
+So the 2, the 8 and the 3, which would 
+then 
+
+273
+00:09:10,270 --> 00:09:11,650
+
+274
+00:09:11,650 --> 00:09:16,590
+simply be 283 when expressed as a number. 
+And 
+
+275
+00:09:16,610 --> 00:09:17,570
+we have already determined the denominator 
+
+276
+00:09:17,570 --> 00:09:18,130
+, which means we can now 
+
+277
+00:09:18,130 --> 00:09:19,070
+actually summarize it in 
+
+278
+00:09:19,070 --> 00:09:21,170
+one step. 
+
+279
+00:09:21,170 --> 00:09:23,670
+By counting the digits , we have 
+determined that 
+
+280
+00:09:23,670 --> 00:09:25,550
+we need 1000 in the denominator 
+
+281
+00:09:25,550 --> 00:09:27,250
+. 1000 has three zeros and our number 
+
+282
+00:09:27,250 --> 00:09:29,650
+has three decimal places. And in the 
+
+283
+00:09:29,650 --> 00:09:30,790
+numerator, we then simply write 
+
+284
+00:09:30,790 --> 00:09:32,530
+this number as if it had no 
+
+285
+00:09:32,530 --> 00:09:33,830
+decimal point and of course we can 
+
+286
+00:09:33,830 --> 00:09:35,890
+save the zero at the front. And 
+
+287
+00:09:35,890 --> 00:09:37,850
+we simply get the 283 
+
+288
+00:09:37,850 --> 00:09:40,750
+thousandth. Because that's also 
+
+289
+00:09:40,790 --> 00:09:42,530
+what this number is here. We have 
+
+290
+00:09:42,530 --> 00:09:43,950
+the first decimal place, that's 
+
+291
+00:09:43,950 --> 00:09:45,990
+the tenths. The next is the 
+
+292
+00:09:45,990 --> 00:09:47,870
+hundredths and then it's the 
+
+293
+00:09:47,870 --> 00:09:49,350
+thousandths. In other words, if we look at 
+it 
+
+294
+00:09:49,350 --> 00:09:51,630
+from this thousandths place 
+
+295
+00:09:51,630 --> 00:09:54,710
+, it's 283 
+
+296
+00:09:54,710 --> 00:09:57,410
+thousandths. This is also 
+
+297
+00:09:57,410 --> 00:09:59,450
+something that is 
+
+298
+00:09:59,450 --> 00:10:02,070
+measured in sports, for example, in the 
+stopwatch time, where 
+
+299
+00:10:02,070 --> 00:10:03,130
+it is measured in hundredths or 
+
+300
+00:10:03,130 --> 00:10:06,010
+thousandths of a second. And 
+
+301
+00:10:06,010 --> 00:10:07,270
+this is also displayed in such a way 
+
+302
+00:10:07,290 --> 00:10:09,210
+that you say we have 10 seconds 
+
+303
+00:10:09,210 --> 00:10:12,930
+and 283 thousandths of a second. This 
+
+304
+00:10:12,930 --> 00:10:14,450
+can also be indicated with a 
+
+305
+00:10:14,450 --> 00:10:16,550
+decimal number or with a 
+
+306
+00:10:16,550 --> 00:10:18,570
+fraction. Ultimately, both mean 
+
+307
+00:10:18,570 --> 00:10:19,150
+the same thing. 
+
+308
+00:10:25,010 --> 00:10:26,390
+Now let's look at the reverse 
+
+309
+00:10:26,390 --> 00:10:27,970
+order. And then we'll 
+
+310
+00:10:27,970 --> 00:10:29,850
+go straight to a fraction 
+
+311
+00:10:29,850 --> 00:10:32,670
+that doesn't correspond to the idea 
+
+312
+00:10:32,670 --> 00:10:34,530
+of a decimal fraction that we 
+
+313
+00:10:34,530 --> 00:10:36,130
+learned earlier. We see that we 
+
+314
+00:10:36,130 --> 00:10:38,090
+don't have a power of 
+
+315
+00:10:38,090 --> 00:10:41,270
+10 in the denominator here , but that's 
+not a problem, we'll 
+
+316
+00:10:41,270 --> 00:10:42,390
+just raise it to a 
+
+317
+00:10:42,390 --> 00:10:43,810
+power of 10, we would do that 
+
+318
+00:10:43,810 --> 00:10:45,870
+anyway and then we can 
+
+319
+00:10:45,870 --> 00:10:48,330
+quickly convert it. 
+
+320
+00:10:48,330 --> 00:10:49,590
+Let's take an extra 
+
+321
+00:10:49,590 --> 00:10:51,150
+step now so that we can include the 
+
+322
+00:10:51,150 --> 00:10:53,030
+more general case 
+
+323
+00:10:53,030 --> 00:10:54,390
+, but we'll see straight away that 
+
+324
+00:10:54,390 --> 00:10:55,690
+the whole thing is 
+
+325
+00:10:55,690 --> 00:10:57,750
+the same again from the second step 
+onwards anyway. 
+
+326
+00:10:57,750 --> 00:10:59,530
+The idea is to expand the fraction 
+
+327
+00:10:59,530 --> 00:11:01,150
+or shorten it, depending on what 
+
+328
+00:11:01,150 --> 00:11:03,710
+is appropriate in the situation, so that 
+
+329
+00:11:03,710 --> 00:11:05,690
+the denominator is a 10, a 100, 
+
+330
+00:11:05,750 --> 00:11:07,690
+a 1000 or something more appropriate 
+
+331
+00:11:07,690 --> 00:11:11,310
+. In our case, we have 
+
+332
+00:11:11,310 --> 00:11:13,230
+25 in the denominator. You have to 
+
+333
+00:11:13,230 --> 00:11:14,810
+think about how you can 
+
+334
+00:11:14,810 --> 00:11:17,390
+
+335
+00:11:17,390 --> 00:11:18,930
+get from 25 to the next possible power of 
+ten . Yes, then you go 
+
+336
+00:11:18,930 --> 00:11:21,970
+through the 25 series and find 
+
+337
+00:11:21,970 --> 00:11:24,970
+the 100 relatively quickly. 100, because 
+25 
+
+338
+00:11:24,970 --> 00:11:29,610
+times 4 is 100. 
+
+339
+00:11:29,610 --> 00:11:31,010
+So that means we can 
+
+340
+00:11:31,010 --> 00:11:33,150
+add 4 to this fraction . In the numerator, 
+we calculate 6 
+
+341
+00:11:33,150 --> 00:11:35,310
+times 4, which is 24. In the denominator 
+
+342
+00:11:35,310 --> 00:11:37,290
+, we calculate 25 times 4, which is 100. 
+That 
+
+343
+00:11:37,290 --> 00:11:38,390
+'s the number we wanted. 
+
+344
+00:11:38,710 --> 00:11:39,830
+And now we have the 
+
+345
+00:11:39,830 --> 00:11:42,270
+decimal fraction. So, 
+
+346
+00:11:42,270 --> 00:11:43,490
+of course , if we 
+
+347
+00:11:43,490 --> 00:11:44,830
+start directly with the decimal fraction , 
+then we don't have to 
+
+348
+00:11:44,830 --> 00:11:45,970
+do that. But now you can also see that you 
+can 
+
+349
+00:11:46,010 --> 00:11:46,970
+do it with a different 
+
+350
+00:11:46,970 --> 00:11:48,650
+fraction by taking it to 
+
+351
+00:11:48,650 --> 00:11:49,910
+a power of ten. 
+
+352
+00:11:52,880 --> 00:11:54,220
+What we do now is 
+
+353
+00:11:54,220 --> 00:11:56,180
+write down the number in the numerator 
+first, 
+
+354
+00:11:56,300 --> 00:11:58,680
+i.e. individually. We take it 
+
+355
+00:11:58,680 --> 00:12:00,320
+out first. The numerator is the number 24, 
+
+356
+00:12:01,000 --> 00:12:02,360
+but we know that we 
+
+357
+00:12:02,360 --> 00:12:03,760
+still have to put a decimal point there. 
+The 
+
+358
+00:12:03,760 --> 00:12:08,710
+only question is , where do we put the 
+decimal point? And 
+
+359
+00:12:08,710 --> 00:12:11,030
+let's imagine that 
+
+360
+00:12:11,030 --> 00:12:12,910
+not only is there 24, but there' 
+
+361
+00:12:12,910 --> 00:12:14,550
+s also a 
+
+362
+00:12:14,550 --> 00:12:16,410
+comma behind it , so to speak. Let 
+
+363
+00:12:16,410 --> 00:12:17,790
+'s pretend that we 
+
+364
+00:12:17,790 --> 00:12:19,830
+take this 24 out and if the 24 
+
+365
+00:12:19,830 --> 00:12:21,510
+had a comma , then it would be behind it. 
+
+366
+00:12:21,650 --> 00:12:23,990
+Then it would basically be 24.0 
+
+367
+00:12:23,990 --> 00:12:26,690
+. 
+
+368
+00:12:26,690 --> 00:12:28,690
+But now we have to move this decimal 
+point. 
+
+369
+00:12:28,690 --> 00:12:31,390
+We move it to the left by as 
+
+370
+00:12:31,390 --> 00:12:34,150
+many places as we 
+
+371
+00:12:34,150 --> 00:12:35,630
+have zeros here in the denominator. We 
+have 
+
+372
+00:12:35,630 --> 00:12:37,970
+two zeros of 100 in the denominator 
+
+373
+00:12:37,970 --> 00:12:39,290
+, which means that we 
+
+374
+00:12:39,290 --> 00:12:41,270
+now have to move this decimal point, which 
+is behind the number, 
+
+375
+00:12:41,270 --> 00:12:43,630
+to the left twice. If we 
+
+376
+00:12:43,630 --> 00:12:44,890
+move it to the left once, 
+
+377
+00:12:44,890 --> 00:12:46,530
+it is between the 2 and the 4, 
+
+378
+00:12:46,530 --> 00:12:49,210
+which would be 2.4. And if we 
+
+379
+00:12:49,210 --> 00:12:51,050
+move it again , then we 
+
+380
+00:12:51,050 --> 00:12:53,970
+actually have decimal point 2.4. But we 
+can 
+
+381
+00:12:53,970 --> 00:12:55,010
+'t leave a decimal point like this on its 
+own 
+
+382
+00:12:55,010 --> 00:12:56,290
+, so we would 
+
+383
+00:12:56,290 --> 00:12:57,430
+of course 
+
+384
+00:12:57,430 --> 00:13:00,150
+add the 0 in front of it. So if we 
+
+385
+00:13:00,150 --> 00:13:02,470
+move the decimal point two places to 
+
+386
+00:13:02,470 --> 00:13:04,290
+the left from 24 , it will be in front of 
+
+387
+00:13:04,290 --> 00:13:06,930
+2 and 4 and then we 
+
+388
+00:13:06,930 --> 00:13:09,470
+add the 0. And then 
+
+389
+00:13:09,470 --> 00:13:13,800
+we have the 0.24. 
+
+390
+00:13:13,800 --> 00:13:14,460
+I didn't want to 
+
+391
+00:13:14,460 --> 00:13:15,920
+remove it that quickly. Leave it for a 
+moment. 
+
+392
+00:13:22,720 --> 00:13:25,700
+So the idea is then that we can 
+
+393
+00:13:25,700 --> 00:13:27,580
+try to 
+
+394
+00:13:27,580 --> 00:13:30,240
+convert it to a power of 10 or 100, if 
+
+395
+00:13:30,240 --> 00:13:32,300
+possible. But the actual 
+
+396
+00:13:32,300 --> 00:13:33,160
+interesting steps that 
+
+397
+00:13:33,160 --> 00:13:34,600
+happen then are, we 
+
+398
+00:13:34,600 --> 00:13:35,940
+write down the numerator and 
+
+399
+00:13:35,940 --> 00:13:37,300
+then move the decimal point, which always 
+
+400
+00:13:37,300 --> 00:13:39,460
+starts after it, as many places 
+
+401
+00:13:39,460 --> 00:13:40,860
+to the left as we 
+
+402
+00:13:40,860 --> 00:13:43,620
+have zeros in the denominator . Of course, 
+there are 
+
+403
+00:13:43,620 --> 00:13:45,000
+some fractions that are not 
+
+404
+00:13:45,000 --> 00:13:46,460
+so easy to reduce to a power of ten 
+
+405
+00:13:46,460 --> 00:13:48,240
+. Of course, there is always 
+
+406
+00:13:48,240 --> 00:13:49,520
+the other strategy, which we 
+
+407
+00:13:49,520 --> 00:13:51,400
+then 
+
+408
+00:13:51,400 --> 00:13:52,620
+
+409
+00:13:52,620 --> 00:13:54,280
+bring up again in our webinar on fractions 
+in general , where you then 
+
+410
+00:13:54,280 --> 00:13:55,880
+
+411
+00:13:55,880 --> 00:13:57,400
+carry out the classic written division , 
+where you simply 
+
+412
+00:13:57,400 --> 00:13:59,120
+go and say, I'll divide the 6 
+
+413
+00:13:59,120 --> 00:14:01,760
+by the 25 and do the 
+
+414
+00:14:01,760 --> 00:14:03,440
+written division. Today, 
+
+415
+00:14:03,440 --> 00:14:04,680
+however, it's mainly about decimal 
+fractions 
+
+416
+00:14:04,680 --> 00:14:05,820
+and you would 
+
+417
+00:14:05,820 --> 00:14:07,940
+usually start here, with the 24 
+
+418
+00:14:07,940 --> 00:14:09,760
+hundredths, as you've seen, 
+
+419
+00:14:09,940 --> 00:14:11,280
+you can 
+
+420
+00:14:11,280 --> 00:14:12,300
+solve that quite simply with a decimal 
+point shift. 
+
+421
+00:14:16,930 --> 00:14:18,490
+So, let's continue with 
+
+422
+00:14:18,490 --> 00:14:19,950
+addition and subtraction. 
+
+423
+00:14:19,950 --> 00:14:23,200
+Subtractions. What we already know 
+
+424
+00:14:23,200 --> 00:14:25,300
+is how to 
+
+425
+00:14:25,300 --> 00:14:27,120
+
+426
+00:14:27,120 --> 00:14:28,920
+carry out general written addition or 
+written subtraction. 
+
+427
+00:14:29,020 --> 00:14:30,560
+Here on the right is a quick 
+
+428
+00:14:30,560 --> 00:14:31,740
+example. You write the numbers 
+
+429
+00:14:31,740 --> 00:14:33,880
+on top of each other, then go from place 
+to 
+
+430
+00:14:33,880 --> 00:14:36,040
+place, from right to left and 
+
+431
+00:14:36,040 --> 00:14:38,020
+add or subtract 
+
+432
+00:14:38,020 --> 00:14:39,840
+the numbers accordingly. It 
+
+433
+00:14:39,840 --> 00:14:41,300
+sometimes happens that you 
+
+434
+00:14:41,300 --> 00:14:44,080
+have to take one in mind , but in general 
+
+435
+00:14:44,080 --> 00:14:47,900
+
+436
+00:14:47,920 --> 00:14:48,880
+
+437
+00:14:48,880 --> 00:14:50,280
+we know the calculation, the written 
+addition, the written subtraction . Now 
+
+438
+00:14:50,280 --> 00:14:52,600
+the question is, of course , how do you do 
+it with 
+
+439
+00:14:52,600 --> 00:14:56,240
+decimal fractions? Basically, you do 
+
+440
+00:14:56,240 --> 00:14:57,780
+it the same way. You just have to make 
+sure that you 
+
+441
+00:14:57,780 --> 00:14:58,900
+
+442
+00:14:58,900 --> 00:15:00,260
+write the numbers correctly one below the 
+other and 
+
+443
+00:15:00,260 --> 00:15:01,200
+the decimal point is 
+
+444
+00:15:01,200 --> 00:15:02,940
+crucial. You 
+
+445
+00:15:02,940 --> 00:15:04,860
+always write the numbers underneath each 
+other so that the 
+
+446
+00:15:04,860 --> 00:15:06,380
+comma 
+
+447
+00:15:06,380 --> 00:15:08,180
+is also underneath each other. This is 
+because the 
+
+448
+00:15:08,180 --> 00:15:09,500
+ones are then under ones, tens under 
+
+449
+00:15:09,500 --> 00:15:12,300
+tens, tenths under tenths, 
+
+450
+00:15:12,300 --> 00:15:13,560
+hundredths under hundredths and 
+
+451
+00:15:13,560 --> 00:15:15,280
+so on. So the same 
+
+452
+00:15:15,280 --> 00:15:16,920
+principle applies, except that 
+
+453
+00:15:17,140 --> 00:15:18,060
+if we 
+
+454
+00:15:18,060 --> 00:15:19,660
+write it down like a table, we have an 
+extra column 
+
+455
+00:15:19,660 --> 00:15:21,540
+for the decimal point. Here we have the 
+
+456
+00:15:21,540 --> 00:15:24,580
+number 0.48 and we have the number 12 
+
+457
+00:15:24,580 --> 00:15:27,860
+.099. And if we 
+
+458
+00:15:27,860 --> 00:15:29,480
+want to  add or subtract  them , then 
+
+459
+00:15:29,480 --> 00:15:30,500
+we have to 
+
+460
+00:15:30,500 --> 00:15:31,560
+write them one below the other so that the 
+decimal point 
+
+461
+00:15:31,560 --> 00:15:33,040
+is underneath and all the other 
+
+462
+00:15:33,040 --> 00:15:34,960
+numbers automatically 
+
+463
+00:15:34,960 --> 00:15:36,760
+match in terms of their position. Yes, 
+
+464
+00:15:36,760 --> 00:15:37,800
+you just have to 
+
+465
+00:15:37,800 --> 00:15:40,360
+write it down thoroughly. And in general, 
+
+466
+00:15:40,360 --> 00:15:41,780
+of course, if 
+
+467
+00:15:41,780 --> 00:15:43,360
+one place is left blank, 
+
+468
+00:15:43,360 --> 00:15:44,800
+you can also write a 0 there 
+
+469
+00:15:44,800 --> 00:15:47,920
+or add a 0 and then 
+
+470
+00:15:47,920 --> 00:15:49,120
+
+471
+00:15:49,120 --> 00:15:51,180
+calculate from right to left as usual. 
+Yes, we think 0 
+
+472
+00:15:51,180 --> 00:15:53,460
+plus the 9 is then the 9, then 
+
+473
+00:15:53,460 --> 00:15:54,200
+we 
+
+474
+00:15:54,200 --> 00:15:57,440
+continue with the next digit. The 8 plus 
+the 9 is actually 
+
+475
+00:15:57,440 --> 00:15:59,260
+the 17, so we 
+
+476
+00:15:59,260 --> 00:16:01,200
+add a 7 , 1 in mind. A 
+
+477
+00:16:01,200 --> 00:16:02,560
+1 in lower case should of course 
+
+478
+00:16:02,560 --> 00:16:04,360
+be written here. Here plus 
+
+479
+00:16:04,360 --> 00:16:06,780
+this 1 in the sense is the 5 and so 
+
+480
+00:16:06,780 --> 00:16:08,380
+on. Now you write the whole thing 
+
+481
+00:16:08,380 --> 00:16:09,940
+to the left. And the comma 
+
+482
+00:16:09,940 --> 00:16:11,420
+is then simply a sign, which you 
+
+483
+00:16:11,420 --> 00:16:12,540
+then place in the same 
+
+484
+00:16:12,540 --> 00:16:14,840
+position. This means 
+
+485
+00:16:14,840 --> 00:16:16,880
+that written addition and 
+
+486
+00:16:16,880 --> 00:16:18,080
+written subtraction 
+
+487
+00:16:18,080 --> 00:16:19,240
+also work with 
+
+488
+00:16:19,240 --> 00:16:20,820
+decimal fractions. You just have to 
+
+489
+00:16:20,820 --> 00:16:22,020
+write it properly so that the 
+
+490
+00:16:22,020 --> 00:16:23,000
+decimal point is underneath each other. 
+
+491
+00:16:26,800 --> 00:16:28,760
+That really is the most important thing 
+
+492
+00:16:28,760 --> 00:16:28,940
+. 
+
+493
+00:16:34,670 --> 00:16:36,450
+We 
+
+494
+00:16:36,450 --> 00:16:37,590
+already know the written 
+
+495
+00:16:37,590 --> 00:16:38,750
+version of multiplication , written 
+
+496
+00:16:38,750 --> 00:16:40,530
+multiplication, where we 
+
+497
+00:16:40,530 --> 00:16:41,890
+always 
+
+498
+00:16:41,890 --> 00:16:45,010
+multiply digit by digit . And then we do 
+it once 
+
+499
+00:16:45,010 --> 00:16:46,070
+with one digit, once 
+
+500
+00:16:46,070 --> 00:16:47,270
+with the other digit and 
+
+501
+00:16:47,270 --> 00:16:48,170
+then we have to 
+
+502
+00:16:48,170 --> 00:16:50,070
+
+503
+00:16:50,070 --> 00:16:54,340
+add all our intermediate results together. 
+And here, too, you can 
+
+504
+00:16:54,340 --> 00:16:55,900
+think about 
+
+505
+00:16:55,900 --> 00:16:58,120
+transferring this to decimal fractions, to 
+
+506
+00:17:00,520 --> 00:17:03,180
+our decimal notation. But 
+
+507
+00:17:03,180 --> 00:17:04,600
+here, too , it is important 
+
+508
+00:17:04,680 --> 00:17:06,460
+that we count the number of 
+
+509
+00:17:06,460 --> 00:17:09,200
+decimal places and then 
+
+510
+00:17:09,200 --> 00:17:10,840
+use them again at the end. So there is 
+
+511
+00:17:10,840 --> 00:17:12,340
+a slightly different principle here. 
+
+512
+00:17:13,220 --> 00:17:14,660
+Let's take a direct look 
+
+513
+00:17:14,660 --> 00:17:16,400
+at the example. Then 
+
+514
+00:17:16,400 --> 00:17:17,540
+we'll go through the sentences again. 
+
+515
+00:17:17,620 --> 00:17:18,780
+I prefer to show it 
+
+516
+00:17:18,780 --> 00:17:20,280
+directly using the example first. We have 
+
+517
+00:17:20,280 --> 00:17:23,500
+the numbers 0.23 and 2.5 here and we 
+
+518
+00:17:23,500 --> 00:17:26,680
+would like to use them. 
+
+519
+00:17:26,680 --> 00:17:28,460
+
+520
+00:17:28,460 --> 00:17:29,980
+
+521
+00:17:29,980 --> 00:17:30,920
+We'll do the actual multiplication in the 
+form of written multiplication right now 
+
+522
+00:17:30,920 --> 00:17:35,760
+, without the decimal point. 
+
+523
+00:17:35,760 --> 00:17:36,740
+But before we do that, let's count how 
+many 
+
+524
+00:17:36,740 --> 00:17:38,040
+decimal places we have in total. 
+
+525
+00:17:38,660 --> 00:17:40,300
+We have two decimal places in the 
+left-hand number 
+
+526
+00:17:40,300 --> 00:17:41,700
+and 
+
+527
+00:17:41,700 --> 00:17:43,480
+one in the right-hand number. 
+
+528
+00:17:43,480 --> 00:17:45,760
+This adds up to three. We need this 
+
+529
+00:17:45,760 --> 00:17:46,960
+at the very end when we 
+
+530
+00:17:46,960 --> 00:17:49,140
+determine our final result. We 
+
+531
+00:17:49,140 --> 00:17:52,100
+have a total of three decimal places. Then 
+
+532
+00:17:52,100 --> 00:17:54,420
+we 
+
+533
+00:17:54,420 --> 00:17:56,600
+multiply the numbers without the decimal 
+point . This means we leave 
+
+534
+00:17:56,600 --> 00:17:58,700
+out the decimal point at 0.23. Then we can 
+
+535
+00:17:58,700 --> 00:17:59,840
+also leave out the 0 and we have 
+
+536
+00:17:59,840 --> 00:18:03,980
+the number 23. The 2.5, we leave 
+
+537
+00:18:03,980 --> 00:18:05,260
+out the decimal point and basically have 
+the 
+
+538
+00:18:05,260 --> 00:18:08,100
+number 25. So basically, these are 
+
+539
+00:18:08,100 --> 00:18:09,320
+completely different numbers, 
+
+540
+00:18:09,520 --> 00:18:10,800
+because the decimal point is of course 
+removed. 
+
+541
+00:18:10,800 --> 00:18:12,700
+But we multiply them together, 
+
+542
+00:18:12,820 --> 00:18:15,540
+23 times 25, with the written 
+
+543
+00:18:15,540 --> 00:18:17,680
+multiplication or maybe 
+
+544
+00:18:17,680 --> 00:18:18,720
+that results in numbers that you 
+
+545
+00:18:18,720 --> 00:18:20,180
+can even multiply together in your head. 
+
+546
+00:18:20,360 --> 00:18:22,180
+The important thing is to carry out the 
+
+547
+00:18:22,180 --> 00:18:24,140
+multiplication calculation without the 
+decimal point. 
+
+548
+00:18:24,820 --> 00:18:26,700
+And the result of this multiplication 
+
+549
+00:18:26,700 --> 00:18:31,220
+is 575 
+
+550
+00:18:31,220 --> 00:18:32,200
+, but now we know that we have to 
+
+551
+00:18:32,200 --> 00:18:34,400
+add the decimal point again. 
+
+552
+00:18:34,400 --> 00:18:37,660
+The result of 0.23 times 2.5 is not 
+actually the 
+
+553
+00:18:37,660 --> 00:18:41,180
+number 575, but we counted three 
+
+554
+00:18:41,180 --> 00:18:43,440
+decimal places earlier, so 
+
+555
+00:18:43,440 --> 00:18:44,920
+our result must 
+
+556
+00:18:44,920 --> 00:18:47,800
+now also have three decimal places. 
+
+557
+00:18:49,160 --> 00:18:51,140
+So we imagine again that the 
+
+558
+00:18:51,140 --> 00:18:52,260
+decimal point is actually behind it 
+
+559
+00:18:52,260 --> 00:18:53,960
+and we now have to move it 
+
+560
+00:18:53,960 --> 00:18:56,100
+three places to the left. 
+
+561
+00:18:57,800 --> 00:18:59,380
+And if we move it three places to 
+
+562
+00:18:59,380 --> 00:19:01,120
+the left, then it will be 
+
+563
+00:19:01,120 --> 00:19:03,160
+in front of the 5, i.e. in front of all 
+the 
+
+564
+00:19:03,160 --> 00:19:04,660
+decimal places that we 
+
+565
+00:19:04,660 --> 00:19:09,240
+have just calculated. Before the 5, 7, 5, 
+which 
+
+566
+00:19:09,240 --> 00:19:10,640
+is exactly three places. 
+
+567
+00:19:11,780 --> 00:19:13,500
+Of course, if the decimal point is on 
+
+568
+00:19:13,500 --> 00:19:15,540
+the far left at the front, then 
+
+569
+00:19:15,540 --> 00:19:16,840
+there must be another 0 in front of it. 
+
+570
+00:19:17,160 --> 00:19:19,320
+The number cannot 
+
+571
+00:19:19,320 --> 00:19:20,300
+start with a comma , but must 
+
+572
+00:19:20,300 --> 00:19:22,740
+be preceded by a 0. So the 
+
+573
+00:19:22,740 --> 00:19:25,420
+result is 0.575. After we 
+
+574
+00:19:25,420 --> 00:19:27,040
+
+575
+00:19:27,040 --> 00:19:29,120
+have basically taken the numbers without 
+the decimal point and then 
+
+576
+00:19:29,120 --> 00:19:30,180
+added the decimal point at the end. 
+
+577
+00:19:42,710 --> 00:19:43,990
+Finally, we look at the 
+
+578
+00:19:43,990 --> 00:19:47,230
+division. And with the division, 
+
+579
+00:19:47,230 --> 00:19:47,990
+we... we also play 
+
+580
+00:19:47,990 --> 00:19:49,030
+around a bit with the decimal point again 
+, 
+
+581
+00:19:49,030 --> 00:19:50,950
+we move it again. 
+
+582
+00:19:50,950 --> 00:19:53,910
+If we 
+
+583
+00:19:53,910 --> 00:19:56,350
+
+584
+00:19:57,270 --> 00:19:58,470
+want to divide two decimal numbers by each 
+other , 
+
+585
+00:19:58,690 --> 00:20:00,910
+we first have to 
+
+586
+00:20:00,910 --> 00:20:03,290
+move the decimal point in both numbers so 
+
+587
+00:20:04,250 --> 00:20:07,410
+that either at least the right-hand 
+
+588
+00:20:07,410 --> 00:20:09,230
+number no longer has a decimal point, i.e. 
+the 
+
+589
+00:20:09,230 --> 00:20:10,710
+number we are dividing by no 
+
+590
+00:20:10,710 --> 00:20:13,270
+longer has a decimal point, or we can take 
+it 
+
+591
+00:20:13,270 --> 00:20:14,770
+further and move the decimal point 
+
+592
+00:20:14,770 --> 00:20:16,390
+until both numbers no 
+
+593
+00:20:16,390 --> 00:20:18,510
+longer have a decimal point. The latter is 
+
+594
+00:20:18,510 --> 00:20:19,630
+sometimes a little easier, 
+
+595
+00:20:19,730 --> 00:20:21,070
+which is why we are showing it here. 
+
+596
+00:20:21,510 --> 00:20:23,150
+So, let's start with our 
+
+597
+00:20:23,150 --> 00:20:24,250
+division that we 
+
+598
+00:20:24,250 --> 00:20:28,390
+want to do , 1.983 by 0.2. This is 
+
+599
+00:20:28,390 --> 00:20:29,450
+something that we 
+
+600
+00:20:29,450 --> 00:20:30,550
+can 't really calculate for now , or 
+
+601
+00:20:30,550 --> 00:20:32,050
+at least something that 
+
+602
+00:20:32,050 --> 00:20:33,990
+would be very, very complicated to 
+calculate. So 
+
+603
+00:20:33,990 --> 00:20:35,290
+let's start by moving the decimal point 
+
+604
+00:20:35,290 --> 00:20:37,210
+. In this case, 
+
+605
+00:20:37,210 --> 00:20:38,230
+we want to move it to the right 
+
+606
+00:20:38,230 --> 00:20:39,390
+, because we want 
+
+607
+00:20:39,390 --> 00:20:40,430
+the decimal point to disappear at some 
+point 
+
+608
+00:20:40,430 --> 00:20:41,570
+so that we no longer 
+
+609
+00:20:41,570 --> 00:20:43,690
+need it. So we move 
+
+610
+00:20:43,690 --> 00:20:45,390
+
+611
+00:20:45,490 --> 00:20:47,310
+the decimal point in both numbers, not 
+just in one, but in both numbers. 
+
+612
+00:20:47,390 --> 00:20:48,930
+Because as long as we move it in both 
+numbers 
+
+613
+00:20:48,930 --> 00:20:50,850
+, the division 
+
+614
+00:20:50,850 --> 00:20:52,590
+always gives the same result. This is 
+
+615
+00:20:52,590 --> 00:20:53,830
+an interesting property of 
+
+616
+00:20:53,830 --> 00:20:56,010
+division. If we move the decimal point 
+
+617
+00:20:56,010 --> 00:20:57,210
+in both numbers, 
+
+618
+00:20:57,210 --> 00:20:58,990
+the division is always the same. 
+
+619
+00:20:59,790 --> 00:21:01,470
+So if we move it one place to 
+
+620
+00:21:01,470 --> 00:21:03,650
+the right, we have 19 
+
+621
+00:21:03,650 --> 00:21:07,110
+.83 and the 0.2 then becomes just 
+
+622
+00:21:07,110 --> 00:21:08,810
+2. The decimal point has now been 
+
+623
+00:21:08,810 --> 00:21:10,190
+moved to the right behind it, so 
+
+624
+00:21:10,190 --> 00:21:11,890
+we 
+
+625
+00:21:11,890 --> 00:21:14,090
+basically only have the number 2. You 
+could even 
+
+626
+00:21:14,090 --> 00:21:15,650
+divide that now. You could 
+
+627
+00:21:15,650 --> 00:21:17,810
+start now and 
+
+628
+00:21:17,810 --> 00:21:20,010
+carry out the written division with this 
+and then 
+
+629
+00:21:20,010 --> 00:21:21,110
+you would simply place the decimal point 
+
+630
+00:21:21,110 --> 00:21:22,510
+in the result in the same 
+
+631
+00:21:22,510 --> 00:21:24,430
+place if you 
+
+632
+00:21:24,430 --> 00:21:25,830
+
+633
+00:21:25,830 --> 00:21:28,630
+were to skip this in the written division 
+here, so to speak. 
+
+634
+00:21:28,630 --> 00:21:29,550
+But we're going to take this a little 
+further, 
+
+635
+00:21:29,690 --> 00:21:31,330
+because sometimes it's a little 
+
+636
+00:21:31,330 --> 00:21:32,690
+easier to really 
+
+637
+00:21:32,690 --> 00:21:34,090
+simplify it a little more 
+
+638
+00:21:34,930 --> 00:21:36,390
+so that you don't 
+
+639
+00:21:36,390 --> 00:21:38,390
+have to keep an eye on the decimal point 
+so much 
+
+640
+00:21:38,390 --> 00:21:39,770
+at first. But that's also a 
+
+641
+00:21:39,770 --> 00:21:41,550
+bit of a matter of taste. 
+
+642
+00:21:41,550 --> 00:21:42,510
+Personally, I used to 
+
+643
+00:21:42,510 --> 00:21:43,490
+learn how to 
+
+644
+00:21:43,490 --> 00:21:44,950
+divide it, but you can take it even 
+
+645
+00:21:44,950 --> 00:21:46,250
+further. We move the decimal point 
+
+646
+00:21:46,250 --> 00:21:47,610
+one place to the right. 
+
+647
+00:21:48,050 --> 00:21:50,210
+This now becomes 198 
+
+648
+00:21:50,210 --> 00:21:54,090
+,3 here on the left . And if I move the 2 
+even 
+
+649
+00:21:54,090 --> 00:21:55,290
+further to the right, 
+
+650
+00:21:55,290 --> 00:21:56,650
+I now have to add zeros. 
+
+651
+00:21:56,650 --> 00:21:59,550
+So I make it 20. Then 
+
+652
+00:21:59,550 --> 00:22:00,830
+I have to do this one last time 
+
+653
+00:22:00,830 --> 00:22:02,790
+to 
+
+654
+00:22:02,790 --> 00:22:06,050
+make 1983 here on the left. And I 
+
+655
+00:22:06,050 --> 00:22:07,590
+add a zero to my 20 and that gives me 
+
+656
+00:22:07,590 --> 00:22:10,690
+200. But 
+
+657
+00:22:10,690 --> 00:22:12,310
+this division still gives the 
+
+658
+00:22:12,310 --> 00:22:13,850
+same result that we 
+
+659
+00:22:13,850 --> 00:22:15,510
+have already given here. Here we have 
+
+660
+00:22:15,510 --> 00:22:17,170
+already calculated 9.915 
+
+661
+00:22:19,510 --> 00:22:21,410
+. But that would have been the 
+
+662
+00:22:21,410 --> 00:22:23,270
+
+663
+00:22:23,270 --> 00:22:24,570
+result of the other calculations with a 
+little less shifting. 
+
+664
+00:22:25,510 --> 00:22:26,850
+But let's show again how this 
+
+665
+00:22:26,850 --> 00:22:27,990
+
+666
+00:22:27,990 --> 00:22:29,410
+would look in the written division. 
+
+667
+00:22:29,970 --> 00:22:31,470
+We would consider, okay, 
+
+668
+00:22:31,510 --> 00:22:37,990
+how many times does the 200 fit into the 
+1983? 
+
+669
+00:22:37,990 --> 00:22:41,150
+The 9 fits in there , because 9 times 200 
+
+670
+00:22:41,150 --> 00:22:46,250
+is 1800. Then 9 times 2 is 18. So 
+
+671
+00:22:46,250 --> 00:22:47,610
+written division, we ask 
+
+672
+00:22:47,610 --> 00:22:49,510
+again how often it fits in there and 
+
+673
+00:22:49,510 --> 00:22:50,850
+we first write the factor into the 
+
+674
+00:22:50,850 --> 00:22:54,010
+result. So now we 
+
+675
+00:22:54,010 --> 00:23:00,530
+subtract the 1800. This leaves us with 
+183. And 
+
+676
+00:23:00,530 --> 00:23:01,830
+in written division, 
+
+677
+00:23:01,830 --> 00:23:03,210
+we continue by 
+
+678
+00:23:03,210 --> 00:23:06,410
+
+679
+00:23:06,410 --> 00:23:08,010
+subtracting the next number from the top, 
+so to speak . Now 
+
+680
+00:23:08,010 --> 00:23:09,110
+we've actually already reached the end of 
+the 
+
+681
+00:23:09,110 --> 00:23:11,530
+number, so it's very 
+
+682
+00:23:11,530 --> 00:23:13,790
+important, as we now 
+
+683
+00:23:13,790 --> 00:23:15,410
+have to add a 0 , so to speak, 
+
+684
+00:23:15,550 --> 00:23:17,690
+we have to 
+
+685
+00:23:17,690 --> 00:23:19,190
+put the decimal point in the result. This 
+is what is shown here 
+
+686
+00:23:19,190 --> 00:23:20,350
+in red. 
+
+687
+00:23:20,410 --> 00:23:22,170
+As soon as the number is smaller than the 
+
+688
+00:23:22,170 --> 00:23:24,750
+divisor, as soon as this doesn't 
+
+689
+00:23:24,750 --> 00:23:27,750
+go any further, we have to add a 0 
+
+690
+00:23:27,750 --> 00:23:29,590
+so that we 
+
+691
+00:23:29,590 --> 00:23:32,090
+can continue dividing and 
+
+692
+00:23:32,090 --> 00:23:32,690
+put the decimal point in the result. 
+
+693
+00:23:37,140 --> 00:23:39,060
+So we continue with 
+
+694
+00:23:39,060 --> 00:23:42,380
+how many times does the 200 fit into the 
+1830 
+
+695
+00:23:43,600 --> 00:23:45,620
+. That fits again 9 times, because 
+
+696
+00:23:45,620 --> 00:23:48,560
+the 1800 fits again. Only that the 9 
+
+697
+00:23:48,560 --> 00:23:49,860
+is now already behind the decimal point, 
+because 
+
+698
+00:23:49,860 --> 00:23:51,720
+we are already in the part 
+
+699
+00:23:51,720 --> 00:23:53,280
+of this calculation where we 
+
+700
+00:23:53,280 --> 00:23:54,340
+
+701
+00:23:54,340 --> 00:23:56,300
+have to keep adding zeros from above so 
+that we 
+
+702
+00:23:56,300 --> 00:23:57,280
+can continue calculating at all. 
+
+703
+00:24:00,990 --> 00:24:02,270
+If we now 
+
+704
+00:24:02,270 --> 00:24:03,430
+subtract this from each other, 
+
+705
+00:24:03,430 --> 00:24:05,130
+the 30 would actually remain here , but 
+
+706
+00:24:05,130 --> 00:24:06,710
+we add a 0 again 
+
+707
+00:24:06,750 --> 00:24:08,030
+so that we 
+
+708
+00:24:08,030 --> 00:24:10,510
+can continue dividing . How often does the 
+200 fit into the 
+
+709
+00:24:10,510 --> 00:24:14,150
+300? Exactly once, because once 200 
+
+710
+00:24:14,150 --> 00:24:17,510
+is 200. We subtract that again 
+
+711
+00:24:17,510 --> 00:24:20,250
+to get 100, to which we 
+
+712
+00:24:20,250 --> 00:24:22,130
+add another 0 to make it 
+
+713
+00:24:22,130 --> 00:24:23,730
+1000. And now the 
+
+714
+00:24:23,730 --> 00:24:25,410
+whole thing works out, because how often 
+does 
+
+715
+00:24:25,410 --> 00:24:28,810
+the 200 fit into the 1000? Exactly 5 
+times. 5 
+
+716
+00:24:30,220 --> 00:24:33,500
+times 200 is 1000 and we are 
+
+717
+00:24:33,500 --> 00:24:34,960
+finished at some point when we 
+
+718
+00:24:34,960 --> 00:24:36,420
+have no remainder left, when 
+
+719
+00:24:36,420 --> 00:24:39,500
+a zero is created. And then 
+
+720
+00:24:39,500 --> 00:24:41,880
+we have calculated the decimal number. 
+
+721
+00:24:43,120 --> 00:24:45,820
+Ultimately, this is also the way in 
+
+722
+00:24:45,820 --> 00:24:48,780
+which we 
+
+723
+00:24:48,780 --> 00:24:50,320
+
+724
+00:24:50,320 --> 00:24:51,720
+could convert a fraction into a decimal 
+number. If we 
+
+725
+00:24:51,720 --> 00:24:55,980
+were to imagine that we have the fraction 
+1983.200, 
+
+726
+00:24:56,200 --> 00:24:58,200
+i.e. as a fraction, then we could... 
+
+727
+00:24:58,220 --> 00:24:59,340
+we could also 
+
+728
+00:24:59,340 --> 00:25:01,180
+carry out this conversion into a decimal 
+number in the same way. Here, 
+
+729
+00:25:01,180 --> 00:25:02,260
+however, we have 
+
+730
+00:25:02,260 --> 00:25:04,300
+learned this in a different context. If we 
+
+731
+00:25:04,300 --> 00:25:06,500
+want to divide two decimal numbers, then 
+
+732
+00:25:06,500 --> 00:25:07,840
+I move the decimal point so 
+
+733
+00:25:07,900 --> 00:25:09,400
+that at least the right-hand number no 
+
+734
+00:25:09,400 --> 00:25:11,140
+longer has a decimal point or I push it 
+
+735
+00:25:11,140 --> 00:25:12,360
+a little further until both 
+
+736
+00:25:12,360 --> 00:25:14,600
+numbers no longer have a decimal point. 
+
+737
+00:25:14,600 --> 00:25:15,840
+Incidentally, if we 
+
+738
+00:25:15,840 --> 00:25:17,000
+did this here, the calculation would 
+
+739
+00:25:17,000 --> 00:25:18,460
+look exactly the same , except that we 
+would 
+
+740
+00:25:18,460 --> 00:25:20,760
+
+741
+00:25:20,760 --> 00:25:22,360
+still have this decimal point everywhere , 
+in the 
+
+742
+00:25:22,360 --> 00:25:24,880
+appropriate place. So that 
+
+743
+00:25:24,880 --> 00:25:26,120
+doesn't make much difference in terms of 
+the 
+
+744
+00:25:26,120 --> 00:25:27,360
+figures. The considerations, the 
+
+745
+00:25:27,360 --> 00:25:28,380
+calculations you have to make are 
+
+746
+00:25:28,380 --> 00:25:30,220
+all the same. The only important thing is 
+that 
+
+747
+00:25:30,320 --> 00:25:32,080
+we place 
+
+748
+00:25:32,080 --> 00:25:33,880
+the decimal point at some point, as soon 
+as we 
+
+749
+00:25:33,880 --> 00:25:35,760
+start to 
+
+750
+00:25:35,760 --> 00:25:38,480
+add zeros, so to speak, so that 
+
+751
+00:25:38,480 --> 00:25:40,960
+
+752
+00:25:40,960 --> 00:25:42,800
+we can continue dividing. 
+
+753
+00:25:45,680 --> 00:25:48,020
+However, it is very important that we 
+
+754
+00:25:48,020 --> 00:25:50,120
+never divide by a decimal number, 
+
+755
+00:25:50,120 --> 00:25:52,140
+so we would never divide by 0.2, we 
+
+756
+00:25:52,140 --> 00:25:53,100
+would always 
+
+757
+00:25:53,100 --> 00:25:54,040
+carry out this shift beforehand . 
+
+758
+00:25:57,120 --> 00:25:58,580
+We have just 
+
+759
+00:25:58,580 --> 00:26:02,460
+shown this using the decimal notation, 
+because 
+
+760
+00:26:02,460 --> 00:26:04,240
+as soon as we 
+
+761
+00:26:04,240 --> 00:26:06,000
+write the decimal fractions as fractions, 
+of course, with 
+
+762
+00:26:06,000 --> 00:26:08,000
+10, 100 or 1000 or so on 
+
+763
+00:26:08,000 --> 00:26:09,980
+in the denominator, then the 
+
+764
+00:26:09,980 --> 00:26:12,200
+normal fraction calculation rules for 
+
+765
+00:26:12,200 --> 00:26:13,720
+addition, subtraction, multiplication 
+
+766
+00:26:13,720 --> 00:26:15,760
+and division apply. So 
+
+767
+00:26:15,760 --> 00:26:17,220
+it works in exactly the same way as with 
+
+768
+00:26:17,220 --> 00:26:18,700
+normal fractions in quotation marks 
+
+769
+00:26:18,700 --> 00:26:19,720
+or, it would be better to say, 
+
+770
+00:26:19,720 --> 00:26:22,660
+more general fractions. 
+
+771
+00:26:22,660 --> 00:26:24,240
+Exactly the same rules apply. 
+
+772
+00:26:24,240 --> 00:26:25,540
+We also have a separate webinar on this 
+
+773
+00:26:25,540 --> 00:26:27,200
+if you would like to attend it. But 
+
+774
+00:26:27,200 --> 00:26:28,340
+then we'll just refer you 
+
+775
+00:26:28,340 --> 00:26:30,500
+to the general fraction calculation. What 
+
+776
+00:26:30,500 --> 00:26:31,520
+we mainly 
+
+777
+00:26:31,520 --> 00:26:33,500
+wanted to look at today were the basic 
+arithmetic 
+
+778
+00:26:33,500 --> 00:26:35,560
+operations in the form of decimal 
+notation. 
+
+779
+00:26:38,990 --> 00:26:41,190
+And that's the end of 
+
+780
+00:26:41,190 --> 00:26:42,710
+today's webinar on 
+
+781
+00:26:42,710 --> 00:26:44,590
+decimal fractions. First of all, thank you 
+
+782
+00:26:44,590 --> 00:26:46,330
+for your attention. If there are any 
+
+783
+00:26:46,330 --> 00:26:48,430
+questions or if 
+
+784
+00:26:48,430 --> 00:26:50,130
+you would like me to show you another 
+slide, please let me 
+
+785
+00:26:50,130 --> 00:26:51,390
+know in the chat. What I 
+
+786
+00:26:51,390 --> 00:26:52,170
+can always recommend is to grab the 
+
+787
+00:26:52,170 --> 00:26:53,350
+exercises that we now 
+
+788
+00:26:53,350 --> 00:26:55,110
+
+789
+00:26:55,110 --> 00:26:56,930
+have on this topic in the online learning 
+center and simply practice the whole thing 
+
+790
+00:26:56,930 --> 00:26:58,230
+again. And if you do run 
+
+791
+00:26:58,230 --> 00:27:01,130
+into problems again, if the 
+
+792
+00:27:01,130 --> 00:27:02,170
+solution isn't right or if you have any 
+more 
+
+793
+00:27:02,170 --> 00:27:03,550
+questions, then of course we 
+
+794
+00:27:03,550 --> 00:27:04,970
+also have more tutorial videos on the 
+topic 
+
+795
+00:27:04,970 --> 00:27:05,850
+and our wiki. 
+
+796
+00:27:15,260 --> 00:27:16,480
+All right, that's great, 
+
+797
+00:27:16,480 --> 00:27:17,620
+I'm glad. 
+
+798
+00:27:17,620 --> 00:27:19,080
+Have a nice day and see you next time. 
+
+799
+00:27:19,220 --> 00:27:19,520
+Bye. 

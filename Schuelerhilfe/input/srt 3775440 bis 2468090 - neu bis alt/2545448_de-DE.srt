@@ -1,0 +1,1516 @@
+1
+00:00:01,360 --> 00:00:03,080
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,080 --> 00:00:05,520
+Grundrechenarten Multiplikation. Wir
+
+3
+00:00:05,520 --> 00:00:07,380
+werden uns in diesem Webinar mit der
+
+4
+00:00:07,380 --> 00:00:09,360
+Multiplikation befassen. Das heißt,
+
+5
+00:00:09,420 --> 00:00:10,820
+wir schauen uns diese zuerst einmal
+
+6
+00:00:10,820 --> 00:00:13,380
+anhand eines kleinen Beispiels an und
+
+7
+00:00:13,380 --> 00:00:15,440
+gehen danach auf das kleine und große
+
+8
+00:00:15,440 --> 00:00:18,040
+1x1 ein. Anschließend schauen wir uns
+
+9
+00:00:18,040 --> 00:00:19,160
+die Multiplikation mit einer
+
+10
+00:00:19,160 --> 00:00:21,240
+Zehnerzahl an, was dabei zu beachten
+
+11
+00:00:21,240 --> 00:00:23,760
+ist und was der Vorteil bei einer
+
+12
+00:00:23,760 --> 00:00:25,140
+Multiplikation mit einer Zehnerzahl
+
+13
+00:00:25,140 --> 00:00:27,000
+ist. Zum Schluss schauen wir uns noch
+
+14
+00:00:27,000 --> 00:00:28,960
+die schriftliche Multiplikation sowie
+
+15
+00:00:28,960 --> 00:00:32,300
+eine kleine Umkehraufgabe an. Und
+
+16
+00:00:32,300 --> 00:00:33,800
+damit sind wir auch schon bei unserem
+
+17
+00:00:33,800 --> 00:00:35,640
+ersten kleinen Beispiel. Und zwar,
+
+18
+00:00:35,700 --> 00:00:38,000
+wir haben hier die Rechnung 3 mal 5
+
+19
+00:00:38,000 --> 00:00:40,100
+und das ist ja gleich 15. Die Frage
+
+20
+00:00:40,100 --> 00:00:41,420
+ist, wie kann man sich das
+
+21
+00:00:41,420 --> 00:00:43,840
+vorstellen? Wir haben die Zahlen
+
+22
+00:00:43,840 --> 00:00:44,820
+jetzt einfach mal als so kleine
+
+23
+00:00:44,820 --> 00:00:47,020
+Kreise gezeichnet. Also die 3 wird
+
+24
+00:00:47,020 --> 00:00:48,960
+dargestellt durch 3 Kreise, die 5
+
+25
+00:00:48,960 --> 00:00:51,680
+durch entsprechend 5 Kreise. Und die
+
+26
+00:00:51,680 --> 00:00:53,220
+Frage ist jetzt, wie kann man sich
+
+27
+00:00:53,220 --> 00:00:54,620
+die Rechnung vorstellen? Wie kommt
+
+28
+00:00:54,620 --> 00:00:57,280
+man zu dem Ergebnis? Wir haben hier
+
+29
+00:00:57,280 --> 00:01:00,740
+drei Kreise mal fünf Kreise. Das
+
+30
+00:01:00,740 --> 00:01:02,660
+heißt, wir können fünf Kreise
+
+31
+00:01:02,660 --> 00:01:04,480
+hintereinander schreiben und das
+
+32
+00:01:04,480 --> 00:01:07,960
+Ganze dreimal. Das heißt, einmal fünf
+
+33
+00:01:07,960 --> 00:01:11,260
+Kreise, zweimal fünf Kreise, dreimal
+
+34
+00:01:11,260 --> 00:01:14,100
+fünf Kreise. Oder anders gesagt, wenn
+
+35
+00:01:14,100 --> 00:01:15,620
+wir das so aufgemalt haben wie hier,
+
+36
+00:01:15,720 --> 00:01:20,320
+haben wir fünfmal drei Kreise. Also 3
+
+37
+00:01:20,320 --> 00:01:24,080
+plus 3 plus 3 plus 3 plus 3, das ist
+
+38
+00:01:24,080 --> 00:01:26,080
+das. Oder wenn wir es andersrum
+
+39
+00:01:26,080 --> 00:01:28,540
+betrachten, wie anfangs gesagt, 5
+
+40
+00:01:28,540 --> 00:01:33,560
+plus 5 plus 5, also 3 mal die 5. Und
+
+41
+00:01:33,560 --> 00:01:35,520
+damit wären wir schon mal bei einer
+
+42
+00:01:35,520 --> 00:01:38,680
+wichtigen Eigenschaft. Und zwar, wenn
+
+43
+00:01:38,680 --> 00:01:40,960
+wir multiplizieren, multiplizieren
+
+44
+00:01:40,960 --> 00:01:42,480
+wir zwei Faktoren. Wir rechnen also
+
+45
+00:01:42,480 --> 00:01:45,160
+Faktor mal Faktor und erhalten dabei
+
+46
+00:01:45,160 --> 00:01:48,920
+ein Produkt. Die Reihenfolge dieser
+
+47
+00:01:48,920 --> 00:01:50,820
+beiden Faktoren hat keinen Einfluss.
+
+48
+00:01:50,900 --> 00:01:52,800
+Das heißt, ob wir jetzt 4 mal 5 oder
+
+49
+00:01:52,800 --> 00:01:55,560
+5 mal 4 rechnen, ist das gleiche. Das
+
+50
+00:01:55,560 --> 00:01:57,360
+ist ein ganz großer Unterschied zur
+
+51
+00:01:57,360 --> 00:01:59,980
+Subtraktion und zur Division. Bei der
+
+52
+00:01:59,980 --> 00:02:01,500
+Multiplikation dürfen wir diese
+
+53
+00:02:01,500 --> 00:02:04,640
+beiden Faktoren vertauschen. Also 4
+
+54
+00:02:04,640 --> 00:02:06,280
+mal 5 ist das gleiche wie 5 mal 4.
+
+55
+00:02:06,340 --> 00:02:07,380
+Das kann man auch allgemein
+
+56
+00:02:07,380 --> 00:02:09,420
+formulieren. Also a mal b ist gleich
+
+57
+00:02:09,420 --> 00:02:12,780
+b mal a. Und deswegen gilt auch das
+
+58
+00:02:12,780 --> 00:02:15,180
+hier. Das ist nämlich 5 mal 3 und das
+
+59
+00:02:15,180 --> 00:02:20,460
+ist das gleiche wie 3 mal 5. Und
+
+60
+00:02:20,460 --> 00:02:22,660
+damit haben wir die Theorie
+
+61
+00:02:22,660 --> 00:02:23,580
+eigentlich auch schon besprochen.
+
+62
+00:02:24,120 --> 00:02:26,060
+Also bei der Multiplikation
+
+63
+00:02:26,060 --> 00:02:28,400
+multipliziert man zwei oder mehrere
+
+64
+00:02:28,400 --> 00:02:30,720
+Faktoren und erhält so ein Produkt.
+
+65
+00:02:32,860 --> 00:02:34,360
+Wir haben hierzu noch ein Beispiel
+
+66
+00:02:34,360 --> 00:02:37,260
+und zwar 7 mal 3. Das heißt, wir
+
+67
+00:02:37,260 --> 00:02:38,880
+schreiben sieben Kreise
+
+68
+00:02:38,880 --> 00:02:41,260
+hintereinander mal drei Kreise. Und
+
+69
+00:02:41,260 --> 00:02:45,820
+was erhalten wir? 3 mal 7 Kreise oder
+
+70
+00:02:45,820 --> 00:02:48,400
+7 mal 3 Kreise. Das kann man sich
+
+71
+00:02:48,400 --> 00:02:50,100
+aussuchen. Es ist natürlich sinnvoll
+
+72
+00:02:50,100 --> 00:02:55,100
+die größere Zahl in eine Zeile zu
+
+73
+00:02:55,100 --> 00:02:56,640
+schreiben, das heißt die 7 Kreise
+
+74
+00:02:56,640 --> 00:02:59,120
+hintereinander und das ganze 3 mal.
+
+75
+00:02:59,800 --> 00:03:01,460
+Das Ergebnis kann man jetzt durch
+
+76
+00:03:01,460 --> 00:03:02,960
+zählen herausbekommen. Das sind
+
+77
+00:03:02,960 --> 00:03:07,920
+insgesamt 21 und das Problem dabei
+
+78
+00:03:07,920 --> 00:03:11,040
+ist aber, dass das Das sehen wir an
+
+79
+00:03:11,040 --> 00:03:12,860
+diesem Beispiel. Mit größer werdenden
+
+80
+00:03:12,860 --> 00:03:15,040
+Zahlen wird das Zählen immer
+
+81
+00:03:15,040 --> 00:03:17,060
+aufwendiger. In dem Fall haben wir 4
+
+82
+00:03:17,060 --> 00:03:19,200
+mal 12. Wir haben hier blau
+
+83
+00:03:19,200 --> 00:03:21,360
+gekennzeichnet, 12 Kreise und grün 4
+
+84
+00:03:21,360 --> 00:03:23,280
+Kreise. Und jetzt können wir
+
+85
+00:03:23,280 --> 00:03:25,520
+natürlich 4 mal 12 Kreise
+
+86
+00:03:25,520 --> 00:03:27,880
+hintereinander aufmalen. Das ist die
+
+87
+00:03:27,880 --> 00:03:28,920
+Rechnung. Und wenn wir jetzt die
+
+88
+00:03:28,920 --> 00:03:30,480
+Kreise nachzählen, haben wir auch das
+
+89
+00:03:30,480 --> 00:03:31,820
+Ergebnis daraus. Das ist in dem Fall
+
+90
+00:03:31,820 --> 00:03:35,280
+48. Ich denke, man sieht die
+
+91
+00:03:35,280 --> 00:03:37,780
+Problematik aber. Es ist einfach sehr
+
+92
+00:03:37,780 --> 00:03:39,460
+aufwendig, diese ganzen Kreise zu
+
+93
+00:03:39,460 --> 00:03:41,200
+zählen. Das bedauert schon seine Zeit
+
+94
+00:03:41,200 --> 00:03:43,480
+und daher muss man sich da auch
+
+95
+00:03:43,480 --> 00:03:44,840
+anders behelfen können und das auch
+
+96
+00:03:44,840 --> 00:03:49,280
+wirklich berechnen können. Dafür gibt
+
+97
+00:03:49,280 --> 00:03:50,800
+es später die schriftliche
+
+98
+00:03:50,800 --> 00:03:53,140
+Multiplikation. Wie anfangs gesagt,
+
+99
+00:03:53,300 --> 00:03:54,600
+behandeln wir die auch noch später in
+
+100
+00:03:54,600 --> 00:03:57,080
+diesem Webinar. Und es gibt auch noch
+
+101
+00:03:57,080 --> 00:04:00,080
+dazu das große 1x1, was uns da
+
+102
+00:04:00,080 --> 00:04:02,580
+weiterhelfen könnte. 4 mal 12, denken
+
+103
+00:04:02,580 --> 00:04:03,780
+wir gleich nochmal dran, wenn wir uns
+
+104
+00:04:03,780 --> 00:04:05,480
+das große 1 mal 1 anschauen. Dort
+
+105
+00:04:05,480 --> 00:04:06,660
+werde ich das mal zeigen, wie man das
+
+106
+00:04:06,660 --> 00:04:08,180
+auch mit diesem lösen könnte.
+
+107
+00:04:09,520 --> 00:04:10,960
+Zuallererst schauen wir uns aber das
+
+108
+00:04:10,960 --> 00:04:13,500
+kleine 1 mal 1 an. Und zwar das
+
+109
+00:04:13,500 --> 00:04:17,200
+kleine 1 mal 1 enthält alle Produkte,
+
+110
+00:04:17,200 --> 00:04:19,740
+alles von 1 mal 1 bis 10 mal 10. Wir
+
+111
+00:04:19,740 --> 00:04:21,580
+sehen hier oben und hier an den
+
+112
+00:04:21,580 --> 00:04:22,740
+Seiten immer die beiden Zahlen
+
+113
+00:04:22,740 --> 00:04:23,860
+miteinander multipliziert werden.
+
+114
+00:04:24,600 --> 00:04:26,720
+Beispielsweise die 6 entsteht durch 2
+
+115
+00:04:26,720 --> 00:04:27,900
+mal 3.
+
+116
+00:04:30,820 --> 00:04:32,620
+Also wenn wir irgendwie was suchen,
+
+117
+00:04:32,760 --> 00:04:35,040
+zum Beispiel 3 mal 5, und wir wissen
+
+118
+00:04:35,040 --> 00:04:36,200
+gerade nicht was das ist, könnten wir
+
+119
+00:04:36,200 --> 00:04:39,540
+eben einmal 1 gucken, 3 mal 5. Was
+
+120
+00:04:39,540 --> 00:04:42,300
+ganz interessant ist, ich hatte ja
+
+121
+00:04:42,300 --> 00:04:43,540
+anfangs gesagt, wir dürfen die
+
+122
+00:04:43,540 --> 00:04:46,600
+Faktoren tauschen. Folglich, ob wir
+
+123
+00:04:46,600 --> 00:04:48,600
+jetzt 3 mal 5 oder 5 mal 3 rechnen,
+
+124
+00:04:48,600 --> 00:04:51,520
+ist egal. Das heißt, 3 mal 5 ist 15,
+
+125
+00:04:51,700 --> 00:04:53,820
+dann wären wir hier. Wir können aber
+
+126
+00:04:53,820 --> 00:04:58,400
+auch 5 mal 3 rechnen. Also 5 mal 3
+
+127
+00:04:58,400 --> 00:05:00,120
+sind wir hier. Das heißt, wir sehen,
+
+128
+00:05:00,180 --> 00:05:01,740
+wir haben auch hier zweimal die 15.
+
+129
+00:05:02,740 --> 00:05:05,140
+Denn das ganze kleine 1x1 ist entlang
+
+130
+00:05:05,140 --> 00:05:07,280
+seiner Diagonalen gespiegelt. Diese
+
+131
+00:05:07,280 --> 00:05:08,920
+Diagonale fängt halt hier oben an und
+
+132
+00:05:08,920 --> 00:05:11,480
+geht einmal so quer durch bis zu 100.
+
+133
+00:05:12,220 --> 00:05:13,880
+Und wir haben jetzt mal gesehen, wir
+
+134
+00:05:13,880 --> 00:05:15,560
+haben hier die 80, hier haben wir
+
+135
+00:05:15,560 --> 00:05:17,840
+nochmal die 80. Wir haben hier die 63
+
+136
+00:05:17,840 --> 00:05:20,340
+und da haben wir nochmal die 63. Wir
+
+137
+00:05:20,340 --> 00:05:22,100
+haben hier die 48 und hier nochmal
+
+138
+00:05:22,100 --> 00:05:23,840
+die 48. Also die Zahlen auf der
+
+139
+00:05:23,840 --> 00:05:25,140
+Diagonalen sind die sogenannten
+
+140
+00:05:25,140 --> 00:05:25,860
+Quadratzahlen.
+
+141
+00:05:28,300 --> 00:05:32,670
+sich das kleine 1 x 1 als nächstes
+
+142
+00:05:32,670 --> 00:05:34,950
+sehen wir das große 1 x 1 hier grau
+
+143
+00:05:34,950 --> 00:05:37,050
+hinterlegt ist das kleine 1 x 1 was
+
+144
+00:05:37,050 --> 00:05:38,570
+wir uns gerade angeschaut haben das
+
+145
+00:05:38,570 --> 00:05:42,830
+große 1 x 1 geht von 1 x 1 bis 20 x
+
+146
+00:05:42,830 --> 00:05:45,130
+20 das heißt es ist viermal so groß
+
+147
+00:05:45,130 --> 00:05:47,890
+und jetzt kommen wir zu dem beispiel
+
+148
+00:05:47,890 --> 00:05:50,450
+von gerade 4 x 12 das heißt wir
+
+149
+00:05:50,450 --> 00:05:51,870
+können uns die 4 raussuchen müssten
+
+150
+00:05:51,870 --> 00:05:54,290
+runtergehen bis zu 12 hier das heißt
+
+151
+00:05:54,290 --> 00:05:57,590
+das ergebnis ist 48 Auch beim großen
+
+152
+00:05:57,590 --> 00:05:59,370
+1x1 gilt, dass dieses an den
+
+153
+00:05:59,370 --> 00:06:01,170
+Quadratzahlen, also an der Diagonalen
+
+154
+00:06:01,170 --> 00:06:03,550
+gespiegelt ist. Wir können nämlich
+
+155
+00:06:03,550 --> 00:06:08,810
+auch anstatt 4x12 12x4 rechnen. Das
+
+156
+00:06:08,810 --> 00:06:10,270
+heißt 12, dann suchen wir uns die 4
+
+157
+00:06:10,270 --> 00:06:11,050
+raus, dann haben wir hier schon
+
+158
+00:06:11,050 --> 00:06:13,710
+wieder die 48. Und wie gesagt,
+
+159
+00:06:13,890 --> 00:06:16,070
+entlang dieser Diagonalen ist auch
+
+160
+00:06:16,070 --> 00:06:20,550
+das große 1x1 gespiegelt. Es ist auf
+
+161
+00:06:20,550 --> 00:06:22,590
+jeden Fall ratsam, das kleine 1x1 zu
+
+162
+00:06:22,590 --> 00:06:26,230
+beherrschen. Das große 1x1 sollte man
+
+163
+00:06:26,230 --> 00:06:27,810
+vielleicht wichtige Zahlen, wie
+
+164
+00:06:27,810 --> 00:06:29,630
+später die Quadratzahlen beherrschen,
+
+165
+00:06:29,710 --> 00:06:32,950
+aber ansonsten reicht es, wenn man
+
+166
+00:06:32,950 --> 00:06:34,950
+das kleine 1x1 kennt, denn dieses
+
+167
+00:06:34,950 --> 00:06:36,610
+braucht man zwangsläufig für die
+
+168
+00:06:36,610 --> 00:06:38,210
+schriftliche Multiplikation, die wir
+
+169
+00:06:38,210 --> 00:06:40,230
+uns jetzt gleich ansehen. Das heißt,
+
+170
+00:06:40,310 --> 00:06:40,790
+das
+
+171
+00:06:44,600 --> 00:06:46,760
+große 1x1 braucht man nicht
+
+172
+00:06:46,760 --> 00:06:47,960
+unbedingt, denn das kann man durch
+
+173
+00:06:47,960 --> 00:06:49,100
+die schriftliche Multiplikation
+
+174
+00:06:49,100 --> 00:06:52,720
+ersetzen. Und damit wären wir nun
+
+175
+00:06:52,720 --> 00:06:53,740
+auch schon bei der schriftlichen
+
+176
+00:06:53,740 --> 00:06:56,880
+Multiplikation. Wie gerade schon
+
+177
+00:06:56,880 --> 00:06:59,340
+mehrmals gesagt, Multiplikation von
+
+178
+00:06:59,340 --> 00:07:01,080
+kleineren Zahlen lässt sich im Kopf
+
+179
+00:07:01,080 --> 00:07:04,700
+rechnen. Also das kleine 1x1 sollte
+
+180
+00:07:04,700 --> 00:07:06,060
+man vielleicht auswendig kennen.
+
+181
+00:07:08,480 --> 00:07:10,980
+Langfristig ist für große Zahlen die
+
+182
+00:07:10,980 --> 00:07:12,520
+schriftliche Multiplikation zu
+
+183
+00:07:12,520 --> 00:07:13,680
+wählen. Wir haben hier ein Beispiel
+
+184
+00:07:13,680 --> 00:07:15,460
+12x13, das ist jetzt schon so ein
+
+185
+00:07:15,460 --> 00:07:18,200
+Beispiel. 12x13 könnten wir auch aus
+
+186
+00:07:18,200 --> 00:07:21,780
+dem großen 1x1 ablesen. Wir können es
+
+187
+00:07:21,780 --> 00:07:22,660
+aber auch einfach schriftlich
+
+188
+00:07:22,660 --> 00:07:24,040
+berechnen. Nun, wie gesagt, für die
+
+189
+00:07:24,040 --> 00:07:25,640
+schriftliche Multiplikation muss man
+
+190
+00:07:25,640 --> 00:07:28,480
+das kleine 1x1 kennen. Das heißt,
+
+191
+00:07:28,660 --> 00:07:30,360
+beschreiben wir einmal schnell die
+
+192
+00:07:30,360 --> 00:07:32,300
+schriftliche Multiplikation. Wir
+
+193
+00:07:32,300 --> 00:07:34,000
+schreiben die beiden Zahlen erstmal
+
+194
+00:07:34,000 --> 00:07:37,140
+nebeneinander. Und wir nehmen dann
+
+195
+00:07:37,140 --> 00:07:39,860
+die ganz rechte Zahl von dem rechten
+
+196
+00:07:39,860 --> 00:07:43,600
+Faktor. Also die 1. Das sind in dem
+
+197
+00:07:43,600 --> 00:07:46,920
+Fall 3. Nun multiplizieren wir die 1
+
+198
+00:07:46,920 --> 00:07:48,680
+erst miteinander. Das heißt 3 mal 2,
+
+199
+00:07:48,880 --> 00:07:51,700
+das ist 6. Als nächstes
+
+200
+00:07:51,700 --> 00:07:52,160
+multiplizieren wir die 1.
+
+201
+00:07:52,180 --> 00:07:53,380
+multiplizieren wir die 1er mit den
+
+202
+00:07:53,380 --> 00:07:56,040
+10ern der linken Zahl. Das heißt 3
+
+203
+00:07:56,040 --> 00:07:58,680
+mal 1, was ganz wichtig ist. Weil das
+
+204
+00:07:58,680 --> 00:08:00,500
+jetzt ja die 10er sind, wird die 3
+
+205
+00:08:00,500 --> 00:08:03,280
+auch um 1 eingerückt. Das heißt, die
+
+206
+00:08:03,280 --> 00:08:08,020
+steht jetzt links von der 6. 3 mal 1
+
+207
+00:08:08,020 --> 00:08:09,580
+sind wie gesagt 3. Und wenn hier noch
+
+208
+00:08:09,580 --> 00:08:11,540
+eine Ziffer hinter käme, dann würden
+
+209
+00:08:11,540 --> 00:08:12,860
+wir noch mal einen weiter einrücken.
+
+210
+00:08:14,300 --> 00:08:16,660
+Als nächstes nehmen wir die 10er von
+
+211
+00:08:16,660 --> 00:08:18,200
+der rechten Zahl, das heißt die 1,
+
+212
+00:08:19,900 --> 00:08:21,520
+und machen das von vorne. vorne das
+
+213
+00:08:21,520 --> 00:08:23,240
+heißt erst die 10er von der rechten
+
+214
+00:08:23,240 --> 00:08:24,780
+zahlen mit den einigen der linken
+
+215
+00:08:24,780 --> 00:08:27,680
+zahlen also einmal zwei ist die 2
+
+216
+00:08:27,680 --> 00:08:29,660
+weil wir jetzt aber schon direkt mit
+
+217
+00:08:29,660 --> 00:08:31,140
+den zehnern angefangen haben
+
+218
+00:08:31,140 --> 00:08:33,840
+schreiben wir das auch unter die 10er
+
+219
+00:08:33,840 --> 00:08:36,300
+ja also das muss so eingerückt werden
+
+220
+00:08:36,300 --> 00:08:39,320
+als nächstes multiplizieren wir die
+
+221
+00:08:39,320 --> 00:08:41,160
+beiden 10er miteinander einmal 1 das
+
+222
+00:08:41,160 --> 00:08:43,320
+ist 1 und rücken wieder ein ein so
+
+223
+00:08:43,320 --> 00:08:45,940
+kommen wir zu 12 also wir haben jetzt
+
+224
+00:08:45,940 --> 00:08:47,860
+viele schreiben jetzt hier hinten bei
+
+225
+00:08:47,860 --> 00:08:51,240
+den einer noch eine 0 hin 36 plus 120
+
+226
+00:08:51,240 --> 00:08:54,500
+ist es eigentlich also das ganze wird
+
+227
+00:08:54,500 --> 00:08:56,460
+am ende addiert das macht man
+
+228
+00:08:56,460 --> 00:08:57,780
+eigentlich schriftlich das heißt 6
+
+229
+00:08:57,780 --> 00:09:01,440
+plus 0 6 3 plus 2 ist die 5 und 0
+
+230
+00:09:01,440 --> 00:09:03,480
+plus 1 ist die 1 das heißt das
+
+231
+00:09:03,480 --> 00:09:08,380
+ergebnis ist 156 das heißt wir können
+
+232
+00:09:08,380 --> 00:09:14,440
+das ja noch mal gucken 12 x 13 156
+
+233
+00:09:14,440 --> 00:09:16,980
+wir Wir haben also richtig gerechnet.
+
+234
+00:09:19,400 --> 00:09:20,880
+Leider ist die schriftliche
+
+235
+00:09:20,880 --> 00:09:22,080
+Multiplikation nicht immer so
+
+236
+00:09:22,080 --> 00:09:23,380
+einfach, weil man hat oft einen
+
+237
+00:09:23,380 --> 00:09:25,160
+Zehnerübergang. Das bedeutet, wir
+
+238
+00:09:25,160 --> 00:09:27,280
+betrachten hier das Beispiel 24 mal
+
+239
+00:09:27,280 --> 00:09:29,520
+35. Das ist zum Beispiel ein
+
+240
+00:09:29,520 --> 00:09:30,660
+Beispiel, was man auch nicht mehr im
+
+241
+00:09:30,660 --> 00:09:32,600
+großen 1x1 finden würde. Das geht nur
+
+242
+00:09:32,600 --> 00:09:35,380
+schriftlich. Das Prinzip bleibt aber
+
+243
+00:09:35,380 --> 00:09:36,280
+hierbei das gleiche. Wir
+
+244
+00:09:36,280 --> 00:09:38,800
+multiplizieren erst die eine, also 5
+
+245
+00:09:38,800 --> 00:09:40,500
+mal 4. Nur jetzt kommen wir zu dem
+
+246
+00:09:40,500 --> 00:09:43,640
+Problem. 5 mal 4 ist 20 und wir
+
+247
+00:09:43,640 --> 00:09:48,220
+schreiben immer nur die Einer des
+
+248
+00:09:48,220 --> 00:09:51,000
+Produkts auf. Das heißt, das wären in
+
+249
+00:09:51,000 --> 00:09:54,740
+dem Fall bei der 20 0. Jetzt haben
+
+250
+00:09:54,740 --> 00:09:56,220
+wir so eine Art Übertrag.
+
+251
+00:09:58,340 --> 00:10:00,480
+Wichtig ist hierbei, wir schreiben
+
+252
+00:10:00,480 --> 00:10:02,460
+die dann als kleine Zahl an die
+
+253
+00:10:02,460 --> 00:10:04,760
+nächste Ziffer. Viele verrechnet ihr
+
+254
+00:10:04,760 --> 00:10:06,160
+auch sofort, das kann man auch, aber
+
+255
+00:10:06,160 --> 00:10:07,320
+ich würde euch immer raten, die als
+
+256
+00:10:07,320 --> 00:10:09,440
+kleine Zahl dahin zu schreiben, weil
+
+257
+00:10:09,440 --> 00:10:11,240
+man hat beim schriftlichen
+
+258
+00:10:11,240 --> 00:10:13,020
+multiplizieren doch sehr viele
+
+259
+00:10:13,020 --> 00:10:15,700
+überträge als nächstes rechnen wir
+
+260
+00:10:15,700 --> 00:10:18,720
+fünf mal zwei das ist wieder null die
+
+261
+00:10:18,720 --> 00:10:20,540
+kleine zwei hier entsteht wie gesagt
+
+262
+00:10:20,540 --> 00:10:22,980
+aus dem übertrag von fünf mal vier
+
+263
+00:10:22,980 --> 00:10:24,500
+das war ja 20 deswegen steht hier
+
+264
+00:10:24,500 --> 00:10:26,860
+eine null und die zwei für die zwei
+
+265
+00:10:26,860 --> 00:10:30,660
+10er dann machen wir wie gesagt
+
+266
+00:10:30,660 --> 00:10:33,100
+weiter wir hatten ja gerade zweimal
+
+267
+00:10:33,100 --> 00:10:35,920
+fünf war eine 10 und deswegen haben
+
+268
+00:10:35,920 --> 00:10:37,260
+haben wir hier auch einen kleinen
+
+269
+00:10:37,260 --> 00:10:39,980
+Übertrag, aber wir haben danach keine
+
+270
+00:10:39,980 --> 00:10:41,200
+Ziffer mehr, deswegen schreiben wir
+
+271
+00:10:41,200 --> 00:10:41,820
+die 1 direkt hin.
+
+272
+00:10:45,160 --> 00:10:47,680
+Dann nehmen wir uns die 10er, also
+
+273
+00:10:47,680 --> 00:10:50,240
+die 3. Wichtig ist, das erste
+
+274
+00:10:50,240 --> 00:10:51,900
+Ergebnis wird jetzt sofort um eine
+
+275
+00:10:51,900 --> 00:10:53,760
+Stelle nach links geschoben, also
+
+276
+00:10:53,760 --> 00:10:58,700
+eingerückt. 3 mal 4 ist 12, das
+
+277
+00:10:58,700 --> 00:10:59,840
+heißt, jetzt sieht man es besser, wir
+
+278
+00:10:59,840 --> 00:11:03,060
+schreiben die 2 hin, die 1. Die 10er
+
+279
+00:11:03,060 --> 00:11:05,100
+halten wir im Sinn und schreiben sie
+
+280
+00:11:05,100 --> 00:11:07,800
+als kleine 1 hier hin. Jetzt rechnen
+
+281
+00:11:07,800 --> 00:11:12,560
+wir noch 3 mal 2, das ist 6. Und
+
+282
+00:11:12,560 --> 00:11:14,000
+jetzt addieren wir schriftlich.
+
+283
+00:11:14,000 --> 00:11:15,660
+Wichtig ist, diese kleinen Zahlen,
+
+284
+00:11:15,740 --> 00:11:16,560
+die wir hingeschrieben haben, die
+
+285
+00:11:16,560 --> 00:11:17,880
+werden mit addiert. Also ganz rechts
+
+286
+00:11:17,880 --> 00:11:21,120
+haben wir 0 plus 0, das ist 0. Bei
+
+287
+00:11:21,120 --> 00:11:23,720
+den Zehnern haben wir 0 plus 2 plus
+
+288
+00:11:23,720 --> 00:11:26,800
+2, das ist 4. Bei den Hundertern
+
+289
+00:11:26,800 --> 00:11:30,680
+haben wir 1 plus 6 plus 1, das ist 8.
+
+290
+00:11:30,800 --> 00:11:33,340
+Das heißt, unser Ergebnis lautet 840.
+
+291
+00:11:37,160 --> 00:11:40,100
+Und so multipliziert man schriftlich.
+
+292
+00:11:40,120 --> 00:11:42,100
+Wie gesagt, es ist hier ganz wichtig,
+
+293
+00:11:42,200 --> 00:11:44,940
+dass ihr diese Überträge immer dran
+
+294
+00:11:44,940 --> 00:11:47,240
+schreibt, weil die hat man bei den
+
+295
+00:11:47,240 --> 00:11:49,160
+schriftlichen Multiplizieren extrem
+
+296
+00:11:49,160 --> 00:11:49,520
+oft.
+
+297
+00:11:52,410 --> 00:11:54,270
+Damit wären wir jetzt auch schon bei
+
+298
+00:11:54,270 --> 00:11:55,610
+der Multiplikation mit einer
+
+299
+00:11:55,610 --> 00:11:58,750
+Zehnerzahl. Und zwar, wenn man mit
+
+300
+00:11:58,750 --> 00:12:01,150
+einer Zehnerzahl multipliziert, also
+
+301
+00:12:01,150 --> 00:12:02,870
+mit einer 10, einer 100, einer 1000
+
+302
+00:12:02,870 --> 00:12:05,470
+oder einer 10.000, dann muss man
+
+303
+00:12:05,470 --> 00:12:07,230
+lediglich Nullen anhängen. Und zwar,
+
+304
+00:12:07,310 --> 00:12:09,350
+man muss nur genau so viele Nullen
+
+305
+00:12:09,350 --> 00:12:12,250
+anhängen, wie die Zehnerzahl Nullen
+
+306
+00:12:12,250 --> 00:12:15,870
+hat. Das heißt, 6 mal 10. Die 10 hat
+
+307
+00:12:15,870 --> 00:12:18,110
+eine Null. Deswegen müssen wir an die
+
+308
+00:12:18,110 --> 00:12:20,330
+6 nur eine Null anhängen. 6 mal 10
+
+309
+00:12:20,330 --> 00:12:27,270
+ist also 60. 24 mal 100. Die 100 hat
+
+310
+00:12:27,270 --> 00:12:29,770
+zwei Nullen. Folglich müssen wir auch
+
+311
+00:12:29,770 --> 00:12:31,870
+an die 24 nur zwei Nullen anhängen.
+
+312
+00:12:32,870 --> 00:12:36,130
+Das Ergebnis lautet dann 2400. 400.
+
+313
+00:12:38,880 --> 00:12:42,060
+451 mal 1000. Man würde meinen, das
+
+314
+00:12:42,060 --> 00:12:43,380
+ist eine extrem schwere Rechnung,
+
+315
+00:12:43,400 --> 00:12:45,460
+aber wir multiplizieren einfach nur
+
+316
+00:12:45,460 --> 00:12:46,940
+mit einer Zehnerzahl, also die 1000,
+
+317
+00:12:47,180 --> 00:12:49,500
+haben also drei Nullen. Folglich
+
+318
+00:12:49,500 --> 00:12:52,480
+hängen wir an die 451 nur drei Nullen
+
+319
+00:12:52,480 --> 00:12:57,920
+an und kommen auf 451.000. Genauso
+
+320
+00:12:57,920 --> 00:13:01,900
+hier. 210 mal 100. Wir müssen an die
+
+321
+00:13:01,900 --> 00:13:04,140
+210 nur noch zwei Nullen anhängen.
+
+322
+00:13:04,180 --> 00:13:06,780
+Wichtig, zusätzlich zwei Nullen. Wir
+
+323
+00:13:06,780 --> 00:13:09,140
+haben hier die 210 und haben noch
+
+324
+00:13:09,140 --> 00:13:12,600
+zwei Nullen angehangen. So haben wir
+
+325
+00:13:12,600 --> 00:13:15,880
+insgesamt drei Nullen, also 21.000
+
+326
+00:13:15,880 --> 00:13:18,320
+lautet die Zahl. Und so multipliziert
+
+327
+00:13:18,320 --> 00:13:22,850
+man mit einer 10er Zahl. Und damit
+
+328
+00:13:22,850 --> 00:13:24,070
+wären wir auch schon bei unserem
+
+329
+00:13:24,070 --> 00:13:25,730
+letzten Thema des heutigen Webinars,
+
+330
+00:13:25,850 --> 00:13:28,090
+das sind die Umkehraufgaben. Und zwar
+
+331
+00:13:28,090 --> 00:13:29,410
+gibt es immer wieder Aufgaben, die so
+
+332
+00:13:29,410 --> 00:13:30,710
+eine kleine Lücke haben, also eine
+
+333
+00:13:30,710 --> 00:13:35,070
+Zahl mal 4 ist gleich 28. Unsere
+
+334
+00:13:35,070 --> 00:13:36,430
+Aufgabe ist es nun, diese hier
+
+335
+00:13:36,430 --> 00:13:37,550
+fehlende Zahl zu multiplizieren. zu
+
+336
+00:13:37,550 --> 00:13:39,550
+multiplizieren. Das heißt, welche
+
+337
+00:13:39,550 --> 00:13:42,550
+Zahlen mal 4 ist gleich 28? Die erste
+
+338
+00:13:42,550 --> 00:13:43,710
+Idee, die wir haben, ist das
+
+339
+00:13:43,710 --> 00:13:44,890
+Ausprobieren. Wir könnten jetzt
+
+340
+00:13:44,890 --> 00:13:47,430
+erstmal alle Zahlen von 1 bis 10
+
+341
+00:13:47,430 --> 00:13:49,470
+ausprobieren und wir werden aller
+
+342
+00:13:49,470 --> 00:13:52,130
+Wahrscheinlichkeit nach bei solchen
+
+343
+00:13:52,130 --> 00:13:53,590
+noch verhältnismäßig einfachen
+
+344
+00:13:53,590 --> 00:13:55,390
+Aufgaben die Zahl auf diese Weise
+
+345
+00:13:55,390 --> 00:13:58,740
+ermitteln können. Die zweite Idee
+
+346
+00:13:58,740 --> 00:14:00,400
+ist, die ist eigentlich ähnlich wie
+
+347
+00:14:00,400 --> 00:14:02,160
+die erste, man schaut im Client
+
+348
+00:14:02,160 --> 00:14:03,760
+einmal 1 nach. Das bedeutet, man
+
+349
+00:14:03,760 --> 00:14:07,320
+schaut, wo die 28 steht, also man
+
+350
+00:14:07,320 --> 00:14:08,740
+nimmt die 4 raus und guckt, wann man
+
+351
+00:14:08,740 --> 00:14:11,120
+bei der 28 ankommt und dann muss man
+
+352
+00:14:11,120 --> 00:14:13,240
+nur den zweiten dazugehörigen Faktor
+
+353
+00:14:13,240 --> 00:14:17,480
+ablesen. Wenn man das 1x1 gut
+
+354
+00:14:17,480 --> 00:14:20,060
+auswendig kann, dann weiß man das
+
+355
+00:14:20,060 --> 00:14:21,120
+Ergebnis wahrscheinlich schon direkt
+
+356
+00:14:21,120 --> 00:14:22,920
+auswendig bzw. man hat wenig
+
+357
+00:14:22,920 --> 00:14:27,420
+Probleme, es so zu ermitteln. Die
+
+358
+00:14:27,420 --> 00:14:30,300
+dritte Idee ist der Weg, wie es
+
+359
+00:14:30,300 --> 00:14:31,700
+eigentlich gemacht wird, das heißt,
+
+360
+00:14:31,820 --> 00:14:33,420
+man nimmt die Umkehr auf. Aufgabe.
+
+361
+00:14:33,940 --> 00:14:36,160
+Und zwar, man dreht die Rechnung. Man
+
+362
+00:14:36,160 --> 00:14:39,200
+macht
+
+363
+00:14:39,200 --> 00:14:41,200
+aus der Multiplikation ein Geteilt.
+
+364
+00:14:41,320 --> 00:14:43,640
+Denn die Zahl mal 4 ist gleich 28.
+
+365
+00:14:44,120 --> 00:14:46,420
+Kann man auch machen. 28 geteilt
+
+366
+00:14:46,420 --> 00:14:49,720
+durch 4 ist die gesuchte Zahl. Und
+
+367
+00:14:49,720 --> 00:14:52,060
+dann ist halt die Frage, wie oft
+
+368
+00:14:52,060 --> 00:14:54,300
+passt die 4 in die 28? Das ist eine
+
+369
+00:14:54,300 --> 00:14:57,020
+ganz klassische Division. Und Und
+
+370
+00:14:57,020 --> 00:14:59,100
+diese Division muss man dann
+
+371
+00:14:59,100 --> 00:15:03,080
+ausführen. Das ist in dem Fall die 7.
+
+372
+00:15:03,160 --> 00:15:05,740
+7 mal 4 ist 28, beziehungsweise 28
+
+373
+00:15:05,740 --> 00:15:09,780
+geteilt durch 4 ist 7. Die Division
+
+374
+00:15:09,780 --> 00:15:10,920
+kann man natürlich auch schriftlich
+
+375
+00:15:10,920 --> 00:15:12,820
+ausführen. Das wird dann aber in
+
+376
+00:15:12,820 --> 00:15:15,000
+einem separaten Webinar behandelt.
+
+377
+00:15:17,040 --> 00:15:18,700
+Damit wären wir auch schon am Ende
+
+378
+00:15:18,700 --> 00:15:20,560
+des Webinars. Ich bedanke mich für
+
+379
+00:15:20,560 --> 00:15:21,400
+eure Aufmerksamkeit.
+

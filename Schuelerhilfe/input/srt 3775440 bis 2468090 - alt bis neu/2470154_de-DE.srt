@@ -1,0 +1,1108 @@
+1
+00:00:00,750 --> 00:00:03,110
+So, hallo und willkommen zum Webinar
+
+2
+00:00:03,110 --> 00:00:06,250
+heute in Englisch. Umgang mit Texten
+
+3
+00:00:06,250 --> 00:00:09,290
+und Reading Comprehension. Kannst du
+
+4
+00:00:09,290 --> 00:00:10,790
+mal bitte schreiben in den Chat, ob
+
+5
+00:00:10,790 --> 00:00:13,330
+du mich hören kannst und ob für dich
+
+6
+00:00:13,330 --> 00:00:14,970
+die Präsentation sichtbar ist?
+
+7
+00:00:18,720 --> 00:00:21,560
+Okay, sehr gut. Genau, ich werde nur
+
+8
+00:00:21,560 --> 00:00:22,740
+kurz was zum Ablauf sagen.
+
+9
+00:00:23,960 --> 00:00:25,220
+Normalerweise hat man bei mir am Ende
+
+10
+00:00:25,220 --> 00:00:26,760
+Zeit, Fragen zu stellen. Wirst du
+
+11
+00:00:26,760 --> 00:00:28,900
+auch haben. Aber wenn du zu zweit
+
+12
+00:00:28,900 --> 00:00:31,140
+sind, kannst du auch gerne parallel
+
+13
+00:00:31,140 --> 00:00:32,460
+in den Chat schreiben, falls was
+
+14
+00:00:32,460 --> 00:00:34,420
+unklar ist. ist, dann versuche ich
+
+15
+00:00:34,420 --> 00:00:38,100
+direkt darauf einzugehen. Genau. So,
+
+16
+00:00:38,260 --> 00:00:41,780
+dann fangen wir mal an. Genau, also
+
+17
+00:00:41,780 --> 00:00:43,400
+heute schauen wir uns zuerst die
+
+18
+00:00:43,400 --> 00:00:44,820
+wichtigen Grundlagen an, also
+
+19
+00:00:44,820 --> 00:00:47,080
+generell Reading Comprehension, dann
+
+20
+00:00:47,080 --> 00:00:49,260
+schauen wir uns die Methodik an und
+
+21
+00:00:49,260 --> 00:00:50,740
+dann auch sechs Schritte zu einer
+
+22
+00:00:50,740 --> 00:00:52,900
+gründlichen Textuntersuchung. Und
+
+23
+00:00:52,900 --> 00:00:54,280
+zuletzt gibt es dann noch ein paar
+
+24
+00:00:54,280 --> 00:00:58,720
+Tipps und Hinweise. Also, so, Reading
+
+25
+00:00:58,720 --> 00:01:01,100
+Comprehension generell beschreibt die
+
+26
+00:01:01,100 --> 00:01:02,580
+Fähigkeit, einen Text lesen zu
+
+27
+00:01:02,580 --> 00:01:05,160
+können, diesen verarbeiten zu können
+
+28
+00:01:05,160 --> 00:01:06,440
+und somit auch seinen Inhalt
+
+29
+00:01:06,440 --> 00:01:09,140
+verstehen zu können. Ja, genau. Was
+
+30
+00:01:09,140 --> 00:01:10,300
+du vielleicht schon wusstest, Reading
+
+31
+00:01:10,300 --> 00:01:12,480
+Comprehension heißt dann auf Deutsch
+
+32
+00:01:12,480 --> 00:01:14,540
+übersetzt Leseverstehen.
+
+33
+00:01:16,400 --> 00:01:19,280
+Ja, Methodik. Wie lese ich eigentlich
+
+34
+00:01:19,280 --> 00:01:21,540
+einen Text richtig? Es gibt halt
+
+35
+00:01:21,540 --> 00:01:23,860
+verschiedene, ich sag mal, Sorten zu
+
+36
+00:01:23,860 --> 00:01:26,940
+lesen. Einmal das Skimming, das ist,
+
+37
+00:01:26,980 --> 00:01:28,500
+wenn man einen Text nur überfliegt.
+
+38
+00:01:29,140 --> 00:01:30,860
+Das wendet man an, wenn man
+
+39
+00:01:30,860 --> 00:01:32,460
+Textstellen zu einem bestimmten Thema
+
+40
+00:01:32,460 --> 00:01:36,040
+sucht. Also beispielsweise, man liest
+
+41
+00:01:36,040 --> 00:01:38,100
+eine Frage und will die Frage mit
+
+42
+00:01:38,100 --> 00:01:39,520
+Hilfe des Textes beantworten und
+
+43
+00:01:39,520 --> 00:01:43,420
+sucht quasi den Text nach dem Thema.
+
+44
+00:01:44,100 --> 00:01:46,500
+Dann gibt es auch das Scanning, das
+
+45
+00:01:46,500 --> 00:01:48,140
+ist das gezielte Durchsuchen von
+
+46
+00:01:48,140 --> 00:01:51,180
+einem Text. Also da sammelt man
+
+47
+00:01:51,180 --> 00:01:53,100
+gezielt Informationen, zum Beispiel,
+
+48
+00:01:53,100 --> 00:01:55,920
+wenn die Frage ist, welche Farbe hat
+
+49
+00:01:55,920 --> 00:01:58,080
+die Sonne, dann sucht man überall,
+
+50
+00:01:58,220 --> 00:02:00,120
+okay, wo steht Sonne, wo steht Farbe,
+
+51
+00:02:00,120 --> 00:02:01,520
+wo finde ich diese Information.
+
+52
+00:02:02,820 --> 00:02:04,380
+Genau, und dann gibt es noch das
+
+53
+00:02:04,380 --> 00:02:06,320
+Intensive Reading, also das intensive
+
+54
+00:02:06,320 --> 00:02:09,660
+Lesen. Dabei macht man sich bereits
+
+55
+00:02:09,660 --> 00:02:11,860
+Randnotizen, da markiert man
+
+56
+00:02:11,860 --> 00:02:13,860
+Textstellen, man sucht die
+
+57
+00:02:13,860 --> 00:02:16,280
+Kernaussagen vom Text, man macht
+
+58
+00:02:16,280 --> 00:02:17,020
+vielleicht eine kleine
+
+59
+00:02:17,020 --> 00:02:19,520
+Charakterisierung der Erzählfigur und
+
+60
+00:02:19,520 --> 00:02:22,060
+man schreibt eine Zusammenfassung.
+
+61
+00:02:22,100 --> 00:02:23,500
+Zusammenfassung darüber, also sowas
+
+62
+00:02:23,500 --> 00:02:25,180
+wie eine Summary. Das sind alles
+
+63
+00:02:25,180 --> 00:02:26,600
+Schritte, die man beim Intensive
+
+64
+00:02:26,600 --> 00:02:30,760
+Reading macht. Genau. Dann haben wir
+
+65
+00:02:30,760 --> 00:02:31,900
+hier die sechs Schritte zu einer
+
+66
+00:02:31,900 --> 00:02:35,860
+gründlichen Textuntersuchung. Erstens
+
+67
+00:02:35,860 --> 00:02:39,920
+wäre dann die Hauptaussagen aus dem
+
+68
+00:02:39,920 --> 00:02:43,780
+Text heraussuchen und markieren. Dann
+
+69
+00:02:43,780 --> 00:02:45,460
+wäre der zweite Schritt, den Text
+
+70
+00:02:45,460 --> 00:02:47,540
+eben in Sinneinheiten zu unterteilen.
+
+71
+00:02:48,600 --> 00:02:50,900
+Der dritte Schritt wäre, den Text mit
+
+72
+00:02:50,900 --> 00:02:53,620
+Textmarker optisch zu gliedern. Und
+
+73
+00:02:53,620 --> 00:02:56,240
+das vierte wäre dann quasi das
+
+74
+00:02:56,240 --> 00:02:57,820
+Wiederfinden von wichtigen
+
+75
+00:02:57,820 --> 00:03:00,480
+Textabschnitten durch Randnotizen und
+
+76
+00:03:00,480 --> 00:03:03,420
+Markierungen. Also dass man, nachdem
+
+77
+00:03:03,420 --> 00:03:05,340
+man das optisch gegliedert hat und
+
+78
+00:03:05,340 --> 00:03:07,060
+dann Randnotizen und Markierungen
+
+79
+00:03:07,060 --> 00:03:09,340
+ergänzt hat, dass man weiß, okay, ach
+
+80
+00:03:09,340 --> 00:03:11,280
+so, da habe ich jetzt das gelesen.
+
+81
+00:03:11,300 --> 00:03:13,220
+Damit man nachher das nicht alles
+
+82
+00:03:13,220 --> 00:03:15,020
+nochmal lesen muss, weil man es eben
+
+83
+00:03:15,020 --> 00:03:18,540
+falsch markiert hat. Ja, dann muss
+
+84
+00:03:18,540 --> 00:03:19,920
+man die Aufgabenstellung genau
+
+85
+00:03:19,920 --> 00:03:22,040
+durchlesen und dann den Text
+
+86
+00:03:22,040 --> 00:03:23,980
+systematisch anhand der Fragestellung
+
+87
+00:03:23,980 --> 00:03:25,800
+untersuchen. Das ist vielleicht ganz
+
+88
+00:03:25,800 --> 00:03:27,520
+wichtig und das machen auch viele
+
+89
+00:03:27,520 --> 00:03:31,800
+Leute anders, sage ich mal, dass man
+
+90
+00:03:31,800 --> 00:03:33,280
+halt zuerst nur sich die
+
+91
+00:03:33,280 --> 00:03:34,280
+Aufgabenstellung ankriegt und
+
+92
+00:03:34,280 --> 00:03:36,300
+daraufhin den Text bearbeitet. Aber
+
+93
+00:03:36,300 --> 00:03:39,360
+es macht häufig mehr Sinn, sich, wie
+
+94
+00:03:39,360 --> 00:03:40,760
+es hier beschrieben ist, den Text
+
+95
+00:03:40,760 --> 00:03:42,900
+zuerst anzuschauen, Hauptaussagen
+
+96
+00:03:42,900 --> 00:03:44,820
+rauszusuchen, Sinneinheiten
+
+97
+00:03:44,820 --> 00:03:48,320
+einzutaten. Teilen, genau, das mit
+
+98
+00:03:48,320 --> 00:03:50,200
+einem Textmarker zum Beispiel optisch
+
+99
+00:03:50,200 --> 00:03:51,940
+zu gliedern und wenn man dann die
+
+100
+00:03:51,940 --> 00:03:53,420
+Aufgabenstellung anschaut, dann weiß
+
+101
+00:03:53,420 --> 00:03:55,680
+man direkt, okay, im Text geht es da
+
+102
+00:03:55,680 --> 00:03:58,060
+und darum, da kann ich suchen und so
+
+103
+00:03:58,060 --> 00:03:59,780
+kann ich dann halt gut diese Aufgabe
+
+104
+00:03:59,780 --> 00:04:02,660
+beantworten. Ja, dann kann man noch
+
+105
+00:04:02,660 --> 00:04:04,220
+Wörter in dem Text markieren, die
+
+106
+00:04:04,220 --> 00:04:05,560
+eben für diese Fragestellung wichtig
+
+107
+00:04:05,560 --> 00:04:07,720
+sind und daraufhin das dann eben
+
+108
+00:04:07,720 --> 00:04:11,900
+anwenden auf die Aufgabe, genau. So.
+
+109
+00:04:14,540 --> 00:04:15,880
+nochmal eine kurze Zusammenfassung,
+
+110
+00:04:15,980 --> 00:04:17,520
+also Leseverstehen, Reading
+
+111
+00:04:17,520 --> 00:04:20,160
+Comprehension ist die Fähigkeit, den
+
+112
+00:04:20,160 --> 00:04:21,780
+Inhalt von einem Text zu verstehen.
+
+113
+00:04:23,160 --> 00:04:25,260
+Dafür gibt es verschiedene Methodiken
+
+114
+00:04:25,260 --> 00:04:27,800
+und Vorgehensweisen, also einmal
+
+115
+00:04:27,800 --> 00:04:29,760
+Skimming, das was wir eben hatten,
+
+116
+00:04:29,860 --> 00:04:32,340
+dass man den Text quasi nach dem
+
+117
+00:04:32,340 --> 00:04:34,860
+Inhalt überfliegt, dann Scanning, wo
+
+118
+00:04:34,860 --> 00:04:36,620
+man gezielt nach einer Information
+
+119
+00:04:36,620 --> 00:04:39,000
+sucht und Intensive Reading, wo man
+
+120
+00:04:39,000 --> 00:04:42,960
+wirklich den Text sehr intensiv liest
+
+121
+00:04:42,960 --> 00:04:45,080
+und danach diese sechs Schritte für
+
+122
+00:04:45,080 --> 00:04:46,500
+die gründliche Textuntersuchung
+
+123
+00:04:46,500 --> 00:04:48,620
+beachtet, genau, die wir dann
+
+124
+00:04:48,620 --> 00:04:51,300
+anschließend besprochen hatten. Gibt
+
+125
+00:04:51,300 --> 00:04:53,360
+es bisher Fragen oder habe ich zu
+
+126
+00:04:53,360 --> 00:04:56,300
+schnell geredet? Ich versuche es
+
+127
+00:04:56,300 --> 00:04:58,320
+nicht zu machen, aber gerne darauf
+
+128
+00:04:58,320 --> 00:05:02,000
+hinweisen. Genau, okay, sehr gut.
+
+129
+00:05:02,100 --> 00:05:05,940
+Dann machen wir weiter mit Tipps und
+
+130
+00:05:05,940 --> 00:05:09,080
+Hinweisen. Leseverstehen kann
+
+131
+00:05:09,080 --> 00:05:11,180
+unterstützt werden, wenn man sich im
+
+132
+00:05:11,180 --> 00:05:13,360
+Klaren ist, was die vorliegende
+
+133
+00:05:13,360 --> 00:05:15,740
+Textart ist. Der Text kann halt
+
+134
+00:05:15,740 --> 00:05:18,280
+entweder ein literarischer Text oder
+
+135
+00:05:18,280 --> 00:05:20,000
+ein nicht-literarischer Text sein,
+
+136
+00:05:20,100 --> 00:05:22,360
+also fiktional oder non-fiktional.
+
+137
+00:05:23,060 --> 00:05:24,340
+Literarische Texte sind
+
+138
+00:05:24,340 --> 00:05:27,060
+beispielsweise ein Gedicht, Dramen,
+
+139
+00:05:27,900 --> 00:05:29,540
+Kurzgeschichten, Romane oder
+
+140
+00:05:29,540 --> 00:05:32,440
+Allegorien. Nicht-literarische Texte
+
+141
+00:05:32,440 --> 00:05:35,000
+sind Zeitungen, Artikel in Magazinen
+
+142
+00:05:35,000 --> 00:05:38,020
+oder Zeitschriften, Broschüren,
+
+143
+00:05:38,020 --> 00:05:40,580
+Werbeflyer, auch Reden, politische
+
+144
+00:05:40,580 --> 00:05:42,200
+zum Beispiel, Berichte oder
+
+145
+00:05:42,200 --> 00:05:45,600
+Leitartikel. Es kann halt insofern
+
+146
+00:05:45,600 --> 00:05:47,860
+hilfreich sein, wenn man einen dieser
+
+147
+00:05:47,860 --> 00:05:49,460
+Sachen vorliegend hat, dass man weiß,
+
+148
+00:05:49,640 --> 00:05:51,940
+okay, in einem Gedicht ist häufig
+
+149
+00:05:51,940 --> 00:05:54,280
+malerische Sprache. Im Normalfall
+
+150
+00:05:54,280 --> 00:05:55,720
+meinen die nicht, was da steht,
+
+151
+00:05:55,920 --> 00:05:57,260
+sondern das hat noch einen tieferen
+
+152
+00:05:57,260 --> 00:06:01,100
+Sinn, Grund. Also das hilft halt
+
+153
+00:06:01,100 --> 00:06:02,840
+quasi ein bisschen. Oder Oder wenn
+
+154
+00:06:02,840 --> 00:06:04,380
+man weiß, in Reden werden Leute
+
+155
+00:06:04,380 --> 00:06:06,780
+häufig manipuliert. Wo sind die
+
+156
+00:06:06,780 --> 00:06:08,880
+Stilmittel? Wie versucht man den
+
+157
+00:06:08,880 --> 00:06:12,020
+Zuhörenden zu überzeugen? Oder in
+
+158
+00:06:12,020 --> 00:06:14,340
+Broschüren weiß man, okay, das Wissen
+
+159
+00:06:14,340 --> 00:06:15,480
+ist komprimiert, weil man auf
+
+160
+00:06:15,480 --> 00:06:16,960
+möglichst geringem Platz sehr viele
+
+161
+00:06:16,960 --> 00:06:18,560
+Informationen unterbringen möchte.
+
+162
+00:06:19,020 --> 00:06:21,960
+Das kann halt eben helfen, einen Text
+
+163
+00:06:21,960 --> 00:06:22,980
+schneller zu verstehen.
+
+164
+00:06:25,580 --> 00:06:27,960
+Für das Leseverständnis von Texten
+
+165
+00:06:27,960 --> 00:06:30,600
+hilft es auch sehr, die Texte selbst
+
+166
+00:06:30,600 --> 00:06:32,600
+in der... Struktur und in der Form zu
+
+167
+00:06:32,600 --> 00:06:36,040
+analysieren. Texte sind meistens
+
+168
+00:06:36,040 --> 00:06:37,460
+geliedert, das weißt du vielleicht,
+
+169
+00:06:37,760 --> 00:06:39,740
+in Einleitung, Hauptteil und Schluss.
+
+170
+00:06:41,220 --> 00:06:42,760
+Und so kann man halt auch selber
+
+171
+00:06:42,760 --> 00:06:43,880
+versuchen, die Texte zu
+
+172
+00:06:45,260 --> 00:06:47,060
+kategorisieren, sag ich mal. Bei der
+
+173
+00:06:47,060 --> 00:06:48,300
+Einleitung kann man dann schauen,
+
+174
+00:06:48,540 --> 00:06:50,880
+erfährt der Leser vom Autorum, was
+
+175
+00:06:50,880 --> 00:06:52,780
+sich der Text dreht und beginnt der
+
+176
+00:06:52,780 --> 00:06:54,760
+Text mit Fakten, das ist die
+
+177
+00:06:54,760 --> 00:06:57,380
+Einleitung. Dann im Hauptteil kann
+
+178
+00:06:57,380 --> 00:06:59,580
+man sich fragen, okay, welche Art von
+
+179
+00:06:59,580 --> 00:07:02,080
+Informationen wird verwendet? Das ist
+
+180
+00:07:02,080 --> 00:07:03,680
+das, was ich gerade meinte. Fakten
+
+181
+00:07:03,680 --> 00:07:06,840
+oder Meinungen oder sind das Studien
+
+182
+00:07:06,840 --> 00:07:09,460
+oder Vermutungen? Das ist ja ein
+
+183
+00:07:09,460 --> 00:07:11,360
+Unterschied zum Beispiel, in einer
+
+184
+00:07:11,360 --> 00:07:14,460
+Broschüre oder einer Zeitung, sagen
+
+185
+00:07:14,460 --> 00:07:17,200
+wir mal, stehen meistens Fakten. Das
+
+186
+00:07:17,200 --> 00:07:18,120
+kommt natürlich auf die Art der
+
+187
+00:07:18,120 --> 00:07:20,040
+Zeitung an. Wenn das jetzt ein
+
+188
+00:07:20,040 --> 00:07:21,240
+Kommentar ist zum Beispiel, steht
+
+189
+00:07:21,240 --> 00:07:22,880
+natürlich auch die Meinung. Aber zum
+
+190
+00:07:22,880 --> 00:07:24,600
+Beispiel in politischen Reden oder
+
+191
+00:07:24,600 --> 00:07:26,200
+so, da werden ja häufig dann
+
+192
+00:07:26,200 --> 00:07:27,660
+Meinungen verwendet. Und da ist halt
+
+193
+00:07:27,660 --> 00:07:30,400
+dann wichtig zu sehen, okay, was ist
+
+194
+00:07:30,400 --> 00:07:32,240
+es für eine Information? Ist es quasi
+
+195
+00:07:32,240 --> 00:07:34,840
+geprüft und mit einer Quelle
+
+196
+00:07:34,840 --> 00:07:36,480
+gesichert oder ist es einfach die
+
+197
+00:07:36,480 --> 00:07:38,840
+Meinung einer Person? Ja, und dann
+
+198
+00:07:38,840 --> 00:07:40,240
+ist noch interessant, wie sind die
+
+199
+00:07:40,240 --> 00:07:43,860
+Fakten oder Argumente arrangiert? Und
+
+200
+00:07:43,860 --> 00:07:45,700
+dann im Schlussteil kann man noch
+
+201
+00:07:45,700 --> 00:07:47,340
+schauen, ob der Autor seine eigene
+
+202
+00:07:47,340 --> 00:07:49,440
+Meinung wiedergibt, ob er sich wieder
+
+203
+00:07:49,440 --> 00:07:51,640
+rückbezieht auf die Einleitung, also
+
+204
+00:07:51,640 --> 00:07:53,580
+um was dreht sich der Text, ging es
+
+205
+00:07:53,580 --> 00:07:55,100
+da auch drum, und dann am Schluss
+
+206
+00:07:55,100 --> 00:07:57,640
+nochmal darauf zurückkommen, zieht er
+
+207
+00:07:57,640 --> 00:07:59,360
+anhand der verwendeten Fakten oder
+
+208
+00:07:59,360 --> 00:08:01,680
+Meinungen einen Rückschluss und wie
+
+209
+00:08:01,680 --> 00:08:03,320
+passen im Endeffekt Text und Titel
+
+210
+00:08:03,320 --> 00:08:06,380
+zusammen. Wenn man diese Struktur und
+
+211
+00:08:06,380 --> 00:08:09,540
+Form des Textes quasi nochmal sich
+
+212
+00:08:09,540 --> 00:08:12,760
+anschaut, dann hilft es einem
+
+213
+00:08:12,760 --> 00:08:14,620
+meistens, den Text zu erschließen.
+
+214
+00:08:16,760 --> 00:08:20,760
+Genau. Also wenn man dann den Inhalt
+
+215
+00:08:20,760 --> 00:08:23,300
+von einem Text betrachtet, macht es
+
+216
+00:08:23,300 --> 00:08:25,020
+häufig Sinn, sich spezielle Fragen zu
+
+217
+00:08:25,020 --> 00:08:27,540
+stellen. Was wir gerade schon hatten,
+
+218
+00:08:27,580 --> 00:08:29,040
+was wirklich ein zentraler Punkt ist,
+
+219
+00:08:29,060 --> 00:08:32,160
+ist, ob der Text Fakten enthält, ob
+
+220
+00:08:32,160 --> 00:08:33,260
+er eine bestimmte Meinung
+
+221
+00:08:33,260 --> 00:08:36,500
+widerspiegelt und ob er anekdotisch
+
+222
+00:08:36,500 --> 00:08:38,200
+gestaltet ist oder analytisch. Also
+
+223
+00:08:38,200 --> 00:08:40,500
+wie ist quasi, ich sag mal, der Stil
+
+224
+00:08:40,500 --> 00:08:42,920
+von dem Text. Genau, das ist aber
+
+225
+00:08:42,920 --> 00:08:44,240
+auch das, was wir gerade eben schon
+
+226
+00:08:44,240 --> 00:08:45,500
+so ein bisschen besprochen hatten.
+
+227
+00:08:45,500 --> 00:08:47,460
+Sind es Fakten, sind es Meinungen?
+
+228
+00:08:47,780 --> 00:08:49,800
+Versucht derjenige was anderes zu
+
+229
+00:08:49,800 --> 00:08:52,920
+sagen? Genau, so diese Richtung. So
+
+230
+00:08:52,920 --> 00:08:54,640
+kann man das halt eben, ich sag mal,
+
+231
+00:08:54,700 --> 00:08:56,700
+reflektieren und dadurch den Text
+
+232
+00:08:56,700 --> 00:08:58,260
+besser verstehen beim Lesen.
+
+233
+00:09:01,040 --> 00:09:03,140
+Und auch die Funktion von einem Text
+
+234
+00:09:03,140 --> 00:09:04,500
+kann eben hilfreiche Informationen
+
+235
+00:09:04,500 --> 00:09:08,240
+zum Leseverstehen liefern. Da wird
+
+236
+00:09:08,240 --> 00:09:10,460
+man dann sich eher fragen, wieso ist
+
+237
+00:09:10,460 --> 00:09:13,000
+der Text geschrieben, warum? Will er
+
+238
+00:09:13,000 --> 00:09:15,260
+informieren? Will er unterhalten?
+
+239
+00:09:15,580 --> 00:09:18,260
+Will er kritisieren? ist es eher eine
+
+240
+00:09:18,260 --> 00:09:20,240
+Parodie, was ja dann auch vermutlich
+
+241
+00:09:20,240 --> 00:09:23,040
+eher Kritik wäre, um zu überzeugen
+
+242
+00:09:23,040 --> 00:09:26,080
+oder um zu loben. Also was ist die
+
+243
+00:09:26,080 --> 00:09:29,380
+Funktion? Zum Beispiel, das Beispiel
+
+244
+00:09:29,380 --> 00:09:31,000
+von eben, politische Rede wäre
+
+245
+00:09:31,000 --> 00:09:32,980
+natürlich, um zu überzeugen. Man will
+
+246
+00:09:32,980 --> 00:09:35,840
+von sich überzeugen. Ein Drama zum
+
+247
+00:09:35,840 --> 00:09:37,660
+Beispiel kann unterhalten, kann aber
+
+248
+00:09:37,660 --> 00:09:39,660
+auch etwas kritisieren. Gedichte
+
+249
+00:09:39,660 --> 00:09:43,220
+häufig, Kritik oder Unterhaltung.
+
+250
+00:09:44,340 --> 00:09:45,840
+Informieren wäre dann sowas wie...
+
+251
+00:09:45,860 --> 00:09:50,890
+Broschüre. Genau. So, und dann ist
+
+252
+00:09:50,890 --> 00:09:51,610
+hier nochmal eine kurze
+
+253
+00:09:51,610 --> 00:09:53,230
+Zusammenfassung. Also, das
+
+254
+00:09:53,230 --> 00:09:54,530
+Leseverstehen generell kann
+
+255
+00:09:54,530 --> 00:09:56,730
+unterstützt werden, indem die
+
+256
+00:09:56,730 --> 00:09:58,330
+folgenden vier Punkte nochmal genauer
+
+257
+00:09:58,330 --> 00:10:00,610
+betrachtet werden. Die Art vom Text,
+
+258
+00:10:00,710 --> 00:10:02,550
+die Struktur und die Form vom Text,
+
+259
+00:10:02,690 --> 00:10:04,970
+der Inhalt und die Funktion des
+
+260
+00:10:04,970 --> 00:10:09,130
+Textes. Genau. Und generell, ja,
+
+261
+00:10:09,210 --> 00:10:10,130
+würde ich auch diese sechs
+
+262
+00:10:10,130 --> 00:10:11,390
+Methodiken, die wir eben eben hat ein
+
+263
+00:10:11,390 --> 00:10:13,150
+Empfehl, also dass man den Text
+
+264
+00:10:13,150 --> 00:10:16,630
+abgeht, einteilt und sich dann erst
+
+265
+00:10:16,630 --> 00:10:18,390
+die Fragestellung anschaut. Dann ist
+
+266
+00:10:18,390 --> 00:10:20,050
+man in der Regel schneller durch.
+
+267
+00:10:21,370 --> 00:10:23,490
+Genau. Ja, das war es schon von mir.
+
+268
+00:10:23,630 --> 00:10:25,650
+Ich bedanke mich vielmals für deine
+
+269
+00:10:25,650 --> 00:10:29,130
+Aufmerksamkeit. Genau, bin jetzt
+
+270
+00:10:29,130 --> 00:10:31,690
+offen für Fragen, Feedback, wenn ich
+
+271
+00:10:31,690 --> 00:10:35,290
+nochmal was sagen soll. Genau, falls
+
+272
+00:10:35,290 --> 00:10:36,450
+ich im zweiten Teil zu schnell
+
+273
+00:10:36,450 --> 00:10:39,270
+geredet habe, erkläre ich auch gerne
+
+274
+00:10:39,270 --> 00:10:40,770
+nochmal was. Langsamer oder
+
+275
+00:10:40,770 --> 00:10:42,950
+ausführlicher. Genau.
+
+276
+00:10:49,200 --> 00:10:51,420
+Okay, das freut mich. Dann wünsche
+
+277
+00:10:51,420 --> 00:10:52,380
+ich dir noch einen schönen Abend.
+

@@ -1,0 +1,3516 @@
+1
+00:00:00,000 --> 00:00:01,620
+Willkommen zum Webinar
+
+2
+00:00:01,620 --> 00:00:03,700
+Kurvendiskussion einer gebrochen
+
+3
+00:00:03,700 --> 00:00:06,160
+rationalen Funktion. Wir werden im
+
+4
+00:00:06,160 --> 00:00:07,360
+Rahmen dieses Webinars eine
+
+5
+00:00:07,360 --> 00:00:10,620
+Kurvendiskussion einer gebrochen
+
+6
+00:00:10,620 --> 00:00:12,080
+rationalen Funktion durchführen.
+
+7
+00:00:12,580 --> 00:00:14,680
+Viele Kriterien und notwendige
+
+8
+00:00:14,680 --> 00:00:16,660
+Bedingungen sind ähnlich zu denen,
+
+9
+00:00:16,720 --> 00:00:18,040
+wie wir sie von ganz rationalen
+
+10
+00:00:18,040 --> 00:00:20,080
+Funktionen kennen. Wir sehen hier
+
+11
+00:00:20,080 --> 00:00:21,620
+auch erstmal eine kurze Übersicht
+
+12
+00:00:21,620 --> 00:00:23,980
+über die Sachen, die wir heute alle
+
+13
+00:00:23,980 --> 00:00:25,440
+berechnen und uns anschauen werden.
+
+14
+00:00:26,020 --> 00:00:27,420
+Zunächst werden wir uns einmal unsere
+
+15
+00:00:27,420 --> 00:00:30,220
+Funktion anschauen. ist auch bis auf
+
+16
+00:00:30,220 --> 00:00:31,760
+einen Punkt im Webinar immer die
+
+17
+00:00:31,760 --> 00:00:33,280
+gleiche, also anhand der Funktion,
+
+18
+00:00:33,380 --> 00:00:35,520
+die wir gleich vorstellen, werden wir
+
+19
+00:00:35,520 --> 00:00:37,780
+die Kurvendiskussion durchführen. Als
+
+20
+00:00:37,780 --> 00:00:39,200
+erstes sollte man bei einer
+
+21
+00:00:39,200 --> 00:00:40,500
+gebrochenen rationalen Funktion immer
+
+22
+00:00:40,500 --> 00:00:41,780
+erst den Definitionsbereich
+
+23
+00:00:41,780 --> 00:00:43,300
+bestimmen. Das sollte immer das erste
+
+24
+00:00:43,300 --> 00:00:45,200
+sein, was man macht und danach kann
+
+25
+00:00:45,200 --> 00:00:46,480
+man mit der eigentlichen
+
+26
+00:00:46,480 --> 00:00:48,000
+Kurvendiskussion anfangen und die
+
+27
+00:00:48,000 --> 00:00:49,760
+Elemente, die hier aufgelistet sind,
+
+28
+00:00:49,780 --> 00:00:50,980
+auch eigentlich beliebig vertauschen.
+
+29
+00:00:50,980 --> 00:00:52,860
+Wir machen dann weiter mit den
+
+30
+00:00:52,860 --> 00:00:53,820
+Nullstellen und den Y
+
+31
+00:00:53,820 --> 00:00:55,080
+-Achsenabschnitt. Das heißt als
+
+32
+00:00:55,080 --> 00:00:57,240
+nächstes, dass beide zusammen sind ja
+
+33
+00:00:57,240 --> 00:00:59,420
+die beiden Schnittpunkte mit den
+
+34
+00:00:59,420 --> 00:01:02,900
+Koordinatenachsen. Danach berechnen
+
+35
+00:01:02,900 --> 00:01:04,540
+wir die Polstellen und werden nochmal
+
+36
+00:01:04,540 --> 00:01:06,900
+darauf eingehen, was sind Polstellen
+
+37
+00:01:06,900 --> 00:01:08,280
+oder was ist der Unterschied zwischen
+
+38
+00:01:08,280 --> 00:01:09,860
+einer Definitionslücke und einer
+
+39
+00:01:09,860 --> 00:01:12,520
+Polstelle. Danach schauen wir uns das
+
+40
+00:01:12,520 --> 00:01:13,800
+Globalverhalten an, das
+
+41
+00:01:13,800 --> 00:01:15,820
+Symmetrieverhalten und natürlich die
+
+42
+00:01:15,820 --> 00:01:19,240
+Klassiker, Extremwerte, Notwerte,
+
+43
+00:01:19,320 --> 00:01:20,320
+hinreichende Bedingungen. für die
+
+44
+00:01:20,320 --> 00:01:24,000
+extremen punkte also welche art von
+
+45
+00:01:24,000 --> 00:01:25,880
+extrem punkten liegt vor danach
+
+46
+00:01:25,880 --> 00:01:27,680
+werden wir uns noch das monotonie
+
+47
+00:01:27,680 --> 00:01:29,080
+verhalten anschauen und zuletzt noch
+
+48
+00:01:29,080 --> 00:01:31,280
+wendepunkte und krümmungen und da
+
+49
+00:01:31,280 --> 00:01:33,380
+gibt es eine besonderheit zu beachten
+
+50
+00:01:33,380 --> 00:01:35,720
+das sag ich jetzt schon mal und ganz
+
+51
+00:01:35,720 --> 00:01:37,020
+zum schluss schauen wir uns das ganze
+
+52
+00:01:37,020 --> 00:01:38,600
+diese gebrochen rationale funktion
+
+53
+00:01:38,600 --> 00:01:40,540
+einmal als grafen an und dann wird
+
+54
+00:01:40,540 --> 00:01:43,520
+denke ich auch alles verständlich was
+
+55
+00:01:43,520 --> 00:01:45,620
+man davor berechnet hat wie das auch
+
+56
+00:01:45,620 --> 00:01:49,180
+grafisch zu deuten ist gut Zunächst
+
+57
+00:01:49,180 --> 00:01:50,140
+sehen wir hier einmal unsere
+
+58
+00:01:50,140 --> 00:01:52,340
+Funktionsgleichung f von x gleich x²
+
+59
+00:01:52,340 --> 00:01:54,500
+minus 4 durch x² minus 1. Das ist
+
+60
+00:01:54,500 --> 00:01:56,160
+also wirklich eine gebrochenrationale
+
+61
+00:01:56,160 --> 00:01:58,280
+Funktion. Eine gebrochenrationale
+
+62
+00:01:58,280 --> 00:01:59,580
+Funktion zeichnet sich nämlich
+
+63
+00:01:59,580 --> 00:02:03,100
+dadurch aus, dass sie auch im Nenner
+
+64
+00:02:03,100 --> 00:02:04,740
+unsere Variable enthält und diese
+
+65
+00:02:04,740 --> 00:02:04,980
+nicht die
+
+66
+00:02:09,520 --> 00:02:11,900
+gebrochenrationale Funktion. Anhand
+
+67
+00:02:11,900 --> 00:02:13,260
+dieser werden wir gleich, wie schon
+
+68
+00:02:13,260 --> 00:02:14,540
+erwähnt, die Kurvendiskussion
+
+69
+00:02:14,540 --> 00:02:17,280
+durchführen. Wir werden uns aber eher
+
+70
+00:02:17,280 --> 00:02:19,100
+auf die Bedingungen und auf die
+
+71
+00:02:19,100 --> 00:02:22,000
+Rechenwege beziehen. Wir werden nicht
+
+72
+00:02:22,000 --> 00:02:23,560
+unbedingt auf das Lösen von
+
+73
+00:02:23,560 --> 00:02:25,700
+Gleichungen tiefer eingehen. Wir
+
+74
+00:02:25,700 --> 00:02:28,420
+werden das nur anschneiden und
+
+75
+00:02:28,420 --> 00:02:30,500
+generell natürlich die wichtigen
+
+76
+00:02:30,500 --> 00:02:32,300
+Sachen dabei erwähnen, was dabei
+
+77
+00:02:32,300 --> 00:02:33,400
+vielleicht bei einer gebrochenen
+
+78
+00:02:33,400 --> 00:02:34,960
+rationalen Funktion anders ist als
+
+79
+00:02:34,960 --> 00:02:36,400
+bei einer ganz rationalen Funktion.
+
+80
+00:02:38,480 --> 00:02:40,760
+Gut, dann fangen wir auch gleich mal
+
+81
+00:02:40,760 --> 00:02:42,340
+an und zwar der Definitionsbereich.
+
+82
+00:02:42,340 --> 00:02:43,800
+Der Definitionsbereich einer
+
+83
+00:02:43,800 --> 00:02:46,960
+gebrochen rationalen Funktion ist auf
+
+84
+00:02:46,960 --> 00:02:47,980
+jeden Fall immer dadurch
+
+85
+00:02:47,980 --> 00:02:49,720
+eingeschränkt, dass im Nenner keine
+
+86
+00:02:49,720 --> 00:02:53,160
+Null stehen darf. Denn wir wissen ja,
+
+87
+00:02:53,200 --> 00:02:54,540
+wir dürfen in der Mathematik nicht
+
+88
+00:02:54,540 --> 00:02:56,180
+durch eine Null teilen. Ein Bruch ist
+
+89
+00:02:56,180 --> 00:02:57,760
+eigentlich nichts als eine Division,
+
+90
+00:02:57,960 --> 00:03:01,960
+als Teilen. Wir teilen ja durch x²-1,
+
+91
+00:03:02,120 --> 00:03:05,100
+daher muss das Nenner-Polynom, wie es
+
+92
+00:03:05,100 --> 00:03:07,080
+auch genannt wird, oder der Nenner
+
+93
+00:03:07,080 --> 00:03:11,460
+-Term niemals Null sein. Das heißt,
+
+94
+00:03:11,600 --> 00:03:14,060
+wir berechnen als erstes jetzt unsere
+
+95
+00:03:14,060 --> 00:03:16,500
+x, die dazu führen würden, dass wir
+
+96
+00:03:16,500 --> 00:03:18,540
+im Nenner eine 0 stehen haben. Daher
+
+97
+00:03:18,540 --> 00:03:20,180
+setzen wir den Nenner mit dem Wert 0
+
+98
+00:03:20,180 --> 00:03:22,200
+gleich und lösen diese Gleichung. Wir
+
+99
+00:03:22,200 --> 00:03:24,480
+sehen, die Gleichung lautet dann x²-1
+
+100
+00:03:24,480 --> 00:03:26,720
+ist gleich 0. Es ist also eine rein
+
+101
+00:03:26,720 --> 00:03:28,080
+quadratische Gleichung, wofür wir
+
+102
+00:03:28,080 --> 00:03:29,640
+keinen höheren Lösungsverfahren
+
+103
+00:03:29,640 --> 00:03:31,700
+brauchen, auch keine pq-Formel. Wir
+
+104
+00:03:31,700 --> 00:03:33,160
+stellen es einfach um, dass das x
+
+105
+00:03:33,160 --> 00:03:34,500
+alleine steht und ziehen dann die
+
+106
+00:03:34,500 --> 00:03:36,260
+Wurzel. Also wir rechnen plus 1, dann
+
+107
+00:03:36,260 --> 00:03:37,620
+haben wir x² ist gleich 1.
+
+108
+00:03:38,480 --> 00:03:39,640
+Anschließend ziehen wir dann die
+
+109
+00:03:39,640 --> 00:03:42,260
+Wurzel und kommen auf x ist gleich
+
+110
+00:03:42,260 --> 00:03:45,720
+plus minus 1. Wir wissen also, der
+
+111
+00:03:45,720 --> 00:03:47,640
+Definitionsbereich schließt die x
+
+112
+00:03:47,640 --> 00:03:50,100
+-Werte 1 und minus 1 aus. Ja, das ist
+
+113
+00:03:50,100 --> 00:03:51,620
+hier vermerkt so. Der
+
+114
+00:03:51,620 --> 00:03:54,280
+Definitionsbereich umfasst alle
+
+115
+00:03:54,280 --> 00:03:56,700
+reellen Zahlen. Dieses Wechselsch
+
+116
+00:03:56,700 --> 00:04:00,880
+heißt außer 1 und minus 1. Und das
+
+117
+00:04:00,880 --> 00:04:03,320
+ist damit unser Definitionsbereich.
+
+118
+00:04:03,880 --> 00:04:05,520
+Diesen müssen wir im Folgenden auch
+
+119
+00:04:05,520 --> 00:04:08,600
+immer im Hinterkopf halten, weil man
+
+120
+00:04:08,600 --> 00:04:12,180
+oft Lösungen rausbekommen kann, die
+
+121
+00:04:12,180 --> 00:04:13,680
+dann durch den Definitionsbereich
+
+122
+00:04:13,680 --> 00:04:16,140
+ausgeschlossen sind. Das muss man an
+
+123
+00:04:16,140 --> 00:04:17,080
+der Entsteller natürlich auch
+
+124
+00:04:17,080 --> 00:04:17,460
+erwähnen.
+
+125
+00:04:20,260 --> 00:04:22,400
+Wir sehen jetzt hier noch eine etwas
+
+126
+00:04:22,400 --> 00:04:25,400
+kahle Folie. Das ist die Folie, auf
+
+127
+00:04:25,400 --> 00:04:26,120
+der wir immer unsere
+
+128
+00:04:26,120 --> 00:04:27,340
+Zwischenergebnisse sammeln werden.
+
+129
+00:04:27,560 --> 00:04:29,120
+Diese wird sich natürlich im Laufe
+
+130
+00:04:29,120 --> 00:04:32,820
+des Webinars füllen. Aktuell wissen
+
+131
+00:04:32,820 --> 00:04:34,060
+wir nur den Definitionsbereich.
+
+132
+00:04:34,200 --> 00:04:35,900
+umfasst alle realen Zahlen, außer die
+
+133
+00:04:35,900 --> 00:04:39,240
+1 und die minus 1. Als nächstes
+
+134
+00:04:39,240 --> 00:04:40,080
+machen wir mit den Nullstellen
+
+135
+00:04:40,080 --> 00:04:43,840
+weiter. Die notwendige Bedingung für
+
+136
+00:04:43,840 --> 00:04:45,080
+eine Nullstelle ist bei gebrochenen
+
+137
+00:04:45,080 --> 00:04:46,280
+rationalen Funktionen genau die
+
+138
+00:04:46,280 --> 00:04:48,540
+gleiche. Also dieser Funktionswert
+
+139
+00:04:48,540 --> 00:04:50,100
+soll 0 sein, beziehungsweise wir
+
+140
+00:04:50,100 --> 00:04:51,960
+setzen f von x mit 0 gleich.
+
+141
+00:04:55,320 --> 00:04:58,560
+Das Schöne daran ist, bei einer
+
+142
+00:04:58,560 --> 00:05:00,000
+gebrochenen rationalen Funktion oder
+
+143
+00:05:00,000 --> 00:05:02,360
+generell bei einem Bruch, Ein Bruch
+
+144
+00:05:02,360 --> 00:05:03,980
+nimmt dann immer den Wert 0 an, wenn
+
+145
+00:05:03,980 --> 00:05:06,940
+der Zähler 0 ist. Das heißt, wenn wir
+
+146
+00:05:06,940 --> 00:05:09,780
+f von x mit 0 gleichsetzen, gucken
+
+147
+00:05:09,780 --> 00:05:11,580
+wir einfach nur, wann das
+
+148
+00:05:11,580 --> 00:05:14,560
+Zählerpolynom, also der Term, der im
+
+149
+00:05:14,560 --> 00:05:16,640
+Zähler steht, eine Nullstelle hat.
+
+150
+00:05:16,780 --> 00:05:18,360
+Wir setzen also nur lediglich den
+
+151
+00:05:18,360 --> 00:05:20,360
+Zähler mit 0 gleich und dann sieht
+
+152
+00:05:20,360 --> 00:05:21,520
+die Gleichung auch viel einfacher
+
+153
+00:05:21,520 --> 00:05:25,100
+aus. Also x²-4 ist gleich 0 und das
+
+154
+00:05:25,100 --> 00:05:25,960
+ist auch wieder eine rein
+
+155
+00:05:25,960 --> 00:05:27,480
+quadratische Gleichung. Das heißt,
+
+156
+00:05:27,500 --> 00:05:29,820
+wir rechnen jetzt plus 4, steht da x²
+
+157
+00:05:29,820 --> 00:05:31,500
+ist gleich 4 und ziehen jetzt wieder
+
+158
+00:05:31,500 --> 00:05:34,340
+die Wurzel und kommen so auf plus
+
+159
+00:05:34,340 --> 00:05:36,640
+minus 2. Das heißt, unsere
+
+160
+00:05:36,640 --> 00:05:38,680
+Funktionsgleichung hat an den Stellen
+
+161
+00:05:38,680 --> 00:05:41,360
+plus und an der Stelle minus 2 eine
+
+162
+00:05:41,360 --> 00:05:43,640
+Nullstelle. Dort müssen wir jetzt
+
+163
+00:05:43,640 --> 00:05:44,960
+natürlich aufpassen, ob diese
+
+164
+00:05:44,960 --> 00:05:46,320
+Nullstellen nicht zufälligerweise
+
+165
+00:05:46,320 --> 00:05:47,360
+durch einen Definitionsbereich
+
+166
+00:05:47,360 --> 00:05:51,040
+ausgeschlossen werden. Sind es in dem
+
+167
+00:05:51,040 --> 00:05:52,360
+Fall nicht, es sind alles beide
+
+168
+00:05:52,360 --> 00:05:53,980
+Elemente unserer Definitionsmenge.
+
+169
+00:05:54,560 --> 00:05:57,180
+Das heißt, dass hier nur... Und damit
+
+170
+00:05:57,180 --> 00:05:59,460
+sind es auch tatsächlich Nullstellen.
+
+171
+00:06:02,150 --> 00:06:03,610
+Natürlich ist es nicht immer so
+
+172
+00:06:03,610 --> 00:06:06,290
+einfach, diese Gleichungen zu lösen.
+
+173
+00:06:06,370 --> 00:06:08,270
+Es können natürlich auch quadratische
+
+174
+00:06:08,270 --> 00:06:10,190
+Gleichungen im Zähler stehen oder
+
+175
+00:06:10,190 --> 00:06:12,270
+kubische oder ähnliche. Dann braucht
+
+176
+00:06:12,270 --> 00:06:13,970
+man natürlich Lösungsmittel wie
+
+177
+00:06:13,970 --> 00:06:14,950
+Polynom-Divisionen,
+
+178
+00:06:14,950 --> 00:06:16,510
+Mitternachtsformel oder PQ-Formel.
+
+179
+00:06:16,810 --> 00:06:17,990
+Das ist natürlich nicht
+
+180
+00:06:17,990 --> 00:06:19,330
+ausgeschlossen, das muss nicht immer
+
+181
+00:06:19,330 --> 00:06:21,130
+so einfach rein quadratisch sein.
+
+182
+00:06:23,970 --> 00:06:25,730
+Gut, wir sehen, wir haben jetzt hier
+
+183
+00:06:25,730 --> 00:06:26,610
+schon mal unsere beiden Nullstellen
+
+184
+00:06:26,610 --> 00:06:28,890
+noch hinzugefügt. Also, die
+
+185
+00:06:28,890 --> 00:06:30,230
+Nullstelle hatte immerhin die y
+
+186
+00:06:30,230 --> 00:06:31,910
+-Koordinate 0, daher wurde die jetzt
+
+187
+00:06:31,910 --> 00:06:33,790
+nicht mehr separat berechnet. Wir
+
+188
+00:06:33,790 --> 00:06:36,710
+haben also die Punkte 2,0 und minus 2
+
+189
+00:06:36,710 --> 00:06:37,950
+,0 als Nullstellen.
+
+190
+00:06:41,470 --> 00:06:43,150
+Kommen wir nun zu dem Schnittpunkt
+
+191
+00:06:43,150 --> 00:06:46,510
+mit der y-Achse. Im Gegensatz zur x
+
+192
+00:06:46,510 --> 00:06:47,970
+-Achse gibt es mit der y-Achse auf
+
+193
+00:06:47,970 --> 00:06:49,290
+jeden Fall nur einen Schnittpunkt.
+
+194
+00:06:49,290 --> 00:06:51,450
+und diesen schnittpunkt berechnet man
+
+195
+00:06:51,450 --> 00:06:53,790
+einfach in dem wir für das x den wert
+
+196
+00:06:53,790 --> 00:06:56,490
+0 einsetzen wir berechnen also f von
+
+197
+00:06:56,490 --> 00:06:59,810
+0 ja und das ist dann bei uns 0 hoch
+
+198
+00:06:59,810 --> 00:07:02,070
+2 minus 4 durch 0 hoch 2 minus 1 also
+
+199
+00:07:02,070 --> 00:07:03,710
+diesmal brauchen wir wirklich zähler
+
+200
+00:07:03,710 --> 00:07:06,050
+und nennner das können wir auch so
+
+201
+00:07:06,050 --> 00:07:07,570
+auch im taschenrechner eingeben denn
+
+202
+00:07:07,570 --> 00:07:08,750
+die 0 ist ja in unserer
+
+203
+00:07:08,750 --> 00:07:10,230
+definitionsmenge auch enthalten das
+
+204
+00:07:10,230 --> 00:07:12,230
+heißt das kann ja auch berechnen wir
+
+205
+00:07:12,230 --> 00:07:13,930
+erhalten dann minus 4 durch minus 1
+
+206
+00:07:13,930 --> 00:07:15,630
+beachtet bitte minus und minus fällt
+
+207
+00:07:15,630 --> 00:07:18,670
+raus und 4 durch 1 ist 4 das heißt
+
+208
+00:07:18,670 --> 00:07:20,950
+wir haben den schnittpunkt mit der y
+
+209
+00:07:20,950 --> 00:07:25,150
+-achse bei 04 und damit haben wir
+
+210
+00:07:25,150 --> 00:07:26,870
+jetzt auch die schnittpunkte mit den
+
+211
+00:07:26,870 --> 00:07:31,560
+koordinatenachsen bestimmt das tragen
+
+212
+00:07:31,560 --> 00:07:33,360
+wir auch wieder in folie ein und
+
+213
+00:07:33,360 --> 00:07:35,440
+denke man sieht recht gut die folie
+
+214
+00:07:35,440 --> 00:07:39,780
+fühlt sich allmählich kommen wir dann
+
+215
+00:07:39,780 --> 00:07:42,420
+jetzt den polstern und polstern sind
+
+216
+00:07:42,420 --> 00:07:45,460
+eine sache die ist bei nur bei
+
+217
+00:07:45,460 --> 00:07:46,920
+gebrochen rationalen funktionen die
+
+218
+00:07:46,920 --> 00:07:47,720
+Die kennen wir bei den ganz
+
+219
+00:07:47,720 --> 00:07:48,820
+rationalen Funktionen nicht.
+
+220
+00:07:49,180 --> 00:07:51,460
+Polstellen sind die Stellen, an denen
+
+221
+00:07:51,460 --> 00:07:53,660
+die Funktion nicht definiert ist.
+
+222
+00:07:53,780 --> 00:07:55,460
+Aber dabei ist ganz wichtig,
+
+223
+00:07:55,660 --> 00:07:57,920
+Polstellen haben zusätzlich dazu noch
+
+224
+00:07:57,920 --> 00:07:59,920
+die Eigenschaft, dass der
+
+225
+00:07:59,920 --> 00:08:01,420
+Funktionswert gegen unendlich
+
+226
+00:08:01,420 --> 00:08:03,020
+verläuft. Das heißt, damit der
+
+227
+00:08:03,020 --> 00:08:05,120
+Funktionswert gegen unendlich läuft,
+
+228
+00:08:05,680 --> 00:08:08,580
+muss sichergestellt sein, dass wir an
+
+229
+00:08:08,580 --> 00:08:10,600
+der Polstelle keine Nullstelle des
+
+230
+00:08:10,600 --> 00:08:12,720
+Zählers haben. Das heißt, wir müssen
+
+231
+00:08:12,720 --> 00:08:15,640
+einfach gucken, ob eine unserer
+
+232
+00:08:15,640 --> 00:08:19,440
+beiden... Nullstellen durch unseren
+
+233
+00:08:19,440 --> 00:08:21,320
+Definitionsbereich ausgegrenzt wird.
+
+234
+00:08:21,380 --> 00:08:23,840
+Wird in dem Fall nicht. Wir haben nur
+
+235
+00:08:23,840 --> 00:08:25,280
+die 1 und die minus 1 nicht
+
+236
+00:08:25,280 --> 00:08:26,780
+definiert. Unsere Nullstellen waren
+
+237
+00:08:26,780 --> 00:08:28,460
+bei der 2 bzw. bei der minus 2. Das
+
+238
+00:08:28,460 --> 00:08:29,280
+heißt, bei uns ist das schon mal
+
+239
+00:08:29,280 --> 00:08:31,000
+nicht der Fall. Wir haben also
+
+240
+00:08:31,000 --> 00:08:33,320
+wirklich eine Polstelle vorliegen.
+
+241
+00:08:34,800 --> 00:08:37,840
+Wenn das geklärt ist, dass wir
+
+242
+00:08:37,840 --> 00:08:39,660
+definitiv eine Polstelle vorliegen
+
+243
+00:08:39,660 --> 00:08:41,680
+haben, können wir diese Polstelle
+
+244
+00:08:41,680 --> 00:08:42,840
+natürlich auch noch näher
+
+245
+00:08:42,840 --> 00:08:46,000
+beschreiben. Das heißt, wir können
+
+246
+00:08:46,000 --> 00:08:47,920
+sagen, strebt der Graph gegen
+
+247
+00:08:47,920 --> 00:08:49,840
+unendlich oder gegen minus unendlich
+
+248
+00:08:49,840 --> 00:08:52,040
+und haben wir vielleicht einen
+
+249
+00:08:52,040 --> 00:08:55,160
+Wechsel noch da drin. Das macht man
+
+250
+00:08:55,160 --> 00:08:56,620
+dann als nächstes. Als erstes sollte
+
+251
+00:08:56,620 --> 00:08:58,020
+man aber wirklich sicherstellen, dass
+
+252
+00:08:58,020 --> 00:09:01,220
+es eine Polstelle ist. Also ganz
+
+253
+00:09:01,220 --> 00:09:03,900
+wichtig, ein Definitionslöcher kann
+
+254
+00:09:03,900 --> 00:09:05,720
+nur dann eine Polstelle sein, wenn
+
+255
+00:09:05,720 --> 00:09:07,400
+dieselbe Nullstelle des Nenners nicht
+
+256
+00:09:07,400 --> 00:09:09,300
+auch im Zähler vorkam. Das heißt
+
+257
+00:09:09,300 --> 00:09:11,700
+einfach, Nullstelle des Zählers muss
+
+258
+00:09:11,700 --> 00:09:13,200
+im Definitionsbereich liegen und
+
+259
+00:09:13,200 --> 00:09:16,240
+nicht durch den Definitionsbereich
+
+260
+00:09:16,240 --> 00:09:17,780
+ausgeschlossen werden. Wie gerade
+
+261
+00:09:17,780 --> 00:09:19,400
+schon gesagt, das ist bei uns der
+
+262
+00:09:19,400 --> 00:09:21,280
+Fall, daher machen wir jetzt weiter.
+
+263
+00:09:24,710 --> 00:09:26,410
+Gut, wie gerade schon gesagt,
+
+264
+00:09:26,450 --> 00:09:27,750
+interessieren wir uns dann jetzt
+
+265
+00:09:27,750 --> 00:09:32,290
+näher für diese Polstelle und genau
+
+266
+00:09:32,290 --> 00:09:34,010
+zu sagen, den Verlauf der Polstelle.
+
+267
+00:09:36,840 --> 00:09:39,160
+Um die Polstelle zu klassifizieren,
+
+268
+00:09:39,220 --> 00:09:41,420
+wir können ja nicht den Funktionswert
+
+269
+00:09:41,420 --> 00:09:42,200
+in der Polstelle berücksichtigen.
+
+270
+00:09:42,220 --> 00:09:44,300
+weil das ist ja eine Definitionslücke
+
+271
+00:09:44,300 --> 00:09:46,760
+auch. Das heißt, dort können wir
+
+272
+00:09:46,760 --> 00:09:47,980
+keinen Funktionswert berechnen.
+
+273
+00:09:48,320 --> 00:09:50,420
+Deswegen müssen wir uns der Polstelle
+
+274
+00:09:50,420 --> 00:09:53,740
+von links sowie von rechts annähern.
+
+275
+00:09:55,120 --> 00:09:56,920
+Wir nähern uns wirklich mittels des
+
+276
+00:09:56,920 --> 00:09:59,240
+Limes an. Das Ganze sieht dann so
+
+277
+00:09:59,240 --> 00:10:01,080
+aus. Wir hatten ja einmal die
+
+278
+00:10:01,080 --> 00:10:03,120
+Polstellen bei minus 1 und bei plus
+
+279
+00:10:03,120 --> 00:10:04,700
+1. Jetzt haben wir hier minus 1 plus
+
+280
+00:10:04,700 --> 00:10:08,640
+und minus 1 minus. Dieses Plus und
+
+281
+00:10:08,640 --> 00:10:11,120
+das Minus im Exponenten gibt an, dass
+
+282
+00:10:11,120 --> 00:10:13,380
+wir hier eine Zahl betrachten, bei
+
+283
+00:10:13,380 --> 00:10:15,240
+Plus, die ein bisschen größer ist als
+
+284
+00:10:15,240 --> 00:10:19,140
+die Minus 1 und bei Minus, dass wir
+
+285
+00:10:19,140 --> 00:10:20,320
+jetzt eine Zahl betrachten, die ein
+
+286
+00:10:20,320 --> 00:10:22,040
+bisschen kleiner ist als die Minus 1.
+
+287
+00:10:22,620 --> 00:10:24,500
+Das hilft uns einfach dabei, dass wir
+
+288
+00:10:24,500 --> 00:10:26,220
+nicht genau in unserer Polstille sind
+
+289
+00:10:26,220 --> 00:10:28,860
+und etwas berechnen können. Wir
+
+290
+00:10:28,860 --> 00:10:31,140
+nähern uns also von links für das
+
+291
+00:10:31,140 --> 00:10:33,780
+Minus und von rechts für das Plus der
+
+292
+00:10:33,780 --> 00:10:34,960
+Polstille an. Oder den
+
+293
+00:10:34,960 --> 00:10:39,360
+Definitionslöchern. Und wir müssen
+
+294
+00:10:39,360 --> 00:10:40,940
+jetzt diesen Ausdruck, den Limits von
+
+295
+00:10:40,940 --> 00:10:43,700
+x-Strip gegen minus 1 plus f von x
+
+296
+00:10:43,700 --> 00:10:44,600
+berechnen. Das heißt,
+
+297
+00:10:48,490 --> 00:10:50,730
+die Rechnung, die jetzt gleich folgt,
+
+298
+00:10:50,730 --> 00:10:52,170
+müssen wir natürlich viermal
+
+299
+00:10:52,170 --> 00:10:55,090
+ausführen. Also einmal noch für minus
+
+300
+00:10:55,090 --> 00:10:57,330
+1 minus, einmal für plus 1 plus und
+
+301
+00:10:57,330 --> 00:11:00,010
+einmal für plus 1 minus. Also
+
+302
+00:11:00,010 --> 00:11:01,670
+insgesamt viermal. Wir machen es aber
+
+303
+00:11:01,670 --> 00:11:03,870
+nur einmal. Die Rechnung bleibt die
+
+304
+00:11:03,870 --> 00:11:09,030
+gleiche. Um die Polstelle näher
+
+305
+00:11:09,030 --> 00:11:10,650
+klassifizieren zu können, müssen wir
+
+306
+00:11:10,650 --> 00:11:13,550
+als erstes hingehen und Zähler sowie
+
+307
+00:11:13,550 --> 00:11:16,850
+Nenner faktorisieren. Wir sehen, wir
+
+308
+00:11:16,850 --> 00:11:18,250
+haben in diesem Fall die dritte
+
+309
+00:11:18,250 --> 00:11:20,870
+binomische Formel angezogen. x²-4
+
+310
+00:11:20,870 --> 00:11:23,290
+kann man schreiben als x-2 mal x±2
+
+311
+00:11:23,290 --> 00:11:27,790
+bzw. x-1 mal x±1. Wenn man die
+
+312
+00:11:27,790 --> 00:11:29,670
+Polstellen berechnet, muss man ja
+
+313
+00:11:29,670 --> 00:11:32,410
+sowieso schon die Nullstellen vom
+
+314
+00:11:32,410 --> 00:11:34,970
+Zähler und Nenner kennen und dann
+
+315
+00:11:34,970 --> 00:11:35,770
+kann man es auch gleich in
+
+316
+00:11:35,770 --> 00:11:39,690
+faktorisierter Form hinschreiben. Das
+
+317
+00:11:39,690 --> 00:11:40,270
+haben wir jetzt hier schon mal
+
+318
+00:11:40,270 --> 00:11:41,530
+gemacht. Das, was hier steht, ist
+
+319
+00:11:41,530 --> 00:11:43,710
+natürlich für alle vier Fälle gleich.
+
+320
+00:11:45,110 --> 00:11:46,590
+Man muss jetzt gleich nur noch dieses
+
+321
+00:11:46,590 --> 00:11:49,910
+x-Streb gegen minus 1 plus eintragen,
+
+322
+00:11:49,950 --> 00:11:51,410
+beziehungsweise für die anderen Fälle
+
+323
+00:11:51,410 --> 00:11:52,250
+natürlich die anderen Fälle
+
+324
+00:11:52,250 --> 00:11:54,790
+eintragen. Und wir haben das jetzt
+
+325
+00:11:54,790 --> 00:11:56,870
+hier mal gemacht. Also überall, wo
+
+326
+00:11:56,870 --> 00:11:58,590
+jetzt hier ein x steht, tragen wir
+
+327
+00:11:58,590 --> 00:12:01,530
+eine minus 1 plus ein. So erhalten
+
+328
+00:12:01,530 --> 00:12:03,810
+wir im Zähler minus 1 plus minus 2
+
+329
+00:12:03,810 --> 00:12:07,230
+mal minus 1 plus plus 2. Im Nenner
+
+330
+00:12:07,230 --> 00:12:10,450
+minus 1 plus minus 1 und minus 1 plus
+
+331
+00:12:10,450 --> 00:12:13,950
+plus 1. Uns interessiert am Ende
+
+332
+00:12:13,950 --> 00:12:15,150
+eigentlich nur das Fortzeichnen, was
+
+333
+00:12:15,150 --> 00:12:17,550
+dabei entsteht. Darauf kommt es an.
+
+334
+00:12:18,270 --> 00:12:20,690
+Deswegen ist immer ganz wichtig, plus
+
+335
+00:12:20,690 --> 00:12:22,810
+mal minus ergibt minus und minus mal
+
+336
+00:12:22,810 --> 00:12:26,950
+minus ergibt plus. Wir rechnen die
+
+337
+00:12:26,950 --> 00:12:28,270
+Klammern erstmal so weit aus wie wir
+
+338
+00:12:28,270 --> 00:12:30,950
+können. Dieses Plus oder Minus ist
+
+339
+00:12:30,950 --> 00:12:32,770
+nur dann interessant, wenn wir dann
+
+340
+00:12:32,770 --> 00:12:34,550
+ein Null stehen haben. Das heißt, wir
+
+341
+00:12:34,550 --> 00:12:36,430
+haben jetzt hier Minus 1 Plus Minus
+
+342
+00:12:36,430 --> 00:12:42,210
+2. Das sind zusammen Minus 3. Dann
+
+343
+00:12:42,210 --> 00:12:44,430
+haben wir hier Minus 1 Plus Plus 2.
+
+344
+00:12:44,690 --> 00:12:46,650
+Das ist einfach eine 1. Minus 1 Plus
+
+345
+00:12:46,650 --> 00:12:49,350
+2 ist 1. Es wird wie gesagt nur dann
+
+346
+00:12:49,350 --> 00:12:50,650
+interessant, wenn eine Null entsteht.
+
+347
+00:12:51,010 --> 00:12:53,110
+Minus 1 Plus Minus 1 ist eine Minus
+
+348
+00:12:53,110 --> 00:12:54,810
+2. Und jetzt kommen wir zu dem Fall
+
+349
+00:12:54,810 --> 00:12:58,250
+minus 1 plus plus 1. Minus 1 plus 1
+
+350
+00:12:58,250 --> 00:13:00,650
+wäre theoretisch 0. Und jetzt wird es
+
+351
+00:13:00,650 --> 00:13:04,470
+wichtig. Minus 1 plus plus 1. Dieses
+
+352
+00:13:04,470 --> 00:13:06,350
+minus 1 plus sagt ja aus, dass es
+
+353
+00:13:06,350 --> 00:13:08,090
+eine Zahl ist, die ein ganz klein
+
+354
+00:13:08,090 --> 00:13:13,330
+bisschen größer ist als die minus 1.
+
+355
+00:13:13,450 --> 00:13:15,470
+Also beispielsweise die minus 0,99.
+
+356
+00:13:17,760 --> 00:13:18,880
+Und diese Zahl ist
+
+357
+00:13:22,980 --> 00:13:25,860
+minus 0,01. Das heißt, es ist eine
+
+358
+00:13:25,860 --> 00:13:27,580
+positive Zahl und darauf kommt es nur
+
+359
+00:13:27,580 --> 00:13:30,040
+an. Es ist eine positive Zahl und
+
+360
+00:13:30,040 --> 00:13:33,520
+deswegen steht jetzt hier 0 plus. Und
+
+361
+00:13:33,520 --> 00:13:35,280
+jetzt sind wir auch schon fast am
+
+362
+00:13:35,280 --> 00:13:39,320
+Ziel. Minus 3 mal 1 ist minus 3.
+
+363
+00:13:40,300 --> 00:13:44,580
+Minus 2 mal 0 plus, also minus, weil
+
+364
+00:13:44,580 --> 00:13:47,140
+plus ist minus, also 0 minus. Und
+
+365
+00:13:47,140 --> 00:13:49,160
+darauf kommt es nur an. Denn wir
+
+366
+00:13:49,160 --> 00:13:52,160
+haben jetzt minus durch minus, das
+
+367
+00:13:52,160 --> 00:13:53,660
+ist schon mal ein Plus, und 3 durch
+
+368
+00:13:53,660 --> 00:13:55,000
+0, das strebt also gegen unendlich.
+
+369
+00:13:55,280 --> 00:13:56,920
+Das heißt, wir wissen also, wenn
+
+370
+00:13:56,920 --> 00:13:58,720
+wir... uns von rechts der polstelle
+
+371
+00:13:58,720 --> 00:14:01,160
+annähern geht der funktionswert gegen
+
+372
+00:14:01,160 --> 00:14:04,280
+unendlich und das ist jetzt wie
+
+373
+00:14:04,280 --> 00:14:06,320
+gesagt etwas was wir auch gleich zum
+
+374
+00:14:06,320 --> 00:14:08,280
+ende des webinars in unserer skizze
+
+375
+00:14:08,280 --> 00:14:10,000
+wiederfinden werden gut
+
+376
+00:14:12,340 --> 00:14:14,580
+wie gesagt das war jetzt nur hierfür
+
+377
+00:14:14,580 --> 00:14:16,060
+gemacht genau die gleich die rechnung
+
+378
+00:14:16,060 --> 00:14:17,140
+müssten wir jetzt auch noch für die
+
+379
+00:14:17,140 --> 00:14:19,120
+drei anderen machen die verläuft nach
+
+380
+00:14:19,120 --> 00:14:21,040
+genau dem gleichen prinzip und die
+
+381
+00:14:21,040 --> 00:14:22,680
+einmal faktorisierte form kann
+
+382
+00:14:22,680 --> 00:14:24,140
+natürlich auch dafür benutzt werden
+
+383
+00:14:24,140 --> 00:14:28,110
+als nächstes wird jetzt einmal mal
+
+384
+00:14:28,110 --> 00:14:29,390
+ein kleines negativ beispiel
+
+385
+00:14:29,390 --> 00:14:30,870
+geliefert und zwar
+
+386
+00:14:34,610 --> 00:14:37,810
+diese funktions gleichung hat an den
+
+387
+00:14:37,810 --> 00:14:41,130
+gleichen stellen also hat keine
+
+388
+00:14:41,130 --> 00:14:43,430
+polstern sondern definitionslücken
+
+389
+00:14:43,430 --> 00:14:47,190
+nur denn zähler und nenner haben an
+
+390
+00:14:47,190 --> 00:14:48,670
+der gleichen stelle ihre nullstelle
+
+391
+00:14:48,670 --> 00:14:53,750
+ja und wir wollen jetzt einmal das
+
+392
+00:14:53,750 --> 00:14:55,630
+beispiel zeigen dass wenn dies der
+
+393
+00:14:55,630 --> 00:14:57,410
+fall ist also zähler und nenner haben
+
+394
+00:14:57,410 --> 00:14:58,190
+an der gleichen stelle ihre
+
+395
+00:14:58,190 --> 00:14:59,310
+nullstelle wie die Rechnung dafür
+
+396
+00:14:59,310 --> 00:15:00,690
+dann aussieht. Das sieht man
+
+397
+00:15:00,690 --> 00:15:02,010
+natürlich einerseits schon, wenn man
+
+398
+00:15:02,010 --> 00:15:03,310
+die Nullstellen der Funktion
+
+399
+00:15:03,310 --> 00:15:04,950
+berechnet und die Definitionslücken,
+
+400
+00:15:04,970 --> 00:15:06,190
+dann stellt man fest, die Nullstelle
+
+401
+00:15:06,190 --> 00:15:10,410
+ist in einer Definitionslücke. Dann
+
+402
+00:15:10,410 --> 00:15:11,710
+sieht man es schon und wenn man das
+
+403
+00:15:11,710 --> 00:15:14,030
+auch faktorisiert darstellt, was man
+
+404
+00:15:14,030 --> 00:15:15,750
+ja muss, wenn man Polstellen
+
+405
+00:15:15,750 --> 00:15:18,570
+untersucht, sieht man es auch, denn
+
+406
+00:15:18,570 --> 00:15:19,530
+dann kann man auf einmal was
+
+407
+00:15:19,530 --> 00:15:22,010
+rauskürzen. Ihr seht hier die x plus
+
+408
+00:15:22,010 --> 00:15:25,470
+1 und x plus 1. Das heißt, Zähler
+
+409
+00:15:25,470 --> 00:15:26,970
+sowie Nenner haben anscheinend eine
+
+410
+00:15:26,970 --> 00:15:30,630
+Nullstelle bei x minus 1. Und das
+
+411
+00:15:30,630 --> 00:15:31,590
+zeigt sich hier, dass hier die
+
+412
+00:15:31,590 --> 00:15:33,190
+gleichen Terme entstehen, die wir
+
+413
+00:15:33,190 --> 00:15:36,430
+dann rauskürzen können. Also immer
+
+414
+00:15:36,430 --> 00:15:38,230
+wenn ihr sowas habt, dass ihr in der
+
+415
+00:15:38,230 --> 00:15:40,250
+faktorisierten Form seht, dass ihr
+
+416
+00:15:40,250 --> 00:15:43,310
+was rauskürzen könnt, dann hat die
+
+417
+00:15:43,310 --> 00:15:44,890
+Zählerfunktion und die Nennerfunktion
+
+418
+00:15:44,890 --> 00:15:45,890
+an der gleichen Stelle eine
+
+419
+00:15:45,890 --> 00:15:48,850
+Nullstelle. Deswegen kürzt man das
+
+420
+00:15:48,850 --> 00:15:52,350
+dann auch raus und dann rechnet man
+
+421
+00:15:52,350 --> 00:15:53,610
+das Ganze nochmal weiter. Also x
+
+422
+00:15:53,610 --> 00:15:55,650
+minus 2 durch x minus 1. Wir
+
+423
+00:15:55,650 --> 00:15:57,590
+betrachten die Stelle minus 1 plus.
+
+424
+00:15:58,310 --> 00:16:00,490
+Das heißt wir haben dann minus 1 plus
+
+425
+00:16:00,490 --> 00:16:02,550
+minus 2 und minus 1 plus minus 1.
+
+426
+00:16:02,850 --> 00:16:05,570
+Minus 1 minus 2 sind minus 3. Minus 1
+
+427
+00:16:05,570 --> 00:16:07,650
+minus 1 sind minus 2. Und jetzt steht
+
+428
+00:16:07,650 --> 00:16:09,930
+hier minus 3 durch minus 2. Also
+
+429
+00:16:09,930 --> 00:16:11,310
+minus durch minus ist schon mal plus.
+
+430
+00:16:11,510 --> 00:16:13,410
+Und 3 geteilt durch 2 ist dann die 1
+
+431
+00:16:13,410 --> 00:16:16,410
+,5. Und hier sieht man, dass es jetzt
+
+432
+00:16:16,410 --> 00:16:17,650
+genau der Fall ist, dass es nicht
+
+433
+00:16:17,650 --> 00:16:19,070
+gegen Plus oder Minus unendlich
+
+434
+00:16:19,070 --> 00:16:20,790
+verläuft, also gegen unendlich, was
+
+435
+00:16:20,790 --> 00:16:22,510
+ja Kriterium einer Polstelle ist,
+
+436
+00:16:22,630 --> 00:16:26,070
+sondern sich einem Wert annähert. Und
+
+437
+00:16:26,070 --> 00:16:27,430
+das ist dann halt nur eine
+
+438
+00:16:27,430 --> 00:16:28,430
+Definitionslücke.
+
+439
+00:16:32,740 --> 00:16:34,960
+Gut, kommen wir damit auch schon zum
+
+440
+00:16:34,960 --> 00:16:37,540
+Verhalten im Unendlichen. Das
+
+441
+00:16:37,540 --> 00:16:39,640
+Verhalten im Unendlichen wird bei
+
+442
+00:16:39,640 --> 00:16:43,480
+gebrochen rationalen Funktionen doch
+
+443
+00:16:43,480 --> 00:16:44,900
+wesentlich anders berechnet als man
+
+444
+00:16:44,900 --> 00:16:46,380
+es von ganzrationalen Funktionen
+
+445
+00:16:46,380 --> 00:16:49,440
+kennt. Die gute Nachricht ist, die
+
+446
+00:16:49,440 --> 00:16:54,120
+Kriterien bzw. der Ansatz für die
+
+447
+00:16:54,120 --> 00:16:55,800
+Achsen und die Punktsymmetrie ist der
+
+448
+00:16:55,800 --> 00:16:57,120
+gleiche, wie wir es von
+
+449
+00:16:57,120 --> 00:16:59,620
+ganzrationalen Funktionen kennen. Zu
+
+450
+00:17:05,160 --> 00:17:07,540
+bestimmen müssen wir als erstes etwas
+
+451
+00:17:07,540 --> 00:17:11,540
+umwandeln. Gut, und zwar wir müssen
+
+452
+00:17:11,540 --> 00:17:13,400
+die höchste Potenz des Nenners und
+
+453
+00:17:13,400 --> 00:17:15,800
+des Zählers ausklammern. Das müssen
+
+454
+00:17:15,800 --> 00:17:17,700
+wir wirklich machen, sonst können wir
+
+455
+00:17:17,700 --> 00:17:19,420
+das Verhalten im Endlichen nicht
+
+456
+00:17:19,420 --> 00:17:23,560
+bestimmen. Wir haben auch hier wieder
+
+457
+00:17:23,560 --> 00:17:25,200
+unsere Funktionsgleichung von vorhin,
+
+458
+00:17:25,220 --> 00:17:26,760
+also das ist die wir auch zu Anfang
+
+459
+00:17:26,760 --> 00:17:28,040
+genommen haben, an der wir unsere
+
+460
+00:17:28,040 --> 00:17:30,560
+Kurvendiskussion durchführen und die
+
+461
+00:17:30,560 --> 00:17:32,260
+wird jetzt auch nur noch im Laufe des
+
+462
+00:17:32,260 --> 00:17:33,780
+Webinars verwendet. Das war gerade
+
+463
+00:17:33,780 --> 00:17:36,760
+nur einmal ein Beispiel dazu, wie es
+
+464
+00:17:36,760 --> 00:17:38,260
+aussieht, wenn man keine Polstelle
+
+465
+00:17:38,260 --> 00:17:41,920
+hat. Also wir haben wieder x²-4 durch
+
+466
+00:17:41,920 --> 00:17:44,900
+x²-1 und hiervon wollen wir jetzt das
+
+467
+00:17:44,900 --> 00:17:46,560
+Globalverhalten, also das Verhalten
+
+468
+00:17:46,560 --> 00:17:48,600
+im Endlichen bestimmen. Als erstes
+
+469
+00:17:48,600 --> 00:17:51,880
+klammern wir den höchsten Faktor des
+
+470
+00:17:51,880 --> 00:17:54,720
+Zählers und des Nenners aus. Dafür
+
+471
+00:17:54,720 --> 00:17:55,800
+ist natürlich wichtig, dass es
+
+472
+00:17:55,800 --> 00:17:56,800
+funktioniert, dass wir die
+
+473
+00:17:56,800 --> 00:17:58,400
+Funktionsgleichung nicht mehr in
+
+474
+00:17:58,400 --> 00:17:59,860
+faktorisierter Form vorliegen haben
+
+475
+00:17:59,860 --> 00:18:02,220
+dürfen. Wir müssen es wirklich so in
+
+476
+00:18:02,220 --> 00:18:03,820
+dieser allgemeinen Form vorliegen
+
+477
+00:18:03,820 --> 00:18:06,200
+haben. Die faktorisierte Form wird
+
+478
+00:18:06,200 --> 00:18:08,020
+lediglich gut.
+
+479
+00:18:14,000 --> 00:18:16,220
+Ich denke, wir sehen alle, der größte
+
+480
+00:18:16,220 --> 00:18:18,660
+Exponent im Zähler ist x² und der
+
+481
+00:18:18,660 --> 00:18:20,120
+größte Exponent im Nenner ist auch
+
+482
+00:18:20,120 --> 00:18:24,440
+x². Dieses x² wollen wir ausklammern.
+
+483
+00:18:25,240 --> 00:18:27,060
+Um das zu machen, rechnen wir einfach
+
+484
+00:18:27,060 --> 00:18:29,740
+x² mal Klammer auf. Und alles, was
+
+485
+00:18:29,740 --> 00:18:31,020
+hier drin steht, erhaltet ihr
+
+486
+00:18:31,020 --> 00:18:33,780
+dadurch, indem ihr das hier durch x²
+
+487
+00:18:33,780 --> 00:18:38,020
+teilt. x² durch x² ist die 1. Minus 4
+
+488
+00:18:38,020 --> 00:18:41,260
+durch x² ist minus 4 durch x². Genau
+
+489
+00:18:41,260 --> 00:18:42,940
+das gleiche macht ihr auch im Nenner.
+
+490
+00:18:43,280 --> 00:18:45,620
+Im Nenner ist auch bei uns jetzt der
+
+491
+00:18:45,620 --> 00:18:48,240
+größte Exponent x². Deswegen klammern
+
+492
+00:18:48,240 --> 00:18:51,020
+wir das auch wieder aus. Klammer
+
+493
+00:18:51,020 --> 00:18:53,120
+steht, erhalten wir dadurch, indem
+
+494
+00:18:53,120 --> 00:18:55,940
+wir das hier durch x² teilen. x²
+
+495
+00:18:55,940 --> 00:18:57,320
+durch x² ist ja auch wieder eine 1
+
+496
+00:18:57,320 --> 00:18:59,600
+und minus 1 durch x² ist auch wieder
+
+497
+00:18:59,600 --> 00:19:06,120
+minus 1 durch x². Jetzt sind wir an
+
+498
+00:19:06,120 --> 00:19:09,560
+dem Punkt angekommen, wo wir unser x
+
+499
+00:19:09,560 --> 00:19:11,920
+gegen unendlich bzw. minus unendlich
+
+500
+00:19:11,920 --> 00:19:14,520
+laufen lassen können. Wichtig ist
+
+501
+00:19:14,520 --> 00:19:18,220
+hierbei, dass unser x steht hier im
+
+502
+00:19:18,220 --> 00:19:22,300
+Nenner. haben ja im zähler sowie im
+
+503
+00:19:22,300 --> 00:19:24,980
+nenner noch ein bruch und so erhalten
+
+504
+00:19:24,980 --> 00:19:27,000
+wir hier plus minus unendlich zum
+
+505
+00:19:27,000 --> 00:19:28,780
+quadrat und hier unten auch plus
+
+506
+00:19:28,780 --> 00:19:30,760
+minus endlich zum quadrat aber es ist
+
+507
+00:19:30,760 --> 00:19:32,920
+beides mal im nenner und dabei ist es
+
+508
+00:19:32,920 --> 00:19:36,440
+ganz wichtig dass 1 durch unendlich
+
+509
+00:19:36,440 --> 00:19:39,500
+zum quadrat gegen null strebt wir
+
+510
+00:19:39,500 --> 00:19:41,700
+teilen nämlich die 1 durch eine ganz
+
+511
+00:19:41,700 --> 00:19:44,920
+große zahl und immer wenn ihr eine
+
+512
+00:19:44,920 --> 00:19:46,380
+kleine zahl durch eine ganz große
+
+513
+00:19:46,380 --> 00:19:48,420
+teilt erhaltet er eine kleine Zahl.
+
+514
+00:19:50,160 --> 00:19:53,440
+In dem Fall 1 durch unendlich ist 0.
+
+515
+00:19:55,140 --> 00:19:57,280
+Genauso hier 4 durch unendlich. Das
+
+516
+00:19:57,280 --> 00:20:00,620
+ist 0. Jetzt haben wir es auch noch,
+
+517
+00:20:00,700 --> 00:20:03,760
+dass wir die Zahl unendlich
+
+518
+00:20:03,760 --> 00:20:04,680
+quadrieren. Es ist auch noch
+
+519
+00:20:04,680 --> 00:20:06,620
+unwichtig, ob wir Plus oder Minus
+
+520
+00:20:06,620 --> 00:20:09,660
+haben. Und dann kommt auch noch eine
+
+521
+00:20:09,660 --> 00:20:11,280
+0 raus. Daher ist es auch unwichtig,
+
+522
+00:20:11,320 --> 00:20:14,040
+ob wir Plus 0 oder Minus 0 haben. Es
+
+523
+00:20:14,040 --> 00:20:17,780
+ist einfach 1 minus 0 durch 1. Also 1
+
+524
+00:20:17,780 --> 00:20:23,260
+durch 1, das ist 1. Wir wissen also,
+
+525
+00:20:23,400 --> 00:20:26,860
+dass die Funktion für x-Stript gegen
+
+526
+00:20:26,860 --> 00:20:28,460
+plus-und endlich oder x-Stript gegen
+
+527
+00:20:28,460 --> 00:20:31,120
+minus-und endlich beide Male gegen 1
+
+528
+00:20:31,120 --> 00:20:36,020
+strebt. Das wissen wir nun. Und das
+
+529
+00:20:36,020 --> 00:20:37,260
+werden wir auch später am Graphen
+
+530
+00:20:37,260 --> 00:20:38,200
+nochmal erkennen können.
+
+531
+00:20:40,930 --> 00:20:43,050
+Es sind natürlich noch andere Zahlen
+
+532
+00:20:43,050 --> 00:20:45,430
+denkbar. Also es kann auch genauso
+
+533
+00:20:45,430 --> 00:20:46,970
+gut eine 0 werden oder eine andere.
+
+534
+00:20:47,170 --> 00:20:48,450
+beliebige Zahl, also eine 5, eine 6
+
+535
+00:20:48,450 --> 00:20:50,390
+oder plusunendlich oder
+
+536
+00:20:50,390 --> 00:20:53,770
+minusunendlich. Was dabei auch zu
+
+537
+00:20:53,770 --> 00:20:55,550
+sagen ist, wenn der Zähler genau eine
+
+538
+00:20:55,550 --> 00:20:57,850
+Prozent größer ist, also
+
+539
+00:20:57,850 --> 00:20:59,070
+beispielsweise wir hätten hier keinen
+
+540
+00:20:59,070 --> 00:21:02,010
+x², sondern x³ gehabt, dann hätten
+
+541
+00:21:02,010 --> 00:21:04,230
+wir ja, wenn wir beides rausgekürzt
+
+542
+00:21:04,230 --> 00:21:07,250
+hätten, ein x übrig gehalten. Dann
+
+543
+00:21:07,250 --> 00:21:08,470
+würde das nämlich heißen, dass wir
+
+544
+00:21:08,470 --> 00:21:13,590
+eine schräge Asymptote haben. Das ist
+
+545
+00:21:13,590 --> 00:21:14,350
+dann auf jeden Fall noch
+
+546
+00:21:14,350 --> 00:21:15,090
+erwähnenswert.
+
+547
+00:21:18,400 --> 00:21:19,680
+Gut, kommen wir zum
+
+548
+00:21:19,680 --> 00:21:20,880
+Symmetrieverhalten.
+
+549
+00:21:23,320 --> 00:21:25,420
+Wie vorhin schon mal gesagt, gibt es
+
+550
+00:21:25,420 --> 00:21:26,980
+auch bei gebrochen rationalen
+
+551
+00:21:26,980 --> 00:21:28,660
+Funktionen lediglich zwei einfache
+
+552
+00:21:28,660 --> 00:21:30,340
+Arten von Symmetrien. Das ist die
+
+553
+00:21:30,340 --> 00:21:31,260
+Achsensymmetrie und die
+
+554
+00:21:31,260 --> 00:21:32,520
+Punktsymmetrie. Das sind also genau
+
+555
+00:21:32,520 --> 00:21:34,040
+die beiden gleichen Symmetrien, wie
+
+556
+00:21:34,040 --> 00:21:35,840
+wir sie von ganz rationalen
+
+557
+00:21:35,840 --> 00:21:37,320
+Funktionen kennen. Und die
+
+558
+00:21:37,320 --> 00:21:39,120
+Bedingungen dafür sind auch die
+
+559
+00:21:39,120 --> 00:21:40,620
+gleichen. Für die Achsensymmetrie
+
+560
+00:21:40,620 --> 00:21:42,380
+haben wir f von minus x ist gleich f
+
+561
+00:21:42,380 --> 00:21:44,420
+von x. Das bedeutet, es ist
+
+562
+00:21:44,420 --> 00:21:45,920
+eigentlich unwichtig, ob ihr eure
+
+563
+00:21:45,920 --> 00:21:47,600
+Variable positiv oder negativ
+
+564
+00:21:47,600 --> 00:21:49,040
+eintragt. Es kommt beides mal das
+
+565
+00:21:49,040 --> 00:21:51,300
+gleiche raus. Die Punkt-Symmetrie
+
+566
+00:21:51,300 --> 00:21:53,920
+lautet, bzw. die Bedingung für die
+
+567
+00:21:53,920 --> 00:21:55,720
+Punkt-Symmetrie lautet f von minus x
+
+568
+00:21:55,720 --> 00:21:57,420
+ist gleich minus f von x. Das heißt,
+
+569
+00:21:57,560 --> 00:21:59,200
+wenn ihr eure Variable
+
+570
+00:21:59,200 --> 00:22:00,800
+vorzeichenverkehrt eingebt, bekommt
+
+571
+00:22:00,800 --> 00:22:01,680
+ihr auch euer Ergebnis
+
+572
+00:22:01,680 --> 00:22:05,540
+vorzeichenverkehrt raus. aus. Und wie
+
+573
+00:22:05,540 --> 00:22:07,620
+wir es von ganz rationalen Funktionen
+
+574
+00:22:07,620 --> 00:22:09,580
+kennen, prüfen wir das jetzt erstmal,
+
+575
+00:22:09,760 --> 00:22:10,840
+nur dass wir jetzt natürlich eine
+
+576
+00:22:10,840 --> 00:22:12,260
+gebrochenrationale Funktion haben.
+
+577
+00:22:13,180 --> 00:22:16,380
+Das heißt, wir setzen einfach einmal
+
+578
+00:22:16,380 --> 00:22:20,420
+für unser x ein minus x ein, dann
+
+579
+00:22:20,420 --> 00:22:22,420
+kommen wir auf minus x hoch 2 minus 4
+
+580
+00:22:22,420 --> 00:22:25,000
+durch minus x hoch 2 minus 1. Jetzt
+
+581
+00:22:25,000 --> 00:22:26,140
+ist ganz wichtig, wir haben beides
+
+582
+00:22:26,140 --> 00:22:27,620
+mal eine gerade Potenz, deswegen
+
+583
+00:22:27,620 --> 00:22:29,120
+Deswegen fällt unser Vorzeichen weg.
+
+584
+00:22:29,360 --> 00:22:32,560
+Also aus minus x² wird x² beide Male.
+
+585
+00:22:32,860 --> 00:22:34,700
+Und wir sehen, das was wir hier
+
+586
+00:22:34,700 --> 00:22:36,880
+erhalten, x² minus 4 durch x² minus
+
+587
+00:22:36,880 --> 00:22:38,900
+1, das ist wieder unsere
+
+588
+00:22:38,900 --> 00:22:40,720
+Ausgangsfunktion f von x. Es gilt
+
+589
+00:22:40,720 --> 00:22:45,660
+also f von minus x ist gleich f von
+
+590
+00:22:45,660 --> 00:22:46,940
+x. Ich gehe mal kurz eine Seite
+
+591
+00:22:46,940 --> 00:22:49,120
+zurück. Das ist das Kriterium für die
+
+592
+00:22:49,120 --> 00:22:51,300
+Achsensymmetrie. Folglich ist unsere
+
+593
+00:22:51,300 --> 00:22:53,340
+Funktion achsensymmetrisch zur y
+
+594
+00:22:53,340 --> 00:22:56,940
+-Achse. Und damit ist das
+
+595
+00:22:56,940 --> 00:22:58,020
+Symmetrieverhalten auch schon
+
+596
+00:22:58,020 --> 00:22:58,440
+geklärt.
+
+597
+00:23:01,240 --> 00:23:03,720
+Kommen wir nun zu Extremwerten bzw.
+
+598
+00:23:04,060 --> 00:23:07,040
+Extremstellen. Dazu brauchen wir als
+
+599
+00:23:07,040 --> 00:23:09,400
+erstes die erste Ableitung und diese
+
+600
+00:23:09,400 --> 00:23:11,280
+ist etwas schwieriger zu berechnen
+
+601
+00:23:11,280 --> 00:23:12,780
+bei gebrochen rationalen Funktionen.
+
+602
+00:23:12,780 --> 00:23:14,420
+Bei gebrochen rationalen Funktionen
+
+603
+00:23:14,420 --> 00:23:16,060
+braucht man zum Ableiten immer die
+
+604
+00:23:16,060 --> 00:23:18,600
+Quotientenregel. Das ist ganz
+
+605
+00:23:18,600 --> 00:23:22,540
+wichtig. Die Quotientenregel lautet
+
+606
+00:23:25,860 --> 00:23:28,660
+nenner mal ableitung des zählers
+
+607
+00:23:28,660 --> 00:23:34,240
+minus zähler mal ableitung des nenner
+
+608
+00:23:34,240 --> 00:23:38,380
+ja und das ganze geteilt durch den
+
+609
+00:23:38,380 --> 00:23:40,580
+nennen zum quadrat das ist wie gesagt
+
+610
+00:23:40,580 --> 00:23:42,780
+die quotientenregel es wird bei
+
+611
+00:23:42,780 --> 00:23:44,220
+gebrochen als eine funktion der immer
+
+612
+00:23:44,220 --> 00:23:45,380
+unterschieden zwischen einem zähler
+
+613
+00:23:45,380 --> 00:23:47,100
+und einem nennen polynom und das
+
+614
+00:23:47,100 --> 00:23:48,480
+dürfte natürlich auch nicht
+
+615
+00:23:48,480 --> 00:23:49,940
+vertauschen gerade bei der ableitung
+
+616
+00:23:49,940 --> 00:23:52,700
+nicht Wir kommen bei uns dann auf
+
+617
+00:23:52,700 --> 00:23:55,520
+eine Ableitung von 6x durch x² minus
+
+618
+00:23:55,520 --> 00:23:57,380
+1 hoch 2. Ihr solltet das hier unten
+
+619
+00:23:57,380 --> 00:24:00,300
+nach Möglichkeit auch immer so stehen
+
+620
+00:24:00,300 --> 00:24:02,060
+lassen mit der Klammer hoch 2, also
+
+621
+00:24:02,060 --> 00:24:04,820
+als Binom. Das ist nämlich immer ein
+
+622
+00:24:04,820 --> 00:24:05,860
+bisschen einfacher zu rechnen. Also
+
+623
+00:24:05,860 --> 00:24:06,920
+wenn ihr das jetzt ausklammern
+
+624
+00:24:06,920 --> 00:24:08,780
+würdet, macht ihr euch das Leben im
+
+625
+00:24:08,780 --> 00:24:10,160
+Endeffekt nur schwerer. Deswegen
+
+626
+00:24:10,160 --> 00:24:13,440
+lasst es besser so. Das ist nun
+
+627
+00:24:13,440 --> 00:24:16,200
+unsere erste Ableitung und damit
+
+628
+00:24:16,200 --> 00:24:17,600
+rechnen wir nun weiter.
+
+629
+00:24:20,540 --> 00:24:22,060
+Auch hierbei gilt, dass die
+
+630
+00:24:22,060 --> 00:24:24,980
+notwendigen Bedingungen sowie die
+
+631
+00:24:24,980 --> 00:24:26,060
+hinreichende Bedingung für die
+
+632
+00:24:26,060 --> 00:24:28,340
+Extremstellen sich zu ganz rationalen
+
+633
+00:24:28,340 --> 00:24:30,540
+Funktionen nicht ändern. Das heißt,
+
+634
+00:24:30,660 --> 00:24:32,240
+auch hier bei einer gebrochenen
+
+635
+00:24:32,240 --> 00:24:34,280
+rationalen Funktion setzen wir die
+
+636
+00:24:34,280 --> 00:24:36,060
+erste Ableitung mit 0 gleich, um die
+
+637
+00:24:36,060 --> 00:24:38,880
+notwendige Bedingung auszuführen. Und
+
+638
+00:24:38,880 --> 00:24:40,060
+anschließend führen wir auch noch die
+
+639
+00:24:40,060 --> 00:24:45,220
+hinreichende aus. Also 6x durch x²-1²
+
+640
+00:24:45,220 --> 00:24:48,040
+ist gleich 0. Wir suchen jetzt ja nur
+
+641
+00:24:48,040 --> 00:24:50,020
+nach Nullstellen der ersten Ableitung
+
+642
+00:24:50,020 --> 00:24:51,620
+und wir sehen ja, die erste Ableitung
+
+643
+00:24:51,620 --> 00:24:53,120
+ist auch wie eine gebrochenrationale
+
+644
+00:24:53,120 --> 00:24:55,500
+Funktion. Daher betrachten wir jetzt
+
+645
+00:24:55,500 --> 00:24:57,940
+auch wieder nur die Zählerfunktion,
+
+646
+00:24:58,120 --> 00:25:01,360
+also 6x ist gleich 0. Diese Gleichung
+
+647
+00:25:01,360 --> 00:25:03,560
+lösen wir jetzt, x ist dann gleich 0
+
+648
+00:25:03,560 --> 00:25:05,540
+entsprechend. Diese Gleichung muss
+
+649
+00:25:05,540 --> 00:25:06,840
+natürlich nicht immer so einfach
+
+650
+00:25:06,840 --> 00:25:09,660
+ausfallen. Das heißt, wir wissen
+
+651
+00:25:09,660 --> 00:25:13,440
+jetzt, wir haben an der Stelle 0 eine
+
+652
+00:25:13,440 --> 00:25:16,740
+potenzielle Extremstelle. Jetzt gibt
+
+653
+00:25:16,740 --> 00:25:17,900
+es, wie wir es kennen, zwei
+
+654
+00:25:17,900 --> 00:25:19,640
+Möglichkeiten, die Art des
+
+655
+00:25:19,640 --> 00:25:21,700
+Extrempunkts zu bestimmen oder erst
+
+656
+00:25:21,700 --> 00:25:22,900
+mal zu bestimmen, ob es überhaupt
+
+657
+00:25:22,900 --> 00:25:25,460
+einer ist. Das ist einerseits mittels
+
+658
+00:25:25,460 --> 00:25:27,200
+der zweiten Ableitung oder über eine
+
+659
+00:25:27,200 --> 00:25:30,280
+Monotonietabelle. Die
+
+660
+00:25:30,280 --> 00:25:31,140
+Monotonietabelle bietet sich
+
+661
+00:25:31,140 --> 00:25:34,680
+natürlich dann an, wenn wir sowieso
+
+662
+00:25:34,680 --> 00:25:36,100
+noch das Monotonieverhalten der
+
+663
+00:25:36,100 --> 00:25:38,880
+Funktion bestimmen müssen. Das ist
+
+664
+00:25:38,880 --> 00:25:40,480
+bei uns der Fall. Wir haben ja gerade
+
+665
+00:25:40,480 --> 00:25:41,720
+in der Übersicht gesehen zu Anfang,
+
+666
+00:25:41,940 --> 00:25:44,680
+dass wir auch noch die... Monotonie
+
+667
+00:25:44,680 --> 00:25:46,820
+bestimmen sollen. Deswegen würde ich
+
+668
+00:25:46,820 --> 00:25:48,500
+an der Stelle diesen Weg gehen. Es
+
+669
+00:25:48,500 --> 00:25:50,220
+ist natürlich aber auch möglich den
+
+670
+00:25:50,220 --> 00:25:52,020
+Weg über die zweite Ableitung zu
+
+671
+00:25:52,020 --> 00:25:53,960
+gehen. Das bedeutet, wir setzen
+
+672
+00:25:53,960 --> 00:25:55,420
+unsere errechnete Stelle in die
+
+673
+00:25:55,420 --> 00:25:57,720
+zweite Ableitung ein und wenn das
+
+674
+00:25:57,720 --> 00:26:00,040
+Ergebnis größer 0 ist, liegt ein
+
+675
+00:26:00,040 --> 00:26:02,220
+Tiefpunkt vor. Wenn es kleiner 0 ist,
+
+676
+00:26:02,260 --> 00:26:04,320
+liegt ein Hochpunkt vor. Und wenn es
+
+677
+00:26:04,320 --> 00:26:06,900
+ungleich 0 ist, dann müssen wir, dann
+
+678
+00:26:06,900 --> 00:26:08,420
+liegt der Verdacht nahe, dass es ein
+
+679
+00:26:08,420 --> 00:26:09,100
+Sattelpunkt ist.
+
+680
+00:26:14,000 --> 00:26:15,720
+Das sehen wir einmal Hier sehen wir
+
+681
+00:26:15,720 --> 00:26:17,160
+erstmal unsere zweite Ableitung, f'
+
+682
+00:26:17,380 --> 00:26:19,660
+von x, das ist gleich minus 18x²
+
+683
+00:26:19,660 --> 00:26:22,140
+minus 6 durch x² minus 1 hoch 3.
+
+684
+00:26:22,780 --> 00:26:24,720
+Diese zweite Ableitung ist auch mit
+
+685
+00:26:24,720 --> 00:26:26,340
+der Quotientenregel erstellt worden.
+
+686
+00:26:26,980 --> 00:26:28,860
+Und in diese können wir jetzt die 0
+
+687
+00:26:28,860 --> 00:26:30,360
+einsetzen, dann erhalten wir einfach
+
+688
+00:26:30,360 --> 00:26:34,180
+minus 6 durch minus 1 hoch 3. Das ist
+
+689
+00:26:34,180 --> 00:26:36,820
+minus 1 hoch 3, das ist minus 1. Wir
+
+690
+00:26:36,820 --> 00:26:38,680
+erhalten dann die 6, denn minus durch
+
+691
+00:26:38,680 --> 00:26:41,200
+minus ist plus. Und die 6 ist größer
+
+692
+00:26:41,200 --> 00:26:42,900
+als 0, folglich liegt ein Tiefpunkt
+
+693
+00:26:42,900 --> 00:26:45,780
+vor. Das Ganze können wir ja auch mit
+
+694
+00:26:45,780 --> 00:26:47,040
+der Monotonietabelle beweisen.
+
+695
+00:26:47,320 --> 00:26:48,720
+Erstmal nehmen wir uns in der Mitte
+
+696
+00:26:48,720 --> 00:26:50,840
+den Punkt vor, an dem die potenzielle
+
+697
+00:26:50,840 --> 00:26:52,700
+Extremstelle vorliegt, also x gleich
+
+698
+00:26:52,700 --> 00:26:54,680
+0. Dann gehen wir ein Stückchen links
+
+699
+00:26:54,680 --> 00:26:55,900
+davon und ein Stückchen rechts davon.
+
+700
+00:26:56,040 --> 00:26:57,880
+Wichtig dabei ist, bei gebrochen
+
+701
+00:26:57,880 --> 00:26:59,600
+rationalen Funktionen, achtet darauf,
+
+702
+00:26:59,840 --> 00:27:00,980
+dass ihr nicht über eure
+
+703
+00:27:00,980 --> 00:27:03,560
+Definitionslücke hinweg geht. Wir
+
+704
+00:27:03,560 --> 00:27:06,220
+haben ja bei der minus 1 bzw. bei der
+
+705
+00:27:06,220 --> 00:27:09,200
+1 eine Definitionslücke. Das heißt,
+
+706
+00:27:09,320 --> 00:27:12,180
+das x, was wir hier einsetzen, muss
+
+707
+00:27:12,180 --> 00:27:14,220
+kleiner 0 sein, aber gleichzeitig
+
+708
+00:27:14,220 --> 00:27:17,760
+größer als die minus 1. Das x, was
+
+709
+00:27:17,760 --> 00:27:19,380
+wir hier einsetzen, muss größer als
+
+710
+00:27:19,380 --> 00:27:21,360
+die 0 sein, aber gleichzeitig kleiner
+
+711
+00:27:21,360 --> 00:27:22,900
+als die 1, damit wir nicht über
+
+712
+00:27:22,900 --> 00:27:24,480
+unsere Definitionslücke hinweggehen.
+
+713
+00:27:25,960 --> 00:27:27,540
+Wenn wir das machen, erhalten wir
+
+714
+00:27:27,540 --> 00:27:30,600
+hier links davon ein Ergebnis kleiner
+
+715
+00:27:30,600 --> 00:27:33,300
+0, also da fällt der Graph. Rechts
+
+716
+00:27:33,300 --> 00:27:35,300
+davon ein Ergebnis größer 0, also da
+
+717
+00:27:35,300 --> 00:27:36,520
+steigt er. Wir haben also einen
+
+718
+00:27:36,520 --> 00:27:37,940
+Vorzeichenwechsel von Minus nach
+
+719
+00:27:37,940 --> 00:27:41,360
+Plus, also von Fallen auf Steigen und
+
+720
+00:27:41,360 --> 00:27:42,920
+das ist ein Tiefpunkt. Das kann man
+
+721
+00:27:42,920 --> 00:27:43,700
+sich, denke ich, grafisch auch schon
+
+722
+00:27:43,700 --> 00:27:45,960
+gut vorstellen. Hier fällt er gerade
+
+723
+00:27:45,960 --> 00:27:48,420
+und hoch, das ist ein Tiefpunkt, also
+
+724
+00:27:48,420 --> 00:27:52,360
+ein Minimum. Und damit hat man die
+
+725
+00:27:52,360 --> 00:27:54,440
+Art des Extrempunkts auch schon
+
+726
+00:27:54,440 --> 00:27:55,280
+charakterisiert.
+
+727
+00:27:57,450 --> 00:27:58,590
+Wir wollten ja auch noch das
+
+728
+00:27:58,590 --> 00:28:00,030
+Monotonieverhalten bestimmen und hier
+
+729
+00:28:00,030 --> 00:28:01,310
+sieht man jetzt das, was ich gerade
+
+730
+00:28:01,310 --> 00:28:04,110
+angemerkt habe. Wir haben hier einmal
+
+731
+00:28:04,110 --> 00:28:05,870
+die Stelle unseres Extrempunkts und
+
+732
+00:28:05,870 --> 00:28:07,810
+dann eine Stelle rechts bzw. links
+
+733
+00:28:07,810 --> 00:28:10,210
+davon, aber die liegt natürlich auch
+
+734
+00:28:10,210 --> 00:28:12,310
+zwischen der Minus 1 und der 0 bzw.
+
+735
+00:28:12,710 --> 00:28:15,070
+zwischen der 0 und der 1. Sie dürfen
+
+736
+00:28:15,070 --> 00:28:16,550
+nicht über unsere Definitionslücke
+
+737
+00:28:16,550 --> 00:28:18,350
+hinweg gehen. Wenn wir das
+
+738
+00:28:18,350 --> 00:28:19,910
+Monotonieverhalten bestimmen wollen,
+
+739
+00:28:20,070 --> 00:28:22,790
+dann gehen wir auch noch einmal links
+
+740
+00:28:22,790 --> 00:28:25,210
+bzw. rechts von der Definitionslücke
+
+741
+00:28:25,210 --> 00:28:27,050
+und berechnen für diese Werte immer
+
+742
+00:28:27,050 --> 00:28:29,010
+die erste Ableitung und schauen
+
+743
+00:28:29,010 --> 00:28:31,170
+vorzeichenmäßig, was dafür einsteht.
+
+744
+00:28:31,190 --> 00:28:33,430
+steigung vorliegt wir sehen hier
+
+745
+00:28:33,430 --> 00:28:35,390
+links von der mini aus 1 bis heißt
+
+746
+00:28:35,390 --> 00:28:36,730
+also links von unserer linken
+
+747
+00:28:36,730 --> 00:28:39,410
+definitionslücke fällt der graf
+
+748
+00:28:39,410 --> 00:28:43,970
+rechts von unserer linken
+
+749
+00:28:43,970 --> 00:28:46,050
+definitionslücke fällt er auch noch
+
+750
+00:28:46,050 --> 00:28:49,830
+und jetzt sehen wir rechts von
+
+751
+00:28:49,830 --> 00:28:53,890
+unserer extremstelle steigt er das
+
+752
+00:28:53,890 --> 00:28:55,390
+heißt hier ein vorzeichenwechsel von
+
+753
+00:28:55,390 --> 00:29:00,070
+minus auf plus und rechts von der
+
+754
+00:29:00,070 --> 00:29:02,030
+rechten definitionslücke steigt er
+
+755
+00:29:02,030 --> 00:29:05,270
+auch wieder und das kann wir auch
+
+756
+00:29:05,270 --> 00:29:06,690
+gleich alles wieder in unserem graf
+
+757
+00:29:06,690 --> 00:29:09,230
+merken und hiermit ist dann das
+
+758
+00:29:09,230 --> 00:29:11,770
+monotonie verhalten geklärt hier
+
+759
+00:29:14,010 --> 00:29:15,510
+sehen wir es noch einmal fällt fällt
+
+760
+00:29:15,510 --> 00:29:18,970
+steigt steigt um den tiefpunkt haben
+
+761
+00:29:18,970 --> 00:29:20,150
+wir den wechsel von fallen auf
+
+762
+00:29:20,150 --> 00:29:22,570
+steigen also definitiv ein tiefpunkt
+
+763
+00:29:22,570 --> 00:29:25,490
+kommen wir als nächstes zu
+
+764
+00:29:25,490 --> 00:29:29,290
+Wendepunkten und Krümmung. Bei
+
+765
+00:29:29,290 --> 00:29:30,710
+gebrochen rationalen Funktionen ist
+
+766
+00:29:30,710 --> 00:29:32,390
+ganz wichtig im Hinterkopf zu halten,
+
+767
+00:29:33,270 --> 00:29:34,670
+dass eine gebrochen rationale
+
+768
+00:29:34,670 --> 00:29:36,410
+Funktion durchaus einen
+
+769
+00:29:36,410 --> 00:29:38,410
+Krümmungswechsel haben kann, obwohl
+
+770
+00:29:38,410 --> 00:29:41,010
+sie keinen Wendepunkt hat. Das ist
+
+771
+00:29:41,010 --> 00:29:43,450
+ein ganz großer Unterschied zu ganz
+
+772
+00:29:43,450 --> 00:29:45,750
+rationalen Funktionen. Eine gebrochen
+
+773
+00:29:45,750 --> 00:29:47,370
+rationale Funktion kann aber trotz
+
+774
+00:29:47,370 --> 00:29:48,770
+alledem den klassischen Wendepunkt
+
+775
+00:29:48,770 --> 00:29:50,570
+haben. Deswegen prüfen wir als erstes
+
+776
+00:29:50,570 --> 00:29:52,750
+auch auf so einen Wendepunkt. Dies
+
+777
+00:29:52,750 --> 00:29:54,530
+geschieht, wie wir es kennen, das
+
+778
+00:29:54,530 --> 00:29:55,910
+heißt wir brauchen die zweite
+
+779
+00:29:55,910 --> 00:29:58,530
+Ableitung und setzen diese mit 0
+
+780
+00:29:58,530 --> 00:30:00,970
+gleich. Die zweite Ableitung hatten
+
+781
+00:30:00,970 --> 00:30:01,930
+wir ja vorhin schon mal bei der
+
+782
+00:30:01,930 --> 00:30:03,630
+Monotonietabelle, das ist genau die
+
+783
+00:30:03,630 --> 00:30:05,490
+gleiche wie die hier. Wir setzen sie
+
+784
+00:30:05,490 --> 00:30:07,930
+jetzt mit 0 gleich, auch hier, die
+
+785
+00:30:07,930 --> 00:30:09,030
+zweite Ableitung ist ja wieder eine
+
+786
+00:30:09,030 --> 00:30:10,790
+gebrochenrationale Funktion und der
+
+787
+00:30:10,790 --> 00:30:12,190
+wird die Nullstellen suchen, so ist
+
+788
+00:30:12,190 --> 00:30:14,750
+das eigentlich zu deuten. Deswegen
+
+789
+00:30:14,750 --> 00:30:16,150
+nehmen wir nur den Zähler und setzen
+
+790
+00:30:16,150 --> 00:30:18,090
+ihn mit 0 gleich. Also minus 18x²
+
+791
+00:30:18,090 --> 00:30:20,830
+minus 6 ist gleich 0. Und wir werden
+
+792
+00:30:20,830 --> 00:30:24,370
+feststellen, dass es für diese
+
+793
+00:30:24,370 --> 00:30:26,710
+Gleichung keine Lösung gibt. Denn wir
+
+794
+00:30:26,710 --> 00:30:27,970
+können jetzt plus 6 rechnen, dann
+
+795
+00:30:27,970 --> 00:30:30,750
+würden wir geteilt durch minus 18
+
+796
+00:30:30,750 --> 00:30:32,330
+rechnen. Dann hätten wir etwas
+
+797
+00:30:32,330 --> 00:30:33,870
+Negatives stehen und dann müssten wir
+
+798
+00:30:33,870 --> 00:30:35,230
+die Wurzel aus einer negativen Zahl
+
+799
+00:30:35,230 --> 00:30:37,330
+ziehen und das geht nicht. Das heißt,
+
+800
+00:30:37,510 --> 00:30:40,570
+ungleich 0, keine Lösung und es gibt
+
+801
+00:30:40,570 --> 00:30:43,590
+augenscheinlich erstmal keine
+
+802
+00:30:43,590 --> 00:30:47,410
+Wendepunkte. Das Ganze müssen wir
+
+803
+00:30:47,410 --> 00:30:48,590
+aber an der Krümmungstabelle
+
+804
+00:30:48,590 --> 00:30:52,450
+charakterisieren. Denn, wie gerade
+
+805
+00:30:52,450 --> 00:30:53,790
+schon gesagt, auch wenn wir keinen
+
+806
+00:30:53,790 --> 00:30:55,430
+Wendepunkt haben, kann sich die
+
+807
+00:30:55,430 --> 00:30:55,910
+Krümmung ändern.
+
+808
+00:30:59,450 --> 00:31:01,210
+Deswegen nutzen wir jetzt so eine
+
+809
+00:31:01,210 --> 00:31:04,990
+schöne Tabelle für die Krümmung. Wir
+
+810
+00:31:04,990 --> 00:31:06,830
+sehen hier erstmal... minus 1 und 1,
+
+811
+00:31:06,890 --> 00:31:08,230
+unsere beiden Definitionslücken
+
+812
+00:31:08,230 --> 00:31:10,990
+wieder. Den Tiefpunkt können wir
+
+813
+00:31:10,990 --> 00:31:12,830
+jetzt hier ausblenden. Das heißt, wir
+
+814
+00:31:12,830 --> 00:31:16,470
+brauchen nur eine Stelle von der, zum
+
+815
+00:31:16,470 --> 00:31:18,270
+Schluss, eine Stelle links von der
+
+816
+00:31:18,270 --> 00:31:21,050
+Definitionslücke, eine Stelle rechts
+
+817
+00:31:21,050 --> 00:31:22,470
+von unserer rechten Definitionslücke
+
+818
+00:31:22,470 --> 00:31:24,750
+und eine Stelle dazwischen. Also
+
+819
+00:31:24,750 --> 00:31:26,410
+denkbar wären jetzt hier Werte,
+
+820
+00:31:26,430 --> 00:31:29,250
+hierfür eine minus 2, hier eine 0 und
+
+821
+00:31:29,250 --> 00:31:32,930
+hier eine 2 beispielsweise. Für diese
+
+822
+00:31:32,930 --> 00:31:34,810
+Werte rechnen wir dann die zweite
+
+823
+00:31:34,810 --> 00:31:37,150
+Ableitung aus. Das heißt wir werden
+
+824
+00:31:37,150 --> 00:31:39,530
+feststellen, für eine Stelle die
+
+825
+00:31:39,530 --> 00:31:41,230
+kleiner ist als die minus 1 ist es
+
+826
+00:31:41,230 --> 00:31:42,830
+kleiner 0, also rechts gekrümmt.
+
+827
+00:31:43,630 --> 00:31:45,410
+Zwischen minus 1 und 1 haben wir
+
+828
+00:31:45,410 --> 00:31:47,050
+einen Wert der größer 0 ist, das
+
+829
+00:31:47,050 --> 00:31:49,870
+heißt er ist links gekrümmt und für
+
+830
+00:31:49,870 --> 00:31:51,790
+einen Wert größer als die 1 ist es
+
+831
+00:31:51,790 --> 00:31:54,250
+wieder kleiner als 0, folgt dieses
+
+832
+00:31:54,250 --> 00:31:55,350
+wieder rechts gekrümmt. Und hier
+
+833
+00:31:55,350 --> 00:31:56,350
+sehen wir, wir haben rechts
+
+834
+00:31:56,350 --> 00:31:57,870
+Rechtsgekrümmt, rechtsgekrümmt,
+
+835
+00:31:57,870 --> 00:32:00,770
+linksgekrümmt, rechtsgekrümmt. Wir
+
+836
+00:32:00,770 --> 00:32:03,970
+haben definitiv einen Wechsel. Und
+
+837
+00:32:03,970 --> 00:32:08,910
+das halten wir noch so fest. Gut, das
+
+838
+00:32:08,910 --> 00:32:10,590
+sind damit die Informationen, die wir
+
+839
+00:32:10,590 --> 00:32:12,830
+bis jetzt gesammelt haben und die wir
+
+840
+00:32:12,830 --> 00:32:14,550
+uns gleich mal anhand des Graphen
+
+841
+00:32:14,550 --> 00:32:17,150
+anschauen werden. Das ist der Graph
+
+842
+00:32:17,150 --> 00:32:22,510
+und wir sehen hier erstmal, fangen
+
+843
+00:32:22,510 --> 00:32:23,850
+wir mit dem Tiefpunkt an. Das ist
+
+844
+00:32:23,850 --> 00:32:25,330
+unser Tiefpunkt und wir sehen auch...
+
+845
+00:32:25,350 --> 00:32:28,290
+Der Tiefpunkt liegt genau am
+
+846
+00:32:28,290 --> 00:32:31,070
+Schnittpunkt mit der y-Achse. Der ist
+
+847
+00:32:31,070 --> 00:32:32,330
+nämlich auch hier. Hier sehen wir
+
+848
+00:32:32,330 --> 00:32:33,770
+unsere beiden Nullstellen, die wir
+
+849
+00:32:33,770 --> 00:32:36,490
+berechnet haben. Und wir sehen, wenn
+
+850
+00:32:36,490 --> 00:32:38,230
+wir uns der minus 1 bzw. der 1
+
+851
+00:32:38,230 --> 00:32:40,690
+annähern, läuft unser Graph weg, was
+
+852
+00:32:40,690 --> 00:32:41,650
+man so formulieren möchte.
+
+853
+00:32:44,750 --> 00:32:46,270
+Deswegen sind das hier unsere
+
+854
+00:32:46,270 --> 00:32:47,790
+Definitionslücken. Also einmal hier,
+
+855
+00:32:47,870 --> 00:32:49,490
+bzw. sind ja Polstellen, die wir
+
+856
+00:32:49,490 --> 00:32:52,430
+herausgefunden haben. Und hier. Des
+
+857
+00:32:52,430 --> 00:32:54,770
+Weiteren sehen wir... Links von der
+
+858
+00:32:54,770 --> 00:32:56,630
+linken Polstelle fällt der Graph,
+
+859
+00:32:58,250 --> 00:33:00,730
+rechts von der linken Polstelle fällt
+
+860
+00:33:00,730 --> 00:33:01,770
+der Graph, das haben wir ja auch so
+
+861
+00:33:01,770 --> 00:33:04,470
+ausgerechnet. Wenn wir uns jetzt die
+
+862
+00:33:04,470 --> 00:33:06,370
+rechte Polstelle anschauen, also die
+
+863
+00:33:06,370 --> 00:33:08,310
+hier, stellen wir fest, links von der
+
+864
+00:33:08,310 --> 00:33:10,270
+rechten Polstelle steigt er, hier,
+
+865
+00:33:10,370 --> 00:33:12,730
+und rechts von der rechten Polstelle
+
+866
+00:33:12,730 --> 00:33:15,290
+steigt er weiter. Wir sehen auch
+
+867
+00:33:15,290 --> 00:33:17,070
+hier, die Funktion nähert sich dem
+
+868
+00:33:17,070 --> 00:33:18,650
+Wert 1 an, das haben wir ja auch
+
+869
+00:33:18,650 --> 00:33:22,810
+ausgerechnet, und so sieht der Graph
+
+870
+00:33:22,810 --> 00:33:26,610
+damit am Ende aus. Der
+
+871
+00:33:26,610 --> 00:33:28,410
+Krümmungswechsel ist ja, hier ist es
+
+872
+00:33:28,410 --> 00:33:30,290
+rechts gekrümmt, hier ist es links
+
+873
+00:33:30,290 --> 00:33:31,370
+gekrümmt und hier ist es wieder
+
+874
+00:33:31,370 --> 00:33:34,950
+rechts gekrümmt. Das heißt, es findet
+
+875
+00:33:34,950 --> 00:33:37,210
+ein Krümmungswechsel innerhalb der
+
+876
+00:33:37,210 --> 00:33:42,050
+Polstellen statt. Und damit wären wir
+
+877
+00:33:42,050 --> 00:33:43,510
+auch schon am Ende des Webinars. Ich
+
+878
+00:33:43,510 --> 00:33:45,130
+bedanke mich recht herzlich für eure
+
+879
+00:33:45,130 --> 00:33:45,810
+Aufmerksamkeit.
+

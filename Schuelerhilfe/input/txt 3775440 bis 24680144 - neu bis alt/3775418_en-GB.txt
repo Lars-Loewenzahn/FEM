@@ -1,0 +1,417 @@
+﻿1
+00:00:04,460 --> 00:00:07,020
+Hello, my name is Joshua and I 
+
+2
+00:00:07,020 --> 00:00:08,080
+am a tutor at 
+
+3
+00:00:08,080 --> 00:00:09,980
+Schülerhilfe. Today I would like to 
+explain to you 
+
+4
+00:00:09,980 --> 00:00:11,580
+what 
+
+5
+00:00:11,580 --> 00:00:13,460
+the molecule glucose is all about in 
+chemistry. 
+
+6
+00:00:13,860 --> 00:00:16,060
+We know from the suffix Ose 
+
+7
+00:00:16,120 --> 00:00:17,460
+that it is a sugar 
+
+8
+00:00:17,460 --> 00:00:19,400
+. But which sugar? 
+
+9
+00:00:20,200 --> 00:00:22,140
+Fructose, glucose or 
+
+10
+00:00:22,140 --> 00:00:24,600
+table sugar? And what are sugars 
+
+11
+00:00:24,600 --> 00:00:27,420
+anyway? Sugars are carbohydrates. 
+
+12
+00:00:27,420 --> 00:00:29,220
+A distinction is made 
+
+13
+00:00:29,220 --> 00:00:32,380
+between monosaccharides, oligosaccharides 
+and 
+
+14
+00:00:32,380 --> 00:00:35,400
+polysaccharides. Monosaccharides 
+
+15
+00:00:35,400 --> 00:00:37,680
+, also known as simple sugars 
+
+16
+00:00:37,680 --> 00:00:39,060
+, are a single ring 
+
+17
+00:00:39,060 --> 00:00:41,460
+consisting of 3 to 7 carbon atoms. 
+
+18
+00:00:42,560 --> 00:00:44,220
+Oligosaccharides 
+
+19
+00:00:44,220 --> 00:00:46,660
+
+20
+00:00:46,660 --> 00:00:48,500
+
+21
+00:00:48,500 --> 00:00:50,200
+are made up of 2 to 10 monosaccharides 
+that are linked by an oxygen bridge. 
+Polysaccharides are 
+
+22
+00:00:50,200 --> 00:00:52,240
+high-molecular natural substances that 
+consist of 
+
+23
+00:00:52,240 --> 00:00:54,020
+many linked monosaccharides 
+
+24
+00:00:54,020 --> 00:00:56,520
+. Glucose is a 
+
+25
+00:00:56,520 --> 00:00:58,620
+monosaccharide that 
+
+26
+00:00:58,620 --> 00:01:01,720
+has a 6C ring. 
+
+27
+00:01:01,720 --> 00:01:03,500
+
+28
+00:01:03,500 --> 00:01:05,520
+
+29
+00:01:05,520 --> 00:01:08,400
+Sucrose is a disaccharide, i.e. a 
+disaccharide made up of glucose and 
+fructose . 
+
+30
+00:01:08,400 --> 00:01:10,300
+The macromolecule 
+
+31
+00:01:10,300 --> 00:01:13,660
+starch is also made up of glucose . The 
+molecular formula of glucose 
+
+32
+00:01:13,660 --> 00:01:17,300
+is C6H12O6. 
+
+33
+00:01:17,300 --> 00:01:18,740
+However, there are 
+
+34
+00:01:18,740 --> 00:01:21,720
+different ways of representing the 
+structural formula. The 
+
+35
+00:01:21,720 --> 00:01:24,060
+Fischer projection, the Haworth 
+
+36
+00:01:24,060 --> 00:01:26,620
+ projection, the armchair representation 
+
+37
+00:01:26,620 --> 00:01:30,380
+and the stereochemical view. The 
+
+38
+00:01:30,380 --> 00:01:31,860
+Fischer projection is an 
+
+39
+00:01:31,860 --> 00:01:33,640
+open-chain form of representation. 
+
+40
+00:01:33,760 --> 00:01:35,740
+
+41
+00:01:35,740 --> 00:01:38,320
+This makes it the easiest way to recognize 
+the basic structure. Glucose 
+
+42
+00:01:38,320 --> 00:01:40,940
+has an aldehyde group. The carbon atom 
+
+43
+00:01:40,940 --> 00:01:42,820
+within the aldehyde group is always 
+
+44
+00:01:42,820 --> 00:01:45,320
+the first carbon atom in the chain. 
+
+45
+00:01:45,660 --> 00:01:48,240
+All others are 
+
+46
+00:01:48,240 --> 00:01:50,940
+counted through from this C atom. The 
+arrangement of the 
+
+47
+00:01:50,940 --> 00:01:52,980
+hydroxyl group is also 
+
+48
+00:01:52,980 --> 00:01:55,400
+very important. 
+
+49
+00:01:55,400 --> 00:01:56,800
+The position of the 
+
+50
+00:01:56,800 --> 00:01:59,560
+hydroxyl group of the fifth C atom is used 
+to differentiate 
+
+51
+00:01:59,560 --> 00:02:02,660
+between D-glucose and 
+
+52
+00:02:02,660 --> 00:02:05,600
+ L-glucose. Now we come 
+
+53
+00:02:05,600 --> 00:02:07,520
+to the glucose ring closure and the 
+
+54
+00:02:07,520 --> 00:02:10,260
+Haworth projection. The ring closure takes 
+place 
+
+55
+00:02:10,260 --> 00:02:11,840
+in such a way that the 
+
+56
+00:02:11,840 --> 00:02:14,880
+hydroxyl group of the 5th C atom bonds 
+with the 
+
+57
+00:02:14,880 --> 00:02:16,920
+C atom of the aldehyde group. 
+
+58
+00:02:17,480 --> 00:02:19,500
+The double bond of the 
+
+59
+00:02:19,500 --> 00:02:21,280
+oxygen atom dissolves 
+
+60
+00:02:21,280 --> 00:02:25,340
+and another hydroxyl group is formed. 
+
+61
+00:02:25,340 --> 00:02:27,120
+However, as this representation 
+
+62
+00:02:27,120 --> 00:02:29,060
+is very confusing , the 
+
+63
+00:02:29,060 --> 00:02:32,840
+Haworth projection is usually used. This 
+means 
+
+64
+00:02:32,840 --> 00:02:34,440
+that all hydroxyl groups that 
+
+65
+00:02:34,440 --> 00:02:36,860
+were on the right in the Fischer 
+projection 
+
+66
+00:02:36,860 --> 00:02:40,220
+are now at the bottom. This form is 
+
+67
+00:02:40,220 --> 00:02:43,660
+known as alpha-D-glycopyranose. 
+
+68
+00:02:44,050 --> 00:02:46,180
+In addition to the Haworth projection 
+
+69
+00:02:46,180 --> 00:02:48,720
+, the alpha-D-glycopyranose can also be 
+depicted in the 
+
+70
+00:02:48,720 --> 00:02:50,880
+armchair view and in the 
+
+71
+00:02:50,880 --> 00:02:53,300
+stereochemical view. 
+
+72
+00:02:53,600 --> 00:02:56,080
+In all three types of illustration 
+
+73
+00:02:56,080 --> 00:02:58,200
+, you can see which hydroxyl groups 
+
+74
+00:02:58,200 --> 00:03:01,660
+are at the top and which are at the 
+bottom. 
+
+75
+00:03:01,660 --> 00:03:03,200
+Let us briefly summarize once again. 
+
+76
+00:03:04,740 --> 00:03:07,020
+Glucose is a monosaccharide 
+
+77
+00:03:07,020 --> 00:03:10,760
+made up of 6 C atoms. The 
+
+78
+00:03:10,760 --> 00:03:13,800
+molecular formula is C6H12O6. 
+
+79
+00:03:14,980 --> 00:03:17,240
+In linear form, glucose 
+
+80
+00:03:17,240 --> 00:03:19,620
+has one aldehyde and 5 hydroxyl groups. 
+
+81
+00:03:20,100 --> 00:03:22,800
+The hydroxyl group on the 5th C atom 
+
+82
+00:03:22,800 --> 00:03:25,500
+indicates whether it is D-glucose or 
+L-glucose 
+
+83
+00:03:25,500 --> 00:03:28,660
+. If a glucose 
+
+84
+00:03:28,660 --> 00:03:29,840
+ ring closure occurs, a 
+
+85
+00:03:29,840 --> 00:03:31,580
+bond is formed between the oxygen, 
+
+86
+00:03:31,600 --> 00:03:33,780
+the hydroxyl group of the fifth C atom 
+
+87
+00:03:33,780 --> 00:03:36,900
+and the first C atom. The 
+
+88
+00:03:36,900 --> 00:03:38,480
+aldehyde group is 
+
+89
+00:03:38,480 --> 00:03:41,140
+restructured into a hydroxy group. The 
+
+90
+00:03:41,140 --> 00:03:43,160
+ring form can 
+
+91
+00:03:43,260 --> 00:03:45,080
+
+92
+00:03:45,080 --> 00:03:46,980
+
+93
+00:03:46,980 --> 00:03:49,800
+be depicted as a Haworth projection, 
+armchair representation or as a 
+stereochemical view. In all forms of 
+illustration 
+
+94
+00:03:49,800 --> 00:03:51,240
+, it must be noted whether the 
+
+95
+00:03:51,240 --> 00:03:52,780
+hydroxyl group 
+
+96
+00:03:52,780 --> 00:03:55,740
+was on the right or left in the linear 
+form. I 
+
+97
+00:03:55,740 --> 00:03:56,940
+hope that I 
+
+98
+00:03:56,940 --> 00:03:58,720
+was able to help you better understand the 
+topic of glucose 
+
+99
+00:03:58,720 --> 00:04:00,500
+. Thank you for joining us 
+
+100
+00:04:00,500 --> 00:04:02,080
+and see you next time! 

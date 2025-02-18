@@ -1,0 +1,1235 @@
+﻿1
+00:00:02,510 --> 00:00:04,230
+Hello and welcome to 
+
+2
+00:00:04,230 --> 00:00:06,210
+our webinar today. Can you 
+
+3
+00:00:06,210 --> 00:00:07,230
+hear me well? 
+
+4
+00:00:15,720 --> 00:00:17,340
+Hello, can you hear me? 
+
+5
+00:00:27,140 --> 00:00:29,120
+Okay, great. Then let's get 
+
+6
+00:00:29,120 --> 00:00:31,420
+started with our webinar 
+
+7
+00:00:31,420 --> 00:00:34,760
+on natural numbers. What are 
+
+8
+00:00:34,760 --> 00:00:37,260
+we going to talk about today? 
+
+9
+00:00:37,260 --> 00:00:39,500
+About the representation on the number 
+line, about the 
+
+10
+00:00:39,500 --> 00:00:41,900
+representation of large numbers, the 
+
+11
+00:00:41,900 --> 00:00:44,040
+factual quantities via rounding and 
+
+12
+00:00:44,040 --> 00:00:46,420
+rolling over and about Roman 
+
+13
+00:00:46,420 --> 00:00:49,420
+numerals and the two-neck system. 
+
+14
+00:00:49,420 --> 00:00:50,900
+Let's get started. First of all, what are 
+
+15
+00:00:50,900 --> 00:00:52,620
+natural numbers? The set of 
+
+16
+00:00:52,620 --> 00:00:54,200
+natural numbers is 
+
+17
+00:00:54,200 --> 00:00:57,400
+abbreviated with the symbol n. n describes 
+all 
+
+18
+00:00:57,400 --> 00:01:00,200
+positive numbers known to us, 
+
+19
+00:01:00,200 --> 00:01:05,140
+for example 1, 2, 3, 10, 50 to 
+
+20
+00:01:05,140 --> 00:01:08,360
+infinity, but only positive. 
+
+21
+00:01:08,360 --> 00:01:10,220
+As a rule, 0 does not belong to the 
+
+22
+00:01:10,220 --> 00:01:12,480
+natural numbers. 
+
+23
+00:01:12,480 --> 00:01:14,660
+However, if you want 0 to 
+
+24
+00:01:14,660 --> 00:01:16,880
+be part of the natural numbers, you write 
+n with a 
+
+25
+00:01:16,880 --> 00:01:18,640
+small 0 at the bottom and then 
+
+26
+00:01:18,640 --> 00:01:20,160
+, of course, it starts at 0 to 
+
+27
+00:01:20,160 --> 00:01:24,180
+infinity. If you 
+
+28
+00:01:24,180 --> 00:01:26,020
+have any questions, please write in the 
+chat, 
+
+29
+00:01:26,160 --> 00:01:29,580
+okay? Then let's start 
+
+30
+00:01:29,580 --> 00:01:31,640
+with the representation on the number 
+line. 
+
+31
+00:01:32,500 --> 00:01:34,900
+n and n0 can be represented on the number 
+line 
+
+32
+00:01:34,900 --> 00:01:37,400
+as follows. We 
+
+33
+00:01:37,400 --> 00:01:39,100
+just draw a number line and always with 
+
+34
+00:01:39,100 --> 00:01:40,880
+the positive numbers we know, 
+
+35
+00:01:40,900 --> 00:01:43,140
+okay, okay, from here the n-range is 
+
+36
+00:01:43,140 --> 00:01:45,380
+either starting from 1 or starting from 0 
+
+37
+00:01:45,380 --> 00:01:47,180
+, depending on whether we 
+
+38
+00:01:47,180 --> 00:01:52,440
+have n or n0. How do we now represent 
+large 
+
+39
+00:01:52,440 --> 00:01:54,520
+numbers? There are several 
+
+40
+00:01:54,520 --> 00:01:56,120
+ways to 
+
+41
+00:01:56,120 --> 00:01:58,220
+represent large numbers in a simplified 
+way. 
+
+42
+00:01:58,220 --> 00:02:00,640
+For example, if I take very large numbers, 
+1000, 
+
+43
+00:02:00,860 --> 00:02:01,640
+then 
+
+44
+00:02:05,990 --> 00:02:10,870
+1000 million is a billion, 
+
+45
+00:02:10,910 --> 00:02:14,190
+i.e. a 1 with 9 zeros, and 100 
+
+46
+00:02:14,190 --> 00:02:16,930
+billion is a trillion. So 1 
+
+47
+00:02:16,930 --> 00:02:18,110
+with 12 zeros. 
+
+48
+00:02:22,230 --> 00:02:24,310
+If we 
+
+49
+00:02:24,310 --> 00:02:26,150
+look at the numbers that are written down 
+here, 
+
+50
+00:02:26,150 --> 00:02:27,250
+we naturally ask ourselves 
+
+51
+00:02:27,430 --> 00:02:29,330
+which number is larger and which is 
+
+52
+00:02:29,330 --> 00:02:31,610
+smaller. To answer this question, 
+
+53
+00:02:31,630 --> 00:02:33,130
+we simply write them 
+
+54
+00:02:33,130 --> 00:02:34,970
+down one below the other in a place value 
+table. 
+
+55
+00:02:35,270 --> 00:02:37,490
+In other words, we have the units, the 
+
+56
+00:02:37,490 --> 00:02:39,510
+tens, the hundreds, the thousands, the 
+
+57
+00:02:39,510 --> 00:02:41,510
+millions, the billions and the trillions. 
+
+58
+00:02:42,530 --> 00:02:44,530
+And then we simply 
+
+59
+00:02:44,530 --> 00:02:46,830
+
+60
+00:02:46,830 --> 00:02:48,270
+enter the zeros and then the numbers one 
+by one from the back to the front . and 
+then 
+
+61
+00:02:48,270 --> 00:02:50,070
+we see that the number in front with the 
+15 
+
+62
+00:02:50,070 --> 00:02:51,410
+is larger. 
+
+63
+00:02:54,450 --> 00:02:55,990
+Do you have any questions so far? 
+
+64
+00:03:00,660 --> 00:03:02,340
+Okay, then we'll continue with 
+
+65
+00:03:02,340 --> 00:03:05,240
+factual quantities. Ah, someone else has 
+
+66
+00:03:05,240 --> 00:03:08,900
+arrived. Very nice. Then we'll 
+
+67
+00:03:08,900 --> 00:03:12,240
+continue with the physical quantities. 
+What are 
+
+68
+00:03:12,240 --> 00:03:14,340
+physical quantities? Material quantities 
+are quantities 
+
+69
+00:03:14,340 --> 00:03:16,240
+such as length, weight, money and time. 
+
+70
+00:03:16,620 --> 00:03:19,040
+The quantities are always 
+
+71
+00:03:19,040 --> 00:03:21,200
+specified with a unit, i.e. lengths in 
+
+72
+00:03:21,200 --> 00:03:23,000
+kilometers, meters, decimeters. 
+
+73
+00:03:23,080 --> 00:03:26,080
+Centimetres or millimetres, weight 
+
+74
+00:03:26,080 --> 00:03:27,840
+in tons, kilograms, grams and 
+
+75
+00:03:27,840 --> 00:03:30,120
+milligrams, money in euros and cents 
+
+76
+00:03:30,120 --> 00:03:32,960
+or, of course, 
+
+77
+00:03:32,960 --> 00:03:35,440
+depending on the currency, and time 
+
+78
+00:03:35,440 --> 00:03:37,560
+is 
+
+79
+00:03:37,560 --> 00:03:39,840
+given in years, months, days, hours, 
+minutes and seconds. The 
+
+80
+00:03:39,840 --> 00:03:41,460
+units are given as 
+
+81
+00:03:41,460 --> 00:03:43,480
+natural numbers. So this 
+
+82
+00:03:43,480 --> 00:03:45,280
+simply means that we cannot go below 
+
+83
+00:03:45,280 --> 00:03:51,360
+1 or below 0, because 
+
+84
+00:03:51,360 --> 00:03:53,460
+going minus 5 kilometers makes no 
+
+85
+00:03:53,460 --> 00:03:57,490
+sense. So here we have the 
+
+86
+00:03:57,490 --> 00:03:59,310
+example that a school lesson 
+
+87
+00:03:59,310 --> 00:04:01,710
+takes 45 minutes, not minus 45 
+
+88
+00:04:01,710 --> 00:04:03,130
+minutes, which doesn't make sense either 
+
+89
+00:04:03,130 --> 00:04:06,030
+, so it stays in the 
+
+90
+00:04:06,030 --> 00:04:08,610
+positive range. Then the 1 liter 
+
+91
+00:04:08,610 --> 00:04:11,210
+of water weighs exactly 1 kilogram. 
+
+92
+00:04:11,210 --> 00:04:12,750
+The distance to school is 2 
+
+93
+00:04:12,750 --> 00:04:15,310
+kilometers and 450 meters. 
+
+94
+00:04:15,310 --> 00:04:17,390
+Lunch in our canteen costs 2 
+
+95
+00:04:17,390 --> 00:04:20,150
+.50 euros. And it took me 
+
+96
+00:04:20,150 --> 00:04:22,430
+
+97
+00:04:22,430 --> 00:04:25,850
+13 minutes and 42 seconds to run 2 
+kilometers on the 400-meter track . 
+
+98
+00:04:25,950 --> 00:04:26,950
+These are just a few 
+
+99
+00:04:26,950 --> 00:04:28,530
+examples of how we 
+
+100
+00:04:28,530 --> 00:04:31,790
+can use the material quantities. 
+
+101
+00:04:31,790 --> 00:04:32,850
+Are there any questions about the material 
+quantities? 
+
+102
+00:04:43,130 --> 00:04:45,730
+Okay, I don't think so. Okay, also. Well, 
+let's 
+
+103
+00:04:45,730 --> 00:04:48,030
+take a look at 
+
+104
+00:04:48,030 --> 00:04:50,870
+rounding and rolling over. Rounding, 
+
+105
+00:04:50,870 --> 00:04:53,330
+why do we round at all and 
+
+106
+00:04:53,330 --> 00:04:56,370
+why do we roll over? It 
+
+107
+00:04:56,370 --> 00:04:57,830
+simply means that we can represent numbers 
+more simply 
+
+108
+00:04:57,830 --> 00:05:00,050
+and that we 
+
+109
+00:05:00,050 --> 00:05:01,790
+can calculate with them more easily and 
+therefore 
+
+110
+00:05:01,790 --> 00:05:04,130
+do without the exact result. 
+
+111
+00:05:04,350 --> 00:05:07,090
+How is rounding done? We 
+
+112
+00:05:07,090 --> 00:05:08,450
+always look at the digit after the 
+
+113
+00:05:08,450 --> 00:05:11,070
+respective digit up to which we 
+
+114
+00:05:11,070 --> 00:05:13,630
+want to round. This means 
+
+115
+00:05:13,630 --> 00:05:15,550
+that if we want to round to tens 
+
+116
+00:05:15,550 --> 00:05:17,850
+, we look at the units. If we 
+
+117
+00:05:17,850 --> 00:05:19,310
+want to round to hundreds, we look at the 
+
+118
+00:05:19,310 --> 00:05:21,390
+tens. And if we want to round to 
+thousands, we 
+
+119
+00:05:21,390 --> 00:05:23,110
+look at the hundreds. 
+
+120
+00:05:24,710 --> 00:05:28,510
+Because there are rules, if the rounding 
+
+121
+00:05:28,510 --> 00:05:31,610
+digit is a 0, 1, 2, 3 or 4, then 
+
+122
+00:05:31,610 --> 00:05:33,490
+we round down. And if the digit 
+
+123
+00:05:33,490 --> 00:05:35,730
+is a 5, 6, 7, 8 or then it is 
+
+124
+00:05:35,730 --> 00:05:38,750
+rounded up. So let's say 
+
+125
+00:05:38,750 --> 00:05:40,770
+digits less than 5 are 
+
+126
+00:05:40,770 --> 00:05:43,230
+rounded down, digits greater than or 
+
+127
+00:05:43,230 --> 00:05:47,510
+equal to 5 are rounded up. 
+
+128
+00:05:47,510 --> 00:05:49,710
+Let's take a look at an example. The 
+
+129
+00:05:49,710 --> 00:05:53,010
+number 4 million, 4,000,000, nope, the 
+
+130
+00:05:58,060 --> 00:06:05,720
+number, uh, 6, nope, 4,000,000, nope, 467 
+
+131
+00:06:05,720 --> 00:06:09,580
+.372 should 
+
+132
+00:06:09,600 --> 00:06:11,340
+
+133
+00:06:11,340 --> 00:06:13,280
+be rounded to tens, to hundreds and then 
+to thousands . This means that when we 
+
+134
+00:06:13,280 --> 00:06:15,100
+round to tens, we 
+
+135
+00:06:15,100 --> 00:06:17,380
+look at the ones digit, i.e. 
+
+136
+00:06:17,380 --> 00:06:19,940
+2. 2 is smaller than 5, which 
+
+137
+00:06:19,940 --> 00:06:21,980
+means that if we round down, we get 
+
+138
+00:06:21,980 --> 00:06:24,960
+476,370. 
+
+139
+00:06:27,040 --> 00:06:29,160
+If we now round to hundreds, 
+
+140
+00:06:29,240 --> 00:06:30,620
+we look at the 
+
+141
+00:06:30,620 --> 00:06:33,040
+tens digit. The 7 is greater than 
+
+142
+00:06:33,040 --> 00:06:35,560
+the 5, so we round up to 
+
+143
+00:06:35,560 --> 00:06:40,680
+476,400. Now we look at the 
+
+144
+00:06:40,680 --> 00:06:42,440
+thousands place, i.e. we 
+
+145
+00:06:42,440 --> 00:06:44,620
+look at the hundreds place. This 
+
+146
+00:06:44,620 --> 00:06:46,780
+is the number 3, which is less than 
+
+147
+00:06:46,780 --> 00:06:48,900
+5, so we round down 
+
+148
+00:06:48,900 --> 00:06:51,560
+to 476,000. 
+
+149
+00:06:55,340 --> 00:06:57,860
+Now for the rollover. When 
+
+150
+00:06:57,860 --> 00:06:59,100
+rolling over, we simply 
+
+151
+00:06:59,100 --> 00:07:00,780
+calculate with rounded numbers to 
+
+152
+00:07:00,780 --> 00:07:02,300
+quickly and easily arrive at an almost 
+
+153
+00:07:02,300 --> 00:07:05,020
+correct result. For 
+
+154
+00:07:05,020 --> 00:07:08,260
+example, if we calculate 26 and 52, 
+
+155
+00:07:08,260 --> 00:07:11,080
+that's 78, but with our 
+
+156
+00:07:11,080 --> 00:07:13,120
+rounding up and down rule we calculate 30 
+plus 
+
+157
+00:07:13,120 --> 00:07:15,620
+50, that would be 80, which is very close 
+
+158
+00:07:15,620 --> 00:07:20,220
+. If we calculate 81 minus 17, we 
+
+159
+00:07:20,220 --> 00:07:23,240
+get 64. With our rule 
+
+160
+00:07:23,240 --> 00:07:26,360
+, we calculate 80 minus 20, which means 
+
+161
+00:07:26,360 --> 00:07:29,760
+we get 60. If we 
+
+162
+00:07:29,760 --> 00:07:31,820
+calculate 610 plus 370, we actually get 
+
+163
+00:07:31,820 --> 00:07:36,300
+980 or we calculate 600 plus 400 
+
+164
+00:07:36,300 --> 00:07:39,540
+and get 1000. Exactly, 
+
+165
+00:07:39,540 --> 00:07:40,980
+you can also 
+
+166
+00:07:40,980 --> 00:07:42,540
+look at the other examples , the principle 
+is actually 
+
+167
+00:07:42,540 --> 00:07:44,600
+always the same. 
+
+168
+00:07:47,340 --> 00:07:49,580
+The bottom example is 
+
+169
+00:07:49,580 --> 00:07:51,320
+rounded differently, once to 
+
+170
+00:07:51,320 --> 00:07:53,580
+the 100th digit and once to the 
+
+171
+00:07:53,580 --> 00:07:57,000
+10th digit. Exactly, 
+
+172
+00:08:00,230 --> 00:08:02,450
+but the results always 
+
+173
+00:08:02,450 --> 00:08:02,750
+almost match . 
+
+174
+00:08:09,420 --> 00:08:11,020
+
+175
+00:08:11,020 --> 00:08:12,400
+Is there a question about rounding and 
+rolling over? 
+
+176
+00:08:25,060 --> 00:08:27,130
+In which class do you find this? 
+
+177
+00:08:27,290 --> 00:08:28,690
+What class do you mean? 
+
+178
+00:08:31,210 --> 00:08:32,250
+At school. 
+
+179
+00:08:40,260 --> 00:08:43,250
+Huh? What do you mean by 5.8? 
+
+180
+00:08:54,120 --> 00:08:56,980
+Oh, at school. At school 
+
+181
+00:08:56,980 --> 00:08:59,340
+they often round in elementary school, 
+
+182
+00:08:59,380 --> 00:09:02,260
+but also at the beginning of 
+
+183
+00:09:02,260 --> 00:09:04,100
+secondary school. That means that fifth, 
+
+184
+00:09:04,140 --> 00:09:05,740
+sixth and seventh are 
+
+185
+00:09:05,740 --> 00:09:07,880
+rounded again and practiced. 
+
+186
+00:09:07,880 --> 00:09:09,700
+However, rounding is always important, 
+
+187
+00:09:10,040 --> 00:09:12,600
+because when odd numbers come in, 
+
+188
+00:09:12,680 --> 00:09:13,740
+you only ever enter two 
+
+189
+00:09:13,740 --> 00:09:15,660
+decimal places and then you 
+
+190
+00:09:15,660 --> 00:09:17,520
+also have to round, even in the upper 
+
+191
+00:09:17,520 --> 00:09:18,700
+levels. Then 
+
+192
+00:09:23,590 --> 00:09:24,810
+
+193
+00:09:29,450 --> 00:09:30,830
+we continue with the Roman numerals 
+
+194
+00:09:30,830 --> 00:09:34,450
+and the system of two. Roman 
+
+195
+00:09:34,450 --> 00:09:36,490
+numerals are number symbols from 
+
+196
+00:09:36,490 --> 00:09:38,050
+Roman antiquity and are still used 
+
+197
+00:09:38,050 --> 00:09:39,870
+today for numbers and special 
+
+198
+00:09:39,870 --> 00:09:42,290
+purposes. 
+
+199
+00:09:42,290 --> 00:09:44,190
+The symbols replace the natural numbers. 
+
+200
+00:09:44,650 --> 00:09:46,710
+The symbols are 
+
+201
+00:09:46,710 --> 00:09:49,230
+arranged in order of size. You 
+
+202
+00:09:49,230 --> 00:09:50,910
+start with the largest symbol and 
+
+203
+00:09:50,910 --> 00:09:52,790
+end the number with the smallest 
+
+204
+00:09:52,790 --> 00:09:55,170
+symbol. However, if a smaller 
+
+205
+00:09:55,170 --> 00:09:58,070
+symbol is placed before a larger symbol, 
+
+206
+00:09:58,070 --> 00:09:59,850
+the smaller symbol is 
+
+207
+00:09:59,850 --> 00:10:01,610
+subtracted from the larger one. These are 
+simply the 
+
+208
+00:10:01,610 --> 00:10:03,530
+generic rules. 
+
+209
+00:10:03,530 --> 00:10:05,710
+Let's take a look at this. We 
+
+210
+00:10:05,710 --> 00:10:08,730
+simply have one bar for the 1, 
+
+211
+00:10:08,730 --> 00:10:10,990
+two bars for the 2 and three bars for the 
+3. 
+
+212
+00:10:11,030 --> 00:10:12,970
+The important thing with Roman numerals 
+
+213
+00:10:12,970 --> 00:10:15,430
+is that the 
+
+214
+00:10:15,430 --> 00:10:17,210
+same symbol must never appear more than 
+three times in succession. 
+
+215
+00:10:17,510 --> 00:10:19,050
+This means that to make the 4, 
+
+216
+00:10:19,170 --> 00:10:21,730
+we write a 1 in front of the 5 and 
+
+217
+00:10:21,730 --> 00:10:23,910
+calculate 5 minus 1, because the 
+
+218
+00:10:23,910 --> 00:10:25,830
+smaller symbol is in front of the larger 
+one. 
+
+219
+00:10:26,230 --> 00:10:27,850
+And it continues like this. Then 
+
+220
+00:10:27,850 --> 00:10:29,230
+we have the 
+
+221
+00:10:29,230 --> 00:10:31,270
+same thing again with the 9 , the x stands 
+for a 10, 
+
+222
+00:10:31,530 --> 00:10:33,870
+so we write a 1 in front of the 
+
+223
+00:10:33,870 --> 00:10:35,830
+10 and use it to calculate 10 minus 1. 
+
+224
+00:10:37,510 --> 00:10:40,990
+Then there are a few 
+
+225
+00:10:40,990 --> 00:10:45,650
+more symbols, for example the L 
+
+226
+00:10:45,650 --> 00:10:48,370
+stands for 50, the C for 100, 
+
+227
+00:10:48,670 --> 00:10:52,210
+the D for 500 and the M for 1000. And 
+
+228
+00:10:52,210 --> 00:10:53,790
+if we 
+
+229
+00:10:53,790 --> 00:10:56,210
+wanted to write 2018, for example, we 
+would 
+
+230
+00:10:56,210 --> 00:10:58,210
+write the M twice, so 
+
+231
+00:10:58,210 --> 00:11:02,350
+1000 plus 1000, then a 10, that 
+
+232
+00:11:02,350 --> 00:11:06,250
+would be the X, then the 5 and then 
+
+233
+00:11:06,250 --> 00:11:08,590
+three times the 1. And then we would 
+
+234
+00:11:08,590 --> 00:11:11,010
+calculate 1000 plus 1000 plus 10 plus 
+
+235
+00:11:11,010 --> 00:11:13,650
+5 plus 1 plus 1 plus 1 and 
+
+236
+00:11:13,650 --> 00:11:15,430
+then we would arrive at 2018. 
+
+237
+00:11:19,280 --> 00:11:21,380
+Now for the system of two, are there 
+
+238
+00:11:21,380 --> 00:11:22,840
+any questions about the Roman 
+
+239
+00:11:22,840 --> 00:11:23,180
+numerals? 
+
+240
+00:11:30,170 --> 00:11:31,930
+Okay, then we come to the 
+
+241
+00:11:31,930 --> 00:11:34,690
+two-system. The two-system 
+
+242
+00:11:34,690 --> 00:11:36,290
+number system, which is 
+
+243
+00:11:36,290 --> 00:11:37,890
+
+244
+00:11:37,890 --> 00:11:40,270
+limited to only two digits when 
+representing natural numbers and 
+
+245
+00:11:40,270 --> 00:11:43,390
+these digits are the two numbers 
+
+246
+00:11:43,390 --> 00:11:46,270
+0 and 1. The two-system 
+
+247
+00:11:46,270 --> 00:11:48,430
+is also 
+
+248
+00:11:48,430 --> 00:11:51,150
+called the dual system or binary system 
+and computers and electrical 
+
+249
+00:11:51,150 --> 00:11:53,350
+devices calculate in the two-system by 
+
+250
+00:11:53,350 --> 00:11:55,170
+
+251
+00:11:55,170 --> 00:11:58,130
+interpreting electrical signals as a digit 
+0 is off and 1 is on. 
+
+252
+00:11:59,490 --> 00:12:00,990
+Let's take another quick look at 
+
+253
+00:12:00,990 --> 00:12:03,410
+how this works. Natural 
+
+254
+00:12:03,410 --> 00:12:04,370
+numbers consist of different 
+
+255
+00:12:04,370 --> 00:12:06,610
+digits. There are ones, tens, 
+
+256
+00:12:06,650 --> 00:12:08,490
+hundreds, thousands, tens of thousands 
+
+257
+00:12:08,490 --> 00:12:11,110
+and so on. And since we 
+
+258
+00:12:11,110 --> 00:12:13,350
+only have two numbers in a system, there 
+are 
+
+259
+00:12:13,350 --> 00:12:15,290
+other digits here. Namely the 
+
+260
+00:12:15,290 --> 00:12:18,330
+ones, twos, fours, eights 
+
+261
+00:12:18,450 --> 00:12:20,870
+, sixteens and two-thirties and so 
+
+262
+00:12:20,870 --> 00:12:24,170
+on . So we always 
+
+263
+00:12:24,170 --> 00:12:26,410
+start with 1 and always multiply by 2 to 
+
+264
+00:12:26,450 --> 00:12:29,650
+get to the next largest digit 
+
+265
+00:12:29,650 --> 00:12:32,550
+. Let's take a look at this in 
+
+266
+00:12:32,550 --> 00:12:35,490
+the table. There we also have 
+
+267
+00:12:35,490 --> 00:12:36,950
+another place value table in the 
+
+268
+00:12:36,950 --> 00:12:41,030
+system of two. As you can see, we 
+
+269
+00:12:41,030 --> 00:12:43,710
+now have 1s, 2s, 4s, 8s, 16s 
+
+270
+00:12:43,710 --> 00:12:47,070
+and 32s. This means that to 
+
+271
+00:12:47,070 --> 00:12:49,710
+get to 1, we would calculate a 1. 
+
+272
+00:12:52,310 --> 00:12:54,110
+You can just have a quick 
+
+273
+00:12:54,110 --> 00:12:56,010
+look at them , it's actually relatively 
+
+274
+00:12:56,010 --> 00:12:57,270
+self-explanatory. 
+
+275
+00:13:00,230 --> 00:13:02,150
+To write a 7, you would 
+
+276
+00:13:02,150 --> 00:13:04,510
+have a 1, 1, 1 as a dual number, because 
+
+277
+00:13:04,510 --> 00:13:07,570
+we would calculate 4 plus 2 plus 1. 
+
+278
+00:13:12,830 --> 00:13:16,900
+Exactly. Here we have more 
+
+279
+00:13:16,900 --> 00:13:19,620
+examples. For example, to get to 15 
+
+280
+00:13:19,620 --> 00:13:22,180
+, we would 
+
+281
+00:13:22,300 --> 00:13:24,760
+write 4, 1, nope, 1, 2, 3, 4, 1 in a row, 
+
+282
+00:13:24,760 --> 00:13:27,360
+because we would 
+
+283
+00:13:27,360 --> 00:13:31,920
+calculate 8 plus 4 plus 2 plus 1. Exactly, 
+and then 
+
+284
+00:13:31,920 --> 00:13:33,320
+you can see that there are sometimes zeros 
+
+285
+00:13:33,320 --> 00:13:34,800
+in between, for example, to get to 
+
+286
+00:13:34,800 --> 00:13:37,940
+10, we calculate 8 plus 2, 
+
+287
+00:13:38,540 --> 00:13:40,120
+but of course we have 
+
+288
+00:13:40,120 --> 00:13:42,060
+left out the 4 and the 1 digit, so 
+
+289
+00:13:42,060 --> 00:13:43,680
+there is a zero in there, so at noon 
+
+290
+00:13:43,680 --> 00:13:46,640
+we represent the 10, a 1 0 1 0. 
+
+291
+00:13:48,240 --> 00:13:50,360
+Is the two system roughly 
+
+292
+00:13:50,360 --> 00:13:52,240
+clear to you ? Have you understood it? 
+
+293
+00:13:57,020 --> 00:13:59,800
+Yes? Okay, because that brings us to 
+
+294
+00:13:59,800 --> 00:14:01,880
+the end. Thank you 
+
+295
+00:14:01,880 --> 00:14:03,780
+for your attention and if 
+
+296
+00:14:03,780 --> 00:14:05,200
+you still have any questions 
+
+297
+00:14:05,200 --> 00:14:07,520
+, please feel free to ask them and 
+
+298
+00:14:07,520 --> 00:14:09,280
+otherwise you are 
+
+299
+00:14:09,280 --> 00:14:11,320
+welcome to leave this webinar . I hope you 
+have a 
+
+300
+00:14:11,320 --> 00:14:15,180
+great weekend. Exactly. 
+
+301
+00:14:20,630 --> 00:14:22,130
+Have a nice weekend. Bye. 

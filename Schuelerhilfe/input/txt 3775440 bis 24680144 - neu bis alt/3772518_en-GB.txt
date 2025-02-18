@@ -1,0 +1,690 @@
+﻿1
+00:00:03,920 --> 00:00:06,180
+Hello, my name is Nick and I am a 
+
+2
+00:00:06,180 --> 00:00:07,700
+tutor at Schülerhilfe. 
+
+3
+00:00:07,740 --> 00:00:09,940
+Today I would like to explain to you 
+something about 
+
+4
+00:00:09,940 --> 00:00:11,880
+material cycling ecosystems with 
+
+5
+00:00:11,880 --> 00:00:13,300
+a focus on the food chain. 
+
+6
+00:00:13,940 --> 00:00:15,560
+When it comes to sustainability and 
+
+7
+00:00:15,560 --> 00:00:17,240
+environmental protection, 
+
+8
+00:00:17,240 --> 00:00:18,680
+our diet plays a particularly important 
+role. 
+
+9
+00:00:19,160 --> 00:00:21,080
+Eating a lot of meat can not only 
+
+10
+00:00:21,080 --> 00:00:23,040
+be healthy, it is also 
+
+11
+00:00:23,040 --> 00:00:24,040
+
+12
+00:00:24,040 --> 00:00:25,960
+problematic from an agricultural point of 
+view, as it is 
+
+13
+00:00:25,960 --> 00:00:27,900
+more energy-intensive to produce animal 
+products 
+
+14
+00:00:27,900 --> 00:00:30,220
+than plant products. 
+
+15
+00:00:30,220 --> 00:00:31,860
+This means that more land, 
+
+16
+00:00:31,900 --> 00:00:34,060
+water etc. is required to produce the same 
+
+17
+00:00:34,060 --> 00:00:36,340
+amount of nutrients. In addition to 
+
+18
+00:00:36,340 --> 00:00:38,240
+Germany, there are many other 
+
+19
+00:00:38,240 --> 00:00:39,600
+countries that have 
+
+20
+00:00:39,600 --> 00:00:41,100
+achieved a certain level of 
+
+21
+00:00:41,100 --> 00:00:43,020
+prosperity as a result of globalization 
+and where 
+
+22
+00:00:43,020 --> 00:00:44,520
+the diet of the affluent 
+
+23
+00:00:44,520 --> 00:00:45,980
+sections of the population is becoming 
+increasingly 
+
+24
+00:00:45,980 --> 00:00:48,020
+meat-based. Why this 
+
+25
+00:00:48,020 --> 00:00:49,320
+change 
+
+26
+00:00:49,320 --> 00:00:51,200
+can be critical from an ecological point 
+of view becomes particularly 
+
+27
+00:00:51,200 --> 00:00:52,380
+clear when we take a closer look at 
+
+28
+00:00:52,380 --> 00:00:54,940
+food chains. The path 
+
+29
+00:00:54,940 --> 00:00:56,540
+from nutrients from forage plants 
+
+30
+00:00:56,540 --> 00:00:58,640
+to animals to humans can 
+
+31
+00:00:58,640 --> 00:01:00,220
+be depicted in food pyramids. 
+
+32
+00:01:01,060 --> 00:01:03,060
+The four levels of the food pyramid 
+
+33
+00:01:03,060 --> 00:01:04,800
+are producer-producer, 
+
+34
+00:01:04,800 --> 00:01:07,560
+primary consumer, secondary consumer and 
+
+35
+00:01:07,560 --> 00:01:09,880
+final consumer. The individual levels 
+
+36
+00:01:09,880 --> 00:01:11,180
+of the food pyramids 
+
+37
+00:01:11,180 --> 00:01:13,320
+build on each other. The lowest level 
+
+38
+00:01:13,320 --> 00:01:15,600
+is formed by primary producers, 
+
+39
+00:01:15,620 --> 00:01:17,540
+i.e. mostly plants. This is followed by 
+the 
+
+40
+00:01:17,540 --> 00:01:18,980
+primary consumers, i.e. 
+
+41
+00:01:18,980 --> 00:01:20,380
+herbivores, the 
+
+42
+00:01:20,380 --> 00:01:22,380
+secondary consumers and finally the 
+
+43
+00:01:22,380 --> 00:01:24,280
+final consumers, both carnivores. 
+
+44
+00:01:24,520 --> 00:01:26,800
+Substances can 
+
+45
+00:01:26,800 --> 00:01:28,960
+migrate upwards through these pyramids . 
+This changes 
+
+46
+00:01:28,960 --> 00:01:30,780
+the biomass, i.e. the amount of 
+
+47
+00:01:30,780 --> 00:01:32,300
+food in the form of plants or 
+
+48
+00:01:32,300 --> 00:01:34,380
+animals, the energy 
+
+49
+00:01:34,380 --> 00:01:36,600
+contained in the food and the number of 
+individuals. The 
+
+50
+00:01:36,600 --> 00:01:38,420
+biomass and number of individuals 
+
+51
+00:01:38,420 --> 00:01:40,180
+decrease the higher up the pyramid you 
+
+52
+00:01:40,180 --> 00:01:42,320
+go. This means that there are many 
+
+53
+00:01:42,320 --> 00:01:44,040
+more plants than herbivores and 
+
+54
+00:01:44,040 --> 00:01:45,360
+many more herbivores than 
+
+55
+00:01:45,360 --> 00:01:47,400
+carnivores. This energy also 
+
+56
+00:01:47,400 --> 00:01:49,360
+
+57
+00:01:49,360 --> 00:01:52,220
+decreases by up to 90% for each level 
+passed. This is because cattle 
+
+58
+00:01:52,220 --> 00:01:53,460
+, for example, need a large proportion of 
+the 
+
+59
+00:01:53,460 --> 00:01:54,900
+energy from their feed for 
+
+60
+00:01:54,900 --> 00:01:57,960
+their own metabolism. Only 10-35% of the 
+
+61
+00:01:57,960 --> 00:01:59,540
+energy from the feed goes 
+
+62
+00:01:59,540 --> 00:02:00,980
+into the meat that we can eat. 
+
+63
+00:02:00,980 --> 00:02:02,780
+So if we humans were to 
+
+64
+00:02:02,780 --> 00:02:04,060
+consume the plant-based feed 
+
+65
+00:02:04,140 --> 00:02:05,560
+, more people could 
+
+66
+00:02:05,560 --> 00:02:07,780
+be supplied with it. A special 
+
+67
+00:02:07,780 --> 00:02:09,540
+level of the food chain, which 
+
+68
+00:02:09,540 --> 00:02:10,940
+
+69
+00:02:10,940 --> 00:02:12,420
+is mainly overlooked due to the size of 
+the animals, 
+
+70
+00:02:12,420 --> 00:02:14,520
+is formed by the destructors. Destruents 
+
+71
+00:02:14,520 --> 00:02:15,940
+are organisms that convert organic 
+
+72
+00:02:15,940 --> 00:02:17,320
+compounds into inorganic 
+
+73
+00:02:17,320 --> 00:02:19,240
+compounds. Examples include 
+
+74
+00:02:19,240 --> 00:02:21,440
+woodlice, flies, 
+
+75
+00:02:21,500 --> 00:02:24,080
+earthworms, beetles, bacteria and 
+
+76
+00:02:24,080 --> 00:02:25,960
+fungi. The name destruents means 
+
+77
+00:02:25,960 --> 00:02:28,580
+destroyers or decomposers, as they 
+
+78
+00:02:28,580 --> 00:02:30,360
+
+79
+00:02:30,360 --> 00:02:31,660
+
+80
+00:02:31,660 --> 00:02:33,500
+convert organic substances , i.e. 
+substances that are easily usable by other 
+living organisms , into inorganic 
+substances, i.e. 
+
+81
+00:02:33,500 --> 00:02:35,500
+substances that 
+
+82
+00:02:35,500 --> 00:02:37,520
+are of little use to other living 
+organisms as food. The concept 
+
+83
+00:02:37,520 --> 00:02:39,080
+of food chains sounds 
+
+84
+00:02:39,080 --> 00:02:41,640
+simple at first. 
+
+85
+00:02:41,640 --> 00:02:43,040
+However, the reality is much 
+
+86
+00:02:43,040 --> 00:02:45,500
+more complex. Food chains are 
+
+87
+00:02:45,500 --> 00:02:47,280
+linear. They assume that 
+
+88
+00:02:47,280 --> 00:02:49,240
+each species 
+
+89
+00:02:49,240 --> 00:02:51,200
+occupies a position in the food chain. 
+
+90
+00:02:51,200 --> 00:02:52,780
+
+91
+00:02:52,780 --> 00:02:54,720
+However, if we take a closer look at 
+carnivores in particular , it becomes 
+clear that 
+
+92
+00:02:54,720 --> 00:02:56,760
+such a classification 
+
+93
+00:02:56,760 --> 00:02:58,760
+can only describe reality to a limited 
+extent. 
+
+94
+00:02:58,760 --> 00:03:00,660
+Crocodiles , for example, eat both 
+herbivores 
+
+95
+00:03:00,660 --> 00:03:02,500
+and carnivores. In order to 
+
+96
+00:03:02,500 --> 00:03:04,100
+
+97
+00:03:04,100 --> 00:03:05,660
+obtain a realistic representation of 
+energy cycles, 
+
+98
+00:03:05,660 --> 00:03:07,600
+a food web is thus created in 
+
+99
+00:03:07,600 --> 00:03:09,580
+which one species can also be part of 
+several 
+
+100
+00:03:09,580 --> 00:03:11,160
+food chains and several 
+
+101
+00:03:11,160 --> 00:03:12,720
+food chains 
+
+102
+00:03:12,720 --> 00:03:15,380
+are part of a large food web. It is 
+precisely this 
+
+103
+00:03:15,380 --> 00:03:17,080
+complexity that means that the 
+
+104
+00:03:17,080 --> 00:03:19,100
+loss of a species from one of the 
+
+105
+00:03:19,100 --> 00:03:20,560
+levels 
+
+106
+00:03:20,560 --> 00:03:22,380
+can lead to unforeseeable consequences. 
+
+107
+00:03:22,380 --> 00:03:23,780
+The following are examples of 
+
+108
+00:03:23,780 --> 00:03:25,400
+how the 
+
+109
+00:03:25,400 --> 00:03:27,080
+loss of one species 
+
+110
+00:03:27,080 --> 00:03:28,800
+can affect the entire ecosystem. 
+
+111
+00:03:29,480 --> 00:03:31,220
+Herbivores form the basis of the 
+
+112
+00:03:31,220 --> 00:03:33,440
+food chain. A 
+
+113
+00:03:33,440 --> 00:03:35,660
+few species are often common, while others 
+are rare. 
+
+114
+00:03:36,000 --> 00:03:38,240
+If one of the common species dies, there 
+are 
+
+115
+00:03:38,240 --> 00:03:39,820
+no more resources available for the 
+
+116
+00:03:39,820 --> 00:03:41,720
+carnivores. 
+
+117
+00:03:41,720 --> 00:03:43,160
+There is also the possibility that the 
+
+118
+00:03:43,160 --> 00:03:44,260
+carnivores will then 
+
+119
+00:03:44,260 --> 00:03:46,160
+hunt rarer herbivores and 
+
+120
+00:03:46,160 --> 00:03:47,520
+thus wipe out their species. 
+
+121
+00:03:48,480 --> 00:03:49,980
+Carnivores 
+
+122
+00:03:49,980 --> 00:03:51,520
+play an important role in the regulation 
+of 
+
+123
+00:03:51,520 --> 00:03:52,220
+herbivores 
+
+124
+00:03:56,060 --> 00:03:57,320
+Bears became 
+
+125
+00:03:57,320 --> 00:03:59,220
+so abundant that wild boar and deer 
+
+126
+00:03:59,220 --> 00:04:00,800
+now 
+
+127
+00:04:00,800 --> 00:04:02,660
+have to be hunted by us humans. If a 
+
+128
+00:04:02,660 --> 00:04:04,760
+destruent disappears , biological 
+substances are 
+
+129
+00:04:04,760 --> 00:04:06,660
+no longer broken down. If you 
+
+130
+00:04:06,660 --> 00:04:08,880
+
+131
+00:04:08,880 --> 00:04:10,780
+visit the island mountain Uluru in 
+Australia , you will notice the effects 
+
+132
+00:04:10,780 --> 00:04:12,920
+of this. In Australia, there 
+
+133
+00:04:12,920 --> 00:04:14,500
+are no dung beetles 
+
+134
+00:04:14,500 --> 00:04:16,080
+
+135
+00:04:16,080 --> 00:04:18,700
+to decompose the remains of cows and 
+sheep. As a result, 
+
+136
+00:04:18,700 --> 00:04:20,120
+you will be 
+
+137
+00:04:25,060 --> 00:04:26,920
+able to build on every step. So why is it 
+
+138
+00:04:26,920 --> 00:04:28,660
+biologically questionable if 
+
+139
+00:04:28,660 --> 00:04:30,020
+more and more people are at the top of the 
+
+140
+00:04:30,020 --> 00:04:32,540
+food chain? The 
+
+141
+00:04:32,540 --> 00:04:34,560
+energy content and biomass 
+
+142
+00:04:34,560 --> 00:04:37,300
+decrease by up to 90% from step to step. 
+In 
+
+143
+00:04:37,300 --> 00:04:39,100
+practice, this means that 
+
+144
+00:04:39,100 --> 00:04:40,980
+up to 100 kg 
+
+145
+00:04:40,980 --> 00:04:43,100
+of plant material is needed for 10 kg of 
+meat . In reality, 
+
+146
+00:04:43,100 --> 00:04:44,840
+the resources required 
+
+147
+00:04:44,840 --> 00:04:46,360
+for meat production are significantly 
+higher. 
+
+148
+00:04:46,840 --> 00:04:48,440
+In addition to plants, 
+
+149
+00:04:48,440 --> 00:04:50,000
+clean water, space and 
+
+150
+00:04:50,000 --> 00:04:51,360
+medicines are also needed to raise 
+
+151
+00:04:51,360 --> 00:04:53,020
+cattle for slaughter. The more 
+
+152
+00:04:53,020 --> 00:04:54,540
+people eat meat, the 
+
+153
+00:04:54,580 --> 00:04:57,360
+more arable land is 
+
+154
+00:04:57,360 --> 00:04:59,220
+needed for animal feed. 
+
+155
+00:04:59,220 --> 00:05:01,440
+Forests are cleared and ecosystems 
+
+156
+00:05:01,440 --> 00:05:03,320
+destroyed. However, the problem is not 
+
+157
+00:05:03,320 --> 00:05:05,220
+meat consumption per se, but 
+
+158
+00:05:05,220 --> 00:05:06,500
+that the number of people in the world 
+
+159
+00:05:06,500 --> 00:05:08,560
+
+160
+00:05:08,560 --> 00:05:09,960
+has increased so much in recent centuries 
+that we 
+
+161
+00:05:09,960 --> 00:05:12,280
+
+162
+00:05:12,280 --> 00:05:13,760
+
+163
+00:05:13,760 --> 00:05:13,980
+
+164
+00:05:19,640 --> 00:05:20,820
+
+165
+00:05:20,820 --> 00:05:22,820
+have to share natural resources such as 
+food and water more intelligently , have 
+ecosystems and especially food chains. 
+Glad you could 
+
+166
+00:05:22,820 --> 00:05:24,340
+join us and see you next 
+
+167
+00:05:24,340 --> 00:05:24,560
+time. 

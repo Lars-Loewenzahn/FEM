@@ -1,0 +1,1020 @@
+1
+00:00:00,270 --> 00:00:02,430
+Herzlich willkommen zu den Lernvideos
+
+2
+00:00:02,430 --> 00:00:04,870
+der Schülerhilfe. In diesem Modul
+
+3
+00:00:04,870 --> 00:00:06,670
+beschäftigen wir uns damit, wie man
+
+4
+00:00:06,670 --> 00:00:08,770
+mit Informationen arbeitet und einen
+
+5
+00:00:08,770 --> 00:00:10,410
+wissenschaftlichen Text erstellt.
+
+6
+00:00:12,540 --> 00:00:14,540
+Dabei werden wir uns mit folgenden
+
+7
+00:00:14,540 --> 00:00:17,860
+Punkten befassen. Sprache, Form und
+
+8
+00:00:17,860 --> 00:00:19,540
+Aufbau eines wissenschaftlichen
+
+9
+00:00:19,540 --> 00:00:23,400
+Textes, das Seitenlayout, die
+
+10
+00:00:23,400 --> 00:00:26,760
+Zitierweise und Zitatformen, sowie
+
+11
+00:00:26,760 --> 00:00:28,060
+die Quellenangaben.
+
+12
+00:00:30,380 --> 00:00:32,960
+Fangen wir an. Wie schreibe ich...
+
+13
+00:00:32,980 --> 00:00:34,160
+einen wissenschaftlichen Text.
+
+14
+00:00:37,750 --> 00:00:39,430
+Wissenschaftlich schreiben bedeutet
+
+15
+00:00:39,430 --> 00:00:43,470
+sachlich schreiben. Keine Gefühle,
+
+16
+00:00:43,470 --> 00:00:46,730
+Meinungen oder Wertungen. Keine
+
+17
+00:00:46,730 --> 00:00:48,470
+inneren Handlungen, also Gedanken
+
+18
+00:00:48,470 --> 00:00:51,950
+oder Monologe. Verwendung von
+
+19
+00:00:51,950 --> 00:00:53,770
+indirekter statt wörtlicher Rede.
+
+20
+00:00:54,890 --> 00:00:57,630
+Eine knappe, aber genaue Beschreibung
+
+21
+00:00:57,630 --> 00:01:01,580
+der Dinge. Eine objektive Sichtweise.
+
+22
+00:01:02,360 --> 00:01:04,120
+Daher solltest du keine Ich-Form
+
+23
+00:01:04,120 --> 00:01:04,640
+verwenden.
+
+24
+00:01:08,370 --> 00:01:11,570
+Beispiel. Plötzlich schepperte es
+
+25
+00:01:11,570 --> 00:01:14,250
+laut. Lauri erschrak und sah in der
+
+26
+00:01:14,250 --> 00:01:15,750
+Dunkelheit des Wohnzimmers einen
+
+27
+00:01:15,750 --> 00:01:17,610
+Schatten, der sich langsam auf sie
+
+28
+00:01:17,610 --> 00:01:20,810
+zubewegte. Dieser Satz gehört in eine
+
+29
+00:01:20,810 --> 00:01:21,430
+Erzählung.
+
+30
+00:01:24,470 --> 00:01:26,510
+Will man sachlich von diesem Ereignis
+
+31
+00:01:26,510 --> 00:01:28,490
+berichten, müsste es etwa heißen,
+
+32
+00:01:28,510 --> 00:01:30,770
+nachdem Lauri hörte, wie der
+
+33
+00:01:30,770 --> 00:01:33,190
+Einbrecher das Fenster einschlug, sah
+
+34
+00:01:33,190 --> 00:01:34,910
+sie ihn durch das Wohnzimmer in die
+
+35
+00:01:34,910 --> 00:01:40,070
+Wohnung einsteigen. Form und Aufbau.
+
+36
+00:01:40,190 --> 00:01:41,050
+Bei
+
+37
+00:01:43,480 --> 00:01:45,280
+längeren wissenschaftlichen Arbeiten
+
+38
+00:01:45,280 --> 00:01:48,300
+ist der Aufbau wie folgt. Das
+
+39
+00:01:48,300 --> 00:01:51,240
+Deckblatt enthält zunächst Thema, Vor
+
+40
+00:01:51,240 --> 00:01:53,900
+- und Nachname des Verfassers, das
+
+41
+00:01:53,900 --> 00:01:57,800
+Abgabedatum und weitere Angaben. Es
+
+42
+00:01:59,140 --> 00:02:00,620
+folgt das obligatorische
+
+43
+00:02:00,620 --> 00:02:03,900
+Inhaltsverzeichnis. Meistens folgen
+
+44
+00:02:03,900 --> 00:02:05,640
+dann weitere Verzeichnisse wie
+
+45
+00:02:05,640 --> 00:02:07,520
+Abkürzungs-, Abbildungs- und
+
+46
+00:02:07,540 --> 00:02:11,260
+Tabellenverzeichnisse. Als nächstes
+
+47
+00:02:11,260 --> 00:02:13,460
+kommt der Text, also der Hauptteil
+
+48
+00:02:13,460 --> 00:02:16,540
+der wissenschaftlichen Arbeit. Danach
+
+49
+00:02:16,540 --> 00:02:18,320
+folgen noch der Anhang, das
+
+50
+00:02:18,320 --> 00:02:20,080
+Literaturverzeichnis mit allen
+
+51
+00:02:20,080 --> 00:02:22,260
+Quellenangaben, sowie eine
+
+52
+00:02:22,260 --> 00:02:24,160
+eidesstattliche Erklärung, dass die
+
+53
+00:02:24,160 --> 00:02:26,060
+Arbeit selbstständig verfasst wurde.
+
+54
+00:02:28,150 --> 00:02:30,290
+Bei wissenschaftlichen Texten gibt es
+
+55
+00:02:30,290 --> 00:02:32,070
+generell die drei Bereiche
+
+56
+00:02:32,070 --> 00:02:36,110
+Einleitung, Hauptteil, Schluss mit
+
+57
+00:02:36,110 --> 00:02:39,760
+Angaben von Quellen. In der
+
+58
+00:02:39,760 --> 00:02:41,620
+Einleitung wird die Vorgehensweise
+
+59
+00:02:41,620 --> 00:02:43,040
+der Bearbeitung sowie die
+
+60
+00:02:43,040 --> 00:02:46,440
+Problemstellung erläutert. Der
+
+61
+00:02:46,440 --> 00:02:47,800
+Hauptteil befasst sich mit der
+
+62
+00:02:47,800 --> 00:02:51,020
+Darstellung verschiedener Punkte. Im
+
+63
+00:02:51,020 --> 00:02:52,400
+Schlussteil wird mittels einer
+
+64
+00:02:52,400 --> 00:02:54,240
+Zusammenfassung ein gedanklicher
+
+65
+00:02:54,240 --> 00:02:55,580
+Bogen zur Problemstellung
+
+66
+00:02:55,580 --> 00:02:58,360
+aufgespannt. Es ist hier auch Platz
+
+67
+00:02:58,360 --> 00:03:00,540
+für einen Ausblick bzw. eine
+
+68
+00:03:00,540 --> 00:03:04,550
+Reflexion. Schauen wir uns einige
+
+69
+00:03:04,550 --> 00:03:09,680
+Hinweise zum Seitenlayout an. Für die
+
+70
+00:03:09,680 --> 00:03:12,100
+Seitenränder gilt oben und unten 3
+
+71
+00:03:12,100 --> 00:03:17,260
+cm, links 4 cm und rechts 2 cm Platz
+
+72
+00:03:17,260 --> 00:03:19,980
+lassen. Wähle einen gängigen
+
+73
+00:03:19,980 --> 00:03:22,500
+Schrifttyp wie zum Beispiel Times New
+
+74
+00:03:22,500 --> 00:03:26,580
+Roman oder Arial. Wähle Schriftgröße
+
+75
+00:03:26,580 --> 00:03:28,960
+12, wobei die Überschriften natürlich
+
+76
+00:03:28,960 --> 00:03:32,320
+größer sein dürfen. Formatiere den
+
+77
+00:03:32,320 --> 00:03:34,400
+Text im Blocksatz und verwende die
+
+78
+00:03:34,400 --> 00:03:37,900
+automatische Silbentrennung. Wähle 1
+
+79
+00:03:37,900 --> 00:03:41,460
+,5-fachen Zeilenabstand. Alle Seiten
+
+80
+00:03:41,460 --> 00:03:43,640
+sollten nummeriert sein, bis auf das
+
+81
+00:03:43,640 --> 00:03:46,160
+Deckblatt. Dabei beginnt die Zählung
+
+82
+00:03:46,160 --> 00:03:51,040
+beim Deckblatt als Seite 1. Bei
+
+83
+00:03:51,040 --> 00:03:52,660
+längeren wissenschaftlichen Arbeiten
+
+84
+00:03:52,660 --> 00:03:54,780
+gilt, Deckblatt ohne
+
+85
+00:03:54,780 --> 00:03:57,920
+Seitennummerierung. Das Inhalts-,
+
+86
+00:03:57,920 --> 00:04:00,420
+Abkürzungs-, Abbildungs-, Anhangs-
+
+87
+00:04:00,420 --> 00:04:02,680
+und Literaturverzeichnis wird mit
+
+88
+00:04:02,680 --> 00:04:05,580
+römischen Ziffern durchgezählt. Der
+
+89
+00:04:05,580 --> 00:04:07,580
+Text und der Anhang wird mit
+
+90
+00:04:07,580 --> 00:04:09,020
+arabischen Ziffern nummeriert.
+
+91
+00:04:10,520 --> 00:04:13,840
+Zitierweise und Zitatformen. Alle
+
+92
+00:04:15,090 --> 00:04:18,090
+Gedanken von bzw. Anlehnungen an
+
+93
+00:04:18,090 --> 00:04:19,410
+andere Verfasser müssen
+
+94
+00:04:19,410 --> 00:04:21,670
+gekennzeichnet, also zitiert werden.
+
+95
+00:04:22,510 --> 00:04:25,150
+Dies dient der Nachprüfbarkeit der im
+
+96
+00:04:25,150 --> 00:04:28,510
+Text aufgestellten Aussagen. Die
+
+97
+00:04:28,510 --> 00:04:29,830
+Grundsätze beim Zitieren
+
+98
+00:04:31,510 --> 00:04:33,870
+Unmittelbarkeit. Zitate sollten immer
+
+99
+00:04:33,870 --> 00:04:35,470
+aus der Originalquelle entnommen
+
+100
+00:04:35,470 --> 00:04:39,630
+sein. Zweckmäßigkeit. Zitate sollten
+
+101
+00:04:39,630 --> 00:04:41,550
+nur das enthalten, was der Verfasser
+
+102
+00:04:41,550 --> 00:04:45,550
+belegen möchte. Genauigkeit. Die
+
+103
+00:04:45,550 --> 00:04:47,450
+Quellenangaben sollten ausreichend
+
+104
+00:04:47,450 --> 00:04:49,310
+sein und eindeutig gekennzeichnet
+
+105
+00:04:49,310 --> 00:04:53,450
+werden. Quellen müssen an zwei
+
+106
+00:04:53,450 --> 00:04:55,190
+Stellen kenntlich gemacht werden.
+
+107
+00:04:56,290 --> 00:04:59,010
+Zunächst als Kurzbeleg direkt im
+
+108
+00:04:59,010 --> 00:05:01,870
+Text. Die Quellenangabe wird dabei in
+
+109
+00:05:01,870 --> 00:05:03,550
+Klammern hinter dem Satzzeichen
+
+110
+00:05:03,550 --> 00:05:06,650
+geschrieben. Bei bis zu zwei Autoren
+
+111
+00:05:06,650 --> 00:05:08,270
+werden die Nachnamen der Autoren
+
+112
+00:05:08,270 --> 00:05:10,810
+aufgezählt, das Jahr der Publikation
+
+113
+00:05:10,810 --> 00:05:14,510
+sowie die Seitenzahl genannt. Ab drei
+
+114
+00:05:14,510 --> 00:05:16,810
+Autoren wird der Name des Erstautors
+
+115
+00:05:16,810 --> 00:05:19,170
+genannt und die Abkürzung et al.
+
+116
+00:05:20,050 --> 00:05:22,030
+Danach folgt wieder das Jahr und die
+
+117
+00:05:22,030 --> 00:05:25,430
+Seitenzahl. et al. ist die Abkürzung
+
+118
+00:05:25,430 --> 00:05:29,090
+für das Lateinische et alii, was und
+
+119
+00:05:29,090 --> 00:05:33,250
+andere bedeutet. Zweitens als
+
+120
+00:05:33,250 --> 00:05:35,270
+Vollbeleg im Literaturverzeichnis.
+
+121
+00:05:35,910 --> 00:05:38,270
+Das Literaturverzeichnis wird als
+
+122
+00:05:38,270 --> 00:05:39,910
+neues Blatt am Ende der Arbeit
+
+123
+00:05:39,910 --> 00:05:43,050
+eingefügt. Die Form des Vollbelegs
+
+124
+00:05:43,050 --> 00:05:45,050
+sehen wir uns auf den nächsten Folien
+
+125
+00:05:45,050 --> 00:05:49,350
+an. Von Fußnoten raten wir ab, das zu
+
+126
+00:05:49,350 --> 00:05:51,150
+Seitenumbrüchen innerhalb der
+
+127
+00:05:51,150 --> 00:05:52,970
+Fußnoten. kommen kann und dies
+
+128
+00:05:52,970 --> 00:05:55,150
+unübersichtlich wirkt. Beim
+
+129
+00:05:57,170 --> 00:05:59,910
+wörtlichen oder direkten Zitat werden
+
+130
+00:05:59,910 --> 00:06:03,210
+Sätze, Satzteile, Begriffe oder
+
+131
+00:06:03,210 --> 00:06:05,390
+Definitionen im Wortlaut übernommen.
+
+132
+00:06:05,850 --> 00:06:08,390
+Es muss in Anführungszeichen gesetzt
+
+133
+00:06:08,390 --> 00:06:10,490
+werden und es muss mit dem
+
+134
+00:06:10,490 --> 00:06:12,110
+Originaltext übereinstimmen.
+
+135
+00:06:13,870 --> 00:06:15,510
+Zitatauslassungen werden dabei durch
+
+136
+00:06:15,510 --> 00:06:17,430
+eckige Klammern und drei Punkte
+
+137
+00:06:17,430 --> 00:06:20,430
+gekennzeichnet. Zitatunterbrechungen
+
+138
+00:06:20,430 --> 00:06:23,250
+durch drei Punkte. Zitat
+
+139
+00:06:23,250 --> 00:06:25,090
+-Erweiterungen können in Klammern
+
+140
+00:06:25,090 --> 00:06:27,250
+gesetzt und mit Anmerkung des
+
+141
+00:06:27,250 --> 00:06:30,670
+Verfassers gekennzeichnet werden. Für
+
+142
+00:06:30,670 --> 00:06:32,610
+Zitat-interne Anführungsstriche
+
+143
+00:06:32,610 --> 00:06:34,650
+werden einfache Anführungsstriche
+
+144
+00:06:34,650 --> 00:06:35,210
+verwendet.
+
+145
+00:06:37,710 --> 00:06:40,190
+Beim indirekten Zitat handelt es sich
+
+146
+00:06:40,190 --> 00:06:42,650
+um eine Übernahme von Gedanken oder
+
+147
+00:06:42,650 --> 00:06:46,390
+eine Anlehnung an andere Autoren. Es
+
+148
+00:06:46,390 --> 00:06:48,450
+wird durch den Zusatz Vergleiche
+
+149
+00:06:48,450 --> 00:06:51,370
+kenntlich gemacht. Es ist darauf zu
+
+150
+00:06:51,370 --> 00:06:52,850
+achten, dass der Umfang der
+
+151
+00:06:52,850 --> 00:06:54,930
+sinngemäßen Übernahme deutlich ist.
+
+152
+00:06:57,520 --> 00:06:58,340
+Quellenangaben
+
+153
+00:07:00,960 --> 00:07:03,800
+Wichtig ist, dass die Zitierweise in
+
+154
+00:07:03,800 --> 00:07:05,200
+deinem Text einheitlich ist.
+
+155
+00:07:05,920 --> 00:07:07,960
+Wechselnde Zitierweisen wirken
+
+156
+00:07:07,960 --> 00:07:10,680
+unprofessionell. Die hier
+
+157
+00:07:10,680 --> 00:07:12,580
+vorgestellten Zitierformen sind
+
+158
+00:07:12,580 --> 00:07:15,500
+Vorschläge der Schülerhilfe. Es ist
+
+159
+00:07:15,500 --> 00:07:17,780
+möglich, dass dein Lehrer bzw. deine
+
+160
+00:07:17,780 --> 00:07:20,160
+Lehrerin eine andere Richtlinie zum
+
+161
+00:07:20,160 --> 00:07:22,500
+Zitieren wünscht. Kläre die
+
+162
+00:07:22,500 --> 00:07:23,240
+Zitierformen. deshalb vorher ab,
+
+163
+00:07:23,360 --> 00:07:25,240
+welche Zitierweise zu verwenden ist.
+
+164
+00:07:29,550 --> 00:07:32,090
+Im Literaturverzeichnis sollten die
+
+165
+00:07:32,090 --> 00:07:34,250
+Angaben in alphabetischer Reihenfolge
+
+166
+00:07:34,250 --> 00:07:36,370
+nach den Nachnamen der Erstautoren
+
+167
+00:07:36,370 --> 00:07:39,370
+sortiert werden. Bei Quellen ohne
+
+168
+00:07:39,370 --> 00:07:41,270
+Verfasserangaben sind diese im
+
+169
+00:07:41,270 --> 00:07:46,890
+Alphabet unter O.V. anzugeben. Werke,
+
+170
+00:07:46,890 --> 00:07:48,750
+welche der Erstautor alleine verfasst
+
+171
+00:07:48,750 --> 00:07:51,190
+hat, werden vor Werken mit weiteren
+
+172
+00:07:51,190 --> 00:07:54,630
+Autoren aufgelistet. Bei gleichem
+
+173
+00:07:54,630 --> 00:07:56,590
+Erstautor, aber unterschiedlichen Co
+
+174
+00:07:56,590 --> 00:07:58,950
+-Autoren erfolgt die Sortierung nach
+
+175
+00:07:58,950 --> 00:08:01,250
+dem Nachnamen von Zweit- bzw.
+
+176
+00:08:01,790 --> 00:08:02,590
+Drittautoren.
+
+177
+00:08:07,340 --> 00:08:09,820
+Mehrere Werke eines Autors oder
+
+178
+00:08:09,820 --> 00:08:12,160
+mehrere Autoren werden chronologisch
+
+179
+00:08:12,160 --> 00:08:15,220
+nach Erscheinungsjahr sortiert. Es
+
+180
+00:08:15,220 --> 00:08:16,340
+wird also die älteste
+
+181
+00:08:16,340 --> 00:08:20,280
+Veröffentlichung zuerst genannt. Wenn
+
+182
+00:08:20,280 --> 00:08:22,480
+mehrere Quellen desselben Autors aus
+
+183
+00:08:22,480 --> 00:08:23,960
+dem selben Jahr zitiert werden,
+
+184
+00:08:24,140 --> 00:08:26,400
+erfolgt die Sortierung alphabetisch
+
+185
+00:08:26,400 --> 00:08:28,800
+nach dem ersten Buchstaben des Titels
+
+186
+00:08:28,800 --> 00:08:31,700
+des Beitrages. Es werden dann die
+
+187
+00:08:31,700 --> 00:08:33,720
+Quellen durch Kleinbuchstaben, also
+
+188
+00:08:33,720 --> 00:08:37,360
+A, B, C und so weiter, hinter dem
+
+189
+00:08:37,360 --> 00:08:38,760
+Erscheinungsjahr unterschieden.
+
+190
+00:08:41,500 --> 00:08:43,220
+Zum Schluss schauen wir uns noch
+
+191
+00:08:43,220 --> 00:08:44,340
+einige Beispiele von
+
+192
+00:08:44,340 --> 00:08:47,480
+unterschiedlichen Quellen an. Bei
+
+193
+00:08:47,480 --> 00:08:48,800
+einem Buch mit einem einzigen
+
+194
+00:08:48,800 --> 00:08:51,620
+Verfasser wird zunächst der Name und
+
+195
+00:08:51,620 --> 00:08:53,480
+die Abkürzung des Vornamens genannt.
+
+196
+00:08:54,200 --> 00:08:56,220
+Es Es folgt das Erscheinungsjahr,
+
+197
+00:08:56,260 --> 00:08:57,780
+welches in Klammern zu setzen ist.
+
+198
+00:08:59,620 --> 00:09:01,260
+Nach einem Doppelpunkt folgt die
+
+199
+00:09:01,260 --> 00:09:03,020
+Nennung von Titel und Untertitel.
+
+200
+00:09:04,400 --> 00:09:06,140
+Gegebenenfalls kann auch die Auflage
+
+201
+00:09:06,140 --> 00:09:07,460
+in Klammern genannt werden.
+
+202
+00:09:08,840 --> 00:09:10,640
+Abschließend folgt die Angabe von
+
+203
+00:09:10,640 --> 00:09:15,120
+Verlagsort und Verlag. Hier siehst du
+
+204
+00:09:15,120 --> 00:09:17,300
+ein Beispiel aus dem Buch Methodenmix
+
+205
+00:09:17,300 --> 00:09:21,660
+von B. Hoffmann, erschienen 1998 beim
+
+206
+00:09:21,660 --> 00:09:24,400
+Braunschweiger Winklers Verlag. Bei
+
+207
+00:09:25,900 --> 00:09:28,020
+einem Buch mit zwei Verfassern werden
+
+208
+00:09:28,020 --> 00:09:29,920
+die Namen der beiden Verfasser durch
+
+209
+00:09:29,920 --> 00:09:32,800
+ein Und-Zeichen getrennt. Die
+
+210
+00:09:32,800 --> 00:09:34,380
+restliche Notation bleibt gleich.
+
+211
+00:09:37,000 --> 00:09:39,300
+Hier siehst du ein Beispiel von L.
+
+212
+00:09:39,320 --> 00:09:42,320
+Haag und D. Streber mit dem Titel
+
+213
+00:09:42,320 --> 00:09:44,780
+Individuelle Förderung – Eine
+
+214
+00:09:44,780 --> 00:09:46,560
+Einführung in Theorie und Praxis.
+
+215
+00:09:47,540 --> 00:09:50,400
+Erschienen 2014 beim Weinheimer
+
+216
+00:09:50,400 --> 00:09:52,260
+Verlag Belz. Bei
+
+217
+00:09:56,100 --> 00:09:57,760
+einem Buch mit drei oder mehr
+
+218
+00:09:57,760 --> 00:09:59,860
+Verfassern werden die Namen der
+
+219
+00:09:59,860 --> 00:10:01,540
+Autoren durch Kommata getrennt.
+
+220
+00:10:04,060 --> 00:10:05,720
+Bei einem Beitrag aus einer
+
+221
+00:10:05,720 --> 00:10:07,980
+Zeitschrift ist die Notation ähnlich,
+
+222
+00:10:08,280 --> 00:10:10,080
+allerdings fällt die Angabe des
+
+223
+00:10:10,080 --> 00:10:12,860
+Verlags weg. Dafür wird der Titel der
+
+224
+00:10:12,860 --> 00:10:15,980
+Zeitschrift genannt, der Band und die
+
+225
+00:10:15,980 --> 00:10:20,070
+Seitenangaben. Hier ein Beispiel von
+
+226
+00:10:20,070 --> 00:10:23,370
+L. Haag, erschienen 2015, mit dem
+
+227
+00:10:23,370 --> 00:10:26,630
+Titel Nachhilfe, ein boomender Markt.
+
+228
+00:10:26,630 --> 00:10:29,950
+Kein Ende in Sicht. Aus der
+
+229
+00:10:29,950 --> 00:10:31,970
+Zeitschrift Lehren und Lernen, Band
+
+230
+00:10:31,970 --> 00:10:35,970
+41, Teil 2, die Seiten 13 bis 15.
+
+231
+00:10:39,890 --> 00:10:42,230
+Bei Internetquellen wird zunächst der
+
+232
+00:10:42,230 --> 00:10:44,530
+Autorenname mit abgekürzten Vornamen
+
+233
+00:10:44,530 --> 00:10:48,150
+angegeben. Sollten keine Angaben zum
+
+234
+00:10:48,150 --> 00:10:49,910
+Autor vorhanden sein, wird die
+
+235
+00:10:49,910 --> 00:10:51,710
+Institution, welche die Webseite
+
+236
+00:10:51,710 --> 00:10:54,890
+betreibt, genannt. Es folgt das Jahr
+
+237
+00:10:54,890 --> 00:10:56,430
+der Veröffentlichung, welches in
+
+238
+00:10:56,430 --> 00:10:59,330
+Klammern zu setzen ist. Wenn dazu
+
+239
+00:10:59,330 --> 00:11:00,890
+keine Angaben zu finden sind,
+
+240
+00:11:00,990 --> 00:11:04,390
+schreibt man stattdessen O.J. für
+
+241
+00:11:04,390 --> 00:11:08,270
+Ohne Jahresangabe. Danach werden
+
+242
+00:11:08,270 --> 00:11:11,830
+Titel und Untertitel genannt. Es wird
+
+243
+00:11:11,830 --> 00:11:13,630
+dann noch die URL, also die
+
+244
+00:11:13,630 --> 00:11:15,890
+Internetadresse, sowie das Datum des
+
+245
+00:11:15,890 --> 00:11:17,470
+letzten Zugriffs in Klammern
+
+246
+00:11:17,470 --> 00:11:21,330
+aufgeführt. Hier ein Beispiel des
+
+247
+00:11:21,330 --> 00:11:23,590
+Sekretariats der Ständigen Konferenz
+
+248
+00:11:23,590 --> 00:11:25,070
+der Kultusminister der Länder.
+
+249
+00:11:25,850 --> 00:11:28,810
+Veröffentlicht 2004. Mit dem Titel
+
+250
+00:11:28,810 --> 00:11:30,890
+Standards für die Lehrerbildung –
+
+251
+00:11:30,890 --> 00:11:34,090
+Bildungswissenschaften. Letzter
+
+252
+00:11:34,090 --> 00:11:36,710
+Zugriff 9. November 2016.
+
+253
+00:11:42,920 --> 00:11:44,900
+Vielen Dank für deine Aufmerksamkeit
+
+254
+00:11:44,900 --> 00:11:46,820
+und viel Erfolg beim Arbeiten mit
+
+255
+00:11:46,820 --> 00:11:47,320
+Informationen.
+

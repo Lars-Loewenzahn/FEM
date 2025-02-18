@@ -1,0 +1,2432 @@
+1
+00:00:01,810 --> 00:00:03,670
+Hallo und herzlich willkommen zum
+
+2
+00:00:03,670 --> 00:00:07,470
+Webinar der Schülerhilfe. Heute mit
+
+3
+00:00:07,470 --> 00:00:09,390
+der Textanalyse bzw. der
+
+4
+00:00:09,390 --> 00:00:11,630
+Textinterpretation. Wir wollen uns
+
+5
+00:00:11,630 --> 00:00:13,830
+also anschauen, was wir alles zur
+
+6
+00:00:13,830 --> 00:00:15,890
+Textanalyse wissen müssen. Das heißt,
+
+7
+00:00:15,950 --> 00:00:17,730
+wir werden uns zuerst den allgemeinen
+
+8
+00:00:17,730 --> 00:00:19,930
+Aufbau einer allgemeinen Analyse
+
+9
+00:00:19,930 --> 00:00:21,650
+anschauen. Dann werden wir einen
+
+10
+00:00:21,650 --> 00:00:23,810
+kurzen Exkurs zur Textgattung machen,
+
+11
+00:00:23,970 --> 00:00:25,810
+denn es ist sehr wichtig, dass wir
+
+12
+00:00:25,810 --> 00:00:27,570
+bei der Textanalyse auch und
+
+13
+00:00:27,570 --> 00:00:30,130
+besonders darauf eingehen, um welche
+
+14
+00:00:30,130 --> 00:00:31,850
+Textgattung es sich handelt. Das
+
+15
+00:00:31,850 --> 00:00:33,430
+heißt, wir werden uns die drei großen
+
+16
+00:00:33,430 --> 00:00:35,650
+fiktionalen Textgattungen anschauen
+
+17
+00:00:35,650 --> 00:00:37,770
+und werden uns dann anschließend mit
+
+18
+00:00:37,770 --> 00:00:39,710
+den Sachtexten, also den nicht
+
+19
+00:00:39,710 --> 00:00:42,810
+fiktionalen Textsorten beschäftigen.
+
+20
+00:00:42,890 --> 00:00:46,110
+Denn jede einzelne Textgattung,
+
+21
+00:00:46,150 --> 00:00:48,430
+fiktional oder nicht fiktional,
+
+22
+00:00:48,610 --> 00:00:52,030
+lyrisch, dramatisch oder episch, hat
+
+23
+00:00:52,030 --> 00:00:54,470
+ihre eigenen Analyseschwerpunkte und
+
+24
+00:00:54,470 --> 00:00:55,810
+diese wollen wir hier in diesem
+
+25
+00:00:55,810 --> 00:00:58,250
+Webinar beleuchten. Doch vorerst ein
+
+26
+00:00:58,250 --> 00:01:00,930
+allgemeiner Ausblick zur allgemeinen
+
+27
+00:01:00,930 --> 00:01:03,610
+Analyse eines Textes. Wichtig ist,
+
+28
+00:01:03,770 --> 00:01:07,350
+dass wir eine Analyse grundsätzlich
+
+29
+00:01:07,350 --> 00:01:09,130
+in drei Teile teilen. In die
+
+30
+00:01:09,130 --> 00:01:10,670
+Einleitung, den Hauptteil und den
+
+31
+00:01:10,670 --> 00:01:13,330
+Schluss. Dabei gibt die Einleitung,
+
+32
+00:01:13,350 --> 00:01:15,470
+dessen Textproduktion oder während
+
+33
+00:01:15,470 --> 00:01:17,250
+der gesamten Textproduktion ist
+
+34
+00:01:17,250 --> 00:01:18,590
+natürlich im Präsens zu schreiben,
+
+35
+00:01:18,590 --> 00:01:23,310
+gibt die ganze Einleitung oder der
+
+36
+00:01:23,310 --> 00:01:27,790
+gesamte Beginn der Textproduktion
+
+37
+00:01:27,790 --> 00:01:31,630
+soll in das Thema einleiten und dabei
+
+38
+00:01:31,630 --> 00:01:33,350
+die allgemeinen Informationen
+
+39
+00:01:33,350 --> 00:01:36,030
+benennen. Sowas wie die literarische
+
+40
+00:01:36,030 --> 00:01:39,070
+Gattung, den Titel, den Autor, die
+
+41
+00:01:39,070 --> 00:01:41,090
+Entstehungszeit, den ersten
+
+42
+00:01:41,090 --> 00:01:43,030
+Leseeindruck, der ist natürlich nicht
+
+43
+00:01:43,030 --> 00:01:45,290
+darauf zu empfinden, wie man selbst
+
+44
+00:01:45,290 --> 00:01:46,930
+das Lesen empfunden hat, sondern
+
+45
+00:01:46,930 --> 00:01:48,750
+welcher Art von Lesung Dinge prägnant
+
+46
+00:01:48,750 --> 00:01:51,050
+sofort hängen geblieben sind, also im
+
+47
+00:01:51,050 --> 00:01:53,090
+Gedächtnis geblieben sind. Das sind
+
+48
+00:01:53,090 --> 00:01:55,650
+sowas wie, ich nehme jetzt mal ein
+
+49
+00:01:55,650 --> 00:01:57,690
+Beispiel, wichtige Personen und
+
+50
+00:01:57,690 --> 00:01:59,910
+wichtige Ereignisse in dem benannten
+
+51
+00:01:59,910 --> 00:02:03,390
+Text. Zudem sollten wir die
+
+52
+00:02:03,390 --> 00:02:05,210
+grundlegenden Merkmale zur Form,
+
+53
+00:02:05,290 --> 00:02:07,190
+Sprache und Inhalt benennen. Das
+
+54
+00:02:07,190 --> 00:02:08,590
+heißt, die Einleitung gibt einen
+
+55
+00:02:08,590 --> 00:02:10,670
+allgemeinen Ausblick und soll den
+
+56
+00:02:10,670 --> 00:02:13,410
+Leser unserer Analyse soweit
+
+57
+00:02:13,410 --> 00:02:16,070
+informieren, dass er weiß, worum es
+
+58
+00:02:16,070 --> 00:02:19,210
+groß ist. grob geht. Dabei muss er
+
+59
+00:02:19,210 --> 00:02:20,810
+natürlich wissen, um welchen Text es
+
+60
+00:02:20,810 --> 00:02:23,030
+sich handelt, also um welche Textart,
+
+61
+00:02:23,230 --> 00:02:24,990
+wann, wo und wie. Das heißt, wir
+
+62
+00:02:24,990 --> 00:02:26,790
+müssen auch bei der Entstehungszeit
+
+63
+00:02:26,790 --> 00:02:29,310
+vielleicht ein paar Randbemerkungen
+
+64
+00:02:29,310 --> 00:02:31,510
+machen, wenn es zu gewissen
+
+65
+00:02:31,510 --> 00:02:33,630
+gesellschaftlichen oder historischen
+
+66
+00:02:33,630 --> 00:02:36,230
+Ereignissen geschrieben worden ist
+
+67
+00:02:36,230 --> 00:02:38,290
+oder sie dazu einzuordnen sind.
+
+68
+00:02:38,290 --> 00:02:40,970
+Anschließend kommen wir zum
+
+69
+00:02:40,970 --> 00:02:43,730
+Hauptteil. Doch vorangehend müssen
+
+70
+00:02:43,730 --> 00:02:45,850
+wir uns natürlich über den Inhalt im
+
+71
+00:02:45,850 --> 00:02:48,230
+Klaren werden. Dazu benötigt unsere
+
+72
+00:02:48,230 --> 00:02:49,730
+Analyse eine inhaltliche
+
+73
+00:02:49,730 --> 00:02:52,390
+Zusammenfassung der Urtextquelle. Das
+
+74
+00:02:52,390 --> 00:02:53,730
+heißt, wir fertigen eine
+
+75
+00:02:53,730 --> 00:02:55,790
+Inhaltsangabe an. Diese inhaltliche
+
+76
+00:02:55,790 --> 00:02:58,510
+Zusammenfassung soll den Leser
+
+77
+00:02:58,510 --> 00:03:00,550
+unserer Analyse über den Inhalt
+
+78
+00:03:00,550 --> 00:03:03,610
+informieren.
+
+79
+00:03:03,630 --> 00:03:05,270
+Dabei müssen wir natürlich die die
+
+80
+00:03:05,270 --> 00:03:07,370
+Inhaltsangabe so formulieren, dass
+
+81
+00:03:07,370 --> 00:03:09,110
+sie nicht eine Nacherzählung ist,
+
+82
+00:03:09,190 --> 00:03:11,070
+sondern dass die wichtigsten und
+
+83
+00:03:11,070 --> 00:03:12,930
+relevantesten Punkte benannt werden,
+
+84
+00:03:13,110 --> 00:03:15,490
+sodass der Leser sich ohne den
+
+85
+00:03:15,490 --> 00:03:17,510
+gesamten Urtext zu lesen ein Bild
+
+86
+00:03:17,510 --> 00:03:19,450
+davon machen kann, worüber wir im
+
+87
+00:03:19,450 --> 00:03:22,970
+Folgenden analysieren. Wenn wir
+
+88
+00:03:22,970 --> 00:03:26,690
+nämlich die Textangabe bzw. die
+
+89
+00:03:26,690 --> 00:03:28,390
+Inhaltsangabe angefertigt haben,
+
+90
+00:03:28,470 --> 00:03:31,110
+beschäftigen wir uns mit der Form und
+
+91
+00:03:31,110 --> 00:03:34,870
+dem Aufbau des Textes. Urtext ist.
+
+92
+00:03:34,970 --> 00:03:36,830
+Dabei gehen wir natürlich auch auf
+
+93
+00:03:36,830 --> 00:03:38,630
+die stilistischen und sprachlichen
+
+94
+00:03:38,630 --> 00:03:41,170
+Besonderheiten des Textes ein. Das
+
+95
+00:03:41,170 --> 00:03:43,750
+heißt, wir beginnen unsere Analyse
+
+96
+00:03:43,750 --> 00:03:45,610
+damit, dass wir auf Form und Struktur
+
+97
+00:03:45,610 --> 00:03:49,370
+schauen. Das heißt, wir stellen uns
+
+98
+00:03:49,370 --> 00:03:50,770
+die Fragen, wie können wir den Text
+
+99
+00:03:50,770 --> 00:03:52,430
+einteilen, wie können wir ihn
+
+100
+00:03:52,430 --> 00:03:53,970
+erarbeiten, wie können wir ihn
+
+101
+00:03:53,970 --> 00:03:56,150
+verstehen und welche Besonderheiten
+
+102
+00:03:56,150 --> 00:03:58,450
+hat der Text. Das ist natürlich, und
+
+103
+00:03:58,450 --> 00:04:00,030
+darauf kommen wir jetzt im Folgenden
+
+104
+00:04:00,030 --> 00:04:02,290
+des Webinars, von Textkarton zu zur
+
+105
+00:04:02,290 --> 00:04:04,030
+Textkartung unterschiedlich. Während
+
+106
+00:04:04,030 --> 00:04:07,010
+wir bei einem lyrischen Text darauf
+
+107
+00:04:07,010 --> 00:04:09,270
+achten, in welche Strophe und Verse
+
+108
+00:04:09,270 --> 00:04:11,530
+er geteilt ist, müssen wir bei Prosa
+
+109
+00:04:11,530 --> 00:04:12,770
+-Texten ihn vielleicht in
+
+110
+00:04:12,770 --> 00:04:14,650
+Sinnesabschnitte teilen oder auch bei
+
+111
+00:04:14,650 --> 00:04:15,970
+Sachtexten in gewisser
+
+112
+00:04:15,970 --> 00:04:18,050
+Sinnesabschnitte teilen, denn es
+
+113
+00:04:18,050 --> 00:04:19,290
+werden unterschiedliche Themen
+
+114
+00:04:19,290 --> 00:04:21,870
+benannt. Das heißt, hier müssen wir
+
+115
+00:04:21,870 --> 00:04:24,150
+natürlich darauf achten, um welchen
+
+116
+00:04:24,150 --> 00:04:25,850
+Text und welche Textsorte es hier
+
+117
+00:04:25,850 --> 00:04:27,770
+geht. Grundsätzlich ist das
+
+118
+00:04:27,770 --> 00:04:30,470
+allerdings die erste Aufgabe unserer
+
+119
+00:04:30,470 --> 00:04:33,090
+unserer Textanalyse, also der
+
+120
+00:04:33,090 --> 00:04:35,030
+eigentlichen Analyse, dem Hauptteil.
+
+121
+00:04:35,730 --> 00:04:37,590
+Anschließend müssen wir zur Deutung
+
+122
+00:04:37,590 --> 00:04:38,930
+kommen. Dabei müssen wir
+
+123
+00:04:38,930 --> 00:04:40,170
+Schlussfolgerungen der
+
+124
+00:04:40,170 --> 00:04:41,950
+Textbeschreibung zulassen. Das heißt,
+
+125
+00:04:41,970 --> 00:04:43,510
+wir haben nur den Inhalt, die Form
+
+126
+00:04:43,510 --> 00:04:45,330
+und die Struktur benannt und müssen
+
+127
+00:04:45,330 --> 00:04:48,970
+diese nun in einen Kontext setzen.
+
+128
+00:04:49,150 --> 00:04:52,230
+Das heißt, wir müssen zuerst den Text
+
+129
+00:04:52,230 --> 00:04:54,190
+reproduzieren. Das heißt, im Grunde
+
+130
+00:04:54,190 --> 00:04:56,230
+genommen filtern, das, was wichtig
+
+131
+00:04:56,230 --> 00:04:58,290
+ist, und aus dem Gefilterten heraus
+
+132
+00:04:58,290 --> 00:05:00,230
+etwas entwickeln. Das heißt, wir
+
+133
+00:05:00,230 --> 00:05:01,210
+dürfen Gedanken und
+
+134
+00:05:01,210 --> 00:05:03,830
+Schlussfolgerungen anstellen, die uns
+
+135
+00:05:03,830 --> 00:05:05,410
+letztendlich zu unserer
+
+136
+00:05:05,410 --> 00:05:07,770
+Interpretation befördern. Diese
+
+137
+00:05:07,770 --> 00:05:09,410
+Beweisführung führen wir natürlich
+
+138
+00:05:09,410 --> 00:05:11,850
+durch Zitate an. Das heißt, wir
+
+139
+00:05:11,850 --> 00:05:14,030
+beweisen unsere Schlussfolgerungen,
+
+140
+00:05:14,050 --> 00:05:15,710
+indem wir uns auf den Text berufen.
+
+141
+00:05:16,250 --> 00:05:17,910
+Nachdem wir das ausführlich und
+
+142
+00:05:17,910 --> 00:05:19,590
+gründlich getan haben, kommen wir zu
+
+143
+00:05:19,590 --> 00:05:21,770
+einem Schluss. Das heißt, wir stellen
+
+144
+00:05:21,770 --> 00:05:23,610
+am Anfang unserer Analyse vielleicht
+
+145
+00:05:23,610 --> 00:05:25,690
+schon eine Deutungshypothese auf, das
+
+146
+00:05:25,690 --> 00:05:28,410
+heißt eine allgemeine Kernidee, auf
+
+147
+00:05:28,410 --> 00:05:30,330
+die wir den Text untersuchen wollen,
+
+148
+00:05:30,430 --> 00:05:32,190
+mithilfe eben der Schlussfolgerung
+
+149
+00:05:32,190 --> 00:05:33,950
+der Zitate und der allgemeinen
+
+150
+00:05:33,950 --> 00:05:37,330
+inhaltlichen und strukturellen
+
+151
+00:05:37,330 --> 00:05:39,690
+Erfassung. Das heißt, wir fertigen
+
+152
+00:05:39,690 --> 00:05:41,630
+eine kritische Beurteilung des Textes
+
+153
+00:05:41,630 --> 00:05:42,470
+an, indem wir unsere
+
+154
+00:05:42,470 --> 00:05:43,710
+Deutungshypothese entweder
+
+155
+00:05:43,710 --> 00:05:45,670
+verifizieren oder falsifizieren. Das
+
+156
+00:05:45,670 --> 00:05:47,590
+heißt, wir haben sie begründet und
+
+157
+00:05:47,590 --> 00:05:49,210
+stellen fest, dass sie entweder
+
+158
+00:05:49,210 --> 00:05:50,870
+richtig oder falsch ist. Der
+
+159
+00:05:50,870 --> 00:05:52,990
+Gedankengang, den wir eingangs
+
+160
+00:05:52,990 --> 00:05:54,530
+hatten, das ist meistens die erste
+
+161
+00:05:54,530 --> 00:05:56,770
+Impression, die uns im Grunde
+
+162
+00:05:56,770 --> 00:05:58,450
+genommen dazu befähigt, zu überprüfen
+
+163
+00:05:58,450 --> 00:06:00,030
+und über die allgemeine Idee
+
+164
+00:06:00,030 --> 00:06:02,410
+nachzudenken. Nachdem wir das getan
+
+165
+00:06:02,410 --> 00:06:04,570
+haben, gibt es manchmal die Aufgabe
+
+166
+00:06:04,570 --> 00:06:06,390
+oder haben wir auch die Möglichkeit,
+
+167
+00:06:07,530 --> 00:06:09,730
+unsere eigene Erfahrung bzw. Meinung,
+
+168
+00:06:09,930 --> 00:06:12,770
+die subjektive Meinung zu äußern. Wir
+
+169
+00:06:12,770 --> 00:06:14,470
+sollten uns immer im Klaren sein,
+
+170
+00:06:14,590 --> 00:06:16,790
+dass während einer Analyse wir
+
+171
+00:06:16,790 --> 00:06:18,770
+möglichst objektiv analytisch
+
+172
+00:06:18,770 --> 00:06:20,210
+arbeiten sollten. Das heißt, die
+
+173
+00:06:20,210 --> 00:06:23,270
+eigene Meinung sollte, also die
+
+174
+00:06:23,270 --> 00:06:25,090
+allgemeine emotionale Meinung, sollte
+
+175
+00:06:25,090 --> 00:06:26,990
+zurückgehalten werden und sollte erst
+
+176
+00:06:26,990 --> 00:06:29,950
+bei oder nach dem eigentlichen ein
+
+177
+00:06:29,950 --> 00:06:31,770
+Schlussplädoyer zum Tragen kommt.
+
+178
+00:06:32,030 --> 00:06:34,190
+Machen wir nun unseren kurzen Exkurs
+
+179
+00:06:34,190 --> 00:06:36,210
+zu den Textgattungen. Textgattungen
+
+180
+00:06:36,210 --> 00:06:38,290
+teilen sich in erster Linie oder
+
+181
+00:06:38,290 --> 00:06:40,270
+Texte teilen sich in erster Linie in
+
+182
+00:06:40,270 --> 00:06:44,150
+zwei große Abteilungen. Wir haben das
+
+183
+00:06:44,150 --> 00:06:45,610
+eingangs schon erwähnt. Die
+
+184
+00:06:45,610 --> 00:06:47,990
+fiktionalen, also die erdachten Texte
+
+185
+00:06:47,990 --> 00:06:49,790
+und die nicht fiktionalen Texte, also
+
+186
+00:06:49,790 --> 00:06:52,650
+die realen Texte. Dabei sind reale
+
+187
+00:06:52,650 --> 00:06:54,410
+Texte so etwas wie Sachtexte,
+
+188
+00:06:54,410 --> 00:06:56,250
+Gebrauchtexte, das können politische
+
+189
+00:06:56,250 --> 00:06:57,970
+Reden sein, wissenschaftliche
+
+190
+00:06:57,970 --> 00:07:00,890
+Aufsätze oder publizistische Texte,
+
+191
+00:07:00,890 --> 00:07:03,590
+Zeitungsberichte und weitere.
+
+192
+00:07:03,950 --> 00:07:06,150
+Fiktionale Texte sind literarische,
+
+193
+00:07:06,330 --> 00:07:08,650
+also erdachte Texte. Dabei ist es
+
+194
+00:07:08,650 --> 00:07:11,490
+wichtig darauf zu achten, dass Berlin
+
+195
+00:07:11,490 --> 00:07:15,210
+auch fiktional dargestellt werden
+
+196
+00:07:15,210 --> 00:07:17,290
+kann. Dabei ist der Unterschied, dass
+
+197
+00:07:17,290 --> 00:07:19,830
+ein fiktionales Berlin auch andere
+
+198
+00:07:19,830 --> 00:07:22,470
+Eigenschaften haben kann. Das heißt,
+
+199
+00:07:22,530 --> 00:07:23,870
+wir können in einem fiktionalen
+
+200
+00:07:23,870 --> 00:07:27,130
+Berlin auch die Stadt größer malen
+
+201
+00:07:27,130 --> 00:07:28,970
+als sie ist, kleiner zeichnen als sie
+
+202
+00:07:28,970 --> 00:07:30,270
+ist. Wir können andere Personen
+
+203
+00:07:30,270 --> 00:07:32,750
+hinein empfinden, während ein nicht
+
+204
+00:07:32,750 --> 00:07:34,830
+fiktionales Berlin das konkrete,
+
+205
+00:07:34,830 --> 00:07:36,850
+reale Berlin ist. Das heißt, das
+
+206
+00:07:36,850 --> 00:07:39,570
+Nicht-Fiktionale muss zwangsläufig an
+
+207
+00:07:39,570 --> 00:07:41,270
+die Realität und die Wahrheit
+
+208
+00:07:41,270 --> 00:07:43,090
+gebunden sein. Fiktionale Texte
+
+209
+00:07:43,090 --> 00:07:45,350
+dürfen da ein wenig modifizieren,
+
+210
+00:07:45,390 --> 00:07:46,610
+also von der eigentlichen
+
+211
+00:07:46,610 --> 00:07:49,070
+Wirklichkeit abweichen, um eine Idee
+
+212
+00:07:49,070 --> 00:07:51,530
+oder ihre eigene Idee besser
+
+213
+00:07:51,530 --> 00:07:53,950
+darzustellen. Dabei teilen wir
+
+214
+00:07:53,950 --> 00:07:56,410
+fiktionale Texte in die drei großen
+
+215
+00:07:56,410 --> 00:07:59,650
+Textgattungen, die Epik, die Lyrik
+
+216
+00:07:59,650 --> 00:08:01,770
+und die Dramatik. Dabei unterscheiden
+
+217
+00:08:01,770 --> 00:08:03,930
+sich zum Beispiel Lyrik und Dramatik
+
+218
+00:08:03,930 --> 00:08:06,490
+abseits der Dramatik, also Epik und
+
+219
+00:08:06,490 --> 00:08:08,210
+Lyrik abseits der Dramatik
+
+220
+00:08:08,210 --> 00:08:10,450
+voneinander insofern, dass ihre
+
+221
+00:08:10,450 --> 00:08:12,330
+Textform eine andere ist. Während die
+
+222
+00:08:12,330 --> 00:08:14,250
+Epik in Prose, also im Fließtext
+
+223
+00:08:14,250 --> 00:08:17,130
+schreibt, ist die Lyrik in Versen und
+
+224
+00:08:17,130 --> 00:08:19,090
+Strophen verfasst, das heißt in einer
+
+225
+00:08:19,090 --> 00:08:22,170
+allgemein komponierten Textform. Bei
+
+226
+00:08:22,170 --> 00:08:24,170
+der Epik ist es nicht wichtig oder
+
+227
+00:08:24,170 --> 00:08:27,890
+ist es weniger interessant, wie die
+
+228
+00:08:27,890 --> 00:08:30,990
+Wörter an sich strukturell
+
+229
+00:08:30,990 --> 00:08:32,890
+miteinander verknüpft sind, welches
+
+230
+00:08:32,890 --> 00:08:34,350
+bei der Lyrik allerdings ein
+
+231
+00:08:34,350 --> 00:08:36,390
+Kernmerkmal ist. Das heißt, auch hier
+
+232
+00:08:36,390 --> 00:08:37,870
+stellen wir schnell fest, wie wichtig
+
+233
+00:08:37,870 --> 00:08:39,610
+es ist, die unterschiedlichen
+
+234
+00:08:39,610 --> 00:08:42,110
+Textgattungen zu kennen. und uns auch
+
+235
+00:08:42,110 --> 00:08:44,490
+vor Beginn unserer Analyse bewusst zu
+
+236
+00:08:44,490 --> 00:08:46,670
+machen, um welche Textkarton es sich
+
+237
+00:08:46,670 --> 00:08:49,030
+denn handelt bei unserer Analyse. Im
+
+238
+00:08:49,030 --> 00:08:51,370
+Kontrast dazu steht die Dramatik. Die
+
+239
+00:08:51,370 --> 00:08:54,470
+Dramatik ist die allgemeine Form der
+
+240
+00:08:54,470 --> 00:08:57,170
+Theaterstücke. Das heißt, neben der
+
+241
+00:08:57,170 --> 00:08:59,510
+Lyrik und der Epik, die ihren Vortrag
+
+242
+00:08:59,510 --> 00:09:02,070
+zwar haben können, also die Lyrik hat
+
+243
+00:09:02,070 --> 00:09:04,150
+einen äußeren Vortrag, das heißt, sie
+
+244
+00:09:04,150 --> 00:09:06,070
+darf laut gelesen werden, sie ist für
+
+245
+00:09:06,070 --> 00:09:07,490
+ein Publikum gedacht, natürlich
+
+246
+00:09:07,490 --> 00:09:10,010
+Zuhörerschaft, während die Epik eher
+
+247
+00:09:10,010 --> 00:09:13,030
+ein privates, intimes Verhältnis zum
+
+248
+00:09:13,030 --> 00:09:15,590
+Leser aufbaut, ist die Dramatik für
+
+249
+00:09:15,590 --> 00:09:17,390
+das Theater, also für die szenische
+
+250
+00:09:17,390 --> 00:09:19,930
+Darstellung gedacht. Die Dramatik ist
+
+251
+00:09:19,930 --> 00:09:21,730
+sowas wie eine Komödie, eine
+
+252
+00:09:21,730 --> 00:09:23,570
+Tragödie, ein Volkstück, ein
+
+253
+00:09:23,570 --> 00:09:26,470
+Bühnenstück. Etwas, was grundsätzlich
+
+254
+00:09:26,470 --> 00:09:29,090
+gewisse Eigenschaften wie Dialoge,
+
+255
+00:09:29,190 --> 00:09:30,990
+Figurenrede und Charaktere hat,
+
+256
+00:09:31,110 --> 00:09:32,930
+welche wir bei der Lyrik zum Beispiel
+
+257
+00:09:32,930 --> 00:09:34,770
+weniger finden. Denn bei der Lyrik
+
+258
+00:09:34,770 --> 00:09:36,710
+ist es so, dass der Vortrag meistens
+
+259
+00:09:36,710 --> 00:09:38,070
+aus einem lyrischen Ich heraus
+
+260
+00:09:38,070 --> 00:09:41,570
+produziert wird und bei der Epik
+
+261
+00:09:41,570 --> 00:09:43,950
+wiederum andere Personen anders
+
+262
+00:09:43,950 --> 00:09:45,190
+beleuchtet werden. Dabei
+
+263
+00:09:45,190 --> 00:09:46,870
+unterscheidet man zwischen dem Ich
+
+264
+00:09:46,870 --> 00:09:49,250
+-Erzähler und dem auktorialen
+
+265
+00:09:49,250 --> 00:09:51,330
+Erzähler oder dem Personal-Erzähler.
+
+266
+00:09:51,350 --> 00:09:53,610
+Doch dazu später mehr. Wir wollen die
+
+267
+00:09:53,610 --> 00:09:57,010
+kurzen Gattungsbeispiele sehen, die
+
+268
+00:09:57,010 --> 00:10:00,350
+Lyrik, wie schon erwähnt, fast sowas
+
+269
+00:10:00,350 --> 00:10:02,330
+wie die Ballade, die Ode, das Sonett
+
+270
+00:10:02,330 --> 00:10:04,530
+oder das Gedicht, während die Epik,
+
+271
+00:10:04,530 --> 00:10:07,730
+Romane, Novellen, Chroniken, es
+
+272
+00:10:07,730 --> 00:10:09,390
+können auch Biografien sein,
+
+273
+00:10:09,670 --> 00:10:13,090
+Kurzgeschichten, Märchen oder
+
+274
+00:10:13,090 --> 00:10:15,470
+grundsätzlich einfache Erzählungen
+
+275
+00:10:15,470 --> 00:10:19,030
+oder Fabeln. Kommen wir nun zu der
+
+276
+00:10:19,030 --> 00:10:20,950
+eigentlichen Analyse, das heißt zum
+
+277
+00:10:20,950 --> 00:10:22,670
+Schwerpunkt unseres Webinars und
+
+278
+00:10:22,670 --> 00:10:23,870
+konzentrieren uns hierbei auf
+
+279
+00:10:23,870 --> 00:10:26,050
+erzählende Texte, also auf die erste
+
+280
+00:10:26,050 --> 00:10:29,810
+Textkarte, auf die Epik. Bei der Epik
+
+281
+00:10:29,810 --> 00:10:32,370
+ist es grundsätzlich so, dass der
+
+282
+00:10:32,370 --> 00:10:34,090
+Autor nicht gleich Erzähler ist. Das
+
+283
+00:10:34,090 --> 00:10:35,250
+heißt, wir dürfen nicht davon
+
+284
+00:10:35,250 --> 00:10:37,510
+ausgehen, dass der Autor derjenige
+
+285
+00:10:37,510 --> 00:10:39,910
+ist, der erzählt. Denn wir müssen
+
+286
+00:10:39,910 --> 00:10:41,950
+darauf achten, das hatte ich gerade
+
+287
+00:10:41,950 --> 00:10:44,190
+schon einmal angeschnitten, wie die
+
+288
+00:10:44,190 --> 00:10:45,750
+Erzählperspektive ist. ist. Das
+
+289
+00:10:45,750 --> 00:10:46,450
+heißt, einer unserer
+
+290
+00:10:46,450 --> 00:10:49,490
+Analyseschwerpunkte ist es, da zu
+
+291
+00:10:49,490 --> 00:10:52,170
+erkennen, aus welcher Perspektive
+
+292
+00:10:52,170 --> 00:10:54,130
+erzählt wird und uns die Frage zu
+
+293
+00:10:54,130 --> 00:10:56,230
+stellen, warum. Das wäre dann ein
+
+294
+00:10:56,230 --> 00:10:58,650
+Punkt für die Deutung. Also zuerst
+
+295
+00:10:58,650 --> 00:11:00,130
+müssen wir die Feststellung treffen,
+
+296
+00:11:00,390 --> 00:11:01,950
+das wäre dann der erste Teil unseres
+
+297
+00:11:01,950 --> 00:11:03,810
+Hauptteils und der zweite Teil wäre
+
+298
+00:11:03,810 --> 00:11:05,650
+die Frage, warum. Wir müssen also
+
+299
+00:11:05,650 --> 00:11:07,170
+eine Schlussfolgerung daraus ziehen.
+
+300
+00:11:07,330 --> 00:11:09,330
+Dabei unterscheiden wir zwischen dem
+
+301
+00:11:09,330 --> 00:11:11,570
+Ich-Erzähler und dem dritten Person
+
+302
+00:11:11,570 --> 00:11:13,110
+-Erzähler. Das kann ein Er- oder Sie
+
+303
+00:11:13,110 --> 00:11:15,670
+-Erzähler sein. Dabei kann die
+
+304
+00:11:15,670 --> 00:11:18,410
+Erzählperspektive als Adjektiv, also
+
+305
+00:11:18,410 --> 00:11:20,490
+Attribut, also aus der Art und Weise
+
+306
+00:11:20,490 --> 00:11:22,390
+wie, entweder auktorial, das heißt
+
+307
+00:11:22,390 --> 00:11:24,590
+allwissend, personal, also sich auf
+
+308
+00:11:24,590 --> 00:11:26,750
+eine Person konzentrieren, oder
+
+309
+00:11:26,750 --> 00:11:29,250
+neutral sein, das heißt sie ist als
+
+310
+00:11:29,250 --> 00:11:30,930
+stummer Beobachter. Bei der
+
+311
+00:11:30,930 --> 00:11:33,510
+personalen oder der auktorialen
+
+312
+00:11:33,510 --> 00:11:35,630
+Erzählperspektive ist es so, dass wir
+
+313
+00:11:35,630 --> 00:11:39,490
+auch viele Eindrücke haben, das heißt
+
+314
+00:11:39,490 --> 00:11:41,570
+subjektive Eindrücke haben, während
+
+315
+00:11:41,570 --> 00:11:43,710
+bei der neutralen Erzählperspektive
+
+316
+00:11:43,710 --> 00:11:45,350
+im Grunde genommen nur observiert,
+
+317
+00:11:45,370 --> 00:11:47,070
+das heißt beobachtet wird. Dabei
+
+318
+00:11:47,070 --> 00:11:49,330
+haben wir nicht die Chance, einzelne
+
+319
+00:11:49,330 --> 00:11:52,330
+Emotionen oder Gedanken der einzelnen
+
+320
+00:11:52,330 --> 00:11:56,290
+Figuren zu erlesen. Dann ist es
+
+321
+00:11:56,290 --> 00:11:59,230
+wichtig, die Figurenrede in der
+
+322
+00:11:59,230 --> 00:12:01,870
+allgemeinen Prosa zu erkennen. Das
+
+323
+00:12:01,870 --> 00:12:03,110
+heißt, handelt es sich hier um
+
+324
+00:12:03,110 --> 00:12:05,210
+Dialoge? Gibt es eine indirekte Rede,
+
+325
+00:12:05,330 --> 00:12:06,810
+inneren Monolog? Wie ist die
+
+326
+00:12:06,810 --> 00:12:08,730
+allgemeine direkte Rede? Das heißt,
+
+327
+00:12:08,790 --> 00:12:11,410
+wie äußern sich die Figuren zu und
+
+328
+00:12:11,410 --> 00:12:14,370
+untereinander? Zudem müssen wir auch
+
+329
+00:12:14,370 --> 00:12:16,390
+noch über die allgemeine Zeit
+
+330
+00:12:16,390 --> 00:12:18,010
+sprechen. Das heißt, wie wird
+
+331
+00:12:18,010 --> 00:12:19,850
+erzählt, die Erzählzeit und die
+
+332
+00:12:19,850 --> 00:12:21,930
+erzählte Zeit. Dabei ist es wichtig,
+
+333
+00:12:22,030 --> 00:12:24,130
+dass wir bei der Erzählzeit darauf
+
+334
+00:12:24,130 --> 00:12:26,410
+achten, ob es sich um eine
+
+335
+00:12:26,410 --> 00:12:27,930
+Zeitraffung, Zeitdehnung oder
+
+336
+00:12:27,930 --> 00:12:30,070
+Zeitdeckung handelt. und bei der
+
+337
+00:12:30,070 --> 00:12:31,890
+erzählten Zeit müssen wir uns die
+
+338
+00:12:31,890 --> 00:12:35,090
+Frage stellen, inwieweit erfahren wir
+
+339
+00:12:35,090 --> 00:12:37,090
+wie viel über die Zeit. Das heißt,
+
+340
+00:12:37,170 --> 00:12:39,550
+erfahren wir Erzählungen über einen
+
+341
+00:12:39,550 --> 00:12:42,510
+Tag, über ein Jahr, über eine Woche,
+
+342
+00:12:42,630 --> 00:12:44,890
+über ein ganzes Leben oder über eine
+
+343
+00:12:44,890 --> 00:12:47,350
+ganze Familiengeschichte. Dabei ist
+
+344
+00:12:47,350 --> 00:12:49,370
+die Zeitraffung etwas, was zum
+
+345
+00:12:49,370 --> 00:12:52,130
+Beispiel die Zeit an sich verkürzt.
+
+346
+00:12:52,150 --> 00:12:54,190
+Das heißt, das, was wir lesen, können
+
+347
+00:12:54,190 --> 00:12:56,470
+zum Beispiel in drei Tagen abpassen,
+
+348
+00:12:56,470 --> 00:12:59,210
+obwohl wir natürlich von Sekunde zu
+
+349
+00:12:59,210 --> 00:13:00,850
+Sekunde lesen. Das heißt, die Zeit
+
+350
+00:13:00,850 --> 00:13:03,090
+ist Kraft. Bei der Zeitdehnung ist es
+
+351
+00:13:03,090 --> 00:13:05,050
+so, dass ein Moment ausgekostet wird.
+
+352
+00:13:05,130 --> 00:13:06,690
+Das heißt, wir bewegen uns länger in
+
+353
+00:13:06,690 --> 00:13:09,450
+einem Moment, als dass wir ihn in der
+
+354
+00:13:09,450 --> 00:13:11,830
+Realität erleben können. Oder bei der
+
+355
+00:13:11,830 --> 00:13:14,050
+Zeitdeckung ist es so, dass eine
+
+356
+00:13:14,050 --> 00:13:16,770
+Erzählung zeitgleich mit dem Lesen
+
+357
+00:13:16,770 --> 00:13:17,870
+stattfindet. Das heißt, die
+
+358
+00:13:17,870 --> 00:13:19,710
+Ereignisse passieren so, wie wir sie
+
+359
+00:13:19,710 --> 00:13:21,050
+lesen. Das heißt, sie sind mit der
+
+360
+00:13:21,050 --> 00:13:24,290
+realen Zeit übereinstimmend. Zudem
+
+361
+00:13:24,290 --> 00:13:25,430
+müssen wir uns auch noch mit dem
+
+362
+00:13:25,430 --> 00:13:26,630
+Raum, also dem allgemeinen
+
+363
+00:13:26,630 --> 00:13:28,690
+Handlungsort beschäftigen.
+
+364
+00:13:30,660 --> 00:13:33,260
+Bei der Analyse lyrischer Texte, also
+
+365
+00:13:33,260 --> 00:13:35,320
+bei der Lyrik, ist es wichtig, das
+
+366
+00:13:35,320 --> 00:13:37,660
+haben wir auch schon erwähnt, das
+
+367
+00:13:37,660 --> 00:13:39,380
+lyrische Ich nicht als Autor zu
+
+368
+00:13:39,380 --> 00:13:40,940
+sehen. Also grundsätzlich ist es bei
+
+369
+00:13:40,940 --> 00:13:43,240
+Texten so, dass wir den Autor nicht
+
+370
+00:13:43,240 --> 00:13:46,060
+als den Erzähler oder das lyrische
+
+371
+00:13:46,060 --> 00:13:49,240
+Ich, welches ja letztlich auch ein
+
+372
+00:13:49,240 --> 00:13:53,580
+Erzähler ist, behandeln. Lyrische
+
+373
+00:13:53,580 --> 00:13:57,920
+Texte behandeln meistens emotionale
+
+374
+00:13:57,920 --> 00:14:00,780
+Themen oder große Themen, die schwer
+
+375
+00:14:00,780 --> 00:14:02,960
+in Worte zu fassen sind. Daher wählt
+
+376
+00:14:02,960 --> 00:14:05,000
+man die lyrische Textform als im
+
+377
+00:14:05,000 --> 00:14:06,420
+Grunde genommen künstliches Material,
+
+378
+00:14:06,860 --> 00:14:09,220
+da die Kunst versucht, das zu
+
+379
+00:14:09,220 --> 00:14:11,120
+beschreiben, was schlecht in Worte zu
+
+380
+00:14:11,120 --> 00:14:13,040
+fassen ist. Das heißt, wir haben
+
+381
+00:14:13,040 --> 00:14:16,480
+gewisse gattungstypische Merkmale,
+
+382
+00:14:16,480 --> 00:14:17,980
+wie zum Beispiel die rhythmische
+
+383
+00:14:17,980 --> 00:14:20,420
+Gestaltung. Das heißt, wir sprechen
+
+384
+00:14:20,420 --> 00:14:22,580
+hier nicht von Zeilen und Wörtern,
+
+385
+00:14:22,620 --> 00:14:25,100
+sondern wir sprechen von Worten,
+
+386
+00:14:25,100 --> 00:14:28,200
+Versen und Strophen. Sie haben einen
+
+387
+00:14:28,200 --> 00:14:30,360
+gewissen Rhythmus, sie haben Reime,
+
+388
+00:14:30,420 --> 00:14:32,580
+die klangliche Gestaltung. Dabei
+
+389
+00:14:32,580 --> 00:14:34,440
+sprechen wir auch über Kadenzen, also
+
+390
+00:14:34,440 --> 00:14:36,440
+Hebungen und Senkungen, über einen
+
+391
+00:14:36,440 --> 00:14:38,760
+gewissen Rhythmus in dem Vortrag. Es
+
+392
+00:14:38,760 --> 00:14:41,020
+ist das Tal des Todes, den wir
+
+393
+00:14:41,020 --> 00:14:43,040
+treten. Also das heißt, es hat schon
+
+394
+00:14:43,040 --> 00:14:45,860
+einen großen Vortrag, welcher uns
+
+395
+00:14:45,860 --> 00:14:47,420
+letztendlich auch in die richtige
+
+396
+00:14:47,420 --> 00:14:49,300
+Stimmung bringt. Dabei ist es
+
+397
+00:14:49,300 --> 00:14:51,200
+natürlich wichtig, dass diese Sprache
+
+398
+00:14:51,200 --> 00:14:54,360
+sich auf Bilder beruft. Das heißt,
+
+399
+00:14:54,460 --> 00:14:56,880
+dadurch, dass die Worte komprimiert
+
+400
+00:14:56,880 --> 00:15:00,040
+sind und bewusst gewählt sind, bauen
+
+401
+00:15:00,040 --> 00:15:02,000
+sie natürlich darauf, dass sie in
+
+402
+00:15:02,000 --> 00:15:04,560
+Kurzerlei, also mit kurzen und
+
+403
+00:15:04,560 --> 00:15:06,760
+wenigen Wörtern große und starke
+
+404
+00:15:06,760 --> 00:15:08,140
+Bilder erzeugen. Deswegen sind
+
+405
+00:15:08,140 --> 00:15:10,480
+rhetorische und sprachliche Mittel
+
+406
+00:15:10,480 --> 00:15:12,980
+dafür notwendig, dass sowas wie
+
+407
+00:15:12,980 --> 00:15:14,300
+Metaphernvergleiche,
+
+408
+00:15:14,300 --> 00:15:16,700
+Annaffernaditrationen oder weitere
+
+409
+00:15:16,700 --> 00:15:19,060
+Dinge, die uns letztendlich
+
+410
+00:15:19,060 --> 00:15:22,600
+stilistische Figuren geben, die wir
+
+411
+00:15:23,640 --> 00:15:26,880
+nutzen, um Bilder in unserem Kopf zu
+
+412
+00:15:26,880 --> 00:15:29,840
+erarbeiten oder zu projizieren, das
+
+413
+00:15:29,840 --> 00:15:31,900
+heißt, bildlich in unserem Kopf zu
+
+414
+00:15:31,900 --> 00:15:34,140
+erzeugen. Bei der Analyse
+
+415
+00:15:34,140 --> 00:15:36,000
+dramatischer Texte ist es wiederum
+
+416
+00:15:36,000 --> 00:15:38,040
+etwas anderes, deswegen steht diese
+
+417
+00:15:38,040 --> 00:15:40,000
+Form auch etwas abseits, denn Text
+
+418
+00:15:40,000 --> 00:15:42,020
+und Aufführung müssen in einem
+
+419
+00:15:42,020 --> 00:15:43,680
+Verhältnis zueinander stehen. Unsere
+
+420
+00:15:43,680 --> 00:15:45,640
+Denküberlegung ist natürlich, unser
+
+421
+00:15:45,640 --> 00:15:48,060
+Gedankengang ist natürlich, stehen
+
+422
+00:15:48,060 --> 00:15:50,360
+die beiden ineinander in Kohärenz,
+
+423
+00:15:50,380 --> 00:15:51,920
+also ist das, was wir lesen, auch...
+
+424
+00:15:53,280 --> 00:15:54,600
+aufführbar. Dabei müssen wir
+
+425
+00:15:54,600 --> 00:15:55,940
+natürlich immer im Kopf halten,
+
+426
+00:15:56,080 --> 00:15:58,860
+während wir einen Drama lesen, dass
+
+427
+00:15:58,860 --> 00:16:00,420
+wir es uns eigentlich auf der Bühne
+
+428
+00:16:00,420 --> 00:16:02,380
+vorstellen müssen. Das heißt, die
+
+429
+00:16:02,380 --> 00:16:04,140
+Textgestaltung ist eine weitaus
+
+430
+00:16:04,140 --> 00:16:06,980
+andere als die der Prosa oder die der
+
+431
+00:16:06,980 --> 00:16:10,200
+Lyrik, denn die allgemeine Handlung
+
+432
+00:16:10,200 --> 00:16:12,820
+vollzieht sich in Akten. Diese Akte
+
+433
+00:16:12,820 --> 00:16:15,180
+sind in Szenen gegliedert und diese
+
+434
+00:16:15,180 --> 00:16:18,300
+Szenen sind wiederum auch noch einem
+
+435
+00:16:18,300 --> 00:16:20,220
+gewissen Schema untergeordnet. Dabei
+
+436
+00:16:20,220 --> 00:16:22,040
+sprechen wir über den Prolog, das
+
+437
+00:16:22,040 --> 00:16:24,480
+heißt die Einführung, den Dialog, die
+
+438
+00:16:24,480 --> 00:16:25,240
+unterschiedliche
+
+439
+00:16:25,240 --> 00:16:27,160
+Handlungsvorantreibungen, die nennt
+
+440
+00:16:27,160 --> 00:16:29,060
+sich in der Musik Rezitativ. Dabei
+
+441
+00:16:29,060 --> 00:16:30,460
+wird die Handlung vorangetrieben,
+
+442
+00:16:30,580 --> 00:16:32,620
+indem sich zwei Menschen darüber
+
+443
+00:16:32,620 --> 00:16:35,860
+unterhalten, was passiert und was
+
+444
+00:16:35,860 --> 00:16:38,620
+noch passieren wird. Und darüber wird
+
+445
+00:16:38,620 --> 00:16:40,560
+die Handlung vorangetrieben. Und im
+
+446
+00:16:40,560 --> 00:16:42,780
+Monolog wird über die Handlung, also
+
+447
+00:16:42,780 --> 00:16:44,320
+die Geschehnisse und die Ereignisse
+
+448
+00:16:44,320 --> 00:16:47,680
+reflektiert. Wir erhalten über den
+
+449
+00:16:47,680 --> 00:16:50,220
+Monolog die eigentlich persönlichen
+
+450
+00:16:50,220 --> 00:16:54,280
+und intimen Gedanken zu den im Dialog
+
+451
+00:16:54,280 --> 00:16:56,640
+passierenden Ereignissen. Zusätzlich
+
+452
+00:16:56,640 --> 00:16:59,360
+haben wir Regieanweisungen, die dem
+
+453
+00:16:59,360 --> 00:17:01,680
+Schauspieler und uns als Lesern im
+
+454
+00:17:01,680 --> 00:17:04,320
+Grunde genommen sagen wollen, wie wir
+
+455
+00:17:04,320 --> 00:17:06,560
+die gesprochenen Dialoge und die
+
+456
+00:17:06,560 --> 00:17:08,660
+einzelnen Figuren erleben sollen und
+
+457
+00:17:08,660 --> 00:17:10,160
+uns vorstellen sollen. Dabei ist das
+
+458
+00:17:10,160 --> 00:17:11,600
+Bühnenbild, also die Kulissen
+
+459
+00:17:11,600 --> 00:17:13,400
+wichtig, die Sprechweise und die
+
+460
+00:17:13,400 --> 00:17:15,300
+Gesten, ob sie laut sprechen, ob sie
+
+461
+00:17:15,300 --> 00:17:17,580
+weinerlich klingen, ob sie fallen, ob
+
+462
+00:17:17,580 --> 00:17:19,760
+sie stottern, das sind Dinge, die
+
+463
+00:17:19,760 --> 00:17:21,680
+über die Regieanweisung gegeben sind.
+
+464
+00:17:21,940 --> 00:17:24,120
+Die szenische Darstellung, wie das
+
+465
+00:17:24,120 --> 00:17:26,320
+Bühnenbild, also die Kulissen, dabei
+
+466
+00:17:26,320 --> 00:17:28,100
+ist natürlich die Stimme, Bühne,
+
+467
+00:17:28,100 --> 00:17:29,980
+Licht und Kleidung wichtig, welche
+
+468
+00:17:29,980 --> 00:17:32,840
+wir, wenn wir ein Drama lesen, uns im
+
+469
+00:17:32,840 --> 00:17:34,940
+Kopf vorstellen müssen. Die
+
+470
+00:17:34,940 --> 00:17:37,660
+Inszenierung ist hierbei obgleich dem
+
+471
+00:17:37,660 --> 00:17:39,500
+Regisseur, das heißt der Regisseur,
+
+472
+00:17:39,520 --> 00:17:42,340
+bevor er ein Theaterstück auf die
+
+473
+00:17:42,340 --> 00:17:44,840
+Bühne bringt, macht er genau das, was
+
+474
+00:17:44,840 --> 00:17:46,600
+wir in unserer Analyse auch tun
+
+475
+00:17:46,600 --> 00:17:48,620
+wollen, denn er stellt sich das
+
+476
+00:17:48,620 --> 00:17:50,740
+Bühnenstück im Kopf vor und
+
+477
+00:17:50,740 --> 00:17:53,240
+analysiert die einzelnen Punkte und
+
+478
+00:17:53,240 --> 00:17:54,920
+findet daraus im Grunde genommen
+
+479
+00:17:54,920 --> 00:17:57,040
+seine Interpretation, das was unsere
+
+480
+00:17:57,040 --> 00:17:59,620
+Analyse auch will und möchte diese im
+
+481
+00:17:59,620 --> 00:18:01,020
+Grunde genommen mit einem Publikum
+
+482
+00:18:01,020 --> 00:18:03,820
+teilen. Bei der Analyse von
+
+483
+00:18:03,820 --> 00:18:05,840
+Sachtexten, und jetzt bewegen wir uns
+
+484
+00:18:05,840 --> 00:18:07,800
+abseits der fiktionalen Texte, denn
+
+485
+00:18:07,800 --> 00:18:08,860
+nun kommen wir zu den nicht
+
+486
+00:18:08,860 --> 00:18:10,560
+fiktionalen Texten, ist es wichtig,
+
+487
+00:18:10,600 --> 00:18:12,060
+dass wir eine Hauptaussage
+
+488
+00:18:12,060 --> 00:18:13,780
+herausfiltern. Was möchte uns der
+
+489
+00:18:13,780 --> 00:18:15,520
+Text sagen? Wir müssen die
+
+490
+00:18:15,520 --> 00:18:17,280
+inhaltlichen Schwerpunkte und das
+
+491
+00:18:17,280 --> 00:18:19,740
+Thema herausfinden und verstehen und
+
+492
+00:18:19,740 --> 00:18:21,920
+müssen diese Hauptaussagen und die
+
+493
+00:18:21,920 --> 00:18:24,040
+inhaltlichen Schwerpunkte auf Thesen,
+
+494
+00:18:24,060 --> 00:18:25,480
+Tatsachen, Beispielen, Fragen
+
+495
+00:18:25,480 --> 00:18:27,460
+untersuchen und diese überprüfen.
+
+496
+00:18:27,460 --> 00:18:31,860
+Sind sie nachvollziehbar
+
+497
+00:18:31,860 --> 00:18:33,880
+oder nicht? Dabei müssen wir dann
+
+498
+00:18:33,880 --> 00:18:36,320
+anschließend uns fragen, was ist die
+
+499
+00:18:36,320 --> 00:18:38,240
+Intention dieses Textes? Ist sie
+
+500
+00:18:38,240 --> 00:18:40,420
+appellierend an uns, also auffordernd
+
+501
+00:18:40,420 --> 00:18:42,580
+oder ist sie zum Nachdenken gestimmt
+
+502
+00:18:42,580 --> 00:18:44,940
+oder ist sie eine Kritik? Was möchte
+
+503
+00:18:44,940 --> 00:18:46,740
+also dieser Text von uns? Was ist
+
+504
+00:18:46,740 --> 00:18:49,280
+deren Aussageabsicht? Dabei schauen
+
+505
+00:18:49,280 --> 00:18:50,260
+wir uns dann auch die
+
+506
+00:18:50,260 --> 00:18:52,400
+Argumentationsstruktur an, denn
+
+507
+00:18:52,400 --> 00:18:54,480
+Sachtexte, wie zum Beispiel eine
+
+508
+00:18:54,480 --> 00:18:56,280
+politische Rede, sind meistens in
+
+509
+00:18:56,280 --> 00:18:57,540
+Argumentation. Argumente gekledert.
+
+510
+00:18:57,640 --> 00:19:01,200
+Diese Argumente bilden sich zusammen
+
+511
+00:19:01,200 --> 00:19:04,340
+aus einer These, aus Beispielen und
+
+512
+00:19:04,340 --> 00:19:07,260
+Tatsachen sowie Fragen. Also können
+
+513
+00:19:07,260 --> 00:19:08,740
+wir im Grunde genommen diesen Punkt
+
+514
+00:19:08,740 --> 00:19:12,740
+hier als Argument definieren. Wir
+
+515
+00:19:12,740 --> 00:19:14,460
+haben hier also immer eine These,
+
+516
+00:19:14,680 --> 00:19:16,740
+eine Vermutung und ein Beispiel, was
+
+517
+00:19:16,740 --> 00:19:19,140
+uns im Grunde genommen dazu bewegt,
+
+518
+00:19:19,160 --> 00:19:21,600
+ein Argument zu führen und diese
+
+519
+00:19:21,600 --> 00:19:23,600
+Argumente werden angereiht. Und dabei
+
+520
+00:19:23,600 --> 00:19:25,200
+gibt es unterschiedliche Modelle.
+
+521
+00:19:25,460 --> 00:19:27,540
+Diese Modelle müssen wir untersuchen
+
+522
+00:19:27,540 --> 00:19:29,580
+und erkennen. Werden hier Argumente
+
+523
+00:19:29,580 --> 00:19:31,180
+und Gegenargumente geführt? Werden
+
+524
+00:19:31,180 --> 00:19:33,000
+nur Pro-Argumente geführt oder nur
+
+525
+00:19:33,000 --> 00:19:35,160
+Kontra-Argumente geführt? Wie sind
+
+526
+00:19:35,160 --> 00:19:37,300
+die einzelnen Argumente gewichtet?
+
+527
+00:19:37,520 --> 00:19:39,940
+Sind sie emotional oder sind sie
+
+528
+00:19:39,940 --> 00:19:42,540
+sachlich? Worauf berufen sich die
+
+529
+00:19:42,540 --> 00:19:45,320
+einzelnen Argumente? Sind es
+
+530
+00:19:45,320 --> 00:19:47,600
+Expertenmeinungen? Sind es normative,
+
+531
+00:19:47,660 --> 00:19:49,640
+also allgemeingültige Argumente oder
+
+532
+00:19:49,640 --> 00:19:53,100
+subjektive wahrgenommene Erfahrungen?
+
+533
+00:19:54,460 --> 00:19:55,440
+werden natürlich auch mit
+
+534
+00:19:55,440 --> 00:19:57,960
+rhetorischen Mitteln und der daraus
+
+535
+00:19:57,960 --> 00:19:59,440
+resultierenden Überzeugungskraft
+
+536
+00:19:59,440 --> 00:20:00,940
+geliefert. Diese müssen wir erkennen
+
+537
+00:20:00,940 --> 00:20:02,480
+und uns fragen, inwieweit sie
+
+538
+00:20:02,480 --> 00:20:04,240
+authentisch, also nachvollziehbar
+
+539
+00:20:04,240 --> 00:20:06,140
+sind. Und wir müssen uns natürlich
+
+540
+00:20:06,140 --> 00:20:08,720
+mit der Wortwahl und dem Jargon, das
+
+541
+00:20:08,720 --> 00:20:11,320
+heißt der allgemeinen Sprache, der
+
+542
+00:20:11,320 --> 00:20:15,440
+zum Beispiel politischen Rede oder
+
+543
+00:20:15,440 --> 00:20:16,780
+dem allgemeinen Sachtext
+
+544
+00:20:16,780 --> 00:20:20,410
+auseinandersetzen. Wir haben also
+
+545
+00:20:20,410 --> 00:20:22,010
+gelernt, dass bei Analyse
+
+546
+00:20:22,010 --> 00:20:24,370
+unterschiedliche Punkte wichtig sind,
+
+547
+00:20:24,370 --> 00:20:26,210
+Das hängt grundsätzlich davon ab,
+
+548
+00:20:26,310 --> 00:20:28,310
+welche Textsorte wir vorfinden. Wir
+
+549
+00:20:28,310 --> 00:20:30,070
+haben allerdings festgestellt, dass
+
+550
+00:20:30,070 --> 00:20:32,990
+die allgemeine Analyse darauf beruht,
+
+551
+00:20:32,990 --> 00:20:34,530
+dass wir eine Einleitung haben, das
+
+552
+00:20:34,530 --> 00:20:36,650
+heißt uns vergegenwärtigen, worum
+
+553
+00:20:36,650 --> 00:20:38,210
+geht es, was ist es für eine
+
+554
+00:20:38,210 --> 00:20:40,150
+Textsorte, wer hat es geschrieben,
+
+555
+00:20:40,390 --> 00:20:42,530
+wie ist der Titel und indem wir in
+
+556
+00:20:42,530 --> 00:20:43,990
+einem kurzen Satz beschreiben, worum
+
+557
+00:20:43,990 --> 00:20:46,410
+es geht, anschließend den Inhalt
+
+558
+00:20:46,410 --> 00:20:49,370
+vorführen, das heißt wir fertigen
+
+559
+00:20:49,370 --> 00:20:51,710
+eine Inhaltsangabe, indem wir den
+
+560
+00:20:51,710 --> 00:20:53,450
+Inhalt reproduzieren für ein... einen
+
+561
+00:20:53,450 --> 00:20:56,470
+eventuellen Leser unserer Analyse,
+
+562
+00:20:56,550 --> 00:20:58,750
+der im Grunde genommen mit Hilfe
+
+563
+00:20:58,750 --> 00:21:00,790
+unserer Analyse zuerst vorbereitet
+
+564
+00:21:00,790 --> 00:21:02,410
+werden muss. Das sind dann die Punkte
+
+565
+00:21:02,410 --> 00:21:03,850
+der Einleitung, die
+
+566
+00:21:03,850 --> 00:21:05,590
+Rahmenbedingungen, den allgemeinen
+
+567
+00:21:05,590 --> 00:21:07,830
+Inhalt und dann anschließend zu
+
+568
+00:21:07,830 --> 00:21:10,050
+unserer Strukturanalyse kommen, bei
+
+569
+00:21:10,050 --> 00:21:11,470
+der wir schauen, wie ist der Text
+
+570
+00:21:11,470 --> 00:21:13,270
+gegliedert, wie ist er aufgebaut, wie
+
+571
+00:21:13,270 --> 00:21:14,410
+ist das Erscheinungsbild.
+
+572
+00:21:17,050 --> 00:21:18,430
+Anschließend schlussfolgern wir und
+
+573
+00:21:18,430 --> 00:21:19,710
+deuten wir aus den eben
+
+574
+00:21:19,710 --> 00:21:21,650
+reproduzierten Sachen wie Inhalt und
+
+575
+00:21:21,650 --> 00:21:25,050
+Struktur. unsere eigenen Ideen
+
+576
+00:21:25,050 --> 00:21:27,110
+beziehungsweise die Gedanken und
+
+577
+00:21:27,110 --> 00:21:28,510
+führen im Grunde genommen das
+
+578
+00:21:28,510 --> 00:21:31,250
+Gegebene fort zu einer eventuellen
+
+579
+00:21:31,250 --> 00:21:33,090
+Deutungshypothese, die wir am Ende
+
+580
+00:21:33,090 --> 00:21:36,470
+unserer Analyse, also den Gedanken,
+
+581
+00:21:36,530 --> 00:21:38,630
+die wir zusammenführen, indem wir
+
+582
+00:21:38,630 --> 00:21:40,290
+Punkt A sehen und Punkt B sehen und
+
+583
+00:21:40,290 --> 00:21:41,770
+diese zusammenführen und daraus für
+
+584
+00:21:41,770 --> 00:21:44,490
+uns eine Konsequenz ziehen. Zum
+
+585
+00:21:44,490 --> 00:21:47,370
+Beispiel, ich gehe raus, es ist kalt,
+
+586
+00:21:47,410 --> 00:21:49,530
+ich schließe Daraus ist es Winter.
+
+587
+00:21:49,790 --> 00:21:51,110
+Also das meine ich mit
+
+588
+00:21:51,110 --> 00:21:52,990
+Schlussfolgerung. Und anschließend
+
+589
+00:21:52,990 --> 00:21:55,790
+kommen wir dazu, für uns einen
+
+590
+00:21:55,790 --> 00:21:57,590
+Schluss anzufertigen, bei dem wir
+
+591
+00:21:57,590 --> 00:21:59,230
+natürlich nicht subjektiv sind,
+
+592
+00:21:59,350 --> 00:22:01,170
+sondern wir versuchen mithilfe
+
+593
+00:22:01,170 --> 00:22:03,450
+unserer Analyse und an unseren
+
+594
+00:22:03,450 --> 00:22:05,530
+Analyseergebnissen zu einem Schluss
+
+595
+00:22:05,530 --> 00:22:07,370
+zu kommen und ein Resümee zu sehen,
+
+596
+00:22:07,470 --> 00:22:09,130
+indem wir uns stets die Frage
+
+597
+00:22:09,130 --> 00:22:11,050
+stellen, warum ist das geschrieben
+
+598
+00:22:11,050 --> 00:22:13,990
+worden? Warum ist diese Intention bei
+
+599
+00:22:13,990 --> 00:22:16,030
+mir in den Kopf gekommen? Und wie
+
+600
+00:22:16,030 --> 00:22:18,030
+komme ich dazu? damit etwas
+
+601
+00:22:18,030 --> 00:22:20,590
+anzufangen. Anschließend, sofern
+
+602
+00:22:20,590 --> 00:22:22,270
+gewollt, können wir auch noch eine
+
+603
+00:22:22,270 --> 00:22:24,210
+eigene Meinung, das heißt, wie wir
+
+604
+00:22:24,210 --> 00:22:26,210
+den Text selbst empfunden haben und
+
+605
+00:22:26,210 --> 00:22:29,310
+wie wir dazu stehen, anfertigen. Das
+
+606
+00:22:29,310 --> 00:22:31,090
+ist zur allgemeinen Analyse und
+
+607
+00:22:31,090 --> 00:22:33,030
+Interpretation von Texten zu sagen.
+
+608
+00:22:33,410 --> 00:22:34,430
+Vielen lieben Dank.
+

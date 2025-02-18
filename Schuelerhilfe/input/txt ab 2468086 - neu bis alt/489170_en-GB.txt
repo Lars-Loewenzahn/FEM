@@ -1,0 +1,355 @@
+﻿1
+00:00:00,460 --> 00:00:01,720
+Hello, I'm delighted that you 
+
+2
+00:00:01,720 --> 00:00:03,260
+'re back today. In this 
+
+3
+00:00:03,260 --> 00:00:04,480
+video, I would like to explain to you 
+
+4
+00:00:04,660 --> 00:00:06,980
+how to create the normal at a point on 
+
+5
+00:00:06,980 --> 00:00:09,280
+a function. In the 
+
+6
+00:00:09,280 --> 00:00:10,740
+previous video, I already explained how to 
+
+7
+00:00:10,740 --> 00:00:12,200
+create a tangent to a function 
+
+8
+00:00:12,200 --> 00:00:14,100
+and I'm going to 
+
+9
+00:00:14,100 --> 00:00:15,860
+
+10
+00:00:15,860 --> 00:00:18,280
+refer back to the results of the previous 
+video. This means that if 
+
+11
+00:00:18,280 --> 00:00:19,720
+you are going a bit too fast here, it may 
+
+12
+00:00:19,720 --> 00:00:21,080
+be helpful to watch the 
+
+13
+00:00:21,080 --> 00:00:23,100
+previous video . 
+
+14
+00:00:23,100 --> 00:00:24,740
+To explain everything a little better, I 
+have already 
+
+15
+00:00:24,740 --> 00:00:26,440
+prepared my coordinate system. 
+
+16
+00:00:26,600 --> 00:00:29,040
+In this coordinate system, we have 
+
+17
+00:00:29,040 --> 00:00:31,980
+given the function fx. 
+
+18
+00:00:31,980 --> 00:00:34,200
+We have 
+
+19
+00:00:34,200 --> 00:00:36,640
+created the tangent t to this function in 
+the previous video, at 
+
+20
+00:00:36,640 --> 00:00:39,800
+point p. And we 
+
+21
+00:00:39,800 --> 00:00:42,800
+now want to create the normal n on this 
+tangent . The 
+
+22
+00:00:42,800 --> 00:00:45,920
+normal is exactly perpendicular to the 
+
+23
+00:00:45,920 --> 00:00:49,580
+tangent. What we 
+
+24
+00:00:49,580 --> 00:00:51,200
+take from the last video... take. 
+
+25
+00:00:51,600 --> 00:00:55,440
+Our function was called x to the power of 
+3 minus 
+
+26
+00:00:55,440 --> 00:00:58,520
+3x squared plus x minus 2 and the 
+
+27
+00:00:58,520 --> 00:01:00,120
+point at which we 
+
+28
+00:01:00,120 --> 00:01:04,980
+created the tangent was called p1 and 
+minus 3. 
+
+29
+00:01:05,340 --> 00:01:08,080
+The result in the last video was the 
+
+30
+00:01:08,080 --> 00:01:12,120
+tangent minus 2x minus 1. This 
+
+31
+00:01:12,120 --> 00:01:13,820
+means that the slope of the tangent 
+
+32
+00:01:13,820 --> 00:01:18,780
+was mt is equal to minus 2. This 
+
+33
+00:01:18,780 --> 00:01:20,240
+intermediate result is 
+
+34
+00:01:20,240 --> 00:01:21,820
+very important for creating the normal. 
+
+35
+00:01:24,480 --> 00:01:26,240
+Let's start by creating the 
+
+36
+00:01:26,240 --> 00:01:29,100
+normal equation. Just like the 
+
+37
+00:01:29,100 --> 00:01:31,620
+tangent, the normal is a linear 
+
+38
+00:01:31,620 --> 00:01:33,680
+function and has the general 
+
+39
+00:01:33,680 --> 00:01:38,140
+form y is equal to m times x plus n. To 
+
+40
+00:01:38,140 --> 00:01:39,880
+determine the m of the normal, 
+
+41
+00:01:39,900 --> 00:01:42,580
+we can use this formula. m 
+
+42
+00:01:42,580 --> 00:01:45,900
+normal is equal to the negative 
+
+43
+00:01:45,900 --> 00:01:48,580
+reciprocal of the slope of the tangent. 
+
+44
+00:01:49,160 --> 00:01:53,480
+We therefore use the result of 
+
+45
+00:01:53,480 --> 00:01:56,760
+our last calculation for mt , i.e. mt 
+
+46
+00:01:56,760 --> 00:02:01,340
+is equal to minus 2. The result is 
+
+47
+00:02:01,340 --> 00:02:03,620
+the slope of our normal. The 
+
+48
+00:02:04,900 --> 00:02:09,200
+calculation is therefore mn is equal to 
+
+49
+00:02:09,200 --> 00:02:13,180
+minus 1 divided by minus 2 and this 
+
+50
+00:02:13,180 --> 00:02:19,820
+means that mn is equal to 1.5 or 
+
+51
+00:02:19,820 --> 00:02:24,060
+0.5. What we are still 
+
+52
+00:02:24,060 --> 00:02:26,420
+missing for our complete equation is the 
+n. 
+
+53
+00:02:27,120 --> 00:02:28,600
+I have 
+
+54
+00:02:28,600 --> 00:02:30,180
+written down all the important clues 
+again. 
+
+55
+00:02:30,340 --> 00:02:33,500
+On the one hand, this is the point 
+
+56
+00:02:33,500 --> 00:02:36,740
+at which our normal lies, the slope 
+
+57
+00:02:36,740 --> 00:02:38,920
+of our normal and the general 
+
+58
+00:02:38,920 --> 00:02:40,440
+functional equation of a linear 
+
+59
+00:02:40,440 --> 00:02:43,260
+function. I insert the 
+
+60
+00:02:43,260 --> 00:02:45,760
+result for the m , the 
+
+61
+00:02:45,760 --> 00:02:50,140
+
+62
+00:02:50,140 --> 00:02:52,440
+values of my point for the slope of the 
+normal and for x and y. The 
+
+63
+00:02:52,440 --> 00:02:55,600
+equation is then minus 3 
+
+64
+00:02:55,600 --> 00:03:01,960
+equals 0.5 5 times 1 plus n. Now 
+
+65
+00:03:01,960 --> 00:03:04,060
+I solve the equation for n. I 
+
+66
+00:03:10,780 --> 00:03:12,920
+calculate minus 0.5 on both sides 
+
+67
+00:03:12,920 --> 00:03:17,300
+and get minus 3.5 equals 
+
+68
+00:03:17,300 --> 00:03:21,680
+n. Now I can 
+
+69
+00:03:21,680 --> 00:03:24,020
+set up a complete functional equation that 
+
+70
+00:03:24,020 --> 00:03:25,660
+corresponds to the equation of my tangents 
+
+71
+00:03:25,660 --> 00:03:30,860
+. Namely, n for tangent 
+
+72
+00:03:30,860 --> 00:03:35,980
+as a function of x is equal to 0.5. 5x 
+
+73
+00:03:35,980 --> 00:03:40,140
+minus 3.5. So let's 
+
+74
+00:03:40,140 --> 00:03:42,420
+summarize again. If you want to 
+
+75
+00:03:42,420 --> 00:03:44,740
+create the normal at a point, you must 
+
+76
+00:03:44,740 --> 00:03:46,320
+first 
+
+77
+00:03:46,320 --> 00:03:48,180
+determine the slope of the normal. The 
+slope is the 
+
+78
+00:03:48,180 --> 00:03:50,660
+negative reciprocal of the slope of the 
+
+79
+00:03:50,660 --> 00:03:53,020
+function. You can then insert the point 
+
+80
+00:03:53,020 --> 00:03:54,700
+and the slope into the general 
+
+81
+00:03:54,700 --> 00:03:56,280
+functional equation of a linear 
+
+82
+00:03:56,280 --> 00:03:58,480
+function and 
+
+83
+00:03:58,480 --> 00:04:00,660
+solve for n. If you then insert both 
+
+84
+00:04:00,660 --> 00:04:02,320
+results into this pattern, you will 
+
+85
+00:04:02,420 --> 00:04:04,100
+get the equation of your 
+
+86
+00:04:04,100 --> 00:04:07,560
+normal function. Good luck and see you 
+
+87
+00:04:07,560 --> 00:04:08,100
+next time. 

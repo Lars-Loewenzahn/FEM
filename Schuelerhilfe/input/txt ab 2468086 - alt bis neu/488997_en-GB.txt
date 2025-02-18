@@ -1,0 +1,811 @@
+﻿1
+00:00:00,270 --> 00:00:02,170
+Hello and welcome to the 
+
+2
+00:00:02,170 --> 00:00:04,570
+Schülerhilfe learning videos. 
+
+3
+00:00:04,570 --> 00:00:06,030
+In this video, you will learn all about 
+
+4
+00:00:06,030 --> 00:00:08,090
+internet research and how to 
+
+5
+00:00:08,090 --> 00:00:09,790
+
+6
+00:00:09,790 --> 00:00:13,390
+find more information for your 
+presentation . Today we'll be looking at 
+
+7
+00:00:13,390 --> 00:00:16,210
+the following points. 
+
+8
+00:00:16,210 --> 00:00:17,810
+Gaining an overview of the topic, 
+
+9
+00:00:18,610 --> 00:00:20,690
+researching the internet in more detail, 
+
+10
+00:00:21,930 --> 00:00:25,010
+evaluating sources correctly and 
+
+11
+00:00:25,010 --> 00:00:26,770
+citing internet sources. 
+
+12
+00:00:30,610 --> 00:00:32,310
+So let's start with how to 
+
+13
+00:00:32,310 --> 00:00:33,870
+... get an overview of the 
+
+14
+00:00:33,870 --> 00:00:34,630
+topic. 
+
+15
+00:00:39,520 --> 00:00:41,460
+A good way to get an 
+
+16
+00:00:41,460 --> 00:00:42,980
+overview 
+
+17
+00:00:42,980 --> 00:00:44,500
+of a specific topic on the Internet 
+
+18
+00:00:44,560 --> 00:00:46,860
+is to use the free encyclopaedia 
+Wikipedia. 
+
+19
+00:00:48,500 --> 00:00:51,540
+You can find it at en.wikipedia 
+
+20
+00:00:51,540 --> 00:00:52,520
+.org. 
+
+21
+00:00:55,440 --> 00:00:57,460
+For example, if you 
+
+22
+00:00:57,460 --> 00:00:59,840
+have to give a presentation on the topic 
+of honey, you can 
+
+23
+00:00:59,840 --> 00:01:01,920
+enter the term honey in 
+
+24
+00:01:01,920 --> 00:01:03,040
+the search field on Wikipedia. 
+
+25
+00:01:07,460 --> 00:01:09,220
+An article on the 
+
+26
+00:01:09,220 --> 00:01:12,720
+topic of honey will then appear. At the 
+top you will find 
+
+27
+00:01:12,720 --> 00:01:14,820
+a definition that explains the term 
+
+28
+00:01:14,820 --> 00:01:18,860
+honey. Below this you will find 
+
+29
+00:01:18,860 --> 00:01:21,840
+a table of contents. The 
+
+30
+00:01:21,840 --> 00:01:22,820
+sub-items in the 
+
+31
+00:01:22,820 --> 00:01:24,820
+table of contents already give you 
+
+32
+00:01:24,820 --> 00:01:26,480
+a good overview of the topic. 
+
+33
+00:01:29,420 --> 00:01:31,280
+Let's delve deeper into the subject 
+
+34
+00:01:31,280 --> 00:01:33,140
+and take a 
+
+35
+00:01:33,140 --> 00:01:34,760
+closer look at the research point. 
+
+36
+00:01:43,150 --> 00:01:45,230
+In the Wikipedia table of contents, 
+
+37
+00:01:45,230 --> 00:01:47,730
+you will always find the 
+
+38
+00:01:47,730 --> 00:01:49,970
+underlying literature, the 
+
+39
+00:01:49,970 --> 00:01:51,650
+web links and individual references at the 
+very end. 
+
+40
+00:01:58,030 --> 00:01:59,830
+The Wikipedia web links will take you 
+
+41
+00:01:59,830 --> 00:02:01,670
+to helpful pages. 
+
+42
+00:02:01,950 --> 00:02:03,710
+In the case of honey, for example, this 
+could 
+
+43
+00:02:03,710 --> 00:02:06,150
+be the page beinfo.de. 
+
+44
+00:02:06,850 --> 00:02:09,230
+On most pages there is 
+
+45
+00:02:09,230 --> 00:02:11,010
+a point on the left that 
+
+46
+00:02:11,010 --> 00:02:12,730
+can lead you to other interesting pages. 
+
+47
+00:02:18,030 --> 00:02:19,870
+Now a few tips on 
+
+48
+00:02:19,870 --> 00:02:21,570
+keyword searches with the search engine. 
+
+49
+00:02:22,930 --> 00:02:24,550
+Use exact terms. Terms. 
+
+50
+00:02:26,310 --> 00:02:28,150
+Combine different terms that 
+
+51
+00:02:28,150 --> 00:02:29,670
+describe what you 
+
+52
+00:02:29,670 --> 00:02:32,230
+are looking for as precisely as possible. 
+When searching for the 
+
+53
+00:02:32,230 --> 00:02:34,370
+function of drones in the bee colony 
+
+54
+00:02:34,370 --> 00:02:37,230
+, do not search for biology bees 
+
+55
+00:02:37,810 --> 00:02:40,570
+, but for bee drone function. 
+
+56
+00:02:42,230 --> 00:02:44,190
+Pay attention to the order of your 
+
+57
+00:02:44,190 --> 00:02:46,450
+search terms. Write them in 
+
+58
+00:02:46,450 --> 00:02:50,370
+order of importance. Lower 
+
+59
+00:02:50,370 --> 00:02:51,890
+and upper case letters of the search terms 
+
+60
+00:02:51,890 --> 00:02:53,490
+are irrelevant. 
+
+61
+00:02:57,370 --> 00:02:59,370
+Also pay attention to grammar 
+
+62
+00:02:59,370 --> 00:03:01,630
+so as not to limit your search results 
+unnecessarily 
+
+63
+00:03:01,630 --> 00:03:05,010
+. For verbs, 
+
+64
+00:03:05,010 --> 00:03:07,310
+only use the stem of the word, e.g. 
+
+65
+00:03:07,310 --> 00:03:09,890
+sammel instead of sammeln and no 
+
+66
+00:03:09,890 --> 00:03:12,030
+tense, i.e. not sammelten. 
+
+67
+00:03:13,250 --> 00:03:18,080
+Use the singular for nouns. 
+
+68
+00:03:18,080 --> 00:03:19,520
+You can exclude certain words from your 
+
+69
+00:03:19,520 --> 00:03:21,200
+search by 
+
+70
+00:03:21,200 --> 00:03:24,440
+placing a minus sign in front of them. A 
+search for 
+
+71
+00:03:24,440 --> 00:03:28,740
+bee, drone function minus honey 
+
+72
+00:03:28,740 --> 00:03:31,480
+will find all pages containing the 
+
+73
+00:03:31,480 --> 00:03:33,380
+first three terms and 
+
+74
+00:03:33,380 --> 00:03:35,300
+not the word honey. You 
+
+75
+00:03:38,890 --> 00:03:40,850
+can also narrow down your 
+
+76
+00:03:40,850 --> 00:03:44,190
+search on Google. You can do this 
+
+77
+00:03:44,350 --> 00:03:46,450
+by changing the search options. 
+
+78
+00:03:46,650 --> 00:03:47,250
+You 
+
+79
+00:03:51,180 --> 00:03:52,840
+can also 
+
+80
+00:03:52,840 --> 00:03:55,960
+search for images on Google. To do this, 
+go to the Google website 
+
+81
+00:03:55,960 --> 00:03:57,760
+and enter your search term. 
+
+82
+00:03:58,800 --> 00:04:00,480
+Then click on the sub-item 
+
+83
+00:04:00,480 --> 00:04:00,900
+Images. 
+
+84
+00:04:05,630 --> 00:04:07,630
+Then select an image by 
+
+85
+00:04:07,630 --> 00:04:10,310
+clicking on it. You will be taken to a 
+
+86
+00:04:10,310 --> 00:04:12,050
+website where the image 
+
+87
+00:04:12,050 --> 00:04:12,830
+was found. 
+
+88
+00:04:16,350 --> 00:04:18,490
+On the right-hand side of the screen, you 
+will 
+
+89
+00:04:18,490 --> 00:04:20,110
+see a pop-up from Google for this 
+
+90
+00:04:20,110 --> 00:04:23,450
+image. Click on Original size. 
+
+91
+00:04:24,750 --> 00:04:27,110
+On the following page you will only see 
+
+92
+00:04:27,110 --> 00:04:29,770
+the image in its original size. 
+
+93
+00:04:29,770 --> 00:04:31,570
+You can 
+
+94
+00:04:31,570 --> 00:04:34,410
+save or copy the image by right-clicking 
+on it. 
+
+95
+00:04:37,260 --> 00:04:39,540
+
+96
+00:04:39,560 --> 00:04:41,800
+You now know how to find information on 
+the Internet. All that remains is to 
+evaluate these 
+
+97
+00:04:41,800 --> 00:04:43,240
+sources correctly. 
+
+98
+00:04:45,740 --> 00:04:48,040
+
+99
+00:04:48,040 --> 00:04:49,740
+You should therefore always critically 
+
+100
+00:04:49,740 --> 00:04:53,140
+scrutinize Wikipedia and other forum posts 
+. The articles in the 
+
+101
+00:04:53,140 --> 00:04:55,200
+online encyclopedia Wikipedia are 
+
+102
+00:04:55,200 --> 00:04:56,860
+mainly 
+
+103
+00:04:56,860 --> 00:04:59,820
+written and checked by private 
+individuals. You should 
+
+104
+00:04:59,820 --> 00:05:01,240
+therefore 
+
+105
+00:05:01,240 --> 00:05:02,320
+not 
+
+106
+00:05:02,320 --> 00:05:03,740
+
+107
+00:05:03,740 --> 00:05:07,600
+rely solely on information from Wikipedia 
+for your research. If you find 
+
+108
+00:05:07,600 --> 00:05:08,640
+an interesting video in a forum, you 
+should 
+
+109
+00:05:08,640 --> 00:05:10,200
+
+110
+00:05:10,200 --> 00:05:11,560
+be even more careful than with 
+
+111
+00:05:11,560 --> 00:05:14,160
+articles on Wikipedia, as 
+
+112
+00:05:14,160 --> 00:05:15,700
+no one usually checks their 
+
+113
+00:05:15,700 --> 00:05:19,160
+accuracy afterwards . Check the 
+
+114
+00:05:19,160 --> 00:05:21,220
+information from Wikipedia or 
+
+115
+00:05:21,220 --> 00:05:23,420
+forums by 
+
+116
+00:05:23,420 --> 00:05:25,540
+
+117
+00:05:25,540 --> 00:05:27,340
+comparing it with other sources such as 
+books, magazines and websites. 
+
+118
+00:05:31,210 --> 00:05:32,990
+Now let's move on to the topic of how 
+
+119
+00:05:32,990 --> 00:05:34,530
+to select relevant websites 
+
+120
+00:05:34,530 --> 00:05:38,050
+. For example, if you 
+
+121
+00:05:38,050 --> 00:05:41,090
+
+122
+00:05:41,090 --> 00:05:43,410
+click on bee links on the b-info.de 
+website , you will find the following web 
+links. 
+
+123
+00:05:51,610 --> 00:05:54,290
+Always remember that websites 
+
+124
+00:05:54,290 --> 00:05:56,170
+from official bodies, 
+
+125
+00:05:56,170 --> 00:05:58,270
+such as universities, offices 
+
+126
+00:05:58,270 --> 00:06:00,530
+or institutions, are always 
+
+127
+00:06:00,530 --> 00:06:03,050
+more reliable than private sites where 
+
+128
+00:06:03,050 --> 00:06:05,010
+the operator may be unclear 
+
+129
+00:06:05,010 --> 00:06:05,230
+. 
+
+130
+00:06:14,190 --> 00:06:15,770
+The question arises as to how to 
+
+131
+00:06:15,770 --> 00:06:17,170
+reliably 
+
+132
+00:06:17,170 --> 00:06:21,000
+check internet sources. First of all, we 
+should 
+
+133
+00:06:21,000 --> 00:06:22,680
+ask ourselves who 
+
+134
+00:06:22,680 --> 00:06:24,240
+actually operates the website 
+
+135
+00:06:24,240 --> 00:06:27,480
+and with what aim? Look for a 
+
+136
+00:06:27,480 --> 00:06:29,440
+menu item that tells you this 
+
+137
+00:06:29,440 --> 00:06:32,320
+. You will often find something like 
+
+138
+00:06:32,320 --> 00:06:35,320
+about this site, about us, who we 
+
+139
+00:06:35,320 --> 00:06:39,020
+are or similar sub-items. Every 
+
+140
+00:06:39,020 --> 00:06:40,860
+website must contain 
+
+141
+00:06:40,860 --> 00:06:42,860
+a link to the so-called imprint on the 
+main page 
+
+142
+00:06:42,860 --> 00:06:45,480
+. The official 
+
+143
+00:06:45,480 --> 00:06:47,960
+operator of the site is named there. 
+
+144
+00:06:52,890 --> 00:06:54,650
+You should also ask yourself whether there 
+are 
+
+145
+00:06:54,650 --> 00:06:56,610
+references or references on 
+
+146
+00:06:56,610 --> 00:06:58,890
+the page and on what 
+
+147
+00:06:58,890 --> 00:07:00,870
+basis an article was written. 
+
+148
+00:07:01,990 --> 00:07:04,570
+Pay attention to footnotes, sources 
+
+149
+00:07:04,570 --> 00:07:06,570
+or references at the end of the 
+
+150
+00:07:06,570 --> 00:07:08,990
+article or embedded links 
+
+151
+00:07:08,990 --> 00:07:09,790
+in the article. 
+
+152
+00:07:12,410 --> 00:07:15,070
+When citing online sources, there 
+
+153
+00:07:15,070 --> 00:07:16,870
+are a few special features to bear in 
+mind. 
+
+154
+00:07:20,800 --> 00:07:22,740
+First of all, find out who the 
+
+155
+00:07:22,740 --> 00:07:24,460
+authors of the page you have accessed are 
+
+156
+00:07:24,460 --> 00:07:26,260
+and when the article 
+
+157
+00:07:26,260 --> 00:07:28,960
+was written. 
+
+158
+00:07:28,960 --> 00:07:30,800
+
+159
+00:07:30,800 --> 00:07:33,060
+Is there any indication of this at the 
+beginning or end of the page or is there 
+something in the 
+
+160
+00:07:33,060 --> 00:07:34,520
+title bar of your browser? 
+
+161
+00:07:39,240 --> 00:07:41,380
+In some browsers, you can also 
+
+162
+00:07:41,380 --> 00:07:42,760
+right-click anywhere 
+
+163
+00:07:42,760 --> 00:07:44,740
+on the page and select 
+
+164
+00:07:44,740 --> 00:07:46,940
+Show page information. 
+
+165
+00:07:47,820 --> 00:07:49,640
+You will then find a lot of 
+
+166
+00:07:49,640 --> 00:07:52,080
+technical information, but often 
+
+167
+00:07:52,080 --> 00:07:54,660
+also the author and the date 
+
+168
+00:07:54,660 --> 00:07:56,500
+the page was created. If 
+
+169
+00:08:00,660 --> 00:08:02,380
+you 
+
+170
+00:08:02,380 --> 00:08:04,440
+have not found any information about the 
+car , use the operator of the page 
+
+171
+00:08:04,440 --> 00:08:07,660
+from the legal notice. Write down or 
+
+172
+00:08:07,660 --> 00:08:09,860
+copy the exact URL of the page 
+
+173
+00:08:09,900 --> 00:08:13,040
+you want to cite. 
+
+174
+00:08:13,040 --> 00:08:15,260
+Also make a note of when you visited the 
+page 
+
+175
+00:08:15,260 --> 00:08:17,360
+. Preferably with the time. 
+
+176
+00:08:20,330 --> 00:08:22,410
+Once you have all the information 
+together, 
+
+177
+00:08:22,610 --> 00:08:24,430
+
+178
+00:08:24,430 --> 00:08:27,570
+write down the result as follows. Make 
+sure 
+
+179
+00:08:27,570 --> 00:08:29,030
+that the citation is written in italics . 
+
+180
+00:08:35,780 --> 00:08:37,620
+An example like this will make this even 
+clearer 
+
+181
+00:08:37,620 --> 00:08:39,300
+. 
+
+182
+00:08:43,340 --> 00:08:45,140
+Incidentally, the date and time are 
+
+183
+00:08:45,140 --> 00:08:47,160
+important because a 
+
+184
+00:08:47,160 --> 00:08:48,980
+website 
+
+185
+00:08:48,980 --> 00:08:49,280
+can of course change constantly. 
+
+186
+00:08:54,210 --> 00:08:56,770
+When citing Wikipedia articles, 
+
+187
+00:08:57,250 --> 00:08:59,250
+Wikipedia 
+
+188
+00:08:59,250 --> 00:09:02,270
+offers you help with this. To do this, 
+click 
+
+189
+00:09:02,270 --> 00:09:05,390
+on Cite article in the sidebar under 
+Tools. 
+
+190
+00:09:05,610 --> 00:09:06,330
+
+191
+00:09:08,760 --> 00:09:10,140
+You will now receive a 
+
+192
+00:09:10,140 --> 00:09:12,740
+citation created by Wikipedia , which you 
+
+193
+00:09:12,740 --> 00:09:15,060
+can adopt or adapt directly. 
+
+194
+00:09:19,700 --> 00:09:21,260
+Thank you for your 
+
+195
+00:09:21,260 --> 00:09:22,440
+attention. 
+
+196
+00:09:22,440 --> 00:09:24,100
+I wish you every success with your 
+
+197
+00:09:24,100 --> 00:09:25,120
+internet research. 

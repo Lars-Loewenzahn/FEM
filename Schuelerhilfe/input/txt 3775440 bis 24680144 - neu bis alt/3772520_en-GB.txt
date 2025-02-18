@@ -1,0 +1,389 @@
+﻿1
+00:00:03,890 --> 00:00:06,150
+Hello, my name is Nick and I am a 
+
+2
+00:00:06,150 --> 00:00:07,670
+tutor at Schülerhilfe. 
+
+3
+00:00:07,730 --> 00:00:09,330
+Today I would like to 
+
+4
+00:00:09,330 --> 00:00:10,910
+introduce you to the basics of 
+photosynthesis 
+
+5
+00:00:10,910 --> 00:00:12,910
+. 
+
+6
+00:00:12,910 --> 00:00:14,710
+
+7
+00:00:14,710 --> 00:00:16,190
+You can find more learning content, such 
+as wikis, interactive tasks or worksheets, 
+in 
+
+8
+00:00:16,190 --> 00:00:19,070
+our online learning center. 
+
+9
+00:00:19,070 --> 00:00:20,490
+Photosynthesis is the fundamental 
+
+10
+00:00:20,490 --> 00:00:22,390
+process that makes most of the 
+
+11
+00:00:22,390 --> 00:00:24,390
+life on this planet possible. 
+
+12
+00:00:24,390 --> 00:00:26,510
+It was only through photosynthesis 
+
+13
+00:00:26,510 --> 00:00:28,170
+that enough oxygen entered the atmosphere 
+
+14
+00:00:28,190 --> 00:00:29,230
+to make it breathable. 
+
+15
+00:00:30,110 --> 00:00:31,230
+At the same time, photosynthesis 
+
+16
+00:00:31,230 --> 00:00:32,530
+also 
+
+17
+00:00:32,530 --> 00:00:34,250
+enables the production of plant biomass. 
+
+18
+00:00:34,610 --> 00:00:36,630
+Plants in turn form the lowest 
+
+19
+00:00:36,630 --> 00:00:38,390
+level of the food chain and are 
+
+20
+00:00:38,390 --> 00:00:40,210
+therefore essential for the existence of 
+
+21
+00:00:40,210 --> 00:00:41,950
+plants and carnivores. 
+
+22
+00:00:41,950 --> 00:00:44,010
+Photosynthesis is such an 
+
+23
+00:00:44,010 --> 00:00:45,570
+important and relevant process 
+
+24
+00:00:45,670 --> 00:00:47,430
+that mankind has been 
+
+25
+00:00:47,430 --> 00:00:49,590
+trying to copy it for a long time. 
+
+26
+00:00:49,590 --> 00:00:51,510
+Photovoltaics can be seen as the process 
+
+27
+00:00:51,510 --> 00:00:53,290
+with which we 
+
+28
+00:00:53,290 --> 00:00:54,790
+have 
+
+29
+00:00:54,790 --> 00:00:56,670
+come closest to photosynthesis so far. 
+What 
+
+30
+00:00:56,670 --> 00:00:58,330
+photosynthesis and photovoltaics have in 
+common is 
+
+31
+00:00:58,330 --> 00:01:00,590
+that both processes draw their energy 
+
+32
+00:01:00,590 --> 00:01:02,870
+from sunlight. 
+
+33
+00:01:02,870 --> 00:01:04,590
+As a rule, plants are mostly green. 
+
+34
+00:01:04,590 --> 00:01:07,170
+This is due to 
+
+35
+00:01:07,170 --> 00:01:08,950
+
+36
+00:01:08,990 --> 00:01:11,190
+chlorophyll , a substance that is 
+essential for the survival of plants. The 
+most important 
+
+37
+00:01:11,190 --> 00:01:12,770
+task of chlorophyll is to 
+
+38
+00:01:12,770 --> 00:01:15,090
+absorb and pass on the 
+
+39
+00:01:15,090 --> 00:01:17,150
+energy obtained from light. Plants 
+
+40
+00:01:17,150 --> 00:01:19,230
+absorb light in the red and blue 
+
+41
+00:01:19,230 --> 00:01:21,150
+range. Light in the green range is 
+
+42
+00:01:21,150 --> 00:01:23,210
+reflected. And this is precisely why 
+
+43
+00:01:23,210 --> 00:01:25,090
+plants are mostly green. 
+
+44
+00:01:25,090 --> 00:01:26,870
+Photosynthesis mainly takes place in 
+
+45
+00:01:26,870 --> 00:01:28,770
+the chloroplasts. Animals and 
+
+46
+00:01:28,770 --> 00:01:30,370
+humans do not have chloroplasts. 
+
+47
+00:01:30,550 --> 00:01:32,050
+
+48
+00:01:32,050 --> 00:01:34,370
+Instead, we obtain our energy in 
+mitochondria, which 
+
+49
+00:01:34,370 --> 00:01:35,870
+
+50
+00:01:35,870 --> 00:01:37,730
+are very similar to chloroplasts . Another 
+
+51
+00:01:37,730 --> 00:01:39,530
+prerequisite for photosynthesis 
+
+52
+00:01:39,530 --> 00:01:41,130
+is the constant connection with the 
+
+53
+00:01:41,130 --> 00:01:43,210
+gases in the environment. Stomata are 
+
+54
+00:01:43,210 --> 00:01:44,770
+cells on the surface of 
+
+55
+00:01:44,770 --> 00:01:46,490
+leaves. These cells have a 
+
+56
+00:01:46,490 --> 00:01:47,750
+gap and thus connect the 
+
+57
+00:01:47,750 --> 00:01:49,150
+atmosphere with the inside of the 
+
+58
+00:01:49,150 --> 00:01:50,730
+leaf. They 
+
+59
+00:01:50,730 --> 00:01:52,810
+
+60
+00:01:52,810 --> 00:01:55,130
+are responsible for transpiration, water 
+and gas exchange. 
+
+61
+00:01:55,130 --> 00:01:56,930
+Now that we have 
+
+62
+00:01:56,930 --> 00:01:58,350
+
+63
+00:01:58,350 --> 00:01:59,690
+dealt with the general information on 
+photosynthesis 
+
+64
+00:01:59,690 --> 00:02:01,390
+, let's take a 
+
+65
+00:02:01,390 --> 00:02:03,670
+closer look at this biochemical process. 
+
+66
+00:02:04,090 --> 00:02:06,050
+As part of the light reaction, 
+
+67
+00:02:06,050 --> 00:02:08,150
+water is 
+
+68
+00:02:08,150 --> 00:02:10,090
+split using the energy obtained from the 
+light. The 
+
+69
+00:02:10,090 --> 00:02:11,730
+resulting molecules, which 
+
+70
+00:02:11,730 --> 00:02:13,270
+are hydrocarbons 
+
+71
+00:02:13,270 --> 00:02:14,870
+, are in turn 
+
+72
+00:02:14,870 --> 00:02:16,970
+converted into energy that can be used 
+directly by plants. 
+
+73
+00:02:16,970 --> 00:02:19,390
+As the name 
+
+74
+00:02:19,390 --> 00:02:21,630
+suggests , the dark reaction takes place 
+in the dark. Therefore, 
+
+75
+00:02:21,630 --> 00:02:23,130
+the plant 
+
+76
+00:02:23,130 --> 00:02:24,510
+cannot directly 
+
+77
+00:02:24,510 --> 00:02:26,690
+access light energy in this reaction. 
+Instead, the 
+
+78
+00:02:26,690 --> 00:02:28,170
+
+79
+00:02:28,170 --> 00:02:30,530
+biomolecules used in the light reaction 
+are used to 
+
+80
+00:02:30,530 --> 00:02:32,310
+
+81
+00:02:32,310 --> 00:02:34,350
+produce the substances relevant to the 
+plant's structure. All green plants, 
+
+82
+00:02:34,450 --> 00:02:36,630
+cyanobacteria and some 
+
+83
+00:02:36,630 --> 00:02:37,810
+other bacteria carry out 
+
+84
+00:02:37,810 --> 00:02:40,070
+photosynthesis. A few years ago 
+
+85
+00:02:40,070 --> 00:02:41,670
+, even an animal, a 
+
+86
+00:02:41,670 --> 00:02:43,270
+sea snail, was found that 
+
+87
+00:02:43,270 --> 00:02:45,310
+can photosynthesize. 
+
+88
+00:02:45,310 --> 00:02:46,910
+As a rule, however, this ability is 
+
+89
+00:02:46,910 --> 00:02:49,810
+reserved for plants. I hope that 
+
+90
+00:02:49,810 --> 00:02:50,890
+you have now 
+
+91
+00:02:50,890 --> 00:02:52,730
+understood the basics of photosynthesis. 
+
+92
+00:02:52,730 --> 00:02:54,350
+If you have any further questions, there 
+is 
+
+93
+00:02:54,350 --> 00:02:55,770
+ of course more 
+
+94
+00:02:55,770 --> 00:02:57,630
+content available in the online learning 
+center. See you 
+
+95
+00:02:57,630 --> 00:02:58,070
+next time. 

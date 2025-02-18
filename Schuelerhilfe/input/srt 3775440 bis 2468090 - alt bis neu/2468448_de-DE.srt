@@ -1,0 +1,804 @@
+1
+00:00:01,490 --> 00:00:03,170
+Herzlich willkommen zum Webinar
+
+2
+00:00:03,170 --> 00:00:05,370
+Grundbegriffe der Geometrie. Wir
+
+3
+00:00:05,370 --> 00:00:07,050
+werden uns in diesem Webinar über die
+
+4
+00:00:07,050 --> 00:00:08,490
+Grundbegriffe der Geometrie
+
+5
+00:00:08,490 --> 00:00:10,090
+unterhalten. Das ist einerseits der
+
+6
+00:00:10,090 --> 00:00:11,510
+Punkt, damit fangen wir an, der ist
+
+7
+00:00:11,510 --> 00:00:14,550
+ein sehr elementares. Und danach
+
+8
+00:00:14,550 --> 00:00:15,850
+schauen wir uns noch Geraden,
+
+9
+00:00:15,850 --> 00:00:18,610
+Strecken an, sowie Winkel und Kreise.
+
+10
+00:00:20,070 --> 00:00:22,010
+Fangen wir mit dem Punkt an. Ein
+
+11
+00:00:22,010 --> 00:00:23,690
+Punkt ist das wichtigste Element in
+
+12
+00:00:23,690 --> 00:00:25,370
+der Geometrie. Mit einem Punkt kann
+
+13
+00:00:25,370 --> 00:00:27,610
+man schon Eckpunkte definieren und
+
+14
+00:00:27,610 --> 00:00:30,630
+alles weitere. Des Weiteren sind auch
+
+15
+00:00:30,630 --> 00:00:31,850
+Punkte in einem Koordinatensystem
+
+16
+00:00:31,850 --> 00:00:34,070
+nicht wegzudenken. So einen Punkt
+
+17
+00:00:34,070 --> 00:00:36,630
+markiert man durch so ein kleines
+
+18
+00:00:36,630 --> 00:00:38,330
+Kreuzchen. Das Kreuzchen sollte
+
+19
+00:00:38,330 --> 00:00:39,610
+natürlich mit möglichst dünn
+
+20
+00:00:39,610 --> 00:00:40,910
+gezeichnet werden. Und der
+
+21
+00:00:40,910 --> 00:00:42,630
+eigentliche Punkt, der ist jetzt
+
+22
+00:00:42,630 --> 00:00:44,470
+nicht in dem Bereich, sondern der
+
+23
+00:00:44,470 --> 00:00:45,930
+Punkt ist wirklich in dem
+
+24
+00:00:45,930 --> 00:00:47,590
+Schnittpunkt von diesen kleinen
+
+25
+00:00:47,590 --> 00:00:50,210
+Strecken hier. Also da sitzt der
+
+26
+00:00:50,210 --> 00:00:52,310
+eigentliche Punkt drin. Und damit man
+
+27
+00:00:52,310 --> 00:00:53,350
+den Punkt auf seinem Blatt
+
+28
+00:00:53,350 --> 00:00:54,370
+wiederfindet, macht man da so ein
+
+29
+00:00:54,370 --> 00:00:56,510
+kleines Kreuzchen drum. Darum dabei
+
+30
+00:00:56,510 --> 00:00:57,670
+bitte darauf achten, dass man das
+
+31
+00:00:57,670 --> 00:00:59,090
+möglichst fein macht, einfach damit
+
+32
+00:00:59,090 --> 00:01:01,130
+es schön genau ist. Das ist auch so
+
+33
+00:01:01,130 --> 00:01:02,070
+etwas ganz Wichtiges in der
+
+34
+00:01:02,070 --> 00:01:03,990
+Geometrie. Es sollte immer möglichst
+
+35
+00:01:03,990 --> 00:01:05,210
+genau sein, deswegen immer einen
+
+36
+00:01:05,210 --> 00:01:06,830
+schönen spitzen Bleistift verwenden.
+
+37
+00:01:08,330 --> 00:01:09,930
+Damit wären wir auch schon bei
+
+38
+00:01:09,930 --> 00:01:11,330
+Geraden und Strecken. Und zwar, was
+
+39
+00:01:11,330 --> 00:01:12,550
+ist eigentlich der Unterschied
+
+40
+00:01:12,550 --> 00:01:15,590
+dazwischen? Und zwar, wenn wir zwei
+
+41
+00:01:15,590 --> 00:01:19,350
+Punkte zeichnen und diese durch eine
+
+42
+00:01:19,350 --> 00:01:22,790
+Linie verbinden, so ist diese Linie
+
+43
+00:01:22,790 --> 00:01:25,810
+eine Gerade. Denn eine Gerade wird
+
+44
+00:01:25,810 --> 00:01:27,450
+nicht durch die Punkte begrenzt. Eine
+
+45
+00:01:27,450 --> 00:01:28,990
+Gerade hat die Eigenschaft, dass
+
+46
+00:01:28,990 --> 00:01:31,350
+diese unendlich lang ist. Das heißt,
+
+47
+00:01:31,410 --> 00:01:33,350
+eine Gerade hat kein Anfang und kein
+
+48
+00:01:33,350 --> 00:01:36,690
+Ende. Sie beginnt nicht an einem der
+
+49
+00:01:36,690 --> 00:01:38,330
+beiden Punkte und endet am anderen.
+
+50
+00:01:38,450 --> 00:01:43,280
+Sie ist unendlich lang. Das ist
+
+51
+00:01:43,280 --> 00:01:45,220
+nämlich der große Unterschied zur
+
+52
+00:01:45,220 --> 00:01:47,100
+Strecke. Eine Strecke ist eine
+
+53
+00:01:47,100 --> 00:01:48,580
+direkte Verbindung zwischen zwei
+
+54
+00:01:48,580 --> 00:01:50,180
+Punkten und eine Strecke fängt in
+
+55
+00:01:50,180 --> 00:01:51,920
+einem Punkt an und endet auch wieder
+
+56
+00:01:51,920 --> 00:01:55,400
+in einem Punkt. einfach unendlich
+
+57
+00:01:55,400 --> 00:01:56,640
+lang ist und die beiden Punkte
+
+58
+00:01:56,640 --> 00:01:59,120
+enthält. Das ist ein ganz großer
+
+59
+00:01:59,120 --> 00:02:02,460
+Unterschied. Deswegen, Strecke ist
+
+60
+00:02:02,460 --> 00:02:04,600
+einfach immer nur die direkte
+
+61
+00:02:04,600 --> 00:02:06,120
+Verbindung zweier Punkte und die
+
+62
+00:02:06,120 --> 00:02:08,200
+Gerade ist unendlich lang, die
+
+63
+00:02:08,200 --> 00:02:10,920
+Strecke nicht. Was es noch dazu gibt,
+
+64
+00:02:11,000 --> 00:02:13,320
+ist der sogenannte Strahl. Der Strahl
+
+65
+00:02:13,320 --> 00:02:14,880
+beginnt in einem Punkt und ist dann
+
+66
+00:02:14,880 --> 00:02:18,140
+unendlich lang, wie zum Beispiel der
+
+67
+00:02:18,140 --> 00:02:20,960
+Laserstrahl eines Laserpointers. Der
+
+68
+00:02:20,960 --> 00:02:24,140
+beginnt im Laser. Und ist dann
+
+69
+00:02:24,140 --> 00:02:26,200
+gradlinig quasi, wenn man so möchte,
+
+70
+00:02:26,320 --> 00:02:30,940
+unendlich lang. Damit wären wir auch
+
+71
+00:02:30,940 --> 00:02:33,980
+schon bei Winkeln. Winkel werden
+
+72
+00:02:33,980 --> 00:02:36,360
+immer zwischen sich schneidenden
+
+73
+00:02:36,360 --> 00:02:37,960
+Graden eingeschlossen. Das heißt, wir
+
+74
+00:02:37,960 --> 00:02:39,220
+sehen hier grau hinterlegt zwei
+
+75
+00:02:39,220 --> 00:02:41,640
+Graden. Und diese haben einen
+
+76
+00:02:41,640 --> 00:02:43,380
+Schnittpunkt S, wenn man so möchte.
+
+77
+00:02:44,080 --> 00:02:46,680
+Und hier entsteht jetzt ein Winkel.
+
+78
+00:02:46,680 --> 00:02:48,400
+Der ist hier schwarz gekennzeichnet.
+
+79
+00:02:48,580 --> 00:02:50,520
+Das S steht aber nicht immer für
+
+80
+00:02:50,520 --> 00:02:52,220
+Schnittpunkt. Es kann auch für
+
+81
+00:02:52,220 --> 00:02:53,760
+Anfangspunkt stehen oder für
+
+82
+00:02:53,760 --> 00:02:54,640
+Scheitelpunkt.
+
+83
+00:02:56,920 --> 00:02:58,420
+Gängig ist, wenn man wirklich nur den
+
+84
+00:02:58,420 --> 00:02:59,560
+Winkel betrachtet, dass man es
+
+85
+00:02:59,560 --> 00:03:01,940
+Scheitelpunkt nennt. Und Winkel
+
+86
+00:03:01,940 --> 00:03:04,220
+werden immer nach dem griechischen
+
+87
+00:03:04,220 --> 00:03:05,520
+Alphabet benannt, das heißt Alpha,
+
+88
+00:03:05,600 --> 00:03:07,660
+Beta, Gamma, Delta, Epsilon.
+
+89
+00:03:10,400 --> 00:03:13,720
+Die beiden Teile der Graden, die sich
+
+90
+00:03:13,720 --> 00:03:16,400
+hier schneiden, also die Teile, die
+
+91
+00:03:16,400 --> 00:03:17,640
+sehen wir ja auf diesem Schaubild,
+
+92
+00:03:17,720 --> 00:03:20,480
+werden Schenkel genannt. Es gibt
+
+93
+00:03:20,480 --> 00:03:22,200
+mehrere Möglichkeiten, einen Winkel
+
+94
+00:03:22,200 --> 00:03:24,080
+zu messen. Man misst ihn aber fast
+
+95
+00:03:24,080 --> 00:03:26,240
+immer in Grad. Es gibt auch noch
+
+96
+00:03:26,240 --> 00:03:28,360
+andere Einheiten oder Möglichkeiten
+
+97
+00:03:28,360 --> 00:03:30,800
+zu messen. Man nutzt aber fast immer
+
+98
+00:03:30,800 --> 00:03:34,120
+die Einheit Grad. Das heißt, dass der
+
+99
+00:03:34,120 --> 00:03:36,860
+komplette Vollkreis 360 Grad hat.
+
+100
+00:03:39,560 --> 00:03:41,400
+Damit wären wir nämlich auch schon
+
+101
+00:03:41,400 --> 00:03:42,700
+gleich bei der nächsten Folie, und
+
+102
+00:03:42,700 --> 00:03:45,440
+zwar verschiedene Winkel. Und zwar,
+
+103
+00:03:45,520 --> 00:03:49,380
+je nach Gradzahl unterscheidet man
+
+104
+00:03:49,380 --> 00:03:50,960
+Winkelarten. Wir haben hier erstmal
+
+105
+00:03:50,960 --> 00:03:52,720
+die vier wichtigsten Winkelarten
+
+106
+00:03:52,720 --> 00:03:54,380
+aufgeschrieben. Das ist einmal ein
+
+107
+00:03:54,380 --> 00:03:56,840
+spitzer Winkel. Der heißt so, weil er
+
+108
+00:03:56,840 --> 00:03:59,840
+hier spitz ist. Das heißt, wir haben
+
+109
+00:03:59,840 --> 00:04:02,120
+einen Winkel zwischen 0 und kleiner
+
+110
+00:04:02,120 --> 00:04:05,940
+90°. Wichtig, kleiner 90°. Denn der
+
+111
+00:04:05,940 --> 00:04:07,980
+90° Winkel ist ein besonderer Winkel.
+
+112
+00:04:08,180 --> 00:04:09,880
+Das ist der sogenannte rechte Winkel.
+
+113
+00:04:09,900 --> 00:04:11,500
+Der rechte Winkel wird auch kenntlich
+
+114
+00:04:11,500 --> 00:04:12,760
+gemacht durch den Punkt hier drin.
+
+115
+00:04:12,760 --> 00:04:16,400
+das heißt immer wenn ihr seht ihr
+
+116
+00:04:16,400 --> 00:04:17,760
+habt hier zwei graden die sich
+
+117
+00:04:17,760 --> 00:04:20,720
+schneiden oder zwei strecken und dort
+
+118
+00:04:20,720 --> 00:04:21,880
+ist dann so ein viertelkreis
+
+119
+00:04:21,880 --> 00:04:23,340
+eingebaut mit punkt drin wisst ihr
+
+120
+00:04:23,340 --> 00:04:24,900
+automatisch das ist ein rechter
+
+121
+00:04:24,900 --> 00:04:27,720
+winkel der wird so gekennzeichnet das
+
+122
+00:04:27,720 --> 00:04:29,280
+heißt dann automatisch dass das 90
+
+123
+00:04:29,280 --> 00:04:32,200
+grad sind danach gibt es noch den
+
+124
+00:04:32,200 --> 00:04:34,840
+stumpfen winkel dieser geht von für
+
+125
+00:04:34,840 --> 00:04:37,360
+winkel größer 90 grad bis zu den
+
+126
+00:04:37,360 --> 00:04:39,600
+winkel die kleiner als 180 grad sind
+
+127
+00:04:39,600 --> 00:04:41,880
+das sieht dann ganz ganz sieht dann
+
+128
+00:04:41,880 --> 00:04:43,860
+so aus also dass hier werden ja 90
+
+129
+00:04:43,860 --> 00:04:46,860
+und er geht dann alles was hier so
+
+130
+00:04:46,860 --> 00:04:49,320
+ist also was stumpf ist wenn man sich
+
+131
+00:04:49,320 --> 00:04:52,320
+die ecke hier anguckt der 180 grad
+
+132
+00:04:52,320 --> 00:04:53,880
+winkel wird übrigens gestreckter
+
+133
+00:04:53,880 --> 00:04:56,840
+winkel genannt der fehlt hier gerade
+
+134
+00:04:56,840 --> 00:04:58,360
+wir sehen jetzt nämlich als nächstes
+
+135
+00:04:58,360 --> 00:05:01,420
+den über stumpfen winkel für ein
+
+136
+00:05:01,420 --> 00:05:04,120
+winkel größer 180 grad und kleiner
+
+137
+00:05:04,120 --> 00:05:05,960
+360 grad das heißt es ist alles
+
+138
+00:05:05,960 --> 00:05:07,660
+zwischen wenn wir hier so eine
+
+139
+00:05:07,660 --> 00:05:09,920
+komplette gerade hätten und einmal
+
+140
+00:05:09,920 --> 00:05:13,840
+ganz rum ja das ist dann der über
+
+141
+00:05:13,840 --> 00:05:16,560
+stumpfe winkel also ist eigentlich
+
+142
+00:05:16,560 --> 00:05:17,680
+wenn man so möchte einen stumpfer
+
+143
+00:05:17,680 --> 00:05:19,980
+winkel in die andere richtung kleiner
+
+144
+00:05:21,420 --> 00:05:22,880
+tipp wenn ihr so was mal zeichnen
+
+145
+00:05:22,880 --> 00:05:24,600
+muss zeichnen sollte also mit dem
+
+146
+00:05:24,600 --> 00:05:26,780
+geodreieck ist es noch einfacher den
+
+147
+00:05:26,780 --> 00:05:27,980
+winkel von hier zu messen den
+
+148
+00:05:27,980 --> 00:05:33,480
+gegenwinkel und damit werden wir auch
+
+149
+00:05:33,480 --> 00:05:37,320
+schon bei kreisen ein kreis zeichnet
+
+150
+00:05:37,320 --> 00:05:39,700
+sich dadurch aus dass er von seinem
+
+151
+00:05:39,700 --> 00:05:42,200
+mittelpunkt m weg einen konstanten
+
+152
+00:05:42,200 --> 00:05:43,900
+abstand hat zu seinen äußerungen ja
+
+153
+00:05:43,900 --> 00:05:46,040
+und dieser abstand ist immer der
+
+154
+00:05:46,040 --> 00:05:48,180
+radius der radius wird immer vom
+
+155
+00:05:48,180 --> 00:05:50,980
+mittelpunkt zum umfang gemessen also
+
+156
+00:05:50,980 --> 00:05:53,340
+Also das hier rum ist der Umfang. Und
+
+157
+00:05:53,340 --> 00:05:55,880
+egal von wo wir vom Umfang zum
+
+158
+00:05:55,880 --> 00:05:57,840
+Mittelpunkt messen, wir haben immer
+
+159
+00:05:57,840 --> 00:06:00,860
+den Radius dort. Und das ist die
+
+160
+00:06:00,860 --> 00:06:02,980
+Eigenschaft, dass man vom Mittelpunkt
+
+161
+00:06:02,980 --> 00:06:04,760
+einen festen Abstand hat, nämlich den
+
+162
+00:06:04,760 --> 00:06:05,540
+Radius.
+
+163
+00:06:07,980 --> 00:06:09,700
+Neben dem Radius und dem Mittelpunkt
+
+164
+00:06:09,700 --> 00:06:10,980
+gibt es auch noch den Durchmesser d.
+
+165
+00:06:11,140 --> 00:06:13,520
+Immer wenn man Kreise zeichnen soll,
+
+166
+00:06:13,700 --> 00:06:16,180
+wird einem entweder der Radius
+
+167
+00:06:16,180 --> 00:06:17,540
+gegeben oder der Durchmesser. Dort
+
+168
+00:06:17,540 --> 00:06:20,580
+ist wirklich Obacht geboten, dass man
+
+169
+00:06:20,580 --> 00:06:21,920
+das nicht miteinander verwechselt,
+
+170
+00:06:21,920 --> 00:06:23,560
+denn der Durchmesser ist immer
+
+171
+00:06:23,560 --> 00:06:29,560
+doppelt so groß wie der Radius. Der
+
+172
+00:06:29,560 --> 00:06:31,500
+Durchmesser ist nämlich die Strecke
+
+173
+00:06:31,500 --> 00:06:33,920
+vom Randpunkt durch den Mittelpunkt
+
+174
+00:06:33,920 --> 00:06:37,860
+durch bis zum Randpunkt wieder. Und
+
+175
+00:06:37,860 --> 00:06:40,220
+genau von hier bis hier ist es ja der
+
+176
+00:06:40,220 --> 00:06:43,600
+Radius. Und von hier bis hier ist es
+
+177
+00:06:43,600 --> 00:06:45,020
+wieder der Radius. Das heißt, der
+
+178
+00:06:45,020 --> 00:06:47,320
+Durchmesser ist genau doppelt so groß
+
+179
+00:06:47,320 --> 00:06:49,100
+wie der Radius. Und wenn ihr mal
+
+180
+00:06:49,100 --> 00:06:50,800
+einen Kreis zeichnen sollt, achtet
+
+181
+00:06:50,800 --> 00:06:52,820
+darauf, weil es wird bestimmt
+
+182
+00:06:52,820 --> 00:06:54,440
+manchmal euch der Radius gegeben und
+
+183
+00:06:54,440 --> 00:06:56,400
+manchmal der Durchmesser. Wenn ihr
+
+184
+00:06:56,400 --> 00:06:58,260
+euren Zirkel einstellt, stellt ihr
+
+185
+00:06:58,260 --> 00:06:59,540
+euren Zirkel ja auch immer auf den
+
+186
+00:06:59,540 --> 00:07:01,180
+Radius ein. Das heißt, ihr stecht im
+
+187
+00:07:01,180 --> 00:07:03,740
+Mittelpunkt ein und zieht den Zirkel
+
+188
+00:07:03,740 --> 00:07:06,820
+dann so rum. das heißt die länge die
+
+189
+00:07:06,820 --> 00:07:08,980
+auf einen zirkel einstellt ist immer
+
+190
+00:07:08,980 --> 00:07:13,010
+der radius wie gerade schon gesagt
+
+191
+00:07:13,010 --> 00:07:14,930
+außen um den kreise rum ist der
+
+192
+00:07:14,930 --> 00:07:18,290
+umfang das ist wie gesagt die länge
+
+193
+00:07:18,290 --> 00:07:20,850
+der kreisbahn und diese kann
+
+194
+00:07:20,850 --> 00:07:22,750
+berechnet werden durch den
+
+195
+00:07:22,750 --> 00:07:25,570
+durchmesser mal p ist die kreiszahl
+
+196
+00:07:25,570 --> 00:07:28,010
+gibt nichts weiter an als das
+
+197
+00:07:28,010 --> 00:07:31,490
+verhältnis zwischen dem umfang und
+
+198
+00:07:31,490 --> 00:07:35,570
+dem durchmesser und damit wären wir
+
+199
+00:07:35,570 --> 00:07:37,550
+auch schon am Ende des Webinars. Ich
+
+200
+00:07:37,550 --> 00:07:39,270
+bedanke mich recht herzlich für eure
+
+201
+00:07:39,270 --> 00:07:40,190
+Aufmerksamkeit.
+

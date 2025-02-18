@@ -1,0 +1,416 @@
+1
+00:00:03,980 --> 00:00:06,120
+Hallo, mein Name ist Paula und ich
+
+2
+00:00:06,120 --> 00:00:07,560
+bin Nachhilfelehrerin bei der
+
+3
+00:00:07,560 --> 00:00:09,680
+Schülerhilfe. Heute möchte ich dir
+
+4
+00:00:09,680 --> 00:00:11,440
+erklären, was es in der Chemie mit
+
+5
+00:00:11,440 --> 00:00:12,740
+der Carbonsäure und der
+
+6
+00:00:12,740 --> 00:00:14,920
+Carboxylgruppe auf sich hat. In
+
+7
+00:00:14,920 --> 00:00:16,760
+unserem Online-Lerncenter steht dir
+
+8
+00:00:16,760 --> 00:00:18,320
+zu diesem Thema natürlich auch ein
+
+9
+00:00:18,320 --> 00:00:20,420
+Wiki zur Verfügung, in dem dir die
+
+10
+00:00:20,420 --> 00:00:21,980
+grundlegenden und wichtigen Begriffe
+
+11
+00:00:21,980 --> 00:00:25,400
+genauer erklärt werden. Ohne es zu
+
+12
+00:00:25,400 --> 00:00:27,560
+wissen, begegnen wir Carbonsäuren im
+
+13
+00:00:27,560 --> 00:00:29,860
+Alltag sehr oft, Zum Beispiel in Form
+
+14
+00:00:29,860 --> 00:00:31,560
+von Essigsäure zum Entfernen von
+
+15
+00:00:31,560 --> 00:00:34,160
+Kalk. Oder als Teil unserer Nahrung.
+
+16
+00:00:34,440 --> 00:00:36,700
+Fettsäuren, Milchsäure, Zitronensäure
+
+17
+00:00:36,700 --> 00:00:40,100
+oder Apfelsäure. Aber auch der
+
+18
+00:00:40,100 --> 00:00:41,640
+unangenehme Schweißgeruch hängt mit
+
+19
+00:00:41,640 --> 00:00:44,240
+ihnen zusammen. Karbonsäuren sind
+
+20
+00:00:44,240 --> 00:00:47,020
+Teil der organischen Chemie. Ihre
+
+21
+00:00:47,020 --> 00:00:48,800
+Hauptkörper setzen sich demnach aus
+
+22
+00:00:48,800 --> 00:00:50,380
+Kohlenstoff und Wasserstoff zusammen.
+
+23
+00:00:50,380 --> 00:00:52,760
+Bei der Beschreibung der Moleküle
+
+24
+00:00:52,760 --> 00:00:54,540
+werden demnach bereits vertraute
+
+25
+00:00:54,540 --> 00:00:55,840
+Begriffe wie Kettenstruktur,
+
+26
+00:00:56,080 --> 00:00:57,940
+Ringstruktur, gesättigte und
+
+27
+00:00:57,940 --> 00:01:00,020
+ungesättigte Verbindungen und Monodi-
+
+28
+00:01:00,020 --> 00:01:02,480
+oder Trikarbonsäuren verwendet. Doch
+
+29
+00:01:02,480 --> 00:01:04,000
+was genau unterscheidet jetzt eine
+
+30
+00:01:04,000 --> 00:01:05,380
+Karbonsäure von reinen
+
+31
+00:01:05,380 --> 00:01:08,580
+Kohlenwasserstoffen? Karbonsäuren
+
+32
+00:01:08,580 --> 00:01:10,840
+haben mindestens eine Karboxylgruppe.
+
+33
+00:01:11,440 --> 00:01:13,180
+Die Karboxylgruppe ist eine
+
+34
+00:01:13,180 --> 00:01:14,680
+funktionelle Gruppe mit der
+
+35
+00:01:14,680 --> 00:01:17,800
+Summenformel COOH. Bei der
+
+36
+00:01:17,800 --> 00:01:20,140
+Nomenklatur erfolgt die Benennung auf
+
+37
+00:01:20,140 --> 00:01:21,680
+der Grundlage des jeweiligen
+
+38
+00:01:21,680 --> 00:01:23,440
+Kohlenwasserstoffs, auf dem die
+
+39
+00:01:23,440 --> 00:01:26,280
+Carbonsäure basiert ist. Demnach gilt
+
+40
+00:01:26,280 --> 00:01:30,060
+Methan wird zu Methansäure, Propen
+
+41
+00:01:30,060 --> 00:01:33,100
+wird zu Propensäure und Butin wird zu
+
+42
+00:01:33,100 --> 00:01:35,900
+Butinsäure. Der Aufbau der
+
+43
+00:01:35,900 --> 00:01:37,760
+Carboxylgruppe beeinflusst die
+
+44
+00:01:37,760 --> 00:01:39,300
+chemischen Eigenschaften der
+
+45
+00:01:39,300 --> 00:01:41,360
+Carbonsäure erheblich. Wir schauen
+
+46
+00:01:41,360 --> 00:01:43,040
+uns zur Verdeutlichung einmal einen
+
+47
+00:01:43,040 --> 00:01:45,200
+Vergleich zwischen Propan, Propanol
+
+48
+00:01:45,200 --> 00:01:47,880
+und Propansäure an. Propan und
+
+49
+00:01:47,880 --> 00:01:49,440
+Propanol unterscheiden sich beim
+
+50
+00:01:49,440 --> 00:01:51,340
+Aufbau durch ein zusätzliches
+
+51
+00:01:51,340 --> 00:01:53,200
+Sauerstoffatom aufgrund der
+
+52
+00:01:53,200 --> 00:01:54,800
+Hydroxygruppe des Alkohols.
+
+53
+00:01:55,860 --> 00:01:57,540
+Propansäure hat ein weiteres
+
+54
+00:01:57,540 --> 00:01:59,720
+zusätzliches Sauerstoffatom, büßt
+
+55
+00:01:59,720 --> 00:02:02,660
+aber zwei Wasserstoffatome ein. Für
+
+56
+00:02:02,660 --> 00:02:04,200
+die Molmasse ergeben sich damit
+
+57
+00:02:04,200 --> 00:02:06,640
+Unterschiede von 16 Gramm pro Mol und
+
+58
+00:02:06,640 --> 00:02:09,320
+14 Gramm pro Mol. Die Molmassen
+
+59
+00:02:09,320 --> 00:02:10,280
+liegen liegen also recht dicht
+
+60
+00:02:10,280 --> 00:02:12,720
+beieinander. Beim Schmelzpunkt
+
+61
+00:02:12,720 --> 00:02:15,540
+ergeben sich größere Unterschiede. So
+
+62
+00:02:15,540 --> 00:02:17,400
+steigt der Schmelzpunkt von Propan zu
+
+63
+00:02:17,400 --> 00:02:21,780
+Propanol um 62°C an. Von Propanol zu
+
+64
+00:02:21,780 --> 00:02:24,040
+Propansäure liegt der Anstieg sogar
+
+65
+00:02:24,040 --> 00:02:27,740
+bei 105°C. Beim Siedepunkt erfolgt
+
+66
+00:02:27,740 --> 00:02:31,460
+zuerst ein Sprung von 139°C und dann
+
+67
+00:02:31,460 --> 00:02:35,340
+ein kleiner Schritt von 44,2°C. Der
+
+68
+00:02:35,340 --> 00:02:37,040
+Grund für diese großen Unterschiede
+
+69
+00:02:37,040 --> 00:02:38,840
+im Vergleich zum Propan ist die
+
+70
+00:02:38,840 --> 00:02:40,620
+Möglichkeit, intermolekulare
+
+71
+00:02:40,620 --> 00:02:42,360
+Wasserstoffbrückenbindungen aufgrund
+
+72
+00:02:42,360 --> 00:02:43,520
+der funktionellen Gruppen
+
+73
+00:02:43,520 --> 00:02:46,260
+auszubilden. Als letztes noch ein
+
+74
+00:02:46,260 --> 00:02:49,480
+Vergleich der PKS-Werte. Der PKS-Wert
+
+75
+00:02:49,480 --> 00:02:51,000
+ist der negative dekadische
+
+76
+00:02:51,000 --> 00:02:53,780
+Logarithmus der Säurekonstante. Es
+
+77
+00:02:53,780 --> 00:02:55,520
+gilt daher, je geringer der Wert,
+
+78
+00:02:55,640 --> 00:02:58,260
+desto stärker die Säure. In Worten
+
+79
+00:02:58,260 --> 00:03:00,180
+bedeuten die Zahlen, dass Propansäure
+
+80
+00:03:00,180 --> 00:03:02,240
+immerhin als mittelstarke Säure
+
+81
+00:03:02,240 --> 00:03:05,340
+kategorisiert wird. Grund dafür ist,
+
+82
+00:03:05,400 --> 00:03:06,760
+dass sich dank der Sauerstoff
+
+83
+00:03:06,760 --> 00:03:08,420
+-Doppelbindung die Elektronenbildung
+
+84
+00:03:08,420 --> 00:03:10,920
+der Hydroxygruppe polarisiert und
+
+85
+00:03:10,920 --> 00:03:12,500
+sich das Proton leichter lösen kann.
+
+86
+00:03:13,300 --> 00:03:14,940
+Ich fasse dir die wichtigsten Punkte
+
+87
+00:03:14,940 --> 00:03:17,640
+noch einmal zusammen. Carbonsäuren
+
+88
+00:03:17,640 --> 00:03:19,280
+sind Kohlenwasserstoffe mit
+
+89
+00:03:19,280 --> 00:03:22,260
+mindestens einer Carboxylgruppe. Die
+
+90
+00:03:22,260 --> 00:03:24,220
+Namensgebung orientiert sich an dem
+
+91
+00:03:24,220 --> 00:03:25,600
+entsprechenden Kohlenwasserstoff.
+
+92
+00:03:26,580 --> 00:03:28,860
+Durch die Carboxylgruppe besitzen
+
+93
+00:03:28,860 --> 00:03:30,560
+Carbonsäuren höhere Schmelz- und
+
+94
+00:03:30,560 --> 00:03:32,220
+Siedepunkte als vergleichbare
+
+95
+00:03:32,220 --> 00:03:34,900
+Moleküle sowie eine höhere Acidität.
+
+96
+00:03:35,880 --> 00:03:37,360
+Ich hoffe, dass ich dir helfen
+
+97
+00:03:37,360 --> 00:03:39,060
+konnte, Carbonsäuren und die
+
+98
+00:03:39,060 --> 00:03:40,760
+Carboxylgruppe besser zu verstehen.
+
+99
+00:03:41,260 --> 00:03:43,080
+Wenn du noch Fragen zu diesem oder
+
+100
+00:03:43,080 --> 00:03:44,820
+anderen Themen hast, nutze gerne
+
+101
+00:03:44,820 --> 00:03:47,140
+unsere weiteren Lerninhalte im Online
+
+102
+00:03:47,140 --> 00:03:49,160
+-Lerncenter oder wende dich an deine
+
+103
+00:03:49,160 --> 00:03:51,060
+Schülerhilfe vor Ort. Bis zum
+
+104
+00:03:51,060 --> 00:03:51,520
+nächsten Mal!
+

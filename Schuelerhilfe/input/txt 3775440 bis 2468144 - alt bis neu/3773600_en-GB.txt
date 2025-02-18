@@ -1,0 +1,1571 @@
+﻿1
+00:00:00,690 --> 00:00:02,870
+Hello and welcome to the 
+
+2
+00:00:02,870 --> 00:00:05,310
+Schülerhilfe webinar. I'm 
+
+3
+00:00:05,310 --> 00:00:07,750
+Serena and today we're talking about 
+
+4
+00:00:07,750 --> 00:00:11,510
+bodies. First of all, I'd 
+
+5
+00:00:11,510 --> 00:00:13,530
+like to ask you what 
+
+6
+00:00:13,530 --> 00:00:14,790
+level of chaser you are. 
+
+7
+00:00:18,810 --> 00:00:22,910
+Exactly. Okay, so very, very important 
+
+8
+00:00:22,910 --> 00:00:25,230
+first. It's important to me that you 
+
+9
+00:00:25,230 --> 00:00:28,850
+walk out of the webinar 
+
+10
+00:00:28,850 --> 00:00:31,350
+having learned something and 
+
+11
+00:00:31,350 --> 00:00:33,110
+having fully understood everything. That 
+means 
+
+12
+00:00:33,110 --> 00:00:35,490
+that you' 
+
+13
+00:00:35,490 --> 00:00:38,470
+re welcome to ask questions at any point 
+or, 
+
+14
+00:00:38,490 --> 00:00:40,470
+if you want me to 
+
+15
+00:00:40,470 --> 00:00:42,210
+repeat something or we 
+
+16
+00:00:42,210 --> 00:00:44,590
+do an assignment again , then 
+
+17
+00:00:44,590 --> 00:00:46,490
+please just let me know. I'm open to 
+
+18
+00:00:46,490 --> 00:00:49,910
+anything. Right, then I'd 
+
+19
+00:00:49,910 --> 00:00:53,650
+say let's get started. As I said, I 
+
+20
+00:00:53,650 --> 00:00:55,950
+'m Serena. I've been working at 
+
+21
+00:00:55,950 --> 00:00:59,070
+Schülerhilfe since June and I'm 
+
+22
+00:00:59,070 --> 00:01:00,870
+also studying law and 
+
+23
+00:01:00,870 --> 00:01:04,590
+political science. So 
+
+24
+00:01:04,590 --> 00:01:06,510
+today we're going to start with the 
+bodies. 
+
+25
+00:01:06,510 --> 00:01:08,270
+First of all, we're going to discuss the 
+
+26
+00:01:08,270 --> 00:01:11,310
+cone, then the sphere and then the 
+
+27
+00:01:11,310 --> 00:01:12,370
+pyramid. 
+
+28
+00:01:14,880 --> 00:01:17,480
+So, our first solid, the cone. 
+
+29
+00:01:18,860 --> 00:01:21,180
+With the cone, the 
+
+30
+00:01:21,180 --> 00:01:25,260
+circle 
+
+31
+00:01:25,260 --> 00:01:27,980
+is used as our base. The tip lies 
+centrally 
+
+32
+00:01:27,980 --> 00:01:30,080
+above the center of the circle and the 
+
+33
+00:01:30,080 --> 00:01:31,880
+lateral surface connects the 
+
+34
+00:01:31,880 --> 00:01:35,460
+tip and the base. 
+
+35
+00:01:35,460 --> 00:01:38,160
+The volume of the cone is one 
+
+36
+00:01:38,160 --> 00:01:40,100
+third of the volume of a cylinder 
+
+37
+00:01:40,100 --> 00:01:42,960
+and our formula looks 
+
+38
+00:01:42,960 --> 00:01:45,400
+like this. So V equals 
+
+39
+00:01:45,400 --> 00:01:50,180
+one third Pi times R to the power of 2 
+times H. Since 
+
+40
+00:01:50,180 --> 00:01:52,640
+we only 
+
+41
+00:01:52,640 --> 00:01:56,700
+want one third of the volume of the 
+cylinder for the cone, 
+
+42
+00:01:57,320 --> 00:01:59,700
+so to speak, we have to 
+
+43
+00:01:59,700 --> 00:02:03,160
+insert one third in front of it. Now the 
+
+44
+00:02:03,160 --> 00:02:04,880
+surface of the cone. This 
+
+45
+00:02:04,880 --> 00:02:09,140
+consists of a circle as the base surface 
+and 
+
+46
+00:02:09,140 --> 00:02:11,360
+the lateral surface. So once here, 
+
+47
+00:02:11,520 --> 00:02:14,020
+this is our base surface and 
+
+48
+00:02:14,020 --> 00:02:16,580
+this is our lateral surface. 
+
+49
+00:02:16,580 --> 00:02:18,360
+The lateral surface is a 
+
+50
+00:02:18,360 --> 00:02:21,180
+section of a circle, as you can see here. 
+
+51
+00:02:21,280 --> 00:02:22,880
+So you can see the 
+
+52
+00:02:22,880 --> 00:02:25,440
+lateral surface unfolded here and this is 
+
+53
+00:02:25,440 --> 00:02:27,600
+just a section of a circle, because 
+
+54
+00:02:27,600 --> 00:02:28,900
+a circle would actually 
+
+55
+00:02:28,900 --> 00:02:32,680
+continue here. Exactly. So, the 
+
+56
+00:02:32,680 --> 00:02:34,100
+base area is calculated 
+
+57
+00:02:34,240 --> 00:02:37,060
+by multiplying pi times R to the power of 
+2. 
+
+58
+00:02:37,220 --> 00:02:39,200
+The lateral area, the formula looks 
+
+59
+00:02:39,200 --> 00:02:42,540
+like this, pi times R times S. And the 
+
+60
+00:02:42,540 --> 00:02:44,220
+total area, we then add 
+
+61
+00:02:44,220 --> 00:02:45,640
+the two areas that we 
+
+62
+00:02:45,640 --> 00:02:48,140
+have just calculated. So, 
+
+63
+00:02:48,180 --> 00:02:50,080
+that's where the formula comes from. 
+
+64
+00:02:50,080 --> 00:02:54,200
+Pi times R to the power of 2 plus Pi times 
+R times S. 
+
+65
+00:02:55,060 --> 00:02:57,800
+So S is the 
+
+66
+00:02:57,800 --> 00:03:03,680
+lateral surface, i.e. the length of the 
+
+67
+00:03:03,680 --> 00:03:06,420
+lateral surface, H is the height and R 
+
+68
+00:03:06,420 --> 00:03:10,560
+is the radius of the base surface, i.e. 
+
+69
+00:03:10,560 --> 00:03:14,520
+the circle. So, with the sphere. 
+
+70
+00:03:15,400 --> 00:03:17,580
+The properties of the sphere are such 
+
+71
+00:03:17,660 --> 00:03:20,600
+that a sphere is created by 
+
+72
+00:03:20,660 --> 00:03:22,460
+
+73
+00:03:22,460 --> 00:03:25,160
+rotating a circle around its own center. 
+
+74
+00:03:25,160 --> 00:03:27,420
+The only necessary quantities 
+
+75
+00:03:27,420 --> 00:03:31,100
+are the radius. Because the radius 
+
+76
+00:03:31,100 --> 00:03:33,100
+is the same here and here 
+
+77
+00:03:33,100 --> 00:03:35,780
+, here or here. So 
+
+78
+00:03:35,780 --> 00:03:36,700
+it's always the same, that's why 
+
+79
+00:03:36,700 --> 00:03:42,460
+we only need the size r. 
+
+80
+00:03:43,360 --> 00:03:45,300
+So, how do we calculate the 
+
+81
+00:03:45,300 --> 00:03:47,840
+surface area of a sphere? We 
+
+82
+00:03:47,840 --> 00:03:51,180
+calculate this by multiplying 4 times pi 
+
+83
+00:03:51,180 --> 00:03:54,420
+times r to the power of 2. The volume 
+
+84
+00:03:54,420 --> 00:03:57,560
+, on the other hand, we triple the 
+
+85
+00:03:57,560 --> 00:04:00,160
+whole thing, as we 
+
+86
+00:04:00,160 --> 00:04:04,180
+already did earlier with the volume of a 
+
+87
+00:04:04,180 --> 00:04:07,080
+cone. And that becomes 4 
+
+88
+00:04:07,080 --> 00:04:09,580
+thirds times pi times R to the power of 3. 
+Very 
+
+89
+00:04:09,580 --> 00:04:12,480
+important, why to the power of 3? Because 
+we 
+
+90
+00:04:12,480 --> 00:04:15,060
+have to go up once here, to the 
+
+91
+00:04:15,060 --> 00:04:18,780
+side there and down once. Because the 
+
+92
+00:04:18,780 --> 00:04:22,360
+volume is 
+
+93
+00:04:22,360 --> 00:04:23,860
+
+94
+00:04:23,860 --> 00:04:27,360
+multiplied by 3 side lengths and so the 
+whole thing 
+
+95
+00:04:27,360 --> 00:04:30,040
+becomes cubic. Cubic centimetres or 
+
+96
+00:04:30,040 --> 00:04:34,260
+cubic centimetres. So, then the 
+
+97
+00:04:34,260 --> 00:04:36,980
+pyramid. 
+
+98
+00:04:36,980 --> 00:04:39,840
+The base of the pyramid is shaped 
+
+99
+00:04:39,840 --> 00:04:43,600
+like a square. 
+
+100
+00:04:43,600 --> 00:04:45,100
+Just a moment, I'll make a quick note 
+
+101
+00:04:45,140 --> 00:04:46,620
+because that's a mistake. It shouldn 
+
+102
+00:04:46,620 --> 00:04:48,200
+'t be called a square, but a quadrilateral 
+
+103
+00:04:48,200 --> 00:04:52,400
+. Just a moment. On slide 
+
+104
+00:04:52,400 --> 00:04:52,600
+9, 
+
+105
+00:04:56,030 --> 00:04:59,330
+okay, good. Then it's also very 
+
+106
+00:04:59,330 --> 00:05:00,850
+important to emphasize that the 
+
+107
+00:05:00,850 --> 00:05:02,870
+lateral surface of this... is made up of 
+
+108
+00:05:02,870 --> 00:05:05,450
+triangles. So here we have 
+
+109
+00:05:05,450 --> 00:05:07,450
+the lateral surface, which is 
+
+110
+00:05:07,450 --> 00:05:08,550
+made up of these 
+
+111
+00:05:08,550 --> 00:05:11,130
+different triangles. 
+
+112
+00:05:13,130 --> 00:05:15,270
+Then we have the tip here 
+
+113
+00:05:15,270 --> 00:05:17,670
+and that's where all the 
+
+114
+00:05:17,670 --> 00:05:19,330
+lateral surfaces, i.e. all the 
+
+115
+00:05:19,330 --> 00:05:22,650
+triangles, meet and they end up here 
+
+116
+00:05:22,650 --> 00:05:25,750
+at the top , so to speak. So, how do you 
+calculate 
+
+117
+00:05:25,750 --> 00:05:27,130
+the volume of the pyramid? 
+
+118
+00:05:27,130 --> 00:05:29,450
+The volume is one third of the 
+
+119
+00:05:29,450 --> 00:05:32,010
+volume of a prism, because it 
+
+120
+00:05:32,010 --> 00:05:33,270
+still has the same base area. 
+
+121
+00:05:33,770 --> 00:05:35,510
+So, depending on the base area, 
+
+122
+00:05:35,510 --> 00:05:37,310
+different formulas have to be used to 
+
+123
+00:05:37,470 --> 00:05:39,990
+
+124
+00:05:39,990 --> 00:05:42,110
+calculate the volume of the pyramid. Here 
+we have the 
+
+125
+00:05:42,110 --> 00:05:45,190
+formula for this, 1 third times a of g 
+
+126
+00:05:45,190 --> 00:05:49,450
+times h. h is our height here, 
+
+127
+00:05:49,450 --> 00:05:51,410
+i.e. from the base 
+
+128
+00:05:51,410 --> 00:05:52,970
+at a right angle up to the 
+
+129
+00:05:52,970 --> 00:05:57,420
+top. So, then the top right 
+
+130
+00:05:57,420 --> 00:05:59,040
+content of the pyramid. How do 
+
+131
+00:05:59,040 --> 00:06:01,240
+we calculate this? It is very important to 
+mention in advance 
+
+132
+00:06:01,240 --> 00:06:04,200
+that, depending on the base area, there 
+
+133
+00:06:04,200 --> 00:06:05,740
+are different 
+
+134
+00:06:05,740 --> 00:06:08,200
+numbers of triangles as niches. 
+
+135
+00:06:09,180 --> 00:06:11,920
+So we can 
+
+136
+00:06:11,920 --> 00:06:16,420
+have a square here , i.e. a 
+
+137
+00:06:16,420 --> 00:06:19,520
+quadrilateral, and then have 
+
+138
+00:06:19,520 --> 00:06:22,240
+four triangles here, for example. 
+
+139
+00:06:22,240 --> 00:06:24,200
+But you can also have just three triangles 
+
+140
+00:06:24,200 --> 00:06:28,960
+or even more. 
+
+141
+00:06:29,200 --> 00:06:30,860
+In other words, a pyramid of squares 
+
+142
+00:06:30,860 --> 00:06:34,040
+here would have four competing 
+
+143
+00:06:34,040 --> 00:06:35,480
+equal triangles. 
+
+144
+00:06:36,500 --> 00:06:38,320
+Equal isosceles simply means that 
+
+145
+00:06:38,320 --> 00:06:39,840
+the two side lengths are equal. 
+
+146
+00:06:40,700 --> 00:06:44,820
+So, to 
+
+147
+00:06:44,820 --> 00:06:47,380
+calculate the area of the individual 
+triangle 
+
+148
+00:06:47,380 --> 00:06:50,040
+, you then have to 
+
+149
+00:06:50,040 --> 00:06:51,920
+calculate h of a times a by 2. 
+
+150
+00:06:54,900 --> 00:06:57,360
+So, a is this triangle. now 
+
+151
+00:06:57,360 --> 00:07:00,320
+calculate it. Then the lateral area of 
+
+152
+00:07:00,320 --> 00:07:01,560
+four triangles. How do we do this 
+
+153
+00:07:01,560 --> 00:07:04,560
+? We simply multiply it by 
+
+154
+00:07:04,560 --> 00:07:06,360
+four, because we 
+
+155
+00:07:06,360 --> 00:07:08,000
+have four triangles in this case. 
+
+156
+00:07:08,920 --> 00:07:10,600
+However, because we 
+
+157
+00:07:10,600 --> 00:07:12,400
+also have two at the bottom here , this is 
+shortened 
+
+158
+00:07:12,400 --> 00:07:13,480
+and only 
+
+159
+00:07:13,480 --> 00:07:15,800
+one two remains. So our 
+
+160
+00:07:15,800 --> 00:07:19,900
+formula derives 2 times h from a times the 
+
+161
+00:07:19,900 --> 00:07:26,040
+height of a and the length a . So, 
+
+162
+00:07:26,140 --> 00:07:27,780
+how do we calculate the 
+
+163
+00:07:27,780 --> 00:07:30,040
+base area? We 
+
+164
+00:07:30,040 --> 00:07:32,200
+simply have to multiply a by a. So 
+
+165
+00:07:32,200 --> 00:07:33,960
+a times a, because that is simply a 
+
+166
+00:07:33,960 --> 00:07:35,980
+square and we just have to 
+
+167
+00:07:35,980 --> 00:07:37,660
+
+168
+00:07:37,660 --> 00:07:39,520
+multiply the two side lengths together. 
+And 
+
+169
+00:07:39,520 --> 00:07:41,740
+then we arrive at the result a to the 
+power of 2. 
+
+170
+00:07:42,260 --> 00:07:44,220
+For the total area, it looks like 
+
+171
+00:07:44,360 --> 00:07:47,200
+the sum of the 
+
+172
+00:07:47,200 --> 00:07:48,680
+base length... lateral area. So 
+
+173
+00:07:48,680 --> 00:07:50,860
+once from this square here and 
+
+174
+00:07:50,860 --> 00:07:54,700
+from these four triangles. And the 
+
+175
+00:07:54,700 --> 00:07:56,180
+whole thing looks like this. So we 
+
+176
+00:07:56,180 --> 00:07:59,220
+add the two things together and 
+
+177
+00:07:59,220 --> 00:08:02,460
+get a to the power of 2 plus 2 times h 
+
+178
+00:08:02,460 --> 00:08:07,150
+from a times a. So now we have 
+
+179
+00:08:07,150 --> 00:08:10,490
+an example task here. A 
+
+180
+00:08:10,490 --> 00:08:12,110
+
+181
+00:08:12,110 --> 00:08:14,170
+
+182
+00:08:14,170 --> 00:08:16,490
+conical roof with a height of 
+
+183
+00:08:16,490 --> 00:08:19,690
+3 meters is to be placed on a cylindrical 
+tower with a circumference of 25 meters . 
+Now 
+
+184
+00:08:19,690 --> 00:08:21,410
+we want to 
+
+185
+00:08:21,410 --> 00:08:23,430
+calculate the volume of the roof space and 
+the area of the roof that 
+
+186
+00:08:23,430 --> 00:08:28,100
+can be seen from the outside. So 
+
+187
+00:08:28,100 --> 00:08:29,760
+we have just given 
+
+188
+00:08:30,000 --> 00:08:35,540
+the circumference 25 meters and the height 
+3 
+
+189
+00:08:35,540 --> 00:08:39,680
+meters. What do we have to do? 
+
+190
+00:08:39,680 --> 00:08:40,940
+First we have to 
+
+191
+00:08:40,940 --> 00:08:43,440
+calculate the radius of the cone. 
+
+192
+00:08:43,440 --> 00:08:49,080
+We do this by using the formula 
+
+193
+00:08:49,080 --> 00:08:51,320
+for the circumference and then 
+
+194
+00:08:51,320 --> 00:08:53,140
+simply transforming it. It 
+
+195
+00:08:53,140 --> 00:08:55,620
+looks like this: r equals u divided by 
+2pi. 
+
+196
+00:08:55,920 --> 00:08:58,360
+Then we 
+
+197
+00:08:58,360 --> 00:09:00,740
+insert all the known quantities, i.e. 25 
+meters in this case 
+
+198
+00:09:00,740 --> 00:09:02,400
+. We know 
+
+199
+00:09:02,520 --> 00:09:04,740
+that the circumference is this big and 
+
+200
+00:09:04,740 --> 00:09:06,520
+then divide it by 2pi 
+
+201
+00:09:06,520 --> 00:09:11,040
+to get 3.98 meters. Now 
+
+202
+00:09:11,040 --> 00:09:14,520
+
+203
+00:09:14,520 --> 00:09:16,620
+
+204
+00:09:16,620 --> 00:09:18,980
+that we have the radius, we want to 
+calculate the volume . The formula for the 
+
+205
+00:09:18,980 --> 00:09:22,520
+volume is 1 third times pi times R 
+
+206
+00:09:22,520 --> 00:09:26,420
+to the power of 2 times H and we then 
+
+207
+00:09:26,420 --> 00:09:30,040
+insert our newly known size, 
+
+208
+00:09:30,080 --> 00:09:31,520
+namely the radius, oh 
+
+209
+00:09:31,520 --> 00:09:32,820
+sorry, I'm just one 
+
+210
+00:09:32,820 --> 00:09:36,420
+back and also our other 
+
+211
+00:09:36,420 --> 00:09:39,720
+known size, namely the height, and 
+
+212
+00:09:39,720 --> 00:09:42,940
+then we get 49.76 
+
+213
+00:09:42,940 --> 00:09:47,220
+cubic meters as the volume. This means 
+that 
+
+214
+00:09:47,220 --> 00:09:50,000
+our volume of the roof space is approx. 49 
+
+215
+00:09:50,000 --> 00:09:55,280
+.76 m³. So now we have 
+
+216
+00:09:55,280 --> 00:09:56,680
+calculated the radius and 
+
+217
+00:09:56,680 --> 00:10:00,500
+the volume. Now 
+
+218
+00:10:00,500 --> 00:10:03,300
+we also want to 
+
+219
+00:10:03,300 --> 00:10:05,500
+calculate the area. However, 
+
+220
+00:10:05,500 --> 00:10:10,140
+because there is a 
+
+221
+00:10:10,140 --> 00:10:12,060
+right-extreme triangle in the cone 
+
+222
+00:10:12,060 --> 00:10:14,300
+, we can then 
+
+223
+00:10:14,300 --> 00:10:17,480
+
+224
+00:10:17,980 --> 00:10:20,840
+
+225
+00:10:20,840 --> 00:10:22,000
+calculate the side length, i.e. the roof 
+slope S, using the Pythagorean theorem . 
+
+226
+00:10:22,000 --> 00:10:23,840
+Here we have the height and the 
+
+227
+00:10:23,840 --> 00:10:26,680
+radius and can then 
+
+228
+00:10:26,680 --> 00:10:29,400
+easily calculate our length S. 
+
+229
+00:10:29,400 --> 00:10:31,040
+We do this by 
+
+230
+00:10:31,040 --> 00:10:34,040
+
+231
+00:10:34,040 --> 00:10:35,700
+
+232
+00:10:36,420 --> 00:10:41,780
+calculating S to the power of 2 as H to 
+the power of 2 plus R to the power of 2, 
+i.e. the typical Pythagorean theorem , 
+then we take a 
+
+233
+00:10:41,780 --> 00:10:43,220
+root over it so that we 
+
+234
+00:10:43,220 --> 00:10:45,880
+get rid of the power of 2, then 
+
+235
+00:10:45,880 --> 00:10:47,600
+insert our known quantities for this, 
+
+236
+00:10:47,660 --> 00:10:50,260
+once h and once r, and 
+
+237
+00:10:50,260 --> 00:10:54,560
+then we get 4.98 meters for S. So, 
+
+238
+00:10:54,560 --> 00:10:56,540
+with the help of the Pythagorean theorem , 
+we have 
+
+239
+00:10:56,720 --> 00:11:01,750
+calculated our roof pitch S. 
+
+240
+00:11:01,790 --> 00:11:03,830
+Now let's 
+
+241
+00:11:03,830 --> 00:11:05,910
+calculate the lateral surface area. The 
+area 
+
+242
+00:11:05,930 --> 00:11:07,710
+that is only seen from the outside. 
+
+243
+00:11:08,910 --> 00:11:11,510
+Our formula is pi times R 
+
+244
+00:11:11,510 --> 00:11:15,210
+times S. And we'll 
+
+245
+00:11:15,210 --> 00:11:18,810
+simply 
+
+246
+00:11:18,810 --> 00:11:20,730
+use the known values again. One is the 
+radius and 
+
+247
+00:11:20,730 --> 00:11:23,650
+the other is the roof slope S. 
+
+248
+00:11:23,650 --> 00:11:25,250
+We have just calculated these. 
+
+249
+00:11:25,250 --> 00:11:28,110
+And then we arrive at the result 
+
+250
+00:11:28,110 --> 00:11:34,030
+of 62.27 square meters. This means 
+
+251
+00:11:34,030 --> 00:11:35,630
+that the 
+
+252
+00:11:35,630 --> 00:11:40,650
+area visible from the outside is approx. 
+62.27 m². So 
+
+253
+00:11:40,650 --> 00:11:41,930
+this is our shell area. 
+
+254
+00:11:44,250 --> 00:11:45,530
+Now we have another 
+
+255
+00:11:45,530 --> 00:11:47,330
+example task. In this one, 
+
+256
+00:11:47,330 --> 00:11:49,190
+we want to 
+
+257
+00:11:49,190 --> 00:11:52,450
+
+258
+00:11:52,450 --> 00:11:55,390
+calculate the surface area and volume of a 
+20 m high square pyramid. 
+
+259
+00:11:55,390 --> 00:11:59,830
+The side length of the base is 6 m, so 
+
+260
+00:11:59,830 --> 00:12:03,230
+here a equals 6 m. And because 
+
+261
+00:12:03,230 --> 00:12:05,570
+the pyramid is square, as 
+
+262
+00:12:05,570 --> 00:12:09,230
+stated in the task, we know 
+
+263
+00:12:09,230 --> 00:12:12,310
+that all sides are the same length 
+
+264
+00:12:12,310 --> 00:12:14,970
+, i.e. all sides 
+
+265
+00:12:14,970 --> 00:12:20,810
+are 6 m each. So, the height is 20 m, 
+
+266
+00:12:21,350 --> 00:12:23,710
+i.e. from the base 
+
+267
+00:12:23,710 --> 00:12:25,510
+up at a right angle to the top 
+
+268
+00:12:25,510 --> 00:12:28,370
+is 20 m. What do we have to do now 
+
+269
+00:12:28,370 --> 00:12:30,590
+? Our first step is to 
+
+270
+00:12:30,850 --> 00:12:35,190
+calculate the volume. 
+
+271
+00:12:35,190 --> 00:12:37,270
+We know that the base area 
+
+272
+00:12:37,270 --> 00:12:40,570
+is a square. This means that we 
+
+273
+00:12:40,570 --> 00:12:42,890
+only have to calculate a to the power of 
+2, 
+
+274
+00:12:42,890 --> 00:12:47,550
+so 6 m to the power of 2 is 36 m². This 
+
+275
+00:12:47,550 --> 00:12:49,370
+means that our base area 
+
+276
+00:12:49,370 --> 00:12:54,730
+is 36 m². So, our formula for 
+
+277
+00:12:54,730 --> 00:12:59,090
+the volume of a pyramid is one 
+
+278
+00:12:59,090 --> 00:13:02,150
+third times a of g times h. Now 
+
+279
+00:13:02,150 --> 00:13:03,630
+we just use our known 
+
+280
+00:13:03,630 --> 00:13:05,210
+quantities, namely a times the 
+
+281
+00:13:05,210 --> 00:13:08,390
+base area, which is 36 
+
+282
+00:13:08,390 --> 00:13:10,810
+square meters, and a times the 20 meter 
+
+283
+00:13:10,810 --> 00:13:12,630
+height, which we already 
+
+284
+00:13:12,630 --> 00:13:16,310
+know from earlier. And that gives us 240 
+
+285
+00:13:16,310 --> 00:13:19,650
+cubic meters. This means that the 
+
+286
+00:13:19,650 --> 00:13:23,230
+volume of the pyramid is 240 m³. 
+
+287
+00:13:24,590 --> 00:13:28,110
+Now we also know that the 
+
+288
+00:13:28,110 --> 00:13:30,070
+surface area is 
+
+289
+00:13:30,070 --> 00:13:31,670
+
+290
+00:13:31,670 --> 00:13:35,190
+made up of the base area, i.e. the square 
+at the bottom, the base, and 
+
+291
+00:13:35,190 --> 00:13:37,070
+the lateral surface area, i.e. the 
+
+292
+00:13:37,070 --> 00:13:39,190
+outer perimeter, the triangles. 
+
+293
+00:13:41,670 --> 00:13:43,230
+We now also calculate 
+
+294
+00:13:43,310 --> 00:13:45,390
+how the base area 
+
+295
+00:13:45,390 --> 00:13:47,510
+is very, very square by 
+
+296
+00:13:47,510 --> 00:13:50,250
+simply taking the length to the power of 
+2. That 
+
+297
+00:13:50,250 --> 00:13:52,150
+'s in these voltex meters and that 
+
+298
+00:13:52,150 --> 00:13:57,530
+'s 36 square meters. The 
+
+299
+00:13:57,530 --> 00:13:59,170
+surface area is made up of the 4 
+
+300
+00:13:59,170 --> 00:14:01,130
+equal triangles. 
+
+301
+00:14:02,970 --> 00:14:06,050
+We now need the 
+
+302
+00:14:06,050 --> 00:14:08,150
+height of A, i.e. of these 
+
+303
+00:14:08,150 --> 00:14:12,410
+triangles. How do we do that? 
+
+304
+00:14:12,410 --> 00:14:15,630
+We do this by forming a 
+
+305
+00:14:15,630 --> 00:14:17,490
+right triangle within the 
+
+306
+00:14:17,490 --> 00:14:19,830
+pyramid, i.e. this one. Because 
+
+307
+00:14:19,830 --> 00:14:22,610
+we want this side, 
+
+308
+00:14:22,610 --> 00:14:25,050
+but we already have this one and this one, 
+because this 
+
+309
+00:14:25,050 --> 00:14:27,430
+is the height and this side 
+
+310
+00:14:27,430 --> 00:14:31,030
+is simply half of one 
+
+311
+00:14:31,030 --> 00:14:34,050
+of our sides of the base. It 
+
+312
+00:14:34,050 --> 00:14:36,610
+'s kind of like the radius. So once 
+
+313
+00:14:36,610 --> 00:14:39,110
+from here to the center. And 
+
+314
+00:14:39,110 --> 00:14:43,010
+logically that's 3 meters. This is 
+
+315
+00:14:43,010 --> 00:14:46,590
+our formula for it. We 
+
+316
+00:14:46,590 --> 00:14:47,950
+simply use the 
+
+317
+00:14:47,950 --> 00:14:50,970
+Pythagorean theorem again to 
+
+318
+00:14:50,970 --> 00:14:56,510
+calculate this length here. So h of a to 
+the power of 
+
+319
+00:14:56,510 --> 00:15:00,270
+2 equals 0.5 a to the power of 2 plus h to 
+the power of 2. 
+
+320
+00:15:00,810 --> 00:15:02,230
+Then we put the 
+
+321
+00:15:02,230 --> 00:15:04,050
+different sizes back in and 
+
+322
+00:15:04,050 --> 00:15:05,950
+get 
+
+323
+00:15:05,990 --> 00:15:10,370
+20.22 meters for this length here, i.e. h 
+of a. 
+
+324
+00:15:13,410 --> 00:15:16,640
+We can then use this size to 
+
+325
+00:15:16,640 --> 00:15:19,620
+
+326
+00:15:19,620 --> 00:15:21,100
+calculate the area of the triangle, i.e. a 
+triangle of the lateral surface. 
+
+327
+00:15:21,460 --> 00:15:25,120
+So, to calculate the triangle 
+
+328
+00:15:25,140 --> 00:15:26,120
+, we then put 
+
+329
+00:15:26,120 --> 00:15:29,560
+all the sizes back into this formula a 
+
+330
+00:15:29,560 --> 00:15:32,420
+times h of a by 2, which is our 
+
+331
+00:15:32,420 --> 00:15:34,380
+formula for calculating the 
+
+332
+00:15:34,380 --> 00:15:38,240
+triangle and then get 20.22 
+
+333
+00:15:38,240 --> 00:15:42,160
+meters. 6.6 square meters. Now 
+
+334
+00:15:42,160 --> 00:15:44,260
+we want to 
+
+335
+00:15:44,260 --> 00:15:47,460
+
+336
+00:15:47,460 --> 00:15:50,280
+calculate the lateral area and the total 
+surface area. How do we do that? We 
+
+337
+00:15:50,280 --> 00:15:53,140
+just do the lateral surface. 
+
+338
+00:15:53,160 --> 00:15:55,000
+We have to 
+
+339
+00:15:55,000 --> 00:15:56,820
+
+340
+00:15:56,820 --> 00:15:59,840
+calculate the lateral surface area by 
+
+341
+00:15:59,840 --> 00:16:01,740
+multiplying a triangle by 4, because there 
+are 4 
+
+342
+00:16:01,740 --> 00:16:04,080
+triangles, and then we arrive at 
+
+343
+00:16:04,080 --> 00:16:09,260
+the result of 242.64 square meters, 
+
+344
+00:16:09,260 --> 00:16:11,540
+which is the 
+
+345
+00:16:11,540 --> 00:16:16,600
+lateral surface area of the pyramid. Now 
+let's 
+
+346
+00:16:16,600 --> 00:16:17,960
+
+347
+00:16:17,960 --> 00:16:20,140
+calculate the total surface area. So we 
+
+348
+00:16:20,140 --> 00:16:21,320
+now have the lateral surface area, 
+
+349
+00:16:21,340 --> 00:16:22,960
+but we still need the base area. 
+
+350
+00:16:23,040 --> 00:16:24,580
+We've already 
+
+351
+00:16:24,580 --> 00:16:26,720
+calculated this before , so we 
+
+352
+00:16:26,720 --> 00:16:28,840
+just have to add it all together. So 
+
+353
+00:16:28,840 --> 00:16:31,160
+once the lateral surface area, i.e. the 
+
+354
+00:16:31,160 --> 00:16:33,800
+area of the lateral surface area plus 
+
+355
+00:16:33,800 --> 00:16:36,100
+the area of the base area. 
+
+356
+00:16:36,260 --> 00:16:38,480
+And then we arrive at the result of 
+
+357
+00:16:38,480 --> 00:16:43,640
+278.64 square meters. This means that 
+
+358
+00:16:43,720 --> 00:16:45,400
+the surface area of the 
+
+359
+00:16:45,400 --> 00:16:50,180
+entire pyramid is 278.64 square meters 
+
+360
+00:16:50,180 --> 00:16:54,230
+. So, that's all 
+
+361
+00:16:54,230 --> 00:16:56,010
+for today. I was very 
+
+362
+00:16:56,010 --> 00:16:57,890
+pleased that you were able to attend the 
+
+363
+00:16:57,890 --> 00:17:00,110
+webinar from Schülerhilfe. Do you have 
+
+364
+00:17:00,110 --> 00:17:01,270
+any more questions? 
+
+365
+00:17:06,910 --> 00:17:08,990
+Okay, if you don't have any more questions 
+
+366
+00:17:08,990 --> 00:17:10,870
+, then I'll say goodbye. 
+
+367
+00:17:10,890 --> 00:17:13,230
+I hope not today, but not before 
+
+368
+00:17:13,230 --> 00:17:14,470
+I 
+
+369
+00:17:14,470 --> 00:17:16,950
+refer you to the online learning center. 
+There you can 
+
+370
+00:17:16,950 --> 00:17:18,930
+
+371
+00:17:18,930 --> 00:17:22,050
+do exercises on this topic, but also on 
+other topics, and 
+
+372
+00:17:22,050 --> 00:17:23,670
+then also check yourself, 
+
+373
+00:17:23,810 --> 00:17:25,310
+because there are the corresponding 
+
+374
+00:17:25,310 --> 00:17:29,510
+solutions. There 
+
+375
+00:17:29,510 --> 00:17:31,610
+are, among other things, the subjects 
+math, as well as 
+
+376
+00:17:31,610 --> 00:17:33,770
+English and German. So 
+
+377
+00:17:33,770 --> 00:17:34,730
+feel free to 
+
+378
+00:17:34,730 --> 00:17:36,950
+drop by and work on a few 
+
+379
+00:17:36,950 --> 00:17:39,290
+worksheets there. 
+
+380
+00:17:39,290 --> 00:17:40,890
+Thank you very much for... your attention 
+and 
+
+381
+00:17:40,890 --> 00:17:43,870
+for being there. That was three 
+
+382
+00:17:43,870 --> 00:17:46,430
+different bodies for you. 
+
+383
+00:17:46,430 --> 00:17:47,890
+Have a nice evening and 
+
+384
+00:17:47,890 --> 00:17:49,250
+I'll say goodbye for today. 
+
+385
+00:17:49,730 --> 00:17:50,470
+Take care! 
