@@ -1,0 +1,139 @@
+Below is a list of topics/sections which are explicitly EXCLUDED (or included) from the written exam
+
+
+DISCLAIMER:
+¥ Although both the written and oral exams are comparable in the level of knowledge that is expected, the following only applies to the written exam, not to any oral examination.
+¥ While we try to be precise und fair there can be mistakes or ambiguities in our specifications below.
+¥ This list is only meant as a guide for your exam preparation. It is not a formal list of exam topics.
+¥ The LECTURES and the EXERCISE SHEETS make up the material that is relevant for the exam.
+¥ Is the tutorial material relevant for the exam? The tutorials are designed as a preparation for the exercise sheet and a recap of parts from the lecture. The very few sections in the tutorial that go beyond the lecture and exercise sheets are mentioned below.
+¥ The optional material at the end of the lecture slides is generally excluded.
+¥ If something is not explicitly excluded below, consider it relevant for the exam.
+
+
+LEGEND:
+¥ Numbers indicate lecture sections - deck of slides (e.g., 1.6.3 Long-term Dependencies)
+¥ Numbers with # refer to slide numbers within a deck of slides, not the PDF page. (Be careful: the way the slides are generated could lead to two successive slides sharing the same slide number)
+¥ If you read "excluding derivation of XYZ on #13":
+- This does NOT exclude the statement XYZ itself. Only the formal derivation is excluded,
+- by "on #13" we are highlighting a specific part in slide #13 and excluding it. This does NOT exclude the entire slide.
+
+
+The written exam:
+¥ The duration of the written exam is 90 minutes.
+¥ The only tool required and allowed is a pen that does not write in red.
+
+
+Explicitly EXCLUDED (or INLCUDED) from the written exam (i.e. will not be examined):
+
+1.1 Introduction:
+¥ no exclusions
+
+1.2 Connectionist Neurons:
+¥ You do NOT have to memorize the formula for the tanh function.
+¥ no further exclusions
+
+1.3 Multilayer Perceptron:
+¥ 1.3.5 The Back propagation Method:
+- Know how to apply the chain rule (e.g. #29)
+- You do NOT have to memorize the terms involving the local error (deltas), you should still know how to use them.
+- algorithm in #31, you do not have to memorize the formulas with the deltas. You still need to know the basic steps of the algorithm and how the gradients are computed.
+
+1.4 Additional topics:
+¥ 1.4.2 - On #10 "Adaptive momentum: the Polak-Ribiere rule", you do NOT have to memorize the formula for "smart momentum"/Polak-Ribiere rule
+¥ 1.4.3 - "Justification" [#14,#15]: the details are excluded BUT this does NOT exclude how to construct a good learning rate schedule, i.e., plateau, then, e.g., 1/t decay of learning rate (=> satisfies Robbins & Monro conditions)
+¥ 1.4.6 Bias and Variance:
+- the derivation of bias/variance decomposition is excluded. You should still know the result: bias^2 + var.
+¥ 1.4.7
+- On #41 "Early stopping as regularization", you do not have to memorize the modification to E^T at the bottom. It is sufficient to know that early stopping relates to weight decay. Know how to apply early stopping and that it is related to weight decay. How the "Why" and "how" both are related is excluded.
+¥ 1.4.8 #52 Deriving the gradient for multi-class cross entropy is excluded. BUT the derivation of the BINARY case is INCLUDED (see sheet 03)
+
+1.5: Deep Learning:
+¥ 1.5.2 #12 Deep Belief Networks are excluded.
+¥ 1.5.4 Convolutional layers:
+- On #22 You don't have to memorize the equations for 1D or 2D convolutions.
+- On #26 the equations for the total input h and delta are both excluded. We will also not ask you to derive either of them.
+
+1.6 RNNs:
+¥ 1.6.3 Long-term Dependencies:
+- On #17 Echo-state networks. Excluding the bottom part with r.
+¥ 1.6.4 Recurrent Architectures:
+- On #31 "Dynamic context selection": Excluding formulas
+
+1.7 RBF Networks:
+¥ 1.7.3 "RBF-networks and Regularization" [#21-#27] all excluded.
+Tutorial 08 (slides/notes links on ISIS are called tutorial 07) "Class Imbalance and RBF-Networks":
+¥ Under the section "Dealing with imbalanced data" (section 8.1 in the tutorial notes, tutorial slides [#3-#5]):
+- Relevant because of the imbalance encountered in exercise sheet 6-2 on RNNs, but with exclusions:
+- You should know how to construct a confusion matrix.
+- You should know how to calculate the prediction "accuracy" of a model. The formulas of the other metrics (e.g. precision, recall, F1 score) are excluded.
+¥ The subchapter "Short Excursion: Aspects of Fairness in MI" [#6-#10] from the RBF-tutorial is excluded.
+
+
+2.1 SLT:
+¥ 2.1.1:
+- On #11 "Asymptotic distribution": Don't memorize the formula for Pi_{p,N} (neither at the top, nor at the bottom of the last variant of the slide #11 with the integral)
+- On #12 "Capacity of the set of linear classifiers": Don't memorize the formula for Pi_{p,N} at the top
+- On #14 "Generalization performance (2)": Formulas excluded
+
+2.2 SVM:
+¥ 2.2.1 Structural Risk Minimization: 
+- On #3 you do not need no memorize the formula ON THE TOP (generalization bound for finite samples), but the idea behind it
+- The formula below the second bulletpoint on #3 (upper bound for generalization risk R[\vector{w}]) is INCLUDED
+¥ 2.2.2 Perceptrons Revisited: 
+- On #10 Don't memorize the inequality formula for d_VC BUT understand what it describes.
+¥ 2.2.3 Learning by Structural Risk Minimization:
+- [#13-#14] "The method of Lagrange multipliers": The details of the general method are excluded BUT applying it to the primal and dual problems and stating the Lagrangian for SVM, C-SVM, and SVR (see exercise on SVR and corresponding tutorial) is INCLUDED!!
+¥ 2.2.4 "SRM Learning for Non-linear Classification Boundaries":
+- Hint: We expect you to know the following about Mercer's theorem and the kernel trick:
+ The purpose of the transformation (i.e. [#22-#23] "Transformation of the feature space")
+ What individual elements in the kernel matrix represent (i.e. #24 "The kernel trick", #27 Induced feature space)
+ The kernel properties (the positive-semi definiteness is essentially the theorem)
+ Identifying a typical kernel function #28 and how it is used.
+¥ 2.2.5 "CSVM":
+- NO exclusions.
+¥ 2.2.6 SMO:
+- #43 "Reduced optimization problem" is excluded
+- On #44 the formula at the top (with the Q's and the C's) is excluded
+- Hint: What you should know about the SMO procedure is in [#41-#42] and "Remarks" #45.
+Having a sheet on SVR implies that SVR is INCLUDED in the exam. 
+Hint: Understanding SVM (especially C-SVM) can be carried over to using Structural Risk Minimization to solve a regression problem:
+¥ formulating the primal problem for SVR
+¥ going from the primal to the dual problem
+¥ understanding what the slack variables represent
+¥ relating the lambda values to the KKT conditions
+¥ dealing with the bias-variance tradeoff of an SVR similar to how it is done with a C-SVM
+
+3.1. Uncertainty and Inference: NO exclusions
+
+3.2. Bayesian Networks:
+¥ 3.2.2 Inference on Bipartite Trees:
+- On #22 You don't have to memorize the sum-product formulas, but you should be able to use them.
+¥ Hint:
+- Know how to construct a Bayesian Network and its corresponding factorization of the full joint distribution.
+- Know how to perform the steps from DAG to the final JT. Practice the different steps.
+- Know how to compute messages (applying the sum-product rule).
+- Know how to do inference using messages.
+
+3.3. Bayesian Inference and Neural Networks:
+¥ 3.3.1 "Generative Models":
+- On #6 "Common noise models: Minkowski noise": You do not have to memorize the formula for the noise distribution
+¥ 3.3.4 "Application: MLPs with Weight Decay":
+- On #19 "Choice of the prior": You do not have to memorize the "Solution using Lagrange multipliers" but you should be able to formulate a Lagrangian when given an objective function and constraints.
+¥ 3.3.5 "The maximum a posteriori Method":
+- On #26 You don't have to memorize the formulas of the Taylor expansions. It is sufficient to know up to what order.
+- #27 "The predictive distribution": is excluded
+- #28-29 "Example: MLP with weight decay" the formulas are excluded
+- #31 "Application: point prediction of attributes" is excluded.
+
+4.1. RL Valuation:
+¥ 4.1.6 Model-free Approaches: Batch Value Estimation:
+- #35-36 "Batch approximation of the Bellman operator (1)" and (2): you don't have to memorize the formulas but you should be able to recognize them.
+- #37-38 "Batch value estimation: Example" is excluded
+- On #39 "Comparison of batch and online value estimation" computational complexities are excluded
+
+4.2. RL Policy Learning: 
+¥ 4.2.3 Exploration vs. Exploitation: 
+- #19 "Model-based exploration E^3 and R-MAX" is excluded 
+¥ 4.2.5 Approximate Reinforcement Learning: 
+- On #32 "Policy Improvement": The pseudo-code of the NFQ algorithm is excluded.
